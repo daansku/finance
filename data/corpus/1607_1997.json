@@ -1,0 +1,1851 @@
+{
+  "statute": {
+    "id": "86e40796-6552-4ba1-a43e-e7a8d7d46b83",
+    "node_type": "Statute",
+    "publisher": "finlex",
+    "title": "Valtiovarainministeriön asetus luottolaitoksen ja sijoituspalveluyrityksen tilinpäätöksestä ja konsernitilinpäätöksestä",
+    "text": "Valtiovarainministeriön asetus luottolaitoksen ja sijoituspalveluyrityksen tilinpäätöksestä ja konsernitilinpäätöksestä",
+    "statute_id": "1607/1997",
+    "finlex_url": "https://finlex.fi/fi/laki/ajantasa/1607/1997"
+  },
+  "chapters": [
+    {
+      "id": "26bd3bba-663b-42d1-9dee-d932c09b6d88",
+      "node_type": "Chapter",
+      "publisher": "finlex",
+      "title": "Chapter 1",
+      "text": "1 luku Yleiset säännökset",
+      "chapter_number": 1,
+      "statute_id": "1607/1997"
+    },
+    {
+      "id": "d237bc71-e241-4d23-94c8-93c598d6b36a",
+      "node_type": "Chapter",
+      "publisher": "finlex",
+      "title": "Chapter 2",
+      "text": "2 luku Tuloslaskelma ja tase",
+      "chapter_number": 2,
+      "statute_id": "1607/1997"
+    },
+    {
+      "id": "87a5cca4-6521-4425-ad1a-e9be83936afa",
+      "node_type": "Chapter",
+      "publisher": "finlex",
+      "title": "Chapter 3",
+      "text": "3 luku Toimintakertomus",
+      "chapter_number": 3,
+      "statute_id": "1607/1997"
+    },
+    {
+      "id": "40489c38-ede5-4513-ae22-d43a5e9d9a40",
+      "node_type": "Chapter",
+      "publisher": "finlex",
+      "title": "Chapter 4",
+      "text": "4 luku Liitetiedot",
+      "chapter_number": 4,
+      "statute_id": "1607/1997"
+    },
+    {
+      "id": "32b717c1-2d00-4ce9-a706-754a23cab117",
+      "node_type": "Chapter",
+      "publisher": "finlex",
+      "title": "Chapter 5",
+      "text": "5 luku Konsernin tuloslaskelma ja tase",
+      "chapter_number": 5,
+      "statute_id": "1607/1997"
+    },
+    {
+      "id": "50d91635-530d-4bf2-9546-8b8ab1bdb85f",
+      "node_type": "Chapter",
+      "publisher": "finlex",
+      "title": "Chapter 6",
+      "text": "6 luku Konsernin toimintakertomus",
+      "chapter_number": 6,
+      "statute_id": "1607/1997"
+    },
+    {
+      "id": "06a49afa-6aa0-4c25-af28-58677685262b",
+      "node_type": "Chapter",
+      "publisher": "finlex",
+      "title": "Chapter 7",
+      "text": "7 luku Konsernin liitetiedot",
+      "chapter_number": 7,
+      "statute_id": "1607/1997"
+    },
+    {
+      "id": "a348c1df-137c-47c5-8a1b-0fe4ed174504",
+      "node_type": "Chapter",
+      "publisher": "finlex",
+      "title": "Chapter 8",
+      "text": "8 luku Tase-erittelyt ja liitetietojen erittelyt",
+      "chapter_number": 8,
+      "statute_id": "1607/1997"
+    }
+  ],
+  "sections": [
+    {
+      "id": "e4c5c49c-b66f-4a13-89a5-531b9f7ba1e3",
+      "node_type": "Section",
+      "publisher": "finlex",
+      "title": "1 § Soveltamisala",
+      "text": "Tämä asetus koskee luottolaitoksen, sijoituspalveluyrityksen ja niiden konsolidointiryhmään kuuluvan rahoituslaitoksen (jäljempänä kirjanpitovelvollinen) tilinpäätöstä, sekä luottolaitoksen, sijoituspalveluyrityksen ja omistusyhteisön konsernitilinpäätöstä.",
+      "section_number": "1",
+      "chapter_number": 1,
+      "statute_id": "1607/1997"
+    },
+    {
+      "id": "a014f19a-4799-41f4-811c-d79bfaca64ab",
+      "node_type": "Section",
+      "publisher": "finlex",
+      "title": "2 § Tarkempien määräysten antaminen ja poikkeusten myöntäminen",
+      "text": "Rahoitustarkastus antaa luottolaitostoiminnasta annetun lain (1607/1993) 31 §:n 2 momentin nojalla tarkempia määräyksiä tässä asetuksessa tarkoitettujen tietojen esittämisestä. Rahoitustarkastus voi kirjanpitovelvollisen hakemuksesta myöntää luottolaitostoiminnasta annetun lain 31 §:n 4 momentin mukaisesti luvan poiketa tästä asetuksesta, jos se on tarpeen oikean ja riittävän kuvan antamiseksi kirjanpitovelvollisen toiminnan tuloksesta ja taloudellisesta asemasta.",
+      "section_number": "2",
+      "chapter_number": 1,
+      "statute_id": "1607/1997"
+    },
+    {
+      "id": "c0d99688-af70-4a1d-b72b-cc7cfa2db4d8",
+      "node_type": "Section",
+      "publisher": "finlex",
+      "title": "3 § Tuloslaskelma",
+      "text": "Luottolaitoksen ja muun pääasiallisena toimintanaan luottolaitostoiminnasta annetun lain 20 §:n 1 momentin 3 ja 4 kohdassa tarkoitettua toimintaa harjoittavan rahoituslaitoksen tuloslaskelma laaditaan liitteen 1 mukaisesti. Sijoituspalveluyrityksen ja rahoituslaitoksen, joka harjoittaa pääasiallisena toimintanaan arvopaperikauppaa omaan lukuun ja sijoituspalveluyrityksistä annetun lain (579/1996) 16 §:ssä tarkoitettua toimintaa, tuloslaskelma laaditaan liitteen 2 mukaisesti. Tuloveroista saadaan eritellä satunnaisista eristä johtuvat verot ja merkitä ne satunnaisten kulujen jälkeiseksi eräksi. Tällöin 1 momentin 17 kohdan ja 2 momentin 16 kohdan nimikkeenä on \"VOITTO \"TAPPIO\" SATUNNAISTEN ERIEN JÄLKEEN\". Tässä momentissa tarkoitettu erittely on tehtävä, jos satunnaisten tuottojen ja kulujen erotus on merkittävä.",
+      "section_number": "3",
+      "chapter_number": 2,
+      "statute_id": "1607/1997"
+    },
+    {
+      "id": "19ec4adb-f692-426f-932a-706af52c4819",
+      "node_type": "Section",
+      "publisher": "finlex",
+      "title": "4 § Taseen kaava",
+      "text": "Luottolaitoksen ja muun pääasiallisena toimintanaan luottolaitostoiminnasta annetun lain 20 §:n 1 momentin 3 ja 4 kohdassa tarkoitettua toimintaa harjoittavan rahoituslaitoksen tase laaditaan liitteen 3 mukaisesti. Sijoituspalveluyrityksen ja rahoituslaitoksen, joka harjoittaa pääasiallisena toimintanaan arvopaperikauppaa omaan lukuun ja sijoituspalveluyrityksistä annetun lain 16 §:ssä tarkoitettua toimintaa, tase laaditaan liitteen 4 mukaisesti. Omat osakkeet saadaan merkitä taseeseen, jos ne ovat arvopaperimarkkinalain (495/1989) 1 luvun 3 §:ssä tarkoitetun julkisen kaupankäynnin kohteena ja hankintamenoa vastaava määrä merkitään taseeseen jakokelvottomaksi eräksi vapaaseen omaan pääomaan. Vaadittaessa maksettavina saamisina ja velkoina pidetään saamisia ja velkoja, jotka on maksettava viimeistään vuorokauden kuluessa irtisanomisesta.",
+      "section_number": "4",
+      "chapter_number": 2,
+      "statute_id": "1607/1997"
+    },
+    {
+      "id": "72f4548c-f534-4e28-a00c-f2aaca5448cc",
+      "node_type": "Section",
+      "publisher": "finlex",
+      "title": "5 § Esittämistavan jatkuvuus",
+      "text": "Tuloslaskelman ja taseen esittämistapaa ei saa muuttaa, jollei siihen ole erityistä syytä.",
+      "section_number": "5",
+      "chapter_number": 2,
+      "statute_id": "1607/1997"
+    },
+    {
+      "id": "1a61bbd6-720e-4109-b3f8-3206ffde1c56",
+      "node_type": "Section",
+      "publisher": "finlex",
+      "title": "6 § Poikkeaminen tuloslaskelman ja taseen kaavasta",
+      "text": "Tuloslaskelma ja tase saadaan laatia 3 ja 4 §:stä poiketen jäljempänä 7―9 §:ssä säädetyin edellytyksin, jos poikkeaminen on tarpeen oikean ja riittävän kuvan antamiseksi kirjanpitovelvollisen taloudellisesta asemasta ja toiminnan tuloksesta.",
+      "section_number": "6",
+      "chapter_number": 2,
+      "statute_id": "1607/1997"
+    },
+    {
+      "id": "704a6188-abc5-467d-9047-2aee30d9a1f7",
+      "node_type": "Section",
+      "publisher": "finlex",
+      "title": "7 § Yksityiskohtaisempi esittäminen",
+      "text": "Tuloslaskelma ja tase on laadittava 3 ja 4 §:ssä säädettyjä kaavoja yksityiskohtaisempina, jos se on tarpeen tilikauden tuloksen muodostumiseen vaikuttaneiden tekijöiden tai tase-erien selventämiseksi.",
+      "section_number": "7",
+      "chapter_number": 2,
+      "statute_id": "1607/1997"
+    },
+    {
+      "id": "bfeb7e1a-06c8-4f63-9891-fe4806ca0262",
+      "node_type": "Section",
+      "publisher": "finlex",
+      "title": "8 § Erien yhdisteleminen",
+      "text": "Tuloslaskelmassa on ilmoitettava tuotto- ja kuluerät erikseen niitä toisistaan vähentämättä, jollei tuoton ja kulun yhdistäminen yhdeksi eräksi ole perusteltua oikean ja riittävän kuvan antamiseksi toiminnan tuloksesta ja taloudellisesta asemasta. Milloin kirjanpitovelvollisella on saaminen siltä, jolle hän itse on velkaa, on saaminen ja velka ilmoitettava taseessa erikseen, jollei kirjanpitovelvollisella ole lakisääteistä oikeutta kuittaamiseen ja kirjanpitovelvollinen aio käyttää oikeuttaan kuittaukseen. Myös muut tase-erät on ilmoitettava niitä toisistaan vähentämättä, jollei vähentäminen ole perusteltua oikean ja riittävän kuvan antamiseksi toiminnan tuloksesta ja taloudellisesta asemasta. Eräistä arvopaperi- ja valuuttakaupan ehdoista annetun lain (588/1997) 2 §:n 1 momentin 1 tai 3 kohdassa säädetyin ehdoin tehdyt sopimukset ja niistä johtuvat tuotot ja kulut saadaan merkitä tuloslaskelmaan ja taseeseen yhdisteltyinä. Rahoitustarkastus voi kirjanpitovelvollisen hakemuksesta antaa luvan edellä 3 ja 4 §:ssä säädettyjen tuloslaskelma- ja tasekaavan pienillä kirjaimilla merkittyjen alaerien yhdistelemiseen, jos niiden erillisellä esittämisellä on vähäinen merkitys oikean ja riittävän kuvan antamiseksi kirjanpitovelvollisen tilikauden tuloksen muodostumisesta ja taloudellisesta asemasta tai jos yhdistely johtaa selkeämpään esittämistapaan.",
+      "section_number": "8",
+      "chapter_number": 2,
+      "statute_id": "1607/1997"
+    },
+    {
+      "id": "877ce321-a575-40ce-ac20-c367e6d8a1df",
+      "node_type": "Section",
+      "publisher": "finlex",
+      "title": "9 § Erien uudelleennimeäminen ja poisjättäminen",
+      "text": "Rahoitustarkastus voi antaa luvan käyttää 3 ja 4 §:stä poiketen niissä säädetyistä tuloslaskelman ja taseen kaavojen mukaisista eristä toiminnan luonnetta paremmin vastaavia nimikkeitä. Jos yksittäisen nimikkeen kohdalle ei tule lukua tilikaudelta eikä edeltävältä tilikaudelta, se saadaan jättää pois tuloslaskelmasta tai taseesta.",
+      "section_number": "9",
+      "chapter_number": 2,
+      "statute_id": "1607/1997"
+    },
+    {
+      "id": "d4705a5b-beec-4343-aab8-3597c1a4516d",
+      "node_type": "Section",
+      "publisher": "finlex",
+      "title": "10 § Eräiden erien merkitseminen taseeseen",
+      "text": "Jos kirjanpitovelvollinen on osallisena useamman yhdessä myöntämästä luotosta (syndikoitu luotto), taseeseen merkitään ainoastaan määrä, jonka kirjanpitovelvollinen on itse rahoittanut. Varat, joita kirjanpitovelvollinen hallinnoi omissa nimissään asiakkaan lukuun, merkitään taseeseen vain, jos kirjanpitovelvollisella on omistusoikeus varoihin. Asiakkaan toimeksiannon hoitamiseksi tai asiakkaan toimeksiannon hoitamiseen liittyvänä suorituksena vastaanotettuja varoja ei merkitä kirjanpitovelvollisen varoiksi taseeseen, jos niiden antamisesta velaksi kirjanpitovelvolliselle ei ole erikseen sovittu. Kirjanpitovelvollisen varoiksi ei merkitä asiakkaan omaisuuden myynnistä asiakkaan lukuun syntyvää myyntisaamista. Omaisuuden ostamisesta asiakkaan lukuun syntyvää ostovelkaa ja omaisuuden myymisestä asiakkaan lukuun johtuvaa velvollisuutta tilittää kauppahinta asiakkaalle, ei lueta kirjanpitovelvollisen veloiksi. Varat, jotka kirjanpitovelvollinen on luovuttanut vakuudeksi tai sitovin takaisinostoehdoin, samoin kuin arvopaperit, jotka kirjanpitovelvollinen on antanut lainaksi, merkitään kirjanpitovelvollisen varoiksi taseeseen luovutuksesta huolimatta. Varoja, jotka kirjanpitovelvollinen on vastaanottanut vakuudeksi tai sitovin takaisinmyyntiehdoin, samoin kuin arvopapereita, jotka kirjanpitovelvollinen on ottanut lainaksi, ei merkitä kirjanpitovelvollisen varoiksi taseeseen. Jos kirjanpitovelvollinen myy sitovin takaisinmyyntisitoumuksin tai lainaussopimuksella hankitut arvopaperit, saatua kauppahintaa vastaava määrä merkitään kirjanpitovelvollisen velaksi taseeseen. Tällä tavoin velaksi kirjatun määrän ja sopimuksen kohteena olevien arvopapereiden tilinpäätöshetken todennäköisen hankintahinnan erotus kirjataan tilikauden tuotoksi tai kuluksi ja velan kirjanpitoarvon lisäykseksi tai vähennykseksi noudattaen soveltuvin osin, mitä luottolaitostoiminnasta annetun lain 36 §:n 1 momentin 2 kohdassa säädetään. Pitkäaikaisen lainan liikkeeseenlaskemisesta johtuvat menot saadaan aktivoida ja kirjata kuluksi lainan juoksuaikana.",
+      "section_number": "10",
+      "chapter_number": 2,
+      "statute_id": "1607/1997"
+    },
+    {
+      "id": "60d43a69-3ca9-44a7-b652-041deed00afa",
+      "node_type": "Section",
+      "publisher": "finlex",
+      "title": "11 § Toimintakertomuksessa ilmoitettavat yleiset tiedot",
+      "text": "Toimintakertomuksessa on esitettävä tiedot kirjanpitovelvollisen liiketoimintojen kehittymistä koskevista tärkeistä seikoista. Tällaisia tietoja ovat ainakin Toimintakertomuksessa on annettava selostus, jos kirjanpitovelvollisesta on tullut emoyritys taikka se on ollut vastaanottavana yrityksenä sulautumisessa tai se on jakautunut. Toimintakertomuksessa on ilmoitettava ulkomaiset sivukonttorit ja edustustot. Hallituksen on toimintakertomuksessa tehtävä ehdotus kirjanpitovelvollisen voittoa tai tappiota koskeviksi toimenpiteiksi.",
+      "section_number": "11",
+      "chapter_number": 3,
+      "statute_id": "1607/1997"
+    },
+    {
+      "id": "84b5ff56-b37e-46f2-8c00-cc32998ba795",
+      "node_type": "Section",
+      "publisher": "finlex",
+      "title": "12 § Vakavaraisuudesta ja riskienhallinnasta toimintakertomuksessa esitettävät tiedot",
+      "text": "Toimintakertomuksesta on käytävä ilmi luottolaitostoiminnasta annetun lain 72 §:ssä tarkoitettu vakavaraisuussuhde ja 79 a §:ssä tarkoitettu konsolidoitu vakavaraisuussuhde tilikauden päättyessä sekä neljän tilikautta lähinnä edeltävän tilikauden päättyessä. Kirjanpitovelvollisen, joka kuuluu osuuspankkilain (1271/1990) 7 a §:ssä tarkoitettuun yhteenliittymään, on annettava vastaavat tiedot yhteenliittymän vakavaraisuussuhteesta. Talletuspankin toimintakertomuksessa on tehtävä selko pankin osallistumisesta samaan vakuusrahastoon kuuluvien pankkien vakavaraisuuden tukemiseen vakuusrahaston kautta. Talletuspankin, joka kuuluu osuuspankkilain 7 a §:ssä tarkoitettuun yhteenliittymään, on lisäksi annettava vastaavat tiedot osallistumisesta yhteenliittymään kuuluvien pankkien vakavaraisuuden tukemiseen, mukaan lukien tiedot osuuspankkilain 84 a ja 84 b §:ssä säädetystä yhteisvastuusta. Mikäli talletuspankki on saanut suoraan tai vakuusrahaston kautta julkista pankkitukea, sen määrästä ja keskeisistä ehdoista on tehtävä selko toimintakertomuksessa. Toimintakertomuksessa on tehtävä selko niistä periaatteista ja menetelmistä, joita kirjanpitovelvollinen käyttää luotto- ja markkinariskien hallintaan.",
+      "section_number": "12",
+      "chapter_number": 3,
+      "statute_id": "1607/1997"
+    },
+    {
+      "id": "69e968be-69f4-4b66-9791-da3913dd328f",
+      "node_type": "Section",
+      "publisher": "finlex",
+      "title": "13 § Omasta pääomasta toimintakertomuksessa esitettävät tiedot",
+      "text": "Jos kirjanpitovelvollinen on tilikauden aikana korottanut osakepääoma tai sijoitusosuuspääomaa merkintäetuoikeudesta poiketen, toimintakertomuksessa on selostettava, miten ja millä ehdoilla pääoman korottaminen toteutui sekä miten merkintäetuoikeudesta poikkeaminen vaikutti omistuksen ja äänivallan jakautumiseen kirjanpitovelvollisessa. Jos päätökseen osakepääoman korottamisesta on tehnyt hallitus tai liikepankin hallintoneuvosto yhtiökokouksen valtuutuksen nojalla, toimintakertomuksessa on lisäksi esitettävä selvitys merkintäetuoikeuden poikkeamisen syistä sekä merkintähinnasta ja perusteista, joiden mukaan merkintähinta on määritetty. Sama koskee merkintäetuoikeudesta poiketen annettuja optio-oikeuksia ja otettua vaihtovelkakirjalainaa. Osakeyhtiömuotoisen kirjanpitovelvollisen toimintakertomuksessa on lisäksi ilmoitettava osakeyhtiölain (734/1978) 11 luvun 9 a §:ssä tarkoitetut tiedot kirjanpitovelvollisen hallussa olevista omista ja emoyrityksen osakkeista.",
+      "section_number": "13",
+      "chapter_number": 3,
+      "statute_id": "1607/1997"
+    },
+    {
+      "id": "0b066e09-96e6-449a-8d0a-a7b58d2b79d6",
+      "node_type": "Section",
+      "publisher": "finlex",
+      "title": "14 § Tilinpäätöksen laatimista koskevat liitetiedot",
+      "text": "Liitetietoina on esitettävä:",
+      "section_number": "14",
+      "chapter_number": 4,
+      "statute_id": "1607/1997"
+    },
+    {
+      "id": "8058ee1a-1395-445d-ad8f-d9817fc2e4e1",
+      "node_type": "Section",
+      "publisher": "finlex",
+      "title": "15 § Tuloslaskelmaa koskevat liitetiedot",
+      "text": "Tuloslaskelman liitetietoina on esitettävä Edellä 3 §:n 2 momentissa tarkoitetun kirjanpitovelvollisen ei tarvitse ilmoittaa 1 momentin 1 ja 9 kohdissa tarkoitettuja tietoja.",
+      "section_number": "15",
+      "chapter_number": 4,
+      "statute_id": "1607/1997"
+    },
+    {
+      "id": "af3c400c-8367-47fd-b396-27bd85b48b86",
+      "node_type": "Section",
+      "publisher": "finlex",
+      "title": "16 § Taseen vastaavia koskevat liitetiedot",
+      "text": "Liitetietoina on esitettävä: Sen lisäksi, mitä 1 momentissa säädetään, on ilmoitettava taseen pysyviin vastaaviin merkityistä osakkeista ja osuuksista sekä aineellisista hyödykkeistä erikseen hankintamenosta ja arvonkorotuksesta, tase-eräkohtaisesti tiedot Edellä 3 §:n 2 momentissa tarkoitetun kirjanpitovelvollisen ei tarvitse ilmoittaa 1 momentin 6, 8, 12, 15, 16 ja 18 kohdissa tarkoitettuja tietoja.",
+      "section_number": "16",
+      "chapter_number": 4,
+      "statute_id": "1607/1997"
+    },
+    {
+      "id": "fe8c0723-6e68-4d6d-998a-52e58969d5e2",
+      "node_type": "Section",
+      "publisher": "finlex",
+      "title": "17 § Taseen vastattavia koskevat liitetiedot",
+      "text": "Liitetietoina on esitettävä: Edellä 3 §:n 2 momentissa tarkoitetun kirjanpitovelvollisen ei tarvitse ilmoittaa 1 momentin kohdissa 3 ja 5 tarkoitettuja tietoja. Kirjanpitovelvollisen, johon sovelletaan valtiovarainministeriön päätöstä arvopaperin liikkeeseenlaskijan säännöllisestä tiedonantovelvollisuudesta (879/1995) on ilmoitettava lisäksi mainitun päätöksen 2 §:n 1 momentin 7 ja 8 kohdan mukaiset tiedot.",
+      "section_number": "17",
+      "chapter_number": 4,
+      "statute_id": "1607/1997"
+    },
+    {
+      "id": "595dd1ba-32b2-423b-b159-804588c9f179",
+      "node_type": "Section",
+      "publisher": "finlex",
+      "title": "18 § Taloudellista kehitystä kuvaavat liitetiedot",
+      "text": "Liitetietona on esitettävä seuraavat taloudellista kehitystä kuvaavat tunnusluvut tilikaudelta ja neljältä lähinnä edelliseltä tilikaudelta, tai jos kirjanpitovelvollinen ei ole toiminut viittä täyttä tilikautta, toiminta-ajalta: Kirjanpitovelvollisen, johon sovelletaan valtiovarainministeriön päätöstä arvopaperin liikkeeseenlaskijan säännöllisestä tiedonantovelvollisuudesta, on lisäksi ilmoitettava mainitun päätöksen 2 §:n 4 momentin mukaiset osakekohtaiset tunnusluvut tilikaudelta ja neljältä lähinnä edelliseltä tilikaudelta, tai jos kirjanpitovelvollinen ei ole toiminut viittä täyttä tilikautta, toimintaajalta. Liikevaihdolla tarkoitetaan 1 momentissa 3 §:n 1 momentin mukaisen tuloslaskelmakaavan erien 1, 2, 5, 6, 8 ja 9 yhteenlaskettua määrää sekä vastaavasti 2 momentin mukaisen tuloslaskelmakaavan erään 6 merkittyä määrää.",
+      "section_number": "18",
+      "chapter_number": 4,
+      "statute_id": "1607/1997"
+    },
+    {
+      "id": "9b0da57d-f88d-43b1-b7de-52c1f600d20c",
+      "node_type": "Section",
+      "publisher": "finlex",
+      "title": "19 § Tuloveroja koskevat liitetiedot",
+      "text": "Liitetietona on esitettävä:",
+      "section_number": "19",
+      "chapter_number": 4,
+      "statute_id": "1607/1997"
+    },
+    {
+      "id": "fa0fb341-f6fa-4b9b-981c-ffb8c8087d68",
+      "node_type": "Section",
+      "publisher": "finlex",
+      "title": "20 § Vakuuksia ja vastuusitoumuksia sekä johdannaissopimuksia koskevat liitetiedot",
+      "text": "Vakuuksista on esitettävä liitetietona Vastuusitoumuksista ja vastuista on esitettävä liitetietoina Sen lisäksi mitä edellä tässä pykälässä säädetään, liitetietona on kirjanpitolain mukaisena siirtymäaikana ilmoitettava eläkevastuuvajauksen kattamatta oleva määrä siltä osin kuin ei ole merkitty taseeseen velaksi.",
+      "section_number": "20",
+      "chapter_number": 4,
+      "statute_id": "1607/1997"
+    },
+    {
+      "id": "49e50512-a9d2-4a00-9ed2-290022640be9",
+      "node_type": "Section",
+      "publisher": "finlex",
+      "title": "21 § Henkilöstöä ja toimielinten jäseniä koskevat liitetiedot",
+      "text": "Liitetietona on esitettävä henkilöstön keskimääräinen luku tilikauden aikana, ryhmittäin eriteltynä. Toimitusjohtajasta ja varatoimitusjohtajasta, hallintoneuvoston jäsenistä sekä hallituksen jäsenistä ja varajäsenistä sekä vastaaviin toimielimiin kuuluvista henkilöistä on ilmoitettava Edellä 2 momentin 4 kohdassa tarkoitetut tiedot on ilmoitettava myös mainittuihin toimielimiin aikaisemmin kuuluneista henkilöistä.",
+      "section_number": "21",
+      "chapter_number": 4,
+      "statute_id": "1607/1997"
+    },
+    {
+      "id": "9b69757a-b4d5-4ff9-9cd5-5037dc193c5f",
+      "node_type": "Section",
+      "publisher": "finlex",
+      "title": "22 § Omistukset muissa yrityksissä",
+      "text": "Liitetietona on esitettävä Jos 1 momentin 1 kohdassa tarkoitetut osakkeet tai osuudet kuuluvat vaihtuviin vastaaviin, niistä ei tarvitse antaa mainitussa kohdassa tarkoitettuja tietoja. Mainitussa kohdassa tarkoitettuja tietoja ei tarvitse antaa muustakaan yhteisöstä kuin tytäryhteisöstä ja kirjanpitolaissa tarkoitetusta omistusyhteysyrityksestä, jos yhteisön osakkeiden tai osuuksien yhteenlaskettu nimellisarvo ja kirjanpitoarvo ovat vähemmän kuin miljoona markkaa ja viisi prosenttia osakkeet tai osuudet omistavan yhtiön taseen tai konsernitaseen mukaisesta pääomasta. Rahoitustarkastus voi erityisistä syistä muissakin tapauksissa kirjanpitovelvollisen hakemuksesta määräajaksi sallia, että 1 momentin 1 kohdassa tarkoitetut osakkeet ja osuudet kirjataan antamatta niistä mainitussa kohdassa tarkoitettuja tietoja. Edellä 1 momentissa tarkoitettuja tietoja ei tarvitse antaa sellaisista asunto- ja kiinteistöyhtiöistä, joita ei ole tytäryrityksinä yhdisteltävä konsernitilinpäätökseen. Edellä 1 momentin 1 kohdassa tarkoitettuun omistusosuuteen luetaan myös sellaisen henkilön omistukset, joka toimii omissa nimissään mutta kirjanpitovelvollisen lukuun. Edellä 1 momentissa tarkoitettu tieto saadaan jättää esittämättä, jos Edellä 1 momentin 1 kohdassa tarkoitettu tieto omasta pääomasta ja tilikauden voitosta tai tappiosta saadaan jättää esittämättä, jos:",
+      "section_number": "22",
+      "chapter_number": 4,
+      "statute_id": "1607/1997"
+    },
+    {
+      "id": "83bf1f76-7200-468c-aef6-637ccf05cbf6",
+      "node_type": "Section",
+      "publisher": "finlex",
+      "title": "23 § Muut liitetiedot",
+      "text": "Liitetietona on esitettävä",
+      "section_number": "23",
+      "chapter_number": 4,
+      "statute_id": "1607/1997"
+    },
+    {
+      "id": "482e9fcf-c120-4f79-ae36-108c45a3afa6",
+      "node_type": "Section",
+      "publisher": "finlex",
+      "title": "24 § Konserniin kuuluvaa kirjanpitovelvollista koskevat tiedot",
+      "text": "Sen lisäksi, mitä edellä tässä luvussa säädetään, kotimaiseen ja siihen verrattavaan ulkomaiseen konserniin kuuluvan kirjanpitovelvollisen tuloslaskelman tai taseen liitetietona on ilmoitettava: Jos konsernitilinpäätös on jätetty laatimatta kirjanpitolain 6 luvun 1 §:n 4 momentin nojalla, emoyrityksen tuloslaskelman tai taseen liitetietona on mainittava tästä poikkeuksesta sekä sen yrityksen nimi ja kotipaikka, jonka laatimaan konsernitilinpäätökseen emoyrityksen ja sen tytäryrityksen tilinpäätökset yhdistellään.",
+      "section_number": "24",
+      "chapter_number": 4,
+      "statute_id": "1607/1997"
+    },
+    {
+      "id": "8cff226d-93ca-4ec6-860a-839f2ccb6103",
+      "node_type": "Section",
+      "publisher": "finlex",
+      "title": "25 § Liitetietojen esittämisjärjestys",
+      "text": "Liitetiedot on esitettävä Rahoitustarkastuksen määräämässä järjestyksessä juoksevasti numeroituina. Kunkin liitetiedon kohdalla tai omina kohtinaan edellä mainittujen liitetietojen jälkeen on lisäksi esitettävä mahdolliset muut tiedot, jotka ovat tarpeen oikeiden ja riittävien tietojen saamiseksi kirjanpitovelvollisen toiminnan tuloksesta ja taloudellisesta asemasta.",
+      "section_number": "25",
+      "chapter_number": 4,
+      "statute_id": "1607/1997"
+    },
+    {
+      "id": "7839a6c7-4389-4319-ae29-80f9ba286128",
+      "node_type": "Section",
+      "publisher": "finlex",
+      "title": "26 § Konsernin tuloslaskelma",
+      "text": "Luottolaitoksen ja muun pääasiallisena toimintanaan luottolaitostoiminnasta annetun lain 20 §:n 1 momentin 3 ja 4 kohdassa tarkoitettua toimintaa harjoittavan rahoituslaitoksen sekä luottolaitoksen omistusyhteisön konsernituloslaskelma laaditaan liitteen 5 mukaisesti. Sijoituspalveluyrityksen ja rahoituslaitoksen, joka harjoittaa pääasiallisena toimintanaan arvopaperikauppaa omaan lukuun ja sijoituspalveluyrityksistä annetun lain 16 §:ssä tarkoitettua toimintaa, sekä sijoituspalveluyrityksen omistusyhteisön konsernituloslaskelma laaditaan liitteen 6 mukaisesti. Luottolaitoksen ja muun pääasiallisena toimintanaan luottolaitostoiminnasta annetun lain 20 §:n 1 momentin 3 ja 4 kohdassa tarkoitettua toimintaa harjoittavan rahoituslaitoksen tai sen omistusyhteisön, jonka konserniin kuuluu vakuutusyhtiö, konsernituloslaskelma laaditaan liitteen 7 mukaisesti. Konsernituloslaskelmaan sovelletaan lisäksi, mitä 3 §:n 3 momentissa säädetään.",
+      "section_number": "26",
+      "chapter_number": 5,
+      "statute_id": "1607/1997"
+    },
+    {
+      "id": "c3344224-17c1-4adb-8e82-0d707037e726",
+      "node_type": "Section",
+      "publisher": "finlex",
+      "title": "27 § Konsernin tase",
+      "text": "Luottolaitoksen ja muun pääasiallisena toimintanaan luottolaitostoiminnasta annetun lain 20 §:n 1 momentin 3 ja 4 kohdassa tarkoitettua toimintaa harjoittavan rahoituslaitoksen sekä luottolaitoksen omistusyhteisön konsernitase laaditaan liitteen 8 mukaisesti. Sijoituspalveluyrityksen ja rahoituslaitoksen, joka harjoittaa pääasiallisena toimintanaan arvopaperikauppaa omaan lukuun ja sijoituspalveluyrityksistä annetun lain 16 §:ssä tarkoitettua toimintaa, sekä sijoituspalveluyrityksen omistusyhteisön konsernitase laaditaan liitteen 9 mukaisesti. Luottolaitoksen ja muun pääasiallisena toimintanaan luottolaitostoiminnasta annetun lain 20 §:n 1 momentin 3 ja 4 kohdassa tarkoitettua toimintaa harjoittavan rahoituslaitoksen tai sen omistusyhteisön, jonka konserniin kuuluu vakuutusyhtiö, konsernitase laaditaan liitteen 10 mukaisesti. Konsernitaseeseen sovelletaan lisäksi, mitä 4 §:n 3―4 momentissa säädetään.",
+      "section_number": "27",
+      "chapter_number": 5,
+      "statute_id": "1607/1997"
+    },
+    {
+      "id": "1d6f2268-9872-4681-8d5b-67e24be56175",
+      "node_type": "Section",
+      "publisher": "finlex",
+      "title": "28 § Vakuutusyhtiön yhdisteleminen konsernitilinpäätökseen",
+      "text": "Tytäryrityksenä oleva vakuutusyhtiö yhdistellään konsernitilinpäätökseen tämän asetuksen säännöksiä noudattaen. Kirjanpitolain 6 luvun 17 §:n 1 momentin mukaista menettelyä tytäryrityksen yhdistelemisestä osakkuusyrityksen tavoin sovelletaan vakuutusyhtiön yhdistelemiseen konsernitilinpäätökseen vain, jos vakuutusyhtiön toiminta ei ole suuruudeltaan olennainen ottaen huomioon konsernin koko toiminta ja edellyttäen, että konsernitilinpäätös tällöin antaa konsernin toiminnan tuloksesta ja taloudellisesta asemasta oikeat ja riittävät tiedot (oikea ja riittävä kuva).",
+      "section_number": "28",
+      "chapter_number": 5,
+      "statute_id": "1607/1997"
+    },
+    {
+      "id": "259b343d-e5a4-44b0-9966-18d236852de2",
+      "node_type": "Section",
+      "publisher": "finlex",
+      "title": "29 § Konsernin toimintakertomuksessa ilmoitettavat tiedot",
+      "text": "Emoyrityksen toimintakertomuksessa on ilmoitettava 12 ja 13 §:ssä tarkoitetut tiedot soveltuvin osin myös konsernista. Lisäksi on ilmoitettava määrä, joka konsernin vapaasta omasta pääomasta konserniin kuuluvien yritysten on yhtiöjärjestyksen tai sääntöjen mukaan siirrettävä sidottuun omaan pääomaan. Tytäryrityksen toimintakertomuksessa on ilmoitettava emoyrityksen ja konserniin kuuluvan vakuutusyhtiön nimi. Jos luottolaitoksen tai sen omistusyhteisön konserniin kuuluu vakuutusyhtiö, toimintakertomuksessa esitetään soveltuvin osin sosiaali- ja terveysministeriön vakuutusyhtiön tilinpäätöksestä ja konsernitilinpäätöksestä antaman asetuksen (1263/2000) 3 luvun 6 §:ssä tarkoitetut tiedot.",
+      "section_number": "29",
+      "chapter_number": 6,
+      "statute_id": "1607/1997"
+    },
+    {
+      "id": "cb6edec2-8c5c-4d62-a0f4-9ff3d29baa10",
+      "node_type": "Section",
+      "publisher": "finlex",
+      "title": "30 § Yksittäisen yrityksen liitetietoja vastaavat liitetiedot",
+      "text": "Konsernituloslaskelman tai konsernitaseen liitetietoina on ilmoitettava soveltuvin osin 14―24 §:ssä tarkoitetut tiedot konsernista. Korkotuottojen erittelyssä on erikseen ilmoitettava niihin sisältyvä leasingvuokrien ja leasing-kohteiden suunnitelman mukaisten poistojen erotus (leasing-kate). Jos luottolaitoksen tai sen omistusyhteisön konserniin kuuluu vakuutusyhtiö, konsernituloslaskelman tai –taseen liitteenä esitetään soveltuvin osin sosiaali- ja terveysministeriön vakuutusyhtiön tilinpäätöksestä ja konsernitilinpäätöksestä antaman asetuksen 4 luvun 18 §:ssä tarkoitetut tiedot. Konsernituloslaskelman ja konsernitaseen liitetietojen esittämiseen sovelletaan, mitä 25 §:ssä säädetään.",
+      "section_number": "30",
+      "chapter_number": 7,
+      "statute_id": "1607/1997"
+    },
+    {
+      "id": "ad82a148-8736-41e9-9fa0-8e6e75d98264",
+      "node_type": "Section",
+      "publisher": "finlex",
+      "title": "31 § Laatimista koskevat tiedot",
+      "text": "Konsernituloslaskelman ja -taseen liitetietona on esitettävä Jos konserniin kuuluu vakuutusyhtiö, esitetään sen lisäksi, mitä edellä tässä asetuksessa on säädetty, sosiaali- ja terveysministeriön vakuutusyhtiön tilinpäätöksestä ja konsernitilinpäätöksestä antaman asetuksen 4 luvun 19 §:ssä tarkoitetut tiedot.",
+      "section_number": "31",
+      "chapter_number": 7,
+      "statute_id": "1607/1997"
+    },
+    {
+      "id": "f17e8aa0-7ad0-48eb-8560-0cf1de65b6b1",
+      "node_type": "Section",
+      "publisher": "finlex",
+      "title": "32 § Tytär- ja osakkuusyrityksiä koskevat liite- tiedot",
+      "text": "Konsernituloslaskelman ja konsernitaseen liitetietoina on esitettävä: Edellä 1 momentin 2 ja 4 kohdassa tarkoitettuun omaan pääomaan luetaan myös tilinpäätössiirtojen kertymä laskennallisella verovelalla vähennettynä. Jos luottolaitoksen tai sen omistusyhteisön konserniin kuuluu vakuutusyhtiö, konsernituloslaskelman ja –taseen liitetietoina esitetään kirjanpitoasetuksen (1339/1997) 4 luvun 3 §:ssä tarkoitetut tiedot.",
+      "section_number": "32",
+      "chapter_number": 7,
+      "statute_id": "1607/1997"
+    },
+    {
+      "id": "a13154f1-0ee6-4927-bc75-84d2a872f4b5",
+      "node_type": "Section",
+      "publisher": "finlex",
+      "title": "33 § Muut liitetiedot",
+      "text": "Edellä 30―32 §:ssä säädettyjen lisäksi konsernituloslaskelman ja konsernitaseen liitetietona on esitettävä: Jos luottolaitoksen tai sen omistusyhteisön konserniin kuuluu vakuutusyhtiö, konsernituloslaskelman ja –taseen liitetietoina esitetään sosiaali- ja terveysministeriön vakuutusyhtiön tilinpäätöksestä ja konsernitilinpäätöksestä antaman asetuksen 4 luvun 20 §:ssä tarkoitetut tiedot.",
+      "section_number": "33",
+      "chapter_number": 7,
+      "statute_id": "1607/1997"
+    },
+    {
+      "id": "66c9892c-06f6-4eab-86cb-2c3bd19fe7aa",
+      "node_type": "Section",
+      "publisher": "finlex",
+      "title": "34 § Poikkeukset konsernin liitetietojen esittämisestä",
+      "text": "Edellä 32 §:ssä tarkoitetut tiedot saadaan jättää ilmoittamatta, jos tytär- tai osakkuusyritys saadaan jättää yhdistelemättä konsernitilinpäätökseen ilman Rahoitustarkastuksen lupaa niin kuin luottolaitostoiminnasta annetun lain 39 §:n 3 momentissa säädetään. Tällöin on kuitenkin ilmoitettava yhdistelemättä jätettyjen tytäryritysten lukumäärä ja niiden taseiden loppusummien yhteenlaskettu määrä, eriteltyinä asunto- ja kiinteistöyhteisöihin ja muihin.",
+      "section_number": "34",
+      "chapter_number": 7,
+      "statute_id": "1607/1997"
+    },
+    {
+      "id": "7fa6c159-87f1-4af5-a6c1-f720ed38f941",
+      "node_type": "Section",
+      "publisher": "finlex",
+      "title": "35 § Tase-erittelyt",
+      "text": "Tase-erittelyissä on yksityiskohtaisesti ryhmittäin luetteloitava kirjanpitovelvollisen taseeseen tilikauden päättyessä merkityt: Edellä 1 momentissa tarkoitetut tase-erittelyt saadaan laatia vaihtoehtoisesti siten, että ne sisältävät ainoastaan lisäykset ja vähennykset tilikauden aikana.",
+      "section_number": "35",
+      "chapter_number": 8,
+      "statute_id": "1607/1997"
+    },
+    {
+      "id": "16c3faac-c917-4812-8a6b-bfd4730b4f4d",
+      "node_type": "Section",
+      "publisher": "finlex",
+      "title": "36 § Liitetietojen erittelyt",
+      "text": "Ne 20 §:ssä tarkoitetut liitetiedot, jotka kirjanpitovelvollinen on esittänyt tilinpäätöksessään erittelemättä, on luetteloitava ryhmittäin. Muutoksista tulee pitää luetteloa tai erillistä kirjanpitoa tilikauden aikana, jos tiedot eivät ilmene pääkirjanpidosta.",
+      "section_number": "36",
+      "chapter_number": 8,
+      "statute_id": "1607/1997"
+    },
+    {
+      "id": "1abbc65f-f7cc-4d92-b1e3-7ec9d6c3888e",
+      "node_type": "Section",
+      "publisher": "finlex",
+      "title": "37 § Laatiminen koneelliselle tietovälineelle",
+      "text": "Tase-erittelyt ja liitetietoerittelyt saadaan laatia koneelliselle tietovälineelle tarvittaessa selväkieliseen muotoon saatettavalla tavalla sen mukaan kuin kirjanpitolain 2 luvun 8 §:ssä tai sen nojalla säädetään.",
+      "section_number": "37",
+      "chapter_number": 8,
+      "statute_id": "1607/1997"
+    },
+    {
+      "id": "118b6587-e3a7-48b4-a1da-af108c002773",
+      "node_type": "Section",
+      "publisher": "finlex",
+      "title": "38 § Varmentaminen",
+      "text": "Edellä 34 ja 35 §:ssä tarkoitetut erittelyt on päivättävä ja laatijoiden on ne allekirjoitettava. Koneelliselle tietovälineelle laadittu erittely varmennetaan laatijan ja tekohetken ilmaisevalla tunnuksella.",
+      "section_number": "38",
+      "chapter_number": 8,
+      "statute_id": "1607/1997"
+    },
+    {
+      "id": "109965be-bc42-480b-947c-5b10220068ff",
+      "node_type": "Section",
+      "publisher": "finlex",
+      "title": "39 § Tilinpäätössäännösten soveltaminen konsernissa, johon kuuluu vakuutusyhtiö",
+      "text": "Konserniin, johon kuuluu vakuutusyhtiö jonka konsernituloslaskelma laaditaan 26 §:n mukaisesti ja konsernitase 27 §:n mukaisesti, sovelletaan vakuutusyhtiötä koskevia säännöksiä laadittaessa liitteen 7 mukaista konsernituloslaskelman vakuutusyhtiön laskelmaa (I) ja liitteen 10 mukaista konsernitaseen vastaavien vakuutusyhtiön varoja (I) sekä vastattavien vakuutusyhtiön velkoja (V) koskevia osia.",
+      "section_number": "39",
+      "chapter_number": 8,
+      "statute_id": "1607/1997"
+    },
+    {
+      "id": "b08a8420-3125-4208-b595-6a118303c513",
+      "node_type": "Section",
+      "publisher": "finlex",
+      "title": "40 § Voimaantulo",
+      "text": "Tämä asetus tulee voimaan 29 päivänä joulukuuta 2000. Tällä asetuksella kumotaan valtiovarainministeriön 30 päivänä joulukuuta 1997 antama päätös luottolaitoksen ja sijoituspalveluyrityksen tilinpäätöksestä ja konsernitilinpäätöksestä (1376/1997). Tätä asetusta sovelletaan ensimmäisen kerran tilinpäätökseen siltä tilikaudelta, joka alkaa 1 päivänä tammikuuta 2001 tai sen jälkeen. Tätä asetusta saa kuitenkin soveltaa sinä tilikautena, joka on kulumassa tai alkaa tämän asetuksen tultua voimaan. Liitteet 1-10",
+      "section_number": "40",
+      "chapter_number": 8,
+      "statute_id": "1607/1997"
+    }
+  ],
+  "clauses": [
+    {
+      "id": "daad2c80-a4db-4685-98da-5d36c40c4bf2",
+      "node_type": "Clause",
+      "publisher": "finlex",
+      "title": "§ 11 mom 1",
+      "text": "1) tiedot olennaisista tapahtumista tilikaudella ja sen päättymisen jälkeen; sekä",
+      "clause_number": 1,
+      "section_number": "11",
+      "statute_id": "1607/1997"
+    },
+    {
+      "id": "43d7e615-4331-498a-bc5b-f5fd8d4c5fdf",
+      "node_type": "Clause",
+      "publisher": "finlex",
+      "title": "§ 11 mom 2",
+      "text": "2) arvio todennäköisestä tulevasta kehityksestä.",
+      "clause_number": 2,
+      "section_number": "11",
+      "statute_id": "1607/1997"
+    },
+    {
+      "id": "ce95eb75-a1d8-4b7a-8312-f94ff68788ad",
+      "node_type": "Clause",
+      "publisher": "finlex",
+      "title": "§ 14 mom 1",
+      "text": "1) tilinpäätöstä laadittaessa noudatetut arvostusperiaatteet ja -menetelmät sekä jaksotusperiaatteet ja -menetelmät;",
+      "clause_number": 1,
+      "section_number": "14",
+      "statute_id": "1607/1997"
+    },
+    {
+      "id": "508ad498-7d25-4950-8a9d-e986fbc1ee5e",
+      "node_type": "Clause",
+      "publisher": "finlex",
+      "title": "§ 14 mom 2",
+      "text": "2) perustelu, jos tuloslaskelman tai taseen esittämistapaa on muutettu, sekä muutoksen vaikutukset;",
+      "clause_number": 2,
+      "section_number": "14",
+      "statute_id": "1607/1997"
+    },
+    {
+      "id": "cedb0d04-38f3-45a6-9e02-38bcab145a0c",
+      "node_type": "Clause",
+      "publisher": "finlex",
+      "title": "§ 14 mom 3",
+      "text": "3) oikaisut, jotka on tehty edelliseltä tilikaudelta esitettäviin tietoihin tuloslaskelman tai taseen erittelyn muuttamisen vuoksi;",
+      "clause_number": 3,
+      "section_number": "14",
+      "statute_id": "1607/1997"
+    },
+    {
+      "id": "b6eb0574-9ba6-4a26-b5a3-82e53ecf80f1",
+      "node_type": "Clause",
+      "publisher": "finlex",
+      "title": "§ 14 mom 4",
+      "text": "4) selvitys, jos edellistä tilikautta koskevat tiedot eivät ole vertailukelpoisia päättyneen tilikauden tietojen kanssa, sekä selostus sellaisista tilikauden tulokseen sisältyvistä tuotto- ja kulueristä, jotka olennaisesti vaikuttavat mahdollisuuteen vertailla tulosta edellisen tilikauden tulokseen tai ovat muuten olennaisia;",
+      "clause_number": 4,
+      "section_number": "14",
+      "statute_id": "1607/1997"
+    },
+    {
+      "id": "0ef02794-ea1c-4619-a08d-92f353fa9630",
+      "node_type": "Clause",
+      "publisher": "finlex",
+      "title": "§ 14 mom 5",
+      "text": "5) aikaisempiin tilikausiin kohdistuvat tuotot ja kulut sekä virheiden korjaukset, jos ne eivät ole merkitykseltään vähäisiä;",
+      "clause_number": 5,
+      "section_number": "14",
+      "statute_id": "1607/1997"
+    },
+    {
+      "id": "4a9ebac2-4b4d-40c3-ba69-ea2d104ea782",
+      "node_type": "Clause",
+      "publisher": "finlex",
+      "title": "§ 14 mom 6",
+      "text": "6) sellaiset yksittäiseen tase-erään sisältyvät osat, jotka koskevat useampaa tase-erää, jos tämä tieto on olennainen; sekä",
+      "clause_number": 6,
+      "section_number": "14",
+      "statute_id": "1607/1997"
+    },
+    {
+      "id": "2c08c837-e183-412a-bbfa-abf828c33383",
+      "node_type": "Clause",
+      "publisher": "finlex",
+      "title": "§ 14 mom 7",
+      "text": "7) jos tilinpäätöksen laatimisessa on poikettu kirjanpitolain (1336/1997), luottolaitostoiminnasta annetun lain tai tämän päätöksen säännöksistä taikka Rahoitustarkastuksen määräyksistä, tieto poikkeuksen syystä ja vaikutuksista sekä, jos poikkeus perustuu Rahoitustarkastuksen antamaan lupaan, tieto siitä.",
+      "clause_number": 7,
+      "section_number": "14",
+      "statute_id": "1607/1997"
+    },
+    {
+      "id": "6e6dca2c-c092-45f6-946c-73f7c5a798e5",
+      "node_type": "Clause",
+      "publisher": "finlex",
+      "title": "§ 15 mom 1",
+      "text": "1) korkotuottojen ja korkokulujen erittely tase-erittäin;",
+      "clause_number": 1,
+      "section_number": "15",
+      "statute_id": "1607/1997"
+    },
+    {
+      "id": "c3a89c10-54b1-40c5-849e-7c4c614839c3",
+      "node_type": "Clause",
+      "publisher": "finlex",
+      "title": "§ 15 mom 2",
+      "text": "2) kokonaistuottojen jakautuminen toimialoittain ja maantieteellisten markkina-alueiden mukaan; samoin kuin tiedot liikevoiton tai -tappion jakautumisesta toimialoittain tai maantieteellisten alueiden mukaan, jos ne kyseiseen valtioon tai alueeseen liittyvän erityisen riskin takia tai muusta syystä ovat olennaisia tietoja;",
+      "clause_number": 2,
+      "section_number": "15",
+      "statute_id": "1607/1997"
+    },
+    {
+      "id": "fd9f779c-3390-4908-b621-3553a9d73c36",
+      "node_type": "Clause",
+      "publisher": "finlex",
+      "title": "§ 15 mom 3",
+      "text": "3) satunnaisiin tuottoihin ja kuluihin sisältyvät erät;",
+      "clause_number": 3,
+      "section_number": "15",
+      "statute_id": "1607/1997"
+    },
+    {
+      "id": "d7efa2ea-f278-46a0-9ef6-8ba2b874fa2a",
+      "node_type": "Clause",
+      "publisher": "finlex",
+      "title": "§ 15 mom 4",
+      "text": "4) selvitys suunnitelman mukaisten poistojen perusteista ja niiden muutoksista sekä tuloslaskelman erän \"Poistot ja arvonalentumiset aineellisista ja aineettomista hyödykkeistä\" jakautuminen suunnitelman mukaisiin poistoihin ja arvonalentumisiin, jollei arvonalentumisten määrä ole merkitykseltään vähäinen;",
+      "clause_number": 4,
+      "section_number": "15",
+      "statute_id": "1607/1997"
+    },
+    {
+      "id": "c0289934-c4de-4bfa-a1bc-7ecdfd3f0768",
+      "node_type": "Clause",
+      "publisher": "finlex",
+      "title": "§ 15 mom 5",
+      "text": "5) selvitys tuottoihin ja kuluihin sisältyvistä pakollisten varausten muutoksista, jos ne eivät ole merkitykseltään vähäisiä;",
+      "clause_number": 5,
+      "section_number": "15",
+      "statute_id": "1607/1997"
+    },
+    {
+      "id": "4aa32217-ba30-406d-895e-91bcf5ef0e41",
+      "node_type": "Clause",
+      "publisher": "finlex",
+      "title": "§ 15 mom 4",
+      "text": "6) erittely 8 §:n 4 momentin perusteella yhdistellyistä eristä;",
+      "clause_number": 4,
+      "section_number": "15",
+      "statute_id": "1607/1997"
+    },
+    {
+      "id": "c56112d6-03ef-4994-9ffd-754bd2883658",
+      "node_type": "Clause",
+      "publisher": "finlex",
+      "title": "§ 15 mom 6",
+      "text": "6) erittely 8 §:n 4 momentin perusteella yhdistellyistä eristä;",
+      "clause_number": 6,
+      "section_number": "15",
+      "statute_id": "1607/1997"
+    },
+    {
+      "id": "d897a8e4-a5bd-41d5-9a44-65e76d9d7438",
+      "node_type": "Clause",
+      "publisher": "finlex",
+      "title": "§ 15 mom 7",
+      "text": "7) leasing-toiminnan nettotuotot eriteltyinä;",
+      "clause_number": 7,
+      "section_number": "15",
+      "statute_id": "1607/1997"
+    },
+    {
+      "id": "e3f3a253-fa91-496b-9436-6af9a2c3e0f1",
+      "node_type": "Clause",
+      "publisher": "finlex",
+      "title": "§ 15 mom 8",
+      "text": "8) liiketoiminnan muut tuotot ja -kulut eriteltyinä;",
+      "clause_number": 8,
+      "section_number": "15",
+      "statute_id": "1607/1997"
+    },
+    {
+      "id": "8558a153-07a2-4dbf-95fb-e919d39c4c74",
+      "node_type": "Clause",
+      "publisher": "finlex",
+      "title": "§ 15 mom 9",
+      "text": "9) luotto- ja takaustappiot sekä pysyviin vastaaviin kuuluvien arvopapereiden arvonalennukset eriteltyinä;",
+      "clause_number": 9,
+      "section_number": "15",
+      "statute_id": "1607/1997"
+    },
+    {
+      "id": "e2808375-a900-4451-8511-7ab4b33cb5be",
+      "node_type": "Clause",
+      "publisher": "finlex",
+      "title": "§ 15 mom 10",
+      "text": "10) tilikauden aikana ostettujen ja myytyjen vaihtuviin vastaaviin luettujen arvopapereiden yhteenlasketut määrät, erikseen saamistodistusten ja osakkeiden osalta;",
+      "clause_number": 10,
+      "section_number": "15",
+      "statute_id": "1607/1997"
+    },
+    {
+      "id": "814e0451-1f06-4984-ab1e-4ed121944974",
+      "node_type": "Clause",
+      "publisher": "finlex",
+      "title": "§ 15 mom 11",
+      "text": "11) arvopaperikaupan nettotuotot eriteltynä saamistodistusten kaupan nettotuottoon, osakkeiden ja osuuksien kaupan nettotuottoon sekä muuhun arvopaperikaupan nettotuottoon; sekä",
+      "clause_number": 11,
+      "section_number": "15",
+      "statute_id": "1607/1997"
+    },
+    {
+      "id": "543047c8-954b-4227-bbd0-019f62490fad",
+      "node_type": "Clause",
+      "publisher": "finlex",
+      "title": "§ 15 mom 12",
+      "text": "12) tilinpäätössiirrot eriteltynä poistoeron muutokseen, yleisen tappiovarauksen muutokseen ja muiden vapaaehtoisten varausten muutokseen.",
+      "clause_number": 12,
+      "section_number": "15",
+      "statute_id": "1607/1997"
+    },
+    {
+      "id": "2e708e4f-7e9b-4435-a4e1-bcdae662ea04",
+      "node_type": "Clause",
+      "publisher": "finlex",
+      "title": "§ 16 mom 1",
+      "text": "1) arvonkorotusten periaatteet ja niiden kohteiden arvonmääritysmenetelmät;",
+      "clause_number": 1,
+      "section_number": "16",
+      "statute_id": "1607/1997"
+    },
+    {
+      "id": "1f5e33eb-ecd3-4ea1-85d5-3c77a956500e",
+      "node_type": "Clause",
+      "publisher": "finlex",
+      "title": "§ 16 mom 2",
+      "text": "2) tase-eräkohtainen tieto vaihtuviin vastaaviin kuuluvien arvopapereiden todennäköisten arvojen ja aktivoitujen hankintamenojen erotuksesta;",
+      "clause_number": 2,
+      "section_number": "16",
+      "statute_id": "1607/1997"
+    },
+    {
+      "id": "101c9372-e74b-455d-b53d-bbb1f6c98c41",
+      "node_type": "Clause",
+      "publisher": "finlex",
+      "title": "§ 16 mom 3",
+      "text": "3) edellä 2 kohdassa tarkoitetut tiedot pysyviin vastaaviin kuuluvista arvopapereista;",
+      "clause_number": 3,
+      "section_number": "16",
+      "statute_id": "1607/1997"
+    },
+    {
+      "id": "7c59403b-0f33-4477-9104-2e498d8b217f",
+      "node_type": "Clause",
+      "publisher": "finlex",
+      "title": "§ 16 mom 4",
+      "text": "4) erittely 8 §:n 4 momentin nojalla yhdistellyistä vastaavien eristä;",
+      "clause_number": 4,
+      "section_number": "16",
+      "statute_id": "1607/1997"
+    },
+    {
+      "id": "f0145c4c-f828-4416-8243-1ed3668c86c5",
+      "node_type": "Clause",
+      "publisher": "finlex",
+      "title": "§ 16 mom 4",
+      "text": "4) erittely 8 §:n 4 momentin nojalla yhdistellyistä vastaavien eristä;",
+      "clause_number": 4,
+      "section_number": "16",
+      "statute_id": "1607/1997"
+    },
+    {
+      "id": "b6353361-909c-448d-815d-2e1ef2c93c12",
+      "node_type": "Clause",
+      "publisher": "finlex",
+      "title": "§ 16 mom 5",
+      "text": "5) erittely saamistodistuksista vaadetyypeittäin;",
+      "clause_number": 5,
+      "section_number": "16",
+      "statute_id": "1607/1997"
+    },
+    {
+      "id": "a5fefdc1-dd52-48d7-ac8f-797f7410c00d",
+      "node_type": "Clause",
+      "publisher": "finlex",
+      "title": "§ 16 mom 6",
+      "text": "6) saamisten maturiteettijakauma tase-erittäin;",
+      "clause_number": 6,
+      "section_number": "16",
+      "statute_id": "1607/1997"
+    },
+    {
+      "id": "8581e5f8-7d8a-438f-8e9a-eec37fc1b328",
+      "node_type": "Clause",
+      "publisher": "finlex",
+      "title": "§ 16 mom 7",
+      "text": "7) tase-erien erittely koti- ja ulkomaanrahan määräisiin eriin;",
+      "clause_number": 7,
+      "section_number": "16",
+      "statute_id": "1607/1997"
+    },
+    {
+      "id": "0f9ab37f-c295-4508-985a-9965ef7c1b86",
+      "node_type": "Clause",
+      "publisher": "finlex",
+      "title": "§ 16 mom 8",
+      "text": "8) luotonanto eriteltyinä sektoreittain ja luottoihin kohdistetut luottotappiovaraukset;",
+      "clause_number": 8,
+      "section_number": "16",
+      "statute_id": "1607/1997"
+    },
+    {
+      "id": "bb9d2371-9018-41fb-b954-37fdf6d8360e",
+      "node_type": "Clause",
+      "publisher": "finlex",
+      "title": "§ 16 mom 9",
+      "text": "9) pysyviin vastaaviin luettujen saamistodistusten ja muiden saamisten nimellisarvon ja kirjanpitoarvon erotusten yhteenlaskettu määrä, jollei se ole merkitykseltään vähäinen.",
+      "clause_number": 9,
+      "section_number": "16",
+      "statute_id": "1607/1997"
+    },
+    {
+      "id": "77ad7b0c-98ee-49c2-a4ae-b0925bce0764",
+      "node_type": "Clause",
+      "publisher": "finlex",
+      "title": "§ 16 mom 10",
+      "text": "10) saamiset, joilla on huonompi etuoikeus kuin velallisen muilla veloilla;",
+      "clause_number": 10,
+      "section_number": "16",
+      "statute_id": "1607/1997"
+    },
+    {
+      "id": "e7e583b1-a449-4db3-90b9-3aba2b30ccfe",
+      "node_type": "Clause",
+      "publisher": "finlex",
+      "title": "§ 16 mom 11",
+      "text": "11) leasing-kohteet eriteltyinä;",
+      "clause_number": 11,
+      "section_number": "16",
+      "statute_id": "1607/1997"
+    },
+    {
+      "id": "4385d507-5f9c-4c69-a360-6ba9d1a89512",
+      "node_type": "Clause",
+      "publisher": "finlex",
+      "title": "§ 16 mom 12",
+      "text": "12) taseen erään \"Saamiset luottolaitoksilta\" sisältyvien keskuspankilta olevien saamisten määrä;",
+      "clause_number": 12,
+      "section_number": "16",
+      "statute_id": "1607/1997"
+    },
+    {
+      "id": "8b589325-6e03-465c-b500-39ad000a4269",
+      "node_type": "Clause",
+      "publisher": "finlex",
+      "title": "§ 16 mom 13",
+      "text": "13) arvopaperit omaisuuslajeittain jaoteltuna julkisesti noteerattuihin ja muihin arvopapereihin sekä osakelainauksen kohteena olevat arvopaperit, tase-erittäin; erikseen on ilmoitettava osakkeet ja osuudet luottolaitoksissa ja muissa yrityksissä tase-erittäin jaoteltuna;",
+      "clause_number": 13,
+      "section_number": "16",
+      "statute_id": "1607/1997"
+    },
+    {
+      "id": "07c088d8-0ccf-475c-8c38-80849c8cea22",
+      "node_type": "Clause",
+      "publisher": "finlex",
+      "title": "§ 16 mom 14",
+      "text": "14) kiinteistöt ja kiinteistöyhteisöjen osakkeet ja osuudet eriteltyinä maa- ja vesialueisiin, rakennuksiin sekä kiinteistöyhteisöjen osakkeisiin ja osuuksiin, erikseen omassa käytössä olevien ja muiden osalta;",
+      "clause_number": 14,
+      "section_number": "16",
+      "statute_id": "1607/1997"
+    },
+    {
+      "id": "93736ed9-0613-4066-9360-9f7e1980eb73",
+      "node_type": "Clause",
+      "publisher": "finlex",
+      "title": "§ 16 mom 15",
+      "text": "15) maksamatta jääneen saamisen vakuutena ollut sekä asiakkaan liiketoiminnan tervehdyttämiseksi hankittu omaisuus tase-erittäin eriteltynä;",
+      "clause_number": 15,
+      "section_number": "16",
+      "statute_id": "1607/1997"
+    },
+    {
+      "id": "d4c27cde-43c1-43a4-8b56-83b0dcd67689",
+      "node_type": "Clause",
+      "publisher": "finlex",
+      "title": "§ 16 mom 16",
+      "text": "16) järjestämättömien ja muiden 0-korkoisten saamisten määrä;",
+      "clause_number": 16,
+      "section_number": "16",
+      "statute_id": "1607/1997"
+    },
+    {
+      "id": "13f5fcb3-862c-4ee5-b61b-a30d3801bc94",
+      "node_type": "Clause",
+      "publisher": "finlex",
+      "title": "§ 16 mom 17",
+      "text": "17) kirjanpitovelvollisen hallussa olevista omista tai emoyrityksen osakkeista osakelajeittain lukumäärä, yhteenlaskettu nimellisarvo ja hankintameno;",
+      "clause_number": 17,
+      "section_number": "16",
+      "statute_id": "1607/1997"
+    },
+    {
+      "id": "fda7ef0a-bff6-4fc2-a38e-c0340f327c12",
+      "node_type": "Clause",
+      "publisher": "finlex",
+      "title": "§ 16 mom 18",
+      "text": "18) taseen erä \"Keskuspankkirahoitukseen oikeutetut saamistodistukset\" eriteltynä valtion velkasitoumuksiin ja muihin;",
+      "clause_number": 18,
+      "section_number": "16",
+      "statute_id": "1607/1997"
+    },
+    {
+      "id": "7c40602d-1f87-4ae5-907a-376ad8177b28",
+      "node_type": "Clause",
+      "publisher": "finlex",
+      "title": "§ 16 mom 19",
+      "text": "19) aineettomat hyödykkeet eriteltyinä perustamismenoihin, liikearvoon ja muihin pitkävaikutteisiin menoihin;",
+      "clause_number": 19,
+      "section_number": "16",
+      "statute_id": "1607/1997"
+    },
+    {
+      "id": "94dc0d2f-887d-4e65-86e8-7d15448fd531",
+      "node_type": "Clause",
+      "publisher": "finlex",
+      "title": "§ 16 mom 20",
+      "text": "20) muut varat eriteltyinä; sekä",
+      "clause_number": 20,
+      "section_number": "16",
+      "statute_id": "1607/1997"
+    },
+    {
+      "id": "7df40e7a-89d8-48f1-8f5e-c83ec2dc5629",
+      "node_type": "Clause",
+      "publisher": "finlex",
+      "title": "§ 16 mom 21",
+      "text": "21) siirtosaamiset ja maksetut ennakot eriteltyinä korkoihin ja muihin.",
+      "clause_number": 21,
+      "section_number": "16",
+      "statute_id": "1607/1997"
+    },
+    {
+      "id": "cb1d9827-67f6-4426-8933-eff8c311d076",
+      "node_type": "Clause",
+      "publisher": "finlex",
+      "title": "§ 16 mom 1",
+      "text": "1) määrästä tilikauden alussa;",
+      "clause_number": 1,
+      "section_number": "16",
+      "statute_id": "1607/1997"
+    },
+    {
+      "id": "781e11f6-2e18-423b-a2bb-96b591f94243",
+      "node_type": "Clause",
+      "publisher": "finlex",
+      "title": "§ 16 mom 2",
+      "text": "2) lisäyksistä ja vähennyksistä tilikauden aikana samoin kuin siirroista erien välillä,",
+      "clause_number": 2,
+      "section_number": "16",
+      "statute_id": "1607/1997"
+    },
+    {
+      "id": "0a4ca8b4-8d65-4f66-a8f5-6fada40b566e",
+      "node_type": "Clause",
+      "publisher": "finlex",
+      "title": "§ 16 mom 3",
+      "text": "3) kertyneistä poistoista ja arvonalentumisista tilikauden alussa;",
+      "clause_number": 3,
+      "section_number": "16",
+      "statute_id": "1607/1997"
+    },
+    {
+      "id": "28d83582-6cc4-4660-9a96-22d82b8672f9",
+      "node_type": "Clause",
+      "publisher": "finlex",
+      "title": "§ 16 mom 4",
+      "text": "4) vähennyksiin ja siirtoihin kohdistuvista kertyneistä poistoista ja arvonalentumisista tilikauden alussa;",
+      "clause_number": 4,
+      "section_number": "16",
+      "statute_id": "1607/1997"
+    },
+    {
+      "id": "67187bac-c694-4f27-86cc-5f7c82cea087",
+      "node_type": "Clause",
+      "publisher": "finlex",
+      "title": "§ 16 mom 5",
+      "text": "5) tilikauden suunnitelman mukaisista poistoista; sekä",
+      "clause_number": 5,
+      "section_number": "16",
+      "statute_id": "1607/1997"
+    },
+    {
+      "id": "309823e5-d673-45e2-912f-83403218ce39",
+      "node_type": "Clause",
+      "publisher": "finlex",
+      "title": "§ 16 mom 6",
+      "text": "6) arvonalentumisista ja niiden palautuksista.",
+      "clause_number": 6,
+      "section_number": "16",
+      "statute_id": "1607/1997"
+    },
+    {
+      "id": "fff5b8a2-35f0-406c-a148-ae1821cbb049",
+      "node_type": "Clause",
+      "publisher": "finlex",
+      "title": "§ 17 mom 1",
+      "text": "1) tase-eräkohtainen erittely oman pääoman erien lisäyksistä ja vähennyksistä tilikauden aikana;",
+      "clause_number": 1,
+      "section_number": "17",
+      "statute_id": "1607/1997"
+    },
+    {
+      "id": "da49dd69-4863-410e-ae49-30f4deac2598",
+      "node_type": "Clause",
+      "publisher": "finlex",
+      "title": "§ 17 mom 4",
+      "text": "2) erittely 8 §:n 4 momentin nojalla yhdistellyistä vastattavien eristä;",
+      "clause_number": 4,
+      "section_number": "17",
+      "statute_id": "1607/1997"
+    },
+    {
+      "id": "78f5f383-62f1-4f50-86b5-b510ad104340",
+      "node_type": "Clause",
+      "publisher": "finlex",
+      "title": "§ 17 mom 2",
+      "text": "2) erittely 8 §:n 4 momentin nojalla yhdistellyistä vastattavien eristä;",
+      "clause_number": 2,
+      "section_number": "17",
+      "statute_id": "1607/1997"
+    },
+    {
+      "id": "d178a928-137f-495d-8034-be0a10d9b9b5",
+      "node_type": "Clause",
+      "publisher": "finlex",
+      "title": "§ 17 mom 3",
+      "text": "3) erittely liikkeeseen lasketuista velkakirjoista vaadetyypeittäin;",
+      "clause_number": 3,
+      "section_number": "17",
+      "statute_id": "1607/1997"
+    },
+    {
+      "id": "5cb3c3ed-b328-4319-b02e-dc437b6697b0",
+      "node_type": "Clause",
+      "publisher": "finlex",
+      "title": "§ 17 mom 4",
+      "text": "4) erittely olennaisista pakollisiin varauksiin merkityistä eristä, jos se on tarpeen tase-erien selventämiseksi;",
+      "clause_number": 4,
+      "section_number": "17",
+      "statute_id": "1607/1997"
+    },
+    {
+      "id": "92de7e92-7771-469e-8390-5ed196ab159a",
+      "node_type": "Clause",
+      "publisher": "finlex",
+      "title": "§ 17 mom 5",
+      "text": "5) velkojen maturiteettijakauma tase-erittäin;",
+      "clause_number": 5,
+      "section_number": "17",
+      "statute_id": "1607/1997"
+    },
+    {
+      "id": "791d0601-8415-4613-b66e-1e6e2a3777d9",
+      "node_type": "Clause",
+      "publisher": "finlex",
+      "title": "§ 17 mom 6",
+      "text": "6) tase-erien erittely koti- ja ulkomaanrahan määräisiin eriin;",
+      "clause_number": 6,
+      "section_number": "17",
+      "statute_id": "1607/1997"
+    },
+    {
+      "id": "201c01f5-ab3a-4a74-b6b7-8e15c665e431",
+      "node_type": "Clause",
+      "publisher": "finlex",
+      "title": "§ 17 mom 7",
+      "text": "7) velkojen nimellisarvon ja kirjanpitoarvon erotusten yhteenlaskettu määrä tase-erittäin, jollei määrä ole merkitykseltään vähäinen;",
+      "clause_number": 7,
+      "section_number": "17",
+      "statute_id": "1607/1997"
+    },
+    {
+      "id": "1c911d42-201b-4ca8-a3e3-e28f1ac182a7",
+      "node_type": "Clause",
+      "publisher": "finlex",
+      "title": "§ 17 mom 8",
+      "text": "8) kirjanpitovelvollisen antamiin optio-oikeuksiin ja vaihtovelkakirjalainoihin perustuvan uusmerkinnän aika ja ehdot sekä niiden nojalla merkittävistä osakkeista osakelaji, lukumäärä ja yhteenlaskettu nimellisarvo sekä niiden tuottama omistus- ja ääniosuus kirjanpitovelvollisessa;",
+      "clause_number": 8,
+      "section_number": "17",
+      "statute_id": "1607/1997"
+    },
+    {
+      "id": "0f75413f-f752-4ffa-b31b-00c739cace36",
+      "node_type": "Clause",
+      "publisher": "finlex",
+      "title": "§ 17 mom 9",
+      "text": "9) hallituksen voimassa olevat uusmerkintää, optio-oikeuksien antamista ja vaihtovelkakirjalainan ottamista koskevat valtuutukset;",
+      "clause_number": 9,
+      "section_number": "17",
+      "statute_id": "1607/1997"
+    },
+    {
+      "id": "2e302732-31b1-47d8-9069-91b1f538769e",
+      "node_type": "Clause",
+      "publisher": "finlex",
+      "title": "§ 17 mom 10",
+      "text": "10) erittely veloista, joilla on huonompi etuoikeus kuin muilla veloilla;",
+      "clause_number": 10,
+      "section_number": "17",
+      "statute_id": "1607/1997"
+    },
+    {
+      "id": "d51a3dbe-3e3e-47b2-aa5b-a65260918cb4",
+      "node_type": "Clause",
+      "publisher": "finlex",
+      "title": "§ 17 mom 11",
+      "text": "11) kirjanpitovelvollisen osakepääoma jaoteltuna osakelajeittain ja osakelajia koskevat yhtiöjärjestyksen pääasialliset määräykset;",
+      "clause_number": 11,
+      "section_number": "17",
+      "statute_id": "1607/1997"
+    },
+    {
+      "id": "1f7d0b14-e882-47c6-a11c-25e58708429e",
+      "node_type": "Clause",
+      "publisher": "finlex",
+      "title": "§ 17 mom 12",
+      "text": "12) pääomasijoituksesta ja pääomalainasta pääasialliset lainaehdot ja lainalle maksettavaksi sovittu kuluksi kirjaamaton korko tai muu hyvitys; sekä",
+      "clause_number": 12,
+      "section_number": "17",
+      "statute_id": "1607/1997"
+    },
+    {
+      "id": "c4d185b5-46f4-4475-bb22-2aae6d804f4f",
+      "node_type": "Clause",
+      "publisher": "finlex",
+      "title": "§ 17 mom 13",
+      "text": "13) tiedot tilikauden aikana päätetyistä osakeanneista ja optio-oikeuksien ja vaihtovelkakirjalainojen liikkeeseenlaskuista;",
+      "clause_number": 13,
+      "section_number": "17",
+      "statute_id": "1607/1997"
+    },
+    {
+      "id": "c3be2d36-092b-4d93-8fb1-a7c73cee6229",
+      "node_type": "Clause",
+      "publisher": "finlex",
+      "title": "§ 17 mom 14",
+      "text": "14) muut velat eriteltyinä;",
+      "clause_number": 14,
+      "section_number": "17",
+      "statute_id": "1607/1997"
+    },
+    {
+      "id": "cd2443f4-3330-4168-9ff2-6e58857be617",
+      "node_type": "Clause",
+      "publisher": "finlex",
+      "title": "§ 17 mom 15",
+      "text": "15) siirtovelat ja saadut ennakot eriteltyinä korkoihin ja muihin; sekä",
+      "clause_number": 15,
+      "section_number": "17",
+      "statute_id": "1607/1997"
+    },
+    {
+      "id": "a86f6fd6-70d3-4ec1-9a18-ccb639bf161f",
+      "node_type": "Clause",
+      "publisher": "finlex",
+      "title": "§ 17 mom 16",
+      "text": "16) vapaaseen omaan pääomaan sisältyvien jakokelvottomien erien määrä.",
+      "clause_number": 16,
+      "section_number": "17",
+      "statute_id": "1607/1997"
+    },
+    {
+      "id": "c03bcc42-3d44-4380-b7c2-90612d50ed60",
+      "node_type": "Clause",
+      "publisher": "finlex",
+      "title": "§ 18 mom 1",
+      "text": "1) liikevaihto;",
+      "clause_number": 1,
+      "section_number": "18",
+      "statute_id": "1607/1997"
+    },
+    {
+      "id": "c64e8fac-6aa2-407f-81b1-04d03991881f",
+      "node_type": "Clause",
+      "publisher": "finlex",
+      "title": "§ 18 mom 2",
+      "text": "2) liikevoitto tai -tappio ja sen osuus liikevaihdosta;",
+      "clause_number": 2,
+      "section_number": "18",
+      "statute_id": "1607/1997"
+    },
+    {
+      "id": "74a5553f-f1ca-40cc-8092-07ef5379a6a6",
+      "node_type": "Clause",
+      "publisher": "finlex",
+      "title": "§ 18 mom 3",
+      "text": "3) voitto tai tappio ennen tilinpäätössiirtoja ja veroja sekä sen osuus liikevaihdosta;",
+      "clause_number": 3,
+      "section_number": "18",
+      "statute_id": "1607/1997"
+    },
+    {
+      "id": "d23b603e-0632-4f04-ad18-c05f810e8f96",
+      "node_type": "Clause",
+      "publisher": "finlex",
+      "title": "§ 18 mom 4",
+      "text": "4) oman pääoman tuotto;",
+      "clause_number": 4,
+      "section_number": "18",
+      "statute_id": "1607/1997"
+    },
+    {
+      "id": "6d2754f5-133e-4c2d-ae8f-647b095cb970",
+      "node_type": "Clause",
+      "publisher": "finlex",
+      "title": "§ 18 mom 5",
+      "text": "5) koko pääoman tuotto;",
+      "clause_number": 5,
+      "section_number": "18",
+      "statute_id": "1607/1997"
+    },
+    {
+      "id": "b9f04602-980b-4b2c-9ef3-07afa0b0f8b8",
+      "node_type": "Clause",
+      "publisher": "finlex",
+      "title": "§ 18 mom 6",
+      "text": "6) omavaraisuusaste; sekä",
+      "clause_number": 6,
+      "section_number": "18",
+      "statute_id": "1607/1997"
+    },
+    {
+      "id": "d184f97f-d3f1-4355-80a7-21af451474d2",
+      "node_type": "Clause",
+      "publisher": "finlex",
+      "title": "§ 18 mom 7",
+      "text": "7) tuotto-kulu-suhde.",
+      "clause_number": 7,
+      "section_number": "18",
+      "statute_id": "1607/1997"
+    },
+    {
+      "id": "374918a4-4685-4b75-94b0-f622ef06e6b9",
+      "node_type": "Clause",
+      "publisher": "finlex",
+      "title": "§ 19 mom 1",
+      "text": "1) kirjanpitolain 5 luvun 18 §:ssä tarkoitetut laskennalliset verovelat ja -saamiset, jos ne ovat olennaisia eikä niitä ole merkitty taseeseen;",
+      "clause_number": 1,
+      "section_number": "19",
+      "statute_id": "1607/1997"
+    },
+    {
+      "id": "44b8a48a-b2b9-4e80-9112-eaf6d613d952",
+      "node_type": "Clause",
+      "publisher": "finlex",
+      "title": "§ 19 mom 2",
+      "text": "2) tieto tuloverojen jakautumisesta varsinaisesta toiminnasta ja satunnaisista eristä johtuviin veroihin, jollei tätä jakoa esitetä tuloslaskelmassa; sekä",
+      "clause_number": 2,
+      "section_number": "19",
+      "statute_id": "1607/1997"
+    },
+    {
+      "id": "fa0f3ffc-608b-4e88-906b-3414ef4b44e5",
+      "node_type": "Clause",
+      "publisher": "finlex",
+      "title": "§ 19 mom 3",
+      "text": "3) selostus arvonkorotusten mahdollisesta vaikutuksesta tuloverotukseen.",
+      "clause_number": 3,
+      "section_number": "19",
+      "statute_id": "1607/1997"
+    },
+    {
+      "id": "53725579-d55c-46f5-8db0-80905dde0edc",
+      "node_type": "Clause",
+      "publisher": "finlex",
+      "title": "§ 20 mom 1",
+      "text": "1) velat, joista kirjanpitovelvollinen on pantannut, kiinnittänyt tai muulla tavoin antanut vakuudeksi omaisuuttaan, eriteltyinä vakuuslajeittain kultakin taseen vastattavissa esitettävältä erältä;",
+      "clause_number": 1,
+      "section_number": "20",
+      "statute_id": "1607/1997"
+    },
+    {
+      "id": "85774be9-8bb7-42ba-8ede-6d7c95d06c63",
+      "node_type": "Clause",
+      "publisher": "finlex",
+      "title": "§ 20 mom 2",
+      "text": "2) edellä 1 kohdassa tarkoitettujen vakuuksien yhteenlaskettu arvo mainitun kohdan mukaisesti eriteltynä;",
+      "clause_number": 2,
+      "section_number": "20",
+      "statute_id": "1607/1997"
+    },
+    {
+      "id": "4e8c5781-2a11-4552-955e-8c79b77b9e32",
+      "node_type": "Clause",
+      "publisher": "finlex",
+      "title": "§ 20 mom 3",
+      "text": "3) vakuuksista, jotka luottolaitos on muuten kuin 1 kohdassa tarkoitetulla tavalla antanut puolestaan, yhteenlaskettu arvo vakuuslajeittain eriteltyinä;",
+      "clause_number": 3,
+      "section_number": "20",
+      "statute_id": "1607/1997"
+    },
+    {
+      "id": "bf467104-2690-4820-b795-73ebabe5bdfd",
+      "node_type": "Clause",
+      "publisher": "finlex",
+      "title": "§ 20 mom 4",
+      "text": "4) vakuuksista, jotka kirjanpitovelvollinen on antanut sen kanssa samaan konserniin kuuluvan yrityksen puolesta; sekä",
+      "clause_number": 4,
+      "section_number": "20",
+      "statute_id": "1607/1997"
+    },
+    {
+      "id": "48fff05e-b677-4ca5-b282-2aa31aad14f4",
+      "node_type": "Clause",
+      "publisher": "finlex",
+      "title": "§ 20 mom 5",
+      "text": "5) yhteenlaskettu arvo kirjanpitovelvollisen antamista muista kuin 1―4 kohdassa tarkoitetuista vakuuksista lajeittain eriteltyinä.",
+      "clause_number": 5,
+      "section_number": "20",
+      "statute_id": "1607/1997"
+    },
+    {
+      "id": "1e95468b-abca-47f6-a800-9a07b78db8da",
+      "node_type": "Clause",
+      "publisher": "finlex",
+      "title": "§ 20 mom 1",
+      "text": "1) kirjanpitovelvollista koskevat eläkevastuut;",
+      "clause_number": 1,
+      "section_number": "20",
+      "statute_id": "1607/1997"
+    },
+    {
+      "id": "f623f4fe-175c-4c6f-93d6-cb3673855277",
+      "node_type": "Clause",
+      "publisher": "finlex",
+      "title": "§ 20 mom 2",
+      "text": "2) leasing-vuokrasopimusten mukaisten vuokrien nimellismäärät eriteltyinä alkaneella ja siitä seuraavilla tilikausilla maksettaviin, samoin kuin näiden sopimusten olennaiset irtisanomis- ja lunastusehdot;",
+      "clause_number": 2,
+      "section_number": "20",
+      "statute_id": "1607/1997"
+    },
+    {
+      "id": "ba1211f0-2362-415a-a1ef-fed873bbaba9",
+      "node_type": "Clause",
+      "publisher": "finlex",
+      "title": "§ 20 mom 3",
+      "text": "3) kirjanpitovelvollisen antamat taseen ulkopuoliset sitoumukset sen kanssa samaan konserniin kuuluvien yritysten puolesta 4 §:n mukaisesti eriteltyinä;",
+      "clause_number": 3,
+      "section_number": "20",
+      "statute_id": "1607/1997"
+    },
+    {
+      "id": "d5e25931-a606-4fc7-b0cc-1eb5708f5440",
+      "node_type": "Clause",
+      "publisher": "finlex",
+      "title": "§ 20 mom 4",
+      "text": "4) edellä 3 kohdassa tarkoitetut sitoumukset osakkuusyritysten puolesta;",
+      "clause_number": 4,
+      "section_number": "20",
+      "statute_id": "1607/1997"
+    },
+    {
+      "id": "d5e9c6d7-8bb2-41de-a780-649ec32029ce",
+      "node_type": "Clause",
+      "publisher": "finlex",
+      "title": "§ 20 mom 5",
+      "text": "5) muut 4 §:ssä tarkoitetut taseen ulkopuoliset sitoumukset eriteltyinä;",
+      "clause_number": 5,
+      "section_number": "20",
+      "statute_id": "1607/1997"
+    },
+    {
+      "id": "cdb72d5b-8238-4d0c-b4d9-8278c0236aec",
+      "node_type": "Clause",
+      "publisher": "finlex",
+      "title": "§ 20 mom 6",
+      "text": "6) johdannaissopimusten kohde-etuuksien yhteenlaskettu arvo, eriteltynä sopimuslajeittain suojaaviin ja ei-suojaaviin, sekä luottolaitostoiminnasta annetun lain 77 §:ssä tarkoitettu luotto-vasta-arvo, erikseen niiden sopimusten osalta, joissa vastapuolena on samaan konserniin kuuluva yritys; sekä",
+      "clause_number": 6,
+      "section_number": "20",
+      "statute_id": "1607/1997"
+    },
+    {
+      "id": "b20ca20c-731b-4ee8-9073-c40e8da46424",
+      "node_type": "Clause",
+      "publisher": "finlex",
+      "title": "§ 20 mom 7",
+      "text": "7) omaisuuden myymisestä asiakkaan lukuun syntyvien myyntisaamisten ja omaisuuden ostamisesta asiakkaan lukuun syntyvien ostovelkojen yhteenlasketut määrät.",
+      "clause_number": 7,
+      "section_number": "20",
+      "statute_id": "1607/1997"
+    },
+    {
+      "id": "37609052-de6c-43b7-b13a-f695de6a2c50",
+      "node_type": "Clause",
+      "publisher": "finlex",
+      "title": "§ 21 mom 1",
+      "text": "1) tilikauden palkkojen ja palkkioiden, eläkekulujen ja muiden henkilösivukulujen yhteenlasketut määrät; osapalkkioiden määrä on ilmoitettava erikseen;",
+      "clause_number": 1,
+      "section_number": "21",
+      "statute_id": "1607/1997"
+    },
+    {
+      "id": "eaca9c77-180a-4efc-b6e7-ca956c198b75",
+      "node_type": "Clause",
+      "publisher": "finlex",
+      "title": "§ 21 mom 2",
+      "text": "2) myönnettyjen rahalainojen yhteenlaskettu määrä ja pääasialliset korko- ja muut ehdot;",
+      "clause_number": 2,
+      "section_number": "21",
+      "statute_id": "1607/1997"
+    },
+    {
+      "id": "73679064-7984-48d1-b933-a746ab28f5bf",
+      "node_type": "Clause",
+      "publisher": "finlex",
+      "title": "§ 21 mom 3",
+      "text": "3) heidän hyväkseen myönnettyjen takausten ja muiden taseen ulkopuolisten sitoumusten yhteenlaskettu määrä;",
+      "clause_number": 3,
+      "section_number": "21",
+      "statute_id": "1607/1997"
+    },
+    {
+      "id": "006d9f1a-2761-4770-aec1-069944352a72",
+      "node_type": "Clause",
+      "publisher": "finlex",
+      "title": "§ 21 mom 4",
+      "text": "4) heitä koskevien eläkesitoumusten yhteenlaskettu määrä; sekä",
+      "clause_number": 4,
+      "section_number": "21",
+      "statute_id": "1607/1997"
+    },
+    {
+      "id": "e3472404-3322-4527-aa80-e4fc797f623b",
+      "node_type": "Clause",
+      "publisher": "finlex",
+      "title": "§ 21 mom 5",
+      "text": "5) yhteenlasketusta omistusosuudesta kirjanpitovelvollisen osakkeista tai osuuksista ja kirjanpitovelvollisen liikkeeseenlasketuista optio-oikeuksista ja vaihtovelkakirjalainoista sekä heidän yhteenlasketusta osuudestaan kirjanpitovelvollisen kaikkien osakkeiden tai osuuksien tuottamista äänistä sekä ääniosuudesta, osakkeiden tai osuuksien määrästä ja osakkeiden tai osuuksien omistusosuudesta, jonka he voivat saada kirjanpitovelvollisen liikkeeseenlaskemien optio-oikeuksien tai vaihtovelkakirjojen nojalla.",
+      "clause_number": 5,
+      "section_number": "21",
+      "statute_id": "1607/1997"
+    },
+    {
+      "id": "a363623f-ceb1-490a-8159-43aeeb5d14be",
+      "node_type": "Clause",
+      "publisher": "finlex",
+      "title": "§ 22 mom 1",
+      "text": "1) kirjanpitovelvollisen omistamista yhteisöjen osakkeista ja jäsen- ja yhtiöosuuksista kunkin yhteisön nimi, kotipaikka, toimiala, omistusosuus kaikista osakkeista tai osuuksista, yhteenlaskettu kirjanpitoarvo sekä viimeksi laaditun tilinpäätöksen mukainen oma pääoma ja tilikauden voitto tai tappio; sekä",
+      "clause_number": 1,
+      "section_number": "22",
+      "statute_id": "1607/1997"
+    },
+    {
+      "id": "3ddd642a-6bee-45d1-bad3-d35541445908",
+      "node_type": "Clause",
+      "publisher": "finlex",
+      "title": "§ 22 mom 2",
+      "text": "2) yrityksestä, jossa kirjanpitovelvollisella on rajoittamaton vastuu, 1 kohdassa tarkoitetut tiedot sekä tieto yritysmuodosta.",
+      "clause_number": 2,
+      "section_number": "22",
+      "statute_id": "1607/1997"
+    },
+    {
+      "id": "a317d4ac-c2eb-442e-b487-48559cedfe87",
+      "node_type": "Clause",
+      "publisher": "finlex",
+      "title": "§ 22 mom 1",
+      "text": "1) kirjanpitovelvolliselle tai omistuksen kohteena olevalle yritykselle aiheutuisi merkittävää haittaa tiedon esittämisestä ja poikkeamisen perusteet ilmoitetaan; tai",
+      "clause_number": 1,
+      "section_number": "22",
+      "statute_id": "1607/1997"
+    },
+    {
+      "id": "d25ee0ee-633e-49cd-9e44-5d0495e943cb",
+      "node_type": "Clause",
+      "publisher": "finlex",
+      "title": "§ 22 mom 2",
+      "text": "2) tieto on vähämerkityksellinen oikean ja riittävän kuvan antamiseksi kirjanpitovelvollisen toiminnan tuloksesta ja taloudellisesta asemasta.",
+      "clause_number": 2,
+      "section_number": "22",
+      "statute_id": "1607/1997"
+    },
+    {
+      "id": "3553a513-e847-420e-beee-c856429b38cb",
+      "node_type": "Clause",
+      "publisher": "finlex",
+      "title": "§ 22 mom 1",
+      "text": "1) yritys yhdistellään tytär- tai osakkuusyrityksenä kirjanpitovelvollisen tai sen emoyrityksen konsernitilinpäätökseen; tai",
+      "clause_number": 1,
+      "section_number": "22",
+      "statute_id": "1607/1997"
+    },
+    {
+      "id": "48454620-43f1-411d-b264-28952f632722",
+      "node_type": "Clause",
+      "publisher": "finlex",
+      "title": "§ 22 mom 2",
+      "text": "2) kirjanpitovelvollisella on vähemmän kuin puolet yrityksen osakkeista tai osuuksista eikä yritys ole velvollinen ilmoittamaan tasettaan rekisteröitäväksi.",
+      "clause_number": 2,
+      "section_number": "22",
+      "statute_id": "1607/1997"
+    },
+    {
+      "id": "bca21bbe-9710-48e0-bfbf-9e92d452d812",
+      "node_type": "Clause",
+      "publisher": "finlex",
+      "title": "§ 23 mom 1",
+      "text": "1) kirjanpitovelvollisen harjoittaman notariaattitoiminnan laatu ja laajuus;",
+      "clause_number": 1,
+      "section_number": "23",
+      "statute_id": "1607/1997"
+    },
+    {
+      "id": "84248d15-47d0-4c63-a7ca-9b6cb881ff01",
+      "node_type": "Clause",
+      "publisher": "finlex",
+      "title": "§ 23 mom 2",
+      "text": "2) osuuspankin ja muun osuuskuntamuotoisen luottolaitoksen maksamatta olevien osuusmaksujen määrä;",
+      "clause_number": 2,
+      "section_number": "23",
+      "statute_id": "1607/1997"
+    },
+    {
+      "id": "cae447d8-93db-4eeb-a305-272210bd168a",
+      "node_type": "Clause",
+      "publisher": "finlex",
+      "title": "§ 23 mom 3",
+      "text": "3) osuuspankin ja muun osuuskuntamuotoisen luottolaitoksen irtisanotun osuuspääoman määrä sekä irtisanotun osuuspääoman takaisinmaksun edellytykset ja ajankohta; sekä",
+      "clause_number": 3,
+      "section_number": "23",
+      "statute_id": "1607/1997"
+    },
+    {
+      "id": "4fa9f631-83c9-4159-88fc-9d77ec9caa85",
+      "node_type": "Clause",
+      "publisher": "finlex",
+      "title": "§ 23 mom 4",
+      "text": "4) osuuspankin jäsenten lukumäärä.",
+      "clause_number": 4,
+      "section_number": "23",
+      "statute_id": "1607/1997"
+    },
+    {
+      "id": "dcbe466b-39f5-46d1-8acf-9060685438bb",
+      "node_type": "Clause",
+      "publisher": "finlex",
+      "title": "§ 24 mom 1",
+      "text": "1) sen emoyrityksen nimi ja kotipaikka, jonka konserniin kuuluu eniten yrityksiä ja josta laaditaan konsernitilinpäätös;",
+      "clause_number": 1,
+      "section_number": "24",
+      "statute_id": "1607/1997"
+    },
+    {
+      "id": "f05e81f5-3218-49e4-853c-a3dc203ba491",
+      "node_type": "Clause",
+      "publisher": "finlex",
+      "title": "§ 24 mom 2",
+      "text": "2) sen emoyrityksen nimi ja kotipaikka, jonka konserniin kuuluu vähiten yrityksiä ja josta laaditaan konsernitilinpäätös;",
+      "clause_number": 2,
+      "section_number": "24",
+      "statute_id": "1607/1997"
+    },
+    {
+      "id": "7bb9266f-8e7d-45c7-9890-f374106b869a",
+      "node_type": "Clause",
+      "publisher": "finlex",
+      "title": "§ 24 mom 3",
+      "text": "3) tieto siitä, mistä on saatavissa jäljennös 1 ja 2 kohdassa tarkoitetuista tilinpäätöksistä;",
+      "clause_number": 3,
+      "section_number": "24",
+      "statute_id": "1607/1997"
+    },
+    {
+      "id": "fbf9b214-ba1c-4c34-ab3a-be20d35514a9",
+      "node_type": "Clause",
+      "publisher": "finlex",
+      "title": "§ 24 mom 4",
+      "text": "4) muilta konserniyrityksiltä saadut korko- ja osinkotuotot ja niille suoritetut korkokulut; sekä:",
+      "clause_number": 4,
+      "section_number": "24",
+      "statute_id": "1607/1997"
+    },
+    {
+      "id": "70c9c56e-0c9a-4c2b-908e-c68471bfdd7d",
+      "node_type": "Clause",
+      "publisher": "finlex",
+      "title": "§ 24 mom 5",
+      "text": "5) saamiset muilta konserniyrityksiltä samoin kuin velat ja pääomalainat niille, tase-erien mukaan eriteltyinä.",
+      "clause_number": 5,
+      "section_number": "24",
+      "statute_id": "1607/1997"
+    },
+    {
+      "id": "c8961895-2fe9-4cca-b715-86495d09fcd1",
+      "node_type": "Clause",
+      "publisher": "finlex",
+      "title": "§ 31 mom 1",
+      "text": "1) konsernitilinpäätöksen laatimisperiaatteet;",
+      "clause_number": 1,
+      "section_number": "31",
+      "statute_id": "1607/1997"
+    },
+    {
+      "id": "62770d83-8a2b-4c7a-bbc1-a727095daa8c",
+      "node_type": "Clause",
+      "publisher": "finlex",
+      "title": "§ 31 mom 2",
+      "text": "2) selostus konsernitilinpäätöksen laatimisperiaatteissa ja -menetelmissä tapahtuneista muutoksista sekä muutosten vaikutus konsernin toiminnan tulokseen ja taloudelliseen asemaan;",
+      "clause_number": 2,
+      "section_number": "31",
+      "statute_id": "1607/1997"
+    },
+    {
+      "id": "7b0aece6-7cc2-4aa6-96a3-65a2d7e15444",
+      "node_type": "Clause",
+      "publisher": "finlex",
+      "title": "§ 31 mom 3",
+      "text": "3) perustelu sille, jos konsernitilinpäätök-seen yhdistellyn osakkuusyrityksen tilinpäätöksessä on noudatettu konsernin arvostus- ja jaksotusperiaatteista poikkeavia periaatteita;",
+      "clause_number": 3,
+      "section_number": "31",
+      "statute_id": "1607/1997"
+    },
+    {
+      "id": "aafbcc87-8b7e-46a0-b94d-30b3bd908aa3",
+      "node_type": "Clause",
+      "publisher": "finlex",
+      "title": "§ 31 mom 4",
+      "text": "4) selostus sellaisista muutoksista konsernin rakenteessa, jotka merkittävällä tavalla vaikuttavat konsernitilinpäätöksen vertailukelpoisuuteen edelliseltä tilikaudelta laaditun konsernitilinpäätöksen kanssa;",
+      "clause_number": 4,
+      "section_number": "31",
+      "statute_id": "1607/1997"
+    },
+    {
+      "id": "0d3dddf6-bc6e-49fa-ad83-785792f43f0a",
+      "node_type": "Clause",
+      "publisher": "finlex",
+      "title": "§ 31 mom 5",
+      "text": "5) periaatteet, joita noudattaen ulkomaisen tytäryrityksen tai osakkuusyrityksen tilinpäätöserät on muutettu Suomen rahaksi ja tieto siitä, miten tällaisten erien muuttamisesta Suomen rahaksi syntyvät muuntoerot on käsitelty konsernituloslaskelmassa ja konsernitaseessa;",
+      "clause_number": 5,
+      "section_number": "31",
+      "statute_id": "1607/1997"
+    },
+    {
+      "id": "325f4cb6-fee5-44e8-b672-e4bab6037aea",
+      "node_type": "Clause",
+      "publisher": "finlex",
+      "title": "§ 31 mom 6",
+      "text": "6) keskinäisen omistuksen eliminoinnissa syntyvän eliminointieron kirjaamista koskevat periaatteet sekä konserniliikearvon poistoperiaatteet samoin kuin perusteltu selvitys, jos konserniliikearvon poistoaika on pitempi kuin viisi vuotta; sekä",
+      "clause_number": 6,
+      "section_number": "31",
+      "statute_id": "1607/1997"
+    },
+    {
+      "id": "3b5c61bd-10fe-41eb-b5db-a82158278d5e",
+      "node_type": "Clause",
+      "publisher": "finlex",
+      "title": "§ 31 mom 3",
+      "text": "7) tieto luottolaitostoiminnasta annetun lain 39 §:n 3 momentissa tarkoitetusta Rahoitustarkastuksen myöntämästä poikkeusluvasta.",
+      "clause_number": 3,
+      "section_number": "31",
+      "statute_id": "1607/1997"
+    },
+    {
+      "id": "3dcace0d-d07c-4e74-ae98-0dd2549f5bcc",
+      "node_type": "Clause",
+      "publisher": "finlex",
+      "title": "§ 31 mom 7",
+      "text": "7) tieto luottolaitostoiminnasta annetun lain 39 §:n 3 momentissa tarkoitetusta Rahoitustarkastuksen myöntämästä poikkeusluvasta.",
+      "clause_number": 7,
+      "section_number": "31",
+      "statute_id": "1607/1997"
+    },
+    {
+      "id": "642361d5-cbcc-42c5-8f43-c7bbd0dd154c",
+      "node_type": "Clause",
+      "publisher": "finlex",
+      "title": "§ 32 mom 1",
+      "text": "1) konsernitilinpäätökseen yhdistellystä tytäryrityksestä nimi, kotipaikka sekä konserniyritysten ja omissa nimissään mutta konserniyritysten lukuun toimivien henkilöiden omistusosuus tässä yrityksessä;",
+      "clause_number": 1,
+      "section_number": "32",
+      "statute_id": "1607/1997"
+    },
+    {
+      "id": "fadbd650-8f87-42d6-8e16-3a5d1b8fb55d",
+      "node_type": "Clause",
+      "publisher": "finlex",
+      "title": "§ 32 mom 2",
+      "text": "2) konsernitilinpäätökseen yhdistelemättömän tytäryrityksen, lukuun ottamatta asunto- ja kiinteistöosakeyhtiötä, tuloslaskelma ja tase tai niiden tiivistelmä;",
+      "clause_number": 2,
+      "section_number": "32",
+      "statute_id": "1607/1997"
+    },
+    {
+      "id": "762f478b-9322-446f-95ae-23a49782a491",
+      "node_type": "Clause",
+      "publisher": "finlex",
+      "title": "§ 32 mom 3",
+      "text": "3) edellä 1 kohdassa tarkoitetut tiedot konsernitilinpäätökseen yhdistellystä osakkuusyrityksestä ja tieto käytetystä yhdistelymenetelmästä;",
+      "clause_number": 3,
+      "section_number": "32",
+      "statute_id": "1607/1997"
+    },
+    {
+      "id": "a52be8c8-80a4-4802-9407-a10e294843ef",
+      "node_type": "Clause",
+      "publisher": "finlex",
+      "title": "§ 32 mom 4",
+      "text": "4) edellä 1 kohdassa tarkoitetut tiedot konsernitilinpäätökseen yhdistelemättömästä osakkuusyrityksestä sekä tämän osakkuusyrityksen oman pääoman määrä ja tilikauden voitto tai tappio viimeksi laaditussa tilinpäätöksessä;",
+      "clause_number": 4,
+      "section_number": "32",
+      "statute_id": "1607/1997"
+    },
+    {
+      "id": "e31e6219-db94-44e7-a4b4-738e643d6216",
+      "node_type": "Clause",
+      "publisher": "finlex",
+      "title": "§ 32 mom 5",
+      "text": "5) kirjanpitolain 6 luvun 9 §:n mukaisella tavalla konsernitilinpäätökseen yhdistellystä tytäryrityksestä nimi ja kotipaikka sekä tieto yhdistelyn vaikutuksesta kuhunkin oman pääoman erään;",
+      "clause_number": 5,
+      "section_number": "32",
+      "statute_id": "1607/1997"
+    },
+    {
+      "id": "66933c15-7f5f-426b-a9bd-d6c07c248cce",
+      "node_type": "Clause",
+      "publisher": "finlex",
+      "title": "§ 32 mom 6",
+      "text": "6) selostus siitä, mihin yhteinen vaikutusvalta perustuu, jos osakkuusyrityksen tilinpäätös on yhdistelty konsernitilinpäätökseen kirjanpitolain 6 luvun 15 §:n mukaisesti;",
+      "clause_number": 6,
+      "section_number": "32",
+      "statute_id": "1607/1997"
+    },
+    {
+      "id": "96ec7d28-e6d5-4ccf-b33b-7e7f9478f543",
+      "node_type": "Clause",
+      "publisher": "finlex",
+      "title": "§ 32 mom 7",
+      "text": "7) jos tytäryritys on yhdistelty konsernitilinpäätökseen ennen emoyrityksen tilikautta päättyneeltä tilikaudelta laaditun tilinpäätöksen perusteella, selostus tytäryrityksen toiminnan tulokseen ja taloudelliseen asemaan vaikuttaneista olennaisista tapahtumista, jotka ovat sattuneet tytäryrityksen ja emoyrityksen tilikausien päättymisen välisenä aikana; sekä",
+      "clause_number": 7,
+      "section_number": "32",
+      "statute_id": "1607/1997"
+    },
+    {
+      "id": "23b3ddb9-6612-412a-8e84-2982bc3259f3",
+      "node_type": "Clause",
+      "publisher": "finlex",
+      "title": "§ 32 mom 8",
+      "text": "8) riittävät tiedot sellaisen konsernitilinpäätökseen yhdistellyn yrityksen, joka ei ole luotto- tai rahoituslaitos tai palveluyritys, ja muiden samaan konserniin kuuluvien yritysten suhteiden arvioimiseksi.",
+      "clause_number": 8,
+      "section_number": "32",
+      "statute_id": "1607/1997"
+    },
+    {
+      "id": "8ecc5cfc-4ecb-4232-b92d-57092d51416c",
+      "node_type": "Clause",
+      "publisher": "finlex",
+      "title": "§ 33 mom 1",
+      "text": "1) erittely konserniliikearvon poistosta ja konsernireservin vähennyksestä, jos ne on yhdistetty konsernituloslaskelmassa;",
+      "clause_number": 1,
+      "section_number": "33",
+      "statute_id": "1607/1997"
+    },
+    {
+      "id": "0fd1ed46-6029-46cd-a52c-6ec400a2505a",
+      "node_type": "Clause",
+      "publisher": "finlex",
+      "title": "§ 33 mom 2",
+      "text": "2) erittely konserniliikearvosta ja konsernireservistä, jos ne on vähennetty toisistaan konsernitaseessa;",
+      "clause_number": 2,
+      "section_number": "33",
+      "statute_id": "1607/1997"
+    },
+    {
+      "id": "2fbb1daf-8f83-482f-8337-39c2cc6bda29",
+      "node_type": "Clause",
+      "publisher": "finlex",
+      "title": "§ 33 mom 3",
+      "text": "3) laskennallisten verovelkojen ja niiden muutosten erittely tilinpäätössiirtoihin perustuviin, yhdistelytoimenpiteisiin perustuviin ja konserniyritysten omiin taseisiin perustuviin, jos nämä on esitetty yhdistettynä konsernituloslaskelmassa ja konsernitaseessa;",
+      "clause_number": 3,
+      "section_number": "33",
+      "statute_id": "1607/1997"
+    },
+    {
+      "id": "3acfd838-179d-4c0b-bbb3-efaad4913ccf",
+      "node_type": "Clause",
+      "publisher": "finlex",
+      "title": "§ 33 mom 4",
+      "text": "4) osakkuusyrityksistä johtuva konserniliikearvo ja konsernireservi; sekä",
+      "clause_number": 4,
+      "section_number": "33",
+      "statute_id": "1607/1997"
+    },
+    {
+      "id": "9b8c2279-529a-4b0b-aa79-4544312cec6c",
+      "node_type": "Clause",
+      "publisher": "finlex",
+      "title": "§ 33 mom 5",
+      "text": "5) henkilöstön keskimääräinen luku yhteisyrityksissä, jotka on yhdistelty konsernitilinpäätökseen kirjanpitolain 6 luvun 15 §:ssä säädetyllä tavalla.",
+      "clause_number": 5,
+      "section_number": "33",
+      "statute_id": "1607/1997"
+    },
+    {
+      "id": "82d1752b-7baa-4b56-bd87-b67f33f19dc5",
+      "node_type": "Clause",
+      "publisher": "finlex",
+      "title": "§ 35 mom 1",
+      "text": "1) aineelliset ja aineettomat hyödykkeet;",
+      "clause_number": 1,
+      "section_number": "35",
+      "statute_id": "1607/1997"
+    },
+    {
+      "id": "428af387-4f0f-41e6-8d2a-a212df5455f4",
+      "node_type": "Clause",
+      "publisher": "finlex",
+      "title": "§ 35 mom 2",
+      "text": "2) vaihtuviin vastaaviin kuuluvat arvopaperit;",
+      "clause_number": 2,
+      "section_number": "35",
+      "statute_id": "1607/1997"
+    },
+    {
+      "id": "f33523e3-833a-48a1-acf4-845da3865d63",
+      "node_type": "Clause",
+      "publisher": "finlex",
+      "title": "§ 35 mom 3",
+      "text": "3) pysyviin vastaaviin kuuluvat arvopaperit;",
+      "clause_number": 3,
+      "section_number": "35",
+      "statute_id": "1607/1997"
+    },
+    {
+      "id": "962ea5e7-3bc7-4eb0-9b85-54f9ccc34dbd",
+      "node_type": "Clause",
+      "publisher": "finlex",
+      "title": "§ 35 mom 4",
+      "text": "4) muut saamiset;",
+      "clause_number": 4,
+      "section_number": "35",
+      "statute_id": "1607/1997"
+    },
+    {
+      "id": "93a6bf2a-0881-4b0e-850f-db261a821ae0",
+      "node_type": "Clause",
+      "publisher": "finlex",
+      "title": "§ 35 mom 5",
+      "text": "5) velat; sekä",
+      "clause_number": 5,
+      "section_number": "35",
+      "statute_id": "1607/1997"
+    },
+    {
+      "id": "e7248020-f03e-4287-91b4-6ca61ed2b1c1",
+      "node_type": "Clause",
+      "publisher": "finlex",
+      "title": "§ 35 mom 6",
+      "text": "6) pakolliset varaukset.",
+      "clause_number": 6,
+      "section_number": "35",
+      "statute_id": "1607/1997"
+    }
+  ],
+  "cross_references": [],
+  "raw_html_path": "C:\\Users\\danit\\finance-hack\\aalto-hackaton-2026\\data\\raw\\finlex\\Asetus (säädöskokoelma)\\Valtiovarainministeriön asetus luottolaitoksen ja sijoituspalveluyrityksen tilinpäätöksestä ja konsernitilinpäätöksestä.html"
+}

@@ -1,0 +1,2039 @@
+{
+  "statute": {
+    "id": "94302aa8-1ad2-48f4-b569-ece2f483292e",
+    "node_type": "Statute",
+    "publisher": "finlex",
+    "title": "Maksupalvelulaki",
+    "text": "Maksupalvelulaki",
+    "statute_id": "417/1992",
+    "finlex_url": "https://finlex.fi/fi/laki/ajantasa/417/1992"
+  },
+  "chapters": [
+    {
+      "id": "b18d378f-866e-4be9-91a3-ba233e97b357",
+      "node_type": "Chapter",
+      "publisher": "finlex",
+      "title": "Chapter 1",
+      "text": "1 luku Yleiset säännökset",
+      "chapter_number": 1,
+      "statute_id": "417/1992"
+    },
+    {
+      "id": "97718235-a488-4f14-8d2f-439cb67ee139",
+      "node_type": "Chapter",
+      "publisher": "finlex",
+      "title": "Chapter 2",
+      "text": "2 luku Tiedonantovelvollisuus",
+      "chapter_number": 2,
+      "statute_id": "417/1992"
+    },
+    {
+      "id": "1e69a9bb-3b71-4cde-bcdf-02b2c16c7eca",
+      "node_type": "Chapter",
+      "publisher": "finlex",
+      "title": "Chapter 3",
+      "text": "3 luku Puitesopimuksen muuttaminen ja päättäminen",
+      "chapter_number": 3,
+      "statute_id": "417/1992"
+    },
+    {
+      "id": "4c294c4d-1feb-436c-9085-f468b0e072cd",
+      "node_type": "Chapter",
+      "publisher": "finlex",
+      "title": "Chapter 4",
+      "text": "4 luku Maksutapahtuman käynnistäminen ja toteuttaminen",
+      "chapter_number": 4,
+      "statute_id": "417/1992"
+    },
+    {
+      "id": "2ec898da-ec97-4f61-bcf0-2b0307dfdc59",
+      "node_type": "Chapter",
+      "publisher": "finlex",
+      "title": "Chapter 5",
+      "text": "5 luku Maksutapahtuman toteuttamisaika ja arvopäivä",
+      "chapter_number": 5,
+      "statute_id": "417/1992"
+    },
+    {
+      "id": "85445433-0b02-4a74-acbf-d3eceb445c4a",
+      "node_type": "Chapter",
+      "publisher": "finlex",
+      "title": "Chapter 6",
+      "text": "6 luku Maksuvälineet",
+      "chapter_number": 6,
+      "statute_id": "417/1992"
+    },
+    {
+      "id": "c9c650ad-d98e-44a3-904e-b67a2f00a68e",
+      "node_type": "Chapter",
+      "publisher": "finlex",
+      "title": "Chapter 7",
+      "text": "7 luku Vastuu ja maksupalautus",
+      "chapter_number": 7,
+      "statute_id": "417/1992"
+    },
+    {
+      "id": "0057727b-a6ee-4f3d-89f0-1fa33cd8e360",
+      "node_type": "Chapter",
+      "publisher": "finlex",
+      "title": "Chapter 8",
+      "text": "8 luku Maksun sivullissitovuus ja oikea-aikaisuus",
+      "chapter_number": 8,
+      "statute_id": "417/1992"
+    },
+    {
+      "id": "08d58b6d-e3b0-4c04-97d1-04feffada95e",
+      "node_type": "Chapter",
+      "publisher": "finlex",
+      "title": "Chapter 9",
+      "text": "9 luku Valvonta",
+      "chapter_number": 9,
+      "statute_id": "417/1992"
+    },
+    {
+      "id": "91f551a0-ace7-41c2-b249-9c9ba7528c7f",
+      "node_type": "Chapter",
+      "publisher": "finlex",
+      "title": "Chapter 10",
+      "text": "10 luku Erinäiset säännökset ja voimaantulo",
+      "chapter_number": 10,
+      "statute_id": "417/1992"
+    }
+  ],
+  "sections": [
+    {
+      "id": "c1d15e00-3328-4d88-b862-6ca046762da4",
+      "node_type": "Section",
+      "publisher": "finlex",
+      "title": "1 § Soveltamisala",
+      "text": "Tässä laissa säädetään maksupalveluja koskevasta tiedonantovelvollisuudesta ja sopimusehdoista sekä maksupalvelujen toteuttamisesta. Tätä lakia sovelletaan seuraaviin maksupalveluihin:",
+      "section_number": "1",
+      "chapter_number": 1,
+      "statute_id": "417/1992"
+    },
+    {
+      "id": "e06fc4b0-04d1-4b00-8f0c-fde3dbea702a",
+      "node_type": "Section",
+      "publisher": "finlex",
+      "title": "2 § Soveltamisalaan kuulumattomat palvelut",
+      "text": "Tätä lakia ei sovelleta seuraaviin palveluihin:",
+      "section_number": "2",
+      "chapter_number": 1,
+      "statute_id": "417/1992"
+    },
+    {
+      "id": "2349cd97-71af-432e-a9d6-11344ae149b9",
+      "node_type": "Section",
+      "publisher": "finlex",
+      "title": "3 § Soveltamisalaan kuulumattomat maksutapahtumat",
+      "text": "Tätä lakia ei sovelleta seuraaviin maksutapahtumiin:",
+      "section_number": "3",
+      "chapter_number": 1,
+      "statute_id": "417/1992"
+    },
+    {
+      "id": "51a2095d-4a90-4908-a2f5-108ebfe9a34c",
+      "node_type": "Section",
+      "publisher": "finlex",
+      "title": "4 § Palveluntarjoajan sijainnista ja maksutapahtumassa käytettävästä valuutasta johtuvat poikkeukset tiedonantovelvollisuudesta",
+      "text": "Mitä 12 §:n 5 ja 7 kohdassa sekä 18 §:ssä säädetään toteuttamisaikaa ja perittäviä kuluja koskevien tietojen antamisesta, ei sovelleta maksutapahtumaan: Sen estämättä, mitä 1 momentissa säädetään, palveluntarjoajan on kuitenkin 12 ja 18 §:ssä tarkoitetuissa tilanteissa aina annettava maksupalvelun käyttäjälle tieto ainakin niistä kuluista, jotka se itse perii maksutapahtuman toteuttamisesta, sekä ilmoitettava mahdollisuudesta, että myös muut maksutapahtuman toteuttamiseen osallistuvat palveluntarjoajat ja välittäjät perivät siitä kuluja. Mitä 1 ja 2 momentissa säädetään, koskee vastaavasti 16, 17 ja 22 §:ää siltä osin kuin niissä säädetään 12 §:n 5 ja 7 kohdassa tarkoitettujen tietojen antamisesta. Jos maksutapahtuman toteuttamiseen osallistuu Euroopan talousalueen ulkopuolella sijaitseva maksajan tai maksunsaajan palveluntarjoaja, 19, 20 ja 24 §:ssä säädettyä tiedonantovelvollisuutta sovelletaan vain siltä osin kuin tietojen antaminen on Euroopan talousalueella olevalle palveluntarjoajalle mahdollista ottaen huomioon Euroopan talousalueen ulkopuolella sijaitsevalta palveluntarjoajalta saatavissa olevat tiedot maksutapahtumasta.",
+      "section_number": "4",
+      "chapter_number": 1,
+      "statute_id": "417/1992"
+    },
+    {
+      "id": "3f5e4a9b-af62-4df5-8b9e-bc20ac73f6f7",
+      "node_type": "Section",
+      "publisher": "finlex",
+      "title": "5 § Muut palveluntarjoajan sijainnista ja maksutapahtumassa käytettävästä valuutasta johtuvat rajoitukset",
+      "text": "Lain 39, 45―48, 64, 65, 67, 70, 74, 79, 80 ja 88 §:ää ei sovelleta maksutapahtumaan: Lain 49, 51 ja 52 §:ää ei sovelleta maksutapahtumaan, joka on muun valuutan kuin euron tai Euroopan talousalueeseen kuuluvan valtion valuutan määräinen.",
+      "section_number": "5",
+      "chapter_number": 1,
+      "statute_id": "417/1992"
+    },
+    {
+      "id": "105fbbd0-105f-4db3-97c3-593ed7657cdb",
+      "node_type": "Section",
+      "publisher": "finlex",
+      "title": "6 § Maksun sivullissitovuutta ja oikea-aikaisuutta koskevien säännösten soveltamisala",
+      "text": "Lain 8 lukua sovelletaan vain maksutapahtumaan, joka toteutetaan tilisiirtona tai suoraveloituksena.",
+      "section_number": "6",
+      "chapter_number": 1,
+      "statute_id": "417/1992"
+    },
+    {
+      "id": "3e298e85-b31c-4ac9-a8c3-368864b4d734",
+      "node_type": "Section",
+      "publisher": "finlex",
+      "title": "7 § Pakottavuus",
+      "text": "Sopimusehto, jolla poiketaan tämän lain säännöksistä maksupalvelun käyttäjän vahingoksi, on mitätön, jollei jäljempänä toisin säädetä. Jos maksupalvelun käyttäjä ei ole kuluttaja, maksupalvelun käyttäjä ja palveluntarjoaja voivat sopia toisin seikoista, joista säädetään 2 ja 3 luvussa, 38 §:n 2 momentissa, 40 §:n 1―4 ja 6 momentissa, 62, 64―67, 69, 71, 72, 76, 79 ja 80 §:ssä. Lisäksi osapuolet voivat sopia toisin 70 §:ssä säädetystä määräajasta. Maksupalvelun käyttäjä ja palveluntarjoaja voivat sopia toisin seikoista, joista säädetään 47, 48, 52 ja 88 §:ssä. Osapuolet eivät kuitenkaan voi sopia 47 §:ssä tarkoitettua maksutapahtuman toteuttamisaikaa pidemmäksi kuin neljäksi työpäiväksi maksutoimeksiannon vastaanottohetkestä. Mitä 3 momentissa säädetään, ei sovelleta maksutapahtumaan:",
+      "section_number": "7",
+      "chapter_number": 1,
+      "statute_id": "417/1992"
+    },
+    {
+      "id": "1eda2e42-631d-4dab-90f2-ee5c14756611",
+      "node_type": "Section",
+      "publisher": "finlex",
+      "title": "8 § Määritelmät",
+      "text": "Tässä laissa tarkoitetaan:",
+      "section_number": "8",
+      "chapter_number": 1,
+      "statute_id": "417/1992"
+    },
+    {
+      "id": "784403c0-6b86-4289-b3c1-a5f69a3c4359",
+      "node_type": "Section",
+      "publisher": "finlex",
+      "title": "9 § Yleissäännös annettavista tiedoista ja ilmoituksista",
+      "text": "Palveluntarjoajan on annettava tässä laissa tarkoitetut tiedot ja ilmoitukset maksupalvelun käyttäjälle selkeässä ja helposti ymmärrettävässä muodossa. Jolleivät osapuolet sovi muun kielen käyttämisestä, tiedot ja ilmoitukset on annettava suomeksi tai ruotsiksi taikka muulla sen valtion virallisella kielellä, jossa maksupalvelua tarjotaan.",
+      "section_number": "9",
+      "chapter_number": 1,
+      "statute_id": "417/1992"
+    },
+    {
+      "id": "4c1eb305-933f-4b62-b312-4335a65d5bb4",
+      "node_type": "Section",
+      "publisher": "finlex",
+      "title": "10 § Ennakkotietojen antaminen",
+      "text": "Palveluntarjoajan on hyvissä ajoin ennen puitesopimuksen tekemistä toimitettava maksupalvelun käyttäjälle kirjallisesti tai muulla pysyvällä tavalla 11―15 §:ssä tarkoitetut tiedot palveluntarjoajasta, tarjottavista maksupalveluista, osapuolten välisestä viestinnästä, varotoimista, vastuukysymyksistä ja oikeussuojakeinoista sekä siitä, miten puitesopimusta voidaan muuttaa ja miten se irtisanotaan. Jos puitesopimus maksupalvelun käyttäjän pyynnöstä tehdään sellaisella etäviestimellä, jota käytettäessä tietoja ei voida toimittaa 1 momentissa tarkoitetulla tavalla ennen sopimuksen tekemistä, tiedot on toimitettava maksupalvelun käyttäjälle kirjallisesti tai muulla pysyvällä tavalla viipymättä puitesopimuksen tekemisen jälkeen.",
+      "section_number": "10",
+      "chapter_number": 2,
+      "statute_id": "417/1992"
+    },
+    {
+      "id": "f8cbe255-3159-49b9-bffc-69e26358757f",
+      "node_type": "Section",
+      "publisher": "finlex",
+      "title": "11 § Palveluntarjoajasta annettavat tiedot",
+      "text": "Palveluntarjoajasta on annettava seuraavat tiedot:",
+      "section_number": "11",
+      "chapter_number": 2,
+      "statute_id": "417/1992"
+    },
+    {
+      "id": "773025c3-94e6-4630-866e-bfada6f282fd",
+      "node_type": "Section",
+      "publisher": "finlex",
+      "title": "12 § Maksupalvelusta annettavat tiedot",
+      "text": "Maksupalvelusta on annettava seuraavat tiedot:",
+      "section_number": "12",
+      "chapter_number": 2,
+      "statute_id": "417/1992"
+    },
+    {
+      "id": "4abd0852-1e62-401d-8e40-e56fd7a8887a",
+      "node_type": "Section",
+      "publisher": "finlex",
+      "title": "13 § Viestinnästä annettavat tiedot",
+      "text": "Osapuolten välisestä viestinnästä on annettava seuraavat tiedot:",
+      "section_number": "13",
+      "chapter_number": 2,
+      "statute_id": "417/1992"
+    },
+    {
+      "id": "a48bb60d-979e-42c6-a084-413a7cffba8a",
+      "node_type": "Section",
+      "publisher": "finlex",
+      "title": "14 § Varotoimista, vastuukysymyksistä ja oikeussuojakeinoista annettavat tiedot",
+      "text": "Varotoimista, vastuukysymyksistä ja oikeussuojakeinoista on annettava seuraavat tiedot:",
+      "section_number": "14",
+      "chapter_number": 2,
+      "statute_id": "417/1992"
+    },
+    {
+      "id": "7152a24e-71e5-4711-9097-4f087721b551",
+      "node_type": "Section",
+      "publisher": "finlex",
+      "title": "15 § Puitesopimuksen muuttamista ja irtisanomista koskevista ehdoista annettavat tiedot",
+      "text": "Puitesopimuksen muuttamisesta ja irtisanomisesta on annettava seuraavat tiedot:",
+      "section_number": "15",
+      "chapter_number": 2,
+      "statute_id": "417/1992"
+    },
+    {
+      "id": "e77e1c00-0ddf-409c-addc-14b6ff1e63aa",
+      "node_type": "Section",
+      "publisher": "finlex",
+      "title": "16 § Oikeus saada ennakkotiedot ja puitesopimuksen ehdot sopimussuhteen aikana",
+      "text": "Maksupalvelun käyttäjällä on milloin tahansa sopimussuhteen aikana oikeus pyynnöstä saada palveluntarjoajalta 11―15 §:ssä tarkoitetut tiedot sekä puitesopimuksen ehdot kirjallisesti tai muulla pysyvällä tavalla.",
+      "section_number": "16",
+      "chapter_number": 2,
+      "statute_id": "417/1992"
+    },
+    {
+      "id": "bee9b1a0-86c6-463b-bd75-e9abe633fd01",
+      "node_type": "Section",
+      "publisher": "finlex",
+      "title": "17 § Pienmaksuvälinettä koskevat ennakkotiedot",
+      "text": "Poiketen siitä, mitä 10―15 §:ssä säädetään, pienmaksuvälinettä koskevasta puitesopimuksesta on annettava seuraavat ennakkotiedot: Edellä 1 momentissa mainitut tiedot on annettava siten kuin 10 §:ssä säädetään. Palveluntarjoajan on asetettava muut 11―15 §:ssä tarkoitetut tiedot maksupalvelun käyttäjän helposti saataville.",
+      "section_number": "17",
+      "chapter_number": 2,
+      "statute_id": "417/1992"
+    },
+    {
+      "id": "be9cb1d7-eabf-4f41-b39c-e28e1b4610f6",
+      "node_type": "Section",
+      "publisher": "finlex",
+      "title": "18 § Ennen maksutapahtumaa maksajalle annettavat tiedot",
+      "text": "Jos maksupalvelusta on tehty puitesopimus, palveluntarjoajan on maksajan pyynnöstä ennen maksajan käynnistämää yksittäistä maksutapahtumaa annettava tieto siitä, minkä ajan kuluessa maksutapahtuma toteutetaan ja mitä kuluja maksajalta peritään, sekä, jos mahdollista, eriteltävä kulut.",
+      "section_number": "18",
+      "chapter_number": 2,
+      "statute_id": "417/1992"
+    },
+    {
+      "id": "fdc1d219-265f-481a-829d-a1b8a09b9a97",
+      "node_type": "Section",
+      "publisher": "finlex",
+      "title": "19 § Toteutetusta maksutapahtumasta maksajalle annettavat tiedot",
+      "text": "Palveluntarjoajan on annettava maksajalle seuraavat tiedot puitesopimuksen nojalla toteutetusta maksutapahtumasta: Palveluntarjoajan on toimitettava 1 momentissa tarkoitetut tiedot maksajalle kirjallisesti tai muulla pysyvällä tavalla taikka asetettava ne pysyvällä tavalla hänen saatavilleen puitesopimuksessa sovituin tavoin ja sovituin määräajoin. Puitesopimuksessa ei voida sopia, että tiedot saa antaa harvemmin kuin kuukausittain eikä tietojen asettamisesta maksajan saataville vain tietoverkossa, jollei tietoja pidetä saatavilla vähintään kulloinkin viimeksi kuluneen vuoden ajalta. Jollei puitesopimuksessa ole sovittu, millä tavalla 1 momentissa tarkoitetut tiedot annetaan, palveluntarjoajan on toimitettava ne kirjallisesti tai muulla pysyvällä tavalla. Jollei ole sovittu, kuinka usein tiedot annetaan, ne on annettava ilman aiheetonta viivytystä sen jälkeen, kun maksutapahtuma on veloitettu maksajan maksutililtä tai, jollei maksaja käytä maksutiliä, kun palveluntarjoaja on vastaanottanut maksutoimeksiannon.",
+      "section_number": "19",
+      "chapter_number": 2,
+      "statute_id": "417/1992"
+    },
+    {
+      "id": "a40faba0-d3db-416c-ad0c-5ac9557796e6",
+      "node_type": "Section",
+      "publisher": "finlex",
+      "title": "20 § Toteutetusta maksutapahtumasta maksunsaajalle annettavat tiedot",
+      "text": "Palveluntarjoajan on annettava maksunsaajalle seuraavat tiedot puitesopimuksen nojalla toteutetusta maksutapahtumasta: Palveluntarjoajan on toimitettava 1 momentissa tarkoitetut tiedot maksunsaajalle kirjallisesti tai muulla pysyvällä tavalla taikka asetettava ne pysyvällä tavalla hänen saatavilleen puitesopimuksessa sovituin tavoin ja sovituin määräajoin. Puitesopimuksessa ei voida sopia, että tiedot saa antaa harvemmin kuin kuukausittain eikä tietojen asettamisesta maksunsaajan saataville vain tietoverkossa, jollei tietoja pidetä saatavilla vähintään kulloinkin viimeksi kuluneen vuoden ajalta. Jollei puitesopimuksessa ole sovittu, millä tavalla 1 momentissa tarkoitetut tiedot annetaan, palveluntarjoajan on toimitettava ne kirjallisesti tai muulla pysyvällä tavalla. Jollei ole sovittu, kuinka usein tiedot annetaan, ne on annettava ilman aiheetonta viivytystä sen jälkeen, kun palveluntarjoaja on toteuttanut maksutapahtuman.",
+      "section_number": "20",
+      "chapter_number": 2,
+      "statute_id": "417/1992"
+    },
+    {
+      "id": "043afc1d-89b7-4339-ac5c-d17dd29b348e",
+      "node_type": "Section",
+      "publisher": "finlex",
+      "title": "21 § Pienmaksuvälineellä toteutettavasta maksutapahtumasta annettavat tiedot",
+      "text": "Pienmaksuvälineellä toteutettavaan maksutapahtumaan ei sovelleta, mitä 18 §:ssä säädetään. Poiketen siitä, mitä 19 §:n 1 momentissa ja 20 §:n 1 momentissa säädetään, maksupalvelun käyttäjä ja palveluntarjoaja voivat sopia, että pienmaksuvälineellä toteutetun maksutapahtuman jälkeen palveluntarjoajan on annettava vain seuraavat tiedot: Osapuolet voivat sopia myös, että palveluntarjoajan on toteutettuaan useita samankaltaisia maksutapahtumia samalle maksunsaajalle annettava 2 momentin 2 ja 3 kohdassa säädettyjen tietojen sijasta vain tieto kyseisten maksutapahtumien ja perittyjen kulujen yhteismääristä. Jos pienmaksuväline on ominaisuuksiltaan sellainen, että sitä käytettäessä käyttäjän henkilöllisyys ei tule ilmi, tai jos palveluntarjoaja ei muuten teknisistä syistä voi antaa 2 ja 3 momentissa tarkoitettuja tietoja, osapuolet voivat sopia, ettei palveluntarjoajalla ole velvollisuutta antaa niitä. Maksupalvelun käyttäjällä on kuitenkin oltava mahdollisuus tarkistaa pienmaksuvälineelle tallennettujen varojen määrä.",
+      "section_number": "21",
+      "chapter_number": 2,
+      "statute_id": "417/1992"
+    },
+    {
+      "id": "1d6951f7-68d3-4f0b-9c32-8badfc2acc80",
+      "node_type": "Section",
+      "publisher": "finlex",
+      "title": "22 § Ennakkotiedot erillistä maksutapahtumaa koskevasta sopimuksesta",
+      "text": "Jos maksupalvelusta ei ole tehty puitesopimusta, palveluntarjoajan on annettava maksupalvelun käyttäjälle 12 §:n 2, 5 ja 7 kohdassa tarkoitetut tiedot ennen kuin erillistä maksutapahtumaa koskeva sopimus tai tarjous tulee maksupalvelun käyttäjää sitovaksi. Jos maksutapahtumassa suoritetaan valuutanmuunto, maksajalle on lisäksi ilmoitettava valuutan vaihto- tai viitekurssi. Palveluntarjoajan on annettava maksupalvelun käyttäjälle myös muut 11―15 §:ssä säädetyt tiedot, jos ne ovat maksupalvelun käyttämisen kannalta tarpeellisia tai niillä on merkitystä maksutapahtuman toteuttamisessa. Palveluntarjoajan on toimitettava 1 momentissa tarkoitetut tiedot maksupalvelun käyttäjälle tai asetettava ne hänen helposti saataville. Maksupalvelun käyttäjän pyynnöstä palveluntarjoajan on toimitettava tiedot kirjallisesti tai muulla pysyvällä tavalla. Jos sopimus maksupalvelun käyttäjän pyynnöstä tehdään sellaisella etäviestimellä, jota käytettäessä tietoja ei voida antaa 1 ja 2 momentissa tarkoitetulla tavalla ennen sopimuksen tekemistä, tiedot on annettava maksupalvelun käyttäjälle viipymättä maksutapahtuman toteuttamisen jälkeen.",
+      "section_number": "22",
+      "chapter_number": 2,
+      "statute_id": "417/1992"
+    },
+    {
+      "id": "7fb83d31-49f2-40c3-a2fb-d8f2e5134742",
+      "node_type": "Section",
+      "publisher": "finlex",
+      "title": "23 § Maksajalle erillisen maksutoimeksiannon vastaanottamisen jälkeen annettavat tiedot",
+      "text": "Maksajan palveluntarjoajan on vastaanotettuaan erillistä maksutapahtumaa koskevan maksutoimeksiannon välittömästi annettava maksajalle seuraavat tiedot: Palveluntarjoajan on toimitettava tiedot maksajalle tai asetettava ne hänen helposti saataville. Maksajan pyynnöstä palveluntarjoajan on toimitettava tiedot kirjallisesti tai muulla pysyvällä tavalla.",
+      "section_number": "23",
+      "chapter_number": 2,
+      "statute_id": "417/1992"
+    },
+    {
+      "id": "74bcc443-7bfe-4dea-b1d1-02bf83852e13",
+      "node_type": "Section",
+      "publisher": "finlex",
+      "title": "24 § Toteutetusta erillisestä maksutapahtumasta maksunsaajalle annettavat tiedot",
+      "text": "Maksunsaajan palveluntarjoajan on välittömästi toteutettuaan erillisen maksutapahtuman annettava maksunsaajalle seuraavat tiedot: Palveluntarjoajan on toimitettava tiedot maksunsaajalle tai asetettava ne hänen helposti saataville. Maksunsaajan pyynnöstä palveluntarjoajan on toimitettava tiedot kirjallisesti tai muulla pysyvällä tavalla.",
+      "section_number": "24",
+      "chapter_number": 2,
+      "statute_id": "417/1992"
+    },
+    {
+      "id": "03efaebd-4e8d-4c84-aa20-bbfb4e6f426e",
+      "node_type": "Section",
+      "publisher": "finlex",
+      "title": "25 § Poikkeus velvollisuudesta antaa erillistä maksutapahtumaa koskevat tiedot",
+      "text": "Jos erillistä maksutapahtumaa koskeva maksutoimeksianto annetaan puitesopimuksen piiriin kuuluvalla maksuvälineellä, palveluntarjoajan ei tarvitse antaa sellaisia 22―24 §:ssä tarkoitettuja tietoja, jotka maksupalvelun käyttäjä saa puitesopimuksen perusteella omalta palveluntarjoajaltaan.",
+      "section_number": "25",
+      "chapter_number": 2,
+      "statute_id": "417/1992"
+    },
+    {
+      "id": "fd406358-bf18-4ea8-a65c-c29bd1ed0a54",
+      "node_type": "Section",
+      "publisher": "finlex",
+      "title": "26 § Tietojen antamisesta sekä oikaisu- ja varotoimista perittävät kulut",
+      "text": "Palveluntarjoaja ei saa periä maksupalvelun käyttäjältä kuluja tässä laissa tarkoitettujen tietojen antamisesta eikä oikaisu- ja varotoimista, ellei 40 §:n 6 momentista, 42 §:n 3 momentista, 66 §:n 3 momentista tai 68 §:n 2 momentista muuta johdu. Jos maksupalvelun käyttäjälle annetaan hänen pyynnöstään muita kuin tässä luvussa tarkoitettuja tietoja tai tietoja annetaan useammin kuin tämän luvun nojalla on annettava, osapuolet voivat kuitenkin sopia maksupalvelun käyttäjältä perittävistä kuluista. Perittävistä kuluista voidaan sopia myös, jos tässä luvussa tarkoitettuja tietoja maksupalvelun käyttäjän pyynnöstä annetaan muulla kuin puitesopimuksessa sovitulla tavalla. Perittävien kulujen on oltava asianmukaiset eivätkä ne saa ylittää palveluntarjoajan tosiasiallisia kustannuksia.",
+      "section_number": "26",
+      "chapter_number": 2,
+      "statute_id": "417/1992"
+    },
+    {
+      "id": "a546f76b-b85b-4984-8d3c-7e76dfad055a",
+      "node_type": "Section",
+      "publisher": "finlex",
+      "title": "27 § Muualla laissa säädetty velvollisuus antaa tietoja",
+      "text": "Sen lisäksi, mitä tässä laissa säädetään velvollisuudesta antaa tietoja, palveluntarjoajan on noudatettava, mitä muualla laissa säädetään tietojen antamisesta. Jos kyse on rahoituspalvelujen ja rahoitusvälineiden etämyyntiä koskevan kuluttajansuojalain (38/1978) 6 a luvussa tarkoitetusta etämyynnistä, maksupalvelua tarjottaessa ei kuitenkaan sovelleta mainitun luvun 6 §:ää, 7 §:n 1 ja 2 kohtaa, 8 §:n 3, 4, 6 ja 7 kohtaa eikä 9 §:n 1 kohtaa.",
+      "section_number": "27",
+      "chapter_number": 2,
+      "statute_id": "417/1992"
+    },
+    {
+      "id": "383f5902-50ad-4ffd-9a8a-64b392df3f3f",
+      "node_type": "Section",
+      "publisher": "finlex",
+      "title": "28 § Valuutan muuntaminen",
+      "text": "Jos maksunsaaja tarjoaa maksajalle valuutan muuntamista ennen maksutapahtuman käynnistämistä tai jos muu kuin maksunsaaja tarjoaa valuutan muuntamista myyntipaikassa, maksajalle on ilmoitettava valuutan muuntamisesta aiheutuvat kulut ja käytettävä vaihtokurssi ennen maksutapahtuman käynnistämistä.",
+      "section_number": "28",
+      "chapter_number": 2,
+      "statute_id": "417/1992"
+    },
+    {
+      "id": "f38bc8a2-527b-4738-a400-cb227f366a24",
+      "node_type": "Section",
+      "publisher": "finlex",
+      "title": "29 § Maksuvälineen käyttämisestä johtuvat lisäkulut tai alennukset",
+      "text": "Jos maksunsaaja pyytää maksajalta maksua tietyn maksuvälineen käyttämisestä tai tarjoaa alennusta sen vuoksi, että tiettyä maksuvälinettä käytetään, maksunsaajan on ilmoitettava tästä maksajalle ennen maksutapahtuman käynnistämistä. Jos palveluntarjoaja tai muu taho pyytää maksupalvelun käyttäjältä maksua tietyn maksuvälineen käyttämisestä, palveluntarjoajan tai muun tahon on ilmoitettava maksusta maksupalvelun käyttäjälle ennen maksutapahtuman käynnistämistä.",
+      "section_number": "29",
+      "chapter_number": 2,
+      "statute_id": "417/1992"
+    },
+    {
+      "id": "c530573d-c9b4-43d3-953c-66d0db1d5ed2",
+      "node_type": "Section",
+      "publisher": "finlex",
+      "title": "30 § Puitesopimuksen muuttaminen palveluntarjoajan aloitteesta",
+      "text": "Jos palveluntarjoaja ehdottaa muutoksia puitesopimukseen, ehdotus on toimitettava maksupalvelun käyttäjälle kirjallisesti tai muulla pysyvällä tavalla vähintään kaksi kuukautta ennen muutosten ehdotettua voimaantulopäivää. Palveluntarjoajan on vastaavasti ilmoitettava maksupalvelun käyttäjälle, jos muissa tiedoissa, jotka palveluntarjoajan on 11―15 §:n mukaisesti annettava, tapahtuu muutoksia. Jos puitesopimukseen sisältyy ehto, jonka mukaan maksupalvelun käyttäjän katsotaan hyväksyneen palveluntarjoajan ehdottamat sopimusehtojen muutokset, jollei hän muutosten ehdotettuun voimaantulopäivään mennessä vastusta niitä, maksupalvelun käyttäjää on muutosehdotuksessa muistutettava hänen oikeudestaan vastustaa muutoksia. Maksupalvelun käyttäjällä on muutosten ehdotettuun voimaantulopäivään saakka oikeus irtisanoa puitesopimus päättyväksi heti. Muutosehdotuksessa on mainittava tästä oikeudesta.",
+      "section_number": "30",
+      "chapter_number": 3,
+      "statute_id": "417/1992"
+    },
+    {
+      "id": "7f80b3d5-fc93-44e4-bd51-5b0acd27873a",
+      "node_type": "Section",
+      "publisher": "finlex",
+      "title": "31 § Pienmaksuvälinettä koskevan puitesopimuksen muuttaminen",
+      "text": "Maksupalvelun käyttäjä ja palveluntarjoaja voivat sopia, että palveluntarjoaja voi ehdottaa muutoksia pienmaksuvälinettä koskevaan puitesopimukseen muullakin kuin pysyvällä tavalla.",
+      "section_number": "31",
+      "chapter_number": 3,
+      "statute_id": "417/1992"
+    },
+    {
+      "id": "aac89eb1-d103-4054-acf9-ae6ab1370473",
+      "node_type": "Section",
+      "publisher": "finlex",
+      "title": "32 § Koron ja valuutan vaihtokurssin muutokset",
+      "text": "Koron ja valuutan vaihtokurssin muutoksia voidaan soveltaa välittömästi ilman ennakkoilmoitusta, jos tällaisesta oikeudesta on sovittu puitesopimuksessa ja jos muutokset perustuvat sellaiseen viitekorkoon tai -kurssiin, jonka määrityspäivästä ja indeksistä tai muusta laskentaperusteesta on sovittu puitesopimuksessa. Maksupalvelun käyttäjälle edullisia koron ja valuutan vaihtokurssin muutoksia voidaan aina soveltaa välittömästi ilman ennakkoilmoitusta. Osapuolet voivat puitesopimuksessa sopia, että koron muutoksia koskevat tiedot toimitetaan tai asetetaan saataville tietyllä tavalla tai tietyin määräajoin. Jos puitesopimuksessa ei ole sovittu, millä tavalla ja kuinka usein koron muutoksia koskevat tiedot annetaan, palveluntarjoajan on toimitettava tiedot kirjallisesti tai muulla pysyvällä tavalla niin pian kuin mahdollista.",
+      "section_number": "32",
+      "chapter_number": 3,
+      "statute_id": "417/1992"
+    },
+    {
+      "id": "7a4018ce-ecf5-40ff-87ef-61c562c1526b",
+      "node_type": "Section",
+      "publisher": "finlex",
+      "title": "33 § Viitekorko ja viitekurssi sekä koron ja vaihtokurssin muutokset",
+      "text": "Sovellettavan koron perustana käytettävän viitekoron on oltava julkisesti saatavilla. Valuutanmuunnon yhteydessä sovellettavan vaihtokurssin perustana käytettävän viitekurssin on oltava julkisesti saatavilla. Koron ja vaihtokurssin muutokset on toteutettava tasapuolisesti ja maksupalvelun käyttäjiä syrjimättömällä tavalla.",
+      "section_number": "33",
+      "chapter_number": 3,
+      "statute_id": "417/1992"
+    },
+    {
+      "id": "d006cf58-b40a-4dff-899a-202428f0b765",
+      "node_type": "Section",
+      "publisher": "finlex",
+      "title": "34 § Maksupalvelun käyttäjän oikeus irtisanoa puitesopimus",
+      "text": "Maksupalvelun käyttäjä saa milloin tahansa sopimussuhteen aikana irtisanoa sekä toistaiseksi voimassa olevan että määräaikaisen puitesopimuksen heti päättyväksi, jolleivät osapuolet ole sopineet irtisanomisajasta. Maksupalvelun käyttäjän irtisanomisaikaa ei saa sopia kuukautta pitemmäksi.",
+      "section_number": "34",
+      "chapter_number": 3,
+      "statute_id": "417/1992"
+    },
+    {
+      "id": "407ce130-82f6-49a9-a29c-b455add39ee2",
+      "node_type": "Section",
+      "publisher": "finlex",
+      "title": "35 § Palveluntarjoajan oikeus irtisanoa puitesopimus",
+      "text": "Palveluntarjoaja saa irtisanoa toistaiseksi voimassa olevan puitesopimuksen puitesopimuksessa sovituin ehdoin. Palveluntarjoajan irtisanomisaikaa ei saa sopia kahta kuukautta lyhyemmäksi. Palveluntarjoajan on toimitettava irtisanomisilmoitus maksupalvelun käyttäjälle kirjallisesti tai muulla pysyvällä tavalla.",
+      "section_number": "35",
+      "chapter_number": 3,
+      "statute_id": "417/1992"
+    },
+    {
+      "id": "5aaed859-b56f-47a9-a86c-fc8e88a4e4a9",
+      "node_type": "Section",
+      "publisher": "finlex",
+      "title": "36 § Irtisanomistilanteessa perittävät kulut",
+      "text": "Palveluntarjoaja ei saa periä maksupalvelun käyttäjältä maksua puitesopimuksen irtisanomisesta. Maksupalvelun käyttäjän on maksettava maksupalveluista säännöllisesti perittävät kulut vain siltä osin kuin ne kohdistuvat puitesopimuksen irtisanomisen voimaantuloa edeltävään aikaan. Jos maksupalvelun käyttäjä on maksanut tällaisia kuluja ennakolta, palveluntarjoajan on palautettava ne siltä osin kuin ne kohdistuvat irtisanomisen voimaantulon jälkeiseen aikaan.",
+      "section_number": "36",
+      "chapter_number": 3,
+      "statute_id": "417/1992"
+    },
+    {
+      "id": "bad2d342-be9a-41b3-bb25-7e4a21e8d466",
+      "node_type": "Section",
+      "publisher": "finlex",
+      "title": "37 § Puitesopimuksen purkaminen",
+      "text": "Maksupalvelun käyttäjällä on oikeus purkaa puitesopimus, jos palveluntarjoaja on olennaisesti rikkonut sopimukseen perustuvia velvoitteitaan. Palveluntarjoajalla on oikeus purkaa puitesopimus, jos maksupalvelun käyttäjä on olennaisesti rikkonut sopimukseen perustuvia velvoitteitaan. Peruspankkipalvelua koskevan puitesopimuksen purkamisessa on kuitenkin soveltuvin osin otettava huomioon, mitä luottolaitostoiminnasta annetun lain 134 §:ssä säädetään. Palveluntarjoajan on toimitettava ilmoitus sopimuksen purkamisesta maksupalvelun käyttäjälle kirjallisesti tai muulla pysyvällä tavalla. Jos siitä, että palveluntarjoaja purkaa sopimuksen, seuraa maksuvälineen käytön estäminen, palveluntarjoajan ilmoitusvelvollisuudesta on lisäksi voimassa, mitä 57 §:n 2 ja 3 momentissa säädetään.",
+      "section_number": "37",
+      "chapter_number": 3,
+      "statute_id": "417/1992"
+    },
+    {
+      "id": "040d2bc5-fc82-4e49-9fc0-d0348a2bd643",
+      "node_type": "Section",
+      "publisher": "finlex",
+      "title": "38 § Maksajan suostumus maksutapahtuman toteuttamiseen",
+      "text": "Maksutapahtuma saadaan toteuttaa vain maksajan suostumuksella. Maksutapahtumaa pidetään oikeudettomana, jollei maksaja ole antanut siihen suostumustaan sovitulla tavalla. Maksaja voi peruuttaa suostumuksensa 40 §:ssä tarkoitettuun ajankohtaan saakka.",
+      "section_number": "38",
+      "chapter_number": 4,
+      "statute_id": "417/1992"
+    },
+    {
+      "id": "c3603764-6ecb-45d0-80d8-47301302012d",
+      "node_type": "Section",
+      "publisher": "finlex",
+      "title": "39 § Maksutoimeksiannon vastaanottohetki",
+      "text": "Maksutoimeksianto katsotaan vastaanotetuksi, kun maksajan palveluntarjoaja on vastaanottanut sen. Jos maksutapahtuman käynnistävä maksupalvelun käyttäjä ja hänen palveluntarjoajansa ovat sopineet, että maksutoimeksiannon toteuttaminen aloitetaan tiettynä päivänä tai tietyn ajan kuluttua taikka sinä päivänä, jona maksaja on asettanut varat palveluntarjoajan saataville, 47 §:ssä tarkoitettuna maksutoimeksiannon vastaanottohetkenä pidetään kuitenkin kyseistä päivää. Jos 1 tai 2 momentissa tarkoitettu ajankohta ei ole maksajan palveluntarjoajan työpäivä, palveluntarjoajan katsotaan vastaanottaneen maksutoimeksiannon seuraavana työpäivänä. Maksajan palveluntarjoaja voi 1 momentissa tarkoitetussa tapauksessa asettaa lähelle työpäivänsä päättymistä aikarajan, jonka jälkeen saapunut toimeksianto katsotaan vastaanotetuksi seuraavana työpäivänä.",
+      "section_number": "39",
+      "chapter_number": 4,
+      "statute_id": "417/1992"
+    },
+    {
+      "id": "8b3c30c6-6baf-45b4-97a8-3796ecf0dbe1",
+      "node_type": "Section",
+      "publisher": "finlex",
+      "title": "40 § Maksutoimeksiannon peruuttaminen",
+      "text": "Maksupalvelun käyttäjä ei voi peruuttaa maksutoimeksiantoa sen jälkeen, kun maksajan palveluntarjoaja on vastaanottanut sen, jollei 2―4 momentista muuta johdu. Jos maksupalvelun käyttäjä ja hänen palveluntarjoajansa ovat sopineet maksutoimeksiannon toteuttamisen aloittamisesta tiettynä päivänä tai tietyn ajan kuluttua taikka sinä päivänä, jona maksaja on asettanut varat palveluntarjoajan saataville, maksupalvelun käyttäjä voi peruuttaa toimeksiannon viimeistään kyseistä päivää edeltävänä työpäivänä. Jos maksutapahtuma on maksunsaajan käynnistämä tai hänen välityksellään käynnistetty, maksaja ei voi peruuttaa maksutoimeksiantoa sen jälkeen, kun toimeksianto tai maksajan suostumus maksutapahtuman toteuttamiseen on annettu maksunsaajalle. Suoraveloitusta koskevan toimeksiannon maksaja voi kuitenkin peruuttaa viimeistään sitä päivää edeltävänä työpäivänä, jona varat on sovittu veloitettaviksi. Edellä 1―3 momentissa tarkoitetun ajankohdan jälkeen maksutoimeksianto voidaan peruuttaa vain, jos maksupalvelun käyttäjä ja hänen palveluntarjoajansa niin sopivat. Edellä 3 momentissa tarkoitetussa tapauksessa edellytyksenä on lisäksi, että maksunsaaja suostuu toimeksiannon peruuttamiseen. Jos maksutapahtuma toteutetaan eräistä arvopaperi- ja valuuttakaupan sekä selvitysjärjestelmän ehdoista annetussa laissa (1084/1999) tarkoitetun selvitysjärjestelmän välityksellä, maksupalvelun käyttäjällä ei kuitenkaan ole oikeutta peruuttaa maksutoimeksiantoa sen jälkeen, kun järjestelmän osapuoli ei järjestelmän sääntöjen mukaan saa peruuttaa maksutoimeksiantoa. Palveluntarjoaja saa periä maksupalvelun käyttäjältä kulut 4 momentissa tarkoitetusta maksutoimeksiannon peruuttamisesta, jos tällaisesta oikeudesta on puitesopimuksessa sovittu. Perittävien kulujen on oltava asianmukaiset eivätkä ne saa ylittää palveluntarjoajan tosiasiallisia kustannuksia.",
+      "section_number": "40",
+      "chapter_number": 4,
+      "statute_id": "417/1992"
+    },
+    {
+      "id": "77fbf34b-958d-4dfa-aeff-896338ae7293",
+      "node_type": "Section",
+      "publisher": "finlex",
+      "title": "41 § Palveluntarjoajan velvollisuus toteuttaa maksutoimeksianto",
+      "text": "Palveluntarjoaja saa kieltäytyä toteuttamasta maksutoimeksiantoa vain, jos puitesopimuksessa sovitut ehdot maksutoimeksiannon toteuttamiselle eivät täyty tai jos muualla laissa niin säädetään.",
+      "section_number": "41",
+      "chapter_number": 4,
+      "statute_id": "417/1992"
+    },
+    {
+      "id": "a0d3afb1-d540-45b4-bb41-815183045e3a",
+      "node_type": "Section",
+      "publisher": "finlex",
+      "title": "42 § Ilmoitus maksutoimeksiannon toteuttamisesta kieltäytymisestä",
+      "text": "Jos palveluntarjoaja kieltäytyy toteuttamasta maksutoimeksiantoa, palveluntarjoajan on ilmoitettava maksupalvelun käyttäjälle kieltäytymisestä, kieltäytymisen perusteesta sekä menettelystä, jolla kieltäytymiseen johtanut virhe tai puute voidaan korjata, jollei ilmoittamista ole muualla laissa kielletty. Ilmoitus on toimitettava maksupalvelun käyttäjälle tai asetettava hänen saatavilleen sovitulla tavalla mahdollisimman pian. Ilmoitus on tehtävä ennen kuin se määräaika, jonka kuluessa maksutoimeksianto tulisi toteuttaa, päättyy. Osapuolet voivat puitesopimuksessa sopia, että palveluntarjoajalla on oikeus periä kulut ilmoituksen tekemisestä, jos palveluntarjoajalla on ollut perusteltu syy kieltäytyä toteuttamasta toimeksiantoa. Perittävien kulujen on oltava asianmukaiset eivätkä ne saa ylittää palveluntarjoajan tosiasiallisia kustannuksia.",
+      "section_number": "42",
+      "chapter_number": 4,
+      "statute_id": "417/1992"
+    },
+    {
+      "id": "68c6a503-62bd-4e00-92c0-ad3e949b01c2",
+      "node_type": "Section",
+      "publisher": "finlex",
+      "title": "43 § Pienmaksuvälineellä tehdyn maksutoimeksiannon peruuttaminen ja toteuttamisesta kieltäytyminen",
+      "text": "Poiketen siitä, mitä 40 ja 42 §:ssä säädetään, maksupalvelun käyttäjä ja palveluntarjoaja voivat sopia, jos maksutapahtumassa käytetään pienmaksuvälinettä, että:",
+      "section_number": "43",
+      "chapter_number": 4,
+      "statute_id": "417/1992"
+    },
+    {
+      "id": "0178bd7d-c5f2-40a2-a5ef-d269d2df5cdd",
+      "node_type": "Section",
+      "publisher": "finlex",
+      "title": "44 § Yksilöivän tunnisteen käyttö",
+      "text": "Palveluntarjoaja saa toteuttaa maksutapahtuman yksilöivän tunnisteen perusteella, vaikka maksupalvelun käyttäjä olisi antanut sen lisäksi muitakin tietoja maksutapahtuman toteuttamiseksi.",
+      "section_number": "44",
+      "chapter_number": 4,
+      "statute_id": "417/1992"
+    },
+    {
+      "id": "7f0c8139-47d9-4f0d-97de-07536f4c035d",
+      "node_type": "Section",
+      "publisher": "finlex",
+      "title": "45 § Maksutapahtuman täysimääräisyys",
+      "text": "Maksutapahtuman toteuttamiseen osallistuvien palveluntarjoajien ja välittäjien on toteutettava maksutapahtuma täysimääräisenä. Maksunsaajan palveluntarjoaja voi kuitenkin vähentää maksutapahtuman rahamäärästä omat kulunsa, jos tällaisesta oikeudesta on maksunsaajan kanssa sovittu. Tällöin maksutapahtuman rahamäärä ja siitä vähennetyt kulut on eriteltävä maksunsaajalle. Jos maksutapahtuman rahamäärästä vähennetään muita kuin 2 momentissa tarkoitettuja kuluja, maksajan palveluntarjoaja vastaa siitä, että maksunsaaja saa maksajan käynnistämän maksutapahtuman täysimääräisenä tai vain 2 momentissa tarkoitetuilla kuluilla vähennettynä. Sama vastuu on maksunsaajan palveluntarjoajalla, jos maksutapahtuma on maksunsaajan käynnistämä tai tämän välityksellä käynnistetty.",
+      "section_number": "45",
+      "chapter_number": 4,
+      "statute_id": "417/1992"
+    },
+    {
+      "id": "41f0eedf-3783-4112-ba7c-9120abc19cba",
+      "node_type": "Section",
+      "publisher": "finlex",
+      "title": "46 § Maksutapahtuman toteuttamisesta perittävät kulut",
+      "text": "Maksaja ja maksunsaaja vastaavat kumpikin oman palveluntarjoajansa maksutapahtuman toteuttamisesta perimistä kuluista. Osapuolet voivat kuitenkin sopia kuluvastuusta toisin, jos maksutapahtumassa suoritetaan valuutanmuunto.",
+      "section_number": "46",
+      "chapter_number": 4,
+      "statute_id": "417/1992"
+    },
+    {
+      "id": "1b9c7230-f625-4b70-8c39-185002dc5cc0",
+      "node_type": "Section",
+      "publisher": "finlex",
+      "title": "47 § Maksajan palveluntarjoajan noudatettava toteuttamisaika",
+      "text": "Maksajan palveluntarjoajan on maksettava maksutapahtuman rahamäärä maksunsaajan palveluntarjoajan tilille viimeistään maksutoimeksiannon vastaanottamista seuraavana työpäivänä tai, jos maksutapahtuma on käynnistetty paperilla, vastaanottamista seuraavana toisena työpäivänä.",
+      "section_number": "47",
+      "chapter_number": 5,
+      "statute_id": "417/1992"
+    },
+    {
+      "id": "c241aebc-7085-4c89-88cc-bd065d66138c",
+      "node_type": "Section",
+      "publisher": "finlex",
+      "title": "48 § Maksunsaajan palveluntarjoajan noudatettava toimittamisaika",
+      "text": "Maksunsaajan palveluntarjoajan on toimitettava maksunsaajan käynnistämää tai tämän välityksellä käynnistettyä maksutapahtumaa koskeva toimeksianto maksajan palveluntarjoajalle siinä määräajassa, josta on sovittu maksunsaajan kanssa.",
+      "section_number": "48",
+      "chapter_number": 5,
+      "statute_id": "417/1992"
+    },
+    {
+      "id": "687039aa-700f-4930-85de-29ca64051b55",
+      "node_type": "Section",
+      "publisher": "finlex",
+      "title": "49 § Maksunsaajan palveluntarjoajan noudatettava toteuttamisaika",
+      "text": "Maksunsaajan palveluntarjoajan on maksettava maksutapahtuman rahamäärä maksunsaajan maksutilille välittömästi saatuaan sen tililleen. Jos maksunsaajalla ei ole palveluntarjoajan pitämää maksutiliä, maksunsaajan palveluntarjoajan on samassa ajassa asetettava maksutapahtuman rahamäärä maksunsaajan käytettäväksi.",
+      "section_number": "49",
+      "chapter_number": 5,
+      "statute_id": "417/1992"
+    },
+    {
+      "id": "a896a49b-9597-404e-8905-ef6918279f19",
+      "node_type": "Section",
+      "publisher": "finlex",
+      "title": "50 § Pienmaksuvälineellä tehdyn maksutapahtuman toteuttamisaika",
+      "text": "Maksupalvelun käyttäjä ja palveluntarjoaja voivat sopia, että maksutapahtuma toteutetaan muussa kuin 47 ja 49 §:ssä säädetyssä määräajassa, jos maksutapahtumassa käytetään pienmaksuvälinettä.",
+      "section_number": "50",
+      "chapter_number": 5,
+      "statute_id": "417/1992"
+    },
+    {
+      "id": "fde0c137-f436-424f-821d-b570193b91f9",
+      "node_type": "Section",
+      "publisher": "finlex",
+      "title": "51 § Arvopäivä",
+      "text": "Maksajan maksutililtä veloituksen arvopäivä saa olla aikaisintaan se päivä, jona maksutapahtuman rahamäärä veloitetaan maksajan maksutililtä. Maksunsaajan maksutilin hyvityksen arvopäivän on oltava viimeistään se työpäivä, jona maksutapahtuman rahamäärä maksetaan maksunsaajan palveluntarjoajan tilille.",
+      "section_number": "51",
+      "chapter_number": 5,
+      "statute_id": "417/1992"
+    },
+    {
+      "id": "dba23069-730f-4b83-8ec4-84cc14c5b298",
+      "node_type": "Section",
+      "publisher": "finlex",
+      "title": "52 § Käteispano maksutilille",
+      "text": "Jos palveluntarjoajan pitämälle maksutilille tehdään maksutilin valuutan määräinen käteispano, palveluntarjoajan on asetettava varat tilinhaltijan käytettäviksi: Edellä 1 momentissa tarkoitetussa tapauksessa palveluntarjoajan on määritettävä arvopäiväksi viimeistään varojen vastaanottopäivä, jos tilinhaltija on kuluttaja. Jos tilinhaltija on muu kuin kuluttaja, arvopäiväksi on määritettävä viimeistään seuraava työpäivä päivästä, jona palveluntarjoaja on vastaanottanut varat.",
+      "section_number": "52",
+      "chapter_number": 5,
+      "statute_id": "417/1992"
+    },
+    {
+      "id": "28f511e5-e8b5-45ed-92bc-7d6d8ac06096",
+      "node_type": "Section",
+      "publisher": "finlex",
+      "title": "53 § Maksuvälineestä huolehtiminen",
+      "text": "Maksuvälineen haltijan on käytettävä maksuvälinettä sen myöntämistä ja käyttöä koskevien ehtojen mukaisesti. Erityisesti hänen on kohtuullisin toimenpitein huolehdittava maksuvälineestä ja siihen liittyvistä tunnistetiedoista. Maksuvälineen haltijan velvollisuus huolehtia maksuvälineestä ja siihen liittyvistä tunnistetiedoista alkaa, kun hän vastaanottaa ne. Palveluntarjoajan on osaltaan varmistettava, että muilla kuin maksuvälineen haltijalla ei ole pääsyä maksuvälineeseen liittyviin tunnistetietoihin.",
+      "section_number": "53",
+      "chapter_number": 6,
+      "statute_id": "417/1992"
+    },
+    {
+      "id": "25b6deac-26fc-4817-8a99-ae4c6c9be5b1",
+      "node_type": "Section",
+      "publisher": "finlex",
+      "title": "54 § Katoamisilmoitus",
+      "text": "Maksuvälineen haltijan on ilman aiheetonta viivytystä ilmoitettava palveluntarjoajalle tai sen nimeämälle muulle taholle havaitsemastaan maksuvälineen katoamisesta, joutumisesta oikeudettomasti toisen haltuun tai oikeudettomasta käytöstä. Maksuvälineen haltijalla on oikeus pyynnöstä saada palveluntarjoajaltaan todistus siitä, että hän on tehnyt 1 momentissa tarkoitetun ilmoituksen. Todistusta on pyydettävä 18 kuukauden kuluessa ilmoituksen tekemisestä.",
+      "section_number": "54",
+      "chapter_number": 6,
+      "statute_id": "417/1992"
+    },
+    {
+      "id": "d3a498c9-cbaa-4381-ac5a-b45527a18a7f",
+      "node_type": "Section",
+      "publisher": "finlex",
+      "title": "55 § Keinot ilmoittaa maksuvälineen katoamisesta",
+      "text": "Palveluntarjoajan on huolehdittava siitä, että maksuvälineen haltijalla on mahdollisuus tehdä milloin tahansa palveluntarjoajalle tai sen nimeämälle muulle taholle ilmoitus maksuvälineen katoamisesta, joutumisesta oikeudettomasti toisen haltuun tai oikeudettomasta käytöstä.",
+      "section_number": "55",
+      "chapter_number": 6,
+      "statute_id": "417/1992"
+    },
+    {
+      "id": "5d687c12-372a-4543-a57a-c915ee5a6094",
+      "node_type": "Section",
+      "publisher": "finlex",
+      "title": "56 § Palveluntarjoajan velvollisuus sulkea maksuväline",
+      "text": "Palveluntarjoajan on estettävä maksuvälineen käyttö, kun maksuvälineen haltija on ilmoittanut maksuvälineen katoamisesta, joutumisesta oikeudettomasti toisen haltuun tai oikeudettomasta käytöstä.",
+      "section_number": "56",
+      "chapter_number": 6,
+      "statute_id": "417/1992"
+    },
+    {
+      "id": "7c8c51f2-34ae-4536-838d-96604cf21b2e",
+      "node_type": "Section",
+      "publisher": "finlex",
+      "title": "57 § Palveluntarjoajan oikeus sulkea maksuväline",
+      "text": "Jos osapuolet ovat puitesopimuksessa niin sopineet, palveluntarjoajalla on oikeus estää maksuvälineen käyttö, jos: Palveluntarjoajan on ilmoitettava maksuvälineen käytön estämisestä ja sen syistä maksuvälineen haltijalle sovitulla tavalla etukäteen. Ilmoitus voidaan kuitenkin tehdä välittömästi maksuvälineen käytön estämisen jälkeen, jos tämä on vahinkojen estämiseksi tai rajoittamiseksi perusteltua. Ilmoitusta ei saa tehdä, jos ilmoituksen tekeminen vaarantaisi maksupalvelujen luotettavuuden tai turvallisuuden tai jos sen tekeminen on muualla laissa kielletty.",
+      "section_number": "57",
+      "chapter_number": 6,
+      "statute_id": "417/1992"
+    },
+    {
+      "id": "423d9879-abbc-4333-a4b0-4844c0edff7b",
+      "node_type": "Section",
+      "publisher": "finlex",
+      "title": "58 § Maksuvälineen käyttömahdollisuuden palauttaminen",
+      "text": "Palveluntarjoajan on palautettava maksuvälineen käyttömahdollisuus tai korvattava maksuväline uudella mahdollisimman pian sen jälkeen, kun maksuvälineen käytön estämiselle ei enää ole perustetta. Palveluntarjoajan on huolehdittava siitä, että maksuvälineen haltijalla on mahdollisuus pyytää milloin tahansa palveluntarjoajalta maksuvälineen käyttömahdollisuuden palauttamista.",
+      "section_number": "58",
+      "chapter_number": 6,
+      "statute_id": "417/1992"
+    },
+    {
+      "id": "e95890f2-9dba-45f0-9a3d-c30db80cb06c",
+      "node_type": "Section",
+      "publisher": "finlex",
+      "title": "59 § Maksuvälineen toimittaminen",
+      "text": "Palveluntarjoaja saa toimittaa maksupalvelun käyttäjälle maksuvälineen ilman nimenomaista pyyntöä vain, jos aikaisemmin annettu maksuväline on korvattava uudella.",
+      "section_number": "59",
+      "chapter_number": 6,
+      "statute_id": "417/1992"
+    },
+    {
+      "id": "cf7ccaa8-b7ab-4d70-b0bd-45b31ce7cc7d",
+      "node_type": "Section",
+      "publisher": "finlex",
+      "title": "60 § Maksu tai alennus maksuvälineen käyttämisestä",
+      "text": "Palveluntarjoaja ei saa estää maksunsaajaa pyytämästä maksajalta maksua maksuvälineen käyttämisestä eikä tarjoamasta alennusta sen vuoksi, että maksuvälinettä käytetään. Maksunsaajan maksuvälineen käyttämisestä perimän maksun on oltava asianmukainen eikä se saa ylittää maksunsaajalle aiheutuvia tosiasiallisia kustannuksia.",
+      "section_number": "60",
+      "chapter_number": 6,
+      "statute_id": "417/1992"
+    },
+    {
+      "id": "1b9c1ef4-4b57-47c2-9042-77ae9ee29865",
+      "node_type": "Section",
+      "publisher": "finlex",
+      "title": "61 § Pienmaksuvälineen katoaminen",
+      "text": "Jos pienmaksuvälineen käyttöä ei sen ominaisuuksien vuoksi voida estää, maksupalvelun käyttäjä ja palveluntarjoaja voivat sopia, ettei pienmaksuvälinettä koskevaan sopimukseen sovelleta, mitä 54―56 §:ssä säädetään.",
+      "section_number": "61",
+      "chapter_number": 6,
+      "statute_id": "417/1992"
+    },
+    {
+      "id": "2404ef87-4b7f-403a-959a-68027b0fefca",
+      "node_type": "Section",
+      "publisher": "finlex",
+      "title": "62 § Maksupalvelun käyttäjän vastuu maksuvälineen oikeudettomasta käytöstä",
+      "text": "Maksupalvelun käyttäjä, joka on tehnyt maksuvälinettä koskevan sopimuksen palveluntarjoajan kanssa, vastaa maksuvälineen oikeudettomasta käytöstä vain, jos: Maksupalvelun käyttäjän vastuu maksuvälineen oikeudettomasta käytöstä 1 momentin 2 ja 3 kohdassa tarkoitetuissa tapauksissa on enintään 150 euroa. Tätä rajoitusta ei sovelleta, jos maksupalvelun käyttäjä tai muu maksuvälineen haltija on toiminut tahallisesti tai törkeän huolimattomasti. Maksupalvelun käyttäjä ei vastaa maksuvälineen oikeudettomasta käytöstä: Sen estämättä, mitä 3 momentissa säädetään, maksupalvelun käyttäjä on vastuussa maksuvälineen oikeudettomasta käytöstä, jos hän tai muu maksuvälineen haltija on tahallaan tehnyt väärän ilmoituksen tai toiminut muuten petollisesti.",
+      "section_number": "62",
+      "chapter_number": 7,
+      "statute_id": "417/1992"
+    },
+    {
+      "id": "be3343d9-5111-4752-a8e9-a20881011854",
+      "node_type": "Section",
+      "publisher": "finlex",
+      "title": "63 § Palveluntarjoajan vastuu oikeudettomasta maksutapahtumasta",
+      "text": "Jos maksutapahtuma on toteutettu oikeudettomasti eikä 62 §:stä muuta johdu, palveluntarjoajan, jonka asiakkaan varoja on käytetty maksutapahtuman toteuttamiseen, on välittömästi palautettava maksutapahtuman rahamäärä asiakkaalleen tai palautettava tämän maksutili siihen tilaan, jossa se olisi ollut ilman veloitusta.",
+      "section_number": "63",
+      "chapter_number": 7,
+      "statute_id": "417/1992"
+    },
+    {
+      "id": "c532aef9-5592-4482-84d3-a8d6441371db",
+      "node_type": "Section",
+      "publisher": "finlex",
+      "title": "64 § Vastuu maksajan käynnistämästä toteuttamatta jääneestä tai virheellisesti toteutetusta maksutapahtumasta",
+      "text": "Jos maksajan käynnistämä maksutapahtuma on jäänyt toteuttamatta tai se on toteutettu virheellisesti, maksajan palveluntarjoajan on ilman aiheetonta viivytystä palautettava maksutapahtuman rahamäärä maksajalle tai palautettava maksajan maksutili siihen tilaan, jossa se olisi ollut ilman veloitusta. Palautusvelvollisuutta ei kuitenkaan ole, jos maksajan palveluntarjoaja voi osoittaa maksunsaajan palveluntarjoajan vastaanottaneen maksutapahtuman rahamäärän 47 §:n mukaisessa määräajassa. Maksunsaajan palveluntarjoajan on tällöin välittömästi maksettava maksutapahtuman rahamäärä maksunsaajan maksutilille tai, jollei maksunsaaja käytä maksutiliä, asetettava maksutapahtuman rahamäärä hänen käytettäväkseen.",
+      "section_number": "64",
+      "chapter_number": 7,
+      "statute_id": "417/1992"
+    },
+    {
+      "id": "6c680c2d-36ad-48da-9680-dd4a12e0c476",
+      "node_type": "Section",
+      "publisher": "finlex",
+      "title": "65 § Vastuu maksunsaajan käynnistämästä tai hänen välityksellään käynnistetystä toteuttamatta jääneestä tai virheellisesti toteutetusta maksutapahtumasta",
+      "text": "Jos maksunsaajan käynnistämä tai hänen välityksellään käynnistetty maksutapahtuma on jäänyt toteuttamatta tai se on toteutettu virheellisesti, maksajan palveluntarjoajan on ilman aiheetonta viivytystä palautettava maksutapahtuman rahamäärä maksajalle tai palautettava maksajan maksutili siihen tilaan, jossa se olisi ollut ilman veloitusta. Palautusvelvollisuutta ei kuitenkaan ole, jos maksutapahtuman toteuttamatta jääminen tai virheellinen toteuttaminen johtuu siitä, että maksunsaajan palveluntarjoaja on laiminlyönyt 48 tai 49 §:n mukaisia velvollisuuksiaan.",
+      "section_number": "65",
+      "chapter_number": 7,
+      "statute_id": "417/1992"
+    },
+    {
+      "id": "41ed5874-65b6-4b18-b5bc-c72cc9c28df9",
+      "node_type": "Section",
+      "publisher": "finlex",
+      "title": "66 § Maksutapahtuman jäljittäminen",
+      "text": "Jos maksajan käynnistämä maksutapahtuma on jäänyt toteuttamatta tai se on toteutettu virheellisesti, maksajan palveluntarjoajan on maksajan pyynnöstä ryhdyttävä välittömästi jäljittämään maksutapahtumaa. Jäljittämisen tuloksista on ilmoitettava maksajalle. Jos maksunsaajan käynnistämä tai hänen välityksellään käynnistetty maksutapahtuma on jäänyt toteuttamatta tai se on toteutettu virheellisesti, maksunsaajan palveluntarjoajan on ryhdyttävä maksunsaajan pyynnöstä välittömästi jäljittämään maksutapahtumaa. Jäljittämisen tuloksista on ilmoitettava maksunsaajalle. Palveluntarjoaja saa periä maksupalvelun käyttäjältä kulut, jotka se joutuu jäljittämisen johdosta suorittamaan sellaiselle maksutapahtuman toteuttamiseen osallistuneelle maksajan tai maksunsaajan palveluntarjoajalle, joka sijaitsee Euroopan talousalueen ulkopuolella. Kulujen periminen edellyttää, että tällaisesta oikeudesta on sovittu puitesopimuksessa tai että palveluntarjoaja on maksupalvelun käyttäjän pyydettyä maksutapahtuman jäljittämistä ilmoittanut tälle kuluvastuusta ja maksupalvelun käyttäjä on tämän jälkeen hyväksynyt jäljittämisen aloittamisen.",
+      "section_number": "66",
+      "chapter_number": 7,
+      "statute_id": "417/1992"
+    },
+    {
+      "id": "bd6c22b9-5059-4ec0-96d6-2e799e126b16",
+      "node_type": "Section",
+      "publisher": "finlex",
+      "title": "67 § Velvollisuus palauttaa kulut ja korvata korko",
+      "text": "Jos maksutapahtuma on jäänyt toteuttamatta tai se on toteutettu virheellisesti, maksupalvelun käyttäjällä on oikeus saada palveluntarjoajaltaan takaisin kulut, jotka häneltä on peritty maksutapahtumasta. Lisäksi maksupalvelun käyttäjällä on oikeus saada palveluntarjoajaltaan korvaus korosta, jonka hän joutuu suorittamaan tai joka häneltä jää saamatta maksutapahtuman toteuttamatta jäämisen tai virheellisen toteuttamisen vuoksi.",
+      "section_number": "67",
+      "chapter_number": 7,
+      "statute_id": "417/1992"
+    },
+    {
+      "id": "623ff77a-2672-44e0-a61a-8b7fdd731590",
+      "node_type": "Section",
+      "publisher": "finlex",
+      "title": "68 § Virheellinen yksilöivä tunniste",
+      "text": "Palveluntarjoaja ei ole 64―67 §:n mukaisesti vastuussa toteuttamatta jääneestä tai virheellisesti toteutetusta maksutapahtumasta, jos syynä on se, että maksupalvelun käyttäjän antama yksilöivä tunniste on virheellinen. Maksajan palveluntarjoajan on 1 momentissa tarkoitetussa tilanteessa kuitenkin kohtuullisin toimenpitein pyrittävä saamaan virheellisesti toteutetun maksutapahtuman varat takaisin. Palveluntarjoaja saa periä maksupalvelun käyttäjältä kulut maksutapahtuman varojen takaisin hankkimisesta, jos tällaisesta oikeudesta on sovittu puitesopimuksessa. Perittävien kulujen on oltava asianmukaiset eivätkä ne saa ylittää palveluntarjoajan tosiasiallisia kustannuksia.",
+      "section_number": "68",
+      "chapter_number": 7,
+      "statute_id": "417/1992"
+    },
+    {
+      "id": "6305dba1-e29c-4a54-859f-3465621c80d6",
+      "node_type": "Section",
+      "publisher": "finlex",
+      "title": "69 § Vahingonkorvaus",
+      "text": "Palveluntarjoaja on velvollinen korvaamaan vahingon, joka sen tämän lain tai sopimuksen vastaisesta menettelystä on aiheutunut maksupalvelun käyttäjälle. Maksupalvelun käyttäjälle aiheutuneen välillisen vahingon palveluntarjoaja on kuitenkin velvollinen korvaamaan vain, jos vahinko johtuu huolimattomuudesta palveluntarjoajan puolella. Välillisenä vahinkona pidetään: Jos 2 momentissa tarkoitettua vahinkoa aiheutuu muunlaisen vahingon rajoittamisesta, sitä ei kuitenkaan tältä osin pidetä välillisenä vahinkona. Palveluntarjoajan vastuu maksutoimeksiannon toteuttamisessa tapahtuneella virheellä tai laiminlyönnillä aiheutetusta välillisestä vahingosta voidaan sopimuksella sulkea pois tai sitä voidaan rajoittaa. Palveluntarjoaja ei voi vedota vastuunrajoitusehtoon, jos palveluntarjoaja tai joku, jonka menettelystä se vastaa, on aiheuttanut vahingon tahallisesti tai törkeästä huolimattomuudesta.",
+      "section_number": "69",
+      "chapter_number": 7,
+      "statute_id": "417/1992"
+    },
+    {
+      "id": "a3710a5d-eb2a-4a11-b621-db0944b4ef38",
+      "node_type": "Section",
+      "publisher": "finlex",
+      "title": "70 § Ilmoitus oikeudettomasta, toteuttamatta jääneestä tai virheellisesti toteutetusta maksutapahtumasta",
+      "text": "Maksupalvelun käyttäjällä ei ole oikeutta saada palveluntarjoajalta maksutapahtuman rahamäärän palautusta tai muuta hyvitystä siten kuin tässä luvussa säädetään, jollei hän ilmoita palveluntarjoajalle oikeudettomasta, toteuttamatta jääneestä tai virheellisesti toteutetusta maksutapahtumasta ilman aiheetonta viivytystä sen havaittuaan ja 13 kuukauden kuluessa maksutapahtuman rahamäärän veloittamisesta maksutililtään tai hyvittämisestä maksutililleen. Viimeksi mainittua määräaikaa ei sovelleta, jos palveluntarjoaja ei ole antanut maksupalvelun käyttäjälle maksutapahtumaa koskevia tietoja siten kuin 2 luvussa säädetään.",
+      "section_number": "70",
+      "chapter_number": 7,
+      "statute_id": "417/1992"
+    },
+    {
+      "id": "9625b13d-cf36-4958-9e68-9faa40fb63c0",
+      "node_type": "Section",
+      "publisher": "finlex",
+      "title": "71 § Virheilmoitus muissa tapauksissa",
+      "text": "Maksupalvelun käyttäjällä ei ole oikeutta saada palveluntarjoajalta korvausta vahingosta, joka on aiheutunut muusta kuin 70 §:ssä tarkoitetusta virheestä, jollei hän ilmoita virheestä palveluntarjoajalle kohtuullisessa ajassa siitä, kun hän havaitsi virheen tai hänen olisi pitänyt se havaita. Maksupalvelun käyttäjällä on tämän pykälän estämättä oikeus korvaukseen, jos palveluntarjoaja on menetellyt törkeän huolimattomasti tai kunnianvastaisesti ja arvottomasti.",
+      "section_number": "71",
+      "chapter_number": 7,
+      "statute_id": "417/1992"
+    },
+    {
+      "id": "dcaacdab-3f00-45a9-9da2-d1e7e5cf2abc",
+      "node_type": "Section",
+      "publisher": "finlex",
+      "title": "72 § Todistustaakka",
+      "text": "Jos maksupalvelun käyttäjä kiistää antaneensa suostumuksensa maksutapahtuman toteuttamiseen, hänen palveluntarjoajansa on osoitettava, että suostumus on annettu sovitulla tavalla. Jos maksupalvelun käyttäjä väittää, että maksutapahtuma on toteutettu virheellisesti, palveluntarjoajan on osoitettava, että maksutapahtuma on kirjattu ja merkitty tileille oikein ja ettei maksutapahtuman käsittelyyn ole vaikuttanut tekninen vika tai muu häiriö. Se seikka, että palveluntarjoaja voi näyttää, että suostumus maksutapahtuman toteuttamiseen on annettu maksuvälineellä, ei välttämättä yksin riitä osoittamaan, että maksuvälineen haltija on antanut suostumuksensa maksutapahtuman toteuttamiseen, toiminut petollisesti taikka laiminlyönyt tahallisesti tai törkeän huolimattomasti 53 ja 54 §:ssä säädettyjä velvollisuuksiaan.",
+      "section_number": "72",
+      "chapter_number": 7,
+      "statute_id": "417/1992"
+    },
+    {
+      "id": "b48be0a0-3e67-489d-99d5-50956cb8e99c",
+      "node_type": "Section",
+      "publisher": "finlex",
+      "title": "73 § Muut oikeudet",
+      "text": "Mitä 63―67 ja 69 §:ssä säädetään, ei rajoita maksupalvelun käyttäjän lakiin tai sopimukseen perustuvia muita oikeuksia.",
+      "section_number": "73",
+      "chapter_number": 7,
+      "statute_id": "417/1992"
+    },
+    {
+      "id": "aabb0433-e45e-4a2e-bf01-2cdc530fd21b",
+      "node_type": "Section",
+      "publisher": "finlex",
+      "title": "74 § Palveluntarjoajan takautumisoikeus",
+      "text": "Jos palveluntarjoaja on 64, 65 tai 67 §:n nojalla joutunut vastuuseen maksupalvelun käyttäjälle sellaisesta virheestä, joka johtuu toisesta maksutapahtuman toteuttamiseen osallistuvasta palveluntarjoajasta tai välittäjästä, palveluntarjoajalla on oikeus saada suorittamansa palautus tai hyvitys kyseiseltä palveluntarjoajalta tai välittäjältä. Mitä 1 momentissa säädetään, ei rajoita palveluntarjoajan lakiin tai sopimukseen perustuvia muita oikeuksia.",
+      "section_number": "74",
+      "chapter_number": 7,
+      "statute_id": "417/1992"
+    },
+    {
+      "id": "79f45805-0056-4e7c-b274-dd6f7d37a494",
+      "node_type": "Section",
+      "publisher": "finlex",
+      "title": "75 § Ylivoimainen este",
+      "text": "Edellä tässä luvussa säädettyä vastuuta ei synny, jos se, jota vaaditaan vastuuseen, voi osoittaa, että sille kuuluvan velvoitteen täyttämisen on estänyt sellainen epätavallinen ja ennalta-arvaamaton syy, johon se ei ole voinut vaikuttaa ja jonka seurauksia se ei kaikkea huolellisuutta noudattaen olisi voinut välttää. Palveluntarjoaja ei ole tässä luvussa säädetyn mukaisesti vastuussa myöskään, jos tässä laissa säädettyjen tai sopimukseen perustuvien velvoitteiden täyttäminen olisi vastoin muualla laissa säädettyjä palveluntarjoajan velvollisuuksia.",
+      "section_number": "75",
+      "chapter_number": 7,
+      "statute_id": "417/1992"
+    },
+    {
+      "id": "7ea8bd38-72b2-4ae2-aea3-07c2c8593b20",
+      "node_type": "Section",
+      "publisher": "finlex",
+      "title": "76 § Vahingon rajoittaminen ja vahingonkorvauksen sovittelu",
+      "text": "Vahinkoa kärsivän maksupalvelun käyttäjän on ryhdyttävä kohtuullisiin toimenpiteisiin vahinkonsa rajoittamiseksi. Jos hän laiminlyö tämän, hän saa itse kärsiä vastaavan osan vahingosta. Lain tai sopimuksen vastaisen menettelyn perusteella suoritettavaa vahingonkorvausta voidaan sovitella, jos se on kohtuuton ottaen huomioon rikkomuksen syy, maksupalvelun käyttäjän mahdollinen myötävaikutus vahinkoon, maksupalvelusta suoritettava vastike, palveluntarjoajan mahdollisuudet ennakoida ja estää vahingon syntyminen sekä muut olosuhteet.",
+      "section_number": "76",
+      "chapter_number": 7,
+      "statute_id": "417/1992"
+    },
+    {
+      "id": "73416169-25d4-47b9-ba4e-8528c42eb9b8",
+      "node_type": "Section",
+      "publisher": "finlex",
+      "title": "77 § Vastuusta sopiminen käytettäessä pienmaksuvälinettä",
+      "text": "Jos pienmaksuvälineen käyttöä ei sen ominaisuuksien vuoksi voida estää, maksupalvelun käyttäjä ja palveluntarjoaja voivat sopia, ettei pienmaksuvälinettä koskevaan sopimukseen sovelleta, mitä 62 §:n 3 momentin 1 ja 2 kohdassa säädetään. Jos pienmaksuväline on ominaisuuksiltaan sellainen, että sitä käytettäessä käyttäjän henkilöllisyys ei tule ilmi, tai jos palveluntarjoaja ei voi muista pienmaksuvälineen ominaisuuksiin liittyvistä syistä osoittaa, että pienmaksuvälineen haltija on antanut suostumuksensa maksutapahtuman toteuttamiseen, osapuolet voivat sopia, ettei pienmaksuvälinettä koskevaan sopimukseen sovelleta, mitä 62 §:n 1 ja 2 momentissa ja 3 momentin 3 kohdassa sekä 63 ja 72 §:ssä säädetään.",
+      "section_number": "77",
+      "chapter_number": 7,
+      "statute_id": "417/1992"
+    },
+    {
+      "id": "ab2f7ca9-7fbb-4d79-b773-89593c27941a",
+      "node_type": "Section",
+      "publisher": "finlex",
+      "title": "78 § Vastuusta käytettäessä sähköistä rahaa",
+      "text": "Mitä 62 ja 63 §:ssä säädetään, ei sovelleta luottolaitostoiminnasta annetun lain 6 §:n 1 momentissa tarkoitettuun sähköiseen rahaan, jos palveluntarjoajalla ei ole mahdollisuutta estää tilin tai maksuvälineen käyttöä.",
+      "section_number": "78",
+      "chapter_number": 7,
+      "statute_id": "417/1992"
+    },
+    {
+      "id": "990399ce-686b-4d91-a885-8da8cd4c2163",
+      "node_type": "Section",
+      "publisher": "finlex",
+      "title": "79 § Maksupalautuksen edellytykset",
+      "text": "Maksajan palveluntarjoajan on maksajan pyynnöstä palautettava maksunsaajan käynnistämän tai maksunsaajan välityksellä käynnistetyn maksutapahtuman rahamäärä kokonaisuudessaan maksajalle, jos maksutapahtuman rahamäärä: Maksaja ja hänen palveluntarjoajansa voivat puitesopimuksessa sopia, ettei maksajalla ole suoraveloituksessa oikeutta maksupalautukseen, jos maksaja on antanut suostumuksensa maksutapahtuman toteuttamiseen palveluntarjoajalleen ja palveluntarjoaja tai maksunsaaja on ilmoittanut hänelle maksutapahtuman veloittamisesta sovitulla tavalla vähintään neljä viikkoa ennen eräpäivää.",
+      "section_number": "79",
+      "chapter_number": 7,
+      "statute_id": "417/1992"
+    },
+    {
+      "id": "ea884f69-2a15-4220-861f-70afb8cea2a5",
+      "node_type": "Section",
+      "publisher": "finlex",
+      "title": "80 § Palautuspyynnön määräaika ja käsittely",
+      "text": "Maksajan on pyydettävä maksupalautusta palveluntarjoajalta kahdeksan viikon kuluessa maksutapahtuman rahamäärän veloittamisesta. Palveluntarjoajan on kymmenen työpäivän kuluessa palautuspyynnön vastaanottamisesta palautettava maksutapahtuman rahamäärä kokonaisuudessaan maksajalle. Jos palveluntarjoaja kieltäytyy palauttamasta maksutapahtuman rahamäärää, sen on ilmoitettava kieltäytymisen perusteet sekä ne viranomaiset ja muut vastaavat elimet, joiden käsiteltäväksi maksaja voi saattaa asian.",
+      "section_number": "80",
+      "chapter_number": 7,
+      "statute_id": "417/1992"
+    },
+    {
+      "id": "dcc8bd5b-cdd1-4735-958a-168a044dd7d7",
+      "node_type": "Section",
+      "publisher": "finlex",
+      "title": "81 § Maksun sitovuus sivullisiin nähden",
+      "text": "Maksu sitoo maksajan velkojia ja muita sivullisia, kun maksunsaajan palveluntarjoaja on saanut tarvittavat tiedot maksutapahtuman rahamäärän maksamiseksi maksunsaajan maksutilille ja: Maksu sitoo sivullisia kuitenkin aina, kun maksutapahtuman rahamäärä on maksettu maksunsaajan maksutilille.",
+      "section_number": "81",
+      "chapter_number": 8,
+      "statute_id": "417/1992"
+    },
+    {
+      "id": "ec488254-0178-4812-b301-35161a941157",
+      "node_type": "Section",
+      "publisher": "finlex",
+      "title": "82 § Maksajan vapautuminen suoritusvelvoitteestaan maksunsaajaan nähden",
+      "text": "Maksajan katsotaan täyttäneen suoritusvelvoitteensa maksunsaajalle maksutapahtuman rahamäärällä silloin, kun maksu sitoo 81 §:n nojalla sivullisia, jollei toisin säädetä tai maksajan ja maksunsaajan välisestä sopimuksesta tai omaksumasta käytännöstä taikka kauppatavasta tai muusta tavasta, jota on pidettävä maksajaa ja maksunsaajaa sitovana, johdu muuta.",
+      "section_number": "82",
+      "chapter_number": 8,
+      "statute_id": "417/1992"
+    },
+    {
+      "id": "10566d06-0410-4a00-b3c1-5ee2217db6d2",
+      "node_type": "Section",
+      "publisher": "finlex",
+      "title": "83 § Valvontaviranomaiset",
+      "text": "Finanssivalvonta valvoo tämän lain noudattamista valvottaviensa osalta. Myös kuluttaja-asiamies valvoo tämän lain noudattamista silloin, kun maksupalvelun käyttäjä on kuluttaja. Finanssivalvonnan ja kuluttaja-asiamiehen on oltava tarkoituksenmukaisessa yhteistyössä keskenään. Niiden on valvontatehtävää hoitaessaan toimittava tarvittaessa yhteistyössä Viestintäviraston kanssa. Palveluntarjoaja on velvollinen luovuttamaan valvontaviranomaisen nähtäviksi maksupalveluja koskevat valvonnan kannalta tarpeelliset asiakirjat.",
+      "section_number": "83",
+      "chapter_number": 9,
+      "statute_id": "417/1992"
+    },
+    {
+      "id": "47754f69-4749-45e3-b159-c354a9dbc4f1",
+      "node_type": "Section",
+      "publisher": "finlex",
+      "title": "84 § Finanssivalvonnan valvontatehtävän hoitaminen",
+      "text": "Finanssivalvonnan valvontatehtävän hoitamisesta, sen oikeudesta määrätä seuraamuksia sekä asian saattamisesta markkinaoikeuden käsiteltäväksi säädetään Finanssivalvonnasta annetun lain (878/2008) 5 luvussa.",
+      "section_number": "84",
+      "chapter_number": 9,
+      "statute_id": "417/1992"
+    },
+    {
+      "id": "de62bba1-b97f-48d2-a472-ea0fc8b18aaf",
+      "node_type": "Section",
+      "publisher": "finlex",
+      "title": "85 § Kiellon määrääminen kuluttajansuoja-asiassa",
+      "text": "Palveluntarjoajaa, joka tarjotessaan maksupalveluja kuluttajille rikkoo tämän lain säännöksiä, voidaan kuluttaja-asiamiehen hakemuksesta kieltää jatkamasta tällaista menettelyä tai uudistamasta sitä tai siihen rinnastettavaa menettelyä, jos se on kuluttajansuojan kannalta tarpeellista. Kieltoa on tehostettava uhkasakolla, jollei se erityisestä syystä ole tarpeetonta. Markkinaoikeus määrää 1 momentissa tarkoitetun kiellon. Markkinaoikeus voi antaa kiellon myös väliaikaisena, jolloin kielto on voimassa, kunnes asia on lopullisesti ratkaistu. Markkinaoikeudesta ja asian käsittelystä siinä on lisäksi voimassa, mitä niistä erikseen säädetään. Kuluttaja-asiamies voi määrätä 1 momentissa tarkoitetun kiellon tai antaa kiellon väliaikaisena noudattaen, mitä Kuluttajavirastosta annetussa laissa (1056/1998) säädetään kuluttaja-asiamiehen antamasta kiellosta.",
+      "section_number": "85",
+      "chapter_number": 9,
+      "statute_id": "417/1992"
+    },
+    {
+      "id": "eb4706f2-6aba-4b68-a558-3f1fb6581bd0",
+      "node_type": "Section",
+      "publisher": "finlex",
+      "title": "86 § Henkilötietojen käsittely",
+      "text": "Henkilötietojen käsittelyyn maksupalvelutoiminnassa sovelletaan, mitä henkilötietolaissa (523/1999) säädetään. Palveluntarjoaja saa henkilötietolain 11 §:n ja sen, mitä tietojen salassapidosta on säädetty, estämättä luovuttaa toiselle palveluntarjoajalle ja muuten käsitellä tietoja harjoittamaansa maksupalvelutoimintaan kohdistuneista epäillyistä ja tehdyistä rikoksista, jos tietojen käsittely on välttämätöntä maksupalveluihin liittyvien rikosten estämiseksi tai selvittämiseksi. Palveluntarjoaja ei saa rekisteröidä rikosta koskevaa tietoa eikä luovuttaa sitä toiselle palveluntarjoajalle ennen kuin rikoksesta on ilmoitettu poliisille tai muulle esitutkintaviranomaiselle taikka syyttäjälle. Tiedon saa kuitenkin rekisteröidä ja luovuttaa jo ennen tällaisen ilmoituksen tekemistä, jos se on välttämätöntä maksupalvelutoimintaan kohdistuvan vakavan tai laaja-alaisen uhkan torjumiseksi. Rikosta koskevat tiedot on poistettava rekisteristä välittömästi sen jälkeen, kun käsittelylle ei ole 2 momentissa tarkoitettua perustetta. Perustetta ja käsittelyn tarvetta on arvioitava vähintään viiden vuoden välein.",
+      "section_number": "86",
+      "chapter_number": 10,
+      "statute_id": "417/1992"
+    },
+    {
+      "id": "98e14088-56c9-46e0-a04f-8c3938ba4163",
+      "node_type": "Section",
+      "publisher": "finlex",
+      "title": "87 § Voimaantulo",
+      "text": "Tämä laki tulee voimaan 1 päivänä toukokuuta 2010. Tällä lailla kumotaan 28 päivänä heinäkuuta 1999 annettu tilisiirtolaki (821/1999) siihen myöhemmin tehtyine muutoksineen.",
+      "section_number": "87",
+      "chapter_number": 10,
+      "statute_id": "417/1992"
+    },
+    {
+      "id": "9598ce15-c3ab-4e97-95f0-052d799798f7",
+      "node_type": "Section",
+      "publisher": "finlex",
+      "title": "88 § Siirtymäkaudet",
+      "text": "Jos maksaja ja hänen palveluntarjoajansa niin sopivat, muissa kuin kotimaan maksutapahtumissa maksutapahtuman rahamäärä voidaan ennen 1 päivää tammikuuta 2012 maksaa 47 §:ssä säädetystä toteuttamisajasta poiketen maksunsaajan palveluntarjoajan tilille viimeistään maksutoimeksiannon vastaanottohetkeä seuraavana kolmantena työpäivänä tai, jos maksutapahtuma on käynnistetty paperilla, vastaanottohetkeä seuraavana neljäntenä työpäivänä. Puitesopimukseen, joka koskee 1 §:n 2 momentin 6 kohdassa tarkoitettujen maksutapahtumien toteuttamista, sovelletaan 1 päivään syyskuuta 2010 saakka 19―21 sekä 34 §:n sijasta tämän lain voimaan tullessa voimassa olleita säännöksiä.",
+      "section_number": "88",
+      "chapter_number": 10,
+      "statute_id": "417/1992"
+    },
+    {
+      "id": "ec95d5b5-c30b-4b51-81de-810ea8f18a59",
+      "node_type": "Section",
+      "publisher": "finlex",
+      "title": "89 § Muut siirtymäsäännökset",
+      "text": "Jos puitesopimus on tehty ennen tämän lain voimaantuloa, maksupalvelun käyttäjän oikeus saada 16 §:n nojalla palveluntarjoajalta puitesopimuksen ehdot koskee sellaisia puitesopimuksen ehtoja, joita sovelletaan tämän lain voimaan tullessa tai jotka tulevat sovellettaviksi lain voimaantulon jälkeen. Maksutapahtumaan, jota koskevan toimeksiannon maksutapahtuman käynnistävän maksupalvelun käyttäjän palveluntarjoaja on vastaanottanut ennen tämän lain voimaantuloa, sovelletaan 19 ja 20 §:n, 21 §:n 2―4 momentin, 23, 24, 38―40, 44―46, 64―68, 70, 72, 74 sekä 79―82 §:n sijasta tämän lain voimaan tullessa voimassa olleita säännöksiä. Tämän lain voimaan tullessa voimassa olleita säännöksiä sovelletaan 41, 42, 47, 48 ja 88 §:n sijasta maksutapahtumaan, jota koskevan toimeksiannon asianomainen palveluntarjoaja on vastaanottanut ennen tämän lain voimaantuloa. Palveluntarjoaja voi 30 §:ssä säädetystä poiketen ehdottaa muutoksia ennen tämän lain voimaantuloa tehtyyn puitesopimukseen muullakin kuin pysyvällä tavalla, jos pysyvän tavan käyttäminen ei ole mahdollista sen vuoksi, että palveluntarjoaja ei tiedä maksupalvelun käyttäjän henkilöllisyyttä, tai muusta tähän verrattavasta syystä. Edellä 33 §:n 1 ja 2 momenttia ei sovelleta sopimukseen, joka on tehty ennen tämän lain voimaantuloa. Edellä 34 §:ää ei sovelleta määräaikaiseen puitesopimukseen, joka on tehty ennen tämän lain voimaantuloa. Edellä 36 §:ää ei sovelleta, jos puitesopimus on irtisanottu ennen tämän lain voimaantuloa. Edellä 54 §:n 2 momenttia ei sovelleta, jos katoamisilmoitus on tehty ennen tämän lain voimaantuloa. Edellä 62 §:n sijasta sovelletaan tämän lain voimaan tullessa voimassa olleita säännöksiä, jos se menettely, jonka perusteella maksupalvelun käyttäjää vaaditaan vastuuseen, on tapahtunut ennen tämän lain voimaantuloa. Siltä osin kuin maksuvälinettä on käytetty oikeudettomasti tämän lain voimaantulon jälkeen, sovelletaan kuitenkin 62 §:ää, jollei aikaisemman lain soveltaminen johda maksupalvelun käyttäjän kannalta edullisempaan lopputulokseen. Edellä 63 §:ää ei sovelleta, jos asiakkaan varoja on veloitettu maksutililtä tai muuten käytetty maksutapahtuman toteuttamiseen ennen tämän lain voimaantuloa. Edellä 69, 71 ja 76 §:ää ei sovelleta, jos se palveluntarjoajan menettely, jonka johdosta korvausta vaaditaan, on tapahtunut ennen tämän lain voimaantuloa.",
+      "section_number": "89",
+      "chapter_number": 10,
+      "statute_id": "417/1992"
+    }
+  ],
+  "clauses": [
+    {
+      "id": "eb424a85-599b-4c03-b76b-f58dc5c9468e",
+      "node_type": "Clause",
+      "publisher": "finlex",
+      "title": "§ 1 mom 1",
+      "text": "1) palvelu käteispanon tekemiseksi maksutilille tai käteisen nostamiseksi maksutililtä sekä maksutilin hoitoon ja tarjoamiseen liittyvät toimet;",
+      "clause_number": 1,
+      "section_number": "1",
+      "statute_id": "417/1992"
+    },
+    {
+      "id": "e2dddf03-9f65-4a93-b32d-b528e2da6767",
+      "node_type": "Clause",
+      "publisher": "finlex",
+      "title": "§ 1 mom 2",
+      "text": "2) maksutapahtuman toteuttaminen tilisiirtona, varojen siirtona palveluntarjoajan maksutilille, suoraveloituksena taikka maksukortilla tai muulla maksuvälineellä;",
+      "clause_number": 2,
+      "section_number": "1",
+      "statute_id": "417/1992"
+    },
+    {
+      "id": "eb9850e4-7502-4741-8bd8-7433a03b39b6",
+      "node_type": "Clause",
+      "publisher": "finlex",
+      "title": "§ 1 mom 3",
+      "text": "3) maksuvälineen liikkeeseenlasku;",
+      "clause_number": 3,
+      "section_number": "1",
+      "statute_id": "417/1992"
+    },
+    {
+      "id": "076219ea-9549-481a-9086-2db2c090ad60",
+      "node_type": "Clause",
+      "publisher": "finlex",
+      "title": "§ 1 mom 4",
+      "text": "4) maksuvälineellä toteutettavaa maksutapahtumaa koskeva tapahtumahyvitys;",
+      "clause_number": 4,
+      "section_number": "1",
+      "statute_id": "417/1992"
+    },
+    {
+      "id": "a2eb536e-5934-45fa-a36f-038d6014f2ec",
+      "node_type": "Clause",
+      "publisher": "finlex",
+      "title": "§ 1 mom 5",
+      "text": "5) rahanvälitys;",
+      "clause_number": 5,
+      "section_number": "1",
+      "statute_id": "417/1992"
+    },
+    {
+      "id": "cf69a38c-7a99-4aff-9ee5-2d93b13142f8",
+      "node_type": "Clause",
+      "publisher": "finlex",
+      "title": "§ 1 mom 6",
+      "text": "6) maksutapahtuman toteuttaminen siten, että maksajan suostumus maksutapahtuman toteuttamiseen annetaan matkapuhelimella tai tietokoneella taikka muulla telepäätelaitteella tai tietoteknisellä laitteella ja maksu suoritetaan sellaiselle televiestintä- tai tietotekniikkajärjestelmää tai -verkkoa hoitavalle yritykselle, joka toimii ainoastaan maksutapahtuman välittäjänä maksupalvelun käyttäjän ja tavaran, palvelun tai muun hyödykkeen toimittajan välillä.",
+      "clause_number": 6,
+      "section_number": "1",
+      "statute_id": "417/1992"
+    },
+    {
+      "id": "c22c284c-13f7-47eb-b915-a0881a9be09c",
+      "node_type": "Clause",
+      "publisher": "finlex",
+      "title": "§ 2 mom 1",
+      "text": "1) rahankuljetuspalvelu;",
+      "clause_number": 1,
+      "section_number": "2",
+      "statute_id": "417/1992"
+    },
+    {
+      "id": "ece95769-341d-43ff-931a-484160fdeb8d",
+      "node_type": "Clause",
+      "publisher": "finlex",
+      "title": "§ 2 mom 2",
+      "text": "2) palvelu, jossa tavaraa, palvelua tai muuta hyödykettä hankittaessa maksunsaaja antaa maksajalle käteistä osana maksamista koskevaa maksutapahtumaa;",
+      "clause_number": 2,
+      "section_number": "2",
+      "statute_id": "417/1992"
+    },
+    {
+      "id": "76e1ad99-5d91-45d6-a7d5-0617127a716e",
+      "node_type": "Clause",
+      "publisher": "finlex",
+      "title": "§ 2 mom 3",
+      "text": "3) sellaisiin välineisiin perustuva palvelu, joita voidaan käyttää tavaran, palvelun tai muun hyödykkeen hankkimiseksi ainoastaan välineen liikkeeseenlaskijan käyttämissä tiloissa taikka liikkeeseenlaskijan kanssa solmitun sopimuksen nojalla joko hyödykkeen tarjoajien rajatussa verkossa tai määrättyjen hyödykkeiden hankkimiseksi.",
+      "clause_number": 3,
+      "section_number": "2",
+      "statute_id": "417/1992"
+    },
+    {
+      "id": "b45d1de2-f9b8-4eb5-bca5-2ee57466fc2c",
+      "node_type": "Clause",
+      "publisher": "finlex",
+      "title": "§ 3 mom 1",
+      "text": "1) kauppaedustajista ja myyntimiehistä annetussa laissa (417/1992) tarkoitetun kauppaedustajan tai muun vastaavan edustajan päämiehensä puolesta neuvottelemaan tai tekemään tavaraa, palvelua tai muuta hyödykettä koskevaan myynti- tai ostosopimukseen liittyvän maksun välittäminen;",
+      "clause_number": 1,
+      "section_number": "3",
+      "statute_id": "417/1992"
+    },
+    {
+      "id": "d3fdb858-70e3-402c-ba74-5b541b3d4ff5",
+      "node_type": "Clause",
+      "publisher": "finlex",
+      "title": "§ 3 mom 2",
+      "text": "2) maksutapahtuma, jonka perustana on palveluntarjoajan maksettavaksi asetettu paperinen shekki, asete, maksukuponki, matkashekki, velkakirja tai postiosoitus ja jonka tarkoituksena on asettaa varoja maksunsaajan käytettäväksi;",
+      "clause_number": 2,
+      "section_number": "3",
+      "statute_id": "417/1992"
+    },
+    {
+      "id": "6c7e7ded-e2b1-4464-ac70-6a9dde0f806c",
+      "node_type": "Clause",
+      "publisher": "finlex",
+      "title": "§ 3 mom 3",
+      "text": "3) maksujärjestelmässä tai arvopaperien selvitysjärjestelmässä toteutettavat maksutapahtumat palveluntarjoajien ja selvitysosapuolten, keskusvastapuolen, selvitysyhteisöjen tai keskuspankkien sekä muiden järjestelmään osallistuvien välillä;",
+      "clause_number": 3,
+      "section_number": "3",
+      "statute_id": "417/1992"
+    },
+    {
+      "id": "e4847ae9-536e-4af4-b12c-fbd82c783b6d",
+      "node_type": "Clause",
+      "publisher": "finlex",
+      "title": "§ 3 mom 4",
+      "text": "4) sijoituspalveluyritysten, luottolaitosten, sijoituspalveluja tarjoavien yhteissijoitusyritysten, rahastoyhtiöiden, 3 kohdassa tarkoitettujen tai sellaisten muiden yritysten, jotka voivat säilyttää arvopapereita, omaisuudenhoitoon taikka arvopaperien lunastukseen tai myyntiin liittyvät maksutapahtumat;",
+      "clause_number": 4,
+      "section_number": "3",
+      "statute_id": "417/1992"
+    },
+    {
+      "id": "b7040689-aa98-4ffc-9217-e950cf52cab1",
+      "node_type": "Clause",
+      "publisher": "finlex",
+      "title": "§ 3 mom 5",
+      "text": "5) maksutapahtumat emoyrityksen ja sen tytäryrityksen tai saman emoyrityksen tytäryritysten välillä, jos maksupalvelun välittäjä kuuluu samaan yritysryhmään, jonka muodostavat kirjanpitolaissa (1336/1997) tarkoitettu emoyritys, emoyrityksen tytäryritykset ja näiden rahoitus- ja vakuutusryhmittymien valvonnasta annetun lain (699/2004) 2 §:n 10 kohdassa tarkoitetut omistusyhteysyritykset.",
+      "clause_number": 5,
+      "section_number": "3",
+      "statute_id": "417/1992"
+    },
+    {
+      "id": "aa1fba9f-53e6-4f27-8f37-0dc275fbbbfa",
+      "node_type": "Clause",
+      "publisher": "finlex",
+      "title": "§ 4 mom 1",
+      "text": "1) jonka toteuttamiseen osallistuu Euroopan talousalueen ulkopuolella sijaitseva maksajan tai maksunsaajan palveluntarjoaja; tai",
+      "clause_number": 1,
+      "section_number": "4",
+      "statute_id": "417/1992"
+    },
+    {
+      "id": "c6945180-7ae4-4956-807d-b51b6300e55e",
+      "node_type": "Clause",
+      "publisher": "finlex",
+      "title": "§ 4 mom 2",
+      "text": "2) joka on muun valuutan kuin euron tai Euroopan talousalueeseen kuuluvan valtion valuutan määräinen.",
+      "clause_number": 2,
+      "section_number": "4",
+      "statute_id": "417/1992"
+    },
+    {
+      "id": "ab6177de-9db9-43a1-bbf8-ac6ebdbc4af8",
+      "node_type": "Clause",
+      "publisher": "finlex",
+      "title": "§ 5 mom 1",
+      "text": "1) jonka toteuttamiseen osallistuu Euroopan talousalueen ulkopuolella sijaitseva maksajan tai maksunsaajan palveluntarjoaja; tai",
+      "clause_number": 1,
+      "section_number": "5",
+      "statute_id": "417/1992"
+    },
+    {
+      "id": "61bd1a7d-1ada-423d-84e9-b4f8b4945c7b",
+      "node_type": "Clause",
+      "publisher": "finlex",
+      "title": "§ 5 mom 2",
+      "text": "2) joka on muun valuutan kuin euron tai Euroopan talousalueeseen kuuluvan valtion valuutan määräinen.",
+      "clause_number": 2,
+      "section_number": "5",
+      "statute_id": "417/1992"
+    },
+    {
+      "id": "5afdb6f4-1251-4854-a96c-c8badba7a9dc",
+      "node_type": "Clause",
+      "publisher": "finlex",
+      "title": "§ 7 mom 1",
+      "text": "1) joka on euromääräinen; tai",
+      "clause_number": 1,
+      "section_number": "7",
+      "statute_id": "417/1992"
+    },
+    {
+      "id": "5a49b86b-0921-4385-a994-29c6ab5185d9",
+      "node_type": "Clause",
+      "publisher": "finlex",
+      "title": "§ 7 mom 2",
+      "text": "2) johon sisältyy vain yksi valuutanmuunto euron ja Euroopan talousalueeseen kuuluvan valtion muun valuutan välillä, jos valuutta muunnetaan kyseisessä valtiossa ja rajat ylittävän maksutapahtuman varat siirretään Suomeen tai muuhun euroalueen valtioon euroina.",
+      "clause_number": 2,
+      "section_number": "7",
+      "statute_id": "417/1992"
+    },
+    {
+      "id": "2419d30e-e381-4ca2-8f25-537e4a139042",
+      "node_type": "Clause",
+      "publisher": "finlex",
+      "title": "§ 8 mom 1",
+      "text": "16)varoillakäteistä, tilille kirjattua rahaarvoa ja luottolaitostoiminnasta annetun lain (121/2007) 6 §:n 1 momentissa tarkoitettua sähköistä rahaa;",
+      "clause_number": 1,
+      "section_number": "8",
+      "statute_id": "417/1992"
+    },
+    {
+      "id": "417f0eb4-4367-4c7f-9651-179f32c5accf",
+      "node_type": "Clause",
+      "publisher": "finlex",
+      "title": "§ 11 mom 1",
+      "text": "1) nimi ja pääkonttorin osoite;",
+      "clause_number": 1,
+      "section_number": "11",
+      "statute_id": "417/1992"
+    },
+    {
+      "id": "3d2b1cc1-492d-469f-8495-e70294b4a4f4",
+      "node_type": "Clause",
+      "publisher": "finlex",
+      "title": "§ 11 mom 2",
+      "text": "2) mahdollinen sivuliikkeen tai asiamiehen osoite siinä valtiossa, jossa palveluja tarjotaan;",
+      "clause_number": 2,
+      "section_number": "11",
+      "statute_id": "417/1992"
+    },
+    {
+      "id": "ceb7f6a3-89f2-45b9-b93b-a8fc5a877709",
+      "node_type": "Clause",
+      "publisher": "finlex",
+      "title": "§ 11 mom 3",
+      "text": "3) sähköpostiosoite tai muut yhteystiedot, jotka ovat tarpeen maksupalvelun käyttäjän ja palveluntarjoajan välisessä yhteydenpidossa;",
+      "clause_number": 3,
+      "section_number": "11",
+      "statute_id": "417/1992"
+    },
+    {
+      "id": "a6057687-6c75-4916-8f2e-370be571a317",
+      "node_type": "Clause",
+      "publisher": "finlex",
+      "title": "§ 11 mom 4",
+      "text": "4) palveluntarjoajan toimilupaa koskevan julkisen rekisterin nimi sekä palveluntarjoajan yritys- tai yhteisötunnus tai muu vastaava tunniste kyseisessä rekisterissä;",
+      "clause_number": 4,
+      "section_number": "11",
+      "statute_id": "417/1992"
+    },
+    {
+      "id": "5308b7bf-eecc-4d3e-be3b-68a6619bc1b5",
+      "node_type": "Clause",
+      "publisher": "finlex",
+      "title": "§ 11 mom 5",
+      "text": "5) palveluntarjoajan toimintaa valvovan viranomaisen nimi ja yhteystiedot.",
+      "clause_number": 5,
+      "section_number": "11",
+      "statute_id": "417/1992"
+    },
+    {
+      "id": "f068fe7f-18e6-48a9-ac9e-2a80dbd5d798",
+      "node_type": "Clause",
+      "publisher": "finlex",
+      "title": "§ 12 mom 1",
+      "text": "1) kuvaus maksupalvelun pääominaisuuksista;",
+      "clause_number": 1,
+      "section_number": "12",
+      "statute_id": "417/1992"
+    },
+    {
+      "id": "e679497a-4773-4492-8270-414941105f74",
+      "node_type": "Clause",
+      "publisher": "finlex",
+      "title": "§ 12 mom 2",
+      "text": "2) kuvaus yksilöivästä tunnisteesta tai muista tiedoista, jotka maksupalvelun käyttäjän on annettava maksutoimeksiannon toteuttamiseksi;",
+      "clause_number": 2,
+      "section_number": "12",
+      "statute_id": "417/1992"
+    },
+    {
+      "id": "933f89cc-fdfd-4b80-abe2-3209d116c131",
+      "node_type": "Clause",
+      "publisher": "finlex",
+      "title": "§ 12 mom 3",
+      "text": "3) tieto siitä, miten maksupalvelun käyttäjä voi antaa ja peruuttaa suostumuksensa maksutapahtuman toteuttamiseen;",
+      "clause_number": 3,
+      "section_number": "12",
+      "statute_id": "417/1992"
+    },
+    {
+      "id": "df96c075-4437-46c2-8fb2-81b1af240bb7",
+      "node_type": "Clause",
+      "publisher": "finlex",
+      "title": "§ 12 mom 4",
+      "text": "4) tieto ajankohdasta, jona maksutoimeksianto katsotaan vastaanotetuksi, sekä tieto maksajan palveluntarjoajan mahdollisesti asettamasta aikarajasta, jonka jälkeen vastaanotettu maksutoimeksianto katsotaan vastaanotetuksi seuraavana työpäivänä;",
+      "clause_number": 4,
+      "section_number": "12",
+      "statute_id": "417/1992"
+    },
+    {
+      "id": "4541258a-dad0-43b5-b9cb-121e56de6515",
+      "node_type": "Clause",
+      "publisher": "finlex",
+      "title": "§ 12 mom 5",
+      "text": "5) tieto siitä, mikä on enimmäisaika, jonka kuluessa maksupalvelu toteutetaan;",
+      "clause_number": 5,
+      "section_number": "12",
+      "statute_id": "417/1992"
+    },
+    {
+      "id": "f6862efb-769b-43d5-b9bf-08afc752a031",
+      "node_type": "Clause",
+      "publisher": "finlex",
+      "title": "§ 12 mom 6",
+      "text": "6) tieto siitä, onko puitesopimuksessa tarkoitus sopia maksuvälineen käyttörajoista;",
+      "clause_number": 6,
+      "section_number": "12",
+      "statute_id": "417/1992"
+    },
+    {
+      "id": "4b5b9073-4d09-45c8-ac54-a0bbc512861d",
+      "node_type": "Clause",
+      "publisher": "finlex",
+      "title": "§ 12 mom 7",
+      "text": "7) tieto maksupalvelun käyttäjältä perittävien kulujen yhteismäärästä ja, jos mahdollista, kulujen erittely;",
+      "clause_number": 7,
+      "section_number": "12",
+      "statute_id": "417/1992"
+    },
+    {
+      "id": "c4653be1-75b7-42eb-b597-e2b29e235f65",
+      "node_type": "Clause",
+      "publisher": "finlex",
+      "title": "§ 12 mom 8",
+      "text": "8) tieto mahdollisesta korosta ja käytettäessä viitekorkoa sovellettavan koron määräytymisperusteesta, viitekoron määrityspäivästä sekä indeksistä tai muusta laskentaperusteesta;",
+      "clause_number": 8,
+      "section_number": "12",
+      "statute_id": "417/1992"
+    },
+    {
+      "id": "c51adfd5-e99f-4c70-940b-0e563099a73a",
+      "node_type": "Clause",
+      "publisher": "finlex",
+      "title": "§ 12 mom 9",
+      "text": "9) tieto sovellettavasta valuutan vaihtokurssista tai käytettäessä viitekurssia viitekurssin määrityspäivästä sekä indeksistä tai muusta laskentaperusteesta;",
+      "clause_number": 9,
+      "section_number": "12",
+      "statute_id": "417/1992"
+    },
+    {
+      "id": "ce6374ca-f4e3-4c86-89c2-43b7693d4881",
+      "node_type": "Clause",
+      "publisher": "finlex",
+      "title": "§ 12 mom 10",
+      "text": "10) tieto mahdollisesta sopimusehdosta, jonka mukaan koron tai vaihtokurssin muutoksia sovelletaan välittömästi, sekä selvitys tällöin noudatettavasta palveluntarjoajan tiedonantovelvollisuudesta.",
+      "clause_number": 10,
+      "section_number": "12",
+      "statute_id": "417/1992"
+    },
+    {
+      "id": "e646248b-eeca-4389-b988-0aec522d19f8",
+      "node_type": "Clause",
+      "publisher": "finlex",
+      "title": "§ 13 mom 1",
+      "text": "1) tieto viestintävälineistä, joita osapuolten on puitesopimuksen mukaan tarkoitus käyttää tietojen antamiseen ja ilmoitusten tekemiseen, sekä selvitys teknisistä ominaisuuksista, joita edellytetään maksupalvelun käyttäjän laitteilta;",
+      "clause_number": 1,
+      "section_number": "13",
+      "statute_id": "417/1992"
+    },
+    {
+      "id": "5d4fd97c-6ee5-40f4-8e2a-266f748dcb53",
+      "node_type": "Clause",
+      "publisher": "finlex",
+      "title": "§ 13 mom 2",
+      "text": "2) tieto siitä, millä tavalla ja kuinka usein tässä laissa tarkoitetut tiedot annetaan maksupalvelun käyttäjälle;",
+      "clause_number": 2,
+      "section_number": "13",
+      "statute_id": "417/1992"
+    },
+    {
+      "id": "d9f692be-31d8-4857-ae43-db3bd419c347",
+      "node_type": "Clause",
+      "publisher": "finlex",
+      "title": "§ 13 mom 3",
+      "text": "3) tieto siitä, millä kielellä tai kielillä puitesopimus on tarkoitus tehdä ja mitä kieltä tai kieliä voidaan käyttää sopimussuhteen aikana;",
+      "clause_number": 3,
+      "section_number": "13",
+      "statute_id": "417/1992"
+    },
+    {
+      "id": "ea56cb2a-744d-4265-94ec-d88125521d7a",
+      "node_type": "Clause",
+      "publisher": "finlex",
+      "title": "§ 13 mom 4",
+      "text": "4) tieto siitä, että maksupalvelun käyttäjällä on oikeus pyynnöstä saada sopimussuhteen aikana puitesopimuksen ehdot sekä 11―15 §:ssä tarkoitetut tiedot kirjallisesti tai muulla pysyvällä tavalla.",
+      "clause_number": 4,
+      "section_number": "13",
+      "statute_id": "417/1992"
+    },
+    {
+      "id": "fae5aee8-9611-4733-9d9c-29f1e923ab5d",
+      "node_type": "Clause",
+      "publisher": "finlex",
+      "title": "§ 14 mom 1",
+      "text": "1) selvitys siitä, millaisiin toimiin maksuvälineen haltijan on ryhdyttävä pitääkseen maksuvälineen turvassa, sekä siitä, miten palveluntarjoajalle tehdään ilmoitus maksuvälineen katoamisesta, joutumisesta oikeudettomasti toisen haltuun tai oikeudettomasta käytöstä;",
+      "clause_number": 1,
+      "section_number": "14",
+      "statute_id": "417/1992"
+    },
+    {
+      "id": "811e6302-855a-4fbd-9ad9-9c00986be1b5",
+      "node_type": "Clause",
+      "publisher": "finlex",
+      "title": "§ 14 mom 2",
+      "text": "2) selvitys edellytyksistä, joiden täyttyessä palveluntarjoajalla on oikeus estää maksuvälineen käyttö, jos tällaisesta oikeudesta on puitesopimuksessa tarkoitus sopia;",
+      "clause_number": 2,
+      "section_number": "14",
+      "statute_id": "417/1992"
+    },
+    {
+      "id": "fda9a6a1-f1f0-45de-abf1-637200f6223f",
+      "node_type": "Clause",
+      "publisher": "finlex",
+      "title": "§ 14 mom 3",
+      "text": "3) selvitys maksupalvelun käyttäjän vastuusta maksuvälineen oikeudettomasta käytöstä sekä tieto vastuun määrästä;",
+      "clause_number": 3,
+      "section_number": "14",
+      "statute_id": "417/1992"
+    },
+    {
+      "id": "36844f11-d097-4df5-9fe0-d5e6188f2678",
+      "node_type": "Clause",
+      "publisher": "finlex",
+      "title": "§ 14 mom 4",
+      "text": "4) tieto siitä, millä tavoin ja missä ajassa maksupalvelun käyttäjän on ilmoitettava palveluntarjoajalle oikeudettomasta, toteuttamatta jääneestä tai virheellisesti toteutetusta maksutapahtumasta;",
+      "clause_number": 4,
+      "section_number": "14",
+      "statute_id": "417/1992"
+    },
+    {
+      "id": "42155507-582b-4e72-9e6e-afa7a2b6b3b8",
+      "node_type": "Clause",
+      "publisher": "finlex",
+      "title": "§ 14 mom 5",
+      "text": "5) selvitys palveluntarjoajan vastuusta oikeudettomasta, toteuttamatta jääneestä tai virheellisesti toteutetusta maksutapahtumasta;",
+      "clause_number": 5,
+      "section_number": "14",
+      "statute_id": "417/1992"
+    },
+    {
+      "id": "cca95ada-0988-4b6e-b5fa-84287c38ea89",
+      "node_type": "Clause",
+      "publisher": "finlex",
+      "title": "§ 14 mom 6",
+      "text": "6) selvitys 79 §:ssä tarkoitetun maksupalautuksen edellytyksistä ja määräajasta sen pyytämiselle sekä selvitys palveluntarjoajan velvollisuuksista palautuspyynnön käsittelyssä;",
+      "clause_number": 6,
+      "section_number": "14",
+      "statute_id": "417/1992"
+    },
+    {
+      "id": "f9ce984a-6a36-4ee0-99d3-ab9a6bae395c",
+      "node_type": "Clause",
+      "publisher": "finlex",
+      "title": "§ 14 mom 7",
+      "text": "7) tieto mahdollisesta sopimusehdosta puitesopimukseen sovellettavasta laista tai toimivaltaisesta tuomioistuimesta;",
+      "clause_number": 7,
+      "section_number": "14",
+      "statute_id": "417/1992"
+    },
+    {
+      "id": "692f3d65-0bf7-47f6-a452-79edf6e3afc1",
+      "node_type": "Clause",
+      "publisher": "finlex",
+      "title": "§ 14 mom 8",
+      "text": "8) tieto mahdollisuudesta ilmoittaa palveluntarjoajan menettelystä palveluntarjoajan toimintaa valvovalle viranomaiselle ja mahdollisuudesta saattaa puitesopimukseen perustuva riita kuluttajariitalautakunnan tai muun vastaavan elimen käsiteltäväksi.",
+      "clause_number": 8,
+      "section_number": "14",
+      "statute_id": "417/1992"
+    },
+    {
+      "id": "d771b3f5-c99c-4b76-b084-02e2b5ee523d",
+      "node_type": "Clause",
+      "publisher": "finlex",
+      "title": "§ 15 mom 1",
+      "text": "1) tieto mahdollisesta sopimusehdosta, jonka mukaan maksupalvelun käyttäjän katsotaan hyväksyneen palveluntarjoajan ehdottamat sopimusehtojen muutokset, jollei hän muutosten ehdotettuun voimaantulopäivään mennessä vastusta niitä;",
+      "clause_number": 1,
+      "section_number": "15",
+      "statute_id": "417/1992"
+    },
+    {
+      "id": "884b3099-aa46-42bb-8be4-ac75d2f7fbb9",
+      "node_type": "Clause",
+      "publisher": "finlex",
+      "title": "§ 15 mom 2",
+      "text": "2) tieto puitesopimuksen kestosta;",
+      "clause_number": 2,
+      "section_number": "15",
+      "statute_id": "417/1992"
+    },
+    {
+      "id": "ab5c7059-78b0-4dcc-a3ee-06b2db3f5e5b",
+      "node_type": "Clause",
+      "publisher": "finlex",
+      "title": "§ 15 mom 3",
+      "text": "3) selvitys maksupalvelun käyttäjän ja, jos siitä on tarkoitus sopia, palveluntarjoajan oikeudesta irtisanoa puitesopimus;",
+      "clause_number": 3,
+      "section_number": "15",
+      "statute_id": "417/1992"
+    },
+    {
+      "id": "4781a355-82f4-432e-8562-661bde5a8186",
+      "node_type": "Clause",
+      "publisher": "finlex",
+      "title": "§ 15 mom 4",
+      "text": "4) selvitys mahdollisista irtisanomista koskevista sopimusehdoista.",
+      "clause_number": 4,
+      "section_number": "15",
+      "statute_id": "417/1992"
+    },
+    {
+      "id": "ce44838c-58ee-4f16-9fec-411aadc74a2e",
+      "node_type": "Clause",
+      "publisher": "finlex",
+      "title": "§ 17 mom 1",
+      "text": "1) kuvaus siitä, miten pienmaksuvälinettä käytetään;",
+      "clause_number": 1,
+      "section_number": "17",
+      "statute_id": "417/1992"
+    },
+    {
+      "id": "0e114470-2489-48a6-b274-ade96f16c634",
+      "node_type": "Clause",
+      "publisher": "finlex",
+      "title": "§ 17 mom 2",
+      "text": "2) tieto perittävistä kuluista;",
+      "clause_number": 2,
+      "section_number": "17",
+      "statute_id": "417/1992"
+    },
+    {
+      "id": "83fa84bf-f100-4113-ab8f-12de444438e1",
+      "node_type": "Clause",
+      "publisher": "finlex",
+      "title": "§ 17 mom 3",
+      "text": "3) tieto maksupalvelun käyttäjän ja palveluntarjoajan 14 §:n 3 ja 5 kohdassa tarkoitetusta vastuusta;",
+      "clause_number": 3,
+      "section_number": "17",
+      "statute_id": "417/1992"
+    },
+    {
+      "id": "e0edb787-8806-4b37-a0da-802102b4f23d",
+      "node_type": "Clause",
+      "publisher": "finlex",
+      "title": "§ 17 mom 4",
+      "text": "4) muut tiedot, jotka ovat olennaisia perustellun päätöksen tekemiseksi;",
+      "clause_number": 4,
+      "section_number": "17",
+      "statute_id": "417/1992"
+    },
+    {
+      "id": "41d87b16-9b82-42bb-944b-37d6ddb64ff1",
+      "node_type": "Clause",
+      "publisher": "finlex",
+      "title": "§ 17 mom 5",
+      "text": "5) tieto siitä, miten maksupalvelun käyttäjä voi saada muut 11―15 §:ssä tarkoitetut tiedot.",
+      "clause_number": 5,
+      "section_number": "17",
+      "statute_id": "417/1992"
+    },
+    {
+      "id": "02f4c70c-3196-4651-a4f9-bde84f4b97e3",
+      "node_type": "Clause",
+      "publisher": "finlex",
+      "title": "§ 19 mom 1",
+      "text": "1) tieto, jonka avulla maksaja voi tunnistaa maksutapahtuman, ja, jos mahdollista, tieto maksunsaajasta;",
+      "clause_number": 1,
+      "section_number": "19",
+      "statute_id": "417/1992"
+    },
+    {
+      "id": "15dea36e-938b-4047-8a83-8a14b5cf9827",
+      "node_type": "Clause",
+      "publisher": "finlex",
+      "title": "§ 19 mom 2",
+      "text": "2) tieto maksutapahtuman määrästä siinä valuutassa, jolla maksajan maksutiliä veloitetaan tai, jollei maksaja käytä maksutiliä, maksutoimeksiannossa tarkoitetussa valuutassa;",
+      "clause_number": 2,
+      "section_number": "19",
+      "statute_id": "417/1992"
+    },
+    {
+      "id": "928867b2-7674-4846-819a-388a7a32d888",
+      "node_type": "Clause",
+      "publisher": "finlex",
+      "title": "§ 19 mom 3",
+      "text": "3) tieto mahdollisessa valuutanmuunnossa käytetystä vaihtokurssista ja tieto maksutapahtuman määrästä valuutanmuunnon jälkeen;",
+      "clause_number": 3,
+      "section_number": "19",
+      "statute_id": "417/1992"
+    },
+    {
+      "id": "6522a63c-f841-4a15-b760-776d7f8ec845",
+      "node_type": "Clause",
+      "publisher": "finlex",
+      "title": "§ 19 mom 4",
+      "text": "4) tieto maksajalta perittävien kulujen tai korkojen määrästä sekä, jos mahdollista, kulujen erittely;",
+      "clause_number": 4,
+      "section_number": "19",
+      "statute_id": "417/1992"
+    },
+    {
+      "id": "92007e05-6055-42f3-a707-c02329cf4b7e",
+      "node_type": "Clause",
+      "publisher": "finlex",
+      "title": "§ 19 mom 5",
+      "text": "5) tieto maksutilin veloituksen arvopäivästä tai, jollei maksaja käytä maksutiliä, maksutoimeksiannon vastaanottopäivästä.",
+      "clause_number": 5,
+      "section_number": "19",
+      "statute_id": "417/1992"
+    },
+    {
+      "id": "6467a899-b9e9-49da-9bdc-b1e16c7debcb",
+      "node_type": "Clause",
+      "publisher": "finlex",
+      "title": "§ 20 mom 1",
+      "text": "1) tieto, jonka avulla maksunsaaja voi tunnistaa maksutapahtuman ja, jos mahdollista, maksajan;",
+      "clause_number": 1,
+      "section_number": "20",
+      "statute_id": "417/1992"
+    },
+    {
+      "id": "1beb2f3b-c3ba-417c-bba4-eee4117d9b3b",
+      "node_type": "Clause",
+      "publisher": "finlex",
+      "title": "§ 20 mom 2",
+      "text": "2) maksutapahtuman yhteydessä siirretyt tiedot;",
+      "clause_number": 2,
+      "section_number": "20",
+      "statute_id": "417/1992"
+    },
+    {
+      "id": "0bb0f93f-5e7c-4b2d-84d5-c86cc5403a9f",
+      "node_type": "Clause",
+      "publisher": "finlex",
+      "title": "§ 20 mom 3",
+      "text": "3) tieto maksutapahtuman määrästä siinä valuutassa, jolla maksunsaajan maksutiliä hyvitetään;",
+      "clause_number": 3,
+      "section_number": "20",
+      "statute_id": "417/1992"
+    },
+    {
+      "id": "8f4e416d-2c26-4318-aa2e-59aea38479b2",
+      "node_type": "Clause",
+      "publisher": "finlex",
+      "title": "§ 20 mom 4",
+      "text": "4) tieto mahdollisessa valuutanmuunnossa käytetystä vaihtokurssista ja tieto maksutapahtuman määrästä ennen valuutanmuuntoa;",
+      "clause_number": 4,
+      "section_number": "20",
+      "statute_id": "417/1992"
+    },
+    {
+      "id": "c6874f94-c3be-47f2-ae36-5dd25b46f789",
+      "node_type": "Clause",
+      "publisher": "finlex",
+      "title": "§ 20 mom 5",
+      "text": "5) tieto maksunsaajalta perittävien kulujen tai korkojen määrästä sekä, jos mahdollista, kulujen erittely;",
+      "clause_number": 5,
+      "section_number": "20",
+      "statute_id": "417/1992"
+    },
+    {
+      "id": "f07696ac-a95d-4226-9a0e-e511a8a32e4c",
+      "node_type": "Clause",
+      "publisher": "finlex",
+      "title": "§ 20 mom 6",
+      "text": "6) tieto maksutilin hyvityksen arvopäivästä.",
+      "clause_number": 6,
+      "section_number": "20",
+      "statute_id": "417/1992"
+    },
+    {
+      "id": "e7b5debf-4ef7-407c-ad07-87c0feab6346",
+      "node_type": "Clause",
+      "publisher": "finlex",
+      "title": "§ 21 mom 1",
+      "text": "1) tieto, jonka avulla maksupalvelun käyttäjä voi tunnistaa maksutapahtuman;",
+      "clause_number": 1,
+      "section_number": "21",
+      "statute_id": "417/1992"
+    },
+    {
+      "id": "974cf061-75ee-4f1a-bd28-368f498b2153",
+      "node_type": "Clause",
+      "publisher": "finlex",
+      "title": "§ 21 mom 2",
+      "text": "2) tieto maksutapahtuman määrästä;",
+      "clause_number": 2,
+      "section_number": "21",
+      "statute_id": "417/1992"
+    },
+    {
+      "id": "39e3d3c2-71fa-4588-a092-6534750a04ee",
+      "node_type": "Clause",
+      "publisher": "finlex",
+      "title": "§ 21 mom 3",
+      "text": "3) tieto perityistä kuluista.",
+      "clause_number": 3,
+      "section_number": "21",
+      "statute_id": "417/1992"
+    },
+    {
+      "id": "2b04ed13-8872-47f9-b8fd-34aeaae7c684",
+      "node_type": "Clause",
+      "publisher": "finlex",
+      "title": "§ 23 mom 1",
+      "text": "1) tieto, jonka avulla maksaja voi tunnistaa maksutapahtuman, ja, jos mahdollista, tieto maksunsaajasta;",
+      "clause_number": 1,
+      "section_number": "23",
+      "statute_id": "417/1992"
+    },
+    {
+      "id": "5a06e480-ed49-4084-bef6-e6f10e44e5a4",
+      "node_type": "Clause",
+      "publisher": "finlex",
+      "title": "§ 23 mom 2",
+      "text": "2) tieto maksutapahtuman määrästä maksutoimeksiannossa tarkoitetussa valuutassa;",
+      "clause_number": 2,
+      "section_number": "23",
+      "statute_id": "417/1992"
+    },
+    {
+      "id": "225ca14d-607f-42cc-9679-bc3960b812a1",
+      "node_type": "Clause",
+      "publisher": "finlex",
+      "title": "§ 23 mom 1",
+      "text": "3) tieto mahdollisessa valuutanmuunnossa käytetystä vaihto- tai viitekurssista, jos se poikkeaa 22 §:n 1 momentin nojalla ilmoitetusta, ja tieto maksutapahtuman määrästä valuutanmuunnon jälkeen;",
+      "clause_number": 1,
+      "section_number": "23",
+      "statute_id": "417/1992"
+    },
+    {
+      "id": "14e73056-602a-4eab-9637-95de53aad095",
+      "node_type": "Clause",
+      "publisher": "finlex",
+      "title": "§ 23 mom 3",
+      "text": "3) tieto mahdollisessa valuutanmuunnossa käytetystä vaihto- tai viitekurssista, jos se poikkeaa 22 §:n 1 momentin nojalla ilmoitetusta, ja tieto maksutapahtuman määrästä valuutanmuunnon jälkeen;",
+      "clause_number": 3,
+      "section_number": "23",
+      "statute_id": "417/1992"
+    },
+    {
+      "id": "d12aeb46-be51-420a-99e0-1d7bd280cf92",
+      "node_type": "Clause",
+      "publisher": "finlex",
+      "title": "§ 23 mom 4",
+      "text": "4) tieto maksajalta perittävien kulujen määrästä sekä, jos mahdollista, kulujen erittely;",
+      "clause_number": 4,
+      "section_number": "23",
+      "statute_id": "417/1992"
+    },
+    {
+      "id": "0f293f12-db69-4f8c-a79a-fdc3330f0efe",
+      "node_type": "Clause",
+      "publisher": "finlex",
+      "title": "§ 23 mom 5",
+      "text": "5) tieto maksutoimeksiannon vastaanottopäivästä.",
+      "clause_number": 5,
+      "section_number": "23",
+      "statute_id": "417/1992"
+    },
+    {
+      "id": "8d7578ba-197a-43fd-8494-4546d6630751",
+      "node_type": "Clause",
+      "publisher": "finlex",
+      "title": "§ 24 mom 1",
+      "text": "1) tieto, jonka avulla maksunsaaja voi tunnistaa maksutapahtuman ja, jos mahdollista, maksajan;",
+      "clause_number": 1,
+      "section_number": "24",
+      "statute_id": "417/1992"
+    },
+    {
+      "id": "f31c7f1e-9ea6-4675-853d-16fa2db319ef",
+      "node_type": "Clause",
+      "publisher": "finlex",
+      "title": "§ 24 mom 2",
+      "text": "2) maksutapahtuman yhteydessä siirretyt tiedot;",
+      "clause_number": 2,
+      "section_number": "24",
+      "statute_id": "417/1992"
+    },
+    {
+      "id": "657ce6f5-05af-4b6a-99bc-f424fab31726",
+      "node_type": "Clause",
+      "publisher": "finlex",
+      "title": "§ 24 mom 3",
+      "text": "3) tieto maksutapahtuman määrästä siinä valuutassa, jossa varat ovat maksunsaajan käytettävissä;",
+      "clause_number": 3,
+      "section_number": "24",
+      "statute_id": "417/1992"
+    },
+    {
+      "id": "99e3de6f-211a-4548-ba8d-88a183e9e3a3",
+      "node_type": "Clause",
+      "publisher": "finlex",
+      "title": "§ 24 mom 4",
+      "text": "4) tieto mahdollisessa valuutanmuunnossa käytetystä vaihtokurssista ja tieto maksutapahtuman määrästä ennen valuutanmuuntoa;",
+      "clause_number": 4,
+      "section_number": "24",
+      "statute_id": "417/1992"
+    },
+    {
+      "id": "2de29b47-ed9f-4c96-ad67-bcb28babb9c5",
+      "node_type": "Clause",
+      "publisher": "finlex",
+      "title": "§ 24 mom 5",
+      "text": "5) tieto maksunsaajalta perittävien kulujen määrästä sekä, jos mahdollista, kulujen erittely;",
+      "clause_number": 5,
+      "section_number": "24",
+      "statute_id": "417/1992"
+    },
+    {
+      "id": "15d4b2c5-1e47-4f31-97dc-b36d41c35abb",
+      "node_type": "Clause",
+      "publisher": "finlex",
+      "title": "§ 24 mom 6",
+      "text": "6) tieto päivästä, jolloin maksutapahtuman rahamäärä on ollut maksunsaajan saatavilla.",
+      "clause_number": 6,
+      "section_number": "24",
+      "statute_id": "417/1992"
+    },
+    {
+      "id": "2bdd67cb-41f4-42f8-a711-a445ede51762",
+      "node_type": "Clause",
+      "publisher": "finlex",
+      "title": "§ 43 mom 1",
+      "text": "1) maksaja ei voi peruuttaa maksutoimeksiantoa sen jälkeen, kun toimeksianto tai maksajan suostumus maksutapahtuman toteuttamiseen on annettu maksunsaajalle;",
+      "clause_number": 1,
+      "section_number": "43",
+      "statute_id": "417/1992"
+    },
+    {
+      "id": "22ddb1bc-b1c8-4b8e-b5cc-f8c4b741663d",
+      "node_type": "Clause",
+      "publisher": "finlex",
+      "title": "§ 43 mom 2",
+      "text": "2) palveluntarjoajalla ei ole velvollisuutta ilmoittaa kieltäytyvänsä maksutoimeksiannon toteuttamisesta, jos maksutapahtuman jääminen toteuttamatta on asiayhteyden perusteella ilmeistä.",
+      "clause_number": 2,
+      "section_number": "43",
+      "statute_id": "417/1992"
+    },
+    {
+      "id": "daa5017a-66ab-4733-a623-742df3271289",
+      "node_type": "Clause",
+      "publisher": "finlex",
+      "title": "§ 52 mom 1",
+      "text": "1) välittömästi sen jälkeen, kun palveluntarjoaja on vastaanottanut varat, jos tilinhaltija on kuluttaja;",
+      "clause_number": 1,
+      "section_number": "52",
+      "statute_id": "417/1992"
+    },
+    {
+      "id": "ca4add09-10d2-4533-9322-66fe02a455f6",
+      "node_type": "Clause",
+      "publisher": "finlex",
+      "title": "§ 52 mom 2",
+      "text": "2) viimeistään seuraavana työpäivänä päivästä, jona palvelutarjoaja on vastaanottanut varat, jos tilinhaltija on muu kuin kuluttaja.",
+      "clause_number": 2,
+      "section_number": "52",
+      "statute_id": "417/1992"
+    },
+    {
+      "id": "e851bdc2-5a27-40f9-9bd4-a6f29d4f80b0",
+      "node_type": "Clause",
+      "publisher": "finlex",
+      "title": "§ 57 mom 1",
+      "text": "1) maksuvälineen käytön turvallisuus on vaarantunut;",
+      "clause_number": 1,
+      "section_number": "57",
+      "statute_id": "417/1992"
+    },
+    {
+      "id": "ad0bd288-c1f5-4fb1-ba38-08b8ffe270ae",
+      "node_type": "Clause",
+      "publisher": "finlex",
+      "title": "§ 57 mom 2",
+      "text": "2) on syytä epäillä, että maksuvälinettä käytetään oikeudettomasti tai vilpillisesti; tai",
+      "clause_number": 2,
+      "section_number": "57",
+      "statute_id": "417/1992"
+    },
+    {
+      "id": "14dbba20-4049-40d3-a362-378e9e3b4604",
+      "node_type": "Clause",
+      "publisher": "finlex",
+      "title": "§ 57 mom 3",
+      "text": "3) maksuväline oikeuttaa luoton käyttöön ja vaara siitä, että luoton maksamisesta vastuussa oleva maksupalvelun käyttäjä ei kykene täyttämään maksuvelvoitteitaan, on huomattavasti kohonnut.",
+      "clause_number": 3,
+      "section_number": "57",
+      "statute_id": "417/1992"
+    },
+    {
+      "id": "3f4b362c-61d8-4d84-b389-2820281a7f03",
+      "node_type": "Clause",
+      "publisher": "finlex",
+      "title": "§ 62 mom 1",
+      "text": "1) hän tai muu maksuvälineen haltija on luovuttanut maksuvälineen sen käyttöön oikeudettomalle;",
+      "clause_number": 1,
+      "section_number": "62",
+      "statute_id": "417/1992"
+    },
+    {
+      "id": "e65048cb-ba42-434c-9e42-9bc9beda3976",
+      "node_type": "Clause",
+      "publisher": "finlex",
+      "title": "§ 62 mom 1",
+      "text": "2) maksuvälineen katoaminen, joutuminen oikeudettomasti toisen haltuun tai oikeudeton käyttö johtuu siitä, että hän tai muu maksuvälineen haltija on huolimattomuudesta laiminlyönyt 53 §:n 1 momentin mukaiset velvollisuutensa; taikka",
+      "clause_number": 1,
+      "section_number": "62",
+      "statute_id": "417/1992"
+    },
+    {
+      "id": "8e88377a-3086-4eec-abf9-bd97b9a4f7bd",
+      "node_type": "Clause",
+      "publisher": "finlex",
+      "title": "§ 62 mom 2",
+      "text": "2) maksuvälineen katoaminen, joutuminen oikeudettomasti toisen haltuun tai oikeudeton käyttö johtuu siitä, että hän tai muu maksuvälineen haltija on huolimattomuudesta laiminlyönyt 53 §:n 1 momentin mukaiset velvollisuutensa; taikka",
+      "clause_number": 2,
+      "section_number": "62",
+      "statute_id": "417/1992"
+    },
+    {
+      "id": "a75eda1d-06f0-479e-a460-12fac54d4ae3",
+      "node_type": "Clause",
+      "publisher": "finlex",
+      "title": "§ 62 mom 3",
+      "text": "3) hän tai muu maksuvälineen haltija on laiminlyönyt ilman aiheetonta viivytystä ilmoittaa palveluntarjoajalle tai sen nimeämälle muulle taholle havaitsemastaan maksuvälineen katoamisesta, joutumisesta oikeudettomasti toisen haltuun tai oikeudettomasta käytöstä.",
+      "clause_number": 3,
+      "section_number": "62",
+      "statute_id": "417/1992"
+    },
+    {
+      "id": "860a2c29-89ae-4fe5-b55d-3e878d584f3f",
+      "node_type": "Clause",
+      "publisher": "finlex",
+      "title": "§ 62 mom 1",
+      "text": "1) siltä osin kuin maksuvälinettä on käytetty sen jälkeen, kun palveluntarjoajalle tai sen nimeämälle muulle taholle on ilmoitettu maksuvälineen katoamisesta, joutumisesta oikeudettomasti toisen haltuun tai oikeudettomasta käytöstä;",
+      "clause_number": 1,
+      "section_number": "62",
+      "statute_id": "417/1992"
+    },
+    {
+      "id": "2fa3512b-73cb-4e54-801c-47bfd26851be",
+      "node_type": "Clause",
+      "publisher": "finlex",
+      "title": "§ 62 mom 2",
+      "text": "2) jos palveluntarjoaja on laiminlyönyt huolehtia siitä, että maksuvälineen haltijalla on mahdollisuus tehdä milloin tahansa 1 kohdassa tarkoitettu ilmoitus; tai",
+      "clause_number": 2,
+      "section_number": "62",
+      "statute_id": "417/1992"
+    },
+    {
+      "id": "c63374af-c774-4759-82e3-a8948bd3f2c7",
+      "node_type": "Clause",
+      "publisher": "finlex",
+      "title": "§ 62 mom 3",
+      "text": "3) jos maksunsaaja ei ole maksuvälinettä käytettäessä asianmukaisesti varmistunut maksajan oikeudesta käyttää maksuvälinettä.",
+      "clause_number": 3,
+      "section_number": "62",
+      "statute_id": "417/1992"
+    },
+    {
+      "id": "8a9e9175-1216-4438-bdef-33d9d2c09583",
+      "node_type": "Clause",
+      "publisher": "finlex",
+      "title": "§ 69 mom 1",
+      "text": "1) tulon menetystä, joka maksupalvelun käyttäjälle aiheutuu palveluntarjoajan virheellisen menettelyn tai siitä johtuvien toimenpiteiden vuoksi;",
+      "clause_number": 1,
+      "section_number": "69",
+      "statute_id": "417/1992"
+    },
+    {
+      "id": "ac4dad53-1f83-473e-9316-1664d396c053",
+      "node_type": "Clause",
+      "publisher": "finlex",
+      "title": "§ 69 mom 2",
+      "text": "2) vahinkoa, joka johtuu muuhun sopimukseen perustuvasta velvoitteesta; ja",
+      "clause_number": 2,
+      "section_number": "69",
+      "statute_id": "417/1992"
+    },
+    {
+      "id": "e841c66d-2429-4e00-856e-59a65a8e697f",
+      "node_type": "Clause",
+      "publisher": "finlex",
+      "title": "§ 69 mom 3",
+      "text": "3) muuta samankaltaista, vaikeasti ennakoitavaa vahinkoa.",
+      "clause_number": 3,
+      "section_number": "69",
+      "statute_id": "417/1992"
+    },
+    {
+      "id": "118c90bb-bd07-4553-8561-d1f6a736aca1",
+      "node_type": "Clause",
+      "publisher": "finlex",
+      "title": "§ 79 mom 1",
+      "text": "1) ei täsmällisesti ilmene maksajan antamassa suostumuksessa; ja",
+      "clause_number": 1,
+      "section_number": "79",
+      "statute_id": "417/1992"
+    },
+    {
+      "id": "64bd95af-e7eb-4607-bedd-884494874bf3",
+      "node_type": "Clause",
+      "publisher": "finlex",
+      "title": "§ 79 mom 2",
+      "text": "2) on suurempi kuin maksaja on kohtuudella voinut odottaa ottaen huomioon hänen aikaisempi kulutuskäyttäytymisensä, puitesopimuksen ehdot sekä muut olosuhteet.",
+      "clause_number": 2,
+      "section_number": "79",
+      "statute_id": "417/1992"
+    },
+    {
+      "id": "c82e6d87-e875-4a8f-a506-5f41c9884308",
+      "node_type": "Clause",
+      "publisher": "finlex",
+      "title": "§ 81 mom 1",
+      "text": "1) maksutapahtuman rahamäärä on maksettu maksunsaajan palveluntarjoajan tilille; tai",
+      "clause_number": 1,
+      "section_number": "81",
+      "statute_id": "417/1992"
+    },
+    {
+      "id": "e10aea2d-38ef-4f4a-8ed3-d6f06e0a3508",
+      "node_type": "Clause",
+      "publisher": "finlex",
+      "title": "§ 81 mom 2",
+      "text": "2) maksunsaajan palveluntarjoajan asettamat maksutapahtuman katetta koskevat ehdot ovat muutoin täyttyneet.",
+      "clause_number": 2,
+      "section_number": "81",
+      "statute_id": "417/1992"
+    }
+  ],
+  "cross_references": [],
+  "raw_html_path": "C:\\Users\\danit\\finance-hack\\aalto-hackaton-2026\\data\\raw\\finlex\\Laki (säädöskokoelma)\\Maksupalvelulaki.html"
+}

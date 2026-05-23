@@ -1,0 +1,68 @@
+{
+  "statute": {
+    "id": "abcf1a3e-77e3-4ee4-985e-69f2f35e3d4a",
+    "node_type": "Statute",
+    "publisher": "finlex",
+    "title": "Laki Rahoitustarkastuksen valvontamaksusta annetun lain muuttamisesta",
+    "text": "Laki Rahoitustarkastuksen valvontamaksusta annetun lain muuttamisesta",
+    "statute_id": "1294/2004",
+    "finlex_url": "https://finlex.fi/fi/laki/ajantasa/1294/2004"
+  },
+  "chapters": [],
+  "sections": [
+    {
+      "id": "5ec9d1b5-d6fe-4b5c-a511-8db873ab84c1",
+      "node_type": "Section",
+      "publisher": "finlex",
+      "title": "1 § Soveltamisala",
+      "text": "Velvollinen suorittamaan valvontamaksun (maksuvelvollinen) on:",
+      "section_number": "1",
+      "chapter_number": 1,
+      "statute_id": "1294/2004"
+    },
+    {
+      "id": "523278aa-d9b7-4774-9466-2ecf4edaa6db",
+      "node_type": "Section",
+      "publisher": "finlex",
+      "title": "2 § Valvontamaksu",
+      "text": "Suhteellinen maksu lasketaan maksuvelvollisen viimeksi vahvistetun tilinpäätöksen mukaisen taseen loppusumman tai liikevaihdon, luottolaitostoiminnasta annetun lain 55 §:n 1 momentissa tarkoitetun omien varojen vähimmäismäärää koskevan korkeimman vaatimuksen (pääomavaatimus) tai viimeksi päättyneen kalenterivuoden lopussa hallinnoitujen sijoitusrahastojen varojen yhteismäärän perusteella, jollei 3 §:stä muuta johdu. Sijoituspalveluyrityksen liikevaihdoksi katsotaan tuloslaskelman mukaisten tuottojen yhteismäärä, jolloin arvopaperikaupan ja valuuttatoiminnan osalta mukaan luetaan nettotuotot. Jos nettotuotto on negatiivinen, se merkitään nollaksi.",
+      "section_number": "2",
+      "chapter_number": 1,
+      "statute_id": "1294/2004"
+    },
+    {
+      "id": "5606fe8b-d6e5-41a8-91b9-b93af47b9941",
+      "node_type": "Section",
+      "publisher": "finlex",
+      "title": "7 § Muun perusmaksua maksavan valvontamaksu",
+      "text": "Seuraavien maksuvelvollisten valvontamaksu muodostuu ainoastaan perusmaksusta: Tämä laki tulee voimaan 15 päivänä helmikuuta 2007.",
+      "section_number": "7",
+      "chapter_number": 1,
+      "statute_id": "1294/2004"
+    }
+  ],
+  "clauses": [
+    {
+      "id": "3048c550-1046-4ba3-8ac0-da2e7645449b",
+      "node_type": "Clause",
+      "publisher": "finlex",
+      "title": "§ 1 mom 2",
+      "text": "2) luottolaitostoiminnasta annetun lain (121/2007) 5 §:ssä tarkoitettua rajoitettua luottolaitostoimintaa harjoittava osakeyhtiö ja osuuskunta;",
+      "clause_number": 2,
+      "section_number": "1",
+      "statute_id": "1294/2004"
+    },
+    {
+      "id": "0b421480-4821-4ce7-a249-5a0600945002",
+      "node_type": "Clause",
+      "publisher": "finlex",
+      "title": "§ 7 mom 6",
+      "text": "6) luottolaitostoiminnasta annetun lain 5 §:ssä tarkoitettua rajoitettua luottolaitostoimintaa harjoittavan osakeyhtiön ja osuuskunnan perusmaksu on 10 laskentayksikköä;",
+      "clause_number": 6,
+      "section_number": "7",
+      "statute_id": "1294/2004"
+    }
+  ],
+  "cross_references": [],
+  "raw_html_path": "C:\\Users\\danit\\finance-hack\\aalto-hackaton-2026\\data\\raw\\finlex\\Laki\\Laki Rahoitustarkastuksen valvontamaksusta annetun lain muuttamisesta_1.html"
+}

@@ -1,0 +1,65 @@
+{
+  "statute": {
+    "id": "51af8ec0-20de-43b7-a73f-32258fab94f0",
+    "node_type": "Statute",
+    "publisher": "finlex",
+    "title": "Laki oikeudenkäymiskaaren muuttamisesta",
+    "text": "Laki oikeudenkäymiskaaren muuttamisesta",
+    "statute_id": "135/2009",
+    "finlex_url": "https://finlex.fi/fi/laki/ajantasa/135/2009"
+  },
+  "chapters": [
+    {
+      "id": "31958b13-87d4-4ff5-ba1c-220fd9af70bd",
+      "node_type": "Chapter",
+      "publisher": "finlex",
+      "title": "Chapter 10",
+      "text": "10 luku Oikeuspaikasta riita-asioissa",
+      "chapter_number": 10,
+      "statute_id": "135/2009"
+    },
+    {
+      "id": "16e2640a-6e6e-4e70-9770-8fc722f87b51",
+      "node_type": "Chapter",
+      "publisher": "finlex",
+      "title": "Chapter 12",
+      "text": "12 luku Asianosaisista",
+      "chapter_number": 12,
+      "statute_id": "135/2009"
+    },
+    {
+      "id": "0fec4593-607d-4a8a-a060-a4a7b8a075ef",
+      "node_type": "Chapter",
+      "publisher": "finlex",
+      "title": "Chapter 17",
+      "text": "17 luku Todistelusta",
+      "chapter_number": 17,
+      "statute_id": "135/2009"
+    }
+  ],
+  "sections": [
+    {
+      "id": "da8acbb4-dc43-4b42-85f1-eff76b412ec1",
+      "node_type": "Section",
+      "publisher": "finlex",
+      "title": "13 §",
+      "text": "Lapsen huoltoa tai tapaamisoikeutta koskeva asia tutkitaan käräjäoikeudessa, jonka tuomiopiirissä lapsella on kotipaikka tai vakituinen asuinpaikka. Sisaruksia koskeva asia voidaan tutkia myös käräjäoikeudessa, jonka tuomiopiirissä jollakin heistä on kotipaikka tai vakituinen asuinpaikka. Jos asianosainen sairauden, henkisen toiminnan häiriintymisen, heikentyneen terveydentilan tai muun vastaavan syyn vuoksi on kykenemätön valvomaan etuaan oikeudenkäynnissä taikka jos asianosaisen edunvalvoja, huoltaja tai muu laillinen edustaja on esteellisyyden vuoksi tai muusta syystä estynyt käyttämästä siinä puhevaltaa, tuomioistuin, jossa oikeudenkäynti on vireillä, voi viran puolesta määrätä asianosaiselle edunvalvojan oikeudenkäyntiä varten. Edunvalvojaan sovelletaan holhoustoimesta annetun lain säännöksiä. Jollei tuomioistuin toisin päätä, edunvalvojan määräys on voimassa myös ylemmässä oikeusasteessa, jossa asia tulee vireille muutoksenhaun johdosta.",
+      "section_number": "13",
+      "chapter_number": 10,
+      "statute_id": "135/2009"
+    },
+    {
+      "id": "807bdbd2-3506-4b9d-ad09-572fc4b80127",
+      "node_type": "Section",
+      "publisher": "finlex",
+      "title": "12 §",
+      "text": "Virkamies tai julkisyhteisön työntekijä taikka julkista valtaa käyttävä tai julkista luottamustehtävää hoitava taikka muu, joka on viranomaisten toiminnan julkisuudesta annetun lain (621/1999) 23 §:n nojalla vaitiolovelvollinen, ei saa todistaa siitä, mitä sisältyy mainitun lain 11 §:n 2 momentin tai oikeudenkäynnin julkisuudesta yleisissä tuomioistuimissa annetun lain (370/2007) 12 §:n 2 momentin nojalla asianosaiselta salassa pidettävään asiakirjaan tai oikeudenkäyntiasiakirjaan, eivätkä myöskään siitä, mikä olisi asiakirjaan merkittynä pidettävä jommankumman mainitun lainkohdan nojalla asianosaiselta salassa, ellei se, jonka hyväksi salassapitovelvollisuus on säädetty, suostu todistamiseen tai lapsen huollosta ja tapaamisoikeudesta annetun lain (361/1983) 16 §:n 5 momentista, sosiaalihuollon asiakkaan asemasta ja oikeuksista annetun lain (812/2000) 18 §:n 1 momentista tai muusta vastaavasta lainkohdasta muuta johdu. Tämä laki tulee voimaan 1 päivänä joulukuuta 2019.",
+      "section_number": "12",
+      "chapter_number": 17,
+      "statute_id": "135/2009"
+    }
+  ],
+  "clauses": [],
+  "cross_references": [],
+  "raw_html_path": "C:\\Users\\danit\\finance-hack\\aalto-hackaton-2026\\data\\raw\\finlex\\Laki\\Laki oikeudenkäymiskaaren muuttamisesta_25.html"
+}

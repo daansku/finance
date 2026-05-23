@@ -1,0 +1,663 @@
+{
+  "statute": {
+    "id": "f9b602d8-0628-447a-a684-877d87a3c81e",
+    "node_type": "Statute",
+    "publisher": "finlex",
+    "title": "Valtioneuvoston asetus sähköntoimitusten selvityksestä ja mittauksesta annetun valtioneuvoston asetuksen muuttamisesta",
+    "text": "Valtioneuvoston asetus sähköntoimitusten selvityksestä ja mittauksesta annetun valtioneuvoston asetuksen muuttamisesta",
+    "statute_id": "66/2009",
+    "finlex_url": "https://finlex.fi/fi/laki/ajantasa/66/2009"
+  },
+  "chapters": [
+    {
+      "id": "5a62e550-a2bf-43cd-b237-33a62ad0f6b4",
+      "node_type": "Chapter",
+      "publisher": "finlex",
+      "title": "Chapter 1",
+      "text": "1 luku Yleiset säännökset",
+      "chapter_number": 1,
+      "statute_id": "66/2009"
+    },
+    {
+      "id": "4880ece5-7579-4333-9e27-0bb23112349b",
+      "node_type": "Chapter",
+      "publisher": "finlex",
+      "title": "Chapter 2",
+      "text": "2 luku Tasevastuu",
+      "chapter_number": 2,
+      "statute_id": "66/2009"
+    },
+    {
+      "id": "b219326c-75ff-4117-934d-4b9195170332",
+      "node_type": "Chapter",
+      "publisher": "finlex",
+      "title": "Chapter 3",
+      "text": "3 luku Toimituksen alkaminen ja päättyminen",
+      "chapter_number": 3,
+      "statute_id": "66/2009"
+    },
+    {
+      "id": "ca87ebc3-d623-490d-beed-b39dde02367f",
+      "node_type": "Chapter",
+      "publisher": "finlex",
+      "title": "Chapter 4",
+      "text": "4 luku Taseselvitys",
+      "chapter_number": 4,
+      "statute_id": "66/2009"
+    },
+    {
+      "id": "42d165ce-6b4c-49b2-8179-2780a8b1840f",
+      "node_type": "Chapter",
+      "publisher": "finlex",
+      "title": "Chapter 5",
+      "text": "5 luku Tyyppikuormituskäyrien soveltaminen taseselvityksessä",
+      "chapter_number": 5,
+      "statute_id": "66/2009"
+    },
+    {
+      "id": "89ca19d9-fa13-4019-8da8-ca14812c413b",
+      "node_type": "Chapter",
+      "publisher": "finlex",
+      "title": "Chapter 6",
+      "text": "6 luku Sähköntoimitusten mittaus sähköverkossa ja kiinteistön sisäisessä verkossa",
+      "chapter_number": 6,
+      "statute_id": "66/2009"
+    }
+  ],
+  "sections": [
+    {
+      "id": "26c65bae-4ff5-4c54-9cd2-a2e07b6bafce",
+      "node_type": "Section",
+      "publisher": "finlex",
+      "title": "1 § Määritelmät",
+      "text": "Tässä asetuksessa tarkoitetaan:",
+      "section_number": "1",
+      "chapter_number": 1,
+      "statute_id": "66/2009"
+    },
+    {
+      "id": "a419ddbb-2817-4ff7-a054-d9afa88512e9",
+      "node_type": "Section",
+      "publisher": "finlex",
+      "title": "2 § Tasevastuuta ja taseselvitystä koskeva käsikirja",
+      "text": "Järjestelmävastaavan kantaverkonhaltijan tehtävänä on ylläpitää tasevastuuta ja taseselvitystä koskevaa käsikirjaa. Käsikirja tulee olla suomen- ja ruotsinkielellä.",
+      "section_number": "2",
+      "chapter_number": 1,
+      "statute_id": "66/2009"
+    },
+    {
+      "id": "864aa749-e455-4b73-ac86-48c49d9f1f17",
+      "node_type": "Section",
+      "publisher": "finlex",
+      "title": "1 § Tasevastuu",
+      "text": "Sähkömarkkinoiden osapuolella tulee olla avoin toimittaja osapuolen sähköntuotantoa ja -hankintaa sekä sähkönkäyttöä ja -toimitusta varten tässä luvussa säädetyn mukaisesti. Avoimen toimittajan tulee osoittaa sähkömarkkinoiden osapuolelle suorittamalleen avoimelle toimitukselle tasevastaava, joka tämän avoimen toimituksen tai siihen ulottuvan katkeamattoman avointen toimitusten ketjun välityksellä tasapainottaa kysymyksessä olevaan avoimeen toimitukseen perustuvan sähköntuotannon ja -hankinnan sekä sähkönkäytön ja -toimituksen osapuolelle. Tasevastaavan tulee pyydettäessä ilmoittaa taseselvitysyksikölle avoimen toimituksensa ketjut niiden sähkömarkkinoiden osapuolten osalta, joiden taseselvittäjänä se toimii. Verkonhaltija saa keskeyttää sähkömarkkinoiden osapuolen sähkönsiirron ja -jakelun, jos osapuolella ei ole avointa toimittajaa tai, jos osapuolen avoimella toimittajalla ei ole tasevastaavaa. Jakeluverkonhaltija ei kuitenkaan saa keskeyttää sähkönkäyttäjän sähkönjakelua sinä aikana, kun sähkönkäyttäjälle toimitetaan sähköä sähkömarkkinalain 102 §:ään perustuen.",
+      "section_number": "1",
+      "chapter_number": 2,
+      "statute_id": "66/2009"
+    },
+    {
+      "id": "57631d92-8ceb-4e17-892f-d00d797b2614",
+      "node_type": "Section",
+      "publisher": "finlex",
+      "title": "2 § Tasevastuun järjestäminen sähkönkäyttöpaikassa",
+      "text": "Sähkönkäyttäjällä tulee olla yksi avoin toimittaja kunkin sähköverkkoon liitetyn sähkönkäyttöpaikkansa sähkönkäyttöä varten. Sähköntuottajalla, joka syöttää sähköä sähköverkkoon siinä siirrettäväksi, tulee olla yksi avoin toimittaja kunkin sähköverkkoon liitetyn sähkönkäyttöpaikkansa sähköntuotantoa ja siihen liittyvää sähkönkäyttöä varten. Osuusvoimalaitoksen tuotanto-osuudet toimitetaan tämän estämättä voimalaitososuuksien haltijoille ennalta ilmoitetun jakosuhteen mukaisesti määräytyvinä avoimina toimituksina, jos osuusvoimalaitoksen haltija on tehnyt tätä koskevan ilmoituksen taseselvitysyksikölle (osuusvoimakäsittely). Sähkömarkkinoiden osapuolella voi olla eri avoin toimittaja sähkönkäyttöpaikkansa sähkönkäyttöä ja sähköntuotantoa varten.",
+      "section_number": "2",
+      "chapter_number": 2,
+      "statute_id": "66/2009"
+    },
+    {
+      "id": "f98bbe54-a138-4cee-90dd-f5cd554f4b9f",
+      "node_type": "Section",
+      "publisher": "finlex",
+      "title": "3 § Täydentävät säännökset sähköntoimittajan ja -tuottajan tasevastuusta",
+      "text": "Sähköntoimittajalla tulee olla sähköntoimitusta ja siihen liittyvää sähkönkäyttöä varten yksi tasevastaava kullakin mittausalueella, jonne sähköntoimittaja toimittaa sähköä. Sähköntuottajalla, joka syöttää sähköä sähköverkkoon siinä siirrettäväksi ja jonka sähköntuotantolaitteiston tai usean sähköntuotantolaitteiston muodostaman voimalaitoksen nimellisteho on vähintään yksi megavolttiampeeri, tulee olla sähköntuotantoa ja siihen liittyvää sähkönkäyttöä varten yksi tasevastaava kullakin mittausalueella, jolla sähköntuottaja toimii. Sähköntoimittajalla ja -tuottajalla voi kuitenkin 1 ja 2 momentin säännösten estämättä olla eri mittausalueilla eri tasevastaavia. Sähköntoimittajan ja 2 momentissa tarkoitetun sähköntuottajan on rekisteröidyttävä tasevastuun ja taseselvityksen järjestämistä varten taseselvitysyksikössä ennen kuin se aloittaa sähköntoimitukset asiakkailleen. Sähköntoimittajan on lisäksi tehtävä rekisteröitymisilmoitus tasevastuun ja taseselvityksen järjestämistä varten mittausalueen taseselvittäjälle ennen kuin se aloittaa sähköntoimitukset mittausalueelle, jonne se ei ole aiemmin toimittanut sähköä.",
+      "section_number": "3",
+      "chapter_number": 2,
+      "statute_id": "66/2009"
+    },
+    {
+      "id": "9e7d7d98-4d06-42ab-97f8-1c1dc64f35a8",
+      "node_type": "Section",
+      "publisher": "finlex",
+      "title": "4 § Täydentävät säännökset jakeluverkonhaltijan tasevastuusta",
+      "text": "Jakeluverkonhaltijalla tulee olla yksi avoin toimittaja kunkin mittausalueensa häviösähkön ja hävikin avointa toimitusta varten. Lisäksi jakeluverkonhaltijalla tulee olla yksi avoin toimittaja mittausalueelle taseselvityksessä jääneen tasepoikkeaman avointa toimitusta varten.",
+      "section_number": "4",
+      "chapter_number": 2,
+      "statute_id": "66/2009"
+    },
+    {
+      "id": "ed41eca5-56c0-4c5f-be51-fca80c50f55f",
+      "node_type": "Section",
+      "publisher": "finlex",
+      "title": "5 § Sähköntuotannon tuotantosuunnitelmat ja niiden ilmoittaminen",
+      "text": "Nimellisteholtaan vähintään yhden megavolttiampeerin sähköntuotantolaitokselle tulee laatia kunkin taseselvitysjakson sähköntuotantoa koskeva tuotantosuunnitelma. Tasevastaavan tehtävänä on huolehtia sähkötaseeseensa kuuluvan sähköntuotannon osalta tuotantosuunnitelmien laatimisesta ja ilmoittamisesta tasesähköyksikölle. Osuusvoimalaitoksen, johon sovelletaan osuusvoimakäsittelyä, tuotanto-osuuksien jakosuhdetta ei voi muuttaa sen jälkeen, kun voimalaitososuuksien haltijoiden tasevastaavien tuotantosuunnitelmat on ilmoitettu tasesähköyksikölle.",
+      "section_number": "5",
+      "chapter_number": 2,
+      "statute_id": "66/2009"
+    },
+    {
+      "id": "88a716ed-2c61-4fb1-9ca6-749be5aa7ab4",
+      "node_type": "Section",
+      "publisher": "finlex",
+      "title": "6 § Menettelytavat",
+      "text": "Tasevastuun täyttämisessä ja siihen liittyvässä tiedonvaihdossa tulee noudattaa tasevastuuta ja taseselvitystä koskevan käsikirjan voimassa olevan version mukaista menettelyä, ellei sähkömarkkinalaissa tai sen nojalla annetuissa säännöksissä toisin säädetä.",
+      "section_number": "6",
+      "chapter_number": 2,
+      "statute_id": "66/2009"
+    },
+    {
+      "id": "89cb1d98-c976-43ae-a1e7-a5e241ceb567",
+      "node_type": "Section",
+      "publisher": "finlex",
+      "title": "1 § Avointa toimitusta koskevat ilmoitukset",
+      "text": "Avoin toimittaja on velvollinen ilmoittamaan avoimen toimituksen alkamisesta ja päättymisestä toimituksen toisen osapuolen taseselvittäjälle. Ilmoitus on tehtävä lisäksi sähköverkkoon liittyneen osapuolen verkonhaltijalle, jos tämä ei toimi osapuolen taseselvittäjänä. Jos avoimella toimittajalla ei ole ollut aikaisemmin toimitusta kyseiselle mittausalueelle, ilmoitus on tehtävä myös avoimen toimittajan omalle taseselvittäjälle. Ilmoituksessa on yksilöitävä sähkön toimituskohde, avoimen toimittajan sopimustunnus sekä toimituksen alkamis- tai päättymisajankohta. Jakeluverkonhaltija on velvollinen välittämään jakeluverkkoonsa liittyneen osapuolen nykyiselle avoimelle toimittajalle ilmoituksen, jossa uusi avoin toimittaja ilmoittaa oman avoimen toimituksensa alkamisesta osapuolelle.",
+      "section_number": "1",
+      "chapter_number": 3,
+      "statute_id": "66/2009"
+    },
+    {
+      "id": "c0b56191-c11b-43ef-a86e-4d6c7c82732e",
+      "node_type": "Section",
+      "publisher": "finlex",
+      "title": "2 § Kiinteää toimitusta koskevat ilmoitukset",
+      "text": "Kiinteän toimituksen osapuoli on uuden toimitussuhteen alkaessa velvollinen ilmoittamaan tasevastaavalleen toimitussuhteen yksilöimisessä tarvittavat tiedot. Kiinteän toimituksen osapuoli on velvollinen ilmoittamaan ennen kiinteän toimituksen toteutumista tasevastaavalleen osapuolittain eritellyn summatiedon hankkimistaan ja toimittamistaan kiinteistä toimituksista sekä avoimelle toimittajalleen summatiedon hankkimistaan ja toimittamistaan kiinteistä toimituksista. Tasevastaava on velvollinen ilmoittamaan taseselvitysyksikölle osapuolittain eritellyn summatiedon sähkötaseeseensa sisältyvistä, tasevastaavien välisiin sähkötaseisiin vaikuttavista kiinteistä toimituksista.",
+      "section_number": "2",
+      "chapter_number": 3,
+      "statute_id": "66/2009"
+    },
+    {
+      "id": "5617e011-c348-4762-bccc-13d92d5b6cfb",
+      "node_type": "Section",
+      "publisher": "finlex",
+      "title": "3 § Nykyisen avoimen toimittajan ilmoitus toimituksen jatkumisesta jakeluverkossa",
+      "text": "Jakeluverkkoon liittyneen osapuolen nykyisen avoimen toimittajan on 1 §:n 2 momentin ilmoituksen vastaanotettuaan ilmoitettava osapuolen jakeluverkonhaltijalle, jos uutta toimitusta osapuolelle ei voida aloittaa. Avoin toimittaja saa tehdä tässä pykälässä tarkoitetun ilmoituksen vain, jos osapuolten voimassa oleva määräaikainen sähkönmyyntisopimus tai osapuolten toistaiseksi voimassa olevan sähkönmyyntisopimuksen irtisanomisaika päättyy uuden toimituksen ilmoitettua alkamispäivää myöhemmin.",
+      "section_number": "3",
+      "chapter_number": 3,
+      "statute_id": "66/2009"
+    },
+    {
+      "id": "f22a6a6f-3466-4032-9968-3c43ce40a5f1",
+      "node_type": "Section",
+      "publisher": "finlex",
+      "title": "4 § Jakeluverkonhaltijan ilmoitukset uudelle avoimelle toimittajalle avoimen toimittajan vaihtuessa",
+      "text": "Jakeluverkonhaltijan on annettava toimituksen alkamista koskeva vahvistusilmoitus uudelle avoimelle toimittajalle. Jakeluverkonhaltija on velvollinen vahvistamaan tiedon toimituksen alkamisesta uudelle avoimelle toimittajalle myös siinä tapauksessa, että nykyinen avoin toimittaja laiminlyö sopimuksen voimassaoloa koskevan 3 §:n mukaisen ilmoitusvelvollisuutensa. Vahvistusilmoitukseen on liitettävä sähkönkäyttöpaikan voimassa oleva vuosienergia-arvio. Jakeluverkonhaltijan on 1 momentissa tarkoitetun vahvistusilmoituksen asemesta ilmoitettava uudelle avoimelle toimittajalle, että tämän toimitusta ei voida aloittaa, jos: Jakeluverkonhaltija on velvollinen ilmoittamaan jakeluverkkoonsa liittyneen osapuolen uudelle avoimelle toimittajalle mittauslaitteiston lukeman toimituksen alkamisajankohtana sekä antamaan tälle lukemaan perustuvan tase-energiaennusteen ja vuosienergia-arvion. Jos avoimen toimittajan vaihtumisen yhteydessä sähkönkäyttöpaikassa vaihdetaan mittauslaitteisto, jakeluverkonhaltijan on lisäksi ilmoitettava tästä uudelle avoimelle toimittajalle.",
+      "section_number": "4",
+      "chapter_number": 3,
+      "statute_id": "66/2009"
+    },
+    {
+      "id": "0f517ab6-96fe-4897-ad9e-712fdbf94406",
+      "node_type": "Section",
+      "publisher": "finlex",
+      "title": "5 § Jakeluverkonhaltijan ilmoitukset uudelle avoimelle toimittajalle, kun avointa toimitusta ei jatketa",
+      "text": "Jakeluverkonhaltijan on ilmoitettava uudelle avoimelle toimittajalle, jos tämän jo alkanutta avointa toimitusta ei voida jatkaa, koska toimituksen toiseksi osapuoleksi ilmoitettu sähkönkäyttäjä on ilmoittanut jakeluverkonhaltijalle kirjallisesti, että hän on kiistänyt kyseisen sähkönmyyntisopimuksen pätevyyden ja ilmoittanut siitä erikseen uudelle avoimelle toimittajalle. Jakeluverkonhaltijan on välitettävä sähkönkäyttäjän ilmoitus uudelle avoimelle toimittajalle.",
+      "section_number": "5",
+      "chapter_number": 3,
+      "statute_id": "66/2009"
+    },
+    {
+      "id": "87551531-a82e-4034-81cd-55a0e7665f7f",
+      "node_type": "Section",
+      "publisher": "finlex",
+      "title": "6 § Uuden avoimen toimittajan täydentävät velvollisuudet",
+      "text": "Uuden avoimen toimittajan on tehtävä jakeluverkonhaltijalle taseselvitystä varten ilmoitus avoimen toimituksen peruuntumisesta, kun: Edellä 1 momentissa tarkoitetun ilmoituksen laiminlyönti ei estä avoimen toimituksen peruuntumisen edellyttämien toimenpiteiden täytäntöönpanoa. Uuden avoimen toimittajan on tarkistettava 4 §:n 1 momentissa tarkoitetun vahvistusilmoituksen vastaanotettuaan, että vahvistusilmoituksen tiedot sopimussuhteesta ovat yhdenmukaiset uuden avoimen toimittajan jakeluverkonhaltijalle ilmoittaman sähkönmyyntisopimuksen kanssa. Uuden avoimen toimittajan on selvitettävä ja oikaistava sopimuksen tekemiseen ja avoimen toimituksen aloittamiseen liittyvät epäselvyydet ensitilassa.",
+      "section_number": "6",
+      "chapter_number": 3,
+      "statute_id": "66/2009"
+    },
+    {
+      "id": "e9b7b46b-7701-4a80-8279-d2cb99de7c5f",
+      "node_type": "Section",
+      "publisher": "finlex",
+      "title": "1 § Taseselvityksen tarkoitus ja sen perustana käytettävä menetelmä",
+      "text": "Taseselvityksen tarkoituksena on kunkin tasatunnin aikana toteutuneiden sähköntoimitusten selvittäminen siten, että selvityksen lopputuloksena muodostetaan kullekin taseselvityksen piiriin kuuluvalle sähkömarkkinoiden osapuolelle sähkötase sähkönkäytölle ja -toimitukselle sekä, jos osapuolen sähkötaseeseen kuuluu sähköntuotantoa ja -hankintaa, sähköntuotannolle ja -hankinnalle sekä lasketaan niiden tasepoikkeamat kyseisen tasatunnin aikana. Jakeluverkonhaltijalle tapahtuvia avoimia toimituksia varten muodostetaan sähkötase erikseen sekä mittausalueen häviöille ja hävikille että mittausalueen tasepoikkeamalle. Sähkömarkkinoiden osapuolelle, jonka sähkönkäyttöpaikasta syötetään sähköä sähköverkkoon siinä siirrettäväksi, ei kuitenkaan muodosteta erillistä sähkötasetta sähköntuotannolle ja -hankinnalle, jos sähkönkäyttöpaikalla sijaitsevan sähköntuotantolaitteiston tai usean sähköntuotantolaitteiston muodostaman voimalaitoksen nimellisteho on alle yksi megavolttiampeeri. Taseselvitysjaksona on tasatunti. Taseselvityksen tulee perustua tuntimittaukseen. Sähkön vähittäismyynnin osalta voidaan jakeluverkossa kuitenkin soveltaa muun mittaustavan ja tyyppikuormituskäyrän yhdistelmää siten kuin jäljempänä säädetään. Taseselvityksessä ja siihen liittyvässä tiedonvaihdossa tulee noudattaa tasevastuuta ja taseselvitystä koskevan käsikirjan voimassa olevan version mukaista menettelyä, ellei sähkömarkkinalaissa tai sen nojalla annetuissa säännöksissä toisin säädetä.",
+      "section_number": "1",
+      "chapter_number": 4,
+      "statute_id": "66/2009"
+    },
+    {
+      "id": "9df8a803-a238-4ae5-a3bd-efae7dd0ec66",
+      "node_type": "Section",
+      "publisher": "finlex",
+      "title": "2 § Mittausalue",
+      "text": "Taseselvityksen selvitysalueena on mittausalue. Sähköverkon kohdassa, jossa sähkö siirtyy mittausalueelta toiselle, tulee olla rajapistemittaus. Verkonhaltijan sähköverkko muodostaa mittausalueen. Verkonhaltija voi muodostaa sähköverkostansa myös useita mittausalueita. Tasevastaava voi sopia taseselvitysyksikön ja sen verkonhaltijan kanssa, jonka sähköverkkoon tasevastaavan hallinnassa oleva kiinteistön tai kiinteistöryhmän sisäinen sähköverkko on liitetty, että hänen sähköverkkonsa tai sen osa nimetään mittausalueeksi. Tasevastaavaan sovelletaan tällöin, mitä 2 luvun 1 §:ssä ja tämän luvun 3 §:ssä säädetään verkonhaltijasta. Kiinteistön tai sitä vastaavan kiinteistöryhmän sisäisen sähköverkon haltija, joka ei toimi tasevastaavana, voi sopia taseselvitysyksikön ja sen verkonhaltijan kanssa, jonka sähköverkkoon kiinteistön tai kiinteistöryhmän sisäinen sähköverkko on liitetty, että hänen sähköverkkonsa nimetään mittausalueeksi. Tällaisen mittausalueen ylläpitäjän tehtävistä ja vastuista taseselvityksessä sovitaan tasesähköyksikön ja mittausalueen ylläpitäjän välisessä sopimuksessa. Mittausalue tulee rekisteröidä tasesähköyksikössä.",
+      "section_number": "2",
+      "chapter_number": 4,
+      "statute_id": "66/2009"
+    },
+    {
+      "id": "acb57138-ae1b-4f7e-8d38-7873e95b49ad",
+      "node_type": "Section",
+      "publisher": "finlex",
+      "title": "3 § Verkonhaltijan tehtävät taseselvityksessä",
+      "text": "Verkonhaltijan tulee järjestää taseselvitys ja siihen liittyvä tiedonvaihto mittausalueensa avointen toimitusten ja mittausalueiden välillä siirretyn sähkön osalta sekä, jos mittausalueeseen kuuluu jakeluverkkoa, tyyppikuormituskäyrien soveltamisen edellyttämä tasoituslaskenta mittausalueella toimivien vähittäismyyjien osalta. Verkonhaltijan tehtävänä taseselvityksessä on laskea mittausalueellaan kunkin kyseisellä mittausalueella toimivan taseselvitettävän osapuolen tuntimittauksen piirissä olevien toimitusten kokonaismäärä. Jos mittausalueeseen kuuluu jakeluverkkoa, jakeluverkonhaltijan tehtävänä on lisäksi laskea mittausalueellaan sähkötase häviöille ja hävikille sekä mittauksen ja tyyppikuormituskäyrän yhdistelmään perustuvien toimitusten tyyppikäyttäjäryhmittäiset kokonaismäärät. Verkonhaltijan on ilmoitettava taseselvitysyksikölle taseselvitystä varten: Verkonhaltijan on ilmoitettava mittausalueellaan toimivalle taseselvitettävälle osapuolelle tasevastuun täyttämistä ja laskutusta varten taseselvityksen yhteydessä lasketut osapuolen tuntimittauksen piirissä olevat toimitukset mittausalueella sähkönkäyttöpaikka- tai mittauskohtaisesti. Jakeluverkonhaltijan on ilmoitettava mittausalueellaan toimivalle vähittäismyyjälle tasevastuun täyttämistä ja laskutusta varten taseselvityksen yhteydessä lasketut osapuolen mittauksen ja tyyppikuormituskäyrän yhdistelmään perustuvien toimitusten tyyppikäyttäjäryhmittäiset kokonaismäärät.",
+      "section_number": "3",
+      "chapter_number": 4,
+      "statute_id": "66/2009"
+    },
+    {
+      "id": "480fe25c-327a-40b8-a2c9-73e649d553c0",
+      "node_type": "Section",
+      "publisher": "finlex",
+      "title": "4 § Tasevastaavan tehtävät taseselvityksessä",
+      "text": "Tasevastaavan tulee järjestää taseselvitys ja siihen liittyvä tiedonvaihto niiden taseselvitettävien osapuolten osalta, joiden tasevastaavana se toimii. Tasevastaavan tehtävänä taseselvityksessä on: Tasevastaavan on ilmoitettava taseselvitysyksikölle taseselvitystä varten: Tasevastaavan on ilmoitettava tasevastuun täyttämistä ja laskutusta varten kullekin sähkötaseeseensa kuuluvalle taseselvitettävälle osapuolelle taseselvityksen yhteydessä lasketut tasepoikkeamat sekä kiinteät toimitukset, joissa tämä on osapuolena.",
+      "section_number": "4",
+      "chapter_number": 4,
+      "statute_id": "66/2009"
+    },
+    {
+      "id": "e072edad-e9cf-4f0c-a18e-34e51c3f6183",
+      "node_type": "Section",
+      "publisher": "finlex",
+      "title": "5 § Taseselvitysyksikön tehtävät taseselvityksessä",
+      "text": "Taseselvitysyksikön tehtävänä taseselvityksessä on selvittää valtakunnallinen sähkötase sekä tasevastaavien sähkötaseet siten, että taseselvityksen tuloksena saadaan selville tasepoikkeamat tasesähköyksikön ja tasevastaavien välillä sekä tasepoikkeamat valtakunnallisen markkinatasealueen ja naapurimaiden markkinatasealueiden välillä. Taseselvitysyksikön tulee järjestää kiinteiden toimitusten selvittäminen niiden kiinteiden toimitusten osalta, jotka vaikuttavat tasevastaavien välisiin sähkötaseisiin tai jotka tapahtuvat maan rajan ylittävien sähköjohtojen kautta. Taseselvitysyksikön tehtävänä on lisäksi huolehtia siitä, että sähkömarkkinoiden osapuolet saavat käyttöönsä taseselvityksessä selvitetyt tiedot osapuolten omista sähkönhankinnoista ja -toimituksista. Taseselvitysyksikön on annettava:",
+      "section_number": "5",
+      "chapter_number": 4,
+      "statute_id": "66/2009"
+    },
+    {
+      "id": "0513b360-50e3-4d57-9bf6-595961593639",
+      "node_type": "Section",
+      "publisher": "finlex",
+      "title": "6 § Sähkön käsittely taseselvityksessä, kun sähkönkäyttäjän sähkönmyyntisopimus peruuntuu tai, kun sähkönkäyttäjä kiistää sähkönmyyntisopimuksen pätevyyden",
+      "text": "Uusi avoin toimittaja vastaa alkaneen uuden avoimen toimituksen perusteella sähkötaseeseensa kirjatusta sähköstä siihen saakka, kunnes avoin toimitus on siirretty toiselle avoimelle toimittajalle tai sähköntoimitus sähkönkäyttäjälle keskeytetään, kun; Jos avoin toimitus 1 momentin 1 tai 2 kohdassa tarkoitetussa tapauksessa siirtyy takaisin nykyiselle avoimelle toimittajalle, kirjataan sähkönkäyttäjän käyttämä sähkö kuitenkin nykyisen avoimen toimittajan sähkötaseeseen siltä osin kuin sähkötaseisiin on mahdollista tehdä muutoksia taseselvityksen määräaikojen puitteissa. Jos avoin toimitus 1 momentin 3 tai 4 kohdassa tarkoitetussa tapauksessa siirtyy takaisin nykyiselle avoimelle toimittajalle, kirjataan sähkönkäyttäjän käyttämä sähkö kuitenkin nykyisen avoimen toimittajan sähkötaseeseen siltä osin kuin sähkötaseisiin on mahdollista tehdä muutoksia taseselvityksen määräaikojen puitteissa, jos nykyinen avoin toimittaja on ottanut vastattavakseen sähkönkäyttäjän avoimesta toimituksesta. Jakeluverkonhaltijan on 1 momentissa tarkoitetun tiedon saatuaan ensitilassa neuvottava sähkönkäyttäjälle toimenpiteet, joilla tämä voi välttää sähköntoimituksen keskeyttämisen.",
+      "section_number": "6",
+      "chapter_number": 4,
+      "statute_id": "66/2009"
+    },
+    {
+      "id": "0dfdb85c-ceb6-4c68-aebc-b234dc7a1398",
+      "node_type": "Section",
+      "publisher": "finlex",
+      "title": "7 § Sähkömarkkinalain 102 §:ssä tarkoitetun toimituksen käsittely taseselvityksessä",
+      "text": "Sähkömarkkinalain 102 §:ssä tarkoitettu jakeluverkonhaltijan sähkönkäyttäjälle toimittama sähkö kirjataan jakeluverkonhaltijan häviöiden ja hävikin sähkötaseeseen, ellei jakeluverkonhaltija ole osoittanut sähköntoimitukselle muuta avointa toimittajaa, jonka sähkötaseeseen sähkö kirjataan.",
+      "section_number": "7",
+      "chapter_number": 4,
+      "statute_id": "66/2009"
+    },
+    {
+      "id": "6416e776-c127-4621-aa59-684c7a5d479d",
+      "node_type": "Section",
+      "publisher": "finlex",
+      "title": "8 § Täydentävät velvoitteet",
+      "text": "Sähkömarkkinoiden osapuolet ovat sen lisäksi, mitä tässä asetuksessa säädetään, velvollisia pyynnöstä ilmoittamaan verkonhaltijalle, osapuolen taseselvittäjälle, taseselvitysyksikölle ja tasesähköyksikölle sähköntuotantoa ja -hankintaa sekä sähkönkäyttöä ja -toimitusta koskevia tietoja, jos tiedon saaminen on perusteltua taseselvityksen tai toisen osapuolen tasevastuun täyttämisen kannalta. Taseselvittäjä on lisäksi velvollinen avustamaan taseselvitysyksikköä virheellisten taseselvitystietojen korjaamisessa, jos valtakunnallisen taseselvityksen laatiminen sitä edellyttää.",
+      "section_number": "8",
+      "chapter_number": 4,
+      "statute_id": "66/2009"
+    },
+    {
+      "id": "04af7b98-888b-432c-888b-ada6cb33b290",
+      "node_type": "Section",
+      "publisher": "finlex",
+      "title": "1 § Tyyppikuormituskäyrän käyttäminen taseselvityksen perustana jakeluverkossa",
+      "text": "Sähkön vähittäismyynnin taseselvityksen tulee jakeluverkossa perustua sähkönkäyttöpaikan osalta tyyppikuormituskäyrän ja muun mittaustavan kuin tuntimittauksen yhdistelmään, jos sähkönkäyttöpaikkaa ei ole varustettu tuntimittauslaitteistolla. Jakeluverkonhaltija päättää, mitä tyyppikuormituskäyrää kuhunkin sähkönkäyttöpaikkaan sovelletaan.",
+      "section_number": "1",
+      "chapter_number": 5,
+      "statute_id": "66/2009"
+    },
+    {
+      "id": "7cfebb09-2d2a-4aa3-82ae-cad7bb00bf59",
+      "node_type": "Section",
+      "publisher": "finlex",
+      "title": "5 § Lämpötilakorjaus",
+      "text": "Lämpötilapoikkeamaa laskettaessa tulee käyttää vastuualueen virallisessa mittauspisteessä kulloisenakin mittauspäivänä ja sitä edeltävänä päivänä kello yhdeksän mitattujen ulkolämpötilojen keskiarvoa. Jakeluverkonhaltija voi soveltaa lämpötilapoikkeaman laskemiseen myös muuta lämpötilan mittaustapaa, jos jakeluverkonhaltijan vastuualue on maantieteelliseltä alueeltaan niin laaja, että yksittäisen mittauspisteen tulos ei kuvaa riittävän tarkasti vastuualueen keskimääräistä lämpötilaa tai vastuualueelta ei löydy virallista mittauspistettä, joka kuvaisi riittävän tarkasti vastuualueen keskimääräistä lämpötilaa. Jakeluverkonhaltijan tulee toimittaa lämpötilatiedot vastuualueellaan toimiville vähittäismyyjille, jos jakeluverkonhaltija soveltaa lämpötilapoikkeaman laskemiseen muuta kuin viralliseen mittauspisteeseen perustuvaa lämpötilakorjausmenetelmää.",
+      "section_number": "5",
+      "chapter_number": 5,
+      "statute_id": "66/2009"
+    },
+    {
+      "id": "2eda14c2-4d0b-472c-ab4b-067b3102f15a",
+      "node_type": "Section",
+      "publisher": "finlex",
+      "title": "7 § Tasoituslaskenta",
+      "text": "Jakeluverkonhaltijan on selvitettävä vuosittain kunkin vähittäismyyjän asiakkaiden osalta tyyppikuormituskäyrämenettelyssä laskettujen ja mitattujen summaenergioiden erotukset (tasoituslaskenta). Näiden erotusten summa hyvitetään ja veloitetaan jakeluverkossa toimivien vähittäismyyjien kesken.",
+      "section_number": "7",
+      "chapter_number": 5,
+      "statute_id": "66/2009"
+    },
+    {
+      "id": "190044e1-8f45-414e-ad6a-be62a61c4b09",
+      "node_type": "Section",
+      "publisher": "finlex",
+      "title": "8 § Paikallinen tyyppikuormituskäyrä",
+      "text": "Jos asiakasryhmän sähkönkäyttö poikkeaa merkittävästi tyyppikuormituskäyrän mukaisesta sähkönkäytön aikavaihtelusta, jakeluverkonhaltija voi ottaa asiakasryhmää varten käyttöön paikallisen tyyppikuormituskäyrän. Harkitessaan paikallisen tyyppikuormituskäyrän käyttöönottoa, jakeluverkonhaltijan tulee ottaa huomioon, mitä sähkömarkkinalain 74 §:n 2 momentissa säädetään. Jakeluverkonhaltijan on ilmoitettava Energiavirastolle viimeistään kuukautta ennen paikallisen tyyppikuormituskäyrän käyttöönottoa tyyppikuormituskäyrän määräytymisperusteet sekä perustelut sen tarpeellisuudelle. Samalla jakeluverkonhaltijan on ilmoitettava vastuualueella toimiville vähittäismyyjille ja tasevastaaville paikallisen tyyppikuormituskäyrän käyttöönotosta.",
+      "section_number": "8",
+      "chapter_number": 5,
+      "statute_id": "66/2009"
+    },
+    {
+      "id": "fd206309-520c-47f3-a6dd-ce09633b3ca6",
+      "node_type": "Section",
+      "publisher": "finlex",
+      "title": "3 § Sähköntuotantolaitoksen varustaminen mittauslaitteistolla sähköverkossa",
+      "text": "Sähköntuotantolaitos, joka syöttää sähköä sähköverkkoon siinä siirrettäväksi, tulee varustaa mittauslaitteistolla. Nimellisteholtaan enintään 100 kilovolttiampeerin sähköntuotantolaitteistoa ja usean sähköntuotantolaitteiston muodostamaa voimalaitosta, jonka nimellisteho on enintään 100 kilovolttivolttiampeeria, ei kuitenkaan tarvitse varustaa erillisellä mittauslaitteistolla, jos sähkönkäyttöpaikka, jossa sähköntuotantolaitteisto tai voimalaitos sijaitsee, on varustettu tuntimittauslaitteistolla, joka kykenee mittaamaan sekä sähköverkosta otetun että sähköverkkoon syötetyn sähkön määrän. Edellä 1 momentin säännöstä ei sovelleta verkonhaltijan varavoimakoneisiin, jotka on liitetty sähköverkkoon ainoastaan tilapäisesti. Verkonhaltijan tulee asiakkaansa erillisestä tilauksesta tarjota tämän käyttöön:",
+      "section_number": "3",
+      "chapter_number": 6,
+      "statute_id": "66/2009"
+    },
+    {
+      "id": "c22474a1-4f4f-420e-9cf6-2e84dd134db0",
+      "node_type": "Section",
+      "publisher": "finlex",
+      "title": "6 § Mittauslaitteiston lukeminen sähköverkossa",
+      "text": "Sähkönkäyttöpaikan tuntimittauslaitteisto on luettava vähintään kerran vuorokaudessa. Muu sähkönkäyttöpaikan mittauslaitteisto kuin tuntimittauslaitteisto on luettava vähintään neljä kertaa vuodessa. Vähintään yksi muun mittauslaitteiston kuin tuntimittauslaitteiston luentakerta vuodessa kuuluu jakeluverkonhaltijan vastuulle. Jakeluverkonhaltijalla on oikeus arvioida sähkönkäyttöpaikan sähkönkulutus aikaisempaan sähkönkulutukseen perustuen, jos: Jakeluverkonhaltijan on julkaistava selvitys menetelmästä, jota se soveltaa sähkönkäyttöpaikan sähkönkulutuksen arvioinnissa. Verkonhaltija voi sopia sähkönkäyttäjän ja -toimittajan kanssa mittauslaitteistojen luennasta tässä asetuksessa säädettyä täydentävästi. Tämä asetus tulee voimaan 1 päivänä toukokuuta 2016. Asetuksen 1—4 luku ja 5 luvun 1 § tulevat kuitenkin voimaan vasta 3 päivänä lokakuuta 2016. Asetuksen 1—4 luvun ja 5 luvun 1 §:n säännöksiä on 5 päivän syyskuuta 2016 ja 2 päivän lokakuuta 2016 välisenä aikana sovellettava rinnakkain sekä sellaisina kuin ne olivat tämän asetuksen voimaan tullessa että sellaisina kuin ne ovat tässä asetuksessa. Virallinen taseselvitys tehdään mainittuna ajanjaksona kuitenkin tämän asetuksen voimaan tullessa voimassa olleiden säännösten mukaisesti.",
+      "section_number": "6",
+      "chapter_number": 6,
+      "statute_id": "66/2009"
+    }
+  ],
+  "clauses": [
+    {
+      "id": "68448a24-64a3-466d-bc5c-3db97fe0a079",
+      "node_type": "Clause",
+      "publisher": "finlex",
+      "title": "§ 4 mom 1",
+      "text": "1) nykyinen avoin toimittaja on tehnyt jakeluverkonhaltijalle 3 §:n mukaisen ilmoituksen toimituksensa jatkumisesta;",
+      "clause_number": 1,
+      "section_number": "4",
+      "statute_id": "66/2009"
+    },
+    {
+      "id": "c9b3495e-2b80-4075-ab09-4fd0e98f1cb3",
+      "node_type": "Clause",
+      "publisher": "finlex",
+      "title": "§ 4 mom 2",
+      "text": "2) toimituksen toiseksi osapuoleksi ilmoitettu sähkönkäyttäjä on ilmoittanut jakeluverkonhaltijalle kirjallisesti, että hän on kiistänyt kyseisen sähkönmyyntisopimuksen pätevyyden ja ilmoittanut siitä erikseen uudelle avoimelle toimittajalle.",
+      "clause_number": 2,
+      "section_number": "4",
+      "statute_id": "66/2009"
+    },
+    {
+      "id": "e1675dae-9414-4b0b-a545-971891c47de6",
+      "node_type": "Clause",
+      "publisher": "finlex",
+      "title": "§ 6 mom 1",
+      "text": "1) uuden avoimen toimituksen perusteena oleva sähkönmyyntisopimus on peruuntunut sopimuspuolen käytettyä kuluttajansuojalain (38/1978) 6 luvun 14 §:ssä säädettyä oikeuttaan peruuttaa sähkönmyyntisopimus;",
+      "clause_number": 1,
+      "section_number": "6",
+      "statute_id": "66/2009"
+    },
+    {
+      "id": "5b611d7e-8684-407b-a640-e848d3c9364e",
+      "node_type": "Clause",
+      "publisher": "finlex",
+      "title": "§ 6 mom 2",
+      "text": "2) uuden avoimen toimituksen toiseksi osapuoleksi ilmoitettu sähkönkäyttäjä on ilmoittanut uudelle avoimelle toimittajalle kiistävänsä kyseisen sähkönmyyntisopimuksen pätevyyden;",
+      "clause_number": 2,
+      "section_number": "6",
+      "statute_id": "66/2009"
+    },
+    {
+      "id": "cd5aac21-de31-48a6-99de-c2f8ce2c146b",
+      "node_type": "Clause",
+      "publisher": "finlex",
+      "title": "§ 6 mom 2",
+      "text": "3) jakeluverkonhaltija on välittänyt uudelle avoimelle toimittajalle 4 §:n 2 momentin 2 kohdassa ja 5 §:ssä tarkoitetun ilmoituksen.",
+      "clause_number": 2,
+      "section_number": "6",
+      "statute_id": "66/2009"
+    },
+    {
+      "id": "40380e3c-4560-4688-a22b-58720b0f127d",
+      "node_type": "Clause",
+      "publisher": "finlex",
+      "title": "§ 6 mom 3",
+      "text": "3) jakeluverkonhaltija on välittänyt uudelle avoimelle toimittajalle 4 §:n 2 momentin 2 kohdassa ja 5 §:ssä tarkoitetun ilmoituksen.",
+      "clause_number": 3,
+      "section_number": "6",
+      "statute_id": "66/2009"
+    },
+    {
+      "id": "9158700c-083e-4394-b27f-fc278d157af2",
+      "node_type": "Clause",
+      "publisher": "finlex",
+      "title": "§ 3 mom 1",
+      "text": "1) kunkin mittausalueellaan toimivan taseselvitettävän osapuolen tuntimittauksen piirissä olevien toimitusten kokonaismäärä;",
+      "clause_number": 1,
+      "section_number": "3",
+      "statute_id": "66/2009"
+    },
+    {
+      "id": "61e69a5e-d10d-4791-b6ac-61d23a71a380",
+      "node_type": "Clause",
+      "publisher": "finlex",
+      "title": "§ 3 mom 2",
+      "text": "2) mittausalueellaan toimivien taseselvitettävien osapuolten taseselvityksen piiriin kuuluvat tuotantotiedot tuotantoyksiköittäin;",
+      "clause_number": 2,
+      "section_number": "3",
+      "statute_id": "66/2009"
+    },
+    {
+      "id": "f08d59de-5429-4770-aef5-ea6e72f984f6",
+      "node_type": "Clause",
+      "publisher": "finlex",
+      "title": "§ 3 mom 3",
+      "text": "3) mittausalueensa rajapistemittausten summatiedot muihin mittausalueisiin nähden ja;",
+      "clause_number": 3,
+      "section_number": "3",
+      "statute_id": "66/2009"
+    },
+    {
+      "id": "08681c9a-b354-462f-976e-19de6a74e385",
+      "node_type": "Clause",
+      "publisher": "finlex",
+      "title": "§ 3 mom 4",
+      "text": "4) jos mittausalueeseen kuuluu jakeluverkkoa, jakeluverkonhaltijan sähkötase häviöille ja hävikille mittausalueella sekä mittauksen ja tyyppikuormituskäyrän yhdistelmään perustuvien toimitusten kokonaismäärä mittausalueella.",
+      "clause_number": 4,
+      "section_number": "3",
+      "statute_id": "66/2009"
+    },
+    {
+      "id": "33c118e5-a79f-46ab-8f8f-4f77c38b5b66",
+      "node_type": "Clause",
+      "publisher": "finlex",
+      "title": "§ 4 mom 1",
+      "text": "1) laskea tasepoikkeamat kullekin sähkötaseeseensa kuuluvalle taseselvitettävälle osapuolelle;",
+      "clause_number": 1,
+      "section_number": "4",
+      "statute_id": "66/2009"
+    },
+    {
+      "id": "ff26cab5-1190-4f31-b819-8f322439a852",
+      "node_type": "Clause",
+      "publisher": "finlex",
+      "title": "§ 4 mom 2",
+      "text": "2) selvittää sähkötaseeseensa kuuluvan taseselvitettävän osapuolen kiinteät toimitukset;",
+      "clause_number": 2,
+      "section_number": "4",
+      "statute_id": "66/2009"
+    },
+    {
+      "id": "fb22e442-ca93-461a-98d7-6e8ecb43bb05",
+      "node_type": "Clause",
+      "publisher": "finlex",
+      "title": "§ 4 mom 3",
+      "text": "3) ylläpitää tasevastuun täyttämiseen ja taseselvitykseen liittyviä rakenteellisia tietoja sähkötaseisiinsa kuuluvista taseselvitettävistä osapuolista.",
+      "clause_number": 3,
+      "section_number": "4",
+      "statute_id": "66/2009"
+    },
+    {
+      "id": "8e5812ab-6d83-4957-9c09-da594bd4e73f",
+      "node_type": "Clause",
+      "publisher": "finlex",
+      "title": "§ 4 mom 1",
+      "text": "1) tiedot sähkötaseisiinsa kuuluvien taseselvitettävien osapuolten kiinteistä toimituksista;",
+      "clause_number": 1,
+      "section_number": "4",
+      "statute_id": "66/2009"
+    },
+    {
+      "id": "15dc3499-ee35-4521-8dc3-d61409dc772e",
+      "node_type": "Clause",
+      "publisher": "finlex",
+      "title": "§ 4 mom 2",
+      "text": "2) tasevastuun täyttämiseen ja taseselvitykseen liittyvät rakenteelliset tiedot sähkötaseisiinsa kuuluvista taseselvitettävistä osapuolista.",
+      "clause_number": 2,
+      "section_number": "4",
+      "statute_id": "66/2009"
+    },
+    {
+      "id": "b4e82996-4079-446a-a58a-dbbe20dedd7d",
+      "node_type": "Clause",
+      "publisher": "finlex",
+      "title": "§ 5 mom 1",
+      "text": "1) taseselvittäjälle alustavat ja lopulliset taseselvitystiedot, jotka liittyvät sen taseselvitystehtävän suorittamiseen;",
+      "clause_number": 1,
+      "section_number": "5",
+      "statute_id": "66/2009"
+    },
+    {
+      "id": "e7ae20ee-3fb9-4a5f-a6b3-18f714e5114a",
+      "node_type": "Clause",
+      "publisher": "finlex",
+      "title": "§ 5 mom 2",
+      "text": "2) tasevastaavalle alustavat ja lopulliset tasesähköyksikön ja tasevastaavan väliset sähköntoimitukset;",
+      "clause_number": 2,
+      "section_number": "5",
+      "statute_id": "66/2009"
+    },
+    {
+      "id": "a606e692-9fc9-413a-9dec-68c38d470e20",
+      "node_type": "Clause",
+      "publisher": "finlex",
+      "title": "§ 5 mom 3",
+      "text": "3) sähkömarkkinoiden osapuolelle taseselvittäjien ilmoittamat alustavat ja lopulliset taseselvitystiedot, jotka koskevat osapuolta itseään;",
+      "clause_number": 3,
+      "section_number": "5",
+      "statute_id": "66/2009"
+    },
+    {
+      "id": "76c03912-55ed-4b46-968c-7a50487382ff",
+      "node_type": "Clause",
+      "publisher": "finlex",
+      "title": "§ 5 mom 4",
+      "text": "4) ulkomaiselle osapuolelle valtakunnallisen markkinatasealueen rajan ylittävät alustavat ja lopulliset sähköntoimitukset.",
+      "clause_number": 4,
+      "section_number": "5",
+      "statute_id": "66/2009"
+    },
+    {
+      "id": "dc4f0913-0e73-4f6b-b806-9b30767435fe",
+      "node_type": "Clause",
+      "publisher": "finlex",
+      "title": "§ 6 mom 1",
+      "text": "1) kuluttajan tekemä sähkönmyyntisopimus peruuntuu tämän käytettyä kuluttajansuojalain 6 luvun 14 §:ssä säädettyä oikeuttaan peruuttaa sähkönmyyntisopimus;",
+      "clause_number": 1,
+      "section_number": "6",
+      "statute_id": "66/2009"
+    },
+    {
+      "id": "51ac6622-a8dd-46c2-9d93-2f25a496783f",
+      "node_type": "Clause",
+      "publisher": "finlex",
+      "title": "§ 6 mom 2",
+      "text": "2) sähköntoimitus peruuntuu uuden avoimen toimittajan perusteettoman tai virheellisen sanoman vuoksi;",
+      "clause_number": 2,
+      "section_number": "6",
+      "statute_id": "66/2009"
+    },
+    {
+      "id": "47c162cb-7b30-4c02-9fba-f3ca3b900f88",
+      "node_type": "Clause",
+      "publisher": "finlex",
+      "title": "§ 6 mom 3",
+      "text": "3) sähkönkäyttäjä on jakeluverkonhaltijalle tekemällään kirjallisella ilmoituksella kiistänyt alkanutta uutta avointa toimitusta koskevan sähkönmyyntisopimuksensa pätevyyden;",
+      "clause_number": 3,
+      "section_number": "6",
+      "statute_id": "66/2009"
+    },
+    {
+      "id": "293d3c4e-bdff-4f2e-a615-b7c0d8dfb64b",
+      "node_type": "Clause",
+      "publisher": "finlex",
+      "title": "§ 6 mom 4",
+      "text": "4) uusi avoin toimittaja on ilmoittanut jakeluverkonhaltijalle, että sähkönkäyttäjä on kiistänyt alkanutta uutta avointa toimitusta koskevan sähkönmyyntisopimuksensa pätevyyden.",
+      "clause_number": 4,
+      "section_number": "6",
+      "statute_id": "66/2009"
+    },
+    {
+      "id": "b4ccad14-59c1-4bd4-95b9-a8b8da79b97d",
+      "node_type": "Clause",
+      "publisher": "finlex",
+      "title": "§ 3 mom 1",
+      "text": "1) tuntimittauslaitteisto, jossa on standardoitu liitäntä reaaliaikaista sähkönkulutuksen seurantaa varten;",
+      "clause_number": 1,
+      "section_number": "3",
+      "statute_id": "66/2009"
+    },
+    {
+      "id": "868ae50f-ac15-4780-866e-4982deb5f400",
+      "node_type": "Clause",
+      "publisher": "finlex",
+      "title": "§ 3 mom 2",
+      "text": "2) tuntimittauslaitteisto sähköntuotannon määrän erillistä mittaamista varten sähköntuotantolaitteistossa tai voimalaitoksessa, jonka varustaminen erillisellä mittauslaitteistolla ei ole pakollista;",
+      "clause_number": 2,
+      "section_number": "3",
+      "statute_id": "66/2009"
+    },
+    {
+      "id": "c27902a4-5f35-4ef6-99cf-f6b45191472e",
+      "node_type": "Clause",
+      "publisher": "finlex",
+      "title": "§ 3 mom 3",
+      "text": "3) tuntimittauslaitteisto sähköajoneuvojen latauspisteen sähköntoimituksen erillistä mittaamista varten.",
+      "clause_number": 3,
+      "section_number": "3",
+      "statute_id": "66/2009"
+    },
+    {
+      "id": "7d7414c2-5b93-4d7c-8eef-bc2bce3fbde3",
+      "node_type": "Clause",
+      "publisher": "finlex",
+      "title": "§ 3 mom 1",
+      "text": "Edellä 1 momentin 2 ja 3 kohdassa tarkoitetusta kohteesta on muodostettava taseselvitystä varten oma sähkönkäyttöpaikkansa.",
+      "clause_number": 1,
+      "section_number": "3",
+      "statute_id": "66/2009"
+    },
+    {
+      "id": "74db91c8-1272-4848-8555-aa7a7e8b6556",
+      "node_type": "Clause",
+      "publisher": "finlex",
+      "title": "§ 6 mom 1",
+      "text": "1) sähköä ei ole voitu mitata mittauslaitteiston vikaantumisen vuoksi;",
+      "clause_number": 1,
+      "section_number": "6",
+      "statute_id": "66/2009"
+    },
+    {
+      "id": "796451e4-beee-45d2-9a63-e7e0828d180a",
+      "node_type": "Clause",
+      "publisher": "finlex",
+      "title": "§ 6 mom 2",
+      "text": "2) mittaustiedot eivät ole saatavilla etäluettavan mittauslaitteiston tiedonsiirtohäiriön vuoksi;",
+      "clause_number": 2,
+      "section_number": "6",
+      "statute_id": "66/2009"
+    },
+    {
+      "id": "eb048503-fe1e-4e62-b883-b76fae1e4004",
+      "node_type": "Clause",
+      "publisher": "finlex",
+      "title": "§ 6 mom 3",
+      "text": "3) mittauslaitteiston luenta kuuluu loppukäyttäjän vastuulle, eikä tämä ole ilmoittanut mittarilukemaa kysymyksessä olevalta laskutuskaudelta;",
+      "clause_number": 3,
+      "section_number": "6",
+      "statute_id": "66/2009"
+    },
+    {
+      "id": "d28d499f-cc60-4510-aadb-097115505b5c",
+      "node_type": "Clause",
+      "publisher": "finlex",
+      "title": "§ 6 mom 4",
+      "text": "4) mittauslaitteisto on sijoitettu paikkaan, johon verkonhaltijalla ei ole pääsyä, eikä loppukäyttäjä ole toimittanut verkonhaltijan asettamassa kohtuullisessa määräajassa lukemaa verkonhaltijan sitä häneltä tiedusteltua.",
+      "clause_number": 4,
+      "section_number": "6",
+      "statute_id": "66/2009"
+    }
+  ],
+  "cross_references": [],
+  "raw_html_path": "C:\\Users\\danit\\finance-hack\\aalto-hackaton-2026\\data\\raw\\finlex\\Asetus\\Valtioneuvoston asetus sähköntoimitusten selvityksestä ja mittauksesta annetun valtioneuvoston asetuksen muuttamisesta_1.html"
+}

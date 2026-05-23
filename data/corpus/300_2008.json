@@ -1,0 +1,1234 @@
+{
+  "statute": {
+    "id": "99655ad6-fec9-4d18-bed6-b290f74e3b87",
+    "node_type": "Statute",
+    "publisher": "finlex",
+    "title": "Laki eräiden tekoälyjärjestelmien valvonnasta",
+    "text": "Laki eräiden tekoälyjärjestelmien valvonnasta",
+    "statute_id": "300/2008",
+    "finlex_url": "https://finlex.fi/fi/laki/ajantasa/300/2008"
+  },
+  "chapters": [
+    {
+      "id": "4f2a8529-d133-4b32-b411-33c69e3618a4",
+      "node_type": "Chapter",
+      "publisher": "finlex",
+      "title": "Chapter 1",
+      "text": "1 luku Yleiset säännökset",
+      "chapter_number": 1,
+      "statute_id": "300/2008"
+    },
+    {
+      "id": "c4e3e0e3-357f-48b3-85c1-803ae3611393",
+      "node_type": "Chapter",
+      "publisher": "finlex",
+      "title": "Chapter 2",
+      "text": "2 luku Toimivaltaiset markkinavalvontaviranomaiset",
+      "chapter_number": 2,
+      "statute_id": "300/2008"
+    },
+    {
+      "id": "d314c7a6-6531-4bd1-9e1e-044d5b427ac8",
+      "node_type": "Chapter",
+      "publisher": "finlex",
+      "title": "Chapter 3",
+      "text": "3 luku Ilmoittamisesta vastaavat viranomaiset ja ilmoitetut laitokset",
+      "chapter_number": 3,
+      "statute_id": "300/2008"
+    },
+    {
+      "id": "8e2c1000-5a97-42eb-adc8-e5ed1a5a3a33",
+      "node_type": "Chapter",
+      "publisher": "finlex",
+      "title": "Chapter 4",
+      "text": "4 luku Valvonta ja seuraamukset",
+      "chapter_number": 4,
+      "statute_id": "300/2008"
+    },
+    {
+      "id": "50036742-13b9-4be9-b872-04dd520fbced",
+      "node_type": "Chapter",
+      "publisher": "finlex",
+      "title": "Chapter 5",
+      "text": "5 luku Erinäiset säännökset",
+      "chapter_number": 5,
+      "statute_id": "300/2008"
+    }
+  ],
+  "sections": [
+    {
+      "id": "b375b452-fffc-4848-b770-6d2e70296eee",
+      "node_type": "Section",
+      "publisher": "finlex",
+      "title": "1 § Soveltamisala",
+      "text": "Tässä laissa annetaan tekoälyä koskevista yhdenmukaistetuista säännöistä ja asetusten (EY) N:o 300/2008, (EU) N:o 167/2013, (EU) N:o 168/2013, (EU) 2018/858, (EU) 2018/1139 ja (EU) 2019/2144 sekä direktiivien 2014/90/EU, (EU) 2016/797 ja (EU) 2020/1828 muuttamisesta (tekoälysäädös) annettua Euroopan parlamentin ja neuvoston asetusta (EU) 2024/1689, jäljempänätekoälyasetus, täydentävät säännökset. Tätä lakia sovelletaan tekoälyasetuksen 2 artiklan soveltamisalan mukaisesti. Tätä lakia ei sovelleta eduskunnan valtiopäivätoimintaan eikä eduskunnan kansliaan tai muuhun eduskunnan virastoon. Lakia ei myöskään sovelleta eduskunnan oikeusasiamieheen eikä valtioneuvoston oikeuskansleriin.",
+      "section_number": "1",
+      "chapter_number": 1,
+      "statute_id": "300/2008"
+    },
+    {
+      "id": "fc4e2070-7e54-4a4d-ad04-b330870b7951",
+      "node_type": "Section",
+      "publisher": "finlex",
+      "title": "2 § Suhde muuhun lainsäädäntöön",
+      "text": "Markkinavalvonnan, talouden toimijoiden kanssa tehtävän yhteistyön sekä unionin markkinoille tulevien tuotteiden valvonnan puitteista säädetään markkinavalvonnasta ja tuotteiden vaatimustenmukaisuudesta sekä direktiivin 2004/42/EY ja asetusten (EY) N:o 765/2008 ja (EU) N:o 305/2011 muuttamisesta annetussa Euroopan parlamentin ja neuvoston asetuksessa (EU) 2019/1020, jäljempänämarkkinavalvonta-asetus. Markkinavalvontaviranomaisten toimivallasta, markkinavalvonta-asetuksen 25–28 artiklan mukaisesta ulkorajavalvonnasta sekä muutoksenhausta markkinavalvontaviranomaisten päätöksiin säädetään eräiden tuotteiden markkinavalvonnasta annetussa laissa (1137/2016), jäljempänämarkkinavalvontalaki. Tuotteista, jotka ovat tekoälyasetuksen 6 artiklan 1 kohdassa tarkoitettuja suuririskisiä tekoälyjärjestelmiä tai sisältävät turvakomponentin, joka on suuririskinen tekoälyjärjestelmä, säädetään mainitun asetuksen liitteen I jaksossa A luetellussa unionin yhdenmukaistamislainsäädännössä ja sen nojalla annetussa tai kyseistä lainsäädäntöä täydentävässä kansallisessa sääntelyssä.",
+      "section_number": "2",
+      "chapter_number": 1,
+      "statute_id": "300/2008"
+    },
+    {
+      "id": "8dafa9b0-b1be-42cd-9272-0283df37e5e8",
+      "node_type": "Section",
+      "publisher": "finlex",
+      "title": "3 § Suuririskisten tekoälyjärjestelmien markkinavalvontaviranomaiset",
+      "text": "Tekoälyasetuksen 6 artiklan 1 kohdassa tarkoitettuja suuririskisiä tekoälyjärjestelmiä valvova markkinavalvontaviranomainen on: Tekoälyasetuksen 6 artiklan 2 kohdassa tarkoitettuja liitteen III mukaisia suuririskisiä tekoälyjärjestelmiä valvova markkinavalvontaviranomainen on: Jos tekoälyasetuksen 6 artiklan 1 tai 2 kohdassa tarkoitettu suuririskinen tekoälyjärjestelmä on tarkoitettu osaksi eräiden tuotteiden esteettömyysvaatimuksista annetun lain (102/2023), jäljempänäesteettömyysvaatimuslaki, 2 §:ssä tarkoitettua tuotetta tai on tarkoitettu itse tällaiseksi tuotteeksi, sen esteettömyysvaatimuslaissa ja sen nojalla säädettyjen vaatimusten mukaisuutta valvoo mainitun lain 16 §:ssä tarkoitettu markkinavalvontaviranomainen.",
+      "section_number": "3",
+      "chapter_number": 2,
+      "statute_id": "300/2008"
+    },
+    {
+      "id": "52c26cc2-07fc-4aa9-a4c3-787d6dda5909",
+      "node_type": "Section",
+      "publisher": "finlex",
+      "title": "4 § Kiellettyjen tekoälyyn liittyvien käytäntöjen valvonta",
+      "text": "Tietosuojavaltuutettu valvoo markkinavalvontaviranomaisena tekoälyasetuksen 5 artiklan mukaisten kiellettyjen tekoälyyn liittyvien käytäntöjen noudattamista.",
+      "section_number": "4",
+      "chapter_number": 2,
+      "statute_id": "300/2008"
+    },
+    {
+      "id": "963fabfb-3f6f-4196-b2da-b7dee3ce23bb",
+      "node_type": "Section",
+      "publisher": "finlex",
+      "title": "5 § Avoimuusvelvoitteiden valvonta",
+      "text": "Liikenne- ja viestintävirasto valvoo markkinavalvontaviranomaisena tekoälyasetuksen 50 artiklan mukaisten avoimuusvelvoitteiden noudattamista. Suuririskisen tekoälyjärjestelmän tarjoajaan ja käyttöönottajaan kohdistuvien tekoälyasetuksen 50 artiklan mukaisten avoimuusvelvoitteiden noudattamista valvoo kuitenkin 3 §:n mukainen toimivaltainen markkinavalvontaviranomainen.",
+      "section_number": "5",
+      "chapter_number": 2,
+      "statute_id": "300/2008"
+    },
+    {
+      "id": "378ce6a7-43ab-47e4-a673-99955f1cfe83",
+      "node_type": "Section",
+      "publisher": "finlex",
+      "title": "6 § Keskitetty yhteyspiste",
+      "text": "Liikenne- ja viestintävirasto toimii tekoälyasetuksen 70 artiklan 2 kohdassa tarkoitettuna keskitettynä yhteyspisteenä. Keskitetyn yhteyspisteen tehtävänä on tekoälyasetuksen toimeenpanoon liittyvä viranomaisyhteistyö tämän lain nojalla toimivaltaisten viranomaisten, perusoikeuksia suojelevien viranomaisten sekä markkinavalvontalain 4 a §:n mukaisen markkinavalvonnan yhteyspisteen kanssa, viranomaisyhteistyön koordinointi sekä yhteydenpito Euroopan unionin yhteistyöelimiin ja asetuksen nojalla toimivaltaisiin viranomaisiin muissa Euroopan unionin jäsenvaltioissa. Lisäksi se tarjoaa tekoälyjärjestelmiä koskevaa asiantuntijatukea tämän lain nojalla toimivaltaisille viranomaisille sekä perusoikeuksia suojeleville viranomaisille. Keskitetty yhteyspiste vastaa tekoälyasetuksen 99 artiklan 11 kohdassa tarkoitetusta raportointivelvoitteesta Euroopan komissiolle yhteistyössä muiden markkinavalvontaviranomaisten kanssa. Keskitetyllä yhteyspisteellä on oikeus salassapitosäännösten estämättä ja maksutta saada 2 ja 3 momentin mukaisten tehtäviensä hoitamiseksi välttämättömät tiedot markkinavalvontaviranomaisilta ja tekoälyjärjestelmien valvonnan seuraamusmaksulautakunnalta. Keskitetyllä yhteyspisteellä on oikeus salassapitosäännösten estämättä luovuttaa yhteyspisteen tehtävien hoitamisen kannalta välttämättömiä tietoja Euroopan komissiolle.",
+      "section_number": "6",
+      "chapter_number": 2,
+      "statute_id": "300/2008"
+    },
+    {
+      "id": "0d3e2a08-2b76-4fb8-919a-4a16bc964100",
+      "node_type": "Section",
+      "publisher": "finlex",
+      "title": "7 § Euroopan keskuspankille ilmoittava viranomainen",
+      "text": "Finanssivalvonta on tekoälyasetuksen 74 artiklan 7 kohdan toisessa alakohdassa tarkoitettu ja siinä tarkoitetut tiedot Euroopan keskuspankille ilmoittava viranomainen.",
+      "section_number": "7",
+      "chapter_number": 2,
+      "statute_id": "300/2008"
+    },
+    {
+      "id": "5c69dbb2-92b5-4203-910b-056e6d33cdf2",
+      "node_type": "Section",
+      "publisher": "finlex",
+      "title": "8 § Ilmoittamisesta vastaavat viranomaiset",
+      "text": "Tekoälyasetuksen 28 artiklan 1 kohdassa tarkoitettuja ilmoittamisesta vastaavia viranomaisia ovat:",
+      "section_number": "8",
+      "chapter_number": 3,
+      "statute_id": "300/2008"
+    },
+    {
+      "id": "8ff3c21d-577a-46c0-a4ed-aa5dd391c0a7",
+      "node_type": "Section",
+      "publisher": "finlex",
+      "title": "9 § Ilmoitetun laitoksen nimeäminen",
+      "text": "Edellä 8 §:ssä tarkoitettu toimivaltainen ilmoittamisesta vastaava viranomainen nimeää vaatimustenmukaisuuden arviointilaitoksen ilmoitetuksi laitokseksi. Ilmoittamista koskevasta hakemisesta ja nimeämisen edellytyksistä säädetään tekoälyasetuksen 29–31 artiklassa. Turvallisuus- ja kemikaaliviraston akkreditointiyksikön akkreditointipalvelu antaa akkreditointitodistuksen siitä, että vaatimustenmukaisuuden arviointilaitos täyttää tekoälyasetuksen 31 artiklassa säädetyt vaatimukset.",
+      "section_number": "9",
+      "chapter_number": 3,
+      "statute_id": "300/2008"
+    },
+    {
+      "id": "c6c6e4dd-094f-4e21-9108-e936aec4d95f",
+      "node_type": "Section",
+      "publisher": "finlex",
+      "title": "10 § Ilmoitettujen laitosten ja alihankkijoiden tai muiden tahojen julkiset hallintotehtävät",
+      "text": "Ilmoitettujen laitosten julkisista hallintotehtävistä säädetään tekoälyasetuksen 34, 44 ja 45 artiklassa. Ilmoitetut laitokset voivat siirtää tiettyjä vaatimustenmukaisuuden arviointiin liittyviä julkisia hallintotehtäviä alihankkijoille tekoälyasetuksen 33 artiklan mukaisesti. Ilmoitetun laitoksen tai sen käyttämän alihankkijan palveluksessa olevaan henkilöön sovelletaan rikosoikeudellista virkavastuuta koskevia säännöksiä hänen suorittaessaan 1 momentissa tarkoitettuja tehtäviä. Vahingonkorvausvastuusta säädetään vahingonkorvauslaissa (412/1974). Mitä edellä säädetään ilmoitetun laitoksen käyttämästä alihankkijasta, sovelletaan myös ilmoitettuna laitoksena toimivan tietosuojavaltuutetun käyttämään muuhun tahoon kuin viranomaiseen, jolle tietosuojavaltuutettu on siirtänyt tiettyjä vaatimustenmukaisuuden arviointiin liittyviä tehtäviä.",
+      "section_number": "10",
+      "chapter_number": 3,
+      "statute_id": "300/2008"
+    },
+    {
+      "id": "696e4667-e2d1-4b5d-a5cf-da1a1c4e99eb",
+      "node_type": "Section",
+      "publisher": "finlex",
+      "title": "11 § Ilmoitettu laitos eräiden suuririskisten tekoälyjärjestelmien osalta",
+      "text": "Tietosuojavaltuutettu toimii ilmoitettuna laitoksena, jos lainvalvonta-, maahanmuutto- tai turvapaikkaviranomaisten on tarkoitus ottaa käyttöön tekoälyasetuksen liitteen III kohdassa 1 tarkoitettu suuririskinen tekoälyjärjestelmä. Edellä 9 §:n 1 momentissa ja 10 §:n 2 momentissa säädettyä ei sovelleta tietosuojavaltuutettuun sen toimiessa ilmoitettuna laitoksena.",
+      "section_number": "11",
+      "chapter_number": 3,
+      "statute_id": "300/2008"
+    },
+    {
+      "id": "6501481d-3bac-4800-810c-fd8bc584c37e",
+      "node_type": "Section",
+      "publisher": "finlex",
+      "title": "12 § Valvonnan toimivaltuudet",
+      "text": "Markkinavalvontaviranomaisten valvonnan toimivaltuuksista säädetään markkinavalvontalain 3 luvussa sekä tekoälyasetuksen liitteen I jaksossa A luetellun unionin yhdenmukaistamislainsäädännön nojalla annetussa kansallisessa lainsäädännössä. Toimivaltuuksia sovelletaan tekoälyasetuksen 3 artiklan 8 kohdassa tarkoitettuihin toimijoihin.",
+      "section_number": "12",
+      "chapter_number": 4,
+      "statute_id": "300/2008"
+    },
+    {
+      "id": "cbb329ab-5277-463a-a2bf-c5b5609342bc",
+      "node_type": "Section",
+      "publisher": "finlex",
+      "title": "13 § Tekoälyjärjestelmien valvonnan seuraamusmaksulautakunta",
+      "text": "Liikenne- ja viestintäviraston yhteydessä toimii tekoälyjärjestelmien valvonnan seuraamusmaksulautakunta (seuraamusmaksulautakunta), jonka tehtävänä on määrätä tämän lain mukainen seuraamusmaksu toimivaltaisen markkinavalvontaviranomaisen esityksestä. Seuraamusmaksulautakunta voi määrätä seuraamusmaksun esityksen mukaisesti, määrätä sen esitettyä pienempänä tai suurempana tai jättää sen määräämättä. Seuraamusmaksulautakuntaan nimeävät: Seuraamusmaksulautakunnan jäsenten ja varajäsenten tulee olla virkamiehiä. Lautakunnan jäseneltä ja varajäseneltä edellytetään perehtyneisyyttä tekoälyjärjestelmiin, niihin liittyvään lainsäädäntöön sekä niiden valvontaan nimeävän viranomaisen toimialalla. Lautakunnan puheenjohtajalla ja varapuheenjohtajalla on lisäksi oltava tehtävän edellyttämä riittävä oikeudellinen asiantuntemus. Lautakunnan jäsenet nimetään kolmen vuoden määräajaksi. Lautakunnan jäsen ja varajäsen toimivat tehtävässään riippumattomasti ja puolueettomasti. Seuraamusmaksulautakunta on päätösvaltainen, kun paikalla on: Seuraamusmaksulautakunnan päätös tehdään esittelystä. Päätökseksi tulee se kanta, jota enemmistö on kannattanut. Äänten mennessä tasan päätökseksi tulee se kanta, joka on lievempi sille, johon seuraamus kohdistuu. Seuraamusmaksulautakunnalla on oikeus salassapitosäännösten estämättä saada maksutta markkinavalvontaviranomaiselta, ilmoittamisesta vastaavalta viranomaiselta ja ilmoitetulta laitokselta tiedot, jotka ovat välttämättömiä seuraamusmaksun määräämiseksi tai sen määrän arvioimiseksi.",
+      "section_number": "13",
+      "chapter_number": 4,
+      "statute_id": "300/2008"
+    },
+    {
+      "id": "b9cd817a-a084-43f0-a756-82eca4f8ca5e",
+      "node_type": "Section",
+      "publisher": "finlex",
+      "title": "14 § Tarjoajan seuraamusmaksu",
+      "text": "Seuraamusmaksulautakunta voi määrätä hallinnollisen seuraamusmaksun suuririskisen tekoälyjärjestelmän tarjoajalle, joka tahallaan tai huolimattomuudesta rikkoo tai laiminlyö tekoälyasetuksen 16 artiklan mukaisen velvollisuutensa saattamalla markkinoille suuririskisen tekoälyjärjestelmän: Lisäksi seuraamusmaksulautakunta voi määrätä hallinnollisen seuraamusmaksun suuririskisen tekoälyjärjestelmän tarjoajalle, joka tahallaan tai huolimattomuudesta rikkoo tai laiminlyö tekoälyasetuksen 16 artiklan mukaisen velvollisuutensa:",
+      "section_number": "14",
+      "chapter_number": 4,
+      "statute_id": "300/2008"
+    },
+    {
+      "id": "6bc802f9-1f6b-4ef1-ab8e-6e032ad8d6c7",
+      "node_type": "Section",
+      "publisher": "finlex",
+      "title": "15 § Valtuutetun edustajan seuraamusmaksu",
+      "text": "Seuraamusmaksulautakunta voi määrätä hallinnollisen seuraamusmaksun suuririskisen tekoälyjärjestelmän tarjoajan valtuutetulle edustajalle, joka tahallaan tai huolimattomuudesta rikkoo tai laiminlyö tekoälyasetuksen 22 artiklan mukaisen velvollisuutensa:",
+      "section_number": "15",
+      "chapter_number": 4,
+      "statute_id": "300/2008"
+    },
+    {
+      "id": "79f2fb7e-29ff-47ae-ae22-baa4dc04512d",
+      "node_type": "Section",
+      "publisher": "finlex",
+      "title": "16 § Maahantuojan seuraamusmaksu",
+      "text": "Seuraamusmaksulautakunta voi määrätä hallinnollisen seuraamusmaksun suuririskisen tekoälyjärjestelmän maahantuojalle, joka tahallaan tai huolimattomuudesta rikkoo tai laiminlyö tekoälyasetuksen 23 artiklan mukaisen velvollisuutensa:",
+      "section_number": "16",
+      "chapter_number": 4,
+      "statute_id": "300/2008"
+    },
+    {
+      "id": "bd609cb5-e17b-41cd-b581-4f71130e0b86",
+      "node_type": "Section",
+      "publisher": "finlex",
+      "title": "17 § Jakelijan seuraamusmaksu",
+      "text": "Seuraamusmaksulautakunta voi määrätä hallinnollisen seuraamusmaksun suuririskisen tekoälyjärjestelmän jakelijalle, joka tahallaan tai huolimattomuudesta rikkoo tai laiminlyö tekoälyasetuksen 24 artiklan mukaisen velvollisuutensa:",
+      "section_number": "17",
+      "chapter_number": 4,
+      "statute_id": "300/2008"
+    },
+    {
+      "id": "ba0d1d42-6e84-47ef-8e63-fd1f68f46a72",
+      "node_type": "Section",
+      "publisher": "finlex",
+      "title": "18 § Käyttöönottajan seuraamusmaksu",
+      "text": "Seuraamusmaksulautakunta voi määrätä hallinnollisen seuraamusmaksun suuririskisen tekoälyjärjestelmän käyttöönottajalle, joka tahallaan tai huolimattomuudesta rikkoo tai laiminlyö tekoälyasetuksen 26 artiklan mukaisen velvollisuutensa:",
+      "section_number": "18",
+      "chapter_number": 4,
+      "statute_id": "300/2008"
+    },
+    {
+      "id": "9215526c-9fc9-417d-abf2-de1f7de72244",
+      "node_type": "Section",
+      "publisher": "finlex",
+      "title": "19 § Ilmoitetun laitoksen seuraamusmaksu",
+      "text": "Seuraamusmaksulautakunta voi määrätä hallinnollisen seuraamusmaksun ilmoitetulle laitokselle, joka tahallaan tai huolimattomuudesta:",
+      "section_number": "19",
+      "chapter_number": 4,
+      "statute_id": "300/2008"
+    },
+    {
+      "id": "fb2572d0-df5d-4f58-8d92-1d55668671e6",
+      "node_type": "Section",
+      "publisher": "finlex",
+      "title": "20 § Virheellisten, puutteellisten tai harhaanjohtavien tietojen antaminen",
+      "text": "Seuraamusmaksulautakunta voi määrätä hallinnollisen seuraamusmaksun toimijalle, joka tahallaan tai huolimattomuudesta toimittaa virheellisiä, puutteellisia tai harhaanjohtavia tietoja vastauksena ilmoitetun laitoksen tai markkinavalvontaviranomaisen tekemään pyyntöön. Seuraamusmaksulautakunta voi määrätä seuraamusmaksun ilmoitetulle laitokselle, joka tahallaan tai huolimattomuudesta toimittaa virheellisiä, puutteellisia tai harhaanjohtavia tietoja vastauksena markkinavalvontaviranomaisen tai ilmoittamisesta vastaavan viranomaisen tekemään pyyntöön. Seuraamusmaksua ei saa määrätä luonnolliselle henkilölle tämän pykälän nojalla, jos henkilöä on aihetta epäillä rikoksesta ja tiedot liittyvät rikosepäilyn kohteena olevaan asiaan.",
+      "section_number": "20",
+      "chapter_number": 4,
+      "statute_id": "300/2008"
+    },
+    {
+      "id": "212d7a5e-795a-43cc-b8e2-0e760497c99e",
+      "node_type": "Section",
+      "publisher": "finlex",
+      "title": "21 § Seuraamusmaksu kielletyn tekoälyyn liittyvän käytännön rikkomisesta tai laiminlyönnistä",
+      "text": "Seuraamusmaksulautakunta voi määrätä hallinnollisen seuraamusmaksun toimijalle, joka tahallaan tai huolimattomuudesta:",
+      "section_number": "21",
+      "chapter_number": 4,
+      "statute_id": "300/2008"
+    },
+    {
+      "id": "2492bf2d-737e-4938-a079-e46a7230e9e3",
+      "node_type": "Section",
+      "publisher": "finlex",
+      "title": "22 § Seuraamusmaksu avoimuusvelvoitteen rikkomisesta tai laiminlyönnistä",
+      "text": "Seuraamusmaksulautakunta voi määrätä hallinnollisen seuraamusmaksun tarjoajalle, joka tahallaan tai huolimattomuudesta rikkoo tai laiminlyö: Seuraamusmaksulautakunta voi määrätä hallinnollisen seuraamusmaksun käyttöönottajalle, joka tahallaan tai huolimattomuudesta rikkoo tai laiminlyö:",
+      "section_number": "22",
+      "chapter_number": 4,
+      "statute_id": "300/2008"
+    },
+    {
+      "id": "0bcfd6a9-0d2b-4727-85b8-abc5b8e0a3c3",
+      "node_type": "Section",
+      "publisher": "finlex",
+      "title": "23 § Seuraamusmaksun määrääminen ja enimmäismäärä",
+      "text": "Seuraamusmaksulautakunnan on hallinnollisesta seuraamusmaksusta ja sen määrästä päättäessään otettava kussakin yksittäisessä tapauksessa huomioon seuraamuksen oikeasuhtaisuus arvioitavana olevan teon rikkomisen ja sen seurausten vakavuuden, luonteen ja keston mukaan sekä muut tekoälyasetuksen 99 artiklan 7 kohdassa tarkoitetut seikat. Seuraamusmaksun enimmäismäärä on: Jos seuraamusmaksu määrätään mikroyritysten sekä pienten ja keskisuurten yritysten määritelmästä annetussa Euroopan komission suosituksessa (2003/361/EY) tarkoitetulle mikroyritykselle, pienelle yritykselle tai keskisuurelle yritykselle, enimmäismäärä on kuitenkin 2 momentissa tarkoitettu prosenttiosuus tai määrä sen mukaan, kumpi näistä määristä on pienempi.",
+      "section_number": "23",
+      "chapter_number": 4,
+      "statute_id": "300/2008"
+    },
+    {
+      "id": "dfce5157-c365-4c66-aeb3-5bfeac46250f",
+      "node_type": "Section",
+      "publisher": "finlex",
+      "title": "24 § Seuraamusmaksun määräämättä jättäminen",
+      "text": "Seuraamusmaksua ei määrätä, jos: Seuraamusmaksua ei voida määrätä sille, jota epäillään samasta teosta esitutkinnassa, syyteharkinnassa tai tuomioistuimessa vireillä olevassa rikosasiassa. Seuraamusmaksua ei voida määrätä myöskään sille, jolle on samasta teosta annettu lainvoimainen tuomio. Seuraamusmaksua ei voida määrätä valtion viranomaiselle, valtion liikelaitokselle, kunnalliselle viranomaiselle, kuntayhtymälle, hyvinvointialueelle, hyvinvointiyhtymälle, itsenäiselle julkisoikeudellisille laitokselle, tasavallan presidentin kanslialle eikä Suomen evankelis-luterilaiselle kirkolle ja Suomen ortodoksiselle kirkolle eikä niiden seurakunnille, seurakuntayhtymille ja muille elimille. Seuraamusmaksua ei saa määrätä, jos on kulunut yli viisi vuotta siitä, kun rikkomus tai laiminlyönti on tapahtunut. Jos rikkomus tai laiminlyönti on ollut luonteeltaan jatkuvaa, viiden vuoden määräaika lasketaan siitä, kun rikkomus tai laiminlyönti on päättynyt.",
+      "section_number": "24",
+      "chapter_number": 4,
+      "statute_id": "300/2008"
+    },
+    {
+      "id": "a0e322c6-58ea-4f49-af8d-c793602d04be",
+      "node_type": "Section",
+      "publisher": "finlex",
+      "title": "25 § Seuraamusmaksun täytäntöönpano",
+      "text": "Tämän lain nojalla määrätyn hallinnollisen seuraamusmaksun täytäntöönpanosta säädetään sakon täytäntöönpanosta annetussa laissa (672/2002).",
+      "section_number": "25",
+      "chapter_number": 4,
+      "statute_id": "300/2008"
+    },
+    {
+      "id": "39b7bfcd-0c13-481a-a888-3ecd4729a2a2",
+      "node_type": "Section",
+      "publisher": "finlex",
+      "title": "26 § Tarjoajan tai valtuutetun edustajan velvoite huolehtia asiakirjojen säilyttämisestä",
+      "text": "Tarjoajan tai Suomeen sijoittautuneen valtuutetun edustajan on varmistettava, että tekoälyasetuksen 18 artiklan 1 kohdassa tarkoitetut asiakirjat ovat markkinavalvontaviranomaisten ja ilmoittamisesta vastaavien viranomaisten saatavilla 10 vuoden ajan sen jälkeen, kun suuririskinen tekoälyjärjestelmä on saatettu markkinoille tai otettu käyttöön, huolimatta selvitys- tai konkurssimenettelystä tai muusta syystä johtuvasta liiketoiminnan lopettamisesta taikka siitä luopumisesta. Markkinavalvontaviranomaiset voivat antaa määräyksiä 1 momentissa tarkoitettujen asiakirjojen säilyttämisessä noudatettavista periaatteista ja menettelytavoista.",
+      "section_number": "26",
+      "chapter_number": 5,
+      "statute_id": "300/2008"
+    },
+    {
+      "id": "6ff28ccc-f7d1-4a00-b2d3-ae1d2a4463e5",
+      "node_type": "Section",
+      "publisher": "finlex",
+      "title": "27 § Uhkasakko ja teettämisuhka",
+      "text": "Markkinavalvontaviranomaisen toimivallasta tehostaa antamaansa kieltoa tai määräystä uhkasakolla tai uhalla, että tekemättä jätetty toimenpide teetetään laiminlyöjän kustannuksella, säädetään markkinavalvontalain 28 §:ssä. Uhkasakkoa ei kuitenkaan saa asettaa tekoälyasetuksen 21 artiklan 1 kohdassa, 22 artiklan 3 kohdan c alakohdassa, 23 artiklan 6 kohdassa ja 24 artiklan 5 kohdassa tarkoitetun tiedonantovelvollisuuden tehosteeksi luonnolliselle henkilölle, jota on aihetta epäillä rikoksesta ja tiedot liittyvät rikosepäilyn kohteena olevaan asiaan.",
+      "section_number": "27",
+      "chapter_number": 5,
+      "statute_id": "300/2008"
+    },
+    {
+      "id": "261dabab-6aa9-4b18-b058-f5ef7902a2b9",
+      "node_type": "Section",
+      "publisher": "finlex",
+      "title": "28 § Muutoksenhaku",
+      "text": "Ilmoitetun laitoksen päätökseen saa vaatia oikaisua. Oikaisuvaatimuksesta säädetään hallintolaissa (434/2003). Markkinavalvontalain mukaisen valvonnan toimenpidettä sekä markkinavalvontalain nojalla asetettua uhkasakkoa ja sen maksettavaksi tuomitsemista koskevien päätösten sekä teettämisuhan asettamista ja täytäntöönpantavaksi määräämistä koskevien päätösten muutoksenhausta säädetään markkinavalvontalain 29 §:ssä. Muutoksenhausta hallintotuomioistuimeen säädetään oikeudenkäynnistä hallintoasioissa annetussa laissa (808/2019).",
+      "section_number": "28",
+      "chapter_number": 5,
+      "statute_id": "300/2008"
+    },
+    {
+      "id": "6c19373c-ab2a-4420-9883-41dcd3842549",
+      "node_type": "Section",
+      "publisher": "finlex",
+      "title": "29 § Voimaantulo",
+      "text": "Tämä laki tulee voimaan 1 päivänä tammikuuta 2026. Lain 21 §:ää ei sovelleta kielletyn tekoälyyn liittyvän käytännön rikkomiseen tai laiminlyöntiin, joka on tapahtunut ennen lain voimaantuloa.",
+      "section_number": "29",
+      "chapter_number": 5,
+      "statute_id": "300/2008"
+    }
+  ],
+  "clauses": [
+    {
+      "id": "a6a1de2e-0dfd-460a-87d4-d1d8c6014ee8",
+      "node_type": "Clause",
+      "publisher": "finlex",
+      "title": "§ 3 mom 1",
+      "text": "1) Turvallisuus- ja kemikaalivirasto tekoälyasetuksen liitteen I jakson A kohdissa 4, 5, 7 ja 10 mainittujen säädösten osalta, kohdissa 1 ja 9 mainittujen säädösten osalta, jos kyse on kuluttajien käyttöön tarkoitetuista tuotteista, sekä tekoälyasetuksen liitteen I jakson A kohdassa 2 mainitun säädöksen osalta lukuun ottamatta tämän momentin 2 kohdassa Tullin valvonnan alaan säädettyä;",
+      "clause_number": 1,
+      "section_number": "3",
+      "statute_id": "300/2008"
+    },
+    {
+      "id": "5204d1a3-6bf6-412c-aafd-42b757aa8896",
+      "node_type": "Clause",
+      "publisher": "finlex",
+      "title": "§ 3 mom 2",
+      "text": "2) Tulli tekoälyasetuksen liitteen I jakson A kohdassa 2 mainitun säädöksen osalta markkinavalvontalain 4 §:n 2 momentin ja lelujen turvallisuudesta annetun lain (1154/2011) 56 §:n 2 momentin mukaisesti;",
+      "clause_number": 2,
+      "section_number": "3",
+      "statute_id": "300/2008"
+    },
+    {
+      "id": "ff060715-7b01-4be8-85c2-7e8f9867748b",
+      "node_type": "Clause",
+      "publisher": "finlex",
+      "title": "§ 3 mom 2",
+      "text": "2) Tulli tekoälyasetuksen liitteen I jakson A kohdassa 2 mainitun säädöksen osalta markkinavalvontalain 4 §:n 2 momentin ja lelujen turvallisuudesta annetun lain (1154/2011) 56 §:n 2 momentin mukaisesti;",
+      "clause_number": 2,
+      "section_number": "3",
+      "statute_id": "300/2008"
+    },
+    {
+      "id": "195edc58-dad5-41e3-965e-66c39c4f61dd",
+      "node_type": "Clause",
+      "publisher": "finlex",
+      "title": "§ 3 mom 3",
+      "text": "3) Liikenne- ja viestintävirasto tekoälyasetuksen liitteen I jakson A kohdissa 3 ja 6 mainittujen säädösten osalta;",
+      "clause_number": 3,
+      "section_number": "3",
+      "statute_id": "300/2008"
+    },
+    {
+      "id": "99f0247b-8a8c-4170-8683-f331e7ece778",
+      "node_type": "Clause",
+      "publisher": "finlex",
+      "title": "§ 3 mom 4",
+      "text": "4) Lupa- ja valvontavirasto työsuojeluviranomaisena tekoälyasetuksen liitteen I jakson A kohdassa 8 mainitun säädöksen osalta sekä kohdissa 1 ja 9 mainittujen säädösten osalta, jos kyse on työsuojelun valvonnan alaan kuuluvista tuotteista työsuojelun valvonnasta ja työpaikan työsuojeluyhteistoiminnasta annetun lain (44/2006) sekä eräiden teknisten laitteiden vaatimustenmukaisuudesta annetun lain (1016/2004) nojalla; ja",
+      "clause_number": 4,
+      "section_number": "3",
+      "statute_id": "300/2008"
+    },
+    {
+      "id": "b9bb4764-f9bb-4afc-ac9b-3a665a2bec5e",
+      "node_type": "Clause",
+      "publisher": "finlex",
+      "title": "§ 3 mom 5",
+      "text": "5) Lääkealan turvallisuus- ja kehittämiskeskus tekoälyasetuksen liitteen I jakson A kohdissa 11 ja 12 mainittujen säädösten osalta.",
+      "clause_number": 5,
+      "section_number": "3",
+      "statute_id": "300/2008"
+    },
+    {
+      "id": "5153e441-1399-4ee1-ba37-e18f2df11b96",
+      "node_type": "Clause",
+      "publisher": "finlex",
+      "title": "§ 3 mom 1",
+      "text": "1) Energiavirasto mainitun liitteen 2 kohdassa tarkoitetun kriittisen infrastruktuurin osalta, jos tekoälyjärjestelmä on tarkoitettu käytettäväksi turvakomponenttina lämmitys- tai sähköhuollon hallinnassa ja toiminnassa taikka kaasuhuollon hallinnassa ja toiminnassa jakeluverkonhaltijoiden ja siirtoverkonhaltijoiden osalta;",
+      "clause_number": 1,
+      "section_number": "3",
+      "statute_id": "300/2008"
+    },
+    {
+      "id": "d98c5d51-3e7b-454c-88b3-33ac99ce3c8b",
+      "node_type": "Clause",
+      "publisher": "finlex",
+      "title": "§ 3 mom 2",
+      "text": "2) Turvallisuus- ja kemikaalivirasto mainitun liitteen 2 kohdassa tarkoitetun kriittisen infrastruktuurin osalta, jos tekoälyjärjestelmä on tarkoitettu käytettäväksi turvakomponenttina energiatoimialan kaasualaa koskevan alasektorin hallinnassa ja toiminnassa, lukuun ottamatta tämän momentin 1 kohdassa Energiaviraston valvonnan alaan säädettyjä tekoälyjärjestelmiä tai, jos tekoälyjärjestelmä on tarkoitettu käytettäväksi turvakomponenttina vesihuollon hallinnassa ja toiminnassa;",
+      "clause_number": 2,
+      "section_number": "3",
+      "statute_id": "300/2008"
+    },
+    {
+      "id": "e42481b3-7681-4e81-a89a-d308d0e62f89",
+      "node_type": "Clause",
+      "publisher": "finlex",
+      "title": "§ 3 mom 3",
+      "text": "3) Liikenne- ja viestintävirasto mainitun liitteen 2 kohdassa tarkoitetun kriittisen infrastruktuurin osalta, jos tekoälyjärjestelmä on tarkoitettu käytettäväksi turvakomponenttina tieliikenteen tai kriittisen digitaalisen infrastruktuurin hallinnassa ja toiminnassa;",
+      "clause_number": 3,
+      "section_number": "3",
+      "statute_id": "300/2008"
+    },
+    {
+      "id": "550b38c8-66fd-48f8-b7a6-857ada3c13e6",
+      "node_type": "Clause",
+      "publisher": "finlex",
+      "title": "§ 3 mom 4",
+      "text": "4) tietosuojavaltuutettu, jos tekoälyjärjestelmä on tarkoitettu käytettäväksi mainitun liitteen 1, 3, 4 tai 6–8 kohdassa tarkoitetuilla aloilla sekä 5 kohdan b alakohdan mukaisissa käyttötapauksissa lukuun ottamatta tämän momentin 6 kohdan mukaisia Finanssivalvonnan valvonnan alaan kuuluvia mainitun liitteen 5 kohdan b alakohdan mukaisia käyttötapauksia;",
+      "clause_number": 4,
+      "section_number": "3",
+      "statute_id": "300/2008"
+    },
+    {
+      "id": "eeebcf8f-9997-433b-8ded-c98214e606d5",
+      "node_type": "Clause",
+      "publisher": "finlex",
+      "title": "§ 3 mom 5",
+      "text": "5) Lupa- ja valvontavirasto, jos tekoälyjärjestelmä on tarkoitettu käytettäväksi mainitun liitteen 5 kohdan a ja d alakohdan mukaisissa käyttötapauksissa, lukuun ottamatta tämän momentin 6 kohdassa Finanssivalvonnan valvonnan alaan säädettyjä mainitun liitteen 5 kohdan a alakohdan mukaisia käyttötapauksia;",
+      "clause_number": 5,
+      "section_number": "3",
+      "statute_id": "300/2008"
+    },
+    {
+      "id": "44461b68-ad40-4f13-8ae0-8aa5a84c8a1f",
+      "node_type": "Clause",
+      "publisher": "finlex",
+      "title": "§ 3 mom 6",
+      "text": "6) Finanssivalvonta, jos:",
+      "clause_number": 6,
+      "section_number": "3",
+      "statute_id": "300/2008"
+    },
+    {
+      "id": "b03c62d8-2e0e-4979-b6a0-cc2302250129",
+      "node_type": "Clause",
+      "publisher": "finlex",
+      "title": "§ 8 mom 1",
+      "text": "1) työ- ja elinkeinoministeriö, jos vaatimustenmukaisuuden arviointilaitos hakee ilmoitetuksi laitokseksi, jonka arvioitavat tekoälyjärjestelmät kuuluvat turvakomponenttina tekoälyasetuksen liitteen I jakson A kohdissa 2, 4, 5, 7 tai 10 mainituissa säädöksissä tarkoitettuun tuotteeseen, tekoälyjärjestelmät ovat itse kyseisiä tuotteita tai tekoälyjärjestelmät ovat tekoälyasetuksen liitteen III kohdassa 1 tarkoitettuja suuririskisiä tekoälyjärjestelmiä;",
+      "clause_number": 1,
+      "section_number": "8",
+      "statute_id": "300/2008"
+    },
+    {
+      "id": "0819d38f-6f07-4485-9b79-dee0c8fdc93f",
+      "node_type": "Clause",
+      "publisher": "finlex",
+      "title": "§ 8 mom 2",
+      "text": "2) Liikenne- ja viestintävirasto, jos vaatimustenmukaisuuden arviointilaitos hakee ilmoitetuksi laitokseksi, jonka arvioitavat tekoälyjärjestelmät kuuluvat turvakomponentteina tekoälyasetuksen liitteen I jakson A kohdissa 3 tai 6 mainitussa säädöksessä tarkoitettuihin tuotteisiin tai tekoälyjärjestelmät ovat itse kyseisiä tuotteita;",
+      "clause_number": 2,
+      "section_number": "8",
+      "statute_id": "300/2008"
+    },
+    {
+      "id": "c759e2d5-6d77-4a5b-b147-907b72df38b1",
+      "node_type": "Clause",
+      "publisher": "finlex",
+      "title": "§ 8 mom 3",
+      "text": "3) Lääkealan turvallisuus- ja kehittämiskeskus, jos vaatimustenmukaisuuden arviointilaitos hakee ilmoitetuksi laitokseksi, jonka arvioitavat tekoälyjärjestelmät kuuluvat turvakomponentteina tekoälyasetuksen liitteen I jakson A kohdissa 11 tai 12 mainitussa säädöksessä tarkoitettuihin tuotteisiin tai tekoälyjärjestelmät ovat itse kyseisiä tuotteita;",
+      "clause_number": 3,
+      "section_number": "8",
+      "statute_id": "300/2008"
+    },
+    {
+      "id": "ab6c5ac5-bc33-4ac1-ae10-0624cba34f4c",
+      "node_type": "Clause",
+      "publisher": "finlex",
+      "title": "§ 8 mom 4",
+      "text": "4) sosiaali- ja terveysministeriö, jos vaatimustenmukaisuuden arviointilaitos hakee ilmoitetuksi laitokseksi, jonka arvioitavat tekoälyjärjestelmät kuuluvat turvakomponentteina tekoälyasetuksen liitteen I jakson A kohdissa 1, 8 tai 9 mainitussa säädöksessä tarkoitettuihin tuotteisiin tai tekoälyjärjestelmät ovat itse kyseisiä tuotteita.",
+      "clause_number": 4,
+      "section_number": "8",
+      "statute_id": "300/2008"
+    },
+    {
+      "id": "1d99ace1-e2a0-4856-8138-0d423bb819bf",
+      "node_type": "Clause",
+      "publisher": "finlex",
+      "title": "§ 13 mom 1",
+      "text": "1) Liikenne- ja viestintävirasto jäsenen, joka toimii puheenjohtajana, ja varajäsenen;",
+      "clause_number": 1,
+      "section_number": "13",
+      "statute_id": "300/2008"
+    },
+    {
+      "id": "6e8e9c06-2a92-49c9-aa73-a63abd389421",
+      "node_type": "Clause",
+      "publisher": "finlex",
+      "title": "§ 13 mom 2",
+      "text": "2) tietosuojavaltuutettu jäsenen, joka toimii varapuheenjohtajana, ja varajäsenen;",
+      "clause_number": 2,
+      "section_number": "13",
+      "statute_id": "300/2008"
+    },
+    {
+      "id": "1e0dfbae-5324-4590-a380-9ebff0449341",
+      "node_type": "Clause",
+      "publisher": "finlex",
+      "title": "§ 13 mom 3",
+      "text": "3) Lupa- ja valvontavirasto kolme jäsentä ja kolme varajäsentä;",
+      "clause_number": 3,
+      "section_number": "13",
+      "statute_id": "300/2008"
+    },
+    {
+      "id": "69a88afb-2db0-4753-8c45-ae9895a2fd0d",
+      "node_type": "Clause",
+      "publisher": "finlex",
+      "title": "§ 13 mom 4",
+      "text": "4) muut kuin 1–3 kohdassa tarkoitetut markkinavalvontaviranomaiset Tullia lukuun ottamatta jäsenen ja varajäsenen.",
+      "clause_number": 4,
+      "section_number": "13",
+      "statute_id": "300/2008"
+    },
+    {
+      "id": "b9a4a377-471f-4a80-9f9a-2da4947c9449",
+      "node_type": "Clause",
+      "publisher": "finlex",
+      "title": "§ 13 mom 1",
+      "text": "1) puheenjohtaja tai varapuheenjohtaja;",
+      "clause_number": 1,
+      "section_number": "13",
+      "statute_id": "300/2008"
+    },
+    {
+      "id": "43bd1e08-3e95-4abb-aad2-6d9f7837dca6",
+      "node_type": "Clause",
+      "publisher": "finlex",
+      "title": "§ 13 mom 2",
+      "text": "2) markkinavalvontaviranomaisen, joka seuraamusmaksun määräämistä on esittänyt, nimeämä jäsen tai varajäsen, jollei seuraamusmaksua esitetä määrättäväksi ilmoitetulle laitokselle; jos seuraamusmaksun määräämistä on esittänyt työsuojeluviranomainen, paikalla on sen sijaan oltava työsuojeluviranomaisia edustava jäsen tai varajäsen; sekä",
+      "clause_number": 2,
+      "section_number": "13",
+      "statute_id": "300/2008"
+    },
+    {
+      "id": "f3da9e29-9994-4a28-8e99-b8eda9db722b",
+      "node_type": "Clause",
+      "publisher": "finlex",
+      "title": "§ 13 mom 3",
+      "text": "3) vähintään puolet muista kuin 1 tai 2 kohdassa tarkoitetuista jäsenistä tai varajäsenistä.",
+      "clause_number": 3,
+      "section_number": "13",
+      "statute_id": "300/2008"
+    },
+    {
+      "id": "dfcf3865-c470-49c3-86ed-fbc27ae3973e",
+      "node_type": "Clause",
+      "publisher": "finlex",
+      "title": "§ 14 mom 1",
+      "text": "1) joka ei sisällä tekoälyasetuksen 9 artiklassa tarkoitettua riskinhallintajärjestelmää;",
+      "clause_number": 1,
+      "section_number": "14",
+      "statute_id": "300/2008"
+    },
+    {
+      "id": "35a83231-088b-45b4-bc03-86f7dbbaf002",
+      "node_type": "Clause",
+      "publisher": "finlex",
+      "title": "§ 14 mom 2",
+      "text": "2) jota ei ole testattu tekoälyasetuksen 9 artiklan 6 tai 8 kohdan mukaisesti;",
+      "clause_number": 2,
+      "section_number": "14",
+      "statute_id": "300/2008"
+    },
+    {
+      "id": "278f6485-aa44-4d09-b8c0-54aa01ec7fad",
+      "node_type": "Clause",
+      "publisher": "finlex",
+      "title": "§ 14 mom 3",
+      "text": "3) jonka dokumentaatiota ei ole laadittu tekoälyasetuksen 11 artiklan mukaisesti;",
+      "clause_number": 3,
+      "section_number": "14",
+      "statute_id": "300/2008"
+    },
+    {
+      "id": "e47e523f-d04f-4923-9f6f-f78c56d0ed23",
+      "node_type": "Clause",
+      "publisher": "finlex",
+      "title": "§ 14 mom 4",
+      "text": "4) jossa tapahtumien automaattinen tallentaminen ei ole mahdollista tekoälyasetuksen 12 artiklan mukaisella tavalla;",
+      "clause_number": 4,
+      "section_number": "14",
+      "statute_id": "300/2008"
+    },
+    {
+      "id": "6de83e86-4ebb-4ccf-85b8-dfe0a08d3f21",
+      "node_type": "Clause",
+      "publisher": "finlex",
+      "title": "§ 14 mom 5",
+      "text": "5) jonka mukana ei ole tekoälyasetuksen 13 artiklassa tarkoitettuja käyttöohjeita, tai käyttöohjeissa ei ole mainitun artiklan 3 kohdan mukaisia tietoja;",
+      "clause_number": 5,
+      "section_number": "14",
+      "statute_id": "300/2008"
+    },
+    {
+      "id": "fa1da5cb-38a9-43d6-8af9-60cb51b8e675",
+      "node_type": "Clause",
+      "publisher": "finlex",
+      "title": "§ 14 mom 6",
+      "text": "6) jossa ihmisen suorittama valvonta ei ole mahdollista tekoälyasetuksen 14 artiklan mukaisesti.",
+      "clause_number": 6,
+      "section_number": "14",
+      "statute_id": "300/2008"
+    },
+    {
+      "id": "e9699399-6e48-4d80-8d37-c712bf5e6fd6",
+      "node_type": "Clause",
+      "publisher": "finlex",
+      "title": "§ 14 mom 1",
+      "text": "1) käsitellä suuririskisen tekoälyjärjestelmän kouluttamisen tai testaamisen yhteydessä erityisiä henkilötietoryhmiä tekoälyasetuksen 10 artiklan 5 kohdan mukaisesti;",
+      "clause_number": 1,
+      "section_number": "14",
+      "statute_id": "300/2008"
+    },
+    {
+      "id": "c560ac79-09aa-4d76-8ed9-1eaffd9c222d",
+      "node_type": "Clause",
+      "publisher": "finlex",
+      "title": "§ 14 mom 2",
+      "text": "2) käyttää tekoälyasetuksen 17 artiklassa tarkoitettua laadunhallintajärjestelmää;",
+      "clause_number": 2,
+      "section_number": "14",
+      "statute_id": "300/2008"
+    },
+    {
+      "id": "fa87d19a-1be3-4499-a758-55ba1a0aba20",
+      "node_type": "Clause",
+      "publisher": "finlex",
+      "title": "§ 14 mom 3",
+      "text": "3) säilyttää tekoälyasetuksen 18 artiklassa tarkoitettua dokumentaatiota;",
+      "clause_number": 3,
+      "section_number": "14",
+      "statute_id": "300/2008"
+    },
+    {
+      "id": "681da593-f413-4acc-86f5-779f4563654f",
+      "node_type": "Clause",
+      "publisher": "finlex",
+      "title": "§ 14 mom 4",
+      "text": "4) säilyttää tekoälyasetuksen 19 artiklassa tarkoitetut lokitiedot;",
+      "clause_number": 4,
+      "section_number": "14",
+      "statute_id": "300/2008"
+    },
+    {
+      "id": "7cf0c07e-a5eb-4745-a638-adeab3c931f6",
+      "node_type": "Clause",
+      "publisher": "finlex",
+      "title": "§ 14 mom 5",
+      "text": "5) tehdä tekoälyasetuksen 20 artiklan mukainen ilmoitus;",
+      "clause_number": 5,
+      "section_number": "14",
+      "statute_id": "300/2008"
+    },
+    {
+      "id": "7635353a-8243-4b5f-bac9-d00bb95d1316",
+      "node_type": "Clause",
+      "publisher": "finlex",
+      "title": "§ 14 mom 6",
+      "text": "6) toteuttaa välittömästi tekoälyasetuksen 20 artiklassa tarkoitetut korjaavat toimenpiteet järjestelmän saattamiseksi vaatimusten mukaiseksi, järjestelmän poistamiseksi markkinoilta tai käytöstä taikka palautusmenettelyn järjestämiseksi havaittuaan suuririskisen tekoälyjärjestelmänsä olevan tekoälyasetuksessa säädettyjen vaatimusten vastainen;",
+      "clause_number": 6,
+      "section_number": "14",
+      "statute_id": "300/2008"
+    },
+    {
+      "id": "06c74e48-663d-4176-bc2f-54918feeca08",
+      "node_type": "Clause",
+      "publisher": "finlex",
+      "title": "§ 14 mom 7",
+      "text": "7) varmistaa, että tekoälyjärjestelmälle on tehty tekoälyasetuksen 43 artiklan mukainen vaatimustenmukaisuuden arviointimenettely ennen sen markkinoille saattamista tai käyttöönottoa;",
+      "clause_number": 7,
+      "section_number": "14",
+      "statute_id": "300/2008"
+    },
+    {
+      "id": "0de30ca8-cc18-4219-b4a3-0913b1cd9067",
+      "node_type": "Clause",
+      "publisher": "finlex",
+      "title": "§ 14 mom 8",
+      "text": "8) laatia tekoälyasetuksen 47 artiklan mukainen EU-vaatimustenmukaisuusvakuutus;",
+      "clause_number": 8,
+      "section_number": "14",
+      "statute_id": "300/2008"
+    },
+    {
+      "id": "7e8a4a31-b2d5-4acc-9d11-0bbb528a3875",
+      "node_type": "Clause",
+      "publisher": "finlex",
+      "title": "§ 14 mom 9",
+      "text": "9) rekisteröidä tekoälyjärjestelmä tekoälyasetuksen 49 artiklan 1 kohdan mukaisesti;",
+      "clause_number": 9,
+      "section_number": "14",
+      "statute_id": "300/2008"
+    },
+    {
+      "id": "38a6110d-5176-434f-a7e8-e483f026d75c",
+      "node_type": "Clause",
+      "publisher": "finlex",
+      "title": "§ 14 mom 10",
+      "text": "10) toimittaa tekoälyasetuksen 21 artiklan 1 kohdan mukaisesti markkinavalvontaviranomaiselle sen perustellusta pyynnöstä kaikki tiedot, jotka ovat tarpeen sen osoittamiseksi, että suuririskinen tekoälyjärjestelmä on tekoälyasetuksessa säädettyjen vaatimusten mukainen, jollei kyse ole luonnollisesta henkilöstä, jota on aihetta epäillä rikoksesta ja tiedot liittyvät rikosepäilyn kohteena olevaan asiaan.",
+      "clause_number": 10,
+      "section_number": "14",
+      "statute_id": "300/2008"
+    },
+    {
+      "id": "6bc99c50-cbba-4cd9-868d-5b2bf410a13f",
+      "node_type": "Clause",
+      "publisher": "finlex",
+      "title": "§ 15 mom 1",
+      "text": "1) varmistaa, että tekoälyasetuksen 47 artiklassa tarkoitettu EU-vaatimustenmukaisuusvakuutus ja 11 artiklassa tarkoitettu tekninen dokumentaatio on laadittu;",
+      "clause_number": 1,
+      "section_number": "15",
+      "statute_id": "300/2008"
+    },
+    {
+      "id": "95befe85-ba13-4963-b314-b638441eaeeb",
+      "node_type": "Clause",
+      "publisher": "finlex",
+      "title": "§ 15 mom 2",
+      "text": "2) varmistaa, että tarjoaja on toteuttanut tekoälyasetuksen 43 artiklan mukaisen vaatimustenmukaisuuden arviointimenettelyn;",
+      "clause_number": 2,
+      "section_number": "15",
+      "statute_id": "300/2008"
+    },
+    {
+      "id": "d3b272c1-a15c-4ada-8241-c99d7a7ccd38",
+      "node_type": "Clause",
+      "publisher": "finlex",
+      "title": "§ 15 mom 3",
+      "text": "3) pitää markkinavalvontaviranomaisten saatavilla 10 vuoden ajan sen jälkeen, kun suuririskinen tekoälyjärjestelmä on saatettu markkinoille tai otettu käyttöön, tekoälyasetuksen 22 artiklan 3 kohdan c alakohdan mukainen dokumentaatio;",
+      "clause_number": 3,
+      "section_number": "15",
+      "statute_id": "300/2008"
+    },
+    {
+      "id": "55208f41-ac52-4957-b926-b8651723470f",
+      "node_type": "Clause",
+      "publisher": "finlex",
+      "title": "§ 15 mom 4",
+      "text": "4) toimittaa markkinavalvontaviranomaiselle sen perustellusta pyynnöstä kaikki tiedot, jotka ovat tarpeen sen osoittamiseksi, että tekoälyjärjestelmä on tekoälyasetuksessa säädettyjen vaatimusten mukainen, jollei kyse ole luonnollisesta henkilöstä, jota on aihetta epäillä rikoksesta ja tiedot liittyvät rikosepäilyn kohteena olevaan asiaan;",
+      "clause_number": 4,
+      "section_number": "15",
+      "statute_id": "300/2008"
+    },
+    {
+      "id": "f6fab1d0-676f-46c2-bb33-9bc51baf387d",
+      "node_type": "Clause",
+      "publisher": "finlex",
+      "title": "§ 15 mom 5",
+      "text": "5) rekisteröidä tekoälyjärjestelmä tekoälyasetuksen 49 artiklan 1 kohdan mukaisesti, tai jos tarjoaja tekee sen itse, varmistaa, että rekisteröinnin yhteydessä toimitetut tekoälyasetuksen liitteen VIII jakson A kohdan 3 mukaiset tiedot pitävät paikkansa.",
+      "clause_number": 5,
+      "section_number": "15",
+      "statute_id": "300/2008"
+    },
+    {
+      "id": "44bd5b5e-dc87-4bc3-9afc-fd06cd046621",
+      "node_type": "Clause",
+      "publisher": "finlex",
+      "title": "§ 16 mom 1",
+      "text": "1) varmistaa, että tarjoaja on toteuttanut tekoälyasetuksen 43 artiklan mukaisen vaatimustenmukaisuuden arviointimenettelyn;",
+      "clause_number": 1,
+      "section_number": "16",
+      "statute_id": "300/2008"
+    },
+    {
+      "id": "46279b89-f477-483f-abf7-9104077adbb7",
+      "node_type": "Clause",
+      "publisher": "finlex",
+      "title": "§ 16 mom 2",
+      "text": "2) varmistaa, että tekoälyasetuksen 11 artiklassa tekninen dokumentaatio on laadittu;",
+      "clause_number": 2,
+      "section_number": "16",
+      "statute_id": "300/2008"
+    },
+    {
+      "id": "35fb2510-6717-4300-a626-8479b3b59d31",
+      "node_type": "Clause",
+      "publisher": "finlex",
+      "title": "§ 16 mom 3",
+      "text": "3) varmistaa, että tekoälyjärjestelmällä on tekoälyasetuksen 47 artiklassa tarkoitettu EU-vaatimustenmukaisuusvakuutus ja CE-merkintä;",
+      "clause_number": 3,
+      "section_number": "16",
+      "statute_id": "300/2008"
+    },
+    {
+      "id": "154cc6fa-0ade-4cb5-a325-f34855ba6eac",
+      "node_type": "Clause",
+      "publisher": "finlex",
+      "title": "§ 16 mom 4",
+      "text": "4) varmistaa, että tekoälyjärjestelmän mukana on käyttöohjeet;",
+      "clause_number": 4,
+      "section_number": "16",
+      "statute_id": "300/2008"
+    },
+    {
+      "id": "8f20a8fe-a9b2-4b56-a256-0ab5b2b2a8a5",
+      "node_type": "Clause",
+      "publisher": "finlex",
+      "title": "§ 16 mom 5",
+      "text": "5) varmistaa, että kolmanteen maahan sijoittautunut tarjoaja on nimennyt valtuutetun edustajan tekoälyasetuksen 22 artiklan mukaisesti;",
+      "clause_number": 5,
+      "section_number": "16",
+      "statute_id": "300/2008"
+    },
+    {
+      "id": "662ca5b4-cba6-4a78-9eca-0a9f005998c8",
+      "node_type": "Clause",
+      "publisher": "finlex",
+      "title": "§ 16 mom 6",
+      "text": "6) olla saattamatta markkinoille tekoälyjärjestelmää, jos maahantuojalla on riittävät syyt katsoa, että suuririskinen tekoälyjärjestelmä ei ole tekoälyasetuksessa säädettyjen vaatimusten mukainen tai se on väärennetty tai sen mukana on väärennetty dokumentaatio;",
+      "clause_number": 6,
+      "section_number": "16",
+      "statute_id": "300/2008"
+    },
+    {
+      "id": "eff633c7-962c-4a0f-90db-18f85fed07e4",
+      "node_type": "Clause",
+      "publisher": "finlex",
+      "title": "§ 16 mom 7",
+      "text": "7) ilmoittaa tekoälyjärjestelmän tarjoajalle, valtuutetulle edustajalle sekä markkinavalvontaviranomaiselle, jos suuririskinen tekoälyjärjestelmä aiheuttaa tekoälyasetuksen 79 artiklan 1 kohdassa tarkoitetun riskin;",
+      "clause_number": 7,
+      "section_number": "16",
+      "statute_id": "300/2008"
+    },
+    {
+      "id": "60296695-8a6c-4795-bb1a-cfca54ea24c2",
+      "node_type": "Clause",
+      "publisher": "finlex",
+      "title": "§ 16 mom 8",
+      "text": "8) ilmoittaa nimensä, rekisteröidyn tuotenimensä tai rekisteröidyn tavaramerkkinsä sekä osoitteen, josta maahantuojaan voidaan saada yhteys, suuririskisessä tekoälyjärjestelmässä ja sen pakkauksessa tai sen mukana seuraavassa dokumentaatiossa;",
+      "clause_number": 8,
+      "section_number": "16",
+      "statute_id": "300/2008"
+    },
+    {
+      "id": "70415ebe-504e-457a-b58f-c9ad2ff9dd91",
+      "node_type": "Clause",
+      "publisher": "finlex",
+      "title": "§ 16 mom 9",
+      "text": "9) varmistaa, että sinä aikana, jona suuririskinen tekoälyjärjestelmä on maahantuojan vastuulla, varastointi- tai kuljetusolosuhteet eivät vaaranna järjestelmän vaatimustenmukaisuutta;",
+      "clause_number": 9,
+      "section_number": "16",
+      "statute_id": "300/2008"
+    },
+    {
+      "id": "437c4b2c-f076-4729-a76d-2fbaa4b39d4a",
+      "node_type": "Clause",
+      "publisher": "finlex",
+      "title": "§ 16 mom 10",
+      "text": "10) säilyttää 10 vuoden ajan sen jälkeen, kun suuririskinen tekoälyjärjestelmä on saatettu markkinoille tai otettu käyttöön, jäljennös 47 artiklassa tarkoitetusta EU-vaatimustenmukaisuusvakuutuksesta sekä jäljennös ilmoitetun laitoksen antamasta todistuksesta, jos sellainen on annettu;",
+      "clause_number": 10,
+      "section_number": "16",
+      "statute_id": "300/2008"
+    },
+    {
+      "id": "da1770e4-f66c-4ec7-802a-70715379ae70",
+      "node_type": "Clause",
+      "publisher": "finlex",
+      "title": "§ 16 mom 11",
+      "text": "11) toimittaa markkinavalvontaviranomaiselle sen perustellusta pyynnöstä kaikki tiedot, jotka ovat tarpeen sen osoittamiseksi, että tekoälyjärjestelmä on tekoälyasetuksessa säädettyjen vaatimusten mukainen, jollei kyse ole luonnollisesta henkilöstä, jota on aihetta epäillä rikoksesta ja tiedot liittyvät rikosepäilyn kohteena olevaan asiaan.",
+      "clause_number": 11,
+      "section_number": "16",
+      "statute_id": "300/2008"
+    },
+    {
+      "id": "3785ce03-9eab-4ea4-94db-6355495fd3a7",
+      "node_type": "Clause",
+      "publisher": "finlex",
+      "title": "§ 17 mom 1",
+      "text": "1) tarkastaa, että tekoälyjärjestelmällä on tekoälyasetuksen 47 artiklassa tarkoitettu EU-vaatimustenmukaisuusvakuutus ja CE-merkintä;",
+      "clause_number": 1,
+      "section_number": "17",
+      "statute_id": "300/2008"
+    },
+    {
+      "id": "f2e91064-8ed5-424b-9231-09de888ebf3f",
+      "node_type": "Clause",
+      "publisher": "finlex",
+      "title": "§ 17 mom 2",
+      "text": "2) tarkastaa, että tekoälyjärjestelmän mukana on käyttöohjeet;",
+      "clause_number": 2,
+      "section_number": "17",
+      "statute_id": "300/2008"
+    },
+    {
+      "id": "73e98ca9-2f67-4d30-84a9-4670fc4b8bbc",
+      "node_type": "Clause",
+      "publisher": "finlex",
+      "title": "§ 17 mom 3",
+      "text": "3) olla saattamatta markkinoille tekoälyjärjestelmää, jos jakelijalla on riittävät syyt katsoa, että suuririskinen tekoälyjärjestelmä ei ole tekoälyasetuksessa säädettyjen vaatimusten mukainen;",
+      "clause_number": 3,
+      "section_number": "17",
+      "statute_id": "300/2008"
+    },
+    {
+      "id": "74f7c305-60e9-4ac7-a9bb-dca7ee39bca4",
+      "node_type": "Clause",
+      "publisher": "finlex",
+      "title": "§ 17 mom 4",
+      "text": "4) varmistaa, että sinä aikana, jona suuririskinen tekoälyjärjestelmä on jakelijan vastuulla, varastointi- tai kuljetusolosuhteet eivät vaaranna järjestelmän vaatimustenmukaisuutta;",
+      "clause_number": 4,
+      "section_number": "17",
+      "statute_id": "300/2008"
+    },
+    {
+      "id": "91f0554e-842e-463f-84fd-2a7f03620874",
+      "node_type": "Clause",
+      "publisher": "finlex",
+      "title": "§ 17 mom 5",
+      "text": "5) ryhtyä tekoälyasetuksen 24 artiklan 4 kohdan mukaisiin toimenpiteisiin, jos sen markkinoille saataville asettama suuririskinen tekoälyjärjestelmä ei ole tekoälyasetuksessa säädettyjen vaatimusten mukainen tai se aiheuttaa tekoälyasetuksen 79 artiklan 1 kohdassa tarkoitetun riskin;",
+      "clause_number": 5,
+      "section_number": "17",
+      "statute_id": "300/2008"
+    },
+    {
+      "id": "cdcd3a25-b0c8-410d-82d0-761ca04c872e",
+      "node_type": "Clause",
+      "publisher": "finlex",
+      "title": "§ 17 mom 6",
+      "text": "6) toimittaa markkinavalvontaviranomaiselle sen perustellusta pyynnöstä kaikki jakelijan toimia koskevat tiedot, jotka ovat tarpeen sen osoittamiseksi, että tekoälyjärjestelmä on tekoälyasetuksessa säädettyjen vaatimusten mukainen, jollei kyse ole luonnollisesta henkilöstä, jota on aihetta epäillä rikoksesta ja tiedot liittyvät rikosepäilyn kohteena olevaan asiaan.",
+      "clause_number": 6,
+      "section_number": "17",
+      "statute_id": "300/2008"
+    },
+    {
+      "id": "36faa807-9e0a-4681-be57-eb10ec9a482b",
+      "node_type": "Clause",
+      "publisher": "finlex",
+      "title": "§ 18 mom 1",
+      "text": "1) varmistaa, että tekoälyjärjestelmän toimintaa valvotaan;",
+      "clause_number": 1,
+      "section_number": "18",
+      "statute_id": "300/2008"
+    },
+    {
+      "id": "b5ef06ff-6fdb-46a8-86a3-77933a4d200e",
+      "node_type": "Clause",
+      "publisher": "finlex",
+      "title": "§ 18 mom 2",
+      "text": "2) ilmoittaa tarjoajalle tai jakelijalle sekä markkinavalvontaviranomaiselle, jos käyttöönottajalla on syytä katsoa, että tekoälyjärjestelmän käyttäminen käyttöohjeiden mukaisesti voi aiheuttaa tekoälyasetuksen 79 artiklan 1 kohdassa tarkoitetun riskin;",
+      "clause_number": 2,
+      "section_number": "18",
+      "statute_id": "300/2008"
+    },
+    {
+      "id": "69ab02c8-9c2a-463c-8f6f-cef381bdb9bc",
+      "node_type": "Clause",
+      "publisher": "finlex",
+      "title": "§ 18 mom 3",
+      "text": "3) ilmoittaa tarjoajalle, maahantuojalle tai jakelijalle sekä markkinavalvontaviranomaiselle tekoälyjärjestelmän käytön yhteydessä havaitusta vakavasta vaaratilanteesta;",
+      "clause_number": 3,
+      "section_number": "18",
+      "statute_id": "300/2008"
+    },
+    {
+      "id": "82e5e752-69d6-43da-bf17-e13cdb0653ce",
+      "node_type": "Clause",
+      "publisher": "finlex",
+      "title": "§ 18 mom 4",
+      "text": "4) säilyttää tekoälyjärjestelmän automaattisesti tuottamat lokitiedot vähintään kuuden kuukauden ajan, siltä osin kuin ne ovat käyttöönottajan hallinnassa;",
+      "clause_number": 4,
+      "section_number": "18",
+      "statute_id": "300/2008"
+    },
+    {
+      "id": "94303c85-7f17-42e3-a7d4-69b317182d16",
+      "node_type": "Clause",
+      "publisher": "finlex",
+      "title": "§ 18 mom 5",
+      "text": "5) ilmoittaa työntekijöiden edustajille ja asianomaisille työntekijöille tekoälyjärjestelmän käytöstä ennen sen käyttöönottoa, jos käyttö kohdistuu käyttöönottajan työntekijöihin.",
+      "clause_number": 5,
+      "section_number": "18",
+      "statute_id": "300/2008"
+    },
+    {
+      "id": "e9bc0740-b59f-4c80-af50-ab4a1871f822",
+      "node_type": "Clause",
+      "publisher": "finlex",
+      "title": "§ 19 mom 1",
+      "text": "1) rikkoo tai laiminlyö velvollisuutensa noudattaa tekoälyasetuksen 31 artiklassa säädettyjä ilmoitettuja laitoksia koskevia vaatimuksia;",
+      "clause_number": 1,
+      "section_number": "19",
+      "statute_id": "300/2008"
+    },
+    {
+      "id": "47ed56f1-2a5e-4db4-86df-bf908df7f834",
+      "node_type": "Clause",
+      "publisher": "finlex",
+      "title": "§ 19 mom 2",
+      "text": "2) antaa toimia alihankkijan tai tytäryhtiön tehtäväksi ilman tekoälyjärjestelmän tarjoajan lupaa tekoälyasetuksen 33 artiklan 3 kohdan vastaisesti;",
+      "clause_number": 2,
+      "section_number": "19",
+      "statute_id": "300/2008"
+    },
+    {
+      "id": "5909fbaa-4526-49bf-88a8-6a477db19ced",
+      "node_type": "Clause",
+      "publisher": "finlex",
+      "title": "§ 19 mom 3",
+      "text": "3) rikkoo tai laiminlyö tekoälyasetuksen 33 artiklan 4 kohdan mukaisesti velvollisuutensa säilyttää alihankkijan tai tytäryhtiön pätevyyden arviointia sekä niiden tekoälyasetuksen nojalla suorittamia toimia koskevat asiakirjat viiden vuoden ajan alihankinnan päättymisestä;",
+      "clause_number": 3,
+      "section_number": "19",
+      "statute_id": "300/2008"
+    },
+    {
+      "id": "73251131-cfbe-421a-a3ff-3a3dfacb334b",
+      "node_type": "Clause",
+      "publisher": "finlex",
+      "title": "§ 19 mom 4",
+      "text": "4) rikkoo tai laiminlyö tekoälyasetuksen 34 artiklan 1 kohdan mukaisen velvollisuutensa tarkastaa suuririskisen tekoälyjärjestelmän vaatimustenmukaisuus mainitun asetuksen 43 artiklan mukaisten vaatimustenmukaisuuden arviointimenettelyjen mukaisesti;",
+      "clause_number": 4,
+      "section_number": "19",
+      "statute_id": "300/2008"
+    },
+    {
+      "id": "60e0f52f-26a4-4ed1-be76-5f92bdbb8eb7",
+      "node_type": "Clause",
+      "publisher": "finlex",
+      "title": "§ 19 mom 5",
+      "text": "5) rikkoo tai laiminlyö tekoälyasetuksen 34 artiklan 3 kohdan mukaisen velvollisuutensa toimittaa ilmoittamisesta vastaavalle viranomaiselle tämän pyynnöstä tiedot, joita ilmoittamisesta vastaava viranomainen tarvitsee ilmoitetun laitoksen arviointiin, nimeämiseen, ilmoittamiseen tai seuraamiseen, jollei kyse ole luonnollisesta henkilöstä, jota on aihetta epäillä rikoksesta ja tiedot liittyvät rikosepäilyn kohteena olevaan asiaan.",
+      "clause_number": 5,
+      "section_number": "19",
+      "statute_id": "300/2008"
+    },
+    {
+      "id": "d098c50d-6b87-4f1d-a98f-fa1dfca0a1a5",
+      "node_type": "Clause",
+      "publisher": "finlex",
+      "title": "§ 21 mom 1",
+      "text": "1) saattaa markkinoille tai ottaa käyttöön tekoälyjärjestelmän tai käyttää tekoälyjärjestelmää, jossa käytetään subliminaalisia tekniikoita, joita henkilö ei havaitse tietoisesti, tai tarkoituksellisesti manipuloivia tai harhaanjohtavia tekniikoita, joiden tavoitteena on vääristää tai jotka olennaisesti vääristävät henkilön tai henkilöryhmän käyttäytymistä heikentäen tuntuvasti tämän kykyä tehdä tietoinen päätös ja saaden tämän tekemään päätöksen, jota tämä ei olisi muussa tapauksessa tehnyt, tavalla, joka aiheuttaa tai kohtuullisella todennäköisyydellä aiheuttaa kyseiselle henkilölle, toiselle henkilölle tai henkilöryhmälle merkittävää haittaa;",
+      "clause_number": 1,
+      "section_number": "21",
+      "statute_id": "300/2008"
+    },
+    {
+      "id": "deea5156-e811-4165-870e-3d0d4bb5ca65",
+      "node_type": "Clause",
+      "publisher": "finlex",
+      "title": "§ 21 mom 2",
+      "text": "2) saattaa markkinoille tai ottaa käyttöön tekoälyjärjestelmän tai käyttää tekoälyjärjestelmää, jossa hyödynnetään luonnollisen henkilön tai tietyn henkilöryhmän haavoittuvuuksia, jotka liittyvät heidän ikäänsä, vammaansa tai erityiseen sosiaaliseen tai taloudelliseen tilanteeseensa, siten, että tavoitteena tai vaikutuksena on olennaisesti vääristää kyseisen henkilön tai kyseiseen ryhmään kuuluvan henkilön käyttäytymistä tavalla, joka aiheuttaa tai kohtuullisella todennäköisyydellä aiheuttaa kyseiselle henkilölle tai toiselle henkilölle merkittävää haittaa;",
+      "clause_number": 2,
+      "section_number": "21",
+      "statute_id": "300/2008"
+    },
+    {
+      "id": "6796e7cf-2e5f-48d8-a323-d8552f286658",
+      "node_type": "Clause",
+      "publisher": "finlex",
+      "title": "§ 21 mom 3",
+      "text": "3) saattaa markkinoille tai ottaa käyttöön tekoälyjärjestelmän tai käyttää tekoälyjärjestelmää luonnollisten henkilöiden tai henkilöryhmien arvioimiseksi tai luokittelemiseksi tiettynä ajanjaksona heidän sosiaalisen käyttäytymisensä tai tunnettujen, pääteltyjen tai ennakoitujen henkilökohtaisten ominaisuuksiensa tai luonteenpiirteidensä perusteella siten, että sosiaalinen pisteytys johtaa luonnollisten henkilöiden tai henkilöryhmien haitalliseen tai epäedulliseen kohteluun sosiaalisissa yhteyksissä, jotka eivät liity siihen asiayhteyteen, jossa tiedot alun perin tuotettiin tai kerättiin, taikka haitalliseen tai epäedulliseen kohteluun, joka on perusteetonta tai suhteetonta heidän sosiaaliseen käyttäytymiseensä tai sen vakavuuteen nähden;",
+      "clause_number": 3,
+      "section_number": "21",
+      "statute_id": "300/2008"
+    },
+    {
+      "id": "0860b68d-f92b-49e3-a51e-6a1bd93b6a26",
+      "node_type": "Clause",
+      "publisher": "finlex",
+      "title": "§ 21 mom 4",
+      "text": "4) saattaa markkinoille tai ottaa käyttöön tätä erityistarkoitusta varten tekoälyjärjestelmän tai käyttää tekoälyjärjestelmää luonnollisia henkilöitä koskevien riskinarviointien tekemiseen, jotta voidaan arvioida tai ennustaa riskiä siitä, että luonnollinen henkilö syyllistyy rikokseen, jos tämä perustuu yksinomaan luonnollisen henkilön profilointiin tai hänen persoonallisuuspiirteidensä ja persoonallisuusominaisuuksiensa arviointiin, lukuun ottamatta tekoälyjärjestelmiä, joita käytetään tukemaan ihmisen tekemää arviointia jonkun henkilön osallistumisesta rikolliseen toimintaan, jos arvio jo perustuu objektiivisiin ja todennettavissa oleviin tosiseikkoihin, jotka liittyvät suoraan rikolliseen toimintaan;",
+      "clause_number": 4,
+      "section_number": "21",
+      "statute_id": "300/2008"
+    },
+    {
+      "id": "8d769558-3780-439a-b4a5-00f1add06986",
+      "node_type": "Clause",
+      "publisher": "finlex",
+      "title": "§ 21 mom 5",
+      "text": "5) saattaa markkinoille tai ottaa käyttöön tähän tiettyyn tarkoitukseen tekoälyjärjestelmän tai käyttää tekoälyjärjestelmää, jolla luodaan tai laajennetaan kasvojentunnistustietokantoja haravoimalla kasvokuvia kohdentamattomasti internetistä tai valvontakamerakuvista;",
+      "clause_number": 5,
+      "section_number": "21",
+      "statute_id": "300/2008"
+    },
+    {
+      "id": "829c00e5-142e-4a50-9160-406d7e2a3918",
+      "node_type": "Clause",
+      "publisher": "finlex",
+      "title": "§ 21 mom 6",
+      "text": "6) saattaa markkinoille tai ottaa käyttöön tätä tarkoitusta varten tekoälyjärjestelmän tai käyttää tekoälyjärjestelmää luonnollisen henkilön tunteiden päättelemiseksi työpaikalla ja oppilaitoksissa, paitsi jos tekoälyjärjestelmää on tarkoitus hyödyntää tai saattaa markkinoille lääketieteellisiin tai turvallisuuteen liittyviin tarkoituksiin;",
+      "clause_number": 6,
+      "section_number": "21",
+      "statute_id": "300/2008"
+    },
+    {
+      "id": "51c5befe-c125-458c-997e-37e3a7b0b26f",
+      "node_type": "Clause",
+      "publisher": "finlex",
+      "title": "§ 21 mom 7",
+      "text": "7) saattaa markkinoille tai ottaa käyttöön tätä tiettyä tarkoitusta varten tekoälyjärjestelmän tai käyttää sellaista biometristä luokittelujärjestelmää, jossa luonnolliset henkilöt luokitellaan heidän biometristen tietojensa perusteella rodun, poliittisten mielipiteiden, ammattiliiton jäsenyyden, uskonnollisen tai filosofisen vakaumuksen, seksuaalisen käyttäytymisen tai seksuaalisen suuntautumisen perusteella, lukuun ottamatta kuvien tai muiden laillisesti hankittujen biometristen tietoaineistojen merkitsemistä tai suodattamista biometristen tietojen perusteella lainvalvonta-alalla.",
+      "clause_number": 7,
+      "section_number": "21",
+      "statute_id": "300/2008"
+    },
+    {
+      "id": "3a2a5b15-58c0-4085-a8d0-94a6ab090935",
+      "node_type": "Clause",
+      "publisher": "finlex",
+      "title": "§ 22 mom 1",
+      "text": "1) tekoälyasetuksen 50 artiklan 1 kohdan mukaisen velvoitteen suunnitella ja toteuttaa luonnollisten henkilöiden kanssa suoraan vuorovaikutukseen tarkoitettu tekoälyjärjestelmä siten, että asianomaisille luonnollisille henkilöille ilmoitetaan, että he ovat vuorovaikutuksessa tekoälyjärjestelmän kanssa, jollei tämä muuten ole ilmeistä;",
+      "clause_number": 1,
+      "section_number": "22",
+      "statute_id": "300/2008"
+    },
+    {
+      "id": "d7492378-8b8b-4d93-a27a-0b87c83bf89e",
+      "node_type": "Clause",
+      "publisher": "finlex",
+      "title": "§ 22 mom 2",
+      "text": "2) tekoälyasetuksen 50 artiklan 2 kohdan mukaisen velvoitteen varmistaa, että tekoälyjärjestelmän tuotokset merkitään koneellisesti luettavassa muodossa ja että ne voidaan tunnistaa keinotekoisesti tuotetuiksi tai manipuloiduiksi.",
+      "clause_number": 2,
+      "section_number": "22",
+      "statute_id": "300/2008"
+    },
+    {
+      "id": "db727231-26bd-4c07-b4ee-58ef3574b553",
+      "node_type": "Clause",
+      "publisher": "finlex",
+      "title": "§ 22 mom 1",
+      "text": "1) tekoälyasetuksen 50 artiklan 3 kohdan mukaisen velvoitteen ilmoittaa tunteentunnistusjärjestelmälle tai biometrisen luokitusjärjestelmälle altistuvalle luonnolliselle henkilölle tällaisen järjestelmän toiminnasta;",
+      "clause_number": 1,
+      "section_number": "22",
+      "statute_id": "300/2008"
+    },
+    {
+      "id": "cc426fb1-dafe-49c6-a684-dc46487a8a50",
+      "node_type": "Clause",
+      "publisher": "finlex",
+      "title": "§ 22 mom 2",
+      "text": "2) tekoälyasetuksen 50 artiklan 4 kohdan mukaisen velvoitteen ilmoittaa tekoälyjärjestelmällä tuotetun tai manipuloidun, syväväärennöksen muodostavan kuva-, ääni- tai videosisällön yhteydessä, että sisältö on tuotettu keinotekoisesti;",
+      "clause_number": 2,
+      "section_number": "22",
+      "statute_id": "300/2008"
+    },
+    {
+      "id": "fba7a130-c187-4962-85e3-176061f23d51",
+      "node_type": "Clause",
+      "publisher": "finlex",
+      "title": "§ 22 mom 3",
+      "text": "3) tekoälyasetuksen 50 artiklan 4 kohdan mukaisen velvoitteen ilmoittaa tekoälyjärjestelmällä tuotetun tai manipuloidun, yleisölle julkista etua koskevasta asiasta tiedottamiseen tarkoitetun tekstin yhteydessä, että sisältö on tuotettu keinotekoisesti, paitsi jos teksti on läpikäynyt ihmisen suorittaman arviointiprosessin tai toimituksellisen valvonnan ja jos luonnollisella henkilöllä tai oikeushenkilöllä on toimituksellinen vastuu sisällön julkaisemisesta.",
+      "clause_number": 3,
+      "section_number": "22",
+      "statute_id": "300/2008"
+    },
+    {
+      "id": "d806a1aa-8de3-4a45-82b5-869eb24d4eb1",
+      "node_type": "Clause",
+      "publisher": "finlex",
+      "title": "§ 23 mom 1",
+      "text": "1) 21 §:n nojalla määrätyn seuraamusmaksun osalta 35 000 000 euroa tai, jos rikkomiseen syyllistynyt on yritys, enintään 7 prosenttia sen edeltävän tilikauden vuotuisesta maailmanlaajuisesta kokonaisliikevaihdosta sen mukaan, kumpi näistä määristä on suurempi;",
+      "clause_number": 1,
+      "section_number": "23",
+      "statute_id": "300/2008"
+    },
+    {
+      "id": "6f2e09ab-1499-497b-a2ef-853459d8fe04",
+      "node_type": "Clause",
+      "publisher": "finlex",
+      "title": "§ 23 mom 2",
+      "text": "2) 14–19 tai 22 §:n nojalla määrätyn seuraamusmaksun osalta 15 000 000 euroa tai, jos rikkomiseen syyllistynyt on yritys, enintään 3 prosenttia sen edeltävän tilikauden vuotuisesta maailmanlaajuisesta kokonaisliikevaihdosta sen mukaan, kumpi näistä määristä on suurempi;",
+      "clause_number": 2,
+      "section_number": "23",
+      "statute_id": "300/2008"
+    },
+    {
+      "id": "698427f8-7054-47a7-8014-32e6e0a9ed11",
+      "node_type": "Clause",
+      "publisher": "finlex",
+      "title": "§ 23 mom 3",
+      "text": "3) 20 §:n nojalla määrätyn seuraamusmaksun osalta 7 500 000 euroa tai, jos rikkomiseen syyllistynyt on yritys, enintään 1 prosenttia sen edeltävän tilikauden vuotuisesta maailmanlaajuisesta kokonaisliikevaihdosta sen mukaan, kumpi näistä määristä on suurempi.",
+      "clause_number": 3,
+      "section_number": "23",
+      "statute_id": "300/2008"
+    },
+    {
+      "id": "21d44ec3-0eb3-44b9-be42-e38f7ab9f499",
+      "node_type": "Clause",
+      "publisher": "finlex",
+      "title": "§ 24 mom 1",
+      "text": "1) velvoitteen rikkomista on pidettävä vähäisenä; tai",
+      "clause_number": 1,
+      "section_number": "24",
+      "statute_id": "300/2008"
+    },
+    {
+      "id": "927282b8-310f-4d21-b10b-ce86c80e27ac",
+      "node_type": "Clause",
+      "publisher": "finlex",
+      "title": "§ 24 mom 2",
+      "text": "2) seuraamusmaksun määräämistä on pidettävä ilmeisen kohtuuttomana.",
+      "clause_number": 2,
+      "section_number": "24",
+      "statute_id": "300/2008"
+    }
+  ],
+  "cross_references": [],
+  "raw_html_path": "C:\\Users\\danit\\finance-hack\\aalto-hackaton-2026\\data\\raw\\finlex\\Laki (säädöskokoelma)\\Laki eräiden tekoälyjärjestelmien valvonnasta.html"
+}

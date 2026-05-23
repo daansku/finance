@@ -1,0 +1,58 @@
+{
+  "statute": {
+    "id": "bc050aa0-2d91-438e-bcc4-d52b913ba1c7",
+    "node_type": "Statute",
+    "publisher": "finlex",
+    "title": "Laki sairausvakuutuslain muuttamisesta annetun lain muuttamisesta",
+    "text": "Laki sairausvakuutuslain muuttamisesta annetun lain muuttamisesta",
+    "statute_id": "252/2015",
+    "finlex_url": "https://finlex.fi/fi/laki/ajantasa/252/2015"
+  },
+  "chapters": [
+    {
+      "id": "e359cebb-3e31-4a0a-a2e4-fb1047117b71",
+      "node_type": "Chapter",
+      "publisher": "finlex",
+      "title": "Chapter 5",
+      "text": "5 luku Lääkekorvaukset",
+      "chapter_number": 5,
+      "statute_id": "252/2015"
+    }
+  ],
+  "sections": [
+    {
+      "id": "e9adc319-50ea-48bc-bca2-d7b182a644ff",
+      "node_type": "Section",
+      "publisher": "finlex",
+      "title": "5 § Erityiskorvaus",
+      "text": "Lääkkeen erityiskorvaus 9 §:n 1, 2 tai 3 momentissa tarkoitetusta korvauksen perusteesta on:",
+      "section_number": "5",
+      "chapter_number": 5,
+      "statute_id": "252/2015"
+    },
+    {
+      "id": "070be5b1-adb5-4b68-bb4b-6eac00bd2501",
+      "node_type": "Section",
+      "publisher": "finlex",
+      "title": "8 § Vuosiomavastuu ja oikeus lisäkorvaukseen",
+      "text": "Jos saman kalenterivuoden aikana alkuomavastuun ja vakuutetulle tämän luvun mukaan korvatuista lääkkeistä, kliinisistä ravintovalmisteista sekä perusvoiteista korvaamatta jääneiden korvauksen perusteena olevien kustannusten yhteismäärä ylittää 610 euroa (vuosiomavastuu), vakuutetulla on oikeus ylittävältä määrältä lisäkorvaukseen. Lisäkorvaus on 100 prosenttia 2,50 euron lääkekohtaisen omavastuun ylittävältä osalta. Sen estämättä, mitä 5 §:n 2 momentin 2  kohdassa, 8 §:n 1 momentissa ja 9 §:n 5  momentissa säädetään, lääkekohtainen omavastuu voidaan periä poikkeuksellisesti jokaiselta alkavalta hoitoviikolta, jos sairauden hoidossa käytettävän lääkkeen enintään kolmen kuukauden hoitoaikaa vastaava lääkemäärä on lääketieteellisistä tai hoidollisista syistä tai lääkevalmisteen farmaseuttisten ominaisuuksien johdosta ostettava useana toimituseränä taikka kyse on annosjaellusta lääkkeestä. Tällöin 5 §:n 2 momentin 2 kohdan mukainen lääkekohtainen omavastuu on 0,38 euroa ja 8 §:n 1 momentin mukainen lääkekohtainen omavastuu 0,21 euroa jokaiselta alkavalta hoitoviikolta. Tämä laki tulee voimaan 1 päivänä tammikuuta 2016.",
+      "section_number": "8",
+      "chapter_number": 5,
+      "statute_id": "252/2015"
+    }
+  ],
+  "clauses": [
+    {
+      "id": "a39cbe23-37cd-49f5-8d3e-691a92eeee90",
+      "node_type": "Clause",
+      "publisher": "finlex",
+      "title": "§ 5 mom 2",
+      "text": "2) \n                                        100 prosenttia 4,50 euron lääkekohtaisen omavastuun ylittävältä osalta alkuomavastuun täyttymisen jälkeen, jos kysymyksessä on vaikean ja pitkäaikaisen sairauden hoidossa tarvittava, vaikutustavaltaan korvaava tai korjaava välttämätön lääke (ylempi erityiskorvaus).",
+      "clause_number": 2,
+      "section_number": "5",
+      "statute_id": "252/2015"
+    }
+  ],
+  "cross_references": [],
+  "raw_html_path": "C:\\Users\\danit\\finance-hack\\aalto-hackaton-2026\\data\\raw\\finlex\\Laki\\Laki sairausvakuutuslain muuttamisesta annetun lain muuttamisesta.html"
+}

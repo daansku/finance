@@ -1,0 +1,3258 @@
+{
+  "statute": {
+    "id": "48c5ad36-2a52-4853-8cc9-67634af15b74",
+    "node_type": "Statute",
+    "publisher": "finlex",
+    "title": "Pelastuslaki",
+    "text": "Pelastuslaki",
+    "statute_id": "8/1955",
+    "finlex_url": "https://finlex.fi/fi/laki/ajantasa/8/1955"
+  },
+  "chapters": [
+    {
+      "id": "0d632a5d-0f2e-4613-83f2-2dbe29b5aaa6",
+      "node_type": "Chapter",
+      "publisher": "finlex",
+      "title": "Chapter 1",
+      "text": "1 luku Yleiset säännökset",
+      "chapter_number": 1,
+      "statute_id": "8/1955"
+    },
+    {
+      "id": "01d51356-7575-4ad7-b1b6-32a560cac4a5",
+      "node_type": "Chapter",
+      "publisher": "finlex",
+      "title": "Chapter 2",
+      "text": "2 luku Yleiset velvollisuudet",
+      "chapter_number": 2,
+      "statute_id": "8/1955"
+    },
+    {
+      "id": "53e2dfb5-1b26-470e-854f-8d93d3dc9b69",
+      "node_type": "Chapter",
+      "publisher": "finlex",
+      "title": "Chapter 3",
+      "text": "3 luku Toiminnanharjoittajan sekä rakennuksen omistajan ja haltijan velvollisuudet",
+      "chapter_number": 3,
+      "statute_id": "8/1955"
+    },
+    {
+      "id": "7ad7f5b3-dd7f-4f32-91e3-967d0b94aa07",
+      "node_type": "Chapter",
+      "publisher": "finlex",
+      "title": "Chapter 4",
+      "text": "4 luku Pelastustoimen organisaatio ja vastuu pelastustoimen tehtävistä",
+      "chapter_number": 4,
+      "statute_id": "8/1955"
+    },
+    {
+      "id": "21ee2e74-c12e-4d54-8a0b-c514ed7164c9",
+      "node_type": "Chapter",
+      "publisher": "finlex",
+      "title": "Chapter 5",
+      "text": "5 luku Pelastustoiminta ja eräät siihen liittyvät tehtävät",
+      "chapter_number": 5,
+      "statute_id": "8/1955"
+    },
+    {
+      "id": "9444ba56-8730-4f1a-a5d8-8234f28f5fb9",
+      "node_type": "Chapter",
+      "publisher": "finlex",
+      "title": "Chapter 6",
+      "text": "6 luku Yhteistoiminta pelastustoimen tehtävissä",
+      "chapter_number": 6,
+      "statute_id": "8/1955"
+    },
+    {
+      "id": "9d8fdc02-37c4-4b05-a55b-d2eb8dd8be54",
+      "node_type": "Chapter",
+      "publisher": "finlex",
+      "title": "Chapter 7",
+      "text": "7 luku Pelastustoimen vapaaehtoistoiminta",
+      "chapter_number": 7,
+      "statute_id": "8/1955"
+    },
+    {
+      "id": "eca57453-1670-46d8-be39-87c966ac180c",
+      "node_type": "Chapter",
+      "publisher": "finlex",
+      "title": "Chapter 8",
+      "text": "8 luku Pelastustoimen koulutus ja kelpoisuusvaatimukset",
+      "chapter_number": 8,
+      "statute_id": "8/1955"
+    },
+    {
+      "id": "9a5b983e-b349-478c-9e8b-fcf3dd97b784",
+      "node_type": "Chapter",
+      "publisher": "finlex",
+      "title": "Chapter 9",
+      "text": "9 luku Nuohouspalvelut",
+      "chapter_number": 9,
+      "statute_id": "8/1955"
+    },
+    {
+      "id": "fd47ea76-da08-4bd9-8cea-15b034f6c498",
+      "node_type": "Chapter",
+      "publisher": "finlex",
+      "title": "Chapter 10",
+      "text": "10 luku Väestönsuojeluun varautuminen ja väestönsuojelukoulutus",
+      "chapter_number": 10,
+      "statute_id": "8/1955"
+    },
+    {
+      "id": "db351503-1327-4d5e-8394-8bc7d0a9a629",
+      "node_type": "Chapter",
+      "publisher": "finlex",
+      "title": "Chapter 11",
+      "text": "11 luku Väestönsuojat",
+      "chapter_number": 11,
+      "statute_id": "8/1955"
+    },
+    {
+      "id": "b38b4142-d83a-49e4-8bb3-3b2c22fcabdd",
+      "node_type": "Chapter",
+      "publisher": "finlex",
+      "title": "Chapter 12",
+      "text": "12 luku Pelastustoimen valvontatehtävät",
+      "chapter_number": 12,
+      "statute_id": "8/1955"
+    },
+    {
+      "id": "443c9723-8335-49b1-9203-4a75140f11bc",
+      "node_type": "Chapter",
+      "publisher": "finlex",
+      "title": "Chapter 13",
+      "text": "13 luku Salassapitovelvollisuus, tiedonsaantioikeus ja henkilörekisterit",
+      "chapter_number": 13,
+      "statute_id": "8/1955"
+    },
+    {
+      "id": "0b75b92a-9927-4dab-9413-7cd9f95d5a43",
+      "node_type": "Chapter",
+      "publisher": "finlex",
+      "title": "Chapter 14",
+      "text": "14 luku Pelastustoimen rahoitus, maksut, palkkiot ja korvaukset",
+      "chapter_number": 14,
+      "statute_id": "8/1955"
+    },
+    {
+      "id": "c3e8a73e-7dec-45b7-8678-dc2071bf4a1a",
+      "node_type": "Chapter",
+      "publisher": "finlex",
+      "title": "Chapter 15",
+      "text": "15 luku Muutoksenhaku, pakkokeinot ja rangaistukset",
+      "chapter_number": 15,
+      "statute_id": "8/1955"
+    },
+    {
+      "id": "a2e47167-8e67-4cc3-bde5-1192b82bfb22",
+      "node_type": "Chapter",
+      "publisher": "finlex",
+      "title": "Chapter 16",
+      "text": "16 luku Erinäiset säännökset",
+      "chapter_number": 16,
+      "statute_id": "8/1955"
+    }
+  ],
+  "sections": [
+    {
+      "id": "82ffcf46-d183-4d64-afc2-e44165f82379",
+      "node_type": "Section",
+      "publisher": "finlex",
+      "title": "1 § Lain tavoite",
+      "text": "Tämän lain tavoitteena on parantaa ihmisten turvallisuutta ja vähentää onnettomuuksia. Lain tavoitteena on myös, että onnettomuuden uhatessa tai tapahduttua ihmiset pelastetaan, tärkeät toiminnot turvataan ja onnettomuuden seurauksia rajoitetaan tehokkaasti.",
+      "section_number": "1",
+      "chapter_number": 1,
+      "statute_id": "8/1955"
+    },
+    {
+      "id": "98f2752e-2729-4899-8110-64449968ff04",
+      "node_type": "Section",
+      "publisher": "finlex",
+      "title": "2 § Lain soveltamisala",
+      "text": "Tässä laissa säädetään ihmisten, yritysten sekä muiden yhteisöjen ja oikeushenkilöiden velvollisuudesta: Tässä laissa säädetään lisäksi pelastustoimen viranomaisten: Pelastustoimen viranomaiset huolehtivat toimialaansa kuuluvista maasotavoimiin kuuluvien haavoittuneiden ja sairaiden aseman parantamisesta, merisotavoimiin kuuluvien haavoittuneiden, sairaiden ja haaksirikkoutuneiden aseman parantamisesta, sotavankien kohtelusta sekä siviilihenkilöiden suojelemisesta sodan aikana tehdyissä Geneven sopimuksissa (SopS 8/1955), jäljempänäGeneven yleissopimukset, sekä kansainvälisten aseellisten selkkausten uhrien suojelemisesta ja kansainvälistä luonnetta vailla olevien aseellisten selkkausten uhrien suojelemisesta tehdyissä Geneven yleissopimusten lisäpöytäkirjoissa (SopS 82/1980) määritellyistä väestönsuojelutehtävistä. Tässä laissa säädetään myös yhteistoiminnasta 2 ja 3 momentissa mainittujen tehtävien hoitamisessa sekä niihin varautumisessa. Lisäksi pelastustoimen viranomaisille voi kuulua tehtäviä sen mukaan kuin muussa laissa säädetään. Tämän lain mukainen toiminta on suunniteltava ja järjestettävä siten, että se on mahdollista myös valmiuslain (1080/1991) mukaisissa poikkeusoloissa. Pelastustoimen erityisistä toimivaltuuksista poikkeusoloissa säädetään valmiuslaissa.",
+      "section_number": "2",
+      "chapter_number": 1,
+      "statute_id": "8/1955"
+    },
+    {
+      "id": "1690f70a-1c77-472a-9ed7-d6291934199a",
+      "node_type": "Section",
+      "publisher": "finlex",
+      "title": "3 § Yleinen toimintavelvollisuus",
+      "text": "Jokainen, joka huomaa tai saa tietää tulipalon syttyneen tai muun onnettomuuden tapahtuneen tai uhkaavan eikä voi heti sammuttaa paloa tai torjua vaaraa, on velvollinen viipymättä ilmoittamaan siitä vaarassa oleville, tekemään hätäilmoituksen sekä ryhtymään kykynsä mukaan pelastustoimenpiteisiin.",
+      "section_number": "3",
+      "chapter_number": 2,
+      "statute_id": "8/1955"
+    },
+    {
+      "id": "c5f8f83f-f894-4a54-88e7-7a22fbd59e82",
+      "node_type": "Section",
+      "publisher": "finlex",
+      "title": "4 § Huolellisuusvelvollisuus",
+      "text": "Jokaisen on oltava huolellinen tulipalon tai muun onnettomuuden vaaran ja vahingon välttämiseksi. Jokaisen on mahdollisuuksiensa mukaan valvottava, että hänen määräysvaltansa piirissä noudatetaan tulipalon ja muun onnettomuuden ehkäisemiseksi ja henkilöturvallisuuden varmistamiseksi annettuja säännöksiä ja määräyksiä.",
+      "section_number": "4",
+      "chapter_number": 2,
+      "statute_id": "8/1955"
+    },
+    {
+      "id": "5daf44d4-d96d-4ae9-91d1-535c8040c248",
+      "node_type": "Section",
+      "publisher": "finlex",
+      "title": "5 § Varovaisuus tulen käsittelyssä",
+      "text": "Tulta sekä syttyvää, räjähtävää tai muuta vaarallista ainetta on käsiteltävä huolellisesti ja riittävää varovaisuutta noudattaen. Ryhdyttäessä tulityöhön tai sellaiseen korjaustyöhön tai muuhun työhön, jonka johdosta tulipalon tai muun onnettomuuden vaara tuntuvasti lisääntyy, on huolehdittava riittävistä varotoimista.",
+      "section_number": "5",
+      "chapter_number": 2,
+      "statute_id": "8/1955"
+    },
+    {
+      "id": "8a3e8bae-590d-4df7-ae18-8e80fd330c01",
+      "node_type": "Section",
+      "publisher": "finlex",
+      "title": "6 § Avotulen teko",
+      "text": "Nuotiota tai muuta avotulta ei saa sytyttää, jos olosuhteet kuivuuden, tuulen tai muun syyn takia ovat sellaiset, että metsäpalon, ruohikkopalon tai muun tulipalon vaara on ilmeinen. Avotulta ei saa tehdä toisen maalle ilman maanomistajan lupaa. Alueen pelastusviranomainen voi perustellusta syystä kieltää avotulen teon pelastustoimen alueella tai osassa sitä määräajaksi. Päätöksestä tulee tiedottaa tarpeellisessa laajuudessa.",
+      "section_number": "6",
+      "chapter_number": 2,
+      "statute_id": "8/1955"
+    },
+    {
+      "id": "dbc8cad3-8240-4bbb-b336-52b61ab7e44b",
+      "node_type": "Section",
+      "publisher": "finlex",
+      "title": "7 § Kulotus",
+      "text": "Edellä 6 §:ssä säädetyn estämättä saadaan kuivanakin aikana kulottaa erityistä varovaisuutta noudattaen, jollei 6 §:n 3 momentista muuta johdu. Metsämaan kulotus on aina suoritettava kulotuksen käytännön työhön perehtyneen metsäammattilaisen valvonnassa.",
+      "section_number": "7",
+      "chapter_number": 2,
+      "statute_id": "8/1955"
+    },
+    {
+      "id": "7365081d-a7cd-4365-8636-28b526bd5217",
+      "node_type": "Section",
+      "publisher": "finlex",
+      "title": "8 § Ilmoitusvelvollisuus",
+      "text": "Kulotuksen suorittajan tulee ilmoittaa kulotuksesta ennakolta pelastuslaitokselle. Ilmoitusvelvollisuus koskee myös muuta tulenkäyttöä, josta muodostuu merkittävästi savua.",
+      "section_number": "8",
+      "chapter_number": 2,
+      "statute_id": "8/1955"
+    },
+    {
+      "id": "0d638475-1a39-4b90-9015-93178c19d44e",
+      "node_type": "Section",
+      "publisher": "finlex",
+      "title": "9 § Rakennusten palo- ja poistumisturvallisuus",
+      "text": "Rakennuksen omistajan ja haltijan sekä toiminnanharjoittajan on osaltaan huolehdittava siitä, että rakennus, rakennelma ja sen ympäristö pidetään sellaisessa kunnossa, että: Helposti syttyvää materiaalia tai muuta tavaraa ei saa säilyttää ullakolla, kellarissa, rakennuksen alla tai sen välittömässä läheisyydessä niin, että siitä aiheutuu tulipalon syttymisen tai leviämisen vaaraa tai että tulipalon sammuttaminen vaikeutuu.",
+      "section_number": "9",
+      "chapter_number": 3,
+      "statute_id": "8/1955"
+    },
+    {
+      "id": "ea411a75-f7df-463f-b166-e83410536d73",
+      "node_type": "Section",
+      "publisher": "finlex",
+      "title": "10 § Rakennusten uloskäytävät",
+      "text": "Rakennuksen omistajan ja haltijan sekä toiminnanharjoittajan on osaltaan huolehdittava siitä, että uloskäytävät ja kulkureitit niille pidetään kulkukelpoisina ja esteettöminä ja muutenkin sellaisessa kunnossa, että niitä voidaan käyttää turvallisesti ja tehokkaasti. Uloskäytävillä sekä ullakoiden, kellarien ja varastojen kulkureiteillä ei saa säilyttää tavaraa. Uloskäytävät ja kulkureitit niille tulee tarvittaessa merkitä ja valaista asianmukaisesti. Merkitsemisestä ja valaisemisesta voidaan antaa tarkempia säännöksiä sisäasiainministeriön asetuksella.",
+      "section_number": "10",
+      "chapter_number": 3,
+      "statute_id": "8/1955"
+    },
+    {
+      "id": "e3443d6e-1955-42a9-be6d-065d2aa90a12",
+      "node_type": "Section",
+      "publisher": "finlex",
+      "title": "11 § Kiinteistöjen pelastustiet",
+      "text": "Kiinteistön omistajan ja haltijan sekä toiminnanharjoittajan on osaltaan huolehdittava siitä, että hälytysajoneuvoille tarkoitetut ajotiet ja muut kulkuyhteydet (pelastustiet) pidetään ajokelpoisina ja esteettöminä ja että ne on merkitty asianmukaisesti. Pelastustielle ei saa pysäköidä ajoneuvoja eikä asettaa muutakaan estettä. Sisäasiainministeriön asetuksella annetaan tarkempia säännöksiä pelastustien merkitsemisestä.",
+      "section_number": "11",
+      "chapter_number": 3,
+      "statute_id": "8/1955"
+    },
+    {
+      "id": "5a3d0acf-f5ec-427c-bb63-d30078ad4144",
+      "node_type": "Section",
+      "publisher": "finlex",
+      "title": "12 § Laitteiden kunnossapito",
+      "text": "Seuraavat tässä laissa tai muissa säädöksissä vaaditut tai viranomaisten määräämät varusteet ja laitteet on pidettävä toimintakunnossa sekä huollettava ja tarkastettava asianmukaisesti: Edellä 1 momentissa tarkoitetuista velvoitteista vastaa rakennuksen yleisten tilojen ja koko rakennusta palvelevien järjestelyiden osalta rakennuksen omistaja, haltija ja toiminnanharjoittaja osaltaan sekä huoneiston haltija hallinnassaan olevien tilojen osalta. Sisäasiainministeriön asetuksella voidaan antaa tarkempia säännöksiä:",
+      "section_number": "12",
+      "chapter_number": 3,
+      "statute_id": "8/1955"
+    },
+    {
+      "id": "36bce8c5-182a-4243-8fd8-c7ecd858cbf0",
+      "node_type": "Section",
+      "publisher": "finlex",
+      "title": "13 § Nuohous ja ilmanvaihtolaitteiden huolto",
+      "text": "Rakennuksen omistajan, haltijan ja toiminnanharjoittajan on yleisten tilojen ja koko rakennusta palvelevien järjestelyjen osalta sekä huoneiston haltijan hallinnassaan olevien tilojen osalta huolehdittava, että: Sisäasiainministeriön asetuksella voidaan antaa tarkempia säännöksiä:",
+      "section_number": "13",
+      "chapter_number": 3,
+      "statute_id": "8/1955"
+    },
+    {
+      "id": "abed57dc-8ce2-4542-b787-1c90ca3abb84",
+      "node_type": "Section",
+      "publisher": "finlex",
+      "title": "14 § Omatoiminen varautuminen",
+      "text": "Rakennuksen omistajan ja haltijan sekä toiminnanharjoittajan on osaltaan: Edellä 1 momentissa säädetty koskee myös muualla kuin rakennuksessa harjoitettavaa toimintaa sekä yleisötilaisuuksia.",
+      "section_number": "14",
+      "chapter_number": 3,
+      "statute_id": "8/1955"
+    },
+    {
+      "id": "7cabab53-900a-48f1-9752-1e28584b9023",
+      "node_type": "Section",
+      "publisher": "finlex",
+      "title": "15 § Pelastussuunnitelma",
+      "text": "Rakennukseen tai muuhun kohteeseen, joka on poistumisturvallisuuden tai pelastustoiminnan kannalta tavanomaista vaativampi tai jossa henkilö- tai paloturvallisuudelle, ympäristölle tai kulttuuriomaisuudelle aiheutuvan vaaran taikka mahdollisen onnettomuuden aiheuttamien vahinkojen voidaan arvioida olevan vakavat, on laadittava pelastussuunnitelma 14 §:ssä tarkoitetuista toimenpiteistä. Pelastussuunnitelman laatimisesta vastaa rakennuksen tai kohteen haltija. Jos rakennuksessa toimii useita toiminnanharjoittajia, rakennuksen haltijan tulee laatia pelastussuunnitelma yhteistyössä toiminnanharjoittajien kanssa. Rakennuksen haltijan tulee laatia rakennuksen pelastussuunnitelma kuitenkin aina yhteistyössä 18 §:ssä tarkoitetun hoitolaitoksen ja palvelu- ja tukiasumisen toiminnanharjoittajan kanssa. Pelastussuunnitelmassa on oltava selostus: Valtioneuvoston asetuksella annetaan tarkempia säännöksiä kohteista, joihin on laadittava pelastussuunnitelma. Pelastussuunnitelman sisällöstä voidaan antaa tarkempia säännöksiä valtioneuvoston asetuksella.",
+      "section_number": "15",
+      "chapter_number": 3,
+      "statute_id": "8/1955"
+    },
+    {
+      "id": "fd0cd679-6639-494b-9f81-4b8109dd1233",
+      "node_type": "Section",
+      "publisher": "finlex",
+      "title": "16 § Yleisötilaisuuden pelastussuunnitelma",
+      "text": "Yleisötilaisuuksiin ja muihin tapahtumiin, joihin osallistuvien ihmisten suuren määrän tai muun erityisen syyn vuoksi sisältyy merkittävä henkilö- tai paloturvallisuusriski, tilaisuuden järjestäjän on laadittava pelastussuunnitelma. Yleisötilaisuuden pelastussuunnitelmassa on selvitettävä ja arvioitava tilaisuuden vaarat ja riskit. Niiden perusteella määritellään tilaisuuden turvallisuusjärjestelyt sekä tilaisuuden toteuttamisesta vastaavalle henkilöstölle ja tilaisuuteen osallistuvalle yleisölle annettavat ohjeet onnettomuuksien ehkäisemiseksi ja onnettomuus- ja vaaratilanteessa toimimiseksi. Yleisötilaisuuden pelastussuunnitelma on toimitettava viimeistään 14 vuorokautta ennen tilaisuuden alkamista tiedoksi alueen pelastusviranomaiselle. Alueen pelastusviranomainen voi erityisestä syystä hyväksyä, että yleisötilaisuuden pelastussuunnitelma toimitetaan sille tiedoksi edellä mainitun määräajan jälkeen. Jos 2 momentissa tarkoitettu selvitys ja arvio tilaisuuden vaaroista ja riskeistä tai niiden perusteella määritellyt turvallisuusjärjestelyt ja ohjeet ovat alueen pelastusviranomaisen arvion mukaan puutteelliset, alueen pelastusviranomainen voi palauttaa suunnitelman täydennettäväksi. Alueen pelastusviranomaisen tulee myös tarvittaessa suorittaa kohteessa 80 §:n mukainen palotarkastus ja ryhtyä 81 ja 82 §:n mukaisiin toimenpiteisiin. Alueen pelastusviranomaisen tulee tarvittaessa ilmoittaa sille toimitetusta suunnitelmasta poliisille ja ensihoidosta vastaavalle terveysviranomaiselle. Räjähteiden tai palo- ja räjähdysvaarallisten kemikaalien käytöstä erikoistehosteena tulee ilmoittaa etukäteen alueen pelastusviranomaiselle siten kuin asiasta säädetään vaarallisten kemikaalien ja räjähteiden käsittelyn turvallisuudesta annetun lain (390/2005) 81 §:ssä. Valtioneuvoston asetuksella annetaan tarkempia säännöksiä yleisötilaisuuksista ja tapahtumista, joihin on laadittava yleisötilaisuuden pelastussuunnitelma. Yleisötilaisuuden pelastussuunnitelman sisällöstä voidaan antaa tarkempia säännöksiä valtioneuvoston asetuksella.",
+      "section_number": "16",
+      "chapter_number": 3,
+      "statute_id": "8/1955"
+    },
+    {
+      "id": "0220bc91-a3c1-41c6-8180-a5fd0ee863be",
+      "node_type": "Section",
+      "publisher": "finlex",
+      "title": "17 § Palovaroittimet",
+      "text": "Huoneiston haltija on velvollinen huolehtimaan siitä, että asunto varustetaan riittävällä määrällä palovaroittimia tai muita laitteita, jotka mahdollisimman aikaisin havaitsevat alkavan tulipalon ja varoittavat asunnossa olevia. Majoitustiloissa sekä 18 §:ssä tarkoitetuissa hoitolaitoksissa ja palvelu- ja tukiasumisessa 1 momentissa säädettyä vastaava velvollisuus on toiminnanharjoittajalla. Sisäasiainministeriön asetuksella voidaan antaa tarkempia säännöksiä 1 ja 2 momentissa tarkoitettujen laitteiden määrästä, sijoittamisesta sekä toiminnasta.",
+      "section_number": "17",
+      "chapter_number": 3,
+      "statute_id": "8/1955"
+    },
+    {
+      "id": "0cd8f977-e25a-4a4d-810b-66a4d1b3cf73",
+      "node_type": "Section",
+      "publisher": "finlex",
+      "title": "18 § Poistumisturvallisuus hoitolaitoksissa sekä palvelu- ja tukiasumisessa",
+      "text": "Sairaaloissa, vanhainkodeissa ja muussa laitoshuollossa, suljetuissa rangaistuslaitoksissa ja muissa näihin verrattavissa kohteissa (hoitolaitokset) sekä asumisyksikön muotoon järjestetyissä palvelu- ja tukiasunnoissa ja muissa näihin verrattavissa asuinrakennuksissa ja tiloissa, joissa asuvien toimintakyky on tavanomaista huonompi (palvelu- ja tukiasuminen), toiminnanharjoittajan on etukäteen laadituin selvityksin ja suunnitelmin ja niiden perusteella toteutetuin toimenpitein huolehdittava, että asukkaat ja hoidettavat henkilöt voivat poistua turvallisesti tulipalossa tai muussa vaaratilanteessa itsenäisesti tai avustettuina. Edellä 1 momentin mukaisella toiminnanharjoittajalla tarkoitetaan hoitolaitoksen ylläpidosta ja palvelu- ja tukiasumisen järjestämisestä huolehtivaa kuntaa ja muuta julkisoikeudellista yhteisöä. Toiminnanharjoittajalla tarkoitetaan myös yritystä ja muuta yhteisöä, joka kunnan tai muun julkisoikeudellisen yhteisön kanssa tehdyn sopimuksen perusteella tai muutoin vastaa tai huolehtii hoitolaitoksen ylläpidosta tai palvelu- ja tukiasumisen järjestämisestä.",
+      "section_number": "18",
+      "chapter_number": 3,
+      "statute_id": "8/1955"
+    },
+    {
+      "id": "218a47a3-442b-4c8e-bb7c-9c32573133d8",
+      "node_type": "Section",
+      "publisher": "finlex",
+      "title": "19 § Poistumisturvallisuusselvitys",
+      "text": "Edellä 18 §:ssä tarkoitetun toiminnanharjoittajan on laadittava selvitys siitä, miten rakennuksen tai tilan käyttötapa ja henkilöiden rajoittunut, heikentynyt tai poikkeava toimintakyky sekä muut poistumisturvallisuuteen vaikuttavat tekijät otetaan huomioon tulipaloihin ja muihin vaaratilanteisiin varautumisessa ja poistumisjärjestelyissä (poistumisturvallisuusselvitys). Rakennusluvan yhteydessä kohteeseen laadittu turvallisuusselvitys vastaa poistumisturvallisuusselvitystä. Poistumisturvallisuusselvitys on laadittava ennen toiminnan aloittamista ja päivitettävä vähintään kolmen vuoden välein tai toiminnan muuttuessa olennaisesti. Poistumisturvallisuusselvitys ja sen muutokset on toimitettava alueen pelastusviranomaiselle 20 §:n 1 momentissa tarkoitetun arvion tekemistä varten. Poistumisturvallisuusselvitys on toimitettava lisäksi tiedoksi rakennusvalvontaviranomaiselle. Valtioneuvoston asetuksella voidaan antaa tarkempia säännöksiä poistumisturvallisuusselvityksen laatimisesta ja päivittämisestä sekä selvityksen sisällöstä.",
+      "section_number": "19",
+      "chapter_number": 3,
+      "statute_id": "8/1955"
+    },
+    {
+      "id": "91e50bfd-b02c-40fd-bf77-b71930d92e8c",
+      "node_type": "Section",
+      "publisher": "finlex",
+      "title": "20 § Poistumisturvallisuuden arviointi ja poistumisturvallisuuden toteuttamissuunnitelma",
+      "text": "Alueen pelastusviranomaisen tulee arvioida poistumisturvallisuusselvityksen perusteella, täyttääkö poistumisturvallisuus 18 §:ssä säädetyt vaatimukset. Ennen 1 momentissa tarkoitetun asian ratkaisemista alueen pelastusviranomainen voi velvoittaa toiminnanharjoittajan määräajassa täydentämään 19 §:ssä tarkoitettua poistumisturvallisuusselvitystä ja toteuttamaan yhteistyössä pelastuslaitoksen kanssa kohteessa poistumiskokeen. Jos poistumisturvallisuus ei täytä 18 §:ssä säädettyjä vaatimuksia, toiminnanharjoittajan tulee laatia alueen pelastusviranomaisen asettamassa määräajassa suunnitelma poistumisturvallisuuden saattamiseksi laissa säädettyjen vaatimusten mukaiseksi.",
+      "section_number": "20",
+      "chapter_number": 3,
+      "statute_id": "8/1955"
+    },
+    {
+      "id": "afb9eae4-a1c6-4d67-8924-b22238eb818f",
+      "node_type": "Section",
+      "publisher": "finlex",
+      "title": "21 § Poistumisturvallisuuden toteuttamismääräys",
+      "text": "Jos toiminnanharjoittajan 20 §:n 3 momentin mukaisesti suunnittelemilla toimenpiteillä ei voida saattaa kohteen poistumisturvallisuutta vaatimusten mukaiseksi, alueen pelastusviranomaisen on annettava 81 §:n mukainen korjausmääräys, jonka yhteydessä voidaan myös määrätä 82 §:n mukaisia erityisiä turvallisuusvaatimuksia.",
+      "section_number": "21",
+      "chapter_number": 3,
+      "statute_id": "8/1955"
+    },
+    {
+      "id": "c578b4a6-3c30-44f3-8b68-11217e0f6b3a",
+      "node_type": "Section",
+      "publisher": "finlex",
+      "title": "22 § Turvetuotantoalueiden paloturvallisuus",
+      "text": "Turvetuotannossa tulee palovaaran vuoksi kiinnittää erityistä huomiota tulipalon ehkäisemiseen. Turvetuotanto on keskeytettävä, jos tulipalon vaara on ilmeinen tuulen tai muun syyn johdosta.",
+      "section_number": "22",
+      "chapter_number": 3,
+      "statute_id": "8/1955"
+    },
+    {
+      "id": "829d73b6-8b01-4449-9178-2522d6e68bca",
+      "node_type": "Section",
+      "publisher": "finlex",
+      "title": "23 § Sisäasiainministeriön ja aluehallintoviraston tehtävät",
+      "text": "Sisäasiainministeriö johtaa, ohjaa ja valvoo pelastustointa ja sen palvelujen saatavuutta ja tasoa, huolehtii pelastustoimen valtakunnallisista valmisteluista ja järjestelyistä, yhteensovittaa eri ministeriöiden ja toimialojen toimintaa pelastustoimessa ja sen kehittämisessä sekä huolehtii muista sisäasiainministeriölle tässä laissa säädetyistä tehtävistä. Aluehallintovirasto valvoo pelastustointa sekä pelastustoimen palvelujen saatavuutta ja tasoa toimialueellaan. Aluehallintovirasto tukee lisäksi sisäasiainministeriötä 1 momentissa säädetyissä tehtävissä sekä huolehtii muista aluehallintovirastolle tässä laissa säädetyistä tehtävistä. Sisäasiainministeriön ja aluehallintoviraston tehtävistä pelastustoimessa voidaan antaa tarkempia säännöksiä valtioneuvoston asetuksella.",
+      "section_number": "23",
+      "chapter_number": 4,
+      "statute_id": "8/1955"
+    },
+    {
+      "id": "0fcd54d1-6ae5-4d08-b9d3-dccc932dfeb8",
+      "node_type": "Section",
+      "publisher": "finlex",
+      "title": "24 § Kuntien vastuu pelastustoimesta",
+      "text": "Kunnat vastaavat pelastustoimesta yhteistoiminnassa pelastustoimen alueilla (alueen pelastustoimi) siten kuin tässä laissa jäljempänä tarkemmin säädetään. Valtioneuvosto päättää maan jakamisesta pelastustoimen alueisiin ja vahvistetun aluejaon muuttamisesta. Päätöksen aluejaon muuttamisesta valtioneuvosto tekee omasta tai pelastustoimen alueen kuntien kuntalain (365/1995) 79 §:n 1 momentin mukaisella enemmistöllä tekemästä aloitteesta. Aluejaon muuttamisen yhteydessä valtioneuvosto asettaa määräajan 3 momentissa tarkoitettujen voimassa olevien sopimusten muuttamiselle. Aluejakoa ja sen muuttamista koskevaa päätöstä tehtäessä on kuultava kuntia, joita aluejako tai sen muutos koskee. Pelastustoimen alueeseen kuuluvilla kunnilla tulee olla sopimus pelastustoimen järjestämisestä. Sopimuksen hyväksymiseen ja muuttamiseen sovelletaan, mitä kuntalain 79 §:n 1 momentissa säädetään kuntayhtymän perussopimuksen muuttamisesta. Sopimukseen sovelletaan muuten, mitä kuntien yhteistoiminnasta säädetään kuntalaissa. Jos kunnat eivät 2 momentissa tarkoitetun aluejaon muutoksen yhteydessä sovi pelastustoimen yhteistoiminnan järjestämisestä 3 momentissa tarkoitetulla tavalla valtioneuvoston asettamassa määräajassa, valtioneuvosto päättää kustannusten jaosta, hallintomallista, virkojen ja tehtävien järjestämisen perusteista ja muista 1 momentissa tarkoitetun yhteistoiminnan järjestämiseksi välttämättömistä asioista, joista kunnat eivät ole sopineet. Valtioneuvoston päätös on voimassa, kunnes asianomaisilla kunnilla on sopimus pelastustoimen järjestämisestä.",
+      "section_number": "24",
+      "chapter_number": 4,
+      "statute_id": "8/1955"
+    },
+    {
+      "id": "3682de20-ac70-4074-8c2d-eff3ad1c56a0",
+      "node_type": "Section",
+      "publisher": "finlex",
+      "title": "25 § Pelastuslaitos sekä sopimuspalokunnat ja muut vastaavat yhteisöt",
+      "text": "Pelastustoimen tehtävien hoitamista varten alueen pelastustoimella tulee olla pelastuslaitos. Alueen pelastustoimi voi käyttää 32 §:n mukaisessa pelastustoiminnassa apunaan vapaaehtoista palokuntaa, laitospalokuntaa, teollisuuspalokuntaa, sotilaspalokuntaa (sopimuspalokunnat) tai muuta pelastusalalla toimivaa yhteisöä sen mukaan kuin niiden kanssa sovitaan.",
+      "section_number": "25",
+      "chapter_number": 4,
+      "statute_id": "8/1955"
+    },
+    {
+      "id": "90d19513-cbc4-4532-b9c7-6c385960f992",
+      "node_type": "Section",
+      "publisher": "finlex",
+      "title": "26 § Pelastusviranomaiset",
+      "text": "Valtion pelastusviranomaisia ovat sisäasiainministeriön pelastusylijohtaja ja hänen määräämänsä sisäasiainministeriön ja aluehallintoviraston virkamiehet. Alueen pelastustoimen pelastusviranomaisia ovat pelastuslaitoksen ylin viranhaltija ja hänen määräämänsä pelastuslaitoksen viranhaltijat sekä alueen pelastustoimen asianomainen monijäseninen toimielin.",
+      "section_number": "26",
+      "chapter_number": 4,
+      "statute_id": "8/1955"
+    },
+    {
+      "id": "7523e144-655c-4e04-a992-4574bac2012c",
+      "node_type": "Section",
+      "publisher": "finlex",
+      "title": "27 § Alueen pelastustoimen ja pelastuslaitoksen tehtävät",
+      "text": "Alueen pelastustoimi vastaa pelastustoimen palvelutasosta, pelastuslaitoksen toiminnan ja nuohouspalvelujen asianmukaisesta järjestämisestä sekä muista tässä laissa sille säädetyistä tehtävistä. Pelastuslaitoksen tulee huolehtia alueellaan: Edellä 2 momentissa säädetyn lisäksi pelastuslaitos: Alueen pelastustoimen ja pelastuslaitoksen tehtävistä voidaan antaa tarkempia säännöksiä valtioneuvoston asetuksella.",
+      "section_number": "27",
+      "chapter_number": 4,
+      "statute_id": "8/1955"
+    },
+    {
+      "id": "88c48f32-9272-4d9c-b75f-b4d09e1d40f4",
+      "node_type": "Section",
+      "publisher": "finlex",
+      "title": "28 § Alueen pelastustoimen palvelutaso",
+      "text": "Pelastustoimen palvelutason tulee vastata paikallisia tarpeita ja onnettomuusuhkia. Palvelutasoa määriteltäessä on otettava huomioon myös toiminta poikkeusoloissa. Pelastuslaitokselle 27 §:n 2 momentissa säädetyt tehtävät on suunniteltava ja toteutettava siten, että ne voidaan hoitaa mahdollisimman tehokkaalla ja tarkoituksenmukaisella tavalla ja että onnettomuus- ja vaaratilanteissa tarvittavat toimenpiteet voidaan suorittaa viivytyksettä ja tehokkaasti. Olosuhteiden vaatiessa tehtävät on asetettava tärkeysjärjestykseen.",
+      "section_number": "28",
+      "chapter_number": 4,
+      "statute_id": "8/1955"
+    },
+    {
+      "id": "d99ae88e-6eea-4925-abff-9f45aa01b0ec",
+      "node_type": "Section",
+      "publisher": "finlex",
+      "title": "29 § Alueen pelastustoimen palvelutasopäätös",
+      "text": "Alueen pelastustoimi päättää palvelutasosta kuntia kuultuaan. Päätöksessä on selvitettävä alueella esiintyvät uhat, arvioitava niistä aiheutuvat riskit, määriteltävä toiminnan tavoitteet ja käytettävät voimavarat sekä palvelut ja niiden taso. Palvelutasopäätökseen tulee myös sisältyä suunnitelma palvelutason kehittämisestä. Päätös on voimassa määräajan. Palvelutasopäätös on toimitettava aluehallintovirastolle. Jos palvelutasopäätös on puutteellinen, aluehallintovirasto voi palauttaa asiakirjan täydennettäväksi. Sisäasiainministeriön asetuksella voidaan antaa tarkempia säännöksiä palvelutasopäätöksen sisällöstä ja rakenteesta.",
+      "section_number": "29",
+      "chapter_number": 4,
+      "statute_id": "8/1955"
+    },
+    {
+      "id": "1457e3c1-d0ab-47dd-86c2-b3b6d9eba230",
+      "node_type": "Section",
+      "publisher": "finlex",
+      "title": "30 § Sammutusvesi",
+      "text": "Pelastuslaitoksen tulee tehdä suunnitelma sammutusveden hankinnasta ja toimittamisesta (sammutusvesisuunnitelma) yhteistyössä pelastustoimen alueeseen kuuluvien kuntien ja pelastustoimen alueella toimintaa harjoittavien vesihuoltolaissa (119/2001) tarkoitettujen vesihuoltolaitosten sekä näille vettä toimittavien vesilaitosten kanssa. Sammutusvesisuunnitelma on laadittava siten, että sammutusveden hankinta ja toimittaminen vastaavat 29 §:ssä tarkoitetussa palvelutasopäätöksessä määriteltyjä onnettomuusuhkia. Sammutusvesisuunnitelman hyväksyy alueen pelastustoimi. Kunnan tulee huolehtia alueellaan sammutusveden hankinnasta pelastuslaitoksen tarpeisiin sammutusvesisuunnitelmassa määritellyllä tavalla. Kunnan tulee ottaa sammutusveden hankinta huomioon vesihuoltolain mukaisessa vesihuollon kehittämissuunnitelmassa sekä hyväksyessään vesihuoltolaitokselle vesihuoltolaissa tarkoitetun toiminta-alueen. Kunnan vastuulla olevaan sammutusveden hankintaan kuuluu lisäksi velvollisuus huolehtia sammutusvesisuunnitelmassa määriteltävistä sammutusveden ottopaikoista luonnonvesilähteisiin. Pelastustoimen alueeseen kuuluvat kunnat voivat edellä tässä momentissa säädetystä poiketen sopia siitä, että sammutusveden hankinnasta huolehtii alueen pelastustoimi. Sopimuksen hyväksymiseen ja muuttamiseen sovelletaan, mitä kuntalain 79 §:n 1 momentissa säädetään kuntayhtymän perussopimuksen muuttamisesta. Sopimukseen sovelletaan muuten, mitä kuntien yhteistoiminnasta säädetään kuntalaissa. Vesihuoltolaissa tarkoitetun vesihuoltolaitoksen ja tälle vettä toimittavan vesilaitoksen tulee toimittaa sammutusvettä vesijohtoverkostosta sammutusvesisuunnitelmassa määritellyllä tavalla pelastuslaitoksen tarpeisiin. Sammutusveden toimittamiseen kuuluu vedenhankinta ja johtaminen vesihuoltolaitoksen verkostoon kuuluviin paloposteihin ja sammutusvesiasemille. Lisäksi sammutusveden toimittamiseen kuuluu palopostien ja sammutusvesiasemien kunnossapito ja huolto. Sammutusveden toimittamisesta aiheutuvien kustannusten jakamisen perusteista sovitaan sammutusvesisuunnitelmassa sammutusveden hankinnasta 2 momentin mukaisesti vastaavan kunnan tai alueen pelastustoimen ja sammutusvettä toimittavan vesihuoltolaitoksen kesken.",
+      "section_number": "30",
+      "chapter_number": 4,
+      "statute_id": "8/1955"
+    },
+    {
+      "id": "897d0a93-0284-437e-b10a-2f617466698c",
+      "node_type": "Section",
+      "publisher": "finlex",
+      "title": "31 § Vastuu metsäpalojen tähystyksestä ja metsäpalovaroituksen antamisesta",
+      "text": "Aluehallintoviraston on järjestettävä harvaan asutulla seudulla tehokas metsäpalojen tähystys, jos metsäpalon vaara on ilmeinen. Ilmatieteen laitoksen tulee antaa metsäpalovaroitus alueelle, jossa metsäpalon vaaran arvioidaan maanpinnan kuivuuden ja sääolosuhteiden johdosta olevan ilmeinen. Ilmatieteen laitoksen tulee huolehtia siitä, että metsäpalovaroituksesta tiedotetaan tarpeellisessa laajuudessa.",
+      "section_number": "31",
+      "chapter_number": 4,
+      "statute_id": "8/1955"
+    },
+    {
+      "id": "8a0fa523-73b6-43e8-ac12-402aa3970880",
+      "node_type": "Section",
+      "publisher": "finlex",
+      "title": "32 § Pelastustoiminnan sisältö",
+      "text": "Pelastustoimintaan kuuluu: Pelastuslaitos vastaa pelastustoimintaan kuuluvien tehtävien hoitamisesta, kun tulipalo, muu onnettomuus tai niiden uhka vaatii kiireellisiä toimenpiteitä ihmisen hengen tai terveyden, omaisuuden tai ympäristön suojaamiseksi tai pelastamiseksi eivätkä toimenpiteet ole onnettomuuden tai sen uhan kohteeksi joutuneen omin toimin hoidettavissa tai kuulu muun viranomaisen tai organisaation hoidettavaksi.",
+      "section_number": "32",
+      "chapter_number": 5,
+      "statute_id": "8/1955"
+    },
+    {
+      "id": "11a7acd2-00ed-41aa-b639-484dd1f5a1df",
+      "node_type": "Section",
+      "publisher": "finlex",
+      "title": "33 § Hälytysohje",
+      "text": "Pelastuslaitoksen tulee yhteistyössä pelastustoimintaan osallistuvien, virka-apua antavien viranomaisten sekä Hätäkeskuslaitoksen kanssa laatia hälytysohje pelastustoiminnassa tarvittavien voimavarojen hälyttämisestä. Hälytysohjeessa tulee ottaa huomioon myös pelastuslaitosten 44 §:n mukainen yhteistoiminta ja 45 §:n mukainen avunanto. Hälytysohje on laadittava siten, että hätäkeskus voi hälyttää pelastustoimintaan lähimmät tarkoituksenmukaiset yksiköt riippumatta siitä, miltä alueelta ne ovat. Pelastuslaitosten on huolehdittava hälytysohjeiden valtakunnallisesta yhteensovittamisesta sekä pelastuslaitosten kesken että Hätäkeskuslaitoksen kanssa.",
+      "section_number": "33",
+      "chapter_number": 5,
+      "statute_id": "8/1955"
+    },
+    {
+      "id": "48335a79-6cf3-498f-b484-28ab44a686fb",
+      "node_type": "Section",
+      "publisher": "finlex",
+      "title": "34 § Pelastustoiminnan johtaminen",
+      "text": "Pelastustoiminnan johtaja on siltä pelastustoimen alueelta, jossa onnettomuus tai vaaratilanne on saanut alkunsa, jollei toisin ole sovittu. Pelastustoimintaa johtaa pelastusviranomainen. Pelastustoimintaa voi kuitenkin tilapäisesti johtaa muu pelastuslaitoksen palveluksessa oleva tai sopimuspalokuntaan kuuluva siihen saakka, kun toimivaltainen pelastusviranomainen ottaa pelastustoiminnan johtaakseen. Pelastustoiminnan johtaja toimii virkavastuun alaisena. Sisäasiainministeriön pelastusviranomaisella on oikeus antaa pelastustoimintaa koskevia käskyjä ja määrätä pelastustoiminnan johtajasta ja hänen toimialueestaan toisin kuin 1 momentissa on säädetty. Jos eri viranomaisille ja tahoille kuuluvien vastuiden ja toimivaltuuksien selkiyttämiseksi on tarpeen, pelastustoiminnan johtajan tulee tehdä pelastustoiminnan aloittamisesta tai lopettamisesta nimenomainen päätös. Päätöksestä on ilmoitettava asianomaisille viranomaisille ja asianosaisille heti, kun se on mahdollista. Pyydettäessä päätös on vahvistettava kirjallisesti. Jälkiraivaukseen ja -vartiointiin liittyvästä pelastustoiminnan johtajan päätöksestä lopettaa pelastustoiminta säädetään 40 §:ssä.",
+      "section_number": "34",
+      "chapter_number": 5,
+      "statute_id": "8/1955"
+    },
+    {
+      "id": "43ccfaa0-47d0-487e-a2c3-0aae8eafbc72",
+      "node_type": "Section",
+      "publisher": "finlex",
+      "title": "35 § Johtaminen yhteistoimintatilanteessa",
+      "text": "Jos pelastustoimintaan osallistuu useamman toimialan viranomaisia, tilanteen yleisjohtajana toimii pelastustoiminnan johtaja. Yleisjohtaja vastaa tilannekuvan ylläpitämisestä ja toiminnan yhteensovittamisesta. Eri toimialojen yksiköt toimivat oman johtonsa alaisuudessa siten, että niiden toimenpiteet kokonaisuudessaan edistävät onnettomuuden tai tilanteen seurausten tehokasta torjuntaa. Tilanteen yleisjohtaja voi muodostaa avukseen viranomaisten, laitosten ja toimintaan osallistuvien vapaaehtoisten yksiköiden edustajista koostuvan johtoryhmän ja kutsua asiantuntijoita avukseen.",
+      "section_number": "35",
+      "chapter_number": 5,
+      "statute_id": "8/1955"
+    },
+    {
+      "id": "5c0c757d-ef98-42c8-9355-52baf1907c58",
+      "node_type": "Section",
+      "publisher": "finlex",
+      "title": "36 § Pelastustoiminnan johtajan toimivaltuudet",
+      "text": "Tulipalon sammuttamiseksi ja sen leviämisen estämiseksi sekä muun onnettomuuden torjumiseksi ja vahinkojen rajoittamiseksi sekä vaaran välttämiseksi alueen pelastusviranomaisella ja sisäasiainministeriön pelastusviranomaisella on oikeus, jos tilanteen hallitseminen ei muutoin ole mahdollista: Edellä 34 §:n 1 momentissa tarkoitettu tilapäisesti pelastustoimintaa johtava henkilö voi tilanteen niin vaatiessa käyttää tämän pykälän 1 momentin 1 ja 2 kohdassa tarkoitettuja pelastusviranomaisen toimivaltuuksia siinä määrin kuin ne ovat välttämättömiä ihmisten, omaisuuden ja ympäristön pelastamiseksi ja suojaamiseksi sekä onnettomuudesta aiheutuvien vahinkojen rajoittamiseksi ja onnettomuuden seurauksien lieventämiseksi. Edellä 1 momentin 3 kohdassa tarkoitettua omaisuutta, jota omaisuuden omistaja tai haltija itse tarvitsee samanaikaisesti tulipalon tai muun onnettomuuden torjumiseksi, ei saa määrätä luovutettavaksi, ellei se ole välttämätöntä ihmishengen pelastamiseksi. Pelastuslaitos suorittaa käyttöön otetusta omaisuudesta täyden korvauksen sekä korvaa käyttöön otetulle omaisuudelle aiheutuneen vahingon.",
+      "section_number": "36",
+      "chapter_number": 5,
+      "statute_id": "8/1955"
+    },
+    {
+      "id": "829bc1e7-dcd9-4ad2-8898-7fc345f80398",
+      "node_type": "Section",
+      "publisher": "finlex",
+      "title": "37 § Velvollisuus osallistua pelastustoimintaan",
+      "text": "Jos ihmisen pelastamiseksi tai onnettomuuden torjumiseksi on välttämätöntä, pelastustoiminnan johtajalla on oikeus määrätä palo- ja onnettomuuspaikalla tai sen läheisyydessä oleva työkykyinen henkilö, jolla ei ole pätevää syytä esteenä, avustamaan pelastustoiminnassa. Pelastusviranomaisella on vastaavassa tilanteessa oikeus, jos tilanteen hallitseminen ei muuten ole mahdollista, määrätä onnettomuuskunnassa oleskelevia työkykyisiä henkilöitä viipymättä saapumaan palo- tai onnettomuuspaikalle ja avustamaan pelastustoiminnassa. Tehtävästä on oikeus kieltäytyä vain pätevästä syystä. Onnettomuus- ja vaaratilanteissa ovat muutkin palokunnat kuin 25 §:ssä tarkoitetut sopimuspalokunnat pelastustoiminnan johtajan yleisen määräysvallan alaisia, teollisuus- tai muun laitoksen palokunta kuitenkin vain, jos laitoksen turvallisuus ei siitä vaarannu. Edellä 1 momentissa tarkoitettu määräys voidaan antaa olemaan voimassa kunnes järjestäytynyttä apua on riittävästi palo- tai onnettomuuspaikalla. Määräys voidaan antaa kuitenkin enintään vuorokauden ajaksi kerrallaan ja se voidaan uudistaa enintään yhden kerran. Pelastustoimintaa avustamaan määrätyllä henkilöllä on oikeus saada todistus pelastustyöhön osallistumisesta. Pelastustoimintaan määrätty ei saa lähteä palo- tai onnettomuuspaikalta, ennen kuin pelastustoiminnan johtaja on antanut siihen luvan.",
+      "section_number": "37",
+      "chapter_number": 5,
+      "statute_id": "8/1955"
+    },
+    {
+      "id": "27cb8143-6019-44b6-bc0e-496478740d7c",
+      "node_type": "Section",
+      "publisher": "finlex",
+      "title": "38 § Kansainvälinen pelastustoiminta",
+      "text": "Sen lisäksi, mitä valtioiden välillä on sovittu, sisäasiainministeriö voi Euroopan unionin, toisen valtion tai kansainvälisen järjestön esittämän pyynnön perusteella päättää pelastustoimeen kuuluvan avun antamisesta ulkomaille, milloin avun antaminen ihmisten, ympäristön tai omaisuuden turvaamiseksi on perusteltua. Sisäasiainministeriö voi myös pyytää tarvittaessa pelastustoimeen kuuluvaa kansainvälistä apua Euroopan unionilta, toiselta valtiolta tai kansainväliseltä järjestöltä.",
+      "section_number": "38",
+      "chapter_number": 5,
+      "statute_id": "8/1955"
+    },
+    {
+      "id": "33e84259-38e9-47c3-adbf-15b8645c5cb6",
+      "node_type": "Section",
+      "publisher": "finlex",
+      "title": "39 § Pelastustoimintaan osallistuvan toimintakyky",
+      "text": "Pelastuslaitoksen ja sopimuspalokunnan henkilöstöön kuuluvan pelastustoimintaan osallistuvan henkilön tulee ylläpitää tehtäviensä edellyttämiä perustaitoja ja kuntoa. Pelastustoimintaan kuuluvien eri tehtävien edellyttämien perustaitojen ja kunnon tasosta sekä kuntotestien järjestämisestä voidaan antaa tarkempia säännöksiä sisäasiainministeriön asetuksella.",
+      "section_number": "39",
+      "chapter_number": 5,
+      "statute_id": "8/1955"
+    },
+    {
+      "id": "503cdf56-aeb9-4084-b05f-756db471f560",
+      "node_type": "Section",
+      "publisher": "finlex",
+      "title": "40 § Jälkiraivaus ja -vartiointi",
+      "text": "Kohteen omistaja on velvollinen huolehtimaan tulipalon jälkiraivauksesta ja -vartioinnista sen jälkeen, kun tilanne ei enää vaadi pelastuslaitoksen toimenpiteitä. Ajankohdan ratkaisee pelastustoiminnan johtaja. Pelastustoiminnan johtajan tulee tehdä 34 §:n 3 momentissa tarkoitettu päätös pelastustoiminnan lopettamisesta ja ilmoittaa siitä kohteen omistajalle. Pyydettäessä päätös on vahvistettava kirjallisesti. Jos kohteen omistajaa ei tavoiteta tai tämä ei huolehdi jälkiraivauksen ja -vartioinnin suorittamisesta, alueen pelastusviranomaisella on oikeus teettää välttämättömät toimenpiteet omistajan kustannuksella.",
+      "section_number": "40",
+      "chapter_number": 5,
+      "statute_id": "8/1955"
+    },
+    {
+      "id": "519612ea-6aa6-48fa-9995-1b1e012244be",
+      "node_type": "Section",
+      "publisher": "finlex",
+      "title": "41 § Palontutkinta",
+      "text": "Pelastuslaitoksen on suoritettava palontutkinta. Palontutkinnan tavoitteena on vastaavien onnettomuuksien ehkäisy ja vahinkojen rajoittaminen sekä pelastustoiminnan ja toimintavalmiuksien kehittäminen. Palontutkinnassa arvioidaan tulipalon syttymissyy ja selvitetään tarvittavassa laajuudessa palon syttymiseen ja leviämiseen vaikuttaneet tekijät, palosta aiheutuneet vahingot ja vahinkojen laajuuteen vaikuttaneet tekijät sekä pelastustoiminnan kulku. Selvityksen laajuuteen vaikuttaa erityisesti palon seurausten vakavuus. Tiedot palontutkinnasta tallennetaan 91 §:ssä tarkoitettuun toimenpiderekisteriin. Jos on aihetta epäillä, että tulipalo tai muu onnettomuus on aiheutettu tahallisesti tai tuottamuksellisesti, pelastusviranomaisen on ilmoitettava asiasta poliisille. Poliisille on ilmoitettava myös palontutkinnan yhteydessä havaituista palo- ja henkilöturvallisuusrikkomuksista. Poliisin on toimitettava poliisilain (493/1995) 37 §:n mukainen poliisitutkinta palonsyyn selvittämiseksi sellaisissa tulipaloissa, joista seurauksena on ollut henkilön kuolema, vakava henkilövahinko tai huomattava omaisuusvahinko.",
+      "section_number": "41",
+      "chapter_number": 5,
+      "statute_id": "8/1955"
+    },
+    {
+      "id": "b478e334-b93b-4eb9-b9dd-9edd44d7f230",
+      "node_type": "Section",
+      "publisher": "finlex",
+      "title": "42 § Yhteistyö onnettomuuksien ehkäisemisessä",
+      "text": "Pelastuslaitoksen tulee onnettomuuksien ehkäisemiseksi ja turvallisuuden ylläpitämiseksi toimia yhteistyössä muiden viranomaisten sekä alueella olevien yhteisöjen ja asukkaiden kanssa sekä osallistua paikalliseen ja alueelliseen turvallisuussuunnittelutyöhön. Jos viranomaiset virkatoimiensa yhteydessä havaitsevat tai muutoin saavat tietää rakennuksessa, asunnossa tai muussa kohteessa ilmeisen palonvaaran tai muun onnettomuusriskin, heidän tulee mahdollisten salassapitosäännösten estämättä ilmoittaa asiasta alueen pelastusviranomaiselle. Ilmoitusvelvollisuus koskee myös kuntaa, muuta julkisyhteisöä ja näiden palveluksessa olevaa henkilöstöä sekä 18 §:n 2 momentissa tarkoitettua hoitolaitoksen ylläpidosta ja palvelu- ja tukiasumisen järjestämisestä huolehtivaa toiminnanharjoittajaa ja tämän palveluksessa olevaa henkilöstöä.",
+      "section_number": "42",
+      "chapter_number": 6,
+      "statute_id": "8/1955"
+    },
+    {
+      "id": "a807d7d0-023c-4975-b548-cc5e0c11a202",
+      "node_type": "Section",
+      "publisher": "finlex",
+      "title": "43 § Onnettomuuskehityksen seuranta",
+      "text": "Pelastuslaitoksen tulee seurata onnettomuusuhkien sekä onnettomuuksien määrän ja syiden kehitystä ja niistä tehtävien johtopäätösten perusteella ryhtyä osaltaan toimenpiteisiin onnettomuuksien ehkäisemiseksi ja niihin varautumiseksi sekä tarvittaessa tehdä esityksiä muille viranomaisille ja tahoille.",
+      "section_number": "43",
+      "chapter_number": 6,
+      "statute_id": "8/1955"
+    },
+    {
+      "id": "431350fa-e54b-40f0-b3d8-17d998514528",
+      "node_type": "Section",
+      "publisher": "finlex",
+      "title": "44 § Pelastuslaitosten yhteistoiminta",
+      "text": "Alueen pelastustoimi voi sopia tämän lain mukaisten tehtävien hoitamisesta myös toisella pelastustoimen alueella.",
+      "section_number": "44",
+      "chapter_number": 6,
+      "statute_id": "8/1955"
+    },
+    {
+      "id": "ff9b268a-b14d-42b1-bda4-87fbeb030df0",
+      "node_type": "Section",
+      "publisher": "finlex",
+      "title": "45 § Pelastuslaitosten avunanto",
+      "text": "Pelastuslaitoksen tulee tarvittaessa antaa apua toiselle pelastuslaitokselle pelastustoiminnassa ja laatia yhteistyössä tarpeelliset pelastuslaitosten yhteistyösuunnitelmat avun antamiseen varautumisesta sekä avun pyytämisestä ja antamisesta. Pelastuslaitosten yhteistyösuunnitelmat on otettava huomioon laadittaessa 33 §:n mukaista hälytysohjetta.",
+      "section_number": "45",
+      "chapter_number": 6,
+      "statute_id": "8/1955"
+    },
+    {
+      "id": "b00d87b7-523b-4828-bc4e-52cf62f49f5e",
+      "node_type": "Section",
+      "publisher": "finlex",
+      "title": "46 § Yhteistyö pelastustoiminnassa",
+      "text": "Valtion ja kunnan viranomaiset, laitokset ja liikelaitokset ovat velvollisia osallistumaan pelastuslaitoksen johdolla pelastustoiminnan suunnitteluun siten kuin 47 §:ssä säädetään sekä toimimaan onnettomuus- ja vaaratilanteissa niin, että pelastustoiminta voidaan toteuttaa tehokkaasti. Edellä 1 momentissa säädetyssä tarkoituksessa: Viranomaisten, laitosten ja liikelaitosten yhteistyöstä pelastustoiminnassa voidaan antaa tarkempia säännöksiä valtioneuvoston asetuksella.",
+      "section_number": "46",
+      "chapter_number": 6,
+      "statute_id": "8/1955"
+    },
+    {
+      "id": "15ad2406-bf5a-4461-bfe3-a995211dfe14",
+      "node_type": "Section",
+      "publisher": "finlex",
+      "title": "47 § Pelastustoimen suunnitelmat",
+      "text": "Viranomaiset, laitokset ja liikelaitokset, jotka ovat velvollisia antamaan pelastusviranomaisille virka-apua ja asiantuntija-apua tai joiden asiantuntemusta muutoin tarvitaan pelastustoiminnassa ja siihen varautumisessa, ovat velvollisia laatimaan pelastuslaitoksen johdolla ja yhteistoiminnassa keskenään tarpeelliset suunnitelmat tehtäviensä hoitamisesta pelastustoiminnan yhteydessä ja osallistumisesta pelastustoimintaan. Pelastuslaitokselle on annettava selvitykset pelastustoimintaan käytettävissä olevista voimavaroista.",
+      "section_number": "47",
+      "chapter_number": 6,
+      "statute_id": "8/1955"
+    },
+    {
+      "id": "fd522919-4695-41cc-834d-ed72c47b7dfd",
+      "node_type": "Section",
+      "publisher": "finlex",
+      "title": "48 § Erityistä vaaraa aiheuttavien kohteiden ulkoinen pelastussuunnitelma",
+      "text": "Pelastuslaitoksen on laadittava onnettomuuden varalle ulkoinen pelastussuunnitelma yhteistyössä asianomaisen toiminnanharjoittajan kanssa alueille, joilla on: Ulkoisessa pelastussuunnitelmassa määritellään toimenpiteet, joilla onnettomuudet ja niistä aiheutuvat seuraukset voidaan rajata ja hallita mahdollisimman tehokkaasti. Suunnitelmaa laadittaessa pelastuslaitoksen on kuultava vaaralle alttiiksi joutuvaa väestöä sekä oltava riittävässä yhteistyössä oman alueen ja naapurialueiden viranomaisten kanssa. Pelastuslaitoksen ja toiminnanharjoittajan on huolehdittava yhteistyössä suunnitelmasta tiedottamisesta sekä järjestettävä harjoituksia pelastussuunnitelman toimivuuden varmistamiseksi. Ulkoisen pelastussuunnitelman ja harjoitusten toteutumista valvoo aluehallintovirasto. Tapahtuneesta onnettomuudesta on tehtävä merkinnät 91 §:ssä tarkoitettuun toimenpiderekisteriin. Sisäasiainministeriön asetuksella annetaan tarkempia säännöksiä ulkoisen pelastussuunnitelman laatimisesta, uusimisesta ja sisällöstä, väestön kuulemisesta suunnitelman laatimisen yhteydessä ja suunnitelmasta tiedottamisesta, suunnitelman mukaisista harjoituksista, suunnitelman ja harjoitusten toteutumisen valvonnasta sekä asianomaisissa kohteissa tapahtuneita onnettomuuksia koskevien tietojen merkitsemisestä pelastustoimen toimenpiderekisteriin.",
+      "section_number": "48",
+      "chapter_number": 6,
+      "statute_id": "8/1955"
+    },
+    {
+      "id": "6b8dc38a-24f8-45a3-8935-33850e7ab509",
+      "node_type": "Section",
+      "publisher": "finlex",
+      "title": "49 § Velvollisuus antaa virka-apua ja asiantuntija-apua pelastusviranomaisille",
+      "text": "Sen lisäksi mitä 46 §:ssä säädetään viranomaisten yhteistyöstä pelastustoiminnassa, valtion ja kunnan viranomaiset ja laitokset sekä metsäkeskuksista ja metsätalouden kehittämiskeskuksesta annetussa laissa (1474/1995) tarkoitetut metsäkeskukset ovat velvollisia antamaan pyynnöstä pelastusviranomaisille toimialaansa kuuluvaa tai siihen muuten soveltuvaa virka-apua. Poliisi on lisäksi velvollinen antamaan virka-apua, joka on tarpeen 80 §:n mukaisen palotarkastuksen ja muun valvontatehtävän toimittamiseksi, 81 §:n 3 momentissa tarkoitetun onnettomuusvaaran estämiseksi sekä 88 §:n mukaisen tiedonsaantioikeuden toteuttamiseksi. Metsähallitus on velvollinen antamaan pelastusviranomaisille asiantuntija-apua metsäpalojen torjunnassa ja varautumaan omatoimisesti hallinnassaan olevalla valtion maalla tapahtuvien metsäpalojen ehkäisyyn ja torjuntaan yhteistyössä pelastusviranomaisten kanssa. Päätöksen 1 ja 2 momentissa tarkoitetun virka-avun ja 3 momentissa tarkoitetun asiantuntija-avun pyytämisestä tekee asianomainen pelastusviranomainen. Virka- ja asiantuntija-avusta voidaan antaa tarkempia säännöksiä valtioneuvoston asetuksella.",
+      "section_number": "49",
+      "chapter_number": 6,
+      "statute_id": "8/1955"
+    },
+    {
+      "id": "966b2f04-1507-4e7f-8210-ff7bdd31b7cb",
+      "node_type": "Section",
+      "publisher": "finlex",
+      "title": "50 § Pelastusviranomaisen virka-apu muille viranomaisille",
+      "text": "Pelastusviranomainen voi antaa toimialaansa soveltuvaa virka-apua valtion tai kunnan viranomaisen ja laitoksen laissa säädetyn tehtävän suorittamiseksi. Virka-avun antamisesta voidaan antaa tarkempia säännöksiä valtioneuvoston asetuksella.",
+      "section_number": "50",
+      "chapter_number": 6,
+      "statute_id": "8/1955"
+    },
+    {
+      "id": "658d247d-a0e1-40a1-a8cc-551eaa80d394",
+      "node_type": "Section",
+      "publisher": "finlex",
+      "title": "51 § Vapaaehtoistoiminta",
+      "text": "Pelastustoimen koulutus-, neuvonta- ja valistustehtävissä sekä pelastustoiminnassa voidaan käyttää apuna vapaaehtoisia organisaatioita ja henkilöitä, ei kuitenkaan tehtävissä, joihin sisältyy merkittävää julkisen vallan käyttöä, kuten viranomaistoimivaltuuksien käyttöä taikka tarkastus- tai valvontatoimintaa. Vapaaehtoisten osallistumisesta pelastustoimeen voidaan antaa tarkempia säännöksiä valtioneuvoston asetuksella.",
+      "section_number": "51",
+      "chapter_number": 7,
+      "statute_id": "8/1955"
+    },
+    {
+      "id": "75907ece-8230-443c-ae4b-e7cb2935f5f2",
+      "node_type": "Section",
+      "publisher": "finlex",
+      "title": "52 § Vapaaehtoistoiminnan edistäminen",
+      "text": "Pelastustoimen viranomaisten tulee mahdollisuuksiensa mukaan edistää pelastustoimen tehtävissä käytettävien vapaaehtoisten organisaatioiden toimintaedellytyksiä.",
+      "section_number": "52",
+      "chapter_number": 7,
+      "statute_id": "8/1955"
+    },
+    {
+      "id": "eb4fdb28-e0cc-4a75-9779-62a76ddb064d",
+      "node_type": "Section",
+      "publisher": "finlex",
+      "title": "53 § Sopimuspalokuntaan ja muuhun vastaavaan yhteisöön kuuluvan terveystarkastukset",
+      "text": "Tämän lain 25 §:ssä tarkoitettuun sopimuspalokuntaan ja muuhun sopimuksen tehneeseen yhteisöön kuuluvalle savusukeltajalle ja muuta vastaavaa raskasta työtä tekevälle on järjestettävä pelastustoimintaan kuuluvasta työstä ja työolosuhteista johtuvien terveysvaarojen ja -haittojen ehkäisemiseksi ja torjumiseksi sekä henkilön turvallisuuden, työkyvyn ja terveyden suojelemiseksi ja edistämiseksi tarkoitetut tehtävien edellyttämät työterveyshuoltolain (1383/2001) 12 §:ssä säädettyjä tarkastuksia vastaavat terveystarkastukset ja muut ennalta ehkäisevät palvelut siltä osin kuin hänellä ei ole oikeutta työterveyshuoltolaissa tarkoitettuun työterveyshuoltoon työsuhteen perusteella. Edellä 1 momentissa tarkoitettujen palveluiden järjestämisestä tulee sopia 25 §:ssä tarkoitetussa sopimuksessa.",
+      "section_number": "53",
+      "chapter_number": 7,
+      "statute_id": "8/1955"
+    },
+    {
+      "id": "013e1e22-2782-4a5a-aa65-7b268c188ca2",
+      "node_type": "Section",
+      "publisher": "finlex",
+      "title": "54 § Sopimuspalokuntaan kuuluvan ja vapaaehtoishenkilöstön työturvallisuus",
+      "text": "Tämän lain 25 §:n mukaiseen sopimuspalokuntaan kuuluvan pelastustoimintaan osallistuvan työturvallisuuteen sovelletaan työturvallisuuslakia (738/2002). Pelastustoimintaan muutoin kuin 1 momentissa tarkoitetulla tavalla vapaaehtoisesti osallistuvan työturvallisuuteen sovelletaan työturvallisuuslain 55 §:ää.",
+      "section_number": "54",
+      "chapter_number": 7,
+      "statute_id": "8/1955"
+    },
+    {
+      "id": "314f788d-3c27-4de6-9337-3b125c00725d",
+      "node_type": "Section",
+      "publisher": "finlex",
+      "title": "55 § Valtion vastuu koulutuksesta",
+      "text": "Valtio huolehtii pelastustoimen ammatillisesta koulutuksesta ja muusta pelastustoimeen liittyvästä koulutuksesta siten kuin Pelastusopistosta annetussa laissa (607/2006) säädetään. Sisäasiainministeriö voi hyväksyä myös muun julkisyhteisön ylläpitämän oppilaitoksen kuin Pelastusopiston antamaan pelastusalan ammatillista peruskoulutusta. Oppilaitoksen henkilöstön kelpoisuuteen, oppilaitoksen antamaan koulutukseen, opetukseen ja tutkintoihin sekä opiskelijan oikeuksiin ja velvollisuuksiin sovelletaan Pelastusopistosta annettua lakia. Oppilaitoksen opetuksessa noudatetaan Pelastusopiston opetussuunnitelmia. Oppilaitos asettaa oikaisu- ja kurinpitolautakunnan. Lautakuntaan sovelletaan Pelastusopiston oikaisu- ja kurinpitolautakuntaa koskevia säännöksiä. Tarkempia säännöksiä lautakunnasta voidaan antaa valtioneuvoston asetuksella.",
+      "section_number": "55",
+      "chapter_number": 8,
+      "statute_id": "8/1955"
+    },
+    {
+      "id": "7eef81f0-fab4-432c-a69f-e1bf678794b3",
+      "node_type": "Section",
+      "publisher": "finlex",
+      "title": "56 § Pelastuslaitoksen vastuu koulutuksesta",
+      "text": "Pelastuslaitoksen tulee huolehtia siitä, että sen sivutoimisella henkilöstöllä sekä 25 §:ssä tarkoitetun sopimuspalokunnan ja muun sopimuksen tehneen yhteisön henkilöstöllä on riittävä koulutus pelastustoimintaan.",
+      "section_number": "56",
+      "chapter_number": 8,
+      "statute_id": "8/1955"
+    },
+    {
+      "id": "96beea7a-03c2-4694-8aad-474a826058a5",
+      "node_type": "Section",
+      "publisher": "finlex",
+      "title": "57 § Pelastustoimen henkilöstön kelpoisuusvaatimukset",
+      "text": "Pelastustoimintaan osallistuvalta pelastuslaitoksen päätoimiselta miehistöltä, alipäällystöltä ja päällystöltä vaaditaan virkaa tai tehtävää vastaava pelastusalan tutkinto. Pelastustoimintaan osallistuvalta sivutoimiselta ja 25 §:ssä tarkoitetulta sopimuspalokuntaan ja muuhun sopimuksen tehneeseen yhteisöön kuuluvalta henkilöltä vaaditaan riittävä koulutus. Koulutusvaatimuksiin kuuluvien pelastustoimen kurssien opetussuunnitelmat vahvistaa Pelastusopisto. Valtioneuvoston asetuksella voidaan antaa tarkempia säännöksiä 1 ja 2 momentissa tarkoitetuista tutkinnoista ja koulutuksesta.",
+      "section_number": "57",
+      "chapter_number": 8,
+      "statute_id": "8/1955"
+    },
+    {
+      "id": "3e31367d-c877-4589-919b-c642729989b1",
+      "node_type": "Section",
+      "publisher": "finlex",
+      "title": "58 § Erivapaudet",
+      "text": "Sisäasiainministeriö voi erityisistä syistä antaa erivapauden tässä laissa säädetyistä kelpoisuusvaatimuksista pelastuslaitoksen virkaan tai tehtävään.",
+      "section_number": "58",
+      "chapter_number": 8,
+      "statute_id": "8/1955"
+    },
+    {
+      "id": "01808fba-0670-447d-9332-6246355aa360",
+      "node_type": "Section",
+      "publisher": "finlex",
+      "title": "59 § Nuohouksen järjestäminen",
+      "text": "Alueen pelastustoimi päättää nuohouspalvelujen järjestämisestä alueellaan. Alueen pelastustoimi voi alueellaan tai osassa sitä: Alueen pelastustoimen järjestäessä nuohouspalvelut 2 momentin 1 tai 2 kohdassa tarkoitetulla tavalla se päättää myös nuohouksesta perittävästä maksusta. Rakennuksen omistajan, haltijan ja huoneiston haltijan 13 §:ssä säädetty velvollisuus huolehtia siitä, että tulisijat ja savuhormit on huollettu ja puhdistettu voidaan toteuttaa ainoastaan alueen pelastustoimen 1 momentin mukaisesti päättämän palvelujen tuottajan toimesta. Pelastuslaitos voi kuitenkin yksittäisen kohteen osalta antaa luvan siihen, että nuohouksen suorittaa joku muu kuin nuohooja.",
+      "section_number": "59",
+      "chapter_number": 9,
+      "statute_id": "8/1955"
+    },
+    {
+      "id": "ea7f8977-fa53-46c2-9d89-a90a92cb2e7c",
+      "node_type": "Section",
+      "publisher": "finlex",
+      "title": "60 § Nuohoustyön sisältö",
+      "text": "Nuohouksessa puhdistetaan tulisija ja savuhormi niihin liittyvine osineen sekä tarkastetaan tulisijan ja savuhormin kunto. Nuohoojan tulee antaa asiakkaalle todistus suoritetusta nuohouksesta. Sisäasiainministeriön asetuksella voidaan antaa tarkempia säännöksiä nuohoustyön sisällöstä ja nuohoustyöstä annettavasta todistuksesta.",
+      "section_number": "60",
+      "chapter_number": 9,
+      "statute_id": "8/1955"
+    },
+    {
+      "id": "8aebf238-9990-4f97-baa2-5c332128b5da",
+      "node_type": "Section",
+      "publisher": "finlex",
+      "title": "61 § Vioista ilmoittaminen",
+      "text": "Jos nuohooja havaitsee tulisijoissa ja savuhormeissa vikoja tai puutteita, joista voi aiheutua tulipalon vaara, hänen on ilmoitettava niistä kirjallisesti nuohottavan kohteen edustajalle ja pelastuslaitokselle. Jos nuohooja toteaa tikkaiden, kattokulkutien osien tai katon turvavarusteiden olevan sellaisessa kunnossa, ettei nuohoustyötä voida suorittaa turvallisesti, on hänen ilmoitettava myös niistä kirjallisesti nuohottavan kohteen edustajalle ja pelastuslaitokselle.",
+      "section_number": "61",
+      "chapter_number": 9,
+      "statute_id": "8/1955"
+    },
+    {
+      "id": "d3ade7b5-f23b-4c95-b171-b61254f3f4b0",
+      "node_type": "Section",
+      "publisher": "finlex",
+      "title": "62 § Nuohousluettelo",
+      "text": "Nuohoustoiminnan harjoittajan tulee pitää luetteloa nuohoamistaan kohteista ja antaa luettelosta pyydettäessä maksutta tietoja pelastuslaitokselle. Tietoja tulee säilyttää kymmenen vuoden ajan toimenpiteen suorittamisesta.",
+      "section_number": "62",
+      "chapter_number": 9,
+      "statute_id": "8/1955"
+    },
+    {
+      "id": "d6783933-9d4e-4c4a-9f44-c38159e03f06",
+      "node_type": "Section",
+      "publisher": "finlex",
+      "title": "63 § Nuohoojan kelpoisuus",
+      "text": "Nuohoojan ammatin harjoittajalta, hänen palveluksessaan olevalta itsenäisesti nuohoustyötä tekevältä ja pelastuslaitoksen palveluksessa olevalta nuohoojalta vaaditaan nuohoojan ammattitutkinto. Edellä 1 momentissa säädetystä poiketen nuohoojan ammattitutkintoa suorittava henkilö on koulutuksen aikana kolmen vuoden ajan kelpoinen toimimaan nuohoojana itsenäisesti, jos hän on suorittanut nuohoojan ammattitutkintoon kuuluvat tulisijojen ja savuhormien nuohousta ja kiinteistöjen turvallisuuden tarkkailua koskevat osiot. Nuohouspalvelujen tuottajan tulee riittävällä tavalla ohjata ja valvoa ammattitutkintoa suorittavan henkilön itsenäistä nuohoustyötä.",
+      "section_number": "63",
+      "chapter_number": 9,
+      "statute_id": "8/1955"
+    },
+    {
+      "id": "24f05681-ea8b-48c3-ad6a-7a0c7293a6e5",
+      "node_type": "Section",
+      "publisher": "finlex",
+      "title": "64 § Pelastustoimen varautuminen väestönsuojeluun",
+      "text": "Pelastustoimen viranomaisten on varauduttava toimintansa hoitamiseen poikkeusoloissa riittävin suunnitelmin ja etukäteen tapahtuvin valmisteluin kouluttamalla ja varaamalla henkilöstöä ja väestönsuojelun johto- ja erityishenkilöstöä poikkeusolojen tehtäviin, huolehtimalla johtamis-, valvonta- ja hälytysjärjestelmien perustamisesta ja ylläpidosta, varautumalla evakuointeihin sekä huolehtimalla muistakin näitä vastaavista toimenpiteistä. Edellä 1 momentissa säädetyn lisäksi viranomaisten varautumisesta poikkeusoloihin säädetään valmiuslaissa. Kukin viranomainen huolehtii poikkeusolojen väestönsuojelutehtäviin tarvitsemansa henkilöstön varaamisesta ja kouluttamisesta. Pelastustoimen viranomaiset huolehtivat pelastustoimintaan liittyvän poikkeusolojen toiminnan ja suunnitelmien yhteensovittamisesta.",
+      "section_number": "64",
+      "chapter_number": 10,
+      "statute_id": "8/1955"
+    },
+    {
+      "id": "8b36f599-e473-474c-8a12-88647f73eff9",
+      "node_type": "Section",
+      "publisher": "finlex",
+      "title": "65 § Palvelussuhteeseen liittyvät tehtävät väestönsuojelussa",
+      "text": "Valtion ja kunnan viranomaisen, laitoksen ja liikelaitoksen sekä muun julkisyhteisön vastuulla olevat väestönsuojelutehtävät ja niihin varautuminen kuuluvat niissä palvelevan viran- tai toimenhaltijan virkavelvollisuuksiin ja työsopimussuhteessa olevan henkilön tehtäviin. Edellä sanottu koskee myös näiden tehtävien suorittamista varten tarpeelliseen koulutukseen osallistumista.",
+      "section_number": "65",
+      "chapter_number": 10,
+      "statute_id": "8/1955"
+    },
+    {
+      "id": "9024276f-3fcf-46c0-9b2c-525439282549",
+      "node_type": "Section",
+      "publisher": "finlex",
+      "title": "66 § Geneven yleissopimusten mukainen suojelu",
+      "text": "Väestönsuojelutehtäviä hoitava henkilöstö nauttii aseellisissa selkkauksissa humanitäärisiä tehtäviä suorittaessaan kunnioitusta ja suojelua, josta on sovittu Geneven yleissopimuksissa sekä kansainvälisten aseellisten selkkausten uhrien suojelemisesta ja kansainvälistä luonnetta vailla olevien aseellisten selkkausten uhrien suojelemisesta tehdyssä Geneven yleissopimusten I lisäpöytäkirjan 61 artiklassa. Sama koskee artiklassa määritellyissä tehtävissä käytettävää materiaalia. Sisäasiainministeriö päättää tilanteen niin edellyttäessä, mitä henkilöitä ja materiaalia 1 momentissa tarkoitettu suojelu koskee.",
+      "section_number": "66",
+      "chapter_number": 10,
+      "statute_id": "8/1955"
+    },
+    {
+      "id": "de75eb52-e716-48ac-9d32-4e0c718b3800",
+      "node_type": "Section",
+      "publisher": "finlex",
+      "title": "67 § Velvollisuus osallistua väestönsuojelukoulutukseen",
+      "text": "Sisäasiainministeriö ja aluehallintovirasto voivat määrätä väestönsuojelun johto- ja muun erityishenkilöstön osallistumaan Pelastusopiston järjestämään väestönsuojelukoulutukseen enintään kymmeneksi vuorokaudeksi vuodessa.",
+      "section_number": "67",
+      "chapter_number": 10,
+      "statute_id": "8/1955"
+    },
+    {
+      "id": "8bc521b3-93e6-4a99-9c7a-44da647809f1",
+      "node_type": "Section",
+      "publisher": "finlex",
+      "title": "68 § Väestönsuojelukoulutuksesta vapauttaminen",
+      "text": "Pelastusopisto voi väestönsuojelukoulutukseen määrätyn henkilön hakemuksesta myöntää lykkäystä tai vapautuksen koulutukseen osallistumisesta vamman tai sairauden tai muun pätevän syyn johdosta.",
+      "section_number": "68",
+      "chapter_number": 10,
+      "statute_id": "8/1955"
+    },
+    {
+      "id": "a4b98473-d268-41d5-a1d6-6630d6459fdf",
+      "node_type": "Section",
+      "publisher": "finlex",
+      "title": "69 § Väestönsuojelukoulutukseen osallistuvien terveydenhuolto",
+      "text": "Väestönsuojelukoulutukseen määrätyllä on koulutuksen aikana oikeus saada maksutta terveyden- ja sairaanhoitoa sekä lääkkeitä, jos hän sairastuu koulutuksen kestäessä hoitoa vaativaan sairauteen. Opiskelijalla on myös oikeus maksuttomaan lääkärin suorittamaan tulotarkastukseen, jos hän koulutukseen saapuessaan ilmoittaa olevansa sairas tai terveydentilansa vuoksi muuten kykenemätön osallistumaan koulutukseen ja Pelastusopisto ei katso voivansa vapauttaa opiskelijaa koulutuksesta.",
+      "section_number": "69",
+      "chapter_number": 10,
+      "statute_id": "8/1955"
+    },
+    {
+      "id": "2eddcb35-8f36-42b3-a170-effe5fea7da8",
+      "node_type": "Section",
+      "publisher": "finlex",
+      "title": "70 § Väestönsuojelukoulutukseen osallistuvien taloudelliset edut",
+      "text": "Väestönsuojelukoulutukseen määräyksestä osallistuvat saavat Pelastusopistolta ilmaisen majoituksen sekä matkakustannusten korvausta valtion virkamiesten matkakustannusten korvaamista koskevien virkaehtosopimusmääräysten mukaisesti. Muille kuin julkisyhteisöjen palveluksessa oleville koulutettaville voidaan tarvittaessa maksaa valtion virkaehtosopimuksen mukaisen päivärahan sijasta koulutusajalta reservin kertausharjoituksiin kutsutun asevelvollisen reserviläispalkkaa vastaavaa korvausta ja päivärahaa.",
+      "section_number": "70",
+      "chapter_number": 10,
+      "statute_id": "8/1955"
+    },
+    {
+      "id": "bc4fae98-9c83-49c3-85a1-bb096d4af4d1",
+      "node_type": "Section",
+      "publisher": "finlex",
+      "title": "71 § Väestönsuojan rakentamisvelvollisuus uudisrakentamisen yhteydessä",
+      "text": "Rakennuksen omistajan on uudisrakentamisen yhteydessä tehtävä rakennukseen tai sen läheisyyteen väestönsuoja, jonka suuruudeltaan voidaan arvioida riittävän rakennuksessa asuvia, pysyvästi työskenteleviä tai muutoin oleskelevia henkilöitä varten. Väestönsuojan rakentamisvelvollisuus ei kuitenkaan koske tilapäistä enintään viisi vuotta käytössä olevaa rakennusta. Väestönsuoja on rakennettava rakennusta tai samalla tontilla tai rakennuspaikalla olevaa rakennusryhmää varten, jos sen kerrosala on vähintään 1 200 neliömetriä ja siinä asutaan tai työskennellään tai oleskellaan muutoin pysyvästi. Teollisuus-, tuotanto-, varasto- ja kokoontumisrakennusta varten väestönsuoja on edellä tässä momentissa säädetystä poiketen rakennettava, jos rakennuksen tai rakennusryhmän kerrosala  on  vähintään 1500 neliömetriä. Väestönsuojan rakentamisvelvollisuutta ei kuitenkaan ole, jos tontilla tai rakennuspaikalla tai yhteisessä väestönsuojassa on ennestään tässä laissa ja sen nojalla annetuissa asetuksissa säädetty määrä vaatimukset täyttäviä suojapaikkoja. Samalla tontilla tai rakennuspaikalla jo olevia rakennuksia, joita varten on väestönsuoja, ei oteta huomioon uudisrakennuksen väestönsuojan rakentamisvelvollisuutta määrättäessä eikä myöskään rakennuksia, joiden osittaisesta loppukatselmuksesta on kulunut yli viisi vuotta ennen rakennuslupahakemuksen vireille tuloa. Rakennusluvan myöntävä viranomainen voi alueen pelastusviranomaista kuultuaan sallia rakennettavaksi kahta tai useampaa rakennusta varten yhteisen väestönsuojan, jos se rakennetaan viiden vuoden kuluessa ensimmäisen rakennuksen osittaisesta loppukatselmuksesta.",
+      "section_number": "71",
+      "chapter_number": 11,
+      "statute_id": "8/1955"
+    },
+    {
+      "id": "ca1a4816-da28-484d-893b-128e3fd168c5",
+      "node_type": "Section",
+      "publisher": "finlex",
+      "title": "72 § Väestönsuojan kunnostamisvelvollisuus muutos- ja korjaustyön yhteydessä",
+      "text": "Jos rakennuksessa, jossa on väestönsuoja, tehdään maankäyttö- ja rakennuslain (132/1999) 125 §:n mukainen rakennuksen rakentamiseen verrattavissa oleva korjaus- tai muutostyö tai käyttötarkoituksen muutos, myös väestönsuoja on kunnostettava siten, että se täyttää soveltuvin osin 74 §:ssä ja sen nojalla säädetyt väestönsuojan teknisiä yksityiskohtia koskevat vaatimukset.",
+      "section_number": "72",
+      "chapter_number": 11,
+      "statute_id": "8/1955"
+    },
+    {
+      "id": "bc795e83-a4eb-4d84-9019-7c59506fddc5",
+      "node_type": "Section",
+      "publisher": "finlex",
+      "title": "73 § Poikkeus väestönsuojan rakentamisvelvollisuudesta",
+      "text": "Tämän lain väestönsuojan rakentamisvelvollisuutta koskevat säännökset eivät koske maatilatalouden tuotantorakennuksia taikka olemassa olevassa rakennuksessa tehtävää rakennuksen rakentamiseen verrattavaa rakennuslupaa edellyttävää korjaus- tai muutostyötä, joka samalla lisää rakennuksen kerrosalaa kellarissa tai ullakolla.",
+      "section_number": "73",
+      "chapter_number": 11,
+      "statute_id": "8/1955"
+    },
+    {
+      "id": "0112271c-a5ec-4783-b754-35f906656d9a",
+      "node_type": "Section",
+      "publisher": "finlex",
+      "title": "74 § Väestönsuojien rakenteelliset ja muut vaatimukset",
+      "text": "Väestönsuojan tulee antaa siinä oleskeleville suoja asevaikutuksilta ja rakennussortumilta sekä ionisoivalta säteilyltä ja myrkyllisiltä aineilta. Väestönsuojan lämpötilan, ilmanlaadun ja hygieenisen varustetason tulee olla tilan käyttötarkoitus huomioon ottaen riittävä. Valtioneuvoston asetuksella annetaan tarkempia säännöksiä suojan koosta, rakenteesta ja sijainnista. Väestönsuojan teknisistä yksityiskohdista annetaan tarkempia säännöksiä sisäasiainministeriön asetuksella. Väestönsuojan rakentamisessa ja varustamisessa käytettäville laitteille ja tuotteille asetettavista vaatimuksista, laitteisiin tehtävistä merkinnöistä sekä laitteiden mukana toimitettavista tiedoista ja ohjeista säädetään pelastustoimen laitteista annetussa laissa (10/2007).",
+      "section_number": "74",
+      "chapter_number": 11,
+      "statute_id": "8/1955"
+    },
+    {
+      "id": "1a375d3c-43a3-4809-a807-41b37fc0cc42",
+      "node_type": "Section",
+      "publisher": "finlex",
+      "title": "75 § Helpotusten myöntäminen",
+      "text": "Aluehallintovirasto voi asianomaista pelastuslaitosta ja kunnan rakennusvalvontaviranomaista kuultuaan yksittäistapauksessa myöntää vapautuksen kokonaan tai määräajaksi laissa säädetystä väestönsuojan rakentamisvelvollisuudesta, jos väestönsuojan rakentamisesta aiheutuu tavanomaista huomattavasti korkeampia rakentamiskustannuksia suhteessa asianomaisen rakennuksen rakentamiskustannuksiin tai väestönsuojan rakentaminen ilman suuria teknisiä vaikeuksia ei käy päinsä. Rakennusluvan myöntävä viranomainen voi asianomaista pelastuslaitosta kuultuaan myöntää poikkeuksen väestönsuojalle sisäasiainministeriön asetuksella säädetyistä teknisistä vaatimuksista tai valtioneuvoston asetuksella väestönsuojalle säädetystä koko- ja sijaintivaatimuksesta, jos siihen on perusteltu syy eikä poikkeuksen tekeminen olennaisesti heikennä suojautumismahdollisuuksia. Sisäasiainministeriö voi kunnan hakemuksesta myöntää vapautuksen väestönsuojien rakentamisesta tietyllä alueella, jos siellä arvioidaan olevan ennestään riittävä määrä suojapaikkoja tai väestön suojaaminen on turvattu muulla tavoin.",
+      "section_number": "75",
+      "chapter_number": 11,
+      "statute_id": "8/1955"
+    },
+    {
+      "id": "2b2c62d4-c0df-4136-b596-3fd45b7ab0a8",
+      "node_type": "Section",
+      "publisher": "finlex",
+      "title": "76 § Väestönsuojan käyttö normaalioloissa ja käyttöönottovalmius",
+      "text": "Väestönsuoja sekä väestönsuojeluvälineet ja -laitteet on pidettävä sellaisessa kunnossa, että väestönsuoja voidaan ottaa käyttöön 72 tunnissa.",
+      "section_number": "76",
+      "chapter_number": 11,
+      "statute_id": "8/1955"
+    },
+    {
+      "id": "390fda77-55d1-480f-b766-ebb13db63e93",
+      "node_type": "Section",
+      "publisher": "finlex",
+      "title": "77 § Poikkeusolojen johtamisedellytysten varmistaminen",
+      "text": "Pelastuslaitoksen tulee järjestää pelastustoiminnan johtamistilat ja muut edellytykset siten, että johtaminen on mahdollista myös poikkeusoloissa.",
+      "section_number": "77",
+      "chapter_number": 11,
+      "statute_id": "8/1955"
+    },
+    {
+      "id": "9a715404-01d5-4001-8668-26a1b75fa6cc",
+      "node_type": "Section",
+      "publisher": "finlex",
+      "title": "78 § Pelastuslaitoksen valvontatehtävä",
+      "text": "Pelastuslaitoksen on alueellaan valvottava 2 ja 3 luvun säännösten noudattamista. Valvonnan suorittamiseksi pelastuslaitoksen on tehtävä palotarkastuksia ja muita valvontatehtävän edellyttämiä toimenpiteitä.",
+      "section_number": "78",
+      "chapter_number": 12,
+      "statute_id": "8/1955"
+    },
+    {
+      "id": "ed52d7bf-73f7-403f-9d06-2e47379b5d4b",
+      "node_type": "Section",
+      "publisher": "finlex",
+      "title": "79 § Valvontasuunnitelma",
+      "text": "Pelastuslaitoksen on laadittava valvontasuunnitelma valvontatehtävän toteuttamisesta. Valvonnan on perustuttava riskien arviointiin, ja sen tulee olla laadukasta, säännöllistä ja tehokasta. Valvontasuunnitelmassa on määritettävä suoritettavat palotarkastukset ja muut valvontatoimenpiteet sekä kuvattava, miten valvontasuunnitelman toteutumista arvioidaan. Valvontasuunnitelman tulee perustua alueen pelastustoimen palvelutasopäätökseen. Valvontasuunnitelma on tarkistettava vuosittain ja muutoinkin, jos tarkistamiseen on erityinen syy. Valvontasuunnitelma on toimitettava tiedoksi aluehallintovirastolle. Valtioneuvoston asetuksella voidaan antaa tarkempia säännöksiä valvonnassa käytettävistä riskien arvioimisen perusteista, palotarkastusten ja muiden valvontatoimenpiteiden määrittelystä sekä valvontasuunnitelman toteutumisen arvioinnista.",
+      "section_number": "79",
+      "chapter_number": 12,
+      "statute_id": "8/1955"
+    },
+    {
+      "id": "a323f485-61c2-4382-862f-66cb1d47424e",
+      "node_type": "Section",
+      "publisher": "finlex",
+      "title": "80 § Palotarkastuksen ja muun valvontatehtävän toimittaminen",
+      "text": "Palotarkastuksia ja muita 78 §:n mukaisen valvontatehtävän edellyttämiä toimenpiteitä saa suorittaa alueen pelastusviranomainen. Palotarkastus saadaan suorittaa rakennuksessa ja rakennelmassa, niihin kuuluvissa huoneistoissa ja asunnoissa sekä muissa kohteissa. Palotarkastuksen suorittaja on päästettävä kaikkiin tarkastettaviin tiloihin ja kohteisiin. Tarkastettavan kohteen edustajan on esitettävä säädöksissä vaaditut suunnitelmat, muut asiakirjat ja järjestelyt. Kiinteistön omistajan, haltijan ja toiminnanharjoittajan on pyynnöstä toimitettava alueen pelastusviranomaiselle maksutta 15 §:ssä tarkoitettu pelastussuunnitelma ja mahdolliset muut sellaiset kohteen palo- ja poistumisturvallisuudesta laaditut asiakirjat, joita alueen pelastusviranomainen tarvitsee 78 §:n mukaisessa valvontatehtävässään. Palotarkastuksesta on laadittava pöytäkirja, jossa tulee riittävästi yksilöidä tarkastuskohde, tarkastuksen kulku, tarkastajan tekemät keskeiset havainnot, tarkastettavan kohteen edustajan esittämä selvitys sekä johtopäätökset ja niiden perustelut. Pöytäkirja on myös laadittava, jos alueen pelastusviranomainen muutoin valvonnan yhteydessä antaa 81 §:ssä tarkoitetun korjausmääräyksen tai keskeyttää välittömän tulipalon tai muun onnettomuuden vaaraa aiheuttavan toiminnan. Pöytäkirja on viipymättä annettava tiedoksi asianosaisille.",
+      "section_number": "80",
+      "chapter_number": 12,
+      "statute_id": "8/1955"
+    },
+    {
+      "id": "262631a9-4f51-4846-85e5-2bdcd117d56d",
+      "node_type": "Section",
+      "publisher": "finlex",
+      "title": "81 § Korjausmääräys ja toiminnan keskeyttäminen",
+      "text": "Jos alueen pelastusviranomainen valvontatehtävää suorittaessaan havaitsee puutteita tässä laissa säädettyjen velvoitteiden toteuttamisessa, pelastusviranomaisen on määrättävä ne korjattaviksi. Jos puutteita ei voida heti korjata, korjaamiselle tulee antaa määräaika. Jos alueen pelastusviranomainen tämän lain mukaista valvontatehtävää suorittaessaan havaitsee puutteita muussa laissa säädettyjen velvoitteiden toteuttamisessa ja arvioi puutteiden aiheuttavan vakavaa vaaraa henkilöturvallisuudelle, pelastusviranomainen voi määrätä puutteet korjattaviksi. Jos puutteita ei voida heti korjata, asiasta tulee ilmoittaa asianomaiselle valvontaviranomaiselle. Jos valvontatehtävässä tai muutoin havaittu puutteellisuus tai virheellinen menettely aiheuttaa välittömän tulipalon tai muun onnettomuuden vaaran, pelastusviranomaisella on oikeus tarvittaessa heti keskeyttää toiminta ja määrätä onnettomuuden ehkäisemiseksi välttämättömistä toimenpiteistä. Määräystä on heti noudatettava.",
+      "section_number": "81",
+      "chapter_number": 12,
+      "statute_id": "8/1955"
+    },
+    {
+      "id": "ee43dae1-7196-44ed-9fce-a41146abb120",
+      "node_type": "Section",
+      "publisher": "finlex",
+      "title": "82 § Erityiset turvallisuusvaatimukset",
+      "text": "Kohteeseen, jossa harjoitettu toiminta tai olosuhteet aiheuttavat henkilö- tai paloturvallisuudelle tai ympäristölle tavanomaista suuremman vaaran, alueen pelastusviranomainen voi, jos se on välttämätöntä, määrätä toiminnanharjoittajan hankkimaan tarkoituksenmukaista sammutuskalustoa ja muita pelastustyötä helpottavia laitteita tai asentamaan automaattisen sammutuslaitteiston taikka ryhtymään kohteessa muihin välttämättömiin toimenpiteisiin onnettomuuksien ehkäisemiseksi sekä ihmisten ja omaisuuden turvaamiseksi onnettomuuden varalta. Alueen pelastusviranomaisen tulee kuulla maankäyttö- ja rakennuslain 124 §:ssä tarkoitettua kunnan rakennusvalvontaviranomaista valmisteltaessa 1 momentissa tarkoitettua määräystä kohteessa edellytettävistä turvallisuusvaatimuksista, jos turvallisuusvaatimusten toteuttaminen edellyttää rakennuslupaa tai toimenpidelupaa.",
+      "section_number": "82",
+      "chapter_number": 12,
+      "statute_id": "8/1955"
+    },
+    {
+      "id": "075d5916-c673-4590-817a-29ba7f7ed207",
+      "node_type": "Section",
+      "publisher": "finlex",
+      "title": "83 § Puolustusvoimien salassa pidettävät kohteet",
+      "text": "Mitä 78 §:ssä säädetään, ei koske sellaisia puolustusvoimien hallinnassa olevia kohteita, jotka valtakunnan turvallisuuden vuoksi on pidettävä salassa ja joiden valvontatehtävästä puolustusvoimat on alueen pelastusviranomaiselle ilmoittanut pitävänsä huolta. Puolustusvoimat vastaa näiden kohteiden palotarkastuksista. Tarkastustoiminnasta voidaan antaa tarkempia säännöksiä puolustusministeriön asetuksella.",
+      "section_number": "83",
+      "chapter_number": 12,
+      "statute_id": "8/1955"
+    },
+    {
+      "id": "ca86a8a3-cfb7-405a-ad0e-bb236719e178",
+      "node_type": "Section",
+      "publisher": "finlex",
+      "title": "84 § Valmiuden tarkastaminen",
+      "text": "Pelastusviranomaiset voivat tehdä tarkastuksia tässä laissa säädettyjen suuronnettomuuksien ja poikkeusolojen varautumisjärjestelyjen valvomiseksi. Tarkastuksen toimittajalla on oikeus päästä tarkastettaviin tiloihin ja saada selvityksiä tässä laissa vaadituista varautumista koskevista suunnitelmista ja muista järjestelyistä. Tarkastusta ei kuitenkaan saa toimittaa pysyväisluonteiseen asumiseen käytetyissä tiloissa eikä 83 §:ssä tarkoitetuissa kohteissa.",
+      "section_number": "84",
+      "chapter_number": 12,
+      "statute_id": "8/1955"
+    },
+    {
+      "id": "f9fff4b7-4f9a-4e15-a04c-8931ccd8e5a0",
+      "node_type": "Section",
+      "publisher": "finlex",
+      "title": "85 § Alueen pelastustoimen palvelutason valvonta",
+      "text": "Aluehallintoviraston tehtävänä on valvoa, että alueen pelastustoimen palvelutaso on riittävä. Tässä tarkoituksessa aluehallintovirastolla on oikeus salassapitosäännösten estämättä saada maksutta alueen pelastustoimelta tarpeellisia tietoja ja selvityksiä. Jos palvelutasossa on huomattavia epäkohtia eikä niitä korjata aluehallintoviraston asettamassa määräajassa, aluehallintovirasto voi 105 §:n 2 momentissa säädetyllä tavalla velvoittaa alueen pelastustoimen saattamaan palvelut tässä laissa vaaditulle tasolle.",
+      "section_number": "85",
+      "chapter_number": 12,
+      "statute_id": "8/1955"
+    },
+    {
+      "id": "5bd62dd4-6d90-4fff-bbc3-987e461744b4",
+      "node_type": "Section",
+      "publisher": "finlex",
+      "title": "86 § Vaitiolovelvollisuus",
+      "text": "Pelastustoimen palveluksessa oleva tai pelastustoimintaan osallistuva sekä tämän lain 107 §:ssä tarkoitettu tutkintalautakunnan jäsen ja asiantuntija eivät saa pelastustoimeen kuulumattomalla tavalla käyttää hyödykseen eivätkä luvatta ilmaista muille tässä tehtävässään tietoon saamaansa seikkaa, jos siitä on laissa säädetty salassapitovelvollisuus taikka jos se koskee yksityistä liike- tai ammattisalaisuutta, taloudellista asemaa, henkilökohtaisia olosuhteita tai terveydentilaa. Salassa pidettävän tiedon ilmaisemisesta viranomaiselle tai julkista tehtävää hoitavalle toimielimelle säädetään lailla. Vaitiolovelvollisuus ei estä ilmaisemasta sellaista tietoa, jonka ilmaiseminen on yksittäistapauksessa tarpeen hengen tai terveyden suojaamiseksi tai huomattavan ympäristö- tai omaisuusvahingon välttämiseksi. Rangaistus tässä pykälässä säädetyn salassapitovelvollisuuden rikkomisesta tuomitaan rikoslain (39/1889) 38 luvun 1 tai 2 §:n mukaan, jollei teko ole rangaistava rikoslain 40 luvun 5 §:n mukaan.",
+      "section_number": "86",
+      "chapter_number": 13,
+      "statute_id": "8/1955"
+    },
+    {
+      "id": "02c1815d-d3c6-43ad-879f-e5ea44a9e954",
+      "node_type": "Section",
+      "publisher": "finlex",
+      "title": "87 § Velvollisuus tilastotietojen antamiseen",
+      "text": "Alueen pelastusviranomaisen tulee toimittaa pelastustoimen suoritteista, voimavaroista, järjestelyistä ja muusta varautumisesta sekä toimenpiderekisteristä maksutta sisäasiainministeriölle, aluehallintovirastolle ja Pelastusopistolle tietoja, jotka ovat tarpeen tilastojen tekemistä varten. Tiedot voidaan tarvittaessa luovuttaa teknisen käyttöyhteyden avulla, ja ne voivat sisältää myös salassa pidettäviä tietoja. Valtioneuvoston asetuksella voidaan antaa tarkempia säännöksiä tilastotietojen antamisesta.",
+      "section_number": "87",
+      "chapter_number": 13,
+      "statute_id": "8/1955"
+    },
+    {
+      "id": "250cd0ca-8d3b-4fcf-ad66-5a43ae617fa8",
+      "node_type": "Section",
+      "publisher": "finlex",
+      "title": "88 § Tiedonsaantioikeus palon- ja onnettomuuden tutkinnassa",
+      "text": "Tämän lain 41 §:n mukaista palontutkintaa suorittavalla alueen pelastusviranomaisella ja 107 §:n mukaista onnettomuuden tutkintaa suorittamaan määrätyllä tutkintalautakunnan jäsenellä ja asiantuntijalla on oikeus päästä onnettomuuskohteeseen ja ottaa näytteitä sekä saada salassapitosäännösten estämättä maksutta tutkinnassa välttämättömiä tietoja ja asiakirjoja onnettomuuskohteen edustajalta ja viranomaisilta.",
+      "section_number": "88",
+      "chapter_number": 13,
+      "statute_id": "8/1955"
+    },
+    {
+      "id": "90ae3a11-1bb0-4881-bce8-4508dcba31fa",
+      "node_type": "Section",
+      "publisher": "finlex",
+      "title": "89 § Tiedonsaantioikeus pelastustoimintaa ja valvontatehtäviä varten",
+      "text": "Pelastusviranomaisella on sille tässä laissa säädettyjen tehtävien suorittamiseksi oikeus salassapitosäännösten estämättä saada maksutta pelastustoiminnan suunnittelussa ja toteutuksessa sekä pelastustoimelle säädettyjen valvontatehtävien hoitamisessa tarpeellisia tietoja. Tässä tarkoituksessa pelastusviranomaisella on oikeus saada tietoja: Edellä 1 momentissa säädetyssä tarkoituksessa pelastusviranomaisella on lisäksi oikeus saada maksutta ja salassapitosäännösten estämättä 90 §:n 3 momentissa tarkoitetut tiedot. Edellä tässä pykälässä tarkoitetut tiedot on oikeus saada myös teknisen käyttöyhteyden avulla tai muuten sähköisessä muodossa. Mitä 1—3 momentissa säädetään, ei koske 83 §:ssä tarkoitettua salassa pidettävää kohdetta. Puolustusvoimien tulee kuitenkin antaa alueen pelastusviranomaiselle ja hätäkeskukselle pelastustehtävän asianmukaisen ja turvallisen suorittamisen edellyttämät tiedot kohteesta.",
+      "section_number": "89",
+      "chapter_number": 13,
+      "statute_id": "8/1955"
+    },
+    {
+      "id": "fe70433b-91d9-4565-b126-3e851d421dfc",
+      "node_type": "Section",
+      "publisher": "finlex",
+      "title": "90 § Oikeus saada tietoja väestönsuojelutehtäviä varten",
+      "text": "Pelastusviranomaisella on oikeus salassapitosäännösten estämättä henkilöstön varaamiseksi väestönsuojelutehtäviin saada maksutta: Pelastusviranomaisella on oikeus salassapitosäännösten estämättä väestönsuojelua varten saada viranomaisen hallussa olevasta rekisteristä maksutta tiedot rakennuksista, kiinteistöistä ja huonetiloista, niiden omistajista ja haltijoista sekä käytöstä siten yksilöityinä ja ryhmiteltyinä kuin väestönsuojelua ja sen valmistelua varten on tarpeellista. Pelastusviranomaisella sekä liikenne- ja viestintäministeriöllä on oikeus salassapitosäännösten estämättä evakuointia ja muuta väestönsuojelua varten saada maksutta tietoja ajoneuvoliikennerekisteristä annetun lain (541/2003): Pelastusviranomaisella sekä liikenne- ja viestintäministeriöllä on lisäksi salassapitosäännösten estämättä oikeus saada maksutta tietoja viranomaisten poikkeusolojen varaustietoihin perustuvasta valtakunnallisesta tiekuljetusten ohjauksen tietojärjestelmästä. Edellä tässä pykälässä tarkoitetut tiedot on oikeus saada myös teknisen käyttöyhteyden avulla tai muuten sähköisessä muodossa.",
+      "section_number": "90",
+      "chapter_number": 13,
+      "statute_id": "8/1955"
+    },
+    {
+      "id": "cf7c2990-d31b-454e-91cf-036db669218e",
+      "node_type": "Section",
+      "publisher": "finlex",
+      "title": "91 § Toimenpiderekisteri",
+      "text": "Pelastuslaitos saa pitää pelastustoimen seurantaa ja kehittämistä varten henkilörekisteriä, johon saadaan tallentaa ne hätäkeskustoiminnasta annetun lain 16 §:ssä tarkoitettuun hätäkeskustietojärjestelmään tallennettavat tiedot, jotka hätäkeskus on luovuttanut pelastusviranomaisen vastuulliselle rekisterinpitäjälle hätäkeskustoiminnasta annetun lain 20 §:n nojalla. Rekisterin teknisestä ylläpidosta huolehtii Pelastusopisto. Edellä 1 momentissa tarkoitettujen tietojen lisäksi toimenpiderekisteriin saadaan tallentaa pelastuslaitoksen pelastuslain tai muun lain nojalla hoitamista tehtävistä tiedot, jotka koskevat: Pelastuslaitoksen, sopimuspalokuntien ja 25 §:ssä tarkoitettujen muiden yhteisöjen sopimusperusteisesti hoitamista ensivaste-, ensihoito- ja sairaankuljetustehtävistä saadaan tallentaa 2 momentin 1, 2, 5 ja 6 kohdassa tarkoitetut tiedot. Tietoja toimenpiderekisteriin saavat tallentaa ja käsitellä pelastusviranomaiset sekä 34 §:ssä tarkoitettu muu pelastustoiminnan johtaja niistä tehtävistä, joissa hän on toiminut pelastustoiminnan johtajana. Rekisterissä olevat tiedot saadaan luovuttaa salassapitosäännösten estämättä: Tiedot voidaan luovuttaa myös teknisen käyttöyhteyden avulla tai muuten sähköisessä muodossa. Pelastusopisto ja 55 §:n 2 momentissa tarkoitettu oppilaitos saavat käyttää rekisterissä olevia tietoja opetustoiminnassaan. Pelastusopisto saa käyttää lisäksi rekisterissä olevia tietoja tilastojen laatimista varten. Toimenpiderekisteristä saadaan muodostaa vain sellaisia tilastoja, joista henkilöiden yksilöinti ei ole mahdollista. Muutoin tietojen luovuttamisesta säädetään viranomaisten toiminnan julkisuudesta annetussa laissa (621/1999). Henkilötieto tulee poistaa toimenpiderekisteristä, kun sen säilyttämistä edellä mainitussa tarkoituksessa ei enää voida pitää perusteltuna, kuitenkin viimeistään viiden vuoden kuluttua tiedon tallentamisesta. Henkilötietolain (523/1999) 11 §:n 1 momentin 3 ja 4 kohdassa tarkoitettu arkaluonteinen tieto tulee kuitenkin poistaa viimeistään kahden vuoden kuluttua.",
+      "section_number": "91",
+      "chapter_number": 13,
+      "statute_id": "8/1955"
+    },
+    {
+      "id": "c8a04e5d-3afe-4959-9fbb-a7a3f1c0e80b",
+      "node_type": "Section",
+      "publisher": "finlex",
+      "title": "92 § Varautumistehtävien rekisteri",
+      "text": "Pelastuslaitos ja yhteisö, joka on 46 §:n mukaisesti velvollinen osallistumaan pelastuslaitoksen johdolla pelastustoiminnan suunnitteluun ja hoitamaan lakisääteisiä tehtäviään pelastustoiminnan yhteydessä sekä varautumaan näiden tehtävien hoitamiseen normaali- ja poikkeusoloissa, saavat pitää tehtäviensä hoitamista ja niihin varautumista varten henkilörekisteriä tehtäviin varatuista henkilöistä ja voimavaroista. Rekisteriin saadaan tallentaa 1 momentissa tarkoitetun henkilön nimi, syntymäaika, henkilötunnus, siviilisääty, ammatti, koulutus, osoite, muut yhteystiedot, tiedot ajokortista sekä tieto henkilön huollettavina olevien lasten lukumäärästä. Rekisteriin saadaan tallentaa lisäksi tiedot varautumistehtävän edellyttämästä kalustosta, materiaalista, tarvikkeista ja väestönsuojista sekä niistä kiinteistöistä, rakennuksista ja huonetiloista, joita voidaan käyttää evakuoitujen ja siirretyn omaisuuden sijoittamiseen. Rekisteriin saadaan tallentaa tiedot tilojen omistus- ja hallintasuhteista, kunnosta, nykyisestä käytöstä ja asukasmääristä. Vastaavasti saadaan rekisteriin tallentaa tiedot rakennuksista, jotka soveltuvat poikkeusoloissa tuotantolaitosten, viranomaisten ja laitosten väliaikaisiksi toimipaikoiksi taikka johtokeskuksiksi tai yksiköiden sijoittamispaikoiksi. Rekisterin muodostamisessa saadaan käyttää 90 §:n perusteella saatuja tietoja sekä viranomaisen, laitoksen tai yhteisön hallussa olevia muita tässä säännöksessä tarkoitettuja tietoja, joita asianomainen taho ylläpitää tai joita sille on luovutettu kiinteistöjen, rakennusten ja huonetilojen rekisteröinnistä vastaavan viranomaisen toimesta. Rekisterissä olevat tiedot saadaan luovuttaa salassapitosäännösten estämättä pelastustoimintaa ja sen suunnittelua varten pelastuslaitokselle, pelastusviranomaisille ja Hätäkeskuslaitokselle sekä varautumisrekisteriä ylläpitäville viranomaisille. Tiedot voidaan luovuttaa myös teknisen käyttöyhteyden avulla tai muuten sähköisessä muodossa. Varautumistehtävien henkilörekisterissä olevat tiedot on tarkistettava vähintään viiden vuoden väliajoin merkinnän tekemisestä tai tarkistuksesta taikka poistettava.",
+      "section_number": "92",
+      "chapter_number": 13,
+      "statute_id": "8/1955"
+    },
+    {
+      "id": "768de47f-d147-43d8-a023-642cb757248c",
+      "node_type": "Section",
+      "publisher": "finlex",
+      "title": "93 § Valvontarekisteri",
+      "text": "Tämän lain 78 §:n mukaista rakennusten ja muiden kohteiden turvallisuuteen liittyvää valvontatehtävää ja 84 §:n mukaista valmiuden tarkastamista varten pelastuslaitos saa pitää henkilörekisteriä. Rekisteriin saa tallentaa tämän lain 15, 16, 19, 21, 61, 62 ja 90 §:n mukaisia valvontaa varten saatuja tietoja. Lisäksi rekisteriin saa tallentaa tämän lain 89 §:ssä tarkoitettuja tietoja lukuun ottamatta mainitun pykälän 1 momentin 2 kohdan a—e alakohdassa tarkoitettuja tietoja. Valvontarekisteriin saa myös tallentaa tämän lain 80 §:n 4 momentissa tarkoitetut palotarkastuksessa pidettävään pöytäkirjaan merkityt tiedot sekä 84 §:n mukaisessa valmiuden tarkastamisessa saadut tiedot varautumisjärjestelyistä. Valvontarekisterissä olevat tiedot on tarkastettava ja tarpeettomat tiedot poistettava tarkastuksen yhteydessä määrävälein, kuitenkin viimeistään kymmenen vuoden kuluttua edellisen merkinnän tekemisestä.",
+      "section_number": "93",
+      "chapter_number": 13,
+      "statute_id": "8/1955"
+    },
+    {
+      "id": "647f2411-e435-4822-bf2e-c1db7c294e8c",
+      "node_type": "Section",
+      "publisher": "finlex",
+      "title": "94 § Sopimuksen perusteella pelastustoimintaan osallistuvien henkilörekisteri",
+      "text": "Pelastuslaitos saa pitää henkilörekisteriä 25 §:ssä tarkoitettuun sopimuspalokuntaan ja muuhun sopimuksen tehneeseen yhteisöön kuuluvista pelastustoimintaan osallistuvista henkilöistä pelastustoiminnan toimintavalmiuden varmistamiseksi ja pelastustoimen resurssien käytön suunnittelua varten. Rekisteriin saadaan tallentaa henkilön nimi, syntymäaika, henkilötunnus, pelastusalan koulutus, osoite ja muut yhteystiedot. Henkilörekisterissä olevat tiedot on vähintään viiden vuoden väliajoin tarkistettava tai poistettava.",
+      "section_number": "94",
+      "chapter_number": 13,
+      "statute_id": "8/1955"
+    },
+    {
+      "id": "f495f649-7174-483c-a152-a83f29a7e250",
+      "node_type": "Section",
+      "publisher": "finlex",
+      "title": "95 § Vastuu pelastustoimen kustannuksista",
+      "text": "Pelastustoimen kustannuksista vastaa, jollei tässä laissa toisin säädetä, se, jonka velvollisuutena toimenpiteen tai tehtävän suorittaminen taikka siitä huolehtiminen on.",
+      "section_number": "95",
+      "chapter_number": 14,
+      "statute_id": "8/1955"
+    },
+    {
+      "id": "672215d4-6c50-46ee-887d-b4299e438577",
+      "node_type": "Section",
+      "publisher": "finlex",
+      "title": "96 § Eräiden suoritteiden maksullisuus",
+      "text": "Pelastuslaitos voi periä maksun: Perittävien maksujen suuruudesta päättää alueen pelastustoimi hyväksymässään taksassa. Alueen pelastustoimen tulee määrätä suoritteistaan perimänsä maksut siten, että ne vastaavat suuruudeltaan enintään suoritteen tuottamisesta alueen pelastustoimelle aiheutuneiden kokonaiskustannusten määrää. Edellä 1 momentin 2 kohdassa tarkoitetun maksun perimisen edellytyksenä on, että paloilmoitin on aikaisemmin aiheuttanut erheellisen hälytyksen ja alueen pelastusviranomainen on kirjallisesti kehottanut kohteen omistajaa, haltijaa tai toiminnanharjoittajaa korjaamaan sen. Edellä 1 momentin 1 ja 2 kohdassa tarkoitetut maksut saadaan periä kohteen omistajalta, haltijalta tai toiminnanharjoittajalta. Maksut saadaan periä ilman tuomiota tai päätöstä siinä järjestyksessä kuin verojen ja maksujen täytäntöönpanosta annetussa laissa (706/2007) säädetään. Jos toimenpiteestä määrättyä maksua ei ole suoritettu eräpäivänä, saadaan viivästyneelle määrälle periä vuotuista viivästyskorkoa enintään korkolain (633/1982) 4 §:n 1 momentissa tarkoitetun korkokannan mukaan. Eräpäivä voi olla aikaisintaan kahden viikon kuluttua maksun määräytymisen perusteena olevan palvelun saamisesta. Viivästyskoron sijasta viranomainen voi periä viiden euron suuruisen viivästysmaksun, jos viivästyskoron määrä jää tätä pienemmäksi.",
+      "section_number": "96",
+      "chapter_number": 14,
+      "statute_id": "8/1955"
+    },
+    {
+      "id": "770fb817-ad83-4c59-8dd8-8ab1460867c6",
+      "node_type": "Section",
+      "publisher": "finlex",
+      "title": "97 § Valtion osallistuminen valmiuden ylläpitämiseen",
+      "text": "Valtio voi osallistua pelastustoimessa tarvittavan valmiuden ylläpitämiseen hankkimalla sellaista erityiskalustoa tai rahoittamalla sellaista toimintaa, jonka hankkiminen tai rahoittaminen valtion varoista on erityisestä syystä tarkoituksenmukaista.",
+      "section_number": "97",
+      "chapter_number": 14,
+      "statute_id": "8/1955"
+    },
+    {
+      "id": "7d1db861-f5cc-4ef5-9383-34f33d80aae8",
+      "node_type": "Section",
+      "publisher": "finlex",
+      "title": "98 § Pelastustoimintaa varten saadun avun korvaaminen",
+      "text": "Pelastuslaitoksen toiselle pelastuslaitokselle antamasta kalusto- ja miehistöavusta sekä muusta avusta on apua saanut laitos velvollinen suorittamaan täyden korvauksen, jollei toisin sovita. Edellä 49 §:n 1 momentissa tarkoitetusta virka-avusta mahdollisesti perittävästä korvauksesta virka-avun antaja sopii pelastusviranomaisen kanssa.",
+      "section_number": "98",
+      "chapter_number": 14,
+      "statute_id": "8/1955"
+    },
+    {
+      "id": "fa683ed5-7021-4139-822c-b30492d0e95d",
+      "node_type": "Section",
+      "publisher": "finlex",
+      "title": "99 § Metsä- ja maastopalojen sammutuskustannukset",
+      "text": "Jos metsä- tai maastopalo on ulottunut useammalle pelastustoimen alueelle, sammutuskustannukset maksaa se pelastuslaitos, jonka toimialueella palo on saanut alkunsa, jollei toisin sovita. Muiden pelastuslaitosten on korvattava näistä kustannuksista osuutensa palaneen pinta-alan tai muun kohtuullisen perusteen mukaan.",
+      "section_number": "99",
+      "chapter_number": 14,
+      "statute_id": "8/1955"
+    },
+    {
+      "id": "44f6f8c7-4d35-48f9-be8e-dc8437d26f9b",
+      "node_type": "Section",
+      "publisher": "finlex",
+      "title": "100 § Harkinnanvaraiset avustukset",
+      "text": "Jos pelastustehtävä on aiheuttanut alueen pelastustoimelle poikkeuksellisen suuria kustannuksia, sille voidaan myöntää harkinnanvaraista avustusta valtion talousarvion rajoissa. Kunnalle ja alueen pelastustoimelle voidaan myöntää valtion talousarviossa päätetyissä rajoissa harkinnanvaraista avustusta väestönsuojelutoimenpiteistä aiheutuviin kustannuksiin, jos ne muodostuvat sille erityisen raskaiksi. Tässä laissa tarkoitettuun valtionavustukseen sovelletaan valtionavustuslakia (688/2001).",
+      "section_number": "100",
+      "chapter_number": 14,
+      "statute_id": "8/1955"
+    },
+    {
+      "id": "f731c7cc-77a1-47b7-97f0-c35b8bc2471c",
+      "node_type": "Section",
+      "publisher": "finlex",
+      "title": "101 § Vahingonkorvaus",
+      "text": "Vahingon korvaamisesta on muutoin voimassa, mitä vahingonkorvauslaissa (412/1974) säädetään.",
+      "section_number": "101",
+      "chapter_number": 14,
+      "statute_id": "8/1955"
+    },
+    {
+      "id": "b9256865-e265-461a-9ff0-5c600aa78ed9",
+      "node_type": "Section",
+      "publisher": "finlex",
+      "title": "102 § Pelastustehtävästä maksettavat korvaukset ja palkkiot",
+      "text": "Pelastuslaitos suorittaa korvauksen turmeltuneista tai hävinneistä henkilökohtaisista vaatteista, varusteista ja työvälineistä sille, joka on: Edellä 1 momentissa tarkoitetun korvauksen maksamisen edellytyksenä on, että vahingosta on ensi tilassa ilmoitettu pelastustoiminnan johtajalle tai pelastuslaitokselle. Korvausta on haettava pelastuslaitokselta kirjallisesti kolmen kuukauden kuluessa vahingon tapahtumisesta. Pelastuslaitos maksaa pelastustoiminnassa 37 §:n 1 momentin mukaisesti avustamaan määrätylle henkilölle kohtuullisen palkkion.",
+      "section_number": "102",
+      "chapter_number": 14,
+      "statute_id": "8/1955"
+    },
+    {
+      "id": "57535617-eee3-43c0-a849-24583e7b915e",
+      "node_type": "Section",
+      "publisher": "finlex",
+      "title": "103 § Pelastustoiminnassa sattuneen tapaturman korvaaminen",
+      "text": "Pelastustoiminnassa tai väestönsuojelutehtävissä sattuneesta tapaturmasta tai siinä saadusta ammattitaudista suoritetaan korvausta valtion varoista samojen perusteiden mukaan kuin työtapaturmasta tai ammattitaudista siltä osin kuin vahingoittuneella ei ole oikeutta vähintään samansuuruiseen korvaukseen muun lain mukaan. Korvausta suoritetaan niille, jotka: Edellä 1 momentissa tarkoitettu korvaus maksetaan kuitenkin aina, jos tapaturma on sattunut tai ammattitauti aiheutunut käytettäessä teollisuus- tai laitospalokuntaa pelastustoimintaan laitoksen ulkopuolella. Mitä 1 momentissa säädetään, koskee myös sopimuspalokunnan ja muun 25 §:n mukaisesti sopimuksen tehneen yhteisön tämän lain mukaista koulutustoimintaa ja sopimuksen mukaisiin tehtäviin liittyvää kiinteistön ja kaluston hoitoa sekä ensivastetoimintaa. Asian, joka koskee korvauksen suorittamista tämän pykälän nojalla valtion varoista, käsittelee Valtiokonttori. Tapaturma-asian käsittelyyn ja muutoksenhakuun korvausasiassa annettuun päätökseen sovelletaan tapaturmavakuutuslain, ammattitautilain (1343/1988) ja tapaturmavakuutuslain perusteella korvattavasta kuntoutuksesta annetun lain (625/1991) vastaavia säännöksiä.",
+      "section_number": "103",
+      "chapter_number": 14,
+      "statute_id": "8/1955"
+    },
+    {
+      "id": "4a6b6f93-b922-4190-9ccc-c65f427a2ceb",
+      "node_type": "Section",
+      "publisher": "finlex",
+      "title": "104 § Muutoksenhaku",
+      "text": "Tämän lain nojalla tehtyyn hallintopäätökseen haetaan muutosta siten kuin hallintolainkäyttölaissa (586/1996) säädetään. Hallintopäätöstä on noudatettava heti valituksesta huolimatta, jollei muutoksenhakuviranomainen toisin määrää. Rakennusluvan myöntävän viranomaisen tämän lain nojalla tekemistä päätöksistä haetaan oikaisua tai muutosta siten kuin maankäyttö- ja rakennuslaissa säädetään.",
+      "section_number": "104",
+      "chapter_number": 15,
+      "statute_id": "8/1955"
+    },
+    {
+      "id": "17968671-80bf-4283-b9a6-0d643bdcf4ca",
+      "node_type": "Section",
+      "publisher": "finlex",
+      "title": "105 § Uhkasakko ja teettämisuhka",
+      "text": "Joka Viranomaisen antamaa kieltoa tai määräystä voidaan tehostaa uhkasakolla tai uhalla, että tekemättä jätetty toimenpide teetetään laiminlyöjän kustannuksella. Uhkasakosta sekä teettämis- ja keskeyttämisuhasta säädetään uhkasakkolaissa (1113/1990).",
+      "section_number": "105",
+      "chapter_number": 15,
+      "statute_id": "8/1955"
+    },
+    {
+      "id": "b2211e24-79aa-4b3b-be9f-ba1ffaccf2a3",
+      "node_type": "Section",
+      "publisher": "finlex",
+      "title": "106 § Rangaistukset",
+      "text": "Joka tahallaan tai huolimattomuudesta Joka tahallaan tai huolimattomuudesta laiminlyö 67 §:n mukaisen velvollisuuden osallistua koulutukseen, on tuomittava, jollei teosta muualla laissa säädetä ankarampaa rangaistusta,väestönsuojelurikkomuksestasakkoon. Rangaistus pelastustoimen laiminlyönnistä säädetään rikoslain 21 luvun 15 §:ssä ja tulen varomattomasta käsittelystä rikoslain 44 luvun 12 §:ssä. Pysäköintivirhemaksusta pelastustielle pysäköimisen seuraamuksena säädetään erikseen.",
+      "section_number": "106",
+      "chapter_number": 15,
+      "statute_id": "8/1955"
+    },
+    {
+      "id": "41843710-a057-4cf7-922d-96eeac859757",
+      "node_type": "Section",
+      "publisher": "finlex",
+      "title": "107 § Onnettomuuden tutkinta",
+      "text": "Sisäasiainministeriön määräyksestä voidaan palon tai muun onnettomuuden selvittämiseksi suorittaa erityinen tutkinta. Sisäasiainministeriö voi asettaa tutkinnan suorittamista varten tutkintalautakunnan. Tutkintalautakunnassa on puheenjohtaja ja tarvittaessa varapuheenjohtaja sekä tarpeellinen määrä jäseniä. Sisäasiainministeriö voi tutkintalautakunnan ehdotuksesta kutsua yhden tai useamman pysyvän asiantuntijan osallistumaan tutkintaan. Tutkintalautakunnan jäseneen ja asiantuntijaan sovelletaan rikosoikeudellista virkavastuuta koskevia säännöksiä. Vahingon korvausvastuusta säädetään vahingonkorvauslaissa. Tiedonsaantioikeudesta onnettomuuden tutkinnassa säädetään 88 §:ssä ja poliisin antamasta virka-avusta tiedonsaantioikeuden toteuttamiseksi 49 §:n 2 momentissa.",
+      "section_number": "107",
+      "chapter_number": 16,
+      "statute_id": "8/1955"
+    },
+    {
+      "id": "d33b8423-9e71-4517-9690-25f6c3a523f2",
+      "node_type": "Section",
+      "publisher": "finlex",
+      "title": "108 § Pelastustoimen laitteiden sijoittaminen rakennukseen",
+      "text": "Alueen pelastusviranomaisella on oikeus sijoittaa rakennukseen tai rakennelmaan pelastustoimen tarvitsemia laitteita. Rakennuksen tai rakennelman omistajaa ja haltijaa tulee kuulla ennen laitteiden sijoittamista. Laitteiden sijoittamiseen sovelletaan, mitä maankäyttö- ja rakennuslain 161—163 §:ssä säädetään yhdyskuntateknisten laitteiden sijoittamisesta.",
+      "section_number": "108",
+      "chapter_number": 16,
+      "statute_id": "8/1955"
+    },
+    {
+      "id": "1df16919-8061-483d-ac48-71fe18d772ab",
+      "node_type": "Section",
+      "publisher": "finlex",
+      "title": "109 § Viranomaisverkon käytettävyyttä koskevat erityiset vaatimukset",
+      "text": "Jos viestintämarkkinalain (393/2003) 2 §:n 1 momentin 9 kohdassa tarkoitetun viranomaisverkon käytettävyys rakennuksessa tai rakennelmassa, jossa on tavanomaista suurempi henkilöturvallisuusriski, on estynyt rakennuksesta tai rakennelmasta johtuvasta rakenteellisesta syystä ja viranomaisverkon käytettävyys ei ole riittävä pelastustoiminnan asianmukaiseksi suorittamiseksi, alueen pelastusviranomainen voi määrätä rakennuksen tai rakennelman omistajan hankkimaan välttämättömiä viranomaisverkon käytettävyyttä varmistavia laitteita ja pitämään ne toimintakunnossa.",
+      "section_number": "109",
+      "chapter_number": 16,
+      "statute_id": "8/1955"
+    },
+    {
+      "id": "1941e9ca-e5f0-46ad-b074-42b5df8a9db6",
+      "node_type": "Section",
+      "publisher": "finlex",
+      "title": "110 § Pelastusviranomaisen henkilökortti",
+      "text": "Pelastusviranomaisella on oltava virkatehtävissään mukana virka-aseman tunnisteeksi tarkoitettu sisäasiainministeriön vahvistama henkilökortti. Sisäasiainministeriön asetuksella annetaan säännökset pelastusviranomaisen henkilökortin tietosisällöstä ja valmistamisesta sekä henkilökortin tilaamisesta ja palauttamisesta.",
+      "section_number": "110",
+      "chapter_number": 16,
+      "statute_id": "8/1955"
+    },
+    {
+      "id": "66c76567-2697-4c33-a8c1-60f5f3cfaefb",
+      "node_type": "Section",
+      "publisher": "finlex",
+      "title": "111 § Pelastustoimen virkapuku ja pelastustoimen suoja-asujen tunnukset",
+      "text": "Pelastusviranomaisen on käytettävä virkatehtävissään pelastustoimen virkapukua,  jollei virkatehtävän laatu tai luonne muuta edellytä. Pelastuslaitoksen muun henkilöstön velvollisuudesta käyttää pelastustoimen virkapukua päättää pelastuslaitos. Pelastustoimen virkapukua voidaan käyttää Pelastusopistosta annetun lain 10 §:ssä tarkoitettuna Pelastusopiston henkilöstön virkapukuna sekä mainitun lain 34 §:n 1 momentin mukaisena opiskelijapukuna. Sopimuspalokunnan sekä muun vapaaehtoisen palokunnan, laitospalokunnan, teollisuuspalokunnan ja sotilaspalokunnan henkilöstöön kuuluvalla on oikeus käyttää edellä 1 momentissa tarkoitettua pelastustoimen virkapukua palokuntapukuna. Pelastusalan koulutus-, neuvonta- ja valistustehtävissä toimivan yhdistyksen henkilöstöllä on oikeus käyttää pelastustoimen virkapukua palokuntapukuna, mikäli sisäasiainministeriö niin päättää. Puolustusvoimien palotarkastuksista huolehtivilla puolustusvoimien virkamiehillä on oikeus käyttää edellä 1 momentissa tarkoitettua pelastustoimen virkapukua puolustusvoimien pelastushenkilöstön virkapukuna. Sisäasiainministeriö ja Pääesikunta sopivat puolustusvoimien pelastushenkilöstön virkapuvussa käytettävistä virka-asematunnuksista ja muista tunnuksista. Sisäasiainministeriön asetuksella annetaan säännöksiä pelastustoimen virkapuvusta, siihen kuuluvista virka-asematunnuksista ja muista tunnuksista sekä tarkempia säännöksiä puvun käyttämisestä. Edellä 2 momentissa tarkoitetussa opiskelijapuvussa ja 3 momentissa tarkoitetussa palokuntapuvussa ei saa käyttää virka-asematunnuksia tai muita viranomaisasemaa kuvaavia tunnuksia. Palokuntapuvun ja opiskelijapuvun on oltava erotettavissa pelastustoimen virkapuvusta. Sisäasiainministeriön asetuksella säädetään palokuntapuvun ja opiskelijapuvun merkitsemisestä ja tunnusten käytöstä. Pelastustoimen palveluksesta eläkkeelle jääneen henkilön oikeudesta käyttää pelastustoimen virkapukua pelastustoimen yhteisöjen tilaisuuksissa voidaan säätää sisäasiainministeriön asetuksella. Sisäasiainministeriön asetuksella voidaan antaa tarkempia säännöksiä pelastustoiminnan johtajan tunnuksista pelastustoimen suoja-asuissa sekä muista pelastustoiminnassa käytettävistä suoja-asujen tunnuksista.",
+      "section_number": "111",
+      "chapter_number": 16,
+      "statute_id": "8/1955"
+    },
+    {
+      "id": "18709c21-82ff-4028-8cdf-7176b93d0faf",
+      "node_type": "Section",
+      "publisher": "finlex",
+      "title": "112 § Voimaantulosäännös",
+      "text": "Tämä laki tulee voimaan 1 päivänä heinäkuuta 2011. Tällä lailla kumotaan pelastuslaki (468/2003), pelastustoimen alueiden muodostamisesta annettu laki (1214/2001) sekä ihmishenkeä pelastettaessa sattuvan tapaturman korvaamisesta annettu laki (158/1935). Tämän lain voimaan tullessa noudatetaan lisäksi seuraavaa: Ennen lain voimaantuloa voidaan ryhtyä lain täytäntöönpanon edellyttämiin toimenpiteisiin.",
+      "section_number": "112",
+      "chapter_number": 16,
+      "statute_id": "8/1955"
+    }
+  ],
+  "clauses": [
+    {
+      "id": "7a1a18fb-c604-4618-85ef-fbb18a8d184b",
+      "node_type": "Clause",
+      "publisher": "finlex",
+      "title": "§ 2 mom 1",
+      "text": "1) ehkäistä tulipaloja ja muita onnettomuuksia;",
+      "clause_number": 1,
+      "section_number": "2",
+      "statute_id": "8/1955"
+    },
+    {
+      "id": "ae70a7ab-80ee-43dd-a459-490ca2b2d853",
+      "node_type": "Clause",
+      "publisher": "finlex",
+      "title": "§ 2 mom 2",
+      "text": "2) varautua onnettomuuksiin sekä toimintaan onnettomuuksien uhatessa ja sattuessa;",
+      "clause_number": 2,
+      "section_number": "2",
+      "statute_id": "8/1955"
+    },
+    {
+      "id": "ac86331c-112a-4d05-9e57-1360587828af",
+      "node_type": "Clause",
+      "publisher": "finlex",
+      "title": "§ 2 mom 3",
+      "text": "3) rajoittaa onnettomuuksien seurauksia;",
+      "clause_number": 3,
+      "section_number": "2",
+      "statute_id": "8/1955"
+    },
+    {
+      "id": "1c1aeffc-5de8-4998-96a5-6f4e8ce5a20e",
+      "node_type": "Clause",
+      "publisher": "finlex",
+      "title": "§ 2 mom 4",
+      "text": "4) rakentaa ja ylläpitää väestönsuojia;",
+      "clause_number": 4,
+      "section_number": "2",
+      "statute_id": "8/1955"
+    },
+    {
+      "id": "b55f5ab6-efb7-4a62-8dd9-aee6268e3124",
+      "node_type": "Clause",
+      "publisher": "finlex",
+      "title": "§ 2 mom 5",
+      "text": "5) osallistua pelastustoiminnan tehtäviin ja väestönsuojelukoulutukseen.",
+      "clause_number": 5,
+      "section_number": "2",
+      "statute_id": "8/1955"
+    },
+    {
+      "id": "86e51e3c-9eef-4a2f-99ca-58ac73f7cbc5",
+      "node_type": "Clause",
+      "publisher": "finlex",
+      "title": "§ 2 mom 1",
+      "text": "1) tehtävästä ohjata, neuvoa, valistaa ja valvoa 1 momentissa tarkoitettuja tahoja momentissa säädettyjen velvollisuuksien täyttämisessä;",
+      "clause_number": 1,
+      "section_number": "2",
+      "statute_id": "8/1955"
+    },
+    {
+      "id": "cfe1cfc4-418d-4c6f-99cf-8e9842cfee47",
+      "node_type": "Clause",
+      "publisher": "finlex",
+      "title": "§ 2 mom 1",
+      "text": "1) tehtävästä ohjata, neuvoa, valistaa ja valvoa 1 momentissa tarkoitettuja tahoja momentissa säädettyjen velvollisuuksien täyttämisessä;",
+      "clause_number": 1,
+      "section_number": "2",
+      "statute_id": "8/1955"
+    },
+    {
+      "id": "7db0d519-2c7d-4e49-a317-f7ad2bbe7b9f",
+      "node_type": "Clause",
+      "publisher": "finlex",
+      "title": "§ 2 mom 2",
+      "text": "2) \n                                        kiireellisistä tehtävistä, joiden tarkoituksena on pelastaa ja suojata ihmisiä, omaisuutta ja ympäristöä onnettomuuden uhatessa tai sattuessa sekä rajoittaa onnettomuudesta aiheutuvia vahinkoja ja lieventää onnettomuuden seurauksia (pelastustoiminta);",
+      "clause_number": 2,
+      "section_number": "2",
+      "statute_id": "8/1955"
+    },
+    {
+      "id": "e61e9385-af28-4bf4-8880-b9f74e651862",
+      "node_type": "Clause",
+      "publisher": "finlex",
+      "title": "§ 2 mom 3",
+      "text": "3) organisaatiosta, hallinnosta ja toimivallasta.",
+      "clause_number": 3,
+      "section_number": "2",
+      "statute_id": "8/1955"
+    },
+    {
+      "id": "d7b8cd35-90dc-4b95-8160-79ecb64def80",
+      "node_type": "Clause",
+      "publisher": "finlex",
+      "title": "§ 9 mom 1",
+      "text": "1) tulipalon syttymisen, tahallisen sytyttämisen sekä leviämisen vaara on vähäinen;",
+      "clause_number": 1,
+      "section_number": "9",
+      "statute_id": "8/1955"
+    },
+    {
+      "id": "5d1606c5-93e2-45d5-8f8a-06e036a60f2c",
+      "node_type": "Clause",
+      "publisher": "finlex",
+      "title": "§ 9 mom 2",
+      "text": "2) rakennuksessa olevat henkilöt pystyvät tulipalossa tai muussa äkillisessä vaaratilanteessa poistumaan rakennuksesta tai heidät voidaan pelastaa muulla tavoin;",
+      "clause_number": 2,
+      "section_number": "9",
+      "statute_id": "8/1955"
+    },
+    {
+      "id": "887f10bf-f27b-4820-8589-d7b8d1280c15",
+      "node_type": "Clause",
+      "publisher": "finlex",
+      "title": "§ 9 mom 3",
+      "text": "3) pelastustoiminta on tulipalon tai muun onnettomuuden sattuessa mahdollista;",
+      "clause_number": 3,
+      "section_number": "9",
+      "statute_id": "8/1955"
+    },
+    {
+      "id": "867d4590-caef-4c4f-b2ad-4105eeff7a24",
+      "node_type": "Clause",
+      "publisher": "finlex",
+      "title": "§ 9 mom 4",
+      "text": "4) pelastushenkilöstön turvallisuus on otettu huomioon.",
+      "clause_number": 4,
+      "section_number": "9",
+      "statute_id": "8/1955"
+    },
+    {
+      "id": "ebe86184-204a-4abe-b528-c1f9975f0a63",
+      "node_type": "Clause",
+      "publisher": "finlex",
+      "title": "§ 12 mom 1",
+      "text": "1) sammutus-, pelastus- ja torjuntakalusto;",
+      "clause_number": 1,
+      "section_number": "12",
+      "statute_id": "8/1955"
+    },
+    {
+      "id": "b0ce82cb-2106-467b-9d67-b5f59867835b",
+      "node_type": "Clause",
+      "publisher": "finlex",
+      "title": "§ 12 mom 2",
+      "text": "2) sammutus- ja pelastustyötä helpottavat laitteet;",
+      "clause_number": 2,
+      "section_number": "12",
+      "statute_id": "8/1955"
+    },
+    {
+      "id": "bbcd84d5-afcf-4301-9377-5cc57d2985a7",
+      "node_type": "Clause",
+      "publisher": "finlex",
+      "title": "§ 12 mom 3",
+      "text": "3) palonilmaisu-, hälytys- ja muut onnettomuuden vaaraa ilmaisevat laitteet;",
+      "clause_number": 3,
+      "section_number": "12",
+      "statute_id": "8/1955"
+    },
+    {
+      "id": "fa118847-1cc6-48be-99c5-399507e76782",
+      "node_type": "Clause",
+      "publisher": "finlex",
+      "title": "§ 12 mom 4",
+      "text": "4) poistumisreittien opasteet ja valaistus;",
+      "clause_number": 4,
+      "section_number": "12",
+      "statute_id": "8/1955"
+    },
+    {
+      "id": "54167ea8-5258-4872-95eb-ebe60bd060bd",
+      "node_type": "Clause",
+      "publisher": "finlex",
+      "title": "§ 12 mom 5",
+      "text": "5) väestönsuojien varusteet ja laitteet.",
+      "clause_number": 5,
+      "section_number": "12",
+      "statute_id": "8/1955"
+    },
+    {
+      "id": "8700c869-4d60-4e47-aa77-1c2a2f09415d",
+      "node_type": "Clause",
+      "publisher": "finlex",
+      "title": "§ 12 mom 1",
+      "text": "1) laitteiden toimintakunnossa pitämiseen liittyvistä teknisistä yksityiskohdista ja menettelytavoista sekä kunnossapito-ohjelmasta;",
+      "clause_number": 1,
+      "section_number": "12",
+      "statute_id": "8/1955"
+    },
+    {
+      "id": "0bfcff2a-d820-4e7f-8e2f-29ef00ed6e92",
+      "node_type": "Clause",
+      "publisher": "finlex",
+      "title": "§ 12 mom 2",
+      "text": "2) laitteista, joille on tehtävä käyttöönotto- tai määräaikaistarkastus tai jotka on huollettava määrävälein;",
+      "clause_number": 2,
+      "section_number": "12",
+      "statute_id": "8/1955"
+    },
+    {
+      "id": "ce741a5c-3001-4616-867c-c2aa66f667b6",
+      "node_type": "Clause",
+      "publisher": "finlex",
+      "title": "§ 12 mom 3",
+      "text": "3) huollon ja tarkastuksen ajankohdasta ja määrävälistä;",
+      "clause_number": 3,
+      "section_number": "12",
+      "statute_id": "8/1955"
+    },
+    {
+      "id": "05326792-7eb9-45e2-8ce7-a3a0e9a9b4d8",
+      "node_type": "Clause",
+      "publisher": "finlex",
+      "title": "§ 12 mom 4",
+      "text": "4) toimenpiteiden kirjaamisesta.",
+      "clause_number": 4,
+      "section_number": "12",
+      "statute_id": "8/1955"
+    },
+    {
+      "id": "27c220b1-eff1-43ab-af33-de0efd529665",
+      "node_type": "Clause",
+      "publisher": "finlex",
+      "title": "§ 13 mom 1",
+      "text": "1) tulisijat ja savuhormit on nuohottu 59 §:n mukaisella tavalla;",
+      "clause_number": 1,
+      "section_number": "13",
+      "statute_id": "8/1955"
+    },
+    {
+      "id": "ba2c77a5-966e-4663-8e15-7b8d4c15dded",
+      "node_type": "Clause",
+      "publisher": "finlex",
+      "title": "§ 13 mom 2",
+      "text": "2) ilmanvaihtokanavat ja -laitteet on huollettu ja puhdistettu siten, että niistä ei aiheudu tulipalon vaaraa;",
+      "clause_number": 2,
+      "section_number": "13",
+      "statute_id": "8/1955"
+    },
+    {
+      "id": "815cbe44-bd5c-44c1-bb6c-9aa99ff665ec",
+      "node_type": "Clause",
+      "publisher": "finlex",
+      "title": "§ 13 mom 3",
+      "text": "3) tikkaat, kattokulkutien osat ja katon turvavarusteet pidetään sellaisessa kunnossa, että nuohoustyö voidaan suorittaa turvallisesti.",
+      "clause_number": 3,
+      "section_number": "13",
+      "statute_id": "8/1955"
+    },
+    {
+      "id": "f9269b33-436c-457b-96af-9262372f3234",
+      "node_type": "Clause",
+      "publisher": "finlex",
+      "title": "§ 13 mom 1",
+      "text": "1) tulisijoista ja savuhormeista, jotka on nuohottava määrävälein, sekä nuohouksen ajankohdasta ja määrävälistä;",
+      "clause_number": 1,
+      "section_number": "13",
+      "statute_id": "8/1955"
+    },
+    {
+      "id": "e1bcb29f-fc68-46fe-97cd-c6ddc8c08829",
+      "node_type": "Clause",
+      "publisher": "finlex",
+      "title": "§ 13 mom 2",
+      "text": "2) ilmanvaihtokanavista ja -laitteista, jotka on paloturvallisuussyistä puhdistettava määrävälein sekä puhdistuksen ajankohdasta, määrävälistä ja puhdistustyön sisällöstä.",
+      "clause_number": 2,
+      "section_number": "13",
+      "statute_id": "8/1955"
+    },
+    {
+      "id": "282ea307-f7e7-46c1-bae6-36e23e3e7bf8",
+      "node_type": "Clause",
+      "publisher": "finlex",
+      "title": "§ 14 mom 1",
+      "text": "1) ehkäistävä tulipalojen syttymistä ja muiden vaaratilanteiden syntymistä;",
+      "clause_number": 1,
+      "section_number": "14",
+      "statute_id": "8/1955"
+    },
+    {
+      "id": "3bdddb77-7883-4217-a246-9526ae6e336b",
+      "node_type": "Clause",
+      "publisher": "finlex",
+      "title": "§ 14 mom 2",
+      "text": "2) varauduttava henkilöiden, omaisuuden ja ympäristön suojaamiseen vaaratilanteissa;",
+      "clause_number": 2,
+      "section_number": "14",
+      "statute_id": "8/1955"
+    },
+    {
+      "id": "24641b70-94b0-450b-b7b3-61dc5d966473",
+      "node_type": "Clause",
+      "publisher": "finlex",
+      "title": "§ 14 mom 3",
+      "text": "3) varauduttava tulipalojen sammuttamiseen ja muihin sellaisiin pelastustoimenpiteisiin, joihin ne omatoimisesti kykenevät;",
+      "clause_number": 3,
+      "section_number": "14",
+      "statute_id": "8/1955"
+    },
+    {
+      "id": "508083bd-17c6-4c58-b3c2-69e78d095340",
+      "node_type": "Clause",
+      "publisher": "finlex",
+      "title": "§ 14 mom 4",
+      "text": "4) ryhdyttävä toimenpiteisiin poistumisen turvaamiseksi tulipaloissa ja muissa vaaratilanteissa sekä toimenpiteisiin pelastustoiminnan helpottamiseksi.",
+      "clause_number": 4,
+      "section_number": "14",
+      "statute_id": "8/1955"
+    },
+    {
+      "id": "4082aca7-dbf3-42d7-b8d8-386020a742fe",
+      "node_type": "Clause",
+      "publisher": "finlex",
+      "title": "§ 15 mom 1",
+      "text": "1) vaarojen ja riskien arvioinnin johtopäätelmistä;",
+      "clause_number": 1,
+      "section_number": "15",
+      "statute_id": "8/1955"
+    },
+    {
+      "id": "73810d63-3156-4494-9fc7-9b6741e24639",
+      "node_type": "Clause",
+      "publisher": "finlex",
+      "title": "§ 15 mom 2",
+      "text": "2) rakennuksen ja toiminnassa käytettävien tilojen turvallisuusjärjestelyistä;",
+      "clause_number": 2,
+      "section_number": "15",
+      "statute_id": "8/1955"
+    },
+    {
+      "id": "562c32f5-7ad5-4ead-bd79-fe49ec4f1ec1",
+      "node_type": "Clause",
+      "publisher": "finlex",
+      "title": "§ 15 mom 3",
+      "text": "3) asukkaille ja muille henkilöille annettavista ohjeista onnettomuuksien ehkäisemiseksi sekä onnettomuus- ja vaaratilanteissa toimimiseksi;",
+      "clause_number": 3,
+      "section_number": "15",
+      "statute_id": "8/1955"
+    },
+    {
+      "id": "b87b5c21-bad4-4df9-906a-1a7627c25cc1",
+      "node_type": "Clause",
+      "publisher": "finlex",
+      "title": "§ 15 mom 4",
+      "text": "4) mahdollisista muista kohteen omatoimiseen varautumiseen liittyvistä toimenpiteistä.",
+      "clause_number": 4,
+      "section_number": "15",
+      "statute_id": "8/1955"
+    },
+    {
+      "id": "baafc0b8-3916-4bac-a84d-06516b61ea85",
+      "node_type": "Clause",
+      "publisher": "finlex",
+      "title": "§ 27 mom 1",
+      "text": "1) pelastustoimelle kuuluvasta ohjauksesta, valistuksesta ja neuvonnasta, jonka tavoitteena on tulipalojen ja muiden onnettomuuksien ehkäiseminen ja varautuminen onnettomuuksien torjuntaan sekä asianmukainen toiminta onnettomuus- ja vaaratilanteissa ja onnettomuuksien seurausten rajoittamisessa;",
+      "clause_number": 1,
+      "section_number": "27",
+      "statute_id": "8/1955"
+    },
+    {
+      "id": "dde59537-244d-4177-b657-53b01c43e38d",
+      "node_type": "Clause",
+      "publisher": "finlex",
+      "title": "§ 27 mom 2",
+      "text": "2) pelastustoimen valvontatehtävistä;",
+      "clause_number": 2,
+      "section_number": "27",
+      "statute_id": "8/1955"
+    },
+    {
+      "id": "910a0721-fc9d-46f4-b16e-4d52fa92d050",
+      "node_type": "Clause",
+      "publisher": "finlex",
+      "title": "§ 27 mom 3",
+      "text": "3) väestön varoittamisesta vaara- ja onnettomuustilanteessa sekä siihen tarvittavasta hälytysjärjestelmästä;",
+      "clause_number": 3,
+      "section_number": "27",
+      "statute_id": "8/1955"
+    },
+    {
+      "id": "6b259a9a-b252-44af-9fe4-30329b1c04b7",
+      "node_type": "Clause",
+      "publisher": "finlex",
+      "title": "§ 27 mom 4",
+      "text": "4) pelastustoimintaan kuuluvista tehtävistä.",
+      "clause_number": 4,
+      "section_number": "27",
+      "statute_id": "8/1955"
+    },
+    {
+      "id": "8366f846-c22f-4a91-bfb5-4bf8b89b5d32",
+      "node_type": "Clause",
+      "publisher": "finlex",
+      "title": "§ 27 mom 2",
+      "text": "1) voi suorittaa ensihoitopalveluun kuuluvia tehtäviä, jos ensihoitopalvelun järjestämisestä yhteistoiminnassa alueen pelastustoimen ja sairaanhoitopiirin kuntayhtymän kesken on sovittu terveydenhuoltolain (1326/2010) 39 §:n 2 momentin perusteella;",
+      "clause_number": 2,
+      "section_number": "27",
+      "statute_id": "8/1955"
+    },
+    {
+      "id": "96e0882f-db53-45c7-901c-6f9449899c7b",
+      "node_type": "Clause",
+      "publisher": "finlex",
+      "title": "§ 27 mom 1",
+      "text": "1) voi suorittaa ensihoitopalveluun kuuluvia tehtäviä, jos ensihoitopalvelun järjestämisestä yhteistoiminnassa alueen pelastustoimen ja sairaanhoitopiirin kuntayhtymän kesken on sovittu terveydenhuoltolain (1326/2010) 39 §:n 2 momentin perusteella;",
+      "clause_number": 1,
+      "section_number": "27",
+      "statute_id": "8/1955"
+    },
+    {
+      "id": "b4ad8086-80c4-429a-ab88-3027de1b309a",
+      "node_type": "Clause",
+      "publisher": "finlex",
+      "title": "§ 27 mom 2",
+      "text": "2) tukee pelastustoimen alueeseen kuuluvan kunnan valmiussuunnittelua, jos siitä on kunnan kanssa sovittu;",
+      "clause_number": 2,
+      "section_number": "27",
+      "statute_id": "8/1955"
+    },
+    {
+      "id": "39963c50-921b-4097-ae14-1b0b5002d44e",
+      "node_type": "Clause",
+      "publisher": "finlex",
+      "title": "§ 27 mom 3",
+      "text": "3) huolehtii öljyntorjunnasta ja muistakin muussa laissa alueen pelastustoimelle säädetyistä tehtävistä.",
+      "clause_number": 3,
+      "section_number": "27",
+      "statute_id": "8/1955"
+    },
+    {
+      "id": "9f6286b7-03c3-4f5b-9310-18ce66da7e13",
+      "node_type": "Clause",
+      "publisher": "finlex",
+      "title": "§ 32 mom 1",
+      "text": "1) hälytysten vastaanottaminen;",
+      "clause_number": 1,
+      "section_number": "32",
+      "statute_id": "8/1955"
+    },
+    {
+      "id": "37c96560-535e-4f14-af39-55af1d2f3001",
+      "node_type": "Clause",
+      "publisher": "finlex",
+      "title": "§ 32 mom 2",
+      "text": "2) väestön varoittaminen;",
+      "clause_number": 2,
+      "section_number": "32",
+      "statute_id": "8/1955"
+    },
+    {
+      "id": "6d36a3de-ac87-4b26-9f2b-4ebb68ef8787",
+      "node_type": "Clause",
+      "publisher": "finlex",
+      "title": "§ 32 mom 3",
+      "text": "3) uhkaavan onnettomuuden torjuminen;",
+      "clause_number": 3,
+      "section_number": "32",
+      "statute_id": "8/1955"
+    },
+    {
+      "id": "69da87ef-4392-42b0-a4bf-5abfcd947694",
+      "node_type": "Clause",
+      "publisher": "finlex",
+      "title": "§ 32 mom 4",
+      "text": "4) onnettomuuden uhrien ja vaarassa olevien ihmisten, ympäristön ja omaisuuden suojaaminen ja pelastaminen;",
+      "clause_number": 4,
+      "section_number": "32",
+      "statute_id": "8/1955"
+    },
+    {
+      "id": "0db8e1fa-4c5a-459e-921e-7ae751e41927",
+      "node_type": "Clause",
+      "publisher": "finlex",
+      "title": "§ 32 mom 5",
+      "text": "5) tulipalojen sammuttaminen ja vahinkojen rajoittaminen;",
+      "clause_number": 5,
+      "section_number": "32",
+      "statute_id": "8/1955"
+    },
+    {
+      "id": "03eba382-2740-49eb-8414-3991bd87a903",
+      "node_type": "Clause",
+      "publisher": "finlex",
+      "title": "§ 32 mom 6",
+      "text": "6) 1—5 kohdassa mainittuihin tehtäviin liittyvät johtamis-, viestintä-, huolto- ja muut tukitoiminnat.",
+      "clause_number": 6,
+      "section_number": "32",
+      "statute_id": "8/1955"
+    },
+    {
+      "id": "e89af220-5f36-4a45-a784-dbb214892f11",
+      "node_type": "Clause",
+      "publisher": "finlex",
+      "title": "§ 36 mom 1",
+      "text": "1) määrätä ihmisiä suojautumaan sekä evakuoida ihmisiä ja omaisuutta;",
+      "clause_number": 1,
+      "section_number": "36",
+      "statute_id": "8/1955"
+    },
+    {
+      "id": "9442dd21-c83d-4919-a7cd-e6c99a2ff2f6",
+      "node_type": "Clause",
+      "publisher": "finlex",
+      "title": "§ 36 mom 2",
+      "text": "2) ryhtyä sellaisiin välttämättömiin toimenpiteisiin, joista voi aiheutua vahinkoa kiinteälle tai irtaimelle omaisuudelle;",
+      "clause_number": 2,
+      "section_number": "36",
+      "statute_id": "8/1955"
+    },
+    {
+      "id": "0a982de7-2dd3-4208-8d8e-440e545b2379",
+      "node_type": "Clause",
+      "publisher": "finlex",
+      "title": "§ 36 mom 3",
+      "text": "3) määrätä antamaan käytettäväksi rakennuksia, viesti- ja tietoliikenneyhteyksiä ja välineitä sekä pelastustoiminnassa tarvittavaa kalustoa, välineitä ja tarvikkeita, elintarvikkeita, poltto- ja voiteluaineita ja sammutusaineita;",
+      "clause_number": 3,
+      "section_number": "36",
+      "statute_id": "8/1955"
+    },
+    {
+      "id": "5a07b6c8-0303-43dd-a427-540325637041",
+      "node_type": "Clause",
+      "publisher": "finlex",
+      "title": "§ 36 mom 4",
+      "text": "4) ryhtyä muihinkin pelastustoiminnassa tarpeellisiin toimenpiteisiin.",
+      "clause_number": 4,
+      "section_number": "36",
+      "statute_id": "8/1955"
+    },
+    {
+      "id": "174ab159-8d79-4c65-a6a3-c681d2cd8fac",
+      "node_type": "Clause",
+      "publisher": "finlex",
+      "title": "§ 46 mom 1",
+      "text": "1) hätäkeskukset vastaanottavat hätäilmoituksia ja välittävät ilmoitukset asianomaisille yksiköille sekä toimivat pelastustoimen viestikeskuksena siten kuin siitä hätäkeskustoiminnasta annetussa laissa (692/2010) säädetään;",
+      "clause_number": 1,
+      "section_number": "46",
+      "statute_id": "8/1955"
+    },
+    {
+      "id": "630e091e-1cd7-4770-86c3-f5bfe65f15ab",
+      "node_type": "Clause",
+      "publisher": "finlex",
+      "title": "§ 46 mom 2",
+      "text": "2) puolustusvoimat osallistuu pelastustoimintaan antamalla käytettäväksi pelastustoimintaan tarvittavaa kalustoa, henkilöstöä ja asiantuntijapalveluja siten kuin siitä puolustusvoimista annetussa laissa (551/2007) säädetään;",
+      "clause_number": 2,
+      "section_number": "46",
+      "statute_id": "8/1955"
+    },
+    {
+      "id": "021c11a4-95f6-40e5-ae32-b70ec9c0f679",
+      "node_type": "Clause",
+      "publisher": "finlex",
+      "title": "§ 46 mom 3",
+      "text": "3) rajavartiolaitos osallistuu pelastustoimintaan antamalla käytettäväksi kalustoa, henkilöitä ja asiantuntijapalveluita siten kuin siitä rajavartiolaissa (578/2005) säädetään;",
+      "clause_number": 3,
+      "section_number": "46",
+      "statute_id": "8/1955"
+    },
+    {
+      "id": "4c49df05-86e8-40c9-9627-9f4bbb821bcb",
+      "node_type": "Clause",
+      "publisher": "finlex",
+      "title": "§ 46 mom 4",
+      "text": "4) poliisi huolehtii kadonneiden etsinnästä maa-alueilla ja sisävesillä, vaara-alueiden eristämisestä ja muista järjestyksen ja turvallisuuden ylläpitämiseen kuuluvista tehtävistä onnettomuuspaikalla;",
+      "clause_number": 4,
+      "section_number": "46",
+      "statute_id": "8/1955"
+    },
+    {
+      "id": "2bef3fab-faba-4f42-8fae-333bcf012ebe",
+      "node_type": "Clause",
+      "publisher": "finlex",
+      "title": "§ 46 mom 5",
+      "text": "5) sosiaali- ja terveysviranomaiset ja hallinnonalan laitokset vastaavat niitä koskevissa säädöksissä määrätyn työnjaon mukaisesti ensihoitopalvelun järjestämisestä sekä psykososiaalisen tuen palveluista ja onnettomuuden johdosta hätään joutuneiden huollosta ja majoituksesta;",
+      "clause_number": 5,
+      "section_number": "46",
+      "statute_id": "8/1955"
+    },
+    {
+      "id": "69f8febd-7f8f-4af5-9991-c06f54d0b8a7",
+      "node_type": "Clause",
+      "publisher": "finlex",
+      "title": "§ 46 mom 6",
+      "text": "6) ympäristöterveydenhuollon järjestämisestä vastaavat viranomaiset ja hallinnonalan laitokset huolehtivat yksilön ja hänen elinympäristönsä terveydensuojelua koskevista tehtävistä niitä koskevissa säädöksissä määrätyn työnjaon mukaisesti;",
+      "clause_number": 6,
+      "section_number": "46",
+      "statute_id": "8/1955"
+    },
+    {
+      "id": "a1e87ac4-ca26-4e52-90e4-2f0039ba415a",
+      "node_type": "Clause",
+      "publisher": "finlex",
+      "title": "§ 46 mom 7",
+      "text": "7) ympäristöviranomaiset ja maa- ja metsätalousviranomaiset sekä hallinnonalojen laitokset huolehtivat niitä koskevissa säädöksissä määrätyn työnjaon mukaisesti öljy- ja kemikaalivahinkojen torjunnasta, ympäristönsuojelusta, tulvasuojelusta, tulvantorjunnasta ja patoturvallisuudesta;",
+      "clause_number": 7,
+      "section_number": "46",
+      "statute_id": "8/1955"
+    },
+    {
+      "id": "683a8af9-2d41-498c-8bf8-572aff6a2692",
+      "node_type": "Clause",
+      "publisher": "finlex",
+      "title": "§ 46 mom 8",
+      "text": "8) liikenne- ja viestintäasioista vastaavat viranomaiset ja hallinnonalan laitokset huolehtivat:",
+      "clause_number": 8,
+      "section_number": "46",
+      "statute_id": "8/1955"
+    },
+    {
+      "id": "dea5512b-72fe-4055-9920-fe0cf5d16735",
+      "node_type": "Clause",
+      "publisher": "finlex",
+      "title": "§ 46 mom 9",
+      "text": "9) Säteilyturvakeskus valvoo ydinenergian ja säteilyn käytön turvallisuutta ja turva- ja valmiusjärjestelyjä sekä säteilytilannetta, ylläpitää tehtäviensä edellyttämää valmiutta normaalista poikkeavien säteilytilanteiden varalta, ilmoittaa, varoittaa ja raportoi poikkeavista säteilytilanteista, arvioi säteilytapahtumien turvallisuusmerkitystä sekä antaa suojelutoimia koskevia suosituksia;",
+      "clause_number": 9,
+      "section_number": "46",
+      "statute_id": "8/1955"
+    },
+    {
+      "id": "59f290ba-694d-4884-a6ff-2b14d1f3d716",
+      "node_type": "Clause",
+      "publisher": "finlex",
+      "title": "§ 46 mom 10",
+      "text": "10) Ilmatieteen laitos luovuttaa asianomaiselle viranomaiselle pelastustoiminnassa ja sen suunnittelussa tarpeelliset säätiedot, varoitukset, havainnot ja ennusteet sekä ajelehtimisarviot merialueille ja arviot radioaktiivisten ja muiden vaarallisten aineiden kulkeutumisesta ilmakehässä;",
+      "clause_number": 10,
+      "section_number": "46",
+      "statute_id": "8/1955"
+    },
+    {
+      "id": "61c18b46-a434-4b73-86c7-57406f9291e1",
+      "node_type": "Clause",
+      "publisher": "finlex",
+      "title": "§ 46 mom 11",
+      "text": "11) siviilipalveluskeskus osallistuu pelastustoimintaan ja väestönsuojeluun sen mukaan kuin osallistumisesta erikseen säädetään tai määrätään;",
+      "clause_number": 11,
+      "section_number": "46",
+      "statute_id": "8/1955"
+    },
+    {
+      "id": "8e48e915-4156-4c91-b787-b0c15450b9cd",
+      "node_type": "Clause",
+      "publisher": "finlex",
+      "title": "§ 46 mom 12",
+      "text": "12) valtion eri toimialoista vastaavat virastot, laitokset ja liikelaitokset sekä kunnan ja kuntayhtymien eri toimialoista vastaavat virastot, laitokset ja liikelaitokset varautuvat ja osallistuvat pelastustoimintaan tehtäväalueensa, keskinäisen työnjakonsa ja niitä koskevan lainsäädännön mukaisesti.",
+      "clause_number": 12,
+      "section_number": "46",
+      "statute_id": "8/1955"
+    },
+    {
+      "id": "20f5e682-dab9-4d32-933e-b94c4777039a",
+      "node_type": "Clause",
+      "publisher": "finlex",
+      "title": "§ 48 mom 1",
+      "text": "1) ydinenergialain (990/1987) 3 §:n 1 momentin 5 kohdassa tarkoitettu ydinlaitos;",
+      "clause_number": 1,
+      "section_number": "48",
+      "statute_id": "8/1955"
+    },
+    {
+      "id": "8129ada9-34bb-4b4c-b032-772e327c2553",
+      "node_type": "Clause",
+      "publisher": "finlex",
+      "title": "§ 48 mom 1",
+      "text": "1) ydinenergialain (990/1987) 3 §:n 1 momentin 5 kohdassa tarkoitettu ydinlaitos;",
+      "clause_number": 1,
+      "section_number": "48",
+      "statute_id": "8/1955"
+    },
+    {
+      "id": "0380f0f2-4ad8-4e6c-9c5f-b6565d615910",
+      "node_type": "Clause",
+      "publisher": "finlex",
+      "title": "§ 48 mom 1",
+      "text": "2) vaarallisten kemikaalien ja räjähteiden käsittelyn turvallisuudesta annetun lain (390/2005) 30 §:n 1 momentissa tai 62 §:n 1 momentissa tarkoitettu tuotantolaitos, josta toiminnanharjoittajan tulee laatia turvallisuusselvitys;",
+      "clause_number": 1,
+      "section_number": "48",
+      "statute_id": "8/1955"
+    },
+    {
+      "id": "a2177d4f-a246-41cf-af3b-3ac87bf93354",
+      "node_type": "Clause",
+      "publisher": "finlex",
+      "title": "§ 48 mom 2",
+      "text": "2) vaarallisten kemikaalien ja räjähteiden käsittelyn turvallisuudesta annetun lain (390/2005) 30 §:n 1 momentissa tai 62 §:n 1 momentissa tarkoitettu tuotantolaitos, josta toiminnanharjoittajan tulee laatia turvallisuusselvitys;",
+      "clause_number": 2,
+      "section_number": "48",
+      "statute_id": "8/1955"
+    },
+    {
+      "id": "2387279a-41fb-4dcb-a1b4-25eb9b56b71b",
+      "node_type": "Clause",
+      "publisher": "finlex",
+      "title": "§ 48 mom 2",
+      "text": "3) ympäristönsuojelulain (86/2000) 45 a §:n 2 momentissa tarkoitettu kaivannaisjätteen jätealue;",
+      "clause_number": 2,
+      "section_number": "48",
+      "statute_id": "8/1955"
+    },
+    {
+      "id": "aedc44b4-e7a3-4229-8c3e-99935e6f088d",
+      "node_type": "Clause",
+      "publisher": "finlex",
+      "title": "§ 48 mom 3",
+      "text": "3) ympäristönsuojelulain (86/2000) 45 a §:n 2 momentissa tarkoitettu kaivannaisjätteen jätealue;",
+      "clause_number": 3,
+      "section_number": "48",
+      "statute_id": "8/1955"
+    },
+    {
+      "id": "fe1066ac-2297-43bc-9ac6-68b47712d25f",
+      "node_type": "Clause",
+      "publisher": "finlex",
+      "title": "§ 48 mom 4",
+      "text": "4) vaarallisten aineiden kuljetuksesta rautatiellä annetun valtioneuvoston asetuksen (195/2002) 32 §:n mukainen järjestelyratapiha; tai",
+      "clause_number": 4,
+      "section_number": "48",
+      "statute_id": "8/1955"
+    },
+    {
+      "id": "19d68370-4031-4481-8e4a-e09dd525c42c",
+      "node_type": "Clause",
+      "publisher": "finlex",
+      "title": "§ 48 mom 5",
+      "text": "5) vaarallisten aineiden kuljetuksesta ja tilapäisestä säilytyksestä satama-alueella annetun valtioneuvoston asetuksen (251/2005) 8 §:n mukainen satama-alue.",
+      "clause_number": 5,
+      "section_number": "48",
+      "statute_id": "8/1955"
+    },
+    {
+      "id": "c0c7cfef-e546-45f2-8d4b-c9a1986f5903",
+      "node_type": "Clause",
+      "publisher": "finlex",
+      "title": "§ 59 mom 1",
+      "text": "1) tuottaa nuohouspalvelut pelastuslaitoksen omana työnä;",
+      "clause_number": 1,
+      "section_number": "59",
+      "statute_id": "8/1955"
+    },
+    {
+      "id": "433a0315-8dd3-4501-af11-8ca80d1abcf0",
+      "node_type": "Clause",
+      "publisher": "finlex",
+      "title": "§ 59 mom 2",
+      "text": "2) hankkia nuohouspalvelut muulta palvelujen tuottajalta; tai",
+      "clause_number": 2,
+      "section_number": "59",
+      "statute_id": "8/1955"
+    },
+    {
+      "id": "da5258d4-82d4-4f0e-a6d6-9f79d1e2e8c8",
+      "node_type": "Clause",
+      "publisher": "finlex",
+      "title": "§ 59 mom 3",
+      "text": "3) sallia rakennuksen omistajan tai haltijan sopia nuohouksesta palvelujen tuottajan kanssa.",
+      "clause_number": 3,
+      "section_number": "59",
+      "statute_id": "8/1955"
+    },
+    {
+      "id": "28f1fde9-26c4-4aec-bc84-9eaf39009a4b",
+      "node_type": "Clause",
+      "publisher": "finlex",
+      "title": "§ 89 mom 1",
+      "text": "1) paikkatietoinfrastruktuurista annetussa laissa (421/2009) ja sen nojalla annetuissa säädöksissä tarkoitetuista paikkatietoaineistoista;",
+      "clause_number": 1,
+      "section_number": "89",
+      "statute_id": "8/1955"
+    },
+    {
+      "id": "2818f3c6-452c-4cab-8d09-b55f1fb9567d",
+      "node_type": "Clause",
+      "publisher": "finlex",
+      "title": "§ 89 mom 2",
+      "text": "2) väestötietojärjestelmästä ja Väestörekisterikeskuksen varmennepalveluista annetun lain (661/2009):",
+      "clause_number": 2,
+      "section_number": "89",
+      "statute_id": "8/1955"
+    },
+    {
+      "id": "35ebec50-1961-412e-8604-d130325932ec",
+      "node_type": "Clause",
+      "publisher": "finlex",
+      "title": "§ 89 mom 3",
+      "text": "3) valvontakohteista Turvallisuus- ja kemikaaliviraston valvontakohderekisteristä;",
+      "clause_number": 3,
+      "section_number": "89",
+      "statute_id": "8/1955"
+    },
+    {
+      "id": "c32982fd-631c-4515-9e85-e7beb5e8f164",
+      "node_type": "Clause",
+      "publisher": "finlex",
+      "title": "§ 89 mom 4",
+      "text": "4) Tilastokeskuksen työssäkäyntitilastoista;",
+      "clause_number": 4,
+      "section_number": "89",
+      "statute_id": "8/1955"
+    },
+    {
+      "id": "d732e746-d61d-4926-bcda-11fef5dbcd8f",
+      "node_type": "Clause",
+      "publisher": "finlex",
+      "title": "§ 89 mom 5",
+      "text": "5) ensivaste-, ensihoito- ja sairaankuljetustehtävien koordinaateista ja tehtäväkoodeista sairaanhoitopiiriltä sillä tavoin yksilöityinä, ettei tietojen perusteella voida tunnistaa yksittäistä luonnollista henkilöä;",
+      "clause_number": 5,
+      "section_number": "89",
+      "statute_id": "8/1955"
+    },
+    {
+      "id": "320d5686-1516-4e60-9646-bcfb5737984d",
+      "node_type": "Clause",
+      "publisher": "finlex",
+      "title": "§ 89 mom 1",
+      "text": "6) tämän lain 42 §:n 1 momentissa säädetyssä tarkoituksessa muilta viranomaisilta onnettomuuksien ehkäisyn kannalta erityisistä riskikohteista sillä tavoin yksilöityinä, ettei tietojen perusteella voida tunnistaa yksittäistä luonnollista henkilöä;",
+      "clause_number": 1,
+      "section_number": "89",
+      "statute_id": "8/1955"
+    },
+    {
+      "id": "e9d0e3e6-0db5-441c-9064-f12e92e6a11e",
+      "node_type": "Clause",
+      "publisher": "finlex",
+      "title": "§ 89 mom 6",
+      "text": "6) tämän lain 42 §:n 1 momentissa säädetyssä tarkoituksessa muilta viranomaisilta onnettomuuksien ehkäisyn kannalta erityisistä riskikohteista sillä tavoin yksilöityinä, ettei tietojen perusteella voida tunnistaa yksittäistä luonnollista henkilöä;",
+      "clause_number": 6,
+      "section_number": "89",
+      "statute_id": "8/1955"
+    },
+    {
+      "id": "9db22a64-bc4a-4755-9664-9d8b0c02677f",
+      "node_type": "Clause",
+      "publisher": "finlex",
+      "title": "§ 89 mom 7",
+      "text": "7) poliisilta kokoontumislain (530/1999) 14 §:n mukaisista yleisötilaisuuden järjestämiseen liittyvistä ilmoituksista;",
+      "clause_number": 7,
+      "section_number": "89",
+      "statute_id": "8/1955"
+    },
+    {
+      "id": "7bd2a0d8-d038-4faa-844c-d17bbc061e3a",
+      "node_type": "Clause",
+      "publisher": "finlex",
+      "title": "§ 89 mom 8",
+      "text": "8) kuntien rakennusvalvontaviranomaisilta maankäyttö- ja rakennuslain 125 §:n mukaisista rakennusluvista ja 126 §:n mukaisista toimenpideluvista sekä niiden 131 §:n mukaisista hakemuksista rakennusvalvontaviranomaisen kanssa yhteisesti sovittavalla tavalla.",
+      "clause_number": 8,
+      "section_number": "89",
+      "statute_id": "8/1955"
+    },
+    {
+      "id": "0d1df15d-5bfa-4c9c-8fdb-dda348cd040f",
+      "node_type": "Clause",
+      "publisher": "finlex",
+      "title": "§ 90 mom 1",
+      "text": "1) rekisterihallintolaissa (166/1996) tarkoitetuilta viranomaisilta tarpeelliset väestötiedot;",
+      "clause_number": 1,
+      "section_number": "90",
+      "statute_id": "8/1955"
+    },
+    {
+      "id": "d74249d9-e72c-454b-b201-e5d7cb797e5a",
+      "node_type": "Clause",
+      "publisher": "finlex",
+      "title": "§ 90 mom 2",
+      "text": "2) puolustusvoimilta tieto siitä, onko asevelvollinen vapautettu sodanaikaisesta palveluksesta;",
+      "clause_number": 2,
+      "section_number": "90",
+      "statute_id": "8/1955"
+    },
+    {
+      "id": "d0362118-bfd1-4112-a69b-1aeff5d15c1d",
+      "node_type": "Clause",
+      "publisher": "finlex",
+      "title": "§ 90 mom 3",
+      "text": "3) muilta viranomaisilta ja yhteisöiltä tiedot niiden palveluksessa olevista henkilöistä koskien myös varattavan henkilön ikää, koulutusta, ammattia ja työkykyä sekä henkilön varaamista viranomaiselle tai yhteisölle sen oman toiminnan varmistamiseksi poikkeusoloissa;",
+      "clause_number": 3,
+      "section_number": "90",
+      "statute_id": "8/1955"
+    },
+    {
+      "id": "df9f38a0-a770-4b62-94ff-fcfff5f75da1",
+      "node_type": "Clause",
+      "publisher": "finlex",
+      "title": "§ 90 mom 4",
+      "text": "4) siviilipalvelusviranomaisilta tieto siitä, onko siviilipalvelusvelvollinen vapautettu liikekannallepanon aikaisesta palveluksesta, sekä tieto siviilipalveluksen suorittaneiden henkilöiden palveluksessaan saamasta erityiskoulutuksesta.",
+      "clause_number": 4,
+      "section_number": "90",
+      "statute_id": "8/1955"
+    },
+    {
+      "id": "dc0e6a58-59b9-466a-916d-9e63d86ff82a",
+      "node_type": "Clause",
+      "publisher": "finlex",
+      "title": "§ 90 mom 1",
+      "text": "1) 3 §:n 1 momentin 1 kohdassa tarkoitetuista ajoneuvon omistajista tai haltijoista;",
+      "clause_number": 1,
+      "section_number": "90",
+      "statute_id": "8/1955"
+    },
+    {
+      "id": "50aff8bd-eb53-4dc2-a734-ba7c648b1205",
+      "node_type": "Clause",
+      "publisher": "finlex",
+      "title": "§ 90 mom 1",
+      "text": "1) 3 §:n 1 momentin 1 kohdassa tarkoitetuista ajoneuvon omistajista tai haltijoista;",
+      "clause_number": 1,
+      "section_number": "90",
+      "statute_id": "8/1955"
+    },
+    {
+      "id": "ea0b6cf9-ecab-4a5f-8c65-2010508271d2",
+      "node_type": "Clause",
+      "publisher": "finlex",
+      "title": "§ 90 mom 2",
+      "text": "2) 3 §:n 2 momentin 1 kohdassa tarkoitetuista luonnollisista henkilöistä, jotka ovat hakeneet ajokorttilupaa tai joilla on ajokorttilupa, ajokortti tai ajo-oikeus;",
+      "clause_number": 2,
+      "section_number": "90",
+      "statute_id": "8/1955"
+    },
+    {
+      "id": "28ca4e63-a94a-4c70-99a5-2ab0fbe0ad16",
+      "node_type": "Clause",
+      "publisher": "finlex",
+      "title": "§ 90 mom 2",
+      "text": "2) 3 §:n 2 momentin 1 kohdassa tarkoitetuista luonnollisista henkilöistä, jotka ovat hakeneet ajokorttilupaa tai joilla on ajokorttilupa, ajokortti tai ajo-oikeus;",
+      "clause_number": 2,
+      "section_number": "90",
+      "statute_id": "8/1955"
+    },
+    {
+      "id": "a58ddf44-4fea-4ca7-970c-8c117750ade5",
+      "node_type": "Clause",
+      "publisher": "finlex",
+      "title": "§ 90 mom 3",
+      "text": "3) 4 §:ssä tarkoitetuista luonnollisista henkilöistä rekisteriin talletetuista osoite- ja muista yhteystiedoista;",
+      "clause_number": 3,
+      "section_number": "90",
+      "statute_id": "8/1955"
+    },
+    {
+      "id": "6e896042-0780-4e87-b940-d869addc7959",
+      "node_type": "Clause",
+      "publisher": "finlex",
+      "title": "§ 90 mom 1",
+      "text": "4) 5 §:n 1 momentin 1 kohdassa tarkoitetuista ajokorttiluvan, ajokortin ja ajo-oikeuden myöntämisestä, lajista ja luokasta sekä muista vastaavista tiedoista; sekä",
+      "clause_number": 1,
+      "section_number": "90",
+      "statute_id": "8/1955"
+    },
+    {
+      "id": "c66f3867-2a25-42a2-b588-0c7b9508c41a",
+      "node_type": "Clause",
+      "publisher": "finlex",
+      "title": "§ 90 mom 4",
+      "text": "4) 5 §:n 1 momentin 1 kohdassa tarkoitetuista ajokorttiluvan, ajokortin ja ajo-oikeuden myöntämisestä, lajista ja luokasta sekä muista vastaavista tiedoista; sekä",
+      "clause_number": 4,
+      "section_number": "90",
+      "statute_id": "8/1955"
+    },
+    {
+      "id": "42215fbd-d067-4978-bab5-b688cb6f0bc3",
+      "node_type": "Clause",
+      "publisher": "finlex",
+      "title": "§ 90 mom 1",
+      "text": "5) 7 §:n 1 momentin 1 kohdassa tarkoitetuista ajoneuvon teknisistä tiedoista, yksilöintitiedoista ja kaupallisista tiedoista.",
+      "clause_number": 1,
+      "section_number": "90",
+      "statute_id": "8/1955"
+    },
+    {
+      "id": "fc2f4202-25f3-430e-9505-a6a01bbb0ce1",
+      "node_type": "Clause",
+      "publisher": "finlex",
+      "title": "§ 90 mom 5",
+      "text": "5) 7 §:n 1 momentin 1 kohdassa tarkoitetuista ajoneuvon teknisistä tiedoista, yksilöintitiedoista ja kaupallisista tiedoista.",
+      "clause_number": 5,
+      "section_number": "90",
+      "statute_id": "8/1955"
+    },
+    {
+      "id": "a1afee69-dd57-4a6e-9285-e308a6f06c9a",
+      "node_type": "Clause",
+      "publisher": "finlex",
+      "title": "§ 91 mom 1",
+      "text": "1) toimenpiteen kohdetta;",
+      "clause_number": 1,
+      "section_number": "91",
+      "statute_id": "8/1955"
+    },
+    {
+      "id": "f8882a7a-55bd-45e8-b657-619259d23183",
+      "node_type": "Clause",
+      "publisher": "finlex",
+      "title": "§ 91 mom 2",
+      "text": "2) onnettomuus- tai tehtävätyyppiä;",
+      "clause_number": 2,
+      "section_number": "91",
+      "statute_id": "8/1955"
+    },
+    {
+      "id": "ce6ebec1-986d-4f90-8a00-2507be2a5a6e",
+      "node_type": "Clause",
+      "publisher": "finlex",
+      "title": "§ 91 mom 3",
+      "text": "3) onnettomuuden teknisiä yksityiskohtia ja onnettomuuden etenemistä;",
+      "clause_number": 3,
+      "section_number": "91",
+      "statute_id": "8/1955"
+    },
+    {
+      "id": "f0e3815a-ab33-4477-bf5d-07d4e912d0b0",
+      "node_type": "Clause",
+      "publisher": "finlex",
+      "title": "§ 91 mom 4",
+      "text": "4) toimenpiteessä käytettyjä pelastus- ja torjuntamenetelmiä;",
+      "clause_number": 4,
+      "section_number": "91",
+      "statute_id": "8/1955"
+    },
+    {
+      "id": "676d8a18-8ae8-42c2-b52a-22d665fec191",
+      "node_type": "Clause",
+      "publisher": "finlex",
+      "title": "§ 91 mom 5",
+      "text": "5) toimenpiteessä käytettyjä henkilöstövoimavaroja;",
+      "clause_number": 5,
+      "section_number": "91",
+      "statute_id": "8/1955"
+    },
+    {
+      "id": "a84a8bc0-f5c5-4671-b358-c8acd29df2c3",
+      "node_type": "Clause",
+      "publisher": "finlex",
+      "title": "§ 91 mom 6",
+      "text": "6) toimenpiteessä käytettyjä ajoneuvoja ja muuta kalustoa;",
+      "clause_number": 6,
+      "section_number": "91",
+      "statute_id": "8/1955"
+    },
+    {
+      "id": "1bd18692-95a8-4db1-b8fc-f8751894ca6e",
+      "node_type": "Clause",
+      "publisher": "finlex",
+      "title": "§ 91 mom 7",
+      "text": "7) pelastustoiminnan tuloksellisuutta;",
+      "clause_number": 7,
+      "section_number": "91",
+      "statute_id": "8/1955"
+    },
+    {
+      "id": "613f17ac-bffc-43df-a13f-af19af87c29b",
+      "node_type": "Clause",
+      "publisher": "finlex",
+      "title": "§ 91 mom 8",
+      "text": "8) onnettomuuden aiheuttamia vahinkoja ja vahinkojen laajuuteen vaikuttaneita tekijöitä;",
+      "clause_number": 8,
+      "section_number": "91",
+      "statute_id": "8/1955"
+    },
+    {
+      "id": "92dc007e-3124-4e33-a30a-41cbc4826116",
+      "node_type": "Clause",
+      "publisher": "finlex",
+      "title": "§ 91 mom 9",
+      "text": "9) onnettomuuden syitä.",
+      "clause_number": 9,
+      "section_number": "91",
+      "statute_id": "8/1955"
+    },
+    {
+      "id": "c946ea5d-075b-490f-8242-69d073c1a632",
+      "node_type": "Clause",
+      "publisher": "finlex",
+      "title": "§ 91 mom 1",
+      "text": "1) pelastustoimintaa tai valvontaa varten Hätäkeskuslaitokselle, pelastusviranomaiselle, Turvallisuus- ja kemikaalivirastolle ja 107 §:ssä tarkoitetulle tutkintalautakunnan jäsenelle ja asiantuntijalle;",
+      "clause_number": 1,
+      "section_number": "91",
+      "statute_id": "8/1955"
+    },
+    {
+      "id": "5d04a8b3-8e5b-4620-a7d1-1c423fcccc48",
+      "node_type": "Clause",
+      "publisher": "finlex",
+      "title": "§ 91 mom 2",
+      "text": "2) öljyvahingon ja aluskemikaalivahingon torjuntaa ja siihen varautumista varten Suomen ympäristökeskukselle ja elinkeino-, liikenne- ja ympäristökeskuksille;",
+      "clause_number": 2,
+      "section_number": "91",
+      "statute_id": "8/1955"
+    },
+    {
+      "id": "6b872a47-40e8-4732-a689-0d84c3bb896e",
+      "node_type": "Clause",
+      "publisher": "finlex",
+      "title": "§ 91 mom 3",
+      "text": "3) onnettomuustutkintaa varten tutkintaa suorittavalle tutkintalautakunnalle ja viranomaiselle;",
+      "clause_number": 3,
+      "section_number": "91",
+      "statute_id": "8/1955"
+    },
+    {
+      "id": "16a88db6-9fdc-4168-848a-a38739d86dd9",
+      "node_type": "Clause",
+      "publisher": "finlex",
+      "title": "§ 91 mom 4",
+      "text": "4) tieteellistä tutkimusta varten muillekin viranomaisille, tutkimuslaitoksille ja tutkijoille.",
+      "clause_number": 4,
+      "section_number": "91",
+      "statute_id": "8/1955"
+    },
+    {
+      "id": "066aa2fe-0658-4156-8bd2-5a5b2f8dc22a",
+      "node_type": "Clause",
+      "publisher": "finlex",
+      "title": "§ 96 mom 1",
+      "text": "1) tämän lain 79 §:ssä tarkoitetun valvontasuunnitelman mukaisen palotarkastuksen tai muun valvontatoimenpiteen suorittamisesta;",
+      "clause_number": 1,
+      "section_number": "96",
+      "statute_id": "8/1955"
+    },
+    {
+      "id": "999d3564-b2eb-4474-b605-2bb379451499",
+      "node_type": "Clause",
+      "publisher": "finlex",
+      "title": "§ 96 mom 2",
+      "text": "2) tehtävästä, jonka on aiheuttanut hätäkeskukseen liitetyn paloilmoittimen toistuva erheellinen toiminta;",
+      "clause_number": 2,
+      "section_number": "96",
+      "statute_id": "8/1955"
+    },
+    {
+      "id": "d19dc2ff-449e-4618-a9b5-4ebc7c038d87",
+      "node_type": "Clause",
+      "publisher": "finlex",
+      "title": "§ 96 mom 3",
+      "text": "3) tehtävästä, joka on muussa laissa erikseen säädetty maksulliseksi.",
+      "clause_number": 3,
+      "section_number": "96",
+      "statute_id": "8/1955"
+    },
+    {
+      "id": "27e64079-95df-4ad4-94cd-1a8124838394",
+      "node_type": "Clause",
+      "publisher": "finlex",
+      "title": "§ 102 mom 1",
+      "text": "1) ryhtynyt omatoimisiin pelastustoimenpiteisiin 3 §:ssä säädetyn toimintavelvollisuuden perusteella;",
+      "clause_number": 1,
+      "section_number": "102",
+      "statute_id": "8/1955"
+    },
+    {
+      "id": "1acd7048-1780-4c66-a972-0123ee4222f7",
+      "node_type": "Clause",
+      "publisher": "finlex",
+      "title": "§ 102 mom 2",
+      "text": "2) osallistunut pelastustoimintaan 25 §:ssä tarkoitetun sopimuspalokunnan tai muun sopimuksen tehneen yhteisön jäsenenä;",
+      "clause_number": 2,
+      "section_number": "102",
+      "statute_id": "8/1955"
+    },
+    {
+      "id": "c501554f-e7d3-47aa-9fa5-339d0b5f6cd0",
+      "node_type": "Clause",
+      "publisher": "finlex",
+      "title": "§ 102 mom 1",
+      "text": "3) määrätty avustamaan pelastustoiminnassa 37 §:n 1 momentin mukaisesti; tai",
+      "clause_number": 1,
+      "section_number": "102",
+      "statute_id": "8/1955"
+    },
+    {
+      "id": "eddde867-20f9-403c-8319-aad329204c99",
+      "node_type": "Clause",
+      "publisher": "finlex",
+      "title": "§ 102 mom 3",
+      "text": "3) määrätty avustamaan pelastustoiminnassa 37 §:n 1 momentin mukaisesti; tai",
+      "clause_number": 3,
+      "section_number": "102",
+      "statute_id": "8/1955"
+    },
+    {
+      "id": "01ea18ed-d6e9-49b4-9792-4273b81cd4ff",
+      "node_type": "Clause",
+      "publisher": "finlex",
+      "title": "§ 102 mom 4",
+      "text": "4) vapaaehtoisesti osallistunut pelastustoimintaan 51 §:ssä tarkoitetulla tavalla.",
+      "clause_number": 4,
+      "section_number": "102",
+      "statute_id": "8/1955"
+    },
+    {
+      "id": "07c8f1bc-954e-4251-ad4e-f88f0941bf2e",
+      "node_type": "Clause",
+      "publisher": "finlex",
+      "title": "§ 103 mom 1",
+      "text": "1) ovat 3 §:ssä säädetyn toimintavelvollisuuden perusteella ryhtyneet omatoimisiin pelastustoimenpiteisiin;",
+      "clause_number": 1,
+      "section_number": "103",
+      "statute_id": "8/1955"
+    },
+    {
+      "id": "7d95313f-1623-4902-af6b-dba3fc8730d3",
+      "node_type": "Clause",
+      "publisher": "finlex",
+      "title": "§ 103 mom 2",
+      "text": "2) kuuluvat 25 §:ssä tarkoitettuun sopimuspalokuntaan tai muuhun sopimuksen tehneeseen yhteisöön mutta eivät ole oikeutettuja korvauksiin tapaturmavakuutuslain (608/1948) 1 §:n mukaan;",
+      "clause_number": 2,
+      "section_number": "103",
+      "statute_id": "8/1955"
+    },
+    {
+      "id": "12b6c913-8ffc-4f91-8d89-8b3ba06a2ffe",
+      "node_type": "Clause",
+      "publisher": "finlex",
+      "title": "§ 103 mom 1",
+      "text": "3) on 37 §:n 1 momentin mukaisesti määrätty avustamaan pelastustoiminnassa;",
+      "clause_number": 1,
+      "section_number": "103",
+      "statute_id": "8/1955"
+    },
+    {
+      "id": "c30ed888-55f2-4fe8-93e1-2f95e8c9f4b1",
+      "node_type": "Clause",
+      "publisher": "finlex",
+      "title": "§ 103 mom 3",
+      "text": "3) on 37 §:n 1 momentin mukaisesti määrätty avustamaan pelastustoiminnassa;",
+      "clause_number": 3,
+      "section_number": "103",
+      "statute_id": "8/1955"
+    },
+    {
+      "id": "b83b97d4-b1d5-4d7d-b7d4-37c52ae88aeb",
+      "node_type": "Clause",
+      "publisher": "finlex",
+      "title": "§ 103 mom 4",
+      "text": "4) ovat vapaaehtoisesti osallistuneet pelastustoimintaan 51 §:ssä tarkoitetulla tavalla; tai",
+      "clause_number": 4,
+      "section_number": "103",
+      "statute_id": "8/1955"
+    },
+    {
+      "id": "87492af0-654b-48c3-9b54-07bb1535b342",
+      "node_type": "Clause",
+      "publisher": "finlex",
+      "title": "§ 103 mom 5",
+      "text": "5) on 67 §:n perusteella määrätty väestönsuojelukoulutukseen.",
+      "clause_number": 5,
+      "section_number": "103",
+      "statute_id": "8/1955"
+    },
+    {
+      "id": "ba69df72-c48f-450b-b54a-bb707b26319a",
+      "node_type": "Clause",
+      "publisher": "finlex",
+      "title": "§ 105 mom 1",
+      "text": "1) laiminlyö 11 §:n 1 momentissa säädetyn velvollisuuden merkitä pelastustie asianmukaisesti,",
+      "clause_number": 1,
+      "section_number": "105",
+      "statute_id": "8/1955"
+    },
+    {
+      "id": "33eaa495-791e-4d78-8585-bb893d958f14",
+      "node_type": "Clause",
+      "publisher": "finlex",
+      "title": "§ 105 mom 1",
+      "text": "1) laiminlyö 11 §:n 1 momentissa säädetyn velvollisuuden merkitä pelastustie asianmukaisesti,",
+      "clause_number": 1,
+      "section_number": "105",
+      "statute_id": "8/1955"
+    },
+    {
+      "id": "8db01aa2-3082-4450-a095-563d45f161c3",
+      "node_type": "Clause",
+      "publisher": "finlex",
+      "title": "§ 105 mom 1",
+      "text": "2) laiminlyö 12 §:n 1 momentissa säädetyn velvollisuuden pitää sammutus-, pelastus- ja torjuntakalusto, sammutus- ja pelastustyötä helpottavat laitteet ja palonilmaisulaitteet sekä muut hälytys- ja onnettomuuden vaaraa ilmaisevat laitteet, poistumisreittien opasteet ja valaistuksen tai väestönsuojien varusteet ja laitteet toimintakunnossa sekä huollettuina ja tarkastettuina asianmukaisesti,",
+      "clause_number": 1,
+      "section_number": "105",
+      "statute_id": "8/1955"
+    },
+    {
+      "id": "8375855a-fc58-4c3c-be69-6411ab0ad254",
+      "node_type": "Clause",
+      "publisher": "finlex",
+      "title": "§ 105 mom 2",
+      "text": "2) laiminlyö 12 §:n 1 momentissa säädetyn velvollisuuden pitää sammutus-, pelastus- ja torjuntakalusto, sammutus- ja pelastustyötä helpottavat laitteet ja palonilmaisulaitteet sekä muut hälytys- ja onnettomuuden vaaraa ilmaisevat laitteet, poistumisreittien opasteet ja valaistuksen tai väestönsuojien varusteet ja laitteet toimintakunnossa sekä huollettuina ja tarkastettuina asianmukaisesti,",
+      "clause_number": 2,
+      "section_number": "105",
+      "statute_id": "8/1955"
+    },
+    {
+      "id": "8409eb31-fd71-400a-b24b-ca97b5ce918e",
+      "node_type": "Clause",
+      "publisher": "finlex",
+      "title": "§ 105 mom 3",
+      "text": "3) laiminlyö 13 §:ssä säädetyn velvollisuuden huolehtia nuohouksesta ja ilmanvaihtokanavien ja -laitteiden huollosta ja puhdistamisesta tai tikkaiden, kattokulkuteiden ja turvavarusteiden pitämisestä kunnossa,",
+      "clause_number": 3,
+      "section_number": "105",
+      "statute_id": "8/1955"
+    },
+    {
+      "id": "328b8487-7126-4c83-9914-c09dca873178",
+      "node_type": "Clause",
+      "publisher": "finlex",
+      "title": "§ 105 mom 4",
+      "text": "4) laiminlyö 15 §:ssä säädetyn velvollisuuden laatia pelastussuunnitelma,",
+      "clause_number": 4,
+      "section_number": "105",
+      "statute_id": "8/1955"
+    },
+    {
+      "id": "87bb5141-2ca9-40c6-9bc5-e2905d2c5958",
+      "node_type": "Clause",
+      "publisher": "finlex",
+      "title": "§ 105 mom 5",
+      "text": "5) laiminlyö 17 §:ssä säädetyn velvollisuuden varustaa asunto, majoitustilat, hoitolaitos tai palvelu- ja tukiasumiseen kuuluvat tilat palovaroittimilla tai muilla laitteilla, jotka mahdollisimman aikaisin havaitsevat alkavan tulipalon ja varoittavat siitä,",
+      "clause_number": 5,
+      "section_number": "105",
+      "statute_id": "8/1955"
+    },
+    {
+      "id": "995785a2-b0fb-45cf-9d59-63f7338932ce",
+      "node_type": "Clause",
+      "publisher": "finlex",
+      "title": "§ 105 mom 6",
+      "text": "6) laiminlyö 19 §:ssä säädetyn velvollisuuden laatia poistumisturvallisuusselvitys ja jättää toimittamatta sen alueen pelastusviranomaiselle ja rakennusvalvontaviranomaiselle,",
+      "clause_number": 6,
+      "section_number": "105",
+      "statute_id": "8/1955"
+    },
+    {
+      "id": "cc83d451-8ba6-4ac9-a64a-d3b0fbe83eef",
+      "node_type": "Clause",
+      "publisher": "finlex",
+      "title": "§ 105 mom 7",
+      "text": "7) laiminlyö 20 §:ssä säädetyn velvollisuuden laatia poistumisturvallisuuden toteuttamissuunnitelma asetetussa määräajassa,",
+      "clause_number": 7,
+      "section_number": "105",
+      "statute_id": "8/1955"
+    },
+    {
+      "id": "60efeeaf-7656-4d31-ad83-a18674bb4cb4",
+      "node_type": "Clause",
+      "publisher": "finlex",
+      "title": "§ 105 mom 8",
+      "text": "8) laiminlyö 48 §:ssä säädetyn velvollisuuden laatia erityistä vaaraa aiheuttavan kohteen ulkoinen pelastussuunnitelma, tiedottaa suunnitelmasta tai järjestää harjoituksia suunnitelman toimivuuden varmistamiseksi,",
+      "clause_number": 8,
+      "section_number": "105",
+      "statute_id": "8/1955"
+    },
+    {
+      "id": "37f2232c-4004-4421-99d7-8aeae8de26be",
+      "node_type": "Clause",
+      "publisher": "finlex",
+      "title": "§ 105 mom 9",
+      "text": "9) laiminlyö 71 §:ssä säädetyn väestönsuojan rakentamisvelvollisuuden,",
+      "clause_number": 9,
+      "section_number": "105",
+      "statute_id": "8/1955"
+    },
+    {
+      "id": "9df3fb89-4f62-4d78-aa4e-557e3fa37dc2",
+      "node_type": "Clause",
+      "publisher": "finlex",
+      "title": "§ 105 mom 10",
+      "text": "10) laiminlyö 72 §:ssä säädetyn väestönsuojan kunnostamisvelvollisuuden muutos- ja korjaustyön yhteydessä,",
+      "clause_number": 10,
+      "section_number": "105",
+      "statute_id": "8/1955"
+    },
+    {
+      "id": "78acbf15-01b0-4729-a41b-58759c320ed1",
+      "node_type": "Clause",
+      "publisher": "finlex",
+      "title": "§ 105 mom 11",
+      "text": "11) laiminlyö 81 §:ssä säädetyn korjausmääräyksen noudattamisen,",
+      "clause_number": 11,
+      "section_number": "105",
+      "statute_id": "8/1955"
+    },
+    {
+      "id": "1deaf50e-de9e-480f-ae7b-25b6ea99f356",
+      "node_type": "Clause",
+      "publisher": "finlex",
+      "title": "§ 105 mom 12",
+      "text": "12) ei noudata tai toteuta 82 §:n mukaisesti määrättyjä erityisiä turvallisuusvaatimuksia,",
+      "clause_number": 12,
+      "section_number": "105",
+      "statute_id": "8/1955"
+    },
+    {
+      "id": "69341437-c06b-41d6-afa1-7cfe89264b89",
+      "node_type": "Clause",
+      "publisher": "finlex",
+      "title": "§ 105 mom 13",
+      "text": "13) vastustaa 108 §:ssä tarkoitettujen pelastustoimen tarvitsemien laitteiden sijoittamista rakennukseen tai rakennelmaan taikka",
+      "clause_number": 13,
+      "section_number": "105",
+      "statute_id": "8/1955"
+    },
+    {
+      "id": "4eab82a4-a298-42cd-84e5-213df7241f27",
+      "node_type": "Clause",
+      "publisher": "finlex",
+      "title": "§ 105 mom 14",
+      "text": "14) laiminlyö velvollisuuden hankkia ja pitää toimintakunnossa alueen pelastusviranomaisen 109 §:n nojalla määräämiä viranomaisverkon käytettävyyttä varmistavia laitteita,",
+      "clause_number": 14,
+      "section_number": "105",
+      "statute_id": "8/1955"
+    },
+    {
+      "id": "4379e51e-422a-4839-bad9-8edac92d5237",
+      "node_type": "Clause",
+      "publisher": "finlex",
+      "title": "§ 106 mom 1",
+      "text": "1) laiminlyö 3 §:ssä säädetyn toimintavelvollisuuden,",
+      "clause_number": 1,
+      "section_number": "106",
+      "statute_id": "8/1955"
+    },
+    {
+      "id": "1ed2b26f-9a7f-4850-8ae9-fa5584ea036c",
+      "node_type": "Clause",
+      "publisher": "finlex",
+      "title": "§ 106 mom 1",
+      "text": "2) olennaisesti laiminlyö 4 §:n 1 momentissa säädetyn velvollisuuden osoittaa huolellisuutta tulipalon tai muun onnettomuuden vaaran ja vahingon välttämiseksi,",
+      "clause_number": 1,
+      "section_number": "106",
+      "statute_id": "8/1955"
+    },
+    {
+      "id": "c1c04c7d-6431-497e-92a9-3d45b5686618",
+      "node_type": "Clause",
+      "publisher": "finlex",
+      "title": "§ 106 mom 2",
+      "text": "2) olennaisesti laiminlyö 4 §:n 1 momentissa säädetyn velvollisuuden osoittaa huolellisuutta tulipalon tai muun onnettomuuden vaaran ja vahingon välttämiseksi,",
+      "clause_number": 2,
+      "section_number": "106",
+      "statute_id": "8/1955"
+    },
+    {
+      "id": "f2553337-daa3-4410-aa6a-74190c6e6fb4",
+      "node_type": "Clause",
+      "publisher": "finlex",
+      "title": "§ 106 mom 3",
+      "text": "3) rikkoo 6 §:ssä säädettyä avotulen sytyttämiskieltoa,",
+      "clause_number": 3,
+      "section_number": "106",
+      "statute_id": "8/1955"
+    },
+    {
+      "id": "0c7ea9dc-7b57-4f51-b632-139dff2da575",
+      "node_type": "Clause",
+      "publisher": "finlex",
+      "title": "§ 106 mom 2",
+      "text": "4) kulottaa metsämaata ilman 7 §:n 2 momentissa tarkoitetun metsäammattilaisen valvontaa,",
+      "clause_number": 2,
+      "section_number": "106",
+      "statute_id": "8/1955"
+    },
+    {
+      "id": "875b1c18-d623-408b-968d-5782e0910a51",
+      "node_type": "Clause",
+      "publisher": "finlex",
+      "title": "§ 106 mom 4",
+      "text": "4) kulottaa metsämaata ilman 7 §:n 2 momentissa tarkoitetun metsäammattilaisen valvontaa,",
+      "clause_number": 4,
+      "section_number": "106",
+      "statute_id": "8/1955"
+    },
+    {
+      "id": "d3173d7b-d213-47be-bacc-05f6b5a90bb5",
+      "node_type": "Clause",
+      "publisher": "finlex",
+      "title": "§ 106 mom 5",
+      "text": "5) laiminlyö 8 §:ssä säädetyn velvollisuuden ilmoittaa pelastuslaitokselle kulotuksesta,",
+      "clause_number": 5,
+      "section_number": "106",
+      "statute_id": "8/1955"
+    },
+    {
+      "id": "946ed47b-b047-4c2d-9a87-a247a25174f3",
+      "node_type": "Clause",
+      "publisher": "finlex",
+      "title": "§ 106 mom 6",
+      "text": "6) jättää noudattamatta 9 §:ssä säädettyjä palo- tai poistumisturvallisuusvaatimuksia tai säilyttää pykälässä säädetyn vastaisesti helposti syttyvää materiaalia tai muuta tavaraa,",
+      "clause_number": 6,
+      "section_number": "106",
+      "statute_id": "8/1955"
+    },
+    {
+      "id": "593c301b-be7e-4ad2-8383-9ba989a8c4a1",
+      "node_type": "Clause",
+      "publisher": "finlex",
+      "title": "§ 106 mom 7",
+      "text": "7) laiminlyö 10 §:ssä säädetyn velvollisuuden huolehtia rakennusten uloskäytävistä tai kulkureiteistä, rikkoo kieltoa säilyttää uloskäytävillä ja kulkureiteillä tavaraa tai laiminlyö velvollisuuden tarvittaessa merkitä ja valaista uloskäytävät ja kulkureitit asianmukaisesti,",
+      "clause_number": 7,
+      "section_number": "106",
+      "statute_id": "8/1955"
+    },
+    {
+      "id": "8de73cdb-0d4f-43a2-ae98-3eaefb421e12",
+      "node_type": "Clause",
+      "publisher": "finlex",
+      "title": "§ 106 mom 8",
+      "text": "8) laiminlyö 11 §:ssä säädetyn velvollisuuden pitää pelastustiet ajokelpoisina ja esteettöminä tai rikkoo kieltoa pysäköidä pelastustielle tai asettaa sille muutakaan estettä,",
+      "clause_number": 8,
+      "section_number": "106",
+      "statute_id": "8/1955"
+    },
+    {
+      "id": "8e1d018f-6829-4304-86af-2cd4b5ef6b75",
+      "node_type": "Clause",
+      "publisher": "finlex",
+      "title": "§ 106 mom 9",
+      "text": "9) laiminlyö 16 §:ssä säädetyn velvollisuuden toimittaa yleisötilaisuuden pelastussuunnitelma alueen pelastusviranomaiselle määräajassa,",
+      "clause_number": 9,
+      "section_number": "106",
+      "statute_id": "8/1955"
+    },
+    {
+      "id": "17f32c4e-3ebe-4522-9763-c5fedde936cc",
+      "node_type": "Clause",
+      "publisher": "finlex",
+      "title": "§ 106 mom 10",
+      "text": "10) laiminlyö 22 §:ssä säädetyn velvollisuuden keskeyttää turvetuotanto,",
+      "clause_number": 10,
+      "section_number": "106",
+      "statute_id": "8/1955"
+    },
+    {
+      "id": "18c52761-7668-4f3c-b88e-6376330b1cea",
+      "node_type": "Clause",
+      "publisher": "finlex",
+      "title": "§ 106 mom 1",
+      "text": "11) laiminlyö 37 §:n 1 momentissa tarkoitetun velvollisuuden osallistua pelastustoimintaan,",
+      "clause_number": 1,
+      "section_number": "106",
+      "statute_id": "8/1955"
+    },
+    {
+      "id": "3bdc6bbd-0dcd-4b1b-9df4-71da85e223e4",
+      "node_type": "Clause",
+      "publisher": "finlex",
+      "title": "§ 106 mom 11",
+      "text": "11) laiminlyö 37 §:n 1 momentissa tarkoitetun velvollisuuden osallistua pelastustoimintaan,",
+      "clause_number": 11,
+      "section_number": "106",
+      "statute_id": "8/1955"
+    },
+    {
+      "id": "890db4b2-ba6d-4e65-9588-f8f710a34eff",
+      "node_type": "Clause",
+      "publisher": "finlex",
+      "title": "§ 106 mom 4",
+      "text": "12) rikkoo 37 §:n 4 momentissa säädettyä kieltoa lähteä palo- tai onnettomuuspaikalta,",
+      "clause_number": 4,
+      "section_number": "106",
+      "statute_id": "8/1955"
+    },
+    {
+      "id": "872ac263-615a-4d77-9268-54d69ddf0a92",
+      "node_type": "Clause",
+      "publisher": "finlex",
+      "title": "§ 106 mom 12",
+      "text": "12) rikkoo 37 §:n 4 momentissa säädettyä kieltoa lähteä palo- tai onnettomuuspaikalta,",
+      "clause_number": 12,
+      "section_number": "106",
+      "statute_id": "8/1955"
+    },
+    {
+      "id": "9ecedb69-b8da-4465-9b4d-333e7b1fb6b9",
+      "node_type": "Clause",
+      "publisher": "finlex",
+      "title": "§ 106 mom 13",
+      "text": "13) laiminlyö 61 §:ssä säädetyn velvollisuuden ilmoittaa tulisijoissa ja savuhormeissa olevista vioista tai puutteista,",
+      "clause_number": 13,
+      "section_number": "106",
+      "statute_id": "8/1955"
+    },
+    {
+      "id": "afed3a49-effa-4292-a4d3-9c73f1a8bdee",
+      "node_type": "Clause",
+      "publisher": "finlex",
+      "title": "§ 106 mom 14",
+      "text": "14) laiminlyö 62 §:ssä säädetyn velvollisuuden pitää luetteloa nuohotuista kohteista tai säilyttää tietoja nuohouksen suorittamisesta taikka",
+      "clause_number": 14,
+      "section_number": "106",
+      "statute_id": "8/1955"
+    },
+    {
+      "id": "526973a1-9673-4479-acfc-7dd8f20d5b02",
+      "node_type": "Clause",
+      "publisher": "finlex",
+      "title": "§ 106 mom 2",
+      "text": "15) laiminlyö 80 §:n 2 momentissa säädetyn velvollisuuden esittää siinä tarkoitetut asiakirjat,",
+      "clause_number": 2,
+      "section_number": "106",
+      "statute_id": "8/1955"
+    },
+    {
+      "id": "57bbe707-b269-4926-a309-ff547a09d8ef",
+      "node_type": "Clause",
+      "publisher": "finlex",
+      "title": "§ 106 mom 15",
+      "text": "15) laiminlyö 80 §:n 2 momentissa säädetyn velvollisuuden esittää siinä tarkoitetut asiakirjat,",
+      "clause_number": 15,
+      "section_number": "106",
+      "statute_id": "8/1955"
+    },
+    {
+      "id": "9aac4020-6e93-45d6-92cb-26994d7be451",
+      "node_type": "Clause",
+      "publisher": "finlex",
+      "title": "§ 112 mom 1",
+      "text": "1) jos muussa laissa tai sen nojalla annetussa säännöksessä viitataan kumottuun pelastuslakiin, viittauksen katsotaan tarkoittavan viittausta tämän lain vastaaviin säännöksiin;",
+      "clause_number": 1,
+      "section_number": "112",
+      "statute_id": "8/1955"
+    },
+    {
+      "id": "e97006fd-d762-41fa-bc62-e72fa71fbb1f",
+      "node_type": "Clause",
+      "publisher": "finlex",
+      "title": "§ 112 mom 2",
+      "text": "2) kumotun pelastustoimen alueiden muodostamisesta annetun lain 3 §:n nojalla tehty valtioneuvoston päätös pelastustoimen aluejaosta on voimassa, kunnes valtioneuvosto päättää vahvistetun aluejaon muuttamisesta tämän lain 24 §:ssä säädetyn mukaisesti;",
+      "clause_number": 2,
+      "section_number": "112",
+      "statute_id": "8/1955"
+    },
+    {
+      "id": "781b3748-fbe2-4871-acd9-d3d8e4ac6131",
+      "node_type": "Clause",
+      "publisher": "finlex",
+      "title": "§ 112 mom 1",
+      "text": "3) kumotun pelastustoimen alueiden muodostamisesta annetun lain 4 §:n 1 momentin nojalla tehdyt kuntien sopimukset pelastustoimen yhteistoiminnan järjestämisestä sekä mainitun lain 4 §:n 2 momentin mukaiset valtioneuvoston määräykset kuntien yhteistoiminnan järjestämisestä ovat voimassa, kunnes alueen kunnat muuttavat sopimuksia tämän lain 24 §:n 2 momentin mukaisesti aluejaon muuttamisen yhteydessä tai muutoin tämän lain 24 §:n 3 momentin mukaisesti;",
+      "clause_number": 1,
+      "section_number": "112",
+      "statute_id": "8/1955"
+    },
+    {
+      "id": "bfa5abdf-bd24-4138-bc3e-09a11c037354",
+      "node_type": "Clause",
+      "publisher": "finlex",
+      "title": "§ 112 mom 3",
+      "text": "3) kumotun pelastustoimen alueiden muodostamisesta annetun lain 4 §:n 1 momentin nojalla tehdyt kuntien sopimukset pelastustoimen yhteistoiminnan järjestämisestä sekä mainitun lain 4 §:n 2 momentin mukaiset valtioneuvoston määräykset kuntien yhteistoiminnan järjestämisestä ovat voimassa, kunnes alueen kunnat muuttavat sopimuksia tämän lain 24 §:n 2 momentin mukaisesti aluejaon muuttamisen yhteydessä tai muutoin tämän lain 24 §:n 3 momentin mukaisesti;",
+      "clause_number": 3,
+      "section_number": "112",
+      "statute_id": "8/1955"
+    },
+    {
+      "id": "96ec6b34-2c99-4b1b-a024-af1de1bb269e",
+      "node_type": "Clause",
+      "publisher": "finlex",
+      "title": "§ 112 mom 4",
+      "text": "4) tämän lain 15 §:n mukainen pelastussuunnitelma on laadittava vuoden kuluessa tämän lain voimaantulosta, jollei tämän momentin 5 kohdasta muuta johdu;",
+      "clause_number": 4,
+      "section_number": "112",
+      "statute_id": "8/1955"
+    },
+    {
+      "id": "64bc6faf-b591-4fd9-a351-ff04c42759f3",
+      "node_type": "Clause",
+      "publisher": "finlex",
+      "title": "§ 112 mom 3",
+      "text": "5) edellä 4 kohdassa säädetystä poiketen on rakennuksen tai kohteen, jota varten on laadittu kumotun pelastuslain 8 §:n 3 momentin mukainen pelastussuunnitelma, suunnitelma päivitettävä tämän lain ja sen nojalla annettujen säännösten mukaiseksi pelastussuunnitelmaksi kahden vuoden kuluessa tämän lain voimaantulosta;",
+      "clause_number": 3,
+      "section_number": "112",
+      "statute_id": "8/1955"
+    },
+    {
+      "id": "839e5b1a-7f37-4765-87e4-0eef70ce7327",
+      "node_type": "Clause",
+      "publisher": "finlex",
+      "title": "§ 112 mom 5",
+      "text": "5) edellä 4 kohdassa säädetystä poiketen on rakennuksen tai kohteen, jota varten on laadittu kumotun pelastuslain 8 §:n 3 momentin mukainen pelastussuunnitelma, suunnitelma päivitettävä tämän lain ja sen nojalla annettujen säännösten mukaiseksi pelastussuunnitelmaksi kahden vuoden kuluessa tämän lain voimaantulosta;",
+      "clause_number": 5,
+      "section_number": "112",
+      "statute_id": "8/1955"
+    },
+    {
+      "id": "f812c0d4-a1a3-49c0-a824-def6f0af5a49",
+      "node_type": "Clause",
+      "publisher": "finlex",
+      "title": "§ 112 mom 6",
+      "text": "6) tämän lain voimaan tullessa käytössä olevissa hoitolaitoksissa ja palvelu- ja tukiasumiseen kuuluvissa rakennuksissa ja tiloissa tämän lain 19 §:ssä tarkoitettu poistumisturvallisuusselvitys on laadittava ja toimitettava alueen pelastusviranomaiselle vuoden kuluessa lain voimaantulosta;",
+      "clause_number": 6,
+      "section_number": "112",
+      "statute_id": "8/1955"
+    },
+    {
+      "id": "dcc1f791-bbe1-491d-ab5a-fa192dd65bfd",
+      "node_type": "Clause",
+      "publisher": "finlex",
+      "title": "§ 112 mom 2",
+      "text": "7) tämän lain voimaan tullessa käytössä olevissa hoitolaitoksissa ja palvelu- ja tukiasumiseen kuuluvissa rakennuksissa ja tiloissa, joihin on tehty ennen tämän lain voimaantuloa pelastusviranomaiselle toimitettu kumotun pelastuslain mukainen pelastussuunnitelma ja sen osana kumotun pelastustoimesta annetun valtioneuvoston asetuksen (787/2003) 10 §:n 2 momentissa tarkoitettu selvitys siitä, miten rakennuksessa tai tilassa olevien heikentynyt toimintakyky otetaan huomioon vaaratilanteisiin varautumisessa, tulee edellä 6 kohdassa säädetystä poiketen laatia tämän lain 19 §:ssä tarkoitettu poistumisturvallisuusselvitys ensimmäisen kerran vasta toiminnanharjoittajan vaihtuessa tai toiminnan muuttuessa olennaisesti, kuitenkin kolmen vuoden kuluessa tämän lain voimaantulosta, jollei alueen pelastusviranomainen erityisestä syystä määrää poistumisturvallisuusselvitystä tehtäväksi aiemmin;",
+      "clause_number": 2,
+      "section_number": "112",
+      "statute_id": "8/1955"
+    },
+    {
+      "id": "3515d430-70f3-4928-a0a2-6f4b3d2634f8",
+      "node_type": "Clause",
+      "publisher": "finlex",
+      "title": "§ 112 mom 7",
+      "text": "7) tämän lain voimaan tullessa käytössä olevissa hoitolaitoksissa ja palvelu- ja tukiasumiseen kuuluvissa rakennuksissa ja tiloissa, joihin on tehty ennen tämän lain voimaantuloa pelastusviranomaiselle toimitettu kumotun pelastuslain mukainen pelastussuunnitelma ja sen osana kumotun pelastustoimesta annetun valtioneuvoston asetuksen (787/2003) 10 §:n 2 momentissa tarkoitettu selvitys siitä, miten rakennuksessa tai tilassa olevien heikentynyt toimintakyky otetaan huomioon vaaratilanteisiin varautumisessa, tulee edellä 6 kohdassa säädetystä poiketen laatia tämän lain 19 §:ssä tarkoitettu poistumisturvallisuusselvitys ensimmäisen kerran vasta toiminnanharjoittajan vaihtuessa tai toiminnan muuttuessa olennaisesti, kuitenkin kolmen vuoden kuluessa tämän lain voimaantulosta, jollei alueen pelastusviranomainen erityisestä syystä määrää poistumisturvallisuusselvitystä tehtäväksi aiemmin;",
+      "clause_number": 7,
+      "section_number": "112",
+      "statute_id": "8/1955"
+    },
+    {
+      "id": "673e028f-3691-4b09-a5ed-ef4012ae8e56",
+      "node_type": "Clause",
+      "publisher": "finlex",
+      "title": "§ 112 mom 8",
+      "text": "8) kumotun pelastuslain 5 §:n nojalla tehty sopimus vapaaehtoisen palokunnan, laitospalokunnan, sotilaspalokunnan ja tehdaspalokunnan kanssa pysyy voimassa asianomaisessa sopimuksessa määritellyllä tavalla ja vastaa tämän lain 25 §:ssä tarkoitettua sopimusta;",
+      "clause_number": 8,
+      "section_number": "112",
+      "statute_id": "8/1955"
+    },
+    {
+      "id": "3375b44a-1d53-4093-97c2-f287efba2d60",
+      "node_type": "Clause",
+      "publisher": "finlex",
+      "title": "§ 112 mom 2",
+      "text": "9) tämän lain 53 §:n 2 momentissa tarkoitettu sopimus mainitun pykälän 1 momentissa tarkoitettujen palveluiden järjestämisestä tulee tehdä vuoden kuluessa tämän lain voimaantulosta, ja se voidaan liittää osaksi tämän momentin 8 kohdassa tarkoitettua kumotun pelastuslain 5 §:n nojalla tehtyä sopimusta;",
+      "clause_number": 2,
+      "section_number": "112",
+      "statute_id": "8/1955"
+    },
+    {
+      "id": "f073891e-dd11-478c-91dd-db4b0bde0e80",
+      "node_type": "Clause",
+      "publisher": "finlex",
+      "title": "§ 112 mom 9",
+      "text": "9) tämän lain 53 §:n 2 momentissa tarkoitettu sopimus mainitun pykälän 1 momentissa tarkoitettujen palveluiden järjestämisestä tulee tehdä vuoden kuluessa tämän lain voimaantulosta, ja se voidaan liittää osaksi tämän momentin 8 kohdassa tarkoitettua kumotun pelastuslain 5 §:n nojalla tehtyä sopimusta;",
+      "clause_number": 9,
+      "section_number": "112",
+      "statute_id": "8/1955"
+    },
+    {
+      "id": "582b5ba4-e3cd-4b4c-929d-1ad03169632e",
+      "node_type": "Clause",
+      "publisher": "finlex",
+      "title": "§ 112 mom 10",
+      "text": "10) kumotun pelastuslain 13 §:n mukainen palvelutasopäätös on voimassa, kunnes alueen pelastustoimi päättää palvelutasosta tämän lain 29 §:ssä säädetyn mukaisesti;",
+      "clause_number": 10,
+      "section_number": "112",
+      "statute_id": "8/1955"
+    },
+    {
+      "id": "c360bfdf-60e0-4a0e-978d-471f42203070",
+      "node_type": "Clause",
+      "publisher": "finlex",
+      "title": "§ 112 mom 11",
+      "text": "11) tämän lain 30 §:ssä tarkoitettu sammutusvesisuunnitelma tulee hyväksyä kahden vuoden kuluessa lain voimaantulosta;",
+      "clause_number": 11,
+      "section_number": "112",
+      "statute_id": "8/1955"
+    },
+    {
+      "id": "150d3e75-363a-445a-a105-f07cb44aab0a",
+      "node_type": "Clause",
+      "publisher": "finlex",
+      "title": "§ 112 mom 12",
+      "text": "12) ennen 11 kohdassa tarkoitetun sammutusvesisuunnitelman hyväksymistä ja toimeenpanoa noudatetaan, mitä sammutusvedestä säädetään kumotun pelastuslain 47 §:ssä;",
+      "clause_number": 12,
+      "section_number": "112",
+      "statute_id": "8/1955"
+    },
+    {
+      "id": "d3b3d1e7-e690-4fec-94d9-00542af7a270",
+      "node_type": "Clause",
+      "publisher": "finlex",
+      "title": "§ 112 mom 1",
+      "text": "13) kumotun pelastuslain 9 §:n 1 momentissa tarkoitetut pelastustoimen suunnitelmat on päivitettävä ja uusittava tämän lain 47 §:n mukaisiksi pelastustoimen suunnitelmiksi vuoden kuluessa lain voimaantulosta;",
+      "clause_number": 1,
+      "section_number": "112",
+      "statute_id": "8/1955"
+    },
+    {
+      "id": "60fc619b-6fb1-4c74-8303-9fa2b802dcc0",
+      "node_type": "Clause",
+      "publisher": "finlex",
+      "title": "§ 112 mom 13",
+      "text": "13) kumotun pelastuslain 9 §:n 1 momentissa tarkoitetut pelastustoimen suunnitelmat on päivitettävä ja uusittava tämän lain 47 §:n mukaisiksi pelastustoimen suunnitelmiksi vuoden kuluessa lain voimaantulosta;",
+      "clause_number": 13,
+      "section_number": "112",
+      "statute_id": "8/1955"
+    },
+    {
+      "id": "eaa2f201-3861-44fe-9aec-c6756fdcf46b",
+      "node_type": "Clause",
+      "publisher": "finlex",
+      "title": "§ 112 mom 2",
+      "text": "14) kumotun pelastuslain 9 §:n 2 momentissa tarkoitettu ydinlaitoksen, vaarallisten kemikaalien teollista käsittelyä ja varastointia harjoittavan tuotantolaitoksen ja kaivannaisjätteen jätealueen pelastussuunnitelma laitoksessa sattuvan onnettomuuden varalta pysyy voimassa ja se on päivitettävä ja uusittava tämän lain 48 §:n mukaiseksi erityistä vaaraa aiheuttavien kohteiden ulkoiseksi pelastussuunnitelmaksi kahden vuoden kuluessa lain voimaantulosta;",
+      "clause_number": 2,
+      "section_number": "112",
+      "statute_id": "8/1955"
+    },
+    {
+      "id": "7f686442-2ac4-476b-903e-c9d4a89deef5",
+      "node_type": "Clause",
+      "publisher": "finlex",
+      "title": "§ 112 mom 14",
+      "text": "14) kumotun pelastuslain 9 §:n 2 momentissa tarkoitettu ydinlaitoksen, vaarallisten kemikaalien teollista käsittelyä ja varastointia harjoittavan tuotantolaitoksen ja kaivannaisjätteen jätealueen pelastussuunnitelma laitoksessa sattuvan onnettomuuden varalta pysyy voimassa ja se on päivitettävä ja uusittava tämän lain 48 §:n mukaiseksi erityistä vaaraa aiheuttavien kohteiden ulkoiseksi pelastussuunnitelmaksi kahden vuoden kuluessa lain voimaantulosta;",
+      "clause_number": 14,
+      "section_number": "112",
+      "statute_id": "8/1955"
+    },
+    {
+      "id": "21ab23f6-f287-4699-9d9a-71a7360a1f16",
+      "node_type": "Clause",
+      "publisher": "finlex",
+      "title": "§ 112 mom 1",
+      "text": "15) tämän lain 48 §:n 1 momentin 2 kohdassa tarkoitetun puolustusvoimien tuotantolaitoksen, 4 kohdassa tarkoitetun järjestelyratapihan ja 5 kohdassa tarkoitetun satama-alueen ulkoinen pelastussuunnitelma tulee laatia kahden vuoden kuluessa lain voimaantulosta;",
+      "clause_number": 1,
+      "section_number": "112",
+      "statute_id": "8/1955"
+    },
+    {
+      "id": "35918340-af2e-4e8e-9c20-57461f770d06",
+      "node_type": "Clause",
+      "publisher": "finlex",
+      "title": "§ 112 mom 15",
+      "text": "15) tämän lain 48 §:n 1 momentin 2 kohdassa tarkoitetun puolustusvoimien tuotantolaitoksen, 4 kohdassa tarkoitetun järjestelyratapihan ja 5 kohdassa tarkoitetun satama-alueen ulkoinen pelastussuunnitelma tulee laatia kahden vuoden kuluessa lain voimaantulosta;",
+      "clause_number": 15,
+      "section_number": "112",
+      "statute_id": "8/1955"
+    },
+    {
+      "id": "ea45ddc2-d6ed-4a5b-9a28-c526200e4f40",
+      "node_type": "Clause",
+      "publisher": "finlex",
+      "title": "§ 112 mom 16",
+      "text": "16) kumotun pelastuslain 11 §:n mukainen hälytysohje pysyy voimassa, kunnes se uusitaan tämän lain 33 §:n mukaiseksi hälytysohjeeksi;",
+      "clause_number": 16,
+      "section_number": "112",
+      "statute_id": "8/1955"
+    },
+    {
+      "id": "cadaa32f-3b5d-4b50-ab2b-54343ca2bb89",
+      "node_type": "Clause",
+      "publisher": "finlex",
+      "title": "§ 112 mom 17",
+      "text": "17) kumotun pelastuslain 39 §:n nojalla solmittu nuohouspalvelujen järjestämistä koskeva sopimus pysyy voimassa asianomaisessa sopimuksessa määritellyllä tavalla;",
+      "clause_number": 17,
+      "section_number": "112",
+      "statute_id": "8/1955"
+    },
+    {
+      "id": "63c6cf15-1274-4192-b4b6-89587599ea09",
+      "node_type": "Clause",
+      "publisher": "finlex",
+      "title": "§ 112 mom 18",
+      "text": "18) tämän lain 71 §:n säännöstä väestönsuojien rakentamisvelvollisuudesta uudisrakentamisen yhteydessä sovelletaan kumotun lain asemesta sellaiseenkin rakennushankkeeseen, johon rakennuslupa on haettu jo ennen tämän lain voimaantuloa sen jälkeen, kun laki on vahvistettu, jos tämän lain soveltaminen johtaa rakennuksen omistajan kannalta lievempiin väestönsuojan rakentamista koskeviin vaatimuksiin;",
+      "clause_number": 18,
+      "section_number": "112",
+      "statute_id": "8/1955"
+    },
+    {
+      "id": "65e796d1-51e5-4053-8ae8-a172fa3da74f",
+      "node_type": "Clause",
+      "publisher": "finlex",
+      "title": "§ 112 mom 19",
+      "text": "19) kumotun pelastuslain 60 ja 61 §:n perusteella rakennetut rakennusten väestönsuojat ja ennen tämän lain voimaantuloa kumottujen säännösten perusteella rakennetut rakennusten väestönsuojat on pidettävä maankäyttö- ja rakennuslain ja tämän lain 12 §:n mukaisesti kunnossa, ja ne on voitava ottaa käyttöön tämän lain 76 §:ssä säädetyssä ajassa;",
+      "clause_number": 19,
+      "section_number": "112",
+      "statute_id": "8/1955"
+    },
+    {
+      "id": "ce5ca312-f4a2-4b8f-ad78-034e92b7a295",
+      "node_type": "Clause",
+      "publisher": "finlex",
+      "title": "§ 112 mom 20",
+      "text": "20) kumotun pelastuslain 63 §:n perusteella rakennetut yleiset väestönsuojat ja ennen tämän lain voimaantuloa kumottujen säännösten perusteella rakennetut yleiset väestönsuojat on pidettävä maankäyttö- ja rakennuslain ja tämän lain 12 §:n mukaisesti kunnossa, ja ne on voitava ottaa käyttöön tämän lain 76 §:ssä säädetyssä ajassa;",
+      "clause_number": 20,
+      "section_number": "112",
+      "statute_id": "8/1955"
+    },
+    {
+      "id": "cf3a49af-1f6d-4869-8a17-dfd881e3050f",
+      "node_type": "Clause",
+      "publisher": "finlex",
+      "title": "§ 112 mom 21",
+      "text": "21) tämän lain 79 §:n mukainen valvontasuunnitelma on ensimmäisen kerran laadittava ja toimitettava tiedoksi aluehallintovirastolle vuoden kuluessa lain voimaantulosta, ja siihen saakka, kunnes pelastuslaitos vahvistaa valvontasuunnitelman, noudatetaan valvontatoiminnassa kumotun pelastuslain 7 luvun palotarkastusta koskevia säännöksiä;",
+      "clause_number": 21,
+      "section_number": "112",
+      "statute_id": "8/1955"
+    },
+    {
+      "id": "b493c527-dfaf-4297-99b3-5f52918f15ed",
+      "node_type": "Clause",
+      "publisher": "finlex",
+      "title": "§ 112 mom 22",
+      "text": "22) kumotun pelastuslain 70 §:n mukainen väestönsuojelun henkilörekisteri on lakkautettava tai päivitettävä tämän lain 92 §:n mukaiseksi varautumistehtävien rekisteriksi vuoden kuluessa lain voimaantulosta;",
+      "clause_number": 22,
+      "section_number": "112",
+      "statute_id": "8/1955"
+    },
+    {
+      "id": "61bd98fd-5554-4f87-8bb7-7405b14627ae",
+      "node_type": "Clause",
+      "publisher": "finlex",
+      "title": "§ 112 mom 2",
+      "text": "23) kumotun pelastuslain 4 §:n 2 momentin mukaiset alueen pelastustoimen määräykset alueen pelastusviranomaiseksi pysyvät voimassa, jollei pelastuslaitoksen ylin viranhaltija tämän lain 26 §:n 2 momentin nojalla toisin määrää, ja kumotun pelastuslain 89 §:n mukainen pelastusviranomaisen henkilökortti pysyy voimassa ja vastaa tämän lain 110 §:n mukaista pelastusviranomaisen henkilökorttia;",
+      "clause_number": 2,
+      "section_number": "112",
+      "statute_id": "8/1955"
+    },
+    {
+      "id": "b7e9eab4-93c8-40fa-a2a2-8f4858c7b154",
+      "node_type": "Clause",
+      "publisher": "finlex",
+      "title": "§ 112 mom 23",
+      "text": "23) kumotun pelastuslain 4 §:n 2 momentin mukaiset alueen pelastustoimen määräykset alueen pelastusviranomaiseksi pysyvät voimassa, jollei pelastuslaitoksen ylin viranhaltija tämän lain 26 §:n 2 momentin nojalla toisin määrää, ja kumotun pelastuslain 89 §:n mukainen pelastusviranomaisen henkilökortti pysyy voimassa ja vastaa tämän lain 110 §:n mukaista pelastusviranomaisen henkilökorttia;",
+      "clause_number": 23,
+      "section_number": "112",
+      "statute_id": "8/1955"
+    },
+    {
+      "id": "e7dde296-9c3d-4bdc-8773-33c4346791e0",
+      "node_type": "Clause",
+      "publisher": "finlex",
+      "title": "§ 112 mom 24",
+      "text": "24) kumotun pelastuslain 89 §:ssä tarkoitettu pelastusviranomaisen virkapuku vastaa tämän lain 111 §:n mukaista pelastustoimen virkapukua;",
+      "clause_number": 24,
+      "section_number": "112",
+      "statute_id": "8/1955"
+    },
+    {
+      "id": "843f5b6b-fd37-49e2-92c5-2e2e190a3b67",
+      "node_type": "Clause",
+      "publisher": "finlex",
+      "title": "§ 112 mom 25",
+      "text": "25) se, joka tämän lain voimaan tullessa voimassa olleiden säännösten tai ennen tämän lain voimaantuloa kumottujen säännösten tai kelpoisuusvaatimuksista myönnetyn erivapauden perusteella on valittu pelastustoimen tai nuohoustoiminnan virkaan tai tehtävään, on kelpoinen toimimaan pelastustoimen tai nuohoustoiminnan vastaavan tehtäväryhmän viroissa tai tehtävissä;",
+      "clause_number": 25,
+      "section_number": "112",
+      "statute_id": "8/1955"
+    },
+    {
+      "id": "d3dc2fa5-d5dc-440a-89c2-3ff30bc808a9",
+      "node_type": "Clause",
+      "publisher": "finlex",
+      "title": "§ 112 mom 2",
+      "text": "26) sen estämättä, mitä 2 momentissa säädetään, seuraavat asetukset jäävät voimaan:",
+      "clause_number": 2,
+      "section_number": "112",
+      "statute_id": "8/1955"
+    },
+    {
+      "id": "ede20b59-814f-4f99-8284-0bad03a75524",
+      "node_type": "Clause",
+      "publisher": "finlex",
+      "title": "§ 112 mom 26",
+      "text": "26) sen estämättä, mitä 2 momentissa säädetään, seuraavat asetukset jäävät voimaan:",
+      "clause_number": 26,
+      "section_number": "112",
+      "statute_id": "8/1955"
+    }
+  ],
+  "cross_references": [
+    {
+      "raw_text": "pykälän 1 momentin",
+      "statute_id": "8/1955",
+      "section_number": "1 momentin",
+      "clause_number": null,
+      "resolution_confidence": 0.0
+    },
+    {
+      "raw_text": "pykälän 1 momentissa t",
+      "statute_id": "8/1955",
+      "section_number": "1 momentissa t",
+      "clause_number": null,
+      "resolution_confidence": 0.0
+    }
+  ],
+  "raw_html_path": "C:\\Users\\danit\\finance-hack\\aalto-hackaton-2026\\data\\raw\\finlex\\Laki (säädöskokoelma)\\Pelastuslaki.html"
+}

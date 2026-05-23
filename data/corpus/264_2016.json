@@ -1,0 +1,68 @@
+{
+  "statute": {
+    "id": "9bd17dc2-dbf4-44db-904d-27dc4e8a218f",
+    "node_type": "Statute",
+    "publisher": "finlex",
+    "title": "Valtioneuvoston asetus juurikäävän torjunnasta annetun valtioneuvoston asetuksen väliaikaisesta muuttamisesta",
+    "text": "Valtioneuvoston asetus juurikäävän torjunnasta annetun valtioneuvoston asetuksen väliaikaisesta muuttamisesta",
+    "statute_id": "264/2016",
+    "finlex_url": "https://finlex.fi/fi/laki/ajantasa/264/2016"
+  },
+  "chapters": [],
+  "sections": [
+    {
+      "id": "de7fa54d-b8cb-4408-ab1c-ef19a2535bc4",
+      "node_type": "Section",
+      "publisher": "finlex",
+      "title": "1 § Juurikäävän leviämisen riskialueet ja torjuntakohteet",
+      "text": "Juurikäävän leviämisen riskialueet ovat metsien hoidosta ja käytöstä annetun valtioneuvoston asetuksen (1308/2013) 1 §:ssä tarkoitetut keskinen Suomi ja eteläinen Suomi. Juurikääpää on torjuttava, jos sen leviämisen riskialueella on kivennäismaalla ennen hakkuuta mäntyä tai kuusta taikka molempia yhteensä yli 50 prosenttia metsikön puuston tilavuudesta",
+      "section_number": "1",
+      "chapter_number": 1,
+      "statute_id": "264/2016"
+    },
+    {
+      "id": "5b4a10b6-b094-4c8a-a942-03dfdd6d8c94",
+      "node_type": "Section",
+      "publisher": "finlex",
+      "title": "3 § Ilman lämpötilaa koskeva rajaus",
+      "text": "Hakkuun yhteydessä ei tarvitse huolehtia torjunnasta riskialueella, jos: Tämä asetus tulee voimaan 6 päivänä toukokuuta 2022 ja on voimassa 30 päivään marraskuuta 2022.",
+      "section_number": "3",
+      "chapter_number": 1,
+      "statute_id": "264/2016"
+    }
+  ],
+  "clauses": [
+    {
+      "id": "e3ed570d-3062-4897-822b-a79ea7833b80",
+      "node_type": "Clause",
+      "publisher": "finlex",
+      "title": "§ 3 mom 1",
+      "text": "1) hakkuuvuorokauden alin lämpötila hakkuukohteella on alle 7 celsiusastetta;",
+      "clause_number": 1,
+      "section_number": "3",
+      "statute_id": "264/2016"
+    },
+    {
+      "id": "47788d28-36d0-4b1c-bb15-2200ee1a72e3",
+      "node_type": "Clause",
+      "publisher": "finlex",
+      "title": "§ 3 mom 2",
+      "text": "2) maassa on yhtenäinen lumipeite; tai",
+      "clause_number": 2,
+      "section_number": "3",
+      "statute_id": "264/2016"
+    },
+    {
+      "id": "3674d913-aed2-4a21-981d-b51061b847dc",
+      "node_type": "Clause",
+      "publisher": "finlex",
+      "title": "§ 3 mom 3",
+      "text": "3) hakkuun kohteena olevan metsän sijaintikunnan alin lämpötila on hakkuuta edeltävällä kolmen viikon jaksolla ollut alle -10 celsiusastetta.",
+      "clause_number": 3,
+      "section_number": "3",
+      "statute_id": "264/2016"
+    }
+  ],
+  "cross_references": [],
+  "raw_html_path": "C:\\Users\\danit\\finance-hack\\aalto-hackaton-2026\\data\\raw\\finlex\\Asetus\\Valtioneuvoston asetus juurikäävän torjunnasta annetun valtioneuvoston asetuksen väliaikaisesta muuttamisesta.html"
+}

@@ -1,0 +1,56 @@
+{
+  "statute": {
+    "id": "9711ba7c-ba12-4a5c-9113-40b8a382d6a4",
+    "node_type": "Statute",
+    "publisher": "finlex",
+    "title": "Valtiovarainministeriön asetus sijoitusrahaston tilinpäätöksestä, vuosikertomuksesta ja puolivuotiskatsauksesta sekä rahastoyhtiön ja säilytysyhteisön tilinpäätöksestä annetun asetuksen 1 ja 3 §:n muuttamisesta",
+    "text": "Valtiovarainministeriön asetus sijoitusrahaston tilinpäätöksestä, vuosikertomuksesta ja puolivuotiskatsauksesta sekä rahastoyhtiön ja säilytysyhteisön tilinpäätöksestä annetun asetuksen 1 ja 3 §:n muuttamisesta",
+    "statute_id": "515/2004",
+    "finlex_url": "https://finlex.fi/fi/laki/ajantasa/515/2004"
+  },
+  "chapters": [
+    {
+      "id": "2b4173da-11bf-40eb-beb2-c437f567ec00",
+      "node_type": "Chapter",
+      "publisher": "finlex",
+      "title": "Chapter 1",
+      "text": "1 luku Yleiset säännökset",
+      "chapter_number": 1,
+      "statute_id": "515/2004"
+    },
+    {
+      "id": "0f8edd23-80aa-4f1c-94b2-162ec11a04bc",
+      "node_type": "Chapter",
+      "publisher": "finlex",
+      "title": "Chapter 2",
+      "text": "2 luku Rahastoyhtiön tilinpäätös",
+      "chapter_number": 2,
+      "statute_id": "515/2004"
+    }
+  ],
+  "sections": [
+    {
+      "id": "7ea19a82-59e6-4830-b7e3-51b21b6089a3",
+      "node_type": "Section",
+      "publisher": "finlex",
+      "title": "1 § Soveltamisala",
+      "text": "Sijoitusrahastolaissa (48/1999) tarkoitetun rahastoyhtiön, säilytysyhteisön ja sijoitusrahaston tilinpäätös laaditaan tämän asetuksen mukaisesti. Tilinpäätöksen laatimisessa on lisäksi noudatettava osakeyhtiölakia (734/1978) sekä kirjanpitolakia (1336/1997) ja sen nojalla annettuja säännöksiä, jollei tästä asetuksesta muuta johdu. Jos rahastoyhtiö laatii tilinpäätöksensä kirjanpitolain 7 a luvussa tarkoitettujen kansainvälisten tilinpäätösstandardien mukaisesti, tulee kuitenkin sijoitusrahaston tilinpäätöksen laadinnassa noudattaa tämän asetuksen säännöksiä.",
+      "section_number": "1",
+      "chapter_number": 1,
+      "statute_id": "515/2004"
+    },
+    {
+      "id": "b9b8f3f2-c933-40ca-9dda-39b3945ba5a0",
+      "node_type": "Section",
+      "publisher": "finlex",
+      "title": "3 § Rahastoyhtiön tuloslaskelma- ja tasekaavat sekä liitetiedot",
+      "text": "Jollei rahastoyhtiö ole arvostanut rahoitusvarojaan käypään arvoon kirjanpitolain nojalla annettujen säännösten mukaisesti, tulee käyvät arvot ilmoittaa taseen liitetietona. Jos rahastoyhtiö harjoittaa sijoitusrahastonlain 5 §:n 2 momentissa tarkoitettua toimintaa, tulee rahastoyhtiön merkitä toimintaan liittyvät rahoitusvarat taseeseen noudattaen sijoituspalveluyrityksistä annettua lakia (1996/579) ja sen nojalla annettuja säännöksiä. Tämä asetus tulee voimaan 31 päivänä joulukuuta 2004. Asetusta sovelletaan ensimmäisen kerran kirjanpitoon asetuksen voimaan tuloa lähinnä seuraavan tilikauden alusta lukien. Kirjanpitovelvollinen saa soveltaa asetusta kirjanpitoon sinä tilikautena, jonka kuluessa asetus tulee voimaan.",
+      "section_number": "3",
+      "chapter_number": 2,
+      "statute_id": "515/2004"
+    }
+  ],
+  "clauses": [],
+  "cross_references": [],
+  "raw_html_path": "C:\\Users\\danit\\finance-hack\\aalto-hackaton-2026\\data\\raw\\finlex\\Asetus\\Valtiovarainministeriön asetus sijoitusrahaston tilinpäätöksestä, vuosikertomuksesta ja puolivuotiskatsauksesta sekä rahastoyhtiön ja säilytysyhteisön tilinpäätöksestä annetun aset.html"
+}

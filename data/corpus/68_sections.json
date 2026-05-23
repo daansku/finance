@@ -1,0 +1,1289 @@
+{
+  "statute": {
+    "id": "7982761e-8346-42f2-80ea-57fe11466ea6",
+    "node_type": "Statute",
+    "publisher": "finlex",
+    "title": "Työturvallisuuslaki",
+    "text": "Työturvallisuuslaki",
+    "statute_id": "",
+    "finlex_url": ""
+  },
+  "chapters": [
+    {
+      "id": "b6438eed-6af5-42ac-9716-9f582bd1d72b",
+      "node_type": "Chapter",
+      "publisher": "finlex",
+      "title": "Chapter 1",
+      "text": "1 luku Lain tarkoitus ja soveltamisala",
+      "chapter_number": 1,
+      "statute_id": ""
+    },
+    {
+      "id": "4060882f-0ca3-40b8-a201-2bd8a111312e",
+      "node_type": "Chapter",
+      "publisher": "finlex",
+      "title": "Chapter 2",
+      "text": "2 luku Työnantajan yleiset velvollisuudet",
+      "chapter_number": 2,
+      "statute_id": ""
+    },
+    {
+      "id": "75de733f-09b0-45a8-896c-66f56da01795",
+      "node_type": "Chapter",
+      "publisher": "finlex",
+      "title": "Chapter 3",
+      "text": "3 luku Yhteistoiminta",
+      "chapter_number": 3,
+      "statute_id": ""
+    },
+    {
+      "id": "0b94d5a3-7a0d-4701-8911-a28bee39107a",
+      "node_type": "Chapter",
+      "publisher": "finlex",
+      "title": "Chapter 4",
+      "text": "4 luku Työntekijän velvollisuudet ja oikeus työstä pidättäytymiseen",
+      "chapter_number": 4,
+      "statute_id": ""
+    },
+    {
+      "id": "b932ddae-17bc-43c2-ab58-90d617051ac8",
+      "node_type": "Chapter",
+      "publisher": "finlex",
+      "title": "Chapter 5",
+      "text": "5 luku Työtä ja työolosuhteita koskevat tarkemmat säännökset",
+      "chapter_number": 5,
+      "statute_id": ""
+    },
+    {
+      "id": "5b5459ae-01b3-4bc6-901e-ae9778455ac0",
+      "node_type": "Chapter",
+      "publisher": "finlex",
+      "title": "Chapter 6",
+      "text": "6 luku Erityiset työn teettämisen tilanteet",
+      "chapter_number": 6,
+      "statute_id": ""
+    },
+    {
+      "id": "24b85f4b-ea2e-47f9-9ba5-648f6b6bc5c3",
+      "node_type": "Chapter",
+      "publisher": "finlex",
+      "title": "Chapter 7",
+      "text": "7 luku Työn turvallisuuteen vaikuttavien muiden henkilöiden velvollisuudet",
+      "chapter_number": 7,
+      "statute_id": ""
+    },
+    {
+      "id": "684fc77c-1315-4bf6-ab29-5efb3170e014",
+      "node_type": "Chapter",
+      "publisher": "finlex",
+      "title": "Chapter 8",
+      "text": "8 luku Rangaistussäännökset",
+      "chapter_number": 8,
+      "statute_id": ""
+    },
+    {
+      "id": "a9c1f857-9832-460a-a8dc-823a8a24effd",
+      "node_type": "Chapter",
+      "publisher": "finlex",
+      "title": "Chapter 9",
+      "text": "9 luku Erinäiset säännökset",
+      "chapter_number": 9,
+      "statute_id": ""
+    },
+    {
+      "id": "959886b4-801a-4ba3-bc8d-5fdff6013600",
+      "node_type": "Chapter",
+      "publisher": "finlex",
+      "title": "Chapter 10",
+      "text": "10 luku Voimaantulosäännökset",
+      "chapter_number": 10,
+      "statute_id": ""
+    }
+  ],
+  "sections": [
+    {
+      "id": "ea182ba8-f8c5-4c06-be80-2ebd841134d5",
+      "node_type": "Section",
+      "publisher": "finlex",
+      "title": "1 § Tarkoitus",
+      "text": "Tämän lain tarkoituksena on parantaa työympäristöä ja työolosuhteita työntekijöiden työkyvyn turvaamiseksi ja ylläpitämiseksi sekä ennalta ehkäistä ja torjua työtapaturmia, ammattitauteja ja muita työstä ja työympäristöstä johtuvia työntekijöiden fyysisen ja henkisen terveyden, jäljempänäterveys, haittoja.",
+      "section_number": "1",
+      "chapter_number": 1,
+      "statute_id": ""
+    },
+    {
+      "id": "7f799d27-a798-441d-9831-2962db7d1882",
+      "node_type": "Section",
+      "publisher": "finlex",
+      "title": "2 § Lain yleinen soveltamisala",
+      "text": "Tätä lakia sovelletaan työsopimuksen perusteella tehtävään työhön sekä virkasuhteessa tai siihen verrattavassa julkisoikeudellisessa palvelussuhteessa tehtävään työhön. Lakia ei sovelleta tavanomaiseen harrastustoimintaan eikä ammattiurheilemiseen. Tämä laki velvoittaa 1 momentissa tarkoitetun oikeussuhteen osapuolina olevia työnantajaa ja työntekijää siten kuin jäljempänä säädetään. Sen lisäksi, mitä tässä laissa säädetään, noudatetaan, mitä työturvallisuudesta tietyssä työssä erikseen säädetään.",
+      "section_number": "2",
+      "chapter_number": 1,
+      "statute_id": ""
+    },
+    {
+      "id": "89d42682-e5b8-47fe-80ad-bdd951ba88ae",
+      "node_type": "Section",
+      "publisher": "finlex",
+      "title": "3 § Lain soveltaminen vuokratyössä",
+      "text": "Joka johtonsa ja valvontansa alaisena käyttää toisen palveluksessa olevaa työvoimaa (vuokratyö), on työn aikana velvollinen noudattamaan tämän lain työnantajaa koskevia säännöksiä. Työn vastaanottajan on ennen työn aloittamista riittävän tarkasti määriteltävä vuokratyön edellyttämät ammattitaitovaatimukset ja työn erityispiirteet sekä ilmoitettava ne vuokratyöntekijän työnantajalle. Tämän on ilmoitettava työntekijälle edellä tarkoitetuista seikoista ja erityisesti varmistettava, että vuokratyöntekijällä on riittävä ammattitaito, kokemus ja sopivuus suoritettavaan työhön. Työn vastaanottajan on erityisesti huolehdittava työntekijän perehdyttämisestä työhön ja työpaikan olosuhteisiin, työsuojelutoimenpiteisiin sekä tarvittaessa työsuojelun yhteistoimintaa ja tiedottamista sekä työterveyshuoltoa koskeviin järjestelyihin. Valtioneuvoston asetuksella voidaan antaa tarkempia säännöksiä 2 ja 3 momentissa tarkoitetuista työn vastaanottajan ja vuokratyöntekijän työnantajan velvollisuuksista.",
+      "section_number": "3",
+      "chapter_number": 1,
+      "statute_id": ""
+    },
+    {
+      "id": "0f39bdc0-ea88-4c09-91e2-3d2f31216cb7",
+      "node_type": "Section",
+      "publisher": "finlex",
+      "title": "4 § Muut soveltamisalaan kuuluvat työt",
+      "text": "Tätä lakia sovelletaan 2 §:ssä tarkoitetun lisäksi myös: Edellä 1 momentissa tarkoitetun työn teettäjän tai muun toiminnan järjestäjän on alaisessaan työssä tai toiminnassa noudatettava, mitä tässä laissa säädetään työnantajasta. Tällöin työn suorittajaan tai toimintaan osallistujaan on sovellettava, mitä tässä laissa säädetään työntekijästä. Milloin 1 momentin 1 kohdassa tarkoitettu oppilas tai opiskelija opiskeluun liittyen suorittaa työtä tai työharjoittelua taikka tutustuu työelämään työpaikalla oppilaitoksen ulkopuolella, on oppilaitoksen ja työn vastaanottajan velvoitteisiin sovellettava, mitä 3 §:ssä säädetään vuokratyöstä.",
+      "section_number": "4",
+      "chapter_number": 1,
+      "statute_id": ""
+    },
+    {
+      "id": "1cb12a6d-0de0-48d9-b010-a3f59761eb66",
+      "node_type": "Section",
+      "publisher": "finlex",
+      "title": "5 § Lain soveltaminen työhön työntekijän tai muun kodissa",
+      "text": "Tätä lakia sovelletaan myös työhön, jota työntekijä sopimuksen mukaan tekee kotonaan tai muussa valitsemassaan paikassa, työnantajan kodissa taikka työnantajan osoituksesta muun henkilön kodissa tai näihin liittyvissä olosuhteissa. Lain 9, 10 ja 12 §:ssä sekä 3 ja 5 luvussa säädettyjen velvoitteiden noudattamisessa otetaan huomioon työnantajan työhön ja työolosuhteisiin kohdistuvat toimintamahdollisuuksien rajoitukset. Tällöinkin työnantajan on noudatettava, mitä tässä laissa säädetään koneiden, työvälineiden, henkilönsuojainten ja muiden laitteiden sekä terveydelle vaarallisten tai haitallisten aineiden työssä käyttämisestä.",
+      "section_number": "5",
+      "chapter_number": 1,
+      "statute_id": ""
+    },
+    {
+      "id": "f1e4dd0d-4fff-43d8-afc1-e7f4752510c5",
+      "node_type": "Section",
+      "publisher": "finlex",
+      "title": "6 § Soveltamisalan rajoitus",
+      "text": "Tätä lakia ei sovelleta puolustusvoimien tai rajavartiolaitoksen palveluksessa olevan henkilön, asevelvollisen tai naisten vapaaehtoista asepalvelusta taikka vapaaehtoista maanpuolustuskoulutusta suorittavan henkilön puolustusvoimien tai rajavartiolaitoksen määräyksestä tai palveluksessa suorittamaan palvelusohjelmaan merkittyyn tai muuhun erikseen määrättyyn koulutussuunnitelmien mukaiseen sellaiseen sotilaalliseen harjoitukseen ja koulutukseen sekä siihen välittömästi liittyvään työhön, jonka pääasiallinen tarkoitus on sotilaallisessa toiminnassa tarvittavien erityisten valmiuksien harjoittaminen.",
+      "section_number": "6",
+      "chapter_number": 1,
+      "statute_id": ""
+    },
+    {
+      "id": "4f2adb75-e40c-4493-a682-e2e256b90b10",
+      "node_type": "Section",
+      "publisher": "finlex",
+      "title": "7 § Muu lain soveltaminen",
+      "text": "Tätä lakia sovelletaan myös:",
+      "section_number": "7",
+      "chapter_number": 1,
+      "statute_id": ""
+    },
+    {
+      "id": "e8ee937d-6837-4e6f-800e-2fc1cf06e58c",
+      "node_type": "Section",
+      "publisher": "finlex",
+      "title": "8 § Työnantajan yleinen huolehtimisvelvoite",
+      "text": "Työnantaja on tarpeellisilla toimenpiteillä velvollinen huolehtimaan työntekijöiden turvallisuudesta ja terveydestä työssä. Tässä tarkoituksessa työnantajan on otettava huomioon työhön, työolosuhteisiin ja muuhun työympäristöön samoin kuin työntekijän henkilökohtaisiin edellytyksiin liittyvät seikat. Huolehtimisvelvollisuuden laajuutta rajaavina tekijöinä otetaan huomioon epätavalliset ja ennalta arvaamattomat olosuhteet, joihin työnantaja ei voi vaikuttaa, ja poikkeukselliset tapahtumat, joiden seurauksia ei olisi voitu välttää huolimatta kaikista aiheellisista varotoimista. Työnantajan on suunniteltava, valittava, mitoitettava ja toteutettava työolosuhteiden parantamiseksi tarvittavat toimenpiteet. Tällöin on mahdollisuuksien mukaan noudatettava seuraavia periaatteita: Työnantajan on jatkuvasti tarkkailtava työympäristöä, työyhteisön tilaa ja työtapojen turvallisuutta. Työnantajan on myös tarkkailtava toteutettujen toimenpiteiden vaikutusta työn turvallisuuteen ja terveellisyyteen. Työnantajan on huolehdittava siitä, että turvallisuutta ja terveellisyyttä koskevat toimenpiteet otetaan huomioon tarpeellisella tavalla työnantajan organisaation kaikkien osien toiminnassa.",
+      "section_number": "8",
+      "chapter_number": 2,
+      "statute_id": ""
+    },
+    {
+      "id": "da8272b4-7979-412f-9733-f14c232d8960",
+      "node_type": "Section",
+      "publisher": "finlex",
+      "title": "9 § Työsuojelun toimintaohjelma",
+      "text": "Työnantajalla on oltava turvallisuuden ja terveellisyyden edistämiseksi ja työntekijöiden työkyvyn ylläpitämiseksi tarpeellista toimintaa varten ohjelma, joka kattaa työpaikan työolojen kehittämistarpeet ja työympäristöön liittyvien tekijöiden vaikutukset (työsuojelun toimintaohjelma). Toimintaohjelmasta johdettavat tavoitteet turvallisuuden ja terveellisyyden edistämiseksi sekä työkyvyn ylläpitämiseksi on otettava huomioon työpaikan kehittämistoiminnassa ja suunnittelussa ja niitä on käsiteltävä työntekijöiden tai heidän edustajiensa kanssa.",
+      "section_number": "9",
+      "chapter_number": 2,
+      "statute_id": ""
+    },
+    {
+      "id": "277f5d7c-45a9-42fe-8876-a2ef72bae12e",
+      "node_type": "Section",
+      "publisher": "finlex",
+      "title": "10 § Työn vaarojen selvittäminen ja arviointi",
+      "text": "Työnantajan on työn ja toiminnan luonne huomioon ottaen riittävän järjestelmällisesti selvitettävä ja tunnistettava työstä, työtilasta, muusta työympäristöstä ja työolosuhteista aiheutuvat haitta- ja vaaratekijät sekä, milloin niitä ei voida poistaa, arvioitava niiden merkitys työntekijöiden turvallisuudelle ja terveydelle. Tällöin on otettava huomioon muun ohella: Jos työnantajalla ei ole 1 momentissa tarkoitettuun toimintaan tarvittavaa riittävää asiantuntemusta, hänen on käytettävä ulkopuolisia asiantuntijoita. Työnantajan on varmistuttava, että asiantuntijalla on riittävä pätevyys ja muut edellytykset tehtävän asianmukaiseen suorittamiseen. Työterveyshuollon asiantuntijoiden ja ammattihenkilöiden käytöstä sekä työpaikkaselvityksestä säädetään työterveyshuoltolaissa (1383/2001). Työnantajalla tulee olla hallussaan 1 momentissa tarkoitettu selvitys ja arviointi. Selvitys ja arviointi on tarkistettava olosuhteiden olennaisesti muuttuessa ja se on muutenkin pidettävä ajan tasalla. Valtioneuvoston asetuksella voidaan antaa tarkempia säännöksiä selvityksen ja arvioinnin laatimisen kirjallisesta tai muusta todennettavissa olevasta muodosta, sisällöstä ja asian käsittelystä työpaikalla huomioon ottaen työnantajan toimiala, toiminnan luonne ja niihin liittyvät haitat ja vaarat sekä työpaikan koko.",
+      "section_number": "10",
+      "chapter_number": 2,
+      "statute_id": ""
+    },
+    {
+      "id": "9d88013f-bae2-4b3c-9cde-3195470fdaa0",
+      "node_type": "Section",
+      "publisher": "finlex",
+      "title": "11 § Erityistä vaaraa aiheuttava työ",
+      "text": "Jos 10 §:ssä tarkoitettu työn vaarojen arviointi osoittaa, että työstä saattaa aiheutua erityistä tapaturman tai sairastumisen vaaraa, tällaista työtä saa tehdä vain siihen pätevä ja henkilökohtaisten edellytystensä puolesta työhön soveltuva työntekijä tai tällaisen työntekijän välittömässä valvonnassa muu työntekijä. Muiden henkilöiden pääsy vaara-alueelle on tarpeellisin toimenpitein estettävä. Jos työstä tai työolosuhteista saattaa aiheutua raskaana olevalle työntekijälle tai sikiölle erityistä vaaraa, eikä vaaratekijää voida poistaa, työnantajan on pyrittävä siirtämään työntekijä raskauden ajaksi tälle sopiviin työtehtäviin.",
+      "section_number": "11",
+      "chapter_number": 2,
+      "statute_id": ""
+    },
+    {
+      "id": "050a9f46-5ec0-40ae-9d78-0e4172e49588",
+      "node_type": "Section",
+      "publisher": "finlex",
+      "title": "12 § Työympäristön suunnittelu",
+      "text": "Työympäristön rakenteita, työtiloja, työ- tai tuotantomenetelmiä taikka työssä käytettävien koneiden, työvälineiden ja muiden laitteiden sekä terveydelle vaarallisten aineiden käyttöä suunnitellessaan työnantajan on huolehdittava siitä, että suunnittelussa otetaan huomioon niiden vaikutukset työntekijöiden turvallisuuteen ja terveyteen ja että ne ovat aiottuun tarkoitukseen soveltuvia. Vaarojen ja haittojen selvittämisessä ja arvioinnissa on noudatettava soveltuvin osin 10 §:n 1 momentin säännöksiä. Suunnittelun yhteydessä on varmistettava, että suunniteltavana olevat olosuhteet tulevat vastaamaan tässä laissa asetettuja vaatimuksia. Järjestelyissä on tarvittaessa otettava huomioon vammaiset ja muut työntekijät, joiden työn tekeminen sekä terveyden ja turvallisuuden varmistaminen työssä muutoin edellyttää erityisiä toimenpiteitä. Jos 1 momentissa tarkoitettu suunnittelu annetaan ulkopuolisen suunnittelijan tehtäväksi, työnantajan tulee antaa suunnittelijalle riittävät suunnittelun kohteena olevaa työpaikkaa koskevat tiedot.",
+      "section_number": "12",
+      "chapter_number": 2,
+      "statute_id": ""
+    },
+    {
+      "id": "0cfa7c9f-13e3-49eb-a3e0-a8f7a0f1d86f",
+      "node_type": "Section",
+      "publisher": "finlex",
+      "title": "13 § Työn suunnittelu",
+      "text": "Työn suunnittelussa ja mitoituksessa on otettava huomioon työntekijöiden fyysiset ja henkiset edellytykset, jotta työn kuormitustekijöistä työntekijän turvallisuudelle tai terveydelle aiheutuvaa haittaa tai vaaraa voidaan välttää tai vähentää.",
+      "section_number": "13",
+      "chapter_number": 2,
+      "statute_id": ""
+    },
+    {
+      "id": "d420c55e-cfd7-4daf-83b8-713612d03439",
+      "node_type": "Section",
+      "publisher": "finlex",
+      "title": "14 § Työntekijälle annettava opetus ja ohjaus",
+      "text": "Työnantajan on annettava työntekijälle riittävät tiedot työpaikan haitta- ja vaaratekijöistä sekä huolehdittava siitä, että työntekijän ammatillinen osaaminen ja työkokemus huomioon ottaen: Valtioneuvoston asetuksella voidaan antaa tarkempia säännöksiä työntekijälle annettavasta opetuksesta ja ohjauksesta sekä kirjallisista työohjeista sekä niistä ammateista tai tehtävistä, joissa vaaditaan erityistä pätevyyttä, sekä tällaisen pätevyyden osoittamisesta. Pätevyyden osoittamiseksi hyväksytään myös ulkomailla suoritettu tutkinto, todistus tai muu koulutuksesta annettu asiakirja sen mukaisesti kuin siitä säädetään Euroopan yhteisön yleisen tutkintojen tunnustamisjärjestelmän voimaanpanosta annetussa laissa (1597/1992) tai määrätään Suomea sitovissa kansainvälisissä sopimuksissa.",
+      "section_number": "14",
+      "chapter_number": 2,
+      "statute_id": ""
+    },
+    {
+      "id": "810370c9-7ae8-49c4-b567-e7e47cb41610",
+      "node_type": "Section",
+      "publisher": "finlex",
+      "title": "15 § Henkilönsuojainten, apuvälineiden ja muiden laitteiden varaaminen käyttöön",
+      "text": "Työnantajan on hankittava ja annettava työntekijän käyttöön erikseen säädetyt vaatimukset täyttävät ja tarkoituksenmukaiset henkilönsuojaimet, jollei tapaturman tai sairastumisen vaaraa voida välttää tai riittävästi rajoittaa työhön tai työolosuhteisiin kohdistuvilla toimenpiteillä. Työnantajan on hankittava ja annettava työntekijän käyttöön apuväline tai muu varuste, silloin kun työn luonne, työolosuhteet tai työn tarkoituksenmukainen suorittaminen sitä edellyttävät ja se on välttämätöntä tapaturman tai sairastumisen vaaran välttämiseksi. Valtioneuvoston asetuksella voidaan antaa tarkempia säännöksiä henkilönsuojainten käyttöä edellyttävien työolosuhteiden vaarojen arvioinnista, suojainten käytön määrittelystä ja käytön olosuhteista sekä suojaimilta vaadittavista ominaisuuksista ja muista henkilönsuojainten käyttöön työpaikalla liittyvistä vaatimuksista.",
+      "section_number": "15",
+      "chapter_number": 2,
+      "statute_id": ""
+    },
+    {
+      "id": "bf77cf6e-a3ae-4904-905d-ee00399b9175",
+      "node_type": "Section",
+      "publisher": "finlex",
+      "title": "16 § Työnantajan sijainen",
+      "text": "Työnantaja voi asettaa toisen henkilön edustajanaan (työnantajan sijainen) hoitamaan tässä laissa työnantajan velvollisuudeksi säädettyjä tehtäviä. Työnantajan sijaisen tehtävät on määriteltävä riittävän tarkasti huomioon ottaen työnantajan toimiala, työn tai toiminnan luonne ja työpaikan koko. Työnantajan on huolehdittava siitä, että sijaisella on riittävä pätevyys, hänet on riittävästi perehdytetty tehtäviinsä ja että hänellä muutenkin on asianmukaiset edellytykset tässä tarkoitettujen tehtävien hoitamiseen.",
+      "section_number": "16",
+      "chapter_number": 2,
+      "statute_id": ""
+    },
+    {
+      "id": "d06e86f3-4bc3-4acd-bf73-f66cec5a1b67",
+      "node_type": "Section",
+      "publisher": "finlex",
+      "title": "17 § Työnantajan ja työntekijöiden välinen yhteistoiminta",
+      "text": "Työnantajan ja työntekijöiden on yhteistoiminnassa ylläpidettävä ja parannettava työturvallisuutta työpaikalla. Työnantajan tulee antaa työntekijöille riittävän ajoissa tarpeelliset tiedot työpaikan turvallisuuteen, terveellisyyteen ja muihin työolosuhteisiin vaikuttavista asioista sekä niitä koskevista arvioinneista ja muista selvityksistä ja suunnitelmista. Työnantajan on myös huolehdittava siitä, että näitä asioita asianmukaisesti ja riittävän ajoissa käsitellään työnantajan ja työntekijöiden tai heidän edustajansa kesken. Työntekijöiden on osaltaan toimittava yhteistyössä työnantajan ja työntekijöiden edustajien kanssa tämän lain mukaisten tavoitteiden saavuttamiseksi. Työntekijällä on oikeus tehdä työpaikan turvallisuutta ja terveellisyyttä sekä muita 2 momentissa tarkoitettuja asioita koskevia ehdotuksia työnantajalle ja saada niihin palaute.",
+      "section_number": "17",
+      "chapter_number": 3,
+      "statute_id": ""
+    },
+    {
+      "id": "98205da9-cd6a-457a-9746-139b69b3023c",
+      "node_type": "Section",
+      "publisher": "finlex",
+      "title": "18 § Työntekijän yleiset velvollisuudet",
+      "text": "Työntekijän on noudatettava työnantajan toimivaltansa mukaisesti antamia määräyksiä ja ohjeita. Työntekijän on muutoinkin noudatettava työnsä ja työolosuhteiden edellyttämää turvallisuuden ja terveellisyyden ylläpitämiseksi tarvittavaa järjestystä ja siisteyttä sekä huolellisuutta ja varovaisuutta. Työntekijän on myös kokemuksensa, työnantajalta saamansa opetuksen ja ohjauksen sekä ammattitaitonsa mukaisesti työssään huolehdittava käytettävissään olevin keinoin niin omasta kuin muiden työntekijöiden turvallisuudesta ja terveydestä. Työntekijän on työpaikalla vältettävä sellaista muihin työntekijöihin kohdistuvaa häirintää ja muuta epäasiallista kohtelua, joka aiheuttaa heidän turvallisuudelleen tai terveydelleen haittaa tai vaaraa.",
+      "section_number": "18",
+      "chapter_number": 4,
+      "statute_id": ""
+    },
+    {
+      "id": "5f02b8cf-c04c-41c1-b199-80874dd44e68",
+      "node_type": "Section",
+      "publisher": "finlex",
+      "title": "19 § Vikojen ja puutteellisuuksien poistaminen ja niistä ilmoittaminen",
+      "text": "Työntekijän on viipymättä ilmoitettava työnantajalle ja työsuojeluvaltuutetulle työolosuhteissa tai työmenetelmissä, koneissa, muissa työvälineissä, henkilönsuojaimissa tai muissa laitteissa havaitsemistaan vioista ja puutteellisuuksista, jotka voivat aiheuttaa haittaa tai vaaraa työntekijöiden turvallisuudelle tai terveydelle. Työntekijän on kokemuksensa, työnantajalta saamansa opetuksen ja ohjauksen sekä ammattitaitonsa mukaisesti ja mahdollisuuksiensa mukaan poistettava havaitsemansa ilmeistä vaaraa aiheuttavat viat ja puutteellisuudet. Työntekijän on tehtävä edellä tarkoitettu ilmoitus myös siinä tapauksessa, että hän on poistanut tai korjannut kyseisen vian tai puutteellisuuden. Työnantajan tulee puolestaan kertoa ilmoituksen tehneelle työntekijälle ja työsuojeluvaltuutetulle, mihin toimenpiteisiin esille tulleessa asiassa on ryhdytty tai aiotaan ryhtyä. Edellä 1 momentissa tarkoitettu ilmoitus on työssä, jota työntekijä tekee 5 §:ssä tarkoitetun muun henkilön kodissa tai siihen verrattavissa olosuhteissa, tehtävä mikäli mahdollista myös tämän työtilan omistajalle tai haltijalle. Valtioneuvoston asetuksella voidaan antaa tarkemmat säännökset työntekijän ilmoittamisvelvoitteen sisällöstä ja ilmoittamismenettelystä.",
+      "section_number": "19",
+      "chapter_number": 4,
+      "statute_id": ""
+    },
+    {
+      "id": "8db48367-2cb0-4976-b9d9-b9dfbbce1fb8",
+      "node_type": "Section",
+      "publisher": "finlex",
+      "title": "20 § Henkilönsuojainten käyttö ja soveltuva työvaatetus",
+      "text": "Työntekijän tulee huolellisesti ja ohjeiden mukaisesti käyttää ja hoitaa työnantajan hänelle 15 §:n mukaisesti antamia henkilönsuojaimia ja muita varusteita. Työntekijän on työssään käytettävä sellaista asianmukaista vaatetusta, josta ei aiheudu tapaturman vaaraa.",
+      "section_number": "20",
+      "chapter_number": 4,
+      "statute_id": ""
+    },
+    {
+      "id": "fc30c9d8-e418-4280-9595-c717c9187692",
+      "node_type": "Section",
+      "publisher": "finlex",
+      "title": "21 § Työvälineiden ja vaarallisten aineiden käyttö",
+      "text": "Työntekijän tulee työnantajalta saamiensa käyttö- ja muiden ohjeiden mukaisesti sekä muutenkin ammattitaitonsa ja työkokemuksensa mukaisesti käyttää oikein koneita, työvälineitä ja muita laitteita sekä niissä olevia turvallisuus- ja suojalaitteita. Vaarallisten aineiden käytössä ja käsittelyssä työntekijän on noudatettava turvallisuusohjeita.",
+      "section_number": "21",
+      "chapter_number": 4,
+      "statute_id": ""
+    },
+    {
+      "id": "fa25c4db-e458-4261-bbaa-7c8396e6d910",
+      "node_type": "Section",
+      "publisher": "finlex",
+      "title": "22 § Turvallisuus- ja suojalaitteen käyttö",
+      "text": "Koneeseen, työvälineeseen tai muuhun laitteeseen taikka rakennukseen asennettua turvallisuus- tai suojalaitetta ei saa ilman erityistä syytä poistaa tai kytkeä pois päältä. Jos työntekijä työn johdosta joutuu tilapäisesti poistamaan turvallisuus- tai suojalaitteen käytöstä, hänen on palautettava se käyttöön tai kytkettävä laite päälle niin pian kuin mahdollista.",
+      "section_number": "22",
+      "chapter_number": 4,
+      "statute_id": ""
+    },
+    {
+      "id": "9ef19864-bc76-435f-90fd-0a3bd315befe",
+      "node_type": "Section",
+      "publisher": "finlex",
+      "title": "23 § Työntekijän työstä pidättäytyminen",
+      "text": "Jos työstä aiheutuu vakavaa vaaraa työntekijän omalle tai muiden työntekijöiden hengelle tai terveydelle, työntekijällä on oikeus pidättäytyä tällaisen työn tekemisestä. Työstä pidättäytymisestä on ilmoitettava työnantajalle tai tämän edustajalle niin pian kuin mahdollista. Oikeus pidättäytyä työnteosta jatkuu, kunnes työnantaja on poistanut vaaratekijät tai muutoin huolehtinut siitä, että työ voidaan suorittaa turvallisesti. Työstä pidättäytyminen ei saa rajoittaa työntekoa laajemmalti kuin työn turvallisuuden ja terveellisyyden kannalta on välttämätöntä. Työstä pidättäytyessä on huolehdittava siitä, että pidättäytymisestä mahdollisesti aiheutuva vaara on mahdollisimman vähäinen. Jos työntekijä tämän pykälän mukaisesti pidättäytyy työstä, hän ei ole velvollinen korvaamaan työstä pidättäytymisestä aiheutuvaa vahinkoa.",
+      "section_number": "23",
+      "chapter_number": 4,
+      "statute_id": ""
+    },
+    {
+      "id": "08d02015-ace2-4e02-ab05-2b32d0692b03",
+      "node_type": "Section",
+      "publisher": "finlex",
+      "title": "24 § Työpisteen ergonomia, työasennot ja työliikkeet",
+      "text": "Työpisteen rakenteet ja käytettävät työvälineet on valittava, mitoitettava ja sijoitettava työn luonne ja työntekijän edellytykset huomioon ottaen ergonomisesti asianmukaisella tavalla. Niiden tulee mahdollisuuksien mukaan olla siten säädettävissä ja järjestettävissä sekä käyttöominaisuuksiltaan sellaisia, että työ voidaan tehdä aiheuttamatta työntekijän terveydelle haitallista tai vaarallista kuormitusta. Lisäksi on otettava huomioon, että: Valtioneuvoston asetuksella voidaan antaa tarkempia säännöksiä työpaikan työolosuhteiden, työssä käytettävien koneiden, muiden työvälineiden, apuvälineiden ja muiden laitteiden turvallisuusvaatimuksista sekä käsin tehtävien nostojen turvallisesta suorittamisesta.",
+      "section_number": "24",
+      "chapter_number": 5,
+      "statute_id": ""
+    },
+    {
+      "id": "c5dda485-1e2d-4609-ab43-c14fe90ea270",
+      "node_type": "Section",
+      "publisher": "finlex",
+      "title": "25 § Työn kuormitustekijöiden välttäminen ja vähentäminen",
+      "text": "Jos työntekijän todetaan työssään kuormittuvan hänen terveyttään vaarantavalla tavalla, työnantajan on asiasta tiedon saatuaan käytettävissään olevin keinoin ryhdyttävä toimiin kuormitustekijöiden selvittämiseksi sekä vaaran välttämiseksi tai vähentämiseksi.",
+      "section_number": "25",
+      "chapter_number": 5,
+      "statute_id": ""
+    },
+    {
+      "id": "7d133755-1ea6-40ac-9161-633d4a5229bc",
+      "node_type": "Section",
+      "publisher": "finlex",
+      "title": "26 § Näyttöpäätetyö",
+      "text": "Näyttöpäätetyötä tekevälle työntekijälle aiheutuvien haitallisten tai vaarallisten kuormitustekijöiden vähentämiseksi työnantajan on järjestettävä työnteko mahdollisimman turvalliseksi. Valtioneuvoston asetuksella voidaan antaa tarkempia säännöksiä näyttöpäätetyön järjestämisestä ja näyttöpäätetyössä käytettäville työpisteille, teknisille laitteille, apuvälineille ja ohjelmistoille asetettavista vaatimuksista.",
+      "section_number": "26",
+      "chapter_number": 5,
+      "statute_id": ""
+    },
+    {
+      "id": "b6ca518f-ff56-42a6-9378-f9d1e597df22",
+      "node_type": "Section",
+      "publisher": "finlex",
+      "title": "27 § Väkivallan uhka",
+      "text": "Työssä, johon liittyy ilmeinen väkivallan uhka, työ ja työolosuhteet on järjestettävä siten, että väkivallan uhka ja väkivaltatilanteet ehkäistään mahdollisuuksien mukaan ennakolta. Tällöin työpaikalla on oltava väkivallan torjumiseen tai rajoittamiseen tarvittavat asianmukaiset turvallisuusjärjestelyt tai -laitteet sekä mahdollisuus avun hälyttämiseen. Edellä 1 momentissa tarkoitettua työtä ja työpaikkaa varten työnantajan on laadittava menettelytapaohjeet, joissa ennakolta kiinnitetään huomiota uhkaavien tilanteiden hallintaan ja toimintatapoihin, joilla väkivaltatilanteen vaikutukset työntekijän turvallisuuteen voidaan torjua tai rajoittaa. Tarvittaessa on tarkistettava turvallisuusjärjestelyjen ja -laitteiden toimivuus. Valtioneuvoston asetuksella voidaan antaa tarkempia säännöksiä työntekijän turvallisuuteen ja terveyteen liittyvistä järjestelyistä eri toimialoilla ja tehtävissä, joissa esiintyy ilmeistä väkivallan uhkaa.",
+      "section_number": "27",
+      "chapter_number": 5,
+      "statute_id": ""
+    },
+    {
+      "id": "6e34195a-d5a9-4542-9379-06d0b7dc02f7",
+      "node_type": "Section",
+      "publisher": "finlex",
+      "title": "28 § Häirintä",
+      "text": "Jos työssä esiintyy työntekijään kohdistuvaa hänen terveydelleen haittaa tai vaaraa aiheuttavaa häirintää tai muuta epäasiallista kohtelua, työnantajan on asiasta tiedon saatuaan käytettävissään olevin keinoin ryhdyttävä toimiin epäkohdan poistamiseksi.",
+      "section_number": "28",
+      "chapter_number": 5,
+      "statute_id": ""
+    },
+    {
+      "id": "68abce90-ea7f-4c39-a239-b9e05617f906",
+      "node_type": "Section",
+      "publisher": "finlex",
+      "title": "29 § Yksintyöskentely",
+      "text": "Työssä, jossa työntekijä työskentelee yksin ja johon siitä syystä liittyy ilmeinen haitta tai vaara hänen turvallisuudelleen tai terveydelleen, työnantajan on huolehdittava siitä, että haitta tai vaara yksin työskenneltäessä vältetään tai se on mahdollisimman vähäinen. Työnantajan on myös työn luonne huomioon ottaen järjestettävä mahdollisuus tarpeelliseen yhteydenpitoon työntekijän ja työnantajan, työnantajan osoittaman edustajan tai muiden työntekijöiden välillä. Työnantajan on myös varmistettava mahdollisuus avun hälyttämiseen. Valtioneuvoston asetuksella voidaan antaa tarkempia säännöksiä yhteydenpidosta, yhteydenpitolaitteista ja muista turvallisuuteen liittyvistä järjestelyistä eri toimialoilla ja tehtävissä, joissa työskennellään yksin.",
+      "section_number": "29",
+      "chapter_number": 5,
+      "statute_id": ""
+    },
+    {
+      "id": "34d3ecb4-65c3-434f-ac9a-fd9ca00269ce",
+      "node_type": "Section",
+      "publisher": "finlex",
+      "title": "30 § Yötyö",
+      "text": "Yötyötä tekevälle työntekijälle on tarvittaessa järjestettävä mahdollisuus työtehtävien vaihtamiseen tai siirtymiseen päivätyöhön, jos tämä on olosuhteet huomioon ottaen mahdollista ja työtehtävien vaihtaminen on työntekijän henkilökohtaiset ominaisuudet huomioon ottaen tarpeellista työpaikan olosuhteiden tai työn luonteen työntekijän terveydelle aiheuttaman vaaran torjumiseksi. Työnantajan on tarvittaessa järjestettävä yötyötä tekevälle työntekijälle mahdollisuus ruokailuun, jos työajan pituus sitä edellyttää ja jos ruokailun järjestäminen on olosuhteet huomioon ottaen tarkoituksenmukaista. Ateriasta työnantaja voi periä työntekijältä kohtuullisen korvauksen.",
+      "section_number": "30",
+      "chapter_number": 5,
+      "statute_id": ""
+    },
+    {
+      "id": "c9f82a55-4538-4ec0-8122-812609438c1c",
+      "node_type": "Section",
+      "publisher": "finlex",
+      "title": "31 § Työn tauottaminen",
+      "text": "Jos työ on yhtäjaksoista paikallaoloa vaativaa tai yhtäjaksoisesti kuormittavaa, työn lomaan on järjestettävä mahdollisuus tarvittaessa sellaisiin taukoihin, jotka sallivat lyhytaikaisen poistumisen työpisteestä.",
+      "section_number": "31",
+      "chapter_number": 5,
+      "statute_id": ""
+    },
+    {
+      "id": "f6204654-3bf4-4da1-ac2d-fe05b1f69b48",
+      "node_type": "Section",
+      "publisher": "finlex",
+      "title": "32 § Työpaikan rakenteellinen ja toiminnallinen turvallisuus ja terveellisyys",
+      "text": "Työpaikan rakenteiden, materiaalien ja varusteiden sekä laitteiden tulee olla turvallisia ja terveellisiä työntekijöille. Niiden tulee olla käsiteltävissä, kunnostettavissa ja puhdistettavissa turvallisesti. Työpaikan ja työskentelypaikkojen kulkuteiden, käytävien, uloskäytävien ja pelastusteiden, työskentelytasojen ja muiden alueiden, joissa työntekijät työnsä vuoksi liikkuvat, on oltava turvallisia ja ne on pidettävä turvallisessa kunnossa. Työpaikalla tulee olla riittävä määrä asianmukaisia uloskäytäviä ja pelastusteitä, jotka on aina pidettävä vapaina. Työpaikalla tulee olla asianmukaiset turva- ja muut merkinnät. Valtioneuvoston asetuksella voidaan antaa tarkempia säännöksiä työpaikkojen rakenteiden, materiaalien ja laitteiden sekä kulkuteiden ja työpaikan muiden alueiden turvallisuudesta, uloskäytävistä ja pelastusteistä, näiden huollosta ja kunnossapidosta sekä merkinnöistä.",
+      "section_number": "32",
+      "chapter_number": 5,
+      "statute_id": ""
+    },
+    {
+      "id": "13f843f4-4e9e-4fa1-8892-0491f05272ae",
+      "node_type": "Section",
+      "publisher": "finlex",
+      "title": "33 § Työpaikan ilmanvaihto ja työhuoneen tilavuus",
+      "text": "Työpaikalla tulee olla riittävästi kelvollista hengitysilmaa. Työpaikan ilmanvaihdon tulee olla riittävän tehokas ja tarkoituksenmukainen. Työhuoneen tilavuuden ja pinta-alan tulee olla riittävä. Siellä tulee olla myös riittävästi tilaa työn tekemistä ja työn vaatimaa liikkumista varten. Valtioneuvoston asetuksella voidaan antaa tarkempia säännöksiä työpaikan tilavuudesta ja ilmanvaihdosta.",
+      "section_number": "33",
+      "chapter_number": 5,
+      "statute_id": ""
+    },
+    {
+      "id": "5c5354d4-1643-4918-abd7-47735ad28adb",
+      "node_type": "Section",
+      "publisher": "finlex",
+      "title": "34 § Työpaikan valaistus",
+      "text": "Työpaikalla tulee olla työn edellyttämä ja työntekijöiden edellytysten mukainen sopiva ja riittävän tehokas valaistus. Sinne on mahdollisuuksien mukaan päästävä riittävästi luonnonvaloa. Valtioneuvoston asetuksella voidaan antaa tarkempia säännöksiä työpaikan yleis- ja erityisvalaistuksesta.",
+      "section_number": "34",
+      "chapter_number": 5,
+      "statute_id": ""
+    },
+    {
+      "id": "08d6cd5f-5eb2-4d78-b43e-29cc42607f19",
+      "node_type": "Section",
+      "publisher": "finlex",
+      "title": "35 § Työpaikan sisäinen liikenne ja tavaroiden siirtäminen",
+      "text": "Työpaikan ajoneuvo- ja jalankulkuliikenne tulee järjestää turvalliseksi. Työnantajan on tarvittaessa laadittava työpaikan sisäisen liikenteen järjestämistä varten tarkoituksenmukaiset liikenneohjeet. Tavaran nosto, kuljetus, käsittely ja varastointi sekä tavaran käsittely- ja kuormauspaikat on suunniteltava ja järjestettävä siten, että nosto- ja siirtolaitteista tai tavaran siirroista tai putoamisesta ei aiheudu haittaa tai vaaraa työntekijöiden turvallisuudelle tai terveydelle. Valtioneuvoston asetuksella voidaan antaa tarkempia säännöksiä työpaikan liikenteestä sekä nosto- ja siirtotöiden turvallisuudesta sekä tavaran kuormaus- ja lastauspaikoista.",
+      "section_number": "35",
+      "chapter_number": 5,
+      "statute_id": ""
+    },
+    {
+      "id": "a35e13b3-1367-48d4-b391-e01c8c27f3e6",
+      "node_type": "Section",
+      "publisher": "finlex",
+      "title": "36 § Järjestys ja siisteys",
+      "text": "Työpaikalla on huolehdittava turvallisuuden ja terveellisyyden edellyttämästä järjestyksestä ja siisteydestä. Siivous on suoritettava siten, että siitä ei aiheudu haittaa tai vaaraa työntekijöiden turvallisuudelle tai terveydelle.",
+      "section_number": "36",
+      "chapter_number": 5,
+      "statute_id": ""
+    },
+    {
+      "id": "030731d5-4b92-4895-bc2c-45f2de900042",
+      "node_type": "Section",
+      "publisher": "finlex",
+      "title": "37 § Ilman epäpuhtaudet",
+      "text": "Työpaikalla, jossa esiintyy ilman epäpuhtauksia, kuten pölyä, savua, kaasua tai höyryä työntekijää vahingoittavassa tai häiritsevässä määrin, on niiden leviäminen mahdollisuuksien mukaan estettävä eristämällä epäpuhtauden lähde tai sijoittamalla se suljettuun tilaan tai laitteeseen. Ilman epäpuhtaudet on riittävässä määrin koottava ja poistettava tarkoituksenmukaisen ilmanvaihdon avulla.",
+      "section_number": "37",
+      "chapter_number": 5,
+      "statute_id": ""
+    },
+    {
+      "id": "cb29898d-74c8-4fb3-aa11-8e0f002468a7",
+      "node_type": "Section",
+      "publisher": "finlex",
+      "title": "38 § Kemialliset tekijät ja työssä käytettävät vaaralliset aineet",
+      "text": "Työntekijän altistuminen turvallisuudelle tai terveydelle haittaa tai vaaraa aiheuttaville kemiallisille tekijöille on rajoitettava niin vähäiseksi, ettei näistä tekijöistä aiheudu haittaa tai vaaraa työntekijän turvallisuudelle tai terveydelle taikka lisääntymisterveydelle. Erityisesti on huolehdittava myrkytyksen, hapen puutteen tai muun vastaavan vakavan vaaran ehkäisemiseksi tarpeellisista suojelutoimenpiteistä. Käsiteltäessä, säilytettäessä tai siirrettäessä räjähtäviä, tulenarkoja, syövyttäviä tai muita vastaavaa vaaraa aiheuttavia aineita on noudatettava erityistä varovaisuutta. Työntekijöille on annettava vaarallisista aineista työnteon kannalta tarpeelliset tiedot. Valtioneuvoston asetuksella voidaan antaa tarkempia säännöksiä kemiallisista tekijöistä ja niiden tunnistamisesta, altistuksen luonteesta, sen kestosta ja arvioinnista, raja-arvoista, torjuntatoimenpiteistä sekä vaarallisten aineiden käsittelystä, siirtämisestä ja säilyttämisestä. Sosiaali- ja terveysministeriön asetuksella voidaan antaa tarkempia säännöksiä kemiallisten altisteiden haitalliseksi tunnetuista pitoisuuksista ja altistuksen ohjeraja-arvoista sekä altisteilta suojautumisen teknisistä yksityiskohdista ja menettelytavoista.",
+      "section_number": "38",
+      "chapter_number": 5,
+      "statute_id": ""
+    },
+    {
+      "id": "995825df-ff20-40b2-9bff-febe5f44a629",
+      "node_type": "Section",
+      "publisher": "finlex",
+      "title": "39 § Fysikaaliset tekijät ja sähköturvallisuus",
+      "text": "Työntekijän altistuminen turvallisuudelle tai terveydelle haittaa tai vaaraa aiheuttaville lämpöolosuhteille, melulle, paineelle, tärinälle, säteilylle tai muille fysikaalisille tekijöille on rajoitettava niin vähäiseksi, ettei näistä tekijöistä aiheudu haittaa tai vaaraa työntekijän turvallisuudelle tai terveydelle taikka lisääntymisterveydelle. Sähkölaitteista, sähkön käytöstä ja staattisesta sähköstä johtuvan vaaran tulee olla mahdollisimman vähäinen. Valtioneuvoston asetuksella voidaan antaa tarkempia säännöksiä fysikaalisista tekijöistä ja niiden tunnistamisesta, altistuksen luonteesta ja sen kestosta ja arvioinnista, raja-arvoista ja torjuntatoimenpiteistä.",
+      "section_number": "39",
+      "chapter_number": 5,
+      "statute_id": ""
+    },
+    {
+      "id": "3528616f-1381-404d-b8ca-8143b1c5f6b4",
+      "node_type": "Section",
+      "publisher": "finlex",
+      "title": "40 § Biologiset tekijät",
+      "text": "Työntekijän altistuminen turvallisuudelle tai terveydelle haittaa tai vaaraa aiheuttaville biologisille tekijöille on rajoitettava niin vähäiseksi, ettei näistä tekijöistä aiheudu haittaa tai vaaraa työntekijän turvallisuudelle tai terveydelle taikka lisääntymisterveydelle. Valtioneuvoston asetuksella voidaan antaa tarkempia säännöksiä biologisista tekijöistä ja niiden tunnistamisesta, altistuksen luonteesta sekä sen kestosta ja arvioinnista, raja-arvoista ja torjuntatoimenpiteistä. Sosiaali- ja terveysministeriön asetuksella voidaan antaa tarkempia säännöksiä biologisten altisteiden haitalliseksi tunnetuista ominaisuuksista sekä altisteilta suojautumisen yksityiskohdista ja menettelytavoista.",
+      "section_number": "40",
+      "chapter_number": 5,
+      "statute_id": ""
+    },
+    {
+      "id": "d0c8fd95-7e3c-44a1-baac-e14535909147",
+      "node_type": "Section",
+      "publisher": "finlex",
+      "title": "41 § Koneiden, työvälineiden ja muiden laitteiden käyttö",
+      "text": "Työssä saadaan käyttää vain sellaisia koneita, työvälineitä ja muita laitteita, jotka ovat niitä koskevien säännösten mukaisia sekä kyseiseen työhön ja työolosuhteisiin sopivia ja tarkoituksenmukaisia. Myös niiden oikeasta asennuksesta sekä tarpeellisista suojalaitteista ja merkinnöistä on huolehdittava. Koneiden, työvälineiden ja muiden laitteiden käyttö ei muutenkaan saa aiheuttaa haittaa tai vaaraa niillä työskenteleville työpaikan työntekijöille tai muille työpaikalla oleville henkilöille. Koneita, työvälineitä ja muita laitteita on käytettävä, hoidettava, puhdistettava ja huollettava asianmukaisesti. Pääsyä koneen tai työvälineen vaara-alueelle on rajoitettava niiden rakenteen, sijoituksen, suojusten tai turvalaitteiden avulla tai muulla sopivalla tavalla. Huolto-, säätö-, korjaus-, puhdistus-, häiriö- ja poikkeustilanteisiin on varauduttava niin, että ne eivät aiheuta vaaraa tai haittaa työntekijöiden turvallisuudelle tai terveydelle. Valtioneuvoston asetuksella voidaan antaa tarkempia säännöksiä koneiden, työvälineiden ja muiden laitteiden hankinnasta, turvallisesta käytöstä ja huollosta.",
+      "section_number": "41",
+      "chapter_number": 5,
+      "statute_id": ""
+    },
+    {
+      "id": "54eb483d-1e29-4790-87a0-341a8c09ee73",
+      "node_type": "Section",
+      "publisher": "finlex",
+      "title": "42 § Henkilöiden nostaminen nostolaitteella",
+      "text": "Työntekijöiden nostaminen ja siirtäminen nostolaitteita käyttäen (henkilönosto) on järjestettävä siten, että nostettavien, nostoon osallistuvien tai muiden työntekijöiden turvallisuudelle tai terveydelle ei aiheudu haittaa tai vaaraa. Valtioneuvoston asetuksella voidaan antaa tarkempia säännöksiä henkilönostoista.",
+      "section_number": "42",
+      "chapter_number": 5,
+      "statute_id": ""
+    },
+    {
+      "id": "d78e09ff-f507-4706-8cd2-3e01b819ac0a",
+      "node_type": "Section",
+      "publisher": "finlex",
+      "title": "43 § Työvälineen käyttöönotto- ja määräaikaistarkastukset",
+      "text": "Kone, työväline tai muu laite, jonka asennus tai asennus- tai käyttöolosuhteet vaikuttavat turvallisuuteen, on tarkastettava oikean asennuksen ja turvallisen toimintakunnon varmistamiseksi ennen ensimmäistä käyttöönottoa samoin kuin uuteen paikkaan asentamisen tai turvallisuuden kannalta merkittävien muutostöiden jälkeen (käyttöönottotarkastus). Tarkastus on lisäksi suoritettava käyttöönoton jälkeen säännöllisin väliajoin ja tarvittaessa myös poikkeuksellisen tilanteen jälkeen koneen, työvälineen tai muun laitteen toimintakunnon varmistamiseksi (määräaikaistarkastus). Tarkastuksen suorittajan tulee olla tehtävään pätevä työnantajan palveluksessa oleva tai muu henkilö. Pätevyyden määrittelyssä otetaan huomioon perehtyneisyys kyseisen työvälineen rakenteeseen, käyttöön ja tarkastamiseen. Vaarallisen koneen, työvälineen tai muun laitteen tarkastuksen saa suorittaa vain asiantuntijayhteisö tai riippumaton asiantuntija. Tarkastuksessa tulee erityisesti arvioida työvälineen turvallisuus sen käytön kannalta ja noudattaa tarkastamisesta annettuja säännöksiä. Tarkastuksessa tulee myös asianmukaisella tavalla ottaa huomioon valmistajan ohjeet. Valtioneuvoston asetuksella voidaan antaa tarkemmat säännökset koneista, työvälineistä tai muista laitteista, joille on tehtävä käyttöönotto- ja määräaikaistarkastus sekä tarkastuksia edellyttävistä käyttöolosuhteista, tarkastuksen suorittajan pätevyydestä, tarkastusten sisällöstä, ajankohdasta ja pöytäkirjaamisesta sekä muista tarkastukseen liittyvistä menettelytavoista.",
+      "section_number": "43",
+      "chapter_number": 5,
+      "statute_id": ""
+    },
+    {
+      "id": "953b79d3-8862-4485-9480-6b23d986bdd1",
+      "node_type": "Section",
+      "publisher": "finlex",
+      "title": "44 § Onnettomuuden vaara",
+      "text": "Jos työssä käsitellään tai työpaikalla säilytetään aineita, joista saattaa aiheutua suuronnettomuus tai työssä muutoin saattaa olla suuronnettomuuden vaara, työntekijöille on annettava tarpeellista opetusta ja ohjeet vaaran torjumisesta ja menettelytavoista onnettomuuden sattuessa. Tarvittaessa on järjestettävä harjoituksia. Työ on muutenkin järjestettävä siten, että tulipalon, räjähdyksen, hukkumisen tai muun onnettomuuden vaara on mahdollisimman vähäinen. Valtioneuvoston asetuksella voidaan antaa tarkempia säännöksiä suuronnettomuuden vaaran torjunnasta.",
+      "section_number": "44",
+      "chapter_number": 5,
+      "statute_id": ""
+    },
+    {
+      "id": "3a4e7ab1-5bee-450c-813d-12b9613d8acc",
+      "node_type": "Section",
+      "publisher": "finlex",
+      "title": "45 § Hälytys-, turvallisuus- ja pelastusvälineet ja -ohjeet",
+      "text": "Työpaikka on työolosuhteiden niin edellyttäessä varustettava tarpeellisilla hälytys-, paloturvallisuus-, hengenpelastus- ja pelastautumislaitteilla ja -välineillä. Työpaikassa, jossa on veden varaan joutumisen johdosta hengen tai terveyden vaara, tulee sopivassa paikassa olla aina saatavissa pelastautumisvälineet. Työntekijöille on annettava tarpeelliset ohjeet 1 momentissa tarkoitettujen laitteiden ja välineiden käytöstä samoin kuin tulipalon, hukkumis- tai muun vaaran varalta. Ohjeet on annettava myös toimenpiteistä, joihin tulipalon sattuessa on työpaikan olosuhteet huomioon ottaen ryhdyttävä. Tarvittaessa ohjeet on pidettävä työntekijöiden nähtävänä työpaikalla. Harjoituksia on järjestettävä tarvittaessa. Valtioneuvoston asetuksella voidaan antaa tarkempia säännöksiä työpaikan varustamisesta 1 momentissa tarkoitetuilla laitteilla ja välineillä sekä 2 momentissa tarkoitetuista ohjeista.",
+      "section_number": "45",
+      "chapter_number": 5,
+      "statute_id": ""
+    },
+    {
+      "id": "5b82c072-f237-473a-b87d-b746dbf3d22a",
+      "node_type": "Section",
+      "publisher": "finlex",
+      "title": "46 § Ensiapu",
+      "text": "Työnantajan on huolehdittava työntekijöiden ja muiden työpaikalla olevien henkilöiden ensiavun järjestämisestä työntekijöiden lukumäärän, työn luonteen ja työolosuhteiden edellyttämällä tavalla. Työn ja työolosuhteiden mukaisesti työntekijöille on annettava ohjeet toimenpiteistä, joihin tapaturman tai sairastumisen sattuessa on ensiavun saamiseksi ryhdyttävä. Työpaikalla tai sen välittömässä läheisyydessä, huomioon ottaen työpaikan laajuus ja sijainti, työntekijöiden lukumäärä sekä työn luonne ja muut työolosuhteet, on sopivissa ja selvästi merkityissä kohdissa oltava saatavilla riittävä määrä asianmukaisia ensiapuvälineitä. Työpaikalla tulee olla ensiavun antamiseen soveltuva tila, milloin työntekijöiden lukumäärä, työn luonne tai muut työolosuhteet niin vaativat. Valtioneuvoston asetuksella voidaan antaa tarkempia säännöksiä työpaikan ensiaputiloista, niiden mitoituksesta ja varustelusta.",
+      "section_number": "46",
+      "chapter_number": 5,
+      "statute_id": ""
+    },
+    {
+      "id": "ead719f3-b01d-4462-a74f-ccc53da7235f",
+      "node_type": "Section",
+      "publisher": "finlex",
+      "title": "47 § Ensiapu- ja pelastushenkilöiden nimeäminen",
+      "text": "Työnantajan on, milloin työntekijöiden lukumäärä, työn luonne ja työolosuhteet sitä edellyttävät, nimettävä ensiapu-, palontorjunta- ja pelastustoimenpiteiden täytäntöönpanemiseksi yksi tai useampi työntekijä, jollei työnantaja ole pelastustoimilaissa (561/1999) tarkoitetussa suunnitelmassa osoittanut suojeluhenkilöstöä vastaaviin tehtäviin. Näiden työntekijöiden lukumäärän ja koulutuksen sekä heidän käytettävissään olevien varusteiden on oltava asianmukaiset ottaen huomioon työn luonne ja siihen liittyvät erityiset vaarat sekä työpaikan koko. Henkilöitä nimettäessä tulee ottaa huomioon 17 §:n säännökset.",
+      "section_number": "47",
+      "chapter_number": 5,
+      "statute_id": ""
+    },
+    {
+      "id": "74cbe08e-31b2-4576-8661-ea28796083fb",
+      "node_type": "Section",
+      "publisher": "finlex",
+      "title": "48 § Henkilöstötilat",
+      "text": "Työpaikalla tai sen välittömässä läheisyydessä on työntekijöiden käytettävissä oltava työn luonne ja kesto sekä työntekijöiden lukumäärä huomioon ottaen riittävät ja asianmukaisesti varustetut peseytymis-, pukeutumis- ja vaatteiden säilytystilat, ruokailu-, lepo- ja käymälätilat sekä muut henkilöstötilat. Työntekijöiden saatavilla tulee olla riittävästi kelvollista juomavettä. Raskaana olevilla naisilla ja imettävillä äideillä on tarvittaessa oltava mahdollisuus mennä lepohuoneeseen tai muuhun sopivaan paikkaan lepäämään. Laivatyössä työntekijöille on järjestettävä asianmukaiset majoitustilat aluksella. Valtioneuvoston asetuksella voidaan antaa tarkempia säännöksiä työpaikan henkilöstötiloista ja niiden varustuksesta sekä asuintiloista aluksessa.",
+      "section_number": "48",
+      "chapter_number": 5,
+      "statute_id": ""
+    },
+    {
+      "id": "9f15b022-c190-4bd2-8159-31b279d93355",
+      "node_type": "Section",
+      "publisher": "finlex",
+      "title": "49 § Yhteisellä työpaikalla toimivien huolehtimisvelvoite",
+      "text": "Työpaikalla, jolla yksi työnantaja käyttää pääasiallista määräysvaltaa ja jolla samanaikaisesti tai peräkkäin toimii useampi kuin yksi työnantaja tai korvausta vastaan työskentelevä itsenäinen työnsuorittaja siten, että työ voi vaikuttaa toisten työntekijöiden turvallisuuteen tai terveyteen (yhteinen työpaikka) on työnantajien ja itsenäisten työnsuorittajien työn ja toiminnan luonne huomioon ottaen kunkin osaltaan ja riittävällä keskinäisellä yhteistoiminnalla ja tiedottamisella huolehdittava siitä, että heidän toimintansa ei vaaranna työntekijöiden turvallisuutta ja terveyttä.",
+      "section_number": "49",
+      "chapter_number": 6,
+      "statute_id": ""
+    },
+    {
+      "id": "44bad4e3-074f-40ff-8eca-eae7a39c5745",
+      "node_type": "Section",
+      "publisher": "finlex",
+      "title": "50 § Tiedottaminen ja yhteistoiminta yhteisellä työpaikalla",
+      "text": "Yhteisellä työpaikalla pääasiallista määräysvaltaa käyttävän työnantajan on työn ja toiminnan luonne huomioon ottaen varmistettava, että hänen työpaikallaan työtä teettävä ulkopuolinen työnantaja ja tämän työntekijät ovat saaneet tarpeelliset tiedot ja ohjeet työhön kohdistuvista työpaikan vaara- ja haittatekijöistä sekä työpaikan ja työn turvallisuuteen liittyvistä toimintaohjeista. Tällaisen työnantajan on varmistettava myös, että ulkopuolinen työnantaja saa tarpeelliset tiedot työpaikan palontorjuntaan, ensiapuun ja evakuointiin liittyvistä toimenpiteistä ja näihin tehtäviin 47 §:n mukaan nimetyistä henkilöistä. Edellä 1 momentissa tarkoitetun ulkopuolisen työnantajan sekä itsenäisen työnsuorittajan on tiedotettava pääasiallista määräysvaltaa käyttävälle työnantajalle sekä muille työnantajille niistä haitta- ja vaaratekijöistä, jotka hänen työnsä voi heihin nähden aiheuttaa.",
+      "section_number": "50",
+      "chapter_number": 6,
+      "statute_id": ""
+    },
+    {
+      "id": "e8065110-8f8d-42e2-80f4-b46a22dff0b7",
+      "node_type": "Section",
+      "publisher": "finlex",
+      "title": "51 § Pääasiallista määräysvaltaa käyttävän työnantajan velvollisuudet yhteisellä työpaikalla",
+      "text": "Yhteisellä työpaikalla tulee pääasiallista määräysvaltaa käyttävän työnantajan työn ja toiminnan luonne huomioon ottaen huolehtia: Yhteistoiminnan käynnistämisestä 1 momentissa tarkoitetussa tilanteessa säädetään työsuojelun valvonnasta ja muutoksenhausta työsuojeluasioissa annetun lain (131/1973) 9 §:n 2 momentissa. Valtioneuvoston asetuksella voidaan antaa tarkempia säännöksiä pääasiallista määräysvaltaa käyttävän työnantajan toiminnasta 1 momentissa tarkoitetuissa asioissa.",
+      "section_number": "51",
+      "chapter_number": 6,
+      "statute_id": ""
+    },
+    {
+      "id": "ec254029-bab1-4886-9c64-0de1f1f37f35",
+      "node_type": "Section",
+      "publisher": "finlex",
+      "title": "52 § Velvollisuudet yhteisellä rakennustyömaalla",
+      "text": "Yhteisellä rakennustyömaalla on pääurakoitsijan asemassa olevan työnantajan tai, jos sellaista ei ole, rakennushanketta johtavan tai valvovan rakennuttajan tai muun henkilön huolehdittava 51 §:ssä tarkoitetuista velvoitteista sekä siitä, ettei työstä aiheudu vaaraa työmaalla työskenteleville eikä muillekaan työn vaikutuspiirissä oleville henkilöille. Valtioneuvoston asetuksella voidaan antaa tarkempia säännöksiä yhteisen rakennustyömaan rakennuttajan, pääurakoitsijan tai muun päätoteuttajan velvollisuuksista ja niiden jakaantumisesta.",
+      "section_number": "52",
+      "chapter_number": 6,
+      "statute_id": ""
+    },
+    {
+      "id": "b8085069-f6aa-4f77-a063-b513d1c4608e",
+      "node_type": "Section",
+      "publisher": "finlex",
+      "title": "53 § Itsenäisen työnsuorittajan velvollisuudet yhteisellä työpaikalla",
+      "text": "Itsenäisen työnsuorittajan on yhteisellä työpaikalla noudatettava, mitä tässä laissa säädetään: Itsenäisen työnsuorittajan on lisäksi noudatettava yhteisen työpaikan pääasiallista määräysvaltaa käyttävältä työnantajalta saamiaan työpaikkaa koskevia turvallisuusohjeita. Valtioneuvoston asetuksella voidaan antaa tarkempia säännöksiä yhteisellä työpaikalla toimivan itsenäisen työnsuorittajan 1 momentissa tarkoitettujen velvoitteiden soveltamisesta eri toimialoilla tai tehtävissä.",
+      "section_number": "53",
+      "chapter_number": 6,
+      "statute_id": ""
+    },
+    {
+      "id": "80cc4406-ded2-4502-ba72-c2fb04f50a5d",
+      "node_type": "Section",
+      "publisher": "finlex",
+      "title": "54 § Työpaikkojen yhteisten vaarojen torjunta",
+      "text": "Milloin teollisuus- tai liikehallissa taikka vastaavassa yhtenäisessä tilassa toimivien yhden tai useamman työnantajan ja itsenäisen työnsuorittajan työ tai näiden yhteiset toiminnot muulloin kuin 49 §:ssä tarkoitetussa tilanteessa aiheuttavat haittaa tai vaaraa työntekijöiden turvallisuudelle tai terveydelle, työnantajien ja itsenäisten työnsuorittajien on riittävällä keskinäisellä yhteistoiminnalla pyrittävä tiedottamaan toisilleen havaitsemistaan haitta- ja vaaratekijöistä ja niiden poistamiseen tähtäävistä toimenpiteistä sekä tarpeellisesta toimintojen yhteensovittamisesta.",
+      "section_number": "54",
+      "chapter_number": 6,
+      "statute_id": ""
+    },
+    {
+      "id": "106d08db-0cea-4e58-b8b2-30dbafc47848",
+      "node_type": "Section",
+      "publisher": "finlex",
+      "title": "55 § Vapaaehtoistyö",
+      "text": "Milloin työpaikalla henkilö, jonka työhön ei muutoin sovelleta tätä lakia, tekee työnantajan kanssa tekemänsä muun sopimuksen kuin työ- tai toimeksiantosopimuksen perusteella taikka olematta työnantajaan virka- tai muussa siihen rinnastettavassa palvelussuhteessa samaa tai samankaltaista työtä kuin työpaikan työntekijät, työnantajan on soveltuvin osin huolehdittava siitä, että kyseisen henkilön turvallisuudelle tai terveydelle ei aiheudu haittaa tai vaaraa hänen työpaikalla ollessaan. Vastaavasti hänen on noudatettava työtä ja työpaikkaa koskevia turvallisuusohjeita sekä käytettävä hänen käyttöönsä annettuja henkilönsuojaimia ja apuvälineitä.",
+      "section_number": "55",
+      "chapter_number": 6,
+      "statute_id": ""
+    },
+    {
+      "id": "71f0822b-613e-4e00-935f-cf5e1a566cb6",
+      "node_type": "Section",
+      "publisher": "finlex",
+      "title": "56 § Tuotteen valmistajan ja luovuttajan velvollisuudet",
+      "text": "Koneelle, työvälineelle, henkilönsuojaimelle ja muulle laitteelle asetettavista turvallisuusvaatimuksista sekä kemikaalin tai kemikaalia sisältävän tuotteen vaarojen arvioimisesta ja tuotteen merkitsemisestä samoin kuin tällaisen tuotteen valmistajan, maahantuojan, myyjän sekä muun markkinoille tai käyttöön luovuttajan velvollisuuksista ja tuotteiden valvonnasta säädetään erikseen.",
+      "section_number": "56",
+      "chapter_number": 7,
+      "statute_id": ""
+    },
+    {
+      "id": "f414402e-984d-4c00-9e67-6e39f12efeaf",
+      "node_type": "Section",
+      "publisher": "finlex",
+      "title": "57 § Suunnittelijan velvollisuudet",
+      "text": "Sen, joka toimeksiannosta luovuttaa työympäristön rakennetta, työtilaa, työ- tai tuotantomenetelmää, konetta, työvälinettä tai muuta laitetta koskevan suunnitelman, on huolehdittava siitä, että suunnitelmassa on sen kohteen ilmoitetun käyttötarkoituksen edellyttämällä tavalla otettu huomioon tämän lain säännökset.",
+      "section_number": "57",
+      "chapter_number": 7,
+      "statute_id": ""
+    },
+    {
+      "id": "4897736a-9285-4e5e-a0f7-424573f373eb",
+      "node_type": "Section",
+      "publisher": "finlex",
+      "title": "58 § Koneen, työvälineen tai muun laitteen asentajan velvollisuudet",
+      "text": "Sen, joka toimeksiannosta asentaa koneen, työvälineen tai muun laitteen käyttöön työpaikalla, on otettava huomioon asennuksesta annetut valmistajan ja muut ohjeet sekä muutoinkin osaltaan huolehdittava siitä, että kone tai laite siihen kuuluvine suojalaitteineen saatetaan asianmukaiseen kuntoon.",
+      "section_number": "58",
+      "chapter_number": 7,
+      "statute_id": ""
+    },
+    {
+      "id": "88087e7b-4ee6-4cd5-ac03-361b330111a6",
+      "node_type": "Section",
+      "publisher": "finlex",
+      "title": "59 § Käyttöönotto- ja määräaikaistarkastuksen suorittajan velvollisuudet",
+      "text": "Sen, joka toimeksiannosta suorittaa 43 §:ssä tarkoitetun käyttöönotto- tai määräaikaistarkastuksen, on huolehdittava siitä, että tarkastus suoritetaan asianmukaisesti ja että havaituista työvälineen turvallisuuteen vaikuttavista vioista ja puutteellisuuksista sekä tarvittaessa niiden korjaamisesta tai poistamisesta annetaan tarpeelliset ohjeet.",
+      "section_number": "59",
+      "chapter_number": 7,
+      "statute_id": ""
+    },
+    {
+      "id": "8d762787-1a11-4300-91d3-2023d5a5f8d1",
+      "node_type": "Section",
+      "publisher": "finlex",
+      "title": "60 § Tavaroiden lähettäjää ja kuormaajaa koskevat velvollisuudet",
+      "text": "Sen, joka lähettää tai kuormaa tavaraa kuljetusta varten, on annettava tarpeelliset ohjeet tavaran kuormaamisesta ja purkamisesta silloin, kun niihin liittyy erityinen vaara. Kuormattava esine tai pakkaus, jonka kokonaispaino on vähintään 1 000 kilogrammaa, on varustettava näkyvällä ja pysyvällä merkinnällä, josta ilmenee pakkauksen kokonaispaino. Jos esineen tarkkaa painoa ei voida ilmoittaa, on merkittävä likimääräinen paino. Valtioneuvoston asetuksella voidaan antaa tarkempia säännöksiä 1 momentissa tarkoitetuista ohjeista sekä esineen tai pakkauksen merkitsemisestä alukseen tai muuhun kulkuneuvoon lastaamista varten.",
+      "section_number": "60",
+      "chapter_number": 7,
+      "statute_id": ""
+    },
+    {
+      "id": "9a49523e-5adc-4bdb-8cd8-ef63b28c3ec4",
+      "node_type": "Section",
+      "publisher": "finlex",
+      "title": "61 § Rakennuksen omistajan, muun haltijan tai vuokranantajan velvollisuudet",
+      "text": "Milloin rakennuksessa tai sen osassa omistajan tai muun haltijan suostumuksella vuokrasopimuksen perusteella suoritetaan sellaista työtä, johon tätä lakia sovelletaan, omistajan, muun haltijan ja vuokranantajan on osaltaan sallittava, että työnantaja suorittaa tämän lain edellyttämät korjaukset tai muutokset.",
+      "section_number": "61",
+      "chapter_number": 7,
+      "statute_id": ""
+    },
+    {
+      "id": "4331c798-a7fb-4b7a-9a2a-83a04f249270",
+      "node_type": "Section",
+      "publisher": "finlex",
+      "title": "62 § Sataman haltijan sekä aluksen omistajan ja haltijan velvollisuudet",
+      "text": "Se, jolle sataman hallinta kuuluu, sekä laivanisäntä, aluksen päällikkö tai muu henkilö, jonka huostassa alus on, ovat kukin kohdaltaan velvolliset soveltuvin osin noudattamaan tämän lain säännöksiä, kun kysymys on työstä, jota satamassa, maissa tai aluksessa suoritetaan meri- tai sisävesiliikenteeseen käytettävän aluksen lastauksessa tai purkauksessa taikka polttoainetta alukseen otettaessa. Satamalla tarkoitetaan myös satama-allasta, laituria tai muuta senkaltaista paikkaa. Mitä 1 momentissa säädetään, sovelletaan satamassa, jossa harjoitetaan laajaa alusten lastaus- ja purkaustyötä tai muuta niihin verrattavaa toimintaa. Tässä tarkoitetuista satamista voidaan säätää valtioneuvoston asetuksella.",
+      "section_number": "62",
+      "chapter_number": 7,
+      "statute_id": ""
+    },
+    {
+      "id": "0cfa3e42-9d37-45c5-8cf1-dc1173e9c7da",
+      "node_type": "Section",
+      "publisher": "finlex",
+      "title": "63 § Työturvallisuusrikkomus",
+      "text": "Työnantaja tai 7 §:ssä tarkoitettu henkilö taikka näiden edustaja, joka tahallaan tai huolimattomuudesta laiminlyö tässä laissa tai sen nojalla annetussa säädöksessä säädetyn on tuomittava, jollei teosta muualla laissa säädetä ankarampaa rangaistusta,työturvallisuusrikkomuksestasakkoon. Samoin tuomitaan henkilö, joka luvattomasti tai ilman pätevää syytä poistaa tai turmelee tapaturman tai sairastumisen vaaran välttämiseksi tarkoitetun laitteen taikka ohje- tai varoitusmerkinnän. Rangaistus työturvallisuusrikoksesta säädetään rikoslain (39/1889) 47 luvun 1 §:ssä.",
+      "section_number": "63",
+      "chapter_number": 8,
+      "statute_id": ""
+    },
+    {
+      "id": "727d4473-45f4-40e2-9c18-188068bb82bb",
+      "node_type": "Section",
+      "publisher": "finlex",
+      "title": "64 § Työneuvoston lausunnot",
+      "text": "Työneuvoston annettavista lausunnoista tämän lain soveltamisesta ja tulkinnasta säädetään työneuvostosta ja työsuojelun poikkeusluvista annetussa laissa (608/1946).",
+      "section_number": "64",
+      "chapter_number": 9,
+      "statute_id": ""
+    },
+    {
+      "id": "fe12cb8e-2dc1-42cf-802c-1e006e616145",
+      "node_type": "Section",
+      "publisher": "finlex",
+      "title": "65 § Lain noudattamisen valvonta",
+      "text": "Tämän lain noudattamista valvovat työsuojeluviranomaiset.",
+      "section_number": "65",
+      "chapter_number": 9,
+      "statute_id": ""
+    },
+    {
+      "id": "a6bc23d1-32d8-46db-93fb-658ce8cb357d",
+      "node_type": "Section",
+      "publisher": "finlex",
+      "title": "66 § Asetuksenantovaltuus",
+      "text": "Tarkempia säännöksiä tämän lain täytäntöönpanosta annetaan tarvittaessa valtioneuvoston asetuksella.",
+      "section_number": "66",
+      "chapter_number": 9,
+      "statute_id": ""
+    },
+    {
+      "id": "a26fe7f9-ce44-4a71-ab13-81faac31b3d9",
+      "node_type": "Section",
+      "publisher": "finlex",
+      "title": "67 § Lain nähtävänä pitäminen työpaikalla",
+      "text": "Tämä laki ja sen nojalla annetut työpaikkaa koskevat säännökset on pidettävä työntekijöiden nähtävinä työpaikalla.",
+      "section_number": "67",
+      "chapter_number": 9,
+      "statute_id": ""
+    },
+    {
+      "id": "76273e69-e26c-4f5a-86bc-ef0eccd8bdf9",
+      "node_type": "Section",
+      "publisher": "finlex",
+      "title": "68 § Voimaantulo",
+      "text": "Tämä laki tulee voimaan 1 päivänä tammikuuta 2003. Tällä lailla kumotaan 26 päivänä kesäkuuta 1958 annettu työturvallisuuslaki (299/1958) siihen myöhemmin tehtyine muutoksineen. Kumottavan lain 40 §:n 1―3 momenttia sovelletaan kuitenkin edelleen, kunnes erikseen toisin säädetään. Kumottavan lain 47 §:n nojalla annetut asetukset ja päätökset jäävät kuitenkin voimaan, kunnes ne erikseen kumotaan.",
+      "section_number": "68",
+      "chapter_number": 10,
+      "statute_id": ""
+    }
+  ],
+  "clauses": [
+    {
+      "id": "db1eb3b4-95fc-4ba2-8d6e-19cd4f09e801",
+      "node_type": "Clause",
+      "publisher": "finlex",
+      "title": "§ 4 mom 1",
+      "text": "1) oppilaan ja opiskelijan työhön koulutuksen yhteydessä;",
+      "clause_number": 1,
+      "section_number": "4",
+      "statute_id": ""
+    },
+    {
+      "id": "d2c8dc87-9b3e-4c21-bfb7-d4d47a7bcbfb",
+      "node_type": "Clause",
+      "publisher": "finlex",
+      "title": "§ 4 mom 2",
+      "text": "2) työvoimapoliittiseen toimenpiteeseen osallistuvan henkilön työhön;",
+      "clause_number": 2,
+      "section_number": "4",
+      "statute_id": ""
+    },
+    {
+      "id": "0fbabd72-9025-4928-9329-6912be16a273",
+      "node_type": "Clause",
+      "publisher": "finlex",
+      "title": "§ 4 mom 3",
+      "text": "3) kuntoutukseen liittyvään työhön ja kuntouttavaan työtoimintaan;",
+      "clause_number": 3,
+      "section_number": "4",
+      "statute_id": ""
+    },
+    {
+      "id": "1ff6a94f-7965-4abd-ac79-0e71ce2d861f",
+      "node_type": "Clause",
+      "publisher": "finlex",
+      "title": "§ 4 mom 4",
+      "text": "4) rangaistusta suorittavan henkilön työhön;",
+      "clause_number": 4,
+      "section_number": "4",
+      "statute_id": ""
+    },
+    {
+      "id": "8f4a12bb-b7c8-4bb5-a6e9-ad547670eb3f",
+      "node_type": "Clause",
+      "publisher": "finlex",
+      "title": "§ 4 mom 5",
+      "text": "5) hoito- tai muussa siihen verrattavassa laitoksessa hoidettavan tai pidettävän henkilön työhön ja työtoimintaan;",
+      "clause_number": 5,
+      "section_number": "4",
+      "statute_id": ""
+    },
+    {
+      "id": "7bbe80e0-9f6f-4977-937a-c6c831f5ef43",
+      "node_type": "Clause",
+      "publisher": "finlex",
+      "title": "§ 4 mom 6",
+      "text": "6) asevelvollisen ja naisten vapaaehtoista asepalvelusta suorittavan työhön 6 §:ssä säädetyin rajoituksin;",
+      "clause_number": 6,
+      "section_number": "4",
+      "statute_id": ""
+    },
+    {
+      "id": "f92f3949-5a88-49f7-94b2-42d9d0472c6d",
+      "node_type": "Clause",
+      "publisher": "finlex",
+      "title": "§ 4 mom 7",
+      "text": "7) siviilipalvelusta suorittavan työhön;",
+      "clause_number": 7,
+      "section_number": "4",
+      "statute_id": ""
+    },
+    {
+      "id": "30da68bc-0b60-45a3-8d2d-ab54bac13fe7",
+      "node_type": "Clause",
+      "publisher": "finlex",
+      "title": "§ 4 mom 8",
+      "text": "8) sopimuspalokuntaan kuuluvan pelastustoimintaan vapaaehtoisesti osallistuvan henkilön työhön; ja",
+      "clause_number": 8,
+      "section_number": "4",
+      "statute_id": ""
+    },
+    {
+      "id": "10c164bc-0529-4d85-9bd3-bdc5983af4b8",
+      "node_type": "Clause",
+      "publisher": "finlex",
+      "title": "§ 4 mom 9",
+      "text": "9) muuhun työhön sen mukaan kuin siitä erikseen säädetään.",
+      "clause_number": 9,
+      "section_number": "4",
+      "statute_id": ""
+    },
+    {
+      "id": "85e1a540-fee7-4e85-b62c-2428e42a4e3b",
+      "node_type": "Clause",
+      "publisher": "finlex",
+      "title": "§ 7 mom 1",
+      "text": "1) yhteisellä työpaikalla toimivaan pääasiallista määräysvaltaa käyttävään työnantajaan, muuhun työnantajaan sekä itsenäiseen työnsuorittajaan siten kuin 49―51 ja 53 §:ssä säädetään;",
+      "clause_number": 1,
+      "section_number": "7",
+      "statute_id": ""
+    },
+    {
+      "id": "d7c4f855-2b4c-434b-a5d1-e3f3e5bfd3fd",
+      "node_type": "Clause",
+      "publisher": "finlex",
+      "title": "§ 7 mom 2",
+      "text": "2) yhteisellä rakennustyömaalla pääurakoitsijaan, rakennuttajaan tai muuhun henkilöön, joka johtaa tai valvoo rakennushanketta, siten kuin 52 §:ssä säädetään;",
+      "clause_number": 2,
+      "section_number": "7",
+      "statute_id": ""
+    },
+    {
+      "id": "cc543157-8b19-4a88-8780-01acc0d155f4",
+      "node_type": "Clause",
+      "publisher": "finlex",
+      "title": "§ 7 mom 3",
+      "text": "3) yhteisten vaarojen torjumiseen eräissä tapauksissa siten kuin 54 §:ssä säädetään;",
+      "clause_number": 3,
+      "section_number": "7",
+      "statute_id": ""
+    },
+    {
+      "id": "63ab81cb-f036-4164-abe1-3b2bed0452c4",
+      "node_type": "Clause",
+      "publisher": "finlex",
+      "title": "§ 7 mom 4",
+      "text": "4) vapaaehtoistyötä teettävään työnantajaan siten kuin 55 §:ssä säädetään;",
+      "clause_number": 4,
+      "section_number": "7",
+      "statute_id": ""
+    },
+    {
+      "id": "ee2abb3f-076a-449e-81b5-c06d85f38b1b",
+      "node_type": "Clause",
+      "publisher": "finlex",
+      "title": "§ 7 mom 5",
+      "text": "5) suunnittelijaan siten kuin 57 §:ssä säädetään;",
+      "clause_number": 5,
+      "section_number": "7",
+      "statute_id": ""
+    },
+    {
+      "id": "0751fbfe-7205-40c6-b298-f3008aff2192",
+      "node_type": "Clause",
+      "publisher": "finlex",
+      "title": "§ 7 mom 6",
+      "text": "6) koneen, välineen tai muun laitteen asentajaan siten kuin 58 §:ssä säädetään;",
+      "clause_number": 6,
+      "section_number": "7",
+      "statute_id": ""
+    },
+    {
+      "id": "4307aedd-563d-4b7b-b858-a006ec3697b4",
+      "node_type": "Clause",
+      "publisher": "finlex",
+      "title": "§ 7 mom 7",
+      "text": "7) käyttöönotto- ja määräaikaistarkastuksia suorittavaan siten kuin 59 §:ssä säädetään;",
+      "clause_number": 7,
+      "section_number": "7",
+      "statute_id": ""
+    },
+    {
+      "id": "e16c82b5-1212-4a12-b504-ff4cfd6db2aa",
+      "node_type": "Clause",
+      "publisher": "finlex",
+      "title": "§ 7 mom 8",
+      "text": "8) tavaroiden lähettäjään ja kuormaajaan siten kuin 60 §:ssä säädetään;",
+      "clause_number": 8,
+      "section_number": "7",
+      "statute_id": ""
+    },
+    {
+      "id": "741ae72a-b4eb-441c-8dd9-8736a4e88371",
+      "node_type": "Clause",
+      "publisher": "finlex",
+      "title": "§ 7 mom 9",
+      "text": "9) rakennuksen omistajaan, muuhun haltijaan tai vuokranantajaan siten kuin 61 §:ssä säädetään; ja",
+      "clause_number": 9,
+      "section_number": "7",
+      "statute_id": ""
+    },
+    {
+      "id": "36197145-d101-40f9-b23b-7e10ee5f52af",
+      "node_type": "Clause",
+      "publisher": "finlex",
+      "title": "§ 7 mom 10",
+      "text": "10) sataman haltijaan, laivanisäntään, aluksen päällikköön tai muuhun henkilöön, jonka huostassa alus on, siten kuin 62 §:ssä säädetään.",
+      "clause_number": 10,
+      "section_number": "7",
+      "statute_id": ""
+    },
+    {
+      "id": "811e7a55-ed4c-4b96-ad5e-4de678c4f3e6",
+      "node_type": "Clause",
+      "publisher": "finlex",
+      "title": "§ 8 mom 1",
+      "text": "1) vaara- ja haittatekijöiden syntyminen estetään;",
+      "clause_number": 1,
+      "section_number": "8",
+      "statute_id": ""
+    },
+    {
+      "id": "2931a15f-20c4-4a7b-af10-7c80744e4d68",
+      "node_type": "Clause",
+      "publisher": "finlex",
+      "title": "§ 8 mom 2",
+      "text": "2) vaara- ja haittatekijät poistetaan tai, jos tämä ei ole mahdollista, ne korvataan vähemmän vaarallisilla tai vähemmän haitallisilla;",
+      "clause_number": 2,
+      "section_number": "8",
+      "statute_id": ""
+    },
+    {
+      "id": "43932647-f84d-4783-ad54-e70880c40420",
+      "node_type": "Clause",
+      "publisher": "finlex",
+      "title": "§ 8 mom 3",
+      "text": "3) yleisesti vaikuttavat työsuojelutoimenpiteet toteutetaan ennen yksilöllisiä; ja",
+      "clause_number": 3,
+      "section_number": "8",
+      "statute_id": ""
+    },
+    {
+      "id": "d39fef16-7e20-4370-bb87-b293ee764ab9",
+      "node_type": "Clause",
+      "publisher": "finlex",
+      "title": "§ 8 mom 4",
+      "text": "4) tekniikan ja muiden käytettävissä olevien keinojen kehittyminen otetaan huomioon.",
+      "clause_number": 4,
+      "section_number": "8",
+      "statute_id": ""
+    },
+    {
+      "id": "d10ded5a-82d7-488a-ac10-b0de275b306f",
+      "node_type": "Clause",
+      "publisher": "finlex",
+      "title": "§ 10 mom 1",
+      "text": "1) tapaturman ja muu terveyden menettämisen vaara kiinnittäen huomiota erityisesti kyseisessä työssä tai työpaikassa esiintyviin 5 luvussa tarkoitettuihin vaaroihin ja haittoihin;",
+      "clause_number": 1,
+      "section_number": "10",
+      "statute_id": ""
+    },
+    {
+      "id": "491bf438-4348-4f1e-bb37-68667702f092",
+      "node_type": "Clause",
+      "publisher": "finlex",
+      "title": "§ 10 mom 2",
+      "text": "2) esiintyneet tapaturmat, ammattitaudit ja työperäiset sairaudet sekä vaaratilanteet;",
+      "clause_number": 2,
+      "section_number": "10",
+      "statute_id": ""
+    },
+    {
+      "id": "905deae4-edb1-4e11-b5c0-0f16b0a034ae",
+      "node_type": "Clause",
+      "publisher": "finlex",
+      "title": "§ 10 mom 3",
+      "text": "3) työntekijän ikä, sukupuoli, ammattitaito ja muut hänen henkilökohtaiset edellytyksensä;",
+      "clause_number": 3,
+      "section_number": "10",
+      "statute_id": ""
+    },
+    {
+      "id": "6bb49dcf-0253-4978-878d-bfc027ebb3e7",
+      "node_type": "Clause",
+      "publisher": "finlex",
+      "title": "§ 10 mom 4",
+      "text": "4) työn kuormitustekijät; ja",
+      "clause_number": 4,
+      "section_number": "10",
+      "statute_id": ""
+    },
+    {
+      "id": "65ec83f1-68f4-40b3-bea7-19704e64de58",
+      "node_type": "Clause",
+      "publisher": "finlex",
+      "title": "§ 10 mom 5",
+      "text": "5) mahdollinen lisääntymisterveydelle aiheutuva vaara.",
+      "clause_number": 5,
+      "section_number": "10",
+      "statute_id": ""
+    },
+    {
+      "id": "dc712c35-3cc2-46f9-b82a-6d5e97a82c70",
+      "node_type": "Clause",
+      "publisher": "finlex",
+      "title": "§ 14 mom 1",
+      "text": "1) työntekijä perehdytetään riittävästi työhön, työpaikan työolosuhteisiin, työ- ja tuotantomenetelmiin, työssä käytettäviin työvälineisiin ja niiden oikeaan käyttöön sekä turvallisiin työtapoihin erityisesti ennen uuden työn tai tehtävän aloittamista tai työtehtävien muuttuessa sekä ennen uusien työvälineiden ja työ- tai tuotantomenetelmien käyttöön ottamista;",
+      "clause_number": 1,
+      "section_number": "14",
+      "statute_id": ""
+    },
+    {
+      "id": "98c6cea3-7342-4097-8185-11792405e957",
+      "node_type": "Clause",
+      "publisher": "finlex",
+      "title": "§ 14 mom 2",
+      "text": "2) työntekijälle annetaan opetusta ja ohjausta työn haittojen ja vaarojen estämiseksi sekä työstä aiheutuvan turvallisuutta tai terveyttä uhkaavan haitan tai vaaran välttämiseksi;",
+      "clause_number": 2,
+      "section_number": "14",
+      "statute_id": ""
+    },
+    {
+      "id": "ec7c4fb2-6eb9-42bb-bfb2-4b540c787f69",
+      "node_type": "Clause",
+      "publisher": "finlex",
+      "title": "§ 14 mom 3",
+      "text": "3) työntekijälle annetaan opetusta ja ohjausta säätö-, puhdistus-, huolto- ja korjaustöiden sekä häiriö- ja poikkeustilanteiden varalta; ja",
+      "clause_number": 3,
+      "section_number": "14",
+      "statute_id": ""
+    },
+    {
+      "id": "6e86dcd4-2168-4ea8-b196-8211a615262a",
+      "node_type": "Clause",
+      "publisher": "finlex",
+      "title": "§ 14 mom 4",
+      "text": "4) työntekijälle annettua opetusta ja ohjausta täydennetään tarvittaessa.",
+      "clause_number": 4,
+      "section_number": "14",
+      "statute_id": ""
+    },
+    {
+      "id": "c711e0fd-7ddd-4630-b037-351b92becb82",
+      "node_type": "Clause",
+      "publisher": "finlex",
+      "title": "§ 24 mom 1",
+      "text": "1) työntekijällä on riittävästi tilaa työn tekemiseen ja mahdollisuus vaihdella työasentoa;",
+      "clause_number": 1,
+      "section_number": "24",
+      "statute_id": ""
+    },
+    {
+      "id": "43e6f120-814e-46db-b87b-58c4132deb2c",
+      "node_type": "Clause",
+      "publisher": "finlex",
+      "title": "§ 24 mom 2",
+      "text": "2) työtä kevennetään tarvittaessa apuvälinein;",
+      "clause_number": 2,
+      "section_number": "24",
+      "statute_id": ""
+    },
+    {
+      "id": "dc8b2ade-663c-43ce-8295-b691e3a6de1b",
+      "node_type": "Clause",
+      "publisher": "finlex",
+      "title": "§ 24 mom 3",
+      "text": "3) terveydelle haitalliset käsin tehtävät nostot ja siirrot tehdään mahdollisimman turvallisiksi, milloin niitä ei voida välttää tai keventää apuvälinein; ja",
+      "clause_number": 3,
+      "section_number": "24",
+      "statute_id": ""
+    },
+    {
+      "id": "987a82be-bd82-40eb-969e-802862d1891f",
+      "node_type": "Clause",
+      "publisher": "finlex",
+      "title": "§ 24 mom 4",
+      "text": "4) toistorasituksen työntekijälle aiheuttama haitta vältetään tai, jollei se ole mahdollista, se on mahdollisimman vähäinen.",
+      "clause_number": 4,
+      "section_number": "24",
+      "statute_id": ""
+    },
+    {
+      "id": "324e95f8-db3c-48a8-8e43-a5a1483c05b1",
+      "node_type": "Clause",
+      "publisher": "finlex",
+      "title": "§ 51 mom 1",
+      "text": "1) työpaikalla toimivien työnantajien ja itsenäisten työnsuorittajien toimintojen yhteensovittamisesta;",
+      "clause_number": 1,
+      "section_number": "51",
+      "statute_id": ""
+    },
+    {
+      "id": "8cdca6f8-1585-4019-b641-33fdf28cb6a6",
+      "node_type": "Clause",
+      "publisher": "finlex",
+      "title": "§ 51 mom 2",
+      "text": "2) työpaikan liikenteen ja liikkumisen järjestelyistä;",
+      "clause_number": 2,
+      "section_number": "51",
+      "statute_id": ""
+    },
+    {
+      "id": "5f7952cc-a647-4206-a664-bd7914cb2022",
+      "node_type": "Clause",
+      "publisher": "finlex",
+      "title": "§ 51 mom 3",
+      "text": "3) työpaikan yleisestä turvallisuuden ja terveellisyyden edellyttämästä järjestyksestä ja siisteydestä;",
+      "clause_number": 3,
+      "section_number": "51",
+      "statute_id": ""
+    },
+    {
+      "id": "9b384ee7-6d31-4ff9-b39c-62d09e0c60e9",
+      "node_type": "Clause",
+      "publisher": "finlex",
+      "title": "§ 51 mom 4",
+      "text": "4) muusta työpaikan yleissuunnittelusta; ja",
+      "clause_number": 4,
+      "section_number": "51",
+      "statute_id": ""
+    },
+    {
+      "id": "e85e45eb-806a-4b1d-aca9-c81b3fd07e0e",
+      "node_type": "Clause",
+      "publisher": "finlex",
+      "title": "§ 51 mom 5",
+      "text": "5) työolosuhteiden ja työympäristön yleisestä turvallisuudesta ja terveellisyydestä.",
+      "clause_number": 5,
+      "section_number": "51",
+      "statute_id": ""
+    },
+    {
+      "id": "c455dba7-282d-4076-9cc4-b5ebeabc520f",
+      "node_type": "Clause",
+      "publisher": "finlex",
+      "title": "§ 53 mom 1",
+      "text": "1) työntekijän pätevyydestä, tarvittavista luvista ja vähimmäisiästä;",
+      "clause_number": 1,
+      "section_number": "53",
+      "statute_id": ""
+    },
+    {
+      "id": "be7607fa-9138-450b-b01a-2c8cb3e7a23f",
+      "node_type": "Clause",
+      "publisher": "finlex",
+      "title": "§ 53 mom 2",
+      "text": "2) työssä käytettävistä koneista, työvälineistä, henkilönsuojaimista ja muista laitteista sekä niille suoritettaviksi säädetyistä käyttöönotto- ja määräaikaistarkastuksista; ja",
+      "clause_number": 2,
+      "section_number": "53",
+      "statute_id": ""
+    },
+    {
+      "id": "74e3ca44-988d-470d-a43f-ef2431ea1167",
+      "node_type": "Clause",
+      "publisher": "finlex",
+      "title": "§ 53 mom 3",
+      "text": "3) vaarallisten aineiden käsittelystä, säilyttämisestä ja merkitsemisestä.",
+      "clause_number": 3,
+      "section_number": "53",
+      "statute_id": ""
+    },
+    {
+      "id": "eb5693f9-8a46-4dab-961e-accd72b449c1",
+      "node_type": "Clause",
+      "publisher": "finlex",
+      "title": "§ 63 mom 1",
+      "text": "1) käyttöönotto- tai määräaikaistarkastuksen suorittamisen;",
+      "clause_number": 1,
+      "section_number": "63",
+      "statute_id": ""
+    },
+    {
+      "id": "da9cb34b-23a0-4f09-82a0-fb1520e7bfb9",
+      "node_type": "Clause",
+      "publisher": "finlex",
+      "title": "§ 63 mom 2",
+      "text": "2) selvityksen tai suunnitelman tekemisen;",
+      "clause_number": 2,
+      "section_number": "63",
+      "statute_id": ""
+    },
+    {
+      "id": "2feaaa16-2770-44c7-998e-e6da37b98a8b",
+      "node_type": "Clause",
+      "publisher": "finlex",
+      "title": "§ 63 mom 3",
+      "text": "3) suojalaitteen tai henkilökohtaisen suojaimen varaamisen tai asentamisen;",
+      "clause_number": 3,
+      "section_number": "63",
+      "statute_id": ""
+    },
+    {
+      "id": "f795ffa8-7374-4405-bf7c-4a4903306701",
+      "node_type": "Clause",
+      "publisher": "finlex",
+      "title": "§ 63 mom 4",
+      "text": "4) työtä koskevan luvan hankkimisen tai ilmoituksen tekemisen;",
+      "clause_number": 4,
+      "section_number": "63",
+      "statute_id": ""
+    },
+    {
+      "id": "fdedeba5-19ca-4079-9dc9-f98b3678d401",
+      "node_type": "Clause",
+      "publisher": "finlex",
+      "title": "§ 63 mom 5",
+      "text": "5) koneen, välineen tai muun teknisen laitteen ja terveydelle vaarallisen aineen käytössä tarvittavan käyttö-, huolto- ja muun vastaavan ohjeen antamisen tai",
+      "clause_number": 5,
+      "section_number": "63",
+      "statute_id": ""
+    },
+    {
+      "id": "33e852e9-9068-4732-8548-167711a0446b",
+      "node_type": "Clause",
+      "publisher": "finlex",
+      "title": "§ 63 mom 6",
+      "text": "6) tämän lain nähtävänä pitämisen,",
+      "clause_number": 6,
+      "section_number": "63",
+      "statute_id": ""
+    }
+  ],
+  "cross_references": [],
+  "raw_html_path": "C:\\Users\\danit\\finance-hack\\aalto-hackaton-2026\\data\\raw\\finlex\\Laki (säädöskokoelma)\\Työturvallisuuslaki.html"
+}

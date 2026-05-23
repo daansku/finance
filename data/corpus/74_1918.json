@@ -1,0 +1,48 @@
+{
+  "statute": {
+    "id": "881ab402-2ac2-44c9-a9d1-54cfe59748af",
+    "node_type": "Statute",
+    "publisher": "finlex",
+    "title": "Laki Korkeimmasta oikeudesta annetun lain muuttamisesta",
+    "text": "Laki Korkeimmasta oikeudesta annetun lain muuttamisesta",
+    "statute_id": "74/1918",
+    "finlex_url": "https://finlex.fi/fi/laki/ajantasa/74/1918"
+  },
+  "chapters": [],
+  "sections": [
+    {
+      "id": "858b2c7b-567e-4342-9107-51b57c626371",
+      "node_type": "Section",
+      "publisher": "finlex",
+      "title": "3 §",
+      "text": "Korkeimman oikeuden on tutkittava ja lopullisesti ratkaistava:",
+      "section_number": "3",
+      "chapter_number": 1,
+      "statute_id": "74/1918"
+    },
+    {
+      "id": "48f3f584-3677-4dd6-ad6d-adf0342d88fa",
+      "node_type": "Section",
+      "publisher": "finlex",
+      "title": "12 §",
+      "text": "Korkeimman oikeuden esittelijää syytetään virkarikoksesta Helsingin hovioikeudessa. Tämä laki tulee voimaan 1 päivänä joulukuuta 2000.",
+      "section_number": "12",
+      "chapter_number": 1,
+      "statute_id": "74/1918"
+    }
+  ],
+  "clauses": [
+    {
+      "id": "8ee9b0bc-9e43-43dc-8d7c-3ae8d4165bee",
+      "node_type": "Clause",
+      "publisher": "finlex",
+      "title": "§ 3 mom 4",
+      "text": "4) syyteasiat, jotka koskevat hovioikeuden presidentin tai sen jäsenen taikka valtakunnansyyttäjän tai apulaisvaltakunnansyyttäjän virkarikoksia; ja",
+      "clause_number": 4,
+      "section_number": "3",
+      "statute_id": "74/1918"
+    }
+  ],
+  "cross_references": [],
+  "raw_html_path": "C:\\Users\\danit\\finance-hack\\aalto-hackaton-2026\\data\\raw\\finlex\\Laki\\Laki korkeimmasta oikeudesta annetun lain muuttamisesta_1.html"
+}

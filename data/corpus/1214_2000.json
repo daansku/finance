@@ -1,0 +1,68 @@
+{
+  "statute": {
+    "id": "2d9cf511-d221-42aa-ad55-a7b748969593",
+    "node_type": "Statute",
+    "publisher": "finlex",
+    "title": "Laki satovahinkojen korvaamisesta annetun lain muuttamisesta",
+    "text": "Laki satovahinkojen korvaamisesta annetun lain muuttamisesta",
+    "statute_id": "1214/2000",
+    "finlex_url": "https://finlex.fi/fi/laki/ajantasa/1214/2000"
+  },
+  "chapters": [],
+  "sections": [
+    {
+      "id": "f29c64a4-2717-4518-be26-bcbb927197b8",
+      "node_type": "Section",
+      "publisher": "finlex",
+      "title": "1 § Soveltamisala",
+      "text": "Valtion varoista voidaan maksaa satovahinkokorvauksina viljelmäkohtaista korvausta ja yleiskorvausta sen mukaan kuin tässä laissa säädetään edellyttäen, että Euroopan komissio hyväksyy korvausten maksamisen. Viljelmäkohtaiset korvaukset voidaan maksaa perustamissopimuksen 87 ja 88 artiklan soveltamisesta maataloustuotteiden tuottamisen alalla toimiviin pieniin ja keskisuuriin yrityksiin sekä asetuksen (EY) N:o 70/2001 muuttamisesta annetun komission asetuksen (EY) N:o 1857/2006, jäljempänäkomission asetus, 11 artiklan mukaisena epäsuotuisien sääolojen aiheuttamista menetyksistä maksettavana tukena taikka maa- ja metsätalousalan valtiontukea koskevista suuntaviivoista vuosiksi 2007―2013 annetun komission tiedonannon (2006/C 319/01) mukaisena tukena.",
+      "section_number": "1",
+      "chapter_number": 1,
+      "statute_id": "1214/2000"
+    },
+    {
+      "id": "83f6440e-231c-4008-940b-cf02694b7655",
+      "node_type": "Section",
+      "publisher": "finlex",
+      "title": "3 § Korvauksen saajat",
+      "text": "Tässä laissa tarkoitettua korvausta voidaan maksaa Suomessa maa- tai puutarhataloutta harjoittavalle viljelijälle, joka on luonnollinen henkilö tai oikeushenkilö taikka luonnollisten henkilöiden tai oikeushenkilöiden ryhmä. Korvauksen maksamisen edellytyksenä on, että: Sen estämättä, mitä 2 momentin 1 kohdassa säädetään, korvausta voidaan myöntää alle 18-vuotiaalle viljelijälle, jos hän on solminut avioliiton tai jos hän harjoittaa maa- tai puutarhataloutta yhteisomistajana tai yhdessä vanhempiensa tai toisen heistä kanssa taikka, jos korvauksen myöntämiseen on muita näihin rinnastettavia erityisiä syitä. Puolisoilla tarkoitetaan aviopuolisoita ja tuloverolain (1535/1992) 7 §:n 3 momentissa tarkoitettuja avioliitonomaisissa olosuhteissa eläviä henkilöitä. Edellä 2 momentin 2 kohdassa säädetyt edellytykset eivät koske julkisoikeudellista yhteisöä, koulutilaa eikä vankilatilaa. Maa- ja metsätalousministeriön asetuksella säädetään tarkemmin tässä pykälässä viljelijälle säädetyistä edellytyksistä.",
+      "section_number": "3",
+      "chapter_number": 1,
+      "statute_id": "1214/2000"
+    },
+    {
+      "id": "cb09dde3-0262-4641-9890-970dc4060e82",
+      "node_type": "Section",
+      "publisher": "finlex",
+      "title": "8 § Viljelmäkohtainen satovahinkokorvaus",
+      "text": "Viljelmäkohtaista satovahinkokorvausta voidaan maksaa enintään satovahingon määrä vähennettynä viljelijän omavastuuosuudella, muun lainsäädännön nojalla saaduilla korvauksilla ja saaduilla vakuutuskorvauksilla. Valtioneuvoston asetuksella säädetään vuosittain siitä, miten suuri osa omavastuuosuudella, muun lainsäädännön nojalla saaduilla korvauksilla ja saaduilla vakuutuskorvauksilla vähennetystä satovahingosta korvataan. Korvausta ei makseta, jos korvattava määrä on viljelijää ja tukityyppiä kohti pienempi kuin 100 euroa. Tämä laki tulee voimaan 1 päivänä tammikuuta 2011. Tämän lain 1 §:ää sovelletaan 1 päivänä tammikuuta 2010 tai sen jälkeen todettuihin satovahinkoihin.",
+      "section_number": "8",
+      "chapter_number": 1,
+      "statute_id": "1214/2000"
+    }
+  ],
+  "clauses": [
+    {
+      "id": "b6fe6c2c-f6da-47c4-9a6c-553725379dac",
+      "node_type": "Clause",
+      "publisher": "finlex",
+      "title": "§ 3 mom 1",
+      "text": "1) viljelijä tai hänen puolisonsa on vahinkovuotta edeltävän kalenterivuoden viimeisenä päivänä vähintään 18-vuotias, mutta ei yli 68-vuotias, eivätkä viljelijä ja hänen puolisonsa saa maatalousyrittäjien eläkelainsäädännössä tarkoitettua vanhuuseläkettä; tai",
+      "clause_number": 1,
+      "section_number": "3",
+      "statute_id": "1214/2000"
+    },
+    {
+      "id": "f9b56524-3e40-4197-9184-3fbfe8225813",
+      "node_type": "Clause",
+      "publisher": "finlex",
+      "title": "§ 3 mom 2",
+      "text": "2) useamman luonnollisen henkilön yhdessä harjoittaessa maa- tai puutarhataloutta tai yhteisömuodossa harjoitettavassa toiminnassa vähintään yksi maa- tai puutarhataloutta itse harjoittava viljelijä, yhtiömies, jäsen tai osakas on sellainen luonnollinen henkilö, joka täyttää 1 kohdassa säädetyn edellytyksen.",
+      "clause_number": 2,
+      "section_number": "3",
+      "statute_id": "1214/2000"
+    }
+  ],
+  "cross_references": [],
+  "raw_html_path": "C:\\Users\\danit\\finance-hack\\aalto-hackaton-2026\\data\\raw\\finlex\\Laki\\Laki satovahinkojen korvaamisesta annetun lain muuttamisesta_6.html"
+}

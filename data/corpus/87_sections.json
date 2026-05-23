@@ -1,0 +1,2800 @@
+{
+  "statute": {
+    "id": "9241ac18-c05a-4ac0-b3d1-74d60cd2ea10",
+    "node_type": "Statute",
+    "publisher": "finlex",
+    "title": "Elintarvikelaki",
+    "text": "Elintarvikelaki",
+    "statute_id": "",
+    "finlex_url": ""
+  },
+  "chapters": [
+    {
+      "id": "96c15b65-c44d-4e89-b600-9bfe81f67d12",
+      "node_type": "Chapter",
+      "publisher": "finlex",
+      "title": "Chapter 1",
+      "text": "1 luku Yleiset säännökset",
+      "chapter_number": 1,
+      "statute_id": ""
+    },
+    {
+      "id": "25096a4e-8dae-4468-acf1-1719305211c7",
+      "node_type": "Chapter",
+      "publisher": "finlex",
+      "title": "Chapter 2",
+      "text": "2 luku Elintarvike- ja kontaktimateriaalitoimintaa koskevat vaatimukset",
+      "chapter_number": 2,
+      "statute_id": ""
+    },
+    {
+      "id": "710c8c96-a323-40ad-9e1b-dd9d9cd028c2",
+      "node_type": "Chapter",
+      "publisher": "finlex",
+      "title": "Chapter 3",
+      "text": "3 luku Viranomaiset ja niiden tehtävät",
+      "chapter_number": 3,
+      "statute_id": ""
+    },
+    {
+      "id": "849d117d-7b01-4b48-9f23-0dc8367bb7aa",
+      "node_type": "Chapter",
+      "publisher": "finlex",
+      "title": "Chapter 4",
+      "text": "4 luku Laboratoriot",
+      "chapter_number": 4,
+      "statute_id": ""
+    },
+    {
+      "id": "4ccd2a35-5e23-4804-84df-583276bc932e",
+      "node_type": "Chapter",
+      "publisher": "finlex",
+      "title": "Chapter 5",
+      "text": "5 luku Elintarvikevalvonta",
+      "chapter_number": 5,
+      "statute_id": ""
+    },
+    {
+      "id": "7e663ced-ab07-4549-b211-37d001a3baa7",
+      "node_type": "Chapter",
+      "publisher": "finlex",
+      "title": "Chapter 6",
+      "text": "6 luku Elintarvikkeiden vientiin liittyvät viranomaistehtävät",
+      "chapter_number": 6,
+      "statute_id": ""
+    },
+    {
+      "id": "80ca5885-2df9-4262-9bdc-3cd52860ea37",
+      "node_type": "Chapter",
+      "publisher": "finlex",
+      "title": "Chapter 7",
+      "text": "7 luku Elintarvikkeiden kansalliset laatujärjestelmät ja valvotut pito-olosuhteet",
+      "chapter_number": 7,
+      "statute_id": ""
+    },
+    {
+      "id": "b4c30c82-1383-408b-95a3-91551cf0fc91",
+      "node_type": "Chapter",
+      "publisher": "finlex",
+      "title": "Chapter 8",
+      "text": "8 luku Nimisuojatuotteiden rekisteröiminen ja valmistuksesta ilmoittaminen",
+      "chapter_number": 8,
+      "statute_id": ""
+    },
+    {
+      "id": "e7b1b3e4-67ad-4642-8a80-ee5704942ae7",
+      "node_type": "Chapter",
+      "publisher": "finlex",
+      "title": "Chapter 9",
+      "text": "9 luku Hallinnolliset pakkokeinot, hallinnolliset sanktiot ja rikosoikeudelliset rangaistukset",
+      "chapter_number": 9,
+      "statute_id": ""
+    },
+    {
+      "id": "302ac13c-bf74-4e4e-978d-17909d18dbca",
+      "node_type": "Chapter",
+      "publisher": "finlex",
+      "title": "Chapter 10",
+      "text": "10 luku Maksut",
+      "chapter_number": 10,
+      "statute_id": ""
+    },
+    {
+      "id": "c31101ae-c4fe-447b-bf8f-bec1605c23d7",
+      "node_type": "Chapter",
+      "publisher": "finlex",
+      "title": "Chapter 11",
+      "text": "11 luku Muutoksenhaku",
+      "chapter_number": 11,
+      "statute_id": ""
+    },
+    {
+      "id": "3a1b4a73-a8ba-4acd-983d-37d43ce110af",
+      "node_type": "Chapter",
+      "publisher": "finlex",
+      "title": "Chapter 12",
+      "text": "12 luku Rekisterit",
+      "chapter_number": 12,
+      "statute_id": ""
+    },
+    {
+      "id": "cc191b01-a299-4246-a24d-e052a1dfce60",
+      "node_type": "Chapter",
+      "publisher": "finlex",
+      "title": "Chapter 13",
+      "text": "13 luku Erinäiset säännökset",
+      "chapter_number": 13,
+      "statute_id": ""
+    },
+    {
+      "id": "abf8ded9-d25c-469f-8613-dabd17138057",
+      "node_type": "Chapter",
+      "publisher": "finlex",
+      "title": "Chapter 14",
+      "text": "14 luku Voimaantulo- ja siirtymäsäännökset",
+      "chapter_number": 14,
+      "statute_id": ""
+    }
+  ],
+  "sections": [
+    {
+      "id": "577ba160-ca8d-4edb-a839-226f75a1a7d7",
+      "node_type": "Section",
+      "publisher": "finlex",
+      "title": "1 § Lain tarkoitus",
+      "text": "Tämän lain tarkoituksena on: Elintarvikesäännösten velvoitteita toimeenpantaessa ja niiden noudattamista valvottaessa on otettava huomioon elintarvike- ja kontaktimateriaalitoiminnan luonne ja laajuus sekä toimintaan liittyvät muut elintarviketurvallisuuteen ja kuluttajansuojaan vaikuttavat seikat, jollei laissa toisin säädetä.",
+      "section_number": "1",
+      "chapter_number": 1,
+      "statute_id": ""
+    },
+    {
+      "id": "25f99ee3-f9f4-4db4-b469-0277230109c5",
+      "node_type": "Section",
+      "publisher": "finlex",
+      "title": "2 § Soveltamisala",
+      "text": "Tätä lakia sovelletaan elintarvikkeisiin, elintarviketuotantoon käytettäviin eläimiin, elintarvikekontaktimateriaaleihin, elintarvike- ja kontaktimateriaalitoimintaan, elintarvikealan ja kontaktimateriaalialan toimijoihin sekä elintarvikevalvontaan kaikissa elintarvikkeiden ja elintarvikekontaktimateriaalien tuotanto-, jalostus- ja jakeluvaiheissa. Tätä lakia ei sovelleta: Tämän lain 8 §:n 2 momentin 3 kohdan a ja b alakohdassa sekä 10 §:n 2 momentissa tarkoitettuun toimintaan sovelletaan 2 luvun säännöksistä ainoastaan 6 §:n 1–3 momenttia sekä 14, 15 ja 17 §:ää.",
+      "section_number": "2",
+      "chapter_number": 1,
+      "statute_id": ""
+    },
+    {
+      "id": "e7cc03e1-af28-4bd7-90b9-6a0d2720c70f",
+      "node_type": "Section",
+      "publisher": "finlex",
+      "title": "3 § Euroopan unionin lainsäädäntö",
+      "text": "Tätä lakia sovelletaan elintarvikkeita ja elintarvikekontaktimateriaaleja, elintarvike- ja kontaktimateriaalitoimintaa sekä elintarvikevalvontaa koskevien Euroopan unionin säädösten täytäntöönpanoon siltä osin kuin niiden täytäntöönpanosta ei säädetä muussa laissa. Mitä tässä laissa säädetään Euroopan unionista tai Euroopan unionin jäsenvaltioista, koskee myös Euroopan talousaluetta ja siihen kuuluvia valtioita.",
+      "section_number": "3",
+      "chapter_number": 1,
+      "statute_id": ""
+    },
+    {
+      "id": "e1e66637-d5bc-446c-adb4-04babb3fa4a8",
+      "node_type": "Section",
+      "publisher": "finlex",
+      "title": "4 § Suhde muuhun lainsäädäntöön",
+      "text": "Talousveden laadusta ja veden välityksellä leviävän taudin ehkäisystä säädetään terveydensuojelulaissa (763/1994). Elintarviketurvallisuuteen vaikuttavasta eläintautien ja eläimistä ihmisiin leviävien tautien vastustamisesta säädetään myös eläintautilaissa (76/2021). Yhteisen kalastuspolitiikan noudattamisen valvontaan ja yhteisen kalastuspolitiikan vastaisiin tekoihin liittyvän Euroopan unionin lainsäädännön toimeenpanosta säädetään yhteisen kalastuspolitiikan seuraamusjärjestelmästä ja valvonnasta annetussa laissa (1188/2014). Luonnonmukaisesta tuotannosta ja luonnonmukaisesti tuotettujen tuotteiden merkinnöistä säädetään luonnonmukaisen tuotannon valvonnasta annetussa laissa (294/2015). Elintarvikkeita käsittelevien henkilöiden terveydentilaa koskevista vaatimuksista säädetään myös tartuntatautilaissa (1227/2016). Elintarvikkeiden säteilyturvallisuuden arviointiperusteista säädetään säteilylaissa (859/2018). Euroopan unioniin tuotavien elintarvikkeiden virallisesta\nvalvonnasta säädetään eläinten sekä eräiden tavaroiden tuontivalvonnasta annetussa laissa (1227/2019).",
+      "section_number": "4",
+      "chapter_number": 1,
+      "statute_id": ""
+    },
+    {
+      "id": "4e593246-cc94-4905-9fcb-22702d545da5",
+      "node_type": "Section",
+      "publisher": "finlex",
+      "title": "5 § Määritelmät",
+      "text": "Tässä laissa ja sen nojalla annetuissa asetuksissa sovelletaan: Tässä laissa ja sen nojalla annetuissa asetuksissa tarkoitetaan:",
+      "section_number": "5",
+      "chapter_number": 1,
+      "statute_id": ""
+    },
+    {
+      "id": "a4aa618c-f484-440f-8c35-051925d9dcc1",
+      "node_type": "Section",
+      "publisher": "finlex",
+      "title": "6 § Toimintaa koskevat yleiset vaatimukset",
+      "text": "Elintarvikealan toimijan on huolehdittava toiminnassaan siitä, että elintarvikkeet ovat kemiallisilta, fysikaalisilta, mikrobiologisilta ja terveydellisiltä ominaisuuksiltaan sellaisia, että ne ovat ihmisravinnoksi soveltuvia eivätkä aiheuta vaaraa ihmisen terveydelle. Toimijan on huolehdittava myös siitä, että elintarvikkeet tai niistä annettavat tiedot eivät johda kuluttajaa harhaan. Kontaktimateriaalialan toimijan on huolehdittava toiminnassaan siitä, että elintarvikekontaktimateriaalit ovat elintarvikekäyttöön soveltuvia ja sellaisia, että ne eivät aiheuta vaaraa ihmisen terveydelle eivätkä aiheuta sopimattomia muutoksia elintarvikkeen koostumuksessa tai aistinvaraisissa ominaisuuksissa. Toimijan on huolehdittava myös siitä, että elintarvikekontaktimateriaaleista annettavat tiedot eivät johda kuluttajaa harhaan. Edellä 1 momentissa säädetyn lisäksi elintarviketoiminnan on oltava sellaista, että tuotettavien, valmistettavien, säilytettävien tai käsiteltävien elintarvikkeiden turvallisuus ei vaarannu ja että elintarviketoiminta myös muutoin täyttää elintarvikesäännösten mukaiset vaatimukset. Elintarvikealan toimijan, joka valmistaa, valmistuttaa, tuo maahan tai muulla tavalla saattaa markkinoille vitamiinien, kivennäisaineiden ja eräiden muiden aineiden lisäämisestä elintarvikkeisiin annetun Euroopan parlamentin ja neuvoston asetuksen (EY) N:o 1925/2006 soveltamisalaan kuuluvia elintarvikkeita, on tehtävä siitä ilmoitus Ruokavirastolle. Elintarvikealan toimijan, joka valmistaa, valmistuttaa, tuo maahan tai muulla tavalla saattaa markkinoille ravintolisiä koskevan jäsenvaltioiden lainsäädännön lähentämisestä annetun Euroopan parlamentin ja neuvoston direktiivin 2002/46/EY soveltamisalaan kuuluvia ravintolisiä, on tehtävä siitä ilmoitus Ruokavirastolle. Ilmoitus on tehtävä myös, kun valmisteen koostumus sille ominaisten aineiden osalta muuttuu.",
+      "section_number": "6",
+      "chapter_number": 2,
+      "statute_id": ""
+    },
+    {
+      "id": "0292effc-1f4c-4ba1-83ce-33aa35924462",
+      "node_type": "Section",
+      "publisher": "finlex",
+      "title": "7 § Toimijan luotettavuus",
+      "text": "Elintarvikealan ja kontaktimateriaalialan toimijan on oltava luotettava. Toimijaa ei pidetä luotettavana, jos hän on: Jos toimija on oikeushenkilö, vaatimus luotettavuudesta koskee toimitusjohtajaa ja hänen sijaistaan, hallituksen jäsentä ja varajäsentä, hallintoneuvoston ja siihen rinnastettavan toimielimen jäsentä ja varajäsentä, vastuunalaista yhtiömiestä sekä muuta ylimpään johtoon kuuluvaa. Vaatimus luotettavuudesta koskee myös henkilöä, jolla on suoraan tai välillisesti vähintään 25 prosenttia osakeyhtiön osakkeista tai osakkeiden tuottamasta äänivallasta tai vastaava omistus- tai määräämisvalta, jos kyseessä on muu yhteisö kuin osakeyhtiö. Luotettavuuden arvioimiseksi voidaan 1 momentissa tarkoitetut seikat selvittää sellaisista yritys- ja yhteisötietolain (244/2001) 3 §:ssä tarkoitetuista rekisteröidyistä yrityksistä ja yhteisöistä, jotka välittömästi tai välillisesti kytkeytyvät elintarvikealan tai kontaktimateriaalialan toimijaan tai 2 momentissa mainittuihin henkilöihin. Toimivaltainen valvontaviranomainen voi toimijan luotettavuuden selvittämiseksi pyytää toimijasta Harmaan talouden selvitysyksiköltä Harmaan talouden selvitysyksiköstä annetun lain (1207/2010) 5 §:ssä tarkoitetun velvoitteidenhoitoselvityksen.",
+      "section_number": "7",
+      "chapter_number": 2,
+      "statute_id": ""
+    },
+    {
+      "id": "bbc43fe1-bfdd-4a31-9941-a0da601af645",
+      "node_type": "Section",
+      "publisher": "finlex",
+      "title": "8 § Rekisteröity alkutuotanto",
+      "text": "Alkutuotannon toimijan on tehtävä ilmoitus elintarvikkeiden alkutuotannosta toiminnan rekisteröintiä varten toimivaltaisen valvontaviranomaisen tarjoamaan sähköiseen palveluun tai toimitettava tiedot muulla tavoin toimivaltaiselle valvontaviranomaiselle viimeistään neljä viikkoa ennen toiminnan aloittamista tai olennaista muuttamista. Lisäksi toiminnan keskeyttämisestä ja lopettamisesta on viivytyksettä tehtävä ilmoitus valvontaviranomaiselle. Edellä 1 momentissa tarkoitettua ilmoitusta ei kuitenkaan tarvitse tehdä, jos: Kunnan on ilmoitettava toimijalle saaneensa tiedot toiselta viranomaiselta 1 kohdassa tarkoitetussa tapauksessa. Alkutuotantopaikan sijaintikunta käsittelee ilmoituksen ja tallentaa tiedot alkutuotannon rekisteröinnistä ympäristöterveydenhuollon keskitettyyn toiminnanohjaus- ja tiedonhallintajärjestelmään ja ilmoittaa toimijalle tietojen tallentamisesta sähköisesti tai muulla vastaavalla tavalla. Ruokavirasto antaa tarkemmat määräykset tietojen tallentamisesta.",
+      "section_number": "8",
+      "chapter_number": 2,
+      "statute_id": ""
+    },
+    {
+      "id": "42f84935-db24-4552-9a42-9062c814bc31",
+      "node_type": "Section",
+      "publisher": "finlex",
+      "title": "9 § Hyväksytty itujen alkutuotantopaikka",
+      "text": "Alkutuotannon toimija, joka harjoittaa itujen alkutuotantoa, on poiketen siitä, mitä 8 §:ssä säädetään, haettava toimivaltaiselta valvontaviranomaiselta alkutuotantopaikan hyväksymistä ennen toiminnan aloittamista tai olennaista muuttamista. Lisäksi toiminnan keskeyttämisestä ja lopettamisesta on viivytyksettä tehtävä ilmoitus valvontaviranomaiselle. Edellä 1 momentissa tarkoitettua hyväksymistä ei kuitenkaan tarvitse hakea, jos alkutuotannon toimija harjoittaa alkutuotantopaikassa pienimuotoista itujen tuotantoa. Tällaisesta elintarviketoiminnasta on kuitenkin tehtävä 8 §:n mukainen ilmoitus. Alkutuotantopaikan hyväksyy alkutuotantopaikan sijaintikunta. Kunta tekee päätöksen alkutuotantopaikan hyväksymisestä 60 vuorokauden kuluessa asian vireille tulosta, jollei asian laajuus, hakemuksen puutteellisuus tai muu erityinen syy edellytä asian pitempää käsittelyä. Kunta voi asettaa päätöksessään ehtoja vaarojen ehkäisemiseksi. Kunta tallentaa tiedot alkutuotantopaikan hyväksymisestä ympäristöterveydenhuollon keskitettyyn toiminnanohjaus- ja tiedonhallintajärjestelmään ja ilmoittaa toimijalle tietojen tallentamisesta sähköisesti tai muulla vastaavalla tavalla. Ruokavirasto antaa tarkemmat määräykset tietojen tallentamisesta.",
+      "section_number": "9",
+      "chapter_number": 2,
+      "statute_id": ""
+    },
+    {
+      "id": "36344829-6f40-412e-ac5e-6f307a5d65c9",
+      "node_type": "Section",
+      "publisher": "finlex",
+      "title": "10 § Rekisteröity elintarviketoiminta",
+      "text": "Elintarvikealan toimijan on tehtävä ilmoitus elintarviketoiminnasta toiminnan rekisteröintiä varten toimivaltaisen valvontaviranomaisen tarjoamaan sähköiseen palveluun tai toimitettava tiedot muulla tavoin toimivaltaiselle valvontaviranomaiselle viimeistään neljä viikkoa ennen toiminnan aloittamista tai olennaista muuttamista. Lisäksi toiminnan keskeyttämisestä ja lopettamisesta on viivytyksettä tehtävä ilmoitus toimivaltaiselle valvontaviranomaiselle. Edellä 1 momentissa tarkoitettua ilmoitusta ei tarvitse kuitenkaan tehdä, jos toiminta ja siihen liittyvät riskit ovat vähäisiä ja: Elintarvikehuoneiston sijaintikunta käsittelee elintarviketoimintaa koskevan ilmoituksen. Poiketen siitä, mitä 3 momentissa säädetään, elintarvikealan toimijan kotikunta käsittelee elintarviketoimintaa koskevan ilmoituksen, jos toimintaa harjoitetaan: Jos toimijalla ei ole kotipaikkaa Suomessa, elintarviketoimintaa koskevan ilmoituksen käsittelee se kunta, jonka alueella elintarviketoiminta aloitetaan. Sosiaali- ja terveysalan lupa- ja valvontavirasto käsittelee alkoholilain (1102/2017) 14 §:n 1 momentin 2 kohdassa tarkoitetun valmistustilan ja 16 §:n 1 momentin 2 kohdassa tarkoitetun varastointitilan rekisteröintiä koskevan ilmoituksen. Aluehallintovirasto käsittelee alkoholilain 17 §:n 2 momentissa ja 26 §:ssä tarkoitettujen alkoholijuomien vähittäismyyntipaikkojen rekisteröintiä koskevan ilmoituksen. Toimivaltainen valvontaviranomainen käsittelee ilmoituksen ja tallentaa tiedot elintarviketoiminnan rekisteröinnistä ympäristöterveydenhuollon keskitettyyn toiminnanohjaus- ja tiedonhallintajärjestelmään ja ilmoittaa toimijalle tietojen tallentamisesta sähköisesti tai muulla vastaavalla tavalla. Ruokavirasto antaa tarkemmat määräykset tietojen tallentamisesta.",
+      "section_number": "10",
+      "chapter_number": 2,
+      "statute_id": ""
+    },
+    {
+      "id": "c64854c5-7e80-4326-b3a6-81776bafdd3a",
+      "node_type": "Section",
+      "publisher": "finlex",
+      "title": "11 § Hyväksytty elintarvikehuoneisto",
+      "text": "Elintarvikealan toimijan, jonka harjoittamalta elintarviketoiminnalta eloperäisiä elintarvikkeita koskevista erityisistä hygieniasäännöistä annetun Euroopan parlamentin ja neuvoston asetuksen (EY) N:o 853/2004 4 artiklan 2 kohdan mukaan edellytetään elintarvikehuoneiston hyväksymistä, on poiketen siitä, mitä 10 §:ssä säädetään, haettava toimivaltaiselta valvontaviranomaiselta elintarvikehuoneiston hyväksymistä ennen toiminnan aloittamista tai olennaista muuttamista. Lisäksi toiminnan keskeyttämisestä ja lopettamisesta on viivytyksettä tehtävä ilmoitus toimivaltaiselle valvontaviranomaiselle. Elintarvikehuoneiston hyväksymistä ei kuitenkaan tarvitse hakea, jos alkutuotannon toimija harjoittaa elintarviketurvallisuusriskeiltään vähäistä elintarvikkeiden valmistusta tuottamistaan alkutuotannon tuotteista. Elintarviketurvallisuusriskeiltään vähäiseksi toiminnaksi katsotaan Euroopan parlamentin ja neuvoston asetuksen (EY) N:o 853/2004 1 artiklan 3 kohdan d tai e alakohdassa ja 10 artiklassa sekä lihantuotantoa koskevan virallisen valvonnan suorittamista sekä elävien simpukoiden tuotanto- ja uudelleensijoitusalueita koskevista erityissäännöistä Euroopan parlamentin ja neuvoston asetuksen (EU) 2017/625 mukaisesti annetun komission delegoidun asetuksen (EU) 2019/624 12 artiklan 1 kohdan a alakohdassa tarkoitettu toiminta. Hyväksymistä ei tarvitsisi hakea myöskään, jos toimija harjoittaa Euroopan parlamentin ja neuvoston asetuksen (EY) N:o 853/2004 1 artiklan 5 kohdan b alakohdan i ja ii alakohdassa tarkoitettua toimintaa. Tällaisista elintarvikehuoneistoista\non kuitenkin tehtävä 10 §:n 1 momentin mukainen ilmoitus. Elintarvikehuoneiston sijaintikunta hyväksyy 1 momentissa tarkoitetut elintarvikehuoneistot. Ruokavirasto hyväksyy teurastamot ja riistan käsittelylaitokset sekä niiden yhteydessä olevat hyväksymistä edellyttävät elintarvikehuoneistot. Aluehallintovirasto hyväksyy poroteurastamot ja niiden yhteydessä olevat hyväksymistä edellyttävät elintarvikehuoneistot. Elintarvikealan toimijan kotikunta hyväksyy 1 momentissa tarkoitetut elintarvikehuoneistot, jos ne ovat liikkuvia elintarvikehuoneistoja. Ruokavirasto hyväksyy liikkuvat teurastamot ja riistan käsittelylaitokset sekä niiden yhteydessä olevat hyväksymistä edellyttävät elintarvikehuoneistot. Aluehallintovirasto hyväksyy liikkuvat poroteurastamot ja niiden yhteydessä olevat hyväksymistä edellyttävät elintarvikehuoneistot. Aluehallintovirasto ja kunta ilmoittavat hyväksymänsä elintarvikehuoneiston Ruokavirastolle, joka antaa elintarvikehuoneistolle hyväksymisnumeron. Toimivaltainen valvontaviranomainen tekee päätöksen elintarvikehuoneiston hyväksymisestä 60 vuorokauden kuluessa asian vireille tulosta, jollei asian laajuus, hakemuksen puutteellisuus tai muu erityinen syy edellytä asian pitempää käsittelyä. Viranomainen voi asettaa päätöksessään ehtoja vaarojen ehkäisemiseksi. Viranomainen tallentaa tiedot elintarvikehuoneiston hyväksymisestä ympäristöterveydenhuollon keskitettyyn toiminnanohjaus- ja tiedonhallintajärjestelmään ja ilmoittaa toimijalle tietojen tallentamisesta sähköisesti tai muulla vastaavalla tavalla. Ruokavirasto antaa tarkemmat määräykset tietojen tallentamisesta.",
+      "section_number": "11",
+      "chapter_number": 2,
+      "statute_id": ""
+    },
+    {
+      "id": "3eb2774f-ae66-4aa8-9ed4-aaa98d4232cd",
+      "node_type": "Section",
+      "publisher": "finlex",
+      "title": "12 § Tiedottaminen elintarviketoiminnasta liikkuvassa elintarvikehuoneistossa",
+      "text": "Elintarvikealan toimijan on tiedotettava: Tiedon on oltava toimivaltaisella valvontaviranomaisella viimeistään neljä arkipäivää ennen ilmoitetun toiminnan aloittamista.",
+      "section_number": "12",
+      "chapter_number": 2,
+      "statute_id": ""
+    },
+    {
+      "id": "5b3958e4-ba11-4a4c-ad95-fe56201a1439",
+      "node_type": "Section",
+      "publisher": "finlex",
+      "title": "13 § Rekisteröity kontaktimateriaalitoiminta",
+      "text": "Kontaktimateriaalialan toimijan on tehtävä ilmoitus toimipaikastaan ja siellä harjoitettavasta kontaktimateriaalitoiminnasta toiminnan rekisteröintiä varten toimivaltaisen valvontaviranomaisen tarjoamaan sähköiseen palveluun tai toimitettava tiedot muulla tavoin viimeistään neljä viikkoa ennen toiminnan aloittamista tai olennaista muuttamista. Ilmoitus tehdään toimipaikan sijaintikunnalle. Toiminnan keskeyttämisestä ja lopettamisesta on viivytyksettä tehtävä ilmoitus toimipaikan sijaintikunnalle. Kunta käsittelee ilmoituksen ja tallentaa tiedot kontaktimateriaalitoiminnan rekisteröinnistä ympäristöterveydenhuollon keskitettyyn toiminnanohjaus- ja tiedonhallintajärjestelmään ja ilmoittaa toimijalle tietojen tallentamisesta sähköisesti tai muulla vastaavalla tavalla. Ruokavirasto antaa tarkemmat määräykset tietojen tallentamisesta.",
+      "section_number": "13",
+      "chapter_number": 2,
+      "statute_id": ""
+    },
+    {
+      "id": "f85374ab-3ec4-45c7-ba73-559d7ff241f2",
+      "node_type": "Section",
+      "publisher": "finlex",
+      "title": "14 § Jäljitettävyys",
+      "text": "Elintarvikkeista, elintarviketuotantoon käytettävistä eläimistä ja elintarvikekontaktimateriaaleista on ilmoitettava vastaanottajalle elintarvikesäännöksissä edellytetyt jäljitettävyystiedot. Elintarvikealan toimijan velvollisuudesta järjestää kalastus- ja vesiviljelytuotteiden jäljitettävyys säädetään lisäksi yhteisön valvontajärjestelmästä, jonka tarkoituksena on varmistaa yhteisen kalastuspolitiikan sääntöjen noudattaminen, asetusten (EY) N:o 847/96, (EY) N:o 2371/2002, (EY) N:o 811/2004, (EY) N:o 768/2005, (EY) N:o 2115/2005, (EY) N:o 2166/2005, (EY) N:o 388/2006, (EY) N:o 509/2007, (EY) N:o 676/2007, (EY) N:o 1098/2007, (EY) N:o 1300/2008 ja (EY) N:o 1342/2008 muuttamisesta sekä asetusten (ETY) N:o 2847/93, (EY) N:o 1627/94 ja (EY) N:o 1966/2006 kumoamisesta annetun neuvoston asetuksen (EY) N:o 1224/2009 56 ja 58 artiklassa sekä velvollisuudesta antaa kuluttajille tietoja kalastus- ja vesiviljelytuotteista yhteisön valvontajärjestelmästä, jonka tarkoituksena on varmistaa yhteisen kalastuspolitiikan sääntöjen noudattaminen, annetun neuvoston asetuksen (EY) N:o 1224/2009 soveltamista koskevista yksityiskohtaisista säännöistä annetun komission\ntäytäntöönpanoasetuksen (EU) N:o 404/2011 67 ja 68 artiklassa.",
+      "section_number": "14",
+      "chapter_number": 2,
+      "statute_id": ""
+    },
+    {
+      "id": "3ac0e23a-d3dc-4fea-b767-7cc4fc0d37fd",
+      "node_type": "Section",
+      "publisher": "finlex",
+      "title": "15 § Omavalvonta",
+      "text": "Elintarvikealan ja kontaktimateriaalialan toimijalla on oltava järjestelmä, jonka avulla toimija tunnistaa ja hallitsee toimintaansa liittyvät vaarat ja varmistaa, että toiminta täyttää elintarvikesäännöksissä asetetut vaatimukset. Toimijan on kirjattava omavalvonnan tulokset riittävällä tarkkuudella. Elintarvikealan toimijan tuodessa eläinperäisiä elintarvikkeita koskevista erityisistä hygieniasäännöistä annetun Euroopan parlamentin ja neuvoston asetuksen (EY) N:o 853/2004 8 artiklassa tarkoitettujen salmonellaa koskevien erityistakuiden piiriin kuuluvia elintarvikkeita Euroopan unionin toisesta jäsenvaltiosta Suomeen, omavalvontaan on sisällyttävä kyseisiä elintarvikkeita koskeva näytteenotto- ja tutkimussuunnitelma salmonellan varalta.",
+      "section_number": "15",
+      "chapter_number": 2,
+      "statute_id": ""
+    },
+    {
+      "id": "cacddac9-a414-41f4-9801-68ae8a5c336b",
+      "node_type": "Section",
+      "publisher": "finlex",
+      "title": "16 § Valvontatietojen julkistaminen",
+      "text": "Suunnitelmallisen elintarvikevalvonnan piirissä olevan elintarvikealan toimijan on julkistettava valvontaviranomaisen antama elintarviketoiminnan tarkastuksesta kertova raportti. Ruokavirasto antaa tarkemmat määräykset valvontatietojen julkistamisesta. Velvollisuus julkistaa valvontatietoja ei koske: Elintarviketoiminnan tarkastuksesta annetun viimeisimmän raportin on oltava helposti saatavilla elintarvikealan toimijan internetsivuilla tai muulla vastaavalla tavalla. Lisäksi elintarvikehuoneistossa, jossa kuluttajat asioivat, raportin on oltava esillä sisäänkäynnin yhteydessä tai muussa kuluttajalle helposti havaittavassa paikassa.",
+      "section_number": "16",
+      "chapter_number": 2,
+      "statute_id": ""
+    },
+    {
+      "id": "6c68a02e-af9b-4a12-8651-793ac2eb2467",
+      "node_type": "Section",
+      "publisher": "finlex",
+      "title": "17 § Toimijan tiedonantovelvollisuus",
+      "text": "Elintarvikealan ja kontaktimateriaalialan toimijan on välittömästi ilmoitettava toimivaltaiselle valvontaviranomaiselle omavalvonnassa tai muulla tavalla esille tulleista vakavista vaaroista ihmisen terveydelle sekä toimenpiteistä, joihin epäkohtien korjaamiseksi on ryhdytty. Kun elintarvikealan toimija saa tiedon tuottamansa, jalostamansa tai jakelemansa elintarvikkeen aiheuttamasta ruokamyrkytyksestä tai epäilee elintarvikkeen voivan aiheuttaa ruokamyrkytyksen, toimijan on ilmoitettava siitä välittömästi kunnan elintarvikevalvonnasta vastaavalle valvontaviranomaiselle. Ruokamyrkytyksen aiheuttajaksi epäilty elintarvike, raaka-aine tai näyte niistä on säilytettävä niin, että se voidaan tutkia laboratoriossa ruokamyrkytyksen syyn selvittämiseksi.",
+      "section_number": "17",
+      "chapter_number": 2,
+      "statute_id": ""
+    },
+    {
+      "id": "b580b1d2-6f4e-48ae-b866-6b605b84f079",
+      "node_type": "Section",
+      "publisher": "finlex",
+      "title": "18 § Zoonoosit",
+      "text": "Elintarvikealan toimijan on estettävä zoonoosien aiheuttajien leviäminen elintarvikkeiden välityksellä ihmisiin mahdollisimman tehokkaasti kaikissa olosuhteissa. Elintarvikealan toimijan on seurattava ja valvottava zoonoosien aiheuttajien esiintymistä elintarviketuotantoon käytettävissä eläimissä ja elintarvikkeissa. Toimijan on toimitettava tiedot seurantaan ja valvontaan liittyvistä tutkimuksista ja tutkimustuloksista toimivaltaiselle viranomaiselle.",
+      "section_number": "18",
+      "chapter_number": 2,
+      "statute_id": ""
+    },
+    {
+      "id": "193c8637-755c-4710-934e-690b1edac19d",
+      "node_type": "Section",
+      "publisher": "finlex",
+      "title": "19 § Hygieniapassi",
+      "text": "Pakkaamattomia helposti pilaantuvia elintarvikkeita elintarvikehuoneistossa käsittelevällä henkilöllä on oltava elintarvikehygieenistä osaamista osoittava Ruokaviraston hyväksymän mallin mukainen hygieniapassi, jos hän on työskennellyt pakkaamattomien helposti pilaantuvien elintarvikkeiden käsittelyä edellyttävissä tehtävissä vähintään kolme kuukautta. Hygieniapassia ei kuitenkaan vaadita henkilöltä, joka työskentelee elintarvikehuoneistossa pelkästään: Elintarvikealan toimijan on pidettävä kirjaa elintarvikehuoneistossa työskentelevien henkilöiden elintarvikehygieenisestä osaamisesta ja pyydettäessä esitettävä tiedot valvontaviranomaiselle. Ruokavirasto laatii elintarvikehygieenistä osaamista arvioivan hygieniapassitestin. Hygieniapassitestin järjestää ja hygieniapassin myöntää 20 §:ssä tarkoitettu hygieniapassitestaaja. Hygieniapassitestaaja voi periä maksun testistä ja hygieniapassin myöntämisestä. Hygieniapassi myönnetään hygieniapassitestin hyväksytysti suorittaneelle henkilölle. Ruokavirasto voi tarvittaessa myöntää hygieniapassin samoin perustein kuin hygieniapassitestaaja sekä peruuttaa hygieniapassin, jos se on myönnetty olennaisesti virheellisin perustein.",
+      "section_number": "19",
+      "chapter_number": 2,
+      "statute_id": ""
+    },
+    {
+      "id": "2927626b-14ae-43b1-91b0-5c99cc6e6643",
+      "node_type": "Section",
+      "publisher": "finlex",
+      "title": "20 § Hygieniapassitestaaja",
+      "text": "Ruokavirasto voi hakemuksesta hyväksyä hygieniapassitestaajaksi henkilön: Ruokavirasto valvoo hygieniapassitestaajien toimintaa. Ruokavirasto voi peruuttaa testaajan hyväksynnän, jos testaaja ei ole järjestänyt hygieniapassitestejä tai myöntänyt hygieniapasseja yli kolmeen vuoteen. Lisäksi hyväksyntä voidaan peruuttaa, jos testaaja on rikkonut hygieniapassitestaamisesta annettuja säännöksiä tai määräyksiä eikä ole korjannut toimintaansa Ruokaviraston kehotuksesta viraston asettamassa määräajassa. Hyväksyntä voidaan peruuttaa myös väliaikaisesti. Hygieniapassitestaajiin sovelletaan heidän suorittaessaan tämän pykälän mukaisia tehtäviä, mitä 33 §:n 3 momentissa säädetään toimeksiannon saaneesta elimestä ja luonnollisesta henkilöstä. Ruokavirasto voi antaa tarkempia määräyksiä hygieniapassitestin järjestämisestä, testin perusteista ja laatimisesta, testissä käytettävistä kielistä ja testin hyväksyttävän suorittamisen arvioinnista, hygieniapassista ja sen myöntämisestä, hygieniapassitestaajaa koskevien rekisteritietojen käsittelystä sekä tiedonhallinnasta.",
+      "section_number": "20",
+      "chapter_number": 2,
+      "statute_id": ""
+    },
+    {
+      "id": "339da729-0500-4e50-82c6-d6ffae9437b2",
+      "node_type": "Section",
+      "publisher": "finlex",
+      "title": "21 § Elintarvikkeita ja elintarvikekontaktimateriaaleja koskevat tarkemmat säännökset",
+      "text": "Maa- ja metsätalousministeriön asetuksella voidaan antaa tarkempia säännöksiä 6 §:n 1 ja 2 momentissa tarkoitettuihin elintarvikkeita ja elintarvikekontaktimateriaaleja koskeviin vaatimuksiin liittyen: Maa- ja metsätalousministeriön asetuksella voidaan antaa tarkempia säännöksiä: Sosiaali- ja terveysministeriön asetuksella voidaan antaa tarkempia säännöksiä Euroopan parlamentin ja neuvoston asetuksen (EU) N:o 609/2013 täydentämisestä äidinmaidonkorvikkeiden ja vieroitusvalmisteiden koostumusta ja niistä annettavia tietoja koskevien erityisvaatimusten sekä imeväisten ja pikkulasten ravitsemisesta annettavia tietoja koskevien vaatimusten osalta annetussa komission delegoidun asetuksen (EU) 2016/127 10 artiklassa edellytettävän imeväisten ja pikkulasten ruokintaa koskevan tiedotusaineiston sisällöstä ja jakelusta. Valtioneuvoston asetuksella voidaan antaa tarkempia säännöksiä muuntogeenisistä elintarvikkeista ja rehuista annetussa Euroopan parlamentin ja neuvoston asetuksessa (EY) N:o 1829/2003 edellytetyistä kansallisista järjestelyistä.",
+      "section_number": "21",
+      "chapter_number": 2,
+      "statute_id": ""
+    },
+    {
+      "id": "32e4cdd9-5a81-4f5a-8927-b458af145a52",
+      "node_type": "Section",
+      "publisher": "finlex",
+      "title": "22 § Elintarvike- ja kontaktimateriaalitoimintaa koskevat tarkemmat säännökset",
+      "text": "Maa- ja metsätalousministeriön asetuksella voidaan antaa tarkempia säännöksiä 6 §:n 3 momentissa tarkoitettuihin elintarviketoimintaa koskeviin vaatimuksiin liittyen: Maa- ja metsätalousministeriön asetuksella voidaan antaa tarkempia säännöksiä:",
+      "section_number": "22",
+      "chapter_number": 2,
+      "statute_id": ""
+    },
+    {
+      "id": "bebfbf03-405d-43b0-bac8-f3cb406520ef",
+      "node_type": "Section",
+      "publisher": "finlex",
+      "title": "23 § Maa- ja metsätalousministeriön tehtävät",
+      "text": "Maa- ja metsätalousministeriö suunnittelee ja ohjaa elintarvikesäännösten täytäntöönpanoa.",
+      "section_number": "23",
+      "chapter_number": 3,
+      "statute_id": ""
+    },
+    {
+      "id": "d09f4e6c-fccb-428e-bd59-01e9c89c20d6",
+      "node_type": "Section",
+      "publisher": "finlex",
+      "title": "24 § Ruokaviraston tehtävät",
+      "text": "Ruokavirasto suunnittelee, ohjaa, kehittää ja suorittaa valtakunnallisesti elintarvikevalvontaa siten kuin tässä laissa säädetään. Sen lisäksi, mitä muualla tässä laissa säädetään, Ruokavirasto:",
+      "section_number": "24",
+      "chapter_number": 3,
+      "statute_id": ""
+    },
+    {
+      "id": "fccbfd8e-b0db-4467-9b75-4a7ee6632b2d",
+      "node_type": "Section",
+      "publisher": "finlex",
+      "title": "25 § Aluehallintoviraston tehtävät",
+      "text": "Aluehallintovirasto suunnittelee, ohjaa ja valvoo elintarvikevalvontaa sekä valvoo elintarvikesäännösten noudattamista toimialueellaan tämän lain mukaisesti sekä lisäksi: Sen lisäksi, mitä muualla tässä laissa säädetään, aluehallintovirasto huolehtii: Ruokavirasto antaa tarkemmat määräykset 1 momentin 1 ja 3 kohdassa tarkoitettujen tulosten julkaisemisesta.",
+      "section_number": "25",
+      "chapter_number": 3,
+      "statute_id": ""
+    },
+    {
+      "id": "e3cfa043-4b4c-4485-9667-2fd6cea6f5c3",
+      "node_type": "Section",
+      "publisher": "finlex",
+      "title": "26 § Elinkeino-, liikenne- ja ympäristökeskuksen tehtävät",
+      "text": "Elinkeino-, liikenne- ja ympäristökeskukset huolehtivat maatalouden tukien toimeenpanosta annetussa laissa (192/2013) tarkoitettujen täydentävien ehtojen valvontaan kuuluvista kasvintuotannon elintarvikehygieniaa koskevista tarkastuksista. Elinkeino-, liikenne- ja ympäristökeskukset voivat tehtävää hoitaessaan ottaa viranomaisnäytteitä kasvinsuojeluainejäämien tutkimiseksi. Lisäksi elinkeino-, liikenne- ja ympäristökeskukset voivat ottaa Ruokaviraston toimeksiannosta muita viranomaisnäytteitä.",
+      "section_number": "26",
+      "chapter_number": 3,
+      "statute_id": ""
+    },
+    {
+      "id": "1be0f1b1-ed39-4a9a-b820-b52f305fba51",
+      "node_type": "Section",
+      "publisher": "finlex",
+      "title": "27 § Kunnan tehtävät",
+      "text": "Kunta huolehtii toimialueellaan elintarvikevalvonnasta siten kuin tässä laissa säädetään. Kunnassa nämä tehtävät hoitaa kunnan määräämä lautakunta tai muu monijäseninen toimielin. Mitä tässä laissa säädetään kunnasta, koskee myös kuntayhtymää ja ympäristöterveydenhuollon yhteistoiminta-alueesta annetussa laissa (410/2009) tarkoitettua yhteistoiminta-aluetta. Kunta voi sopia toisen kunnan tai kuntayhtymän kanssa, että kunnalle tai sen viranomaiselle tässä laissa säädetty tehtävä, jossa toimivalta voidaan siirtää viranhaltijalle, annetaan virkavastuulla toisen kunnan tai kuntayhtymän viranhaltijan hoidettavaksi. Kuntayhtymä voi tehdä edellä tarkoitetun sopimuksen, jos siihen on kuntayhtymän jäsenkuntien suostumus. Kunnanvaltuusto voi antaa lautakunnalle tai toimielimelle oikeuden siirtää toimivaltaansa edelleen alaiselleen viranhaltijalle tai jaostolle myös 55–59 ja 67 §:ssä tarkoitettujen hallinnollisten pakkokeinojen osalta. Sen lisäksi, mitä muualla tässä laissa säädetään, kunta: Poiketen siitä, mitä 24 §:n 2 momentin 2 kohdassa säädetään, kunta voi hoitaa Ruokaviraston tehtäväksi säädetyn lihantarkastuksen ja muun elintarvikevalvonnan teurastamoissa ja riistan käsittelylaitoksissa ja niiden yhteydessä olevissa hyväksytyissä elintarvikehuoneistoissa, jos kunta on tehnyt siitä Ruokaviraston kanssa sopimuksen. Ruokavirasto antaa tarkemmat määräykset 4 momentin 1 kohdassa tarkoitettujen ilmoitusten ja raporttien tekemisestä.",
+      "section_number": "27",
+      "chapter_number": 3,
+      "statute_id": ""
+    },
+    {
+      "id": "c357df4c-be7d-40f7-adb8-0472d970aa7a",
+      "node_type": "Section",
+      "publisher": "finlex",
+      "title": "28 § Sosiaali- ja terveysalan lupa- ja valvontaviraston tehtävät",
+      "text": "Sen lisäksi, mitä muualla tässä laissa säädetään, Sosiaali- ja terveysalan lupa- ja valvontavirasto:",
+      "section_number": "28",
+      "chapter_number": 3,
+      "statute_id": ""
+    },
+    {
+      "id": "b67e0864-4445-4e99-98c0-794cff4ee1cf",
+      "node_type": "Section",
+      "publisher": "finlex",
+      "title": "29 § Puolustusvoimien tehtävät",
+      "text": "Puolustusvoimat huolehtii tässä laissa kunnalle säädetyistä tehtävistä Puolustusvoimien valvontaan kuuluvan elintarviketoiminnan osalta.",
+      "section_number": "29",
+      "chapter_number": 3,
+      "statute_id": ""
+    },
+    {
+      "id": "952b16f5-9cb1-4c19-9e6c-ebd0dea8aec0",
+      "node_type": "Section",
+      "publisher": "finlex",
+      "title": "30 § Tullin tehtävät",
+      "text": "Tulli valvoo toimialueellaan: Valtioneuvoston asetuksella voidaan antaa tarkempia säännöksiä Tullille kuuluvista tehtävistä vientivaatimusten valvonnassa.",
+      "section_number": "30",
+      "chapter_number": 3,
+      "statute_id": ""
+    },
+    {
+      "id": "dca42204-e934-464d-bae3-d7f3f7df1d79",
+      "node_type": "Section",
+      "publisher": "finlex",
+      "title": "31 § Valtion ravitsemusneuvottelukunta",
+      "text": "Maa- ja metsätalousministeriö asettaa alaisuuteensa kolmevuotiseksi toimikaudeksi valtion ravitsemusneuvottelukunnan. Neuvottelukunnan tehtävänä on:",
+      "section_number": "31",
+      "chapter_number": 3,
+      "statute_id": ""
+    },
+    {
+      "id": "a3476fc9-89d8-4773-acb4-4557c81391c0",
+      "node_type": "Section",
+      "publisher": "finlex",
+      "title": "32 § Valvontatehtäviä suorittavan henkilön pätevyys",
+      "text": "Virallisen valvonnan tehtäviä ja muita virallisia toimia suorittavalla henkilöllä on oltava tehtävään soveltuva korkeakoulututkinto tai tarvittaessa Euroopan unionin lainsäädännössä edellytetty pätevyys. Valtioneuvoston asetuksella voidaan antaa tarkempia säännöksiä virallisen valvonnan tehtäviä ja muita virallisia toimia suorittavan henkilön pätevyys- ja kielitaitovaatimuksista ja täydennyskoulutuksesta.",
+      "section_number": "32",
+      "chapter_number": 3,
+      "statute_id": ""
+    },
+    {
+      "id": "f564cf27-95c0-4246-999f-cfd52b04a56c",
+      "node_type": "Section",
+      "publisher": "finlex",
+      "title": "33 § Toimeksiannon saanut elin tai luonnollinen henkilö",
+      "text": "Valvontaviranomainen voi virallisesta valvonnasta ja muista virallisista toimista, jotka suoritetaan elintarvike- ja rehulainsäädännön ja eläinten terveyttä ja hyvinvointia, kasvien terveyttä ja kasvinsuojeluaineita koskevien sääntöjen soveltamisen varmistamiseksi, sekä Euroopan parlamentin ja neuvoston asetusten (EY) N:o 999/2001, (EY) N:o 396/2005, (EY) N:o 1069/2009, (EY) N:o 1107/2009, (EU) N:o 1151/2012, (EU) N:o 652/2014, (EU) 2016/429 ja (EU) 2016/2031, neuvoston asetusten (EY) N:o 1/2005 ja (EY) N:o 1099/2009 ja neuvoston direktiivien 98/58/EY, 1999/74/EY, 2007/43/EY, 2008/119/EY ja 2008/120/EY muuttamisesta ja Euroopan parlamentin ja neuvoston asetusten (EY) N:o 854/2004 ja (EY) N:o 882/2004, neuvoston direktiivien 89/608/ETY, 89/662/ETY, 90/425/ETY, 91/496/ETY, 96/23/EY, 96/93/EY ja 97/78/EY ja neuvoston päätöksen 92/438/ETY kumoamisesta annetun Euroopan  parlamentin  ja  neuvoston asetuksen  (EU)  2017/625 28–33 artiklassa säädetyin edellytyksin kirjallisella\ntoimeksiannolla siirtää viralliseen valvontaan ja muihin virallisiin toimiin liittyviä tarkastuksia, tutkimuksia ja selvityksiä toimeksiannon saaneen elimen tehtäväksi sekä viralliseen valvontaan liittyviä tehtäviä luonnollisen henkilön tehtäväksi. Tarkastusten perusteella mahdollisesti tehtävät hallintopäätökset tekee toimeksiannon antanut valvontaviranomainen. Ruokavirasto hyväksyy toimeksiannon saaneet elimet, joille valvontaviranomainen voi siirtää viranomaistehtäviä. Tämän pykälän mukaisia tehtäviä suoritettaessa noudatetaan, mitä hallintolaissa (434/2003), kielilaissa (423/2003), saamen kielilaissa (1086/2003), julkisen hallinnon tiedonhallinnasta annetussa laissa (906/2019), digitaalisten palvelujen tarjoamisesta annetussa laissa (306/2019) sekä viranomaisten toiminnan julkisuudesta annetussa laissa (621/1999) säädetään. Rikosoikeudellista virkavastuuta koskevia säännöksiä sovelletaan myös toimeksiannon saaneen elimen henkilöstöön sekä luonnolliseen henkilöön heidän hoitaessaan elintarvikesäännöksissä tarkoitettuja tehtäviä. Vahingonkorvausvastuusta säädetään vahingonkorvauslaissa (412/1974). Valtioneuvoston asetuksella voidaan antaa tarkempia säännöksiä toimeksiannon saaneen elimen tai luonnollisen henkilön nimeämisestä sekä viralliseen valvontaan tai muihin virallisiin toimiin liittyvien tehtävien siirtämisestä.",
+      "section_number": "33",
+      "chapter_number": 3,
+      "statute_id": ""
+    },
+    {
+      "id": "f9155065-ac59-482a-a9d8-060bc18c3e8b",
+      "node_type": "Section",
+      "publisher": "finlex",
+      "title": "34 § Laboratorioiden nimeäminen",
+      "text": "Maa- ja metsätalousministeriö nimeää kansalliset vertailulaboratoriot ja määrää niiden tehtävät. Ruokavirasto nimeää hakemuksesta viralliset laboratoriot. Virallinen laboratorio voidaan nimetä määräajaksi, jos laboratorio ei täytä nimeämiselle asetettuja vaatimuksia, mutta puutteet ovat sellaisia, ettei tutkimusten luotettavuus vaarannu. Laboratorion on korjattava puutteet ja haettava lopullista nimeämistä annetun määräajan kuluessa. Ruokavirasto nimeää hakemuksesta nimetyt omavalvontalaboratoriot. Omavalvontalaboratorio voidaan nimetä määräajaksi, jos laboratorio ei täytä nimeämiselle asetettuja vaatimuksia, mutta puutteet ovat sellaisia, ettei tutkimusten luotettavuus vaarannu. Laboratorion on korjattava puutteet ja haettava lopullista nimeämistä annetun määräajan kuluessa. Omavalvontalaboratorion nimeämisen edellytyksenä on, että laboratorion pätevyys on osoitettu vaatimustenmukaisuuden arviointipalvelujen pätevyyden toteamisesta annetun lain (920/2005) mukaisesti akkreditoinnin tai akkreditointiin rinnastettavan pätevyyden arvioinnin perusteella. Laboratorion pätevyys on arvioitava vähintään kolmen vuoden välein. Ruokavirasto voi elintarvikealan toimijan hakemuksesta nimetä toisessa Euroopan unionin jäsenvaltiossa tai Euroopan talousalueen jäsenvaltiossa sijaitsevan laboratorion tutkimaan elintarvikesäännösten edellyttämiä omavalvontanäytteitä. Nimeämisen edellytyksenä on, että laboratorion pätevyys on asianomaisessa jäsenvaltiossa osoitettu akkreditoinnin tai akkreditointiin rinnastettavan pätevyyden arvioinnin perusteella.",
+      "section_number": "34",
+      "chapter_number": 4,
+      "statute_id": ""
+    },
+    {
+      "id": "424241c5-f0e4-4cbf-9c4d-9887524a6e34",
+      "node_type": "Section",
+      "publisher": "finlex",
+      "title": "35 § Näytteiden tutkiminen",
+      "text": "Viranomaisnäytteet on tutkittava virallisessa laboratoriossa tai kansallisessa vertailulaboratoriossa. Elintarvikesäännöksissä tutkittavaksi edellytetyt omavalvontanäytteet on tutkittava nimetyssä omavalvontalaboratoriossa, virallisessa laboratoriossa tai kansallisessa vertailulaboratoriossa.",
+      "section_number": "35",
+      "chapter_number": 4,
+      "statute_id": ""
+    },
+    {
+      "id": "78b8e9ca-cc66-47e5-b985-33292ee44f22",
+      "node_type": "Section",
+      "publisher": "finlex",
+      "title": "36 § Laboratorioiden ilmoitusvelvollisuus",
+      "text": "Virallisen laboratorion, nimetyn omavalvontalaboratorion ja kansallisen vertailulaboratorion on ilmoitettava Ruokavirastolle toiminnan olennaisesta muuttamisesta, toiminnan keskeyttämisestä ja toiminnan lopettamisesta. Virallisen laboratorion, nimetyn omavalvontalaboratorion ja kansallisen vertailulaboratorion on Ruokaviraston pyynnöstä toimitettava sille joko näytekohtaiset tiedot tekemistään tai teettämistään 35 §:ssä tarkoitetuista tutkimuksista ja niiden tuloksista tai yhteenveto niistä. Näytekohtaisiin tietoihin tai yhteenvetoihin sisältyvien valvontakohteen tunnistetietojen välittämisen tulee tapahtua turvallisesti. Virallisen laboratorion, nimetyn omavalvontalaboratorion ja kansallisen vertailulaboratorion on viivytyksettä ilmoitettava: Virallisen laboratorion, nimetyn omavalvontalaboratorion ja kansallisen vertailulaboratorion on ilmoitettava 18 §:ssä tarkoitetuista zoonoosien seurantaan ja valvontaan liittyvistä tutkimuksista ja niiden tuloksista Ruokavirastolle sekä toimitettava näytteet ja tutkimuksissa eristetyt taudinaiheuttajat pyynnöstä kansalliseen vertailulaboratorioon. Kansallisen vertailulaboratorion on ilmoitettava Ruokavirastolle ja Terveyden ja hyvinvoinnin laitokselle epidemiologista seurantaa varten tarvittavat tiedot.",
+      "section_number": "36",
+      "chapter_number": 4,
+      "statute_id": ""
+    },
+    {
+      "id": "3e499f27-1a50-4b98-bb4c-a1de238bcb34",
+      "node_type": "Section",
+      "publisher": "finlex",
+      "title": "37 § Laboratorioita koskevat tarkemmat säännökset",
+      "text": "Valtioneuvoston asetuksella voidaan antaa tarkempia säännöksiä: Maa- ja metsätalousministeriön asetuksella voidaan antaa tarkempia säännöksiä 36 §:n 4 ja 5 momentissa tarkoitettujen taudinaiheuttajien tutkimisesta ja tutkimusmenetelmistä, tutkimustulosten ilmoittamisesta sekä taudinaiheuttajien lähettämisestä. Ruokavirasto voi antaa tarkempia määräyksiä 36 §:n 3 momentissa tarkoitettujen vakavaan vaaraan viittaavien tutkimustulosten ilmoittamisesta sekä mainitun pykälän 4 ja 5 momentissa tarkoitettujen taudinaiheuttajien säilyttämisestä ja toimittamisesta kansalliseen vertailulaboratorioon.",
+      "section_number": "37",
+      "chapter_number": 4,
+      "statute_id": ""
+    },
+    {
+      "id": "b2990c31-ccee-4f6b-9349-a373da92597e",
+      "node_type": "Section",
+      "publisher": "finlex",
+      "title": "38 § Valtakunnallinen elintarvikevalvontasuunnitelma",
+      "text": "Ruokavirasto laatii elintarvikevalvonnan ohjaamiseksi ja yhteensovittamiseksi valtakunnallisen elintarvikevalvontasuunnitelman osana virallisesta valvonnasta ja muista virallisista toimista, jotka suoritetaan elintarvike- ja rehulainsäädännön ja eläinten terveyttä ja hyvinvointia, kasvien terveyttä ja kasvinsuojeluaineita koskevien sääntöjen soveltamisen varmistamiseksi, sekä Euroopan parlamentin ja neuvoston asetusten (EY) N:o 999/2001, (EY) N:o 396/2005, (EY) N:o 1069/2009, (EY) N:o 1107/2009, (EU) N:o 1151/2012, (EU) N:o 652/2014, (EU) 2016/429 ja (EU) 2016/2031, neuvoston asetusten (EY) N:o 1/2005 ja (EY) N:o 1099/2009 ja neuvoston direktiivien 98/58/EY, 1999/74/EY, 2007/43/EY, 2008/119/EY ja 2008/120/EY muuttamisesta ja Euroopan parlamentin ja neuvoston asetusten (EY) N:o 854/2004 ja (EY) N:o 882/2004, neuvoston direktiivien 89/608/ETY, 89/662/ETY, 90/425/ETY, 91/496/ETY, 96/23/EY, 96/93/EY ja 97/78/EY ja neuvoston päätöksen 92/438/ETY kumoamisesta annetussa\nEuroopan parlamentin ja neuvoston asetuksessa (EU) 2017/625 edellytettyä koko elintarvikeketjun monivuotista kansallista valvontasuunnitelmaa. Valvontasuunnitelma on päivitettävä tarvittaessa. Valvontasuunnitelmassa tulee ottaa huomioon ympäristöterveydenhuollon valtakunnallisessa valvontaohjelmassa asetetut ympäristöterveydenhuollon yhteiset tavoitteet.",
+      "section_number": "38",
+      "chapter_number": 5,
+      "statute_id": ""
+    },
+    {
+      "id": "25eb8081-088a-4619-b58c-32230b3e4f78",
+      "node_type": "Section",
+      "publisher": "finlex",
+      "title": "39 § Viranomaisten valvontasuunnitelmat",
+      "text": "Valtakunnallisen elintarvikevalvontasuunnitelman toteuttamiseksi tässä laissa tarkoitetut valvontaviranomaiset laativat vastuullaan olevaa elintarvikevalvontaa koskevat valvontasuunnitelmat ja huolehtivat niiden yhteensovittamisesta siten, että valvonnassa otetaan huomioon elintarvike- ja kontaktimateriaalitoiminnan riskit ja että valvonta on yleisten valvontaa koskevien vaatimusten mukaista, ehkäisee vaaroja ihmisen terveydelle ja suojaa kuluttajia taloudellisilta tappioilta. Valvontasuunnitelmat on päivitettävä tarvittaessa.",
+      "section_number": "39",
+      "chapter_number": 5,
+      "statute_id": ""
+    },
+    {
+      "id": "806a2554-b163-4f6e-b2b2-48fe265d1a91",
+      "node_type": "Section",
+      "publisher": "finlex",
+      "title": "40 § Tarkastus- ja läsnäolo-oikeus",
+      "text": "Valvontaviranomaisella ja 33 §:ssä tarkoitetulla toimeksiannon saaneella elimellä ja luonnollisella henkilöllä on oikeus tehdä virallisen valvonnan edellyttämiä tarkastuksia valvontakohteessa, tutustua asiakirjoihin ja elintarviketietoihin, tarkastaa toiminnassa käytetyt tilat, laitteet ja välineet sekä tarkastaa tilat, joita valvontaviranomainen perustellusta syystä epäilee käytettävän valvontakohteen elintarvike- tai kontaktimateriaalitoiminnassa. Valvontaviranomainen antaa tarvittaessa kehotuksia elintarvikesäännösten noudattamiseksi. Valvontaviranomaisen ohjauksessa olevalla opiskelijalla, joka suorittaa viranomaistoimintaan perehdyttävää harjoittelua, on oikeus olla läsnä valvontaviranomaisen suorittaessa valvontaa ja tarkastuksia. Ruokavirastolla on oikeus olla läsnä aluehallintoviraston ja kunnan suorittaessa valvontaa ja tarkastuksia. Aluehallintovirastolla on oikeus olla läsnä toimialueellaan kunnan suorittaessa valvontaa ja tarkastuksia. Valvontakohteessa, joka sijaitsee pysyväisluonteiseen asumiseen käytetyissä tiloissa, tarkastus saadaan tehdä virallisesta valvonnasta ja muista virallisista toimista, jotka suoritetaan elintarvike- ja rehulainsäädännön ja eläinten terveyttä ja hyvinvointia, kasvien terveyttä ja kasvinsuojeluaineita koskevien sääntöjen soveltamisen varmistamiseksi, sekä Euroopan parlamentin ja neuvoston asetusten (EY) N:o 999/2001, (EY) N:o 396/2005, (EY) N:o 1069/2009, (EY) N:o 1107/2009, (EU) N:o 1151/2012, (EU) N:o 652/2014, (EU) 2016/429 ja (EU) 2016/2031, neuvoston asetusten (EY) N:o 1/2005 ja (EY) N:o 1099/2009 ja neuvoston direktiivien 98/58/EY, 1999/74/EY, 2007/43/EY, 2008/119/EY ja 2008/120/EY muuttamisesta ja Euroopan parlamentin ja neuvoston asetusten (EY) N:o 854/2004 ja (EY) N:o 882/2004, neuvoston direktiivien 89/608/ETY, 89/662/ETY, 90/425/ETY, 91/496/ETY, 96/23/EY, 96/93/EY ja 97/78/EY ja neuvoston päätöksen 92/438/ETY kumoamisesta annetun Euroopan parlamentin\nja neuvoston asetuksen (EU) 2017/625 9, 10 ja 14 artiklassa viralliselle valvonnalle asetettujen vaatimusten toteuttamiseksi, jos tarkastuksen tekeminen on välttämätöntä tarkastuksen kohteena olevien seikkojen selvittämiseksi. Tällaisen tarkastuksen saa tehdä ainoastaan toimivaltainen valvontaviranomainen. Valvontaviranomaisella on oikeus olla läsnä Euroopan komission tekemissä Euroopan parlamentin ja neuvoston asetuksen (EU) N:o 2017/625 116 artiklan mukaisissa tarkastuksissa. Mitä tässä laissa säädetään valvontaviranomaisten oikeudesta päästä paikkoihin, joissa harjoitetaan elintarvike- tai kontaktimateriaalitoimintaa, ja saada toimintaa koskevia tietoja, koskee myös Euroopan unionin lainsäädännössä tai muussa Suomea sitovassa kansainvälisessä sopimuksessa tarkoitettuja tarkastajia, jos kyseinen Suomea sitova kansainvälinen velvoite tätä edellyttää.",
+      "section_number": "40",
+      "chapter_number": 5,
+      "statute_id": ""
+    },
+    {
+      "id": "eba98c74-9785-49db-9573-c4c092385ab8",
+      "node_type": "Section",
+      "publisher": "finlex",
+      "title": "41 § Näytteenotto",
+      "text": "Valvontaviranomaisella ja 33 §:ssä tarkoitetulla toimeksiannon saaneella elimellä ja luonnollisella henkilöllä on oikeus ottaa korvauksetta valvontaa varten tarvittava määrä näytteitä sekä tallentaa ääntä ja kuvaa. Elintarvikealan ja kontaktimateriaalialan toimijalle on annettava todistus näytteenotosta. Valvontaviranomainen saa tunnistautumatta tilata näytteitä etäviestintävälineiden välityksellä myytäviksi tarjottavista elintarvikkeista ja elintarvikekontaktimateriaaleista. Näytteitä voidaan käyttää virallisessa valvonnassa. Saatuaan näytteen valvontaviranomaisen on ilmoitettava toimijalle, että näyte on tilattu virallista valvontaa varten.",
+      "section_number": "41",
+      "chapter_number": 5,
+      "statute_id": ""
+    },
+    {
+      "id": "33c364c4-920d-4691-9c15-d8a1085d67e4",
+      "node_type": "Section",
+      "publisher": "finlex",
+      "title": "42 § Kirjallinen lihantarkastuspäätös",
+      "text": "Toimivaltainen valvontaviranomainen antaa lihantarkastuksesta elintarvikealan toimijalle pyynnöstä kirjallisen päätöksen. Asianosaista ei tarvitse kuulla ennen lihantarkastuspäätöksen tekemistä. Päätöstä ei tarvitse allekirjoittaa. Kirjallinen lihantarkastuspäätös annetaan tiedoksi asianosaisille hallintolain 59 §:ssä tarkoitettuna kirjeenä tai sähköisestä asioinnista viranomaistoiminnassa annetun lain (13/2003) 19 §:ssä tarkoitettuna tavallisena sähköisenä tiedoksiantona. Päätös voidaan asianosaisen suostumuksella antaa tiedoksi sähköpostilla.",
+      "section_number": "42",
+      "chapter_number": 5,
+      "statute_id": ""
+    },
+    {
+      "id": "554937dd-a229-462d-9250-bad3fa3d6a87",
+      "node_type": "Section",
+      "publisher": "finlex",
+      "title": "43 § Viranomaisen tiedonsaantioikeus",
+      "text": "Valvontaviranomaisella on oikeus salassapitosäännösten estämättä saada virallisen valvonnan ja muiden virallisten toimien suorittamiseksi välttämättömät tiedot valtion ja kunnan viranomaisilta sekä elintarvikealan ja kontaktimateriaalialan toimijoilta ja muilta, joita tämän lain velvoitteet koskevat. Valvontaviranomaisella on oikeus salassapitosäännösten estämättä saada viranomaiselta ja julkista tehtävää hoitavalta tietoja toimijan veroihin, lakisääteisiin eläke-, tapaturma- ja työttömyysvakuutusmaksuihin sekä Tullin perimiin maksuihin liittyvien rekisteröitymis-, ilmoitus- ja maksuvelvollisuuksien hoitamisesta ja toiminnasta, taloudesta ja kytkennöistä, jotka ovat välttämättömiä 7 §:ssä tarkoitetun luotettavuuden selvittämiseksi tai 60 §:ssä tarkoitettua alkutuotantopaikan tai elintarvikehuoneiston hyväksymisen peruuttamista taikka 61 §:ssä tarkoitettua rekisteröidyn toiminnan keskeyttämistä tai lopettamista varten. Valvontaviranomaisella on oikeus salassapitosäännösten estämättä saada 67 §:ssä säädetyn seuraamusmaksun määräämiseksi sakon täytäntöönpanosta annetun lain (672/2002) 46 §:ssä tarkoitetusta sakkorekisteristä välttämättömät tiedot sen varmistamiseksi, ettei henkilöä ole samasta rikoksesta tuomittu sakkorangaistukseen tuomioistuimessa. Valvontaviranomaisella on oikeus saada tässä pykälässä tarkoitetut tiedot maksutta ja myös teknisen käyttöyhteyden avulla tai muutoin sähköisesti.",
+      "section_number": "43",
+      "chapter_number": 5,
+      "statute_id": ""
+    },
+    {
+      "id": "32670962-3a68-48e1-b0db-3f0cebd4ef22",
+      "node_type": "Section",
+      "publisher": "finlex",
+      "title": "44 § Viranomaisen oikeus oma-aloitteisesti luovuttaa tietoja",
+      "text": "Valvontaviranomainen saa viranomaisten toiminnan julkisuudesta annetussa laissa säädetyn salassapitovelvollisuuden estämättä luovuttaa oma-aloitteisesti tässä laissa tarkoitettuja tehtäviä suoritettaessa saatuja tietoja yksityisen tai yhteisön taloudellisesta asemasta ja liikesalaisuudesta toiselle viranomaiselle tai julkista tehtävää hoitavalle, jos tiedot ovat välttämättömiä kyseiselle viranomaiselle tai julkista tehtävää hoitavalle 7 §:ssä tarkoitetun luotettavuuden selvittämiseksi tai 60 §:ssä tarkoitettua alkutuotantopaikan ja elintarvikehuoneiston hyväksymisen peruuttamista taikka 61 §:ssä tarkoitetun rekisteröidyn toiminnan keskeyttämistä tai lopettamista varten.",
+      "section_number": "44",
+      "chapter_number": 5,
+      "statute_id": ""
+    },
+    {
+      "id": "b89183c7-a367-46d4-8970-ef2ec0302314",
+      "node_type": "Section",
+      "publisher": "finlex",
+      "title": "45 § Viranomaisen ilmoitus- ja tiedonantovelvollisuus",
+      "text": "Valvontaviranomaisen on ilmoitettava aluehallintovirastolle ja Ruokavirastolle todetuista vaaroista ihmisen terveydelle sekä tarvittaessa sellaisista valvonnassa esille tulleista muista seikoista, joilla voi olla vaikutusta elintarvikkeiden tai elintarvikekontaktimateriaalien turvallisuuteen tai jäljitettävyyteen taikka niistä annettaviin tietoihin. Valvontaviranomaisen on lisäksi ilmoitettava tartuntatautilaissa tarkoitetuille viranomaisille sellaisista valvonnassa esille tulleista seikoista, joilla voi olla merkitystä väestön suojaamisessa tartuntataudeilta. Valvontaviranomaisen on pyydettäessä annettava Ruokavirastolle tarkastuksia, valvontatoimenpiteitä, valvontahenkilöstöä, maksuja ja valvontaa koskevia muita tietoja tämän lain mukaisen valvonnan seurantaa varten.",
+      "section_number": "45",
+      "chapter_number": 5,
+      "statute_id": ""
+    },
+    {
+      "id": "5fce0116-460a-483b-834d-b414966c1206",
+      "node_type": "Section",
+      "publisher": "finlex",
+      "title": "46 § Tiedonantovelvollisuus eläinten terveydentilasta ja pito-olosuhteista",
+      "text": "Alkutuotantopaikalla eläinlääkärikäynnin tekevän eläinlääkärin ja viranomaistehtävissä käyvän henkilön, joka käynnin yhteydessä havaitsee, että eläinten terveydentila tai pito-olosuhteet ovat sellaiset, että ne oleellisesti heikentävät kyseisistä eläimistä saatavien eläinperäisten elintarvikkeiden turvallisuutta tai laatua, on ilmoitettava tästä eläinten omistajalle tai haltijalle sekä kunnan tämän lain mukaisia tehtäviä hoitavalle valvontaviranomaiselle viipymättä. Kunnalla on oikeus ilmoittaa edellä mainituista seikoista eläimet tai elintarvikkeet vastaanottavalle toimijalle sekä Ruokavirastolle ja aluehallintovirastolle.",
+      "section_number": "46",
+      "chapter_number": 5,
+      "statute_id": ""
+    },
+    {
+      "id": "4e7eab2d-2259-4da9-ae1e-2aeae2b9efde",
+      "node_type": "Section",
+      "publisher": "finlex",
+      "title": "47 § Ruokamyrkytysten selvittäminen",
+      "text": "Kunnan on saatuaan 17 §:n 2 momentissa tarkoitetun ilmoituksen ruokamyrkytyksestä tai ruokamyrkytysepäilystä tai epäillessään ruokamyrkytystä muusta syystä viipymättä tehtävä tapausta koskeva selvitys yhteistyössä tartuntatautilaissa säädettyjen viranomaisten kanssa sekä toimitettava tarpeelliset ilmoitukset Terveyden ja hyvinvoinnin laitokselle ja Ruokavirastolle. Ilmoitukset eivät saa sisältää henkilötietoja.",
+      "section_number": "47",
+      "chapter_number": 5,
+      "statute_id": ""
+    },
+    {
+      "id": "b64e023e-488d-4740-bcbc-fd5710de62c5",
+      "node_type": "Section",
+      "publisher": "finlex",
+      "title": "48 § Zoonoosien seuranta ja valvonta eläimissä ja elintarvikkeissa",
+      "text": "Ruokaviraston on laadittava zoonoosien seurantaan ja valvontaan tarvittavat näytteenottosuunnitelmat. Ruokaviraston on tehtävä tarvittavat ilmoitukset 18 §:ssä tarkoitetuista zoonoositutkimusten tuloksista elintarvikealan toimijoille ja viranomaisille. Jos elintarviketuotantoon käytettävien eläinten pitopaikassa esiintyy toistuvasti zoonooseja tai jos pitopaikan epäillään olevan tartuntalähde ihmisessä todetulle zoonoosille, kunnan on toteutettava tarvittavat toimenpiteet asian selvittämiseksi tarvittaessa yhteistyössä tartuntatautilaissa säädettyjen viranomaisten kanssa.",
+      "section_number": "48",
+      "chapter_number": 5,
+      "statute_id": ""
+    },
+    {
+      "id": "b069a0db-c396-4eb8-b557-c24d9e976fa0",
+      "node_type": "Section",
+      "publisher": "finlex",
+      "title": "49 § Elintarvikevalvontaa koskevat tarkemmat säännökset",
+      "text": "Maa- ja metsätalousministeriön asetuksella voidaan antaa tarkempia säännöksiä: Valtioneuvoston asetuksella voidaan antaa tarkempia säännöksiä 47 §:ssä tarkoitetusta ruokamyrkytysten selvittämisestä ja ilmoittamisesta. Ruokavirasto voi antaa määräyksiä:",
+      "section_number": "49",
+      "chapter_number": 5,
+      "statute_id": ""
+    },
+    {
+      "id": "10437750-12b5-4dbb-a96d-a7fbf718fe2d",
+      "node_type": "Section",
+      "publisher": "finlex",
+      "title": "50 § Vientiin liittyvä selvitystyö",
+      "text": "Jos elintarvikkeita tai elintarvikekontaktimateriaaleja viedään muuhun valtioon kuin Euroopan unionin jäsenvaltioon, elintarvikealan tai kontaktimateriaalialan toimija vastaa määränpäävaltion viranomaisten asettamien tuontivaatimusten ja mahdollisten kauttakuljetukseen liittyvien vaatimusten selvittämisestä ja täyttämisestä. Ruokavirasto osallistuu tarvittaessa markkinoillepääsyn ja markkinoilla pysymisen edellytyksinä olevien asiakirjojen laatimiseen ja muuhun selvitystyöhön. Ruokavirasto voi keskeyttää osallistumisensa mainittujen tehtävien hoitamiseen, jos viennin kannalta olennaisia edellytyksiä selvitystyön jatkamiselle ei enää ole. Maa- ja metsätalousministeriön asetuksella voidaan antaa tarkempia säännöksiä 2 momentissa tarkoitetun selvitystyön edellytyksistä ja sisällöstä.",
+      "section_number": "50",
+      "chapter_number": 6,
+      "statute_id": ""
+    },
+    {
+      "id": "988cc62d-04f7-4ea1-b1b9-39f0f01f42e8",
+      "node_type": "Section",
+      "publisher": "finlex",
+      "title": "51 § Vientiin liittyvä valvonta",
+      "text": "Valvontaviranomaiset valvovat elintarvikkeiden ja elintarvikekontaktimateriaalien vientiä toimialueillaan. Ruokavirasto osallistuu tarvittaessa valvontaan, jos valvonta liittyy määränpäävaltion viranomaisten asettamien tuontivaatimusten täyttymisen varmistamiseen. Valvontaviranomaiset antavat toimialueellaan toimijan pyynnöstä elintarvikkeiden ja elintarvikekontaktimateriaalien elintarvikesäännösten mukaisuutta koskevia vientitodistuksia, jos määränpäävaltion viranomaiset niitä edellyttävät. Ruokavirasto voi tarvittaessa antaa vientitodistuksen muun valvontaviranomaisen toimialueella, jos määränpäävaltion viranomaiset sitä edellyttävät. Eläinperäisten elintarvikkeiden eläinlääkintötodistuksista säädetään tarkemmin eläintautilain 54 §:ssä. Määränpäävaltion todistusten sisällölle asettamien vaatimusten selvittämiseen sovelletaan tämän lain 50 §:ää. Maa- ja metsätalousministeriön asetuksella voidaan antaa tarkempia säännöksiä 1 momentissa tarkoitetun valvonnan edellytyksistä ja sisällöstä.",
+      "section_number": "51",
+      "chapter_number": 6,
+      "statute_id": ""
+    },
+    {
+      "id": "b7e851d7-ab6a-4f34-b2e9-360e0731065d",
+      "node_type": "Section",
+      "publisher": "finlex",
+      "title": "52 § Elintarvikkeiden kansalliset laatujärjestelmät",
+      "text": "Ruokavirasto hyväksyy hakemuksesta elintarvikkeiden kansallisen laatujärjestelmän, jos se täyttää Euroopan maaseudun kehittämisen maatalousrahaston (maaseuturahasto) tuesta maaseudun kehittämiseen ja neuvoston asetuksen (EY) N:o 1698/2005 kumoamisesta annetun Euroopan parlamentin ja neuvoston asetuksen (EU) 1305/2013 16 artiklan 1 kohdan b alakohdan vaatimukset. Elintarvikkeiden kansallisen laatujärjestelmän tulee olla ulkopuolisen riippumattoman tahon tarkastama. Hakijan on raportoitava ulkopuolisen tarkastuksen tuloksista Ruokavirastolle säännöllisesti sekä ilmoitettava muutoksista laatujärjestelmän sisällössä. Hakijan on julkaistava internetsivuillaan tai muulla vastaavalla tavalla tiedot laatujärjestelmästä, sen sisällöstä ja siihen osallistuvista tahoista. Ruokavirasto valvoo hyväksymiensä kansallisten laatujärjestelmien hyväksymisedellytysten täyttymistä. Ruokavirasto voi peruuttaa laatujärjestelmän hyväksymisen, jos hyväksymisen edellytykset eivät enää täyty. Maa- ja metsätalousministeriön asetuksella voidaan antaa tarkempia säännöksiä:",
+      "section_number": "52",
+      "chapter_number": 7,
+      "statute_id": ""
+    },
+    {
+      "id": "d1cc3433-6721-442c-9d6a-0849baf8a287",
+      "node_type": "Section",
+      "publisher": "finlex",
+      "title": "53 § Sikojen valvotut pito-olosuhteet",
+      "text": "Ruokavirasto tunnustaa hakemuksesta alkutuotantopaikat ja alkutuotantopaikkojen muodostamat lokerot, jos ne täyttävät virallisia lihan trikiinitarkastuksia koskevista erityissäännöistä annetussa komission täytäntöönpanoasetuksessa (EU) 2015/1375 säädetyt sikojen valvottujen pito-olosuhteiden vaatimukset, ja valvoo vaatimusten täyttymistä niissä. Ruokavirasto voi peruuttaa tunnustamisen, jos tunnustamisen edellytykset eivät enää täyty. Ruokavirasto voi määrätä tehtäväksi virallisia lihan trikiinitarkastuksia koskevista erityissäännöistä annetussa komission täytäntöönpanoasetuksessa (EU) 2015/1375 tarkoitettuja seurantatutkimuksia valvotuissa pito-olosuhteissa kasvatettujen sikojen trikiinitilanteen selvittämiseksi. Valtioneuvoston asetuksella voidaan antaa tarkempia säännöksiä valvottujen pito-olosuhteiden vaatimukset täyttävien alkutuotantopaikkojen ja alkutuotantopaikkojen muodostamien lokeroiden virallisen tunnustamisen hakemisesta, tunnustamisesta, valvonnasta ja tunnustamisen peruuttamisesta.",
+      "section_number": "53",
+      "chapter_number": 7,
+      "statute_id": ""
+    },
+    {
+      "id": "045cf0d5-25cb-437e-87c9-839c7f9efeaa",
+      "node_type": "Section",
+      "publisher": "finlex",
+      "title": "54 § Nimisuojatuotteen rekisteröiminen ja valmistuksesta ilmoittaminen",
+      "text": "Ruokavirasto käsittelee nimisuojatuotteiden rekisteröintiä koskevat hakemukset. Ruokavirasto julkaisee 1 momentissa tarkoitetun hakemuksen, järjestää kansallisen vastaväitemenettelyn ja päättää rekisteröinnin edellytysten täyttymisestä Suomessa. Jos rekisteröinnin edellytykset täyttyvät, Ruokavirasto julkaisee päätöksen ja toimittaa hakemuksen Euroopan komissiolle. Jos hakemuksen hyväksyminen kuuluu nimisuojatuotteita koskevan Euroopan unionin lainsäädännön mukaan jäsenvaltioille, hyväksymisestä päättävä viranomainen on Ruokavirasto. Edellä 1 momentissa tarkoitettu hakemus ja nimisuojaa koskeva päätös annetaan tiedoksi julkisella kuulutuksella. Julkisesta kuulutuksesta säädetään hallintolaissa. Rekisteröityä nimisuojatuotetta valmistavan elintarvikealan toimijan on ennen tuotteiden markkinoille saattamisen aloittamista ilmoitettava tuotteen nimi ja valmistuspaikka 24–27 §:ssä tarkoitetulle valvontaviranomaiselle. Alkoholituotteiden osalta ei ilmoitusta tarvitse tehdä, jos valvontaviranomainen saa tiedon muun ilmoituksen yhteydessä. Valmistuksen keskeyttämisestä tai lopettamisesta on ilmoitettava viivytyksettä valvontaviranomaiselle. Valtioneuvoston asetuksella voidaan antaa tarkempia säännöksiä:",
+      "section_number": "54",
+      "chapter_number": 8,
+      "statute_id": ""
+    },
+    {
+      "id": "889f2b3a-3af3-484f-b9ee-451a369f7a39",
+      "node_type": "Section",
+      "publisher": "finlex",
+      "title": "55 § Elintarvikesäännösten vastaisuuden korjaaminen",
+      "text": "Valvontaviranomainen voi määrätä toimijan korjaamaan epäkohdan, jos: Ruokavirasto voi määrätä 35 §:ssä tarkoitettuja tutkimuksia tekevän laboratorion korjaamaan elintarvikesäännösten vastaisen toimintansa. Valvontaviranomainen voi määrätä 52 §:ssä tarkoitetun elintarvikkeiden kansallisen laatujärjestelmän hakijan korjaamaan epäkohdan, jos laatujärjestelmä on elintarvikesäännösten vastainen. Elintarvikesäännösten vastaisuus on määrättävä korjattavaksi välittömästi tai valvontaviranomaisen asettamassa määräajassa.",
+      "section_number": "55",
+      "chapter_number": 9,
+      "statute_id": ""
+    },
+    {
+      "id": "5c625092-63a0-4b9c-a2b7-daf9fb539d0f",
+      "node_type": "Section",
+      "publisher": "finlex",
+      "title": "56 § Kielto",
+      "text": "Valvontaviranomainen voi kieltää elintarvikkeen alkutuotannon, valmistuksen, sisämarkkinakaupan, viennin, tukkukaupan ja muun jakelun, tarjoilun ja muun luovutuksen sekä käytön elintarvikkeen valmistuksessa, jos elintarvike tai siitä annetut tiedot, alkutuotantopaikka tai elintarvikehuoneisto tai siellä harjoitettava elintarviketoiminta on sellaista, että se aiheuttaa tai sen voidaan perustellusta syystä epäillä aiheuttavan vakavaa vaaraa ihmisen terveydelle tai vaaraa sellaisen elintarvikesäännösten vastaisuuden takia, jota ei voida poistaa. Valvontaviranomainen voi kieltää elintarvikekontaktimateriaalin valmistuksen, sisämarkkinakaupan, viennin, tukkukaupan ja muun jakelun, jos elintarvikekontaktimateriaali tai siitä annettavat tiedot tai kontaktimateriaalitoiminta ovat sellaiset, että ne aiheuttavat tai niiden voidaan perustellusta syystä epäillä aiheuttavan vakavaa vaaraa ihmisen terveydelle tai vaaraa sellaisen elintarvikesäännösten vastaisuuden takia, jota ei voida poistaa. Kielto voidaan määrätä väliaikaiseksi asian selvittämisen tai epäkohdan korjaamisen ajaksi. Väliaikainen kielto on voimassa, kunnes valvontaviranomainen antaa asiassa lopullisen ratkaisunsa. Valvontaviranomaisen tulee omalta osaltaan huolehtia siitä, että asiassa tarvittavat selvitykset tehdään viivytyksettä.",
+      "section_number": "56",
+      "chapter_number": 9,
+      "statute_id": ""
+    },
+    {
+      "id": "05ba10e2-7204-4c57-8ab0-b9a96e6c36ad",
+      "node_type": "Section",
+      "publisher": "finlex",
+      "title": "57 § Markkinoilta poistaminen ja yleinen tiedottaminen",
+      "text": "Valvontaviranomainen voi määrätä toimijan poistamaan elintarvikkeen tai elintarvikekontaktimateriaalin markkinoilta, jos tämä ei noudata elintarvikelainsäädäntöä koskevista yleisistä periaatteista ja vaatimuksista, Euroopan elintarviketurvallisuusviranomaisen perustamisesta sekä elintarvikkeiden turvallisuuteen liittyvistä menettelyistä annetun Euroopan parlamentin ja neuvoston asetuksen (EY) N:o 178/2002 19 artiklassa säädettyä velvollisuutta poistaa turvallisuutta koskevien elintarvikesäännösten vastainen elintarvike tai elintarvikekontaktimateriaali markkinoilta. Valvontaviranomainen voi myös määrätä elintarvikkeen tai elintarvikekontaktimateriaalin poistettavaksi markkinoilta, jos siitä annettavat tiedot ovat olennaisesti elintarvikesäännösten vastaisia. Valvontaviranomainen voi toimijan kustannuksella tiedottaa yleisesti turvallisuutta koskevien elintarvikesäännösten vastaisista elintarvikkeista ja elintarvikekontaktimateriaaleista, jos toimija ei noudata Euroopan parlamentin ja neuvoston asetuksen (EY) N:o 178/2002 19 artiklassa säädettyä velvollisuutta ilmoittaa asiasta kuluttajille.",
+      "section_number": "57",
+      "chapter_number": 9,
+      "statute_id": ""
+    },
+    {
+      "id": "d708fe28-b934-4ce8-b033-a976cf5f106d",
+      "node_type": "Section",
+      "publisher": "finlex",
+      "title": "58 § Haltuunotto",
+      "text": "Valvontaviranomainen voi ottaa elintarvikkeen tai elintarvikekontaktimateriaalin haltuunsa, jos se aiheuttaa tai on syytä epäillä sen aiheuttavan vaaraa ihmisen terveydelle tai jos se on muulla tavalla olennaisesti elintarvikesäännösten vastainen. Haltuunotto on suoritettava todistajan läsnä ollessa. Sille, jolta elintarvike tai elintarvikekontaktimateriaali on otettu haltuun, on annettava todistus, josta ilmenee haltuunoton syy sekä haltuun otettu omaisuus. Haltuun otettu omaisuus voidaan tarvittaessa säilyttää elintarvikehuoneistossa, alkutuotantopaikassa tai kontaktimateriaalialan toimijan toimipaikassa sopivalla tavalla merkittynä taikka sinetöidyssä tai muutoin merkityssä varastotilassa. Omaisuus on sen aiheuttaman vaaran tai muun määräystenvastaisuuden arvioimiseksi mahdollisesti tarvittavan tutkimuksen ajan pyrittävä säilyttämään siten, ettei sen laatu heikkene.",
+      "section_number": "58",
+      "chapter_number": 9,
+      "statute_id": ""
+    },
+    {
+      "id": "e0a876bb-e1e2-4cb5-b324-031e25ccb3b2",
+      "node_type": "Section",
+      "publisher": "finlex",
+      "title": "59 § Käyttöä ja hävittämistä koskeva päätös",
+      "text": "Valvontaviranomainen päättää, mihin tarkoitukseen elintarvikesäännösten vastaista elintarviketta tai elintarvikekontaktimateriaalia voidaan käyttää tai mihin tarkoitukseen se voidaan luovuttaa, jos elintarviketta tai elintarvikekontaktimateriaalia ei voi muuttaa määräysten mukaiseksi. Valvontaviranomaisen on määrättävä elintarvike tai elintarvikekontaktimateriaali hävitettäväksi, jos sen käyttö ei ole mahdollista tai jos terveydelliset syyt tai elintarvikesäännökset sitä edellyttävät. Valvontaviranomaisen on tehtävä 1 ja 2 momentissa tarkoitettu päätös viivytyksettä. Päätöstä tehtäessä on pyrittävä siihen, että elintarvikealan tai kontaktimateriaalialan toimijan taloudellinen menetys jää mahdollisimman pieneksi. Valvontaviranomaisen on asetettava kohtuullinen määräaika, jonka kuluessa toimijan on noudatettava 1 tai 2 momentin mukaista päätöstä.",
+      "section_number": "59",
+      "chapter_number": 9,
+      "statute_id": ""
+    },
+    {
+      "id": "7d08c2f6-25c7-4da1-9491-bd23a73149b5",
+      "node_type": "Section",
+      "publisher": "finlex",
+      "title": "60 § Alkutuotantopaikan ja elintarvikehuoneiston hyväksymisen peruuttaminen",
+      "text": "Valvontaviranomainen voi peruuttaa tekemänsä alkutuotantopaikan tai elintarvikehuoneiston hyväksymisen kokonaan tai osittain, jos vaaraa ihmisen terveydelle ei voida muulla tavoin estää. Hyväksyminen voidaan peruuttaa, jos alkutuotantopaikka tai elintarvikehuoneisto tai siellä harjoitettava elintarviketoiminta on olennaisesti elintarvikesäännösten vastaista eikä toimija ole noudattanut valvontaviranomaisen 55 tai 56 §:n nojalla antamaa määräystä tai kieltoa. Hyväksyminen voidaan lisäksi peruuttaa, jos toimija ei enää ole 7 §:ssä tarkoitetulla tavalla luotettava ja peruste, jonka takia toimijaa ei pidetä luotettavana, on luonteeltaan olennainen ja vakava, eikä toimija ole viranomaisen määräyksestä huolimatta korjannut epäkohtaa. Hyväksyminen voidaan peruuttaa myös määräajaksi.",
+      "section_number": "60",
+      "chapter_number": 9,
+      "statute_id": ""
+    },
+    {
+      "id": "c4b52d35-da1c-41a0-8880-39b9baf68752",
+      "node_type": "Section",
+      "publisher": "finlex",
+      "title": "61 § Rekisteröidyn toiminnan keskeyttäminen tai lopettaminen",
+      "text": "Valvontaviranomainen voi keskeyttää tai lopettaa rekisteröidyn alkutuotannon, elintarviketoiminnan ja kontaktimateriaalitoiminnan, jos toiminta on olennaisesti elintarvikesäännösten vastaista eikä toimija ole noudattanut valvontaviranomaisen 55 tai 56 §:n nojalla antamaa määräystä tai kieltoa. Toiminta voidaan lisäksi keskeyttää tai lopettaa, jos toimija ei enää ole 7 §:ssä tarkoitetulla tavalla luotettava ja peruste, jonka takia toimijaa ei pidetä luotettavana, on luonteeltaan olennainen ja vakava eikä toimija ole viranomaisen määräyksestä huolimatta korjannut epäkohtaa. Toiminnan keskeyttämistä koskeva päätös on voimassa, kunnes valvontaviranomainen toteaa, että keskeyttämisen perusteena olleet epäkohdat on korjattu.",
+      "section_number": "61",
+      "chapter_number": 9,
+      "statute_id": ""
+    },
+    {
+      "id": "ad4ba7a7-c277-45bb-8fa8-5e8879a89266",
+      "node_type": "Section",
+      "publisher": "finlex",
+      "title": "62 § Laboratorion nimeämisen peruuttaminen",
+      "text": "Maa- ja metsätalousministeriö voi peruuttaa kansallisen vertailulaboratorion nimeämisen, jos vertailulaboratorio tai siellä harjoitettu toiminta ei täytä 36 §:ssä tai virallisesta valvonnasta ja muista virallisista toimista, jotka suoritetaan elintarvike- ja rehulainsäädännön ja eläinten terveyttä ja hyvinvointia, kasvien terveyttä ja kasvinsuojeluaineita koskevien sääntöjen soveltamisen varmistamiseksi, sekä Euroopan parlamentin ja neuvoston asetusten (EY) N:o 999/2001, (EY) N:o 396/2005, (EY) N:o 1069/2009, (EY) N:o 1107/2009, (EU) N:o 1151/2012, (EU) N:o 652/2014, (EU) 2016/429 ja (EU) 2016/2031, neuvoston asetusten (EY) N:o 1/2005 ja (EY) N:o 1099/2009 ja neuvoston direktiivien 98/58/EY, 1999/74/EY, 2007/43/EY, 2008/119/EY ja 2008/120/EY muuttamisesta ja Euroopan parlamentin ja neuvoston asetusten (EY) N:o 854/2004 ja (EY) N:o 882/2004, neuvoston direktiivien 89/608/ETY, 89/662/ETY, 90/425/ETY, 91/496/ETY, 96/23/EY, 96/93/EY ja 97/78/EY ja neuvoston päätöksen\n92/438/ETY kumoamisesta annetun Euroopan parlamentin ja neuvoston asetuksen (EU) 2017/625 100 ja 101 artiklassa säädettyjä vaatimuksia, epäkohta on olennainen eikä vertailulaboratorio ole maa- ja metsätalousministeriön määräyksestä huolimatta korjannut puutteita. Ruokavirasto voi peruuttaa virallisen laboratorion ja nimetyn omavalvontalaboratorion nimeämisen, jos laboratorio tai siellä harjoitettava toiminta ei täytä 34 tai 36 §:ssä säädettyjä vaatimuksia, epäkohta on olennainen eikä laboratorio ole Ruokaviraston määräyksestä huolimatta korjannut puutteita. Myös määräaikainen nimeäminen voidaan peruuttaa. Ruokavirasto voi peruuttaa nimeämisen myös asian käsittelyn vaatimaksi ajaksi, jos puute nimetyn laboratorion toiminnassa on sellainen, että se voi vaarantaa tutkimustulosten luotettavuuden.",
+      "section_number": "62",
+      "chapter_number": 9,
+      "statute_id": ""
+    },
+    {
+      "id": "f5c594ba-a529-419b-9eec-6780d16cf76f",
+      "node_type": "Section",
+      "publisher": "finlex",
+      "title": "63 § Internetsivuston sulkeminen",
+      "text": "Ruokavirasto voi määrätä toimijan hallinnoiman tai käyttämän internetsivuston suljettavaksi, jos on ilmeistä, että sen välityksellä myytäväksi tarjottava elintarvike tai elintarvikekontaktimateriaali tai siitä annetut tiedot ovat sellaiset, että ne aiheuttavat tai niiden voidaan perustellusta syystä epäillä aiheuttavan vaaraa ihmisen terveydelle, johtavat kuluttajaa olennaisesti harhaan tai ovat muulla tavalla olennaisesti elintarvikesäännösten vastaisia. Internetsivustosta on määrättävä suljettavaksi se sivuston osa, jossa tarjotaan myytäväksi mainitulla tavalla elintarvikesäännösten vastaisia elintarvikkeita tai elintarvikekontaktimateriaaleja. Jos sivuston osan sulkeminen ei poista elintarvikesäännösten vastaisuutta, on tarvittaessa määrättävä suljettavaksi koko sivusto. Määräys internetsivuston sulkemisesta voidaan antaa väliaikaisena asian selvittämisen tai epäkohdan korjaamisen ajaksi. Väliaikainen sulkeminen on voimassa, kunnes Ruokavirasto antaa asiassa\nlopullisen ratkaisunsa.",
+      "section_number": "63",
+      "chapter_number": 9,
+      "statute_id": ""
+    },
+    {
+      "id": "a6381e38-930c-4340-9c04-30f4c62120f4",
+      "node_type": "Section",
+      "publisher": "finlex",
+      "title": "64 § Kiireelliset toimet",
+      "text": "Kiireellisissä tapauksissa elintarvikevalvontatehtäviä suorittava kunnan viranhaltija, jolle ei ole siirretty toimivaltaa hallinnollisten pakkokeinojen käyttöön 27 §:n 3 momentin mukaisesti, on oikeutettu ryhtymään 55, 56, 58 ja 59 §:ssä tarkoitettuihin hallinnollisiin pakkokeinoihin. Viranhaltijan tämän pykälän nojalla tekemä päätös on viipymättä saatettava kunnan valvontaviranomaisen käsiteltäväksi.",
+      "section_number": "64",
+      "chapter_number": 9,
+      "statute_id": ""
+    },
+    {
+      "id": "ab277a4e-91ab-440d-8026-adf8c4e0ec8c",
+      "node_type": "Section",
+      "publisher": "finlex",
+      "title": "65 § Ruokaviraston päätös hallinnollisten pakkokeinojen käytöstä",
+      "text": "Ruokavirasto päättää yhtä kuntaa laajempaa aluetta koskevien 55–59, 66 ja 67 §:ssä tarkoitettujen hallinnollisten pakkokeinojen käyttämisestä. Ruokavirasto voi päättää hallinnollisten pakkokeinojen käyttämisestä myös yhden kunnan alueella, jos se perustellusta syystä arvioi kunnan toimet riittämättömiksi määräystenvastaisuuden poistamiseksi. Ruokaviraston on viipymättä ilmoitettava 1 ja 2 momentin nojalla tekemistään päätöksistä asianomaisille kunnille.",
+      "section_number": "65",
+      "chapter_number": 9,
+      "statute_id": ""
+    },
+    {
+      "id": "6d1f66c3-6425-43d0-be2e-90431f7f1e2b",
+      "node_type": "Section",
+      "publisher": "finlex",
+      "title": "66 § Markkinoinnin kieltäminen ja oikaisu",
+      "text": "Toimivaltainen valvontaviranomainen voi kieltää toimijaa jatkamasta elintarvikesäännösten vastaista markkinointia taikka uudistamasta sellaista tai siihen rinnastettavaa markkinointia. Kielto voidaan antaa myös väliaikaisena, jolloin kielto on voimassa, kunnes valvontaviranomainen on antanut asiassa lopullisen ratkaisunsa. Jos elintarvikkeen tai elintarvikekontaktimateriaalin markkinoinnissa annetaan tietoja, joista voi aiheutua vakavaa vaaraa ihmisen terveydelle tai jos markkinointi on olennaisesti totuudenvastaista tai harhaanjohtavaa, valvontaviranomainen voi 1 momentissa mainittujen toimenpiteiden lisäksi ryhtyä 55–58 §:ssä säädettyihin toimenpiteisiin, kunnes markkinointi on saatettu elintarvikesäännösten mukaiseksi. Määrätessään 1 momentissa tarkoitetun kiellon valvontaviranomainen voi velvoittaa kiellon saaneen toimijan määräajassa toimittamaan markkinoinnin oikaisun, jos sitä markkinoinnista aiheutuvien ilmeisten haittojen vuoksi on pidettävä välttämättömänä. Päätöksessään valvontaviranomainen voi määrätä, että markkinoinnin oikaisu on toteutettava vastaavassa laajuudessa kuin missä oikaisun kohteena oleva markkinointi on toteutettu.",
+      "section_number": "66",
+      "chapter_number": 9,
+      "statute_id": ""
+    },
+    {
+      "id": "04c4674b-11df-4c1f-8bd3-64cb48958c4e",
+      "node_type": "Section",
+      "publisher": "finlex",
+      "title": "67 § Elintarvikevalvonnan seuraamusmaksu",
+      "text": "Toimivaltainen valvontaviranomainen voi määrätä toimijan maksamaan vähintään 300 euron ja enintään 5 000 euron elintarvikevalvonnan seuraamusmaksun, jos toimija: Seuraamusmaksun suuruutta arvioitaessa on otettava huomioon menettelyn laatu, vahingollisuus ja toistuvuus. Maksu voidaan jättää määräämättä tai määrätä maksettavaksi vähimmäismäärää pienempänä, jos tekoa voidaan pitää vähäisenä ja maksun määräämättä jättäminen tai määrääminen vähimmäismäärää pienempänä on kohtuullista laiminlyönnin laatu, toistuvuus, suunnitelmallisuus ja muut olosuhteet huomioon ottaen. Seuraamusmaksu määrätään maksettavaksi valtiolle. Seuraamusmaksua ei saa määrätä sille, jota epäillään samasta teosta esitutkinnassa, syyteharkinnassa tai tuomioistuimessa vireillä olevassa rikosasiassa tai jolle on samasta teosta annettu lainvoimainen tuomio. Jos seuraamusmaksu on määrätty luonnolliselle henkilölle tai oikeushenkilölle, samasta teosta ei saa tuomita tuomioistuimessa rangaistusta. Seuraamusmaksua ei saa määrätä, jos teosta on kulunut yli vuosi. Seuraamusmaksu vanhenee viiden vuoden kuluttua seuraamusmaksua koskevan lainvoimaisen ratkaisun antamispäivästä. Seuraamusmaksu raukeaa, kun maksuvelvollinen luonnollinen henkilö kuolee. Seuraamusmaksun täytäntöönpanosta säädetään sakon täytäntöönpanosta annetussa laissa.",
+      "section_number": "67",
+      "chapter_number": 9,
+      "statute_id": ""
+    },
+    {
+      "id": "0bcc06ea-4a59-4267-bd73-56f498f941ef",
+      "node_type": "Section",
+      "publisher": "finlex",
+      "title": "68 § Uhkasakko sekä teettämis- ja keskeyttämisuhka",
+      "text": "Valvontaviranomainen voi tehostaa tämän lain nojalla annettua määräystä tai kieltoa uhkasakolla tai teettämis- tai keskeyttämisuhalla. Uhkasakosta sekä teettämis- ja keskeyttämisuhasta säädetään uhkasakkolaissa (1113/1990). Se, joka rikkoo tämän lain nojalla määrättyä, uhkasakolla tehostettua kieltoa tai velvoitetta, voidaan jättää tuomitsematta rangaistukseen samasta teosta, jos uhkasakko on tuomittu maksettavaksi.",
+      "section_number": "68",
+      "chapter_number": 9,
+      "statute_id": ""
+    },
+    {
+      "id": "d00ccf73-b328-456a-bd5a-09cabb30add4",
+      "node_type": "Section",
+      "publisher": "finlex",
+      "title": "69 § Elintarvikerikkomus",
+      "text": "Joka tahallaan tai huolimattomuudesta Valvontaviranomainen voi jättää esitutkintaviranomaiselle ilmoittamatta rikkomuksen, jos teko tai laiminlyönti on vähäinen eikä kyseessä ole niskoittelu viranomaisen kieltoja ja määräyksiä vastaan. Rikoslaissa (39/1889) tai 1 momentissa tarkoitettua tekoa koskevassa esitutkinnassa Ruokavirastolle on varattava tilaisuus tulla kuulluksi. Syyttäjän on varattava Ruokavirastolle tilaisuus lausunnon antamiseen ennen syyteharkinnan päättymistä. Asiaa tuomioistuimessa suullisesti käsiteltäessä Ruokavirastolla on läsnäolo- ja puheoikeus.",
+      "section_number": "69",
+      "chapter_number": 9,
+      "statute_id": ""
+    },
+    {
+      "id": "924472df-7a88-4596-b1de-7dddbe34cc67",
+      "node_type": "Section",
+      "publisher": "finlex",
+      "title": "70 § Rangaistussäännökset",
+      "text": "Rangaistus terveysrikoksesta säädetään rikoslain 44 luvun 1 §:ssä. Rangaistus elintarvikkeen salakuljetuksesta ja sen yrityksestä, lievästä salakuljetuksesta sekä laittomasta tuontitavaraan ryhtymisestä ja lievästä laittomasta tuontitavaraan ryhtymisestä säädetään rikoslain 46 luvun 4–6 ja 6 a §:ssä. Rangaistus tämän lain 82 §:ssä tarkoitetun salassapitovelvollisuuden rikkomisesta tuomitaan rikoslain 38 luvun 1 tai 2 §:n mukaan, jollei teko ole rangaistava rikoslain 40 luvun 5 §:n mukaan tai jollei siitä muualla laissa säädetä ankarampaa rangaistusta.",
+      "section_number": "70",
+      "chapter_number": 9,
+      "statute_id": ""
+    },
+    {
+      "id": "77d525d8-9c67-43ce-8afc-b330fc1adc87",
+      "node_type": "Section",
+      "publisher": "finlex",
+      "title": "71 § Valtion viranomaisten suoritteista perittävät maksut",
+      "text": "Valtion viranomaisen tämän lain nojalla suorittamista toimenpiteistä peritään maksu, jollei valtion maksuperustelaissa (150/1992) muuta säädetä. Maksullisuuden ja maksun määrän perusteista säädetään mainitussa laissa. Maa- ja metsätalousministeriön asetuksella voidaan:",
+      "section_number": "71",
+      "chapter_number": 10,
+      "statute_id": ""
+    },
+    {
+      "id": "215339f5-4b44-44e2-b9b1-77d80b6a0ae9",
+      "node_type": "Section",
+      "publisher": "finlex",
+      "title": "72 § Kunnan suorittamasta elintarvikevalvonnasta vuosittain perittävä valvonnan perusmaksu",
+      "text": "Kunta perii vuosittain 150 euron suuruisen valvonnan perusmaksun suunnitelmallisen elintarvikevalvonnan piirissä olevalta valvontakohteelta, joka harjoittaa: Edellä 1 momentissa tarkoitettua valvonnan perusmaksua ei peritä yleishyödylliseltä yhteisöltä eikä kyläkaupalta. Valvonnan perusmaksua ei peritä myöskään toimijalta, joka harjoittaa eläinperäisiä elintarvikkeita koskevista erityisistä hygieniasäännöistä annetun Euroopan parlamentin ja neuvoston asetuksen (EY) N:o 853/2004 1 artiklan 3 kohdan e alakohdassa ja 10 artiklassa sekä lihantuotantoa koskevan virallisen valvonnan suorittamista sekä elävien simpukoiden tuotanto- ja uudelleensijoitusalueita koskevista erityissäännöistä Euroopan parlamentin ja neuvoston asetuksen (EU) 2017/625 mukaisesti annetun komission delegoidun asetuksen (EU) 2019/624 12 artiklan 1 kohdan a alakohdassa tarkoitettua toimintaa. Jos toimijan yhdessä toimipaikassa harjoittama toiminta sisältää useita 1 momentissa tarkoitettuja toimintoja, valvonnan perusmaksu peritään vain yhden kerran. Valvonnan perusmaksu peritään kalenterivuoden alussa. Valvontakohteelta, joka lisätään kesken kalenterivuotta suunnitelmallisen valvonnan piiriin, ei peritä valvonnan perusmaksua kyseiseltä kalenterivuodelta. Jos toimija tekee ilmoituksen toiminnan lopettamisesta kesken kalenterivuotta, valvonnan perusmaksun periminen päättyy seuraavan kalenterivuoden alusta.",
+      "section_number": "72",
+      "chapter_number": 10,
+      "statute_id": ""
+    },
+    {
+      "id": "3682f2fc-4572-432a-9282-5188f31f482e",
+      "node_type": "Section",
+      "publisher": "finlex",
+      "title": "73 § Kunnan suorittamasta elintarvikevalvonnasta perittävät muut maksut",
+      "text": "Edellä 72 §:ssä säädetyn vuosittaisen perusmaksun lisäksi kunta perii valvontakohteelta hyväksymänsä taksan mukaisen maksun: Kunta perii elintarvikealan toimijalta hyväksymänsä taksan mukaisen maksun 27 §:n 4 momentin 5 kohdan tarkoittamasta alkuperätilalla tai muualla teurastamon ulkopuolella tehtävästä ante mortem -tarkastuksesta. Kunta määrää 1 momentissa tarkoitetut maksut siten, että niiden suuruus vastaa enintään toimenpiteestä aiheutuneita kustannuksia, jollei virallisesta valvonnasta ja muista virallisista toimista, jotka suoritetaan elintarvike- ja rehulainsäädännön ja eläinten terveyttä ja hyvinvointia, kasvien terveyttä ja kasvinsuojeluaineita koskevien sääntöjen soveltamisen varmistamiseksi, sekä Euroopan parlamentin ja neuvoston asetusten (EY) N:o 999/2001, (EY) N:o 396/2005, (EY) N:o 1069/2009, (EY) N:o 1107/2009, (EU) N:o 1151/2012, (EU) N:o 652/2014, (EU) 2016/429 ja (EU) 2016/2031, neuvoston asetusten (EY) N:o 1/2005 ja (EY) N:o 1099/2009 ja neuvoston direktiivien 98/58/EY, 1999/74/EY, 2007/43/EY, 2008/119/EY ja 2008/120/EY muuttamisesta ja Euroopan parlamentin ja neuvoston asetusten (EY) N:o 854/2004 ja (EY) N:o 882/2004, neuvoston direktiivien 89/608/ETY, 89/662/ETY, 90/425/ETY, 91/496/ETY, 96/23/EY, 96/93/EY ja 97/78/EY ja neuvoston päätöksen 92/438/ETY kumoamisesta\nannetun Euroopan parlamentin ja neuvoston asetuksen (EU) 2017/625 79–82 artiklasta muuta johdu. Valtio korvaa kunnille aiheutuneet kustannukset sellaisista Ruokaviraston kuntien toimeenpantaviksi ohjaamista elintarvikevalvonnan tarkastuksista, näytteenotoista, tutkimuksista ja selvityksistä, jotka tässä laissa säädetään Ruokaviraston tehtäviksi tai jotka liittyvät säädösten tai Ruokaviraston ohjeiden valmisteluun.",
+      "section_number": "73",
+      "chapter_number": 10,
+      "statute_id": ""
+    },
+    {
+      "id": "3acca568-3ca8-40ea-afa8-18e7446f7aad",
+      "node_type": "Section",
+      "publisher": "finlex",
+      "title": "74 § Maksujen perintä ilman tuomiota tai päätöstä sekä viivästyskorko",
+      "text": "Tässä luvussa tarkoitetut maksut ovat suoraan ulosottokelpoisia. Niiden perinnästä säädetään verojen ja maksujen täytäntöönpanosta annetussa laissa (706/2007). Jos toimenpiteestä määrättyä maksua ei ole suoritettu eräpäivänä, viivästyneelle määrälle saadaan periä vuotuista viivästyskorkoa korkolain (633/1982) 4 §:n 1 momentissa tarkoitetun korkokannan mukaan. Eräpäivä voi olla aikaisintaan kahden viikon kuluttua maksun määräytymisen perusteena olevan toimenpiteen suorittamisesta. Viivästyskoron sijasta viranomainen voi periä viiden euron suuruisen viivästysmaksun, jos viivästyskoron määrä jää tätä pienemmäksi. Jos maksu palautetaan maksuunpanon oikaisun tai muutoksenhaun johdosta, palautettavalle maksulle maksetaan veronkantolain (11/2018) 37 §:ssä säädetty hyvityskorko maksupäivästä takaisinmaksupäivään.",
+      "section_number": "74",
+      "chapter_number": 10,
+      "statute_id": ""
+    },
+    {
+      "id": "ef4e3604-56a1-4b7e-8127-6cd3df7787be",
+      "node_type": "Section",
+      "publisher": "finlex",
+      "title": "75 § Muutoksenhaku valtion ja kunnan viranomaisen päätökseen",
+      "text": "Valtion viranomaisen päätökseen, lukuun ottamatta 11, 20, 52, 55–63 ja 65–67 §:ssä tarkoitettuja päätöksiä, saa vaatia oikaisua. Oikaisuvaatimuksesta säädetään hallintolaissa. Edellä 42 §:ssä tarkoitettuun kirjalliseen lihantarkastuspäätökseen saa vaatia oikaisua 14 päivän kuluessa päätöksen tiedoksisaannista Ruokavirastolta. Kunnan toimielimen päätökseen, lukuun ottamatta 9, 11, 55–61, 66 ja 67 §:ssä tarkoitettuja päätöksiä, ja kunnan viranhaltijan muuhun kuin 64 §:ssä tarkoitettuun päätökseen saa vaatia oikaisua kunnan tämän lain mukaisia tehtäviä hoitavalta toimielimeltä. Oikaisuvaatimukseen sovelletaan, mitä hallintolain 7 a luvussa säädetään oikaisuvaatimuksesta. Muutoksenhausta hallintotuomioistuimeen säädetään oikeudenkäynnistä hallintoasioissa annetussa laissa (808/2019). Kunnan viranhaltijan 64 §:ssä tarkoitettuun päätökseen ei saa hakea muutosta valittamalla. Muutoksenhakuun, joka koskee kunnallista valvontasuunnitelmaa, sovelletaan kuitenkin, mitä kuntalaissa (410/2015) säädetään. Muutoksenhaussa Tullin tämän lain nojalla tekemään päätökseen sovelletaan, mitä oikeudenkäynnistä hallintoasioissa annetussa laissa säädetään.",
+      "section_number": "75",
+      "chapter_number": 11,
+      "statute_id": ""
+    },
+    {
+      "id": "60410fcd-13ba-4144-9e33-7fa8f7a81dd7",
+      "node_type": "Section",
+      "publisher": "finlex",
+      "title": "76 § Muutoksenhaku viranomaisen määräämään maksuun",
+      "text": "Muutoksenhausta valtion viranomaisen määräämään maksuun säädetään valtion maksuperustelaissa. Kunnan 72 ja 73 §:ssä tarkoitettua maksua koskevaan päätökseen saa vaatia oikaisua soveltaen, mitä hallintolain 7 a luvussa säädetään. Edellä 72 §:ssä tarkoitettuun valvonnan perusmaksuun saa vaatia oikaisua kunnalta, jos: Oikaisu voidaan 2 momentin 1 kohdassa tarkoitetussa tapauksessa tehdä kolmen vuoden kuluessa maksun määräämistä seuraavan kalenterivuoden alusta ja 2 kohdassa tarkoitetussa tapauksessa vuoden kuluessa sitä seuraavan kalenterivuoden alusta, jolloin maksu määrättiin tai olisi pitänyt määrätä. Muutoksenhakuun, joka koskee kunnallisia maksuja koskevaa taksaa, sovelletaan kuitenkin, mitä kuntalaissa säädetään.",
+      "section_number": "76",
+      "chapter_number": 11,
+      "statute_id": ""
+    },
+    {
+      "id": "d878dcc3-2964-40de-86cb-d9b619099cfe",
+      "node_type": "Section",
+      "publisher": "finlex",
+      "title": "77 § Valvontaviranomaisen muutoksenhakuoikeus",
+      "text": "Ruokavirastolla on oikeus hakea muutosta hallinto-oikeuden päätökseen, jolla hallinto-oikeus on kumonnut kunnan toimielimen muutoin kuin oikaisuvaatimuksen johdosta tekemän päätöksen tai muuttanut sitä. Ruokaviraston valitusoikeus ei kuitenkaan koske kunnallista valvontasuunnitelmaa tai kunnallisia maksuja koskevaa taksaa koskevaa hallinto-oikeuden päätöstä.",
+      "section_number": "77",
+      "chapter_number": 11,
+      "statute_id": ""
+    },
+    {
+      "id": "ea243816-70ff-42d0-a59c-f52bccd02b19",
+      "node_type": "Section",
+      "publisher": "finlex",
+      "title": "78 § Täytäntöönpano",
+      "text": "Edellä 9 luvussa tarkoitetussa muussa kuin 67 §:ssä tarkoitetussa elintarvikevalvonnan seuraamusmaksua koskevassa päätöksessä voidaan määrätä, että päätöstä on noudatettava ennen kuin se on saanut lainvoiman tai ennen kuin oikaisuvaatimusta on käsitelty, jollei valitusviranomainen tai vastaavasti oikaisuvaatimuksen käsittelevä viranomainen toisin määrää. Oikaisuvaatimus ja valitus on käsiteltävä viivytyksettä. Edellä 19 §:n 5 momentissa tarkoitettua hygieniapassin peruuttamista koskevaa päätöstä on valituksesta huolimatta noudatettava, jollei Ruokavirasto tai valitusviranomainen toisin määrää. Edellä 42 §:ssä tarkoitettua kirjallista lihantarkastuspäätöstä on oikaisuvaatimuksesta ja valituksesta huolimatta noudatettava, jollei Ruokavirasto tai valitusviranomainen toisin määrää.",
+      "section_number": "78",
+      "chapter_number": 11,
+      "statute_id": ""
+    },
+    {
+      "id": "49c22791-42db-4a01-b08f-a036cbfa2686",
+      "node_type": "Section",
+      "publisher": "finlex",
+      "title": "79 § Rekisterit",
+      "text": "Ruokavirasto, aluehallintovirastot ja kunnat pitävät yhdessä valvonnan ohjausta ja kehittämistä sekä suorittamaansa valvontaa varten valtakunnallista rekisteriä: Ruokavirasto, aluehallintovirastot ja kunnat ovat 1 momentissa tarkoitetun rekisterin luonnollisten henkilöiden suojelusta henkilötietojen käsittelyssä sekä näiden tietojen vapaasta liikkuvuudesta ja direktiivin 95/46/EY kumoamisesta (yleinen tietosusoja-asetus) annetun Euroopan parlamentin ja neuvoston asetuksen (EU) 2016/679 26 artiklassa tarkoitettuja yhteisrekisterinpitäjiä. Ruokavirasto, aluehallintovirastot ja kunnat käyttävät ja pitävät rekisteriä ajan tasalla tässä laissa säädettyjen tehtäviensä edellyttämässä laajuudessa. Ruokavirasto vastaa rekisterin toimivuuteen liittyvien tietojärjestelmien ylläpidosta ja kehittämisestä. Muilla tässä laissa tarkoitetuilla valvontaviranomaisilla on oikeus käyttää 1 momentissa tarkoitetun rekisterin rekisteritietoja säädettyjen tehtäviensä edellyttämässä laajuudessa. Ruokavirasto pitää valvonnan ohjausta ja kehittämistä sekä suorittamista varten valtakunnallista rekisteriä: Sosiaali- ja terveysalan lupa- ja valvontavirasto pitää rekisteriä alkoholijuomien myyntipaikoista sekä alkoholijuomien valmistus- ja varastointipaikoista. Edellä 1 ja 4 momentissa tarkoitetut rekisterit ovat osa maaseutuelinkeinohallinnon tietojärjestelmästä annetussa laissa (284/2008) tarkoitettua maaseutuelinkeinohallinnon tietojärjestelmää.",
+      "section_number": "79",
+      "chapter_number": 12,
+      "statute_id": ""
+    },
+    {
+      "id": "3001eada-15ff-4a8e-8959-965d31aab122",
+      "node_type": "Section",
+      "publisher": "finlex",
+      "title": "80 § Rekistereihin merkittävät tiedot",
+      "text": "Edellä 79 §:ssä tarkoitettuihin rekistereihin merkitään: Edellä 1 momentissa tarkoitettuja tunnistetietoja ovat toimijan nimi, osoite, yritys- ja yhteisötunnus tai sen puuttuessa henkilötunnus sekä valvontakohteen nimi ja osoite. Henkilön tunnistetiedot poistetaan rekisteristä, kun niitä ei enää tarvita. Ruokavirasto julkaisee virallisista laboratorioista ja nimetyistä omavalvontalaboratorioista luettelon, josta 1 momentin 4 kohdassa tarkoitetut tiedot ilmenevät. Hygieniapassitestaajista rekisteriin merkitään testaajan nimi, henkilötunnus ja yhteystiedot. Henkilöistä, jotka osallistuvat hygieniapassitesteihin, rekisteriin merkitään henkilön nimi ja henkilötunnus sekä hygieniapassitestaajan nimi, testipaikan osoite ja testin suorittamispäivämäärä. Henkilöistä, joille testaaja on myöntänyt hygieniapassin, rekisteriin merkitään lisäksi hygieniapassin myöntämispäivämäärä.",
+      "section_number": "80",
+      "chapter_number": 12,
+      "statute_id": ""
+    },
+    {
+      "id": "f84ada3c-76de-4247-8b91-5d0de965a0a7",
+      "node_type": "Section",
+      "publisher": "finlex",
+      "title": "81 § Rikkomuksista ilmoittajan henkilöllisyyden suojaaminen",
+      "text": "Jos virallisesta valvonnasta ja muista virallisista toimista, jotka suoritetaan elintarvike- ja rehulainsäädännön ja eläinten terveyttä ja hyvinvointia, kasvien terveyttä ja kasvinsuojeluaineita koskevien sääntöjen soveltamisen varmistamiseksi, sekä Euroopan parlamentin ja neuvoston asetusten (EY) N:o 999/2001, (EY) N:o 396/2005, (EY) N:o 1069/2009, (EY) N:o 1107/2009, (EU) N:o 1151/2012, (EU) N:o 652/2014, (EU) 2016/429 ja (EU) 2016/2031, neuvoston asetusten (EY) N:o 1/2005 ja (EY) N:o 1099/2009 ja neuvoston direktiivien 98/58/EY, 1999/74/EY, 2007/43/EY, 2008/119/EY ja 2008/120/EY muuttamisesta ja Euroopan parlamentin ja neuvoston asetusten (EY) N:o 854/2004 ja (EY) N:o 882/2004, neuvoston direktiivien 89/608/ETY, 89/662/ETY, 90/425/ETY, 91/496/ETY, 96/23/EY, 96/93/EY ja 97/78/EY ja neuvoston päätöksen 92/438/ETY kumoamisesta annetun Euroopan parlamentin ja neuvoston asetuksen (EU) 2017/625 140 artiklassa tarkoitetun säännösten rikkomista koskevan ilmoituksen\nvalvontaviranomaiselle on tehnyt luonnollinen henkilö, hänen henkilöllisyytensä on pidettävä salassa, jos henkilöllisyyden paljastamisesta voidaan olosuhteiden perusteella arvioida aiheutuvan hänelle haittaa.",
+      "section_number": "81",
+      "chapter_number": 13,
+      "statute_id": ""
+    },
+    {
+      "id": "55dbeed1-5e09-4b0b-892c-23b3128f8137",
+      "node_type": "Section",
+      "publisher": "finlex",
+      "title": "82 § Salassa pidettävät tiedot",
+      "text": "Valvonnassa saatuja tietoja koskevasta salassapitovelvollisuudesta säädetään viranomaisten toiminnan julkisuudesta annetussa laissa.",
+      "section_number": "82",
+      "chapter_number": 13,
+      "statute_id": ""
+    },
+    {
+      "id": "6968399f-4939-41bd-ab3a-550c55a9b01c",
+      "node_type": "Section",
+      "publisher": "finlex",
+      "title": "83 § Virka-apu",
+      "text": "Valvontaviranomaisten on annettava toisilleen pyynnöstä virka-apua niiden tässä laissa säädettyjen tehtävien suorittamiseksi. Poliisin on annettava valvontaviranomaisille näiden pyynnöstä virka-apua elintarvikesäännösten mukaisten tehtävien suorittamisessa.",
+      "section_number": "83",
+      "chapter_number": 13,
+      "statute_id": ""
+    },
+    {
+      "id": "31bc3a58-cd21-4403-bffe-47b8960f3d62",
+      "node_type": "Section",
+      "publisher": "finlex",
+      "title": "84 § Valtionosuus",
+      "text": "Kunnan tämän lain nojalla järjestämään toimintaan sovelletaan kunnan peruspalvelujen valtionosuudesta annettua lakia (1704/2009), jollei laissa toisin säädetä.",
+      "section_number": "84",
+      "chapter_number": 13,
+      "statute_id": ""
+    },
+    {
+      "id": "5042a3cc-0d62-4b2d-9e99-ea02cc088ac9",
+      "node_type": "Section",
+      "publisher": "finlex",
+      "title": "85 § Koneellinen allekirjoitus",
+      "text": "Automaattisen tietojenkäsittelyn avulla tehty tämän lain mukainen päätös sekä asiaan liittyvät asiakirjat voidaan allekirjoittaa koneellisesti.",
+      "section_number": "85",
+      "chapter_number": 13,
+      "statute_id": ""
+    },
+    {
+      "id": "62394f70-0231-4999-88d6-5eef5235aaec",
+      "node_type": "Section",
+      "publisher": "finlex",
+      "title": "86 § Voimaantulo",
+      "text": "Tämä laki tulee voimaan 21 päivänä huhtikuuta 2021. Tällä lailla kumotaan elintarvikelaki (23/2006), jäljempänäkumottu laki. Jos muualla lainsäädännössä viitataan kumottuun lakiin, tämän lain voimaan tultua viittauksen on katsottava tarkoittavan tämän lain vastaavaa säännöstä. Kumotun lain nojalla annetut säädökset jäävät voimaan.",
+      "section_number": "86",
+      "chapter_number": 14,
+      "statute_id": ""
+    },
+    {
+      "id": "0f80cd10-6213-499f-b9a1-e6cf7a246f39",
+      "node_type": "Section",
+      "publisher": "finlex",
+      "title": "87 § Siirtymäsäännökset",
+      "text": "Mitä 72 §:ssä säädetään kunnan suorittamasta elintarvikevalvonnasta vuosittain perittävästä valvonnan perusmaksusta, sovelletaan 1 päivästä tammikuuta 2022. Kumotun lain sekä sitä edeltäneen elintarvikelain (361/1995) ja terveydensuojelulain nojalla hyväksytyt tai ilmoitetut elintarvikehuoneistot ja alkutuotantopaikat sekä eläimistä saatavien elintarvikkeiden elintarvikehygieniasta annetun lain (1195/1996) nojalla rekisteröidyt alkutuotantopaikat saavat ilman eri hyväksyntää tai ilmoitusta jatkaa toimintaansa. Sen, joka tämän lain voimaan tullessa on kelpoinen elintarvikevalvonnan tehtävään, katsotaan täyttävän tämän lain mukaiset vastaavaa tehtävää koskevat pätevyysvaatimukset.",
+      "section_number": "87",
+      "chapter_number": 14,
+      "statute_id": ""
+    }
+  ],
+  "clauses": [
+    {
+      "id": "6f492620-3093-4edb-bc76-044236870103",
+      "node_type": "Clause",
+      "publisher": "finlex",
+      "title": "§ 1 mom 1",
+      "text": "1) suojella kuluttajan terveyttä ja taloudellisia etuja varmistamalla elintarvikkeiden ja elintarvikekontaktimateriaalien turvallisuus, elintarvikkeiden hyvä terveydellinen ja muu elintarvikesäännösten mukainen laatu ja elintarvikkeista ja elintarvikekontaktimateriaaleista annettavien tietojen riittävyys ja oikeellisuus;",
+      "clause_number": 1,
+      "section_number": "1",
+      "statute_id": ""
+    },
+    {
+      "id": "ca61fb66-ef80-4f6d-8038-7d1378e9a4c6",
+      "node_type": "Clause",
+      "publisher": "finlex",
+      "title": "§ 1 mom 2",
+      "text": "2) edistää lain soveltamisalan osalta elintarvikealan ja kontaktimateriaalialan toimijoiden toimintaedellytyksiä.",
+      "clause_number": 2,
+      "section_number": "1",
+      "statute_id": ""
+    },
+    {
+      "id": "e41f99d4-033f-445b-b434-d236df99db2c",
+      "node_type": "Clause",
+      "publisher": "finlex",
+      "title": "§ 2 mom 1",
+      "text": "1) yksityistalouden omaan käyttöön tarkoitettuun alkutuotantoon;",
+      "clause_number": 1,
+      "section_number": "2",
+      "statute_id": ""
+    },
+    {
+      "id": "32240b3c-b4e0-49a8-ac95-6b4cb556cce8",
+      "node_type": "Clause",
+      "publisher": "finlex",
+      "title": "§ 2 mom 2",
+      "text": "2) omaan käyttöön tarkoitettujen elintarvikkeiden valmistukseen, käsittelyyn tai varastointiin yksityistaloudessa;",
+      "clause_number": 2,
+      "section_number": "2",
+      "statute_id": ""
+    },
+    {
+      "id": "b04bc066-6af2-4235-9c05-ac61548fe5e4",
+      "node_type": "Clause",
+      "publisher": "finlex",
+      "title": "§ 2 mom 3",
+      "text": "3) alkoholijuomiin tai alkoholivalmisteisiin siltä osin kuin niistä säädetään muussa lainsäädännössä.",
+      "clause_number": 3,
+      "section_number": "2",
+      "statute_id": ""
+    },
+    {
+      "id": "ed03e206-d809-444b-8cd5-b69926aaa2b8",
+      "node_type": "Clause",
+      "publisher": "finlex",
+      "title": "§ 5 mom 1",
+      "text": "1) \n                                        elintarvikelainsäädäntöä koskevista yleisistä periaatteista ja vaatimuksista, Euroopan elintarviketurvallisuusviranomaisen perustamisesta sekä elintarvikkeiden turvallisuuteen liittyvistä menettelyistä annetun Euroopan parlamentin ja neuvoston asetuksen (EY) N:o 178/2002 2 artiklassa ja 3 artiklan 3, 7, 8, 15, 16 ja 18 kohdassa oleviaelintarvikkeen, elintarvikealan toimijan, vähittäiskaupan, markkinoille saattamisen, jäljitettävyyden, elintarvikkeen tuotanto-, jalostus- ja jakeluvaiheenjalopullisen kuluttajanmääritelmiä;",
+      "clause_number": 1,
+      "section_number": "5",
+      "statute_id": ""
+    },
+    {
+      "id": "ddcec173-1d7f-4154-ac79-3ae054168dc5",
+      "node_type": "Clause",
+      "publisher": "finlex",
+      "title": "§ 5 mom 2",
+      "text": "2) elintarvikehygieniasta annetun Euroopan parlamentin ja neuvoston asetuksen (EY) N:o 852/2004 2 artiklan 1 kohdassa olevia määritelmiä, ei kuitenkaan teurastamon määritelmää;",
+      "clause_number": 2,
+      "section_number": "5",
+      "statute_id": ""
+    },
+    {
+      "id": "ffdde7be-006e-4e33-a827-a554fdbe85a0",
+      "node_type": "Clause",
+      "publisher": "finlex",
+      "title": "§ 5 mom 3",
+      "text": "3) eläinperäisiä elintarvikkeita koskevista erityisistä hygieniasäännöistä annetun Euroopan parlamentin ja neuvoston asetuksen (EY) N:o 853/2004 liitteessä I ja III olevia määritelmiä;",
+      "clause_number": 3,
+      "section_number": "5",
+      "statute_id": ""
+    },
+    {
+      "id": "3e4146e0-e5a8-464b-a782-71109519faef",
+      "node_type": "Clause",
+      "publisher": "finlex",
+      "title": "§ 5 mom 4",
+      "text": "4) \n                                        virallisesta valvonnasta ja muista virallisista toimista, jotka suoritetaan elintarvike- ja rehulainsäädännön ja eläinten terveyttä ja hyvinvointia, kasvien terveyttä ja kasvinsuojeluaineita koskevien sääntöjen soveltamisen varmistamiseksi, sekä Euroopan parlamentin ja neuvoston asetusten (EY) N:o 999/2001, (EY) N:o 396/2005, (EY) N:o 1069/2009, (EY) N:o 1107/2009, (EU) N:o 1151/2012, (EU) N:o 652/2014, (EU) 2016/429 ja (EU) 2016/2031, neuvoston asetusten (EY) N:o 1/2005 ja (EY) N:o 1099/2009 ja neuvoston direktiivien 98/58/EY, 1999/74/EY, 2007/43/EY, 2008/119/EY ja 2008/120/EY muuttamisesta ja Euroopan parlamentin ja neuvoston asetusten (EY) N:o 854/2004 ja (EY) N:o 882/2004, neuvoston direktiivien 89/608/ETY, 89/662/ETY, 90/425/ETY, 91/496/ETY, 96/23/EY, 96/93/EY ja 97/78/EY ja neuvoston päätöksen 92/438/ETY kumoamisesta annetun Euroopan parlamentin ja neuvoston asetuksen (EU) 2017/625 2 artiklassa, 3 artiklan 5, 23, 32, 49 ja 51 kohdassa sekä 17 artiklan\nc ja d kohdassa oleviavirallisen valvonnan, muiden virallisten toimien, toimeksiannon saaneen elimen, vaaran, virkaeläinlääkärin, virallisen avustajan, terveysmerkin, ante mortem -tarkastuksenjapost mortem -tarkastuksenmääritelmiä;",
+      "clause_number": 4,
+      "section_number": "5",
+      "statute_id": ""
+    },
+    {
+      "id": "f9bd67c1-4aa8-4620-99f2-7483d098448e",
+      "node_type": "Clause",
+      "publisher": "finlex",
+      "title": "§ 5 mom 5",
+      "text": "5) lihantuotantoa koskevan virallisen valvonnan suorittamista sekä elävien simpukoiden tuotanto- ja uudelleensijoitusalueita koskevista erityissäännöistä Euroopan parlamentin ja neuvoston asetuksen (EU) 2017/625 mukaisesti annetun komission delegoidun asetuksen (EU) 2019/624 2 artiklassa olevia määritelmiä;",
+      "clause_number": 5,
+      "section_number": "5",
+      "statute_id": ""
+    },
+    {
+      "id": "59a417f0-e761-4324-865b-6367b2cfb24d",
+      "node_type": "Clause",
+      "publisher": "finlex",
+      "title": "§ 5 mom 6",
+      "text": "6) ihmisravinnoksi tarkoitettujen eläinperäisten tuotteiden virallisen valvonnan suorittamista koskevista yhdenmukaisista käytännön järjestelyistä Euroopan parlamentin ja neuvoston asetuksen (EU) 2017/625 mukaisesti ja komission asetuksen (EY) N:o 2074/2005 muuttamisesta virallisen valvonnan osalta annetun komission täytäntöönpanoasetuksen (EU) 2019/627 2 artiklassa olevia määritelmiä;",
+      "clause_number": 6,
+      "section_number": "5",
+      "statute_id": ""
+    },
+    {
+      "id": "5d448f8c-89bb-4b85-b3a1-af31e73a9b14",
+      "node_type": "Clause",
+      "publisher": "finlex",
+      "title": "§ 5 mom 7",
+      "text": "7) \n                                        virallisia lihan trikiinitarkastuksia koskevista erityissäännöistä annetun komission täytäntöönpanoasetuksen (EU) 2015/1375 1 artiklan 2 ja 3 kohdassa oleviavalvottujen pito-olosuhteidenjalokeronmääritelmää;",
+      "clause_number": 7,
+      "section_number": "5",
+      "statute_id": ""
+    },
+    {
+      "id": "9b0a39b6-85e5-4c0d-b7cb-4ebb93fcc960",
+      "node_type": "Clause",
+      "publisher": "finlex",
+      "title": "§ 5 mom 8",
+      "text": "8) \n                                        tiettyjen zoonoosien ja niiden aiheuttajien seurannasta, neuvoston päätöksen 90/424/ETY muuttamisesta ja neuvoston direktiivin 92/117/ETY kumoamisesta annetun Euroopan parlamentin ja neuvoston direktiivin 2003/99/EY 2 artiklan 2 kohdan a, b ja d alakohdassa oleviazoonoosin, zoonoosin aiheuttajanjaruokamyrkytysepidemianmääritelmiä;",
+      "clause_number": 8,
+      "section_number": "5",
+      "statute_id": ""
+    },
+    {
+      "id": "5dff9f66-b8ea-4e60-8175-3ca5a445eba5",
+      "node_type": "Clause",
+      "publisher": "finlex",
+      "title": "§ 5 mom 9",
+      "text": "9) \n                                        ituihin ja itujen tuotantoon tarkoitettuihin siemeniin sovellettavista jäljitettävyysvaatimuksista annetun komission täytäntöönpanoasetuksen (EU) N:o 208/2013 2 artiklan ensimmäisen kohdan a alakohdassa olevaaitujenmääritelmää;",
+      "clause_number": 9,
+      "section_number": "5",
+      "statute_id": ""
+    },
+    {
+      "id": "7208eb27-4a42-4a0e-962c-ace30686a4aa",
+      "node_type": "Clause",
+      "publisher": "finlex",
+      "title": "§ 5 mom 10",
+      "text": "10) \n                                        Euroopan maaseudun kehittämisen maatalousrahaston (maaseuturahasto) tuesta maaseudun kehittämiseen ja neuvoston asetuksen (EY) N:o 1698/2005 kumoamisesta annetun Euroopan parlamentin ja neuvoston asetuksen (EU) N:o 1305/2013 16 artiklan 1 kohdan b alakohdassa olevaaelintarvikkeiden kansallisen laatujärjestelmänmääritelmää;",
+      "clause_number": 10,
+      "section_number": "5",
+      "statute_id": ""
+    },
+    {
+      "id": "f0a39cbb-f1f1-4c3f-954b-d09cf2a7f01d",
+      "node_type": "Clause",
+      "publisher": "finlex",
+      "title": "§ 5 mom 11",
+      "text": "11) \n                                        elintarviketietojen antamisesta kuluttajille, Euroopan parlamentin ja neuvoston asetusten (EY) N:o 1924/2006 ja (EY) N:o 1925/2006 muuttamisesta sekä komission direktiivin 87/250/ETY, neuvoston direktiivin 90/496/ETY, komission direktiivin 1999/10/EY, Euroopan parlamentin ja neuvoston direktiivin 2000/13/EY, komission direktiivien 2002/67/EY ja 2008/5/EY sekä komission asetuksen (EY) N:o 608/2004 kumoamisesta annetussa Euroopan parlamentin ja neuvoston asetuksessa (EU) N:o 1169/2011 2 artiklan 2 kohdan u alakohdassa olevaaetäviestintävälineenmääritelmää.",
+      "clause_number": 11,
+      "section_number": "5",
+      "statute_id": ""
+    },
+    {
+      "id": "0b83f88e-187f-4faf-ac76-69b6687b6f8d",
+      "node_type": "Clause",
+      "publisher": "finlex",
+      "title": "§ 7 mom 1",
+      "text": "1) luotettavuuden arviointia edeltäneen kolmen vuoden aikana toiminnassaan toistuvasti osoittanut ilmeistä piittaamattomuutta elintarviketurvallisuuden varmistamista, elintarvikesäännösten noudattamista ja kuluttajien turvallisuutta kohtaan;",
+      "clause_number": 1,
+      "section_number": "7",
+      "statute_id": ""
+    },
+    {
+      "id": "b82a3a9f-5b07-44c3-8927-dcfe8dc498cf",
+      "node_type": "Clause",
+      "publisher": "finlex",
+      "title": "§ 7 mom 2",
+      "text": "2) luotettavuuden arviointia edeltäneen kolmen vuoden aikana toistuvasti tai huomattavassa määrin laiminlyönyt veroihin, lakisääteisiin eläke-, tapaturma- tai työttömyysvakuutusmaksuihin taikka Tullin perimiin maksuihin liittyvien rekisteröitymis-, ilmoitus- tai maksuvelvollisuuksien hoitamisen; tai",
+      "clause_number": 2,
+      "section_number": "7",
+      "statute_id": ""
+    },
+    {
+      "id": "4d53fee4-3d3c-486b-b906-a0de004c9d2c",
+      "node_type": "Clause",
+      "publisher": "finlex",
+      "title": "§ 7 mom 3",
+      "text": "3) ulosmittauksen tai muun selvityksen mukaan kykenemätön vastaamaan veloistaan.",
+      "clause_number": 3,
+      "section_number": "7",
+      "statute_id": ""
+    },
+    {
+      "id": "02e4e0fd-0bf0-45c5-9f4b-7459e896833b",
+      "node_type": "Clause",
+      "publisher": "finlex",
+      "title": "§ 8 mom 1",
+      "text": "1) kunta saa tiedon elintarvikkeiden alkutuotannosta toiselta viranomaiselta;",
+      "clause_number": 1,
+      "section_number": "8",
+      "statute_id": ""
+    },
+    {
+      "id": "c67b04b5-29fa-4f32-abcb-0f5e535896cb",
+      "node_type": "Clause",
+      "publisher": "finlex",
+      "title": "§ 8 mom 2",
+      "text": "2) on kyse luonnonvaraisten kasvien, sienten tai riistan alkutuotannosta; tai",
+      "clause_number": 2,
+      "section_number": "8",
+      "statute_id": ""
+    },
+    {
+      "id": "a282d06f-590c-495a-afde-e4eb5204aa81",
+      "node_type": "Clause",
+      "publisher": "finlex",
+      "title": "§ 8 mom 3",
+      "text": "3) on kyse kasvien tai sienten alkutuotannosta ja:",
+      "clause_number": 3,
+      "section_number": "8",
+      "statute_id": ""
+    },
+    {
+      "id": "6d6ddf1f-70f2-49b3-9305-772ecd2c0304",
+      "node_type": "Clause",
+      "publisher": "finlex",
+      "title": "§ 10 mom 1",
+      "text": "1) elintarviketoiminta tapahtuu samassa huoneistossa kuin toimijan harjoittama muu elinkeinotoiminta;",
+      "clause_number": 1,
+      "section_number": "10",
+      "statute_id": ""
+    },
+    {
+      "id": "cd222fe9-0f3f-4a29-9ada-9b56f435d07a",
+      "node_type": "Clause",
+      "publisher": "finlex",
+      "title": "§ 10 mom 2",
+      "text": "2) kyseessä on yksityinen henkilö; tai",
+      "clause_number": 2,
+      "section_number": "10",
+      "statute_id": ""
+    },
+    {
+      "id": "9509a53c-3dbe-4c20-a6a9-9bbf7c3dd804",
+      "node_type": "Clause",
+      "publisher": "finlex",
+      "title": "§ 10 mom 3",
+      "text": "3) toimintaa ei voi pitää elinkeinon harjoittamisena.",
+      "clause_number": 3,
+      "section_number": "10",
+      "statute_id": ""
+    },
+    {
+      "id": "64caa6fb-3c50-4a48-bcb0-f0a0181ab7c1",
+      "node_type": "Clause",
+      "publisher": "finlex",
+      "title": "§ 10 mom 1",
+      "text": "1) liikkuvassa elintarvikehuoneistossa;",
+      "clause_number": 1,
+      "section_number": "10",
+      "statute_id": ""
+    },
+    {
+      "id": "43d005e6-8878-4e1a-b9e9-fe9291c9e826",
+      "node_type": "Clause",
+      "publisher": "finlex",
+      "title": "§ 10 mom 2",
+      "text": "2) elintarvikehuoneistossa, jossa pelkästään kuljetetaan tai säilytetään elintarvikkeita yhdessä tai useammassa kuljetusajoneuvossa tai kontissa;",
+      "clause_number": 2,
+      "section_number": "10",
+      "statute_id": ""
+    },
+    {
+      "id": "d59b4eb5-7d69-47bf-90c5-4eb6eb79a59d",
+      "node_type": "Clause",
+      "publisher": "finlex",
+      "title": "§ 10 mom 3",
+      "text": "3) virtuaalihuoneistossa.",
+      "clause_number": 3,
+      "section_number": "10",
+      "statute_id": ""
+    },
+    {
+      "id": "10505d7e-8307-4f12-9663-b70ba9f6a4d6",
+      "node_type": "Clause",
+      "publisher": "finlex",
+      "title": "§ 12 mom 1",
+      "text": "1) rekisteröidystä elintarviketoiminnasta liikkuvassa elintarvikehuoneistossa niille kunnille, joiden alueella toimintaa harjoitetaan;",
+      "clause_number": 1,
+      "section_number": "12",
+      "statute_id": ""
+    },
+    {
+      "id": "af5fbfc4-e41e-4e52-95be-20b8dfc6cc58",
+      "node_type": "Clause",
+      "publisher": "finlex",
+      "title": "§ 12 mom 2",
+      "text": "2) elintarviketoiminnasta liikkuvassa teurastamossa tai riistan käsittelylaitoksessa ja niiden yhteydessä olevassa hyväksytyssä elintarvikehuoneistossa Ruokavirastolle;",
+      "clause_number": 2,
+      "section_number": "12",
+      "statute_id": ""
+    },
+    {
+      "id": "a48c4d57-f8ab-4e62-8d90-4ca5c521331c",
+      "node_type": "Clause",
+      "publisher": "finlex",
+      "title": "§ 12 mom 3",
+      "text": "3) elintarviketoiminnasta liikkuvassa poroteurastamossa ja sen yhteydessä olevassa hyväksytyssä elintarvikehuoneistossa aluehallintovirastolle;",
+      "clause_number": 3,
+      "section_number": "12",
+      "statute_id": ""
+    },
+    {
+      "id": "7ebd6b58-ecc1-4879-a01f-c7072b70b676",
+      "node_type": "Clause",
+      "publisher": "finlex",
+      "title": "§ 12 mom 4",
+      "text": "4) elintarviketoiminnasta muussa hyväksytyssä liikkuvassa elintarvikehuoneistossa niille kunnille, joiden alueella toimintaa harjoitetaan.",
+      "clause_number": 4,
+      "section_number": "12",
+      "statute_id": ""
+    },
+    {
+      "id": "3c02ddd8-2143-42f5-a8fd-2694c0c4cb42",
+      "node_type": "Clause",
+      "publisher": "finlex",
+      "title": "§ 16 mom 1",
+      "text": "1) alkutuotannon toimijoita;",
+      "clause_number": 1,
+      "section_number": "16",
+      "statute_id": ""
+    },
+    {
+      "id": "0e644967-e316-4361-97d2-c2d18a69c9a3",
+      "node_type": "Clause",
+      "publisher": "finlex",
+      "title": "§ 16 mom 2",
+      "text": "2) alkoholijuomien valmistus- ja varastointitiloja eikä toimijoita, jotka harjoittavat ensisijaisesti alkoholijuomien vähittäismyyntiä.",
+      "clause_number": 2,
+      "section_number": "16",
+      "statute_id": ""
+    },
+    {
+      "id": "86c1fe63-29af-4870-848a-058058b10bbd",
+      "node_type": "Clause",
+      "publisher": "finlex",
+      "title": "§ 19 mom 1",
+      "text": "1) vankeuslain (767/2005) 8 luvun 2 §:n velvoittamana vankina;",
+      "clause_number": 1,
+      "section_number": "19",
+      "statute_id": ""
+    },
+    {
+      "id": "317c2f86-9b29-4895-bb79-741d36d76487",
+      "node_type": "Clause",
+      "publisher": "finlex",
+      "title": "§ 19 mom 2",
+      "text": "2) asevelvollisuuslain (1438/2007) mukaisessa varusmiespalvelussa tai aseettomassa palveluksessa, naisten vapaaehtoisesta asepalveluksesta annetun lain (194/1995) mukaisessa asepalvelussa taikka siviilipalveluslain (1446/2007) mukaisessa siviilipalveluksessa;",
+      "clause_number": 2,
+      "section_number": "19",
+      "statute_id": ""
+    },
+    {
+      "id": "7d992d27-8c70-4146-949e-de14a7b2a819",
+      "node_type": "Clause",
+      "publisher": "finlex",
+      "title": "§ 19 mom 3",
+      "text": "3) sosiaalihuollon asiakkaan asemasta ja oikeuksista annetussa laissa (812/2000) tarkoitettuna asiakkaana, kehitysvammaisten erityishuollosta annetun lain (519/1977) mukaisessa työtoiminnassa, vammaisuuden perusteella järjestettävistä palveluista ja tukitoimista annetussa laissa (380/1987) tarkoitetussa päivätoiminnassa tai sosiaalihuoltolaissa (1301/2014) tarkoitetussa vammaisten henkilöiden työllistymistä tukevassa toiminnassa tai työtoiminnassa;",
+      "clause_number": 3,
+      "section_number": "19",
+      "statute_id": ""
+    },
+    {
+      "id": "b781f0e6-50c3-43e9-91ac-c96156a39b92",
+      "node_type": "Clause",
+      "publisher": "finlex",
+      "title": "§ 19 mom 4",
+      "text": "4) yhdyskuntaseuraamusten täytäntöönpanosta annetussa laissa (400/2015) tarkoitettuna tuomittuna.",
+      "clause_number": 4,
+      "section_number": "19",
+      "statute_id": ""
+    },
+    {
+      "id": "59f746aa-e279-4906-8ca1-faa589dbc638",
+      "node_type": "Clause",
+      "publisher": "finlex",
+      "title": "§ 20 mom 1",
+      "text": "1) jolla on 32 §:ssä edellytetty korkeakoulututkinto; taikka",
+      "clause_number": 1,
+      "section_number": "20",
+      "statute_id": ""
+    },
+    {
+      "id": "6680a7fc-81b1-48b8-ba83-a6545582d172",
+      "node_type": "Clause",
+      "publisher": "finlex",
+      "title": "§ 20 mom 2",
+      "text": "2) joka on tutkinnon tai aineenhallinnan osalta kelpoinen korkeakoulun tai Opetushallituksen toimialaan kuuluvan oppilaitoksen elintarvikehygieniaan liittyvän lehtorin tai opettajan virkaan tai toimeen.",
+      "clause_number": 2,
+      "section_number": "20",
+      "statute_id": ""
+    },
+    {
+      "id": "242bceec-8b2e-4f3e-a648-79cd82943c5d",
+      "node_type": "Clause",
+      "publisher": "finlex",
+      "title": "§ 21 mom 1",
+      "text": "1) elintarvikkeiden koostumuksesta, mikrobiologisesta laadusta ja niiden sisältämistä vieraista aineista;",
+      "clause_number": 1,
+      "section_number": "21",
+      "statute_id": ""
+    },
+    {
+      "id": "f26e54f6-aab4-482f-a942-78d33edb3338",
+      "node_type": "Clause",
+      "publisher": "finlex",
+      "title": "§ 21 mom 2",
+      "text": "2) elintarvikkeiden lisäaineista, aromeista, entsyymeistä, ravintoaineista ja valmistuksen apuaineista;",
+      "clause_number": 2,
+      "section_number": "21",
+      "statute_id": ""
+    },
+    {
+      "id": "fc1b6b29-fd0d-473a-97a4-8d2b0822c111",
+      "node_type": "Clause",
+      "publisher": "finlex",
+      "title": "§ 21 mom 3",
+      "text": "3) uuselintarvikkeista, Euroopan parlamentin ja neuvoston asetuksen (EU) N:o 1169/2011 muuttamisesta sekä Euroopan parlamentin ja neuvoston asetuksen (EY) N:o 258/97 ja komission asetuksen (EY) N:o 1852/2001 kumoamisesta annetussa Euroopan parlamentin ja neuvoston asetuksessa (EU) 2015/2283 edellytetyistä kansallisista järjestelyistä;",
+      "clause_number": 3,
+      "section_number": "21",
+      "statute_id": ""
+    },
+    {
+      "id": "cd3881e7-5438-4398-af4b-324e124ebc89",
+      "node_type": "Clause",
+      "publisher": "finlex",
+      "title": "§ 21 mom 4",
+      "text": "4) elintarvikkeiden pakkauksessa, esitteessä, mainoksessa tai muulla tavoin markkinoinnin yhteydessä annettavista tiedoista;",
+      "clause_number": 4,
+      "section_number": "21",
+      "statute_id": ""
+    },
+    {
+      "id": "30659181-a623-4969-95f1-2c1fd78f6796",
+      "node_type": "Clause",
+      "publisher": "finlex",
+      "title": "§ 21 mom 5",
+      "text": "5) Euroopan unionin lainsäädännön mukaisista alkoholijuomien kansallisista nimityksistä ja niiden koostumuksesta sekä niistä annettavista tiedoista;",
+      "clause_number": 5,
+      "section_number": "21",
+      "statute_id": ""
+    },
+    {
+      "id": "92499a32-37c9-40f1-be5c-294219238424",
+      "node_type": "Clause",
+      "publisher": "finlex",
+      "title": "§ 21 mom 6",
+      "text": "6) elintarvikekontaktimateriaaleista ja niiden käytöstä sekä niitä koskevista merkinnöistä ja puhtausvaatimuksista.",
+      "clause_number": 6,
+      "section_number": "21",
+      "statute_id": ""
+    },
+    {
+      "id": "72dcccb7-8e5a-4c84-a8a7-bb9c120a3631",
+      "node_type": "Clause",
+      "publisher": "finlex",
+      "title": "§ 21 mom 4",
+      "text": "1) 6 §:n 4 momentissa tarkoitetun ilmoituksen tekemisestä sekä muista vitamiinien, kivennäisaineiden ja eräiden muiden aineiden lisäämisestä elintarvikkeisiin annetussa Euroopan parlamentin ja neuvoston asetuksessa (EY) N:o 1925/2006 edellytetyistä kansallisista järjestelyistä;",
+      "clause_number": 4,
+      "section_number": "21",
+      "statute_id": ""
+    },
+    {
+      "id": "be4948f9-debb-4430-999f-2af188bc7cce",
+      "node_type": "Clause",
+      "publisher": "finlex",
+      "title": "§ 21 mom 1",
+      "text": "1) 6 §:n 4 momentissa tarkoitetun ilmoituksen tekemisestä sekä muista vitamiinien, kivennäisaineiden ja eräiden muiden aineiden lisäämisestä elintarvikkeisiin annetussa Euroopan parlamentin ja neuvoston asetuksessa (EY) N:o 1925/2006 edellytetyistä kansallisista järjestelyistä;",
+      "clause_number": 1,
+      "section_number": "21",
+      "statute_id": ""
+    },
+    {
+      "id": "8133cf9e-d28d-4d63-9c19-5227e7b470ca",
+      "node_type": "Clause",
+      "publisher": "finlex",
+      "title": "§ 21 mom 5",
+      "text": "2) 6 §:n 5 momentissa tarkoitetun ilmoituksen tekemisestä.",
+      "clause_number": 5,
+      "section_number": "21",
+      "statute_id": ""
+    },
+    {
+      "id": "24da9aec-7c27-41d0-a37a-d0a691c8ae56",
+      "node_type": "Clause",
+      "publisher": "finlex",
+      "title": "§ 21 mom 2",
+      "text": "2) 6 §:n 5 momentissa tarkoitetun ilmoituksen tekemisestä.",
+      "clause_number": 2,
+      "section_number": "21",
+      "statute_id": ""
+    },
+    {
+      "id": "d19499fc-d1ca-444b-9e66-75f467d9ea59",
+      "node_type": "Clause",
+      "publisher": "finlex",
+      "title": "§ 22 mom 1",
+      "text": "1) elintarvikehygieniasta annetun Euroopan parlamentin ja neuvoston asetuksen (EY) N:o 852/2004 1 artiklan 2 kohdan c alakohdassa, eläinperäisiä elintarvikkeita koskevista erityisistä hygieniasäännöistä annetun Euroopan parlamentin ja neuvoston asetuksen (EY) N:o 853/2004 1 artiklan 3 kohdan c, d ja e alakohdassa, 5 kohdan b alakohdan i ja ii alakohdassa ja 10 artiklassa sekä lihantuotantoa koskevan virallisen valvonnan suorittamista sekä elävien simpukoiden tuotanto- ja uudelleensijoitusalueita koskevista erityissäännöistä Euroopan parlamentin ja neuvoston asetuksen (EU) 2017/625 mukaisesti annetun komission delegoidun asetuksen (EU) 2019/624 12 artiklan 1 kohdassa tarkoitettuja toimintoja koskevista kansallisista säännöistä;",
+      "clause_number": 1,
+      "section_number": "22",
+      "statute_id": ""
+    },
+    {
+      "id": "d0f4731e-e9e7-42fc-89ac-24068bd23dc1",
+      "node_type": "Clause",
+      "publisher": "finlex",
+      "title": "§ 22 mom 2",
+      "text": "2) elintarviketoimintaa koskevista tiloihin, rakenteisiin ja toimintaan liittyvistä vaatimuksista;",
+      "clause_number": 2,
+      "section_number": "22",
+      "statute_id": ""
+    },
+    {
+      "id": "36812b21-465b-4a71-b459-251af14269e7",
+      "node_type": "Clause",
+      "publisher": "finlex",
+      "title": "§ 22 mom 3",
+      "text": "3) elintarvikkeiden käsittelystä ja kuljettamisesta sekä lämpötilavaatimuksista;",
+      "clause_number": 3,
+      "section_number": "22",
+      "statute_id": ""
+    },
+    {
+      "id": "4b356b0e-a1b8-461f-82ed-db3732a2a206",
+      "node_type": "Clause",
+      "publisher": "finlex",
+      "title": "§ 22 mom 4",
+      "text": "4) \n                                        helposti pilaantuvien elintarvikkeiden kansainvälisiä kuljetuksia ja tällaisissa kuljetuksissa käytettävää erityiskalustoa koskevan sopimuksen (ATP) (SopS 48/1981), jäljempänäATP-sopimus, kansallisesta täytäntöönpanosta;",
+      "clause_number": 4,
+      "section_number": "22",
+      "statute_id": ""
+    },
+    {
+      "id": "91195c3d-10f1-4743-859c-5d95019b4ef3",
+      "node_type": "Clause",
+      "publisher": "finlex",
+      "title": "§ 22 mom 5",
+      "text": "5) elintarviketuotantoon käytettävien eläinten terveydentilasta, hoidosta, käsittelystä, näytteentotosta, tutkimuksista, kuljetuksesta ja eläimistä annettavista tiedoista;",
+      "clause_number": 5,
+      "section_number": "22",
+      "statute_id": ""
+    },
+    {
+      "id": "b9e86ff0-b0ad-4fa0-817c-5d817202db6c",
+      "node_type": "Clause",
+      "publisher": "finlex",
+      "title": "§ 22 mom 6",
+      "text": "6) tiettyjen tarttuvien spongiformisten enkefalopatioiden ehkäisyä, valvontaa ja hävittämistä koskevista säännöistä annetun Euroopan parlamentin ja neuvoston asetuksen (EY) N:o 999/2001 liitteen III A luvun I kohdan 6.2 ja 6.5 alakohdassa sekä liitteen V 4 kohdassa tarkoitetuista kansallisista säännöistä.",
+      "clause_number": 6,
+      "section_number": "22",
+      "statute_id": ""
+    },
+    {
+      "id": "1fec0f33-5070-4898-857c-fbf9b8c2c9b4",
+      "node_type": "Clause",
+      "publisher": "finlex",
+      "title": "§ 22 mom 1",
+      "text": "1) 8 §:ssä tarkoitetun alkutuotannon rekisteröintiä koskevan ilmoituksen tekemisestä ja käsittelystä;",
+      "clause_number": 1,
+      "section_number": "22",
+      "statute_id": ""
+    },
+    {
+      "id": "1463988a-64e4-4688-bbf6-61ee6afe1a64",
+      "node_type": "Clause",
+      "publisher": "finlex",
+      "title": "§ 22 mom 2",
+      "text": "2) 9 §:ssä tarkoitetun alkutuotantopaikan hyväksymistä koskevan hakemuksen ja hyväksymispäätöksen tekemisestä;",
+      "clause_number": 2,
+      "section_number": "22",
+      "statute_id": ""
+    },
+    {
+      "id": "31861b52-9bfa-4133-ae84-f506067e2325",
+      "node_type": "Clause",
+      "publisher": "finlex",
+      "title": "§ 22 mom 3",
+      "text": "3) 10 §:ssä tarkoitetun elintarviketoiminnan rekisteröintiä koskevan ilmoituksen tekemisestä ja käsittelystä;",
+      "clause_number": 3,
+      "section_number": "22",
+      "statute_id": ""
+    },
+    {
+      "id": "38937283-97c0-41ae-8982-98a8aa4aee49",
+      "node_type": "Clause",
+      "publisher": "finlex",
+      "title": "§ 22 mom 4",
+      "text": "4) 11 §:ssä tarkoitetun elintarvikehuoneiston hyväksymistä koskevan hakemuksen ja hyväksymispäätöksen tekemisestä;",
+      "clause_number": 4,
+      "section_number": "22",
+      "statute_id": ""
+    },
+    {
+      "id": "48e61b89-25b8-4a0a-9802-fdc26ab967d3",
+      "node_type": "Clause",
+      "publisher": "finlex",
+      "title": "§ 22 mom 5",
+      "text": "5) 12 §:ssä tarkoitetusta tiedottamisesta;",
+      "clause_number": 5,
+      "section_number": "22",
+      "statute_id": ""
+    },
+    {
+      "id": "e6713f10-0131-4605-99ba-f18860299de5",
+      "node_type": "Clause",
+      "publisher": "finlex",
+      "title": "§ 22 mom 6",
+      "text": "6) 13 §:ssä tarkoitetun kontaktimateriaalitoiminnan rekisteröintiä koskevan ilmoituksen tekemisestä;",
+      "clause_number": 6,
+      "section_number": "22",
+      "statute_id": ""
+    },
+    {
+      "id": "288df203-fcce-43b6-965d-0ae174de52b1",
+      "node_type": "Clause",
+      "publisher": "finlex",
+      "title": "§ 22 mom 7",
+      "text": "7) 14 §:ssä tarkoitetuista elintarvikkeiden, elintarviketuotantoon käytettävien eläinten ja elintarvikekontaktimateriaalien jäljitettävyydestä, elintarvikkeisiin, elintarviketuotantoon käytettäviin eläimiin ja elintarvikekontaktimateriaaleihin sekä niiden käsittelyyn ja kuljetukseen liittyvistä kirjaamisvaatimuksista ja asiakirjoista sekä eläinperäisiä elintarvikkeita koskevista merkinnöistä;",
+      "clause_number": 7,
+      "section_number": "22",
+      "statute_id": ""
+    },
+    {
+      "id": "315b5438-9333-4258-a24e-d6a00b9d7844",
+      "node_type": "Clause",
+      "publisher": "finlex",
+      "title": "§ 22 mom 8",
+      "text": "8) 15 §:ssä tarkoitetuista elintarvikealan ja kontaktimateriaalialan toimijoiden omavalvonnasta ja siihen liittyvistä kirjaamisvaatimuksista;",
+      "clause_number": 8,
+      "section_number": "22",
+      "statute_id": ""
+    },
+    {
+      "id": "ab7ba023-4cca-47e7-a677-1ed5685332e9",
+      "node_type": "Clause",
+      "publisher": "finlex",
+      "title": "§ 22 mom 9",
+      "text": "9) 16 §:ssä tarkoitetusta valvontatietojen julkistamiseen liittyvien tarkastusten tekemisestä sekä valvontatietojen julkistamisesta;",
+      "clause_number": 9,
+      "section_number": "22",
+      "statute_id": ""
+    },
+    {
+      "id": "427bf0af-1ce6-4790-a7da-7ce602caf9fc",
+      "node_type": "Clause",
+      "publisher": "finlex",
+      "title": "§ 22 mom 10",
+      "text": "10) 17 §:ssä tarkoitettujen ilmoitusten tekemisestä;",
+      "clause_number": 10,
+      "section_number": "22",
+      "statute_id": ""
+    },
+    {
+      "id": "59c42cd3-a219-4525-9f75-6c570e8c52d5",
+      "node_type": "Clause",
+      "publisher": "finlex",
+      "title": "§ 22 mom 11",
+      "text": "11) 18 §:ssä tarkoitetuista zoonoosien seurannasta ja valvonnasta, tutkimustietojen toimittamisesta sekä zoonoosien aiheuttajien leviämisen estämiseen liittyvistä elintarvikealan toimijan velvollisuuksista.",
+      "clause_number": 11,
+      "section_number": "22",
+      "statute_id": ""
+    },
+    {
+      "id": "50ccc323-733b-4adb-a1d1-f05e3dc6cb38",
+      "node_type": "Clause",
+      "publisher": "finlex",
+      "title": "§ 24 mom 1",
+      "text": "1) ohjaa aluehallintovirastoja kuntien elintarvikevalvonnan suunnittelussa, ohjauksessa ja arvioinnissa;",
+      "clause_number": 1,
+      "section_number": "24",
+      "statute_id": ""
+    },
+    {
+      "id": "d7e705a9-ab26-4570-8dcc-e5cd5abfde01",
+      "node_type": "Clause",
+      "publisher": "finlex",
+      "title": "§ 24 mom 2",
+      "text": "2) huolehtii lihantarkastuksesta ja muusta elintarvikevalvonnasta teurastamoissa, riistan käsittelylaitoksissa ja niiden yhteydessä olevissa hyväksytyissä elintarvikehuoneistoissa;",
+      "clause_number": 2,
+      "section_number": "24",
+      "statute_id": ""
+    },
+    {
+      "id": "232206da-e2af-486e-be09-8667c3b7f39c",
+      "node_type": "Clause",
+      "publisher": "finlex",
+      "title": "§ 24 mom 3",
+      "text": "3) huolehtii tarvittaessa ante mortem -tarkastuksesta alkuperätilalla tai muualla teurastamon ulkopuolella;",
+      "clause_number": 3,
+      "section_number": "24",
+      "statute_id": ""
+    },
+    {
+      "id": "3e88e90c-c886-45cb-b277-09ae1120e1f7",
+      "node_type": "Clause",
+      "publisher": "finlex",
+      "title": "§ 24 mom 4",
+      "text": "4) nimeää tarvittaessa muun kuin Ruokaviraston tai kunnan palveluksessa olevan eläinlääkärin tekemään ante mortem -tarkastuksen alkuperätilalla tai muualla teurastamon ulkopuolella;",
+      "clause_number": 4,
+      "section_number": "24",
+      "statute_id": ""
+    },
+    {
+      "id": "2b74740d-471b-4db5-85b7-a1870a7801c1",
+      "node_type": "Clause",
+      "publisher": "finlex",
+      "title": "§ 24 mom 5",
+      "text": "5) julkaisee suorittamansa elintarvikevalvonnan tulokset;",
+      "clause_number": 5,
+      "section_number": "24",
+      "statute_id": ""
+    },
+    {
+      "id": "c14c6f96-4573-4a0d-bcc2-f7ff3cba498c",
+      "node_type": "Clause",
+      "publisher": "finlex",
+      "title": "§ 24 mom 6",
+      "text": "6) valvoo, että 34 §:ssä tarkoitetut laboratoriot noudattavat elintarvikesäännöksiä;",
+      "clause_number": 6,
+      "section_number": "24",
+      "statute_id": ""
+    },
+    {
+      "id": "91f64d70-ad29-4687-b86c-11073f4ec105",
+      "node_type": "Clause",
+      "publisher": "finlex",
+      "title": "§ 24 mom 7",
+      "text": "7) vastaa tarvittaessa yhteistyössä kuntien kanssa Euroopan unionin lainsäädännössä edellytettävien ja kansallisten seuranta- ja valvontaohjelmien suunnittelusta ja toteutuksesta;",
+      "clause_number": 7,
+      "section_number": "24",
+      "statute_id": ""
+    },
+    {
+      "id": "f705f827-823e-4923-9535-d7f8630d9274",
+      "node_type": "Clause",
+      "publisher": "finlex",
+      "title": "§ 24 mom 8",
+      "text": "8) osallistuu tarvittaessa yhteistyössä kuntien kanssa elintarvikevalvonnan viranomaisnäytteiden sekä 7 kohdassa tarkoitettuihin seuranta- ja valvontaohjelmiin liittyvien näytteiden ottamisen ja analysoinnin suunnitteluun ja toteuttamiseen;",
+      "clause_number": 8,
+      "section_number": "24",
+      "statute_id": ""
+    },
+    {
+      "id": "2e3633a7-2e7d-4efc-aec1-3b422f15cf4e",
+      "node_type": "Clause",
+      "publisher": "finlex",
+      "title": "§ 24 mom 9",
+      "text": "9) vastaa valtakunnallisesti erityistä asiantuntemusta vaativista elintarviketurvallisuuden valvontatehtävistä ja muista virallisista tehtävistä sekä valvontaraporttien kokoamisesta;",
+      "clause_number": 9,
+      "section_number": "24",
+      "statute_id": ""
+    },
+    {
+      "id": "afd7086c-446b-4c5e-996f-b0b9e77451a0",
+      "node_type": "Clause",
+      "publisher": "finlex",
+      "title": "§ 24 mom 10",
+      "text": "10) toimii Euroopan unionin lainsäädännössä ja kansainvälisissä sopimuksissa edellytettynä kansallisena viranomaisena tai yhteyspisteenä elintarvikevalvontaan liittyvissä asioissa silloin, kun sitä ei ole säädetty muun viranomaisen tehtäväksi;",
+      "clause_number": 10,
+      "section_number": "24",
+      "statute_id": ""
+    },
+    {
+      "id": "4e1e29f7-a06a-4690-96e3-238adfffcf26",
+      "node_type": "Clause",
+      "publisher": "finlex",
+      "title": "§ 24 mom 11",
+      "text": "11) arvioi elintarvikehygieniasta annetun Euroopan parlamentin ja neuvoston asetuksen (EY) N:o 852/2004 8 artiklassa tarkoitetut hyvän käytännön ohjeet;",
+      "clause_number": 11,
+      "section_number": "24",
+      "statute_id": ""
+    },
+    {
+      "id": "f1585c57-3302-4c59-a6e3-fd547bed8919",
+      "node_type": "Clause",
+      "publisher": "finlex",
+      "title": "§ 24 mom 12",
+      "text": "12) laatii virallisesta valvonnasta ja muista virallisista toimista, jotka suoritetaan elintarvike- ja rehulainsäädännön ja eläinten terveyttä ja hyvinvointia, kasvien terveyttä ja kasvinsuojeluaineita koskevien sääntöjen soveltamisen varmistamiseksi, sekä Euroopan parlamentin ja neuvoston asetusten (EY) N:o 999/2001, (EY) N:o 396/2005, (EY) N:o 1069/2009, (EY) N:o 1107/2009, (EU) N:o 1151/2012, (EU) N:o 652/2014, (EU) 2016/429 ja (EU) 2016/2031, neuvoston asetusten (EY) N:o 1/2005 ja (EY) N:o 1099/2009 ja neuvoston direktiivien 98/58/EY, 1999/74/EY, 2007/43/EY, 2008/119/EY ja 2008/120/EY muuttamisesta ja Euroopan parlamentin ja neuvoston asetusten (EY) N:o 854/2004 ja (EY) N:o 882/2004, neuvoston direktiivien 89/608/ETY, 89/662/ETY, 90/425/ETY, 91/496/ETY, 96/23/EY, 96/93/EY ja 97/78/EY ja neuvoston päätöksen 92/438/ETY kumoamisesta annetun Euroopan parlamentin ja neuvoston asetuksen (EU) 2017/625 115 artiklassa tarkoitetun elintarvikkeita koskevan valtakunnallisen\nvalmiussuunnitelman;",
+      "clause_number": 12,
+      "section_number": "24",
+      "statute_id": ""
+    },
+    {
+      "id": "36c2b3a5-f357-4c1e-8be2-ac1f5ea5b21f",
+      "node_type": "Clause",
+      "publisher": "finlex",
+      "title": "§ 24 mom 13",
+      "text": "13) johtaa ATP-sopimuksessa edellytettyä määräysten kansallista valvontaa ja hyväksyy mainitussa sopimuksessa edellytetyt kausitarkastus- ja tyyppitarkastusasemat.",
+      "clause_number": 13,
+      "section_number": "24",
+      "statute_id": ""
+    },
+    {
+      "id": "ded570a5-165c-4e06-b364-d9123a3f3cfe",
+      "node_type": "Clause",
+      "publisher": "finlex",
+      "title": "§ 25 mom 1",
+      "text": "1) arvioi kunnan elintarvikevalvonnan järjestämistä ja julkaisee arvioinnin tulokset;",
+      "clause_number": 1,
+      "section_number": "25",
+      "statute_id": ""
+    },
+    {
+      "id": "c313a962-5b44-4a27-b41f-3bf120a91bde",
+      "node_type": "Clause",
+      "publisher": "finlex",
+      "title": "§ 25 mom 2",
+      "text": "2) arvioi kuntien valvontasuunnitelmat sekä tarkastaa niiden noudattamista;",
+      "clause_number": 2,
+      "section_number": "25",
+      "statute_id": ""
+    },
+    {
+      "id": "03385a46-7024-4be9-ba21-0a80801d5202",
+      "node_type": "Clause",
+      "publisher": "finlex",
+      "title": "§ 25 mom 3",
+      "text": "3) julkaisee suorittamansa elintarvikevalvonnan tulokset;",
+      "clause_number": 3,
+      "section_number": "25",
+      "statute_id": ""
+    },
+    {
+      "id": "ec5cbe07-a449-4855-adba-567407a22a4b",
+      "node_type": "Clause",
+      "publisher": "finlex",
+      "title": "§ 25 mom 4",
+      "text": "4) valvoo helposti pilaantuvien elintarvikkeiden kansainvälisiä kuljetuksia ja tällaisissa kuljetuksissa käytettävää erityiskalustoa ATP-sopimuksen mukaisesti.",
+      "clause_number": 4,
+      "section_number": "25",
+      "statute_id": ""
+    },
+    {
+      "id": "ab64e74f-bd93-4c79-b8c4-72d24b1e8665",
+      "node_type": "Clause",
+      "publisher": "finlex",
+      "title": "§ 25 mom 1",
+      "text": "1) lihantarkastuksesta ja muusta elintarvikevalvonnasta poroteurastamoissa ja niiden yhteydessä olevissa hyväksytyissä elintarvikehuoneistoissa;",
+      "clause_number": 1,
+      "section_number": "25",
+      "statute_id": ""
+    },
+    {
+      "id": "ebe441b7-ace2-43fb-96bc-ee41b4538b32",
+      "node_type": "Clause",
+      "publisher": "finlex",
+      "title": "§ 25 mom 2",
+      "text": "2) tarvittaessa poroteurastamossa teurastettavan eläimen ante mortem -tarkastuksesta alkuperätilalla tai muualla teurastamon ulkopuolella.",
+      "clause_number": 2,
+      "section_number": "25",
+      "statute_id": ""
+    },
+    {
+      "id": "9c5c25d9-b502-45d6-beef-1008ec12982c",
+      "node_type": "Clause",
+      "publisher": "finlex",
+      "title": "§ 27 mom 1",
+      "text": "1) tekee aluehallintovirastoille ja Ruokavirastolle elintarvikesäännösten mukaiset ilmoitukset ja raportit;",
+      "clause_number": 1,
+      "section_number": "27",
+      "statute_id": ""
+    },
+    {
+      "id": "34e6ab78-8355-4d81-9b65-b73b8fd58c4c",
+      "node_type": "Clause",
+      "publisher": "finlex",
+      "title": "§ 27 mom 2",
+      "text": "2) neuvoo elintarvikealan ja kontaktimateriaalialan toimijoita ja kuluttajia sekä tiedottaa tämän lain soveltamisalaan kuuluvista asioista;",
+      "clause_number": 2,
+      "section_number": "27",
+      "statute_id": ""
+    },
+    {
+      "id": "3295f9ab-2aad-47df-ae4c-ea603eca3fa8",
+      "node_type": "Clause",
+      "publisher": "finlex",
+      "title": "§ 27 mom 3",
+      "text": "3) vastaa tarvittaessa yhteistyössä ja korvausta vastaan Ruokaviraston kanssa EU-lainsäädännössä edellytettyjen ja kansallisten seuranta- ja valvontaohjelmien suunnittelusta ja toteuttamisesta;",
+      "clause_number": 3,
+      "section_number": "27",
+      "statute_id": ""
+    },
+    {
+      "id": "acdad93e-a04c-4f40-9d7e-956eb0e9390b",
+      "node_type": "Clause",
+      "publisher": "finlex",
+      "title": "§ 27 mom 2",
+      "text": "4) osallistuu tarvittaessa yhteistyössä Ruokaviraston kanssa elintarvikevalvonnan viranomaisnäytteiden sekä 24 §:n 2 momentin 7 kohdassa tarkoitettuihin seuranta- ja valvontaohjelmiin liittyvien näytteiden ottamisen ja analysoinnin suunnitteluun ja toteuttamiseen;",
+      "clause_number": 2,
+      "section_number": "27",
+      "statute_id": ""
+    },
+    {
+      "id": "dd923d71-50f5-483b-abe1-d9b70a88b429",
+      "node_type": "Clause",
+      "publisher": "finlex",
+      "title": "§ 27 mom 4",
+      "text": "4) osallistuu tarvittaessa yhteistyössä Ruokaviraston kanssa elintarvikevalvonnan viranomaisnäytteiden sekä 24 §:n 2 momentin 7 kohdassa tarkoitettuihin seuranta- ja valvontaohjelmiin liittyvien näytteiden ottamisen ja analysoinnin suunnitteluun ja toteuttamiseen;",
+      "clause_number": 4,
+      "section_number": "27",
+      "statute_id": ""
+    },
+    {
+      "id": "b0104a59-435d-478c-9995-01bc47ccc358",
+      "node_type": "Clause",
+      "publisher": "finlex",
+      "title": "§ 27 mom 5",
+      "text": "5) huolehtii tarvittaessa ante mortem -tarkastuksesta alkuperätilalla tai muualla teurastamon ulkopuolella;",
+      "clause_number": 5,
+      "section_number": "27",
+      "statute_id": ""
+    },
+    {
+      "id": "d38e5170-bf73-478a-abb5-6eda01720969",
+      "node_type": "Clause",
+      "publisher": "finlex",
+      "title": "§ 27 mom 2",
+      "text": "6) valvoo kalastus- ja vesiviljelytuotteiden osalta 14 §:n 2 momentissa säädettyjen jäljitettävyyttä koskevien velvoitteiden noudattamista;",
+      "clause_number": 2,
+      "section_number": "27",
+      "statute_id": ""
+    },
+    {
+      "id": "504a7333-474e-4839-b976-819d8196dfbe",
+      "node_type": "Clause",
+      "publisher": "finlex",
+      "title": "§ 27 mom 6",
+      "text": "6) valvoo kalastus- ja vesiviljelytuotteiden osalta 14 §:n 2 momentissa säädettyjen jäljitettävyyttä koskevien velvoitteiden noudattamista;",
+      "clause_number": 6,
+      "section_number": "27",
+      "statute_id": ""
+    },
+    {
+      "id": "88b72561-190c-4f9e-80d7-af624e9437ec",
+      "node_type": "Clause",
+      "publisher": "finlex",
+      "title": "§ 27 mom 7",
+      "text": "7) julkaisee suorittamansa elintarvikevalvonnan tulokset;",
+      "clause_number": 7,
+      "section_number": "27",
+      "statute_id": ""
+    },
+    {
+      "id": "7b342c83-afc5-472b-b047-f527bab4a457",
+      "node_type": "Clause",
+      "publisher": "finlex",
+      "title": "§ 27 mom 8",
+      "text": "8) laatii virallisesta valvonnasta ja muista virallisista toimista, jotka suoritetaan elintarvike- ja rehulainsäädännön ja eläinten terveyttä ja hyvinvointia, kasvien terveyttä ja kasvinsuojeluaineita koskevien sääntöjen soveltamisen varmistamiseksi, sekä Euroopan parlamentin ja neuvoston asetusten (EY) N:o 999/2001, (EY) N:o 396/2005, (EY) N:o 1069/2009, (EY) N:o 1107/2009, (EU) N:o 1151/2012, (EU) N:o 652/2014, (EU) 2016/429 ja (EU) 2016/2031, neuvoston asetusten (EY) N:o 1/2005 ja (EY) N:o 1099/2009 ja neuvoston direktiivien 98/58/EY, 1999/74/EY, 2007/43/EY, 2008/119/EY ja 2008/120/EY muuttamisesta ja Euroopan parlamentin ja neuvoston asetusten (EY) N:o 854/2004 ja (EY) N:o 882/2004, neuvoston direktiivien 89/608/ETY, 89/662/ETY, 90/425/ETY, 91/496/ETY, 96/23/EY, 96/93/EY ja 97/78/EY ja neuvoston päätöksen 92/438/ETY kumoamisesta annetun Euroopan parlamentin ja neuvoston asetuksen (EU) 2017/625 115 artiklassa tarkoitetun elintarvikkeita koskevan valmiussuunnitelman\ntoimialueellaan;",
+      "clause_number": 8,
+      "section_number": "27",
+      "statute_id": ""
+    },
+    {
+      "id": "5f1a9a50-3038-4e21-be83-2f1f0a26628d",
+      "node_type": "Clause",
+      "publisher": "finlex",
+      "title": "§ 27 mom 9",
+      "text": "9) valvoo helposti pilaantuvien elintarvikkeiden kansainvälisiä kuljetuksia ja tällaisissa kuljetuksissa käytettävää erityiskalustoa ATP-sopimuksen mukaisesti.",
+      "clause_number": 9,
+      "section_number": "27",
+      "statute_id": ""
+    },
+    {
+      "id": "11e152ab-ae01-4a88-984d-2cc1d3e8ded3",
+      "node_type": "Clause",
+      "publisher": "finlex",
+      "title": "§ 28 mom 1",
+      "text": "1) suunnittelee, ohjaa ja suorittaa yli 2,8 tilavuusprosenttia etyylialkoholia sisältävien juomien valvontaa;",
+      "clause_number": 1,
+      "section_number": "28",
+      "statute_id": ""
+    },
+    {
+      "id": "798cb19e-6fdd-4d5c-bb08-c3f0b2f1166a",
+      "node_type": "Clause",
+      "publisher": "finlex",
+      "title": "§ 28 mom 2",
+      "text": "2) ohjaa aluehallintovirastoja alkoholijuomien vähittäismyyntitilojen valvonnassa.",
+      "clause_number": 2,
+      "section_number": "28",
+      "statute_id": ""
+    },
+    {
+      "id": "fe96178b-e2d6-4fd0-8cf2-f2eec89d7567",
+      "node_type": "Clause",
+      "publisher": "finlex",
+      "title": "§ 30 mom 1",
+      "text": "1) Euroopan unionin jäsenvaltioista Suomeen toimitettavien muiden kuin eläinperäisten elintarvikkeiden ja elintarvikekontaktimateriaalien elintarvikesäännöstenmukaisuutta Suomessa tapahtuvan tuote-erän purkamisen tai siihen liittyvän varastoinnin yhteydessä;",
+      "clause_number": 1,
+      "section_number": "30",
+      "statute_id": ""
+    },
+    {
+      "id": "416835bd-be1c-476e-b8df-5707d956e477",
+      "node_type": "Clause",
+      "publisher": "finlex",
+      "title": "§ 30 mom 2",
+      "text": "2) Suomesta Euroopan unionin ulkopuolelle vietävien muiden kuin eläinperäisten elintarvikkeiden ja elintarvikekontaktimateriaalien asiakirjojen oikeellisuutta;",
+      "clause_number": 2,
+      "section_number": "30",
+      "statute_id": ""
+    },
+    {
+      "id": "a2981d2c-d3a3-47ce-9497-d3e7e6a591eb",
+      "node_type": "Clause",
+      "publisher": "finlex",
+      "title": "§ 30 mom 3",
+      "text": "3) helposti pilaantuvien elintarvikkeiden kansainvälisiä kuljetuksia ja tällaisissa kuljetuksissa käytettävää erityiskalustoa ATP-sopimuksen mukaisesti.",
+      "clause_number": 3,
+      "section_number": "30",
+      "statute_id": ""
+    },
+    {
+      "id": "2e82c437-994f-4910-be4c-665abbe20d05",
+      "node_type": "Clause",
+      "publisher": "finlex",
+      "title": "§ 31 mom 1",
+      "text": "1) toimia väestön ravitsemuksen edistämisen asiantuntijaelimenä;",
+      "clause_number": 1,
+      "section_number": "31",
+      "statute_id": ""
+    },
+    {
+      "id": "dfeaa353-2c05-403d-b665-621a0c3325c1",
+      "node_type": "Clause",
+      "publisher": "finlex",
+      "title": "§ 31 mom 2",
+      "text": "2) laatia kansalliset ravitsemussuositukset;",
+      "clause_number": 2,
+      "section_number": "31",
+      "statute_id": ""
+    },
+    {
+      "id": "dd30a9ea-cee3-479d-8202-d05fe1ab033c",
+      "node_type": "Clause",
+      "publisher": "finlex",
+      "title": "§ 31 mom 3",
+      "text": "3) tehdä toimenpide-esityksiä ja aloitteita ravitsemuksen ja ruokajärjestelmän parantamiseksi;",
+      "clause_number": 3,
+      "section_number": "31",
+      "statute_id": ""
+    },
+    {
+      "id": "95d843e6-fe10-40dd-9118-229bc8506995",
+      "node_type": "Clause",
+      "publisher": "finlex",
+      "title": "§ 31 mom 4",
+      "text": "4) antaa lausuntoja toimialaansa liittyen;",
+      "clause_number": 4,
+      "section_number": "31",
+      "statute_id": ""
+    },
+    {
+      "id": "aa623d55-8a29-49b9-9a23-7d7fe687025a",
+      "node_type": "Clause",
+      "publisher": "finlex",
+      "title": "§ 31 mom 5",
+      "text": "5) seurata ja arvioida toimenpiteiden vaikutuksia ravitsemukseen, terveyteen ja ruokajärjestelmään.",
+      "clause_number": 5,
+      "section_number": "31",
+      "statute_id": ""
+    },
+    {
+      "id": "3fdb4243-53c7-41d0-bebb-e67937c921b3",
+      "node_type": "Clause",
+      "publisher": "finlex",
+      "title": "§ 36 mom 1",
+      "text": "1) toimeksiantajalleen vaaraan viittaavista tutkimustuloksista;",
+      "clause_number": 1,
+      "section_number": "36",
+      "statute_id": ""
+    },
+    {
+      "id": "54acb6de-9fcf-4aa4-bf11-835a1c91b589",
+      "node_type": "Clause",
+      "publisher": "finlex",
+      "title": "§ 36 mom 2",
+      "text": "2) toimeksiantajaa valvovalle toimivaltaiselle viranomaiselle ja Ruokavirastolle vakavaan vaaraan viittaavasta tutkimustuloksesta.",
+      "clause_number": 2,
+      "section_number": "36",
+      "statute_id": ""
+    },
+    {
+      "id": "522cd6ad-c7c1-46d9-bcda-2744df111602",
+      "node_type": "Clause",
+      "publisher": "finlex",
+      "title": "§ 36 mom 3",
+      "text": "Laboratorion on säilytettävä näytteet ja taudinaiheuttajat sekä niitä koskevat tiedot 3 momentissa tarkoitetusta tutkimuksesta ja lähetettävä ne Ruokaviraston pyynnöstä kansalliseen vertailulaboratorioon.",
+      "clause_number": 3,
+      "section_number": "36",
+      "statute_id": ""
+    },
+    {
+      "id": "b8750098-b895-4648-8d80-af4e87e4fe5a",
+      "node_type": "Clause",
+      "publisher": "finlex",
+      "title": "§ 37 mom 2",
+      "text": "1) 34 §:n 2 momentissa tarkoitettuja virallisia laboratorioita ja niitä arvioivien toimielinten pätevyyttä kuvaavista standardeista ja laboratorioiden laatujärjestelmälle asetettavista vaatimuksista;",
+      "clause_number": 2,
+      "section_number": "37",
+      "statute_id": ""
+    },
+    {
+      "id": "a30ec076-33c1-427a-8603-0e551c34d2b9",
+      "node_type": "Clause",
+      "publisher": "finlex",
+      "title": "§ 37 mom 1",
+      "text": "1) 34 §:n 2 momentissa tarkoitettuja virallisia laboratorioita ja niitä arvioivien toimielinten pätevyyttä kuvaavista standardeista ja laboratorioiden laatujärjestelmälle asetettavista vaatimuksista;",
+      "clause_number": 1,
+      "section_number": "37",
+      "statute_id": ""
+    },
+    {
+      "id": "b808a0d5-bacb-4b9a-933d-f7583716f813",
+      "node_type": "Clause",
+      "publisher": "finlex",
+      "title": "§ 37 mom 2",
+      "text": "2) Euroopan unionin lainsäädännössä säädetyistä laboratorion nimeämisen edellytyksistä;",
+      "clause_number": 2,
+      "section_number": "37",
+      "statute_id": ""
+    },
+    {
+      "id": "c293fa7c-48f3-42de-9db1-4bd371353d05",
+      "node_type": "Clause",
+      "publisher": "finlex",
+      "title": "§ 37 mom 3",
+      "text": "3) laboratorioiden henkilökunnan koulutus- ja pätevyysvaatimuksista;",
+      "clause_number": 3,
+      "section_number": "37",
+      "statute_id": ""
+    },
+    {
+      "id": "c7ba29d8-b143-4354-a785-f4a4a3192916",
+      "node_type": "Clause",
+      "publisher": "finlex",
+      "title": "§ 37 mom 1",
+      "text": "4) 36 §:n 1 momentissa tarkoitettujen ilmoitusten ja 2 momentissa tarkoitettujen tietojen ja yhteenvetojen sisällöstä ja toimittamisesta sekä 36 §:n 3 momentissa tarkoitetusta vaarasta.",
+      "clause_number": 1,
+      "section_number": "37",
+      "statute_id": ""
+    },
+    {
+      "id": "fb17482d-099e-4494-883a-422e63ffce96",
+      "node_type": "Clause",
+      "publisher": "finlex",
+      "title": "§ 37 mom 4",
+      "text": "4) 36 §:n 1 momentissa tarkoitettujen ilmoitusten ja 2 momentissa tarkoitettujen tietojen ja yhteenvetojen sisällöstä ja toimittamisesta sekä 36 §:n 3 momentissa tarkoitetusta vaarasta.",
+      "clause_number": 4,
+      "section_number": "37",
+      "statute_id": ""
+    },
+    {
+      "id": "b0fd2738-f674-46dd-be52-c8c64817a453",
+      "node_type": "Clause",
+      "publisher": "finlex",
+      "title": "§ 49 mom 2",
+      "text": "1) 24 §:n 2 momentin 2–4 kohdassa, 25 §:n 2 momentissa ja 27 §:n 4 momentin 5 kohdassa ja 5 momentissa tarkoitetusta lihantarkastuksesta ja siihen liittyvästä virallisesta valvonnasta sekä siihen liittyvistä ilmoituksista sekä 42 §:ssä tarkoitetusta kirjallisesta lihantarkastuspäätöksestä;",
+      "clause_number": 2,
+      "section_number": "49",
+      "statute_id": ""
+    },
+    {
+      "id": "2a761e1b-4665-4fc8-9650-2b3a4297d89e",
+      "node_type": "Clause",
+      "publisher": "finlex",
+      "title": "§ 49 mom 1",
+      "text": "1) 24 §:n 2 momentin 2–4 kohdassa, 25 §:n 2 momentissa ja 27 §:n 4 momentin 5 kohdassa ja 5 momentissa tarkoitetusta lihantarkastuksesta ja siihen liittyvästä virallisesta valvonnasta sekä siihen liittyvistä ilmoituksista sekä 42 §:ssä tarkoitetusta kirjallisesta lihantarkastuspäätöksestä;",
+      "clause_number": 1,
+      "section_number": "49",
+      "statute_id": ""
+    },
+    {
+      "id": "de3463fb-12bb-4e81-9e82-0392b8b4dd60",
+      "node_type": "Clause",
+      "publisher": "finlex",
+      "title": "§ 49 mom 2",
+      "text": "2) 24 §:n 2 momentin 7 kohdassa tarkoitettujen seuranta- ja valvontaohjelmien sisällöstä ja toteutuksesta;",
+      "clause_number": 2,
+      "section_number": "49",
+      "statute_id": ""
+    },
+    {
+      "id": "0fdc8cd0-ec3c-4e75-a617-9c431dd9184e",
+      "node_type": "Clause",
+      "publisher": "finlex",
+      "title": "§ 49 mom 2",
+      "text": "2) 24 §:n 2 momentin 7 kohdassa tarkoitettujen seuranta- ja valvontaohjelmien sisällöstä ja toteutuksesta;",
+      "clause_number": 2,
+      "section_number": "49",
+      "statute_id": ""
+    },
+    {
+      "id": "8ed655f4-3ac9-46d2-b202-56990ca01ca0",
+      "node_type": "Clause",
+      "publisher": "finlex",
+      "title": "§ 49 mom 4",
+      "text": "3) 27 §:n 4 momentin 1 kohdassa tarkoitettujen ilmoitusten ja raporttien sisällöstä ja toimittamisesta;",
+      "clause_number": 4,
+      "section_number": "49",
+      "statute_id": ""
+    },
+    {
+      "id": "364d5034-83e7-4420-97a3-678c29f8e3ba",
+      "node_type": "Clause",
+      "publisher": "finlex",
+      "title": "§ 49 mom 3",
+      "text": "3) 27 §:n 4 momentin 1 kohdassa tarkoitettujen ilmoitusten ja raporttien sisällöstä ja toimittamisesta;",
+      "clause_number": 3,
+      "section_number": "49",
+      "statute_id": ""
+    },
+    {
+      "id": "d3d38858-79b2-48e3-819a-9fd5fc3e5713",
+      "node_type": "Clause",
+      "publisher": "finlex",
+      "title": "§ 49 mom 4",
+      "text": "4) 41 §:ssä tarkoitetusta näytteenotosta;",
+      "clause_number": 4,
+      "section_number": "49",
+      "statute_id": ""
+    },
+    {
+      "id": "fdeef33b-8d95-4221-a40a-7ef22118a24b",
+      "node_type": "Clause",
+      "publisher": "finlex",
+      "title": "§ 49 mom 5",
+      "text": "5) 45 §:ssä tarkoitetusta valvontaviranomaisten ilmoitus- ja tiedonantovelvollisuudesta;",
+      "clause_number": 5,
+      "section_number": "49",
+      "statute_id": ""
+    },
+    {
+      "id": "f6bca1b4-0b7c-4426-b54f-f9601fc9fc0a",
+      "node_type": "Clause",
+      "publisher": "finlex",
+      "title": "§ 49 mom 6",
+      "text": "6) 48 §:ssä tarkoitetuista näytteenottosuunnitelmista, ilmoitusten tekemisestä ja sisällöstä sekä viranomaisten toimenpiteistä zoonoosien selvittämiseksi.",
+      "clause_number": 6,
+      "section_number": "49",
+      "statute_id": ""
+    },
+    {
+      "id": "520fcdb1-de96-4d94-9d3e-02ad737fd8b0",
+      "node_type": "Clause",
+      "publisher": "finlex",
+      "title": "§ 49 mom 1",
+      "text": "1) eläinperäisistä elintarvikkeista valvontaviranomaisille ilmoitettavista tiedoista, kun elintarvikkeita tuodaan sisämarkkinoilta;",
+      "clause_number": 1,
+      "section_number": "49",
+      "statute_id": ""
+    },
+    {
+      "id": "98ba7915-584f-4296-8aac-24bd95242ae2",
+      "node_type": "Clause",
+      "publisher": "finlex",
+      "title": "§ 49 mom 2",
+      "text": "2) lihatarkastuksessa käytettävistä menetelmistä;",
+      "clause_number": 2,
+      "section_number": "49",
+      "statute_id": ""
+    },
+    {
+      "id": "c1133238-6967-48f6-a5d7-88093b90d8af",
+      "node_type": "Clause",
+      "publisher": "finlex",
+      "title": "§ 49 mom 3",
+      "text": "3) trikiinitutkimusten tiheydestä ja kattavuudesta, jos virallisia lihan trikiinitarkastuksia koskevista erityissäännöistä annetussa komission täytäntöönpanoasetuksessa (EU) 2015/1375 sallitaan tutkimus tai edellytetään tutkimusta.",
+      "clause_number": 3,
+      "section_number": "49",
+      "statute_id": ""
+    },
+    {
+      "id": "a4e342e5-b176-4d2d-a89e-e0c50546ddf0",
+      "node_type": "Clause",
+      "publisher": "finlex",
+      "title": "§ 52 mom 1",
+      "text": "1) elintarvikkeiden kansallisen laatujärjestelmän hyväksymisen hakemisesta, hyväksymisestä ja hyväksymisen peruuttamisesta;",
+      "clause_number": 1,
+      "section_number": "52",
+      "statute_id": ""
+    },
+    {
+      "id": "17d55a0e-8752-407d-8246-83290618dece",
+      "node_type": "Clause",
+      "publisher": "finlex",
+      "title": "§ 52 mom 2",
+      "text": "2) riippumattoman tahon tarkastuksesta, tarkastuksen tulosten raportoinnista ja laatujärjestelmää koskevien tietojen julkaisemisesta.",
+      "clause_number": 2,
+      "section_number": "52",
+      "statute_id": ""
+    },
+    {
+      "id": "d8074767-4a36-4133-b423-2b4be0c90bc6",
+      "node_type": "Clause",
+      "publisher": "finlex",
+      "title": "§ 54 mom 1",
+      "text": "1) nimisuojatuotteiden rekisteröinnin hakemisesta ja vastaväitemenettelyn järjestämisestä;",
+      "clause_number": 1,
+      "section_number": "54",
+      "statute_id": ""
+    },
+    {
+      "id": "1ef264ed-7512-447b-b6c3-6788cdaadaa1",
+      "node_type": "Clause",
+      "publisher": "finlex",
+      "title": "§ 54 mom 2",
+      "text": "2) ilmoitusvelvollisista elintarvikealan toimijoista, ilmoituksissa annettavista tiedoista ja ilmoitusten antamistavasta.",
+      "clause_number": 2,
+      "section_number": "54",
+      "statute_id": ""
+    },
+    {
+      "id": "6683f184-08e7-4849-bd6e-7bee714128cd",
+      "node_type": "Clause",
+      "publisher": "finlex",
+      "title": "§ 55 mom 1",
+      "text": "1) elintarvike tai elintarvikekontaktimateriaali, elintarvikehuoneisto tai alkutuotantopaikka taikka elintarvike- tai kontaktimateriaalitoiminta voi aiheuttaa vaaraa ihmisen terveydelle tai ne ovat muutoin elintarvikesäännösten vastaisia; tai",
+      "clause_number": 1,
+      "section_number": "55",
+      "statute_id": ""
+    },
+    {
+      "id": "69f960c2-6958-4f77-99df-cf968d39d2b5",
+      "node_type": "Clause",
+      "publisher": "finlex",
+      "title": "§ 55 mom 2",
+      "text": "2) elintarvikkeesta tai elintarvikekontaktimateriaalista annetut tiedot voivat aiheuttaa vaaraa ihmisen terveydelle tai johtaa kuluttajaa harhaan.",
+      "clause_number": 2,
+      "section_number": "55",
+      "statute_id": ""
+    },
+    {
+      "id": "e1c26c4a-3966-4466-a0c1-49cc34ad74ef",
+      "node_type": "Clause",
+      "publisher": "finlex",
+      "title": "§ 67 mom 1",
+      "text": "1) harjoittaa alkutuotantoa, elintarviketoimintaa tai kontaktimateriaalitoimintaa sellaisessa toimipaikassa, jota ei ole 9 tai 11 §:n mukaisesti hyväksytty tai josta ei ole tehty 8, 10 tai 13 §:ssä tarkoitettua ilmoitusta;",
+      "clause_number": 1,
+      "section_number": "67",
+      "statute_id": ""
+    },
+    {
+      "id": "710030b2-460e-4c9c-9fd3-f4b25b1caaae",
+      "node_type": "Clause",
+      "publisher": "finlex",
+      "title": "§ 67 mom 2",
+      "text": "2) harjoittaa elintarvikkeiden tai elintarvikekontaktimateriaalien markkinointia elintarvikesäännösten vastaisella tavalla;",
+      "clause_number": 2,
+      "section_number": "67",
+      "statute_id": ""
+    },
+    {
+      "id": "c3da8be4-5169-4195-9bc0-9b9c431b15f5",
+      "node_type": "Clause",
+      "publisher": "finlex",
+      "title": "§ 67 mom 3",
+      "text": "3) ei noudata 12 §:ssä säädettyä velvollisuutta tiedottaa elintarviketoiminnasta liikkuvassa elintarvikehuoneistossa;",
+      "clause_number": 3,
+      "section_number": "67",
+      "statute_id": ""
+    },
+    {
+      "id": "b548f21d-a2b2-4c5b-8b7d-e2c6a6d5f9ae",
+      "node_type": "Clause",
+      "publisher": "finlex",
+      "title": "§ 67 mom 4",
+      "text": "4) ei noudata 14 §:ssä säädetty vaatimusta jäljitettävyydestä;",
+      "clause_number": 4,
+      "section_number": "67",
+      "statute_id": ""
+    },
+    {
+      "id": "c1fc817d-23b7-4f1d-8cf8-0c8d413e8d36",
+      "node_type": "Clause",
+      "publisher": "finlex",
+      "title": "§ 67 mom 5",
+      "text": "5) ei noudata 15 §:ssä säädettyä vaatimusta omavalvonnasta;",
+      "clause_number": 5,
+      "section_number": "67",
+      "statute_id": ""
+    },
+    {
+      "id": "5df65d32-2aef-4e88-b9a7-55b82586a503",
+      "node_type": "Clause",
+      "publisher": "finlex",
+      "title": "§ 67 mom 6",
+      "text": "6) ei noudata 17 §:ssä säädettyä vakavia vaaroja tai ruokamyrkytyksiä koskevaa ilmoitusvelvollisuutta tai 18 §:ssä säädettyä zoonooseja koskevaa ilmoitusvelvollisuutta; tai",
+      "clause_number": 6,
+      "section_number": "67",
+      "statute_id": ""
+    },
+    {
+      "id": "d5331aec-cfbd-4d3b-9f9a-ed3a5ba0334d",
+      "node_type": "Clause",
+      "publisher": "finlex",
+      "title": "§ 67 mom 7",
+      "text": "7) ei noudata 34 tai 36 §:ssä laboratoriolle tai siellä harjoitettavalle toiminnalle säädettyjä vaatimuksia.",
+      "clause_number": 7,
+      "section_number": "67",
+      "statute_id": ""
+    },
+    {
+      "id": "3d9026f2-aac2-4c59-a016-6f80af8a8971",
+      "node_type": "Clause",
+      "publisher": "finlex",
+      "title": "§ 69 mom 1",
+      "text": "1) valmistaa, vie maasta, pitää kaupan, tarjoilee tai muutoin luovuttaa tai toimittaa elintarviketta tai valmistaa tai vie maasta elintarvikekontaktimateriaalia, joka ei täytä 6 §:ssä säädettyä vaatimusta tai",
+      "clause_number": 1,
+      "section_number": "69",
+      "statute_id": ""
+    },
+    {
+      "id": "4b893311-907c-476c-b062-283bae148b85",
+      "node_type": "Clause",
+      "publisher": "finlex",
+      "title": "§ 69 mom 2",
+      "text": "2) rikkoo valvontaviranomaisen 55–57, 59 tai 66 §:n nojalla antamaa määräystä tai kieltoa, 58 §:n nojalla antamaa haltuunottopäätöstä taikka 60 tai 62 §:n nojalla antamaa hyväksymisen tai nimeämisen peruuttamista taikka 61 §:n nojalla antamaa toiminnan keskeyttämistä tai lopettamista koskevaa päätöstä,",
+      "clause_number": 2,
+      "section_number": "69",
+      "statute_id": ""
+    },
+    {
+      "id": "ef919768-0880-4fc6-99cb-d6e19c6b6060",
+      "node_type": "Clause",
+      "publisher": "finlex",
+      "title": "§ 71 mom 1",
+      "text": "1) alentaa pieniä eläinmääriä teurastavien teurastamoiden ja riistan käsittelylaitosten lihantarkastus- ja valvontamaksuja enintään virallisesta valvonnasta ja muista virallisista toimista, jotka suoritetaan elintarvike- ja rehulainsäädännön ja eläinten terveyttä ja hyvinvointia, kasvien terveyttä ja kasvinsuojeluaineita koskevien sääntöjen soveltamisen varmistamiseksi, sekä Euroopan parlamentin ja neuvoston asetusten (EY) N:o 999/2001, (EY) N:o 396/2005, (EY) N:o 1069/2009, (EY) N:o 1107/2009, (EU) N:o 1151/2012, (EU) N:o 652/2014, (EU) 2016/429 ja (EU) 2016/2031, neuvoston asetusten (EY) N:o 1/2005 ja (EY) N:o 1099/2009 ja neuvoston direktiivien 98/58/EY, 1999/74/EY, 2007/43/EY, 2008/119/EY ja 2008/120/EY muuttamisesta ja Euroopan parlamentin ja neuvoston asetusten (EY) N:o 854/2004 ja (EY) N:o 882/2004, neuvoston direktiivien 89/608/ETY, 89/662/ETY, 90/425/ETY, 91/496/ETY, 96/23/EY, 96/93/EY ja 97/78/EY ja neuvoston päätöksen 92/438/ETY kumoamisesta\nannetun Euroopan parlamentin ja neuvoston asetuksen (EU) 2017/625 liitteen IV II luvussa säädetylle tasolle;",
+      "clause_number": 1,
+      "section_number": "71",
+      "statute_id": ""
+    },
+    {
+      "id": "24904f7c-4369-4689-a9d9-1a32179cd7d7",
+      "node_type": "Clause",
+      "publisher": "finlex",
+      "title": "§ 71 mom 2",
+      "text": "2) antaa tarkempia säännöksiä Euroopan parlamentin ja neuvoston asetuksen (EU) 2017/625 79–82 artiklassa edellytetyistä kansallisista järjestelyistä ja maksujen suuruuden määräämisestä.",
+      "clause_number": 2,
+      "section_number": "71",
+      "statute_id": ""
+    },
+    {
+      "id": "97ff4668-aa1a-4e23-af80-2b31269bcaab",
+      "node_type": "Clause",
+      "publisher": "finlex",
+      "title": "§ 72 mom 1",
+      "text": "1) itujen alkutuotantoa 9 §:ssä tarkoitetussa hyväksytyssä itujen alkutuotantopaikassa;",
+      "clause_number": 1,
+      "section_number": "72",
+      "statute_id": ""
+    },
+    {
+      "id": "b487cdc9-1aca-4f94-af99-e608b0d20a0f",
+      "node_type": "Clause",
+      "publisher": "finlex",
+      "title": "§ 72 mom 2",
+      "text": "2) 10 §:ssä tarkoitettua rekisteröityä elintarviketoimintaa;",
+      "clause_number": 2,
+      "section_number": "72",
+      "statute_id": ""
+    },
+    {
+      "id": "46eadb5e-615c-4bf2-8384-689b1cbf727b",
+      "node_type": "Clause",
+      "publisher": "finlex",
+      "title": "§ 72 mom 3",
+      "text": "3) elintarviketoimintaa 11 §:ssä tarkoitetussa hyväksytyssä elintarvikehuoneistossa;",
+      "clause_number": 3,
+      "section_number": "72",
+      "statute_id": ""
+    },
+    {
+      "id": "46a78fc9-bc6c-420d-a6d9-452e00cdc3ed",
+      "node_type": "Clause",
+      "publisher": "finlex",
+      "title": "§ 72 mom 4",
+      "text": "4) 13 §:ssä tarkoitettua rekisteröityä elintarvikekontaktimateriaalitoimintaa.",
+      "clause_number": 4,
+      "section_number": "72",
+      "statute_id": ""
+    },
+    {
+      "id": "113581c4-0f70-4b0b-b205-3ef909d3cb01",
+      "node_type": "Clause",
+      "publisher": "finlex",
+      "title": "§ 73 mom 1",
+      "text": "1) 10 ja 13 §:ssä tarkoitettujen rekisteröintiä koskevien ilmoitusten sekä 9 ja 11 §:ssä tarkoitettujen hyväksymistä koskevien hakemusten ja ilmoitusten käsittelystä;",
+      "clause_number": 1,
+      "section_number": "73",
+      "statute_id": ""
+    },
+    {
+      "id": "7aca4bd1-3aa6-49d4-a0e8-930c88f59cf3",
+      "node_type": "Clause",
+      "publisher": "finlex",
+      "title": "§ 73 mom 1",
+      "text": "2) kunnan valvontasuunnitelmaan sisältyvästä 72 §:n 1 momentissa tarkoitettua toimintaa koskevasta tarkastuksesta ja näytteiden tutkimisesta;",
+      "clause_number": 1,
+      "section_number": "73",
+      "statute_id": ""
+    },
+    {
+      "id": "95fb3176-35d2-4d48-99f0-707366751a4b",
+      "node_type": "Clause",
+      "publisher": "finlex",
+      "title": "§ 73 mom 2",
+      "text": "2) kunnan valvontasuunnitelmaan sisältyvästä 72 §:n 1 momentissa tarkoitettua toimintaa koskevasta tarkastuksesta ja näytteiden tutkimisesta;",
+      "clause_number": 2,
+      "section_number": "73",
+      "statute_id": ""
+    },
+    {
+      "id": "91cbb1c1-343f-4117-9d0f-88b9cc038c38",
+      "node_type": "Clause",
+      "publisher": "finlex",
+      "title": "§ 73 mom 1",
+      "text": "3) 40 §:n 1 momentissa tarkoitetun kehotuksen noudattamisen valvomiseksi tehdystä tarkastuksesta;",
+      "clause_number": 1,
+      "section_number": "73",
+      "statute_id": ""
+    },
+    {
+      "id": "41b8da86-f5c4-4b0c-8958-c9e56da49d3f",
+      "node_type": "Clause",
+      "publisher": "finlex",
+      "title": "§ 73 mom 3",
+      "text": "3) 40 §:n 1 momentissa tarkoitetun kehotuksen noudattamisen valvomiseksi tehdystä tarkastuksesta;",
+      "clause_number": 3,
+      "section_number": "73",
+      "statute_id": ""
+    },
+    {
+      "id": "6ded8869-398a-40ae-94b8-4db28059f9c3",
+      "node_type": "Clause",
+      "publisher": "finlex",
+      "title": "§ 73 mom 4",
+      "text": "4) elintarvikesäännösten noudattamatta jättämiseen perustuvien 9 luvussa tarkoitettujen hallinnollisten pakkokeinojen ja sanktioiden noudattamisen valvomiseksi tehdyistä tarkastuksista;",
+      "clause_number": 4,
+      "section_number": "73",
+      "statute_id": ""
+    },
+    {
+      "id": "668ed6ea-e964-4cf3-acd2-fcf0abe59e01",
+      "node_type": "Clause",
+      "publisher": "finlex",
+      "title": "§ 73 mom 1",
+      "text": "5) Euroopan unionin ulkopuolelle elintarvikkeita vievän toimijan 51 §:n 1 momentissa tarkoitetusta valvonnasta sekä mainitun pykälän 2 momentissa tarkoitetusta vientitodistuksesta.",
+      "clause_number": 1,
+      "section_number": "73",
+      "statute_id": ""
+    },
+    {
+      "id": "2dadb0eb-702d-4aec-81b1-18bafbf2086f",
+      "node_type": "Clause",
+      "publisher": "finlex",
+      "title": "§ 73 mom 5",
+      "text": "5) Euroopan unionin ulkopuolelle elintarvikkeita vievän toimijan 51 §:n 1 momentissa tarkoitetusta valvonnasta sekä mainitun pykälän 2 momentissa tarkoitetusta vientitodistuksesta.",
+      "clause_number": 5,
+      "section_number": "73",
+      "statute_id": ""
+    },
+    {
+      "id": "7bfef7fd-1b56-4a16-98c5-4667bf4a08bc",
+      "node_type": "Clause",
+      "publisher": "finlex",
+      "title": "§ 76 mom 1",
+      "text": "1) perusmaksu on peritty aiheettomasti;",
+      "clause_number": 1,
+      "section_number": "76",
+      "statute_id": ""
+    },
+    {
+      "id": "9fb5137e-b55b-4ce6-9a2d-eebdc907a6b2",
+      "node_type": "Clause",
+      "publisher": "finlex",
+      "title": "§ 76 mom 2",
+      "text": "2) perusmaksu on maksuvelvollisen sitä aiheuttamatta jäänyt määräämättä.",
+      "clause_number": 2,
+      "section_number": "76",
+      "statute_id": ""
+    },
+    {
+      "id": "19a14874-8ed3-4065-88c4-e33811aa3441",
+      "node_type": "Clause",
+      "publisher": "finlex",
+      "title": "§ 79 mom 1",
+      "text": "1) 8 §:ssä tarkoitetusta rekisteröidystä alkutuotannosta ja 9 §:ssä tarkoitetuista hyväksytyistä alkutuotantopaikoista;",
+      "clause_number": 1,
+      "section_number": "79",
+      "statute_id": ""
+    },
+    {
+      "id": "67b2cdf5-6d19-49b1-8a21-0e7402f6aeb1",
+      "node_type": "Clause",
+      "publisher": "finlex",
+      "title": "§ 79 mom 2",
+      "text": "2) 10 §:ssä tarkoitetusta rekisteröidystä elintarviketoiminnasta ja 11 §:ssä tarkoitetuista hyväksytyistä elintarvikehuoneistoista;",
+      "clause_number": 2,
+      "section_number": "79",
+      "statute_id": ""
+    },
+    {
+      "id": "bc67cb9d-5416-4133-bf93-6a15c93f3061",
+      "node_type": "Clause",
+      "publisher": "finlex",
+      "title": "§ 79 mom 3",
+      "text": "3) 13 §:ssä tarkoitetusta rekisteröidystä kontaktimateriaalitoiminnasta;",
+      "clause_number": 3,
+      "section_number": "79",
+      "statute_id": ""
+    },
+    {
+      "id": "3d61677f-c05d-4073-8596-916e3b739f05",
+      "node_type": "Clause",
+      "publisher": "finlex",
+      "title": "§ 79 mom 4",
+      "text": "4) 34 §:ssä tarkoitetuista virallisista laboratorioista ja nimetyistä omavalvontalaboratorioista.",
+      "clause_number": 4,
+      "section_number": "79",
+      "statute_id": ""
+    },
+    {
+      "id": "350363c2-53d2-470d-99bc-02d7027be48a",
+      "node_type": "Clause",
+      "publisher": "finlex",
+      "title": "§ 79 mom 1",
+      "text": "1) 20 §:n 1 momentissa tarkoitetuista hygieniapassitestaajista sekä henkilöistä, jotka ovat osallistuneet hygieniapassitestiin;",
+      "clause_number": 1,
+      "section_number": "79",
+      "statute_id": ""
+    },
+    {
+      "id": "d9d07c28-7e2d-47fc-95ae-790cc46ce37f",
+      "node_type": "Clause",
+      "publisher": "finlex",
+      "title": "§ 79 mom 1",
+      "text": "1) 20 §:n 1 momentissa tarkoitetuista hygieniapassitestaajista sekä henkilöistä, jotka ovat osallistuneet hygieniapassitestiin;",
+      "clause_number": 1,
+      "section_number": "79",
+      "statute_id": ""
+    },
+    {
+      "id": "d7a44cf4-357d-476d-be20-e7d70cc4bd9d",
+      "node_type": "Clause",
+      "publisher": "finlex",
+      "title": "§ 79 mom 2",
+      "text": "2) 33 §:ssä tarkoitetuista toimeksiannon saaneista elimistä;",
+      "clause_number": 2,
+      "section_number": "79",
+      "statute_id": ""
+    },
+    {
+      "id": "c2f5eaab-68a2-453e-a87d-7b379f174fa5",
+      "node_type": "Clause",
+      "publisher": "finlex",
+      "title": "§ 79 mom 5",
+      "text": "3) ruokamyrkytystapausten selvittämiseen ja zoonoosien seurantaan ja valvontaan liittyvistä seikoista 36 §:n 5 momentissa ja 47 §:ssä tarkoitettujen ilmoitusten perusteella;",
+      "clause_number": 5,
+      "section_number": "79",
+      "statute_id": ""
+    },
+    {
+      "id": "f56870a7-3224-407b-8ace-ed8cda8bd890",
+      "node_type": "Clause",
+      "publisher": "finlex",
+      "title": "§ 79 mom 3",
+      "text": "3) ruokamyrkytystapausten selvittämiseen ja zoonoosien seurantaan ja valvontaan liittyvistä seikoista 36 §:n 5 momentissa ja 47 §:ssä tarkoitettujen ilmoitusten perusteella;",
+      "clause_number": 3,
+      "section_number": "79",
+      "statute_id": ""
+    },
+    {
+      "id": "c0686546-7d5d-4b10-b2fd-e815e18bf4e4",
+      "node_type": "Clause",
+      "publisher": "finlex",
+      "title": "§ 79 mom 4",
+      "text": "4) 53 §:ssä tarkoitetuista Ruokaviraston tunnustamista alkutuotantopaikoista ja lokeroista sekä lokeroihin kuuluvista alkutuotantopaikoista, jotka Ruokavirasto on tunnustanut täyttävän sikojen valvottujen pito-olosuhteiden vaatimukset;",
+      "clause_number": 4,
+      "section_number": "79",
+      "statute_id": ""
+    },
+    {
+      "id": "b6600af6-7d23-40b6-bcf8-3b06fd611c4f",
+      "node_type": "Clause",
+      "publisher": "finlex",
+      "title": "§ 79 mom 5",
+      "text": "5) eläinperäisiä elintarvikkeita koskevista erityisistä hygieniasäännöistä annetun Euroopan parlamentin ja neuvoston asetuksen (EY) N:o 853/2004 liitteen III IV jakson I luvun mukaisen metsästäjien terveys- ja hygieniakoulutuksen suorittaneista henkilöistä;",
+      "clause_number": 5,
+      "section_number": "79",
+      "statute_id": ""
+    },
+    {
+      "id": "921b813c-2600-4f7a-aabc-353e98802528",
+      "node_type": "Clause",
+      "publisher": "finlex",
+      "title": "§ 79 mom 2",
+      "text": "6) 24 §:n 2 momentin 4 kohdassa tarkoitetuista Ruokaviraston nimeämistä muista kuin Ruokaviraston tai kunnan palveluksessa olevista eläinlääkäreistä.",
+      "clause_number": 2,
+      "section_number": "79",
+      "statute_id": ""
+    },
+    {
+      "id": "acb4fe47-defe-4f21-861e-b8fd44b7f81f",
+      "node_type": "Clause",
+      "publisher": "finlex",
+      "title": "§ 79 mom 6",
+      "text": "6) 24 §:n 2 momentin 4 kohdassa tarkoitetuista Ruokaviraston nimeämistä muista kuin Ruokaviraston tai kunnan palveluksessa olevista eläinlääkäreistä.",
+      "clause_number": 6,
+      "section_number": "79",
+      "statute_id": ""
+    },
+    {
+      "id": "9cc0a0ba-9c80-4636-ab5f-d9be2f8a9f53",
+      "node_type": "Clause",
+      "publisher": "finlex",
+      "title": "§ 80 mom 1",
+      "text": "1) valvontakohteiden tunnistetiedot ja toiminnot;",
+      "clause_number": 1,
+      "section_number": "80",
+      "statute_id": ""
+    },
+    {
+      "id": "a4a7071c-b053-4073-ba19-0cc665e53f05",
+      "node_type": "Clause",
+      "publisher": "finlex",
+      "title": "§ 80 mom 2",
+      "text": "2) 53 §:n mukaisesti tunnustettujen alkutuotantopaikkojen, lokeroiden ja lokeroihin kuuluvien alkutuotantopaikkojen tunnistetiedot;",
+      "clause_number": 2,
+      "section_number": "80",
+      "statute_id": ""
+    },
+    {
+      "id": "bad7a6ae-bf28-4838-ba83-388661ec1a46",
+      "node_type": "Clause",
+      "publisher": "finlex",
+      "title": "§ 80 mom 3",
+      "text": "3) suunnitellut ja suoritetut valvontatoimenpiteet;",
+      "clause_number": 3,
+      "section_number": "80",
+      "statute_id": ""
+    },
+    {
+      "id": "0da6febc-abaa-4029-a8b0-c72d758f840d",
+      "node_type": "Clause",
+      "publisher": "finlex",
+      "title": "§ 80 mom 4",
+      "text": "4) virallisista laboratorioista ja nimetyistä omavalvontalaboratorioista arvioinnin piirissä olevat määritysmenetelmät sekä tutkimuksista vastaavien henkilöiden nimet;",
+      "clause_number": 4,
+      "section_number": "80",
+      "statute_id": ""
+    },
+    {
+      "id": "72571152-9d72-4dd0-9192-aaca63982c61",
+      "node_type": "Clause",
+      "publisher": "finlex",
+      "title": "§ 80 mom 5",
+      "text": "5) muut kuin 1–4 kohdassa tarkoitetut elintarvikesäännösten mukaiset valvonnan kannalta tarpeelliset tiedot.",
+      "clause_number": 5,
+      "section_number": "80",
+      "statute_id": ""
+    }
+  ],
+  "cross_references": [
+    {
+      "raw_text": "pykälän 4 ja",
+      "statute_id": "",
+      "section_number": "4 ja",
+      "clause_number": null,
+      "resolution_confidence": 0.0
+    },
+    {
+      "raw_text": "pykälän 2 momentissa t",
+      "statute_id": "",
+      "section_number": "2 momentissa t",
+      "clause_number": null,
+      "resolution_confidence": 0.0
+    }
+  ],
+  "raw_html_path": "C:\\Users\\danit\\finance-hack\\aalto-hackaton-2026\\data\\raw\\finlex\\Laki (säädöskokoelma)\\Elintarvikelaki.html"
+}

@@ -1,0 +1,990 @@
+{
+  "statute": {
+    "id": "42b8d885-bdd4-4d5b-a92b-cfd7fba29769",
+    "node_type": "Statute",
+    "publisher": "finlex",
+    "title": "Maksulaitoslaki",
+    "text": "Maksulaitoslaki",
+    "statute_id": "290/2010",
+    "finlex_url": "https://finlex.fi/fi/laki/ajantasa/290/2010"
+  },
+  "chapters": [
+    {
+      "id": "148a123a-cb4c-408f-a85c-d26327141b43",
+      "node_type": "Chapter",
+      "publisher": "finlex",
+      "title": "Chapter 1",
+      "text": "1 luku Yleiset säännökset",
+      "chapter_number": 1,
+      "statute_id": "290/2010"
+    },
+    {
+      "id": "0f62a71d-90cc-42cf-9ce1-8449c65da69c",
+      "node_type": "Chapter",
+      "publisher": "finlex",
+      "title": "Chapter 2",
+      "text": "2 luku Oikeus tarjota maksupalvelua",
+      "chapter_number": 2,
+      "statute_id": "290/2010"
+    },
+    {
+      "id": "b54e8a70-c364-4bd3-a1ee-b211db75b53d",
+      "node_type": "Chapter",
+      "publisher": "finlex",
+      "title": "Chapter 3",
+      "text": "3 luku Toimiluvan myöntäminen ja peruuttaminen",
+      "chapter_number": 3,
+      "statute_id": "290/2010"
+    },
+    {
+      "id": "a834fd7f-c4d4-4e09-b9ca-bd3174bbcd16",
+      "node_type": "Chapter",
+      "publisher": "finlex",
+      "title": "Chapter 4",
+      "text": "4 luku Maksulaitoksen toiminta",
+      "chapter_number": 4,
+      "statute_id": "290/2010"
+    },
+    {
+      "id": "2e03b297-e63a-4188-b9a1-086c4a8ce09c",
+      "node_type": "Chapter",
+      "publisher": "finlex",
+      "title": "Chapter 5",
+      "text": "5 luku Maksupalvelun tarjoamisen taloudelliset edellytykset",
+      "chapter_number": 5,
+      "statute_id": "290/2010"
+    },
+    {
+      "id": "3bc8289c-17ce-46d6-926b-7fe8616f01b8",
+      "node_type": "Chapter",
+      "publisher": "finlex",
+      "title": "Chapter 6",
+      "text": "6 luku Menettelytavat",
+      "chapter_number": 6,
+      "statute_id": "290/2010"
+    },
+    {
+      "id": "70e654f6-fd17-4590-88cf-adc0556f3fc5",
+      "node_type": "Chapter",
+      "publisher": "finlex",
+      "title": "Chapter 7",
+      "text": "7 luku Sivuliikkeen perustaminen",
+      "chapter_number": 7,
+      "statute_id": "290/2010"
+    },
+    {
+      "id": "a517b7fd-300f-4364-8501-01d74cf99c05",
+      "node_type": "Chapter",
+      "publisher": "finlex",
+      "title": "Chapter 8",
+      "text": "8 luku Vahingonkorvaus- ja rangaistussäännökset",
+      "chapter_number": 8,
+      "statute_id": "290/2010"
+    },
+    {
+      "id": "6bc3e3c5-e471-43e8-b99e-cb2ffb0bbb8d",
+      "node_type": "Chapter",
+      "publisher": "finlex",
+      "title": "Chapter 9",
+      "text": "9 luku Voimaantulo- ja siirtymäsäännökset",
+      "chapter_number": 9,
+      "statute_id": "290/2010"
+    }
+  ],
+  "sections": [
+    {
+      "id": "ec688c9d-aaad-4409-aa68-9a61d56ac36d",
+      "node_type": "Section",
+      "publisher": "finlex",
+      "title": "1 § Soveltamisala",
+      "text": "Tätä lakia sovelletaan liiketoimintaan, jossa tarjotaan maksupalvelua. Tätä lakia sovelletaan seuraaviin maksupalveluihin: Lain 40 §:ää sovelletaan sellaiseen 2 §:n 1 momentissa tarkoitettuun yhteisöön ja yritykseen, joka tarjoaa maksupalvelua.",
+      "section_number": "1",
+      "chapter_number": 1,
+      "statute_id": "290/2010"
+    },
+    {
+      "id": "dbc55326-4fe1-4d72-918f-acce649bae2f",
+      "node_type": "Section",
+      "publisher": "finlex",
+      "title": "2 § Soveltamisalaan kuulumattomat palvelut",
+      "text": "Tätä lakia ei sovelleta palveluihin, joita tarjoaa: Tätä lakia ei sovelleta myöskään seuraaviin palveluihin:",
+      "section_number": "2",
+      "chapter_number": 1,
+      "statute_id": "290/2010"
+    },
+    {
+      "id": "88ae426a-9bd2-464f-8ca6-670e66e7b66f",
+      "node_type": "Section",
+      "publisher": "finlex",
+      "title": "3 § Soveltamisalaan kuulumattomat maksutapahtumat",
+      "text": "Tätä lakia ei sovelleta seuraaviin maksutapahtumiin:",
+      "section_number": "3",
+      "chapter_number": 1,
+      "statute_id": "290/2010"
+    },
+    {
+      "id": "e863af55-bb04-4cd7-bffb-255f6f096714",
+      "node_type": "Section",
+      "publisher": "finlex",
+      "title": "4 § Valvonta",
+      "text": "Tämän lain ja sen nojalla annettujen säännösten ja määräysten noudattamista valvoo Finanssivalvonta niin kuin Finanssivalvonnasta annetussa laissa (878/2008) ja tässä laissa säädetään.",
+      "section_number": "4",
+      "chapter_number": 1,
+      "statute_id": "290/2010"
+    },
+    {
+      "id": "74e6e3cb-9729-4a19-ac2c-62de9bafc122",
+      "node_type": "Section",
+      "publisher": "finlex",
+      "title": "5 § Määritelmät",
+      "text": "Tässä laissa tarkoitetaan:",
+      "section_number": "5",
+      "chapter_number": 1,
+      "statute_id": "290/2010"
+    },
+    {
+      "id": "92c01214-c9e8-4c2e-862d-9b680ee8b2bd",
+      "node_type": "Section",
+      "publisher": "finlex",
+      "title": "6 § Maksupalvelun tarjoamisen luvanvaraisuus",
+      "text": "Maksupalvelua saa tarjota vain, jos toimintaan on saatu tässä laissa tarkoitettu toimilupa. Ulkomaisen maksulaitoksen oikeudesta tarjota maksupalveluja Suomessa säädetään ulkomaisen maksulaitoksen toiminnasta Suomessa annetussa laissa (298/2010).",
+      "section_number": "6",
+      "chapter_number": 2,
+      "statute_id": "290/2010"
+    },
+    {
+      "id": "728a01a9-1a2e-43f5-b045-1275ab616a34",
+      "node_type": "Section",
+      "publisher": "finlex",
+      "title": "7 § Maksupalvelun tarjoamisen luvanvaraisuutta koskeva poikkeus",
+      "text": "Sen estämättä, mitä 6 §:ssä säädetään, luonnollinen henkilö, jonka vakituinen asuinpaikka on Suomessa, ja oikeushenkilö, jonka pääkonttori on Suomessa, saa tarjota maksupalvelua ilman toimilupaa tässä pykälässä säädetyin edellytyksin. Maksupalvelua voidaan tarjota ilman toimilupaa, jos oikeushenkilön toteuttamien maksutapahtumien yhteismäärä on arviota edeltäneiden 12 kuukauden aikana ollut keskimäärin enintään kolme miljoonaa euroa kuukaudessa. Luonnollinen henkilö voi tarjota maksupalvelua ilman toimilupaa, jos hänen toteuttamiensa maksutapahtumien yhteismäärä on arviota edeltäneiden 12 kuukauden aikana ollut keskimäärin enintään 50 000 euroa kuukaudessa. Maksutapahtumien yhteismäärää laskettaessa otetaan huomioon myös maksupalveluntarjoajan lukuun toimivan asiamiehen toteuttamat maksutapahtumat. Toimintaa aloitettaessa maksutapahtumien yhteismäärää arvioidaan liiketoimintasuunnitelmassa esitetyn maksutapahtumien arvioidun kokonaismäärään perusteella, jollei Finanssivalvonta erityisestä syystä tarkista liiketoimintasuunnitelmaa. Tässä pykälässä tarkoitettua oikeutta tarjota maksupalvelua ei ole, jos palvelun tarjoamiseen osallistuva tai siitä vastaava luonnollinen henkilö ei ole 13 §:n 3 momentissa tarkoitetulla tavalla luotettava. Tässä pykälässä tarkoitettuun palveluntarjoajaan ei sovelleta tämän lain säännöksiä lukuun ottamatta, mitä 4 ja 9 §:ssä, 10 §:n 1 ja 2 kohdassa sekä 16, 24 ja 26 §:ssä säädetään maksulaitoksista. Mitä 26 §:ssä säädetään asiakasvarojen suojaamisesta, sovelletaan tässä pykälässä tarkoitettuun palveluntarjoajaan myös, kun tämä tarjoaa vain 9 §:n 1 momentissa tarkoitettuja palveluita. Tässä pykälässä tarkoitettu palveluntarjoaja ei saa perustaa sivuliikettä tai tarjota maksupalveluja toiseen Euroopan talousalueeseen kuuluvaan valtioon. Edellä 2 momentissa mainitun rajan ylityttyä palveluntarjoajan on haettava tässä laissa tarkoitettua toimilupaa 30 päivän kuluessa, saatettava toimintansa muuten lain mukaiseksi tai lopetettava toimintansa.",
+      "section_number": "7",
+      "chapter_number": 2,
+      "statute_id": "290/2010"
+    },
+    {
+      "id": "0329800c-5bdd-476d-8ce7-24a1e1d6327f",
+      "node_type": "Section",
+      "publisher": "finlex",
+      "title": "8 § Ilmoitusvelvollisuus tarjottaessa maksupalvelua ilman toimilupaa",
+      "text": "Henkilön, joka aikoo tarjota maksupalvelua ilman toimilupaa, on tehtävä siitä ilmoitus Finanssivalvonnalle. Ilmoitukseen on sisällytettävä liiketoimintasuunnitelma, josta ilmenevät tarjottavat maksupalvelut ja aiotun toiminnan laajuus, sekä selvitys luonnollisista henkilöistä, jotka osallistuvat maksupalvelun tarjoamiseen tai vastaavat siitä. Palveluntarjoajan on lisäksi viivytyksettä ilmoitettava Finanssivalvonnalle toiminnan lakkaamisesta, merkittävistä muutoksista toiminnan laajuudessa sekä muutoksista 7 §:n 2―4 momentissa tarkoitetuissa seikoissa. Finanssivalvonnan on kuukauden kuluessa ilmoituksen vastaanottamisesta tai, jos ilmoitus on ollut puutteellinen, siitä kun ilmoituksen tekijä on antanut asian ratkaisemista varten tarvittavat asiakirjat ja selvitykset, tehtävä päätös siitä, täyttääkö henkilö toiminnan harjoittamiselle säädetyt edellytykset. Finanssivalvonnan on viipymättä peruutettava päätös, jos toiminta ei enää täytä 7 §:n 1 tai 4 momentissa säädettyjä edellytyksiä. Maksupalveluita ilman toimilupaa tarjoavan on vuosittain ilmoitettava Finanssivalvonnalle toteuttamiensa maksutapahtumien yhteismäärä. Finanssivalvonnalla on lisäksi oikeus saada mainitulta palveluntarjoajalta muut tämän pykälän soveltamisen kannalta tarpeelliset tiedot. Finanssivalvonta antaa valvonnan kannalta tarpeelliset tarkemmat määräykset tässä pykälässä säädetyn ilmoitusvelvollisuuden täyttämisestä.",
+      "section_number": "8",
+      "chapter_number": 2,
+      "statute_id": "290/2010"
+    },
+    {
+      "id": "596c129d-0645-4dce-a9e8-ddb9c7a05327",
+      "node_type": "Section",
+      "publisher": "finlex",
+      "title": "9 § Sallittu liiketoiminta",
+      "text": "Maksulaitos saa toimiluvassa mainittujen maksupalvelujen lisäksi: Maksulaitos saa harjoittaa muutakin liiketoimintaa, jollei 19 §:n 2 momentista muuta johdu. Maksulaitos saa tarjota vain sellaisia maksutilejä, joita käytetään yksinomaan maksutapahtumien toteuttamiseen. Maksulaitoksen maksupalvelunkäyttäjiltä vastaanottamat varat eivät ole luottolaitostoiminnasta annetussa laissa tarkoitettuja talletuksia tai muita takaisinmaksettavia varoja. Maksulaitos ei saa laskea liikkeeseen sähköistä rahaa.",
+      "section_number": "9",
+      "chapter_number": 2,
+      "statute_id": "290/2010"
+    },
+    {
+      "id": "d5f1825a-f00a-43fc-b1c0-3274b5773b8e",
+      "node_type": "Section",
+      "publisher": "finlex",
+      "title": "10 § Luoton myöntäminen",
+      "text": "Maksulaitos saa myöntää maksupalveluun liittyvää luottoa vain, jos:",
+      "section_number": "10",
+      "chapter_number": 2,
+      "statute_id": "290/2010"
+    },
+    {
+      "id": "f173bc97-dba4-450b-9b2b-9433c763c568",
+      "node_type": "Section",
+      "publisher": "finlex",
+      "title": "11 § Toimilupahakemus",
+      "text": "Finanssivalvonta myöntää hakemuksesta maksulaitoksen toimiluvan. Toimilupahakemukseen liitettävistä selvityksistä säädetään valtiovarainministeriön asetuksella. Maksulaitoksen on ilmoitettava viipymättä Finanssivalvonnalle toimilupahakemuksessa annettujen tietojen oikeellisuuteen vaikuttavista seikoista ja muutoksista.",
+      "section_number": "11",
+      "chapter_number": 3,
+      "statute_id": "290/2010"
+    },
+    {
+      "id": "65967ce5-6675-484c-8f00-51a150b61bac",
+      "node_type": "Section",
+      "publisher": "finlex",
+      "title": "12 § Toimilupapäätös",
+      "text": "Hakemus on ratkaistava kolmen kuukauden kuluessa hakemuksen vastaanottamisesta tai, jos hakemus on ollut puutteellinen, siitä kun hakija on antanut asian ratkaisemista varten tarvittavat asiakirjat ja selvitykset. Toimiluvassa on mainittava ne maksupalvelut, joita maksulaitoksella on oikeus tarjota. Finanssivalvonta voi toimiluvan myöntämisen jälkeen maksulaitoksen hakemuksesta muuttaa toimilupaa siinä mainittujen maksulaitokselle sallittujen palvelujen osalta. Jos toimilupaa koskevaa päätöstä ei ole annettu 1 momentissa säädetyssä määräajassa, hakija voi tehdä valituksen. Valitus tehdään ja käsitellään kuten hakemuksen hylkäämistä koskeva valitus. Valituksen voi tehdä, kunnes päätös on annettu. Finanssivalvonnan on ilmoitettava päätöksen antamisesta muutoksenhakuviranomaiselle, jos päätös annetaan valituksen jälkeen. Tässä momentissa tarkoitetun valituksen tekemisestä ja käsittelystä muutoin säädetään hallintolainkäyttölaissa (586/1996).",
+      "section_number": "12",
+      "chapter_number": 3,
+      "statute_id": "290/2010"
+    },
+    {
+      "id": "b5ca1502-e31a-4579-9017-c1e8b08ffd04",
+      "node_type": "Section",
+      "publisher": "finlex",
+      "title": "13 § Toimiluvan myöntämisen edellytykset",
+      "text": "Toimilupa on myönnettävä, jos saadun selvityksen perusteella voidaan varmistua siitä, että hakija täyttää 2 momentissa sekä maksulaitoksen toiminnalle ja taloudelliselle asemalle tässä laissa säädetyt edellytykset. Toimilupa voidaan myöntää vain hakijalle, jonka kotipaikka on Suomessa. Toimiluvan myöntämisen edellytyksenä on, että saadun selvityksen perusteella maksulaitoksen perustaja ja osakkeenomistaja, osuuden omistaja tai yhtiömies, joka omistaa vähintään yhden kymmenesosan maksulaitoksen osakkeista, osuuksista tai rahamääräisestä yhtiöpanoksesta taikka osuuden, joka tuottaa vähintään kymmenen prosenttia sen osakkeiden, osuuksien tai yhtiön äänivallasta, on luotettava. Henkilöä ei pidetä luotettavana, jos hänet on lainvoiman saaneella tuomiolla viiden arviota edeltäneen vuoden aikana tuomittu vankeusrangaistukseen tai kolmen arviota edeltäneen vuoden aikana sakkorangaistukseen rikoksesta, jonka voidaan katsoa osoittavan hänen olevan ilmeisen sopimaton perustamaan tai omistamaan maksulaitosta, taikka jos hän on muutoin aikaisemmalla toiminnallaan osoittanut olevansa ilmeisen sopimaton perustamaan tai omistamaan maksulaitosta. Toimilupa voidaan myöntää myös perustettavalle maksulaitokselle ennen sen rekisteröimistä.",
+      "section_number": "13",
+      "chapter_number": 3,
+      "statute_id": "290/2010"
+    },
+    {
+      "id": "542729d2-ec3a-441e-882d-254d477b5636",
+      "node_type": "Section",
+      "publisher": "finlex",
+      "title": "14 § Toimiluvan myöntäminen eurooppayhtiölle ja eurooppaosuuskunnalle",
+      "text": "Toimilupa on myönnettävä myös Euroopan talousalueeseen kuuluvassa valtiossa vastaavan luvan saaneelle eurooppayhtiön (SE) säännöistä annetussa neuvoston asetuksessa (EY) N:o 2157/2001, jäljempänäeurooppayhtiöasetus, tarkoitetulle eurooppayhtiölle, joka aikoo siirtää kotipaikkansa Suomeen asetuksen 8 artiklan mukaisesti. Finanssivalvonnan on pyydettävä lupahakemuksesta kyseisen valtion maksupalvelumarkkinoita valvovan Finanssivalvontaa vastaavan viranomaisen lausunto. Sama koskee eurooppayhtiön perustamista sulautumalla siten, että vastaanottava yhtiö, jonka kotipaikka on toisessa valtiossa, rekisteröidään eurooppayhtiönä Suomessa. Mitä tässä pykälässä säädetään eurooppayhtiöstä, sovelletaan vastaavasti eurooppaosuuskunnan (SEC) säännöistä annetussa neuvoston asetuksessa (EY) N:o 1435/2003, jäljempänäeurooppaosuuskunta-asetus, tarkoitettuun eurooppaosuuskuntaan.",
+      "section_number": "14",
+      "chapter_number": 3,
+      "statute_id": "290/2010"
+    },
+    {
+      "id": "8511d636-6554-482b-bf5f-cf476e37bb5f",
+      "node_type": "Section",
+      "publisher": "finlex",
+      "title": "15 § Toimiluvan rekisteröinti",
+      "text": "Finanssivalvonnan on ilmoitettava toimilupa rekisteröitäväksi kaupparekisteriin. Perustettavalle maksulaitokselle ja kotipaikan Suomeen siirtävälle eurooppayhtiölle ja eurooppaosuuskunnalle myönnetty toimilupa rekisteröidään samalla, kun yritys rekisteröidään.",
+      "section_number": "15",
+      "chapter_number": 3,
+      "statute_id": "290/2010"
+    },
+    {
+      "id": "9a78a607-10dc-4429-91e8-ef0d6588b6f7",
+      "node_type": "Section",
+      "publisher": "finlex",
+      "title": "16 § Maksulaitosrekisteri",
+      "text": "Finanssivalvonta pitää maksupalvelun tarjoamiseen oikeutettujen yksilöintiä varten maksulaitoksista, niiden sivukonttoreista ja asiamiehistä sekä 7 §:ssä tarkoitetuista henkilöistä julkista rekisteriä (maksulaitosrekisteri). Rekisteriin merkitään tiedot niistä palveluista, joiden tarjoamiseen maksulaitoksella on toimilupa. Rekisteriin on lisäksi merkittävä luonnollisen henkilön täydellinen nimi, asuinpaikka ja sen toimipaikan osoite, jossa toimintaa harjoitetaan. Oikeushenkilöstä rekisteriin merkitään sen nimi, yritys- tai yhteisötunnus, kotipaikka ja sen toimipaikan osoite, jossa toimintaa harjoitetaan. Rekisterin tulee olla saatavilla internetissä ja sitä on päivitettävä säännöllisesti. Maksulaitosrekisteriin sisältyviä henkilötietoja säilytetään niin kauan kuin toimintaa harjoitetaan.",
+      "section_number": "16",
+      "chapter_number": 3,
+      "statute_id": "290/2010"
+    },
+    {
+      "id": "2d22b8da-54ba-4c46-8a5e-94cd63fc7303",
+      "node_type": "Section",
+      "publisher": "finlex",
+      "title": "17 § Toiminnan aloittaminen",
+      "text": "Maksulaitos voi aloittaa toimintansa, jollei toimiluvan ehdoista muuta johdu, välittömästi sen jälkeen, kun toimilupa on myönnetty ja maksulaitos on toimittanut Finanssivalvonnalle 2 momentissa tarkoitetut tiedot sekä, jos toimilupa on myönnetty perustettavalle yritykselle, yritys on rekisteröity. Maksulaitos ei saa aloittaa toimintaansa ennen kuin se on toimittanut Finanssivalvonnalle: Maksulaitoksen, joka harjoittaa 9 §:n 2 momentissa tarkoitettua muuta liiketoimintaa, tulee lisäksi ilmoittaa maksupalvelutoiminnasta vastuussa olevien henkilöiden nimet.",
+      "section_number": "17",
+      "chapter_number": 3,
+      "statute_id": "290/2010"
+    },
+    {
+      "id": "beb10924-2089-40ef-b191-d6b1ae70d064",
+      "node_type": "Section",
+      "publisher": "finlex",
+      "title": "18 § Toiminnan rajoittaminen ja toimiluvan peruuttaminen",
+      "text": "Toiminnan rajoittamisesta ja toimiluvan peruuttamisesta säädetään Finanssivalvonnasta annetun lain 26 ja 27 §:ssä. Finanssivalvonta voi lisäksi rajoittaa toimintaa tai peruuttaa maksulaitoksen toimiluvan, jos maksulaitos jatkamalla maksupalvelutoimintaansa muodostaisi uhan maksujärjestelmän vakaudelle. Finanssivalvonnan on ilmoitettava toimiluvan peruuttaminen rekisteröitäväksi.",
+      "section_number": "18",
+      "chapter_number": 3,
+      "statute_id": "290/2010"
+    },
+    {
+      "id": "e5e8868c-266d-4a71-aa9a-be491dfec007",
+      "node_type": "Section",
+      "publisher": "finlex",
+      "title": "19 § Toiminnan järjestäminen",
+      "text": "Maksulaitoksen toiminta on järjestettävä sen liiketoiminnan luonne ja laajuus huomioon ottaen luotettavalla tavalla. Maksulaitos ei saa ottaa niin suurta riskiä, että siitä aiheutuu olennaista vaaraa maksulaitoksen vakavaraisuudelle tai maksuvalmiudelle. Maksulaitoksella on oltava tehokkaan riskienhallinnan mahdollistava hallinto sekä toimintaansa nähden riittävä sisäinen valvonta ja riittävät riskienhallintajärjestelmät. Jos maksulaitoksen, joka harjoittaa maksupalvelun tarjoamisen lisäksi 9 §:n 2 momentissa tarkoitettua muuta liiketoimintaa, toimintaa ja riskienhallintaa ei ole muutoin mahdollista järjestää riittävän luotettavasti, Finanssivalvonta voi rajoittaa muun liiketoiminnan harjoittamista tai edellyttää, että maksulaitos ei tarjoa maksupalvelun lisäksi muuta kuin 9 §:n 1 momentissa tarkoitettuja palveluja. Finanssivalvonta antaa maksupalveludirektiivin täytäntöönpanemiseksi tarvittavat tarkemmat määräykset toiminnan järjestämisestä.",
+      "section_number": "19",
+      "chapter_number": 3,
+      "statute_id": "290/2010"
+    },
+    {
+      "id": "cf6e8e74-3f34-49fe-84f3-4944fca1c8ab",
+      "node_type": "Section",
+      "publisher": "finlex",
+      "title": "20 § Säilytettävät tiedot",
+      "text": "Maksulaitoksen on säilytettävä toimilupahakemusta koskevat ja siihen liittyvät tiedot vähintään viisi vuotta.",
+      "section_number": "20",
+      "chapter_number": 3,
+      "statute_id": "290/2010"
+    },
+    {
+      "id": "6b4ed6e4-2843-433f-9a38-6fd9e3731d7b",
+      "node_type": "Section",
+      "publisher": "finlex",
+      "title": "21 § Maksulaitoksen sidonnaisuus",
+      "text": "Maksulaitos ei saa olla merkittävästi sidoksissa sellaiseen luonnolliseen henkilöön tai oikeushenkilöön, johon sovellettavat Euroopan talousalueeseen kuulumattoman valtion lait, asetukset tai hallinnolliset määräykset estävät maksulaitoksen tehokkaan valvonnan, tai muuhun tahoon, jos merkittävä sidonnaisuus on muuten omiaan estämään maksulaitoksen tehokasta valvontaa. Merkittävällä sidonnaisuudella tarkoitetaan tässä laissa, mitä luottolaitostoiminnasta annetun lain 37 §:n 2―4 momentissa säädetään.",
+      "section_number": "21",
+      "chapter_number": 4,
+      "statute_id": "290/2010"
+    },
+    {
+      "id": "93195397-e6da-48c6-b9b6-e9c05e08b638",
+      "node_type": "Section",
+      "publisher": "finlex",
+      "title": "22 § Toimipaikka ja pääkonttori",
+      "text": "Maksulaitoksella on oltava toimintaansa varten vähintään yksi kiinteä toimipaikka. Se voi harjoittaa toimintaansa lisäksi muissa toimipaikoissa. Maksulaitoksen pääkonttorin on oltava Suomessa.",
+      "section_number": "22",
+      "chapter_number": 4,
+      "statute_id": "290/2010"
+    },
+    {
+      "id": "93bc7a97-a443-4353-8412-632ae8cc85bc",
+      "node_type": "Section",
+      "publisher": "finlex",
+      "title": "23 § Maksupalvelun tarjoamisen kannalta merkittävän toiminnon ulkoistaminen",
+      "text": "Maksulaitos voi ulkoistaa maksupalvelun tarjoamisen kannalta merkittävän toiminnon, jos ulkoistaminen ei heikennä olennaisesti maksulaitoksen sisäistä valvontaa eikä Finanssivalvonnan valvontamahdollisuuksia. Toiminto on maksulaitoksen toiminnan kannalta merkittävä, jos virhe tai puute siinä voi haitata olennaisesti maksulaitoksen toimintaa koskevien lakien, niiden nojalla annettujen säännösten tai määräysten tai maksulaitoksen toimiluvan ehtojen noudattamista taikka maksulaitoksen toiminnan tuloksellisuutta tai maksupalvelun tarjoamisen vakautta tai jatkuvuutta. Maksupalvelun kannalta merkittävän toiminnon ulkoistamisesta on tehtävä kirjallinen sopimus, josta käy ilmi toimeksiannon sisältö ja sopimuksen voimassaoloaika. Maksulaitoksen on toimittava huolellisesti, kun se ulkoistaa maksupalvelun tarjoamisen kannalta merkittävän toiminnon. Maksulaitoksen on ilmoitettava maksupalvelun kannalta merkittävän toiminnon ulkoistamisesta etukäteen Finanssivalvonnalle. Maksulaitoksen on huolehdittava, että se saa toimintaa hoitavalta keskeytyksettä maksulaitoksen viranomaisvalvonnan, riskienhallinnan ja sisäisen valvonnan edellyttämät tarpeelliset tiedot ja että sillä on oikeus luovuttaa tiedot edelleen Finanssivalvonnalle. Maksulaitoksen on lisäksi huolehdittava, että palvelun hoitaja ilmoittaa asiakkaalle toimivansa maksulaitoksen vastuulla. Finanssivalvonta antaa maksupalveludirektiivin täytäntöönpanemiseksi tarvittavat tarkemmat määräykset edellytyksistä, joiden vallitessa toiminto voidaan ulkoistaa.",
+      "section_number": "23",
+      "chapter_number": 4,
+      "statute_id": "290/2010"
+    },
+    {
+      "id": "33aa7241-2a12-46c5-82a7-47dadaf9fe13",
+      "node_type": "Section",
+      "publisher": "finlex",
+      "title": "24 § Asiamies",
+      "text": "Maksulaitos voi tarjota maksupalveluja asiamiehen välityksellä. Asiamies toimii maksulaitoksen lukuun ja vastuulla. Maksulaitoksen on käytettävissä olevin keinoin varmistuttava siitä, että asiamies on hyvämaineinen ja riittävän ammattitaitoinen toiminnan harjoittamiseen. Maksulaitoksen on huolehdittava, että asiamies ilmoittaa asiakkaalle toimivansa maksulaitoksen lukuun. Maksulaitoksen on ilmoitettava Finanssivalvonnalle asiamiehenä toimivan luonnollisen henkilön täydellinen nimi, asuinpaikka ja sen toimipaikan osoite, jossa toimintaa harjoitetaan. Jos asiamies on oikeushenkilö, Finanssivalvonnalle on ilmoitettava sen nimi, yritys- tai yhteisötunnus, kotipaikka ja sen toimipaikan osoite, jossa toimintaa harjoitetaan. Maksulaitoksen on lisäksi ilmoitettava asiamiehen johtamisesta vastuussa olevien henkilöiden nimet ja selvitys heidän luotettavuudestaan ja sopivuudestaan. Maksulaitoksen on ilmoitettava Finanssivalvonnalle ne asiamiehen soveltamat sisäisen valvonnan menetelmät, joilla täytetään rahanpesun ja terrorismin rahoittamisen estämisestä ja selvittämisestä annetussa laissa (503/2008) ja sen nojalla säädetyt velvollisuudet. Finanssivalvonnan on merkittävä asiamies maksulaitosrekisteriin. Finanssivalvonta voi tarkastaa ilmoitetut tiedot ennen asiamiehen rekisteröintiä, jos sillä on syytä epäillä tietojen olevan totuudenvastaisia. Finanssivalvonta ei saa rekisteröidä asiamiestä, jos se tarkastuksen suoritettuaan ei ole vakuuttunut tietojen oikeellisuudesta. Asiamies ei saa tarjota maksupalvelua ennen kuin se on merkitty rekisteriin.",
+      "section_number": "24",
+      "chapter_number": 4,
+      "statute_id": "290/2010"
+    },
+    {
+      "id": "20b4fabf-0158-4f2e-8f21-2fad3cac6c49",
+      "node_type": "Section",
+      "publisher": "finlex",
+      "title": "25 § Maksulaitoksen johtaminen",
+      "text": "Maksulaitoksen hallituksen, toimitusjohtajan ja muun ylimmän johdon tulee johtaa maksulaitosta ammattitaitoisesti sekä terveiden ja varovaisten liikeperiaatteiden mukaisesti. Hallituksen jäsenten ja varajäsenten sekä toimitusjohtajan ja toimitusjohtajan sijaisen sekä muun ylimpään johtoon kuuluvan on oltava luotettavia, he eivät saa olla konkurssissa eikä heidän toimintakelpoisuuttansa saa olla rajoitettu. Heillä on lisäksi oltava sellainen yleinen maksupalvelutoiminnan tuntemus kuin maksulaitoksen toiminnan luonteeseen ja laajuuteen katsoen on tarpeen. Maksulaitoksen, joka harjoittaa 9 §:n 2 momentissa tarkoitettua muuta liiketoimintaa, muuhun ylimpään johtoon kuuluvalla tarkoitetaan 1 momentissa maksulaitoksen maksupalvelutoiminnasta vastaavia henkilöitä. Henkilöä ei pidetä luotettavana, jos hänet on lainvoiman saaneella tuomiolla viiden arviota edeltäneen vuoden aikana tuomittu vankeusrangaistukseen tai kolmen arviota edeltäneen vuoden aikana sakko-rangaistukseen rikoksesta, jonka voidaan katsoa osoittavan hänen olevan ilmeisen sopimaton maksulaitoksen hallituksen jäseneksi tai varajäseneksi, toimitusjohtajaksi tai toimitusjohtajan sijaiseksi taikka muuhun ylimpään johtoon kuuluvaksi, taikka jos hän on muutoin aikaisemmalla toiminnallaan osoittanut olevansa ilmeisen sopimaton edellä tarkoitettuun tehtävään.",
+      "section_number": "25",
+      "chapter_number": 4,
+      "statute_id": "290/2010"
+    },
+    {
+      "id": "4595a588-ed59-4bda-a883-ae079831eb82",
+      "node_type": "Section",
+      "publisher": "finlex",
+      "title": "26 § Asiakasvarojen suojaaminen",
+      "text": "Maksulaitoksen, joka maksupalvelun tarjoamisen lisäksi harjoittaa 9 §:n 2 momentissa tarkoitettua muuta liiketoimintaa, on 2 tai 3 momentissa säädetyllä tavalla suojattava maksupalvelun käyttäjiltä tai toiselta maksupalveluntarjoajalta maksutapahtumien toteuttamiseksi vastaanotetut varat. Jos maksutapahtuman toteuttamiseksi suoritetut varat ylittävät 150 euroa, ne kuuluvat suojan piiriin. Maksulaitos saa kuitenkin sopia muun maksupalvelun käyttäjän kuin kuluttajan kanssa, että varat kuuluvat suojan piiriin vain, jos ne ylittävät 600 euroa. Maksulaitoksen on säilytettävä 1 momentissa tarkoitetut varat niin, ettei ole vaaraa niiden sekoittumisesta toisen maksupalvelun käyttäjän, maksupalveluntarjoajan tai maksulaitoksen varoihin. Maksulaitoksen on talletettava varat tilille keskuspankkiin, talletuspankkiin tai muussa valtiossa toimiluvan saaneeseen talletusten vastaanottamiseen oikeutettuun luottolaitokseen taikka vähäriskisiin ja helposti rahaksi muutettaviin arvopapereihin tai muihin sijoituskohteisiin, jos varoja ei ole suoritettu maksunsaajalle tai siirretty toiselle maksupalveluntarjoajalle varojen vastaanottamista seuraavana työpäivänä. Finanssivalvonta antaa määräykset siitä, milloin arvopaperia tai sijoituskohdetta on pidettävä vähäriskisenä ja helposti rahaksi muutettavana. Maksulaitos voi suojata 1 momentissa tarkoitetut varat myös siten, että maksulaitoksen vastaanottamat varat maksetaan maksulaitoksen tullessa maksukyvyttömäksi maksupalvelun käyttäjille sellaisen vakuutusyhtiön tai luottolaitoksen, joka ei kuulu maksulaitoksen kanssa samaan ryhmään, myöntämästä vakuutuksesta tai takauksesta. Mitä tässä pykälässä säädetään, sovelletaan lisäksi maksulaitoksen vastaanottamiin varoihin, joita käytetään tulevien maksutapahtumien toteuttamiseen, kun osa varoista käytetään tuleviin maksutapahtumiin ja osa muihin palveluihin kuin maksupalveluihin. Tätä momenttia sovelletaan myös, kun tulevia maksutapahtumia koskevien varojen osuus on muuttuva tai osuus ei ole etukäteen tiedossa, ja maksupalveluihin käytettävien varojen osuus voidaan kohtuudella arvioida aikaisemmin toteutettujen maksutapahtumien kehityksen perusteella.",
+      "section_number": "26",
+      "chapter_number": 4,
+      "statute_id": "290/2010"
+    },
+    {
+      "id": "09eee5b0-1d07-4120-8370-e14783662842",
+      "node_type": "Section",
+      "publisher": "finlex",
+      "title": "27 § Vähimmäispääoma",
+      "text": "Maksulaitoksen osakepääoman, osuuspääoman, peruspääoman tai yhtiöpanoksen on oltava vähintään: Pääoma on oltava kokonaan merkitty toimilupaa myönnettäessä.",
+      "section_number": "27",
+      "chapter_number": 5,
+      "statute_id": "290/2010"
+    },
+    {
+      "id": "59e80d70-fd52-4a06-ba2f-1d08e0bd6f8b",
+      "node_type": "Section",
+      "publisher": "finlex",
+      "title": "28 § Omat varat",
+      "text": "Maksulaitoksen omiin varoihin sovelletaan, mitä luottolaitostoiminnasta annetun lain 45―48 §:ssä säädetään. Mitä mainituissa pykälissä säädetään osake- ja osuuspääomasta, sovelletaan myös rahamääräiseen yhtiöpanokseen. Maksulaitoksen, joka harjoittaa 9 §:n 2 momentissa tarkoitettua muuta liiketoimintaa, omien varojen määrästä vähennetään osakkeista, osuuksista, rahamääräisistä yhtiöpanoksista ja pääomalainoista määrä, joka vastaa maksupalveluiden osuutta maksulaitoksen liikevaihdosta.",
+      "section_number": "28",
+      "chapter_number": 5,
+      "statute_id": "290/2010"
+    },
+    {
+      "id": "9081280b-4bc7-400c-be17-c17446e871c5",
+      "node_type": "Section",
+      "publisher": "finlex",
+      "title": "29 § Maksulaitoksen omien varojen laskemisessa käytettävät menetelmät",
+      "text": "Maksulaitoksen omien varojen laskemisessa käytetään jotakin tässä pykälässä tarkoitetuista menetelmistä. Kulusidonnaisella menetelmällätarkoitetaan menetelmää, jossa omien varojen määrä on vähintään kymmenen prosenttia edellisen vuoden kiinteistä yleiskustannuksista. Jos maksulaitos on harjoittanut toimintaa alle 12 kuukautta, omien varojen on oltava vähintään kymmenen prosenttia liiketoimintasuunnitelman mukaisista kiinteistä kustannuksista. Finanssivalvonta voi erityisestä syystä edellyttää, että liiketoimintasuunnitelma tarkistetaan. Maksutapahtumasidonnaisella menetelmällätarkoitetaan menetelmää, jossa omien varojen määrä on suhteellinen osuus maksulaitoksen edellisenä vuonna toteuttamien maksutapahtumien yhteismäärästä. Summamenetelmällätarkoitetaan menetelmää, jossa omien varojen määrä on suhteellinen osuus korkotuotoista, korkokuluista, saaduista palkkioista ja muun varsinaisen toiminnan tuotoista. Summa lasketaan 12 kuukauden välein edellisen tilikauden tietojen perusteella. Summamenetelmää käyttäen laskettujen omien varojen määrän on oltava vähintään 80 prosenttia edeltävien kolmen tilikauden keskiarvoista, tai jos toimintaa ei ole harjoitettu niin kauan, liiketoiminnallisista arvioista. Valtiovarainministeriön asetuksella säädetään maksupalveludirektiivin täytäntöönpanemiseksi tarkemmin tässä pykälässä tarkoitettujen omien varojen laskemisessa käytettävistä menetelmistä. Finanssivalvonta antaa maksupalveludirektiivin täytäntöönpanon edellyttämät muut tarkemmat määräykset omien varojen laskemisesta. Mitä tässä pykälässä säädetään, ei sovelleta maksulaitokseen, joka täyttää luottolaitostoiminnasta annetun lain 56 §:ssä säädetyt edellytykset ja joka kuuluu emoluottolaitoksen konsolidoidun valvonnan piiriin siten kuin luottolaitostoiminnasta annetussa laissa säädetään.",
+      "section_number": "29",
+      "chapter_number": 5,
+      "statute_id": "290/2010"
+    },
+    {
+      "id": "44749d31-75c2-4b98-81fb-d3f87fc14195",
+      "node_type": "Section",
+      "publisher": "finlex",
+      "title": "30 § Omien varojen vähimmäismäärä",
+      "text": "Maksulaitoksella on riskiensä kattamiseksi oltava omia varoja vähintään määrä, joka on laskettu Finanssivalvonnan hyväksymän, 29 §:ssä tarkoitetun menetelmän mukaisesti. Maksulaitoksen omien varojen määrän tulee kuitenkin aina olla vähintään vähimmäispääoman suuruinen. Maksulaitoksella on oltava myönnettyjen luottojen kokonaismäärään nähden riittävät omat varat. Jos Finanssivalvonta katsoo, että maksulaitoksen 1 momentin mukaisesti määräytyvät omat varat eivät ole riittävät suhteessa sen myöntämiin luottoihin liittyviin riskeihin eikä maksulaitoksen omien varojen riittävyyttä suhteessa kokonaisriskiin voida muuten varmistaa, Finanssivalvonta voi enintään kolmen vuoden ajaksi edellyttää maksulaitokselta suurempaa omien varojen määrää. Finanssivalvonta ei kuitenkaan voi edellyttää maksulaitokselta suurempaa omien varojen määrää kuin mitä luottolaitostoiminnasta annetun lain 57, 58 ja 60 §:ssä luottolaitokselta edellytetään. Finanssivalvonta hyväksyy omien varojen laskentaa koskevan menetelmän maksulaitoksen hakemuksesta. Finanssivalvonta voi hyväksyä menetelmän edellyttäen, että menetelmä turvaa maksulaitoksen vakavaraisuuden ja toiminnan luotettavuuden. Maksulaitos ei saa vaihtaa omien varojen laskemista koskevaa menetelmää kesken kalenterivuotta muutoin kuin erityisestä syystä. Tässä luvussa säädettyjen vaatimusten laskemiseksi ja niiden noudattamisen valvomiseksi maksupalveluja sekä 9 §:n 1 ja 2 momentissa tarkoitettuja palveluja koskevat liiketapahtumat on kirjattava maksulaitoksen kirjanpitoon erillään muista liiketapahtumista siten, että niiden määrää ja osuutta koko yrityksen liikevaihdosta voidaan jatkuvasti seurata riittävällä tarkkuudella. Finanssivalvonta antaa valvonnan kannalta tarpeellisia tarkempia teknisiä määräyksiä liiketapahtumien kirjaamisesta.",
+      "section_number": "30",
+      "chapter_number": 5,
+      "statute_id": "290/2010"
+    },
+    {
+      "id": "c8bfcba9-faa6-4208-8bff-d5328a931f79",
+      "node_type": "Section",
+      "publisher": "finlex",
+      "title": "31 § Omien varojen vähimmäismäärästä poikkeaminen",
+      "text": "Finanssivalvonta voi, jos se maksulaitoksen riskienhallintaa, tappion kantokykyä tai sisäisen valvonnan menetelmiä koskevien arvioiden perusteella on välttämätöntä, enintään kolmen vuoden ajaksi edellyttää, että maksulaitoksen omien varojen määrä on enintään 20 prosenttia suurempi kuin omien varojen laskemisessa käytetyn menetelmän nojalla saatu määrä. Finanssivalvonta voi vastaavasti myös alentaa vaadittavien omien varojen määrää enintään 20 prosentilla enintään kolmen vuoden ajaksi.",
+      "section_number": "31",
+      "chapter_number": 5,
+      "statute_id": "290/2010"
+    },
+    {
+      "id": "43e458a7-7a1d-4d63-b903-2c58b47936f7",
+      "node_type": "Section",
+      "publisher": "finlex",
+      "title": "32 § Markkinointi",
+      "text": "Maksulaitoksen on markkinoinnissaan annettava asiakkaalle markkinoitavasta maksupalvelusta kaikki ne tiedot, joilla saattaa olla merkitystä asiakkaan tehdessä palvelua koskevia ratkaisuja. Maksulaitos ei saa markkinoinnissaan antaa totuudenvastaisia tai harhaanjohtavia tietoja eikä käyttää muutoinkaan asiakkaan kannalta sopimatonta tai hyvän tavan vastaista menettelyä. Kuluttajan kannalta sopimattomasta tai hyvän tavan vastaisesta menettelystä säädetään lisäksi kuluttajansuojalain (38/1978) 2 luvussa. Markkinointia, joka ei sisällä asiakkaan taloudellisen turvallisuuden kannalta tarpeellisia tietoja, on aina pidettävä sopimattomana.",
+      "section_number": "32",
+      "chapter_number": 6,
+      "statute_id": "290/2010"
+    },
+    {
+      "id": "e6861dc2-71d1-4ab4-b4ae-7b620f17077f",
+      "node_type": "Section",
+      "publisher": "finlex",
+      "title": "33 § Sopimusehdot",
+      "text": "Maksulaitos ei saa maksupalvelutoiminnassaan käyttää sopimusehtoa, joka ei kuulu maksupalvelutoimintaan tai jota sen sisältö, osapuolten asema tai olosuhteet huomioon ottaen on pidettävä asiakkaan kannalta kohtuuttomana. Kohtuuttomana sopimusehtoa on pidettävä aina, jos maksupalvelutoiminnan ulkopuolisten tavaroiden, palveluiden tai muiden hyödykkeiden hankkiminen tai käyttö asiakkaan kannalta kokonaisuutena arvioiden asiattomasti vaikuttaa sopimuksen voimassaoloon tai muihin sopimuksen ehtoihin taikka jos asiakkaan oikeutta ryhtyä sopimussuhteeseen muun elinkeinonharjoittajan kanssa rajoitetaan. Maksulaitoksen on toimitettava Finanssivalvonnalle maksupalvelutoiminnassa käytettävien vakiosopimusten ehdot.",
+      "section_number": "33",
+      "chapter_number": 6,
+      "statute_id": "290/2010"
+    },
+    {
+      "id": "895dd393-c07c-4bdd-8b5d-89a111acd943",
+      "node_type": "Section",
+      "publisher": "finlex",
+      "title": "34 § Vajaavaltainen tilinomistaja",
+      "text": "Viisitoista vuotta täyttänyt vajaavaltainen voi itse tehdä maksulaitoksen kanssa maksutiliä koskevan sopimuksen niistä varoista, joista hänellä holhoustoimesta annetun lain (442/1999) 25 §:n 1 momentin mukaan tai muulla perusteella on oikeus määrätä, sekä tehdä käteispanoja maksutilille ja käteisnostoja maksutililtä sekä muutoinkin määrätä maksutilistä. Edunvalvoja voi kuitenkin holhousviranomaisen suostumuksella ottaa maksutilillä olevat varat hoitoonsa, jos vajaavaltaisen etu sitä vaatii. Jos viisitoista vuotta täyttäneen vajaavaltaisen nimissä olevalla maksutilillä on varoja ehdolla, että ainoastaan hänellä itsellään on oikeus nostaa varoja, määräävät maksutilillä olevista varoista vajaavaltainen ja hänen edunvalvojansa yhdessä. Ehdosta voidaan kuitenkin poiketa tuomioistuimen luvalla.",
+      "section_number": "34",
+      "chapter_number": 6,
+      "statute_id": "290/2010"
+    },
+    {
+      "id": "ba2daabf-fcc0-45cd-b4c2-a67748fed50b",
+      "node_type": "Section",
+      "publisher": "finlex",
+      "title": "35 § Koronmaksuvelvollisuuden vanheneminen",
+      "text": "Kun kymmenen vuotta on kulunut sen kalenterivuoden lopusta, jonka kuluessa maksutiliä on viimeksi käytetty, lakkaa maksulaitoksen velvollisuus maksaa korkoa varoille, jollei tiliehdoista muuta johdu.",
+      "section_number": "35",
+      "chapter_number": 6,
+      "statute_id": "290/2010"
+    },
+    {
+      "id": "ad49bfee-895c-432e-84e2-44263e6ef00d",
+      "node_type": "Section",
+      "publisher": "finlex",
+      "title": "36 § Kuittaus",
+      "text": "Maksulaitos ei saa vastasaatavallaan kuitata sellaisia yksityishenkilön maksutilillä olevia tai tälle maksettavaksi osoitettuja varoja, joita ei lain mukaan saa ulosmitata. Maksulaitoksen on ennen kuittausta selvitettävä varojen ulosmittauskelpoisuus. Kuittausvaatimuksesta on ilmoitettava tilinomistajalle. Tämän momentin vastainen kuittaus on mitätön. Jos varojen ulosmittauskelpoisuuden selvittäminen ei ole mahdollista ilman kohtuutonta vaivaa, maksulaitos saa kuitenkin vaatia kuittausta, jos se ilmoittaa tilinomistajalle kuittausvaatimuksen yhteydessä kirjallisesti 1 momentissa säädetystä kuittausoikeuden rajoituksesta sekä tässä momentissa säädetystä kuittauksen peruuntumisesta. Kuittaus peruuntuu, jos tilinomistaja 14 päivän kuluessa kuittausvaatimuksesta tiedon saatuaan esittää selvityksen siitä, etteivät varat ole ulosmittauskelpoisia. Jollei kuittausvaatimuksen tiedoksisaamisen ajankohdasta voida esittää muuta selvitystä, vaatimuksen katsotaan tulleen tilinomistajan tietoon seitsemäntenä päivänä vaatimusta koskevan ilmoituksen lähettämisestä. Jos tilinomistajalle ei anneta tässä momentissa säädettyjä tietoja, kuittaus on mitätön. Mitä 1 momentissa säädetään, ei koske tilinomistajan nimenomaiseen valtuutukseen perustuvia veloituksia tilillä olevista varoista. Tällaisen valtuutuksen tilinomistaja voi peruuttaa milloin tahansa. Muu sopimus, jolla vähennetään tilinomistajalle tämän pykälän mukaan kuuluvia oikeuksia, on mitätön.",
+      "section_number": "36",
+      "chapter_number": 6,
+      "statute_id": "290/2010"
+    },
+    {
+      "id": "5ea4b0df-2901-4306-b84c-cd74c15e18ce",
+      "node_type": "Section",
+      "publisher": "finlex",
+      "title": "37 § Salassapitovelvollisuus",
+      "text": "Joka maksulaitoksen tai sen kanssa samaan ryhmään kuuluvan yrityksen, maksulaitoksen asiamiehen tai muun maksulaitoksen lukuun toimivan yrityksen toimielimen jäsenenä tai varajäsenenä tai niiden palveluksessa taikka niiden toimeksiannosta tehtävää suorittaessaan on saanut tietää maksulaitoksen tai sen kanssa samaan ryhmään kuuluvan yrityksen asiakkaan tai muun sen toimintaan liittyvän henkilön taloudellista asemaa tai yksityisen henkilökohtaisia oloja koskevan seikan taikka liike- tai ammattisalaisuuden, on velvollinen pitämään sen salassa, ellei se, jonka hyväksi vaitiolovelvollisuus on säädetty, anna suostumustaan sen ilmaisemiseen. Salassa pidettäviä tietoja ei saa antaa myöskään yhtiökokoukselle, osuuskunnan kokoukselle tai edustajistolle eikä kokoukseen osallistuvalle osakkeenomistajalle tai jäsenelle. Maksulaitoksella ja sen kanssa samaan ryhmään kuuluvalla yrityksellä on sen estämättä, mitä salassapitovelvollisuudesta säädetään, velvollisuus antaa 1 momentissa tarkoitettuja tietoja syyttäjä- ja esitutkintaviranomaiselle rikoksen selvittämiseksi sekä muulle viranomaiselle, jolla on lain mukaan oikeus saada sellaisia tietoja. Mitä osuuskuntalain (1488/2001) 7 luvun 6 §:ssä säädetään, ei koske maksulaitosta eikä sen kanssa samaan ryhmään kuuluvaa yritystä.",
+      "section_number": "37",
+      "chapter_number": 6,
+      "statute_id": "290/2010"
+    },
+    {
+      "id": "a84202ae-2af6-4ef0-9d9e-d82f292bc963",
+      "node_type": "Section",
+      "publisher": "finlex",
+      "title": "38 § Tietojen luovuttaminen samaan konsolidointiryhmään tai rahoitus- ja vakuutusryhmittymään kuuluvalle yritykselle",
+      "text": "Maksulaitoksella ja sen kanssa samaan luottolaitostoiminnasta annetussa laissa tai sijoituspalveluyrityksistä annetussa laissa tarkoitettuun konsolidointiryhmään kuuluvalla yrityksellä on sen estämättä, mitä salassapitovelvollisuudesta säädetään, oikeus antaa 37 §:ssä tarkoitettuja tietoja samaan konserniin, konsolidointiryhmään tai rahoitus- ja vakuutusryhmittymien valvonnasta annetussa laissa tarkoitettuun rahoitus- ja vakuutusryhmittymään kuuluvalle yhteisölle asiakaspalvelua ja muuta asiakassuhteen hoitamista, markkinointia sekä konsernin, konsolidointiryhmän tai rahoitus- ja vakuutusryhmittymän riskienhallintaa varten, jos tietojen vastaanottajaa koskee tässä laissa säädetty tai vastaava salassapitovelvollisuus. Mitä tässä momentissa säädetään tietojen luovuttamisesta, ei koske henkilötietolain (523/1999) 11 §:ssä tarkoitettujen arkaluonteisten tietojen luovuttamista eikä sellaisia tietoja, jotka perustuvat asiakkaan ja muun kuin ryhmittymään kuuluvan yrityksen välisten maksutietojen rekisteröintiin. Sen lisäksi, mitä 1 momentissa säädetään, maksulaitos ja maksulaitoksen kanssa samaan konsolidointiryhmään kuuluva yritys voivat luovuttaa asiakasrekisterissään olevia markkinointia sekä asiakaspalvelua ja muuta asiakassuhteen hoitamista varten tarpeellisia tietoja sellaiselle yhteisölle, joka kuuluu maksulaitoksen kanssa samaan taloudelliseen yhteenliittymään, jos tietojen vastaanottajaa koskee tässä laissa säädetty tai sitä vastaava salassapitovelvollisuus. Mitä tässä momentissa säädetään tietojen luovuttamisesta, ei koske henkilötietolain 11 §:ssä tarkoitettujen arkaluonteisten tietojen luovuttamista.",
+      "section_number": "38",
+      "chapter_number": 6,
+      "statute_id": "290/2010"
+    },
+    {
+      "id": "dddc6df6-4106-4c32-a6c0-48e1ef00b25d",
+      "node_type": "Section",
+      "publisher": "finlex",
+      "title": "39 § Asiakkaiden tunteminen",
+      "text": "Maksulaitoksen on tunnettava asiakkaansa. Maksulaitoksen on lisäksi tarvittaessa tunnettava asiakkaan todellinen edunsaaja ja henkilö, joka toimii asiakkaan lukuun. Tässä momentissa säädettyä velvollisuutta täytettäessä voidaan hyödyntää 2 momentissa tarkoitettuja järjestelmiä. Maksulaitoksella on oltava riittävät riskienhallintajärjestelmät, joilla ne voivat arvioida asiakkaista toiminnalleen aiheutuvia riskejä. Asiakkaan tuntemisessa on lisäksi voimassa, mitä rahanpesun ja terrorismin rahoituksen estämisestä ja selvittämisestä annetussa laissa säädetään. Finanssivalvonta voi antaa tarkempia määräyksiä 1 momentissa tarkoitetuista asiakkaan tuntemisessa noudatettavista menettelytavoista ja 2 momentissa tarkoitetusta riskienhallinnasta.",
+      "section_number": "39",
+      "chapter_number": 6,
+      "statute_id": "290/2010"
+    },
+    {
+      "id": "91ffa0cb-aa35-40fb-9fcc-65634e580fb3",
+      "node_type": "Section",
+      "publisher": "finlex",
+      "title": "40 § Maksujärjestelmään osallistuminen",
+      "text": "Maksujärjestelmän ylläpitäjä ei saa maksujärjestelmän säännöissä asettaa maksupalveluntarjoajan maksujärjestelmään osallistumiselle perusteettomia, kohtuuttomia tai syrjiviä vaatimuksia. Riskeiltä suojautumista sekä maksujärjestelmän taloudellisen ja toiminnan vakauden varmistamista koskevien vaatimusten tulee olla tarpeellisia ja kohtuullisia. Maksujärjestelmän säännöissä ei saa rajoittaa maksupalveluntarjoajien, maksupalvelunkäyttäjien tai muiden maksujärjestelmien osallistumista muihin maksujärjestelmiin. Maksujärjestelmään osallistumiseen liittyvät oikeudet, velvollisuudet, edut tai rajoitukset eivät saa perustua maksupalveluntarjoajien, maksupalvelunkäyttäjien tai muiden maksujärjestelmien oikeudelliseen muotoon tai asemaan.",
+      "section_number": "40",
+      "chapter_number": 6,
+      "statute_id": "290/2010"
+    },
+    {
+      "id": "798c4f91-6aa9-4692-ad13-dcfd80b1d1e9",
+      "node_type": "Section",
+      "publisher": "finlex",
+      "title": "41 § Poikkeus oikeudesta päästä maksujärjestelmään",
+      "text": "Mitä 40 §:ssä säädetään, ei koske:",
+      "section_number": "41",
+      "chapter_number": 6,
+      "statute_id": "290/2010"
+    },
+    {
+      "id": "154be51f-49fd-4319-81ac-ca04afe6b2e8",
+      "node_type": "Section",
+      "publisher": "finlex",
+      "title": "42 § Sivuliikkeen perustaminen toiseen Euroopan talousalueeseen kuuluvaan valtioon",
+      "text": "Maksulaitoksen, joka aikoo perustaa sivuliikkeen toiseen Euroopan talousalueeseen kuuluvaan valtioon, on ilmoitettava siitä etukäteen Finanssivalvonnalle. Ilmoituksen tulee sisältää tieto valtiosta, jonka alueelle sivuliike aiotaan perustaa, tiedot tarjottavista maksupalveluista, sivuliikkeen organisaatiorakenteesta ja asiamiehen käyttämisestä sekä sivuliikkeen toiminnasta vastuussa olevien henkilöiden nimet. Finanssivalvonnan on kuukauden kuluessa 1 momentissa tarkoitetun ilmoituksen vastaanottamisesta ilmoitettava sivuliikkeen perustamisesta asianomaisen valtion Finanssivalvontaa vastaavalle valvontaviranomaiselle ja liitettävä ilmoitukseen 1 momentissa tarkoitetut tiedot. Finanssivalvonnan on kieltäydyttävä tekemästä ilmoitusta, jos se havaitsee, ettei sivuliikkeen perustaminen täytä maksulaitoksen taloudellinen tilanne ja hallinto huomioon ottaen sivuliikkeen perustamiselle asetettuja edellytyksiä. Sivuliikettä ei saa perustaa, jos Finanssivalvonta kieltäytyy tekemästä ilmoitusta.",
+      "section_number": "42",
+      "chapter_number": 7,
+      "statute_id": "290/2010"
+    },
+    {
+      "id": "8f7faa3a-3839-4385-bf5d-91184ece9378",
+      "node_type": "Section",
+      "publisher": "finlex",
+      "title": "43 § Toiseen Euroopan talousalueeseen kuuluvaan valtioon sijoittautuneen asiamiehen käyttäminen",
+      "text": "Jos maksulaitos aikoo käyttää asiamiestä, joka on sijoittautunut toiseen Euroopan talousalueeseen kuuluvaan valtioon, asiamieheen sovelletaan soveltuvin osin 42 §:n sivuliikettä koskevia säännöksiä.",
+      "section_number": "43",
+      "chapter_number": 7,
+      "statute_id": "290/2010"
+    },
+    {
+      "id": "495433f9-878f-453a-a6bd-30bd0f7409fd",
+      "node_type": "Section",
+      "publisher": "finlex",
+      "title": "44 § Sivuliikkeen perustaminen valtioon, joka ei kuulu Euroopan talousalueeseen",
+      "text": "Maksulaitoksen, joka aikoo perustaa sivuliikkeen muuhun kuin Euroopan talousalueeseen kuuluvaan valtioon, on haettava lupa Finanssivalvonnalta. Lupa on myönnettävä, jos sivuliikkeen valvonta on riittävästi järjestettävissä ja jos sivuliikkeen perustaminen ei maksulaitoksen hallinto ja taloudellinen tila huomioon ottaen ole omiaan vaarantamaan maksulaitoksen toimintaa. Finanssivalvonnalla on oikeus luvan hakijaa kuultuaan asettaa lupaan sivuliikkeen toimintaa koskevia, valvonnan kannalta välttämättömiä rajoituksia ja ehtoja. Lupahakemukseen liitettävistä selvityksistä säädetään valtiovarainministeriön asetuksella.",
+      "section_number": "44",
+      "chapter_number": 7,
+      "statute_id": "290/2010"
+    },
+    {
+      "id": "f63d11f8-ff28-466a-8090-b024657a2a32",
+      "node_type": "Section",
+      "publisher": "finlex",
+      "title": "45 § Palvelujen tarjoaminen toiseen Euroopan talousalueeseen kuuluvaan valtioon",
+      "text": "Maksulaitoksen, joka aikoo tarjota maksupalveluja toisen Euroopan talousalueeseen kuuluvan valtion alueella perustamatta sivuliikettä, on ilmoitettava etukäteen Finanssivalvonnalle, mitä palveluja se aikoo tarjota. Finanssivalvonnan on kuukauden kuluessa ilmoituksen vastaanottamisesta ilmoitettava 1 momentissa tarkoitetun valtion valvontaviranomaiselle maksulaitoksen nimi, osoite, organisaatiorakenne, maksulaitoksen johtamisesta vastuussa olevien henkilöiden nimet sekä palvelut, joita maksulaitos aikoo tarjota.",
+      "section_number": "45",
+      "chapter_number": 7,
+      "statute_id": "290/2010"
+    },
+    {
+      "id": "a71ff97c-7568-4e78-b01a-f3fd7bcbf552",
+      "node_type": "Section",
+      "publisher": "finlex",
+      "title": "46 § Kotipaikan siirto toiseen Euroopan talousalueeseen kuuluvaan valtioon",
+      "text": "Jos maksulaitos aikoo siirtää kotipaikkansa toiseen Euroopan talousalueeseen kuuluvaan valtioon siten kuin eurooppayhtiöasetuksen 8 artiklassa tai eurooppaosuuskunta-asetuksen 7 artiklassa säädetään, maksulaitoksen on lähetettävä Finanssivalvonnalle jäljennös eurooppayhtiöasetuksen 8 artiklan 2 ja 3 kohdassa tai eurooppaosuuskunta-asetuksen 7 artiklan 2 ja 3 kohdassa tarkoitetusta siirtosuunnitelmasta ja selonteosta viipymättä sen jälkeen, kun maksulaitos on ilmoittanut suunnitelman rekisteröitäväksi. Jos maksulaitos aikoo kotipaikan siirron jälkeen jatkaa maksupalvelutoimintaa Suomessa, siihen sovelletaan, mitä ulkomaisen maksulaitoksen toiminnasta Suomessa säädetään. Rekisteriviranomainen ei saa antaa eurooppayhtiölain 9 §:n 5 momentissa tai eurooppaosuuskuntalain 9 §:n 5 momentissa tarkoitettua todistusta, jos Finanssivalvonta on ilmoittanut rekisteriviranomaiselle ennen eurooppayhtiölain 9 §:n 2 momentissa tai eurooppaosuuskuntalain 9 §:n 3 momentissa tarkoitetun luvan myöntämistä, että maksulaitos ei ole noudattanut kotipaikan siirtoa, Suomessa tapahtuvan toiminnan jatkamista tai toiminnan lopettamista koskevia säännöksiä. Todistuksen saa antaa ennen kuin kuukausi on kulunut osakeyhtiölain 16 luvun 6 §:n 2 momentissa tai osuuskuntalain 16 luvun 13 §:n 1 momentissa tarkoitetusta määräpäivästä vain, jos Finanssivalvonta on ilmoittanut, ettei se vastusta kotipaikan siirtoa.",
+      "section_number": "46",
+      "chapter_number": 7,
+      "statute_id": "290/2010"
+    },
+    {
+      "id": "0d0abe9e-275d-4a50-8c59-c1271c5a066c",
+      "node_type": "Section",
+      "publisher": "finlex",
+      "title": "47 § Sulautuminen ja jakautuminen toiseen Euroopan talousalueeseen kuuluvaan valtioon",
+      "text": "Jos maksulaitos, joka on eurooppayhtiö tai osakeyhtiö, osallistuu rajat ylittävään sulautumiseen tai rajat ylittävään jakautumiseen Euroopan talousalueella, rekisteriviranomainen ei saa antaa tällaista sulautumista koskevaa eurooppayhtiölain 4 §:n 3 momentissa taikka osakeyhtiölain 16 luvun 26 §:ssä tai jakautumista koskevaa 17 luvun 25 §:ssä tarkoitettua todistusta, jos Finanssivalvonta on ilmoittanut rekisteriviranomaiselle ennen luvan myöntämistä, että maksulaitos ei ole noudattanut sulautumista, jakautumista tai Suomessa tapahtuvan toiminnan jatkamista tai toiminnan lopettamista koskevia säännöksiä. Luvan saa antaa ennen kuin kuukausi on kulunut osakeyhtiölain 16 luvun 6 §:n 2 momentissa tai 17 luvun 6 §:n 2 momentissa tarkoitetusta määräpäivästä vain, jos Finanssivalvonta on ilmoittanut, ettei se vastusta sulautumista, jakautumista tai eurooppayhtiön perustamiseen liittyvää kotipaikan siirtoa. Jos maksulaitos, joka on eurooppaosuuskunta tai osuuskunta, osallistuu rajat ylittävään sulautumiseen tai rajat ylittävään jakautumiseen Euroopan talousalueella, rekisteriviranomainen ei saa antaa tällaista sulautumista koskevaa eurooppaosuuskuntalain 4 §:n 3 momentissa taikka osuuskuntalain 16 luvun 25 §:ssä tai jakautumista koskevaa 17 luvun 24 §:ssä tarkoitettua todistusta, jos Finanssivalvonta on ilmoittanut rekisteriviranomaiselle ennen luvan myöntämistä, että maksulaitos ei ole noudattanut sulautumista, jakautumista tai Suomessa tapahtuvan toiminnan jatkamista tai toiminnan lopettamista koskevia säännöksiä. Luvan saa antaa ennen kuin kuukausi on kulunut osuuskuntalain 16 luvun 6 §:n 2 momentissa tai 17 luvun 6 §:n 2 momentissa tarkoitetusta määräpäivästä vain, jos Finanssivalvonta on ilmoittanut, ettei se vastusta sulautumista, jakautumista tai eurooppaosuuskunnan perustamiseen liittyvää kotipaikan siirtoa. Jos toiseen valtioon rekisteröitävä vastaanottava yhtiö tai osuuskunta aikoo sulautumisen jälkeen jatkaa maksupalvelun tarjontaa Suomessa, yhtiöön ja osuuskuntaan sovelletaan, mitä ulkomaisen maksulaitoksen oikeudesta tarjota maksupalvelua Suomessa säädetään.",
+      "section_number": "47",
+      "chapter_number": 7,
+      "statute_id": "290/2010"
+    },
+    {
+      "id": "7b5e2b48-8864-4217-9b80-6db7086a54a9",
+      "node_type": "Section",
+      "publisher": "finlex",
+      "title": "48 § Vahingonkorvausvelvollisuus",
+      "text": "Joka tämän lain tai sen nojalla annettujen säännösten vastaisella menettelyllä aiheuttaa vahinkoa, on velvollinen korvaamaan vahinkoa kärsineelle aiheuttamansa vahingon. Vahingonkorvauksen sovittelusta sekä korvausvastuun jakautumisesta kahden tai useamman korvausvelvollisen kesken on voimassa, mitä vahingonkorvauslain (412/1974) 2 ja 6 luvussa säädetään.",
+      "section_number": "48",
+      "chapter_number": 8,
+      "statute_id": "290/2010"
+    },
+    {
+      "id": "5dad81fd-c041-4491-8d33-3ec8d6fac3bd",
+      "node_type": "Section",
+      "publisher": "finlex",
+      "title": "49 § Maksulaitosrikos",
+      "text": "Joka tahallaan tarjoaa maksupalvelua 6 §:n vastaisesti ilman toimilupaa tai 8 §:n 2 momentissa tarkoitettua päätöstä, on tuomittava, jollei teko ole vähäinen tai siitä muualla laissa säädetä ankarampaa rangaistusta,maksulaitosrikoksestasakkoon tai vankeuteen enintään kuudeksi kuukaudeksi. Maksulaitosrikoksesta tuomitaan myös asiamies, joka tarjoaa maksupalvelua 24 §:n 5 momentin vastaisesti ennen merkitsemistään rekisteriin. Rangaistus väärän todistuksen antamisesta viranomaiselle säädetään rikoslain (39/1889) 16 luvun 8 §:ssä.",
+      "section_number": "49",
+      "chapter_number": 8,
+      "statute_id": "290/2010"
+    },
+    {
+      "id": "eaf16364-686d-42ca-bd25-1affa97d0f36",
+      "node_type": "Section",
+      "publisher": "finlex",
+      "title": "50 § Salassapitovelvollisuuden rikkominen",
+      "text": "Rangaistus 37 §:ssä säädetyn salassapitovelvollisuuden rikkomisesta tuomitaan rikoslain 38 luvun 1 ja 2 §:n mukaan, jollei muualla laissa säädetä ankarampaa rangaistusta.",
+      "section_number": "50",
+      "chapter_number": 8,
+      "statute_id": "290/2010"
+    },
+    {
+      "id": "9f8dc52f-595b-4ee2-b60c-6712b1608908",
+      "node_type": "Section",
+      "publisher": "finlex",
+      "title": "51 § Voimaantulo",
+      "text": "Tämä laki tulee voimaan 1 päivänä toukokuuta 2010. Ennen lain voimaantuloa voidaan ryhtyä lain täytäntöönpanon edellyttämiin toimenpiteisiin.",
+      "section_number": "51",
+      "chapter_number": 9,
+      "statute_id": "290/2010"
+    },
+    {
+      "id": "3a421a51-c4c4-469b-9a73-05ec257a5b42",
+      "node_type": "Section",
+      "publisher": "finlex",
+      "title": "52 § Maksulaitoksen toimilupavaatimusta koskevat siirtymäsäännökset",
+      "text": "Finanssivalvonta myöntää ilman hakemusta tämän lain mukaisen maksulaitoksen toimiluvan oikeushenkilölle, jolla tämän lain voimaan tullessa on luottolaitostoiminnasta annetun lain mukainen maksuliikeyhteisön toimilupa, mutta joka ei laske liikkeeseen sähköistä rahaa. Finanssivalvonnan on ilmoitettava maksuliikeyhteisölle toimiluvan myöntämisestä ennen sen myöntämistä. Oikeushenkilön, joka tämän lain voimaan tullessa tarjoaa maksupalveluja ilman maksuliikeyhteisön toimilupaa, on haettava tämän lain mukaista toimilupaa Finanssivalvonnalta viimeistään 31 päivänä maaliskuuta 2011 tai lopetettava maksupalvelun tarjoaminen. Tässä momentissa säädettyä määräaikaa sovelletaan myös oikeushenkilön asiamieheen. Tämän lain voimaan tullessa ratkaisematta olevan maksuliikeyhteisön toimilupaa koskevan hakemuksen käsittelyyn sovelletaan tätä lakia. Luottolaitostoiminnasta annetussa laissa tarkoitetulle rahoituslaitokselle, joka tämän lain voimaan tullessa tarjoaa maksupalveluja ja joka kuuluu sen emoyrityksenä olevan luottolaitoksen konsolidoituun valvontaan, myönnetään toimilupa, jos se toimittaa Finanssivalvonnalle tiedot, jotka tämän lain 11 §:n ja sen nojalla annetun asetuksen mukaan on sisällytettävä toimilupahakemukseen ja rahoituslaitos täyttää tässä laissa säädetyt vaatimukset. Luonnollisen henkilön tai oikeushenkilön, joka on aloittanut tässä laissa tarkoitettujen maksupalveluiden tarjoamisen ennen tämän lain voimaantuloa ja joka täyttää 7 §:ssä tarkoitetut edellytykset, on haettava viimeistään 31 päivänä lokakuuta 2012 Finanssivalvonnalta 8 §:ssä tarkoitettua päätöstä tai lopetettava maksupalvelun tarjoaminen.",
+      "section_number": "52",
+      "chapter_number": 9,
+      "statute_id": "290/2010"
+    },
+    {
+      "id": "6280b76f-14a4-4db2-b9e3-ecdd46978832",
+      "node_type": "Section",
+      "publisher": "finlex",
+      "title": "53 § Rahanvälitystä tarjoavan luotettavuutta koskeva siirtymäsäännös",
+      "text": "Rahanvälitystä saa tarjota 52 §:n 2 momentin nojalla vain, jos palveluntarjoajan 13 §:n 2 momentissa tarkoitettu henkilö, ja 52 §:n 5 momentin nojalla vain, jos palvelun tarjoamisesta vastaava tai siihen osallistuva luonnollinen henkilö, on 13 §:n 3 momentissa säädetyllä tavalla luotettava.",
+      "section_number": "53",
+      "chapter_number": 9,
+      "statute_id": "290/2010"
+    },
+    {
+      "id": "3e5659fa-88e5-422b-8849-5ce704d8a485",
+      "node_type": "Section",
+      "publisher": "finlex",
+      "title": "54 § Maksupalveluiden tarjoamista ja maksulaitosrekisteriin merkitsemistä koskeva siirtymäsäännös",
+      "text": "Sen, joka tämän lain voimaan tullessa tarjoaa maksupalvelua ilman toimilupaa, on kahden kuukauden kuluessa tämän lain voimaantulosta ilmoitettava Finanssivalvonnalle, jos palveluntarjoaja aikoo jatkaa maksupalvelun tarjoamista 52 §:n 2 tai 5 momentin nojalla. Ilmoitukseen on sisällytettävä 16 §:n 1 momentissa tarkoitetut tiedot. Ilmoitusta ei tarvitse tehdä, jos palveluntarjoaja on hakenut toimilupaa tai 8 §:ssä tarkoitettua päätöstä. Ilmoitettujen tietojen muutoksista tai maksupalvelun tarjoamisen lopettamisesta on viipymättä ilmoitettava Finanssivalvonnalle. Finanssivalvonta merkitsee 1 momentissa tarkoitetut palveluntarjoajat erikseen maksulaitosrekisteriin. Merkintä on tehtävä siten, että tässä pykälässä tarkoitetut palveluntarjoajat erottuvat selkeästi 16 §:n nojalla rekisteriin merkityistä palveluntarjoajista.",
+      "section_number": "54",
+      "chapter_number": 9,
+      "statute_id": "290/2010"
+    }
+  ],
+  "clauses": [
+    {
+      "id": "3d8529ee-b728-462a-bd8c-7f53f416321e",
+      "node_type": "Clause",
+      "publisher": "finlex",
+      "title": "§ 1 mom 1",
+      "text": "1) palvelu käteispanon tekemiseksi maksutilille tai käteisen nostamiseksi maksutililtä sekä maksutilin hoitoon ja tarjoamiseen liittyvät toimet;",
+      "clause_number": 1,
+      "section_number": "1",
+      "statute_id": "290/2010"
+    },
+    {
+      "id": "411266f9-07e9-482d-bea1-32b9b9173ee4",
+      "node_type": "Clause",
+      "publisher": "finlex",
+      "title": "§ 1 mom 2",
+      "text": "2) maksutapahtuman toteuttaminen maksupalvelulaissa (290/2010) tarkoitettuna tilisiirtona, varojen siirtona palveluntarjoajan maksutilille, suoraveloituksena taikka maksukortilla tai muulla maksuvälineellä;",
+      "clause_number": 2,
+      "section_number": "1",
+      "statute_id": "290/2010"
+    },
+    {
+      "id": "d7fd1159-45b1-4fb1-927f-02036ed43515",
+      "node_type": "Clause",
+      "publisher": "finlex",
+      "title": "§ 1 mom 3",
+      "text": "3) maksuvälineen liikkeeseenlasku;",
+      "clause_number": 3,
+      "section_number": "1",
+      "statute_id": "290/2010"
+    },
+    {
+      "id": "be1715c9-df68-4192-a6de-39e5d898e3c2",
+      "node_type": "Clause",
+      "publisher": "finlex",
+      "title": "§ 1 mom 4",
+      "text": "4) maksuvälineellä toteutettava maksutapahtumaa koskevaa tapahtumahyvitys;",
+      "clause_number": 4,
+      "section_number": "1",
+      "statute_id": "290/2010"
+    },
+    {
+      "id": "ed84d2bb-01f3-4927-a0df-33580301c4c9",
+      "node_type": "Clause",
+      "publisher": "finlex",
+      "title": "§ 1 mom 5",
+      "text": "5) \n                                        palvelu, jossa palveluntarjoaja vastaanottaa maksajalta varoja perustamatta maksutiliä maksajan tai maksunsaajan nimiin ja jossa yksinomaisena tarkoituksena on siirtää vastaanotettuja varoja vastaava määrä maksunsaajalle tai maksunsaajan puolesta toimivalle toiselle palveluntarjoajalle tai jossa palveluntarjoaja vastaanottaa varat maksunsaajan puolesta ja asettaa ne tämän käyttöön (rahanvälitys);",
+      "clause_number": 5,
+      "section_number": "1",
+      "statute_id": "290/2010"
+    },
+    {
+      "id": "c233c4f6-4e37-4e28-bf4b-e7c38c1fc3f1",
+      "node_type": "Clause",
+      "publisher": "finlex",
+      "title": "§ 1 mom 6",
+      "text": "6) \n                                        maksutapahtuman toteuttaminen siten, että maksajan suostumus maksutapahtuman toteuttamiseen annetaan matkapuhelimella tai tietokoneella taikka muulla telepäätelaitteella tai tietoteknisellä laitteella ja maksu suoritetaan sellaiselle televiestintä- tai tietotekniikkajärjestelmää tai -verkkoa hoitavalle yritykselle, joka toimii ainoastaan maksutapahtuman välittäjänä maksupalvelun käyttäjän ja tavaran, palvelun tai muun hyödykkeen toimittajan välillä (teknisellä apuvälineellä toteutettava maksupalvelu).",
+      "clause_number": 6,
+      "section_number": "1",
+      "statute_id": "290/2010"
+    },
+    {
+      "id": "995241d6-8766-4bc9-a9fe-cf3bf6a7bee7",
+      "node_type": "Clause",
+      "publisher": "finlex",
+      "title": "§ 2 mom 1",
+      "text": "1) luottolaitostoiminnasta annetussa laissa (121/2007) tarkoitettu luottolaitos;",
+      "clause_number": 1,
+      "section_number": "2",
+      "statute_id": "290/2010"
+    },
+    {
+      "id": "b1c90166-9371-4afe-a988-8d833974fb3f",
+      "node_type": "Clause",
+      "publisher": "finlex",
+      "title": "§ 2 mom 2",
+      "text": "2) Valtiokonttori tai muu valtion viranomainen, Ahvenanmaan maakunta, kunta, kuntayhtymä, muu alueellinen tai paikallisviranomainen;",
+      "clause_number": 2,
+      "section_number": "2",
+      "statute_id": "290/2010"
+    },
+    {
+      "id": "cadd09e2-7047-44d0-96ae-210905ffb7e5",
+      "node_type": "Clause",
+      "publisher": "finlex",
+      "title": "§ 2 mom 3",
+      "text": "3) Kansaneläkelaitos tai muu itsenäinen julkisoikeudellinen laitos;",
+      "clause_number": 3,
+      "section_number": "2",
+      "statute_id": "290/2010"
+    },
+    {
+      "id": "b22b75d7-b2b4-4103-8a7d-30180e4c43ee",
+      "node_type": "Clause",
+      "publisher": "finlex",
+      "title": "§ 2 mom 4",
+      "text": "4) Euroopan keskuspankki, Suomen Pankki tai muu kansallinen keskuspankki;",
+      "clause_number": 4,
+      "section_number": "2",
+      "statute_id": "290/2010"
+    },
+    {
+      "id": "24ba337d-2b32-4c78-b2f4-c6681e09f676",
+      "node_type": "Clause",
+      "publisher": "finlex",
+      "title": "§ 2 mom 5",
+      "text": "5) yhteisö, jolle on myönnetty postipalvelulaissa (313/2001) tarkoitettu toimilupa;",
+      "clause_number": 5,
+      "section_number": "2",
+      "statute_id": "290/2010"
+    },
+    {
+      "id": "9ccaa3e0-4596-40b3-a44e-f2624ea38f71",
+      "node_type": "Clause",
+      "publisher": "finlex",
+      "title": "§ 2 mom 6",
+      "text": "6) valtion erityisrahoitusyhtiöstä annetussa laissa (443/1998) tarkoitettu yhtiö tai Teollisen yhteistyön rahasto Oy -nimisestä osakeyhtiöstä annetussa laissa (291/1979) tarkoitettu yhtiö.",
+      "clause_number": 6,
+      "section_number": "2",
+      "statute_id": "290/2010"
+    },
+    {
+      "id": "55ddf1b5-0819-4a82-8346-b971fb2050eb",
+      "node_type": "Clause",
+      "publisher": "finlex",
+      "title": "§ 2 mom 1",
+      "text": "1) rahankuljetuspalvelu;",
+      "clause_number": 1,
+      "section_number": "2",
+      "statute_id": "290/2010"
+    },
+    {
+      "id": "c818b65f-9ecd-4469-8008-e422c8a1edf2",
+      "node_type": "Clause",
+      "publisher": "finlex",
+      "title": "§ 2 mom 2",
+      "text": "2) palvelu, jossa tavaraa, palvelua tai muuta hyödykettä hankittaessa maksunsaaja antaa maksajalle käteistä osana maksamista koskevaa maksutapahtumaa;",
+      "clause_number": 2,
+      "section_number": "2",
+      "statute_id": "290/2010"
+    },
+    {
+      "id": "1959f7d4-a95b-4483-9343-49d5d149a760",
+      "node_type": "Clause",
+      "publisher": "finlex",
+      "title": "§ 2 mom 3",
+      "text": "3) sellaisiin välineisiin perustuva palvelu, joita voidaan käyttää tavaran, palvelun tai muun hyödykkeen hankkimiseksi ainoastaan välineen liikkeeseenlaskijan käyttämissä tiloissa taikka liikkeeseenlaskijan kanssa solmitun sopimuksen nojalla joko hyödykkeen tarjoajien rajatussa verkossa tai määrättyjen hyödykkeiden hankkimiseksi;",
+      "clause_number": 3,
+      "section_number": "2",
+      "statute_id": "290/2010"
+    },
+    {
+      "id": "9ac173da-a8b9-4754-a3b5-42a09676f6ed",
+      "node_type": "Clause",
+      "publisher": "finlex",
+      "title": "§ 2 mom 4",
+      "text": "4) palvelu käteisen nostamiseksi käteisautomaatista, jos palveluntarjoaja toimii yhden tai useamman maksukortin myöntäjän puolesta olematta käteistä nostavan asiakkaan kanssa tehdyn maksukorttia koskevan puitesopimuksen osapuoli, eikä palveluntarjoaja tarjoa muita maksupalveluja.",
+      "clause_number": 4,
+      "section_number": "2",
+      "statute_id": "290/2010"
+    },
+    {
+      "id": "1e8b2a73-39e4-4b9e-a5fb-38357e138b6a",
+      "node_type": "Clause",
+      "publisher": "finlex",
+      "title": "§ 3 mom 1",
+      "text": "1) kauppaedustajista ja myyntimiehistä annetussa laissa (417/1992) tarkoitetun kauppaedustajan tai muun vastaavan edustajan päämiehensä puolesta neuvottelemaan tai tekemään tavaraa, palvelua tai muuta hyödykettä koskevaan myynti- tai ostosopimukseen liittyvän maksun välittäminen;",
+      "clause_number": 1,
+      "section_number": "3",
+      "statute_id": "290/2010"
+    },
+    {
+      "id": "7dc0c27a-d52b-471a-8676-39d670736c17",
+      "node_type": "Clause",
+      "publisher": "finlex",
+      "title": "§ 3 mom 2",
+      "text": "2) maksutapahtuma, jonka perustana on palveluntarjoajan maksettavaksi asetettu paperinen shekki, asete, maksukuponki, matkashekki, velkakirja tai postiosoitus, ja jonka tarkoituksena on asettaa varoja maksunsaajan käytettäväksi;",
+      "clause_number": 2,
+      "section_number": "3",
+      "statute_id": "290/2010"
+    },
+    {
+      "id": "16fc8635-545a-44d1-a9f8-1eb4ce8c635a",
+      "node_type": "Clause",
+      "publisher": "finlex",
+      "title": "§ 3 mom 3",
+      "text": "3) maksujärjestelmässä tai arvopaperien selvitysjärjestelmässä toteutettavat maksutapahtumat palveluntarjoajien ja selvitysosapuolten, keskusvastapuolen, selvitysyhteisöjen tai keskuspankkien sekä muiden järjestelmään osallistuvien välillä;",
+      "clause_number": 3,
+      "section_number": "3",
+      "statute_id": "290/2010"
+    },
+    {
+      "id": "1e039f3e-e595-47fb-a740-d93e1bcfd456",
+      "node_type": "Clause",
+      "publisher": "finlex",
+      "title": "§ 3 mom 4",
+      "text": "4) sijoituspalveluyritysten, luottolaitosten, sijoituspalveluja tarjoavien yhteissijoitusyritysten, rahastoyhtiöiden, 3 kohdassa tarkoitettujen henkilöiden tai sellaisten muiden yritysten, jotka voivat säilyttää arvopapereita, omaisuudenhoitoon taikka arvopaperien lunastukseen tai myyntiin liittyvät maksutapahtumat;",
+      "clause_number": 4,
+      "section_number": "3",
+      "statute_id": "290/2010"
+    },
+    {
+      "id": "16605488-6c7d-4966-808d-5cf3ce138c2e",
+      "node_type": "Clause",
+      "publisher": "finlex",
+      "title": "§ 3 mom 5",
+      "text": "5) maksutapahtumat emoyrityksen ja sen tytäryrityksen tai saman emoyrityksen tytäryritysten välillä, jos maksupalvelun välittäjä kuuluu samaan ryhmään.",
+      "clause_number": 5,
+      "section_number": "3",
+      "statute_id": "290/2010"
+    },
+    {
+      "id": "dd524c8a-475f-49cf-aa8f-0652ab98f67d",
+      "node_type": "Clause",
+      "publisher": "finlex",
+      "title": "§ 5 mom 1",
+      "text": "6)varoillakäteistä, tilille kirjattua raha-arvoa ja luottolaitostoiminnasta annetun lain 6 §:n 1 momentissa tarkoitettua sähköistä rahaa;",
+      "clause_number": 1,
+      "section_number": "5",
+      "statute_id": "290/2010"
+    },
+    {
+      "id": "0cb49c13-ac42-473f-8fc4-ab7ed4997320",
+      "node_type": "Clause",
+      "publisher": "finlex",
+      "title": "§ 9 mom 1",
+      "text": "1) tarjota toiminnallisia tai maksupalveluihin läheisesti liittyviä lisäpalveluja, kuten valuutanvaihtopalveluita; sekä",
+      "clause_number": 1,
+      "section_number": "9",
+      "statute_id": "290/2010"
+    },
+    {
+      "id": "cb68d7b8-1c96-4661-95b0-50975e46535e",
+      "node_type": "Clause",
+      "publisher": "finlex",
+      "title": "§ 9 mom 2",
+      "text": "2) ylläpitää ja tarjota maksujärjestelmiä.",
+      "clause_number": 2,
+      "section_number": "9",
+      "statute_id": "290/2010"
+    },
+    {
+      "id": "12c36f40-493a-450e-88bf-36b35f465451",
+      "node_type": "Clause",
+      "publisher": "finlex",
+      "title": "§ 10 mom 1",
+      "text": "1) luotto liittyy 1 §:n 2―4 tai 6 kohdassa tarkoitettuun maksupalveluun ja se myönnetään ainoastaan osana kyseisen maksupalvelun toteuttamista;",
+      "clause_number": 1,
+      "section_number": "10",
+      "statute_id": "290/2010"
+    },
+    {
+      "id": "cba72336-6f68-48a3-b29d-5e4c593b7cf2",
+      "node_type": "Clause",
+      "publisher": "finlex",
+      "title": "§ 10 mom 2",
+      "text": "2) luotto myönnetään muista kuin maksutapahtumien toteuttamiseksi vastaanotetuista tai säilytettävistä varoista; sekä",
+      "clause_number": 2,
+      "section_number": "10",
+      "statute_id": "290/2010"
+    },
+    {
+      "id": "d2f1a532-a8a7-423d-99ae-14571a81ac26",
+      "node_type": "Clause",
+      "publisher": "finlex",
+      "title": "§ 10 mom 3",
+      "text": "3) luotto on sopimusehtojen mukaan maksettava takaisin enintään 12 kuukaudessa, jos maksulaitos tarjoaa luoton toiseen Euroopan talousalueeseen kuuluvaan valtioon perustamastaan sivuliikkeestä tai sivuliikettä perustamatta toisessa Euroopan talousalueeseen kuuluvassa valtiossa taikka sen tarjoaa tällaiseen valtioon sijoittautunut asiamies.",
+      "clause_number": 3,
+      "section_number": "10",
+      "statute_id": "290/2010"
+    },
+    {
+      "id": "aed3bff1-3174-4c7d-bbe9-cf81c3c139af",
+      "node_type": "Clause",
+      "publisher": "finlex",
+      "title": "§ 17 mom 1",
+      "text": "1) maksulaitosta koskevan täydellisen otteen kaupparekisteristä, johon sisältyvät yhtiöjärjestys tai säännöt; sekä",
+      "clause_number": 1,
+      "section_number": "17",
+      "statute_id": "290/2010"
+    },
+    {
+      "id": "f2707668-81cc-41d2-b3b5-0d7064dc66ce",
+      "node_type": "Clause",
+      "publisher": "finlex",
+      "title": "§ 17 mom 2",
+      "text": "2) hallintoneuvoston ja hallituksen jäsenten ja varajäsenten, toimitusjohtajan ja toimitusjohtajan sijaisen, vastuunalaisen yhtiömiehen, yhtiömiehen sekä tilintarkastajien ja varatilintarkastajien nimet.",
+      "clause_number": 2,
+      "section_number": "17",
+      "statute_id": "290/2010"
+    },
+    {
+      "id": "be63ed55-7024-4b5e-868a-6a40d717f105",
+      "node_type": "Clause",
+      "publisher": "finlex",
+      "title": "§ 27 mom 1",
+      "text": "1) 20 000 euroa, jos maksulaitos tarjoaa yksinomaan rahanvälitystä;",
+      "clause_number": 1,
+      "section_number": "27",
+      "statute_id": "290/2010"
+    },
+    {
+      "id": "495892a8-6ce2-4e0f-af8b-899669717ca4",
+      "node_type": "Clause",
+      "publisher": "finlex",
+      "title": "§ 27 mom 2",
+      "text": "2) 50 000 euroa, jos maksulaitos tarjoaa teknisellä apuvälineellä toteutettavaa maksupalvelua;",
+      "clause_number": 2,
+      "section_number": "27",
+      "statute_id": "290/2010"
+    },
+    {
+      "id": "f34a754e-a086-4ca0-931f-7237e80939ee",
+      "node_type": "Clause",
+      "publisher": "finlex",
+      "title": "§ 27 mom 3",
+      "text": "3) 125 000 euroa, jos maksulaitos tarjoaa muuta kuin 1 ja 2 kohdassa tarkoitettua maksupalvelua.",
+      "clause_number": 3,
+      "section_number": "27",
+      "statute_id": "290/2010"
+    },
+    {
+      "id": "e9f67a4f-5d19-480a-82c4-9efcba2bfdeb",
+      "node_type": "Clause",
+      "publisher": "finlex",
+      "title": "§ 41 mom 1",
+      "text": "1) maksujärjestelmää, joka on nimetty eräistä arvopaperi- ja valuuttakaupan sekä selvitysjärjestelmän ehdoista annetun lain (1084/1999) nojalla;",
+      "clause_number": 1,
+      "section_number": "41",
+      "statute_id": "290/2010"
+    },
+    {
+      "id": "10f6e901-f2ea-4f92-9707-8446ab3d23fd",
+      "node_type": "Clause",
+      "publisher": "finlex",
+      "title": "§ 41 mom 2",
+      "text": "2) maksujärjestelmää, johon voivat osallistua yksinomaan samaan ryhmään kuuluvat palveluntarjoajat, edellyttäen, että palveluntarjoajien omien varojen määrä määräytyy ryhmän tasolla;",
+      "clause_number": 2,
+      "section_number": "41",
+      "statute_id": "290/2010"
+    },
+    {
+      "id": "5caf3d51-d7e2-4f40-8559-de07cf4c37a8",
+      "node_type": "Clause",
+      "publisher": "finlex",
+      "title": "§ 41 mom 3",
+      "text": "3) maksujärjestelmää, jossa yksi maksupalveluntarjoaja voi toimia sekä maksajan että maksunsaajan maksupalveluntarjoajana, vastaa yksin maksujärjestelmän hoidosta ja myöntää muille maksupalveluntarjoajille pääsyn maksujärjestelmään ja jossa muilla maksupalveluntarjoajilla ei ole oikeutta neuvotella keskenään maksujärjestelmään liittyvistä palkkioista.",
+      "clause_number": 3,
+      "section_number": "41",
+      "statute_id": "290/2010"
+    }
+  ],
+  "cross_references": [],
+  "raw_html_path": "C:\\Users\\danit\\finance-hack\\aalto-hackaton-2026\\data\\raw\\finlex\\Laki (säädöskokoelma)\\Maksulaitoslaki.html"
+}

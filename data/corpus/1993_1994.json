@@ -1,0 +1,68 @@
+{
+  "statute": {
+    "id": "ddff5d04-00bb-4cd0-a911-c9af5b702ef2",
+    "node_type": "Statute",
+    "publisher": "finlex",
+    "title": "Laki eräistä poikkeuksista kuntien valtionosuuslain säännöksiin vuonna 1995",
+    "text": "Laki eräistä poikkeuksista kuntien valtionosuuslain säännöksiin vuonna 1995",
+    "statute_id": "1993/1994",
+    "finlex_url": "https://finlex.fi/fi/laki/ajantasa/1993/1994"
+  },
+  "chapters": [],
+  "sections": [
+    {
+      "id": "90d45493-5fc3-4b01-bcb2-2e0c63c3a731",
+      "node_type": "Section",
+      "publisher": "finlex",
+      "title": "1  §",
+      "text": "Poiketen siitä, mitä kuntien valtionosuuslaissa (688/92) säädetään, alennetaan kuntien valtionosuuslain 8 §:n mukaisen yleisen valtionosuuden vuoden 1995 keskimääräisen markkamäärän laskennan lähtökohtana olevaa vuoden 1994 markkamäärää 2,7 prosenttia. Kuntien valtionosuuslain ja tämän lain 1 §:n 1 momentin mukaan kunnalle määräytyvästä vuoden 1995 yleisestä valtionosuudesta vähennetään: Vähennystä laskettaessa käytetään perusteina kunnan vuoden vaihteen 1993/1994 asukaslukua ja verovuodelta 1992 maksuunpantujen veroäyrien määrää.",
+      "section_number": "1",
+      "chapter_number": 1,
+      "statute_id": "1993/1994"
+    },
+    {
+      "id": "8ac13d0b-6372-4f59-95bd-6b5a926e5ce8",
+      "node_type": "Section",
+      "publisher": "finlex",
+      "title": "2  §",
+      "text": "Jos 1 §:n 2 momentin mukainen vähennys on suurempi kuin kunnalle kuntien valtionosuuslain 8 §:n ja tämän lain 1 §:n 1 momentin mukaan määräytyvä yleinen valtionosuus, ei erotusta peritä valtiolle.",
+      "section_number": "2",
+      "chapter_number": 1,
+      "statute_id": "1993/1994"
+    },
+    {
+      "id": "ba2e39c1-16c4-4017-8b86-34eb7c04fe6b",
+      "node_type": "Section",
+      "publisher": "finlex",
+      "title": "3  §",
+      "text": "Tämä laki tulee voimaan 1 päivänä tammikuuta 1995.",
+      "section_number": "3",
+      "chapter_number": 1,
+      "statute_id": "1993/1994"
+    }
+  ],
+  "clauses": [
+    {
+      "id": "8f6f38cd-ca3e-4d1f-9b6b-8a7375ebd747",
+      "node_type": "Clause",
+      "publisher": "finlex",
+      "title": "§ 1 mom 1",
+      "text": "1) kutakin kunnan asukasta kohden 33,30 markkaa; sekä",
+      "clause_number": 1,
+      "section_number": "1",
+      "statute_id": "1993/1994"
+    },
+    {
+      "id": "57c447d0-aa72-4807-a358-077a82951b5c",
+      "node_type": "Clause",
+      "publisher": "finlex",
+      "title": "§ 1 mom 2",
+      "text": "2) markkamäärä, joka saadaan jakamalla 252 700 000 markkaa kaikkien kuntien, Ahvenanmaan kuntia lukuun ottamatta, yhteenlaskettujen veroäyrien määrällä ja kertomalla tulos kunnan veroäyrien määrällä.",
+      "clause_number": 2,
+      "section_number": "1",
+      "statute_id": "1993/1994"
+    }
+  ],
+  "cross_references": [],
+  "raw_html_path": "C:\\Users\\danit\\finance-hack\\aalto-hackaton-2026\\data\\raw\\finlex\\Laki\\Laki eräistä poikkeuksista kuntien valtionosuuslain säännöksiin vuonna 1995.html"
+}

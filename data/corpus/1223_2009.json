@@ -1,0 +1,433 @@
+{
+  "statute": {
+    "id": "b58bfe46-347a-499a-a190-aa0141f1cd45",
+    "node_type": "Statute",
+    "publisher": "finlex",
+    "title": "Laki kosmeettisista valmisteista",
+    "text": "Laki kosmeettisista valmisteista",
+    "statute_id": "1223/2009",
+    "finlex_url": "https://finlex.fi/fi/laki/ajantasa/1223/2009"
+  },
+  "chapters": [
+    {
+      "id": "139e1736-f877-4345-867e-a62cc868e9a6",
+      "node_type": "Chapter",
+      "publisher": "finlex",
+      "title": "Chapter 1",
+      "text": "1 luku Yleiset säännökset",
+      "chapter_number": 1,
+      "statute_id": "1223/2009"
+    },
+    {
+      "id": "6d812209-7474-490b-bf10-8f54d516dbf2",
+      "node_type": "Chapter",
+      "publisher": "finlex",
+      "title": "Chapter 2",
+      "text": "2 luku Viranomaisten tehtävät",
+      "chapter_number": 2,
+      "statute_id": "1223/2009"
+    },
+    {
+      "id": "b612c475-08e0-4635-8211-88dbe01da1b8",
+      "node_type": "Chapter",
+      "publisher": "finlex",
+      "title": "Chapter 3",
+      "text": "3 luku Valvontaviranomaisen valvontakeinot ja muutoksenhaku",
+      "chapter_number": 3,
+      "statute_id": "1223/2009"
+    },
+    {
+      "id": "032539a2-0fb8-4636-827e-6fbed4c648f2",
+      "node_type": "Chapter",
+      "publisher": "finlex",
+      "title": "Chapter 4",
+      "text": "4 luku Kosmeettisia valmisteita koskevat vaatimukset",
+      "chapter_number": 4,
+      "statute_id": "1223/2009"
+    },
+    {
+      "id": "82934d16-11d9-4e5a-a105-02ce7445eead",
+      "node_type": "Chapter",
+      "publisher": "finlex",
+      "title": "Chapter 5",
+      "text": "5 luku Rangaistukset",
+      "chapter_number": 5,
+      "statute_id": "1223/2009"
+    },
+    {
+      "id": "ee8b3929-4e5a-49ef-b2de-a581e413b79c",
+      "node_type": "Chapter",
+      "publisher": "finlex",
+      "title": "Chapter 6",
+      "text": "6 luku Voimaantulo",
+      "chapter_number": 6,
+      "statute_id": "1223/2009"
+    }
+  ],
+  "sections": [
+    {
+      "id": "586d2876-e419-4796-8bd8-a54f1de7e200",
+      "node_type": "Section",
+      "publisher": "finlex",
+      "title": "1 § Lain soveltamisala",
+      "text": "Tässä laissa säädetään kosmeettisista valmisteista annetun Euroopan parlamentin ja neuvoston asetuksen (EY) N:o 1223/2009, jäljempänäEU:n kosmetiikka-asetus, täytäntöönpanosta.",
+      "section_number": "1",
+      "chapter_number": 1,
+      "statute_id": "1223/2009"
+    },
+    {
+      "id": "b7a3640e-4e34-4f64-8405-1ed4241bf04d",
+      "node_type": "Section",
+      "publisher": "finlex",
+      "title": "2 § Suhde muihin säädöksiin",
+      "text": "Tätä lakia ei sovelleta lääkelaissa (395/1987) tarkoitettuihin lääkkeisiin eikä terveydenhuollon laitteista ja tarvikkeista annetussa laissa (629/2010) tarkoitettuihin terveydenhuollon laitteisiin ja tarvikkeisiin. Lakia ei myöskään sovelleta kemikaalilaissa (744/1989) tarkoitettuihin biosidivalmisteisiin. Lakia sovelletaan tuotteiden kaupan pitämiseen liittyvää akkreditointia ja markkinavalvontaa koskevista vaatimuksista ja neuvoston asetuksen (ETY) N:o 339/93 kumoamisesta annetun Euroopan parlamentin ja neuvoston asetuksen (EY) N:o 765/2008 toimeenpanoon tässä laissa tarkoitetun kosmetiikkavalvonnan osalta. Kuluttajapalveluiden turvallisuudesta säädetään kuluttajaturvallisuuslaissa (920/2011). Sen lisäksi mitä tässä laissa säädetään, kosmeettisten valmisteiden markkinointia koskevien väittämien valvonnasta säädetään kuluttajansuojalaissa (38/1978). EU:n kosmetiikka-asetuksen 18 artiklan 1 kohdan c ja d alakohdan valvontaan sovelletaan koe-eläintoiminnasta annettua lakia (62/2006).",
+      "section_number": "2",
+      "chapter_number": 1,
+      "statute_id": "1223/2009"
+    },
+    {
+      "id": "97ee84ff-a3ee-443a-86c8-3dec8bb301e6",
+      "node_type": "Section",
+      "publisher": "finlex",
+      "title": "3 § Ministeriö",
+      "text": "Kosmeettisten valmisteiden valvonnan ylin johto ja ohjaus, seuranta ja kehittäminen kuuluvat sosiaali- ja terveysministeriölle.",
+      "section_number": "3",
+      "chapter_number": 2,
+      "statute_id": "1223/2009"
+    },
+    {
+      "id": "25cb8315-6645-49da-990c-95bc39525143",
+      "node_type": "Section",
+      "publisher": "finlex",
+      "title": "4 § Toimivaltainen viranomainen",
+      "text": "Turvallisuus- ja kemikaalivirasto toimii EU:n kosmetiikka-asetuksen 34 artiklassa tarkoitettuna toimivaltaisena viranomaisena. Lisäksi Tulli toimii EU:n kosmetiikka-asetuksen 34 artiklassa tarkoitettuna toimivaltaisena viranomaisena 5 artiklan 3 kohdassa, 6 artiklan 5 kohdassa sekä 7, 11, 13, 24—26, 28 ja 30 artiklassa tarkoitetuissa tilanteissa.",
+      "section_number": "4",
+      "chapter_number": 2,
+      "statute_id": "1223/2009"
+    },
+    {
+      "id": "02c7560a-0f17-4eb9-8429-fe87b75289a2",
+      "node_type": "Section",
+      "publisher": "finlex",
+      "title": "5 § Valvontaviranomaiset ja niiden tehtävät",
+      "text": "Turvallisuus- ja kemikaalivirasto valvoo tämän lain ja EU:n kosmetiikka-asetuksen noudattamista, kun on kyse kosmeettisten valmisteiden valmistuksesta, markkinoille saattamisesta ja asettamisesta saataville markkinoilla. Tulli valvoo tämän lain ja EU:n kosmetiikka-asetuksen noudattamista tuotaessa kosmeettisia valmisteita maahan Euroopan unionin ulkopuolelta sekä 12 §:ssä tarkoitetun maastavientikiellon noudattamista. Lisäksi Tulli valvoo EU:n kosmetiikka-asetuksen noudattamista toimitettaessa kosmeettisia valmisteita Suomeen Euroopan unionin jäsenmaista Suomessa tapahtuvan tavaraerän purkamisen ja siihen liittyvän varastoinnin yhteydessä. Tulli noudattaa 2 ja 3 momentissa tarkoitetussa valvonnassa tämän lain lisäksi myös tullilain (1466/1994) 13, 14, 19 ja 20 §:ää. Lääkealan turvallisuus- ja kehittämiskeskus vastaa EU:n kosmetiikka-asetuksen 10 artiklan 3 kohdassa tarkoitetun hyvän laboratoriokäytännön valvonnasta. Lääkealan turvallisuus- ja kehittämiskeskuksen toimivaltuuksiin turvallisuustestejä tekevien laboratorioiden hyväksymisessä ja tarkastamisessa sovelletaan, mitä 15 ja 16 §:ssä säädetään asiantuntijan käyttämisestä sekä tiedonsaannista ja salassa pidettävien tietojen luovuttamisesta sekä mitä lääkelaissa säädetään laboratorioiden toiminnassa tapahtuvista muutoksista ilmoittamisesta, laboratorioiden valvonnasta, ehtojen ja rajoitusten asettamisesta hyväksymiselle, hyväksymisen peruuttamisesta, tarkastajan toimivaltuuksista, määräysten antamisesta sekä määräystä koskevasta oikaisuvaatimusmenettelystä.",
+      "section_number": "5",
+      "chapter_number": 2,
+      "statute_id": "1223/2009"
+    },
+    {
+      "id": "24b8f8f1-4c89-4c9e-be34-7bcd74683beb",
+      "node_type": "Section",
+      "publisher": "finlex",
+      "title": "6 § Viranomaisten yhteistyö",
+      "text": "EU:n kosmetiikka-asetuksen 20 artiklan mukaisessa valvonnassa Turvallisuus- ja kemikaalivirasto, Tulli ja kuluttajansuojalain noudattamista valvovat viranomaiset tekevät tarkoituksenmukaista yhteistyötä keskenään.",
+      "section_number": "6",
+      "chapter_number": 2,
+      "statute_id": "1223/2009"
+    },
+    {
+      "id": "512c7ce7-2079-4aef-9fda-e73f41fd8187",
+      "node_type": "Section",
+      "publisher": "finlex",
+      "title": "7 § Kiellot ja määräykset",
+      "text": "Jollei EU:n kosmetiikka-asetuksen 2 artiklassa tarkoitettu maahantuoja, valmistaja, jakelija tai 4 artiklassa tarkoitettu vastuuhenkilö (toiminnanharjoittaja) noudata tämän lain tai EU:n kosmetiikka-asetuksen säännöksiä, valvontaviranomainen voi: Lisäksi valvontaviranomainen voi kieltää toiminnanharjoittajaa saattamasta lainsäädännön vastaisen kosmeettisen valmisteen markkinoille tai asettamasta valmisteen saataville markkinoilla tai kieltää muutoin luovuttamasta sitä sekä määrätä, että toiminnanharjoittajan on tehokkaasti ja välittömästi poistettava lainsäädännön vastaiset kosmeettiset valmisteet markkinoilta. Lisäksi valvontaviranomainen voi keskeyttää valmistuksen tai tuotannon siltä osin kuin se on välttämätöntä riskin torjumiseksi. Valvontaviranomaisen on toimittava asiassa kiireellisesti.",
+      "section_number": "7",
+      "chapter_number": 3,
+      "statute_id": "1223/2009"
+    },
+    {
+      "id": "e309d35e-2a99-4605-8fb5-2a164d24cf35",
+      "node_type": "Section",
+      "publisher": "finlex",
+      "title": "8 § Väliaikainen kielto",
+      "text": "Valvontaviranomainen voi määrätä 7 §:n 2 momentissa tarkoitetun kiellon väliaikaisena, jos sillä on syytä epäillä, että kosmeettinen valmiste voi olla lainsäädännön vastainen ja että se aiheuttaa tai voi aiheuttaa vakavaa riskiä ihmisen terveydelle. Väliaikainen kielto on voimassa, kunnes asia lopullisesti ratkaistaan mainitun pykälän nojalla. Valvontaviranomaisen on toimittava asiassa kiireellisesti. Turvallisuus- ja kemikaaliviraston velvollisuudesta toteuttaa väliaikaisia toimenpiteitä säädetään EU:n kosmetiikka-asetuksen 27 artiklassa.",
+      "section_number": "8",
+      "chapter_number": 3,
+      "statute_id": "1223/2009"
+    },
+    {
+      "id": "9ed0fe70-7d26-44e3-8e86-059410a98778",
+      "node_type": "Section",
+      "publisher": "finlex",
+      "title": "9 § Palautusmenettelystä määrääminen",
+      "text": "Turvallisuus- ja kemikaaliviraston velvollisuudesta määrätä toiminnanharjoittaja ottamaan takaisin loppukäyttäjältä kosmeettinen valmiste, joka aiheuttaa riskin terveydelle, säädetään EU:n kosmetiikka-asetuksen 25 ja 26 artiklassa.",
+      "section_number": "9",
+      "chapter_number": 3,
+      "statute_id": "1223/2009"
+    },
+    {
+      "id": "92d2ff26-f2a0-4fdf-b07e-62eb6c3dc88d",
+      "node_type": "Section",
+      "publisher": "finlex",
+      "title": "10 § Tiedottamisesta määrääminen",
+      "text": "Jos Turvallisuus- ja kemikaalivirasto on antanut 7—9 §:ssä tarkoitetun kiellon tai määräyksen taikka kosmeettiseen valmisteeseen tai sen käyttämiseen liittyy terveysriski, Turvallisuus- ja kemikaalivirasto voi velvoittaa toiminnanharjoittajan tiedottamaan asiasta määräajassa julkisesti ja määräämällään tavalla. Lisäksi Turvallisuus- ja kemikaalivirasto voi velvoittaa toiminnanharjoittajan toimittamaan loppukäyttäjille turvallisuuden varmistamiseksi tarpeelliset tiedot ja ohjeet. Turvallisuus- ja kemikaalivirasto voi toiminnanharjoittajan kustannuksella tiedottaa 1 momentissa tarkoitetuista asioista, jos toiminnanharjoittaja ei ole noudattanut viranomaisen antamaa tiedottamismääräystä tai jos asian kiireellisyyden vuoksi tiedottaminen on tarpeen ihmisen terveyteen kohdistuvan riskin johdosta.",
+      "section_number": "10",
+      "chapter_number": 3,
+      "statute_id": "1223/2009"
+    },
+    {
+      "id": "a3031a52-6464-4d1b-a8f3-26c255cc87e9",
+      "node_type": "Section",
+      "publisher": "finlex",
+      "title": "11 § Määräys hävittää valmiste",
+      "text": "Jos 7, 9 ja 10 §:ssä tarkoitettuja kieltoja ja määräyksiä ei voida pitää terveysriskin torjumiseksi riittävinä, valvontaviranomainen voi määrätä toiminnanharjoittajan hallussa olevan kosmeettisen valmisteen ja 9 §:n nojalla loppukäyttäjän toiminnanharjoittajalle palauttaman kosmeettisen valmisteen hävitettäväksi tai, jos tätä ei katsota tarkoituksenmukaiseksi, määrätä, miten valmisteen suhteen muutoin on meneteltävä.",
+      "section_number": "11",
+      "chapter_number": 3,
+      "statute_id": "1223/2009"
+    },
+    {
+      "id": "44ede2cb-3922-4810-abeb-7f00fdffe19a",
+      "node_type": "Section",
+      "publisher": "finlex",
+      "title": "12 § Maastaviennin kieltäminen",
+      "text": "Jos kosmeettinen valmiste on terveydelle vaarallinen ja riski on vakava, valvontaviranomainen voi kieltää sen maastaviennin tai kuljettamisen Suomen kautta. Valvontaviranomainen voi määrätä 1 momentissa tarkoitetun kiellon myös väliaikaisena, jos on syytä epäillä, että kosmeettisesta valmisteesta voi aiheutua riskiä terveydelle. Väliaikainen kielto on voimassa, kunnes asia lopullisesti ratkaistaan mainitun momentin nojalla.",
+      "section_number": "12",
+      "chapter_number": 3,
+      "statute_id": "1223/2009"
+    },
+    {
+      "id": "4640f004-8505-4422-abe4-bb23826a5304",
+      "node_type": "Section",
+      "publisher": "finlex",
+      "title": "13 § Oikeus saada tietoja ja tehdä tarkastuksia",
+      "text": "Valvontaviranomaisella on salassapitosäännösten estämättä oikeus saada nähtäväkseen tämän lain sekä EU:n kosmetiikka-asetuksen noudattamisen valvontaa varten tarpeelliset tiedot toiminnanharjoittajalta ja muulta henkilöltä, joita tämän lain ja sen nojalla annettujen säännösten sekä Euroopan unionin kosmetiikkasäädännön velvoitteet koskevat. Valvontaviranomaisella on oikeus tehdä tämän lain sekä EU:n kosmetiikka-asetuksen noudattamisen valvomiseksi tarvittavia tarkastuksia. Pysyväisluonteiseen asumiseen käytettyihin tiloihin valvontatoimenpiteet voidaan kuitenkin ulottaa vain, jos tarkastus on välttämätön tarkastuksen kohteena olevien seikkojen selvittämiseksi ja on syytä epäillä, että on tehty rikoslain (39/1889) 44 luvun 1 §:ssä tarkoitettu terveysrikos. Jäljempänä 15 §:ssä tarkoitetulle ulkopuoliselle asiantuntijalle ei tarkastusoikeutta pysyväisluonteiseen asumiseen käytettyihin tiloihin voida antaa.",
+      "section_number": "13",
+      "chapter_number": 3,
+      "statute_id": "1223/2009"
+    },
+    {
+      "id": "8154b988-6d56-4582-81a8-d15c3819991b",
+      "node_type": "Section",
+      "publisher": "finlex",
+      "title": "14 § Oikeus saada näytteitä ja tehdä tutkimuksia",
+      "text": "Valvontaviranomaisella on oikeus ottaa kosmeettisesta valmisteesta näytteitä, jos se on tämän lain tai EU:n kosmetiikka-asetuksen noudattamisen valvonnan kannalta tarpeellista. Edellä 1 momentissa tarkoitettu näyte on, jos toiminnanharjoittaja sitä vaatii, korvattava käyvän hinnan mukaan, jollei havaita, että kosmeettinen valmiste on tämän lain tai EU:n kosmetiikka-asetuksen säännösten vastainen. Jos näytteestä tai sen tutkimisesta peritään maksu sen mukaan kuin siitä erikseen säädetään, näytteestä ei kuitenkaan tarvitse suorittaa korvausta. Jos kosmeettinen valmiste ei täytä tässä laissa tai EU:n kosmetiikka-asetuksessa säädettyjä vaatimuksia, valvontaviranomainen voi velvoittaa toiminnanharjoittajan korvaamaan valmisteen hankinnasta, testauksesta ja tutkimisesta aiheutuneet kustannukset.",
+      "section_number": "14",
+      "chapter_number": 3,
+      "statute_id": "1223/2009"
+    },
+    {
+      "id": "9324550b-fa25-4fe6-a083-9f7d14614ed1",
+      "node_type": "Section",
+      "publisher": "finlex",
+      "title": "15 § Asiantuntijan käyttäminen",
+      "text": "Valvontaviranomainen voi valvontatoiminnassaan käyttää apunaan pätevää ulkopuolista asiantuntijaa, jolla on tarvittava asiantuntemus tarkastusten, tutkimusten ja selvitysten tekemiseen valvonnan kannalta merkityksellisen seikan selvittämisessä. Edellä 1 momentissa tarkoitettuun asiantuntijaan sovelletaan hänen suorittaessaan valvontatoimintaan liittyviä avustavia tehtäviä rikosoikeudellista virkavastuuta koskevia säännöksiä. Vahingonkorvausvastuusta säädetään vahingonkorvauslaissa (412/1974).",
+      "section_number": "15",
+      "chapter_number": 3,
+      "statute_id": "1223/2009"
+    },
+    {
+      "id": "17fe9602-e793-4492-b563-0071f02d0cae",
+      "node_type": "Section",
+      "publisher": "finlex",
+      "title": "16 § Oikeus saada tietoja toisilta viranomaisilta sekä luovuttaa salassa pidettäviä tietoja",
+      "text": "Tämän lain ja EU:n kosmetiikka-asetuksen noudattamista valvovilla viranomaisilla on oikeus sen lisäksi, mitä viranomaisten toiminnan julkisuudesta annetussa laissa (621/1999) säädetään, salassapitosäännösten ja muiden tiedon saantia koskevien rajoitusten estämättä saada esitutkinnan tai valvonnan kannalta tarpeellisia tietoja toiselta valvontaviranomaiselta ja käyttää toisen hankkimia näytteitä valvonnan kannalta tarpeellisiin tutkimuksiin. Sen mukaan mitä 1 momentissa säädetään, valvontaviranomainen saa luovuttaa valvottaessa saatuja tietoja yksityisen tai yhteisön taloudellisesta asemasta, liike- tai ammattisalaisuudesta taikka yksityisen henkilökohtaisista oloista Sosiaali- ja terveysalan lupa- ja valvontavirastolle, Elintarviketurvallisuusvirastolle ja Kilpailu- ja kuluttajavirastolle laissa säädettyä valvontaa varten, muiden EU-maiden toimivaltaisille viranomaisille EU:n kosmetiikka-asetuksen 29 ja 30 artiklan mukaisesti sekä esitutkintaviranomaiselle rikoksen estämiseksi ja selvittämiseksi ja syyttäjälle syyteharkintaa varten.",
+      "section_number": "16",
+      "chapter_number": 3,
+      "statute_id": "1223/2009"
+    },
+    {
+      "id": "5c690134-88c5-4ed1-8866-93d5c527ab28",
+      "node_type": "Section",
+      "publisher": "finlex",
+      "title": "17 § Virka-apu",
+      "text": "Poliisi on velvollinen antamaan virka-apua tämän lain ja sen nojalla annettujen määräysten sekä EU:n kosmetiikka-asetuksen noudattamisen valvomiseksi ja täytäntöön panemiseksi. Poliisin antamasta virka-avusta säädetään poliisilaissa (493/1995).",
+      "section_number": "17",
+      "chapter_number": 3,
+      "statute_id": "1223/2009"
+    },
+    {
+      "id": "8a6a35fc-f3aa-42a5-9731-71faf7d38b37",
+      "node_type": "Section",
+      "publisher": "finlex",
+      "title": "18 § Uhkasakko sekä teettämis- ja keskeyttämisuhka",
+      "text": "Turvallisuus- ja kemikaalivirasto voi tehostaa tämän lain nojalla antamaansa kieltoa tai määräystä uhkasakolla tai uhalla, että tekemättä jätetty toimenpide teetetään laiminlyöjän kustannuksella tai toiminta keskeytetään. Uhkasakon tuomitsee maksettavaksi hallinto-oikeus. Muutoin uhkasakosta, teettämisuhasta ja keskeyttämisuhasta säädetään uhkasakkolaissa (1113/1990).",
+      "section_number": "18",
+      "chapter_number": 3,
+      "statute_id": "1223/2009"
+    },
+    {
+      "id": "f284e180-7e56-427e-a9c3-874ec92fb970",
+      "node_type": "Section",
+      "publisher": "finlex",
+      "title": "19 § Maksut",
+      "text": "Viranomaisten tämän lain mukaisten suoritteiden maksullisuudesta ja suoritteista perittävien maksujen suuruuden yleisistä perusteista sekä maksujen muista perusteista säädetään valtion maksuperustelaissa (150/1992).",
+      "section_number": "19",
+      "chapter_number": 3,
+      "statute_id": "1223/2009"
+    },
+    {
+      "id": "30ede7d7-c4f9-4b88-9902-daf8dd234683",
+      "node_type": "Section",
+      "publisher": "finlex",
+      "title": "20 § Muutoksenhaku",
+      "text": "Viranomaisen tämän lain nojalla antamaan päätökseen haetaan muutosta siten kuin hallintolainkäyttölaissa (586/1996) säädetään. Sen estämättä, mitä 1 momentissa säädetään, valvontaviranomaisen määräämään 8 §:ssä tarkoitettuun väliaikaiseen kieltoon ja 12 §:n 2 momentissa tarkoitettuun väliaikaiseen maastaviennin kieltoon ei saa erikseen hakea muutosta valittamalla. Edellä 7 ja 9—11 §:n nojalla tehtävässä päätöksessä voidaan määrätä, että päätöstä on noudatettava muutoksenhausta huolimatta, jollei muutoksenhakuviranomainen toisin määrää.",
+      "section_number": "20",
+      "chapter_number": 3,
+      "statute_id": "1223/2009"
+    },
+    {
+      "id": "e99d5d13-ed85-4f41-b3a3-3a31c28d81b3",
+      "node_type": "Section",
+      "publisher": "finlex",
+      "title": "21 § Kosmeettisten valmisteiden merkintöjen ja tuotetietojen kielivaatimukset",
+      "text": "EU:n kosmetiikka-asetuksen 19 artiklan 1 kohdan b—d ja f alakohdassa sekä 2—4 kohdassa tarkoitetut tiedot on kielilain (423/2003) 34 §:n mukaisesti esitettävä suomen ja ruotsin kielellä. EU:n kosmetiikka-asetuksen 11 artiklassa tarkoitettujen, Suomessa säilytettävien tuotetietojen on oltava Turvallisuus- ja kemikaaliviraston ja Tullin saatavilla suomeksi, ruotsiksi tai englanniksi kosmeettisen valmisteen merkinnöissä ilmoitetussa osoitteessa.",
+      "section_number": "21",
+      "chapter_number": 4,
+      "statute_id": "1223/2009"
+    },
+    {
+      "id": "2f098150-2b75-4a18-9d16-f288d1b05226",
+      "node_type": "Section",
+      "publisher": "finlex",
+      "title": "22 § Pakkaamattomina myytävät kosmeettiset valmisteet",
+      "text": "Jos kosmeettista valmistetta ei myydä valmiiksi pakattuna, vaan se pakataan myyntipisteessä ostajan pyynnöstä tai se on pakattu välitöntä myyntiä varten, ostajalle on annettava erillisellä esitteellä tai muulla selostuksella EU:n kosmetiikka-asetuksen 19 artiklan 1 kohdassa tarkoitetut tiedot, jos ne eivät ostohetkellä ole muutoin selvästi havaittavissa. Kosmeettisen valmisteen turvallisen käytön kannalta tarpeelliset, EU:n kosmetiikka-asetuksen 19 artiklan 1 kohdan a, c, d, f ja g alakohdassa tarkoitetut tiedot on kuitenkin aina annettava ostajalle valmisteen mukana.",
+      "section_number": "22",
+      "chapter_number": 4,
+      "statute_id": "1223/2009"
+    },
+    {
+      "id": "74f23b1c-8b89-401d-a3c6-2d802ad3d33d",
+      "node_type": "Section",
+      "publisher": "finlex",
+      "title": "23 § Kosmetiikkarikkomus",
+      "text": "Joka tahallaan tai huolimattomuudesta rikkoo Jollei teosta muualla laissa säädetä ankarampaa rangaistusta, kosmetiikkarikkomuksesta tuomitaan myös se, joka tahallaan tai huolimattomuudesta rikkoo EU:n kosmetiikka-asetuksen Se, joka rikkoo tämän lain nojalla määrättyä, uhkasakolla tehostettua kieltoa tai määräystä, voidaan jättää tuomitsematta rangaistukseen samasta teosta.",
+      "section_number": "23",
+      "chapter_number": 5,
+      "statute_id": "1223/2009"
+    },
+    {
+      "id": "76733f75-bb8a-4d28-8cea-917791fa94a4",
+      "node_type": "Section",
+      "publisher": "finlex",
+      "title": "24 § Viittaus rikoslakiin",
+      "text": "Rangaistus terveysrikoksesta säädetään rikoslain 44 luvun 1 §:ssä.",
+      "section_number": "24",
+      "chapter_number": 5,
+      "statute_id": "1223/2009"
+    },
+    {
+      "id": "97284a22-0d49-4553-8632-03360b7d5090",
+      "node_type": "Section",
+      "publisher": "finlex",
+      "title": "25 § Voimaantulo",
+      "text": "Tämä laki tulee voimaan 11 päivänä heinäkuuta 2013. Tällä lailla kumotaan kosmeettisista valmisteista annettu laki (22/2005).",
+      "section_number": "25",
+      "chapter_number": 6,
+      "statute_id": "1223/2009"
+    },
+    {
+      "id": "d743a2b0-59e2-44f7-861f-f567a107fcdd",
+      "node_type": "Section",
+      "publisher": "finlex",
+      "title": "26 § Siirtymäsäännös",
+      "text": "Ennen tämän lain voimaantuloa vireille tulleet asiat käsitellään lain voimaan tullessa voimassa olleiden säännösten mukaisesti.",
+      "section_number": "26",
+      "chapter_number": 6,
+      "statute_id": "1223/2009"
+    }
+  ],
+  "clauses": [
+    {
+      "id": "1f35c134-5643-4473-8003-eb64d73417c1",
+      "node_type": "Clause",
+      "publisher": "finlex",
+      "title": "§ 7 mom 1",
+      "text": "1) kieltää toiminnanharjoittajaa jatkamasta tai toistamasta säännösten vastaista menettelyä;",
+      "clause_number": 1,
+      "section_number": "7",
+      "statute_id": "1223/2009"
+    },
+    {
+      "id": "474571ae-88a0-43ff-8e38-775f7c1f4b40",
+      "node_type": "Clause",
+      "publisher": "finlex",
+      "title": "§ 7 mom 2",
+      "text": "2) määrätä toiminnanharjoittaja tekemään riskin poistamiseksi välttämättömät toimenpiteet tai toiminnanharjoittajan kustannuksella itse toteuttaa tällaiset toimenpiteet;",
+      "clause_number": 2,
+      "section_number": "7",
+      "statute_id": "1223/2009"
+    },
+    {
+      "id": "ec2b4b6a-23e7-438c-8753-9c7b5d57407f",
+      "node_type": "Clause",
+      "publisher": "finlex",
+      "title": "§ 7 mom 3",
+      "text": "3) määrätä toiminnanharjoittajan muutoin täyttämään tässä laissa tai EU:n kosmetiikka-asetuksessa säädetyt velvoitteet.",
+      "clause_number": 3,
+      "section_number": "7",
+      "statute_id": "1223/2009"
+    },
+    {
+      "id": "deceec14-bb0d-4bd5-adc1-50af0069467c",
+      "node_type": "Clause",
+      "publisher": "finlex",
+      "title": "§ 23 mom 1",
+      "text": "1) 12 §:n 1 momentissa säädettyä maastaviennin tai kauttakuljetuksen kieltoa,",
+      "clause_number": 1,
+      "section_number": "23",
+      "statute_id": "1223/2009"
+    },
+    {
+      "id": "b1798407-2e44-43a4-a54e-7ff06fa45224",
+      "node_type": "Clause",
+      "publisher": "finlex",
+      "title": "§ 23 mom 1",
+      "text": "1) 12 §:n 1 momentissa säädettyä maastaviennin tai kauttakuljetuksen kieltoa,",
+      "clause_number": 1,
+      "section_number": "23",
+      "statute_id": "1223/2009"
+    },
+    {
+      "id": "dbb68953-3247-409b-b703-2e1d86dba2e1",
+      "node_type": "Clause",
+      "publisher": "finlex",
+      "title": "§ 23 mom 2",
+      "text": "2) 21 §:ssä säädettyä kosmeettisen valmisteen merkintöjen tai tuotetietojen kieltä koskevaa vaatimusta tai",
+      "clause_number": 2,
+      "section_number": "23",
+      "statute_id": "1223/2009"
+    },
+    {
+      "id": "54d5e84e-5d99-4c50-ab01-bf7e927ffaf7",
+      "node_type": "Clause",
+      "publisher": "finlex",
+      "title": "§ 23 mom 3",
+      "text": "3) 22 §:ssä säädettyjä kosmeettisia valmisteita koskevien tietojen antamista koskevia velvollisuuksia,",
+      "clause_number": 3,
+      "section_number": "23",
+      "statute_id": "1223/2009"
+    },
+    {
+      "id": "69156d0d-5fe6-463c-86cc-6997ff62e0a8",
+      "node_type": "Clause",
+      "publisher": "finlex",
+      "title": "§ 23 mom 1",
+      "text": "1) 5 artiklan mukaisia vastuuhenkilön velvollisuuksia,",
+      "clause_number": 1,
+      "section_number": "23",
+      "statute_id": "1223/2009"
+    },
+    {
+      "id": "97c45eea-f971-4242-9d10-21c6092ce853",
+      "node_type": "Clause",
+      "publisher": "finlex",
+      "title": "§ 23 mom 2",
+      "text": "2) 6 artiklan mukaisia jakelijoiden velvollisuuksia,",
+      "clause_number": 2,
+      "section_number": "23",
+      "statute_id": "1223/2009"
+    },
+    {
+      "id": "654f22b3-25c2-4847-a30e-b34f66759f02",
+      "node_type": "Clause",
+      "publisher": "finlex",
+      "title": "§ 23 mom 3",
+      "text": "3) 7 artiklan mukaista toimitusketjun nimeämisvelvollisuutta.",
+      "clause_number": 3,
+      "section_number": "23",
+      "statute_id": "1223/2009"
+    }
+  ],
+  "cross_references": [],
+  "raw_html_path": "C:\\Users\\danit\\finance-hack\\aalto-hackaton-2026\\data\\raw\\finlex\\Laki (säädöskokoelma)\\Laki kosmeettisista valmisteista.html"
+}

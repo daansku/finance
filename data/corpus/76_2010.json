@@ -1,0 +1,58 @@
+{
+  "statute": {
+    "id": "cb320522-46c7-41bb-abc4-c85ad2f50956",
+    "node_type": "Statute",
+    "publisher": "finlex",
+    "title": "Valtioneuvoston asetus merenkulun ympäristönsuojelusta annetun valtioneuvoston asetuksen muuttamisesta",
+    "text": "Valtioneuvoston asetus merenkulun ympäristönsuojelusta annetun valtioneuvoston asetuksen muuttamisesta",
+    "statute_id": "76/2010",
+    "finlex_url": "https://finlex.fi/fi/laki/ajantasa/76/2010"
+  },
+  "chapters": [
+    {
+      "id": "2d539fdc-a5e2-427f-bcdb-8ff8c1ea34dc",
+      "node_type": "Chapter",
+      "publisher": "finlex",
+      "title": "Chapter 6",
+      "text": "6 luku Aluksista aiheutuvan ilman pilaantumisen ehkäiseminen",
+      "chapter_number": 6,
+      "statute_id": "76/2010"
+    }
+  ],
+  "sections": [
+    {
+      "id": "588b0518-252d-46ca-bad8-6f4c405c3163",
+      "node_type": "Section",
+      "publisher": "finlex",
+      "title": "6 § Satamassa laiturissa olevassa aluksessa käytettävän polttoaineen rikkipitoisuus",
+      "text": "Satamassa laiturissa olevassa aluksessa käytettävän polttoaineen rikkipitoisuus saa olla enintään 0,1 painoprosenttia. Runsasrikkisempää polttoainetta saa käyttää ainoastaan, jos laivahenkilökunnalla ei ole riittävästi aikaa toteuttaa tarvittavaa polttoaineen vaihtoa mahdollisimman pian laituriin saapumisen jälkeen ja mahdollisimman myöhään ennen lähtöä. Polttoaineen vaihtoajankohta on merkittävä aluksella pidettävään päiväkirjaan. Edellä 1 momentissa säädettyä rikkipitoisuusvaatimusta ei sovelleta: Tämä asetus tulee voimaan 1 päivänä tammikuuta 2011.",
+      "section_number": "6",
+      "chapter_number": 6,
+      "statute_id": "76/2010"
+    }
+  ],
+  "clauses": [
+    {
+      "id": "665a848e-eb55-43ae-9147-8bee498917a7",
+      "node_type": "Clause",
+      "publisher": "finlex",
+      "title": "§ 6 mom 1",
+      "text": "1) alukseen, jonka julkaistun aikataulun mukaisesti on määrä olla satamassa alle kaksi tuntia;",
+      "clause_number": 1,
+      "section_number": "6",
+      "statute_id": "76/2010"
+    },
+    {
+      "id": "983b880f-0136-4637-8f19-05be94d0d5d2",
+      "node_type": "Clause",
+      "publisher": "finlex",
+      "title": "§ 6 mom 2",
+      "text": "2) alukseen, joka sammuttaa kaikki moottorinsa ja käyttää maasähköä ollessaan laiturissa.",
+      "clause_number": 2,
+      "section_number": "6",
+      "statute_id": "76/2010"
+    }
+  ],
+  "cross_references": [],
+  "raw_html_path": "C:\\Users\\danit\\finance-hack\\aalto-hackaton-2026\\data\\raw\\finlex\\Asetus\\Valtioneuvoston asetus merenkulun ympäristönsuojelusta annetun valtioneuvoston asetuksen muuttamisesta_3.html"
+}

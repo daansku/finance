@@ -1,0 +1,2558 @@
+{
+  "statute": {
+    "id": "75d2eb76-4f2f-4373-a56f-c0a1df1e34f4",
+    "node_type": "Statute",
+    "publisher": "finlex",
+    "title": "Laki rahanpesun ja terrorismin rahoittamisen estämisestä",
+    "text": "Laki rahanpesun ja terrorismin rahoittamisen estämisestä",
+    "statute_id": "878/2008",
+    "finlex_url": "https://finlex.fi/fi/laki/ajantasa/878/2008"
+  },
+  "chapters": [
+    {
+      "id": "5f0a3542-8b9b-47f7-a495-a250d25357bd",
+      "node_type": "Chapter",
+      "publisher": "finlex",
+      "title": "Chapter 1",
+      "text": "1 luku Yleiset säännökset",
+      "chapter_number": 1,
+      "statute_id": "878/2008"
+    },
+    {
+      "id": "6cdc1ef2-29e9-4b1a-85ef-fe875a9459b1",
+      "node_type": "Chapter",
+      "publisher": "finlex",
+      "title": "Chapter 2",
+      "text": "2 luku Riskiarvio",
+      "chapter_number": 2,
+      "statute_id": "878/2008"
+    },
+    {
+      "id": "c40cbf41-ae99-410c-9151-ec99652193d7",
+      "node_type": "Chapter",
+      "publisher": "finlex",
+      "title": "Chapter 3",
+      "text": "3 luku Asiakkaan tunteminen",
+      "chapter_number": 3,
+      "statute_id": "878/2008"
+    },
+    {
+      "id": "90440208-b12b-4183-b25a-9fe26d2ad8db",
+      "node_type": "Chapter",
+      "publisher": "finlex",
+      "title": "Chapter 4",
+      "text": "4 luku Ilmoitusvelvollisuus, salassapitovelvollisuus sekä liiketoimen keskeyttäminen",
+      "chapter_number": 4,
+      "statute_id": "878/2008"
+    },
+    {
+      "id": "64693454-343d-4cf6-862c-42d50e6df69d",
+      "node_type": "Chapter",
+      "publisher": "finlex",
+      "title": "Chapter 5",
+      "text": "5 luku Rahanpesun valvontarekisteri",
+      "chapter_number": 5,
+      "statute_id": "878/2008"
+    },
+    {
+      "id": "6db81aee-bd17-45d0-9ebb-388f0c0d26dc",
+      "node_type": "Chapter",
+      "publisher": "finlex",
+      "title": "Chapter 6",
+      "text": "6 luku Tosiasiallisia edunsaajia koskevat tiedot",
+      "chapter_number": 6,
+      "statute_id": "878/2008"
+    },
+    {
+      "id": "cd59dfa8-7d0f-442b-b421-35c30c0fe4fa",
+      "node_type": "Chapter",
+      "publisher": "finlex",
+      "title": "Chapter 7",
+      "text": "7 luku Valvonta",
+      "chapter_number": 7,
+      "statute_id": "878/2008"
+    },
+    {
+      "id": "b1688692-6650-4cbc-9a59-c95e6b196759",
+      "node_type": "Chapter",
+      "publisher": "finlex",
+      "title": "Chapter 8",
+      "text": "8 luku Hallinnolliset seuraamukset",
+      "chapter_number": 8,
+      "statute_id": "878/2008"
+    },
+    {
+      "id": "201ebe5a-e599-49fd-a979-41e39055104e",
+      "node_type": "Chapter",
+      "publisher": "finlex",
+      "title": "Chapter 9",
+      "text": "9 luku Erinäiset säännökset",
+      "chapter_number": 9,
+      "statute_id": "878/2008"
+    }
+  ],
+  "sections": [
+    {
+      "id": "62c8173f-973d-4cb8-b4e3-0bb574516565",
+      "node_type": "Section",
+      "publisher": "finlex",
+      "title": "1 § Lain tavoite",
+      "text": "Tämän lain tavoitteena on estää rahanpesua ja terrorismin rahoittamista, edistää tällaisen toiminnan paljastamista ja selvittämistä sekä tehostaa rikoksen tuottaman hyödyn jäljittämistä ja takaisinsaantia.",
+      "section_number": "1",
+      "chapter_number": 1,
+      "statute_id": "878/2008"
+    },
+    {
+      "id": "c557e3ac-604a-44b5-bb8f-4236d3932758",
+      "node_type": "Section",
+      "publisher": "finlex",
+      "title": "2 § Soveltamisala",
+      "text": "Tätä lakia sovelletaan: Tämän lain 3 ja 4 luvun säännöksiä sovelletaan lisäksi elinkeinonharjoittajaan ja yhteisöön, joka välittää 1 momentin 9 ja 10 kohdassa tarkoitettujen rahapeliyhteisöjen tarjoamiin rahapeleihin liittyviä osallistumisilmoituksia ja -maksuja, jos rahapeliyhteisö on antanut asiakkaan tunnistamisen ja ilmoituksen tekemisen muun elinkeinonharjoittajan tai yhteisön tehtäväksi. Lain 7 ja 8 lukua sovelletaan mainittujen elinkeinonharjoittajien ja yhteisöjen valvontaan asianomaisissa luvuissa säädetyiltä osin. Tätä lakia sovelletaan myös silloin, kun liiketoimen kohteena olevat varat ovat peräisin toisen valtion alueella suoritetusta toimesta. Eräiden yhteisöjen, yhdistysten, uskonnollisten yhdyskuntien ja säätiöiden velvollisuudesta pitää yllä tosiasiallisia edunsaajiaan koskevia tietoja säädetään jäljempänä 6 luvussa.",
+      "section_number": "2",
+      "chapter_number": 1,
+      "statute_id": "878/2008"
+    },
+    {
+      "id": "8fb2506b-4369-49c2-b25d-53af40129a47",
+      "node_type": "Section",
+      "publisher": "finlex",
+      "title": "3 § Soveltamisalaa koskeva rajaus",
+      "text": "Tätä lakia ei sovelleta taloudelliseen toimintaan, jota harjoitetaan satunnaisesti tai hyvin rajoitetusti ja seuraavat edellytykset täyttyvät: Tätä lakia ei sovelleta yhtiöön, jonka osakasluetteloon on merkitty osakkeenomistajan sijaan henkilö hallintarekisteröinnin hoitajana, jos yhtiön arvopaperi on kaupankäynnin kohteena kaupankäynnistä rahoitusvälineillä annetun lain (748/2012) 1 luvun 2 §:ssä tarkoitetulla säännellyllä markkinalla. Tätä lakia ei sovelleta toiminnassa, joka koskee oikeudenkäyntiavustaja- tai oikeudenkäyntiasiamiestehtävien hoitamista. Oikeudenkäyntiavustaja- ja oikeudenkäyntiasiamiestehtävänä tässä laissa pidetään varsinaisten oikeudenkäyntiin liittyvien tehtävien lisäksi oikeudellista neuvontaa, joka koskee asiakkaan oikeudellista asemaa esitutkinnassa rikoksen johdosta tai asian muussa oikeudenkäyntiä edeltävässä käsittelyvaiheessa taikka oikeudenkäynnin käynnistämistä tai sen välttämistä. Tätä lakia ei sovelleta pidettäessä raha-automaatteja käytettävänä pelikasinon ulkopuolella. Valtiovarainministeriön asetuksella annetaan tarkemmat säännökset siitä, milloin taloudellista toimintaa on pidettävä 1 momentin 1 kohdassa tarkoitetulla tavalla vähäisenä.",
+      "section_number": "3",
+      "chapter_number": 1,
+      "statute_id": "878/2008"
+    },
+    {
+      "id": "87a3ec46-d944-4cc0-b715-0f4eb89d7550",
+      "node_type": "Section",
+      "publisher": "finlex",
+      "title": "4 § Määritelmät",
+      "text": "Tässä laissa tarkoitetaan:",
+      "section_number": "4",
+      "chapter_number": 1,
+      "statute_id": "878/2008"
+    },
+    {
+      "id": "2cd948a5-6b4a-4944-9fb6-176bf5ceb753",
+      "node_type": "Section",
+      "publisher": "finlex",
+      "title": "5 § Yhteisön tosiasiallinen edunsaaja",
+      "text": "Yhteisön tosiasiallisella edunsaajalla tarkoitetaan luonnollista henkilöä, joka viime kädessä: Osoituksena suorasta omistuksesta pidetään sitä, että luonnollisella henkilöllä on suurempi kuin 25 % omistusosuus tarkasteltavasta oikeushenkilöstä. Osoituksena välillisestä omistuksesta pidetään sitä, että: Jos tosiasiallista edunsaajaa ei pystytä tunnistamaan tai 1 momentissa säädetyt edellytykset eivät täyty, tosiasiallisina edunsaajina pidetään tarkasteltavana olevan oikeushenkilön hallitusta tai vastuunalaisia yhtiömiehiä, toimitusjohtajaa tai muuta vastaavassa asemassa olevaa henkilöä.",
+      "section_number": "5",
+      "chapter_number": 1,
+      "statute_id": "878/2008"
+    },
+    {
+      "id": "868092dd-5970-4645-a0ad-a5e57938302e",
+      "node_type": "Section",
+      "publisher": "finlex",
+      "title": "6 § Ulkomaisen trustin tosiasiallinen edunsaaja",
+      "text": "Ulkomaisen trustin tosiasiallisella edunsaajalla tarkoitetaan tosiasiallista määräysvaltaa käyttävää luonnollista henkilöä, joka on trustin: Sen lisäksi mitä 1 momentissa säädetään, tosiasiallisena edunsaajana pidetään myös muuta luonnollista henkilöä, joka viime kädessä käyttää määräysvaltaa suoran tai välillisen omistuksen kautta tai muilla keinoin ulkomaisessa trustissa.",
+      "section_number": "6",
+      "chapter_number": 1,
+      "statute_id": "878/2008"
+    },
+    {
+      "id": "802eac6a-35f6-4c9d-9b0d-0b4ac03d506c",
+      "node_type": "Section",
+      "publisher": "finlex",
+      "title": "7 § Yhdistyksen, säätiön, asunto-osakeyhtiön ja keskinäisen kiinteistöosakeyhtiön tosiasiallinen edunsaaja",
+      "text": "Yhdistyslaissa (503/1989) tarkoitetun aatteellisen yhdistyksen tosiasiallisina edunsaajina pidetään yhdistysrekisteriin merkittyjä hallituksen jäseniä. Uskonnonvapauslaissa (453/2003) tarkoitetun uskonnollisen yhdyskunnan tosiasiallisina edunsaajina pidetään uskonnollisten yhdyskuntien rekisteriin merkittyjä hallituksen jäseniä. Säätiölaissa (487/2015) tarkoitetun säätiön tosiasiallisina edunsaajina pidetään säätiörekisteriin merkittyjä hallituksen ja hallintoneuvoston jäseniä. Asunto-osakeyhtiölaissa (1599/2009) tarkoitetun asunto-osakeyhtiön ja keskinäisen kiinteistöosakeyhtiön tosiasiallisina edunsaajina pidetään kaupparekisteriin merkittyjä hallituksen jäseniä.",
+      "section_number": "7",
+      "chapter_number": 1,
+      "statute_id": "878/2008"
+    },
+    {
+      "id": "6b394ed5-a107-448f-b159-544c82bffe81",
+      "node_type": "Section",
+      "publisher": "finlex",
+      "title": "1 § Kansallinen rahanpesun ja terrorismin rahoittamisen riskiarvio",
+      "text": "Sisäministeriö toimii kansallisena viranomaisena, joka sovittaa yhteen kansallisen rahanpesun ja terrorismin rahoittamisen riskiarvion laadintaa. Riskiarviossa on tunnistettava ja arvioitava Suomen rahanpesun ja terrorismin rahoittamisen riskejä sekä otettava huomioon Euroopan komission, jäljempänäkomissio, laatima Euroopan unionin laajuinen rahanpesun ja terrorismin rahoittamisen riskiarvio. Kansallista riskiarviota on päivitettävä säännöllisesti. Riskiarvion tarkoituksena on: Sisäministeriön on julkistettava riskiarvion yhteenveto.",
+      "section_number": "1",
+      "chapter_number": 2,
+      "statute_id": "878/2008"
+    },
+    {
+      "id": "d812abf4-7b46-4188-a576-713235e207e3",
+      "node_type": "Section",
+      "publisher": "finlex",
+      "title": "2 § Valvojakohtainen riskiarvio",
+      "text": "Toimivaltaisen valvontaviranomaisen ja asianajajayhdistyksen on laadittava riskiarvio sen valvonnan piiriin kuuluvien ilmoitusvelvollisten rahanpesun ja terrorismin rahoittamisen riskeistä (valvojakohtainen riskiarvio). Toimivaltaisen valvontaviranomaisen ja asianajajayhdistyksen on riskiarviota laatiessaan otettava huomioon: Toimivaltaisen valvontaviranomaisen ja asianajajayhdistyksen on otettava huomioon valvonnan laajuutta ja toistuvuutta suunnitellessaan tekemänsä riskiarvio, ilmoitusvelvollisen toiminnalle sallitut poikkeukset sekä 1 momentin 3 kohdassa tarkoitetut toimialaa koskevat riskit. Toimivaltaisen valvontaviranomaisen ja asianajajayhdistyksen on päivitettävä valvojakohtaista riskiarviota säännöllisesti tai kun ilmoitusvelvollisen toiminnassa tapahtuu valvojakohtaiseen riskiarvioon vaikuttavia merkittäviä seikkoja tai muutoksia. Toimivaltaisen valvontaviranomaisen ja asianajajayhdistyksen on julkistettava riskiarvion yhteenveto.",
+      "section_number": "2",
+      "chapter_number": 2,
+      "statute_id": "878/2008"
+    },
+    {
+      "id": "22e3a7b8-2b34-49f9-a312-3368ce77e8c9",
+      "node_type": "Section",
+      "publisher": "finlex",
+      "title": "3 § Ilmoitusvelvollisen riskiarvio",
+      "text": "Ilmoitusvelvollisen on laadittava riskiarvio rahanpesun ja terrorismin rahoittamisen riskien tunnistamiseksi ja arvioimiseksi. Riskiarvio on päivitettävä säännöllisesti. Riskiarvio ja siihen tehtävät muutokset on toimitettava toimivaltaiselle valvontaviranomaiselle tai asianajajayhdistykselle tämän pyynnöstä ilman aiheetonta viivytystä. Ilmoitusvelvollisen on otettava riskiarvion laadinnassa huomioon toimintansa luonne, koko ja laajuus. Ilmoitusvelvollisella on oltava edellä mainitut tekijät huomioon ottaen riittävät toimintaperiaatteet, menettelytavat ja valvonta rahanpesun ja terrorismin rahoittamisen riskien vähentämiseksi ja tehokkaaksi hallitsemiseksi. Toimintaperiaatteiden, menettelytapojen ja valvonnan tulee sisältää ainakin: Ilmoitusvelvollisen on laadittava 2 momentissa tarkoitetut toimintaperiaatteet, menettelytavat ja valvonta sekä seurattava ja kehitettävä niihin liittyviä toimenpiteitä. Jos ilmoitusvelvollinen on oikeushenkilö, hallituksen, vastuunalaisen yhtiömiehen tai muun vastaavassa asemassa olevan ylimpään johtoon kuuluvan henkilön on hyväksyttävä 2 momentissa tarkoitetut toimintaperiaatteet, menettelytavat ja valvonta sekä seurattava ja kehitettävä niihin liittyviä toimenpiteitä. Talletuspankkien yhteenliittymästä annetussa laissa (599/2010) tarkoitettu keskusyhteisö voi laatia riskiarvion yhteenliittymään kuuluvan jäsenluottolaitoksen puolesta, jos Finanssivalvonta myöntää luvan.",
+      "section_number": "3",
+      "chapter_number": 2,
+      "statute_id": "878/2008"
+    },
+    {
+      "id": "2e26c035-db9e-4904-a2df-5bb465571996",
+      "node_type": "Section",
+      "publisher": "finlex",
+      "title": "1 § Asiakkaan tunteminen ja riskiperusteinen arviointi",
+      "text": "Jos ilmoitusvelvollinen ei pysty toteuttamaan asiakkaan tuntemiseksi tässä luvussa säädettyjä toimia, ilmoitusvelvollinen ei saa perustaa asiakassuhdetta, suorittaa liiketointa tai ylläpitää liikesuhdetta. Jos ilmoitusvelvollinen on luottolaitos, se ei myöskään saa toteuttaa maksutapahtumaa maksutilin kautta, jos se ei pysty toteuttamaan asiakkaan tuntemiseksi säädettyjä toimia. Ilmoitusvelvollisen on asiakassuhteeseen liittyviä rahanpesun ja terrorismin rahoittamisen riskejä arvioidessaan otettava huomioon asiakkaisiin, maihin tai maantieteellisin alueisiin, tuotteisiin, palveluihin ja liiketoimiin sekä jakelukanaviin liittyvät rahanpesun ja terrorismin rahoittamisen riskit (riskiperusteinen arviointi). Tässä luvussa säädettyjä asiakkaan tuntemista koskevia toimia on noudatettava riskiperusteiseen arviointiin pohjautuen koko asiakassuhteen ajan. Ilmoitusvelvollisen on voitava osoittaa valvontaviranomaiselle tai valvomaan asetetulle, että ilmoitusvelvollisen tässä laissa säädetyt asiakkaan tuntemista ja jatkuvaa seurantaa koskevat menetelmät ovat riittävät rahanpesun ja terrorismin rahoittamisen riskin kannalta.",
+      "section_number": "1",
+      "chapter_number": 3,
+      "statute_id": "878/2008"
+    },
+    {
+      "id": "9aa7323d-8627-4745-9991-6e9ae2a4f863",
+      "node_type": "Section",
+      "publisher": "finlex",
+      "title": "2 § Asiakkaan tunnistaminen ja henkilöllisyyden todentaminen",
+      "text": "Ilmoitusvelvollisen on tunnistettava asiakkaansa ja todennettava tämän henkilöllisyys vakituista asiakassuhdetta perustettaessa. Lisäksi ilmoitusvelvollisen on tunnistettava asiakkaansa ja todennettava tämän henkilöllisyys, jos: Edellä 1 momentin 1 ja 2 kohdasta poiketen rahapelitoiminnassa asiakas on tunnistettava ja tämän henkilöllisyys todennettava joko panoksen asettamisen tai voiton maksamisen yhteydessä tai kummassakin tilanteessa, jos pelaajan asettama rahapanos tai lunastama voitto on yhtenä suorituksena tai toisiinsa kytkeytyvinä suorituksina yhteensä vähintään 2 000 euroa. Jos joku toimii asiakkaan lukuun (edustaja), ilmoitusvelvollisen tulee tunnistaa ja todentaa myös edustajan henkilöllisyys sekä varmistaa edustajan oikeus toimia asiakkaan puolesta. Ilmoitusvelvollisen tulee tunnistaa asiakkaansa ja todentaa asiakkaan henkilöllisyys asiakassuhdetta perustettaessa taikka viimeistään ennen kuin asiakas saa määräysvaltaansa liiketoimeen sisältyvät varat tai muun omaisuuden tai ennen kuin liiketoimi on suoritettu loppuun. Jos asiakkaan tunnistaminen ja henkilöllisyyden todentaminen aiheutuu siitä, että 1 momentin 1 kohdassa tarkoitetuissa tapauksissa yksittäisten liiketoimien yhteenlaskettu arvo on vähintään 10 000 euroa, tai maksajan tiedot -asetuksen 3 artiklan 9 kohdassa tarkoitetun varojen siirron määrä ylittää 1 000 euroa, tai 2 kohdassa tarkoitetuissa tapauksissa yksittäisten liiketoimien yhteenlaskettu arvo on vähintään 10 000 euroa taikka 2 momentissa tarkoitetuissa tapauksissa vähintään 2 000 euroa, henkilöllisyys on todennettava, kun mainittu raja saavutetaan. Tunnistamisvelvollisuudesta ja henkilöllisyyden todentamisesta säädetään lisäksi maksajan tiedot -asetuksessa.",
+      "section_number": "2",
+      "chapter_number": 3,
+      "statute_id": "878/2008"
+    },
+    {
+      "id": "e7d92bb8-4bd6-4c20-90ba-e2e93de84bbb",
+      "node_type": "Section",
+      "publisher": "finlex",
+      "title": "3 § Asiakkaan tuntemistiedot ja niiden säilyttäminen",
+      "text": "Ilmoitusvelvollisen on säilytettävä asiakkaan tuntemista koskevat tiedot luotettavalla tavalla viiden vuoden ajan vakituisen asiakassuhteen päättymisestä. Jos kysymyksessä on 2 §:n 1 momentin 1 tai 2 kohdassa taikka mainitun pykälän 2 momentissa tarkoitettu satunnainen liiketoimi, asiakkaan tuntemista koskevat tiedot on säilytettävä viiden vuoden ajan liiketoimen suorittamisesta. Asiakkaan tuntemista koskevista tiedoista on säilytettävä: Jos asiakas on ulkomaalainen, jolla ei ole suomalaista henkilötunnusta, on 2 momentissa tarkoitettujen tietojen lisäksi säilytettävä tieto asiakkaan kansalaisuudesta ja matkustusasiakirjan tiedot. Ilmoitusvelvollisen on ilmoitettava asiakkailleen, että asiakkaan tuntemistietoja ja muita henkilötietoja voidaan käyttää rahanpesun ja terrorismin rahoittamisen estämiseen, paljastamiseen ja selvittämiseen sekä rahanpesun ja terrorismin rahoittamisen ja sen rikoksen, jolla rahanpesun tai terrorismin rahoittamisen kohteena oleva omaisuus tai rikoshyöty on saatu, tutkintaan saattamista varten. Asiakkaan tuntemistietoja tai muita henkilötietoja, jotka on hankittu ainoastaan rahanpesun ja terrorismin rahoittamisen estämiseksi ja paljastamiseksi, ei saa käyttää tarkoitukseen, joka on yhteen sopimaton näiden tarkoitusten kanssa.",
+      "section_number": "3",
+      "chapter_number": 3,
+      "statute_id": "878/2008"
+    },
+    {
+      "id": "13496306-3c71-4a22-aa8a-8acba549489b",
+      "node_type": "Section",
+      "publisher": "finlex",
+      "title": "4 § Asiakasta koskevien tietojen hankkiminen, jatkuva seuranta ja selonottovelvollisuus",
+      "text": "Ilmoitusvelvollisen on hankittava tietoja asiakkaansa toiminnasta, tämän liiketoiminnan laadusta ja laajuudesta sekä perusteista palvelun tai tuotteen käyttämiselle. Ilmoitusvelvollisen on järjestettävä asiakkaan toiminnan laatuun ja laajuuteen, asiakassuhteen pysyvyyteen ja kestoon sekä riskeihin nähden riittävä seuranta sen varmistamiseksi, että asiakkaan toiminta vastaa sitä kokemusta ja tietoa, joka ilmoitusvelvollisella on asiakkaasta ja tämän toiminnasta. Ilmoitusvelvollisen on erityisesti kiinnitettävä huomiota liiketoimiin, jotka rakenteeltaan tai suuruudeltaan taikka ilmoitusvelvollisen koon tai toimipaikan osalta poikkeavat tavanomaisesta. Samoin on meneteltävä, jos liiketoimilla ei ole ilmeistä taloudellista tarkoitusta tai ne eivät sovi yhteen sen kokemuksen tai tietojen kanssa, jotka ilmoitusvelvollisella on asiakkaasta. Tarvittaessa liiketoimeen liittyvien varojen alkuperä on selvitettävä.",
+      "section_number": "4",
+      "chapter_number": 3,
+      "statute_id": "878/2008"
+    },
+    {
+      "id": "0c24b0a6-1894-40aa-99e8-2c5c0f68eb9d",
+      "node_type": "Section",
+      "publisher": "finlex",
+      "title": "5 § Vakuutustuotteisiin liittyvä erityinen tunnistamisvelvollisuus",
+      "text": "Luotto- ja rahoituslaitoksen on sen lisäksi, mitä muualla tässä luvussa säädetään, selvitettävä henki- ja muun sijoitusvakuutuksen: Edellä 1 momentissa tarkoitettu edunsaaja on tunnistettava, kun maksu suoritetaan. Luotto- ja rahoituslaitoksen on tunnistettava kolmas osapuoli, jolle tai jonka hyväksi henki- tai sijoitusvakuutus siirretään, kun siirto toteutetaan, jos luotto- tai rahoituslaitos tiesi siirrosta. Luotto- ja rahoituslaitoksen on huolehdittava siitä, että sillä on riittävät tiedot ulkomaisen trustin tai yrityspalveluja tarjoavan tosiasiallisista edunsaajista, jotta se pystyy selvittämään ulkomaiseen trustiin tai yrityspalveluihin liittyviä oikeuksiaan. Luotto- ja rahoituslaitoksen on selvitettävä, onko henki- tai muun sijoitusvakuutuksen edunsaaja poliittisesti vaikutusvaltainen henkilö viimeistään joko silloin, kun maksu suoritetaan tai silloin, kun vakuutus siirretään kokonaan tai osittain. Jos vakuutukseen tai sen edunsaajaan liittyy tavanomaista suurempi rahanpesun ja terrorismin rahoittamisen riski, luotto- tai rahoituslaitoksen toimihenkilön on lisäksi ilmoitettava asiasta laitoksen johdolle ennen vakuutuskorvauksen maksamista ja noudatettava tehostettua asiakkaan tuntemisvelvollisuutta koskevia säännöksiä.",
+      "section_number": "5",
+      "chapter_number": 3,
+      "statute_id": "878/2008"
+    },
+    {
+      "id": "42a62f34-2632-483f-95b3-f103ed961165",
+      "node_type": "Section",
+      "publisher": "finlex",
+      "title": "6 § Tosiasiallisen edunsaajan tunnistaminen",
+      "text": "Ilmoitusvelvollisen on tunnistettava ja pidettävä yllä riittäviä, tarkkoja ja ajantasaisia tietoja asiakkaan tosiasiallisista edunsaajista ja tarvittaessa todennettava näiden henkilöllisyys. Yhteisön tosiasiallinen edunsaaja on aina tunnistettava 1 luvun 5 §:n 2–4 momentissa ja 7 §:ssä tarkoitetuissa tilanteissa. Sen lisäksi ilmoitusvelvollisen on asiakkaaseen liittyviin rahanpesun ja terrorismin rahoittamisen riskeihin nähden asianmukaisella tavalla ja riittävässä laajuudessa selvitettävä, käyttääkö joku muu 1 luvun 5 §:n 1 momentissa tarkoitettua määräysvaltaa asiakkaassa. Tosiasiallista edunsaajaa ei kuitenkaan tarvitse tunnistaa, jos asiakas on yhtiö, jonka arvopaperi on kaupankäynnin kohteena: Luottolaitoksen ei tarvitse tunnistaa Suomessa tai toisessa ETA-valtiossa toimivan asianajajan tai muun oikeudellisia palveluita tarjoavan asiakasvaratilien tosiasiallisia edunsaajia, jos tosiasiallisen edunsaajan henkilöllisyys on luottolaitoksen pyynnöstä sen saatavilla. Luottolaitoksen ei myöskään tarvitse tunnistaa muussa kuin ETA-valtiossa toimivan asianajajan tai muun oikeudellisia palveluita tarjoavan asiakasvaratilien tosiasiallisia edunsaajia, jos: Luottolaitoksen ei myöskään tarvitse tunnistaa oikeudenkäyntiavustaja- tai oikeudenkäyntiasiamiestehtävien eikä asianajajan tai muun oikeudellisia palveluita tarjoavan tämän lain soveltamisalan ulkopuolelle jäävien tehtävien hoitamiseen liittyvien asiakasvaratilien tosiasiallisia edunsaajia.",
+      "section_number": "6",
+      "chapter_number": 3,
+      "statute_id": "878/2008"
+    },
+    {
+      "id": "41435db8-e243-4f26-9a48-0292723382ab",
+      "node_type": "Section",
+      "publisher": "finlex",
+      "title": "7 § Asiakkaan tuntemista koskevien velvollisuuksien täyttäminen ilmoitusvelvollisen puolesta",
+      "text": "Asiakkaan tuntemista koskevat velvollisuudet voi ilmoitusvelvollisen puolesta täyttää 1 luvun 2 §:n 1 momentissa tarkoitettu muu ilmoitusvelvollinen, tai tätä vastaava toisessa ETA-valtiossa toimiluvan saanut tai rekisteröity toimija (kolmas osapuoli), jos tätä koskevat tässä laissa säädettyä vastaavat asiakkaan tuntemista ja tietojen säilyttämistä koskevat velvollisuudet ja niiden noudattamista valvotaan. Asiakkaan tuntemista koskevat velvollisuudet voi täyttää myös muussa kuin ETA-valtiossa toimiluvan saanut tai rekisteröity 1 luvun 2 §:n 1 momentissa tarkoitettua ilmoitusvelvollista vastaava toimija, jos se on perustettu valtiossa, jonka rahanpesun ja terrorismin rahoittamisen estämisen ja selvittämisen järjestelmä ei muodosta komission arvion mukaan merkittävää riskiä EU:n sisämarkkinalle. Edellä 1 ja 2 momentista poiketen ilmoitusvelvollinen ei voi hyväksyä täyttämään velvollisuuksiaan: Ilmoitusvelvollisen on varmistettava, että se ennen liiketoimen suorittamista saa kolmannelta osapuolelta 3 §:n 2 momentin 1–6 kohdassa tarkoitetut tiedot. Ilmoitusvelvollisen on lisäksi varmistettava, että kaikki asiakkaan tuntemista koskevat tiedot ovat ilmoitusvelvollisen saatavilla ja että kolmas osapuoli toimittaa ne ilmoitusvelvolliselle tämän pyynnöstä. Valvontaviranomainen voi katsoa, että tässä pykälässä säädetyt kolmatta osapuolta koskevat edellytykset täyttyvät, jos: Rahapelitoiminnan osalta valvontaviranomainen voi katsoa, että rahapeliyhteisö ilmoitusvelvollisena täyttää tässä pykälässä säädetyt edellytykset, jos sen puolesta toimiva 1 luvun 2 §:n 2 momentissa tarkoitettu elinkeinonharjoittaja tai yhteisö, joka välittää rahapeleihin liittyviä osallistumisilmoituksia ja -maksuja, noudattaa tämän luvun 1, 2 ja 10 §:n säännöksiä asiakkaan tuntemisesta, ja jos rahapeliyhteisö saa tältä viipymättä asiakkaan tuntemistiedot ja asiakkaan henkilöllisyyden todentamistiedot. Rahapeliyhteisön on ylläpidettävä edellä tarkoitetuista elinkeinonharjoittajista ja yhteisöistä tietoja, jotka on pyynnöstä asetettava valvontaviranomaisen saataville. Ilmoitusvelvollisen tulee 4 §:n 2 momentissa tarkoitetulla tavalla jatkuvasti seurata asiakassuhdetta, jossa asiakkaan tuntemista koskevia velvollisuuksia on suorittanut kolmas osapuoli. Ilmoitusvelvollinen ei vapaudu tämän lain mukaisista vastuista sillä perusteella, että ilmoitusvelvollisen puolesta asiakkaan tuntemista koskevat velvollisuudet on täyttänyt kolmas osapuoli.",
+      "section_number": "7",
+      "chapter_number": 3,
+      "statute_id": "878/2008"
+    },
+    {
+      "id": "8a92609d-682b-4c82-9146-470b086ef3b9",
+      "node_type": "Section",
+      "publisher": "finlex",
+      "title": "8 § Yksinkertaistettu asiakkaan tuntemisvelvollisuus",
+      "text": "Ilmoitusvelvollinen voi 2–4 ja 6 §:ää sovellettaessa noudattaa yksinkertaistettua menettelyä asiakkaan tuntemiseksi, jos ilmoitusvelvollinen arvioi 2 luvun 3 §:ssä tarkoitetun riskiarvion perusteella, että asiakassuhteeseen tai yksittäiseen liiketoimeen liittyy vähäinen rahanpesun ja terrorismin rahoittamisen riski. Ilmoitusvelvollisen on kuitenkin seurattava asiakassuhdetta tämän luvun 4 §:n 2 momentissa tarkoitetulla tavalla poikkeuksellisten tai epätavallisten liiketoimien havaitsemiseksi. Valtioneuvoston asetuksella annetaan tarkemmat säännökset asiakkaista, tuotteista, palveluista, maksuliikenteestä, toimitustavasta tai maantieteellisistä riskitekijöistä, joihin voi liittyä vähäinen rahanpesun tai terrorismin rahoittamisen riski, ja näissä tilanteissa noudatettavista menettelyistä.",
+      "section_number": "8",
+      "chapter_number": 3,
+      "statute_id": "878/2008"
+    },
+    {
+      "id": "24cf1059-9b31-476b-8710-2c040e28cb11",
+      "node_type": "Section",
+      "publisher": "finlex",
+      "title": "9 § Sähköiseen rahaan liittyvä poikkeus asiakkaan tuntemisvelvollisuudesta",
+      "text": "Jos ilmoitusvelvollinen riskiarvion perusteella arvioi sähköiseen rahaan liittyvän rahanpesun ja terrorismin rahoituksen riskin alhaiseksi, ei sovelleta, mitä tämän luvun 2 §:ssä säädetään asiakkaan tunnistamisesta ja henkilöllisyyden todentamisesta, 3 §:ssä asiakkaan tuntemistiedoista ja niiden säilyttämisestä sekä 4 §:n 1 momentissa asiakasta koskevien tietojen hankkimisesta edellyttäen, että seuraavat riskienhallinnan edellytykset täyttyvät:",
+      "section_number": "9",
+      "chapter_number": 3,
+      "statute_id": "878/2008"
+    },
+    {
+      "id": "70f5cf14-4c2a-4857-a2dc-f80e3153f767",
+      "node_type": "Section",
+      "publisher": "finlex",
+      "title": "10 § Tehostettu asiakkaan tuntemisvelvollisuus",
+      "text": "Ilmoitusvelvollisen on sovellettava tehostettua menettelyä asiakkaan tuntemiseksi, jos ilmoitusvelvollinen arvioi 2 luvun 3 §:ssä tarkoitetun riskiarvion perusteella, että asiakassuhteeseen tai yksittäiseen liiketoimeen liittyy tavanomaista suurempi rahanpesun ja terrorismin rahoittamisen riski taikka jos asiakkaalla tai liiketoimella on liittymäkohta valtioon, jonka rahanpesun ja terrorismin rahoittamisen estämis- ja selvittelyjärjestelmä muodostaa komission arvion mukaan merkittävän riskin EU:n sisämarkkinalle tai ei täytä kansainvälisiä velvoitteita. Valtioneuvoston asetuksella annetaan tarkemmat säännökset asiakkaista, tuotteista, palveluista, maksuliikenteestä, toimitustavasta tai maantieteellisistä riskitekijöistä, joihin voi liittyä tavanomaista suurempi rahanpesun tai terrorismin rahoittamisen riski, ja näissä tilanteissa noudatettavista menettelyistä.",
+      "section_number": "10",
+      "chapter_number": 3,
+      "statute_id": "878/2008"
+    },
+    {
+      "id": "326094c8-d773-41d9-849f-d84c47161032",
+      "node_type": "Section",
+      "publisher": "finlex",
+      "title": "11 § Etätunnistamiseen liittyvä tehostettu tuntemisvelvollisuus",
+      "text": "Jos asiakas ei ole läsnä tunnistettaessa ja henkilöllisyyttä todennettaessa (etätunnistaminen), ilmoitusvelvollisen tulee rahanpesun ja terrorismin rahoittamisen riskin vähentämiseksi:",
+      "section_number": "11",
+      "chapter_number": 3,
+      "statute_id": "878/2008"
+    },
+    {
+      "id": "f3039f4e-309a-4bee-9e46-2ba1b0ad253b",
+      "node_type": "Section",
+      "publisher": "finlex",
+      "title": "12 § Kirjeenvaihtajasuhteisiin liittyvä tehostettu tuntemisvelvollisuus",
+      "text": "Jos luotto- tai rahoituslaitos tekee maksujen ja muiden toimeksiantojen hoitamisesta sopimuksen (kirjeenvaihtajasuhde) ETA-valtion ulkopuoliseen maahan sijoittuneen luotto- tai rahoituslaitoksen kanssa, luotto- tai rahoituslaitoksen tulee ennen sopimuksen tekemistä hankkia riittävät tiedot vastapuolena toimivasta luotto- tai rahoituslaitoksesta. Luotto- tai rahoituslaitoksen tulee arvioida vastapuolena toimivan luotto- tai rahoituslaitoksen maine ja valvonnan laatu sekä rahanpesun ja terrorismin rahoittamisen estämistä koskevat toimet. Luotto- tai rahoituslaitoksen ylimmän johdon on hyväksyttävä kirjeenvaihtajasuhteen aloittaminen. Sopimuksessa tulee sopia nimenomaisesti asiakkaan tuntemista koskevien velvollisuuksien täyttämisestä ja näitä koskevien merkityksellisten tietojen toimittamisesta pyynnöstä vastapuolena toimivalle luotto- tai rahoituslaitokselle. Luotto- tai rahoituslaitos ei saa aloittaa tai jatkaa kirjeenvaihtajasuhdetta sellaisen laitoksen kanssa, joka on pöytälaatikkopankki tai jonka tilejä käytetään tässä tarkoituksessa. Jos sijoituspalveluyritys, maksulaitos, rahastoyhtiö tai vaihtoehtorahastojen hoitaja tai vakuutusyhtiö tekee sopimuksen 1 momentissa tarkoitettua vastaavasta järjestelystä, on noudatettava, mitä tässä pykälässä säädetään.",
+      "section_number": "12",
+      "chapter_number": 3,
+      "statute_id": "878/2008"
+    },
+    {
+      "id": "0869129e-6e5a-4129-98bb-bd0de5e215ac",
+      "node_type": "Section",
+      "publisher": "finlex",
+      "title": "13 § Poliittisesti vaikutusvaltaiseen henkilöön liittyvä tehostettu tuntemisvelvollisuus",
+      "text": "Ilmoitusvelvollisella tulee olla asianmukaiset riskiperusteiseen arviointiin pohjautuvat menettelyt sen toteamiseksi, onko asiakas tai onko hän ollut poliittisesti vaikutusvaltainen henkilö, poliittisesti vaikutusvaltaisen henkilön perheenjäsen tai poliittisesti vaikutusvaltaisen henkilön yhtiökumppani. Edellä 1 momentissa tarkoitetun menettelyn puitteissa poliittinen vaikutusvalta on selvitettävä aina, kun ilmoitusvelvollinen arvioi 2 luvun 3 §:ssä tarkoitetun ilmoitusvelvollisen riskiarvion perusteella, että asiakassuhteeseen tai yksittäiseen liiketoimeen liittyy tavanomaista suurempi rahanpesun tai terrorismin rahoittamisen riski. Jos asiakas on tai on ollut poliittisesti vaikutusvaltainen henkilö, tällaisen henkilön perheenjäsen tai henkilö, jonka tiedetään olevan tällaisen henkilön yhtiökumppani: Henkilöä ei enää pidetä poliittisesti vaikutusvaltaisena henkilönä, kun hän ei ole toiminut merkittävässä julkisessa tehtävässä vähintään vuoteen.",
+      "section_number": "13",
+      "chapter_number": 3,
+      "statute_id": "878/2008"
+    },
+    {
+      "id": "7f3c570d-02bf-4464-8c5f-9eae6fe65525",
+      "node_type": "Section",
+      "publisher": "finlex",
+      "title": "14 § Keskitetty yhteyshenkilö",
+      "text": "Maksulaitoslaissa tarkoitetun maksulaitoksen ja sähkörahayhteisön, joka tarjoaa maksupalvelua tai sähköisen rahan liikkeeseenlaskua Suomeen ETA-valtion alueelta sivuliikettä perustamatta edustajan välityksellä, on nimettävä keskitetty yhteyshenkilö. Keskitetty yhteyshenkilö vastaa maksulaitoksen tai sähkörahayhteisön lukuun:",
+      "section_number": "14",
+      "chapter_number": 3,
+      "statute_id": "878/2008"
+    },
+    {
+      "id": "8d8d7bee-fd8f-456e-9e9c-ddf5a475bf70",
+      "node_type": "Section",
+      "publisher": "finlex",
+      "title": "15 § Ulkoistetun palvelun tarjoaja ja edustaja osana ilmoitusvelvollista",
+      "text": "Mitä tässä luvussa säädetään kolmannesta osapuolesta ja tehostetusta asiakkaan tuntemisesta, ei sovelleta, jos ilmoitusvelvollinen on ulkoistanut asiakkaan tuntemista koskevan tehtävän tai käyttää edustajaa sopimussuhteen perusteella, ja ulkoistetun palvelun tarjoajaa tai edustajaa pidetään osana ilmoitusvelvollista.",
+      "section_number": "15",
+      "chapter_number": 3,
+      "statute_id": "878/2008"
+    },
+    {
+      "id": "9123d957-9a4e-4360-8899-e3d91807cabe",
+      "node_type": "Section",
+      "publisher": "finlex",
+      "title": "1 § Velvollisuus tehdä ilmoitus epäilyttävästä liiketoimesta",
+      "text": "Ilmoitusvelvollisen on täytettyään 3 luvun 4 §:n 3 momentissa säädetyn selonottovelvollisuuden viipymättä ilmoitettava rahanpesun selvittelykeskuksesta annetussa laissa (445/2017) tarkoitetulle rahanpesun selvittelykeskukselle epäilyttävästä liiketoimesta tai terrorismin rahoittamisen epäilystä. Ilmoitusvelvollinen voi tehdä epäilyttävää liiketoimea koskevan ilmoituksen myös enimmäismääräksi asettamansa kynnysarvon ylittävästä yksittäisestä maksusta tai muusta suorituksesta tai useasta erillisestä toisiinsa yhteydessä olevasta maksusta tai suorituksesta. Maksulaitoslain 1 §:n 1 momentin 5 kohdassa tarkoitetun rahanvälityspalvelun tarjoajan on kuitenkin tehtävä ilmoitus jokaisesta yksittäisestä tai useasta erillisestä toisiinsa yhteydessä olevasta maksusta tai suorituksesta, jonka arvo on vähintään 1 000 euroa. Edellä 1 luvun 2 §:n 2 momentissa tarkoitettu elinkeinonharjoittaja tai yhteisö voi tehdä epäilyttävää liiketoimea koskevan ilmoituksen rahapeliyhteisön välityksellä. Ilmoitusvelvollisen on annettava maksutta rahanpesun selvittelykeskukselle kaikki epäilyn selvittämisen kannalta välttämättömät tiedot ja asiakirjat. Ilmoitusvelvollisen on vastattava rahanpesun selvittelykeskuksen tietopyyntöihin sen asettamassa kohtuullisessa määräajassa.",
+      "section_number": "1",
+      "chapter_number": 4,
+      "statute_id": "878/2008"
+    },
+    {
+      "id": "ff30333c-a938-40e8-af94-0cd421c272bd",
+      "node_type": "Section",
+      "publisher": "finlex",
+      "title": "2 § Ilmoituksen muoto ja sisältö",
+      "text": "Ilmoitus epäilyttävästä liiketoimesta on tehtävä sähköisesti rahanpesun selvittelykeskuksen tarkoitukseen varaamaa erityistä sovellusta käyttäen. Ilmoitus voidaan erityisestä syystä tehdä myös muuta salattua yhteyttä tai tietoturvallista menettelyä käyttäen. Epäilyttävää liiketoimea koskevassa ilmoituksessa on oltava 3 luvun 3 §:ssä tarkoitetut tuntemistiedot sekä tiedot liiketoimen laadusta, liiketoimeen sisältyvien varojen tai muun omaisuuden määrästä ja valuutasta, varojen tai muun omaisuuden alkuperästä tai kohteesta ja syystä, joka teki liiketoimesta epäilyttävän, sekä siitä, onko liiketoimi suoritettu, onko se keskeytetty vai onko siitä kieltäydytty. Valtioneuvoston asetuksella annetaan tarkemmat säännökset epäilyttävää liiketoimea koskevan ilmoituksen muodosta ja sisällöstä.",
+      "section_number": "2",
+      "chapter_number": 4,
+      "statute_id": "878/2008"
+    },
+    {
+      "id": "00479949-e5ae-43c7-8b1b-73cfbf235ca8",
+      "node_type": "Section",
+      "publisher": "finlex",
+      "title": "3 § Epäilyttäviä liiketoimia koskevien tietojen säilyttäminen",
+      "text": "Ilmoitusvelvollisen on säilytettävä viiden vuoden ajan 1 §:ssä säädetyn ilmoitusvelvollisuuden täyttämiseksi hankitut välttämättömät tiedot sekä näihin liittyvät asiakirjat. Tiedot ja asiakirjat on pidettävä erillään asiakasrekisteristä eikä niitä saa käyttää muuhun kuin tässä laissa säädettyyn tarkoitukseen. Tiedot ja asiakirjat on poistettava viiden vuoden kuluttua asiakassuhteen päättymisestä tai epäilyttävän liiketoimen suorittamisesta, jollei niiden edelleen säilyttäminen ole tarpeen rikostutkinnan, vireillä olevan oikeudenkäynnin taikka ilmoitusvelvollisen tai sen palveluksessa olevan oikeuksien turvaamiseksi. Tietojen ja asiakirjojen edelleen säilyttämisen tarpeellisuus on tutkittava viimeistään kolmen vuoden kuluttua edellisestä säilyttämisen tarpeellisuuden tarkistamisesta. Tarkistamisesta ja sen ajankohdasta on tehtävä merkintä. Rekisteröidyllä ei ole oikeutta tarkastaa 1 momentissa tarkoitettuja tietoja eikä 3 luvun 4 §:n 3 momentissa säädetyn selonottovelvollisuuden täyttämiseksi hankittuja tietoja ja asiakirjoja. Tietosuojavaltuutettu voi rekisteröidyn pyynnöstä tarkastaa näiden tietojen käsittelyn lainmukaisuuden.",
+      "section_number": "3",
+      "chapter_number": 4,
+      "statute_id": "878/2008"
+    },
+    {
+      "id": "b2aee6e4-1006-4989-ae7d-94f0d1ea1c2a",
+      "node_type": "Section",
+      "publisher": "finlex",
+      "title": "4 § Epäilyttäviä liiketoimia koskeva salassapitovelvollisuus ja salassapitovelvollisuutta koskevat poikkeukset",
+      "text": "Ilmoitusvelvollinen ei saa paljastaa 1 §:ssä tarkoitetun ilmoituksen tekemistä tai selvittelyä sille, johon epäily kohdistuu, eikä muulle henkilölle. Salassapitovelvollisuus koskee myös ilmoitusvelvollisen palveluksessa olevaa sekä sitä, joka on saanut salassa pidettäviä tietoja tämän pykälän nojalla. Edellä 1 momentissa säädetyn salassapitovelvollisuuden estämättä ilmoitusvelvollinen saa luovuttaa tiedon siitä, että 1 §:ssä tarkoitettu ilmoitus on tehty, ja tiedot ilmoituksen sisällöstä rahoitus- ja vakuutusryhmittymien valvonnasta annetussa laissa (699/2004) tarkoitetulle samaan rahoitus- ja vakuutusryhmittymään kuuluvalle Suomessa tai toisessa ETA-valtiossa toimiluvan saaneelle yhteisölle. Tieto voidaan luovuttaa myös samaan rahoitus- ja vakuutusryhmittymään kuuluvalle muussa kuin ETA-valtiossa toimiluvan saaneelle yhteisölle, jos yhteisöä koskevat tätä lakia vastaavat velvollisuudet ja yhteisöä valvotaan näiden velvollisuuksien noudattamisessa. Edellä 1 momentissa säädetyn salassapitovelvollisuuden estämättä ilmoitusvelvollinen saa luovuttaa tiedon siitä, että 1 §:ssä tarkoitettu ilmoitus on tehty Suomessa tai toisessa ETA-valtiossa toimiluvan saaneelle 1 luvun 2 §:n 1 momentin 1 tai 2 kohdassa tarkoitetulle ilmoitusvelvolliselle, joka on osallisena sellaisessa yksittäisessä liiketoimessa, joka liittyy siihen asiakkaaseen ja liiketoimeen, jota ilmoitus koskee. Samoilla edellytyksillä tieto voidaan luovuttaa myös muussa kuin ETA-valtiossa toimiluvan saaneelle 1 luvun 2 §:n 1 momentin 1 tai 2 kohdassa tarkoitetulle ilmoitusvelvolliselle, jos tiedon vastaanottajaa koskee tätä lakia vastaavat velvollisuudet ja yhteisöä valvotaan näiden velvollisuuksien noudattamisesta sekä tiedon vastaanottajaa koskee lisäksi henkilötietolakia (523/1999) vastaavat henkilötietojen suojaa koskevat velvollisuudet. Edellä 3 momentissa tarkoitetun tiedon luovuttamisen yhteydessä saa antaa asiakkaan nimen, syntymäajan ja henkilötunnuksen sekä perusteen ilmoituksen tekemiselle. Jos henkilöllä ei ole suomalaista henkilötunnusta, myös tiedon henkilön kansalaisuudesta saa luovuttaa.",
+      "section_number": "4",
+      "chapter_number": 4,
+      "statute_id": "878/2008"
+    },
+    {
+      "id": "526a77ef-be12-45e1-bc7a-b59c873f8e34",
+      "node_type": "Section",
+      "publisher": "finlex",
+      "title": "5 § Liiketoimen keskeyttäminen ja siitä kieltäytyminen",
+      "text": "Ilmoitusvelvollisen on keskeytettävä liiketoimi lisäselvityksiä varten tai kieltäydyttävä liiketoimesta, jos: Jos liiketointa ei voida jättää kesken taikka jos liiketoimen keskeyttäminen tai siitä kieltäytyminen todennäköisesti vaikeuttaisi liiketoimen tosiasiallisen edunsaajan selville saamista, ilmoitusvelvollinen voi suorittaa liiketoimen loppuun. Rahanpesun selvittelykeskuksen oikeudesta määrätä liiketoimen keskeyttämisestä määräajaksi säädetään rahanpesun selvittelykeskuksesta annetun lain 6 §:ssä.",
+      "section_number": "5",
+      "chapter_number": 4,
+      "statute_id": "878/2008"
+    },
+    {
+      "id": "a06de529-fcf8-44fe-8af3-4f39450fd079",
+      "node_type": "Section",
+      "publisher": "finlex",
+      "title": "1 § Soveltamisala",
+      "text": "Tätä lukua sovelletaan sellaisiin 1 luvun 2 §:n 1 momentin 13–18 ja 20–24 kohdassa tarkoitettuihin ilmoitusvelvollisiin, jotka eivät ole toimilupavalvottavia tai velvollisia rekisteröitymään valvontaviranomaisen ylläpitämään muuhun kuin tässä luvussa tarkoitettuun rekisteriin.",
+      "section_number": "1",
+      "chapter_number": 5,
+      "statute_id": "878/2008"
+    },
+    {
+      "id": "74f46912-61dd-4508-8e67-83a8fd1bd16b",
+      "node_type": "Section",
+      "publisher": "finlex",
+      "title": "2 § Rahanpesun valvontarekisterin pitäjä ja käyttötarkoitus",
+      "text": "Aluehallintovirasto pitää rekisteriä 1 §:ssä tarkoitetuista ilmoitusvelvollisista rahanpesun ja terrorismin rahoittamisen estämiseksi (rahanpesun valvontarekisteri). Rahanpesun valvontarekisterin käyttötarkoituksena on rahanpesun ja terrorismin rahoittamisen estämisen valvonta.",
+      "section_number": "2",
+      "chapter_number": 5,
+      "statute_id": "878/2008"
+    },
+    {
+      "id": "e23c62a4-8ea2-4d36-bc7f-a205ff4f2798",
+      "node_type": "Section",
+      "publisher": "finlex",
+      "title": "3 § Hakemus rekisteriin merkitsemiseksi ja rekisteröinnin edellytykset",
+      "text": "Edellä 1 §:ssä tarkoitetun ilmoitusvelvollisen on tehtävä hakemus rahanpesun valvontarekisteriin merkitsemiseksi 14 vuorokauden kuluessa siitä, kun ilmoitusvelvollinen tulee tämän lain soveltamisalan piiriin. Aluehallintoviraston on rekisteröitävä hakija, jos: Hakijan on hakemuksessaan ilmoitettava harjoittamansa elinkeinotoiminta, jonka perusteella hakija on ilmoitusvelvollinen. Valtioneuvoston asetuksella annetaan tarkemmat säännökset rekisteröintiä koskevan hakemuksen sisällöstä.",
+      "section_number": "3",
+      "chapter_number": 5,
+      "statute_id": "878/2008"
+    },
+    {
+      "id": "f56f10d1-4874-41a6-873e-228830e354de",
+      "node_type": "Section",
+      "publisher": "finlex",
+      "title": "4 § Rahanpesun valvontarekisteriin merkittävät tiedot ja muutoksista ilmoittaminen",
+      "text": "Rahanpesun valvontarekisterin merkitään seuraavat tiedot: Ilmoitusvelvollisen on ilmoitettava aluehallintovirastolle viipymättä 1 momentissa tarkoitetuissa tiedoissa tapahtuneista muutoksesta.",
+      "section_number": "4",
+      "chapter_number": 5,
+      "statute_id": "878/2008"
+    },
+    {
+      "id": "a3eb2bd2-1186-46eb-a0c7-dded650a3dec",
+      "node_type": "Section",
+      "publisher": "finlex",
+      "title": "5 § Luotettavuus",
+      "text": "Valuutanvaihtotoimintaa harjoittavaa tai 1 luvun 2 §:n 1 momentin 21 kohdassa tarkoitettua toimintaa harjoittavaa ilmoitusvelvollista ei pidetä luotettavana, jos: Sen lisäksi, mitä 1 momentissa säädetään, mainitussa momentissa tarkoitettua ilmoitusvelvollista ei pidetä luotettavana, jos hän on: Jos ilmoituksen tekijä on oikeushenkilö, vaatimus luotettavuudesta koskee toimitusjohtajaa ja hänen sijaistaan, hallituksen jäsentä ja varajäsentä, hallintoneuvoston ja siihen rinnastettavan toimielimen jäsentä ja varajäsentä, vastuunalaista yhtiömiestä sekä muuta ylimpään johtoon kuuluvaa samoin kuin sitä, jolla on suoraan tai välillisesti enemmän kuin 25 prosenttia osakeyhtiön osakkeista tai osakkeiden tuottamasta äänivallasta taikka vastaava omistus- tai määräämisvalta muussa yhteisössä. Aluehallintovirastolla on oikeus saada salassapitosäännösten estämättä sakon täytäntöönpanosta annetun lain (672/2002) 46 §:ssä tarkoitetusta sakkorekisteristä tiedot, jotka ovat välttämättömiä tässä pykälässä tarkoitetun luotettavuuden selvittämiseksi tai 6 §:ssä tarkoitettua rekisteristä poistamista varten. Aluehallintovirastolla on oikeus saada salassapitosäännösten estämättä ja maksutta viranomaiselta ja julkista tehtävää hoitavalta tietoja rekisteröintiä hakevan veroihin, lakisääteisiin eläke-, tapaturma- tai työttömyysvakuutusmaksuihin taikka Tullin perimiin maksuihin liittyvien rekisteröitymis-, ilmoitus- ja maksuvelvollisuuksien hoitamisesta, toiminnasta, taloudesta sekä kytkennöistä, jotka ovat tarpeen tässä pykälässä tarkoitetun luotettavuuden selvittämiseksi tai 6 §:ssä tarkoitettua rekisteristä poistamista varten. Aluehallintovirastolla on oikeus saada 5 momentissa tarkoitettuja tietoja vastaavat tarpeelliset tiedot myös hakijaan liittyvästä Harmaan talouden selvitysyksiköstä annetun lain (1207/2010) 2 §:ssä tarkoitetusta organisaatiosta ja 3 momentissa tarkoitetuista henkilöistä. Edellä tässä pykälässä tarkoitettuja tietoja saa hakea teknisen käyttöyhteyden avulla tai muutoin sähköisesti ilman sen suostumusta, jonka etujen suojaamiseksi salassapitovelvollisuus on säädetty.",
+      "section_number": "5",
+      "chapter_number": 5,
+      "statute_id": "878/2008"
+    },
+    {
+      "id": "15eb4fa2-abd4-4ce1-a97d-03ba6da34bf7",
+      "node_type": "Section",
+      "publisher": "finlex",
+      "title": "6 § Rahanpesun valvontarekisteriin merkittyjen tietojen poistaminen",
+      "text": "Aluehallintoviraston on poistettava ilmoitusvelvollinen rahanpesun valvontarekisteristä, jos: Aluehallintoviraston on ennen 1 momentin 2 kohtaan perustuvan päätöksen tekemistä varattava ilmoitusvelvolliselle kohtuullinen määräaika puutteen korjaamiselle. Tiedot rekisterimerkinnöistä on säilytettävä viisi vuotta sen vuoden päättymisestä, jona tieto on poistettu rekisteristä.",
+      "section_number": "6",
+      "chapter_number": 5,
+      "statute_id": "878/2008"
+    },
+    {
+      "id": "2f37ea1f-455a-4c9c-b809-929a949833cf",
+      "node_type": "Section",
+      "publisher": "finlex",
+      "title": "7 § Tietojen antaminen rahanpesun valvontarekisteristä",
+      "text": "Jokaisella on oikeus saada rahanpesun valvontarekisteristä yritys- ja yhteisötunnuksella tai toiminimellä taikka aputoiminimellä yksilöimästään yrityksestä rekisteriin tallennetut tiedot. Tietoa tähän rekisteriin merkityistä ilmoitusvelvollisista voi hakea myös kootusti elinkeinotoiminnan perusteella. Sen estämättä, mitä viranomaisten toiminnan julkisuudesta annetun lain (621/1999) 16 §:n 3 momentissa säädetään, aluehallintovirasto saa luovuttaa tiedon luonnollisen henkilön nimestä tai syntymäajasta tulosteena, teknisen käyttöyhteyden avulla tai muutoin sähköisesti taikka saattaa ne yleisesti saataville sähköisen tietoverkon kautta. Henkilötietoja voidaan hakea sähköisen tietoverkon kautta vain yksittäisinä hakuina. Aluehallintovirasto saa luovuttaa tiedot aluehallintoviraston rahanpesun valvontarekisteriin tallennetusta henkilötunnuksen tunnusosasta vain, jos luovuttaminen täyttää viranomaisten toiminnan julkisuudesta annetun lain 16 §:n 3 momentissa säädetyt edellytykset. Rekisteriin tallennettua henkilötunnuksen tunnusosaa koskevan tiedon antamisen edellytyksenä on, että tietopyynnön tekijä antaa aluehallintovirastolle selvityksen tietojen asianmukaisesta suojaamisesta.",
+      "section_number": "7",
+      "chapter_number": 5,
+      "statute_id": "878/2008"
+    },
+    {
+      "id": "86ef9ad1-27af-400b-9041-5125f49750ed",
+      "node_type": "Section",
+      "publisher": "finlex",
+      "title": "8 § Tietojen päivittäminen väestötietojärjestelmästä, kaupparekisteristä ja yritys- ja yhteisötietojärjestelmästä",
+      "text": "Aluehallintovirastolla on oikeus päivittää väestötietojärjestelmästä tiedostojaan ja tarkistaa rekisteröitäväksi ilmoitettujen henkilöiden henkilötiedot niiden oikeellisuuden toteamiseksi. Aluehallintovirastolla on oikeus päivittää rahanpesun valvontarekisterin tietoja kaupparekisteristä ja yritys- ja yhteisötietojärjestelmästä.",
+      "section_number": "8",
+      "chapter_number": 5,
+      "statute_id": "878/2008"
+    },
+    {
+      "id": "79afc85f-8dee-44b7-a262-bd28e7b78f49",
+      "node_type": "Section",
+      "publisher": "finlex",
+      "title": "1 §",
+      "text": "Tässä luvussa säädetään kaupparekisterilain (129/1979) 3 §:n 1 momentin 1 ja 4–6 kohdassa tarkoitetun yhteisön, yhdistysrekisteriin merkityn yhdistyksen, uskonnollisten yhdyskuntien rekisteriin merkityn uskonnollisen yhdyskunnan sekä säätiörekisteriin merkityn säätiön velvollisuudesta pitää yllä tosiasiallisia edunsaajiaan koskevia tietoja. Mitä tässä luvussa säädetään, ei kuitenkaan sovelleta yhtiöön, joka on kaupankäynnistä rahoitusvälineillä annetussa laissa tarkoitetulla säännellyllä markkinalla kaupankäynnin kohteena.",
+      "section_number": "1",
+      "chapter_number": 6,
+      "statute_id": "878/2008"
+    },
+    {
+      "id": "1877603e-7d1d-4246-8280-7d4287d35e8a",
+      "node_type": "Section",
+      "publisher": "finlex",
+      "title": "2 § Yhteisön velvollisuus pitää yllä tosiasiallisia edunsaajiaan koskevia tietoja",
+      "text": "Kaupparekisterilain 3 §:n 1 momentin 1 ja 4–6 kohdassa tarkoitetun yhteisön, yhdistysrekisteriin merkityn yhdistyksen, uskonnollisten yhdyskuntien rekisteriin merkityn uskonnollisen yhdyskunnan sekä säätiörekisteriin merkityn säätiön on asianmukaisesti hankittava ja pidettävä yllä täsmällisiä  ja  ajantasaisia tietoja 1 luvun 5 §:n 2–4 momentissa tai 7 §:ssä tarkoitetuista tosiasiallisista edunsaajistaan ja annettava nämä tiedot pyynnöstä 1 luvun 1 §:ssä tarkoitetulle ilmoitusvelvolliselle tämän suorittaessa asiakkaan tuntemista koskevia toimia. Sen lisäksi mitä 1 momentissa säädetään, kaupparekisterilain 3 §:n 1 momentin 1 ja 4–6 kohdassa tarkoitetun yhteisön, lukuun ottamatta asunto-osakeyhtiölaissa tarkoitettuja asunto-osakeyhtiöitä ja keskinäisiä kiinteistöosakeyhtiöitä, on sen saatavilla olevien tietojen perusteella pidettävä yllä täsmällisiä ja ajantasaisia tietoja muista henkilöistä, jotka käyttävät 1 luvun 5 §:n 1 momentissa tarkoitettua määräysvaltaa, sekä heidän määräysvaltansa tai omistusosuutensa perusteesta ja laajuudesta. Edellä 1 momentissa tarkoitetun yhteisön hallituksen jäsenen tai vastuunalaisen yhtiömiehen on huolehdittava siitä, että yhteisön tosiasiallisista edunsaajista pidetään luetteloa. Luetteloon merkitään omistajan tai edunsaajan nimi, syntymäaika, kansalaisuus, asuinmaa sekä määräysvallan tai omistusosuuden peruste ja laajuus. Luettelo on laadittava viivytyksettä oikeushenkilön perustamisen jälkeen ja sitä on pidettävä luotettavalla tavalla.",
+      "section_number": "2",
+      "chapter_number": 6,
+      "statute_id": "878/2008"
+    },
+    {
+      "id": "7135a76e-ea37-43af-b7ed-e4621da82626",
+      "node_type": "Section",
+      "publisher": "finlex",
+      "title": "3 § Ulkomaisen trustin omaisuudenhoitajan velvollisuus tuntea tosiasiallinen edunsaaja",
+      "text": "Rahanpesudirektiivin 3 artiklan 7 kohdan d alakohdassa tarkoitetun ulkomaisen express trustin tai oikeusmuodoltaan samankaltaisen oikeudellisen järjestelyn omaisuudenhoitajan on hankittava 1 luvun 6 §:n mukaiset tiedot trustin tosiasiallisista edunsaajista ja pidettävä niitä yllä.",
+      "section_number": "3",
+      "chapter_number": 6,
+      "statute_id": "878/2008"
+    },
+    {
+      "id": "c2b91644-d82c-4292-8a77-189df35e02a2",
+      "node_type": "Section",
+      "publisher": "finlex",
+      "title": "4 § Yhteisön tosiasiallisen edunsaajan rekisteröinti",
+      "text": "Kaupparekisterilain 3 §:n 1 momentin 1 ja 4–6 kohdassa tarkoitetun yrityksen tosiasiallisen edunsaajan sekä ulkomaisen trustin tosiasiallisen edunsaajan rekisteröinnistä kaupparekisteriin säädetään kaupparekisterilaissa. Yhdistyksen hallituksen jäsenten rekisteröinnistä säädetään yhdistyslaissa. Uskonnollisen yhdyskunnan hallituksen jäsenten rekisteröinnistä säädetään uskonnonvapauslaissa. Säätiön hallituksen ja hallintoneuvoston jäsenten rekisteröinnistä säädetään säätiölaissa.",
+      "section_number": "4",
+      "chapter_number": 6,
+      "statute_id": "878/2008"
+    },
+    {
+      "id": "3a4aa3fb-4d0d-48b2-960c-fec6c73488d8",
+      "node_type": "Section",
+      "publisher": "finlex",
+      "title": "1 § Valvontaviranomaiset ja ilmoitus rahanpesun selvittelykeskukselle",
+      "text": "Tämän lain ja sen nojalla annettujen säännösten ja määräysten noudattamista valvovat seuraavat viranomaiset: Asianajajayhdistys valvoo 1 luvun 2 §:n 1 momentin 12 kohdassa tarkoitettuja ilmoitusvelvollisia. Finanssivalvonta valvoo lisäksi maksajan tiedot -asetuksen noudattamista sen valvottaviksi kuuluvien ilmoitusvelvollisten osalta siltä osin kuin ne lähettävät tai vastaanottavat asetuksessa tarkoitettuja varainsiirtoja. Valvontaviranomaisen, Energiaviraston, asianajajayhdistyksen, kaupankäynnistä rahoitusvälineillä annetussa laissa tarkoitetun pörssin sekä talletuspankkien yhteenliittymästä annetussa laissa tarkoitetun yhteenliittymän keskusyhteisön tulee ilmoittaa rahanpesun selvittelykeskukselle, jos se havaitsee suorittamansa valvonnan tai muutoin tehtäviensä hoidon yhteydessä ilmi tulleiden seikkojen perusteella epäilyttävän liiketoimen taikka epäilee terrorismin rahoittamista tai sen rangaistavaa yritystä.",
+      "section_number": "1",
+      "chapter_number": 7,
+      "statute_id": "878/2008"
+    },
+    {
+      "id": "b2730034-f8b0-4a7a-bacd-4d43d11b23df",
+      "node_type": "Section",
+      "publisher": "finlex",
+      "title": "2 § Oikeus saada tietoja ilmoitusvelvolliselta",
+      "text": "Sen lisäksi mitä muualla laissa säädetään, ilmoitusvelvollisen on salassapitosäännösten estämättä ilman aiheetonta viivytystä toimitettava valvontaviranomaiselle ja asianajajayhdistykselle maksutta sen pyytämät tiedot ja selvitykset, jotka ovat välttämättömiä tässä laissa tai sen nojalla annetuissa säännöksissä tai määräyksissä tarkoitetun tehtävän hoitamiseksi. Edellä 1 luvun 2 §:n 2 momentissa tarkoitetun elinkeinonharjoittajan ja yhteisön on Poliisihallituksen pyynnöstä annettava tälle valvontaa varten välttämättömät tiedot maksutta.",
+      "section_number": "2",
+      "chapter_number": 7,
+      "statute_id": "878/2008"
+    },
+    {
+      "id": "feceee5d-a9d2-4f1a-9ac4-fb717f3bee3f",
+      "node_type": "Section",
+      "publisher": "finlex",
+      "title": "3 § Tarkastusoikeus",
+      "text": "Valvontaviranomaisella ja asianajajayhdistyksellä on salassapitosäännösten estämättä oikeus saada tarkastettavakseen ilmoitusvelvollisen muussa toimipaikassa kuin pysyväisluonteiseen asumiseen käytetyissä tiloissa tämän toimintaa ja hallintoa koskevat asiakirjat ja muut tallenteet sekä tietojärjestelmät siinä laajuudessa kuin on tarpeen tämän lain tai sen nojalla annettujen säännösten tai määräysten mukaisen valvontatehtävän hoitamiseksi. Valvontaviranomaisella ja asianajajayhdistyksellä on oikeus saada ilmoitusvelvolliselta maksutta tarpeelliset jäljennökset tässä pykälässä tarkoitetuista asiakirjoista ja muista tallenteista. Poliisihallituksella on oikeus toimittaa valvontaa varten välttämätön tarkastus myös 1 luvun 2 §:n 2 momentissa tarkoitetun elinkeinonharjoittajan ja yhteisön tiloissa. Muilla valvontaviranomaisilla kuin Patentti- ja rekisterihallituksella on oikeus tämän lain ja sen nojalla annettujen säännösten noudattamisen valvomiseksi toimittaa tarkastus myös pysyväisluonteiseen asumiseen käytetyissä tiloissa, lukuun ottamatta 1 luvun 2 §:n 2 momentissa tarkoitettuja ilmoitusvelvollisia, jos voidaan perustellusti epäillä, että ilmoitusvelvollinen on tahallaan tai huolimattomuudesta vakavasti, toistuvasti tai järjestelmällisesti laiminlyönyt tai rikkonut tätä lakia 8 luvun 3 §:n 1 tai 2 momentissa tarkoitetulla tavalla ja tarkastus on välttämätön tarkastuksen kohteena olevien seikkojen selvittämiseksi. Tarkastuksessa on noudatettava, mitä hallintolain (434/2003) 39 §:ssä säädetään. Poliisin velvollisuudesta antaa virka-apua säädetään poliisilain (872/2011) 9 luvun 1 §:ssä.",
+      "section_number": "3",
+      "chapter_number": 7,
+      "statute_id": "878/2008"
+    },
+    {
+      "id": "a6046c1b-1e1a-40bf-aa81-06a22d44345a",
+      "node_type": "Section",
+      "publisher": "finlex",
+      "title": "4 § Ilmoitusvelvollisen toimiluvan mukaisen toiminnan rajoittaminen ja toimiluvan peruminen",
+      "text": "Ilmoitusvelvollisen toimiluvan mukaisen toiminnan rajoittamisesta ja toimiluvan perumisesta säädetään erikseen.",
+      "section_number": "4",
+      "chapter_number": 7,
+      "statute_id": "878/2008"
+    },
+    {
+      "id": "da71f1a9-91e5-43ea-8028-5f4fe11dd49f",
+      "node_type": "Section",
+      "publisher": "finlex",
+      "title": "5 § Ilmoitusvelvollisen johdon toiminnan määräaikainen rajoittaminen",
+      "text": "Valvontaviranomainen voi enintään viiden vuoden määräajaksi kieltää henkilöä toimimasta ilmoitusvelvollisen hallituksen jäsenenä tai varajäsenenä, toimitusjohtajana tai toimitusjohtajan sijaisena taikka muuna ylimpään johtoon kuuluvana, jos: Edellytyksenä kiellon antamiselle on lisäksi, että 1 momentissa tarkoitetulle henkilölle on aiemmin annettu oikaisukehotus, huomautus tai varoitus, joka ei ole johtanut toiminnassa esiintyneiden vakavien ja olennaisten puutteiden korjaamiseen. Finanssivalvonnan oikeudesta määrätä sen valvonnassa olevien yhteisöjen johdon toiminnan rajoittamisesta säädetään Finanssivalvonnasta annetun lain 28 §:ssä.",
+      "section_number": "5",
+      "chapter_number": 7,
+      "statute_id": "878/2008"
+    },
+    {
+      "id": "f45d56a2-39e5-4584-921b-a0ffba85b264",
+      "node_type": "Section",
+      "publisher": "finlex",
+      "title": "6 § Toimeenpanokielto ja oikaisukehotus",
+      "text": "Valvontaviranomainen voi kieltää ilmoitusvelvollisen tekemän päätöksen tai sen suunnitteleman toimenpiteen toteutuksen taikka velvoittaa sen lopettamaan toiminnassaan soveltamansa menettelyn, jos päätös, toimenpide tai menettely on ristiriidassa ilmoitusvelvollista velvoittavien tämän lain tai sen nojalla annettujen säännösten tai määräysten, toimiluvan ehtojen taikka ilmoitusvelvollisen toimintaa koskevien sääntöjen kanssa. Toimivaltaisen valvontaviranomaisen on varattava ilmoitusvelvolliselle kohtuullinen määräaika menettelyn korjaamiseksi. Jos ilmoitusvelvollinen on pannut 1 momentissa tarkoitetun päätöksen täytäntöön tai toteuttanut 1 momentissa tarkoitetun muun toimenpiteen, toimivaltainen valvontaviranomainen voi velvoittaa kohtuullisessa määräajassa ilmoitusvelvollisen ryhtymään toimenpiteisiin päätöksen täytäntöönpanon taikka toimenpiteen peruuttamiseksi tai oikaisun aikaansaamiseksi.",
+      "section_number": "6",
+      "chapter_number": 7,
+      "statute_id": "878/2008"
+    },
+    {
+      "id": "d96b6df1-c018-49a8-9776-a77e1aba182f",
+      "node_type": "Section",
+      "publisher": "finlex",
+      "title": "7 § Uhkasakko",
+      "text": "Jos ilmoitusvelvollinen laiminlyö toiminnassaan noudattaa tätä lakia, sen nojalla annettuja säännöksiä tai määräyksiä, 6 §:ssä tarkoitettua toimeenpanokieltoa tai oikaisukehotusta, toimilupansa ehtoja tai toimintaansa koskevia sääntöjä, valvontaviranomainen voi velvoittaa uhkasakolla ilmoitusvelvollisen täyttämään velvollisuutensa, jos laiminlyönti ei ole vähäinen. Uhkasakko voidaan asettaa myös 1 luvun 2 §:n 2 momentissa tarkoitetuille elinkeinonharjoittajille ja yhteisöille, joihin sovelletaan tämän lain 3 ja 4 lukua. Uhkasakkoa ei saa asettaa luonnolliselle henkilölle tässä laissa säädetyn tietojenantovelvollisuuden tehosteeksi silloin, kun henkilöä on syytä epäillä rikoksesta ja tiedot liittyvät rikosepäilyn kohteena olevaan asiaan. Muilta osin uhkasakon asettamisesta ja tuomitsemisesta säädetään uhkasakkolaissa (1113/1990). Finanssivalvonnan määräämään uhkasakkoon sovelletaan kuitenkin Finanssivalvonnasta annettua lakia.",
+      "section_number": "7",
+      "chapter_number": 7,
+      "statute_id": "878/2008"
+    },
+    {
+      "id": "86c5b0f0-91b3-4929-aa45-1895ba8da7d3",
+      "node_type": "Section",
+      "publisher": "finlex",
+      "title": "8 § Menettelytavat rikkomusepäilyistä ilmoittamiseen ilmoitusvelvollisen sisällä",
+      "text": "Ilmoitusvelvollisella on oltava menettelytavat, joita noudattamalla sen palveluksessa olevat tai asiamiehet voivat ilmoittaa sen sisällä riippumattoman kanavan kautta tämän lain ja sen nojalla annettujen säännösten ja määräysten epäillystä rikkomisesta. Ilmoitusvelvollisella ei kuitenkaan tarvitse olla edellä tarkoitettuja menettelytapoja, jos valvontaviranomainen tai asianajajayhdistys päättää ilmoitusvelvollisen 2 luvun 3 §:ssä tarkoitetun riskiarvion perusteella, että valvontaviranomaisen ja asianajajayhdistyksen ilmoituskanava on riittävä ilmoitusvelvollisen koko, toiminta ja sen rahanpesun ja terrorismin rahoittamisen riskit huomioon ottaen. Ilmoituksen tekijän ja ilmoituksen kohteena olevan henkilön henkilötiedot ovat salassa pidettäviä, jollei laissa toisin säädetä. Ilmoitusvelvollisen on säilytettävä 1 momentissa tarkoitettua ilmoitusta koskevat tarpeelliset tiedot. Tiedot on poistettava viiden vuoden kuluttua ilmoituksen tekemisestä, jollei tietojen edelleen säilyttäminen ole tarpeen rikostutkinnan, vireillä olevan oikeudenkäynnin, viranomaistutkinnan taikka ilmoituksen tekijän tai ilmoituksen kohteena olevan henkilön oikeuksien turvaamiseksi. Tietojen edelleen säilyttämisen tarpeellisuus on tutkittava viimeistään kolmen vuoden kuluttua edellisestä tarkistamisesta. Tarkistamisesta on tehtävä merkintä. Ilmoituksen kohteena olevalla rekisteröidyllä henkilöllä ei ole oikeutta tarkastaa 1 ja 2 momentissa tarkoitettuja tietoja, jos tietojen antaminen saattaisi haitata rikosten tai väärinkäytösten selvittämistä. Tietosuojavaltuutettu voi rekisteröidyn pyynnöstä tarkastaa 1 ja 2 momentissa tarkoitettujen, rekisteröityä koskevien tietojen lainmukaisuuden. Ilmoitusvelvollisen tulee toteuttaa asianmukaiset ja riittävät toimenpiteet ilmoitusten tekijöiden suojelemiseksi.",
+      "section_number": "8",
+      "chapter_number": 7,
+      "statute_id": "878/2008"
+    },
+    {
+      "id": "70ca8000-b21e-499f-8164-d6c5d7db7889",
+      "node_type": "Section",
+      "publisher": "finlex",
+      "title": "9 § Järjestelmä rikkomusepäilyjä koskevien ilmoitusten vastaanottamiseksi",
+      "text": "Valvontaviranomaisen ja asianajajayhdistyksen on ylläpidettävä järjestelmää, jonka kautta se voi vastaanottaa ilmoituksia tämän lain säännösten epäillyistä rikkomuksista. Valvontaviranomaisen ja asianajajayhdistyksen on säilytettävä viiden vuoden ajan 1 momentissa tarkoitettuja ilmoituksia koskevat tarpeelliset tiedot. Tiedot on poistettava viiden vuoden kuluttua ilmoituksen tekemisestä, jollei tietojen edelleen säilyttäminen ole tarpeen rikostutkinnan, vireillä olevan oikeudenkäynnin, viranomaistutkinnan taikka ilmoituksen tekijän tai ilmoituksen kohteena olevan henkilön oikeuksien turvaamiseksi. Tietojen edelleen säilyttämisen tarpeellisuus on tutkittava viimeistään kolmen vuoden kuluttua edellisestä tietojen säilyttämisen tarpeellisuuden tarkistamisesta. Tarkistamisesta on tehtävä merkintä. Ilmoituksen kohteena olevalla rekisteröidyllä henkilöllä ei ole oikeutta tarkastaa 1 ja 2 momentissa tarkoitettuja tietoja, jos tietojen antaminen saattaisi haitata rikosten tai väärinkäytösten selvittämistä. Tietosuojavaltuutettu voi rekisteröidyn pyynnöstä tarkastaa 1 ja 2 momentissa tarkoitettujen, rekisteröityä koskevien tietojen lainmukaisuuden. Finanssivalvonnan velvollisuudesta ylläpitää järjestelmää finanssimarkkinoita koskeviin säännöksiin liittyviä väärinkäytösepäilyjä koskevien ilmoitusten vastaanottamiseksi säädetään Finanssivalvonnasta annetun lain 71 a §:ää.",
+      "section_number": "9",
+      "chapter_number": 7,
+      "statute_id": "878/2008"
+    },
+    {
+      "id": "3c162b3b-3497-4d45-b7b7-d9a227a9e493",
+      "node_type": "Section",
+      "publisher": "finlex",
+      "title": "1 § Rikemaksu",
+      "text": "Valvontaviranomainen määrää rikemaksun sen valvottavaksi 7 luvun 1 §:n 1 momentissa säädetylle ilmoitusvelvolliselle, lukuun ottamatta 1 luvun 2 §:n 2 momentissa tarkoitettua elinkeinonharjoittajaa ja yhteisöä, joka tahallaan tai huolimattomuudesta: Finanssivalvonta määrää rikemaksun myös sille, joka: Rikemaksun suuruus perustuu kokonaisarviointiin. Rikemaksun suuruutta arvioitaessa on otettava huomioon menettelyn laatu, laajuus ja kestoaika. Oikeushenkilölle määrättävä rikemaksu on vähintään 5 000 euroa ja enintään 100 000 euroa. Luonnolliselle henkilölle määrättävä rikemaksu on vähintään 500 euroa ja enintään 10 000 euroa. Rikemaksu määrätään maksettavaksi valtiolle. Rikemaksu voidaan määrätä edellyttäen, ettei asia kokonaisuutena arvioiden anna aihetta ankarampiin toimenpiteisiin. Asianajajayhdistys tekee aluehallintovirastolle esityksen rikemaksun määräämisestä 1 luvun 2 §:n 1 momentin 12 kohdassa tarkoitetulle asianajajalle tai hänen apulaiselleen. Patentti- ja rekisterihallituksessa tässä pykälässä tarkoitetun rikemaksun määrää tilintarkastuslautakunta.",
+      "section_number": "1",
+      "chapter_number": 8,
+      "statute_id": "878/2008"
+    },
+    {
+      "id": "3fbf8194-52f0-4d66-baf0-91e8838416ec",
+      "node_type": "Section",
+      "publisher": "finlex",
+      "title": "2 § Julkinen varoitus",
+      "text": "Valvontaviranomainen antaa sen valvottavaksi 7 luvun 1 §:n 1 momentissa säädetylle ilmoitusvelvolliselle julkisen varoituksen, jos tämä tahallaan tai huolimattomuudesta menettelee muiden tämän lain tai sen nojalla annettujen säännösten tai määräysten taikka maksajan tiedot -asetuksen säännösten kuin tämän luvun 1 §:n 1 tai 2 momentissa taikka 3 §:n 1 tai 2 momentissa tarkoitettujen säännösten vastaisesti. Julkinen varoitus voidaan antaa edellyttäen, ettei asia kokonaisuutena arvioiden anna aihetta ankarampiin toimenpiteisiin. Asianajajayhdistys tekee aluehallintovirastolle esityksen julkisen varoituksen määräämisestä 1 luvun 2 §:n 1 momentin 12 kohdassa tarkoitetulle asianajajalle tai hänen apulaiselleen. Patentti- ja rekisterihallituksessa tässä pykälässä tarkoitetun julkisen varoituksen antaa tilintarkastuslautakunta.",
+      "section_number": "2",
+      "chapter_number": 8,
+      "statute_id": "878/2008"
+    },
+    {
+      "id": "d0ee414d-2352-4bde-aca6-d5e202202afd",
+      "node_type": "Section",
+      "publisher": "finlex",
+      "title": "3 § Seuraamusmaksu",
+      "text": "Valvontaviranomainen määrää seuraamusmaksun sen valvottavaksi 7 luvun 1 §:n 1 momentissa säädetylle ilmoitusvelvolliselle, lukuun ottamatta 1 luvun 2 §:n 2 momentissa tarkoitettua elinkeinoharjoittajaa ja yhteisöä, joka tahallaan tai huolimattomuudesta vakavasti, toistuvasti tai järjestelmällisesti: Finanssivalvonta määrää seuraamusmaksun myös sille, joka tahallaan tai huolimattomuudesta: Valvontaviranomainen ei voi määrätä seuraamusmaksua luonnolliselle henkilölle teosta tai laiminlyönnistä, joka on laissa säädetty rangaistavaksi. Valvontaviranomainen voi kuitenkin määrätä seuraamusmaksun ja jättää asian ilmoittamatta esitutkintaviranomaiselle, ottaen huomioon teon tai laiminlyönnin haitallisuuden, siitä ilmenevän tekijän syyllisyyden sekä siitä saadun hyödyn ja muut tekoon tai laiminlyöntiin liittyvät seikat kokonaisuutena arvioiden. Asianajajayhdistys tekee aluehallintovirastolle esityksen seuraamusmaksun määräämisestä 1 luvun 2 §:n 1 momentin 12 kohdassa tarkoitetulle asianajajalle tai hänen apulaiselleen. Seuraamusmaksu voidaan määrätä oikeushenkilölle määrättävän seuraamusmaksun lisäksi tai sen sijasta sellaiselle oikeushenkilön johtoon kuuluvalle henkilölle, jonka velvollisuuksien vastainen edellä tässä pykälässä säädetty teko tai laiminlyönti on. Kyseiselle henkilölle määrättävän seuraamusmaksun edellytyksenä on, että henkilö on merkittävällä tavalla myötävaikuttanut tekoon tai laiminlyöntiin. Patentti- ja rekisterihallituksessa tässä pykälässä tarkoitetun seuraamusmaksun määrää tilintarkastuslautakunta.",
+      "section_number": "3",
+      "chapter_number": 8,
+      "statute_id": "878/2008"
+    },
+    {
+      "id": "256d0311-cb28-4334-894e-9b1ab1d739ba",
+      "node_type": "Section",
+      "publisher": "finlex",
+      "title": "4 § Luotto- tai rahoituslaitokselle määrättävän seuraamusmaksun suuruus",
+      "text": "Finanssivalvonnan luotto- tai rahoituslaitokselle määräämän seuraamusmaksun määrä perustuu kokonaisarviointiin. Seuraamusmaksun määrää arvioitaessa on otettava huomioon menettelyn laatu, laajuus ja kestoaika sekä tekijän taloudellinen asema. Lisäksi arvioinnissa on otettava huomioon menettelyllä saavutettu hyöty tai sillä aiheutettu vahinko, jos ne ovat määritettävissä, tekijän yhteistyö Finanssivalvonnan kanssa asian selvittämiseksi, aiemmat finanssimarkkinoita koskeviin säännöksiin kohdistuneet rikkomukset ja laiminlyönnit sekä menettelyn mahdolliset vaikutukset rahoitusjärjestelmän vakaudelle. Kokonaisarvioinnissa on lisäksi otettava huomioon Finanssivalvonnan tämän lain 9 luvun 6 §:n nojalla antamiin määräyksiin kohdistuneet rikkomukset ja laiminlyönnit. Finanssivalvonnan määräämä seuraamusmaksu saa olla enintään joko kymmenen prosenttia luotto-, tai rahoituslaitoksen tekoa tai laiminlyöntiä edeltävän vuoden liikevaihdosta tai viisi miljoonaa euroa, sen mukaan kumpi on suurempi. Jos luotto- tai rahoituslaitos on osa konsernia, liikevaihdolla tarkoitetaan konsernin ylimmän emoyrityksen konsernitilinpäätöksen mukaista liikevaihtoa. Jos tilinpäätös ei ole seuraamusmaksua määrättäessä vielä valmistunut, seuraamusmaksu on määrättävä sitä edeltävän vuoden tilinpäätöksen mukaisesta liikevaihdosta. Jos luotto- tai rahoituslaitos on vasta aloittanut toimintansa eikä tilinpäätöstä ole saatavissa, liikevaihto on arvioitava muun saatavan selvityksen perusteella. Finanssivalvonnan luonnolliselle henkilölle määräämä seuraamusmaksu saa olla enintään viisi miljoonaa euroa. Edellä tässä pykälässä säädetyn estämättä seuraamusmaksu saa kuitenkin olla enintään kaksi kertaa niin suuri kuin teolla tai laiminlyönnillä saatu hyöty, jos se on määritettävissä. Edellä tässä pykälässä liikevaihdolla tarkoitetaan: Seuraamusmaksu määrätään maksettavaksi valtiolle. Mitä edellä tässä pykälässä säädetään luotto- tai rahoituslaitokselle määrättävän seuraamusmaksun suuruudesta, sovelletaan myös aluehallintoviraston rahoituspalveluja tarjoavalle yritykselle määräämään seuraamusmaksuun, lukuun ottamatta 1 momentin neljättä virkettä.",
+      "section_number": "4",
+      "chapter_number": 8,
+      "statute_id": "878/2008"
+    },
+    {
+      "id": "7f3c0a78-9c59-417e-a1cd-49448f57e627",
+      "node_type": "Section",
+      "publisher": "finlex",
+      "title": "5 § Muulle kuin luotto- tai rahoituslaitokselle määrättävän seuraamusmaksun suuruus",
+      "text": "Muulle kuin 4 §:ssä tarkoitetulle ilmoitusvelvolliselle määrättävän seuraamusmaksun määrä perustuu kokonaisarviointiin. Seuraamusmaksun määrää arvioitaessa on otettava huomioon menettelyn laatu, laajuus ja kestoaika sekä tekijän taloudellinen asema. Lisäksi arvioinnissa on otettava huomioon menettelyllä saavutettu hyöty tai sillä aiheutettu vahinko, jos ne ovat määritettävissä, tekijän yhteistyö toimivaltaisen valvontaviranomaisen kanssa asian selvittämiseksi sekä aiemmat tämän lain tai sen nojalla annettuihin säännöksiin kohdistuneet rikkomukset ja laiminlyönnit. Kokonaisarvioinnissa on Finanssivalvonnan määräämän seuraamusmaksun määrää arvioitaessa lisäksi otettava huomioon Finanssivalvonnan tämän lain 9 luvun 6 §:n nojalla antamiin määräyksiin kohdistuneet rikkomukset ja laiminlyönnit. Valvontaviranomaisen oikeushenkilölle tai luonnolliselle henkilölle määräämä seuraamusmaksu saa olla enintään joko kaksi kertaa niin suuri kuin teolla tai laiminlyönnillä saavutettu hyöty, jos se on määritettävissä, tai miljoona euroa, sen mukaan kumpi on korkeampi. Seuraamusmaksu määrätään maksettavaksi valtiolle.",
+      "section_number": "5",
+      "chapter_number": 8,
+      "statute_id": "878/2008"
+    },
+    {
+      "id": "1e49d80b-1add-4786-8d73-803b6fbed4a7",
+      "node_type": "Section",
+      "publisher": "finlex",
+      "title": "6 § Hallinnollisen seuraamuksen määräämättä jättäminen",
+      "text": "Valvontaviranomainen voi jättää rikemaksun määräämättä tai julkisen varoituksen antamatta, jos: Rikemaksua tai seuraamusmaksua ei voida määrätä sille, jota epäillään samasta teosta esitutkinnassa, syyteharkinnassa tai tuomioistuimessa vireillä olevassa rikosasiassa. Rikemaksua tai seuraamusmaksua ei voida määrätä myöskään sille, jolle on samasta teosta annettu lainvoimainen tuomio. Valvontaviranomainen voi jättää seuraamusmaksun määräämättä tai lykätä sen määräämistä oikeushenkilölle tai luonnolliselle henkilölle, jos valvontaviranomainen ryhtyy muuhun laissa säädettyyn valvontatoimenpiteeseen.",
+      "section_number": "6",
+      "chapter_number": 8,
+      "statute_id": "878/2008"
+    },
+    {
+      "id": "9b83b1ca-11af-4e20-806b-48d8f420536e",
+      "node_type": "Section",
+      "publisher": "finlex",
+      "title": "7 § Hallinnollisen seuraamuksen määräämisoikeuden vanhentuminen",
+      "text": "Valvontaviranomainen ei saa määrätä rikemaksua tai antaa julkista varoitusta eikä aluehallintovirasto saa asianajajayhdistyksen tekemän esityksen johdosta määrätä rikemaksua tai antaa julkista varoitusta, jos päätöstä ei ole tehty viiden vuoden kuluessa siitä päivästä, jona rikkomus tai laiminlyönti tapahtui, tai jatketun rikkomuksen tai laiminlyönnin osalta viiden vuoden kuluessa siitä päivästä, jona rikkomus tai laiminlyönti päättyi. Valvontaviranomainen ei saa määrätä seuraamusmaksua eikä aluehallintovirasto saa asianajajayhdistyksen tekemän esityksen johdosta määrätä seuraamusmaksua, jos päätöstä ei ole tehty kymmenen vuoden kuluessa siitä päivästä, jona rikkomus tai laiminlyönti tapahtui, tai jatketun rikkomuksen taikka laiminlyönnin osalta viiden vuoden kuluessa siitä päivästä, jona rikkomus tai laiminlyönti päättyi.",
+      "section_number": "7",
+      "chapter_number": 8,
+      "statute_id": "878/2008"
+    },
+    {
+      "id": "c422622e-39c0-4ebc-b309-ada4a28e7abe",
+      "node_type": "Section",
+      "publisher": "finlex",
+      "title": "8 § Hallinnollisen seuraamuksen ja muun päätöksen julkistaminen",
+      "text": "Valvontaviranomaisen on julkistettava päätös, jossa määrätään rikemaksu, julkinen varoitus tai seuraamusmaksu viipymättä sen jälkeen, kun päätöksestä on ilmoitettu sen kohteena olevalle henkilölle. Julkistamisesta on käytävä ilmi, onko seuraamuksen määräämistä koskeva päätös lainvoimainen, rikkomuksen luonne ja tyyppi sekä rikkomuksesta vastuussa olevan henkilöllisyys. Jos muutoksenhakuviranomainen kumoaa päätöksen kokonaan tai osittain, valvontaviranomaisen on julkistettava tieto muutoksenhakuviranomaisen päätöksestä vastaavalla tavalla kuin seuraamuksen määrääminen on julkistettu. Seuraamusta koskevat tiedot on pidettävä valvontaviranomaisen internetsivuilla viiden vuoden ajan. Jos seuraamuksen kohteena olevan luonnollisen henkilön tai oikeushenkilön nimen julkistaminen olisi kohtuutonta, tai jos seuraamuksen julkistaminen vaarantaisi finanssimarkkinoiden vakauden tai meneillään olevan viranomaistutkinnan, toimivaltainen valvontaviranomainen voi: Jos valvontaviranomainen julkistaa seuraamusta koskevan päätöksen ilman seuraamuksen kohteena olevan henkilön nimeä, valvontaviranomainen voi samalla päättää julkistaa nimen myöhemmin kohtuullisen ajan kuluttua, jos perusteet julkistamatta jättämiselle lakkaavat tuossa ajassa. Mitä edellä tässä pykälässä säädetään rikemaksun, julkisen varoituksen ja seuraamusmaksun julkistamisesta, sovelletaan vastaavasti 7 luvun 4–7 §:ssä tarkoitettujen päätösten julkistamiseen. Päätös voidaan kuitenkin jättää julkistamatta, jos julkistaminen ei olisi kohtuullista päätöksen kohteena olevan toimenpiteen vähäisyyden vuoksi. Aluehallintovirasto julkistaa myös asianajajayhdistyksen esityksestä määräämäänsä rikemaksua, julkista varoitusta tai seuraamusmaksua koskevan päätöksen. Julkistettavat tiedot eivät saa sisältää tietoja asianajajan asiakkaista tai muutoin sellaisia tietoja, joiden perusteella asiakkaan henkilöllisyys tosiasiallisesti paljastuu.",
+      "section_number": "8",
+      "chapter_number": 8,
+      "statute_id": "878/2008"
+    },
+    {
+      "id": "9f06de79-a684-4389-a00f-5b665cdf489c",
+      "node_type": "Section",
+      "publisher": "finlex",
+      "title": "9 § Rikemaksun ja seuraamusmaksun täytäntöönpano",
+      "text": "Rikemaksun ja seuraamusmaksun täytäntöönpanosta huolehtii Oikeusrekisterikeskus. Tämän lain nojalla maksettavaksi määrätty rikemaksu ja seuraamusmaksu pannaan täytäntöön siinä järjestyksessä kuin sakon täytäntöönpanosta annetussa laissa säädetään.",
+      "section_number": "9",
+      "chapter_number": 8,
+      "statute_id": "878/2008"
+    },
+    {
+      "id": "b249afdd-f9f0-42f1-ac54-56485a6ad9f0",
+      "node_type": "Section",
+      "publisher": "finlex",
+      "title": "10 § Asianajajayhdistyksen esitys aluehallintovirastolle hallinnollisen seuraamuksen määräämisestä",
+      "text": "Edellä 1 luvun 2 §:n 1 momentin 12 kohdassa tarkoitetulle asianajajalle ja hänen apulaiselleen määrättävää rikemaksua, julkista varoitusta ja seuraamusmaksua koskeva asia tulee vireille aluehallintovirastossa asianajajayhdistyksen esityksestä. Asianajajayhdistyksen on tehtävä aluehallintoviraston kanssa yhteistyötä tutkinnan aikana ennen esityksen tekemistä. Asianajajayhdistyksen esitys rikemaksun, julkisen varoituksen tai seuraamusmaksun määräämisestä on tehtävä kirjallisesti. Esityksessä on mainittava: Asianajajayhdistyksen on toimitettava aluehallintovirastolle sen pyynnöstä salassapitosäännösten estämättä asian ratkaisemiseksi välttämättömät lisätiedot. Aluehallintoviraston on noudatettava viranomaisten toiminnan julkisuudesta annetun lain 22 §:n mukaista salassapitovelvoitetta silloin, kun se käsittelee tietoja, joita koskee asianajajista annetulla lailla säädetty vaitiolovelvollisuus.",
+      "section_number": "10",
+      "chapter_number": 8,
+      "statute_id": "878/2008"
+    },
+    {
+      "id": "b80e072c-4b3f-4d6e-b2da-ac7efd95474a",
+      "node_type": "Section",
+      "publisher": "finlex",
+      "title": "11 § Luotto-  tai  rahoituslaitokselle  määrätyistä seuraamuksista ilmoittaminen Euroopan valvontaviranomaisille",
+      "text": "Finanssivalvonnan on toimitettava asianomaiselle Euroopan valvontaviranomaiselle: Mitä 1 momentissa säädetään seuraamuksesta, sovelletaan myös 7 luvun 4–7 §:ssä tarkoitettuun päätökseen. Aluehallintoviraston on toimitettava Finanssivalvonnalle 1 ja 2 momentissa tarkoitetut tiedot, jotka koskevat rahoituspalveluja tarjoavia yrityksiä. Finanssivalvonnan on toimitettava tiedot edelleen Euroopan valvontaviranomaiselle.",
+      "section_number": "11",
+      "chapter_number": 8,
+      "statute_id": "878/2008"
+    },
+    {
+      "id": "1c003303-25a6-4c7f-a047-e6f85c5c5f60",
+      "node_type": "Section",
+      "publisher": "finlex",
+      "title": "1 § Työntekijöiden koulutus ja suojeleminen sekä toimintaohjeet",
+      "text": "Ilmoitusvelvollisen on huolehdittava, että sen työntekijät saavat koulutuksen tämän lain ja sen nojalla annettujen säännösten noudattamisen varmistamiseksi. Ilmoitusvelvollisen on nimettävä henkilö, joka vastaa tämän lain ja sen nojalla annettujen säännösten noudattamisen sisäisestä valvonnasta, jos se on perusteltua ilmoitusvelvollisen koko ja luonne huomioon ottaen. Jos ilmoitusvelvollinen on osa konsernia tai muuta taloudellista yhteenliittymää, sen tulee lisäksi noudattaa konsernin tai muun taloudellisen yhteenliittymän sisäisiä menettelytapoja ja ohjeita tämän lain ja sen nojalla annettujen säännösten noudattamisen varmistamiseksi. Ilmoitusvelvollisen tulee toteuttaa toimenpiteitä niiden työntekijöiden suojelemiseksi, jotka tekevät 4 luvun 1 §:ssä tarkoitetun ilmoituksen. Ilmoitusvelvollisella tulee lisäksi olla omaan toimintaansa soveltuvia toimintaohjeita asiakkaiden tuntemista koskevista menettelyistä sekä rahanpesun ja terrorismin rahoittamisen estämiseen liittyvästä asiakasta koskevien tietojen hankkimisesta, jatkuvasta seurannasta ja selonottovelvollisuudesta sekä ilmoitusvelvollisuuden noudattamisesta.",
+      "section_number": "1",
+      "chapter_number": 9,
+      "statute_id": "878/2008"
+    },
+    {
+      "id": "c8e489de-e797-4c2f-bf25-77bde3823de2",
+      "node_type": "Section",
+      "publisher": "finlex",
+      "title": "2 § Ilmoitusvelvollisen sivuliikkeet ja muut yhtiöt",
+      "text": "Ilmoitusvelvollisen on noudatettava asiakkaan tuntemiseksi tässä laissa säädettyjä velvollisuuksia myös muussa kuin ETA-valtiossa sijaitsevassa sivuliikkeessään. Ilmoitusvelvollisen on huolehdittava, että tässä laissa säädettyjä velvollisuuksia noudatetaan myös muussa kuin ETA-valtiossa sijaitsevassa tytäryrityksessä, jonka osakkeiden tai osuuksien tuottamasta äänimäärästä ilmoitusvelvollisella on enemmän kuin 50 prosenttia. Jos kyseisen valtion lainsäädäntö ei salli asiakkaan tuntemiseksi tässä laissa säädettyjen menettelyjen noudattamista,  ilmoitusvelvollisen  tulee  ilmoittaa tästä valvontaviranomaiselle ja asianajajayhdistykselle.",
+      "section_number": "2",
+      "chapter_number": 9,
+      "statute_id": "878/2008"
+    },
+    {
+      "id": "0712548c-20e7-47ee-8749-2348c9dddd3a",
+      "node_type": "Section",
+      "publisher": "finlex",
+      "title": "3 § Valvontaviranomaisten ja asianajajayhdistyksen yhteistyö ja tietojenvaihto",
+      "text": "Valvontaviranomaisten ja asianajajayhdistyksen on tehtävä keskenään yhteistyötä rahanpesun ja terrorismin rahoittamisen estämiseksi ja paljastamiseksi. Valvontaviranomaisten ja asianajajayhdistyksen on sen estämättä, mitä tietojen salassapidosta muualla laissa säädetään, viipymättä annettava toisilleen hallussaan olevat tiedot asioista, jotka ovat välttämättömiä rahanpesun ja terrorismin rahoittamisen estämiseksi ja paljastamiseksi.",
+      "section_number": "3",
+      "chapter_number": 9,
+      "statute_id": "878/2008"
+    },
+    {
+      "id": "bfaf027f-6d86-4a6b-94aa-eb517ef3ffa6",
+      "node_type": "Section",
+      "publisher": "finlex",
+      "title": "4 § Muutoksenhaku",
+      "text": "Valvontaviranomaisen päätökseen haetaan muutosta valittamalla hallinto-oikeuteen siten kuin hallintolainkäyttölaissa (586/1996) säädetään, jollei jäljempänä tässä pykälässä tai muualla laissa toisin säädetä. Hallinto-oikeuden päätökseen saa hakea muutosta valittamalla vain, jos  korkein hallinto-oikeus myöntää valitusluvan. Valvontaviranomaisella on oikeus hakea valittamalla muutosta hallinto-oikeuden päätökseen, jolla hallinto-oikeus on muuttanut tai kumonnut toimivaltaisen valvontaviranomaisen tekemän päätöksen. Hallinto-oikeuden on valitusasiaa käsiteltäessä varattava asianajajayhdistykselle tilaisuus tulla kuulluksi valituksen johdosta ja tarvittaessa esittää todistelua ja muuta selvitystä silloin, kun asia koskee ilmoitusvelvollista, jonka toimintaa asianajajayhdistys 7 luvun 1 §:n 2 momentin mukaan valvoo. Valvontaviranomaisen päätöstä on muutoksenhausta huolimatta noudatettava, jollei muutoksenhakuviranomainen toisin määrää tai muualla laissa toisin säädetä.",
+      "section_number": "4",
+      "chapter_number": 9,
+      "statute_id": "878/2008"
+    },
+    {
+      "id": "6db30f3c-edf4-407c-92ec-b42bbb571097",
+      "node_type": "Section",
+      "publisher": "finlex",
+      "title": "5 § Eräitä viranomaisia koskeva yleinen huolehtimisvelvoite",
+      "text": "Tulli-, rajavartio-, vero- ja ulosottoviranomaisen sekä konkurssiasiamiehen on huolehdittava siitä, että sen toiminnassa kiinnitetään huomiota rahanpesun ja terrorismin rahoittamisen estämiseen ja paljastamiseen sekä tehtäviensä hoidon yhteydessä ilmi tulleiden epäilyttävien liiketoimien tai terrorismin rahoittamisen epäilyn ilmoittamiseen rahanpesun selvittelykeskukselle. Tulli- ja rajavartioviranomaisen tehtävistä esitutkintaviranomaisena säädetään erikseen.",
+      "section_number": "5",
+      "chapter_number": 9,
+      "statute_id": "878/2008"
+    },
+    {
+      "id": "c7b2aa8c-ff68-45de-acac-e855604e7846",
+      "node_type": "Section",
+      "publisher": "finlex",
+      "title": "6 § Määräyksenantovaltuus",
+      "text": "Valvontaviranomaiset voivat antaa tarkempia määräyksiä 3 luvun 1 §:n 2 momentissa tarkoitetuista riskitekijöistä, jotka ilmoitusvelvollisen on otettava huomioon, sekä 3 luvun 8 §:ssä tarkoitetusta yksinkertaistetusta menettelystä, joka liittyy tavanomaista vähäisempään rahanpesun ja terrorismin rahoittamisen riskiin, ja 3 luvun 10 §:ssä tarkoitetusta tehostetusta menettelystä, joka liittyy tavanomaista suurempaan rahanpesun ja terrorismin rahoittamisen riskiin.",
+      "section_number": "6",
+      "chapter_number": 9,
+      "statute_id": "878/2008"
+    },
+    {
+      "id": "192a9930-5bcc-409c-90e4-ff6ac7a77fcf",
+      "node_type": "Section",
+      "publisher": "finlex",
+      "title": "7 § Voimaantulo",
+      "text": "Tämä laki tulee voimaan 3 päivänä heinäkuuta 2017. Lain 5 luku tulee kuitenkin voimaan vasta 1 päivänä heinäkuuta 2019. Lain 6 luvun 2 ja 3 § tulevat kuitenkin voimaan vasta 1 päivänä tammikuuta 2019. Tällä lailla kumotaan rahanpesun ja terrorismin rahoittamisen estämisestä ja selvittämisestä annettu laki (503/2008).",
+      "section_number": "7",
+      "chapter_number": 9,
+      "statute_id": "878/2008"
+    },
+    {
+      "id": "0f8e1e31-fe2d-4f32-91e1-77c1e2d5ef83",
+      "node_type": "Section",
+      "publisher": "finlex",
+      "title": "8 § Siirtymäsäännökset",
+      "text": "Edellä 2 luvun 3 §:ssä tarkoitetun ilmoitusvelvollisen riskiarvion on oltava valmiina 31 päivään joulukuuta 2017 mennessä. Edellä 3 luvun 13 §:ssä tarkoitetun riskiperusteiseen arviointiin perustuvan menettelyn on oltava valmiina 31 päivään joulukuuta 2017 mennessä. Sen, joka tämän lain voimaan tullessa on merkitty yrityspalvelurekisteriin tai valuutanvaihtorekisteriin, on tehtävä 5 luvun 3 §:ssä tarkoitettu hakemus rahanpesun valvontarekisteriin merkitsemiseksi kuuden kuukauden kuluessa lain voimaantulosta. Mitä 3 luvun 2 §:n 2 momentissa säädetään asiakkaan tunnistamisesta ja henkilöllisyyden todentamisesta rahapelitoiminnassa toisiinsa kytkeytyvien suoritusten yhteydessä, sovelletaan arpajaislain 14 §:n 1 momentissa tarkoitettuja sähköisesti välitettäviä rahapelejä koskevaan toimintaan 1 päivästä tammikuuta 2018. Ennen tämän lain voimaantuloa tehtyihin tekoihin ja laiminlyönteihin sovelletaan tämän lain voimaan tullessa voimassa olleita tällä lailla kumotun rahanpesun ja terrorismin rahoittamisen estämisestä ja selvittämisestä annetun lain rangaistusvastuuta koskevia säännöksiä. Jos uuden lain soveltaminen johtaisi lievempään lopputulokseen, on tämä otettava huomioon rangaistusta määrättäessä.",
+      "section_number": "8",
+      "chapter_number": 9,
+      "statute_id": "878/2008"
+    }
+  ],
+  "clauses": [
+    {
+      "id": "cb3b7d83-4422-46f4-9095-cf589b457a3b",
+      "node_type": "Clause",
+      "publisher": "finlex",
+      "title": "§ 2 mom 2",
+      "text": "1) Finanssivalvonnasta annetun lain (878/2008) 4 §:n 2 momentissa tarkoitettuun:",
+      "clause_number": 2,
+      "section_number": "2",
+      "statute_id": "878/2008"
+    },
+    {
+      "id": "277a9831-1e5e-4765-9a82-19ab07e8cd3c",
+      "node_type": "Clause",
+      "publisher": "finlex",
+      "title": "§ 2 mom 1",
+      "text": "1) Finanssivalvonnasta annetun lain (878/2008) 4 §:n 2 momentissa tarkoitettuun:",
+      "clause_number": 1,
+      "section_number": "2",
+      "statute_id": "878/2008"
+    },
+    {
+      "id": "ba83798e-c1d0-4e95-a556-89f776d86251",
+      "node_type": "Clause",
+      "publisher": "finlex",
+      "title": "§ 2 mom 2",
+      "text": "2) luottolaitostoiminnasta annetussa laissa (610/2014) tarkoitetun luottolaitoksen kanssa samaan konsolidointiryhmään kuuluvaan rahoituslaitokseen;",
+      "clause_number": 2,
+      "section_number": "2",
+      "statute_id": "878/2008"
+    },
+    {
+      "id": "68f16dd5-14e5-45fa-8345-9e1df9bc5c45",
+      "node_type": "Clause",
+      "publisher": "finlex",
+      "title": "§ 2 mom 3",
+      "text": "3) arvo-osuusjärjestelmästä ja selvitystoiminnasta annetussa laissa (749/2012) tarkoitettuun tilinhoitajaan ja tilinhoitajan oikeudet saaneen ulkomaisen yhteisön Suomessa sijaitsevaan toimipisteeseen;",
+      "clause_number": 3,
+      "section_number": "2",
+      "statute_id": "878/2008"
+    },
+    {
+      "id": "c1ab8baf-caf7-4bb7-8094-c46fcb0b3dfb",
+      "node_type": "Clause",
+      "publisher": "finlex",
+      "title": "§ 2 mom 4",
+      "text": "4) maksulaitoslain (297/2010) 7 ja 7 a §:ssä tarkoitettuun luonnolliseen henkilöön ja oikeushenkilöön sekä vaihtoehtorahastojen hoitajista annetussa laissa (162/2014) tarkoitettuun rekisteröitymisvelvolliseen vaihtoehtorahaston hoitajaan;",
+      "clause_number": 4,
+      "section_number": "2",
+      "statute_id": "878/2008"
+    },
+    {
+      "id": "f4b4881f-0368-45d8-bee8-bb38a112c9c0",
+      "node_type": "Clause",
+      "publisher": "finlex",
+      "title": "§ 2 mom 5",
+      "text": "5) vakuutusyhdistyslaissa (1250/1987) tarkoitettuun vakuutusyhdistykseen;",
+      "clause_number": 5,
+      "section_number": "2",
+      "statute_id": "878/2008"
+    },
+    {
+      "id": "ad6029e6-36f0-4416-a6c1-d4dfea858cc8",
+      "node_type": "Clause",
+      "publisher": "finlex",
+      "title": "§ 2 mom 6",
+      "text": "6) vakuutusedustuksesta annetussa laissa (570/2005) tarkoitettuun vakuutusedustajaan ja ulkomaisten vakuutusedustajien Suomessa toimiviin sivuliikkeisiin;",
+      "clause_number": 6,
+      "section_number": "2",
+      "statute_id": "878/2008"
+    },
+    {
+      "id": "b66f5cb0-d2ce-4f59-8c1d-dd842783e9e2",
+      "node_type": "Clause",
+      "publisher": "finlex",
+      "title": "§ 2 mom 7",
+      "text": "7) joukkorahoituslaissa (734/2016) tarkoitettuun joukkorahoituksen välittäjään;",
+      "clause_number": 7,
+      "section_number": "2",
+      "statute_id": "878/2008"
+    },
+    {
+      "id": "f2bf13b9-73d9-4a34-89aa-226e1e82bbc6",
+      "node_type": "Clause",
+      "publisher": "finlex",
+      "title": "§ 2 mom 8",
+      "text": "8) asunto-omaisuuteen liittyvien kuluttajaluottojen välittäjistä annetussa laissa (852/2016) tarkoitettuun suomalaiseen luotonvälittäjään ja ulkomaisen luotonvälittäjän Suomessa toimivaan sivuliikkeeseen;",
+      "clause_number": 8,
+      "section_number": "2",
+      "statute_id": "878/2008"
+    },
+    {
+      "id": "b5260ea2-ae25-47e8-87bf-b358ea0aa65c",
+      "node_type": "Clause",
+      "publisher": "finlex",
+      "title": "§ 2 mom 9",
+      "text": "9) arpajaislain (1047/2001) 11 §:ssä tarkoitettuun rahapeliyhteisöön;",
+      "clause_number": 9,
+      "section_number": "2",
+      "statute_id": "878/2008"
+    },
+    {
+      "id": "6e6b2cc9-739b-4512-95c3-838bcf6b1e8b",
+      "node_type": "Clause",
+      "publisher": "finlex",
+      "title": "§ 2 mom 10",
+      "text": "10) Ahvenanmaan maakuntalainsäädännössä tarkoitettuun rahapeliyhteisöön;",
+      "clause_number": 10,
+      "section_number": "2",
+      "statute_id": "878/2008"
+    },
+    {
+      "id": "c0fbd90f-3845-499c-b2c0-ec81dfd276f7",
+      "node_type": "Clause",
+      "publisher": "finlex",
+      "title": "§ 2 mom 1",
+      "text": "11) tilintarkastuslaissa (1141/2015) tarkoitettuun tilintarkastajaan, kun hän suorittaa mainitun lain 1 luvun 1 §:n 1 momentissa tarkoitettua lakisääteistä tilintarkastusta;",
+      "clause_number": 1,
+      "section_number": "2",
+      "statute_id": "878/2008"
+    },
+    {
+      "id": "a1d60655-409c-4cf7-aa2f-89ac31fd82b1",
+      "node_type": "Clause",
+      "publisher": "finlex",
+      "title": "§ 2 mom 11",
+      "text": "11) tilintarkastuslaissa (1141/2015) tarkoitettuun tilintarkastajaan, kun hän suorittaa mainitun lain 1 luvun 1 §:n 1 momentissa tarkoitettua lakisääteistä tilintarkastusta;",
+      "clause_number": 11,
+      "section_number": "2",
+      "statute_id": "878/2008"
+    },
+    {
+      "id": "4eeae2ca-d524-4100-b05f-5c4e035e8bbb",
+      "node_type": "Clause",
+      "publisher": "finlex",
+      "title": "§ 2 mom 12",
+      "text": "12) asianajajista annetussa laissa (496/1958) tarkoitettuun asianajajaan ja hänen apulaiseensa siltä osin kuin nämä toimivat asiakkaan puolesta tai lukuun taloudelliseen toimintaan tai kiinteään omaisuuteen liittyvissä liiketoimissa taikka osallistuvat asiakkaan puolesta seuraavien liiketoimien suunnitteluun tai suorittamiseen:",
+      "clause_number": 12,
+      "section_number": "2",
+      "statute_id": "878/2008"
+    },
+    {
+      "id": "834b67c8-41a9-42f9-9595-1c4a417fd8a0",
+      "node_type": "Clause",
+      "publisher": "finlex",
+      "title": "§ 2 mom 13",
+      "text": "13) muuhun liike- tai ammattitoimintana oikeudellisia palveluita tarjoavaan siltä osin kuin toimitaan asiakkaan puolesta tai lukuun taloudelliseen toimintaan tai kiinteään omaisuuteen liittyvissä liiketoimissa taikka osallistutaan asiakkaan puolesta seuraavien liiketoimien suunnitteluun tai suorittamiseen:",
+      "clause_number": 13,
+      "section_number": "2",
+      "statute_id": "878/2008"
+    },
+    {
+      "id": "7623931c-7ff4-495b-9bd1-d62e0a52940b",
+      "node_type": "Clause",
+      "publisher": "finlex",
+      "title": "§ 2 mom 14",
+      "text": "14) rahoituspalveluja tarjoavaan yritykseen;",
+      "clause_number": 14,
+      "section_number": "2",
+      "statute_id": "878/2008"
+    },
+    {
+      "id": "ed7a6aa6-57b7-418a-8558-315155b9f8bc",
+      "node_type": "Clause",
+      "publisher": "finlex",
+      "title": "§ 2 mom 15",
+      "text": "15) eräiden luotonantajien ja luotonvälittäjien rekisteröinnistä annetun lain (853/2016) soveltamisalaan kuuluvaan elinkeinonharjoittajaan tämän välittäessä vertaislainoja;",
+      "clause_number": 15,
+      "section_number": "2",
+      "statute_id": "878/2008"
+    },
+    {
+      "id": "75e9e12e-fce9-4cbf-85d0-fca770ad10d9",
+      "node_type": "Clause",
+      "publisher": "finlex",
+      "title": "§ 2 mom 16",
+      "text": "16) sijoituspalvelulain (747/2012) 2 luvun 3 §:n 1–7 kohdassa tarkoitettua palvelua liike- tai ammattitoimintana tarjoavaan;",
+      "clause_number": 16,
+      "section_number": "2",
+      "statute_id": "878/2008"
+    },
+    {
+      "id": "9d99575b-8315-4d34-b44e-d976a3397dd6",
+      "node_type": "Clause",
+      "publisher": "finlex",
+      "title": "§ 2 mom 17",
+      "text": "17) panttilainauslaitoksista annetussa laissa (1353/1992) tarkoitettuun panttilainauslaitokseen;",
+      "clause_number": 17,
+      "section_number": "2",
+      "statute_id": "878/2008"
+    },
+    {
+      "id": "fa9bcdb6-0a01-42ed-886d-95b2863f30b1",
+      "node_type": "Clause",
+      "publisher": "finlex",
+      "title": "§ 2 mom 18",
+      "text": "18) kiinteistönvälitysliikkeistä ja vuokrahuoneiston välitysliikkeistä annetussa laissa (1075/2000) tarkoitettuun kiinteistönvälitysliikkeeseen sekä vuokrahuoneiston välitysliikkeeseen;",
+      "clause_number": 18,
+      "section_number": "2",
+      "statute_id": "878/2008"
+    },
+    {
+      "id": "eacbd12e-49ce-4177-a962-8aa2ae508f07",
+      "node_type": "Clause",
+      "publisher": "finlex",
+      "title": "§ 2 mom 19",
+      "text": "19) Ahvenanmaan maakuntalainsäädännössä tarkoitettuun kiinteistönvälitysliikkeeseen sekä vuokrahuoneiston välitysliikkeeseen;",
+      "clause_number": 19,
+      "section_number": "2",
+      "statute_id": "878/2008"
+    },
+    {
+      "id": "c51ffd4d-a15c-4cef-a024-29262dad8dfb",
+      "node_type": "Clause",
+      "publisher": "finlex",
+      "title": "§ 2 mom 1",
+      "text": "20) perintätoiminnan luvanvaraisuudesta annetun lain (517/1999) 1 §:n 1 momentissa tarkoitetun perintätoimen toimiluvan haltijaan;",
+      "clause_number": 1,
+      "section_number": "2",
+      "statute_id": "878/2008"
+    },
+    {
+      "id": "c62a7772-fa54-4b2f-9d02-255dd3c6da81",
+      "node_type": "Clause",
+      "publisher": "finlex",
+      "title": "§ 2 mom 20",
+      "text": "20) perintätoiminnan luvanvaraisuudesta annetun lain (517/1999) 1 §:n 1 momentissa tarkoitetun perintätoimen toimiluvan haltijaan;",
+      "clause_number": 20,
+      "section_number": "2",
+      "statute_id": "878/2008"
+    },
+    {
+      "id": "2942c295-e138-4f99-8af7-4adb13de732b",
+      "node_type": "Clause",
+      "publisher": "finlex",
+      "title": "§ 2 mom 21",
+      "text": "21) yrityspalvelun tarjoajaan;",
+      "clause_number": 21,
+      "section_number": "2",
+      "statute_id": "878/2008"
+    },
+    {
+      "id": "cedfad0b-22c8-44d6-b184-04b0fdfcb68c",
+      "node_type": "Clause",
+      "publisher": "finlex",
+      "title": "§ 2 mom 22",
+      "text": "22) liike- tai ammattitoimintana pääasiallisesti veroneuvontapalveluita tarjoavaan;",
+      "clause_number": 22,
+      "section_number": "2",
+      "statute_id": "878/2008"
+    },
+    {
+      "id": "9b71c5af-f906-4e32-9be4-e7d63df65543",
+      "node_type": "Clause",
+      "publisher": "finlex",
+      "title": "§ 2 mom 23",
+      "text": "23) liike- tai ammattitoimintana kirjanpitotehtäviä toimeksiannosta hoitavaan;",
+      "clause_number": 23,
+      "section_number": "2",
+      "statute_id": "878/2008"
+    },
+    {
+      "id": "40b55d6a-afdd-49da-88a1-2132ce472ce1",
+      "node_type": "Clause",
+      "publisher": "finlex",
+      "title": "§ 2 mom 24",
+      "text": "24) liike- tai ammattitoimintana tavaroita myyvään tai välittävään siltä osin kuin maksetaan tai otetaan vastaan maksusuorituksena käteistä yhtenä suorituksena tai toisiinsa kytkeytyvinä suorituksina yhteensä vähintään 10 000 euroa.",
+      "clause_number": 24,
+      "section_number": "2",
+      "statute_id": "878/2008"
+    },
+    {
+      "id": "713759f1-e098-44c8-ad1d-43842a87667b",
+      "node_type": "Clause",
+      "publisher": "finlex",
+      "title": "§ 3 mom 1",
+      "text": "1) toiminta on vähäistä;",
+      "clause_number": 1,
+      "section_number": "3",
+      "statute_id": "878/2008"
+    },
+    {
+      "id": "bad20ad7-9ec8-44f0-b965-d0185899a488",
+      "node_type": "Clause",
+      "publisher": "finlex",
+      "title": "§ 3 mom 2",
+      "text": "2) toiminta ei ole henkilön pääasiallista liiketoimintaa vaan siihen suoraan liittyvää oheispalvelua, jonka osuus tilikauden liikevaihdosta on enintään viisi prosenttia;",
+      "clause_number": 2,
+      "section_number": "3",
+      "statute_id": "878/2008"
+    },
+    {
+      "id": "cbad2247-0669-45dc-869b-c60592b2ea8c",
+      "node_type": "Clause",
+      "publisher": "finlex",
+      "title": "§ 3 mom 1",
+      "text": "3) toimintaa harjoittaa henkilö, joka ei harjoita pääasiallisena liiketoimintanaan 2 §:n 1 momentin 1–23 kohdassa tarkoitettua toimintaa;",
+      "clause_number": 1,
+      "section_number": "3",
+      "statute_id": "878/2008"
+    },
+    {
+      "id": "8917e1d9-5c28-4a54-aeed-392487f456b7",
+      "node_type": "Clause",
+      "publisher": "finlex",
+      "title": "§ 3 mom 3",
+      "text": "3) toimintaa harjoittaa henkilö, joka ei harjoita pääasiallisena liiketoimintanaan 2 §:n 1 momentin 1–23 kohdassa tarkoitettua toimintaa;",
+      "clause_number": 3,
+      "section_number": "3",
+      "statute_id": "878/2008"
+    },
+    {
+      "id": "391bc3ab-af54-44fd-a565-40422367972e",
+      "node_type": "Clause",
+      "publisher": "finlex",
+      "title": "§ 3 mom 4",
+      "text": "4) toimintaa tarjotaan pääasiallisen liiketoiminnan asiakkaille eikä sitä tarjota yleisesti yleisölle;",
+      "clause_number": 4,
+      "section_number": "3",
+      "statute_id": "878/2008"
+    },
+    {
+      "id": "7fd9d5b3-c9da-43ca-a4fd-03839951c4ef",
+      "node_type": "Clause",
+      "publisher": "finlex",
+      "title": "§ 3 mom 2",
+      "text": "5) toiminta on muuta kuin maksulaitoslain 1 §:n 2 momentin 5 kohdassa tarkoitettua rahanvälitystä.",
+      "clause_number": 2,
+      "section_number": "3",
+      "statute_id": "878/2008"
+    },
+    {
+      "id": "074f001f-a6b8-4bda-ae5b-ae5f4fc14612",
+      "node_type": "Clause",
+      "publisher": "finlex",
+      "title": "§ 3 mom 5",
+      "text": "5) toiminta on muuta kuin maksulaitoslain 1 §:n 2 momentin 5 kohdassa tarkoitettua rahanvälitystä.",
+      "clause_number": 5,
+      "section_number": "3",
+      "statute_id": "878/2008"
+    },
+    {
+      "id": "4ba43dce-12c5-4928-bfb9-17a8031a71cc",
+      "node_type": "Clause",
+      "publisher": "finlex",
+      "title": "§ 4 mom 1",
+      "text": "5)ilmoitusvelvollisella2 §:n 1 momentissa tarkoitettuja yhteisöjä ja elinkeinonharjoittajia;",
+      "clause_number": 1,
+      "section_number": "4",
+      "statute_id": "878/2008"
+    },
+    {
+      "id": "6b0daf5f-6e00-4ab0-86fe-da46d117cb99",
+      "node_type": "Clause",
+      "publisher": "finlex",
+      "title": "§ 4 mom 1",
+      "text": "14)valvontaviranomaisella7 luvun 1 §:n 1 momentissa tarkoitettua viranomaista;",
+      "clause_number": 1,
+      "section_number": "4",
+      "statute_id": "878/2008"
+    },
+    {
+      "id": "4246c5cc-ca4c-4d36-94a2-7082698e4108",
+      "node_type": "Clause",
+      "publisher": "finlex",
+      "title": "§ 4 mom 1",
+      "text": "17)rahoituspalveluja tarjoavalla yrityksellämuuta  yritystä kuin  1 luvun 2 §:n 1 momentin 1–8 kohdassa tarkoitettua yhteisöä ja elinkeinonharjoittajaa, joka harjoittaa yhtä tai useampaa luottolaitostoiminnasta annetun lain 5 luvun 1 §:n 1 momentin 2–11, 13 ja 14 kohdassa tarkoitettua toimintaa sekä rahoituspalveluja tarjoavan yrityksen Suomessa toimivaa sivuliikettä;",
+      "clause_number": 1,
+      "section_number": "4",
+      "statute_id": "878/2008"
+    },
+    {
+      "id": "4f0992a6-66fa-462d-b4da-ce4a258a82ab",
+      "node_type": "Clause",
+      "publisher": "finlex",
+      "title": "§ 5 mom 1",
+      "text": "1) omistaa suoraan tai välillisesti suuremman kuin 25 % osuuden oikeushenkilön osakkeista tai muuten omistaa vastaavan osuuden oikeushenkilöstä;",
+      "clause_number": 1,
+      "section_number": "5",
+      "statute_id": "878/2008"
+    },
+    {
+      "id": "37dce292-32c2-437d-a47a-edcc889f4c6d",
+      "node_type": "Clause",
+      "publisher": "finlex",
+      "title": "§ 5 mom 2",
+      "text": "2) käyttää suoraan tai välillisesti suurempaa kuin 25 % osuutta oikeushenkilön äänioikeuksista, ja tämä äänimäärä perustuu omistukseen, jäsenyyteen, yhtiöjärjestykseen, yhtiösopimukseen tai niihin verrattaviin sääntöihin, tai;",
+      "clause_number": 2,
+      "section_number": "5",
+      "statute_id": "878/2008"
+    },
+    {
+      "id": "a19cc51d-0693-4778-be1b-a93cd6366073",
+      "node_type": "Clause",
+      "publisher": "finlex",
+      "title": "§ 5 mom 3",
+      "text": "3) käyttää muulla tavoin tosiasiallisesti määräysvaltaa oikeushenkilössä.",
+      "clause_number": 3,
+      "section_number": "5",
+      "statute_id": "878/2008"
+    },
+    {
+      "id": "e9b8cb3a-e20f-4d81-8867-86f022714a95",
+      "node_type": "Clause",
+      "publisher": "finlex",
+      "title": "§ 5 mom 1",
+      "text": "1) oikeushenkilöllä, jossa yksi tai useampi luonnollinen henkilö käyttää itsenäistä päätösvaltaa, on suurempi kuin 25 % omistusosuus tai suurempi kuin 25 % osuus äänioikeuksista tarkasteltavasta oikeushenkilöstä, tai;",
+      "clause_number": 1,
+      "section_number": "5",
+      "statute_id": "878/2008"
+    },
+    {
+      "id": "aa4615d4-4281-495c-9f8e-ff716f8c13e2",
+      "node_type": "Clause",
+      "publisher": "finlex",
+      "title": "§ 5 mom 2",
+      "text": "2) luonnollisella henkilöllä tai oikeushenkilöllä, jossa luonnollinen henkilö käyttää itsenäistä päätösvaltaa, on omistukseen, jäsenyyteen, yhtiöjärjestykseen, yhtiösopimukseen tai niihin verrattaviin sääntöihin perustuva oikeus nimittää tai erottaa enemmistö jäsenistä tarkasteltavan oikeushenkilön hallituksessa tai siihen verrattavassa toimielimessä.",
+      "clause_number": 2,
+      "section_number": "5",
+      "statute_id": "878/2008"
+    },
+    {
+      "id": "cd4eb50d-b12b-42ea-8ec8-237503347a56",
+      "node_type": "Clause",
+      "publisher": "finlex",
+      "title": "§ 6 mom 1",
+      "text": "1) perustaja tai tämän mahdollisesti asettama suojelija;",
+      "clause_number": 1,
+      "section_number": "6",
+      "statute_id": "878/2008"
+    },
+    {
+      "id": "05de3201-b54c-4209-a471-69730d625ffa",
+      "node_type": "Clause",
+      "publisher": "finlex",
+      "title": "§ 6 mom 2",
+      "text": "2) omaisuudenhoitaja; tai",
+      "clause_number": 2,
+      "section_number": "6",
+      "statute_id": "878/2008"
+    },
+    {
+      "id": "4cc63eae-5621-4a81-a57e-c0a98acd168f",
+      "node_type": "Clause",
+      "publisher": "finlex",
+      "title": "§ 6 mom 3",
+      "text": "3) edunsaaja.",
+      "clause_number": 3,
+      "section_number": "6",
+      "statute_id": "878/2008"
+    },
+    {
+      "id": "16c9822e-3175-47fd-ae2e-b8bee31d21f7",
+      "node_type": "Clause",
+      "publisher": "finlex",
+      "title": "§ 1 mom 1",
+      "text": "1) yksilöidä rahanpesun tai terrorismin rahoittamisen riskit toimialoilla;",
+      "clause_number": 1,
+      "section_number": "1",
+      "statute_id": "878/2008"
+    },
+    {
+      "id": "bc9bd145-3324-417c-98d3-bd1843a8c37b",
+      "node_type": "Clause",
+      "publisher": "finlex",
+      "title": "§ 1 mom 2",
+      "text": "2) tukea ja tehostaa rahanpesun ja terrorismin rahoittamisen torjuntaa ja voimavarojen kohdentamista;",
+      "clause_number": 2,
+      "section_number": "1",
+      "statute_id": "878/2008"
+    },
+    {
+      "id": "e4ad7262-3c4a-404c-9d4a-3dcc71e18420",
+      "node_type": "Clause",
+      "publisher": "finlex",
+      "title": "§ 1 mom 3",
+      "text": "3) tukea eri toimialojen rahanpesun ja terrorismin rahoittamisen torjuntaa koskevien yhdenmukaisten toimintatapojen laadintaa;",
+      "clause_number": 3,
+      "section_number": "1",
+      "statute_id": "878/2008"
+    },
+    {
+      "id": "0a633314-325f-43b8-88c7-d65c40272d50",
+      "node_type": "Clause",
+      "publisher": "finlex",
+      "title": "§ 1 mom 4",
+      "text": "4) antaa toimivaltaisille valvontaviranomaisille, asianajajayhdistykselle ja ilmoitusvelvollisille tietoa tämän luvun 2 ja 3 §:ssä tarkoitetun riskiarvion laatimisen tueksi.",
+      "clause_number": 4,
+      "section_number": "1",
+      "statute_id": "878/2008"
+    },
+    {
+      "id": "8d51431f-9673-480c-927d-b0d1eab1ea26",
+      "node_type": "Clause",
+      "publisher": "finlex",
+      "title": "§ 2 mom 1",
+      "text": "1) komission laatima Euroopan unionin laajuinen rahanpesun ja terrorismin rahoittamisen riskiarvio ja sen osoittamat rahanpesun ja terrorismin rahoittamisen riskit;",
+      "clause_number": 1,
+      "section_number": "2",
+      "statute_id": "878/2008"
+    },
+    {
+      "id": "9c3dc6d9-6c14-4735-8f59-d4209ff3381c",
+      "node_type": "Clause",
+      "publisher": "finlex",
+      "title": "§ 2 mom 2",
+      "text": "2) kansallinen riskiarvio ja sen osoittamat kansalliset rahanpesun ja terrorismin rahoittamisen riskit;",
+      "clause_number": 2,
+      "section_number": "2",
+      "statute_id": "878/2008"
+    },
+    {
+      "id": "adb686b5-7f43-453a-a664-e8c46a01dcfc",
+      "node_type": "Clause",
+      "publisher": "finlex",
+      "title": "§ 2 mom 3",
+      "text": "3) sen valvomaa toimialaa koskevat ilmoitusvelvollisten ja niiden asiakkaisiin, tuotteisiin ja palveluihin liittyvät rahanpesun ja terrorismin rahoittamisen riskit.",
+      "clause_number": 3,
+      "section_number": "2",
+      "statute_id": "878/2008"
+    },
+    {
+      "id": "1978f890-a7e5-48e3-acb8-a88beb5ca13d",
+      "node_type": "Clause",
+      "publisher": "finlex",
+      "title": "§ 3 mom 1",
+      "text": "1) sisäisten toimintaperiaatteiden, menettelytapojen ja valvonnan kehittämisen;",
+      "clause_number": 1,
+      "section_number": "3",
+      "statute_id": "878/2008"
+    },
+    {
+      "id": "92f0f890-aa52-4aa7-9328-ba8a6c62e7fe",
+      "node_type": "Clause",
+      "publisher": "finlex",
+      "title": "§ 3 mom 2",
+      "text": "2) sisäisen tarkastuksen, jos tämä on perusteltua ilmoitusvelvollisen toiminnan luonne ja koko huomioon ottaen.",
+      "clause_number": 2,
+      "section_number": "3",
+      "statute_id": "878/2008"
+    },
+    {
+      "id": "08cac3e9-008b-4647-a97a-95bc6ddaff5c",
+      "node_type": "Clause",
+      "publisher": "finlex",
+      "title": "§ 2 mom 1",
+      "text": "1) liiketoimen suuruus tai toisiinsa kytkeytyvien liiketoimien suuruus yhteensä on vähintään 10 000 euroa ja asiakkuus on satunnainen, tai kyse on maksajan tiedot -asetuksen 3 artiklan 9 kohdassa tarkoitetusta varojen siirrosta, jonka määrä ylittää 1 000 euroa;",
+      "clause_number": 1,
+      "section_number": "2",
+      "statute_id": "878/2008"
+    },
+    {
+      "id": "fe693769-506f-4906-a82e-991c8250b4ee",
+      "node_type": "Clause",
+      "publisher": "finlex",
+      "title": "§ 2 mom 2",
+      "text": "2) tavaroiden myynnissä suoritettavan liiketoimen suuruus tai toisiinsa kytkeytyvien liiketoimien suuruus käteisenä on yhteensä vähintään 10 000 euroa ja asiakkuus on satunnainen;",
+      "clause_number": 2,
+      "section_number": "2",
+      "statute_id": "878/2008"
+    },
+    {
+      "id": "accb30ac-66b8-4198-9caf-56fff0007642",
+      "node_type": "Clause",
+      "publisher": "finlex",
+      "title": "§ 2 mom 3",
+      "text": "3) kyse on epäilyttävästä liiketoimesta tai jos ilmoitusvelvollinen epäilee liiketoimeen sisältyviä varoja käytettävän terrorismin rahoittamiseen tai sen rangaistavaan yritykseen; tai",
+      "clause_number": 3,
+      "section_number": "2",
+      "statute_id": "878/2008"
+    },
+    {
+      "id": "1e4653f4-c880-4848-9632-4b81ea2f0b13",
+      "node_type": "Clause",
+      "publisher": "finlex",
+      "title": "§ 2 mom 4",
+      "text": "4) ilmoitusvelvollinen epäilee aiemmin todennetun asiakkaan henkilöllisyyden todentamistietojen luotettavuutta tai riittävyyttä.",
+      "clause_number": 4,
+      "section_number": "2",
+      "statute_id": "878/2008"
+    },
+    {
+      "id": "4bebcf53-4510-4208-9d38-19b1973336b4",
+      "node_type": "Clause",
+      "publisher": "finlex",
+      "title": "§ 3 mom 1",
+      "text": "1) nimi, syntymäaika ja henkilötunnus;",
+      "clause_number": 1,
+      "section_number": "3",
+      "statute_id": "878/2008"
+    },
+    {
+      "id": "0e3c83f9-5346-4484-8653-7cc5a5280b18",
+      "node_type": "Clause",
+      "publisher": "finlex",
+      "title": "§ 3 mom 2",
+      "text": "2) edustajan nimi, syntymäaika ja henkilötunnus;",
+      "clause_number": 2,
+      "section_number": "3",
+      "statute_id": "878/2008"
+    },
+    {
+      "id": "458df23d-bc61-4308-9993-49906fc87286",
+      "node_type": "Clause",
+      "publisher": "finlex",
+      "title": "§ 3 mom 3",
+      "text": "3) oikeushenkilön täydellinen nimi, rekisterinumero, rekisteröimispäivä ja rekisteriviranomainen;",
+      "clause_number": 3,
+      "section_number": "3",
+      "statute_id": "878/2008"
+    },
+    {
+      "id": "f3aeba32-9dad-4667-9134-4678e724c517",
+      "node_type": "Clause",
+      "publisher": "finlex",
+      "title": "§ 3 mom 4",
+      "text": "4) oikeushenkilön hallituksen tai vastaavan päättävän elimen jäsenten täydelliset nimet, syntymäajat ja kansalaisuudet;",
+      "clause_number": 4,
+      "section_number": "3",
+      "statute_id": "878/2008"
+    },
+    {
+      "id": "8ffa41ed-0e36-4518-a0bd-255e96833e45",
+      "node_type": "Clause",
+      "publisher": "finlex",
+      "title": "§ 3 mom 5",
+      "text": "5) oikeushenkilön toimiala;",
+      "clause_number": 5,
+      "section_number": "3",
+      "statute_id": "878/2008"
+    },
+    {
+      "id": "5aa294fc-8409-4dcd-9a2d-dfea2d091fdb",
+      "node_type": "Clause",
+      "publisher": "finlex",
+      "title": "§ 3 mom 6",
+      "text": "6) tosiasiallisten edunsaajien nimi, syntymäaika ja henkilötunnus;",
+      "clause_number": 6,
+      "section_number": "3",
+      "statute_id": "878/2008"
+    },
+    {
+      "id": "5a2eaed0-fd24-45a5-9436-979a92c203dd",
+      "node_type": "Clause",
+      "publisher": "finlex",
+      "title": "§ 3 mom 7",
+      "text": "7) henkilöllisyyden todentamisessa käytetyn asiakirjan nimi, asiakirjan numero tai muu tunnistetieto ja myöntäjä taikka kopio asiakirjasta tai jos asiakas on etätunnistettu, tiedot todentamisessa käytetystä menettelystä tai lähteistä;",
+      "clause_number": 7,
+      "section_number": "3",
+      "statute_id": "878/2008"
+    },
+    {
+      "id": "bc28bb06-8a25-463c-95e9-088b737d9097",
+      "node_type": "Clause",
+      "publisher": "finlex",
+      "title": "§ 3 mom 1",
+      "text": "8) tiedot asiakkaan toiminnasta, liiketoiminnan laadusta ja laajuudesta, taloudellisesta asemasta, perusteet liiketoimen tai palvelun käytölle ja tiedot varojen alkuperästä sekä muut 4 §:n 1 momentissa tarkoitetut asiakkaan tuntemiseksi hankitut tarpeelliset tiedot; ja",
+      "clause_number": 1,
+      "section_number": "3",
+      "statute_id": "878/2008"
+    },
+    {
+      "id": "7df0d8ff-b281-47b4-bf28-e8a974cb1482",
+      "node_type": "Clause",
+      "publisher": "finlex",
+      "title": "§ 3 mom 8",
+      "text": "8) tiedot asiakkaan toiminnasta, liiketoiminnan laadusta ja laajuudesta, taloudellisesta asemasta, perusteet liiketoimen tai palvelun käytölle ja tiedot varojen alkuperästä sekä muut 4 §:n 1 momentissa tarkoitetut asiakkaan tuntemiseksi hankitut tarpeelliset tiedot; ja",
+      "clause_number": 8,
+      "section_number": "3",
+      "statute_id": "878/2008"
+    },
+    {
+      "id": "a7f91629-414a-464b-99de-d8c2e53e5ed9",
+      "node_type": "Clause",
+      "publisher": "finlex",
+      "title": "§ 3 mom 3",
+      "text": "9) 4 §:n 3 momentissa säädetyn selonottovelvollisuuden ja 13 §:ssä säädetyn poliittisesti vaikutusvaltaiseen henkilöön liittyvän tehostetun tuntemisvelvollisuuden täyttämiseksi hankitut välttämättömät tiedot.",
+      "clause_number": 3,
+      "section_number": "3",
+      "statute_id": "878/2008"
+    },
+    {
+      "id": "753b4ed6-ec8c-498d-ac64-107e0fc80335",
+      "node_type": "Clause",
+      "publisher": "finlex",
+      "title": "§ 3 mom 9",
+      "text": "9) 4 §:n 3 momentissa säädetyn selonottovelvollisuuden ja 13 §:ssä säädetyn poliittisesti vaikutusvaltaiseen henkilöön liittyvän tehostetun tuntemisvelvollisuuden täyttämiseksi hankitut välttämättömät tiedot.",
+      "clause_number": 9,
+      "section_number": "3",
+      "statute_id": "878/2008"
+    },
+    {
+      "id": "2f3293c9-99b9-45eb-a9b4-d9f0ad7edd75",
+      "node_type": "Clause",
+      "publisher": "finlex",
+      "title": "§ 5 mom 1",
+      "text": "1) edunsaajan nimi, kun henkilö on yksilöity tai nimetty edunsaajaksi;",
+      "clause_number": 1,
+      "section_number": "5",
+      "statute_id": "878/2008"
+    },
+    {
+      "id": "44962a0a-05e9-4ea0-9cd2-942031090b2e",
+      "node_type": "Clause",
+      "publisher": "finlex",
+      "title": "§ 5 mom 2",
+      "text": "2) muulla kuin 1 kohdassa tarkoitetulla tavalla jaoteltujen edunsaajien riittävät yksilöintitiedot maksun suorittamiseksi sen erääntyessä.",
+      "clause_number": 2,
+      "section_number": "5",
+      "statute_id": "878/2008"
+    },
+    {
+      "id": "06517a42-026c-4ad5-b70e-954f8904e520",
+      "node_type": "Clause",
+      "publisher": "finlex",
+      "title": "§ 6 mom 1",
+      "text": "1) arvopaperimarkkinalain (746/2012) 2 luvun 5 §:ssä tarkoitetulla säännellyllä markkinalla; tai",
+      "clause_number": 1,
+      "section_number": "6",
+      "statute_id": "878/2008"
+    },
+    {
+      "id": "b37d04c1-ecc2-4a4c-830c-1019dcacba93",
+      "node_type": "Clause",
+      "publisher": "finlex",
+      "title": "§ 6 mom 2",
+      "text": "2) 1 kohdassa tarkoitettua säänneltyä markkinaa vastaavalla säännellyllä markkinalla Euroopan talousalueen ulkopuolisessa maassa ja jos yhtiötä koskee tiedonantovelvollisuus, joka vastaa rahoitusvälineiden markkinoista sekä direktiivin 2002/92/EY ja direktiivin 2011/61/EU muuttamisesta annetussa  Euroopan  parlamentin ja neuvoston direktiivissä 2014/65/EU säädettyä tiedonantovelvollisuutta.",
+      "clause_number": 2,
+      "section_number": "6",
+      "statute_id": "878/2008"
+    },
+    {
+      "id": "a0b0a96d-671a-41f7-b4e0-95375b4b61fa",
+      "node_type": "Clause",
+      "publisher": "finlex",
+      "title": "§ 6 mom 1",
+      "text": "1) tosiasiallisen edunsaajan henkilöllisyys on luottolaitoksen pyynnöstä sen saatavilla; ja",
+      "clause_number": 1,
+      "section_number": "6",
+      "statute_id": "878/2008"
+    },
+    {
+      "id": "1b1f65ec-08c7-4928-8984-7e780a309b29",
+      "node_type": "Clause",
+      "publisher": "finlex",
+      "title": "§ 6 mom 2",
+      "text": "2) asianajajaa tai muuta oikeudellisia palveluita tarjoavaa koskevat tässä laissa säädettyä vastaavat velvollisuudet ja tätä valvotaan näiden velvollisuuksien noudattamisessa.",
+      "clause_number": 2,
+      "section_number": "6",
+      "statute_id": "878/2008"
+    },
+    {
+      "id": "a0e8c224-9b38-46d5-8282-801d82eee78d",
+      "node_type": "Clause",
+      "publisher": "finlex",
+      "title": "§ 7 mom 1",
+      "text": "1) maksulaitosta, joka pääasiallisena maksupalveluna tarjoaa maksulaitoslaissa tarkoitettua rahanvälitystä;",
+      "clause_number": 1,
+      "section_number": "7",
+      "statute_id": "878/2008"
+    },
+    {
+      "id": "1f2ce18e-58cb-4f23-8e42-dbf58666153e",
+      "node_type": "Clause",
+      "publisher": "finlex",
+      "title": "§ 7 mom 2",
+      "text": "2) maksulaitoslain 7 tai 7 a §:ssä tarkoitettua luonnollista henkilöä tai oikeushenkilöä eikä;",
+      "clause_number": 2,
+      "section_number": "7",
+      "statute_id": "878/2008"
+    },
+    {
+      "id": "144b83b6-2392-47e4-b471-f4cda53a36d6",
+      "node_type": "Clause",
+      "publisher": "finlex",
+      "title": "§ 7 mom 3",
+      "text": "3) valuutanvaihtoa harjoittavaa.",
+      "clause_number": 3,
+      "section_number": "7",
+      "statute_id": "878/2008"
+    },
+    {
+      "id": "6862d7e6-13ad-4348-8358-0de106468605",
+      "node_type": "Clause",
+      "publisher": "finlex",
+      "title": "§ 7 mom 1",
+      "text": "1) ilmoitusvelvollinen saa tiedot kolmannelta osapuolelta, joka kuuluu ilmoitusvelvollisen kanssa samaan konserniin tai muuhun taloudelliseen yhteenliittymään;",
+      "clause_number": 1,
+      "section_number": "7",
+      "statute_id": "878/2008"
+    },
+    {
+      "id": "25a6b4c2-d621-425b-a6de-61133b9d1b81",
+      "node_type": "Clause",
+      "publisher": "finlex",
+      "title": "§ 7 mom 2",
+      "text": "2) konsernissa tai muussa taloudellisessa yhteenliittymässä noudatetaan tämän lain säännöksiä vastaavia konsernin tai yhteenliittymän sisäisiä yhteisiä menettelyjä, jotka koskevat asiakkaan tuntemisvelvollisuutta, asiakastietojen säilyttämistä ja rahanpesun ja terrorismin rahoittamisen estämistä ja paljastamista; sekä",
+      "clause_number": 2,
+      "section_number": "7",
+      "statute_id": "878/2008"
+    },
+    {
+      "id": "e6cfaf3c-6801-43ca-b425-6a643c1b4461",
+      "node_type": "Clause",
+      "publisher": "finlex",
+      "title": "§ 7 mom 3",
+      "text": "3) konsernin tai muun taloudellisen yhteenliittymän emoyhtiön kotivaltion valvontaviranomainen valvoo 2 kohdan noudattamista.",
+      "clause_number": 3,
+      "section_number": "7",
+      "statute_id": "878/2008"
+    },
+    {
+      "id": "c22b90ad-3ea5-4920-a560-31b632e9925d",
+      "node_type": "Clause",
+      "publisher": "finlex",
+      "title": "§ 9 mom 1",
+      "text": "1) sähköinen tietoväline ei ole uudelleenladattava, tai siihen voidaan tallettaa maksulaitoslaissa tarkoitettua sähköistä rahaa kuukausittain enintään 250 euroa ja välinettä voidaan käyttää vain Suomessa;",
+      "clause_number": 1,
+      "section_number": "9",
+      "statute_id": "878/2008"
+    },
+    {
+      "id": "8334e58f-8fee-41cf-bd1e-d988ea7855af",
+      "node_type": "Clause",
+      "publisher": "finlex",
+      "title": "§ 9 mom 2",
+      "text": "2) sähköiseen tietovälineeseen voidaan tallettaa enintään 500 euroa ja sitä voidaan käyttää vain Suomessa;",
+      "clause_number": 2,
+      "section_number": "9",
+      "statute_id": "878/2008"
+    },
+    {
+      "id": "d858b981-a2f3-49b2-8d62-7e734b49aac8",
+      "node_type": "Clause",
+      "publisher": "finlex",
+      "title": "§ 9 mom 3",
+      "text": "3) sähköistä tietovälinettä voidaan käyttää vain tuotteiden tai palveluiden ostamiseen;",
+      "clause_number": 3,
+      "section_number": "9",
+      "statute_id": "878/2008"
+    },
+    {
+      "id": "823e08cc-229b-402c-aabb-4bbeebc4bd4d",
+      "node_type": "Clause",
+      "publisher": "finlex",
+      "title": "§ 9 mom 4",
+      "text": "4) sähköistä tietovälinettä ei voida ladata anonyymillä sähköisellä rahalla;",
+      "clause_number": 4,
+      "section_number": "9",
+      "statute_id": "878/2008"
+    },
+    {
+      "id": "e9cb4235-b270-4a53-81a3-3e656482f59d",
+      "node_type": "Clause",
+      "publisher": "finlex",
+      "title": "§ 9 mom 5",
+      "text": "5) sähköisen tietovälineen liikkeeseenlaskijalla on käytössään riittävät valvontamenetelmät epätavallisten tai epäilyttävien liiketoimien havaitsemiseksi;",
+      "clause_number": 5,
+      "section_number": "9",
+      "statute_id": "878/2008"
+    },
+    {
+      "id": "863b61b3-e19b-4289-9642-322ea4b361de",
+      "node_type": "Clause",
+      "publisher": "finlex",
+      "title": "§ 9 mom 6",
+      "text": "6) sähköisestä tietovälineestä voidaan lunastaa käteistä enintään 100 euroa.",
+      "clause_number": 6,
+      "section_number": "9",
+      "statute_id": "878/2008"
+    },
+    {
+      "id": "d3063efb-25e8-4ad3-8e1b-8762a2903ba9",
+      "node_type": "Clause",
+      "publisher": "finlex",
+      "title": "§ 11 mom 1",
+      "text": "1) todentaa asiakkaan henkilöllisyys hankkimalla lisäasiakirjoja tai -tietoja luotettavasta lähteestä;",
+      "clause_number": 1,
+      "section_number": "11",
+      "statute_id": "878/2008"
+    },
+    {
+      "id": "41a5a62f-96c7-49f4-b918-52355fcd7ab4",
+      "node_type": "Clause",
+      "publisher": "finlex",
+      "title": "§ 11 mom 2",
+      "text": "2) varmistaa, että liiketoimeen liittyvä suoritus tulee luottolaitoksen tililtä tai se maksetaan tilille, joka on aiemmin avattu asiakkaan nimiin; tai",
+      "clause_number": 2,
+      "section_number": "11",
+      "statute_id": "878/2008"
+    },
+    {
+      "id": "25d09d6e-888b-4722-8b7f-ae79bc94963c",
+      "node_type": "Clause",
+      "publisher": "finlex",
+      "title": "§ 11 mom 3",
+      "text": "3) todentaa asiakkaan henkilöllisyys vahvasta sähköisestä tunnistamisesta ja sähköisistä luottamuspalveluista annetussa laissa (617/2009) tarkoitetulla tunnistusvälineellä tai sähköisen allekirjoituksen hyväksytyllä varmenteella, josta säädetään sähköisestä tunnistamisesta ja sähköisiin transaktioihin liittyvistä luottamuspalveluista sisämarkkinoilla ja direktiivin 1999/93/EY kumoamisesta annetun Euroopan parlamentin ja neuvoston asetuksen (EU) N:o 910/2014 28 artiklassa, taikka muun sähköisen tunnistamistekniikan avulla, joka on tietoturvallinen ja todisteellinen.",
+      "clause_number": 3,
+      "section_number": "11",
+      "statute_id": "878/2008"
+    },
+    {
+      "id": "7581d360-8d74-4607-b1eb-cb9e2245a1b5",
+      "node_type": "Clause",
+      "publisher": "finlex",
+      "title": "§ 13 mom 1",
+      "text": "1) ilmoitusvelvollisen ylemmän johdon on hyväksyttävä asiakassuhteen aloittaminen tällaisen henkilön kanssa;",
+      "clause_number": 1,
+      "section_number": "13",
+      "statute_id": "878/2008"
+    },
+    {
+      "id": "b550b627-d7f0-46cf-81e3-f51aecab3d99",
+      "node_type": "Clause",
+      "publisher": "finlex",
+      "title": "§ 13 mom 2",
+      "text": "2) ilmoitusvelvollisen on toteutettava asianmukaiset toimenpiteet saadakseen selvityksen sellaisen varallisuuden ja varojen alkuperästä, jotka liittyvät kyseiseen asiakassuhteeseen tai liiketoimeen; ja",
+      "clause_number": 2,
+      "section_number": "13",
+      "statute_id": "878/2008"
+    },
+    {
+      "id": "0e6f7085-acc8-4dbc-bbca-b57945c6127d",
+      "node_type": "Clause",
+      "publisher": "finlex",
+      "title": "§ 13 mom 3",
+      "text": "3) ilmoitusvelvollisen on järjestettävä tehostettu jatkuva asiakassuhteen seuranta.",
+      "clause_number": 3,
+      "section_number": "13",
+      "statute_id": "878/2008"
+    },
+    {
+      "id": "239a096b-2db8-4e67-9e34-ef42a65e0f0c",
+      "node_type": "Clause",
+      "publisher": "finlex",
+      "title": "§ 14 mom 1",
+      "text": "1) tässä laissa säädettyjen vaatimusten noudattamisesta;",
+      "clause_number": 1,
+      "section_number": "14",
+      "statute_id": "878/2008"
+    },
+    {
+      "id": "1024c22e-07c2-4596-a74d-91b50af66388",
+      "node_type": "Clause",
+      "publisher": "finlex",
+      "title": "§ 14 mom 2",
+      "text": "2) asiakirjojen ja tietojen toimittamisesta Finanssivalvonnalle.",
+      "clause_number": 2,
+      "section_number": "14",
+      "statute_id": "878/2008"
+    },
+    {
+      "id": "79d92e75-5e8b-4206-9655-f95254cb0fb9",
+      "node_type": "Clause",
+      "publisher": "finlex",
+      "title": "§ 5 mom 1",
+      "text": "1) liiketoimi on epäilyttävä; tai",
+      "clause_number": 1,
+      "section_number": "5",
+      "statute_id": "878/2008"
+    },
+    {
+      "id": "786e240f-d717-4e16-8bc2-6d75d9319b0d",
+      "node_type": "Clause",
+      "publisher": "finlex",
+      "title": "§ 5 mom 2",
+      "text": "2) ilmoitusvelvollinen epäilee liiketoimeen sisältyviä varoja käytettävän terrorismin rahoittamiseen tai sen rangaistavaan yritykseen.",
+      "clause_number": 2,
+      "section_number": "5",
+      "statute_id": "878/2008"
+    },
+    {
+      "id": "e36f98e1-ab33-4b99-9660-ec8d385f0845",
+      "node_type": "Clause",
+      "publisher": "finlex",
+      "title": "§ 3 mom 1",
+      "text": "1) hakijalla on oikeus harjoittaa elinkeinoa Suomessa;",
+      "clause_number": 1,
+      "section_number": "3",
+      "statute_id": "878/2008"
+    },
+    {
+      "id": "7866c82d-8902-4145-96f4-2081c1680176",
+      "node_type": "Clause",
+      "publisher": "finlex",
+      "title": "§ 3 mom 2",
+      "text": "2) hakijaa ei ole määrätty liiketoimintakieltoon;",
+      "clause_number": 2,
+      "section_number": "3",
+      "statute_id": "878/2008"
+    },
+    {
+      "id": "2a801aa8-f694-4fc7-9745-096bd300a142",
+      "node_type": "Clause",
+      "publisher": "finlex",
+      "title": "§ 3 mom 3",
+      "text": "3) hakija toimittaa 4 §:ssä tarkoitetut tiedot;",
+      "clause_number": 3,
+      "section_number": "3",
+      "statute_id": "878/2008"
+    },
+    {
+      "id": "3324f4ce-d7d9-4320-bd46-e1983a4fa7e1",
+      "node_type": "Clause",
+      "publisher": "finlex",
+      "title": "§ 3 mom 1",
+      "text": "4) valuutanvaihtotoimintaa harjoittava ja 1 luvun 2 §:n 1 momentin 21 kohdassa tarkoitettu ilmoitusvelvollinen on 5 §:ssä tarkoitetulla tavalla luotettava.",
+      "clause_number": 1,
+      "section_number": "3",
+      "statute_id": "878/2008"
+    },
+    {
+      "id": "24524678-7610-4073-bef0-7bb681a5b6c1",
+      "node_type": "Clause",
+      "publisher": "finlex",
+      "title": "§ 3 mom 4",
+      "text": "4) valuutanvaihtotoimintaa harjoittava ja 1 luvun 2 §:n 1 momentin 21 kohdassa tarkoitettu ilmoitusvelvollinen on 5 §:ssä tarkoitetulla tavalla luotettava.",
+      "clause_number": 4,
+      "section_number": "3",
+      "statute_id": "878/2008"
+    },
+    {
+      "id": "d6935d5a-1200-4308-97da-305552f8a56e",
+      "node_type": "Clause",
+      "publisher": "finlex",
+      "title": "§ 4 mom 1",
+      "text": "1) yksityisen elinkeinonharjoittajan täydellinen nimi ja henkilötunnus tai tämän puuttuessa syntymäaika ja kansalaisuus sekä toiminimi, mahdollinen aputoiminimi, yritys- ja yhteisötunnus tai muu vastaava tunniste ja rekisteröinnin päivämäärä sekä jokaisen toimipaikan käyntiosoite, jossa toimintaa harjoitetaan;",
+      "clause_number": 1,
+      "section_number": "4",
+      "statute_id": "878/2008"
+    },
+    {
+      "id": "12e4f35e-167e-44c9-8e4e-372b15d62807",
+      "node_type": "Clause",
+      "publisher": "finlex",
+      "title": "§ 4 mom 2",
+      "text": "2) oikeushenkilön toiminimi, mahdollinen aputoiminimi, yritys- ja yhteisötunnus tai muu vastaava tunniste ja rekisteröinnin päivämäärä sekä jokaisen toimipaikan käyntiosoite, jossa toimintaa harjoitetaan;",
+      "clause_number": 2,
+      "section_number": "4",
+      "statute_id": "878/2008"
+    },
+    {
+      "id": "381d9f77-0baf-40f4-9751-50f0b7329ad8",
+      "node_type": "Clause",
+      "publisher": "finlex",
+      "title": "§ 4 mom 3",
+      "text": "3) tämän luvun 3 §:n 3 momentin mukainen elinkeinotoiminta;",
+      "clause_number": 3,
+      "section_number": "4",
+      "statute_id": "878/2008"
+    },
+    {
+      "id": "b4754c93-1811-42a3-aadd-346af5ce2241",
+      "node_type": "Clause",
+      "publisher": "finlex",
+      "title": "§ 4 mom 3",
+      "text": "3) tämän luvun 3 §:n 3 momentin mukainen elinkeinotoiminta;",
+      "clause_number": 3,
+      "section_number": "4",
+      "statute_id": "878/2008"
+    },
+    {
+      "id": "3720d200-3886-4493-a2c1-75c364fe5587",
+      "node_type": "Clause",
+      "publisher": "finlex",
+      "title": "§ 4 mom 4",
+      "text": "4) henkilön, jonka luotettavuus on 5 §:n nojalla selvitetty, täydellinen nimi, henkilötunnus tai tämän puuttuessa syntymäaika ja kansalaisuus sekä asema rekisteröidyssä;",
+      "clause_number": 4,
+      "section_number": "4",
+      "statute_id": "878/2008"
+    },
+    {
+      "id": "14fafbc7-92b5-4870-b967-98a4bbf5df66",
+      "node_type": "Clause",
+      "publisher": "finlex",
+      "title": "§ 4 mom 5",
+      "text": "5) yksityiselle elinkeinonharjoittajalle tai oikeushenkilölle määrätty 8 luvussa tarkoitettu hallinnollinen seuraamus sekä sellaiset kehotukset ja kiellot, joiden tehosteeksi on asetettu 7 luvun 7 §:ssä tarkoitettu uhkasakko; tällainen tieto on poistettava rekisteristä kolmen vuoden kuluttua sen vuoden päättymisestä, jona kyseinen seuraamus on määrätty; ja",
+      "clause_number": 5,
+      "section_number": "4",
+      "statute_id": "878/2008"
+    },
+    {
+      "id": "c69906a2-53a4-4bce-83d3-ac1c1cf3a188",
+      "node_type": "Clause",
+      "publisher": "finlex",
+      "title": "§ 4 mom 6",
+      "text": "6) rekisteristä poistamisen syy ja ajankohta.",
+      "clause_number": 6,
+      "section_number": "4",
+      "statute_id": "878/2008"
+    },
+    {
+      "id": "dff2ee79-0647-4d20-a399-6746c8067258",
+      "node_type": "Clause",
+      "publisher": "finlex",
+      "title": "§ 5 mom 1",
+      "text": "1) hänet on lainvoiman saaneella tuomiolla viiden arviota edeltäneen vuoden aikana tuomittu vankeusrangaistukseen tai kolmen arviota edeltäneen vuoden aikana sakkorangaistukseen rikoksesta, jonka voidaan katsoa osoittavan hänen olevan ilmeisen sopimaton harjoittamaan rahanpesun valvontarekisteriin merkittävää elinkeinotoimintaa; tai",
+      "clause_number": 1,
+      "section_number": "5",
+      "statute_id": "878/2008"
+    },
+    {
+      "id": "4764671e-9422-410a-b019-612c04926fd1",
+      "node_type": "Clause",
+      "publisher": "finlex",
+      "title": "§ 5 mom 2",
+      "text": "2) hän on muutoin aikaisemmalla toiminnallaan osoittanut olevansa ilmeisen sopimaton toimimaan 1 kohdassa tarkoitetussa tehtävässä.",
+      "clause_number": 2,
+      "section_number": "5",
+      "statute_id": "878/2008"
+    },
+    {
+      "id": "9321b22e-dccc-43a5-8ffd-b29bf508b982",
+      "node_type": "Clause",
+      "publisher": "finlex",
+      "title": "§ 5 mom 1",
+      "text": "1) kolmen arviota edeltävän vuoden aikana toistuvasti tai huomattavassa määrin laiminlyönyt veroihin, lakisääteisiin eläke-, tapaturma- tai työttömyysvakuutusmaksuihin taikka Tullin perimiin maksuihin liittyvien rekisteröitymis-, ilmoitus- ja maksuvelvollisuuksien hoitamisen; tai",
+      "clause_number": 1,
+      "section_number": "5",
+      "statute_id": "878/2008"
+    },
+    {
+      "id": "12a6a0ec-7d60-459d-8151-e5856f02f08c",
+      "node_type": "Clause",
+      "publisher": "finlex",
+      "title": "§ 5 mom 2",
+      "text": "2) ulosmittauksen tai muun selvityksen mukaan kykenemätön vastaamaan veloistaan.",
+      "clause_number": 2,
+      "section_number": "5",
+      "statute_id": "878/2008"
+    },
+    {
+      "id": "27dc4cc5-c287-40cd-8ea8-70c0fe256d6a",
+      "node_type": "Clause",
+      "publisher": "finlex",
+      "title": "§ 6 mom 1",
+      "text": "1) ilmoitusvelvollinen ei enää täytä rekisteröinnin edellytyksiä;",
+      "clause_number": 1,
+      "section_number": "6",
+      "statute_id": "878/2008"
+    },
+    {
+      "id": "f85ea88a-e529-45fc-89bd-cb10d2bf3748",
+      "node_type": "Clause",
+      "publisher": "finlex",
+      "title": "§ 6 mom 2",
+      "text": "2) ilmoitusvelvollisen toiminnassa on olennaisesti rikottu tätä lakia tai aluehallintoviraston sen nojalla antamia määräyksiä; tai",
+      "clause_number": 2,
+      "section_number": "6",
+      "statute_id": "878/2008"
+    },
+    {
+      "id": "a89724ff-1546-407f-a7fd-79cd21ef5efc",
+      "node_type": "Clause",
+      "publisher": "finlex",
+      "title": "§ 6 mom 3",
+      "text": "3) ilmoitusvelvollinen on lopettanut toimintansa.",
+      "clause_number": 3,
+      "section_number": "6",
+      "statute_id": "878/2008"
+    },
+    {
+      "id": "ab0ab913-03d5-4160-b957-785ee7314176",
+      "node_type": "Clause",
+      "publisher": "finlex",
+      "title": "§ 1 mom 1",
+      "text": "1) Finanssivalvonta 1 luvun 2 §:n 1 momentin 1–8 kohdassa tarkoitettuja ilmoitusvelvollisia;",
+      "clause_number": 1,
+      "section_number": "1",
+      "statute_id": "878/2008"
+    },
+    {
+      "id": "c489ed48-11cf-4a5f-997f-5566992de9e8",
+      "node_type": "Clause",
+      "publisher": "finlex",
+      "title": "§ 1 mom 1",
+      "text": "1) Finanssivalvonta 1 luvun 2 §:n 1 momentin 1–8 kohdassa tarkoitettuja ilmoitusvelvollisia;",
+      "clause_number": 1,
+      "section_number": "1",
+      "statute_id": "878/2008"
+    },
+    {
+      "id": "58a84563-8f6d-43e2-a593-a558a18300f2",
+      "node_type": "Clause",
+      "publisher": "finlex",
+      "title": "§ 1 mom 1",
+      "text": "2) Poliisihallitus 1 luvun 2 §:n 1 momentin 9 kohdassa tarkoitettua rahapeliyhteisöä sekä 1 luvun 2 §:n 2 momentissa tarkoitettua elinkeinonharjoittajaa ja yhteisöä, joka välittää osallistumismaksuja ja -ilmoituksia 1 luvun 2 §:n 1 momentin 9 kohdassa tarkoitetun rahapeliyhtiön tarjoamiin rahapeleihin;",
+      "clause_number": 1,
+      "section_number": "1",
+      "statute_id": "878/2008"
+    },
+    {
+      "id": "3e109ecb-54b2-475b-a96b-e91889a309d7",
+      "node_type": "Clause",
+      "publisher": "finlex",
+      "title": "§ 1 mom 2",
+      "text": "2) Poliisihallitus 1 luvun 2 §:n 1 momentin 9 kohdassa tarkoitettua rahapeliyhteisöä sekä 1 luvun 2 §:n 2 momentissa tarkoitettua elinkeinonharjoittajaa ja yhteisöä, joka välittää osallistumismaksuja ja -ilmoituksia 1 luvun 2 §:n 1 momentin 9 kohdassa tarkoitetun rahapeliyhtiön tarjoamiin rahapeleihin;",
+      "clause_number": 2,
+      "section_number": "1",
+      "statute_id": "878/2008"
+    },
+    {
+      "id": "dbbdca89-4d4c-472e-aaa9-aae1426073c0",
+      "node_type": "Clause",
+      "publisher": "finlex",
+      "title": "§ 1 mom 1",
+      "text": "3) Patentti- ja rekisterihallitus 1 luvun 2 §:n 1 momentin 11 kohdassa tarkoitettuja ilmoitusvelvollisia;",
+      "clause_number": 1,
+      "section_number": "1",
+      "statute_id": "878/2008"
+    },
+    {
+      "id": "12224474-781c-4982-b83c-5a617e54afc2",
+      "node_type": "Clause",
+      "publisher": "finlex",
+      "title": "§ 1 mom 3",
+      "text": "3) Patentti- ja rekisterihallitus 1 luvun 2 §:n 1 momentin 11 kohdassa tarkoitettuja ilmoitusvelvollisia;",
+      "clause_number": 3,
+      "section_number": "1",
+      "statute_id": "878/2008"
+    },
+    {
+      "id": "6a865eef-f78e-4ada-85a7-ddb42b2b46b7",
+      "node_type": "Clause",
+      "publisher": "finlex",
+      "title": "§ 1 mom 1",
+      "text": "4) aluehallintovirasto 1 luvun 2 §:n 1 momentin 13–18 ja 20–24 kohdassa tarkoitettuja ilmoitusvelvollisia siltä osin kuin ne eivät ole 1 kohdan nojalla Finanssivalvonnan valvomia ilmoitusvelvollisia.",
+      "clause_number": 1,
+      "section_number": "1",
+      "statute_id": "878/2008"
+    },
+    {
+      "id": "49880c40-939a-4eac-ae8c-6163ba0b214a",
+      "node_type": "Clause",
+      "publisher": "finlex",
+      "title": "§ 1 mom 4",
+      "text": "4) aluehallintovirasto 1 luvun 2 §:n 1 momentin 13–18 ja 20–24 kohdassa tarkoitettuja ilmoitusvelvollisia siltä osin kuin ne eivät ole 1 kohdan nojalla Finanssivalvonnan valvomia ilmoitusvelvollisia.",
+      "clause_number": 4,
+      "section_number": "1",
+      "statute_id": "878/2008"
+    },
+    {
+      "id": "03dbaac6-2b09-440e-a1fc-127820720b81",
+      "node_type": "Clause",
+      "publisher": "finlex",
+      "title": "§ 5 mom 1",
+      "text": "1) hän on osoittanut tehtävänsä hoidossa ilmeistä taitamattomuutta tai varomattomuutta ja on ilmeistä, että se voi vaarantaa vakavasti tässä laissa säädettyjen tavoitteiden toteutumisen; tai",
+      "clause_number": 1,
+      "section_number": "5",
+      "statute_id": "878/2008"
+    },
+    {
+      "id": "fa0e9be5-e3f5-4e14-a7dc-aba756491644",
+      "node_type": "Clause",
+      "publisher": "finlex",
+      "title": "§ 5 mom 2",
+      "text": "2) hän ei täytä niitä ammattitaito- ja luotettavuusvaatimuksia, jotka laissa erikseen säädetään.",
+      "clause_number": 2,
+      "section_number": "5",
+      "statute_id": "878/2008"
+    },
+    {
+      "id": "13a3ee11-b5a6-49d9-9c2c-5d3ede964cba",
+      "node_type": "Clause",
+      "publisher": "finlex",
+      "title": "§ 1 mom 1",
+      "text": "1) laiminlyö tai rikkoo 3 luvun 1 §:ssä tarkoitetun velvoitteen tuntea asiakas tai yksilöidä ja arvioida rahanpesun ja terrorismin rahoittamisen riskejä;",
+      "clause_number": 1,
+      "section_number": "1",
+      "statute_id": "878/2008"
+    },
+    {
+      "id": "e72cab68-be4e-48b7-bf7e-dec7e5626c0c",
+      "node_type": "Clause",
+      "publisher": "finlex",
+      "title": "§ 1 mom 2",
+      "text": "2) laiminlyö tai rikkoo 3 luvun 2 §:ssä tarkoitetun velvoitteen tunnistaa asiakas ja todentaa tämän henkilöllisyys;",
+      "clause_number": 2,
+      "section_number": "1",
+      "statute_id": "878/2008"
+    },
+    {
+      "id": "f4e3b9ec-40f1-4e33-b76f-104e1c2f37e4",
+      "node_type": "Clause",
+      "publisher": "finlex",
+      "title": "§ 1 mom 3",
+      "text": "3) laiminlyö tai rikkoo 3 luvun 3 §:ssä tarkoitetun velvoitteen säilyttää asiakkaan tuntemista koskevat tiedot;",
+      "clause_number": 3,
+      "section_number": "1",
+      "statute_id": "878/2008"
+    },
+    {
+      "id": "e40646a2-7a09-406d-a744-cef2a6841fab",
+      "node_type": "Clause",
+      "publisher": "finlex",
+      "title": "§ 1 mom 4",
+      "text": "4) laiminlyö tai rikkoo 3 luvun 4 §:ssä tarkoitetun velvoitteen hankkia asiakasta koskevia tietoja, seurata asiakassuhdetta jatkuvasti ja ottaa selvää asiakkaan tavanomaisesta poikkeavista liiketoimista;",
+      "clause_number": 4,
+      "section_number": "1",
+      "statute_id": "878/2008"
+    },
+    {
+      "id": "8ed28151-07bd-4d26-9bb2-f7826cb084c9",
+      "node_type": "Clause",
+      "publisher": "finlex",
+      "title": "§ 1 mom 5",
+      "text": "5) laiminlyö tai rikkoo 3 luvun 6 §:ssä tarkoitetun velvoitteen tunnistaa tosiasiallinen edunsaaja;",
+      "clause_number": 5,
+      "section_number": "1",
+      "statute_id": "878/2008"
+    },
+    {
+      "id": "4082be79-ab6c-4b83-b4f4-d05e14e6b94d",
+      "node_type": "Clause",
+      "publisher": "finlex",
+      "title": "§ 1 mom 6",
+      "text": "6) laiminlyö tai rikkoo 3 luvun 10 §:ssä tarkoitetun velvoitteen soveltaa tehostettua menettelyä asiakkaan tuntemiseksi;",
+      "clause_number": 6,
+      "section_number": "1",
+      "statute_id": "878/2008"
+    },
+    {
+      "id": "9e22e1b6-b550-44c8-8c17-a9ccd81191a5",
+      "node_type": "Clause",
+      "publisher": "finlex",
+      "title": "§ 1 mom 7",
+      "text": "7) laiminlyö tai rikkoo 3 luvun 11 §:ssä tarkoitetun velvoitteen tunnistaa asiakas, kun tämä ei ole läsnä tunnistettaessa ja henkilöllisyyttä todennettaessa;",
+      "clause_number": 7,
+      "section_number": "1",
+      "statute_id": "878/2008"
+    },
+    {
+      "id": "655ecc3d-8b70-4451-9cab-7ca91f796202",
+      "node_type": "Clause",
+      "publisher": "finlex",
+      "title": "§ 1 mom 8",
+      "text": "8) laiminlyö tai rikkoo 3 luvun 12 §:ssä tarkoitetun velvoitteen hankkia riittävät tiedot vastapuolena toimivasta luotto- tai rahoituslaitoksesta;",
+      "clause_number": 8,
+      "section_number": "1",
+      "statute_id": "878/2008"
+    },
+    {
+      "id": "7dd24ada-2003-493e-89bb-7d16b9e150e4",
+      "node_type": "Clause",
+      "publisher": "finlex",
+      "title": "§ 1 mom 9",
+      "text": "9) laiminlyö tai rikkoo 3 luvun 13 §:ssä tarkoitetun velvoitteen laatia ja noudattaa riskiperusteisia menettelyjä sen arvioimiseksi, onko asiakas poliittisesti vaikutusvaltainen henkilö, poliittisesti vaikutusvaltaisen henkilön perheenjäsen tai poliittisesti vaikutusvaltaisen henkilön yhtiökumppani;",
+      "clause_number": 9,
+      "section_number": "1",
+      "statute_id": "878/2008"
+    },
+    {
+      "id": "298af36d-f5ff-46f8-89b5-2a0c0ff66631",
+      "node_type": "Clause",
+      "publisher": "finlex",
+      "title": "§ 1 mom 10",
+      "text": "10) laiminlyö tai rikkoo 4 luvun 1 §:ssä tarkoitetun velvoitteen tehdä epäilyttävää liiketoimea koskevan ilmoituksen rahanpesun selvittelykeskukselle;",
+      "clause_number": 10,
+      "section_number": "1",
+      "statute_id": "878/2008"
+    },
+    {
+      "id": "37ccd239-e38a-48a3-b57a-f566fe4a37f7",
+      "node_type": "Clause",
+      "publisher": "finlex",
+      "title": "§ 1 mom 11",
+      "text": "11) laiminlyö tai rikkoo 5 luvun 3 §:ssä tarkoitetun velvoitteen hakea rekisteröitäväksi rahanpesun valvontarekisteriin;",
+      "clause_number": 11,
+      "section_number": "1",
+      "statute_id": "878/2008"
+    },
+    {
+      "id": "51714112-b83c-4762-a235-5715811db508",
+      "node_type": "Clause",
+      "publisher": "finlex",
+      "title": "§ 1 mom 1",
+      "text": "12) laiminlyö tai rikkoo 7 luvun 8 §:n 1 momentissa tarkoitetun velvoitteen laatia menettelytavat rikkomusepäilystä ilmoittamiseen;",
+      "clause_number": 1,
+      "section_number": "1",
+      "statute_id": "878/2008"
+    },
+    {
+      "id": "40465181-2596-49c0-b66e-2f391fb1c1eb",
+      "node_type": "Clause",
+      "publisher": "finlex",
+      "title": "§ 1 mom 12",
+      "text": "12) laiminlyö tai rikkoo 7 luvun 8 §:n 1 momentissa tarkoitetun velvoitteen laatia menettelytavat rikkomusepäilystä ilmoittamiseen;",
+      "clause_number": 12,
+      "section_number": "1",
+      "statute_id": "878/2008"
+    },
+    {
+      "id": "6177110f-4271-4d3a-86a0-dfd38e5d7435",
+      "node_type": "Clause",
+      "publisher": "finlex",
+      "title": "§ 1 mom 13",
+      "text": "13) laiminlyö tai rikkoo 9 luvun 1 §:ssä tarkoitetun velvoitteen järjestää työntekijöiden koulutus tai suojeleminen taikka laatia toimintaohjeet.",
+      "clause_number": 13,
+      "section_number": "1",
+      "statute_id": "878/2008"
+    },
+    {
+      "id": "a2ff7731-8f98-4e9d-98db-0609ee9ca336",
+      "node_type": "Clause",
+      "publisher": "finlex",
+      "title": "§ 1 mom 1",
+      "text": "1) tahallaan tai huolimattomuudesta jättää pois maksajaa tai maksunsaajaa koskevat vaadittavat tiedot maksajan tiedot -asetuksen 4–6 artiklan vastaisesti;",
+      "clause_number": 1,
+      "section_number": "1",
+      "statute_id": "878/2008"
+    },
+    {
+      "id": "efa0072f-7bab-4de6-a470-96c5f2fed780",
+      "node_type": "Clause",
+      "publisher": "finlex",
+      "title": "§ 1 mom 2",
+      "text": "2) laiminlyö toistuvasti, järjestelmällisesti tai vakavasti velvollisuutensa varmistaa tietojen säilyttäminen 1 kohdassa mainitun asetuksen 16 artiklan vastaisesti;",
+      "clause_number": 2,
+      "section_number": "1",
+      "statute_id": "878/2008"
+    },
+    {
+      "id": "7d98021e-60f4-4e42-9970-b74336a6b63d",
+      "node_type": "Clause",
+      "publisher": "finlex",
+      "title": "§ 1 mom 3",
+      "text": "3) ei ota käyttöön tehokkaita riskiperusteisia menettelyjä 1 kohdassa mainitun asetuksen 8 tai 12 artiklan vastaisesti; tai",
+      "clause_number": 3,
+      "section_number": "1",
+      "statute_id": "878/2008"
+    },
+    {
+      "id": "0eef9c47-31a4-4077-b102-5145333ee09c",
+      "node_type": "Clause",
+      "publisher": "finlex",
+      "title": "§ 1 mom 4",
+      "text": "4) laiminlyö vakavasti 1 kohdassa mainitun asetuksen 11 artiklassa säädetyn velvollisuuden rakentaa menettelyt havaita maksajaa tai maksunsaajaa koskevat puuttuvat tiedot tai 12 artiklassa säädetyn velvollisuuden vahvistaa riskiperusteiset menettelyt sellaisten varainsiirtojen, joita koskevat tiedot ovat puutteelliset, toteuttamisesta, hylkäämisestä tai keskeyttämisestä.",
+      "clause_number": 4,
+      "section_number": "1",
+      "statute_id": "878/2008"
+    },
+    {
+      "id": "39a72aa5-27c2-4481-8f10-58965577a6b4",
+      "node_type": "Clause",
+      "publisher": "finlex",
+      "title": "§ 3 mom 1",
+      "text": "1) laiminlyö tai rikkoo 3 luvun 1 §:ssä tarkoitetun velvoitteen tuntea asiakas tai yksilöidä ja arvioida rahanpesun ja terrorismin rahoittamisen riskejä;",
+      "clause_number": 1,
+      "section_number": "3",
+      "statute_id": "878/2008"
+    },
+    {
+      "id": "384bcd3e-a4d8-40b3-8c7e-56da4d4f9ecf",
+      "node_type": "Clause",
+      "publisher": "finlex",
+      "title": "§ 3 mom 2",
+      "text": "2) laiminlyö tai rikkoo 3 luvun 2 §:ssä tarkoitetun velvoitteen tunnistaa asiakas ja todentaa tämän henkilöllisyys;",
+      "clause_number": 2,
+      "section_number": "3",
+      "statute_id": "878/2008"
+    },
+    {
+      "id": "9f70f780-0909-4467-8a8b-93a508addf04",
+      "node_type": "Clause",
+      "publisher": "finlex",
+      "title": "§ 3 mom 3",
+      "text": "3) laiminlyö tai rikkoo 3 luvun 3 §:ssä tarkoitetun velvoitteen säilyttää asiakkaan tuntemista koskevat tiedot;",
+      "clause_number": 3,
+      "section_number": "3",
+      "statute_id": "878/2008"
+    },
+    {
+      "id": "0d93e363-13cd-42af-bb7e-8f11fde49cf8",
+      "node_type": "Clause",
+      "publisher": "finlex",
+      "title": "§ 3 mom 4",
+      "text": "4) laiminlyö tai rikkoo 3 luvun 4 §:ssä tarkoitetun velvoitteen hankkia asiakasta koskevia tietoja, seurata asiakassuhdetta jatkuvasti ja ottaa selvää asiakkaan tavanomaisesta poikkeavista liiketoimista;",
+      "clause_number": 4,
+      "section_number": "3",
+      "statute_id": "878/2008"
+    },
+    {
+      "id": "c4acec3c-109b-45eb-a003-65da95a32863",
+      "node_type": "Clause",
+      "publisher": "finlex",
+      "title": "§ 3 mom 5",
+      "text": "5) laiminlyö tai rikkoo 3 luvun 6 §:ssä tarkoitetun velvoitteen tunnistaa tosiasiallinen edunsaaja;",
+      "clause_number": 5,
+      "section_number": "3",
+      "statute_id": "878/2008"
+    },
+    {
+      "id": "adfd0c62-b543-4cc6-b670-ae673c34ad48",
+      "node_type": "Clause",
+      "publisher": "finlex",
+      "title": "§ 3 mom 6",
+      "text": "6) laiminlyö tai rikkoo 3 luvun 10 §:ssä tarkoitetun velvoitteen soveltaa tehostettua menettelyä asiakkaan tuntemiseksi;",
+      "clause_number": 6,
+      "section_number": "3",
+      "statute_id": "878/2008"
+    },
+    {
+      "id": "03a72a0e-1771-45ff-b332-356e8874da63",
+      "node_type": "Clause",
+      "publisher": "finlex",
+      "title": "§ 3 mom 7",
+      "text": "7) laiminlyö tai rikkoo 3 luvun 11 §:ssä tarkoitetun velvoitteen tunnistaa asiakas, kun tämä ei ole läsnä tunnistettaessa ja henkilöllisyyttä todennettaessa;",
+      "clause_number": 7,
+      "section_number": "3",
+      "statute_id": "878/2008"
+    },
+    {
+      "id": "024c738b-a116-468a-b8d9-ad1ffac7de79",
+      "node_type": "Clause",
+      "publisher": "finlex",
+      "title": "§ 3 mom 8",
+      "text": "8) laiminlyö tai rikkoo 3 luvun 12 §:ssä tarkoitetun velvoitteen hankkia riittävät tiedot vastapuolena toimivasta luotto- tai rahoituslaitoksesta;",
+      "clause_number": 8,
+      "section_number": "3",
+      "statute_id": "878/2008"
+    },
+    {
+      "id": "2b0a3e65-7558-40cf-ac14-33e5c995f5e5",
+      "node_type": "Clause",
+      "publisher": "finlex",
+      "title": "§ 3 mom 9",
+      "text": "9) laiminlyö tai rikkoo 3 luvun 13 §:ssä tarkoitetun velvoitteen laatia ja noudattaa riskiperusteisia menettelyjä sen arvioimiseksi, onko asiakas poliittisesti vaikutusvaltainen henkilö, poliittisesti vaikutusvaltaisen henkilön perheenjäsen tai poliittisesti vaikutusvaltaisen henkilön yhtiökumppani;",
+      "clause_number": 9,
+      "section_number": "3",
+      "statute_id": "878/2008"
+    },
+    {
+      "id": "9d7e8a6e-5ef6-437e-9913-0b48a7b79465",
+      "node_type": "Clause",
+      "publisher": "finlex",
+      "title": "§ 3 mom 10",
+      "text": "10) laiminlyö tai rikkoo 4 luvun 1 §:ssä tarkoitetun velvoitteen tehdä epäilyttävää liiketoimea koskevan ilmoituksen rahanpesun selvittelykeskukselle;",
+      "clause_number": 10,
+      "section_number": "3",
+      "statute_id": "878/2008"
+    },
+    {
+      "id": "5ea5d100-b804-48c8-a3c5-f8925733b450",
+      "node_type": "Clause",
+      "publisher": "finlex",
+      "title": "§ 3 mom 1",
+      "text": "11) laiminlyö tai rikkoo 7 luvun 8 §:n 1 momentissa tarkoitetun velvoitteen laatia menettelytavat rikkomusepäilystä ilmoittamiseen;",
+      "clause_number": 1,
+      "section_number": "3",
+      "statute_id": "878/2008"
+    },
+    {
+      "id": "77bfd984-d6d3-4a82-875c-87d7e2491094",
+      "node_type": "Clause",
+      "publisher": "finlex",
+      "title": "§ 3 mom 11",
+      "text": "11) laiminlyö tai rikkoo 7 luvun 8 §:n 1 momentissa tarkoitetun velvoitteen laatia menettelytavat rikkomusepäilystä ilmoittamiseen;",
+      "clause_number": 11,
+      "section_number": "3",
+      "statute_id": "878/2008"
+    },
+    {
+      "id": "d60dd9a5-1acb-4a51-9478-23cfe5ca78c1",
+      "node_type": "Clause",
+      "publisher": "finlex",
+      "title": "§ 3 mom 12",
+      "text": "12) laiminlyö tai rikkoo 9 luvun 1 §:ssä tarkoitetut velvoitteen järjestää työntekijöiden koulutus tai suojeleminen taikka laatia toimintaohjeet.",
+      "clause_number": 12,
+      "section_number": "3",
+      "statute_id": "878/2008"
+    },
+    {
+      "id": "9bf90579-99d4-4d02-8436-e909b6622a1c",
+      "node_type": "Clause",
+      "publisher": "finlex",
+      "title": "§ 3 mom 1",
+      "text": "1) jättää vakavasti, toistuvasti tai järjestelmällisesti pois maksajaa tai maksunsaajaa koskevat vaadittavat tiedot maksajan tiedot -asetuksen 4, 5 tai 6 artiklan vastaisesti;",
+      "clause_number": 1,
+      "section_number": "3",
+      "statute_id": "878/2008"
+    },
+    {
+      "id": "e6776fd7-8040-4f11-8ba8-1a7e8be0005d",
+      "node_type": "Clause",
+      "publisher": "finlex",
+      "title": "§ 3 mom 2",
+      "text": "2) laiminlyö toistuvasti, järjestelmällisesti tai vakavasti velvollisuutensa varmistaa tietojen säilyttäminen mainitun asetuksen 16 artiklan vastaisesti;",
+      "clause_number": 2,
+      "section_number": "3",
+      "statute_id": "878/2008"
+    },
+    {
+      "id": "57c90123-8401-4c1c-853e-3a60c4b64a65",
+      "node_type": "Clause",
+      "publisher": "finlex",
+      "title": "§ 3 mom 3",
+      "text": "3) ei ota käyttöön tehokkaita riskiperusteisia menettelyjä mainitun asetuksen 8 tai 12 artiklan vastaisesti; tai",
+      "clause_number": 3,
+      "section_number": "3",
+      "statute_id": "878/2008"
+    },
+    {
+      "id": "e200b97a-42e1-4e27-836e-8735ff84afe1",
+      "node_type": "Clause",
+      "publisher": "finlex",
+      "title": "§ 3 mom 4",
+      "text": "4) laiminlyö vakavasti, toistuvasti tai järjestelmällisesti 11 artiklassa säädetyn velvollisuuden rakentaa menettelyt havaita maksajaa tai maksunsaajaa koskevat puuttuvat tiedot tai 12 artiklassa säädetyn velvollisuuden vahvistaa riskiperusteiset menettelyt sellaisten varainsiirtojen, joita koskevat tiedot ovat puutteelliset, toteuttamisesta, hylkäämisestä tai keskeyttämisestä.",
+      "clause_number": 4,
+      "section_number": "3",
+      "statute_id": "878/2008"
+    },
+    {
+      "id": "041dd4e9-2b6e-48ae-8b42-c62ca5645d20",
+      "node_type": "Clause",
+      "publisher": "finlex",
+      "title": "§ 4 mom 1",
+      "text": "1) luottolaitoksen, sijoituspalveluyrityksen ja niiden konsolidointiryhmään kuuluvan muun yrityksen osalta luottolaitosten ja sijoituspalveluyritysten vakavaraisuusvaatimuksista ja asetuksen (EU) N:o 648/2012 muuttamisesta annetun Euroopan parlamentin ja neuvoston asetuksen (EU) N:o 575/2013 316 artiklan mukaisesti laskettua tuottojen määrää;",
+      "clause_number": 1,
+      "section_number": "4",
+      "statute_id": "878/2008"
+    },
+    {
+      "id": "47df2724-fbc2-431d-b725-c947c5f2d764",
+      "node_type": "Clause",
+      "publisher": "finlex",
+      "title": "§ 4 mom 2",
+      "text": "2) vakuutusyhtiön, vakuutusyhdistyksen, eläkelaitoksen tai vakuutusyhtiölain 2 luvun 18 b §:ssä tarkoitetun erillisyhtiön vakuutusmaksutuloa;",
+      "clause_number": 2,
+      "section_number": "4",
+      "statute_id": "878/2008"
+    },
+    {
+      "id": "9475752f-01bd-4e7f-8c74-0c82a6e0436d",
+      "node_type": "Clause",
+      "publisher": "finlex",
+      "title": "§ 4 mom 3",
+      "text": "3) muun kuin 1 tai 2 kohdassa tarkoitetun yrityksen osalta kirjanpitolain (1336/1997) 4 luvun 1 §:ssä tarkoitettua liikevaihtoa tai sitä vastaavaa liikevaihtoa.",
+      "clause_number": 3,
+      "section_number": "4",
+      "statute_id": "878/2008"
+    },
+    {
+      "id": "b4193076-7250-4337-9875-fd35b36750e3",
+      "node_type": "Clause",
+      "publisher": "finlex",
+      "title": "§ 6 mom 1",
+      "text": "1) 1 tai 2 §:ssä tarkoitettu ilmoitusvelvollinen on oma-aloitteisesti ryhtynyt riittäviin toimenpiteisiin rikkomuksen korjaamiseksi välittömästi rikkomuksen havaitsemisen jälkeen ja ilmoittanut virheestä viivytyksettä toimivaltaiselle valvontaviranomaiselle;",
+      "clause_number": 1,
+      "section_number": "6",
+      "statute_id": "878/2008"
+    },
+    {
+      "id": "618c7ac2-7b0c-4da1-a6ff-c8a67dc5501f",
+      "node_type": "Clause",
+      "publisher": "finlex",
+      "title": "§ 6 mom 2",
+      "text": "2) rikkomusta on pidettävä vähäisenä; tai",
+      "clause_number": 2,
+      "section_number": "6",
+      "statute_id": "878/2008"
+    },
+    {
+      "id": "de249a65-db15-42db-b58a-23d89c9069cb",
+      "node_type": "Clause",
+      "publisher": "finlex",
+      "title": "§ 6 mom 3",
+      "text": "3) rikemaksun määräämistä tai julkisen varoituksen antamista on muutoin pidettävä ilmeisen kohtuuttomana.",
+      "clause_number": 3,
+      "section_number": "6",
+      "statute_id": "878/2008"
+    },
+    {
+      "id": "14897738-789a-4f9e-8cf1-28824ae963ab",
+      "node_type": "Clause",
+      "publisher": "finlex",
+      "title": "§ 8 mom 1",
+      "text": "1) lykätä seuraamusta koskevan päätöksen julkistamista, kunnes perusteita olla julkistamatta päätöstä ei enää ole;",
+      "clause_number": 1,
+      "section_number": "8",
+      "statute_id": "878/2008"
+    },
+    {
+      "id": "834c43e4-cf01-41ce-abfe-e53c77a06ec4",
+      "node_type": "Clause",
+      "publisher": "finlex",
+      "title": "§ 8 mom 2",
+      "text": "2) julkistaa seuraamusta koskevan päätöksen ilman seuraamuksen kohteena olevan henkilön nimeä;",
+      "clause_number": 2,
+      "section_number": "8",
+      "statute_id": "878/2008"
+    },
+    {
+      "id": "e79f4263-6f66-4dd4-b695-93368afb7a92",
+      "node_type": "Clause",
+      "publisher": "finlex",
+      "title": "§ 8 mom 3",
+      "text": "3) jättää seuraamusta koskevan päätöksen julkistamatta, jos 1 ja 2 kohdassa tarkoitetut toimenpiteet eivät ole riittäviä varmistamaan sitä, että finanssimarkkinoiden vakaus ei vaarannu.",
+      "clause_number": 3,
+      "section_number": "8",
+      "statute_id": "878/2008"
+    },
+    {
+      "id": "fbfd8427-d53f-411c-aa58-d429d080f831",
+      "node_type": "Clause",
+      "publisher": "finlex",
+      "title": "§ 10 mom 1",
+      "text": "1) sen nimi, kotipaikka ja osoite, johon vaatimus kohdistuu;",
+      "clause_number": 1,
+      "section_number": "10",
+      "statute_id": "878/2008"
+    },
+    {
+      "id": "dc833e42-830d-4947-a6aa-fab13c3e337c",
+      "node_type": "Clause",
+      "publisher": "finlex",
+      "title": "§ 10 mom 2",
+      "text": "2) vaatimus ja sen perusteet; sekä",
+      "clause_number": 2,
+      "section_number": "10",
+      "statute_id": "878/2008"
+    },
+    {
+      "id": "dd61d4e8-36ad-4583-bb87-a3d1c035aa19",
+      "node_type": "Clause",
+      "publisher": "finlex",
+      "title": "§ 10 mom 3",
+      "text": "3) ne tosiseikat ja asiakirjat, joihin asianajajayhdistys vetoaa.",
+      "clause_number": 3,
+      "section_number": "10",
+      "statute_id": "878/2008"
+    },
+    {
+      "id": "44962e40-b125-486d-b046-e026ba659fa8",
+      "node_type": "Clause",
+      "publisher": "finlex",
+      "title": "§ 11 mom 1",
+      "text": "1) tieto tässä luvussa tarkoitetusta luotto- tai rahoituslaitokselle määrätystä ja julkistetusta seuraamuksesta samanaikaisesti, kun seuraamus julkistetaan sekä tieto mahdollisesta muutoksenhausta ja sen lopputuloksesta;",
+      "clause_number": 1,
+      "section_number": "11",
+      "statute_id": "878/2008"
+    },
+    {
+      "id": "de5c141e-f58a-4a44-8121-ac9d4d37f668",
+      "node_type": "Clause",
+      "publisher": "finlex",
+      "title": "§ 11 mom 2",
+      "text": "2) vuosittain yhdistelmätiedot kunakin vuonna määrätyistä tämän luvun mukaisista luotto- tai rahoituslaitoksille määrätyistä seuraamuksista.",
+      "clause_number": 2,
+      "section_number": "11",
+      "statute_id": "878/2008"
+    }
+  ],
+  "cross_references": [
+    {
+      "raw_text": "pykälän 2 momentissa t",
+      "statute_id": "878/2008",
+      "section_number": "2 momentissa t",
+      "clause_number": null,
+      "resolution_confidence": 0.0
+    }
+  ],
+  "raw_html_path": "C:\\Users\\danit\\finance-hack\\aalto-hackaton-2026\\data\\raw\\finlex\\Laki (säädöskokoelma)\\Laki rahanpesun ja terrorismin rahoittamisen estämisestä.html"
+}

@@ -1,0 +1,58 @@
+{
+  "statute": {
+    "id": "36b43d50-36a6-401e-86c6-9d5696c78713",
+    "node_type": "Statute",
+    "publisher": "finlex",
+    "title": "Laki voimalaitosverolain ja verotililain 1 §:n muuttamisesta annetun lain kumoamisesta",
+    "text": "Laki voimalaitosverolain ja verotililain 1 §:n muuttamisesta annetun lain kumoamisesta",
+    "statute_id": "1255/2013",
+    "finlex_url": "https://finlex.fi/fi/laki/ajantasa/1255/2013"
+  },
+  "chapters": [],
+  "sections": [
+    {
+      "id": "d9e012cf-6ce7-492f-93ec-9c3042121a9c",
+      "node_type": "Section",
+      "publisher": "finlex",
+      "title": "1 §",
+      "text": "Tällä lailla kumotaan:",
+      "section_number": "1",
+      "chapter_number": 1,
+      "statute_id": "1255/2013"
+    },
+    {
+      "id": "a41e916f-0e77-4c03-8dd5-e3ee2b43a794",
+      "node_type": "Section",
+      "publisher": "finlex",
+      "title": "2 §",
+      "text": "Tämä laki tulee voimaan 1 päivänä tammikuuta 2015.",
+      "section_number": "2",
+      "chapter_number": 1,
+      "statute_id": "1255/2013"
+    }
+  ],
+  "clauses": [
+    {
+      "id": "906d91a1-ec48-4611-98cd-5b9ee8759407",
+      "node_type": "Clause",
+      "publisher": "finlex",
+      "title": "§ 1 mom 1",
+      "text": "1) voimalaitosverolaki (1255/2013);",
+      "clause_number": 1,
+      "section_number": "1",
+      "statute_id": "1255/2013"
+    },
+    {
+      "id": "ea8d2426-bb31-4d92-94d7-f7860e44cc65",
+      "node_type": "Clause",
+      "publisher": "finlex",
+      "title": "§ 1 mom 2",
+      "text": "2) verotililain 1 §:n muuttamisesta annettu laki (1257/2013).",
+      "clause_number": 2,
+      "section_number": "1",
+      "statute_id": "1255/2013"
+    }
+  ],
+  "cross_references": [],
+  "raw_html_path": "C:\\Users\\danit\\finance-hack\\aalto-hackaton-2026\\data\\raw\\finlex\\Laki\\Laki voimalaitosverolain ja verotililain 1 §_n muuttamisesta annetun lain kumoamisesta.html"
+}

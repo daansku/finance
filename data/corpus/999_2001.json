@@ -1,0 +1,752 @@
+{
+  "statute": {
+    "id": "67c00d24-36f8-4438-8f61-82bec47a8081",
+    "node_type": "Statute",
+    "publisher": "finlex",
+    "title": "Laki eläinten tunnistamisesta ja rekisteröinnistä",
+    "text": "Laki eläinten tunnistamisesta ja rekisteröinnistä",
+    "statute_id": "999/2001",
+    "finlex_url": "https://finlex.fi/fi/laki/ajantasa/999/2001"
+  },
+  "chapters": [
+    {
+      "id": "00f8fad4-e9e6-48fe-aa22-eab5346cc027",
+      "node_type": "Chapter",
+      "publisher": "finlex",
+      "title": "Chapter 1",
+      "text": "1 luku Yleiset säännökset",
+      "chapter_number": 1,
+      "statute_id": "999/2001"
+    },
+    {
+      "id": "8cb52be8-ea1a-4fe7-851d-165b765442aa",
+      "node_type": "Chapter",
+      "publisher": "finlex",
+      "title": "Chapter 2",
+      "text": "2 luku Pitopaikkojen ja toimijoiden rekisteröinti",
+      "chapter_number": 2,
+      "statute_id": "999/2001"
+    },
+    {
+      "id": "395cacff-3eaf-4aa2-8a5a-1de048a19045",
+      "node_type": "Chapter",
+      "publisher": "finlex",
+      "title": "Chapter 3",
+      "text": "3 luku Eläinten jäljitettävyys",
+      "chapter_number": 3,
+      "statute_id": "999/2001"
+    },
+    {
+      "id": "b48e0d5c-5319-4d95-83e3-1a04f30be1fa",
+      "node_type": "Chapter",
+      "publisher": "finlex",
+      "title": "Chapter 4",
+      "text": "4 luku Toimivaltaiset viranomaiset",
+      "chapter_number": 4,
+      "statute_id": "999/2001"
+    },
+    {
+      "id": "da9bcff2-f282-46ae-a784-4fb9907535a0",
+      "node_type": "Chapter",
+      "publisher": "finlex",
+      "title": "Chapter 5",
+      "text": "5 luku Valvonta ja rekisterit",
+      "chapter_number": 5,
+      "statute_id": "999/2001"
+    },
+    {
+      "id": "320c9d7b-8583-4093-bbca-c45f1992e38b",
+      "node_type": "Chapter",
+      "publisher": "finlex",
+      "title": "Chapter 6",
+      "text": "6 luku Pakkokeinot ja seuraamukset",
+      "chapter_number": 6,
+      "statute_id": "999/2001"
+    },
+    {
+      "id": "31c213ff-2b30-4bfa-8a14-b57a25b6f93c",
+      "node_type": "Chapter",
+      "publisher": "finlex",
+      "title": "Chapter 7",
+      "text": "7 luku Erinäiset säännökset",
+      "chapter_number": 7,
+      "statute_id": "999/2001"
+    }
+  ],
+  "sections": [
+    {
+      "id": "c42abcaa-9dbd-4b2b-8de1-18bb5b4b4fda",
+      "node_type": "Section",
+      "publisher": "finlex",
+      "title": "1 § Soveltamisala",
+      "text": "Tässä laissa annetaan tarttuvista eläintaudeista sekä tiettyjen eläinterveyttä koskevien säädösten muuttamisesta ja kumoamisesta (\"eläinterveyssäännöstö\") annettua Euroopan parlamentin ja neuvoston asetusta (EU) 2016/429, jäljempänäeläinterveyssäännöstö, täydentävät säännökset eläinten tunnistamisesta ja rekisteröinnistä. Tätä lakia sovelletaan myös lemmikkieläinten tunnistamiseen ja rekisteröintiin. Tätä lakia sovelletaan luonnonvaraisten eläinten tunnistamiseen ja rekisteröintiin, jos eläimet ovat ihmisten pitämiä. Tässä laissa annetaan myös virallisesta valvonnasta ja muista virallisista toimista, jotka suoritetaan elintarvike- ja rehulainsäädännön ja eläinten terveyttä ja hyvinvointia, kasvien terveyttä ja kasvinsuojeluaineita koskevien sääntöjen soveltamisen varmistamiseksi, sekä Euroopan parlamentin ja neuvoston asetusten (EY) N:o 999/2001, (EY) N:o 396/2005, (EY) N:o 1069/2009, (EY) N:o 1107/2009, (EU) N:o 1151/2012, (EU) N:o 652/2014, (EU) 2016/429 ja (EU) 2016/2031, neuvoston asetusten (EY) N:o 1/2005 ja (EY)  N:o 1099/2009 ja neuvoston direktiivien 98/58/EY, 1999/74/EY, 2007/43/EY, 2008/119/EY ja 2008/120/EY muuttamisesta ja Euroopan parlamentin ja neuvoston asetusten (EY) N:o 854/2004 ja (EY) N:o 882/2004, neuvoston direktiivien 89/608/ETY, 89/662/ETY, 90/425/ETY, 91/496/ETY, 96/23/EY, 96/93/EY ja 97/78/EY ja neuvoston päätöksen 92/438/ETY kumoamisesta (virallista valvontaa koskeva asetus) annettua Euroopan parlamentin ja neuvoston asetusta (EU) 2017/625, jäljempänävalvonta-asetus,\ntäydentävät säännökset. Tässä laissa säädetään lisäksi eläinterveyssäännöstössä sallituista kansallisista toimenpiteistä, lisätoimenpiteistä ja tiukemmista toimenpiteistä, jotka koskevat pitopaikkoja ja toimijoiden rekisteröintiä sekä eläinten jäljitettävyyttä.",
+      "section_number": "1",
+      "chapter_number": 1,
+      "statute_id": "999/2001"
+    },
+    {
+      "id": "d2d086fc-89c6-425c-a443-caac5ac58aee",
+      "node_type": "Section",
+      "publisher": "finlex",
+      "title": "2 § Suhde muuhun lainsäädäntöön",
+      "text": "Eläintautien vastustamista koskevista toimenpiteistä säädetään myös eläintautilaissa (76/2021). Elävien eläinten kuljetuksesta säädetään myös eläinten kuljetuksesta annetussa laissa (1429/2006). Sen lisäksi, mitä tässä laissa säädetään, eläinten hyvinvoinnista säädetään eläinsuojelulaissa (247/1996).",
+      "section_number": "2",
+      "chapter_number": 1,
+      "statute_id": "999/2001"
+    },
+    {
+      "id": "6cdd7705-1bce-409c-8515-584e3bb32600",
+      "node_type": "Section",
+      "publisher": "finlex",
+      "title": "3 § Maaeläinten tai sukusolujen ja alkioiden pitopaikkojen rekisteröinti",
+      "text": "Maaeläimiä pitävien tai niiden sukusoluja ja alkioita keräävien, tuottavien, käsittelevien tai varastoivien toimijoiden on ennen toiminnan aloittamista ilmoitettava eläinterveyssäännöstön 84 artiklassa ja tässä laissa tarkoitetut tiedot kaikista vastuullaan olevista pitopaikoista rekisteriin merkittäväksi. Ilmoitusta ei kuitenkaan tarvitse tehdä pitopaikoista, joille vaaditaan hyväksyminen eläinterveyssäännöstön 94 tai 95 artiklan, Euroopan parlamentin ja neuvoston asetuksen (EU) 2016/429 täydentämisestä maaeläimiä pitäviä pitopaikkoja ja hautomoja sekä tiettyjen pidettävien maaeläinten ja siitosmunien jäljitettävyyttä koskevien sääntöjen osalta annetun komission delegoidun asetuksen (EU) 2019/2035, jäljempänämaaeläinten pitopaikkoja koskeva delegoitu asetus, 9 artiklan tai eläintautilain 40 tai 41 §:n nojalla. Ilmoitusta ei myöskään tarvitse tehdä poron pitopaikasta, jos poroa pidetään poronhoitolaissa (848/1990)\ntarkoitetun paliskunnan alueella ja poro on merkitty paliskunnan poroluetteloon. Jos pitopaikassa kerätään, tuotetaan, käsitellään tai varastoidaan sukusoluja tai alkioita käytettäväksi ainoastaan saman pitopaikan eläinten keinollista lisäämistarkoitusta varten, toimijan ei tarvitse ilmoittaa eläinterveyssäännöstön 84 artiklan 1 kohdan b alakohdan iii alakohdassa tarkoitettuja tietoja sukusoluista ja alkioista. Maa- ja metsätalousministeriön asetuksella voidaan antaa tarkempia säännöksiä niistä poikkeuksista 1 momentissa tarkoitettujen pitopaikkojen rekisteröintiin, jotka eläinterveyssäännöstön 86 artiklan 2 kohdan nojalla annetun komission täytäntöönpanoasetuksessa sallitaan, jos pitopaikkatyypin aiheuttama riski on merkityksetön.",
+      "section_number": "3",
+      "chapter_number": 2,
+      "statute_id": "999/2001"
+    },
+    {
+      "id": "6b5d2440-06cf-4a71-ad88-d29184d2c467",
+      "node_type": "Section",
+      "publisher": "finlex",
+      "title": "4 § Kokoamisia toteuttavien pitopaikasta riippumattomien toimijoiden rekisteröinti",
+      "text": "Sorkka- ja kavioeläinten ja siipikarjan kokoamista toteuttavien pitopaikasta riippumattomien toimijoiden on ennen toiminnan aloittamista ilmoitettava aluehallintovirastolle eläinterveyssäännöstön 90 artiklassa tarkoitetut tiedot. Maa- ja metsätalousministeriön asetuksella voidaan antaa tarkempia säännöksiä niistä poikkeuksista 1 momentissa tarkoitettujen toimijoiden rekisteröintiin, jotka eläinterveyssäännöstön 92 artiklan 2 kohdan nojalla annetun komission täytäntöönpanoasetuksessa sallitaan, jos pitopaikkatyypin aiheuttama riski on merkityksetön.",
+      "section_number": "4",
+      "chapter_number": 2,
+      "statute_id": "999/2001"
+    },
+    {
+      "id": "726fa7b9-4b06-45de-874a-87c525d8705b",
+      "node_type": "Section",
+      "publisher": "finlex",
+      "title": "5 § Vesiviljelypitopaikkojen rekisteröinti",
+      "text": "Vesiviljelypitopaikkojen toimijoiden on ennen toiminnan aloittamista ilmoitettava elinkeino-, liikenne- ja ympäristökeskukselle tiedot vastuullaan olevista vesiviljelypitopaikoista. Jos pitopaikalle on eläinterveyssäännöstön 176–179 artiklan ja eläintautilain 43 §:n nojalla haettava Ruokaviraston hyväksyntä, tietoja rekisteröintiä varten ei kuitenkaan tarvitse erikseen ilmoittaa. Maa- ja metsätalousministeriön asetuksella voidaan antaa tarkempia säännöksiä niistä poikkeuksista 1 momentissa tarkoitettujen vesiviljelypitopaikkojen rekisteröintiin, jotka eläinterveyssäännöstön 175 artiklan 2 kohdan nojalla annetun komission täytäntöönpanoasetuksessa sallitaan, jos pitopaikkatyypin aiheuttama riski on merkityksetön.",
+      "section_number": "5",
+      "chapter_number": 2,
+      "statute_id": "999/2001"
+    },
+    {
+      "id": "c5ef8266-024a-4ae4-8227-b01557d7d463",
+      "node_type": "Section",
+      "publisher": "finlex",
+      "title": "6 § Eräitä eläimiä kuljettavien henkilöiden rekisteröinti",
+      "text": "Sen, joka kuljettaa jäsenvaltioiden välillä tai Euroopan unionin ulkopuolelle kavio- ja sorkkaeläimiä tai siipikarjaa taikka kaupallisessa tarkoituksessa koiria, kissoja ja frettejä, on ennen kuljetustoiminnan aloittamista ilmoitettava aluehallintovirastolle eläinterveyssäännöstön 87 artiklan mukaiset tiedot kavio- ja sorkkaeläinten kuljetustoiminnasta ja maaeläinten pitopaikkoja koskevan delegoidun asetuksen 3 artiklassa tarkoitetut tiedot koirien, kissojen ja frettien tai siipikarjan kuljetustoiminnasta. Ilmoitusta ei kuitenkaan vaadita, jos kuljettajalla on eläinkuljetuslainsäädännön mukainen eläinkuljettajalupa.",
+      "section_number": "6",
+      "chapter_number": 2,
+      "statute_id": "999/2001"
+    },
+    {
+      "id": "ca6ef1e8-dc38-4d9f-9ba8-2ba39c3e569f",
+      "node_type": "Section",
+      "publisher": "finlex",
+      "title": "7 § Tietojen kirjaamis- ja säilyttämisvelvollisuus",
+      "text": "Toimijoiden on kirjattava ja säilytettävä pitopaikkoja ja toimintaa koskevat tiedot eläinterveyssäännöstön 102–105 ja 186 artiklan mukaisesti. Maa- ja metsätalousministeriön asetuksella voidaan antaa tarkemmat säännökset eläinterveyssäännöstön 1 momentissa mainituissa artikloissa sekä 107 ja 190 artiklan nojalla annetussa komission täytäntöönpanoasetuksessa tarkoitettujen poikkeusten soveltamisesta.",
+      "section_number": "7",
+      "chapter_number": 2,
+      "statute_id": "999/2001"
+    },
+    {
+      "id": "d98478d3-b4f5-46fc-bd88-66d191c8d145",
+      "node_type": "Section",
+      "publisher": "finlex",
+      "title": "8 § Yleiset vaatimukset eläinten tunnistamisesta",
+      "text": "Toimija vastaa omistuksessaan tai hallinnassaan olevien eläinten merkitsemisestä fyysisellä tunnistimella noudattaen mitä tässä laissa, eläinterveyssäännöstössä ja niiden nojalla säädetään. Ruokavirasto hyväksyy eläinten merkitsemiseen käytettävät tunnistimet kutakin eläinlajia varten erikseen tunnistimien valmistajan tai markkinoijan hakemuksesta. Ruokavirasto pitää tiedot hyväksymistään tunnistimista julkisesti saatavilla.",
+      "section_number": "8",
+      "chapter_number": 3,
+      "statute_id": "999/2001"
+    },
+    {
+      "id": "73f0045e-8904-486d-917f-633a63e222b4",
+      "node_type": "Section",
+      "publisher": "finlex",
+      "title": "9 § Nautaeläinten tunnistaminen",
+      "text": "Nautaeläimet merkitään kiinnittämällä eläimen kumpaankin korvalehteen tunnistuskoodin sisältävä korvamerkki, joista toisen on oltava elektroninen korvamerkki. Eläimet on merkittävä 20 päivän kuluessa syntymästä. Maa- ja metsätalousministeriön asetuksella voidaan antaa tarkempia säännöksiä nautaeläinten merkitsemisestä, tunnistimista ja tunnistusmenetelmistä.",
+      "section_number": "9",
+      "chapter_number": 3,
+      "statute_id": "999/2001"
+    },
+    {
+      "id": "eb833567-e7fb-4ef7-a7e8-485ec0a517bc",
+      "node_type": "Section",
+      "publisher": "finlex",
+      "title": "10 § Lammas- ja vuohieläinten tunnistaminen",
+      "text": "Lammas- ja vuohieläimet merkitään kiinnittämällä eläimen kumpaankin korvalehteen tunnistuskoodin sisältävä tavanomainen korvamerkki. Toisen tavanomaisen korvamerkin saa korvata elektronisella korvamerkillä, injektoitavalla transponderilla tai pötsiboluksella. Eläimet on merkittävä 90 päivän kuluessa syntymästä. Jos lammas- ja vuohieläimet on tarkoitus siirtää teurastamoon ennen 12 kuukauden ikää, on eläimet merkittävä ainakin toiseen korvalehteen kiinnitettävällä eläimen tunnistuskoodin sisältävällä tavanomaisella korvamerkillä. Maa- ja metsätalousministeriön asetuksella voidaan antaa tarkempia säännöksiä lammas- ja vuohieläinten merkitsemisestä, tunnistimista ja tunnistusmenetelmistä.",
+      "section_number": "10",
+      "chapter_number": 3,
+      "statute_id": "999/2001"
+    },
+    {
+      "id": "1fb1dc87-9158-40d4-b26a-162789c25db3",
+      "node_type": "Section",
+      "publisher": "finlex",
+      "title": "11 § Sikaeläinten tunnistaminen",
+      "text": "Sikaeläimet merkitään tatuoinnilla eläimen korvalehteen tai reiden ulkopintaan taikka kiinnittämällä eläimen korvalehteen tavanomainen korvamerkki tai elektroninen korvamerkki. Tatuoinnissa tai korvamerkissä on oltava eläimen syntymäpitopaikan yksilöllinen rekisterinumero tai Ruokaviraston hyväksymän tuotantoketjun viimeisen pitopaikan yksilöllinen rekisterinumero. Sikaeläin merkitään ennen siirtämistä syntymäpitopaikasta, kuitenkin viimeistään 9 kuukauden kuluessa syntymästä. Jos sikaeläin kuuluu hyväksyttyyn tuotantoketjuun, se merkitään ennen siirtämistä tuotantoketjun ulkopuolelle, kuitenkin viimeistään 9 kuukauden kuluessa syntymästä. Lisäksi sikaeläin merkitään aina ennen teuraskuljetukseen luovuttamista tatuoimalla lähtöpitopaikan merkintätunnus eläimen keskiselän tai kyljen alueelle keskilinjan molemmille puolille (teurasmerkintä). Jos eläin luovutetaan teuraskuljetukseen suoraan syntymäpitopaikasta tai hyväksytyn tuotantoketjun pitopaikasta 9 kuukauden kuluessa syntymästä, riittävää kuitenkin on, että eläin merkitään yksinomaan teurasmerkinnällä. Ruokavirasto pitää luetteloa hyväksymistään tuotantoketjuista. Maa- ja metsätalousministeriön asetuksella voidaan antaa tarkempia säännöksiä sikaeläinten merkitsemisestä, tunnistimista ja tunnistusmenetelmistä.",
+      "section_number": "11",
+      "chapter_number": 3,
+      "statute_id": "999/2001"
+    },
+    {
+      "id": "f2052e60-baf6-43ab-b49c-8e33ee64014e",
+      "node_type": "Section",
+      "publisher": "finlex",
+      "title": "12 § Hevoseläinten tunnistaminen",
+      "text": "Hevoseläimet merkitään eläimen tunnistuskoodin sisältävällä mikrosirulla ja tunnistetaan lisäksi maaeläinten pitopaikkoja koskevan delegoidun asetuksen 65 artiklassa tarkoitetulla hevoseläimen elinikäisellä tunnistusasiakirjalla. Tunnistusasiakirjan myöntää Ruokavirasto tai sen 26 §:n 2 momentin nojalla tehtävään valtuuttama taho. Maa- ja metsätalousministeriön asetuksella säädetään määräajasta, jonka kuluessa hevoseläimen elinikäinen tunnistusasiakirja on haettava. Lisäksi maa- ja metsätalousministeriön asetuksella voidaan antaa tarkempia säännöksiä hevoseläinten merkitsemisestä, tunnistimista ja tunnistusmenetelmistä.",
+      "section_number": "12",
+      "chapter_number": 3,
+      "statute_id": "999/2001"
+    },
+    {
+      "id": "0f2035bb-0faf-46e3-9a1e-44b7a03e2863",
+      "node_type": "Section",
+      "publisher": "finlex",
+      "title": "13 § Pidettävien kameli- ja hirvieläinten tunnistaminen",
+      "text": "Pitopaikassa syntyvät kameli- ja hirvieläimet, lukuun ottamatta poronhoitoalueella pidettäviä poroja, merkitään kiinnittämällä eläimeen mikrosiru tai eläimen kumpaankin korvalehteen tunnistuskoodin sisältävä tavanomainen korvamerkki. Eläimet on merkittävä yhdeksän kuukauden kuluessa syntymästä. Edellä 1 momentissa säädetystä poiketen hirvieläimiä, joita pidetään eristetyllä alueella luonnonmukaisissa olosuhteissa siten, että ne eivät ole säännöllisessä kosketuksessa ihmisiin, ei tarvitse tunnistaa edellyttäen, että niitä ei siirretä pitopaikastaan toiseen pitopaikkaan. Maa- ja metsätalousministeriön asetuksella voidaan antaa tarkempia säännöksiä kameli- ja hirvieläinten merkitsemisestä, tunnistimista ja tunnistusmenetelmistä sekä poikkeuksista hirvieläinten merkitsemiseen.",
+      "section_number": "13",
+      "chapter_number": 3,
+      "statute_id": "999/2001"
+    },
+    {
+      "id": "41c505d0-7587-4352-b2c4-c1638d10a3c8",
+      "node_type": "Section",
+      "publisher": "finlex",
+      "title": "14 § Porojen tunnistaminen poronhoitoalueella",
+      "text": "Poronhoitolaissa tarkoitetulla poronhoitoalueella pidettävä poro merkitään poronhoitolain 23 ja 25 §:n mukaisella omistajan poromerkillä. Paliskunta pitää poronhoitolain 30 §:ssä tarkoitettua poroluetteloa paliskunnan osakkaiden omistamista poroista. Lapin aluehallintovirasto pitää rekisteriä paliskunnista.",
+      "section_number": "14",
+      "chapter_number": 3,
+      "statute_id": "999/2001"
+    },
+    {
+      "id": "b9bda74f-4464-4b2f-9f80-fa67cc18fe62",
+      "node_type": "Section",
+      "publisher": "finlex",
+      "title": "15 § Lemmikkieläinten tunnistaminen",
+      "text": "Lemmikkieläimen merkitsemisestä tunnistimella ja ilmoittamisesta rekisteriin säädetään maa- ja metsätalousministeriön asetuksella lemmikkieläinlajeittain. Maa- ja metsätalousministeriön asetuksella voidaan lisäksi antaa tarkempia säännöksiä lemmikkieläinten tunnistusmenetelmistä, tunnistusasiakirjan tietojen säilyttämisestä ja rekisteriin ilmoitettavista tiedoista.",
+      "section_number": "15",
+      "chapter_number": 3,
+      "statute_id": "999/2001"
+    },
+    {
+      "id": "e504bf99-3edc-4bad-8511-2ad5835a20f0",
+      "node_type": "Section",
+      "publisher": "finlex",
+      "title": "16 § Suljettujen pitopaikkojen toimijoille ja eläimiä eräitä erityistarkoituksia varten pitäville toimijoille myönnettävät poikkeukset",
+      "text": "Aluehallintovirasto voi hakemuksesta myöntää toimijalle luvan poiketa eläimen tunnistusvaatimuksista seuraavasti:",
+      "section_number": "16",
+      "chapter_number": 3,
+      "statute_id": "999/2001"
+    },
+    {
+      "id": "975d5910-c140-4b21-9964-7924c0f5ef5c",
+      "node_type": "Section",
+      "publisher": "finlex",
+      "title": "17 § Lammas- ja vuohieläinten sekä sikaeläinten siirrot Suomen alueella",
+      "text": "Lammas- ja vuohieläimiä sekä sikaeläimiä saa siirtää Suomen alueella ilman siirtoasiakirjaa, jos siirtoasiakirjan tietoja vastaavat tiedot ovat viranomaisen tietokannassa.",
+      "section_number": "17",
+      "chapter_number": 3,
+      "statute_id": "999/2001"
+    },
+    {
+      "id": "17366b51-5d1e-477f-9750-9e49e4607246",
+      "node_type": "Section",
+      "publisher": "finlex",
+      "title": "18 § Eräiden eläinten tunnistusasiakirjat toiseen jäsenvaltioon siirtoa varten",
+      "text": "Siirrettäessä eläimiä jäsenvaltioiden välillä niiden mukana tulee olla tunnistusasiakirja tai siirtoasiakirja, joilla eläinten siirtokelpoisuus voidaan osoittaa, seuraavasti: Se, joka siirtää eläimiä jäsenvaltioiden välillä, vastaa eläimiä koskevien vaatimusten täyttymisestä. Maa- ja metsätalousministeriön asetuksella voidaan antaa tarkemmat säännökset 1 momentissa tarkoitetusta tunnistusasiakirjasta ja siirtoasiakirjasta.",
+      "section_number": "18",
+      "chapter_number": 3,
+      "statute_id": "999/2001"
+    },
+    {
+      "id": "303a002e-1988-41d3-ad5c-865338bb741c",
+      "node_type": "Section",
+      "publisher": "finlex",
+      "title": "19 § Kuolleiden märehtijöiden ilmoittaminen",
+      "text": "Eläimistä saatavista sivutuotteista annetussa laissa (517/2015) tarkoitettua luokkaan 1 ja 2 kuuluvaa ainesta käsittelevä laitos ja polttamalla hävittävä laitos ovat velvollisia ilmoittamaan Ruokavirastolle kuolleiden märehtijöiden vastaanottamisesta laitokseen.",
+      "section_number": "19",
+      "chapter_number": 3,
+      "statute_id": "999/2001"
+    },
+    {
+      "id": "8e64b8c7-484e-4221-877a-d320c9b8916d",
+      "node_type": "Section",
+      "publisher": "finlex",
+      "title": "20 § Ruokavirasto",
+      "text": "Ruokavirasto suunnittelee, ohjaa ja kehittää valtakunnallisesti eläinten tunnistamisen ja rekisteröinnin valvontaa. Ruokavirasto valvoo eläinten tunnistamista ja rekisteröintiä koskevien säännösten noudattamista niissä teurastamoissa ja riistan käsittelylaitoksissa, joissa se valvoo elintarvikelainsäädännön noudattamista. Sen lisäksi, mitä muualla tässä laissa säädetään Ruokaviraston tehtävistä, se:",
+      "section_number": "20",
+      "chapter_number": 4,
+      "statute_id": "999/2001"
+    },
+    {
+      "id": "a61d8e63-d1ac-4539-89f4-014e70865680",
+      "node_type": "Section",
+      "publisher": "finlex",
+      "title": "21 § Aluehallintovirasto",
+      "text": "Aluehallintovirasto ohjaa ja valvoo toimialueellaan eläinten tunnistamista ja rekisteröintiä koskevien säännösten noudattamista. Sen lisäksi, mitä muualla tässä laissa säädetään aluehallintoviraston tehtävistä, se:",
+      "section_number": "21",
+      "chapter_number": 4,
+      "statute_id": "999/2001"
+    },
+    {
+      "id": "832d6434-d883-434d-b2ef-dd9beb2c6ba6",
+      "node_type": "Section",
+      "publisher": "finlex",
+      "title": "22 § Elinkeino-, liikenne- ja ympäristökeskus",
+      "text": "Elinkeino-, liikenne- ja ympäristökeskus valvoo toimialueellaan eläinten tunnistamista ja rekisteröintiä koskevien säännösten noudattamista.",
+      "section_number": "22",
+      "chapter_number": 4,
+      "statute_id": "999/2001"
+    },
+    {
+      "id": "a13fb4ad-34b6-4612-bae6-385f93e10eba",
+      "node_type": "Section",
+      "publisher": "finlex",
+      "title": "23 § Kunnaneläinlääkäri",
+      "text": "Kunnaneläinlääkäri valvoo virka-alueellaan eläinten tunnistamista ja rekisteröintiä koskevien säännösten noudattamista.",
+      "section_number": "23",
+      "chapter_number": 4,
+      "statute_id": "999/2001"
+    },
+    {
+      "id": "b995cc81-6471-4ff8-825c-469eae2f2127",
+      "node_type": "Section",
+      "publisher": "finlex",
+      "title": "24 § Tulli",
+      "text": "Tulli valvoo aluehallintoviraston ohella eläinten tunnistamista ja rekisteröintiä koskevien säännösten noudattamista muun valvontansa yhteydessä, kun eläimiä siirretään jäsenvaltioiden välillä. Tullin suorittamassa valvonnassa noudatetaan tullilakia (304/2016), jollei tästä laista tai eläinterveyssäännöstöstä muuta johdu.",
+      "section_number": "24",
+      "chapter_number": 4,
+      "statute_id": "999/2001"
+    },
+    {
+      "id": "b4e7fba7-abca-45b8-93b0-c8ef529fd575",
+      "node_type": "Section",
+      "publisher": "finlex",
+      "title": "25 § Poliisin suorittama valvonta",
+      "text": "Eläintä kuljettavan ajoneuvon kuljettajan on pidettävä mukana eläimen tunnistusasiakirja. Poliisi valvoo eläinkuljetusten valvonnan yhteydessä, että eläimen mukana on eläimen tunnistusasiakirja, joka kuljettajan on esitettävä poliisille pyynnöstä.",
+      "section_number": "25",
+      "chapter_number": 4,
+      "statute_id": "999/2001"
+    },
+    {
+      "id": "1ecbe43f-34ae-42db-8d7c-69e840b45d0a",
+      "node_type": "Section",
+      "publisher": "finlex",
+      "title": "26 § Eräiden tehtävien siirtäminen muulle kuin viranomaiselle",
+      "text": "Ruokavirasto ja aluehallintovirasto voivat kirjallisella toimeksiannolla siirtää viralliseen valvontaan liittyviä tarkastuksia luonnollisen henkilön suoritettavaksi, jos valvonta-asetuksen 30 artiklassa säädetyt edellytykset täyttyvät. Toimeksiannon saaneella ei ole oikeutta päästä tehtäviensä suorittamiseksi pysyväisluonteiseen asumiseen käytettäviin tiloihin. Toimeksiannon perusteella mahdollisesti tehtävät hallintopäätökset tekee toimeksiannon antanut viranomainen. Ruokavirasto voi eläinterveyssäännöstön 108 artiklan 5 kohdan c alakohdan mukaisesti valtuuttaa toimielimen tai luonnollisen henkilön tunnistamaan eläimen ja myöntämään sille tunnistusasiakirjan. Ruokavirasto ja aluehallintovirasto voivat peruuttaa 1 momentissa tarkoitetun toimeksiannon ja Ruokavirasto 2 momentissa tarkoitetun valtuutuksen, jos toimeksiannon tai valtuutuksen saanut laiminlyö toimeksiannossa tai valtuutuksessa asetettujen ehtojen noudattamisen tai muutoin olennaisella tavalla rikkoo tehtäviin liittyviä velvoitteitaan. Edellytyksenä toimeksiannon ja valtuutuksen peruuttamiselle on, että puutteita ei ole korjattu viranomaisen kehotuksesta huolimatta asetetussa määräajassa. Toimeksiannon saaja ja valtuutettu toimivat tehtävässään toimeksiantajansa tai valtuuttajansa valvonnassa. Rikosoikeudellista virkavastuuta koskevia säännöksiä sovelletaan toimeksiannon ja valtuutuksen saaneeseen luonnolliseen henkilöön ja toimielimen henkilöstöön heidän hoitaessaan tässä laissa, eläinterveyssäännöstössä tai niiden nojalla säädettyjä tehtäviä. Vahingonkorvausvastuusta säädetään vahingonkorvauslaissa (412/1974).",
+      "section_number": "26",
+      "chapter_number": 4,
+      "statute_id": "999/2001"
+    },
+    {
+      "id": "fdfb4c29-a7e4-4c33-a466-63c88d68c90b",
+      "node_type": "Section",
+      "publisher": "finlex",
+      "title": "27 § Tarkastusoikeus",
+      "text": "Virallisesta valvonnasta ja muista virallisista toimista säädetään valvonta-asetuksen 9–15 artiklassa. Mainittuja säännöksiä sovelletaan myös tämän lain nojalla annettujen lemmikkieläinten tunnistamista ja rekisteröintiä koskevien säännösten noudattamisen valvontaan. Pysyväisluonteiseen asumiseen käytetyissä tiloissa tarkastuksen saa tehdä vain toimivaltainen viranomainen. Tarkastus voidaan tehdä pysyväisluonteiseen asumiseen käytetyissä tiloissa vain, jos se on välttämätöntä tarkastuksen kohteena olevien seikkojen selvittämiseksi ja on perusteltu syy epäillä toimijan syyllistyneen 38 §:ssä tarkoitettuun tämän lain rikkomiseen, jos teosta voi aiheutua vaaraa ihmisten tai eläinten terveydelle, eläinten hyvinvoinnille tai elintarviketurvallisuudelle.",
+      "section_number": "27",
+      "chapter_number": 5,
+      "statute_id": "999/2001"
+    },
+    {
+      "id": "3c8892a2-23e3-4561-933a-413a50185b13",
+      "node_type": "Section",
+      "publisher": "finlex",
+      "title": "28 § Tiedonsaantioikeus",
+      "text": "Toimivaltaisella viranomaisella ja 26 §:n 1 momentissa tarkoitetulla toimeksiannon saaneella on oikeus saada salassapitosäännösten estämättä valvonnan suorittamiseksi välttämättömät tiedot valtion ja kunnan viranomaisilta, toimijoilta ja muilta, joita tässä laissa tai Euroopan unionin eläinten tunnistamista ja rekisteröintiä sekä virallista valvontaa koskevassa lainsäädännössä säädetyt velvoitteet koskevat. Lisäksi toimivaltaisella viranomaisella on oikeus saada salassapitosäännösten estämättä ja maksutta valvonnan suorittamiseksi: Aluehallintovirastolla ja elinkeino-, liikenne- ja ympäristökeskuksella on lisäksi salassapitosäännösten estämättä oikeus saada maksutta välttämättömät tiedot sakon täytäntöönpanosta annetun lain (672/2002) 46 §:ssä tarkoitetusta sakkorekisteristä tämän lain 36 §:n mukaisen seuraamusmaksun määräämistä varten.",
+      "section_number": "28",
+      "chapter_number": 5,
+      "statute_id": "999/2001"
+    },
+    {
+      "id": "f935ae62-6e56-4842-a607-8ffeb301cad7",
+      "node_type": "Section",
+      "publisher": "finlex",
+      "title": "29 § Virka-apu",
+      "text": "Poliisin velvollisuudesta antaa virka-apua säädetään poliisilain (872/2011) 9 luvun 1 §:ssä.",
+      "section_number": "29",
+      "chapter_number": 5,
+      "statute_id": "999/2001"
+    },
+    {
+      "id": "fc15660c-ed24-49f9-9788-5fa5413a4dac",
+      "node_type": "Section",
+      "publisher": "finlex",
+      "title": "30 § Rekisterit",
+      "text": "Pitopaikoista, toimijoista ja eläimistä pidetään eläinterveyssäännöstön 101 artiklan 1 kohdan a alakohdassa, 109 artiklan sekä 185 artiklan 1 kohdan a alakohdassa tarkoitettua rekisteriä. Rekisteriin merkitään myös muut tässä laissa ja tämän lain tai eläinterveyssäännöstön nojalla annetuissa säännöksissä säädetyt tiedot pitopaikoista, toimijoista ja eläimistä. Lisäksi rekisteriin merkitään tiedot suoritetuista tarkastuksista sekä tiedot 6 luvun säännösten nojalla annetuista kielloista, määräyksistä ja rajoituksista sekä niiden peruuttamisesta. Rekistereihin ja rekisterinpitoon sovelletaan ruokahallinnon tietovarannosta annettua lakia (560/2021), jollei tässä laissa toisin säädetä. Tullille toimitettujen tietojen rekisteriin merkitsemisestä, käytöstä ja luovuttamisesta säädetään henkilötietojen käsittelystä Tullissa annetussa laissa (650/2019). Maa- ja metsätalousministeriön asetuksella voidaan antaa tarkempia säännöksiä rekisterin sisällöstä, rekisteritietojen merkitsemisestä ja rekisteröintiin liittyvistä menettelyistä.",
+      "section_number": "30",
+      "chapter_number": 5,
+      "statute_id": "999/2001"
+    },
+    {
+      "id": "47771152-2be6-44a8-924b-abc8c4f506b4",
+      "node_type": "Section",
+      "publisher": "finlex",
+      "title": "31 § Rekisterikysely",
+      "text": "Se, joka ottaa eläimen eläinvälitykseen, kuljetettavaksi tai teurastettavaksi, on velvollinen ennen kyseiseen toimenpiteeseen ryhtymistä tekemään rekisterikyselyn eläimen kelpoisuuden selvittämiseksi. Rekisterikysely sisältää eläimestä rekisteriin talletetut tiedot sekä viranomaisen eläintä koskevat kiellot ja määräykset. Eläinlajeista, joista tulee tehdä 1 momentissa tarkoitettu rekisterikysely, säädetään maa- ja metsätalousministeriön asetuksella. Lisäksi maa- ja metsätalousministeriön asetuksella voidaan antaa tarkemmat säännökset rekisterikyselyn sisällöstä ja rekisterikyselymenettelystä. Sellaisesta eläinlajista, josta tulee tehdä 1 momentissa tarkoitettu rekisterikysely, on toimijalla oikeus tehdä eläintä koskeva 1 momentissa tarkoitettu rekisterikysely ennen eläimen hankintaa.",
+      "section_number": "31",
+      "chapter_number": 5,
+      "statute_id": "999/2001"
+    },
+    {
+      "id": "f35cdfac-cd8a-4ef6-81fc-e703fc3c000a",
+      "node_type": "Section",
+      "publisher": "finlex",
+      "title": "32 § Määräys",
+      "text": "Toimivaltainen viranomainen voi määrätä sen, joka rikkoo tätä lakia, eläinterveyssäännöstöä tai niiden nojalla annettuja säännöksiä eläinten tunnistamisesta ja rekisteröinnistä välittömästi tai asian laatuun nähden riittävässä määräajassa täyttämään velvollisuutensa.",
+      "section_number": "32",
+      "chapter_number": 6,
+      "statute_id": "999/2001"
+    },
+    {
+      "id": "14fbce3b-82fe-428d-a15f-4a133b1f19db",
+      "node_type": "Section",
+      "publisher": "finlex",
+      "title": "33 § Rajoitus, kielto ja muut hallinnolliset toimenpiteet",
+      "text": "Toimivaltainen viranomainen voi rajoittaa eläinten markkinoille saattamista, muuta luovuttamista tai siirtoa pitopaikkaan tai sieltä pois tai kieltää ne tai määrätä valvonta-asetuksen 138 artiklan 2 kohdassa tarkoitettuja muita hallinnollisia toimenpiteitä, jos eläimen tunnistamisessa ja rekisteröinnissä ei noudateta tämän lain, eläinterveyssäännöstön tai niiden nojalla annettuja säännöksiä. Pitopaikassa tarkastuksen suorittanut viranomainen voi rajoittaa eläinten siirtoa pitopaikasta pois tai kieltää sen, jos pitopaikassa pidettävää eläintä ei ole tunnistettu tässä laissa, eläinterveyssäännöstössä tai niiden nojalla annetuissa säännöksissä tarkoitetulla tavalla ja on ilmeistä, että eläimen tunnistamista ja jäljitettävyyttä ei pystytä varmistamaan. Aluehallintovirasto voi elinkeino-, liikenne- ja ympäristökeskuksen puolesta tapauskohtaisesti kieltää eläinten siirtämisen pitopaikasta pois tilanteessa, jossa toimijaa epäillään vakavista puutteista eläinten tunnistamisessa, jos kielto on ihmisten tai eläinten terveydelle, eläinten hyvinvoinnille tai elintarviketurvallisuudelle aiheutuvan vakavan vaaran vuoksi välttämätöntä. Kiellon tai rajoituksen asettaminen tai muun hallinnollisen toimenpiteen määrääminen edellyttää, että toimija ei ole viranomaisen kehotuksesta huolimatta asetetussa määräajassa korjannut puutetta. Toimivaltaisen viranomaisen on peruutettava antamansa rajoitus, kielto tai muu hallinnollinen toimenpide heti, kun selvityksen perusteella voidaan varmistua siitä, että epäkohta on korjattu ja velvoitteita noudatetaan. Tunnistamattoman eläimen lopettamisesta päättää aluehallintovirasto valvonta-asetuksen 138 artiklan 2 kohdan k alakohdan mukaisesti.",
+      "section_number": "33",
+      "chapter_number": 6,
+      "statute_id": "999/2001"
+    },
+    {
+      "id": "34ced032-a8a3-489c-b6df-3dbe0cf11855",
+      "node_type": "Section",
+      "publisher": "finlex",
+      "title": "34 § Rekisteröinnin peruuttaminen",
+      "text": "Toimijan rekisteröinti voidaan peruuttaa, jos rekisteröinnille säädetyt edellytykset eivät enää täyty tai toiminnassa olennaisesti rikotaan eläinten tunnistamista ja rekisteröintiä koskevia säännöksiä tai säännösten nojalla tehtyjä päätöksiä. Edellytyksenä rekisteröinnin peruuttamiselle on lisäksi, että toimija ei ole toimivaltaisen viranomaisen kehotuksesta huolimatta asetetussa määräajassa korjannut puutetta. Rekisteröinti voidaan peruuttaa väliaikaisesti, jos 1 momentissa tarkoitettu puute on mahdollista korjata. Väliaikainen kielto on voimassa, kunnes toimivaltainen viranomainen antaa asiassa lopullisen ratkaisunsa. Rekisteröinnin peruuttamisesta päättää rekisteröinnin tehnyt toimivaltainen viranomainen.",
+      "section_number": "34",
+      "chapter_number": 6,
+      "statute_id": "999/2001"
+    },
+    {
+      "id": "e2e25475-5138-464d-b320-da0b7f341647",
+      "node_type": "Section",
+      "publisher": "finlex",
+      "title": "35 § Uhkasakko ja teettämisuhka",
+      "text": "Toimivaltainen viranomainen voi tehostaa 32 ja 33 §:n nojalla antamaansa määräystä, rajoitusta, kieltoa tai muuta hallinnollista toimenpidettä uhkasakolla tai uhalla, että tekemättä jätetyt toimenpiteet teetetään laiminlyöjän kustannuksella. Uhkasakosta ja teettämisuhasta säädetään uhkasakkolaissa (1113/1990).",
+      "section_number": "35",
+      "chapter_number": 6,
+      "statute_id": "999/2001"
+    },
+    {
+      "id": "a7f3b08b-2412-40dc-afd4-425df15474cd",
+      "node_type": "Section",
+      "publisher": "finlex",
+      "title": "36 § Eläinten tunnistamis- ja rekisteröintivalvonnan seuraamusmaksu",
+      "text": "Aluehallintovirasto ja elinkeino-, liikenne- ja ympäristökeskus voivat määrätä vähintään 300 euron ja enintään 5 000 euron eläinten tunnistamis- ja rekisteröintivalvonnan seuraamusmaksun sille, joka: Tulli voi määrätä 1 momentissa säädetyn seuraamusmaksun, jos teko tai laiminlyönti on havaittu sen suorittamassa valvonnassa. Seuraamusmaksun suuruutta arvioitaessa on otettava huomioon menettelyn laatu, laajuus, toistuvuus ja vahingollisuus. Maksu voidaan jättää määräämättä tai määrätä maksettavaksi vähimmäismäärää pienempänä, jos tekoa voidaan pitää vähäisenä ja maksun määräämättä jättäminen tai määrääminen vähimmäismäärää pienempänä on kohtuullista laiminlyönnin laatu, toistuvuus, suunnitelmallisuus ja muut olosuhteet huomioon ottaen. Seuraamusmaksu määrätään maksettavaksi valtiolle. Seuraamusmaksua ei saa määrätä luonnolliselle henkilölle, jota epäillään samasta teosta esitutkinnassa, syyteharkinnassa tai tuomioistuimessa vireillä olevassa rikosasiassa tai jolle on samasta teosta annettu lainvoimainen tuomio. Jos seuraamusmaksu on määrätty luonnolliselle henkilölle, samasta teosta ei saa määrätä toista seuraamusmaksua eikä tuomita tuomioistuimessa rangaistusta. Seuraamusmaksua ei saa määrätä, jos teosta on kulunut yli vuosi. Seuraamusmaksu vanhenee viiden vuoden kuluttua seuraamusmaksua koskevan lainvoimaisen ratkaisun antamispäivästä. Seuraamusmaksu raukeaa, kun maksuvelvollinen luonnollinen henkilö kuolee. Seuraamusmaksun täytäntöönpanosta säädetään sakon täytäntöönpanosta annetussa laissa.",
+      "section_number": "36",
+      "chapter_number": 6,
+      "statute_id": "999/2001"
+    },
+    {
+      "id": "7c7b0420-0f07-4614-b2ad-672e746d2175",
+      "node_type": "Section",
+      "publisher": "finlex",
+      "title": "37 § Eläimen tunnistusasiakirjan mukana pitämistä ja esittämistä koskevan velvollisuuden rikkomisesta määrättävä liikennevirhemaksu",
+      "text": "Eläintä kuljettavan ajoneuvon kuljettajalle voidaan määrätä 40 euron liikennevirhemaksu, jos hän tahallaan tai huolimattomuudesta rikkoo, mitä eläimen tunnistusasiakirjan mukana pitämisestä ja sen esittämisestä säädetään 25 §:ssä. Liikennevirhemaksun määräämisestä, tiedoksiannosta, muutoksenhausta ja täytäntöönpanosta säädetään tieliikennelaissa (729/2018).",
+      "section_number": "37",
+      "chapter_number": 6,
+      "statute_id": "999/2001"
+    },
+    {
+      "id": "7ed2999f-6701-48a2-9438-5440b0b996e9",
+      "node_type": "Section",
+      "publisher": "finlex",
+      "title": "38 § Rangaistussäännökset",
+      "text": "Joka tahallaan tai huolimattomuudesta rikkoo viranomaisen 33 §:n nojalla antamaa rajoitusta tai kieltoa tai määräämää muuta toimenpidettä, on tuomittava, jollei teosta muualla laissa säädetä ankarampaa rangaistusta,eläinten tunnistamisesta ja rekisteröinnistä annetun lain rikkomisestasakkoon. Viranomainen voi jättää rikkomuksen ilmoittamatta esitutkintaviranomaiselle, jos teko tai laiminlyönti on vähäinen eikä kyseessä ole viranomaisen rajoitusten, kieltojen ja määräämien toimenpiteiden toistuva rikkominen.",
+      "section_number": "38",
+      "chapter_number": 6,
+      "statute_id": "999/2001"
+    },
+    {
+      "id": "18f16482-2566-4fbc-90d1-f70f7184a6de",
+      "node_type": "Section",
+      "publisher": "finlex",
+      "title": "39 § Rikkomuksista ilmoittajan henkilöllisyyden suojaaminen",
+      "text": "Jos ilmoituksen toimivaltaiselle viranomaiselle sen valvontaan kuuluvien säännösten todellisesta tai epäillystä rikkomisesta on tehnyt luonnollinen henkilö, hänen henkilöllisyytensä on pidettävä salassa, jos henkilöllisyyden paljastamisesta voidaan olosuhteiden perusteella arvioida aiheutuvan haittaa hänelle.",
+      "section_number": "39",
+      "chapter_number": 7,
+      "statute_id": "999/2001"
+    },
+    {
+      "id": "7730bf02-dabd-495d-b2ac-67882c6d3981",
+      "node_type": "Section",
+      "publisher": "finlex",
+      "title": "40 § Viranomaisten suoritteista perittävät maksut",
+      "text": "Valtion viranomaisen tämän lain ja eläinterveyssäännöstön eläinten tunnistamista ja rekisteröintiä koskevien säännösten nojalla suorittamasta valvonnasta perittävistä maksuista säädetään valvonta-asetuksen VI luvussa. Tämän lisäksi sovelletaan valtion maksuperustelakia (150/1992), jollei valvonta-asetuksessa toisin säädetä. Aluehallintovirasto määrää ja perii valtiolle maksuja eläinten tunnistamista ja rekisteröintiä koskevien säännösten nojalla toteutetuista kunnaneläinlääkärin suoritteista. Kunnaneläinlääkärin suoritteista perittävien maksujen suuruudesta sekä suoritteiden laskutuksessa noudatettavasta menettelystä säädetään maa- ja metsätalousministeriön asetuksella.",
+      "section_number": "40",
+      "chapter_number": 7,
+      "statute_id": "999/2001"
+    },
+    {
+      "id": "e8569662-a3ab-46e7-ad0c-b8ad68db56c4",
+      "node_type": "Section",
+      "publisher": "finlex",
+      "title": "41 § Muulle kuin viranomaiselle maksettavat palkkiot ja korvaukset",
+      "text": "Ruokavirasto ja aluehallintovirasto maksavat 26 §:n 1 momentissa tarkoitetuista toimeksisaajan suorittamista tehtävistä palkkiota tai korvausta sekä korvaavat aiheutuneita kustannuksia sopimuksen perusteella. Ruokavirasto maksaa 26 §:n 2 momentissa tarkoitetun valtuutetun suorittamista tehtävistä palkkiota tai korvausta sekä korvaa aiheutuneita kustannuksia sopimuksen perusteella.",
+      "section_number": "41",
+      "chapter_number": 7,
+      "statute_id": "999/2001"
+    },
+    {
+      "id": "04b6c5a8-848c-45e9-9903-abbbeae79501",
+      "node_type": "Section",
+      "publisher": "finlex",
+      "title": "42 § Valtion kunnille maksama korvaus",
+      "text": "Eläinlääkintähuoltolain (765/2009) 23 §:ssä säädetään kunnan oikeudesta saada valtion varoista korvaus tämän lain mukaan kunnaneläinlääkärille kuuluvien tehtävien suorittamisesta.",
+      "section_number": "42",
+      "chapter_number": 7,
+      "statute_id": "999/2001"
+    },
+    {
+      "id": "f1101c4e-3dc6-4266-8f05-2d813393d6b2",
+      "node_type": "Section",
+      "publisher": "finlex",
+      "title": "43 § Muutoksenhaku",
+      "text": "Muutoksenhausta hallintotuomioistuimeen säädetään oikeudenkäynnistä hallintoasioissa annetussa laissa (808/2019). Mitä oikeudenkäynnistä hallintoasioissa annetussa laissa säädetään, sovelletaan myös haettaessa muutosta kunnaneläinlääkärin päätökseen. Toimivaltaisen viranomaisen päätöksessä voidaan määrätä, että päätöstä on muutoksenhausta huolimatta noudatettava, jollei muutoksenhakuviranomainen toisin määrää. Muutoksenhausta Tullin päätökseen säädetään kuitenkin tullilaissa. Muutoksenhausta valtiolle 40 §:n mukaan määrätyistä maksuista säädetään valtion maksuperustelain 11 b §:ssä.",
+      "section_number": "43",
+      "chapter_number": 7,
+      "statute_id": "999/2001"
+    },
+    {
+      "id": "35a631d5-db6a-48f0-89bc-442910352469",
+      "node_type": "Section",
+      "publisher": "finlex",
+      "title": "44 § Voimaantulo",
+      "text": "Tämä laki tulee voimaan 1 päivänä tammikuuta 2022. Tällä lailla kumotaan eläintunnistusjärjestelmästä annettu laki (238/2010). Jos muualla lainsäädännössä viitataan kumottuun lakiin, tämän lain voimaan tultua sovelletaan sen asemesta tämän lain säännöksiä. Pitopaikkoja ja toimijoita, jotka on rekisteröity ennen tämän lain voimaantuloa, pidetään rekisteröityinä tämän lain mukaisesti. Nautaeläinten, lammas- ja vuohieläinten sekä sikaeläinten tunnistimia, jotka on hyväksytty ennen tämän lain voimaantuloa, pidetään tämän lain mukaisesti hyväksyttyinä 20 päivään huhtikuuta 2023.",
+      "section_number": "44",
+      "chapter_number": 7,
+      "statute_id": "999/2001"
+    }
+  ],
+  "clauses": [
+    {
+      "id": "d52aac1e-670f-441a-9a62-cca5464af5c4",
+      "node_type": "Clause",
+      "publisher": "finlex",
+      "title": "§ 16 mom 1",
+      "text": "1) suljettujen pitopaikkojen toimijoille ja nautaeläimiä kulttuurisia, historiallisia, tieteellisiä, virkistys- tai urheilutarkoituksia varten pitäville toimijoille 9 §:ssä säädetyistä nautaeläinten tunnistusvaatimuksista maaeläinten pitopaikkoja koskevan delegoidun asetuksen 39 artiklan 2 kohdan mukaisesti;",
+      "clause_number": 1,
+      "section_number": "16",
+      "statute_id": "999/2001"
+    },
+    {
+      "id": "e4fbf072-1ead-4366-9fe2-5b0df125a882",
+      "node_type": "Clause",
+      "publisher": "finlex",
+      "title": "§ 16 mom 2",
+      "text": "2) suljettujen pitopaikkojen toimijoille ja lammas- ja vuohieläimiä kulttuurisia, virkistys- tai tieteellisiä tarkoituksia varten pitäville toimijoille 10 §:ssä säädetyistä lammas- ja vuohieläimiä koskevista tunnistusvaatimuksista maaeläinten pitopaikkoja koskevan delegoidun asetuksen 47 artiklan 2 kohdan mukaisesti;",
+      "clause_number": 2,
+      "section_number": "16",
+      "statute_id": "999/2001"
+    },
+    {
+      "id": "3a95dce3-f360-4f3b-96c5-c9a97a632972",
+      "node_type": "Clause",
+      "publisher": "finlex",
+      "title": "§ 16 mom 3",
+      "text": "3) suljettujen pitopaikkojen toimijoille ja sikaeläimiä kulttuurisia, virkistys- tai tieteellisiä tarkoituksia varten pitäville toimijoille 11 §:ssä säädetyistä sikaeläimiä koskevista tunnistusvaatimuksista maaeläinten pitopaikkoja koskevan delegoidun asetuksen 54 artiklan 2 kohdan mukaisesti.",
+      "clause_number": 3,
+      "section_number": "16",
+      "statute_id": "999/2001"
+    },
+    {
+      "id": "95bc6e70-792b-41cb-8e7d-5bd9097df708",
+      "node_type": "Clause",
+      "publisher": "finlex",
+      "title": "§ 18 mom 1",
+      "text": "1) koirilla, kissoilla ja freteillä maaeläinten pitopaikkoja koskevan delegoidun asetuksen 71 artiklassa tarkoitettu eläinlääkärin myöntämä tunnistusasiakirja;",
+      "clause_number": 1,
+      "section_number": "18",
+      "statute_id": "999/2001"
+    },
+    {
+      "id": "99807692-7c10-48da-a9c5-2bc31aee2a89",
+      "node_type": "Clause",
+      "publisher": "finlex",
+      "title": "§ 18 mom 2",
+      "text": "2) kiertävän sirkuksen ja eläinnäytöksen maaeläimillä aluehallintoviraston myöntämä maaeläinten pitopaikkoja koskevan delegoidun asetuksen 77 artiklassa tarkoitettu siirtoasiakirja tai 78 artiklassa tarkoitettu tunnistusasiakirja;",
+      "clause_number": 2,
+      "section_number": "18",
+      "statute_id": "999/2001"
+    },
+    {
+      "id": "fb9b2f7e-f3f2-43f9-8a2d-5f8f6f285874",
+      "node_type": "Clause",
+      "publisher": "finlex",
+      "title": "§ 18 mom 3",
+      "text": "3) kiertävän sirkuksen ja eläinnäytöksen linturyhmillä aluehallintoviraston myöntämä maaeläinten pitopaikkoja koskevan delegoidun asetuksen 79 artiklassa tarkoitettu tunnistusasiakirja.",
+      "clause_number": 3,
+      "section_number": "18",
+      "statute_id": "999/2001"
+    },
+    {
+      "id": "d87c9593-fd4d-413d-a508-bddc4f020851",
+      "node_type": "Clause",
+      "publisher": "finlex",
+      "title": "§ 20 mom 1",
+      "text": "1) laatii eläinten tunnistamista ja rekisteröintiä koskevan valtakunnallisen suunnitelman, joka on osa valvonta-asetuksen mukaista monivuotista kansallista valvontasuunnitelmaa;",
+      "clause_number": 1,
+      "section_number": "20",
+      "statute_id": "999/2001"
+    },
+    {
+      "id": "990521ec-7059-49d9-aaf3-9acb68ea4282",
+      "node_type": "Clause",
+      "publisher": "finlex",
+      "title": "§ 20 mom 2",
+      "text": "2) vastaa eläinten merkitsemisen ja rekisteröinnin valvonnan tilastoinnista ja raportoinnista;",
+      "clause_number": 2,
+      "section_number": "20",
+      "statute_id": "999/2001"
+    },
+    {
+      "id": "a6ae6cc8-41c9-4b9b-be9f-58b02b0910f8",
+      "node_type": "Clause",
+      "publisher": "finlex",
+      "title": "§ 20 mom 3",
+      "text": "3) koordinoi valvonta-asetuksen 4 artiklan 2 kohdan b alakohdan mukaista yhteistyötä;",
+      "clause_number": 3,
+      "section_number": "20",
+      "statute_id": "999/2001"
+    },
+    {
+      "id": "105c2398-c435-429f-9fd3-3374580f8038",
+      "node_type": "Clause",
+      "publisher": "finlex",
+      "title": "§ 20 mom 4",
+      "text": "4) toimii valvonta-asetuksen 103 artiklassa tarkoitettuna yhteyselimenä;",
+      "clause_number": 4,
+      "section_number": "20",
+      "statute_id": "999/2001"
+    },
+    {
+      "id": "8e4a6462-96e4-4641-b1de-74cffb727c6e",
+      "node_type": "Clause",
+      "publisher": "finlex",
+      "title": "§ 20 mom 5",
+      "text": "5) vastaa valvonta-asetuksen 113 artiklassa tarkoitetusta vuosikertomuksesta.",
+      "clause_number": 5,
+      "section_number": "20",
+      "statute_id": "999/2001"
+    },
+    {
+      "id": "1aef2a34-e4e8-4865-84bf-a46515ab7daf",
+      "node_type": "Clause",
+      "publisher": "finlex",
+      "title": "§ 21 mom 1",
+      "text": "1) laatii valtakunnalliseen suunnitelmaan perustuvan toimialuettaan koskevan alueellisen suunnitelman eläinten tunnistamisen ja rekisteröinnin valvonnasta;",
+      "clause_number": 1,
+      "section_number": "21",
+      "statute_id": "999/2001"
+    },
+    {
+      "id": "671ef67a-b014-4198-87c6-78ca78f36370",
+      "node_type": "Clause",
+      "publisher": "finlex",
+      "title": "§ 21 mom 2",
+      "text": "2) valvoo eläinten tunnistamista ja rekisteröintiä koskevien säännösten noudattamista niissä poroteurastamoissa, joissa se valvoo elintarvikelainsäädännön noudattamista;",
+      "clause_number": 2,
+      "section_number": "21",
+      "statute_id": "999/2001"
+    },
+    {
+      "id": "12ef133c-37e5-40e6-a206-4d05e8cbdf45",
+      "node_type": "Clause",
+      "publisher": "finlex",
+      "title": "§ 21 mom 3",
+      "text": "3) vastaa Euroopan unionin jäsenvaltiolle ja toimivaltaiselle viranomaiselle säädetyistä eläinten tunnistamista ja rekisteröintiä koskevista tehtävistä siltä osin kuin tehtävät eivät kuulu muun viranomaisen toimivaltaan.",
+      "clause_number": 3,
+      "section_number": "21",
+      "statute_id": "999/2001"
+    },
+    {
+      "id": "b7cee748-a1e0-4f0d-a152-55e7b37c1338",
+      "node_type": "Clause",
+      "publisher": "finlex",
+      "title": "§ 28 mom 1",
+      "text": "1) peltolohkorekisteristä pitopaikkaan liittyvät tiedot peltolohkoista, niiden tunnuksista ja muista tämän lain mukaisten hallinnointi- ja valvontatehtävien suorittamiseksi tarpeellisista tiedoista;",
+      "clause_number": 1,
+      "section_number": "28",
+      "statute_id": "999/2001"
+    },
+    {
+      "id": "9ee9b91a-ff0b-4b78-84de-7630f29dfb82",
+      "node_type": "Clause",
+      "publisher": "finlex",
+      "title": "§ 28 mom 2",
+      "text": "2) kiinteistötietojärjestelmästä pitopaikkaan liittyvät tarpeelliset tiedot rakennuksista, rakennelmista sekä maa- ja vesialueista;",
+      "clause_number": 2,
+      "section_number": "28",
+      "statute_id": "999/2001"
+    },
+    {
+      "id": "fc45abe1-ca7f-48a9-924d-d4de3432baa0",
+      "node_type": "Clause",
+      "publisher": "finlex",
+      "title": "§ 28 mom 3",
+      "text": "3) ympäristöhallinnon tietojärjestelmästä tarpeelliset tiedot vesiviljelyä ja eläintenpitoa harjoittavista ympäristöluvan saaneista ja rekisteröityneistä toimijoista;",
+      "clause_number": 3,
+      "section_number": "28",
+      "statute_id": "999/2001"
+    },
+    {
+      "id": "2820e346-2fea-41e9-83a4-1457029e8027",
+      "node_type": "Clause",
+      "publisher": "finlex",
+      "title": "§ 28 mom 4",
+      "text": "4) oikeushallinnon tietojärjestelmästä tiedot toimijaan kohdistuvasta eläintenpitokiellosta.",
+      "clause_number": 4,
+      "section_number": "28",
+      "statute_id": "999/2001"
+    },
+    {
+      "id": "59397b0c-98cf-45e8-b0f0-cf33d5915c50",
+      "node_type": "Clause",
+      "publisher": "finlex",
+      "title": "§ 36 mom 1",
+      "text": "1) laiminlyö 3–6 ja 19 §:ssä säädetyn ilmoitusvelvollisuuden;",
+      "clause_number": 1,
+      "section_number": "36",
+      "statute_id": "999/2001"
+    },
+    {
+      "id": "569b0c10-b428-4fab-9bcf-8af4fa93ac6e",
+      "node_type": "Clause",
+      "publisher": "finlex",
+      "title": "§ 36 mom 2",
+      "text": "2) laiminlyö 7 §:ssä säädetyn tietojen kirjaamis- ja säilytysvelvollisuuden;",
+      "clause_number": 2,
+      "section_number": "36",
+      "statute_id": "999/2001"
+    },
+    {
+      "id": "3d4fd265-94dd-4ac5-a36f-5d96110e93ff",
+      "node_type": "Clause",
+      "publisher": "finlex",
+      "title": "§ 36 mom 3",
+      "text": "3) laiminlyö 8–15 §:ssä säädetyn merkitsemisvelvollisuuden;",
+      "clause_number": 3,
+      "section_number": "36",
+      "statute_id": "999/2001"
+    },
+    {
+      "id": "19cd3dfe-c72a-485d-9da2-1ca8603ca20d",
+      "node_type": "Clause",
+      "publisher": "finlex",
+      "title": "§ 36 mom 4",
+      "text": "4) harjoittaa 16 §:ssä tarkoitettua poikkeuslupaa edellyttävää toimintaa ilman lupaa;",
+      "clause_number": 4,
+      "section_number": "36",
+      "statute_id": "999/2001"
+    },
+    {
+      "id": "9b175d35-55ab-4cad-b555-07da13b4d0cb",
+      "node_type": "Clause",
+      "publisher": "finlex",
+      "title": "§ 36 mom 5",
+      "text": "5) siirtää 18 §:ssä tarkoitettuja eläimiä jäsenvaltioiden välillä ilman vaatimustenmukaista tunnistus- tai siirtoasiakirjaa.",
+      "clause_number": 5,
+      "section_number": "36",
+      "statute_id": "999/2001"
+    }
+  ],
+  "cross_references": [],
+  "raw_html_path": "C:\\Users\\danit\\finance-hack\\aalto-hackaton-2026\\data\\raw\\finlex\\Laki (säädöskokoelma)\\Laki eläinten tunnistamisesta ja rekisteröinnistä.html"
+}

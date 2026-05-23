@@ -1,0 +1,485 @@
+{
+  "statute": {
+    "id": "5d65325b-7d7e-4ae7-9384-ec6b133946f0",
+    "node_type": "Statute",
+    "publisher": "finlex",
+    "title": "Laki eräiden tuotteiden markkinavalvonnasta",
+    "text": "Laki eräiden tuotteiden markkinavalvonnasta",
+    "statute_id": "1134/2016",
+    "finlex_url": "https://finlex.fi/fi/laki/ajantasa/1134/2016"
+  },
+  "chapters": [
+    {
+      "id": "37743afc-55e5-4e84-bdb8-4b46d3ac1966",
+      "node_type": "Chapter",
+      "publisher": "finlex",
+      "title": "Chapter 1",
+      "text": "1 luku Yleiset säännökset",
+      "chapter_number": 1,
+      "statute_id": "1134/2016"
+    },
+    {
+      "id": "83077489-b44d-471e-8af0-b398dc22cb1a",
+      "node_type": "Chapter",
+      "publisher": "finlex",
+      "title": "Chapter 2",
+      "text": "2 luku Valvonnan järjestäminen",
+      "chapter_number": 2,
+      "statute_id": "1134/2016"
+    },
+    {
+      "id": "ed60dc77-d101-41f5-b8e7-a1ad2518fe4f",
+      "node_type": "Chapter",
+      "publisher": "finlex",
+      "title": "Chapter 3",
+      "text": "3 luku Valvonnan toimenpiteet",
+      "chapter_number": 3,
+      "statute_id": "1134/2016"
+    },
+    {
+      "id": "84ad3691-4fad-49fd-9cf1-a994bc33d5f7",
+      "node_type": "Chapter",
+      "publisher": "finlex",
+      "title": "Chapter 4",
+      "text": "4 luku Erinäiset säännökset",
+      "chapter_number": 4,
+      "statute_id": "1134/2016"
+    }
+  ],
+  "sections": [
+    {
+      "id": "22265963-3d36-4d68-b71a-75447639735b",
+      "node_type": "Section",
+      "publisher": "finlex",
+      "title": "1 § Soveltamisala",
+      "text": "Tätä lakia sovelletaan hissiturvallisuuslain (1134/2016), mittauslaitelain (707/2011), pyroteknisten tuotteiden vaatimustenmukaisuudesta annetun lain (180/2015), räjähdysvaarallisissa tiloissa käytettäväksi tarkoitettujen laitteiden ja suojausjärjestelmien vaatimustenmukaisuudesta annetun lain (1139/2016), painelaitelain (1144/2016), sähköturvallisuuslain (1135/2016) ja räjähteiden vaatimustenmukaisuudesta annetun lain (1140/2016) soveltamisalaan kuuluvien tuotteiden markkinavalvontaan, jollei mainituissa laeissa toisin säädetä. Lakia sovelletaan lisäksi tuotteiden kaupan pitämiseen liittyvää akkreditointia ja markkinavalvontaa koskevista vaatimuksista ja neuvoston asetuksen (ETY) N:o 339/93 kumoamisesta annetun Euroopan parlamentin ja neuvoston asetuksen (EY) N:o 765/2008, jäljempänäNLF-asetus, 27–29 artiklassa tarkoitettuihin 1 momentissa mainittujen lakien soveltamisalaan kuuluvia tuotteita koskeviin valvontaviranomaisten toimenpiteisiin, jollei mainituissa laeissa toisin säädetä.",
+      "section_number": "1",
+      "chapter_number": 1,
+      "statute_id": "1134/2016"
+    },
+    {
+      "id": "aada6787-9215-4e5b-9c93-6508575e8c8c",
+      "node_type": "Section",
+      "publisher": "finlex",
+      "title": "2 § Määritelmät",
+      "text": "Tässä laissa tarkoitetaan:",
+      "section_number": "2",
+      "chapter_number": 1,
+      "statute_id": "1134/2016"
+    },
+    {
+      "id": "1d5ab26e-55c9-4c4d-a9d6-503466bef773",
+      "node_type": "Section",
+      "publisher": "finlex",
+      "title": "3 § Valvonnan ylin ohjaus",
+      "text": "Tämän lain säännösten noudattamista koskevan valvonnan ylin ohjaus  kuuluu työ-  ja elinkeinoministeriölle.",
+      "section_number": "3",
+      "chapter_number": 2,
+      "statute_id": "1134/2016"
+    },
+    {
+      "id": "33b4f4bf-b195-4cdb-b61c-e709ba5347e6",
+      "node_type": "Section",
+      "publisher": "finlex",
+      "title": "4 § Valvontaviranomaiset",
+      "text": "Turvallisuus- ja kemikaalivirasto on tässä laissa tarkoitettu markkinavalvontaviranomainen. Tulli toimii NLF-asetuksen 27–29 artiklassa tarkoitettuna ulkorajatarkastuksista vastaavana viranomaisena sekä valvoo 23 §:ssä tarkoitetun maastavientikiellon ja 25 §:ssä tarkoitetun hävittämismääräyksen noudattamista ulkorajalla.",
+      "section_number": "4",
+      "chapter_number": 2,
+      "statute_id": "1134/2016"
+    },
+    {
+      "id": "2c0fc5de-d0a9-41c6-bc3a-268a88fea417",
+      "node_type": "Section",
+      "publisher": "finlex",
+      "title": "5 § Yhteistyömenettely unionin markkinoille tuotavien tuotteiden valvonnassa",
+      "text": "Markkinavalvontaviranomaisen ja Tullin yhteistyömenettelystä ja määräajoista unionin markkinoille tuotavien tuotteiden valvonnassa säädetään NLF-asetuksen 27–29 artiklassa ja jäljempänä tässä laissa.",
+      "section_number": "5",
+      "chapter_number": 2,
+      "statute_id": "1134/2016"
+    },
+    {
+      "id": "68e28bf1-8d3b-4d03-b0da-f284460db192",
+      "node_type": "Section",
+      "publisher": "finlex",
+      "title": "6 § Tehtävien hoito ja tärkeysjärjestys",
+      "text": "Markkinavalvontaviranomaisen on hoidettava tehtävänsä tehokkaalla ja riskinarviointiin perustuen mahdollisimman tarkoituksenmukaisella tavalla. Olosuhteiden vaatiessa tehtävät on asetettava tärkeysjärjestykseen.",
+      "section_number": "6",
+      "chapter_number": 2,
+      "statute_id": "1134/2016"
+    },
+    {
+      "id": "d2613d49-60b2-41c3-9ba7-9ac66ec0887a",
+      "node_type": "Section",
+      "publisher": "finlex",
+      "title": "7 § Valvontasuunnitelma",
+      "text": "Markkinavalvontaviranomaisen on laadittava 1 §:n 1 momentissa mainittujen lakien soveltamisalaan kuuluvien tuotteiden markkinavalvonnasta valvontasuunnitelma, jossa on otettava huomioon, mitä NLF-asetuksen 18 artiklan 5 kohdassa säädetään.",
+      "section_number": "7",
+      "chapter_number": 2,
+      "statute_id": "1134/2016"
+    },
+    {
+      "id": "2be267db-5277-4e93-9342-bbfa8e87f0f1",
+      "node_type": "Section",
+      "publisher": "finlex",
+      "title": "8 § Viranomaisen oikeus saada tietoja talouden toimijalta",
+      "text": "Markkinavalvontaviranomaisella ja Tullilla on oikeus saada valvontaa varten välttämättömät tiedot talouden toimijalta. Tiedonsaantioikeus koskee myös sellaisia valvonnan kannalta välttämättömiä tietoja, jotka yksityistä liike- tai ammattitoimintaa, yksityisen taloudellista asemaa tai terveydentilaa koskevina taikka muutoin ovat viranomaisen hallussa ollessaan salassa pidettäviä viranomaisten toiminnan julkisuudesta annetun lain (621/1999) nojalla.",
+      "section_number": "8",
+      "chapter_number": 3,
+      "statute_id": "1134/2016"
+    },
+    {
+      "id": "dc9dcb1e-8776-402e-8d54-9daa1dd7a7c8",
+      "node_type": "Section",
+      "publisher": "finlex",
+      "title": "9 § Oikeus tehdä tarkastuksia",
+      "text": "Markkinavalvontaviranomaisella ja Tullilla on oikeus valvontaa varten päästä kaikkiin tiloihin, joissa harjoitetaan 1 §:n 1 momentissa mainituissa laeissa tarkoitettua toimintaa tai säilytetään valvonnan kannalta merkityksellisiä tietoja, ja tehdä valvonnassa tarvittavia tarkastuksia. Pysyväisluonteiseen asumiseen käytettäviin tiloihin tarkastuksia ei kuitenkaan saa ulottaa. Tarkastuksissa noudatetaan, mitä hallintolain (434/2003) 39 §:ssä säädetään. Markkinavalvontaviranomaisen oikeudesta ulottaa tarkastus pysyväisluonteiseen asumiseen käytettäviin tiloihin säädetään tarvittaessa erikseen 1 §:n 1 momentissa mainituissa laeissa.",
+      "section_number": "9",
+      "chapter_number": 3,
+      "statute_id": "1134/2016"
+    },
+    {
+      "id": "8957956d-e151-48b2-9d3a-f81ddf7f902e",
+      "node_type": "Section",
+      "publisher": "finlex",
+      "title": "10 § Oikeus ottaa tuotteita tutkittavaksi",
+      "text": "Markkinavalvontaviranomaisella ja Tullilla on oikeus ottaa tuotteita tutkittavaksi, jos se on tuotteen vaatimustenmukaisuuden valvonnan kannalta tarpeellista. Mitä tässä pykälässä säädetään tuotteista, sovelletaan myös tuotteista otettaviin näytteisiin ja niiden osiin. Markkinavalvontaviranomaisen on talouden toimijan vaatimuksesta korvattava 1 momentissa tarkoitettu tuote käyvän hinnan mukaan, jollei havaita, että tuote on vaatimustenvastainen. Jos Tulli perii näytteen tutkittavaksi ottamisesta maksun sen mukaan kuin siitä erikseen säädetään, markkinavalvontaviranomaisen ei kuitenkaan tarvitse suorittaa korvausta näytteestä. Jos tuote on vaatimustenvastainen ja vaatimustenvastaisuus on merkittävä, markkinavalvontaviranomainen voi velvoittaa talouden toimijan korvaamaan tuotteen hankinnasta, testauksesta ja tutkimisesta aiheutuneet kustannukset. Korvaus on suoraan ulosottokelpoinen. Sen perimisestä säädetään verojen ja maksujen täytäntöönpanosta annetussa laissa (706/2007).",
+      "section_number": "10",
+      "chapter_number": 3,
+      "statute_id": "1134/2016"
+    },
+    {
+      "id": "dd555dc1-57db-4b32-ab40-aca0228ff2ac",
+      "node_type": "Section",
+      "publisher": "finlex",
+      "title": "11 § Oikeus saada tietoja toisilta viranomaisilta ja käyttää toisen ottamia näytteitä",
+      "text": "Markkinavalvontaviranomaisella ja Tullilla on oikeus salassapitosäännösten ja muiden tiedonsaantia koskevien rajoitusten estämättä luovuttaa valvonnan kannalta välttämättömiä tietoja toisilleen ja saada niitä muilta valvontaviranomaisilta. Markkinavalvontaviranomaisella ja Tullilla on oikeus salassapitosäännösten ja muiden tiedonsaantia koskevien rajoitusten estämättä käyttää toisen hankkimia näytteitä tai tuotteita valvonnan kannalta tarpeellisiin tutkimuksiin.",
+      "section_number": "11",
+      "chapter_number": 3,
+      "statute_id": "1134/2016"
+    },
+    {
+      "id": "55ca5096-6a4b-48a5-ad8e-b9dc82c73790",
+      "node_type": "Section",
+      "publisher": "finlex",
+      "title": "12 § Oikeus saada tietoja ilmoitetulta laitokselta",
+      "text": "Markkinavalvontaviranomaisella on oikeus saada salassapitosäännösten estämättä valvontaa varten välttämättömät tiedot ilmoitetulta laitokselta.",
+      "section_number": "12",
+      "chapter_number": 3,
+      "statute_id": "1134/2016"
+    },
+    {
+      "id": "ef9cf461-26b8-4c89-a1f5-33955eca2989",
+      "node_type": "Section",
+      "publisher": "finlex",
+      "title": "13 § Oikeus luovuttaa salassa pidettäviä tietoja",
+      "text": "Markkinavalvontaviranomainen saa salassapitosäännösten estämättä luovuttaa valvonnassa saamiaan tietoja yksityisen tai yhteisön taloudellisesta asemasta, liike- tai ammattisalaisuudesta taikka yksityisen henkilökohtaisista oloista:",
+      "section_number": "13",
+      "chapter_number": 3,
+      "statute_id": "1134/2016"
+    },
+    {
+      "id": "e74bffd2-effe-4233-b711-ebfd53ace31a",
+      "node_type": "Section",
+      "publisher": "finlex",
+      "title": "14 § Ulkopuolisen asiantuntijan käyttö",
+      "text": "Markkinavalvontaviranomaisella on oikeus käyttää apunaan ulkopuolisia asiantuntijoita tuotteen vaatimustenmukaisuuden tutkinnassa, testaamisessa ja arvioimisessa. Ulkopuoliset asiantuntijat voivat markkinavalvontaviranomaisen apuna osallistua tämän lain mukaisiin tarkastuksiin. Ulkopuolisella asiantuntijalla tulee olla tehtävien edellyttämä asiantuntemus ja pätevyys. Ulkopuoliseen asiantuntijaan sovelletaan rikosoikeudellista virkavastuuta koskevia säännöksiä silloin, kun hän hoitaa tässä pykälässä tarkoitettuja tehtäviä. Vahingonkorvausvastuusta säädetään vahingonkorvauslaissa (412/1974).",
+      "section_number": "14",
+      "chapter_number": 3,
+      "statute_id": "1134/2016"
+    },
+    {
+      "id": "d51b47f2-ada8-480a-b081-7af8f62a518c",
+      "node_type": "Section",
+      "publisher": "finlex",
+      "title": "15 § Poliisin virka-apu",
+      "text": "Poliisi on velvollinen antamaan virka-apua markkinavalvontaviranomaiselle tämän lain ja 1 §:n 1 momentissa mainittujen lakien noudattamisen valvomiseksi ja täytäntöön panemiseksi. Poliisin antamasta virka-avusta säädetään poliisilaissa (872/2011).",
+      "section_number": "15",
+      "chapter_number": 3,
+      "statute_id": "1134/2016"
+    },
+    {
+      "id": "c5d38b5e-927b-4865-b117-1e35649d0844",
+      "node_type": "Section",
+      "publisher": "finlex",
+      "title": "16 § Tuotteen vaatimustenmukaisuus",
+      "text": "Tuotteen katsotaan olevan vaatimustenmukainen, jos se täyttää 1 §:n 1 momentissa mainituissa laeissa tuotteelle säädetyt vaatimukset. Vaikka tuote täyttää 1 §:n 1 momentissa mainituissa laeissa säädetyt vaatimukset, markkinavalvontaviranomainen voi antaa 17–22 §:ssä tarkoitetun määräyksen tai kiellon, jos osoittautuu, että tuote tästä huolimatta aiheuttaa vakavan riskin ihmisten terveydelle, turvallisuudelle, ympäristölle, omaisuudelle tai muulle 1 §:n 1 momentissa mainituissa laeissa tarkoitetulle yleiselle edulle.",
+      "section_number": "16",
+      "chapter_number": 3,
+      "statute_id": "1134/2016"
+    },
+    {
+      "id": "51b3c902-c508-41bd-be56-2319ce52ea37",
+      "node_type": "Section",
+      "publisher": "finlex",
+      "title": "17 § Toimenpidemääräys",
+      "text": "Markkinavalvontaviranomainen voi määräämällään tavalla ja asettamassaan kohtuullisessa määräajassa määrätä talouden toimijan ryhtymään korjaaviin toimenpiteisiin tuotteen tai tuotetta koskevien asiakirjojen tai tuotetta koskevien tietojen saattamiseksi vaatimusten mukaiseksi, jos:",
+      "section_number": "17",
+      "chapter_number": 3,
+      "statute_id": "1134/2016"
+    },
+    {
+      "id": "10f2a40f-81cf-45d5-b7bd-84f1b388e513",
+      "node_type": "Section",
+      "publisher": "finlex",
+      "title": "18 § Kielto",
+      "text": "Markkinavalvontaviranomainen voi kieltää talouden toimijaa valmistamasta, saattamasta markkinoille, asettamasta saataville markkinoilla tai muuten luovuttamasta tuotetta, jos: Markkinavalvontaviranomainen voi 1 momentissa tarkoitetun kiellon lisäksi määrätä talouden toimijaa poistamaan tuote markkinoilta sekä määrätä muista tuotteen markkinoilla saataville asettamisen rajoittamiseksi tarvittavista toimenpiteistä.",
+      "section_number": "18",
+      "chapter_number": 3,
+      "statute_id": "1134/2016"
+    },
+    {
+      "id": "7764f507-cb18-4cb9-85da-835e5362218e",
+      "node_type": "Section",
+      "publisher": "finlex",
+      "title": "19 § Palautusmenettely",
+      "text": "Markkinavalvontaviranomainen voi määrätä talouden toimijan ottamaan markkinoilta ja loppukäyttäjältä takaisin tuotteen, joka aiheuttaa riskin ihmisten terveydelle, turvallisuudelle, ympäristölle, omaisuudelle tai muulle 1 §:n 1 momentissa mainituissa laeissa tarkoitetulle yleiselle edulle, sekä antamaan sen tilalle vastaava tai samankaltainen vaatimustenmukainen tuote taikka purkamaan kauppa, jos 17 §:ssä tarkoitettu määräys tai 18 §:ssä tarkoitettu kielto tai määräys ei ole riittävä. Jos 17 §:ssä tarkoitettu määräys tai 18 §:ssä tarkoitettu kielto tai määräys ei ole riittävä ja jos vaatimustenvastaisuus määräyksestä tai kiellosta huolimatta jatkuu, 1 momentissa tarkoitettu määräys voidaan antaa myös, jos tuotetta koskevat asiakirjat tai tiedot eivät ole vaatimusten mukaiset tai niitä ei pyynnöstä toimiteta markkinavalvontaviranomaiselle ja puutteet ovat olennaisia. Jos 1 momentissa tarkoitetun tuotteen aiheuttaman riskin torjumiseksi katsotaan riittäväksi, markkinavalvontaviranomainen voi loppukäyttäjän hallussa olevan tuotteen takaisin ottamisen sijasta määrätä talouden toimijan korjaamaan tai korjauttamaan tuote siten, että sen rakenteessa tai koostumuksessa olevasta viasta tai puutteesta taikka siitä annetuista totuudenvastaisista, harhaanjohtavista tai puutteellisista tiedoista aiheutuva riski poistuu.",
+      "section_number": "19",
+      "chapter_number": 3,
+      "statute_id": "1134/2016"
+    },
+    {
+      "id": "dafacfb0-765d-4d63-965b-78860de04a8e",
+      "node_type": "Section",
+      "publisher": "finlex",
+      "title": "20 § Kieltoa ja määräyksiä täydentävät määräykset",
+      "text": "Talouden toimijan on annettava markkinavalvontaviranomaiselle tämän määräämässä kohtuullisessa ajassa selvitys siitä, millä tavoin viranomaisen 17–19 tai 21–25 §:ssä tarkoitettu määräys tai kielto on pantu toimeen. Markkinavalvontaviranomainen voi määrätä talouden toimijan varmistamaan, että 1 momentissa tarkoitetun viranomaisen määräyksen tai kiellon johdosta tarvittavat toimenpiteet toteutetaan myös niille tuotteille, jotka toimija on saattanut markkinoille tai asettanut saataville markkinoilla muissa Euroopan unionin jäsenvaltioissa tai Euroopan talousalueella.",
+      "section_number": "20",
+      "chapter_number": 3,
+      "statute_id": "1134/2016"
+    },
+    {
+      "id": "fef13cda-d23b-4a04-9a55-2d15ebdf04f8",
+      "node_type": "Section",
+      "publisher": "finlex",
+      "title": "21 § Väliaikainen kielto",
+      "text": "Markkinavalvontaviranomainen voi määrätä 18 §:n 1 momentissa tarkoitetun kiellon väliaikaisena asian selvittämisen ajaksi, jos on ilmeistä, että tuote voi olla vaatimustenvastainen taikka tuote saattaa tavanomaisissa ja kohtuudella ennakoitavissa olevissa käyttöolosuhteissa aiheuttaa riskin ihmisten terveydelle, turvallisuudelle, ympäristölle, omaisuudelle tai muulle 1 §:n 1 momentissa mainituissa laeissa tarkoitetulle yleiselle edulle. Väliaikainen kielto on voimassa, kunnes markkinavalvontaviranomainen antaa asiassa lopullisen ratkaisunsa. Markkinavalvontaviranomaisen on ratkaistava asia kiireellisesti.",
+      "section_number": "21",
+      "chapter_number": 3,
+      "statute_id": "1134/2016"
+    },
+    {
+      "id": "982180a2-584f-45c7-979e-25bd8a556f37",
+      "node_type": "Section",
+      "publisher": "finlex",
+      "title": "22 § Tiedottamisesta määrääminen",
+      "text": "Jos markkinavalvontaviranomainen on antanut 17–21 tai 23–25 §:ssä tarkoitetun määräyksen tai kiellon taikka tuotteeseen tai sen käyttämiseen liittyy riski ihmisten terveydelle, turvallisuudelle, ympäristölle, omaisuudelle tai muulle 1 §:n 1 momentissa mainituissa laeissa tarkoitetulle yleiselle edulle, markkinavalvontaviranomainen voi velvoittaa talouden toimijan tiedottamaan asiasta määräajassa ja määräämällään tavalla. Lisäksi markkinavalvontaviranomainen voi käyttäjien turvallisuuden varmistamiseksi velvoittaa talouden toimijan toimittamaan loppukäyttäjille tarpeelliset tiedot ja ohjeet. Markkinavalvontaviranomainen voi talouden toimijan kustannuksella tiedottaa 1 momentissa tarkoitetuista asioista, jos toimija ei ole noudattanut viranomaisen antamaa tiedottamismääräystä tai jos asian kiireellisyyden vuoksi tiedottaminen on tarpeen ihmisten terveyteen tai turvallisuuteen kohdistuvan riskin johdosta.",
+      "section_number": "22",
+      "chapter_number": 3,
+      "statute_id": "1134/2016"
+    },
+    {
+      "id": "5f212cc0-c836-4520-853a-f958316e1729",
+      "node_type": "Section",
+      "publisher": "finlex",
+      "title": "23 § Maastaviennin kieltäminen",
+      "text": "Jos tuote on vaatimustenvastainen ja aiheuttaa vakavan riskin ihmisten terveydelle tai turvallisuudelle, markkinavalvontaviranomainen voi kieltää tuotteen maastaviennin tai kuljettamisen Suomen kautta. Markkinavalvontaviranomainen voi määrätä 1 momentissa tarkoitetun kiellon myös väliaikaisena asian selvittämisen ajaksi, jos on ilmeistä, että tuotteesta voi aiheutua välitöntä vaaraa ihmisten terveydelle tai turvallisuudelle, eikä vaaraa voida muutoin estää. Väliaikainen kielto on voimassa, kunnes markkinavalvontaviranomainen antaa asiassa lopullisen ratkaisunsa. Markkinavalvontaviranomaisen on ratkaistava asia kiireellisesti.",
+      "section_number": "23",
+      "chapter_number": 3,
+      "statute_id": "1134/2016"
+    },
+    {
+      "id": "9459597f-beca-4dab-9909-0c95928c0f7e",
+      "node_type": "Section",
+      "publisher": "finlex",
+      "title": "24 § Toimenpiteen teettäminen",
+      "text": "Jos on ilmeistä, että tuote on vaatimustenvastainen ja aiheuttaa vakavan riskin ihmisten terveydelle tai turvallisuudelle eikä riskiä voida muuten poistaa ja toimija ei ryhdy viranomaisen vaatimiin toimenpiteisiin, markkinavalvontaviranomaisella on oikeus teettää vaaran poistamiseksi välttämättömät toimenpiteet talouden toimijan kustannuksella.",
+      "section_number": "24",
+      "chapter_number": 3,
+      "statute_id": "1134/2016"
+    },
+    {
+      "id": "1bb40967-6555-4052-a09d-8109bec0f801",
+      "node_type": "Section",
+      "publisher": "finlex",
+      "title": "25 § Hävittämismääräys",
+      "text": "Jos 17–23 §:ssä tarkoitettuja määräyksiä ja kieltoja ei voida pitää riittävinä, markkinavalvontaviranomainen voi määrätä talouden toimijan tai Tullin hallussa olevan tuotteen ja 19 §:n nojalla talouden toimijalle palautetun tuotteen hävitettäväksi tai, jos tätä ei katsota tarkoituksenmukaiseksi, määrätä, miten tuotteen suhteen muutoin on meneteltävä.",
+      "section_number": "25",
+      "chapter_number": 3,
+      "statute_id": "1134/2016"
+    },
+    {
+      "id": "4081b339-8b31-403f-83ce-f68a3b8b31c2",
+      "node_type": "Section",
+      "publisher": "finlex",
+      "title": "26 § Markkinavalvontaviranomaisen ilmoitus ilmoitetulle laitokselle",
+      "text": "Markkinavalvontaviranomaisen on ilmoitettava asianomaiselle ilmoitetulle laitokselle talouden toimijaan kohdistetuista toimenpiteistä, jotka koskevat vaatimustenvastaista tuotetta.",
+      "section_number": "26",
+      "chapter_number": 3,
+      "statute_id": "1134/2016"
+    },
+    {
+      "id": "edf6a347-b5a7-4876-b85a-0078542eda33",
+      "node_type": "Section",
+      "publisher": "finlex",
+      "title": "27 § Ilmoittaminen Euroopan komissiolle",
+      "text": "Markkinavalvontaviranomaisen on viipymättä ilmoitettava 16–19 §:n nojalla tekemästään päätöksestä Euroopan komissiolle ja muille Euroopan unionin ja Euroopan talousalueen jäsenvaltioille, jos markkinavalvontaviranomainen katsoo, että tuotteen vaatimustenvastaisuus ei rajoitu vain Suomen alueelle. Kansallisiin toimenpiteisiin sovelletaan muutoin, mitä suojalauseke- ja suojamenettelystä säädetään Euroopan unionin lainsäädännössä, jolla yhdenmukaistetaan tuotteiden kaupan pitämisen ehtoja. Lisäksi on otettava huomioon, mitä viranomaisen velvollisuudesta ilmoittaa Euroopan komissiolle säädetään eräiden riskin aiheuttavien tuotteiden markkinavalvontaan liittyvien tietojen ilmoittamisesta Euroopan komissiolle annetussa laissa (1197/2009).",
+      "section_number": "27",
+      "chapter_number": 4,
+      "statute_id": "1134/2016"
+    },
+    {
+      "id": "24fed2e5-83ed-4f50-97c8-605df1438c7b",
+      "node_type": "Section",
+      "publisher": "finlex",
+      "title": "28 § Uhkasakko ja teettämisuhka",
+      "text": "Markkinavalvontaviranomainen voi tehostaa tämän lain nojalla antamaansa kieltoa tai määräystä uhkasakolla tai uhalla, että tekemättä jätetty toimenpide teetetään laiminlyöjän kustannuksella.",
+      "section_number": "28",
+      "chapter_number": 4,
+      "statute_id": "1134/2016"
+    },
+    {
+      "id": "e62210bd-0ef1-4a2c-9c6f-93f6fc974a82",
+      "node_type": "Section",
+      "publisher": "finlex",
+      "title": "29 § Muutoksenhaku",
+      "text": "Tässä laissa tarkoitettuun päätökseen saa hakea muutosta valittamalla hallinto-oikeuteen siten kuin hallintolainkäyttölaissa (586/1996) säädetään. Hallinto-oikeuden päätökseen saa hakea muutosta valittamalla vain, jos korkein hallinto-oikeus myöntää valitusluvan. Uhkasakon asettamista ja maksettavaksi tuomitsemista sekä teettämisuhan asettamista ja täytäntöön pantavaksi määräämistä koskevaan päätökseen saa kuitenkin hakea muutosta siten kuin uhkasakkolaissa (1113/1990) säädetään. Markkinavalvontaviranomaisen päätöstä on muutoksenhausta huolimatta noudatettava, jollei valitusviranomainen toisin määrää.",
+      "section_number": "29",
+      "chapter_number": 4,
+      "statute_id": "1134/2016"
+    },
+    {
+      "id": "7ea73bb5-4501-45ca-8690-e8516b4aeef3",
+      "node_type": "Section",
+      "publisher": "finlex",
+      "title": "30 § Tullin suoritteiden maksuperusteet ja maksujen periminen",
+      "text": "Tullin maksullisista julkisoikeudellisista suoritteista on voimassa, mitä niistä säädetään valtion maksuperustelain (150/1992) nojalla.",
+      "section_number": "30",
+      "chapter_number": 4,
+      "statute_id": "1134/2016"
+    },
+    {
+      "id": "c5d7e748-7f1c-4efe-b9ac-0a74763dab46",
+      "node_type": "Section",
+      "publisher": "finlex",
+      "title": "31 § Voimaantulo",
+      "text": "Tämä laki tulee voimaan 1 päivänä tammikuuta 2017. Lakia sovelletaan myös tuotteisiin, jotka on saatettu markkinoille ennen tämän lain voimaantuloa ja joiden sallitaan olevan markkinoilla 1 §:n 1 momentissa mainittujen lakien voimaan tullessa. Ennen tämän lain voimaantuloa vireille tulleet asiat käsitellään noudattaen lain voimaan tullessa voimassa olleita säännöksiä.",
+      "section_number": "31",
+      "chapter_number": 4,
+      "statute_id": "1134/2016"
+    }
+  ],
+  "clauses": [
+    {
+      "id": "ff2958e8-a660-4611-a654-2105dd8b068d",
+      "node_type": "Clause",
+      "publisher": "finlex",
+      "title": "§ 2 mom 1",
+      "text": "9)talouden toimijalla1 §:n 1 momentissa mainituissa laeissa tarkoitettuja talouden toimijoita;",
+      "clause_number": 1,
+      "section_number": "2",
+      "statute_id": "1134/2016"
+    },
+    {
+      "id": "80ee4559-93fe-4c41-8924-46bd03838800",
+      "node_type": "Clause",
+      "publisher": "finlex",
+      "title": "§ 2 mom 1",
+      "text": "11)vaatimustenvastaisella tuotteellatuotetta, joka ei täytä sille 1 §:n 1 momentissa mainituissa laeissa säädettyjä vaatimuksia;",
+      "clause_number": 1,
+      "section_number": "2",
+      "statute_id": "1134/2016"
+    },
+    {
+      "id": "3729722a-2954-4a4e-b46b-1366aeac09f6",
+      "node_type": "Clause",
+      "publisher": "finlex",
+      "title": "§ 13 mom 1",
+      "text": "1) syyttäjälle syyteharkintaa varten ja poliisille ja muille esitutkintaviranomaisille rikoksen ehkäisemiseksi tai selvittämiseksi;",
+      "clause_number": 1,
+      "section_number": "13",
+      "statute_id": "1134/2016"
+    },
+    {
+      "id": "477f5ab7-6ca8-4ba4-b74a-74c13d726b37",
+      "node_type": "Clause",
+      "publisher": "finlex",
+      "title": "§ 13 mom 2",
+      "text": "2) pelastusviranomaiselle sekä työsuojelu-, ympäristönsuojelu-, kuluttajansuoja- ja poliisiviranomaiselle tai muulle markkinavalvontaviranomaiselle, joka valvoo tuotelainsäädäntöä, jos tiedon luovuttaminen on välttämätöntä viranomaisen tehtävien suorittamisen kannalta taikka näiden suorittaessa laissa säädettyä valvontaa;",
+      "clause_number": 2,
+      "section_number": "13",
+      "statute_id": "1134/2016"
+    },
+    {
+      "id": "13a1393d-93c7-45d2-bd3d-8fae72ead03f",
+      "node_type": "Clause",
+      "publisher": "finlex",
+      "title": "§ 13 mom 3",
+      "text": "3) toimivaltaiselle ulkomaan viranomaiselle ja kansainväliselle toimielimelle Euroopan unionin säädökseen tai Suomea sitovaan kansainväliseen sopimukseen perustuvan velvoitteen toteuttamiseksi.",
+      "clause_number": 3,
+      "section_number": "13",
+      "statute_id": "1134/2016"
+    },
+    {
+      "id": "718e1ce8-8391-48bf-a937-b1785cd42368",
+      "node_type": "Clause",
+      "publisher": "finlex",
+      "title": "§ 17 mom 1",
+      "text": "1) tuote tai tuotetta koskevat asiakirjat tai tiedot eivät ole vaatimusten mukaiset tai niitä ei pyynnöstä toimiteta markkinavalvontaviranomaiselle; taikka",
+      "clause_number": 1,
+      "section_number": "17",
+      "statute_id": "1134/2016"
+    },
+    {
+      "id": "1a5592ca-61ae-4c0b-bbec-6295e748fb76",
+      "node_type": "Clause",
+      "publisher": "finlex",
+      "title": "§ 17 mom 1",
+      "text": "2) tuote saattaa tavanomaisissa ja kohtuudella ennakoitavissa olevissa käyttöolosuhteissa aiheuttaa riskin ihmisten terveydelle, turvallisuudelle, ympäristölle, omaisuudelle tai muulle 1 §:n 1 momentissa mainituissa laeissa tarkoitetulle yleiselle edulle.",
+      "clause_number": 1,
+      "section_number": "17",
+      "statute_id": "1134/2016"
+    },
+    {
+      "id": "62807d89-d729-4423-9647-9f4700b56a85",
+      "node_type": "Clause",
+      "publisher": "finlex",
+      "title": "§ 17 mom 2",
+      "text": "2) tuote saattaa tavanomaisissa ja kohtuudella ennakoitavissa olevissa käyttöolosuhteissa aiheuttaa riskin ihmisten terveydelle, turvallisuudelle, ympäristölle, omaisuudelle tai muulle 1 §:n 1 momentissa mainituissa laeissa tarkoitetulle yleiselle edulle.",
+      "clause_number": 2,
+      "section_number": "17",
+      "statute_id": "1134/2016"
+    },
+    {
+      "id": "d7a0194a-bbef-484e-951e-7fda029c0e44",
+      "node_type": "Clause",
+      "publisher": "finlex",
+      "title": "§ 18 mom 1",
+      "text": "1) talouden toimija ei 17 §:ssä tarkoitetusta määräyksestä huolimatta ryhdy korjaaviin toimenpiteisiin tai 17 §:ssä tarkoitettua määräystä ei voida pitää riittävänä;",
+      "clause_number": 1,
+      "section_number": "18",
+      "statute_id": "1134/2016"
+    },
+    {
+      "id": "59339a55-b083-45f4-a9db-4a8df34fc743",
+      "node_type": "Clause",
+      "publisher": "finlex",
+      "title": "§ 18 mom 2",
+      "text": "2) tuote tai tuotetta koskevat asiakirjat tai tiedot eivät ole vaatimusten mukaiset tai niitä ei pyynnöstä toimiteta markkinavalvontaviranomaiselle ja puutteet ovat olennaisia; tai",
+      "clause_number": 2,
+      "section_number": "18",
+      "statute_id": "1134/2016"
+    },
+    {
+      "id": "88440ce6-7cc7-44f7-9d06-c246c4e04985",
+      "node_type": "Clause",
+      "publisher": "finlex",
+      "title": "§ 18 mom 1",
+      "text": "3) tuote tai tuotetta koskevat asiakirjat tai tiedot eivät ole vaatimusten mukaiset ja tuote saattaa tavanomaisissa ja kohtuudella ennakoitavissa olevissa käyttöolosuhteissa aiheuttaa riskin ihmisten terveydelle, turvallisuudelle, ympäristölle, omaisuudelle tai muulle 1 §:n 1 momentissa mainituissa laeissa tarkoitetulle yleiselle edulle.",
+      "clause_number": 1,
+      "section_number": "18",
+      "statute_id": "1134/2016"
+    },
+    {
+      "id": "fbed6ce9-79a5-4432-bed3-71c7d5eaa555",
+      "node_type": "Clause",
+      "publisher": "finlex",
+      "title": "§ 18 mom 3",
+      "text": "3) tuote tai tuotetta koskevat asiakirjat tai tiedot eivät ole vaatimusten mukaiset ja tuote saattaa tavanomaisissa ja kohtuudella ennakoitavissa olevissa käyttöolosuhteissa aiheuttaa riskin ihmisten terveydelle, turvallisuudelle, ympäristölle, omaisuudelle tai muulle 1 §:n 1 momentissa mainituissa laeissa tarkoitetulle yleiselle edulle.",
+      "clause_number": 3,
+      "section_number": "18",
+      "statute_id": "1134/2016"
+    }
+  ],
+  "cross_references": [],
+  "raw_html_path": "C:\\Users\\danit\\finance-hack\\aalto-hackaton-2026\\data\\raw\\finlex\\Laki (säädöskokoelma)\\Laki eräiden tuotteiden markkinavalvonnasta.html"
+}

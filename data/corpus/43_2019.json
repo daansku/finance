@@ -1,0 +1,98 @@
+{
+  "statute": {
+    "id": "5883dbc3-f7e6-4138-90f9-b36b2fe9a24a",
+    "node_type": "Statute",
+    "publisher": "finlex",
+    "title": "Laki oikeudenkäymiskaaren 17 luvun 12 ja 24 §:n muuttamisesta",
+    "text": "Laki oikeudenkäymiskaaren 17 luvun 12 ja 24 §:n muuttamisesta",
+    "statute_id": "43/2019",
+    "finlex_url": "https://finlex.fi/fi/laki/ajantasa/43/2019"
+  },
+  "chapters": [
+    {
+      "id": "ee2727ae-4dc8-4f04-a766-d08f2fd1113c",
+      "node_type": "Chapter",
+      "publisher": "finlex",
+      "title": "Chapter 17",
+      "text": "17 luku Todistelusta",
+      "chapter_number": 17,
+      "statute_id": "43/2019"
+    }
+  ],
+  "sections": [
+    {
+      "id": "8cac0f7e-d358-4878-83dd-a80b39bd4400",
+      "node_type": "Section",
+      "publisher": "finlex",
+      "title": "12 §",
+      "text": "Syyttäjälaitoksesta annetun lain (32/2019) 23 §:n 1 momentissa tarkoitetulla henkilöllä sekä poliisin tai muun rikostorjunnasta huolehtivan viranomaisen henkilöstöön kuuluvalla on velvollisuus kieltäytyä todistamasta poliisilain 7 luvun 1 §:n 1 momentissa tarkoitetusta tiedosta. Syyttäjällä sekä poliisin tai muun rikostorjunnasta huolehtivan viranomaisen henkilöstöön kuuluvalla on oikeus kieltäytyä todistamasta poliisilain 7 luvun 3 §:n 1 momentissa tarkoitetusta tiedosta. Rikosseuraamuslaitoksen virkamiehellä on oikeus kieltäytyä todistamasta vankeuslain (767/2005) 19 luvun 10 §:n 1 momentissa tarkoitetusta tiedosta. Tuomioistuin voi kuitenkin velvoittaa henkilön todistamaan, jos:",
+      "section_number": "12",
+      "chapter_number": 17,
+      "statute_id": "43/2019"
+    },
+    {
+      "id": "d9cc5f24-58e3-4abb-ad9f-e3b8ef02b71b",
+      "node_type": "Section",
+      "publisher": "finlex",
+      "title": "24 §",
+      "text": "Seuraavien esitutkinnassa videotallenteeseen tai siihen rinnastettavaan muuhun kuva- ja äänitallenteeseen tallennettua kuulustelua voidaan kuitenkin käyttää todisteena, jos syytetylle on varattu asianmukainen mahdollisuus esittää kuulusteltavalle kysymyksiä: Tämä laki tulee voimaan 1 päivänä lokakuuta 2023.",
+      "section_number": "24",
+      "chapter_number": 17,
+      "statute_id": "43/2019"
+    }
+  ],
+  "clauses": [
+    {
+      "id": "f2a649f9-3e96-4d46-bffe-7c61a4703021",
+      "node_type": "Clause",
+      "publisher": "finlex",
+      "title": "§ 12 mom 1",
+      "text": "1) syyttäjä ajaa syytettä rikoksesta, josta säädetty ankarin rangaistus on vähintään kuusi vuotta vankeutta;",
+      "clause_number": 1,
+      "section_number": "12",
+      "statute_id": "43/2019"
+    },
+    {
+      "id": "4ea28117-d5d4-4460-b724-3a24fffb9a1c",
+      "node_type": "Clause",
+      "publisher": "finlex",
+      "title": "§ 12 mom 2",
+      "text": "2) tiedon ilmoittamatta jättäminen voisi loukata asianosaisen oikeutta puolustautua asianmukaisesti tai muuten asianmukaisesti valvoa oikeuttaan oikeudenkäynnissä; ja",
+      "clause_number": 2,
+      "section_number": "12",
+      "statute_id": "43/2019"
+    },
+    {
+      "id": "ca0acd23-98cc-4bce-96dd-2a61735671d9",
+      "node_type": "Clause",
+      "publisher": "finlex",
+      "title": "§ 12 mom 3",
+      "text": "3) luottamuksellisesti tietoja tai vihjetietoja antaneen henkilön taikka valeostajana tai peitetoiminnassa toimineen henkilöllisyyden ilmaiseminen ei ilmeisesti aiheuta vakavaa vaaraa hänen tai hänen läheistensä turvallisuudelle.",
+      "clause_number": 3,
+      "section_number": "12",
+      "statute_id": "43/2019"
+    },
+    {
+      "id": "581e381b-6e2a-4aa5-b3c6-4b19ca5ee69f",
+      "node_type": "Clause",
+      "publisher": "finlex",
+      "title": "§ 24 mom 3",
+      "text": "3) rikoslain 20 luvun 1–5 tai 8–16 §:ssä tarkoitetun seksuaalirikoksen tai rikoslain 25 luvun 3 tai 3 a §:ssä tarkoitetun ihmiskaupan tai törkeän ihmiskaupan 15–17-vuotias asianomistaja, joka ei halua tulla oikeudenkäyntiin kuultavaksi;",
+      "clause_number": 3,
+      "section_number": "24",
+      "statute_id": "43/2019"
+    },
+    {
+      "id": "47f8b825-fd29-479b-bccc-ca127e34c66f",
+      "node_type": "Clause",
+      "publisher": "finlex",
+      "title": "§ 24 mom 4",
+      "text": "4) rikoslain 20 luvun 1–5 tai 8–16 §:ssä tarkoitetun seksuaalirikoksen tai rikoslain 25 luvun 3 tai 3 a §:ssä tarkoitetun ihmiskaupan tai törkeän ihmiskaupan 18 vuotta täyttänyt asianomistaja, jos kuuleminen oikeudenkäynnissä vaarantaisi hänen terveytensä tai aiheuttaisi muuta vastaavaa merkittävää haittaa.",
+      "clause_number": 4,
+      "section_number": "24",
+      "statute_id": "43/2019"
+    }
+  ],
+  "cross_references": [],
+  "raw_html_path": "C:\\Users\\danit\\finance-hack\\aalto-hackaton-2026\\data\\raw\\finlex\\Laki\\Laki oikeudenkäymiskaaren 17 luvun 12 ja 24 §_n muuttamisesta.html"
+}

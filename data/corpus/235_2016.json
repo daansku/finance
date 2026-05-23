@@ -1,0 +1,968 @@
+{
+  "statute": {
+    "id": "6a144334-d159-4165-9ae5-aa138af21fae",
+    "node_type": "Statute",
+    "publisher": "finlex",
+    "title": "Laki Metsähallituksesta",
+    "text": "Laki Metsähallituksesta",
+    "statute_id": "235/2016",
+    "finlex_url": "https://finlex.fi/fi/laki/ajantasa/235/2016"
+  },
+  "chapters": [
+    {
+      "id": "b154d6af-b0f3-4af6-b55c-98a136245ce9",
+      "node_type": "Chapter",
+      "publisher": "finlex",
+      "title": "Chapter 1",
+      "text": "1 luku Yleiset säännökset",
+      "chapter_number": 1,
+      "statute_id": "235/2016"
+    },
+    {
+      "id": "63f9a593-3064-4274-8ee2-f50944f4c480",
+      "node_type": "Chapter",
+      "publisher": "finlex",
+      "title": "Chapter 2",
+      "text": "2 luku Metsähallituksen tehtävät",
+      "chapter_number": 2,
+      "statute_id": "235/2016"
+    },
+    {
+      "id": "b6d80dc7-7820-48a5-a9c2-94d613826b44",
+      "node_type": "Chapter",
+      "publisher": "finlex",
+      "title": "Chapter 3",
+      "text": "3 luku Toimintaa koskevat velvoitteet",
+      "chapter_number": 3,
+      "statute_id": "235/2016"
+    },
+    {
+      "id": "9cfc0c2d-725f-4e46-a75b-b76d39eb08a8",
+      "node_type": "Chapter",
+      "publisher": "finlex",
+      "title": "Chapter 4",
+      "text": "4 luku Metsähallituksen ohjaus",
+      "chapter_number": 4,
+      "statute_id": "235/2016"
+    },
+    {
+      "id": "2484144b-a36a-4c3d-b264-83c39f170fdb",
+      "node_type": "Chapter",
+      "publisher": "finlex",
+      "title": "Chapter 5",
+      "text": "5 luku Metsähallituksen organisaatio ja hallinto",
+      "chapter_number": 5,
+      "statute_id": "235/2016"
+    },
+    {
+      "id": "3ccfc62a-546f-4de5-aac0-a3c3408b3039",
+      "node_type": "Chapter",
+      "publisher": "finlex",
+      "title": "Chapter 6",
+      "text": "6 luku Julkisten hallintotehtävien hoito",
+      "chapter_number": 6,
+      "statute_id": "235/2016"
+    },
+    {
+      "id": "000578a7-045d-4daf-b95f-67480baa8fe4",
+      "node_type": "Chapter",
+      "publisher": "finlex",
+      "title": "Chapter 7",
+      "text": "7 luku Metsähallituksen talous",
+      "chapter_number": 7,
+      "statute_id": "235/2016"
+    },
+    {
+      "id": "a216d7f4-59b6-40fc-becc-724c416b6c5b",
+      "node_type": "Chapter",
+      "publisher": "finlex",
+      "title": "Chapter 8",
+      "text": "8 luku Metsähallituksen henkilöstö",
+      "chapter_number": 8,
+      "statute_id": "235/2016"
+    },
+    {
+      "id": "2db18921-69f3-4e18-a810-d57a09e3c08d",
+      "node_type": "Chapter",
+      "publisher": "finlex",
+      "title": "Chapter 9",
+      "text": "9 luku Metsähallituksen kirjanpito, tilinpäätös ja tilintarkastus",
+      "chapter_number": 9,
+      "statute_id": "235/2016"
+    },
+    {
+      "id": "6c0b72ab-bae0-47a6-8ee9-47e3690f932b",
+      "node_type": "Chapter",
+      "publisher": "finlex",
+      "title": "Chapter 10",
+      "text": "10 luku Erinäiset säännökset",
+      "chapter_number": 10,
+      "statute_id": "235/2016"
+    },
+    {
+      "id": "e1d0bb14-bd0d-4e0d-9f21-b046f5a79d32",
+      "node_type": "Chapter",
+      "publisher": "finlex",
+      "title": "Chapter 11",
+      "text": "11 luku Voimaantulo- ja siirtymäsäännökset",
+      "chapter_number": 11,
+      "statute_id": "235/2016"
+    }
+  ],
+  "sections": [
+    {
+      "id": "19913b23-a612-4bab-9ce6-65d822534928",
+      "node_type": "Section",
+      "publisher": "finlex",
+      "title": "1 § Lain tarkoitus",
+      "text": "Tässä laissa säädetään Metsähallituksesta. Metsähallitus on maa- ja metsätalousministeriön ohjauksessa ja sen hallinnonalalla toimiva valtion liikelaitos. Ympäristöministeriön ohjaustehtävistä säädetään 9 §:ssä. Metsähallituksen erävalvonnasta säädetään erikseen lailla.",
+      "section_number": "1",
+      "chapter_number": 1,
+      "statute_id": "235/2016"
+    },
+    {
+      "id": "434ae18e-24ca-4ae5-8290-8cbe943b6a48",
+      "node_type": "Section",
+      "publisher": "finlex",
+      "title": "2 § Metsähallituksen yleistehtävä",
+      "text": "Metsähallitus käyttää, hoitaa ja suojelee hallinnassaan olevaa valtion maa- ja vesiomaisuutta kestävästi. Metsähallituksen tulee toimia tuloksellisesti. Metsähallitus harjoittaa toimialallaan liiketoimintaa tässä laissa säädettyjen ja valtion talousarviossa täsmennettyjen yhteiskunnallisten velvoitteiden puitteissa ja hoitaa sille säädettyjä  julkisia hallintotehtäviä. Metsähallitus toimii liiketaloudellisten periaatteiden sekä eduskunnan sille hyväksymien palvelutavoitteiden ja muiden toimintatavoitteiden mukaisesti.",
+      "section_number": "2",
+      "chapter_number": 2,
+      "statute_id": "235/2016"
+    },
+    {
+      "id": "9b416721-5cb6-4eb5-b416-fa832dd54f6b",
+      "node_type": "Section",
+      "publisher": "finlex",
+      "title": "3 § Liiketoiminnan toimiala",
+      "text": "Metsähallituksen liiketoiminnan toimialana on sen hallintaan osoitetun valtion maa- ja vesiomaisuuden taloudellinen hyödyntäminen sekä maa- ja vesiomaisuuden hallintaan liittyvää liiketoimintaa harjoittavien tytär- ja osakkuusyhtiöiden osakkeiden hallinnointi. Tässä tarkoituksessa Metsähallitus: Metsähallitus saa lisäksi harjoittaa siemen- ja taimituotantoa sekä muuta sen toimialaan kuuluvaa maa- ja vesiomaisuuden taloudellista hyödyntämistä. Metsätaloutta Metsähallitus harjoittaa valtion metsätalousosakeyhtiöstä annetussa laissa (235/2016) tarkoitetussa osakeyhtiössä. Metsähallitus vastaa tytär- ja osakkuusyhtiöidensä omistajaohjauksesta siten kuin valtion yhtiöomistuksesta ja omistajaohjauksesta annetun lain (1368/2007) 6 §:ssä säädetään.",
+      "section_number": "3",
+      "chapter_number": 2,
+      "statute_id": "235/2016"
+    },
+    {
+      "id": "2583ba64-6ea5-4b49-998b-196d1c5a5a91",
+      "node_type": "Section",
+      "publisher": "finlex",
+      "title": "4 § Metsähallituskonserni",
+      "text": "Metsähallituksella voi olla sen liiketoimintaan tai sille osoitettujen julkisten hallintotehtävien hoitoon liittyvässä yhdessä tai useammassa kotimaisessa tai ulkomaisessa yrityksessä kirjanpitolain (1336/1997) 1 luvun 5 ja 6 §:ssä tarkoitettu määräysvalta. Yritykset, joissa Metsähallituksella on määräysvalta, ovat Metsähallituksen tytäryrityksiä. Metsähallitus ja sen tytäryritykset muodostavat Metsähallituskonsernin. Jos tytäryrityksen osakkeiden arvo on huomattava tai  Metsähallituksen  ja tytäryrityksen yhtiösuhdetta on muuten pidettävä merkittävänä, tytäryhtiöiden perustamiseen, tytäryrityksen osakkeiden hankintaan ja luovutukseen tarvitaan valtioneuvoston lupa. Valtioneuvoston lupa tarvitaan myös, jos on kysymys vastaavanlaisesta merkittävän osakkuuden tai jäsenyyden hankinnasta tai luovutuksesta muussa yrityksessä kuin tytäryrityksessä. Kiinteistövarallisuuden luovuttamisessa noudatetaan kuitenkin oikeudesta luovuttaa valtion kiinteistövarallisuutta annettua lakia (973/2002). Metsähallitus ja sen metsätalousliiketoimintaa harjoittava tytäryritys ovat toisiinsa nähden julkisista hankinnoista annetun lain (348/2007) 12 §:ssä tarkoitetussa suhteessa. Metsähallitus ja sen tytäryritys voivat ostaa suoraan toisiltaan palveluja. Metsähallitus ei saa antaa tytäryritykselleen konserniavustusta. Tarkempia säännöksiä Metsähallituksen tytäryritysten liiketoiminnan liittymisestä Metsähallituksen liiketoimintaan, tytäryritysten osakkeiden arvon huomattavuudesta sekä Metsähallituksen ja tytäryritysten yhtiösuhteen merkittävyydestä annetaan tarvittaessa valtioneuvoston asetuksella.",
+      "section_number": "4",
+      "chapter_number": 2,
+      "statute_id": "235/2016"
+    },
+    {
+      "id": "e504f624-a927-4594-b60b-d8dd9e418c27",
+      "node_type": "Section",
+      "publisher": "finlex",
+      "title": "5 § Julkiset hallintotehtävät",
+      "text": "Metsähallitus hoitaa ja käyttää sen hallinnassa julkisten hallintotehtävien hoitamista varten olevaa maa- ja vesiomaisuutta. Julkisten hallintotehtävien hoitoon tarkoitetulla valtion maa- ja vesiomaisuudella ei ole tuottovaatimusta. Metsähallitus hoitaa sille säädetyt julkiset hallintotehtävät, joita ovat: 1) luonnonsuojelulaissa (1096/1996) sekä sen ja vuoden 1923 luonnonsuojelulain (71/1923) nojalla perustettuja luonnonsuojelualueita koskeviin säädöksiin perustuvat tehtävät, muut luontotyyppien ja lajien suojeluun liittyvät tehtävät sekä luonnonsuojelualueiden hankinta; 2) luonnonsuojelualueverkoston hoito ja käyttö sekä Metsähallituksen julkisten hallintotehtävien hoitoon tarkoitettujen muiden maa- ja vesialueiden sekä muun omaisuuden hoito; 3) luonnon virkistyskäyttöön liittyvien luonto- ja retkeilypalvelujen tuottaminen sekä kulttuuriomaisuuden vaaliminen; 4) erämaalaissa (62/1991), kalastuslaissa (379/2015), kolttalaissa (253/1995), maastoliikennelaissa (1710/1995), metsästyslaissa (615/1993), vesienhoidon ja merenhoidon järjestämisestä annetussa laissa (1299/2004), pelastuslaissa (379/2011), poronhoitolaissa (848/1990), porotalouden ja luontaiselinkeinojen rakennetuista annetussa laissa (986/2011) ja ulkoilulaissa (606/1973) säädetyt tehtävät; 5) riista- ja kalataloudellisten hankkeiden toteuttaminen sekä metsästys- ja kalastuslupien myöntäminen; 6) Metsähallituksen erävalvonnasta annetussa laissa (1157/2005) tarkoitettu erävalvonta; 7) metsäpuiden siementen hankintaan ja varmuusvarastointiin liittyvät tehtävät.",
+      "section_number": "5",
+      "chapter_number": 2,
+      "statute_id": "235/2016"
+    },
+    {
+      "id": "d8d9d20d-594e-477a-919d-fdef9198fb8b",
+      "node_type": "Section",
+      "publisher": "finlex",
+      "title": "6 § Yleiset yhteiskunnalliset velvoitteet",
+      "text": "Luonnonvarojen kestävän hoidon ja käytön olennaisena osana Metsähallituksen on riittävästi otettava huomioon biologisen monimuotoisuuden suojelu ja tarkoituksenmukainen lisääminen metsien, meren ja muiden luonnonvarojen hoidolle, käytölle ja suojelulle asetettujen muiden tavoitteiden kanssa. Metsähallituksen on lisäksi otettava huomioon luonnon virkistyskäytön sekä työllisyyden edistämisen vaatimukset. Metsähallituksen hallinnassa olevien luonnonvarojen hoito, käyttö ja suojelu on sovitettava yhteen saamelaiskäräjistä annetussa laissa (974/1995) tarkoitetulla saamelaisten kotiseutualueella siten, että saamelaisten kulttuurin harjoittamisen edellytykset turvataan, sekä poronhoitolaissa tarkoitetulla poronhoitoalueella siten, että poronhoitolaissa säädetyt velvoitteet täytetään. Metsähallitus varautuu hoitamaan tehtäviään myös poikkeusoloissa noudattaen maa- ja metsätalousministeriön ja puolustuskiinteistöjen osalta puolustusministeriön määräyksiä. Metsähallitus noudattaa lisäksi puolustuskiinteistöjen ja niiden tilapalvelujen osalta puolustusministeriön turvallisuusmääräyksiä. Metsähallitus antaa pelastusviranomaisille asiantuntija-apua metsäpalojen torjunnassa ja varautuu omatoimisesti metsäpalojen ehkäisyyn ja torjuntaan hallinnassaan olevilla valtion mailla yhteistyössä pelastusviranomaisten kanssa. Yleisten yhteiskunnallisten velvoitteiden hoito otetaan huomioon Metsähallituksen tulostavoitetta asetettaessa.",
+      "section_number": "6",
+      "chapter_number": 3,
+      "statute_id": "235/2016"
+    },
+    {
+      "id": "c0a70d17-c314-4675-8889-074237fa29a6",
+      "node_type": "Section",
+      "publisher": "finlex",
+      "title": "7 § Muut yhteiskunnalliset velvoitteet",
+      "text": "Metsähallituksen toiminnassa otetaan huomioon tutkimuksen, opetuksen, puolustusvoimien ja rajavartiolaitoksen maankäytön tarpeet.",
+      "section_number": "7",
+      "chapter_number": 3,
+      "statute_id": "235/2016"
+    },
+    {
+      "id": "81bc5e7d-6c23-4946-b977-57925ad4c147",
+      "node_type": "Section",
+      "publisher": "finlex",
+      "title": "8 § Eduskunnan ja valtioneuvoston ohjaustoimivalta",
+      "text": "Valtion talousarvion käsittelyn yhteydessä eduskunta: Valtioneuvosto antaa tarvittaessa yleisiä määräyksiä Metsähallituksen toiminnasta ja taloudesta.",
+      "section_number": "8",
+      "chapter_number": 4,
+      "statute_id": "235/2016"
+    },
+    {
+      "id": "07ce5f90-890f-456e-bfe5-e5e538df8110",
+      "node_type": "Section",
+      "publisher": "finlex",
+      "title": "9 § Ministeriön ohjaustoimivalta",
+      "text": "Maa- ja metsätalousministeriö tulosohjaa Metsähallitusta. Ympäristöministeriö tulosohjaa Metsähallitusta julkisten hallintotehtävien osalta toimialallaan. Eduskunnan päätettyä valtion talousarviosta asianomainen ministeriö päättää Metsähallituksen palvelutavoitteista ja muista toimintatavoitteista, Metsähallituksen tulostavoitteesta ja tuloutustavoitteesta sekä tarvittaessa peruspääoman muutosta koskevan eduskunnan päätöksen toimeenpanosta. Tulostavoite on asetettava niin, että Metsähallitus voi saavuttaa 8 §:n 1 momentin 1 kohdassa tarkoitetut, liiketaloudellisesti kannattavat palvelutavoitteet ja muut toimintatavoitteet. Edellä 1 momentissa tarkoitettu ministeriö päättää 28 §:ssä tarkoitetun määrärahan käyttämisestä ja sen maksamisesta.",
+      "section_number": "9",
+      "chapter_number": 4,
+      "statute_id": "235/2016"
+    },
+    {
+      "id": "88a1da0a-a012-4675-ada1-5e483ed56533",
+      "node_type": "Section",
+      "publisher": "finlex",
+      "title": "10 § Metsähallituksen organisaatio",
+      "text": "Metsähallituksessa on hallitus ja toimitusjohtaja sekä erillinen julkisia hallintotehtäviä hoitava yksikkö. Metsähallituksessa on muita yksiköitä ja toimintoja sen mukaan, kuin työjärjestyksessä määrätään.",
+      "section_number": "10",
+      "chapter_number": 5,
+      "statute_id": "235/2016"
+    },
+    {
+      "id": "7ffe2702-5919-4053-b677-cffc9a422772",
+      "node_type": "Section",
+      "publisher": "finlex",
+      "title": "11 § Hallitus",
+      "text": "Metsähallituksella on hallitus, jossa on enintään kahdeksan jäsentä. Valtioneuvosto nimittää hallituksen jäsenet enintään kolmeksi vuodeksi kerrallaan ja määrää jäsenistä yhden puheenjohtajaksi ja yhden varapuheenjohtajaksi. Hallituksen jäsenen tulee olla kilpailutilanteen edellyttämällä tavalla riippumaton. Vähintään yhden hallituksen jäsenen tulee edustaa Metsähallituskonsernin henkilöstöä. Henkilöstöä edustavan jäsenen tulee olla Metsähallituksen tai sen tytäryhtiön palveluksessa. Metsähallituksen toimitusjohtaja ei voi toimia hallituksen jäsenenä. Hallituksen jäseneen sovelletaan, mitä osakeyhtiölain (624/2006) 6 luvun 4 §:ssä säädetään osakeyhtiön hallituksen jäsenen esteellisyydestä ja 10 §:n 1 momentissa kelpoisuudesta. Valtioneuvosto vapauttaa hallituksen tai sen jäsenen tehtävästään.",
+      "section_number": "11",
+      "chapter_number": 5,
+      "statute_id": "235/2016"
+    },
+    {
+      "id": "9fda2879-4c3d-44a7-ba30-4e2a79daa564",
+      "node_type": "Section",
+      "publisher": "finlex",
+      "title": "12 § Hallituksen tehtävät",
+      "text": "Hallitus ohjaa ja valvoo Metsähallituksen toimintaa. Hallitus huolehtii Metsähallituksen strategisesta johtamisesta, hallinnosta ja toiminnan asianmukaisesta järjestämisestä. Lisäksi hallitus huolehtii siitä, että Metsähallituksen kirjanpidon ja varainhoidon valvonta on asianmukaisesti järjestetty sekä erityisesti siitä, että Metsähallitus toimii eduskunnan ja muiden viranomaisten päätösten ja määräysten mukaisesti. Hallituksen tehtävänä on: Hallitus tai hallituksen jäsen ei saa noudattaa hallituksen tekemää päätöstä, joka on tämän lain tai sen nojalla annettujen säännösten vastaisena pätemätön. Hallituksen tehtävistä julkisten hallintotehtävien ohjauksessa ja valvonnassa säädetään 19 §:ssä.",
+      "section_number": "12",
+      "chapter_number": 5,
+      "statute_id": "235/2016"
+    },
+    {
+      "id": "062df854-258c-4c98-91ac-978406cf14b1",
+      "node_type": "Section",
+      "publisher": "finlex",
+      "title": "13 § Henkilöstön edustaja hallituksessa",
+      "text": "Hallituksessa Metsähallituskonsernin henkilöstöä edustavan jäsenen oikeudet ja velvollisuudet ovat samat kuin hallituksen muilla jäsenillä. Henkilöstöä edustavalla jäsenellä ei kuitenkaan ole oikeutta osallistua Metsähallituksen johdon valintaa tai erottamista, johdon sopimusehtoja, henkilöstön palvelussuhteen ehtoja tai työtaistelutoimenpiteitä koskevien asioiden käsittelyyn.",
+      "section_number": "13",
+      "chapter_number": 5,
+      "statute_id": "235/2016"
+    },
+    {
+      "id": "471d924f-9ed1-48dc-a733-20d62a8cbd75",
+      "node_type": "Section",
+      "publisher": "finlex",
+      "title": "14 § Toimitusjohtaja",
+      "text": "Metsähallituksessa on toimitusjohtaja, joka johtaa ja kehittää Metsähallituksen toimintaa, huolehtii Metsähallituksen juoksevasta hallinnosta sekä siitä, että kirjanpito on lainmukainen ja varainhoito luotettavalla tavalla järjestetty. Toimitusjohtajan on huolehdittava hallituksen päätösten toimeenpanosta ja noudatettava hallituksen määräyksiä sekä annettava hallitukselle tieto Metsähallituksen toiminnan kannalta merkittävistä toimenpiteistä ja tapahtumista. Toimitusjohtaja saa ryhtyä Metsähallituksen toiminnan laajuus ja laatu huomioon ottaen epätavallisiin tai laajakantoisiin toimiin vain, jos hallitus on hänet siihen valtuuttanut tai hallituksen päätöstä ei voida odottaa aiheuttamatta Metsähallituksen toiminnalle olennaista haittaa. Viimeksi mainitussa tapauksessa hallitukselle on mahdollisimman pian annettava tieto toimista. Mitä 11 §:n 3 momentissa säädetään hallituksen jäsenen esteellisyydestä ja kelpoisuudesta ja 12 §:n 3 momentissa velvollisuudesta olla noudattamatta pätemätöntä päätöstä, sovelletaan myös toimitusjohtajaan. Toimitusjohtajalla on pääjohtajan arvonimi.",
+      "section_number": "14",
+      "chapter_number": 5,
+      "statute_id": "235/2016"
+    },
+    {
+      "id": "473d196d-838d-45ff-ac7f-aa82c425c0c9",
+      "node_type": "Section",
+      "publisher": "finlex",
+      "title": "15 § Julkisia hallintotehtäviä hoitava yksikkö",
+      "text": "Metsähallituksessa sen tehtäväksi säädettyjä julkisia hallintotehtäviä hoitaa erillinen julkisten hallintotehtävien yksikkö, jonka päällikkönä toimii luontopalvelujohtaja.",
+      "section_number": "15",
+      "chapter_number": 5,
+      "statute_id": "235/2016"
+    },
+    {
+      "id": "07fdcfc1-b384-48a6-96c1-0a99c2e9b8b8",
+      "node_type": "Section",
+      "publisher": "finlex",
+      "title": "16 § Julkisia hallintotehtäviä hoitavan yksikön tehtävät",
+      "text": "Julkisia hallintotehtäviä hoitava yksikkö vastaa 5 §:ssä tarkoitettujen Metsähallituksen tehtäväksi säädettyjen julkisten hallintotehtävien hoitamisesta. Yksikkö valmistelee ja esittelee julkisten hallintotehtävien hoitoa koskevat asiat Metsähallituksen hallitukselle.",
+      "section_number": "16",
+      "chapter_number": 6,
+      "statute_id": "235/2016"
+    },
+    {
+      "id": "433318be-25df-4e40-949e-68d085ba05a5",
+      "node_type": "Section",
+      "publisher": "finlex",
+      "title": "17 § Luontopalvelujohtajan ja erätalousjohtajan tehtävät",
+      "text": "Luontopalvelujohtaja hoitaa ne julkisiin hallintotehtäviin liittyvät tehtävät, jotka eivät 2 momentin tai 12 tai 14 §:n mukaan kuulu hallitukselle, toimitusjohtajalle tai erätalousjohtajalle. Luontopalvelujohtaja hyväksyy ja allekirjoittaa hallituksen ohella 33 §:n 1 momentissa tarkoitetun erillisen tilinpäätöksen. Metsästystä, kalastusta ja erävalvontaa koskevat julkiset hallintotehtävät (eräasiat), jotka 1 momentin mukaan eivät kuulu hallitukselle tai toimitusjohtajalle, hoitaa kuitenkin julkisia hallintotehtäviä hoitavassa yksikössä erätalousjohtaja.",
+      "section_number": "17",
+      "chapter_number": 6,
+      "statute_id": "235/2016"
+    },
+    {
+      "id": "1aab5c7f-aefa-42ab-b8f3-80b0d2109c96",
+      "node_type": "Section",
+      "publisher": "finlex",
+      "title": "18 § Julkisten hallintotehtävien ratkaisuvalta",
+      "text": "Luontopalvelujohtaja ratkaisee 5 §:ssä tarkoitettuihin julkisiin hallintotehtäviin liittyvät hallintoasiat ja julkisia hallintotehtäviä hoitavaa yksikköä koskevat viranomaisasiat. Kalastukseen, metsästykseen ja erävalvontaan liittyvät asiat sekä mainittuja tehtäviä hoitavaa henkilöstöä koskevat asiat ratkaisee kuitenkin erätalousjohtaja. Maastoliikennelain 4 §:ssä, kalastuslain 5 §:ssä ja metsästyslain 6 §:ssä tarkoitetuille luville tai päätöksille Metsähallituksen hallinnassa olevan alueen käyttämisestä sanottujen lakien mukaiseen tarkoitukseen voidaan vahvistaa aluekohtaiset kiintiöt. Edellä 2 momentissa tarkoitettujen kiintiöiden puitteissa luontopalvelujohtaja voi siirtää maastoliikennelain 4 §:ssä ja erätalousjohtaja kalastuslain 5 §:ssä ja metsästyslain 6 §:ssä tarkoitettua yksittäistä lupaa koskevan päätöksen tekemisen Metsähallituksen virkamiehelle tai sellaiselle Metsähallituksen palveluksessa olevalle henkilölle tai ulkopuoliselle yhteisölle, joita riippumattomuuden, luotettavuuden, asiantuntemuksen ja muiden asian arvioinnissa huomioon otettavien seikkojen perusteella on pidettävä tehtävään sopivana. Metsähallituksen ja lupia myöntävän ulkopuolisen yhteisön toimintaan sovelletaan tältä osin, mitä hallintolaissa (434/2003), viranomaisten toiminnan julkisuudesta annetussa laissa (621/1999), kielilaissa (423/2003) ja saamen kielilaissa (1086/2003) säädetään sekä lisäksi, mitä rikoslaissa (39/1889) rikosoikeudellisesta virkavastuusta säädetään. Edellä 3 momentissa tarkoitettuja asioita koskeva yksittäinen lupa voidaan antaa myös koneellisesti sekä päätös voidaan tehdä ilman esittelyä. Luonnonsuojelualueen ja retkeilyalueen järjestyssäännön antamista sekä 2 momentissa säädettyä kiintiöiden vahvistamista lukuun ottamatta luontopalvelujohtaja ja erätalousjohtaja saavat kirjallisesti siirtää heille tämän pykälän mukaan kuuluvan ratkaisuvallan muulle julkisten hallintotehtävien yksikön virkamiehelle. Aluekohtaisten kiintiöiden vahvistamista koskeva päätös on saatettava tiedoksi yleistiedoksiantona noudattaen hallintolain 62 §:ää.",
+      "section_number": "18",
+      "chapter_number": 6,
+      "statute_id": "235/2016"
+    },
+    {
+      "id": "b5974f1c-cb5d-4a72-9ec8-3aaa217f47be",
+      "node_type": "Section",
+      "publisher": "finlex",
+      "title": "19 § Julkisten hallintotehtävien ohjaus ja valvonta",
+      "text": "Maa- ja metsätalousministeriö ja ympäristöministeriö ohjaavat ja valvovat toimialojensa osalta Metsähallitukselle kuuluvien julkisten hallintotehtävien hoitoa siten kuin virastojen ja laitosten toiminnan ohjauksesta ja valvonnasta erikseen säädetään. Edellä 1 momentissa tarkoitettujen ministeriöiden ohjauksen ja valvonnan puitteissa Metsähallituksen hallitus: Edellä 1 momentissa tarkoitettujen ministeriöiden ohjauksen ja valvonnan sekä hallituksen valvonnan puitteissa Metsähallituksen toimitusjohtaja vastaa Metsähallitukselle kuuluvien julkisten hallintotehtävien hoidon yleisestä johtamisesta ja kehittämisestä sekä huolehtii siitä, että  33 §:n 1 momentissa tarkoitettu erillinen kirjanpito on lainmukainen ja erillinen tilinpäätös on asianmukaisesti laadittu ja että julkisten hallintotehtävien hoitoa koskeva varainhoito on luotettavalla tavalla järjestetty.",
+      "section_number": "19",
+      "chapter_number": 6,
+      "statute_id": "235/2016"
+    },
+    {
+      "id": "d74da019-55a6-448d-958c-ce0a1f9077a5",
+      "node_type": "Section",
+      "publisher": "finlex",
+      "title": "20 § Vastuu julkisten hallintotehtävien hoidossa",
+      "text": "Metsähallituksen julkisen hallintotehtävän hoidossa aiheutuneen vahingon korvaamisesta on voimassa, mitä virkavastuulla aiheutuneen vahingon korvaamisesta erikseen säädetään.",
+      "section_number": "20",
+      "chapter_number": 6,
+      "statute_id": "235/2016"
+    },
+    {
+      "id": "dea5b554-ab9a-4d96-9e31-6dbfb30f7607",
+      "node_type": "Section",
+      "publisher": "finlex",
+      "title": "21 § Muutoksenhaku",
+      "text": "Muutoksenhausta luonnonsuojelulain nojalla tehtyyn Metsähallituksen päätökseen säädetään mainitussa laissa. Muuhun kuin 1 momentissa tai 18 §:n 3 momentissa tarkoitettuun yksittäistä lupaa koskevaan päätökseen saa hakea muutosta valittamalla hallinto-oikeuteen siten kuin hallintolainkäyttölaissa (586/1996) säädetään. Edellä 2 momentissa tarkoitettu päätös voidaan panna täytäntöön muutoksenhausta huolimatta. Muutoksenhakuviranomainen voi kuitenkin kieltää päätöksen täytäntöönpanon.",
+      "section_number": "21",
+      "chapter_number": 6,
+      "statute_id": "235/2016"
+    },
+    {
+      "id": "c1ee38f0-f059-4b3b-845e-c63af8521248",
+      "node_type": "Section",
+      "publisher": "finlex",
+      "title": "22 § Muutoksenhaku yksittäiseen lupapäätökseen",
+      "text": "Edellä 18 §:n 3 momentissa tarkoitettuun yksittäistä lupaa koskevaan päätökseen saa vaatia oikaisua Metsähallitukselta siten kuin hallintolaissa säädetään. Oikaisuvaatimukseen annettuun Metsähallituksen päätökseen saa hakea muutosta valittamalla hallinto-oikeuteen siten kuin hallintolainkäyttölaissa säädetään. Hallinto-oikeuden päätökseen  saa  hakea  muutosta  valittamalla vain, jos  korkein  hallinto-oikeus myöntää valitusluvan. Edellä 1 momentissa tarkoitettu yksittäistä lupaa koskeva päätös voidaan panna täytäntöön muutoksenhausta huolimatta. Muutoksenhakuviranomainen voi kuitenkin kieltää päätöksen täytäntöönpanon.",
+      "section_number": "22",
+      "chapter_number": 6,
+      "statute_id": "235/2016"
+    },
+    {
+      "id": "1d4ae8e4-edf6-423b-b245-2755e7f5a0f2",
+      "node_type": "Section",
+      "publisher": "finlex",
+      "title": "23 § Toimivaltainen hallinto-oikeus",
+      "text": "Toimivaltainen on se hallinto-oikeus, jonka tuomiopiirissä päätöksen kohteena oleva alue tai sen pääosa sijaitsee. Ellei tätä perustetta voida käyttää, toimivaltainen on se hallinto-oikeus, jonka tuomiopiirissä valittajalla on kotipaikka.",
+      "section_number": "23",
+      "chapter_number": 6,
+      "statute_id": "235/2016"
+    },
+    {
+      "id": "e71753c6-3e41-4ed4-bd38-9d72126e771d",
+      "node_type": "Section",
+      "publisher": "finlex",
+      "title": "24 § Julkisten hallintotehtävien hoitoon liittyvät maksut",
+      "text": "Metsähallituksen julkisiin hallintotehtäviin liittyvien suoritteiden maksujen määräämisestä, viivästyskorosta, maksujen perinnästä ja toimivallasta maksuista päätettäessä säädetään valtion maksuperustelaissa (150/1992). Julkiseen hallintotehtävään liittyvän suoritteen maksua koskevasta muutoksenhausta säädetään mainitun lain 11 b §:ssä. Edellä 1 momentissa säädetystä poiketen: Maksu Metsähallituksen julkisoikeudellisesta suoritteesta on suoraan ulosottokelpoinen. Sen perimisestä säädetään verojen ja maksujen täytäntöönpanosta annetussa laissa (706/2007).",
+      "section_number": "24",
+      "chapter_number": 6,
+      "statute_id": "235/2016"
+    },
+    {
+      "id": "3ab9532f-88e9-467b-a780-1922f33ae004",
+      "node_type": "Section",
+      "publisher": "finlex",
+      "title": "25 § Oma pääoma",
+      "text": "Metsähallituksella on oma pääoma, joka muodostuu peruspääomasta, muusta omasta pääomasta ja arvonkorotusrahastosta. Peruspääoma on liikelaitokseen sijoitettua voiton tuloutuksen perusteena olevaa pääomaa. Muu oma pääoma on Metsähallitukselle sen voitosta osoitettua pääomaa tai pääomaa, joka on siirretty sille muun oman pääoman ehdoin. Arvonkorotusrahasto osoittaa suoritetun käyttöomaisuuden arvon korotuksen määrän. Muu oma pääoma ja arvonkorotusrahasto voidaan siirtää peruspääomaan.",
+      "section_number": "25",
+      "chapter_number": 7,
+      "statute_id": "235/2016"
+    },
+    {
+      "id": "7c7e5cd1-ce1c-4804-ab14-a971240235fa",
+      "node_type": "Section",
+      "publisher": "finlex",
+      "title": "26 § Julkisten hallintotehtävien hoitoon tarkoitettu omaisuus",
+      "text": "Julkisia hallintotehtäviä varten Metsähallituksen hallinnassa on valtion omistamia luonnonsuojelualueita ja erämaa-alueita, muita suojelutarkoitukseen osoitettuja tai hankittuja alueita sekä muuta julkisten hallintotehtävien hoidon kannalta tarpeellista omaisuutta. Julkisten hallintotehtävien hoitoon tarkoitettu omaisuus kuuluu Metsähallituksen muuhun omaan pääomaan.",
+      "section_number": "26",
+      "chapter_number": 7,
+      "statute_id": "235/2016"
+    },
+    {
+      "id": "bb7498f7-f5ba-4b55-907f-ecaf9dd6d7ec",
+      "node_type": "Section",
+      "publisher": "finlex",
+      "title": "27 § Metsähallituksen lainat, vakuudet ja takaukset",
+      "text": "Metsähallitus saa ottaa toimintansa rahoittamiseksi lainaa eduskunnan valtion talousarvion käsittelyn yhteydessä antaman suostumuksen rajoissa. Metsähallituksella on oikeus liiketoiminnassaan käyttää ulkopuoliselle annettavaa vakuutta, jos vakuuden antamistarve perustuu lakiin tai kilpailutilanteessa noudatettuihin yleisesti hyväksyttyihin periaatteisiin. Eduskunta päättää valtion talousarvion käsittelyn yhteydessä vakuuksien enimmäismäärän. Metsähallitus ei saa myöntää takausta tai antaa panttia liiketoimintaa harjoittavan tytäryhtiön lainan maksamisen vakuudeksi. Metsähallituksen ottamista lainoista ja sen antamista takauksista peritään valtiolle valtion lainanannosta sekä valtiontakauksesta ja valtiontakuusta annetun lain (449/1988) mukainen takausmaksu. Valtioneuvoston asetuksella annetaan tarkempia säännöksiä 1 momentissa tarkoitetun lainan ottamisesta, lainanoton ehdoista ja lainan käyttötarkoituksista, liiketoiminnassa käytettävien vakuuksien käyttämisestä ja laadusta sekä 3 momentissa tarkoitetun maksun määräytymisestä ja perimisestä.",
+      "section_number": "27",
+      "chapter_number": 7,
+      "statute_id": "235/2016"
+    },
+    {
+      "id": "0cbe4454-fc5e-4c50-ae10-923b8839c253",
+      "node_type": "Section",
+      "publisher": "finlex",
+      "title": "28 § Julkisten hallintotehtävien rahoittaminen",
+      "text": "Metsähallituksen julkisten hallintotehtävien hoito rahoitetaan valtion talousarviossa erikseen osoitetuilla määrärahoilla sekä julkisten hallintotehtävien hoidosta saatavilla maksuilla ja tuotoilla. Julkisten hallintotehtävien hoitoa voidaan rahoittaa myös julkisella hankerahoituksella.",
+      "section_number": "28",
+      "chapter_number": 7,
+      "statute_id": "235/2016"
+    },
+    {
+      "id": "2702b00a-db70-4a79-ada3-5f415b34e558",
+      "node_type": "Section",
+      "publisher": "finlex",
+      "title": "29 § Henkilöstö",
+      "text": "Metsähallituksen henkilöstön pääasiallinen palvelussuhde on työsopimussuhde. Julkista valtaa sisältäviä tehtäviä hoitavien henkilöiden palvelussuhde on kuitenkin virkasuhde, jollei laissa toisin säädetä. Metsähallituksen virkamiehiin, virkoihin ja virkasuhteeseen sovelletaan valtion virkasuhdetta koskevia säännöksiä. Metsähallitusta koskevasta virkaehtosopimuksesta on voimassa, mitä valtion virkaehtosopimuslaissa (664/1970) on säädetty, lukuun ottamatta lain 3 §:n 3 momentin 2 ja 4 kohtia ja 4 momenttia, 4 §:n 2 ja 3 momenttia, 5 §:n 4 ja 5 momenttia ja 26 §:ää. Valtion virkaehtosopimuslakia sovelletaan Metsähallitukseen muutettuna siten, että: Mitä muussa laissa on säädetty valtion neuvotteluviranomaisen tai valtion viranomaisen oikeudesta tehdä virka- ja työehtosopimuksia taikka niihin verrattavia sopimuksia, koskee Metsähallituksen henkilöstön palvelussuhteen ehtojen osalta Metsähallitusta ja sääntöjensä mukaan 3 momentin 1 kohdassa tarkoitettua työnantajayhdistystä.",
+      "section_number": "29",
+      "chapter_number": 8,
+      "statute_id": "235/2016"
+    },
+    {
+      "id": "322e9eed-50b8-40be-8ecb-5a26666b5556",
+      "node_type": "Section",
+      "publisher": "finlex",
+      "title": "30 § Henkilöstön kelpoisuusvaatimukset",
+      "text": "Toimitusjohtajan kelpoisuusvaatimuksena on tehtävään soveltuva ylempi korkeakoulututkinto, liiketalouden ja Metsähallituksen tehtäväalan tuntemus sekä johtamiskokemus ja käytännössä osoitettu johtamistaito. Luontopalvelujohtajan ja erätalousjohtajan viran kelpoisuusvaatimuksena on soveltuva ylempi korkeakoulututkinto, perehtyneisyys viran tehtäväalaan sekä johtamiskokemus ja käytännössä osoitettu johtamistaito. Muiden kuin 1 ja 2 momentissa tarkoitettujen Metsähallituksen virkojen kelpoisuusvaatimuksena on aikaisemmalla toiminnalla osoitettu taito ja kyky, jota viran menestyksellinen hoitaminen edellyttää.",
+      "section_number": "30",
+      "chapter_number": 8,
+      "statute_id": "235/2016"
+    },
+    {
+      "id": "d801a021-7417-4e5e-bb72-004ec9caf948",
+      "node_type": "Section",
+      "publisher": "finlex",
+      "title": "31 § Henkilöstön nimittäminen",
+      "text": "Metsähallituksen toimitusjohtajan nimittää ja irtisanoo maa- ja metsätalousministeriön esittelystä valtioneuvosto. Toimitusjohtaja nimitetään enintään viiden vuoden määräajaksi. Ennen nimittämistä asiasta on pyydettävä ympäristöministeriön sekä Metsähallituksen lausunto. Maa- ja metsätalousministeriö myöntää toimitusjohtajalle eron. Jos toimitusjohtaja irtisanoutuu tai irtisanotaan, maa- ja metsätalousministeriö voi määrätä kelpoisuusvaatimukset täyttävän henkilön hoitamaan väliaikaisesti toimitusjohtajan tehtäviä siihen saakka kunnes toimitusjohtaja nimitetään. Luontopalvelujohtajan virkaan nimittää ja luontopalvelujohtajan irtisanoo valtioneuvosto ympäristöministeriön esittelystä. Luontopalvelujohtaja nimitetään enintään viiden vuoden määräajaksi. Ennen nimittämistä asiasta on pyydettävä maa- ja metsätalousministeriön sekä Metsähallituksen lausunto. Ympäristöministeriö myöntää luontopalvelujohtajalle eron. Erätalousjohtajan virkaan nimittää maa- ja metsätalousministeriö. Maa- ja metsätalousministeriö irtisanoo erätalousjohtajan ja myöntää tälle eron. Ennen nimittämistä asiasta on pyydettävä Metsähallituksen ja ympäristöministeriön lausunto.",
+      "section_number": "31",
+      "chapter_number": 8,
+      "statute_id": "235/2016"
+    },
+    {
+      "id": "52a51d89-e42a-424e-ac86-8a5c5617c081",
+      "node_type": "Section",
+      "publisher": "finlex",
+      "title": "32 § Henkilöstön osallistuminen",
+      "text": "Metsähallitus voi päättää, että siihen sovelletaan yhteistoiminnasta valtion virastoissa ja laitoksissa annetun lain (1233/2013) sijasta yhteistoiminnasta yrityksissä annettua lakia (334/2007). Konserniyhteistyössä Metsähallituskonsernissa noudatetaan soveltuvin osin, mitä yhteistoiminnasta suomalaisissa ja yhteisönlaajuisissa yritysryhmissä annetussa laissa (335/2007) säädetään. Jos Metsähallitukseen sovelletaan yhteistoiminnasta yrityksissä annettua lakia, se voi tehdä mainitun lain 61 §:ssä tarkoitetun sopimuksen.",
+      "section_number": "32",
+      "chapter_number": 8,
+      "statute_id": "235/2016"
+    },
+    {
+      "id": "fb55b5b2-577a-449c-9ff2-ba894b15a651",
+      "node_type": "Section",
+      "publisher": "finlex",
+      "title": "33 § Kirjanpito ja tilinpäätös",
+      "text": "Metsähallitus ja Metsähallituskonserni ovat kirjanpitovelvollisia. Jollei tästä laista muuta johdu, Metsähallituksen ja Metsähallituskonsernin kirjanpitoon ja tilinpäätökseen sovelletaan, mitä kirjanpitolaissa ja osakeyhtiölaissa säädetään osakeyhtiön kirjanpidosta ja tilinpäätöksestä. Edellä 5 §:ssä tarkoitetuista julkisten hallintotehtävistä hoidosta pidetään erillistä kirjanpitoa ja laaditaan erillinen tilinpäätös noudattaen valtion talousarviosta annettua lakia (423/1988) ja valtion talousarviosta annettua asetusta (1243/1992). Metsähallituksen ja Metsähallituskonsernin tilikausi on kalenterivuosi. Metsähallituksen on laadittava jokaiselta tilikaudelta tilinpäätös ja Metsähallituskonsernin konsernitilinpäätös helmikuun loppuun mennessä. Metsähallituksen hallitus ja toimitusjohtaja allekirjoittavat Metsähallituksen ja Metsähallituskonsernin tilinpäätöksen. Metsähallituksen ja Metsähallituskonsernin on toimitettava tilinpäätösasiakirjat maa- ja metsätalousministeriölle. Valtioneuvosto vahvistaa Metsähallituksen ja Metsähallituskonsernin tilinpäätöksen. Valtioneuvosto päättää tilinpäätöksen perusteella Metsähallituksen voiton tuloutuksesta valtion talousarvioon sekä muista toimenpiteistä, joihin Metsähallituksen toiminnan ja talouden johdosta on tarpeen ryhtyä. Valtioneuvoston asetuksella annetaan tarkempia säännöksiä tilinpäätöksen vahvistamisesta. Valtiokonttori voi tarvittaessa antaa määräyksiä ja ohjeita erillisestä kirjanpidosta ja tilinpäätöksestä sekä tietojen antamisesta hallituksen vuosikertomuksen kokoamista varten.",
+      "section_number": "33",
+      "chapter_number": 9,
+      "statute_id": "235/2016"
+    },
+    {
+      "id": "340e58f4-8fd2-444e-8e96-cd0b9c5d9e6d",
+      "node_type": "Section",
+      "publisher": "finlex",
+      "title": "34 § Metsähallituksen tase",
+      "text": "Metsähallituksen aloittaessa toimintansa valtioneuvosto päättää eduskunnan valtion talousarvion käsittelyn yhteydessä antaman valtuutuksen nojalla Metsähallituksen hallintaan siirrettävästä valtion omaisuudesta sekä siitä, mikä osa omaisuudesta merkitään Metsähallituksen peruspääomaksi, muuksi omaksi pääomaksi tai lainaehdoin annetuksi. Peruspääomaan kuuluva omaisuus arvioidaan käypään arvoonsa. Siirrettäessä toiminnassa olevan Metsähallituksen hallintaan omaisuutta tai siirrettäessä Metsähallituksen hallinnassa olevaa omaisuutta valtion talousarviotalouteen noudatetaan siirrosta päätettäessä ja tasetta muodostettaessa 1 momenttia. Valtioneuvosto päättää myös, mihin tarkoitukseen muuhun omaan pääomaan kuuluva omaisuus osoitetaan. Siirrettäessä Metsähallitukselle tai Metsähallitukselta valtion talousarviotalouteen kiinteistövarallisuutta maa- ja metsätalousministeriö päättää sellaisen yksittäisen kiinteistövarallisuuden kohteen tai kiinteistövarallisuuden kokonaisuuden siirrosta, jonka käypä arvo on enintään viisi miljoonaa euroa. Jos kysymys on luonnonsuojelun toteuttamiseen liittyvän kiinteistövarallisuuden siirrosta, asiasta päättää ympäristöministeriö. Valtioneuvosto päättää sellaisen yksittäisen kiinteistövarallisuuden kohteen tai kiinteistövarallisuuden kokonaisuuden siirrosta, jonka käypä arvo on enintään kymmenen miljoonaa euroa. Siirto merkitään liikelaitoksen muun oman pääoman lisäykseksi tai vähennykseksi taikka lainaehdoin annetuksi. Kiinteistövarallisuuden siirtoon Metsähallituksen ja toisen valtion liikelaitoksen välillä sovelletaan oikeudesta luovuttaa valtion kiinteistövarallisuutta annettua lakia. Metsähallituksen hallinnassa olevaa kiinteää omaisuutta, jonka käyttöoikeus on puolustusvoimilla tai rajavartiolaitoksella, ei saa luovuttaa maa- ja metsätalousministeriön tai Metsähallituksen päätöksellä ilman puolustusministeriön tai sisäministeriön suostumusta, ellei valtioneuvosto yksittäistapauksessa toisin päätä. Ennen 1—3 momentissa tarkoitetun päätöksen tekemistä Metsähallituksen tilintarkastajien on arvioitava omaisuus ja velvoitteet ja niiden arvo sekä annettava asiasta lausuntonsa.",
+      "section_number": "34",
+      "chapter_number": 9,
+      "statute_id": "235/2016"
+    },
+    {
+      "id": "dbc54bb8-3902-4090-aa35-c6aa4a0ab2b6",
+      "node_type": "Section",
+      "publisher": "finlex",
+      "title": "35 § Tilintarkastus",
+      "text": "Maa- ja metsätalousministeriö asettaa Metsähallituksen hallintoa, taloutta ja tilejä tarkastamaan kaksi tilintarkastajaa enintään neljäksi vuodeksi kerrallaan. Toisen tilintarkastajista tulee olla tilintarkastuslaissa (1141/2015) tarkoitettu JHT-tilintarkastaja tai tilintarkastusyhteisö, jonka päävastuullisen tilintarkastajan tulee olla JHT-tilintarkastaja ja toisen KHT-tilintarkastaja tai tilintarkastusyhteisö, jonka päävastuullisen tilintarkastajan tulee olla KHT-tilintarkastaja. Metsähallituksen tilintarkastajien on tarkastettava Metsähallituksen ja Metsähallituskonsernin tilikauden hallinto, kirjanpito ja tilinpäätös. Jos Metsähallituksella on Metsähallituskonserniin kuuluva tytäryritys, Metsähallituksen on huolehdittava siitä, että tytäryrityksen tilintarkastajaksi valitaan mahdollisuuksien mukaan vähintään yksi Metsähallituksen tilintarkastajista. Metsähallituksen tilintarkastajalla on oikeus toimittaa tytäryrityksen tarkastus siinä laajuudessa kuin hän katsoo tarpeelliseksi sekä saada tytäryrityksen hallitukselta ja toimitusjohtajalta pyytämänsä selvitykset ja apu. Tilintarkastuskertomuksessa on erityisesti lausuttava, onko Metsähallituksen: Metsähallituksen tilintarkastajan esteellisyydestä ja salassapitovelvollisuudesta on voimassa, mitä julkishallinnon ja -talouden tilintarkastuksesta annetussa laissa (1142/2015) säädetään. Valtiontalouden tarkastusvirasto tarkastaa Metsähallituksen ja Metsähallituskonsernin toimintaa.",
+      "section_number": "35",
+      "chapter_number": 9,
+      "statute_id": "235/2016"
+    },
+    {
+      "id": "459fb732-102c-40ac-9ea2-ae9b4cbb7da0",
+      "node_type": "Section",
+      "publisher": "finlex",
+      "title": "36 § Vahingonkorvausvelvollisuus",
+      "text": "Metsähallituksen hallituksen jäsen ja toimitusjohtaja on velvollinen korvaamaan vahingon, jonka hän on tehtävässään tahallisesti tai huolimattomuudesta aiheuttanut Metsähallitukselle siten kuin osakeyhtiölain 22 luvussa osakeyhtiön johtohenkilön vahingonkorvausvelvollisuudesta säädetään. Tilintarkastajan vahingonkorvausvelvollisuudesta säädetään julkishallinnon ja -talouden tilintarkastuksesta annetun lain 10 §:ssä. Edellä 1 momentissa tarkoitetun vahingon korvaamista koskevan kanteen nostamisesta Metsähallituksen lukuun päättää maa- ja metsätalousministeriö. Kanneoikeuden vanhentumiseen sovelletaan, mitä osakeyhtiölain 22 luvun 8 §:ssä säädetään.",
+      "section_number": "36",
+      "chapter_number": 10,
+      "statute_id": "235/2016"
+    },
+    {
+      "id": "592fbc3b-c0d6-4edc-bd2d-6d6f493a25fe",
+      "node_type": "Section",
+      "publisher": "finlex",
+      "title": "37 § Esiintyminen asianosaisena",
+      "text": "Metsähallitus kantaa ja vastaa valtion puolesta sekä valvoo tuomioistuimissa, viranomaisissa ja toimituksissa valtion etua ja oikeutta Metsähallitusta koskevissa asioissa.",
+      "section_number": "37",
+      "chapter_number": 10,
+      "statute_id": "235/2016"
+    },
+    {
+      "id": "8037c466-a364-4c8f-a6ed-ab1ebabb0474",
+      "node_type": "Section",
+      "publisher": "finlex",
+      "title": "38 § Eläkkeet ja muut etuudet sekä korvaukset",
+      "text": "Metsähallituksen henkilöstön eläkkeet ja muut henkilöstölle keskitetysti suoritettavat palvelussuhteesta johtuvat etuudet ja korvaukset samoin kuin palvelussuhteesta johtuvat henkilöstön omaisten perhe-eläkkeet maksetaan valtion varoista noudattaen mitä näistä etuuksista ja korvauksista erikseen säädetään. Toimitusjohtajan eläkeoikeus ja muut 1 momentissa tarkoitetut etuudet ja korvaukset määräytyvät samalla tavoin kuin Metsähallituksen henkilöstön vastaavat etuudet ja korvaukset. Edellä 1 ja 2 momentissa tarkoitetut etuudet ja korvaukset sekä niiden hoitamisesta valtion maksuperustelain mukaisesti määräytyvä maksu peritään Metsähallitukselta, jollei etuuksien, korvausten tai maksun perimisestä taikka etuuksien ja korvausten hoitamisesta syntyvien palvelujen hinnoittelusta muualla toisin säädetä.",
+      "section_number": "38",
+      "chapter_number": 10,
+      "statute_id": "235/2016"
+    },
+    {
+      "id": "e3e61716-f701-43bc-9e7a-9259fade8b38",
+      "node_type": "Section",
+      "publisher": "finlex",
+      "title": "39 § Neuvottelukunnat",
+      "text": "Metsähallituksen hallinnassa olevien valtion alueiden käyttöä koskevan päätöksenteon apuna paikallisen väestön aseman huomioon ottamiseksi ja toimintojen yhteensovittamisen edistämiseksi on maakunta- tai aluekohtaisia neuvottelukuntia. Saamelaisten kotiseutualueeseen kokonaisuudessaan kuuluvaan kuntaan asetetaan kuntakohtaiset neuvottelukunnat, joiden tehtävänä on käsitellä valtion maa- ja vesialueiden sekä niihin kuuluvien luonnonvarojen kestävää käyttöä ja hoitoa. Neuvottelukuntien tehtävistä, kokoonpanosta, toimikaudesta, asettamisesta ja niiden puheenjohtajien ja jäsenten palkkioista sekä kustannusten korvaamisesta annetaan tarkempia säännöksiä valtioneuvoston asetuksella.",
+      "section_number": "39",
+      "chapter_number": 10,
+      "statute_id": "235/2016"
+    },
+    {
+      "id": "82646bce-9df1-44d7-aeec-e785d6a9f96d",
+      "node_type": "Section",
+      "publisher": "finlex",
+      "title": "40 § Voimaantulo",
+      "text": "Tämä laki tulee voimaan 15 päivänä huhtikuuta 2016. Tällä lailla kumotaan Metsähallituksesta annettu laki (1378/2004), jäljempänäkumottu laki.",
+      "section_number": "40",
+      "chapter_number": 11,
+      "statute_id": "235/2016"
+    },
+    {
+      "id": "e0ccf351-8956-42ac-ab18-b1d60905efcf",
+      "node_type": "Section",
+      "publisher": "finlex",
+      "title": "41 § Määräajan sovellettavat asetukset",
+      "text": "Metsähallitukseen sovelletaan edelleen kuusi kuukautta tämän lain voimaantulosta seuraavia kumotun valtion liikelaitoksista annetun lain (1185/2002) nojalla annettuja asetuksia, jollei tämän lain nojalla annetulla valtioneuvoston asetuksella toisin säädetä:",
+      "section_number": "41",
+      "chapter_number": 11,
+      "statute_id": "235/2016"
+    },
+    {
+      "id": "3607c15a-595e-4a3f-a31b-3ef706b020e2",
+      "node_type": "Section",
+      "publisher": "finlex",
+      "title": "42 § Siirtymäsäännökset",
+      "text": "Metsähallitukselle laissa tai asetuksessa säädetyt tai niiden nojalla annetut tehtävät sekä sille kuuluvat oikeudet ja velvoitteet siirtyvät tämän lain mukaiselle Metsähallitukselle. Kumotun lain mukaan asetettu Metsähallituksen hallitus jatkaa tämän lain mukaisena Metsähallituksen hallituksena siihen saakka kunnes tämän lain mukainen hallitus on asetettu. Kumotussa laissa tarkoitettu Metsähallituksen toimitusjohtaja toimii Metsähallituksen väliaikaisena toimitusjohtajana siihen saakka kunnes valtioneuvosto nimittää tässä laissa tarkoitetun toimitusjohtajan. Kumotussa laissa tarkoitettu Metsähallituksen luontopalvelujohtaja toimii Metsähallituksen väliaikaisena luontopalvelujohtajana siihen saakka kunnes valtioneuvosto nimittää tässä laissa tarkoitetun luontopalvelujohtajan. Tämän lain tullessa voimaan Metsähallituksen erätalouspäällikkö siirtyy tässä laissa tarkoitetuksi erätalousjohtajaksi. Metsähallituksen virkasuhteessa olevaan henkilöstöön sovelletaan, mitä valtion virkamieslain (750/1994) 5 a—5 c §:ssä säädetään virkasuhteesta ja viroista. Metsähallituksen työsopimussuhteessa oleva henkilöstö siirtyy tämän lain voimaan tullessa tässä laissa tarkoitetun Metsähallituksen palvelukseen. Määräaikaisessa työsopimussuhteessa oleva henkilö siirtyy Metsähallituksen palvelukseen määräaikaisen työsuhteensa keston ajaksi. Siirtyvän henkilöstön palvelussuhteen katsotaan palvelussuhteeseen liittyvien etuuksien määräytymisen osalta jatkuneen valtiolla yhtäjaksoisena. Työsopimussuhteessa oleva henkilö voidaan siirtää ilman suostumustaan, jos hänet siirretään työssäkäyntialueellaan tai työssäkäyntialueelleen. Työssäkäyntialueella tarkoitetaan työttömyysturvalain (1290/2002) 1 luvun 9 §:n mukaista aluetta. Tässä laissa tarkoitettu Metsähallitus noudattaa sen perustamishetkellä voimassa olleen virkaehtosopimuksen ja työehtosopimusten määräyksiä, kuten työehtosopimuslain (436/1946) 5 §:ssä säädetään. Työsopimussuhteen ehtoihin sovelletaan muilta osin, mitä niistä työehtosopimuksissa sovitaan tai laissa säädetään. Ennen tämän lain voimaantuloa tapahtuneeseen tekoon tai laiminlyöntiin perustuvaan vahingonkorvaukseen sovelletaan tämän lain voimaan tullessa voimassa olleita säännöksiä.",
+      "section_number": "42",
+      "chapter_number": 11,
+      "statute_id": "235/2016"
+    },
+    {
+      "id": "46e96a6a-355c-42d6-bc92-19ba71526797",
+      "node_type": "Section",
+      "publisher": "finlex",
+      "title": "43 § Asetuksenantovaltuus",
+      "text": "Valtioneuvoston asetuksella voidaan antaa tarkempia säännöksiä Metsähallituksen ensimmäisestä tilikaudesta ja sitä koskevasta kirjanpidosta, tilinpäätöksestä ja toimintakertomuksesta, erillisestä kirjanpidosta ja erillisestä tilinpäätöksestä, hallituksen kokoonpanosta, tehtävistä, asettamisesta, päätösvallasta ja jäsenten kelpoisuudesta, toimitusjohtajasta sekä hallituksen jäsenten ja tilintarkastajien palkkioista.",
+      "section_number": "43",
+      "chapter_number": 11,
+      "statute_id": "235/2016"
+    }
+  ],
+  "clauses": [
+    {
+      "id": "48bd3858-6019-4a3a-b2cd-c7a60aba21d2",
+      "node_type": "Clause",
+      "publisher": "finlex",
+      "title": "§ 3 mom 1",
+      "text": "1) harjoittaa metsätaloutta ja toimittaa puutavaraa asiakkaille;",
+      "clause_number": 1,
+      "section_number": "3",
+      "statute_id": "235/2016"
+    },
+    {
+      "id": "8d6f4882-0215-443d-9ca9-8bbe43976d60",
+      "node_type": "Clause",
+      "publisher": "finlex",
+      "title": "§ 3 mom 2",
+      "text": "2) harjoittaa maa-ainesliiketoimintaa;",
+      "clause_number": 2,
+      "section_number": "3",
+      "statute_id": "235/2016"
+    },
+    {
+      "id": "a8ac3d5f-d56c-472d-9a70-832b27f2c46f",
+      "node_type": "Clause",
+      "publisher": "finlex",
+      "title": "§ 3 mom 3",
+      "text": "3) harjoittaa maa- ja vesialueita koskevaa vuokraus- ja myyntitoimintaa; ja",
+      "clause_number": 3,
+      "section_number": "3",
+      "statute_id": "235/2016"
+    },
+    {
+      "id": "cc3a4684-4052-49f5-a451-dcd8b3f1466e",
+      "node_type": "Clause",
+      "publisher": "finlex",
+      "title": "§ 3 mom 4",
+      "text": "4) harjoittaa maa- ja vesialueita koskevaa hanke- ja kehitystoimintaa.",
+      "clause_number": 4,
+      "section_number": "3",
+      "statute_id": "235/2016"
+    },
+    {
+      "id": "e7233949-c07c-48e0-bc09-c5f74332959f",
+      "node_type": "Clause",
+      "publisher": "finlex",
+      "title": "§ 8 mom 1",
+      "text": "1) hyväksyy Metsähallituksen keskeiset palvelutavoitteet ja muut toimintatavoitteet;",
+      "clause_number": 1,
+      "section_number": "8",
+      "statute_id": "235/2016"
+    },
+    {
+      "id": "922395bb-e83f-4e87-85d1-0e168c78bb36",
+      "node_type": "Clause",
+      "publisher": "finlex",
+      "title": "§ 8 mom 2",
+      "text": "2) hyväksyy Metsähallituksen peruspääoman korotuksen ja alennuksen sekä päättää määrärahan ottamisesta talousarvioon myönnettäväksi Metsähallituksen peruspääoman korottamiseen;",
+      "clause_number": 2,
+      "section_number": "8",
+      "statute_id": "235/2016"
+    },
+    {
+      "id": "96eb32de-052b-487c-b092-a43fdac14e7d",
+      "node_type": "Clause",
+      "publisher": "finlex",
+      "title": "§ 8 mom 3",
+      "text": "3) antaa Metsähallitukselle suostumuksen ottaa liiketoimintansa rahoittamiseksi lainaa;",
+      "clause_number": 3,
+      "section_number": "8",
+      "statute_id": "235/2016"
+    },
+    {
+      "id": "dca7e887-4335-45ac-b32c-def7dda8d045",
+      "node_type": "Clause",
+      "publisher": "finlex",
+      "title": "§ 8 mom 4",
+      "text": "4) hyväksyy Metsähallituksen liiketoiminnan osalta tilikauden investointien enimmäismäärän sekä valtuutuksen tehdä sellaisia investointeja koskevia sitoumuksia, joista aiheutuu menoja tätä myöhemmille tilikausille.",
+      "clause_number": 4,
+      "section_number": "8",
+      "statute_id": "235/2016"
+    },
+    {
+      "id": "c1a4a09c-f251-4b10-b6a3-e1494e0b1f10",
+      "node_type": "Clause",
+      "publisher": "finlex",
+      "title": "§ 12 mom 1",
+      "text": "1) tehdä esitys Metsähallitusta koskevaksi talousarvioehdotukseksi sekä siihen liittyvä esitys Metsähallituksen seuraavan vuoden palvelutavoitteiksi ja muiksi toimintatavoitteiksi sekä tulostavoitteeksi ja tuloutustavoitteeksi;",
+      "clause_number": 1,
+      "section_number": "12",
+      "statute_id": "235/2016"
+    },
+    {
+      "id": "0c5e19bd-db78-43f6-90a4-1f3b67d35164",
+      "node_type": "Clause",
+      "publisher": "finlex",
+      "title": "§ 12 mom 2",
+      "text": "2) päättää Metsähallituksen toiminnan kehittämisestä eduskunnan ja ministeriön asettamien toiminnallisten ja taloudellisten tavoitteiden rajoissa sekä seurata ja raportoida tavoitteiden saavuttamisesta;",
+      "clause_number": 2,
+      "section_number": "12",
+      "statute_id": "235/2016"
+    },
+    {
+      "id": "8c143dd1-6c4f-41a1-881a-f0722f9b0858",
+      "node_type": "Clause",
+      "publisher": "finlex",
+      "title": "§ 12 mom 3",
+      "text": "3) antaa lausunto toimitusjohtajan, luontopalvelujohtajan ja erätalousjohtajan nimittämisestä;",
+      "clause_number": 3,
+      "section_number": "12",
+      "statute_id": "235/2016"
+    },
+    {
+      "id": "5c30d61e-8119-4e2d-a493-0122ca3721df",
+      "node_type": "Clause",
+      "publisher": "finlex",
+      "title": "§ 12 mom 4",
+      "text": "4) päättää Metsähallituksen lainanotosta;",
+      "clause_number": 4,
+      "section_number": "12",
+      "statute_id": "235/2016"
+    },
+    {
+      "id": "77646075-b8df-47e8-9c1f-ddc0b86b4f32",
+      "node_type": "Clause",
+      "publisher": "finlex",
+      "title": "§ 12 mom 5",
+      "text": "5) päättää Metsähallituksen merkittävistä investoinneista ja muista pitkävaikutteisista menoista;",
+      "clause_number": 5,
+      "section_number": "12",
+      "statute_id": "235/2016"
+    },
+    {
+      "id": "d0321eea-7f36-4706-addb-a8504794190f",
+      "node_type": "Clause",
+      "publisher": "finlex",
+      "title": "§ 12 mom 6",
+      "text": "6) päättää Metsähallituksen hallitsemien osakkeiden osalta osakkeenomistajalle kuuluvien oikeuksien käyttämisestä Metsähallituskonserniin kuuluvan tytäryrityksen hallinnossa;",
+      "clause_number": 6,
+      "section_number": "12",
+      "statute_id": "235/2016"
+    },
+    {
+      "id": "751edef2-dae3-4d18-8a6a-4844567919d2",
+      "node_type": "Clause",
+      "publisher": "finlex",
+      "title": "§ 12 mom 7",
+      "text": "7) laatia Metsähallituksen ja Metsähallituskonsernin tilinpäätös ja toimintakertomus ja niihin liittyen tehdä esitys Metsähallituksen voittoa tai tappiota koskeviksi toimenpiteiksi sekä toimittaa tilinpäätös, toimintakertomus ja esitys valtioneuvoston vahvistettavaksi;",
+      "clause_number": 7,
+      "section_number": "12",
+      "statute_id": "235/2016"
+    },
+    {
+      "id": "cd12307e-8e04-47b5-82a6-ce5916a26f95",
+      "node_type": "Clause",
+      "publisher": "finlex",
+      "title": "§ 12 mom 8",
+      "text": "8) päättää Metsähallituksen nimen kirjoittamiseen oikeutetuista;",
+      "clause_number": 8,
+      "section_number": "12",
+      "statute_id": "235/2016"
+    },
+    {
+      "id": "121afc9e-ac5a-425a-b36e-bd7075034488",
+      "node_type": "Clause",
+      "publisher": "finlex",
+      "title": "§ 12 mom 9",
+      "text": "9) hyväksyä luonnonvarojen käyttöä koskevat alueelliset suunnitelmat;",
+      "clause_number": 9,
+      "section_number": "12",
+      "statute_id": "235/2016"
+    },
+    {
+      "id": "336cbc12-1565-4863-ae51-8fb5f4461c85",
+      "node_type": "Clause",
+      "publisher": "finlex",
+      "title": "§ 12 mom 10",
+      "text": "10) päättää kiinteistövarallisuuden hankintaa, sekä sen mukaan kuin oikeudesta luovuttaa valtion kiinteistövarallisuutta annetussa laissa säädetään, kiinteistövarallisuuden luovuttamista ja vuokraamista koskevan päätösvallan järjestämisestä Metsähallituksessa;",
+      "clause_number": 10,
+      "section_number": "12",
+      "statute_id": "235/2016"
+    },
+    {
+      "id": "332433e7-7dca-4087-9e13-f32f087d32c2",
+      "node_type": "Clause",
+      "publisher": "finlex",
+      "title": "§ 12 mom 11",
+      "text": "11) päättää liikelaitoksen johdon palkitsemisjärjestelmästä;",
+      "clause_number": 11,
+      "section_number": "12",
+      "statute_id": "235/2016"
+    },
+    {
+      "id": "989542ef-1bda-4cc6-b34d-74a1aec6b2b0",
+      "node_type": "Clause",
+      "publisher": "finlex",
+      "title": "§ 12 mom 12",
+      "text": "12) käsitellä ja ratkaista muut kuin 1—11 kohdassa tarkoitetut asiat, joilla on laajakantoinen tai tärkeä merkitys.",
+      "clause_number": 12,
+      "section_number": "12",
+      "statute_id": "235/2016"
+    },
+    {
+      "id": "ed75b65d-1d88-4f4d-b507-78edea37d583",
+      "node_type": "Clause",
+      "publisher": "finlex",
+      "title": "§ 19 mom 1",
+      "text": "1) huolehtii julkisten hallintotehtävien hoidon yleisestä ohjauksesta ja valvonnasta;",
+      "clause_number": 1,
+      "section_number": "19",
+      "statute_id": "235/2016"
+    },
+    {
+      "id": "2dae9684-b7f5-43a8-b50a-0fc0d97eb273",
+      "node_type": "Clause",
+      "publisher": "finlex",
+      "title": "§ 19 mom 2",
+      "text": "2) huolehtii siitä, että tehtävät hoidetaan eduskunnan ja muiden viranomaisten päätösten ja määräysten mukaisesti ja että julkisten hallintotehtävien kirjanpito ja varainhoidon valvonta on asianmukaisesti järjestetty;",
+      "clause_number": 2,
+      "section_number": "19",
+      "statute_id": "235/2016"
+    },
+    {
+      "id": "299db482-4335-4350-99e2-00c92ac4f980",
+      "node_type": "Clause",
+      "publisher": "finlex",
+      "title": "§ 19 mom 2",
+      "text": "3) julkisten hallintotehtävien yksikön esityksen saatuaan päättää asioista, joista säädetään 12 §:n 2 momentin 1, 2, 6—8, 10 ja 11 kohdassa.",
+      "clause_number": 2,
+      "section_number": "19",
+      "statute_id": "235/2016"
+    },
+    {
+      "id": "86281bf6-31c4-4a5c-a7c7-5ddb779fbc73",
+      "node_type": "Clause",
+      "publisher": "finlex",
+      "title": "§ 19 mom 3",
+      "text": "3) julkisten hallintotehtävien yksikön esityksen saatuaan päättää asioista, joista säädetään 12 §:n 2 momentin 1, 2, 6—8, 10 ja 11 kohdassa.",
+      "clause_number": 3,
+      "section_number": "19",
+      "statute_id": "235/2016"
+    },
+    {
+      "id": "011b37ed-e7b1-4ede-b4d5-8dc90e1b4b34",
+      "node_type": "Clause",
+      "publisher": "finlex",
+      "title": "§ 24 mom 1",
+      "text": "1) Kemin ja Tornion kaupunkien asukkailla on oikeus metsästää Metsähallituksen osoittamilla alueilla Metsähallituksen päättämillä ehdoilla omakustannusarvoa vastaavalla maksulla;",
+      "clause_number": 1,
+      "section_number": "24",
+      "statute_id": "235/2016"
+    },
+    {
+      "id": "e6df64f1-44e0-4900-859c-80cc849be5dd",
+      "node_type": "Clause",
+      "publisher": "finlex",
+      "title": "§ 24 mom 2",
+      "text": "2) kuntalaisella on oikeus käyttää kotikuntaansa kuuluvaa Metsähallituksen hallinnassa olevaa aluetta maastoliikennelain mukaiseen maastoliikenteeseen maksutta.",
+      "clause_number": 2,
+      "section_number": "24",
+      "statute_id": "235/2016"
+    },
+    {
+      "id": "b7cf4423-2234-4c05-89b8-3763a65fed3a",
+      "node_type": "Clause",
+      "publisher": "finlex",
+      "title": "§ 29 mom 3",
+      "text": "1) lain 3 §:n 3 momentin 1 kohdan sijasta Metsähallituksen virkaehtosopimuksen neuvottelu- ja sopimusosapuolena on työnantajan puolesta Metsähallitus tai sellainen rekisteröity yhdistys, jonka varsinaisiin tarkoituksiin kuuluu työnantajien etujen valvominen virkasuhteissa ja johon Metsähallitus yhdessä tai useammassa asteessa kuuluu;",
+      "clause_number": 3,
+      "section_number": "29",
+      "statute_id": "235/2016"
+    },
+    {
+      "id": "1a2df5d0-6a79-41d2-8da7-9e16c34d31fc",
+      "node_type": "Clause",
+      "publisher": "finlex",
+      "title": "§ 29 mom 1",
+      "text": "1) lain 3 §:n 3 momentin 1 kohdan sijasta Metsähallituksen virkaehtosopimuksen neuvottelu- ja sopimusosapuolena on työnantajan puolesta Metsähallitus tai sellainen rekisteröity yhdistys, jonka varsinaisiin tarkoituksiin kuuluu työnantajien etujen valvominen virkasuhteissa ja johon Metsähallitus yhdessä tai useammassa asteessa kuuluu;",
+      "clause_number": 1,
+      "section_number": "29",
+      "statute_id": "235/2016"
+    },
+    {
+      "id": "b3240228-b04b-45f5-a5c2-068fe1bd7aa4",
+      "node_type": "Clause",
+      "publisher": "finlex",
+      "title": "§ 29 mom 1",
+      "text": "2) lain 5 §:n 1 momentin 1 kohdan sijasta virkaehtosopimukseen ovat sidottuja Metsähallitus ja sopimuksen sen puolesta tehnyt työnantajayhdistys ja sen alayhdistykset;",
+      "clause_number": 1,
+      "section_number": "29",
+      "statute_id": "235/2016"
+    },
+    {
+      "id": "cb39fb68-ae15-4fbf-98ba-6056e4a169a0",
+      "node_type": "Clause",
+      "publisher": "finlex",
+      "title": "§ 29 mom 2",
+      "text": "2) lain 5 §:n 1 momentin 1 kohdan sijasta virkaehtosopimukseen ovat sidottuja Metsähallitus ja sopimuksen sen puolesta tehnyt työnantajayhdistys ja sen alayhdistykset;",
+      "clause_number": 2,
+      "section_number": "29",
+      "statute_id": "235/2016"
+    },
+    {
+      "id": "337ddecc-71fc-4045-bd39-8439c6c4e931",
+      "node_type": "Clause",
+      "publisher": "finlex",
+      "title": "§ 29 mom 2",
+      "text": "3) lain 5 §:n 2 momentin sijasta voi Metsähallitus määrätä virkamiestensä palvelussuhteen ehdoista virkaehtosopimuksessa sovittuja palvelussuhteen ehtoja huonommiksi määräämättä, mutta virkaehtosopimuksen muutoin estämättä;",
+      "clause_number": 2,
+      "section_number": "29",
+      "statute_id": "235/2016"
+    },
+    {
+      "id": "761cf0aa-e93c-47d4-b769-9202ad56cc67",
+      "node_type": "Clause",
+      "publisher": "finlex",
+      "title": "§ 29 mom 3",
+      "text": "3) lain 5 §:n 2 momentin sijasta voi Metsähallitus määrätä virkamiestensä palvelussuhteen ehdoista virkaehtosopimuksessa sovittuja palvelussuhteen ehtoja huonommiksi määräämättä, mutta virkaehtosopimuksen muutoin estämättä;",
+      "clause_number": 3,
+      "section_number": "29",
+      "statute_id": "235/2016"
+    },
+    {
+      "id": "0fe9abbf-34be-4d0c-a239-3e67fc055ce3",
+      "node_type": "Clause",
+      "publisher": "finlex",
+      "title": "§ 29 mom 2",
+      "text": "4) lain 6 §:n 2 momentissa tarkoitettu irtisanomisoikeus on myös edellä kohdassa 1 tarkoitetulla työnantajayhdistyksen alayhdistyksellä; ja",
+      "clause_number": 2,
+      "section_number": "29",
+      "statute_id": "235/2016"
+    },
+    {
+      "id": "4b396e0b-1795-4a49-ab6c-a43294b7020c",
+      "node_type": "Clause",
+      "publisher": "finlex",
+      "title": "§ 29 mom 4",
+      "text": "4) lain 6 §:n 2 momentissa tarkoitettu irtisanomisoikeus on myös edellä kohdassa 1 tarkoitetulla työnantajayhdistyksen alayhdistyksellä; ja",
+      "clause_number": 4,
+      "section_number": "29",
+      "statute_id": "235/2016"
+    },
+    {
+      "id": "e79fd971-7646-43c9-abb8-9771f6264a18",
+      "node_type": "Clause",
+      "publisher": "finlex",
+      "title": "§ 29 mom 3",
+      "text": "5) mitä lain 3 §:n 3 momentin 3 kohdassa, 5 §:n 6 ja 7 momentissa, 8 §:n 3 ja 4 momentissa, 12  ja 18 §:ssä, 19 §:n 2 momentissa ja 24 §:ssä säädetään valtiosta tai valtion neuvotteluviranomaisesta, koskee Metsähallitusta ja edellä 1 kohdassa tarkoitettua työnantajayhdistystä.",
+      "clause_number": 3,
+      "section_number": "29",
+      "statute_id": "235/2016"
+    },
+    {
+      "id": "816b6295-e853-4d2b-b981-ebe0b51688d1",
+      "node_type": "Clause",
+      "publisher": "finlex",
+      "title": "§ 29 mom 5",
+      "text": "5) mitä lain 3 §:n 3 momentin 3 kohdassa, 5 §:n 6 ja 7 momentissa, 8 §:n 3 ja 4 momentissa, 12  ja 18 §:ssä, 19 §:n 2 momentissa ja 24 §:ssä säädetään valtiosta tai valtion neuvotteluviranomaisesta, koskee Metsähallitusta ja edellä 1 kohdassa tarkoitettua työnantajayhdistystä.",
+      "clause_number": 5,
+      "section_number": "29",
+      "statute_id": "235/2016"
+    },
+    {
+      "id": "6a231723-cd42-4bac-8325-909bf71566ad",
+      "node_type": "Clause",
+      "publisher": "finlex",
+      "title": "§ 35 mom 1",
+      "text": "1) hallintoa hoidettu lain ja asetusten sekä eduskunnan, valtioneuvoston ja ministeriöiden päätösten sekä muiden ohjauspäätösten mukaisesti;",
+      "clause_number": 1,
+      "section_number": "35",
+      "statute_id": "235/2016"
+    },
+    {
+      "id": "e8f77707-b82c-4620-8a23-6aae1d06ef65",
+      "node_type": "Clause",
+      "publisher": "finlex",
+      "title": "§ 35 mom 2",
+      "text": "2) tilinpäätös ja konsernitilinpäätös laadittu tilinpäätöksen laatimista koskevien säännösten ja määräysten mukaisesti sekä antavatko tilinpäätös, konsernitilinpäätös ja toimintakertomus oikeat ja riittävät tiedot tilikauden toiminnasta, taloudesta, taloudellisesta kehityksestä ja taloudellisista vastuista;",
+      "clause_number": 2,
+      "section_number": "35",
+      "statute_id": "235/2016"
+    },
+    {
+      "id": "93ff7257-0712-4a55-abd8-7fe5511dced7",
+      "node_type": "Clause",
+      "publisher": "finlex",
+      "title": "§ 35 mom 3",
+      "text": "3) sisäinen valvonta ja tarkastus järjestetty asianmukaisesti.",
+      "clause_number": 3,
+      "section_number": "35",
+      "statute_id": "235/2016"
+    },
+    {
+      "id": "7f1b46e1-c8cc-4372-875e-4f11008d4503",
+      "node_type": "Clause",
+      "publisher": "finlex",
+      "title": "§ 41 mom 1",
+      "text": "1) valtion liikelaitosten lainanoton rajoista ja ehdoista annettu valtioneuvoston asetus (21/2003);",
+      "clause_number": 1,
+      "section_number": "41",
+      "statute_id": "235/2016"
+    },
+    {
+      "id": "08c8f490-6f9e-4c81-b63d-91fdbad0efe5",
+      "node_type": "Clause",
+      "publisher": "finlex",
+      "title": "§ 41 mom 2",
+      "text": "2) valtion liikelaitosten kirjanpidosta ja tilinpäätöksestä annettu valtioneuvoston asetus (160/2004); ja",
+      "clause_number": 2,
+      "section_number": "41",
+      "statute_id": "235/2016"
+    },
+    {
+      "id": "208f2613-caa6-4c3e-9734-3df081d504ce",
+      "node_type": "Clause",
+      "publisher": "finlex",
+      "title": "§ 41 mom 3",
+      "text": "3) valtion liikelaitosten muun toiminnan erillisestä kirjanpidosta ja erillisestä tilinpäätöksestä annettu valtioneuvoston asetus (1402/2004).",
+      "clause_number": 3,
+      "section_number": "41",
+      "statute_id": "235/2016"
+    }
+  ],
+  "cross_references": [],
+  "raw_html_path": "C:\\Users\\danit\\finance-hack\\aalto-hackaton-2026\\data\\raw\\finlex\\Laki (säädöskokoelma)\\Laki Metsähallituksesta_2.html"
+}

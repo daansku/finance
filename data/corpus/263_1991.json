@@ -1,0 +1,791 @@
+{
+  "statute": {
+    "id": "9f2fef3e-cb12-4f7a-b8dd-c2e39baceedc",
+    "node_type": "Statute",
+    "publisher": "finlex",
+    "title": "Laki kasvinterveyden suojelemisesta",
+    "text": "Laki kasvinterveyden suojelemisesta",
+    "statute_id": "263/1991",
+    "finlex_url": "https://finlex.fi/fi/laki/ajantasa/263/1991"
+  },
+  "chapters": [
+    {
+      "id": "e7ab4ce0-4f46-4044-a35e-1a7113791e65",
+      "node_type": "Chapter",
+      "publisher": "finlex",
+      "title": "Chapter 1",
+      "text": "1 luku Yleiset säännökset",
+      "chapter_number": 1,
+      "statute_id": "263/1991"
+    },
+    {
+      "id": "8e3c07f1-d0e2-436d-ba87-0c3a2a8ec4da",
+      "node_type": "Chapter",
+      "publisher": "finlex",
+      "title": "Chapter 2",
+      "text": "2 luku Toiminnan harjoittaminen",
+      "chapter_number": 2,
+      "statute_id": "263/1991"
+    },
+    {
+      "id": "11a635e1-c16d-40fe-9c0b-02c11611a0f6",
+      "node_type": "Chapter",
+      "publisher": "finlex",
+      "title": "Chapter 3",
+      "text": "3 luku Kasvintuhoojien torjumista ja leviämistä koskevat toimenpiteet",
+      "chapter_number": 3,
+      "statute_id": "263/1991"
+    },
+    {
+      "id": "1a792cb1-c860-4aca-9d28-147e07738e45",
+      "node_type": "Chapter",
+      "publisher": "finlex",
+      "title": "Chapter 4",
+      "text": "4 luku Viranomaiset",
+      "chapter_number": 4,
+      "statute_id": "263/1991"
+    },
+    {
+      "id": "463b9114-b62b-4c6e-8195-dd65d4ca87fa",
+      "node_type": "Chapter",
+      "publisher": "finlex",
+      "title": "Chapter 5",
+      "text": "5 luku Tarkastukset ja valvonta",
+      "chapter_number": 5,
+      "statute_id": "263/1991"
+    },
+    {
+      "id": "f41e7a13-d308-4fa1-935c-db80419c1895",
+      "node_type": "Chapter",
+      "publisher": "finlex",
+      "title": "Chapter 6",
+      "text": "6 luku Pakkokeinot ja seuraamukset",
+      "chapter_number": 6,
+      "statute_id": "263/1991"
+    },
+    {
+      "id": "c4be9ae4-7e41-4431-9299-7c60fa09a844",
+      "node_type": "Chapter",
+      "publisher": "finlex",
+      "title": "Chapter 7",
+      "text": "7 luku Vahingonkorvaukset",
+      "chapter_number": 7,
+      "statute_id": "263/1991"
+    },
+    {
+      "id": "fcdcdaf1-d9e2-407f-8613-91fd4102d86c",
+      "node_type": "Chapter",
+      "publisher": "finlex",
+      "title": "Chapter 8",
+      "text": "8 luku Erinäiset säännökset",
+      "chapter_number": 8,
+      "statute_id": "263/1991"
+    }
+  ],
+  "sections": [
+    {
+      "id": "8f2b88b4-604b-4f4c-815f-57a4c2d74a0f",
+      "node_type": "Section",
+      "publisher": "finlex",
+      "title": "1 § Tavoite",
+      "text": "Tämän lain tavoitteena on ylläpitää hyvää kasvinterveyden tilaa ja siten edistää maa-, metsä- ja puutarhatalouden ja elintarviketuotannon toimintaedellytyksiä sekä elintarvikkeiden turvallisuutta ja tuotteiden laatua.",
+      "section_number": "1",
+      "chapter_number": 1,
+      "statute_id": "263/1991"
+    },
+    {
+      "id": "ecb1d2f9-1f5e-462c-84cf-c2e97bb6091f",
+      "node_type": "Section",
+      "publisher": "finlex",
+      "title": "2 § Soveltamisala",
+      "text": "Tämä laki koskee toimenpiteitä, joilla pyritään säilyttämään hyvä kasvinterveyden tila ja joihin kasvintuhoojien torjumiseksi ja leviämisen estämiseksi voidaan ryhtyä. Sen lisäksi, mitä tässä laissa säädetään, sovelletaan metsässä kasvaviin puihin kohdistuvien hyönteis- ja sienituhojen torjumiseen, mitä metsän hyönteis- ja sienituhojen torjunnasta annetussa laissa (263/1991) säädetään. Maa- ja metsätalousministeriön asetuksella säädetään, ottaen huomioon Suomea sitovat kansainväliset sopimukset, mitä kasvintuhoojia 1 momentissa tarkoitetut toimenpiteet saavat koskea. Lakia voidaan lisäksi soveltaa myös uusien tai vaikutukseltaan ennalta arvaamattomien kasvintuhoojien tai muiden organismien, jotka aiheuttavat välitöntä uhkaa kasvinterveydelle, torjumiseen ja leviämisen estämiseen.",
+      "section_number": "2",
+      "chapter_number": 1,
+      "statute_id": "263/1991"
+    },
+    {
+      "id": "7cc95384-3c5e-4969-b0e5-ac8898a71017",
+      "node_type": "Section",
+      "publisher": "finlex",
+      "title": "3 § Määritelmät",
+      "text": "Tässä laissa tarkoitetaan:",
+      "section_number": "3",
+      "chapter_number": 1,
+      "statute_id": "263/1991"
+    },
+    {
+      "id": "8be93f20-5886-4bef-afea-ac0540ae3f20",
+      "node_type": "Section",
+      "publisher": "finlex",
+      "title": "4 § Rekisteröitymisvelvollisuus",
+      "text": "Kasveja, kasvituotteita ja muita tavaroita, joiden mukana kasvintuhooja voi helposti levitä, saa markkinoida, tuottaa markkinointia varten, varastoida ja maahantuoda vain sellainen toimija, joka on merkitty Kasvintuotannon tarkastuskeskuksen valvontaa varten pitämään rekisteriin (kasvinsuojelurekisteri). Rekisteröitymisvelvollisuus ei kuitenkaan koske paikallismarkkinoijaa eikä sitä, joka satunnaisesti tuo maahan omaan käyttöönsä vain pieniä määriä tällaisia kasveja, kasvituotteita tai muita tavaroita. Maa- ja metsätalousministeriön asetuksella säädetään sen mukaan kuin kasvinterveyttä koskevissa Euroopan yhteisön säännöksissä säädetään, ne kasvit, kasvituotteet ja muut tavarat, joita rekisteröintivaatimus koskee. Rekisteröinnin edellytykset täyttävällä toimijalla on oikeus tulla rekisteröidyksi. Rekisteriin merkitsemisen edellytyksenä on, että: Rekisteröintiä haetaan Kasvintuotannon tarkastuskeskukselle osoitetulla hakemuksella, joka toimitetaan työvoima- ja elinkeinokeskukselle. Päätöksen rekisteröinnistä tekee työvoima- ja elinkeinokeskus. Maa- ja metsätalousministeriön asetuksella voidaan antaa tarkempia säännöksiä rekisteröintiä koskevasta hakemusmenettelystä.",
+      "section_number": "4",
+      "chapter_number": 2,
+      "statute_id": "263/1991"
+    },
+    {
+      "id": "20890223-e70f-44d3-b055-f093ecb537a7",
+      "node_type": "Section",
+      "publisher": "finlex",
+      "title": "5 § Rekisteritiedot",
+      "text": "Rekisteriin merkitään seuraavat tiedot: Tiedot poistetaan rekisteristä kolmen vuoden kuluessa siitä, kun toimija on ilmoittanut Kasvintuotannon tarkastuskeskukselle toimintansa lopettamisesta. Jos toimijalle on annettu kasvintuhoojan esiintymisen vuoksi torjuntapäätös, tietoja on kuitenkin säilytettävä niin kauan kuin torjuntapäätös on voimassa. Henkilötietojen keräämiseen ja tallettamiseen sekä rekisteriin tallennettujen tietojen käyttämiseen ja luovuttamiseen sovelletaan muutoin, mitä henkilötietolaissa (523/1999) ja viranomaisten toiminnan julkisuudesta annetussa laissa (621/1999) säädetään.",
+      "section_number": "5",
+      "chapter_number": 2,
+      "statute_id": "263/1991"
+    },
+    {
+      "id": "db5df56c-6513-49e0-a30d-2645019061f6",
+      "node_type": "Section",
+      "publisher": "finlex",
+      "title": "6 § Markkinointi",
+      "text": "Tiettyjä kasveja, kasvituotteita ja muita tavaroita, joiden mukana kasvintuhooja voi helposti levitä, saadaan, paikallismarkkinointia lukuun ottamatta, markkinoida vain kasvipassilla tai muulla tavaran kasvinterveydestä annetulla todistuksella varustettuna. Jokaisella markkinoitavalla tavaraerällä on oltava jossakin Euroopan unionin jäsenvaltiossa myönnetty kasvipassi tai muu todistus. Kasvipassin käyttöoikeuden antaa Kasvintuotannon tarkastuskeskus tai työvoima- ja elinkeinokeskuksen maaseutuosasto hakemuksesta toimijalle, jonka toiminta on Kasvintuotannon tarkastuskeskuksen virallisessa valvonnassa, jos toiminta, jolle haetaan kasvipassin käyttöoikeutta tavaran markkinoinnissa, täyttää kyseiseltä toiminnalta vaadittavat kasvinterveysmääräykset. Muun 1 momentissa tarkoitetun todistuksen antaa Kasvintuotannon tarkastuskeskus tavaralle tai toiminnalle, joka täyttää kyseiseltä tavaralta tai toiminnalta todistuksen saamiseksi vaaditut kasvinterveysmääräykset. Maa- ja metsätalousministeriön asetuksella säädetään sen mukaan kuin kasvinterveyttä koskevissa Euroopan yhteisön säännöksissä säädetään, mitä kasveja, kasvituotteita ja muita tavaroita, joiden mukana kasvintuhooja voi helposti levitä, tämä velvollisuus koskee, mitä todistusta kunkin tällaisen tavaran markkinoinnissa tulee käyttää ja mitä kasvinterveysvaatimuksia toiminnalta kasvipassin käyttöoikeuden tai muun todistuksen myöntämiseksi tällaisille tavaroille edellytetään.",
+      "section_number": "6",
+      "chapter_number": 2,
+      "statute_id": "263/1991"
+    },
+    {
+      "id": "5a524c26-4210-43ba-b667-42d15b47078f",
+      "node_type": "Section",
+      "publisher": "finlex",
+      "title": "7 § Maahantuonti ja maastavienti",
+      "text": "Tiettyjä kasveja, kasvituotteita ja muita tavaroita, joiden mukana kasvintuhooja voi helposti levitä, saadaan tuoda maahan vain kasvinterveystodistuksella tai muulla tavaran kasvinterveydestä annetulla todistuksella varustettuna. Jokaisella maahantuotavalla tavaraerällä on oltava oma kasvinterveystodistus tai muu todistus. Maahantuojan on ennen kasvinterveystodistuksella varustetun tavaran maahantuontia tehtävä maahantuonnista ilmoitus Kasvintuotannon tarkastuskeskukselle. Maa- ja metsätalousministeriön asetuksella voidaan säätää sen mukaan kuin Euroopan yhteisön kasvinterveyttä koskevissa säännöksissä säädetään, mitä asioita maahantuojan tulee ilmoituksessa mainita. Maa- ja metsätalousministeriön asetuksella säädetään maahantuonnissa noudatettavasta menettelystä ja niistä tullitoimipaikoista ja rajanylityspaikoista, joiden kautta tässä pykälässä tarkoitettujen tavaroiden maahantuonti on sallittu. Kasvintuotannon tarkastuskeskus tai työvoima- ja elinkeinokeskuksen maaseutuosasto antaa kasvinterveystodistuksen tai muun 1 momentissa tarkoitetun todistuksen Suomesta vietävälle tavaralle, jolta viennin kohdevaltio edellyttää tällaisella todistuksella varustamista, jos tavara täyttää viennin kohdevaltion kyseisen tavaran tuonnille asettamat kasvinterveyssäännökset. Maa- ja metsätalousministeriön asetuksella säädetään sen mukaan kuin kasvinterveyttä koskevissa Euroopan yhteisön säännöksissä säädetään, mitä kasveja, kasvituotteita ja muita tavaroita, joiden mukana kasvintuhooja voi helposti levitä, 1 ja 2 momentissa säädetty velvollisuus koskee ja mitä tässä pykälässä tarkoitettua todistusta niiden maahantuonnissa tulee käyttää.",
+      "section_number": "7",
+      "chapter_number": 2,
+      "statute_id": "263/1991"
+    },
+    {
+      "id": "e8400e18-9aba-4769-9c07-46b24299f6c1",
+      "node_type": "Section",
+      "publisher": "finlex",
+      "title": "8 § Velvollisuus tiedoston pitämiseen",
+      "text": "Toimijan on pidettävä toiminnastaan tiedostoa, josta tarvittaessa voidaan vaikeuksitta selvittää 4 §:n 3 momentissa tarkoitetut ja muut valvontaa varten tarpeelliset tiedot. Maa- ja metsätalousministeriön asetuksella voidaan antaa tarkemmat säännökset tiedoston sisällöstä ja järjestämisestä.",
+      "section_number": "8",
+      "chapter_number": 2,
+      "statute_id": "263/1991"
+    },
+    {
+      "id": "06b53999-642e-4db4-90e1-34ac9bc8c64e",
+      "node_type": "Section",
+      "publisher": "finlex",
+      "title": "9 § Ilmoitusvelvollisuus toiminnassa tapahtuvista muutoksista",
+      "text": "Toimijan on tehtävä toimintansa lopettamisesta ja toiminnassa tapahtuvista olennaisista muutoksista Kasvintuotannon tarkastuskeskukselle osoitettu kirjallinen ilmoitus, joka toimitetaan työvoima- ja elinkeinokeskukselle.",
+      "section_number": "9",
+      "chapter_number": 2,
+      "statute_id": "263/1991"
+    },
+    {
+      "id": "5c021bee-81b3-4873-b9d4-03c764e22217",
+      "node_type": "Section",
+      "publisher": "finlex",
+      "title": "10 § Ilmoittamisvelvollisuus",
+      "text": "Joka tietää tai epäilee 2 §:n 3 momentin nojalla säädetyssä asetuksessa tarkoitettua kasvintuhoojaa esiintyvän omistamallaan tai hallinnassaan olevalla kiinteistöllä, kiinteistön osalla, viljelmällä, tavaravarastossa, kuljetusvälineessä tai rakennuksessa, on velvollinen viipymättä ilmoittamaan siitä asianomaiselle työvoima- ja elinkeinokeskukselle tai Kasvintuotannon tarkastuskeskukselle. Sama koskee viranomaista, joka toiminnassaan havaitsee tällaisen kasvintuhoojan esiintymisen. Työvoima- ja elinkeinokeskuksen on ilmoitettava kasvintuhoojan esiintymisestä Kasvintuotannon tarkastuskeskukselle.",
+      "section_number": "10",
+      "chapter_number": 3,
+      "statute_id": "263/1991"
+    },
+    {
+      "id": "e32a8728-4406-40ee-9d86-47437ee4aeeb",
+      "node_type": "Section",
+      "publisher": "finlex",
+      "title": "11 § Kasvintuhoojien torjunta",
+      "text": "Kasvintuhoojien torjumiseksi tai niiden leviämisen estämiseksi voidaan: Tarkempia säännöksiä 1 momentissa tarkoitetuista toimenpiteistä, määräyksistä, kielloista, ehdoista ja rajoituksista annetaan maa- ja metsätalousministeriön asetuksella sen mukaan kuin kasvinterveyttä koskevassa Euroopan yhteisön lainsäädännössä säädetään. Asetus voi koskea kaikkia kasvintuhoojia tai vain tiettyjä kasvintuhoojia. Kasvintuotannon tarkastuskeskus tai työvoima- ja elinkeinokeskus tekee 2 momentissa tarkoitetun asetuksen nojalla toimijakohtaisen torjuntapäätöksen. Torjuntapäätös voidaan tehdä myös asianosaista kuulematta, jos asian ratkaisemista ei voi lykätä ilman kasvinterveydelle aiheutuvaa merkittävää vaaraa ja asianosaisen kuuleminen ei ole viivytyksettä mahdollista. Jos on erityistä syytä epäillä asetuksessa tarkoitetun kasvintuhoojan esiintymistä, Kasvintuotannon tarkastuskeskus voi ryhtyä 6 kohdassa tarkoitettuihin toimenpiteisiin jo ennen kasvintuhoojan esiintymisen varmistumista. Maa- ja metsätalousministeriö voi lisäksi antaa Kasvintuotannon tarkastuskeskukselle luvan ryhtyä 1 momentissa tarkoitettuihin toimenpiteisiin sellaisten kasvintuhoojien osalta, joista ei ole säädetty 2 momentissa tarkoitetulla asetuksella. Jos tällaisen kasvintuhoojan esiintyminen aiheuttaa välitöntä uhkaa kasvinterveydelle eikä asia siedä viivytystä, Kasvintuotannon tarkastuskeskus voi ryhtyä välttämättömiin 1 momentissa tarkoitettuihin torjuntatoimenpiteisiin jo ennen luvan antamista.",
+      "section_number": "11",
+      "chapter_number": 3,
+      "statute_id": "263/1991"
+    },
+    {
+      "id": "17bfd767-d514-4022-ab83-8e881bfc276e",
+      "node_type": "Section",
+      "publisher": "finlex",
+      "title": "12 § Käyttörajoituksista ilmoittaminen",
+      "text": "Joka myy, vuokraa tai muulla tavoin luovuttaa toiselle kiinteistön, kiinteistön osan tai rakennuksen, jonka käyttöä on kasvintuhoojan esiintymisen vuoksi rajoitettu, on velvollinen ilmoittamaan tästä rajoituksesta luovutuksensaajalle ennen luovutusta. Valvontaviranomainen on velvollinen pyynnöstä antamaan tietoja kasvintuhoojan esiintymisestä 1 momentissa tarkoitetun luovutuksen yhteydessä.",
+      "section_number": "12",
+      "chapter_number": 3,
+      "statute_id": "263/1991"
+    },
+    {
+      "id": "0b8a1509-e67a-43f2-b912-e5f4d8410416",
+      "node_type": "Section",
+      "publisher": "finlex",
+      "title": "13 § Yleinen valvonta ja ohjaus",
+      "text": "Tämän lain täytäntöönpanon yleinen ohjaus ja valvonta kuuluvat maa- ja metsätalousministeriölle. Maa- ja metsätalousministeriö on Suomessa kasvituotteiden haitallisten organismien jäsenvaltioihin kulkeutumisen estämiseen liittyvistä suojatoimenpiteistä annetussa neuvoston direktiivissä 2000/29/EY, jäljempänä kasvinterveysdirektiivi, tarkoitettu keskusviranomainen.",
+      "section_number": "13",
+      "chapter_number": 4,
+      "statute_id": "263/1991"
+    },
+    {
+      "id": "112565de-efc8-4d56-88ee-d4f9eb7f29bd",
+      "node_type": "Section",
+      "publisher": "finlex",
+      "title": "14 § Valvontaviranomaiset",
+      "text": "Tämän lain täytäntöönpanosta sekä tämän lain ja sen nojalla annettujen säännösten ja määräysten noudattamisen valvonnasta ja valvonnan järjestämisestä vastaa Kasvintuotannon tarkastuskeskus, joka käyttää valvonnassa apunaan työvoima- ja elinkeinokeskusten maaseutuosastoja. Kasvintuotannon tarkastuskeskus on kasvinterveysdirektiivissä tarkoitettu kasvinsuojeluviranomainen Suomessa. Maahantuontia voi valvoa Kasvintuotannon tarkastuskeskuksen ohella myös tullilaitos. Tullilaitokselle siirrettävistä Kasvintuotannon tarkastuskeskuksen toimivaltaan kuuluvista tehtävistä säädetään maa- ja metsätalousministeriön asetuksella sen mukaan kuin tehtävien siirrosta ja laajuudesta sovitaan erikseen maa- ja metsätalousministeriön ja valtiovarainministeriön välillä.",
+      "section_number": "14",
+      "chapter_number": 4,
+      "statute_id": "263/1991"
+    },
+    {
+      "id": "a4991724-613b-4c8c-bf21-8174a367c81a",
+      "node_type": "Section",
+      "publisher": "finlex",
+      "title": "15 § Valtuutetut tarkastajat",
+      "text": "Sen lisäksi, mitä 14 §:ssä säädetään, Kasvintuotannon tarkastuskeskus käyttää valvonnassa apunaan valvontatehtävään kirjallisesti valtuuttamiaan tarkastajia, jotka toimivat tarkastuskeskuksen valvonnassa. Valtuutettuun tarkastajaan sovelletaan rikosoikeudellista virkavastuuta koskevia säännöksiä hänen suorittaessaan tämän lain mukaisia tehtäviä. Valtuutetulla tarkastajalla tulee olla valtuutuksen kohteena olevan tehtävän hoitamiseksi riittävä kasvinterveydellinen ammattitaito. Valtuutetun tarkastajan esteellisyyteen sovelletaan, mitä hallintomenettelylain (598/1982) 10 ja 11 §:ssä säädetään. Jos valtuutettu tarkastaja on estynyt suorittamasta tehtäväänsä, Kasvintuotannon tarkastuskeskus voi määrätä jonkun muun tilapäisesti suorittamaan hänen tehtäviään. Tilapäisesti määrättyyn henkilöön sovelletaan, mitä valtuutetusta tarkastajasta säädetään. Valtuutetun tarkastajan on tarkastusta suorittaessaan kiinnitettävä huomiota siihen, että toimija voi esittää tarkastajalle omat näkemyksensä äidinkielellään suomeksi, ruotsiksi tai saameksi. Jos toimija ei osaa kielilain (148/1922) mukaan käytettävää kieltä, tarkastajan on huolehdittava siitä, että tarkastus toimitetaan huolehtimalla hallintomenettelylain 22 §:n mukaisesti tarvittavasta tulkitsemisesta tai kääntämisestä. Valtuutetun tarkastajan tulee tarkastuksen kohteen niin vaatiessa esittää kirjallinen selvitys valtuutuksestaan.",
+      "section_number": "15",
+      "chapter_number": 4,
+      "statute_id": "263/1991"
+    },
+    {
+      "id": "3089b1d7-55fa-4059-967a-1dcbe09f1d79",
+      "node_type": "Section",
+      "publisher": "finlex",
+      "title": "16 § Valvonnan järjestämisen yleiset periaatteet",
+      "text": "Kasvien, kasvituotteiden ja muiden tavaroiden, joiden mukana kasvintuhooja voi helposti levitä, tuotantoa, varastointia, markkinointia, maahantuontia ja maastavientiä on valvottava tasapuolisesti ja säännöllisesti, sekä erityisesti, kun on epäiltävissä, että nämä tuotteet tai niihin liittyvä toiminta ei täytä tässä laissa tai sen nojalla säädettyjä tai määrättyjä vaatimuksia. Valvontatoimenpiteiden on oltava tarkoituksenmukaisia ja ne on riskinarviointiin perustuen kohdistettava kasvien, kasvituotteiden ja muiden tavaroiden, joiden mukana kasvintuhooja voi helposti levitä, tuotannon, käsittelyn sekä markkinoinnin eri vaiheisiin. Maa- ja metsätalousministeriön asetuksella voidaan antaa tarkemmat säännökset valvonnan järjestämisestä.",
+      "section_number": "16",
+      "chapter_number": 5,
+      "statute_id": "263/1991"
+    },
+    {
+      "id": "d116ad55-1bb3-441d-a5e4-4c4873b6a900",
+      "node_type": "Section",
+      "publisher": "finlex",
+      "title": "17 § Valvontasuunnitelma",
+      "text": "Kasvintuotannon tarkastuskeskuksen on laadittava vuosittain valvontasuunnitelma valvonnan järjestämiseksi. Maa- ja metsätalousministeriön asetuksella voidaan antaa tarkemmat säännökset valvontasuunnitelmasta ja sen sisällöstä.",
+      "section_number": "17",
+      "chapter_number": 5,
+      "statute_id": "263/1991"
+    },
+    {
+      "id": "e605bf8a-22f0-4f89-a285-7aa950a5c49b",
+      "node_type": "Section",
+      "publisher": "finlex",
+      "title": "18 § Tarkastusvelvollisuus",
+      "text": "Valvontaviranomaisen on vähintään kerran vuodessa tarkastettava ne rekisteröidyt toimijat, jotka 6 §:n mukaan ovat velvollisia varustamaan markkinoimansa kasvit, kasvituotteet ja muut tässä laissa tarkoitetut tavarat kasvipassilla. Muut rekisteröidyt toimijat on tarkastettava aina, kun se kasvintuhoojien leviämisen riskinarvioinnin perusteella katsotaan tarpeelliseksi.",
+      "section_number": "18",
+      "chapter_number": 5,
+      "statute_id": "263/1991"
+    },
+    {
+      "id": "8ab0e56c-75b3-4083-8ffc-822aeca6acdf",
+      "node_type": "Section",
+      "publisher": "finlex",
+      "title": "19 § Seuranta",
+      "text": "Kasvintuotannon tarkastuskeskuksen tulee seurata tässä laissa tarkoitettujen kasvintuhoojien esiintymistä ja tarvittaessa julkaista kasvintuhoojien esiintymistä koskevia tietoja.",
+      "section_number": "19",
+      "chapter_number": 5,
+      "statute_id": "263/1991"
+    },
+    {
+      "id": "321ea7b6-89cc-4aa9-b9b9-95cafb65d74e",
+      "node_type": "Section",
+      "publisher": "finlex",
+      "title": "20 § Tarkastusoikeus",
+      "text": "Edellä 14 ja 15 §:ssä tarkoitetuilla valvontaviranomaisilla ja valtuutetuilla tarkastajilla on oikeus tämän lain ja sen nojalla annettujen säännösten täytäntöönpanemista ja noudattamisen valvontaa varten päästä viljellyille ja muille alueille, tuotanto-, varasto- ja muihin rakennuksiin ja kuljetusvälineisiin sekä tarkastaa 8 §:ssä tarkoitettua tiedostoa ja toimijan kirjanpitoa, suorittaa tarkastuksia ja ottaa korvauksetta näytteitä tutkimuksia varten. Kotirauhan piirissä tarkastuksen tai näytteenoton saa tehdä vain viranomainen ja tarkastus tai näytteenotto saadaan toimittaa vain, jos se on välttämätöntä tarkastuksen kohteena olevien seikkojen selvittämiseksi ja on perusteltua syytä epäillä jonkun syyllistyneen tässä laissa rangaistavaksi säädettyyn menettelyyn.",
+      "section_number": "20",
+      "chapter_number": 5,
+      "statute_id": "263/1991"
+    },
+    {
+      "id": "6796bdd6-a989-489d-a6a8-84930376d37f",
+      "node_type": "Section",
+      "publisher": "finlex",
+      "title": "21 § Tiedonsaantioikeus",
+      "text": "Valvontaviranomaisilla ja valtuutetuilla tarkastajilla on oikeus, sen estämättä, mitä tietojen salassapidosta säädetään, saada tässä laissa tarkoitettua tarkastusta ja valvontaa varten tarpeelliset tiedot ja asiakirjat toimijalta.",
+      "section_number": "21",
+      "chapter_number": 5,
+      "statute_id": "263/1991"
+    },
+    {
+      "id": "a1fb6d62-83d1-40c9-97ff-272bc44ee088",
+      "node_type": "Section",
+      "publisher": "finlex",
+      "title": "22 § Euroopan yhteisön tarkastajat",
+      "text": "Mitä 20 ja 21 §:ssä säädetään Suomen viranomaisen tarkastus- ja tiedonsaantioikeudesta, koskee myös Euroopan yhteisön tarkastajia. Euroopan yhteisön tarkastajien on tarkastuksia suorittaessaan toimittava yhteistyössä Kasvintuotannon tarkastuskeskuksen kanssa.",
+      "section_number": "22",
+      "chapter_number": 5,
+      "statute_id": "263/1991"
+    },
+    {
+      "id": "a0b182a5-d0a0-4196-9c4a-54816ff43315",
+      "node_type": "Section",
+      "publisher": "finlex",
+      "title": "23 § Virka-apu",
+      "text": "Valvontaviranomaisilla on oikeus saada virka-apua tulliviranomaisilta, rajavartiolaitokselta sekä poliisi- ja pelastusviranomaisilta tämän lain ja sen nojalla annettujen säännösten ja määräysten mukaisten tehtävien suorittamiseksi.",
+      "section_number": "23",
+      "chapter_number": 5,
+      "statute_id": "263/1991"
+    },
+    {
+      "id": "012e7a7c-f6e7-4fbe-914d-4d6636c0de68",
+      "node_type": "Section",
+      "publisher": "finlex",
+      "title": "24 § Salassa pidettävien tietojen luovuttaminen",
+      "text": "Viranomaisen toiminnan julkisuudesta annetussa laissa säädetyn salassapitovelvollisuuden estämättä saa tässä laissa säädettyä tehtävää suoritettaessa saatuja tietoja yksityisen tai yhteisön liike- tai ammattisalaisuudesta taikka taloudellisesta asemasta luovuttaa syyttäjä- ja poliisiviranomaiselle pakkokeinolain (450/1987) 5 luvun 1 §:ssä tarkoitetun rikoksen selvittämiseksi sekä tämän lain 13 ja 14 §:ssä tarkoitetuille viranomaisille tämän lain mukaisten tehtävien suorittamista varten.",
+      "section_number": "24",
+      "chapter_number": 5,
+      "statute_id": "263/1991"
+    },
+    {
+      "id": "aff74c85-4336-40be-aa5f-53c8fe43f035",
+      "node_type": "Section",
+      "publisher": "finlex",
+      "title": "25 § Valvonnan tulosten julkaiseminen",
+      "text": "Kasvintuotannon tarkastuskeskus julkaisee valvonnan tulokset. Edellä 24 §:ssä tarkoitettuja salassa pidettäviä tietoja ei kuitenkaan saa julkaista. Maa- ja metsätalousministeriön asetuksella voidaan antaa tarkemmat säännökset valvonnan tulosten julkaisemisesta.",
+      "section_number": "25",
+      "chapter_number": 5,
+      "statute_id": "263/1991"
+    },
+    {
+      "id": "0f60e1a3-ddaf-4754-88d7-c98202c1493a",
+      "node_type": "Section",
+      "publisher": "finlex",
+      "title": "26 § Kasvipassin tai muun todistuksen käyttökielto",
+      "text": "Kasvintuotannon tarkastuskeskus voi päätöksellään kieltää 6 §:ssä tarkoitetun kasvipassin tai muun todistuksen käytön, jos se on välttämätöntä kasvintuhoojien torjumiseksi tai leviämisen estämiseksi. Tästä päätöksestä on aina ilmoitettava asianosaiselle viipymättä. Suullisesti annettu kielto on vahvistettava kirjallisesti. Kielto on kumottava heti, kun sen antamisen syytä ei enää ole olemassa. Kielto on annettava määräaikaisena, jos sen perusteena oleva puutteellisuus on mahdollista poistaa. Kielto on viipymättä peruutettava, jos puutteellisuus on poistettu tai puutteellisuudella ei enää kiellon määräämisen kannalta ole merkitystä. Kiellon peruuttamisesta on aina ilmoitettava asianosaiselle viipymättä. Jos asia ei siedä viivytystä, Kasvintuotannon tarkastuskeskuksen lisäksi työvoima- ja elinkeinokeskus tai valtuutettu tarkastaja voi kieltää kasvipassin tai muun todistuksen käytön väliaikaisesti. Väliaikainen käyttökielto on saatettava viivytyksettä Kasvintuotannon tarkastuskeskuksen ratkaistavaksi. Kielto raukeaa, jos Kasvintuotannon tarkastuskeskus ei ole tehnyt 1 momentissa tarkoitettua päätöstä viikon kuluessa kiellon antamisesta.",
+      "section_number": "26",
+      "chapter_number": 6,
+      "statute_id": "263/1991"
+    },
+    {
+      "id": "e2f1b91f-95cb-4295-a362-a1bb5066ab45",
+      "node_type": "Section",
+      "publisher": "finlex",
+      "title": "27 § Kasvinsuojelurekisteristä poistaminen",
+      "text": "Jos tarkastuksessa todetaan, ettei toimija noudata tätä lakia tai sen nojalla annettuja säännöksiä tai täytä rekisteröinnin ehtoja, Kasvintuotannon tarkastuskeskuksen tai työvoima- ja elinkeinokeskuksen tulee antaa asianomaiselle huomautus sekä tarvittaessa ilmoittaa määräaika, jonka kuluessa toiminnassa havaitut virheellisyydet on korjattava. Kasvintuotannon tarkastuskeskuksen tulee päätöksellään poistaa rekisteristä se, joka ei huomautuksesta huolimatta korjaa toiminnassaan havaittuja virheellisyyksiä, jos kyseessä on olennainen virhe tai laiminlyönti. Tästä päätöksestä on aina ilmoitettava asianosaiselle viipymättä. Kun poistamisen syytä ei enää ole olemassa, on rekisteristä poistettu välittömästi ilman eri hakemusta merkittävä rekisteriin uudelleen. Tästä päätöksestä on aina ilmoitettava asianosaiselle viipymättä.",
+      "section_number": "27",
+      "chapter_number": 6,
+      "statute_id": "263/1991"
+    },
+    {
+      "id": "52020c10-5c0f-4afa-a92f-b10d08cc3eca",
+      "node_type": "Section",
+      "publisher": "finlex",
+      "title": "28 § Uhkasakko tai teettäminen",
+      "text": "Kasvintuotannon tarkastuskeskus voi tehostaa 11 §:ssä tarkoitettua rajoitusta, kieltoa, toimenpidettä tai niitä koskevan menettelyn täytäntöönpanoa uhkasakolla tai uhalla, että tekemättä jätetty toimenpide teetetään laiminlyöjän kustannuksella. Teettämisuhkaa ja teettämistä koskevan päätöksen voi tehdä myös työvoima- ja elinkeinokeskus. Uhkasakkoa, teettämisuhkaa ja teettämistä koskevassa asiassa noudatetaan, mitä uhkasakkolaissa (1113/1990) säädetään.",
+      "section_number": "28",
+      "chapter_number": 6,
+      "statute_id": "263/1991"
+    },
+    {
+      "id": "7cffc052-a97b-48b8-b9fe-7def2cb1a2c3",
+      "node_type": "Section",
+      "publisher": "finlex",
+      "title": "29 § Rangaistussäännös",
+      "text": "Joka tahallaan tai huolimattomuudesta on tuomittava, jollei teosta muualla laissa säädetä ankarampaa rangaistusta,kasvinterveyden vaarantamisestasakkoon. Sitä, joka rikkoo tämän lain nojalla määrättyä uhkasakolla tehostettua kieltoa tai velvoitetta, ei voida tuomita rangaistukseen samasta teosta, jos uhkasakko on tuomittu maksettavaksi. Kasvintuotannon tarkastuskeskus tekee 14 ja 15 §:ssä tarkoitettujen viranomaisten ja valtuutettujen tarkastajien puolesta ilmoituksen 1 momentissa tarkoitetun rikkomuksen saattamiseksi syyteharkintaan. Ilmoitus voidaan jättää tekemättä rikkomuksesta, jota on kokonaisuutena pidettävä ilmeisen vähäisenä. Tällöin tarkastuskeskus voi antaa rikkomukseen syyllistyneelle toimijalle kirjallisen huomautuksen, jossa häntä kehotetaan korjaamaan havaitut virheellisyydet.",
+      "section_number": "29",
+      "chapter_number": 6,
+      "statute_id": "263/1991"
+    },
+    {
+      "id": "42ac8bb7-638b-49c5-b3c9-714ee8a7cfa9",
+      "node_type": "Section",
+      "publisher": "finlex",
+      "title": "30 § Kasvintuhoojan torjuntapäätöksestä aiheutuvien kustannusten ja vahinkojen korvaaminen",
+      "text": "Suomessa ennen esiintymättömien kasvintuhoojien (hävitettävät kasvintuhoojat) hävittämiseksi annetun torjuntapäätöksen viljelijälle aiheuttamat kustannukset ja vahingot korvataan valtion varoista. Lisäksi voidaan korvata osittain sellaisten Suomessa esiintyvien kasvintuhoojien, jotka aiheuttavat välitöntä tai välillistä vahinkoa mutta joita ei voida hävittää (torjuttavat kasvintuhoojat), torjumiseksi ja leviämisen estämiseksi annetun torjuntapäätöksen viljelijälle aiheuttamat kustannukset ja vahingot. Korvauksen saamisen edellytyksenä on, että kasvi, josta torjuntapäätöksen kohteena oleva kasvintuhooja on löydetty, on ollut korvaukseen oikeutetulla viljelijällä tuotannossa. Maa- ja metsätalousministeriön asetuksella säädetään kasvintuhoojakohtaisesti, mitkä kasvintuhoojat ovat hävitettäviä kasvintuhoojia ja mitkä torjuttavia kasvintuhoojia. Torjuttavien kasvintuhoojien torjumiseksi ja leviämisen estämiseksi annetusta torjuntapäätöksestä aiheutuneita kustannuksia ja vahinkoja ei pääsääntöisesti korvata, paitsi jos tällaisen kasvintuhoojan leviämisen estämiseksi on tarkoituksenmukaista korvata osa kustannuksista ja vahingoista. Maa- ja metsätalousministeriön asetuksella säädetään, millaisten torjuttavien kasvintuhoojien osalta korvaus maksetaan ja kuinka suuri osa, kuitenkin vähintään 50 prosenttia, kustannuksista ja vahingoista tällöin korvataan. Edellä 1 momentin mukaan korvattavia kustannuksia ja vahinkoja ovat: Maa- ja metsätalousministeriön asetuksella annetaan tarkemmat säännökset 2 momentin 3 kohdassa tarkoitetun taloudellisen vahingon tai kustannuksen arvioimisesta. Korvausta on haettava asianomaiselta työvoima- ja elinkeinokeskukselta kuuden kuukauden kuluessa siitä, kun hakija sai tiedon kustannusten syntymisestä tai vahingon ilmenemisestä. Hakemukseen on liitettävä riittävä selvitys kustannuksista ja vahingoista. Työvoima- ja elinkeinokeskus päättää kustannusten ja vahinkojen korvaamisesta sekä korvauksen maksamisesta. Jos kustannuksia tai vahinkoja on korvattu perusteettomasti, on työvoima- ja elinkeinokeskuksen määrättävä liikaa saatu määrä palautettavaksi. Palautettavasta määrästä peritään korkolain (633/1982) 3 §:n 2 momentin mukainen vuotuinen korko sen kuukauden alusta, jona kustannuksen tai vahingon korvaus on maksettu. Jos palautettavaa määrää ei makseta viimeistään työvoima- ja elinkeinokeskuksen asettamana eräpäivänä, sille on maksettava vuotuista viivästyskorkoa korkolain 4 §:n 1 momentissa tarkoitetun korkokannan mukaan. Jos palautettava määrä on vähäinen taikka jos palauttamista tai koron perimistä on pidettävä kohtuuttomana palautusvelvollisen taloudelliseen asemaan ja olosuhteisiin nähden, voidaan korvaus tai korko jättää osittain tai kokonaan määräämättä palautettavaksi.",
+      "section_number": "30",
+      "chapter_number": 7,
+      "statute_id": "263/1991"
+    },
+    {
+      "id": "c71ad5ac-562f-4560-b83d-14121f2fbdd8",
+      "node_type": "Section",
+      "publisher": "finlex",
+      "title": "31 § Korvausten epääminen",
+      "text": "Edellä 30 §:ssä tarkoitettua korvausta ei kuitenkaan makseta: Korvausta ei myöskään makseta tai sen määrää voidaan alentaa, jos korvaukseen muutoin oikeutettu ei ole noudattanut tätä lakia taikka tämän lain nojalla annettuja säännöksiä, määräyksiä tai viranomaisen päätöksiä taikka on muulla kuin 1 momentissa tarkoitetulla tavalla itse vaikuttanut kustannusten tai vahingon syntymiseen.",
+      "section_number": "31",
+      "chapter_number": 7,
+      "statute_id": "263/1991"
+    },
+    {
+      "id": "9b5b6aa8-ee3f-4719-b0e3-bda2188616eb",
+      "node_type": "Section",
+      "publisher": "finlex",
+      "title": "32 § Neuvottelukunta",
+      "text": "Maa- ja metsätalousministeriö asettaa kolmeksi vuodeksi kerrallaan neuvottelukunnan, jonka tehtävänä on seurata kehitystä kasvinsuojelua koskevissa asioissa, antaa lausuntoja sekä tehdä asiaa koskevia esityksiä ja aloitteita, ei kuitenkaan niissä asioissa, jotka on käsiteltävä valtioneuvoston Euroopan unionin asioiden käsittelyä varten säädetyssä järjestyksessä.",
+      "section_number": "32",
+      "chapter_number": 8,
+      "statute_id": "263/1991"
+    },
+    {
+      "id": "c7d993df-97f6-4d3a-9609-929c898046bb",
+      "node_type": "Section",
+      "publisher": "finlex",
+      "title": "33 § Maksut, palkkiot ja korvaukset",
+      "text": "Tämän lain mukaisista suoritteista voidaan periä valtiolle maksuja siten kuin valtion maksuperustelaissa (150/1992) säädetään. Kasvintuotannon tarkastuskeskuksen valtuuttamille tarkastajille voidaan tarkastuksista suorittaa palkkiota ja kustannusten korvausta valtion talousarvion rajoissa. Maa- ja metsätalousministeriön asetuksella säädetään palkkioiden ja kustannusten korvausten perusteista.",
+      "section_number": "33",
+      "chapter_number": 8,
+      "statute_id": "263/1991"
+    },
+    {
+      "id": "9fa1a0a6-4235-4541-8078-67d8a9132205",
+      "node_type": "Section",
+      "publisher": "finlex",
+      "title": "34 § Muutoksenhaku",
+      "text": "Tämän lain nojalla annettuun valvontaviranomaisen päätökseen saa hakea muutosta valittamalla maaseutuelinkeinojen valituslautakuntaan noudattaen, mitä muutoksenhausta hallintolainkäyttölaissa (586/1996) säädetään. Valituskirjelmä voidaan toimittaa myös päätöksen tehneelle viranomaiselle, jonka on viipymättä lähetettävä valituskirjelmä sekä asiassa kertyneet asiakirjat ja lausuntonsa valituksesta valituslautakunnalle. Tämän lain 14 §:n 2 momentin mukaisesti asetuksella tullilaitokselle siirretyn tehtävän osalta muutosta haetaan 1 momentista poiketen siinä järjestyksessä kuin tullilaissa (1466/1994) säädetään.",
+      "section_number": "34",
+      "chapter_number": 8,
+      "statute_id": "263/1991"
+    },
+    {
+      "id": "6669a2fa-da72-48d4-9b2c-1101fe9dbf2c",
+      "node_type": "Section",
+      "publisher": "finlex",
+      "title": "35 § Täytäntöönpano",
+      "text": "Tämän lain nojalla tehtävässä päätöksessä voidaan määrätä, että päätöstä on noudatettava ennen kuin se on saanut lainvoiman, jollei valitusviranomainen toisin määrää.",
+      "section_number": "35",
+      "chapter_number": 8,
+      "statute_id": "263/1991"
+    },
+    {
+      "id": "3dae4899-245f-4ae6-9a67-dbe2f27d3949",
+      "node_type": "Section",
+      "publisher": "finlex",
+      "title": "36 § Voimaantulo",
+      "text": "Tämä laki tulee voimaan 1 päivänä tammikuuta 2004. Tällä lailla kumotaan 16 päivänä joulukuuta 1994 annettu kasvinsuojelulaki (1203/1994) siihen myöhemmin tehtyine muutoksineen (kumottu laki). Kumotun lain nojalla annetut maa- ja metsätalousministeriön päätökset ja asetukset jäävät kuitenkin, siltä osin kuin ne eivät ole ristiriidassa tämän lain kanssa, edelleen voimaan, kunnes toisin säädetään.",
+      "section_number": "36",
+      "chapter_number": 8,
+      "statute_id": "263/1991"
+    },
+    {
+      "id": "d769fb8e-289c-4a1e-a9bd-c0ae050a542b",
+      "node_type": "Section",
+      "publisher": "finlex",
+      "title": "37 § Siirtymäsäännös",
+      "text": "Ennen tämän lain voimaantuloa kumotun lain nojalla kasvintuhoojien torjumiseksi annetut yksittäisiä elinkeinonharjoittajia koskevat päätökset ja määräykset ovat voimassa niissä määrätyn ajan.",
+      "section_number": "37",
+      "chapter_number": 8,
+      "statute_id": "263/1991"
+    }
+  ],
+  "clauses": [
+    {
+      "id": "2845e9fa-5e90-46fa-b81c-e782f0674ae1",
+      "node_type": "Clause",
+      "publisher": "finlex",
+      "title": "§ 4 mom 1",
+      "text": "1) toimija ylläpitää ajan tasalla olevaa kaaviota, josta ilmenee tämän lain soveltamisalaan kuuluvien kasvien, kasvituotteiden ja muiden tavaroiden sijainti;",
+      "clause_number": 1,
+      "section_number": "4",
+      "statute_id": "263/1991"
+    },
+    {
+      "id": "ce629a5e-6fa5-4867-b388-18aad10106ea",
+      "node_type": "Clause",
+      "publisher": "finlex",
+      "title": "§ 4 mom 2",
+      "text": "2) toimija pitää tiedostoa tuotantopaikoista ja varasto- tai muuhun rekisterissä mainittuun paikkaan tuoduista niissä tuotetuista ja markkinoiduista tämän lain soveltamisalaan kuuluvista tuotteista ja säilyttää näitä tietoja vähintään vuoden ajan;",
+      "clause_number": 2,
+      "section_number": "4",
+      "statute_id": "263/1991"
+    },
+    {
+      "id": "78945958-04aa-4d67-ba0c-629fcba9d720",
+      "node_type": "Clause",
+      "publisher": "finlex",
+      "title": "§ 4 mom 3",
+      "text": "3) toimija tarkastaa vähintään silmämääräisesti tämän lain soveltamisalaan kuuluvat tuotteet ja tilat kasvintuhoojien mahdollisen esiintymisen toteamiseksi; sekä",
+      "clause_number": 3,
+      "section_number": "4",
+      "statute_id": "263/1991"
+    },
+    {
+      "id": "e05ac876-4f0f-484a-9daf-8ec34843fc9e",
+      "node_type": "Clause",
+      "publisher": "finlex",
+      "title": "§ 4 mom 4",
+      "text": "4) rekisteröidyllä yksiköllä on kasvinterveydestä vastaava henkilö.",
+      "clause_number": 4,
+      "section_number": "4",
+      "statute_id": "263/1991"
+    },
+    {
+      "id": "34f29088-2774-41c6-ae74-17fe619f0173",
+      "node_type": "Clause",
+      "publisher": "finlex",
+      "title": "§ 5 mom 1",
+      "text": "1) toimijan nimi ja osoite;",
+      "clause_number": 1,
+      "section_number": "5",
+      "statute_id": "263/1991"
+    },
+    {
+      "id": "442aa0eb-3266-4b4e-9edb-dcc49dc27fa3",
+      "node_type": "Clause",
+      "publisher": "finlex",
+      "title": "§ 5 mom 2",
+      "text": "2) toimijan toimialaa koskevat tiedot;",
+      "clause_number": 2,
+      "section_number": "5",
+      "statute_id": "263/1991"
+    },
+    {
+      "id": "03c73e6d-6a9b-42b4-90f2-5aaad7af94ad",
+      "node_type": "Clause",
+      "publisher": "finlex",
+      "title": "§ 5 mom 3",
+      "text": "3) tiedot toimijan tuotanto- ja toimipaikoista;",
+      "clause_number": 3,
+      "section_number": "5",
+      "statute_id": "263/1991"
+    },
+    {
+      "id": "b62aaa51-c389-4fb4-9249-d80e8d419f5e",
+      "node_type": "Clause",
+      "publisher": "finlex",
+      "title": "§ 5 mom 4",
+      "text": "4) toimijan yritys- tai yhteisötunnus taikka sosiaaliturvatunnus ja tilatunnus;",
+      "clause_number": 4,
+      "section_number": "5",
+      "statute_id": "263/1991"
+    },
+    {
+      "id": "3312d238-cd57-41d5-bbb0-f6527deb694a",
+      "node_type": "Clause",
+      "publisher": "finlex",
+      "title": "§ 5 mom 5",
+      "text": "5) kasvinterveydestä vastaavan henkilön nimi;",
+      "clause_number": 5,
+      "section_number": "5",
+      "statute_id": "263/1991"
+    },
+    {
+      "id": "63f73baf-7ced-44b7-bada-2cd8680e606d",
+      "node_type": "Clause",
+      "publisher": "finlex",
+      "title": "§ 5 mom 6",
+      "text": "6) rekisterinumero;",
+      "clause_number": 6,
+      "section_number": "5",
+      "statute_id": "263/1991"
+    },
+    {
+      "id": "4104f294-2d62-46fb-b39c-0781cca97965",
+      "node_type": "Clause",
+      "publisher": "finlex",
+      "title": "§ 5 mom 7",
+      "text": "7) toimijalle kasvintuhoojan esiintymisen vuoksi annettu torjuntapäätös.",
+      "clause_number": 7,
+      "section_number": "5",
+      "statute_id": "263/1991"
+    },
+    {
+      "id": "87f9edfe-8669-4113-948d-d0be7852b930",
+      "node_type": "Clause",
+      "publisher": "finlex",
+      "title": "§ 11 mom 1",
+      "text": "1) velvoittaa maanomistaja, viljelijä taikka kiinteistön tai kiinteistön osan omistaja tai haltija suorittamaan välttämättömiä toimenpiteitä kiinteistöllä esiintyvän kasvintuhoojan hävittämiseksi;",
+      "clause_number": 1,
+      "section_number": "11",
+      "statute_id": "263/1991"
+    },
+    {
+      "id": "245584c6-33c5-447d-9852-af63170a0050",
+      "node_type": "Clause",
+      "publisher": "finlex",
+      "title": "§ 11 mom 2",
+      "text": "2) määrätä kasvintuhoojan saastuttaman rakennuksen, työ- ja kuljetusvälineen taikka muun esineen välttämättömästä puhdistamisesta tai desinfioimisesta sekä välttämättömästä puhdistus- ja desinfiointitavasta;",
+      "clause_number": 2,
+      "section_number": "11",
+      "statute_id": "263/1991"
+    },
+    {
+      "id": "d6cfe791-f3c2-477d-9b9c-755b900eeecf",
+      "node_type": "Clause",
+      "publisher": "finlex",
+      "title": "§ 11 mom 3",
+      "text": "3) määrätä kasvien tai kasvialkuperää olevien pakkausten tai pakkausaineiden välttämättömästä puhdistuksesta, desinfioimisesta tai hävittämisestä ja määrätä välttämättömästä puhdistus-, desinfiointi- tai hävitystavasta taikka asettaa välttämättömiä rajoituksia kasvien tai kasvialkuperää olevien pakkausten tai pakkausaineiden käyttämiselle;",
+      "clause_number": 3,
+      "section_number": "11",
+      "statute_id": "263/1991"
+    },
+    {
+      "id": "d6846916-71e6-448f-b50d-bfee62b0e59b",
+      "node_type": "Clause",
+      "publisher": "finlex",
+      "title": "§ 11 mom 4",
+      "text": "4) määrätä kasvien viljelemistä, kuljetusta tai kauppaa koskevia välttämättömiä kieltoja, ehtoja ja rajoituksia;",
+      "clause_number": 4,
+      "section_number": "11",
+      "statute_id": "263/1991"
+    },
+    {
+      "id": "37478ebf-d80a-4391-bc4d-20cc16a43eb5",
+      "node_type": "Clause",
+      "publisher": "finlex",
+      "title": "§ 11 mom 5",
+      "text": "5) määrätä kasvien viljelemisen, sadonkorjuun ja kaupan yhteydessä välttämättömästi suoritettavista toimenpiteistä;",
+      "clause_number": 5,
+      "section_number": "11",
+      "statute_id": "263/1991"
+    },
+    {
+      "id": "77b0d23c-ea13-477f-bbf3-063f75be6e03",
+      "node_type": "Clause",
+      "publisher": "finlex",
+      "title": "§ 11 mom 6",
+      "text": "6) määrätä välttämättömiä kieltoja tai ehtoja kasvien, kasvituotteiden, kasvintuhoojien ja muiden sellaisten tavaroiden, joiden mukana kasvintuhooja voi helposti levitä, markkinoinnille, maahantuonnille ja maastaviennille; sekä",
+      "clause_number": 6,
+      "section_number": "11",
+      "statute_id": "263/1991"
+    },
+    {
+      "id": "e44f6b15-786c-4265-b317-99c3ea6e9e11",
+      "node_type": "Clause",
+      "publisher": "finlex",
+      "title": "§ 11 mom 7",
+      "text": "7) velvoittaa toimija noudattamaan muita kasvintuhoojien torjumiseksi tai niiden leviämisen estämiseksi välttämättömiä rajoituksia, kieltoja ja toimenpiteitä.",
+      "clause_number": 7,
+      "section_number": "11",
+      "statute_id": "263/1991"
+    },
+    {
+      "id": "e3bbbc9f-6a37-4742-9424-5ec3269f7bed",
+      "node_type": "Clause",
+      "publisher": "finlex",
+      "title": "§ 29 mom 1",
+      "text": "1) ilman 4 §:ssä tarkoitettua rekisteröintiä markkinoi, tuottaa markkinointia varten, varastoi tai tuo maahan kasveja, kasvituotteita tai muita tavaroita, joiden mukana kasvintuhooja voi helposti levitä,",
+      "clause_number": 1,
+      "section_number": "29",
+      "statute_id": "263/1991"
+    },
+    {
+      "id": "da7d68ea-7c5e-485e-bb43-e11de3be5414",
+      "node_type": "Clause",
+      "publisher": "finlex",
+      "title": "§ 29 mom 2",
+      "text": "2) ei noudata 6 §:ssä ja sen nojalla annetussa asetuksessa tarkoitettua velvollisuutta käyttää kasvipassia tai muuta kasvinterveydestä annettua todistusta,",
+      "clause_number": 2,
+      "section_number": "29",
+      "statute_id": "263/1991"
+    },
+    {
+      "id": "c0786f3f-90d7-4114-b3e7-1b9f7aa4d31e",
+      "node_type": "Clause",
+      "publisher": "finlex",
+      "title": "§ 29 mom 3",
+      "text": "3) ei noudata 7 §:ssä ja sen nojalla annetussa asetuksessa tarkoitettua velvollisuutta käyttää kasvinterveystodistusta tai muuta kasvinterveydestä annettua todistusta,",
+      "clause_number": 3,
+      "section_number": "29",
+      "statute_id": "263/1991"
+    },
+    {
+      "id": "8ec79a7b-32d5-4558-967a-87ed6c44f5ad",
+      "node_type": "Clause",
+      "publisher": "finlex",
+      "title": "§ 29 mom 4",
+      "text": "4) laiminlyö 8 §:ssä ja sen nojalla annetussa asetuksessa säädetyn velvollisuuden tiedoston pitämiseen,",
+      "clause_number": 4,
+      "section_number": "29",
+      "statute_id": "263/1991"
+    },
+    {
+      "id": "a60ec920-a0cd-4473-a454-03fd6a5668e4",
+      "node_type": "Clause",
+      "publisher": "finlex",
+      "title": "§ 29 mom 5",
+      "text": "5) laiminlyö 9 §:ssä säädetyn ilmoitusvelvollisuuden toiminnan lopettamisesta tai siinä tapahtuvista olennaisista muutoksista,",
+      "clause_number": 5,
+      "section_number": "29",
+      "statute_id": "263/1991"
+    },
+    {
+      "id": "9ee925cc-011f-44af-b5c6-970682ff2248",
+      "node_type": "Clause",
+      "publisher": "finlex",
+      "title": "§ 29 mom 6",
+      "text": "6) laiminlyö 10 §:ssä säädetyn kasvintuhoojien esiintymistä koskevan ilmoittamisvelvollisuuden,",
+      "clause_number": 6,
+      "section_number": "29",
+      "statute_id": "263/1991"
+    },
+    {
+      "id": "dc931e0a-8275-40c1-a39e-8f01b4414949",
+      "node_type": "Clause",
+      "publisher": "finlex",
+      "title": "§ 29 mom 7",
+      "text": "7) rikkoo 11 §:n nojalla annettuja määräyksiä, kieltoja, ehtoja tai rajoituksia tai",
+      "clause_number": 7,
+      "section_number": "29",
+      "statute_id": "263/1991"
+    },
+    {
+      "id": "5996adff-853e-4e10-b264-f51666f4b0c0",
+      "node_type": "Clause",
+      "publisher": "finlex",
+      "title": "§ 29 mom 8",
+      "text": "8) laiminlyö 12 §:ssä säädetyn velvollisuuden ilmoittaa käyttörajoituksista",
+      "clause_number": 8,
+      "section_number": "29",
+      "statute_id": "263/1991"
+    },
+    {
+      "id": "fcd9115a-bf47-4f67-ab79-88603c1bd6d4",
+      "node_type": "Clause",
+      "publisher": "finlex",
+      "title": "§ 30 mom 1",
+      "text": "1) torjuntapäätöksessä annetun määräyksen toteuttamisesta suoranaisesti aiheutuvat desinfioimis-, torjunta- ja hävittämiskustannukset sekä hävitetyn tai torjuntatoimenpiteen vuoksi vahingoittuneen tavaran arvo;",
+      "clause_number": 1,
+      "section_number": "30",
+      "statute_id": "263/1991"
+    },
+    {
+      "id": "603c9b71-8802-4b7c-ba0e-0a4688f9e9d6",
+      "node_type": "Clause",
+      "publisher": "finlex",
+      "title": "§ 30 mom 2",
+      "text": "2) torjuntapäätökseen perustuvan tavaran myymis-, luovutus-, kuljetus- tai käyttökiellon tai vastaavan rajoituksen vuoksi aiheutunut taloudellinen vahinko tai kustannus; sekä",
+      "clause_number": 2,
+      "section_number": "30",
+      "statute_id": "263/1991"
+    },
+    {
+      "id": "635387f2-8f76-45fa-a097-872d946cb6f8",
+      "node_type": "Clause",
+      "publisher": "finlex",
+      "title": "§ 30 mom 3",
+      "text": "3) taloudellinen vahinko tai kustannus, joka aiheutuu torjuntapäätöksessä annettuun määräykseen perustuvasta kasvintuotannon keskeytymisestä.",
+      "clause_number": 3,
+      "section_number": "30",
+      "statute_id": "263/1991"
+    },
+    {
+      "id": "d40ad8ed-0a8f-410d-b857-1b5c0189f023",
+      "node_type": "Clause",
+      "publisher": "finlex",
+      "title": "§ 31 mom 1",
+      "text": "1) kasvintuhoojan aiheuttamista vioittumista johtuvista vahingoista ja kustannuksista;",
+      "clause_number": 1,
+      "section_number": "31",
+      "statute_id": "263/1991"
+    },
+    {
+      "id": "f5b0d5d6-d0bd-4162-a7c3-179d6e3a5397",
+      "node_type": "Clause",
+      "publisher": "finlex",
+      "title": "§ 31 mom 2",
+      "text": "2) kustannuksista ja vahingoista, jotka aiheutuvat Euroopan unionin jäsenvaltiosta sekä unioniin kuulumattomista valtioista tai niihin tapahtuvan markkinoinnin, maahantuonnin tai maastaviennin yhteydessä määrätystä kiellosta, tavaran hävittämisestä, eristämisestä tai muusta vastaavasta toimenpiteestä taikka markkinoinnille, maahantuonnille tai maastaviennille määrätyistä ehdoista;",
+      "clause_number": 2,
+      "section_number": "31",
+      "statute_id": "263/1991"
+    },
+    {
+      "id": "1c55e166-56b2-4357-af31-25c06d83005c",
+      "node_type": "Clause",
+      "publisher": "finlex",
+      "title": "§ 31 mom 3",
+      "text": "3) kustannuksista tai vahingoista, jotka aiheutuvat kasvinsuojelurekisterissä pysymistä koskevien velvoitteiden täyttämisestä, rekisteristä poistamisesta tai muusta 6 luvussa säädetystä pakkokeinosta tai seuraamuksesta taikka kasvipassin tai rekisterinumeron käyttämisestä; eikä",
+      "clause_number": 3,
+      "section_number": "31",
+      "statute_id": "263/1991"
+    },
+    {
+      "id": "22c26da9-f4dc-45bc-a5bc-97f7cd950300",
+      "node_type": "Clause",
+      "publisher": "finlex",
+      "title": "§ 31 mom 4",
+      "text": "4) kustannuksista tai vahingoista, jotka toimija on aiheuttanut tahallisesti tai törkeästä huolimattomuudesta taikka laiminlyömällä hyvän viljelytavan noudattamisen.",
+      "clause_number": 4,
+      "section_number": "31",
+      "statute_id": "263/1991"
+    }
+  ],
+  "cross_references": [],
+  "raw_html_path": "C:\\Users\\danit\\finance-hack\\aalto-hackaton-2026\\data\\raw\\finlex\\Laki (säädöskokoelma)\\Laki kasvinterveyden suojelemisesta.html"
+}

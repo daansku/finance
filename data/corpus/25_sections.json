@@ -1,0 +1,375 @@
+{
+  "statute": {
+    "id": "ac8b996a-ac16-46c2-889a-cef96de68f44",
+    "node_type": "Statute",
+    "publisher": "finlex",
+    "title": "Veripalvelulaki",
+    "text": "Veripalvelulaki",
+    "statute_id": "",
+    "finlex_url": ""
+  },
+  "chapters": [
+    {
+      "id": "fe53fada-e962-4af2-8e51-3e24a48b88d5",
+      "node_type": "Chapter",
+      "publisher": "finlex",
+      "title": "Chapter 1",
+      "text": "1 luku Yleiset säännökset",
+      "chapter_number": 1,
+      "statute_id": ""
+    },
+    {
+      "id": "03d06a71-dcdf-46cd-a66e-d8eca7de1857",
+      "node_type": "Chapter",
+      "publisher": "finlex",
+      "title": "Chapter 2",
+      "text": "2 luku Veripalvelutoiminnan toteuttaminen ja -sisältö",
+      "chapter_number": 2,
+      "statute_id": ""
+    },
+    {
+      "id": "06a82bb4-4d02-49ec-936e-aa75bb8c8ee0",
+      "node_type": "Chapter",
+      "publisher": "finlex",
+      "title": "Chapter 3",
+      "text": "3 luku Ohjaus ja valvonta",
+      "chapter_number": 3,
+      "statute_id": ""
+    },
+    {
+      "id": "e70869b2-17ad-4b0d-aa86-bf679106d7f1",
+      "node_type": "Chapter",
+      "publisher": "finlex",
+      "title": "Chapter 4",
+      "text": "4 luku Erinäiset säännökset",
+      "chapter_number": 4,
+      "statute_id": ""
+    }
+  ],
+  "sections": [
+    {
+      "id": "1506a269-2341-494b-8e16-a92544407b17",
+      "node_type": "Section",
+      "publisher": "finlex",
+      "title": "1 § Soveltamisala",
+      "text": "Tässä laissa säädetään ihmisveren ja sen -osien luovutuksesta ja tutkimisesta, ei kuitenkaan tieteelliseen tutkimukseen kerätystä verestä eikä verinäytteistä. Laissa säädetään myös verensiirtoon tarkoitetun veren ja sen osien käsittelystä, säilytyksestä ja jakelusta. Tätä lakia ei sovelleta veren kantasoluihin.",
+      "section_number": "1",
+      "chapter_number": 1,
+      "statute_id": ""
+    },
+    {
+      "id": "a31491b1-d5cf-4d2d-a845-8dee460612dd",
+      "node_type": "Section",
+      "publisher": "finlex",
+      "title": "2 § Määritelmät",
+      "text": "Tässä laissa tarkoitetaan:",
+      "section_number": "2",
+      "chapter_number": 1,
+      "statute_id": ""
+    },
+    {
+      "id": "7526885f-ebff-4e75-95cc-a7e30b0d0f03",
+      "node_type": "Section",
+      "publisher": "finlex",
+      "title": "3 § Verenluovutuksen vapaaehtoisuus ja maksuttomuus",
+      "text": "Veren ja sen osien luovutuksen on oltava vapaaehtoista. Luovuttajalle ei saa antaa luovutuksesta rahallista korvausta eikä muuta siihen rinnastettavaa etuutta. Sen estämättä, mitä 1 momentissa säädetään, voidaan luovutuksesta aiheutuvat matkakulut korvata luovuttajalle. Luovutuksen yhteydessä voidaan antaa myös arvoltaan vähäistä tarjoilua ja vähäisiä lahjaesineitä.",
+      "section_number": "3",
+      "chapter_number": 1,
+      "statute_id": ""
+    },
+    {
+      "id": "9c218ce2-4507-4f99-bcb7-867e16fc2a04",
+      "node_type": "Section",
+      "publisher": "finlex",
+      "title": "4 § Toimilupa ja ilmoitus",
+      "text": "Veripalvelulaitoksella on oltava Lääkelaitoksen myöntämä toimilupa. Toimilupaan voidaan liittää veripalvelutoiminnan laajuutta koskevia ehtoja. Veripalvelulaitoksen on tehtävä toimintansa olennaisista muutoksista ilmoitus Lääkelaitokselle. Lääkelaitoksen on myönnettävä kirjallisesta hakemuksesta toimilupa veripalvelutoimintaa varten kunnalle, kuntayhtymälle, yhdistykselle tai muulle vastaavalle yhteisölle, jolla on edellytykset täyttää tämän lain veripalvelutoiminnalle asettamat laatu- ja turvallisuusvaatimukset. Lupahakemuksessa on oltava laitoksen henkilöstöä, tiloja, laitteita ja tarvikkeita koskevat tiedot sekä tiedot veren ja sen osien luovutusta, tutkimista, käsittelyä, säilytystä, kuljetusta, jakelua ja veriturvatoimintaa koskevista menettelytavoista. Verikeskuksen on tehtävä toiminnastaan ja sen olennaisista muutoksista ilmoitus Lääkelaitokselle. Sosiaali- ja terveysministeriön asetuksella voidaan antaa tarkempia säännöksiä veripalvelulaitoksen toimilupahakemuksesta, verikeskuksen toiminnasta tehtävästä ilmoituksesta sekä toimilupahakemuksessa ja ilmoituksessa vaadittavista tiedoista.",
+      "section_number": "4",
+      "chapter_number": 1,
+      "statute_id": ""
+    },
+    {
+      "id": "ff7ff82d-0bc0-4111-92e8-f4cc6835b9a8",
+      "node_type": "Section",
+      "publisher": "finlex",
+      "title": "5 § Veripalvelulaitoksen vastuuhenkilö",
+      "text": "Veripalvelulaitoksella on oltava vastuuhenkilö, jonka tehtävänä on huolehtia 4 §:ssä tarkoitetusta toimiluvan hakemisesta sekä 6―17 §:ssä veripalvelulaitokselle säädettyjen velvollisuuksien täytäntöönpanosta. Veripalvelulaitoksen vastuuhenkilön on täytettävä laatu- ja turvallisuusvaatimusten asettamisesta ihmisveren ja veren komponenttien keräämistä, tutkimista, käsittelyä, säilytystä ja jakelua varten sekä direktiivin 2001/83/EY muuttamisesta annetun Euroopan parlamentin ja neuvoston direktiivin 2002/98/EY 9 artiklan mukaiset pätevyysvaatimukset. Veripalvelulaitoksen on ilmoitettava Lääkelaitokselle 1 momentissa mainitusta vastuuhenkilöstä ja hänen sijaisestaan.",
+      "section_number": "5",
+      "chapter_number": 2,
+      "statute_id": ""
+    },
+    {
+      "id": "046c2026-5f3d-4e4c-9152-43d1f6ef8fe4",
+      "node_type": "Section",
+      "publisher": "finlex",
+      "title": "6 § Henkilöstö",
+      "text": "Veripalvelulaitoksen ja verikeskuksen henkilöstöllä on oltava tehtäviin asianmukainen pätevyys ja henkilöstölle on järjestettävä säännöllisesti asianmukaista koulutusta.",
+      "section_number": "6",
+      "chapter_number": 2,
+      "statute_id": ""
+    },
+    {
+      "id": "50f227cd-e711-41a1-8499-7ea4b42e699c",
+      "node_type": "Section",
+      "publisher": "finlex",
+      "title": "7 § Laatujärjestelmä",
+      "text": "Veripalvelulaitoksessa ja verikeskuksessa on oltava dokumentaatiojärjestelmää, henkilöstöä ja toimitiloja sekä veripalvelulaitoksen osalta myös verenluovutuskäytäntöjä koskeva laatujärjestelmä. Lääkelaitos voi antaa tarkempia määräyksiä laatujärjestelmän sisällöstä ja toteuttamisesta.",
+      "section_number": "7",
+      "chapter_number": 2,
+      "statute_id": ""
+    },
+    {
+      "id": "e3898526-491e-4ec0-9b3d-643b1ad90f37",
+      "node_type": "Section",
+      "publisher": "finlex",
+      "title": "8 § Dokumentaatio",
+      "text": "Veripalvelulaitoksella ja verikeskuksella tulee olla dokumentaatiojärjestelmä, joka kattaa toiminnan ohjeistuksen, käytössä olevat lomakkeet ja asiakirjat sekä muut toiminnan ja sen valvonnan kannalta tarpeelliset tiedot.",
+      "section_number": "8",
+      "chapter_number": 2,
+      "statute_id": ""
+    },
+    {
+      "id": "2afc708b-c22a-49b1-9fc8-517276bae85c",
+      "node_type": "Section",
+      "publisher": "finlex",
+      "title": "9 § Jäljitettävyys",
+      "text": "Veripalvelulaitoksessa ja terveydenhuollon toimintayksikössä on oltava järjestelmä, jonka avulla kaikki kerätyt, tutkitut, käsitellyt, säilytetyt tai jaellut verierät ja veren osat voidaan jäljittää luovuttajasta vastaanottajaan ja päinvastoin. Jäljitettävyyttä koskevista tiedoista voidaan antaa tarkempia säännöksiä sosiaali- ja terveysministeriön asetuksella. Veripalvelulaitoksella on oikeus erityisestä syystä yksittäistapauksessa saada salassapitosäännösten estämättä luovuttajan jäljittämiseksi tarvittavat tiedot.",
+      "section_number": "9",
+      "chapter_number": 2,
+      "statute_id": ""
+    },
+    {
+      "id": "9397c30e-d8f5-4c3b-af48-9b1a6ffabfa0",
+      "node_type": "Section",
+      "publisher": "finlex",
+      "title": "10 § Veriturvatoiminta",
+      "text": "Veripalvelulaitoksen ja terveydenhuollon toimintayksikön tulee pitää luetteloa kaikista sen tietoon tulleista vereen tai sen osiin liittyvistä vaaratilanteista ja haittavaikutuksista. Veripalvelulaitoksen tulee ilmoittaa viipymättä Lääkelaitokselle toimintaansa liittyvät, veren tai sen osien laatuun ja turvallisuuteen mahdollisesti vaikuttavat vakavat vaaratilanteet sekä veren tai sen osien laatupoikkeamasta mahdollisesti johtuvat verensiirron aikana tai sen jälkeen havaitut vakavat haittavaikutukset. Terveydenhuollon toimintayksikön tulee ilmoittaa 2 momentin mukaiset tapahtumat veripalvelulaitokselle, jonka on toimitettava niistä tieto viipymättä Lääkelaitokselle. Terveydenhuollon toimintayksikkö voi lisäksi ilmoittaa muut verestä tai sen osista johtuvat tai verensiirtoihin liittyvät vaaratilanteet ja haittavaikutukset veripalvelulaitokselle. Verta ja sen osia, joista on tehty 2 tai 3 momentissa tarkoitettu ilmoitus, ei saa käyttää ja tällainen veri ja sen osa tulee poistaa jakelusta. Tällainen veri ja sen osa voidaan ottaa käyttöön, jos erillisen selvityksen perusteella voidaan osoittaa, että se täyttää tämän lain mukaiset laatuvaatimukset. Sosiaali- ja terveysministeriön asetuksella voidaan antaa säännöksiä menettelystä, jolla vaaratilanteet ja haittavaikutukset ilmoitetaan ja ilmoituksessa käytettävästä lomakkeesta.",
+      "section_number": "10",
+      "chapter_number": 2,
+      "statute_id": ""
+    },
+    {
+      "id": "93f7fc19-76c3-4cdd-88e3-07cb0bf09574",
+      "node_type": "Section",
+      "publisher": "finlex",
+      "title": "11 § Luovuttajiin liittyvät tiedot",
+      "text": "Veren ja sen osan luovuttajalle on ennen luovutusta annettava luovutukseen liittyvät tarpeelliset tiedot sekä henkilötietolain (523/1999) 24 §:n mukaiset tiedot ja luovuttajaa on informoitava tietojen salassapidosta. Luovuttajalta on pyydettävä hänen yksilöintiään koskevat tiedot, luovutuskelpoisuutta arvioitaessa hänen terveydentilaansa liittyvät ja välttämättömät luovuttajan luovutuskelpoisuutta koskevat tiedot sekä luovuttajan omakätinen allekirjoitus tai sähköisestä allekirjoituksesta annetun lain (14/2003) mukainen kehittynyt sähköinen allekirjoitus. Lääkelaitos voi antaa tarkempia määräyksiä luovuttajille annettavista ja heiltä pyydettävistä tiedoista.",
+      "section_number": "11",
+      "chapter_number": 2,
+      "statute_id": ""
+    },
+    {
+      "id": "b2957421-5a63-4b71-8a3c-c7cc3cf67612",
+      "node_type": "Section",
+      "publisher": "finlex",
+      "title": "12 § Luovutuskelpoisuus",
+      "text": "Veren tai sen osan luovutuskelpoisuus edellyttää, että luovuttajan sairaus, lääkitys tai sairauden riski ei vaaranna luovuttajan terveyttä eikä luovutetun veren tai sen osan turvallisuutta. Veripalvelulaitoksen terveydenhuollon ammattihenkilön on ennen verenluovutusta selvitettävä, että luovutukselle ei ole estettä. Lääkelaitos voi antaa tarkempia määräyksiä luovutuskelpoisuuden selvittämisestä ja perusteista, joilla verta ei voi luovuttaa pysyvästi tai määräaikaisesti. Veripalvelulaitoksen lääkäri voi erityisestä syystä yksittäistapauksessa poiketa luovutuskelpoisuuden edellytyksistä. Veripalvelulaitoksen on kirjattava nämä tapaukset.",
+      "section_number": "12",
+      "chapter_number": 2,
+      "statute_id": ""
+    },
+    {
+      "id": "e079ec77-ceca-4195-9746-b71a9f74b468",
+      "node_type": "Section",
+      "publisher": "finlex",
+      "title": "13 § Luovutetun veren tutkiminen",
+      "text": "Veripalvelulaitoksen on tutkittava jokainen luovutettu verierä tai veren osaerä turvallisuuden varmistamiseksi. Lääkelaitos voi antaa tarkempia määräyksiä vaadittavista tutkimuksista ja niiden hyväksyttävistä tuloksista.",
+      "section_number": "13",
+      "chapter_number": 2,
+      "statute_id": ""
+    },
+    {
+      "id": "b93aacd5-245b-4c30-9aaa-6944827c6a43",
+      "node_type": "Section",
+      "publisher": "finlex",
+      "title": "14 § Verenluovuttajarekisteri",
+      "text": "Veripalvelulaitoksen pitää tallentaa verenluovuttajarekisteriin verenluovuttajan nimi, henkilötunnus sekä tarpeelliset yhteystiedot verenluovuttajan jäljittämiseksi sekä hänen suostumuksellaan tapahtuvaa verenluovutukseen kutsumista varten. Lisäksi rekisteriin tulee tallettaa veripalvelutoimintaa varten välttämättömät luovuttajan luovutuskelpoisuutta koskevat tiedot sekä verta koskevat tutkimustulokset. Henkilöstä, jota ei ole hyväksytty luovuttajaksi, voidaan rekisteriin tallentaa nimi, henkilötunnus, yhteystiedot sekä luovutuskiellon yleinen peruste. Nämä tiedot on hävitettävä välittömästi sen jälkeen, kun näiden tietojen käsittelylle ei enää ole perustetta. Rekisteriin talletetut sekä muut veripalvelutoiminnan yhteydessä luovuttajista saadut tiedot sekä asiakirjat ovat salassa pidettäviä. Rekisterin tietojen keräämisessä, käytössä ja säilyttämisessä on lisäksi otettava soveltuvin osin huomioon, mitä arkistolaissa (831/1994) ja henkilötietolaissa säädetään.",
+      "section_number": "14",
+      "chapter_number": 2,
+      "statute_id": ""
+    },
+    {
+      "id": "7a00e6fa-d7c7-457d-aa3f-e03aff6c8d11",
+      "node_type": "Section",
+      "publisher": "finlex",
+      "title": "15 § Tietojen säilytys",
+      "text": "Veripalvelulaitoksen, verikeskuksen ja terveydenhuollon toimintayksikön on säilytettävä 9 §:n mukaiset jäljitettävyyteen liittyvät tiedot 30 vuotta. Veripalvelulaitoksen on säilytettävä toimintakertomuksensa sekä 11 §:n 1 momentissa ja 12―14 §:ssä tarkoitetut tiedot 15 vuotta. Lääkelaitos voi antaa tarkempia määräyksiä 11 §:n 1 momentissa tarkoitettujen tietojen säilyttämisestä. Asiakirjojen säilyttämisestä pysyvästi säädetään arkistolaissa.",
+      "section_number": "15",
+      "chapter_number": 2,
+      "statute_id": ""
+    },
+    {
+      "id": "60318d41-00ff-456b-b3ba-fc0f5374f109",
+      "node_type": "Section",
+      "publisher": "finlex",
+      "title": "16 § Säilytys-, kuljetus- ja jakeluolosuhteet",
+      "text": "Veripalvelulaitoksen ja verikeskuksen on varmistettava, että veren ja sen osien säilytys-, kuljetus- ja jakeluolosuhteet ovat asianmukaiset. Lääkelaitos voi antaa tarkempia määräyksiä säilytysolosuhteista ja säilytysajasta sekä kuljetus- ja jakeluolosuhteista.",
+      "section_number": "16",
+      "chapter_number": 2,
+      "statute_id": ""
+    },
+    {
+      "id": "8fcc1157-c3e2-4bf1-9885-e74f7b7baa44",
+      "node_type": "Section",
+      "publisher": "finlex",
+      "title": "17 § Laatu- ja turvallisuusvaatimukset",
+      "text": "Veripalvelulaitoksen on varmistettava, että veren ja sen osien laatu ja turvallisuus ovat asianmukaiset. Lääkelaitos voi antaa tarkempia määräyksiä laatu- ja turvallisuusvaatimuksista.",
+      "section_number": "17",
+      "chapter_number": 2,
+      "statute_id": ""
+    },
+    {
+      "id": "c9951efe-7547-4da7-91b0-46ed15f42aa2",
+      "node_type": "Section",
+      "publisher": "finlex",
+      "title": "18 § Ohjaus ja valvonta",
+      "text": "Veripalvelutoiminnan ohjaus ja valvonta kuuluu sosiaali- ja terveysministeriön alaisena Lääkelaitokselle. Sosiaali- ja terveysministeriön asetuksella annetaan säännökset valvonnasta perittävistä maksuista ottaen huomioon, mitä valtion maksuperustelaissa (150/1992) tai sen nojalla säädetään tai määrätään. Verikeskuksen ohjauksesta ja valvonnasta on voimassa, mitä kansanterveyslaissa (66/1972), erikoissairaanhoitolaissa (1062/1989), yksityisestä terveydenhuollosta annetussa laissa (152/1990) ja terveydenhuollon ammattihenkilöistä annetussa laissa (559/1994) säädetään.",
+      "section_number": "18",
+      "chapter_number": 3,
+      "statute_id": ""
+    },
+    {
+      "id": "d4e3a3fc-1553-454b-865d-c86dfff04990",
+      "node_type": "Section",
+      "publisher": "finlex",
+      "title": "19 § Tarkastukset",
+      "text": "Lääkelaitoksen tulee tarkastaa veripalvelulaitos säännöllisesti, kuitenkin vähintään kahden vuoden välein. Lääkelaitos voi lisäksi tarvittaessa tarkastaa veripalvelulaitoksen, jos sen toiminnassa on havaittu veren tai sen osien laatuun ja turvallisuuteen liittyvä vakava vaaratilanne tai vakava haittavaikutus tai epäiltäessä, että sellainen on tapahtunut. Tarkastaja on päästettävä kaikkiin veripalvelulaitoksen toimitiloihin. Tarkastuksessa on esitettävä salassapitosäännösten estämättä kaikki tarkastajan pyytämät asiakirjat, jotka ovat tarpeellisia tarkastuksen toimittamiseksi. Tarkastajalle on annettava maksutta hänen pyytämänsä jäljennökset tarkastuksen toimittamiseksi tarpeellisista asiakirjoista sekä näytteet toimipisteessä olevista aineista ja valmisteista erikseen tarkemmin tutkittaviksi. Tarkastajalla on erityisestä syystä oikeus salassapitosäännösten estämättä saada 14 §:ssä mainitun verenluovuttajarekisterin sisältämiä tietoja. Tarkastajalla on myös oikeus ottaa valokuvia tarkastuksen aikana. Tarkastuksesta on pidettävä pöytäkirjaa. Tarkastuksessa erityisesti huomioon otettavista asioista, tarkastusmenettelyn tarkemmasta sisällöstä sekä pöytäkirjasta, sen säilytysajasta ja tiedoksi antamisesta voidaan antaa tarkemmat säännökset sosiaali- ja terveysministeriön asetuksella.",
+      "section_number": "19",
+      "chapter_number": 3,
+      "statute_id": ""
+    },
+    {
+      "id": "71796244-1948-4948-9b1a-ca31d2d3da7a",
+      "node_type": "Section",
+      "publisher": "finlex",
+      "title": "20 § Tarkastuksessa annettava määräys",
+      "text": "Tarkastaja voi antaa määräyksiä havaittujen puutteiden korjaamiseksi. Tarkastuksessa mahdollisesti annetun määräyksen johdosta on viipymättä ryhdyttävä asian vaatimiin toimenpiteisiin.",
+      "section_number": "20",
+      "chapter_number": 3,
+      "statute_id": ""
+    },
+    {
+      "id": "cfdb4e8a-6d2e-4287-b57a-7aa05dc21405",
+      "node_type": "Section",
+      "publisher": "finlex",
+      "title": "21 § Toimiluvan peruuttaminen ja uhkasakon asettaminen",
+      "text": "Lääkelaitos voi peruuttaa määräajaksi tai kokonaan veripalvelulaitokselle annetun toimiluvan tai asettaa sakon uhan siten kuin uhkasakkolaissa (1113/1990) säädetään, jos:",
+      "section_number": "21",
+      "chapter_number": 3,
+      "statute_id": ""
+    },
+    {
+      "id": "79d27f0f-53c2-4d37-9bdb-2d352cf542a2",
+      "node_type": "Section",
+      "publisher": "finlex",
+      "title": "22 § Veren ja sen osien tuonti Suomeen",
+      "text": "Veripalvelulaitos saa tuoda verta tai sen osia Suomeen Euroopan unionin jäsenvaltiosta tämän lain ja veripalvelulaitoksen toimiluvan ehtojen mukaisesti. Veren tai sen osien tuominen kolmansista maista Suomeen edellyttää Lääkelaitoksen lupaa. Lupa voidaan myöntää veripalvelulaitokselle, jos se osoittaa tuotavan, verta tai sen osia koskevan erän täyttävän tässä laissa asetetut laatu-, turvallisuus- ja jäljitettävyysvaatimukset.",
+      "section_number": "22",
+      "chapter_number": 4,
+      "statute_id": ""
+    },
+    {
+      "id": "f11b5740-9ce1-47c5-bc99-207213e4c8a3",
+      "node_type": "Section",
+      "publisher": "finlex",
+      "title": "23 § Oikaisu",
+      "text": "Tämän lain 20 §:ssä tarkoitettuun määräykseen ei saa valittamalla hakea muutosta. Määräykseen tyytymättömällä on oikeus tehdä Lääkelaitokselle vaatimus päätöksen oikaisemisesta. Määräykseen on liitettävä ohjeet sen saattamiseksi Lääkelaitoksen käsiteltäväksi. Määräyksen mukaisiin toimenpiteisiin on ryhdyttävä oikaisuvaatimuksesta huolimatta. Edellä 1 momentissa todettu oikaisuvaatimus on tehtävä kirjallisesti 30 päivän kuluessa tarkastuksen päättymisestä ja siinä on ilmoitettava: Oikaisuvaatimus on sen tekijän tai laatijan omakätisesti allekirjoitettava. Oikaisuvaatimukseen on liitettävä todisteet, joihin oikaisuvaatimuksen tekijä haluaa nojautua ja joita ei ole esitetty aikaisemmin.",
+      "section_number": "23",
+      "chapter_number": 4,
+      "statute_id": ""
+    },
+    {
+      "id": "787d4687-f3c8-41a5-aef3-ffca158e1fbb",
+      "node_type": "Section",
+      "publisher": "finlex",
+      "title": "24 § Muutoksenhaku",
+      "text": "Lääkelaitoksen 4 ja 21―23 §:n perusteella antamaan päätökseen haetaan muutosta siten kuin hallintolainkäyttölaissa (586/1996) säädetään.",
+      "section_number": "24",
+      "chapter_number": 4,
+      "statute_id": ""
+    },
+    {
+      "id": "c8f587f3-a5f9-4535-b423-1bc95290a5b1",
+      "node_type": "Section",
+      "publisher": "finlex",
+      "title": "25 § Voimaantulo",
+      "text": "Tämä laki tulee voimaan 1 päivänä marraskuuta 2005. Tällä lailla kumotaan veripalvelutoiminnasta 4 päivänä marraskuuta 1994 annettu laki (968/1994). Ennen lain voimaantuloa voidaan ryhtyä lain täytäntöönpanon edellyttämiin toimiin. Suomen Punaisen Ristin on 31 päivään toukokuuta 2005 mennessä ilmoitettava Lääkelaitokselle, että sen veripalvelun toiminta vastaa tätä lakia ja sen nojalla annettua sosiaali- ja terveysministeriön asetusta ja Lääkelaitoksen määräyksiä. Lääkelaitoksen on 31 päivään lokakuuta 2005 mennessä ratkaistava toimilupa-asia.",
+      "section_number": "25",
+      "chapter_number": 4,
+      "statute_id": ""
+    }
+  ],
+  "clauses": [
+    {
+      "id": "f62334ab-6b44-4f79-bbf1-372e0876d6a5",
+      "node_type": "Clause",
+      "publisher": "finlex",
+      "title": "§ 21 mom 1",
+      "text": "1) toimiluvan edellytykset eivät enää täyty;",
+      "clause_number": 1,
+      "section_number": "21",
+      "statute_id": ""
+    },
+    {
+      "id": "4b1b8d28-f067-4aa0-b900-e1f25f9882f1",
+      "node_type": "Clause",
+      "publisher": "finlex",
+      "title": "§ 21 mom 2",
+      "text": "2) veripalvelulaitos on olennaisella tavalla toiminut tämän lain tai toimiluvan ehtojen vastaisesti taikka sen toiminta muutoin vakavasti vaarantaa veren tai sen osien turvallisuuden; tai",
+      "clause_number": 2,
+      "section_number": "21",
+      "statute_id": ""
+    },
+    {
+      "id": "327cbe2d-f50c-4073-af96-7708873c105b",
+      "node_type": "Clause",
+      "publisher": "finlex",
+      "title": "§ 21 mom 3",
+      "text": "3) 20 §:n perusteella annettujen määräysten mukaisiin toimenpiteisiin ei ole ryhdytty.",
+      "clause_number": 3,
+      "section_number": "21",
+      "statute_id": ""
+    },
+    {
+      "id": "8e603c94-ee82-4760-8bf1-b4b777bb0cab",
+      "node_type": "Clause",
+      "publisher": "finlex",
+      "title": "§ 23 mom 1",
+      "text": "1) oikaisuvaatimuksen tekijän nimi;",
+      "clause_number": 1,
+      "section_number": "23",
+      "statute_id": ""
+    },
+    {
+      "id": "24c09a58-2479-4e6d-9863-d1e12b6fe4ea",
+      "node_type": "Clause",
+      "publisher": "finlex",
+      "title": "§ 23 mom 2",
+      "text": "2) määräys, johon haetaan oikaisua;",
+      "clause_number": 2,
+      "section_number": "23",
+      "statute_id": ""
+    },
+    {
+      "id": "6f390a99-50c2-4656-bb99-7cf5ffcd0bc9",
+      "node_type": "Clause",
+      "publisher": "finlex",
+      "title": "§ 23 mom 3",
+      "text": "3) miltä osin määräykseen haetaan oikaisua ja oikaisu, jota siihen vaaditaan tehtäväksi; sekä",
+      "clause_number": 3,
+      "section_number": "23",
+      "statute_id": ""
+    },
+    {
+      "id": "f0f8140f-a7c0-4175-8095-079f3731a18d",
+      "node_type": "Clause",
+      "publisher": "finlex",
+      "title": "§ 23 mom 4",
+      "text": "4) oikaisuvaatimuksen perusteet.",
+      "clause_number": 4,
+      "section_number": "23",
+      "statute_id": ""
+    }
+  ],
+  "cross_references": [],
+  "raw_html_path": "C:\\Users\\danit\\finance-hack\\aalto-hackaton-2026\\data\\raw\\finlex\\Laki (säädöskokoelma)\\Veripalvelulaki.html"
+}

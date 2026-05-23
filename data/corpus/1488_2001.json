@@ -1,0 +1,751 @@
+{
+  "statute": {
+    "id": "280eb5d8-2b71-40a5-aee1-ea475b5be395",
+    "node_type": "Statute",
+    "publisher": "finlex",
+    "title": "Laki talletuspankkien yhteenliittymästä",
+    "text": "Laki talletuspankkien yhteenliittymästä",
+    "statute_id": "1488/2001",
+    "finlex_url": "https://finlex.fi/fi/laki/ajantasa/1488/2001"
+  },
+  "chapters": [
+    {
+      "id": "645a26fe-d726-45c0-b8f9-9c7c49c30397",
+      "node_type": "Chapter",
+      "publisher": "finlex",
+      "title": "Chapter 1",
+      "text": "1 luku Yleiset säännökset",
+      "chapter_number": 1,
+      "statute_id": "1488/2001"
+    },
+    {
+      "id": "e50e7536-94f7-4e6e-aab8-98fd70f6ee22",
+      "node_type": "Chapter",
+      "publisher": "finlex",
+      "title": "Chapter 2",
+      "text": "2 luku Keskusyhteisön toimilupa",
+      "chapter_number": 2,
+      "statute_id": "1488/2001"
+    },
+    {
+      "id": "27fe91b1-e5c0-47bc-a4b5-1865d2670824",
+      "node_type": "Chapter",
+      "publisher": "finlex",
+      "title": "Chapter 3",
+      "text": "3 luku Yhteenliittymän ohjaus, riskienhallinta ja vakavaraisuus",
+      "chapter_number": 3,
+      "statute_id": "1488/2001"
+    },
+    {
+      "id": "4b3c28eb-0484-4959-bb77-5a0e675e2cf3",
+      "node_type": "Chapter",
+      "publisher": "finlex",
+      "title": "Chapter 4",
+      "text": "4 luku Jäsenluottolaitoksen vakavaraisuus ja sen valvonta",
+      "chapter_number": 4,
+      "statute_id": "1488/2001"
+    },
+    {
+      "id": "03df28b4-dbd9-4b79-8fa1-0095c05e1906",
+      "node_type": "Chapter",
+      "publisher": "finlex",
+      "title": "Chapter 5",
+      "text": "5 luku Keskusyhteisön maksuvelvollisuus ja jäsenluottolaitosten keskinäinen vastuu",
+      "chapter_number": 5,
+      "statute_id": "1488/2001"
+    },
+    {
+      "id": "1d7c5318-069e-46aa-b663-caefe7a5cb7e",
+      "node_type": "Chapter",
+      "publisher": "finlex",
+      "title": "Chapter 6",
+      "text": "6 luku Valvonta",
+      "chapter_number": 6,
+      "statute_id": "1488/2001"
+    },
+    {
+      "id": "8222271d-d4a8-4de1-873a-f8da63bdca7e",
+      "node_type": "Chapter",
+      "publisher": "finlex",
+      "title": "Chapter 7",
+      "text": "7 luku Erinäiset säännökset",
+      "chapter_number": 7,
+      "statute_id": "1488/2001"
+    }
+  ],
+  "sections": [
+    {
+      "id": "f59a2e35-650d-4fc9-90fa-d4f5ea87d4cb",
+      "node_type": "Section",
+      "publisher": "finlex",
+      "title": "1 § Lain soveltamisala",
+      "text": "Tässä laissa säädetään talletuspankkien yhteenliittymän (yhteenliittymä) keskusyhteisönä toimivan osuuskunnan (keskusyhteisö) sekä keskusyhteisön jäsenenä olevan talletuspankin ja muun luottolaitoksen (jäsenluottolaitos) sekä yhteenliittymään kuuluvien muiden yritysten toiminnalle asetettavista vaatimuksista. Keskusyhteisöön sovelletaan osuuskuntalakia (1488/2001) ja jäsenluottolaitokseen luottolaitostoiminnasta annettua lakia (121/2007), jollei tästä laista muuta johdu.",
+      "section_number": "1",
+      "chapter_number": 1,
+      "statute_id": "1488/2001"
+    },
+    {
+      "id": "6ed7cc4c-c2ae-4d5a-8e1c-65c499985b6e",
+      "node_type": "Section",
+      "publisher": "finlex",
+      "title": "2 § Yhteenliittymä",
+      "text": "Yhteenliittymän muodostavat: Yhteenliittymä syntyy, kun keskusyhteisö on rekisteröity tai, jos keskusyhteisön toimilupaa on hakenut aikaisemmin rekisteröity osuuskunta, sen tämän lain mukaiset säännöt on rekisteröity, ja se on saanut tämän lain mukaisen toimiluvan toimia yhteenliittymän keskusyhteisönä. Tätä lakia sovellettaessa vakuutusyhtiötä, joka ei merkittävässä määrin harjoita muuta liiketoimintaa kuin luottovakuutusten myöntämistä yhteenliittymän jäsenluottolaitoksille, pidetään palveluyrityksenä. Yhteenliittymän purkautumisesta säädetään 10 §:ssä.",
+      "section_number": "2",
+      "chapter_number": 1,
+      "statute_id": "1488/2001"
+    },
+    {
+      "id": "ad2fbf61-1d88-47f9-b401-1e4745ddac63",
+      "node_type": "Section",
+      "publisher": "finlex",
+      "title": "3 § Yhteenliittymän muodostamisen yleiset edellytykset",
+      "text": "Yhteenliittymän muodostamisen yleisenä edellytyksenä on, että:",
+      "section_number": "3",
+      "chapter_number": 1,
+      "statute_id": "1488/2001"
+    },
+    {
+      "id": "fe67b35a-95ee-497f-83c9-0b27871828e9",
+      "node_type": "Section",
+      "publisher": "finlex",
+      "title": "4 § Keskusyhteisö",
+      "text": "Keskusyhteisö on osuuskuntalain 1 luvun 2 §:ssä tarkoitettu osuuskunta, joka on oikeutettu ohjaamaan jäsenluottolaitoksia. Keskusyhteisöllä on oltava tämän lain 2 luvun mukainen toimilupa. Keskusyhteisö saa tarjota yhteenliittymään kuuluvien yritysten tarvitsemia palveluja, omistaa osakkeita ja osuuksia yhteenliittymään kuuluvissa yrityksissä ja harjoittaa muuta yhteenliittymän kannalta perusteltua sijoitustoimintaa. Keskusyhteisö ei saa harjoittaa merkittävässä määrin muuta liiketoimintaa. Yhteenliittymään kuuluvaan yritykseen rinnastetaan tätä momenttia sovellettaessa myös rahoitus- ja vakuutusryhmittymien valvonnasta annetussa laissa (699/2004) tarkoitettu rahoitus- ja vakuutusryhmittymään kuuluva yritys, jos keskusyhteisö tai sen jäsenluottolaitos on mainitussa laissa tarkoitettu ryhmittymän omistusyhteisö. Keskusyhteisön konsolidointiryhmään luetaan keskusyhteisö sekä sellainen luottolaitos, siihen rinnastettava ulkomainen luottolaitos, rahoituslaitos ja palveluyritys, joka on keskusyhteisön kirjanpitolaissa (1336/1997) tarkoitettu tytäryritys.",
+      "section_number": "4",
+      "chapter_number": 1,
+      "statute_id": "1488/2001"
+    },
+    {
+      "id": "e9627d5b-a9ae-4161-ada2-c58581ed5249",
+      "node_type": "Section",
+      "publisher": "finlex",
+      "title": "5 § Keskusyhteisön säännöt",
+      "text": "Sen lisäksi, mitä osuuskuntalain 2 luvun 5 ja 6 §:ssä säädetään, keskusyhteisön säännöissä on määrättävä, että: Keskusyhteisön säännöissä voidaan määrätä, että osuuskuntalain 4 luvun 5 §:n estämättä keskusyhteisön tytäryhteisö saa osallistua osuuskunnan kokoukseen ja että tällaisella tytäryhteisöllä on osuuskunnan kokouksessa puheoikeus mutta ei äänioikeutta.",
+      "section_number": "5",
+      "chapter_number": 1,
+      "statute_id": "1488/2001"
+    },
+    {
+      "id": "26c32af4-de79-4619-adff-db4c3fa3b99b",
+      "node_type": "Section",
+      "publisher": "finlex",
+      "title": "6 § Jäsenluottolaitoksen säännöt ja yhtiöjärjestys",
+      "text": "Sen lisäksi, mitä muualla laissa säädetään, jäsenluottolaitoksen säännöissä tai yhtiöjärjestyksessä on määrättävä, että: Jäsenluottolaitoksen muuta kuin 8 §:ssä tarkoitettua keskusyhteisöstä eroamista tarkoittavaa sääntöjen tai yhtiöjärjestyksen muutosta ei saa merkitä kaupparekisteriin, ellei keskusyhteisö ole hyväksynyt muutosta.",
+      "section_number": "6",
+      "chapter_number": 1,
+      "statute_id": "1488/2001"
+    },
+    {
+      "id": "91d64d28-da3f-4286-9ec6-c19eb848b60c",
+      "node_type": "Section",
+      "publisher": "finlex",
+      "title": "7 § Keskusyhteisön jäseneksi liittyminen",
+      "text": "Luottolaitos voidaan ottaa keskusyhteisön jäseneksi, kun sen 6 §:n mukaiset säännöt tai yhtiöjärjestys on hyväksytty. Päätös sääntöjen tai yhtiöjärjestyksen hyväksymisestä on pätevä vain, jos sen puolesta on osuuskunnan tai isäntien kokouksessa annettu vähintään kaksi kolmasosaa äänestykseen osallistuneiden äänistä tai jos sitä on yhtiökokouksessa kannattanut vähintään kaksi kolmasosaa annetuista äänistä ja kokouksessa edustetuista osakkeista.",
+      "section_number": "7",
+      "chapter_number": 1,
+      "statute_id": "1488/2001"
+    },
+    {
+      "id": "166a797a-ddcf-402b-9e9f-fc83079cc590",
+      "node_type": "Section",
+      "publisher": "finlex",
+      "title": "8 § Keskusyhteisön jäsenyydestä eroaminen ja erottaminen sekä jäsenluottolaitoksen sulautuminen",
+      "text": "Jäsenluottolaitoksella on oikeus erota keskusyhteisöstä päättämällä sääntöjen tai yhtiöjärjestyksen 6 §:ssä tarkoitettujen määräysten muuttamisesta sekä ilmoittamalla siitä kirjallisesti keskusyhteisön hallitukselle, jos yhteenliittymään kuuluvien yritysten omien varojen yhdistelty määrä säilyy 19 §:ssä säädetyn mukaisena eroamisen jälkeenkin. Päätös on pätevä vain, jos sen puolesta on annettu tai sitä kannattaa 7 §:n mukainen äänten ja osakkeiden enemmistö. Vakavaraisuuden säilyminen on todettava keskusyhteisön tilintarkastajien varmentamalla laskelmalla. Jäsenluottolaitos voidaan erottaa keskusyhteisöstä osuuskuntalain 3 luvun 5 §:n mukaisesti tai jos jäsenluottolaitos on laiminlyönyt noudattaa keskusyhteisön tämän lain 17 §:n nojalla antamia ohjeita tavalla, joka merkittävästi vaarantaa maksuvalmiuden tai vakavaraisuuden hallintaa taikka tilinpäätöksen laatimista koskevien yhtenäisten periaatteiden soveltamista tai niiden noudattamisen valvontaa yhteenliittymässä, taikka jos jäsenluottolaitos muuten toimii olennaisesti keskusyhteisön vahvistamien yhteenliittymän yleisten toimintaperiaatteiden vastaisesti. Keskusyhteisön on ilmoitettava Finanssivalvonnalle erottamisperusteesta ja erottamista käsittelevästä osuuskunnan elimen kokouksesta viimeistään samalla, kun osuuskunta toimittaa jäsenelle osuuskuntalain 3 luvun 5 §:n 2 momentissa tarkoitetun ilmoituksen. Edellytyksenä jäsenluottolaitoksen sulautumiselle muuhun kuin toiseen jäsenluottolaitokseen on sen lisäksi, mitä muualla laissa säädetään, että sulautumisesta ilmoitetaan kirjallisesti keskusyhteisön hallitukselle ennen sulautumissuunnitelman hyväksymistä ja että yhteenliittymään kuuluvien yritysten omien varojen yhdistelty määrä säilyy 19 §:ssä säädetyn mukaisena. Vastaanottavaan luottolaitokseen ja muuhun yritykseen sovelletaan, mitä 27 §:ssä säädetään eronneesta ja erotetusta jäsenluottolaitoksesta. Mainitussa pykälässä säädetty määräaika lasketaan sulautumisen rekisteröintiä lähinnä seuraavasta tilinpäätöspäivästä.",
+      "section_number": "8",
+      "chapter_number": 1,
+      "statute_id": "1488/2001"
+    },
+    {
+      "id": "30135282-9da2-4615-9b95-ecac7e170b9b",
+      "node_type": "Section",
+      "publisher": "finlex",
+      "title": "9 § Tilinpäätös ja tilintarkastus",
+      "text": "Keskusyhteisön tilinpäätöksen ja konsernitilinpäätöksen laatimisessa sekä tilintarkastuksessa noudatetaan luottolaitostoiminnasta annetun lain säännöksiä. Jäsenluottolaitokseen ei sovelleta, mitä luottolaitostoiminnasta annetun lain 157 §:ssä säädetään osavuosikatsauksesta ja vuosikatsauksesta. Keskusyhteisön on laadittava keskusyhteisön ja sen jäsenluottolaitosten tilinpäätösten tai konsernitilinpäätösten yhdistelmänä tilinpäätös noudattaen kirjanpitolain 7 a luvun 1 §:ssä tarkoitettuja kansainvälisiä tilinpäätösstandardeja, jollei jäljempänä tässä momentissa toisin säädetä. Yhdistelty tilinpäätös käsittää myös sellaiset yhteisöt, joissa edellä tarkoitetuilla yhteisöillä yhdessä on kirjanpitolaissa tarkoitettu määräysvalta. Siltä osin kuin kansainvälisiä tilinpäätösstandardeja ei voida soveltaa yhteenliittymän erityisen rakenteen vuoksi, keskusyhteisön hallituksen on hyväksyttävä vastaavat, yhteenliittymän rakenteeseen soveltuvat tilinpäätösperiaatteet. Keskusyhteisön tilintarkastajien on noudattaen soveltuvin osin luottolaitostoiminnasta annetun lain säännöksiä tarkastettava yhdistelty tilinpäätös, joka on esiteltävä ja annettava tiedoksi keskusyhteisön varsinaiselle osuuskunnan kokoukselle. Keskusyhteisön jäsenluottolaitoksen on pidettävä jäljennös 2 momentissa tarkoitetusta tilinpäätöksestä jokaisen nähtävänä ja annettava siitä jäljennöksiä noudattaen, mitä luottolaitostoiminnasta annetun lain 156 §:n 2 ja 4 momentissa säädetään. Keskusyhteisöstä ja jäsenluottolaitoksista ja niiden tytäryrityksistä on laadittava yhdistelty osavuosikatsaus ja vuosikatsaus noudattaen soveltuvin osin, mitä 2 momentissa ja luottolaitostoiminnasta annetun lain 157 §:ssä säädetään. Keskusyhteisön jäsenluottolaitoksen on annettava jokaiselle sitä pyytävälle jäljennös yhdistellystä osavuosikatsauksesta niin kuin luottolaitostoiminnasta annetun lain 156 §:ssä säädetään. Jäsenluottolaitoksen tulee antaa keskusyhteisölle tilinpäätöstietojen yhdistelyä varten tarpeelliset tiedot. Keskusyhteisöllä ja sen tilintarkastajalla on lisäksi oikeus yhdistellyn tilinpäätöksen tarkastamista varten saada jäljennös jäsenluottolaitoksen tilintarkastusta koskevista asiakirjoista sen estämättä, mitä jäsenluottolaitoksen ja sen tilintarkastajan salassapitovelvollisuudesta muualla laissa säädetään. Mitä tässä momentissa säädetään jäsenluottolaitoksesta, sovelletaan vastaavasti muuhun 2 momentissa tarkoitettuun yhteisöön.",
+      "section_number": "9",
+      "chapter_number": 1,
+      "statute_id": "1488/2001"
+    },
+    {
+      "id": "42d3a5d7-0707-401d-bcf8-ac714a57417f",
+      "node_type": "Section",
+      "publisher": "finlex",
+      "title": "10 § Yhteenliittymää koskevien säännösten soveltamisen lakkaaminen",
+      "text": "Jos yhteenliittymälle tässä laissa asetetut vaatimukset eivät täyty, keskusyhteisön on viipymättä ilmoitettava siitä Finanssivalvonnalle ja ryhdyttävä toimenpiteisiin vaatimusten täyttämiseksi. Finanssivalvonnan on saatuaan edellä tarkoitetun ilmoituksen tai muuten tiedon siitä, että vaatimukset eivät täyty, asetettava keskusyhteisölle määräaika, jonka kuluessa vaatimusten on täytyttävä. Jos vaatimusta ei ole määräajassa täytetty, Finanssivalvonta voi peruuttaa keskusyhteisön toimiluvan. Tämän lain soveltaminen lakkaa, kun keskusyhteisön toimilupa peruutetaan.",
+      "section_number": "10",
+      "chapter_number": 1,
+      "statute_id": "1488/2001"
+    },
+    {
+      "id": "91798865-5f9e-4de1-93c6-d54ff90bd977",
+      "node_type": "Section",
+      "publisher": "finlex",
+      "title": "11 § Toimilupahakemus",
+      "text": "Finanssivalvonta myöntää hakemuksesta keskusyhteisön toimiluvan. Toimilupahakemukseen liitettävistä selvityksistä säädetään valtiovarainministeriön asetuksella. Jos toimiluvan myöntämisen edellytyksiä koskevat, 1 momentissa tarkoitetut tiedot muuttuvat olennaisesti toimiluvan myöntämisen jälkeen, keskusyhteisön on ilmoitettava muutoksista Finanssivalvonnalle sen tarkemmin määräämällä tavalla.",
+      "section_number": "11",
+      "chapter_number": 2,
+      "statute_id": "1488/2001"
+    },
+    {
+      "id": "174dfe71-2842-4df0-a1ab-3c8b39a3daac",
+      "node_type": "Section",
+      "publisher": "finlex",
+      "title": "12 § Toimilupapäätös",
+      "text": "Finanssivalvonnan on annettava toimilupaa koskeva päätös kuuden kuukauden kuluessa hakemuksen vastaanottamisesta tai, jos hakemus on puutteellinen, siitä kun hakija on antanut asian ratkaisemista varten tarvittavat asiakirjat ja selvitykset. Toimilupaa koskeva päätös on kuitenkin aina tehtävä 12 kuukauden kuluessa hakemuksen vastaanottamisesta. Finanssivalvonnalla on oikeus toimiluvan hakijaa kuultuaan asettaa toimilupaan keskusyhteisön toimintaa koskevia, valvonnan kannalta välttämättömiä rajoituksia ja ehtoja. Finanssivalvonta voi toimiluvan myöntämisen jälkeen keskusyhteisön hakemuksesta muuttaa toimiluvan ehtoja. Jos toimilupaa koskevaa päätöstä ei ole annettu 1 momentissa säädetyssä määräajassa, hakija voi tehdä valituksen. Valitus tehdään ja käsitellään kuten hakemuksen hylkäämistä koskeva valitus tehdään ja käsitellään. Tällaisen valituksen voi tehdä, kunnes päätös on annettu. Finanssivalvonnan on ilmoitettava päätöksen antamisesta muutoksenhakuviranomaiselle, jos päätös on annettu valituksen jälkeen. Tässä momentissa tarkoitetun valituksen tekemiseen ja käsittelyyn sovelletaan muilta osin Finanssivalvonnasta annetun lain (878/2008) 73 §:ää.",
+      "section_number": "12",
+      "chapter_number": 2,
+      "statute_id": "1488/2001"
+    },
+    {
+      "id": "3e3aca81-f3f4-4e30-8301-2d2aef77bea8",
+      "node_type": "Section",
+      "publisher": "finlex",
+      "title": "13 § Toimiluvan myöntämisen edellytykset",
+      "text": "Toimilupa on myönnettävä, jos saadun selvityksen perusteella voidaan varmistua, että keskusyhteisö ja muut yhteenliittymään kuuluvat yritykset täyttävät niiden toiminnalle tässä laissa asetetut vaatimukset ja koko yhteenliittymä sen taloudelliselle asemalle tässä laissa asetetut vaatimukset ja että keskusyhteisöä johdetaan ammattitaitoisesti sekä terveiden ja varovaisten liikeperiaatteiden mukaisesti. Keskusyhteisöön sovelletaan, mitä luottolaitostoiminnasta annetun lain 40 §:n 1, 2 ja 4 momentissa säädetään luottolaitoksesta. Toimilupa voidaan myöntää keskusyhteisölle myös ennen sen rekisteröimistä.",
+      "section_number": "13",
+      "chapter_number": 2,
+      "statute_id": "1488/2001"
+    },
+    {
+      "id": "18289324-acf3-45ef-886d-50d8fa0d193f",
+      "node_type": "Section",
+      "publisher": "finlex",
+      "title": "14 § Toimiluvan ilmoittaminen rekisteröitäväksi",
+      "text": "Finanssivalvonnan on ilmoitettava toimilupa rekisteröitäväksi.",
+      "section_number": "14",
+      "chapter_number": 2,
+      "statute_id": "1488/2001"
+    },
+    {
+      "id": "2685eb43-a17d-4951-9edd-400d8f7f1bf3",
+      "node_type": "Section",
+      "publisher": "finlex",
+      "title": "15 § Toiminnan aloittaminen",
+      "text": "Keskusyhteisö voi aloittaa toimintansa, jollei toimiluvan ehdoista muuta johdu, välittömästi sen jälkeen, kun toimilupa on myönnetty ja keskusyhteisö on toimittanut Finanssivalvonnalle 2 momentissa tarkoitetut tiedot sekä, jos toimilupa on myönnetty perustettavalle osuuskunnalle, osuuskunta on rekisteröity. Keskusyhteisö ei saa aloittaa toimintaansa ennen kuin se on toimittanut Finanssivalvonnalle: Jos 2 momentissa mainituissa tiedoissa tapahtuu muutos, se on viipymättä ilmoitettava Finanssivalvonnalle.",
+      "section_number": "15",
+      "chapter_number": 2,
+      "statute_id": "1488/2001"
+    },
+    {
+      "id": "c312b6c5-9179-43eb-a3c7-cedaea7228b1",
+      "node_type": "Section",
+      "publisher": "finlex",
+      "title": "16 § Toimiluvan peruuttaminen",
+      "text": "Finanssivalvonta voi peruuttaa keskusyhteisön toimiluvan, jollei keskusyhteisö täytä 19 §:ssä säädettyjä vaatimuksia, sekä Finanssivalvonnasta annetun lain 26 §:n 1 momentin 1 ja 3 kohdassa ja 2 momentissa säädetyin edellytyksin. Toimiluvan peruuttamiseen sovelletaan lisäksi viimeksi mainitun pykälän 3―5 momenttia. Keskusyhteisön 5 luvun säännöksiin perustuvat oikeudet ja velvollisuudet, jotka ovat syntyneet ennen toimiluvan peruuttamista, eivät lakkaa toimiluvan peruuttamisen johdosta.",
+      "section_number": "16",
+      "chapter_number": 2,
+      "statute_id": "1488/2001"
+    },
+    {
+      "id": "22460dba-1d06-4753-845d-764623ff2b3c",
+      "node_type": "Section",
+      "publisher": "finlex",
+      "title": "17 § Yhteenliittymän ohjaus",
+      "text": "Keskusyhteisö ohjaa yhteenliittymän toimintaa ja antaa siihen kuuluville yrityksille ohjeita niiden maksuvalmiuden ja vakavaraisuuden turvaamiseksi niiden riskien hallinnasta, luotettavasta hallinnosta ja sisäisestä valvonnasta sekä ohjeita yhtenäisten tilinpäätösperiaatteiden noudattamiseksi yhteenliittymän yhdistellyn tilinpäätöksen laatimisessa. Tässä pykälässä tarkoitetuissa ohjeissa on otettava huomioon, mitä luottolaitostoiminnasta annetun lain 54, 68 ja 78 §:ssä säädetään. Keskusyhteisö voi lisäksi säännöissään määrätyllä tavalla vahvistaa jäsenluottolaitoksille yleisiä toimintaperiaatteita noudatettaviksi näiden yhteenliittymän kannalta merkittävässä toiminnassa. Keskusyhteisön velvollisuudesta valvoa ohjeiden noudattamista säädetään 20 §:ssä.",
+      "section_number": "17",
+      "chapter_number": 3,
+      "statute_id": "1488/2001"
+    },
+    {
+      "id": "59a3bb4f-8d4c-4610-98fc-172cde1a9b92",
+      "node_type": "Section",
+      "publisher": "finlex",
+      "title": "18 § Yleissäännös yhteenliittymään kuuluvien yritysten riskienhallinnasta",
+      "text": "Yhteenliittymään kuuluva yritys ei saa toiminnassaan ottaa niin suurta riskiä, että siitä aiheutuu olennaista vaaraa yhteenliittymään kuuluvien yritysten yhdistellylle vakavaraisuudelle tai maksuvalmiudelle. Keskusyhteisöllä on oltava yhteenliittymän tehokkaan riskienhallinnan mahdollistava luotettava hallinto sekä yhteenliittymän toimintaan nähden riittävä sisäinen valvonta ja riittävät riskienhallintajärjestelmät. Hallinnon, sisäisen valvonnan ja riskienhallinnan on täytettävä luottolaitostoiminnasta annetun lain 49 §:ssä asetetut vaatimukset.",
+      "section_number": "18",
+      "chapter_number": 3,
+      "statute_id": "1488/2001"
+    },
+    {
+      "id": "1993abb1-fd9e-4571-b263-a02927e5a436",
+      "node_type": "Section",
+      "publisher": "finlex",
+      "title": "19 § Yhteenliittymään kuuluvien yritysten yhdistelty omien varojen vähimmäismäärä ja yhteenliittymän vakavaraisuuden hallinta",
+      "text": "Yhteenliittymään kuuluvilla yrityksillä on oltava omia varoja yhteensä vähintään määrä, joka riittää kattamaan yhteenliittymään kuuluvien yritysten yhdistellyt, luottolaitostoiminnasta annetun lain 55 §:n 1 momentissa tarkoitetut riskit niin kuin mainitussa momentissa säädetään. Yhteenliittymään kuuluvien yritysten omien varojen yhdistellyn määrän on lisäksi oltava riittävä suhteessa yhteenliittymään kuuluvien yritysten yhdisteltyihin asiakasriskeihin ja yhdisteltyihin huomattaviin omistusosuuksiin niin kuin mainitun pykälän 2 momentissa säädetään. Yhteenliittymään sovelletaan, mitä mainitun lain 73 §:n 4 ja 5 momentissa säädetään. Edellä 1 momentissa tarkoitettujen vaatimusten laskemiseen sovelletaan, mitä luottolaitostoiminnasta annetun lain 75 §:ssä säädetään konsolidoiduista omista varoista, mainitun lain 76 ja 77 §:ssä konsolidoidusta vakavaraisuusvaatimuksesta, mainitun lain 79 §:ssä konsolidoiduista asiakasriskeistä ja mainitun lain 80 §:ssä konsolidoiduista huomattavista omistusosuuksista. Vaatimuksia laskettaessa yhteenliittymän omista varoista vähennetään jäsenluottolaitoksen tai sen konsolidointiryhmään kuuluvan yrityksen liikkeeseen laskemat pääomatodistukset ja muut omanpääomanehtoiset erät, jotka on merkinnyt sellainen luottolaitostoiminnasta annetun lain 113 §:ssä tarkoitettu vakuusrahasto, jonka jäsen jäsenluottolaitos on. Vakuutusyhtiöön, joka ei merkittävissä määrin harjoita muuta liiketoimintaa kuin luottovakuutusten myöntämistä yhteenliittymän jäsenluottolaitoksille, sovelletaan tätä pykälää laskettaessa yhteenliittymän omien varojen määrää. Tällaisen vakuutusyhtiön tasoitusmäärä rinnastetaan luottolaitostoiminnasta annetun lain 46 §:n 1 momentin 1―3 kohdassa tarkoitettuihin eriin. Muilta osin tällaisen vakuutusyhtiön omiin varoihin ja omien varojen vähimmäismäärän laskemiseen sovelletaan, mitä luottolaitostoiminnasta annetussa laissa säädetään. Yhteenliittymään sovelletaan soveltuvin osin, mitä luottolaitostoiminnasta annetun lain 74 §:ssä säädetään konsolidointiryhmän riskienhallinnasta, mainitun lain 78 §:ssä konsolidoidun vakavaraisuuden hallinnasta sekä mainitun lain 79 §:n 2 ja 3 momentissa konsolidoitujen asiakasriskien hallinnasta ja konsolidoitujen riskikeskittymien ja sisäisten liiketoimien seurannasta sekä mainitun lain 86 §:n 2 momentissa konsolidoidun lisäpääomavaatimuksen asettamisesta. Jos 9 §:n 2 momentissa tarkoitettu yhteenliittymän tilinpäätös sisältää yhteenliittymään kuulumattomia tytär- tai osakkuusyhtiöitä, keskusyhteisön on lisäksi laadittava tässä pykälässä säädettyjen vaatimusten noudattamisen valvontaa varten yhteenliittymään kuuluvien yritysten taseiden yhdistelmänä erillinen laskelma (yhdistelmälaskelma). Yhdistelmälaskelma laaditaan noudattaen soveltuvin osin samoja tilinpäätösperiaatteita kuin laadittaessa edellä tarkoitettu yhdistelty tilinpäätös. Yhteenliittymään kuulumattomat merkittävät tytär- ja osakkuusyhtiöt sisällytetään yhdistelmälaskelmaan kuitenkin mainituista tilinpäätösperiaatteista poiketen yhdistelemättöminä osakesijoituksina alkuperäiseen hankintamenoon. Yhdistelmälaskelman on oltava tilintarkastajien varmentama. Mitä tässä pykälässä mainituissa lainkohdissa sanotaan emoyrityksestä, sovelletaan keskusyhteisöön, ja mitä niissä sanotaan tytäryrityksistä, sovelletaan soveltuvin osin yhteenliittymään kuuluviin muihin yrityksiin. Keskusyhteisöön ei sovelleta luottolaitostoiminnasta annetun lain 72 §:n 3 momentissa säädettyä poikkeusta. Keskusyhteisön velvollisuuteen julkistaa yhteenliittymän vakavaraisuutta koskevia tietoja sovelletaan, mitä luottolaitostoiminnasta annetun lain 82 ja 83 §:ssä säädetään luottolaitoksen vakavaraisuustietojen julkistamisesta. Keskusyhteisöön sovelletaan lisäksi, mitä mainituissa pykälissä säädetään konsolidointiryhmän emoyrityksestä. Finanssivalvonta antaa tarkemmat määräykset tässä pykälässä mainittujen luottolaitostoiminnasta annetun lain säännösten soveltamisesta yhteenliittymään kuuluviin yrityksiin.",
+      "section_number": "19",
+      "chapter_number": 3,
+      "statute_id": "1488/2001"
+    },
+    {
+      "id": "de1745ed-fdc3-4f83-91ad-6cae4f206b7e",
+      "node_type": "Section",
+      "publisher": "finlex",
+      "title": "20 § Vakavaraisuuden valvonta",
+      "text": "Keskusyhteisö valvoo, että yhteenliittymään kuuluvat yritykset toimivat niiden taloudellista asemaa koskevien lakien ja asetusten, viranomaisten antamien määräysten, sääntöjensä ja yhtiöjärjestystensä sekä keskusyhteisön 17 §:n nojalla antamien ohjeiden mukaisesti. Jos keskusyhteisö havaitsee, ettei yhteenliittymään kuuluvan yrityksen toiminta ole edellä sanottujen säännösten tai määräysten mukaista, keskusyhteisön on ilmoitettava asiasta Finanssivalvonnalle viipymättä. Jos keskusyhteisö havaitsee, että yhteenliittymään kuuluva yritys on laiminlyönyt noudattaa keskusyhteisön 17 §:n nojalla antamia ohjeita tavalla, joka merkittävästi vaarantaa yhtenäisten maksuvalmiuden tai vakavaraisuuden hallinnan taikka tilinpäätöksen laatimista koskevien periaatteiden soveltamisen tai niiden noudattamisen valvonnan yhteenliittymässä tai joka on omiaan vaarantamaan jäsenluottolaitoksen oman vakavaraisuuden tai maksuvalmiuden, keskusyhteisön on ilmoitettava siitä Finanssivalvonnalle ja esitettävä tarpeelliset toimenpiteet ohjeiden noudattamisen varmistamiseksi. Yhteenliittymään kuuluva yritys on velvollinen antamaan keskusyhteisölle sen asettamassa kohtuullisessa määräajassa kaikki sen vaatimat tiedot ja selvitykset, jotka ovat tarpeen keskusyhteisön tässä laissa säädettyjen tehtävien suorittamiseksi. Finanssivalvonnalla on oikeus viranomaisten toiminnan julkisuudesta annetussa laissa (621/1999) säädetyn salassapitovelvollisuuden estämättä antaa keskusyhteisölle tässä momentissa tarkoitettuja tietoja, jos keskusyhteisö ei saa tietoja yhteenliittymään kuuluvalta yritykseltä asettamassaan määräajassa.",
+      "section_number": "20",
+      "chapter_number": 3,
+      "statute_id": "1488/2001"
+    },
+    {
+      "id": "dd7d917c-c8f1-4472-98e6-9f4e0d90caa4",
+      "node_type": "Section",
+      "publisher": "finlex",
+      "title": "21 § Jäsenluottolaitoksen omien varojen ja konsolidoitujen omien varojen vähimmäismäärä",
+      "text": "Keskusyhteisön suostumuksella jäsenluottolaitokseen voidaan jättää soveltamatta, mitä luottolaitostoiminnasta annetun lain 55 §:n 1 ja 2 momentissa säädetään omien varojen vähimmäismäärästä ja mainitun lain 76 §:ssä, 79 §:n 1 momentissa ja 80 §:ssä konsolidoitujen omien varojen vähimmäismäärästä. Jäsenluottolaitoksella on kuitenkin oltava mainituissa lainkohdissa tarkoitettujen riskien kattamiseksi omia varoja ja konsolidoituja omia varoja vähintään tämän pykälän 2―4 momentissa säädetty määrä. Keskusyhteisö ei saa antaa tässä momentissa tarkoitettua suostumusta jäsenluottolaitokselle, joka on laiminlyönyt noudattaa keskusyhteisön antamia 17 §:ssä tarkoitettuja ohjeita, jos laiminlyönti ei ole vähäinen. Keskusyhteisö voi antaa tässä momentissa tarkoitetun suostumuksen enintään kolmeksi vuodeksi, kun suostumus koskee 2 momentissa tarkoitettua poikkeusta, ja enintään kolmeksi vuodeksi kerrallaan, kun suostumus koskee 3 tai 4 momentissa tarkoitettua poikkeusta. Jäsenluottolaitoksella, johon sovelletaan 1 momenttia, on oltava sen vakavaraisuuden turvaamiseksi omia varoja ja konsolidoituja varoja vähintään määrä, joka vastaa 80:tä prosenttia luottolaitostoiminnasta annetun lain 55 §:n 1 momentissa säädetystä määrästä. Jäsenluottolaitoksen, johon sovelletaan 1 momenttia, luottolaitostoiminnasta annetun lain 67 §:ssä tarkoitettu asiakasriski ei saa nousta määrään, joka ylittää 40 prosenttia luottolaitoksen omista varoista tai, jos mainitun pykälän 1 momentissa tarkoitettu asiakasyhteisö on jäsenluottolaitoksen emoyritys tai tytäryritys tai emoyrityksen tytäryritys, määrään, joka ylittää 35 prosenttia luottolaitoksen omista varoista. Luottolaitostoiminnasta annetun lain 69 §:ssä tarkoitettujen suurten asiakasriskien yhteenlaskettu määrä ei saa ylittää 1200:aa prosenttia jäsenluottolaitoksen omista varoista. Mitä tässä momentissa säädetään asiakasriskeistä ja omista varoista, sovelletaan vastaavasti konsolidoituihin asiakasriskeihin ja konsolidoituihin omiin varoihin. Jäsenluottolaitoksen asiakasriskinä ei oteta huomioon yhteenliittymään kuuluvaan toiseen luottolaitokseen tai ulkomaiseen luottolaitokseen, sijoituspalveluyritykseen tai siihen rinnastettavaan ulkomaiseen yritykseen, rahoituslaitokseen taikka palveluyritykseen kohdistuvaa asiakasriskiä. Jäsenluottolaitos, johon sovelletaan 1 momenttia, ei saa sijoittaa luottolaitostoiminnasta annetun lain 71 §:ssä tarkoitettuihin sijoituksiin enempää kuin 25 prosenttia luottolaitoksen omista varoista. Jäsenluottolaitoksella saa olla 1 momentissa tarkoitettuja sijoituksia enintään 75 prosenttia luottolaitoksen omista varoista. Mitä tässä momentissa säädetään sijoitusten määrästä ja omista varoista, sovelletaan vastaavasti sijoitusten konsolidoituun määrään ja konsolidoituihin omiin varoihin.",
+      "section_number": "21",
+      "chapter_number": 4,
+      "statute_id": "1488/2001"
+    },
+    {
+      "id": "9e250fa6-70c1-4c9c-8a39-e715eb08ba56",
+      "node_type": "Section",
+      "publisher": "finlex",
+      "title": "22 § Eräiden luottolaitostoiminnasta annetun lain säännösten soveltaminen",
+      "text": "Mitä luottolaitostoiminnasta annetun lain 45 §:ssä säädetään luottolaitoksen kanssa samaan konserniin ja 48 §:ssä samaan konsolidointiryhmään kuuluvista yrityksistä, sovelletaan vastaavasti jäsenluottolaitoksen kanssa samaan yhteenliittymään kuuluviin yrityksiin. Jos yhden tai useamman jäsenluottolaitoksen omien varojen tai konsolidoitujen omien varojen määrä alittaa tämän lain 21 §:ssä säädetyn määrän, jäsenluottolaitokseen sovelletaan, mitä luottolaitostoiminnasta annetun lain 87 §:ssä säädetään. Jäsenluottolaitoksen on ilmoitettava luottolaitostoiminnasta annetun lain 84 §:ssä tarkoitetut tiedot Finanssivalvonnan sijasta keskusyhteisölle niin kuin mainitussa pykälässä säädetään. Keskusyhteisön on laadittava luottolaitostoiminnasta annetun lain 85 §:ssä tarkoitettu arvio siitä, täyttävätkö jäsenluottolaitokset niiden taloudelliselle asemalle luottolaitostoiminnasta annetun lain 5 luvussa ja tässä luvussa asetetut vaatimukset. Jäsenluottolaitokseen sovelletaan, mitä luottolaitostoiminnasta annetun lain 94 §:n 1 momentissa säädetään poikkeusten myöntämisestä.",
+      "section_number": "22",
+      "chapter_number": 4,
+      "statute_id": "1488/2001"
+    },
+    {
+      "id": "7ab4fad3-ca0f-4bbd-8ccd-75d9ed2ecde4",
+      "node_type": "Section",
+      "publisher": "finlex",
+      "title": "23 § Vakavaraisuuden hallinta ja vakavaraisuustietojen julkistaminen",
+      "text": "Keskusyhteisön suostumuksella jäsenluottolaitokseen voidaan jättää soveltamatta, mitä luottolaitostoiminnasta annetun lain 54 §:ssä säädetään vakavaraisuuden hallinnasta, 68 §:ssä asiakasriskien hallinnasta, 78 §:ssä konsolidoidun vakavaraisuuden hallinnasta ja 79 §:n 2 momentissa konsolidoidun asiakasriskin hallinnasta. Jäsenluottolaitokseen ei sovelleta, mitä luottolaitostoiminnasta annetun lain 82 ja 83 §:ssä säädetään luottolaitoksesta. Jäsenluottolaitoksen on kuitenkin julkistettava mainittujen lainkohtien mukaisesti aina vähintään seuraavat tiedot: Keskusyhteisö ei saa antaa 1 momentissa tarkoitettua suostumusta jäsenluottolaitokselle, joka on laiminlyönyt noudattaa keskusyhteisön antamia 17 §:ssä tarkoitettuja ohjeita, jos laiminlyönti ei ole vähäinen. Keskusyhteisö voi antaa tässä pykälässä tarkoitetun suostumuksen enintään kolmeksi vuodeksi kerrallaan.",
+      "section_number": "23",
+      "chapter_number": 4,
+      "statute_id": "1488/2001"
+    },
+    {
+      "id": "9a5cd87b-b14c-402a-a4e1-fadb1c77bd1b",
+      "node_type": "Section",
+      "publisher": "finlex",
+      "title": "24 § Keskusyhteisön maksuvelvollisuus",
+      "text": "Keskusyhteisö on velvollinen suorittamaan tässä luvussa tarkoitettuna tukitoimena jäsenluottolaitokselle määrän, joka on tarpeen jäsenluottolaitoksen selvitystilan estämiseksi. Keskusyhteisö vastaa tässä luvussa säädetyn mukaisesti jäsenluottolaitoksen niistä veloista, joita ei saada suoritetuksi jäsenluottolaitoksen varoista.",
+      "section_number": "24",
+      "chapter_number": 5,
+      "statute_id": "1488/2001"
+    },
+    {
+      "id": "f11e1e51-e1ea-4566-a78b-92928e5d4172",
+      "node_type": "Section",
+      "publisher": "finlex",
+      "title": "25 § Jäsenluottolaitosten keskinäinen vastuu",
+      "text": "Jäsenluottolaitos on velvollinen suorittamaan tässä luvussa säädetyin perustein keskusyhteisölle osuutensa määrästä, jonka keskusyhteisö on suorittanut joko toiselle jäsenluottolaitokselle tukitoimena taikka toisen jäsenluottolaitoksen velkojalle maksuna erääntyneestä velasta, johon velkoja ei ole saanut suoritusta velalliseltaan. Jäsenluottolaitoksella on lisäksi keskusyhteisön maksukyvyttömyystilanteessa osuuskuntalain 15 luvun mukainen rajaton lisämaksuvelvollisuus keskusyhteisön veloista. Jäsenluottolaitosten vastuu määrästä, jonka keskusyhteisö on jonkin jäsenluottolaitoksen puolesta tämän velkojalle suorittanut, jakautuu jäsenluottolaitosten kesken niiden viimeksi vahvistettujen taseiden loppusumman mukaisessa suhteessa.",
+      "section_number": "25",
+      "chapter_number": 5,
+      "statute_id": "1488/2001"
+    },
+    {
+      "id": "a53aadda-d6d7-43b8-9fb3-b1c594f2bb5b",
+      "node_type": "Section",
+      "publisher": "finlex",
+      "title": "26 § Jäsenluottolaitoksen velvollisuus osallistua tukitoimiin",
+      "text": "Jos jäsenluottolaitoksen omat varat tai konsolidoidut varat vähenevät alle luottolaitostoiminnasta annetussa laissa tai, jos jäsenluottolaitokseen sovelletaan 21 §:n mukaisia alempia vaatimuksia, mainitussa pykälässä säädetyn vähimmäismäärän, yhteenliittymän keskusyhteisöllä on oikeus saada luottoa yhteenliittymään kuuluvilta muilta jäsenluottolaitoksilta keskusyhteisön säännöissä tarkemmin mainituin perustein perimällä jäsenluottolaitoksilta ylimääräisiä takaisinmaksettavia maksuja käytettäviksi jäsenluottolaitoksen selvitystilan ehkäisemiseksi tarvittaviin 2 momentin mukaisiin tukitoimiin. Jäsenluottolaitoksilta tämän momentin nojalla perittävien maksujen vuotuinen yhteenlaskettu määrä saa kunakin tilikautena olla yhteensä enintään viisi tuhannesosaa kunkin jäsenluottolaitoksen viimeksi vahvistetun taseen loppusummasta. Tässä pykälässä tarkoitettuja tukitoimia ovat pääomalainan myöntäminen jäsenluottolaitokselle ja osake-, osuus-, sijoitusosuus- tai kantarahastopääoman sijoittaminen jäsenluottolaitokseen. Tässä momentissa tarkoitettu pääomasijoitus voidaan antaa myös suoraan vastaanottavalle luottolaitokselle, johon 1 momentissa tarkoitettu jäsenluottolaitos sulautuu. Keskusyhteisön on viipymättä maksettava takaisin jäsenluottolaitoksille niiltä tämän momentin nojalla perittyä määrää sitä mukaa kuin keskusyhteisölle kertyy varoja 2 momentissa tarkoitettujen sijoitusten pääoman palautuksina, samassa suhteessa kuin maksua on peritty jäsenluottolaitoksilta. Keskusyhteisön on lisäksi maksettava samoin perustein jäsenluottolaitoksille määrä, jonka keskusyhteisö saa tässä momentissa tarkoitetun sijoituksen tuottona. Edellä 1 momentissa tarkoitetun jäsenluottolaitoksen keskusyhteisöltä olevan saamisen pääomaa vastaava määrä mahdollisella verovelalla oikaistuna on vähennettävä jäsenluottolaitoksen omista varoista.",
+      "section_number": "26",
+      "chapter_number": 5,
+      "statute_id": "1488/2001"
+    },
+    {
+      "id": "fd89ffb1-a55c-473c-b1bb-b8ce9f1009a4",
+      "node_type": "Section",
+      "publisher": "finlex",
+      "title": "27 § Keskusyhteisön velvollisuus maksaa jäsenluottolaitoksen erääntynyt velka",
+      "text": "Velkoja, joka ei ole saanut jäsenluottolaitokselta suoritusta erääntyneestä saatavastaan (päävelka), voi vaatia suoritusta keskusyhteisöltä, kun päävelka on erääntynyt. Jos selvitystilassa olevan jäsenluottolaitoksen selvitysmiehet ovat selvitysmenettelyssä muuten kuin 1 momentissa tarkoitetussa tapauksessa todenneet, että jäsenluottolaitoksen velat ylittävät sen varat, selvitysmiesten on laadittava vajauksesta laskelma ja vaadittava keskusyhteisöä suorittamaan vajauksen määrä jäsenluottolaitokselle. Jos keskusyhteisölle on esitetty 1 tai 2 momentissa tarkoitettu vaatimus, keskusyhteisön on viipymättä, kuitenkin viimeistään 30 päivän kuluttua vaatimuksen esittämisestä, laadittava laskelma (osittelulaskelma) kunkin jäsenluottolaitoksen 25 §:n mukaisesta vastuuosuudesta ja annettava se tiedoksi jäsenluottolaitoksille. Jäsenluottolaitoksen on suoritettava maksuosuutensa keskusyhteisölle tämän säännöissä määrätyssä ajassa, kuitenkin viimeistään 30 päivän kuluttua siitä, kun se on saanut tiedoksi tässä momentissa tarkoitetun laskelman. Keskusyhteisöllä on oikeus saada jäsenluottolaitokselta takaisin määrä, jonka keskusyhteisö on tämän pykälän nojalla maksanut jäsenluottolaitoksen velkojalle tai jäsenluottolaitokselle. Keskusyhteisön on viivytyksettä sen jälkeen, kun se on saanut jäsenluottolaitokselta takaisin kokonaan tai osittain tässä momentissa tarkoitetun määrän, maksettava saatu määrä takaisin 3 momentissa tarkoitetuille jäsenluottolaitoksille niiden 25 §:n mukaisesti lasketun vastuuosuuden suhteessa. Edellä 1 momentissa tarkoitettua jäsenluottolaitosta ei saa asettaa konkurssiin velkojan hakemuksesta ennen kuin velkoja on vaatinut 1 momentissa tarkoitettua päävelkaa keskusyhteisöltä 1 momentissa tarkoitetulla tavalla ja 3 momentissa maksamiselle säädetty määräaika on päättynyt. Edellä 2 momentissa tarkoitettua jäsenluottolaitosta ei saa asettaa konkurssiin ennen kuin selvitysmiehet ovat esittäneet keskusyhteisölle 2 momentissa tarkoitetun vaatimuksen ja 3 momentissa maksamiselle säädetty määräaika on päättynyt.",
+      "section_number": "27",
+      "chapter_number": 5,
+      "statute_id": "1488/2001"
+    },
+    {
+      "id": "af0c515f-47cf-4f79-bedf-507605e739e0",
+      "node_type": "Section",
+      "publisher": "finlex",
+      "title": "28 § Selvitystilassa olevan jäsenluottolaitoksen maksuvelvollisuus",
+      "text": "Mitä tässä luvussa säädetään jäsenluottolaitoksen maksuvelvollisuudesta, sovelletaan myös selvitystilassa olevaan jäsenluottolaitokseen. Selvitystilassa olevan jäsenluottolaitoksen varoja ei saa ryhtyä jakamaan osakkeen- tai osuudenomistajille ennen kuin viisi vuotta on kulunut sen kalenterivuoden päättymisestä, jolloin selvitystila on alkanut, jollei osakkeen- tai osuudenomistaja aseta turvaavaa vakuutta.",
+      "section_number": "28",
+      "chapter_number": 5,
+      "statute_id": "1488/2001"
+    },
+    {
+      "id": "25caffbd-e3ca-4195-8061-a09025efd8ec",
+      "node_type": "Section",
+      "publisher": "finlex",
+      "title": "29 § Keskusyhteisön jäsenyydestä eronneen tai erotetun jäsenluottolaitoksen maksuvelvollisuus",
+      "text": "Mitä tässä luvussa säädetään jäsenluottolaitoksen maksuvelvollisuudesta, sovelletaan myös luottolaitokseen, joka on eronnut tai erotettu keskusyhteisön jäsenyydestä, jos sen kalenterivuoden päättymisestä, jolloin jäsenluottolaitos on eronnut tai erotettu, on kulunut vähemmän kuin viisi vuotta silloin, kun maksuvelvollisuutta koskeva vaatimus esitetään luottolaitokselle.",
+      "section_number": "29",
+      "chapter_number": 5,
+      "statute_id": "1488/2001"
+    },
+    {
+      "id": "f529ce48-9169-4843-bf36-61b820c25289",
+      "node_type": "Section",
+      "publisher": "finlex",
+      "title": "30 § Poikkeus jäsenluottolaitoksen maksuvelvollisuudesta",
+      "text": "Mitä edellä tässä luvussa säädetään jäsenluottolaitoksen maksuvelvollisuudesta, ei sovelleta jäsenluottolaitokseen, jonka omien varojen tai konsolidoitujen omien varojen määrä alittaa taikka maksuvelvollisuuden täyttämisen seurauksena alittaisi jäsenluottolaitoksen luottolaitostoiminnasta annetussa laissa tai, jos jäsenluottolaitokseen sovelletaan 21 §:n mukaisia alempia vaatimuksia, mainitussa pykälässä säädetyn omien varojen tai konsolidoitujen omien varojen vähimmäismäärän. Tässä momentissa tarkoitettua jäsenluottolaitosta ei oteta huomioon laskettaessa 25 §:ssä tarkoitettuja jäsenluottolaitosten suhteellisia vastuuosuuksia.",
+      "section_number": "30",
+      "chapter_number": 5,
+      "statute_id": "1488/2001"
+    },
+    {
+      "id": "cfb4bc4d-e1c5-4d47-9dd7-a57b02ab4c88",
+      "node_type": "Section",
+      "publisher": "finlex",
+      "title": "31 § Jäsenluottolaitoksen maksuvelvollisuuden täytäntöönpano",
+      "text": "Jos jäsenluottolaitos on laiminlyönyt suorittaa tämän luvun mukaisen maksun keskusyhteisölle, maksun määrä voidaan periä ulosottoteitse vahvistetun ja Finanssivalvonnan hyväksymän osittelulaskelman nojalla niin kuin lainvoimaisen tuomion täytäntöönpanosta säädetään. Jos maksua ei saada joltain jäsenluottolaitokselta perityksi, on laadittava uusi osittelulaskelma, jossa puuttuva määrä jaetaan muiden jäsenluottolaitosten maksettavaksi.",
+      "section_number": "31",
+      "chapter_number": 5,
+      "statute_id": "1488/2001"
+    },
+    {
+      "id": "1e13ca83-7847-43f2-bcc7-d6499176a97c",
+      "node_type": "Section",
+      "publisher": "finlex",
+      "title": "32 § Yhteenliittymään kuuluvien yritysten valvonta",
+      "text": "Yhteenliittymän keskusyhteisöä valvoo Finanssivalvonta niin kuin tässä laissa ja Finanssivalvonnasta annetussa laissa säädetään. Keskusyhteisön jäsenluottolaitoksia ja muita yhteenliittymään kuuluvia yrityksiä valvovat Finanssivalvonta niin kuin tässä laissa ja Finanssivalvonnasta annetussa laissa säädetään sekä keskusyhteisö niin kuin tässä laissa säädetään. Keskusyhteisö valvoo, että yhteenliittymään kuuluvat yritykset toimivat rahoitusmarkkinoita koskevien lakien, asetusten, viranomaisten antamien määräysten, sääntöjensä ja yhtiöjärjestystensä sekä keskusyhteisön 17 §:n nojalla antamien ohjeiden mukaisesti. Keskusyhteisön tehtävistä yhteenliittymään kuuluvien yritysten taloudellisen aseman valvonnassa säädetään lisäksi 3 luvussa. Finanssivalvonta valvoo, että keskusyhteisö ohjaa ja valvoo jäsenluottolaitosten toimintaa tämän lain säännösten mukaisesti ja että yhteenliittymään kuuluvat yritykset täyttävät tämän lain vaatimukset. Jos yhteenliittymään kuuluva yritys on 20 §:ssä tarkoitetulla tavalla laiminlyönyt noudattaa mainitussa pykälässä tarkoitettuja ohjeita, Finanssivalvonnan on asetettava kohtuullinen määräaika, jonka kuluessa yrityksen on ryhdyttävä tarpeellisiin toimenpiteisiin ohjeiden riittävän noudattamisen varmistamiseksi. Jos yhteenliittymään kuuluva yritys ei ole määräajassa ryhtynyt tarvittaviin toimenpiteisiin, Finanssivalvonta voi päättää sen lisäksi, mitä sen toimivaltuuksista muualla laissa säädetään, että jäsenluottolaitokseen lakataan soveltamasta, mitä 21 ja 23 §:ssä säädetään. Finanssivalvonnan on kuultava keskusyhteisöä ennen kuin tekee 3 momentissa tarkoitetun päätöksen, joka voi vaikuttaa merkittävästi jäsenluottolaitoksen toimintaan tai toimintaedellytyksiin taikka yhteenliittymän 3 luvun mukaiseen ohjaukseen, riskien hallintaan tai vakavaraisuuteen.",
+      "section_number": "32",
+      "chapter_number": 6,
+      "statute_id": "1488/2001"
+    },
+    {
+      "id": "f037132d-100e-465d-9432-72bb82292043",
+      "node_type": "Section",
+      "publisher": "finlex",
+      "title": "33 § Keskusyhteisön ilmoitus- ja tietojenantovelvollisuus",
+      "text": "Keskusyhteisön on ilmoitettava Finanssivalvonnalle yhteenliittymän ja jäsenluottolaitoksen vakavaraisuuden sekä asiakasriskien ja elinkeinoyhteisöjen omistusta koskevien rajoitusten valvonnan samoin kuin riskikeskittymien ja sisäisten liiketoimien seurannan kannalta tarpeelliset tiedot neljännesvuosittain sekä 23 §:ssä tarkoitettu arvio vuosittain. Keskusyhteisö on lisäksi velvollinen antamaan Finanssivalvonnalle kaikki sen vaatimat tiedot ja selvitykset, jotka ovat tarpeen yhteenliittymään kuuluvien yritysten valvontaa varten. Finanssivalvonta voi antaa keskusyhteisölle yhteenliittymän valvonnan kannalta tarpeellisia määräyksiä tässä pykälässä säädetyn ilmoitusvelvollisuuden sisällöstä.",
+      "section_number": "33",
+      "chapter_number": 6,
+      "statute_id": "1488/2001"
+    },
+    {
+      "id": "3fb8de86-1a46-4ffc-8345-db30062fce63",
+      "node_type": "Section",
+      "publisher": "finlex",
+      "title": "34 § Yhteenliittymään kuuluvan yrityksen ilmoitusvelvollisuus",
+      "text": "Yhteenliittymään kuuluva yritys on velvollinen antamaan Finanssivalvonnalle kaikki sen vaatimat tiedot ja selvitykset, jotka ovat tarpeen yhteenliittymän konsolidoitua valvontaa sekä keskusyhteisön ja jäsenluottolaitosten konsolidoitua valvontaa varten.",
+      "section_number": "34",
+      "chapter_number": 6,
+      "statute_id": "1488/2001"
+    },
+    {
+      "id": "ba6fc8e1-617c-4e8e-9abf-d9e800db2c07",
+      "node_type": "Section",
+      "publisher": "finlex",
+      "title": "35 § Talletusten tiliehdot",
+      "text": "Jäsenluottolaitoksen talletusten tiliehdoista on käytävä ilmi, että jäsenluottolaitos kuuluu tässä laissa tarkoitettuun yhteenliittymään.",
+      "section_number": "35",
+      "chapter_number": 7,
+      "statute_id": "1488/2001"
+    },
+    {
+      "id": "e8a33080-eb68-4aa9-b3e6-4b852c349dfc",
+      "node_type": "Section",
+      "publisher": "finlex",
+      "title": "36 § Yhdenvertaisuusperiaate",
+      "text": "Keskusyhteisö ei saa antaessaan ohjeita, suorittaessaan valvontaa tai muuten hoitaessaan tässä laissa tarkoitettuja tehtäviään asettaa yhteenliittymään kuuluvia yrityksiä keskenään eriarvoiseen asemaan ilman perusteltua syytä.",
+      "section_number": "36",
+      "chapter_number": 7,
+      "statute_id": "1488/2001"
+    },
+    {
+      "id": "96825115-c95d-43ab-bd0a-2f72fbf4d860",
+      "node_type": "Section",
+      "publisher": "finlex",
+      "title": "37 § Keskusyhteisön toimivalta ja vastuu",
+      "text": "Keskusyhteisön suorittaessa tässä laissa tarkoitettua valvontatehtävää sen oikeuksista on soveltuvin osin voimassa, mitä säädetään Finanssivalvonnasta annetun lain 32 §:ssä Finanssivalvonnan koollekutsumis- ja läsnäolo-oikeudesta, mainitun lain 29 §:ssä Finanssivalvonnasta ja sen asettamasta asiamiehestä sekä mainitun lain 18, 19, 23 ja 24 §:ssä tarkastus- ja tietojensaantioikeudesta. Keskusyhteisön edustajan vastuusta ja esteellisyydestä tämän hoitaessa 6 luvun mukaista valvontatehtäväänsä on voimassa, mitä Finanssivalvonnasta annetun lain 34 §:ssä säädetään.",
+      "section_number": "37",
+      "chapter_number": 7,
+      "statute_id": "1488/2001"
+    },
+    {
+      "id": "6bdd340f-b3b3-429b-9504-803c92c908d3",
+      "node_type": "Section",
+      "publisher": "finlex",
+      "title": "38 § Salassapitovelvollisuus",
+      "text": "Mitä luottolaitostoiminnasta annetun lain 141 ja 142 §:ssä säädetään henkilöistä ja luottolaitoksesta, sovelletaan vastaaviin keskusyhteisön henkilöihin ja keskusyhteisöön. Yhteenliittymään kuuluvat yritykset, vakuusrahasto, johon keskusyhteisön jäsenluottolaitokset kuuluvat, sekä jäsenluottolaitosten keskinäinen vakuutusyhtiö saavat lisäksi mainittujen pykälien estämättä antaa tietoja toisilleen. Tässä momentissa tarkoitettuja tietoja saa luovuttaa kuitenkin ainoastaan henkilölle, jota koskee edellä mainituissa pykälissä säädetty tai sitä vastaava salassapitovelvollisuus.",
+      "section_number": "38",
+      "chapter_number": 7,
+      "statute_id": "1488/2001"
+    },
+    {
+      "id": "316927ea-ac0b-4cc2-92a6-814913ebfb7d",
+      "node_type": "Section",
+      "publisher": "finlex",
+      "title": "39 § Kanteen nostaminen talletuspankin lukuun",
+      "text": "Keskusyhteisöllä on oikeus, jos se katsoo tallettajien edun sitä vaativan, nostaa vahingonkorvauskanne keskusyhteisön jäsenenä olevan talletuspankin lukuun luottolaitostoiminnasta annetun lain 167 §:ssä tarkoitettua henkilöä tai yhteisöä vastaan.",
+      "section_number": "39",
+      "chapter_number": 7,
+      "statute_id": "1488/2001"
+    },
+    {
+      "id": "49aca9bf-43e4-4fa9-9ea6-7182ba76936c",
+      "node_type": "Section",
+      "publisher": "finlex",
+      "title": "40 § Voimaantulo- ja siirtymäsäännökset",
+      "text": "Tämä laki tulee voimaan 1 päivänä heinäkuuta 2010. Ennen tämän lain voimaantuloa osuuspankeista ja muista osuuskuntamuotoisista luottolaitoksista annetun lain (1504/2001) mukaisesti perustetun keskusyhteisön on haettava tässä laissa tarkoitettu toimilupa ja keskusyhteisön ja sen jäsenluottolaitoksen saatettava sääntönsä tämän lain mukaisiksi viimeistään 18 kuukauden kuluttua tämän lain voimaantulosta. Tässä momentissa tarkoitettuun toimilupahakemukseen ei sovelleta, mitä 11 §:n 1 momentissa säädetään toimilupahakemukseen liitettävistä selvityksistä.",
+      "section_number": "40",
+      "chapter_number": 7,
+      "statute_id": "1488/2001"
+    }
+  ],
+  "clauses": [
+    {
+      "id": "45a31465-5d88-4666-a472-6f9b00790861",
+      "node_type": "Clause",
+      "publisher": "finlex",
+      "title": "§ 2 mom 1",
+      "text": "1) keskusyhteisö;",
+      "clause_number": 1,
+      "section_number": "2",
+      "statute_id": "1488/2001"
+    },
+    {
+      "id": "eab27037-7a6c-49de-b0cc-786266a55745",
+      "node_type": "Clause",
+      "publisher": "finlex",
+      "title": "§ 2 mom 2",
+      "text": "2) keskusyhteisön konsolidointiryhmään kuuluvat yritykset;",
+      "clause_number": 2,
+      "section_number": "2",
+      "statute_id": "1488/2001"
+    },
+    {
+      "id": "557f60b8-b692-45be-9b7d-fd6d733da51a",
+      "node_type": "Clause",
+      "publisher": "finlex",
+      "title": "§ 2 mom 3",
+      "text": "3) jäsenluottolaitokset;",
+      "clause_number": 3,
+      "section_number": "2",
+      "statute_id": "1488/2001"
+    },
+    {
+      "id": "828d0d0c-5d5f-42e8-809b-40489ff074fc",
+      "node_type": "Clause",
+      "publisher": "finlex",
+      "title": "§ 2 mom 4",
+      "text": "4) jäsenluottolaitosten konsolidointiryhmiin kuuluvat yritykset;",
+      "clause_number": 4,
+      "section_number": "2",
+      "statute_id": "1488/2001"
+    },
+    {
+      "id": "4e495b41-2dd5-4f0a-a629-8949755e5bca",
+      "node_type": "Clause",
+      "publisher": "finlex",
+      "title": "§ 2 mom 5",
+      "text": "5) sellaiset luottolaitokset, rahoituslaitokset ja palveluyritykset, joiden äänivallasta edellä mainitut yhteisöt yhdessä omistavat yli puolet.",
+      "clause_number": 5,
+      "section_number": "2",
+      "statute_id": "1488/2001"
+    },
+    {
+      "id": "7fc22934-93a8-4bea-84ed-0bb6ffeb8413",
+      "node_type": "Clause",
+      "publisher": "finlex",
+      "title": "§ 3 mom 1",
+      "text": "1) keskusyhteisö ohjaa ja valvoo jäsenluottolaitoksiaan tämän lain mukaisesti;",
+      "clause_number": 1,
+      "section_number": "3",
+      "statute_id": "1488/2001"
+    },
+    {
+      "id": "f16fe882-16a7-4456-a4ed-820b470458b8",
+      "node_type": "Clause",
+      "publisher": "finlex",
+      "title": "§ 3 mom 2",
+      "text": "2) yhteenliittymään kuuluvien yritysten yhdisteltyä omien varojen vähimmäismäärää ja maksuvalmiutta valvotaan konsolidoidusti yhteenliittymän tasolla tämän lain mukaisesti;",
+      "clause_number": 2,
+      "section_number": "3",
+      "statute_id": "1488/2001"
+    },
+    {
+      "id": "e3c2d8e7-230e-4eb6-98e8-cf6dbc24c508",
+      "node_type": "Clause",
+      "publisher": "finlex",
+      "title": "§ 3 mom 3",
+      "text": "3) keskusyhteisö vastaa jäsenluottolaitostensa veloista ja jäsenluottolaitokset ovat velvolliset osallistumaan yksittäisen jäsenluottolaitoksen selvitystilan ehkäisemiseksi tarvittaviin tukitoimiin ja keskusyhteisön yksittäisen jäsenluottolaitoksen puolesta suorittaman velan maksuun tämän lain mukaisesti;",
+      "clause_number": 3,
+      "section_number": "3",
+      "statute_id": "1488/2001"
+    },
+    {
+      "id": "a556fee1-43a0-4baa-85df-12e5cd66413c",
+      "node_type": "Clause",
+      "publisher": "finlex",
+      "title": "§ 3 mom 4",
+      "text": "4) enemmistö jäsenluottolaitoksista on talletuspankkeja.",
+      "clause_number": 4,
+      "section_number": "3",
+      "statute_id": "1488/2001"
+    },
+    {
+      "id": "2714f7ca-fd54-4942-8353-7ec267d0ba19",
+      "node_type": "Clause",
+      "publisher": "finlex",
+      "title": "§ 5 mom 1",
+      "text": "1) keskusyhteisö on tässä laissa tarkoitetun yhteenliittymän keskusyhteisö, joka muodostaa yhteenliittymän yhdessä muiden tämän lain 2 §:ssä tarkoitettujen yritysten kanssa;",
+      "clause_number": 1,
+      "section_number": "5",
+      "statute_id": "1488/2001"
+    },
+    {
+      "id": "bb0fb533-16b2-4a82-ad51-e069070618e3",
+      "node_type": "Clause",
+      "publisher": "finlex",
+      "title": "§ 5 mom 2",
+      "text": "2) keskusyhteisön jäseneksi voidaan ottaa ainoastaan luottolaitos, jonka säännöt tai yhtiöjärjestys ovat tämän lain 6 §:ssä säädetyn mukaiset;",
+      "clause_number": 2,
+      "section_number": "5",
+      "statute_id": "1488/2001"
+    },
+    {
+      "id": "165444d9-0e16-4c15-bf05-7da871c2c6ee",
+      "node_type": "Clause",
+      "publisher": "finlex",
+      "title": "§ 5 mom 3",
+      "text": "3) keskusyhteisö vastaa jäsenluottolaitosten veloista ja sitoumuksista tämän lain mukaisesti;",
+      "clause_number": 3,
+      "section_number": "5",
+      "statute_id": "1488/2001"
+    },
+    {
+      "id": "fb378196-7fcc-4a5e-81aa-9881656b7352",
+      "node_type": "Clause",
+      "publisher": "finlex",
+      "title": "§ 5 mom 4",
+      "text": "4) keskusyhteisöllä on velvollisuus tämän lain mukaisesti valvoa jäsenluottolaitosten toimintaa, antaa niille niiden maksuvalmiuden ja vakavaraisuuden turvaamiseksi ohjeita riskien hallinnasta, luotettavasta hallinnosta ja sisäisestä valvonnasta sekä antaa niille ohjeita yhtenäisten tilinpäätösperiaatteiden noudattamiseksi yhteenliittymän yhdistellyn tilinpäätöksen laatimisessa;",
+      "clause_number": 4,
+      "section_number": "5",
+      "statute_id": "1488/2001"
+    },
+    {
+      "id": "35b1ca70-bf55-486b-a97a-d262dc88bde8",
+      "node_type": "Clause",
+      "publisher": "finlex",
+      "title": "§ 5 mom 5",
+      "text": "5) keskusyhteisön jäsenillä on keskusyhteisön selvitystilassa ja konkurssissa osuuskuntalain 15 luvun 11 §:ssä tarkoitettu rajaton lisämaksuvelvollisuus, jonka määräytymisperusteena on jäsenluottolaitoksen viimeksi vahvistetun taseen loppusumma;",
+      "clause_number": 5,
+      "section_number": "5",
+      "statute_id": "1488/2001"
+    },
+    {
+      "id": "188f4556-9dbf-4295-a4f3-eca83414b87a",
+      "node_type": "Clause",
+      "publisher": "finlex",
+      "title": "§ 5 mom 6",
+      "text": "6) keskusyhteisöllä on oikeus vahvistaa jäsenluottolaitoksille yleisiä toimintaperiaatteita noudatettaviksi näiden yhteenliittymän kannalta merkittävässä toiminnassa.",
+      "clause_number": 6,
+      "section_number": "5",
+      "statute_id": "1488/2001"
+    },
+    {
+      "id": "3dca2262-af49-4ffc-a57d-3c300cd874a0",
+      "node_type": "Clause",
+      "publisher": "finlex",
+      "title": "§ 6 mom 1",
+      "text": "1) jäsenluottolaitos on säännöissä mainitun keskusyhteisön jäsen ja kuuluu tässä laissa tarkoitettuun yhteenliittymään;",
+      "clause_number": 1,
+      "section_number": "6",
+      "statute_id": "1488/2001"
+    },
+    {
+      "id": "c949311c-c798-487f-995b-884c953f3ad9",
+      "node_type": "Clause",
+      "publisher": "finlex",
+      "title": "§ 6 mom 2",
+      "text": "2) keskusyhteisö valvoo tämän lain mukaisesti jäsenluottolaitoksen toimintaa, vahvistaa sen noudatettaviksi 5 §:ssä tarkoitetut toimintaperiaatteet sekä antaa jäsenluottolaitokselle sen maksuvalmiuden ja vakavaraisuuden turvaamiseksi ohjeita vakavaraisuuden ja riskien hallinnasta, luotettavasta hallinnosta ja sisäisestä valvonnasta sekä ohjeita yhtenäisten tilinpäätösperiaatteiden noudattamiseksi yhteenliittymän yhdistellyn tilinpäätöksen laatimisessa;",
+      "clause_number": 2,
+      "section_number": "6",
+      "statute_id": "1488/2001"
+    },
+    {
+      "id": "d4505ae7-665b-4bec-8c99-d90b86ee27c3",
+      "node_type": "Clause",
+      "publisher": "finlex",
+      "title": "§ 6 mom 3",
+      "text": "3) jäsenluottolaitos on velvollinen osallistumaan toisen jäsenluottolaitoksen selvitystilan ehkäisemiseksi tarvittaviin tukitoimiin sekä keskusyhteisön toisen jäsenluottolaitoksen puolesta suorittaman velan maksuun 5 luvun mukaisesti.",
+      "clause_number": 3,
+      "section_number": "6",
+      "statute_id": "1488/2001"
+    },
+    {
+      "id": "f518d740-da04-402b-8486-5c847f20759f",
+      "node_type": "Clause",
+      "publisher": "finlex",
+      "title": "§ 15 mom 1",
+      "text": "1) keskusyhteisöä koskevan täydellisen kaupparekisteriotteen, johon sisältyvät säännöt;",
+      "clause_number": 1,
+      "section_number": "15",
+      "statute_id": "1488/2001"
+    },
+    {
+      "id": "7ed47301-3186-44a8-8a13-a9b17646bc6c",
+      "node_type": "Clause",
+      "publisher": "finlex",
+      "title": "§ 15 mom 2",
+      "text": "2) hallituksen jäsenten ja varajäsenten, toimitusjohtajan ja toimitusjohtajan sijaisen sekä tilintarkastajien ja varatilintarkastajien nimet ja muut tarvittavat tiedot;",
+      "clause_number": 2,
+      "section_number": "15",
+      "statute_id": "1488/2001"
+    },
+    {
+      "id": "139bcddd-992e-49b5-a6fc-3484712ee303",
+      "node_type": "Clause",
+      "publisher": "finlex",
+      "title": "§ 15 mom 3",
+      "text": "3) jos keskusyhteisöllä on hallintoneuvosto, sen jäsenten ja varajäsenten nimet ja muut tarvittavat tiedot sekä hallintoneuvoston vahvistamat keskusyhteisön toimintaa ja hallintoneuvoston valitsemia tarkastajia koskevat yleiset ohjeet.",
+      "clause_number": 3,
+      "section_number": "15",
+      "statute_id": "1488/2001"
+    },
+    {
+      "id": "78d351e4-f308-456f-9d90-609ab1db8b99",
+      "node_type": "Clause",
+      "publisher": "finlex",
+      "title": "§ 23 mom 1",
+      "text": "1) tieto siitä, että jäsenluottolaitos kuuluu talletuspankkien yhteenliittymään;",
+      "clause_number": 1,
+      "section_number": "23",
+      "statute_id": "1488/2001"
+    },
+    {
+      "id": "1ba278df-ffa7-4ddd-b61e-f3ef9c35c44a",
+      "node_type": "Clause",
+      "publisher": "finlex",
+      "title": "§ 23 mom 2",
+      "text": "2) tieto siitä, minkä keskusyhteisön tilinpäätökseen yhteenliittymän vakavaraisuutta koskevat tiedot sisältyvät;",
+      "clause_number": 2,
+      "section_number": "23",
+      "statute_id": "1488/2001"
+    },
+    {
+      "id": "f74d2fc3-884b-4d5f-b2d8-e41bce9016a2",
+      "node_type": "Clause",
+      "publisher": "finlex",
+      "title": "§ 23 mom 3",
+      "text": "3) tiedot tämän lain 21 §:ssä tarkoitetun poikkeuksen soveltamisesta jäsenluottolaitokseen, mukaan lukien määrä, jolla omien varojen vähimmäismäärä alittaa kunkin 21 §:ssä tarkoitetun luottolaitostoiminnasta annetun lain mukaisen omien varojen vaatimuksen.",
+      "clause_number": 3,
+      "section_number": "23",
+      "statute_id": "1488/2001"
+    }
+  ],
+  "cross_references": [
+    {
+      "raw_text": "pykälän 3",
+      "statute_id": "1488/2001",
+      "section_number": "3",
+      "clause_number": null,
+      "resolution_confidence": 0.0
+    },
+    {
+      "raw_text": "pykälän 2 momentissa s",
+      "statute_id": "1488/2001",
+      "section_number": "2 momentissa s",
+      "clause_number": null,
+      "resolution_confidence": 0.0
+    },
+    {
+      "raw_text": "pykälän 2",
+      "statute_id": "1488/2001",
+      "section_number": "2",
+      "clause_number": null,
+      "resolution_confidence": 0.0
+    },
+    {
+      "raw_text": "pykälän 1 momentissa t",
+      "statute_id": "1488/2001",
+      "section_number": "1 momentissa t",
+      "clause_number": null,
+      "resolution_confidence": 0.0
+    }
+  ],
+  "raw_html_path": "C:\\Users\\danit\\finance-hack\\aalto-hackaton-2026\\data\\raw\\finlex\\Laki (säädöskokoelma)\\Laki talletuspankkien yhteenliittymästä.html"
+}

@@ -1,0 +1,288 @@
+{
+  "statute": {
+    "id": "13df2256-7cec-4c15-bb2e-f1ee46c4a24d",
+    "node_type": "Statute",
+    "publisher": "finlex",
+    "title": "Liikenne- ja viestintäministeriön asetus hallinnollisista taajuusmaksuista ja Liikenne- ja viestintäviraston taajuushallinnollisista suoritteista perittävistä muista maksuista annetun liikenne- ja viestintäministeriön asetuksen muuttamisesta",
+    "text": "Liikenne- ja viestintäministeriön asetus hallinnollisista taajuusmaksuista ja Liikenne- ja viestintäviraston taajuushallinnollisista suoritteista perittävistä muista maksuista annetun liikenne- ja viestintäministeriön asetuksen muuttamisesta",
+    "statute_id": "1454/2019",
+    "finlex_url": "https://finlex.fi/fi/laki/ajantasa/1454/2019"
+  },
+  "chapters": [],
+  "sections": [
+    {
+      "id": "4b051734-a4c1-4e64-83a1-8e2a81a9c0cc",
+      "node_type": "Section",
+      "publisher": "finlex",
+      "title": "2 § Taajuusmaksun suuruus ja perintä",
+      "text": "Liikenne- ja viestintävirasto perii käytettäväksi myönnettyjen, varattujen tai suojattujen radiotaajuuksien taloudelliseen arvoon ja taajuushallinnollisiin kustannuksiin perustuvan valtion maksuperustelain (150/1992) 6 §:n 3 momentissa tarkoitetun suoritteen omakustannusarvoa korkeamman vuosittaisen maksun sähköisen viestinnän palveluista annetun lain 39 §:ssä (917/2014) ja tämän momentin 1 kohdassa tarkoitetusta suoritteesta, saman lain 44 §:ssä ja tämän momentin 2 kohdassa tarkoitetusta suoritteesta ja saman lain 50 §:ssä tarkoitetusta ja tämän momentin 2 a kohdassa tarkoitetusta suoritteesta sekä omakustannusarvon mukaisen vuosittaisen maksun tämän momentin 3 kohdassa tarkoitetusta suoritteesta: Taajuusmaksua 1 momentin 1 kohdassa tarkoitetusta suoritteesta peritään 4–11 §:ssä ja 14 §:ssä säädetyn mukaisesti. Vuosittaisen taajuusmaksun maksukauden pituus on enintään 13 kuukautta. Radioluvan haltija on velvollinen maksamaan vuosittaisen taajuusmaksun siitä huolimatta, että radiolupa irtisanotaan tai peruutetaan päättymään maksukauden aikana. Taajuusvarausmaksua 1 momentin 2 kohdassa tarkoitetusta suoritteesta peritään 12 §:ssä ja taajuusmaksua 1 momentin 2 a kohdassa tarkoitetusta suoritteesta 12 a §:ssä säädetyn mukaisesti. Sotilaallisen radioviestinnän taajuushallintomaksua 1 momentin 3 kohdassa tarkoitetusta suoritteesta peritään 13 §:ssä säädetyn mukaisesti.",
+      "section_number": "2",
+      "chapter_number": 1,
+      "statute_id": "1454/2019"
+    },
+    {
+      "id": "588cbc3c-27b8-4d32-b17a-a9de655429c2",
+      "node_type": "Section",
+      "publisher": "finlex",
+      "title": "4 § Yleinen taajuusmaksu",
+      "text": "Edellä 3 §:n 1 momentissa tarkoitettujen yleisten määräytymisperusteiden mukaisesti perittävä taajuusmaksu määräytyy seuraavan kaavan ja 2–8 momentissa määriteltyjen kertoimien, laskennallisten suureiden ja käsitteiden mukaisesti: B0 • K1 • Kasuk • S • 1295,50 € Radiotaajuuksien suhteellinen kaistanleveys (B0) on taajuusmäärän suhde vertailukaistan leveyteen (Bref). Taajuusmaksun määräämisessä sovellettava taajuusmäärä on käytettäväksi osoitettu tai radioverkolle tai -järjestelmälle varattu taajuusmäärä (B) kerrottuna käyttöoikeuden laatuun perustuvalla käyttöoikeuskertoimella (Kj). Suhteellinen kaistanleveys määräytyy seuraavan kaavan mukaisesti: B0 = (B • Kj) / Bref Vertailukaistan leveys (Bref) on 25 kHz, lukuun ottamatta yli 960 MHz:n radiolinkkilähettimien taajuusmaksua, jossa maksussa sovellettava vertailukaistan leveys on 14 MHz. Käyttöoikeuskertoimen arvot määrätään liitteen 1 kohdassa. Jos taajuuksia on osoitettu tai varattu käyttöön erilaisilla käyttöoikeuksilla, taajuusmäärä on käyttöoikeuksittain laskettujen taajuusmäärien summa. Taajuusaluekerroin (K1) määräytyy luvanhaltijan radiolähettimen taikka radioverkon, radiojärjestelmän tai radioaseman luvanvaraisten radiolähettimien käyttöön osoitetun tai varatun taajuusalueen perusteella. Jos käyttöön on osoitettu ja varattu taajuusalueita, joiden taajuusaluekertoimet ovat erisuuruisia, sovelletaan näiden alueiden kertoimista korkeinta. Sovellettavat taajuusaluekertoimet määrätään liitteen 2 kohdassa. Väestöpeittokerroin (Kasuk) määräytyy sen perusteella, kuinka paljon asukkaita on radiolähettimen taikka radioverkon, radiojärjestelmän tai radioaseman käyttöoikeusalueella suhteessa Suomen väkilukuun. Väestöpeittokerroin on 1 koko Suomen kattavalta käyttöoikeusalueelta. Väestöpeittokerroin on kuitenkin vähintään 0,05 myönnetystä oikeudesta pitää hallussa ja käyttää paikallista matkaviestinverkkoa ja kiinteä 0,01 määrättäessä taajuusmaksua myönnetystä oikeudesta pitää hallussa ja käyttää muuta radiolähetintä, radiojärjestelmää tai radioverkkoa kuin matkaviestinverkkoa, viranomaisradioverkkoa, joukkoviestintäverkkoa tai satelliittijärjestelmän 2 GHz:n maaverkkoa tai kiinteän langattoman liityntäverkon radiojärjestelmää. Perusmaksun kerroin (S) on radiojärjestelmä- tai radiolähetinryhmäkohtainen kerroin, jolla suhteellistetaan 8 momentissa tarkoitetun perusmaksun vaikutus perittävään taajuusmaksuun. Sovellettavat perusmaksun kertoimet määrätään liitteen 3 kohdassa. Perusmaksu on vertailukaistan suuruisen taajuusmäärän käyttöoikeudelle määrätty laskennallinen suure, jota käytetään radiolähettimen taajuusmaksua määrättäessä. Perusmaksu on 1 295,50 euroa.",
+      "section_number": "4",
+      "chapter_number": 1,
+      "statute_id": "1454/2019"
+    },
+    {
+      "id": "7a9a23c8-e8c4-42ba-94d8-e69abd684d77",
+      "node_type": "Section",
+      "publisher": "finlex",
+      "title": "5 § Yleisen taajuusmaksun radiolähettimet, radioverkot ja radiojärjestelmät",
+      "text": "Liikenne- ja viestintävirasto perii vuosittain edellä 4 §:ssä säädetyn mukaisesti määräytyvän taajuusmaksun myöntämästään oikeudesta pitää hallussa ja käyttää seuraavia luvanvaraisia radiolähettimiä tai radioverkon tai radiojärjestelmän luvanvaraisia tukiasemia tai radiolähettimiä: Valtakunnallisella matkaviestinverkolla tarkoitetaan tässä asetuksessa GSM-matkaviestinverkkoa ja UMTS-matkaviestinverkkoa, digitaalista laajakaistaista 450 ja 2000 matkaviestinverkkoa, 700 MHz:n, 800 MHz:n, 2500 MHz:n ja valtakunnallista 3500 MHz:n sähköisten viestintäpalveluiden tarjontaan soveltuvaa maanpäällistä järjestelmää. Muulla kuin valtakunnallisella tai paikallisella matkaviestinverkolla tarkoitetaan aluksen matkaviestinverkkoa ja ilma-aluksen matkaviestinverkkoa. Erittäin laajakaistaisella valtakunnallisella matkaviestinverkolla tarkoitetaan 26 GHz:n taajuusalueella toimivaa valtakunnallista matkaviestinverkkoa. Paikallisella matkaviestinverkolla tarkoitetaan 26 GHz:n taajuusalueella toimivaa erittäin laajakaistaista paikallista matkaviestinverkkoa sekä 2300–2320 MHz:n taajuusalueella toimivaa paikallista matkaviestinverkkoa.",
+      "section_number": "5",
+      "chapter_number": 1,
+      "statute_id": "1454/2019"
+    },
+    {
+      "id": "a720556c-ab29-4ad5-84fe-3422df294f51",
+      "node_type": "Section",
+      "publisher": "finlex",
+      "title": "6 § Yleisen taajuusmaksun perintää koskevia tarkentavia määräyksiä",
+      "text": "Radiotaajuuksien suhteellinen kaistanleveys on 5 §:n 1 momentin 10–15 kohdassa tarkoitettujen radiolähettimien, radiojärjestelmien tai radioverkkojen taajuusmaksuja määrättäessä sen estämättä, mitä 4 §:n 2 momentissa säädetään, kuutiojuuri 4 §:n 2 momentissa määritellystä radiotaajuuksien suhteellisesta kaistanleveydestä. Vuoden 2008 jälkeen voimaan tullut kuntajaon muutos ei vaikuta matkaviestinverkon eikä kiinteän langattoman liityntäverkon radiojärjestelmän tukiasemien väestöpeittokertoimen suuruuteen verkon tai järjestelmän käyttöoikeusaluetta suurentamalla. Valtakunnallisen toimiluvanvaraisen televisioverkon radiolähettimien suhteellinen kaistanleveys määrätään televisioverkolle varatun taajuusmäärän perusteella. Televisioverkolle varattu taajuusmäärä on valtioneuvoston taajuussuunnitelmassa toimiluvanvaraiseen televisiotoimintaan määrätyn taajuusalueen taajuusmäärä jaettuna taajuusalueella käytettävissä olevien valtakunnallisten kanavanippujen määrällä. Alueellisen televisioverkon radiolähettimien suhteellinen kaistanleveys on sama, kuin samalla taajuusalueella toimivaksi tarkoitetun valtakunnallisen toimiluvanvaraisen televisioverkon radiolähettimien suhteellinen kaistanleveys. Televisioverkon taajuusmaksu määrätään verkkokohtaisesti. Yksityisen radioverkon (PMR) ja henkilöhakuverkon tukiaseman taajuusmaksu lasketaan verkkokohtaisesti ja antennipaikkakohtaisesti. Sen estämättä, mitä 4 §:n 1 momentissa säädetään, taajuusmaksu lasketaan yhden samalla radiotaajuudella toimivan radiolähettimen perusteella, jos kauko-ohjaus-, kaukomittaus- ja datasiirtojärjestelmässä tai radiolinkkijärjestelmässä on yhdessä antennipaikassa enemmän kuin yksi samalla radiotaajuudella toimiva radiolähetin. Kiinteän HF-lähettimen taajuusmaksu määrätään antennipaikkakohtaisesti.",
+      "section_number": "6",
+      "chapter_number": 1,
+      "statute_id": "1454/2019"
+    },
+    {
+      "id": "4c33b6be-dc93-4892-81d9-63c69d469d6c",
+      "node_type": "Section",
+      "publisher": "finlex",
+      "title": "12 § Taajuusvarausmaksu",
+      "text": "Liikenne- ja viestintävirasto perii sähköisen viestinnän palveluista annetun lain 44 §:ssä tarkoitetusta radiotaajuuksien varauksesta saman suuruisen maksun kuin tämän asetuksen 5 §:ssä tai 7–11 §:ssä tarkoitetusta oikeudesta hallussa pitää ja käyttää radiolähetintä. Sen estämättä, mitä 11 §:n 1 momentissa säädetään, taajuusmaksua peritään myös alle 18 euroa tai alle neljäsosa vuosittaisen taajuusmaksun määrästä. Jos varaus raukeaa sen vuoksi, että radiolähettimen hallussapitoon ja käyttöön myönnetään radiolupa, radiolähettimen 5 §:ssä tai 7–11 §:n perusteella määrättävästä ensimmäisen vuoden vuosittaisesta taajuusmaksusta tai 10 §:n 1 momentin perusteella määrättävästä lyhytaikaisesta taajuusmaksusta tehdään tämän momentin mukainen vähennys. Vähennyksen suuruus on 5 §:ssä tai 7–11 §:ssä säädetty taajuusmaksu kerrottuna taajuusvarauksen voimassaolon ja raukeamisesta johtuneen tosiasiallisen voimassaolon välisen vuorokausimäärän erotuksen ja 365:n suhdeluvulla. Vähennystä ei kuitenkaan tehdä 5 §:n 1 momentin 10 tai 11 kohdassa, 7 §:n 1 momentin 1 kohdassa taikka 8 §:n 1 momentin 2 tai 3 kohdassa tarkoitetun radiolähettimen taajuusmaksusta taikka lyhytaikaisesta taajuusmaksusta. Taajuusvarauksen taajuusmaksuun ei kuitenkaan lasketa yksityisen radioverkon (PMR), henkilöhakuverkon, muun meriradiojärjestelmän kuin aluksen radioaseman tai ilmailun taajuuksilla toimivan maaradiojärjestelmän liikkuvia asemia. Jos verkkoon tai järjestelmään ei kuulu kuin liikkuvia asemia, lasketaan taajuusvarauksen taajuusmaksu yhden liikkuvan aseman perusteella. Kauko-ohjaus-, kaukomittaus- ja datasiirtojärjestelmän taajuusvarauksen taajuusmaksu määräytyy kuitenkin siten, että jokaista järjestelmälle varattua radiokanavaa kohden lasketaan yksi radiolähetin. Päätökseen perustuvasta radiovastaanottoaseman suojaamisesta häiriöiltä peritään vuosittain 4–11 §:n mukaisesti saman suuruinen taajuusmaksu kuin perittäisiin 5 §:ssä tai 7–9 §:ssä tarkoitetusta sen taajuusalueen ensisijaisen käyttötarkoituksen mukaisesta radiolähettimestä, radioverkosta tai radiojärjestelmästä, jolla päätöksessä suojatut taajuudet ovat. Jos suojattuja taajuuksia on taajuusalueilla, joiden taajuusaluekertoimet ovat erisuuruisia, sovelletaan taajuusmaksun määräämisessä taajuusaluetta, jonka taajuusaluekerroin on arvoltaan korkein. Käyttöoikeuskertoimen arvona sovelletaan tämän asetuksen liitteen 1 kohdassa säädettyä paikallisen yksioikeuskanavan arvoa. Järjestelmäkertoimen arvona sovelletaan tämän asetuksen liitteen 4 kohdassa säädettyä arvoa, joka määräytyy sen perusteella, että radioverkossa tai radiojärjestelmässä on yksi liikkuva asema.",
+      "section_number": "12",
+      "chapter_number": 1,
+      "statute_id": "1454/2019"
+    },
+    {
+      "id": "c8548507-408f-44ff-9ae9-110b8ae35925",
+      "node_type": "Section",
+      "publisher": "finlex",
+      "title": "17 § Radiolaitteen tai radioaseman tarkastusmaksu",
+      "text": "Liikenne- ja viestintävirasto perii sähköisen viestinnän palveluista annetun lain 42 §:n 2 momentissa tarkoitetusta suuren häiriöriskin aiheuttavan radiolähettimen tai radioaseman tarkastuksesta valtion maksuperustelain 6 §:n 2 momentissa tarkoitetun kiinteän maksun. Tarkastuksesta perittävät tarkastusmaksut ovat seuraavat: Sellaisesta radiolaitteen tarkastamisesta, jota tarkoitetaan poliisilain (872/2001) 5 luvun 25 §:n 2 momentissa, peritään valtion maksuperustelain 6 §:n 1 momentissa tarkoitettu suoritteen omakustannusarvon mukainen tarkastusmaksu. Liikenne- ja viestintävirasto perii edellä tarkoitetun tarkastusmaksun, vaikka laite tai asema on hylätty.",
+      "section_number": "17",
+      "chapter_number": 1,
+      "statute_id": "1454/2019"
+    },
+    {
+      "id": "0978f060-f3b1-48f5-857a-28d17d7819ee",
+      "node_type": "Section",
+      "publisher": "finlex",
+      "title": "18 § Maksu satelliittijärjestelmän koordinoinnista",
+      "text": "Liikenne- ja viestintävirasto perii valtion maksuperustelain 6 §:n 1 momentissa tarkoitetun suoritteen omakustannusarvon mukaisen maksun satelliittijärjestelmän koordinoinnista Kansainväliseen televiestintäliittoon tai muuhun kansainväliseen järjestöön. Tämä asetus tulee voimaan 1 päivänä tammikuuta 2021 ja on voimassa 31 päivään joulukuuta 2021. Maksuista tai suoritteista, joita koskeva asia on tullut vireille ennen tämän asetuksen voimaantuloa, peritään maksu asian vireilletulohetkellä voimassa olleiden säännösten mukaisesti. Liite TAAJUUSMAKSUISSA SOVELLETTAVIEN KERTOIMIEN SUURUUDET 1) Käyttöoikeuskertoimet Sovellettavat käyttöoikeuskertoimet ovat seuraavat: 3) Perusmaksun kertoimet Perusmaksun kertoimet ovat seuraavat:",
+      "section_number": "18",
+      "chapter_number": 1,
+      "statute_id": "1454/2019"
+    }
+  ],
+  "clauses": [
+    {
+      "id": "51e671b3-5045-45f7-b4bf-2d46c3b4be01",
+      "node_type": "Clause",
+      "publisher": "finlex",
+      "title": "§ 2 mom 1",
+      "text": "1) \n                                    oikeus radiolähettimen taikka radioverkon, radiojärjestelmän tai radioaseman luvanvaraisten radiolähettimien hallussapitoon ja käyttöön (radiolupa);",
+      "clause_number": 1,
+      "section_number": "2",
+      "statute_id": "1454/2019"
+    },
+    {
+      "id": "aa924add-5d51-45a9-90df-a9b7a349c604",
+      "node_type": "Clause",
+      "publisher": "finlex",
+      "title": "§ 2 mom 2",
+      "text": "2) radiotaajuuksien varaus;",
+      "clause_number": 2,
+      "section_number": "2",
+      "statute_id": "1454/2019"
+    },
+    {
+      "id": "8d08e347-7f28-472d-8254-dc30b429a1d1",
+      "node_type": "Clause",
+      "publisher": "finlex",
+      "title": "§ 2 mom 3",
+      "text": "3) sotilaalliseen maanpuolustukseen liittyvien taajuuksien hallinto.",
+      "clause_number": 3,
+      "section_number": "2",
+      "statute_id": "1454/2019"
+    },
+    {
+      "id": "5bbb33fa-01f4-4755-b9b7-31220447d1b0",
+      "node_type": "Clause",
+      "publisher": "finlex",
+      "title": "§ 5 mom 1",
+      "text": "1) muun valtakunnallisen matkaviestinverkon kuin valtakunnallisen erittäin laajakaistaisen matkaviestinverkon tukiasemat ja muun kuin valtakunnallisen tai paikallisen matkaviestinverkon tukiasemat;",
+      "clause_number": 1,
+      "section_number": "5",
+      "statute_id": "1454/2019"
+    },
+    {
+      "id": "a96a577b-0989-48f7-b6b0-c4527b524cf4",
+      "node_type": "Clause",
+      "publisher": "finlex",
+      "title": "§ 5 mom 2",
+      "text": "2) viranomaisverkon (VIRVE) tukiasemat;",
+      "clause_number": 2,
+      "section_number": "5",
+      "statute_id": "1454/2019"
+    },
+    {
+      "id": "45aaf419-0800-4fa4-bba7-9bfdc9eead42",
+      "node_type": "Clause",
+      "publisher": "finlex",
+      "title": "§ 5 mom 3",
+      "text": "3) kiinteän langattoman liityntäverkon radiojärjestelmät;",
+      "clause_number": 3,
+      "section_number": "5",
+      "statute_id": "1454/2019"
+    },
+    {
+      "id": "d2c83d69-324f-437f-8836-4721abd28020",
+      "node_type": "Clause",
+      "publisher": "finlex",
+      "title": "§ 5 mom 4",
+      "text": "4) televisioverkon ja muun joukkoviestintäverkon radiolähettimet;",
+      "clause_number": 4,
+      "section_number": "5",
+      "statute_id": "1454/2019"
+    },
+    {
+      "id": "92c4a0d7-07ca-4961-ae4e-53d717bffa01",
+      "node_type": "Clause",
+      "publisher": "finlex",
+      "title": "§ 5 mom 5",
+      "text": "5) kiinteät HF-lähettimet;",
+      "clause_number": 5,
+      "section_number": "5",
+      "statute_id": "1454/2019"
+    },
+    {
+      "id": "0446872c-c328-49c6-a000-a1536bd2e00c",
+      "node_type": "Clause",
+      "publisher": "finlex",
+      "title": "§ 5 mom 6",
+      "text": "6) radiosondijärjestelmät;",
+      "clause_number": 6,
+      "section_number": "5",
+      "statute_id": "1454/2019"
+    },
+    {
+      "id": "83b3c231-0985-4c5f-859c-6cb21f7f6d01",
+      "node_type": "Clause",
+      "publisher": "finlex",
+      "title": "§ 5 mom 7",
+      "text": "7) enintään 1 mW:n säteilyteholla toimiva tutkimuskäyttöön tarkoitettu seurantajärjestelmä;",
+      "clause_number": 7,
+      "section_number": "5",
+      "statute_id": "1454/2019"
+    },
+    {
+      "id": "dfff763e-7b60-4805-a35c-5394bbb35cbb",
+      "node_type": "Clause",
+      "publisher": "finlex",
+      "title": "§ 5 mom 8",
+      "text": "8) satelliittijärjestelmän 2 GHz:n maaverkko;",
+      "clause_number": 8,
+      "section_number": "5",
+      "statute_id": "1454/2019"
+    },
+    {
+      "id": "4266ee63-444e-4ca3-9b87-ebeee9d7967c",
+      "node_type": "Clause",
+      "publisher": "finlex",
+      "title": "§ 5 mom 9",
+      "text": "9) henkilökohtainen hätälähetin (PLB);",
+      "clause_number": 9,
+      "section_number": "5",
+      "statute_id": "1454/2019"
+    },
+    {
+      "id": "2f3d9bd5-463a-4007-a9db-62d97b01d2de",
+      "node_type": "Clause",
+      "publisher": "finlex",
+      "title": "§ 5 mom 10",
+      "text": "10) yksityisen radioverkon (PMR) ja henkilöhakuverkon tukiasemat;",
+      "clause_number": 10,
+      "section_number": "5",
+      "statute_id": "1454/2019"
+    },
+    {
+      "id": "d6c85c76-f945-4445-b407-0a27ae134d1f",
+      "node_type": "Clause",
+      "publisher": "finlex",
+      "title": "§ 5 mom 11",
+      "text": "11) kauko-ohjaus-, kaukomittaus- ja datasiirtojärjestelmän radiolähettimet;",
+      "clause_number": 11,
+      "section_number": "5",
+      "statute_id": "1454/2019"
+    },
+    {
+      "id": "a0ee456b-cc07-4c7c-bbb9-41fc92b5c78d",
+      "node_type": "Clause",
+      "publisher": "finlex",
+      "title": "§ 5 mom 12",
+      "text": "12) kiinteän satelliittiliikenteen maa-aseman radiolähettimet;",
+      "clause_number": 12,
+      "section_number": "5",
+      "statute_id": "1454/2019"
+    },
+    {
+      "id": "99ce3a4b-0c11-4402-a392-7fadaae54cd6",
+      "node_type": "Clause",
+      "publisher": "finlex",
+      "title": "§ 5 mom 13",
+      "text": "13) radiolinkkilähettimet;",
+      "clause_number": 13,
+      "section_number": "5",
+      "statute_id": "1454/2019"
+    },
+    {
+      "id": "3b238691-190b-4fc4-8e2f-f049772582bb",
+      "node_type": "Clause",
+      "publisher": "finlex",
+      "title": "§ 5 mom 14",
+      "text": "14) muu tutka-asema kuin aluksen tai ilma-aluksen tutka-asema; sekä",
+      "clause_number": 14,
+      "section_number": "5",
+      "statute_id": "1454/2019"
+    },
+    {
+      "id": "5a2735c0-d02b-488d-8c1f-91440e8f5aa1",
+      "node_type": "Clause",
+      "publisher": "finlex",
+      "title": "§ 5 mom 15",
+      "text": "15) avaruuteen lähetetyn esineen radiolähetin lukuun ottamatta satelliittijärjestelmien radioasemia.",
+      "clause_number": 15,
+      "section_number": "5",
+      "statute_id": "1454/2019"
+    },
+    {
+      "id": "8f090daa-2969-42a5-a52c-0fccf5382767",
+      "node_type": "Clause",
+      "publisher": "finlex",
+      "title": "§ 17 mom 1",
+      "text": "1) käyttöpaikalla tehtävä tarkastus 840,95 euroa;",
+      "clause_number": 1,
+      "section_number": "17",
+      "statute_id": "1454/2019"
+    },
+    {
+      "id": "46ed4b74-80c0-480e-b013-24e7b3a968d5",
+      "node_type": "Clause",
+      "publisher": "finlex",
+      "title": "§ 17 mom 2",
+      "text": "2) mittaus- ja laitetietojen perusteella tehtävä tarkastus 100,00 euroa.",
+      "clause_number": 2,
+      "section_number": "17",
+      "statute_id": "1454/2019"
+    }
+  ],
+  "cross_references": [],
+  "raw_html_path": "C:\\Users\\danit\\finance-hack\\aalto-hackaton-2026\\data\\raw\\finlex\\Asetus\\Liikenne- ja viestintäministeriön asetus hallinnollisista taajuusmaksuista ja Liikenne- ja viestintäviraston taajuushallinnollisista suoritteista perittävistä muista maksuista anne_1.html"
+}

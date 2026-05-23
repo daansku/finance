@@ -1,0 +1,683 @@
+{
+  "statute": {
+    "id": "4d441332-7cf9-4476-93f5-98b4df2de9e0",
+    "node_type": "Statute",
+    "publisher": "finlex",
+    "title": "Rautatiekuljetuslaki",
+    "text": "Rautatiekuljetuslaki",
+    "statute_id": "21/1995",
+    "finlex_url": "https://finlex.fi/fi/laki/ajantasa/21/1995"
+  },
+  "chapters": [
+    {
+      "id": "975a4593-e309-4026-9ec2-476a96d12b62",
+      "node_type": "Chapter",
+      "publisher": "finlex",
+      "title": "Chapter 1",
+      "text": "1 luku Yleiset säännökset",
+      "chapter_number": 1,
+      "statute_id": "21/1995"
+    },
+    {
+      "id": "421c9cdc-6b65-4651-9a3c-20fc5ab88556",
+      "node_type": "Chapter",
+      "publisher": "finlex",
+      "title": "Chapter 2",
+      "text": "2 luku Tavaran kuljetus",
+      "chapter_number": 2,
+      "statute_id": "21/1995"
+    },
+    {
+      "id": "28fd4da6-7410-4c3a-ae06-15288aa72402",
+      "node_type": "Chapter",
+      "publisher": "finlex",
+      "title": "Chapter 3",
+      "text": "3 luku Matkustajan ja käsimatkatavaran kuljetus",
+      "chapter_number": 3,
+      "statute_id": "21/1995"
+    },
+    {
+      "id": "fcc01ea3-b127-4c3c-b7af-f2931d7a56f5",
+      "node_type": "Chapter",
+      "publisher": "finlex",
+      "title": "Chapter 4",
+      "text": "4 luku Matkatavaran kuljetus",
+      "chapter_number": 4,
+      "statute_id": "21/1995"
+    },
+    {
+      "id": "a74e3d5f-8abe-40b2-acfa-a8c418ac3666",
+      "node_type": "Chapter",
+      "publisher": "finlex",
+      "title": "Chapter 5",
+      "text": "5 luku Erinäiset säännökset",
+      "chapter_number": 5,
+      "statute_id": "21/1995"
+    },
+    {
+      "id": "69cdfdad-af48-43e0-951a-d82fcc34d2ce",
+      "node_type": "Chapter",
+      "publisher": "finlex",
+      "title": "Chapter 6",
+      "text": "6 luku Voimaantulo",
+      "chapter_number": 6,
+      "statute_id": "21/1995"
+    }
+  ],
+  "sections": [
+    {
+      "id": "3838807a-a45b-4e0f-8061-b225610a4ac2",
+      "node_type": "Section",
+      "publisher": "finlex",
+      "title": "1 § Soveltamisala",
+      "text": "Tätä lakia sovelletaan rautatiekuljetukseen, jonka rautatieyritys on sitoutunut suorittamaan, ja rautatiekuljetukseen välittömästi liittyvään rautatieyrityksen järjestämään muuhun kuljetukseen. Tätä lakia ei kuitenkaan sovelleta siltä osin kuin Suomea velvoittavasta kansainvälisestä sopimuksesta johtuu muuta.",
+      "section_number": "1",
+      "chapter_number": 1,
+      "statute_id": "21/1995"
+    },
+    {
+      "id": "104ff8c2-df93-4832-a8d2-a21d9930e1a9",
+      "node_type": "Section",
+      "publisher": "finlex",
+      "title": "2 § Rautatieyritys",
+      "text": "Tässä laissa tarkoitetaanrautatieyrityksellävaltion rataverkosta, radanpidosta ja rataverkon käytöstä annetun lain (21/1995) 2 a §:ssä tarkoitettua rautatieyritystä.",
+      "section_number": "2",
+      "chapter_number": 1,
+      "statute_id": "21/1995"
+    },
+    {
+      "id": "a1e5c928-4aba-49e0-b035-97e9b32c96d4",
+      "node_type": "Section",
+      "publisher": "finlex",
+      "title": "3 § Säännösten pakottavuus",
+      "text": "Sopimusehto, joka poikkeaa tämän lain säännöksistä matkustajan taikka tavaraan tai matkatavaraan oikeutetun vahingoksi, on mitätön, jollei jäljempänä toisin säädetä. Tavaran kuljetusta koskevista säännöksistä voidaan kuitenkin poiketa muun kuin kuluttajansuojalain (38/1978) 1 luvun 4 §:ssä tarkoitetun kuluttajan kanssa tehtävässä sopimuksessa, jos poikkeaminen on kohtuullista sopijapuolten aseman, tavaran tai kuljetuksen poikkeuksellisen laadun taikka muiden erityisten olosuhteiden takia.",
+      "section_number": "3",
+      "chapter_number": 1,
+      "statute_id": "21/1995"
+    },
+    {
+      "id": "77b1992a-34fd-44ba-98db-0c9c2439d1fd",
+      "node_type": "Section",
+      "publisher": "finlex",
+      "title": "4 § Korvausvaatimus muulla perusteella",
+      "text": "Rautatieyrityksellä ja sillä, jonka menettelystä rautatieyritys vastaa, on oikeus vedota tämän lain säännöksiin vastuun rajoittamisesta ja vastuusta vapautumisesta silloinkin, kun korvausvaatimus ei perustu tähän lakiin, jos korvausta olisi voitu vaatia tämän lain nojalla.",
+      "section_number": "4",
+      "chapter_number": 1,
+      "statute_id": "21/1995"
+    },
+    {
+      "id": "9241c181-c74d-4819-be9a-b11c7186fbf1",
+      "node_type": "Section",
+      "publisher": "finlex",
+      "title": "5 § Tahallisuus ja törkeä huolimattomuus",
+      "text": "Jos rautatieyritys tai joku, jonka menettelystä rautatieyritys vastaa, on aiheuttanut vahingon tahallisesti tai törkeästä huolimattomuudesta, se ei voi vedota tämän lain säännöksiin vastuun rajoittamisesta tai vastuusta vapautumisesta.",
+      "section_number": "5",
+      "chapter_number": 1,
+      "statute_id": "21/1995"
+    },
+    {
+      "id": "c3954711-3e6e-4aae-b729-14ac7d446992",
+      "node_type": "Section",
+      "publisher": "finlex",
+      "title": "6 § Kuljetusehtojen saatavuus",
+      "text": "Matkustajan ja matkatavaran kuljetukseen sovellettavat kuljetusehdot on pidettävä saatavilla toimipaikoissa, joissa tehdään näitä kuljetuksia koskevia sopimuksia.",
+      "section_number": "6",
+      "chapter_number": 1,
+      "statute_id": "21/1995"
+    },
+    {
+      "id": "80128835-d80c-4f96-8623-18c868c90082",
+      "node_type": "Section",
+      "publisher": "finlex",
+      "title": "7 § Matkustajan ja tavaran lähettäjän vastuu",
+      "text": "Matkustajan velvollisuudesta korvata käsimatkatavarasta tai matkatavarasta rautatieyritykselle aiheutunut vahinko on soveltuvin osin voimassa, mitä vahingonkorvauslain (412/1974) 2, 5 ja 6 luvussa säädetään. Tavaran lähettäjä on velvollinen korvaamaan rautatieyritykselle vahingon, joka on aiheutunut tavaran puutteellisesta pakkaamisesta tai lähettäjän tekemästä virheellisestä kuormasta. Jos tavaran lähettäjä on kuluttaja, hän on kuitenkin velvollinen korvaamaan vahingon vain siltä osin kuin se on johtunut hänen virheestään tai laiminlyönnistään. Jos vahinko on aiheutunut tavaraa kuljetettavaksi otettaessa havaittavissa tai rautatieyrityksen tiedossa olleesta puutteellisuudesta, tavaran lähettäjä ei kuitenkaan ole 2 momentin nojalla korvausvelvollinen, jollei puutteellisuudesta ole tehty merkintää kuljetusasiakirjaan tai ilmoitettu lähettäjälle tavaraa kuljetettavaksi otettaessa.",
+      "section_number": "7",
+      "chapter_number": 1,
+      "statute_id": "21/1995"
+    },
+    {
+      "id": "2bdc1117-ac55-4022-85ed-cfa63f83ffaf",
+      "node_type": "Section",
+      "publisher": "finlex",
+      "title": "8 § Vahingonkorvauksen sovittelu",
+      "text": "Tämän lain nojalla määrättävää vahingonkorvausta voidaan kohtuuden mukaan sovitella, jos vahingon kärsineen puolelta on myötävaikutettu vahinkoon tai jos muu vahingon aiheuttaneeseen tekoon kuulumaton seikka on myös ollut vahingon syynä. Tavaran lähettäjälle 7 §:n 2 momentissa säädettyä korvausvelvollisuutta voidaan lisäksi sovitella vahingonkorvauslain 2 luvun 1 §:n 2 momentissa säädetyillä perusteilla.",
+      "section_number": "8",
+      "chapter_number": 1,
+      "statute_id": "21/1995"
+    },
+    {
+      "id": "8010d503-79b2-43fb-b727-725ed5ff4789",
+      "node_type": "Section",
+      "publisher": "finlex",
+      "title": "9 § Lain suhde eräisiin muihin säädöksiin",
+      "text": "Korvausvaatimukseen, joka johtuu matkustajan kuolemasta tai loukkaantumisesta taikka käsimatkatavaran katoamisesta tai vahingoittumisesta, sovelletaan raideliikennevastuulakia (113/1999). Vaarallisten aineiden kuljetukseen sovelletaan tämän lain lisäksi vaarallisten aineiden kuljetuksesta annettua lakia (719/1994).",
+      "section_number": "9",
+      "chapter_number": 1,
+      "statute_id": "21/1995"
+    },
+    {
+      "id": "0dc9da30-eafe-47d0-9d07-91df84cea5b4",
+      "node_type": "Section",
+      "publisher": "finlex",
+      "title": "10 § Tavaran ottaminen kuljetettavaksi",
+      "text": "Tavara on otettu kuljetettavaksi, kun se on luovutettu rautatieyritykselle lähettäjän ja rautatieyrityksen sopimalla tavalla. Tavaran lähettäjän tai rautatieyrityksen vaatimuksesta kuljetussopimus on ennen kuljetettavaksi ottamista vahvistettava rautatieyrityksen hyväksymällä rahtikirjalla.",
+      "section_number": "10",
+      "chapter_number": 2,
+      "statute_id": "21/1995"
+    },
+    {
+      "id": "9c57bb7a-20e8-4883-8016-07af74d14a38",
+      "node_type": "Section",
+      "publisher": "finlex",
+      "title": "11 § Oikeus määrätä tavarasta kuljetuksen aikana",
+      "text": "Rautatieyrityksen on lähettäjän määräyksestä keskeytettävä kuljetus tai luovutettava tavara määräpaikassa muulle kuin aikaisemmin ilmoitetulle vastaanottajalle. Lähettäjän oikeus määrätä tavarasta päättyy, kun tavara on luovutettu vastaanottajan hallintaan. Rautatieyritys ja lähettäjä voivat sopia, että oikeus määrätä tavarasta siirtyy lähettäjältä vastaanottajalle tai muulle henkilölle ennen tavaran luovuttamista vastaanottajan hallintaan. Määräyksen antaja on velvollinen korvaamaan rautatieyritykselle määräyksen noudattamisesta aiheutuvat kustannukset ja vahingon. Rautatieyritys ei ole velvollinen noudattamaan määräystä, jos siitä aiheutuisi sille taikka toisen tavaralähetyksen lähettäjälle tai vastaanottajalle vahinkoa. Sama koskee määräystä, joka johtaisi lähetyksen jakamiseen. Jos rautatieyritys ei noudata määräystä, sen on heti ilmoitettava tästä määräyksen antajalle.",
+      "section_number": "11",
+      "chapter_number": 2,
+      "statute_id": "21/1995"
+    },
+    {
+      "id": "05d46bfd-3650-4af7-bdd0-f3255fcc01e9",
+      "node_type": "Section",
+      "publisher": "finlex",
+      "title": "12 § Tavaran luovutus",
+      "text": "Rautatieyrityksen on luovutettava tavara vastaanottajalle määräpaikassa kuittausta ja kuljetussopimukseen perustuvien rautatieyrityksen saatavien suoritusta vastaan, jollei toisin ole sovittu. Vastaanottajalla on oikeus kieltäytyä ottamasta tavaraa vastaan, jos rautatieyritys ei suorita vastaanottajan vaatimaa tarkastusta tavaralle aiheutuneen vahingon toteamiseksi.",
+      "section_number": "12",
+      "chapter_number": 2,
+      "statute_id": "21/1995"
+    },
+    {
+      "id": "55cbd968-27d9-45ef-a330-94b2ff9e3669",
+      "node_type": "Section",
+      "publisher": "finlex",
+      "title": "13 § Vastuu tavarasta",
+      "text": "Rautatieyritys on tavaran kuljetettavaksi ottamisesta sen luovutukseen asti vastuussa vahingosta, joka on aiheutunut luovutuksen viivästymisestä taikka siitä, että tavara on kokonaan tai osittain kadonnut tai vahingoittunut. Rautatieyritys vapautuu 1 momentissa säädetystä vastuusta, jos se näyttää vahingon aiheutuneen:",
+      "section_number": "13",
+      "chapter_number": 2,
+      "statute_id": "21/1995"
+    },
+    {
+      "id": "45d747b0-80ce-4018-854e-e2ace0f8655a",
+      "node_type": "Section",
+      "publisher": "finlex",
+      "title": "14 § Vastuu erityisestä riskistä",
+      "text": "Rautatieyritys vapautuu 13 §:n 1 momentissa säädetystä vastuusta, jos se näyttää tavaran katoamisen tai vahingoittumisen voineen johtua 2 momentissa tarkoitetusta erityisestä riskistä, eikä muuta näytetä. Tavaran kuljetuksessa erityisiä riskejä ovat: Jos avovaunussa kuljetetusta tavarasta on kadonnut poikkeuksellisen paljon tai avovaunussa kuljetettu kolli on kadonnut, rautatieyrityksen on kuitenkin näytettävä, että vahinko on johtunut 2 momentin 4 kohdassa säädetystä erityisestä riskistä vapautuakseen vastuusta kyseisen säännöksen nojalla.",
+      "section_number": "14",
+      "chapter_number": 2,
+      "statute_id": "21/1995"
+    },
+    {
+      "id": "fff12354-ba20-44b6-9e0b-251b7b8ef852",
+      "node_type": "Section",
+      "publisher": "finlex",
+      "title": "15 § Tavaran katoaminen",
+      "text": "Tavara katsotaan kadonneeksi, jos sitä ei ole luovutettu 14 päivän kuluessa sovitun luovutusajan päättymisestä. Jos luovutusajasta ei ole sovittu, tavara katsotaan kadonneeksi 28 päivän kuluttua siitä, kun tavara otettiin kuljetettavaksi. Jos kadonnut tavara myöhemmin löytyy, rautatieyrityksen on ilmoitettava siitä korvauksen saaneelle, jollei tämä ole korvauksen vastaanottaessaan kirjallisesti suostunut siihen, että ilmoitusta ei tehdä. Korvauksen saaneella on oikeus löytyneeseen tavaraan, jos hän: Korvauksen saaneella on oikeus vähentää 3 momentin nojalla rautatieyritykselle palautettavasta korvauksesta hänelle 18 §:n mukaan kuuluva viivästyskorvaus. Jos rautatieyrityksellä ei ole velvollisuutta ilmoittaa tavaran löytymisestä tai jos korvauksen saanut ei ole vaatinut tavaran luovuttamista, rautatieyrityksellä on oikeus määrätä tavarasta kolmannen osapuolen oikeudesta johtuvin rajoituksin.",
+      "section_number": "15",
+      "chapter_number": 2,
+      "statute_id": "21/1995"
+    },
+    {
+      "id": "a1dd9ffe-d7f0-4ae1-93f9-fbbfe7b847a7",
+      "node_type": "Section",
+      "publisher": "finlex",
+      "title": "16 § Korvaus tavaran katoamisesta",
+      "text": "Jos tavara on kadonnut, rautatieyrityksen on suoritettava tavaraan oikeutetulle korvauksena tavaran arvo kuljetettavaksi otettaessa, kuitenkin enintään 25 euroa kilolta puuttuvasta kokonaispainosta. Rautatieyrityksen on 1 momentissa säädetyn korvauksen lisäksi palautettava suoritetut kuljetusmaksut ja korvattava muut tavaran kuljetuksesta aiheutuneet kustannukset. Jos vain osa tavarasta on kadonnut, rautatieyrityksen on suoritettava 1 ja 2 momentissa tarkoitetuista korvauksista kadonnutta määrää vastaava osuus.",
+      "section_number": "16",
+      "chapter_number": 2,
+      "statute_id": "21/1995"
+    },
+    {
+      "id": "653bee70-17fc-423f-b254-3e990e6ccf1e",
+      "node_type": "Section",
+      "publisher": "finlex",
+      "title": "17 § Korvaus tavaran vahingoittumisesta",
+      "text": "Jos tavara on vahingoittunut, rautatieyrityksen on suoritettava tavaraan oikeutetulle tavaran arvon alentumista vastaava korvaus, kuitenkin enintään 16 §:n 1 momentissa säädetty määrä, sekä 16 §:n 2 momentissa tarkoitetuista kustannuksista tavaran arvon alentumista vastaava osuus.",
+      "section_number": "17",
+      "chapter_number": 2,
+      "statute_id": "21/1995"
+    },
+    {
+      "id": "45f9ce44-4c37-4d18-81a2-362961a7844f",
+      "node_type": "Section",
+      "publisher": "finlex",
+      "title": "18 § Korvaus tavaran luovutuksen viivästymisestä",
+      "text": "Jos tavaran luovutus on viivästynyt, rautatieyrityksen on korvattava luovutuksen viivästymisestä tavaraan oikeutetulle aiheutunut vahinko, kuitenkin enintään kuljetusmaksu nelinkertaisena. Jos tavara on kadonnut, korvaus suoritetaan ainoastaan tavaran katoamisesta 16 §:n nojalla. Jos viivästyneenä luovutettu tavara on vahingoittunut tai osittain kadonnut, rautatieyrityksen on suoritettava korvaus sekä tavaran vahingoittumisesta tai osittaisesta katoamisesta että tavaran luovutuksen viivästymisestä, kuitenkin enintään 16 §:n nojalla määräytyvä korvaus.",
+      "section_number": "18",
+      "chapter_number": 2,
+      "statute_id": "21/1995"
+    },
+    {
+      "id": "e8f106b9-e0c7-4b7f-b207-17bee9e44ad6",
+      "node_type": "Section",
+      "publisher": "finlex",
+      "title": "19 § Kuljetusvelvollisuus",
+      "text": "Henkilöliikennettä harjoittava rautatieyritys on velvollinen kuljettamaan matkustajia käsimatkatavaroineen. Kuljetusvelvollisuutta ei kuitenkaan ole, jos:",
+      "section_number": "19",
+      "chapter_number": 3,
+      "statute_id": "21/1995"
+    },
+    {
+      "id": "dacf46be-6dd7-4a88-9c2e-a02edd4af5a8",
+      "node_type": "Section",
+      "publisher": "finlex",
+      "title": "20 § Käsimatkatavara",
+      "text": "Matkustaja saa ottaa maksutta mukaansa junaan kohtuullisen määrän käsimatkatavaraa. Käsimatkatavarana kuljetettavasta elävästä eläimestä rautatieyritys voi kuitenkin periä maksun.",
+      "section_number": "20",
+      "chapter_number": 3,
+      "statute_id": "21/1995"
+    },
+    {
+      "id": "4c0e78ea-984d-49ee-9bf5-843d0793f146",
+      "node_type": "Section",
+      "publisher": "finlex",
+      "title": "21 § Junavuoron viivästys",
+      "text": "Rautatieyritys on velvollinen korvaamaan matkustajalle junavuoron viivästyksestä aiheutuneen vahingon, kuitenkin enintään 5 000 euroa matkustajaa kohden. Korvausvelvollisuutta ei kuitenkaan ole sellaisen viivästyksen johdosta, johon matkustajan voidaan kuljetuksen luonteen, sääolosuhteiden, kuljetusvälineen vaihtoon tarvittavan ajan tai muiden kuljetukseen liittyvien olosuhteiden vuoksi kohtuudella edellyttää varautuneen. Mitä 1 momentissa säädetään, sovelletaan vastaavasti, jos junavuoro peruutetaan tai se ei pysähdy aikataulussa ilmoitetulla liikennepaikalla. Rautatieyritys vapautuu 1 ja 2 momentissa säädetystä korvausvelvollisuudesta, jos se näyttää ryhtyneensä kaikkiin kohtuudella vaadittaviin toimenpiteisiin vahingon välttämiseksi.",
+      "section_number": "21",
+      "chapter_number": 3,
+      "statute_id": "21/1995"
+    },
+    {
+      "id": "617a524f-d414-4971-aa12-2028a212ba89",
+      "node_type": "Section",
+      "publisher": "finlex",
+      "title": "22 § Matkatavara",
+      "text": "Matkatavaralla tarkoitetaan tavaraa, jonka rautatieyritys on ottanut kuljetettavaksi matkustajan kuljetuksen yhteydessä erillistä todistusta (matkatavaratodistus) vastaan.",
+      "section_number": "22",
+      "chapter_number": 4,
+      "statute_id": "21/1995"
+    },
+    {
+      "id": "16c67d34-1eea-4bb9-8027-465620e77395",
+      "node_type": "Section",
+      "publisher": "finlex",
+      "title": "23 § Matkatavaran luovutus",
+      "text": "Rautatieyrityksen on luovutettava matkatavara matkatavaratodistusta ja kuljetussopimukseen perustuvien rautatieyrityksen saatavien suorittamista vastaan, jollei toisin ole sovittu. Rautatieyritys ei saa luovuttaa matkatavaraa, jos on perusteltua syytä epäillä, että matkatavaratodistuksen esittäjä ei ole oikeutettu saamaan matkatavaraa haltuunsa. Matkatavaratodistuksen haltijalla, joka ei ole saanut matkatavaraansa, on oikeus saada todistukseen merkintä matkatavaran tiedustelemisen ajankohdasta. Jollei matkatavaratodistusta esitetä, rautatieyritys on velvollinen luovuttamaan matkatavaran vain sille, joka todistaa oikeutensa siihen. Jos oikeutta ei katsota riittävästi selvitetyksi, matkatavaraa noutava on rautatieyrityksen vaatimuksesta velvollinen asettamaan vakuuden.",
+      "section_number": "23",
+      "chapter_number": 4,
+      "statute_id": "21/1995"
+    },
+    {
+      "id": "0167cf19-6f3f-4af1-9187-1778d4e0f2a2",
+      "node_type": "Section",
+      "publisher": "finlex",
+      "title": "24 § Vastuu matkatavarasta",
+      "text": "Rautatieyrityksen vastuuseen matkatavarasta sovelletaan, mitä 13 §:ssä sekä 14 §:n 1 momentissa ja 2 momentin 1 ja 2 kohdassa säädetään rautatieyrityksen vastuusta tavarasta.",
+      "section_number": "24",
+      "chapter_number": 4,
+      "statute_id": "21/1995"
+    },
+    {
+      "id": "c99e008b-fee7-45e8-ae04-6d0caf059fe9",
+      "node_type": "Section",
+      "publisher": "finlex",
+      "title": "25 § Matkatavaran katoaminen",
+      "text": "Matkatavara katsotaan kadonneeksi, jos sitä ei ole luovutettu seitsemän päivän kuluessa sen tiedustelemisesta. Jos matkatavara myöhemmin löytyy, sovelletaan vastaavasti, mitä tavarasta säädetään 15 §:n 2―5 momentissa.",
+      "section_number": "25",
+      "chapter_number": 4,
+      "statute_id": "21/1995"
+    },
+    {
+      "id": "0af15b57-f753-46dd-82ee-befe4df7ae5b",
+      "node_type": "Section",
+      "publisher": "finlex",
+      "title": "26 § Korvaus matkatavaran katoamisesta",
+      "text": "Jos matkatavara on kadonnut kokonaan tai osittain, rautatieyrityksen on suoritettava matkatavaraan oikeutetulle: Jos vain osa kollista on kadonnut eikä vahingon määrää ole osoitettu, rautatieyrityksen on suoritettava 1 momentin 2 ja 3 kohdassa tarkoitetuista korvauksista kadonnutta määrää vastaava osuus. Liikennevakuutuslain (279/1959) 3 §:ssä tarkoitetun moottoriajoneuvon tai vesikulkuneuvon katoamisesta on suoritettava korvauksena sen käypä arvo, kuitenkin enintään 10 000 euroa. Ajo- tai kulkuneuvoon tai sen katolle kuljetuksen ajaksi jätetyn tavaran katoamisesta on suoritettava korvauksena tavaran käypä arvo, kuitenkin enintään 1 700 euroa.",
+      "section_number": "26",
+      "chapter_number": 4,
+      "statute_id": "21/1995"
+    },
+    {
+      "id": "d3b87756-fbf2-4833-afac-f8794298c6b3",
+      "node_type": "Section",
+      "publisher": "finlex",
+      "title": "27 § Korvaus matkatavaran vahingoittumisesta",
+      "text": "Jos matkatavara on vahingoittunut, rautatieyrityksen on suoritettava matkatavaraan oikeutetulle matkatavaran arvon alentumista vastaava korvaus, kuitenkin enintään 26 §:n 1 momentin 1 kohdassa tai 3 momentissa säädetty enimmäiskorvaus.",
+      "section_number": "27",
+      "chapter_number": 4,
+      "statute_id": "21/1995"
+    },
+    {
+      "id": "72a0761b-2e62-4688-aa6b-8c35b4a191cd",
+      "node_type": "Section",
+      "publisher": "finlex",
+      "title": "28 § Korvaus matkatavaran luovutuksen viivästymisestä",
+      "text": "Jos matkatavaran luovutus on viivästynyt, rautatieyrityksen on suoritettava matkatavaraan oikeutetulle: Jos matkatavara on kadonnut, korvaus suoritetaan ainoastaan matkatavaran katoamisesta 26 §:n nojalla. Jos viivästyneenä luovutettu matkatavara on vahingoittunut, rautatieyrityksen on suoritettava matkatavaraan oikeutetulle korvaus sekä matkatavaran vahingoittumisesta että sen viivästymisestä, kuitenkin enintään 26 §:n nojalla määräytyvä korvaus.",
+      "section_number": "28",
+      "chapter_number": 4,
+      "statute_id": "21/1995"
+    },
+    {
+      "id": "c4660bf1-648a-4248-924d-1bd314e78909",
+      "node_type": "Section",
+      "publisher": "finlex",
+      "title": "29 § Tarkastusoikeus",
+      "text": "Kuljetettavaksi otettu käsimatkatavara, tavara tai matkatavara saadaan tarkastaa, jos on perusteltua syytä epäillä, että se aiheuttaa vaaraa ihmisen terveydelle, ympäristölle tai omaisuudelle. Tarkastuksen saa suorittaa siihen lain nojalla oikeutettu virkamies tai henkilö, jolle on annettu poliisilain (493/1995) 8 §:n nojalla erityiset poliisivaltuudet tarkastusten tekemiseen. Tarkastus on suoritettava todistajan läsnäollessa ja siitä on laadittava pöytäkirja, joka tarkastuksen suorittajan ja todistajan on allekirjoitettava. Jäljennös pöytäkirjasta on viipymättä toimitettava sille, joka on oikeutettu tarkastettuun käsimatkatavaraan, matkatavaraan tai tavaraan.",
+      "section_number": "29",
+      "chapter_number": 5,
+      "statute_id": "21/1995"
+    },
+    {
+      "id": "858793e3-0f17-417f-9296-fe11934de3dd",
+      "node_type": "Section",
+      "publisher": "finlex",
+      "title": "30 § Toimenpiteet vaaran torjumiseksi",
+      "text": "Jos käsimatkatavara, tavara tai matkatavara aiheuttaa vaaraa ihmisen terveydelle, ympäristölle tai omaisuudelle, 29 §:n 2 momentin nojalla tarkastukseen oikeutettu henkilö saa poistaa sen junasta taikka, jos vahinkoa ei voida estää tai rajoittaa lievemmin toimenpitein, tehdä sen vaarattomaksi tai hävittää sen. Jos junasta poistettua vaarallista käsimatkatavaraa, tavaraa tai matkatavaraa ei luovuteta siihen oikeutetulle, rautatieyrityksen on viipymättä ilmoitettava vaarallisen tavaran laadusta ja sijainnista vaarallisten aineiden kuljetuksesta annetussa laissa tarkoitetulle valvontaviranomaiselle ja ryhdyttävä tarpeellisiin toimenpiteisiin vahingon estämiseksi. Jos matkustaja ei kehotuksesta luovuta 29 §:n 1 momentissa tarkoitettua käsimatkatavaraa tarkastettavaksi, rautatieyrityksellä on oikeus poistaa matkustaja junasta.",
+      "section_number": "30",
+      "chapter_number": 5,
+      "statute_id": "21/1995"
+    },
+    {
+      "id": "45a2ac50-ce5e-42eb-9da7-5da2edcecd72",
+      "node_type": "Section",
+      "publisher": "finlex",
+      "title": "31 § Oikeus myydä hakematta jätetty tavara",
+      "text": "Rautatieyrityksellä on oikeus myydä hakematta jätetty tavara tai matkatavara siten kuin elinkeinonharjoittajan oikeudesta myydä noutamatta jätetty esine annetussa laissa (688/1988) säädetään.",
+      "section_number": "31",
+      "chapter_number": 5,
+      "statute_id": "21/1995"
+    },
+    {
+      "id": "9f3793a4-dea4-43be-8a9a-130efc9705dd",
+      "node_type": "Section",
+      "publisher": "finlex",
+      "title": "32 § Vastuu perättäiskuljetuksessa",
+      "text": "Jos kaksi tai useampi rautatieyritys on suorittanut osan rautatiekuljetuksesta, josta on sovittu yhdellä kuljetussopimuksella, ne vastaavat yhteisvastuullisesti kuljetukseen liittyvästä tämän lain nojalla korvattavasta vahingosta. Korvauksen suorittaneella rautatieyrityk-sellä on oikeus saada suorittamansa määrä vahingon aiheuttaneelta rautatieyritykseltä. Jos vahingon on aiheuttanut kaksi tai useampi rautatieyritys, niiden keskinäiseen korvausvelvollisuuteen sovelletaan, mitä vahingonkorvauslain 6 luvun 3 §:ssä säädetään. Jos vahingon aiheuttanutta rautatieyritystä ei saada selville, korvausvelvollisuus jaetaan yhteisvastuussa olevien rautatieyritysten kesken kunkin suorittaman kuljetusosuuden pituuden mukaisessa suhteessa. Rautatieyritys, joka voi osoittaa, ettei se ole aiheuttanut vahinkoa, ei kuitenkaan ole velvollinen suorittamaan korvausta tämän momentin nojalla. Jos rautatieyritykseltä ei saada perityksi 2 momentissa säädettyä määrää tai 3 momentissa säädettyä osuutta korvauksesta, muut yhteisvastuussa olevat rautatieyritykset vastaavat vajauksesta niin kuin 3 momentissa säädetään. Sama koskee korvausta, jota rautatieyritys ei ole 3 momentin nojalla velvollinen suorittamaan.",
+      "section_number": "32",
+      "chapter_number": 5,
+      "statute_id": "21/1995"
+    },
+    {
+      "id": "cddf73c8-1584-4a53-801c-098a7b6b0745",
+      "node_type": "Section",
+      "publisher": "finlex",
+      "title": "33 § Muistutus",
+      "text": "Rautatieyritykselle on kanneoikeuden menettämisen uhalla tehtävä muistutus tavaran tai matkatavaran vahingoittumisesta tai osittaisesta katoamisesta tavaraa tai matkatavaraa vastaanotettaessa, jos vahingoittuminen tai osittainen katoaminen on tuolloin ulkoisesti havaittavissa. Muussa tapauksessa muistutus on tehtävä kymmenen päivän kuluessa tavaran tai matkatavaran vastaanottamisesta. Kuluttajalla on kuitenkin aina oikeus tehdä muistutus kohtuullisen ajan kuluessa tavaran tai matkatavaran vastaanottamisesta. Kanneoikeus ei kuitenkaan ole 1 momentin nojalla menetetty, jos rautatieyritys tai se, jonka menettelystä rautatieyritys vastaa, on aiheuttanut tavaran tai matkatavaran vahingoittumisen tai osittaisen katoamisen tahallisesti tai törkeästä huolimattomuudesta.",
+      "section_number": "33",
+      "chapter_number": 5,
+      "statute_id": "21/1995"
+    },
+    {
+      "id": "d6a5766d-8e98-4345-a4d9-5cd2f861b0ce",
+      "node_type": "Section",
+      "publisher": "finlex",
+      "title": "34 § Määräajan laskeminen",
+      "text": "Edellä 15, 25 ja 33 §:ssä säädettyä määräaikaa laskettaessa ei oteta lukuun päivää, josta lukien määräaika lasketaan. Jos 15 §:n 3 momentin 1 kohdassa tai 33 §:n 1 momentissa säädetyn määräajan viimeinen päivä on pyhäpäivä, itsenäisyyspäivä, vapunpäivä, joulu- tai juhannusaatto taikka arkilauantai, säännöksessä tarkoitetun vaatimuksen tai muistutuksen saa tehdä ensimmäisenä arkipäivänä sen jälkeen.",
+      "section_number": "34",
+      "chapter_number": 5,
+      "statute_id": "21/1995"
+    },
+    {
+      "id": "db19b271-9de3-49b0-80d6-c96920a89507",
+      "node_type": "Section",
+      "publisher": "finlex",
+      "title": "35 § Vanhentumisaika",
+      "text": "Oikeus korvaukseen tämän lain nojalla on menetetty, jollei vaatimusta esitetä kirjallisesti rautatieyritykselle vuoden kuluessa tai, jos vahinko on aiheutettu tahallisesti tai törkeästä huolimattomuudesta, kolmen vuoden kuluessa:",
+      "section_number": "35",
+      "chapter_number": 5,
+      "statute_id": "21/1995"
+    },
+    {
+      "id": "1ce83f07-0333-4c10-a61a-9b7f32f2a083",
+      "node_type": "Section",
+      "publisher": "finlex",
+      "title": "36 § Toimivaltainen tuomioistuin",
+      "text": "Tässä laissa tarkoitettua kuljetusta koskeva kanne voidaan sen lisäksi, mitä muualla laissa säädetään, tutkia määräpaikan käräjäoikeudessa taikka sen paikkakunnan käräjäoikeudessa, missä tavara tai matkatavara otettiin kuljetettavaksi.",
+      "section_number": "36",
+      "chapter_number": 5,
+      "statute_id": "21/1995"
+    },
+    {
+      "id": "09011b88-57b6-4ae5-8af6-fa1175434e46",
+      "node_type": "Section",
+      "publisher": "finlex",
+      "title": "37 § Vastuun enimmäismäärien tarkistaminen",
+      "text": "Tähän lakiin perustuvia rautatieyrityksen vastuun enimmäismääriä voidaan tarkistaa valtioneuvoston asetuksella rahanarvon muutosta vastaavasti.",
+      "section_number": "37",
+      "chapter_number": 5,
+      "statute_id": "21/1995"
+    },
+    {
+      "id": "afc7ab99-818b-4105-8da5-8b2398416455",
+      "node_type": "Section",
+      "publisher": "finlex",
+      "title": "38 § Voimaantulo- ja siirtymäsäännökset",
+      "text": "Tämä laki tulee voimaan 1 päivänä kesäkuuta 2001. Tällä lailla kumotaan 5 päivänä syyskuuta 1975 annettu rautatiekuljetusasetus (714/ 1975) siihen myöhemmin tehtyine muutoksineen. Tätä lakia ei sovelleta ennen tämän lain voimaantuloa tehtyyn sopimukseen.",
+      "section_number": "38",
+      "chapter_number": 6,
+      "statute_id": "21/1995"
+    }
+  ],
+  "clauses": [
+    {
+      "id": "98ea9d35-36a3-49f9-9008-b9acfc70484b",
+      "node_type": "Clause",
+      "publisher": "finlex",
+      "title": "§ 13 mom 1",
+      "text": "1) lähettäjän tai vastaanottajan virheestä tai laiminlyönnistä;",
+      "clause_number": 1,
+      "section_number": "13",
+      "statute_id": "21/1995"
+    },
+    {
+      "id": "9a108a0d-b1af-4b59-9431-23a32c98320c",
+      "node_type": "Clause",
+      "publisher": "finlex",
+      "title": "§ 13 mom 2",
+      "text": "2) lähettäjän tai vastaanottajan antamasta määräyksestä, joka ei johdu rautatieyrityksen virheestä tai laiminlyönnistä;",
+      "clause_number": 2,
+      "section_number": "13",
+      "statute_id": "21/1995"
+    },
+    {
+      "id": "c1601f8c-29f9-48e9-b9e5-db9b506fa7dc",
+      "node_type": "Clause",
+      "publisher": "finlex",
+      "title": "§ 13 mom 3",
+      "text": "3) tavarassa olevasta viasta; taikka",
+      "clause_number": 3,
+      "section_number": "13",
+      "statute_id": "21/1995"
+    },
+    {
+      "id": "bf00752b-d683-4faa-b96b-e3fc4c1826c6",
+      "node_type": "Clause",
+      "publisher": "finlex",
+      "title": "§ 13 mom 4",
+      "text": "4) seikasta, jota rautatieyritys ei ole voinut välttää ja jonka seurauksia se ei ole voinut ehkäistä.",
+      "clause_number": 4,
+      "section_number": "13",
+      "statute_id": "21/1995"
+    },
+    {
+      "id": "e2d4a7b6-3a2f-42a8-a8ae-e1e7dd781df1",
+      "node_type": "Clause",
+      "publisher": "finlex",
+      "title": "§ 14 mom 1",
+      "text": "1) tavaran erityinen alttius katoamiselle tai vahingoittumiselle;",
+      "clause_number": 1,
+      "section_number": "14",
+      "statute_id": "21/1995"
+    },
+    {
+      "id": "f1b433b2-8272-4625-a7c7-c5383c5e2dba",
+      "node_type": "Clause",
+      "publisher": "finlex",
+      "title": "§ 14 mom 2",
+      "text": "2) katoamiselle tai vahingoittumiselle alttiin tavaran puutteellinen pakkaaminen;",
+      "clause_number": 2,
+      "section_number": "14",
+      "statute_id": "21/1995"
+    },
+    {
+      "id": "6b954c45-75b6-4f55-8e30-b8664d6f0561",
+      "node_type": "Clause",
+      "publisher": "finlex",
+      "title": "§ 14 mom 3",
+      "text": "3) tavaran kuormaaminen lähettäjän toimesta tai sen purkaminen vastaanottajan toimesta;",
+      "clause_number": 3,
+      "section_number": "14",
+      "statute_id": "21/1995"
+    },
+    {
+      "id": "7ac8601f-198c-45ab-b6b6-9742a0ac24e5",
+      "node_type": "Clause",
+      "publisher": "finlex",
+      "title": "§ 14 mom 4",
+      "text": "4) kuljetus avovaunussa lähettäjän kanssa tehdyn sopimuksen mukaisesti; sekä",
+      "clause_number": 4,
+      "section_number": "14",
+      "statute_id": "21/1995"
+    },
+    {
+      "id": "dfca7046-4a61-489b-b291-057a4d694a5a",
+      "node_type": "Clause",
+      "publisher": "finlex",
+      "title": "§ 14 mom 5",
+      "text": "5) riski, jolta sopimuksen mukaan kuljetuksessa mukana olevan saattajan pitää tavaraa suojella.",
+      "clause_number": 5,
+      "section_number": "14",
+      "statute_id": "21/1995"
+    },
+    {
+      "id": "640905f4-e4fe-4536-97d4-65aaba9c55d0",
+      "node_type": "Clause",
+      "publisher": "finlex",
+      "title": "§ 15 mom 1",
+      "text": "1) vaatii sen luovuttamista 30 päivän kuluessa ilmoituksen lähettämisestä;",
+      "clause_number": 1,
+      "section_number": "15",
+      "statute_id": "21/1995"
+    },
+    {
+      "id": "bb2875f3-5e32-43d5-93e4-5b5f05ff1e5b",
+      "node_type": "Clause",
+      "publisher": "finlex",
+      "title": "§ 15 mom 2",
+      "text": "2) palauttaa saamansa korvauksen; ja",
+      "clause_number": 2,
+      "section_number": "15",
+      "statute_id": "21/1995"
+    },
+    {
+      "id": "bb263492-3437-4ab7-9243-5629de188425",
+      "node_type": "Clause",
+      "publisher": "finlex",
+      "title": "§ 15 mom 3",
+      "text": "3) suorittaa rautatieyritykselle sille kuljetussopimuksen perusteella kuuluvat saatavat.",
+      "clause_number": 3,
+      "section_number": "15",
+      "statute_id": "21/1995"
+    },
+    {
+      "id": "c329ce00-b932-40d8-89f2-d8de57130302",
+      "node_type": "Clause",
+      "publisher": "finlex",
+      "title": "§ 19 mom 1",
+      "text": "1) kuljetuksen estää sellainen seikka, jota rautatieyritys ei voi välttää ja jota se ei ole velvollinen poistamaan;",
+      "clause_number": 1,
+      "section_number": "19",
+      "statute_id": "21/1995"
+    },
+    {
+      "id": "04b468fe-7139-4a79-a53f-08f21e268f44",
+      "node_type": "Clause",
+      "publisher": "finlex",
+      "title": "§ 19 mom 2",
+      "text": "2) sopivaa kuljetustilaa ei ole; tai",
+      "clause_number": 2,
+      "section_number": "19",
+      "statute_id": "21/1995"
+    },
+    {
+      "id": "0a4b8684-d3da-4fe8-8ae6-2ccc3fe49cd1",
+      "node_type": "Clause",
+      "publisher": "finlex",
+      "title": "§ 19 mom 3",
+      "text": "3) rautatieyrityksellä on muun lain perusteella oikeus kieltäytyä kuljetuksesta.",
+      "clause_number": 3,
+      "section_number": "19",
+      "statute_id": "21/1995"
+    },
+    {
+      "id": "30f5a16c-a8f9-4bbf-8364-0cc2ebe883db",
+      "node_type": "Clause",
+      "publisher": "finlex",
+      "title": "§ 26 mom 1",
+      "text": "1) vahingon määrää vastaava korvaus, kuitenkin enintään 1 700 euroa kollilta; tai",
+      "clause_number": 1,
+      "section_number": "26",
+      "statute_id": "21/1995"
+    },
+    {
+      "id": "91455500-b842-4d54-94bb-e16b2cb256d1",
+      "node_type": "Clause",
+      "publisher": "finlex",
+      "title": "§ 26 mom 2",
+      "text": "2) jos vahingon määrää ei ole osoitettu, korvauksena 170 euroa kollilta; sekä",
+      "clause_number": 2,
+      "section_number": "26",
+      "statute_id": "21/1995"
+    },
+    {
+      "id": "1fc81afd-5bff-495b-be16-f5b8cd056360",
+      "node_type": "Clause",
+      "publisher": "finlex",
+      "title": "§ 26 mom 3",
+      "text": "3) suoritetut kuljetusmaksut ja muut kadonneen matkatavaran kuljetuksesta aiheutuneet kustannukset.",
+      "clause_number": 3,
+      "section_number": "26",
+      "statute_id": "21/1995"
+    },
+    {
+      "id": "d76ddbb1-4a5d-4e69-8846-917a81c0ba82",
+      "node_type": "Clause",
+      "publisher": "finlex",
+      "title": "§ 28 mom 1",
+      "text": "1) korvaus vahingosta, joka on aiheutunut luovutuksen viivästymisestä, kuitenkin enintään 170 euroa kollilta; tai",
+      "clause_number": 1,
+      "section_number": "28",
+      "statute_id": "21/1995"
+    },
+    {
+      "id": "fae5bdf9-536e-4359-ae12-b6d97da0ab89",
+      "node_type": "Clause",
+      "publisher": "finlex",
+      "title": "§ 28 mom 2",
+      "text": "2) jos vahinkoa ei ole osoitettu, korvauksena 17 euroa kollilta matkatavaran tiedustelemisesta lukien kultakin alkavalta 24 tunnin ajanjaksolta, enintään kuitenkin 136 euroa kollilta.",
+      "clause_number": 2,
+      "section_number": "28",
+      "statute_id": "21/1995"
+    },
+    {
+      "id": "84ffcb6a-3a2c-4a5b-8d41-d577521f23ed",
+      "node_type": "Clause",
+      "publisher": "finlex",
+      "title": "§ 35 mom 1",
+      "text": "1) tavaran tai matkatavaran luovutuksesta, jos oikeus perustuu tavaran tai matkatavaran vahingoittumiseen tai osittaiseen katoamiseen taikka sen luovutuksen viivästymiseen;",
+      "clause_number": 1,
+      "section_number": "35",
+      "statute_id": "21/1995"
+    },
+    {
+      "id": "d0fe4531-c7ea-43d0-a66f-47fe4954eefa",
+      "node_type": "Clause",
+      "publisher": "finlex",
+      "title": "§ 35 mom 2",
+      "text": "2) siitä, kun tavara on katsottu 15 §:n tai matkatavara 25 §:n mukaan kadonneeksi, jos oikeus perustuu koko tavaran tai matkatavaran katoamiseen; tai",
+      "clause_number": 2,
+      "section_number": "35",
+      "statute_id": "21/1995"
+    },
+    {
+      "id": "02ba81e3-39de-4980-9218-1db75fbd0abf",
+      "node_type": "Clause",
+      "publisher": "finlex",
+      "title": "§ 35 mom 3",
+      "text": "3) siitä, kun kolme kuukautta on kulunut kuljetettavaksi ottamisesta tai kuljetusvelvollisuuden laiminlyömisestä, jos oikeus perustuu muuhun kuin 1 tai 2 kohdassa mainittuun seikkaan.",
+      "clause_number": 3,
+      "section_number": "35",
+      "statute_id": "21/1995"
+    }
+  ],
+  "cross_references": [],
+  "raw_html_path": "C:\\Users\\danit\\finance-hack\\aalto-hackaton-2026\\data\\raw\\finlex\\Laki (säädöskokoelma)\\Rautatiekuljetuslaki.html"
+}

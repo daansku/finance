@@ -1,0 +1,338 @@
+{
+  "statute": {
+    "id": "433b85f5-9848-4100-8b09-a844f3e2a5db",
+    "node_type": "Statute",
+    "publisher": "finlex",
+    "title": "Valtioneuvoston asetus asbestityön turvallisuudesta annetun valtioneuvoston asetuksen muuttamisesta",
+    "text": "Valtioneuvoston asetus asbestityön turvallisuudesta annetun valtioneuvoston asetuksen muuttamisesta",
+    "statute_id": "798/2015",
+    "finlex_url": "https://finlex.fi/fi/laki/ajantasa/798/2015"
+  },
+  "chapters": [],
+  "sections": [
+    {
+      "id": "1f336634-0b6a-4fa0-843b-ea2efaaaadff",
+      "node_type": "Section",
+      "publisher": "finlex",
+      "title": "1 § Soveltamisala",
+      "text": "Asbestipurkutyön luvanvaraisuudesta sekä työntekijän terveystarkastuksista säädetään erikseen.",
+      "section_number": "1",
+      "chapter_number": 1,
+      "statute_id": "798/2015"
+    },
+    {
+      "id": "7bdfb8a7-f303-4031-a8a4-58dbc6530973",
+      "node_type": "Section",
+      "publisher": "finlex",
+      "title": "3 § Altistumisen selvittäminen ja rajoittaminen",
+      "text": "Työnantajan velvollisuudesta selvittää ja arvioida työntekijän asbestipölylle altistumisen vaara säädetään työturvallisuuslain (738/2002) 10 §:n 1 momentissa. Työnantajan on huolehdittava siitä, että työntekijän työstä johtuva altistuminen asbestille on mahdollisimman vähäistä ja altistuvien tai todennäköisesti altistuvien työntekijöiden lukumäärä on mahdollisimman pieni. Asbestityö on tehtävä ensisijaisesti siten, ettei siitä synny asbestipölyä. Jos tämä ei ole työn luonteen vuoksi mahdollista, työ on tehtävä siten, että asbestipölyä pääsee ilmaan mahdollisimman vähän. Pölyn syntymisen estämiseksi ja vähentämiseksi on käytettävä pölynsidontaa, kohdepoistoa tai jatkuvaa sedimentointia taikka muita soveltuvia keinoja. Jos on perusteltu syy epäillä, että asbestipölyä voi vapautua hengitysilmaan työssä, jossa ei ole tunnistettu asbestia ennen työn aloittamista, työ vaikutusalueella on keskeytettävä. Työtä saa jatkaa vasta, kun työnantaja on selvittänyt altistumisen vaaran ja ryhtynyt tarvittaessa toimenpiteisiin työntekijöiden suojelemiseksi. Työnantajan on riskinarvioinnin perusteella ja työn eri vaiheet huomioon ottaen määritettävä työpaikan ilmasta tehtävien mittausten säännöllisyyden tarve sekä varmistettava tarvittavin toimenpitein, että työntekijän hengitysilman asbestipitoisuus ei ylitä 0,01 kuitua kuutiosenttimetrissä kahdeksan tunnin aikapainotettuna keskiarvona. Mittaukset on toteutettava siten, että ne edustavat työntekijöiden henkilökohtaista altistumista asbestipölylle. Mittauksen tekijältä edellytetään riittävää ammatillista osaamista tarpeellisten näytteiden ottamiseen ja niiden arviointiin. Mittaukset on dokumentoitava. Asbestille altistumista arvioitaessa otetaan huomioon vain sellaiset kuitumaiset asbestihiukkaset, joiden pituus on vähintään viisi mikrometriä ja läpimitta enintään kolme mikrometriä ja vähintään 0,05 mikrometriä ja joiden pituuden suhde läpimittaan on vähintään 3:1. Ilman asbestikuidut on laskettava elektronimikroskopialla tai muulla teknisen kehityksen mahdollistamalla menetelmällä, jolla saavutetaan vastaava analyysitarkkuus.",
+      "section_number": "3",
+      "chapter_number": 1,
+      "statute_id": "798/2015"
+    },
+    {
+      "id": "c72104c2-2be7-4542-acab-4e1c53598629",
+      "node_type": "Section",
+      "publisher": "finlex",
+      "title": "6 § Erityinen opetus ja ohjaus",
+      "text": "Työnantajan on annettava asbestityötä tekevälle työntekijälle työtehtävät ja työmenetelmät huomioon ottaen riittävästi sekä teoreettista että käytännön opetusta ja ohjausta asbestialtistumista koskevasta lainsäädännöstä ja seuraavista asioista: Opetusta ja ohjausta on täydennettävä tarvittaessa. Opetus ja ohjaus on annettava uudestaan vähintään kolmen vuoden välein. Opetuksen ja ohjauksen antajalla on oltava soveltuva koulutus ja riittävä perehtyneisyys 1 momentissa tarkoitettuihin työturvallisuus- ja työterveysasioihin. Työnantajan on huolehdittava siitä, että työntekijä saa tai on saanut opetuksesta ja ohjauksesta kirjallisen ja päivätyn todistuksen, josta käyvät ilmi: Ammattipätevyysvaatimuksena asbestipurkutyöntekijän tehtävään on talonrakennusalan ammattitutkinnon osa Asbestityöt.",
+      "section_number": "6",
+      "chapter_number": 1,
+      "statute_id": "798/2015"
+    },
+    {
+      "id": "34eabd60-2e8c-4746-a421-d2b90a9f110b",
+      "node_type": "Section",
+      "publisher": "finlex",
+      "title": "9 § Ennakkoilmoitus",
+      "text": "Työnantajan ja itsenäisen työnsuorittajan tulee ilmoittaa työkohteessa asbestipurkutyölupaa edellyttävästä asbestipurkutyöstä etukäteen työsuojeluviranomaiselle. Ilmoitus on tehtävä kirjallisesti, jos mahdollista vähintään seitsemän päivää ennen työn aloittamista. Sen lisäksi, mitä työsuojelun valvonnasta ja työpaikan työsuojeluyhteistoiminnasta annetun lain (44/2006) 48 §:n 2 momentissa säädetään, ilmoituksen tulee sisältää tarpeelliset tiedot seuraavista seikoista:",
+      "section_number": "9",
+      "chapter_number": 1,
+      "statute_id": "798/2015"
+    },
+    {
+      "id": "35a1adcf-bc42-444a-8411-eed20516afe1",
+      "node_type": "Section",
+      "publisher": "finlex",
+      "title": "11 § Turvallisen asbestipurkutyön periaatteet",
+      "text": "Asbesti on ensisijaisesti poistettava purettavista rakenteista kokonaan. Jos tämä ei ole mahdollista, asbestia on poistettava tilan turvallisen käytön kannalta riittävästi ja tarkoituksenmukaisesti. Rakenteisiin jätetty asbesti on peitettävä ja tarvittaessa merkittävä asianmukaisesti.",
+      "section_number": "11",
+      "chapter_number": 1,
+      "statute_id": "798/2015"
+    },
+    {
+      "id": "9e263f6f-e489-41e4-912f-f03f3a15c7c3",
+      "node_type": "Section",
+      "publisher": "finlex",
+      "title": "12 § Asbestipurkutyön työmenetelmät",
+      "text": "Murenevia asbestimateriaaleja purettaessa on käytettävä 2 momentin 1 kohdassa tarkoitettua osastointimenetelmää.",
+      "section_number": "12",
+      "chapter_number": 1,
+      "statute_id": "798/2015"
+    },
+    {
+      "id": "0aed61b1-0361-4b53-96ee-05e61b3b9e97",
+      "node_type": "Section",
+      "publisher": "finlex",
+      "title": "13 § Osastointimenetelmää koskevat lisävaatimukset",
+      "text": "Edellä 12 §:n 2 momentin 1 kohdassa tarkoitettua osastointimenetelmää käytettäessä altistumisalue on asbestipölyn leviämisen estämiseksi erotettava ilmastollisesti muusta työympäristöstä vähintään viiden ja murenevia asbestimateriaaleja purettaessa vähintään kymmenen pascalin paine-erolla. Paine-eron pysyvyyttä on seurattava laitteella, joka rekisteröi ja hälyttää haitallisesta paine-eron alittumisesta altistumisalueella.",
+      "section_number": "13",
+      "chapter_number": 1,
+      "statute_id": "798/2015"
+    },
+    {
+      "id": "a5350c6d-8fc9-4689-9388-cec89e5e4362",
+      "node_type": "Section",
+      "publisher": "finlex",
+      "title": "14 § Henkilönsuojainten käyttö ja toimintakunnon varmistaminen",
+      "text": "Työnantajan on varmistettava, että työntekijällä on asbestipurkutyöhön sopivat, vaatimustenmukaiset ja kertakäyttöiset suojavaatteet sekä muut tarvittavat henkilönsuojaimet. Osastoidussa asbestipurkutilassa työntekijän on käytettävä puhallinkäyttöistä kokonaamaria. Murenevia asbestimateriaaleja purettaessa on käytettävä kokonaamaria, jossa hengitysilma tuotetaan paineilmalaitteella. Työntekijän on tarkistettava asbestityössä käytettävän hengityksensuojaimen tiiviys ennen jokaista käyttökertaa. Kaikessa sellaisessa asbestityössä, jossa 3 a §:n 1 momentissa säädetyn raja-arvon noudattaminen edellyttää kasvoille tiivistyvän hengityksensuojaimen käyttämistä, suojaimen kasvoille tiivistyminen on varmistettava sitä käyttöönotettaessa ja käytön olosuhteiden muuttuessa sekä tämän jälkeen vähintään yhden vuoden välein. Tiiviystestaus on tehtävä työntekijän yllä kvantitatiivisella alipaine- tai hiukkaslaskentamenetelmällä tai muulla teknisen kehityksen mahdollistamalla menetelmällä, jolla saavutetaan vastaava luotettava mittaustulos. Testaustulos on dokumentoitava. Työnantajan on määritettävä riittävän tarkasti asbestityössä käytettävän hengityksensuojaimen säännölliset käyttötauot. Tällöin on otettava huomioon työn laatu ja kesto, työskentelypisteen erityispiirteet ja työn kuormittavuus sekä käytetty suojaintyyppi. Työnantajan on varmistettava, että työntekijöiden suojaukseen ja puhdistamiseen sekä asbestipölyn leviämisen estämiseen asbestipurkutyössä käytettävien ilmankäsittelylaitteiden ja suodattimien suodatusteho on riittävä sen varmistamiseksi, ettei puhtaisiin tiloihin pääse asbestipölyä yli 0,01 kuitua kuutiosenttimetrissä ilmaa. Suodatusteho tulee testata hiukkaslaskentaan perustuvalla testausmenetelmällä ennen ilmankäsittelylaitteiden käyttöönottoa, suodatustehoon vaikuttavien muutosten yhteydessä sekä tämän jälkeen vähintään yhden vuoden välein. Ilmankäsittelylaitteiden huoltokirjaan on merkittävä toimintakunnon varmistamiseksi tehdyt huollot ja muut toimenpiteet. Huoltokirjaan on liitettävä suodatustehon testausta koskeva lausunto. Asbestityössä käytettävät työvälineet on pidettävä turvallisina säännöllisellä huollolla ja kunnossapidolla. Ne on puhdistettava käytön jälkeen ennen uudelleen käyttöön ottamista.",
+      "section_number": "14",
+      "chapter_number": 1,
+      "statute_id": "798/2015"
+    },
+    {
+      "id": "e1944610-83ee-4b03-95eb-0c5b3e48e21b",
+      "node_type": "Section",
+      "publisher": "finlex",
+      "title": "15 § Altistumisalueen puhtauden varmistaminen ja jatkokäytön turvallisuus",
+      "text": "Tilojen puhdistuksen jälkeen työnantajan on varmistettava mittaamalla, ettei altistumisalueen ilmassa ole asbestia yli 0,01 kuitua kuutiosenttimetrissä ilmaa. Mittauksen tekemiseen ja kuitujen laskentaan sovelletaan, mitä 3 a §:n 2–4 momentissa säädetään. Tämä asetus tulee voimaan 21 päivänä joulukuuta 2025. Sen 6 a § tulee kuitenkin voimaan vasta 1 päivänä tammikuuta 2026. Tämän asetuksen 3 a §:n 3 momenttia sovelletaan vasta 21 päivästä joulukuuta 2026. Siihen asti sovelletaan tämän asetuksen voimaan tullessa voimassa ollutta 3 §:n 2 momenttia. Tämän asetuksen 3 a §:n 4 momenttia sekä 14 §:n 4 momenttia sovelletaan vasta 21 päivästä joulukuuta 2026. Siihen asti sovelletaan tämän asetuksen voimaan tullessa voimassa ollutta 14 §:n 3 momenttia.",
+      "section_number": "15",
+      "chapter_number": 1,
+      "statute_id": "798/2015"
+    }
+  ],
+  "clauses": [
+    {
+      "id": "9f2c603d-cf97-4f6b-852e-18bf8bb1d93d",
+      "node_type": "Clause",
+      "publisher": "finlex",
+      "title": "§ 6 mom 1",
+      "text": "1) asbestin ominaisuudet ja terveysvaikutukset;",
+      "clause_number": 1,
+      "section_number": "6",
+      "statute_id": "798/2015"
+    },
+    {
+      "id": "8c087675-6d66-4b81-92fd-e93d0abfe190",
+      "node_type": "Clause",
+      "publisher": "finlex",
+      "title": "§ 6 mom 1",
+      "text": "2) 3 a §:n 1 momentissa säädetty asbestille altistumisen raja-arvo, sen alittumisen seuranta ja mittauslaitteiden käyttö;",
+      "clause_number": 1,
+      "section_number": "6",
+      "statute_id": "798/2015"
+    },
+    {
+      "id": "021b2613-328e-4dd6-a41b-9e4ec31b9dd4",
+      "node_type": "Clause",
+      "publisher": "finlex",
+      "title": "§ 6 mom 2",
+      "text": "2) 3 a §:n 1 momentissa säädetty asbestille altistumisen raja-arvo, sen alittumisen seuranta ja mittauslaitteiden käyttö;",
+      "clause_number": 2,
+      "section_number": "6",
+      "statute_id": "798/2015"
+    },
+    {
+      "id": "0419cb98-0bf9-4c4a-b180-efc4ad1e448c",
+      "node_type": "Clause",
+      "publisher": "finlex",
+      "title": "§ 6 mom 3",
+      "text": "3) tuote- ja materiaalityypit, jotka todennäköisesti sisältävät asbestia;",
+      "clause_number": 3,
+      "section_number": "6",
+      "statute_id": "798/2015"
+    },
+    {
+      "id": "e71d402b-6a9a-4ee5-913b-2935bb585fa0",
+      "node_type": "Clause",
+      "publisher": "finlex",
+      "title": "§ 6 mom 4",
+      "text": "4) asbestille altistavat toimet ja ennaltaehkäisevien toimien merkitys altistumisen vähentämiseksi;",
+      "clause_number": 4,
+      "section_number": "6",
+      "statute_id": "798/2015"
+    },
+    {
+      "id": "9ee73bad-86d9-4571-9378-656c509031ae",
+      "node_type": "Clause",
+      "publisher": "finlex",
+      "title": "§ 6 mom 5",
+      "text": "5) turvalliset työtavat, toimet ja suojavälineet;",
+      "clause_number": 5,
+      "section_number": "6",
+      "statute_id": "798/2015"
+    },
+    {
+      "id": "d922607e-2643-47cd-8327-ec9947121b52",
+      "node_type": "Clause",
+      "publisher": "finlex",
+      "title": "§ 6 mom 6",
+      "text": "6) suojavaatetus, sen käyttö ja työntekijän puhdistautuminen;",
+      "clause_number": 6,
+      "section_number": "6",
+      "statute_id": "798/2015"
+    },
+    {
+      "id": "d08ac78f-1081-4ad4-a770-75d77c7a96c6",
+      "node_type": "Clause",
+      "publisher": "finlex",
+      "title": "§ 6 mom 7",
+      "text": "7) hengityksensuojainten valinta, oikea käyttö, puhdistaminen ja toimintakunnon varmistaminen;",
+      "clause_number": 7,
+      "section_number": "6",
+      "statute_id": "798/2015"
+    },
+    {
+      "id": "8d0fad49-750c-4d24-a486-9cda4315ccd9",
+      "node_type": "Clause",
+      "publisher": "finlex",
+      "title": "§ 6 mom 8",
+      "text": "8) koneiden ja muiden teknisten laitteiden käyttö asbestipölyn vapautumisen ja leviämisen estämiseksi;",
+      "clause_number": 8,
+      "section_number": "6",
+      "statute_id": "798/2015"
+    },
+    {
+      "id": "4fa80d5d-18f3-47a4-a603-579a9fb6eec2",
+      "node_type": "Clause",
+      "publisher": "finlex",
+      "title": "§ 6 mom 9",
+      "text": "9) asbestia sisältävien jätteiden käsittely;",
+      "clause_number": 9,
+      "section_number": "6",
+      "statute_id": "798/2015"
+    },
+    {
+      "id": "38502383-a12a-4c5a-adb4-45e49c98c809",
+      "node_type": "Clause",
+      "publisher": "finlex",
+      "title": "§ 6 mom 10",
+      "text": "10) hätämenettelyt;",
+      "clause_number": 10,
+      "section_number": "6",
+      "statute_id": "798/2015"
+    },
+    {
+      "id": "dcd50011-b765-4f65-b84a-8db054704dad",
+      "node_type": "Clause",
+      "publisher": "finlex",
+      "title": "§ 6 mom 11",
+      "text": "11) terveystarkastukset.",
+      "clause_number": 11,
+      "section_number": "6",
+      "statute_id": "798/2015"
+    },
+    {
+      "id": "61a9092b-2a6e-4d78-a144-960c18fac930",
+      "node_type": "Clause",
+      "publisher": "finlex",
+      "title": "§ 6 mom 1",
+      "text": "1) opetuksen ja ohjauksen sisältö, kesto ja kieli, jolla se on annettu;",
+      "clause_number": 1,
+      "section_number": "6",
+      "statute_id": "798/2015"
+    },
+    {
+      "id": "2c901779-b9a9-4675-88c1-d8fbc59446d8",
+      "node_type": "Clause",
+      "publisher": "finlex",
+      "title": "§ 6 mom 2",
+      "text": "2) opetuksen ja ohjauksen antajan nimi, pätevyys ja yhteystiedot.",
+      "clause_number": 2,
+      "section_number": "6",
+      "statute_id": "798/2015"
+    },
+    {
+      "id": "be047c26-cf95-4b58-a153-8261ddefad88",
+      "node_type": "Clause",
+      "publisher": "finlex",
+      "title": "§ 9 mom 1",
+      "text": "1) työn luonne, alkamisaika ja todennäköinen kesto;",
+      "clause_number": 1,
+      "section_number": "9",
+      "statute_id": "798/2015"
+    },
+    {
+      "id": "f66c26f9-dcc0-4d1f-b402-765db22e002b",
+      "node_type": "Clause",
+      "publisher": "finlex",
+      "title": "§ 9 mom 2",
+      "text": "2) paikka ja yksilöidyt alueet, joilla työ tehdään;",
+      "clause_number": 2,
+      "section_number": "9",
+      "statute_id": "798/2015"
+    },
+    {
+      "id": "f7221faa-b3e8-487f-b297-fa2b8aeb1691",
+      "node_type": "Clause",
+      "publisher": "finlex",
+      "title": "§ 9 mom 3",
+      "text": "3) työn tilaaja ja tämän yhteystiedot;",
+      "clause_number": 3,
+      "section_number": "9",
+      "statute_id": "798/2015"
+    },
+    {
+      "id": "9884829f-de02-496c-a1b3-11f835bc1b4b",
+      "node_type": "Clause",
+      "publisher": "finlex",
+      "title": "§ 9 mom 4",
+      "text": "4) vuokratyöntekijän työnantaja;",
+      "clause_number": 4,
+      "section_number": "9",
+      "statute_id": "798/2015"
+    },
+    {
+      "id": "58ad851c-c16f-46bf-bafb-a3ead3f7a738",
+      "node_type": "Clause",
+      "publisher": "finlex",
+      "title": "§ 9 mom 5",
+      "text": "5) asbestikartoituksen keskeiset havainnot, kartoituksen suorituspäivä ja tekijä;",
+      "clause_number": 5,
+      "section_number": "9",
+      "statute_id": "798/2015"
+    },
+    {
+      "id": "7d12146c-3159-4c6a-bd46-13ee16279643",
+      "node_type": "Clause",
+      "publisher": "finlex",
+      "title": "§ 9 mom 6",
+      "text": "6) asbestialtistumisen rajoittamisen sekä turvallisen asbestipurkutyön periaatteet ja käytettävät purkutyömenetelmät;",
+      "clause_number": 6,
+      "section_number": "9",
+      "statute_id": "798/2015"
+    },
+    {
+      "id": "8605e821-1018-4d61-a8d2-499194af5ac4",
+      "node_type": "Clause",
+      "publisher": "finlex",
+      "title": "§ 9 mom 7",
+      "text": "7) työntekijöiden suojaukseen ja puhdistamiseen sekä asbestipölyn leviämisen estämiseen käytettävät ilmankäsittelylaitteet yksilöityinä, niiden ominaisuudet sekä viimeisimmän suodatustehon testauksen ajankohta;",
+      "clause_number": 7,
+      "section_number": "9",
+      "statute_id": "798/2015"
+    },
+    {
+      "id": "1fe6989b-da82-40c4-ba7d-b510713ec589",
+      "node_type": "Clause",
+      "publisher": "finlex",
+      "title": "§ 9 mom 8",
+      "text": "8) jätteiden käsittely ja kaatopaikan nimi, jonne jätteet toimitetaan;",
+      "clause_number": 8,
+      "section_number": "9",
+      "statute_id": "798/2015"
+    },
+    {
+      "id": "51671dbd-b363-4773-864b-64d33c57996f",
+      "node_type": "Clause",
+      "publisher": "finlex",
+      "title": "§ 9 mom 9",
+      "text": "9) ilmoituksen tekijä ja tämän yhteystiedot.",
+      "clause_number": 9,
+      "section_number": "9",
+      "statute_id": "798/2015"
+    }
+  ],
+  "cross_references": [],
+  "raw_html_path": "C:\\Users\\danit\\finance-hack\\aalto-hackaton-2026\\data\\raw\\finlex\\Asetus\\Valtioneuvoston asetus asbestityön turvallisuudesta annetun valtioneuvoston asetuksen muuttamisesta.html"
+}

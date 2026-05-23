@@ -1,0 +1,741 @@
+{
+  "statute": {
+    "id": "4aa222f7-ae29-4ac7-9dac-23fdac7cb3dd",
+    "node_type": "Statute",
+    "publisher": "finlex",
+    "title": "Vesihuoltolaki",
+    "text": "Vesihuoltolaki",
+    "statute_id": "763/1994",
+    "finlex_url": "https://finlex.fi/fi/laki/ajantasa/763/1994"
+  },
+  "chapters": [
+    {
+      "id": "f6127341-560e-4511-8f43-3c2fd47ac84e",
+      "node_type": "Chapter",
+      "publisher": "finlex",
+      "title": "Chapter 1",
+      "text": "1 luku Yleiset säännökset",
+      "chapter_number": 1,
+      "statute_id": "763/1994"
+    },
+    {
+      "id": "57316470-8742-4877-b273-4eb42ac13102",
+      "node_type": "Chapter",
+      "publisher": "finlex",
+      "title": "Chapter 2",
+      "text": "2 luku Vesihuollon kehittäminen ja järjestäminen",
+      "chapter_number": 2,
+      "statute_id": "763/1994"
+    },
+    {
+      "id": "503ce038-275e-4beb-a714-0bdc887f9bee",
+      "node_type": "Chapter",
+      "publisher": "finlex",
+      "title": "Chapter 3",
+      "text": "3 luku Liittäminen vesihuoltolaitoksen verkostoon ja vesihuollon hoitaminen",
+      "chapter_number": 3,
+      "statute_id": "763/1994"
+    },
+    {
+      "id": "e13fc6d1-246d-4ab6-b11a-241fdb4f7a45",
+      "node_type": "Chapter",
+      "publisher": "finlex",
+      "title": "Chapter 4",
+      "text": "4 luku Vesihuollon maksut ja kustannukset",
+      "chapter_number": 4,
+      "statute_id": "763/1994"
+    },
+    {
+      "id": "a0fec8c4-9e5d-4f06-aaf1-a5aad07a8bae",
+      "node_type": "Chapter",
+      "publisher": "finlex",
+      "title": "Chapter 5",
+      "text": "5 luku Sopimukset vesihuollosta",
+      "chapter_number": 5,
+      "statute_id": "763/1994"
+    },
+    {
+      "id": "6f6d0cf2-a94f-479c-802e-dca42a68b2b4",
+      "node_type": "Chapter",
+      "publisher": "finlex",
+      "title": "Chapter 6",
+      "text": "6 luku Keskeytys ja virhe",
+      "chapter_number": 6,
+      "statute_id": "763/1994"
+    },
+    {
+      "id": "815e5961-c398-4a2c-891a-66bd19ab8427",
+      "node_type": "Chapter",
+      "publisher": "finlex",
+      "title": "Chapter 7",
+      "text": "7 luku Valvonta, hallintopakko ja muutoksenhaku",
+      "chapter_number": 7,
+      "statute_id": "763/1994"
+    },
+    {
+      "id": "26b17cca-308d-4470-bfec-cab6a30c22cf",
+      "node_type": "Chapter",
+      "publisher": "finlex",
+      "title": "Chapter 8",
+      "text": "8 luku Erinäisiä säännöksiä",
+      "chapter_number": 8,
+      "statute_id": "763/1994"
+    }
+  ],
+  "sections": [
+    {
+      "id": "9c5fcbde-6873-4650-a3e6-71bf941d1e67",
+      "node_type": "Section",
+      "publisher": "finlex",
+      "title": "1 § Tavoite",
+      "text": "Tämän lain tavoitteena on turvata sellainen vesihuolto, että kohtuullisin kustannuksin on saatavissa riittävästi terveydellisesti ja muutoinkin moitteetonta talousvettä sekä terveyden- ja ympäristönsuojelun kannalta asianmukainen viemäröinti.",
+      "section_number": "1",
+      "chapter_number": 1,
+      "statute_id": "763/1994"
+    },
+    {
+      "id": "c38058e0-8dbe-42b8-bc43-654a3c12fb20",
+      "node_type": "Section",
+      "publisher": "finlex",
+      "title": "2 § Soveltamisala",
+      "text": "Tätä lakia sovelletaan asutuksen vesihuoltoon sekä, jollei toisin säädetä, asutukseen rinnastuvan elinkeino- ja vapaa-ajantoiminnan vesihuoltoon.",
+      "section_number": "2",
+      "chapter_number": 1,
+      "statute_id": "763/1994"
+    },
+    {
+      "id": "48d95a82-94a6-475c-96ab-2dadda499608",
+      "node_type": "Section",
+      "publisher": "finlex",
+      "title": "3 § Määritelmät",
+      "text": "Tässä laissa tarkoitetaan:",
+      "section_number": "3",
+      "chapter_number": 1,
+      "statute_id": "763/1994"
+    },
+    {
+      "id": "52be2016-b077-4b40-bb24-8ab26944feb2",
+      "node_type": "Section",
+      "publisher": "finlex",
+      "title": "4 § Valvontaviranomaiset",
+      "text": "Tämän lain mukaisia valvontaviranomaisia ovat alueellinen ympäristökeskus sekä kunnan terveydensuojeluviranomainen ja kunnan ympäristönsuojeluviranomainen.",
+      "section_number": "4",
+      "chapter_number": 1,
+      "statute_id": "763/1994"
+    },
+    {
+      "id": "d833c539-6d7a-4dab-8e74-60cc694051e3",
+      "node_type": "Section",
+      "publisher": "finlex",
+      "title": "5 § Vesihuollon yleinen kehittäminen",
+      "text": "Kunnan tulee kehittää vesihuoltoa alueellaan yhdyskuntakehitystä vastaavasti tämän lain tavoitteiden toteuttamiseksi sekä osallistua vesihuollon alueelliseen yleissuunnitteluun. Kunnan tulee yhteistyössä alueensa vesihuoltolaitosten kanssa laatia ja pitää ajan tasalla alueensa kattavat vesihuollon kehittämissuunnitelmat. Kehittämissuunnitelmia laatiessaan kunnan tulee olla riittävässä yhteistyössä muiden kuntien kanssa. Kehittämissuunnitelmassa tulee kiinnittää erityistä huomiota vesihuollon järjestämiseen alueilla, joilla on voimassa maankäyttö- ja rakennuslaissa (132/1999) tarkoitettu yleis- tai asemakaava tai joilla yleis- tai asemakaavan laatiminen on vireillä sekä alueilla, joita koskevat ympäristönsuojelulain (86/2000) 19 §:n nojalla annetut ympäristönsuojelumääräykset.",
+      "section_number": "5",
+      "chapter_number": 2,
+      "statute_id": "763/1994"
+    },
+    {
+      "id": "621c51ec-c12c-4c29-8def-c8694570cf95",
+      "node_type": "Section",
+      "publisher": "finlex",
+      "title": "6 § Vesihuollon järjestäminen",
+      "text": "Kiinteistön omistaja tai haltija vastaa kiinteistönsä vesihuollosta sen mukaan kuin tässä laissa ja muussa laissa säädetään. Jos suurehkon asukasjoukon tarve taikka terveydelliset tai ympäristönsuojelulliset syyt sitä vaativat, kunnan tulee huolehtia siitä, että ryhdytään toimenpiteisiin tarvetta vastaavan vesihuoltolaitoksen perustamiseksi, vesihuoltolaitoksen toiminta-alueen laajentamiseksi tai muun tarpeellisen vesihuollon palvelun saatavuuden turvaamiseksi. Ennen 2 momentissa tarkoitettuihin toimenpiteisiin ryhtymistä kunnan on varattava alueen kiinteistöjen omistajille ja haltijoille tilaisuus tulla kuulluiksi.",
+      "section_number": "6",
+      "chapter_number": 2,
+      "statute_id": "763/1994"
+    },
+    {
+      "id": "f7db0094-8cad-45a6-a97a-35de996a273f",
+      "node_type": "Section",
+      "publisher": "finlex",
+      "title": "7 § Vesihuoltolaitosten toiminta-alueet",
+      "text": "Kunnan alueella vesihuoltolaitosten toiminta-alueiden tulee kattaa alueet, joilla kiinteistöjen liittäminen vesihuoltolaitoksen vesijohtoon tai viemäriin on tarpeen asutuksen taikka vesihuollon kannalta asutukseen rinnastuvan elinkeino- ja vapaa-ajantoiminnan määrän tai laadun vuoksi.",
+      "section_number": "7",
+      "chapter_number": 2,
+      "statute_id": "763/1994"
+    },
+    {
+      "id": "dd6cb3b8-daab-4918-82a5-f5bbb989823d",
+      "node_type": "Section",
+      "publisher": "finlex",
+      "title": "8 § Vesihuoltolaitoksen toiminta-alueen hyväksyminen",
+      "text": "Kunta hyväksyy alueellaan toimivalle vesihuoltolaitokselle toiminta-alueen ja tarvittaessa muuttaa hyväksyttyä toiminta-aluetta vesihuoltolaitoksen esityksestä tai, jos laitos ei tällaista esitystä ole tehnyt, laitosta kuultuaan. Ennen toiminta-alueen hyväksymistä tai muuttamista asiasta on pyydettävä lausunto valvontaviranomaiselta sekä varattava alueen kiinteistöjen omistajille ja haltijoille tilaisuus tulla kuulluiksi. Toiminta-alueen tulee olla sellainen, että vesihuoltolaitoksen voidaan katsoa kykenevän huolehtimaan vastuullaan olevasta vesihuollosta taloudellisesti ja asianmukaisesti. Hyväksyessään toiminta-alueen kunnan tulee toiminta-alueen eri osien vesihuollon tarpeet huomioon ottaen määrittää alueet, jotka on saatettava vesihuoltolaitoksen vesijohtoverkoston piiriin, sekä alueet, jotka on saatettava laitoksen viemäriverkostojen piiriin. Hyväksymispäätöksen yhteydessä on myös asetettava tavoitteellinen aikataulu toiminta-alueen eri osien saattamiselle verkostojen piiriin.",
+      "section_number": "8",
+      "chapter_number": 2,
+      "statute_id": "763/1994"
+    },
+    {
+      "id": "2ea6bced-92a6-4ecf-ab92-502e959e1fb9",
+      "node_type": "Section",
+      "publisher": "finlex",
+      "title": "9 § Vesihuollosta huolehtiminen",
+      "text": "Vesihuoltolaitos huolehtii toiminta-alueellaan vesihuollosta yhdyskuntakehityksen tarpeita vastaavasti 8 §:ssä tarkoitetun toiminta-alueen hyväksymispäätöksen mukaisesti.",
+      "section_number": "9",
+      "chapter_number": 2,
+      "statute_id": "763/1994"
+    },
+    {
+      "id": "48b57ee3-21d6-43c2-8048-80bccccb8b37",
+      "node_type": "Section",
+      "publisher": "finlex",
+      "title": "10 § Kiinteistön liittäminen vesihuoltolaitoksen verkostoon",
+      "text": "Vesihuoltolaitoksen toiminta-alueella oleva kiinteistö on liitettävä laitoksen vesijohtoon ja viemäriin. Kiinteistöllä ei kuitenkaan ole velvollisuutta liittyä viemäriin huleveden ja perustusten kuivatusveden poisjohtamiseksi, jos alueella ei ole erillistä verkostoa tarkoitusta varten ja kiinteistön hulevesi ja perustusten kuivatusvesi voidaan poistaa muutoin asianmukaisesti. Edellä 1 momentissa säädetyn estämättä vesihuoltolaitos saa kieltäytyä liittämästä laitoksen vesijohtoon tai viemäriin kiinteistöä, jonka vedenkulutus tai jolta viemäriin johdettavan jäteveden laatu tai määrä vaikeuttaisi laitoksen toimintaa tai laitoksen edellytyksiä huolehtia tyydyttävästi muiden kiinteistöjen vesihuollosta.",
+      "section_number": "10",
+      "chapter_number": 3,
+      "statute_id": "763/1994"
+    },
+    {
+      "id": "72bc091e-46ec-4f08-b4d4-115853fb231c",
+      "node_type": "Section",
+      "publisher": "finlex",
+      "title": "11 § Liittämisvelvollisuudesta vapauttaminen",
+      "text": "Kunnan ympäristönsuojeluviranomainen myöntää hakemuksesta kiinteistölle vapautuksen 10 §:ssä tarkoitetusta liittämisvelvollisuudesta tässä pykälässä säädetyin perustein. Ennen vapautuksen myöntämistä vesihuoltolaitokselle, kiinteistön omistajalle tai haltijalle ja alueelliselle ympäristökeskukselle on varattava tilaisuus tulla kuulluiksi. Lisäksi kunnan ympäristönsuojeluviranomaisen on pyydettävä vapauttamisesta kunnan terveydensuojeluviranomaisen lausunto. Vapautus liittämisvelvollisuudesta on myönnettävä, jos:",
+      "section_number": "11",
+      "chapter_number": 3,
+      "statute_id": "763/1994"
+    },
+    {
+      "id": "9856d167-2f65-4d1a-9707-2b7bb0fdcfeb",
+      "node_type": "Section",
+      "publisher": "finlex",
+      "title": "12 § Liittämiskohdat",
+      "text": "Vesihuoltolaitoksen tulee määrätä jokaista verkostoonsa liitettävää kiinteistöä varten liittämiskohdat, joiden tulee sijaita kiinteistön välittömässä läheisyydessä.",
+      "section_number": "12",
+      "chapter_number": 3,
+      "statute_id": "763/1994"
+    },
+    {
+      "id": "a2a165cf-b2af-4144-842e-306c0ee96b0f",
+      "node_type": "Section",
+      "publisher": "finlex",
+      "title": "13 § Vesihuoltolaitteistojen suunnittelu, rakentaminen, kunnossapito ja käyttö",
+      "text": "Vesihuoltolaitoksen verkostoon liitettävän kiinteistön omistaja tai haltija vastaa kiinteistön vesihuoltolaitteistosta liittämiskohtaan saakka. Laitteisto tulee suunnitella, sijoittaa ja rakentaa niin, että se on yhteensopiva vesihuoltolaitoksen laitteiston kanssa. Kiinteistön vesihuoltolaitteisto tulee pitää sellaisessa kunnossa ja sitä tulee käyttää siten, että siitä ei aiheudu vaaraa tai haittaa vesihuoltolaitoksen laitteiston käytölle eikä terveydelle tai ympäristölle. Vesihuoltolaitoksen verkostoon liitetyn kiinteistön omistajan ja haltijan tulee sallia, että vesihuoltolaitoksen edustaja tarkastaa laitoksen laitteistoon liitetyn tai liitettävän laitteiston laadun, kunnon ja toiminnan. Tarkastus on suoritettava siten, että siitä aiheutuu mahdollisimman vähän haittaa kiinteistön käytölle. Kiinteistön vesihuoltolaitteiston ja vesihuoltolaitoksen laitteiston suunnittelusta, rakentamisesta, kunnossapidosta, käytöstä ja tarkkailusta on lisäksi voimassa, mitä niistä muussa laissa säädetään sekä mitä kiinteistön liittämisestä sekä laitoksen palvelujen toimittamisesta ja käyttämisestä tehdyssä sopimuksessa on sovittu. Alueella, jolla on voimassa tai laadittavana maankäyttö- ja rakennuslaissa tarkoitettu kaava, vesihuoltolaitoksen laitteistoja ei saa rakentaa siten, että kaavan laatiminen tai voimassa olevan kaavan toteuttaminen vaikeutuu.",
+      "section_number": "13",
+      "chapter_number": 3,
+      "statute_id": "763/1994"
+    },
+    {
+      "id": "ac91c99b-8f87-4615-9377-fa5226b9eb44",
+      "node_type": "Section",
+      "publisher": "finlex",
+      "title": "14 § Vesihuoltolaitoksen velvollisuus huolehtia talousveden laadusta",
+      "text": "Vesihuoltolaitoksen tulee huolehtia siitä, että laitoksen toimittama talousvesi täyttää terveydensuojelulaissa säädetyt laatuvaatimukset.",
+      "section_number": "14",
+      "chapter_number": 3,
+      "statute_id": "763/1994"
+    },
+    {
+      "id": "192eb2a1-cf0e-4bef-95d9-88b5845ea10d",
+      "node_type": "Section",
+      "publisher": "finlex",
+      "title": "15 § Vesihuoltolaitoksen tarkkailuvelvollisuudet",
+      "text": "Vesihuoltolaitoksen on tarkkailtava käyttämänsä raakaveden määrää ja laatua sekä veden hävikkiä laitoksen verkostossa. Mitä 1 momentissa säädetään, koskee myös sitä, joka toimittaa vettä vesihuoltolaitokselle.",
+      "section_number": "15",
+      "chapter_number": 3,
+      "statute_id": "763/1994"
+    },
+    {
+      "id": "c7fc1ce6-e749-40f9-bc0d-c0782fa7d419",
+      "node_type": "Section",
+      "publisher": "finlex",
+      "title": "16 § Tiedottamisvelvollisuus",
+      "text": "Vesihuoltolaitoksen ja asiakkaan on pyydettäessä annettava toisilleen vesihuoltolaitoksen verkostoon liittämisen sekä vesihuollon hoitamisen kannalta tarpeelliset tiedot. Vesihuoltolaitoksen tulee tiedottaa riittävästi laitoksen toimittaman talousveden laadusta ja jäteveden puhdistuksen tasosta sekä siitä, miten vesihuollosta perittävät maksut muodostuvat.",
+      "section_number": "16",
+      "chapter_number": 3,
+      "statute_id": "763/1994"
+    },
+    {
+      "id": "43d6636f-5636-40d6-b23e-6008936eca8c",
+      "node_type": "Section",
+      "publisher": "finlex",
+      "title": "17 § Asiakkaan kiinteistön käyttö",
+      "text": "Vesihuoltolaitoksen edustajalla on oikeus tarvittaessa liikkua asiakkaan kiinteistöllä ja suorittaa siellä laitoksen vesihuoltolaitteiston rakentamisen, kunnossapidon ja käytön kannalta tarpeellisia toimenpiteitä. Jollei erityisistä syistä muuta johdu, liikkumisesta ja toimenpiteistä on etukäteen ilmoitettava kiinteistön omistajalle tai haltijalle. Vesihuoltolaitoksen on huolehdittava siitä, että asiakkaan kiinteistöllä liikkumisesta ja siellä suoritettavista toimenpiteistä aiheutuu mahdollisimman vähän haittaa tai vahinkoa kiinteistölle tai sen käytölle. Vesihuoltolaitoksen on korvattava aiheuttamansa haitta ja vahinko. Käyttö- ja omistusoikeuden saamisesta vesihuollossa tarvittavia rakennuksia, laitteita ja rakennelmia varten tarpeellisiin alueisiin säädetään erikseen. Vesilaissa (264/1961) säädetään oikeudesta pohjaveden ottamiseen ja veden johtamiseen sekä tutkimuksista, jotka ovat tarpeellisia vesilaissa tarkoitetun toimenpiteen toteuttamismahdollisuuksien selvittämiseksi.",
+      "section_number": "17",
+      "chapter_number": 3,
+      "statute_id": "763/1994"
+    },
+    {
+      "id": "3ebf003a-0c3c-4862-8a7d-c18a44700d1e",
+      "node_type": "Section",
+      "publisher": "finlex",
+      "title": "18 § Maksujen yleiset perusteet",
+      "text": "Vesihuollon maksujen tulee olla sellaiset, että pitkällä aikavälillä voidaan kattaa vesihuoltolaitoksen investoinnit ja kustannukset. Maksuihin saa sisältyä enintään kohtuullinen tuotto pääomalle. Maksujen tulee olla kohtuulliset ja tasapuoliset. Maksun suuruudessa voidaan ottaa huomioon tarve säädellä veden kulutusta, veden erityinen käyttötarkoitus taikka jäteveden poikkeuksellinen laatu tai määrä. Maksujen tulee tarpeen mukaan olla sellaiset, että ne edistävät veden säästäväistä käyttöä ja jäteveden määrän vähentämistä sekä ehkäisevät haitallisten aineiden johtamista viemäriin. Vesihuoltoa voidaan tukea kunnan, valtion ja Euroopan yhteisön varoista. Tuki on otettava huomioon kustannuksia 1 momentin mukaisesti katettaessa. Vesihuollon tukemisesta on lisäksi voimassa, mitä siitä erikseen säädetään.",
+      "section_number": "18",
+      "chapter_number": 4,
+      "statute_id": "763/1994"
+    },
+    {
+      "id": "c76f4ebb-48c1-401e-9e3f-eead5fbc5db8",
+      "node_type": "Section",
+      "publisher": "finlex",
+      "title": "19 § Maksut",
+      "text": "Vesihuoltolaitoksen tulee periä vesihuollosta käyttömaksua. Käyttömaksu peritään kiinteistön käyttämän veden ja poisjohdettavan jäteveden määrän ja laadun perusteella. Lisäksi laitos voi periä liittymismaksua ja perusmaksua sekä muita maksuja laitoksen toimittamista palveluista. Nämä maksut voivat olla eri alueilla erisuuruisia, jos se on tarpeen kustannusten oikean kohdentamisen tai aiheuttamisperiaatteen toteuttamisen vuoksi taikka muusta vastaavasta syystä. Liittymismaksun suuruudessa voidaan ottaa huomioon myös kiinteistön käyttötarkoitus.",
+      "section_number": "19",
+      "chapter_number": 4,
+      "statute_id": "763/1994"
+    },
+    {
+      "id": "5e0bb953-08f0-4b8e-a61f-9acd94e38255",
+      "node_type": "Section",
+      "publisher": "finlex",
+      "title": "20 § Kunnallisen vesihuoltolaitoksen kirjanpito",
+      "text": "Kunnallisen vesihuoltolaitoksen kirjanpito tulee eriyttää kunnan kirjanpidossa, ja laitoksen on laadittava tilikausittain erillinen tilinpäätös.",
+      "section_number": "20",
+      "chapter_number": 4,
+      "statute_id": "763/1994"
+    },
+    {
+      "id": "8af686a1-4dc5-48e4-b807-364e3304c7ad",
+      "node_type": "Section",
+      "publisher": "finlex",
+      "title": "21 § Sopimuksen tekeminen",
+      "text": "Sopimus kiinteistön liittämisestä vesihuoltolaitoksen verkostoon taikka laitoksen palvelujen toimittamisesta ja käyttämisestä on tehtävä kirjallisesti tai sähköisesti siten, että sopimuksen sisältöä ei voida yksipuolisesti muuntaa ja että sopimus säilyy kummankin osapuolen saatavilla.",
+      "section_number": "21",
+      "chapter_number": 5,
+      "statute_id": "763/1994"
+    },
+    {
+      "id": "c5653a55-cafd-4b74-86df-96de5705954f",
+      "node_type": "Section",
+      "publisher": "finlex",
+      "title": "22 § Vesihuollon yleiset toimitusehdot",
+      "text": "Vesihuollon yleiset toimitusehdot on laadittava siten, että ne ovat kohtuulliset ja tasapuoliset. Kuluttaja-asiamies valvoo vesihuollon yleisten toimitusehtojen lainmukaisuutta kuluttajansuojan kannalta.",
+      "section_number": "22",
+      "chapter_number": 5,
+      "statute_id": "763/1994"
+    },
+    {
+      "id": "c2c5c550-1b58-470c-b356-cecb12925346",
+      "node_type": "Section",
+      "publisher": "finlex",
+      "title": "23 § Sopimusehtojen muuttaminen",
+      "text": "Vesihuoltolaitos saa muuttaa 21 §:ssä tarkoitetun sopimuksen mukaisia maksuja ja muita sopimuksen ehtoja vain: Vesihuoltolaitoksella on lisäksi oikeus tehdä sopimusehtoihin vähäisiä muutoksia, joilla ei ole vaikutusta sopimuksen keskeiseen sisältöön. Vesihuoltolaitoksen on hyvissä ajoin ennen sopimuksen muuttamista lähetettävä asiakkaalle ilmoitus siitä, miten ja mistä ajankohdasta maksut tai muut sopimusehdot muuttuvat sekä mikä on muutoksen peruste. Jos muutoksen perusteena on muu kuin lainsäädännön muutos tai viranomaisen siihen perustuva päätös, muutos saa tulla voimaan aikaisintaan kuukauden kuluttua ilmoituksen lähettämisestä.",
+      "section_number": "23",
+      "chapter_number": 5,
+      "statute_id": "763/1994"
+    },
+    {
+      "id": "775630c2-b3ce-4e55-bba9-efebf1c6a9da",
+      "node_type": "Section",
+      "publisher": "finlex",
+      "title": "24 § Sopimuksen irtisanominen",
+      "text": "Vesihuoltolaitos saa irtisanoa 21 §:ssä tarkoitetun sopimuksen verkostoon liittämisestä vain, jos sopimuksen pitäminen voimassa on kiinteistön vedenkulutuksen tai kiinteistöltä viemäriin johdettavan jäteveden, huleveden tai perustusten kuivatusveden laadun tai määrän olennaisen muuttumisen vuoksi kohtuutonta. Asiakas saa irtisanoa 21 §:ssä tarkoitetun sopimuksen verkostoon liittämisestä vesihuoltolaitoksen toiminta-alueella vain, jos kiinteistölle on myönnetty vapautus liittämisvelvollisuudesta 11 §:n perusteella. Vesihuoltolaitos saa irtisanoa 21 §:ssä tarkoitetun sopimuksen vesihuoltolaitoksen palvelujen toimittamisesta ja käyttämisestä vain, jos vesihuollon palvelu on keskeytetty 26 §:ssä säädetyillä perusteilla ja sopimuksen voimassa pitäminen on kohtuutonta. Sen lisäksi, mitä 3 momentissa säädetään, vesihuoltolaitoksen palvelujen toimittamisesta ja käyttämisestä tehty sopimus saadaan irtisanoa, jos palvelun käytön edellytyksenä oleva sopimus verkostoon liittämisestä irtisanotaan 1 tai 2 momentissa säädetyllä perusteella.",
+      "section_number": "24",
+      "chapter_number": 5,
+      "statute_id": "763/1994"
+    },
+    {
+      "id": "6b50d7e0-2536-4261-b680-3c9ddeedbf93",
+      "node_type": "Section",
+      "publisher": "finlex",
+      "title": "25 § Pakottavuus",
+      "text": "Tämän luvun säännöksistä ei saa sopimuksin poiketa kuluttajan vahingoksi. Jollei jäljempänä toisin säädetä, tämän luvun säännöksiä sovelletaan muutoin vesihuoltolaitoksen ja asiakkaan kesken vain, jos ei muuta ole sovittu.",
+      "section_number": "25",
+      "chapter_number": 6,
+      "statute_id": "763/1994"
+    },
+    {
+      "id": "b8b409b4-ebe4-4b1b-a9ed-d69fafed9122",
+      "node_type": "Section",
+      "publisher": "finlex",
+      "title": "26 § Vesihuollon palvelun keskeyttäminen",
+      "text": "Vesihuoltolaitos saa keskeyttää veden toimittamisen sekä jäteveden, huleveden ja perustusten kuivatusveden poisjohtamisen, jos asiakas on olennaisesti laiminlyönyt 19 §:ssä tarkoitettujen maksujen suorittamisen tai on muutoin olennaisesti rikkonut säädöksiin tai sopimukseen perustuvia velvoitteitaan. Vesihuoltolaitos saa keskeyttää veden toimittamisen sekä jäteveden, huleveden ja perustusten kuivatusveden poisjohtamisen aikaisintaan viiden viikon kuluttua siitä, kun 1 momenttiin perustuvasta keskeyttämisen uhkasta on ensimmäisen kerran ilmoitettu asiakkaalle eikä laiminlyöntiä tai velvoitteiden rikkomista ole oikaistu ajoissa ennen ilmoitettua keskeyttämisajankohtaa. Jos säädösten tai sopimuksen vastainen toiminta on omiaan aiheuttamaan välitöntä vaaraa tai huomattavaa haittaa laitoksen käytölle taikka terveydelle tai ympäristölle, veden toimittaminen sekä jäteveden, huleveden ja perustusten kuivatusveden poisjohtaminen saadaan keskeyttää välittömästi. Jos 1 momentissa tarkoitettu maksun laiminlyönti aiheutuu kuluttajan maksuvaikeuksista, joihin hän on joutunut vakavan sairauden tai työttömyyden taikka muun niihin rinnastettavan erityisen seikan vuoksi pääasiassa omatta syyttään, ja asiakas on tällaisista maksuvaikeuksista ilmoittanut vesihuoltolaitokselle, veden toimittaminen sekä jäteveden, huleveden ja perustusten kuivatusveden poisjohtaminen saadaan keskeyttää aikaisintaan kymmenen viikon kuluttua siitä, kun keskeyttämisen uhkasta on ensimmäisen kerran ilmoitettu asiakkaalle.",
+      "section_number": "26",
+      "chapter_number": 6,
+      "statute_id": "763/1994"
+    },
+    {
+      "id": "1968f0b7-0c60-4bbb-b781-ce110f9e39ba",
+      "node_type": "Section",
+      "publisher": "finlex",
+      "title": "27 § Virhe ja hinnanalennus",
+      "text": "Vesihuollossa on virhe, kun veden laatu tai toimitustapa tai vesihuoltolaitoksen palvelu ei vastaa sitä, mitä sopimuksen tai säädösten perusteella voidaan edellyttää. Vesihuollossa on virhe myös silloin, kun se on yhtäjaksoisesti tai toistuvasti keskeytynyt, jollei keskeytystä voida pitää keskeytyksen syy ja olosuhteet huomioon ottaen vähäisenä. Asiakkaalla on oikeus virhettä vastaavaan hinnanalennukseen. Jos virhe perustuu vesihuollon keskeytykseen, hinnanalennuksen määrä on vähintään kahta viikkoa vastaava osuus vuotuisesta perusmaksusta. Vaatimus hinnanalennuksesta on esitettävä vesihuoltolaitokselle kohtuullisessa ajassa siitä, kun asiakas havaitsi virheen tai hänen olisi pitänyt se havaita.",
+      "section_number": "27",
+      "chapter_number": 6,
+      "statute_id": "763/1994"
+    },
+    {
+      "id": "ab2b9691-22a1-4b29-81a4-fb65d1a9571b",
+      "node_type": "Section",
+      "publisher": "finlex",
+      "title": "28 § Vahingonkorvaus",
+      "text": "Vesihuoltolaitos on velvollinen korvaamaan vesihuollossa olevasta virheestä henkilölle taikka yksityiseen käyttöön tai kulutukseen tarkoitetulle ja vahinkoa kärsineen pääasiassa sellaiseen tarkoitukseen käyttämälle omaisuudelle aiheutuneen vahingon. Ennen vahingon ilmenemistä tehdyn sopimuksen ehto, joka rajoittaa vahinkoa kärsineen oikeutta korvaukseen tämän momentin nojalla, on mitätön. Vesihuoltolaitos on velvollinen korvaamaan vesihuollossa olevasta virheestä asiakkaalle aiheutuvan taloudellisen vahingon. Välillisen vahingon vesihuoltolaitos on velvollinen korvaamaan vain, jos virhe tai vahinko aiheutuu huolimattomuudesta laitoksen puolella. Välillisenä vahinkona pidetään: Jos 3 momentissa tarkoitettu vahinko aiheutuu muunlaisen vahingon rajoittamisesta, vahinkoa ei tältä osin pidetä välillisenä.",
+      "section_number": "28",
+      "chapter_number": 6,
+      "statute_id": "763/1994"
+    },
+    {
+      "id": "96065f14-172a-4f02-8afb-c237b3b6483d",
+      "node_type": "Section",
+      "publisher": "finlex",
+      "title": "29 § Rikkomuksen tai laiminlyönnin oikaiseminen",
+      "text": "Valvontaviranomainen voi kieltää sitä, joka rikkoo tätä lakia tai sen nojalla annettua säännöstä, jatkamasta tai toistamasta säännöksen vastaista menettelyä taikka määrätä hänet täyttämään velvollisuutensa. Kuntaan kohdistuvan kiellon tai määräyksen antaa alueellinen ympäristökeskus. Ennen kiellon tai määräyksen antamista valvontaviranomaisen on mahdollisuuksien mukaan neuvoteltava tämän lain tai sen nojalla annettua säännöstä rikkoneen kanssa.",
+      "section_number": "29",
+      "chapter_number": 7,
+      "statute_id": "763/1994"
+    },
+    {
+      "id": "ff937a94-5d5f-4935-ba75-5aa9e57a8bf0",
+      "node_type": "Section",
+      "publisher": "finlex",
+      "title": "30 § Uhkasakko sekä teettämis- ja keskeyttämisuhka",
+      "text": "Valvontaviranomainen voi tehostaa 29 §:n nojalla antamaansa kieltoa tai määräystä uhkasakolla tai uhalla, että tekemättä jätetty toimenpide teetetään laiminlyöjän kustannuksella taikka että toiminta keskeytetään tai kielletään. Uhkasakkoon, teettämisuhkaan ja keskeyttämisuhkaan sovelletaan muutoin, mitä uhkasakkolaissa (1113/1990) säädetään.",
+      "section_number": "30",
+      "chapter_number": 7,
+      "statute_id": "763/1994"
+    },
+    {
+      "id": "7108c25f-708e-40d4-860f-6344cd15c6a9",
+      "node_type": "Section",
+      "publisher": "finlex",
+      "title": "31 § Vireillepano-oikeus",
+      "text": "Jos kunta on laiminlyönyt 6 §:n 2 momentissa tarkoitetun velvollisuutensa eikä asia ole tullut vireille valvontaviranomaisen aloitteesta, asian voi panna kirjallisesti vireille se, jonka oikeutta tai etua asia saattaa koskea, sekä asiassa yleistä etua valvova viranomainen.",
+      "section_number": "31",
+      "chapter_number": 7,
+      "statute_id": "763/1994"
+    },
+    {
+      "id": "6124b7e6-3f27-4f76-9401-2ae98f01d6b9",
+      "node_type": "Section",
+      "publisher": "finlex",
+      "title": "32 § Muutoksenhaku",
+      "text": "Muutosta valvontaviranomaisen tämän lain nojalla antamaan päätökseen sekä kunnan ympäristönsuojeluviranomaisen 11 §:n nojalla antamaan päätökseen haetaan valittamalla hallinto-oikeuteen siten kuin hallintolainkäyttölaissa (586/1996) säädetään. Hallinto-oikeuden päätökseen haetaan muutosta valittamalla korkeimpaan hallinto-oikeuteen siten kuin hallintolainkäyttölaissa säädetään. Kunnan viranomaisen 8 §:n nojalla antamaan päätökseen haetaan valittamalla muutosta siten kuin kuntalaissa (365/1995) säädetään. Valitusoikeus on myös valvontaviranomaisella.",
+      "section_number": "32",
+      "chapter_number": 7,
+      "statute_id": "763/1994"
+    },
+    {
+      "id": "85389288-4ed7-4f1f-a918-77561630b736",
+      "node_type": "Section",
+      "publisher": "finlex",
+      "title": "33 § Valitusoikeus",
+      "text": "Valitusoikeus on: Valvontaviranomaisella on lisäksi oikeus valittaa sellaisesta päätöksestä, jolla hallinto-oikeus on muuttanut sen tekemää päätöstä tai kumonnut päätöksen.",
+      "section_number": "33",
+      "chapter_number": 7,
+      "statute_id": "763/1994"
+    },
+    {
+      "id": "be71c1d4-f1a0-48a0-b7b4-a04d507248b3",
+      "node_type": "Section",
+      "publisher": "finlex",
+      "title": "34 § Käsittely käräjäoikeudessa",
+      "text": "Vesihuoltolaitoksen ja sen asiakkaan välinen kiinteistön vesihuoltoa koskeva riita-asia käsitellään käräjäoikeudessa. Oikeuspaikasta säädetään tarkemmin erikseen.",
+      "section_number": "34",
+      "chapter_number": 7,
+      "statute_id": "763/1994"
+    },
+    {
+      "id": "07662ebc-1268-48ec-b938-a394a300d0fe",
+      "node_type": "Section",
+      "publisher": "finlex",
+      "title": "35 § Salassapitovelvollisuus",
+      "text": "Tämän lain mukaista tehtävää suorittavan salassapitovelvollisuuteen sovelletaan, mitä viranomaisten toiminnan julkisuudesta annetussa laissa (621/1999) säädetään. Viranomaisten toiminnan julkisuudesta annetussa laissa säädetyn salassapitovelvollisuuden estämättä saa tämän lain mukaisia tehtäviä suoritettaessa saatuja tietoja yksityisen tai yhteisön taloudellisesta asemasta, liike- tai ammattisalaisuudesta taikka yksityisen henkilökohtaisista oloista luovuttaa:",
+      "section_number": "35",
+      "chapter_number": 8,
+      "statute_id": "763/1994"
+    },
+    {
+      "id": "e6ff7fb9-18bf-4a87-937c-ed1c5a22aed2",
+      "node_type": "Section",
+      "publisher": "finlex",
+      "title": "36 § Tarkemmat säännökset",
+      "text": "Valtioneuvoston asetuksella voidaan antaa tarkempia säännöksiä:",
+      "section_number": "36",
+      "chapter_number": 8,
+      "statute_id": "763/1994"
+    },
+    {
+      "id": "26162785-6995-4526-8a09-7cf67dfde8b3",
+      "node_type": "Section",
+      "publisher": "finlex",
+      "title": "37 § Voimaantulo",
+      "text": "Tämä laki tulee voimaan 1 päivänä maaliskuuta 2001. Lain 20 §:n säännöksiä kunnallisen vesihuoltolaitoksen kirjanpidosta sovelletaan kuitenkin ensimmäisen kerran siltä tilikaudelta, joka alkaa 1 päivänä tammikuuta 2002 tai sen jälkeen. Tällä lailla kumotaan yleisistä vesi- ja viemärilaitoksista 23 päivänä joulukuuta 1977 annettu laki (982/1977) sekä jätevesimaksusta 13 päivänä heinäkuuta 1973 annettu laki (610/1973) niihin myöhemmin tehtyine muutoksineen. Yleisestä viemäristä ja eräiltä teollisuudenaloilta vesiin johdettavien jätevesien sekä teollisuudesta yleiseen viemäriin johdettavien jätevesien käsittelystä annettu valtioneuvoston päätös (365/1994) jää kuitenkin voimaan, kunnes ympäristönsuojelulain 11 §:n nojalla toisin säädetään. Päätöstä noudatetaan laadittaessa 21 §:ssä tarkoitettua sopimusta. Ennen lain voimaantuloa voidaan ryhtyä lain täytäntöönpanon edellyttämiin toimenpiteisiin.",
+      "section_number": "37",
+      "chapter_number": 8,
+      "statute_id": "763/1994"
+    },
+    {
+      "id": "e07df783-95da-4190-a2a6-8c7e484712dc",
+      "node_type": "Section",
+      "publisher": "finlex",
+      "title": "38 § Siirtymäsäännökset",
+      "text": "Kunnan tulee hyväksyä 5 §:ssä tarkoitetut vesihuollon kehittämissuunnitelmat kolmen vuoden kuluessa tämän lain voimaantulosta. Mitä tässä laissa säädetään vesihuoltolaitoksen toiminta-alueesta, koskee myös yleisistä vesi- ja viemärilaitoksista annetun lain 3 §:n nojalla määrättyä toiminta-aluetta, kunnes kunta hyväksyy vesihuoltolaitokselle toiminta-alueen tämän lain 8 §:n nojalla. Yleisistä vesi- ja viemärilaitoksista annetun lain 11 §:n nojalla annetut yleiset määräykset siltä osin kuin ne eivät ole tämän lain tai sen nojalla annettujen säännösten vastaisia, ovat voimassa tämän lain mukaisina yleisinä toimitusehtoina enintään kahden vuoden ajan tämän lain voimaantulosta. Hallintoviranomaisessa tai tuomioistuimessa tämän lain voimaan tullessa vireillä olevissa asioissa noudatetaan tämän lain voimaan tullessa voimassa olleita säännöksiä.",
+      "section_number": "38",
+      "chapter_number": 8,
+      "statute_id": "763/1994"
+    }
+  ],
+  "clauses": [
+    {
+      "id": "965600fb-a661-4b14-9aaf-25a4d54b92db",
+      "node_type": "Clause",
+      "publisher": "finlex",
+      "title": "§ 3 mom 1",
+      "text": "1) vesihuollolla vedenhankintaa eli veden johtamista, käsittelyä ja toimittamista talousvetenä käytettäväksi sekä viemäröintiä eli jäteveden, huleveden ja perustusten kuivatusveden poisjohtamista ja käsittelyä;",
+      "clause_number": 1,
+      "section_number": "3",
+      "statute_id": "763/1994"
+    },
+    {
+      "id": "e0dc6b64-1581-437a-acd7-479858957847",
+      "node_type": "Clause",
+      "publisher": "finlex",
+      "title": "§ 3 mom 2",
+      "text": "2) talousvedellä ihmisten käyttöön tarkoitettua vettä sen mukaan kuin siitä terveydensuojelulaissa (763/1994) säädetään;",
+      "clause_number": 2,
+      "section_number": "3",
+      "statute_id": "763/1994"
+    },
+    {
+      "id": "cd8a1509-107c-4f30-b0c1-89d9fc6d598b",
+      "node_type": "Clause",
+      "publisher": "finlex",
+      "title": "§ 3 mom 3",
+      "text": "3) vesihuoltolaitoksella laitosta, joka huolehtii yhdyskunnan vesihuollosta;",
+      "clause_number": 3,
+      "section_number": "3",
+      "statute_id": "763/1994"
+    },
+    {
+      "id": "1b1f1d6a-9ee3-46ef-b87d-c1a28e8d0a5f",
+      "node_type": "Clause",
+      "publisher": "finlex",
+      "title": "§ 3 mom 4",
+      "text": "4) vesihuoltolaitoksen toiminta-alueella aluetta, jolla vesihuoltolaitos huolehtii vesihuollosta sen mukaan kuin tässä laissa säädetään;",
+      "clause_number": 4,
+      "section_number": "3",
+      "statute_id": "763/1994"
+    },
+    {
+      "id": "72240d2f-cdd1-48ee-abb0-f5b8530bf0b4",
+      "node_type": "Clause",
+      "publisher": "finlex",
+      "title": "§ 3 mom 5",
+      "text": "5) asiakkaalla kiinteistön omistajaa tai haltijaa taikka muuta, joka tekee vesihuoltolaitoksen kanssa sopimuksen kiinteistön liittämisestä laitoksen verkostoon tai laitoksen palvelujen toimittamisesta ja käyttämisestä;",
+      "clause_number": 5,
+      "section_number": "3",
+      "statute_id": "763/1994"
+    },
+    {
+      "id": "9ec512a1-db64-4ef5-9561-8832506660d1",
+      "node_type": "Clause",
+      "publisher": "finlex",
+      "title": "§ 3 mom 6",
+      "text": "6) kuluttajalla kuluttajansuojalain (38/ 1978) 1 luvun 4 §:ssä tarkoitettua henkilöä, joka tekee vesihuoltolaitoksen kanssa tässä laissa tarkoitetun sopimuksen;",
+      "clause_number": 6,
+      "section_number": "3",
+      "statute_id": "763/1994"
+    },
+    {
+      "id": "385e9d3d-6779-4434-a6bf-0f82477d944d",
+      "node_type": "Clause",
+      "publisher": "finlex",
+      "title": "§ 3 mom 7",
+      "text": "7) yleisillä toimitusehdoilla vesihuoltolaitoksen verkostoon liittämisestä sekä laitoksen palvelujen toimittamisesta ja käyttämisestä tehtäviin sopimuksiin liitettäviä yleisiä ehtoja.",
+      "clause_number": 7,
+      "section_number": "3",
+      "statute_id": "763/1994"
+    },
+    {
+      "id": "b4772302-32ce-4f6d-9224-daff4e7e14f8",
+      "node_type": "Clause",
+      "publisher": "finlex",
+      "title": "§ 11 mom 1",
+      "text": "1) liittäminen verkostoon muodostuisi kiinteistön omistajalle tai haltijalle kohtuuttomaksi, kun otetaan huomioon liittämisestä aiheutuvat kustannukset, vesihuoltolaitoksen palvelujen vähäinen tarve tai muu vastaava erityinen syy;",
+      "clause_number": 1,
+      "section_number": "11",
+      "statute_id": "763/1994"
+    },
+    {
+      "id": "c2fb56c5-4687-48be-aa0c-cd4f690fc544",
+      "node_type": "Clause",
+      "publisher": "finlex",
+      "title": "§ 11 mom 2",
+      "text": "2) vapauttaminen ei vaaranna vesihuollon taloudellista ja asianmukaista hoitamista vesihuoltolaitoksen toiminta-alueella;",
+      "clause_number": 2,
+      "section_number": "11",
+      "statute_id": "763/1994"
+    },
+    {
+      "id": "521f76d1-3b9a-436e-b403-8e4814e2a533",
+      "node_type": "Clause",
+      "publisher": "finlex",
+      "title": "§ 11 mom 3",
+      "text": "3) sekä lisäksi:",
+      "clause_number": 3,
+      "section_number": "11",
+      "statute_id": "763/1994"
+    },
+    {
+      "id": "d410e06e-617f-4084-a06c-5698b2032136",
+      "node_type": "Clause",
+      "publisher": "finlex",
+      "title": "§ 23 mom 1",
+      "text": "1) sopimusehdoissa yksilöidyillä perusteilla edellyttäen, että sopimuksen sisältö ei kokonaisuutena olennaisesti muutu;",
+      "clause_number": 1,
+      "section_number": "23",
+      "statute_id": "763/1994"
+    },
+    {
+      "id": "c8defbb5-4242-4cdc-8eae-8f069feb2c39",
+      "node_type": "Clause",
+      "publisher": "finlex",
+      "title": "§ 23 mom 2",
+      "text": "2) lainsäädännön muutoksen tai viranomaisen siihen perustuvan päätöksen perusteella;",
+      "clause_number": 2,
+      "section_number": "23",
+      "statute_id": "763/1994"
+    },
+    {
+      "id": "0c21084b-c183-496f-9e30-bcd362f2450f",
+      "node_type": "Clause",
+      "publisher": "finlex",
+      "title": "§ 23 mom 3",
+      "text": "3) muusta erityisestä syystä olosuhteiden olennaisesti muututtua.",
+      "clause_number": 3,
+      "section_number": "23",
+      "statute_id": "763/1994"
+    },
+    {
+      "id": "23921660-c1f3-442a-b1f7-f314979e892e",
+      "node_type": "Clause",
+      "publisher": "finlex",
+      "title": "§ 28 mom 1",
+      "text": "1) ansionmenetystä, joka aiheutuu vesihuollossa olevasta virheestä tai siitä johtuvista toimenpiteistä;",
+      "clause_number": 1,
+      "section_number": "28",
+      "statute_id": "763/1994"
+    },
+    {
+      "id": "42640df6-fd6b-472a-8735-4f25089c99b5",
+      "node_type": "Clause",
+      "publisher": "finlex",
+      "title": "§ 28 mom 2",
+      "text": "2) vahinkoa, joka aiheutuu muuhun sopimukseen perustuvasta velvoitteesta;",
+      "clause_number": 2,
+      "section_number": "28",
+      "statute_id": "763/1994"
+    },
+    {
+      "id": "82ec30a8-b178-4b3a-ad3d-3ce96df0cc78",
+      "node_type": "Clause",
+      "publisher": "finlex",
+      "title": "§ 28 mom 3",
+      "text": "3) vesihuollon palvelujen käyttöön perustuvan hyödyn olennaista menetystä, josta ei aiheudu suoranaista taloudellista vahinkoa, sekä muuta siihen rinnastettavaa olennaista haittaa;",
+      "clause_number": 3,
+      "section_number": "28",
+      "statute_id": "763/1994"
+    },
+    {
+      "id": "844f8889-dbb1-49ad-81e5-5b346bcee96e",
+      "node_type": "Clause",
+      "publisher": "finlex",
+      "title": "§ 28 mom 4",
+      "text": "4) muuta samankaltaista vaikeasti ennakoitavaa vahinkoa.",
+      "clause_number": 4,
+      "section_number": "28",
+      "statute_id": "763/1994"
+    },
+    {
+      "id": "38c871e9-5e54-4328-a9ab-ba8960c3bc0f",
+      "node_type": "Clause",
+      "publisher": "finlex",
+      "title": "§ 33 mom 1",
+      "text": "1) sillä, jonka etua tai oikeutta asia saattaa koskea;",
+      "clause_number": 1,
+      "section_number": "33",
+      "statute_id": "763/1994"
+    },
+    {
+      "id": "faf2b7d6-d14d-4191-9885-81a21a0462af",
+      "node_type": "Clause",
+      "publisher": "finlex",
+      "title": "§ 33 mom 2",
+      "text": "2) kunnalla;",
+      "clause_number": 2,
+      "section_number": "33",
+      "statute_id": "763/1994"
+    },
+    {
+      "id": "b6fba576-76f2-456c-bb88-3c1e9bf38ed5",
+      "node_type": "Clause",
+      "publisher": "finlex",
+      "title": "§ 33 mom 3",
+      "text": "3) valvontaviranomaisella;",
+      "clause_number": 3,
+      "section_number": "33",
+      "statute_id": "763/1994"
+    },
+    {
+      "id": "811370f1-b7f3-4c0a-84ea-9d6a9726c172",
+      "node_type": "Clause",
+      "publisher": "finlex",
+      "title": "§ 33 mom 4",
+      "text": "4) asiassa yleistä etua valvovalla viranomaisella.",
+      "clause_number": 4,
+      "section_number": "33",
+      "statute_id": "763/1994"
+    },
+    {
+      "id": "c95c67c8-4e13-4fda-ad5b-c1484f725112",
+      "node_type": "Clause",
+      "publisher": "finlex",
+      "title": "§ 35 mom 1",
+      "text": "1) valvontaviranomaiselle tämän lain mukaisten tehtävien suorittamista varten;",
+      "clause_number": 1,
+      "section_number": "35",
+      "statute_id": "763/1994"
+    },
+    {
+      "id": "f1f3d829-0a8f-43c0-97bb-2dcb553a3f8c",
+      "node_type": "Clause",
+      "publisher": "finlex",
+      "title": "§ 35 mom 2",
+      "text": "2) rikoksen selvittämiseksi syyttäjä- ja poliisiviranomaiselle.",
+      "clause_number": 2,
+      "section_number": "35",
+      "statute_id": "763/1994"
+    },
+    {
+      "id": "2b296e33-f287-41f7-9953-45dd22942b45",
+      "node_type": "Clause",
+      "publisher": "finlex",
+      "title": "§ 36 mom 1",
+      "text": "1) 12 §:ssä tarkoitetun liittämiskohdan enimmäisetäisyydestä kiinteistön rajasta tai liitettävän kiinteistön lähimmästä rakennuksesta;",
+      "clause_number": 1,
+      "section_number": "36",
+      "statute_id": "763/1994"
+    },
+    {
+      "id": "f888e8fc-9743-4998-8d34-f74b377484f9",
+      "node_type": "Clause",
+      "publisher": "finlex",
+      "title": "§ 36 mom 2",
+      "text": "2) raakaveden laatuvaatimuksista, tarkkailuvelvollisuuksien toteuttamisesta ja tarkkailutietojen toimittamisesta sekä muiden tämän lain mukaisten tehtävien hoitamisessa kertyvien tietojen toimittamisesta;",
+      "clause_number": 2,
+      "section_number": "36",
+      "statute_id": "763/1994"
+    },
+    {
+      "id": "cda9ce81-368e-4138-ab89-bc851712af47",
+      "node_type": "Clause",
+      "publisher": "finlex",
+      "title": "§ 36 mom 3",
+      "text": "3) 18 §:ssä tarkoitetuista maksujen määräytymisen yleisistä perusteista;",
+      "clause_number": 3,
+      "section_number": "36",
+      "statute_id": "763/1994"
+    },
+    {
+      "id": "275b403a-37b7-4d1e-b863-5f4610ef24ab",
+      "node_type": "Clause",
+      "publisher": "finlex",
+      "title": "§ 36 mom 4",
+      "text": "4) tämän lain täytäntöönpanosta.",
+      "clause_number": 4,
+      "section_number": "36",
+      "statute_id": "763/1994"
+    }
+  ],
+  "cross_references": [],
+  "raw_html_path": "C:\\Users\\danit\\finance-hack\\aalto-hackaton-2026\\data\\raw\\finlex\\Laki (säädöskokoelma)\\Vesihuoltolaki.html"
+}

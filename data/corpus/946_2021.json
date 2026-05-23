@@ -1,0 +1,2403 @@
+{
+  "statute": {
+    "id": "ca3f00c0-daa3-4aa7-9124-53c59a167a45",
+    "node_type": "Statute",
+    "publisher": "finlex",
+    "title": "Vakuutuskassalaki",
+    "text": "Vakuutuskassalaki",
+    "statute_id": "946/2021",
+    "finlex_url": "https://finlex.fi/fi/laki/ajantasa/946/2021"
+  },
+  "chapters": [
+    {
+      "id": "680434f3-35c2-493c-a89b-ac3fb2dd1abf",
+      "node_type": "Chapter",
+      "publisher": "finlex",
+      "title": "Chapter 1",
+      "text": "1 luku Lain soveltaminen ja toiminnan keskeiset periaatteet",
+      "chapter_number": 1,
+      "statute_id": "946/2021"
+    },
+    {
+      "id": "7c7980b7-f9c8-4b70-98f3-78ab090f76d1",
+      "node_type": "Chapter",
+      "publisher": "finlex",
+      "title": "Chapter 2",
+      "text": "2 luku Perustaminen",
+      "chapter_number": 2,
+      "statute_id": "946/2021"
+    },
+    {
+      "id": "f3ed5bd3-e692-4082-9ed6-4bf73b5e1c6d",
+      "node_type": "Chapter",
+      "publisher": "finlex",
+      "title": "Chapter 3",
+      "text": "3 luku Hallinto ja tilinpäätös",
+      "chapter_number": 3,
+      "statute_id": "946/2021"
+    },
+    {
+      "id": "eee0c605-e649-417b-ac90-717f0b8da164",
+      "node_type": "Chapter",
+      "publisher": "finlex",
+      "title": "Chapter 4",
+      "text": "4 luku Vastuuvelka ja vakuutusmaksut",
+      "chapter_number": 4,
+      "statute_id": "946/2021"
+    },
+    {
+      "id": "73d288da-c6f9-46cc-8ead-7cfcf8518c45",
+      "node_type": "Chapter",
+      "publisher": "finlex",
+      "title": "Chapter 5",
+      "text": "5 luku Varat ja sijoittaminen sekä vastuuvelan kattaminen",
+      "chapter_number": 5,
+      "statute_id": "946/2021"
+    },
+    {
+      "id": "3223298c-bf40-4bc2-8a2a-4fdbbf239416",
+      "node_type": "Chapter",
+      "publisher": "finlex",
+      "title": "Chapter 6",
+      "text": "6 luku Tiedonantosäännökset, etuuden hakeminen ja suorittaminen",
+      "chapter_number": 6,
+      "statute_id": "946/2021"
+    },
+    {
+      "id": "61df1d4a-f192-4e2d-948c-760bb48f4dd3",
+      "node_type": "Chapter",
+      "publisher": "finlex",
+      "title": "Chapter 7",
+      "text": "7 luku Sulautuminen ja jakautuminen",
+      "chapter_number": 7,
+      "statute_id": "946/2021"
+    },
+    {
+      "id": "d5a95d74-c861-4ba6-98dd-c7b7b68abf57",
+      "node_type": "Chapter",
+      "publisher": "finlex",
+      "title": "Chapter 8",
+      "text": "8 luku Vakuutuskannan luovuttaminen sekä vapaaehtoinen selvitystila ja purkaminen",
+      "chapter_number": 8,
+      "statute_id": "946/2021"
+    },
+    {
+      "id": "08731675-8a23-452e-af25-a8a8d7ceca02",
+      "node_type": "Chapter",
+      "publisher": "finlex",
+      "title": "Chapter 9",
+      "text": "9 luku Lakisääteinen selvitystila ja purkaminen",
+      "chapter_number": 9,
+      "statute_id": "946/2021"
+    },
+    {
+      "id": "09cd8a40-7e3c-4746-9c41-ac4b9ae86cc4",
+      "node_type": "Chapter",
+      "publisher": "finlex",
+      "title": "Chapter 10",
+      "text": "10 luku Rangaistussäännökset",
+      "chapter_number": 10,
+      "statute_id": "946/2021"
+    },
+    {
+      "id": "0b962490-1b6a-4a07-9e18-56159b3470d7",
+      "node_type": "Chapter",
+      "publisher": "finlex",
+      "title": "Chapter 11",
+      "text": "11 luku Voimaantulo",
+      "chapter_number": 11,
+      "statute_id": "946/2021"
+    }
+  ],
+  "sections": [
+    {
+      "id": "408d9244-7769-4f7a-9e60-ad0f8bb80746",
+      "node_type": "Section",
+      "publisher": "finlex",
+      "title": "1 § Soveltamisala",
+      "text": "Tätä lakia sovelletaan Suomen lain mukaan rekisteröityyn vakuutuskassaan, joka myöntää korvausta sairauden, vian tai vamman johdosta tai eroavustusta tai hautausavustusta tai muita sosiaalisen henkilövakuutustoiminnan piiriin kuuluvia avustuksia (vakuutuskassa). Vakuutuskassa ei saa harjoittaa eläkevakuutustoimintaa.",
+      "section_number": "1",
+      "chapter_number": 1,
+      "statute_id": "946/2021"
+    },
+    {
+      "id": "7bd3b2ac-3bb8-4616-b26a-0948409029f0",
+      "node_type": "Section",
+      "publisher": "finlex",
+      "title": "2 § Eläkesäätiöistä ja eläkekassoista annetun lain soveltaminen",
+      "text": "Tässä laissa tarkoitettuun vakuutuskassaan sovelletaan, mitä eläkesäätiöistä ja eläkekassoista annetussa laissa (946/2021), jäljempänäeläkesäätiö- ja eläkekassalaki, säädetään eläkelaitoksesta tai eläkekassasta, jollei tässä laissa muuta säädetä. Tässä laissa tarkoitettuun vakuutuskassaan ei kuitenkaan sovelleta eläkesäätiö- ja eläkekassalain 1 luvun 1–6 §:ää, 2 luvun 1, 4, 7 ja 8 §:ää, 4 luvun 8 ja 22–26 §:ää, 5 luvun 2–4, 8 ja 9 §:ää, 6 luvun 6 §:ää, 7 ja 8 lukua, 10 luvun 1, 3, 13, 14 ja 16 §:ää, 11 luvun 1, 3, 4, 14, 15 ja 17 §:ää, 12 luvun 1–5, 10–12, 15, 17, 18, 20, 22 ja 23 §:ää, 13 luvun 1, 2, 5, 6, 12, 17–32, 34, 35 ja 39 §:ää, 14 lukua, 16 luvun 1–3 §:ää eikä 17 luvun 2 §:ää.",
+      "section_number": "2",
+      "chapter_number": 1,
+      "statute_id": "946/2021"
+    },
+    {
+      "id": "e54fe237-cd92-426b-9dbf-82783d315d28",
+      "node_type": "Section",
+      "publisher": "finlex",
+      "title": "3 § Määritelmät",
+      "text": "Tässä laissa tarkoitetaan:",
+      "section_number": "3",
+      "chapter_number": 1,
+      "statute_id": "946/2021"
+    },
+    {
+      "id": "a3a2907b-cc04-4fdf-9510-2284f49e948e",
+      "node_type": "Section",
+      "publisher": "finlex",
+      "title": "4 § Toiminnan tarkoitus ja toiminta ennen rekisteröintiä",
+      "text": "Vakuutuskassan tarkoituksena on 5 tai 7 §:ssä tarkoitetussa toimintapiirissään harjoittaa 1 §:ssä tarkoitettua toimintaa muutoin kuin liikemäisesti ja hoitaa kassalle tätä varten kertyviä varoja vakuutettujen edut turvaavalla tavalla. Vakuutuskassa ei saa harjoittaa muuta toimintaa. Ennen rekisteröintiä vakuutuskassa ei voi hankkia oikeuksia, tehdä sitoumuksia eikä olla asianosaisena tuomioistuimessa tai muussa viranomaisessa. Vakuutuskassan puolesta ennen sen rekisteröintiä tehdystä toimesta vastaavat toimesta päättäneet tai siihen osallistuneet yhteisvastuullisesti. Hallitus ja toimitusjohtaja voivat ilman henkilökohtaista vastuuta käyttää puhevaltaa vakuutuskassan perustamista koskevissa asioissa.",
+      "section_number": "4",
+      "chapter_number": 1,
+      "statute_id": "946/2021"
+    },
+    {
+      "id": "e47dc4e2-eec0-436b-9218-6140836b0731",
+      "node_type": "Section",
+      "publisher": "finlex",
+      "title": "5 § Sairauskassan toimintapiiri",
+      "text": "Työpaikkakassan toimintapiiristä säädetään sairausvakuutuslain 16 luvun 1 §:ssä. Täydennyskassan säännöissä tulee määritellä sen toimintapiiri siten, että sen voi muodostaa: Täydennyskassan toimintapiirin voi muodostaa myös määrätty osa 2 momentissa tarkoitetusta toimintapiiristä. Vakuutuskassatoiminnan harjoittamisen 2 momentin 2–5 kohdassa tarkoitetussa toimintapiirissä tulee olla tarkoituksenmukaista. Mainitun momentin 5 kohdassa tarkoitettuun rekisteröidyn yhdistyksen jäsenyyden perusteella määriteltyyn toimintapiiriin vaikuttavia muutoksia saadaan tehdä vain Finanssivalvonnan suostumuksella.",
+      "section_number": "5",
+      "chapter_number": 1,
+      "statute_id": "946/2021"
+    },
+    {
+      "id": "265a766d-481b-48ba-adbb-bcab490a8f9e",
+      "node_type": "Section",
+      "publisher": "finlex",
+      "title": "6 § Täydennyskassan vakuutetut",
+      "text": "Täydennyskassassa voidaan vakuuttaa vain sen toimintapiiriin kuuluvan työnantajaan työsuhteessa tai muussa palvelussuhteessa tai virkasuhteessa olevia tai toimintapiiriin kuuluvan työnantajan johtoon kuuluvia henkilöitä. Täydennyskassassa voidaan lisäksi vakuuttaa säännöissä määrätyllä toimi- tai ammattialalla olevia yrittäjiä. Täydennyskassassa voidaan vakuuttaa myös 1 momentissa tarkoitettujen henkilöiden perheenjäseniä sekä eläkkeensaajia ja heidän perheenjäseniänsä sekä henkilöitä, jotka olisivat joutuneet eroamaan kassasta, jollei heidän vakuutustaan kassassa olisi jatkettu.",
+      "section_number": "6",
+      "chapter_number": 1,
+      "statute_id": "946/2021"
+    },
+    {
+      "id": "fab19aaa-70a2-4840-af65-def014757556",
+      "node_type": "Section",
+      "publisher": "finlex",
+      "title": "7 § Hautaus- ja eroavustuskassan toimintapiiri ja vakuutetut",
+      "text": "Hautaus- ja eroavustuskassan toimintapiiriin sovelletaan, mitä 5 §:n 2 momentissa säädetään, ja hautaus- ja eroavustuskassan vakuutettuihin sovelletaan, mitä 6 §:ssä säädetään.",
+      "section_number": "7",
+      "chapter_number": 1,
+      "statute_id": "946/2021"
+    },
+    {
+      "id": "20524d4f-d10f-4100-b5b5-16b5b55e1a0d",
+      "node_type": "Section",
+      "publisher": "finlex",
+      "title": "8 § Oikeushenkilöllisyys ja osakkaiden vastuu",
+      "text": "Vakuutuskassa on osakkaistaan erillinen oikeushenkilö, joka syntyy rekisteröimisellä ja joka lakkaa, kun vakuutuskassa on purettu. Vakuutuskassan osakkaan vastuu kassaa kohtaan on rajoitettu siten kuin tässä laissa säädetään ja kassan säännöissä ja vakuutusmaksun laskuperusteissa määrätään.",
+      "section_number": "8",
+      "chapter_number": 1,
+      "statute_id": "946/2021"
+    },
+    {
+      "id": "4997788e-94d4-4509-9029-23309eba7883",
+      "node_type": "Section",
+      "publisher": "finlex",
+      "title": "1 § Vakuutuskassan perustaja",
+      "text": "Työpaikkakassan voi perustaa työnantaja tai työnantajat yhdessä sellaisten työnantajien kanssa, joilla on taloudellinen ja toiminnallinen yhteys, jos toiminnan harjoittaminen yhdessä on tarkoituksenmukaista. Täydennyskassan taikka hautaus- ja eroavustuskassan voi perustaa 1 momentissa tarkoitettu työnantaja tai työnantajat yhdessä sekä:",
+      "section_number": "1",
+      "chapter_number": 2,
+      "statute_id": "946/2021"
+    },
+    {
+      "id": "61d37ba9-98db-40fe-a6bf-d48a74c0862a",
+      "node_type": "Section",
+      "publisher": "finlex",
+      "title": "2 § Vähimmäiskoko",
+      "text": "Työpaikkakassan vakuutettujen määrästä säädetään sairausvakuutuslaissa. Täydennyskassassa ja hautaus- ja eroavustuskassassa on oltava vähintään 100 vakuutettua.",
+      "section_number": "2",
+      "chapter_number": 2,
+      "statute_id": "946/2021"
+    },
+    {
+      "id": "df1e2706-afda-4a69-9cc5-7d8e4fd3d2c5",
+      "node_type": "Section",
+      "publisher": "finlex",
+      "title": "3 § Säännöt",
+      "text": "Vakuutuskassalla tulee olla säännöt, joissa on määrättävä: Lisäksi säännöissä on oltava tieto siitä, miten täydennys-, hautaus- ja eroavustuskassa tiedottaa vakuutetuille ja edunsaajille korvauksia ja avustuksia koskevista sääntömääräyksistä, ja tieto vakuutettujen ja edunsaajien käytettävissä olevista oikeusturvakeinoista. Jos vakuutuskassa on perustettu työnantajan tai työnantajien palveluksessa olevia henkilöitä varten, työnantajan suostumuksella kassan säännöissä voidaan määrätä, että näiden palveluksessa olevat henkilöt ovat vakuutuskassan vakuutettuja. Jos työnantajan suostumus peruutetaan, se on kuitenkin voimassa vielä kuusi kuukautta sen jälkeen, kun ilmoitus peruuttamisesta on saapunut vakuutuskassalle.",
+      "section_number": "3",
+      "chapter_number": 2,
+      "statute_id": "946/2021"
+    },
+    {
+      "id": "3c26902d-45da-4ddc-8eb3-39aa35015dcc",
+      "node_type": "Section",
+      "publisher": "finlex",
+      "title": "4 § Toiminimi",
+      "text": "Vakuutuskassalla on oltava joko suomen- tai ruotsinkielinen toiminimi. Suomenkieliseen nimeen on sisällytettävä sana \"vakuutuskassa\". Sairauskassan toiminimeen voi tämän sanan sijasta kuitenkin sisältyä sana \"sairauskassa\". Vakuutuskassan ruotsinkieliseen toiminimeen on vastaavasti sisällytettävä sana \"försäkringskassa\" tai \"sjukkassa\". Jos vakuutuskassan toiminimellä on useampikielinen ilmaisu, ilmaisujen näillä kielillä on sisällöltään vastattava toisiaan. Vakuutuskassan toiminimen on selvästi erotuttava muiden vakuutuskassojen nimistä. Toiminimi ei saa olla hyvän tavan tai yleisen järjestyksen vastainen eikä omiaan johtamaan yleisöä harhaan.",
+      "section_number": "4",
+      "chapter_number": 2,
+      "statute_id": "946/2021"
+    },
+    {
+      "id": "5d5088fc-4191-442e-8d05-e7b362378c85",
+      "node_type": "Section",
+      "publisher": "finlex",
+      "title": "5 § Osakasluettelo",
+      "text": "Vakuutuskassan on pidettävä osakasluetteloa, johon merkitään osakkaiden nimet ja yritys- ja yhteisötunnus. Osakasluettelon muutoksesta on viipymättä ilmoitettava Finanssivalvonnalle.",
+      "section_number": "5",
+      "chapter_number": 2,
+      "statute_id": "946/2021"
+    },
+    {
+      "id": "1b226d43-e3c2-4b61-9d06-42a6b27d6175",
+      "node_type": "Section",
+      "publisher": "finlex",
+      "title": "1 § Työpaikkakassan hallituksen jäsenet ja varajäsenet",
+      "text": "Työpaikkakassan hallituksessa on oltava vähintään viisi jäsentä ja kullakin heistä henkilökohtainen varajäsen.",
+      "section_number": "1",
+      "chapter_number": 3,
+      "statute_id": "946/2021"
+    },
+    {
+      "id": "0af79176-fc5b-4bfe-bef8-f9dffcb849b2",
+      "node_type": "Section",
+      "publisher": "finlex",
+      "title": "2 § Hallituksen jäsenen ja toimitusjohtajan kelpoisuus",
+      "text": "Hallituksen jäsenen ja toimitusjohtajan on oltava hyvämaineisia ja heillä on oltava vakuutuskassatoiminnan laatuun ja laajuuteen nähden tarpeellinen asiantuntemus. Jos vakuutuskassa sijoittaa varojaan, hallituksessa on oltava myös hyvä sijoitustoiminnan tuntemus. Vajaavaltainen, konkurssissa oleva tai liiketoimintakieltoon määrätty ei voi olla hallituksen jäsen eikä toimitusjohtaja. Vähintään yhdellä hallituksen jäsenellä ja toimitusjohtajalla on oltava asuinpaikka ETA-valtiossa.",
+      "section_number": "2",
+      "chapter_number": 3,
+      "statute_id": "946/2021"
+    },
+    {
+      "id": "7f2c8d62-75d9-420f-8dce-e72c94d58e38",
+      "node_type": "Section",
+      "publisher": "finlex",
+      "title": "3 § Säännösten soveltaminen varajäseneen",
+      "text": "Mitä tässä laissa säädetään hallituksen jäsenestä, sovelletaan vastaavasti hallituksen varajäseneen.",
+      "section_number": "3",
+      "chapter_number": 3,
+      "statute_id": "946/2021"
+    },
+    {
+      "id": "243b9d8b-48be-434e-8ce0-a6e795279485",
+      "node_type": "Section",
+      "publisher": "finlex",
+      "title": "4 § Vastuullinen vakuutusmatemaatikko",
+      "text": "Vakuutuskassalla on oltava vastuullinen vakuutusmatemaatikko, jos kassan vastuuvelkaan sisältyy 4 luvun 3 §:ssä tarkoitettu vakuutusmaksuvastuu. Vastuullisen matemaatikon kelpoisuuden tulee olla sosiaali- ja terveysministeriön vahvistama vakuutusyhtiölain (521/2008) 31 luvun 6 §:n perusteella tai kelpoisuuden tulee olla mainitun luvun 7 §:n nojalla rinnastettavissa tähän. Vastuullisen matemaatikon nimittämisestä ja erottamisesta on ilmoitettava Finanssivalvonnalle.",
+      "section_number": "4",
+      "chapter_number": 3,
+      "statute_id": "946/2021"
+    },
+    {
+      "id": "2f42bdfc-0110-42d6-922d-ce9ae422bac5",
+      "node_type": "Section",
+      "publisher": "finlex",
+      "title": "5 § Tilintarkastajan valinta",
+      "text": "Vakuutuskassan on valittava vähintään yksi tilintarkastuslaissa (1141/2015) tarkoitettu tilintarkastaja. Tilintarkastajan valitsee kassankokous.",
+      "section_number": "5",
+      "chapter_number": 3,
+      "statute_id": "946/2021"
+    },
+    {
+      "id": "9aa49804-b67d-4574-a270-3630026ab2d9",
+      "node_type": "Section",
+      "publisher": "finlex",
+      "title": "6 § Taseeseen merkittävät erät",
+      "text": "Vakuutuskassan taseeseen merkitään: Jos kulukirjaus, joka on tehty 1 momentin 1 kohdan perusteella, osoittautuu viimeistään tilikauden päättymispäivänä aiheettomaksi, se on kirjattava kulukirjauksen oikaisuksi.",
+      "section_number": "6",
+      "chapter_number": 3,
+      "statute_id": "946/2021"
+    },
+    {
+      "id": "64dad6b6-867c-4a03-8248-b70cf3173eac",
+      "node_type": "Section",
+      "publisher": "finlex",
+      "title": "7 § Sijoitusten arvostaminen käypään arvoon",
+      "text": "Sen estämättä, mitä eläkesäätiö- ja eläkekassalain 6 luvun 7 §:ssä säädetään, sijoitussidonnaisen järjestelyn vastuuvelan katteena olevat sijoitukset esitetään taseessa erikseen arvostettuina käypään arvoon. Käyvän arvon muutos merkitään tuotoksi tai kuluksi tuloslaskelmaan. Omaisuuden siirrot muiden sijoitusten ja sijoitussidonnaisen järjestelyn vastuuvelan katteena olevan omaisuuden välillä tapahtuvat käyvillä arvoilla.",
+      "section_number": "7",
+      "chapter_number": 3,
+      "statute_id": "946/2021"
+    },
+    {
+      "id": "df117f89-be08-4295-96f2-4514fc817b1b",
+      "node_type": "Section",
+      "publisher": "finlex",
+      "title": "1 § Vastuuvelka",
+      "text": "Vakuutuskassan sääntöjen mukaisista sitoumuksista aiheutuva vastuu kirjataan vastuuvelaksi, jonka muodostavat korvausvastuu ja vakuutusmaksuvastuu.",
+      "section_number": "1",
+      "chapter_number": 4,
+      "statute_id": "946/2021"
+    },
+    {
+      "id": "bcb341e5-3951-46ee-81be-afce317947ce",
+      "node_type": "Section",
+      "publisher": "finlex",
+      "title": "2 § Korvausvastuu",
+      "text": "Korvausvastuu vastaa sattuneiden vakuutustapahtumien johdosta suoritettavia maksamatta olevia korvausmääriä ja muita määriä.",
+      "section_number": "2",
+      "chapter_number": 4,
+      "statute_id": "946/2021"
+    },
+    {
+      "id": "3a147212-0c2a-4033-aabe-cb7456f363be",
+      "node_type": "Section",
+      "publisher": "finlex",
+      "title": "3 § Vakuutusmaksuvastuu",
+      "text": "Vakuutusmaksuvastuu vastaa tulevista vakuutustapahtumista johtuvien suoritusten pääoma-arvoa. Vakuutuskassalla voi olla indeksikorotusvastuu, jota saa käyttää tulevien korotusten lisäksi ainoastaan laskuperusteiden muuttamisesta aiheutuneen vastuuvelan kasvun peittämiseen siten kuin Finanssivalvonta tarkemmin määrää.",
+      "section_number": "3",
+      "chapter_number": 4,
+      "statute_id": "946/2021"
+    },
+    {
+      "id": "725db27c-7e15-4ac5-b40d-e16c1e05d963",
+      "node_type": "Section",
+      "publisher": "finlex",
+      "title": "4 § Vastuuvelan laskuperusteet",
+      "text": "Vakuutuskassalla on oltava laskuperusteet vastuuvelan määrittämiselle. Vastuuvelan laskennassa käytettävät muuttujat on valittava varovaisuutta noudattaen. Vakuutusmatemaattisten menetelmien tulee olla samoja tilikaudesta toiseen, ellei muuttamiseen ole perusteltua syytä. Jos vakuutuskassan vastuuvelan laskuperusteita muutetaan, perusteita on sovellettava myös niihin henkilöihin, jotka ovat olleet vakuutettuina ennen muutosta, jollei heitä varten laadita eri perusteita. Finanssivalvonta voi antaa tarkempia määräyksiä turvaavuuden ja varovaisuuden noudattamisesta laskuperusteissa ja vastuuvelan laskennassa käytettävien muuttujien valinnasta ja oletuksista.",
+      "section_number": "4",
+      "chapter_number": 4,
+      "statute_id": "946/2021"
+    },
+    {
+      "id": "70bd9050-954e-402c-b2fa-c59f16edda01",
+      "node_type": "Section",
+      "publisher": "finlex",
+      "title": "5 § Vakuutustekninen katevajaus",
+      "text": "Jos vastuuvelan laskentaperusteita muutetaan siten, että uusien laskuperusteiden mukainen vastuuvelka on vanhojen laskuperusteiden mukaista suurempi, Finanssivalvonta voi myöntää vakuutuskassalle luvan pitää vastuuvelka tältä osin pienempänä enintään kymmenen vuoden ajan, jos vakuutuskassan varat eivät riittäisi uusien laskuperusteiden mukaisen vastuuvelan kattamiseen. Finanssivalvonnan luvan myöntämisen edellytyksenä on, että vakuutuskassa laatii suunnitelman erotuksen pienentämiseksi ja Finanssivalvonnan hyväksymän suunnitelman mukaisesti vähentää erotusta vuosittain. Suunnitelman on oltava osakkaiden, vakuutettujen ja edunsaajien saatavilla.",
+      "section_number": "5",
+      "chapter_number": 4,
+      "statute_id": "946/2021"
+    },
+    {
+      "id": "d3659f98-804a-48e3-b3e5-8dc6298fe6be",
+      "node_type": "Section",
+      "publisher": "finlex",
+      "title": "6 § Vakuutusmaksujen laskuperusteet",
+      "text": "Vakuutuskassalla on oltava laskuperusteet vakuutusmaksun määrittämiselle. Vakuutusmaksun laskuperusteet on ilmoitettava Finanssivalvonnalle.",
+      "section_number": "6",
+      "chapter_number": 4,
+      "statute_id": "946/2021"
+    },
+    {
+      "id": "5875fe1c-57f6-4faa-bea8-1429a7bd9d70",
+      "node_type": "Section",
+      "publisher": "finlex",
+      "title": "7 § Vapaakirjan ja takaisinostoarvon laskuperusteet",
+      "text": "Jos henkilö voi vakuutuskassan sääntöjen mukaan saada vapaakirjan, vakuutuskassalla on oltava laskuperusteet vapaakirjan määrittämiselle. Jos vakuutetut osallistuvat vakuutuskassan korvausten tai avustusten rahoittamiseen, vakuutuskassalla on oltava laskuperusteet vakuutettujen maksuosuuksia vastaavan takaisinostoarvon määrittelemiselle. Finanssivalvonta antaa tarkempia määräyksiä 1 momentissa tarkoitetuista laskuperusteista.",
+      "section_number": "7",
+      "chapter_number": 4,
+      "statute_id": "946/2021"
+    },
+    {
+      "id": "f76c4782-dafa-4dcc-933c-524435485851",
+      "node_type": "Section",
+      "publisher": "finlex",
+      "title": "8 § Vakuutettujen etujen turvaaminen",
+      "text": "Tässä luvussa tarkoitetut laskuperusteet on laadittava ja vakuutusmaksut määrättävä vakuutettujen edut turvaavalla tavalla.",
+      "section_number": "8",
+      "chapter_number": 4,
+      "statute_id": "946/2021"
+    },
+    {
+      "id": "7a7e973a-974a-4580-a830-aaa766761b71",
+      "node_type": "Section",
+      "publisher": "finlex",
+      "title": "9 § Maksuosuuksien eriyttäminen maksuperusteisessa järjestelyssä",
+      "text": "Jos vakuutetut osallistuvat korvausten tai avustusten rahoittamiseen, vakuutuskassan vastaanottamat vakuutusmaksut on eriteltävä osakkaan ja vakuutettujen maksuosuuksiin.",
+      "section_number": "9",
+      "chapter_number": 4,
+      "statute_id": "946/2021"
+    },
+    {
+      "id": "0a0679be-b17f-4de9-b77a-ec047f5599c3",
+      "node_type": "Section",
+      "publisher": "finlex",
+      "title": "10 § Vastuuvelan korko",
+      "text": "Vastuuvelan laskennassa käytettävä korko tulee valita varovaisuutta noudattaen.",
+      "section_number": "10",
+      "chapter_number": 4,
+      "statute_id": "946/2021"
+    },
+    {
+      "id": "719a03cd-70b9-4745-8b1b-779713d909a5",
+      "node_type": "Section",
+      "publisher": "finlex",
+      "title": "11 § Vararahasto",
+      "text": "Vakuutuskassalla on oltava tässä luvussa tarkoitettu vararahasto, jota tulee vuosittain kartuttaa vähintään 20 prosentilla tilinpäätöksen osoittamasta ylijäämästä. Kun vararahasto on vähintään yhtä suuri kuin tilikauden ja kahden edellisen tilikauden maksutulon keskimäärä, siirtoa vararahastoon ei tarvitse enää tehdä. Vararahastoa saadaan alentaa kassankokouksen päätöksen mukaisesti ainoastaan vahvistetun taseen osoittaman alijäämän peittämiseksi. Finanssivalvonta voi myös hakemuksesta antaa vakuutuskassalle luvan erityisistä syistä alentaa vararahaston määrää, ei kuitenkaan 1 momentin mukaista täyden vararahaston määrää pienemmäksi. Vakuutuskassalla voi olla myös muita rahastoja, joita kartutetaan ja käytetään säännöissä määrätyllä tavalla.",
+      "section_number": "11",
+      "chapter_number": 4,
+      "statute_id": "946/2021"
+    },
+    {
+      "id": "8981a32d-92bb-4ee9-afd4-2484648fffff",
+      "node_type": "Section",
+      "publisher": "finlex",
+      "title": "12 § Tilinpäätöksen alijäämän peittäminen",
+      "text": "Jos vakuutuskassan tilinpäätös osoittaa alijäämää, sen peittämiseen tulee käyttää ensin ylijäämä edellisiltä tilikausilta ja sitten 11 §:n mukaiset rahastot ja perustamispääoma. Jollei alijäämää saada peitetyksi, niille, jotka tilikauden aikana ovat olleet velvollisia suorittamaan maksuja vakuutuskassalle, on viipymättä määrättävä lisämaksu, jos vakuutuskassan säännöissä on lisämaksun suorittamiseen velvoittava määräys. Lisämaksun tulee olla suhteellinen tilikaudelta suoritettavaan maksuun ja enintään sen suuruinen. Lisämaksu saa ylittää enintään 20 prosentilla puuttuvan määrän. Jollei maksuvelvollinen määräaikana suorita hänelle määrättyä lisämaksua, se on viipymättä pantava ulosottotoimin perittäväksi. Jollei lisämaksua saada perityksi, puuttuva määrä on, siinä määrin kuin sen periminen vielä on tarpeen, jaettava toisten maksuvelvollisten maksettavaksi ottaen kuitenkin huomioon 1 momentissa mainittu rajoitus. Lisämaksu viivästyskorkoineen on suoraan ulosottokelpoinen. Sen perimisestä säädetään verojen ja maksujen täytäntöönpanosta annetussa laissa (706/2007).",
+      "section_number": "12",
+      "chapter_number": 4,
+      "statute_id": "946/2021"
+    },
+    {
+      "id": "1a0f1923-3017-4bac-925b-55d2c5c18adf",
+      "node_type": "Section",
+      "publisher": "finlex",
+      "title": "13 § Katteen eriyttäminen",
+      "text": "Jos vakuutetut osallistuvat korvauksien tai avustuksien rahoittamiseen, osakkaiden ja vakuutettujen rahoittama osuus vastuuvelan katteesta on eriytettävä toisistaan. Sellaisen korvauksen tai avustuksen vastuuvelan katteena olevat varat, jossa korvauksen tai avustuksen määrä on sidottu tiettyjen sijoituskohteiden arvonkehitykseen, on 1 momentissa säädetyn lisäksi eriytettävä muusta vastuuvelan katteesta.",
+      "section_number": "13",
+      "chapter_number": 4,
+      "statute_id": "946/2021"
+    },
+    {
+      "id": "cb3ea73f-8549-4dc1-b1dc-0aa1e2c66c1f",
+      "node_type": "Section",
+      "publisher": "finlex",
+      "title": "14 § Pysyvä ylikate",
+      "text": "Jos vakuutuskassan varojen arvioidaan tilinpäätöksen yhteydessä pysyvästi kattavan vastuuvelan määrän sekä ylittävän vastuuvelan ja muiden velkojen määrän, erotusta vastaavat varat saadaan Finanssivalvonnan luvalla palauttaa osakkaille vastuuvelkojen mukaisessa suhteessa. Siltä osin kuin erotus on karttunut vakuutettujen suorittamista maksuista, palautusta osakkaalle ei saa tehdä.",
+      "section_number": "14",
+      "chapter_number": 4,
+      "statute_id": "946/2021"
+    },
+    {
+      "id": "bd1b9c99-e1b3-44d4-ae70-dec9671d26d5",
+      "node_type": "Section",
+      "publisher": "finlex",
+      "title": "1 § Varojen sijoittaminen",
+      "text": "Vakuutuskassan varat on sijoitettava tuottavasti ja turvaavasti sekä maksuvalmius varmistaen. Vastuuvelan katteena olevat varat on hajautettava riittävällä tavalla.",
+      "section_number": "1",
+      "chapter_number": 5,
+      "statute_id": "946/2021"
+    },
+    {
+      "id": "313a4407-37d3-47d2-bff3-3d5ff99e040f",
+      "node_type": "Section",
+      "publisher": "finlex",
+      "title": "2 § Sijoitussuunnitelma",
+      "text": "Vakuutuskassan hallituksen on laadittava sijoitussuunnitelma. Finanssivalvonta antaa tarkempia määräyksiä sijoitussuunnitelmasta.",
+      "section_number": "2",
+      "chapter_number": 5,
+      "statute_id": "946/2021"
+    },
+    {
+      "id": "c78ac473-d34b-49c6-abd1-1edc549d6094",
+      "node_type": "Section",
+      "publisher": "finlex",
+      "title": "3 § Varojen käyttö",
+      "text": "Vakuutuskassan varoja ei saa käyttää vakuutuskassan toiminnalle vieraaseen tarkoitukseen 1 luvun 4 §:n 1 momentissa säädetyn toiminnan tarkoituksen vastaisesti.",
+      "section_number": "3",
+      "chapter_number": 5,
+      "statute_id": "946/2021"
+    },
+    {
+      "id": "2f975e77-8662-4eea-9bdd-1b842b18de83",
+      "node_type": "Section",
+      "publisher": "finlex",
+      "title": "4 § Lainanottoa ja takausta koskevat rajoitukset",
+      "text": "Vakuutuskassan on sopeutettava toimintansa sellaiseksi, että toiminta on mahdollista ilman lainanottoa. Vakuutuskassa saa ottaa tilapäisesti lyhytaikaisia lainoja maksuvalmiuden ylläpitämiseksi. Vakuutuskassa ei saa antaa takausta.",
+      "section_number": "4",
+      "chapter_number": 5,
+      "statute_id": "946/2021"
+    },
+    {
+      "id": "292ef8af-30f9-42c2-83ba-b25ec4bbdaf3",
+      "node_type": "Section",
+      "publisher": "finlex",
+      "title": "5 § Vastuuvelan kate",
+      "text": "Vakuutuskassan on katettava 4 luvun 1 §:ssä tarkoitettu vastuuvelka, josta on ensin vähennetty seuraavat erät: Katettaessa vastuuvelka on otettava huomioon, millaista vakuuttamista vakuutuskassa harjoittaa, ja tämän mukaisesti huolehdittava katteeseen kuuluvien varojen ja sitoumusten varmuudesta, tuotosta ja rahaksi muutettavuudesta sekä asianmukaisesta monipuolisuudesta ja hajauttamisesta. Finanssivalvonta voi yksittäistapauksessa määrätä, jos siihen 2 momentin soveltamisen kannalta on erityistä syytä, ettei tiettyjä varoja saa lukea eläkekassan vastuuvelan katteeseen. Vakuutuskassan on luetteloitava vastuuvelan kate. Finanssivalvonta voi antaa tarkempia määräyksiä kateluettelon muodosta ja säilyttämisestä, omaisuuserien luetteloon merkitsemisestä ja erien merkitsemisajankohdista sekä luettelon laatimisajankohdasta.",
+      "section_number": "5",
+      "chapter_number": 5,
+      "statute_id": "946/2021"
+    },
+    {
+      "id": "27b95b14-8a0c-4cff-9dfa-981465328d23",
+      "node_type": "Section",
+      "publisher": "finlex",
+      "title": "6 § Katevarojen arvostaminen",
+      "text": "Varat, joilla katetaan 5 §:n mukaisesti laskettu vastuuvelka, arvostetaan käypään arvoon siten kuin Finanssivalvonta tarkemmin määrää.",
+      "section_number": "6",
+      "chapter_number": 5,
+      "statute_id": "946/2021"
+    },
+    {
+      "id": "3d04471e-f426-47e0-abf0-b4532162355d",
+      "node_type": "Section",
+      "publisher": "finlex",
+      "title": "7 § Vastuuvelan katteeksi hyväksyttävät varat ja vakuudet",
+      "text": "Edellä 5 §:n mukaisesti lasketun vastuuvelan katteen on oltava: Vakuutuskassan hakemuksesta Finanssivalvonta voi erityisistä syistä hyväksyä enintään kahden vuoden määräajaksi vastuuvelan katteeksi muuta kuin 1 momentissa tarkoitettua omaisuutta, joka on riskiltään samankaltaista kuin kyseinen omaisuus.",
+      "section_number": "7",
+      "chapter_number": 5,
+      "statute_id": "946/2021"
+    },
+    {
+      "id": "5b75a3fb-bf98-4a7a-82da-b49a86b4fde5",
+      "node_type": "Section",
+      "publisher": "finlex",
+      "title": "8 § Johdannaissopimukset",
+      "text": "Johdannaissopimuksia saadaan käyttää, jos ne pienentävät sijoitusriskiä tai mahdollistavat sijoitusten tehokkaan hoidon. Johdannaissopimusten kohde-etuuksien yhteismäärä saa olla enintään yhtä suuri kuin niiden raha- ja pääomamarkkinavälineiden ja osakkeiden ja osuuksien yhteismäärä, jotka ovat vastuuvelan katteena. Johdannaissopimukset on arvostettava varovaisesti. Finanssivalvonta antaa tarvittaessa tarkemmat määräykset johdannaissopimusten käytöstä katteen yhteydessä.",
+      "section_number": "8",
+      "chapter_number": 5,
+      "statute_id": "946/2021"
+    },
+    {
+      "id": "2a61f4c9-c390-4f6d-9a9e-fe1b9efa2f51",
+      "node_type": "Section",
+      "publisher": "finlex",
+      "title": "9 § Sijoitukset yhteen yhteisöön",
+      "text": "Katettavasta vastuuvelasta enintään määrä, joka vastaa 10 prosenttia vastuuvelan kokonaismäärästä, saadaan kattaa sijoituksella yhteen yhteisöön. Sijoituksena yhteen yhteisöön pidetään sijoituksia: Tätä pykälää ei sovelleta:",
+      "section_number": "9",
+      "chapter_number": 5,
+      "statute_id": "946/2021"
+    },
+    {
+      "id": "d9a48945-39d1-4952-9abc-6eb1ec33c584",
+      "node_type": "Section",
+      "publisher": "finlex",
+      "title": "10 § Sijoitukset yhteen konserniin",
+      "text": "Tässä luvussa säädettyjä enimmäisrajoja sovellettaessa on laskettava yhteen sijoitukset, jotka kohdistuvat tai liittyvät yhteisön kanssa samaan konserniin kuuluvaan muuhun yhteisöön.",
+      "section_number": "10",
+      "chapter_number": 5,
+      "statute_id": "946/2021"
+    },
+    {
+      "id": "af135b0b-96f5-49c1-8de1-94aa388aec28",
+      "node_type": "Section",
+      "publisher": "finlex",
+      "title": "11 § Sijoitusrahastot ja vaihtoehtorahastot",
+      "text": "Osuuksiin sijoitusrahastoissa ja vaihtoehtorahastoissa ei sovelleta 9 ja 10 §:ää.",
+      "section_number": "11",
+      "chapter_number": 5,
+      "statute_id": "946/2021"
+    },
+    {
+      "id": "72f40842-783a-4206-84c6-8e7be42289bf",
+      "node_type": "Section",
+      "publisher": "finlex",
+      "title": "12 § Valuuttariski",
+      "text": "Enintään 30 prosenttia vastuuvelan kokonaismäärän katteena olevista varoista ja sitoumuksista saa olla muun valuutan kuin euron määräisiä taikka sellaisia varoja ja sitoumuksia, joita ei ole täysin suojattu valuuttakurssien muutoksilta. Finanssivalvonta antaa tarvittaessa tarkemmat määräykset valuuttariskin rajoittamisesta ja valuuttaliikkeen järjestämisestä.",
+      "section_number": "12",
+      "chapter_number": 5,
+      "statute_id": "946/2021"
+    },
+    {
+      "id": "c65c11a3-968a-4407-bfa3-82ec37e26255",
+      "node_type": "Section",
+      "publisher": "finlex",
+      "title": "13 § Osakkaan toimintaan liittyvä omaisuus",
+      "text": "Vastuuvelan kokonaismäärän katteena olevista varoista saa olla sijoitettuna omaisuuteen, jonka arvo riippuu pääosin osakkaan toiminnasta, enintään 25 prosenttia, josta yhden toiminnallisen kokonaisuuden muodostavaan kohteeseen saa olla sijoitettuna enintään 15 prosenttia vastuuvelan kokonaismäärän katteena olevista varoista. Finanssivalvonta voi erityisestä syystä myöntää määräajaksi poikkeuksen 1 momentin säännöksistä.",
+      "section_number": "13",
+      "chapter_number": 5,
+      "statute_id": "946/2021"
+    },
+    {
+      "id": "84194dba-fb00-4ede-879e-33edb5a0c7d9",
+      "node_type": "Section",
+      "publisher": "finlex",
+      "title": "14 § Sijoitussidonnaisen järjestelyn vastuuvelan kate",
+      "text": "Jos korvauksen tai avustuksen määrä on sidottu tiettyjen sijoituskohteiden arvonkehitykseen, vastuuvelan kattamiseen ei sovelleta, mitä 9–12 §:ssä säädetään. Tällöin vastuuvelasta on katettava vähintään 95 prosenttia järjestelyn arvonkehityksen määrääviin sijoituskohteisiin kuuluvilla varoilla. Sijoituskohteisiin tulee kuulua omaisuuseriä, joiden käypä arvo on jatkuvasti vaikeuksitta määriteltävissä ja jotka voidaan muuttaa rahaksi järjestelyn ehtojen mukaisesti. Finanssivalvonta voi antaa tarkempia määräyksiä sijoitussidonnaisten järjestelyjen sijoitusriskin seurannasta.",
+      "section_number": "14",
+      "chapter_number": 5,
+      "statute_id": "946/2021"
+    },
+    {
+      "id": "defea8d6-4b4d-4197-a495-ae11b42d3454",
+      "node_type": "Section",
+      "publisher": "finlex",
+      "title": "15 § Sosiaali- ja terveysministeriön asetuksenantovaltuus",
+      "text": "Sosiaali- ja terveysministeriön asetuksella voidaan antaa tarkempia säännöksiä siitä, että tietyt 7 §:n mukaiset katteeseen hyväksyttävät varat arvostetaan niiden käyvästä arvosta poikkeavasti, jos se on omaisuuslajin luonteeseen liittyvän käyvän arvon suuren vaihtelun vuoksi tai muusta syystä välttämätöntä.",
+      "section_number": "15",
+      "chapter_number": 5,
+      "statute_id": "946/2021"
+    },
+    {
+      "id": "59dd217b-bd87-46f9-a6ba-119a82ba129f",
+      "node_type": "Section",
+      "publisher": "finlex",
+      "title": "16 § Omaisuudenhoitajan ja säilytysyhteisön käyttäminen",
+      "text": "Vakuutuskassalla on vakuutustoimintaa koskevien varojen osalta oikeus käyttää varojensa hoitajina ETA-valtioon sijoittautuneita omaisuudenhoitajia, jotka on hyväksytty jonkin seuraavan direktiivin mukaisesti: Edellä 1 momentissa tarkoitettuna omaisuudenhoitajana saadaan käyttää myös mainitun momentin 4 kohdassa mainitun direktiivin 2 artiklan 1 kohdassa tarkoitettuja laitoksia. Vakuutuskassalla on oikeus käyttää vakuutustoimintaa koskevien varojen osalta varojensa säilyttäjinä ETA-valtioon sijoittautuneita säilytysyhteisöjä, jotka on hyväksytty 1 momentin 1, 2 tai 4 kohdassa mainitun direktiivin mukaisesti.",
+      "section_number": "16",
+      "chapter_number": 5,
+      "statute_id": "946/2021"
+    },
+    {
+      "id": "f34b0f58-90c9-47a8-b035-cc142ce1a129",
+      "node_type": "Section",
+      "publisher": "finlex",
+      "title": "1 § Soveltamisala",
+      "text": "Tätä lukua ei sovelleta työpaikkakassojen sairausvakuutuslain mukaisiin etuuksiin. Mitä tässä luvussa säädetään vakuutetusta, sovelletaan myös edunsaajaan. Luvun 9 §:ää ei kuitenkaan sovelleta vapaakirjan saaneeseen.",
+      "section_number": "1",
+      "chapter_number": 6,
+      "statute_id": "946/2021"
+    },
+    {
+      "id": "57b34595-6592-44d1-8515-8b886effe330",
+      "node_type": "Section",
+      "publisher": "finlex",
+      "title": "2 § Vakuutetulle annettavat tiedot",
+      "text": "Vakuutuskassan on annettava vakuutetulle järjestelyyn liityttäessä vakuutuskassan säännöt. Vakuutuskassan on kohtuullisen ajan kuluessa tiedotettava sääntömuutoksista vakuutetuille.",
+      "section_number": "2",
+      "chapter_number": 6,
+      "statute_id": "946/2021"
+    },
+    {
+      "id": "702280df-f55c-42f7-8768-cdf9f6043de9",
+      "node_type": "Section",
+      "publisher": "finlex",
+      "title": "3 § Etuuden hakeminen",
+      "text": "Etuutta on haettava kirjallisesti. Hakijan on annettava vakuutuskassalle sellaiset asiakirjat ja tiedot, jotka ovat tarpeen vakuutuskassan vastuun arvioimiseksi ja joita häneltä kohtuudella voidaan vaatia ottaen huomioon myös vakuutuskassan mahdollisuus hankkia selvitys.",
+      "section_number": "3",
+      "chapter_number": 6,
+      "statute_id": "946/2021"
+    },
+    {
+      "id": "bd7fdadf-164c-4180-a275-f666b639489a",
+      "node_type": "Section",
+      "publisher": "finlex",
+      "title": "4 § Hakemuksen jättämisaika ja etuuden vanhentuminen",
+      "text": "Etuutta on haettava kuuden kuukauden kuluessa vakuutustapahtumasta, jollei vakuutuskassan säännöissä ole määrätty pitempää aikaa. Hakemuksen myöhästymisestä huolimatta etuus voidaan myöntää joko kokonaan tai osaksi, jos sen epäämistä on pidettävä kohtuuttomana.",
+      "section_number": "4",
+      "chapter_number": 6,
+      "statute_id": "946/2021"
+    },
+    {
+      "id": "ed8265f9-6cb1-481c-8e99-a90713019a8b",
+      "node_type": "Section",
+      "publisher": "finlex",
+      "title": "5 § Etuuden hakeminen vakuutetun puolesta",
+      "text": "Jos vakuutettu ei iän, vamman, sairauden tai muun niihin rinnastettavan syyn takia kykene itse hakemaan etuutta eikä hänellä ole edunvalvojaa tai edunvalvontavaltuutettua, vakuutuskassan hyväksymä vakuutetun lähiomainen tai muu hänestä pääasiallisesti huolehtiva henkilö saa käyttää vakuutetun puhevaltaa, kunnes tälle on määrätty edunvalvoja tai vahvistettu edunvalvontavaltuutettu.",
+      "section_number": "5",
+      "chapter_number": 6,
+      "statute_id": "946/2021"
+    },
+    {
+      "id": "05c9986d-0ac7-4d35-b05a-b3874ba6407c",
+      "node_type": "Section",
+      "publisher": "finlex",
+      "title": "6 § Ilmoitusvelvollisuus",
+      "text": "Vakuutettu on velvollinen ilmoittamaan vakuutuskassalle sellaisista muutoksista, jotka vaikuttavat hänen oikeuteensa saada etuutta tai etuuden määrään, jos tästä velvollisuudesta on mainittu etuutta koskevassa päätöksessä. Vakuutuskassa voi vaatia vakuutetulta selvityksen etuuden määrään vaikuttavista seikoista ja selvityksen siitä, että hän edelleen täyttää etuuden saamisen edellytykset. Jollei vakuutettu ole toimittanut sanottua selvitystä vakuutuskassalle sen määräämässä kohtuullisessa ajassa, vakuutuskassa voi päättää, että etuuden suorittaminen keskeytetään, kunnes selvitys on toimitettu.",
+      "section_number": "6",
+      "chapter_number": 6,
+      "statute_id": "946/2021"
+    },
+    {
+      "id": "13f61155-1354-4a9d-aa21-524ba0a969ed",
+      "node_type": "Section",
+      "publisher": "finlex",
+      "title": "7 § Etuuden maksaminen kertasuorituksena",
+      "text": "Vakuutuskassalla on oikeus maksaa kertasuorituksena etuus, joka on pienempi kuin kolmekymmentä euroa kuukaudessa tai vakuutetun suostumuksella pienempi kuin 100 euroa kuukaudessa. Kertasuoritus lasketaan Finanssivalvonnan määräysten mukaisesti. Edellä 1 momentissa säädettyjä euromääriä tarkistetaan vuosittain tammikuun alusta lukien työntekijän eläkelain (395/2006) 98 §:ssä tarkoitetulla työeläkeindeksillä. Tarkistettu euromäärä pyöristetään lähimpään euroon.",
+      "section_number": "7",
+      "chapter_number": 6,
+      "statute_id": "946/2021"
+    },
+    {
+      "id": "111b8d97-7d22-4642-8dbc-1325bc388f60",
+      "node_type": "Section",
+      "publisher": "finlex",
+      "title": "8 § Etuuden suorituksen viivästyminen",
+      "text": "Etuuden suorituksen viivästyessä vakuutuskassan on maksettava myöhästyneelle suoritukselle korkolain (633/1982) 4 §:ssä tarkoitettua viivästyskorkoa, joka lasketaan viivästysajan jokaiselta päivältä. Viivästysaika alkaa, kun kolme kuukautta on kulunut sen kalenterikuukauden päättymisestä, jona vakuutettu on jättänyt vakuutuskassalle hakemuksensa ja 3 §:ssä tarkoitetut asiakirjat ja tiedot. Saman päätöksen perusteella myöhemmin suoritettavalle etuuserälle viivästyskorkoa lasketaan eräpäivästä lukien. Jos 1 momentissa tarkoitettua etuutta ei ole voitu vakuutetusta johtuvasta syystä maksaa oikeassa ajassa, vakuutuskassa ei ole velvollinen maksamaan korkolain 4 §:ssä tarkoitettua korkoa pitemmältä ajalta kuin siitä päivästä, jona este vakuutuskassan tieten on lakannut. Jos etuuden suorittaminen viivästyy lain säännöksen vuoksi taikka yleisen liikenteen tai maksuliikenteen keskeytymisen taikka muun sen kaltaisen ylivoimaisen esteen vuoksi, vakuutuskassa ei ole velvollinen maksamaan mainitussa pykälässä tarkoitettua korkoa tällaisen esteen aiheuttamalta viivästysajalta.",
+      "section_number": "8",
+      "chapter_number": 6,
+      "statute_id": "946/2021"
+    },
+    {
+      "id": "f5764ea8-f2cc-4144-9b90-b7ea53b9e880",
+      "node_type": "Section",
+      "publisher": "finlex",
+      "title": "9 § Vakuutetun tai edunsaajan oikeus vapaakirjaan vakuutuskassassa",
+      "text": "Jos vakuutussuhde vakuutuskassassa on päättynyt vakuutuskassan jatkaessa toimintaansa, aiemmin vakuutetulla henkilöllä tai edunsaajana olleella ei ole osuutta vakuutuskassan varoihin, ellei säännöissä toisin määrätä. Jos vakuutussuhde päättyy ennen vakuutustapahtuman sattumista, aiemmin vakuutettuna olleelle henkilölle tai tämän edunsaajalle on kuitenkin annettava vapaakirjana vähintään vakuutetun omia maksuja vastaava osuus korvaus- ja vakuutusmaksuvastuusta.",
+      "section_number": "9",
+      "chapter_number": 6,
+      "statute_id": "946/2021"
+    },
+    {
+      "id": "e29add5f-adf5-44c3-8c92-fdef2f0fe91c",
+      "node_type": "Section",
+      "publisher": "finlex",
+      "title": "10 § Vakuutuskassan etuuksien vähentäminen",
+      "text": "Sääntömuutosta, joka koskee etuuden pienentämistä, ei saa soveltaa vakuutustapahtumaan, joka on sattunut ennen muutoksen voimaantuloa. Vakuutuskassan etuuksien vähentämisestä päättää kassankokous. Sen estämättä, mitä eläkesäätiö- ja eläkekassalain 2 luvun 15 §:ssä säädetään, päätös on pätevä, jos vakuutetut, osakkaat tai edustajiston jäsenet, joilla on vähintään kaksi kolmasosaa tai säännöissä määrätty suurempi äänimäärä kokouksessa edustetusta äänimäärästä ovat sitä kannattaneet. Sääntömuutokseen, joka rajoittaa etuuden tulevaa kasvua, ei sovelleta 1 momenttia.",
+      "section_number": "10",
+      "chapter_number": 6,
+      "statute_id": "946/2021"
+    },
+    {
+      "id": "53837c66-3d47-49d6-81f2-e6d21e3f6077",
+      "node_type": "Section",
+      "publisher": "finlex",
+      "title": "11 § Etuuden alentaminen tai epääminen vakuutetusta johtuvasta syystä",
+      "text": "Jos vakuutettu tai hänen edustajansa on järjestelyyn liittyessään tai etuutta hakiessaan vilpillisesti antanut vakuutuskassalle vääriä tai harhaanjohtavia tietoja, joilla on merkitystä vakuutuskassan sääntöjen mukaisen etuuden saamiseen tai suuruuteen, vakuutetulle kuuluva etuus voidaan evätä tai sitä voidaan alentaa siten kuin olosuhteet huomioon ottaen on kohtuullista. Vakuutuskassa on vastuusta vapaa sellaista vakuutettua kohtaan, joka on tahallisesti aiheuttanut vakuutustapahtuman. Jos vakuutettu on aiheuttanut vakuutustapahtuman törkeästä huolimattomuudesta, hänelle kuuluva etuus voidaan evätä tai sitä voidaan alentaa tai jo myönnetyn etuuden suorittaminen keskeyttää sen mukaan kuin olosuhteet huomioon ottaen on kohtuullista.",
+      "section_number": "11",
+      "chapter_number": 6,
+      "statute_id": "946/2021"
+    },
+    {
+      "id": "1a9aeb9f-c9b9-4f26-9973-4f6d842e08ae",
+      "node_type": "Section",
+      "publisher": "finlex",
+      "title": "12 § Syyntakeettomuus ja pakkotila",
+      "text": "Mitä 11 §:n 2 momentissa säädetään, ei sovelleta, jos vakuutettu oli sellaisessa iässä tai mielentilassa, ettei häntä olisi voitu tuomita rangaistukseen rikoksesta. Mainitussa momentissa säädettyä ei sovelleta myöskään, jos vakuutettu oli toiminut henkilön tai omaisuuden vahingoittumisen estämiseksi tai muun oikeudellisesti suojattua etua uhkaavan välittömän ja pakottavan vaaran torjumiseksi sellaisissa olosuhteissa, että toimenpide oli kokonaisuutena puolustettavissa, kun otetaan huomioon pelastettavan edun ja teolla aiheutetun vahingon ja haitan laatu ja suuruus, vaaran alkuperä sekä muut olosuhteet.",
+      "section_number": "12",
+      "chapter_number": 6,
+      "statute_id": "946/2021"
+    },
+    {
+      "id": "85ee8673-4616-4827-8120-48605c62e036",
+      "node_type": "Section",
+      "publisher": "finlex",
+      "title": "13 § Aiheettomasti maksetun etuuden takaisinperintä",
+      "text": "Jos etuutta on suoritettu enemmän kuin mihin vakuutetulla on ollut oikeus, aiheettomasti maksettu etuus on perittävä takaisin. Aiheettomasti maksettu etuus voidaan jättää osittain tai kokonaan takaisin perimättä, jos tämä katsotaan kohtuulliseksi ja etuuden maksamisen ei ole katsottava johtuneen vakuutetun tai hänen edustajansa vilpillisestä menettelystä tai jos takaisin perittävä määrä on vähäinen. Aiheettomasti maksettu etuus saadaan periä takaisin myös kuittaamalla se vastaisuudessa suoritettavista etuuksista. Kulloinkin suoritettavasta etuudesta ei saa vakuutetun suostumuksetta kuitenkaan vähentää enempää kuin kuudesosan siitä etuuden osasta, joka jää jäljelle sen jälkeen, kun etuudesta on ennakkoperintälain (1118/1996) nojalla pidätetty ennakko tai rajoitetusti verovelvollisen tulon verottamisesta annetun lain (627/1978) nojalla lähdevero.",
+      "section_number": "13",
+      "chapter_number": 6,
+      "statute_id": "946/2021"
+    },
+    {
+      "id": "5eaee4a3-4e63-49ab-9fb3-da814faf4a73",
+      "node_type": "Section",
+      "publisher": "finlex",
+      "title": "14 § Tieto oikeusturvakeinoista",
+      "text": "Etuutta koskevasta päätöksestä on käytävä ilmi, millä tavalla asia voidaan saattaa tuomioistuimen käsiteltäväksi ja toimivaltainen tuomioistuin sekä kanneaika ja mistä se lasketaan. Jos asia voidaan saattaa vaihtoehtoisen riidanratkaisuelimen käsiteltäväksi, 1 momentissa säädettyä tiedonantovelvollisuutta sovelletaan myös vaihtoehtoisesta riidanratkaisusta annettaviin tietoihin.",
+      "section_number": "14",
+      "chapter_number": 6,
+      "statute_id": "946/2021"
+    },
+    {
+      "id": "f26e53f9-1881-49d5-a833-bf7ecb8d8c49",
+      "node_type": "Section",
+      "publisher": "finlex",
+      "title": "15 § Kanneaika ja oikeuspaikka",
+      "text": "Kanne vakuutuskassan päätöksestä on oikeuden menettämisen uhalla nostettava kolmen vuoden kuluessa siitä, kun asianosainen on saanut kirjallisen tiedon päätöksestä ja tästä määräajasta. Vakuutetun vakuutuskassaa vastaan esittämä vaatimus voidaan tutkia myös siinä käräjäoikeudessa, jonka tuomiopiirissä vaatimuksen esittäjällä on kotipaikka tai vakituinen asuinpaikka.",
+      "section_number": "15",
+      "chapter_number": 6,
+      "statute_id": "946/2021"
+    },
+    {
+      "id": "ed472819-535f-4ff7-bb19-df5184bb7d61",
+      "node_type": "Section",
+      "publisher": "finlex",
+      "title": "1 § Vakuutuskassan sulautumisen tai jakautumisen yleiset edellytykset",
+      "text": "Vakuutuskassa voi sulautua vakuutuskassaan, jos sulautuvan vakuutuskassan osakkaat täyttävät vastaanottavan vakuutuskassan toimintapiiriä koskevat 1 luvun 5 ja 7 §:ssä säädetyt vaatimukset. Vakuutuskassa voi jakautua, jos sen osakkaana oleva yritys jakautuu. Sulautumisesta tai jakautumisesta voidaan päättää, vaikka sulautuva, luovuttava tai jakautuva vakuutuskassa on asetettu selvitystilaan.",
+      "section_number": "1",
+      "chapter_number": 7,
+      "statute_id": "946/2021"
+    },
+    {
+      "id": "e8dda3e1-9b77-4d28-a76e-ac3c811b289d",
+      "node_type": "Section",
+      "publisher": "finlex",
+      "title": "2 § Työpaikkakassan sulautuminen ja jakautuminen",
+      "text": "Mitä 1 §:ssä säädetään, ei sovelleta työpaikkakassan sulautumiseen ja jakautumiseen. Työpaikkakassa voi sulautua työpaikkakassaan, jos sulautuvan työpaikkakassan osakkaat täyttävät vastaanottavan työpaikkakassan toimintapiiriä koskevat sairausvakuutuslain 16 luvun 1 §:ssä säädetyt vaatimukset ja sulautumiselle on Kansaneläkelaitoksen suostumus. Kansaneläkelaitoksen suostumukseen sovelletaan, mitä sairausvakuutuslain 16 luvun 1 §:n 2 momentissa säädetään. Työpaikkakassa voi jakautua, jos sen osakkaana oleva yritys jakautuu ja jakautumiselle on Kansaneläkelaitoksen suostumus. Kansaneläkelaitoksen suostumukseen sovelletaan, mitä sairausvakuutuslain 16 luvun 1 §:n 2 momentissa säädetään. Jos Kansaneläkelaitoksen suostumusta sulautumiselle tai jakautumiselle ei haeta kuukauden kuluessa sulautumista tai jakautumista koskevan suunnitelman allekirjoittamisesta, sulautuminen tai jakautuminen raukeaa.",
+      "section_number": "2",
+      "chapter_number": 7,
+      "statute_id": "946/2021"
+    },
+    {
+      "id": "11406a3d-a96a-46d9-a30a-35a8dac3cc30",
+      "node_type": "Section",
+      "publisher": "finlex",
+      "title": "3 § Sääntömääräys",
+      "text": "Vakuutuskassan säännöissä voidaan kieltää sulautuminen tai jakautuminen kokonaan tai osittain.",
+      "section_number": "3",
+      "chapter_number": 7,
+      "statute_id": "946/2021"
+    },
+    {
+      "id": "58ec1c6a-fda6-47f8-b471-c181e3bbe30e",
+      "node_type": "Section",
+      "publisher": "finlex",
+      "title": "4 § Sulautumissuunnitelma",
+      "text": "Sulautumiseen osallistuvien vakuutuskassojen hallitusten on laadittava kirjallinen sulautumissuunnitelma, joka on päivättävä ja allekirjoitettava. Sulautumissuunnitelmassa on oltava ainakin:",
+      "section_number": "4",
+      "chapter_number": 7,
+      "statute_id": "946/2021"
+    },
+    {
+      "id": "affbd5c5-9eaa-4c95-8426-dd5d975bcbb5",
+      "node_type": "Section",
+      "publisher": "finlex",
+      "title": "5 § Jakautumissuunnitelma",
+      "text": "Jakautuvan vakuutuskassan hallituksen ja perustettavan vakuutuskassan perustajien on laadittava kirjallinen jakautumissuunnitelma, joka on päivättävä ja kaikkien perustajien sekä jakautuvan vakuutuskassan hallituksen allekirjoitettava. Jakautumissuunnitelmassa on oltava ainakin:",
+      "section_number": "5",
+      "chapter_number": 7,
+      "statute_id": "946/2021"
+    },
+    {
+      "id": "924441eb-6fcd-4972-b1b8-af8152354a2b",
+      "node_type": "Section",
+      "publisher": "finlex",
+      "title": "6 § Ilmoitus sulautumisen tai jakautumisen täytäntöönpanosta",
+      "text": "Sulautumiseen tai jakautumiseen osallistuvien vakuutuskassojen on tehtävä Finanssivalvonnalle ilmoitus sulautumisen tai jakautumisen täytäntöönpanosta eläkesäätiö- ja eläkekassalain 9 luvun 3 §:ssä tarkoitettuun rekisteriin (eläkesäätiö- ja vakuutuskassarekisteri) merkittäväksi kuuden kuukauden kuluessa sitä koskevan Finanssivalvonnan suostumuksen myöntämisestä, tai sulautuminen tai jakautuminen raukeaa. Ilmoitukseen on liitettävä: Finanssivalvonta voi antaa tarkempia määräyksiä 1 momentissa tarkoitettuun sulautumisen tai jakautumisen täytäntöönpanoilmoitukseen liitettävistä asiakirjoista ja annettavista selvityksistä.",
+      "section_number": "6",
+      "chapter_number": 7,
+      "statute_id": "946/2021"
+    },
+    {
+      "id": "f2d33e8b-0a56-4f53-8aa2-31f8c53654bb",
+      "node_type": "Section",
+      "publisher": "finlex",
+      "title": "7 § Varojen osittamista koskevat periaatteet jakautumisessa",
+      "text": "Tasaavaa kirjanpitojärjestelmää noudattavan vakuutuskassan jakautuessa vastaanottavalle vakuutuskassalle on siirrettävä siirtyvää vakuutuskantaa vastaava osuus jakautuvan vakuutuskassan vastuuvelan katteesta, muista varoista ja veloista. Osakaskohtaista kirjanpitojärjestelmää noudattavan vakuutuskassan jakautuessa perustettavalle vakuutuskassalle on siirrettävä jakautuvan osakkaan osakaskohtaista vakuutuskantaa tai sen siirtyvää osaa vastaava osuus jakautuvan vakuutuskassan vastuuvelan katteesta, muista varoista ja veloista. Jollei jakautumissuunnitelmassa toisin sovita, luovutettaviin varoihin tulee sisällyttää jakautuvan osakkaan toimintaan liittyvät sijoitukset. Muut varat voidaan siirtää rahana.",
+      "section_number": "7",
+      "chapter_number": 7,
+      "statute_id": "946/2021"
+    },
+    {
+      "id": "b419de20-bb02-4148-b76e-8be1a1ef3354",
+      "node_type": "Section",
+      "publisher": "finlex",
+      "title": "8 § Sulautumisen oikeusvaikutukset",
+      "text": "Kun sulautumisen täytäntöönpano on rekisteröity, sulautuvan vakuutuskassan vakuutustoiminta, joka sisältää vastuuvelan sekä muut velat ja varat, siirtyy selvitysmenettelyttä vastaanottavalle vakuutuskassalle. Samanaikaisesti sulautuva vakuutuskassa purkautuu ja kombinaatiosulautumisessa vastaanottava vakuutuskassa syntyy. Sulautuvan vakuutuskassan varoja ja velkoja ei saa merkitä vastaanottavan vakuutuskassan taseeseen korkeammasta arvosta kuin mikä niiden taloudellinen arvo on vastaanottavalle vakuutuskassalle. Sitoumusta työn tai palvelun suorittamiseen ei sulautumisessa saa merkitä taseeseen.",
+      "section_number": "8",
+      "chapter_number": 7,
+      "statute_id": "946/2021"
+    },
+    {
+      "id": "4b3fb18d-f452-49ac-a0f5-acb1a64677d0",
+      "node_type": "Section",
+      "publisher": "finlex",
+      "title": "9 § Jakautumisen oikeusvaikutukset",
+      "text": "Kun jakautumisen täytäntöönpano on rekisteröity, kokonaisjakautumisessa jakautuvan vakuutuskassan varat ja velat ja osittaisjakautumisessa jakautumissuunnitelmassa jaetut varat ja velat siirtyvät selvitysmenettelyttä yhdelle tai useammalle vastaanottavalle vakuutuskassalle. Samanaikaisesti perustettava vakuutuskassa syntyy ja kokonaisjakautumisessa jakautuva vakuutuskassa purkautuu. Jos kokonaisjakautumisessa ilmaantuu varoja, joita ei ole jaettu jakautumissuunnitelmassa, ne kuuluvat vastaanottavalle vakuutuskassalle samassa suhteessa kuin jakautuvan vakuutuskassan netto-omaisuus jaetaan 5 §:n 2 momentin 5 kohdan mukaan, jollei jakautumissuunnitelmassa muuta määrätä. Jakautumiseen osallistuvat vakuutuskassat vastaavat yhteisvastuullisesti jakautuvan vakuutuskassan velasta, jota ei ole jaettu jakautumissuunnitelmassa ja joka on syntynyt ennen kuin jakautumisen täytäntöönpano on rekisteröity. Sellaisista jakautuvan vakuutuskassan veloista, joista toinen vakuutuskassa vastaa jakautumissuunnitelman mukaan, vakuutuskassan vastuun kokonaismäärä on kuitenkin enintään sille jäävän tai siirtyvän netto-omaisuuden arvo.",
+      "section_number": "9",
+      "chapter_number": 7,
+      "statute_id": "946/2021"
+    },
+    {
+      "id": "4a8cffe8-6b81-4407-97cb-bbead71332e3",
+      "node_type": "Section",
+      "publisher": "finlex",
+      "title": "10 § Lopputilitys",
+      "text": "Sulautuvan vakuutuskassan ja kokonaisjakautumisessa jakautuvan vakuutuskassan hallituksen ja toimitusjohtajan on mahdollisimman pian sulautumisen täytäntöönpanon jälkeen laadittava tilinpäätös ja toimintakertomus ajalta, jolta tilinpäätöstä ei vielä ole esitetty kassankokouksessa. Lopputilitys on annettava sulautuvan kassan tilintarkastajalle, jonka on kuukauden kuluessa annettava lopputilitystä koskeva tilintarkastuskertomus. Vakuutuskassan hallituksen on viipymättä 1 momentissa tarkoitettujen toimien jälkeen kutsuttava kassankokous koolle lopputilityksen vahvistamista varten. Lopputilitys on toimitettava Finanssivalvonnalle siten kuin eläkesäätiö- ja eläkekassalain 6 luvun 13 §:n 2 momentissa säädetään tilinpäätöksen toimittamisesta.",
+      "section_number": "10",
+      "chapter_number": 7,
+      "statute_id": "946/2021"
+    },
+    {
+      "id": "acc26f40-5a99-4c40-b70a-ddec5670d5d7",
+      "node_type": "Section",
+      "publisher": "finlex",
+      "title": "1 § Vakuutuskannan luovuttaminen",
+      "text": "Vakuutuskassa voi luovuttaa (luovuttava vakuutuskassa) vakuutuskantansa kokonaan tai osittain toiselle vakuutuskassalle (vastaanottava vakuutuskassa) tai vakuutusyhtiölle. Vakuutuskannan luovuttamiselle on saatava Finanssivalvonnan suostumus. Tätä lukua ei sovelleta työpaikkakassan vakuutuskannan luovuttamiseen.",
+      "section_number": "1",
+      "chapter_number": 8,
+      "statute_id": "946/2021"
+    },
+    {
+      "id": "a1b2e4f5-66db-4f67-9ca8-7ecf576101b9",
+      "node_type": "Section",
+      "publisher": "finlex",
+      "title": "2 § Vastaanottavaa kassaa koskevat rajoitukset",
+      "text": "Vakuutuskanta voidaan luovuttaa vain sellaiselle vakuutuskassalle, jonka toimintapiiriä koskevat 1 luvun 5 tai 7 §:ssä säädetyt vaatimukset työnantaja, johon liittyvää vakuutuskantaa siirretään, täyttää. Mitä edellä säädetään työnantajasta, sovelletaan myös yrittäjään ja henkilöryhmään.",
+      "section_number": "2",
+      "chapter_number": 8,
+      "statute_id": "946/2021"
+    },
+    {
+      "id": "1628b3f5-b1e1-4113-857b-a5f8c83219fd",
+      "node_type": "Section",
+      "publisher": "finlex",
+      "title": "3 § Suunnitelma kannan luovuttamiseksi",
+      "text": "Luovuttavan ja vastaanottavan vakuutuskassan hallituksen on laadittava kirjallinen vakuutuskannan luovuttamista koskeva suunnitelma, joka on päivättävä ja allekirjoitettava. Vakuutuskannan luovuttamista koskevassa suunnitelmassa on oltava ainakin: Edellä 2 momentin 7 kohtaa ei sovelleta luovuttavaan vakuutuskassaan, joka on selvitystilassa.",
+      "section_number": "3",
+      "chapter_number": 8,
+      "statute_id": "946/2021"
+    },
+    {
+      "id": "6790ab7a-4779-4b44-b570-c92e388fc41c",
+      "node_type": "Section",
+      "publisher": "finlex",
+      "title": "4 § Asiakirjojen nähtävänä pitäminen ja lähettäminen",
+      "text": "Seuraavat asiakirjat on vähintään kuukauden ajan ennen vakuutuskannan luovuttamisesta tai vastaanottamisesta päättävää kassankokousta pidettävä vakuutettujen ja osakkaiden nähtävinä vakuutuskassan toimistossa tai internetsivuilla sekä asetettava nähtäviksi kassankokouksessa: Kokouskutsussa, joka toimitetaan vakuutuskannan luovuttamisesta päättävään kassankokoukseen, on ilmoitettava 1 momentissa tarkoitettujen asiakirjojen nähtävinä pitämisestä. Edellä tarkoitetut asiakirjat on viivytyksettä lähetettävä vakuutetulle ja osakkaalle, joka sitä pyytää, jos asiakirjoja ei voi tallentaa ja tulostaa vakuutuskassan internetsivuilta.",
+      "section_number": "4",
+      "chapter_number": 8,
+      "statute_id": "946/2021"
+    },
+    {
+      "id": "257f9513-4599-46cb-a487-2c9382dfb289",
+      "node_type": "Section",
+      "publisher": "finlex",
+      "title": "5 § Luovutuksen raukeaminen",
+      "text": "Vakuutuskannan luovuttaminen raukeaa, jos vakuutuskannan luovuttamista ei hyväksytä muutoksitta luovuttavassa vakuutuskassassa ja vakuutuskannan vastaanottamista vastaanottavassa vakuutuskassassa tai vakuutusyhtiössä. Vakuutuskassan kassankokouksen tai hallituksen päätöksestä vakuutuskannan luovuttamisen tai vastaanottamisen hyväksymisestä tai hylkäämisestä on viipymättä ilmoitettava Finanssivalvonnalle.",
+      "section_number": "5",
+      "chapter_number": 8,
+      "statute_id": "946/2021"
+    },
+    {
+      "id": "813f70a6-a65e-42c7-b171-f4682ff2bcfe",
+      "node_type": "Section",
+      "publisher": "finlex",
+      "title": "6 § Finanssivalvonnan suostumus tai luovutuksen raukeaminen",
+      "text": "Luovuttavan vakuutuskassan ja vastaanottavan vakuutuskassan tai vakuutusyhtiön hyväksyttyä vakuutuskannan luovuttamisen Finanssivalvonnan on annettava suostumuksensa kannan luovuttamiseen: Jollei suostumusta ole haettu määräajassa taikka se on evätty ja epäämispäätös on saanut lainvoiman, vakuutuskannan luovuttaminen on rauennut.",
+      "section_number": "6",
+      "chapter_number": 8,
+      "statute_id": "946/2021"
+    },
+    {
+      "id": "6b66ef59-95ec-4918-a7be-30508bf954e4",
+      "node_type": "Section",
+      "publisher": "finlex",
+      "title": "7 § Luovuttamisen ajankohta ja oikeusvaikutukset",
+      "text": "Vakuutuskanta ja sitä vastaavat varat siirtyvät samanaikaisesti vastaanottavalle vakuutuskassalle tai vakuutusyhtiölle kannan luovuttamista koskevassa suunnitelmassa mainittuna ajankohtana sen jälkeen, kun Finanssivalvonta on antanut suostumuksensa toimenpiteeseen. Suunnitelmassa mainitun siirtoajankohdan tulee olla kuuden kuukauden kuluessa luovuttamista koskevan suunnitelman tekemisestä. Finanssivalvonta voi hakemuksesta päättää, että vakuutuskanta ja sitä vastaavat varat siirtyvät samanaikaisesti 1 momentissa säädettyä määräaikaa myöhempänä ajankohtana.",
+      "section_number": "7",
+      "chapter_number": 8,
+      "statute_id": "946/2021"
+    },
+    {
+      "id": "49c3a832-50d6-4836-942c-ffd534da2e6a",
+      "node_type": "Section",
+      "publisher": "finlex",
+      "title": "8 § Koko vakuutuskantansa luovuttaneen kassan purkaminen",
+      "text": "Vakuutuskassa, joka on luovuttanut koko vakuutuskantansa ja joka ei ole selvitystilassa, on asetettava selvitystilaan ja purettava. Edellä tarkoitetun vakuutuskassan selvitystilaan ja purkamiseen sovelletaan tämän luvun 9 §:ää, eläkesäätiö- ja eläkekassalain 12 luvun 24–27 §:ää, 13 luvun 3, 4 ja 7–10 §:ää, 11 §:n 1 ja 3 momenttia sekä 13, 15, 16, 33, 37 ja 38 §:ää sekä tämän lain 10 luvun 6 ja 7 §:ää, 10 §:n 1 momenttia sekä 11 ja 13 §:ää.",
+      "section_number": "8",
+      "chapter_number": 8,
+      "statute_id": "946/2021"
+    },
+    {
+      "id": "141022c8-685e-42fb-875e-6bd511a100e0",
+      "node_type": "Section",
+      "publisher": "finlex",
+      "title": "9 § Selvitystilaan määrääminen ja rekisteristä poistaminen",
+      "text": "Finanssivalvonnan on ryhdyttävä toimenpiteisiin vakuutuskassan asettamiseksi selvitystilaan, jos se havaitsee, ettei vakuutuskassa 8 §:ssä tarkoitetussa tilanteessa ole tehnyt päätöstä selvitystilaan asettamisesta. Finanssivalvonnan on selvitystilaan asettamisen sijasta poistettava vakuutuskassa eläkesäätiö- ja vakuutuskassarekisteristä, jos vakuutuskassan varat eivät riitä selvityskulujen maksamiseen tai varojen määrästä ei saada tietoa eikä osakas, velkoja tai muu ilmoita ottavansa vastatakseen selvitysmenettelyn kuluista.",
+      "section_number": "9",
+      "chapter_number": 8,
+      "statute_id": "946/2021"
+    },
+    {
+      "id": "93d43802-225a-4667-bc94-2e8525d1b8df",
+      "node_type": "Section",
+      "publisher": "finlex",
+      "title": "1 § Vakuutuskassan purkaminen",
+      "text": "Tätä lukua sovelletaan vakuutuskassan selvitystilaan ja purkamiseen. Selvitysmenettelyssä selvitetään vakuutuskassan varallisuusasema, suoritetaan velat, jaetaan vakuutuskassan jäljelle jäävä omaisuus ja puretaan vakuutuskassa.",
+      "section_number": "1",
+      "chapter_number": 9,
+      "statute_id": "946/2021"
+    },
+    {
+      "id": "5a4d8137-4a7b-4099-8315-c0d97917ddb2",
+      "node_type": "Section",
+      "publisher": "finlex",
+      "title": "2 § Velvollisuus selvitystilaan asettamiseen",
+      "text": "Vakuutuskassa on asetettava selvitystilaan ja purettava: Finanssivalvonta voi yksittäistapauksessa, jollei vakuutettuja etuuksia vaaranneta, pidentää 1 momentin 1 kohdassa tarkoitetun määräajan enintään vuodeksi ja hakemuksesta antaa mainitun momentin 4 kohdassa tarkoitetussa tapauksessa päätöksessä määrääminsä ehdoin suostumuksen toiminnan jatkamiseen enintään viideksi vuodeksi kerrallaan.",
+      "section_number": "2",
+      "chapter_number": 9,
+      "statute_id": "946/2021"
+    },
+    {
+      "id": "902d8c0c-9cb3-4209-8673-90b45b9920e3",
+      "node_type": "Section",
+      "publisher": "finlex",
+      "title": "3 § Kassankokous selvitystilan aikana",
+      "text": "Hallituksen on viipymättä kutsuttava kassankokous koolle 2 §:n 1 momentissa tarkoitetussa tilanteessa. Jos Finanssivalvonta on myöntänyt mainitun pykälän 2 momentissa tarkoitetun luvan mainitun pykälän 1 momentin 1 tai 4 kohdassa tarkoitetun määräajan jatkamiseksi, hallituksen on kutsuttava kassankokous koolle viipymättä Finanssivalvonnan myöntämän määräajan päätyttyä. Sen lisäksi, mitä vakuutuskassan säännöissä määrätään, kokouskutsu on lähetettävä kirjallisena jokaiselle osakkaalle. Hallituksen on annettava tieto kutsusta kassankokoukseen Finanssivalvonnalle.",
+      "section_number": "3",
+      "chapter_number": 9,
+      "statute_id": "946/2021"
+    },
+    {
+      "id": "9879c1c0-27ce-4595-bccc-eb302a6e64d6",
+      "node_type": "Section",
+      "publisher": "finlex",
+      "title": "4 § Selvitystilaan määrääminen",
+      "text": "Finanssivalvonnan on ryhdyttävä toimenpiteisiin vakuutuskassan määräämiseksi selvitystilaan, jos se havaitsee, ettei vakuutuskassa ole tehnyt 2 §:n 1 momentissa tarkoitetussa tilanteessa päätöstä selvitystilaan asettamisesta tai mainitun pykälän 2 momentissa tarkoitettua hakemusta.",
+      "section_number": "4",
+      "chapter_number": 9,
+      "statute_id": "946/2021"
+    },
+    {
+      "id": "032ebe20-16d2-4206-b686-07b36f312f7a",
+      "node_type": "Section",
+      "publisher": "finlex",
+      "title": "5 § Kielto käyttää kassan varoja",
+      "text": "Finanssivalvonta voi kieltää selvitystilassa olevaa vakuutuskassaa luovuttamasta tai panttaamasta kassan omaisuutta sekä kieltää vakuutuskassan 5 luvun 16 §:ssä tarkoitetun omaisuudenhoitajan tai säilytysyhteisön hallussa olevien varojen käyttämisen. Mitä 1 momentissa säädetään, ei estä työpaikkakassan varojen luovuttamista Kansaneläkelaitokselle sairausvakuutuslain 16 luvun 4 §:n 2 momentissa tarkoitetulla tavalla.",
+      "section_number": "5",
+      "chapter_number": 9,
+      "statute_id": "946/2021"
+    },
+    {
+      "id": "b10d583b-cd54-4cb5-9b2e-a03793ed046c",
+      "node_type": "Section",
+      "publisher": "finlex",
+      "title": "6 § Toimintasuunnitelma",
+      "text": "Selvitysmiehen on laadittava vakuutuskassalle selvitystilaa koskeva toimintasuunnitelma, joka sisältää seuraavat tiedot vakuutuskassan veloista ja ehdotuksen niiden suorittamiseksi selvitystilan aikana: Edellä 1 momentissa tarkoitettu suunnitelma on toimitettava Finanssivalvonnalle hyväksyttäväksi.",
+      "section_number": "6",
+      "chapter_number": 9,
+      "statute_id": "946/2021"
+    },
+    {
+      "id": "95f44c95-bacc-412f-9d97-83fce0173b8e",
+      "node_type": "Section",
+      "publisher": "finlex",
+      "title": "7 § Toiminnan rajoittaminen",
+      "text": "Selvitystilassa vakuutuskassa saa jatkaa vakuutustoimintaa vain siinä määrin kuin se on välttämätöntä vakuutettujen ja edunsaajien etujen turvaamiseksi. Selvitysmiehen on määrättävä ajankohta, jolloin vakuutuskassan vakuutukset lakkaavat olemasta voimassa. Selvitystilassa vakuutuskassa ei saa vakuuttaa uusia henkilöitä eikä periä maksuja, joiden peruste on syntynyt selvitystilaan asettamisen jälkeen. Mitä 1 ja 2 momentissa säädetään, ei sovelleta työpaikkakassan selvitystilassa.",
+      "section_number": "7",
+      "chapter_number": 9,
+      "statute_id": "946/2021"
+    },
+    {
+      "id": "9ad30cc9-57c0-4997-814f-f86da190af7d",
+      "node_type": "Section",
+      "publisher": "finlex",
+      "title": "8 § Saatavan irtisanominen välittömästi maksettavaksi",
+      "text": "Selvitystilassa olevan vakuutuskassan saatava osakkaalta voidaan irtisanoa välittömästi maksettavaksi, jos vakuutuskassalta puuttuu käteisiä varoja sen selvitysmenettelystä johtuvia 6 §:n 1 momentin 3 kohdassa tarkoitettuja kuluja varten.",
+      "section_number": "8",
+      "chapter_number": 9,
+      "statute_id": "946/2021"
+    },
+    {
+      "id": "15e0684f-b6cd-4d78-8f9c-08b7fa4b984b",
+      "node_type": "Section",
+      "publisher": "finlex",
+      "title": "9 § Etuoikeutetut velkojat",
+      "text": "Selvitystilassa olevassa vakuutuskassassa vakuutetuilla ja edunsaajilla on osuudestaan 4 luvun 1 §:ssä tarkoitettuun vastuuvelkaan keskenään samanlainen etuoikeus vakuutuskassan omaisuuteen kuin irtaimen pantin haltijalla on pantattuun omaisuuteen. Edellä tarkoitetun osuuden laskemisesta selvitystilassa voidaan tarkemmin määrätä vakuutuskassan säännöissä. Edellä 1 momentissa säädetty etuoikeus ei heikennä käteispantin eikä omaisuuteen myönnetyn kiinnityksen haltijan oikeutta eikä estä suorittamasta 6 §:n 1 momentin 2 ja 3 kohdassa tarkoitettuja velkoja selvitystilan aikana. Mitä 1 momentissa säädetään, sovelletaan työpaikkakassan omaisuuteen siltä osin, mikä vastaa vakuutettujen ja edunsaajien rahoittaman lisäturvan osuutta työpaikkakassan vastuuvelasta.",
+      "section_number": "9",
+      "chapter_number": 9,
+      "statute_id": "946/2021"
+    },
+    {
+      "id": "092a912e-65ad-402d-846c-c473ce5928a7",
+      "node_type": "Section",
+      "publisher": "finlex",
+      "title": "10 § Julkinen haaste",
+      "text": "Selvitysmiehen on viipymättä haettava julkinen haaste vakuutuskassan velkojille selvitystilassa olevan kassan kustannuksella. Julkisessa haasteessa on mainittava, että vakuutuskassassa vakuutettujen, eläkkeen tai muun etuuden saajien taikka edunsaajien ei tarvitse ilmoittaa saataviaan selvitystilassa eikä niiden 9 §:ssä tarkoitettua etuoikeutta tarvitse vaatia. Muutoin noudatetaan, mitä haasteesta säädetään julkisesta haasteesta annetussa laissa (729/2003).",
+      "section_number": "10",
+      "chapter_number": 9,
+      "statute_id": "946/2021"
+    },
+    {
+      "id": "3554fd26-e67b-42b5-b78c-8b8f7b4340cb",
+      "node_type": "Section",
+      "publisher": "finlex",
+      "title": "11 § Velkojen maksaminen ja omaisuuden jakaminen",
+      "text": "Vakuutuskassan velkojille haetun 10 §:ssä tarkoitetun julkisen haasteen määräpäivän jälkeen ja sen jälkeen, kun vakuutuskassan vakuutukset ovat lakanneet olemasta voimassa, selvitysmiehen on maksettava kaikki tiedossa olevat velat vakuutuskassan jäljellä olevilla varoilla. Ensin maksetaan selvitysmenettelystä johtuvat ja 9 §:ssä tarkoitetut etuoikeutetut velat ja näiden jälkeen muut velat. Jos velka on riitainen tai erääntymätön tai jos sitä ei muusta syystä voida maksaa, tarpeelliset varat on pantava erilleen. Jos vakuutuskassalle jää varoja sen jälkeen, kun se on suorittanut velkansa ja täyttänyt kaikki muutkin sitoumuksensa, ne käytetään vakuutuskassan säännöissä määrätyllä tavalla. Jollei varoja kahden vuoden kuluessa ole saatu jaetuksi, Finanssivalvonnan tulee määrätä ajankohta, jolloin varat on jaettava säännöissä määrätyllä tavalla. Jos jakamatta jäänyt jako-osuus on vähäinen jaettuun omaisuuteen verrattuna, Finanssivalvonta voi selvitysmiesten ilmoituksesta määrätä sen lankeavaksi valtiolle tai käytettäväksi johonkin kassan toimintaan läheisesti liittyvään käyttötarkoitukseen.",
+      "section_number": "11",
+      "chapter_number": 9,
+      "statute_id": "946/2021"
+    },
+    {
+      "id": "f55a8e3c-3718-4eaa-b0d1-ef9f3be998c1",
+      "node_type": "Section",
+      "publisher": "finlex",
+      "title": "12 § Luettelo jaossa noudatettavista suhdeluvuista",
+      "text": "Selvitysmiesten tulee viipymättä laatia luettelo jaossa noudatettavista suhdeluvuista. Luettelo on toimitettava Finanssivalvonnalle, jossa luettelo on pidettävä asianomaisten nähtävänä 30 päivän ajan. Finanssivalvonnan tulee kuuluttaa luettelon nähtävilläolosta Virallisessa lehdessä. Suhdelukuihin saa hakea oikaisua Finanssivalvonnalta 30 päivän kuluessa luettelon nähtävilläoloajan päättymisestä.",
+      "section_number": "12",
+      "chapter_number": 9,
+      "statute_id": "946/2021"
+    },
+    {
+      "id": "b9eb37a6-db0c-457b-8535-2b91c56a8dc0",
+      "node_type": "Section",
+      "publisher": "finlex",
+      "title": "13 § Lopputilityksen ja jaon moittinen",
+      "text": "Jos joku tahtoo moittia eläkesäätiö- ja eläkekassalain 13 luvun 33 §:ssä tarkoitettua lopputilitystä tai tämän luvun 11 §:ssä tarkoitettua omaisuuden jakoa, kanne vakuutuskassaa vastaan on pantava vireille vakuutuskassan kotipaikan käräjäoikeudessa kolmen kuukauden kuluessa siitä, kun lopputilitys on esitetty eläkesäätiö- ja eläkekassalain 13 luvun 33 §:ssä tarkoitetussa kassankokouksessa.",
+      "section_number": "13",
+      "chapter_number": 9,
+      "statute_id": "946/2021"
+    },
+    {
+      "id": "2c0daeb0-6c50-4701-8a5b-21f485058f5d",
+      "node_type": "Section",
+      "publisher": "finlex",
+      "title": "14 § Selvitystilan lopettaminen ja toiminnan jatkaminen",
+      "text": "Jos vakuutuskassa selvitystilan aikana täyttää 2 §:n 1 momentissa säädetyt vaatimukset, selvitysmiehen on kutsuttava vakuutuskassan osakkaat ja vakuutetut koolle päättämään, jatketaanko vakuutustoimintaa. Osakkaat ja vakuutetut saavat, tilintarkastajan annettua asiasta lausuntonsa, kahden kolmasosan määräenemmistöllä tai säännöissä määrätyllä suuremmalla määräenemmistöllä päättää selvitystilan lopettamisesta ja vakuutustoiminnan jatkamisesta. Työpaikkakassan selvitystilan lopettaminen edellyttää lisäksi Kansaneläkelaitoksen suostumusta. Kun päätös selvitystilan lopettamisesta ja vakuutuskassan toiminnan jatkamisesta on tehty, vakuutuskassalle on valittava hallitus vakuutuskassan säännöissä määrätyllä tavalla. Selvitysmiehen tehtävä päättyy, kun hallitus on valittu. Selvitysmiehen on annettava toiminnastaan eläkesäätiö- ja eläkekassalain 13 luvun 33 §:ssä tarkoitettu lopputilitys. Hallituksen on viipymättä tehtävä ilmoitus selvitystilan lopettamista koskevasta päätöksestä Finanssivalvonnalle eläkesäätiö- ja vakuutuskassarekisteriin merkittäväksi. Ilmoitukseen on liitettävä 1 momentissa tarkoitettu tilintarkastajan lausunto. Finanssivalvonta voi antaa tarkempia määräyksiä 3 momentissa tarkoitetun ilmoituksen sisällöstä.",
+      "section_number": "14",
+      "chapter_number": 9,
+      "statute_id": "946/2021"
+    },
+    {
+      "id": "9616bc88-76f1-4edd-a9c0-26aceb08e6c1",
+      "node_type": "Section",
+      "publisher": "finlex",
+      "title": "15 § Etuoikeutetut velkojat konkurssissa",
+      "text": "Mitä 9 §:ssä säädetään velkojien ja edunsaajien etuoikeudesta, sovelletaan myös vakuutuskassan konkurssissa.",
+      "section_number": "15",
+      "chapter_number": 9,
+      "statute_id": "946/2021"
+    },
+    {
+      "id": "c0035fa6-f0df-4afd-96c0-abbef31518f6",
+      "node_type": "Section",
+      "publisher": "finlex",
+      "title": "1 § Vakuutuskassatoiminnan luvaton harjoittaminen",
+      "text": "Joka tahallaan",
+      "section_number": "1",
+      "chapter_number": 10,
+      "statute_id": "946/2021"
+    },
+    {
+      "id": "825f34c2-2e94-4f0e-b833-6d7e94e669c1",
+      "node_type": "Section",
+      "publisher": "finlex",
+      "title": "2 § Vakuutuskassarikos",
+      "text": "Joka tahallaan on tuomittava, jollei teko ole vähäinen tai siitä ole muualla laissa säädettyä ankarampaa rangaistusta,vakuutuskassarikoksestasakkoon tai vankeuteen enintään yhdeksi vuodeksi.",
+      "section_number": "2",
+      "chapter_number": 10,
+      "statute_id": "946/2021"
+    },
+    {
+      "id": "5b75cf0c-ce6a-4f66-95b6-9a8fc651a6ec",
+      "node_type": "Section",
+      "publisher": "finlex",
+      "title": "3 § Vakuutuskassarikkomus",
+      "text": "Joka tahallaan on tuomittava, jollei teko ole vähäinen tai siitä ole muualla laissa säädetty ankarampaa rangaistusta,vakuutuskassarikkomuksestasakkoon. Vakuutuskassarikkomuksesta tuomitaan myös se, joka törkeästä huolimattomuudesta menettelee 1 momentin 2–7 kohdassa tarkoitetulla tavalla.",
+      "section_number": "3",
+      "chapter_number": 10,
+      "statute_id": "946/2021"
+    },
+    {
+      "id": "f100b1be-a5b2-4eb9-9a76-e21b4a5992fb",
+      "node_type": "Section",
+      "publisher": "finlex",
+      "title": "1 § Voimaantulo",
+      "text": "Tämän lain voimaantulosta säädetään erikseen lailla.",
+      "section_number": "1",
+      "chapter_number": 11,
+      "statute_id": "946/2021"
+    }
+  ],
+  "clauses": [
+    {
+      "id": "8f8d1f9c-2515-4242-acbc-c31a9591efe9",
+      "node_type": "Clause",
+      "publisher": "finlex",
+      "title": "§ 5 mom 1",
+      "text": "1) työnantaja;",
+      "clause_number": 1,
+      "section_number": "5",
+      "statute_id": "946/2021"
+    },
+    {
+      "id": "3662609c-ece4-4ea9-95af-d0a59f97df43",
+      "node_type": "Clause",
+      "publisher": "finlex",
+      "title": "§ 5 mom 2",
+      "text": "2) työnantajat yhdessä sellaisten työnantajien kanssa, joilla on taloudellinen tai toiminnallinen yhteys;",
+      "clause_number": 2,
+      "section_number": "5",
+      "statute_id": "946/2021"
+    },
+    {
+      "id": "be4e0270-0d30-4d80-87ab-8f63d8529ae1",
+      "node_type": "Clause",
+      "publisher": "finlex",
+      "title": "§ 5 mom 3",
+      "text": "3) työnantajat yhdessä sellaisten työnantajien kanssa, joiden toimiala tai ammattiala on samankaltainen tai jotka muun vastaavan seikan vuoksi muodostavat kokonaisuuden;",
+      "clause_number": 3,
+      "section_number": "5",
+      "statute_id": "946/2021"
+    },
+    {
+      "id": "eaeb60a6-0228-424d-8a20-880e61da4eef",
+      "node_type": "Clause",
+      "publisher": "finlex",
+      "title": "§ 5 mom 4",
+      "text": "4) yrittäjät yhdessä sellaisten yrittäjien kanssa, joiden toimiala tai ammattiala on samankaltainen tai jotka muun vastaavan seikan vuoksi muodostavat kokonaisuuden;",
+      "clause_number": 4,
+      "section_number": "5",
+      "statute_id": "946/2021"
+    },
+    {
+      "id": "4bcaff4a-78ac-4543-9506-056b6b60535e",
+      "node_type": "Clause",
+      "publisher": "finlex",
+      "title": "§ 5 mom 5",
+      "text": "5) henkilöryhmä, joka on määritelty ammatin tai ammattialaan kuulumisen taikka rekisteröidyn yhdistyksen jäsenyyden perusteella.",
+      "clause_number": 5,
+      "section_number": "5",
+      "statute_id": "946/2021"
+    },
+    {
+      "id": "e01cdac0-4dcb-4ac6-9185-04fbc0f84195",
+      "node_type": "Clause",
+      "publisher": "finlex",
+      "title": "§ 1 mom 1",
+      "text": "1) työnantajat yhdessä sellaisten työnantajien kanssa, joiden toimiala tai ammattiala on samankaltainen tai jotka muun vastaavan seikan vuoksi muodostavat kokonaisuuden;",
+      "clause_number": 1,
+      "section_number": "1",
+      "statute_id": "946/2021"
+    },
+    {
+      "id": "3b67d400-6fa3-49ad-b66c-492dcb2d1d67",
+      "node_type": "Clause",
+      "publisher": "finlex",
+      "title": "§ 1 mom 2",
+      "text": "2) yrittäjät yhdessä sellaisten yrittäjien kanssa, joiden toimiala tai ammattiala on samankaltainen, tai jotka muun vastaavan seikan vuoksi muodostavat kokonaisuuden;",
+      "clause_number": 2,
+      "section_number": "1",
+      "statute_id": "946/2021"
+    },
+    {
+      "id": "fd586922-53b2-442a-89fc-463760357433",
+      "node_type": "Clause",
+      "publisher": "finlex",
+      "title": "§ 1 mom 3",
+      "text": "3) henkilöryhmä, joka on määritelty ammatin tai ammattialaan kuulumisen tai rekisteröidyn yhdistyksen jäsenyyden perusteella, tai rekisteröity yhdistys.",
+      "clause_number": 3,
+      "section_number": "1",
+      "statute_id": "946/2021"
+    },
+    {
+      "id": "5276bd26-f1c5-4671-aee4-756bfb0ed7f4",
+      "node_type": "Clause",
+      "publisher": "finlex",
+      "title": "§ 3 mom 1",
+      "text": "1) toiminimi ja, jos se ilmaistaan kahdella tai useammalla kielellä, toisiaan vastaavat ilmaisut näillä kielillä;",
+      "clause_number": 1,
+      "section_number": "3",
+      "statute_id": "946/2021"
+    },
+    {
+      "id": "67e6f752-872c-4439-9f8b-85926ea47ea2",
+      "node_type": "Clause",
+      "publisher": "finlex",
+      "title": "§ 3 mom 2",
+      "text": "2) kotipaikkana oleva Suomen kunta;",
+      "clause_number": 2,
+      "section_number": "3",
+      "statute_id": "946/2021"
+    },
+    {
+      "id": "8d4d4dda-dad0-4d1a-9986-fc93d73ce390",
+      "node_type": "Clause",
+      "publisher": "finlex",
+      "title": "§ 3 mom 3",
+      "text": "3) harjoitettava vakuutustoiminta;",
+      "clause_number": 3,
+      "section_number": "3",
+      "statute_id": "946/2021"
+    },
+    {
+      "id": "2969e6a9-3aa3-45ac-b44a-678c0903e51f",
+      "node_type": "Clause",
+      "publisher": "finlex",
+      "title": "§ 3 mom 4",
+      "text": "4) toimintapiiri;",
+      "clause_number": 4,
+      "section_number": "3",
+      "statute_id": "946/2021"
+    },
+    {
+      "id": "d2469f3c-b286-4227-94a0-4bde7ec57044",
+      "node_type": "Clause",
+      "publisher": "finlex",
+      "title": "§ 3 mom 5",
+      "text": "5) hallituksen jäsenten ja varajäsenten lukumäärä sekä toimikausi;",
+      "clause_number": 5,
+      "section_number": "3",
+      "statute_id": "946/2021"
+    },
+    {
+      "id": "5ae8e0f5-2ed7-497d-9d31-613a088af7ec",
+      "node_type": "Clause",
+      "publisher": "finlex",
+      "title": "§ 3 mom 6",
+      "text": "6) hallituksen jäsenille ja varajäsenille suoritettavan palkkion peruste;",
+      "clause_number": 6,
+      "section_number": "3",
+      "statute_id": "946/2021"
+    },
+    {
+      "id": "f8426685-016d-44e7-b5f4-7e1194b5a4d4",
+      "node_type": "Clause",
+      "publisher": "finlex",
+      "title": "§ 3 mom 7",
+      "text": "7) tilintarkastajien ja varatilintarkastajien toimikausi;",
+      "clause_number": 7,
+      "section_number": "3",
+      "statute_id": "946/2021"
+    },
+    {
+      "id": "baf0ad57-6bb1-4dac-b5fe-02425837b0f7",
+      "node_type": "Clause",
+      "publisher": "finlex",
+      "title": "§ 3 mom 8",
+      "text": "8) keitä ovat osakkaat, vakuutetut ja edunsaajat;",
+      "clause_number": 8,
+      "section_number": "3",
+      "statute_id": "946/2021"
+    },
+    {
+      "id": "4af1030f-4a29-4942-9486-ea64369a17af",
+      "node_type": "Clause",
+      "publisher": "finlex",
+      "title": "§ 3 mom 9",
+      "text": "9) miten vakuutetut tulevat järjestelyn osapuoliksi ja eroavat järjestelystä sekä millä perusteella vakuutettu voidaan erottaa;",
+      "clause_number": 9,
+      "section_number": "3",
+      "statute_id": "946/2021"
+    },
+    {
+      "id": "ea6559e5-2bad-403a-8618-80853370aaa0",
+      "node_type": "Clause",
+      "publisher": "finlex",
+      "title": "§ 3 mom 10",
+      "text": "10) miten eläkkeen tai muun etuudensaaja tai edunsaaja eroaa järjestelystä ja millä perusteella hänet voidaan erottaa;",
+      "clause_number": 10,
+      "section_number": "3",
+      "statute_id": "946/2021"
+    },
+    {
+      "id": "d2fe6ad0-3899-449b-8e75-1fa7d9d1b859",
+      "node_type": "Clause",
+      "publisher": "finlex",
+      "title": "§ 3 mom 11",
+      "text": "11) etuudet ja niiden suuruus tai määräytymisperuste;",
+      "clause_number": 11,
+      "section_number": "3",
+      "statute_id": "946/2021"
+    },
+    {
+      "id": "4c6d2cdf-9f92-425c-ab14-1f11fceb5190",
+      "node_type": "Clause",
+      "publisher": "finlex",
+      "title": "§ 3 mom 12",
+      "text": "12) etuuksien saamisen edellytykset ja suorittamisaika;",
+      "clause_number": 12,
+      "section_number": "3",
+      "statute_id": "946/2021"
+    },
+    {
+      "id": "817e2a9f-f633-4739-9a5e-0d8b1f4d5887",
+      "node_type": "Clause",
+      "publisher": "finlex",
+      "title": "§ 3 mom 13",
+      "text": "13) jos vakuutetut suorittavat vakuutusmaksuja, vakuutetun vakuutusmaksun määräytyminen, maksun suorittamisen ajankohta ja viivästymisestä johtuvat seuraamukset;",
+      "clause_number": 13,
+      "section_number": "3",
+      "statute_id": "946/2021"
+    },
+    {
+      "id": "b7ecd82e-716b-4e29-a378-3276d95c450f",
+      "node_type": "Clause",
+      "publisher": "finlex",
+      "title": "§ 3 mom 14",
+      "text": "14) säilyttääkö ja missä määrin henkilö, jonka vakuutussuhde on päättynyt ennen korvaukseen tai avustukseen oikeuttavan tapahtuman sattumista, itse ja hänen edunsaajansa oikeuden korvaukseen tai avustukseen;",
+      "clause_number": 14,
+      "section_number": "3",
+      "statute_id": "946/2021"
+    },
+    {
+      "id": "54da5dfc-e9f0-4a06-98b5-c770583a4281",
+      "node_type": "Clause",
+      "publisher": "finlex",
+      "title": "§ 3 mom 15",
+      "text": "15) miten kutsu kassankokoukseen toimitetaan;",
+      "clause_number": 15,
+      "section_number": "3",
+      "statute_id": "946/2021"
+    },
+    {
+      "id": "8e0b76bc-9bdc-46bc-a706-753342cad7d8",
+      "node_type": "Clause",
+      "publisher": "finlex",
+      "title": "§ 3 mom 16",
+      "text": "16) osakkaiden äänioikeuden ja äänimäärän jakautumisen perusteet kassankokouksessa;",
+      "clause_number": 16,
+      "section_number": "3",
+      "statute_id": "946/2021"
+    },
+    {
+      "id": "afedfea8-2c9f-48c6-8a5e-fd29e447b4d3",
+      "node_type": "Clause",
+      "publisher": "finlex",
+      "title": "§ 3 mom 17",
+      "text": "17) jos vakuutuskassassa on edustajisto, edustajiston jäsenten ja varajäsenten lukumäärä, toimikausi ja valitsemistapa sekä heille suoritettavan palkkion peruste;",
+      "clause_number": 17,
+      "section_number": "3",
+      "statute_id": "946/2021"
+    },
+    {
+      "id": "0e150f90-89ae-4e92-8384-8f9ecc5c0a3d",
+      "node_type": "Clause",
+      "publisher": "finlex",
+      "title": "§ 3 mom 18",
+      "text": "18) täydennys-, hautaus- ja eroavustuskassassa osakkaan vakuutusmaksun määräytyminen ja viivästymisestä johtuvat seuraamukset;",
+      "clause_number": 18,
+      "section_number": "3",
+      "statute_id": "946/2021"
+    },
+    {
+      "id": "54565b8e-edc1-4a17-8531-e3391130de9a",
+      "node_type": "Clause",
+      "publisher": "finlex",
+      "title": "§ 3 mom 19",
+      "text": "19) miten osakas eroaa ja millä perusteella osakas voidaan erottaa vakuutuskassasta, sekä eroavan osakkaan velvollisuudet kassaa kohtaan;",
+      "clause_number": 19,
+      "section_number": "3",
+      "statute_id": "946/2021"
+    },
+    {
+      "id": "1a89ad3d-de60-4919-a7c0-3198bab82dc4",
+      "node_type": "Clause",
+      "publisher": "finlex",
+      "title": "§ 3 mom 20",
+      "text": "20) varojen ja vastuiden jakautuminen vakuutuskassaa purettaessa.",
+      "clause_number": 20,
+      "section_number": "3",
+      "statute_id": "946/2021"
+    },
+    {
+      "id": "bf07b009-9972-46d5-bae3-4c9d53140f2d",
+      "node_type": "Clause",
+      "publisher": "finlex",
+      "title": "§ 6 mom 1",
+      "text": "1) rahat ja muut kuin taseessa sijoituksiksi merkittävät saamiset nimellisarvoon, kuitenkin enintään todennäköiseen arvoon;",
+      "clause_number": 1,
+      "section_number": "6",
+      "statute_id": "946/2021"
+    },
+    {
+      "id": "81447bb8-2b9c-45da-8d2b-15a8d66a8e7a",
+      "node_type": "Clause",
+      "publisher": "finlex",
+      "title": "§ 6 mom 2",
+      "text": "2) vastuuvelka 4 luvun säännöksiä noudattaen laskettuun arvoon;",
+      "clause_number": 2,
+      "section_number": "6",
+      "statute_id": "946/2021"
+    },
+    {
+      "id": "21e75f5c-3adf-4486-9e55-005d8fa81ca1",
+      "node_type": "Clause",
+      "publisher": "finlex",
+      "title": "§ 6 mom 3",
+      "text": "3) muut velat nimellisarvoon tai, jos velka on indeksiin taikka muuhun vertailuperusteeseen sidottu, muuttuneen vertailuperusteen mukaiseen nimellisarvoa korkeampaan arvoon.",
+      "clause_number": 3,
+      "section_number": "6",
+      "statute_id": "946/2021"
+    },
+    {
+      "id": "53c3eab4-b16f-4e69-8df0-28c6a50353d4",
+      "node_type": "Clause",
+      "publisher": "finlex",
+      "title": "§ 5 mom 1",
+      "text": "1) jälleenvakuuttajan osuus enintään Finanssivalvonnan hyväksymään määrään;",
+      "clause_number": 1,
+      "section_number": "5",
+      "statute_id": "946/2021"
+    },
+    {
+      "id": "5310fee8-6c06-4737-8652-db390fd37763",
+      "node_type": "Clause",
+      "publisher": "finlex",
+      "title": "§ 5 mom 2",
+      "text": "2) takautumisoikeuteen perustuvat saamiset;",
+      "clause_number": 2,
+      "section_number": "5",
+      "statute_id": "946/2021"
+    },
+    {
+      "id": "c0ac831c-aec7-44a5-b3fe-a27c0f2c5f52",
+      "node_type": "Clause",
+      "publisher": "finlex",
+      "title": "§ 5 mom 3",
+      "text": "3) kuolettamatta oleva määrä 4 luvun 5 §:ssä tarkoitetusta vakuutusteknisestä katevajauksesta.",
+      "clause_number": 3,
+      "section_number": "5",
+      "statute_id": "946/2021"
+    },
+    {
+      "id": "cc0cc8b6-6c3d-4434-9580-a6c0b35aaaf8",
+      "node_type": "Clause",
+      "publisher": "finlex",
+      "title": "§ 7 mom 1",
+      "text": "1) joukkovelkakirjalainoja ja muita raha- ja pääomamarkkinavälineitä;",
+      "clause_number": 1,
+      "section_number": "7",
+      "statute_id": "946/2021"
+    },
+    {
+      "id": "9bb19a5d-9529-456d-9466-e6b29b693c85",
+      "node_type": "Clause",
+      "publisher": "finlex",
+      "title": "§ 7 mom 2",
+      "text": "2) velkasitoumuksiin perustuvia laina- ja muita saamisia;",
+      "clause_number": 2,
+      "section_number": "7",
+      "statute_id": "946/2021"
+    },
+    {
+      "id": "90cb9f6f-22ef-4674-a402-277122b36532",
+      "node_type": "Clause",
+      "publisher": "finlex",
+      "title": "§ 7 mom 3",
+      "text": "3) osakkeita ja muita tuotoltaan vaihtelevia omistusosuuksia sekä pääomalainoja ja muita sitoumuksia, joilla on heikompi etuoikeus kuin yhteisön muilla sitoumuksilla;",
+      "clause_number": 3,
+      "section_number": "7",
+      "statute_id": "946/2021"
+    },
+    {
+      "id": "6e8679fe-c9ca-4e6e-8fbf-f55392d3a302",
+      "node_type": "Clause",
+      "publisher": "finlex",
+      "title": "§ 7 mom 4",
+      "text": "4) osuuksia sijoitusrahastoissa tai vaihtoehtorahastoissa;",
+      "clause_number": 4,
+      "section_number": "7",
+      "statute_id": "946/2021"
+    },
+    {
+      "id": "987b0a12-d5f2-4d6a-8855-b5e674d2adfe",
+      "node_type": "Clause",
+      "publisher": "finlex",
+      "title": "§ 7 mom 5",
+      "text": "5) kiinteistöjä, rakennuksia vuokraoikeuksineen ja kiinteään omaisuuteen kohdistuvia sopimukseen tai muuhun oikeustoimeen perustuvia vuokra- ja käyttöoikeuksia tai muita vastaavia oikeuksia, jotka on kirjattu erityisinä oikeuksina kiinteistörekisteriin, osakkeita ja osuuksia kiinteistöyhteisöissä taikka rakennusaikaisia saamisia kiinteistöyhteisöltä, joka omistaa tässä kohdassa tarkoitettuja varoja ja jossa katteen haltijana olevalla vakuutuskassalla on määräämisvalta;",
+      "clause_number": 5,
+      "section_number": "7",
+      "statute_id": "946/2021"
+    },
+    {
+      "id": "f7d4aa4b-7983-4b9d-b931-f5f05c92e6f3",
+      "node_type": "Clause",
+      "publisher": "finlex",
+      "title": "§ 7 mom 6",
+      "text": "6) muita arvopapereita;",
+      "clause_number": 6,
+      "section_number": "7",
+      "statute_id": "946/2021"
+    },
+    {
+      "id": "112a1d59-595f-4964-917f-eef5854d247b",
+      "node_type": "Clause",
+      "publisher": "finlex",
+      "title": "§ 7 mom 1",
+      "text": "7) vakuutusmaksusaamisia osakkailta tai muita saamisia jälleenvakuuttajilta kuin 5 §:n 1 momentin 1 kohdassa tarkoitettuja jälleenvakuuttajien osuuksia;",
+      "clause_number": 1,
+      "section_number": "7",
+      "statute_id": "946/2021"
+    },
+    {
+      "id": "56368bf9-543e-4606-8de2-ee2163e711da",
+      "node_type": "Clause",
+      "publisher": "finlex",
+      "title": "§ 7 mom 7",
+      "text": "7) vakuutusmaksusaamisia osakkailta tai muita saamisia jälleenvakuuttajilta kuin 5 §:n 1 momentin 1 kohdassa tarkoitettuja jälleenvakuuttajien osuuksia;",
+      "clause_number": 7,
+      "section_number": "7",
+      "statute_id": "946/2021"
+    },
+    {
+      "id": "344c45a8-80fb-4bee-9d9e-4860f7c2ebe4",
+      "node_type": "Clause",
+      "publisher": "finlex",
+      "title": "§ 7 mom 8",
+      "text": "8) verotuksessa vahvistettuja verosaamisia tai muita saamisia valtioilta ja muilta julkisyhteisöiltä;",
+      "clause_number": 8,
+      "section_number": "7",
+      "statute_id": "946/2021"
+    },
+    {
+      "id": "67906b9f-bba9-4983-baa0-7019bee8d452",
+      "node_type": "Clause",
+      "publisher": "finlex",
+      "title": "§ 7 mom 9",
+      "text": "9) saamisia takuurahastoilta;",
+      "clause_number": 9,
+      "section_number": "7",
+      "statute_id": "946/2021"
+    },
+    {
+      "id": "24fb812b-0e1c-438d-839c-e62ac1305c52",
+      "node_type": "Clause",
+      "publisher": "finlex",
+      "title": "§ 7 mom 10",
+      "text": "10) muita kuin 5 kohdassa tarkoitettuja aineellisiin hyödykkeisiin luettavia varoja;",
+      "clause_number": 10,
+      "section_number": "7",
+      "statute_id": "946/2021"
+    },
+    {
+      "id": "eb4d9fff-919c-4d5f-9364-a5d35243496b",
+      "node_type": "Clause",
+      "publisher": "finlex",
+      "title": "§ 7 mom 11",
+      "text": "11) rahaa tai pankkisaamisia taikka talletuksia luottolaitoksissa ja muissa laitoksissa, joilla on oikeus vastaanottaa talletuksia;",
+      "clause_number": 11,
+      "section_number": "7",
+      "statute_id": "946/2021"
+    },
+    {
+      "id": "d4ec8787-f74a-4340-88b9-5ebbc7b0fc3a",
+      "node_type": "Clause",
+      "publisher": "finlex",
+      "title": "§ 7 mom 12",
+      "text": "12) siirtosaamisia, kuten kertyneitä korkoja ja kertyneitä vuokria ja muita tulojäämiä sekä menoennakoita.",
+      "clause_number": 12,
+      "section_number": "7",
+      "statute_id": "946/2021"
+    },
+    {
+      "id": "58913d09-c207-42a6-86f2-8e114b73e593",
+      "node_type": "Clause",
+      "publisher": "finlex",
+      "title": "§ 9 mom 1",
+      "text": "1) saman yhteisön osakkeisiin, muihin niihin rinnastettaviin arvopapereihin ja saman yhteisön pääomalainoihin;",
+      "clause_number": 1,
+      "section_number": "9",
+      "statute_id": "946/2021"
+    },
+    {
+      "id": "022556b7-b092-49c8-a73a-33d234106fe1",
+      "node_type": "Clause",
+      "publisher": "finlex",
+      "title": "§ 9 mom 2",
+      "text": "2) saman velallisen antamiin velkasitoumuksiin, joilla ei ole vakuutta tai joiden vakuutena on edellä tarkoitetun yhteisön osakkeita, muita niihin rinnastettavia arvopapereita tai edellä tarkoitetun yhteisön pääomalainoja;",
+      "clause_number": 2,
+      "section_number": "9",
+      "statute_id": "946/2021"
+    },
+    {
+      "id": "a418db71-776b-4300-b41f-adc17d3418e3",
+      "node_type": "Clause",
+      "publisher": "finlex",
+      "title": "§ 9 mom 3",
+      "text": "3) eri velallisten antamiin velkasitoumuksiin, joiden vakuutena on sijoituksia yhden yhteisön osakkeisiin, muihin niihin rinnastettaviin arvopapereihin tai edellä tarkoitetun yhteisön pääomalainoihin tai yhden yhteisön antama takaus tai takausvakuutus.",
+      "clause_number": 3,
+      "section_number": "9",
+      "statute_id": "946/2021"
+    },
+    {
+      "id": "ddcab412-cbdc-4735-83dc-a44636998060",
+      "node_type": "Clause",
+      "publisher": "finlex",
+      "title": "§ 9 mom 1",
+      "text": "1) velkasitoumuksiin, joissa velallisena tai takaajana on ETA- tai OECD-valtio, ja joissa velan, velallisen tai takaajan luottoluokitus kuuluu eläkelaitoksen vakavaraisuusrajan laskemisesta ja sijoitusten hajauttamisesta annetun lain (315/2015) 11 §:ssä tarkoitettuun luottoluokkaan 1;",
+      "clause_number": 1,
+      "section_number": "9",
+      "statute_id": "946/2021"
+    },
+    {
+      "id": "c7262a70-7c31-4c0b-870b-00ec1694bfc3",
+      "node_type": "Clause",
+      "publisher": "finlex",
+      "title": "§ 9 mom 2",
+      "text": "2) velkasitoumuksiin, joissa velallisena on Ahvenanmaan maakunta tai sellainen kansainvälinen yhteisö, jonka jäsenistä ainakin yksi on ETA- tai OECD-valtio, jonka luottoluokitus kuuluu tämän momentin 1 kohdassa tarkoitettuun luottoluokkaan 1.",
+      "clause_number": 2,
+      "section_number": "9",
+      "statute_id": "946/2021"
+    },
+    {
+      "id": "93101b75-84b3-4548-8799-0dd976ad143e",
+      "node_type": "Clause",
+      "publisher": "finlex",
+      "title": "§ 16 mom 1",
+      "text": "1) siirtokelpoisiin arvopapereihin kohdistuvaa yhteistä sijoitustoimintaa harjoittavia yrityksiä (yhteissijoitusyritykset) koskevien lakien, asetusten ja hallinnollisten määräysten yhteensovittamisesta annettu Euroopan parlamentin ja neuvoston direktiivi 2009/65/EY;",
+      "clause_number": 1,
+      "section_number": "16",
+      "statute_id": "946/2021"
+    },
+    {
+      "id": "bdd51585-63a6-463e-ac81-01c24d3200d7",
+      "node_type": "Clause",
+      "publisher": "finlex",
+      "title": "§ 16 mom 2",
+      "text": "2) vakuutus- ja jälleenvakuutustoiminnan aloittamisesta ja harjoittamisesta (Solvenssi II) annettu Euroopan parlamentin ja neuvoston direktiivi 2009/138/EY;",
+      "clause_number": 2,
+      "section_number": "16",
+      "statute_id": "946/2021"
+    },
+    {
+      "id": "3a2795fc-233e-406a-8e06-4852c8d5551a",
+      "node_type": "Clause",
+      "publisher": "finlex",
+      "title": "§ 16 mom 3",
+      "text": "3) vaihtoehtoisten sijoitusrahastojen hoitajista ja direktiivin 2003/41/EY ja 2009/65/EY sekä asetuksen (EY) N:o 1060/2009 ja (EU) N:o 1095/2010 muuttamisesta annettu Euroopan parlamentin ja neuvoston direktiivi 2011/61/EU;",
+      "clause_number": 3,
+      "section_number": "16",
+      "statute_id": "946/2021"
+    },
+    {
+      "id": "cd1a67ca-d40f-47a0-990d-0fb7467ea3b6",
+      "node_type": "Clause",
+      "publisher": "finlex",
+      "title": "§ 16 mom 4",
+      "text": "4) oikeudesta harjoittaa luottolaitostoimintaa ja luottolaitosten ja sijoituspalveluyritysten vakavaraisuusvalvonnasta, direktiivin 2002/87/EY muuttamisesta sekä direktiivien 2006/48/EY ja 2006/49/EY kumoamisesta annettu Euroopan parlamentin ja neuvoston direktiivi 2013/36/EU;",
+      "clause_number": 4,
+      "section_number": "16",
+      "statute_id": "946/2021"
+    },
+    {
+      "id": "d032be3a-83d0-4de2-a5c1-9e892c737651",
+      "node_type": "Clause",
+      "publisher": "finlex",
+      "title": "§ 16 mom 5",
+      "text": "5) rahoitusvälineiden markkinoista sekä direktiivin 2002/92/EY ja direktiivin 2011/61/EU muuttamisesta annettu Euroopan parlamentin ja neuvoston direktiivi 2014/65/EU.",
+      "clause_number": 5,
+      "section_number": "16",
+      "statute_id": "946/2021"
+    },
+    {
+      "id": "8e245e2f-3e70-40d4-b731-0fa3c9d5a927",
+      "node_type": "Clause",
+      "publisher": "finlex",
+      "title": "§ 4 mom 1",
+      "text": "1) sulautumiseen osallistuvien vakuutuskassojen toiminimet, yritys- ja yhteisötunnukset tai vastaavat yksilöintitiedot sekä kotipaikat;",
+      "clause_number": 1,
+      "section_number": "4",
+      "statute_id": "946/2021"
+    },
+    {
+      "id": "b903541f-ae54-4bf4-aad8-43b6909d10d6",
+      "node_type": "Clause",
+      "publisher": "finlex",
+      "title": "§ 4 mom 2",
+      "text": "2) selvitys sulautumisen syistä;",
+      "clause_number": 2,
+      "section_number": "4",
+      "statute_id": "946/2021"
+    },
+    {
+      "id": "0ebab352-5f79-46f2-9428-aaf991205391",
+      "node_type": "Clause",
+      "publisher": "finlex",
+      "title": "§ 4 mom 3",
+      "text": "3) absorptiosulautumisessa ehdotus vastaanottavan vakuutuskassan mahdollisesta sääntömuutoksesta sekä kombinaatiosulautumisessa ehdotus perustettavan vakuutuskassan säännöiksi ja ehdotus siitä, miten perustettavan vakuutuskassan toimielinten jäsenet valitaan;",
+      "clause_number": 3,
+      "section_number": "4",
+      "statute_id": "946/2021"
+    },
+    {
+      "id": "dbf32565-81a2-4c6d-8efb-cc63320ab21d",
+      "node_type": "Clause",
+      "publisher": "finlex",
+      "title": "§ 4 mom 4",
+      "text": "4) selvitys sulautuvan vakuutuskassan vastuuvelan ja muiden velkojen sekä varojen siirtymisestä vastaanottavalle vakuutuskassalle;",
+      "clause_number": 4,
+      "section_number": "4",
+      "statute_id": "946/2021"
+    },
+    {
+      "id": "9d3eefcc-90d3-488e-a4c0-7b528341b521",
+      "node_type": "Clause",
+      "publisher": "finlex",
+      "title": "§ 4 mom 5",
+      "text": "5) selvitys siitä, että vastaanottava vakuutuskassa täyttää sulautumisen jälkeen 5 ja 6 luvussa säädetyt vaatimukset;",
+      "clause_number": 5,
+      "section_number": "4",
+      "statute_id": "946/2021"
+    },
+    {
+      "id": "9e76a14a-ef8a-4a42-bea7-f690c670f0f1",
+      "node_type": "Clause",
+      "publisher": "finlex",
+      "title": "§ 4 mom 6",
+      "text": "6) selvitys sulautuvan vakuutuskassan varoista, veloista ja omasta pääomasta ja niiden arvostamiseen vaikuttavista seikoista, sulautumisen suunnitellusta vaikutuksesta vastaanottavan vakuutuskassan taseeseen sekä sulautumiseen sovellettavista kirjanpidollisista menetelmistä;",
+      "clause_number": 6,
+      "section_number": "4",
+      "statute_id": "946/2021"
+    },
+    {
+      "id": "a77d0d84-3e49-4953-956b-250b24a54cae",
+      "node_type": "Clause",
+      "publisher": "finlex",
+      "title": "§ 4 mom 7",
+      "text": "7) ehdotus sulautumisen täytäntöönpanon suunnitellusta rekisteröintiajankohdasta, joka saa olla enintään kuuden kuukauden kuluttua sulautumissuunnitelman tekemisestä;",
+      "clause_number": 7,
+      "section_number": "4",
+      "statute_id": "946/2021"
+    },
+    {
+      "id": "76088160-640b-4f93-8513-6fe0810c0737",
+      "node_type": "Clause",
+      "publisher": "finlex",
+      "title": "§ 4 mom 8",
+      "text": "8) ehdotus mahdollisiksi muiksi sulautumisen ehdoiksi.",
+      "clause_number": 8,
+      "section_number": "4",
+      "statute_id": "946/2021"
+    },
+    {
+      "id": "e534677d-a7cd-4833-b758-e3d35689b9dd",
+      "node_type": "Clause",
+      "publisher": "finlex",
+      "title": "§ 5 mom 1",
+      "text": "1) jakautumiseen osallistuvien vakuutuskassojen toiminimet, yritys- ja yhteisötunnukset tai vastaavat yksilöintitiedot, kotipaikat sekä perustettavien vakuutuskassojen hallitusten jäsenet;",
+      "clause_number": 1,
+      "section_number": "5",
+      "statute_id": "946/2021"
+    },
+    {
+      "id": "88311072-d4e4-4946-baec-4953c2468202",
+      "node_type": "Clause",
+      "publisher": "finlex",
+      "title": "§ 5 mom 2",
+      "text": "2) selvitys jakautumisen syistä;",
+      "clause_number": 2,
+      "section_number": "5",
+      "statute_id": "946/2021"
+    },
+    {
+      "id": "22e48643-d222-44e4-99be-0f445467a67d",
+      "node_type": "Clause",
+      "publisher": "finlex",
+      "title": "§ 5 mom 3",
+      "text": "3) jakautumisessa toimivaan vakuutuskassaan ehdotus mahdollisesta vastaanottavan vakuutuskassan sääntöjen muutoksesta sekä jakautumisessa perustettavaan vakuutuskassaan ehdotus perustettavan vakuutuskassan säännöiksi;",
+      "clause_number": 3,
+      "section_number": "5",
+      "statute_id": "946/2021"
+    },
+    {
+      "id": "2285e5e2-4dea-42af-a8f4-ce92e836139d",
+      "node_type": "Clause",
+      "publisher": "finlex",
+      "title": "§ 5 mom 4",
+      "text": "4) laskelma jakautuvan vakuutuskassan vastuuvelasta ja varoista;",
+      "clause_number": 4,
+      "section_number": "5",
+      "statute_id": "946/2021"
+    },
+    {
+      "id": "376d71e8-aa50-4466-b544-d594d8e2ad00",
+      "node_type": "Clause",
+      "publisher": "finlex",
+      "title": "§ 5 mom 5",
+      "text": "5) selvitys jakautuvan vakuutuskassan vastuuvelan ja muiden velkojen sekä varojen jakamisesta;",
+      "clause_number": 5,
+      "section_number": "5",
+      "statute_id": "946/2021"
+    },
+    {
+      "id": "bcfc9116-2823-4589-8200-c7a06830c6ec",
+      "node_type": "Clause",
+      "publisher": "finlex",
+      "title": "§ 5 mom 6",
+      "text": "6) selvitys siitä, että jakautumiseen osallistuvat vakuutuskassat täyttävät jakautumisen jälkeen 4 ja 5 luvussa säädetyt vaatimukset;",
+      "clause_number": 6,
+      "section_number": "5",
+      "statute_id": "946/2021"
+    },
+    {
+      "id": "7ee0055c-9823-4c66-a41b-e9ad199db9ea",
+      "node_type": "Clause",
+      "publisher": "finlex",
+      "title": "§ 5 mom 7",
+      "text": "7) selvitys jakautuvan vakuutuskassan varoista, veloista ja omasta pääomasta ja niiden arvostamiseen vaikuttavista seikoista, jakautumisen suunnitellusta vaikutuksesta vastaanottavan vakuutuskassan taseeseen sekä jakautumiseen sovellettavista kirjanpidollisista menetelmistä;",
+      "clause_number": 7,
+      "section_number": "5",
+      "statute_id": "946/2021"
+    },
+    {
+      "id": "faf59a4e-1ec6-4269-907a-69e668b57a7d",
+      "node_type": "Clause",
+      "publisher": "finlex",
+      "title": "§ 5 mom 8",
+      "text": "8) ehdotus jakautumisen täytäntöönpanon suunnitellusta rekisteröintiajankohdasta, joka saa olla enintään kuuden kuukauden kuluttua jakautumissuunnitelman tekemisestä;",
+      "clause_number": 8,
+      "section_number": "5",
+      "statute_id": "946/2021"
+    },
+    {
+      "id": "76e6e95d-f868-4ee8-b70e-1e93518d626f",
+      "node_type": "Clause",
+      "publisher": "finlex",
+      "title": "§ 5 mom 9",
+      "text": "9) ehdotus mahdollisiksi muiksi jakautumisen ehdoiksi.",
+      "clause_number": 9,
+      "section_number": "5",
+      "statute_id": "946/2021"
+    },
+    {
+      "id": "2e6ab996-cc65-42c7-a476-56305e29aee2",
+      "node_type": "Clause",
+      "publisher": "finlex",
+      "title": "§ 6 mom 1",
+      "text": "1) kunkin sulautumiseen tai jakautumiseen osallistuvan vakuutuskassan hallituksen jäsenten ja toimitusjohtajan vakuutus siitä, että sulautumisessa tai jakautumisessa on noudatettu tämän lain säännöksiä;",
+      "clause_number": 1,
+      "section_number": "6",
+      "statute_id": "946/2021"
+    },
+    {
+      "id": "957b2965-19cb-433a-a4e3-ce77a2528845",
+      "node_type": "Clause",
+      "publisher": "finlex",
+      "title": "§ 6 mom 2",
+      "text": "2) selvitys siitä, että vastaanottava vakuutuskassa täyttää 5 luvussa säädetyt vaatimukset vastuuvelan kattamisesta;",
+      "clause_number": 2,
+      "section_number": "6",
+      "statute_id": "946/2021"
+    },
+    {
+      "id": "a48b6834-a8f1-496d-a196-5523dc883364",
+      "node_type": "Clause",
+      "publisher": "finlex",
+      "title": "§ 6 mom 1",
+      "text": "3) hallituksen jäsenen tai toimitusjohtajan todistus eläkesäätiö- ja eläkekassalain 10 luvun 6 §:n 1 momentissa tai 11 luvun 7 §:n 1 momentissa tarkoitettujen ilmoitusten lähettämisestä;",
+      "clause_number": 1,
+      "section_number": "6",
+      "statute_id": "946/2021"
+    },
+    {
+      "id": "be76b028-337f-44b2-9a9c-f4491052829c",
+      "node_type": "Clause",
+      "publisher": "finlex",
+      "title": "§ 6 mom 3",
+      "text": "3) hallituksen jäsenen tai toimitusjohtajan todistus eläkesäätiö- ja eläkekassalain 10 luvun 6 §:n 1 momentissa tai 11 luvun 7 §:n 1 momentissa tarkoitettujen ilmoitusten lähettämisestä;",
+      "clause_number": 3,
+      "section_number": "6",
+      "statute_id": "946/2021"
+    },
+    {
+      "id": "67006d45-6909-418f-bfd7-15a79789f051",
+      "node_type": "Clause",
+      "publisher": "finlex",
+      "title": "§ 6 mom 4",
+      "text": "4) sulautumiseen tai jakautumiseen osallistuvien vakuutuskassojen sulautumista tai jakautumista koskevat päätökset;",
+      "clause_number": 4,
+      "section_number": "6",
+      "statute_id": "946/2021"
+    },
+    {
+      "id": "2a5a0724-5eab-47d2-bb20-3b84bd55c60a",
+      "node_type": "Clause",
+      "publisher": "finlex",
+      "title": "§ 6 mom 5",
+      "text": "5) jakautumisessa tilintarkastajan lausunto siitä, että vastaanottavalle vakuutuskassalle on siirretty jakautumissuunnitelman mukaiset varat.",
+      "clause_number": 5,
+      "section_number": "6",
+      "statute_id": "946/2021"
+    },
+    {
+      "id": "66d572f9-f04e-42e5-a2d1-de7dd40dd190",
+      "node_type": "Clause",
+      "publisher": "finlex",
+      "title": "§ 3 mom 1",
+      "text": "1) luovuttavan ja vastaanottavan vakuutuskassan toiminimet, yritys- ja yhteisötunnukset ja kotipaikat;",
+      "clause_number": 1,
+      "section_number": "3",
+      "statute_id": "946/2021"
+    },
+    {
+      "id": "0226062e-2dec-419f-a820-093f8599086e",
+      "node_type": "Clause",
+      "publisher": "finlex",
+      "title": "§ 3 mom 2",
+      "text": "2) selvitys vakuutuskannan luovutuksen syystä;",
+      "clause_number": 2,
+      "section_number": "3",
+      "statute_id": "946/2021"
+    },
+    {
+      "id": "a19ec643-0eb7-4f42-816d-a616d97aa151",
+      "node_type": "Clause",
+      "publisher": "finlex",
+      "title": "§ 3 mom 3",
+      "text": "3) tarvittaessa ehdotus vastaanottavan vakuutuskassan sääntöjen muuttamiseksi;",
+      "clause_number": 3,
+      "section_number": "3",
+      "statute_id": "946/2021"
+    },
+    {
+      "id": "76811641-20c8-436e-865e-57a64110bb03",
+      "node_type": "Clause",
+      "publisher": "finlex",
+      "title": "§ 3 mom 4",
+      "text": "4) selvitys siitä, mitä on sovittu luovutettavaan vakuutuskantaan liittyvästä osakkuudesta;",
+      "clause_number": 4,
+      "section_number": "3",
+      "statute_id": "946/2021"
+    },
+    {
+      "id": "3f98f00c-b279-49ae-958e-01901874fb6b",
+      "node_type": "Clause",
+      "publisher": "finlex",
+      "title": "§ 3 mom 5",
+      "text": "5) selvitys luovutettavasta vakuutuskannasta ja sitä vastaavina varoina luovutettavasta omaisuudesta;",
+      "clause_number": 5,
+      "section_number": "3",
+      "statute_id": "946/2021"
+    },
+    {
+      "id": "b3135f4b-d157-453f-ab37-a22649f45563",
+      "node_type": "Clause",
+      "publisher": "finlex",
+      "title": "§ 3 mom 6",
+      "text": "6) ehdotus vakuutuskannan luovuttamisesta mahdollisesti suoritettavasta vastikkeesta ja sen ehdoista;",
+      "clause_number": 6,
+      "section_number": "3",
+      "statute_id": "946/2021"
+    },
+    {
+      "id": "e1f0838b-241f-40d0-8370-f44436a4edd5",
+      "node_type": "Clause",
+      "publisher": "finlex",
+      "title": "§ 3 mom 7",
+      "text": "7) selvitys siitä, että luovuttava ja vastaanottava vakuutuskassa täyttävät luovutuksen jälkeen 4 ja 5 luvussa säädetyt vaatimukset;",
+      "clause_number": 7,
+      "section_number": "3",
+      "statute_id": "946/2021"
+    },
+    {
+      "id": "49fd97b7-9dea-412c-9681-ea992d151e6e",
+      "node_type": "Clause",
+      "publisher": "finlex",
+      "title": "§ 3 mom 8",
+      "text": "8) ehdotus suunnitellusta vakuutuskannan luovutusajankohdasta;",
+      "clause_number": 8,
+      "section_number": "3",
+      "statute_id": "946/2021"
+    },
+    {
+      "id": "3bcd3c70-f875-42ca-a256-ab0c5551e35d",
+      "node_type": "Clause",
+      "publisher": "finlex",
+      "title": "§ 3 mom 9",
+      "text": "9) ehdotus mahdollisiksi muiksi vakuutuskannan luovutuksen ehdoiksi.",
+      "clause_number": 9,
+      "section_number": "3",
+      "statute_id": "946/2021"
+    },
+    {
+      "id": "824afd0d-b88a-415a-9a1a-576e4027bb08",
+      "node_type": "Clause",
+      "publisher": "finlex",
+      "title": "§ 4 mom 1",
+      "text": "1) vakuutuskannan luovuttamista koskeva suunnitelma;",
+      "clause_number": 1,
+      "section_number": "4",
+      "statute_id": "946/2021"
+    },
+    {
+      "id": "6ad3399f-21ed-4058-b90d-21ed253e1ac7",
+      "node_type": "Clause",
+      "publisher": "finlex",
+      "title": "§ 4 mom 2",
+      "text": "2) kunkin vakuutuskannan luovuttamiseen osallistuvan vakuutuskassan viimeksi päättyneen tilikauden tilinpäätös, toimintakertomus ja tilintarkastuskertomus;",
+      "clause_number": 2,
+      "section_number": "4",
+      "statute_id": "946/2021"
+    },
+    {
+      "id": "2b56831d-6093-49eb-ab2a-c5536f8a8e5e",
+      "node_type": "Clause",
+      "publisher": "finlex",
+      "title": "§ 4 mom 3",
+      "text": "3) hallituksen selostus tilinpäätöksen ja toimintakertomuksen jälkeisistä vakuutuskassan asemaan olennaisesti vaikuttavista seikoista sekä seikoista, joilla saattaa olla merkitystä harkittaessa vakuutuskannan luovuttamista koskevan sopimuksen hyväksymistä;",
+      "clause_number": 3,
+      "section_number": "4",
+      "statute_id": "946/2021"
+    },
+    {
+      "id": "61c49bd6-9c2d-447c-b363-ba09b32ac3d0",
+      "node_type": "Clause",
+      "publisher": "finlex",
+      "title": "§ 4 mom 4",
+      "text": "4) vastaanottavan vakuutuskassan säännöt ja tarvittaessa niitä koskeva vastuun siirtämisestä johtuva muutosehdotus.",
+      "clause_number": 4,
+      "section_number": "4",
+      "statute_id": "946/2021"
+    },
+    {
+      "id": "6e31a36b-5741-462f-9ae7-c656df813d08",
+      "node_type": "Clause",
+      "publisher": "finlex",
+      "title": "§ 6 mom 1",
+      "text": "1) jollei toimenpide loukkaa vakuutettuja etuja;",
+      "clause_number": 1,
+      "section_number": "6",
+      "statute_id": "946/2021"
+    },
+    {
+      "id": "3be4a018-8b84-4ec4-ac71-c9a75c7a4254",
+      "node_type": "Clause",
+      "publisher": "finlex",
+      "title": "§ 6 mom 2",
+      "text": "2) jollei sen voida katsoa vaarantavan vakuutustoiminnan tervettä kehitystä;",
+      "clause_number": 2,
+      "section_number": "6",
+      "statute_id": "946/2021"
+    },
+    {
+      "id": "c76f35d9-177c-42f0-8c0f-9d7166f38176",
+      "node_type": "Clause",
+      "publisher": "finlex",
+      "title": "§ 6 mom 1",
+      "text": "3) jos Finanssivalvonta on hyväksynyt vastaanottavan vakuutuskassan 4 §:n 1 momentin 4 kohdassa tarkoitetun kassan sääntöjen muuttamisen.",
+      "clause_number": 1,
+      "section_number": "6",
+      "statute_id": "946/2021"
+    },
+    {
+      "id": "ba4870f5-6354-4347-861e-6a9207b731fc",
+      "node_type": "Clause",
+      "publisher": "finlex",
+      "title": "§ 6 mom 3",
+      "text": "3) jos Finanssivalvonta on hyväksynyt vastaanottavan vakuutuskassan 4 §:n 1 momentin 4 kohdassa tarkoitetun kassan sääntöjen muuttamisen.",
+      "clause_number": 3,
+      "section_number": "6",
+      "statute_id": "946/2021"
+    },
+    {
+      "id": "e3596dbe-70c3-4e0c-be71-2ab3973b30f8",
+      "node_type": "Clause",
+      "publisher": "finlex",
+      "title": "§ 2 mom 1",
+      "text": "1) jollei vakuutettujen lukumäärä kahden viimeksi kuluneen kalenterivuoden päättyessä ole täyttänyt 2 luvun 2 §:ssä säädettyä tai vakuutuskassan säännöissä määrättyä vähimmäismäärää eikä voida pitää todennäköisenä, että lukumäärä lähinnä neljän seuraavan kuukauden aikana nousee edellä tarkoitetuista korkeampaan määrään;",
+      "clause_number": 1,
+      "section_number": "2",
+      "statute_id": "946/2021"
+    },
+    {
+      "id": "89dfe1ac-47a7-4bf2-860e-68eb9e0eb3a8",
+      "node_type": "Clause",
+      "publisher": "finlex",
+      "title": "§ 2 mom 2",
+      "text": "2) jos vakuutuskassan tilinpäätös osoittaa alijäämää tai jos mahdollinen perustamispääoma on vakuutuskassan säännöissä vahvistettua määrää pienempi eikä alijäämää ole katettu taikka perustamispääomaa täytetty kahden seuraavan tilikauden aikana;",
+      "clause_number": 2,
+      "section_number": "2",
+      "statute_id": "946/2021"
+    },
+    {
+      "id": "e04eee4a-fa71-4529-b8e3-a29be02843df",
+      "node_type": "Clause",
+      "publisher": "finlex",
+      "title": "§ 2 mom 3",
+      "text": "3) jos se ei täytä 4 luvun vastuuvelan laskuperusteita tai 5 luvun vastuuvelan kattamista ja katteen eriyttämistä koskevia vaatimuksia;",
+      "clause_number": 3,
+      "section_number": "2",
+      "statute_id": "946/2021"
+    },
+    {
+      "id": "e678b2f6-cb15-4244-8f84-1e39e4fc1151",
+      "node_type": "Clause",
+      "publisher": "finlex",
+      "title": "§ 2 mom 4",
+      "text": "4) jos sen kaikki osakkaat lopettavat sen toimintansa, jonka piirissä vakuutetut henkilöt toimivat;",
+      "clause_number": 4,
+      "section_number": "2",
+      "statute_id": "946/2021"
+    },
+    {
+      "id": "475a160f-d504-4762-b1cf-99292653b5b0",
+      "node_type": "Clause",
+      "publisher": "finlex",
+      "title": "§ 2 mom 5",
+      "text": "5) jos se on sääntöjensä mukaan purettava; taikka",
+      "clause_number": 5,
+      "section_number": "2",
+      "statute_id": "946/2021"
+    },
+    {
+      "id": "ad11d2c9-b6f6-4e04-97a6-1d905bf00d7b",
+      "node_type": "Clause",
+      "publisher": "finlex",
+      "title": "§ 2 mom 6",
+      "text": "6) jos Finanssivalvonta on määrännyt sen purettavaksi Finanssivalvonnasta annetun lain (878/2008) 26 §:n perusteella.",
+      "clause_number": 6,
+      "section_number": "2",
+      "statute_id": "946/2021"
+    },
+    {
+      "id": "a584e608-c6e4-4023-89f5-719a33880b3f",
+      "node_type": "Clause",
+      "publisher": "finlex",
+      "title": "§ 6 mom 1",
+      "text": "1) arvio selvitystilan aikana erääntyvistä etuuksista;",
+      "clause_number": 1,
+      "section_number": "6",
+      "statute_id": "946/2021"
+    },
+    {
+      "id": "cd2170d7-3c79-4312-99c6-3090c03b9e5d",
+      "node_type": "Clause",
+      "publisher": "finlex",
+      "title": "§ 6 mom 2",
+      "text": "2) velat, joiden vakuutena on esineoikeus vakuutuskassan omaisuuteen;",
+      "clause_number": 2,
+      "section_number": "6",
+      "statute_id": "946/2021"
+    },
+    {
+      "id": "c46b4516-b37c-436c-a6e9-8f60705e90eb",
+      "node_type": "Clause",
+      "publisher": "finlex",
+      "title": "§ 6 mom 3",
+      "text": "3) selvitystilamenettelystä johtuvat ja vakuutuskassan toiminnasta aiheutuvat juoksevat hallintokulut;",
+      "clause_number": 3,
+      "section_number": "6",
+      "statute_id": "946/2021"
+    },
+    {
+      "id": "5aa69fd8-bdb5-45dd-84ed-ec71a83da3e2",
+      "node_type": "Clause",
+      "publisher": "finlex",
+      "title": "§ 6 mom 4",
+      "text": "4) ennen selvitystilan alkamista maksettavaksi erääntyneet etuudet, jotka ovat suorittamatta;",
+      "clause_number": 4,
+      "section_number": "6",
+      "statute_id": "946/2021"
+    },
+    {
+      "id": "22558caa-02ac-4fbd-a7fa-61dac42ac3ad",
+      "node_type": "Clause",
+      "publisher": "finlex",
+      "title": "§ 6 mom 5",
+      "text": "5) muut mahdolliset velat, joiden oikeusperuste on syntynyt ennen selvitystilan alkamista.",
+      "clause_number": 5,
+      "section_number": "6",
+      "statute_id": "946/2021"
+    },
+    {
+      "id": "f4384e0d-b360-421c-9e0a-6392c7970b94",
+      "node_type": "Clause",
+      "publisher": "finlex",
+      "title": "§ 1 mom 1",
+      "text": "1) harjoittaa vakuutuskassatoimintaa 1 luvun 4 §:n 1 momentissa säädetyn toiminnan tarkoituksen vastaisesti, ennen mainitun luvun 4 §:n 2 momentissa tarkoitettua rekisteröintiä, mainitun luvun 5 tai 7 §:ssä tarkoitetun toimintapiirin ulkopuolella, vakuuttamalla muita kuin mainitun luvun 6 §:ssä tarkoitettuja henkilöitä tai 9 luvun 2 §:n vastaisesti asettamatta vakuutuskassaa selvitystilaan taikka",
+      "clause_number": 1,
+      "section_number": "1",
+      "statute_id": "946/2021"
+    },
+    {
+      "id": "f67ccc6b-07f8-4d7f-999a-747724f58e6c",
+      "node_type": "Clause",
+      "publisher": "finlex",
+      "title": "§ 1 mom 1",
+      "text": "1) harjoittaa vakuutuskassatoimintaa 1 luvun 4 §:n 1 momentissa säädetyn toiminnan tarkoituksen vastaisesti, ennen mainitun luvun 4 §:n 2 momentissa tarkoitettua rekisteröintiä, mainitun luvun 5 tai 7 §:ssä tarkoitetun toimintapiirin ulkopuolella, vakuuttamalla muita kuin mainitun luvun 6 §:ssä tarkoitettuja henkilöitä tai 9 luvun 2 §:n vastaisesti asettamatta vakuutuskassaa selvitystilaan taikka",
+      "clause_number": 1,
+      "section_number": "1",
+      "statute_id": "946/2021"
+    },
+    {
+      "id": "48e3d07c-08ed-47c0-acc7-5dd326b3c319",
+      "node_type": "Clause",
+      "publisher": "finlex",
+      "title": "§ 1 mom 2",
+      "text": "2) ottaa vakuutuskassaan uusia vakuutettuja 9 luvun 7 §:n 2 momentin vastaisesti,",
+      "clause_number": 2,
+      "section_number": "1",
+      "statute_id": "946/2021"
+    },
+    {
+      "id": "b902072a-2fb5-46ff-94f3-ab8dc7f145f6",
+      "node_type": "Clause",
+      "publisher": "finlex",
+      "title": "§ 1 mom 2",
+      "text": "2) ottaa vakuutuskassaan uusia vakuutettuja 9 luvun 7 §:n 2 momentin vastaisesti,",
+      "clause_number": 2,
+      "section_number": "1",
+      "statute_id": "946/2021"
+    },
+    {
+      "id": "237f1597-7192-42bb-9087-61ca6df1a62d",
+      "node_type": "Clause",
+      "publisher": "finlex",
+      "title": "§ 2 mom 1",
+      "text": "1) toimii muutoin kuin asiamiehenä toisen välikätenä eläkesäätiö- ja eläkekassalain 3 luvun 16 §:ssä säädetyn äänioikeuden rajoittamista koskevan määräyksen kiertämiseksi,",
+      "clause_number": 1,
+      "section_number": "2",
+      "statute_id": "946/2021"
+    },
+    {
+      "id": "d8a1e0ad-8cf3-4a8d-aa45-eaa827ede2e5",
+      "node_type": "Clause",
+      "publisher": "finlex",
+      "title": "§ 2 mom 2",
+      "text": "2) käyttää vakuutuskassan varoja 5 luvun 3 §:n vastaisesti,",
+      "clause_number": 2,
+      "section_number": "2",
+      "statute_id": "946/2021"
+    },
+    {
+      "id": "93a4e824-cbd9-444f-95de-d24d5778638d",
+      "node_type": "Clause",
+      "publisher": "finlex",
+      "title": "§ 2 mom 3",
+      "text": "3) jakaa vakuutuskassan varoja kassan osakkaille 4 luvun 14 §:n vastaisesti taikka",
+      "clause_number": 3,
+      "section_number": "2",
+      "statute_id": "946/2021"
+    },
+    {
+      "id": "9aa72728-8044-4851-8ffe-174fb3eaf7f0",
+      "node_type": "Clause",
+      "publisher": "finlex",
+      "title": "§ 2 mom 4",
+      "text": "4) luovuttaa tai panttaa vakuutuskassan hallinnassa olevaa omaisuutta Finanssivalvonnan eläkesäätiö- ja eläkekassalain 9 luvun 2 §:n nojalla määräämän kiellon vastaisesti,",
+      "clause_number": 4,
+      "section_number": "2",
+      "statute_id": "946/2021"
+    },
+    {
+      "id": "73b23761-7a34-4f47-938e-4dfdd2c44605",
+      "node_type": "Clause",
+      "publisher": "finlex",
+      "title": "§ 3 mom 3",
+      "text": "1) rikkoo, mitä kassankokouksen pöytäkirjan nähtävänä pitämisestä säädetään eläkesäätiö- ja eläkekassalain 3 luvun 17 §:n 3 momentissa,",
+      "clause_number": 3,
+      "section_number": "3",
+      "statute_id": "946/2021"
+    },
+    {
+      "id": "48861ec1-3e93-442e-9a8a-ceaf80735589",
+      "node_type": "Clause",
+      "publisher": "finlex",
+      "title": "§ 3 mom 1",
+      "text": "1) rikkoo, mitä kassankokouksen pöytäkirjan nähtävänä pitämisestä säädetään eläkesäätiö- ja eläkekassalain 3 luvun 17 §:n 3 momentissa,",
+      "clause_number": 1,
+      "section_number": "3",
+      "statute_id": "946/2021"
+    },
+    {
+      "id": "10fad3d5-2f83-4b08-96fb-cf43e6a0546f",
+      "node_type": "Clause",
+      "publisher": "finlex",
+      "title": "§ 3 mom 2",
+      "text": "2) jättää toimittamatta Finanssivalvonnalle 3 luvun 4 §:ssä tarkoitetun ilmoituksen vastuullisen matemaatikon nimittämisestä tai eroamisesta,",
+      "clause_number": 2,
+      "section_number": "3",
+      "statute_id": "946/2021"
+    },
+    {
+      "id": "251d56cc-3e21-48fd-92dc-0b7c4602ca65",
+      "node_type": "Clause",
+      "publisher": "finlex",
+      "title": "§ 3 mom 3",
+      "text": "3) jättää toimittamatta Finanssivalvonnalle 4 luvun 6 §:ssä tarkoitetut laskuperusteet vakuutusmaksun määrittämiseksi,",
+      "clause_number": 3,
+      "section_number": "3",
+      "statute_id": "946/2021"
+    },
+    {
+      "id": "759929fb-1507-42f2-b3e9-7c85fbbf90ee",
+      "node_type": "Clause",
+      "publisher": "finlex",
+      "title": "§ 3 mom 4",
+      "text": "4) jättää toimittamatta Finanssivalvonnalle 7 luvun 10 §:ssä tarkoitetun lopputilityksen sulautumisesta tai jakautumisesta taikka eläkesäätiö- ja eläkekassalain 13 luvun 33 §:ssä tarkoitetun lopputilityksen selvitystilasta,",
+      "clause_number": 4,
+      "section_number": "3",
+      "statute_id": "946/2021"
+    },
+    {
+      "id": "c8b31aee-4660-4d7a-9841-25009227521a",
+      "node_type": "Clause",
+      "publisher": "finlex",
+      "title": "§ 3 mom 5",
+      "text": "5) jättää toimittamatta Finanssivalvonnalle 9 luvun 3 §:ssä tarkoitetun ilmoituksen kutsusta selvitystilaan asettamisesta päättävään kassankokoukseen, eläkesäätiö- ja eläkekassalain 13 luvun 9 §:ssä tarkoitetun ilmoituksen selvitystilaan asettamisesta ja selvitysmiehen valinnasta, 9 luvun 6 §:ssä tarkoitetun ilmoituksen selvitystilaa koskevasta toimintasuunnitelmasta, eläkesäätiö- ja eläkekassalain 13 luvun 36 §:ssä tarkoitetun ilmoituksen vakuutuskassan purkamisesta tai tämän lain 9 luvun 14 §:ssä tarkoitetun ilmoituksen selvitystilan lopettamisesta,",
+      "clause_number": 5,
+      "section_number": "3",
+      "statute_id": "946/2021"
+    },
+    {
+      "id": "58f7ad88-dd50-443c-8a07-59211630bf36",
+      "node_type": "Clause",
+      "publisher": "finlex",
+      "title": "§ 3 mom 6",
+      "text": "6) rikkoo 3 luvun 7 tai 8 §:n tai eläkesäätiö- ja eläkekassalain 6 luvun 1–5, 7 tai 8 §:n säännöksiä kirjanpidon, tilinpäätöksen tai toimintakertomuksen laatimisesta tai eläkesäätiö- ja eläkekassalain 6 luvun 13 §:ää tilinpäätöksen, toimintakertomuksen, tilintarkastajien lausunnon ja tilastokertomuksen toimittamisesta Finanssivalvonnalle tai",
+      "clause_number": 6,
+      "section_number": "3",
+      "statute_id": "946/2021"
+    },
+    {
+      "id": "2c9d22ad-4c88-4ae4-b64a-358a57b06251",
+      "node_type": "Clause",
+      "publisher": "finlex",
+      "title": "§ 3 mom 7",
+      "text": "7) jättää toimittamatta Finanssivalvonnalle 2 luvun 5 §:ssä tarkoitetun ilmoituksen osakasluettelon muutoksista tai eläkesäätiö- ja eläkekassalain 9 luvun 5 §:ssä tarkoitetun ilmoituksen rekisteriin merkittyjen tietojen muuttumisesta,",
+      "clause_number": 7,
+      "section_number": "3",
+      "statute_id": "946/2021"
+    }
+  ],
+  "cross_references": [
+    {
+      "raw_text": "pykälän 2 momentissa t",
+      "statute_id": "946/2021",
+      "section_number": "2 momentissa t",
+      "clause_number": null,
+      "resolution_confidence": 0.0
+    },
+    {
+      "raw_text": "pykälän 1 momentin",
+      "statute_id": "946/2021",
+      "section_number": "1 momentin",
+      "clause_number": null,
+      "resolution_confidence": 0.0
+    }
+  ],
+  "raw_html_path": "C:\\Users\\danit\\finance-hack\\aalto-hackaton-2026\\data\\raw\\finlex\\Laki (säädöskokoelma)\\Vakuutuskassalaki.html"
+}

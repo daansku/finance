@@ -1,0 +1,1100 @@
+{
+  "statute": {
+    "id": "fb448890-5841-4e52-a765-a3e56b2cdb64",
+    "node_type": "Statute",
+    "publisher": "finlex",
+    "title": "Työaikalaki",
+    "text": "Työaikalaki",
+    "statute_id": "",
+    "finlex_url": ""
+  },
+  "chapters": [
+    {
+      "id": "21465054-a799-4be0-9f62-d711639d7a81",
+      "node_type": "Chapter",
+      "publisher": "finlex",
+      "title": "Chapter 1",
+      "text": "1 luku Lain soveltamisala",
+      "chapter_number": 1,
+      "statute_id": ""
+    },
+    {
+      "id": "5f1de9d7-a401-49b6-85da-3f0ccfdc271b",
+      "node_type": "Chapter",
+      "publisher": "finlex",
+      "title": "Chapter 2",
+      "text": "2 luku Työajaksi luettava aika",
+      "chapter_number": 2,
+      "statute_id": ""
+    },
+    {
+      "id": "ba16e2a1-8f6c-46a2-9974-3918d20f55c2",
+      "node_type": "Chapter",
+      "publisher": "finlex",
+      "title": "Chapter 3",
+      "text": "3 luku Säännöllinen työaika",
+      "chapter_number": 3,
+      "statute_id": ""
+    },
+    {
+      "id": "c4887226-65f2-4bd8-bf9b-cec3a0ee62c0",
+      "node_type": "Chapter",
+      "publisher": "finlex",
+      "title": "Chapter 4",
+      "text": "4 luku Säännöllisen työajan ylittäminen",
+      "chapter_number": 4,
+      "statute_id": ""
+    },
+    {
+      "id": "db966f7a-3f5e-465e-a9b3-553eb163a85b",
+      "node_type": "Chapter",
+      "publisher": "finlex",
+      "title": "Chapter 5",
+      "text": "5 luku Yö- ja vuorotyö",
+      "chapter_number": 5,
+      "statute_id": ""
+    },
+    {
+      "id": "8ae6ef81-84a5-4c78-9947-a3f7a80bb6e0",
+      "node_type": "Chapter",
+      "publisher": "finlex",
+      "title": "Chapter 6",
+      "text": "6 luku Lepoajat ja sunnuntaityö",
+      "chapter_number": 6,
+      "statute_id": ""
+    },
+    {
+      "id": "7b8353df-81d5-495e-baeb-2834dfe017ca",
+      "node_type": "Chapter",
+      "publisher": "finlex",
+      "title": "Chapter 7",
+      "text": "7 luku Työaika-asiakirjat",
+      "chapter_number": 7,
+      "statute_id": ""
+    },
+    {
+      "id": "d20af707-10d5-400c-b66e-2c48632660d6",
+      "node_type": "Chapter",
+      "publisher": "finlex",
+      "title": "Chapter 8",
+      "text": "8 luku Erinäiset säännökset",
+      "chapter_number": 8,
+      "statute_id": ""
+    },
+    {
+      "id": "f5538d8b-baad-4e74-9c06-089886a71e68",
+      "node_type": "Chapter",
+      "publisher": "finlex",
+      "title": "Chapter 9",
+      "text": "9 luku Voimaantulo- ja siirtymäsäännökset",
+      "chapter_number": 9,
+      "statute_id": ""
+    }
+  ],
+  "sections": [
+    {
+      "id": "4836d1cf-c8ce-4d34-a603-881542d6bcea",
+      "node_type": "Section",
+      "publisher": "finlex",
+      "title": "1 § Soveltamisala",
+      "text": "Tätä lakia sovelletaan työsopimuslain (320/70) 1 §:n 1 momentissa tarkoitetun työsopimuksen sekä virkasuhteen perusteella tehtävään työhön, jollei toisin säädetä. Alle 18-vuotiaan tekemään työhön sovelletaan lisäksi nuorista työntekijöistä annettua lakia (998/93). Mitä tässä laissa säädetään työntekijästä, sovelletaan myös virkamieheen ja viranhaltijaan, jollei toisin säädetä. Samoin, mitä tässä laissa säädetään työehtosopimuksesta, sovelletaan vastaavasti virkaehtosopimukseen.",
+      "section_number": "1",
+      "chapter_number": 1,
+      "statute_id": ""
+    },
+    {
+      "id": "3e9e51da-dc03-4c37-b426-aa0538511ff2",
+      "node_type": "Section",
+      "publisher": "finlex",
+      "title": "2 § Poikkeukset soveltamisalasta",
+      "text": "Tätä lakia ei sovelleta: Tämän lain 28 §:n 1 ja 2 momentin ja 29―32 §:n säännöksiä ei sovelleta moottoriajoneuvon kuljettajan työhön, jota koskee tieliikenteen sosiaalilainsäädännön yhdenmukaistamisesta annettu neuvoston asetus (ETY) n:o 3820/85. Asetuksella voidaan säätää, että tätä lakia ei sovelleta virkamiehen tai viranhaltijan työhön, jossa toiminnan erityispiirteiden vuoksi työajan pituutta ei mitata tai määritellä ennalta taikka jossa virkamiehet tai viranhaltijat voivat itse päättää työajan pituudesta.",
+      "section_number": "2",
+      "chapter_number": 1,
+      "statute_id": ""
+    },
+    {
+      "id": "6f4e5ee4-1711-4712-9729-9bf601b5506f",
+      "node_type": "Section",
+      "publisher": "finlex",
+      "title": "3 § Työneuvoston lausunto",
+      "text": "Tuomioistuimen, työsuojelupiirin työsuojelutoimiston, työnantajien tai työntekijöiden keskusjärjestön, valtiovarainministeriön, kirkon sopimusvaltuuskunnan, kunnallisen työmarkkinalaitoksen, Ahvenanmaan maakunnan maakuntahallituksen taikka Ahvenanmaan maakunnan kunnallisen sopimusvaltuuskunnan pyynnöstä työneuvosto antaa lausunnon tämän lain soveltamisesta tai tulkinnasta. Tuomioistuin voi pyytää työneuvoston lausunnon omasta aloitteestaan tai asianosaisen vaatimuksesta.",
+      "section_number": "3",
+      "chapter_number": 1,
+      "statute_id": ""
+    },
+    {
+      "id": "7d1911ee-f7f9-4d75-98b4-08133b961bfd",
+      "node_type": "Section",
+      "publisher": "finlex",
+      "title": "4 § Työaika",
+      "text": "Työajaksi luetaan työhön käytetty aika sekä aika, jonka työntekijä on velvollinen olemaan työpaikalla työnantajan käytettävissä. Jäljempänä 28 §:ssä tarkoitettuja tai sopimukseen perustuvia päivittäisiä lepoaikoja ei lueta työaikaan, jos työntekijä saa näinä aikoina esteettömästi poistua työpaikalta. Matkaan käytettyä aikaa ei lueta työaikaan, ellei sitä samalla ole pidettävä työsuorituksena.",
+      "section_number": "4",
+      "chapter_number": 2,
+      "statute_id": ""
+    },
+    {
+      "id": "de53c4bc-2bb0-45f7-bb15-3b5ccc6f7099",
+      "node_type": "Section",
+      "publisher": "finlex",
+      "title": "5 § Varallaoloaika",
+      "text": "Työnantaja ja työntekijä voivat sopia, että työntekijän on oltava asunnossaan tai muualla tavoitettavissa niin, että hänet voidaan tarvittaessa kutsua työhön. Varallaoloaikaa ei lueta työaikaan. Varallaoloajan pituus ja varallaolon toistuvuus eivät saa haitata kohtuuttomasti työntekijän vapaa-ajan käyttöä. Varallaolosta sovittaessa on sovittava myös siitä suoritettavasta korvauksesta. Korvauksen määrässä on otettava huomioon varallaolosta työntekijän vapaa-ajan käytölle aiheutuvat rajoitukset. Varallaoloon työntekijän asunnossa käytetystä ajasta on vähintään puolet korvattava joko rahassa tai vastaavalla säännöllisenä työaikana annettavalla vapaa-ajalla. Jos varallaolo on työn laadun ja erittäin pakottavien syiden vuoksi välttämätöntä, ei julkisen yhteisön virkamies tai viranhaltija saa kieltäytyä siitä.",
+      "section_number": "5",
+      "chapter_number": 2,
+      "statute_id": ""
+    },
+    {
+      "id": "6a84aeea-8498-444b-9707-fd4920ffad15",
+      "node_type": "Section",
+      "publisher": "finlex",
+      "title": "6 § Yleissäännös",
+      "text": "Säännöllinen työaika on enintään kahdeksan tuntia vuorokaudessa ja 40 tuntia viikossa. Viikoittainen säännöllinen työaika voidaan järjestää myös keskimäärin 40 tunniksi enintään 52 viikon ajanjakson aikana.",
+      "section_number": "6",
+      "chapter_number": 3,
+      "statute_id": ""
+    },
+    {
+      "id": "c23ccdae-05ea-44e2-816f-a87f19673c64",
+      "node_type": "Section",
+      "publisher": "finlex",
+      "title": "7 § Jaksotyöaika",
+      "text": "Säännöllinen työaika saadaan 6 §:ssä säädetystä poiketen järjestää niin, että se on kolmen viikon pituisena ajanjaksona enintään 120 tuntia tai kahden viikon pituisena ajanjaksona enintään 80 tuntia: Työn tarkoituksenmukaiseksi järjestämiseksi tai työntekijöille epätarkoituksenmukaisten työvuorojen välttämiseksi voidaan säännöllinen työaika 1 momentissa säädetystä poiketen järjestää niin, että se on kahden toisiaan seuraavan kolmen viikon ajanjakson aikana tai kolmen toisiaan seuraavan kahden viikon ajanjakson aikana enintään 240 tuntia. Säännöllinen työaika ei saa kummankaan kolmen viikon ajanjakson aikana ylittää 128 tuntia eikä yhdenkään kahden viikon ajanjakson aikana 88 tuntia.",
+      "section_number": "7",
+      "chapter_number": 3,
+      "statute_id": ""
+    },
+    {
+      "id": "7f729b69-23f9-4ab7-9b6d-9a927f3e2a6d",
+      "node_type": "Section",
+      "publisher": "finlex",
+      "title": "8 § Moottoriajoneuvon kuljettajan työaika",
+      "text": "Moottoriajoneuvon kuljettajan vuorokautinen työaika saa olla enintään 11 tuntia vuorokausilepoa seuraavan 24 tunnin yhdenjaksoisen ajanjakson aikana. Jos moottoriajoneuvon kuljettajan työtä ei voida muulla tavoin järjestää tarkoituksenmukaisesti, saadaan vuorokautista työaikaa pidentää enintään 13 tunniksi, jos työaika ei ylitä 22 tuntia pidennetyn työajan jälkeistä vuorokausilepoa seuraavan 48 tunnin ajanjakson aikana.",
+      "section_number": "8",
+      "chapter_number": 3,
+      "statute_id": ""
+    },
+    {
+      "id": "71a83622-cd8a-4908-8d5b-0f85841df6f2",
+      "node_type": "Section",
+      "publisher": "finlex",
+      "title": "9 § Työehtosopimukseen perustuva säännöllinen työaika",
+      "text": "Työnantaja tai sellainen työnantajien yhdistys, jonka toimintapiiri käsittää koko maan, sekä työntekijöiden yhdistys, jonka toimintapiiri käsittää koko maan, voivat työehtosopimuksessa sopia säännöllisestä työajasta 6―8 §:n säännöksistä poiketen. Työehtosopimukseen perustuva säännöllinen työaika saa olla keskimäärin enintään 40 tuntia viikossa enintään 52 viikon ajanjakson aikana. Edellä 1 momentissa tarkoitettuja työehtosopimuksen määräyksiä työnantaja saa soveltaa niidenkin työntekijöiden työsuhteissa, jotka eivät ole työehtosopimukseen sidottuja mutta joiden työsuhteissa muutoin noudatetaan työehtosopimuksen määräyksiä. Edellä tarkoitettuja määräyksiä saadaan noudattaa työehtosopimuksen lakkaamisen jälkeen uuden työehtosopimuksen voimaantuloon saakka niissä työsuhteissa, joissa määräyksiä saataisiin soveltaa, jos työehtosopimus olisi edelleen voimassa. Jos uutta työehtosopimusta ei tehdä kuuden kuukauden kuluessa edellisen lakkaamisesta, molemmilla sopijapuolilla on oikeus ilmoittaa, että työehtosopimuksen edellä tarkoitettujen määräysten soveltaminen on lopetettava tuolloin kuluvan tasoittumisjakson päättyessä. Ilmoitus on tehtävä vähintään kaksi viikkoa ennen kuluvan tasoittumisjakson päättymistä. Mitä edellä tässä pykälässä säädetään työnantajasta sekä työnantajien yhdistyksestä, jonka toimintapiiri käsittää koko maan, sovelletaan vastaavasti asianomaiseen valtion sopimusviranomaiseen, kuntaan, kuntayhtymään, kunnalliseen työmarkkinalaitokseen, evankelisluterilaiseen kirkkoon ja ortodoksiseen kirkkokuntaan, seurakuntaan, seurakuntaliittoon ja muuhun seurakuntien yhtymään sekä Ahvenanmaan maakunnan maakuntahallitukseen ja Ahvenanmaan maakunnan kunnalliseen sopimusvaltuuskuntaan.",
+      "section_number": "9",
+      "chapter_number": 3,
+      "statute_id": ""
+    },
+    {
+      "id": "8494e2fd-4245-4874-8315-d1e0058d3b57",
+      "node_type": "Section",
+      "publisher": "finlex",
+      "title": "10 § Työsopimuslain 17 §:ssä tarkoitettuun työehtosopimukseen perustuva sopimus säännöllisestä työajasta",
+      "text": "Työnantaja, jonka on noudatettava työehtosopimusta työsopimuslain 17 §:n nojalla, ja työehtosopimuksessa tarkoitettu luottamusmies tai, jollei tällaista ole valittu, muu henkilöstön edustaja tai, jollei tällaista ole valittu, henkilöstö tai henkilöstöryhmä yhdessä, voivat sopia säännöllisen työajan järjestelyistä mainitussa työehtosopimuksessa määrätyllä tavalla ja siinä määrätyissä rajoissa. Sopimusta tehtäessä ei kuitenkaan tarvitse noudattaa työehtosopimuksen sopijapuolten paikallisen sopimuksen hyväksyttämiseen liittyviä määräyksiä. Työnantaja ja työntekijä voivat sopia 1 momentissa tarkoitetun sopimuksen rajoissa sen yksityiskohtaisesta soveltamisesta. Jos työntekijät eivät ole valinneet 1 momentissa tarkoitettua luottamusmiestä tai muuta edustajaa, työnantajan on varattava heille tilaisuus valita keskuudestaan edustaja ennen neuvottelujen aloittamista.",
+      "section_number": "10",
+      "chapter_number": 3,
+      "statute_id": ""
+    },
+    {
+      "id": "cd0bcf30-1ae9-4b61-b3e1-009174560bf8",
+      "node_type": "Section",
+      "publisher": "finlex",
+      "title": "11 § Paikallisen sopimuksen tekeminen",
+      "text": "Edellä 10 §:ssä tarkoitettu sopimus säännöllisestä työajasta on tehtävä kirjallisesti, jolleivät sopijapuolet pidä sitä tarpeettomana tai jollei työehtosopimuksesta muuta johdu. Jos sopimus on voimassa yli kaksi viikkoa, se on kuitenkin aina tehtävä kirjallisesti. Toistaiseksi tehty sopimus voidaan irtisanoa päättymään työajan tasoittumisjakson päättyessä. Irtisanomisaika on kaksi viikkoa, jollei toisin ole sovittu. Vuotta pidempi määräaikainen sopimus voidaan irtisanoa neljän kuukauden kuluttua sopimuksen tekemisestä niin kuin toistaiseksi tehty sopimus. Edellä 10 §:ssä tarkoitettu työntekijöiden edustajan tekemä sopimus on annettava työntekijöille tiedoksi viimeistään viikkoa ennen sen soveltamisen alkamista. Sopimus sitoo kaikkia niitä työntekijöitä, joita sopimuksen tehneen työntekijöiden edustajan on katsottava edustavan. Työntekijällä on kuitenkin oikeus noudattaa aikaisempaa työaikaansa, jos hän ilmoittaa siitä työnantajalle viimeistään kahta päivää ennen sopimuksen soveltamista.",
+      "section_number": "11",
+      "chapter_number": 3,
+      "statute_id": ""
+    },
+    {
+      "id": "c96aa46d-2a9d-4aab-9f67-6dbc3cefa370",
+      "node_type": "Section",
+      "publisher": "finlex",
+      "title": "12 § Lakiin perustuva paikallinen sopimus säännöllisestä työajasta",
+      "text": "Jollei työehtosopimuksesta muuta johdu, työnantaja ja työntekijä voivat sopia vuorokautisen säännöllisen työajan pidentämisestä enintään yhdellä tunnilla. Säännöllisen työajan tulee tällöin tasoittua keskimäärin 40 tunniksi viikossa enintään neljän viikon ajanjakson aikana. Viikoittainen työaika saa olla enintään 45 tuntia. Maataloustyössä säännöllisen työajan tulee tasoittua keskimäärin 40 tunniksi viikossa enintään kolmen kuukauden ajanjakson aikana.",
+      "section_number": "12",
+      "chapter_number": 3,
+      "statute_id": ""
+    },
+    {
+      "id": "7d74f769-5264-4e8f-9261-0b4fe204836b",
+      "node_type": "Section",
+      "publisher": "finlex",
+      "title": "13 § Liukuva työaika",
+      "text": "Työnantaja ja työntekijä voivat 6 §:n 1 momentista sekä työehtosopimuksen säännöllisen työajan pituutta ja sijoittamista koskevista määräyksistä poiketen sopia liukuvasta työajasta niin, että työntekijä voi sovituissa rajoissa määrätä työnsä päivittäisen alkamis- ja päättymisajankohdan. Sovittaessa liukuvasta työajasta on sovittava ainakin kiinteästä työajasta, työajan vuorokautisesta liukumarajasta, lepoaikojen sijoittamisesta sekä säännöllisen työajan ylitysten ja alitusten enimmäiskertymästä. Liukuvassa työajassa säännöllistä vuorokautista työaikaa lyhentää tai pidentää liukuma-aika, joka voi olla enintään kolme tuntia. Viikoittainen säännöllinen työaika on keskimäärin enintään 40 tuntia. Edellä 1 momentissa mainittu enimmäiskertymä saa olla enintään 40 tuntia. Työnantaja ja työntekijä voivat sopia, että työajan ylitysten kertymää vähennetään työntekijälle annettavalla vapaa-ajalla.",
+      "section_number": "13",
+      "chapter_number": 3,
+      "statute_id": ""
+    },
+    {
+      "id": "7c3d5ec2-d514-41d2-b0c1-4b167af3b475",
+      "node_type": "Section",
+      "publisher": "finlex",
+      "title": "14 § Poikkeuksellinen säännöllinen työaika",
+      "text": "Jos työ on laadultaan sellaista, että sitä suoritetaan vain aika ajoin sen vuorokautisen työajan kuluessa, jona työntekijän on oltava valmiina työhön, työsuojelupiirin työsuojelulautakunnan poikkeuslupajaosto voi antaa määräämillään ehdoilla luvan poiketa 6 §:n säännöksistä. Työnantajien ja työntekijöiden yhdistyksillä, joiden toimintapiiri käsittää koko maan, on myös oikeus sopia 1 momentissa tarkoitetuissa tapauksissa säännöllisestä työajasta 6 §:n säännöksistä poiketen 40 §:ssä säädetyllä tavalla. Työsuojelupiirin työsuojelulautakunnan poikkeuslupajaosto voi määräämillään ehdoilla antaa luvan järjestää työaika 7 §:ssä säädetyllä tavalla sellaisissakin töissä, joita ei kyseisessä säännöksessä ole mainittu, jos se on välttämätöntä.",
+      "section_number": "14",
+      "chapter_number": 3,
+      "statute_id": ""
+    },
+    {
+      "id": "dd7e418c-46c0-43f7-b45a-0749efc03599",
+      "node_type": "Section",
+      "publisher": "finlex",
+      "title": "15 § Lyhennetty työaika",
+      "text": "Työntekijän oikeudesta osittaiseen hoitovapaaseen säädetään työsopimuslain 34 d―34 h §:ssä. Jos työntekijä haluaa muista sosiaalisista tai terveydellisistä syistä tehdä työtä säännöllistä työaikaa lyhyemmän ajan, työnantajan on pyrittävä järjestämään työt niin, että työntekijä voi tehdä osa-aikatyötä. Työnantajan ja työntekijän on tehtävä 1 momentissa tarkoitetusta osa-aikatyöstä määräaikainen enintään 26 viikkoa kerrallaan voimassa oleva sopimus, josta käy ilmi ainakin vuorokautisen ja viikoittaisen työajan pituus.",
+      "section_number": "15",
+      "chapter_number": 3,
+      "statute_id": ""
+    },
+    {
+      "id": "1f0e441c-57d9-4160-bf7b-9d06bfc36b06",
+      "node_type": "Section",
+      "publisher": "finlex",
+      "title": "16 § Vuorokauden ja viikon vaihtuminen",
+      "text": "Vuorokautena ja viikkona noudatetaan kalenterivuorokautta ja -viikkoa, jollei toisin sovita.",
+      "section_number": "16",
+      "chapter_number": 3,
+      "statute_id": ""
+    },
+    {
+      "id": "5ba811ce-ce23-424c-b21e-748f19d3c0c1",
+      "node_type": "Section",
+      "publisher": "finlex",
+      "title": "17 § Lisä- ja ylityö",
+      "text": "Lisätyötä on työnantajan aloitteesta sovitun työajan lisäksi tehty työ, joka ei ylitä 6 tai 7 §:ssä säädettyä, 9, 10 tai 12 §:n nojalla sovittua tai 14 §:n mukaista säännöllistä työaikaa. Ylityötä on työnantajan aloitteesta 1 momentissa tarkoitetun säännöllisen työajan lisäksi tehty työ.",
+      "section_number": "17",
+      "chapter_number": 4,
+      "statute_id": ""
+    },
+    {
+      "id": "0640106a-4c8b-4e5f-956c-d2aaaa409591",
+      "node_type": "Section",
+      "publisher": "finlex",
+      "title": "18 § Työntekijän suostumus",
+      "text": "Ylityötä saa teettää vain työntekijän kutakin kertaa varten erikseen antamalla suostumuksella. Työntekijä voi kuitenkin antaa suostumuksensa määrätyksi lyhyehköksi ajanjaksoksi kerrallaan, jos tämä on työn järjestelyjen kannalta tarpeen. Lisätyötä saa teettää vain työntekijän suostumuksella, jollei lisätyöstä ole sovittu työsopimuksessa. Työntekijällä on tällöin kuitenkin oikeus perustellusta henkilökohtaisesta syystä kieltäytyä lisätyöstä työvuoroluetteloon merkittyinä vapaapäivinä. Sopiessaan 5 §:ssä tarkoitetusta varallaolosta työntekijä antaa samalla suostumuksensa varallaoloaikana tarvittavaan lisä- ja ylityöhön. Jos lisä- tai ylityön tekeminen on työn laadun ja erittäin pakottavien syiden vuoksi välttämätöntä, ei julkisen yhteisön virkamies tai viranhaltija saa kieltäytyä siitä.",
+      "section_number": "18",
+      "chapter_number": 4,
+      "statute_id": ""
+    },
+    {
+      "id": "cf3480c5-3194-4275-b22e-2ed2cc2cc82e",
+      "node_type": "Section",
+      "publisher": "finlex",
+      "title": "19 § Ylityön enimmäismäärät",
+      "text": "Ylityötä saadaan teettää enintään 138 tuntia neljän kuukauden ajanjakson aikana, kuitenkin enintään 250 tuntia kalenterivuodessa. Työnantajien ja työntekijöiden yhdistykset, joiden toimintapiiri käsittää koko maan, voivat työehtosopimuksella sopia 1 momentissa säädetystä ajanjaksosta toisin. Työehtosopimukseen perustuva ajanjakso saa kuitenkin olla enintään 12 kuukautta, ja ylityön vuosittaisen enimmäismäärän tulee vastata 1 ja 2 momentissa säädettyjä enimmäismääriä.",
+      "section_number": "19",
+      "chapter_number": 4,
+      "statute_id": ""
+    },
+    {
+      "id": "cef01033-24f7-4d81-993b-7e0eef4df632",
+      "node_type": "Section",
+      "publisher": "finlex",
+      "title": "20 § Aloittamis- ja lopettamistyö",
+      "text": "Aloittamis- ja lopettamistyöllä tarkoitetaan työtä: Aloittamis- ja lopettamistyöstä voidaan sopia työsopimuksella. Sitä saa teettää enintään viisi tuntia viikossa 19 §:ssä säädettyjen ylityön enimmäismäärien lisäksi.",
+      "section_number": "20",
+      "chapter_number": 4,
+      "statute_id": ""
+    },
+    {
+      "id": "0df3aa94-5593-4d7e-a18e-4f0a0a99a5cb",
+      "node_type": "Section",
+      "publisher": "finlex",
+      "title": "21 § Hätätyö",
+      "text": "Kun ennalta arvaamaton tapahtuma on aiheuttanut keskeytyksen säännöllisessä toiminnassa tai vakavasti uhkaa johtaa sellaiseen keskeytykseen tai hengen, terveyden tai omaisuuden vaarantumiseen, saa säädettyjä tai sovittuja säännöllisiä työaikoja pidentää siinä määrin kuin mainitut syyt sitä edellyttävät, kuitenkin enintään kahden viikon ajan. Hätätyötä ei lueta 19 §:ssä tarkoitettuihin ylityöaikoihin. Hätätyössä saa myös poiketa 26―31 §:n sekä 33 §:n 1 momentin säännöksistä. Työnantajan on viivytyksettä tehtävä työsuojeluviranomaiselle kirjallinen ilmoitus hätätyön syystä, laajuudesta ja todennäköisestä kestoajasta. Työnantajan on varattava työntekijöiden luottamusmiehelle tai, jos tällaista ei ole valittu, työsuojeluvaltuutetulle tilaisuus liittää ilmoitukseen lausuntonsa. Työsuojeluviranomainen voi tutkittuaan asian joko jättää sen saamansa ilmoituksen varaan tai ryhtyä toimenpiteisiin hätätyön rajoittamiseksi tai lopettamiseksi.",
+      "section_number": "21",
+      "chapter_number": 4,
+      "statute_id": ""
+    },
+    {
+      "id": "fa57e7da-1c16-44aa-b58b-47875b0338b7",
+      "node_type": "Section",
+      "publisher": "finlex",
+      "title": "22 § Lisä- ja ylityöstä maksettava korvaus",
+      "text": "Lisätyöstä on maksettava vähintään sovitulta työajalta maksettavaa palkkaa vastaava korvaus. Säännöllisen työajan määräytyessä 6, 9, 10, 12 tai 13 §:ssä säädetyllä tavalla on vuorokautisen säännöllisen työajan ylittävältä kahdelta ensimmäiseltä työtunnilta maksettava 50 prosentilla ja seuraavilta 100 prosentilla korotettu palkka. Viikoittaisen säännöllisen työajan ylittäviltä työtunneilta on maksettava 50 prosentilla korotettu palkka. Työn jatkuttua jaksotyössä koko kahden tai kolmen viikon ajanjakson on 12 tai 18 ensimmäiseltä säännöllisen työajan ylittävältä työtunnilta aloittamis- ja lopettamistyö mukaan lukien maksettava 50 prosentilla ja näitä seuraavilta työtunneilta 100 prosentilla korotettu palkka. Jos ajanjakso on keskeytynyt sen johdosta, että työntekijän työsuhde on päättynyt tai että hän ei ole voinut olla työssä loman, sairauden tai muun hyväksyttävän syyn vuoksi, lasketaan, kuinka monta tuntia keskimääräinen työaika kesken jääneenä ajanjaksona on työhön käytettyinä vuorokausina kahdeksaa tuntia pidempi. Tämän tuntimäärän kahdelta ensimmäiseltä keskimääräiseltä ylityötunnilta on maksettava 50 prosentilla ja seuraavilta tunneilta 100 prosentilla korotettu palkka. Jos säännöllinen työaika perustuu 14 §:ssä tarkoitettuun poikkeuslupaan tai työehtosopimukseen, on luvassa tai sopimuksessa mainittava perusteet, joiden mukaan ylityöstä maksettava korotettu palkka lasketaan.",
+      "section_number": "22",
+      "chapter_number": 4,
+      "statute_id": ""
+    },
+    {
+      "id": "9e8d860a-ff32-4322-b13a-f5f919b05655",
+      "node_type": "Section",
+      "publisher": "finlex",
+      "title": "23 § Lisä- ja ylityökorvaus vapaa-aikana",
+      "text": "Lisä- tai ylityöstä maksettava palkka voidaan sopia vaihdettavaksi osaksi tai kokonaan vastaavaan vapaa-aikaan työntekijän säännöllisenä työaikana. Ylityötä vastaavan vapaa-ajan pituus lasketaan noudattaen soveltuvin osin, mitä 22 §:ssä säädetään. Vapaa-aika on annettava kuuden kuukauden kuluessa lisä- tai ylityön tekemisestä, jollei toisin sovita. Työnantajan ja työntekijän on pyrittävä sopimaan vapaa-ajan ajankohdasta. Jos siitä ei voida sopia, työnantaja määrää ajankohdan, jollei työntekijä vaadi korvauksen suorittamista rahassa. Työnantaja ja työntekijä voivat 1 ja 2 momentissa säädetystä poiketen sopia, että lisätai ylityöstä korvauksena annettava vapaa-aika yhdistetään vuosilomalain 4 a §:ssä tarkoitettuun säästövapaaseen. Vapaa-ajasta on tällöin soveltuvin osin voimassa, mitä vuosilomalaissa säädetään säästövapaasta.",
+      "section_number": "23",
+      "chapter_number": 4,
+      "statute_id": ""
+    },
+    {
+      "id": "307b07ad-766f-4452-b3a5-6bd1c6fcf480",
+      "node_type": "Section",
+      "publisher": "finlex",
+      "title": "24 § Työsopimuksen päättyminen kesken tasoittumisjakson",
+      "text": "Jos työaika on tämän lain nojalla määrätty tai sovittu keskimääräiseksi tai jos on sovittu liukuvasta työajasta ja työsuhde päättyy ennen kuin työaika on tasoittunut keskimäärin 40 tuntiin viikossa, lasketaan, kuinka monta tuntia keskimääräinen työaika on viikkoa kohti 40 tuntia pidempi, ja tämän tuntimäärän ylittäviltä tunneilta maksetaan säännöllisen työajan palkkaa vastaava korvaus. Edellä 1 momentissa säädetyllä tavalla on vastaavasti korvattava myös lisätyö. Jos keskimääräinen työaika on viikkoa kohti 40 tuntia tai tätä lyhyempää sopimukseen perustuvaa säännöllistä työaikaa lyhyempi, on työnantajalla oikeus vähentää vastaava määrä työntekijän palkasta.",
+      "section_number": "24",
+      "chapter_number": 4,
+      "statute_id": ""
+    },
+    {
+      "id": "5d3c2beb-5e12-48f4-8999-2b74462c564e",
+      "node_type": "Section",
+      "publisher": "finlex",
+      "title": "25 § Lisä- ja ylityökorvauksen perusosan laskeminen",
+      "text": "Jos työntekijän palkka määräytyy tuntia pidemmältä ajalta, lasketaan tunnilta suoritettava palkka jakamalla sopimuksen mukainen palkka säännöllisen työajan mukaisella tuntimäärällä. Suorituspalkalla tehtävässä työssä tuntipalkka lasketaan jakamalla suorituspalkka työn suorittamiseen käytetyllä tuntimäärällä. Jos palkkaukseen sisältyy luontoisetuja, ne on otettava huomioon tässä pykälässä tarkoitettua palkkaa laskettaessa. Säännöllisen työajan ansioon ei lueta työntekijän työsuorituksesta riippumatonta enintään kaksi kertaa vuodessa suoritettavaa voitto- tai muuta vastaavaa palkkiota. Edellä 1 momentissa säädetystä poiketen voidaan sopia tunnilta suoritettavan palkan laskemisesta siten, että säännöllisen työajan ansio jaetaan vuotuisesta säännöllisestä työajasta lasketulla keskimääräisellä jakajalla tai muulla jakajalla, joka keskimäärin vastaa 1 momentissa säädettyjä perusteita.",
+      "section_number": "25",
+      "chapter_number": 4,
+      "statute_id": ""
+    },
+    {
+      "id": "68df1150-0d12-452c-9339-dff84c431512",
+      "node_type": "Section",
+      "publisher": "finlex",
+      "title": "26 § Yötyö",
+      "text": "Työ, jota tehdään kello 23:n ja 6:n välisenä aikana, on yötyötä. Työnantajan on työsuojeluviranomaisen pyynnöstä ilmoitettava tälle säännöllisesti teettämästään yötyöstä. Yötyötä saa teettää: Asetuksella säädettävissä tai 40 §:n 1 momentissa tarkoitetulla työehtosopimuksella sovituissa erityisen vaarallisissa tai ruumiillisesti tai henkisesti huomattavan rasittavissa töissä työaika saa olla enintään kahdeksan tuntia vuorokaudessa, jos työtä tehdään yötyönä.",
+      "section_number": "26",
+      "chapter_number": 5,
+      "statute_id": ""
+    },
+    {
+      "id": "37ad979a-c2a7-4a2b-92b9-0631d1baf580",
+      "node_type": "Section",
+      "publisher": "finlex",
+      "title": "27 § Vuorotyö ja yövuorot jaksotyössä",
+      "text": "Vuorotyössä vuorojen on vaihduttava säännöllisesti ja muututtava ennakolta sovituin ajanjaksoin. Vuorojen katsotaan vaihtuvan säännöllisesti, kun vuoro jatkuu enintään yhden tunnin yhdessä työhön sijalle tulleen vuoron kanssa tai kun vuorojen väliin jää enintään yhden tunnin aika. Työsuojelupiirin työsuojelulautakunnan poikkeuslupajaosto voi myöntää luvan poiketa siitä, mitä tämän momentin ensimmäisessä virkkeessä säädetään. Jaksotyössä työntekijällä saa työvuoroluettelon mukaan teettää peräkkäin enintään seitsemän työvuoroa yötyötä. Yövuorolla tarkoitetaan työvuoroa, josta vähintään kolme tuntia sijoittuu kello 23:n ja 6:n väliseen aikaan.",
+      "section_number": "27",
+      "chapter_number": 5,
+      "statute_id": ""
+    },
+    {
+      "id": "d091c3e6-5abc-4df0-9d39-caad96f70b61",
+      "node_type": "Section",
+      "publisher": "finlex",
+      "title": "28 § Päivittäiset lepoajat",
+      "text": "Jos vuorokautinen työaika on kuutta tuntia pidempi eikä työntekijän työpaikalla olo ole työn jatkumisen kannalta välttämätöntä, on hänelle annettava työvuoron aikana säännöllinen vähintään tunnin kestävä lepoaika, jonka aikana työntekijä saa esteettömästi poistua työpaikaltaan. Työnantaja ja työntekijä voivat sopia lyhyemmästä, kuitenkin vähintään puolen tunnin pituisesta lepoajasta. Lepoaikaa ei saa sijoittaa välittömästi työpäivän alkuun eikä loppuun. Jos työaika ylittää vuorokaudessa 10 tuntia, työntekijällä on halutessaan oikeus pitää enintään puoli tuntia kestävä lepoaika kahdeksan tunnin työskentelyn jälkeen. Jos työaika vuorotyössä tai jaksotyössä on kuutta tuntia pidempi, on työntekijälle annettava vähintään puoli tuntia kestävä lepoaika tai tilaisuus aterioida työn aikana. Moottoriajoneuvon kuljettajalle on annettava jokaista 5 tunnin 30 minuutin pituista työjaksoa kohti vähintään 30 minuutin pituinen tauko yhdessä tai kahdessa erässä.",
+      "section_number": "28",
+      "chapter_number": 6,
+      "statute_id": ""
+    },
+    {
+      "id": "4117775f-c0e4-4497-b4eb-024a71a40008",
+      "node_type": "Section",
+      "publisher": "finlex",
+      "title": "29 § Vuorokausilepo",
+      "text": "Työntekijälle on annettava jokaisen työvuoron alkamista seuraavan 24 tunnin aikana 6, 9, 10, 12 ja 13 §:ssä tarkoitetuissa töissä vähintään 11 tunnin sekä 7 §:ssä tarkoitetuissa töissä vähintään yhdeksän tunnin pituinen keskeytymätön lepoaika, jollei kysymyksessä ole 14 §:ssä tarkoitettu tai varallaoloaikana tehty työ eikä jäljempänä säädetystä muuta johdu. Jos työn tarkoituksenmukainen järjestely edellyttää, työnantaja ja 10 §:ssä tarkoitettu työntekijöiden edustaja voivat sopia tilapäisestä vuorokausilevon lyhentämisestä työntekijän suostumuksella. Vuorokausilepoa voidaan lyhentää myös liukuvassa työajassa työntekijän päättäessä työhön tulonsa ja lähtönsä ajankohdista. Vuorokausilevon tulee kuitenkin olla vähintään seitsemän tuntia. Työn järjestelyjen tai toiminnan luonteen niin edellyttäessä voidaan siitä, mitä 1 momentissa säädetään, poiketa tilapäisesti, enintään kuitenkin kolmen peräkkäisen vuorokausilevon aikana kerrallaan: Jos vuorokausilepoa on lyhennetty 2 momentissa säädetyllä perusteella, lepoajan on kuitenkin oltava vähintään viisi tuntia. Työntekijälle on annettava lyhennetyn vuorokausilevon korvaavat lepoajat mahdollisimman nopeasti, viimeistään kuitenkin yhden kuukauden kuluessa.",
+      "section_number": "29",
+      "chapter_number": 6,
+      "statute_id": ""
+    },
+    {
+      "id": "c946227e-2d92-442a-817f-309e594693c1",
+      "node_type": "Section",
+      "publisher": "finlex",
+      "title": "30 § Moottoriajoneuvon kuljettajan vuorokausilepo",
+      "text": "Moottoriajoneuvon kuljettajalle on annettava vähintään 10 tuntia kestävä yhdenjaksoinen lepoaika jokaisena 24 peräkkäisen tunnin jaksona. Kuljetustehtävän vaatiessa saadaan 1 momentissa tarkoitettu vuorokautinen lepoaika lyhentää vähintään seitsemäksi tunniksi kaksi kertaa seitsemän peräkkäisen 24 tunnin jaksona.",
+      "section_number": "30",
+      "chapter_number": 6,
+      "statute_id": ""
+    },
+    {
+      "id": "02997175-d867-46d3-98ba-217c5de99985",
+      "node_type": "Section",
+      "publisher": "finlex",
+      "title": "31 § Viikoittainen vapaa-aika",
+      "text": "Työaika on järjestettävä niin, että työntekijä saa kerran viikossa vähintään 35 tuntia kestävän keskeytymättömän vapaa-ajan, joka on mikäli mahdollista sijoitettava sunnuntain yhteyteen. Viikoittainen vapaa-aika voidaan järjestää keskimäärin 35 tunniksi 14 vuorokauden ajanjakson aikana. Vapaa-ajan tulee olla kuitenkin vähintään 24 tuntia viikossa. Keskeytymättömässä vuorotyössä vapaa-aika voidaan järjestää keskimäärin 35 tunniksi, enintään 12 viikon aikana. Vapaa-ajan tulee olla kuitenkin vähintään 24 tuntia viikossa. Teknisten olosuhteiden tai työn järjestelyjen niin edellyttäessä voidaan menetellä vastaavalla tavalla, jos siihen on työntekijän suostumus. Tässä pykälässä säädetystä voidaan poiketa, jos säännöllinen työaika on vuorokaudessa enintään kolme tuntia, sekä maatalouden kotieläinten hoitotyössä ja kiireellisessä kylvö- ja sadonkorjuutyössä.",
+      "section_number": "31",
+      "chapter_number": 6,
+      "statute_id": ""
+    },
+    {
+      "id": "84fe1565-4d83-4f65-bd96-c1a8ecde0678",
+      "node_type": "Section",
+      "publisher": "finlex",
+      "title": "32 § Viikoittaisesta vapaa-ajasta poikkeaminen",
+      "text": "Jos työntekijää tarvitaan tilapäisesti työhön hänen vapaa-aikanaan yrityksessä, yhteisössä tai säätiössä suoritettavan työn säännöllisen kulun ylläpitämiseksi tai jos työn tekninen laatu ei salli joidenkin työntekijöiden täydellistä vapauttamista työstä, voidaan poiketa siitä, mitä 31 §:n 1 ja 2 momentissa säädetään. Työntekijälle on korvattava 1 momentissa tarkoitettuun työhön käytetty aika lyhentämällä hänen säännöllistä työaikaansa yhtä pitkällä ajalla kuin hän ei ole saanut 31 §:n 1 tai 2 momentissa säädettyä vapaa-aikaa. Työaikaa on lyhennettävä viimeistään kolmen kuukauden kuluessa työn tekemisestä, jollei toisin sovita. Työntekijän suostumuksella tällainen työ voidaan korvata myös suorittamalla yli- ja sunnuntaityökorvausten lisäksi erillinen 25 §:ssä tarkoitetun ylityökorvauksen perusosan mukaan määräytyvä rahakorvaus. Jos maatalouden kotieläinten hoitotyössä tai kiireellisessä kylvö- ja sadonkorjuutyössä on poikettu siitä, mitä 31 §:n 1 tai 2 momentissa säädetään, saamatta jäänyt viikoittainen vapaa-aika on korvattava 2 momentissa säädetyllä tavalla.",
+      "section_number": "32",
+      "chapter_number": 6,
+      "statute_id": ""
+    },
+    {
+      "id": "f5c51db5-24d1-4b1a-a0a6-dc9275e666bc",
+      "node_type": "Section",
+      "publisher": "finlex",
+      "title": "33 § Sunnuntaityö",
+      "text": "Sunnuntaina tai kirkollisena juhlapäivänä saa teettää työtä vain, jos sitä laatunsa vuoksi tehdään säännöllisesti mainittuina päivinä tai jos siitä on työsopimuksella sovittu taikka jos työntekijä antaa siihen erikseen suostumuksensa. Säännöllisenä työaikana tehdystä sunnuntaityöstä on maksettava 100 prosentilla korotettu palkka. Jos työ on lisä-, yli- tai hätätyötä, on siitä suoritettava myös 22 tai 23 §:n mukaan määräytyvä korvaus, joka lasketaan työntekijän korottamattomasta palkasta. Sunnuntaityöstä maksettavaa korotettua palkkaa laskettaessa on noudatettava, mitä 22 §:ssä säädetään ylityöstä maksettavan korotetun palkan laskemisesta.",
+      "section_number": "33",
+      "chapter_number": 6,
+      "statute_id": ""
+    },
+    {
+      "id": "bfcb1e78-25b4-46be-bbdd-90cb7fe215ce",
+      "node_type": "Section",
+      "publisher": "finlex",
+      "title": "34 § Työajan tasoittumisjärjestelmä",
+      "text": "Jos säännöllinen työaika on järjestetty 6 §:n 2 momentissa taikka 7, 9, 10 tai 12 §:ssä tarkoitetulla tavalla keskimääräiseksi, on työtä varten ennakolta laadittava työajan tasoittumisjärjestelmä vähintään ajaksi, jonka kuluessa säännöllinen työaika tasoittuu säädettyyn keskimäärään. Valmistellessaan tai aikoessaan muuttaa työajan tasoittumisjärjestelmää työnantajan on varattava työntekijöiden luottamusmiehelle tai, jollei tällaista ole valittu, työsuojeluvaltuutetulle tai, jollei työpaikalla ole työsuojeluvaltuutettuakaan, työntekijöille tilaisuus esittää mielipiteensä. Luonnokseen perehtymiseen on varattava riittävä aika. Työajan tasoittumisjärjestelmän muutoksesta on ilmoitettava työntekijälle hyvissä ajoin.",
+      "section_number": "34",
+      "chapter_number": 7,
+      "statute_id": ""
+    },
+    {
+      "id": "d98ab46a-f4fa-44fb-8867-133492e39580",
+      "node_type": "Section",
+      "publisher": "finlex",
+      "title": "35 § Työvuoroluettelo",
+      "text": "Jokaiselle työpaikalle on laadittava työvuoroluettelo, josta käyvät ilmi työntekijän säännöllisen työajan alkamisen ja päättymisen sekä 28 §:ssä tarkoitettujen lepoaikojen ajankohdat. Työvuoroluettelo on laadittava samaksi ajanjaksoksi kuin työajan tasoittumisjärjestelmä, jollei se tasoittumisjakson pituuden tai suoritettavan työn epäsäännöllisyyden vuoksi ole erittäin vaikeata. Työvuoroluettelo on kuitenkin laadittava niin pitkälle ajanjaksolle kuin mahdollista. Työvuoroluetteloa laadittaessa on työntekijän tai tämän 34 §:n 2 momentissa tarkoitetun edustajan vaatimuksesta noudatettava, mitä mainitussa momentissa säädetään. Työvuoroluettelo on saatettava kirjallisesti työntekijöiden tietoon hyvissä ajoin, viimeistään viikkoa ennen siinä tarkoitetun ajanjakson alkamista. Tämän jälkeen työvuoroluetteloa saa muuttaa vain työntekijän suostu-muksella tai töiden järjestelyihin liittyvästä painavasta syystä.",
+      "section_number": "35",
+      "chapter_number": 7,
+      "statute_id": ""
+    },
+    {
+      "id": "0aacd57e-e45c-4b93-919d-ddc44576f382",
+      "node_type": "Section",
+      "publisher": "finlex",
+      "title": "36 § Poikkeuslupa",
+      "text": "Jos työvuoroluettelon laatiminen on työn epäsäännöllisen luonteen vuoksi erittäin vaikeaa, työsuojelupiirin työsuojelulautakunnan poikkeuslupajaosto voi myöntää siitä vapautuksen osittain tai kokonaan. Poikkeusluvassa voidaan määrätä, että työvuoroluettelosta käy ilmi viikoittainen vapaa-aika. Jos poikkeuslupajaosto on myöntänyt työnantajalle 1 momentissa tarkoitetun vapautuksen eivätkä työolosuhteet ole luvan myöntämisen jälkeen muuttuneet olennaisesti, työnantaja ja 10 §:ssä tarkoitettu työntekijöiden edustaja voivat sopia poikkeuslupajaoston myöntämän vapautuksen jatkamisesta.",
+      "section_number": "36",
+      "chapter_number": 7,
+      "statute_id": ""
+    },
+    {
+      "id": "781a0e93-d29a-4496-80eb-07b67635f766",
+      "node_type": "Section",
+      "publisher": "finlex",
+      "title": "37 § Työaikakirjanpito",
+      "text": "Työnantajan on kirjattava tehdyt työtunnit ja niistä suoritetut korvaukset työntekijöittäin. Kirjanpitoon on merkittävä joko säännöllisen työajan työtunnit, lisä-, yli-, hätä- ja sunnuntaityötunnit sekä niistä suoritetut korvaukset tai kaikki tehdyt työtunnit samoin kuin erikseen yli-, hätä- ja sunnuntaityötunnit sekä niistä suoritetut korotusosat. Jos työntekijän kanssa on tehty 39 §:n 2 tai 3 momentissa tarkoitettu sopimus, on luetteloon merkittävä arvioitu lisä-, yli- ja sunnuntaityön määrä kuukaudessa. Työnantajan on säilytettävä työaikakirjanpito vähintään 38 §:ssä säädetyn kanneajan päättymiseen asti. Työaikakirjanpito sekä työnantajan ja työntekijöiden edustajan tai työntekijän 10 ja 12 §:n nojalla tekemä kirjallinen sopimus on vaadittaessa näytettävä työsuojelutarkastuksen toimittajalle sekä työntekijöiden luottamusmiehelle tai, jollei tällaista ole valittu, työsuojeluvaltuutetulle. Työntekijällä tai hänen valtuuttamallaan on pyynnöstä oikeus saada kirjallinen selvitys työvuoroluetteloiden ja työaikakirjanpidon työntekijää koskevista merkinnöistä. Työsuojeluviranomaiselle on pyydettäessä toimitettava jäljennös työaikakirjanpidosta, 10 ja 12 §:n nojalla tehdystä sopimuksesta, 34 §:ssä tarkoitetusta työajan tasoittumisjärjestelmästä ja 35 §:ssä tarkoitetusta työvuoroluettelosta.",
+      "section_number": "37",
+      "chapter_number": 7,
+      "statute_id": ""
+    },
+    {
+      "id": "00b1d602-1ce0-42ea-9c0d-5b28e1061d67",
+      "node_type": "Section",
+      "publisher": "finlex",
+      "title": "38 § Kanneaika",
+      "text": "Oikeus tässä laissa tarkoitettuun korvaukseen raukeaa, jos kannetta työsuhteen jatkuessa ei nosteta kahden vuoden kuluessa sen kalenterivuoden päättymisestä, jonka aikana oikeus korvaukseen on syntynyt. Jos rahakorvauksen sijasta annettava vapaa-aika on sovittu yhdistettäväksi säästövapaaseen, on kanne työsuhteen jatkuessa pantava 1 momentissa säädetystä poiketen mutta siinä tarkoitetun seurauksen uhalla vireille kahden vuoden kuluessa sen kalenterivuoden päättymisestä, jonka aikana vapaa-aika olisi tullut antaa. Työsuhteen päätyttyä 1 momentissa tarkoitettua saatavaa koskeva kanne on saatavan raukeamisen uhalla pantava vireille kahden vuoden kuluessa siitä, kun työsopimuksen päättäminen on työsopimuslain 47 c §:ssä säädetyllä tavalla toimitettu tai katsottava toimitetun.",
+      "section_number": "38",
+      "chapter_number": 8,
+      "statute_id": ""
+    },
+    {
+      "id": "5312ec5a-99b7-413c-be72-5253b8904631",
+      "node_type": "Section",
+      "publisher": "finlex",
+      "title": "39 § Säännösten pakottavuus. Poikkeaminen työsopimuksella.",
+      "text": "Sopimus, jolla vähennetään työntekijälle tämän lain mukaan tulevia etuja, on mitätön, jollei tästä laista muuta johdu. Johtavassa asemassa oleva työntekijä sekä työntekijä, jonka pääasiallisena tehtävänä on välittömästi johtaa tai valvoa työtä ja joka ei ota osaa tai vain tilapäisesti ottaa osaa johdettaviensa tai valvottaviensa työntekijöiden työhön, saavat kuitenkin sopia, että 22 ja 33 §:ssä tarkoitetut korvaukset maksetaan erillisenä kuukausikorvauksena. Työnantaja ja työntekijä voivat sopia, että 20 §:n 1 momentin 1 ja 3 kohdassa tarkoitetusta aloittamis- ja lopettamistyöstä suoritettava korvaus maksetaan palkanmaksukausittain erillisenä korvauksena. Korvauksen tulee tasoltaan vastata 22 §:n mukaan määräytyvää ylityökorvausta.",
+      "section_number": "39",
+      "chapter_number": 8,
+      "statute_id": ""
+    },
+    {
+      "id": "37ce653f-9a75-4fc0-a9cd-c6a4b66c49a0",
+      "node_type": "Section",
+      "publisher": "finlex",
+      "title": "40 § Säännösten pakottavuus. Poikkeaminen valtakunnallisella työehtosopimuksella.",
+      "text": "Työnantajien ja työntekijöiden yhdistyksillä, joiden toimintapiiri käsittää koko maan, on kuitenkin sen lisäksi, mitä tässä laissa säädetään, oikeus sopia toisin siitä, mitä 4 ja 5 §:ssä, 13 §:n 2 momentissa, 15 §:n 2 momentissa, 22―25 §:ssä, 26 §:n 1 momentissa sekä 27―35 ja 38 §:ssä säädetään. Tällaisia työehtosopimuksen määräyksiä työnantaja saa soveltaa niidenkin työntekijöiden työsuhteissa, jotka eivät ole työehtosopimukseen sidottuja mutta joiden työsuhteissa muutoin noudatetaan työehtosopimuksen määräyksiä. Edellä 1 momentissa tarkoitettuja määräyksiä saadaan noudattaa työehtosopimuksen lakkaamisen jälkeen uuden työehtosopimuksen voimaantuloon saakka niissä työsuhteissa, joissa määräyksiä saataisiin soveltaa, jos työehtosopimus olisi edelleen voimassa. Jos uutta työehtosopimusta ei tehdä kuuden kuukauden kuluessa edellisen lakkaamisesta, molemmilla sopijapuolilla on oikeus ilmoittaa, että työehtosopimuksen edellä tarkoitettujen määräysten soveltaminen on lopetettava kahden viikon kuluttua ilmoituksesta tai, jos se säännöllisen työajan tasoittumisen vuoksi on tarpeen, tuolloin kuluvan tasoittumisjakson päättyessä. Mitä tässä pykälässä säädetään työnantajien yhdistyksestä, jonka toimintapiiri käsittää koko maan, sovelletaan vastaavasti valtion neuvotteluviranomaiseen tai muuhun valtion sopimusviranomaiseen, kunnalliseen työmarkkinalaitokseen, evankelis-luterilaiseen kirkkoon ja ortodoksiseen kirkkokuntaan sekä Ahvenanmaan maakunnan maakuntahallitukseen ja Ahvenanmaan maakunnan kunnalliseen sopimusvaltuuskuntaan.",
+      "section_number": "40",
+      "chapter_number": 8,
+      "statute_id": ""
+    },
+    {
+      "id": "ee87529b-de20-4346-822a-de2dfb5e0de5",
+      "node_type": "Section",
+      "publisher": "finlex",
+      "title": "41 § Nähtävänäpito",
+      "text": "Työnantajan on pidettävä tämä laki, sen nojalla annetut säännökset ja määräykset sekä poikkeusluvat samoin kuin käytössä oleva työajan tasoittumisjärjestelmä ja työvuoroluettelo työntekijöiden nähtävinä työpaikalla.",
+      "section_number": "41",
+      "chapter_number": 8,
+      "statute_id": ""
+    },
+    {
+      "id": "37b7fe2b-ece2-4d6f-9a5a-b4da46ca25c1",
+      "node_type": "Section",
+      "publisher": "finlex",
+      "title": "42 § Rangaistussäännökset",
+      "text": "Työnantaja tai tämän edustaja, joka tahallaan tai huolimattomuudesta rikkoo tämän lain tai sen nojalla annettuja muita kuin maksuvelvollisuutta, sopimista, oikeustoimen muotoa, työaikakirjanpitoa tai nähtävänäpitoa koskevia säännöksiä tai määräyksiä, on tuomittavatyöaikarikkomuksestasakkoon. Vastuu työnantajan ja tämän edustajien kesken määräytyy rikoslain 47 luvun 7 §:ssä säädettyjen perusteiden mukaan. Rangaistus 37 §:n 1 momentissa tarkoitettua työaikakirjanpitoa koskevasta laiminlyönnistä tai väärinkäytöksestä sekä sellaisesta työaikarikkomuksesta, joka on tehty työsuojeluviranomaiselta saadusta kehotuksesta, määräyksestä tai kiellosta huolimatta, säädetään rikoslain 47 luvun 2 §:ssä. Rangaistus tieliikenteen sosiaalilainsäädännön yhdenmukaistamisesta annetun neuvoston asetuksen rikkomisesta säädetään tieliikennelain 105 a §:ssä.",
+      "section_number": "42",
+      "chapter_number": 8,
+      "statute_id": ""
+    },
+    {
+      "id": "e7968e41-ae56-47f9-b479-1cf8cff7f3e1",
+      "node_type": "Section",
+      "publisher": "finlex",
+      "title": "43 § Valvonta",
+      "text": "Työsuojeluviranomaiset valvovat tämän lain noudattamista sekä 10 ja 12 §:n nojalla säännöllisestä työajasta tehtyjä paikallisia sopimuksia.",
+      "section_number": "43",
+      "chapter_number": 8,
+      "statute_id": ""
+    },
+    {
+      "id": "0e8214ce-f7ac-40e0-8923-e53b6201a178",
+      "node_type": "Section",
+      "publisher": "finlex",
+      "title": "44 § Tarkemmat määräykset",
+      "text": "Valtioneuvosto voi antaa tarkempia mää-räyksiä kuljetuksen järjestämisestä yötyötä tekevälle työntekijälle työvuoron alkamis- ja päättymisajankohtana.",
+      "section_number": "44",
+      "chapter_number": 8,
+      "statute_id": ""
+    },
+    {
+      "id": "7d75edd0-4786-4b7f-a517-c18ed46289bf",
+      "node_type": "Section",
+      "publisher": "finlex",
+      "title": "45 § Voimaantulo",
+      "text": "Tämä laki tulee voimaan 23 päivänä marraskuuta 1996. Lain 19 § tulee kuitenkin voimaan 1 päivänä tammikuuta 1997. Ennen lain voimaantuloa voidaan ryhtyä sen täytäntöönpanon edellyttämiin toimenpiteisiin.",
+      "section_number": "45",
+      "chapter_number": 9,
+      "statute_id": ""
+    },
+    {
+      "id": "c34d38ce-a7a5-42e4-a262-3eb7f8585044",
+      "node_type": "Section",
+      "publisher": "finlex",
+      "title": "46 § Kumottavat säännökset",
+      "text": "Tällä lailla kumotaan niihin myöhemmin tehtyine muutoksineen seuraavat lait: Jos muussa laissa tai asetuksessa viitataan 1 momentissa kumottuihin lakeihin, on niiden sijasta sovellettava tätä lakia.",
+      "section_number": "46",
+      "chapter_number": 9,
+      "statute_id": ""
+    },
+    {
+      "id": "1bc05fcc-a5d1-470d-83ff-170af057ba58",
+      "node_type": "Section",
+      "publisher": "finlex",
+      "title": "47 § Siirtymäsäännös",
+      "text": "Niissä töissä ja niillä aloilla, joiden osalta on tehty ennen tämän lain voimaantuloa työaikoja koskeva työehtosopimus tai joiden osalta tällaista sopimusta on noudatettava, tämä laki tulee voimaan sopimuskauden päätyttyä, jollei sopimuksia muuteta ennen sitä.",
+      "section_number": "47",
+      "chapter_number": 9,
+      "statute_id": ""
+    }
+  ],
+  "clauses": [
+    {
+      "id": "d00f9ebd-c7bd-4f45-9faa-e7f75f7dcded",
+      "node_type": "Clause",
+      "publisher": "finlex",
+      "title": "§ 2 mom 1",
+      "text": "1) työhön, jota siihen kuuluvien tehtävien ja muutoin työntekijän aseman perusteella on pidettävä yrityksen, yhteisön tai säätiön taikka sen itsenäisen osan johtamisena tai tällaiseen johtamistehtävään välittömästi rinnastettavana itsenäisenä tehtävänä;",
+      "clause_number": 1,
+      "section_number": "2",
+      "statute_id": ""
+    },
+    {
+      "id": "9589fb1b-8383-4d05-a8d1-eb5125507055",
+      "node_type": "Clause",
+      "publisher": "finlex",
+      "title": "§ 2 mom 2",
+      "text": "2) työntekijöihin, jotka suorittavat uskonnollisia toimituksia evankelis-luterilaisessa kirkossa, ortodoksisessa kirkkokunnassa tai muussa uskonnollisessa yhteisössä;",
+      "clause_number": 2,
+      "section_number": "2",
+      "statute_id": ""
+    },
+    {
+      "id": "fb98d3a3-b9af-44d5-b47a-7a6d9c239989",
+      "node_type": "Clause",
+      "publisher": "finlex",
+      "title": "§ 2 mom 3",
+      "text": "3) työhön, jota työntekijä tekee kotonaan tai muutoin sellaisissa oloissa, ettei voida katsoa työnantajan asiaksi valvoa siihen käytettävän ajan järjestelyjä;",
+      "clause_number": 3,
+      "section_number": "2",
+      "statute_id": ""
+    },
+    {
+      "id": "952bbdd9-861e-4f37-8d31-2e4e2f88d251",
+      "node_type": "Clause",
+      "publisher": "finlex",
+      "title": "§ 2 mom 4",
+      "text": "4) metsä-, metsänparannus- ja uittotyöhön eikä näihin liittyvään työhön lukuun ottamatta maastossa tehtävää koneellista metsä-, metsänparannus- ja puutavaran lähikuljetustyötä;",
+      "clause_number": 4,
+      "section_number": "2",
+      "statute_id": ""
+    },
+    {
+      "id": "d8057ac5-ece1-4142-87ac-5c94bda6ae77",
+      "node_type": "Clause",
+      "publisher": "finlex",
+      "title": "§ 2 mom 5",
+      "text": "5) lasten päivähoidosta annetussa laissa (36/73) tarkoitettuun perhepäivähoitoon;",
+      "clause_number": 5,
+      "section_number": "2",
+      "statute_id": ""
+    },
+    {
+      "id": "21f93f9a-a135-417b-9179-34a3bdd3a835",
+      "node_type": "Clause",
+      "publisher": "finlex",
+      "title": "§ 2 mom 6",
+      "text": "6) työnantajan perheenjäsenten työhön;",
+      "clause_number": 6,
+      "section_number": "2",
+      "statute_id": ""
+    },
+    {
+      "id": "19f3790a-e1b3-4735-a15f-8be3a9593b55",
+      "node_type": "Clause",
+      "publisher": "finlex",
+      "title": "§ 2 mom 7",
+      "text": "7) poronhoitoon;",
+      "clause_number": 7,
+      "section_number": "2",
+      "statute_id": ""
+    },
+    {
+      "id": "b5eecda6-f173-418c-97ab-1ad759d5a24c",
+      "node_type": "Clause",
+      "publisher": "finlex",
+      "title": "§ 2 mom 8",
+      "text": "8) kalastukseen ja siihen välittömästi liittyvään saaliin käsittelyyn;",
+      "clause_number": 8,
+      "section_number": "2",
+      "statute_id": ""
+    },
+    {
+      "id": "3564124c-9520-4b56-82b0-98773f3f0603",
+      "node_type": "Clause",
+      "publisher": "finlex",
+      "title": "§ 2 mom 9",
+      "text": "9) työhön, jossa noudatettavasta työajasta on säädetty erikseen tai joka jonkin muun työaikaa koskevan lain soveltamisalaan kuuluvana on siinä vapautettu työajan rajoituksista; eikä",
+      "clause_number": 9,
+      "section_number": "2",
+      "statute_id": ""
+    },
+    {
+      "id": "132c36d7-d61b-4ed8-9a1a-49b968b966c7",
+      "node_type": "Clause",
+      "publisher": "finlex",
+      "title": "§ 2 mom 10",
+      "text": "10) puolustuslaitoksen virkamiesten työajasta annetun lain (218/70) soveltamisalaan kuuluvien virkamiesten eikä rajavartiolaitoksen virkamiesten työhön, ellei asetuksella toisin säädetä.",
+      "clause_number": 10,
+      "section_number": "2",
+      "statute_id": ""
+    },
+    {
+      "id": "031e5dbf-ed56-4946-81a2-8290820526df",
+      "node_type": "Clause",
+      "publisher": "finlex",
+      "title": "§ 7 mom 1",
+      "text": "1) poliisi-, tulli-, posti-, tele-, puhelin- ja radiolaitoksissa, ei kuitenkaan näiden laitosten kone- ja korjauspajoissa eikä rakennustöissä;",
+      "clause_number": 1,
+      "section_number": "7",
+      "statute_id": ""
+    },
+    {
+      "id": "9305210f-0032-4930-a183-08055c1e1851",
+      "node_type": "Clause",
+      "publisher": "finlex",
+      "title": "§ 7 mom 2",
+      "text": "2) sairaaloissa, terveyskeskuksissa, koko vuorokauden toimivissa lasten päiväkodeissa, kesäsiirtoloissa, huolto- ja muissa vastaavissa laitoksissa sekä vankiloissa;",
+      "clause_number": 2,
+      "section_number": "7",
+      "statute_id": ""
+    },
+    {
+      "id": "a07c34b9-08ef-44d6-bc04-e59483beb445",
+      "node_type": "Clause",
+      "publisher": "finlex",
+      "title": "§ 7 mom 3",
+      "text": "3) henkilö- ja tavarankuljetuksissa, kanavilla, kääntösilloilla ja losseilla;",
+      "clause_number": 3,
+      "section_number": "7",
+      "statute_id": ""
+    },
+    {
+      "id": "76d67583-64f4-405f-aea9-577adc836d8a",
+      "node_type": "Clause",
+      "publisher": "finlex",
+      "title": "§ 7 mom 4",
+      "text": "4) aluksen ja rautatievaunun lastaus- ja purkaustyössä;",
+      "clause_number": 4,
+      "section_number": "7",
+      "statute_id": ""
+    },
+    {
+      "id": "17b3b3c9-8378-47f7-94d9-1ba557bf2b77",
+      "node_type": "Clause",
+      "publisher": "finlex",
+      "title": "§ 7 mom 5",
+      "text": "5) alusten koeajon aikana tehtävässä työssä;",
+      "clause_number": 5,
+      "section_number": "7",
+      "statute_id": ""
+    },
+    {
+      "id": "c4e0ed1d-e7fa-4a9e-8aba-18ce91d937dc",
+      "node_type": "Clause",
+      "publisher": "finlex",
+      "title": "§ 7 mom 6",
+      "text": "6) maastossa tehtävässä koneellisessa metsä-, metsänparannus- ja puutavaran lähikuljetustyössä;",
+      "clause_number": 6,
+      "section_number": "7",
+      "statute_id": ""
+    },
+    {
+      "id": "7de68553-505c-45ce-9d01-e8bc711b747b",
+      "node_type": "Clause",
+      "publisher": "finlex",
+      "title": "§ 7 mom 7",
+      "text": "7) kotitaloustyössä;",
+      "clause_number": 7,
+      "section_number": "7",
+      "statute_id": ""
+    },
+    {
+      "id": "19325c35-c8ac-4e83-84b7-aaef782ea276",
+      "node_type": "Clause",
+      "publisher": "finlex",
+      "title": "§ 7 mom 8",
+      "text": "8) vartiointityössä;",
+      "clause_number": 8,
+      "section_number": "7",
+      "statute_id": ""
+    },
+    {
+      "id": "37b992e4-f401-44fc-8d5c-2694c2f82186",
+      "node_type": "Clause",
+      "publisher": "finlex",
+      "title": "§ 7 mom 9",
+      "text": "9) meijeriliikkeissä;",
+      "clause_number": 9,
+      "section_number": "7",
+      "statute_id": ""
+    },
+    {
+      "id": "bca0480f-9a01-480a-8852-32fff6df6bd6",
+      "node_type": "Clause",
+      "publisher": "finlex",
+      "title": "§ 7 mom 10",
+      "text": "10) majoitus- ja ravitsemisliikkeissä; sekä",
+      "clause_number": 10,
+      "section_number": "7",
+      "statute_id": ""
+    },
+    {
+      "id": "a72caedc-0a55-4cc7-8288-9fa513766f92",
+      "node_type": "Clause",
+      "publisher": "finlex",
+      "title": "§ 7 mom 11",
+      "text": "11) taide- ja huvittelulaitoksissa sekä elokuvien valmistamoissa ja tarkastamoissa, ei kuitenkaan näiden laitosten työpajoissa.",
+      "clause_number": 11,
+      "section_number": "7",
+      "statute_id": ""
+    },
+    {
+      "id": "963c3f98-ae00-443e-a172-0f3a5f251c48",
+      "node_type": "Clause",
+      "publisher": "finlex",
+      "title": "§ 19 mom 1",
+      "text": "Työnantaja ja 10 §:ssä tarkoitetut työntekijöiden edustajat tai henkilöstö taikka henkilöstöryhmä yhdessä voivat sopia lisäylityön tekemisestä. Lisäylityön enimmäismäärä on 80 tuntia kalenterivuodessa. Edellä 1 momentissa säädettyä 138 tunnin enimmäistuntimäärää ei saa kuitenkaan ylittää.",
+      "clause_number": 1,
+      "section_number": "19",
+      "statute_id": ""
+    },
+    {
+      "id": "32872c3a-c730-447d-8b68-e67e8962f84b",
+      "node_type": "Clause",
+      "publisher": "finlex",
+      "title": "§ 20 mom 1",
+      "text": "1) joka on välttämätöntä, jotta työpaikan muut työntekijät voivat tehdä työtä koko säännöllisen työaikansa;",
+      "clause_number": 1,
+      "section_number": "20",
+      "statute_id": ""
+    },
+    {
+      "id": "0d162881-8048-4a6c-95aa-55bd40688d11",
+      "node_type": "Clause",
+      "publisher": "finlex",
+      "title": "§ 20 mom 2",
+      "text": "2) jota 39 §:n 2 momentissa tarkoitettu työntekijä tekee välittömästi ennen kuin hänen johdettaviensa työaika alkaa tai sen päätyttyä; tai",
+      "clause_number": 2,
+      "section_number": "20",
+      "statute_id": ""
+    },
+    {
+      "id": "fe3f9b7d-7c95-4dbc-b8be-4aaea6e80286",
+      "node_type": "Clause",
+      "publisher": "finlex",
+      "title": "§ 20 mom 2",
+      "text": "2) jota 39 §:n 2 momentissa tarkoitettu työntekijä tekee välittömästi ennen kuin hänen johdettaviensa työaika alkaa tai sen päätyttyä; tai",
+      "clause_number": 2,
+      "section_number": "20",
+      "statute_id": ""
+    },
+    {
+      "id": "ed4068d1-8545-4fa8-9c45-a12a60286764",
+      "node_type": "Clause",
+      "publisher": "finlex",
+      "title": "§ 20 mom 3",
+      "text": "3) joka on vuorotyössä tarpeen tietojen vaihtamiseksi työvuorojen vaihtuessa.",
+      "clause_number": 3,
+      "section_number": "20",
+      "statute_id": ""
+    },
+    {
+      "id": "1e5f4362-2985-49c1-a35a-5ce193d88032",
+      "node_type": "Clause",
+      "publisher": "finlex",
+      "title": "§ 26 mom 1",
+      "text": "1) jaksotyössä;",
+      "clause_number": 1,
+      "section_number": "26",
+      "statute_id": ""
+    },
+    {
+      "id": "538f3a5d-412a-4a4c-af08-36a87802c796",
+      "node_type": "Clause",
+      "publisher": "finlex",
+      "title": "§ 26 mom 2",
+      "text": "2) työssä, joka on järjestetty kolmeen tai sitä useampaan vuoroon;",
+      "clause_number": 2,
+      "section_number": "26",
+      "statute_id": ""
+    },
+    {
+      "id": "aa2107d2-27aa-4cf9-be0f-976446f354b8",
+      "node_type": "Clause",
+      "publisher": "finlex",
+      "title": "§ 26 mom 3",
+      "text": "3) työssä, joka on järjestetty kahteen vuoroon, kuitenkin enintään kello 1:een saakka;",
+      "clause_number": 3,
+      "section_number": "26",
+      "statute_id": ""
+    },
+    {
+      "id": "a3ace844-1a9e-4b85-b198-0fe43bc935a9",
+      "node_type": "Clause",
+      "publisher": "finlex",
+      "title": "§ 26 mom 4",
+      "text": "4) yleisten teiden, katujen ja lentokenttien kunnossapito- ja puhtaanapitotyössä;",
+      "clause_number": 4,
+      "section_number": "26",
+      "statute_id": ""
+    },
+    {
+      "id": "e7527677-3f30-496e-bc25-521120fee6fb",
+      "node_type": "Clause",
+      "publisher": "finlex",
+      "title": "§ 26 mom 5",
+      "text": "5) apteekeissa;",
+      "clause_number": 5,
+      "section_number": "26",
+      "statute_id": ""
+    },
+    {
+      "id": "0420f9f8-a358-48ef-8da3-e7a91cabd166",
+      "node_type": "Clause",
+      "publisher": "finlex",
+      "title": "§ 26 mom 6",
+      "text": "6) sanoma- ja aikakauslehdissä, uutis- ja kuvatoimistoissa sekä muissa tiedotusvälineissä tehtävässä työssä ja sanomalehtien jakelutyössä;",
+      "clause_number": 6,
+      "section_number": "26",
+      "statute_id": ""
+    },
+    {
+      "id": "a792aac4-caf6-424b-bdef-eefb5ebc3b47",
+      "node_type": "Clause",
+      "publisher": "finlex",
+      "title": "§ 26 mom 7",
+      "text": "7) sellaisissa huolto- ja korjaustöissä, jotka ovat välttämättömiä yrityksissä, yhteisöissä tai säätiöissä suoritettavan työn säännöllisen kulun ylläpitämiseksi tai töissä, joita ei voida suorittaa samanaikaisesti työpaikalla tehtävän säännöllisen työn kanssa tai jotka ovat välttämättömiä vahinkojen estämiseksi tai niiden rajoittamiseksi;",
+      "clause_number": 7,
+      "section_number": "26",
+      "statute_id": ""
+    },
+    {
+      "id": "ddad6440-a1f4-4ad1-ae5a-f9bdf62b508b",
+      "node_type": "Clause",
+      "publisher": "finlex",
+      "title": "§ 26 mom 8",
+      "text": "8) turvetyömailla turpeen nostokautena;",
+      "clause_number": 8,
+      "section_number": "26",
+      "statute_id": ""
+    },
+    {
+      "id": "a256e082-5d9a-44fd-8d79-39edc66f3b54",
+      "node_type": "Clause",
+      "publisher": "finlex",
+      "title": "§ 26 mom 9",
+      "text": "9) sahalaitosten kuivaamoissa;",
+      "clause_number": 9,
+      "section_number": "26",
+      "statute_id": ""
+    },
+    {
+      "id": "6b2f2b9e-346a-4d77-89e6-70a1c06bebcd",
+      "node_type": "Clause",
+      "publisher": "finlex",
+      "title": "§ 26 mom 10",
+      "text": "10) kasvihuoneiden ja kuivauslaitosten lämmityksessä;",
+      "clause_number": 10,
+      "section_number": "26",
+      "statute_id": ""
+    },
+    {
+      "id": "cdcc1bf4-d147-4968-9227-1873afb32a2c",
+      "node_type": "Clause",
+      "publisher": "finlex",
+      "title": "§ 26 mom 11",
+      "text": "11) työntekijän suostumuksella kiireellisessä kylvö- ja sadonkorjuutyössä, välittömästi kotieläinten poikimiseen ja sairauden hoitoon liittyvässä työssä sekä muussa sellaisessa maataloustyössä, jonka tekemistä ei sen luonteen vuoksi voida siirtää myöhemmäksi;",
+      "clause_number": 11,
+      "section_number": "26",
+      "statute_id": ""
+    },
+    {
+      "id": "ccd5db53-ae47-4b97-b1d5-f7df46a7318d",
+      "node_type": "Clause",
+      "publisher": "finlex",
+      "title": "§ 26 mom 12",
+      "text": "12) työntekijän suostumuksella leipomoissa; kello 5:n ja 6:n välisenä aikana tehtävään työhön suostumusta ei kuitenkaan tarvita;",
+      "clause_number": 12,
+      "section_number": "26",
+      "statute_id": ""
+    },
+    {
+      "id": "4ff0b4ad-e2cb-4c46-ab03-fb1bad18aa8f",
+      "node_type": "Clause",
+      "publisher": "finlex",
+      "title": "§ 26 mom 13",
+      "text": "13) työssä, jota sen luonteen vuoksi tehdään lähes yksinomaan yöllä; sekä",
+      "clause_number": 13,
+      "section_number": "26",
+      "statute_id": ""
+    },
+    {
+      "id": "e6c9ed31-b8ce-4618-b63f-05df9c0e9a49",
+      "node_type": "Clause",
+      "publisher": "finlex",
+      "title": "§ 26 mom 14",
+      "text": "14) työsuojelupiirin työsuojelulautakunnan poikkeuslupajaoston luvalla ja sen määräämin ehdoin työssä, jossa työn tekninen laatu tai muut erityiset syyt sitä vaativat.",
+      "clause_number": 14,
+      "section_number": "26",
+      "statute_id": ""
+    },
+    {
+      "id": "d11b4087-52f8-4a0e-b6f1-fd88edf90b97",
+      "node_type": "Clause",
+      "publisher": "finlex",
+      "title": "§ 29 mom 1",
+      "text": "1) kun työntekijän työvuoro muuttuu 27 §:n 1 momentissa säädetyllä tavalla;",
+      "clause_number": 1,
+      "section_number": "29",
+      "statute_id": ""
+    },
+    {
+      "id": "4134c3ae-2a03-4c5c-91a5-2eb1dc597bc7",
+      "node_type": "Clause",
+      "publisher": "finlex",
+      "title": "§ 29 mom 1",
+      "text": "1) kun työntekijän työvuoro muuttuu 27 §:n 1 momentissa säädetyllä tavalla;",
+      "clause_number": 1,
+      "section_number": "29",
+      "statute_id": ""
+    },
+    {
+      "id": "12229feb-b70a-407b-9872-c9de9e378337",
+      "node_type": "Clause",
+      "publisher": "finlex",
+      "title": "§ 29 mom 2",
+      "text": "2) jos työtä tehdään useita jaksoja vuorokaudessa;",
+      "clause_number": 2,
+      "section_number": "29",
+      "statute_id": ""
+    },
+    {
+      "id": "6613f967-96dc-4a2e-8926-774245e2a2e9",
+      "node_type": "Clause",
+      "publisher": "finlex",
+      "title": "§ 29 mom 3",
+      "text": "3) jos työntekijän työpaikka ja asuinpaikka tai hänen eri työpaikkansa ovat kaukana toisistaan;",
+      "clause_number": 3,
+      "section_number": "29",
+      "statute_id": ""
+    },
+    {
+      "id": "e7cc3bfb-d39d-40c0-909c-dadc8aae8fb3",
+      "node_type": "Clause",
+      "publisher": "finlex",
+      "title": "§ 29 mom 4",
+      "text": "4) kausiluonteisessa työssä ennalta arvaamattoman ruuhkahuipun hoitamiseksi;",
+      "clause_number": 4,
+      "section_number": "29",
+      "statute_id": ""
+    },
+    {
+      "id": "57989730-60e8-4f0e-8bfc-da402bc029ed",
+      "node_type": "Clause",
+      "publisher": "finlex",
+      "title": "§ 29 mom 5",
+      "text": "5) tapaturman ja tapaturmanvaaran yhteydessä;",
+      "clause_number": 5,
+      "section_number": "29",
+      "statute_id": ""
+    },
+    {
+      "id": "6f7b75e0-75cb-477f-b970-ecb586a1675d",
+      "node_type": "Clause",
+      "publisher": "finlex",
+      "title": "§ 29 mom 6",
+      "text": "6) turvallisuus- ja vartiointityössä, joka edellyttää jatkuvaa läsnäoloa omaisuuden tai henkilöiden suojelemiseksi; tai",
+      "clause_number": 6,
+      "section_number": "29",
+      "statute_id": ""
+    },
+    {
+      "id": "0bb26c78-3c78-4bae-9acb-8fe381c93e52",
+      "node_type": "Clause",
+      "publisher": "finlex",
+      "title": "§ 29 mom 7",
+      "text": "7) työssä, joka on välttämätöntä toiminnan jatkuvuuden turvaamiseksi.",
+      "clause_number": 7,
+      "section_number": "29",
+      "statute_id": ""
+    },
+    {
+      "id": "8e807233-03fc-43ec-8222-bf86861363e6",
+      "node_type": "Clause",
+      "publisher": "finlex",
+      "title": "§ 46 mom 1",
+      "text": "1) 2 päivänä elokuuta 1946 annettu työaikalaki (604/46);",
+      "clause_number": 1,
+      "section_number": "46",
+      "statute_id": ""
+    },
+    {
+      "id": "c4971888-a523-48eb-af85-04dd05e5e3af",
+      "node_type": "Clause",
+      "publisher": "finlex",
+      "title": "§ 46 mom 2",
+      "text": "2) 26 päivänä toukokuuta 1978 annettu kauppaliikkeiden ja toimistojen työaikalaki (400/78);",
+      "clause_number": 2,
+      "section_number": "46",
+      "statute_id": ""
+    },
+    {
+      "id": "20f35460-f0fa-4024-a203-08c18d898460",
+      "node_type": "Clause",
+      "publisher": "finlex",
+      "title": "§ 46 mom 3",
+      "text": "3) 24 päivänä huhtikuuta 1970 annettu talonmiesten työaikalaki (284/70);",
+      "clause_number": 3,
+      "section_number": "46",
+      "statute_id": ""
+    },
+    {
+      "id": "339fe087-d626-43dd-835a-5b8979404bf2",
+      "node_type": "Clause",
+      "publisher": "finlex",
+      "title": "§ 46 mom 4",
+      "text": "4) 12 päivänä toukokuuta 1989 annettu maatalouden työaikalaki (407/89); sekä",
+      "clause_number": 4,
+      "section_number": "46",
+      "statute_id": ""
+    },
+    {
+      "id": "1de79cd6-f9d8-4cd5-bb0c-2bf49867a493",
+      "node_type": "Clause",
+      "publisher": "finlex",
+      "title": "§ 46 mom 5",
+      "text": "5) 9 päivänä kesäkuuta 1961 annettu leipomotyölaki (302/61) lukuun ottamatta 5 §:ää, sellaisena kuin se on 5 päivänä marraskuuta 1993 annetussa laissa (916/93).",
+      "clause_number": 5,
+      "section_number": "46",
+      "statute_id": ""
+    }
+  ],
+  "cross_references": [],
+  "raw_html_path": "C:\\Users\\danit\\finance-hack\\aalto-hackaton-2026\\data\\raw\\finlex\\Laki (säädöskokoelma)\\Työaikalaki_1.html"
+}

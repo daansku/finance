@@ -1,0 +1,773 @@
+{
+  "statute": {
+    "id": "13c62df9-8b84-4997-acee-dc76a3608dd0",
+    "node_type": "Statute",
+    "publisher": "finlex",
+    "title": "Puutavaranmittauslaki",
+    "text": "Puutavaranmittauslaki",
+    "statute_id": "",
+    "finlex_url": ""
+  },
+  "chapters": [
+    {
+      "id": "a0e2375c-6b31-4c68-8fad-6e8b0b3a8585",
+      "node_type": "Chapter",
+      "publisher": "finlex",
+      "title": "Chapter 1",
+      "text": "1 luku Yleiset säännökset",
+      "chapter_number": 1,
+      "statute_id": ""
+    },
+    {
+      "id": "39ecae79-f2f2-4be9-a525-ee6ddf98b713",
+      "node_type": "Chapter",
+      "publisher": "finlex",
+      "title": "Chapter 2",
+      "text": "2 luku Organisaatiot",
+      "chapter_number": 2,
+      "statute_id": ""
+    },
+    {
+      "id": "ef7ce3e2-a383-4e75-aae0-b27366ec085c",
+      "node_type": "Chapter",
+      "publisher": "finlex",
+      "title": "Chapter 3",
+      "text": "3 luku Perusmittaus",
+      "chapter_number": 3,
+      "statute_id": ""
+    },
+    {
+      "id": "37fd169e-d564-4cba-85c0-809bff082f17",
+      "node_type": "Chapter",
+      "publisher": "finlex",
+      "title": "Chapter 4",
+      "text": "4 luku Virallinen mittaus",
+      "chapter_number": 4,
+      "statute_id": ""
+    },
+    {
+      "id": "0d7455e9-9c31-4ad9-b488-300462c6a553",
+      "node_type": "Chapter",
+      "publisher": "finlex",
+      "title": "Chapter 5",
+      "text": "5 luku Mittauskustannukset",
+      "chapter_number": 5,
+      "statute_id": ""
+    },
+    {
+      "id": "75e9e0df-e56f-47db-9fa1-c89fcfb42d10",
+      "node_type": "Chapter",
+      "publisher": "finlex",
+      "title": "Chapter 6",
+      "text": "6 luku Erinäiset säännökset",
+      "chapter_number": 6,
+      "statute_id": ""
+    }
+  ],
+  "sections": [
+    {
+      "id": "0400e1df-ef11-4319-a0dc-a8b995ee9340",
+      "node_type": "Section",
+      "publisher": "finlex",
+      "title": "1§",
+      "text": "Tätä lakia sovelletaan puutavaran ja 20 irtokuutiometriä suuremman hake- tai sahanpuruerän mittaukseen. Milloin asianosaisten välinen sopimus koskee runkopuun lisäksi runkopuussa kiinni olevia oksia, sovelletaan tätä lakia myös näiden oksien mittaukseen. Tätä lakia ei sovelleta maasta vietävän tai maahan tuotavan puutavaran mittaukseen satamassa tai muussa lopullisessa mittauspaikassa eikä veistetyn tai muuten jalostetun puutavaran mittaukseen.",
+      "section_number": "1",
+      "chapter_number": 1,
+      "statute_id": ""
+    },
+    {
+      "id": "ab9c772f-b4b7-4ff6-ba44-c2150789cc79",
+      "node_type": "Section",
+      "publisher": "finlex",
+      "title": "2§",
+      "text": "Puutavaran määrää tai laatua koskevat erimielisyydet ratkaistaan tämän lain mukaisessa virallisessa mittauksessa. Sopimuksen ehto, joka on vastoin tämän lain säännöksiä, on mitätön.",
+      "section_number": "2",
+      "chapter_number": 1,
+      "statute_id": ""
+    },
+    {
+      "id": "9b1dfa0d-8fb6-4554-8154-b00f9a413ecb",
+      "node_type": "Section",
+      "publisher": "finlex",
+      "title": "3§",
+      "text": "Tässä laissa tarkoitetaan:",
+      "section_number": "3",
+      "chapter_number": 1,
+      "statute_id": ""
+    },
+    {
+      "id": "f7c4e738-0896-4f78-9008-78abb212208e",
+      "node_type": "Section",
+      "publisher": "finlex",
+      "title": "4§",
+      "text": "Tässä laissa tarkoitetun virallisen mittauksen suorittamista varten on virallisia mittaajia ja asetetaan vähintään yksi mittauslautakunta. Maa- ja metsätalousministeriön alaisena toimii tässä laissa tarkoitettuja esityksiä ja lausuntoja antava sekä puutavaran mittauksen kehittämiseksi ehdotuksia tekevä puutavaran mittauksen neuvottelukunta, jonka kokoonpanosta säädetään asetuksella.",
+      "section_number": "4",
+      "chapter_number": 2,
+      "statute_id": ""
+    },
+    {
+      "id": "1c1e469d-7f38-4c55-a4e5-9645a49e07bb",
+      "node_type": "Section",
+      "publisher": "finlex",
+      "title": "5§",
+      "text": "Maa- ja metsätalousministeriö määrää virallisten mittaajien toimintapiirit (mittaajapiirit) ja jokaista mittaajapiiriä varten sen metsälautakunnan, josta käsin virallinen mittaaja toimii. Maa- ja metsätalousministeriö asettaa tarvittavan määrän mittauslautakuntia ja määrää niiden toimintapiirit.",
+      "section_number": "5",
+      "chapter_number": 2,
+      "statute_id": ""
+    },
+    {
+      "id": "ed557079-67e1-4fc1-8a05-2808465a218b",
+      "node_type": "Section",
+      "publisher": "finlex",
+      "title": "6§",
+      "text": "Mittauslautakuntaan kuuluu puheenjohtaja ja kaksi muuta jäsentä, joiden tulee olla riippumattomia. Maa- ja metsätalousministeriö määrää puutavaran mittauksen neuvottelukuntaa kuultuaan kolmivuotiskaudeksi kuhunkin mittauslautakuntaan puheenjohtajan ja varapuheenjohtajan sekä kaksi jäsentä ja molemmille henkilökohtaisen varajäsenen. Virallinen mittaaja ei saa kuulua mittauslautakuntaan.",
+      "section_number": "6",
+      "chapter_number": 2,
+      "statute_id": ""
+    },
+    {
+      "id": "8ca0343d-94f5-446d-b381-8055a71f94fe",
+      "node_type": "Section",
+      "publisher": "finlex",
+      "title": "7§",
+      "text": "Virallisen mittaajan sekä mittauslautakunnan jäsenten tulee olla puutavaran mittaukseen hyvin perehtyneitä 25 vuotta täyttäneitä Suomen kansalaisia, jotka hallitsevat itseään ja omaisuuttaan. Virallisen mittaajan ja mittauslautakunnan puheenjohtajan muista kelpoisuusvaatimuksista säädetään asetuksella. Mitä edellä on säädetty puheenjohtajasta ja jäsenistä, koskee myös varapuheenjohtajaa ja varajäseniä.",
+      "section_number": "7",
+      "chapter_number": 2,
+      "statute_id": ""
+    },
+    {
+      "id": "d7768ec8-ef94-442d-8594-fbfc2ce49079",
+      "node_type": "Section",
+      "publisher": "finlex",
+      "title": "8§",
+      "text": "Maa- ja metsätalousministeriö voi vapauttaa mittauslautakunnan puheenjohtajan, varapuheenjohtajan, jäsenen tai varajäsenen tehtävistään, milloin siihen on syytä. Ennen vapauttamispäätöstä on asianosaista ja puutavaranmittauksen neuvottelukuntaa kuultava. Maa- ja metsätalousministeriön päätökseen ei saa hakea muutosta valittamalla.",
+      "section_number": "8",
+      "chapter_number": 2,
+      "statute_id": ""
+    },
+    {
+      "id": "56441645-0458-4c57-8634-59684d6f2ea2",
+      "node_type": "Section",
+      "publisher": "finlex",
+      "title": "9§",
+      "text": "Virallinen mittaaja sekä mittauslautakunnan jäsenet toimivat tuomarin vastuulla. Jos virallinen mittaaja tai mittauslautakunnan jäsen ei ole aikaisemmin vannonut tuomarinvalaa tai antanut tuomarinvakuutusta, hänen on ennen tehtäväänsä ryhtymistä yleisessä tuomioistuimessa vannottava mainittu vala tai annettava mainittu vakuutus. Mittauslautakunnan jäsen voi vannoa tuomarinvalan tai antaa tuomarinvakuutuksen myös mittauslautakunnan puheenjohtajana toimivan jäsenen edessä. Virallisen mittaajan ja mittauslautakunnan jäsenten esteellisyydestä on voimassa, mitä tuomarin esteellisyydestä on säädetty. Milloin mittauslautakunnassa ilmenee erimielisyyttä asian ratkaisemisesta, päätetään asia äänestämällä noudattaen samaa menettelyä kuin monijäsenisessä tuomioistuimessa. Virallinen mittaaja ja mittauslautakunnan puheenjohtaja eivät saa toimittaa puutavaran mittausta myyjän, ostajan, työnantajan tai työnsuorittajan edustajana tai sopimana henkilönä.",
+      "section_number": "9",
+      "chapter_number": 2,
+      "statute_id": ""
+    },
+    {
+      "id": "fbebb3ed-1655-4cd4-8bb0-5633ebc67518",
+      "node_type": "Section",
+      "publisher": "finlex",
+      "title": "10§",
+      "text": "Puutavaran luovutusmittauksen suorittavat myyjä ja ostaja tai heidän edustajansa sopimuksen mukaan joko yhdessä tai erikseen. Asianosaiset voivat kuitenkin mittausta toimittamatta sopia puutavaran määrästä ja laadusta. Luovutusmittauksesta on laadittava päivätty asiakirja, johon merkitään seuraavat tiedot: Mittaustoimitus katsotaan päättyneeksi, kun edellä tarkoitettu asiakirja on laadittu.",
+      "section_number": "10",
+      "chapter_number": 3,
+      "statute_id": ""
+    },
+    {
+      "id": "08d726fb-19d1-4603-824b-90d2078cd338",
+      "node_type": "Section",
+      "publisher": "finlex",
+      "title": "11§",
+      "text": "Mikäli luovutusmittauksen on toimittanut myyjän ja ostajan yhteinen edustaja, on ostajan suoritettava tästä aiheutuneet mittauskustannukset, jollei muusta ole erikseen sovittu.",
+      "section_number": "11",
+      "chapter_number": 3,
+      "statute_id": ""
+    },
+    {
+      "id": "516b06c1-38e1-446b-88f7-31f56275b454",
+      "node_type": "Section",
+      "publisher": "finlex",
+      "title": "12§",
+      "text": "Mikäli asianosaiset tai heidän edustajansa ovat olleet läsnä luovutusmittauksessa, on asianosaisten katsottava saaneen tiedon mittaustuloksesta tai perusteista, joiden mukaan mittaustulos voidaan laskea, välittömästi luovutusmittauksen päätyttyä. Mikäli luovutusmittauksen on suorittanut myyjä tai ostaja yksin, eikä toinen asianosainen tai hänen edustajansa ole ollut tällöin läsnä, tulee tieto mittaustuloksesta tai perusteista, joiden mukaan mittaustulos voidaan laskea, toimittaa mittaustoimituksesta poissaolleelle asianosaiselle postitse kirjatussa kirjeessä tai muutoin todisteellisesti. Mikäli mittaustuloksesta on ilmoitettu toimituksesta poissa olleelle asianosaiselle edellä tarkoitetulla kirjeellä, katsotaan hänen saaneen tiedon tuloksesta viidentenä päivänä siitä päivästä lukien, jona kirje on jätetty postin kuljetettavaksi.",
+      "section_number": "12",
+      "chapter_number": 3,
+      "statute_id": ""
+    },
+    {
+      "id": "bad3dd77-67e0-48c9-b4eb-dc7e8025fc2c",
+      "node_type": "Section",
+      "publisher": "finlex",
+      "title": "13§",
+      "text": "Puutavaran työmittaus on toimitettava silloin, kun palkka tai muu korvaus maksetaan työn tuloksen paljouden perusteella. Työmittauksen suorittaa työnantaja tai tämän edustaja, jollei muusta ole sovittu. Asianosaiset voivat 1 momentin estämättä sopia, että luovutusmittaus korvaa erillisen työmittauksen, kuitenkin niin, että työnsuorittajalle maksetaan palkka tai muu korvaus myös luovutusmittauksessa mahdollisesti tehtyjen mittavähennysten mukaisesta puumäärästä. Työnantajan tulee, mikäli mahdollista, ilmoittaa työnsuorittajalle etukäteen mittaustoimituksesta. Työmittauksesta on laadittava päivätty asiakirja, johon on merkitty seuraavat tiedot: Mittaustoimitus katsotaan päättyneeksi, kun edellä tarkoitettu asiakirja on laadittu.",
+      "section_number": "13",
+      "chapter_number": 3,
+      "statute_id": ""
+    },
+    {
+      "id": "6bfc76d6-90ea-4f3b-ba1d-e6ab0784cc32",
+      "node_type": "Section",
+      "publisher": "finlex",
+      "title": "14§",
+      "text": "Asianosaisten on katsottava saaneen tiedon työmittauksen tuloksesta tai perusteista, joiden mukaan mittaustulos voidaan laskea, välittömästi työmittauksen päätyttyä, jos asianosaiset tai heidän edustajansa ovat olleet läsnä mittaustoimituksessa. Tieto mittaustuloksesta tai perusteista, joiden mukaan mittaustulos voidaan laskea, on toimitettava toiselle asianosaiselle kirjallisesti, automaattista tietojenkäsittelyä hyväksi käyttämällä tai muulla vastaavalla tavalla, mikäli:",
+      "section_number": "14",
+      "chapter_number": 3,
+      "statute_id": ""
+    },
+    {
+      "id": "08d42142-d3d1-4948-89c9-099471c6b709",
+      "node_type": "Section",
+      "publisher": "finlex",
+      "title": "15§",
+      "text": "Jollei tehty työ ole sopimuksen mukaista työnsuorittajasta johtuvasta syystä eikä työnsuorittaja ennen mittauksen toimittamista korjaa puutteellisuuksia, saa mittaustuloksesta vähentää niin paljon, että vähennys kohtuullisesti vastaa niitä työkustannuksia, jotka sopimuksen vastaisen työn korjaaminen sopimuksen mukaiseksi aiheuttaa työnantajalle. Lisäksi mittaustuloksesta voidaan vähentää kokonaan se määrä, jota työnantaja ei voi käyttää hyväkseen. Milloin työmittauksen tuloksena saatu puumäärä muodostaa myös kolmannelle osapuolelle maksettavan palkan tai muun korvauksen perusteen, ei 1 momentin mukaista mittaustuloksen vähennystä oteta huomioon kolmannelle osapuolelle maksettavaa palkkaa tai muuta korvausta määrättäessä.",
+      "section_number": "15",
+      "chapter_number": 3,
+      "statute_id": ""
+    },
+    {
+      "id": "1f3e0f07-0190-4ddf-9652-4816d76d40d3",
+      "node_type": "Section",
+      "publisher": "finlex",
+      "title": "16§",
+      "text": "Asianosainen ei toisen asianosaisen suostumuksetta saa viedä puutavaraa mittauspaikalta tai muutoin sitä käsitellä eikä poistaa mittausta osoittavia merkkejä, ennen kuin mittaustulos on tullut lopulliseksi. Kuljetusvälineessä oleva puutavara saadaan kuitenkin tarvittaessa purkaa.",
+      "section_number": "16",
+      "chapter_number": 3,
+      "statute_id": ""
+    },
+    {
+      "id": "e765894b-d14d-4392-a6ce-01451ac8a006",
+      "node_type": "Section",
+      "publisher": "finlex",
+      "title": "17§",
+      "text": "Maa- ja metsätalousministeriö vahvistaa puutavaran mittauksen neuvottelukunnan esityksestä puutavaran mittauksessa käytettävät mittausmenetelmät ja niitä koskevat mittausohjeet, joiden tulee sisältää määräykset ainakin kunkin mittausmenetelmän hyväksyttävästä tarkkuudesta, puutavaran mittauksessa ja mittaustuloksen laskemisessa käytettävästä luokituksesta sekä laskenta- ja lopputuloksen ilmoittamistarkkuudesta. Mittausmenetelmät voivat sisältää myös otantaa. Mikäli joku puutavaran mittauksen neuvottelukunnan jäsenistä sekä hänen varajäsenensä ovat kumpikin olleet poissa siitä kokouksesta, jossa edellä 1 momentissa mainittu esitys on päätetty tehdä, on maa- ja metsätalousministeriön ennen mittausmenetelmän tai -ohjeen vahvistamista varattava poissaolleelle jäsenelle tilaisuus antaa asiasta lausuntonsa.",
+      "section_number": "17",
+      "chapter_number": 3,
+      "statute_id": ""
+    },
+    {
+      "id": "a518cd30-cf54-457a-913e-26846fa2ede0",
+      "node_type": "Section",
+      "publisher": "finlex",
+      "title": "18§",
+      "text": "Sen estämättä, mitä 17§:n 1 momentissa on säädetty, voivat puutavaran mittauksen osapuolia edustavat järjestöt sopia kehitteillä olevien mittausmenetelmien ja -ohjeiden ottamisesta koekäyttöön enintään kolmeksi vuodeksi. Koemenetelmät ja -ohjeet on ennen niiden käyttöön ottoa lähetettävä tiedoksi puutavaran mittauksen neuvottelukunnalle. Kone- ja kuljetusurakointia koskevan työmittauksen osalta voivat asianomaisia puutavaran mittauksen osapuolia edustavien järjestöjen lisäksi myös urakanantaja ja urakoitsija sopia kehitteillä olevien mittausmenetelmien ja -ohjeiden ottamisesta koekäyttöön enintään kolmeksi vuodeksi. Sopimus on tehtävä kirjallisesti ja siinä tulee olla kuvaus koekäyttöön otettavasta mittausmenetelmästä ja -ohjeesta. Urakanantajan on ennen koemenetelmien ja -ohjeiden käyttöönottoa lähetettävä ne tiedoksi puutavaran mittauksen neuvottelukunnalle.",
+      "section_number": "18",
+      "chapter_number": 3,
+      "statute_id": ""
+    },
+    {
+      "id": "1125ad78-4028-4aa0-93ba-5a3bd3730da3",
+      "node_type": "Section",
+      "publisher": "finlex",
+      "title": "19§",
+      "text": "Menettelystä silloin, kun osapuolten välisistä sopimuksista puuttuvat riittävät laatumääräykset, säädetään asetuksella.",
+      "section_number": "19",
+      "chapter_number": 3,
+      "statute_id": ""
+    },
+    {
+      "id": "31098d0d-eec6-43fe-9802-43fea2bd9a82",
+      "node_type": "Section",
+      "publisher": "finlex",
+      "title": "20§",
+      "text": "Virallinen mittaus on asianosaisen pyynnöstä toimitettava silloin, kun: Hyväksyttyään mittaustuloksen asianosainen ei voi pyytää virallisen mittauksen toimittamista.",
+      "section_number": "20",
+      "chapter_number": 4,
+      "statute_id": ""
+    },
+    {
+      "id": "d1ee2e8a-83cc-40f5-80c9-85aa3321ea5f",
+      "node_type": "Section",
+      "publisher": "finlex",
+      "title": "21§",
+      "text": "Luovutusmittauksen tulokseen tyytymättömän asianosaisen on pyydettävä virallisen mittauksen toimittamista viimeistään viidentenä päivänä siitä päivästä lukien, jona on saanut tiedon luovutusmittauksen tuloksesta. Muussa tapauksessa katsotaan luovutusmittauksen tulos lopulliseksi ja mittauksen kohteena olleet puut voidaan viedä mittauspaikalta.",
+      "section_number": "21",
+      "chapter_number": 4,
+      "statute_id": ""
+    },
+    {
+      "id": "5f2ebfd0-393a-4f80-9f82-83d49f0b1080",
+      "node_type": "Section",
+      "publisher": "finlex",
+      "title": "22§",
+      "text": "Milloin sekä työnantaja että työnsuorittaja tai heidän edustajansa ovat olleet läsnä työmittauksessa, on mittaustulokseen tyytymättömän osapuolen välittömästi ilmoitettava tyytymättömyytensä toiselle osapuolelle. Milloin työmittauksen on toimittanut työnantaja yksin tai milloin mittaustulos saadaan asianosaisten toimittamien mittausten, joissa työnantaja on mitannut osan ja työnsuorittaja osan mittaustulokseen vaikuttavista tekijöistä, yhteistuloksen perusteella, on mittaustulokseen tyytymättömän työnsuorittajan ilmoitettava tyytymättömyytensä työnantajalle viimeistään viidentenä päivänä siitä päivästä lukien, jona on saanut tiedon mittaustuloksesta tai perusteista, joiden mukaan mittaustulos voidaan laskea. Työnantajan on neljäntoista päivän kuluessa siitä, kun työnsuorittaja on 1 tai 2 momentin mukaisesti ilmoittanut tyytymättömyytensä mittauksen tulokseen, pyydettävä virallisen mittauksen toimittamista. Mikäli työnantaja ei ole pyytänyt virallisen mittauksen toimittamista edellä mainitussa määräajassa, voi virallista mittausta pyytää myös työnsuorittaja. Jos mittaustulokseen ei ole ilmoitettu tyytymättömyyttä 1 tai 2 momentissa tarkoitetulla tavalla, katsotaan mittaustulos lopulliseksi, ja mittauksen kohteena olleet puut voidaan viedä mittauspaikalta.",
+      "section_number": "22",
+      "chapter_number": 4,
+      "statute_id": ""
+    },
+    {
+      "id": "7915a788-64d2-409b-98a7-5dd82ed843ee",
+      "node_type": "Section",
+      "publisher": "finlex",
+      "title": "23§",
+      "text": "Milloin työmittauksen on toimittanut työnsuorittaja yksin tai milloin mittaustulos saadaan asianosaisten toimittamien mittausten, joissa työnantaja on mitannut osan ja työnsuorittaja osan mittaustulokseen vaikuttavista tekijöistä, yhteistuloksen perusteella, on mittaustulokseen tyytymättömän työnantajan pyydettävä virallisen mittauksen toimittamista viimeistään viidentenä päivänä siitä päivästä lukien, jona on saanut tiedon mittaustuloksesta tai perusteista, joiden mukaan mittaustulos voidaan laskea. Muussa tapauksessa katsotaan mittaustulos lopulliseksi. Työnantajan katsotaan hyväksyneen 1 momentissa mainitun mittauksen tuloksen, jos puutavara on hänen toimestaan tai suostumuksellaan viety mittauspaikalta tai työnantaja on maksanut mittauksen perusteella palkan tai muun korvauksen.",
+      "section_number": "23",
+      "chapter_number": 4,
+      "statute_id": ""
+    },
+    {
+      "id": "56cccc43-1c83-4929-941c-80228fe19c7d",
+      "node_type": "Section",
+      "publisher": "finlex",
+      "title": "24§",
+      "text": "Virallisen mittauksen toimittamista pyydetään kirjallisesti tai suullisesti siltä metsälautakunnalta, jonka toimintapiirissä mitattava puutavara sijaitsee. Suullisesta pyynnöstä on metsälautakunnan annettava asianosaiselle todistus, josta ilmenee, milloin pyyntö on vastaanotettu. Metsälautakunnan on viivytyksettä ilmoitettava virallisen mittauksen suorittamista koskevasta pyynnöstä toiselle asianosaiselle.",
+      "section_number": "24",
+      "chapter_number": 4,
+      "statute_id": ""
+    },
+    {
+      "id": "3d4c2fdd-5326-4855-8557-d1f01b448b20",
+      "node_type": "Section",
+      "publisher": "finlex",
+      "title": "25§",
+      "text": "Virallisen mittauksen toimittamista pyytäessään on asianosaisen samalla toimitettava metsälautakunnalle selvitys siitä, milloin virallista mittausta pyytävä asianosainen on saanut tiedon perusmittauksen tuloksesta, sekä luovutusmittauksen osalta ostajan ja myyjän välillä mahdollisesti tehty kirjallinen sopimus ja työmittauksen osalta 13§:n 3 momentissa tarkoitettu asiakirja alkuperäisenä tai oikeaksi todistettuna jäljennöksenä. Lisäksi on ilmoitettava seuraavat tiedot, mikäli ne eivät ilmene edellä tarkoitetuista asiakirjoista: Milloin virallisen mittauksen toimittamista on pyydetty suullisesti, on 1 momentissa mainitut asiakirjat ja tiedot toimitettava metsälautakunnalle välittömästi pyynnön esittämisen jälkeen. Työmittauksen osalta on työnantajan huolehdittava tässä pykälässä tarkoitettujen asiakirjojen toimittamisesta metsälautakunnalle.",
+      "section_number": "25",
+      "chapter_number": 4,
+      "statute_id": ""
+    },
+    {
+      "id": "7625f1d7-9084-47c4-a307-57faac1338a3",
+      "node_type": "Section",
+      "publisher": "finlex",
+      "title": "26§",
+      "text": "Sen jälkeen, kun virallisen mittauksen suorittamista koskeva pyyntö on tehty, on virallisen mittaajan ensi tilassa aloitettava mittaustoimitus ja saatettava se viivytyksettä päätökseen. Mikäli virallisen mittauksen toimittamista koskevaa pyyntöä ei ole esitetty säädetyssä ajassa tai pyyntö ei muutoin täytä säädettyjä vaatimuksia eikä virallista mittausta sen vuoksi voida suorittaa, on virallisen mittaajan annettava asiasta päätös. Tähän päätökseen ei saa valittamalla hakea muutosta.",
+      "section_number": "26",
+      "chapter_number": 4,
+      "statute_id": ""
+    },
+    {
+      "id": "77a84104-8d79-4522-9714-751a39651395",
+      "node_type": "Section",
+      "publisher": "finlex",
+      "title": "27§",
+      "text": "Virallisen mittaajan on ilmoitettava asianosaisille virallisen mittauksen alkamisajankohdasta niin ajoissa, että heillä on mahdollisuus osallistua mittaustoimitukseen. Kun asianosaisille on 1 momentin mukaisesti ilmoitettu virallisesta mittauksesta ei heidän poissaolonsa estä virallista mittaajaa toimittamasta mittausta. Virallista mittausta pyytäneen on kuitenkin huolehdittava siitä, että viralliselle mittaajalle osoitetaan mitattava puutavara.",
+      "section_number": "27",
+      "chapter_number": 4,
+      "statute_id": ""
+    },
+    {
+      "id": "f404fec5-96d1-43b3-8a74-5bba0b5d60fd",
+      "node_type": "Section",
+      "publisher": "finlex",
+      "title": "28§",
+      "text": "Jos asianosainen on pyytänyt virallista mittausta sen vuoksi, etteivät asianosaiset ole sopineet mittauksen toimittamisajasta tai että toinen asianosainen on aiheetta jäänyt saapumatta mittaustoimitukseen, on virallisen mittaajan todettava mitattavan puutavaran määrä ja laatu. Jos virallista mittausta on pyydetty sen vuoksi, että asianosaisten kesken on syntynyt erimielisyyttä mittaustuloksesta, tulee virallisen mittaajan ottaa asia käsiteltäväkseen joko määrän tai laadun tai molempien osalta sen mukaan, mistä asianosaiset ovat eri mieltä. Asianosaisten välisen erimielisyyden koskiessa ainoastaan jotakin mittaustulokseen vaikuttavaa yksittäistä tekijää asianosainen voi pyytää sellaista virallista mittausta joka koskee vain kyseisen tekijän ja sillä mittauksen lopputulokseen olevan vaikutuksen selvittämistä, mikäli toinen asianosainen siihen suostuu. Muussa tapauksessa mittaus on toimitettava kokonaisuudessaan.",
+      "section_number": "28",
+      "chapter_number": 4,
+      "statute_id": ""
+    },
+    {
+      "id": "9fe80274-cfbd-4bf1-b53c-0c4a4cdb923b",
+      "node_type": "Section",
+      "publisher": "finlex",
+      "title": "29§",
+      "text": "Virallinen mittaaja voi ratkaista hänen käsiteltäväkseen saatetun asian myös virallista mittausta pyytäneen asianosaisen vahingoksi.",
+      "section_number": "29",
+      "chapter_number": 4,
+      "statute_id": ""
+    },
+    {
+      "id": "e7f4266a-367e-490d-ac03-854486fcf0b5",
+      "node_type": "Section",
+      "publisher": "finlex",
+      "title": "30§",
+      "text": "Virallisen mittaajan on toimitettava mittaus ensisijaisesti asianosaisten sopimalla mittausmenetelmällä. Milloin asianosaiset ovat sopineet käytettäväksi muuta kuin 17§:n 1 momentissa tarkoitettua maa- ja metsätalousministeriön vahvistamaa mittausmenetelmää tai asianosaisten sopima vahvistettu mittausmenetelmä ei sovellu kyseisen puutavaran mittaukseen, on virallisen mittaajan toimitettava mittaus tekniikaltaan ja kustannuksiltaan lähinnä asianosaisten sopimaa mittausmenetelmää vastaavalla vahvistetulla mittausmenetelmällä. Jos puutavara on siten sijoitettu, ettei virallinen mittaaja katso voivansa toimittaa mittausta, voi hän määrätä puutavaran uudelleen sijoitettavaksi tai mittausta haittaavan esteen poistettavaksi. Virallinen mittaaja voi tarvittaessa suorittaa tai suorituttaa mainitut toimenpiteet.",
+      "section_number": "30",
+      "chapter_number": 4,
+      "statute_id": ""
+    },
+    {
+      "id": "e565dc8f-19cc-49ce-983b-1ecf289392d9",
+      "node_type": "Section",
+      "publisher": "finlex",
+      "title": "31§",
+      "text": "Virallisen mittaajan suorittamasta toimituksesta on kummallekin asianosaiselle annettava ote toimituksessa laadittavasta pöytäkirjasta. Otteen, jonka virallinen mittaaja allekirjoittaa, tulee sisältää mittaustodistus. Mikäli mittaustulosta ei tarvittavien laskutoimitusten vuoksi saada selville mittaustoimituksen yhteydessä, tulee mittaustodistuksen sisältävä pöytäkirjanote toimittaa asianosaisille heti mittaustuloksen selvittyä.",
+      "section_number": "31",
+      "chapter_number": 4,
+      "statute_id": ""
+    },
+    {
+      "id": "9ee00a12-311a-4070-8f0a-054ae18233cb",
+      "node_type": "Section",
+      "publisher": "finlex",
+      "title": "32§",
+      "text": "Virallisen mittaajan suorittamaan mittaustoimitukseen tyytymättömän asianosaisen on viiden päivän kuluessa siitä, kun hän on saanut tiedon mittaustodistuksesta, pyydettävä 24 §:ssä tarkoitetulta metsälautakunnalta asian saattamista mittauslautakunnan ratkaistavaksi. Pyyntö voidaan tehdä kirjallisesti tai suullisesti. Suullisesta pyynnöstä on metsälautakunnan annettava asianosaiselle todistus, josta ilmenee, milloin pyyntö on vastaanotettu. Edellä 1 momentissa tarkoitettu pyyntö voidaan välittömästi mittaustoimituksen päätyttyä tehdä myös viralliselle mittaajalle. Pyynnön yhteydessä on ilmoitettava, miltä osin virallisen mittaajan toimitukseen vaaditaan muutosta sekä perusteet, joilla muutosta vaaditaan.",
+      "section_number": "32",
+      "chapter_number": 4,
+      "statute_id": ""
+    },
+    {
+      "id": "3ba08370-c492-4864-933f-945f43fe9e10",
+      "node_type": "Section",
+      "publisher": "finlex",
+      "title": "33§",
+      "text": "Kun 32§:ssä tarkoitettu pyyntö on esitetty, on mittauslautakunnan puheenjohtajan viivytyksettä kutsuttava mittauslautakunnan jäsenet asiaa käsittelemään. Puheenjohtajan on ilmoitettava toimituksen alkamisajasta asianosaisille niin aikaisin, että heillä on mahdollisuus osallistua toimitukseen. Asianosaisten poissaolo ei estä mittauslautakuntaa toimittamasta mittausta. Jos mittauslautakunnan suorittamaa virallista mittausta koskevaa pyyntöä ei ole esitetty säädetyssä ajassa tai pyyntö ei muutoin täytä säädettyjä vaatimuksia eikä mittauslautakunnan suorittamaa virallista mittausta sen vuoksi voida suorittaa, on mittauslautakunnan annettava asiasta päätös. Tähän päätökseen ei saa valittamalla hakea muutosta.",
+      "section_number": "33",
+      "chapter_number": 4,
+      "statute_id": ""
+    },
+    {
+      "id": "302f65a8-3312-46f8-95f0-1e38e4af6502",
+      "node_type": "Section",
+      "publisher": "finlex",
+      "title": "34§",
+      "text": "Mittauslautakunta saa tutkia sen ratkaistavaksi saatetun asian vain siltä osin, kun se on ollut virallisen mittaajan tutkittavana. Mittauslautakunta voi ratkaista asian myös tyytymättömyyttä ilmoittaneen asianosaisen vahingoksi. Mittauslautakunnan asiassa antamaan päätökseen, toimitusmaksun määräämistä lukuunottamatta, ei saa valittamalla hakea muutosta.",
+      "section_number": "34",
+      "chapter_number": 4,
+      "statute_id": ""
+    },
+    {
+      "id": "e6b37c61-24fe-4a09-8f20-a6fa08de5e07",
+      "node_type": "Section",
+      "publisher": "finlex",
+      "title": "35§",
+      "text": "Mitä 30§:ssä on säädetty käytettävästä mittausmenetelmästä tai oikeudesta puutavaran uudelleen sijoitteluun tai esteen poistamiseen, koskee myös mittauslautakunnan suorittamaa mittausta. Mittauslautakunta ei tällöin ole sidottu virallisen mittaajan asiassa aikaisemmin tekemään ratkaisuun.",
+      "section_number": "35",
+      "chapter_number": 4,
+      "statute_id": ""
+    },
+    {
+      "id": "768d5b7f-70c7-491f-b5e3-7b71491c9130",
+      "node_type": "Section",
+      "publisher": "finlex",
+      "title": "36§",
+      "text": "Mittauslautakunnan toimituksesta on kummallekin asianosaiselle toimitettava ote toimituksesta laadittavasta pöytäkirjasta. Otteen tulee sisältää mittaustodistus. Otteen allekirjoittaa puheenjohtaja.",
+      "section_number": "36",
+      "chapter_number": 4,
+      "statute_id": ""
+    },
+    {
+      "id": "f729dcd5-15f0-4e3c-a13e-0532249b1e3a",
+      "node_type": "Section",
+      "publisher": "finlex",
+      "title": "37§",
+      "text": "Samaan puutavaraerän osalta voidaan virallinen mittaus suorittaa kunkin mittaustulokseen vaikuttavan tekijän osalta vain kerran. Mittauksen tulos on asianosaisia sitova.",
+      "section_number": "37",
+      "chapter_number": 4,
+      "statute_id": ""
+    },
+    {
+      "id": "cb78706e-450e-4f06-8426-9eaed0602a58",
+      "node_type": "Section",
+      "publisher": "finlex",
+      "title": "38§",
+      "text": "Virallisesta mittauksesta aiheutuvat kustannukset peritään asianosaisilta valtiolle joko kokonaan tai osaksi. Maa- ja metsätalousministeriö määrää tätä varten perustoimitusmaksut erikseen virallista mittaajaa, mittauslautakuntaa ja näiden ottamia apulaisia varten. Perustoimitusmaksut määrätään käyttäen perusteena kunkin ryhmän keskimääräisiä toimituspäivän kokonaiskustannuksia. Kokonaiskustannuksissa otetaan virallisen mittaajan osalta huomioon virallisesta mittauksesta valtiolle aiheutuvat palkkakustannukset ja niihin liittyvät muut henkilökustannukset. Mittauslautakunnan ja apulaisten osalta virallisesta mittauksesta aiheutuvina kokonaiskustannuksina otetaan huomioon palkkio- ja muut kustannukset. Tarkemmat säännökset perustoimitusmaksusta annetaan asetuksella.",
+      "section_number": "38",
+      "chapter_number": 5,
+      "statute_id": ""
+    },
+    {
+      "id": "af546f93-e8cb-4d9e-bb65-cbe70411410e",
+      "node_type": "Section",
+      "publisher": "finlex",
+      "title": "39§",
+      "text": "Virallisen mittaajan tai mittauslautakunnan on päätöksellään vahvistettava perustoimitusmaksujen perusteella varsinainen toimitusmaksu viralliselta mittaajalta, mittauslautakunnalta ja apulaisilta mittaukseen kuluneen ajan perusteella. Toimitusmaksu on vähintään 15 prosenttia kuhunkin toimitukseen osallistuneiden ryhmien perustoimitusmaksuista. Toimitusmaksu voidaan kuitenkin määrätä tätä alemmaksi seuraavissa tapauksissa: Jos toimitusmaksu määrätään alemmaksi kuin 15 prosentiksi perustoimitusmaksusta, on alentamista koskeva päätös erikseen perusteltava. Toimitusmaksun suuruutta vahvistettaessa on otettava huomioon, että se ei muodostu kohtuuttomaksi mitattavan puutavaraerän perusteella maksettavan suorituksen arvoon verrattuna. Maa- ja metsätalousministeriö antaa tarkempia määräyksiä toimitusmaksun suuruuden vahvistamisesta.",
+      "section_number": "39",
+      "chapter_number": 5,
+      "statute_id": ""
+    },
+    {
+      "id": "81d43512-c8f8-4e38-a3d5-734276101df7",
+      "node_type": "Section",
+      "publisher": "finlex",
+      "title": "40§",
+      "text": "Virallisen mittaajan ja mittauslautakunnan on päätöksellään vahvistettava toimitusmaksun jakautuminen asianosaisten kesken. Milloin virallinen mittaus on toimitettu siksi, että asianosaiset eivät ole päässeet sopimukseen perusmittauksen toimittamisajasta, on toimitusmaksu jaettava asianosaisten kesken tasan. Asianosainen on yksin velvollinen suorittamaan toimitusmaksun seuraavissa tapauksissa: Jos asianosaiset ovat sopineet toimitusmaksun jakamisesta, on maksuvelvollisuus vahvistettava sopimuksen mukaan.",
+      "section_number": "40",
+      "chapter_number": 5,
+      "statute_id": ""
+    },
+    {
+      "id": "3bde390a-c413-48c0-a60a-fc8e4c7df712",
+      "node_type": "Section",
+      "publisher": "finlex",
+      "title": "41§",
+      "text": "Asianosainen, joka on tyytymätön virallisen mittaajan päätökseen vain toimitusmaksua koskevalta osin, voi hakea siihen valittamalla muutosta 30 päivän kuluessa asiaa koskevan mittaustodistuksen tiedoksi saamisesta lukien sen läänin lääninoikeudelta, jonka alueella virallinen mittaus on kokonaan tai pääosin toimitettu. Vastaavasti voidaan hakea muutosta mittauslautakunnan päätökseen toimitusmaksun osalta. Lääninoikeuden asiassa antama päätös on lopullinen. Asianosaisen on viimeistään muutoksenhakuajan päättymispäivänä toimitettava lääninoikeudelle osoitettu muutoksenhakukirjelmä 24§:ssä tarkoitetulle metsälautakunnalle. Metsälautakunnan on viipymättä lähetettävä muutoksenhakukirjelmä liitteineen, asian käsittelystä kertyneet asiakirjat ja asianomaisen virallisen mittaajan tai mittauslautakunnan asian johdosta antama lausunto lääninoikeudelle. Muutoksenhaussa on soveltuvin osin noudatettava muutoksenhausta hallintoasioissa annettua lakia (154/50).",
+      "section_number": "41",
+      "chapter_number": 5,
+      "statute_id": ""
+    },
+    {
+      "id": "64a68237-9734-496f-a398-aada902f96fe",
+      "node_type": "Section",
+      "publisher": "finlex",
+      "title": "42§",
+      "text": "Asianosaisten on suoritettava toimitusmaksu valtiolle 30 päivän kuluessa siitä, kun toimitusmaksua koskeva päätös on tullut lopulliseksi. Jos valtion saamista ei makseta määräaikana, peritään erääntyneelle saamiselle viivästyskorkoa 16 prosenttia vuodessa eräpäivästä lukien siihen saakka kunnes maksu tapahtuu. Toimitusmaksu korkoineen saadaan ulosottaa ilman tuomiota tai päätöstä siten kuin verojen ja maksujen perimisestä ulosottotoimin annetussa laissa (367/61) on säädetty.",
+      "section_number": "42",
+      "chapter_number": 5,
+      "statute_id": ""
+    },
+    {
+      "id": "fb281e2f-2760-4e95-a034-2fd0c79457d9",
+      "node_type": "Section",
+      "publisher": "finlex",
+      "title": "43§",
+      "text": "Tämän lain täytäntöönpanon ylin johto ja valvonta kuuluu maa- ja metsätalousministeriölle. Edellä 5§:ssä tarkoitettujen metsälautakuntien tehtävänä on ohjata virallisten mittaajien ja mittauslautakuntien toiminnan käytännön järjestelyä.",
+      "section_number": "43",
+      "chapter_number": 6,
+      "statute_id": ""
+    },
+    {
+      "id": "c9073b37-cef8-4c57-82d5-f3ff28a396ba",
+      "node_type": "Section",
+      "publisher": "finlex",
+      "title": "44§",
+      "text": "Valtion tulo- ja menoarvioon otetaan vuosittain määräraha, jonka puitteissa edellä 5§:ssä tarkoitettu metsälautakunta maksaa mittauslautakunnan puheenjohtajan ja jäsenten palkkiot, päivärahat ja matkakustannusten korvaukset sekä virallisen mittaajan tai mittauslautakunnan ottamista apulaisista aiheutuvat kulut.",
+      "section_number": "44",
+      "chapter_number": 6,
+      "statute_id": ""
+    },
+    {
+      "id": "53444b4f-bea9-4bce-8e7c-eef7385f50a8",
+      "node_type": "Section",
+      "publisher": "finlex",
+      "title": "45§",
+      "text": "Vaikka mittaustuloksesta on syntynyt erimielisyyttä, ei työnantaja saa viivyttää sen palkan tai korvauksen maksamista, johon työnsuorittajalla on riidaton oikeus.",
+      "section_number": "45",
+      "chapter_number": 6,
+      "statute_id": ""
+    },
+    {
+      "id": "6725eb0e-881a-47d1-9112-cba085573233",
+      "node_type": "Section",
+      "publisher": "finlex",
+      "title": "46§",
+      "text": "Joka menettelee 16§:n, 18§:n 2 momentin, 22§:n 3 momentin tai 25§:n 3 momentin säännösten vastaisesti, on tuomittavapuutavaranmittauslain rikkomisestasakkoon.",
+      "section_number": "46",
+      "chapter_number": 6,
+      "statute_id": ""
+    },
+    {
+      "id": "e51f387c-8f75-4927-9212-87f65f9e8356",
+      "node_type": "Section",
+      "publisher": "finlex",
+      "title": "47§",
+      "text": "Metsälautakunnan on huolehtiessaan tämän lain mukaisista tehtävistä soveltuvin osin noudatettava, mitä hallintomenettelylaissa (598/82) on säädetty. Mittauslautakunnan osalta on soveltuvin osin voimassa, mitä muutoksenhausta hallintoasioissa annetussa laissa (154/50) on säädetty. Tässä laissa olevien määräaikojen laskemisessa on sovellettava säädettyjen määräaikain laskemisesta annettua lakia (150/30) ja tiedoksiannossa tiedoksiannosta hallintoasioissa annettua lakia (232/66).",
+      "section_number": "47",
+      "chapter_number": 6,
+      "statute_id": ""
+    },
+    {
+      "id": "025db96e-fa71-4fd4-909d-f8227985f9b4",
+      "node_type": "Section",
+      "publisher": "finlex",
+      "title": "48§",
+      "text": "Tarkemmat säännökset tämän lain täytäntöönpanosta annetaan asetuksella.",
+      "section_number": "48",
+      "chapter_number": 6,
+      "statute_id": ""
+    },
+    {
+      "id": "f27e675b-47bc-46cd-ae8e-42423fb88a86",
+      "node_type": "Section",
+      "publisher": "finlex",
+      "title": "49§",
+      "text": "Tämä laki tulee voimaan 1 päivänä heinäkuuta 1991, ja sillä kumotaan 7 päivänä maaliskuuta 1969 annettu puutavaranmittauslaki (161/69) siihen myöhemmin tehtyine muutoksineen. Mittauksissa, jotka perustuvat ennen tämän lain voimaantuloa tehtyihin sopimuksiin, noudatetaan toimielimiä lukuunottamatta aikaisempia säännöksiä, jolleivat asianosaiset ole toisin sopineet. Maaliskuun 7 päivänä 1969 annettua puutavaran mittaussääntöä (163/69) siihen myöhemmin tehtyine muutoksineen voidaan lisäksi muutoinkin soveltaa kahden vuoden ajan tämän lain voimaantulosta lukien. Tämän lain täytäntöönpanon edellyttämiin toimenpiteisiin voidaan ryhtyä ja toimielimiä asettaa jo ennen lain voimaantuloa.",
+      "section_number": "49",
+      "chapter_number": 6,
+      "statute_id": ""
+    }
+  ],
+  "clauses": [
+    {
+      "id": "38d7d952-c082-421b-9e50-97a4b4bda4e3",
+      "node_type": "Clause",
+      "publisher": "finlex",
+      "title": "§ 10 mom 1",
+      "text": "1) myyjän ja ostajan nimet ja osoitteet;",
+      "clause_number": 1,
+      "section_number": "10",
+      "statute_id": ""
+    },
+    {
+      "id": "44c40fc2-dc45-4792-8c62-cfd23adbe7ff",
+      "node_type": "Clause",
+      "publisher": "finlex",
+      "title": "§ 10 mom 2",
+      "text": "2) mittaustulos tai tiedot, joiden perusteella mittaustulos voidaan laskea; ja",
+      "clause_number": 2,
+      "section_number": "10",
+      "statute_id": ""
+    },
+    {
+      "id": "c163f8f0-271a-4d99-b018-f76e7f273730",
+      "node_type": "Clause",
+      "publisher": "finlex",
+      "title": "§ 10 mom 3",
+      "text": "3) mitatun puutavaran sijaintipaikka.",
+      "clause_number": 3,
+      "section_number": "10",
+      "statute_id": ""
+    },
+    {
+      "id": "6f866637-046f-416d-acd4-ec1fb2aac2bf",
+      "node_type": "Clause",
+      "publisher": "finlex",
+      "title": "§ 13 mom 1",
+      "text": "1) työnantajan ja työnsuorittajan nimet ja osoitteet;",
+      "clause_number": 1,
+      "section_number": "13",
+      "statute_id": ""
+    },
+    {
+      "id": "bb043c40-abfe-4702-8591-c882a1d42055",
+      "node_type": "Clause",
+      "publisher": "finlex",
+      "title": "§ 13 mom 2",
+      "text": "2) mittaustulos tai tiedot, joiden perusteella mittaustulos voidaan laskea; ja",
+      "clause_number": 2,
+      "section_number": "13",
+      "statute_id": ""
+    },
+    {
+      "id": "46c1fd10-c21e-4888-a1d2-714eeb66eec1",
+      "node_type": "Clause",
+      "publisher": "finlex",
+      "title": "§ 13 mom 3",
+      "text": "3) mitatun puutavaran sijaintipaikka.",
+      "clause_number": 3,
+      "section_number": "13",
+      "statute_id": ""
+    },
+    {
+      "id": "d17021ab-5749-4b75-aff2-46c3540cf013",
+      "node_type": "Clause",
+      "publisher": "finlex",
+      "title": "§ 14 mom 1",
+      "text": "1) työmittauksen on suorittanut työnantaja tai työnsuorittaja yksin eikä toinen asianosainen tai hänen edustajansa ole ollut mittaustoimituksessa läsnä; tai",
+      "clause_number": 1,
+      "section_number": "14",
+      "statute_id": ""
+    },
+    {
+      "id": "293071a7-b65c-4173-8078-18d8a7976cb5",
+      "node_type": "Clause",
+      "publisher": "finlex",
+      "title": "§ 14 mom 2",
+      "text": "2) mittaustulos saadaan asianosaisten suorittamien mittausten, joissa työnantaja on mitannut osan ja työnsuorittaja osan mittaustulokseen vaikuttavista tekijöistä, yhteistuloksena.",
+      "clause_number": 2,
+      "section_number": "14",
+      "statute_id": ""
+    },
+    {
+      "id": "343da8a8-6a0c-4ce5-9a42-a446a55f9dd9",
+      "node_type": "Clause",
+      "publisher": "finlex",
+      "title": "§ 20 mom 1",
+      "text": "1) asianosaisten kesken on syntynyt erimielisyyttä perusmittauksen tuloksesta;",
+      "clause_number": 1,
+      "section_number": "20",
+      "statute_id": ""
+    },
+    {
+      "id": "17a5bf52-5614-4e6c-8b1c-f1f7ab7fd649",
+      "node_type": "Clause",
+      "publisher": "finlex",
+      "title": "§ 20 mom 2",
+      "text": "2) asianosaiset eivät sovi perusmittauksen toimittamisajasta; tai",
+      "clause_number": 2,
+      "section_number": "20",
+      "statute_id": ""
+    },
+    {
+      "id": "2734addc-e737-454b-865c-f3397ee5f0af",
+      "node_type": "Clause",
+      "publisher": "finlex",
+      "title": "§ 20 mom 3",
+      "text": "3) asianosainen on aiheetta jäänyt saapumatta perusmittaustoimitukseen, jonka asianosaiset ovat sopineet yhdessä suoritettavaksi.",
+      "clause_number": 3,
+      "section_number": "20",
+      "statute_id": ""
+    },
+    {
+      "id": "848dc77b-45bb-459a-b5d3-01b2e12969b4",
+      "node_type": "Clause",
+      "publisher": "finlex",
+      "title": "§ 25 mom 1",
+      "text": "1) kummankin asianosaisen nimet ja osoitteet;",
+      "clause_number": 1,
+      "section_number": "25",
+      "statute_id": ""
+    },
+    {
+      "id": "c7934f51-4955-4942-b7e3-9e27bc0c832e",
+      "node_type": "Clause",
+      "publisher": "finlex",
+      "title": "§ 25 mom 2",
+      "text": "2) puutavaran laji, arvioitu määrä ja sijaintipaikka;",
+      "clause_number": 2,
+      "section_number": "25",
+      "statute_id": ""
+    },
+    {
+      "id": "3de36e4e-c0a9-441c-9df4-77ebfe9abcaa",
+      "node_type": "Clause",
+      "publisher": "finlex",
+      "title": "§ 25 mom 3",
+      "text": "3) mitä mittausmenetelmää käyttäen asianosaisten suorittama perusmittaus on toimitettu; ja",
+      "clause_number": 3,
+      "section_number": "25",
+      "statute_id": ""
+    },
+    {
+      "id": "8044a67d-70e5-480e-b4d5-892eee44231e",
+      "node_type": "Clause",
+      "publisher": "finlex",
+      "title": "§ 25 mom 4",
+      "text": "4) se seikka, mistä asianosaiset ovat eri mieltä.",
+      "clause_number": 4,
+      "section_number": "25",
+      "statute_id": ""
+    },
+    {
+      "id": "0f775f16-4fdd-45c6-8b43-e8c87e67c40c",
+      "node_type": "Clause",
+      "publisher": "finlex",
+      "title": "§ 39 mom 1",
+      "text": "1) käytetty mittausmenetelmä on erityisen suuritöinen ja kallis;",
+      "clause_number": 1,
+      "section_number": "39",
+      "statute_id": ""
+    },
+    {
+      "id": "c902a8cc-e191-4cd9-b2b1-4d5b8a09f8cd",
+      "node_type": "Clause",
+      "publisher": "finlex",
+      "title": "§ 39 mom 2",
+      "text": "2) vaikeat lumi- tai siihen verrattavat olosuhteet nostavat mittauskustannuksia; tai",
+      "clause_number": 2,
+      "section_number": "39",
+      "statute_id": ""
+    },
+    {
+      "id": "dcf33eb4-4057-4998-9bac-4d3481458fee",
+      "node_type": "Clause",
+      "publisher": "finlex",
+      "title": "§ 39 mom 3",
+      "text": "3) milloin virallisen mittauksen pyytäminen on ollut perusmittauksessa käytetyn mittausmenetelmän soveltumattomuuden vuoksi erityisen perusteltua.",
+      "clause_number": 3,
+      "section_number": "39",
+      "statute_id": ""
+    },
+    {
+      "id": "e61b88bd-9780-4571-9c5b-50a69f31e045",
+      "node_type": "Clause",
+      "publisher": "finlex",
+      "title": "§ 40 mom 1",
+      "text": "1) perusmittauksen ja virallisen mittauksen tulosten erotus poikkeaa virallisen mittauksen tuloksesta virallisessa mittauksessa käytetyn mittausmenetelmän sallimia tarkkuusrajoja enemmän hänen vahingokseen;",
+      "clause_number": 1,
+      "section_number": "40",
+      "statute_id": ""
+    },
+    {
+      "id": "dedde386-277f-4f8d-a77d-b48a083954ab",
+      "node_type": "Clause",
+      "publisher": "finlex",
+      "title": "§ 40 mom 2",
+      "text": "2) hän on yksin pyytänyt virallisen mittauksen toimittamista ja perusmittauksen tulos poikkeaa virallisen mittauksen tuloksesta virallisessa mittauksessa käytetyn mittausmenetelmän sallimia tarkkuusrajoja vähemmän; tai",
+      "clause_number": 2,
+      "section_number": "40",
+      "statute_id": ""
+    },
+    {
+      "id": "1103bdd2-4d02-447f-afc5-cdd60e2ed850",
+      "node_type": "Clause",
+      "publisher": "finlex",
+      "title": "§ 40 mom 3",
+      "text": "3) virallinen mittaus on toimitettu siksi, että hän on aiheetta jäänyt saapumatta mittaustoimitukseen, jonka asianosaiset ovat sopineet yhdessä toimitettavaksi.",
+      "clause_number": 3,
+      "section_number": "40",
+      "statute_id": ""
+    }
+  ],
+  "cross_references": [],
+  "raw_html_path": "C:\\Users\\danit\\finance-hack\\aalto-hackaton-2026\\data\\raw\\finlex\\Laki (säädöskokoelma)\\Puutavaranmittauslaki.html"
+}

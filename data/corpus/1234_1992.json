@@ -1,0 +1,45 @@
+{
+  "statute": {
+    "id": "865a2e22-04b5-43a8-8d6f-3313bc340e26",
+    "node_type": "Statute",
+    "publisher": "finlex",
+    "title": "Laki valtioneuvoston oikeudesta luovuttaa Valtion painatuskeskuksen hallinnassa oleva omaisuus perustettavalle valtionyhtiölle sekä yhtiön eräistä tehtävistä annetun lain kumoamisesta",
+    "text": "Laki valtioneuvoston oikeudesta luovuttaa Valtion painatuskeskuksen hallinnassa oleva omaisuus perustettavalle valtionyhtiölle sekä yhtiön eräistä tehtävistä annetun lain kumoamisesta",
+    "statute_id": "1234/1992",
+    "finlex_url": "https://finlex.fi/fi/laki/ajantasa/1234/1992"
+  },
+  "chapters": [],
+  "sections": [
+    {
+      "id": "49487641-cff8-4060-bd45-17231444effc",
+      "node_type": "Section",
+      "publisher": "finlex",
+      "title": "1 §",
+      "text": "Tällä lailla kumotaan valtioneuvoston oikeudesta luovuttaa Valtion painatuskeskuksen hallinnassa oleva omaisuus perustettavalle valtionyhtiölle sekä yhtiön eräistä tehtävistä 11 päivänä joulukuuta 1992 annettu laki (1234/1992).",
+      "section_number": "1",
+      "chapter_number": 1,
+      "statute_id": "1234/1992"
+    },
+    {
+      "id": "291d3e36-7dd9-4aec-980b-a619d6e15c4e",
+      "node_type": "Section",
+      "publisher": "finlex",
+      "title": "2 §",
+      "text": "Tämä laki tulee voimaan 15 päivänä lokakuuta 1999. Lain 6 § on kuitenkin voimassa 31 päivään maaliskuuta 2003 asti ja 7 § 30 päivään marraskuuta 1999 asti.",
+      "section_number": "2",
+      "chapter_number": 1,
+      "statute_id": "1234/1992"
+    }
+  ],
+  "clauses": [],
+  "cross_references": [
+    {
+      "raw_text": "§ 30 päivään m",
+      "statute_id": "1234/1992",
+      "section_number": "30 päivään m",
+      "clause_number": null,
+      "resolution_confidence": 0.0
+    }
+  ],
+  "raw_html_path": "C:\\Users\\danit\\finance-hack\\aalto-hackaton-2026\\data\\raw\\finlex\\Laki\\Laki valtioneuvoston oikeudesta luovuttaa Valtion painatuskeskuksen hallinnassa oleva omaisuus perustettavalle valtionyhtiölle sekä yhtiön eräistä tehtävistä annetun lain kumoamise.html"
+}

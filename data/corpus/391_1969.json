@@ -1,0 +1,88 @@
+{
+  "statute": {
+    "id": "5604143c-f033-4c0a-b5d2-cb69e63aa90b",
+    "node_type": "Statute",
+    "publisher": "finlex",
+    "title": "Vaalilaki",
+    "text": "Vaalilaki",
+    "statute_id": "391/1969",
+    "finlex_url": "https://finlex.fi/fi/laki/ajantasa/391/1969"
+  },
+  "chapters": [
+    {
+      "id": "5670db7a-d255-4adb-8c45-ce3796b96f8a",
+      "node_type": "Chapter",
+      "publisher": "finlex",
+      "title": "Chapter 14",
+      "text": "14 luku Voimaantulo- ja siirtymäsäännökset",
+      "chapter_number": 14,
+      "statute_id": "391/1969"
+    }
+  ],
+  "sections": [
+    {
+      "id": "73e6fa07-d660-4918-b988-2725b9d6177e",
+      "node_type": "Section",
+      "publisher": "finlex",
+      "title": "196 § Voimaantulo",
+      "text": "Tämä laki tulee voimaan 8 päivänä lokakuuta 1998. Tällä lailla kumotaan seuraavat lait niihin myöhemmin tehtyine muutoksineen: Ennen lain voimaantuloa voidaan ryhtyä lain täytäntöönpanon edellyttämiin toimenpiteisiin.",
+      "section_number": "196",
+      "chapter_number": 14,
+      "statute_id": "391/1969"
+    },
+    {
+      "id": "97f69e2f-c29b-4784-8541-033d8f16a4ed",
+      "node_type": "Section",
+      "publisher": "finlex",
+      "title": "197 § Siirtymäsäännökset",
+      "text": "Jos vaalit tai neuvoa-antava kansanäänestys toimitetaan ennen kuin 90 päivää on kulunut tämän lain voimaantulosta, sovelletaan lain voimaan tullessa voimassa olleita säännöksiä. Eduskuntavaaleissa, jotka toimitetaan 21 päivänä maaliskuuta 1999 tai tätä aikaisemmin, sekä presidentinvaalissa ja europar-lamenttivaaleissa, jotka toimitetaan ennen tässä tarkoitettuja eduskuntavaaleja ensiksi seuraavia eduskuntavaaleja, sovelletaan kuitenkin tämän lain 5 §:ssä säädetyn vaalipiirijaon sijasta kansanedustajain vaaleista annetun lain 1 §:ssä säädettyä vaalipiirijakoa. Kansanedustajain vaaleista annetun lain 3 §:n nojalla asetetun vaalipiirin keskuslautakunnan toimikausi jatkuu, kunnes vaalipiirilautakunta 11 §:n mukaisesti on asetettu. Valtuuston toimikaudekseen kunnallisvaalilain 4 §:n nojalla asettama kunnan keskusvaalilautakunta toimii 13 §:ssä tarkoitettuna kunnan keskusvaalilautakuntana toimikautensa loppuun. Muussa laissa tai asetuksessa olevan viittauksen tällä lailla kumottuihin lakeihin katsotaan lain voimaantulon jälkeen tarkoittavan viittausta tähän lakiin.",
+      "section_number": "197",
+      "chapter_number": 14,
+      "statute_id": "391/1969"
+    }
+  ],
+  "clauses": [
+    {
+      "id": "8689100c-0c1e-4088-9fd1-ad77b5434cee",
+      "node_type": "Clause",
+      "publisher": "finlex",
+      "title": "§ 196 mom 1",
+      "text": "1) kansanedustajain vaaleista 13 päivänä kesäkuuta 1969 annettu laki (391/1969);",
+      "clause_number": 1,
+      "section_number": "196",
+      "statute_id": "391/1969"
+    },
+    {
+      "id": "eb99fc71-7b7d-4a75-b75a-d7f73dd119ee",
+      "node_type": "Clause",
+      "publisher": "finlex",
+      "title": "§ 196 mom 2",
+      "text": "2) tasavallan presidentin vaalista 22 päivänä heinäkuuta 1991 annettu laki (1076/1991);",
+      "clause_number": 2,
+      "section_number": "196",
+      "statute_id": "391/1969"
+    },
+    {
+      "id": "51fd91d5-5f85-4490-9078-57ab0833e41d",
+      "node_type": "Clause",
+      "publisher": "finlex",
+      "title": "§ 196 mom 3",
+      "text": "3) 12 päivänä toukokuuta 1972 annettu kunnallisvaalilaki (361/1972); sekä",
+      "clause_number": 3,
+      "section_number": "196",
+      "statute_id": "391/1969"
+    },
+    {
+      "id": "cc10ea8f-396c-4cc4-b458-93cc6e5bb4ca",
+      "node_type": "Clause",
+      "publisher": "finlex",
+      "title": "§ 196 mom 4",
+      "text": "4) Suomesta Euroopan parlamenttiin valittavien edustajien vaaleista 3 päivänä maaliskuuta 1995 annettu laki (272/1995).",
+      "clause_number": 4,
+      "section_number": "196",
+      "statute_id": "391/1969"
+    }
+  ],
+  "cross_references": [],
+  "raw_html_path": "C:\\Users\\danit\\finance-hack\\aalto-hackaton-2026\\data\\raw\\finlex\\Laki (säädöskokoelma)\\Vaalilaki.html"
+}

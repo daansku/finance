@@ -1,0 +1,48 @@
+{
+  "statute": {
+    "id": "9aade234-2919-41ac-a648-ba44fde11290",
+    "node_type": "Statute",
+    "publisher": "finlex",
+    "title": "Laki yleisestä asumistuesta annetun lain muuttamisesta annetun lain 29 ja 41 §:n muuttamisesta",
+    "text": "Laki yleisestä asumistuesta annetun lain muuttamisesta annetun lain 29 ja 41 §:n muuttamisesta",
+    "statute_id": "1533/2016",
+    "finlex_url": "https://finlex.fi/fi/laki/ajantasa/1533/2016"
+  },
+  "chapters": [],
+  "sections": [
+    {
+      "id": "5230bc2f-66b6-424a-95ca-803adda55f01",
+      "node_type": "Section",
+      "publisher": "finlex",
+      "title": "29 § Asumistuen lakkauttaminen",
+      "text": "Asumistuki lakkautetaan:",
+      "section_number": "29",
+      "chapter_number": 1,
+      "statute_id": "1533/2016"
+    },
+    {
+      "id": "a40c1392-3783-46b0-9c81-908ab5f0e11e",
+      "node_type": "Section",
+      "publisher": "finlex",
+      "title": "41 § Asian uudelleen ratkaiseminen etuuden myöntämisen johdosta",
+      "text": "Jos asumistuen saajalle tai asumistukea saavaan ruokakuntaan kuuluvalle henkilölle on takautuvasti myönnetty tai hän on tullut oikeutetuksi 8 §:n 2 momentin tai 8 a §:n mukaiseen asumistuen maksamisen estävään etuuteen, Kansaneläkelaitos voi ilman päätöksen poistamista tai asianosaisen suostumusta ratkaista asian uudelleen. Tämä laki tulee voimaan 1 päivänä elokuuta 2017.",
+      "section_number": "41",
+      "chapter_number": 1,
+      "statute_id": "1533/2016"
+    }
+  ],
+  "clauses": [
+    {
+      "id": "8134180e-3e20-4be5-9bbd-ec5f919055fd",
+      "node_type": "Clause",
+      "publisher": "finlex",
+      "title": "§ 29 mom 3",
+      "text": "3) sen kuukauden alusta, josta ruokakunnalla ei 8 tai 8 a §:n mukaan enää ole oikeutta asumistukeen;",
+      "clause_number": 3,
+      "section_number": "29",
+      "statute_id": "1533/2016"
+    }
+  ],
+  "cross_references": [],
+  "raw_html_path": "C:\\Users\\danit\\finance-hack\\aalto-hackaton-2026\\data\\raw\\finlex\\Laki\\Laki yleisestä asumistuesta annetun lain muuttamisesta annetun lain 29 ja 41 §_n muuttamisesta.html"
+}

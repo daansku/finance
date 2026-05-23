@@ -1,0 +1,760 @@
+{
+  "statute": {
+    "id": "6fc08c7a-0118-43f0-853f-703c18fe2c2a",
+    "node_type": "Statute",
+    "publisher": "finlex",
+    "title": "Laki yksityisistä sosiaalipalveluista",
+    "text": "Laki yksityisistä sosiaalipalveluista",
+    "statute_id": "812/2000",
+    "finlex_url": "https://finlex.fi/fi/laki/ajantasa/812/2000"
+  },
+  "chapters": [
+    {
+      "id": "74c451e6-10e9-4d2b-97c4-ee1dc94c867f",
+      "node_type": "Chapter",
+      "publisher": "finlex",
+      "title": "Chapter 1",
+      "text": "1 luku Yleiset säännökset",
+      "chapter_number": 1,
+      "statute_id": "812/2000"
+    },
+    {
+      "id": "d5604518-e036-4432-b857-6eea8a93bf6d",
+      "node_type": "Chapter",
+      "publisher": "finlex",
+      "title": "Chapter 2",
+      "text": "2 luku Yksityisten sosiaalipalvelujen tuottaminen",
+      "chapter_number": 2,
+      "statute_id": "812/2000"
+    },
+    {
+      "id": "81bc0242-346c-430f-be5a-dd5460bd8108",
+      "node_type": "Chapter",
+      "publisher": "finlex",
+      "title": "Chapter 3",
+      "text": "3 luku Palvelujen tuottamista koskeva lupa ja ilmoitus",
+      "chapter_number": 3,
+      "statute_id": "812/2000"
+    },
+    {
+      "id": "0263dfd4-dca0-4e09-860e-55be6d84e316",
+      "node_type": "Chapter",
+      "publisher": "finlex",
+      "title": "Chapter 4",
+      "text": "4 luku Valvonta",
+      "chapter_number": 4,
+      "statute_id": "812/2000"
+    },
+    {
+      "id": "11b20a2e-a490-4647-8e04-61f5b25d63b9",
+      "node_type": "Chapter",
+      "publisher": "finlex",
+      "title": "Chapter 5",
+      "text": "5 luku Yksityisten palvelujen antajien rekisteri",
+      "chapter_number": 5,
+      "statute_id": "812/2000"
+    },
+    {
+      "id": "3dccd5aa-e584-4534-84a2-81bc74939426",
+      "node_type": "Chapter",
+      "publisher": "finlex",
+      "title": "Chapter 6",
+      "text": "6 luku Viranomaiset ja niiden välinen yhteistyö",
+      "chapter_number": 6,
+      "statute_id": "812/2000"
+    },
+    {
+      "id": "8410f989-e7bc-4c6b-96b2-b77b9b9a7ad2",
+      "node_type": "Chapter",
+      "publisher": "finlex",
+      "title": "Chapter 7",
+      "text": "7 luku Muutoksenhaku",
+      "chapter_number": 7,
+      "statute_id": "812/2000"
+    },
+    {
+      "id": "49ddf01f-effc-4e4d-90c0-f55a9fbe6236",
+      "node_type": "Chapter",
+      "publisher": "finlex",
+      "title": "Chapter 8",
+      "text": "8 luku Erinäiset säännökset",
+      "chapter_number": 8,
+      "statute_id": "812/2000"
+    },
+    {
+      "id": "93a3c031-689f-4990-a052-add421d45ccf",
+      "node_type": "Chapter",
+      "publisher": "finlex",
+      "title": "Chapter 9",
+      "text": "9 luku Voimaantulo",
+      "chapter_number": 9,
+      "statute_id": "812/2000"
+    }
+  ],
+  "sections": [
+    {
+      "id": "aea1555c-1d78-4b7e-a400-77420368c65f",
+      "node_type": "Section",
+      "publisher": "finlex",
+      "title": "1 § Lain tarkoitus",
+      "text": "Tämän lain tarkoituksena on varmistaa, että yksityisiä sosiaalipalveluja käyttävän asiakkaan oikeus laadultaan hyviin sosiaalipalveluihin toteutuu.",
+      "section_number": "1",
+      "chapter_number": 1,
+      "statute_id": "812/2000"
+    },
+    {
+      "id": "59ffdfdb-9b7e-47fa-a0ab-9e7bad261cd7",
+      "node_type": "Section",
+      "publisher": "finlex",
+      "title": "2 § Soveltamisala ja suhde muuhun lainsäädäntöön",
+      "text": "Tätä lakia sovelletaan yksityisten sosiaalipalvelujen tuottamiseen, toteuttamiseen ja valvontaan, jollei lailla toisin säädetä. Yksityisten sosiaalipalvelujen toteuttamisesta on lisäksi voimassa, mitä sosiaalihuollon asiakkaan asemasta ja oikeuksista annetussa laissa (812/2000) ja muutoin sosiaalipalveluista säädetään.",
+      "section_number": "2",
+      "chapter_number": 1,
+      "statute_id": "812/2000"
+    },
+    {
+      "id": "fc472681-f0d8-481e-90ab-dc393af3e8e5",
+      "node_type": "Section",
+      "publisher": "finlex",
+      "title": "3 § Määritelmät",
+      "text": "Tässä laissa tarkoitetaan:",
+      "section_number": "3",
+      "chapter_number": 1,
+      "statute_id": "812/2000"
+    },
+    {
+      "id": "d8a0aa89-514c-4948-bdc1-bc1d37cf253f",
+      "node_type": "Section",
+      "publisher": "finlex",
+      "title": "4 § Toimintaedellytykset",
+      "text": "Toimintayksikössä tulee olla riittävät ja asianmukaiset toimitilat ja varusteet sekä toiminnan edellyttämä henkilöstö. Toimitilojen tulee olla terveydellisiltä ja muilta olosuhteiltaan siellä annettavalle hoidolle, kasvatukselle ja muulle huolenpidolle sopiva. Henkilöstön lukumäärän tulee olla riittävä palvelujen tarpeeseen ja asiakkaiden lukumäärään nähden. Henkilöstöltä vaadittavista kelpoisuuksista säädetään sosiaalihuollon ammatillisen henkilöstön kelpoisuusvaatimuksista annetussa laissa (272/2005). Henkilöstön mitoitukseen ja kelpoisuusvaatimuksiin sovelletaan perhekodin osalta sosiaalihuoltolain 26 a §:n 2 momenttia ja päivähoidon osalta, mitä lasten päivähoidosta annetun lain (36/1973) 5 §:ssä ja sen nojalla säädetään. Lastensuojelun laitoshuollon henkilöstön vähimmäismäärään sovelletaan lastensuojelulain (417/2007) 59 §:ää ja kelpoisuusvaatimuksiin mainitun lain 60 §:ää.",
+      "section_number": "4",
+      "chapter_number": 2,
+      "statute_id": "812/2000"
+    },
+    {
+      "id": "b4e3a61e-f927-4d6a-99c6-c41fdfd137c3",
+      "node_type": "Section",
+      "publisher": "finlex",
+      "title": "5 § Vastuu palvelujen laadusta",
+      "text": "Yksityisten sosiaalipalvelujen on perustuttava sopimukseen tai kunnan tekemään hallintopäätökseen sekä sosiaalihuollon asiakkaan asemasta ja oikeuksista annetun lain 7 §:n mukaisesti laadittuun palvelu-, hoito-, huolto- tai kuntoutussuunnitelmaan taikka muuhun vastaavaan suunnitelmaan. Yksityisten sosiaalipalvelujen tuottaja vastaa siitä, että 1 momentissa tarkoitetun sopimuksen, hallintopäätöksen ja suunnitelman perusteella asiakkaalle järjestettävä palvelukokonaisuus täyttää sille asetetut vaatimukset. Toimintayksiköllä tulee olla vastuuhenkilö, joka vastaa siitä, että toimintayksikössä toteutettavat palvelut täyttävät niille asetetut vaatimukset.",
+      "section_number": "5",
+      "chapter_number": 2,
+      "statute_id": "812/2000"
+    },
+    {
+      "id": "e53f3ad0-a720-42fd-9096-d20812beefb6",
+      "node_type": "Section",
+      "publisher": "finlex",
+      "title": "6 § Omavalvontasuunnitelma",
+      "text": "Yksityisten sosiaalipalvelujen tuottajan on laadittava toiminnan asianmukaisuuden varmistamiseksi omavalvontasuunnitelma, joka kattaa kaikki palvelujen tuottajan sosiaalipalvelut ja 5 §:n 2 momentissa tarkoitetut palvelukokonaisuudet. Palvelujen tuottajan on pidettävä omavalvontasuunnitelma julkisesti nähtävänä ja seurattava sen toteutumista. Sosiaali- ja terveysalan lupa- ja valvontavirasto voi antaa määräyksiä omavalvontasuunnitelman sisällöstä, laatimisesta ja seurannasta.",
+      "section_number": "6",
+      "chapter_number": 2,
+      "statute_id": "812/2000"
+    },
+    {
+      "id": "9501f5c4-6da0-4763-9d22-4e532df8f8c1",
+      "node_type": "Section",
+      "publisher": "finlex",
+      "title": "7 § Luvanvaraiset palvelut",
+      "text": "Yksityisten sosiaalipalvelujen tuottajan, joka jatkuvasti tuottaa ympärivuorokautisia sosiaalipalveluja, on saatava lupaviranomaiselta lupa palvelujen tuottamiseen ennen toiminnan aloittamista ja olennaista muuttamista. Lupa kattaa kaikki palvelujen tuottajan toimintayksiköt, joissa tuotetaan ympärivuorokautisia sosiaalipalveluja.",
+      "section_number": "7",
+      "chapter_number": 3,
+      "statute_id": "812/2000"
+    },
+    {
+      "id": "55a6fd40-3466-4c60-9b90-4b8fb22521ba",
+      "node_type": "Section",
+      "publisher": "finlex",
+      "title": "8 § Luvan hakeminen",
+      "text": "Lupaa haetaan siltä aluehallintovirastolta, jonka toimialueella palveluja tuotetaan. Jos palveluja tuotetaan useamman kuin yhden aluehallintoviraston toimialueella, lupaa haetaan Sosiaali- ja terveysalan lupa- ja valvontavirastolta. Lupahakemuksessa on mainittava:",
+      "section_number": "8",
+      "chapter_number": 3,
+      "statute_id": "812/2000"
+    },
+    {
+      "id": "ddf4279e-60f2-4e49-9b82-7c5fcdd56cf7",
+      "node_type": "Section",
+      "publisher": "finlex",
+      "title": "9 § Lupahakemuksen johdosta tehtävä tarkastus",
+      "text": "Edellä 4 §:ssä tarkoitettujen toimintaedellytysten varmistamiseksi aluehallintoviraston on tarkastettava ympärivuorokautisia sosiaalipalveluja antava toimintayksikkö mahdollisimman pian sen jälkeen, kun toiminnan aloittamista tai muuttamista koskeva lupahakemus on tullut vireille aluehallintovirastossa. Lisäksi aluehallintoviraston on Sosiaali- ja terveysalan lupa- ja valvontaviraston pyynnöstä tarkastettava sellainen toimintayksikkö, jota koskeva lupahakemus on tullut vireille Sosiaali- ja terveysalan lupa- ja valvontavirastossa. Tarkastukseen voi osallistua aluehallintoviraston pyynnöstä sen kunnan edustaja, jonka alueella sosiaalipalveluja on tarkoitus tuottaa. Pysyväisluonteiseen asumiseen käytettävät tilat voidaan tarkastaa ainoastaan palvelujen tuottajan suostumuksella.",
+      "section_number": "9",
+      "chapter_number": 3,
+      "statute_id": "812/2000"
+    },
+    {
+      "id": "294023b1-346d-49c2-8e45-5fba14f7d4c0",
+      "node_type": "Section",
+      "publisher": "finlex",
+      "title": "10 § Luvan myöntäminen",
+      "text": "Lupa myönnetään palvelujen tuottajalle, jos sen toimintayksiköt täyttävät 4 §:ssä säädetyt edellytykset ja jos se kykenee asianmukaisesti vastaamaan taloudellisista velvoitteistaan. Palvelujen tuottajan, joka on konkurssissa tai jolla on maksukykyynsä nähden vähäistä suurempia erääntyneitä verovelkoja tai saatavia ulosotossa, ei katsota kykenevän asianmukaisesti vastaamaan taloudellisista velvoitteistaan. Luvasta tulee ilmetä palvelujen sisältö, toiminnan laajuus ja palvelujen tuottamistapa. Lupaan voidaan liittää asiakasturvallisuuden varmistamiseksi välttämättömiä ehtoja palvelujen määrästä, henkilöstöstä, tiloista, laitteista ja tarvikkeista sekä toimintatavoista.",
+      "section_number": "10",
+      "chapter_number": 3,
+      "statute_id": "812/2000"
+    },
+    {
+      "id": "b51fb5ce-03a7-47f5-8bfc-296f005b78e3",
+      "node_type": "Section",
+      "publisher": "finlex",
+      "title": "11 § Ilmoituksenvaraiset palvelut",
+      "text": "Yksityisten sosiaalipalvelujen tuottajan, joka tuottaa muita kuin ympärivuorokautisia sosiaalipalveluja, on tehtävä kirjallinen ilmoitus toiminnasta ennen sen aloittamista tai olennaista muuttamista kunnan toimielimelle siinä kunnassa, jossa palveluja tuotetaan. Ilmoituksessa on mainittava vastaavat tiedot kuin lupahakemuksessa. Palvelujen tuottajan, joka on hakenut 7 §:ssä tarkoitettua lupaa, ei tarvitse tehdä erillistä ilmoitusta tuottamistaan muista kuin ympärivuorokautisista sosiaalipalveluista, jos ne ilmenevät lupahakemuksesta. Yksityisen päivähoidon tuottajan velvollisuudesta tehdä ilmoitus kunnan toimielimelle säädetään lasten päivähoidosta annetussa laissa.",
+      "section_number": "11",
+      "chapter_number": 3,
+      "statute_id": "812/2000"
+    },
+    {
+      "id": "d2c53f60-03e9-489f-b897-02d56153159b",
+      "node_type": "Section",
+      "publisher": "finlex",
+      "title": "12 § Ilmoitus vastuuhenkilön vaihtumisesta ja toiminnan lopettamisesta",
+      "text": "Palvelujen tuottajan on tehtävä kirjallinen ilmoitus vastuuhenkilön vaihtumisesta ja toiminnan lopettamisesta luvan myöntäneelle lupaviranomaiselle tai 11 §:ssä tarkoitetun ilmoituksen vastaanottaneelle kunnan toimielimelle.",
+      "section_number": "12",
+      "chapter_number": 3,
+      "statute_id": "812/2000"
+    },
+    {
+      "id": "a51d9937-77e8-45fa-a371-2e28bc14f821",
+      "node_type": "Section",
+      "publisher": "finlex",
+      "title": "13 § Kunnan velvollisuus antaa ilmoitetut tiedot aluehallintovirastolle",
+      "text": "Kunnan toimielimen on viipymättä annettava aluehallintovirastolle 11 ja 12 §:n nojalla saamansa tiedot lukuun ottamatta tietoja sellaisista palvelujen tuottajista, jotka tuottavat ainoastaan sosiaalihuoltolain 17 §:n 1 momentin 3 kohdassa tarkoitettuihin kotipalveluihin kuuluvia tukipalveluja tai niihin rinnastettavia palveluja taikka yksityistä perhepäivähoitoa.",
+      "section_number": "13",
+      "chapter_number": 3,
+      "statute_id": "812/2000"
+    },
+    {
+      "id": "3166b50b-0707-449c-9f88-65c6fad3e82b",
+      "node_type": "Section",
+      "publisher": "finlex",
+      "title": "14 § Valvonnan kohde",
+      "text": "Tämän lain mukainen valvonta kohdistuu kaikkiin 3 §:n 1 kohdassa tarkoitettuihin sosiaalipalveluihin.",
+      "section_number": "14",
+      "chapter_number": 4,
+      "statute_id": "812/2000"
+    },
+    {
+      "id": "ab3bc9d0-43f7-4da0-bcdb-7e3f4c6ea7dc",
+      "node_type": "Section",
+      "publisher": "finlex",
+      "title": "15 § Ohjaus, neuvonta ja seuranta",
+      "text": "Valvontaviranomaisen on toteutettava yksityisten sosiaalipalvelujen valvontaa ensisijaisesti antamalla palvelujen tuottamisessa tarpeellista ohjausta ja neuvontaa palvelujen tuottajalle sekä seuraamalla toiminnan kehitystä yhteistyössä palvelujen tuottajan kanssa.",
+      "section_number": "15",
+      "chapter_number": 4,
+      "statute_id": "812/2000"
+    },
+    {
+      "id": "c87c1869-1c1e-4eac-95c6-142f113d7feb",
+      "node_type": "Section",
+      "publisher": "finlex",
+      "title": "16 § Toimintakertomus",
+      "text": "Luvan saaneen yksityisen palvelujen tuottajan on vuosittain annettava toiminnastaan kertomus lupaviranomaiselle. Toimintakertomuksessa on ilmoitettava henkilöstössä, toimitiloissa ja toiminnassa tapahtuneet muutokset.",
+      "section_number": "16",
+      "chapter_number": 4,
+      "statute_id": "812/2000"
+    },
+    {
+      "id": "512fe590-0f91-4c51-80a1-60ffcd88cb26",
+      "node_type": "Section",
+      "publisher": "finlex",
+      "title": "17 § Tarkastusoikeus",
+      "text": "Valvontaviranomainen voi tarkastaa palvelujen tuottajan tässä laissa tarkoitetun toiminnan sekä toiminnan järjestämisessä käytettävät toimintayksiköt ja toimitilat silloin, kun tarkastuksen tekemiseen on perusteltu syy. Sosiaali- ja terveysalan lupa- ja valvontavirasto voi perustellusta syystä määrätä aluehallintoviraston tekemään tarkastuksen. Lupaviranomainen voi lisäksi pyytää kunnan toimielintä perustellusta syystä tarkastamaan toimintayksikön.",
+      "section_number": "17",
+      "chapter_number": 4,
+      "statute_id": "812/2000"
+    },
+    {
+      "id": "2febc6d3-9ada-44c6-8113-954252e4fbcc",
+      "node_type": "Section",
+      "publisher": "finlex",
+      "title": "18 § Tarkastuksen toimittaminen",
+      "text": "Tarkastus voidaan tehdä ennalta ilmoittamatta. Tarkastaja on päästettävä kaikkiin toimintayksikön tiloihin. Pysyväisluonteiseen asumiseen käytettävät tilat voidaan kuitenkin tarkastaa ainoastaan, jos tarkastaminen on välttämätöntä asiakkaan aseman ja asianmukaisten palvelujen turvaamiseksi. Tarkastuksesta on pidettävä pöytäkirjaa. Tarkastajalle on salassapitosäännösten estämättä esitettävä kaikki hänen pyytämänsä asiakirjat, jotka ovat välttämättömiä tarkastuksen toimittamiseksi. Lisäksi tarkastajalle on annettava maksutta hänen pyytämänsä jäljennökset tarkastuksen toimittamiseksi välttämättömistä asiakirjoista. Tarkastajalla on oikeus ottaa valokuvia tarkastuksen aikana. Tarkastajan apuna voi olla tarkastuksen toteuttamiseksi tarpeellisia asiantuntijoita.",
+      "section_number": "18",
+      "chapter_number": 4,
+      "statute_id": "812/2000"
+    },
+    {
+      "id": "8df58891-eac7-4ffb-940c-ce61c8344f09",
+      "node_type": "Section",
+      "publisher": "finlex",
+      "title": "19 § Huomautus ja huomion kiinnittäminen",
+      "text": "Jos yksityisten sosiaalipalvelujen ohjauksen tai valvonnan yhteydessä todetaan, että palvelujen tuottaja on tämän lain mukaista toimintaa järjestäessään tai toteuttaessaan menetellyt virheellisesti tai jättänyt velvollisuutensa täyttämättä eikä asia anna aihetta muihin toimenpiteisiin, lupaviranomainen voi antaa palvelujen tuottajalle tai vastuuhenkilölle huomautuksen vastaisen toiminnan varalle tai kiinnittää huomiota toiminnan asianmukaiseen järjestämiseen ja hyvän hallintotavan noudattamiseen.",
+      "section_number": "19",
+      "chapter_number": 4,
+      "statute_id": "812/2000"
+    },
+    {
+      "id": "bc42804b-1d91-4a00-92f3-35137e56c18f",
+      "node_type": "Section",
+      "publisher": "finlex",
+      "title": "20 § Määräys puutteiden korjaamisesta",
+      "text": "Jos yksityinen sosiaalipalvelujen tuottaja ei ole täyttänyt ilmoitus- tai luvanhakuvelvollisuuttaan tai jos sosiaalipalvelujen järjestämisessä tai toteuttamisessa havaitaan asiakasturvallisuutta vaarantavia puutteita tai muita epäkohtia taikka toiminta on muutoin tämän lain vastaista, lupaviranomainen voi antaa määräyksen puutteiden korjaamisesta tai epäkohtien poistamisesta. Määräystä annettaessa on asetettava määräaika, jonka kuluessa tarpeelliset toimenpiteet on suoritettava.",
+      "section_number": "20",
+      "chapter_number": 4,
+      "statute_id": "812/2000"
+    },
+    {
+      "id": "1ec7aa4b-e66b-4208-8052-aaaff1297a0f",
+      "node_type": "Section",
+      "publisher": "finlex",
+      "title": "21 § Toiminnan keskeyttäminen ja käyttökielto",
+      "text": "Jos asiakasturvallisuus sitä edellyttää, lupaviranomainen voi kieltää toiminnan tai määrätä sen keskeytettäväksi taikka kieltää toimintayksikön, sen osan tai laitteen käytön välittömästi.",
+      "section_number": "21",
+      "chapter_number": 4,
+      "statute_id": "812/2000"
+    },
+    {
+      "id": "8c613df3-8b3b-4871-96e5-593b1e322227",
+      "node_type": "Section",
+      "publisher": "finlex",
+      "title": "22 § Pakkokeinot määräyksen noudattamiseksi",
+      "text": "Lupaviranomainen voi velvoittaa palvelujen tuottajan noudattamaan 20 ja 21 §:ssä tarkoitettua määräystä sakon uhalla tai uhalla, että toiminta keskeytetään, taikka että toimintayksikön, sen osan tai laitteen käyttö kielletään.",
+      "section_number": "22",
+      "chapter_number": 4,
+      "statute_id": "812/2000"
+    },
+    {
+      "id": "d313ce4a-7b75-4507-b8d9-608bccc19cfa",
+      "node_type": "Section",
+      "publisher": "finlex",
+      "title": "23 § Luvan peruuttaminen",
+      "text": "Lupaviranomainen voi peruuttaa sosiaalipalvelujen tuottamiseen myöntämänsä luvan osittain tai kokonaan, jos toiminnassa on olennaisesti rikottu tätä lakia tai sen nojalla annettuja säännöksiä tai määräyksiä. Luvan peruuttamisen edellytyksenä on lisäksi, että lupaviranomaisen aikaisemmat huomautukset ja määräykset eivät ole johtaneet toiminnassa esiintyneiden puutteiden korjaamiseen tai epäkohtien poistamiseen.",
+      "section_number": "23",
+      "chapter_number": 4,
+      "statute_id": "812/2000"
+    },
+    {
+      "id": "0bfde4d0-6420-4a58-b607-809fc3ad4cfc",
+      "node_type": "Section",
+      "publisher": "finlex",
+      "title": "24 § Toimenpiteet lääkehuoltoa koskevien puutteiden johdosta",
+      "text": "Mitä tässä luvussa säädetään, ei koske lääkelaissa (395/1987) tarkoitettua toimintaa, jonka valvonnasta vastaa Lääkealan turvallisuus- ja kehittämiskeskus. Jos valvontaviranomainen havaitsee yksityisiä sosiaalipalveluja valvoessaan lääkehuoltoa koskevia puutteita tai muita epäkohtia, sen on ilmoitettava niistä Lääkealan turvallisuus- ja kehittämiskeskukselle.",
+      "section_number": "24",
+      "chapter_number": 4,
+      "statute_id": "812/2000"
+    },
+    {
+      "id": "72c4d926-e3d1-481d-a015-7edc401268d3",
+      "node_type": "Section",
+      "publisher": "finlex",
+      "title": "25 § Rekisterin pitäminen ja siihen sisältyvien tietojen käyttäminen",
+      "text": "Lupaviranomaiset pitävät yhdessä valtakunnallista tietojärjestelmää (yksityisten palvelujen antajien rekisteri) tässä laissa tarkoitettujen lupa- ja ilmoitusasioiden käsittelyä sekä toiminnan valvontaa ja tilastointia varten. Tietojärjestelmään kuuluvat erillisinä osina rekisteri yksityisistä sosiaalipalvelujen tuottajista sekä yksityisestä terveydenhuollosta annetussa laissa (152/1990) tarkoitetut rekisterit terveydenhuollon yksityisistä palvelujen tuottajista ja terveydenhuollon itsenäisistä ammatinharjoittajista. Vastuullisena rekisterinpitäjänä toimii Sosiaali- ja terveysalan lupa- ja valvontavirasto, joka myös vastaa tietojärjestelmän toimivuudesta. Lupaviranomainen vastaa rekisteriin tallettamistaan tiedoista ja niiden luovuttamisen lainmukaisuudesta. Lupaviranomainen saa käyttää rekisterien tietoja tehtäviensä edellyttämässä laajuudessa. Henkilötietojen käsittelystä säädetään lisäksi henkilötietolaissa (523/1999).",
+      "section_number": "25",
+      "chapter_number": 5,
+      "statute_id": "812/2000"
+    },
+    {
+      "id": "9a5d89de-19f3-4de6-8239-46cf0322035e",
+      "node_type": "Section",
+      "publisher": "finlex",
+      "title": "26 § Lupahakemukseen sisältyvien tietojen tallettaminen rekisteriin",
+      "text": "Myönnettyään palvelujen tuottajalle 7 §:ssä tarkoitetun luvan lupaviranomainen huolehtii siitä, että yksityisten palvelujen antajien rekisteriin on talletettu tiedot, jotka palvelujen tuottajan on 8 §:n mukaan tullut mainita lupahakemuksessa.",
+      "section_number": "26",
+      "chapter_number": 5,
+      "statute_id": "812/2000"
+    },
+    {
+      "id": "e770f08a-16bd-495f-a083-bf407ff4dad6",
+      "node_type": "Section",
+      "publisher": "finlex",
+      "title": "27 § Ilmoituksenvaraista toimintaa koskevien tietojen tallettaminen rekisteriin",
+      "text": "Lupaviranomainen päättää 11 §:ssä tarkoitettua ilmoituksenvaraista palvelua koskevien tietojen tallettamisesta rekisteriin. Rekisteriin ei talleteta tietoja sellaisista palvelujen tuottajista, jotka tuottavat ainoastaan sosiaalihuoltolain 17 §:n 1 momentin 3 kohdassa tarkoitettuihin kotipalveluihin kuuluvia tukipalveluja tai niihin rinnastettavia palveluja taikka yksityistä perhepäivähoitoa.",
+      "section_number": "27",
+      "chapter_number": 5,
+      "statute_id": "812/2000"
+    },
+    {
+      "id": "a8b68771-09d4-49b8-a015-4a48a47eba3c",
+      "node_type": "Section",
+      "publisher": "finlex",
+      "title": "28 § Muut rekisteriin talletettavat tiedot",
+      "text": "Sen lisäksi, mitä 26 ja 27 §:ssä säädetään, lupaviranomainen tallettaa rekisteriin:",
+      "section_number": "28",
+      "chapter_number": 5,
+      "statute_id": "812/2000"
+    },
+    {
+      "id": "e7fcd5d0-c526-43cc-9176-34e4dbf91754",
+      "node_type": "Section",
+      "publisher": "finlex",
+      "title": "29 § Tietojen poistaminen rekisteristä",
+      "text": "Sosiaalipalvelujen tuottajana toimivaa henkilöä, sosiaalipalvelujen vastuuhenkilöä, rekisterinpidosta vastaavaa henkilöä sekä tietosuojavastaavaa koskevat tiedot poistetaan rekisteristä viiden vuoden kuluttua siitä, kun rekisteriin merkitty on lopettanut toimintansa.",
+      "section_number": "29",
+      "chapter_number": 5,
+      "statute_id": "812/2000"
+    },
+    {
+      "id": "4fbe281a-e3de-42ca-9295-641d47cd6691",
+      "node_type": "Section",
+      "publisher": "finlex",
+      "title": "30 § Rekisterissä olevien tietojen julkistaminen ja luovuttaminen",
+      "text": "Sosiaali- ja terveysalan lupa- ja valvontavirasto voi julkistaa ja luovuttaa julkisen tietoverkon välityksellä yksityisten palvelujen antajien rekisteristä yksityisten sosiaalipalvelujen tuottajan nimen tai toiminimen, palvelualan sekä kaikkien toimintayksikköjen ja toimipisteiden osoitteet ja yhteystiedot. Itsenäinen ammatinharjoittaja voi kuitenkin kieltää osoite- ja muiden yhteystietojensa julkaisemisen. Muista kuin itsenäisistä ammatinharjoittajista saa julkisessa tietoverkossa olla myös muita yritystoimintaa koskevia julkisia tietoja. Muusta kuin julkisessa tietoverkossa tapahtuvasta julkisten henkilötietojen luovutuksesta säädetään viranomaisten toiminnan julkisuudesta annetun lain (621/1999) 16 §:n 3 momentissa. Tietoja, jotka koskevat tässä laissa tarkoitetun toimintansa lopettanutta palvelujen tuottajaa, saa julkaista ja luovuttaa julkisessa tietoverkossa enintään 12 kuukauden ajan siitä, kun lopettamisilmoitus saapui lupaviranomaiselle.",
+      "section_number": "30",
+      "chapter_number": 5,
+      "statute_id": "812/2000"
+    },
+    {
+      "id": "e97e1532-1f82-4957-a1f8-9f55aad6d39b",
+      "node_type": "Section",
+      "publisher": "finlex",
+      "title": "31 § Tietojen luovuttaminen teknisen käyttöyhteyden avulla",
+      "text": "Salassapitosäännösten ja muiden tietojen käyttöä koskevien säännösten estämättä lupaviranomaiset saavat luovuttaa yksityisten palvelujen antajien rekisteristä teknisen käyttöyhteyden avulla sen lisäksi, mitä muualla laissa säädetään: Ennen teknisen käyttöyhteyden avaamista tietoja pyytävän viranomaisen on esitettävä selvitys siitä, että tietojen suojaamisesta huolehditaan asianmukaisesti.",
+      "section_number": "31",
+      "chapter_number": 5,
+      "statute_id": "812/2000"
+    },
+    {
+      "id": "063ddda2-21fc-469b-94a7-a04d8b0a5af3",
+      "node_type": "Section",
+      "publisher": "finlex",
+      "title": "32 § Palvelujen tuottajalta perittävät maksut",
+      "text": "Lupa sosiaalipalvelujen tuottamiseksi ja 11 §:ssä tarkoitetun ilmoituksen rekisteröinti ovat maksullisia. Lupaan ja rekisteröintiin liittyvistä toimenpiteistä voidaan periä maksuja kokonaan tai osittain vuosimaksuna.",
+      "section_number": "32",
+      "chapter_number": 5,
+      "statute_id": "812/2000"
+    },
+    {
+      "id": "1230ce47-7c27-4800-8de5-ede4f76ef1c7",
+      "node_type": "Section",
+      "publisher": "finlex",
+      "title": "33 § Keskushallinto",
+      "text": "Tähän lakiin perustuvan toiminnan yleinen ohjaus ja valvonta kuuluvat sosiaali- ja terveysministeriölle. Sosiaali- ja terveysalan lupa- ja valvontavirasto ohjaa sosiaali- ja terveysministeriön alaisena aluehallintovirastoja niille tämän lain mukaan kuuluvien tehtävien hoitamisessa. Ohjauksen tavoitteena on yhdenmukaistaa aluehallintovirastojen toimintaperiaatteita, menettelytapoja ja ratkaisukäytäntöjä. Lisäksi Sosiaali- ja terveysalan lupa- ja valvontavirasto ohjaa ja valvoo palveluja erityisesti silloin, kun kysymyksessä ovat:",
+      "section_number": "33",
+      "chapter_number": 6,
+      "statute_id": "812/2000"
+    },
+    {
+      "id": "f2c0be96-ac0f-4c79-9deb-80fb6e9e7ece",
+      "node_type": "Section",
+      "publisher": "finlex",
+      "title": "34 § Alue- ja paikallishallinto",
+      "text": "Aluehallintovirasto ohjaa ja valvoo toimialueellaan tuotettuja yksityisiä sosiaalipalveluja. Kunnan toimielin ohjaa ja valvoo alueellaan tuotettuja yksityisiä sosiaalipalveluja.",
+      "section_number": "34",
+      "chapter_number": 6,
+      "statute_id": "812/2000"
+    },
+    {
+      "id": "4106d68a-fdea-48d1-803e-3acd91adf122",
+      "node_type": "Section",
+      "publisher": "finlex",
+      "title": "35 § Valvontaviranomaisten välinen yhteistyö",
+      "text": "Valvontaviranomaisten on toimittava yhteistyössä tässä laissa säädettyjä tehtäviä hoitaessaan. Kunnan toimielimen on heti ilmoitettava tämän lain mukaisessa valvonnassa tietoonsa tulleista puutteellisuuksista tai epäkohdista asianomaiselle aluehallintovirastolle. Lisäksi kunnan toimielimen on ilmoitettava aluehallintovirastolle 17 §:n perusteella tekemistään tarkastuksista ja niitä koskevista johtopäätöksistään. Sosiaali- ja terveysalan lupa- ja valvontaviraston on ilmoitettava 17—23 §:n perusteella toteuttamistaan valvontatoimista asianomaisille aluehallintovirastoille. Aluehallintoviraston on ilmoitettava edellä mainituista valvontatoimistaan Sosiaali- ja terveysalan lupa- ja valvontavirastolle, jos palvelujen tuottaja on saanut luvan tai hakenut sitä Sosiaali- ja terveysalan lupa- ja valvontavirastolta. Lisäksi Sosiaali- ja terveysalan lupa- ja valvontaviraston sekä aluehallintoviraston on ilmoitettava edellä mainituista valvontatoimistaan niiden kuntien toimielimille, joiden alueella palveluja tuotetaan.",
+      "section_number": "35",
+      "chapter_number": 6,
+      "statute_id": "812/2000"
+    },
+    {
+      "id": "4ccf4554-41d9-4f90-be5b-6d0f31d0a945",
+      "node_type": "Section",
+      "publisher": "finlex",
+      "title": "36 § Muutoksenhaku",
+      "text": "Tämän lain nojalla tehtyyn lupa- ja valvontaviranomaisen päätökseen haetaan muutosta valittamalla hallinto-oikeuteen siten kuin hallintolainkäyttölaissa (586/1996) säädetään. Edellä 19 §:ssä tarkoitettuun huomautukseen tai huomion kiinnittämiseen ei saa hakea muutosta valittamalla.",
+      "section_number": "36",
+      "chapter_number": 7,
+      "statute_id": "812/2000"
+    },
+    {
+      "id": "b2c2f34e-a47b-45d0-9e4f-c7b5128243fb",
+      "node_type": "Section",
+      "publisher": "finlex",
+      "title": "37 § Täytäntöönpano",
+      "text": "Lupaviranomaisen päätös, joka koskee toiminnan keskeyttämistä, toimintayksikön tai sen osan tai laitteen käytön kieltämistä taikka luvan peruuttamista, voidaan panna muutoksenhausta huolimatta heti täytäntöön, jos se on asiakkaiden turvallisuuden kannalta välttämätöntä. Muutoksenhakuviranomainen voi kieltää päätöksen täytäntöönpanon tai määrätä sen keskeytettäväksi.",
+      "section_number": "37",
+      "chapter_number": 7,
+      "statute_id": "812/2000"
+    },
+    {
+      "id": "32ee8e39-3985-471e-8061-e7ec4569eb76",
+      "node_type": "Section",
+      "publisher": "finlex",
+      "title": "38 § Kantelujen tutkiminen",
+      "text": "Lupaviranomainen tai sosiaali- ja terveysministeriö ei tutki yksityisiä sosiaalipalveluja koskevaa kantelua, joka kohdistuu yli viisi vuotta vanhaan asiaan, ellei kantelun tutkimiseen ole erityistä syytä.",
+      "section_number": "38",
+      "chapter_number": 8,
+      "statute_id": "812/2000"
+    },
+    {
+      "id": "c8fc5619-e758-41c6-b5f2-0afd75d56e14",
+      "node_type": "Section",
+      "publisher": "finlex",
+      "title": "39 § Viranomaisten tiedonsaantioikeus",
+      "text": "Valvontaviranomaisilla sekä sosiaali- ja terveysministeriöllä on oikeus salassapitosäännösten estämättä saada sosiaalipalvelujen tuottajalta ja toisiltaan tehtäviensä suorittamista varten tarvittavat tiedot ja selvitykset maksutta.",
+      "section_number": "39",
+      "chapter_number": 8,
+      "statute_id": "812/2000"
+    },
+    {
+      "id": "ec1c0d7c-a09b-47f2-afb7-40f2a163f97e",
+      "node_type": "Section",
+      "publisher": "finlex",
+      "title": "40 § Virka-apu",
+      "text": "Poliisi on velvollinen antamaan valvontaviranomaiselle virka-apua 18 §:n mukaisen tarkastuksen, 21 §:n mukaisen keskeyttämisen ja käyttökiellon sekä 39 §:n mukaisen tiedonsaantioikeuden toteuttamiseksi.",
+      "section_number": "40",
+      "chapter_number": 8,
+      "statute_id": "812/2000"
+    },
+    {
+      "id": "e61e28c8-1266-4ba9-81f6-690bea516602",
+      "node_type": "Section",
+      "publisher": "finlex",
+      "title": "41 § Rekisteröintiin liittyvien kustannusten korvaaminen",
+      "text": "Aluehallintovirastojen tulee suorittaa 32 §:n mukaisista vuosimaksuista Sosiaali- ja terveysalan lupa- ja valvontavirastolle osuus, joka kattaa yksityisten palvelujen antajien rekisteröintiin liittyvistä toimenpiteistä aiheutuvat kustannukset.",
+      "section_number": "41",
+      "chapter_number": 8,
+      "statute_id": "812/2000"
+    },
+    {
+      "id": "bb863020-0376-4ef9-84b6-c10de36c3946",
+      "node_type": "Section",
+      "publisher": "finlex",
+      "title": "42 § Tarkemmat säännökset",
+      "text": "Valtioneuvoston asetuksella voidaan antaa tarkempia säännöksiä yksityisten palvelujen antajien rekisteriin talletettavista tiedoista. Sosiaali- ja terveysministeriön asetuksella voidaan antaa tarkempia säännöksiä lupahakemuksen sisällöstä ja luvan hakemisesta, 11 ja 12 §:ssä tarkoitettujen ilmoitusten sisällöstä ja tekemisestä sekä 41 §:n mukaan Sosiaali- ja terveysalan lupa- ja valvontavirastolle suoritettavasta maksuosuudesta.",
+      "section_number": "42",
+      "chapter_number": 8,
+      "statute_id": "812/2000"
+    },
+    {
+      "id": "7c95c9b6-be6c-4684-a7b3-3f5e293b727d",
+      "node_type": "Section",
+      "publisher": "finlex",
+      "title": "43 § Voimaantulo",
+      "text": "Tämä laki tulee voimaan 1 päivänä lokakuuta 2011. Tällä lailla kumotaan yksityisten sosiaalipalvelujen valvonnasta annettu laki (603/1996). Ennen lain voimaantuloa voidaan ryhtyä lain täytäntöönpanon edellyttämiin toimiin.",
+      "section_number": "43",
+      "chapter_number": 9,
+      "statute_id": "812/2000"
+    },
+    {
+      "id": "3da86534-3d83-4619-8326-bdfc58460537",
+      "node_type": "Section",
+      "publisher": "finlex",
+      "title": "44 § Vireillä olevan asian käsittely",
+      "text": "Tämän lain voimaan tullessa vireillä olevien lupahakemusten ja kantelujen käsittelyyn sovelletaan lain voimaan tullessa voimassa olleita säännöksiä.",
+      "section_number": "44",
+      "chapter_number": 9,
+      "statute_id": "812/2000"
+    },
+    {
+      "id": "6505058f-a961-433d-81f2-362eecabdfc2",
+      "node_type": "Section",
+      "publisher": "finlex",
+      "title": "45 § Luvan voimassaolo",
+      "text": "Tämän lain voimaan tullessa voimassa olleiden säännösten perusteella myönnetty lupa on voimassa lain voimaantultua. Aluehallintoviraston tulee kuitenkin viran puolesta ja maksutta muuttaa toimialueellaan ennen lain voimaantuloa samalle palvelujen tuottajalle myönnetyt luvat palvelujen tuottajan kaikki toimintayksiköt kattavaksi luvaksi vuoden kuluessa lain voimaantulosta. Kahden tai useamman aluehallintoviraston alueella toimiva palvelujen tuottaja voi hakea Sosiaali- ja terveysalan lupa- ja valvontavirastolta erillisten lupien korvaamista yhdellä luvalla. Uusi lupa on myönnettävä, jos tämän lain mukaiset edellytykset luvan myöntämiselle täyttyvät palvelujen tuottajan kaikissa toimintayksiköissä.",
+      "section_number": "45",
+      "chapter_number": 9,
+      "statute_id": "812/2000"
+    },
+    {
+      "id": "3ae581f0-f81b-46c7-920e-b91165495fac",
+      "node_type": "Section",
+      "publisher": "finlex",
+      "title": "46 § Ilmoituksenvaraista palvelua koskevien tietojen poistaminen rekisteristä",
+      "text": "Yksityisten palvelujen antajien rekisterissä olevat tiedot, joita ei tämän lain perusteella tule tallettaa rekisteriin, poistetaan rekisteristä kuuden kuukauden kuluessa tämän lain voimaantulosta.",
+      "section_number": "46",
+      "chapter_number": 9,
+      "statute_id": "812/2000"
+    }
+  ],
+  "clauses": [
+    {
+      "id": "8693470d-b732-463b-83db-8e6c150c651a",
+      "node_type": "Clause",
+      "publisher": "finlex",
+      "title": "§ 8 mom 1",
+      "text": "1) palvelujen tuottajan nimi, henkilötunnus tai yritys- ja yhteisötunnus, yhteystiedot sekä yrityksen toimitusjohtajan tai muun liiketoiminnasta vastaavan henkilön nimi ja yhteystiedot;",
+      "clause_number": 1,
+      "section_number": "8",
+      "statute_id": "812/2000"
+    },
+    {
+      "id": "08cb8e41-9f73-4b42-93e9-e98d0a0be27c",
+      "node_type": "Clause",
+      "publisher": "finlex",
+      "title": "§ 8 mom 2",
+      "text": "2) niiden toimintayksiköiden nimet ja yhteystiedot, joita varten lupaa haetaan;",
+      "clause_number": 2,
+      "section_number": "8",
+      "statute_id": "812/2000"
+    },
+    {
+      "id": "5d1edacf-6714-4ba0-9023-d41f5fe3485e",
+      "node_type": "Clause",
+      "publisher": "finlex",
+      "title": "§ 8 mom 3",
+      "text": "3) haettavan luvan perusteella annettavien sosiaalipalvelujen sisältö ja tuottamistapa sekä niiden suunniteltu laajuus kussakin toimintayksikössä;",
+      "clause_number": 3,
+      "section_number": "8",
+      "statute_id": "812/2000"
+    },
+    {
+      "id": "cf183e46-6884-462e-92f3-64202e11eee6",
+      "node_type": "Clause",
+      "publisher": "finlex",
+      "title": "§ 8 mom 4",
+      "text": "4) asiakaspaikkojen lukumäärä kussakin toimintayksikössä;",
+      "clause_number": 4,
+      "section_number": "8",
+      "statute_id": "812/2000"
+    },
+    {
+      "id": "5f09c56b-2b98-4f45-8192-b7a218eb94d4",
+      "node_type": "Clause",
+      "publisher": "finlex",
+      "title": "§ 8 mom 5",
+      "text": "5) vastuuhenkilön nimi, henkilötunnus, yhteystiedot, koulutus, työkokemus ja tehtävä toimintayksikössä;",
+      "clause_number": 5,
+      "section_number": "8",
+      "statute_id": "812/2000"
+    },
+    {
+      "id": "3bd2ea38-4e2c-4da5-8ca5-48e81a049d81",
+      "node_type": "Clause",
+      "publisher": "finlex",
+      "title": "§ 8 mom 6",
+      "text": "6) muun henkilöstön määrä ja koulutus;",
+      "clause_number": 6,
+      "section_number": "8",
+      "statute_id": "812/2000"
+    },
+    {
+      "id": "e76e315c-da5e-4aaa-b9a5-d3a9e6f064f9",
+      "node_type": "Clause",
+      "publisher": "finlex",
+      "title": "§ 8 mom 7",
+      "text": "7) tieto rekisteröitymisestä ennakkoperintälaissa (1118/1996) tarkoitettuun työnantajarekisteriin;",
+      "clause_number": 7,
+      "section_number": "8",
+      "statute_id": "812/2000"
+    },
+    {
+      "id": "d1a1cfb6-5e5c-4aba-aa7c-2d2da70b017a",
+      "node_type": "Clause",
+      "publisher": "finlex",
+      "title": "§ 8 mom 8",
+      "text": "8) toiminnan suunniteltu aloittamispäivä;",
+      "clause_number": 8,
+      "section_number": "8",
+      "statute_id": "812/2000"
+    },
+    {
+      "id": "8b24dff9-fbc0-4392-a2d9-0666fb2e397e",
+      "node_type": "Clause",
+      "publisher": "finlex",
+      "title": "§ 8 mom 4",
+      "text": "9) asiakasasiakirjojen säilyttämispaikka, selvitys asiakasrekisterinpidon keskeisistä periaatteista ja rekisterinpidosta vastaava henkilö sekä sosiaali- ja terveydenhuollon asiakastietojen sähköisestä käsittelystä annetun lain (159/2007) 20 §:n 4 momentissa tarkoitettu tietosuojavastaava;",
+      "clause_number": 4,
+      "section_number": "8",
+      "statute_id": "812/2000"
+    },
+    {
+      "id": "6c461956-8bb8-430c-a11d-ec40c3b2ec50",
+      "node_type": "Clause",
+      "publisher": "finlex",
+      "title": "§ 8 mom 9",
+      "text": "9) asiakasasiakirjojen säilyttämispaikka, selvitys asiakasrekisterinpidon keskeisistä periaatteista ja rekisterinpidosta vastaava henkilö sekä sosiaali- ja terveydenhuollon asiakastietojen sähköisestä käsittelystä annetun lain (159/2007) 20 §:n 4 momentissa tarkoitettu tietosuojavastaava;",
+      "clause_number": 9,
+      "section_number": "8",
+      "statute_id": "812/2000"
+    },
+    {
+      "id": "6ef2cf8c-411f-4ec3-a3b3-19f90aed18af",
+      "node_type": "Clause",
+      "publisher": "finlex",
+      "title": "§ 8 mom 10",
+      "text": "10) palvelujen laadun, turvallisuuden ja asianmukaisuuden arvioimiseksi tarvittavat muut tiedot.",
+      "clause_number": 10,
+      "section_number": "8",
+      "statute_id": "812/2000"
+    },
+    {
+      "id": "bac759e8-242c-4b67-aa00-ed88efbf4218",
+      "node_type": "Clause",
+      "publisher": "finlex",
+      "title": "§ 28 mom 1",
+      "text": "1) tiedot toiminnan muutoksista;",
+      "clause_number": 1,
+      "section_number": "28",
+      "statute_id": "812/2000"
+    },
+    {
+      "id": "6ecc3112-49f8-4e6b-b863-987b0ae89a31",
+      "node_type": "Clause",
+      "publisher": "finlex",
+      "title": "§ 28 mom 2",
+      "text": "2) tiedot tämän lain ja sen nojalla annettujen säännösten, määräysten ja kieltojen rikkomisesta ja valvontaviranomaisen määräämistä seuraamuksista, tiedot valvontaviranomaisen suorittamista tarkastuksista ja niiden tuloksista sekä muut valvonnassa tarvittavat tiedot; sekä",
+      "clause_number": 2,
+      "section_number": "28",
+      "statute_id": "812/2000"
+    },
+    {
+      "id": "600fd924-2d9c-4b2f-a055-c9ce976143e3",
+      "node_type": "Clause",
+      "publisher": "finlex",
+      "title": "§ 28 mom 3",
+      "text": "3) muut lupa- ja ilmoitusasioiden käsittelyä ja tilastointia varten tarpeelliset tiedot, jotka eivät sisällä henkilötietolain 11 §:ssä tarkoitettuja tietoja.",
+      "clause_number": 3,
+      "section_number": "28",
+      "statute_id": "812/2000"
+    },
+    {
+      "id": "bed6575c-266c-42fe-b0ef-99fc5f72d215",
+      "node_type": "Clause",
+      "publisher": "finlex",
+      "title": "§ 31 mom 1",
+      "text": "1) Kansaneläkelaitokselle sairausvakuutus-, eläke- ja vammaisetuuksia myönnettäessä tarvittavat tiedot yksityisistä sosiaalipalvelujen tuottajista;",
+      "clause_number": 1,
+      "section_number": "31",
+      "statute_id": "812/2000"
+    },
+    {
+      "id": "375f6869-b926-46c2-9f7f-c9cf33614af6",
+      "node_type": "Clause",
+      "publisher": "finlex",
+      "title": "§ 31 mom 2",
+      "text": "2) Terveyden ja hyvinvoinnin laitokselle tilastointia varten tarvittavat tiedot yksityisistä sosiaalipalvelujen tuottajista sekä 16 §:ssä tarkoitetuista toimintakertomuksista.",
+      "clause_number": 2,
+      "section_number": "31",
+      "statute_id": "812/2000"
+    },
+    {
+      "id": "5e5c6a5f-ec34-4612-bf1d-a036368c9fbf",
+      "node_type": "Clause",
+      "publisher": "finlex",
+      "title": "§ 33 mom 1",
+      "text": "1) periaatteellisesti tärkeät ja laajakantoiset asiat;",
+      "clause_number": 1,
+      "section_number": "33",
+      "statute_id": "812/2000"
+    },
+    {
+      "id": "4e07f772-6e2b-4e4a-b484-d562fa5936d2",
+      "node_type": "Clause",
+      "publisher": "finlex",
+      "title": "§ 33 mom 2",
+      "text": "2) usean aluehallintoviraston toimialuetta tai koko maata koskevat asiat;",
+      "clause_number": 2,
+      "section_number": "33",
+      "statute_id": "812/2000"
+    },
+    {
+      "id": "3db72191-2753-40d7-bbfd-e5665da28dc7",
+      "node_type": "Clause",
+      "publisher": "finlex",
+      "title": "§ 33 mom 3",
+      "text": "3) asiat, jotka liittyvät Sosiaali- ja terveysalan lupa- ja valvontavirastossa käsiteltävään terveydenhuoltoa tai terveydenhuollon ammattihenkilöä koskevaan valvonta-asiaan;",
+      "clause_number": 3,
+      "section_number": "33",
+      "statute_id": "812/2000"
+    },
+    {
+      "id": "41246ae7-07b8-4a55-b4c4-1815a57eb0e8",
+      "node_type": "Clause",
+      "publisher": "finlex",
+      "title": "§ 33 mom 4",
+      "text": "4) asiat, joita aluehallintovirasto on esteellinen käsittelemään.",
+      "clause_number": 4,
+      "section_number": "33",
+      "statute_id": "812/2000"
+    }
+  ],
+  "cross_references": [],
+  "raw_html_path": "C:\\Users\\danit\\finance-hack\\aalto-hackaton-2026\\data\\raw\\finlex\\Laki (säädöskokoelma)\\Laki yksityisistä sosiaalipalveluista.html"
+}

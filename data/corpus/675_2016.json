@@ -1,0 +1,68 @@
+{
+  "statute": {
+    "id": "2357ef48-323e-4f36-a603-47d160aafb15",
+    "node_type": "Statute",
+    "publisher": "finlex",
+    "title": "Laki käräjäoikeuden lautamiehistä annetun lain 3 ja 12 §:n muuttamisesta",
+    "text": "Laki käräjäoikeuden lautamiehistä annetun lain 3 ja 12 §:n muuttamisesta",
+    "statute_id": "675/2016",
+    "finlex_url": "https://finlex.fi/fi/laki/ajantasa/675/2016"
+  },
+  "chapters": [],
+  "sections": [
+    {
+      "id": "2272e274-b63a-4640-9fd1-e1e7063c7152",
+      "node_type": "Section",
+      "publisher": "finlex",
+      "title": "3 § Lautamiesten lukumäärän vahvistaminen ja muuttaminen",
+      "text": "Käräjäoikeuden lautamiesten lukumäärän vahvistaa Tuomioistuinvirasto. Jos käräjäoikeuden tuomiopiiriin kuuluu useampia kuntia, Tuomioistuinvirasto vahvistaa kunkin kunnan alueelta valittavien lautamiesten määrän ensisijaisesti kuntien henkikirjoitettujen asukkaiden lukumäärän suhteessa. Jokaisesta kunnasta on kuitenkin valittava vähintään yksi lautamies. Lautamiesten määrä voidaan kunnanvaltuuston tai käräjäoikeuden esityksestä muuttaa, jos tuomiopiiriin kuuluvien kuntien asukkaiden tai käräjäoikeudessa oikeudenkäymiskaaren 2 luvun 1 §:ssä tarkoitetussa kokoonpanossa käsiteltävien asioiden määrä on oleellisesti muuttunut. Kunnallisen tai oikeudellisen jaotuksen muuttuessa Tuomioistuinvirasto voi muuttaa lautamiesten määrän ilman 2 momentissa tarkoitettua esitystä. Lautamiesten määrän muuttuessa Tuomioistuinvirasto voi samalla määrätä, että asianomaisten kuntien alueilta valittujen lautamiesten vaali on toimitettava uudelleen jäljellä olevaksi vaalikaudeksi. Ennen lautamiesten määrän vahvistamista tai muuttamista käräjäoikeudelle ja käräjäoikeuden tuomiopiiriin kuuluvalle kunnalle on varattava tilaisuus antaa asiassa lausunto.",
+      "section_number": "3",
+      "chapter_number": 1,
+      "statute_id": "675/2016"
+    },
+    {
+      "id": "36ff8366-fb5a-4030-8d8b-ee33d4a55e9f",
+      "node_type": "Section",
+      "publisher": "finlex",
+      "title": "12 § Lautamiehen palkkio ja kustannusten korvaus",
+      "text": "Lautamiehelle maksetaan valtion varoista: Lautamiehen palkkion, korvausten ja päivärahan tarkemmat perusteet ja määrän vahvistaa Tuomioistuinvirasto. Lautamies, joka katsoo, että hän ei ole saanut 1 ja 2 momentin mukaista palkkiota tai korvausta, saa vaatia oikaisua asianomaisen käräjäoikeuden laamannilta. Jollei oikaisuvaatimusta ole tehty vuoden kuluessa sen kalenterivuoden päättymisestä, jonka aikana suorituksen olisi pitänyt tapahtua, oikeus kyseisiin etuisuuksiin on menetetty. Oikaisuvaatimuksesta annettuun päätökseen saa hakea muutosta valittamalla hallinto-oikeuteen siten kuin hallintolainkäyttölaissa (586/1996) säädetään. Hallinto-oikeuden päätökseen ei saa valittamalla hakea muutosta. Tämä laki tulee voimaan 1 päivänä tammikuuta 2020.",
+      "section_number": "12",
+      "chapter_number": 1,
+      "statute_id": "675/2016"
+    }
+  ],
+  "clauses": [
+    {
+      "id": "380f1662-575f-4d01-8772-6b8f1e4ef2e6",
+      "node_type": "Clause",
+      "publisher": "finlex",
+      "title": "§ 12 mom 1",
+      "text": "1) palkkiota;",
+      "clause_number": 1,
+      "section_number": "12",
+      "statute_id": "675/2016"
+    },
+    {
+      "id": "8600a375-2c3e-4dba-ab91-260fc1e2edee",
+      "node_type": "Clause",
+      "publisher": "finlex",
+      "title": "§ 12 mom 2",
+      "text": "2) korvausta ansionmenetyksestä ja kustannuksista, joita lautamiestoimen vuoksi aiheutuu sijaisen palkkaamisesta, lastenhoidon järjestämisestä tai muusta vastaavasta syystä;",
+      "clause_number": 2,
+      "section_number": "12",
+      "statute_id": "675/2016"
+    },
+    {
+      "id": "c5bdf7fd-fd16-47db-a7e4-44091cd99e2f",
+      "node_type": "Clause",
+      "publisher": "finlex",
+      "title": "§ 12 mom 3",
+      "text": "3) matkakustannusten korvausta ja päivärahaa.",
+      "clause_number": 3,
+      "section_number": "12",
+      "statute_id": "675/2016"
+    }
+  ],
+  "cross_references": [],
+  "raw_html_path": "C:\\Users\\danit\\finance-hack\\aalto-hackaton-2026\\data\\raw\\finlex\\Laki\\Laki käräjäoikeuden lautamiehistä annetun lain 3 ja 12 §_n muuttamisesta.html"
+}

@@ -1,0 +1,853 @@
+{
+  "statute": {
+    "id": "4a2388ac-592f-424d-b7d2-e6bff1fce2a9",
+    "node_type": "Statute",
+    "publisher": "finlex",
+    "title": "Laki yhdyskuntaseuraamusten täytäntöönpanosta annetun lain muuttamisesta",
+    "text": "Laki yhdyskuntaseuraamusten täytäntöönpanosta annetun lain muuttamisesta",
+    "statute_id": "400/2015",
+    "finlex_url": "https://finlex.fi/fi/laki/ajantasa/400/2015"
+  },
+  "chapters": [],
+  "sections": [
+    {
+      "id": "1cd87124-ea08-4c86-b748-90fa0a9cb364",
+      "node_type": "Section",
+      "publisher": "finlex",
+      "title": "1 § Soveltamisala",
+      "text": "Yhdyskuntaseuraamukseen tuomittujen kohtelussa noudatettavista hyvän hallinnon perusteista ja menettelystä hallintoasiassa säädetään tämän lain lisäksi hallintolaissa (434/2003).",
+      "section_number": "1",
+      "chapter_number": 1,
+      "statute_id": "400/2015"
+    },
+    {
+      "id": "937b5a96-31a8-450b-b0a5-5c4059abc712",
+      "node_type": "Section",
+      "publisher": "finlex",
+      "title": "14 § Täytäntöönpanoon ryhtyminen",
+      "text": "Tuomioistuimen on ilman aiheetonta viivytystä ilmoitettava Rikosseuraamuslaitokselle ratkaisustaan, jolla se on tuominnut yhdyskuntapalvelun, valvontarangaistuksen, ehdollisen vankeuden, jonka tehosteeksi on tuomittu valvontaan, tai nuorisorangaistuksen. Ratkaisua koskevat tiedot tallennetaan oikeushallinnon valtakunnallisen tietovarannon ratkaisu- ja päätösilmoitusjärjestelmään. Tietojen tallentamisesta säädetään oikeushallinnon valtakunnallisesta tietovarannosta annetussa laissa (955/2020). Yhdyskuntapalvelun, valvontarangaistuksen, ehdollisen vankeuden, jonka tehosteeksi on tuomittu valvontaan, ja nuorisorangaistuksen täsmennetty rangaistusajan suunnitelma on laadittava, täytäntöönpano on aloitettava ja seuraamus on pantava täytäntöön ilman aiheetonta viivytystä, kun rangaistusta koskeva tuomio on saanut lainvoiman tai se on pantavissa täytäntöön kuten lainvoimainen tuomio. Rikosseuraamuslaitoksen on määrättävä tuomitulle rangaistuksen suorittamisen alkamisajankohta.",
+      "section_number": "14",
+      "chapter_number": 1,
+      "statute_id": "400/2015"
+    },
+    {
+      "id": "da9b4561-89db-4bf2-84bb-e5f4f2973bcc",
+      "node_type": "Section",
+      "publisher": "finlex",
+      "title": "15 § Rangaistuksen suorittamisen alkamisajankohta",
+      "text": "Yhdyskuntapalvelun ja nuorisorangaistuksen suorittaminen alkaa sinä päivänä, jolloin on täsmennetyn rangaistusajan suunnitelman mukainen ensimmäinen valvontatapaaminen, työpalvelupäivä tai muuhun toimintaan osallistumisen päivä taikka käynnistyy muu yhdyskuntaseuraamuksen täytäntöönpanon mukainen valvonta. Valvontarangaistuksen suorittamisen alkamisajankohdasta säädetään 47 §:ssä. Ehdollisen vankeuden, jonka tehosteeksi on tuomittu valvontaan, valvonta-aika alkaa sinä päivänä, jolloin on täsmennetyn rangaistusajan suunnitelman mukainen ensimmäinen valvontatapaaminen. Jos ehdonalaiseen vapauteen päästettävä on asetettu koeajaksi valvontaan, valvonta alkaa sinä päivänä, jolloin henkilö päästetään vankilasta ehdonalaiseen vapauteen.",
+      "section_number": "15",
+      "chapter_number": 1,
+      "statute_id": "400/2015"
+    },
+    {
+      "id": "a6cdbc74-315d-4877-830a-448f5c887225",
+      "node_type": "Section",
+      "publisher": "finlex",
+      "title": "16 § Täytäntöönpanon lykkäys tai keskeytys",
+      "text": "Rikosseuraamuslaitos voi lykätä tai keskeyttää yhdyskuntapalvelun, valvontarangaistuksen, nuorisorangaistuksen tai ehdollisen vankeuden valvonnan täytäntöönpanon määräajaksi, jos: Edellä 1 momentin 1 kohdassa tarkoitetuissa tilanteissa täytäntöönpanoa on lykättävä tai se on keskeytettävä kunnes tuomitun terveydentilasta aiheutuvia esteitä täytäntöönpanon aloittamiselle ei enää ole. Edellä 1 momentin 2–4 kohdassa tarkoitetuissa tilanteissa lykkäysten ja keskeytysten pituus saa olla yhteensä enintään yksi vuosi tuomitulle määrätystä rangaistuksen suorittamisen alkamisajankohdasta. Rangaistusaika ei kulu lykkäyksen tai keskeytyksen aikana. Rikosseuraamuslaitoksen on peruutettava täytäntöönpanon lykkäys tai keskeytys, jos ilmenee, että lykkäyksen tai keskeytyksen edellytykset eivät enää ole olemassa.",
+      "section_number": "16",
+      "chapter_number": 1,
+      "statute_id": "400/2015"
+    },
+    {
+      "id": "2ed065e0-2ed4-4425-a0b3-9a10ac8e0f29",
+      "node_type": "Section",
+      "publisher": "finlex",
+      "title": "17 § Täsmennetty rangaistusajan suunnitelma",
+      "text": "Rikosseuraamuslaitos laatii yhdyskuntaseuraamuksen täytäntöön panemiseksi täsmennetyn rangaistusajan suunnitelman. Täsmennetty rangaistusajan suunnitelma sisältää koko yhdyskuntaseuraamuksen täytäntöönpanon aikaa koskevat 11 §:n mukaisesti selvitysvaiheessa laadittua rangaistusajan suunnitelmaa tarkemmat tiedot sekä seuraamuksen täytäntöönpanon alkamis- ja päättymisajan ja yksityiskohtaisen aikataulun.",
+      "section_number": "17",
+      "chapter_number": 1,
+      "statute_id": "400/2015"
+    },
+    {
+      "id": "70fc46f0-7262-4f7b-877a-9b8e5f3358a9",
+      "node_type": "Section",
+      "publisher": "finlex",
+      "title": "18 § Täsmennetyn rangaistusajan suunnitelman laatiminen ja muuttaminen",
+      "text": "Rikosseuraamuslaitos laatii täsmennetyn rangaistusajan suunnitelman yhteistyössä tuomitun kanssa. Olosuhteiden olennaisen muuttumisen tai muun siihen rinnastettavan hyväksyttävän syyn vuoksi Rikosseuraamuslaitos voi muuttaa täsmennettyä rangaistusajan suunnitelmaa. Täsmennettyä rangaistusajan suunnitelmaa muutettaessa noudatetaan 1 ja 3 momenttia. Täsmennetyn rangaistusajan suunnitelman yksityiskohdat sekä määräysten rikkomisen seuraamukset käydään tarkoituksenmukaisella tavalla läpi tuomitun kanssa.",
+      "section_number": "18",
+      "chapter_number": 1,
+      "statute_id": "400/2015"
+    },
+    {
+      "id": "8db894bf-ebec-4075-97e3-20a0fbd97751",
+      "node_type": "Section",
+      "publisher": "finlex",
+      "title": "19 § Rangaistusaikojen ja määräaikojen laskeminen",
+      "text": "Tässä laissa tarkoitetut rangaistusajat ja 16 §:ssä tarkoitetun lykkäyksen ja keskeytyksen enimmäisaika lasketaan päivinä. Vuosina ja kuukausina ilmoitetut ajat muutetaan päiviksi siten, että vuoteen lasketaan 365 päivää ja kuukauteen 30 päivää.",
+      "section_number": "19",
+      "chapter_number": 1,
+      "statute_id": "400/2015"
+    },
+    {
+      "id": "6efde850-79e7-4f55-a29b-1e7cf7978f0e",
+      "node_type": "Section",
+      "publisher": "finlex",
+      "title": "20  § Tarkemmat säännökset",
+      "text": "Valtioneuvoston asetuksella annetaan tarkemmat säännökset:",
+      "section_number": "20",
+      "chapter_number": 1,
+      "statute_id": "400/2015"
+    },
+    {
+      "id": "968618dc-905b-4493-aeae-ea2dcaca6b99",
+      "node_type": "Section",
+      "publisher": "finlex",
+      "title": "22 § Päihteettömyyden valvonta",
+      "text": "Tuomittu voidaan velvoittaa suorittamaan puhalluskoe taikka antamaan sylki- tai virtsanäyte: Tuomitulta voidaan määrätä otettavaksi verinäyte, jos se on tarpeen 1 momentissa tarkoitetusta kokeesta tai näytteen antamisesta kieltäytymisen, päihteettömyyden valvonnan turvaamisen tai luotettavan koetuloksen saamisen vuoksi. Jos päihtymystila on ulkonaisista merkeistä päätellen ilmeinen, puhalluskoetta, sylki-, virtsa- tai verinäytettä ei tarvitse ottaa, ellei tuomittu sitä vaadi. Päihteettömyyden valvonnassa todetun päihteettömyysvelvollisuuden rikkomisen käsittelystä säädetään 24 a, 25 ja 26 §:ssä. Päihteettömyyden valvontaan liittyvän näytteenoton tulee tapahtua asianmukaisissa tiloissa ja valvotuissa olosuhteissa siten, että testattavan yksityisyyden suoja varmistetaan. Jos päihteettömyyden valvonta edellyttää vaatteiden riisumista, valvonnan suorittajan tulee olla samaa sukupuolta tarkastettavan kanssa. Tuomittu voidaan velvoittaa menemään soveltuvaan Rikosseuraamuslaitoksen yksikköön, terveyskeskukseen tai päihdehuoltolain (41/1986) mukaiseen yksikköön virtsanäytteen antamista varten. Verinäyte on otettava tarkoitukseen sopivassa terveydenhuollon yksikössä. Verinäytteen saa ottaa vain terveydenhuollon ammattihenkilö. Näytteenotto ja näytteen käsittely on suoritettava teknisesti luotettavalla tavalla siten, että: Sylki-, virtsa- ja verinäyte on lähetettävä tutkittavaksi tai varmistettavaksi laboratorioon, jollei sylki- tai virtsanäytteestä otetun pikatestin tuloksen perusteella voida todeta, ettei tuomittu ole käyttänyt päihteitä. Laboratorion tulee täyttää huumausainetestien tekemisestä säädetyt laatuvaatimukset. Tuomitulle on ilmoitettava päihteettömyyden valvonnan peruste niin pian kuin se on mahdollista henkilön tila ja muut olosuhteet huomioon ottaen.",
+      "section_number": "22",
+      "chapter_number": 1,
+      "statute_id": "400/2015"
+    },
+    {
+      "id": "4cc69d2f-9506-4485-a50b-3b540bd90a7d",
+      "node_type": "Section",
+      "publisher": "finlex",
+      "title": "23 § Lupa olla tilapäisesti noudattamatta täsmennettyä rangaistusajan suunnitelmaa",
+      "text": "Tuomitulle voidaan yksittäistapauksessa antaa lupa olla noudattamatta 17 §:ssä tarkoitettuun täsmennettyyn rangaistusajan suunnitelmaan sisältyvää määräystä, jos se on tarpeen tuomitun perheeseen, terveydenhuoltoon, toimeentuloon taikka työ-, koulutus-, sosiaali- tai asuntoasioiden hoitamiseen liittyvästä tai muusta vastaavasta hyväksyttävästä syystä. Tuomittu voi yksittäistapauksessa olla noudattamatta 1 momentissa tarkoitettua määräystä ilman etukäteen saatua lupaa, jos se on välttämätöntä tuomitun sairastumisen tai muun täytäntöönpanoon vaikuttavan ennalta arvaamattoman ja pakottavan syyn vuoksi. Tuomitun on viivytyksettä ilmoitettava asiasta Rikosseuraamuslaitokselle. Rikosseuraamuslaitos voi ilmoituksen saatuaan myöntää luvan jälkikäteen. Tuomitulle voidaan antaa varoitus, jos hän rikkoo 21, 22, 38, 49, 72 tai 73 §:ssä säädettyjä velvollisuuksiaan. Varoituksen sijasta tuomitulle voidaan antaa huomautus, jos velvollisuuksien rikkominen on vähäistä eikä se ole toistuvaa. Tuomitulle voidaan määrätä 39, 55, 62, 67 ja 75 §:n mukainen seuraamus, jos hän rikkoo velvollisuuksiaan törkeästi. Velvollisuuksien rikkominen on törkeää, jos tuomittu: Velvollisuuksien rikkominen on törkeää myös, jos tuomittu rikkoo velvollisuuksiaan tavalla, joka osoittaa ilmeistä piittaamattomuutta rangaistuksen asianmukaisesta suorittamisesta.",
+      "section_number": "23",
+      "chapter_number": 1,
+      "statute_id": "400/2015"
+    },
+    {
+      "id": "2221a667-db70-4b1d-9422-9776228901ac",
+      "node_type": "Section",
+      "publisher": "finlex",
+      "title": "25 § Velvollisuuksien rikkomisen selvittäminen",
+      "text": "Jos tuomitun epäillään rikkoneen velvollisuuksiaan 24 a §:ssä tarkoitetulla tavalla, Rikosseuraamuslaitoksen on selvitettävä velvollisuuksien rikkominen sen laadun ja vakavuusasteen edellyttämällä tavalla. Rikosseuraamuslaitos voi kieltää yhdyskuntapalvelun, valvontarangaistuksen, 21 vuotta täyttäneelle määrätyn ehdollisen vankeuden valvonnan tai nuorisorangaistuksen täytäntöönpanon aloittamisen tai keskeyttää täytäntöönpanon velvollisuuksien rikkomisen selvittämisen ajaksi, jos asiaa ei saada selvitetyksi välittömästi.",
+      "section_number": "25",
+      "chapter_number": 1,
+      "statute_id": "400/2015"
+    },
+    {
+      "id": "62eba61f-2aa3-485d-8bba-f4b7c0c7e74a",
+      "node_type": "Section",
+      "publisher": "finlex",
+      "title": "26 § Velvollisuuksien rikkomisen käsittely",
+      "text": "Jos tuomitun todetaan rikkoneen velvollisuuksiaan 24 a §:n 1 momentissa tarkoitetulla tavalla, Rikosseuraamuslaitos päättää huomautuksen tai varoituksen antamisesta. Varoituksen antamisen yhteydessä tuomitulle on ilmoitettava, mitä velvollisuuksien rikkomisen jatkamisesta saattaa seurata. Jos tuomitun epäillään rikkoneen velvollisuuksiaan törkeästi 24 a §:n 2 tai 3 momentissa tarkoitetulla tavalla, Rikosseuraamuslaitoksen on toimitettava 25 §:ssä tarkoitettu selvitys syyttäjälle. Rikosseuraamuslaitoksen on kiellettävä täytäntöönpanon aloittaminen tai keskeytettävä täytäntöönpano, jos kyse on yhdyskuntapalvelusta, valvontarangaistuksesta, 21 vuotta täyttäneelle määrätystä ehdollisen vankeuden valvonnasta tai nuorisorangaistuksesta. Käsitellessään törkeää velvollisuuksien rikkomista tuomioistuimen on ennen asian ratkaisemista annettava tuomitulle tilaisuus tulla kuulluksi. Myös Rikosseuraamuslaitoksen edustajalle on varattava tilaisuus antaa lausuntonsa, jollei tämä ole asian käsittelyn kannalta selvästi tarpeetonta. Asia voidaan ratkaista tuomitun poissaolosta huolimatta. Käräjäoikeus on päätösvaltainen, kun siinä on yksin puheenjohtaja. Muutoin noudatetaan, mitä oikeudenkäynnistä rikosasioissa säädetään. Valitus, jolla haetaan muutosta tuomioistuimen tämän pykälän nojalla tekemään ratkaisuun, on käsiteltävä kiireellisenä. Päihteettömyyden valvonta ja velvollisuuksien rikkomisen selvittäminen on kirjattava.",
+      "section_number": "26",
+      "chapter_number": 1,
+      "statute_id": "400/2015"
+    },
+    {
+      "id": "f5d904bc-3adb-40ab-b45c-6a3d5537b0ca",
+      "node_type": "Section",
+      "publisher": "finlex",
+      "title": "27 § Tarkemmat säännökset ja määräykset",
+      "text": "Tarkemmat säännökset päihteettömyyden valvonnan kirjaamisesta, velvollisuuksien rikkomisen selvittämisestä ja kirjaamisesta sekä menettelystä velvollisuuksien rikkomistapauksissa annetaan valtioneuvoston asetuksella. Tarkemmat määräykset päihteettömyyden valvonnassa noudatettavasta menettelystä antaa Rikosseuraamuslaitoksen keskushallintoyksikkö.",
+      "section_number": "27",
+      "chapter_number": 1,
+      "statute_id": "400/2015"
+    },
+    {
+      "id": "e74a4b52-0056-4a23-bdef-d159dfd7a513",
+      "node_type": "Section",
+      "publisher": "finlex",
+      "title": "30 § Päätösvalta",
+      "text": "Yhdyskuntaseuraamustoimiston johtaja päättää toimenpiteistä, joita 24 a §:n 2 tai 3 momentissa tarkoitetusta törkeästä velvollisuuksien rikkomisesta aiheutuu. Yhdyskuntaseuraamustoimiston johtaja päättää: Jos asia ei siedä viivytystä, siitä voi päättää työjärjestyksessä määrätty vankilan johtaja, apulaisjohtaja taikka rikosseuraamusesimies. Täytäntöönpanosta vastaava virkamies päättää valvontarangaistuksen rangaistusajan laskemisesta ja valvontarangaistuksesta ehdonalaiseen vapauteen päästämisestä. Täytäntöönpanosta vastaava virkamies tai muu työjärjestyksessä määrätty täytäntöönpanoyksikön virkamies päättää 34 §:ssä tarkoitetun etsintäkuulutuksen antamisesta ja peruuttamisesta. Valvoja tai muu työjärjestyksessä tehtävään määrätty Rikosseuraamuslaitoksen virkamies päättää:",
+      "section_number": "30",
+      "chapter_number": 1,
+      "statute_id": "400/2015"
+    },
+    {
+      "id": "7b76fc93-95c8-4f7b-93e4-e998905a5b67",
+      "node_type": "Section",
+      "publisher": "finlex",
+      "title": "38 § Tuomitun erityiset velvollisuudet",
+      "text": "Tuomittu ei saa olla yhdyskuntapalvelun täytäntöönpanoon liittyvässä työ-, kuntoutus-, koulutuspaikassa ja muussa toimintapaikassa eikä täytäntöönpanon edellyttämissä tilaisuuksissa alkoholin tai muun päihdyttävän aineen vaikutuksen alainen.",
+      "section_number": "38",
+      "chapter_number": 1,
+      "statute_id": "400/2015"
+    },
+    {
+      "id": "d06249f8-f33c-4358-b51c-a1efc9e8bb5b",
+      "node_type": "Section",
+      "publisher": "finlex",
+      "title": "39 § Velvollisuuksien törkeän rikkomisen seuraamus",
+      "text": "Jos syyttäjä arvioi, että yhdyskuntapalvelu olisi muunnettava valvontarangaistukseksi tai ehdottomaksi vankeusrangaistukseksi 24 a §:n 2 tai 3 momentissa tarkoitetun menettelyn vuoksi, hänen on viipymättä esitettävä tätä koskeva vaatimus sille käräjäoikeudelle, joka on ensimmäisenä oikeusasteena käsitellyt kyseisen rikosasian taikka jonka tuomiopiirissä tuomittu asuu tai vakinaisesti oleskelee. Jos tuomioistuin toteaa tuomitun menetelleen 24 a §:n 2 tai 3 momentissa tarkoitetulla tavalla, se voi muuntaa yhdyskuntapalvelun suorittamatta olevan osan valvontarangaistukseksi tai ehdottomaksi vankeusrangaistukseksi. Edellä tarkoitettujen muuntorangaistusten vähimmäisaika on neljä päivää. Tuomioistuin voi muuntaa valvontarangaistukseksi tai ehdottomaksi vankeusrangaistukseksi myös sellaisen yhdyskuntapalvelun, jonka täytäntöönpano ei ole vielä alkanut.",
+      "section_number": "39",
+      "chapter_number": 1,
+      "statute_id": "400/2015"
+    },
+    {
+      "id": "0699921f-e22b-406b-bbd6-256e80e0d7cd",
+      "node_type": "Section",
+      "publisher": "finlex",
+      "title": "46 § Rangaistusajan suunnitelman täsmentäminen",
+      "text": "Valvontarangaistuksen tultua täytäntöön pantavaksi Rikosseuraamuslaitos laatii täsmennetyn rangaistusajan suunnitelman 17 ja 18 §:n mukaisesti. Valvontarangaistuksen täsmennetty rangaistusajan suunnitelma sisältää lisäksi tiedot ja määräykset:",
+      "section_number": "46",
+      "chapter_number": 1,
+      "statute_id": "400/2015"
+    },
+    {
+      "id": "3a1dfcf3-5a53-4fb5-86a2-bd1183cdd657",
+      "node_type": "Section",
+      "publisher": "finlex",
+      "title": "47 § Valvontarangaistuksen suorittamisen alkamisaika ja pituuden laskeminen",
+      "text": "Valvontarangaistusta suorittavalle on annettava päätös, joka sisältää 1 ja 2 momentissa tarkoitetut tiedot sekä tiedon vapauttamisen ajankohdasta. Rangaistusaikaa koskevassa päätöksessä oleva asia-, kirjoitus- ja laskuvirhe voidaan korjata ilman tuomitun suostumusta, jollei korjaaminen johda tuomitun kannalta kohtuuttomaan lopputulokseen ottaen huomioon vapautumisajankohdan läheisyys, virheen vähäisyys tai muu näihin rinnastettava syy.",
+      "section_number": "47",
+      "chapter_number": 1,
+      "statute_id": "400/2015"
+    },
+    {
+      "id": "6df456cd-1533-4135-bb96-b5fd8f318838",
+      "node_type": "Section",
+      "publisher": "finlex",
+      "title": "49 § Tuomitun erityiset velvollisuudet",
+      "text": "Tuomittu ei saa täytäntöönpanon aikana käyttää alkoholia eikä muuta päihdyttävää ainetta eikä olla päihdyttävän aineen vaikutuksen alainen.",
+      "section_number": "49",
+      "chapter_number": 1,
+      "statute_id": "400/2015"
+    },
+    {
+      "id": "d2d23c68-b543-4e61-8341-c939c8afa8e4",
+      "node_type": "Section",
+      "publisher": "finlex",
+      "title": "54 § Velvollisuuksien törkeän rikkomisen käsittely",
+      "text": "Jos syyttäjä katsoo tuomitun menetelleen 24 a §:n 2 tai 3 momentissa tai 51 §:ssä tarkoitetulla tavalla, hänen on viipymättä saatettava asia käsiteltäväksi siinä käräjäoikeudessa, joka on ensimmäisenä oikeusasteena käsitellyt kyseisen rikosasian taikka jonka tuomiopiirissä tuomittu asuu tai vakinaisesti oleskelee.",
+      "section_number": "54",
+      "chapter_number": 1,
+      "statute_id": "400/2015"
+    },
+    {
+      "id": "945253d5-7243-48d7-8cf8-a126497e6916",
+      "node_type": "Section",
+      "publisher": "finlex",
+      "title": "55 § Valvontarangaistuksen sijaan tuomittava rangaistus",
+      "text": "Jos tuomioistuin toteaa tuomitun menetelleen 24 a §:n 2 tai 3 momentissa tai 51 §:ssä tarkoitetulla tavalla, sen on muunnettava valvontarangaistuksesta suorittamatta oleva osa ehdottomaksi vankeusrangaistukseksi, jonka vähimmäisaika on neljä päivää.",
+      "section_number": "55",
+      "chapter_number": 1,
+      "statute_id": "400/2015"
+    },
+    {
+      "id": "df86334f-79d6-4eaf-88aa-7eeff8ba9883",
+      "node_type": "Section",
+      "publisher": "finlex",
+      "title": "62 § Velvollisuuksien törkeän rikkomisen seuraamus",
+      "text": "Jos ehdollisen vankeuden tehosteeksi valvontaan tuomittu rikkoo valvontaan kuuluvia velvollisuuksiaan 24 a §:n 2 tai 3 momentissa tarkoitetulla törkeällä tavalla, Rikosseuraamuslaitoksen on viipymättä ilmoitettava asiasta syyttäjälle, jollei se ole ilmeisen tarpeetonta valvonnan tarkoituksen saavuttamiseksi. Jos syyttäjä arvioi, että 24 a §:n 2 tai 3 momentissa tarkoitetun törkeän velvollisuuksien rikkomisen vuoksi valvonta-aikaa olisi pidennettävä tai 21 vuotta täytettyään rikoksen tehneen suorittamatta oleva valvonta-aika olisi muunnettava ehdottomaksi vankeudeksi, hänen on viipymättä esitettävä tätä koskeva vaatimus sille käräjäoikeudelle, joka on ensimmäisenä oikeusasteena käsitellyt kyseisen rikosasian taikka jonka tuomiopiirissä tuomittu asuu tai vakinaisesti oleskelee. Jos tuomioistuin toteaa tuomitun rikkoneen valvontaan kuuluvia velvollisuuksia 24 a §:n 2 tai 3 momentissa tarkoitetulla törkeällä tavalla ja jos siihen tuomittuun liittyvät ja rikkomukseen johtaneet syyt kokonaisuutena arvioiden on erityistä syytä, se voi pidentää valvonta-aikaa yhteensä enintään kuudella kuukaudella tai muuntaa suorittamatta olevan 21 vuotta täyttäneenä rikoksen tehneen valvonta-ajan ehdottomaksi vankeudeksi, jonka pituus on vähintään neljä ja enintään 14 päivää. Valvonta-ajan muuntamisessa ehdottomaksi vankeudeksi yksi kuukausi suorittamatta olevaa valvonta-aikaa vastaa yhtä päivää vankeutta. Jos valvonta-aikaan kuuluvasta kuukaudesta on suoritettu osa, se katsotaan suoritetuksi kokonaan. Pidennettyyn valvonta-aikaan sovelletaan, mitä 60 §:n 2 momentissa säädetään. Rikoksen 21 vuotta täytettyään tehneellä valvonta voi lisäksi sisältää 60 §:n 3 momentissa tarkoitettua osallistumista kuntoutukseen tai avohoitoon siinä määrin kuin sitä on sisältynyt rangaistusajan suunnitelmaan, mutta ei ole vielä toteutunut.",
+      "section_number": "62",
+      "chapter_number": 1,
+      "statute_id": "400/2015"
+    },
+    {
+      "id": "46dba851-c079-4e35-a15d-e459dd20e3f2",
+      "node_type": "Section",
+      "publisher": "finlex",
+      "title": "66 § Velvollisuuksien törkeän rikkomisen käsittely",
+      "text": "Jos syyttäjä katsoo nuorisorangaistukseen tuomitun rikkoneen velvollisuuksiaan 24 a §:n 2 tai 3 momentissa tarkoitetulla törkeällä tavalla, hänen tulee viipymättä saattaa asia käsiteltäväksi siinä käräjäoikeudessa, joka on ensimmäisenä oikeusasteena käsitellyt kyseisen rikosasian taikka jonka tuomiopiirissä tuomittu asuu tai vakinaisesti oleskelee.",
+      "section_number": "66",
+      "chapter_number": 1,
+      "statute_id": "400/2015"
+    },
+    {
+      "id": "f31b0914-d99e-4947-a613-f40a082e8159",
+      "node_type": "Section",
+      "publisher": "finlex",
+      "title": "67 § Velvollisuuksien törkeän rikkomisen seuraamus",
+      "text": "Jos tuomioistuin toteaa nuorisorangaistukseen tuomitun rikkoneen velvollisuuksiaan 24 a §:n 2 tai 3 momentissa tarkoitetulla törkeällä tavalla, sen tulee tuomita hänet suorittamatta jääneen nuorisorangaistuksen osan sijasta muuhun rangaistukseen.",
+      "section_number": "67",
+      "chapter_number": 1,
+      "statute_id": "400/2015"
+    },
+    {
+      "id": "ff0d6c49-5ab5-4697-b455-9d4a210ca3e0",
+      "node_type": "Section",
+      "publisher": "finlex",
+      "title": "68 § Suoritetun nuorisorangaistuksen osan huomioon ottaminen",
+      "text": "Kun nuorisorangaistukseen tuomittu tuomitaan uuteen rangaistukseen rikoslain 7 luvun 8 §:ssä taikka tämän lain 67 §:n 1 momentissa tarkoitetussa tapauksessa, jo suoritettu nuorisorangaistuksen osa on otettava kohtuuden mukaan huomioon uutta rangaistusta alentavana seikkana. Kahden nuorisorangaistuspäivän katsotaan vastaavan yhtä päivää ehdotonta vankeutta, jollei tästä jo suoritetun rangaistuksen osan sisältö huomioon ottaen ole erityistä syytä poiketa.",
+      "section_number": "68",
+      "chapter_number": 1,
+      "statute_id": "400/2015"
+    },
+    {
+      "id": "73534511-9376-4cba-9171-d655d19f34fe",
+      "node_type": "Section",
+      "publisher": "finlex",
+      "title": "75 § Velvollisuuksien törkeän rikkomisen seuraamus",
+      "text": "Jos syyttäjä arvioi, että osa jäännösrangaistusta olisi tuomitun 24 a §:n 2 tai 3 momentissa tarkoitetun velvollisuuksien törkeän rikkomisen vuoksi pantava täytäntöön, hänen on viipymättä esitettävä tätä koskeva vaatimus sille käräjäoikeudelle, joka on ensimmäisenä oikeusasteena käsitellyt kyseisen rikosasian taikka jonka tuomiopiirissä tuomittu asuu tai vakinaisesti oleskelee. Jos tuomioistuin toteaa tuomitun rikkoneen velvollisuuksiaan 24 a §:n 2 tai 3 momentissa tarkoitetulla törkeällä tavalla ja jos siihen tuomitun henkilöön liittyvät ja rikkomukseen johtaneet syyt kokonaisuutena huomioon ottaen on erityistä syytä, se voi määrätä jäännösrangaistusta pantavaksi täytäntöön vähintään neljä ja enintään 14 päivää.",
+      "section_number": "75",
+      "chapter_number": 1,
+      "statute_id": "400/2015"
+    },
+    {
+      "id": "e9fa46a0-f3bf-4537-a9be-ec2c49bcf295",
+      "node_type": "Section",
+      "publisher": "finlex",
+      "title": "84 § Täytäntöön pannun rangaistuksen vähentäminen",
+      "text": "Rikosseuraamuslaitoksen on vähennettävä täytäntöönpantavasta vankeusrangaistuksesta määrä, joka vastaa valvontarangaistuksena jo suoritettua osaa, kun tuomioistuin on kieltänyt valvontarangaistuksen täytäntöönpanon, muttei ole määrännyt vankeusrangaistuksena täytäntöönpantavaksi jäävän rangaistuksen pituutta. Jos tuomittu on päässyt valvontarangaistuksesta ehdonalaiseen vapauteen, noudatetaan vastaavasti, mitä vankeuslain 3 luvun 6 §:ssä säädetään erotuksen täytäntöönpanosta.",
+      "section_number": "84",
+      "chapter_number": 1,
+      "statute_id": "400/2015"
+    },
+    {
+      "id": "4a8084ba-aeab-429c-a322-8066702ec98d",
+      "node_type": "Section",
+      "publisher": "finlex",
+      "title": "86 § Muutoksenhakukelpoiset päätökset",
+      "text": "Tuomittu saa vaatia oikaisua tai valittaa Rikosseuraamuslaitoksen päätöksestä, joka koskee: Tuomittu ei saa vaatia oikaisua eikä valittaa Rikosseuraamuslaitoksen päätöksestä, joka koskee:",
+      "section_number": "86",
+      "chapter_number": 1,
+      "statute_id": "400/2015"
+    },
+    {
+      "id": "7032f2eb-3823-4cff-928e-9b80bcaf4b3e",
+      "node_type": "Section",
+      "publisher": "finlex",
+      "title": "87 § Oikaisuvaatimuksen päätösvalta ja käsittely",
+      "text": "Rikosseuraamuslaitoksen aluejohtaja ratkaisee oikaisuvaatimuksen 86 §:n 1–6 sekä 8 ja 9 kohdassa tarkoitetuissa asioissa. Mainitun pykälän 7 kohdan päätöksestä tehdyn oikaisuvaatimuksen ratkaisee Rikosseuraamuslaitoksen täytäntöönpanojohtaja. Oikaisuvaatimus on tehtävä kirjallisesti seitsemän päivän kuluessa päätöksen tiedoksisaannista. Oikaisuvaatimus toimitetaan aluejohtajalle, yhdyskuntaseuraamustoimiston johtajalle tai vankilan johtajalle. Jos kyse on 86 §:n 7 kohdassa tarkoitetusta valvontarangaistuksen rangaistusaikaa koskevasta päätöksestä, oikaisuvaatimus toimitetaan täytäntöönpanojohtajalle. Oikaisuvaatimus on käsiteltävä kiireellisenä. Rikosseuraamuslaitoksen täytäntöönpanoyksikön muuhun kuin 86 §:n 7 kohdassa tarkoitettuun valvontarangaistuksen rangaistusaikaa koskevaan päätökseen ei voi vaatia oikaisua, vaan siitä valitetaan hallinto-oikeuteen, kuten 88 §:ssä säädetään.",
+      "section_number": "87",
+      "chapter_number": 1,
+      "statute_id": "400/2015"
+    },
+    {
+      "id": "3e514363-d7b3-49da-83cb-28834698bec5",
+      "node_type": "Section",
+      "publisher": "finlex",
+      "title": "91 § Oikaisuvaatimuksen ja valituksen vaikutus täytäntöönpanoon",
+      "text": "Oikaisuvaatimuksen tai valituksen tekeminen ei keskeytä 86 §:n 7 ja 8 kohdassa tarkoitetun päätöksen täytäntöönpanoa, ellei oikaisuvaatimusta käsittelevä aluejohtaja tai täytäntöönpanojohtaja taikka valitusta käsittelevä tuomioistuin toisin päätä. Tämä laki tulee voimaan 4 päivänä huhtikuuta 2022. Ehdollisen vankeuden tehosteeksi määrätyn valvonnan alkamisajankohdan määräämisessä sovelletaan tämän lain voimaan tullessa voimassa olleita säännöksiä, jos valvonta on määrätty rangaistukseksi rikoksesta, joka on tehty ennen tämän lain voimaantuloa. Muilta osin yhdyskuntaseuraamuksen määräämistä, valmistelua ja täytäntöönpanoa koskevissa asioissa sovelletaan päätöstä tehtäessä voimassa olleita säännöksiä. Tämän lain säännöksiä sovelletaan kuitenkin, jos asia tulee ehtojen rikkomisen, edellytysten muuttumisen tai vastaavan syyn vuoksi uudelleen käsiteltäväksi tämän lain tultua voimaan.",
+      "section_number": "91",
+      "chapter_number": 1,
+      "statute_id": "400/2015"
+    }
+  ],
+  "clauses": [
+    {
+      "id": "249cbe86-faa5-47fc-8c1e-a66aa377eb20",
+      "node_type": "Clause",
+      "publisher": "finlex",
+      "title": "§ 16 mom 1",
+      "text": "1) yhdyskuntaseuraamuksen suorittaminen vaarantaisi tuomitun vakavan sairauden tai vaikean vamman hoidon;",
+      "clause_number": 1,
+      "section_number": "16",
+      "statute_id": "400/2015"
+    },
+    {
+      "id": "265a3ddf-f9c8-4760-b2f9-731277d6a2c6",
+      "node_type": "Clause",
+      "publisher": "finlex",
+      "title": "§ 16 mom 2",
+      "text": "2) yhdyskuntaseuraamuksen suorittamiselle on tuomitun päihdekuntoutukseen osallistumisesta, varusmiespalveluksen, naisten vapaaehtoisen asepalveluksen tai siviilipalveluksen suorittamisesta, lapsen hoitamisesta sairausvakuutuslaissa (1224/2004) tarkoitetun äitiys-, erityisäitiys-, isyys- tai vanhempainrahakauden aikana tai muusta näihin rinnastettavasta hyväksyttävästä syystä johtuva tilapäinen este;",
+      "clause_number": 2,
+      "section_number": "16",
+      "statute_id": "400/2015"
+    },
+    {
+      "id": "2079f726-c932-497c-8bd8-2c2146ec7125",
+      "node_type": "Clause",
+      "publisher": "finlex",
+      "title": "§ 16 mom 3",
+      "text": "3) tuomitun olosuhteiden muutos edellyttää täytäntöönpanoon kuuluvan toimintavelvollisuuden tai määrätyssä paikassa pysymisvelvoitteen uudelleen järjestämistä;",
+      "clause_number": 3,
+      "section_number": "16",
+      "statute_id": "400/2015"
+    },
+    {
+      "id": "f4e0cf14-0529-489a-bd54-2c3d2062e411",
+      "node_type": "Clause",
+      "publisher": "finlex",
+      "title": "§ 16 mom 4",
+      "text": "4) yhdyskuntaseuraamuksen suorittamiselle on ehdottoman vankeusrangaistuksen tai toisen yhdyskuntaseuraamuksen suorittamisesta taikka tutkintavankeuden toimeenpanosta johtuva este.",
+      "clause_number": 4,
+      "section_number": "16",
+      "statute_id": "400/2015"
+    },
+    {
+      "id": "a66e7eb0-da02-4a6b-a6d9-e859d1ad09f2",
+      "node_type": "Clause",
+      "publisher": "finlex",
+      "title": "§ 20 mom 1",
+      "text": "1) täytäntöönpanon aloittamisesta;",
+      "clause_number": 1,
+      "section_number": "20",
+      "statute_id": "400/2015"
+    },
+    {
+      "id": "a93747b6-cc37-4721-96f8-0160cd023818",
+      "node_type": "Clause",
+      "publisher": "finlex",
+      "title": "§ 20 mom 2",
+      "text": "2) täsmennetyn rangaistusajan suunnitelman sisällöstä ja laatimismenettelystä;",
+      "clause_number": 2,
+      "section_number": "20",
+      "statute_id": "400/2015"
+    },
+    {
+      "id": "325d67ac-868e-42ba-b724-b096209ae5c4",
+      "node_type": "Clause",
+      "publisher": "finlex",
+      "title": "§ 20 mom 3",
+      "text": "3) toimintavelvollisuuden sisällöksi hyväksyttävästä toiminnasta.",
+      "clause_number": 3,
+      "section_number": "20",
+      "statute_id": "400/2015"
+    },
+    {
+      "id": "feb82335-3253-4243-9f69-2a49c7f88c32",
+      "node_type": "Clause",
+      "publisher": "finlex",
+      "title": "§ 22 mom 1",
+      "text": "1) jos on syytä epäillä, että tuomittu on alkoholin tai muun päihdyttävän aineen vaikutuksen alainen 38, 61, 65 tai 72 §:ssä tarkoitetulla tavalla; tai",
+      "clause_number": 1,
+      "section_number": "22",
+      "statute_id": "400/2015"
+    },
+    {
+      "id": "d2c55ea2-2359-4e47-a45a-1fb3726bfc61",
+      "node_type": "Clause",
+      "publisher": "finlex",
+      "title": "§ 22 mom 2",
+      "text": "2) valvontarangaistuksen päihteettömyysvelvollisuuden valvomiseksi.",
+      "clause_number": 2,
+      "section_number": "22",
+      "statute_id": "400/2015"
+    },
+    {
+      "id": "bee201da-0096-4616-81d2-bc8677c2f33d",
+      "node_type": "Clause",
+      "publisher": "finlex",
+      "title": "§ 22 mom 1",
+      "text": "1) eri testattavien näytteet eivät voi sekoittua;",
+      "clause_number": 1,
+      "section_number": "22",
+      "statute_id": "400/2015"
+    },
+    {
+      "id": "df54bbdf-8934-4e95-9b93-9e77a2a283cd",
+      "node_type": "Clause",
+      "publisher": "finlex",
+      "title": "§ 22 mom 2",
+      "text": "2) näytteeseen ei voi joutua epäpuhtauksia; sekä",
+      "clause_number": 2,
+      "section_number": "22",
+      "statute_id": "400/2015"
+    },
+    {
+      "id": "ea0670fb-d2c9-481a-b5a5-6ce224220355",
+      "node_type": "Clause",
+      "publisher": "finlex",
+      "title": "§ 22 mom 3",
+      "text": "3) näytettä ei voi väärentää.",
+      "clause_number": 3,
+      "section_number": "22",
+      "statute_id": "400/2015"
+    },
+    {
+      "id": "197db837-2413-4d95-aa24-350cf9294eb2",
+      "node_type": "Clause",
+      "publisher": "finlex",
+      "title": "§ 23 mom 1",
+      "text": "1) varoituksesta huolimatta toistuvasti rikkoo velvollisuuksiaan; tai",
+      "clause_number": 1,
+      "section_number": "23",
+      "statute_id": "400/2015"
+    },
+    {
+      "id": "982c414a-988c-404a-912c-5503e2c583f0",
+      "node_type": "Clause",
+      "publisher": "finlex",
+      "title": "§ 23 mom 2",
+      "text": "2) jättää seuraamuksen suorittamisen aloittamatta tai kesken.",
+      "clause_number": 2,
+      "section_number": "23",
+      "statute_id": "400/2015"
+    },
+    {
+      "id": "9ed68e54-27e9-49bb-aa45-2bfe8de6a846",
+      "node_type": "Clause",
+      "publisher": "finlex",
+      "title": "§ 30 mom 1",
+      "text": "1) 15 §:ssä tarkoitetusta rangaistuksen suorittamisen alkamisajasta;",
+      "clause_number": 1,
+      "section_number": "30",
+      "statute_id": "400/2015"
+    },
+    {
+      "id": "07aafaba-9094-46ab-a536-ff2eda73f666",
+      "node_type": "Clause",
+      "publisher": "finlex",
+      "title": "§ 30 mom 2",
+      "text": "2) 16 §:ssä tarkoitetusta täytäntöönpanon lykkäyksestä ja keskeytyksestä sekä lykkäyksen ja keskeytyksen peruuttamisesta;",
+      "clause_number": 2,
+      "section_number": "30",
+      "statute_id": "400/2015"
+    },
+    {
+      "id": "e838eb63-f906-4c8d-8f83-555424c51469",
+      "node_type": "Clause",
+      "publisher": "finlex",
+      "title": "§ 30 mom 3",
+      "text": "3) 17 ja 46 §:ssä tarkoitetusta täsmennetystä rangaistusajan suunnitelmasta;",
+      "clause_number": 3,
+      "section_number": "30",
+      "statute_id": "400/2015"
+    },
+    {
+      "id": "aac4eb51-1c33-4e82-9bdb-0f4e7177067f",
+      "node_type": "Clause",
+      "publisher": "finlex",
+      "title": "§ 30 mom 4",
+      "text": "4) 22 §:ssä tarkoitetun verinäytteen ottamisesta;",
+      "clause_number": 4,
+      "section_number": "30",
+      "statute_id": "400/2015"
+    },
+    {
+      "id": "21bf9e4a-ea90-48cd-ba76-8bed7f260092",
+      "node_type": "Clause",
+      "publisher": "finlex",
+      "title": "§ 30 mom 5",
+      "text": "5) 24 §:ssä tarkoitetun noudon pyytämisestä;",
+      "clause_number": 5,
+      "section_number": "30",
+      "statute_id": "400/2015"
+    },
+    {
+      "id": "28253ff4-6a04-4d61-945f-da842c72de96",
+      "node_type": "Clause",
+      "publisher": "finlex",
+      "title": "§ 30 mom 1",
+      "text": "6) 24 a §:n 1 momentissa tarkoitetusta huomautuksesta ja varoituksesta;",
+      "clause_number": 1,
+      "section_number": "30",
+      "statute_id": "400/2015"
+    },
+    {
+      "id": "9589746b-acd7-4292-9345-350226ac3bff",
+      "node_type": "Clause",
+      "publisher": "finlex",
+      "title": "§ 30 mom 6",
+      "text": "6) 24 a §:n 1 momentissa tarkoitetusta huomautuksesta ja varoituksesta;",
+      "clause_number": 6,
+      "section_number": "30",
+      "statute_id": "400/2015"
+    },
+    {
+      "id": "129b57ba-0a13-4646-b711-420a138f0a3c",
+      "node_type": "Clause",
+      "publisher": "finlex",
+      "title": "§ 30 mom 2",
+      "text": "7) 25 §:n 2 momentissa tarkoitetusta täytäntöönpanon aloittamisen kieltämisestä tai täytäntöönpanon keskeyttämisestä;",
+      "clause_number": 2,
+      "section_number": "30",
+      "statute_id": "400/2015"
+    },
+    {
+      "id": "33a7a99c-8dd2-448f-9778-afebcbdc653c",
+      "node_type": "Clause",
+      "publisher": "finlex",
+      "title": "§ 30 mom 7",
+      "text": "7) 25 §:n 2 momentissa tarkoitetusta täytäntöönpanon aloittamisen kieltämisestä tai täytäntöönpanon keskeyttämisestä;",
+      "clause_number": 7,
+      "section_number": "30",
+      "statute_id": "400/2015"
+    },
+    {
+      "id": "965c9d18-fe33-429d-bfee-cf50e3ccb80f",
+      "node_type": "Clause",
+      "publisher": "finlex",
+      "title": "§ 30 mom 4",
+      "text": "8) 60 §:n 4 momentissa ja 76 §:ssä tarkoitetusta valvonnan lakkauttamisesta.",
+      "clause_number": 4,
+      "section_number": "30",
+      "statute_id": "400/2015"
+    },
+    {
+      "id": "9d0cf2be-7558-41af-8f9c-86c7b7e0715b",
+      "node_type": "Clause",
+      "publisher": "finlex",
+      "title": "§ 30 mom 8",
+      "text": "8) 60 §:n 4 momentissa ja 76 §:ssä tarkoitetusta valvonnan lakkauttamisesta.",
+      "clause_number": 8,
+      "section_number": "30",
+      "statute_id": "400/2015"
+    },
+    {
+      "id": "09008b5d-0c4e-4d76-ba66-1a44b8e629f1",
+      "node_type": "Clause",
+      "publisher": "finlex",
+      "title": "§ 30 mom 1",
+      "text": "1) 18 §:ssä tarkoitetusta täsmennetyn rangaistusajan suunnitelman muuttamisesta;",
+      "clause_number": 1,
+      "section_number": "30",
+      "statute_id": "400/2015"
+    },
+    {
+      "id": "ac14e631-3022-41f9-8f70-c09e2903582d",
+      "node_type": "Clause",
+      "publisher": "finlex",
+      "title": "§ 30 mom 2",
+      "text": "2) muusta 22 §:ssä tarkoitetusta päihteettömyyden valvonnasta kuin verinäytteen ottamisesta;",
+      "clause_number": 2,
+      "section_number": "30",
+      "statute_id": "400/2015"
+    },
+    {
+      "id": "053d80cc-b012-4a9a-93f8-8ddb99df042d",
+      "node_type": "Clause",
+      "publisher": "finlex",
+      "title": "§ 30 mom 3",
+      "text": "3) 23 §:ssä tarkoitetusta oikeudesta olla noudattamatta täsmennettyyn rangaistusajan suunnitelmaan sisältyvää velvollisuutta esteen vuoksi;",
+      "clause_number": 3,
+      "section_number": "30",
+      "statute_id": "400/2015"
+    },
+    {
+      "id": "1e24f854-d5dd-4198-ac24-4b09de196532",
+      "node_type": "Clause",
+      "publisher": "finlex",
+      "title": "§ 30 mom 1",
+      "text": "4) 24 a §:n 1 momentissa tarkoitetusta huomautuksesta;",
+      "clause_number": 1,
+      "section_number": "30",
+      "statute_id": "400/2015"
+    },
+    {
+      "id": "b1ea841f-72d0-49c0-9603-239d98333be7",
+      "node_type": "Clause",
+      "publisher": "finlex",
+      "title": "§ 30 mom 4",
+      "text": "4) 24 a §:n 1 momentissa tarkoitetusta huomautuksesta;",
+      "clause_number": 4,
+      "section_number": "30",
+      "statute_id": "400/2015"
+    },
+    {
+      "id": "b884adcc-ef83-456a-81e6-baed05b69f32",
+      "node_type": "Clause",
+      "publisher": "finlex",
+      "title": "§ 30 mom 5",
+      "text": "5) 32 §:ssä tarkoitetusta matkakustannusten korvaamisesta;",
+      "clause_number": 5,
+      "section_number": "30",
+      "statute_id": "400/2015"
+    },
+    {
+      "id": "897fce29-98ce-4e27-b1a4-b251726ed72a",
+      "node_type": "Clause",
+      "publisher": "finlex",
+      "title": "§ 30 mom 6",
+      "text": "6) 50 §:ssä tarkoitetusta turvatarkastuksesta.",
+      "clause_number": 6,
+      "section_number": "30",
+      "statute_id": "400/2015"
+    },
+    {
+      "id": "e81dbc7a-114d-4223-aec6-82f18b18e6ba",
+      "node_type": "Clause",
+      "publisher": "finlex",
+      "title": "§ 46 mom 1",
+      "text": "1) tuomitun asunnosta tai muusta hänelle määrätystä paikasta;",
+      "clause_number": 1,
+      "section_number": "46",
+      "statute_id": "400/2015"
+    },
+    {
+      "id": "3e3402a3-1a9e-495f-979c-20488a3b06b1",
+      "node_type": "Clause",
+      "publisher": "finlex",
+      "title": "§ 46 mom 2",
+      "text": "2) ajasta, jonka tuomittu on velvollinen pysymään asunnossaan tai muussa hänelle määrätyssä paikassa sekä siitä, miten tämä aika ajoittuu;",
+      "clause_number": 2,
+      "section_number": "46",
+      "statute_id": "400/2015"
+    },
+    {
+      "id": "39f2a08e-d039-4283-9a98-d4a52de1ff1d",
+      "node_type": "Clause",
+      "publisher": "finlex",
+      "title": "§ 46 mom 3",
+      "text": "3) tuomitun oikeudesta liikkua asuntonsa tai muun hänelle määrätyn paikan ulkopuolella.",
+      "clause_number": 3,
+      "section_number": "46",
+      "statute_id": "400/2015"
+    },
+    {
+      "id": "bf1c12b3-ffea-4d13-b597-4fa069a3aa2d",
+      "node_type": "Clause",
+      "publisher": "finlex",
+      "title": "§ 86 mom 1",
+      "text": "1) 16 §:n 1 momentissa tarkoitettua täytäntöönpanon lykkäystä tai keskeytystä sekä mainitun pykälän 4 momentissa tarkoitettua täytäntöönpanon lykkäyksen tai keskeytyksen peruuttamista;",
+      "clause_number": 1,
+      "section_number": "86",
+      "statute_id": "400/2015"
+    },
+    {
+      "id": "ed62de80-d3ae-494d-88a8-5be9631afb59",
+      "node_type": "Clause",
+      "publisher": "finlex",
+      "title": "§ 86 mom 1",
+      "text": "1) 16 §:n 1 momentissa tarkoitettua täytäntöönpanon lykkäystä tai keskeytystä sekä mainitun pykälän 4 momentissa tarkoitettua täytäntöönpanon lykkäyksen tai keskeytyksen peruuttamista;",
+      "clause_number": 1,
+      "section_number": "86",
+      "statute_id": "400/2015"
+    },
+    {
+      "id": "7e5ea80c-06f1-4b74-9308-d35852cf65c9",
+      "node_type": "Clause",
+      "publisher": "finlex",
+      "title": "§ 86 mom 2",
+      "text": "2) 17 ja 46 §:ssä tarkoitettua täsmennettyä rangaistusajan suunnitelmaa tai 18 §:ssä tarkoitettua täsmennetyn rangaistusajan suunnitelman muuttamista;",
+      "clause_number": 2,
+      "section_number": "86",
+      "statute_id": "400/2015"
+    },
+    {
+      "id": "39f5d95e-cde8-4aa5-8c3e-b6902cce5a85",
+      "node_type": "Clause",
+      "publisher": "finlex",
+      "title": "§ 86 mom 1",
+      "text": "3) 23 §:n 1 momentissa tarkoitettua lupaa olla noudattamatta tilapäisesti täsmennettyä rangaistusajan suunnitelmaa;",
+      "clause_number": 1,
+      "section_number": "86",
+      "statute_id": "400/2015"
+    },
+    {
+      "id": "6d871618-afc5-425d-9018-92a3284d7e44",
+      "node_type": "Clause",
+      "publisher": "finlex",
+      "title": "§ 86 mom 3",
+      "text": "3) 23 §:n 1 momentissa tarkoitettua lupaa olla noudattamatta tilapäisesti täsmennettyä rangaistusajan suunnitelmaa;",
+      "clause_number": 3,
+      "section_number": "86",
+      "statute_id": "400/2015"
+    },
+    {
+      "id": "28bf9792-4d37-4d57-9c51-7af0641ab528",
+      "node_type": "Clause",
+      "publisher": "finlex",
+      "title": "§ 86 mom 1",
+      "text": "4) 24 a §:n 1 momentissa tarkoitettua huomautusta tai varoitusta taikka huomautuksen tai varoituksen määräämättä jättämistä;",
+      "clause_number": 1,
+      "section_number": "86",
+      "statute_id": "400/2015"
+    },
+    {
+      "id": "7f8d9f9f-df15-48f0-b725-d369634f8126",
+      "node_type": "Clause",
+      "publisher": "finlex",
+      "title": "§ 86 mom 4",
+      "text": "4) 24 a §:n 1 momentissa tarkoitettua huomautusta tai varoitusta taikka huomautuksen tai varoituksen määräämättä jättämistä;",
+      "clause_number": 4,
+      "section_number": "86",
+      "statute_id": "400/2015"
+    },
+    {
+      "id": "d88d0e7e-715d-4615-97f9-9048b6fb69e9",
+      "node_type": "Clause",
+      "publisher": "finlex",
+      "title": "§ 86 mom 2",
+      "text": "5) 25 §:n 2 momentissa ja 26 §:n 2 momentissa tarkoitettua täytäntöönpanon aloittamisen kieltämistä tai täytäntöönpanon keskeyttämistä;",
+      "clause_number": 2,
+      "section_number": "86",
+      "statute_id": "400/2015"
+    },
+    {
+      "id": "b6b57b29-d196-4fa9-9939-49c2e5ad1c0a",
+      "node_type": "Clause",
+      "publisher": "finlex",
+      "title": "§ 86 mom 5",
+      "text": "5) 25 §:n 2 momentissa ja 26 §:n 2 momentissa tarkoitettua täytäntöönpanon aloittamisen kieltämistä tai täytäntöönpanon keskeyttämistä;",
+      "clause_number": 5,
+      "section_number": "86",
+      "statute_id": "400/2015"
+    },
+    {
+      "id": "91b42daf-e78f-43b3-8818-2a4006b1c305",
+      "node_type": "Clause",
+      "publisher": "finlex",
+      "title": "§ 86 mom 6",
+      "text": "6) 32 §:ssä tarkoitettua matkakustannusten korvaamista;",
+      "clause_number": 6,
+      "section_number": "86",
+      "statute_id": "400/2015"
+    },
+    {
+      "id": "4e05bfa0-495c-49a8-abc4-29ae27328b99",
+      "node_type": "Clause",
+      "publisher": "finlex",
+      "title": "§ 86 mom 2",
+      "text": "7) 47 §:n 2 momentissa tarkoitettua valvontarangaistuksen rangaistusaikaa;",
+      "clause_number": 2,
+      "section_number": "86",
+      "statute_id": "400/2015"
+    },
+    {
+      "id": "a894a4e8-9909-4307-99af-5a31e1f5d7b6",
+      "node_type": "Clause",
+      "publisher": "finlex",
+      "title": "§ 86 mom 7",
+      "text": "7) 47 §:n 2 momentissa tarkoitettua valvontarangaistuksen rangaistusaikaa;",
+      "clause_number": 7,
+      "section_number": "86",
+      "statute_id": "400/2015"
+    },
+    {
+      "id": "47b081e1-6afd-4e59-8b41-cab29f601c37",
+      "node_type": "Clause",
+      "publisher": "finlex",
+      "title": "§ 86 mom 8",
+      "text": "8) 70 §:ssä tarkoitettuun valvontaan asettamista sekä 76 §:ssä tarkoitettua valvonnan lakkauttamista;",
+      "clause_number": 8,
+      "section_number": "86",
+      "statute_id": "400/2015"
+    },
+    {
+      "id": "f72e93f8-6afc-4751-8a17-63e5c74f672b",
+      "node_type": "Clause",
+      "publisher": "finlex",
+      "title": "§ 86 mom 9",
+      "text": "9) muuta kuin 1–8 kohdassa tarkoitettua tämän lain nojalla tehtyä oikeudenkäynnistä hallintoasioissa annetun lain (808/2019) 6 §:ssä tarkoitettua ratkaisua, jollei muutoksenhakua ole tämän lain 86 a §:n nojalla kielletty.",
+      "clause_number": 9,
+      "section_number": "86",
+      "statute_id": "400/2015"
+    },
+    {
+      "id": "d59df464-bf59-4a35-8056-da6648a56944",
+      "node_type": "Clause",
+      "publisher": "finlex",
+      "title": "§ 86 mom 1",
+      "text": "1) 15 §:ssä tarkoitettua rangaistuksen suorittamisen alkamisajankohtaa;",
+      "clause_number": 1,
+      "section_number": "86",
+      "statute_id": "400/2015"
+    },
+    {
+      "id": "1cf92852-3ba3-4a35-aebd-e16e4c51151e",
+      "node_type": "Clause",
+      "publisher": "finlex",
+      "title": "§ 86 mom 2",
+      "text": "2) 23 §:n 2 momentissa tarkoitettua lupaa olla noudattamatta tilapäisesti täsmennettyä rangaistusajan suunnitelmaa.",
+      "clause_number": 2,
+      "section_number": "86",
+      "statute_id": "400/2015"
+    },
+    {
+      "id": "5dea89ef-e142-4aac-8e61-611ea52dd2e7",
+      "node_type": "Clause",
+      "publisher": "finlex",
+      "title": "§ 86 mom 2",
+      "text": "2) 23 §:n 2 momentissa tarkoitettua lupaa olla noudattamatta tilapäisesti täsmennettyä rangaistusajan suunnitelmaa.",
+      "clause_number": 2,
+      "section_number": "86",
+      "statute_id": "400/2015"
+    }
+  ],
+  "cross_references": [
+    {
+      "raw_text": "pykälän 4 momentissa t",
+      "statute_id": "400/2015",
+      "section_number": "4 momentissa t",
+      "clause_number": null,
+      "resolution_confidence": 0.0
+    },
+    {
+      "raw_text": "pykälän 7 kohdan p",
+      "statute_id": "400/2015",
+      "section_number": "7 kohdan p",
+      "clause_number": null,
+      "resolution_confidence": 0.0
+    }
+  ],
+  "raw_html_path": "C:\\Users\\danit\\finance-hack\\aalto-hackaton-2026\\data\\raw\\finlex\\Laki\\Laki yhdyskuntaseuraamusten täytäntöönpanosta annetun lain muuttamisesta_4.html"
+}

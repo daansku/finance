@@ -1,0 +1,1853 @@
+{
+  "statute": {
+    "id": "5891997b-e38b-4afe-bc56-ebe1c3c5c237",
+    "node_type": "Statute",
+    "publisher": "finlex",
+    "title": "Laki yksityisistä teistä",
+    "text": "Laki yksityisistä teistä",
+    "statute_id": "",
+    "finlex_url": ""
+  },
+  "chapters": [
+    {
+      "id": "ea20e704-b249-4e78-b701-14a237502ea6",
+      "node_type": "Chapter",
+      "publisher": "finlex",
+      "title": "Chapter 1",
+      "text": "1 luku Yleisiä säännöksiä.",
+      "chapter_number": 1,
+      "statute_id": ""
+    },
+    {
+      "id": "380653c4-c3ec-4011-83a8-320d5e88f08c",
+      "node_type": "Chapter",
+      "publisher": "finlex",
+      "title": "Chapter 2",
+      "text": "2 luku Tieoikeus sekä muut tienpitoa ja tien käyttöä varten tarvittavat oikeudet.",
+      "chapter_number": 2,
+      "statute_id": ""
+    },
+    {
+      "id": "10e12606-554f-4cad-ad25-91a89c5851b5",
+      "node_type": "Chapter",
+      "publisher": "finlex",
+      "title": "Chapter 3",
+      "text": "3 luku Tienpitovelvollisuus.",
+      "chapter_number": 3,
+      "statute_id": ""
+    },
+    {
+      "id": "33b8dddc-31d0-42c9-a188-174118249ea9",
+      "node_type": "Chapter",
+      "publisher": "finlex",
+      "title": "Chapter 4",
+      "text": "4 luku Korvaukset.",
+      "chapter_number": 4,
+      "statute_id": ""
+    },
+    {
+      "id": "04122dea-2d7d-42fe-9d09-d7811a0e6e45",
+      "node_type": "Chapter",
+      "publisher": "finlex",
+      "title": "Chapter 5",
+      "text": "5 luku Tietoimitus.",
+      "chapter_number": 5,
+      "statute_id": ""
+    },
+    {
+      "id": "b7a10554-a8f4-4601-a04f-1f2064f28c90",
+      "node_type": "Chapter",
+      "publisher": "finlex",
+      "title": "Chapter 6",
+      "text": "6 luku Tielautakunnalle kuuluvat tehtävät.",
+      "chapter_number": 6,
+      "statute_id": ""
+    },
+    {
+      "id": "cb74204d-8662-4378-9c9b-9d362a9b1c66",
+      "node_type": "Chapter",
+      "publisher": "finlex",
+      "title": "Chapter 7",
+      "text": "7 luku Tiekunta ja sen toimielimet.",
+      "chapter_number": 7,
+      "statute_id": ""
+    },
+    {
+      "id": "e209fc3f-3153-4e3b-9e08-a1a4119a5fea",
+      "node_type": "Chapter",
+      "publisher": "finlex",
+      "title": "Chapter 8",
+      "text": "8 luku Tieosakkaista, jotka eivät muodosta tiekuntaa.",
+      "chapter_number": 8,
+      "statute_id": ""
+    },
+    {
+      "id": "51bbbcdf-8dc6-4c21-a3a7-da7c80ff4358",
+      "node_type": "Chapter",
+      "publisher": "finlex",
+      "title": "Chapter 9",
+      "text": "9 luku Tienpidosta johtuva vastuuvelvollisuus.",
+      "chapter_number": 9,
+      "statute_id": ""
+    },
+    {
+      "id": "cd3c4d3b-6609-40bc-b7f3-3a1221334b72",
+      "node_type": "Chapter",
+      "publisher": "finlex",
+      "title": "Chapter 10",
+      "text": "10 luku Tien tilapäinen käyttäminen ja muun alueen käyttäminen tilapäisesti tienä.",
+      "chapter_number": 10,
+      "statute_id": ""
+    },
+    {
+      "id": "1640dbfb-6ad1-4660-a506-55088af1084c",
+      "node_type": "Chapter",
+      "publisher": "finlex",
+      "title": "Chapter 11",
+      "text": "11 luku Tien lakkauttaminen.",
+      "chapter_number": 11,
+      "statute_id": ""
+    },
+    {
+      "id": "6f13fe99-6180-486c-a4ce-8fea63232bc8",
+      "node_type": "Chapter",
+      "publisher": "finlex",
+      "title": "Chapter 12",
+      "text": "12 luku Täytäntöönpano ja pakkotoimenpiteet.",
+      "chapter_number": 12,
+      "statute_id": ""
+    },
+    {
+      "id": "afea9706-114a-4d65-9fbf-01f21b8b8477",
+      "node_type": "Chapter",
+      "publisher": "finlex",
+      "title": "Chapter 13",
+      "text": "13 luku Valtion ja kunnan osallistuminen tienpitoon tai sen kustannuksiin.",
+      "chapter_number": 13,
+      "statute_id": ""
+    },
+    {
+      "id": "e0d9840b-863b-4be3-969f-948ae0a58e9d",
+      "node_type": "Chapter",
+      "publisher": "finlex",
+      "title": "Chapter 14",
+      "text": "14 luku Erinäisiä säännöksiä.",
+      "chapter_number": 14,
+      "statute_id": ""
+    }
+  ],
+  "sections": [
+    {
+      "id": "b32dc1aa-11ac-4a03-99fb-a341800fada9",
+      "node_type": "Section",
+      "publisher": "finlex",
+      "title": "1§",
+      "text": "Tämä laki koskee kaikkiayksityisiä teitä,sellaisia teitä lukuun ottamatta, joita vain asianomaisen kiinteistön omistajalla tai haltijalla on oikeus käyttää. Sellaiseen tiehen, jota myös muulla on oikeus käyttää, mutta johon kenelläkään ei ole pysyvää käyttöoikeutta, sovelletaan tätä lakia vain niissä. kohdin, joissa niin on nimenomaan säädetty.",
+      "section_number": "1",
+      "chapter_number": 1,
+      "statute_id": ""
+    },
+    {
+      "id": "c7890559-a90e-4f42-9272-1bd504c61e0d",
+      "node_type": "Section",
+      "publisher": "finlex",
+      "title": "2§",
+      "text": "Mitä tässä laissa säädetään kiinteistöstä, on soveltuvin osin voimassa myös kaivoksesta ja, milloin olosuhteiden harkitaan niin vaativan, toisen maalla olevasta, pysyväiseksi tarkoitetusta rakennuksesta tai laitoksesta. Omistajan veroiseksi katsotaan tässä laissa kiinteistön haltija, jolla on pysyvä taikka elinaikainen tai muutoin määräämättömän ajan jatkuva oikeus hallita kiinteistöä.",
+      "section_number": "2",
+      "chapter_number": 1,
+      "statute_id": ""
+    },
+    {
+      "id": "f0d9413e-f0d6-48b4-bae7-6419e57a47cd",
+      "node_type": "Section",
+      "publisher": "finlex",
+      "title": "3§",
+      "text": "Milloin laissa on jonkin tapauksen varalta erikseen säädetty yksityisistä tai sellaisiksi katsottavista teistä tämän lain säännöksistä poiketen tai sen lisäksi, mitä tässä laissa säädetään, noudatettakoon sellaista erityissäännöstä ja sen nojalla annettua määräystä. Muutoin on myös niihin teihin, jotka muun kuin tämän lain nojalla on tehty tai tehdään taikka muulla perusteella on katsottava yksityisiksi teiksi, sovellettava tätä lakia. Tätä lakia on sovellettava myös asemakaava- ja rakennuskaava-alueilla, ei kuitenkaan rakennuskortteliin kaavamääräyksen tai 20 päivänä helmikuuta 1960 annetun kaavoitusalueiden jakolain (101/60) nojalla perustettuun tiehen tai muuhun kulkuväylään. Lain soveltaminen lakkaa, kun tie tai tienosa tahi sellainen liikenneväylä, jolle sen liikenne on tarkoitettu siirtyväksi, luovutetaan katuna tai rakennuskaavatienä yleiseen käyttöön, niinkuin siitä on erikseen säädetty tai määrätty. Päätöksessä, jossa katu tai rakennuskaavatie hyväksytään tarkoitukseensa, on määrättävä, mihin teihin tai tienosiin tämän lain soveltaminen vastaavasti lakkaa. Asemakaava- tai rakennuskaava-alueella on kunnan siitä alkaen, kun se on tullut velvolliseksi rakentamaan kadun tai tien, jolle yksityisen tien tai sen osan liikenne on tarkoitettu siirtyväksi, tai ryhtynyt sellaista katua tai tietä rakentamaan, otettava tällaisen kadun, tien tai sen osan tienpito hoidettavakseen. Tieosakkaalla tai, tieosakkaiden muodostaessa tiekunnan, tällä on oikeus saattaa kysymys kunnan velvollisuudesta ottaa tienpito hoidettavakseen lääninhallituksen käsiteltäväksi, ja lääniinhallitus voi uhkasakolla velvoittaa kunnan täyttämään sanotun velvollisuuden. Milloin lain soveltaminen 2 momentin mukaisesti lakkaa, on tiekunnan purkamiseen ja sen velkojen maksamiseen nähden noudatettava, mitä 84 §:n 3 momentissa on tien lakkauttamisesta säädetty. Niin ikään on sovellettava 87 §:ää, sikäli kuin tiealue ei kuulu 2 momentissa tarkoitettuun katuun tai rakennuskaavatiehen.",
+      "section_number": "3",
+      "chapter_number": 1,
+      "statute_id": ""
+    },
+    {
+      "id": "76e95550-2c28-486d-a6a9-6a832580908d",
+      "node_type": "Section",
+      "publisher": "finlex",
+      "title": "4§",
+      "text": "Tämä laki ei aiheuta muutosta siihen, mitä toisen maalle astumisesta ja siellä liikkumisesta on katsottava olevan voimassa.",
+      "section_number": "4",
+      "chapter_number": 1,
+      "statute_id": ""
+    },
+    {
+      "id": "ece020a4-eb74-46ba-bf5d-4e5a94160334",
+      "node_type": "Section",
+      "publisher": "finlex",
+      "title": "5§",
+      "text": "Tiehen kuuluu tierata sekä sen säilymistä ja käyttämistä varten pysyvästi tarvittavat alueet, rakenteet ja laitteet, kuten piennar, luiska, pengermä, oja, sivuuttamis- ja kääntymispaikka, tiehen liittyvä tienpitoa varten tarvittava varastoimispaikka, siitä, rumpu, lautta laitureineen, kaide ja tiemerkki sen mukaan, kuin kussakin tapauksessa on katsottava tarpeelliseksi. Yksityinen tie voi olla myös polkutie tai sellainen tie, jota käytetään ainoastaan talvisaikaan. Tietä, joka on tarkoitettu pääasiassa metsätalouden edellyttämiä kuljetuksia varten, sanotaan jäljempänämetsätieksi. Sillan, rummun ja lautan laitureineen sekä niihin kuuluvien laitteiden rakentamisesta vesistöön on voimassa, mitä siitä on erikseen säädetty. Sillan tai rummun tekemisestä toisen alueelle, jollei siihen ole tarpeen vesilaissa säädetty lupa, ovat voimassa tien tekemistä koskevat tämän lain säännökset, mutta rakennettaessa on lisäksi noudatettava vesilain säännöksiä.",
+      "section_number": "5",
+      "chapter_number": 1,
+      "statute_id": ""
+    },
+    {
+      "id": "4783e803-f1fc-4327-8fe3-1584853655a8",
+      "node_type": "Section",
+      "publisher": "finlex",
+      "title": "6§",
+      "text": "Tienpitokäsittää tien tekemisen ja kunnossapidon. Tien tekemisellätarkoitetaan uuden tien rakentamista sekä ennestään olevan tien siirtämistä, levittämistä ja muuta parantamista. Tien kunnossapidoksikatsotaan toimenpiteet, jotka ovat tarpeen tien pysyttämiseksi sen tarkoitusta vastaavassa kunnossa, niihin luettuina tien aukipitäminen talvella ja puhtaanapito.",
+      "section_number": "6",
+      "chapter_number": 1,
+      "statute_id": ""
+    },
+    {
+      "id": "4935c977-26c2-4749-b4a3-e9e97ecc5945",
+      "node_type": "Section",
+      "publisher": "finlex",
+      "title": "7§",
+      "text": "Tie on suunnaltaan, leveydeltään ja muutoinkin tehtävä sillä tavoin, että sen tarkoitus saavutetaan mahdollisimman edullisesti ja tuottamatta kenellekään suurempaa vahinkoa tai haittaa, kuin tarve vaatii. Tie on pidettävä sellaisessa kunnossa, kuin sen tarkoitus ja siitä tuleva hyöty edellyttävät, ottamalla kuitenkin huomioon, ettei kunnossapidosta aiheudu tieosakkaalle kohtuuttomia kustannuksia. Jos tieosakas vaatii tienpitoa suoritettavaksi ilmeisesti korkeampaa tasoa vastaavana, kuin edellä on sanottu, on osakkaan, tarvittaessa ennakolta, suoritettava siitä aiheutuvat lisäkustannukset. Alueella, jolle on vahvistettu asema- tai rakennuskaava taikka jolla on tai on kehittymässä taaja-asutusta, älköön tietä tehtäkö niin, että vahvistetun tai vastaisen kaavan toteuttaminen saattaisi vaikeutua.",
+      "section_number": "7",
+      "chapter_number": 1,
+      "statute_id": ""
+    },
+    {
+      "id": "d9e680ad-d54a-496a-90a0-40151a75238e",
+      "node_type": "Section",
+      "publisher": "finlex",
+      "title": "8§",
+      "text": "Jos kiinteistön tarkoituksenmukaista käyttöä varten on tärkeätä saada kulkuyhteys toisen kiinteistön kautta eikä siitä aiheudu huomattavaa haittaa viimeksi tarkoitetulle kiinteistölle, on tästä luovutettava jäljempänä säädetyssä tietoimituksessa määrättävä alue käytettäväksi 5 §:n mukaisiin tietarkoituksiin. Oikeutta toisen kiinteistön alueen tällaiseen pysyvään käyttämiseen sanotaantieoikeudeksi. Sama on laki ennestään olevan tien siirtämistä tai muuta parantamista varten tarpeellisen lisäalueen luovuttamisesta, jollei 16 §:stä muuta johdu.",
+      "section_number": "8",
+      "chapter_number": 2,
+      "statute_id": ""
+    },
+    {
+      "id": "9790cf79-aaff-4741-a59e-eeeb74658ba1",
+      "node_type": "Section",
+      "publisher": "finlex",
+      "title": "9§",
+      "text": "Milloin ennestään oleva tie on tärkeä sellaisen kiinteistön tarkoituksenmukaista käyttöä varten, jolla ei ole oikeutta tähän tiehen, siihen on annettava tieoikeus, jollei oikeuden antamisesta aiheudu huomattavaa haittaa sille kiinteistölle, jonka alueella tie on, tai jollekin, jolla ennestään on oikeus tiehen. Edellä 1 momentissa tarkoitettu tieoikeus myönnetään tietoimituksessa taikka asianomaisen tielautakunnan tai, tieosakkaiden muodostaessa tiekunnan, tämän päätöksellä sen mukaan, kuin jäljempänä on säädetty.",
+      "section_number": "9",
+      "chapter_number": 2,
+      "statute_id": ""
+    },
+    {
+      "id": "ff0586b6-73ec-4c3e-9749-d458551a4745",
+      "node_type": "Section",
+      "publisher": "finlex",
+      "title": "10§",
+      "text": "Mikäli ennestään oleva tie on sille, joka luvallisesti harjoittaa liikennettä tai muuta elinkeinoa, tärkeä hänen elinkeinonsa harjoittamista varten, on hänelle annettava oikeus käyttää tietä, jos tie rakenteeltaan on kysymyksessä olevaan liikenteeseen soveltuva eikä tien käyttämisestä aiheudu huomattavaa haittaa sille kiinteistölle, jonka alueella tie on, tai jollekin, jolla ennestään on oikeus tiehen. Tässä tarkoitetun oikeuden voi antaa tiekunta tai asianomainen tielautakunta.",
+      "section_number": "10",
+      "chapter_number": 2,
+      "statute_id": ""
+    },
+    {
+      "id": "06d2eacc-0ba6-45d1-b19a-d245b1e389d5",
+      "node_type": "Section",
+      "publisher": "finlex",
+      "title": "11§",
+      "text": "Milloin tieoikeutta tai oikeutta käyttää tietä ei voida myöntää 8, 9 tai 10 §:n nojalla tien käyttämisestä aiheutuvan haitan vuoksi, saadaan oikeus tiehen kuitenkin perustaa, jos haitta on vältettävissä rajoittamalla tien käyttö määrättyyn vuodenaikaan tai määrätynlaisiin kuljetuksiin taikka antamalla muutoin rajoitettu oikeus tiehen.",
+      "section_number": "11",
+      "chapter_number": 2,
+      "statute_id": ""
+    },
+    {
+      "id": "5f40ea1a-03c0-4fa4-b2f1-642c71eebf64",
+      "node_type": "Section",
+      "publisher": "finlex",
+      "title": "12§",
+      "text": "Jos tienpitovelvollisuuden täyttämistä varten on kohtuuttomien kustannusten estämiseksi välttämättä tarpeen ottaa soraa, kiveä tai muuta tienpitoainetta toisen kiinteistön alueelta, voidaan tällainen oikeus määrätä luovutettavaksi tietä varten, jollei siitä aiheudu huomattavaa haittaa sanotulle kiinteistölle. Samalla voidaan määrätä muun tien tai toiselle kuuluvan alueen käyttämisestä tienpitoaineen kuljettamiseen.",
+      "section_number": "12",
+      "chapter_number": 2,
+      "statute_id": ""
+    },
+    {
+      "id": "dc860180-56b4-4344-8de6-2150b5426786",
+      "node_type": "Section",
+      "publisher": "finlex",
+      "title": "13§",
+      "text": "Milloin tien käyttämiseksi puutavaran kuljetukseen on tarpeen varastoida puutavaraa tien varrelle, voidaan tätä varten määrätä luovutettavaksi käyttöoikeus tarvittavaan alueeseen, mikäli se kohtuuttomien kustannusten estämiseksi on välttämätöntä eikä siitä aiheudu huomattavaa haittaa kiinteistölle, johon alue kuuluu.",
+      "section_number": "13",
+      "chapter_number": 2,
+      "statute_id": ""
+    },
+    {
+      "id": "423e0fc7-0fc6-4034-a20f-296033c62d8e",
+      "node_type": "Section",
+      "publisher": "finlex",
+      "title": "14§",
+      "text": "Edellä 12 ja 13 §:ssä tarkoitetut oikeudet perustetaan tietoimituksessa ja luetaan niiden johdosta aiheutuvat kustannukset tien tekemisen kustannuksiin. Annettu oikeus kuuluu tieosakkaille yhteisesti. Jos kuitenkin tienpito suoritetaan tienjaon perusteella ja ainoastaan jollekin tieosakkaalle on välttämätöntä saada tienpitoainetta toisen kiinteistön alueelta, voidaan 12 §:ssä tarkoitettu oikeus antaa yksinomaan hänelle. Oikeuksia myönnettäessä ja käytettäessä on otettava huomioon, ettei kiinteistölle, johon oikeus kohdistuu, aiheuteta suurempaa vahinkoa tai haittaa, kuin tarve välttämättä vaatii.",
+      "section_number": "14",
+      "chapter_number": 2,
+      "statute_id": ""
+    },
+    {
+      "id": "6f5a4002-245c-4eeb-8155-38b873d7cc61",
+      "node_type": "Section",
+      "publisher": "finlex",
+      "title": "15§",
+      "text": "Kun edellä tässä luvussa tarkoitettu oikeus myönnetään, on tarvittaessa samalla määrättävä ne rajoitukset, jotka oikeutta käytettäessä on otettava varteen, sekä, jollei ole kysymys oikeudesta ennestään olevaan tiehen, myös määrättävä se alue, johon oikeus kohdistuu. Edellä 12 §:ssä tarkoitetussa tapauksessa on lisäksi määrättävä, jääkö ja kuinka laajalti myös alueen omistajalle oikeus ottaa siltä tienpitoainetta.",
+      "section_number": "15",
+      "chapter_number": 2,
+      "statute_id": ""
+    },
+    {
+      "id": "41ef6f09-295f-4c85-9376-9cb3a5d5d844",
+      "node_type": "Section",
+      "publisher": "finlex",
+      "title": "16§",
+      "text": "Tieoikeus, joka tietoimituksessa taikka tielautakunnan tai tiekunnan päätöksellä on tämän lain säännösten mukaan annettu, samoin kuin 12 ja 13 §:ssä tarkoitetut oikeudet ovat pysyvinä käyttöoikeuksina voimassa muun kiinteistöön kohdistuvan oikeuden estämättä. Tällaisen tieoikeuden saa niin ikään se, joka jäljempänä olevien säännösten nojalla on velvoitettu tieosakkaana osallistumaan tienpitoon. Samanlainen oikeus syntyy tien oikaisemista, levittämistä tai, tien siirtämistä lukuun ottamatta, muuta parantamista varten tarpeelliseen lisäalueeseen, joka alueen omistajan suostumuksella on otettu käyttöön. Elinkeinonharjoittajalle 10 §:n mukaan annettu oikeus käyttää tietä on muun kiinteistöön olevan oikeuden estämättä voimassa niin kauan, kuin tietä jatkuvasti käytetään siihen elinkeinotoimintaan, jota varten oikeus on annettu.",
+      "section_number": "16",
+      "chapter_number": 2,
+      "statute_id": ""
+    },
+    {
+      "id": "ea731730-9660-48de-afaa-ccde50d7ee40",
+      "node_type": "Section",
+      "publisher": "finlex",
+      "title": "17§",
+      "text": "Tieoikeuteen sisältyy oikeus puiden, pensaiden ja muiden tienpitoa haittaavien luonnonesteiden poistamiseen tiehen kuuluvalta alueelta sekä tälle alueelle ulottuvien oksien karsimiseen. Edellä 1 momentissa mainitun alueen ulkopuolelta voidaan antaa oikeus poistaa liikenneturvallisuutta ilmeisesti vaarantavat puut ja pensaat tai niiden oksat, ei kuitenkaan tontilla, rakennuspaikalla tai puutarhassa kasvavia tai erityiseen hoitoon muutoin otettuja puita tai pensaita, ellei siihen ole erittäin painavia syitä. Tässä tarkoitettujen puiden ja pensaiden poistamisesta tai oksien karsimisesta on ennakolta hyvissä ajoin ilmoitettava kysymyksessä olevan alueen omistajalle tai haltijalle. Jos laite tai rakennelma taikka sellainen erillinen rakennus, jota ei käytetä asuntona, on uuden tien rakentamisen tai tien siirtämisen esteenä niin, että tien tekeminen laitetta, rakennelmaa tai rakennusta siirtämättä aiheuttaisi kustannusten melkoista nousua tai huomattavaa hankaluutta, eikä siirtämisestä aiheudu vahinkoa tai sanottavaa haittaa sen omistajalle, voidaan tietoimituksessa antaa oikeus siirtää laite, rakennelma tai rakennus soveliaaseen paikkaan.",
+      "section_number": "17",
+      "chapter_number": 2,
+      "statute_id": ""
+    },
+    {
+      "id": "457637f1-382d-4886-a735-ccbf9d39d981",
+      "node_type": "Section",
+      "publisher": "finlex",
+      "title": "18§",
+      "text": "Tiellä voidaan kieltää pitämästä veräjää tai puomia, jos kieltoa on pidettävä liikenteen takia tarpeellisena eikä siitä aiheudu kohtuutonta haittaa kiinteistölle, jonka kautta tie kulkee. Tällaista kieltoa ei kuitenkaan ole annettava, jos liikenneturvallisuuden tai muun tärkeän syyn on katsottava vaativan veräjän tai puomin pitämistä tiellä.",
+      "section_number": "18",
+      "chapter_number": 2,
+      "statute_id": ""
+    },
+    {
+      "id": "de87d6c9-9471-4166-9581-2bbb262bc015",
+      "node_type": "Section",
+      "publisher": "finlex",
+      "title": "19§",
+      "text": "Milloin liikenneturvallisuuden on katsottava niin vaativan, voidaan kieltää ilman tielautakunnan lupaa rakentamasta rakennusta tai liikenneturvallisuutta vaarantavaa aitaa tai muuta pysyvää laitetta yksityisen tien tai sen osan varrelle lähemmäksi kuin kahdentoista metrin etäisyyteen tieradan keskiviivasta. Rakennusluvasta sekä rakentamisesta alueella, jota varten on vahvistettu rakennuslainsäädännön edellyttämä kaava tai määräys, on voimassa, mitä siitä on erikseen säädetty.",
+      "section_number": "19",
+      "chapter_number": 2,
+      "statute_id": ""
+    },
+    {
+      "id": "ec01da7a-2cf4-4821-ac9a-6ea6bd20bdfd",
+      "node_type": "Section",
+      "publisher": "finlex",
+      "title": "20§",
+      "text": "Edellä 18 §:ssä tai 19 §:n 1 momentissa tarkoitettu kielto voidaan kokonaan tai osittain kumota, jos sen voimassa pitäminen on käynyt tarpeettomaksi tai sen kumoamiseksi on muutoin esitetty painavia syitä. Kiellosta tai sen kumoamisesta on viivytyksettä annettava asianosaisille todisteellinen tieto tai ilmoitettava siten, kuin 43 §:n 1 momentissa säädetään.",
+      "section_number": "20",
+      "chapter_number": 2,
+      "statute_id": ""
+    },
+    {
+      "id": "c5f5b3a2-2b27-4336-a3e5-17c82eb9ab9e",
+      "node_type": "Section",
+      "publisher": "finlex",
+      "title": "21§",
+      "text": "Milloin oikeus tehdä tie toisen kiinteistön kautta tai käyttää ennestään olevaa tietä taikka 12 tai 13 §:ssä tarkoitettu oikeus perustuu vain tämän lain voimassa ollessa tehtyyn sopimukseen, sitoo sopimus ainoastaan niitä, jotka ovat sen tehneet tai hyväksyneet taikka ovat näiden perillisiä. Tällaiseen sopimukseen perustuvaan tiehen tai oikeuteen on sen lisäksi, mitä 1 momentissa on sanottu, sovellettava vain tämän lain 11 luvun säännöksiä.",
+      "section_number": "21",
+      "chapter_number": 2,
+      "statute_id": ""
+    },
+    {
+      "id": "57a2b65c-a9f3-454a-ac4a-68b768aac711",
+      "node_type": "Section",
+      "publisher": "finlex",
+      "title": "22§",
+      "text": "Jokainen, joka on saanut oikeuden tiehen tai jonka omistama kiinteistö kokonaan tai osaksi on sillä, tien vaikutuspiiriksi katsottavalla alueella, jolta tai jolle tapahtuviin kuljetuksiin tietä tarvitaan tai voidaan käyttää, on velvollinen tieosakkaana osuutensa mukaan tekemään ja pitämään kunnossa tietä. Ennestään olevan tien tienpitoon ei kuitenkaan voida velvoittaa tieosakkaana osallistumaan sitä, joka aikaisemmin ei ole tieosakas, niin kauan kuin tietä ei käytetä hänen kiinteistöään varten. Milloin huomattava osa niistä, jotka olisivat velvolliset osallistumaan tienpitoon, vastustaa uuden tien rakentamista, ja rakennettavaa tietä ilmeisesti tultaisiin useita kiinteistöjä varten toistaiseksi tarvitsemaan vain vähäisessä määrin, voidaan tie päättää rakennettavaksi vain sitä haluavien toimesta velvoittamatta muita siihen osallistumaan. Jos kiinteistön omistajaa vaaditaan tieosakkaana osallistumaan tienpitoon, mutta kiinteistölle olevan toisen kulkuyhteyden vuoksi tai muusta tällaisesta syystä tietä tarvitaan kiinteistöä varten vain vähäisessä määrin ja omistaja ilmoittaa kiinteistön puolesta luopuvansa tien käyttämisestä, ei häntä voida velvoittaa tieosakkaana osallistumaan tienpitoon.",
+      "section_number": "22",
+      "chapter_number": 3,
+      "statute_id": ""
+    },
+    {
+      "id": "9ce1e97a-71b2-47f3-8ac7-e017c96dbbe3",
+      "node_type": "Section",
+      "publisher": "finlex",
+      "title": "23§",
+      "text": "Tienpitovelvollisuus on tieosakkaiden kesken jaettava sen hyödyn mukaan. minkä tien kullekin katsotaan tuottavan. Hyötyä arvioitaessa on otettava huomioon tieosakkaalla tien vaikutuspiirissä olevan alueen suuruus ja missä määrin tietä kunkin osakkaan kohdalta käytetään tai tullaan käyttämään erilaisiin kuljetuksiin sekä tieosakkaan ehkä harjoittamasta elinkeinosta johtuva asiakkaiden tien käyttö. Tienpitovelvollisuuden ja siitä aiheutuvien kustannusten jakamiseksi tieosakkaiden kesken vahvistetaan heille 1 momentissa säädettyjen perusteiden mukaantieyksiköt,joiden perusteella määrättäviä maksuja sanotaantiemaksuiksi.Jos tien tekeminen joltakin osalta, joka ei tule kaikkien tieosakkaiden hyväksi, aiheuttaa erityisiä kustannuksia, voidaan niiden jakamista varten määrätä eri tieyksiköt. Mikäli tien tekemisestä koituva hyöty pääasiallisesti tulee kiinteistön hyväksi vasta myöhemmin, on kiinteistön omistajalla oikeus vaatia, että tien tekemisestä johtuva tiemaksu määrätään hänen kiinteistönsä osalta suoritettavaksi enintään kymmenenä samansuuruisena vuotuismaksuna. Milloin kuitenkin kaupungissa tai kauppalassa tie sijaitsee asemakaava-alueella ja tien varrella olevat kiinteistöt ovat verrattavissa rakennettuihin tontteihin, voidaan tienpitovelvollisuus jakaa samojen perusteiden mukaan kuin kadun kunnossapito.",
+      "section_number": "23",
+      "chapter_number": 3,
+      "statute_id": ""
+    },
+    {
+      "id": "b5689fa2-7332-4d8a-9455-61498009323c",
+      "node_type": "Section",
+      "publisher": "finlex",
+      "title": "24§",
+      "text": "Jos sille, joka on saanut oikeuden tiehen, on katsottava koituneen huomattavaa hyötyä tien tekemisestäoka on suoritettu kymmenen viimeksi kuluneen vuoden aikana, ennen kuin oikeus tiehen syntyi, voidaan hänet velvoittaa korvaamaan kohtuullinen osa tien tekemisestä aiheutuneista kustannuksista. Mitä 1 momentissa on sanottu, ei koske ositettaessa syntyneitä kiinteistöjä, jos ositettavalla kiinteistöllä on ollut oikeus kysymyksessä olevaan tiehen.",
+      "section_number": "24",
+      "chapter_number": 3,
+      "statute_id": ""
+    },
+    {
+      "id": "6894a6ee-16d7-492c-be2d-ce9d361e6471",
+      "node_type": "Section",
+      "publisher": "finlex",
+      "title": "25§",
+      "text": "Milloin metsätietä käytetään yksinomaan metsätalouden edellyttämiin kuljetuksiin, voidaan asianosaisen ehdotuksesta määrätä, jos siihen katsotaan olevan erityistä aihetta, että tien kunnossapitoa varten tarvittavia varoja ei kerätä tieosakkailta tiemaksuina, vaan tapahtuneiden kuljetusten perusteella suoritettavinakuljetusmaksuinaniiltä, jotka ovat käyttäneet tietä kuljetuksiin. Näiden määräämisperusteet on samalla vahvistettava ottamalla huomioon erilaisten kuljetusten vaikutus tien kunnossapitokustannuksiin. Kuljetusmaksu on maksuunpantava kuljetuksen tapahduttua ja suoritettava maksuunpanossa määrättynä aikana.",
+      "section_number": "25",
+      "chapter_number": 3,
+      "statute_id": ""
+    },
+    {
+      "id": "e8d229df-4fac-412e-9978-617c40914e0d",
+      "node_type": "Section",
+      "publisher": "finlex",
+      "title": "26§",
+      "text": "Sen, joka 80 §:n mukaisesti tilapäisesti käyttää tietä, on suoritettava siitä korvauksena kuljetusmaksu. Maksu on määrättävä sen mukaan, kuin katsotaan kohtuulliseksi ottamalla huomioon vastaavanlaisesta tien käytöstä osakkaalle määrättävä tiemaksu ja tien käyttämisestä ehkä johtuva erityinen kunnossapitokustannusten lisääntyminen.",
+      "section_number": "26",
+      "chapter_number": 3,
+      "statute_id": ""
+    },
+    {
+      "id": "64f529ff-473a-4565-9067-d0c3c119d72a",
+      "node_type": "Section",
+      "publisher": "finlex",
+      "title": "27§",
+      "text": "Milloin joku on 25 §:n 1 momentin tai 26 §:n mukaan velvollinen suorittamaan kuljetusmaksua, hänen on viivytyksettä kuljetuksen päätyttyä annettava toimitsijamiehelle tai hoitokunnalle taikka sille, joka on antanut luvan tien käyttöön, selvitys kuljetetun tavaran määrästä, kuljetustavasta ja -ajasta uhalla, että maksun määrä muutoin voidaan vahvistaa arvion perusteella.",
+      "section_number": "27",
+      "chapter_number": 3,
+      "statute_id": ""
+    },
+    {
+      "id": "93bce938-0168-45a0-9c37-35e400305d6a",
+      "node_type": "Section",
+      "publisher": "finlex",
+      "title": "28§",
+      "text": "Sille, jolle on annettu oikeus ennestään olevaan tiehen tai joka on velvoitettu osallistumaan tällaisen tien tienpitoon, on määrättävä tieyksiköt. Milloin tila, jolla on oikeus tiehen, on ositettu, on uusille tiloille samoin määrättävä tieyksiköt, mikäli nämä ovat osituksessa saaneet oikeuden tiehen. Jos sen johdosta, että kiinteistölle on saatu muu kulkuyhteys, tai oloissa muutoin tapahtuneen olennaisen muutoksen vuoksi tietä ei enää tarvita kiinteistöä varten, voi tieosakas vaatia, että hänet vapautetaan tieosakkuudesta ja tienpitovelvollisuudesta.",
+      "section_number": "28",
+      "chapter_number": 3,
+      "statute_id": ""
+    },
+    {
+      "id": "7521ff49-808a-4937-8312-3df58694177f",
+      "node_type": "Section",
+      "publisher": "finlex",
+      "title": "29§",
+      "text": "Mikäli tienpitovelvollisuuteen tai sen jakoon vaikuttavat seikat ovat olennaisesti muuttuneet, on tieosakkaan vaatimuksesta tieyksikköjen jakoon tehtävä siitä johtuvat muutokset. Jos tieyksikköjen jako on ollut voimassa vähintään viisi vuotta, on tieosakkaalla 1 momentissa mainitusta edellytyksestä riippumatta oikeus vaatia, että jako toimitetaan kokonaan uudelleen.",
+      "section_number": "29",
+      "chapter_number": 3,
+      "statute_id": ""
+    },
+    {
+      "id": "86003caa-0610-4c2a-a906-64ebc871f1db",
+      "node_type": "Section",
+      "publisher": "finlex",
+      "title": "30§",
+      "text": "Asianosaisen ehdotuksesta voidaan tehdä muutoksia 25 §:n 1 momentissa mainittujen kuljetusmaksujen määräämisperusteisiin, milloin siihen harkitaan olevan aihetta rahanarvon muuttumisen tai muun sellaisen painavan syyn takia.",
+      "section_number": "30",
+      "chapter_number": 3,
+      "statute_id": ""
+    },
+    {
+      "id": "625ab78d-dbc1-495f-822a-fd8d07e3b2c7",
+      "node_type": "Section",
+      "publisher": "finlex",
+      "title": "31§",
+      "text": "Jos tieosakas tai se, jolla on lupa käyttää tietä kuljetusmaksua vastaan, on käyttänyt tietä tavalla, jota ei ole otettu huomioon tieyksikköjä määrättäessä tai kuljetusmaksujen määräämisperusteita vahvistettaessa ja joka on huomattavasti lisännyt tien kulumista tai vaurioittanut sitä, hän on velvollinen korvaamaan tien kuntoon panemisesta aiheutuvat lisäkustannukset.",
+      "section_number": "31",
+      "chapter_number": 3,
+      "statute_id": ""
+    },
+    {
+      "id": "bead678b-fc1b-4a48-8885-77a653c6ebc6",
+      "node_type": "Section",
+      "publisher": "finlex",
+      "title": "32§",
+      "text": "Tienpito on suoritettava yhteiseen lukuun. Tieosakkaat tai tiekunta voivat kuitenkin päättää, että tienpito kokonaan tai osaksi on toteutettavatienjaonperusteella siten, että kukin tieosakas on vastuussa määrätyn tienosan tienpidosta. Tienjakoa toimitettaessa voidaan, jos siihen katsotaan olevan syytä, määrätä sillan tai muun erityisiä kustannuksia vaativan tienosan tienpito suoritettavaksi kaikkien tai joidenkin tieosakkaiden yhteiseen lukuun. Tienjaossa, jossa on otettava huomioon tienpitokustannuksiin vaikuttavat tekijät, käytetään perusteena tieosakkaille vahvistettuja tieyksikköjä määräämällä kullekin niitä vastaava tienosa. Tieosakas, jolla ei ole omistus- tai hallintaoikeutta kiinteistöön, voidaan kuitenkin velvoittaa täyttämään tienpitovelvollisuutensa tieyksikköjen perusteella määrättävillä tiemaksuilla. Tienjako on, milloin siihen katsotaan olevan aihetta, toimitettava erikseen tien tekoa ja kunnossapitoa varten.",
+      "section_number": "32",
+      "chapter_number": 3,
+      "statute_id": ""
+    },
+    {
+      "id": "277f0af7-0753-4e1e-8b82-41b364ad9de2",
+      "node_type": "Section",
+      "publisher": "finlex",
+      "title": "33§",
+      "text": "Maan luovuttamisesta sekä vahingosta tai haitasta, joka muutoin aiheutuu kiinteistön omistajalle tähän lakiin perustuvasta toimenpiteestä, suoritetaan korvaus. Oikeutta korvauksen saamiseen ei kuitenkaan ole, milloin on sovittu tai ilmeisesti edellytetty, ettei korvausta makseta, eikä myöskään tietoimituksessa tietä varten osoitetulla alueella suoritettujen toimenpiteiden johdosta, jos niihin on ryhdytty vasta alueen tietarkoitukseen osoittamisen jälkeen. Tämän lain 19 §:ssä säädetystä kiellosta aiheutuvasta haitasta voidaan korvausta määrätä suoritettavaksi vain, jos haitta on erittäin huomattava.",
+      "section_number": "33",
+      "chapter_number": 4,
+      "statute_id": ""
+    },
+    {
+      "id": "ffb87a3e-8271-4290-a05a-71c44b099b86",
+      "node_type": "Section",
+      "publisher": "finlex",
+      "title": "34§",
+      "text": "Jos jollakin on kiinteistöön, johon tässä laissa tarkoitettu toimenpide kohdistuu, nautinta-, rasite- tai muu käyttöoikeus taikka määräalan erottamisoikeus, on hänellä kiinteistön omistajan ohella oikeus saada korvaus oikeutensa menettämisestä tai sen arvon vähentymisestä tämä korvaus on otettava huomioon kiinteistön omistajalle tulevaa korvausta määrättäessä.",
+      "section_number": "34",
+      "chapter_number": 4,
+      "statute_id": ""
+    },
+    {
+      "id": "c2d03d3c-9b89-4c1f-9342-5bac09c83ff1",
+      "node_type": "Section",
+      "publisher": "finlex",
+      "title": "35§",
+      "text": "Korvaukset on, mikäli niiden määräämisperusteesta ei muuta johdu, vahvistettava kerta kaikkiaan maksettaviksi.",
+      "section_number": "35",
+      "chapter_number": 4,
+      "statute_id": ""
+    },
+    {
+      "id": "f185b146-0484-4cdb-8de7-8b71bf181f0c",
+      "node_type": "Section",
+      "publisher": "finlex",
+      "title": "36§",
+      "text": "Oikeus kiinteistön omistajalle kerta kaikkiaan suoritettavaan korvaukseen kuuluu kiinteistöön eikä sitä voida erikseen luovuttaa tai ulosmitata. Korvauksen luovuttaminen tai suorittaminen muulle kuin kiinteistön omistajalle on tehoton kiinnityksen tai maksamattoman kauppahinnan panttioikeuden haltijaa kohtaan.",
+      "section_number": "36",
+      "chapter_number": 4,
+      "statute_id": ""
+    },
+    {
+      "id": "aebeafa8-80b5-43b4-83ef-90dfd2f9d03b",
+      "node_type": "Section",
+      "publisher": "finlex",
+      "title": "37§",
+      "text": "Kertakaikkinen korvaus on, jollei sitä määrättäessä ole toisin päätetty, maksettava sen tultua lainvoimaisesti vahvistetuksi. Korvaukselle on määrättävä maksettavaksi korkoa kuusi sadalta sanotusta ajankohdasta tai, jos korvauksen perusteena olevaan toimenpiteeseen ryhdytään sitä ennenästä lukien.",
+      "section_number": "37",
+      "chapter_number": 4,
+      "statute_id": ""
+    },
+    {
+      "id": "ae99c4d3-7522-449e-a581-fe2ccf5b84af",
+      "node_type": "Section",
+      "publisher": "finlex",
+      "title": "38§",
+      "text": "Uuden tien rakentamisesta ja tien siirtämisestä johtuvista oikeuksista ja velvoituksista, tieoikeuden perustamisesta sellaiseen ennestään olevaan tiehen, johon muulla kuin kiinteistön omistajalla tai haltijalla ei aikaisemmin ole ollut pysyvää oikeutta, sekä 12 ja 13 §:ssä tarkoitettujen oikeuksien myöntämisestä samoin kuin oikeudesta tien muuta parantamista kuin siirtämistä varten tarpeelliseen alueeseen siinä tapauksessa, että kiinteistön omistaja ei ole suostunut aluetta luovattamaan, päätetään paikalla pidettävässätietoimituksessa. Tietoimituksessa käsitellään myös oikeudesta entiseen tiealueeseen 21 päivänä toukokuuta 1954 annetun lain (245/54) 5 §§:ssä tarkoitetut kysymykset entisen tiemaan määräämisestä käytettäväksi yksityisenä tienä. Edellä 1 tai 2 momentissa tarkoitetussa tietoimituksessa voidaan päättää tarvittavan tieoikeuden perustamisesta ennestään olevaan yksityiseen tiehen muussakin kuin 1 momentissa erikseen mainitussa tapauksessa. Niin ikään kuuluu tietoimituksessa käsiteltäväksi kysymys siitä, onko jollakin oikeus tiehen tai vastaava, muuhun lakiin perustuva pysyvä käyttöoikeus, milloin siitä on syntynyt epätietoisuutta.",
+      "section_number": "38",
+      "chapter_number": 5,
+      "statute_id": ""
+    },
+    {
+      "id": "95479870-498c-42a1-a9ec-93e2ab295ed6",
+      "node_type": "Section",
+      "publisher": "finlex",
+      "title": "39§",
+      "text": "Oikeus vaatia tietoimitusta pidettäväksi ja käyttää siinä puhevaltaa kiinteistön osalta, jota asia koskee, on kiinteistön omistajalla. Puhevalta tietoimituksessa on myös sillä tieosakkaalla, joka 10 §:n mukaan on saanut oikeuden tiehen, samoin kuin nautinta-, rasite- tai muun käyttöoikeuden sekä määräalan erottamisoikeuden haltijalla, mikäli asia koskee hänen oikeuttaan. Jos kiinteistö tai tässä pykälässä tarkoitettu oikeus toimituksen alkamisen jälkeen on siirtynyt uudelle omistajalle tai haltijalle, sitoo häntä toimituksessa se, mihin aikaisempi omistaja tai haltija on laillisesti suostunut tai velvoitettu.",
+      "section_number": "39",
+      "chapter_number": 5,
+      "statute_id": ""
+    },
+    {
+      "id": "8732de8f-13ba-46b1-bc00-3269dc265742",
+      "node_type": "Section",
+      "publisher": "finlex",
+      "title": "40§",
+      "text": "Tietoimituksen suorittaa maanmittausinsinööri kahden jakotoimituksia varten valitun uskotun miehen taikka tielautakunnan jäsenen, tahi vähäisiksi katsottavissa asioissa, toimitusinsinöörin harkinnan mukaan, kahden esteettömän todistajan avulla. Tielautakunnan jäsenen oikeudesta saada palkkiota sekä matkakulujen korvausta ja päivärahaa on voimassa, mitä 1 momentissa tarkoitetun uskotun miehen osalta on säädetty. Sellainen kaupungin tai kauppalan kiinteistöinsinööri, joka saa suorittaa lohkomisja eräitä muita maanmittaustoimituksia, saa myös toimipiirissään kunnan suostumuksella suorittaa 1 momentissa tarkoitetun tietoimituksen.",
+      "section_number": "40",
+      "chapter_number": 5,
+      "statute_id": ""
+    },
+    {
+      "id": "acc55f48-b247-4e2f-a446-3c5ac3bcaf4c",
+      "node_type": "Section",
+      "publisher": "finlex",
+      "title": "41§",
+      "text": "Määräystä tietoimitukseen on haettava kirjallisesti sen läänin maanmittauskonttorilta, jonka alueella tie tai suurin osa siitä on. Hakemukseen on liitettävä, mikäli mahdollista, luettelo niistä kiinteistöistä, maanomistajista sekä nautinta-, rasite- ja muun käyttöoikeuden samoin kuin määräalan erottamisoikeuden haltijoista, joita toimitus on tarkoitettu välittömästi koskemaan. Mikäli tarkoituksena on saada oikeus ennestään olevaan tiehen, riittää ilmoitus siitä, mistä tiestä on kysymys. Jos tällaisen tien osakkaat muodostavat tiekunnan, on kuitenkin hakemuksessa mainittava myös toimitsijamies tai joku hoitokunnan varsinainen jäsen. Tämän lisäksi tulee hakemuksesta käydä selville luettelossa mainittujen asianosaisten asuinpaikat ja hakijan postiosoite. Jos asianosaiset ovat sopineet tienpitoa koskevista kysymyksistä, on maanmittausinsinöörillä asianosaisen pyynnöstä oikeus maanmittauskonttorin määräyksettäkin ottaa suoritettavakseen tietoimitus. Edellä 2 momentissa mainittu selvitys sekä puhevallan käyttämiseen oikeuttavat saanto- ja muut asiakirjat on tällöin esitettävä toimitusinsinöörille, jonka on ilmoitettava toimituksen vastaanottamisesta kolmenkymmenen päivän kuluessa maanmittauskonttorille.",
+      "section_number": "41",
+      "chapter_number": 5,
+      "statute_id": ""
+    },
+    {
+      "id": "5e2d2cbf-b823-40b3-9336-ce24ff6fcc0b",
+      "node_type": "Section",
+      "publisher": "finlex",
+      "title": "42§",
+      "text": "Kun tietoimitus koskee metsätietä, on toimitusinsinöörin ilmoitettava toimituksesta asianomaiselle metsänhoitolautakunnalle, jonka asiana on, jos se katsoo tarpeelliseksi, määrätä asiantuntija lautakunnan kustannuksella olemaan apuna tietoimituksessa. Muussa kuin 1 momentissa mainitussa tapauksessa on toimitusmiehillä valta, milloin he katsovat sen tarpeelliseksi, kutsua asiantuntija avustamaan määrättyjen kysymysten käsittelyä toimituksessa. Tällöin on noudatettava, mitä asiantuntijoista ja heille suoritettavista palkkioista on jakolaissa säädetty.",
+      "section_number": "42",
+      "chapter_number": 5,
+      "statute_id": ""
+    },
+    {
+      "id": "f3390613-1038-4256-8565-00db408f11d4",
+      "node_type": "Section",
+      "publisher": "finlex",
+      "title": "43§",
+      "text": "Toimitusinsinöörin on kutsuttava asianosaiset tietoimitukseen tiedottamalla kokouksen ajasta ja paikasta kuulutuksella kunnan ilmoitustaululla vähintään neljätoista päivää ennen kokouksen alkamista. Lisäksi on kokouksesta tiedotettava kullekin asiakirjoista ilmenevälle tai muutoin toimitusinsinöörin tiedossa olevalle asianosaiselle. Milloin kysymys on kiinteistöstä, jolla on useita omistajia, riittää kuitenkin ilmoitus yhdelle omistajista, jos hän asuu kiinteistöllä. Mikäli toimitus koskee valtion, kunnan tai seurakunnan omistamaa tai hallitsemaa kiinteistöä, on toimitusinsinöörin tiedotettava kokouksesta sille viranomaiselle, jonka hoidossa tai valvonnassa kiinteistö on. Tässä tarkoitettu ilmoitus on katsottava asianmukaisesti annetuksi, jos kirje vähintään neljätoista päivää ennen kokouksen alkamista on kirjattuna annettu postin kuljetettavaksi. Milloin ei ole tietoa asianosaisen asuinpaikasta, on kirje osoitettava sille kiinteistölle, jota asia koskee. Kuulutuksessa ja ilmoituksessa on asianosaisia kehotettava saapumaan toimitukseen sekä esittämään siinä puhevallan käyttämiseen oikeuttavat saanto- ja muut asiakirjansa. Jos todetaan, että kaikki ne, jotka ovat toimituksessa asianosaisia, ovat saapuneet toimitukseen tai saaneet vähintään neljätoista päivää ennen sen alkamista toimitusinsinööriltä todistettavasti kehoituksen saapua siihen, voidaan toimitus suorittaa, vaikka kokouksesta ei ole tässä pykälässä säädetyllä tavalla kuulutettu ja ilmoitettu.",
+      "section_number": "43",
+      "chapter_number": 5,
+      "statute_id": ""
+    },
+    {
+      "id": "26d67555-7331-4642-aee4-9eba361430f8",
+      "node_type": "Section",
+      "publisher": "finlex",
+      "title": "44§",
+      "text": "Tietoimituksesta on ilmoitettava asianomaiselle tielautakunnalle tai sen tehtäviä hoitavalle viranomaiselle. Milloin kysymys on tien rakentamisesta tai siirtämisestä ja tie tulisi johtamaan yleisen tien, rautatien, raitiotien tai kanavan alueelle, on tietoimituksesta ilmoitettava asianomaiselle viranomaiselle. Kun tietoimitus koskee tien tekemistä alueella, jolle on vahvistettu asema- tai rakennuskaava, on toimituksesta ilmoitettava kunnallishallitukselle. Tässä pykälässä tarkoitettu ilmoitus on, mikäli mahdollista, tehtävä vähintään neljätoista päivää ennen ilmoituksessa mainitun asian käsittelyä toimituksessa. Tietoimituksessa on 1 ja 2 momentissa tarkoitetulla viranomaisilla oikeus esittää lausuntonsa asiasta.",
+      "section_number": "44",
+      "chapter_number": 5,
+      "statute_id": ""
+    },
+    {
+      "id": "daff3f85-50e6-4ed8-a024-16b23ef060a8",
+      "node_type": "Section",
+      "publisher": "finlex",
+      "title": "45§",
+      "text": "Jos tietoimitus täytyy siirtää toistaiseksi eikä seuraavaa kokouspäivää voida määrätä ja asianosaisille ilmoittaa ennen kokouksen lopettamisesta, on tieto seuraavasta kokouspäivästä annettava 43 §:ssä säädetyllä tai asianosaisten sopimalla tavalla. Näin tapahtuvasta toimituksen jatkamisesta on erikseen ilmoitettava 43 §n 2 momentissa ja 44 §:ssä mainituille viranomaisille. Jollei kaikkien niiden kiinteistöjen omistajille, joiden alueita tarvitaan tietarkoituksiin, taikka niille, jotka velvoitetaan osallistumaan tienpitoon, ole annettu 43 §:ssä tarkoitettua henkilökohtaista kutsua eivätkä he ole saapuneet tietoimitukseen toimitus siirrettävä ja sellainen kutsu toimitettava heille. Jos tarvittava alue on ennestään olevaa tietä tai useammalle kiinteistölle yhteistä aluetta, ei toimituksen siirtäminen henkilökohtaisen kutsun antamista varten kuitenkaan ole tarpeen.",
+      "section_number": "45",
+      "chapter_number": 5,
+      "statute_id": ""
+    },
+    {
+      "id": "ed58715c-16ae-4ca2-9118-4132ef9472fb",
+      "node_type": "Section",
+      "publisher": "finlex",
+      "title": "46§",
+      "text": "Toimitusmiehiä sekä toimituksessa käytettyjä asiantuntijoita ja apumiehiä älköön estettäkö kulkemasta tiluksilla sekä panemasta niille merkkejä, sikäli kuin toimitus sitä vaatii. Kasvavan laihon ja puiden vahingoittamista on kuitenkin mikäli mahdollista vältettävä. Puutarhassa tai muussa paikassa, jossa on istutuksia, älköön puita omistajan luvatta vahingoitettako tai kaadettako. Jos tässä pykälässä tarkoitetuista toimenpiteistä on aiheutunut jollekin vahinkoa, on hänellä oikeus sen johdosta esittää toimitusmiehille korvausvaatimus tietoimituksessa ratkaistavaksi.",
+      "section_number": "46",
+      "chapter_number": 5,
+      "statute_id": ""
+    },
+    {
+      "id": "df97132d-d58a-46eb-9096-454eda57ba07",
+      "node_type": "Section",
+      "publisher": "finlex",
+      "title": "47§",
+      "text": "Tietoimituksen kustannukset on hakijan suoritettava. Jos toimituksessa on asianosaisina useita tieosakkaita, on hakijan suoritettava määrä jaettava heidän keskensä tieyksikköjen mukaan tai, jollei tätä jakoperustetta johonkin tieosakkaaseen voida kohtuudella soveltaa, sen mukaan kuin harkitaan kohtuulliseksi. Milloin tietoimitusta on haettu aiheettomasti, jäävät kustannukset hakijan vastattaviksi.",
+      "section_number": "47",
+      "chapter_number": 5,
+      "statute_id": ""
+    },
+    {
+      "id": "05bdb593-936d-43eb-b0e8-0256507e8154",
+      "node_type": "Section",
+      "publisher": "finlex",
+      "title": "48§",
+      "text": "Tietoimituksessa on asian laadun mukaan ja huomioon ottaen 49 §:n säännökset ratkaistava seuraavat asiat: Jos tie on päätetty tehdä, on laadittava tietä varten tarvittavista alueista kartta ja selitelmä sekä tarvittaessa kustannusarvio tien tekemisestä. Tiealueet samoin kuin 12 ja 13 §:ssä tarkoitetut alueet on tarpeellisin osin myös merkittävä maastoon.",
+      "section_number": "48",
+      "chapter_number": 5,
+      "statute_id": ""
+    },
+    {
+      "id": "5945ec12-e919-45fb-ac85-3ff463c61913",
+      "node_type": "Section",
+      "publisher": "finlex",
+      "title": "49§",
+      "text": "Milloin asianosaiset ovat sopineet tieoikeutta tai tienpitoa koskevista kysymyksistä, on tietoimituksessa tutkittava, voidaanko sopimus kokonaan tai osittain hyväksyä toimituksen perusteeksi. Jos havaitaan, että sopimus on ristiriidassa 7 §:n 4 momentin säännösten kanssa tai tulisi ilmeisesti rasittamaan kiinteistöä huomattavasti enemmän, kuin tämän lain säännökset edellyttävät, ei sopimusta ole näiltä osin hyväksyttävä. Milloin tietoimitus koskee asutus- tai metsätietä, jota varten on asianmukaisessa järjestyksessä hyväksytty valtion varoilla laadittu suunnitelma, älköön suunnitelman mukaista tien asemaa muutettako, jollei siihen ole painavia syitä. Niiden kiinteistöjen alueella, joiden omistajat ovat tehneet sopimuksen tällaisen tien tekemisestä ja kunnossapidosta, saadaan tietyöhön ryhtyä jo ennen tietoimitusta. Asutushallituksella tai metsähallituksella on oikeus tarvittaessa vaatia tässä tarkoitettu tietoimitus pidettäväksi.",
+      "section_number": "49",
+      "chapter_number": 5,
+      "statute_id": ""
+    },
+    {
+      "id": "16385bf6-df4a-4d82-9c2a-43dd73fe81ae",
+      "node_type": "Section",
+      "publisher": "finlex",
+      "title": "50§",
+      "text": "Tietoimituksessa, jossa päätetään uuden tien rakentamisesta tai tieoikeuden perustamisesta ennestään olevaan tiehen, on samalla määrättävä tietä koskevien asioiden hoitamista varten perustettavaksi tieosakkaiden muodostamatiekunta,jos sitä tieosakkaiden lukumäärän tai tien pidon asianmukaisen hoitamisen vuoksi tai muusta tällaisesta syystä on pidettävä tarpeellisena. Sen mukaan kuin harkitaan tarkoituksenmukaiseksi, voidaan muodostaa tiekunta koko tietä tai sen määrättyä osaa varten taikka perustaa eri tiekunnat tien eri osia varten. Uutta rakentamatonta tietä ja ennestään olevaa tietä varten älköön kuitenkaan määrättäkö perustettavaksi yhteistä tiekuntaa, jos enemmistö ennestään olevan tien läsnä olevista osakkaista sitä vastustaa. Kun tiekunta on määrätty perustettavaksi, on tieosakkaiden 66 §:n säännökset huomioon ottaen tietoimituksessa päätettävä, onko tiekunnan toimielimenä olevatoimitsijamiesvai kolmijäseninenhoitokuntasekä mitä nimitystä tiestä on käytettävä. Samalla on tieosakkaiden valittava toimitsijamies ja tälle varamies tai hoitokunnan jäsenet ja näille kaksi varamiestä. Toimitusinsinöörin on ilmoitettava tiekunnan perustamisesta asianomaiselle tielautakunnalle. Ilmoituksessa on mainittava ne tiedot, jotka ovat tarpeen yksityisistä teistä pidettävää luetteloa varten, ja siihen on liitettävä jäljennös 48 § 2 momentissa tarkoitetusta kartasta.",
+      "section_number": "50",
+      "chapter_number": 5,
+      "statute_id": ""
+    },
+    {
+      "id": "99739482-6d2d-4fba-955c-2c430f3c019c",
+      "node_type": "Section",
+      "publisher": "finlex",
+      "title": "51§",
+      "text": "Mikäli tämän lain säännöksistä ei muuta johdu, on menettelystä tietoimituksessa toimituksen kustannuksista ja niiden perimisestä, toimituksen tarkastamisesta sekä muutoksenhausta toimituksessa annettuun päätökseen tai suoritettuun toimenpiteeseen soveltuvin osin noudatettava, mitä jakolainsäädännössä on vastaavissa kohdin määrätty rasitetoimituksesta. Maarekisteriin merkitsemisestä on soveltuvin kohdin niin ikään noudatettava rasitetoimituksesta voimassa olevia säännöksiä, ottamalla huomioon, että merkintä on tehtävä myös tieoikeudesta, joka perustetaan 2 §:ssä mainitun kaivoksen, rakennuksen tai laitoksen hyväksi.",
+      "section_number": "51",
+      "chapter_number": 5,
+      "statute_id": ""
+    },
+    {
+      "id": "62d349cc-a225-4554-b5d2-430c5a1f14c1",
+      "node_type": "Section",
+      "publisher": "finlex",
+      "title": "52§",
+      "text": "Milloin kysymys on ennestään olevasta tiestä, on kunnan tielautakunnan, jolleivät asianosaiset ole heidän määrättävissään olevasta asiasta voineet sopia tai jollei asiaa 48 §:n mukaan ole ratkaistava tietoimituksessa, päätettävä jäljempänä mainituista asioista: Jos asiaa tielautakunnassa käsiteltäessä ilmenee epätietoisuutta siitä, onko tiehen, jota asia koskee, tässä laissa säädetty tai vastaava muuhun lakiin perustuva pysyvä käyttöoikeus, lautakunnan on asiaa ratkaisematta osoitettava asianosainen saattamaan kysymys oikeudesta tiehen tietoimituksessa käsiteltäväksi tai hakemaan tietoimituksessa, mikäli edellytykset siihen ovat olemassa, tieoikeutta tiehen. Käsitellessään tässä pykälässä tarkoitettuja asioita on tielautakunnan päätettävä myös toimituskustannusten suorittamisvelvollisuudesta.",
+      "section_number": "52",
+      "chapter_number": 6,
+      "statute_id": ""
+    },
+    {
+      "id": "9020a12f-ae92-40a9-b366-8b2351db63f4",
+      "node_type": "Section",
+      "publisher": "finlex",
+      "title": "53§",
+      "text": "Tielautakunnalle tämän lain mukaan kuuluvat asiat on sen kunnan tielautakunnan käsiteltävä, jossa tie tai suurin osa siitä on. Jos asia kuitenkin koskee yksinomaan toisen kunnan alueella suoritettavaa erillistä toimenpidettä, on asia käsiteltävä tämän kunnan tielautakunnassa. Mikäli tie osaksi on kunnan alueen sisällä olevalla toiseen kuntaan kuuluvalla alueella, katsotaan sen tältäkin osin kuuluvan ensiksi mainitun kunnan tielautakunnan alaisuuteen.",
+      "section_number": "53",
+      "chapter_number": 6,
+      "statute_id": ""
+    },
+    {
+      "id": "1eb967a3-a9cd-4061-ba26-6135670c74e7",
+      "node_type": "Section",
+      "publisher": "finlex",
+      "title": "54§",
+      "text": "Tielautakunnan toimitus on, mikäli se asian selvittämiseksi on tarpeellista, pidettävä kysymyksessä olevalla paikalla. Lautakunnan puheenjohtaja voi tarvittaessa määrätä jo ennen toimitusta kaksi lautakunnan jäsentä suorittamaan katselmuksen. Mitä 39 §:n 1 ja 2 momentissa on säädetty oikeudesta puhevallan käyttämiseen, 41 §:n 2 momentissa hakemuksen sisällöstä, 43 ja 45 §:ssä toimituksen ajan ja paikan tiedoittamisesta asianosaisille sekä 47 §:ssä toimituskustannusten suorittamisesta, on soveltuvin osin noudatettava myös tässä pykälässä tarkoitetussa toimituksessa. Muutoin on asian käsittelystä ja päätöksen teosta tielautakunnassa soveltuvin osin voimassa, mitä kunnallishallituksesta on säädetty.",
+      "section_number": "54",
+      "chapter_number": 6,
+      "statute_id": ""
+    },
+    {
+      "id": "500205a5-43ad-477a-926b-d54eadfb1e0d",
+      "node_type": "Section",
+      "publisher": "finlex",
+      "title": "55§",
+      "text": "Muutosta tielautakunnan tämän lain mukaan antamaan päätökseen haetaan valittamalla siitä maajako-oikeuteen. Valitus on tehtävä kirjallisesti ja siihen on liitettävä ote tai virallinen jäljennös tielautakunnan asiaa koskevasta pöytäkirjasta päätöksineen. Valitusasiakirjat on valittajan itsensä tai hänen valtuuttamansa asiamiehen annettava taikka lähetin tai postin välityksellä toimitettava asianomaisen läänin maanmittauskonttorille viimeistään kolmantenakymmenentenä päivänä ennen kallo kahtatoista siitä lukien, jolloin tielautakunnan päätös on tehty.",
+      "section_number": "55",
+      "chapter_number": 6,
+      "statute_id": ""
+    },
+    {
+      "id": "115ecef1-7a49-436b-a853-d7b562432cd1",
+      "node_type": "Section",
+      "publisher": "finlex",
+      "title": "56§",
+      "text": "Tielautakunnan on käsittelemistään asioista pidettävä luetteloa ja annettava asianosaisille näiden pyynnöstä päätöksistä ja asiakirjoista tietoja, otteita ja jäljennöksiä. Niin ikään on tielautakunnassa pidettävä erillistä luetteloa niistä yksityisistä teistä, joita koskevien asioiden hoitamista varten on perustettu tiekunta. Luettelosta tulee käydä ilmi tien nimitys sekä toimitsijamiehen tai hoitokunnan jäsenten ja näiden varamiesten nimet ja osoitteet. Luetteloon voidaan lisäksi merkitä ne kiinteistöt, joiden omistajat ovat tieosakkaita, samoin kuin tiedot muista mahdollisista tieosakkaista.",
+      "section_number": "56",
+      "chapter_number": 6,
+      "statute_id": ""
+    },
+    {
+      "id": "5ecb90f5-d3bb-4225-90e2-294b6d59f12b",
+      "node_type": "Section",
+      "publisher": "finlex",
+      "title": "57§",
+      "text": "Mitä tässä laissa on säädetty tielautakunnasta, on vastaavasti voimassa siitä kunnallisesta viranomaisesta, joka lain tai annetun määräyksen nojalla hoitaa tielautakunnalle kuuluvia tehtäviä.",
+      "section_number": "57",
+      "chapter_number": 6,
+      "statute_id": ""
+    },
+    {
+      "id": "76708acb-0997-4986-b293-1da5348af39b",
+      "node_type": "Section",
+      "publisher": "finlex",
+      "title": "58§",
+      "text": "Tiekunta voidaan perustaa vain tietoimituksessa tai tielautakunnan päätöksellä sen mukaan, kuin edellä on säädetty. Tiekunnan toimitsijamies tai sen hoitokunnan jäsenet sekä näiden varamiehet valitaan neljäksi vuodeksi kerrallaan. Mainittuihin tehtäviin voidaan valita muukin kuin tieosakas. Älköön ketään kuitenkaan valittako tehtävään ilman hänen suostumustaan. Jos tiekunta on laiminlyönyt valita toimitsijamiehen tai hoitokunnan jäsenet taikka näiden varamiehen, tielautakunnan tulee tieosakkaan tai sen vaatimuksesta, jonka etua tai oikeutta asia muutoin koskee, taikka, milloin on syytä, omasta aloitteestaan määrätä aika, jonka kuluessa tieosakkaiden on toimitettava vaali. Jollei vaalia toimiteta, on tielautakunnan määrättävä toimitsijamies, hoitokunnan jäsen tai varamies.",
+      "section_number": "58",
+      "chapter_number": 7,
+      "statute_id": ""
+    },
+    {
+      "id": "94927b0d-8693-4285-be5b-1d85dd05ebaf",
+      "node_type": "Section",
+      "publisher": "finlex",
+      "title": "59§",
+      "text": "Hoitokunta valitsee varsinaisten jäsentensä keskuudesta puheenjohtajan ja varapuheenjohtajan. Hoitokunta kokoontuu tarvittaessa puheenjohtajan tai varapuheenjohtajan kutsusta ja on päätösvaltainen, kun puheenjohtaja tai varapuheenjohtaja ja kaksi jäsentä tai varajäsentä ovat saapuvilla. Erimielisyyden sattuessa katsotaan hoitokunnan päätökseksi se mielipide, jota enemmistö on kannattanut.",
+      "section_number": "59",
+      "chapter_number": 7,
+      "statute_id": ""
+    },
+    {
+      "id": "7129bc2f-ce08-4300-9b53-d9d06af5dd85",
+      "node_type": "Section",
+      "publisher": "finlex",
+      "title": "60§",
+      "text": "Toimitsijamiehellä samoin kuin hoitokunnan jäsenellä ja näiden varamiehellä sekä tilintarkastajilla, milloin sellaiset on 64 §:n 2 momentin 10 kohdan mukaan määrätty tilejä tarkastamaan, on oikeus saada tehtävästään tiekunnan kokouksen määräämä kohtuullinen palkkio.",
+      "section_number": "60",
+      "chapter_number": 7,
+      "statute_id": ""
+    },
+    {
+      "id": "b7209d2a-6640-463c-8552-49b241caa7fb",
+      "node_type": "Section",
+      "publisher": "finlex",
+      "title": "61§",
+      "text": "Tiekunnan kokouksella on valta vapauttaa toimitsijamies, hoitokunnan jäsen tai näiden varamies taikka tilintarkastaja tehtävästään ennen toimikauden päättymistäkin.",
+      "section_number": "61",
+      "chapter_number": 7,
+      "statute_id": ""
+    },
+    {
+      "id": "6bbbe5ed-0462-43da-89c3-0b3f515f2c8d",
+      "node_type": "Section",
+      "publisher": "finlex",
+      "title": "62§",
+      "text": "Tiekunta voi tehdä tienpitoa varten tarpeellisia sitoumuksia, hankkia irtainta omaisuutta sekä kantaa ja vastata. Tiekunnan nimen kirjoittaa toimitsijamies tai hänen sijastaan hänen varamiehensä taikka, milloin tiekunnan asioita hoitamaan on asetettu hoitokunta, kaksi hoitokunnan varsinaista jäsentä yhdessä. Haasteen, viranomaisen käskyn tai muun tiedoksiannon katsotaan tulleen tiekunnan tietoon, kun se on laillisessa järjestyksessä annettu tiedoksi toimitsijamiehelle tai tämän varamiehelle taikka hoitokunnan varsinaiselle jäsenelle. Jos tieto on annettu henkilölle, joka tielautakunnassa pidettävän yksityisiä teitä koskevan luettelon mukaan on toimitsijamiehenä tai tämän varamiehenä taikka hoitokunnan jäsenenä, on tiedoksi antaminen katsottava päteväksi, vaikka asianomainen henkilö ei enää hoidakaan kysymyksessä olevaa tehtävää.",
+      "section_number": "62",
+      "chapter_number": 7,
+      "statute_id": ""
+    },
+    {
+      "id": "abbf861e-ceea-4d79-a26c-806a7fffb0b9",
+      "node_type": "Section",
+      "publisher": "finlex",
+      "title": "63§",
+      "text": "Toimitsijamiehen ja hoitokunnan jäsenen tulee huolellisesti hoitaa tiekunnan asioita. Jos hän on tehtäväänsä suorittaessaan tahallaan tai huolimattomuudesta aiheuttanut tiekunnalle vahinkoa, hän on velvollinen korvaamaan sen, jollei sitä toimenpidettä, josta vahinko on aiheutunut, ole tilitystä tarkastettaessa tai muutoin hyväksytty. Mikäli hänen huolimattomuutensa on lievä, voidaan korvauksen määrää tai, jos useat ovat korvauksesta vastuussa, hänen osuuttaan siitä alentaa.",
+      "section_number": "63",
+      "chapter_number": 7,
+      "statute_id": ""
+    },
+    {
+      "id": "2aa4cb26-1c13-4a02-adef-ec4d438dad74",
+      "node_type": "Section",
+      "publisher": "finlex",
+      "title": "64§",
+      "text": "Tieosakkaat päättävät, mikäli 52 §:n säännöksistä ei muuta johdu, tienpidosta ja muista tiekuntaa koskevista asioista tiekunnan kokouksessa. Tiekunnan kokouksessa on erityisesti päätettävä:",
+      "section_number": "64",
+      "chapter_number": 7,
+      "statute_id": ""
+    },
+    {
+      "id": "cf899e21-4834-4bb0-9c71-c0475790081a",
+      "node_type": "Section",
+      "publisher": "finlex",
+      "title": "65§",
+      "text": "Tiekunnan on pidettävä vuosikokous kunakin vuonna ennen kesäkuun loppua, jolleivät tieosakkaat toisin päätä, sekä muita kokouksia tarpeen mukaan. Kokouksen kutsuu koolle toimitsijamies tai hoitokunnan puheenjohtaja tai tarvittaessa näiden varamies. Kokouskutsu on toimitettava vähintään neljätoista päivää ennen kokousta kirjatussa kirjeessä tai muulla tavoin todisteellisesti tieosakkaille taikka sen sijasta kuuluttamalla kokouksesta, niin kuin 43 §:n 1 momentissa on säädetty, ja ilmoittamalla siitä lisäksi kirjekortilla niille tieosakkaille, joiden osoite on tiedossa. Kirjattu kirje tai kirjekortti on toimitettava postin kuljetettavaksi viimeistään neljätoista päivää ennen kokousta. Milloin toimitsijamies tai hoitokunnan puheenjohtaja laiminlyö vuosikokouksen koolle kutsumisen tai kieltäytyy kutsumasta tieosakkaita ylimääräiseen kokoukseen, voi tielautakunta tieosakkaan hakemuksesta, varattuaan toimitsijamiehelle tai hoitokunnalle tilaisuuden tulla kuuluksi, oikeuttaa hakijan kutsumaan tieosakkaat kokoukseen siten, kuin 1 momentissa on säädetty.",
+      "section_number": "65",
+      "chapter_number": 7,
+      "statute_id": ""
+    },
+    {
+      "id": "b809ce15-d408-4a39-8ee5-76165a5d003a",
+      "node_type": "Section",
+      "publisher": "finlex",
+      "title": "66§",
+      "text": "Äänet tiekunnan kokouksessa luetaan kunkin tieosakkaan tieyksikköjen mukaan, kuitenkin niin, että sellaisen tieosakkaan äänimäärään, jolla on tieyksikköjä enemmän kuin viidennes kokouksessa edustettuina olevien osakkaiden yhteisestä tieyksikkömäärästä, luetaan vain kolmannes hänen sanotun viidenneksen ylittävästä tieyksikköjensä määrästä. Käsiteltävät asiat ratkaistaan yksinkertaisella äänten enemmistöllä. Äänten mennessä tasan tulee päätökseksi se mielipide, johon kokouksen puheenjohtaja on yhtynyt. Tieosakkaalla on oikeus valtuuttaa toinen henkilö puolestaan käyttämään puhe- ja äänivaltaansa tiekunnan kokouksessa. Kokouksessa on pidettävä pöytäkirjaa, jonka tulee kokouksen puheenjohtajan ja kahden kokouksessa valitun pöytäkirjan tarkastajan allekirjoittamana olla viimeistään neljäntoista päivän kuluttua kokouksen päättymisestä asianosaisten nähtävänä. Sillä, jonka etua tai oikeutta asia saattaa koskea, on oikeus pyynnöstä saada toimitsijamieheltä tai hoitokunnan puheenjohtajalta ote tai oikeaksi todistettu jäljennös pöytäkirjasta. Tiekunnan kokouksen asiana on päättää, onko otteista ja jäljennöksistä suoritettava lunastusta, sekä, jos lunastusta on suoritettava, määrätä sen suorittamisperusteet.",
+      "section_number": "66",
+      "chapter_number": 7,
+      "statute_id": ""
+    },
+    {
+      "id": "529f6c95-e4b3-4fe6-8f86-e81f60bb785d",
+      "node_type": "Section",
+      "publisher": "finlex",
+      "title": "67§",
+      "text": "Toimitsijamiehen tai hoitokunnan tehtävänä on:",
+      "section_number": "67",
+      "chapter_number": 7,
+      "statute_id": ""
+    },
+    {
+      "id": "768add5e-ef28-4d1a-8fb6-c4abd8761d2c",
+      "node_type": "Section",
+      "publisher": "finlex",
+      "title": "68§",
+      "text": "Tiemaksuja ja kuljetusmaksuja koskeva maksuunpanoluettelo on pidettävä asianosaisten nähtävänä neljäntoista päivän aika ennen sitä tiekunnan kokousta, jossa luettelo tulee vahvistettavaksi. Luettelon nähtävänä pitämisestä on ilmoitettava kokouskutsussa. Kokouksessa on tieosakkailla ja niillä, joiden maksettavaksi on pantu 25 tai 26 §:ssä mainittu kuljetusmaksu, oikeus tehdä luetteloa vastaan muistutuksensa.",
+      "section_number": "68",
+      "chapter_number": 7,
+      "statute_id": ""
+    },
+    {
+      "id": "eecc1c4e-1093-4c26-8601-2b41f86b28fb",
+      "node_type": "Section",
+      "publisher": "finlex",
+      "title": "69§",
+      "text": "Tien tai tienosan liittämisestä tiekunnan tiehen tai erottamisesta siitä samoin kuin kahden tai useamman tiekunnan yhdistämisestä taikka tiekunnan jakamisesta tai lakkauttamisesta päättää tielautakunta sen mukaan, kuin tienpidon tarkoituksenmukaisen hoitamisen on katsottava vaativan. Jollei 1 momentissa tarkoitettua asiaa ole käsitelty asianomaisen tiekunnan kokouksessa, tielautakunta ei saa sitä ratkaista ennen, kuin tiekunnan kokoukselle on varattu tilaisuus lausunnon antamiseen asiasta. Vastoin tiekunnan kokouksen päätöstä älköön tiekunnan tiehen liitettäkö uutta rakentamatonta tietä.",
+      "section_number": "69",
+      "chapter_number": 7,
+      "statute_id": ""
+    },
+    {
+      "id": "d57a3caa-7ae8-40ab-b437-147d5e96ff49",
+      "node_type": "Section",
+      "publisher": "finlex",
+      "title": "70§",
+      "text": "Tieosakkaalla tai muulla asianosaisella, joka katsoo, ettei tiekunnan kokouksen päätöstä ole tehty laillisessa järjestyksessä tai ettei se muutoin ole lain mukainen taikka että päätös loukkaa hänen oikeuttaan tai tieosakkaiden yhdenvertaisuutta, on oikeus saattaa asia tielautakunnan ratkaistavaksi. Tieosakkaan tai kokouksessa saapuvilla olleen muun asianosaisen on tehtävä tätä tarkoittava vaatimus tielautakunnalle kolmessakymmenessä päivässä päätöksen tekemisestä. Jos päätös koskee sellaisen asianosaisen oikeutta, joka ei ole tieosakas eikä ole ollut kokouksessa saapuvilla, on hänelle annettava päätöksestä todisteellinen tieto, ja hänellä on oikeus saattaa asia tielautakunnan ratkaistavaksi 1 momentissa sanotussa ajassa luettuna päätöksen tiedoksiantopäivästä.",
+      "section_number": "70",
+      "chapter_number": 7,
+      "statute_id": ""
+    },
+    {
+      "id": "3d88b92b-4dc4-4b9d-9141-35496441c2c5",
+      "node_type": "Section",
+      "publisher": "finlex",
+      "title": "71§",
+      "text": "Jolleivät tieosakkaat muodosta tiekuntaa, on tienpitoa koskeva tieosakkaiden toimenpide sellaisenaan osakasta sitova vain, mikäli siitä on sovittu. Tietä koskevasta sopimuksesta tai sitoumuksesta ovat sopijapuolelle vastuussa ainoastaan ne tieosakkaat, jotka ovat tehneet sopimuksen tai menneet sitoumukseen. Milloin tieosakkaiden kesken ilmaantuu erimielisyyttä tienpitoa koskevassa asiassa, on osakkaalla oikeus saattaa asia tielautakunnan ratkaistavaksi. Jos erimielisyys koskee tieosakkaan velvollisuutta osallistua toisen osakkaan tietä varten ilman osakkaiden kesken tehtyä sopimusta suorittamien toimenpiteiden kustannuksiin tielautakunnan asiana ratkaista, onko toimenpiteen katsottava tulleen hänenkin hyväkseen, ja velvoitettava, mikäli vaatimus on tehty kolmen vuoden kuluessa toimenpiteen suorittamisesta, hänet korvaamaan kohtuullinen, enintään kuitenkin hänen saamaansa hyötyä vastaava osa kustannuksista.",
+      "section_number": "71",
+      "chapter_number": 8,
+      "statute_id": ""
+    },
+    {
+      "id": "d1dda8d5-5d1f-4268-97f6-7f91f92c1427",
+      "node_type": "Section",
+      "publisher": "finlex",
+      "title": "72§",
+      "text": "Tieosakkaat, jotka eivät muodosta tiekuntaa, kantavat ja vastaavat jäljempänä mainituin poikkeuksin yhdessä tietä koskevissa asioissa. Tieosakas saa yksin ajaa kannetta kaikkien osakkaiden hyväksi. Oikeus voi kuitenkin määrätä, että muut tiedossa olevat osakkaat tai ainakin ne heistä, joita asia erityisesti koskee, on haastettava asiaan kuultaviksi. Osakkaalla, joka yksin on ajanut kannetta, on oikeus saada muilta osakkailta näiden osuus kuluista, mikäli se, mitä oikeudenkäynnillä on voitettu, tähän riittää tai näiden osallistuminen kuluihin muutoin harkitaan kohtuulliseksi. Jos tieosakkaita on useita, voidaan heidät lunastaa oikeudenkäymiskaaren 11 luvun 14 §:n mukaisesti taikka siten, että haaste annetaan tiedoksi ainakin yhdelle osakkaalle ja oikeaksi todistettu jäljennös haasteesta haastehakemuksineen julkipannaan, niin kuin julkisista kuulutuksista on säädetty. Tämän estämättä oikeus voi asiaa käsitellessään määrätä kantajan haastamaan kuultavaksi sellaisen tieosakkaan, jolle ei ole erikseen annettu tietoa haasteesta.",
+      "section_number": "72",
+      "chapter_number": 8,
+      "statute_id": ""
+    },
+    {
+      "id": "a8382b32-72cc-4562-92e1-bff2355cd3d7",
+      "node_type": "Section",
+      "publisher": "finlex",
+      "title": "73§",
+      "text": "Yhteisestä tienpidosta johtuneesta sitoumuksesta ovat ne, jotka sitoumuksen syntyessä olivat tieosakkaita, keskenään vastuussa sen mukaan kuin he sanottuna ajankohtana olivat tieyksikköjensä perusteella velvolliset osallistumaan sen tien tai tienosan tienpitoon, mihin sitoumus kohdistuu. Milloin suoritettavaa maksua ei ole voitu osittain tai lainkaan periä joltakin vastuuvelvolliselta, vastaavat muut puuttuvasta erästä tieyksikköjensä mukaisessa suhteessa. Kiinteistöä ositettaessa siirtyy vastuu sitoumuksesta osittamisessa muodostetuille kiinteistöille näille määrättävien tieyksikköjen mukaisessa suhteessa. Jos muussa kuin 2 momentissa mainitussa tapauksessa tulee sitoumuksen tekemisen jälkeen uusi tienpitovelvollinen ja sitoumuksen aiheuttaneesta toimenpiteestä on tietä käytettäessä myös hänelle hyötyä, voidaan tieyksikköjä hänelle määrättäessä samalla päättää, että hänen on vastattava sitoumuksesta tieyksikköjensä mukaisesti, ei kuitenkaan suuremmalla kuin hänen sanotusta toimenpiteestä saamaansa hyötyä vastaavalla määrällä. Mitä edellä on säädetty sitoumuksesta, koskee myös muuhun kuin sitoumukseen perustuvaa velvoitusta.",
+      "section_number": "73",
+      "chapter_number": 9,
+      "statute_id": ""
+    },
+    {
+      "id": "97722ef7-e702-4158-8673-20c18adf845e",
+      "node_type": "Section",
+      "publisher": "finlex",
+      "title": "74§",
+      "text": "Kiinteistön siirryttyä toiselle muutoin kuin pakkohuutokaupassa on myös uusi omistaja vastuussa tämän lain voimassa ollessa edelliselle omistajalle syntyneistä, tienpidosta johtuneista velvoituksista, ei kuitenkaan edellisen omistajan laiminlyömistä rahana suoritettavista maksuista, jotka ovat olleet suorittamatta kolmea vuotta pitemmän ajan.",
+      "section_number": "74",
+      "chapter_number": 9,
+      "statute_id": ""
+    },
+    {
+      "id": "cb660678-4777-44dc-a220-299c812c9b92",
+      "node_type": "Section",
+      "publisher": "finlex",
+      "title": "75§",
+      "text": "Tieosakkaalla, joka on suorittanut maksun toisen siihen velvollisen osakkaan puolesta, on tähän kohdistuva saamisoikeus suorittamastaan maksusta. Jos kiinteistön uusi omistaja on 74 §:n nojalla joutunut suorittamaan edellisen omistajan laiminlyömän tiemaksun taikka aikaisemman, 73 §:ssä tarkoitetun sitoumuksen tai velvoituksen suorittamiseksi maksun, joka on aiheutunut tien tekemisestä tai siitä, ettei joltakin maksuvelvolliselta ole saatu perityksi tämän osuutta, on uudella omistajalla oikeus vaatia suorittamansa maksu edelliseltä omistajalta. Tässä pykälässä tarkoitetut vaatimukset käsitellään yleisessä tuomioistuimessa.",
+      "section_number": "75",
+      "chapter_number": 9,
+      "statute_id": ""
+    },
+    {
+      "id": "66ed3251-b3f7-4735-bb9a-6c309b7a7881",
+      "node_type": "Section",
+      "publisher": "finlex",
+      "title": "76§",
+      "text": "Muista kuin yleisistä varoista myönnetty laina, jonka tieosakkaat ovat päättäneet ottaa vuotta pitemmäksi ajaksi, on vuosittain suoritettavin kuoletusmaksuin takaisin maksettava kymmenen vuoden kuluessa.",
+      "section_number": "76",
+      "chapter_number": 9,
+      "statute_id": ""
+    },
+    {
+      "id": "6b6d6967-3441-4ab7-adfb-d6eefcb43c7f",
+      "node_type": "Section",
+      "publisher": "finlex",
+      "title": "77§",
+      "text": "Jos velkoja on vaatinut tiekunnalta selvän ja maksettavaksi erääntyneen velan suoritusta eikä tiekunnalla ole varoja valan maksamiseen, on toimitsijamiehen tai hoitokunnan viivytyksettä ryhdyttävä toimenpiteisiin velan suorittamista varten koottavien tiemaksujen maksuunpanemiseksi ja perimiseksi. Milloin toimitsijamies tai hoitokunta laiminlyö 1 momentissa säädetyn velvollisuutensa, on tielautakunnalla valta velkojan hakemuksesta, varattuaan toimitsijamiehelle tai hoitokunnalle tilaisuuden tulla kuulluksi, määrätä uskottu mies toimitsijamiehen tai hoitokunnan aijasta suorittamaan 1 momentissa tarkoitetut toimenpiteet. Uskotuksi mieheksi määrätyllä on oikeus saada suorittamastaan tehtävästä tiekunnalta kohtuullinen palkkio, jonka määrä, jollei siitä sovita, on tielautakunnan vahvistettava.",
+      "section_number": "77",
+      "chapter_number": 9,
+      "statute_id": ""
+    },
+    {
+      "id": "ff84124b-5c96-497c-8ff5-c8cac0f604ed",
+      "node_type": "Section",
+      "publisher": "finlex",
+      "title": "78§",
+      "text": "Suorittamatta olevat tiemaksut ja niiden korot saadaan ottaa siitä kiinteistöstä, johon tiemaksut kohdistuvat, samalla etuoikeudella, kuin kiinteistöstä menevistä julkisoikeudellisista saatavista on säädetty, jolleivät ne ole olleet maksamatta Pitempää aikaa kuin kolme vuotta erääntymispäivästä tai jos niiden perimiseen on sanotun ajan kuluessa ryhdytty ja perimistä keskeytyksettä jatkettu. Sanottu etuoikeus ei kuitenkaan aiheuta muutosta niiden oikeuteen, joilla on ennen tämän lain voimaantuloa vireille pannun hakemuksen nojalla vahvistettu kiinnitys tai ennen sanottua ajankohtaa syntynyt maksamattoman kauppahinnan panttioikeus kiinteistöön.",
+      "section_number": "78",
+      "chapter_number": 9,
+      "statute_id": ""
+    },
+    {
+      "id": "e86447ae-2589-4c5b-8f7e-2b3e36fef8f4",
+      "node_type": "Section",
+      "publisher": "finlex",
+      "title": "79§",
+      "text": "Jollei tieosakas omista sellaista kiinteistöä, josta tiemaksut saadaan ottaa etuoikeudella, voivat tieosakkaat päättää, että sanotun tieosakkaan on annettava vakuus velan tai muun velvoituksen sen osan suorittamisesta, joka vastaa tieosakkaan osuutta vastuusta, taikka että tieosakkaan on ennakolta suoritettava osuutensa velasta tai muusta velvoituksesta. Ennakolta maksettua erää ei voida käyttää eikä ulosmitata muuhun tarkoitukseen kuin kysymyksessä olevan velvoituksen maksamiseen.",
+      "section_number": "79",
+      "chapter_number": 9,
+      "statute_id": ""
+    },
+    {
+      "id": "f63519ca-22a7-44f0-b271-cdd42c0690f5",
+      "node_type": "Section",
+      "publisher": "finlex",
+      "title": "80§",
+      "text": "Sille, jolla ei ole oikeutta tiehen, voi tieosakas taikka, jos osakkaat muodostavat tiekunnan, toimitsijamies tai hoitokunta antaa luvan 26 §:ssä säädettyä korvausta vastaan käyttää tietä määrättyihin tilapäisiin kuljetuksiin. Tieosakkaat taikka tiekunta voivat kuitenkin yleisesti kieltää kaikilla tai joillakin moottori- tai hevosajoneuvoilla tapahtuvan tien käytön tai työkoneiden kuljettamisen niiltä, joilla ei ole oikeutta tiehen, mikäli 96 §:stä ei muuta johdu. Tällainen kielto ei ole esteenä tieosakkaan kiinteistölle kulkemiseen luvallisissa asioissa eikä estä toimitsijamiestä tai hoitokuntaa antamasta edellä tarkoitettua lupaa tiekunnan tien tilapäiseen käyttöön, jos siihen on painavia syitä. Milloin joku, jolla ei ole oikeutta tiehen tai 1 momentin mukaan oikeutta kulkea tiellä, tilapäisesti käyttää tietä moottori- tai hevosajoneuvoilla kulkemiseen tai työkoneen kuljettamiseen, hän on velvollinen vaadittaessa suorittamaan tien käytöstä 26 §:ssä tarkoitetun korvauksen sekä, mikäli tie on vaurioitunut, korvaamaan vahingon. Jos tietä on käytetty vastoin 1 momentissa tarkoitettua kieltoa ja siitä vaaditaan rangaistusta, on myös korvausta koskevat vaatimukset tehtävä yleisessä tuomioistuimessa.",
+      "section_number": "80",
+      "chapter_number": 10,
+      "statute_id": ""
+    },
+    {
+      "id": "cf0b250a-97eb-442d-8215-6f4aa170ad91",
+      "node_type": "Section",
+      "publisher": "finlex",
+      "title": "81§",
+      "text": "Milloin tietä ei voida tietyön, sillansortuman, maanvieremän, tulvan tai muun sellaisen syyn takia käyttää tarkoitukseensa voidaan, mikäli sopimusta asianosaisten kesken ei ole saatu aikaan, antaa oikeus järjestää toisen alueelle tilapäinen tie siksi ajaksi, kun tällaista tietä esteen takia tarvitaan. Niin ikään voidaan puutavaran tai muun tietynlaisen tavaran tilapäistä kuljettamista varten tarvittaessa antaa oikeus toisen alueen määräaikaiseen käyttämiseen. Edellä tarkoitettu oikeus voidaan myöntää vain 8 §:ssä säädetyin edellytyksin.",
+      "section_number": "81",
+      "chapter_number": 10,
+      "statute_id": ""
+    },
+    {
+      "id": "7e86d594-62fd-4755-b0ba-fe58b57805d5",
+      "node_type": "Section",
+      "publisher": "finlex",
+      "title": "82§",
+      "text": "Sille, joka hallitsee määrättyä aluetta sitä omistamatta, voidaan antaa määräajaksi tai enintään siksi ajaksi, kun hallinta jatkuu, väliaikainen kulkuoikeus tietä myöten tai muutoin toisen alueen kautta, jos se on hänelle kulkuyhteyden saamiseksi välttämätöntä eikä siitä aiheudu sellaista haittaa, kuin 8 tai 9 §:ssä sanotaan. Määräalan erottamisoikeuden haltija saa, mikäli kiinteistöllä, josta määräaika on luovutettu, on oikeus tiehen, väliaikaisesti käyttää tietä 1 momentissa tarkoitettua kulkuoikeutta hakematta.",
+      "section_number": "82",
+      "chapter_number": 10,
+      "statute_id": ""
+    },
+    {
+      "id": "76f7529f-51df-4a45-b9bc-bb646b2518ad",
+      "node_type": "Section",
+      "publisher": "finlex",
+      "title": "83§",
+      "text": "Edellä 81 ja 82 §:ssä tarkoitetusta samoin kuin vastaavanlaisesta luvattomasti tapahtuneesta tien tai alueen käyttämisestä sekä mahdollisesta vahingosta on suoritettava kohtuullinen korvaus. Jollei korvauksesta ole määrätty oikeutta annettaessa tai siitä ole sovittu eikä kysymyksen ollessa luvattomasta käytöstä vaadita rangaistusta, on korvaus tielautakunnan erikseen vahvistettava.",
+      "section_number": "83",
+      "chapter_number": 10,
+      "statute_id": ""
+    },
+    {
+      "id": "525abf10-50d1-46ea-a644-8a9654eb486c",
+      "node_type": "Section",
+      "publisher": "finlex",
+      "title": "84§",
+      "text": "Tie voidaan lakkauttaa, jos se muuttuneiden olosuhteiden johdosta on käynyt tarpeettomaksi tai jos sen aiheuttama rasitus on muodostunut suhteettoman suureksi verrattuna tiestä saatavaan hyötyyn. Oikeus hakea tien lakkauttamista on tiekunnalla tai, jollei tiekuntaa ole perustettu, kullakin tieosakkaalla taikka sen kiinteistön omistajalla, jonka kautta tie kulkee. Lakkauttamisesta päätetään tietoimituksessa noudattamalla soveltuvin osin tämän lain 5 luvun säännöksiä. Jos tien lakkauttamisesta aiheutuu vahinkoa tai haittaa sille, jolla on ollut oikeus tiehen, on vahinko tai haitta määrättävä korvattavaksi. Kun tiekunnan tie on päätetty lakkauttaa, erääntyvät sen velat maksettaviksi, ja tiekunta on katsottava purkautuneeksi, kun sen velat on maksettu. Milloin tiekunnan varat ovat velkoja suuremmat, on ylijäämä, mikäli tieosakkaiden välisistä oikeussuhteista ei muuta johdu, jaettava heidän keskensä viimeksi voimassa olleiden tieyksikköjen mukaan.",
+      "section_number": "84",
+      "chapter_number": 11,
+      "statute_id": ""
+    },
+    {
+      "id": "ce5bb735-1294-4dbe-b89e-f737799e90a1",
+      "node_type": "Section",
+      "publisher": "finlex",
+      "title": "85§",
+      "text": "Edellä 12 ja 13 §:ssä tarkoitettujen oikeuksien lakkauttamiseen on vastaavasti sovellettava 84 §:n 1 ja 2 momentin säännöksiä.",
+      "section_number": "85",
+      "chapter_number": 11,
+      "statute_id": ""
+    },
+    {
+      "id": "e7157268-684a-464f-9df9-0bf2a122f14d",
+      "node_type": "Section",
+      "publisher": "finlex",
+      "title": "86§",
+      "text": "Mitä 84 §:ssä on säädetty tien ja 85 §:ssä siinä tarkoitettujen oikeuksien lakkauttamisesta, on soveltuvin osin noudatettava myös, milloin kysymys on muunlaisesta kuin pysyvästä käyttöoikeudesta tiehen tai alueeseen.",
+      "section_number": "86",
+      "chapter_number": 11,
+      "statute_id": ""
+    },
+    {
+      "id": "8247d3dc-e7a3-4e60-a43a-8b9a48e7c747",
+      "node_type": "Section",
+      "publisher": "finlex",
+      "title": "87§",
+      "text": "Tien tultua lakkautetuksi siirtyy tienä ollut alue korvauksetta alueen omistajan hallintaan.",
+      "section_number": "87",
+      "chapter_number": 11,
+      "statute_id": ""
+    },
+    {
+      "id": "6b7e3f0d-3970-4b01-b51e-353d59b1c869",
+      "node_type": "Section",
+      "publisher": "finlex",
+      "title": "88§",
+      "text": "Tiemaksu ja kuljetusmaksu sekä niiden erääntymispäivästä kuusi sadalta suoritettava korko samoin kuin korvaus 89 §:ssä tarkoitetuista, laiminlyödyn työn tekemisestä katselmuksessa vahvistetuista kustannuksista ja katselmuskustannuksista peritään maksuunpanoluettelon otteen tai katselmuspöytäkirjan perusteella siinä järjestyksessä, kuin verojen ja muiden julkisoikeudellisten saatavain ulosotosta on säädetty, kuitenkin niin, että valitus laittoman maksuunpanon perusteella on tehtävä tielautakunnalle.",
+      "section_number": "88",
+      "chapter_number": 12,
+      "statute_id": ""
+    },
+    {
+      "id": "6ae57d4c-aa01-4cdd-9f52-9ddfa23ec2bd",
+      "node_type": "Section",
+      "publisher": "finlex",
+      "title": "89§",
+      "text": "Jos tieosakas laiminlyö tienosansa tienpidon eikä huomautuksen saatuaan heti korjaa laiminlyöntiään, on toimitsijamiehen tai hoitokunnan pyydettävä tielautakunnan puheenjohtajaa määräämään kaksi tielautakunnan jäsentä toimittamaan katselmus ja arvion perusteella vahvistamaan laiminlyödyn työn tekemisestä aiheutuvat kustannukset. Katselmukseen on tienpitovelvollisuutensa laiminlyönyt hyvissä ajoin kutsuttava. Milloin tieosakas ei viivytyksettä suorita katselmuksessa tarpeelliseksi todettua tietyötä, on toimitsijamiehen tai hoitokunnan asiana tehdä tai teettää työ. Jolleivät tieosakkaat muodosta tiekuntaa, on kullakin osakkaalla tässä säädetty oikeus. Milloin tienpitovelvollisuuden laiminlyönnistä aiheutuu ilmeistä vaaraa liikenneturvallisuudelle, voidaan sellaisen vaaran poistamiseksi tarpeellinen tietyö tehdä jo ennen katselmuksen toimittamista. Laiminlyöjä on velvollinen korvaamaan 1 tai 2 momentissa tarkoitetut kustannukset suorittamalla katselmuspöytäkirjassa vahvistetun määrän.",
+      "section_number": "89",
+      "chapter_number": 12,
+      "statute_id": ""
+    },
+    {
+      "id": "9555a4dc-dab7-4f32-b061-810617b66fbd",
+      "node_type": "Section",
+      "publisher": "finlex",
+      "title": "90§",
+      "text": "Kun maanjako-oikeudelta on haettu muutosta tämän lain nojalla tehtyyn päätökseen, joka koskee maksamiseen velvoittamista tai kysymystä siitä, onko 8, 12 tai 13 §:ssä taikka 17 §:n 2 tai 3 momentissa tarkoitettu oikeus myönnettävä, ei päätöstä voida panna täytäntöön, ennen kuin se on saanut lain voiman. Sama on voimassa 69 §:ssä tarkoitetusta sekä tien taikka 12 tai 13 §:ssä mainitun oikeuden lakkauttamista koskevasta päätöksestä. Mikäli päätökseen, joka koskee maksamiseen velvoittamista, on vain tältä osin haettu muutosta, ei tämä kuitenkaan estä päätöksen täytäntöönpanoa muilta osin. Muutoin voidaan tietoimituksessa tehty tai tielautakunnan antama päätös panna täytäntöön muutoksenhausta huolimatta, jollei maanjako-oikeus kiellä päätöksen täytäntöönpanoa.",
+      "section_number": "90",
+      "chapter_number": 12,
+      "statute_id": ""
+    },
+    {
+      "id": "cecd950f-a943-43c5-8465-c9816a131133",
+      "node_type": "Section",
+      "publisher": "finlex",
+      "title": "91§",
+      "text": "Pantaessa täytäntöön päätöstä ennen kuin se on saanut lainvoiman on täytäntöönpanon hakijan asetettava vakuus sen vahingon korvaamisesta, joka saattaa asianosaiselle aiheudu siitä, että täytäntöönpanon perusteena olevaa päätöstä valituksen johdosta muutetaan. Vakuuden asettamisesta on soveltuvin osin voimassa, mitä siitä on ulosottolaissa säädetty.",
+      "section_number": "91",
+      "chapter_number": 12,
+      "statute_id": ""
+    },
+    {
+      "id": "e078b60a-7797-4fea-ae0c-f62d25f4072f",
+      "node_type": "Section",
+      "publisher": "finlex",
+      "title": "92§",
+      "text": "Toimenpiteeseen, jonka aiheuttamasta vahingosta tai haitasta on maksettava kertakaikkinen korvaus, älköön asianosaisen suostumuksetta ryhdyttäkö, ennen kuin korvaus on suoritettu tai, sikäli kuin korvausta ei ole lainvoimaisesti vahvistettu, sen suorittamisesta korkoineen on asetettu vakuus.",
+      "section_number": "92",
+      "chapter_number": 12,
+      "statute_id": ""
+    },
+    {
+      "id": "49177bb2-f4fc-44af-b461-45bd9d20ddb7",
+      "node_type": "Section",
+      "publisher": "finlex",
+      "title": "93§",
+      "text": "Valtion varoista annetaan vuosittain avustusta sellaisen yksityisen tien kunnossapitoon, Valtionavustuksen suuruus määrätään tien kunnossapidosta aiheutuneiden todellisten hyväksyttävien kustannusten perusteella. Avustusta annetaan harkinnan mukaan vähintään 20 prosenttia ja enintään 60 prosenttia mainituista kustannuksista. Avustusta voidaan lisäksi korottaa teille, joilla on läpikulkuliikennettä, sekä teille, joiden osakasten lukumäärä tien pituuteen verrattuna on vähäinen, niin myös sellaisille teille, joiden osakasten enemmistö on erityisen vähävaraista, kullakin edellä mainitulla perusteella enintään 10 prosentilla. Jos viranomaisen lainvoimaisella päätöksellä on todettu, ettei 105 tai 106 §:ssä tarkoitetun tien kunnossapitoon voida 1 momentin 1 kohdan mukaaa antaa valtionavustusta, älköön tällaista tietä varten myöhemminkään annettako valtionavustusta sanotun 1 kohdan nojalla.",
+      "section_number": "93",
+      "chapter_number": 13,
+      "statute_id": ""
+    },
+    {
+      "id": "242e78f0-7ab0-4fd8-96fa-9851725b4125",
+      "node_type": "Section",
+      "publisher": "finlex",
+      "title": "94§",
+      "text": "Sellaisen yksityisen tien tekemiseen, jota tarkoitetaan 93 §:ssä, voidaan antaa valtionavustusta tulo- ja menoarvioon otetun määrärahan rajoissa niillä perusteilla, jotka on vahvistettu 93 §:n 2 momentissa. Tämän avustuksen osalta on myös vastaavasti noudatettava, mitä 93 §:n 3 momentissa on säädetty.",
+      "section_number": "94",
+      "chapter_number": 13,
+      "statute_id": ""
+    },
+    {
+      "id": "4170c378-5a4f-4ffa-b87d-e0f10603b47a",
+      "node_type": "Section",
+      "publisher": "finlex",
+      "title": "95§",
+      "text": "Kunnan varoista voidaan antaa avustusta asemakaava- tai rakennuskaava-alueella olevan yksityisen tien tienpitoon sekä kunnan alueella sijaitsevan sellaisen muun yksityisen tien tienpitoon, jota käytetään yleisesti muuhunkin liikenteeseen kuin tieosakkaiden hyväksi tapahtuviin kuljetuksiin tai jonka varrella on huomattavassa määrin asutusta tai jota käytetään säännöllisesti tapahtuviin henkilöiden tai elinkeinotoiminnan kannalta tärkeiden tavaroiden kuljetuksiin tahi joka on kunnan syrjäisen asutuksen yhdystienä taikka joka on näihin teihin rinnastettava. Milloin tiekunta on perustettu hoitamaan useiden teiden tienpitoa, voidaan avustus antaa tiekunnalle siinäkin tapauksessa, että 1 momentissa mainitut edellytykset ovat olemassa vain jonkin tien osalta. Niin ikään kunta voi avustaa edellä tarkoitettua tienpitoa luontoissuorituksilla ottamalla kokonaan tai osaksi suorittaakseen sillan tekemisen, tien talviaurauksen ja muun tienpitoon kuuluvan työn taikka luovuttamalla korvauksetta tienpitoainetta ja muita tarvikkeita tienpitoa varten.",
+      "section_number": "95",
+      "chapter_number": 13,
+      "statute_id": ""
+    },
+    {
+      "id": "13268c27-1075-413f-b158-827bc926696a",
+      "node_type": "Section",
+      "publisher": "finlex",
+      "title": "96§",
+      "text": "Milloin valtio tai kunta avustaa yksityisen tien tienpitoa, ei tien käyttämistä muihin kuin tieosakkaiden hyväksi tapahtuviin kuljetuksiin saada kieltää, mutta säännöllisen liikenteen harjoittamiseen tiellä tarvitaan tällöinkin tieosakkaiden suostumus. Valtion tai kunnan avustuksen ehdoksi voidaan määrätä, että tietä koskevien asioiden hoitamista varten perustetaan tiekunta.",
+      "section_number": "96",
+      "chapter_number": 13,
+      "statute_id": ""
+    },
+    {
+      "id": "30525e10-86fc-4d92-a8f9-d4e14c69f1fb",
+      "node_type": "Section",
+      "publisher": "finlex",
+      "title": "97§",
+      "text": "Jos valtion tai kunnan varoilla avustetaan yksityisen tien tienpitoa tai kunta osallistun tienpidon kustannuksiin, voidaan tielautakunnalle antaa tehtäväksi valvoa, että varat käytetään asianomaiseen tarkoitukseen. Milloin kunta avustaa tien kunnossapitoa tai osallistuu tienpidon kustannuksiin, on tielautakunnan asiana valvoa, että tie pidetään sellaisessa kunnossa, kuin 7 §:n 2 momentissa on säädetty. Jos tien kunnossapito on laiminlyöty eikä korjausta ole tielautakunnan kehoituksesta huolimatta tehty, lääninhallituksen tulee lautakunnan sitä vaatiessa velvoittaa laiminlyöjä uhkasakolla tai uhalla, että työ saadaan tehdä laiminlyöjän kustannuksella, korjaamaan laiminlyöntinsä.",
+      "section_number": "97",
+      "chapter_number": 13,
+      "statute_id": ""
+    },
+    {
+      "id": "935ba0e3-3f7e-4467-8ad6-8b8cff925101",
+      "node_type": "Section",
+      "publisher": "finlex",
+      "title": "98§",
+      "text": "Valtion tai kunnan varoista myönnettyä avustusta ei voida ulosmitata valan suoritukseksi.",
+      "section_number": "98",
+      "chapter_number": 13,
+      "statute_id": ""
+    },
+    {
+      "id": "23b8eeae-0155-4082-958c-ae1584017494",
+      "node_type": "Section",
+      "publisher": "finlex",
+      "title": "99§",
+      "text": "Tiekunta on vapaa suorittamasta valtiolle, kunnalle ja seurakunnalle veroa sille tämän lain nojalla kertyneen tulon ja omaisuuden perusteella.",
+      "section_number": "99",
+      "chapter_number": 14,
+      "statute_id": ""
+    },
+    {
+      "id": "dabdd983-21cd-4c41-bdc0-cdccc941892c",
+      "node_type": "Section",
+      "publisher": "finlex",
+      "title": "100§",
+      "text": "Tien käyttöä rajoittava kielto on annettava tiedoksi tien varrelle asetetussa selvästi näkyvässä kieltotaulussa tai ilmoittamalla kielto todisteellisesti sille, jota vastaan se halutaan saattaa voimaan.",
+      "section_number": "100",
+      "chapter_number": 14,
+      "statute_id": ""
+    },
+    {
+      "id": "8747e201-6438-409b-8a19-6b1ae08194fb",
+      "node_type": "Section",
+      "publisher": "finlex",
+      "title": "101§",
+      "text": "Milloin joku jättää noudattamatta kiellon, joka koskee tiellä kulkemista tai muutoin tien käyttämistä, taikka 18 tai 19 §:ssä tarkoitetun kiellon, on poliisiviranomaisella valta, jos kiellon rikkominen on ilmeinen, antaa virka-apua kiellon vastaisen toimenpiteen estämiseksi tai oikaisemiseksi. Mikäli oikeus virka-avun saamiseen 1 momentin mukaan ei ole ilmeinen tai kysymys on virka-avun antamisesta muissa sellaisissa tapauksissa, joista ei ole erikseen toisin säädetty, on noudatettava, mitä virka-avun antamisesta on säädetty ulosottolaissa. Hovioikeuden 2 momentissa tarkoitetussa asiassa antamaan päätökseen ei saa hakea muutosta.",
+      "section_number": "101",
+      "chapter_number": 14,
+      "statute_id": ""
+    },
+    {
+      "id": "8051179e-3ea3-4f99-8223-6b1beae50e80",
+      "node_type": "Section",
+      "publisher": "finlex",
+      "title": "102§",
+      "text": "Jos joku tahallaan tai törkeästä huolimattomuudesta:",
+      "section_number": "102",
+      "chapter_number": 14,
+      "statute_id": ""
+    },
+    {
+      "id": "0585396c-cf76-4001-9215-75fc0808a0bb",
+      "node_type": "Section",
+      "publisher": "finlex",
+      "title": "103§",
+      "text": "Milloin olosuhteet muussa kuin 28 tai 29 §:ssä mainitussa tapauksessa ovat olennaisesti muuttuneet sen jälkeen, kun tietä varten tarvittavan oikeuden luovutuksesta tai tienpitovelvollisuudesta päätettiin taikka sovittiin, on asianosaisella oikeus saattaa kysymys uudelleen tutkittavaksi tämän lain mukaan.",
+      "section_number": "103",
+      "chapter_number": 14,
+      "statute_id": ""
+    },
+    {
+      "id": "3d18ecf9-6489-49cd-bb4d-d6c215f9f1b9",
+      "node_type": "Section",
+      "publisher": "finlex",
+      "title": "104§",
+      "text": "Maanjako-oikeuteen tämän lain mukaan valittamalla saatetun jutun käsittelystä on vastaavasti voimassa, mitä jakolaissa on säädetty valitusteitse maanjako-oikeuteen tulleiden asioiden käsittelystä. Jos tielautakunnan päätöksestä on valitettu, tulee tielautakunnan puheenjohtajan tai hänen määräämänsä lautakunnan jäsenen olla saapuvilla maanjako-oikeuden istunnossa ja tuoda istuntoon asiaa tielautakunnassa käsiteltäessä kertyneet asiakirjat, jollei niitä ole maanjako-oikeudelle etukäteen toimitettu. Hänen oikeudestaan saada palkkiota sekä matkakulujen korvausta ja päivärahaa on voimassa, mitä kunnan valitseman maanjakooikeuden jäsenen osalta on säädetty. Maanjako-oikeuden antamaan päätökseen tässä laissa tarkoitetuissa asioissa saa hakea muutosta korkeimmalta oikeudelta, jos korkein oikeus oikeudenkäymiskaaren 30 luvun 3 §:n 2 kohdan nojalla myöntää muutoksenhakuluvan. Tällöin on noudatettava, mitä muutoksen hakemisesta ja sen oikeusvaikutuksista on säädetty hovioikeuden tuomion tai päätöksen osalta riita-asiassa, joka on pantu vireille yleisessä alioikeudessa. Tyytymättömyyttä päätökseen ei kuitenkaan tarvitse erileseen ilmoittaa.",
+      "section_number": "104",
+      "chapter_number": 14,
+      "statute_id": ""
+    },
+    {
+      "id": "10bd2aca-0b76-47fd-8e2f-1869e91b82d8",
+      "node_type": "Section",
+      "publisher": "finlex",
+      "title": "105§",
+      "text": "Ne kunnan- ja kylätiet, jotka eivät ole yleisistä teistä annetun lain voimaanpanosta 21 päivänä toukokuuta 1954 annetun lain (244/54) mukaan muuttuneet paikallisteiksi, on katsottava tässä laissa tarkoitetuiksi yksityisiksi teiksi, tämän lain voimaantulosta lukien, jos kysymys niiden ottamisesta paikallisteiksi on sitä ennen ratkaistu, sekä muussa tapauksessa siitä alkaen, jolloin on lopullisesti päätetty, ettei niitä oteta paikallisteiksi. Milloin kylätie 1 momentin nojalla on muuttunut yksityiseksi tieksi, muodostavat kylätien osakkaat tässä laissa tarkoitetun tiekunnan ja kylätien hoitokunta sekä tieosakkaille vahvistetut tieyksiköt on katsottava tämän lain mukaiseksi hoitokunnaksi ja siinä tarkoitetuiksi tieyksiköiksi. Kun kunnantie 1 momentin mukaan on muuttunut yksityiseksi tieksi, on tielautakunnan viivytyksettä kutsuttava asianosaiset 6 luvussa tarkoitettuun toimitukseen, jossa on päätettävä tienpitoa koskevista kysymyksistä.",
+      "section_number": "105",
+      "chapter_number": 14,
+      "statute_id": ""
+    },
+    {
+      "id": "4e14296d-33a6-4b90-9672-1a247d9b07b7",
+      "node_type": "Section",
+      "publisher": "finlex",
+      "title": "106§",
+      "text": "Mitä 105 §:n 1 momentissa on säädetty, on vastaavasti sovellettava sellaisiin asutusteihin ja sanotussa momentissa mainitun lain 3 §:n 3 momentissa tarkoitettuihin kaupunkien ja kauppaloiden alueella oleviin teihin, joiden osalta ehdotus niiden ottamisesta paikallisteiksi on lopullisesti hylätty. Tässä tarkoitettujen asutusteiden osalta on myös noudatettava 105 §:n 3 momentin säännöksiä.",
+      "section_number": "106",
+      "chapter_number": 14,
+      "statute_id": ""
+    },
+    {
+      "id": "0b5f2271-2a8b-4bc4-999d-c743cbdd09c4",
+      "node_type": "Section",
+      "publisher": "finlex",
+      "title": "107§",
+      "text": "Tätä lakia on sovellettava 105 ja 106 §:ssä tarkoitettujen teiden lisäksi tilusteistä 3 päivänä toukokuuta 1927 annetun lain (167/27) nojalla tielautakunnan päätöksellä perustettuihin sekä muihin sellaisiin tämän lain voimaan tullessa oleviin yksityisiin teihin, joihin jollakin ennestään sopimuksen nojalla tai muulla perusteella on pysyvä käyttö-oikeus tai joihin on tämän lain mukaisesti saatu 8 §:ssä tarkoitettu tieoikeus. Jollei kellään ole tiehen tällaista käyttöoikeutta, sovelletaan tiehen vain tämän lain 11 luvun säännöksiä. Tämän lain voimaantulosta ei aiheudu muutosta sitä ennen syntyneeseen tietä koskevan oikeuden tai velvollisuuden käsittävään oikeussuhteeseen. Jos tienpitovelvollisuus on aikaisemmin jaettu suhdelukujen mukaan, määräytyvät tieyksiköt näitä suhdelukuja vastaavasti.",
+      "section_number": "107",
+      "chapter_number": 14,
+      "statute_id": ""
+    },
+    {
+      "id": "00cc0250-b9c6-434b-9608-9a1f1ad859d8",
+      "node_type": "Section",
+      "publisher": "finlex",
+      "title": "108§",
+      "text": "Tilustietä sekä tämän lain mukaisesti yksityiseksi tieksi muuttunutta kylä tai kunnantietä koskeva asia, joka tämän lain voimaan tullessa on vireillä tielautakunnassa, lääninhallituksessa tai tuomioistuimessa taikka välimiesmenettelyssä, on käsiteltävä loppuun aikaisemman lain mukaan.",
+      "section_number": "108",
+      "chapter_number": 14,
+      "statute_id": ""
+    },
+    {
+      "id": "8afd6207-f66b-4be6-a563-a66b84e0b60e",
+      "node_type": "Section",
+      "publisher": "finlex",
+      "title": "109§",
+      "text": "Tarkempia määräyksiä tienpitoon valtion varoista annettavasta avustuksesta sekä tämän lain täytäntöönpanosta ja soveltamisesta muutoinkin annetaan tarvittaessa asetuksella.",
+      "section_number": "109",
+      "chapter_number": 14,
+      "statute_id": ""
+    },
+    {
+      "id": "83084a87-ac63-4020-a40b-8e622f4154bd",
+      "node_type": "Section",
+      "publisher": "finlex",
+      "title": "110§",
+      "text": "Tämä laki tulee voimaan 1 päivänä tammikuuta 1963; ja sillä kumotaan tilusteistä 3 päivänä toukokuuta 1927 annettu laki (167/27) ja sen toimeenpanemisesta 11 päivänä marraskuuta 1927 annettu asetus (295/ 27) sekä eräistä naapuruussuhteista 13 päivänä helmikuuta 1920 annetun lain (26/20) 15 §.",
+      "section_number": "110",
+      "chapter_number": 14,
+      "statute_id": ""
+    }
+  ],
+  "clauses": [
+    {
+      "id": "723360b5-5ca0-4587-b5f1-bc96068c5c7d",
+      "node_type": "Clause",
+      "publisher": "finlex",
+      "title": "§ 48 mom 1",
+      "text": "1) saako kiinteistön alueen kautta toista kiinteistöä varten tehdä tien ja onko perustettava tieoikeus ennestään olevaan tiehen;",
+      "clause_number": 1,
+      "section_number": "48",
+      "statute_id": ""
+    },
+    {
+      "id": "5eec163c-18ee-469b-ad70-659cb0acf466",
+      "node_type": "Clause",
+      "publisher": "finlex",
+      "title": "§ 48 mom 2",
+      "text": "2) mikä tien asema ja leveys on oleva;",
+      "clause_number": 2,
+      "section_number": "48",
+      "statute_id": ""
+    },
+    {
+      "id": "60551ac9-49f0-452d-b847-ce3835bf8aa2",
+      "node_type": "Clause",
+      "publisher": "finlex",
+      "title": "§ 48 mom 3",
+      "text": "3) onko oikeutta tiehen rajoitettava 11 §:ssä säädetyllä tavalla;",
+      "clause_number": 3,
+      "section_number": "48",
+      "statute_id": ""
+    },
+    {
+      "id": "d8d709a3-d6d5-46b1-ba2e-78a948d4a669",
+      "node_type": "Clause",
+      "publisher": "finlex",
+      "title": "§ 48 mom 4",
+      "text": "4) minkä ajan kuluessa tie on rakennettava valmiiksi, jos määräajan asettaminen katsotaan tarpeelliseksi;",
+      "clause_number": 4,
+      "section_number": "48",
+      "statute_id": ""
+    },
+    {
+      "id": "b75d5fa2-c7db-41be-99ef-e100d66443e9",
+      "node_type": "Clause",
+      "publisher": "finlex",
+      "title": "§ 48 mom 5",
+      "text": "5) ketkä ovat velvolliset tieosakkaina tekemään ja kunnossapitämään tietä;",
+      "clause_number": 5,
+      "section_number": "48",
+      "statute_id": ""
+    },
+    {
+      "id": "8e6fc1cd-fafc-4b1d-92d8-a235a4971fda",
+      "node_type": "Clause",
+      "publisher": "finlex",
+      "title": "§ 48 mom 6",
+      "text": "6) vahvistettava tieosakkaille tieyksiköt sekä määrättävä, suoritetaanko tienpito yhteisesti vai tienjaon mukaan, ja, viimeksi mainitussa tapauksessa, tehtävä jakokirja tai selitettävä jako pöytäkirjassa sekä lisäksi osoitettava tienosat maastossa;",
+      "clause_number": 6,
+      "section_number": "48",
+      "statute_id": ""
+    },
+    {
+      "id": "8f328123-c8ec-45b4-b28c-0cc6d10fd502",
+      "node_type": "Clause",
+      "publisher": "finlex",
+      "title": "§ 48 mom 7",
+      "text": "7) onko tienpitovelvollisuuden täyttämistä tai tien käyttämistä varten annettava 12 tai 13 §:ssä tarkoitettu oikeus;",
+      "clause_number": 7,
+      "section_number": "48",
+      "statute_id": ""
+    },
+    {
+      "id": "7d59bc3d-08a5-4a8b-8589-fa2fcb626d70",
+      "node_type": "Clause",
+      "publisher": "finlex",
+      "title": "§ 48 mom 3",
+      "text": "8) onko ja minkä laajuisena annettava 17 §:n 2 tai 3 momentissa tarkoitettu oikeus taikka 18 §:ssä tai 19 §:n 1 momentissa mainittu kielto;",
+      "clause_number": 3,
+      "section_number": "48",
+      "statute_id": ""
+    },
+    {
+      "id": "283e9293-bdf0-45df-904c-8d14d569bbb4",
+      "node_type": "Clause",
+      "publisher": "finlex",
+      "title": "§ 48 mom 8",
+      "text": "8) onko ja minkä laajuisena annettava 17 §:n 2 tai 3 momentissa tarkoitettu oikeus taikka 18 §:ssä tai 19 §:n 1 momentissa mainittu kielto;",
+      "clause_number": 8,
+      "section_number": "48",
+      "statute_id": ""
+    },
+    {
+      "id": "f874afce-c005-4183-85de-50ec10bb3057",
+      "node_type": "Clause",
+      "publisher": "finlex",
+      "title": "§ 48 mom 9",
+      "text": "9) onko 25 §:ssä tarkoitetusta puutavaran kuljetuksesta metsätiellä perittävä kuljetusmaksu ja, jos sellainen päätetään kannettavaksi, määrättävä sen suoritusperusteet;",
+      "clause_number": 9,
+      "section_number": "48",
+      "statute_id": ""
+    },
+    {
+      "id": "9b7e28af-c60e-479f-ae8c-0157da388dbd",
+      "node_type": "Clause",
+      "publisher": "finlex",
+      "title": "§ 48 mom 10",
+      "text": "10) onko korvausta 4 luvun säännösten mukaan suoritettava sekä, jos sitä on suoritettava, kenelle, kuinka paljon ja minkä ajan kuluessa, ja kuuluuko korvausvelvollisuus tieosakkaille yhteisesti vai ainoastaan jollekin tai joillekin heistä;",
+      "clause_number": 10,
+      "section_number": "48",
+      "statute_id": ""
+    },
+    {
+      "id": "3cd8354f-d832-4eea-a199-89420c1b6827",
+      "node_type": "Clause",
+      "publisher": "finlex",
+      "title": "§ 48 mom 11",
+      "text": "11) kuinka toimituskustannukset on jaettava asianosaisten kesken; sekä",
+      "clause_number": 11,
+      "section_number": "48",
+      "statute_id": ""
+    },
+    {
+      "id": "a6aceeef-9338-43ce-8bc6-ed35870d4108",
+      "node_type": "Clause",
+      "publisher": "finlex",
+      "title": "§ 48 mom 12",
+      "text": "12) muut tietoimituksessa ratkaistaviin asioihin kuuluvat, asianosaisten tai toimitusmiesten ehdotuksesta käsiteltäviksi otetut kysymykset.",
+      "clause_number": 12,
+      "section_number": "48",
+      "statute_id": ""
+    },
+    {
+      "id": "2035d88b-9272-4a57-9241-d3e63554979d",
+      "node_type": "Clause",
+      "publisher": "finlex",
+      "title": "§ 52 mom 2",
+      "text": "1) tämän lain 9 ja 10 §:ssä tarkoitettujen oikeuksien myöntämisestä sekä 17 §:n 2 momentin edellyttämistä toimenpiteistä;",
+      "clause_number": 2,
+      "section_number": "52",
+      "statute_id": ""
+    },
+    {
+      "id": "3c8de459-b8ca-4cf9-9d96-e1d0f3274327",
+      "node_type": "Clause",
+      "publisher": "finlex",
+      "title": "§ 52 mom 1",
+      "text": "1) tämän lain 9 ja 10 §:ssä tarkoitettujen oikeuksien myöntämisestä sekä 17 §:n 2 momentin edellyttämistä toimenpiteistä;",
+      "clause_number": 1,
+      "section_number": "52",
+      "statute_id": ""
+    },
+    {
+      "id": "84194943-db7b-49b0-8983-4cef683419de",
+      "node_type": "Clause",
+      "publisher": "finlex",
+      "title": "§ 52 mom 2",
+      "text": "2) edellä 18 ja 19 §:ssä mainituista kielloista tai niiden kumoamisesta 20 §:n mukaan;",
+      "clause_number": 2,
+      "section_number": "52",
+      "statute_id": ""
+    },
+    {
+      "id": "1dd923fb-eba7-4ac3-823a-77cf9b9c2d5f",
+      "node_type": "Clause",
+      "publisher": "finlex",
+      "title": "§ 52 mom 3",
+      "text": "3) edellä 24, 31, 33 ja 34 §:ssä tarkoitetuista korvauksista;",
+      "clause_number": 3,
+      "section_number": "52",
+      "statute_id": ""
+    },
+    {
+      "id": "6782d97d-bf2e-4c7c-ba87-dc99c51999aa",
+      "node_type": "Clause",
+      "publisher": "finlex",
+      "title": "§ 52 mom 4",
+      "text": "4) tieyksikköjen vahvistamisesta 23 §:n mukaan, jos tielautakunta on 9 tai 10 §:n nojalla myöntänyt oikeuden tiehen taikka jollei tieyksikköjä tai niitä vastaavia suhdelukuja muutoin ole ennestään vahvistettu tai tiekunnan päätöksellä 64 §:n mukaan määrätty;",
+      "clause_number": 4,
+      "section_number": "52",
+      "statute_id": ""
+    },
+    {
+      "id": "e1218802-b9c7-4581-8cda-60a8b8c5012e",
+      "node_type": "Clause",
+      "publisher": "finlex",
+      "title": "§ 52 mom 5",
+      "text": "5) tien jakamisesta 32 §:ssä säädetyllä tavalla, milloin tienpito on suoritettava tienjaon perusteella;",
+      "clause_number": 5,
+      "section_number": "52",
+      "statute_id": ""
+    },
+    {
+      "id": "4af9f5fd-1859-4246-8367-0842d915eb80",
+      "node_type": "Clause",
+      "publisher": "finlex",
+      "title": "§ 52 mom 6",
+      "text": "6) lautakunnalle tehdyn esityksen johdosta tai sen omasta aloitteesta tiekunnan perustamisesta noudattamalla soveltuvin osin, mitä 50 §:ssä on säädetty, sekä 69 §:ssä tarkoitetuista toimenpiteistä;",
+      "clause_number": 6,
+      "section_number": "52",
+      "statute_id": ""
+    },
+    {
+      "id": "b9de8a64-be8b-4ea0-aeae-57d2d3824b5b",
+      "node_type": "Clause",
+      "publisher": "finlex",
+      "title": "§ 52 mom 3",
+      "text": "7) toimitsijamiehen tai hoitokunnan jäsenten taikka näiden varamiesten määräämisestä 58 §:n 3 momentissa tarkoitetussa tapauksessa;",
+      "clause_number": 3,
+      "section_number": "52",
+      "statute_id": ""
+    },
+    {
+      "id": "38ff691d-dfaa-4955-8a0c-0aa733c13584",
+      "node_type": "Clause",
+      "publisher": "finlex",
+      "title": "§ 52 mom 7",
+      "text": "7) toimitsijamiehen tai hoitokunnan jäsenten taikka näiden varamiesten määräämisestä 58 §:n 3 momentissa tarkoitetussa tapauksessa;",
+      "clause_number": 7,
+      "section_number": "52",
+      "statute_id": ""
+    },
+    {
+      "id": "ff3cd084-8a8b-4d57-8a99-c02aa3a1ccc2",
+      "node_type": "Clause",
+      "publisher": "finlex",
+      "title": "§ 52 mom 8",
+      "text": "8) siitä, onko puutavaran kuljetuksesta metsätiellä tiemaksujen asemesta perittävä kuljetusmaksuja, niin myös kuljetusmaksujen perusteista ja niihin tehtävistä muutoksista, ottaen huomioon 25, 26 ja 30 §:n säännökset;",
+      "clause_number": 8,
+      "section_number": "52",
+      "statute_id": ""
+    },
+    {
+      "id": "54352902-11f0-47c2-8941-169c62774ea1",
+      "node_type": "Clause",
+      "publisher": "finlex",
+      "title": "§ 52 mom 9",
+      "text": "9) asioista, jotka tieosakkaat tai muut asianosaiset 70 §:n nojalla saattavat tielautakunnan ratkaistaviksi;",
+      "clause_number": 9,
+      "section_number": "52",
+      "statute_id": ""
+    },
+    {
+      "id": "9be93f3a-e20e-40fd-882c-db031fd82dc5",
+      "node_type": "Clause",
+      "publisher": "finlex",
+      "title": "§ 52 mom 10",
+      "text": "10) jäljempänä 71 §:ssä tarkoitetuista tienpitoa koskevista tieosakkaiden erimielisyyksistä, milloin he eivät muodosta tiekuntaa;",
+      "clause_number": 10,
+      "section_number": "52",
+      "statute_id": ""
+    },
+    {
+      "id": "75d2651e-21b5-45c2-ad4e-9181a0b2eb42",
+      "node_type": "Clause",
+      "publisher": "finlex",
+      "title": "§ 52 mom 3",
+      "text": "11) jäljempänä 10 luvussa mainituista asioista 80 §:n 3 momentissa tarkoitettuja asioita lukuun ottamatta; sekä",
+      "clause_number": 3,
+      "section_number": "52",
+      "statute_id": ""
+    },
+    {
+      "id": "c5c8a1d8-a6f5-4cc4-9fd9-8cfcf3576339",
+      "node_type": "Clause",
+      "publisher": "finlex",
+      "title": "§ 52 mom 11",
+      "text": "11) jäljempänä 10 luvussa mainituista asioista 80 §:n 3 momentissa tarkoitettuja asioita lukuun ottamatta; sekä",
+      "clause_number": 11,
+      "section_number": "52",
+      "statute_id": ""
+    },
+    {
+      "id": "6de44c36-ef26-4e2d-844e-e6079e3e3bc4",
+      "node_type": "Clause",
+      "publisher": "finlex",
+      "title": "§ 52 mom 12",
+      "text": "12) muista tielautakunnalle tämän lain mukaan kuuluvista asioista.",
+      "clause_number": 12,
+      "section_number": "52",
+      "statute_id": ""
+    },
+    {
+      "id": "cf1984f7-b0b1-4dd6-97c9-37d812375ef4",
+      "node_type": "Clause",
+      "publisher": "finlex",
+      "title": "§ 64 mom 1",
+      "text": "1) tieoikeuden antamisesta 9 §:n mukaisesti tai oikeuden myöntämisestä elinkeinonharjoittajalle käyttää tietä 10 §:n mukaan;",
+      "clause_number": 1,
+      "section_number": "64",
+      "statute_id": ""
+    },
+    {
+      "id": "53ec8873-9eba-4a45-9b3e-181e5fc3a4bb",
+      "node_type": "Clause",
+      "publisher": "finlex",
+      "title": "§ 64 mom 2",
+      "text": "2) tieyksikköjen ja kuljetusmaksujen määräämisestä ja muuttamisesta 26, 28, 29 ja 30 §:n mukaisesti;",
+      "clause_number": 2,
+      "section_number": "64",
+      "statute_id": ""
+    },
+    {
+      "id": "7e965286-08e9-4af8-bf8e-4458d5cad50b",
+      "node_type": "Clause",
+      "publisher": "finlex",
+      "title": "§ 64 mom 3",
+      "text": "3) talousarvion vahvistamisesta seuraavaa varainhoitovuotta varten;",
+      "clause_number": 3,
+      "section_number": "64",
+      "statute_id": ""
+    },
+    {
+      "id": "f1cedcf6-92c1-4336-948f-8890dd1c05d0",
+      "node_type": "Clause",
+      "publisher": "finlex",
+      "title": "§ 64 mom 4",
+      "text": "4) tie- ja kuljetusmaksujen maksuunpanoluettelon vahvistamisesta;",
+      "clause_number": 4,
+      "section_number": "64",
+      "statute_id": ""
+    },
+    {
+      "id": "e294452b-861a-4e4d-9132-8f9d7f61aa49",
+      "node_type": "Clause",
+      "publisher": "finlex",
+      "title": "§ 64 mom 5",
+      "text": "5) rahalainan ottamisesta noudattamalla, mitä 76 §:ssä on säädetty;",
+      "clause_number": 5,
+      "section_number": "64",
+      "statute_id": ""
+    },
+    {
+      "id": "df700865-a293-40ae-934a-bf14667c1abe",
+      "node_type": "Clause",
+      "publisher": "finlex",
+      "title": "§ 64 mom 6",
+      "text": "6) edellä 12 ja 13 §:ssä tarkoitettujen oikeuksien hankkimisesta sekä, milloin syytä on, tienpitoa koskevien ohjeiden antamisesta toimitsijamiehelle tai hoitokunnalle;",
+      "clause_number": 6,
+      "section_number": "64",
+      "statute_id": ""
+    },
+    {
+      "id": "cc78d122-0895-4082-9aa3-19e96dc3caf5",
+      "node_type": "Clause",
+      "publisher": "finlex",
+      "title": "§ 64 mom 7",
+      "text": "7) saadaanko ja millä ehdoin tiekunnan tiehen liittyvän tien kunnossapito osaksi tai kokonaan ottaa tiekunnan toimesta hoidettavaksi;",
+      "clause_number": 7,
+      "section_number": "64",
+      "statute_id": ""
+    },
+    {
+      "id": "693fe8ad-379d-43de-a194-043d30d0d280",
+      "node_type": "Clause",
+      "publisher": "finlex",
+      "title": "§ 64 mom 8",
+      "text": "8) toimitsijamiehen ja tämän varamiehen tai hoitokunnan jäsenten ja varajäsenten valitsemisesta;",
+      "clause_number": 8,
+      "section_number": "64",
+      "statute_id": ""
+    },
+    {
+      "id": "09276e7b-b5f6-4c50-ba84-b35ee864b50d",
+      "node_type": "Clause",
+      "publisher": "finlex",
+      "title": "§ 64 mom 9",
+      "text": "9) tiekunnan varainhoitovuoden alkamis- ja päättymisajasta;",
+      "clause_number": 9,
+      "section_number": "64",
+      "statute_id": ""
+    },
+    {
+      "id": "f8e0174c-032c-4bfa-8f62-1290fb85dbaf",
+      "node_type": "Clause",
+      "publisher": "finlex",
+      "title": "§ 64 mom 10",
+      "text": "10) tilityksen tarkastamisesta ja hyväksymisestä edelliseltä varainhoitovuodelta taikka, jollei tilitystä asioiden laajuuden vuoksi tai muusta syystä voida kokouksessa tarkastaa tai siinä hyväksyä, kahden henkilön määräämisestä ennakolta tai jäljestäpäin tarkastamaan tilitys ja antamaan kokoukselle selostus tarkastuksen tuloksesta; sekä",
+      "clause_number": 10,
+      "section_number": "64",
+      "statute_id": ""
+    },
+    {
+      "id": "0cf5d9aa-0be9-4277-9856-6294cf8f6fce",
+      "node_type": "Clause",
+      "publisher": "finlex",
+      "title": "§ 64 mom 1",
+      "text": "11) sellaisen kiellon antamisesta, josta säädetään 80 §:n 1 momentissa.",
+      "clause_number": 1,
+      "section_number": "64",
+      "statute_id": ""
+    },
+    {
+      "id": "0ec0c122-2fae-4c9c-9006-b298fa658a24",
+      "node_type": "Clause",
+      "publisher": "finlex",
+      "title": "§ 64 mom 11",
+      "text": "11) sellaisen kiellon antamisesta, josta säädetään 80 §:n 1 momentissa.",
+      "clause_number": 11,
+      "section_number": "64",
+      "statute_id": ""
+    },
+    {
+      "id": "e1013b8e-df48-4e98-8823-03bdfc8dfc6d",
+      "node_type": "Clause",
+      "publisher": "finlex",
+      "title": "§ 67 mom 1",
+      "text": "1) käyttää joko itse tai valtuuttamansa asiamiehen kautta tiekunnan puhevaltaa tuomioistuimessa ja viranomaisen luona sekä edustaa muutoin tiekuntaa;",
+      "clause_number": 1,
+      "section_number": "67",
+      "statute_id": ""
+    },
+    {
+      "id": "2488db2c-9713-4d74-b6e8-c6166df553d4",
+      "node_type": "Clause",
+      "publisher": "finlex",
+      "title": "§ 67 mom 2",
+      "text": "2) pitää tiliä tiekunnan tuloista, menoista ja varoista sekä esittää tarkastettavaksi tilitys edelliseltä varainhoitovuodelta;",
+      "clause_number": 2,
+      "section_number": "67",
+      "statute_id": ""
+    },
+    {
+      "id": "2e8fa7b3-450e-42d4-b89f-1f562bba1c56",
+      "node_type": "Clause",
+      "publisher": "finlex",
+      "title": "§ 67 mom 3",
+      "text": "3) valmistaa ehdotus tiekunnan talousarvioksi seuraavaa varainhoitovuotta varten ja esittää se tiekunnan kokouksessa vahvistettavaksi;",
+      "clause_number": 3,
+      "section_number": "67",
+      "statute_id": ""
+    },
+    {
+      "id": "191802b4-0e0e-4add-bfe0-c47163fb9e5b",
+      "node_type": "Clause",
+      "publisher": "finlex",
+      "title": "§ 67 mom 4",
+      "text": "4) laatia tiekunnan kokouksen vahvistettavaksi ehdotus tieyksikköjen tai kuljetusmaksujen muutoksiksi taikka niiden uudelleen määräämiseksi 26, 28, 29 ja 30 §:ssä tarkoitetuissa tapauksissa;",
+      "clause_number": 4,
+      "section_number": "67",
+      "statute_id": ""
+    },
+    {
+      "id": "970b6402-7b18-4454-9c32-6c6ae8e8f24d",
+      "node_type": "Clause",
+      "publisher": "finlex",
+      "title": "§ 67 mom 5",
+      "text": "5) valmistaa tiekunnan kokouksen vahvistettavaksi maksuunpanoluettelo, joka osoittaa tieyksikköä vastaavan tiemaksun suuruuden, kunkin tieosakkaan suoritettavaksi tieyksikköjen perusteella lasketun tiemaksun määrän, koottavien tiemaksujen yhteismäärän ja niiden suorittamisajan, sekä samoin valmistaa, milloin on perittävä 25 tai 26 §:ssä mainittuja kuljetusmaksuja, niistä maksuunpanoluettelo;",
+      "clause_number": 5,
+      "section_number": "67",
+      "statute_id": ""
+    },
+    {
+      "id": "8ee7b4a8-029a-4192-90bf-ce458834c204",
+      "node_type": "Clause",
+      "publisher": "finlex",
+      "title": "§ 67 mom 6",
+      "text": "6) huolehtia vahvistettujen tie- ja kuljetusmaksujen perimisestä sekä hoitaa muutoinkin tiekunnan taloutta ja varoja;",
+      "clause_number": 6,
+      "section_number": "67",
+      "statute_id": ""
+    },
+    {
+      "id": "5a19deaa-a128-43bb-b0f7-4aa20f50ae6b",
+      "node_type": "Clause",
+      "publisher": "finlex",
+      "title": "§ 67 mom 2",
+      "text": "7) ilmoittaa tielautakunnalle 56 §:n 2 momentissa tarkoitettuun luetteloon merkittävät tiedot;",
+      "clause_number": 2,
+      "section_number": "67",
+      "statute_id": ""
+    },
+    {
+      "id": "a85a3716-c83f-4ee3-a778-0afc42a29ca7",
+      "node_type": "Clause",
+      "publisher": "finlex",
+      "title": "§ 67 mom 7",
+      "text": "7) ilmoittaa tielautakunnalle 56 §:n 2 momentissa tarkoitettuun luetteloon merkittävät tiedot;",
+      "clause_number": 7,
+      "section_number": "67",
+      "statute_id": ""
+    },
+    {
+      "id": "8bf15438-ad64-429a-b108-1a6dd50a5243",
+      "node_type": "Clause",
+      "publisher": "finlex",
+      "title": "§ 67 mom 8",
+      "text": "8) kieltää toistaiseksi tai määräajaksi tiellä tai sen osalla, joka roudan sulamisen tai sateen vuoksi taikka muusta sellaisesta syystä on rakenteeltaan heikentynyt, tien kuntoa vaarantava käyttö tai rajoittaa sitä;",
+      "clause_number": 8,
+      "section_number": "67",
+      "statute_id": ""
+    },
+    {
+      "id": "c327fa9c-8fc7-486d-95e5-96bc5291ca42",
+      "node_type": "Clause",
+      "publisher": "finlex",
+      "title": "§ 67 mom 9",
+      "text": "9) määrätä, milloin siihen katsotaan olevan syytä, sillan tai lautan suurin sallittu kuormitus;",
+      "clause_number": 9,
+      "section_number": "67",
+      "statute_id": ""
+    },
+    {
+      "id": "232c00cc-68bf-464c-a8d5-bdf803fc1718",
+      "node_type": "Clause",
+      "publisher": "finlex",
+      "title": "§ 67 mom 1",
+      "text": "10) antaa, tarvittaessa määräämillään ehdoilla lupa 80 §:n 1 momentissa tarkoitettuun tien tilapäiseen käyttämiseen tai sillan tai lautan sallitun kuormituksen ylittämiseen taikka muuhun erityiseen kuljetukseen, joka saattaa vaurioittaa tietä; sekä",
+      "clause_number": 1,
+      "section_number": "67",
+      "statute_id": ""
+    },
+    {
+      "id": "057c1fbd-0a58-4864-9804-cfc6cdc82376",
+      "node_type": "Clause",
+      "publisher": "finlex",
+      "title": "§ 67 mom 10",
+      "text": "10) antaa, tarvittaessa määräämillään ehdoilla lupa 80 §:n 1 momentissa tarkoitettuun tien tilapäiseen käyttämiseen tai sillan tai lautan sallitun kuormituksen ylittämiseen taikka muuhun erityiseen kuljetukseen, joka saattaa vaurioittaa tietä; sekä",
+      "clause_number": 10,
+      "section_number": "67",
+      "statute_id": ""
+    },
+    {
+      "id": "b6eb3e5c-0c17-456b-b708-a4f19ea8eeb0",
+      "node_type": "Clause",
+      "publisher": "finlex",
+      "title": "§ 67 mom 11",
+      "text": "11) huolehtia siitä, että tie pidetään kunnossa, sekä muista, yhteistä tienpitoa koskevista tehtävistä ja asioista tämän lain ja tiekunnan kokouksessa ehkä annettujen ohjeiden mukaan.",
+      "clause_number": 11,
+      "section_number": "67",
+      "statute_id": ""
+    },
+    {
+      "id": "8f052854-5df8-4450-b035-20cd8ffcba21",
+      "node_type": "Clause",
+      "publisher": "finlex",
+      "title": "§ 93 mom 1",
+      "text": "1) jota tarkoitetaan 105 ja 106 §:ssä, ei kuitenkaan, milloin tie on vähämerkityksinen;",
+      "clause_number": 1,
+      "section_number": "93",
+      "statute_id": ""
+    },
+    {
+      "id": "e33af986-95f7-434a-9a23-41b656955024",
+      "node_type": "Clause",
+      "publisher": "finlex",
+      "title": "§ 93 mom 2",
+      "text": "2) jolla on tietyn paikkakunnan liikenteessä huomattava merkitys; taikka",
+      "clause_number": 2,
+      "section_number": "93",
+      "statute_id": ""
+    },
+    {
+      "id": "78fdb397-9324-4b14-8158-b5bb398ff53a",
+      "node_type": "Clause",
+      "publisher": "finlex",
+      "title": "§ 93 mom 3",
+      "text": "3) joka on yhdystienä tarpeellinen syrjäiselle asutukselle ja josta aiheutuu tieosakkaille tien pituuden vuoksi tai muusta sellaisesta syystä erityisen rasittavia kustannuksia.",
+      "clause_number": 3,
+      "section_number": "93",
+      "statute_id": ""
+    },
+    {
+      "id": "b78d4b9f-7cd1-4cc2-953a-a815d9d003cf",
+      "node_type": "Clause",
+      "publisher": "finlex",
+      "title": "§ 102 mom 1",
+      "text": "1) rikkoo 18 tai 19 §:n taikka 67 §:n 8 kohdan nojalla annetun kiellon;",
+      "clause_number": 1,
+      "section_number": "102",
+      "statute_id": ""
+    },
+    {
+      "id": "816e3b56-7118-41f7-8922-1527dfc7b0b6",
+      "node_type": "Clause",
+      "publisher": "finlex",
+      "title": "§ 102 mom 2",
+      "text": "2) olematta tieosakas ilman lupaa kuljettaa tiellä sellaista konetta, ajoneuvoa tai kuormaa, joka painonsa tai rakenteensa vuoksi vaurioittaa tietä;",
+      "clause_number": 2,
+      "section_number": "102",
+      "statute_id": ""
+    },
+    {
+      "id": "d703bee9-b8f8-4491-8cb3-d9e03e894921",
+      "node_type": "Clause",
+      "publisher": "finlex",
+      "title": "§ 102 mom 3",
+      "text": "3) luvatta vie sillalle tai lautalle raskaamman ajoneuvon tai kuorman, kuin on ilmoitettu sallituksi; taikka",
+      "clause_number": 3,
+      "section_number": "102",
+      "statute_id": ""
+    },
+    {
+      "id": "9f815961-e107-4a69-a8e7-c02b52a72b98",
+      "node_type": "Clause",
+      "publisher": "finlex",
+      "title": "§ 102 mom 4",
+      "text": "4) vastoin kieltoa käyttää tietä, jonka käyttöön hänellä ei ole oikeutta, rangaistakoon sakolla.",
+      "clause_number": 4,
+      "section_number": "102",
+      "statute_id": ""
+    }
+  ],
+  "cross_references": [
+    {
+      "raw_text": "§ 2 momentissa t",
+      "statute_id": "",
+      "section_number": "2 momentissa t",
+      "clause_number": null,
+      "resolution_confidence": 0.0
+    }
+  ],
+  "raw_html_path": "C:\\Users\\danit\\finance-hack\\aalto-hackaton-2026\\data\\raw\\finlex\\Laki (säädöskokoelma)\\Laki yksityisistä teistä.html"
+}

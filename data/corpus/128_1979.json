@@ -1,0 +1,608 @@
+{
+  "statute": {
+    "id": "bcfaf2a4-cb8e-436e-af71-58037509c5a7",
+    "node_type": "Statute",
+    "publisher": "finlex",
+    "title": "Verkkotunnuslaki",
+    "text": "Verkkotunnuslaki",
+    "statute_id": "128/1979",
+    "finlex_url": "https://finlex.fi/fi/laki/ajantasa/128/1979"
+  },
+  "chapters": [],
+  "sections": [
+    {
+      "id": "5a2484e8-8f0d-4066-9803-7581515b79d4",
+      "node_type": "Section",
+      "publisher": "finlex",
+      "title": "1 § Lain tarkoitus",
+      "text": "Tämän lain tarkoituksena on edistää tietoyhteiskunnan palvelujen tarjoamista tietoverkossa parantamalla suomalaisten verkkotunnusten saatavuutta ja turvaamalla verkkotunnusten tasapuolinen saatavuus.",
+      "section_number": "1",
+      "chapter_number": 1,
+      "statute_id": "128/1979"
+    },
+    {
+      "id": "a6769413-e1b2-4ca4-8277-b5344dd91fe3",
+      "node_type": "Section",
+      "publisher": "finlex",
+      "title": "2 § Soveltamisala",
+      "text": "Tätä lakia sovelletaan Internet-tietoverkossa Suomen maatunnukseen päättyviin verkkotunnuksiin (fi-maatunnus) ja verkkotunnushallintoon sekä verkkotunnushakemusten välittämiseen.",
+      "section_number": "2",
+      "chapter_number": 1,
+      "statute_id": "128/1979"
+    },
+    {
+      "id": "9cb602cc-5493-4e6b-9cc8-4f931f0e67e0",
+      "node_type": "Section",
+      "publisher": "finlex",
+      "title": "3 § Määritelmät",
+      "text": "Tässä laissa tarkoitetaan:",
+      "section_number": "3",
+      "chapter_number": 1,
+      "statute_id": "128/1979"
+    },
+    {
+      "id": "440e93e8-2c73-4ff3-9a82-838d83faac2e",
+      "node_type": "Section",
+      "publisher": "finlex",
+      "title": "4 § Verkkotunnuksen muoto ja sisältö",
+      "text": "Verkkotunnuksessa tulee olla vähintään kaksi merkkiä. Viestintävirasto voi määrätä, että riittävä määrä kaksimerkkisiä verkkotunnuksia osoitetaan Viestintäviraston käyttöön verkkotunnushallinnon tarpeita varten. Viestintävirasto antaa tarkemmat määräykset verkkotunnuksessa sallituista merkeistä. Verkkotunnus ei saa muodostua: Verkkotunnus ei saa oikeudettomasti perustua toisen suojattuun nimeen tai merkkiin. Verkkotunnus ei saa sisältää loukkaavia tai rikolliseen toimintaan kehottavia ilmaisuja.",
+      "section_number": "4",
+      "chapter_number": 1,
+      "statute_id": "128/1979"
+    },
+    {
+      "id": "d0b67251-b7b2-4fa6-9f14-a815e00111e4",
+      "node_type": "Section",
+      "publisher": "finlex",
+      "title": "5 § Verkkotunnuksen hakeminen",
+      "text": "Suomen maatunnukseen päättyvää verkkotunnusta Internet-tietoverkkoon haetaan kirjallisesti Viestintäviraston vahvistamalla lomakkeella, jossa on esitettävä hakemuksen käsittelemiseksi tarpeelliset tiedot. Viestintävirasto antaa tarkemmat määräykset verkkotunnuksen toimivuudelle välttämättömistä teknisistä määrittelyistä. Verkkotunnusta voi hakea Suomessa rekisteröity oikeushenkilö tai yksityinen elinkeinonharjoittaja, suomalainen julkisyhteisö, valtion liikelaitos, itsenäinen julkisoikeudellinen laitos, julkisoikeudellinen yhdistys ja vieraan valtion edustusto. Hakija voi hakea yhtä tai useampaa tunnusta. Jos samaa verkkotunnusta hakee useampi kuin yksi hakija, tunnus myönnetään sitä ensin hakeneelle. Verkkotunnuksia ei saa hakea varastoitavaksi jälleenluovutustarkoitukseen. Hakemuksen käsittelemisestä on suoritettava maksu. Maksun suuruus määräytyy valtion maksuperustelaissa (150/1992) säädettyjen perusteiden mukaan. Maksun suorittamisesta on annettava selvitys hakemuksessa.",
+      "section_number": "5",
+      "chapter_number": 1,
+      "statute_id": "128/1979"
+    },
+    {
+      "id": "4634dd29-5160-4097-9c1d-41203fd0fe17",
+      "node_type": "Section",
+      "publisher": "finlex",
+      "title": "6 § Viestintäviraston selvittämisvelvollisuus",
+      "text": "Viestintäviraston velvollisuutena on teknisesti ja taloudellisesti tarkoituksenmukaisin menetelmin pyrkiä varmistamaan, että haettu verkkotunnus täyttää 4 §:ssä säädetyt edellytykset. Hakemusten tarkastamisessa voidaan käyttää koneellista palveluautomaatiojärjestelmää. Palveluautomaatiojärjestelmä on toteutettava siten, että verkkotunnuksen hakija voi sen avulla tarkistaa verkkotunnuksen muotoa ja sisältöä koskevien vaatimusten täyttymisen ja että hän saa tiedon niistä seuraamuksista, joita voi aiheutua virheellisten tietojen antamisesta palveluautomaatiojärjestelmän kautta. Viestintäviraston on nimettävä virkamies, joka vastaa asian käsittelystä palveluautomaatiojärjestelmässä.",
+      "section_number": "6",
+      "chapter_number": 1,
+      "statute_id": "128/1979"
+    },
+    {
+      "id": "f01b499e-18ed-423f-bc58-e6d300fa7369",
+      "node_type": "Section",
+      "publisher": "finlex",
+      "title": "7 § Verkkotunnuksen myöntäminen",
+      "text": "Viestintäviraston on myönnettävä verkkotunnus, jos hakemus täyttää verkkotunnuksen hakijaa, muotoa ja sisältöä koskevat vaatimukset. Verkkotunnus on voimassa enintään kolme vuotta kerrallaan. Hakemus raukeaa, jos se on puutteellinen tai Viestintävirasto havaitsee muun teknisluonteisen esteen hyväksymiselle, eikä hakija kehotuksesta huolimatta korjaa puutetta tai estettä asetetussa vähintään yhden kuukauden määräajassa. Hakijalle on ilmoitettava puutteen tai esteen korjaamatta jättämisestä aiheutuvasta hakemuksen raukeamisesta. Hakijalla on oikeus pyynnöstä saada raukeamisesta päätös.",
+      "section_number": "7",
+      "chapter_number": 1,
+      "statute_id": "128/1979"
+    },
+    {
+      "id": "1b8996cc-f21f-4373-bf87-6c3e728044ab",
+      "node_type": "Section",
+      "publisher": "finlex",
+      "title": "8 § Verkkotunnuksen muutos ja siirto",
+      "text": "Verkkotunnuksen haltija voi hakea verkkotunnuksen muutosta Viestintävirastolta. Muutetun tunnuksen haltija voi käyttää edellistä verkkotunnustaan enintään kolme kuukautta muutoksen hyväksymisestä, jollei Viestintävirasto tunnuksen haltijan kirjallisesta perustellusta pyynnöstä jatka määräaikaa. Viestintävirasto voi myöntää vapautuneen verkkotunnuksen uudelle hakijalle aikaisintaan kolmen kuukauden kuluttua määräajan päättymisestä. Verkkotunnus voidaan siirtää toiselle. Siirto tulee voimaan, kun siirron saaja on tehnyt sitä koskevan hakemuksen 5 §:n mukaisesti ja verkkotunnuksen haltija on antanut suostumuksensa siirtoon. Siirtoa koskevaa hakemusta ei ratkaista, jos verkkotunnuksen peruuttamista tai sulkemista koskeva asia on vireillä Viestintävirastossa. Viestintäviraston on siirrettävä verkkotunnus, jos siirtoa haetaan sillä perusteella, että tuomioistuin on lainvoimaisella päätöksellään vahvistanut hakijan oikeuden verkkotunnukseen.",
+      "section_number": "8",
+      "chapter_number": 1,
+      "statute_id": "128/1979"
+    },
+    {
+      "id": "469e0bd9-eb97-44ee-9207-88d092d5983d",
+      "node_type": "Section",
+      "publisher": "finlex",
+      "title": "9 § Verkkotunnuksen uudistaminen",
+      "text": "Verkkotunnuksen haltija voi uudistaa tunnuksen enintään kolmeksi vuodeksi kerrallaan ilmoittamalla asiasta Viestintävirastolle sekä suorittamalla siitä maksun, joka määräytyy valtion maksuperustelain mukaan. Viestintävirasto lähettää ilmoituksen uudistamismahdollisuudesta tunnuksen haltijalle kirjeellä sille ilmoitettuun osoitteeseen viimeistään kaksi kuukautta ennen tunnuksen voimassaolon lakkaamista. Verkkotunnuksen voimassaolo lakkaa ja Viestintävirasto poistaa sen fi-juuresta, jos tunnuksen haltija ei ilmoitettuun määräpäivään mennessä ole ryhtynyt toimiin verkkotunnuksen uudistamiseksi. Viestintävirasto voi myöntää lakanneen verkkotunnuksen uudelle hakijalle aikaisintaan kolmen kuukauden kuluttua voimassaolon lakkaamisesta.",
+      "section_number": "9",
+      "chapter_number": 1,
+      "statute_id": "128/1979"
+    },
+    {
+      "id": "984bb226-767d-418d-abbe-40d0abfebbda",
+      "node_type": "Section",
+      "publisher": "finlex",
+      "title": "10 § Verkkotunnuksen irtisanominen",
+      "text": "Verkkotunnuksen haltija voi irtisanoa tunnuksen kirjallisella ilmoituksella Viestintävirastolle. Irtisanominen tulee voimaan ilmoitetusta irtisanomispäivästä lukien. Jollei päivää ole ilmoitettu, irtisanominen tulee voimaan sinä päivänä, jona irtisanominen on saapunut Viestintävirastoon. Viestintävirasto voi myöntää irtisanotun verkkotunnuksen uudelle hakijalle aikaisintaan kolmen kuukauden kuluttua irtisanomisen voimaantulosta.",
+      "section_number": "10",
+      "chapter_number": 1,
+      "statute_id": "128/1979"
+    },
+    {
+      "id": "211cdf2b-2e34-4408-89e8-be969ef2a74e",
+      "node_type": "Section",
+      "publisher": "finlex",
+      "title": "11 § Verkkotunnuksen sulkeminen",
+      "text": "Viestintävirasto voi sulkea verkkotunnuksen enintään yhden vuoden määräajaksi, jos: Viestintävirasto voi pyynnöstä jatkaa määräaikaa painavasta syystä. Viestintäviraston on viipymättä palautettava tunnus fi-juureen, kun peruste tunnuksen sulkemiselle on poistunut.",
+      "section_number": "11",
+      "chapter_number": 1,
+      "statute_id": "128/1979"
+    },
+    {
+      "id": "52167f41-19e9-4f6f-9816-e6770f683865",
+      "node_type": "Section",
+      "publisher": "finlex",
+      "title": "12 § Verkkotunnuksen peruuttaminen",
+      "text": "Viestintävirasto voi peruuttaa verkkotunnuksen, jos: Viestintävirasto voi myöntää peruutetun verkkotunnuksen uudelle hakijalle aikaisintaan kolmen kuukauden kuluttua peruutuksesta. Sen estämättä, mitä edellä tässä momentissa säädetään, Viestintävirasto voi hakemuksesta siirtää edellä 1 momentin 2―4 kohdan nojalla peruutetun tunnuksen peruuttamista pyytäneelle tässä laissa säädetyin edellytyksin.",
+      "section_number": "12",
+      "chapter_number": 1,
+      "statute_id": "128/1979"
+    },
+    {
+      "id": "543e6508-9205-4a87-b1e0-a06243a88076",
+      "node_type": "Section",
+      "publisher": "finlex",
+      "title": "13 § Haltijan velvollisuudet",
+      "text": "Verkkotunnuksen haltijan on osaltaan:",
+      "section_number": "13",
+      "chapter_number": 1,
+      "statute_id": "128/1979"
+    },
+    {
+      "id": "ae4df05f-178a-4bc9-9bcf-0cd38c0e8563",
+      "node_type": "Section",
+      "publisher": "finlex",
+      "title": "14 § Verkkotunnuspalvelun tarjoaja",
+      "text": "Verkkotunnuspalvelua tarjoavan on tehtävä kirjallinen ilmoitus Viestintävirastolle ennen toiminnan aloittamista. Ilmoituksen tulee sisältää palvelun tarjoajan tunniste- ja yhteystiedot sekä selvitys toiminnan laadusta ja laajuudesta. Ilmoitus tehdään Viestintäviraston vahvistamalla lomakkeella. Palvelun tarjoajan on osaltaan: Viestintävirasto voi antaa huomautuksen verkkotunnuspalvelun tarjoajalle, joka olennaisesti tai toistuvasti rikkoo 2 momentissa säädettyjä velvoitteita. Jos verkkotunnuspalvelun tarjoaja huomautuksesta huolimatta jatkuvasti rikkoo 2 momentissa säädettyjä velvoitteita, Viestintävirasto voi päätöksellään velvoittaa tämän korjaamaan virheensä. Viestintävirasto voi kieltää määräajaksi, enintään yhdeksi vuodeksi, verkkotunnuspalvelun tarjoajalta verkkotunnushakemusten välittämisen Viestintävirastoon, jos palvelun tarjoaja annetusta päätöksestä huolimatta olennaisesti rikkoo 2 momentissa säädettyjä velvoitteita. Viestintävirasto voi pitää yleistä käyttöä varten luetteloa välityskieltoon asetetuista verkkotunnuspalvelun tarjoajista. Luettelosta on käytävä ilmi, onko kieltoa koskeva päätös lainvoimainen. Viestintäviraston on poistettava välityskieltoa koskevat tiedot luettelosta kuukauden kuluessa kiellon päättymisestä. Jokaisella on oikeus saada tietoja luetteloon merkityistä välityskielloista. Viestintävirasto voi julkaista luettelon Internet-verkkosivuillaan. Verkkosivuilla julkaistavaan luetteloon saa kuitenkin ottaa tiedot vain lainvoimaisista kieltoa koskevista päätöksistä. Luetteloon merkittyjen henkilötietojen käsittelyyn sovelletaan muutoin, mitä henkilötietolaissa (523/1999) säädetään. Verkkotunnuspalvelun tarjoajan on viipymättä ilmoitettava kirjallisesti Viestintävirastolle 1 momentissa tarkoitettujen tietojen muuttumisesta.",
+      "section_number": "14",
+      "chapter_number": 1,
+      "statute_id": "128/1979"
+    },
+    {
+      "id": "e30cafc6-150d-4c6c-a885-6309b5eab98d",
+      "node_type": "Section",
+      "publisher": "finlex",
+      "title": "15 § Verkkotunnusrekisteri",
+      "text": "Viestintävirasto ylläpitää verkkotunnusten hakemista ja muuta yleistä käyttöä varten myönnetyistä verkkotunnuksista julkista rekisteriä, johon merkitään hakemusten ja ilmoitusten perusteella seuraavat tiedot: Verkkotunnusrekisteristä voidaan antaa tietoja myös sähköisessä muodossa sekä yleisen tietoverkon kautta. Rekisteriin merkittyjen henkilötietojen käsittelyyn sovelletaan muutoin, mitä henkilötietolaissa säädetään.",
+      "section_number": "15",
+      "chapter_number": 1,
+      "statute_id": "128/1979"
+    },
+    {
+      "id": "4eaa3f33-ae9c-443f-8c87-3229366a5255",
+      "node_type": "Section",
+      "publisher": "finlex",
+      "title": "16 § Ohjaus ja kehittäminen",
+      "text": "Liikenne- ja viestintäministeriö huolehtii tämän lain mukaisen toiminnan yleisestä ohjauksesta ja kehittämisestä.",
+      "section_number": "16",
+      "chapter_number": 1,
+      "statute_id": "128/1979"
+    },
+    {
+      "id": "e793c763-f47d-4f00-a07e-6c493d3c0a9f",
+      "node_type": "Section",
+      "publisher": "finlex",
+      "title": "17 § Viestintäviraston tehtävät",
+      "text": "Sen lisäksi, mitä muualla tässä laissa säädetään, Viestintäviraston tehtävänä on: Viestintävirasto voi pyynnöstä luovuttaa tietoja verkkotunnuksista ja tunnuksiin liittyvistä asiakirjoista kirjallisena poimintana, teknisen käyttöyhteyden avulla tai muussa koneellisesti käsiteltävässä muodossa. Verkkotunnusasiassa annettava päätös tai muu asiakirja voidaan allekirjoittaa koneellisesti.",
+      "section_number": "17",
+      "chapter_number": 1,
+      "statute_id": "128/1979"
+    },
+    {
+      "id": "57a52cd3-e0ce-426e-9f89-1ac3d0e7bbcc",
+      "node_type": "Section",
+      "publisher": "finlex",
+      "title": "18 § Muutoksenhaku",
+      "text": "Viestintäviraston tämän lain nojalla tekemään päätökseen saa valittamalla hakea muutosta Helsingin hallinto-oikeudelta siten kuin hallintolainkäyttölaissa (586/1996) säädetään. Viestintävirasto voi päätöksessään määrätä, että päätöstä on noudatettava muutoksenhausta huolimatta, jollei muutoksenhakuviranomainen toisin määrää. Viestintävirastolla on oikeus valittaa Helsingin hallinto-oikeuden tekemästä päätöksestä.",
+      "section_number": "18",
+      "chapter_number": 1,
+      "statute_id": "128/1979"
+    },
+    {
+      "id": "9c91dc37-1690-43e2-bae5-ae8c58821785",
+      "node_type": "Section",
+      "publisher": "finlex",
+      "title": "19 § Voimaantulo",
+      "text": "Tämä laki tulee voimaan 1 päivänä syyskuuta 2003. Ennen lain voimaantuloa voidaan ryhtyä lain täytäntöönpanon edellyttämiin toimiin. Tällä lailla kumotaan Internet-tietoverkon suomalaisista verkkotunnuksista annettu Viestintäviraston määräys THK 34A/2000 M, jäljempänä verkkotunnusmääräys.",
+      "section_number": "19",
+      "chapter_number": 1,
+      "statute_id": "128/1979"
+    },
+    {
+      "id": "8f5a5976-5158-4144-b39c-399389f0b44b",
+      "node_type": "Section",
+      "publisher": "finlex",
+      "title": "20 § Siirtymäsäännös",
+      "text": "Ennen tämän lain voimaantuloa myönnetyt verkkotunnukset pysyvät voimassa ilman uudistamista kolme vuotta lain voimaantulopäivästä alkaen. Tämän lain tullessa voimaan Internet-tietoverkon suomalaisista verkkotunnuksista annetun Telehallintokeskuksen määräyksen THK 34/1997 M nojalla vireillä oleva hakemus raukeaa. Verkkotunnusmääräyksen nojalla vireillä oleva hakemus raukeaa kuuden kuukauden kuluttua lain voimaantulosta.",
+      "section_number": "20",
+      "chapter_number": 1,
+      "statute_id": "128/1979"
+    }
+  ],
+  "clauses": [
+    {
+      "id": "bff6012a-ebfb-442c-b355-8996d03b68fa",
+      "node_type": "Clause",
+      "publisher": "finlex",
+      "title": "§ 4 mom 1",
+      "text": "1) pelkästä yritys-, säätiö- tai yhteisömuotoa osoittavasta sanasta tai sellaisen lyhenteestä taikka sanasta tavaramerkki;",
+      "clause_number": 1,
+      "section_number": "4",
+      "statute_id": "128/1979"
+    },
+    {
+      "id": "cd940724-7b49-40d0-a64d-794765fafc2f",
+      "node_type": "Clause",
+      "publisher": "finlex",
+      "title": "§ 4 mom 2",
+      "text": "2) pelkästä luonnollisen henkilön nimestä, jollei tunnus perustu 3 §:n 3 kohdassa tarkoitettuun rekisteröityyn nimeen tai tavaramerkkiin; eikä",
+      "clause_number": 2,
+      "section_number": "4",
+      "statute_id": "128/1979"
+    },
+    {
+      "id": "69f6e1fc-ac0d-44d8-9c00-34b043746e3d",
+      "node_type": "Clause",
+      "publisher": "finlex",
+      "title": "§ 4 mom 3",
+      "text": "3) pelkästä ensimmäisen asteen maailmanlaajuisena tai maatunnuksena käytettävästä verkkotunnuksesta.",
+      "clause_number": 3,
+      "section_number": "4",
+      "statute_id": "128/1979"
+    },
+    {
+      "id": "f846d998-710b-4bb8-b1bd-765eb38ce07f",
+      "node_type": "Clause",
+      "publisher": "finlex",
+      "title": "§ 11 mom 1",
+      "text": "1) poliisi- tai syyttäjäviranomainen on pyytänyt tunnuksen sulkemista sen vuoksi, että on todennäköisiä syitä epäillä verkkotunnusta käytettävän rikoksen tekemiseen;",
+      "clause_number": 1,
+      "section_number": "11",
+      "statute_id": "128/1979"
+    },
+    {
+      "id": "619cc610-872d-41e4-aed6-08c82c1f7d45",
+      "node_type": "Clause",
+      "publisher": "finlex",
+      "title": "§ 11 mom 2",
+      "text": "2) tunnusta varten ei ole toimintakuntoisia nimipalvelimia tai sen muut verkkotekniset määrittelyt ovat jatkuvasti tai olennaisesti 5 §:n 2 momentissa tarkoitettujen Viestintäviraston määräyksen vastaisia, eikä puutetta ole Viestintäviraston kehotuksesta huolimatta korjattu;",
+      "clause_number": 2,
+      "section_number": "11",
+      "statute_id": "128/1979"
+    },
+    {
+      "id": "7894bed5-8a56-4a9a-8bc0-9c9903945ce3",
+      "node_type": "Clause",
+      "publisher": "finlex",
+      "title": "§ 11 mom 2",
+      "text": "2) tunnusta varten ei ole toimintakuntoisia nimipalvelimia tai sen muut verkkotekniset määrittelyt ovat jatkuvasti tai olennaisesti 5 §:n 2 momentissa tarkoitettujen Viestintäviraston määräyksen vastaisia, eikä puutetta ole Viestintäviraston kehotuksesta huolimatta korjattu;",
+      "clause_number": 2,
+      "section_number": "11",
+      "statute_id": "128/1979"
+    },
+    {
+      "id": "50c74b77-ee6f-4865-a741-65a6545014c4",
+      "node_type": "Clause",
+      "publisher": "finlex",
+      "title": "§ 11 mom 3",
+      "text": "3) on todennäköisiä syitä epäillä, että tunnus on siirretty toiselle ilman tunnuksen haltijan tai suojatun nimen tai merkin haltijan suostumusta, ja tämä pyytää tunnuksen sulkemista, eikä siirronsaaja kahden viikon määräajassa esitä hyväksyttävää perustetta oikeudelleen;",
+      "clause_number": 3,
+      "section_number": "11",
+      "statute_id": "128/1979"
+    },
+    {
+      "id": "a9c90b75-603d-4b8c-a39d-e72df6cb9bc3",
+      "node_type": "Clause",
+      "publisher": "finlex",
+      "title": "§ 11 mom 4",
+      "text": "4) on todennäköisiä syitä epäillä, että tunnus on suojattu nimi tai merkki, ja nimen tai merkin haltija pyytää tunnuksen sulkemista, eikä tunnuksen haltija kahden viikon määräajassa esitä hyväksyttävää perustetta oikeudelleen; tai",
+      "clause_number": 4,
+      "section_number": "11",
+      "statute_id": "128/1979"
+    },
+    {
+      "id": "6143b537-0aac-454e-a67b-54660cdd053f",
+      "node_type": "Clause",
+      "publisher": "finlex",
+      "title": "§ 11 mom 5",
+      "text": "5) on todennäköisiä syitä epäillä, että tunnus on suojatun nimen tai merkin johdannaisnimi tai -merkki ja se on hankittu ilmeisessä hyötymis- tai vahingoittamistarkoituksessa, ja nimen tai merkin haltija pyytää tunnuksen sulkemista, eikä tunnuksen haltija kahden viikon määräajassa esitä hyväksyttävää perustetta oikeudelleen.",
+      "clause_number": 5,
+      "section_number": "11",
+      "statute_id": "128/1979"
+    },
+    {
+      "id": "6e47c07b-bb4b-442f-87bc-8fb53ca041f1",
+      "node_type": "Clause",
+      "publisher": "finlex",
+      "title": "§ 12 mom 1",
+      "text": "1) hakemuksessa on ilmoitettu Viestintävirastolle olennaisesti puutteellisia tai virheellisiä tietoja tai jätetty ilmoittamatta olennaisia tietoja, eikä tunnuksen haltija kehotuksesta huolimatta oikaise tai täydennä tietoja;",
+      "clause_number": 1,
+      "section_number": "12",
+      "statute_id": "128/1979"
+    },
+    {
+      "id": "b048e246-0df6-4e0d-a8fb-cb1caddbdc82",
+      "node_type": "Clause",
+      "publisher": "finlex",
+      "title": "§ 12 mom 2",
+      "text": "2) on painavia perusteita epäillä, että tunnus on siirretty toiselle ilman tunnuksen haltijan tai suojatun nimen tai merkin haltijan suostumusta, ja tämä pyytää tunnuksen peruuttamista, eikä siirronsaaja kahden viikon määräajassa esitä hyväksyttävää perustetta oikeudelleen;",
+      "clause_number": 2,
+      "section_number": "12",
+      "statute_id": "128/1979"
+    },
+    {
+      "id": "ddd8b804-f290-42ff-9b05-758b53879d0c",
+      "node_type": "Clause",
+      "publisher": "finlex",
+      "title": "§ 12 mom 3",
+      "text": "3) on painavia perusteita epäillä, että tunnus on suojattu nimi tai merkki, ja nimen tai merkin haltija pyytää tunnuksen peruuttamista, eikä tunnuksen haltija kahden viikon määräajassa esitä hyväksyttävää perustetta oikeudelleen;",
+      "clause_number": 3,
+      "section_number": "12",
+      "statute_id": "128/1979"
+    },
+    {
+      "id": "a307280e-b68e-41d6-8a0c-15b7f63ba353",
+      "node_type": "Clause",
+      "publisher": "finlex",
+      "title": "§ 12 mom 4",
+      "text": "4) on painavia perusteita epäillä, että tunnus on suojatun nimen tai merkin johdannaisnimi tai -merkki ja se on hankittu ilmeisessä hyötymis- tai vahingoittamistarkoituksessa, ja nimen tai merkin haltija pyytää tunnuksen peruuttamista, eikä tunnuksen haltija kahden viikon määräajassa esitä hyväksyttävää perustetta oikeudelleen;",
+      "clause_number": 4,
+      "section_number": "12",
+      "statute_id": "128/1979"
+    },
+    {
+      "id": "0c6d2e95-70b8-46de-9314-ee7fb62fbd61",
+      "node_type": "Clause",
+      "publisher": "finlex",
+      "title": "§ 12 mom 5",
+      "text": "5) tuomioistuin on lainvoimaisella päätöksellään kieltänyt tunnuksen käyttämisen;",
+      "clause_number": 5,
+      "section_number": "12",
+      "statute_id": "128/1979"
+    },
+    {
+      "id": "45482b66-acbb-4bc9-a1e5-deeefa352176",
+      "node_type": "Clause",
+      "publisher": "finlex",
+      "title": "§ 12 mom 6",
+      "text": "6) tunnuksen haltijaa ei enää ole olemassa;",
+      "clause_number": 6,
+      "section_number": "12",
+      "statute_id": "128/1979"
+    },
+    {
+      "id": "d4ab592e-49b2-4c88-acd5-52c4505be63c",
+      "node_type": "Clause",
+      "publisher": "finlex",
+      "title": "§ 12 mom 1",
+      "text": "7) tunnus on ollut suljettuna 11 §:n 1 momentin 2 kohdan nojalla vähintään kuukauden, eikä puutetta ole tämän jälkeen korjattu kuukauden kuluessa Viestintäviraston antamasta kehotuksesta;",
+      "clause_number": 1,
+      "section_number": "12",
+      "statute_id": "128/1979"
+    },
+    {
+      "id": "a99ddd3c-a9ac-4404-b247-36b00dea574f",
+      "node_type": "Clause",
+      "publisher": "finlex",
+      "title": "§ 12 mom 7",
+      "text": "7) tunnus on ollut suljettuna 11 §:n 1 momentin 2 kohdan nojalla vähintään kuukauden, eikä puutetta ole tämän jälkeen korjattu kuukauden kuluessa Viestintäviraston antamasta kehotuksesta;",
+      "clause_number": 7,
+      "section_number": "12",
+      "statute_id": "128/1979"
+    },
+    {
+      "id": "9b8a3a62-7ba8-41e0-81c7-d3f53dee5b08",
+      "node_type": "Clause",
+      "publisher": "finlex",
+      "title": "§ 12 mom 2",
+      "text": "8) myöntämisen jälkeen ilmenee, että tunnus sisältää loukkaavia tai rikolliseen toimintaan kehottavia ilmaisuja taikka että se on muodostettu vastoin 4 §:n 2 momentin 2 kohdan ja 3 momentin säännöstä; tai",
+      "clause_number": 2,
+      "section_number": "12",
+      "statute_id": "128/1979"
+    },
+    {
+      "id": "2df0f512-6a4f-429f-ae61-c750346f62e5",
+      "node_type": "Clause",
+      "publisher": "finlex",
+      "title": "§ 12 mom 8",
+      "text": "8) myöntämisen jälkeen ilmenee, että tunnus sisältää loukkaavia tai rikolliseen toimintaan kehottavia ilmaisuja taikka että se on muodostettu vastoin 4 §:n 2 momentin 2 kohdan ja 3 momentin säännöstä; tai",
+      "clause_number": 8,
+      "section_number": "12",
+      "statute_id": "128/1979"
+    },
+    {
+      "id": "051ef1ce-d15c-43a3-9e56-09765f593fc3",
+      "node_type": "Clause",
+      "publisher": "finlex",
+      "title": "§ 12 mom 9",
+      "text": "9) hakijan ilmeisenä tarkoituksena on ollut tunnusten varastointi jälleenluovutustarkoituksessa.",
+      "clause_number": 9,
+      "section_number": "12",
+      "statute_id": "128/1979"
+    },
+    {
+      "id": "740b3a6f-ceab-4307-aced-5f28967dbfec",
+      "node_type": "Clause",
+      "publisher": "finlex",
+      "title": "§ 13 mom 2",
+      "text": "1) huolehdittava siitä, että tunnusta varten on jatkuvasti olemassa sen käyttämiseen tarvittavat 5 §:n 2 momentissa tarkoitetut tekniset määritykset;",
+      "clause_number": 2,
+      "section_number": "13",
+      "statute_id": "128/1979"
+    },
+    {
+      "id": "85c6ab95-38e8-444f-8359-b4edf6a1f668",
+      "node_type": "Clause",
+      "publisher": "finlex",
+      "title": "§ 13 mom 1",
+      "text": "1) huolehdittava siitä, että tunnusta varten on jatkuvasti olemassa sen käyttämiseen tarvittavat 5 §:n 2 momentissa tarkoitetut tekniset määritykset;",
+      "clause_number": 1,
+      "section_number": "13",
+      "statute_id": "128/1979"
+    },
+    {
+      "id": "ff940071-3cb8-4217-b637-0abb28138f84",
+      "node_type": "Clause",
+      "publisher": "finlex",
+      "title": "§ 13 mom 2",
+      "text": "2) ilmoitettava kirjallisesti Viestintävirastolle verkkotunnushakemuksessa annettujen tietojen muutoksista; sekä",
+      "clause_number": 2,
+      "section_number": "13",
+      "statute_id": "128/1979"
+    },
+    {
+      "id": "94d13f40-08e0-46ee-9c3e-d4f47348d6f1",
+      "node_type": "Clause",
+      "publisher": "finlex",
+      "title": "§ 13 mom 3",
+      "text": "3) annettava pyynnöstä Viestintävirastolle muut tämän lain ja sen nojalla annettujen määräysten noudattamisen valvontaa varten tarpeelliset tiedot.",
+      "clause_number": 3,
+      "section_number": "13",
+      "statute_id": "128/1979"
+    },
+    {
+      "id": "770e5cc5-28c8-4a86-bdb7-bc7f260d9950",
+      "node_type": "Clause",
+      "publisher": "finlex",
+      "title": "§ 14 mom 1",
+      "text": "1) huolehdittava hakijan verkkotunnuksen toimivuuden kannalta välttämättömien nimipalvelujen toimivuudesta;",
+      "clause_number": 1,
+      "section_number": "14",
+      "statute_id": "128/1979"
+    },
+    {
+      "id": "c9ffc6ad-0083-48fe-9ff2-bc455334c076",
+      "node_type": "Clause",
+      "publisher": "finlex",
+      "title": "§ 14 mom 2",
+      "text": "2) ilmoitettava kirjallisesti verkkotunnushakemuksessa annettuja nimipalvelintietoja ja palveluntarjoajan tietoja koskevista muutoksista; sekä",
+      "clause_number": 2,
+      "section_number": "14",
+      "statute_id": "128/1979"
+    },
+    {
+      "id": "28391419-ee6e-42f9-88a7-4148c3180c25",
+      "node_type": "Clause",
+      "publisher": "finlex",
+      "title": "§ 14 mom 3",
+      "text": "3) noudatettava Viestintäviraston antamia verkkotunnuksia koskevia määräyksiä.",
+      "clause_number": 3,
+      "section_number": "14",
+      "statute_id": "128/1979"
+    },
+    {
+      "id": "cd4ea1a2-092c-441d-936b-7e1e068ba0c5",
+      "node_type": "Clause",
+      "publisher": "finlex",
+      "title": "§ 15 mom 1",
+      "text": "1) verkkotunnus;",
+      "clause_number": 1,
+      "section_number": "15",
+      "statute_id": "128/1979"
+    },
+    {
+      "id": "780210b4-0ffd-4cd9-9336-1622d9fd73e7",
+      "node_type": "Clause",
+      "publisher": "finlex",
+      "title": "§ 15 mom 2",
+      "text": "2) tunnuksen haltijan julkiset yhteystiedot;",
+      "clause_number": 2,
+      "section_number": "15",
+      "statute_id": "128/1979"
+    },
+    {
+      "id": "9345dbd0-caaf-4c46-8cf0-c57875cf9282",
+      "node_type": "Clause",
+      "publisher": "finlex",
+      "title": "§ 15 mom 3",
+      "text": "3) tiedot nimipalvelimista;",
+      "clause_number": 3,
+      "section_number": "15",
+      "statute_id": "128/1979"
+    },
+    {
+      "id": "a956da27-f68d-4fda-af70-4b614bad3b5d",
+      "node_type": "Clause",
+      "publisher": "finlex",
+      "title": "§ 15 mom 4",
+      "text": "4) teknisen ylläpitäjän yhteystiedot; sekä",
+      "clause_number": 4,
+      "section_number": "15",
+      "statute_id": "128/1979"
+    },
+    {
+      "id": "218e6f7e-b335-4f31-adb2-b29c14f4fdbc",
+      "node_type": "Clause",
+      "publisher": "finlex",
+      "title": "§ 15 mom 5",
+      "text": "5) muut verkkotunnuksen ylläpitämiseksi tarpeelliset tekniset tiedot.",
+      "clause_number": 5,
+      "section_number": "15",
+      "statute_id": "128/1979"
+    },
+    {
+      "id": "1435b971-286d-4ab8-a2a4-f2f6daeb6b87",
+      "node_type": "Clause",
+      "publisher": "finlex",
+      "title": "§ 17 mom 1",
+      "text": "1) valvoa tämän lain ja sen nojalla annettujen määräysten noudattamista;",
+      "clause_number": 1,
+      "section_number": "17",
+      "statute_id": "128/1979"
+    },
+    {
+      "id": "87939321-0aa6-4d66-a6e6-b05fbf100daf",
+      "node_type": "Clause",
+      "publisher": "finlex",
+      "title": "§ 17 mom 2",
+      "text": "2) hallinnoida fi-maatunnusta;",
+      "clause_number": 2,
+      "section_number": "17",
+      "statute_id": "128/1979"
+    },
+    {
+      "id": "58bf995d-84cd-4aab-9367-56b3a3741c08",
+      "node_type": "Clause",
+      "publisher": "finlex",
+      "title": "§ 17 mom 3",
+      "text": "3) kehittää verkkotunnusrekisteriä;",
+      "clause_number": 3,
+      "section_number": "17",
+      "statute_id": "128/1979"
+    },
+    {
+      "id": "207c62eb-f045-44b7-98f2-1d9060c30920",
+      "node_type": "Clause",
+      "publisher": "finlex",
+      "title": "§ 17 mom 4",
+      "text": "4) huolehtia fi-juuren nimipalvelimien siirtoyhteyksistä ja yhdysliikenteestä maailmanlaajuiseen Internet-verkkoon;",
+      "clause_number": 4,
+      "section_number": "17",
+      "statute_id": "128/1979"
+    },
+    {
+      "id": "96327854-40b4-43be-995d-011c72598d8c",
+      "node_type": "Clause",
+      "publisher": "finlex",
+      "title": "§ 17 mom 5",
+      "text": "5) huolehtia verkkotunnusten kiinnittämisestä fi-juureen;",
+      "clause_number": 5,
+      "section_number": "17",
+      "statute_id": "128/1979"
+    },
+    {
+      "id": "67561e8f-ab2a-422a-9f40-68e1cb56f750",
+      "node_type": "Clause",
+      "publisher": "finlex",
+      "title": "§ 17 mom 6",
+      "text": "6) huolehtia fi-juuren tietoturvasta; sekä",
+      "clause_number": 6,
+      "section_number": "17",
+      "statute_id": "128/1979"
+    },
+    {
+      "id": "12e9126d-ab4d-4e6c-8a65-f03f9f18b6e7",
+      "node_type": "Clause",
+      "publisher": "finlex",
+      "title": "§ 17 mom 7",
+      "text": "7) antaa pyynnöstä todistuksia ja otteita verkkotunnusrekisteristä.",
+      "clause_number": 7,
+      "section_number": "17",
+      "statute_id": "128/1979"
+    }
+  ],
+  "cross_references": [],
+  "raw_html_path": "C:\\Users\\danit\\finance-hack\\aalto-hackaton-2026\\data\\raw\\finlex\\Laki (säädöskokoelma)\\Verkkotunnuslaki.html"
+}

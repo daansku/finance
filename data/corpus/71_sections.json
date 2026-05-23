@@ -1,0 +1,917 @@
+{
+  "statute": {
+    "id": "b1f620db-21bb-4912-9f79-697a4ba09aff",
+    "node_type": "Statute",
+    "publisher": "finlex",
+    "title": "Sähkölaki",
+    "text": "Sähkölaki",
+    "statute_id": "",
+    "finlex_url": ""
+  },
+  "chapters": [
+    {
+      "id": "0779b996-c135-485c-ae66-ddf71f0ebc84",
+      "node_type": "Chapter",
+      "publisher": "finlex",
+      "title": "Chapter 1",
+      "text": "1 luku Yleisiä säännöksiä.",
+      "chapter_number": 1,
+      "statute_id": ""
+    },
+    {
+      "id": "a0f46cd1-d2ac-4c34-a8c5-cde78e260360",
+      "node_type": "Chapter",
+      "publisher": "finlex",
+      "title": "Chapter 3",
+      "text": "3 luku. Valtakunnallinen sähköhuolto.",
+      "chapter_number": 3,
+      "statute_id": ""
+    }
+  ],
+  "sections": [
+    {
+      "id": "7b1561cf-a80c-46dc-b799-0d06e5c39a49",
+      "node_type": "Section",
+      "publisher": "finlex",
+      "title": "1§",
+      "text": "Tätä lakia sovelletaan sähkön tuottamiseen, siirtoon, jakeluun ja käyttöön sekä sähkölaitteisiin ja sähkölaitteistoihin. Sähkön siirtämisestä maan rajojen ulkopuolelle tai ulkomailta Suomeen säädetään erikseen sähköenergian siirtämisestä maan rajojen yli annetussa laissa (410/57).",
+      "section_number": "1",
+      "chapter_number": 1,
+      "statute_id": ""
+    },
+    {
+      "id": "f8952521-1bb6-4abb-8e46-8fbc1aa4fea0",
+      "node_type": "Section",
+      "publisher": "finlex",
+      "title": "2§",
+      "text": "Tässä laissa tarkoitetaan: Sähkölaitoksena ei kuitenkaan pidetä yritystä tai laitosta, joka harjoittaa vain sellaista asetuksella tarkemmin säädettävää toimintaa, jonka merkitys yleiselle sähköhuollolle on vähäinen.",
+      "section_number": "2",
+      "chapter_number": 1,
+      "statute_id": ""
+    },
+    {
+      "id": "e82bbcb7-d288-436e-96a0-88098977d4cc",
+      "node_type": "Section",
+      "publisher": "finlex",
+      "title": "3§",
+      "text": "Sähköhuoltoa koskevan yhteistoiminnan ja suunnittelun tarkoituksena on ylläpitää ja kehittää koko valtakunnan ja maan eri osien sekä ympäristön tarpeet huomioon ottavaa, taloudellisesti ja teknisesti tarkoituksenmukaista sähkön tuotanto-, siirto- ja jakelujärjestelmää.",
+      "section_number": "3",
+      "chapter_number": 1,
+      "statute_id": ""
+    },
+    {
+      "id": "085f2158-d71e-4994-9d68-2b3237addec7",
+      "node_type": "Section",
+      "publisher": "finlex",
+      "title": "4§",
+      "text": "Sähkölaitteet ja -laitteistot on niin suunniteltava, rakennettava, valmistettava ja korjattava sekä niitä on siten huollettava ja käytettävä, ettei niistä aiheudu henkeen, terveyteen tai omaisuuteen kohdistuvaa vaaraa eivätkä ne sähköisesti tai muulla tavoin kohtuuttomasti häiritse ympäristöä.",
+      "section_number": "4",
+      "chapter_number": 1,
+      "statute_id": ""
+    },
+    {
+      "id": "e4064826-8e7d-4d04-9c03-a47786d7e4fd",
+      "node_type": "Section",
+      "publisher": "finlex",
+      "title": "5§",
+      "text": "Tätä lakia sovelletaan myös puhelin-, lennätin-, radio- ja muihin tiedonsiirtolaitteisiin ja -laitteistoihin sekä tietojenkäsittelylaitteisiin, lääketieteellisiin kojeisiin sekä muihin vastaaviin laitteisiin ja laitteistoihin niiltä osin kuin niistä voi aiheutua 4 §:ssä tarkoitettua vaaraa tai häiriötä. Tätä lakia ei sovelleta ulkomaille toimitettaviin sähkölaitteisiin ja -laitteistoihin.",
+      "section_number": "5",
+      "chapter_number": 1,
+      "statute_id": ""
+    },
+    {
+      "id": "2cabb372-42ac-4e3f-87a1-8dadf629cdc7",
+      "node_type": "Section",
+      "publisher": "finlex",
+      "title": "6§",
+      "text": "Tämän lain soveltamista valvoo kauppa- ja teollisuusministeriö, jäljempänä ministeriö.",
+      "section_number": "6",
+      "chapter_number": 1,
+      "statute_id": ""
+    },
+    {
+      "id": "b43849b9-7930-49b4-80e4-9370c7d2c9b9",
+      "node_type": "Section",
+      "publisher": "finlex",
+      "title": "7§",
+      "text": "Ministeriö määrää sähkölaitteistojen suunnittelu-, rakennus-, korjaus-, huolto- ja käyttötöitä sekä sähkölaitteiden korjaustöitä suorittavilta vaadittavista kelpoisuusehdoista.",
+      "section_number": "7",
+      "chapter_number": 1,
+      "statute_id": ""
+    },
+    {
+      "id": "c8d5f37e-4232-4db2-aef7-bf7de55f89e6",
+      "node_type": "Section",
+      "publisher": "finlex",
+      "title": "8§",
+      "text": "Sähkölaitteistoja saadaan elinkeinona suunnitella, rakentaa, korjata ja huoltaa sekä sähkölaitteita korjata ainoastaan ministeriön tai 30 §:ssä mainitun Sähkötarkastuskeskuksen luvalla, jos kysymys on toiminnasta, jota varten ministeriö on 7 §:n nojalla määrännyt kelpoisuusehdot. Lupa myönnetään, jos hakija tai hänen palveluksessaan oleva on kelpoinen johtamaan luvan tarkoittamaa toimintaa ja hakijalla on käytettävissään tarpeellisiksi katsottavat tilat ja työvälineet. Lupaan voidaan liittää ehtoja ja ohjeita, jotka ovat tarpeen 4 §:ssä tarkoitetun vaaran ja häiriön välttämiseksi. Ministeriö voi peruuttaa luvan, jos luvansaaja jatkuvasti rikkoo luvan ehtoja tai jokin 2 momentin mukaisista luvan myöntämisen edellytyksistä lakkaa eikä luvansaaja kehotuksesta huolimatta kohtuullisessa ajassa korjaa puutetta.",
+      "section_number": "8",
+      "chapter_number": 1,
+      "statute_id": ""
+    },
+    {
+      "id": "69b1d5bb-4718-4330-90ea-f94ee6b7eec9",
+      "node_type": "Section",
+      "publisher": "finlex",
+      "title": "9§",
+      "text": "Sähkölaitos saa toimia vain ministeriön vähintään 15 ja enintään 40 vuodeksi kerrallaan antamalla luvalla(sähkölaitoslupa). Lupa voidaan myöntää Suomen kansalaiselle taikka kotimaiselle yhteisölle tai laitokselle.",
+      "section_number": "9",
+      "chapter_number": 1,
+      "statute_id": ""
+    },
+    {
+      "id": "010a2d32-e733-473a-b248-f9af9d49c247",
+      "node_type": "Section",
+      "publisher": "finlex",
+      "title": "10§",
+      "text": "Lupa myönnetään, jos sähkölaitos on valtioneuvoston hyväksymien yleisten sähköhuollollisten tavoitteiden mukainen ja hakijalla on edellytykset huolehtia sähkölaitoksesta tämän lain ja sen nojalla annettujen säännösten ja määräysten mukaisesti. Lupapäätökseen liitetään 3 §:ssä tarkoitettua yhteistoimintaa ja suunnittelua varten sekä 4 §:ssä tarkoitetun vaaran ja häiriön välttämiseksi tarpeelliset ehdot.",
+      "section_number": "10",
+      "chapter_number": 1,
+      "statute_id": ""
+    },
+    {
+      "id": "46fc580d-59e6-4135-a5dc-3cd2fa948be7",
+      "node_type": "Section",
+      "publisher": "finlex",
+      "title": "11§",
+      "text": "Sähkölaitos on velvollinen osallistumaan ministeriön antamien yleisohjeiden mukaisesti 3 §:ssä tarkoitettuun yhteistoimintaan ja suunnitteluun sekä antamaan ministeriölle pyydettäessä yhteistoiminnan ja suunnittelun toteuttamiseen tarvittavat tiedot toiminnastaan ja suunnitelmistaan.",
+      "section_number": "11",
+      "chapter_number": 1,
+      "statute_id": ""
+    },
+    {
+      "id": "402e7a20-ecb5-46a2-9cd4-a617722c6ec9",
+      "node_type": "Section",
+      "publisher": "finlex",
+      "title": "12§",
+      "text": "Sähkölaitoksen on huolehdittava siitä, että sähkön tarvitsijoilla on mahdollisuus, poikkeuksellisia tai vaikeita olosuhteita lukuun ottamatta, saada sähköä tavanomaisiksi katsottavia käyttötarpeitaan varten. Sähköä välittömästi yleiseen käyttöön toimittavan sähkölaitoksen tulee noudattaa ministeriön hyväksymiä sähköntoimitusehtoja, joissa määritellään sähköntoimitukseen liittyvät sähkölaitoksen ja asiakkaan oikeudet ja velvollisuudet. Sähkölaitoksen tulee ministeriön niin määrätessä antaa ministeriölle tiedot tariffeistaan.",
+      "section_number": "12",
+      "chapter_number": 1,
+      "statute_id": ""
+    },
+    {
+      "id": "9a6fb627-6874-405e-bad7-22f90e46db5c",
+      "node_type": "Section",
+      "publisher": "finlex",
+      "title": "13§",
+      "text": "Jollei sähkölaitos noudata tätä lakia taikka sen perusteella annettuja säännöksiä tai määräyksiä, voi ministeriö, milloin sähkölaitos ei ole kehotuksesta huolimatta määräajassa poistanut puutteita, peruuttaa sähkölaitosluvan. Jos sähkölaitos kieltäytyy toimittamasta sähköä ilman 12 §:n 1 momentin mukaisia perusteita, ministeriö voi määrätä sähkölaitoksen sakon uhalla täyttämään velvollisuutensa.",
+      "section_number": "13",
+      "chapter_number": 1,
+      "statute_id": ""
+    },
+    {
+      "id": "5df10d6a-b8dd-4304-829c-65e1af7d8369",
+      "node_type": "Section",
+      "publisher": "finlex",
+      "title": "14§",
+      "text": "Sähköhuollon turvaamiseksi ja kehittämiseksi laaditaan koko maan alueelle yhtenäinen suunnitelma valtakunnallisesti merkittävästä sähkön tuotannosta ja siirrosta sekä muusta valtakunnallisesti merkittävästä sähköhuollosta(sähköhuollon runkosuunnitelma,jäljempänä runkosuunnitelma). Runkosuunnitelman tulee sopeutua valtakunnalliseen energiahuoltoon ja luoda riittävät edellytykset alueelliselle sähköhuollolle.",
+      "section_number": "14",
+      "chapter_number": 3,
+      "statute_id": ""
+    },
+    {
+      "id": "be4c80d0-f39b-436c-8a57-42b9a1780c08",
+      "node_type": "Section",
+      "publisher": "finlex",
+      "title": "15§",
+      "text": "Valtakunnalliseen sähköhuoltoon liittyvien asioiden käsittelyä varten toimii ministeriön yhteydessä valtioneuvoston kolmeksi vuodeksi kerrallaan asettama sähköhuollon neuvottelukunta, jäljempänä neuvottelukunta. Neuvottelukuntaan kuuluu puheenjohtajana ministeriön energiaosaston virkamies sekä 11 muuta jäsentä. Neuvottelukunnan jäsenistä kuuden tulee edustaa sähkölaitoksia sekä kuuden valtionhallintoa ja valtakunnalliseen sähköhuoltoon liittyvää asiantuntemusta sekä sähkön käyttäjiä.",
+      "section_number": "15",
+      "chapter_number": 3,
+      "statute_id": ""
+    },
+    {
+      "id": "602af8ea-5fd0-4a09-b3ac-cafff06f43bc",
+      "node_type": "Section",
+      "publisher": "finlex",
+      "title": "16§",
+      "text": "Neuvottelukunta tekee vuosittain ehdotuksen riittävän pitkän aikavälin runkosuunnitelmaksi, tekee sähköhuoltoon liittyviä aloitteita ja esityksiä, antaa lausuntoja 18 §:ssä tarkoitetuista aluesuunnitelmista ja muistakin toimialansa asioista sekä toimii muutoinkin ministeriön apuna toimialaansa liittyvissä asioissa. Neuvottelukunnan tulee noudattaa toiminnassaan ministeriön antamia yleisohjeita. Tarkemmat säännökset neuvottelukunnan asettamisesta ja tehtävistä annetaan asetuksella.",
+      "section_number": "16",
+      "chapter_number": 3,
+      "statute_id": ""
+    },
+    {
+      "id": "697a0d9a-50b3-4c59-8acb-f7a2890cbfc0",
+      "node_type": "Section",
+      "publisher": "finlex",
+      "title": "17§",
+      "text": "Runkosuunnitelman hyväksyy ministeriön esityksestä valtioneuvosto. Runkosuunnitelman hyväksymisen edellytyksenä on, että suunnitelma soveltuu valtakunnalliseen energiahuoltoon sekä on laadittu tämän lain tavoitteiden mukaisesti.",
+      "section_number": "17",
+      "chapter_number": 3,
+      "statute_id": ""
+    },
+    {
+      "id": "f81be269-e3b4-455a-9b9e-cb01e55bf340",
+      "node_type": "Section",
+      "publisher": "finlex",
+      "title": "18§",
+      "text": "Alueellisen sähköhuollon turvaamiseksi ja kehittämiseksi ministeriö jakaa maan yhteistoiminta-alueisiin ja hyväksyy jokaiselle yhteistoiminta-alueelle yhtenäisen suunnitelman sähkön hankinnasta, siirrosta ja jakelualueista(sähköhuollon aluesuunnitelma,jäljempänä aluesuunnitelma). Aluesuunnitelman tulee sopeutua runkosuunnitelmaan ja muiden yhteistoiminta-alueiden aluesuunnitelmiin sekä ottaa huomioon yhteistoiminta-alueen ja sen eri osien tarpeet.",
+      "section_number": "18",
+      "chapter_number": 3,
+      "statute_id": ""
+    },
+    {
+      "id": "291f687a-5e98-4936-9cfd-b85907241444",
+      "node_type": "Section",
+      "publisher": "finlex",
+      "title": "19§",
+      "text": "Asetuksella säädettävien yhteistoimintaalueella sähköä välittömästi yleiseen käyttöön toimittavien sähkölaitosten, sähkön tukkumyyjien ja sähkön tuottajien tulee perustaasähköhuollon aluetoimikunta,jäljempänä aluetoimikunta. Aluetoimikunnan jäsenet on valittava siten, että jäsenet edustavat 1 momentissa mainittuja osapuolia tasapuolisesti ja että osapuolien sisäisen paikkojen jakautumisen perusteena on kunkin yrityksen tai laitoksen toiminnan laajuus. Jos aluetoimikunnan perustamisesta ei voida sopia, ministeriö määrää aluetoimikunnan jäsenet 1 momentissa mainittujen sähkölaitosten, sähkön tukkumyyjien ja sähkön tuottajien edustajista. Ministeriö voi hakemuksesta vapauttaa 1 momentissa mainitun sähkölaitoksen, sähkön tukkumyyjän tai sähkön tuottajan osallistumasta aluetoimikunnan perustamiseen.",
+      "section_number": "19",
+      "chapter_number": 3,
+      "statute_id": ""
+    },
+    {
+      "id": "c9d5b715-b606-4629-bd3d-1f8e032809f2",
+      "node_type": "Section",
+      "publisher": "finlex",
+      "title": "20§",
+      "text": "Yhteistoiminta-alueen huomattavilla sähkön käyttäjillä on oikeus nimetä edustaja aluetoimikuntaan. Jos sähkön käyttäjien edustajasta ei voida sopia, ministeriö määrää tämän.",
+      "section_number": "20",
+      "chapter_number": 3,
+      "statute_id": ""
+    },
+    {
+      "id": "ca5daf81-5244-4c42-a666-670fa47ddd59",
+      "node_type": "Section",
+      "publisher": "finlex",
+      "title": "21§",
+      "text": "Aluetoimikunnan tehtävänä on ministeriön antamien yleisohjeiden mukaisesti: Aluesuunnitelmaehdotusta laatiessaan aluetoimikunnan tulee kuulla asianomaisia kuntia sekä tarvittaessa muitakin viranomaisia ja yhteisöjä.",
+      "section_number": "21",
+      "chapter_number": 3,
+      "statute_id": ""
+    },
+    {
+      "id": "4c12c4ad-a0b3-4133-b74d-742a0aaae74a",
+      "node_type": "Section",
+      "publisher": "finlex",
+      "title": "22§",
+      "text": "Ministeriön tulee hyväksyä aluetoimikunnan laatima aluesuunnitelmaehdotus, jos Ministeriö voi hyväksyä aluesuunnitelman myös osittain tai, painavien perusteiden vallitessa ja aluetoimikuntaa kuultuaan, muutettuna.",
+      "section_number": "22",
+      "chapter_number": 3,
+      "statute_id": ""
+    },
+    {
+      "id": "438fca8b-1c30-4808-ac1c-5196a0882d05",
+      "node_type": "Section",
+      "publisher": "finlex",
+      "title": "23§",
+      "text": "Aluetoimikunnan perustamiseen velvollisten sähkölaitosten, sähkön tukkumyyjien ja sähkön tuottajien tulee osallistua aluetoimikunnan kustannuksiin kohtuuden ja toimintansa laajuuden mukaan. Jos kustannusten jaosta ei voida sopia, määrää siitä ministeriö.",
+      "section_number": "23",
+      "chapter_number": 3,
+      "statute_id": ""
+    },
+    {
+      "id": "6fd92221-da23-47c2-b0e6-430e6ed01885",
+      "node_type": "Section",
+      "publisher": "finlex",
+      "title": "24§",
+      "text": "Ydinvoimalaitoksen rakentamiseen on saatava valtioneuvoston lupa. Luvan myöntämisen edellytyksenä on, että voimalaitoksen rakentaminen harkitaan tarkoituksenmukaiseksi. Lupaan on liitettävä valtioneuvoston tarpeelliseksi katsomat ehdot. Ennen rakentamisen aloittamista hakijan on lisäksi saatava atomienergialaissa (356/57) säädetty lupa.",
+      "section_number": "24",
+      "chapter_number": 3,
+      "statute_id": ""
+    },
+    {
+      "id": "11a5a427-024f-43b6-a9e4-9fcd8801e39a",
+      "node_type": "Section",
+      "publisher": "finlex",
+      "title": "25§",
+      "text": "Muun voimalaitoksen kuin ydinvoimalaitoksen samoin kuin sähkönsiirtolaitteiston ja sähkölaitoksen yli 10 voltin jakelulaitteiston rakentamiseen on, jollei 2 tai 3 momentissa toisin säädetä, saatava ministeriön tai 26 §:n 2 momentissa mainitussa tapauksessa valtioneuvoston lupa. Edellä 1 momentissa tarkoitettu lupa ei ole tarpeen: Kosken vesivoimaa hyväksi käyttävän voimalaitoksen rakentamiseen tarvittavasta luvasta on säädetty erikseen. Voimalaitoksen rakentamisesta, mihin 2 momentin 1 tai 2 kohdan ja 3 momentin mukaan ei tarvita tässä laissa säädettyä lupaa, on riittävän ajoissa ennen rakennustöiden aloittamista ilmoitettava ministeriölle asetuksella tarkemmin säädettävällä tavalla.",
+      "section_number": "25",
+      "chapter_number": 3,
+      "statute_id": ""
+    },
+    {
+      "id": "66a84430-1258-4162-bc06-4ba3aa3a66b5",
+      "node_type": "Section",
+      "publisher": "finlex",
+      "title": "26§",
+      "text": "Ministeriö myöntää luvan rakentaa 25 §:n 1 momentissa tarkoitetun voimalaitoksen tai sähkönsiirtolaitteiston siinä järjestyksessä kuin kulloinkin voimassa olevan runkosuunnitelman toteuttaminen edellyttää, Luvan rakentaa 25 §:n 1 momentissa tarkoitettu voimalaitos tai sähkönsiirto- tai jakelulaitteisto, jota ei rakenneta voimassa olevan runko- tai aluesuunnitelman mukaisesti, voi myöntää painavasta syystä valtioneuvosto, jos voimalaitos tai sähkönsiirtolaitteisto olisi otettava runkosuunnitelmaan, ja muussa tapauksessa ministeriö. Lupaan liitetään 4 §:ssä tarkoitetun vaaran ja häiriön välttämiseksi ja sähköhuollon turvaamiseksi tarpeelliset ehdot.",
+      "section_number": "26",
+      "chapter_number": 3,
+      "statute_id": ""
+    },
+    {
+      "id": "7d93acc7-4801-4ff3-922e-7a0a7fd4530a",
+      "node_type": "Section",
+      "publisher": "finlex",
+      "title": "27§",
+      "text": "Jos sähkönsiirto- ja -jakelulaitteisto aiotaan rakentaa sellaiselle kaupungin alueelle, jolle on vahvistettu asema- tai rakennuskaava tai jolle on päätetty laatia asemakaava, on rakentamiselle saatava asianomaisen kunnanvaltuuston suostumus, jollei rakentamishanke ole kokonaan omalla maalla. Ilman pätevää syytä ei suostumusta kuitenkaan saa evätä eikä sen myöntämiselle asettaa ehtoja, jos epäämisestä tai ehdoista aiheutuu hakijalle kohtuutonta haittaa. Milloin syntyy erimielisyyttä siitä, onko valtuustolla pätevä syy 1 momentissa mainitun suostumuksen epäämiseen tai aiheutuuko epäämisestä tai suostumuksen ehdoista hakijalle kohtuutonta haittaa, ratkaisee asian hakemuksesta ministeriö.",
+      "section_number": "27",
+      "chapter_number": 3,
+      "statute_id": ""
+    },
+    {
+      "id": "16dbebe3-7e0c-4a5d-ad2b-89449ecd4862",
+      "node_type": "Section",
+      "publisher": "finlex",
+      "title": "28§",
+      "text": "Tässä laissa säädetyistä rakentamisluvista peritään asetuksella säädettävä, rakennuskohteen suuruuden mukaan määräytyvä maksu.",
+      "section_number": "28",
+      "chapter_number": 3,
+      "statute_id": ""
+    },
+    {
+      "id": "f98a7ee7-b303-433a-abca-7679852e5b2e",
+      "node_type": "Section",
+      "publisher": "finlex",
+      "title": "29§",
+      "text": "Edellä 4 §:ssä tarkoitetun vaaran ja häiriön välttämiseksi sähkölaitteita ja -laitteistoja tarkastetaan sekä tämän lain ja sen nojalla annettujen säännösten ja määräysten noudattamista valvotaan siten kuin jäljempänä säädetään.",
+      "section_number": "29",
+      "chapter_number": 3,
+      "statute_id": ""
+    },
+    {
+      "id": "e05c7466-b762-4782-897d-0afffae327f3",
+      "node_type": "Section",
+      "publisher": "finlex",
+      "title": "30§",
+      "text": "Valvonnasta ja tarkastuksesta huolehti ministeriön alaisuudessa Sähkötarkastuskeskus -niminen julkisoikeudellinen yhdistys, ruotsinkieliseltä nimeltään Elinspektionscentralen, jonka hallinnosta ja toiminnasta säädetään asetuksella. Sähkötarkastuskeskuksen tehtävänä on myös avustaa ministeriötä runko- ja aluesuunnitelmien toteuttamisen valvonnassa.",
+      "section_number": "30",
+      "chapter_number": 3,
+      "statute_id": ""
+    },
+    {
+      "id": "8faeceae-ba7e-4f54-85b6-5816f7fac891",
+      "node_type": "Section",
+      "publisher": "finlex",
+      "title": "31§",
+      "text": "Sähköä välittömästi yleiseen käyttöön toimittavan sähkölaitoksen on huolehdittava sen jakeluverkostoon liitettävien sähkölaitteistojen käyttöönottotarkastuksista sen mukaan kuin asetuksella tarkemmin säädetään.",
+      "section_number": "31",
+      "chapter_number": 3,
+      "statute_id": ""
+    },
+    {
+      "id": "be2b61ae-3ca3-446b-a18d-332c0bbaa743",
+      "node_type": "Section",
+      "publisher": "finlex",
+      "title": "32§",
+      "text": "Ministeriö määrää tämän lain mukaista tarkastustoimintaa johtavien ja tarkastuksia suorittavien kelpoisuusehdot. Tarkastustoimintaa johtava tai tarkastuksia suorittava ei saa olla sähkölaitoksessa tai muussa yrityksessä sellaisessa asemassa, että hänen puolueettomuutensa tarkastajana vaarantuu.",
+      "section_number": "32",
+      "chapter_number": 3,
+      "statute_id": ""
+    },
+    {
+      "id": "e6f8e3ee-bc18-4a6f-9160-08d305dff658",
+      "node_type": "Section",
+      "publisher": "finlex",
+      "title": "33§",
+      "text": "Sähkölaitteiston haltijan on tehtävä uuden tai muutetun sähkölaitteiston käyttöönottamisesta tarkastusta ja valvontaa varten asetuksella tarkemmin säädetyt ilmoitukset.",
+      "section_number": "33",
+      "chapter_number": 3,
+      "statute_id": ""
+    },
+    {
+      "id": "5c0bb6a2-bff2-4317-8ca8-5a14a9786b47",
+      "node_type": "Section",
+      "publisher": "finlex",
+      "title": "34§",
+      "text": "Ministeriö voi määrätä, ettei määrätynlaisia sähkölaitteistoja saa ottaa käyttöön ennen kuin ne on tarkastettu ja hyväksytty.",
+      "section_number": "34",
+      "chapter_number": 3,
+      "statute_id": ""
+    },
+    {
+      "id": "6e16e946-b1da-44ab-8297-d38dccb71b7e",
+      "node_type": "Section",
+      "publisher": "finlex",
+      "title": "35§",
+      "text": "Jos tarkastuksessa havaitaan, ettei sähkölaitteisto taikka siihen liitetty tai liitettäväksi aiottu sähkölaite ole tämän lain tai sen nojalla annettujen säännösten ja määräysten mukainen tai ettei sen käyttöä tai huoltoa ole järjestetty tämän lain tai sen nojalla annettujen säännösten ja määräysten mukaisesti, tarkastuksen suorittajan on kehotettava laitteiston haltijaa korjaamaan puutteellisuudet tai laiminlyönnit ja tarvittaessa asetettava määräaika tarpeellisten toimenpiteiden suorittamiselle. Jos sähkölaitteiston haltija ei noudata tarkastuksen suorittajan korjaamiskehotusta ja kysymyksessä on muu sähkölaitteisto kuin sähköä yleiseen käyttöön toimittavaan sähkölaitokseen kuuluva sähkölaitteisto, Sähkötarkastuskeskus voi, varattuaan laitteiston haltijalle tilaisuuden tulla kuulluksi, kieltää laitteiston tai laitteen käytön, jollei laitteiston haltija ole Sähkötarkastuskeskuksen asettamassa määräajassa suorittanut tarpeellisia korjaamistoimenpiteitä. Milloin kysymys on sähköä yleiseen käyttöön toimittavaan sähkölaitokseen kuuluvasta sähkölaitteistosta, Sähkötarkastuskeskuksen tulee ilmoittaa asiasta ministeriölle, joka voi, varattuaan laitteiston haltijalle tilaisuuden tulla kuulluksi, velvoittaa tämän suorittamaan tarpeelliset korjaamistoimenpiteet sakon uhalla tai uhalla, että ministeriö teettää tarvittavat työt laitteiston haltijan kustannuksella. Tästä aiheutuvat kustannukset maksetaan valtion varoista ja peritään sähkölaitteiston haltijalta.",
+      "section_number": "35",
+      "chapter_number": 3,
+      "statute_id": ""
+    },
+    {
+      "id": "53a55e8d-386e-4c6e-8dcd-685fc395c519",
+      "node_type": "Section",
+      "publisher": "finlex",
+      "title": "36§",
+      "text": "Sähkölaitteita ei saa Suomessa pitää kaupan, toiselle luovuttaa tai ottaa käyttöön ennen kuin laitteet on asianmukaisesti tarkastettu ja Sähkötarkastuskeskus on ne hyväksynyt. Ministeriö määrää tarkemmin, missä laajuudessa ja millä tavoin 1 momentissa mainittua tarkastus- ja hyväksymismenettelyä on sovellettava.",
+      "section_number": "36",
+      "chapter_number": 3,
+      "statute_id": ""
+    },
+    {
+      "id": "edd08f03-3512-4234-9c51-9a33e3c104b7",
+      "node_type": "Section",
+      "publisher": "finlex",
+      "title": "37§",
+      "text": "Jos sähkölaitteen tai sähkölaitteiston käyttämisestä aiheutuu välitön henkeen, terveyteen tai omaisuuteen kohdistuva vaara, tarkastuksen suorittajan on, varattuaan mikäli mahdollista laitteiston haltijalle tilaisuuden tulla kuulluksi, heti kiellettävä laitteen tai laitteiston käyttö taikka määrättävä se sähköverkosta erotettavaksi. Kieltoa tai määräystä on heti noudatettava ja tarkastuksen suorittajan on, jos toimenpide ei koske merkitykseltään vähäistä sähkölaitetta tai -laitteistoa, viipymättä saatettava asia Sähkötarkastuskeskuksen ratkaistavaksi. Sähkötarkastuskeskuksen on käsiteltävä asia kiireellisesti.",
+      "section_number": "37",
+      "chapter_number": 3,
+      "statute_id": ""
+    },
+    {
+      "id": "44c1f4f1-cbde-4baf-81d6-912e5e918ced",
+      "node_type": "Section",
+      "publisher": "finlex",
+      "title": "38§",
+      "text": "Sähkötarkastuskeskuksen tai sähkölaitoksen tämän lain nojalla suorittamasta valvonta- ja tarkastustoiminnasta sekä muista suoritteista aiheutuvien kustannusten korvaamiseksi peritään maksuja, joiden perusteet säädetään asetuksella ja joita määrättäessä on soveltuvin osin noudatettava, mitä valtion maksuperustelaissa (980/73) on säädetty.",
+      "section_number": "38",
+      "chapter_number": 3,
+      "statute_id": ""
+    },
+    {
+      "id": "229635d3-d97a-459d-ad68-9604a2186ec0",
+      "node_type": "Section",
+      "publisher": "finlex",
+      "title": "39§",
+      "text": "Sähkölaitteiden turvallisuuden valvomiseksi ministeriö voi vahvistaa erityisen merkin osoittamaan, että 36 §:ssä tarkoitettu sähkölaite on tarkastettu ja hyväksytty voimassa olevien säännösten ja määräysten mukaisesti.",
+      "section_number": "39",
+      "chapter_number": 3,
+      "statute_id": ""
+    },
+    {
+      "id": "5f81ab26-7e26-497a-837d-1c43a556454a",
+      "node_type": "Section",
+      "publisher": "finlex",
+      "title": "40§",
+      "text": "Sähkövahingon on velvollinen korvaamaan tuottamuksesta riippumatta vahinkoa aiheuttaneen sähkölaitteen tai -laitteiston haltija, jollei jäljempänä tässä luvussa toisin säädetä.",
+      "section_number": "40",
+      "chapter_number": 3,
+      "statute_id": ""
+    },
+    {
+      "id": "f6f16e71-38e4-4051-9432-7ff074535f95",
+      "node_type": "Section",
+      "publisher": "finlex",
+      "title": "41§",
+      "text": "Sähkölaitteen tai -laitteiston haltijan vastuu sähkövahingosta määräytyy vahingonkorvauslaissa (412/74) säädettyjen perusteiden mukaan, jos",
+      "section_number": "41",
+      "chapter_number": 3,
+      "statute_id": ""
+    },
+    {
+      "id": "768c0d52-0221-41e8-8531-a495b9873945",
+      "node_type": "Section",
+      "publisher": "finlex",
+      "title": "42§",
+      "text": "Jos vahingon kärsineen puolelta on myötävaikutettu vahinkoon tai jos muu sähkölaitteeseen tai -laitteistoon taikka sen käyttämiseen kuulumaton seikka on myös ollut vahingon syynä, voidaan vahingonkorvausta kohtuuden mukaan sovitella. Korvausta henkilövahingosta, josta sähkölaitteen tai -laitteiston haltija on vastuussa tuottamuksesta riippumatta, saadaan vahingon kärsineen myötävaikutuksen johdosta alentaa vain, jos vahingon kärsinyt itse tai, jos kysymyksessä on surmansa saaneen jälkeen maksettava elatuskorvaus, surmansa saanut on myötävaikuttanut vahinkoon muuten kuin lievällä tuottamuksella.",
+      "section_number": "42",
+      "chapter_number": 3,
+      "statute_id": ""
+    },
+    {
+      "id": "3002e3ad-1cc1-45eb-b230-30e9afe49c51",
+      "node_type": "Section",
+      "publisher": "finlex",
+      "title": "43§",
+      "text": "Vahingonkorvausta määrättäessä on noudatettava, mitä vahingonkorvauslain 5 luvussa, 6 luvun 2 ja 3 §:ssä sekä 7 luvun 3 §:ssä on säädetty.",
+      "section_number": "43",
+      "chapter_number": 3,
+      "statute_id": ""
+    },
+    {
+      "id": "82e23a90-dd52-4509-b8ad-de499ae4319a",
+      "node_type": "Section",
+      "publisher": "finlex",
+      "title": "44§",
+      "text": "Sähkölaitteen tai -laitteiston haltijan palveluksessa työntekijän asemassa olevan henkilön vahingonkorvausvastuun osalta noudatetaan vahingonkorvauslain ja työsopimuslain (320/70) säännöksiä.",
+      "section_number": "44",
+      "chapter_number": 3,
+      "statute_id": ""
+    },
+    {
+      "id": "94634f97-6c7b-4222-9ef5-bff106ae4ba1",
+      "node_type": "Section",
+      "publisher": "finlex",
+      "title": "45§",
+      "text": "Jos sähkövahinko on aiheutunut sähkölaitteesta tai -laitteistosta, josta aiheutuvasta vahingosta korvausvelvollisuus syntyy ilman tuottamusta, vastaa sähkölaitteen tai -laitteiston omistaja, joka on luovuttanut laitteen tai laitteiston toisen käytettäväksi, vahingosta niin kuin laitteen tai laitteiston haltija, ei kuitenkaan muulla omaisuudellaan kuin laitteen tai laitteiston arvolla. Laitteen tai laitteiston haltija on kuitenkin velvollinen korvaamaan omistajalle, mitä tämä on siten suorittanut, jollei tuomioistuin harkitse, että vahinko jää omistajan vastattavaksi.",
+      "section_number": "45",
+      "chapter_number": 3,
+      "statute_id": ""
+    },
+    {
+      "id": "3b565f89-5cd6-41da-91c5-c66ba9d08d70",
+      "node_type": "Section",
+      "publisher": "finlex",
+      "title": "46§",
+      "text": "Korvausta sähkövahingosta, jota sähkölaitteen tai -laitteiston haltija eikä kukaan hänen puolestaan toiminut ole aiheuttanut tahallisesti tai tuottamuksellisesti, on vaadittava kahden vuoden kuluessa vahingon tapahtumisesta. Muuhun sähkövahingon vanhentumiseen sovelletaan, mitä vahingonkorvauslain 7 luvun 2 §:ssä säädetään vahingonkorvauksen vanhentumisesta.",
+      "section_number": "46",
+      "chapter_number": 3,
+      "statute_id": ""
+    },
+    {
+      "id": "4253e857-7acb-433a-bca4-c8e2eeeafc33",
+      "node_type": "Section",
+      "publisher": "finlex",
+      "title": "47§",
+      "text": "Sähkölaitteen tai -laitteiston omistaja tai haltija, joka on suorittanut tämän lain mukaista korvausta, on oikeutettu vaatimaan suorittamansa määrän vahingon aiheuttajalta tämän korvausvastuuta koskevien perusteiden mukaan.",
+      "section_number": "47",
+      "chapter_number": 3,
+      "statute_id": ""
+    },
+    {
+      "id": "355a0725-538c-426d-bece-1289f1ca9919",
+      "node_type": "Section",
+      "publisher": "finlex",
+      "title": "48§",
+      "text": "Jos sähkölaitteisto aiheuttaa häiriötä tai vaaraa toiselle sähkölaitteistolle taikka lennätin-, puhelin-, radio- tai muulle vastaavalle laitteistolle tai niiden käytölle taikka aiheuttaa niiden välityksellä häiriötä tai vaaraa ulkopuolisille, tulee myöhemmin rakennetun laitteiston omistajan suorittaa laitteistossaan häiriön tai vaaran poistamiseksi tarvittavat toimenpiteet. Milloin häiriö tai vaara on poistettavissa 1 momentissa tarkoitetuista toimenpiteistä aiheutuvia kustannuksia huomattavasti pienemmin kustannuksin muuttamalla tai täydentämällä aikaisemmin rakennetun laitteiston teknistä rakennetta, ja tämä voidaan tehdä aiheuttamatta laitteiston toiminnalle kohtuutonta haittaa, tulee kuitenkin aikaisemmin rakennetun laitteiston omistajan suorittaa tarvittavat muutokset tai täydennykset laitteistossaan.",
+      "section_number": "48",
+      "chapter_number": 3,
+      "statute_id": ""
+    },
+    {
+      "id": "0fde7644-ea49-4f4f-bb34-0f7bd8f5d16a",
+      "node_type": "Section",
+      "publisher": "finlex",
+      "title": "49§",
+      "text": "Myöhemmin rakennetun laitteiston omistaja on velvollinen korvaamaan 48 §:n 2 momentissa tarkoitettujen toimenpiteiden kustannukset. Kustannuksia määrättäessä on otettava huomioon toimenpiteestä aikaisemmin rakennetun laitteiston omistajalle laitteiston suorituskyvyn tai käyttökustannusten muuttumisen johdosta tai mahdollisesti aiheutunut hyöty tai haitta. Jos häiriö tai vaara kokonaan tai osaksi johtuu siitä, että aikaisemmin rakennettu laitteisto ei ole sitä koskevien säännösten ja määräysten tai hyvän teknisen tavan mukainen, on tämän laitteiston omistaja velvollinen omalla kustannuksellaan saattamaan laitteiston asianmukaiseen kuntoon. Jos aikaisemmin rakennettu laitteisto aiheuttaa poikkeuksellisen suurta häiriötä tai vaaraa tahi jos sanottu laitteisto on poikkeuksellisen altis häiriölle tai vaaralle, on häiriön tai vaaran poistamisesta aiheutuvat kustannukset kohtuuden mukaan jaettava laitteistojen omistajien kesken tai määrättävä kokonaan aikaisemmin rakennetun laitteiston omistajan maksettaviksi.",
+      "section_number": "49",
+      "chapter_number": 3,
+      "statute_id": ""
+    },
+    {
+      "id": "9e4e7281-123a-42bd-9bfe-a09f4f8f4db1",
+      "node_type": "Section",
+      "publisher": "finlex",
+      "title": "50§",
+      "text": "Myöhemmin rakennetuksi kahdesta laitteistosta tai sen osasta katsotaan se, jonka rakentaminen on aloitettu myöhemmin. Jos laitteiston tai sen osan käyttötapaa tai teknistä rakennetta muutetaan siten, että laitteisto tai sen käyttö aiheuttaa 48 §:n 1 momentissa tarkoitettua häiriötä tai vaaraa taikka että laitteisto tulee häiriölle tai vaaralle oleellisesti alttiimmaksi, katsotaan laitteisto kuitenkin tältä osin muutoksen ajankohtana rakennetuksi.",
+      "section_number": "50",
+      "chapter_number": 3,
+      "statute_id": ""
+    },
+    {
+      "id": "94ca7707-cc0a-4d0b-b4e9-22b3ca90d00b",
+      "node_type": "Section",
+      "publisher": "finlex",
+      "title": "51§",
+      "text": "Jos osapuolet eivät pääse yksimielisyyteen 48-50 §:ssä tarkoitetun häiriön tai vaaran poistamiseksi tarpeellisista toimenpiteistä taikka niistä aiheutuneiden kustannusten suuruudesta tai jakautumisesta osapuolten kesken, ratkaisee asian ministeriö.",
+      "section_number": "51",
+      "chapter_number": 3,
+      "statute_id": ""
+    },
+    {
+      "id": "a9a58137-fc72-4fcd-a06a-211591f45597",
+      "node_type": "Section",
+      "publisher": "finlex",
+      "title": "52§",
+      "text": "Mitä 48-51 §:ssä on säädetty sähkölaitteistosta, koskee soveltuvin osin myös yksittäistä sähkölaitetta.",
+      "section_number": "52",
+      "chapter_number": 3,
+      "statute_id": ""
+    },
+    {
+      "id": "12ebb0b4-b78d-472d-b409-b5050e7f37cb",
+      "node_type": "Section",
+      "publisher": "finlex",
+      "title": "53§",
+      "text": "Jos sähkölaitteiston tai sen osan rakennustöiden aloittamisen jälkeen sen läheisyyteen tulee rakennettavaksi tai on rakennettu maantie, kulkuväylä, rautatie, lentokenttä, kaasu-, vesi- tai muu vastaava johto, rakennus tai muu rakennelma siten, että sähkölaitteistoa on yleisen turvallisuuden vuoksi tai laitteiston suojaamiseksi muutettava, on sähkölaitteiston omistaja velvollinen suorittamaan tarpeelliset muutokset. Siitä aiheutuvat kustannukset on kuitenkin tien, väylän, lentokentän, johdon, rakennuksen tai rakennelman omistajan korvattava.",
+      "section_number": "53",
+      "chapter_number": 3,
+      "statute_id": ""
+    },
+    {
+      "id": "18e9301b-3d7c-448a-99bc-79d1850cdf2a",
+      "node_type": "Section",
+      "publisher": "finlex",
+      "title": "54§",
+      "text": "Joka on tyytymätön tarkastuksen johtajan tai sen suorittajan toimenpiteeseen tai määräykseen, saa vaatia asian käsiteltäväksi Sähkötarkastuskeskuksessa. Vaatimus on tehtävä kirjallisesti Sähkötarkastuskeskukselle 30 päivän kuluessa toimenpiteestä tai määräyksen tiedoksisaamisesta.",
+      "section_number": "54",
+      "chapter_number": 3,
+      "statute_id": ""
+    },
+    {
+      "id": "b83e325e-9b94-47ea-b230-ee3a59756b6e",
+      "node_type": "Section",
+      "publisher": "finlex",
+      "title": "55§",
+      "text": "Sähkötarkastuskeskuksen tämän lain tai sen nojalla annettujen säännösten ja määräysten perusteella antamaan päätökseen haetaan muutosta ministeriöltä valittamalla noudattaen, mitä muutoksenhausta hallintoasioissa annetussa laissa (154/50) on säädetty. Sähkötarkastuskeskuksen antamaa päätöstä on muutoksenhausta huolimatta noudatettava, jollei ministeriö toisin määrää.",
+      "section_number": "55",
+      "chapter_number": 3,
+      "statute_id": ""
+    },
+    {
+      "id": "9dc4a2f1-d00b-4855-889e-bc2528342ce6",
+      "node_type": "Section",
+      "publisher": "finlex",
+      "title": "56§",
+      "text": "Ministeriön valitusviranomaisena antamaan päätökseen ei saa hakea muutosta, jollei kysymys ole 8 §:n 1 momentissa tarkoitetun lupahakemuksen hylkäämisestä. Muutosta ei myöskään saa hakea ministeriön tämän lain nojalla antamaan uhkasakon asettamista koskevaan päätökseen. Ministeriön tämän lain nojalla antamaan muuhun kuin 1 momentissa mainittuun päätökseen saadaan hakea muutosta korkeimmalta hallintooikeudelta valittamalla.",
+      "section_number": "56",
+      "chapter_number": 3,
+      "statute_id": ""
+    },
+    {
+      "id": "4c78c91e-cb35-4756-8383-5fd3250d8320",
+      "node_type": "Section",
+      "publisher": "finlex",
+      "title": "57§",
+      "text": "Sähkölaitoksen ja sähkölaitteiston haltijan samoin kuin sähkölaitteiden ja sähkölaitteistojen valmistajan, rakentajan, maahantuojan ja myyjän on annettava ministeriölle ja Sähkötarkastuskeskukselle näiden tarpeelliseksi katsomia sähkön tuotantoa, siirtoa ja jakelua sekä sähkölaitteistoja, sähkölaitteita ja niiden valmistamista, rakentamista ja myyntiä koskevia tilasto- ja muita vastaavia tietoja.",
+      "section_number": "57",
+      "chapter_number": 3,
+      "statute_id": ""
+    },
+    {
+      "id": "7f741131-2bfc-4269-a702-4c917119afb8",
+      "node_type": "Section",
+      "publisher": "finlex",
+      "title": "58§",
+      "text": "Tämän lain ja sen nojalla annettujen säännösten ja määräysten mukaisia tarkastuksia suorittavalla henkilöllä on oikeus säännösten ja määräysten noudattamisen valvomista varten päästä tarkastamaan sähkölaitteiston kaikkia osia sekä sähkölaitteiston tai -laitteen varasto-, myynti- ja käyttöpaikkoja sekä saada valvontaa ja tarkastusta varten tarpeelliset tiedot niistä.",
+      "section_number": "58",
+      "chapter_number": 3,
+      "statute_id": ""
+    },
+    {
+      "id": "9287b884-5912-41c9-b4f2-4eb013679af6",
+      "node_type": "Section",
+      "publisher": "finlex",
+      "title": "59§",
+      "text": "Joka tässä laissa tai sen nojalla annetuissa säännöksissä tai määräyksissä tarkoitettuja tehtäviä suorittaessaan on saanut tietoonsa liike- tai ammattisalaisuuden, ei saa sitä ilmaista sivulliselle eikä käyttää hyödykseen.",
+      "section_number": "59",
+      "chapter_number": 3,
+      "statute_id": ""
+    },
+    {
+      "id": "e999bd0d-7613-498e-ae49-6cf56c54a80b",
+      "node_type": "Section",
+      "publisher": "finlex",
+      "title": "60§",
+      "text": "Joka rikkoo tätä lakia tai sen nojalla annettuja säännöksiä tai määräyksiä, on tuomittava, jollei siitä ole muualla laissa ankarampaa rankaistusta säädetty,sähkölaitteita ja -laitteistoja sekä sähköhuoltoa koskevien säännösten tai määräysten rikkomisestasakkoon tai vankeuteen enintään kuudeksi kuukaudeksi. Edellä 1 momentissa tarkoitetun rikkomuksen johdosta on sen tekijälle tai sille, jonka puolesta tai hyväksi hän on toiminut, tuottama taloudellinen hyöty tuomittava valtiolle menetetyksi. Jollei hyötyä voida tarkoin laskea, se on toiminnan laatu ja laajuus huomioon ottaen arvioitava. Omaisuus tai sen arvo, jonka osalta 1 momentissa tarkoitettuja säännöksiä on rikottu, on tuomittava kokonaan tai osaksi valtiolle menetetyksi, jollei menetetyksi tuomitseminen ole rikkomuksen vähäisyyden huomioon ottaen kohtuutonta. Ministeriöllä on oikeus määrätä keskeytettäväksi ilman tämän lain mukaista lupaa aloitettu rakentamistyö tai kieltää ilman lupaa rakennetun sähkölaitteiston tai voimalaitoksen käyttö.",
+      "section_number": "60",
+      "chapter_number": 3,
+      "statute_id": ""
+    },
+    {
+      "id": "7efba01d-0d26-48f6-953e-439288fbcc8f",
+      "node_type": "Section",
+      "publisher": "finlex",
+      "title": "61§",
+      "text": "Poliisipiirin päälliköllä on oikeus Sähkötarkastuskeskuksen pyynnöstä määrätä pantavaksi takavarikkoon myytävänä oleva tai kaupan pidetty 36 §:ssä tarkoitettu sähkölaite, jota ei ole asianmukaisesti tarkastettu ja hyväksytty. Takavarikko, joka on suoritettava todistajien läsnä ollessa ja josta on laadittava pöytäkirja, on voimassa siihen saakka, kun sähkölaitteen menettämistä koskeva asia on lainvoimaisella tuomiolla ratkaistu tai poliisipiirin päällikkö Sähkötarkastuskeskuksen esityksestä toisin määrää.",
+      "section_number": "61",
+      "chapter_number": 3,
+      "statute_id": ""
+    },
+    {
+      "id": "e5e08fa4-395d-4e0c-a174-d10bfd0f2b45",
+      "node_type": "Section",
+      "publisher": "finlex",
+      "title": "62§",
+      "text": "Poliisi- ja tulliviranomaisen tulee tarvittaessa antaa virka-apua tämän lain ja sen nojalla annettujen säännösten ja määräysten noudattamisen valvontaa koskevissa asioissa. Poliisiviranomaisen tulee tarvittaessa antaa virka-apua myös 35, 37 ja 60 §:ssä tarkoitettujen pakkokeinojen täytäntöönpanossa.",
+      "section_number": "62",
+      "chapter_number": 3,
+      "statute_id": ""
+    },
+    {
+      "id": "0424bcb5-acbc-42d5-83a3-a82b73fe2160",
+      "node_type": "Section",
+      "publisher": "finlex",
+      "title": "63§",
+      "text": "Mitä rikoslain 34 luvun 10 §:ssä ja 35 luvun 1 §:ssä säädetään niissä mainitun omaisuuden vahingoittamisesta tai sellaisen teon yrityksestä, on sovellettava myös, kun teko kohdistuu sähkölaitteistoihin rakennuksineen tai voimalaitoksiin. Joka estää tai häiritsee voimalaitoksen tahi sähkönsiirtolaitteiston käyttämistä, on tuomittava rangaistukseen niin kuin rikoslain 34 luvun 12 §:ssä on säädetty.",
+      "section_number": "63",
+      "chapter_number": 3,
+      "statute_id": ""
+    },
+    {
+      "id": "ad1d2dde-16a6-452e-ac58-ed8a0f658521",
+      "node_type": "Section",
+      "publisher": "finlex",
+      "title": "64§",
+      "text": "Joka luvattomasti käyttää tai yrittää käyttää hyväkseen sähköä, anastaakseen sitä itselleen tai toiselle, on tuomittava rangaistukseen varastamisesta tai sen yrityksestä niin kuin rikoslain 28 luvussa on säädetty.",
+      "section_number": "64",
+      "chapter_number": 3,
+      "statute_id": ""
+    },
+    {
+      "id": "de50ca74-dc49-4160-bfdb-a37504d205fd",
+      "node_type": "Section",
+      "publisher": "finlex",
+      "title": "65§",
+      "text": "Tätä lakia on soveltuvin osin noudatettava myös sellaisiin sähkölaitteisiin ja -laitteistoihin, jotka ovat valmiina tai joiden valmistaminen tai rakentaminen on aloitettu tämän lain tullessa voimaan.",
+      "section_number": "65",
+      "chapter_number": 3,
+      "statute_id": ""
+    },
+    {
+      "id": "44d3a854-e19f-4ec3-a761-13f8c0fc0293",
+      "node_type": "Section",
+      "publisher": "finlex",
+      "title": "66§",
+      "text": "Edellä 9 §:ssä tarkoitettua lupaa koskeva hakemus tulee tämän lain voimaan tullessa toimivien sähkölaitosten toimittaa ministeriölle yhden vuoden kuluessa lain voimaantulosta. Jos 1 momentissa tarkoitettu sähkölaitos ei täytä luvan myöntämiselle asetettavia edellytyksiä, ministeriö voi myöntää sähkölaitokselle enintään viiden vuoden määräajan sähkölaitosluvan saamiselle asetettavien edellytyksien täyttämistä varten. Määräaikaa voidaan erittäin painavien syiden sitä vaatiessa jatkaa enintään yhdellä vuodella kerrallaan. Jollei 2 momentissa tarkoitettu sähkölaitos asetun määräajan kuluessa saata laitosta luvan myöntämiselle asetettujen edellytysten ja voimassa olevien määräysten mukaiseksi, ministeriön tulee evätä haettu sähkölaitoslupa ja ryhtyä tarpeellisiin toimenpiteisiin sähköhuollon järjestämiseksi määräysten edellyttämällä tavalla sähkölaitoksen toimialueella.",
+      "section_number": "66",
+      "chapter_number": 3,
+      "statute_id": ""
+    },
+    {
+      "id": "d515dd7a-9505-4a9d-882f-986cea063640",
+      "node_type": "Section",
+      "publisher": "finlex",
+      "title": "67§",
+      "text": "Edellä 8 §:ssä tarkoitettua lupaa ei tarvitse hakea sen, joka on ennen tämän lain voimaantuloa tehnyt sähkölaitoksen rakentamisesta, korjaamisesta ja suunnittelemisesta sekä näitä töitä johtavan henkilön pätevyysvaatimuksista 3 päivänä heinäkuuta 1975 annetun kauppa- ja teollisuusministeriön päätöksen (555/75) 13 §:n mukaisen ilmoituksen. Ministeriö voi kuitenkin määrätä, että 1 momentissa tarkoitetun elinkeinonharjoittajan on ministeriön määräämässä kohtuullisessa ajassa täytettävä 8 §:n 2 momentissa säädetyn luvan myöntämiselle tilojen ja työvälineiden osalta asetetut edellytykset.",
+      "section_number": "67",
+      "chapter_number": 3,
+      "statute_id": ""
+    },
+    {
+      "id": "661cc97b-c72f-473f-9262-d2beaf6e2ab2",
+      "node_type": "Section",
+      "publisher": "finlex",
+      "title": "68§",
+      "text": "Sähköhuollon neuvottelukunnan tulee toimittaa tässä laissa tarkoitettu ensimmäinen runkosuunnitelma ministeriölle yhden vuoden kuluessa neuvottelukunnan asettamisesta. Sähköhuollon aluetoimikuntien tulee toimittaa laatimansa aluesuunnitelma ministeriölle kuuden kuukauden kuluessa siitä, kun edellä tarkoitettu hyväksytty valtakunnallinen suunnitelma on saatettu aluetoimikuntien tiedoksi.",
+      "section_number": "68",
+      "chapter_number": 3,
+      "statute_id": ""
+    },
+    {
+      "id": "84fd8790-6490-49c9-8e45-5666cb5d9bcb",
+      "node_type": "Section",
+      "publisher": "finlex",
+      "title": "69§",
+      "text": "Jos 24 tai 25 §:ssä tarkoitetun voimalaitoksen tai sähkönsiirtolaitteiston rakentaminen on tämän lain voimaan tullessa aloitettu tai rakentaminen aloitetaan neljän kuukauden kuluessa lain voimaan tulosta, ei rakentamiseen tarvita tämän lain mukaista lupaa. Rakentamisesta on kuitenkin tehtävä 25 §:n 4 momentin mukainen ilmoitus edellä mainitun ajan kuluessa. Edellä 25 §:n 2 momentin 3 kohdassa tarkoitetun sähkönsiirto- ja jakelulaitteiston rakentamiseen ei tarvita lupaa myöskään ennen kuin ministeriö on hyväksynyt kyseiselle yhteistoiminta-alueelle ensimmäisen aluesuunnitelman.",
+      "section_number": "69",
+      "chapter_number": 3,
+      "statute_id": ""
+    },
+    {
+      "id": "02cae502-bd31-4f1b-b75a-91f8ee943271",
+      "node_type": "Section",
+      "publisher": "finlex",
+      "title": "70§",
+      "text": "Tarkemmat säännökset tämän lain täytäntöönpanosta ja soveltamisesta annetaan asetuksella.",
+      "section_number": "70",
+      "chapter_number": 3,
+      "statute_id": ""
+    },
+    {
+      "id": "7f0a9459-e3fe-497f-9e3c-6a7cf9b4a369",
+      "node_type": "Section",
+      "publisher": "finlex",
+      "title": "71§",
+      "text": "Tämä laki tulee voimaan 1 päivänä tammikuuta 1980. Tällä lailla kumotaan sähkölaitoksista 11 päivänä toukokuuta 1928 annettu laki (167/28) siihen myöhemmin tehtyine muutoksineen. Sen nojalla annetut asetukset ja ministeriön päätökset jäävät kuitenkin edelleen voimaan, jollei niistä asetuksella tai ministeriön päätöksellä toisin säädetä tai määrätä. Edellä 30 §:ssä tarkoitettu Sähkötarkastuskeskus voidaan perustaa jo ennen tämän lain voimaantuloa. Ennen tämän lain voimaantuloa syntyneen vahingon korvaamiseen sovelletaan aikaisempaa lakia.",
+      "section_number": "71",
+      "chapter_number": 3,
+      "statute_id": ""
+    }
+  ],
+  "clauses": [
+    {
+      "id": "1dbef65c-b93c-4d45-9a70-f5c183b02b94",
+      "node_type": "Clause",
+      "publisher": "finlex",
+      "title": "§ 21 mom 1",
+      "text": "1) laatia vuosittain ehdotus vähintään 5 vuoden aluesuunnitelmaksi sekä tarvittaessa tehdä esityksiä suunnitelman tarkistamiseksi;",
+      "clause_number": 1,
+      "section_number": "21",
+      "statute_id": ""
+    },
+    {
+      "id": "e4c4fc0a-4a70-45c5-ade1-fb17a467a53a",
+      "node_type": "Clause",
+      "publisher": "finlex",
+      "title": "§ 21 mom 2",
+      "text": "2) laatia alueelle suosituksia sähkön jakelusta sekä sähkönsiirtolaitteistojen ja voimalaitosten yhteiskäytöstä;",
+      "clause_number": 2,
+      "section_number": "21",
+      "statute_id": ""
+    },
+    {
+      "id": "b85fcfc7-d871-44ed-9b60-1de1c3d0d206",
+      "node_type": "Clause",
+      "publisher": "finlex",
+      "title": "§ 21 mom 3",
+      "text": "3) tehdä alueen sähköhuoltoon liittyviä aloitteita ja esityksiä",
+      "clause_number": 3,
+      "section_number": "21",
+      "statute_id": ""
+    },
+    {
+      "id": "dc3f6845-b699-4bca-b642-85a9e85c591e",
+      "node_type": "Clause",
+      "publisher": "finlex",
+      "title": "§ 21 mom 4",
+      "text": "4) antaa sähköhuollon neuvottelukunnalle oman alueensa osalta lausunto runkosuunnitelmaehdotuksesta ja antaa alueen sähköhuollosta muitakin lausuntoja; sekä.",
+      "clause_number": 4,
+      "section_number": "21",
+      "statute_id": ""
+    },
+    {
+      "id": "b07838f4-e9bb-4c1f-a57f-7fc8733c5ee6",
+      "node_type": "Clause",
+      "publisher": "finlex",
+      "title": "§ 21 mom 5",
+      "text": "5) olla yhteydessä muihin aluetoimikuntiin.",
+      "clause_number": 5,
+      "section_number": "21",
+      "statute_id": ""
+    },
+    {
+      "id": "9ec4b67f-a5bc-4233-8d72-7aa893b1fdc7",
+      "node_type": "Clause",
+      "publisher": "finlex",
+      "title": "§ 22 mom 1",
+      "text": "1) se on laadittu asianmukaisessa järjestyksessä;",
+      "clause_number": 1,
+      "section_number": "22",
+      "statute_id": ""
+    },
+    {
+      "id": "8596077d-e458-43e9-b1e0-6b2da91e782d",
+      "node_type": "Clause",
+      "publisher": "finlex",
+      "title": "§ 22 mom 2",
+      "text": "2) se on 18 §:ssä säädettyjen vaatimusten mukainen;",
+      "clause_number": 2,
+      "section_number": "22",
+      "statute_id": ""
+    },
+    {
+      "id": "9bb325db-8463-4f10-9876-ad4cf2e04f8e",
+      "node_type": "Clause",
+      "publisher": "finlex",
+      "title": "§ 22 mom 3",
+      "text": "3) se on ministeriön antamien yleisohjeiden mukainen; eikä",
+      "clause_number": 3,
+      "section_number": "22",
+      "statute_id": ""
+    },
+    {
+      "id": "16713463-1021-4038-b25f-2c396a485135",
+      "node_type": "Clause",
+      "publisher": "finlex",
+      "title": "§ 22 mom 4",
+      "text": "4) ole painavia perusteita ehdotuksen hylkäämiseen.",
+      "clause_number": 4,
+      "section_number": "22",
+      "statute_id": ""
+    },
+    {
+      "id": "d093ebd7-a1b3-4e79-b170-c058d0224783",
+      "node_type": "Clause",
+      "publisher": "finlex",
+      "title": "§ 25 mom 1",
+      "text": "1) sellaisen voimalaitoksen tai sähkönsiirtolaitteiston rakentamiseen, joka sisältyy vain voimassa olevaan aluesuunnitelmaan;",
+      "clause_number": 1,
+      "section_number": "25",
+      "statute_id": ""
+    },
+    {
+      "id": "6c664da3-0d82-45fb-b37f-1d573f37c085",
+      "node_type": "Clause",
+      "publisher": "finlex",
+      "title": "§ 25 mom 2",
+      "text": "2) pääasiassa yrityksen omaan teolliseen prosessiin liittyvän vastapainevoimalaitoksen tai pääasiassa teollisuuden jäte-energiaa hyväksikäyttävän voimalaitoksen rakentamiseen, jos voimalaitoksen generaattoreiden nimellisteho on yhteensä enintään 65 megawattia;",
+      "clause_number": 2,
+      "section_number": "25",
+      "statute_id": ""
+    },
+    {
+      "id": "46c076eb-14d6-4928-8528-10bdcc16b2e5",
+      "node_type": "Clause",
+      "publisher": "finlex",
+      "title": "§ 25 mom 3",
+      "text": "3) muun voimalaitoksen rakentamiseen, jos voimalaitoksen generaattoreiden nimellisteho on yhteensä enintään 500 kilowattia, taikka nimellisjännitteeltään enintään 20 kilovoltin sähkönsiirto- ja jakelulaitteiston rakentamiseen, mikäli kyseisen laitteiston rakentaa hyväksytyn aluesuunnitelman piiriin kuuluva sähkölaitos sähkönjakelualueellaan.",
+      "clause_number": 3,
+      "section_number": "25",
+      "statute_id": ""
+    },
+    {
+      "id": "a2aec7ce-1973-4f79-b1e1-b20c2ff4c0fe",
+      "node_type": "Clause",
+      "publisher": "finlex",
+      "title": "§ 26 mom 1",
+      "text": "1) jos voimalaitoksen tai sähkösiirtolaitteiston rakentaminen on kyseisessä suunnitelmassa merkitty aloitettavaksi kahden ensimmäisen vuoden aikana;",
+      "clause_number": 1,
+      "section_number": "26",
+      "statute_id": ""
+    },
+    {
+      "id": "ed22e0f2-e9c0-4cd1-93c5-a777c96d40e2",
+      "node_type": "Clause",
+      "publisher": "finlex",
+      "title": "§ 26 mom 2",
+      "text": "2) jos voimalaitos tai sähkönsiirtolaitteisto rakennetaan kyseisen suunnitelman mukaisesti; eikä",
+      "clause_number": 2,
+      "section_number": "26",
+      "statute_id": ""
+    },
+    {
+      "id": "6f8a8fd6-2f21-4c65-9d67-d9981718d001",
+      "node_type": "Clause",
+      "publisher": "finlex",
+      "title": "§ 26 mom 3",
+      "text": "3) ole painavia syitä hylätä hakemus.",
+      "clause_number": 3,
+      "section_number": "26",
+      "statute_id": ""
+    },
+    {
+      "id": "3ea69ff2-5164-423c-927e-ee16c2b5cd8c",
+      "node_type": "Clause",
+      "publisher": "finlex",
+      "title": "§ 41 mom 1",
+      "text": "1) sähkövahinko on aiheutunut toiselle sähkölaitteelle tai -laitteistolle, jonka nimellisjännite on yli 400 volttia, taikka",
+      "clause_number": 1,
+      "section_number": "41",
+      "statute_id": ""
+    },
+    {
+      "id": "6966fa8e-4eaa-4af6-a4c7-3a9e14d1fb86",
+      "node_type": "Clause",
+      "publisher": "finlex",
+      "title": "§ 41 mom 2",
+      "text": "2) sähkövahingon on aiheuttanut sellainen kiinteistön sisäiseen sähköhuoltoon kuuluva sähkölaite tai -laitteisto taikka siihen liitetty sähkölaite tai -laitteisto, jonka nimellisjännite on enintään 400 volttia.",
+      "clause_number": 2,
+      "section_number": "41",
+      "statute_id": ""
+    }
+  ],
+  "cross_references": [],
+  "raw_html_path": "C:\\Users\\danit\\finance-hack\\aalto-hackaton-2026\\data\\raw\\finlex\\Laki (säädöskokoelma)\\Sähkölaki.html"
+}

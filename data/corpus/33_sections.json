@@ -1,0 +1,600 @@
+{
+  "statute": {
+    "id": "6e59ce13-ac4e-4711-957d-a31ea50eb089",
+    "node_type": "Statute",
+    "publisher": "finlex",
+    "title": "Väylämaksulaki",
+    "text": "Väylämaksulaki",
+    "statute_id": "",
+    "finlex_url": ""
+  },
+  "chapters": [
+    {
+      "id": "0742b4bb-c0cd-43e8-aed6-de10d2d6ac37",
+      "node_type": "Chapter",
+      "publisher": "finlex",
+      "title": "Chapter 1",
+      "text": "1 luku Yleiset säännökset",
+      "chapter_number": 1,
+      "statute_id": ""
+    },
+    {
+      "id": "146405fd-b98a-4fcf-9ded-89f31d16a585",
+      "node_type": "Chapter",
+      "publisher": "finlex",
+      "title": "Chapter 2",
+      "text": "2 luku Viranomaiset",
+      "chapter_number": 2,
+      "statute_id": ""
+    },
+    {
+      "id": "fac018e7-5334-4cdf-b786-809b91430a8a",
+      "node_type": "Chapter",
+      "publisher": "finlex",
+      "title": "Chapter 3",
+      "text": "3 luku Maksuvelvollisuus",
+      "chapter_number": 3,
+      "statute_id": ""
+    },
+    {
+      "id": "f64fbfff-d34c-48f4-9788-60cd35168770",
+      "node_type": "Chapter",
+      "publisher": "finlex",
+      "title": "Chapter 4",
+      "text": "4 luku Maksun kantaminen",
+      "chapter_number": 4,
+      "statute_id": ""
+    },
+    {
+      "id": "cc800dca-95da-4ab8-86b0-2879657448a9",
+      "node_type": "Chapter",
+      "publisher": "finlex",
+      "title": "Chapter 5",
+      "text": "5 luku Maksuperusteet",
+      "chapter_number": 5,
+      "statute_id": ""
+    },
+    {
+      "id": "30d56411-53ca-4861-b631-cf602473075d",
+      "node_type": "Chapter",
+      "publisher": "finlex",
+      "title": "Chapter 6",
+      "text": "6 luku Maksuvapautus",
+      "chapter_number": 6,
+      "statute_id": ""
+    },
+    {
+      "id": "36229948-56a7-452a-9771-c06a1482b3ed",
+      "node_type": "Chapter",
+      "publisher": "finlex",
+      "title": "Chapter 7",
+      "text": "7 luku Maksunoikaisu ja jälkimaksatus",
+      "chapter_number": 7,
+      "statute_id": ""
+    },
+    {
+      "id": "66b39ad6-c773-4958-96f2-55f2fedcced6",
+      "node_type": "Chapter",
+      "publisher": "finlex",
+      "title": "Chapter 8",
+      "text": "8 luku Erinäiset säännökset",
+      "chapter_number": 8,
+      "statute_id": ""
+    },
+    {
+      "id": "0445b561-91bd-414e-8a74-1502463d34e1",
+      "node_type": "Chapter",
+      "publisher": "finlex",
+      "title": "Chapter 9",
+      "text": "9 luku Voimaantulo- ja siirtymäsäännökset",
+      "chapter_number": 9,
+      "statute_id": ""
+    }
+  ],
+  "sections": [
+    {
+      "id": "5417d4ac-c058-4119-bb6e-ad902720725e",
+      "node_type": "Section",
+      "publisher": "finlex",
+      "title": "1 § Väylämaksu",
+      "text": "Merenkulussa käytettävien julkisten kulkuväylien ja vesiliikenteelle tarpeellisten turvalaitteiden rakentamisesta, ylläpidosta ja hoidosta sekä jäänmurtajien avustustoiminnasta valtiolle aiheutuneiden kustannusten kattamiseksi valtiolle kannetaan väylämaksua siten kuin tässä laissa säädetään.",
+      "section_number": "1",
+      "chapter_number": 1,
+      "statute_id": ""
+    },
+    {
+      "id": "de224146-93ad-4ba1-b424-fe0a711aea22",
+      "node_type": "Section",
+      "publisher": "finlex",
+      "title": "2 § Maksun suuruus",
+      "text": "Väylämaksulla katetaan 1 §:ssä tarkoitetusta toiminnasta aiheutuvat kustannukset. Jäänmurtajien avustustoiminnasta valtiolle aiheutuvista kustannuksista osa voidaan kuitenkin jättää ottamatta huomioon yksityiskohtaisia maksuperusteita ja maksuja valtioneuvoston asetuksella säädettäessä.",
+      "section_number": "2",
+      "chapter_number": 1,
+      "statute_id": ""
+    },
+    {
+      "id": "cbd032ef-f66b-4094-9828-6b922f949ad8",
+      "node_type": "Section",
+      "publisher": "finlex",
+      "title": "3 § Tulliviranomaiset",
+      "text": "Väylämaksun kantamisesta vastaa tulliviranomainen. Tullihallitus voi antaa tarkempia määräyksiä menettelystä väylämaksua kannettaessa.",
+      "section_number": "3",
+      "chapter_number": 2,
+      "statute_id": ""
+    },
+    {
+      "id": "2a4c555d-3c2e-4d03-b6d1-d7759f11216e",
+      "node_type": "Section",
+      "publisher": "finlex",
+      "title": "4 § Merenkulkulaitos",
+      "text": "Merenkulkulaitoksen on salassapitosäännösten estämättä toimitettava tulliviranomaisille tämän lain soveltamisessa tarvittavia selvityksiä ja lausuntoja sekä muuta aineistoa. Laitoksen on tarvittaessa annettava tulliviranomaisille myös muuta virka-apua.",
+      "section_number": "4",
+      "chapter_number": 2,
+      "statute_id": ""
+    },
+    {
+      "id": "9b3f4031-62d3-41d6-95c0-1c88efb47a63",
+      "node_type": "Section",
+      "publisher": "finlex",
+      "title": "5 § Maksuvelvollisuus",
+      "text": "Väylämaksua on velvollinen suorittamaan jokainen, joka harjoittaa rekisteröidyllä suomalaisella aluksella tai ulkomaisella aluksella kauppamerenkulkua Suomen vesialueella. Velvollisuutta suorittaa väylämaksua ei ole, jos alus matkalla ulkomaisesta satamasta toiseen kulkee Suomen aluevesien kautta poikkeamatta Suomessa satamaan.",
+      "section_number": "5",
+      "chapter_number": 3,
+      "statute_id": ""
+    },
+    {
+      "id": "37b5bdfe-5b19-4778-a6b6-19363fec77bf",
+      "node_type": "Section",
+      "publisher": "finlex",
+      "title": "6 § Vastuu maksun suorittamisesta",
+      "text": "Maksun suorittamisesta vastaavat laivanisäntä ja se, joka laivanisännän puolesta ilmoittaa aluksen tuloselvitettäväksi tai toimii kotimaanliikenteessä laivanisännän edustajana. Maksuvelvollisella, joka ei asu Suomessa, sekä ulkomaisella maksuvelvollisella tulee olla tullipiirin hyväksymä Suomessa asuva edustaja, joka vastaa tämän lain mukaan maksuvelvolliselle kuuluvista velvollisuuksista ja niiden laiminlyönnistä johtuvista seuraamuksista.",
+      "section_number": "6",
+      "chapter_number": 3,
+      "statute_id": ""
+    },
+    {
+      "id": "debc880d-78d3-4a6a-ab5d-a186b4ebb4ef",
+      "node_type": "Section",
+      "publisher": "finlex",
+      "title": "7 § Ulkomaanliikenteen väylämaksu",
+      "text": "Ulkomaanliikenteen väylämaksu kannetaan kertamaksuna, kun alus saapuu ulkomailta Suomeen. Kertamaksun suuruus määräytyy aluksen nettovetoisuuden ja jääluokan perusteella. Tarkemmat säännökset kertamaksun suuruudesta ja tarvittaessa sen ylärajasta annetaan valtioneuvoston asetuksella.",
+      "section_number": "7",
+      "chapter_number": 4,
+      "statute_id": ""
+    },
+    {
+      "id": "35f6cf59-4870-4dde-92f0-4315f4b25bfc",
+      "node_type": "Section",
+      "publisher": "finlex",
+      "title": "8 § Kotimaanliikenteen väylämaksu",
+      "text": "Kotimaanliikenteen väylämaksu kannetaan vuosimaksuna kalenterivuosittain. Vuosimaksun suuruus määräytyy aluksen nettovetoisuuden perusteella. Tarkemmat säännökset vuosimaksun suuruudesta annetaan valtioneuvoston asetuksella. Kotimaanliikenteenä pidetään matkaa suomalaisesta satamasta toiseen, jollei matkan aikana poiketa ulkomaiseen satamaan lastaamista tai purkamista tai matkustajien ottamista tai jättämistä varten.",
+      "section_number": "8",
+      "chapter_number": 4,
+      "statute_id": ""
+    },
+    {
+      "id": "61cce09c-6975-4c4f-9d2c-e5b0005e0eea",
+      "node_type": "Section",
+      "publisher": "finlex",
+      "title": "9 § Kotimaanliikenteen väylämaksun huomioon ottaminen",
+      "text": "Jos alus, josta on suoritettu kotimaanliikenteen väylämaksu, saapuu saman kalenterivuoden aikana ulkomailta Suomeen, väylämaksuna kannetaan puolet 7 §:ssä tarkoitetusta kertamaksusta.",
+      "section_number": "9",
+      "chapter_number": 4,
+      "statute_id": ""
+    },
+    {
+      "id": "dc88289b-23f6-42b6-ae2c-173098a7996a",
+      "node_type": "Section",
+      "publisher": "finlex",
+      "title": "10 § Maksuilmoitus",
+      "text": "Laivanisännän on annettava tulliviranomaiselle väylämaksun määräämistä varten maksuilmoitus. Ilmoituksen tulee sisältää 5 luvussa säädettyjen maksuperusteiden mukaisen maksun määräämistä varten tarvittavat tiedot. Ulkomaanliikennettä harjoittavasta aluksesta on annettava maksuilmoitus siihen tullitoimipaikkaan, jossa aluksen tuloselvitys tapahtuu. Kotimaanliikennettä harjoittavasta aluksesta on annettava maksuilmoitus aluksen kotipaikkaa lähinnä olevaan tullitoimipaikkaan. Ilmoitus on annettava kunakin vuonna maaliskuun loppuun mennessä tai, jos alus ei ole silloin liikenteessä, välittömästi aluksen aloittaessa liikenteen. Maksuilmoitus voidaan antaa myös sähköisesti tai muussa automaattiseen tietojenkäsittelyyn soveltuvassa muodossa.",
+      "section_number": "10",
+      "chapter_number": 4,
+      "statute_id": ""
+    },
+    {
+      "id": "bd7fc079-2d24-4982-9824-4c8695c91e74",
+      "node_type": "Section",
+      "publisher": "finlex",
+      "title": "11 § Aluksen nettovetoisuus",
+      "text": "Nettovetoisuutena käytetään aluksen mittakirjassa ilmoitettua nettovetoisuutta, jollei 2 momentista muuta johdu. Jos alukselta puuttuu mittakirja, mittakirjassa ilmoitettu vetoisuus ei vastaa aluksen todellista vetoisuutta tai alus ei ole oikeutettu voimassa olevien aluksenmittaussääntöjen mukaan käyttämään mittakirjassa ilmoitettua nettovetoisuutta, Merenkulkulaitos vahvistaa aluksen nettovetoisuuden väylämaksun perusteeksi voimassa olevien aluksenmittaussääntöjen mukaisesti.",
+      "section_number": "11",
+      "chapter_number": 5,
+      "statute_id": ""
+    },
+    {
+      "id": "363d0575-e92b-476f-884b-dbee4361e3b2",
+      "node_type": "Section",
+      "publisher": "finlex",
+      "title": "12 § Jääluokka",
+      "text": "Alukset kuuluvat jääluokkiin seuraavasti: Jääluokan vahvistamista varten tarvittavista tiedoista ja selvityksistä sekä eri jääluokkiin kuuluvien alusten varustevaatimuksista säädetään tarkemmin valtioneuvoston asetuksella. Valtioneuvoston asetuksella säädetään myös jääluokkasyväyksestä ja alusyhdistelmän jääluokan määräytymisestä. Merenkulkulaitos antaa tarkemmat määräykset talviliikennevaatimuksista, joista ilmenevät eri jääluokkien väliset erot, sekä vahvistaa luettelon hyväksyttyjen luokituslaitosten antamia luokitusmerkintöjä vastaavista suomalaisista jääluokista.",
+      "section_number": "12",
+      "chapter_number": 5,
+      "statute_id": ""
+    },
+    {
+      "id": "11e96ffd-75d3-4fc0-a25b-3412a28cee49",
+      "node_type": "Section",
+      "publisher": "finlex",
+      "title": "13 § Jääluokan vahvistaminen",
+      "text": "Merenkulkulaitoksen tarkastaja tai laitoksen valtuuttama ulkopuolinen tarkastaja vahvistaa aluksen jääluokan laivanisännän pyynnöstä. Laivanisännän on annettava tarkastajalle jääluokan vahvistamista varten tarvittavat tiedot ja selvitykset. Jääluokka vahvistetaan:",
+      "section_number": "13",
+      "chapter_number": 5,
+      "statute_id": ""
+    },
+    {
+      "id": "76beac52-0698-4a98-9e46-461fbabf9f28",
+      "node_type": "Section",
+      "publisher": "finlex",
+      "title": "14 § Jääluokkatodistus",
+      "text": "Edellä 13 §:ssä tarkoitettu tarkastaja antaa jääluokkatodistuksen laivanisännän pyynnöstä. Jääluokkatodistuksessa yksilöidään jääluokan vahvistamisen perusteena olleet tiedot. Jääluokkatodistus on voimassa niin kauan kuin jääluokan vahvistamisen perusteena olleet tiedot eivät ole muuttuneet. Todistus on kuitenkin voimassa enintään aluksen luokitustodistuksen voimassaoloajan. Jos aluksen jääluokan vahvistamisen perusteena olleissa tiedoissa, kuten luokituslaitoksen antamassa luokitusmerkinnässä taikka aluksen konetehossa tai syväyksessä, tapahtuu muutos, laivanisäntä on velvollinen pyytämään tarkastajalta uuden jääluokkatodistuksen viimeistään silloin, kun alus muutoksen jälkeen ensimmäisen kerran on Suomessa. Laivanisännän on annettava tarkastajalle jääluokkatodistuksen antamista varten tarvittavat tiedot ja selvitykset. Tiedoista ja selvityksistä säädetään tarkemmin valtioneuvoston asetuksella. Merenkulkulaitos vahvistaa jääluokkatodistuslomakkeen kaavan.",
+      "section_number": "14",
+      "chapter_number": 5,
+      "statute_id": ""
+    },
+    {
+      "id": "876af633-d9dd-4390-bdf1-307f4d1225f1",
+      "node_type": "Section",
+      "publisher": "finlex",
+      "title": "15 § Ulkopuolisen tarkastajan velvollisuudet",
+      "text": "Jääluokan vahvistamista ja jääluokkatodistuksen antamista koskevassa asiassa myös Merenkulkulaitoksen valtuuttaman ulkopuolisen tarkastajan on noudatettava hallintomenettelylakia (598/1982), kielilakia (148/1922), viranomaisten toiminnan julkisuudesta annettua lakia (621/1999) ja tiedoksiannosta hallintoasioissa annettua lakia (232/1966).",
+      "section_number": "15",
+      "chapter_number": 5,
+      "statute_id": ""
+    },
+    {
+      "id": "eac2f9f6-bbfa-48db-8ddd-333243fab5a6",
+      "node_type": "Section",
+      "publisher": "finlex",
+      "title": "16 § Jääluokkatodistuksen peruuttaminen",
+      "text": "Jos alus on vaurioitunut tai sen rakenteellinen kunto on muutoin huonontunut, Merenkulkulaitoksen on tarvittaessa peruutettava alukselle annettu jääluokkatodistus ja vahvistettava alukselle uusi, sen jäissäkulkukykyä ja rakenteellista kuntoa vastaava alempi jääluokka. Laivanisännän on ilmoitettava Merenkulkulaitokselle jäävauriosta tai muusta aluksen kuntoa heikentävästä vauriosta.",
+      "section_number": "16",
+      "chapter_number": 5,
+      "statute_id": ""
+    },
+    {
+      "id": "bebfb32a-6b29-462d-a708-78582084c148",
+      "node_type": "Section",
+      "publisher": "finlex",
+      "title": "17 § Jääluokkatodistuksen puuttuminen",
+      "text": "Jos aluksella ei ole voimassa olevaa jääluokkatodistusta, ulkomaanliikenteen väylämaksu kannetaan jääluokan III mukaisesti.",
+      "section_number": "17",
+      "chapter_number": 5,
+      "statute_id": ""
+    },
+    {
+      "id": "2e80bd25-fe08-4190-900f-be7107d5c66a",
+      "node_type": "Section",
+      "publisher": "finlex",
+      "title": "18 § Virheellinen jääluokka",
+      "text": "Jos alukselle annetun jääluokkatodistuksen mukainen luokka on parempi kuin aluksen ominaisuudet edellyttävät ja tämä johtuu siitä, että aluksesta on annettu virheellisiä tietoja jääluokan vahvistamista varten, väylämaksu kannetaan jääluokan III mukaisesti siltä ajalta, jona aluksen jääluokka on ollut virheellinen.",
+      "section_number": "18",
+      "chapter_number": 5,
+      "statute_id": ""
+    },
+    {
+      "id": "54735aa3-2919-4dda-8209-6377247f4895",
+      "node_type": "Section",
+      "publisher": "finlex",
+      "title": "19 § Maksukerroista johtuva maksuvapautus ja maksun lisäys",
+      "text": "Kun vähintään 120 matkustajalle rekisteröidystä matkustaja-aluksesta on suoritettu väylämaksua 32 kerralta ja muusta aluksesta 10 kerralta, alus on vapautettu saman kalenterivuoden aikana enemmistä ulkomaanliikenteen kertamaksuista, jos väylämaksun suuruuteen vaikuttavat tiedot eivät muutu siten, että kertamaksu nousee. Jos väylämaksun suuruuteen vaikuttavat tiedot muuttuvat siten, että kertamaksu nousee, aluksesta on suoritettava lisää väylämaksua. Maksua maksetaan määrä, joka vastaa vähintään 120 matkustajalle rekisteröidystä matkustaja-aluksesta kalenterivuodelta määräytyvää 32:ta suurinta kertamaksua ja muusta aluksesta kalenterivuodelta määräytyvää 10:tä suurinta kertamaksua. Edellä 1 ja 2 momentissa tarkoitetut maksut voidaan maksaa etukäteen yhdellä kertaa. Tulliviranomaisen on maksuvelvollisen pyynnöstä annettava maksuvapautustodistus, jos 1 tai 2 momentissa tarkoitetut maksut on todistettavasti suoritettu. Maksuvapautustodistus raukeaa, jos väylämaksun suuruuteen vaikuttavat tiedot muuttuvat siten, että kertamaksu nousee.",
+      "section_number": "19",
+      "chapter_number": 6,
+      "statute_id": ""
+    },
+    {
+      "id": "026ef088-85c5-409a-afd7-29005931e726",
+      "node_type": "Section",
+      "publisher": "finlex",
+      "title": "20 § Muut maksuvapautukset",
+      "text": "Väylämaksua ei kanneta aluksista: Edellä 1 momentin 2 kohdassa tarkoitetuilta aluksilta peritään kuitenkin Saimaan kanavalle suuntautuvan matkan yhteydessä puolet väylämaksusta sekä silloin, kun alus samalla tuo ulkomailta lastia Suomen rannikon satamaan, että silloin, kun alus vie lastia ulkomaille Suomen rannikon satamasta. Toiseen kertaan suoritettavasta väylämaksusta vapautettuja ovat alukset, jotka saman matkan aikana poikkeavat Suomessa tapahtuvien lastausten välillä täydentämään lastia lastaus- tai ahtausteknisistä syistä ulkomaan satamassa.",
+      "section_number": "20",
+      "chapter_number": 6,
+      "statute_id": ""
+    },
+    {
+      "id": "bf828369-34be-4a03-b47a-457bb9f097dd",
+      "node_type": "Section",
+      "publisher": "finlex",
+      "title": "21 § Oikaisu maksunsaajan hyväksi",
+      "text": "Jos väylämaksu laskuvirheen tai siihen verrattavan erehdyksen vuoksi tai sen vuoksi, että tullipiiri ei ole asiaa joltakin osin tutkinut, on jäänyt kokonaan tai osaksi määräämättä tai sitä on palautettu liikaa maksuvelvollisen sitä aiheuttamatta, tullipiirin on, jollei asia muutoin ole vireillä tai valitukseen annetulla päätöksellä ratkaistu, oikaistava antamaansa päätöstä. Oikaisu on tehtävä vuoden kuluessa sitä seuraavan kalenterivuoden alusta, jona väylämaksu tai sen palautus määrättiin tai olisi maksuvelvollisen ilmoituksen perusteella pitänyt määrätä.",
+      "section_number": "21",
+      "chapter_number": 7,
+      "statute_id": ""
+    },
+    {
+      "id": "cab83e10-036a-468c-b1b3-b3e762978d1d",
+      "node_type": "Section",
+      "publisher": "finlex",
+      "title": "22 § Oikaisu maksuvelvollisen hyväksi",
+      "text": "Jos tullipiiri oikaisuvaatimuksesta, valituksen johdosta tai muutoin toteaa, että väylämaksua on määrätty liikaa tai palautettu liian vähän, tullipiirin on oikaistava antamaansa päätöstä, jollei asiaa ole valitukseen annetulla päätöksellä ratkaistu. Oikaisu voidaan tehdä kolmen vuoden kuluessa väylämaksun tai sen palautuksen määräämistä seuraavan kalenterivuoden alusta tai sanotun ajan kuluessa tehdyn kirjallisen vaatimuksen perusteella myöhemminkin.",
+      "section_number": "22",
+      "chapter_number": 7,
+      "statute_id": ""
+    },
+    {
+      "id": "0bf594a8-8764-4832-852a-18dd31cc2b7d",
+      "node_type": "Section",
+      "publisher": "finlex",
+      "title": "23 § Jälkimaksatus",
+      "text": "Jos väylämaksu on jäänyt kokonaan tai osaksi määräämättä sen vuoksi, että maksuvelvollinen on kokonaan tai osittain laiminlyönyt ilmoitusvelvollisuutensa tai antanut väylämaksun määräämistä varten puutteellisen, erehdyttävän tai väärän ilmoituksen tai muun tiedon tai asiakirjan, taikka jos väylämaksua on sanotusta syystä palautettu liikaa, tullipiirin on määrättävä määräämättä jäänyt väylämaksu maksuvelvollisen suoritettavaksi. Jälkimaksatus on toimitettava kolmen vuoden kuluessa sitä seuraavan kalenterivuoden alusta, jonka aikana väylämaksu tai sen palautus määrättiin tai olisi pitänyt määrätä.",
+      "section_number": "23",
+      "chapter_number": 7,
+      "statute_id": ""
+    },
+    {
+      "id": "083789e8-ca15-4500-a95b-1b462edab616",
+      "node_type": "Section",
+      "publisher": "finlex",
+      "title": "24 § Maksuvelvollisen kuuleminen",
+      "text": "Ennen oikaisua maksunsaajan hyväksi ja ennen jälkimaksatusta on väylämaksun suorittamisesta 6 §:n mukaan vastuussa olevalle varattava tilaisuus tulla kuulluksi.",
+      "section_number": "24",
+      "chapter_number": 7,
+      "statute_id": ""
+    },
+    {
+      "id": "d91e54af-5abc-42a3-a158-aa6476e6e493",
+      "node_type": "Section",
+      "publisher": "finlex",
+      "title": "25 § Maksunkorotus",
+      "text": "Väylämaksua voidaan korottaa, jos maksuvelvollinen on: Jos 1 momentin 2 kohdassa tarkoitettua menettelyä on sillä saavutettavissa ollut hyöty ja muut asiaan vaikuttavat seikat huomioon ottaen pidettävä törkeänä, väylämaksua on korotettava vähintään 50 prosentilla ja enintään 100 prosentilla.",
+      "section_number": "25",
+      "chapter_number": 7,
+      "statute_id": ""
+    },
+    {
+      "id": "35fcd205-009a-419c-aa3e-51d980986fea",
+      "node_type": "Section",
+      "publisher": "finlex",
+      "title": "26 § Virhemaksu",
+      "text": "Jos 25 §:n 1 momentissa tarkoitettu menettely koskee toimenpidettä, jossa väylämaksua ei määrätä maksettavaksi, tai jos maksun määrä on vähäinen eikä maksunkorotusta ole määrätty, virhemaksuna voidaan kantaa vähintään 10 ja enintään 2 500 euroa.",
+      "section_number": "26",
+      "chapter_number": 7,
+      "statute_id": ""
+    },
+    {
+      "id": "03f71112-bf78-4149-9427-3c0d82494986",
+      "node_type": "Section",
+      "publisher": "finlex",
+      "title": "27 § Tarkastajan toimivaltuus",
+      "text": "Tarkastajalla on oikeus tarkastaa alus siinä laajuudessa kuin se on tarpeen jääluokan vahvistamista tai tarkastamista sekä jääluokkatodistuksen antamista varten. Asumiseen tarkoitettuja aluksen tiloja ei kuitenkaan saa tarkastaa.",
+      "section_number": "27",
+      "chapter_number": 8,
+      "statute_id": ""
+    },
+    {
+      "id": "3f9e17e0-ccbf-4b14-88e6-68bf2a2434d3",
+      "node_type": "Section",
+      "publisher": "finlex",
+      "title": "28 § Maksunhuojennus",
+      "text": "Merenkulkulaitos voi kirjallisesta hakemuksesta yksittäistapauksessa myöntää alennuksen väylämaksusta tai vapautuksen väylämaksun suorittamisesta taikka määrätä jo suoritetun väylämaksun tai osan siitä palautettavaksi, jos: Liikenne- ja viestintäministeriö voi ottaa maksunalennusta tai maksun vapautusta koskevan asian ratkaistavakseen, jos asia on periaatteellisesti tärkeä.",
+      "section_number": "28",
+      "chapter_number": 8,
+      "statute_id": ""
+    },
+    {
+      "id": "45be6eae-ddd3-4027-81e7-4177271847de",
+      "node_type": "Section",
+      "publisher": "finlex",
+      "title": "29 § Rangaistussäännös",
+      "text": "Joka laiminlyö tämän lain taikka sen nojalla annettujen säännösten tai määräysten mukaisen ilmoitusvelvollisuuden tai muun velvollisuuden taikka muuten rikkoo tätä lakia taikka sen nojalla annettuja säännöksiä tai määräyksiä, on tuomittava, jollei teosta muualla laissa säädetä ankarampaa rangaistusta,väylämaksurikkomuksestasakkoon.",
+      "section_number": "29",
+      "chapter_number": 8,
+      "statute_id": ""
+    },
+    {
+      "id": "29104a99-95aa-4d3b-90fd-bfe2ae58c5a4",
+      "node_type": "Section",
+      "publisher": "finlex",
+      "title": "30 § Muutoksenhaku ja oikaisuvaatimus",
+      "text": "Väylämaksua tai sen palautusta koskevaan tai muuhun tämän lain nojalla annettuun tulliviranomaisen päätökseen haetaan muutosta, jollei tässä laissa toisin säädetä, noudattaen soveltuvin osin, mitä muutoksenhausta tullilaissa (1466/1994) säädetään. Merenkulkulaitoksen valtuuttaman ulkopuolisen tarkastajan jääluokan vahvistamista tai jääluokkatodistuksen antamista koskevaan päätökseen tyytymätön voi tehdä kirjallisen oikaisuvaatimuksen Merenkulkulaitokselle. Oikaisuvaatimus on tehtävä 30 päivän kuluessa päätöksen tiedoksisaannista. Päätökseen on liitettävä oikaisuvaatimusosoitus. Muutoksenhausta Merenkulkulaitoksen tämän lain nojalla antamaan päätökseen, liikenne- ja viestintäministeriön 28 §:n 2 momentissa tarkoitettuun päätökseen sekä 2 momentin mukaisessa oikaisumenettelyssä annettuun päätökseen on voimassa, mitä hallintolainkäyttölaissa (586/1996) säädetään.",
+      "section_number": "30",
+      "chapter_number": 8,
+      "statute_id": ""
+    },
+    {
+      "id": "8da75942-89fe-4ad2-bae8-820d92050a8a",
+      "node_type": "Section",
+      "publisher": "finlex",
+      "title": "31 § Muut väylämaksua koskevat säännökset",
+      "text": "Väylämaksun maksamiseen sovelletaan, jollei tässä laissa toisin säädetä, mitä tullin maksamisesta tullilaissa säädetään. Väylämaksun maksamisen viivästysseuraamuksiin, perimiseen ulosottotoimin ja perimisen turvaamiseen sovelletaan, jollei tässä laissa toisin säädetä, mitä veronlisäyksestä ja viivekorosta annetussa laissa (1556/1995), verojen ja maksujen perimisestä ulosottotoimin annetussa laissa (367/1961) perustevalitusta koskevia säännöksiä lukuun ottamatta sekä verojen ja maksujen perimisen turvaamisesta annetussa laissa (395/1973) säädetään.",
+      "section_number": "31",
+      "chapter_number": 8,
+      "statute_id": ""
+    },
+    {
+      "id": "ccd2024c-5f26-498e-b489-794e582943ba",
+      "node_type": "Section",
+      "publisher": "finlex",
+      "title": "32 § Voimaantulo",
+      "text": "Tämä laki tulee voimaan 1 päivänä syyskuuta 2002. Tällä lailla kumotaan 30 päivänä joulukuuta 1980 annettu väylämaksulaki (1028/1980) siihen myöhemmin tehtyine muutoksineen. Väylämaksuasetuksen (1016/1983) 10 §:ää sovelletaan vuoden 2002 loppuun. Ennen lain voimaantuloa voidaan ryhtyä lain täytäntöönpanon edellyttämiin toimenpiteisiin.",
+      "section_number": "32",
+      "chapter_number": 9,
+      "statute_id": ""
+    },
+    {
+      "id": "5b914751-e0d6-41ed-bbb1-b11b694fe76e",
+      "node_type": "Section",
+      "publisher": "finlex",
+      "title": "33 § Siirtymäsäännökset",
+      "text": "Ennen tämän lain voimaantuloa annetut jäämaksuluokkatodistukset ovat edelleen voimassa enintään vuoden 2003 loppuun, jollei Merenkulkulaitos tämän lain nojalla toisin päätä. Lain 28 §:ää sovelletaan vasta 1 päivästä tammikuuta 2003.",
+      "section_number": "33",
+      "chapter_number": 9,
+      "statute_id": ""
+    }
+  ],
+  "clauses": [
+    {
+      "id": "465e4e99-2ea0-40c1-b811-d88fc22f4a33",
+      "node_type": "Clause",
+      "publisher": "finlex",
+      "title": "§ 12 mom 1",
+      "text": "1) erikoisjääluokkaan (jääluokka I A Super) alus, jonka rakenteen lujuus aluksen jäissäkulkukykyyn vaikuttavissa tärkeimmissä kohdissa olennaisesti ylittää jääluokan I A vaatimukset ja joka runkonsa muodon ja konetehonsa puolesta pystyy kulkemaan vaikeissa jääoloissa;",
+      "clause_number": 1,
+      "section_number": "12",
+      "statute_id": ""
+    },
+    {
+      "id": "bc183d47-2b57-4cde-83da-6937211e1286",
+      "node_type": "Clause",
+      "publisher": "finlex",
+      "title": "§ 12 mom 2",
+      "text": "2) jääluokkaan I A, I B tai I C jäävahvistuksen ja konetehon mukaan alus, joka täyttää aluksen rakennetta ja konetehoa koskevat talviliikennevaatimukset ja on vahvistettu jäissäkulkua varten;",
+      "clause_number": 2,
+      "section_number": "12",
+      "statute_id": ""
+    },
+    {
+      "id": "395ed9a1-e012-4677-8a34-630d2aab0c98",
+      "node_type": "Clause",
+      "publisher": "finlex",
+      "title": "§ 12 mom 3",
+      "text": "3) jääluokkaan II alus, jolla on oma kuljetuskoneisto ja joka on teräsrunkoinen ja rakenteeltaan avomerikelpoinen, mutta ei ole vahvistettu jäissäkulkua varten;",
+      "clause_number": 3,
+      "section_number": "12",
+      "statute_id": ""
+    },
+    {
+      "id": "27da7864-8126-411e-9e2e-a0e301920bae",
+      "node_type": "Clause",
+      "publisher": "finlex",
+      "title": "§ 12 mom 4",
+      "text": "4) jääluokkaan III alus, joka ei kuulu 1―3 kohdassa tarkoitettuun jääluokkaan.",
+      "clause_number": 4,
+      "section_number": "12",
+      "statute_id": ""
+    },
+    {
+      "id": "eda3512c-2428-4299-b830-358c5609ba6e",
+      "node_type": "Clause",
+      "publisher": "finlex",
+      "title": "§ 13 mom 3",
+      "text": "1) hyväksyttyjen luokituslaitosten antamia luokitusmerkintöjä vastaavista suomalaisista jääluokista Merenkulkulaitoksen 12 §:n 3 momentin nojalla vahvistaman luettelon perusteella;",
+      "clause_number": 3,
+      "section_number": "13",
+      "statute_id": ""
+    },
+    {
+      "id": "f87c1da6-d7ec-475a-b6a1-31101a4a249b",
+      "node_type": "Clause",
+      "publisher": "finlex",
+      "title": "§ 13 mom 1",
+      "text": "1) hyväksyttyjen luokituslaitosten antamia luokitusmerkintöjä vastaavista suomalaisista jääluokista Merenkulkulaitoksen 12 §:n 3 momentin nojalla vahvistaman luettelon perusteella;",
+      "clause_number": 1,
+      "section_number": "13",
+      "statute_id": ""
+    },
+    {
+      "id": "be1ed2a7-27d7-48e0-95da-008c9415c655",
+      "node_type": "Clause",
+      "publisher": "finlex",
+      "title": "§ 13 mom 2",
+      "text": "2) hyväksytyn luokituslaitoksen antaman erillisen todistuksen perusteella; taikka",
+      "clause_number": 2,
+      "section_number": "13",
+      "statute_id": ""
+    },
+    {
+      "id": "514c65f8-2824-4e58-bb83-ecc0f0c285a5",
+      "node_type": "Clause",
+      "publisher": "finlex",
+      "title": "§ 13 mom 3",
+      "text": "3) Merenkulkulaitoksen 12 §:n 3 momentin nojalla annettujen Merenkulkulaitoksen määräysten perusteella tekemällä aluskohtaisella päätöksellä.",
+      "clause_number": 3,
+      "section_number": "13",
+      "statute_id": ""
+    },
+    {
+      "id": "aa1ed84e-bf27-4b36-ab63-5567caa376a0",
+      "node_type": "Clause",
+      "publisher": "finlex",
+      "title": "§ 13 mom 3",
+      "text": "3) Merenkulkulaitoksen 12 §:n 3 momentin nojalla annettujen Merenkulkulaitoksen määräysten perusteella tekemällä aluskohtaisella päätöksellä.",
+      "clause_number": 3,
+      "section_number": "13",
+      "statute_id": ""
+    },
+    {
+      "id": "53cfba9c-acef-46f2-845a-30dcdf271e17",
+      "node_type": "Clause",
+      "publisher": "finlex",
+      "title": "§ 20 mom 1",
+      "text": "1) joita käytetään yksinomaan sisävesiliikenteessä;",
+      "clause_number": 1,
+      "section_number": "20",
+      "statute_id": ""
+    },
+    {
+      "id": "5d1ad893-bcd7-4dca-9441-83ad518eeb42",
+      "node_type": "Clause",
+      "publisher": "finlex",
+      "title": "§ 20 mom 2",
+      "text": "2) jotka saapuvat Suomeen ja lähtevät Suomesta Saimaan kanavan kautta poikkeamatta Suomen rannikon satamaan;",
+      "clause_number": 2,
+      "section_number": "20",
+      "statute_id": ""
+    },
+    {
+      "id": "fd60dd2d-b369-4c8b-b0c2-8aa13203785a",
+      "node_type": "Clause",
+      "publisher": "finlex",
+      "title": "§ 20 mom 3",
+      "text": "3) jotka valtio omistaa ja joita ei käytetä kaupallisiin tarkoituksiin; taikka",
+      "clause_number": 3,
+      "section_number": "20",
+      "statute_id": ""
+    },
+    {
+      "id": "c69daaa9-eed0-4a77-a0f3-de5d91ad7950",
+      "node_type": "Clause",
+      "publisher": "finlex",
+      "title": "§ 20 mom 4",
+      "text": "4) jotka pakottavista syistä tai ainoastaan saadakseen määräyksiä jatkettavaa matkaa varten tai aluksen kuntoonpanoa tai sen tarpeellisuuden tutkimista varten poikkeavat Suomen satamaan jättämättä tai ottamatta lastia tai matkustajia.",
+      "clause_number": 4,
+      "section_number": "20",
+      "statute_id": ""
+    },
+    {
+      "id": "4a27fd18-1b69-4327-ba98-14cf98784e80",
+      "node_type": "Clause",
+      "publisher": "finlex",
+      "title": "§ 25 mom 1",
+      "text": "1) antanut väylämaksun määräämistä varten tarvittavat tiedot puutteellisina taikka virheellisinä taikka kokonaan tai osittain laiminlyönyt ilmoitusvelvollisuutensa, enintään 30 prosentilla; taikka",
+      "clause_number": 1,
+      "section_number": "25",
+      "statute_id": ""
+    },
+    {
+      "id": "ba17b3f7-ecf1-4462-8ac7-d6f29f55ee63",
+      "node_type": "Clause",
+      "publisher": "finlex",
+      "title": "§ 25 mom 2",
+      "text": "2) tahallaan tai törkeästä huolimattomuudesta antanut väylämaksun määräämistä varten puutteellisen, erehdyttävän tai väärän ilmoituksen tai muun tiedon tai asiakirjan, jättänyt antamatta tietoja väylämaksun määräämistä varten tai muutoin laiminlyönyt tiedonantovelvollisuutensa ja menettely on ollut omiaan aiheuttamaan sen, että maksuvelvolliselle olisi voinut jäädä maksua määräämättä, enintään 50 prosentilla.",
+      "clause_number": 2,
+      "section_number": "25",
+      "statute_id": ""
+    },
+    {
+      "id": "bde2b114-b785-433c-b67a-6912cf041ba4",
+      "node_type": "Clause",
+      "publisher": "finlex",
+      "title": "§ 28 mom 1",
+      "text": "1) matkailun, rannikko- tai kauttakulkuliikenteen edistämiseen liittyvät näkökohdat tai Suomen ulkomaankaupan edistämiseen liittyvät painavat syyt sitä vaativat; taikka",
+      "clause_number": 1,
+      "section_number": "28",
+      "statute_id": ""
+    },
+    {
+      "id": "0e51b16a-65c7-45e9-bdc9-d4a48d196173",
+      "node_type": "Clause",
+      "publisher": "finlex",
+      "title": "§ 28 mom 2",
+      "text": "2) maksun periminen täysimääräisenä olisi olosuhteet huomioon ottaen ilmeisen kohtuutonta.",
+      "clause_number": 2,
+      "section_number": "28",
+      "statute_id": ""
+    }
+  ],
+  "cross_references": [],
+  "raw_html_path": "C:\\Users\\danit\\finance-hack\\aalto-hackaton-2026\\data\\raw\\finlex\\Laki (säädöskokoelma)\\Väylämaksulaki_1.html"
+}

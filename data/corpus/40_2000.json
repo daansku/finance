@@ -1,0 +1,315 @@
+{
+  "statute": {
+    "id": "e4ed9eee-7bbd-4235-a5d5-a0a957ad4c9b",
+    "node_type": "Statute",
+    "publisher": "finlex",
+    "title": "Laki tiedustelutoiminnan valvonnasta",
+    "text": "Laki tiedustelutoiminnan valvonnasta",
+    "statute_id": "40/2000",
+    "finlex_url": "https://finlex.fi/fi/laki/ajantasa/40/2000"
+  },
+  "chapters": [
+    {
+      "id": "49e69cca-7e91-46c3-9c74-a26f03994b35",
+      "node_type": "Chapter",
+      "publisher": "finlex",
+      "title": "Chapter 1",
+      "text": "1 luku Yleiset säännökset",
+      "chapter_number": 1,
+      "statute_id": "40/2000"
+    },
+    {
+      "id": "be50d930-3b7b-4cba-9a80-4df4a71a0326",
+      "node_type": "Chapter",
+      "publisher": "finlex",
+      "title": "Chapter 2",
+      "text": "2 luku Tiedustelutoiminnan parlamentaarinen valvonta",
+      "chapter_number": 2,
+      "statute_id": "40/2000"
+    },
+    {
+      "id": "1159bcd8-d73f-4851-9b42-7fe5bfb04b9e",
+      "node_type": "Chapter",
+      "publisher": "finlex",
+      "title": "Chapter 3",
+      "text": "3 luku Tiedustelutoiminnan laillisuusvalvonta",
+      "chapter_number": 3,
+      "statute_id": "40/2000"
+    },
+    {
+      "id": "69c9d309-b1f9-4527-8b61-33c73a826a65",
+      "node_type": "Chapter",
+      "publisher": "finlex",
+      "title": "Chapter 4",
+      "text": "4 luku Erinäiset säännökset",
+      "chapter_number": 4,
+      "statute_id": "40/2000"
+    }
+  ],
+  "sections": [
+    {
+      "id": "d0657780-3900-4f34-8873-555693d4d710",
+      "node_type": "Section",
+      "publisher": "finlex",
+      "title": "1 § Lain soveltamisala ja suhde muuhun lainsäädäntöön",
+      "text": "Tätä lakia sovelletaan siviilitiedustelun ja sotilastiedustelun valvontaan. Eduskunnan oikeusasiamiehen ja valtioneuvoston oikeuskanslerin harjoittamasta laillisuusvalvonnasta säädetään erikseen. Siviili- ja sotilastiedustelun muusta valvonnasta säädetään erikseen.",
+      "section_number": "1",
+      "chapter_number": 1,
+      "statute_id": "40/2000"
+    },
+    {
+      "id": "20f0d824-0b48-438f-9f97-97a6097dc6e9",
+      "node_type": "Section",
+      "publisher": "finlex",
+      "title": "2 § Tiedustelutoiminnan ja suojelupoliisin muun toiminnan valvonta ja valvontatoimielimet",
+      "text": "Tiedustelutoiminnan valvonnallatarkoitetaan sekä siviili- että sotilastiedustelun parlamentaarista valvontaa ja laillisuusvalvontaa. Tiedustelutoiminnan ja suojelupoliisin muun toiminnan parlamentaarista valvontaa harjoittaa eduskunnan tiedusteluvalvontavaliokunta, jonka tehtävistä säädetään eduskunnan työjärjestyksessä (40/2000). Tiedustelutoiminnan laillisuusvalvontaa harjoittaa tiedusteluvalvontavaltuutettu. Valtuutettu valvoo myös suojelupoliisin muuta toimintaa. Tähän valvontaan sovelletaan tämän lain 3 luvun säännöksiä soveltuvin osin.",
+      "section_number": "2",
+      "chapter_number": 1,
+      "statute_id": "40/2000"
+    },
+    {
+      "id": "6f225776-a1f6-4716-aa85-2c3b2119d038",
+      "node_type": "Section",
+      "publisher": "finlex",
+      "title": "3 § Tiedusteluvalvontavaliokunnan tiedonsaantioikeudet",
+      "text": "Tiedusteluvalvontavaliokunnalla on oikeus salassapitosäännösten estämättä saada viranomaisilta ja muilta julkista tehtävää hoitavilta maksutta valvontatehtäviensä hoitamiseksi tarvitsemansa tiedot.",
+      "section_number": "3",
+      "chapter_number": 2,
+      "statute_id": "40/2000"
+    },
+    {
+      "id": "237e6819-cfe0-45a4-89cb-107620f44fdb",
+      "node_type": "Section",
+      "publisher": "finlex",
+      "title": "4 § Tiedusteluvalvontavaliokunnan oikeus saada selvitys",
+      "text": "Tiedusteluvalvontavaliokunnalla on oikeus saada tiedusteluvalvontavaltuutetulta ja muilta viranomaisilta sekä muilta julkista tehtävää hoitavilta maksutta valvontatehtäviensä hoitamiseksi tarvitsemansa selvitykset.",
+      "section_number": "4",
+      "chapter_number": 2,
+      "statute_id": "40/2000"
+    },
+    {
+      "id": "9fbb0571-a238-477a-b4d0-ee0cfdba2ff4",
+      "node_type": "Section",
+      "publisher": "finlex",
+      "title": "5 § Tiedusteluvalvontavaltuutettu",
+      "text": "Tiedustelutoiminnan laillisuusvalvontaa varten tietosuojavaltuutetun toimiston yhteydessä on tiedusteluvalvontavaltuutettu. Tiedusteluvalvontavaltuutettu on toiminnassaan itsenäinen ja riippumaton.",
+      "section_number": "5",
+      "chapter_number": 3,
+      "statute_id": "40/2000"
+    },
+    {
+      "id": "64d33519-34cf-4112-9093-026eb66e7a52",
+      "node_type": "Section",
+      "publisher": "finlex",
+      "title": "6 § Nimittäminen ja kelpoisuusvaatimukset",
+      "text": "Tiedusteluvalvontavaltuutetun nimittää valtioneuvosto viideksi vuodeksi kerrallaan. Tiedusteluvalvontavaltuutetuksi nimitetty vapautuu hoitamasta muuta virkaa siksi ajaksi, jonka hän toimii valtuutettuna. Tiedusteluvalvontavaltuutetun kelpoisuusvaatimuksena on muu oikeustieteen ylempi korkeakoulututkinto kuin kansainvälisen ja vertailevan oikeustieteen maisterin tutkinto, hyvä perehtyneisyys viran tehtäväalaan sekä käytännössä osoitettu johtamistaito. Tiedusteluvalvontavaltuutetuksi voidaan nimittää vain henkilö, jolla ei ole sellaisia sidonnaisuuksia, jotka ovat omiaan vaarantamaan valvontatehtävän asianmukaista ja riippumatonta hoitamista. Valtioneuvoston on ennen nimitysasian ratkaisemista varattava tiedusteluvalvontavaliokunnalle tilaisuus lausua mielipiteensä asiasta.",
+      "section_number": "6",
+      "chapter_number": 3,
+      "statute_id": "40/2000"
+    },
+    {
+      "id": "9332c828-4315-4283-9d3c-ee9f1c72e2f7",
+      "node_type": "Section",
+      "publisher": "finlex",
+      "title": "7 § Tehtävät",
+      "text": "Tiedusteluvalvontavaltuutetun tehtävänä on tiedustelutoiminnan laillisuuden valvojana:",
+      "section_number": "7",
+      "chapter_number": 3,
+      "statute_id": "40/2000"
+    },
+    {
+      "id": "f68ba320-ed95-413b-b49b-476f894ba878",
+      "node_type": "Section",
+      "publisher": "finlex",
+      "title": "8 § Tiedonsaantioikeudet",
+      "text": "Tiedusteluvalvontavaltuutetulla on oikeus salassapitosäännösten estämättä saada viranomaisilta ja muilta julkista hallintotehtävää hoitavilta maksutta valvontatehtäviensä hoitamiseksi tarvitsemansa tiedot.",
+      "section_number": "8",
+      "chapter_number": 3,
+      "statute_id": "40/2000"
+    },
+    {
+      "id": "823da910-4edb-41c3-a9d0-df3e12573777",
+      "node_type": "Section",
+      "publisher": "finlex",
+      "title": "9 § Oikeus saada selvitys",
+      "text": "Tiedusteluvalvontavaltuutetulla on oikeus saada viranomaisilta ja muilta julkista hallintotehtävää hoitavilta maksutta selvitys seikoista, jotka ovat tarpeen valvontatehtävien hoitamiseksi.",
+      "section_number": "9",
+      "chapter_number": 3,
+      "statute_id": "40/2000"
+    },
+    {
+      "id": "1bac392c-aee6-4367-9b5f-47cea9975b3f",
+      "node_type": "Section",
+      "publisher": "finlex",
+      "title": "10 § Tarkastusoikeus",
+      "text": "Tiedusteluvalvontavaltuutettu voi tehdä tarkastuksia viranomaisten ja muiden julkista hallintotehtävää hoitavien toimitiloissa tiedustelutoiminnan laillisuuden valvomiseksi valtuutetun toimivaltaan kuuluvissa asioissa. Tarkastuksen yhteydessä tiedusteluvalvontavaltuutetulla on oikeus päästä valvottavan kohteen kaikkiin valvonnan kannalta välttämättömiin tiloihin ja tietojärjestelmiin. Tarkastuksia ei saa tehdä pysyväisluontoiseen asumiseen käytettävässä tilassa. Tarkastuksissa on noudatettava, mitä hallintolain (434/2003) 39 §:ssä säädetään.",
+      "section_number": "10",
+      "chapter_number": 3,
+      "statute_id": "40/2000"
+    },
+    {
+      "id": "5efb6daf-862f-4b97-befa-3bab72e3da7e",
+      "node_type": "Section",
+      "publisher": "finlex",
+      "title": "11 § Kantelu",
+      "text": "Tiedusteluvalvontavaltuutetulle voi tämän valvontavaltaan kuuluvassa asiassa kannella jokainen, joka katsoo, että tiedustelutoiminnassa on rikottu hänen oikeuksiaan tai menetelty muutoin lainvastaisesti. Kantelu tulee tehdä kirjallisesti. Siitä tulee ilmetä kantelijan nimi ja yhteystiedot sekä tarpeelliset tiedot kantelussa tarkoitetusta asiasta. Tiedusteluvalvontavaltuutettu tutkii kantelun, jos sen kohteena oleva asia kuuluu hänen valvontavaltaansa ja on aihetta epäillä, että tiedustelutoiminnassa on menetelty lainvastaisesti, tai jos valtuutettu muusta syystä katsoo siihen olevan aihetta. Tiedusteluvalvontavaltuutettu ryhtyy hänelle tehdyn kantelun johdosta niihin toimenpiteisiin, joihin hän katsoo olevan aihetta tiedustelutoiminnan lainmukaisuuden, perus- ja ihmisoikeuksien toteutumisen tai oikeusturvan toteutumisen kannalta. Asiassa hankitaan valtuutetun tarpeelliseksi katsoma selvitys.",
+      "section_number": "11",
+      "chapter_number": 3,
+      "statute_id": "40/2000"
+    },
+    {
+      "id": "46377fce-1a49-4f53-bbc0-c2277021112b",
+      "node_type": "Section",
+      "publisher": "finlex",
+      "title": "12 § Tutkimispyyntö",
+      "text": "Tiedustelutoiminnan kohteena ollut tai henkilö, joka epäilee, että häneen on kohdistettu tiedustelua, voi pyytää tiedusteluvalvontavaltuutettua tutkimaan häneen kohdistuneen tiedustelumenetelmän käytön lainmukaisuuden.",
+      "section_number": "12",
+      "chapter_number": 3,
+      "statute_id": "40/2000"
+    },
+    {
+      "id": "b7e469a7-e602-4c57-9506-6f34e5068706",
+      "node_type": "Section",
+      "publisher": "finlex",
+      "title": "13 § Kuuleminen",
+      "text": "Tiedusteluvalvontavaltuutetun on ennen asian ratkaisemista varattava valvottavalle tilaisuus tulla asian johdosta kuulluksi, jos on syytä olettaa, että tarkastuskertomuksessa, kanteluratkaisussa tai muussa tiedusteluvalvontavaltuutetun selvityksessä saattaa ilmetä aihetta arvostella valvottavan menettelyä.",
+      "section_number": "13",
+      "chapter_number": 3,
+      "statute_id": "40/2000"
+    },
+    {
+      "id": "8db3631c-800c-4956-8ceb-bf9a151e6306",
+      "node_type": "Section",
+      "publisher": "finlex",
+      "title": "14 § Läsnäolo- ja puheoikeus tuomioistuimessa sekä oikeus kannella",
+      "text": "Tiedusteluvalvontavaltuutetulla tai hänen määräämällään virkamiehellä on oikeus olla läsnä käsiteltäessä tiedustelumenetelmää koskevaa lupa-asiaa tuomioistuimessa. Tiedusteluvalvontavaltuutetun puheoikeudesta lupa-asian käsittelyssä säädetään erikseen. Tiedusteluvalvontavaltuutettu saa ilman määräaikaa kannella hovioikeudelle. Kantelu on käsiteltävä kiireellisenä.",
+      "section_number": "14",
+      "chapter_number": 3,
+      "statute_id": "40/2000"
+    },
+    {
+      "id": "a509d360-5728-4160-b2e4-e0527e7b93d3",
+      "node_type": "Section",
+      "publisher": "finlex",
+      "title": "15 § Tiedustelumenetelmän käytön keskeyttäminen tai lopettaminen",
+      "text": "Tiedusteluvalvontavaltuutettu voi määrätä tiedustelumenetelmän käytön keskeytettäväksi tai lopetettavaksi, jos hän katsoo valvottavan menetelleen lainvastaisesti tiedustelutoiminnassa. Tuomioistuimen lupaan perustuvan tiedustelumenetelmän käytön keskeyttämisestä tai lopettamisesta tiedusteluvalvontavaltuutettu voi antaa 1 momentissa säädetyllä perusteella väliaikaisen määräyksen, joka on viivytyksettä saatettava asianomaisen tuomioistuimen käsiteltäväksi. Tuomioistuin voi vahvistaa tai kumota väliaikaisen määräyksen taikka muuttaa keskeyttämismääräyksen lopettamismääräykseksi. Tuomioistuin on päätösvaltainen, kun siinä on yksin puheenjohtaja. Kokoonpanoa tulee oikeudenkäymiskaaren 2 luvun 11 §:ssä tarkoitetulla tavalla vahventaa lainoppineella jäsenellä, jollei se asian laatu huomioiden ole ilmeisen perusteetonta. Istunto voidaan pitää myös muuna aikana ja muussa paikassa kuin tuomioistuimen istunnosta muutoin säädetään. Tiedusteluvalvontavaltuutetun tai hänen määräämänsä virkamiehen on oltava läsnä väliaikaista määräystä käsiteltäessä. Tuomioistuimen on varattava asianomaiselle tiedusteluviranomaiselle tilaisuus tulla kuulluksi. Asia on ratkaistava kiireellisesti. Tuomioistuimen päätökseen ei saa hakea muutosta valittamalla. Tiedusteluvalvontavaltuutettu saa kuitenkin ilman määräaikaa kannella hovioikeudelle. Kantelu on käsiteltävä kiireellisenä. Tiedusteluvalvontavaltuutettu voi määrätä lainvastaisesti hankitut tiedot viipymättä hävitettäviksi.",
+      "section_number": "15",
+      "chapter_number": 3,
+      "statute_id": "40/2000"
+    },
+    {
+      "id": "c66ec0ae-5d80-4f6f-8e5c-38bb854fd4ff",
+      "node_type": "Section",
+      "publisher": "finlex",
+      "title": "16 § Esitutkintaan ilmoittaminen",
+      "text": "Tiedusteluvalvontavaltuutettu voi ilmoittaa asian esitutkinnan toimittamisesta päättävälle viranomaiselle, jos hän katsoo, että valvottava on toiminut lainvastaisesti.",
+      "section_number": "16",
+      "chapter_number": 3,
+      "statute_id": "40/2000"
+    },
+    {
+      "id": "c93826a7-1a47-4d00-8281-b98783897568",
+      "node_type": "Section",
+      "publisher": "finlex",
+      "title": "17 § Huomautus",
+      "text": "Tiedusteluvalvontavaltuutettu voi antaa valvottavalle huomautuksen vastaisen varalle, jos hän laillisuusvalvontaansa kuuluvassa asiassa katsoo, että valvottava on menetellyt lainvastaisesti tai jättänyt velvollisuutensa täyttämättä. Huomautus voidaan antaa myös viranomaiselle tai muulle yhteisölle.",
+      "section_number": "17",
+      "chapter_number": 3,
+      "statute_id": "40/2000"
+    },
+    {
+      "id": "3400f57c-6307-445c-b678-5dae4238371c",
+      "node_type": "Section",
+      "publisher": "finlex",
+      "title": "18 § Muut toimenpiteet",
+      "text": "Tiedusteluvalvontavaltuutettu voi saattaa valvottavan tietoon käsityksensä lainmukaisesta menettelystä ja kiinnittää valvottavan huomiota lain tai hyvän hallintotavan mukaiseen menettelyyn tai perus- ja ihmisoikeuksien toteutumista edistäviin näkökohtiin, jos asian laatu niin vaatii. Tiedusteluvalvontavaltuutetun tulee saattaa merkittävät valvontahavaintonsa eduskunnan tiedusteluvalvontavaliokunnan käsiteltäväksi.",
+      "section_number": "18",
+      "chapter_number": 3,
+      "statute_id": "40/2000"
+    },
+    {
+      "id": "24ca4cf8-a955-4a2a-bd81-63e362480345",
+      "node_type": "Section",
+      "publisher": "finlex",
+      "title": "19 § Vuosikertomus",
+      "text": "Tiedusteluvalvontavaltuutettu antaa vuosittain eduskunnalle, eduskunnan oikeusasiamiehelle ja valtioneuvostolle kertomuksen toiminnastaan. Tiedusteluvalvontavaltuutettu voi antaa eduskunnalle tärkeäksi katsomastaan asiasta myös erillisen kertomuksen.",
+      "section_number": "19",
+      "chapter_number": 3,
+      "statute_id": "40/2000"
+    },
+    {
+      "id": "2dfb1023-65b9-42e4-adc1-f2348d5ad9ca",
+      "node_type": "Section",
+      "publisher": "finlex",
+      "title": "20 § Henkilöstö",
+      "text": "Tiedusteluvalvontavaltuutetulla on tarpeellinen määrä valtuutetun tehtäväalaan perehtyneitä esittelijöitä ja muuta henkilöstöä (tiedusteluvalvontavaltuutetun toiminto). Tiedusteluvalvontavaltuutettu nimittää tiedusteluvalvontavaltuutetun toiminnon virkamiehet ja ottaa palvelukseen muun henkilöstön.",
+      "section_number": "20",
+      "chapter_number": 3,
+      "statute_id": "40/2000"
+    },
+    {
+      "id": "a395342c-d4fb-49bd-9be4-95c59b64262d",
+      "node_type": "Section",
+      "publisher": "finlex",
+      "title": "21 § Työjärjestys",
+      "text": "Tiedusteluvalvontavaltuutettu hyväksyy toiminnalleen työjärjestyksen.",
+      "section_number": "21",
+      "chapter_number": 3,
+      "statute_id": "40/2000"
+    },
+    {
+      "id": "2a47156d-5875-4a98-b47f-192d2b155bb1",
+      "node_type": "Section",
+      "publisher": "finlex",
+      "title": "22 § Voimaantulo ja siirtymäsäännös",
+      "text": "Tämä laki tulee voimaan 1 päivänä helmikuuta 2019. Jos tiedusteluvalvontavaltuutetun nimitysasia on ratkaistava ennen kuin eduskunnan tiedusteluvalvontavaliokunta on ensimmäisen kerran asetettu, tilaisuus 6 §:n 4 momentissa tarkoitetun mielipiteen ilmaisuun on varattava tiedusteluvalvontavaliokunnan asemesta perustuslakivaliokunnalle.",
+      "section_number": "22",
+      "chapter_number": 4,
+      "statute_id": "40/2000"
+    }
+  ],
+  "clauses": [
+    {
+      "id": "8bc1c3f8-a0ff-4c4d-be66-0383b74b9acb",
+      "node_type": "Clause",
+      "publisher": "finlex",
+      "title": "§ 7 mom 1",
+      "text": "1) valvoa tiedustelumenetelmien ja tiedustelutiedon käytön sekä muun tiedustelutoiminnan lainmukaisuutta;",
+      "clause_number": 1,
+      "section_number": "7",
+      "statute_id": "40/2000"
+    },
+    {
+      "id": "cd5d3804-1efd-4082-b1b0-c321b1773835",
+      "node_type": "Clause",
+      "publisher": "finlex",
+      "title": "§ 7 mom 2",
+      "text": "2) valvoa perus- ja ihmisoikeuksien toteutumista tiedustelutoiminnassa;",
+      "clause_number": 2,
+      "section_number": "7",
+      "statute_id": "40/2000"
+    },
+    {
+      "id": "b4c66806-b020-4200-bcd0-5d0cc9073863",
+      "node_type": "Clause",
+      "publisher": "finlex",
+      "title": "§ 7 mom 3",
+      "text": "3) edistää oikeusturvan toteutumista ja siihen liittyviä hyviä käytäntöjä tiedustelutoiminnassa;",
+      "clause_number": 3,
+      "section_number": "7",
+      "statute_id": "40/2000"
+    },
+    {
+      "id": "05a06ec5-c764-4c1d-8150-4dceee9842d7",
+      "node_type": "Clause",
+      "publisher": "finlex",
+      "title": "§ 7 mom 4",
+      "text": "4) seurata ja arvioida toimialallaan lainsäädännön toimivuutta ja tehdä tarpeelliseksi katsomiaan kehittämisehdotuksia.",
+      "clause_number": 4,
+      "section_number": "7",
+      "statute_id": "40/2000"
+    }
+  ],
+  "cross_references": [],
+  "raw_html_path": "C:\\Users\\danit\\finance-hack\\aalto-hackaton-2026\\data\\raw\\finlex\\Laki (säädöskokoelma)\\Laki tiedustelutoiminnan valvonnasta.html"
+}

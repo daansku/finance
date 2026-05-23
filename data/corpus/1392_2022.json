@@ -1,0 +1,88 @@
+{
+  "statute": {
+    "id": "3b9d9486-152c-4f6f-8996-391f740ec683",
+    "node_type": "Statute",
+    "publisher": "finlex",
+    "title": "Valtioneuvoston asetus hyvinvointialueiden rahoituksesta annetun valtioneuvoston asetuksen muuttamisesta",
+    "text": "Valtioneuvoston asetus hyvinvointialueiden rahoituksesta annetun valtioneuvoston asetuksen muuttamisesta",
+    "statute_id": "1392/2022",
+    "finlex_url": "https://finlex.fi/fi/laki/ajantasa/1392/2022"
+  },
+  "chapters": [],
+  "sections": [
+    {
+      "id": "4cfbcf8e-01ec-48ce-aa83-799b7e3fb41b",
+      "node_type": "Section",
+      "publisher": "finlex",
+      "title": "3 § Hyvinvoinnin ja terveyden edistämisen indikaattorit ja niiden tavoitearvot ja painokertoimet",
+      "text": "Hyvinvointialueiden rahoituksesta annetun lain 15 §:n 4 momentissa tarkoitetuttua hyvinvoinnin ja terveyden edistämisen kerrointa määriteltäessä käytetään hyvinvointialueen toimintaa ja toiminnan tulosta kuvaavia indikaattoreita. Toimintaa kuvaavat indikaattorit ja niiden painokertoimet ja tavoitearvo ovat seuraavat: Toiminnan tulosta kuvaavat indikaattorit ja niiden tavoitearvot sekä painokertoimet ovat seuraavat: Edellä 3 §:n 2 momentissa tarkoitetuista toimintaa kuvaavista indikaattoreista lasketaan viimeisimmän vuoden mukainen taso. Tulokset skaalataan niin, että alueiden vaihteluväliksi tulee 0–100. MRP-rokotuskattavuuden mainitussa momentissa tarkoitetun tavoitearvon ylittämällä alue saa 100 pistettä. Alkoholinkäytön mini-interventioindikaattorissa asetetaan minimiarvo alueella tehtyjen AUDIT- tai AUDIT-C-kyselyjen määrälle. Minimiarvo tehtyjen kyselyjen määrälle on syntyneiden lasten lukumäärä. Jos AUDIT- ja AUDIT-C-kyselyjen pistemääriä on kirjattu vähemmän kuin syntyneiden lasten lukumäärä, korjataan tulos kirjattujen AUDIT- ja AUDIT-C-kyselyjen ja syntyneiden lasten lukumäärän suhteella. Edellä 3 §:n 3 momentissa tarkoitetuista toiminnan tulosta kuvaavista indikaattoreista lasketaan kahden viimeisimmän vuoden erotus kuvaamaan tapahtunutta muutosta. Muutos suhteutetaan viimeistä edellisen vuoden tasoon. Kaikki suhteelliset muutokset skaalataan niin, että vaihteluväliksi tulee 0–100. Jos indikaattorin arvo on mainitussa momentissa tarkoitetussa tavoitearvossa, otetaan tämä huomioon laskennassa siten, että hyvinvointialue saa kyseisen indikaattorin osalta maksimipisteet. Hyvinvointialueen hyvinvoinnin ja terveyden edistämisen kertoimen laskennassa käytetään Tilastokeskuksen väestörakennetilaston ja Digi- ja väestötietoviraston väestötietojärjestelmän tietoja sekä Kansaneläkelaitoksen, Terveyden ja hyvinvoinnin laitoksen, Tilastokeskuksen ja työ- ja elinkeinoministeriön tilastotietoja. Hyvinvointialueen hyvinvoinnin ja terveyden edistämisen kerroin lasketaan keskiarvona hyvinvointialueen toimintaa kuvaavien indikaattoreiden keskiarvosta ja hyvinvointialueen toiminnan tulosta kuvaavien indikaattorien kahden viimeisimmän vuoden suhteellisen erotuksen mukaan laskettujen tulosten keskiarvosta sekä jakamalla näin saatu hyvinvointialueen keskiarvo vastaavalla koko maan keskiarvolla.",
+      "section_number": "3",
+      "chapter_number": 1,
+      "statute_id": "1392/2022"
+    },
+    {
+      "id": "601e71a2-91dd-4bf2-a5f0-1ef648359bef",
+      "node_type": "Section",
+      "publisher": "finlex",
+      "title": "4 § Pelastustoimen riskikertoimen tekijät ja niiden painokertoimet",
+      "text": "Hyvinvointialueiden rahoituksesta annetun lain 23 §:n 1 momentissa tarkoitetun pelastustoimen riskikertoimen määrittämiseksi hyvinvointialueen alue jaetaan yhden neliökilometrin suuruisiksi ruuduiksi, joille kullekin Tilastokeskus laskee regressiomallin avulla riskitason. Regressiomallin selittäjinä ovat asukasluku, kerrosala ja niiden yhteisvaikutus. Riskitason perusteella ruudut jaetaan neljään riskiluokkaan I, II, III ja IV. Riskiluokkaan III ja IV kuuluvan ruudun painokerroin on 0. Riskiluokkaan III ja IV kuuluvan ruudun painokerroin on kuitenkin: Tämä asetus tulee voimaan 1 päivänä tammikuuta 2026.",
+      "section_number": "4",
+      "chapter_number": 1,
+      "statute_id": "1392/2022"
+    }
+  ],
+  "clauses": [
+    {
+      "id": "1f30f729-f947-48f9-99b2-9d36f7ef1fde",
+      "node_type": "Clause",
+      "publisher": "finlex",
+      "title": "§ 4 mom 1",
+      "text": "1) 2, jos ruudulla sijaitsevalle kohteelle on pelastuslain (379/2011) 48 §:n nojalla laadittava erityistä vaaraa aiheuttavien kohteiden ulkoinen pelastussuunnitelma;",
+      "clause_number": 1,
+      "section_number": "4",
+      "statute_id": "1392/2022"
+    },
+    {
+      "id": "f0e7dd43-ec76-46c8-b51c-08480ce95b9d",
+      "node_type": "Clause",
+      "publisher": "finlex",
+      "title": "§ 4 mom 2",
+      "text": "2) 1, jos ruudulla sijaitsee kokonaishenkilömäärältään yli 1 500 henkilön puolustusvoimien pysyvässä käytössä oleva alue;",
+      "clause_number": 2,
+      "section_number": "4",
+      "statute_id": "1392/2022"
+    },
+    {
+      "id": "34003b8c-baec-4aed-9b94-c1e53ceae6d2",
+      "node_type": "Clause",
+      "publisher": "finlex",
+      "title": "§ 4 mom 3",
+      "text": "3) 4, jos ruudulla sijaitsee lentoasema, jolle on reitti- tai tilausliikennettä;",
+      "clause_number": 3,
+      "section_number": "4",
+      "statute_id": "1392/2022"
+    },
+    {
+      "id": "111ae8cc-6caa-4026-a43e-e29a648ee4f7",
+      "node_type": "Clause",
+      "publisher": "finlex",
+      "title": "§ 4 mom 4",
+      "text": "4) 5, jos ruudulla sijaitsee matkailutoimintaa, jossa vuodepaikkoja on vähintään 800;",
+      "clause_number": 4,
+      "section_number": "4",
+      "statute_id": "1392/2022"
+    },
+    {
+      "id": "6e4300f7-ffbb-4bc4-b7ac-abd29ea88a67",
+      "node_type": "Clause",
+      "publisher": "finlex",
+      "title": "§ 4 mom 5",
+      "text": "5) 3, jos ruudulla tai sen läheisyydessä harjoitetaan toimintaa, jossa on kohonnut riski öljy- tai aluskemikaalivahingolle. Ruutuna huomioidaan sellainen pääasiassa vesialueella sijaitseva ruutu, jonka läheisyydessä on valmiudessa pelastustoimen öljyntorjuntakäyttöön tarkoitettu alus, jonka rungon pituus on vähintään 10 metriä ja jonka lastikapasiteetti on vähintään 3 000 kiloa.",
+      "clause_number": 5,
+      "section_number": "4",
+      "statute_id": "1392/2022"
+    }
+  ],
+  "cross_references": [],
+  "raw_html_path": "C:\\Users\\danit\\finance-hack\\aalto-hackaton-2026\\data\\raw\\finlex\\Asetus\\Valtioneuvoston asetus hyvinvointialueiden rahoituksesta annetun valtioneuvoston asetuksen muuttamisesta.html"
+}

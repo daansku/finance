@@ -1,0 +1,424 @@
+{
+  "statute": {
+    "id": "4e995d0e-6627-42fa-9298-86547b36942b",
+    "node_type": "Statute",
+    "publisher": "finlex",
+    "title": "Laki liikennejärjestelmän digitaalisista tietopalveluista",
+    "text": "Laki liikennejärjestelmän digitaalisista tietopalveluista",
+    "statute_id": "2017/1926",
+    "finlex_url": "https://finlex.fi/fi/laki/ajantasa/2017/1926"
+  },
+  "chapters": [
+    {
+      "id": "7dbf2a59-6b03-4a32-962c-4dcfeda0fab2",
+      "node_type": "Chapter",
+      "publisher": "finlex",
+      "title": "Chapter 1",
+      "text": "1 luku Yleiset säännökset",
+      "chapter_number": 1,
+      "statute_id": "2017/1926"
+    },
+    {
+      "id": "fc41c56a-0f02-4a35-914e-03a6560b3ef1",
+      "node_type": "Chapter",
+      "publisher": "finlex",
+      "title": "Chapter 2",
+      "text": "2 luku Datan saatavuus ja käytettävyys",
+      "chapter_number": 2,
+      "statute_id": "2017/1926"
+    },
+    {
+      "id": "30db34c8-ddc0-4517-99fa-8cc491e2753d",
+      "node_type": "Chapter",
+      "publisher": "finlex",
+      "title": "Chapter 3",
+      "text": "3 luku Liikennejärjestelmän perustietopalvelu",
+      "chapter_number": 3,
+      "statute_id": "2017/1926"
+    },
+    {
+      "id": "f051eb82-afc8-478d-a0f5-3d02271b5ce4",
+      "node_type": "Chapter",
+      "publisher": "finlex",
+      "title": "Chapter 4",
+      "text": "4 luku Viranomaistehtävät ja seuraamukset",
+      "chapter_number": 4,
+      "statute_id": "2017/1926"
+    },
+    {
+      "id": "eeff9333-6bca-4200-9589-169c22358218",
+      "node_type": "Chapter",
+      "publisher": "finlex",
+      "title": "Chapter 5",
+      "text": "5 luku Erinäiset säännökset",
+      "chapter_number": 5,
+      "statute_id": "2017/1926"
+    }
+  ],
+  "sections": [
+    {
+      "id": "d13dbd12-d24d-493a-a8d5-1bf9bbf4319a",
+      "node_type": "Section",
+      "publisher": "finlex",
+      "title": "1 § Soveltamisala",
+      "text": "Tässä laissa säädetään liikennejärjestelmää koskevan tiedon vaihtoa palvelevan kansallisen yhteyspisteen ja liikennejärjestelmän perustietopalvelun järjestämisestä. Tällä lailla pannaan täytäntöön tieliikenteen älykkäiden liikennejärjestelmien käyttöönoton sekä tieliikenteen ja muiden liikennemuotojen rajapintojen puitteista annettu Euroopan parlamentin ja neuvoston direktiivi 2010/40/EU, jäljempänäITS-direktiivi. Lisäksi lailla täydennetään ja täsmennetään Euroopan parlamentin ja neuvoston direktiivin 2010/40/EU täydentämisestä tosiaikaisia liikennetietoja koskevien EU:n laajuisten palvelujen tarjoamisen osalta annettua komission delegoitua asetusta (EU) 2022/670, jäljempänäRTTI-asetus, Euroopan parlamentin ja neuvoston direktiivin 2010/40/EU täydentämisestä EU:n laajuisten multimodaalisten matkatietopalvelujen tarjoamisen osalta annettua komission delegoitua asetusta (EU) 2017/1926, jäljempänäMMTIS-asetussekä Euroopan parlamentin ja neuvoston direktiivin 2010/40/EU\ntäydentämisestä datan ja menettelyjen osalta, joiden avulla mahdollisuuksien mukaan tarjotaan liikenneturvallisuuteen liittyviä yleisiä vähimmäisliikennetietoja ilmaiseksi käyttäjille annettua komission delegoitua asetusta (EU) 886/2013, jäljempänäSRTI-asetus.",
+      "section_number": "1",
+      "chapter_number": 1,
+      "statute_id": "2017/1926"
+    },
+    {
+      "id": "04b063e8-6428-4174-8b76-ee3f530f818c",
+      "node_type": "Section",
+      "publisher": "finlex",
+      "title": "2 § Soveltamisalan rajaukset",
+      "text": "Tätä lakia ei sovelleta yksityisteihin lukuun ottamatta 16 §:n 2 momentissa säädettyä. Tätä lakia ei sovelleta toimintaan eikä palveluihin, joita tarjotaan maanpuolustuksen, kansallisen turvallisuuden tai yleisen järjestyksen ja turvallisuuden takaamiseksi, rikosten ennalta estämiseksi, rikosten tutkimiseksi ja syytteeseen saattamiseksi.",
+      "section_number": "2",
+      "chapter_number": 1,
+      "statute_id": "2017/1926"
+    },
+    {
+      "id": "222dc7ae-bff5-474a-8c10-b4ba0c62a01f",
+      "node_type": "Section",
+      "publisher": "finlex",
+      "title": "3 § Määritelmät",
+      "text": "Tässä laissa tarkoitetaan:",
+      "section_number": "3",
+      "chapter_number": 1,
+      "statute_id": "2017/1926"
+    },
+    {
+      "id": "aced2f57-e7a2-4813-87cf-c4b163dab748",
+      "node_type": "Section",
+      "publisher": "finlex",
+      "title": "4 § Tietosuoja",
+      "text": "Dataa, joka sisältää henkilötietoja, saa käsitellä siltä osin kuin se on tarpeen kansallisen yhteyspisteen ja liikennejärjestelmän perustietopalvelun järjestämiseksi ja niiden tarjoamien palveluiden toteuttamiseksi. Jos teknisesti ja tietojenkäsittelyn tarkoitus huomioiden on mahdollista, henkilötietojen käsittelyssä on hyödynnettävä anonymisointia. Pseudonymisointia on hyödynnettävä, jos anonymisointi ei ole mahdollista, mutta pseudonymisointi on teknisesti ja tietojenkäsittelyn tarkoitus huomioiden mahdollista.",
+      "section_number": "4",
+      "chapter_number": 1,
+      "statute_id": "2017/1926"
+    },
+    {
+      "id": "bfdf85bf-c72a-4b66-98fd-08aef0f94b32",
+      "node_type": "Section",
+      "publisher": "finlex",
+      "title": "5 § Suhde muuhun lainsäädäntöön",
+      "text": "ITS-järjestelmien ylläpitäjien velvollisuudesta huolehtia käyttämiinsä viestintäverkkoihin ja tietojärjestelmiin kohdistuvien riskien hallinnasta ja poikkeamien ilmoittamisesta säädetään kyberturvallisuuslaissa (124/2025). Vahingonkorvausvastuusta säädetään vahingonkorvauslaissa (412/1974) ja tuotevastuusta tuotevastuulaissa (694/1990).",
+      "section_number": "5",
+      "chapter_number": 1,
+      "statute_id": "2017/1926"
+    },
+    {
+      "id": "0cbfcbb0-2368-44b1-81d4-23bd4d3ba57c",
+      "node_type": "Section",
+      "publisher": "finlex",
+      "title": "6 § Lainkäyttövalta ja alueellisuus",
+      "text": "Tätä lakia sovelletaan toimijaan, jolla on toimipaikka Suomessa tai joka on muutoin Suomen oikeudenkäytön piirissä. Lisäksi lakia sovelletaan datan haltijaan, jolla on hallussaan Suomen alueeseen liittyvää tai Suomen alueella tarjottavia palveluja koskevaa dataa.",
+      "section_number": "6",
+      "chapter_number": 1,
+      "statute_id": "2017/1926"
+    },
+    {
+      "id": "a0cdc171-adb8-4a75-92f6-bdb119880884",
+      "node_type": "Section",
+      "publisher": "finlex",
+      "title": "7 § Noudatettavat periaatteet",
+      "text": "ITS-direktiivin 2 artiklassa ja direktiivin liitteessä I tarkoitettuja ensisijaisia aloja sekä 3 artiklassa tarkoitettuja ensisijaisia toimia koskevia Euroopan komission ITS-direktiivin 6 artiklan nojalla antamia määrityksiä sovellettaessa noudatetaan ITS-direktiivin liitteessä II säädettyjä periaatteita. Julkisten ja yksityisten ITS-järjestelmien ylläpitäjien sekä ITS-sovellusten ja -palveluiden tarjoajien on tarjotessaan liikenneturvallisuutta ja liikenteen tehokkuutta sekä kestävyyttä parantavia ITS-sovelluksia ja -palveluita niitä käyttäville ITS-käyttäjille kiinnitettävä erityistä huomiota jalankulkijoiden, pyöräilijöiden tai vammaisten ja liikuntarajoitteisten sekä muiden suojattomien tienkäyttäjien tarpeisiin sekä edistettävä toiminnallaan ITS-järjestelmien, ITS-sovellusten ja ITS-palveluiden yhteentoimivuutta ja yhteensopivuutta.",
+      "section_number": "7",
+      "chapter_number": 1,
+      "statute_id": "2017/1926"
+    },
+    {
+      "id": "5904007d-d358-4d43-8c68-d8c5ed7b1d03",
+      "node_type": "Section",
+      "publisher": "finlex",
+      "title": "8 § Kansallinen yhteyspiste",
+      "text": "Kansallisen yhteyspisteen järjestämisestä ja ylläpidosta vastaa Liikenteenohjausyhtiö Fintraffic Oy. Kansallisen yhteyspiste toimii tiedonvaihdon alustana datan haltijoiden ja datan käyttäjien välillä.",
+      "section_number": "8",
+      "chapter_number": 2,
+      "statute_id": "2017/1926"
+    },
+    {
+      "id": "73cc5f1d-b9f3-46a7-9ab1-698651b39ffe",
+      "node_type": "Section",
+      "publisher": "finlex",
+      "title": "9 § Tie- ja liikennedatan saatavuudesta huolehtiminen",
+      "text": "Tieviranomaisen, tienpitäjän ja tieliikenteen ohjaus- ja hallintapalvelun tarjoajan on pyrittävä huolehtimaan hallinnassaan olevan, RTTI-asetuksessa tarkoitetun infrastruktuuria koskevan datan, sääntöjä ja rajoituksia koskevan datan, verkon tilaa koskevan datan ja verkon tosiaikaista käyttöä koskevan datan saatavuudesta koneluettavassa muodossa. Tieviranomaisen, tienpitäjänä toimivan liikenteellisesti merkittävän kunnan ja tieliikenteen ohjaus- ja hallintapalvelun tarjoajan on huolehdittava siitä, että jos taustalla olevat tiedot ovat olemassa, kunkin datatyypin dataa on saatavilla ITS-direktiivin III liitteessä tarkoitetun maantieteellisen alueen osalta ja siinä säädetyssä aikataulussa. Liikenteellisesti merkittävän kunnan osalta velvollisuus koskee katuja, joilla keskimääräinen päivittäinen liikenne on vuositasolla yli 7 000 ajoneuvoa, lukuun ottamatta ITS-direktiivin liitteessä III tarkoitettuja datatyyppejä yksisuuntaiset kadut ja tavarankuljetusmääräykset. Viranomaisen velvollisuudesta huolehtia tietoaineiston saattamisesta koneluettavaan muotoon säädetään lisäksi julkisen hallinnon tiedonhallinnasta annetun lain (906/2019) 19 §:ssä.",
+      "section_number": "9",
+      "chapter_number": 2,
+      "statute_id": "2017/1926"
+    },
+    {
+      "id": "d66b140b-391c-4567-ac01-c017777f91eb",
+      "node_type": "Section",
+      "publisher": "finlex",
+      "title": "10 § Tie- ja liikennedatan käytettävyys",
+      "text": "Tieviranomaisella, tienpitäjällä, tieliikenteen ohjaus- ja hallintapalvelun tarjoajalla, ajoneuvon tuottaman datan haltijalla ja muun RTTI-asetuksessa tarkoitetulla palveluntarjoajalla on oltava käytössä ohjelmointirajapinta, jonka kautta niiden keräämä, RTTI-asetuksen liitteessä tarkoitettu infrastruktuuria koskeva data, sääntöjä ja rajoituksia koskeva data, verkon tilaa koskeva data ja verkon tosiaikaista käyttöä koskeva data on datan käyttäjien käytettävissä RTTI-asetuksessa tarkoitetulla tavalla. Viranomaisen ja julkista hallintotehtävää hoitavan yksityisen henkilön tai yhteisön sekä muun kuin viranomaisena toimivan julkisoikeudellisen yhteisön 1 momentissa tarkoitetun datan uudelleenkäyttö on maksutonta.",
+      "section_number": "10",
+      "chapter_number": 2,
+      "statute_id": "2017/1926"
+    },
+    {
+      "id": "cd0ed57e-fa60-4ca4-9ef5-80ebdbd7ce66",
+      "node_type": "Section",
+      "publisher": "finlex",
+      "title": "11 § Matkadatan saatavuudesta huolehtiminen",
+      "text": "Datan haltijan on pyrittävä huolehtimaan hallinnassaan olevan, MMTIS-asetuksen liitteessä tarkoitetun staattisen, aiemman ja havaintoihin perustuvan sekä dynaamisen matka- ja liikennedatan saatavuudesta koneluettavassa muodossa. Liityntäpisteitä koskevan datan haltijan on huolehdittava siitä, että jos taustalla olevat tiedot ovat olemassa, ITS-direktiivin III liitteen 4 kohdassa tarkoitetut tiedot liityntäpisteiden sijainnista sekä liityntäpisteiden ja vaihtopaikkojen kulkuväylien esteettömyydestä ovat saatavilla mainitussa kohdassa tarkoitetun maantieteellisen alueen osalta ja siinä säädetyssä aikataulussa. Viranomaisen velvollisuudesta huolehtia tietoaineiston saattamisesta koneluettavaan muotoon säädetään lisäksi julkisen hallinnon tiedonhallinnasta annetun lain 19 §:ssä. Rautatieaseman asemanhaltijan tai muun asemaan liittyvän datan haltijan on lisäksi huolehdittava siitä, että asemien osalta saatavilla on vammaisten ja liikkumisesteisten henkilöiden esteetöntä pääsyä Euroopan unionin rautatiejärjestelmään koskevista yhteentoimivuuden teknisistä eritelmistä annetussa komission asetuksessa (EU) N:o 1300/2014 tarkoitetut esteettömyyttä koskevat tiedot. Liikenteenohjausyhtiö Fintraffic Oy:n on luotava järjestelmä, jolla liityntäpisteille annetaan yksilöivät tunnisteet. Edellä 2 ja 3 momentissa tarkoitetun datan haltijan on käytettävä näitä tunnisteita asettaessaan liityntäpisteitä koskevaa dataa saataville.",
+      "section_number": "11",
+      "chapter_number": 2,
+      "statute_id": "2017/1926"
+    },
+    {
+      "id": "a536444c-8b86-48bc-a86e-ce7d7dbd0578",
+      "node_type": "Section",
+      "publisher": "finlex",
+      "title": "12 § Matkadatan käytettävyys",
+      "text": "Datan haltijalla on oltava käytössä ohjelmointirajapinta, jonka kautta MMTIS-asetuksen liitteessä tarkoitettu staattinen, aiempi ja havaintoihin perustuva sekä dynaaminen matka- ja liikennedata on datan käyttäjien käytettävissä MMTIS-asetuksessa tarkoitetulla tavalla. Asetuksen liitteen kohdassa 2.3 tarkoitetun tiedon ajoneuvon varausasteesta ei tarvitse olla käytettävissä. Myös 11 §:n 2 ja 3 momentissa tarkoitetun esteettömyyttä koskevan tiedon on oltava käytettävissä ohjelmointirajapinnan kautta. Viranomaisen ja julkista hallintotehtävää hoitavan yksityisen henkilön tai yhteisön taikka muun kuin viranomaisena toimivan julkisoikeudellisen yhteisön 1 momentissa tarkoitetun datan uudelleenkäyttö on maksutonta.",
+      "section_number": "12",
+      "chapter_number": 2,
+      "statute_id": "2017/1926"
+    },
+    {
+      "id": "1d88b45e-7b87-4184-b261-86ef23d9a87b",
+      "node_type": "Section",
+      "publisher": "finlex",
+      "title": "13 § Liikenneturvallisuuteen liittyvä data",
+      "text": "Maantieverkon tienpitäjän ja tieliikenteen ohjaus- ja hallintapalvelun tarjoajan on pyrittävä huolehtimaan hallinnassaan olevan SRTI-asetuksen 3 artiklassa tarkoitetun datan saatavuudesta koneluettavassa muodossa. Maantieverkon tienpitäjällä, tieliikenteen ohjaus- ja hallintapalvelun tarjoajalla ja SRTI-asetuksessa tarkoitetulla muulla palveluntarjoajalla on oltava käytössä ohjelmointirajapinta, jonka kautta SRTI-asetuksen 3 artiklassa tarkoitettu data on datan käyttäjien saatavilla uudelleenkäyttöä varten SRTI-asetuksessa tarkoitetulla tavalla. Viranomaisen ja julkista hallintotehtävää hoitavan yksityisen henkilön tai yhteisön taikka muun kuin viranomaisena toimivan julkisoikeudellisen yhteisön 1 momentissa tarkoitetun datan uudelleenkäyttö on maksutonta.",
+      "section_number": "13",
+      "chapter_number": 2,
+      "statute_id": "2017/1926"
+    },
+    {
+      "id": "ad57fed9-5696-4273-b02c-3780b2cd5de3",
+      "node_type": "Section",
+      "publisher": "finlex",
+      "title": "14 § Tietojen toimittaminen kansalliseen yhteyspisteeseen",
+      "text": "Edellä 10, 12 ja 13 §:ssä tarkoitettujen toimijoiden on toimitettava ohjelmointirajapinnan ja sen käyttämiseksi tarvittavan muun tietoaineiston verkko-osoite tai -osoitteet sekä muu metadata kansalliselle yhteyspisteelle. Ohjelmointirajapinnan verkko-osoitteessa tai -osoitteissa sekä metadatassa mahdollisesti tapahtuvista muutoksista ja päivityksistä on toimitettava viipymättä tieto kansalliselle yhteyspisteelle. Liikenteenohjausyhtiö Fintraffic Oy:n on tarjottava palvelu, jonka avulla 10, 12 ja 13 §:ssä tarkoitetut tiedot voidaan toimittaa kansalliselle yhteyspisteelle vaihtoehtoisella tavalla sekä annettava ohjausta ja neuvontaa tietojen toimittamiseksi. Vaihtoehtoisten polttoaineiden infrastruktuurin käyttöönotosta ja direktiivin 2014/94/EU kumoamisesta annetun Euroopan parlamentin ja neuvoston asetuksen (EU) 2023/1804 20 artiklassa tarkoitetun vaihtoehtoisten polttoaineiden yleisesti saatavilla olevan lataus- ja tankkauspisteen ylläpitäjän tai, näiden välisten järjestelyjen mukaisesti, kyseisen pisteen omistajan on ilmoitettava ohjelmointirajapinnan ja rajapinnan käyttämiseksi tarvittavan muun tietoaineiston verkko-osoite tai -osoitteet sekä muu metadata kansalliselle yhteyspisteelle. Ohjelmointirajapinnan verkko-osoitteessa tai -osoitteissa sekä metadatassa mahdollisesti tapahtuvista muutoksista ja päivityksistä on toimitettava viipymättä tieto kansalliselle yhteyspisteelle.",
+      "section_number": "14",
+      "chapter_number": 2,
+      "statute_id": "2017/1926"
+    },
+    {
+      "id": "a01c2fcd-e79a-414f-81a9-11b64384dd91",
+      "node_type": "Section",
+      "publisher": "finlex",
+      "title": "15 § Hakupalvelu",
+      "text": "Liikenteenohjausyhtiö Fintraffic Oy:n on tarjottava datan käyttäjille hakupalvelu, jolla voi tehdä hakuja kansalliseen yhteyspisteeseen toimitetusta metadatasta.",
+      "section_number": "15",
+      "chapter_number": 2,
+      "statute_id": "2017/1926"
+    },
+    {
+      "id": "f49b3173-fee6-4c5c-9528-5a81e4c1f422",
+      "node_type": "Section",
+      "publisher": "finlex",
+      "title": "16 § Liikennejärjestelmän perustietopalvelun tiedot",
+      "text": "Liikennejärjestelmän perustietopalvelun järjestämisestä vastaa Liikenteenohjausyhtiö Fintraffic Oy. Perustietopalvelussa muodostetaan laajasti hyödynnettävää liikennejärjestelmään liittyvää tietoa yhdistämällä tie-, liikenne- ja matkadataa sekä tieliikenteen turvallisuuteen liittyvää dataa. Liikenteenohjausyhtiö Fintraffic Oy tuottaa perustietopalvelua käsittelemällä kansallisen yhteyspisteen kautta vapaasti käytettäväksi toimitettua dataa ja tieliikenteen ohjaus- ja hallintapalvelun tarjoamisen yhteydessä tuotettua tai saatua dataa. Lisäksi Maanmittauslaitos toimittaa tietopalveluun hallussaan olevat, paikkatietoinfrastruktuurista annetussa laissa (421/2009) tarkoitetut liikenneverkkoja koskevat tiedot ohjelmointirajapinnan kautta. Yksityistien tienpitäjän velvollisuudesta toimittaa tietopalveluun hoitamaansa yksityistä tietä koskevat tiedot säädetään yksityistielain (560/2018) 50 §:ssä. Yksityistien tienpitäjä voi toimittaa perustietopalveluun myös muita hoitamaansa yksityistietä koskevia tietoja. Liikenteenohjausyhtiö Fintraffic Oy:n on pyrittävä huolehtimaan siitä, että liikennejärjestelmän perustietopalvelusta tarjottavat tiedot ovat mahdollisimman laadukkaita ja keskenään yhteismitallisia. Lisäksi Liikenteenohjausyhtiö Fintraffic Oy muodostaa koostetun tiedon palveluja seuraavista tiedoista:",
+      "section_number": "16",
+      "chapter_number": 3,
+      "statute_id": "2017/1926"
+    },
+    {
+      "id": "674bd546-1d66-41f2-a5a0-5640b162d66f",
+      "node_type": "Section",
+      "publisher": "finlex",
+      "title": "17 § Tietojen luovuttaminen",
+      "text": "Liikenteenohjausyhtiö Fintraffic Oy luovuttaa tietoja perustietopalvelusta maksutta ohjelmointirajapinnan kautta tai muutoin sähköisesti. Liikenteenohjausyhtiö Fintraffic Oy:lla on muita kuin tässä laissa säädettyjä palveluita tarjotessaan oikeus koostaa ja yhdistellä 16 §:ssä tarkoitettuja tietoja maksullisten lisäarvopalvelujen tarjoamiseksi.",
+      "section_number": "17",
+      "chapter_number": 3,
+      "statute_id": "2017/1926"
+    },
+    {
+      "id": "f8fa8ba0-6c0d-48af-8431-cf2fadba0841",
+      "node_type": "Section",
+      "publisher": "finlex",
+      "title": "18 § Muut tietopalvelut",
+      "text": "Liikenteenohjausyhtiö Fintraffic Oy ylläpitää mahdollisimman kattavaa liikenneväylien liikennetilanteen seurantaa koko Suomen osalta (liikenteen kokonaistilannekuva). Liikenteen kokonaistilannekuva saatetaan tarvittavilta osin suoraan loppukäyttäjien saataville digitaalisten loppukäyttäjäpalveluiden kautta. Liikenteenohjausyhtiö Fintraffic Oy tuottaa ITS-direktiivin liitteessä IV tarkoitettua liikenneturvallisuuteen liittyvää yleistä vähimmäistason liikennetietopalvelua. Tietopalvelu on toteutettava ITS-direktiivin liitteessä IV tarkoitetun maantieteellisen alueen osalta ja siinä säädetyssä aikataulussa.",
+      "section_number": "18",
+      "chapter_number": 3,
+      "statute_id": "2017/1926"
+    },
+    {
+      "id": "8f34df0e-659a-44c1-a553-69313c964527",
+      "node_type": "Section",
+      "publisher": "finlex",
+      "title": "19 § Yhteistyön tekeminen",
+      "text": "Liikenteenohjausyhtiö Fintraffic Oy:n tehtävänä on koordinoida liikenteen digitaalisen toimintaympäristön kehittämiseen tarkoitetun yhteistyöverkoston toimintaa. Yhteistyössä kehitetään liikennejärjestelmää koskevan tiedon laatua, laaditaan tarvittavia yhteisiä tiedonvaihtoa koskevia käytänteitä sekä muutoin edistetään tiedonvaihdon yhteentoimivuuden ja yhteensopivuuden edellytyksiä. Liikenteenohjausyhtiö Fintraffic Oy:n tehtävänä on osallistua sellaisten Euroopan unionin tukemien koordinointiverkostojen yhteistyöhön, joiden avulla pyritään kehittämään Euroopan komission hyväksymien määritysten operatiivista täytäntöönpanoa, datanvaihtoa koskevia yhteisiä edellytyksiä, suojattua pääsyä ja yhteisiä koulutus- ja tiedotustoimia. Määritysten operatiivista täytäntöönpanoa edistetään eurooppalaisesta standardoinnista, neuvoston direktiivien 89/686/ETY ja 93/15/ETY sekä Euroopan parlamentin ja neuvoston direktiivien 94/9/EY, 94/25/EY, 95/16/EY, 97/23/EY, 98/34/EY, 2004/22/EY, 2007/23/EY, 2009/23/EY ja 2009/105/EY muuttamisesta ja neuvoston päätöksen 87/95/ETY ja Euroopan parlamentin ja neuvoston päätöksen N:o 1673/2006/EY kumoamisesta annetun Euroopan parlamentin ja neuvoston asetuksen (EU) N:o 1025/2012 2 artiklan 1 alakohdassa tarkoitettujen standardien sekä yhdenmukaistettujen profiilien, yhteisten määritelmien, yhteisen metadatan, yhteisten\nlaatuvaatimusten sekä kansallisten yhteyspisteiden sellaisten mallikuvausten yhteentoimivuuden ja yhteensopivuuden avulla, joissa  määritellään tietyn järjestelmän rakenne, käyttäytyminen ja sen yhdistyminen toimintaympäristöön (arkkitehtuuri).",
+      "section_number": "19",
+      "chapter_number": 3,
+      "statute_id": "2017/1926"
+    },
+    {
+      "id": "1e761c51-659e-4e5a-beac-8b489b9df452",
+      "node_type": "Section",
+      "publisher": "finlex",
+      "title": "20 § Tietojen oikeellisuus",
+      "text": "Liikenteenohjausyhtiö Fintraffic Oy:llä on oltava menettelyt, joiden avulla tiedon hyödyntäjät voivat tehokkaasti ilmoittaa mahdollisista virheellisyyksistä tiedoissa. Liikenteenohjausyhtiö Fintraffic Oy:n on ilmoitettava tietoonsa tulleista virheellisyyksistä mahdollisimman nopeasti datan haltijalle niiden korjaamista varten. Liikenteenohjausyhtiö Fintraffic Oy ei vastaa muiden toimijoiden perustietopalvelun kautta saatavilla olevien tietojen puutteellisuuksista tai virheistä mahdollisesti aiheutuvista vahingoista.",
+      "section_number": "20",
+      "chapter_number": 3,
+      "statute_id": "2017/1926"
+    },
+    {
+      "id": "089e1fb2-6725-46cf-aedb-27cbb03399d6",
+      "node_type": "Section",
+      "publisher": "finlex",
+      "title": "21 § Rautatieasemien esteettömyyttä koskevien tietojen toimittaminen",
+      "text": "Liikenteenohjausyhtiö Fintraffic Oy vastaa rautatieasemien esteettömyyttä koskevien tietojen toimittamisesta Euroopan rautatieviraston esteettömyystietokantaan.",
+      "section_number": "21",
+      "chapter_number": 3,
+      "statute_id": "2017/1926"
+    },
+    {
+      "id": "cec1bf22-0dd5-4ac4-b47c-1b5e05c73f70",
+      "node_type": "Section",
+      "publisher": "finlex",
+      "title": "22 § Vaatimustenmukaisuuden arviointi",
+      "text": "Liikenne- ja viestintäviraston on arvioitava ja tarkistettava, täyttävätkö ITS-direktiivin 2 artiklassa tarkoitettuja ensisijaisilla aloilla toimivat ja 3 artiklassa tarkoitettuja ensisijaisia toimia toteuttavat toimijat direktiivissä ja sen nojalla annetuissa delegoiduissa asetuksissa säädetyt vaatimukset. Liikenne- ja viestintäviraston on tehtävä muiden maiden viranomaisten kanssa yhteistyötä, jossa kehitetään vaatimustenmukaisuuden arvioinnin käytäntöjä ja valvonnan mekanismeja.",
+      "section_number": "22",
+      "chapter_number": 4,
+      "statute_id": "2017/1926"
+    },
+    {
+      "id": "fc69345d-4638-4273-82b4-d0d4a7831fb4",
+      "node_type": "Section",
+      "publisher": "finlex",
+      "title": "23 § Valvonta",
+      "text": "Liikenne- ja viestintävirasto valvoo tämän lain noudattamista. Liikenne- ja viestintävirasto valvoo lisäksi ITS-direktiivin nojalla annettujen Euroopan komission asetusten noudattamista Suomessa.",
+      "section_number": "23",
+      "chapter_number": 4,
+      "statute_id": "2017/1926"
+    },
+    {
+      "id": "98775396-fe2c-44e1-a523-503009c1e3b0",
+      "node_type": "Section",
+      "publisher": "finlex",
+      "title": "24 § Tiedonsaantioikeus",
+      "text": "Liikenne- ja viestintävirastolla on salassapitosäännösten estämättä oikeus saada tämän lain mukaisten tehtävien suorittamiseksi välttämättömät tiedot niiltä, joiden oikeuksista ja velvollisuuksista säädetään tässä laissa sekä niissä Euroopan unionin asetuksissa, joiden täydentämisestä ja täsmentämisestä tässä laissa säädetään. Tiedot on luovutettava viipymättä, viranomaisen pyytämässä muodossa ja maksutta.",
+      "section_number": "24",
+      "chapter_number": 4,
+      "statute_id": "2017/1926"
+    },
+    {
+      "id": "e1a463cd-1b80-437c-8f64-9d962fc7f4eb",
+      "node_type": "Section",
+      "publisher": "finlex",
+      "title": "25 § Valvontapäätös",
+      "text": "Liikenne- ja viestintävirasto voi 23 §:n mukaista valvontatehtävää hoitaessaan antaa huomautuksen sille, joka rikkoo tätä lakia, sekä velvoittaa tämän korjaamaan virheensä tai laiminlyöntinsä kohtuullisessa määräajassa. Liikenne- ja viestintävirasto voi antaa huomautuksen myös sille, joka rikkoo ITS-direktiivin nojalla annetussa Euroopan komission asetuksessa säädettyä velvollisuutta toimittaa tietoja kansalliseen yhteyspisteeseen, sekä velvoittaa tämän korjaamaan virheensä tai laiminlyöntinsä kohtuullisessa määräajassa.",
+      "section_number": "25",
+      "chapter_number": 4,
+      "statute_id": "2017/1926"
+    },
+    {
+      "id": "4d1f1917-e975-4a1b-9607-190e56bba25f",
+      "node_type": "Section",
+      "publisher": "finlex",
+      "title": "26 § Uhkasakko ja teettämisuhka",
+      "text": "Edellä 25 §:ssä säädetyn velvoitteen tehosteeksi voidaan asettaa uhkasakko tai uhka siitä, että tekemättä jätetty toimenpide teetetään laiminlyöjän kustannuksella. Uhkasakosta ja teettämisuhasta säädetään uhkasakkolaissa (1113/1990). Teetettävän toimenpiteen kustannukset maksetaan etukäteen valtion varoista ja peritään takaisin laiminlyöjältä. Takaisin perittävät kustannukset ovat suoraan ulosottokelpoisia. Niiden perimisestä säädetään verojen ja maksujen täytäntöönpanosta annetussa laissa (706/2007). Toimijalle asetettavan uhkasakon enimmäismäärä on 5 000 euroa kultakin alkavalta viivästyskuukaudelta.",
+      "section_number": "26",
+      "chapter_number": 4,
+      "statute_id": "2017/1926"
+    },
+    {
+      "id": "4019921f-f10b-4935-b996-0408bee72196",
+      "node_type": "Section",
+      "publisher": "finlex",
+      "title": "27 § Virkavastuu ja asiakirjajulkisuus",
+      "text": "Liikenteenohjausyhtiö Fintraffic Oy:n palveluksessa olevaan henkilöön sovelletaan rikosoikeudellista virkavastuuta koskevia säännöksiä hänen suorittaessaan tässä laissa tarkoitettuja tehtäviä. Liikenteenohjausyhtiö Fintraffic Oy:n toimintaan sovelletaan viranomaisten toiminnan julkisuudesta annettua lakia (621/1999) sen suorittaessa tässä laissa tarkoitettuja tehtäviä.",
+      "section_number": "27",
+      "chapter_number": 5,
+      "statute_id": "2017/1926"
+    },
+    {
+      "id": "9e3b47e1-1607-4360-958a-10d7377eef54",
+      "node_type": "Section",
+      "publisher": "finlex",
+      "title": "28 § Tehtävien rahoitus",
+      "text": "Liikenne- ja viestintävirasto myöntää Liikenteenohjausyhtiö Fintraffic Oy:lle rahoitusta tässä laissa säädettyjen tehtävien hoitamiseksi valtion talousarvioon otettavan määrärahan rajoissa. Määrärahaan sovelletaan valtionavustuslakia (688/2001).",
+      "section_number": "28",
+      "chapter_number": 5,
+      "statute_id": "2017/1926"
+    },
+    {
+      "id": "69aaf431-6e3e-4500-959a-5120979b758a",
+      "node_type": "Section",
+      "publisher": "finlex",
+      "title": "29 § Riskiarvion tekeminen",
+      "text": "Liikenteenohjausyhtiö Fintraffic Oy arvioi vuosittain liikennejärjestelmän perustietopalvelun tietoihin ja palveluihin mahdollisesti liittyviä riskejä kansalliselle turvallisuudelle. Erityistä huomiota on kiinnitettävä 16 §:n 3 momentissa tarkoitettuihin koostetun tiedon palveluihin. Liikenteenohjausyhtiö Fintraffic Oy:n on arviota tehdessään tehtävä yhteistyötä poliisi- ja sotilasviranomaisten sekä Rajavartiolaitoksen ja Liikenne- ja viestintäviraston kanssa. Arvio on annettava tiedoksi näille viranomaisille salassapitosäännösten estämättä.",
+      "section_number": "29",
+      "chapter_number": 5,
+      "statute_id": "2017/1926"
+    },
+    {
+      "id": "7c0bc590-3f6c-4e28-9ac5-def84c6fe627",
+      "node_type": "Section",
+      "publisher": "finlex",
+      "title": "30 § Datan jakamisen keskeyttäminen, rajoittaminen tai kieltäminen poikkeuksellisissa tilanteissa",
+      "text": "Liikenteenohjausyhtiö Fintraffic Oy voi, enintään yhden vuorokauden ajaksi, keskeyttää tietojen luovuttamisen liikennejärjestelmän perustietopalvelusta tai rajoittaa sitä tai keskeyttää liikenteen kokonaistilannekuvan yleisen saatavuuden tai rajoittaa sitä, jos se havaitsee tietoihin kohdistuvia poikkeuksellisia hakuja tai muuta poikkeuksellista tietoliikennettä palveluun tai palvelusta, ja on syytä epäillä tietojen väärinkäyttöä tai kansallisen turvallisuuden tai yleisen järjestyksen ja turvallisuuden vaarantumista. Viranomaisella on kuitenkin oikeus saada ne tiedot, jotka ovat välttämättömiä sille laissa säädetyn tehtävän hoitamiseksi. Liikenteenohjausyhtiö Fintraffic Oy:n on salassapitosäännösten estämättä välittömästi annettava Liikenne- ja viestintävirastolle tieto keskeytyksestä tai rajoituksesta, siihen johtaneista syistä sekä asian selvittämiseksi tarvittavat tiedot. Liikenne- ja viestintäviraston on otettava toimenpide tarkasteluunsa viipymättä. Liikenne- ja viestintävirasto voi päättää keskeytyksen tai rajoituksen keskeyttämisestä tai, jos keskeytyksen tai rajoituksen tarve kestää kauemmin kuin yhden vuorokauden, sen pidentämisestä. Liikenne- ja viestintävirasto voi omasta aloitteestaan tai pelastus-, poliisi- tai sotilasviranomaisen taikka Rajavartiolaitoksen esityksestä tehdyllä päätöksellä kieltää datan ja tietojen luovuttamisen kansallisesta yhteyspisteestä ja liikennejärjestelmän perustietopalvelusta tai rajoittaa sitä, jos se on välttämätöntä maanpuolustuksen, aluevalvonnan, rajaturvallisuuden tai yleisen järjestyksen ja turvallisuuden ylläpitämiseksi. Edellä 2 ja 3 momentissa tarkoitettu keskeytys, rajoitus tai kielto voi olla voimassa vain välttämättömän ajan, kuitenkin enintään 14 vuorokautta kerrallaan. Päätös on välittömästi kumottava, jos sen edellytykset eivät enää täyty. Jos kieltoa tai rajoitusta on tarpeen jatkaa 14 vuorokauden jälkeen, päätöksen siitä tekee valtioneuvosto.",
+      "section_number": "30",
+      "chapter_number": 5,
+      "statute_id": "2017/1926"
+    },
+    {
+      "id": "1009be9b-ff63-4c8a-ad1d-46e4602ccf0f",
+      "node_type": "Section",
+      "publisher": "finlex",
+      "title": "31 § Voimaantulo",
+      "text": "Tämä laki tulee voimaan 1 päivänä tammikuuta 2026. Liikenteenohjausyhtiö Fintraffic Oy:n on laadittava 29 §:ssä tarkoitettu riskiarvio ensimmäistä kertaa siten, että se on valmis viimeistään kolmen kuukauden kuluttua lain voimaantulosta.",
+      "section_number": "31",
+      "chapter_number": 5,
+      "statute_id": "2017/1926"
+    }
+  ],
+  "clauses": [
+    {
+      "id": "41995e45-04ac-4f4f-a901-91ba1b8f50b7",
+      "node_type": "Clause",
+      "publisher": "finlex",
+      "title": "§ 16 mom 1",
+      "text": "1) tie- ja katuverkkoa koskevat tiedot;",
+      "clause_number": 1,
+      "section_number": "16",
+      "statute_id": "2017/1926"
+    },
+    {
+      "id": "aec598be-0e23-4818-b0f6-9d2a568ad6fc",
+      "node_type": "Clause",
+      "publisher": "finlex",
+      "title": "§ 16 mom 2",
+      "text": "2) tieliikenneverkon käyttöä ja tilaa koskevat tiedot;",
+      "clause_number": 2,
+      "section_number": "16",
+      "statute_id": "2017/1926"
+    },
+    {
+      "id": "f3c4a639-5e63-4e2a-ba1b-15cadcccd2bd",
+      "node_type": "Clause",
+      "publisher": "finlex",
+      "title": "§ 16 mom 3",
+      "text": "3) liikkumispalveluiden tarjoamista ja käyttöä koskevat tiedot;",
+      "clause_number": 3,
+      "section_number": "16",
+      "statute_id": "2017/1926"
+    },
+    {
+      "id": "8c5e25db-cc5e-40c8-9d5f-fc15942da73b",
+      "node_type": "Clause",
+      "publisher": "finlex",
+      "title": "§ 16 mom 4",
+      "text": "4) liityntäpisteitä koskevat tiedot;",
+      "clause_number": 4,
+      "section_number": "16",
+      "statute_id": "2017/1926"
+    },
+    {
+      "id": "b8caa511-b82f-4d35-84e9-32b0abb48e85",
+      "node_type": "Clause",
+      "publisher": "finlex",
+      "title": "§ 16 mom 5",
+      "text": "5) lataus- ja tankkauspisteitä koskevat tiedot.",
+      "clause_number": 5,
+      "section_number": "16",
+      "statute_id": "2017/1926"
+    }
+  ],
+  "cross_references": [],
+  "raw_html_path": "C:\\Users\\danit\\finance-hack\\aalto-hackaton-2026\\data\\raw\\finlex\\Laki (säädöskokoelma)\\Laki  liikennejärjestelmän digitaalisista tietopalveluista.html"
+}

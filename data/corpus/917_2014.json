@@ -1,0 +1,2822 @@
+{
+  "statute": {
+    "id": "9c6480a3-50cb-4ee4-9979-b3e158900a53",
+    "node_type": "Statute",
+    "publisher": "finlex",
+    "title": "Sähköturvallisuuslaki",
+    "text": "Sähköturvallisuuslaki",
+    "statute_id": "917/2014",
+    "finlex_url": "https://finlex.fi/fi/laki/ajantasa/917/2014"
+  },
+  "chapters": [
+    {
+      "id": "ca49e52e-f45f-4d50-bb92-fd1973f234e1",
+      "node_type": "Chapter",
+      "publisher": "finlex",
+      "title": "Chapter 1",
+      "text": "1 luku Yleiset säännökset",
+      "chapter_number": 1,
+      "statute_id": "917/2014"
+    },
+    {
+      "id": "4767741d-4fc8-4850-b0e6-9348ab154efd",
+      "node_type": "Chapter",
+      "publisher": "finlex",
+      "title": "Chapter 2",
+      "text": "2 luku Sähkölaitteita koskevat vaatimukset",
+      "chapter_number": 2,
+      "statute_id": "917/2014"
+    },
+    {
+      "id": "9015711a-ddcc-4ab9-917e-6c82222ce0b7",
+      "node_type": "Chapter",
+      "publisher": "finlex",
+      "title": "Chapter 3",
+      "text": "3 luku Sähkölaitteistoa koskevat vaatimukset",
+      "chapter_number": 3,
+      "statute_id": "917/2014"
+    },
+    {
+      "id": "07e4ea53-3a5e-41bc-b62e-d5cffdc390a2",
+      "node_type": "Chapter",
+      "publisher": "finlex",
+      "title": "Chapter 4",
+      "text": "4 luku Sähkötöitä ja käyttötöitä koskevat vaatimukset",
+      "chapter_number": 4,
+      "statute_id": "917/2014"
+    },
+    {
+      "id": "6fb6a919-2ea7-4e9a-a1c1-7435ff06a3ca",
+      "node_type": "Chapter",
+      "publisher": "finlex",
+      "title": "Chapter 5",
+      "text": "5 luku Valvonta",
+      "chapter_number": 5,
+      "statute_id": "917/2014"
+    },
+    {
+      "id": "a0ce5df9-5bd1-459e-8292-0f0a05f3ec80",
+      "node_type": "Chapter",
+      "publisher": "finlex",
+      "title": "Chapter 6",
+      "text": "6 luku Vahinko ja haitta",
+      "chapter_number": 6,
+      "statute_id": "917/2014"
+    },
+    {
+      "id": "baa290ad-cfec-40d3-a571-d01c2b70f2fb",
+      "node_type": "Chapter",
+      "publisher": "finlex",
+      "title": "Chapter 7",
+      "text": "7 luku Erinäiset säännökset",
+      "chapter_number": 7,
+      "statute_id": "917/2014"
+    }
+  ],
+  "sections": [
+    {
+      "id": "1c56bde1-811a-4c3a-9893-102805858769",
+      "node_type": "Section",
+      "publisher": "finlex",
+      "title": "1 § Lain tarkoitus",
+      "text": "Tämän lain tarkoituksena on varmistaa sähkölaitteen ja -laitteiston käytön pitäminen turvallisena ja estää sähkön käytöstä aiheutuvien sähkömagneettisten häiriöiden haitalliset vaikutukset sekä turvata sähkölaitteen tai -laitteiston sähkövirran tai magneettikentän välityksellä aiheuttamasta vahingosta kärsineen oikeudet. Lisäksi lain tarkoituksena on varmistaa sähkölaitteiden vaatimustenmukaisuus ja vapaa liikkuvuus. Tässä laissa säädetään sähkölaitteille ja -laitteistoille asetettavista vaatimuksista, sähkölaitteiden ja -laitteistojen vaatimustenmukaisuuden osoittamisesta ja vaatimustenmukaisuuden valvonnasta, sähköalan töistä ja niiden valvonnasta sekä sähkölaitteen ja -laitteiston haltijan vahingonkorvausvelvollisuudesta. Tällä lailla pannaan täytäntöön sähkömagneettista yhteensopivuutta koskevan jäsenvaltioiden lainsäädännön yhdenmukaistamisesta (uudelleenlaadittu) annettu Euroopan parlamentin ja neuvoston direktiivi 2014/30/EU, jäljempänäEMC-direktiivi, ja tietyllä jännitealueella toimivien sähkölaitteiden asettamista saataville markkinoilla koskevan jäsenvaltioiden lainsäädännön yhdenmukaistamisesta annettu Euroopan parlamentin ja neuvoston direktiivi 2014/35/EU, jäljempänäpienjännitedirektiivi.",
+      "section_number": "1",
+      "chapter_number": 1,
+      "statute_id": "917/2014"
+    },
+    {
+      "id": "5c206bc5-49ab-4e25-ad70-a3ab59860f6f",
+      "node_type": "Section",
+      "publisher": "finlex",
+      "title": "2 § Lain soveltamisala",
+      "text": "Tätä lakia sovelletaan sähkölaitteisiin ja -laitteistoihin, joita käytetään sähkön tuottamisessa, siirrossa, jakelussa tai käytössä ja joiden sähköisistä tai sähkömagneettisista ominaisuuksista voi aiheutua vahingon vaara tai häiriötä. Tätä lakia sovelletaan myös radiolaitteisiin ja viestintäverkkoihin siltä osin kuin niistä voi aiheutua vaaraa hengelle, terveydelle tai omaisuudelle taikka haitallisia häiriöitä, joista ei säädetä tietoyhteiskuntakaaressa (917/2014) tai sen nojalla annetuissa säännöksissä.",
+      "section_number": "2",
+      "chapter_number": 1,
+      "statute_id": "917/2014"
+    },
+    {
+      "id": "9d2bb429-bdae-4511-b8f3-c604cd4451ff",
+      "node_type": "Section",
+      "publisher": "finlex",
+      "title": "3 § Soveltamisalaa koskevat rajoitukset",
+      "text": "Tätä lakia ei sovelleta: Valtioneuvoston asetuksella voidaan säätää tarkemmin tämän lain 2–5 luvun säännösten soveltamisesta sähkölaitteisiin ja -laitteistoihin, siltä osin kuin ne koskevat yksinomaan sotilaskäyttöön tarkoitettujen tuotteiden vaatimuksenmukaisuuden osoittamista, varmennus- ja määräaikaistarkastuksen suorittajaa, ilmoituksia sähkölaitteistoista ja vastuuhenkilöistä, tietojen antamista ja valvonnan järjestämistä maanpuolustuksen kannalta erityissuojattavissa kohteissa. Pääesikunta valvoo puolustusministeriön ohjauksessa mainituissa kohteissa sähköturvallisuutta noudattaen tätä lakia.",
+      "section_number": "3",
+      "chapter_number": 1,
+      "statute_id": "917/2014"
+    },
+    {
+      "id": "fa66f843-2aa0-4a4a-9c23-3196faf9bb58",
+      "node_type": "Section",
+      "publisher": "finlex",
+      "title": "4 § Määritelmät",
+      "text": "Tässä laissa tarkoitetaan:",
+      "section_number": "4",
+      "chapter_number": 1,
+      "statute_id": "917/2014"
+    },
+    {
+      "id": "dbc12de5-5add-42a0-99c1-54d86af41326",
+      "node_type": "Section",
+      "publisher": "finlex",
+      "title": "5 § Suhde muuhun lainsäädäntöön",
+      "text": "Vaatimustenmukaisuuden arviointilaitosten akkreditoinnille, markkinavalvonnalle ja kolmannesta maasta tuotavien tuotteiden ulkorajavalvonnalle sekä tuotteiden CE-merkinnälle asetettavista vähimmäisvaatimuksista säädetään NLF-asetuksessa. Hisseistä säädetään hissiturvallisuuslaissa (1134/2016). Räjähdysvaarallisissa tiloissa käytettäväksi tarkoitettujen laitteiden ja suojausjärjestelmien vaatimustenmukaisuudesta säädetään räjähdysvaarallisissa tiloissa käytettäväksi tarkoitettujen laitteiden ja suojausjärjestelmien vaatimustenmukaisuudesta annetussa laissa (1139/2016). Markkinavalvonnasta, NLF-asetuksen 27–29 artiklan mukaisesta ulkorajavalvonnasta, valvontaviranomaisista ja muutoksenhausta säädetään eräiden tuotteiden markkinavalvonnasta annetussa laissa (1137/2016). Ilmoitetuille laitoksille asetetuista vaatimuksista, ilmoitettujen laitosten valvonnasta ja muutoksenhausta säädetään eräitä tuoteryhmiä koskevista ilmoitetuista laitoksista annetussa laissa (278/2016). Työturvallisuutta koskevista vaatimuksista säädetään työturvallisuuslaissa (738/2002). Sähkönsiirron, -jakelun ja -toimituksen keskeytymiseen sekä sähkönjakelun, muun verkkopalvelun tai sähköntoimituksen virheeseen liittyvistä korvausasioista säädetään sähkömarkkinalaissa. Radiolaitteiden markkinoille saattamisesta säädetään tietoyhteiskuntakaaren 30 luvussa.",
+      "section_number": "5",
+      "chapter_number": 1,
+      "statute_id": "917/2014"
+    },
+    {
+      "id": "2646650c-3bbc-435c-b7ca-f2485fc9bad7",
+      "node_type": "Section",
+      "publisher": "finlex",
+      "title": "6 § Sähkölaitteita ja -laitteistoja koskevat yleiset vaatimukset",
+      "text": "Sähkölaitteet ja -laitteistot on suunniteltava, rakennettava, valmistettava ja korjattava niin sekä niitä on huollettava ja käytettävä käyttötarkoituksensa mukaisesti niin, että: Jos sähkölaite tai -laitteisto ei täytä 1 momentissa säädettyjä edellytyksiä, sitä ei saa saattaa markkinoille, luovuttaa toiselle eikä ottaa käyttöön.",
+      "section_number": "6",
+      "chapter_number": 1,
+      "statute_id": "917/2014"
+    },
+    {
+      "id": "7c6ce950-f776-4f4f-8053-5c52d829d7eb",
+      "node_type": "Section",
+      "publisher": "finlex",
+      "title": "7 § Sähkölaitteen vaatimustenmukaisuuden osoittaminen",
+      "text": "Sen, joka saattaa markkinoille sähkölaitteen, on voitava osoittaa, että sähkölaite täyttää 6 §:n vaatimukset. Sen, joka valmistaa tai tuo maahan sähkölaitteen, jota ei saateta markkinoille, mutta joka luovutetaan myös muiden käyttöön, on voitava osoittaa, että sähkölaite täyttää 6 §:n vaatimukset.",
+      "section_number": "7",
+      "chapter_number": 2,
+      "statute_id": "917/2014"
+    },
+    {
+      "id": "116821e1-617a-4110-a3b5-7553a70fcb6d",
+      "node_type": "Section",
+      "publisher": "finlex",
+      "title": "8 § Sähkölaitteita koskevien vaatimusten soveltamisala",
+      "text": "Tämän lain 9–28 §:ää sovelletaan sähkölaitteisiin, jotka toimivat vaihtosähköllä nimellisjännitealueella 50–1 000 V ja tasasähköllä nimellisjännitealueella 75–1 500 V. Lisäksi lain 9–28 §:ää sovelletaan jännitteestä riippumatta sähkölaitteisiin, joiden fyysiset ominaisuudet ovat luonteeltaan sellaisia, että: Valtioneuvoston asetuksella säädetään tarkemmin sähkölaitteisiin liittyvien vaatimusten soveltamisalan rajauksista.",
+      "section_number": "8",
+      "chapter_number": 2,
+      "statute_id": "917/2014"
+    },
+    {
+      "id": "483369e3-a766-4083-9173-488ec0eca8e8",
+      "node_type": "Section",
+      "publisher": "finlex",
+      "title": "9 § Sähkölaite markkinointitarkoituksiin",
+      "text": "Talouden toimija saa asettaa sähkölaitteen näytteille tai käyttää sähkölaitetta markkinointitarkoituksiin, vaikka sen vaatimustenmukaisuutta ei ole osoitettu. Tällöin sähkölaitteessa on oltava näkyvä merkintä, josta ilmenee messun, esittelytilaisuuden tai näyttelyn nimi ja päivämäärä. Lisäksi sähkölaitteen merkinnästä on käytävä selvästi ilmi, että sähkölaite ei ole vaatimusten mukainen eikä myytävänä ennen kuin valmistaja tai maahantuoja on saattanut sen vaatimusten mukaiseksi. Esittelyjä saa järjestää vain, jos on toteutettu riittävät toimenpiteet sähköturvallisuuden varmistamiseksi ja sähkömagneettisten häiriöiden välttämiseksi.",
+      "section_number": "9",
+      "chapter_number": 2,
+      "statute_id": "917/2014"
+    },
+    {
+      "id": "77fbde73-8fab-4864-8d20-ce2ea03b2367",
+      "node_type": "Section",
+      "publisher": "finlex",
+      "title": "10 § Asettaminen saataville markkinoilla",
+      "text": "Sähkölaitteen saa asettaa saataville markkinoilla vain, jos se täyttää tässä laissa sille säädetyt vaatimukset.",
+      "section_number": "10",
+      "chapter_number": 2,
+      "statute_id": "917/2014"
+    },
+    {
+      "id": "a7ad52e2-b543-4cc2-a4f1-e1629a132330",
+      "node_type": "Section",
+      "publisher": "finlex",
+      "title": "11 § Sähkölaitteen markkinoille saattamisen ja käytön rajoittaminen",
+      "text": "Sähköturvallisuusviranomainen saa rajoittaa sähkölaitteen markkinoille saattamista ja käyttöä, jos: Markkinoille saattamisen ja käytön rajoittamisesta sähköturvallisuusviranomaisen on ilmoitettava Euroopan komissiolle ja muille jäsenvaltioille.",
+      "section_number": "11",
+      "chapter_number": 2,
+      "statute_id": "917/2014"
+    },
+    {
+      "id": "8df08990-49b7-4769-a338-93d2de7be1a9",
+      "node_type": "Section",
+      "publisher": "finlex",
+      "title": "12 § Sähkölaitteen olennaiset vaatimukset",
+      "text": "Sähkölaite on suunniteltava ja valmistettava hyvän teknisen käytännön mukaisesti siten, että se on oikein asennettuna, huollettuna ja käyttötarkoituksensa mukaisesti käytettynä sähkömagneettisesti yhteensopiva eikä vaaranna ihmisten terveyttä ja turvallisuutta, kotieläimiä tai omaisuutta. Sähkölaitteen suojaus on varmistettava sähkölaitteen aiheuttamien vaarojen varalta ja sellaisten vaarojen varalta, jotka voivat aiheutua ulkoisten tekijöiden vaikutuksesta sähkölaitteeseen. Sähköverkonhaltija ei saa asettaa sähkölaitetta koskevia tässä pykälässä tai sen nojalla säädettyjä olennaisia turvallisuusvaatimuksia tiukempia turvallisuusvaatimuksia ehtona verkkoon liittämiselle tai sähkön toimittamiselle sähkölaitteen käyttäjille. Valtioneuvoston asetuksella säädetään tarkemmin sähkölaitteen olennaisista turvallisuusvaatimuksista sekä sähkömagneettista yhteensopivuutta koskevista olennaisista vaatimuksista.",
+      "section_number": "12",
+      "chapter_number": 2,
+      "statute_id": "917/2014"
+    },
+    {
+      "id": "d2638064-93c0-48cb-a249-6f735a4f9d35",
+      "node_type": "Section",
+      "publisher": "finlex",
+      "title": "13 § Valmistajan velvollisuus varmistaa sähkölaitteen vaatimustenmukaisuus",
+      "text": "Valmistajan on ennen sähkölaitteen markkinoille saattamista varmistettava ja voitava osoittaa, että sähkölaite on suunniteltu ja valmistettu 12 §:ssä tarkoitettujen olennaisten turvallisuusvaatimusten ja sähkömagneettista yhteensopivuutta koskevien olennaisten vaatimusten mukaisesti. Valmistajan on suoritettava sähkölaitteelle soveltuva vaatimustenmukaisuuden arviointimenettely ja laadittava sähkölaitteen vaatimustenmukaisuuden osoittamiseksi tekniset asiakirjat. Valmistajan on laadittava EU-vaatimustenmukaisuusvakuutus ja kiinnitettävä sähkölaitteeseen CE-merkintä, kun sähkölaitteen on osoitettu täyttävän sovellettavat vaatimukset. Laatimalla EU-vaatimustenmukaisuusvakuutuksen valmistaja ottaa vastuun siitä, että sähkölaite on sitä koskevien olennaisten vaatimusten mukainen. Tekniset asiakirjat ja EU-vaatimustenmukaisuusvakuutus tulee olla suomen tai ruotsin kielellä taikka muulla sähköturvallisuusviranomaisen hyväksymällä kielellä. Valmistajan on säilytettävä sähkölaitetta koskevat tekniset asiakirjat ja EU-vaatimustenmukaisuusvakuutus kymmenen vuoden ajan sen jälkeen, kun sähkölaite on saatettu markkinoille. Valtioneuvoston asetuksella säädetään tarkemmin vaatimustenmukaisuuden arviointimenettelyistä, teknisistä asiakirjoista sekä EU-vaatimustenmukaisuusvakuutuksesta ja sen sisällöstä.",
+      "section_number": "13",
+      "chapter_number": 2,
+      "statute_id": "917/2014"
+    },
+    {
+      "id": "d9fa8bfd-3d49-4213-97b6-5109771a02a7",
+      "node_type": "Section",
+      "publisher": "finlex",
+      "title": "14 § Valmistajan velvollisuus varmistaa sarjatuotannon jatkuva vaatimustenmukaisuus",
+      "text": "Valmistajan on varmistettava, että sarjatuotannossa valmistettu sähkölaite täyttää tässä laissa säädetyt vaatimukset. Valmistajan on otettava huomioon muutokset sähkölaitteen suunnittelussa tai ominaisuuksissa ja muutokset yhdenmukaistetuissa standardeissa tai muissa teknisissä eritelmissä, joihin nähden sähkölaitteen vaatimustenmukaisuus ilmoitetaan. Valmistajan on testattava kuluttajien terveyden ja turvallisuuden suojelemiseksi näyte markkinoilla saataville asetetusta sähkölaitteesta, jos valmistaja katsoo sen aiheelliseksi sähkölaitteeseen liittyvien riskien vuoksi. Valmistajan on tutkittava valitukset, vaatimustenvastaiset sähkölaitteet ja sähkölaitteiden palautukset ja tarvittaessa pidettävä niistä kirjaa sekä tiedotettava jakelijoille tällaisesta valvonnasta.",
+      "section_number": "14",
+      "chapter_number": 2,
+      "statute_id": "917/2014"
+    },
+    {
+      "id": "72c4a54f-dd4d-46fa-8682-83325734a3b4",
+      "node_type": "Section",
+      "publisher": "finlex",
+      "title": "15 § CE-merkintä",
+      "text": "CE-merkintää koskevista yleisistä periaatteista säädetään NLF-asetuksen 30 artiklassa. Valmistajan on kiinnitettävä valmiiseen tämän lain vaatimukset täyttävään sähkölaitteeseen CE-merkintä ennen sähkölaitteen markkinoille saattamista. Merkintä on kiinnitettävä näkyvästi, helposti luettavasti ja pysyvästi sähkölaitteeseen. Jos CE-merkintää ei ole mahdollista tai perusteltua kiinnittää sähkölaitteeseen, se on kiinnitettävä sähkölaitteen pakkaukseen ja mukana oleviin asiakirjoihin.",
+      "section_number": "15",
+      "chapter_number": 2,
+      "statute_id": "917/2014"
+    },
+    {
+      "id": "20238567-32c9-4534-b244-9a8777820d01",
+      "node_type": "Section",
+      "publisher": "finlex",
+      "title": "16 § Sähkölaitteen merkinnät, yhteystiedot ja mukana seuraavat asiakirjat",
+      "text": "Valmistajan on varmistettava, että markkinoille saatettavaan sähkölaitteeseen on kiinnitetty tässä laissa vaaditut merkinnät ja sähkölaitteeseen on liitetty tarvittavat ohjeet ja turvallisuustiedot. Sähkölaitteessa on oltava tyyppi-, erä- tai sarjanumero tai muu merkintä, jonka avulla se voidaan tunnistaa, tai, jos sähkölaitteen koko tai luonne ei tätä salli, vaadittu tieto on annettava pakkauksessa tai sähkölaitteen mukana olevassa asiakirjassa. Valmistajan on ilmoitettava nimensä, rekisteröity tuotenimensä tai rekisteröity tavaramerkkinsä ja postiosoitteensa. Tiedot on oltava sähkölaitteessa tai, jos se ei ole mahdollista, sähkölaitteen pakkauksessa tai sähkölaitteen mukana olevassa asiakirjassa. Osoitteessa on ilmoitettava yksi yhteyspiste, jonka kautta valmistajaan saa yhteyden. Sähkölaitteen mukana toimitettavissa turvallisuustiedoissa ja ohjeissa on oltava tarpeelliset tiedot sähkölaitteen käyttämiseksi turvallisesti ja käyttötarkoituksensa mukaisesti. Sähkölaitteen merkintöjen, turvallisuustietojen ja ohjeiden sekä sähkölaitteen mukana olevien asiakirjojen tulee olla suomen ja ruotsin kielellä. Niiden on oltava selkeitä, ymmärrettäviä ja helppotajuisia. Valtioneuvoston asetuksella säädetään tarkemmin sähkölaitteen merkintöjä, tietoja ja ohjeita koskevista vaatimuksista.",
+      "section_number": "16",
+      "chapter_number": 2,
+      "statute_id": "917/2014"
+    },
+    {
+      "id": "5c16164c-3f14-4c77-8722-21d20d95d42e",
+      "node_type": "Section",
+      "publisher": "finlex",
+      "title": "17 § Valtuutettu edustaja",
+      "text": "Valmistaja voi nimittää kirjallisella toimeksiannolla valtuutetun edustajan. Valmistaja ei voi siirtää 13 §:n 1 ja 2 momentissa säädettyjä velvollisuuksia valtuutetulle edustajalle. Valtuutetun edustajan on suoritettava valmistajalta saadussa toimeksiannossa eritellyt tehtävät. Toimeksiannon on oikeutettava valtuutettu edustaja suorittamaan ainakin seuraavat tehtävät:",
+      "section_number": "17",
+      "chapter_number": 2,
+      "statute_id": "917/2014"
+    },
+    {
+      "id": "f6d642a3-a2fe-4f88-be55-fb7fe8acf744",
+      "node_type": "Section",
+      "publisher": "finlex",
+      "title": "18 § Maahantuojan velvollisuudet sähkölaitteen markkinoille saattamisen yhteydessä",
+      "text": "Maahantuoja saa saattaa markkinoille ainoastaan vaatimukset täyttäviä sähkölaitteita. Maahantuojan on ennen sähkölaitteen markkinoille saattamista varmistettava, että: Jos maahantuojalla on syytä epäillä, että sähkölaite ei täytä tässä laissa säädettyjä olennaisia turvallisuusvaatimuksia tai sähkömagneettista yhteensopivuutta koskevia olennaisia vaatimuksia, maahantuoja ei saa saattaa sähkölaitetta markkinoille ennen kuin se on saatettu vaatimusten mukaiseksi. Jos sähkölaitteeseen sisältyy riski, maahantuojan on ilmoitettava siitä valmistajalle ja sähköturvallisuusviranomaiselle.",
+      "section_number": "18",
+      "chapter_number": 2,
+      "statute_id": "917/2014"
+    },
+    {
+      "id": "7c0d844a-c29f-4094-92b5-e64eae5cb0bb",
+      "node_type": "Section",
+      "publisher": "finlex",
+      "title": "19 § Maahantuojan velvollisuus ilmoittaa yhteystietonsa",
+      "text": "Maahantuojan on ilmoitettava nimensä, rekisteröity tuotenimensä tai rekisteröity tavaramerkkinsä ja postiosoitteensa. Tiedot on oltava sähkölaitteessa tai, jos se ei ole mahdollista, sähkölaitteen pakkauksessa tai sähkölaitteen mukana olevassa asiakirjassa.",
+      "section_number": "19",
+      "chapter_number": 2,
+      "statute_id": "917/2014"
+    },
+    {
+      "id": "16d3ecf6-8afb-4f69-b827-0c121a73023f",
+      "node_type": "Section",
+      "publisher": "finlex",
+      "title": "20 § Maahantuojan velvollisuus säilyttää ja toimittaa asiakirjoja",
+      "text": "Maahantuojan on pidettävä EU-vaatimustenmukaisuusvakuutuksen jäljennös sähköturvallisuusviranomaisen saatavilla kymmenen vuoden ajan siitä, kun sähkölaite on saatettu markkinoille ja varmistettava, että tekniset asiakirjat ovat pyynnöstä sähköturvallisuusviranomaisen saatavilla.",
+      "section_number": "20",
+      "chapter_number": 2,
+      "statute_id": "917/2014"
+    },
+    {
+      "id": "4841340f-1347-4ff7-9c22-f1ea6b921fff",
+      "node_type": "Section",
+      "publisher": "finlex",
+      "title": "21 § Jakelijan velvollisuudet asetettaessa sähkölaite saataville markkinoilla",
+      "text": "Jakelijan on noudatettava asiaankuuluvaa huolellisuutta sen varmistamiseksi, että hänen markkinoilla saataville asettamansa sähkölaite on tämän lain vaatimusten mukainen. Jakelijan on ennen sähkölaitteen asettamista saataville markkinoilla tarkistettava, että: Jos jakelijalla on syytä epäillä, että sähkölaite ei täytä olennaisia turvallisuusvaatimuksia tai sähkömagneettista yhteensopivuutta koskevia olennaisia vaatimuksia, jakelija ei saa asettaa sähkölaitetta saataville markkinoilla ennen kuin se on saatettu tämän lain vaatimusten mukaiseksi. Jos sähkölaitteeseen sisältyy riski, jakelijan on ilmoitettava siitä valmistajalle tai maahantuojalle ja sähköturvallisuusviranomaiselle.",
+      "section_number": "21",
+      "chapter_number": 2,
+      "statute_id": "917/2014"
+    },
+    {
+      "id": "17568d29-73ef-472c-bccd-b2e3620161f4",
+      "node_type": "Section",
+      "publisher": "finlex",
+      "title": "22 § Maahantuojan ja jakelijan velvollisuus varmistaa sähkölaitteen varastointi- ja kuljetusolosuhteet",
+      "text": "Maahantuojan ja jakelijan on varmistettava, ettei sähkölaitteen vaatimustenmukaisuus vaarannu hänen vastuullaan olevan varastoinnin tai kuljetuksen aikana.",
+      "section_number": "22",
+      "chapter_number": 2,
+      "statute_id": "917/2014"
+    },
+    {
+      "id": "37ba4391-f5d5-47b6-89f0-c3faa8c4dfed",
+      "node_type": "Section",
+      "publisher": "finlex",
+      "title": "23 § Valmistajan velvollisuuksien soveltaminen maahantuojaan ja jakelijaan",
+      "text": "Maahantuojalla ja jakelijalla on samat velvollisuudet kuin valmistajalla, jos ne saattavat sähkölaitteen markkinoille omalla nimellään tai tavaramerkillään taikka muuttavat markkinoille jo saatettua sähkölaitetta tavalla, joka voi vaikuttaa tämän lain vaatimusten täyttymiseen.",
+      "section_number": "23",
+      "chapter_number": 2,
+      "statute_id": "917/2014"
+    },
+    {
+      "id": "6ebaae25-43b7-447e-8288-2c6b8dd2bdd0",
+      "node_type": "Section",
+      "publisher": "finlex",
+      "title": "24 § Talouden toimijoiden tunnistetiedot",
+      "text": "Talouden toimijan on pyynnöstä esitettävä sähköturvallisuusviranomaiselle tunnistetiedot kaikista talouden toimijoista, jotka ovat toimittaneet sille sähkölaitteita tai joille tämä on toimittanut sähkölaitteita. Talouden toimijan on voitava esittää 1 momentissa tarkoitetut tiedot kymmenen vuoden ajan sen jälkeen, kun sille on toimitettu sähkölaitteita, ja kymmenen vuoden ajan sen jälkeen, kun se on toimittanut sähkölaitteita.",
+      "section_number": "24",
+      "chapter_number": 2,
+      "statute_id": "917/2014"
+    },
+    {
+      "id": "24eb5f12-5b36-4ad1-83f7-53814338faad",
+      "node_type": "Section",
+      "publisher": "finlex",
+      "title": "25 § Talouden toimijan velvollisuudet vaatimustenvastaisuustilanteissa",
+      "text": "Jos valmistajalla tai maahantuojalla on syytä epäillä, että sen markkinoille saattama sähkölaite ei täytä tämän lain vaatimuksia, valmistajan tai maahantuojan on ryhdyttävä välittömästi toimenpiteisiin sähkölaitteen saattamiseksi vaatimusten mukaiseksi, sen poistamiseksi markkinoilta tai tarvittaessa sitä koskevan palautusmenettelyn järjestämiseksi. Jos jakelijalla on syytä epäillä, että sen markkinoilla saataville asettama sähkölaite ei täytä tämän lain vaatimuksia, jakelijan on varmistettava, että asiassa ryhdytään tarvittaviin toimenpiteisiin sähkölaitteen saattamiseksi vaatimusten mukaiseksi, sen poistamiseksi markkinoilta tai sitä koskevan palautusmenettelyn järjestämiseksi. Jos sähkölaite aiheuttaa riskin, talouden toimijan on välittömästi ilmoitettava asiasta niiden EU:n jäsenvaltioiden toimivaltaisille kansallisille viranomaisille, joissa talouden toimija on asettanut sähkölaitteen saataville markkinoilla, ja annettava yksityiskohtaiset tiedot vaatimustenvastaisuudesta ja toteutetuista korjaavista toimenpiteistä. Valmistajan ja maahantuojan on silloin, kun se katsotaan kuluttajien terveyden ja turvallisuuden suojelemiseksi tarpeelliseksi, tehtävä näytteisiin perustuvia testejä markkinoilla saataville asetetuille sähkölaitteille ja tutkittava valitukset, vaatimustenvastaiset sähkölaitteet ja sähkölaitteiden palautukset ja tarvittaessa pidettävä niistä kirjaa sekä tiedotettava jakelijoille tällaisesta valvonnasta.",
+      "section_number": "25",
+      "chapter_number": 2,
+      "statute_id": "917/2014"
+    },
+    {
+      "id": "41adb5de-b8a7-4481-80f9-8a0557594699",
+      "node_type": "Section",
+      "publisher": "finlex",
+      "title": "26 § Talouden toimijan velvollisuus luovuttaa tietoja ja tehdä yhteistyötä sähköturvallisuusviranomaisen kanssa",
+      "text": "Talouden toimijan on pyynnöstä luovutettava sähköturvallisuusviranomaiselle tiedot ja asiakirjat, jotka ovat tarpeen sähkölaitteen vaatimustenmukaisuuden osoittamiseksi, suomen, ruotsin tai muulla sähköturvallisuusviranomaisen hyväksymällä kielellä. Talouden toimijan on tehtävä sähköturvallisuusviranomaisen kanssa tämän pyynnöstä yhteistyötä toimissa, joilla pyritään poistamaan talouden toimijan markkinoille saattamien sähkölaitteiden aiheuttamat riskit.",
+      "section_number": "26",
+      "chapter_number": 2,
+      "statute_id": "917/2014"
+    },
+    {
+      "id": "1fcabb1c-c73e-48d3-86c1-0aa4eed47c60",
+      "node_type": "Section",
+      "publisher": "finlex",
+      "title": "27 § Sähkömagneettisen yhteensopivuuden vaatimukset tiettyyn kiinteään asennukseen sijoitettavalle sähkölaitteelle",
+      "text": "Markkinoilla saataville asetettuun sähkölaitteeseen, joka voidaan sijoittaa kiinteään asennukseen, sovelletaan sähkölaitteiden sähkömagneettista yhteensopivuutta koskevia vaatimuksia. Sähkölaitteeseen, joka on tarkoitettu sijoitettavaksi tiettyyn kiinteään asennukseen eikä sitä ole muutoin asetettu saataville markkinoilla, ei sovelleta 11–25 §:ssä säädettyjä sähkömagneettiseen yhteensopivuuteen liittyviä vaatimuksia. Sähkölaitteen mukana olevissa asiakirjoissa on yksilöitävä kiinteä asennus ja sen sähkömagneettisen yhteensopivuuden ominaispiirteet ja ilmoitettava varotoimenpiteet, joita sähkölaitteen asentaminen kiinteään asennukseen edellyttää, jotta kyseisen asennuksen vaatimustenmukaisuutta ei vaaranneta. Asiakirjoissa on oltava 16 §:n 2 ja 3 momentissa sekä 19 §:ssä tarkoitetut merkinnät ja yhteystiedot. Lisäksi asiakirjoihin on kirjattava noudatetut hyvät tekniset käytännöt. Kiinteän asennuksen rakentajan on varmistettava, että edellytetyt asiakirjat luovutetaan sähkölaitteiston haltijalle. Haltijan on säilytettävä nämä asiakirjat sähköturvallisuusviranomaisen saatavilla asennuksen käyttöiän ajan.",
+      "section_number": "27",
+      "chapter_number": 2,
+      "statute_id": "917/2014"
+    },
+    {
+      "id": "bcf08e2f-5fcd-4866-82d9-32d8a3468eb3",
+      "node_type": "Section",
+      "publisher": "finlex",
+      "title": "28 § Sähkölaitteen vaatimustenmukaisuusolettama",
+      "text": "Sähkölaitteen katsotaan täyttävän 12 §:ssä tarkoitetut olennaiset turvallisuusvaatimukset ja sähkömagneettista yhteensopivuutta koskevat olennaiset vaatimukset, jos se on sitä koskevien yhdenmukaistettujen standardien tai niiden osien, joiden viitetiedot on julkaistu Euroopan unionin virallisessa lehdessä, mukainen. Sähkölaite voi täyttää olennaiset turvallisuusvaatimukset ja sähkömagneettista yhteensopivuutta koskevat olennaiset vaatimukset, vaikka se ei ole yhdenmukaistetun standardin mukainen. Sähkölaitteen vaatimustenmukaisuus on tällöin voitava osoittaa luotettavasti. Valtioneuvoston asetuksella säädetään tarkemmin sähkölaitteen vaatimustenmukaisuusolettaman antavista standardeista ja niiden soveltamisjärjestyksestä.",
+      "section_number": "28",
+      "chapter_number": 2,
+      "statute_id": "917/2014"
+    },
+    {
+      "id": "4466469b-5e7e-4873-bdb4-834dd5c568e8",
+      "node_type": "Section",
+      "publisher": "finlex",
+      "title": "29 § Kotitalouskäyttöön tarkoitettujen pistokytkimien erityisvaatimukset",
+      "text": "Kotitalouskäyttöön tarkoitetun pistotulpan ja -rasian saa asettaa saataville markkinoilla, luovuttaa toiselle tai ottaa käyttöön vain, jos se on Suomessa sovellettavan pistokytkimiä koskevan standardin mukainen. Mitä 1 momentissa säädetään, koskee myös sähkölaitteen rakenteellisena osana olevaa pistotulppaa ja -rasiaa. Talouden toimijan, joka valmistaa tai tuo Suomen markkinoille pistotulpan tai -rasian, on varmistettava, että sähköturvallisuusviranomaisen saatavilla on todistus siitä, että pistotulppa tai -rasia täyttää 1 momentissa tarkoitetun standardin vaatimukset.",
+      "section_number": "29",
+      "chapter_number": 2,
+      "statute_id": "917/2014"
+    },
+    {
+      "id": "cc788d89-f769-4b13-b813-615b06262494",
+      "node_type": "Section",
+      "publisher": "finlex",
+      "title": "30 § Soveltamisalan rajaus",
+      "text": "Tämän lain 32–34 §:ää ei sovelleta viestintäverkkojen, hissien, ilma-alusten eikä maa- ja vesikulkuneuvojen sähkölaitteistoihin.",
+      "section_number": "30",
+      "chapter_number": 3,
+      "statute_id": "917/2014"
+    },
+    {
+      "id": "3f35e50f-a457-41bf-90d1-88e84f610c2d",
+      "node_type": "Section",
+      "publisher": "finlex",
+      "title": "31 § Sähkölaitteiston turvallisuusvaatimukset",
+      "text": "Sähkölaitteisto on suunniteltava, rakennettava ja korjattava hyvän turvallisuusteknisen käytännön mukaisesti ottaen huomioon 6 §:n 1 momentin 1 kohdassa säädetyt vaatimukset. Sen lisäksi, mitä 1 momentissa säädetään, sähkölaitteiston on täytettävä olennaiset turvallisuusvaatimukset. Olennaiset turvallisuusvaatimukset koskevat suojausta sähköiskulta, suojausta tulipaloa ja kuumuutta vastaan, suojausta muilta haittavaikutuksilta, erityislaitteistojen sekä erityisolosuhteiden vaatimuksia, eri laitteistojen keskinäistä yhteensopivuutta sekä muita olennaisia rakennevaatimuksia. Vaatimukset koskevat myös tarpeellisia merkintöjä ja asiakirjoja. Sähkölaitteiston rakenteessa on otettava huomioon Suomessa vallitsevat olosuhteet ja noudatettavat asennustavat. Valtioneuvoston asetuksella säädetään tarkemmin sähkölaitteiston olennaisista turvallisuusvaatimuksista.",
+      "section_number": "31",
+      "chapter_number": 3,
+      "statute_id": "917/2014"
+    },
+    {
+      "id": "8d35c034-15a3-48e2-b8a8-bbd34adb56c6",
+      "node_type": "Section",
+      "publisher": "finlex",
+      "title": "32 § Turvallisuusvaatimusten täyttyminen",
+      "text": "Sähkölaitteiston katsotaan täyttävän 31 §:ssä tarkoitetut olennaiset turvallisuusvaatimukset, jos se suunnitellaan, rakennetaan ja korjataan soveltaen 33 §:ssä tarkoitettuja standardeja tai julkaisuja, joiden vastaavuus olennaisiin vaatimuksiin on vahvistettu 33 §:n mukaisesti. Sähkölaitteiston olennaisten turvallisuusvaatimusten täyttyminen on tarvittaessa 1 momentista poiketen mahdollista osoittaa noudattaen, mitä 34 §:ssä säädetään.",
+      "section_number": "32",
+      "chapter_number": 3,
+      "statute_id": "917/2014"
+    },
+    {
+      "id": "5f1bc011-1844-4c0b-8f47-d8e6f100a91f",
+      "node_type": "Section",
+      "publisher": "finlex",
+      "title": "33 § Sovellettavat standardit ja julkaisut",
+      "text": "Sähköturvallisuusviranomainen julkaisee luettelon niistä standardeista, joita noudattaen sähkölaitteiston katsotaan täyttävän tämän lain vaatimukset. Jos standardeja ei tietyn sähkölaitteiston osalta ole laadittu, voidaan soveltaa standardeihin verrattavia julkaisuja, joiden vastaavuus olennaisiin turvallisuusvaatimuksiin on vahvistettu 1 momentin mukaisesti. Standardin tai sen painoksen vaihtuessa sähköturvallisuusviranomainen päivittää standardiluettelon. Luettelon päivityshetkellä rakenteilla oleva sähkölaitteisto voidaan rakentaa valmiiksi ja ottaa käyttöön edellisen standardin mukaisena kolmen vuoden kuluessa päivityksestä.",
+      "section_number": "33",
+      "chapter_number": 3,
+      "statute_id": "917/2014"
+    },
+    {
+      "id": "43f2e567-0710-4562-a216-6e16aaa39ecf",
+      "node_type": "Section",
+      "publisher": "finlex",
+      "title": "34 § Standardeista poikkeaminen",
+      "text": "Standardeista saa tarvittaessa poiketa, jos vastaava turvallisuustaso voidaan saavuttaa muutoin. Sähkölaitteiston suunnittelijan tai rakentajan on laadittava kirjallinen selvitys poikkeamisesta ennen sähkölaitteiston rakentamisen tai korjaamisen aloittamista, ja sille on oltava tilaajan antama suostumus. Selvityksen tulee olla siten laadittu, että sen perusteella voidaan todeta vaatimusten täyttyminen. Selvitystä voidaan tarvittaessa täydentää valtuutetun laitoksen tai valtuutetun tarkastajan lausunnolla. Valtioneuvoston asetuksella säädetään tarkemmin standardista poikkeamisen menettelystä.",
+      "section_number": "34",
+      "chapter_number": 3,
+      "statute_id": "917/2014"
+    },
+    {
+      "id": "d8b180f3-1e38-4f14-a746-24bfe4457f2d",
+      "node_type": "Section",
+      "publisher": "finlex",
+      "title": "35 § Käyttöolosuhteiden muuttuminen",
+      "text": "Sähkölaitteiston haltijan on huolehdittava, että käytön tai käyttöolosuhteiden muuttuessa ryhdytään tarvittaviin toimenpiteisiin, joilla voidaan varmistaa sähkölaitteiston turvallisuus muuttuneissa olosuhteissa.",
+      "section_number": "35",
+      "chapter_number": 3,
+      "statute_id": "917/2014"
+    },
+    {
+      "id": "d67f40e5-acc9-493a-ae36-2a545ce884e5",
+      "node_type": "Section",
+      "publisher": "finlex",
+      "title": "36 § Sähkölaitteistojen kytkeminen yhteen",
+      "text": "Sen, joka kytkee sähkölaitteistot yhteen, on varmistettava, ettei toimenpiteestä aiheudu 6 §:ssä tarkoitettua vaaraa tai häiriötä. Tämän varmistamiseksi yhteen kytkettävien sähkölaitteistojen haltijoiden on annettava toisilleen riittävät sähkölaitteistonsa rakennetta koskevat tekniset tiedot.",
+      "section_number": "36",
+      "chapter_number": 3,
+      "statute_id": "917/2014"
+    },
+    {
+      "id": "58b15da3-ea02-4134-843f-2b05706abcd9",
+      "node_type": "Section",
+      "publisher": "finlex",
+      "title": "37 § Sähkölaitteiston sähkömagneettista yhteensopivuutta koskevien vaatimusten soveltamisala",
+      "text": "Tämän lain 38–41 §:ää sovelletaan sähkölaitteistoihin, joiden fyysiset ominaisuudet ovat luonteeltaan sellaisia, että: Valtioneuvoston asetuksella säädetään tarkemmin sähkölaitteiston sähkömagneettista yhteensopivuutta koskevien vaatimusten soveltamisalan rajauksista.",
+      "section_number": "37",
+      "chapter_number": 3,
+      "statute_id": "917/2014"
+    },
+    {
+      "id": "c037fc51-0b36-417a-9690-ad0a7b73aeb3",
+      "node_type": "Section",
+      "publisher": "finlex",
+      "title": "38 § Sähkölaitteisto markkinointitarkoituksiin",
+      "text": "Sähkölaitteiston saa asettaa näytteille tai sitä saa käyttää markkinointitarkoituksiin, vaikka se ei ole tämän lain vaatimusten mukainen. Tällöin sähkölaitteistossa on oltava näkyvä merkintä, josta ilmenee messun, esittelytilaisuuden tai näyttelyn nimi ja päivämäärä. Lisäksi sähkölaitteiston merkinnästä on käytävä selvästi ilmi, että sähkölaitteisto ei ole vaatimusten mukainen eikä myytävänä ennen kuin se on saatettu vaatimusten mukaiseksi. Esittelyjä saa järjestää vain, jos on toteutettu riittävät toimenpiteet sähköturvallisuuden varmistamiseksi ja sähkömagneettisten häiriöiden välttämiseksi.",
+      "section_number": "38",
+      "chapter_number": 3,
+      "statute_id": "917/2014"
+    },
+    {
+      "id": "fc312b1b-63a7-4c06-a906-507ea48a9c6f",
+      "node_type": "Section",
+      "publisher": "finlex",
+      "title": "39 § Sähkölaitteiston sähkömagneettista yhteensopivuutta koskevat olennaiset vaatimukset",
+      "text": "Sähkölaitteisto on suunniteltava ja rakennettava hyvän teknisen käytännön mukaisesti siten, että se on oikein huollettuna ja korjattuna sähkömagneettisesti yhteensopiva. Kiinteissä asennuksissa on otettava huomioon komponenttien aiottua käyttötarkoitusta koskevat tiedot siten, että varmistetaan sähkölaitteistolle säädettyjen olennaisten vaatimusten täyttyminen. Sähkölaitteiston rakentajan on kirjattava sovelletut tekniset käytännöt asiakirjoihin ja luovutettava ne sähkölaitteiston haltijalle. Sähkölaitteiston haltijan on säilytettävä nämä asiakirjat sähköturvallisuusviranomaisen saatavilla tarkastuksia varten niin kauan kuin sähkölaitteisto on käytössä. Valtioneuvoston asetuksella säädetään tarkemmin sähkölaitteiston sähkömagneettista yhteensopivuutta koskevista olennaisista vaatimuksista ja kiinteiden asennusten erityisvaatimuksista.",
+      "section_number": "39",
+      "chapter_number": 3,
+      "statute_id": "917/2014"
+    },
+    {
+      "id": "d03266ab-2107-4ecc-a615-995dd5cea49c",
+      "node_type": "Section",
+      "publisher": "finlex",
+      "title": "40 § Sähkölaitteiston vaatimustenmukaisuusolettama sähkömagneettista yhteensopivuutta koskevien olennaisten vaatimusten suhteen",
+      "text": "Sähkölaitteiston katsotaan täyttävän 39 §:ssä tarkoitetut sähkömagneettista yhteensopivuutta koskevat olennaiset vaatimukset, jos se on niitä koskevien yhdenmukaistettujen standardien tai niiden osien, joiden viitetiedot on julkaistu Euroopan unionin virallisessa lehdessä, mukainen. Sähkölaitteisto voi täyttää sähkömagneettista yhteensopivuutta koskevat olennaiset vaatimukset, vaikka se ei ole yhdenmukaistetun standardin mukainen. Sähkölaitteiston vaatimustenmukaisuus on tällöin voitava osoittaa luotettavasti.",
+      "section_number": "40",
+      "chapter_number": 3,
+      "statute_id": "917/2014"
+    },
+    {
+      "id": "3f53936d-06ff-438a-b187-b9a9252140f2",
+      "node_type": "Section",
+      "publisher": "finlex",
+      "title": "41 § Sähkölaitteiston käyttöönotto ja käyttöönoton rajoittaminen",
+      "text": "Sähkölaitteiston saa ottaa käyttöön vain, jos se täyttää tässä laissa sille asetetut vaatimukset. Sähkölaitteiston rakentajan on ennen sähkölaitteen käyttöönottoa varmistettava, että sähkölaitteisto on suunniteltu ja rakennettu 31 §:ssä säädettyjen turvallisuusvaatimusten ja 39 §:ssä säädettyjen sähkömagneettista yhteensopivuutta koskevien olennaisten vaatimusten mukaisesti. Sähköturvallisuusviranomainen saa rajoittaa sähkölaitteiston käyttöönottoa ja käyttöä, jos: Sähkölaitteiston käyttöönoton ja käytön rajoittamisesta sähköturvallisuusviranomaisen on ilmoitettava Euroopan komissiolle ja muille jäsenvaltioille.",
+      "section_number": "41",
+      "chapter_number": 3,
+      "statute_id": "917/2014"
+    },
+    {
+      "id": "9dd5ad7f-4bbb-4938-b8d2-78ceaddca459",
+      "node_type": "Section",
+      "publisher": "finlex",
+      "title": "42 § Sähkölaitteiston käyttöönottoajankohta",
+      "text": "Sähkölaitteisto katsotaan otetuksi käyttöön ajankohtana, jolloin laitteistoon kytketään jännite sen käyttöä varten. Sähkölaitteiston käyttöönottona ei kuitenkaan pidetä sellaisia valvottuja käyttötilanteita, jotka ovat tarpeen laitteiston koekäytössä tai käyttöönottotarkastuksessa. Sähkölaitteisto katsotaan otetuksi varsinaiseen käyttötarkoitukseensa ajankohtana, jolloin tila, johon sähkölaitteisto on rakennettu, otetaan suunniteltuun käyttötarkoitukseensa tai toiminta, jota varten sähkölaitteisto on suunniteltu, alkaa.",
+      "section_number": "42",
+      "chapter_number": 3,
+      "statute_id": "917/2014"
+    },
+    {
+      "id": "0b6d30e0-18a0-43e5-81ca-df978c29b42f",
+      "node_type": "Section",
+      "publisher": "finlex",
+      "title": "43 § Sähkölaitteiston käyttöönottotarkastus",
+      "text": "Sähkölaitteisto saadaan ottaa käyttöön vasta, kun käyttöönottotarkastuksessa on riittävässä laajuudessa selvitetty, että siitä ei aiheudu 6 §:ssä tarkoitettua vaaraa tai häiriötä. Käyttöönottotarkastus on tehtävä myös sähkölaitteiston muutos- ja laajennustöille. Sähkölaitteiston rakentajan tulee huolehtia sähkölaitteiston käyttöönottotarkastuksesta. Jos rakentaja laiminlyö velvollisuutensa tai on estynyt huolehtimaan niistä, tulee sähkölaitteiston haltijan huolehtia tarkastuksesta. Sähkölaitteiston rakentajan tulee laatia käyttöönottotarkastuksesta sähkölaitteiston haltijan käyttöön tarkastuspöytäkirja vähäisiksi katsottavia töitä lukuun ottamatta. Näissäkin tapauksissa on sähkölaitteiston testausten tulokset kuitenkin tarvittaessa annettava laitteiston haltijalle. Valtioneuvoston asetuksella säädetään tarkemmin käyttöönottotarkastuspöytäkirjan sisällöstä sekä niistä vähäisiksi katsottavista töistä, joista pöytäkirjaa ei tarvitse tehdä.",
+      "section_number": "43",
+      "chapter_number": 3,
+      "statute_id": "917/2014"
+    },
+    {
+      "id": "8a98e613-e76b-46c1-ba0e-89655d877855",
+      "node_type": "Section",
+      "publisher": "finlex",
+      "title": "44 § Sähkölaitteistoluokitus",
+      "text": "Sähkölaitteistot jaetaan niiden varmennus- ja määräaikaistarkastusten vaatimusten sekä kunnossapito-ohjelmaa koskevien vaatimusten osalta luokkiin seuraavasti: Sähkölaitteistoluokitusta ei sovelleta viestintäverkkojen, hissien, ilma-alusten eikä maa- ja vesikulkuneuvojen sähkölaitteistoihin.",
+      "section_number": "44",
+      "chapter_number": 3,
+      "statute_id": "917/2014"
+    },
+    {
+      "id": "1cc0234d-b4e6-41c9-a449-a329235827a2",
+      "node_type": "Section",
+      "publisher": "finlex",
+      "title": "45 § Sähkölaitteiston varmennustarkastus",
+      "text": "Sähkölaitteistolle on tehtävä käyttöönottotarkastuksen lisäksi varmennustarkastus, jos kyseessä on luokan 1, 2 tai 3 sähkölaitteisto. Varmennustarkastus on tehtävä myös sähkölaitteiston merkittävälle muutos- ja laajennustyölle. Sähkölaitteiston rakentajan tulee huolehtia sähkölaitteiston varmennustarkastuksesta. Jos rakentaja laiminlyö velvollisuutensa tai on estynyt huolehtimaan siitä, tulee sähkölaitteiston haltijan huolehtia tarkastuksesta. Valtioneuvoston asetuksella säädetään tarkemmin merkittäviksi katsottavista sähkölaitteiston muutos- ja laajennustöistä.",
+      "section_number": "45",
+      "chapter_number": 3,
+      "statute_id": "917/2014"
+    },
+    {
+      "id": "d7f90d6d-cd82-41b7-932c-52be3f334d5b",
+      "node_type": "Section",
+      "publisher": "finlex",
+      "title": "46 § Varmennustarkastuksen ajankohta, sisältö ja suorittaja",
+      "text": "Varmennustarkastus on tehtävä ennen sähkölaitteiston ottamista varsinaiseen käyttötarkoitukseensa tai tietyn ajan kuluessa sen jälkeen. Varmennustarkastuksessa on riittävässä laajuudessa pistokokein tai muulla soveltuvalla tavalla varmistettava, että sähkölaitteisto täyttää sähköturvallisuudelle ja sähkömagneettiselle yhteensopivuudelle säädetyt vaatimukset ja sähkölaitteistolle on tehty asianmukainen käyttöönottotarkastus. Varmennustarkastukseen on aina sisällytettävä kohteessa mahdolliset olevat lääkintätilat, räjähdysvaaralliset tilat ja palovaaralliset tilat. Varmennustarkastuksen voi tehdä 75 §:ssä tarkoitettu valtuutettu laitos tai valtuutettu tarkastaja. Varmennustarkastuksen tekijän on laadittava sähkölaitteiston haltijan käyttöön tarkastustodistus ja kiinnitettävä pääkeskukseen tai vastaavaan kohtaan tarkastustarra. Laitteiston haltijan on säilytettävä tarkastustodistus vähintään kymmenen vuotta. Valtioneuvoston asetuksella säädetään tarkemmin varmennustarkastuksen ajankohdasta erityyppisille laitteistoille sekä tarkastustodistuksen ja tarkastustarran sisällöstä.",
+      "section_number": "46",
+      "chapter_number": 3,
+      "statute_id": "917/2014"
+    },
+    {
+      "id": "def1dee6-023b-44e3-81b2-a596e6cc5f5c",
+      "node_type": "Section",
+      "publisher": "finlex",
+      "title": "47 § Sähkölaitteiston haltijan vastuu sähkölaitteiston turvallisuudesta ja sähkömagneettisesta yhteensopivuudesta",
+      "text": "Sähkölaitteiston haltija on vastuussa laitteiston turvallisuudesta, sen ylläpitämiseksi tarvittavasta kunnossapidosta ja siitä, että laitteisto täyttää tämän lain vaatimukset. Sähkölaitteiston haltijan on huolehdittava siitä, että laitteiston kuntoa ja turvallisuutta tarkkaillaan ja että havaitut puutteet ja viat poistetaan riittävän nopeasti.",
+      "section_number": "47",
+      "chapter_number": 3,
+      "statute_id": "917/2014"
+    },
+    {
+      "id": "2997510f-1c65-4580-9099-18b051af4b52",
+      "node_type": "Section",
+      "publisher": "finlex",
+      "title": "48 § Sähkölaitteiston huolto ja kunnossapito-ohjelma",
+      "text": "Sähkölaitteiston haltijan on huolehdittava siitä, että luokkien 2 ja 3 sähkölaitteistoille laaditaan sähköturvallisuuden ylläpitävä kunnossapito-ohjelma. Sähkölaitteiston haltija vastaa siitä, että kunnossapito-ohjelmaa noudatetaan. Kunnossapito-ohjelmaa laadittaessa tulee ottaa huomioon sähkölaitteiston käyttöympäristöstä aiheutuvat tarpeet. Muiden sähkölaitteistojen osalta ohjelma voidaan korvata laitteiden ja laitteistojen käyttö- ja huolto-ohjeilla.",
+      "section_number": "48",
+      "chapter_number": 3,
+      "statute_id": "917/2014"
+    },
+    {
+      "id": "4e894b32-9549-42ac-b03b-7116aa66d342",
+      "node_type": "Section",
+      "publisher": "finlex",
+      "title": "49 § Sähkölaitteiston määräaikaistarkastus",
+      "text": "Käytössä olevalle luokan 1 ja 2 sähkölaitteistolle asuinrakennuksia lukuun ottamatta on tehtävä määräaikaistarkastus kymmenen vuoden välein. Jos asuinrakennuksen osana on liiketiloja tai muita pääasiassa muuta käyttöä kuin asumista palvelevia tiloja, joiden suojalaitteena toimivan ylivirtasuojan nimellisvirta on yli 35 ampeeria, on näiden tilojen sähkölaitteistolle tehtävä määräaikaistarkastus kymmenen vuoden välein. Luokan 3 sähkölaitteistolle määräaikaistarkastus on tehtävä viiden vuoden välein. Sähkölaitteiston haltijan tulee huolehtia laitteiston määräaikaistarkastuksesta.",
+      "section_number": "49",
+      "chapter_number": 3,
+      "statute_id": "917/2014"
+    },
+    {
+      "id": "1b436256-0017-400d-b70a-0c592def9b57",
+      "node_type": "Section",
+      "publisher": "finlex",
+      "title": "50 § Määräaikaistarkastuksen sisältö ja suorittaja",
+      "text": "Määräaikaistarkastuksessa tulee riittävässä laajuudessa pistokokein tai muulla soveltuvalla tavalla varmistua siitä, että: Määräaikaistarkastukseen on aina sisällytettävä kohteessa mahdollisesti olevat lääkintätilat, räjähdysvaaralliset tilat ja palovaaralliset tilat. Määräaikaistarkastuksen voi tehdä 75 §:ssä tarkoitettu valtuutettu laitos tai valtuutettu tarkastaja.",
+      "section_number": "50",
+      "chapter_number": 3,
+      "statute_id": "917/2014"
+    },
+    {
+      "id": "c5051e2a-6393-484e-8a42-3e1bf206f0bd",
+      "node_type": "Section",
+      "publisher": "finlex",
+      "title": "51 § Määräaikaistarkastuksen tarkastuspöytäkirja ja tarkastustarra",
+      "text": "Tarkastuksen tekijän on laadittava määräaikaistarkastuksesta laitteiston haltijan käyttöön tarkastuspöytäkirja ja kiinnitettävä pääkeskukseen tai vastaavaan kohtaan tarkastustarra. Laitteiston haltijan on säilytettävä tarkastuspöytäkirja sekä osoitus pöytäkirjassa esitettyjen puutteiden korjaamisesta vähintään seuraavaan määräaikaistarkastukseen saakka. Valtioneuvoston asetuksella säädetään tarkemmin tarkastuspöytäkirjan ja tarkastustarran sisällöstä.",
+      "section_number": "51",
+      "chapter_number": 3,
+      "statute_id": "917/2014"
+    },
+    {
+      "id": "3ac9ae79-9fbb-4cbe-b370-86869d1349b6",
+      "node_type": "Section",
+      "publisher": "finlex",
+      "title": "52 § Jakeluverkonhaltijan rekisteri",
+      "text": "Jakeluverkonhaltijan on pidettävä rekisteriä jakelualueensa liittymien sähkölaitteistoista. Rekisteriin on tallennettava tiedot, joiden perusteella voidaan sähköturvallisuuden valvontaa ja mahdollisten vahinkojen selvittämistä varten asianmukaisella tavalla selvittää laitteiston tyyppi, rakentaja sekä haltija tai omistaja.",
+      "section_number": "52",
+      "chapter_number": 3,
+      "statute_id": "917/2014"
+    },
+    {
+      "id": "e9730851-0ff5-4022-b33a-61b6da0701f7",
+      "node_type": "Section",
+      "publisher": "finlex",
+      "title": "53 § Sähkö- ja käyttötyön määrittely",
+      "text": "Sähkötyöllä tarkoitetaan sähkölaitteen korjaus- ja huoltotöitä sekä sähkölaitteiston rakennus-, korjaus- ja huoltotöitä. Sähkötyöksi ei katsota sähkölaitteen eikä -laitteiston purkutyötä, jos laite tai laitteisto on tehty luotettavasti ja asianmukaisesti jännitteettömäksi. Käyttötyöllä tarkoitetaan sähkölaitteiston käyttötoimenpiteitä ja sähkölaitteistoon kohdistuvia tarkastustoimenpiteitä.",
+      "section_number": "53",
+      "chapter_number": 4,
+      "statute_id": "917/2014"
+    },
+    {
+      "id": "75a4855f-7c08-416d-9163-af174b073051",
+      "node_type": "Section",
+      "publisher": "finlex",
+      "title": "54 § Perusvaatimus sähkötyölle ja käyttötyölle",
+      "text": "Sähkötöitä tai käyttötöitä tekevän henkilön tulee olla tehtävään ja sen sähköturvallisuutta koskeviin vaatimuksiin perehtynyt tai opastettu.",
+      "section_number": "54",
+      "chapter_number": 4,
+      "statute_id": "917/2014"
+    },
+    {
+      "id": "0e7fd15e-eb15-4632-b486-a3004ee059a3",
+      "node_type": "Section",
+      "publisher": "finlex",
+      "title": "55 § Sähkötöiden tekemisen edellytykset",
+      "text": "Toiminnanharjoittaja saa tehdä sähkötyötä seuraavilla edellytyksillä: Edellä 1 momentin 4 kohdassa tarkoitetussa ilmoituksessa on selvitettävä, että 1 momentissa ja 58 §:ssä asetetut vaatimukset täyttyvät. Ilmoituksesta on käytävä ilmi sähkötöiden johtajan suostumus tehtäväänsä. Ilmoituksessa on myös mainittava rekisteriin merkitsemistä varten 86 §:n 2 momentin 1–3 kohdassa tarkoitetut tiedot. Rekisteriin merkittyjen tietojen muutoksista on kuukauden kuluessa ilmoitettava kirjallisesti sähköturvallisuusviranomaiselle. Ilmoituksen voi tehdä myös sähköisesti.",
+      "section_number": "55",
+      "chapter_number": 4,
+      "statute_id": "917/2014"
+    },
+    {
+      "id": "33624339-476b-4554-bb77-c1aad5f344a4",
+      "node_type": "Section",
+      "publisher": "finlex",
+      "title": "56 § Sähkötöiden tekemisen edellytyksiä koskevat poikkeukset",
+      "text": "Edellä 55 §:ssä säädetyistä vaatimuksista voidaan poiketa: Edellä 55 §:ssä säädetyistä vaatimuksista voidaan lisäksi poiketa seuraavissa maallikkotöissä: Valtioneuvoston asetuksella säädetään tarkemmin 1 ja 2 momentissa tarkoitetuista sähkötöistä ja töiden kohteista.",
+      "section_number": "56",
+      "chapter_number": 4,
+      "statute_id": "917/2014"
+    },
+    {
+      "id": "cb166af7-225d-4696-b3aa-3cef6105a6bd",
+      "node_type": "Section",
+      "publisher": "finlex",
+      "title": "57 § Sähkötöiden johtajan nimeäminen",
+      "text": "Toiminnanharjoittajan on nimettävä sähkötöitä varten sähkötöiden johtaja ennen toiminnan aloittamista. Uusi sähkötöiden johtaja on nimettävä kolmen kuukauden kuluessa siitä, kun toiminnanharjoittajan nimeämä johtaja vaihtuu tai on estynyt hoitamasta tehtäväänsä muuten kuin lyhytaikaisen poissaolon vuoksi.",
+      "section_number": "57",
+      "chapter_number": 4,
+      "statute_id": "917/2014"
+    },
+    {
+      "id": "3c557e7d-af45-463f-803f-684b8e1374b6",
+      "node_type": "Section",
+      "publisher": "finlex",
+      "title": "58 § Toiminnanharjoittajaa ja sähkötöiden johtajaa koskevat vaatimukset",
+      "text": "Sähkötöiden johtajan tulee olla toiminnanharjoittaja tai tällaista toimintaa harjoittavan palveluksessa. Sama henkilö saa olla nimettynä enintään kolmen toiminnanharjoittajan sähkötöiden johtajaksi samanaikaisesti. Toiminnanharjoittajan on annettava sähkötöiden johtajalle riittävät mahdollisuudet johtaa ja valvoa sähkötöitä. Sähkötöiden johtajalla tulee olla tosiasiallinen mahdollisuus huolehtia tehtävästään. Sähkötöiden johtajan on tunnettava sähköturvallisuutta koskevat vaatimukset ja ylläpidettävä ammattitaitoaan.",
+      "section_number": "58",
+      "chapter_number": 4,
+      "statute_id": "917/2014"
+    },
+    {
+      "id": "bfb1de4c-6925-48d1-b83c-4dc757c200cc",
+      "node_type": "Section",
+      "publisher": "finlex",
+      "title": "59 § Sähkötöiden johtajan tehtävät",
+      "text": "Sähkötöiden johtaja vastaa siitä, että:",
+      "section_number": "59",
+      "chapter_number": 4,
+      "statute_id": "917/2014"
+    },
+    {
+      "id": "ce610d02-02e7-4ade-8b43-7889c13a6b7d",
+      "node_type": "Section",
+      "publisher": "finlex",
+      "title": "60 § Käytön johtajaa edellyttävät sähkölaitteistot",
+      "text": "Sähkölaitteiston haltijan on nimettävä käyttötöitä varten käytön johtaja, jos: Sähkölaitteiston haltijan on nimettävä käytön johtaja kolmen kuukauden kuluessa sähkölaitteiston käyttöönotosta. Sähkölaitteiston haltijan on tehtävä ilmoitus 1 momentissa tarkoitetusta sähkölaitteistosta ja sen käytön johtajasta sähköturvallisuusviranomaiselle kolmen kuukauden kuluessa sähkölaitteiston käyttöönotosta. Ilmoituksessa on selvitettävä, että 61 §:ssä säädetyt vaatimukset täyttyvät. Ilmoituksesta on käytävä ilmi käytön johtajan suostumus tehtäväänsä. Ilmoitus on tehtävä myös sähkölaitteistoa ja käytön johtajaa koskevista oleellisista muutoksista kuukauden kuluessa muutoksesta. Sähkölaitteiston haltijan on nimettävä uusi käytön johtaja kolmen kuukauden kuluessa siitä, kun käytön johtaja vaihtuu tai on estynyt hoitamasta tehtäväänsä muuten kuin lyhytaikaisen poissaolon vuoksi.",
+      "section_number": "60",
+      "chapter_number": 4,
+      "statute_id": "917/2014"
+    },
+    {
+      "id": "e45dc235-67e5-45c1-80d2-42f1f375840c",
+      "node_type": "Section",
+      "publisher": "finlex",
+      "title": "61 § Sähkölaitteiston haltijaa ja käytön johtajaa koskevat vaatimukset",
+      "text": "Käytön johtajan tulee olla sähkölaitteiston haltija tai tämän palveluksessa. Käytön johtajana voi toimia myös sellaisen yhteisön palveluksessa oleva henkilö, jolla on sähkölaitteiston haltijan kanssa sähkölaitteistoa koskeva kunnossapitosopimus. Lisäksi henkilö, joka ei ole sähkölaitteiston haltijan palveluksessa, voi olla käytön johtajana, kun sähkölaitteistoon kuuluu enintään kolme nimellisjännitteeltään enintään 20 kilovoltin muuntamoa tai muuntamoon rinnastettavaa erillistä yli 1 000 voltin nimellisjännitteistä kytkinlaitosta. Sähköverkonhaltijan käytön johtajan palvelussuhteeseen sovelletaan, mitä sähkömarkkinalaissa säädetään. Sähkölaitteiston haltijan on annettava käytön johtajalle riittävät mahdollisuudet johtaa ja valvoa käyttötöitä. Sähkölaitteiston haltijan on lisäksi annettava käytön johtajalle tarvittavat tiedot sähkölaitteiston rakennus- ja korjaustöistä sekä niihin liittyvistä tarkastuksista. Käytön johtajan on tunnettava sähköturvallisuutta koskevat vaatimukset ja ylläpidettävä ammattitaitoaan.",
+      "section_number": "61",
+      "chapter_number": 4,
+      "statute_id": "917/2014"
+    },
+    {
+      "id": "778893d2-8a9c-47c6-8074-ec86caae81ec",
+      "node_type": "Section",
+      "publisher": "finlex",
+      "title": "62 § Käytön johtajan tehtävät",
+      "text": "Käytön johtaja vastaa siitä, että:",
+      "section_number": "62",
+      "chapter_number": 4,
+      "statute_id": "917/2014"
+    },
+    {
+      "id": "d6ec9282-3e3a-4527-b60f-537bb43b8fc7",
+      "node_type": "Section",
+      "publisher": "finlex",
+      "title": "63 § Käytön johtajan johdolla tehtävät yksinkertaiset korjaus- ja huoltotyöt",
+      "text": "Sen estämättä, mitä 55 §:ssä säädetään, käytön johtajan johdolla voidaan tehdä yksinkertaisia käyttötoimenpiteisiin rinnastettavia korjaus- ja huoltotöitä.",
+      "section_number": "63",
+      "chapter_number": 4,
+      "statute_id": "917/2014"
+    },
+    {
+      "id": "5a411dcf-7801-4718-ae56-dbc84a002306",
+      "node_type": "Section",
+      "publisher": "finlex",
+      "title": "64 § Maallikoille ja opastetuille henkilöille sallitut käyttötyöt",
+      "text": "Sähköalalla ammattitaidoton saa tehdä käyttötöitä laitteistossa, jonka jännitteiset osat on suojattu koskettamiselta. Tehtävä- ja laitteistokohtaisen perehdytyksen saanut henkilö saa myös tehdä käyttötöitä laitteistossa, jossa jännitteiset osat on suojattu tahattomalta koskettamiselta ja riskit ovat hallittuja.",
+      "section_number": "64",
+      "chapter_number": 4,
+      "statute_id": "917/2014"
+    },
+    {
+      "id": "c73f7d7c-fbbb-4d7f-a7fa-168fa08319d6",
+      "node_type": "Section",
+      "publisher": "finlex",
+      "title": "65 § Pätevyydenarviointilaitos ja pätevyystodistukset",
+      "text": "Sähkötöiden johtajalla ja käytön johtajalla on oltava kyseisiin töihin oikeuttava pätevyystodistus. Siitä, minkälaista pätevyyttä eri tehtävät edellyttävät, säädetään 66–71 §:ssä. Sähkötöiden johtajan ja käytön johtajan pätevyyden arvioi ja pätevyystodistuksen antaa pätevyydenarviointilaitos. Pätevyydenarviointilaitoksen on annettava pätevyystodistus henkilölle, joka täyttää tässä laissa sähköpätevyydelle säädetyt vaatimukset. Pätevyydenarviointilaitos antaa myös 56 §:n 1 momentin 5 kohdassa tarkoitetun todistuksen. Sähköturvallisuusviranomainen vahvistaa 1–3 momentissa tarkoitetun pätevyystodistuksen sisällön ja muodon. Pätevyydenarviointilaitoksen on pyynnöstä annettava todistus Suomessa harjoitetusta sähköalan ammattitoiminnasta.",
+      "section_number": "65",
+      "chapter_number": 4,
+      "statute_id": "917/2014"
+    },
+    {
+      "id": "7de83453-c066-460b-89d5-e70e408312e0",
+      "node_type": "Section",
+      "publisher": "finlex",
+      "title": "66 § Sähköpätevyys 1",
+      "text": "Sähköpätevyys 1 oikeuttaa toimimaan sähkötöiden johtajana ja käytön johtajana kaikissa sähkö- ja käyttötöissä. Sähköpätevyyteen 1 vaaditaan hyväksytysti suoritettu soveltuva sähköturvallisuustutkinto sekä:",
+      "section_number": "66",
+      "chapter_number": 4,
+      "statute_id": "917/2014"
+    },
+    {
+      "id": "449068dd-4e6e-4459-8f7a-36e7406f2613",
+      "node_type": "Section",
+      "publisher": "finlex",
+      "title": "67 § Rajoitettu sähköpätevyys 1",
+      "text": "Rajoitettu sähköpätevyys 1 oikeuttaa toimimaan enintään 1 000 voltin vaihtojännitteisten ja enintään 1 500 voltin tasajännitteisten sähkölaitteiden ja -laitteistojen sähkötöiden johtajana sekä enintään 20 kilovoltin nimellisjännitteisten sähkölaitteistojen käytön johtajana. Rajoitettuun sähköpätevyyteen 1 vaaditaan hyväksytysti suoritettu soveltuva sähköturvallisuustutkinto sekä:",
+      "section_number": "67",
+      "chapter_number": 4,
+      "statute_id": "917/2014"
+    },
+    {
+      "id": "69ba143a-daa3-4044-b7a7-6cb4e5431e90",
+      "node_type": "Section",
+      "publisher": "finlex",
+      "title": "68 § Sähköpätevyys 2",
+      "text": "Sähköpätevyys 2 oikeuttaa toimimaan enintään 1 000 voltin vaihtojännitteisten ja 1 500 voltin tasajännitteisten sähkölaitteiden ja -laitteistojen sähkötöiden johtajana sekä käytön johtajana. Sähköpätevyyteen 2 vaaditaan hyväksytysti suoritettu soveltuva sähköturvallisuustutkinto sekä: Edellä 2 momentissa tarkoitetun työkokemuksen tulee olla riittävän laaja-alaista sähkölaitteistojen rakentamiseen perehdyttävää työtä.",
+      "section_number": "68",
+      "chapter_number": 4,
+      "statute_id": "917/2014"
+    },
+    {
+      "id": "5b5e799b-6c35-4ad0-8980-62aea798eb67",
+      "node_type": "Section",
+      "publisher": "finlex",
+      "title": "69 § Sähköpätevyys 3",
+      "text": "Sähköpätevyys 3 oikeuttaa toimimaan sähkötöiden johtajana enintään 1 000 voltin vaihtojännitteiseen tai enintään 1 500 voltin tasajännitteiseen verkkoon liitettäväksi tarkoitettujen sähkölaitteiden korjaustöissä. Korjaustöihin rinnastetaan sähkölaitteiston yksittäisen komponentin vaihtaminen sekä korjattavan tai uutena verkkoon liitettävän sähkölaitteen tai -laitekokonaisuuden yksittäisen syöttöjohdon asentaminen asennusrasialta tai kiinteistön jakokeskukselta muuttamatta keskuksen rakennetta. Sähköpätevyys 3 ei kuitenkaan oikeuta muilta osin kiinteistön sähkölaitteiston rakentamiseen. Sähköpätevyyteen 3 vaaditaan hyväksytysti suoritettu soveltuva sähköturvallisuustutkinto sekä 73 §:ssä tarkoitettu riittävä ammattitaito sähkö- ja käyttötöihin.",
+      "section_number": "69",
+      "chapter_number": 4,
+      "statute_id": "917/2014"
+    },
+    {
+      "id": "91c6418e-bbc9-4d69-a1ff-1817c060d002",
+      "node_type": "Section",
+      "publisher": "finlex",
+      "title": "70 § Sähköpätevyyksien täydentävät vaatimukset",
+      "text": "Pätevyydenarviointilaitos voi hakemuksesta myöntää hakijan koulutusta vastaavalle sähköalan tehtäväalueelle rajoitetun 69 §:ssä tarkoitettua pätevyyttä osoittavan todistuksen sille, joka on suorittanut tehtäväalueen ammatillisen perustutkinnon, ammattitutkinnon, erikoisammattitutkinnon tai vastaavan aikaisemman koulutuksen tai tutkinnon ja hankkinut vähintään yhden vuoden pituisen työkokemuksen tehtäväalueen sähkötöistä, tai jolla on kahden vuoden työkokemus kyseisestä sähkötyöstä ja riittävät alan perustiedot. Jos henkilöltä 69  §:ssä edellytetty työkokemus ei ole riittävän laaja-alaista, pätevyydenarviointilaitos voi myöntää pätevyystodistuksen rajattuna työkokemusta vastaavalle tehtäväalueelle. Valtioneuvoston asetuksella säädetään tarkemmin ennen pätevyysvaatimuksena edellytettyä koulutusta saadun työkokemuksen huomioon ottamisesta.",
+      "section_number": "70",
+      "chapter_number": 4,
+      "statute_id": "917/2014"
+    },
+    {
+      "id": "3d0323f9-8308-4d66-931e-a3ac437c5e9c",
+      "node_type": "Section",
+      "publisher": "finlex",
+      "title": "71 § Ulkomailla hankittu koulutus ja työkokemus",
+      "text": "Pätevyydenarviointilaitoksen tulee pätevyystodistusta myöntäessään ottaa huomioon ulkomailla saatu koulutus ja ulkomailla hankittu sähköalan työkokemus. Päätöksenteon tueksi tarvittavan lausunnon pyytämisestä yliopistolta, korkeakoululta tai muulta oppilaitokselta säädetään ammattipätevyyden tunnustamisesta annetun lain (1384/2015) 4 §:n 2 momentissa. Pätevyydenarviointilaitos voi arvioida henkilön kelpoisuuden myös ulkomaisen pätevyystodistuksen tai vastaavan asiakirjan avulla. Pätevyydenarviointilaitoksen tulee pätevyystodistuksia myöntäessään noudattaa ammattipätevyyden tunnustamisesta annetussa laissa säädettyjä vaatimuksia. Milloin pätevyystodistusta haetaan ammattikokemuksen perusteella, pätevyydenarviointilaitos myöntää pätevyystodistuksen sähkötöissä hankitun työkokemuksen mukaisessa laajuudessa.",
+      "section_number": "71",
+      "chapter_number": 4,
+      "statute_id": "917/2014"
+    },
+    {
+      "id": "b196efa0-a3ab-4f4a-93f5-5f79177afcb3",
+      "node_type": "Section",
+      "publisher": "finlex",
+      "title": "72 § Sähköturvallisuustutkinnot",
+      "text": "Edellä 66–69 §:ssä tarkoitetulla sähköturvallisuustutkinnolla tarkoitetaan tutkintoa, jolla osoitetaan sähkötöiden turvallisuuteen liittyvien säännösten, standardien ja ohjeiden tuntemusta. Sähköturvallisuusviranomainen vahvistaa tutkintovaatimukset sekä tutkintotodistuksen sisällön ja muodon. Lisäksi sähköturvallisuusviranomainen huolehtii tutkintojen järjestämisestä sekä valvoo tutkintojen tasoa ja arvostelua. Sähköturvallisuustutkinnosta annettu todistus on voimassa viisi vuotta.",
+      "section_number": "72",
+      "chapter_number": 4,
+      "statute_id": "917/2014"
+    },
+    {
+      "id": "cb6aa4db-bf04-472d-b502-ba2de8d6c879",
+      "node_type": "Section",
+      "publisher": "finlex",
+      "title": "73 § Sähköalan ammattihenkilö",
+      "text": "Riittävän ammattitaitoiseksi valvomaan ja itsenäisesti tekemään koulutustaan ja työkokemustaan vastaavan alan sähkö- ja käyttötyötä katsotaan se, joka on mainittuihin töihin opastettu ja joka on: Edellä 1 momentissa tarkoitetun työkokemuksen tulee olla kyseisiin sähkö- ja käyttötöihin perehdyttävää. Sen, joka antaa 1 momentissa tarkoitetun opastuksen, tulee täyttää 1 ja 2 momentissa mainitut pätevyysvaatimukset. Jos kyse on samankaltaisiin sähkölaitteisiin tai sähkölaitteeseen rinnastettaviin sähkölaitteistoihin kohdistuvasta sähkö- ja käyttötyöstä, riittävän ammattitaitoiseksi tekemään itsenäisesti kyseisiä töitä katsotaan 1 momentissa säädetyn estämättä myös se, jolla on kahden vuoden työkokemus kyseisestä sähkötyöstä ja riittävät alan perustiedot tai soveltuva sähköalan koulutus ja vuoden työkokemus kyseisestä sähkötyöstä.",
+      "section_number": "73",
+      "chapter_number": 4,
+      "statute_id": "917/2014"
+    },
+    {
+      "id": "33640d61-16a0-4086-a601-36312706d019",
+      "node_type": "Section",
+      "publisher": "finlex",
+      "title": "74 § Tarkemmat säännökset ammattitutkintojen oppisisällöstä ja työkokemuksesta",
+      "text": "Valtioneuvoston asetuksella säädetään tarkemmin 66–70 ja 73 §:ssä tarkoitetun soveltuvan ammatillisen tutkinnon tai sitä täydentävän koulutuksen tarkemmasta oppisisällöstä. Valtioneuvoston asetuksella säädetään tarkemmin 66–68 §:ssä edellytetyn työkokemuksen tarkemmasta määrittelystä.",
+      "section_number": "74",
+      "chapter_number": 4,
+      "statute_id": "917/2014"
+    },
+    {
+      "id": "613d91f8-5f72-48e2-b807-b6b2f4c74344",
+      "node_type": "Section",
+      "publisher": "finlex",
+      "title": "75 § Valtuutettu tarkastaja ja valtuutettu laitos",
+      "text": "Valtuutettu tarkastaja tai valtuutettu laitos voi tehdä sähkölaitteistojen varmennus- ja määräaikaistarkastuksia siten kuin tässä laissa säädetään.",
+      "section_number": "75",
+      "chapter_number": 4,
+      "statute_id": "917/2014"
+    },
+    {
+      "id": "32b7997a-8fb8-47d3-b348-f8673b64d493",
+      "node_type": "Section",
+      "publisher": "finlex",
+      "title": "76 § Pätevyydenarviointilaitoksen, valtuutetun laitoksen ja valtuutetun tarkastajan hyväksyminen ja rekisteri-ilmoitus",
+      "text": "Sähköturvallisuusviranomainen hyväksyy hakemuksesta pätevyydenarviointilaitoksen, valtuutetun laitoksen ja valtuutetun tarkastajan varmistuttuaan, että hyväksymisen edellytykset täyttyvät. Hyväksymispäätöksessä määritellään laitoksen ja valtuutetun tarkastajan pätevyysalue, tehtävät, toimiala ja vahvistetaan laitoksen ja valtuutetun tarkastajan valvontaan liittyvät järjestelyt sekä asetetaan tarvittaessa muitakin laitoksen ja valtuutetun tarkastajan toimintaa koskevia vaatimuksia, rajoituksia ja ehtoja, joilla varmistetaan tehtävien asianmukainen suorittaminen. Päätös voidaan antaa määräajaksi tai toistaiseksi voimassa olevana. Valtuutetun tarkastajan hyväksyminen on voimassa viisi vuotta kerrallaan. Pätevyydenarviointilaitoksen, valtuutetun laitoksen ja valtuutetun tarkastajan on tehtävä sähköturvallisuusviranomaiselle ilmoitus 86 §:ssä tarkoitettuun rekisteriin merkitsemistä varten. Pätevyydenarviointilaitoksen ja valtuutetun laitoksen on ilmoituksessa mainittava 86 §:n 4 momentissa tarkoitetut tiedot ja valtuutetun tarkastajan on ilmoituksessa mainittava 86 §:n 3 momentissa tarkoitetut tiedot. Pätevyydenarviointilaitoksen, valtuutetun laitoksen ja valtuutetun tarkastajan on tehtävä sähköturvallisuusviranomaiselle ilmoitus edellä mainittujen tietojen oleellisista muutoksista kuukauden kuluessa muutoksesta. Valtioneuvoston asetuksella voidaan antaa tarkempia säännöksiä pätevyydenarviointilaitoksen, valtuutetun laitoksen ja valtuutetun tarkastajan hyväksymistä koskevan hakemuksen ja rekisteri-ilmoituksen sisällöstä.",
+      "section_number": "76",
+      "chapter_number": 4,
+      "statute_id": "917/2014"
+    },
+    {
+      "id": "2b7f6729-4937-445e-910e-411c5be85893",
+      "node_type": "Section",
+      "publisher": "finlex",
+      "title": "77 § Pätevyydenarviointilaitoksen ja valtuutetun laitoksen hyväksymisen edellytykset",
+      "text": "Pätevyydenarviointilaitoksen ja valtuutetun laitoksen hyväksymisen edellytyksenä on, että: Pätevyydenarviointilaitokseksi ja valtuutetuksi laitokseksi hyväksymistä hakevan on osoitettava Turvallisuus- ja kemikaaliviraston akkreditointiyksikön (FINAS-akkreditointipalvelu) tai muun akkreditointielinten tarkastuslaitoksia koskevaan vastavuoroiseen tunnustamissopimukseen kuuluvan akkreditointielimen arvioinnilla täyttävänsä 1 momentissa säädetyt edellytykset. Pätevyydenarviointilaitos ja valtuutettu laitos voi käyttää ulkopuolisia testaus-, tarkastus- ja muita palveluja. Tällöin laitoksen on huolehdittava, että kyseisen palvelun suorittaja täyttää vastaavasti 1 momentissa säädetyt edellytykset. Laitos vastaa alihankkijalla teettämästään työstä. Laitoksen on pidettävä sähköturvallisuusviranomaisen saatavilla asiakirjat, jotka koskevat alihankkijan pätevyyden arviointia. Laitoksen on viipymättä tehtävä ilmoitus käyttämästään alihankkijasta sähköturvallisuusviranomaiselle rekisteriin merkitsemistä varten. Rekisteri-ilmoituksessa on mainittava 86 §:n 4 momentin 5 kohdassa tarkoitetut tiedot.",
+      "section_number": "77",
+      "chapter_number": 4,
+      "statute_id": "917/2014"
+    },
+    {
+      "id": "3678db86-472a-4e67-a887-3537f2162910",
+      "node_type": "Section",
+      "publisher": "finlex",
+      "title": "78 § Valtuutetun tarkastajan hyväksymisen edellytykset",
+      "text": "Valtuutetun tarkastajan hyväksymisen edellytyksenä on, että:",
+      "section_number": "78",
+      "chapter_number": 4,
+      "statute_id": "917/2014"
+    },
+    {
+      "id": "ffe3a1fd-5045-454a-9a80-8519507460f1",
+      "node_type": "Section",
+      "publisher": "finlex",
+      "title": "79 § Laitoksen ja valtuutetun tarkastajan velvollisuudet",
+      "text": "Pätevyydenarviointilaitoksen, valtuutetun laitoksen ja valtuutetun tarkastajan tulee seurata toimialansa säännösten ja standardien kehittymistä sekä toimia yhteistyössä toimialansa muiden laitosten ja valtuutettujen tarkastajien kanssa siten kuin toimintatapojen yhdenmukaisuuden varmistamiseksi on tarpeen. Pätevyydenarviointilaitoksen, valtuutetun laitoksen ja valtuutetun tarkastajan on annettava sähköturvallisuusviranomaiselle vuosittain kertomus toiminnastaan. Pätevyydenarviointilaitoksen, valtuutetun laitoksen ja valtuutetun tarkastajan on ilmoitettava sähköturvallisuusviranomaiselle kaikista muutoksista, joilla on vaikutusta hyväksymisen edellytysten täyttymiseen.",
+      "section_number": "79",
+      "chapter_number": 4,
+      "statute_id": "917/2014"
+    },
+    {
+      "id": "2ec7b12e-b4c0-4b23-b2d0-5eb395a96be6",
+      "node_type": "Section",
+      "publisher": "finlex",
+      "title": "80 § Virkavastuu ja hyvän hallinnon periaatteet",
+      "text": "Pätevyydenarviointilaitoksen ja valtuutetun laitoksen henkilökunta sekä valtuutettu tarkastaja toimivat tässä laissa tarkoitettuja julkisia hallintotehtäviä hoitaessaan rikosoikeudellisella virkavastuulla. Pätevyydenarviointilaitoksen, valtuutetun laitoksen ja valtuutetun tarkastajan on tässä laissa tarkoitettuja julkisia hallintotehtäviä hoitaessaan noudatettava, mitä viranomaisten toiminnan julkisuudesta annetussa laissa (621/1999), hallintolaissa (434/2003), sähköisestä asioinnista viranomaistoiminnassa annetussa laissa (13/2003) ja kielilaissa (423/2003) säädetään. Vahingonkorvausvastuusta säädetään vahingonkorvauslaissa (412/1974).",
+      "section_number": "80",
+      "chapter_number": 4,
+      "statute_id": "917/2014"
+    },
+    {
+      "id": "791b43fa-5344-492a-8b95-2b3a49266907",
+      "node_type": "Section",
+      "publisher": "finlex",
+      "title": "81 § Laitoksen ja valtuutetun tarkastajan hyväksymisen peruuttaminen",
+      "text": "Jos valtuutettu laitos, valtuutettu tarkastaja tai pätevyydenarviointilaitos taikka laitoksen 77 §:n 3 momentissa tarkoitettu alihankkija toimii säännösten tai määräysten vastaisesti taikka ei täytä säädettyjä vaatimuksia tai noudata päätöksessä asetettuja ehtoja ja rajoituksia, sähköturvallisuusviranomaisen on asetettava laitokselle tai valtuutetulle tarkastajalle riittävä määräaika asian korjaamiseksi. Sähköturvallisuusviranomaisen on peruutettava antamansa hyväksyminen, jos laitos tai valtuutettu tarkastaja ei ole korjannut olennaisia tai vakavia puutteita, rikkomuksia tai laiminlyöntejä annetussa määräajassa.",
+      "section_number": "81",
+      "chapter_number": 4,
+      "statute_id": "917/2014"
+    },
+    {
+      "id": "d78827d2-a1d1-4c88-af36-582bb33c6c39",
+      "node_type": "Section",
+      "publisher": "finlex",
+      "title": "82 § Sähkötyöturvallisuuden vaatimukset",
+      "text": "Sähkötyössä, käyttötyössä ja sähkölaitteiston lähellä tehtävässä työssä, jossa voi aiheutua sähköiskun tai valokaaren vaara, noudatetaan työturvallisuuslakia. Lisäksi työssä on noudatettava tämän lain olennaisia turvallisuusvaatimuksia, jotka koskevat työkohteen turvallisuudesta huolehtivan henkilön nimeämistä, ohjeita ja opastusta, työssä käytettäviä välineitä, työmenettelyjä, varoitusmerkintöjen käyttöä sekä työntekijöiden ja sivullisten vaaralliselle alueelle joutumisen estämistä. Edellä 1 momentissa tarkoitettuja olennaisia turvallisuusvaatimuksia noudatetaan 56 §:n 2 momentissa tarkoitetussa maallikkotyössä soveltuvin osin siten, että voidaan riittävästi varmistua sähkötyöturvallisuudesta. Valtioneuvoston asetuksella säädetään tarkemmin 1 momentissa tarkoitetuista olennaisista turvallisuusvaatimuksista.",
+      "section_number": "82",
+      "chapter_number": 4,
+      "statute_id": "917/2014"
+    },
+    {
+      "id": "fc075eb1-b0fc-4bb4-82ee-14fea40e9afa",
+      "node_type": "Section",
+      "publisher": "finlex",
+      "title": "83 § Turvallisuusvaatimusten täyttäminen",
+      "text": "Työn katsotaan täyttävän 82 §:ssä tarkoitetut olennaiset turvallisuusvaatimukset, jos se tehdään soveltaen 84 §:ssä tarkoitettuja standardeja tai julkaisuja. Turvallisuusvaatimusten täyttyminen on tarvittaessa 1 momentista poiketen mahdollista osoittaa noudattaen, mitä 85 §:ssä säädetään.",
+      "section_number": "83",
+      "chapter_number": 4,
+      "statute_id": "917/2014"
+    },
+    {
+      "id": "408dd566-d655-4868-a5b4-5d4bd29d3a6f",
+      "node_type": "Section",
+      "publisher": "finlex",
+      "title": "84 § Sovellettavat standardit ja julkaisut",
+      "text": "Sähköturvallisuusviranomainen julkaisee luettelon niistä standardeista, joita noudattaen katsotaan sähkötyöturvallisuuden täyttävän tämän lain olennaiset turvallisuusvaatimukset. Jos standardeja ei tiettyjen työmenetelmien tai sähkölaitteistojen osalta ole laadittu, voidaan soveltaa standardeihin verrattavia julkaisuja, joiden vastaavuus olennaisiin turvallisuusvaatimuksiin on vahvistettu 1 momentin mukaisesti.",
+      "section_number": "84",
+      "chapter_number": 4,
+      "statute_id": "917/2014"
+    },
+    {
+      "id": "2c8e209c-4a82-4f86-9a53-916d2668c549",
+      "node_type": "Section",
+      "publisher": "finlex",
+      "title": "85 § Standardeista poikkeaminen",
+      "text": "Standardeista voidaan tarvittaessa poiketa, jos vastaava turvallisuustaso voidaan muutoin saavuttaa. Poikkeamisesta on laadittava kirjallinen selvitys ennen sähkötyön tai käyttötyön aloittamista. Selvityksen tulee olla siten laadittu, että sen perusteella voidaan todeta vaatimusten täyttyminen. Poikkeamisen käyttöönottoon on oltava sähkötöiden johtajan tai käytön johtajan kirjallinen vahvistus. Valtioneuvoston asetuksella säädetään tarkemmin standardista poikkeamismenettelyn yksityiskohdista.",
+      "section_number": "85",
+      "chapter_number": 4,
+      "statute_id": "917/2014"
+    },
+    {
+      "id": "43719ab5-5e45-4166-816a-8ee6aad1c368",
+      "node_type": "Section",
+      "publisher": "finlex",
+      "title": "86 § Sähköturvallisuusviranomaisen rekisteri ja julkinen tietopalvelu",
+      "text": "Sähköturvallisuusviranomainen pitää toiminnanharjoittajista, valtuutetuista tarkastajista, valtuutetuista laitoksista ja pätevyydenarviointilaitoksista rekisteriä näiden toiminnan valvontaa varten sekä sen varmistamiseksi, että sähkötyöpalveluja tarvitsevat voivat varmistua toiminnan asianmukaisuudesta. Rekisteriin merkityt tiedot on poistettava viipymättä, kun ne eivät ole enää tarpeen toiminnan valvontaa varten. Rekisteriin merkitään toiminnanharjoittajista: Rekisteriin merkitään valtuutetusta tarkastajasta: Rekisteriin merkitään valtuutetuista laitoksista ja pätevyydenarviointilaitoksista: Sen estämättä, mitä viranomaisten toiminnan julkisuudesta annetun lain 16 §:n 3 momentissa säädetään, sähköturvallisuusviranomainen voi sähköisen tietoverkon kautta julkaista tiedon 55 §:n mukaisen ilmoituksen tehneen toiminnanharjoittajan nimestä, toiminimestä, toimipaikan osoitteesta, yritys- ja yhteisötunnuksesta, rekisteröintitunnuksesta ja sähkötöiden johtajan nimestä sekä valtuutetun tarkastajan nimestä, toiminimestä, valtuutetun laitoksen ja pätevyydenarviointilaitoksen toiminimestä, toimipaikan osoitteesta, yritys- ja yhteisötunnuksesta, rekisteröintitunnuksesta ja valtuutuksen laajuudesta (julkinen tietopalvelu). Julkisesta tietopalvelusta tietoja voi hakea ainoastaan yksittäisinä hakuina käyttäen hakuperusteena rekisteröidyn toiminnanharjoittajan nimeä tai toiminnanharjoittajan toimintaoikeutta tai sähkötöiden johtajan nimeä tai kuntaa. Sähköturvallisuusviranomaisen tulee poistaa toiminnanharjoittajaa\nja sähkötöiden johtajaa koskevat tiedot välittömästi julkisesta tietopalvelusta, jos toiminnanharjoittaja tai sähkötöiden johtaja on lopettanut toimintansa tai jos sähköturvallisuusviranomainen on kieltänyt toiminnanharjoittajan tai sähkötöiden johtajan toiminnan. Sähköturvallisuusviranomaisen tulee poistaa valtuutettua tarkastajaa, valtuutettua laitosta ja pätevyydenarviointilaitosta koskevat tiedot välittömästi julkisesta tietopalvelusta, kun hyväksyminen on peruutettu tai toiminta on lopetettu.",
+      "section_number": "86",
+      "chapter_number": 4,
+      "statute_id": "917/2014"
+    },
+    {
+      "id": "e02f0a1c-b6b3-4452-bbc6-40b415afa66e",
+      "node_type": "Section",
+      "publisher": "finlex",
+      "title": "87 § Valvonnan ohjaus",
+      "text": "Tämän lain säännösten noudattamista koskevan valvonnan ohjaus kuuluu työ- ja elinkeinoministeriölle.",
+      "section_number": "87",
+      "chapter_number": 5,
+      "statute_id": "917/2014"
+    },
+    {
+      "id": "de89e9e2-7aed-409a-a5ce-2325b1d02b75",
+      "node_type": "Section",
+      "publisher": "finlex",
+      "title": "88 § Valvontaviranomainen",
+      "text": "Tämän lain noudattamista valvoo sähköturvallisuusviranomainen. Sähköturvallisuusviranomaisena toimii Turvallisuus- ja kemikaalivirasto.",
+      "section_number": "88",
+      "chapter_number": 5,
+      "statute_id": "917/2014"
+    },
+    {
+      "id": "7c28fe80-9497-4a76-a9b7-a0b63e705c16",
+      "node_type": "Section",
+      "publisher": "finlex",
+      "title": "89 § Sähköturvallisuusviranomaisen oikeus saada tietoja",
+      "text": "Sähköturvallisuusviranomaisella on oikeus saada valvontaa varten välttämättömät tiedot talouden toimijalta, toiminnanharjoittajalta, sähkötöiden johtajalta, sähkölaitteiston haltijalta ja käytön johtajalta. Tiedonsaantioikeus koskee myös sellaisia valvonnan kannalta välttämättömiä tietoja, jotka yksityistä liike- tai ammattitoimintaa, yksityisen taloudellista asemaa tai terveydentilaa koskevina taikka muutoin ovat viranomaisen hallussa ollessaan salassa pidettäviä viranomaisten toiminnan julkisuudesta annetun lain nojalla. Sähköturvallisuusviranomaisella on oikeus saada salassapitosäännösten estämättä valvontaa varten välttämättömät tiedot myös valtuutetulta laitokselta, valtuutetulta tarkastajalta ja pätevyydenarviointilaitokselta.",
+      "section_number": "89",
+      "chapter_number": 5,
+      "statute_id": "917/2014"
+    },
+    {
+      "id": "4e0bdb5d-41c6-49dc-97ab-930a5057671b",
+      "node_type": "Section",
+      "publisher": "finlex",
+      "title": "90 § Tiedonsaanti viranomaiselta ja salassa pidettävien tietojen luovuttaminen",
+      "text": "Sähköturvallisuusviranomaisella on oikeus salassapitovelvollisuuden ja muiden tiedonsaantia koskevien rajoitusten estämättä saada valvonnan tai sähkötapaturmien syiden selvittämisen kannalta välttämättömiä tietoja toiselta viranomaiselta. Sähköturvallisuusviranomainen saa salassapitosäännösten estämättä luovuttaa valvonnassa saamiaan tietoja yksityisen tai yhteisön taloudellisesta asemasta, liike- tai ammattisalaisuudesta taikka yksityisen henkilökohtaisista oloista:",
+      "section_number": "90",
+      "chapter_number": 5,
+      "statute_id": "917/2014"
+    },
+    {
+      "id": "feb6fd0d-4e10-462a-970d-3ede64f709c1",
+      "node_type": "Section",
+      "publisher": "finlex",
+      "title": "91 § Oikeus tehdä tarkastuksia",
+      "text": "Sähköturvallisuusviranomaisella on oikeus tämän lain noudattamisen valvontaa varten tehdä tarkastuksia sekä päästä sähkölaitteen tai -laitteiston valmistus-, rakennus-, korjaus-, huolto-, varastointi- ja myyntipaikalle sekä sähkölaitteen tai -laitteiston käyttöpaikalle. Tarkastuksissa noudatetaan, mitä hallintolain 39 §:ssä säädetään. Pysyväisluonteiseen asumiseen käytettyihin tiloihin voidaan ulottaa 1 momentissa säädetty tarkastus vain, jos on todennäköisiä syitä epäillä, että tiloissa oleva sähkölaite tai -laitteisto aiheuttaa vakavaa häiriötä radioviestinnälle, sähkönjakelu- tai viestintäverkoille taikka niihin kytketylle sähkölaitteelle tai -laitteistolle, ja on syytä epäillä 117 §:n 1 momentin 1–3, 8, 18, 21 tai 22 kohdassa tarkoitettua sähköturvallisuutta koskevien säännösten rikkomista, ja tarkastus on välttämätön ihmisten elämän, turvallisuuden tai elinkeinon suojaamiseksi.",
+      "section_number": "91",
+      "chapter_number": 5,
+      "statute_id": "917/2014"
+    },
+    {
+      "id": "33e47e4e-985a-4028-9a7c-3a77e0ac70f4",
+      "node_type": "Section",
+      "publisher": "finlex",
+      "title": "92 § Vaatimusten vastaisen sähkölaitteiston tarkastaminen",
+      "text": "Jos sähköturvallisuusviranomaisella on perusteltua syytä epäillä, että sähkölaitteisto ei täytä 31 tai 40 §:n vaatimuksia, sillä on oikeus teettää sähkölaitteiston tarkastus tai määrätä sähkölaitteiston haltija tarkastuttamaan sähkölaitteisto. Jos sähköturvallisuusviranomainen teettää sähkölaitteiston tarkastuksen tai muun vastaavan tutkimuksen ja sähkölaitteisto osoittautuu 31 tai 40 §:ssä säädettyjen vaatimusten vastaiseksi, sähköturvallisuusviranomainen voi velvoittaa sähkölaitteiston haltijan korvaamaan tarkastuksesta tai tutkimuksesta aiheutuneet kustannukset. Jos tarkastuksessa tai tutkimuksessa havaitaan, että vaatimustenvastaisuus on aiheutunut sähkölaitteiston rakentajan toimenpiteistä, sähköturvallisuusviranomainen voi velvoittaa rakentajan korvaamaan tarkastuksesta tai tutkimuksesta aiheutuneet kustannukset.",
+      "section_number": "92",
+      "chapter_number": 5,
+      "statute_id": "917/2014"
+    },
+    {
+      "id": "f86ef85e-9f5a-46e6-9884-6c2d75ffe8f0",
+      "node_type": "Section",
+      "publisher": "finlex",
+      "title": "93 § Ulkopuolisen asiantuntijan käyttö",
+      "text": "Sähköturvallisuusviranomaisella on oikeus käyttää ulkopuolisia asiantuntijoita vaatimustenmukaisuuden tutkinnassa, testaamisessa ja arvioimisessa. Ulkopuoliset asiantuntijat voivat sähköturvallisuusviranomaisen apuna osallistua tämän lain mukaisiin tarkastuksiin sekä tutkia ja testata sähkölaitteita ja -laitteistoja. Ulkopuolisella asiantuntijalla tulee olla tehtävien edellyttämä asiantuntemus ja pätevyys. Ulkopuoliseen asiantuntijaan sovelletaan rikosoikeudellista virkavastuuta koskevia säännöksiä, kun hän hoitaa tässä pykälässä tarkoitettuja tehtäviä. Vahingonkorvausvastuusta säädetään vahingonkorvauslaissa. Ulkopuolisella asiantuntijalla ei ole 91 §:n 2 momentissa säädettyä oikeutta ulottaa valvontatoimia pysyväisluonteiseen asumiseen käytettyihin tiloihin.",
+      "section_number": "93",
+      "chapter_number": 5,
+      "statute_id": "917/2014"
+    },
+    {
+      "id": "85fe0632-ad05-4503-95d7-72f3e180e0b5",
+      "node_type": "Section",
+      "publisher": "finlex",
+      "title": "94 § Vaatimusten vastaista sähkölaitetta tai -laitteistoa sekä sen huoltoa ja käyttöä koskevat sähköturvallisuusviranomaisen toimenpiteet",
+      "text": "Jos sähkölaite tai -laitteisto ei ole tämän lain mukainen taikka sen huolto tai käyttö ei ole tämän lain mukaista, sähköturvallisuusviranomainen voi määrätä sähkölaitteen tai -laitteiston haltijan korjaamaan puutteellisuudet ja laiminlyönnit määräajassa taikka kieltää sähkölaitteen tai -laitteiston käytön. Sähköturvallisuusviranomainen voi tarvittaessa vaatia sähkölaitteen tai laitteiston erottamista sähköverkosta. Sähköturvallisuusviranomainen ei kuitenkaan voi kieltää jakeluverkonhaltijan sähkölaitteiston käyttöä, jos kiellosta aiheutuu kohtuutonta haittaa sähkön käyttäjille. Jos sähkölaitteiston verkosta erottaminen on teknisesti tarkoituksenmukaista tehdä laitteistoa syöttävän verkkoyhtiön sähkölaitteistossa, on verkkoyhtiön tehtävä erottamistoimenpide sähköturvallisuusviranomaisen sitä pyytäessä.",
+      "section_number": "94",
+      "chapter_number": 5,
+      "statute_id": "917/2014"
+    },
+    {
+      "id": "515ff3a0-0fb0-4a2d-9e62-31c266e48ef3",
+      "node_type": "Section",
+      "publisher": "finlex",
+      "title": "95 § Pakkokeinot",
+      "text": "Jos toiminnanharjoittaja ei noudata tätä lakia tai sen nojalla annettuja säännöksiä tai määräyksiä, sähköturvallisuusviranomaisen on kehotettava toiminnanharjoittajaa korjaamaan puutteen määräajassa. Jos sähkötöiden johtaja tai käytön johtaja ei tehtäväänsä hoitaessaan noudata tätä lakia tai sen nojalla annettuja säännöksiä tai määräyksiä, sähköturvallisuusviranomainen voi antaa hänelle varoituksen. Jos puutteet tai laiminlyönnit ovat vakavia tai olennaisia eikä annetusta kehotuksesta tai varoituksesta huolimatta puutteita tai laiminlyöntejä ei ole korjattu, sähköturvallisuusviranomainen voi kieltää osaksi tai kokonaan toiminnanharjoittajan, sähkötöiden johtajan tai käytön johtajan toiminnan määräajaksi tai toistaiseksi. Sähköturvallisuusviranomaisen on ilmoitettava välittömästi toiminnanharjoittajalle sähkötöiden johtajalle antamastaan varoituksesta tai toimintakiellosta sekä sähkölaitteiston haltijalle käytön johtajalle antamastaan varoituksesta tai toimintakiellosta. Jos 1 momentissa tarkoitetuissa tapauksissa on kyse vakavista puutteista, sähköturvallisuusviranomainen voi määrätä määräajaksi toiminnanharjoittajan kaikki vähäistä suuremmat sähkölaitteistot varmennustarkastettavaksi.",
+      "section_number": "95",
+      "chapter_number": 5,
+      "statute_id": "917/2014"
+    },
+    {
+      "id": "1f6bc1ca-840f-439e-acb5-5566ac010a45",
+      "node_type": "Section",
+      "publisher": "finlex",
+      "title": "96 § Uhkasakko ja teettämisuhka",
+      "text": "Sähköturvallisuusviranomainen voi tehostaa tämän lain nojalla antamaansa kieltoa tai määräystä uhkasakolla tai uhalla, että tekemättä jätetty toimenpide teetetään laiminlyöjän kustannuksella. Uhkasakosta ja teettämisuhasta säädetään uhkasakkolaissa (1113/1990).",
+      "section_number": "96",
+      "chapter_number": 5,
+      "statute_id": "917/2014"
+    },
+    {
+      "id": "9f46eef1-c9d8-498e-a2f3-27f5971e5be6",
+      "node_type": "Section",
+      "publisher": "finlex",
+      "title": "97 § Vaatimusten vastaista toimintaa koskevat valtuutetun tarkastajan tai valtuutetun laitoksen toimenpiteet",
+      "text": "Jos valtuutettu tarkastaja tai valtuutettu laitos tarkastuksen yhteydessä havaitsee, että sähkölaitteen tai -laitteiston käyttö aiheuttaa välittömän vaaran, sen on ilmoitettava tästä kirjallisesti sähkölaitteen tai -laitteiston haltijalle sekä kehotettava lopettamaan sähkölaitteen tai laitteiston käyttö ja erottamaan se sähköverkosta. Tarkastuksen tehneen on lähetettävä ilmoituksesta viipymättä jäljennös sähköturvallisuusviranomaiselle, jonka on ryhdyttävä tarvittaviin toimenpiteisiin. Jos valtuutettu tarkastaja tai valtuutettu laitos havaitsee varmennustarkastuksessa tai määräaikaistarkastuksessa vakavia puutteita, sen on määrättävä tarkastuksen kohteena oleva sähkölaitteisto tarkastettavaksi uudelleen. Sähkölaitteiston haltijan on tilattava uusintatarkastus kolmen kuukauden kuluessa tarkastusmääräyksen antamisesta. Vain hyvin perustellusta syystä tarkastuksen voi tilata muulta kuin alkuperäiseltä tarkastuksen suorittajalta. Valtuutetun tarkastajan ja valtuutetun laitoksen on ilmoitettava sähköturvallisuusviranomaiselle vuosittain uusintatarkastukseen joutuneiden varmennustarkastettujen kohteiden rakentajat sekä yhteenveto uusintatarkastukseen määrätyistä sähkölaitteistoista. Jos tarkastuksessa havaitaan sähkölaitteessa tai -laitteistossa olevan vikoja tai puutteita, jotka vähentävät sen käytön turvallisuutta, valtuutetun tarkastajan tai valtuutetun laitoksen on ilmoitettava tästä sähkölaitteen tai -laitteiston haltijalle.",
+      "section_number": "97",
+      "chapter_number": 5,
+      "statute_id": "917/2014"
+    },
+    {
+      "id": "fcd4eca2-adf0-405d-bf41-2f931a541065",
+      "node_type": "Section",
+      "publisher": "finlex",
+      "title": "98 § Poliisin virka-apu",
+      "text": "Poliisi on velvollinen antamaan virka-apua sähköturvallisuusviranomaiselle tämän lain noudattamisen valvomiseksi ja täytäntöön panemiseksi. Poliisin velvollisuudesta antaa virka-apua säädetään poliisilain (872/2011) 9 luvun 1 §:ssä.",
+      "section_number": "98",
+      "chapter_number": 5,
+      "statute_id": "917/2014"
+    },
+    {
+      "id": "ba6fa5aa-4380-4fd0-a4e8-f673f3fc3314",
+      "node_type": "Section",
+      "publisher": "finlex",
+      "title": "99 § Tuottamuksesta riippumaton vastuu",
+      "text": "Vahinkoa aiheuttaneen sähkölaitteen tai -laitteiston haltija on tuottamuksesta riippumatta velvollinen korvaamaan sähkövahingon, jollei tässä luvussa toisin säädetä.",
+      "section_number": "99",
+      "chapter_number": 6,
+      "statute_id": "917/2014"
+    },
+    {
+      "id": "649ce19f-1676-40ab-b438-dbf7f047f93b",
+      "node_type": "Section",
+      "publisher": "finlex",
+      "title": "100 § Vahingonkorvausvastuun rajoitukset",
+      "text": "Sähkölaitteen tai -laitteiston haltija ei ole tämän lain mukaan vastuussa sähkövahingosta, jos:",
+      "section_number": "100",
+      "chapter_number": 6,
+      "statute_id": "917/2014"
+    },
+    {
+      "id": "796a9ce9-1bb9-4318-9303-cca4749262e2",
+      "node_type": "Section",
+      "publisher": "finlex",
+      "title": "101 § Sähkövahingon sovittelu",
+      "text": "Jos vahingon kärsinyt on myötävaikuttanut vahinkoon taikka jos muu sähkölaitteeseen tai laitteistoon tai sen käyttämiseen kuulumaton seikka on myös ollut vahingon syynä, vahingonkorvausta voidaan kohtuuden mukaan sovitella. Korvausta henkilövahingosta saadaan myötävaikutuksen takia alentaa vain, jos vahingon kärsinyt itse tai tapauksessa, jossa elatusvelvollinen on saanut surmansa, surmansa saanut on myötävaikuttanut vahinkoon muuten kuin lievällä tuottamuksella.",
+      "section_number": "101",
+      "chapter_number": 6,
+      "statute_id": "917/2014"
+    },
+    {
+      "id": "b8537100-ebfe-4368-b36b-de27967a08fa",
+      "node_type": "Section",
+      "publisher": "finlex",
+      "title": "102 § Vahingonkorvauslain soveltaminen",
+      "text": "Vahingonkorvausta määrättäessä on noudatettava, mitä vahingonkorvauslain 5 luvussa, 6 luvun 2 ja 3 §:ssä sekä 7 luvun 3 §:ssä säädetään.",
+      "section_number": "102",
+      "chapter_number": 6,
+      "statute_id": "917/2014"
+    },
+    {
+      "id": "9ed4579b-3e77-4e86-857e-3e78cd1f0166",
+      "node_type": "Section",
+      "publisher": "finlex",
+      "title": "103 § Sähkölaitteen tai -laitteiston omistajan vastuu",
+      "text": "Sähkölaitteen tai -laitteiston omistaja, joka on luovuttanut laitteen tai laitteiston toisen hallintaan, vastaa sähkövahingosta laitteen tai laitteiston arvoon asti kuten laitteen tai laitteiston haltija. Laitteen tai laitteiston haltija on velvollinen korvaamaan omistajalle tämän suorittaman määrän, jollei tuomioistuin harkitse, että vahinko jää omistajan vastattavaksi.",
+      "section_number": "103",
+      "chapter_number": 6,
+      "statute_id": "917/2014"
+    },
+    {
+      "id": "44f3e498-2b0e-4926-9dd4-9f7f36934401",
+      "node_type": "Section",
+      "publisher": "finlex",
+      "title": "104 § Korvauksen vanhentumisaika",
+      "text": "Tähän lakiin perustuvaa korvausta sähkövahingosta on vaadittava kahden vuoden kuluessa vahingon aiheuttaneesta tapahtumasta.",
+      "section_number": "104",
+      "chapter_number": 6,
+      "statute_id": "917/2014"
+    },
+    {
+      "id": "ddbbfd0a-2039-4bf8-9837-65d7567d33f1",
+      "node_type": "Section",
+      "publisher": "finlex",
+      "title": "105 § Vahingonkorvaus muun lain nojalla",
+      "text": "Tämä laki ei rajoita vahinkoa kärsineen oikeutta korvaukseen sähkövahingosta sopimuksen perusteella taikka vahingonkorvauslain, tuotevastuulain (694/1990) tai muun lain nojalla.",
+      "section_number": "105",
+      "chapter_number": 6,
+      "statute_id": "917/2014"
+    },
+    {
+      "id": "de7ec58e-74f9-402e-a33e-e68ce47cb494",
+      "node_type": "Section",
+      "publisher": "finlex",
+      "title": "106 § Mitättömät sopimusehdot",
+      "text": "Jakeluverkonhaltijan ja enintään 400 voltin nimellisjännitteellä sen verkkoon liitetyn sähkönkäyttäjän välisen liittymistä koskevan sopimuksen ehto, jolla rajoitetaan vahinkoa kärsineen oikeutta tämän lain mukaiseen korvaukseen, on mitätön. Ennen vahingon ilmenemistä tehdyn, muun kuin 1 momentissa tarkoitetun sopimuksen ehto, jolla rajoitetaan vahinkoa kärsineen oikeutta tämän lain mukaiseen korvaukseen henkilövahingosta taikka yksityiseen käyttöön tai kulutukseen tarkoitetulle ja vahinkoa kärsineen pääasiassa sellaiseen tarkoitukseen käyttämälle omaisuudelle aiheutuneesta vahingosta, on mitätön.",
+      "section_number": "106",
+      "chapter_number": 6,
+      "statute_id": "917/2014"
+    },
+    {
+      "id": "cba9b321-41f6-4bf3-b10f-1696c024b5c1",
+      "node_type": "Section",
+      "publisher": "finlex",
+      "title": "107 § Takautumisoikeus vahingon aiheuttajalta",
+      "text": "Sähkölaitteen tai -laitteiston omistaja tai haltija, joka on suorittanut tämän lain mukaista korvausta, on oikeutettu vaatimaan suorittamansa määrän vahingon aiheuttajalta tämän korvausvastuuta koskevien perusteiden mukaan.",
+      "section_number": "107",
+      "chapter_number": 6,
+      "statute_id": "917/2014"
+    },
+    {
+      "id": "2c1eb8df-7eee-48d6-944b-71976568faf8",
+      "node_type": "Section",
+      "publisher": "finlex",
+      "title": "108 § Sähkölaitteiston aiheuttama häiriö tai vaara",
+      "text": "Jos sähkölaitteisto aiheuttaa häiriötä tai vaaraa toiselle sähkölaitteistolle tai sen käytölle taikka aiheuttaa sen välityksellä häiriötä tai vaaraa, vaikka molemmat sähkölaitteistot ovat määräysten ja hyvän teknisen tavan mukaisia, myöhemmin rakennetun laitteiston omistajan tulee, jollei 2 momentista muuta johdu, suorittaa laitteistossaan häiriön tai vaaran poistamiseksi tarvittavat toimenpiteet. Jos häiriö tai vaara on poistettavissa 1 momentissa tarkoitetuista toimenpiteistä aiheutuvia kustannuksia huomattavasti pienemmin kustannuksin muuttamalla tai täydentämällä aikaisemmin rakennetun laitteiston teknistä rakennetta ja tämä voidaan tehdä aiheuttamatta laitteiston toiminnalle kohtuutonta haittaa, aikaisemmin rakennetun laitteiston omistajan tulee suorittaa tarvittavat muutokset tai täydennykset laitteistossaan.",
+      "section_number": "108",
+      "chapter_number": 6,
+      "statute_id": "917/2014"
+    },
+    {
+      "id": "2ff1a2d1-bd04-476b-a7d8-fcade2929b95",
+      "node_type": "Section",
+      "publisher": "finlex",
+      "title": "109 § Sähkölaitteiston omistajan korvausvelvollisuus",
+      "text": "Myöhemmin rakennetun sähkölaitteiston omistaja on velvollinen korvaamaan 108 §:n 2 momentissa tarkoitettujen toimenpiteiden kustannukset. Kustannuksia määrättäessä on otettava huomioon toimenpiteestä aikaisemmin rakennetun laitteiston omistajalle laitteiston suorituskyvyn tai käyttökustannusten muuttumisen takia mahdollisesti aiheutunut hyöty tai haitta.",
+      "section_number": "109",
+      "chapter_number": 6,
+      "statute_id": "917/2014"
+    },
+    {
+      "id": "34a93ab1-432f-4200-bbd3-5d8270837c5b",
+      "node_type": "Section",
+      "publisher": "finlex",
+      "title": "110 § Sähkölaitteiston rakentamisajankohta",
+      "text": "Kahdesta sähkölaitteistosta tai -laitteiston osasta myöhemmin rakennetuksi katsotaan se, jonka rakentaminen on aloitettu myöhemmin. Jos laitteiston tai sen osan käyttötapaa tai teknistä rakennetta muutetaan siten, että laitteisto tai sen käyttö aiheuttaa 108 §:ssä tarkoitettua häiriötä tai vaaraa taikka että laitteisto tulee häiriölle tai vaaralle oleellisesti alttiimmaksi, katsotaan laitteisto kuitenkin tältä osin muutoksen ajankohtana rakennetuksi.",
+      "section_number": "110",
+      "chapter_number": 6,
+      "statute_id": "917/2014"
+    },
+    {
+      "id": "c030c539-df41-44d6-9f2b-a95331ee202b",
+      "node_type": "Section",
+      "publisher": "finlex",
+      "title": "111 § Erimielisyyden ratkaiseminen häiriön ja vaaran poistamistilanteessa",
+      "text": "Jos sähkölaitteiston omistajat eivät pääse yksimielisyyteen 108–110 §:ssä tarkoitetun häiriön tai vaaran poistamiseksi tarpeellisista toimenpiteistä, asian ratkaisee sähköturvallisuusviranomainen, jollei muuta ole sovittu.",
+      "section_number": "111",
+      "chapter_number": 6,
+      "statute_id": "917/2014"
+    },
+    {
+      "id": "08233beb-ce80-4df1-8776-9c8a79023dfc",
+      "node_type": "Section",
+      "publisher": "finlex",
+      "title": "112 § Sähkölaitteen aiheuttama vaara tai häiriö",
+      "text": "Mitä 108–111 §:ssä säädetään sähkölaitteistosta, koskee myös yksittäistä sähkölaitetta.",
+      "section_number": "112",
+      "chapter_number": 6,
+      "statute_id": "917/2014"
+    },
+    {
+      "id": "37767768-6861-4cb4-acf0-c01df9e685c8",
+      "node_type": "Section",
+      "publisher": "finlex",
+      "title": "113 § Rakennetun sähkölaitteiston siirtäminen tai muuttaminen",
+      "text": "Jos sähkölaitteiston tai sen osan rakennustöiden aloittamisen jälkeen sen läheisyyteen on rakennettu tai tulee rakennettavaksi maantie, kulkuväylä, rautatie, lentokenttä, kaasu-, vesi- tai muu vastaava johto taikka rakennus tai muu rakennelma siten, että sähkölaitteistoa on yleisen turvallisuuden vuoksi tai laitteiston suojaamiseksi siirrettävä tai muutettava, sähkölaitteiston omistaja on velvollinen suorittamaan tarpeelliset muutokset. Siitä aiheutuvat kustannukset on kuitenkin tien, väylän, lentokentän, johdon, rakennuksen tai rakennelman omistajan korvattava.",
+      "section_number": "113",
+      "chapter_number": 6,
+      "statute_id": "917/2014"
+    },
+    {
+      "id": "c28a1186-3cf6-4449-948e-a41e59654fe7",
+      "node_type": "Section",
+      "publisher": "finlex",
+      "title": "114 § Onnettomuudesta ilmoittaminen ja onnettomuuden tutkinta",
+      "text": "Poliisin, pelastus- ja työsuojeluviranomaisen ja jakelualueen jakeluverkonhaltijan on ilmoitettava sähköturvallisuusviranomaiselle vakavasta vaaratilanteesta ja vakavia henkilö-, omaisuus- tai ympäristövahinkoja aiheuttaneesta vahinkotapahtumasta, jossa sähkölaite tai laitteisto on ollut osallisena. Henkilövahinkoa on pidettävä vakavana, jos sen seurauksena on kuolema tai vakava vahinko terveydelle. Vakavana omaisuus- tai ympäristövahinkona on pidettävä muuta kuin vähäistä omaisuus- tai ympäristövahinkoa. Vaaratilannetta on pidettävä vakavana, jos siitä on aiheutunut ilmeinen vakavan henkilö-, omaisuus- tai ympäristövahingon vaara. Sähköturvallisuusviranomaisen on tutkittava 2 momentissa tarkoitettu vakavia vahinkoja aiheuttanut vahinkotapahtuma, jos sähköturvallisuusviranomainen arvioi sen vahinkotapahtuman syyn selvittämisen tai vahinkotapahtumien ehkäisyn kannalta tarpeelliseksi. Sähköturvallisuusviranomaisella on oikeus tutkia myös muut sähkön aiheuttamat vahinkotapahtumat ja vakavat vaaratilanteet, jos se on vahinkotapahtuman syyn selvittämisen tai vahinkotapahtumien ehkäisemisen kannalta tarpeellista. Velvollisuudesta ilmoittaa onnettomuudesta tai vaaratilanteesta Onnettomuustutkintakeskukselle säädetään turvallisuustutkintalain (525/2011) 16 §:ssä.",
+      "section_number": "114",
+      "chapter_number": 6,
+      "statute_id": "917/2014"
+    },
+    {
+      "id": "3983b16c-1a7d-48b9-8a72-5176bbcb6cf3",
+      "node_type": "Section",
+      "publisher": "finlex",
+      "title": "115 § Ilmoitetun laitoksen todistukset vaatimustenmukaisuudesta",
+      "text": "Ilmoitetun laitoksen on annettava valmistajalle EU-tyyppitarkastustodistus tai vaatimustenmukaisuustodistus, jos sähkölaite tai -sähkölaitteisto täyttää tämän lain vaatimukset. Ilmoitetun laitoksen on säilytettävä jäljennökset 1 momentissa tarkoitetuista todistuksista ja niiden lisäyksistä sekä teknisistä asiakirjoista, valmistajan toimittamat asiakirjat mukaan luettuina, kyseisen todistuksen voimassaolon päättymiseen saakka. Valtioneuvoston asetuksella säädetään tarkemmin EU-tyyppitarkastustodistuksesta ja vaatimustenmukaisuustodistuksesta sekä niiden sisällöstä.",
+      "section_number": "115",
+      "chapter_number": 7,
+      "statute_id": "917/2014"
+    },
+    {
+      "id": "a74d1b4d-6c91-47cb-9401-d71657574a53",
+      "node_type": "Section",
+      "publisher": "finlex",
+      "title": "116 § Ilmoitetun laitoksen todistuksen antamatta jättäminen tai sen peruuttaminen",
+      "text": "Jos ilmoitettu laitos havaitsee, että sähkölaite tai -laitteisto ei täytä sitä koskevia olennaisia turvallisuusvaatimuksia, sen on vaadittava valmistajaa korjaamaan puute, eikä se saa antaa valmistajalle todistusta vaatimustenmukaisuudesta. Jos ilmoitettu laitos katsoo todistuksen antamisen jälkeen, ettei sähkölaite tai -laitteisto enää ole vaatimusten mukainen, sen on vaadittava valmistajaa korjaamaan puute ja tarvittaessa peruutettava todistus väliaikaisesti tai pysyvästi. Jos puutetta ei korjata tai toimenpiteillä ei ole vaadittua vaikutusta, ilmoitetun laitoksen on tarpeen mukaan peruutettava todistus väliaikaisesti tai pysyvästi tai myönnettävä se rajoitettuna.",
+      "section_number": "116",
+      "chapter_number": 7,
+      "statute_id": "917/2014"
+    },
+    {
+      "id": "14195650-df09-4e92-9ed5-906577292035",
+      "node_type": "Section",
+      "publisher": "finlex",
+      "title": "117 § Rangaistussäännökset",
+      "text": "Joka tahallaan tai huolimattomuudesta rikkoo on tuomittava, jollei teosta muualla laissa säädetä ankarampaa rangaistusta,sähköturvallisuutta koskevien säännösten rikkomisestasakkoon. Sitä, joka rikkoo tämän lain nojalla määrättyä, uhkasakolla tehostettua kieltoa tai velvoitetta, ei voida tuomita 1 momentin nojalla rangaistukseen samasta teosta. CE-merkintärikkomuksesta säädetään CE-merkintärikkomuksesta annetussa laissa (187/2010).",
+      "section_number": "117",
+      "chapter_number": 7,
+      "statute_id": "917/2014"
+    },
+    {
+      "id": "e9072b04-3e01-4f7b-b3ac-912f03c9ddee",
+      "node_type": "Section",
+      "publisher": "finlex",
+      "title": "118 § Muutoksenhaku sähköturvallisuusviranomaisen päätökseen",
+      "text": "Tämän lain mukaiseen sähköturvallisuusviranomaisen tekemään hallintopäätökseen haetaan muutosta siten kuin hallintolainkäyttölaissa (586/1996) säädetään. Hallinto-oikeuden päätökseen saa hakea muutosta valittamalla vain, jos korkein hallinto-oikeus myöntää valitusluvan. Sähköturvallisuusviranomaisen päätöstä on muutoksenhausta huolimatta noudatettava, jollei muutoksenhakuviranomainen toisin määrää. Uhkasakon asettamista ja maksettavaksi tuomitsemista sekä teettämis- tai keskeyttämisuhan asettamista ja täytäntöön pantavaksi määräämistä koskevaan päätökseen saa kuitenkin hakea muutosta siten kuin uhkasakkolaissa säädetään.",
+      "section_number": "118",
+      "chapter_number": 7,
+      "statute_id": "917/2014"
+    },
+    {
+      "id": "70b7867f-c426-41b4-b0ae-e2482abf751b",
+      "node_type": "Section",
+      "publisher": "finlex",
+      "title": "119 § Muutoksenhaku ilmoitetun laitoksen, pätevyydenarviointilaitoksen, valtuutetun laitoksen tai valtuutetun tarkastajan päätökseen",
+      "text": "Ilmoitetun laitoksen, pätevyydenarviointilaitoksen, valtuutetun laitoksen tai valtuutetun tarkastajan tämän lain nojalla tekemään päätökseen saa vaatia oikaisua siten kuin hallintolaissa säädetään. Oikaisuvaatimuksesta annettuun päätökseen saa hakea muutosta valittamalla hallinto-oikeuteen siten kuin hallintolainkäyttölaissa säädetään. Hallinto-oikeuden päätökseen saa hakea muutosta valittamalla vain, jos korkein hallinto-oikeus myöntää valitusluvan. Ilmoitetun laitoksen, pätevyydenarviointilaitoksen, valtuutetun laitoksen tai valtuutetun tarkastajan päätöstä on muutoksenhausta huolimatta noudatettava, jollei muutoksenhakuviranomainen toisin määrää.",
+      "section_number": "119",
+      "chapter_number": 7,
+      "statute_id": "917/2014"
+    },
+    {
+      "id": "92150a30-deef-47f6-b00f-ac76a4f31029",
+      "node_type": "Section",
+      "publisher": "finlex",
+      "title": "120 § Sähkö- ja hissiturvallisuuden neuvottelukunta",
+      "text": "Työ- ja elinkeinoministeriön ja sähköturvallisuusviranomaisen apuna tämän lain sekä hissiturvallisuuslain säännösten kehittämistä ja seurantaa varten on valtioneuvoston kolmeksi vuodeksi asettama Sähkö- ja hissiturvallisuuden neuvottelukunta. Valtioneuvoston asetuksella säädetään tarkemmin neuvottelukunnan kokoonpanosta ja tehtävistä.",
+      "section_number": "120",
+      "chapter_number": 7,
+      "statute_id": "917/2014"
+    },
+    {
+      "id": "8f0c8c61-4b88-43f8-bfb3-07295708daa4",
+      "node_type": "Section",
+      "publisher": "finlex",
+      "title": "121 § Voimaantulo",
+      "text": "Tämä laki tulee voimaan 1 päivänä tammikuuta 2017. Tällä lailla kumotaan sähköturvallisuuslaki (410/1996), jäljempänäkumottava laki.",
+      "section_number": "121",
+      "chapter_number": 7,
+      "statute_id": "917/2014"
+    },
+    {
+      "id": "c7aae61a-b2ac-4ea5-9110-63222b94f3ca",
+      "node_type": "Section",
+      "publisher": "finlex",
+      "title": "122 § Siirtymäsäännökset",
+      "text": "Ennen tämän lain voimaantuloa markkinoille saatetut sähkölaitteet ja -laitteistot, joiden vaatimustenmukaisuus on varmistettu tämän lain voimaan tullessa voimassa olleiden säännösten mukaisesti, saavat jäädä markkinoille tämän lain voimaan tullessa. Näihin sähkölaitteisiin ja laitteistoihin liittyvät todistukset vaatimustenmukaisuudesta jäävät edelleen voimaan. Ennen tämän lain voimaantuloa rakennettuja sähkölaitteistoja ei tarvitse muuttaa tämän lain mukaisiksi, jos niistä ei aiheudu kenenkään hengelle, terveydelle tai omaisuudelle vaaraa. Ennen tämän lain voimaantuloa myönnetyt pätevyystodistukset, erivapaudet ja poikkeusluvat jäävät voimaan annetussa laajuudessa. Toiminnanharjoittaja, joka on tehnyt ilmoituksen sähkötöistä sähköturvallisuusviranomaiselle kumottavan lain nojalla tai on saanut jatkaa toimintaansa sähkölain (319/1979) siirtymäsäännöksen nojalla, saa jatkaa toimintaansa entisessä laajuudessaan. Kumottavan lain nojalla myönnetyt sähköurakoitsijan varmennusoikeudet jäävät voimaan myöntämispäätöksen voimassaolopäivämäärään asti, mutta kuitenkin enintään viiden vuoden ajaksi tämän lain voimaantulosta. Ennen 31 päivää toukokuuta 2010 myönnetyt sähköturvallisuustutkinnosta annetut todistukset ovat voimassa 72 §:n 3 momentista poiketen kymmenen vuotta. Ennen tämän lain voimaantuloa hyväksytty valtuutettu laitos, pätevyydenarviointilaitos ja valtuutettu tarkastaja voi ilman erillistä hyväksyntää jatkaa tässä laissa tarkoitettuna valtuutettuna laitoksena, pätevyydenarviointilaitoksena tai valtuutettuna tarkastajana nimeämispäätöksessä mainituilla ehdoilla. Ennen lain voimaantuloa hyväksytyn valtuutetun tarkastajan katsotaan täyttävän myös 78 §:n 2 kohdan vaatimuksen pätevyystodistuksesta, jos hänen kelpoisuutensa on hyväksymispäätöksessä katsottu riittäväksi. Jos sähkölaitteiston määräaikaistarkastusten väli tämän lain johdosta lyhenee, voidaan laitteiston seuraava määräaikaistarkastus kuitenkin tehdä noudattaen aikaisemmin voimassa ollutta tarkastusväliä. Haettaessa muutosta ennen tämän lain voimaantuloa annettuun hallintopäätökseen sovelletaan tämän lain voimaan tullessa voimassa olleita säännöksiä. Työ- ja elinkeinoministeriön 22 päivänä lokakuuta 2014 asettama sähköturvallisuuden neuvottelukunta jatkaa toimintaansa toimikautensa loppuun saakka. Tämän lain voimaantulon jälkeen sähköturvallisuuden neuvottelukunnalla tarkoitetaan tämän lain mukaista Sähkö- ja hissiturvallisuuden neuvottelukuntaa. Jos muussa laissa tai sen nojalla annetussa säännöksessä taikka kumottavan lain nojalla annetussa päätöksessä viitataan kumottavaan lakiin, tämän lain soveltamisalan mukaisen viittauksen on katsottava tarkoittavan tämän lain vastaavaa säännöstä ja vastaavasti hissiturvallisuuslain soveltamisalan mukaisen viittauksen on katsottava tarkoittavan hissiturvallisuuslain vastaavaa säännöstä.",
+      "section_number": "122",
+      "chapter_number": 7,
+      "statute_id": "917/2014"
+    }
+  ],
+  "clauses": [
+    {
+      "id": "d9cb0abc-579a-4164-9d72-0baa2ff8b1de",
+      "node_type": "Clause",
+      "publisher": "finlex",
+      "title": "§ 3 mom 1",
+      "text": "1) sähköllä toimivien koneiden markkinoille saattamiseen eikä käyttöön ottamiseen siltä osin kuin niistä säädetään koneiden turvallisuudesta annetussa valtioneuvoston asetuksessa (400/2008);",
+      "clause_number": 1,
+      "section_number": "3",
+      "statute_id": "917/2014"
+    },
+    {
+      "id": "37777af4-223f-455f-976a-14e51f0608ad",
+      "node_type": "Clause",
+      "publisher": "finlex",
+      "title": "§ 3 mom 2",
+      "text": "2) terveydenhuollon laitteista ja tarvikkeista annetussa laissa (629/2010) tarkoitettuihin terveydenhuollon laitteisiin, tarvikkeisiin ja niiden lisälaitteisiin; tätä lakia sovelletaan kuitenkin näihin laitteisiin, tarvikkeisiin ja lisälaitteisiin, jos kyse on korjaus- ja huoltotöistä;",
+      "clause_number": 2,
+      "section_number": "3",
+      "statute_id": "917/2014"
+    },
+    {
+      "id": "5618d9fc-2519-42d6-b694-0c1ace4bf14c",
+      "node_type": "Clause",
+      "publisher": "finlex",
+      "title": "§ 3 mom 3",
+      "text": "3) vahinkoon, joka on aiheutunut sähkönsiirron, -jakelun tai -toimituksen keskeytymisestä sekä sellaisen vahingon korvaamiseen, joka on syntynyt sähkömarkkinalain (588/2013) 97 §:ssä tarkoitetun sähkönjakelun, muun verkkopalvelun tai sähköntoimituksen virheen vuoksi.",
+      "clause_number": 3,
+      "section_number": "3",
+      "statute_id": "917/2014"
+    },
+    {
+      "id": "ea8c9db7-b52d-44ae-95fa-7b6a4a2f57c8",
+      "node_type": "Clause",
+      "publisher": "finlex",
+      "title": "§ 4 mom 28",
+      "text": "28) \n                                        sähkövahingollasähkölaitteesta tai -laitteistosta sähkövirran tai magneettikentän välityksellä aiheutunutta vahinkoa;",
+      "clause_number": 28,
+      "section_number": "4",
+      "statute_id": "917/2014"
+    },
+    {
+      "id": "d5aa4c1a-7865-4194-996e-0eb88a297a6b",
+      "node_type": "Clause",
+      "publisher": "finlex",
+      "title": "§ 6 mom 1",
+      "text": "1) niistä ei aiheudu kenenkään hengelle, terveydelle tai omaisuudelle vaaraa;",
+      "clause_number": 1,
+      "section_number": "6",
+      "statute_id": "917/2014"
+    },
+    {
+      "id": "91660623-81f5-4978-ba87-aad243a4f761",
+      "node_type": "Clause",
+      "publisher": "finlex",
+      "title": "§ 6 mom 2",
+      "text": "2) niistä ei sähköisesti tai sähkömagneettisesti aiheudu kohtuutonta häiriötä;",
+      "clause_number": 2,
+      "section_number": "6",
+      "statute_id": "917/2014"
+    },
+    {
+      "id": "89ead512-0377-4d18-91a2-f1064c7ff624",
+      "node_type": "Clause",
+      "publisher": "finlex",
+      "title": "§ 6 mom 3",
+      "text": "3) niiden toiminta ei häiriinny helposti sähköisesti tai sähkömagneettisesti.",
+      "clause_number": 3,
+      "section_number": "6",
+      "statute_id": "917/2014"
+    },
+    {
+      "id": "7af1e246-9ab5-45a4-ae75-777039d3ac04",
+      "node_type": "Clause",
+      "publisher": "finlex",
+      "title": "§ 8 mom 1",
+      "text": "1) ne voivat aiheuttaa tai lisätä sähkömagneettisia päästöjä, jotka ylittävät tason, jolla radio- ja televiestintälaitteet ja muut laitteet voivat toimia tarkoitetulla tavalla; tai",
+      "clause_number": 1,
+      "section_number": "8",
+      "statute_id": "917/2014"
+    },
+    {
+      "id": "95c5eedb-9ac8-4a2d-8eca-73a89fac58df",
+      "node_type": "Clause",
+      "publisher": "finlex",
+      "title": "§ 8 mom 2",
+      "text": "2) niiden toiminta voi heikentyä kohtuuttomasti niiden altistuessa tarkoitetun käytön seurauksena tavanomaisesti esiintyville sähkömagneettisille häiriöille.",
+      "clause_number": 2,
+      "section_number": "8",
+      "statute_id": "917/2014"
+    },
+    {
+      "id": "5a6075a4-8483-406a-ae89-44113aec06a6",
+      "node_type": "Clause",
+      "publisher": "finlex",
+      "title": "§ 11 mom 1",
+      "text": "1) määrätyssä kohteessa ilmenee tai odotetaan ilmenevän sähkömagneettista yhteensopivuutta koskeva ongelma, joka on ratkaistava; tai",
+      "clause_number": 1,
+      "section_number": "11",
+      "statute_id": "917/2014"
+    },
+    {
+      "id": "12d2890d-a2ca-47da-a1f9-bcaf25b11d67",
+      "node_type": "Clause",
+      "publisher": "finlex",
+      "title": "§ 11 mom 2",
+      "text": "2) se on tarpeen turvallisuussyistä yleisen viestintäverkon tai vastaanotto- tai lähetysaseman suojaamiseksi, kun laitetta käytetään turvallisuuden parantamiseen tarkoin määritellyillä taajuusalueilla.",
+      "clause_number": 2,
+      "section_number": "11",
+      "statute_id": "917/2014"
+    },
+    {
+      "id": "5896e1a6-a571-45fc-9c36-1f0833b2dabe",
+      "node_type": "Clause",
+      "publisher": "finlex",
+      "title": "§ 17 mom 1",
+      "text": "1) pidettävä EU-vaatimuksenmukaisuusvakuutus ja tekniset asiakirjat sähköturvallisuusviranomaisen saatavilla kymmenen vuoden ajan siitä lähtien, kun sähkölaite on saatettu markkinoille;",
+      "clause_number": 1,
+      "section_number": "17",
+      "statute_id": "917/2014"
+    },
+    {
+      "id": "5cc3461f-b7d4-4843-8984-4f2f8dd77474",
+      "node_type": "Clause",
+      "publisher": "finlex",
+      "title": "§ 17 mom 2",
+      "text": "2) annettava sähköturvallisuusviranomaisen perustellusta pyynnöstä tälle kaikki tiedot ja asiakirjat, jotka ovat tarpeen sähkölaitteen vaatimustenmukaisuuden osoittamiseksi;",
+      "clause_number": 2,
+      "section_number": "17",
+      "statute_id": "917/2014"
+    },
+    {
+      "id": "c98a19ab-2412-4926-8ab1-00122f40a64f",
+      "node_type": "Clause",
+      "publisher": "finlex",
+      "title": "§ 17 mom 3",
+      "text": "3) tehtävä yhteistyötä sähköturvallisuusviranomaisen kanssa tämän pyynnöstä toimissa, joilla pyritään poistamaan valtuutetun edustajan toimeksiannon piiriin kuuluvien sähkölaitteiden aiheuttamat riskit.",
+      "clause_number": 3,
+      "section_number": "17",
+      "statute_id": "917/2014"
+    },
+    {
+      "id": "395c466c-3a16-41ee-b8f9-f9fe55d86c71",
+      "node_type": "Clause",
+      "publisher": "finlex",
+      "title": "§ 18 mom 2",
+      "text": "1) valmistaja on suorittanut 13 §:n 2 momentissa tarkoitetun sähkölaitteen asianmukaisen vaatimustenmukaisuuden arviointimenettelyn;",
+      "clause_number": 2,
+      "section_number": "18",
+      "statute_id": "917/2014"
+    },
+    {
+      "id": "c890db86-03ad-4f02-9aba-4c1d7255f27a",
+      "node_type": "Clause",
+      "publisher": "finlex",
+      "title": "§ 18 mom 1",
+      "text": "1) valmistaja on suorittanut 13 §:n 2 momentissa tarkoitetun sähkölaitteen asianmukaisen vaatimustenmukaisuuden arviointimenettelyn;",
+      "clause_number": 1,
+      "section_number": "18",
+      "statute_id": "917/2014"
+    },
+    {
+      "id": "bcce1be1-233d-49e3-aa3b-8238a61c12da",
+      "node_type": "Clause",
+      "publisher": "finlex",
+      "title": "§ 18 mom 2",
+      "text": "2) valmistaja on laatinut tekniset asiakirjat;",
+      "clause_number": 2,
+      "section_number": "18",
+      "statute_id": "917/2014"
+    },
+    {
+      "id": "c759a798-d976-4688-9379-1698fb430883",
+      "node_type": "Clause",
+      "publisher": "finlex",
+      "title": "§ 18 mom 3",
+      "text": "3) sähkölaitteeseen on kiinnitetty CE-merkintä;",
+      "clause_number": 3,
+      "section_number": "18",
+      "statute_id": "917/2014"
+    },
+    {
+      "id": "b97be9a5-e683-4ef6-8eae-47916c79cd38",
+      "node_type": "Clause",
+      "publisher": "finlex",
+      "title": "§ 18 mom 4",
+      "text": "4) sähkölaitteen mukana on vaaditut asiakirjat;",
+      "clause_number": 4,
+      "section_number": "18",
+      "statute_id": "917/2014"
+    },
+    {
+      "id": "3bea9bcc-85a2-4cf5-8483-a64b12027603",
+      "node_type": "Clause",
+      "publisher": "finlex",
+      "title": "§ 18 mom 3",
+      "text": "5) sähkölaitteessa on 16 §:n 2 ja 3 momentissa tarkoitetut merkinnät ja yhteystiedot;",
+      "clause_number": 3,
+      "section_number": "18",
+      "statute_id": "917/2014"
+    },
+    {
+      "id": "65edc04d-a31a-4818-9b9e-f29d0cb7da49",
+      "node_type": "Clause",
+      "publisher": "finlex",
+      "title": "§ 18 mom 5",
+      "text": "5) sähkölaitteessa on 16 §:n 2 ja 3 momentissa tarkoitetut merkinnät ja yhteystiedot;",
+      "clause_number": 5,
+      "section_number": "18",
+      "statute_id": "917/2014"
+    },
+    {
+      "id": "ff1fb250-8c7d-476b-8fb1-be31f506f03a",
+      "node_type": "Clause",
+      "publisher": "finlex",
+      "title": "§ 18 mom 4",
+      "text": "6) sähkölaitteeseen liitetään 16 §:n 4 momentin mukaiset turvallisuustiedot ja ohjeet.",
+      "clause_number": 4,
+      "section_number": "18",
+      "statute_id": "917/2014"
+    },
+    {
+      "id": "c76003af-e054-492f-9dae-cbece1c5ac8a",
+      "node_type": "Clause",
+      "publisher": "finlex",
+      "title": "§ 18 mom 6",
+      "text": "6) sähkölaitteeseen liitetään 16 §:n 4 momentin mukaiset turvallisuustiedot ja ohjeet.",
+      "clause_number": 6,
+      "section_number": "18",
+      "statute_id": "917/2014"
+    },
+    {
+      "id": "4811149d-cd02-409a-b335-6e8993accced",
+      "node_type": "Clause",
+      "publisher": "finlex",
+      "title": "§ 21 mom 1",
+      "text": "1) sähkölaitteeseen on kiinnitetty CE-merkintä;",
+      "clause_number": 1,
+      "section_number": "21",
+      "statute_id": "917/2014"
+    },
+    {
+      "id": "bfce4969-c02d-4379-8d1a-c4436ff429a5",
+      "node_type": "Clause",
+      "publisher": "finlex",
+      "title": "§ 21 mom 2",
+      "text": "2) sähkölaitteen mukana on vaaditut asiakirjat;",
+      "clause_number": 2,
+      "section_number": "21",
+      "statute_id": "917/2014"
+    },
+    {
+      "id": "4517140f-01fb-4eee-9007-87987ff676b6",
+      "node_type": "Clause",
+      "publisher": "finlex",
+      "title": "§ 21 mom 3",
+      "text": "3) sähkölaitteessa on 16 §:n 2 ja 3 momentissa ja 19 §:ssä tarkoitetut merkinnät ja yhteystiedot;",
+      "clause_number": 3,
+      "section_number": "21",
+      "statute_id": "917/2014"
+    },
+    {
+      "id": "68624c66-aff6-4ecd-b589-b15e5123cf58",
+      "node_type": "Clause",
+      "publisher": "finlex",
+      "title": "§ 21 mom 3",
+      "text": "3) sähkölaitteessa on 16 §:n 2 ja 3 momentissa ja 19 §:ssä tarkoitetut merkinnät ja yhteystiedot;",
+      "clause_number": 3,
+      "section_number": "21",
+      "statute_id": "917/2014"
+    },
+    {
+      "id": "8a9e859c-c6ab-4c3e-ad93-2567fad439aa",
+      "node_type": "Clause",
+      "publisher": "finlex",
+      "title": "§ 21 mom 4",
+      "text": "4) sähkölaitteeseen on liitetty 16 §:n 4 momentin mukaiset turvallisuustiedot ja ohjeet.",
+      "clause_number": 4,
+      "section_number": "21",
+      "statute_id": "917/2014"
+    },
+    {
+      "id": "7761a491-f013-468f-b086-d95cd863189f",
+      "node_type": "Clause",
+      "publisher": "finlex",
+      "title": "§ 21 mom 4",
+      "text": "4) sähkölaitteeseen on liitetty 16 §:n 4 momentin mukaiset turvallisuustiedot ja ohjeet.",
+      "clause_number": 4,
+      "section_number": "21",
+      "statute_id": "917/2014"
+    },
+    {
+      "id": "05544c01-de7b-4d8a-ae31-d8bace805821",
+      "node_type": "Clause",
+      "publisher": "finlex",
+      "title": "§ 37 mom 1",
+      "text": "1) ne voivat aiheuttaa tai lisätä sähkömagneettisia päästöjä, jotka ylittävät tason, jolla radio- ja televiestintälaitteet ja muut laitteet voivat toimia tarkoitetulla tavalla; tai",
+      "clause_number": 1,
+      "section_number": "37",
+      "statute_id": "917/2014"
+    },
+    {
+      "id": "74ed9687-685f-490d-a31c-46e389c7f5d6",
+      "node_type": "Clause",
+      "publisher": "finlex",
+      "title": "§ 37 mom 2",
+      "text": "2) niiden toiminta voi heikentyä kohtuuttomasti niiden altistuessa tarkoitetun käytön seurauksena tavanomaisesti esiintyville sähkömagneettisille häiriöille.",
+      "clause_number": 2,
+      "section_number": "37",
+      "statute_id": "917/2014"
+    },
+    {
+      "id": "7e531c8a-16e1-4954-a637-7785e2545e51",
+      "node_type": "Clause",
+      "publisher": "finlex",
+      "title": "§ 41 mom 1",
+      "text": "1) määrätyssä kohteessa ilmenee tai on perustellusti odotettavissa ilmenevän sähkömagneettista yhteensopivuutta koskeva ongelma, joka on ratkaistava; tai",
+      "clause_number": 1,
+      "section_number": "41",
+      "statute_id": "917/2014"
+    },
+    {
+      "id": "f7bb30b4-007a-4114-b8e7-a272a4b95e49",
+      "node_type": "Clause",
+      "publisher": "finlex",
+      "title": "§ 41 mom 2",
+      "text": "2) se on tarpeen turvallisuussyistä yleisen viestintäverkon tai vastaanotto- tai lähetysaseman suojaamiseksi, kun laitteistoa käytetään turvallisuuden parantamiseen tarkoin määritellyillä taajuusalueilla.",
+      "clause_number": 2,
+      "section_number": "41",
+      "statute_id": "917/2014"
+    },
+    {
+      "id": "4a633d29-3e36-490e-aeb8-70793afdb60c",
+      "node_type": "Clause",
+      "publisher": "finlex",
+      "title": "§ 44 mom 1",
+      "text": "1) luokan 1 sähkölaitteisto:",
+      "clause_number": 1,
+      "section_number": "44",
+      "statute_id": "917/2014"
+    },
+    {
+      "id": "2ed5a4a4-d60f-43f7-ab45-65332eced1b2",
+      "node_type": "Clause",
+      "publisher": "finlex",
+      "title": "§ 44 mom 2",
+      "text": "2) luokan 2 sähkölaitteisto:",
+      "clause_number": 2,
+      "section_number": "44",
+      "statute_id": "917/2014"
+    },
+    {
+      "id": "6aab205a-f78a-41cf-9fec-f227d028f7b0",
+      "node_type": "Clause",
+      "publisher": "finlex",
+      "title": "§ 44 mom 3",
+      "text": "3) luokan 3 sähkölaitteisto:",
+      "clause_number": 3,
+      "section_number": "44",
+      "statute_id": "917/2014"
+    },
+    {
+      "id": "8da5dd20-5c0f-4f75-92f7-7e3d2d5bfcee",
+      "node_type": "Clause",
+      "publisher": "finlex",
+      "title": "§ 50 mom 1",
+      "text": "1) sähkölaitteiston käyttö on turvallista, kunnossapito on riittävää turvallisuuden ylläpitämiseksi ja laitteistolle on tehty kunnossapito-ohjelman mukaiset toimenpiteet;",
+      "clause_number": 1,
+      "section_number": "50",
+      "statute_id": "917/2014"
+    },
+    {
+      "id": "501ba1fc-e937-4e18-b345-c32a696a8b90",
+      "node_type": "Clause",
+      "publisher": "finlex",
+      "title": "§ 50 mom 2",
+      "text": "2) sähkölaitteiston käyttöön ja hoitoon tarvittavat välineet, piirustukset, kaaviot ja ohjeet ovat käytettävissä;",
+      "clause_number": 2,
+      "section_number": "50",
+      "statute_id": "917/2014"
+    },
+    {
+      "id": "f23f20fe-9fef-45ce-af6c-3f256509a025",
+      "node_type": "Clause",
+      "publisher": "finlex",
+      "title": "§ 50 mom 3",
+      "text": "3) sähkölaitteiston laajennus- ja muutostöistä on asianmukaiset tarkastuspöytäkirjat.",
+      "clause_number": 3,
+      "section_number": "50",
+      "statute_id": "917/2014"
+    },
+    {
+      "id": "999c3f1e-e773-442e-8a87-bcfc01337b81",
+      "node_type": "Clause",
+      "publisher": "finlex",
+      "title": "§ 55 mom 1",
+      "text": "1) \n                                        töitä johtamaan on nimetty henkilö, jolla on riittävä kelpoisuus (sähkötöiden johtaja);",
+      "clause_number": 1,
+      "section_number": "55",
+      "statute_id": "917/2014"
+    },
+    {
+      "id": "e10d1faa-c5a2-4774-8e82-7839b0d49730",
+      "node_type": "Clause",
+      "publisher": "finlex",
+      "title": "§ 55 mom 2",
+      "text": "2) itsenäisesti töitä suorittavalla ja valvovalla henkilöllä on riittävä kelpoisuus tai muuten riittävä ammattitaito;",
+      "clause_number": 2,
+      "section_number": "55",
+      "statute_id": "917/2014"
+    },
+    {
+      "id": "43b79abc-d96e-4a47-a019-0b3a06fa4f8b",
+      "node_type": "Clause",
+      "publisher": "finlex",
+      "title": "§ 55 mom 3",
+      "text": "3) toiminnanharjoittajan käytössä on töiden tekemisen kannalta tarpeelliset työvälineet sekä sähköturvallisuutta koskevat säännökset;",
+      "clause_number": 3,
+      "section_number": "55",
+      "statute_id": "917/2014"
+    },
+    {
+      "id": "84c32a31-4d0d-4a4a-9915-6efc3885430e",
+      "node_type": "Clause",
+      "publisher": "finlex",
+      "title": "§ 55 mom 4",
+      "text": "4) toiminnasta on tehty ilmoitus sähköturvallisuusviranomaiselle ennen kuin sähkötöitä koskeva toiminta aloitetaan.",
+      "clause_number": 4,
+      "section_number": "55",
+      "statute_id": "917/2014"
+    },
+    {
+      "id": "f6530c87-701d-45b8-a496-a71176e7ba95",
+      "node_type": "Clause",
+      "publisher": "finlex",
+      "title": "§ 56 mom 1",
+      "text": "1) tieliikennekäyttöön soveltuvan sähköajoneuvon voimajärjestelmän sähkötöissä, jos henkilö on riittävästi perehtynyt tai perehdytetty kyseisen ajoneuvomallin sähköjärjestelmään ja sähkön vaaroihin;",
+      "clause_number": 1,
+      "section_number": "56",
+      "statute_id": "917/2014"
+    },
+    {
+      "id": "c41c3c21-766c-45ea-9a5c-3d99a7ffed9d",
+      "node_type": "Clause",
+      "publisher": "finlex",
+      "title": "§ 56 mom 2",
+      "text": "2) maakaapelien asentamiseen liittyvässä osatyösuorituksessa, joka käsittää vain kaapelin laskemisen kaapeliojaan ja sen peittämisen tai aurauksen, jos työn tekijä täyttää 73 §:ssä säädetyt vaatimukset ja työtä ohjaa ja valvoo 55 §:ssä säädetyt edellytykset täyttävä toiminnanharjoittaja, joka myös vastaa maakaapeliasennuksen kokonaisuudesta;",
+      "clause_number": 2,
+      "section_number": "56",
+      "statute_id": "917/2014"
+    },
+    {
+      "id": "0b11dce2-a62a-4043-8b8d-25d7b58e5509",
+      "node_type": "Clause",
+      "publisher": "finlex",
+      "title": "§ 56 mom 3",
+      "text": "3) sellaisessa vähäisessä kertaluonteisessa sähkötyössä, jonka tekijällä on 66–71 §:ssä tarkoitettu kyseisen työn tekemiseen oikeuttava pätevyystodistus;",
+      "clause_number": 3,
+      "section_number": "56",
+      "statute_id": "917/2014"
+    },
+    {
+      "id": "a13d279d-020e-40b9-8d8a-c8a62b3aa225",
+      "node_type": "Clause",
+      "publisher": "finlex",
+      "title": "§ 56 mom 4",
+      "text": "4) tilapäisen sähkölaitteiston rakentamisessa opetustarkoituksessa, jos työ tehdään sähköalan oppilaitosten laboratoriotiloissa ja työtä ohjaa ja valvoo 73 §:ssä tarkoitettu sähköalan ammattihenkilö;",
+      "clause_number": 4,
+      "section_number": "56",
+      "statute_id": "917/2014"
+    },
+    {
+      "id": "11a9534f-4b10-433a-9aed-06a08a5363fb",
+      "node_type": "Clause",
+      "publisher": "finlex",
+      "title": "§ 56 mom 5",
+      "text": "5) sähkötyössä, jonka tekee 73 §:ssä tarkoitettu sähköalan ammattihenkilö ja joka kohdistuu tämän omassa tai lähisukulaisen hallinnassa olevan asunnon tai asuinrakennuksen sähkölaitteistoon; tällaisella ammattihenkilöllä tulee olla kelpoisuudestaan pätevyyden arviointilaitoksen antama todistus ja tällaiselle työlle tulee teettää varmennustarkastus vähäisiä töitä lukuun ottamatta.",
+      "clause_number": 5,
+      "section_number": "56",
+      "statute_id": "917/2014"
+    },
+    {
+      "id": "59378b54-c191-4c42-94f2-514a3e7d7b1a",
+      "node_type": "Clause",
+      "publisher": "finlex",
+      "title": "§ 56 mom 1",
+      "text": "1) enintään 250 voltin nimellisjännitteisten asennusrasioiden peitekansien irrotus ja kiinnitys, yksivaiheisten pistotulppien, liitosjohtojen, jatkojohtojen ja sisustusvalaisimien asennus-, korjaus- ja huoltotyöt sekä näihin rinnastettavat työt;",
+      "clause_number": 1,
+      "section_number": "56",
+      "statute_id": "917/2014"
+    },
+    {
+      "id": "c43d8655-c3b5-4b18-9b89-aa4793fefe7c",
+      "node_type": "Clause",
+      "publisher": "finlex",
+      "title": "§ 56 mom 2",
+      "text": "2) nimellisjännitteeltään enintään 50 voltin vaihtojännitteisiin tai 120 voltin tasajännitteisiin laitteistoihin kohdistuvat sähkötyöt;",
+      "clause_number": 2,
+      "section_number": "56",
+      "statute_id": "917/2014"
+    },
+    {
+      "id": "2c91341a-90d4-4fe9-a7f6-aec7eb6733be",
+      "node_type": "Clause",
+      "publisher": "finlex",
+      "title": "§ 56 mom 3",
+      "text": "3) omaan käyttöön rakennettujen sähkölaitteiden korjaaminen, jos tämä liittyy sähköalan harrastustoimintaan.",
+      "clause_number": 3,
+      "section_number": "56",
+      "statute_id": "917/2014"
+    },
+    {
+      "id": "439aa909-84ea-493c-811f-0a5575b08455",
+      "node_type": "Clause",
+      "publisher": "finlex",
+      "title": "§ 59 mom 1",
+      "text": "1) sähkötöissä noudatetaan tätä lakia;",
+      "clause_number": 1,
+      "section_number": "59",
+      "statute_id": "917/2014"
+    },
+    {
+      "id": "218afbdb-7a04-4bd7-9dd5-3c8231fcc64d",
+      "node_type": "Clause",
+      "publisher": "finlex",
+      "title": "§ 59 mom 2",
+      "text": "2) sähkölaitteet ja -laitteistot ovat tämän lain edellyttämässä kunnossa ennen käyttöönottoa tai toiselle luovuttamista;",
+      "clause_number": 2,
+      "section_number": "59",
+      "statute_id": "917/2014"
+    },
+    {
+      "id": "375e4eb7-4ad8-4ab3-aeef-31bfcc9310d9",
+      "node_type": "Clause",
+      "publisher": "finlex",
+      "title": "§ 59 mom 3",
+      "text": "3) sähkötöitä tekevät henkilöt ovat ammattitaitoisia ja riittävästi tehtäviinsä opastettuja.",
+      "clause_number": 3,
+      "section_number": "59",
+      "statute_id": "917/2014"
+    },
+    {
+      "id": "685ee63c-db38-4fd0-9067-0aef19df8def",
+      "node_type": "Clause",
+      "publisher": "finlex",
+      "title": "§ 60 mom 1",
+      "text": "1) sähkölaitteistoon kuuluu yli 1 000 voltin nimellisjännitteisiä osia, lukuun ottamatta enintään 1 000 voltin nimellisjännitteellä syötettyjä yli 1 000 voltin sähkölaitteita tai niihin verrattavia laitteistoja; tai",
+      "clause_number": 1,
+      "section_number": "60",
+      "statute_id": "917/2014"
+    },
+    {
+      "id": "1cc42d20-90bd-41f5-bbf0-66addb02b63f",
+      "node_type": "Clause",
+      "publisher": "finlex",
+      "title": "§ 60 mom 2",
+      "text": "2) sähkölaitteiston liittymisteho, jolla tarkoitetaan sähkölaitteiston haltijan kiinteistölle tai yhtenäiselle kiinteistöryhmälle rakennettujen liittymien liittymistehojen summaa, on yli 1 600 kilovolttiampeeria.",
+      "clause_number": 2,
+      "section_number": "60",
+      "statute_id": "917/2014"
+    },
+    {
+      "id": "c5f1f0f4-333f-49ca-ac58-c35ce4caf290",
+      "node_type": "Clause",
+      "publisher": "finlex",
+      "title": "§ 62 mom 1",
+      "text": "1) sähkölaitteiston käytössä ja huollossa noudatetaan tätä lakia;",
+      "clause_number": 1,
+      "section_number": "62",
+      "statute_id": "917/2014"
+    },
+    {
+      "id": "75720e50-0b2c-461a-8d20-059e239acfbd",
+      "node_type": "Clause",
+      "publisher": "finlex",
+      "title": "§ 62 mom 2",
+      "text": "2) sähkölaitteisto on tämän lain edellyttämässä kunnossa käytön aikana;",
+      "clause_number": 2,
+      "section_number": "62",
+      "statute_id": "917/2014"
+    },
+    {
+      "id": "e5a6a2fc-dc84-4c03-8cda-17eaa150c3c2",
+      "node_type": "Clause",
+      "publisher": "finlex",
+      "title": "§ 62 mom 3",
+      "text": "3) käyttötöitä tekevät henkilöt ovat ammattitaitoisia ja riittävästi tehtäviinsä opastettuja.",
+      "clause_number": 3,
+      "section_number": "62",
+      "statute_id": "917/2014"
+    },
+    {
+      "id": "73a2fec0-b72c-45e5-b45e-857a6049a73a",
+      "node_type": "Clause",
+      "publisher": "finlex",
+      "title": "§ 66 mom 1",
+      "text": "1) soveltuva tekniikan alan korkeakoulututkinto, sähkövoima-alan insinöörin tai sähkövoima-alan teknikon tutkinto tai vastaava tutkinto; ja",
+      "clause_number": 1,
+      "section_number": "66",
+      "statute_id": "917/2014"
+    },
+    {
+      "id": "8a5c6253-f205-4866-a4f3-797438b8a1b4",
+      "node_type": "Clause",
+      "publisher": "finlex",
+      "title": "§ 66 mom 2",
+      "text": "2) tutkinnon suorittamisen jälkeen vähintään kahden vuoden riittävän laaja-alainen sähkölaitteistojen rakentamiseen perehdyttävä työkokemus, josta vähintään vuosi on saatu yli 1 000 voltin vaihtojännitteisten tai yli 1 500 voltin tasajännitteisten sähkölaitteistojen rakentamiseen tai käytön johtamiseen perehdyttävissä tehtävissä.",
+      "clause_number": 2,
+      "section_number": "66",
+      "statute_id": "917/2014"
+    },
+    {
+      "id": "896ca334-0e05-433a-836f-945fd009e89d",
+      "node_type": "Clause",
+      "publisher": "finlex",
+      "title": "§ 67 mom 1",
+      "text": "1) soveltuva sähköyliasentajan erikoisammattitutkinto tai soveltuva sähköverkkoalan erikoisammattitutkinto tai vastaava tutkinto; ja",
+      "clause_number": 1,
+      "section_number": "67",
+      "statute_id": "917/2014"
+    },
+    {
+      "id": "b99e2329-4edf-45cd-b587-2ab0e1ec9c52",
+      "node_type": "Clause",
+      "publisher": "finlex",
+      "title": "§ 67 mom 2",
+      "text": "2) tutkinnon suorittamisen jälkeen vähintään kuuden vuoden riittävän laaja-alainen sähkölaitteistojen rakentamiseen perehdyttävä työkokemus, josta vähintään kaksi vuotta on saatu yli 1 000 voltin vaihtojännitteisten tai yli 1 500 voltin tasajännitteisten sähkölaitteistojen rakentamiseen tai käytön johtamiseen perehdyttävissä tehtävissä.",
+      "clause_number": 2,
+      "section_number": "67",
+      "statute_id": "917/2014"
+    },
+    {
+      "id": "b973d9f0-9a92-411d-aed6-1c0599bb83f3",
+      "node_type": "Clause",
+      "publisher": "finlex",
+      "title": "§ 68 mom 1",
+      "text": "1) soveltuva tekniikan alan korkeakoulututkinto, sähkövoima-alan insinöörin tai sähkövoima-alan teknikon tutkinto tai vastaava tutkinto ja tutkinnon suorittamisen jälkeen vähintään kahden vuoden työkokemus; taikka",
+      "clause_number": 1,
+      "section_number": "68",
+      "statute_id": "917/2014"
+    },
+    {
+      "id": "03ba9f25-42a8-4db5-8053-d17aa6f63d29",
+      "node_type": "Clause",
+      "publisher": "finlex",
+      "title": "§ 68 mom 2",
+      "text": "2) soveltuva perustutkinto, ammattitutkinto, erikoisammattitutkinto tai vastaava aiempi koulutus tai tutkinto ja tämän suorittamisen jälkeen vähintään kolmen vuoden työkokemus.",
+      "clause_number": 2,
+      "section_number": "68",
+      "statute_id": "917/2014"
+    },
+    {
+      "id": "afd272bd-7c72-47fb-8da0-f02658d42a0b",
+      "node_type": "Clause",
+      "publisher": "finlex",
+      "title": "§ 73 mom 1",
+      "text": "1) suorittanut soveltuvan tekniikan alan korkeakoulututkinnon ja hankkinut kuuden kuukauden työkokemuksen sähkötöissä;",
+      "clause_number": 1,
+      "section_number": "73",
+      "statute_id": "917/2014"
+    },
+    {
+      "id": "5178f1ce-6a6d-4fea-a42b-a1150f5d5bed",
+      "node_type": "Clause",
+      "publisher": "finlex",
+      "title": "§ 73 mom 2",
+      "text": "2) suorittanut soveltuvan sähköalan insinöörin tai teknikon tutkinnon ja hankkinut kuuden kuukauden työkokemuksen sähkötöissä;",
+      "clause_number": 2,
+      "section_number": "73",
+      "statute_id": "917/2014"
+    },
+    {
+      "id": "fbb08613-163f-4fc8-aac2-1c7a174625de",
+      "node_type": "Clause",
+      "publisher": "finlex",
+      "title": "§ 73 mom 3",
+      "text": "3) suorittanut soveltuvan ammattitutkinnon, erikoisammattitutkinnon tai vastaavan aiemman koulutuksen tai tutkinnon ja hankkinut kuuden kuukauden työkokemuksen sähkötöissä;",
+      "clause_number": 3,
+      "section_number": "73",
+      "statute_id": "917/2014"
+    },
+    {
+      "id": "97c97320-cd61-4f2c-aa32-0cd74bc299a1",
+      "node_type": "Clause",
+      "publisher": "finlex",
+      "title": "§ 73 mom 4",
+      "text": "4) suorittanut soveltuvan ammatillisen perustutkinnon tai vastaavan aiemman koulutuksen tai tutkinnon ja hankkinut vuoden työkokemuksen sähkötöissä; tai",
+      "clause_number": 4,
+      "section_number": "73",
+      "statute_id": "917/2014"
+    },
+    {
+      "id": "0e1c103d-0725-48e7-8ded-477d58a80cf5",
+      "node_type": "Clause",
+      "publisher": "finlex",
+      "title": "§ 73 mom 5",
+      "text": "5) hankkinut kuuden vuoden työkokemuksen sähkötöissä ja riittävät alan perustiedot.",
+      "clause_number": 5,
+      "section_number": "73",
+      "statute_id": "917/2014"
+    },
+    {
+      "id": "205dcaca-8b29-4a8d-84d1-7a666cf69f7d",
+      "node_type": "Clause",
+      "publisher": "finlex",
+      "title": "§ 77 mom 1",
+      "text": "1) laitos on pätevyydenarviointilaitoksen ja valtuutetun laitoksen tehtäviä koskevassa toiminnassaan riippumaton ja puolueeton;",
+      "clause_number": 1,
+      "section_number": "77",
+      "statute_id": "917/2014"
+    },
+    {
+      "id": "5434e253-7886-43a7-b2ea-bd10593a644b",
+      "node_type": "Clause",
+      "publisher": "finlex",
+      "title": "§ 77 mom 2",
+      "text": "2) laitoksella on käytössään riittävästi ammattitaitoista henkilöstöä, jolla on hyvä tekninen ja ammatillinen koulutus sekä riittävän laaja-alainen kokemus toimintaan perehdyttävissä tehtävissä;",
+      "clause_number": 2,
+      "section_number": "77",
+      "statute_id": "917/2014"
+    },
+    {
+      "id": "4405fdc9-f41d-4298-9bc3-e11f17152527",
+      "node_type": "Clause",
+      "publisher": "finlex",
+      "title": "§ 77 mom 3",
+      "text": "3) laitoksen tarkastuksista vastaavalla henkilöllä on pätevyystodistus, joka oikeuttaisi toimimaan tarkastettavan sähkölaitteiston rakentajan sähkötöiden johtajana, ja laitoksen tarkastajat täyttävät 73 §:ssä säädetyt itsenäisen työskentelyn edellytykset;",
+      "clause_number": 3,
+      "section_number": "77",
+      "statute_id": "917/2014"
+    },
+    {
+      "id": "8a01203a-db0f-4b27-af4e-da99c3416186",
+      "node_type": "Clause",
+      "publisher": "finlex",
+      "title": "§ 77 mom 4",
+      "text": "4) laitoksella on käytössään toiminnan edellyttämät laitteet, välineet ja järjestelmät;",
+      "clause_number": 4,
+      "section_number": "77",
+      "statute_id": "917/2014"
+    },
+    {
+      "id": "869aaa27-a555-4d5d-b115-24aee5c4081b",
+      "node_type": "Clause",
+      "publisher": "finlex",
+      "title": "§ 77 mom 5",
+      "text": "5) laitoksella on puolueettomasti arvioitu ja valvottu järjestelmä, jolla toiminnan laatu varmistetaan sähköturvallisuuden osalta, sekä asianmukaiset ohjeet toimintaa ja sen seurantaa varten;",
+      "clause_number": 5,
+      "section_number": "77",
+      "statute_id": "917/2014"
+    },
+    {
+      "id": "e0f967a8-5e53-45cc-8258-50baf3bcf229",
+      "node_type": "Clause",
+      "publisher": "finlex",
+      "title": "§ 77 mom 6",
+      "text": "6) laitoksella on toiminnan laajuus ja luonne huomioon ottaen riittävä vastuuvakuutus toiminnasta aiheutuvien vahinkojen korvaamiseksi.",
+      "clause_number": 6,
+      "section_number": "77",
+      "statute_id": "917/2014"
+    },
+    {
+      "id": "6ab094c4-98a6-4abf-8e3f-133a45e77e50",
+      "node_type": "Clause",
+      "publisher": "finlex",
+      "title": "§ 78 mom 1",
+      "text": "1) tarkastaja on tarkastustehtäviä koskevassa toiminnassaan riippumaton ja puolueeton;",
+      "clause_number": 1,
+      "section_number": "78",
+      "statute_id": "917/2014"
+    },
+    {
+      "id": "399307ec-b29b-4d1a-8cee-6f10165e60c9",
+      "node_type": "Clause",
+      "publisher": "finlex",
+      "title": "§ 78 mom 2",
+      "text": "2) tarkastajalla on riittävä ammattitaito ja kokemus sekä pätevyystodistus, joka oikeuttaisi toimimaan tarkastettavan sähkölaitteiston rakentajan sähkötöiden johtajana;",
+      "clause_number": 2,
+      "section_number": "78",
+      "statute_id": "917/2014"
+    },
+    {
+      "id": "ad4cd58a-804f-44f9-bd32-b4610d11b030",
+      "node_type": "Clause",
+      "publisher": "finlex",
+      "title": "§ 78 mom 3",
+      "text": "3) tarkastajalla on käytössään toiminnan edellyttämät laitteet, välineet ja järjestelmät;",
+      "clause_number": 3,
+      "section_number": "78",
+      "statute_id": "917/2014"
+    },
+    {
+      "id": "057518ab-c2a0-4578-9847-76bc879edac0",
+      "node_type": "Clause",
+      "publisher": "finlex",
+      "title": "§ 78 mom 4",
+      "text": "4) tarkastaja osoittaa luotettavasti, miten hän varmistaa toimintansa laadun sähköturvallisuuden osalta;",
+      "clause_number": 4,
+      "section_number": "78",
+      "statute_id": "917/2014"
+    },
+    {
+      "id": "2f095ef4-d09f-4883-8558-f585364193a4",
+      "node_type": "Clause",
+      "publisher": "finlex",
+      "title": "§ 78 mom 5",
+      "text": "5) tarkastajalla on toiminnan laajuus ja luonne huomioon ottaen riittävä vastuuvakuutus toiminnasta aiheutuvien vahinkojen korvaamiseksi.",
+      "clause_number": 5,
+      "section_number": "78",
+      "statute_id": "917/2014"
+    },
+    {
+      "id": "20724f3c-13ca-4da7-a7bc-1974c9b0d3d6",
+      "node_type": "Clause",
+      "publisher": "finlex",
+      "title": "§ 86 mom 1",
+      "text": "1) luonnollisen henkilön nimi, henkilötunnus, toiminimi, mahdollinen aputoiminimi, yritys- ja yhteisötunnus, sen toimipaikan osoite, jossa toimintaa harjoitetaan ja muut yhteystiedot;",
+      "clause_number": 1,
+      "section_number": "86",
+      "statute_id": "917/2014"
+    },
+    {
+      "id": "63738376-56a0-4d93-8039-c559001fa5d6",
+      "node_type": "Clause",
+      "publisher": "finlex",
+      "title": "§ 86 mom 2",
+      "text": "2) oikeushenkilön toiminimi, mahdollinen aputoiminimi, yritys- ja yhteisötunnus ja sen toimipaikan osoite, jossa toimintaa harjoitetaan ja muut yhteystiedot;",
+      "clause_number": 2,
+      "section_number": "86",
+      "statute_id": "917/2014"
+    },
+    {
+      "id": "1fbaba88-9253-42e3-b501-27bd1fa7225e",
+      "node_type": "Clause",
+      "publisher": "finlex",
+      "title": "§ 86 mom 3",
+      "text": "3) sähkötöiden johtajan nimi, henkilötunnus ja muut yhteystiedot;",
+      "clause_number": 3,
+      "section_number": "86",
+      "statute_id": "917/2014"
+    },
+    {
+      "id": "2ac96569-ce85-496a-8419-4bfd92865a0e",
+      "node_type": "Clause",
+      "publisher": "finlex",
+      "title": "§ 86 mom 4",
+      "text": "4) rekisteröintitunnus;",
+      "clause_number": 4,
+      "section_number": "86",
+      "statute_id": "917/2014"
+    },
+    {
+      "id": "0c91d356-40f8-4566-8c54-b8ff56d3abc0",
+      "node_type": "Clause",
+      "publisher": "finlex",
+      "title": "§ 86 mom 5",
+      "text": "5) toiminnanharjoittajalle ja sähkötöiden johtajalle 95 §:n nojalla määrätyt seuraamukset.",
+      "clause_number": 5,
+      "section_number": "86",
+      "statute_id": "917/2014"
+    },
+    {
+      "id": "586cb4ec-7601-46f5-bb94-0f54c3416786",
+      "node_type": "Clause",
+      "publisher": "finlex",
+      "title": "§ 86 mom 1",
+      "text": "1) luonnollisen henkilön nimi, henkilötunnus, toiminimi, mahdollinen aputoiminimi, yritys- ja yhteisötunnus, sen toimipaikan osoite, jossa toimintaa harjoitetaan ja muut yhteystiedot;",
+      "clause_number": 1,
+      "section_number": "86",
+      "statute_id": "917/2014"
+    },
+    {
+      "id": "0eca6e85-b035-4a44-89b7-0b5af09c80df",
+      "node_type": "Clause",
+      "publisher": "finlex",
+      "title": "§ 86 mom 2",
+      "text": "2) valtuutuksen laajuus;",
+      "clause_number": 2,
+      "section_number": "86",
+      "statute_id": "917/2014"
+    },
+    {
+      "id": "0c689961-9325-4c34-bfff-56c45ead9a69",
+      "node_type": "Clause",
+      "publisher": "finlex",
+      "title": "§ 86 mom 3",
+      "text": "3) rekisteröintitunnus;",
+      "clause_number": 3,
+      "section_number": "86",
+      "statute_id": "917/2014"
+    },
+    {
+      "id": "84f520e9-5193-406a-b179-9a324707547b",
+      "node_type": "Clause",
+      "publisher": "finlex",
+      "title": "§ 86 mom 4",
+      "text": "4) valtuutetun tarkastajan hyväksymisen peruuttaminen.",
+      "clause_number": 4,
+      "section_number": "86",
+      "statute_id": "917/2014"
+    },
+    {
+      "id": "e3376558-b3c4-4f18-97b4-69134c6009bd",
+      "node_type": "Clause",
+      "publisher": "finlex",
+      "title": "§ 86 mom 1",
+      "text": "1) toiminimi, mahdollinen aputoiminimi, yritys- ja yhteisötunnus ja sen toimipaikan osoite, jossa toimintaa harjoitetaan ja muut yhteystiedot;",
+      "clause_number": 1,
+      "section_number": "86",
+      "statute_id": "917/2014"
+    },
+    {
+      "id": "a2e0fee2-a1f6-44d2-9c45-552e65ab841c",
+      "node_type": "Clause",
+      "publisher": "finlex",
+      "title": "§ 86 mom 2",
+      "text": "2) valtuutuksen laajuus;",
+      "clause_number": 2,
+      "section_number": "86",
+      "statute_id": "917/2014"
+    },
+    {
+      "id": "8b50f679-e4e1-474e-9d43-a0cf51b64601",
+      "node_type": "Clause",
+      "publisher": "finlex",
+      "title": "§ 86 mom 3",
+      "text": "3) rekisteröintitunnus;",
+      "clause_number": 3,
+      "section_number": "86",
+      "statute_id": "917/2014"
+    },
+    {
+      "id": "aac07448-05bb-43ba-b95b-7880e80ebaf8",
+      "node_type": "Clause",
+      "publisher": "finlex",
+      "title": "§ 86 mom 4",
+      "text": "4) laitoksen hyväksymisen peruuttaminen;",
+      "clause_number": 4,
+      "section_number": "86",
+      "statute_id": "917/2014"
+    },
+    {
+      "id": "f361ea0c-bed6-458f-84e5-e016b29b0dfb",
+      "node_type": "Clause",
+      "publisher": "finlex",
+      "title": "§ 86 mom 5",
+      "text": "5) laitoksen alihankkijan nimi, henkilötunnus, toiminimi, mahdollinen aputoiminimi, yritys- ja yhteisötunnus, pätevyysalue, sen toimipaikan osoite, jossa toimintaa harjoitetaan ja muut yhteystiedot.",
+      "clause_number": 5,
+      "section_number": "86",
+      "statute_id": "917/2014"
+    },
+    {
+      "id": "4237b228-ca54-43d2-8ce4-2f4759ce3ad5",
+      "node_type": "Clause",
+      "publisher": "finlex",
+      "title": "§ 90 mom 1",
+      "text": "1) syyttäjälle syyteharkintaa varten ja poliisille ja muulle esitutkintaviranomaiselle rikoksen ehkäisemiseksi tai selvittämiseksi;",
+      "clause_number": 1,
+      "section_number": "90",
+      "statute_id": "917/2014"
+    },
+    {
+      "id": "3eb5aa5d-1cd8-4e84-afd1-26cc4ca4771a",
+      "node_type": "Clause",
+      "publisher": "finlex",
+      "title": "§ 90 mom 2",
+      "text": "2) pelastusviranomaiselle sekä työsuojelu-, ympäristönsuojelu- ja kuluttajansuojaviranomaiselle, jos tiedon luovuttaminen on viranomaisen tehtävien suorittamisen kannalta välttämätöntä;",
+      "clause_number": 2,
+      "section_number": "90",
+      "statute_id": "917/2014"
+    },
+    {
+      "id": "1a936fee-cb49-4201-b5f4-483eae09b53b",
+      "node_type": "Clause",
+      "publisher": "finlex",
+      "title": "§ 90 mom 3",
+      "text": "3) toimivaltaiselle toisen valtion viranomaiselle ja kansainväliselle toimielimelle Euroopan unionin säädökseen tai Suomea sitovaan kansainväliseen sopimukseen perustuvan velvoitteen täyttämiseksi.",
+      "clause_number": 3,
+      "section_number": "90",
+      "statute_id": "917/2014"
+    },
+    {
+      "id": "a6cc936a-6d8e-40d5-a0e6-70dc8c5749e6",
+      "node_type": "Clause",
+      "publisher": "finlex",
+      "title": "§ 100 mom 1",
+      "text": "1) sähkövahinko on aiheutunut toiselle sähkölaitteelle tai -laitteistolle, jonka nimellisjännite on yli 400 volttia; tai",
+      "clause_number": 1,
+      "section_number": "100",
+      "statute_id": "917/2014"
+    },
+    {
+      "id": "0462a563-fa17-4a8c-8cb8-539bb71a12c8",
+      "node_type": "Clause",
+      "publisher": "finlex",
+      "title": "§ 100 mom 2",
+      "text": "2) sähkövahingon on aiheuttanut sellainen kiinteistön sisäiseen sähköhuoltoon kuuluva sähkölaite tai -laitteisto taikka siihen liitetty sähkölaite tai -laitteisto, jonka nimellisjännite on enintään 400 volttia.",
+      "clause_number": 2,
+      "section_number": "100",
+      "statute_id": "917/2014"
+    },
+    {
+      "id": "40b020f4-d509-4272-9d15-669c6cd15b14",
+      "node_type": "Clause",
+      "publisher": "finlex",
+      "title": "§ 117 mom 1",
+      "text": "1) 7 §:n 1 momentissa säädettyä velvollisuutta saattaa markkinoille ainoastaan 6 §:n vaatimukset täyttäviä sähkölaitteita,",
+      "clause_number": 1,
+      "section_number": "117",
+      "statute_id": "917/2014"
+    },
+    {
+      "id": "a689a5cf-c42f-485a-a9f2-0df26a9d0413",
+      "node_type": "Clause",
+      "publisher": "finlex",
+      "title": "§ 117 mom 1",
+      "text": "1) 7 §:n 1 momentissa säädettyä velvollisuutta saattaa markkinoille ainoastaan 6 §:n vaatimukset täyttäviä sähkölaitteita,",
+      "clause_number": 1,
+      "section_number": "117",
+      "statute_id": "917/2014"
+    },
+    {
+      "id": "f6a6ba85-ed88-43cf-8222-e4c5e62be8ef",
+      "node_type": "Clause",
+      "publisher": "finlex",
+      "title": "§ 117 mom 2",
+      "text": "2) 7 §:n 2 momentissa säädettyä velvollisuutta valmistaa tai tuoda maahan ainoastaan 6 §:n vaatimukset täyttäviä sähkölaitteita,",
+      "clause_number": 2,
+      "section_number": "117",
+      "statute_id": "917/2014"
+    },
+    {
+      "id": "e8f8911d-ce02-4f0f-969b-40ff8659ad5e",
+      "node_type": "Clause",
+      "publisher": "finlex",
+      "title": "§ 117 mom 2",
+      "text": "2) 7 §:n 2 momentissa säädettyä velvollisuutta valmistaa tai tuoda maahan ainoastaan 6 §:n vaatimukset täyttäviä sähkölaitteita,",
+      "clause_number": 2,
+      "section_number": "117",
+      "statute_id": "917/2014"
+    },
+    {
+      "id": "923a8e7a-aa69-4c19-ac16-faa6fa2c901f",
+      "node_type": "Clause",
+      "publisher": "finlex",
+      "title": "§ 117 mom 1",
+      "text": "3) 13 §:n 1 momentissa säädettyä valmistajan velvollisuutta varmistaa, että sähkölaite on suunniteltu ja valmistettu olennaisten turvallisuusvaatimusten ja sähkömagneettista yhteensopivuutta koskevien olennaisten vaatimusten mukaisesti,",
+      "clause_number": 1,
+      "section_number": "117",
+      "statute_id": "917/2014"
+    },
+    {
+      "id": "ff1ee482-91d5-44c7-8e99-1b2380a678a4",
+      "node_type": "Clause",
+      "publisher": "finlex",
+      "title": "§ 117 mom 3",
+      "text": "3) 13 §:n 1 momentissa säädettyä valmistajan velvollisuutta varmistaa, että sähkölaite on suunniteltu ja valmistettu olennaisten turvallisuusvaatimusten ja sähkömagneettista yhteensopivuutta koskevien olennaisten vaatimusten mukaisesti,",
+      "clause_number": 3,
+      "section_number": "117",
+      "statute_id": "917/2014"
+    },
+    {
+      "id": "df0aebc1-5404-44c0-9766-e1d93b4f6d05",
+      "node_type": "Clause",
+      "publisher": "finlex",
+      "title": "§ 117 mom 2",
+      "text": "4) 13 §:n 2 momentissa säädettyä valmistajan velvollisuutta suorittaa sähkölaitteelle soveltuva vaatimustenmukaisuuden arviointimenettely tai laatia sähkölaitteen vaatimustenmukaisuuden osoittamiseksi tekniset asiakirjat,",
+      "clause_number": 2,
+      "section_number": "117",
+      "statute_id": "917/2014"
+    },
+    {
+      "id": "abeefe85-8525-4c50-a697-673b6bb73266",
+      "node_type": "Clause",
+      "publisher": "finlex",
+      "title": "§ 117 mom 4",
+      "text": "4) 13 §:n 2 momentissa säädettyä valmistajan velvollisuutta suorittaa sähkölaitteelle soveltuva vaatimustenmukaisuuden arviointimenettely tai laatia sähkölaitteen vaatimustenmukaisuuden osoittamiseksi tekniset asiakirjat,",
+      "clause_number": 4,
+      "section_number": "117",
+      "statute_id": "917/2014"
+    },
+    {
+      "id": "1ab3a7e0-2ed7-463b-a63a-df7f8949b496",
+      "node_type": "Clause",
+      "publisher": "finlex",
+      "title": "§ 117 mom 3",
+      "text": "5) 13 §:n 3 momentissa säädettyä valmistajan velvollisuutta laatia sähkölaitteelle EU-vaatimustenmukaisuusvakuutus tai kiinnittää sähkölaitteeseen CE-merkintä sähkölaitteeseen,",
+      "clause_number": 3,
+      "section_number": "117",
+      "statute_id": "917/2014"
+    },
+    {
+      "id": "713c22b8-dc43-4400-aafc-9cc36b6f6611",
+      "node_type": "Clause",
+      "publisher": "finlex",
+      "title": "§ 117 mom 5",
+      "text": "5) 13 §:n 3 momentissa säädettyä valmistajan velvollisuutta laatia sähkölaitteelle EU-vaatimustenmukaisuusvakuutus tai kiinnittää sähkölaitteeseen CE-merkintä sähkölaitteeseen,",
+      "clause_number": 5,
+      "section_number": "117",
+      "statute_id": "917/2014"
+    },
+    {
+      "id": "043cedff-cfaf-46bd-96f3-a99f0fee576c",
+      "node_type": "Clause",
+      "publisher": "finlex",
+      "title": "§ 117 mom 1",
+      "text": "6) 14 §:n 1 momentissa säädettyä valmistajan velvollisuutta huolehtia siitä, että sarjatuotannossa valmistettu sähkölaite on vaatimusten mukainen,",
+      "clause_number": 1,
+      "section_number": "117",
+      "statute_id": "917/2014"
+    },
+    {
+      "id": "32e90d8c-c1fc-4294-97f3-bf0ce6aecdc3",
+      "node_type": "Clause",
+      "publisher": "finlex",
+      "title": "§ 117 mom 6",
+      "text": "6) 14 §:n 1 momentissa säädettyä valmistajan velvollisuutta huolehtia siitä, että sarjatuotannossa valmistettu sähkölaite on vaatimusten mukainen,",
+      "clause_number": 6,
+      "section_number": "117",
+      "statute_id": "917/2014"
+    },
+    {
+      "id": "cd3d51ab-34ae-49a4-aefc-a1ea29723b13",
+      "node_type": "Clause",
+      "publisher": "finlex",
+      "title": "§ 117 mom 1",
+      "text": "7) 16 §:n 1 momentissa säädettyä valmistajan velvollisuutta varmistaa, että markkinoille saatettuun sähkölaitteeseen on liitetty vaaditut merkinnät, ohjeet ja turvallisuustiedot,",
+      "clause_number": 1,
+      "section_number": "117",
+      "statute_id": "917/2014"
+    },
+    {
+      "id": "f87e2249-04df-487a-823c-d127875a9668",
+      "node_type": "Clause",
+      "publisher": "finlex",
+      "title": "§ 117 mom 7",
+      "text": "7) 16 §:n 1 momentissa säädettyä valmistajan velvollisuutta varmistaa, että markkinoille saatettuun sähkölaitteeseen on liitetty vaaditut merkinnät, ohjeet ja turvallisuustiedot,",
+      "clause_number": 7,
+      "section_number": "117",
+      "statute_id": "917/2014"
+    },
+    {
+      "id": "8b16b729-fb98-4a9d-8a68-e2a024996a74",
+      "node_type": "Clause",
+      "publisher": "finlex",
+      "title": "§ 117 mom 1",
+      "text": "8) 18 §:n 1 momentissa säädettyä maahantuojan velvollisuutta saattaa markkinoille ainoastaan vaatimukset täyttäviä sähkölaitteita,",
+      "clause_number": 1,
+      "section_number": "117",
+      "statute_id": "917/2014"
+    },
+    {
+      "id": "c3d7c282-de5d-4449-ae7a-3fcb9a15c146",
+      "node_type": "Clause",
+      "publisher": "finlex",
+      "title": "§ 117 mom 8",
+      "text": "8) 18 §:n 1 momentissa säädettyä maahantuojan velvollisuutta saattaa markkinoille ainoastaan vaatimukset täyttäviä sähkölaitteita,",
+      "clause_number": 8,
+      "section_number": "117",
+      "statute_id": "917/2014"
+    },
+    {
+      "id": "d3f2895b-20f7-44ac-99ff-a9a36dfd86b1",
+      "node_type": "Clause",
+      "publisher": "finlex",
+      "title": "§ 117 mom 2",
+      "text": "9) 18 §:n 2 momentissa säädettyä maahantuojan velvollisuutta varmistaa, että valmistaja on suorittanut vaatimustenmukaisuuden arvioinnin, valmistaja on laatinut tekniset asiakirjat, sähkölaitteeseen on kiinnitetty CE-merkintä, sähkölaitteen mukana on vaaditut asiakirjat, sähkölaitteessa on vaaditut merkinnät ja yhteystiedot sekä sähkölaitteeseen liitetään turvallisuustiedot ja ohjeet,",
+      "clause_number": 2,
+      "section_number": "117",
+      "statute_id": "917/2014"
+    },
+    {
+      "id": "a782ee28-b988-415f-a38a-f7e6e3131671",
+      "node_type": "Clause",
+      "publisher": "finlex",
+      "title": "§ 117 mom 9",
+      "text": "9) 18 §:n 2 momentissa säädettyä maahantuojan velvollisuutta varmistaa, että valmistaja on suorittanut vaatimustenmukaisuuden arvioinnin, valmistaja on laatinut tekniset asiakirjat, sähkölaitteeseen on kiinnitetty CE-merkintä, sähkölaitteen mukana on vaaditut asiakirjat, sähkölaitteessa on vaaditut merkinnät ja yhteystiedot sekä sähkölaitteeseen liitetään turvallisuustiedot ja ohjeet,",
+      "clause_number": 9,
+      "section_number": "117",
+      "statute_id": "917/2014"
+    },
+    {
+      "id": "78247295-d870-406e-96a8-abd24d993d02",
+      "node_type": "Clause",
+      "publisher": "finlex",
+      "title": "§ 117 mom 3",
+      "text": "10) 18 §:n 3 momentissa säädettyä maahantuojan velvollisuutta ilmoittaa sähkölaitteeseen sisältyvästä riskistä valmistajalle ja sähköturvallisuusviranomaiselle,",
+      "clause_number": 3,
+      "section_number": "117",
+      "statute_id": "917/2014"
+    },
+    {
+      "id": "ee14c818-62c6-41ab-9f4f-94a0df03654f",
+      "node_type": "Clause",
+      "publisher": "finlex",
+      "title": "§ 117 mom 10",
+      "text": "10) 18 §:n 3 momentissa säädettyä maahantuojan velvollisuutta ilmoittaa sähkölaitteeseen sisältyvästä riskistä valmistajalle ja sähköturvallisuusviranomaiselle,",
+      "clause_number": 10,
+      "section_number": "117",
+      "statute_id": "917/2014"
+    },
+    {
+      "id": "010c4081-7ec4-40c5-a847-944be0adb72d",
+      "node_type": "Clause",
+      "publisher": "finlex",
+      "title": "§ 117 mom 2",
+      "text": "11) 21 §:n 2 momentissa säädettyä jakelijan velvollisuutta tarkistaa, että sähkölaitteeseen on kiinnitetty CE-merkintä, sen mukana on vaaditut asiakirjat, merkinnät, yhteystiedot sekä turvallisuustiedot ja ohjeet,",
+      "clause_number": 2,
+      "section_number": "117",
+      "statute_id": "917/2014"
+    },
+    {
+      "id": "f101bb16-cd67-43fd-be46-5f6f450589b0",
+      "node_type": "Clause",
+      "publisher": "finlex",
+      "title": "§ 117 mom 11",
+      "text": "11) 21 §:n 2 momentissa säädettyä jakelijan velvollisuutta tarkistaa, että sähkölaitteeseen on kiinnitetty CE-merkintä, sen mukana on vaaditut asiakirjat, merkinnät, yhteystiedot sekä turvallisuustiedot ja ohjeet,",
+      "clause_number": 11,
+      "section_number": "117",
+      "statute_id": "917/2014"
+    },
+    {
+      "id": "d24ce861-c569-46b2-89c2-527c70508cce",
+      "node_type": "Clause",
+      "publisher": "finlex",
+      "title": "§ 117 mom 3",
+      "text": "12) 21 §:n 3 momentissa säädettyä jakelijan velvollisuutta ilmoittaa vaarasta valmistajalle tai maahantuojalle ja sähköturvallisuusviranomaiselle,",
+      "clause_number": 3,
+      "section_number": "117",
+      "statute_id": "917/2014"
+    },
+    {
+      "id": "157979fe-21cc-48a4-b1a6-f4d647a0257c",
+      "node_type": "Clause",
+      "publisher": "finlex",
+      "title": "§ 117 mom 12",
+      "text": "12) 21 §:n 3 momentissa säädettyä jakelijan velvollisuutta ilmoittaa vaarasta valmistajalle tai maahantuojalle ja sähköturvallisuusviranomaiselle,",
+      "clause_number": 12,
+      "section_number": "117",
+      "statute_id": "917/2014"
+    },
+    {
+      "id": "bfd5e77c-1da1-4aaa-afff-f2c6cf01d30d",
+      "node_type": "Clause",
+      "publisher": "finlex",
+      "title": "§ 117 mom 1",
+      "text": "13) 25 §:n 1 momentissa säädettyä valmistajan tai maahantuojan velvollisuutta ryhtyä korjaaviin toimenpiteisiin,",
+      "clause_number": 1,
+      "section_number": "117",
+      "statute_id": "917/2014"
+    },
+    {
+      "id": "82f61142-8621-4ca2-a8c9-85a32355c7bc",
+      "node_type": "Clause",
+      "publisher": "finlex",
+      "title": "§ 117 mom 13",
+      "text": "13) 25 §:n 1 momentissa säädettyä valmistajan tai maahantuojan velvollisuutta ryhtyä korjaaviin toimenpiteisiin,",
+      "clause_number": 13,
+      "section_number": "117",
+      "statute_id": "917/2014"
+    },
+    {
+      "id": "815db9de-a8c1-417f-9101-f5f10ae11d61",
+      "node_type": "Clause",
+      "publisher": "finlex",
+      "title": "§ 117 mom 2",
+      "text": "14) 25 §:n 2 momentissa säädettyä jakelijan velvollisuutta varmistaa, että ryhdytään korjaaviin toimenpiteisiin,",
+      "clause_number": 2,
+      "section_number": "117",
+      "statute_id": "917/2014"
+    },
+    {
+      "id": "e89530be-0da3-4d12-b38b-5bcb383c1832",
+      "node_type": "Clause",
+      "publisher": "finlex",
+      "title": "§ 117 mom 14",
+      "text": "14) 25 §:n 2 momentissa säädettyä jakelijan velvollisuutta varmistaa, että ryhdytään korjaaviin toimenpiteisiin,",
+      "clause_number": 14,
+      "section_number": "117",
+      "statute_id": "917/2014"
+    },
+    {
+      "id": "01146da0-c78c-44f4-a36a-0a5dcf844aef",
+      "node_type": "Clause",
+      "publisher": "finlex",
+      "title": "§ 117 mom 3",
+      "text": "15) 25 §:n 3 momentissa säädettyä talouden toimijan velvollisuutta ilmoittaa vaarasta,",
+      "clause_number": 3,
+      "section_number": "117",
+      "statute_id": "917/2014"
+    },
+    {
+      "id": "b88e8bd8-ff50-496e-9729-ff89f2c8068e",
+      "node_type": "Clause",
+      "publisher": "finlex",
+      "title": "§ 117 mom 15",
+      "text": "15) 25 §:n 3 momentissa säädettyä talouden toimijan velvollisuutta ilmoittaa vaarasta,",
+      "clause_number": 15,
+      "section_number": "117",
+      "statute_id": "917/2014"
+    },
+    {
+      "id": "ccbeb202-27aa-4cbc-a80a-cbf658260a3f",
+      "node_type": "Clause",
+      "publisher": "finlex",
+      "title": "§ 117 mom 16",
+      "text": "16) 35 §:ssä säädettyä sähkölaitteiston haltijan velvollisuutta varmistaa sähkölaitteiston turvallisuus käytön tai käyttöolosuhteiden muuttuessa,",
+      "clause_number": 16,
+      "section_number": "117",
+      "statute_id": "917/2014"
+    },
+    {
+      "id": "cc705ca8-17af-4eac-a599-0e6922255149",
+      "node_type": "Clause",
+      "publisher": "finlex",
+      "title": "§ 117 mom 17",
+      "text": "17) 36 §:ssä säädettyä velvollisuutta varmistaa, ettei sähkölaitteistojen yhteen kytkemisestä aiheudu vaaraa,",
+      "clause_number": 17,
+      "section_number": "117",
+      "statute_id": "917/2014"
+    },
+    {
+      "id": "008df4cd-1286-470b-b8cf-c933b7585862",
+      "node_type": "Clause",
+      "publisher": "finlex",
+      "title": "§ 117 mom 2",
+      "text": "18) 41 §:n 2 momentissa säädettyä sähkölaitteiston rakentajan velvollisuutta varmistaa ennen käyttöönottoa, että sähkölaitteisto on suunniteltu ja rakennettu turvallisuusvaatimusten ja sähkömagneettista yhteensopivuutta koskevien olennaisten vaatimusten mukaisesti,",
+      "clause_number": 2,
+      "section_number": "117",
+      "statute_id": "917/2014"
+    },
+    {
+      "id": "6cc089ec-4d21-4ab8-b4e1-f9585363aa1a",
+      "node_type": "Clause",
+      "publisher": "finlex",
+      "title": "§ 117 mom 18",
+      "text": "18) 41 §:n 2 momentissa säädettyä sähkölaitteiston rakentajan velvollisuutta varmistaa ennen käyttöönottoa, että sähkölaitteisto on suunniteltu ja rakennettu turvallisuusvaatimusten ja sähkömagneettista yhteensopivuutta koskevien olennaisten vaatimusten mukaisesti,",
+      "clause_number": 18,
+      "section_number": "117",
+      "statute_id": "917/2014"
+    },
+    {
+      "id": "8d14be63-be1e-4031-b660-8fddf3d1d0e6",
+      "node_type": "Clause",
+      "publisher": "finlex",
+      "title": "§ 117 mom 1",
+      "text": "19) 43 §:n 1 momentissa säädettyä sähkölaitteiston rakentajan velvollisuutta tehdä sähkölaitteistolle käyttöönottotarkastus,",
+      "clause_number": 1,
+      "section_number": "117",
+      "statute_id": "917/2014"
+    },
+    {
+      "id": "811b99d8-3c59-4002-99ed-e9cdd3ce5ee0",
+      "node_type": "Clause",
+      "publisher": "finlex",
+      "title": "§ 117 mom 19",
+      "text": "19) 43 §:n 1 momentissa säädettyä sähkölaitteiston rakentajan velvollisuutta tehdä sähkölaitteistolle käyttöönottotarkastus,",
+      "clause_number": 19,
+      "section_number": "117",
+      "statute_id": "917/2014"
+    },
+    {
+      "id": "b890d488-53c0-4c27-a618-186fc737c769",
+      "node_type": "Clause",
+      "publisher": "finlex",
+      "title": "§ 117 mom 20",
+      "text": "20) 45 §:ssä säädettyä sähkölaitteiston rakentajan tai sähkölaitteiston haltijan velvollisuutta huolehtia varmennustarkastuksen tekemisestä,",
+      "clause_number": 20,
+      "section_number": "117",
+      "statute_id": "917/2014"
+    },
+    {
+      "id": "ffe56b03-d19a-4520-abfa-ddf139a435b9",
+      "node_type": "Clause",
+      "publisher": "finlex",
+      "title": "§ 117 mom 1",
+      "text": "21) 47 §:n 1 momentissa säädettyä sähkölaitteiston haltijan velvollisuutta huolehtia sähkölaitteiston turvallisuudesta ja sähkömagneettisesta yhteensopivuudesta,",
+      "clause_number": 1,
+      "section_number": "117",
+      "statute_id": "917/2014"
+    },
+    {
+      "id": "dfbf3e88-0df3-4dd9-b3ca-5d067c07b623",
+      "node_type": "Clause",
+      "publisher": "finlex",
+      "title": "§ 117 mom 21",
+      "text": "21) 47 §:n 1 momentissa säädettyä sähkölaitteiston haltijan velvollisuutta huolehtia sähkölaitteiston turvallisuudesta ja sähkömagneettisesta yhteensopivuudesta,",
+      "clause_number": 21,
+      "section_number": "117",
+      "statute_id": "917/2014"
+    },
+    {
+      "id": "ae66147f-3773-4626-9d15-4693d37068e6",
+      "node_type": "Clause",
+      "publisher": "finlex",
+      "title": "§ 117 mom 2",
+      "text": "22) 47 §:n 2 momentissa säädettyä sähkölaitteiston haltijan velvollisuutta huolehtia sähkölaitteiston vikojen ja puutteiden poistamisesta,",
+      "clause_number": 2,
+      "section_number": "117",
+      "statute_id": "917/2014"
+    },
+    {
+      "id": "28133d2e-57cd-4a17-8c5e-08c6279a2839",
+      "node_type": "Clause",
+      "publisher": "finlex",
+      "title": "§ 117 mom 22",
+      "text": "22) 47 §:n 2 momentissa säädettyä sähkölaitteiston haltijan velvollisuutta huolehtia sähkölaitteiston vikojen ja puutteiden poistamisesta,",
+      "clause_number": 22,
+      "section_number": "117",
+      "statute_id": "917/2014"
+    },
+    {
+      "id": "5758a191-29ed-49ea-b35a-98c7939014f0",
+      "node_type": "Clause",
+      "publisher": "finlex",
+      "title": "§ 117 mom 1",
+      "text": "23) 48 §:n 1 momentissa säädettyä sähkölaitteiston haltijan velvollisuutta huolehtia sähkölaitteiston kunnossapito-ohjelman laatimisesta ja sen noudattamisesta,",
+      "clause_number": 1,
+      "section_number": "117",
+      "statute_id": "917/2014"
+    },
+    {
+      "id": "a11d12b8-bb6b-4e69-974e-668a1779704d",
+      "node_type": "Clause",
+      "publisher": "finlex",
+      "title": "§ 117 mom 23",
+      "text": "23) 48 §:n 1 momentissa säädettyä sähkölaitteiston haltijan velvollisuutta huolehtia sähkölaitteiston kunnossapito-ohjelman laatimisesta ja sen noudattamisesta,",
+      "clause_number": 23,
+      "section_number": "117",
+      "statute_id": "917/2014"
+    },
+    {
+      "id": "7ce74a2b-559b-4bc3-b803-6535ac9c8d45",
+      "node_type": "Clause",
+      "publisher": "finlex",
+      "title": "§ 117 mom 24",
+      "text": "24) 49 §:ssä säädettyä sähkölaitteiston haltijan velvollisuutta huolehtia määräaikaistarkastuksen tekemisestä,",
+      "clause_number": 24,
+      "section_number": "117",
+      "statute_id": "917/2014"
+    },
+    {
+      "id": "7e2e8450-e890-4805-b35a-1165270c6b0e",
+      "node_type": "Clause",
+      "publisher": "finlex",
+      "title": "§ 117 mom 1",
+      "text": "25) 55 §:n 1 momentissa säädettyä toiminnanharjoittajan velvollisuutta huolehtia sähkötyön edellytysten täyttymisestä,",
+      "clause_number": 1,
+      "section_number": "117",
+      "statute_id": "917/2014"
+    },
+    {
+      "id": "fcd29811-8434-422d-913d-bbd161112a42",
+      "node_type": "Clause",
+      "publisher": "finlex",
+      "title": "§ 117 mom 25",
+      "text": "25) 55 §:n 1 momentissa säädettyä toiminnanharjoittajan velvollisuutta huolehtia sähkötyön edellytysten täyttymisestä,",
+      "clause_number": 25,
+      "section_number": "117",
+      "statute_id": "917/2014"
+    },
+    {
+      "id": "6d5bf5a2-db0c-49ce-8298-cd6b546d9d5f",
+      "node_type": "Clause",
+      "publisher": "finlex",
+      "title": "§ 117 mom 26",
+      "text": "26) 59 §:ssä säädettyä sähkötöiden johtajan velvollisuutta,",
+      "clause_number": 26,
+      "section_number": "117",
+      "statute_id": "917/2014"
+    },
+    {
+      "id": "4b9e0f94-8cdb-4ee0-b00b-2517133c77ad",
+      "node_type": "Clause",
+      "publisher": "finlex",
+      "title": "§ 117 mom 3",
+      "text": "27) 60 §:n 3 momentissa säädettyä sähkölaitteiston haltijan velvollisuutta tehdä ilmoitus sähkölaitteistosta ja sen käytön johtajasta sähköturvallisuusviranomaiselle,",
+      "clause_number": 3,
+      "section_number": "117",
+      "statute_id": "917/2014"
+    },
+    {
+      "id": "26edeb1f-5b9e-432e-bb0e-d8372763cac8",
+      "node_type": "Clause",
+      "publisher": "finlex",
+      "title": "§ 117 mom 27",
+      "text": "27) 60 §:n 3 momentissa säädettyä sähkölaitteiston haltijan velvollisuutta tehdä ilmoitus sähkölaitteistosta ja sen käytön johtajasta sähköturvallisuusviranomaiselle,",
+      "clause_number": 27,
+      "section_number": "117",
+      "statute_id": "917/2014"
+    },
+    {
+      "id": "7e2e4610-7076-4aea-b164-c8c9037ed0c7",
+      "node_type": "Clause",
+      "publisher": "finlex",
+      "title": "§ 117 mom 28",
+      "text": "28) 62 §:ssä säädettyä käytön johtajan velvollisuutta,",
+      "clause_number": 28,
+      "section_number": "117",
+      "statute_id": "917/2014"
+    },
+    {
+      "id": "ad11ca48-a829-4b34-93ab-9e9b315fa23e",
+      "node_type": "Clause",
+      "publisher": "finlex",
+      "title": "§ 117 mom 29",
+      "text": "29) 82 §:n tai sen nojalla säädettyä velvollisuutta noudattaa olennaisia turvallisuusvaatimuksia,",
+      "clause_number": 29,
+      "section_number": "117",
+      "statute_id": "917/2014"
+    },
+    {
+      "id": "3d25ec02-54ad-45b0-b917-7756a6874021",
+      "node_type": "Clause",
+      "publisher": "finlex",
+      "title": "§ 117 mom 30",
+      "text": "30) 94 tai 95 §:n nojalla annettua kieltoa tai määräystä,",
+      "clause_number": 30,
+      "section_number": "117",
+      "statute_id": "917/2014"
+    }
+  ],
+  "cross_references": [],
+  "raw_html_path": "C:\\Users\\danit\\finance-hack\\aalto-hackaton-2026\\data\\raw\\finlex\\Laki (säädöskokoelma)\\Sähköturvallisuuslaki.html"
+}

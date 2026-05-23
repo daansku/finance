@@ -1,0 +1,882 @@
+{
+  "statute": {
+    "id": "55a97156-8992-4d24-8f55-329e9609a91d",
+    "node_type": "Statute",
+    "publisher": "finlex",
+    "title": "Turvallisuustutkintalaki",
+    "text": "Turvallisuustutkintalaki",
+    "statute_id": "996/2010",
+    "finlex_url": "https://finlex.fi/fi/laki/ajantasa/996/2010"
+  },
+  "chapters": [
+    {
+      "id": "81e2791a-08bf-4240-b00e-58d6f9f72d19",
+      "node_type": "Chapter",
+      "publisher": "finlex",
+      "title": "Chapter 1",
+      "text": "1 luku Yleiset säännökset",
+      "chapter_number": 1,
+      "statute_id": "996/2010"
+    },
+    {
+      "id": "c90e88de-ffc0-4d28-861a-8fd819dd7fc6",
+      "node_type": "Chapter",
+      "publisher": "finlex",
+      "title": "Chapter 2",
+      "text": "2 luku Tutkinnan organisointi",
+      "chapter_number": 2,
+      "statute_id": "996/2010"
+    },
+    {
+      "id": "930275dd-ddc7-4970-9071-19674a5745f7",
+      "node_type": "Chapter",
+      "publisher": "finlex",
+      "title": "Chapter 3",
+      "text": "3 luku Tutkinta",
+      "chapter_number": 3,
+      "statute_id": "996/2010"
+    },
+    {
+      "id": "a88e3d33-09e5-4ce9-af54-ecaae0098281",
+      "node_type": "Chapter",
+      "publisher": "finlex",
+      "title": "Chapter 4",
+      "text": "4 luku Tutkintaselostus",
+      "chapter_number": 4,
+      "statute_id": "996/2010"
+    },
+    {
+      "id": "6b2986f1-eb6b-4a59-8d6a-3aaeab0bcffc",
+      "node_type": "Chapter",
+      "publisher": "finlex",
+      "title": "Chapter 5",
+      "text": "5 luku Poikkeuksellisen tapahtuman tutkinta",
+      "chapter_number": 5,
+      "statute_id": "996/2010"
+    },
+    {
+      "id": "243b8633-fe5e-4adb-9843-096930ae432c",
+      "node_type": "Chapter",
+      "publisher": "finlex",
+      "title": "Chapter 6",
+      "text": "6 luku Erinäiset säännökset",
+      "chapter_number": 6,
+      "statute_id": "996/2010"
+    },
+    {
+      "id": "f50d3079-be01-49b9-a117-7cf795fe39d6",
+      "node_type": "Chapter",
+      "publisher": "finlex",
+      "title": "Chapter 7",
+      "text": "7 luku Voimaantulo",
+      "chapter_number": 7,
+      "statute_id": "996/2010"
+    }
+  ],
+  "sections": [
+    {
+      "id": "e90338ed-2db7-410f-8652-d79e54ade257",
+      "node_type": "Section",
+      "publisher": "finlex",
+      "title": "1 § Turvallisuustutkinnan tarkoitus",
+      "text": "Turvallisuustutkinnan tarkoituksena on yleisen turvallisuuden lisääminen, onnettomuuksien ja vaaratilanteiden ehkäiseminen sekä onnettomuuksista aiheutuvien vahinkojen torjuminen. Turvallisuustutkintaa ei tehdä oikeudellisen vastuun kohdentamiseksi.",
+      "section_number": "1",
+      "chapter_number": 1,
+      "statute_id": "996/2010"
+    },
+    {
+      "id": "2c79a442-007a-45f7-87c3-11282523b2ca",
+      "node_type": "Section",
+      "publisher": "finlex",
+      "title": "2 § Tutkittavat onnettomuudet ja vaaratilanteet",
+      "text": "Onnettomuustutkintakeskuksen on tutkittava: Tämän lain mukaan voidaan tutkia suuronnettomuuden vaaratilanne sekä muu onnettomuus ja vaaratilanne. Tämän lain mukaan voidaan tehdä yhteinen tutkinta useista samankaltaisista onnettomuuksista tai vaaratilanteista (teematutkinta). Tämän lain mukaan voidaan tutkia myös 5 luvussa tarkoitettu poikkeuksellinen tapahtuma.",
+      "section_number": "2",
+      "chapter_number": 1,
+      "statute_id": "996/2010"
+    },
+    {
+      "id": "65d59197-8d65-4b48-814c-dfc082e7897a",
+      "node_type": "Section",
+      "publisher": "finlex",
+      "title": "3 § Onnettomuuden tutkintaa koskevien säännösten soveltaminen",
+      "text": "Jollei tässä laissa toisin säädetä, 2 §:n 1 ja 2 momentissa tarkoitetun vaaratilanteen ja 5 luvussa tarkoitetun poikkeuksellisen tapahtuman tutkintaan sekä teematutkintaan sovelletaan, mitä tässä laissa säädetään onnettomuuden tutkinnasta.",
+      "section_number": "3",
+      "chapter_number": 1,
+      "statute_id": "996/2010"
+    },
+    {
+      "id": "fd868322-617a-451d-9b7e-032e1f267ac5",
+      "node_type": "Section",
+      "publisher": "finlex",
+      "title": "4 § Suhde muuhun lainsäädäntöön",
+      "text": "Tämän lain lisäksi tutkinnassa noudatetaan, mitä onnettomuuksien tutkintaa koskevassa Euroopan unionin lainsäädännössä säädetään ja Suomea sitovassa kansainvälisessä velvoitteessa määrätään. Ilmailuonnettomuusasetuksessa tarkoitettujen onnettomuuksien ja vakavien vaaratilanteiden tutkintaan sovelletaan sanottua asetusta. Lisäksi tutkintaan sovelletaan, mitä tässä laissa säädetään. Sotilasilmailuonnettomuuksien sekä tie- ja maastoliikenneonnettomuuksien tutkinnasta säädetään erikseen. Jos 3 momentissa tarkoitettu onnettomuus on suuronnettomuus tai sen vaaratilanne, tutkitaan se kuitenkin tämän lain mukaisesti.",
+      "section_number": "4",
+      "chapter_number": 1,
+      "statute_id": "996/2010"
+    },
+    {
+      "id": "1aae7e7d-c6de-43c5-97d1-7057b055b6d0",
+      "node_type": "Section",
+      "publisher": "finlex",
+      "title": "5 § Tutkinnan sisältö",
+      "text": "Turvallisuustutkinnassa selvitetään tapahtumien kulku, syyt ja seuraukset sekä tehdyt pelastustoimet ja viranomaisten toiminta. Tutkinnassa selvitetään erityisesti, onko turvallisuus otettu riittävästi huomioon onnettomuuteen johtaneessa toiminnassa sekä onnettomuuden tai vaaran aiheuttajina taikka kohteina olleiden laitteiden ja rakenteiden suunnittelussa, valmistuksessa, rakentamisessa ja käytössä. Lisäksi selvitetään, onko johtamis-, valvonta- ja tarkastustoiminta asianmukaisesti järjestetty ja hoidettu. Tarvittaessa on myös selvitettävä mahdolliset puutteet turvallisuutta ja viranomaisia koskevissa säännöksissä ja määräyksissä.",
+      "section_number": "5",
+      "chapter_number": 1,
+      "statute_id": "996/2010"
+    },
+    {
+      "id": "3e6d4b5a-8937-4fc9-83ec-88a831e8f0b5",
+      "node_type": "Section",
+      "publisher": "finlex",
+      "title": "6 § Alueellinen toimivalta",
+      "text": "Turvallisuustutkinta voidaan tehdä onnettomuudesta, joka on tapahtunut Suomessa. Samoin voidaan tutkia vesiliikenneonnettomuus, joka on tapahtunut Saimaan kanavan vuokra-alueella. Turvallisuustutkinta voidaan tehdä Suomen ulkopuolella tapahtuneesta onnettomuudesta siten kuin onnettomuuksien tutkintaa koskevassa Euroopan unionin lainsäädännössä säädetään tai Suomea sitovassa kansainvälisessä velvoitteessa määrätään. Onnettomuuden tapahtumapaikasta riippumatta voidaan tutkia onnettomuuden Suomeen kohdistuneet seuraukset sekä muut 5 §:ssä tarkoitetut seikat siltä osin kuin ne koskevat Suomen viranomaisten ja onnettomuuteen osallisten suomalaisten toimintaa.",
+      "section_number": "6",
+      "chapter_number": 1,
+      "statute_id": "996/2010"
+    },
+    {
+      "id": "685a811c-787c-4c9d-9030-841848bd9f04",
+      "node_type": "Section",
+      "publisher": "finlex",
+      "title": "7 § Tutkimatta jättäminen",
+      "text": "Onnettomuus voidaan jättää tutkimatta, jos Euroopan unionin lainsäädännön tai Suomea sitovan kansainvälisen velvoitteen mukaisesti sovitaan, että tutkinnan tekee toisen valtion viranomainen tai kansainvälinen järjestö.",
+      "section_number": "7",
+      "chapter_number": 1,
+      "statute_id": "996/2010"
+    },
+    {
+      "id": "f3955e60-ff54-44b8-a3ba-830caf009307",
+      "node_type": "Section",
+      "publisher": "finlex",
+      "title": "8 § Onnettomuustutkintakeskus",
+      "text": "Turvallisuustutkintaa varten oikeusministeriön yhteydessä on Onnettomuustutkintakeskus. Keskus suorittaa tehtävänsä itsenäisesti ja riippumattomasti. Onnettomuustutkintakeskuksen tehtävänä on tutkia 2 §:n 1—3 momentissa tarkoitetut onnettomuudet ja vaaratilanteet. Keskuksen tehtävänä on lisäksi: Onnettomuustutkintakeskus toimii ilmailuonnettomuusasetuksessa tarkoitettuna siviili-ilmailun turvallisuustutkintaviranomaisena.",
+      "section_number": "8",
+      "chapter_number": 2,
+      "statute_id": "996/2010"
+    },
+    {
+      "id": "1d8c875a-60ca-4c08-9493-10acfbb7093d",
+      "node_type": "Section",
+      "publisher": "finlex",
+      "title": "9 § Onnettomuustutkintakeskuksen organisaatio",
+      "text": "Onnettomuustutkintakeskuksessa on johtaja, turvallisuustutkintaa tekeviä ja muita virkamiehiä sekä tarvittaessa muuta henkilöstöä. Johtajan tehtävänä on johtaa, valvoa ja kehittää Onnettomuustutkintakeskuksen toimintaa sekä vastata toiminnan laadusta ja tuloksellisuudesta. Johtajan nimittää valtioneuvosto. Onnettomuustutkintakeskuksella on työjärjestys, jonka johtaja vahvistaa. Työjärjestyksessä määrätään keskuksen organisaatiosta, henkilöstön tehtävistä, asioiden käsittelystä ja ratkaisemisesta sekä toiminnan muusta yleisestä järjestämisestä.",
+      "section_number": "9",
+      "chapter_number": 2,
+      "statute_id": "996/2010"
+    },
+    {
+      "id": "0fe8562b-9ef6-4558-95bf-3f8dc801c351",
+      "node_type": "Section",
+      "publisher": "finlex",
+      "title": "10 § Erityiset kelpoisuusvaatimukset",
+      "text": "Onnettomuustutkintakeskuksen johtajan kelpoisuusvaatimuksena on ylempi korkeakoulututkinto, hyvä perehtyneisyys keskuksen toimialaan sekä käytännössä osoitettu johtamistaito ja -kokemus. Turvallisuustutkintaa tekevän virkamiehen kelpoisuusvaatimuksena on tehtävään soveltuva koulutus sekä sellainen taito ja kokemus, jota tehtävän asianmukainen hoitaminen edellyttää.",
+      "section_number": "10",
+      "chapter_number": 2,
+      "statute_id": "996/2010"
+    },
+    {
+      "id": "349e96d2-edcd-4312-a39e-0b4bdc6b06c4",
+      "node_type": "Section",
+      "publisher": "finlex",
+      "title": "11 § Onnettomuustutkintakeskuksen asiantuntija",
+      "text": "Onnettomuustutkintakeskus voi käyttää turvallisuustutkinnassa apuna ulkopuolista asiantuntijaa (Onnettomuustutkintakeskuksen asiantuntija). Onnettomuustutkintakeskuksen asiantuntijan kelpoisuusvaatimuksiin sovelletaan 10 §:n 2 momenttia.",
+      "section_number": "11",
+      "chapter_number": 2,
+      "statute_id": "996/2010"
+    },
+    {
+      "id": "fea4417f-2193-40ba-96d2-9cccb396a452",
+      "node_type": "Section",
+      "publisher": "finlex",
+      "title": "12 § Valtion edustajan osallistuminen tutkintaan",
+      "text": "Jos Suomen tutkittavaksi kuuluva onnettomuus koskee merkittävässä määrin muuta valtiota, tämän valtion edustaja voi avustaa tutkinnassa siten kuin onnettomuuksien tutkintaa koskevassa Euroopan unionin lainsäädännössä säädetään tai Suomea sitovassa kansainvälisessä velvoitteessa määrätään taikka jos sitä pidetään muusta syystä tarpeellisena. Päätöksen toisen valtion edustajan osallistumisesta tutkintaan tekee Onnettomuustutkintakeskus. Jos muun valtion tai kansainvälisen järjestön tutkittavaksi kuuluva onnettomuus koskee merkittävässä määrin Suomea, Onnettomuustutkintakeskus voi ryhtyä tarvittaviin toimenpiteisiin, jotta Suomen edustaja voi osallistua tutkintaan.",
+      "section_number": "12",
+      "chapter_number": 2,
+      "statute_id": "996/2010"
+    },
+    {
+      "id": "fdd0ecf5-8d45-4cd3-b655-ef7049d8764f",
+      "node_type": "Section",
+      "publisher": "finlex",
+      "title": "13 § Tutkintaryhmä",
+      "text": "Onnettomuustutkintakeskus voi asettaa turvallisuustutkintaa varten tutkintaryhmän. Jos tutkinnassa käytetään apuna Onnettomuustutkintakeskuksen asiantuntijaa, on tutkintaa varten asetettava tutkintaryhmä. Tutkintaryhmässä on tarpeellinen määrä jäseniä, joilla on riittävä asiantuntemus tutkinnan kannalta keskeisiltä aloilta. Tutkintaryhmän jäsen voi olla Onnettomuustutkintakeskuksen tai muun viranomaisen virkamies taikka suostumuksensa tehtävään antanut Onnettomuustutkintakeskuksen asiantuntija. Onnettomuustutkintakeskus nimeää yhden jäsenen tutkintaryhmän johtajaksi. Onnettomuustutkintakeskus voi muuttaa tutkintaryhmän kokoonpanoa, jos se on välttämätöntä asiantuntevan, riippumattoman ja puolueettoman tutkinnan toimittamiseksi. Muun viranomaisen virkamies ja Onnettomuustutkintakeskuksen asiantuntija nimetään tutkintaryhmän jäseneksi kirjallisesti.",
+      "section_number": "13",
+      "chapter_number": 2,
+      "statute_id": "996/2010"
+    },
+    {
+      "id": "195d4f72-0088-4d33-a78f-882d81e1293d",
+      "node_type": "Section",
+      "publisher": "finlex",
+      "title": "14 § Esteellisyys",
+      "text": "Onnettomuustutkintakeskuksen virkamiehen, tutkintaryhmän jäsenen ja muun tutkintaan osallistuvan esteellisyydestä tutkinnassa on voimassa, mitä hallintolain (434/2003) 28 §:n 1 momentin 4—7 kohdassa säädetään virkamiehen esteellisyydestä asian käsittelyssä. Lisäksi hän on esteellinen: Läheisellä tarkoitetaan hallintolain 28 §:n 2 ja 3 momentissa tarkoitettuja henkilöitä. Esteellisyyden vaikutuksesta on voimassa, mitä hallintolain 27, 29 ja 30 §:ssä säädetään.",
+      "section_number": "14",
+      "chapter_number": 2,
+      "statute_id": "996/2010"
+    },
+    {
+      "id": "a4c3cf4d-ba4f-49a5-81f7-52f144f9827d",
+      "node_type": "Section",
+      "publisher": "finlex",
+      "title": "15 § Virkavastuu",
+      "text": "Onnettomuustutkintakeskuksen asiantuntijaan ja 12 §:ssä tarkoitettuun toisen valtion edustajaan sovelletaan tämän lain mukaisissa tehtävissä rikosoikeudellista virkavastuuta koskevia säännöksiä. Vahingonkorvausvastuusta säädetään vahingonkorvauslaissa (412/1974).",
+      "section_number": "15",
+      "chapter_number": 2,
+      "statute_id": "996/2010"
+    },
+    {
+      "id": "f7dc2160-e583-4722-a05d-e4789dfa477e",
+      "node_type": "Section",
+      "publisher": "finlex",
+      "title": "16 § Ilmoitusvelvollisuus",
+      "text": "Onnettomuuspaikalla pelastustoimiin osallistuvan viranomaisen tulee viipymättä ilmoittaa Onnettomuustutkintakeskukselle tapahtumasta, joka ilmoittajan arvion mukaan voi tulla tutkittavaksi tämän lain mukaan. Ilmoitusvelvollisuus on myös: Tuomioistuimen, joka on vastaanottanut merilain (674/1994) 18 luvun 7 §:n 2 momentissa tarkoitetun aluksen päällikön ilmoituksen meriselityksen antamisesta, on välitettävä ilmoitus viivytyksettä Onnettomuustutkintakeskukselle sekä varattava keskukselle mahdollisuus osallistua meriselitystä koskevaan istuntoon ja esittää siellä kysymyksiä.",
+      "section_number": "16",
+      "chapter_number": 3,
+      "statute_id": "996/2010"
+    },
+    {
+      "id": "d2c34709-b87b-4685-b3df-898ba9ccdafc",
+      "node_type": "Section",
+      "publisher": "finlex",
+      "title": "17 § Tutkinnan aloittaminen",
+      "text": "Onnettomuustutkintakeskus päättää turvallisuustutkinnan aloittamisesta sekä siitä, missä laajuudessa tutkinta tehdään. Edellä 2 §:n 2 ja 3 momentissa tarkoitetusta onnettomuudesta tehdään turvallisuustutkinta, jos se on tarpeen tutkinnan 1 §:ssä säädetyn tarkoituksen kannalta. Harkittaessa tutkinnan aloittamista otetaan lisäksi huomioon: Onnettomuustutkintakeskus vastaa turvallisuustutkinnan aloittamisesta, jos onnettomuudessa on osallisena merionnettomuusdirektiivin 3 artiklassa tarkoitettu ro-ro-alus tai suurnopeusmatkustaja-alus ja onnettomuus tapahtuu Suomen aluevesillä tai alus on viimeksi käynyt Suomessa.",
+      "section_number": "17",
+      "chapter_number": 3,
+      "statute_id": "996/2010"
+    },
+    {
+      "id": "54f50a85-e933-4a56-acc6-d6e5b179bbd7",
+      "node_type": "Section",
+      "publisher": "finlex",
+      "title": "18 § Alustava tutkinta",
+      "text": "Onnettomuustutkintakeskus voi tutkintaedellytysten turvaamiseksi käynnistää alustavan tutkinnan jo ennen tutkinnan aloittamista koskevan päätöksen tekemistä. Onnettomuustutkintakeskuksen onnettomuuspaikalle alustavaa tutkintaa varten lähettämän Onnettomuustutkintakeskuksen asiantuntijan toimivaltaan sovelletaan 19 §:n säännöksiä tutkintaedellytysten turvaamisesta, 20 §:n säännöksiä tiedonsaantioikeudesta, 22 §:n säännöksiä tarkastusoikeudesta ja 23 §:n säännöksiä kuulemisesta. Turvallisuustutkinnan aloittaneen muun viranomaisen tai toimijan on luovutettava keräämänsä tutkinta-aineisto Onnettomuustutkintakeskuksen käyttöön keskuksen aloitettua tutkinnan.",
+      "section_number": "18",
+      "chapter_number": 3,
+      "statute_id": "996/2010"
+    },
+    {
+      "id": "e98c6c48-06cd-49c5-a999-6ef927b95fc1",
+      "node_type": "Section",
+      "publisher": "finlex",
+      "title": "19 § Tutkintaedellytysten turvaaminen",
+      "text": "Onnettomuustutkintakeskuksen tutkintaa tekevällä virkamiehellä ja tutkintaryhmän jäsenellä (tutkintaa tekevällä) on oikeus päästä onnettomuuspaikalle sekä tutkia siellä onnettomuuteen liittyviä esineitä, laitteita ja rakenteita. Onnettomuustutkintakeskus ja tutkintaryhmän johtaja voivat määrätä onnettomuuspaikan eristettäväksi sekä kieltää onnettomuudessa surmansa saaneiden pois viemisen tai siirtämisen, jos se on turvallisuustutkinnan kannalta välttämätöntä. Onnettomuuspaikalla olevia esineitä ja muuta aineistoa, joilla saattaa olla merkitystä tutkinnassa, ei saa ilman Onnettomuustutkintakeskuksen tai tutkintaryhmän johtajan lupaa hävittää, viedä pois eikä liikutella, ellei siihen ole pakottavaa syytä. Keskuksen ja tutkintaryhmän johtajan tulee huolehtia, että aineisto luetteloidaan. Tutkintaedellytysten turvaamiseksi annetut 2 ja 3 momentissa tarkoitetut määräykset ja kiellot on peruutettava heti, kun määräys tai kielto ei ole enää tutkinnan vuoksi välttämätön.",
+      "section_number": "19",
+      "chapter_number": 3,
+      "statute_id": "996/2010"
+    },
+    {
+      "id": "f35cfc79-49eb-4ee5-a7ee-fbeb35492599",
+      "node_type": "Section",
+      "publisher": "finlex",
+      "title": "20 § Tiedonsaantioikeus",
+      "text": "Tutkintaa tekevällä on salassapitosäännösten estämättä oikeus saada maksutta viranomaisilta ja muilta julkista tehtävää hoitavilta tutkinnan toimittamiseksi: Tutkintaa tekevällä on salassapitosäännösten estämättä oikeus saada onnettomuudessa osallisena olleelta yksityiseltä toimijalta turvallisuustutkinnan toteuttamiseksi välttämättömät tiedot. Velvollisuus antaa tietoja koskee myös muuta yksityistä toimijaa, jolla onnettomuushavainnon johdosta tai muusta syystä on tietoja onnettomuudesta. Tutkintaa tekevällä on oikeus saada 1 momentin 3 kohdassa tarkoitetut tiedot myös yksityiseltä toimijalta sekä 4 kohdassa tarkoitetut tiedot yksityiseltä terveyden- ja sairaanhoitoa harjoittavalta yhteisöltä ja toimintayksiköltä sekä terveydenhuollon ammattihenkilöltä. Tutkintaa tekevällä on oikeus saada 1—3 momentissa tarkoitetut tiedot pyytämässään muodossa ja teknisen käyttöyhteyden avulla tai muutoin sähköisesti.",
+      "section_number": "20",
+      "chapter_number": 3,
+      "statute_id": "996/2010"
+    },
+    {
+      "id": "6e0cd195-5142-429d-bf7b-c191c64b0827",
+      "node_type": "Section",
+      "publisher": "finlex",
+      "title": "21 § Oikeus saada tietoja teleyrityksiltä",
+      "text": "Tutkintaa tekevällä on salassapitosäännösten estämättä oikeus saada sähköisen viestinnän tietosuojalaissa (516/2004) tarkoitetulta teleyritykseltä sellaisen liittymän tai päätelaitteen tunnistamistiedot ja paikkatiedot, jonka voidaan perustellusti arvioida olleen tutkinnan kohteena olevalla onnettomuuspaikalla, sekä tiedot liittymän tilaajasta, käyttäjästä ja asennusosoitteesta siten kuin viestintämarkkinalain (393/2003) 97 ja 98 §:ssä säädetään. Oikeus saada 1 momentissa tarkoitetut tiedot on vain, jos tiedot ovat välttämättömiä tutkittavan onnettomuuden kulun, syyn tai seurausten selvittämiseksi. Tiedot voidaan toimittaa teknisen käyttöyhteyden avulla tai muutoin sähköisesti.",
+      "section_number": "21",
+      "chapter_number": 3,
+      "statute_id": "996/2010"
+    },
+    {
+      "id": "fe4bb4a9-eac4-4566-a928-8cdf2a3dde45",
+      "node_type": "Section",
+      "publisher": "finlex",
+      "title": "22 § Tarkastusoikeus",
+      "text": "Tutkintaa tekevällä on oikeus ottaa haltuun ja tarkastaa esineitä ja asiakirjoja, jos se on välttämätöntä turvallisuustutkinnan toimittamiseksi. Tutkintaa tekevä saa tehdä tarkastettaville esineille kokeita ja irrottaa esineistä osia sekä ottaa näytteitä, jos se on tutkimusten vuoksi välttämätöntä. Tutkintaa tekevällä on oikeus päästä kulkuvälineisiin, toimitiloihin ja muihin tiloihin sekä alueille, jos siten voidaan saada tarpeellista tietoa turvallisuustutkinnassa. Oikeus päästä pysyväisluonteiseen asumiseen käytettyyn tilaan on kuitenkin vain, jos se on välttämätöntä onnettomuuksien ja vaaratilanteiden ehkäisemisen taikka onnettomuuksista aiheutuvien vahinkojen torjumisen kannalta välttämättömien tietojen hankkimiseksi. Onnettomuustutkintakeskuksen asiantuntijalla on oikeus päästä pysyväisluonteiseen asumiseen käytettyyn tilaan vain Onnettomuustutkintakeskuksen virkamiestä avustaessaan tai jos tällaisessa tilassa on samanaikaisesti muun viranomaisen virkamies suorittamassa toimivaltaansa kuuluvia tehtäviä. Muun kuin Suomen kansalaisen oikeuteen päästä puolustusvoimien hallinnassa olevalle alueelle sovelletaan puolustusvoimista annetun lain (551/2007) 15 §:ää, jollei Suomea sitovasta kansainvälisestä velvoitteesta tai Euroopan unionin lainsäädännöstä muuta johdu. Tutkinnassa ei edellytetä ilmailuonnettomuusasetuksen 12 artiklassa tarkoitettua ennakkohyväksyntää.",
+      "section_number": "22",
+      "chapter_number": 3,
+      "statute_id": "996/2010"
+    },
+    {
+      "id": "51b82466-e52c-4a04-964a-a4d57311e33e",
+      "node_type": "Section",
+      "publisher": "finlex",
+      "title": "23 § Kuuleminen",
+      "text": "Tutkintaa tekevä voi kuulla onnettomuuteen osallisia, asiantuntijoita ja jokaista, jolta voidaan olettaa saatavan tutkinnassa tarvittavia tietoja. Kuulemisessa muun henkilön läsnäolo on sallittu vain, jos Onnettomuustutkintakeskus tai tutkintaryhmän johtaja niin päättää. Vajaavaltaista kuultaessa läsnä on kuitenkin oltava hänen huoltajansa, edunvalvojansa tai muu laillinen edustajansa. Lisäksi kuulemisessa saa olla läsnä kuultavan avustaja tai asiamies. Kuultavalle on kerrottava hänen oikeuksistaan ja asemastaan kuulemisessa.",
+      "section_number": "23",
+      "chapter_number": 3,
+      "statute_id": "996/2010"
+    },
+    {
+      "id": "5f9e5004-4648-4d67-a978-06ce763d2134",
+      "node_type": "Section",
+      "publisher": "finlex",
+      "title": "24 § Selvitykset ja lausunnot",
+      "text": "Onnettomuustutkintakeskus tai tutkintaryhmä voi teettää erityistä asiantuntemusta vaativasta seikasta selvityksen muulla viranomaisella tai yksityisellä toimijalla sekä pyytää tältä määrätystä asiasta lausunnon.",
+      "section_number": "24",
+      "chapter_number": 3,
+      "statute_id": "996/2010"
+    },
+    {
+      "id": "9dd204e9-76ec-443a-852a-e25d93b66928",
+      "node_type": "Section",
+      "publisher": "finlex",
+      "title": "25 § Onnettomuusuhan havaitseminen tutkinnan aikana",
+      "text": "Onnettomuustutkintakeskuksen on ilmoitettava asianomaiselle viranomaiselle, jos turvallisuustutkinnan aikana havaitaan vikoja tai puutteita, jotka viranomaisen on uusien onnettomuuksien estämiseksi kiireellisesti korjattava.",
+      "section_number": "25",
+      "chapter_number": 3,
+      "statute_id": "996/2010"
+    },
+    {
+      "id": "9ea3e43f-891a-4f27-bfb6-89fbee612c41",
+      "node_type": "Section",
+      "publisher": "finlex",
+      "title": "26 § Onnettomuustutkintakeskuksen ja tutkintaryhmän johtajan päätösvalta",
+      "text": "Tutkintaryhmän johtajan 19 ja 23 §:n nojalla tekemiä päätöksiä noudatetaan tutkinnassa, jollei Onnettomuustutkintakeskus toisin päätä.",
+      "section_number": "26",
+      "chapter_number": 3,
+      "statute_id": "996/2010"
+    },
+    {
+      "id": "5479d23c-e533-41d0-9398-9e3f63b20059",
+      "node_type": "Section",
+      "publisher": "finlex",
+      "title": "27 § Tutkintaselostus",
+      "text": "Turvallisuustutkinnasta laaditaan julkinen tutkintaselostus onnettomuuden vakavuuteen nähden sopivassa laajuudessa. Tutkintaselostus sisältää selostuksen onnettomuuden kulusta, onnettomuuteen johtaneista tekijöistä ja onnettomuuden seurauksista sekä asianomaisille viranomaisille ja muille toimijoille osoitetut turvallisuussuositukset sellaisiksi toimenpiteiksi, jotka ovat tarpeen yleisen turvallisuuden lisäämiseksi, uusien onnettomuuksien ja vaaratilanteiden ehkäisemiseksi, vahinkojen torjumiseksi sekä pelastus- ja muiden viranomaisten toiminnan tehostamiseksi. Tutkintaselostukseen ei sisällytetä tietoja onnettomuuteen osallisen tai tutkinnassa kuullun yksityishenkilön henkilöllisyydestä. Tutkintaselostuksen allekirjoittavat tutkintaan osallistuneet tutkijat. Tutkintaselostukseen liitetään mahdolliset eriävät mielipiteet. Edellä 2 momentista säädetystä poiketen rautatieliikenteessä tapahtuneen onnettomuuden johdosta laaditun tutkintaselostuksen turvallisuussuosituksia ei voida osoittaa yksityisille toimijoille.",
+      "section_number": "27",
+      "chapter_number": 4,
+      "statute_id": "996/2010"
+    },
+    {
+      "id": "6b05d0a1-81cc-4606-a4fb-946861842336",
+      "node_type": "Section",
+      "publisher": "finlex",
+      "title": "28 § Viranomaisten ja osallisten lausunnot",
+      "text": "Ennen tutkintaselostuksen valmistumista varataan onnettomuuteen osallisille sekä tutkittavan onnettomuuden alalla valvonnasta vastaaville viranomaisille tilaisuus lausua mielipiteensä tutkintaselostuksen luonnoksesta. Lausunnon antamiselle asetetaan kohtuullinen määräaika. Lausunnot tai niistä laadittu yhteenveto sisällytetään tutkintaselostukseen tai sen liitteeseen. Tutkintaselostukseen ei kuitenkaan sisällytetä yksityishenkilöiden antamia lausuntoja.",
+      "section_number": "28",
+      "chapter_number": 4,
+      "statute_id": "996/2010"
+    },
+    {
+      "id": "233664b1-900c-497b-8a6d-c07358a537ea",
+      "node_type": "Section",
+      "publisher": "finlex",
+      "title": "29 § Tutkinnan päättyminen",
+      "text": "Tutkinta päättyy, kun tutkintaselostus allekirjoitetaan. Tutkinnan päättyminen ei estä uutta tutkintaa asiassa, jos se on tarpeen tutkinnan päättymisen jälkeen tietoon tulleen uuden ja merkittävän seikan vuoksi.",
+      "section_number": "29",
+      "chapter_number": 4,
+      "statute_id": "996/2010"
+    },
+    {
+      "id": "68445459-606a-4bdc-8515-341e6710ce67",
+      "node_type": "Section",
+      "publisher": "finlex",
+      "title": "30 § Turvallisuussuositusten seuranta",
+      "text": "Onnettomuustutkintakeskus seuraa tutkintaselostukseen otettujen turvallisuussuositusten toteutumista. Viranomaisen ja muun toimijan on Onnettomuustutkintakeskuksen pyynnöstä annettava selvitys toimenpiteistä, joihin se on ryhtynyt sille osoitetun turvallisuussuosituksen johdosta. Viranomaisen on annettava vuosittain Onnettomuustutkintakeskukselle selvitys toimenpiteistä, joihin se on ryhtynyt rautatieliikenteessä tapahtunutta onnettomuutta koskevassa tutkintaselostuksessa sille osoitetun turvallisuussuosituksen johdosta.",
+      "section_number": "30",
+      "chapter_number": 4,
+      "statute_id": "996/2010"
+    },
+    {
+      "id": "953f59dd-5be3-4848-ab9e-a3c738b13659",
+      "node_type": "Section",
+      "publisher": "finlex",
+      "title": "31 § Poikkeuksellinen tapahtuma",
+      "text": "Poikkeuksellisella tapahtumallatarkoitetaan sellaista erittäin vakavaa kuolemaan johtanutta taikka yhteiskunnan perustoimintoja uhannutta tai vakavasti vaurioittanutta tapahtumaa, joka ei ole onnettomuus.",
+      "section_number": "31",
+      "chapter_number": 5,
+      "statute_id": "996/2010"
+    },
+    {
+      "id": "9dce1b9e-e7a8-4106-a59e-ced810996781",
+      "node_type": "Section",
+      "publisher": "finlex",
+      "title": "32 § Poikkeuksellisen tapahtuman tutkinnan aloittaminen",
+      "text": "Poikkeuksellisen tapahtuman tutkinnan aloittamisesta päättää valtioneuvosto. Valtioneuvosto voi asettaa tapahtuman tutkintaa varten oikeusministeriön yhteyteen tutkintaryhmän. Tutkintaryhmä suorittaa tehtävänsä itsenäisesti ja riippumattomasti.",
+      "section_number": "32",
+      "chapter_number": 5,
+      "statute_id": "996/2010"
+    },
+    {
+      "id": "eb14c99f-490d-4573-9f2b-6d844831e0e1",
+      "node_type": "Section",
+      "publisher": "finlex",
+      "title": "33 § Poikkeuksellisen tapahtuman tutkinta",
+      "text": "Sen lisäksi, mitä 5 §:n 1 momentissa säädetään, poikkeuksellisen tapahtuman tutkinnassa voidaan selvittää tapahtuman aiheuttajaan liittyviä seikkoja siinä määrin kuin se on välttämätöntä vastaavankaltaisten tapahtumien ennalta ehkäisemiseksi tarvittavan tiedon hankkimiseksi.",
+      "section_number": "33",
+      "chapter_number": 5,
+      "statute_id": "996/2010"
+    },
+    {
+      "id": "c5773e7b-3961-4673-aee4-fd93a0e9153c",
+      "node_type": "Section",
+      "publisher": "finlex",
+      "title": "34 § Tutkintaryhmän toimivalta",
+      "text": "Edellä 32 §:n 2 momentissa tarkoitetun tutkintaryhmän johtajan ja jäsenen toimivaltaan sovelletaan, mitä 3 luvussa säädetään tutkintaryhmän johtajan ja tutkintaa tekevän toimivallasta. Sen lisäksi, mitä 20 §:ssä säädetään tiedonsaantioikeudesta, poikkeuksellisen tapahtuman tutkintaa varten asetetulla tutkintaryhmällä on oikeus saada tutkinnan tarkoituksen kannalta välttämättömät tiedot mahdollisen esitutkinnan aineistoon sisältyvien luottamuksellisten viestien sisällöstä.",
+      "section_number": "34",
+      "chapter_number": 5,
+      "statute_id": "996/2010"
+    },
+    {
+      "id": "2d32bfab-3f9e-4f29-a0dc-ab6196dca3d8",
+      "node_type": "Section",
+      "publisher": "finlex",
+      "title": "35 § Poikkeuksellisen tapahtuman tutkinnasta annettava tutkintaselostus",
+      "text": "Tutkintaryhmä laatii poikkeuksellisen tapahtuman tutkinnasta tutkintaselostuksen. Tutkintaselostus annetaan valtioneuvostolle.",
+      "section_number": "35",
+      "chapter_number": 5,
+      "statute_id": "996/2010"
+    },
+    {
+      "id": "60b6b109-786b-4b1f-96cc-ada4389c9fe3",
+      "node_type": "Section",
+      "publisher": "finlex",
+      "title": "36 § Poikkeuksellisen tapahtuman johdosta annettavien turvallisuussuositusten seuranta",
+      "text": "Kukin ministeriö seuraa toimialallaan poikkeuksellisen tapahtuman tutkinnassa annettujen turvallisuussuositusten johdosta tehtävien toimenpiteiden toteutumista. Oikeusministeriö voi pyytää viranomaiselta tai muulta toimijalta selvitystä niistä toimenpiteistä, joihin se on ryhtynyt annettujen turvallisuussuositusten johdosta.",
+      "section_number": "36",
+      "chapter_number": 5,
+      "statute_id": "996/2010"
+    },
+    {
+      "id": "47a1d7a5-a3a0-42f8-8f0c-acc2d7159846",
+      "node_type": "Section",
+      "publisher": "finlex",
+      "title": "37 § Tutkinta-aineiston arkistointi",
+      "text": "Tutkintaryhmän johtaja huolehtii siitä, että tutkintaryhmän tehtävien hoitoa varten annetut ja laaditut asiakirjat järjestetään arkistoitaviksi Onnettomuustutkintakeskukseen. Asiakirjojen antamisesta tutkinnan päättymisen jälkeen päättää Onnettomuustutkintakeskus.",
+      "section_number": "37",
+      "chapter_number": 5,
+      "statute_id": "996/2010"
+    },
+    {
+      "id": "253258f8-3e4b-4b51-a10f-b6c98b9a36a8",
+      "node_type": "Section",
+      "publisher": "finlex",
+      "title": "38 § Tutkinnan kulusta tiedottaminen",
+      "text": "Onnettomuustutkintakeskus tiedottaa tutkinnasta ja sen edistymisestä. Tutkinnan kulusta on erityisesti tiedotettava vahinkoa kärsineille, surmansa saaneiden läheisille, pelastustoimiin osallistuneille viranomaisille sekä niille, joihin onnettomuuden vaikutukset muuten saattavat ulottua. Samoin on tiedotettava työmarkkinajärjestöjen edustajille, jos onnettomuus on tapahtunut työhön liittyvissä olosuhteissa. Onnettomuustutkintakeskus ilmoittaa 16 §:n mukaisen ilmoituksen tehneelle toimijalle sekä esitutkintaviranomaiselle turvallisuustutkinnan aloittamisesta ja päättymisestä. Annettaessa tietoja turvallisuustutkinnasta ilmailuonnettomuusasetuksen 15 artiklan 4 ja 5 kohdan mukaisesti uhrin omaisena pidetään uhrin puolisoa, lasta, lapsenlasta, sisarusta, vanhempaa, isovanhempaa ja uhrille muuten erityisen läheistä henkilöä.",
+      "section_number": "38",
+      "chapter_number": 6,
+      "statute_id": "996/2010"
+    },
+    {
+      "id": "d04aae8c-9546-4358-bc72-19950f06fafd",
+      "node_type": "Section",
+      "publisher": "finlex",
+      "title": "39 § Salassa pidettävän tiedon luovuttaminen",
+      "text": "Sen lisäksi, mitä viranomaisten toiminnan julkisuudesta annetussa laissa (621/1999) säädetään, Onnettomuustutkintakeskus voi salassapitosäännösten estämättä luovuttaa turvallisuustutkinnassa saatuja tietoja muille turvallisuustutkintaa lain mukaan suorittaville, jos se on välttämätöntä tutkinnan suorittamiseksi, sekä viranomaiselle muuta tarkoitusta varten, jos se on välttämätöntä tärkeän yleisen edun turvaamiseksi. Onnettomuustutkintakeskus voi 1 momentissa säädetystä poiketen luovuttaa turvallisuustutkinnassa saatuja tietoja salassapitosäännösten estämättä esitutkinta- ja syyttäjäviranomaiselle vain, jos tieto on välttämätön sellaisen rikoksen selvittämiseksi, josta laissa säädetty ankarin rangaistus on vähintään kaksi vuotta vankeutta. Keskus ei kuitenkaan saa luovuttaa esitutkinta- ja syyttäjäviranomaiselle 21 §:ssä tarkoitettua tietoa eikä tietoa, joka on olennaisin osin saatu henkilöltä, joka on esitutkinnassa tai oikeudenkäynnissä todistajana velvollinen tai oikeutettu kieltäytymään todistamasta siitä seikasta, jollei kieltäytymään oikeutettu anna luovuttamiseen suostumustaan. Edellä 1 momentin perusteella tiedon saanut viranomainen ei saa ryhtyä oikeudellisiin toimenpiteisiin tuottamuksellisen rikkomuksen johdosta, joka tulee sen tietoon ainoastaan Onnettomuustutkintakeskukselta saamiensa tietojen perusteella. Onnettomuustutkintakeskus ei saa luovuttaa toisen valtion turvallisuustutkinnasta vastaavalta viranomaiselta tai toisessa valtiossa suoritetussa turvallisuustutkinnassa saatuja salassa pidettäviä tietoja edelleen vastoin tietoja luovutettaessa asetettuja ehtoja.",
+      "section_number": "39",
+      "chapter_number": 6,
+      "statute_id": "996/2010"
+    },
+    {
+      "id": "9974b4c4-c428-497e-9397-e6e48d3bd227",
+      "node_type": "Section",
+      "publisher": "finlex",
+      "title": "40 § Todistamiskielto",
+      "text": "Sen lisäksi, mitä oikeudenkäymiskaaren 17 luvun 23 §:ssä säädetään, Onnettomuustutkintakeskuksen virkamies, tutkintaryhmän jäsen tai muu turvallisuustutkintaan osallistuva ei saa todistaa siitä, mitä hän yksittäisessä tutkintatehtävässä on saanut tietää onnettomuudesta, jolleivät erittäin tärkeät syyt vaadi, että häntä kuullaan siitä. Edellä 1 momentissa tarkoitettu kielto on voimassa, vaikkei todistaja enää ole siinä asemassa, jossa hän on saanut tiedon todistettavasta seikasta.",
+      "section_number": "40",
+      "chapter_number": 6,
+      "statute_id": "996/2010"
+    },
+    {
+      "id": "eedef936-030d-49e8-8b30-b6a65a0bba49",
+      "node_type": "Section",
+      "publisher": "finlex",
+      "title": "41 § Onnettomuustutkintakeskuksen apu toisen valtion tutkintaviranomaiselle",
+      "text": "Onnettomuustutkintakeskus voi toisen valtion turvallisuustutkinnasta vastaavan viranomaisen pyynnöstä antaa apua turvallisuustutkinnassa. Tutkinta-apua antavan Onnettomuustutkintakeskuksen virkamiehen toimivaltaan sovelletaan 19—24 §:n säännöksiä.",
+      "section_number": "41",
+      "chapter_number": 6,
+      "statute_id": "996/2010"
+    },
+    {
+      "id": "3621d1ae-10d3-4775-8de3-86550bbdd4c6",
+      "node_type": "Section",
+      "publisher": "finlex",
+      "title": "42 § Yhteistyö ja virka-apu",
+      "text": "Tutkintatoimia voidaan tehdä yhteistoiminnassa samassa asiassa esitutkintaa tai kuolemansyyn tutkintaa tekevän viranomaisen kanssa siinä laajuudessa kuin Onnettomuustutkintakeskus katsoo yhteistoiminnan olevan tarkoituksenmukaista turvallisuustutkinnan kannalta. Onnettomuustutkintakeskuksella on oikeus saada pyynnöstä poliisilta virka-apua turvallisuustutkinnassa ja sen turvaamisessa. Viranomaisen on Onnettomuustutkintakeskuksen tai 5 luvussa tarkoitetun tutkintaryhmän pyynnöstä tehtävä toimivaltaansa kuuluvia, tutkinnan tarkoituksen kannalta välttämättömiä selvityksiä ja tutkimuksia, joita keskus tai tutkintaryhmä ei voi itse tehdä, sekä annettava niille muutakin niiden tarvitsemaa virka-apua.",
+      "section_number": "42",
+      "chapter_number": 6,
+      "statute_id": "996/2010"
+    },
+    {
+      "id": "768cee67-9ee1-4e7a-9829-18241255e73f",
+      "node_type": "Section",
+      "publisher": "finlex",
+      "title": "43 § Viranhoidosta vapautuminen",
+      "text": "Jos tutkintaryhmän jäseneksi määrätty on valtion virassa, vapautuu hän sen hoitamisesta siksi ajaksi, jona hän osallistuu tutkintaan, paitsi jos tutkintatehtävät voidaan turvallisuustutkintaa tai sen tarkoitusta vaarantamatta hoitaa oman viran hoitamisen ohella.",
+      "section_number": "43",
+      "chapter_number": 6,
+      "statute_id": "996/2010"
+    },
+    {
+      "id": "82fc97ac-d383-4dc5-a651-d246d3678936",
+      "node_type": "Section",
+      "publisher": "finlex",
+      "title": "44 § Onnettomuustutkintakeskuksen henkilökortti",
+      "text": "Onnettomuustutkintakeskuksen virkamiehen ja asiantuntijan tunnuksena on keskuksen antama henkilökortti. Henkilökortti on esitettävä tarvittaessa ja vaadittaessa. Henkilökortti on voimassa määräajan, jonka jälkeen se on palautettava Onnettomuustutkintakeskukselle. Keskus päättää kortin voimassaolosta.",
+      "section_number": "44",
+      "chapter_number": 6,
+      "statute_id": "996/2010"
+    },
+    {
+      "id": "36fe2a17-0242-4848-b6d1-c69ddf9d9e70",
+      "node_type": "Section",
+      "publisher": "finlex",
+      "title": "45 § Palkkiot ja korvaukset",
+      "text": "Tutkintaryhmän jäsenelle, joka ei ole Onnettomuustutkintakeskuksen virkamies, maksetaan tehtävästä palkkio. Oikeusministeriö vahvistaa palkkioiden perusteet. Matkakustannukset korvataan matkakustannusten korvaamisesta tehdyn valtion virkaehtosopimuksen mukaisesti. Turvallisuustutkinnassa kuultavalla on oikeus saada kohtuullinen korvaus tarpeellisista matka- ja toimeentulokustannuksista sekä taloudellisesta menetyksestä. Edellä 22 §:ssä tarkoitetuista toimenpiteistä aiheutuneesta vahingosta on oikeus saada valtion varoista täysi korvaus.",
+      "section_number": "45",
+      "chapter_number": 6,
+      "statute_id": "996/2010"
+    },
+    {
+      "id": "5a0213e4-14fb-4e00-99aa-3be12f0335ba",
+      "node_type": "Section",
+      "publisher": "finlex",
+      "title": "46 § Uhkasakko",
+      "text": "Onnettomuustutkintakeskus voi velvoittaa antamaan 20 ja 21 §:ssä tarkoitetut tiedot sekä 22 §:n 1 momentissa tarkoitetut esineet ja asiakirjat. Keskus voi asettaa velvoitteen tehosteeksi uhkasakon siten kuin uhkasakkolaissa (1113/1990) säädetään. Uhkasakkoa ei kuitenkaan saa asettaa luonnolliselle henkilölle silloin, kun henkilöä on aihetta epäillä rikoksesta ja tiedot liittyvät rikosepäilyn kohteena olevaan asiaan.",
+      "section_number": "46",
+      "chapter_number": 6,
+      "statute_id": "996/2010"
+    },
+    {
+      "id": "a5fa4048-307e-4abe-8408-4ece8ab76084",
+      "node_type": "Section",
+      "publisher": "finlex",
+      "title": "47 § Määräyksenantovaltuus",
+      "text": "Onnettomuustutkintakeskus voi antaa määräyksiä turvallisuustutkinnan teknisestä toimittamisesta.",
+      "section_number": "47",
+      "chapter_number": 6,
+      "statute_id": "996/2010"
+    },
+    {
+      "id": "96e3a719-bf9c-4f54-afbb-420becb26b7c",
+      "node_type": "Section",
+      "publisher": "finlex",
+      "title": "48 § Voimaantulo",
+      "text": "Tämä laki tulee voimaan 1 päivänä kesäkuuta 2011. Tällä lailla kumotaan onnettomuuksien tutkinnasta annettu laki (373/1985).",
+      "section_number": "48",
+      "chapter_number": 7,
+      "statute_id": "996/2010"
+    },
+    {
+      "id": "db2a1f1f-752c-4c21-97b2-dd44adbd09be",
+      "node_type": "Section",
+      "publisher": "finlex",
+      "title": "49 § Siirtymäsäännökset",
+      "text": "Ennen tämän lain voimaantuloa aloitettuun tutkintaan sovelletaan tämän lain voimaan tullessa voimassa olleita säännöksiä. Jos muualla laissa viitataan onnettomuuksien tutkinnasta annettuun lakiin, sen asemesta sovelletaan tätä lakia. Ennen tämän lain voimaantuloa voidaan ryhtyä lain täytäntöönpanon edellyttämiin toimiin.",
+      "section_number": "49",
+      "chapter_number": 7,
+      "statute_id": "996/2010"
+    }
+  ],
+  "clauses": [
+    {
+      "id": "dfda3424-1a6d-4b95-ad72-1aa350bed02d",
+      "node_type": "Clause",
+      "publisher": "finlex",
+      "title": "§ 2 mom 1",
+      "text": "1) \n                                        onnettomuus, jota on kuolleiden tai loukkaantuneiden taikka ympäristöön, omaisuuteen tai varallisuuteen kohdistuneiden vahinkojen määrän taikka onnettomuuden laadun perusteella pidettävä erityisen vakavana (suuronnettomuus);",
+      "clause_number": 1,
+      "section_number": "2",
+      "statute_id": "996/2010"
+    },
+    {
+      "id": "ca40e2f7-a3d4-45f2-80fb-e061bd8279eb",
+      "node_type": "Clause",
+      "publisher": "finlex",
+      "title": "§ 2 mom 2",
+      "text": "2) \n                                        ilmailussa tapahtunut onnettomuus ja vakava vaaratilanne, jotka on määritelty siviili-ilmailun onnettomuuksien ja vaaratilanteiden tutkinnasta ja ehkäisemisestä ja direktiivin 94/56/EY kumoamisesta annetussa Euroopan parlamentin ja neuvoston asetuksessa (EU) N:o 996/2010 (ilmailuonnettomuusasetus) ja kansainvälisen siviili-ilmailun yleissopimuksen (SopS 11/1949) 13 liitteen 1 luvussa siihen myöhemmin tehtyine muutoksineen;",
+      "clause_number": 2,
+      "section_number": "2",
+      "statute_id": "996/2010"
+    },
+    {
+      "id": "ecc68b85-96d8-4877-8dbb-c7feaaf27116",
+      "node_type": "Clause",
+      "publisher": "finlex",
+      "title": "§ 2 mom 3",
+      "text": "3) \n                                        rautatieliikenteessä tapahtunut vakava onnettomuus, joka on määritelty yhteisön rautateiden turvallisuudesta sekä rautatieyritysten toimiluvista annetun neuvoston direktiivin 95/18/EY ja rautateiden infrastruktuurikapasiteetin käyttöoikeuden myöntämisestä ja rautateiden infrastruktuurin käyttömaksujen perimisestä sekä turvallisuustodistusten antamisesta annetun direktiivin 2001/14/EY muuttamisesta annetun Euroopan parlamentin ja neuvoston direktiivin 2004/49/EY (rautatieturvallisuusdirektiivi) 3 artiklassa, sekä vastaava onnettomuus muussa yksityisessä tai julkisessa raideliikenteessä;",
+      "clause_number": 3,
+      "section_number": "2",
+      "statute_id": "996/2010"
+    },
+    {
+      "id": "e00d75c7-ed1a-487a-b28f-0ae65ab53c51",
+      "node_type": "Clause",
+      "publisher": "finlex",
+      "title": "§ 2 mom 4",
+      "text": "4) \n                                        meriliikenteessä tapahtunut hyvin vakava onnettomuus, joka on määritelty meriliikennealan onnettomuuksien tutkinnan perusperiaatteista ja neuvoston direktiivin 1999/35/EY ja Euroopan parlamentin ja neuvoston direktiivin 2002/59/EY muuttamisesta annetun Euroopan parlamentin ja neuvoston direktiivin 2009/18/EY (merionnettomuusdirektiivi) 3 artiklassa ja vuoden 1974 kansainvälisen ihmishengen turvallisuudesta merellä tehdyn yleissopimuksen (SopS 11/1981) siihen myöhemmin tehtyine muutoksineen, liitteen XI-1 luvun 6 säännössä mainitussa merionnettomuuksien ja merellä sattuneiden vaaratilanteiden turvallisuustutkinnan kansainvälisiä normeja ja suositeltuja käytäntöjä koskevassa säännöstössä sekä vastaava onnettomuus sisävesiliikenteessä.",
+      "clause_number": 4,
+      "section_number": "2",
+      "statute_id": "996/2010"
+    },
+    {
+      "id": "4269012c-198a-4a2a-910c-995ca9aecdbe",
+      "node_type": "Clause",
+      "publisher": "finlex",
+      "title": "§ 8 mom 1",
+      "text": "1) huolehtia turvallisuustutkinnan yleisestä järjestämisestä, suunnittelusta, ohjauksesta, tiedottamisesta ja valvonnasta;",
+      "clause_number": 1,
+      "section_number": "8",
+      "statute_id": "996/2010"
+    },
+    {
+      "id": "9d75a24c-10ef-49c0-9b30-e2229bfd4c32",
+      "node_type": "Clause",
+      "publisher": "finlex",
+      "title": "§ 8 mom 2",
+      "text": "2) kouluttaa tutkijoiksi soveltuvia henkilöitä;",
+      "clause_number": 2,
+      "section_number": "8",
+      "statute_id": "996/2010"
+    },
+    {
+      "id": "18749ac3-c189-4adb-8b44-194ed7d61517",
+      "node_type": "Clause",
+      "publisher": "finlex",
+      "title": "§ 8 mom 3",
+      "text": "3) pitää yllä valmiutta tutkinnan nopeaan käynnistämiseen;",
+      "clause_number": 3,
+      "section_number": "8",
+      "statute_id": "996/2010"
+    },
+    {
+      "id": "9b4da840-8cb3-471a-a3aa-3e9a972431c9",
+      "node_type": "Clause",
+      "publisher": "finlex",
+      "title": "§ 8 mom 4",
+      "text": "4) huolehtia turvallisuustutkinnan alaan liittyvästä kansainvälisestä yhteistyöstä;",
+      "clause_number": 4,
+      "section_number": "8",
+      "statute_id": "996/2010"
+    },
+    {
+      "id": "506a3668-b63f-40bb-89a1-8b5fb100f54f",
+      "node_type": "Clause",
+      "publisher": "finlex",
+      "title": "§ 8 mom 5",
+      "text": "5) antaa turvallisuussuosituksia ja seurata niiden toteutumista.",
+      "clause_number": 5,
+      "section_number": "8",
+      "statute_id": "996/2010"
+    },
+    {
+      "id": "4f632fc7-14a7-4ce9-a496-7640202955fe",
+      "node_type": "Clause",
+      "publisher": "finlex",
+      "title": "§ 14 mom 1",
+      "text": "1) jos hän tai hänen läheisensä on kärsinyt vahinkoa tutkittavana olevassa onnettomuudessa tai hänen läheisensä on saanut siinä surmansa;",
+      "clause_number": 1,
+      "section_number": "14",
+      "statute_id": "996/2010"
+    },
+    {
+      "id": "a5f73c08-2370-4754-bcae-f18654006d1f",
+      "node_type": "Clause",
+      "publisher": "finlex",
+      "title": "§ 14 mom 2",
+      "text": "2) jos hän tai hänen läheisensä voi joutua onnettomuudesta tai siitä aiheutuneesta vahingosta vastuuseen;",
+      "clause_number": 2,
+      "section_number": "14",
+      "statute_id": "996/2010"
+    },
+    {
+      "id": "dcd46c2b-07ef-4555-b066-43db20b5002d",
+      "node_type": "Clause",
+      "publisher": "finlex",
+      "title": "§ 14 mom 3",
+      "text": "3) jos tutkinnasta tai sen tuloksista voi olla odotettavissa hyötyä tai vahinkoa hänelle tai hänen läheiselleen; tai",
+      "clause_number": 3,
+      "section_number": "14",
+      "statute_id": "996/2010"
+    },
+    {
+      "id": "c3c34229-ed81-4e4a-aeb9-00d29327c025",
+      "node_type": "Clause",
+      "publisher": "finlex",
+      "title": "§ 14 mom 4",
+      "text": "4) jos hän tai hänen läheisensä on palvelussuhteessa sellaiseen virastoon tai laitokseen, jonka toiminta voi tulla tutkittavaksi onnettomuuden johdosta tehtävässä turvallisuustutkinnassa.",
+      "clause_number": 4,
+      "section_number": "14",
+      "statute_id": "996/2010"
+    },
+    {
+      "id": "7d01ead9-aadf-4d65-8dfa-42bf6b9449b0",
+      "node_type": "Clause",
+      "publisher": "finlex",
+      "title": "§ 16 mom 1",
+      "text": "1) Liikenteen turvallisuusvirastolla;",
+      "clause_number": 1,
+      "section_number": "16",
+      "statute_id": "996/2010"
+    },
+    {
+      "id": "4f526d19-9ead-42af-aaf8-ba64289ed08c",
+      "node_type": "Clause",
+      "publisher": "finlex",
+      "title": "§ 16 mom 2",
+      "text": "2) Liikennevirastolla;",
+      "clause_number": 2,
+      "section_number": "16",
+      "statute_id": "996/2010"
+    },
+    {
+      "id": "298af925-04cb-4f2b-9fb4-b22d52aa3cb7",
+      "node_type": "Clause",
+      "publisher": "finlex",
+      "title": "§ 16 mom 3",
+      "text": "3) aluehallintovirastolla;",
+      "clause_number": 3,
+      "section_number": "16",
+      "statute_id": "996/2010"
+    },
+    {
+      "id": "dd0ea9ec-3012-409e-92de-2a5ac27efce7",
+      "node_type": "Clause",
+      "publisher": "finlex",
+      "title": "§ 16 mom 4",
+      "text": "4) muulla turvallisuutta valvovalla viranomaisella omalla toimialallaan;",
+      "clause_number": 4,
+      "section_number": "16",
+      "statute_id": "996/2010"
+    },
+    {
+      "id": "9049b17e-f789-4e97-b8cc-9392e23f1df8",
+      "node_type": "Clause",
+      "publisher": "finlex",
+      "title": "§ 16 mom 5",
+      "text": "5) sillä, joka on vastaanottanut onnettomuus- tai vaaratilannetta koskevan ilmoituksen;",
+      "clause_number": 5,
+      "section_number": "16",
+      "statute_id": "996/2010"
+    },
+    {
+      "id": "42e1cbec-acbd-44ce-9deb-179e8bd25eb5",
+      "node_type": "Clause",
+      "publisher": "finlex",
+      "title": "§ 16 mom 1",
+      "text": "6) sellaisella oikeushenkilöllä, joka on 2 §:n 1 momentin 2—4 kohdassa tarkoitetussa liikennemuodossa tapahtuneen onnettomuuden tai vaaratilanteen osallinen tai joka ilmeisesti kärsii vahinkoa tällaisen onnettomuuden johdosta.",
+      "clause_number": 1,
+      "section_number": "16",
+      "statute_id": "996/2010"
+    },
+    {
+      "id": "60731328-b157-4190-afeb-c5fa484c6ed6",
+      "node_type": "Clause",
+      "publisher": "finlex",
+      "title": "§ 16 mom 6",
+      "text": "6) sellaisella oikeushenkilöllä, joka on 2 §:n 1 momentin 2—4 kohdassa tarkoitetussa liikennemuodossa tapahtuneen onnettomuuden tai vaaratilanteen osallinen tai joka ilmeisesti kärsii vahinkoa tällaisen onnettomuuden johdosta.",
+      "clause_number": 6,
+      "section_number": "16",
+      "statute_id": "996/2010"
+    },
+    {
+      "id": "799fb816-af75-485e-bd04-883409564e48",
+      "node_type": "Clause",
+      "publisher": "finlex",
+      "title": "§ 17 mom 1",
+      "text": "1) onnettomuuden vakavuus ja laatu;",
+      "clause_number": 1,
+      "section_number": "17",
+      "statute_id": "996/2010"
+    },
+    {
+      "id": "8db7b35d-2d5f-4f40-9b8c-9590e2c45c35",
+      "node_type": "Clause",
+      "publisher": "finlex",
+      "title": "§ 17 mom 2",
+      "text": "2) vastaavien onnettomuuksien toistuvuus ja uusiutumisen todennäköisyys;",
+      "clause_number": 2,
+      "section_number": "17",
+      "statute_id": "996/2010"
+    },
+    {
+      "id": "e3e14d53-3aa4-4853-b524-1136ccfb5364",
+      "node_type": "Clause",
+      "publisher": "finlex",
+      "title": "§ 17 mom 3",
+      "text": "3) turvallisuutta valvovien viranomaisten, asiaan osallisten ja muiden pyyntö tutkinnan suorittamiseksi;",
+      "clause_number": 3,
+      "section_number": "17",
+      "statute_id": "996/2010"
+    },
+    {
+      "id": "df994f88-156d-4450-ad02-b282d49ebcf3",
+      "node_type": "Clause",
+      "publisher": "finlex",
+      "title": "§ 17 mom 4",
+      "text": "4) onko tutkinnassa saatavissa merkityksellistä turvallisuustietoa;",
+      "clause_number": 4,
+      "section_number": "17",
+      "statute_id": "996/2010"
+    },
+    {
+      "id": "c22ee2e3-1e67-4229-b06c-dd87d1417359",
+      "node_type": "Clause",
+      "publisher": "finlex",
+      "title": "§ 17 mom 5",
+      "text": "5) aiheuttiko onnettomuus vaaraa usealle ihmiselle samanaikaisesti;",
+      "clause_number": 5,
+      "section_number": "17",
+      "statute_id": "996/2010"
+    },
+    {
+      "id": "0a08100e-9625-4417-a9b2-298993351b9a",
+      "node_type": "Clause",
+      "publisher": "finlex",
+      "title": "§ 17 mom 6",
+      "text": "6) tutkiiko muu toimija onnettomuuden.",
+      "clause_number": 6,
+      "section_number": "17",
+      "statute_id": "996/2010"
+    },
+    {
+      "id": "17c338f5-cfa8-45d5-a54f-a80f23437eaf",
+      "node_type": "Clause",
+      "publisher": "finlex",
+      "title": "§ 20 mom 1",
+      "text": "1) tarpeelliset tiedot asiaa koskevan poliisi- ja esitutkinnan aineistosta ja kuolemansyynselvityksestä;",
+      "clause_number": 1,
+      "section_number": "20",
+      "statute_id": "996/2010"
+    },
+    {
+      "id": "3a89c17f-2a95-426b-a57c-f3b81669935f",
+      "node_type": "Clause",
+      "publisher": "finlex",
+      "title": "§ 20 mom 2",
+      "text": "2) tarpeelliset tiedot poliisin, pelastustoimen, hätäkeskuksen, terveydenhuollon viranomaisten ja muiden viranomaisten toiminnasta onnettomuuden yhteydessä ja varautumisesta onnettomuuksiin;",
+      "clause_number": 2,
+      "section_number": "20",
+      "statute_id": "996/2010"
+    },
+    {
+      "id": "81af2228-8f55-4005-91b5-c7586c70172a",
+      "node_type": "Clause",
+      "publisher": "finlex",
+      "title": "§ 20 mom 3",
+      "text": "3) välttämättömät tiedot onnettomuuteen liittyvän kulkuneuvon, laitteen, opastin- ja liikenteenohjausjärjestelmän toimintaa, onnettomuuden olosuhteita sekä puhe- ja viestiliikennettä rekisteröivistä laitteista sekä muista vastaavista tallentimista;",
+      "clause_number": 3,
+      "section_number": "20",
+      "statute_id": "996/2010"
+    },
+    {
+      "id": "af1b5714-af58-4623-93a9-4bf32b06bfda",
+      "node_type": "Clause",
+      "publisher": "finlex",
+      "title": "§ 20 mom 4",
+      "text": "4) välttämättömät tiedot onnettomuuteen osallisen terveydentilasta; sekä",
+      "clause_number": 4,
+      "section_number": "20",
+      "statute_id": "996/2010"
+    },
+    {
+      "id": "337f0ce7-55c8-4d0a-835a-9202527ff7e6",
+      "node_type": "Clause",
+      "publisher": "finlex",
+      "title": "§ 20 mom 5",
+      "text": "5) muut tiedot, jotka ovat tapahtumien kulun, onnettomuuden tai vaaratilanteen syntyyn tai seurauksiin vaikuttaneiden tekijöiden taikka näihin rinnastettavien seikkojen selvittämiseksi välttämättömiä.",
+      "clause_number": 5,
+      "section_number": "20",
+      "statute_id": "996/2010"
+    }
+  ],
+  "cross_references": [],
+  "raw_html_path": "C:\\Users\\danit\\finance-hack\\aalto-hackaton-2026\\data\\raw\\finlex\\Laki (säädöskokoelma)\\Turvallisuustutkintalaki.html"
+}

@@ -1,0 +1,653 @@
+{
+  "statute": {
+    "id": "e2c23b27-2702-44b7-a47e-04c75e98c52c",
+    "node_type": "Statute",
+    "publisher": "finlex",
+    "title": "Alueiden kehittämislaki",
+    "text": "Alueiden kehittämislaki",
+    "statute_id": "1353/1999",
+    "finlex_url": "https://finlex.fi/fi/laki/ajantasa/1353/1999"
+  },
+  "chapters": [
+    {
+      "id": "e690dad7-9ab9-4a9f-b81c-7e0c81f00da5",
+      "node_type": "Chapter",
+      "publisher": "finlex",
+      "title": "Chapter 1",
+      "text": "1 luku Yleiset säännökset",
+      "chapter_number": 1,
+      "statute_id": "1353/1999"
+    },
+    {
+      "id": "f1fb2c20-6151-4632-a627-d2e7b7a71593",
+      "node_type": "Chapter",
+      "publisher": "finlex",
+      "title": "Chapter 2",
+      "text": "2 luku Viranomaiset",
+      "chapter_number": 2,
+      "statute_id": "1353/1999"
+    },
+    {
+      "id": "27d091a6-5589-4136-84b0-743651a85506",
+      "node_type": "Chapter",
+      "publisher": "finlex",
+      "title": "Chapter 3",
+      "text": "3 luku Ohjelmatyö",
+      "chapter_number": 3,
+      "statute_id": "1353/1999"
+    },
+    {
+      "id": "6367b817-641c-4a23-9edc-661393f494bb",
+      "node_type": "Chapter",
+      "publisher": "finlex",
+      "title": "Chapter 4",
+      "text": "4 luku Sisäasiainministeriön hallinnonalalla myönnettävä tuki",
+      "chapter_number": 4,
+      "statute_id": "1353/1999"
+    },
+    {
+      "id": "bb223320-6a55-4d51-9782-eb414575cd36",
+      "node_type": "Chapter",
+      "publisher": "finlex",
+      "title": "Chapter 5",
+      "text": "5 luku Erinäiset säännökset",
+      "chapter_number": 5,
+      "statute_id": "1353/1999"
+    },
+    {
+      "id": "bf68e734-054c-4112-9b2b-f71dd7499b3d",
+      "node_type": "Chapter",
+      "publisher": "finlex",
+      "title": "Chapter 6",
+      "text": "6 luku Voimaantulo",
+      "chapter_number": 6,
+      "statute_id": "1353/1999"
+    }
+  ],
+  "sections": [
+    {
+      "id": "c47dada1-956e-403d-b569-b9989fad4b73",
+      "node_type": "Section",
+      "publisher": "finlex",
+      "title": "1 § Tavoite",
+      "text": "Tämän lain tavoitteena on luoda edellytyksiä alueiden kilpailukyvyn ja hyvinvoinnin takaavalle osaamiseen ja kestävään kehitykseen perustuvalle taloudelliselle kasvulle, elinkeinotoiminnan kehitykselle ja työllisyyden parantamiselle. Lisäksi tavoitteena on vähentää alueiden kehittyneisyyseroja ja parantaa väestön elinoloja sekä edistää alueiden tasapainoista kehittämistä. Lain tavoitteita toteutettaessa on otettava huomioon alueiden erilaiset väestö-, elinkeino- ja aluerakenteen kehittämismahdollisuudet ja -tarpeet. Lisäksi otetaan huomioon Euroopan yhteisön alue- ja rakennepolitiikan tavoitteet.",
+      "section_number": "1",
+      "chapter_number": 1,
+      "statute_id": "1353/1999"
+    },
+    {
+      "id": "c1637d70-a591-4b7e-8e6e-b65416dfd5da",
+      "node_type": "Section",
+      "publisher": "finlex",
+      "title": "2 § Soveltamisala",
+      "text": "Tätä lakia sovelletaan alueiden kehittämiseen, alueiden kehittämistä koskevien suunnitelmien ja ohjelmien valmisteluun ja toimeenpanoon sekä suunnitelmien ja ohjelmien yhteensovittamiseen ja seurantaan. Euroopan yhteisön rakennerahastoista osarahoitettavien ohjelmien toimeenpanosta ja rakennerahastojen rahoituksen ja vastaavan kansallisen rahoitusosuuden hallinnoinnista on voimassa, mitä rakennerahasto-ohjelmien kansallisesta hallinnoinnista annetussa laissa (1353/1999), jäljempänärakennerahastolaki, säädetään. Tätä lakia sovelletaan myönnettäessä tukea valtion talousarvioon otetusta valtion määrärahasta alueiden kehittämistä koskeviin hankkeisiin sisäasiainministeriön hallinnonalalla. Tätä lakia sovelletaan myös Euroopan yhteisön rakennerahastojen varoista ja niitä vastaavista kansallisista valtion varoista myönnettävään tukeen, jollei Euroopan yhteisön lainsäädännöstä muuta johdu. Tätä lakia sovelletaan sisäasiainministeriön hallinnonalalla myös tukeen, joka myönnetään käytettäväksi alueiden kehittämistä koskeviin hankkeisiin Suomen ulkopuolella.",
+      "section_number": "2",
+      "chapter_number": 1,
+      "statute_id": "1353/1999"
+    },
+    {
+      "id": "0e24eb4d-9077-4643-8a3a-d59d05dee5fe",
+      "node_type": "Section",
+      "publisher": "finlex",
+      "title": "3 § Määritelmät",
+      "text": "Tässä laissa tarkoitetaan:",
+      "section_number": "3",
+      "chapter_number": 1,
+      "statute_id": "1353/1999"
+    },
+    {
+      "id": "ecb97aa6-87bc-455a-b9ad-6ee3333c2436",
+      "node_type": "Section",
+      "publisher": "finlex",
+      "title": "4 § Vastuu alueiden kehittämisestä",
+      "text": "Vastuu alueiden kehittämisestä on kunnilla ja valtiolla sen mukaan kuin tässä laissa säädetään. Alueiden kehittämiseen liittyvien tehtävien hoitamisesta kussakin maakunnassa vastaa maakunnan liitto aluekehittämisviranomaisena. Maakunnan liitto on kuntayhtymä, jossa alueen kuntien on oltava jäseninä.",
+      "section_number": "4",
+      "chapter_number": 1,
+      "statute_id": "1353/1999"
+    },
+    {
+      "id": "ab902906-c119-4f1e-bbfc-83e822b511b2",
+      "node_type": "Section",
+      "publisher": "finlex",
+      "title": "5 § Alueiden kehittämisen suunnittelu",
+      "text": "Maakunnan tavoitellun alueellisen kehityksen osoittamiseksi maakunnan liitossa laaditaan maakuntasuunnitelma. Maakunnan kehittämistä varten laaditaan maakuntaohjelma, jossa esitetään maakunnan kehittämisen tavoitteet. Lisäksi alueiden kehittämistä varten laaditaan Euroopan yhteisön alueellisia rakennerahasto-ohjelmia. Asianomainen ministeriö määrittelee hallinnonalaansa varten alueiden kehittämisen tavoitteet ja toimenpiteet osana ministeriön hallinnonalan suunnittelua. Valtioneuvosto päättää valtakunnallisista alueiden kehittämisen tavoitteista. Tavoitteiden toteuttamiseksi voidaan laatia erityisohjelmia. Edellä 1 ja 2 momentissa tarkoitettujen ohjelmien toteuttamista voidaan rahoittaa valtion talousarviossa tarkoitukseen osoitettujen määrärahojen ja myönnettyjen valtuuksien rajoissa.",
+      "section_number": "5",
+      "chapter_number": 1,
+      "statute_id": "1353/1999"
+    },
+    {
+      "id": "17b72760-ee52-4283-a0f3-9b084cd59064",
+      "node_type": "Section",
+      "publisher": "finlex",
+      "title": "6 § Sisäasiainministeriön tehtävät",
+      "text": "Sisäasiainministeriö vastaa valtakunnallisten alueiden kehittämistä koskevien tavoitteiden valmistelusta yhteistyössä muiden ministeriöiden ja maakunnan liittojen kanssa. Lisäksi sisäasiainministeriö vastaa maakuntaohjelmien ja muiden tämän lain mukaisten ohjelmien valmistelun ja toimeenpanon yhteensovittamisesta, seurannasta ja arvioinnista yhteistyössä muiden ministeriöiden ja maakuntien liittojen kanssa ottaen huomioon, mitä 18 §:ssä säädetään. Sisäasiainministeriö toimii valtionavustuslaissa (688/2001) tarkoitettuna valtionapuviranomaisena myöntäessään 4 luvussa tarkoitettua tukea. Sisäasiainministeriö antaa tarvittaessa ohjeita maakunnan liitoille maakuntaohjelman ja muiden tämän lain mukaisten ohjelmien valmistelusta sekä tuen myöntämisestä, maksamisesta ja valvonnasta.",
+      "section_number": "6",
+      "chapter_number": 2,
+      "statute_id": "1353/1999"
+    },
+    {
+      "id": "928eb4a8-3f8b-46a5-9ff1-205b09b1fab5",
+      "node_type": "Section",
+      "publisher": "finlex",
+      "title": "7 § Maakunnan liiton tehtävät",
+      "text": "Maakunnan liitto: Maakunnan liitto toimii valtionavustuslaissa tarkoitettuna valtionapuviranomaisena myöntäessään 4 luvussa tarkoitettua tukea.",
+      "section_number": "7",
+      "chapter_number": 2,
+      "statute_id": "1353/1999"
+    },
+    {
+      "id": "9300b735-3b71-48ed-b682-5c140bb7a242",
+      "node_type": "Section",
+      "publisher": "finlex",
+      "title": "8 § Hallinnonaloittainen alueiden kehittäminen",
+      "text": "Valtioneuvoston päätöksellä määrätyt ministeriöt määrittelevät määräajaksi alueiden kehittämisen tavoitteet ja toimenpiteet sekä periaatteet toimenpiteiden alueellisesta kohdentamisesta ja rahoituksesta ottaen huomioon maakuntien kehittämisen tavoitteet. Rahoitus määritellään vuosittain siltä osin kuin se on mahdollista. Valtioneuvoston asetuksella voidaan antaa tarkempia säännöksiä 1 momentissa tarkoitetun suunnittelun sisällöstä ja aikataulusta sekä suunnittelussa noudatettavasta menettelystä.",
+      "section_number": "8",
+      "chapter_number": 2,
+      "statute_id": "1353/1999"
+    },
+    {
+      "id": "56be5862-21fb-49fb-86f0-315efccc3a84",
+      "node_type": "Section",
+      "publisher": "finlex",
+      "title": "9 § Valtakunnalliset alueiden kehittämisen tavoitteet",
+      "text": "Valtioneuvosto päättää määräajaksi valtakunnallisista alueiden kehittämisen tavoitteista. Edellä 1 momentissa tarkoitettujen tavoitteiden toteuttamiseksi valtioneuvosto voi päättää laadittavaksi erityisohjelmia. Valtion viranomaiset ottavat toiminnassaan huomioon valtakunnalliset alueiden kehittämisen tavoitteet, edistävät niiden toteuttamista ja arvioivat toimenpiteidensä vaikutuksia alueiden kehittämisen kannalta.",
+      "section_number": "9",
+      "chapter_number": 3,
+      "statute_id": "1353/1999"
+    },
+    {
+      "id": "1140a59c-2cc3-45f6-8577-ffd3e6652067",
+      "node_type": "Section",
+      "publisher": "finlex",
+      "title": "10 § Maakuntaohjelma",
+      "text": "Maakunnan liitto laatii määräaikaisen maakuntaohjelman. Se sisältää maakunnan mahdollisuuksiin ja tarpeisiin perustuvat kehittämisen tavoitteet, maakunnan kehittämisen kannalta keskeisimmät hankkeet ja muut olennaiset toimenpiteet tavoitteiden saavuttamiseksi ja suunnitelman ohjelman rahoittamiseksi. Lapin maakunnassa maakuntaohjelmaan sisältyy saamelaiskulttuuria koskeva osa. Maakuntaohjelmaa laadittaessa otetaan huomioon maakuntasuunnitelma, valtakunnalliset alueiden kehittämisen tavoitteet, hallinnonaloittainen alueiden kehittämisen suunnittelu ja maakuntaa koskevat muut tässä laissa tarkoitetut ohjelmat. Maakuntaohjelma valmistellaan yhteistyössä valtion viranomaisten, kuntien ja alueiden kehittämiseen osallistuvien yhteisöjen ja järjestöjen sekä muiden vastaavien tahojen kanssa. Lapin maakunnassa saamelaiskulttuuria koskevan osan valmistelee saamelaiskäräjät. Maakuntaohjelma laaditaan kunnanvaltuuston toimikausittain neljäksi vuodeksi. Maakuntaohjelman hyväksyy maakunnan liiton ylin päättävä toimielin. Maakuntaohjelmaa tarkistetaan tarvittaessa. Valtion viranomaiset ottavat toiminnassaan huomioon maakuntaohjelmat, edistävät niiden toteuttamista ja arvioivat toimenpiteidensä vaikutuksia aluekehitykseen. Valtioneuvoston asetuksella voidaan antaa tarkempia säännöksiä maakuntaohjelmaa laadittaessa noudatettavasta menettelystä ja aikataulusta.",
+      "section_number": "10",
+      "chapter_number": 3,
+      "statute_id": "1353/1999"
+    },
+    {
+      "id": "30a6da4c-9cab-42dd-bf2a-e39307f412f0",
+      "node_type": "Section",
+      "publisher": "finlex",
+      "title": "11 § Maakuntaohjelman toteuttamissuunnitelma",
+      "text": "Maakunnan liiton johdolla valmistellaan vuosittain ohjelman toteuttamissuunnitelma. Se sisältää ehdotuksen maakuntaohjelman ja erityisohjelmien toteuttamisen kannalta keskeisiksi hankkeiksi ja muiksi toimenpiteiksi sekä arvion niiden rahoittamisesta. Suunnitelma valmistellaan yhteistyössä valtion viranomaisten, kuntien ja muiden maakuntaohjelman rahoittamiseen osallistuvien kanssa. Valtioneuvoston asetuksella voidaan antaa tarkempia säännöksiä toteuttamissuunnitelmaa laadittaessa noudatettavasta menettelystä ja aikataulusta.",
+      "section_number": "11",
+      "chapter_number": 3,
+      "statute_id": "1353/1999"
+    },
+    {
+      "id": "a65a0980-548f-4092-aecc-923ee20ae291",
+      "node_type": "Section",
+      "publisher": "finlex",
+      "title": "12 § Maakunnan yhteistyöryhmän tehtävät",
+      "text": "Rakennerahastolain 17 §:ssä tarkoitettu maakunnan yhteistyöryhmä sovittaa yhteen maakuntaohjelman ja tämän lain 14 §:ssä tarkoitettujen erityisohjelmien toteuttamista ja rahoitusta. Maakunnan yhteistyöryhmä käsittelee 11 §:ssä tarkoitetun toteuttamissuunnitelman. Sen hyväksyvät maakunnan liitto ja asianomaiset valtion viranomaiset.",
+      "section_number": "12",
+      "chapter_number": 3,
+      "statute_id": "1353/1999"
+    },
+    {
+      "id": "d03495bb-9f0e-4eae-91df-03236a908d9e",
+      "node_type": "Section",
+      "publisher": "finlex",
+      "title": "13 § Euroopan yhteisön alueelliset rakenne- rahasto-ohjelmat",
+      "text": "Maakunnan liitot vastaavat alueitaan koskevien Euroopan yhteisön rakennerahastoista rahoitettavia alueellisia rakennerahasto-ohjelmia koskevien ehdotusten laatimisesta. Ohjelmaehdotukset sisältävät Euroopan yhteisön rakennerahastoja koskevassa Euroopan yhteisön lainsäädännössä edellytetyt asiat. Ohjelmia koskevat ehdotukset valmistellaan yhteistyössä valtion viranomaisten, kuntien sekä muiden ohjelmien toteuttamiseen osallistuvien julkis- ja yksityisoikeudellisten oikeushenkilöiden kanssa. Sisäasianministeriö valmistelee yhteistyössä muiden ministeriöiden, maakunnan liittojen sekä muiden ohjelmien toteuttamiseen osallistuvien yhteisöjen ja järjestöjen kanssa 1 momentissa tarkoitettujen ehdotusten perusteella ohjelmaehdotukset valtioneuvoston käsiteltäviksi. Valtioneuvosto päättää muiden kuin Euroopan yhteisön aluekehitysrahaston innovatiivisia toimia koskevien ohjelmaehdotusten antamisesta Euroopan yhteisöjen komission hyväksyttäväksi. Muilta osin ohjelmaehdotuksiin sovelletaan, mitä Euroopan yhteisön lainsäädännössä säädetään. Ohjelmien muuttamisessa noudatetaan soveltuvin osin, mitä ohjelmia koskevien ehdotusten laatimisesta ja hyväksymisestä säädetään. Ohjelma-asiakirjan täydennyksen muuttamisesta päättää valtioneuvosto, jos muutos koskee rakennerahastovaroja vastaavan valtion rahoituksen tai rahoitusosuuden lisäämistä.",
+      "section_number": "13",
+      "chapter_number": 3,
+      "statute_id": "1353/1999"
+    },
+    {
+      "id": "d1153b03-e233-4fa6-bbe5-51f42fd41d58",
+      "node_type": "Section",
+      "publisher": "finlex",
+      "title": "14 § Erityisohjelmat",
+      "text": "Valtakunnallisten alueiden kehittämisen tavoitteiden toteuttamiseksi voidaan laatia määräaikaisia erityisohjelmia, jotka sovitetaan yhteen maakuntaohjelmien kanssa. Ohjelmat hyväksyy valtioneuvosto. Ohjelmia koskevia esityksiä voivat laatia kunnat tai muut julkisoikeudelliset yhteisöt, julkisoikeudelliset säätiöt taikka yksityisoikeudelliset yhteisöt tai säätiöt. Edellä 1 momentissa tarkoitettuja erityisohjelmia ovat aluekeskusohjelma, maaseutupoliittinen kokonaisohjelma, osaamiskeskusohjelma ja saaristo-ohjelma. Niiden tavoitteista säädetään 15 §:ssä. Valtioneuvosto voi 9 §:n nojalla tehdä päätöksen myös muista kuin 2 momentissa tarkoitetuista erityisohjelmista. Valtioneuvoston asetuksella voidaan antaa tarkempia säännöksiä erityisohjelmien sisällöstä sekä niitä valmisteltaessa ja hyväksyttäessä noudatettavasta menettelystä.",
+      "section_number": "14",
+      "chapter_number": 3,
+      "statute_id": "1353/1999"
+    },
+    {
+      "id": "b19c2db3-b5a9-461a-a56c-54f2ed6b1985",
+      "node_type": "Section",
+      "publisher": "finlex",
+      "title": "15 § Erityisohjelmien tavoitteet",
+      "text": "Aluekeskusohjelman tavoitteena on kehittää aluekeskusten vahvuuksia, erikoistumista ja yhteistyötä kaikki maakunnat kattavan verkoston vahvistamiseksi. Aluekeskukset muodostuvat toiminnallisesti yhtenäisistä, työssäkäyntiin, asumiseen sekä palvelujen tuottamiseen ja kysyntään perustuvista kaupunkiseuduista. Maaseutupoliittisen kokonaisohjelman tavoitteena on uudistaa ja monipuolistaa elinkeinoja sekä turvata ja kehittää palveluja maaseudulla sovittamalla yhteen maaseutua koskevia eri hallinnonalojen toimenpiteitä. Osaamiskeskusohjelman tavoitteena on parantaa kansainvälisesti kilpailukykyisen, korkeaa osaamista vaativan yritys- ja tutkimustoiminnan sijoittumisen ja kehittämisen edellytyksiä. Ohjelmalla tuetaan alueellista erikoistumista ja työnjakoa osaamiskeskusten välillä. Saaristo-ohjelmaa toteutetaan saariston kehityksen edistämisestä annetun lain (494/1981) 3 §:ssä tarkoitetussa saaristossa lain tavoitteiden edistämiseksi.",
+      "section_number": "15",
+      "chapter_number": 3,
+      "statute_id": "1353/1999"
+    },
+    {
+      "id": "3c3a59d0-5931-4e43-948b-317f3899a4ae",
+      "node_type": "Section",
+      "publisher": "finlex",
+      "title": "16 § Ohjelmasopimus",
+      "text": "Tässä laissa tarkoitettujen ohjelmien toteuttamiseksi voidaan laatia ohjelmasopimuksia. Niissä voidaan sopia ohjelmaan sisältyvien toimenpiteiden ja hankkeiden toteuttamisesta. Ohjelmasopimus laaditaan yhteistyössä ohjelman rahoittamiseen osallistuvien kuntien, valtion viranomaisten sekä alueen kehittämiseen osallistuvien oikeushenkilöiden kanssa. Ohjelmasopimus laaditaan määräajaksi. Valtioneuvoston asetuksella voidaan antaa tarkempia säännöksiä ohjelmasopimusta laadittaessa noudatettavasta menettelystä.",
+      "section_number": "16",
+      "chapter_number": 3,
+      "statute_id": "1353/1999"
+    },
+    {
+      "id": "31411aaa-e358-4452-af2c-7036e2b60455",
+      "node_type": "Section",
+      "publisher": "finlex",
+      "title": "17 § Yhteistyöryhmät",
+      "text": "Tässä laissa tarkoitettujen erityisohjelmien valmistelua, yhteensovittamista ja arviointia varten voidaan asettaa yhteistyöryhmiä. Yhteistyöryhmissä ovat edustettuina jäsenet ministeriöistä sekä sellaisista oikeushenkilöistä, joilla on huomattava merkitys alueiden kehittämisessä. Yhteistyöryhmien puheenjohtajat ja muut jäsenet määrää valtioneuvosto. Edellä 1 momentissa tarkoitettuja tehtäviä yhteistyöryhmän jäsenet hoitavat virkavastuulla. Tehtäviä hoitaessaan yhteistyöryhmään sovelletaan, mitä hallintomenettelylaissa (598/1982), tiedoksiannosta hallintoasioissa annetussa laissa (232/1966), asiakirjain lähettämisestä annetussa laissa (74/1954) ja kielilaissa (148/1922) säädetään. Yhteistyöryhmän asiakirjojen ja toiminnan julkisuudesta on lisäksi voimassa, mitä viranomaisten toiminnan julkisuudesta annetussa laissa (621/1999) säädetään. Valtioneuvoston asetuksella voidaan antaa tarkempia säännöksiä yhteistyöryhmien kokoonpanosta, työskentelytavoista ja tehtävistä.",
+      "section_number": "17",
+      "chapter_number": 3,
+      "statute_id": "1353/1999"
+    },
+    {
+      "id": "fa43e04e-074c-4e38-b838-13ec01a58a2a",
+      "node_type": "Section",
+      "publisher": "finlex",
+      "title": "18 § Ohjelmien arviointi ja seuranta",
+      "text": "Tämän lain mukaisia ohjelmia valmisteltaessa niitä arvioidaan sen mukaan, kuin niiden arvioinnista erikseen säädetään. Ohjelmakauden aikana tai sen päätyttyä ulkopuoliset arvioitsijat arvioivat kunkin tässä laissa tarkoitetun ohjelman ainakin kerran. Maakuntaohjelman arvioinnista vastaa maakunnan liitto, hallinnonaloittaisten alueiden kehittämisen tavoitteiden arvioinnista vastaa kukin ministeriö ja 14 §:ssä tarkoitettujen erityisohjelmien arvioinnista toimivaltaiset ministeriöt. Edellä 13 §:ssä tarkoitettujen ohjelmien arvioinnista säädetään erikseen. Maakuntaohjelmia rahoittavat viranomaiset toimittavat maakunnan liitoille sellaiset maakuntaohjelmien seurantaa koskevat tiedot, jotka ovat tarpeen ohjelmien tulosten seurannan kannalta. Ministeriöt vastaavat 8 §:ssä tarkoitettujen tavoitteiden toteutumisen seurannasta. Erityisohjelmien tavoitteiden toteutumisen seurannasta vastaavat toimivaltaiset ministeriöt. Valtioneuvoston asetuksella voidaan antaa tarkempia säännöksiä arvioinnissa ja seurannassa käytettävistä tunnusluvuista ja noudatettavista menettelyistä.",
+      "section_number": "18",
+      "chapter_number": 3,
+      "statute_id": "1353/1999"
+    },
+    {
+      "id": "58cdc1dc-c5ee-4aa5-bb26-3e0a5219ad06",
+      "node_type": "Section",
+      "publisher": "finlex",
+      "title": "19 § Kehittämishanke",
+      "text": "Kehittämishankkeella tarkoitetaan tässä laissa määräaikaista suunnitelmaan perustuvaa hanketta, jossa käyttöomaisuuden osuus voi olla enintään puolet hankkeen hyväksyttävistä kokonaiskustannuksista.",
+      "section_number": "19",
+      "chapter_number": 4,
+      "statute_id": "1353/1999"
+    },
+    {
+      "id": "ffce1828-eed5-4f50-9136-8b2a935a45d3",
+      "node_type": "Section",
+      "publisher": "finlex",
+      "title": "20 § Maakunnan kehittämisraha ja määrärahojen alueellinen jako",
+      "text": "Maakunnan kehittämisrahalla tarkoitetaan tässä laissa valtion talousarvioon otettuja yksinomaan kansallisia alueiden kehittämiseen tarkoitettuja määrärahoja. Valtion talousarvioon otetaan vuosittain määrärahat tässä laissa tarkoitettuihin tukiin. Valtioneuvosto päättää määrärahojen jakamisesta alueittain. Alueellisten rakennerahasto-ohjelmien rakennerahastovarojen ja niitä vastaavien valtion varojen jaossa noudatetaan lisäksi, mitä siitä erikseen säädetään.",
+      "section_number": "20",
+      "chapter_number": 4,
+      "statute_id": "1353/1999"
+    },
+    {
+      "id": "352e2d28-5ccb-403a-a151-8f8c4940dc73",
+      "node_type": "Section",
+      "publisher": "finlex",
+      "title": "21 § Valtionavustuslain soveltaminen",
+      "text": "Tässä laissa tarkoitettuun tukeen sovelletaan, mitä valtionavustuslaissa säädetään, jollei jäljempänä toisin säädetä.",
+      "section_number": "21",
+      "chapter_number": 4,
+      "statute_id": "1353/1999"
+    },
+    {
+      "id": "6acc98dc-550a-4385-a512-1a3515e1160a",
+      "node_type": "Section",
+      "publisher": "finlex",
+      "title": "22 § Tuen saajat",
+      "text": "Tukea voidaan myöntää julkis- ja yksityisoikeudellisille oikeushenkilöille ja luonnollisille henkilöille. Tuki voidaan myöntää useammalle kuin yhdelle tuen saajalle yhteisesti.",
+      "section_number": "22",
+      "chapter_number": 4,
+      "statute_id": "1353/1999"
+    },
+    {
+      "id": "6355d1a4-f880-4ce8-9aec-2266fc780529",
+      "node_type": "Section",
+      "publisher": "finlex",
+      "title": "23 § Tuen käyttö",
+      "text": "Tukea voidaan myöntää valtion talousarvioon otettujen määrärahojen rajoissa alueiden kehittämistä ja alueen kuntien välisen elinkeinopoliittisen yhteistyön edistämistä koskeviin kehittämishankkeisiin (alueellinen kehittämistuki) sekä käyttöomaisuuden hankintaan perusrakenteen kehittämistä varten (perusrakenteen investointituki). Maakunnan liitto voi käyttää alueellista kehittämistukea myös itse toteuttamiinsa kehittämishankkeisiin. Sisäasiainministeriö voi käyttää osan alueelliseen kehittämistukeen varatusta määrärahasta useampaa kuin yhtä aluetta koskeviin tai valtakunnallisesti tärkeisiin alueiden kehittämistä koskeviin hankkeisiin. Tukea ei saa käyttää yleisenä toimintatukena. Tuki myönnetään avustuksena. Avustuksen käyttökohteista säädetään tarkemmin valtioneuvoston asetuksella.",
+      "section_number": "23",
+      "chapter_number": 4,
+      "statute_id": "1353/1999"
+    },
+    {
+      "id": "f1dd3a11-55ab-4c87-bc10-22972369fd1e",
+      "node_type": "Section",
+      "publisher": "finlex",
+      "title": "24 § Tuen myöntämisen yleiset edellytykset",
+      "text": "Tuen myöntämisen yleisenä edellytyksenä on, että se on perusteltua avustuksen käytölle asetettujen tavoitteiden kannalta. Myönnettäessä tukea alueelliseen rakennerahasto-ohjelmaan sisältyvään hankkeeseen, tuen myöntämisen edellytyksenä on lisäksi, että hanke on Euroopan yhteisön lainsäädännön ja ohjelman mukainen. Interreg- ja Urban-yhteisöaloiteohjelmassa sekä Euroopan aluekehitysrahaston innovatiivisia toimia koskevassa ohjelmassa tuen myöntämisen yleisenä edellytyksenä on sen lisäksi, mitä 1 momentissa säädetään, että ohjelman toimeenpanoa varten asetettu hallintokomitea on rakennerahastolain 21 b §:n mukaisesti puoltanut hankkeen rahoittamista.",
+      "section_number": "24",
+      "chapter_number": 4,
+      "statute_id": "1353/1999"
+    },
+    {
+      "id": "725a6100-9011-44b4-bcff-15692577622a",
+      "node_type": "Section",
+      "publisher": "finlex",
+      "title": "25 § Hyväksyttävät kustannukset",
+      "text": "Tukea myönnetään hankkeeseen tuen myöntäjän hyväksymän kustannusarvion mukaan tarpeellisten ja määrältään kohtuullisten menojen perusteella. Hankkeen menoista vähennetään hankkeeseen välittömästi kohdistuvat tai liittyvät tulot. Kustannusten hyväksyttävyyttä arvioitaessa otetaan huomioon sen lisäksi, mitä tässä laissa säädetään, menojen tukikelpoisuutta koskeva Euroopan yhteisön lainsäädäntö. Valtionneuvoston asetuksella annetaan tarkempia säännöksiä hyväksyttävien kustannusten lajista ja määrästä.",
+      "section_number": "25",
+      "chapter_number": 4,
+      "statute_id": "1353/1999"
+    },
+    {
+      "id": "9f6b456f-92a4-452f-8dd6-7f061eed5faf",
+      "node_type": "Section",
+      "publisher": "finlex",
+      "title": "26 § Tuen määrä",
+      "text": "Tuki ei saa kattaa hankkeesta aiheutuvien kustannusten täyttä määrää. Tuen hakijan tulee itse osallistua hankkeesta aiheutuviin kustannuksiin, jollei siitä poikkeamiseen ole erityisiä syitä. Myönnettäessä tukea Euroopan yhteisön rakennerahastovaroista rahastojen osuuksien enimmäismääriin sovelletaan, mitä Euroopan yhteisön lainsäädännössä säädetään ja mitä hanketta koskevassa alueellisessa rakennerahasto-ohjelmassa määrätään. Tukea voidaan myöntää vain tuen hakemisen jälkeen syntyneisiin kustannuksiin. Tarkempia säännöksiä tuen määrästä annetaan valtioneuvoston asetuksella.",
+      "section_number": "26",
+      "chapter_number": 4,
+      "statute_id": "1353/1999"
+    },
+    {
+      "id": "5ea2c672-504d-42d2-b61e-ea5a2fe84bc2",
+      "node_type": "Section",
+      "publisher": "finlex",
+      "title": "27 § Tuen hakeminen",
+      "text": "Tukea haetaan kirjallisesti siltä maakunnan liitolta, jonka alueella hakijan tuettava toiminta pääasiallisesti sijaitsee. Interreg-ohjelman mukaista tukea haetaan kuitenkin hallinto- ja maksuviranomaisena toimivalta maakunnan liitolta ja Euroopan aluekehitysrahaston innovatiivisia toimia koskevan ohjelman mukaista tukea ohjelma-asiakirjassa nimetyltä maakunnan liitolta. Edellä 1 momentista poiketen tukea haetaan sisäasiainministeriöltä silloin, kun se toimii tuen myöntäjänä. Hakemuksesta on käytävä ilmi hankkeen yhteys ohjelmaan, tuen myöntämisen kannalta oikeat ja riittävät tiedot tuen käyttötarkoituksesta sekä muista seikoista, joita tuen myöntäjä tarvitsee hakemuksen ratkaisemiseksi. Tarkempia säännöksiä tuen hakemisesta annetaan valtioneuvoston asetuksella.",
+      "section_number": "27",
+      "chapter_number": 4,
+      "statute_id": "1353/1999"
+    },
+    {
+      "id": "b775d3df-6eca-4516-a7fe-80ea080131e8",
+      "node_type": "Section",
+      "publisher": "finlex",
+      "title": "28 § Tuen myöntäminen",
+      "text": "Maakunnan liitto päättää tässä laissa tarkoitetun tuen myöntämisestä alueellaan. Sen lisäksi maakunnan liitto voi päättää tuen myöntämisestä toisen maakunnan liiton alueella olevaan ylimaakunnalliseen hankkeeseen. Jos kansallinen julkinen rahoitusosuus hankkeeseen tulee kokonaan kunnilta, maakunnan liitto voi myöntää hankkeeseen perusrakenteen investointitukena Euroopan yhteisön rakennerahastojen rahoitusosuuden. Sisäasiainministeriö päättää kuitenkin 23 §:n 3 momentissa tarkoitetun tuen myöntämisestä.",
+      "section_number": "28",
+      "chapter_number": 4,
+      "statute_id": "1353/1999"
+    },
+    {
+      "id": "4cbe0979-4260-45ec-ab46-f58d14a8d3d3",
+      "node_type": "Section",
+      "publisher": "finlex",
+      "title": "29 § Interreg- tai Urban-yhteisöaloiteohjelman ja Euroopan aluekehitysrahaston innovatiivisia toimia koskevan ohjelman mukaisen tuen myöntäminen",
+      "text": "Jos Interreg-yhteisöaloiteohjelmassa tai Euroopan aluekehitysrahaston innovatiivisia toimia koskevassa ohjelmassa rakennerahastovarojen rahoitusosuus myönnetään tukena hankkeeseen, johon kansallinen julkinen rahoitusosuus tulee pääasiallisesti muulta valtion viranomaiselta kuin sisäasiainministeriöltä, rakennerahastovaroista tulevan rahoitusosuuden myöntämistä koskee soveltuvin osin, mitä kansallisesta julkisesta rahoitusosuudesta tulevasta tuesta säädetään. Interreg-yhteisöaloiteohjelmassa hallinto- ja maksuviranomaisena toimiva maakunnan liitto myöntää 28 §:stä poiketen rakennerahastovaroista maksettavan tuen Interreg-yhteisöaloiteohjelman mukaiselle alueelle. Jos ohjelma-alue ulottuu toisen Euroopan unionin jäsenvaltion alueelle, hallinto- ja maksuviranomaisena toimiva maakunnan liitto myöntää rakennerahastovaroista maksettavan tuen käytettäväksi Suomen ulkopuolella. Se voi lisäksi 28 §:stä poiketen myöntää ohjelma-asiakirjan mukaisella alueella sijaitsevaan hankkeeseen rakennerahastovaroja vastaavan valtion rahoitusosuuden, jos ohjelma-alueen maakunnan liitot ovat siitä kirjallisesti sopineet. Niissä Interreg-yhteisöaloiteohjelmissa, joissa hallinto- ja maksuviranomainen toimii toisessa jäsenvaltiossa, ohjelma-alueen maakunnan liitto voi myöntää hankkeeseen rakennerahastovaroja vastaavan valtion rahoitusosuuden, jos ohjelma-alueen maakunnan liitot ovat siitä kirjallisesti sopineet. Euroopan aluekehitysrahaston innovatiivisia toimia koskevassa ohjelma-asiakirjassa nimetty maakunnan liitto myöntää 28 §:stä poiketen rakennerahastovaroista maksettavan tuen ohjelman mukaiselle alueelle. Se voi lisäksi myöntää hankkeeseen rakennerahastovaroja vastaavan valtion rahoitusosuuden, jos siitä on sovittu ohjelma-asiakirjassa. Urban-yhteisöaloiteohjelmassa rakennerahastovaroja vastaavan valtion rahoitusosuudesta tulevan tuen sisäasiainministeriön hallinnonalalla myöntää se maakunnan liitto, jonka alueella Urban-ohjelma-alue sijaitsee. Tarkempia säännöksiä tukea myönnettäessä noudatettavista ehdoista ja menettelystä voidaan antaa valtioneuvoston asetuksella.",
+      "section_number": "29",
+      "chapter_number": 4,
+      "statute_id": "1353/1999"
+    },
+    {
+      "id": "16cfdfd1-ef9c-4f30-8bdb-dbaae5ca09e9",
+      "node_type": "Section",
+      "publisher": "finlex",
+      "title": "30 § Tarkastusoikeus ja tarkastuksen suoritta- minen",
+      "text": "Sen lisäksi, mitä valtionavustuslaissa säädetään tarkastusoikeudesta ja tarkastuksen suorittamisesta tarkastettaessa hanketta, johon on myönnetty tukea Euroopan yhteisön rakennerahastovaroista, yksittäistä hanketta tarkastettaessa tarkastusoikeus koskee hanketta ja sen rahoitusta kokonaisuudessaan siinä laajuudessa kuin Euroopan yhteisön lainsäädännössä säädetään. Euroopan yhteisön toimielinten tarkastusoikeutta koskee, mitä Euroopan yhteisön lainsäädännössä säädetään.",
+      "section_number": "30",
+      "chapter_number": 4,
+      "statute_id": "1353/1999"
+    },
+    {
+      "id": "c971f80a-9db0-47a1-ba68-7d517a52da33",
+      "node_type": "Section",
+      "publisher": "finlex",
+      "title": "31 § Sisäasiainministeriön tarkastusoikeus",
+      "text": "Sisäasiainministeriöllä on oikeus tarkastaa tässä laissa tarkoitettujen tukien myöntämistä, maksatusta, käyttöä ja valvontaa. Tarkastusoikeutta koskee soveltuvin osin, mitä 30 §:ssä säädetään. Sisäasiainministeriön tarkastusoikeutta hallinto- ja maksuviranomaisena sekä Interreg- ja Urban-yhteisöaloiteohjelmissa koskee, mitä rakennerahastolaissa säädetään.",
+      "section_number": "31",
+      "chapter_number": 4,
+      "statute_id": "1353/1999"
+    },
+    {
+      "id": "adb678b5-f15a-4e14-9f04-338617b9fc42",
+      "node_type": "Section",
+      "publisher": "finlex",
+      "title": "32 § Tuen takaisinperintä",
+      "text": "Maakunnan liiton on päätöksellään määrättävä avustuksen maksaminen lopetettavaksi sekä jo maksettu avustus takaisinperittäväksi, jos: Maakunnan liitto voi päätöksellään määrätä avustuksen maksamisen lopetettavaksi taikka osittain tai kokonaan takaisinperittäväksi, jos: Mitä 1 ja 2 momentissa säädetään maakunnan liitosta, koskee sisäasiainministeriötä sen päättäessä tässä laissa tarkoitettujen varojen käyttöön liittyvästä takaisinperinnästä.",
+      "section_number": "32",
+      "chapter_number": 4,
+      "statute_id": "1353/1999"
+    },
+    {
+      "id": "509daadb-786d-487d-9ff9-11df1884830d",
+      "node_type": "Section",
+      "publisher": "finlex",
+      "title": "33 § Sisäasiainministeriön oikeus takaisin- perintään",
+      "text": "Sisäasiainministeriö voi päätöksellään määrätä maakunnan liitolle rakennerahastovaroista ja niitä vastaavista valtion varoista maksetut varat tai yksinomaan kansallisista valtion varoista maksetut varat tai niiden osa takaisin perittäväksi, jos aluekehittämisviranomainen on käyttänyt varat muuhun tarkoitukseen kuin ne on myönnetty tai on rikkonut varojen käyttämistä koskevia säännöksiä tai varojen osoittamispäätöksessä asetettuja ehtoja.",
+      "section_number": "33",
+      "chapter_number": 4,
+      "statute_id": "1353/1999"
+    },
+    {
+      "id": "9d2413c8-c270-43c8-a408-af4b378797e4",
+      "node_type": "Section",
+      "publisher": "finlex",
+      "title": "34 § Euroopan yhteisön rakennerahastovarojen takaisinmaksu",
+      "text": "Jos valtio on Euroopan yhteisön rakennerahastoja koskevaan lainsäädäntöön perustuvan jäsenvaltion vastuun perusteella velvollinen maksamaan Euroopan yhteisöjen komissiolle takaisin rakennerahastovaroja, sisäasiainministeriö voi päätöksellään määrätä maakunnan liiton maksamaan valtiolle valtion komissiolle maksaman määrän täysimääräisenä kuluineen. Suoritus määrätään, jos varojen takaisinmaksu on johtunut maakunnan liiton menettelystä tai jos maakunnan liitto on ohjelma-asiakirjan perusteella suoraan vastuussa komissiolle varojen käytöstä.",
+      "section_number": "34",
+      "chapter_number": 4,
+      "statute_id": "1353/1999"
+    },
+    {
+      "id": "3d27add1-3177-4b53-b4a1-022443474450",
+      "node_type": "Section",
+      "publisher": "finlex",
+      "title": "35 § Takaisinperittävän määrän korotus",
+      "text": "Jos tuen saaja on menetellyt 32 §:n 1 momentissa säädetyllä tavalla, takaisinperittävää määrää voidaan korottaa enintään 20 prosentilla tai, jos mainitussa momentissa tarkoitettu menettely on ollut erittäin törkeää, enintään 100 prosentilla.",
+      "section_number": "35",
+      "chapter_number": 4,
+      "statute_id": "1353/1999"
+    },
+    {
+      "id": "1f0883b1-28a4-46b4-a8aa-537d8698f782",
+      "node_type": "Section",
+      "publisher": "finlex",
+      "title": "36 § Takaisinperinnän määräaika ja vanheneminen",
+      "text": "Rakennerahastovarojen ja niitä vastaavan valtion rahoitusosuuden takaisinperinnän määräaikaan ja vanhenemiseen sovelletaan, mitä Euroopan yhteisön lainsäädännössä säädetään.",
+      "section_number": "36",
+      "chapter_number": 4,
+      "statute_id": "1353/1999"
+    },
+    {
+      "id": "16fbd85e-16dd-4cd5-841a-1c1140bef512",
+      "node_type": "Section",
+      "publisher": "finlex",
+      "title": "37 § Lausunto- ja neuvottelumenettely",
+      "text": "Tässä laissa tarkoitettuja ohjelmia ja suunnitelmia ensisijaisesti tarkistetaan tai muutetaan siten, että toteutettavat tavoitteet ja toimenpiteet sisältyvät ohjelmiin ja suunnitelmiin. Muutoin noudatetaan, mitä 2―4 momentissa säädetään. Valtion viranomaisten on pyydettävä maakunnan liitoilta lausunto sellaisista alueen kehittämisen kannalta merkittävistä suunnitelmista ja toimenpiteistä, jotka eivät sisälly maakuntaohjelmaan, sekä arvioitava niiden vaikutuksia alueen kehitykseen. Lausunto ja maakunnan kehittämistä koskevat ohjelmat on otettava huomioon päätöksenteossa ja muussa toiminnassa. Jos valtion viranomainen aikoo poiketa maakunnan liiton lausunnosta, sen on perusteltava poikkeaminen neuvoteltuaan sitä ennen asiasta maakunnan liiton kanssa. Ennen kuin valtion viranomainen tekee sellaisen valtion paikallis- tai aluehallinnon toimielimiä, niiden toimialueita tai toimipaikkoja taikka kustakin toimipaikasta saatavia palveluja koskevan päätöksen, joka saattaa heikentää asiakaspalvelujen saatavuutta, taikka tekee valtioneuvostolle aloitteen tällaisen päätöksen tekemiseksi, sen on pyydettävä lausunto kunnalta, jota asia koskee. Jos asia koskee kahta tai useampaa kuntaa, lausunto on pyydettävä myös maakunnan liitolta. Jos valtion viranomainen aikoo poiketa lausunnosta, sen on neuvoteltava asianomaisen kunnan ja maakunnan liiton kanssa. Lausunnosta on muutoin voimassa, mitä 2 momentissa säädetään. Kunkin ministeriön tulee neuvotella sisäasiainministeriön kanssa hallinnonalansa keskushallintoviranomaisten ja liikelaitosten valmistelemista alueelliseen kehitykseen merkittävästi vaikuttavista toimenpiteistä.",
+      "section_number": "37",
+      "chapter_number": 5,
+      "statute_id": "1353/1999"
+    },
+    {
+      "id": "ca2b9529-ea85-47d9-9cc9-11aa699ae078",
+      "node_type": "Section",
+      "publisher": "finlex",
+      "title": "38 § Aluejaot",
+      "text": "Alueiden kehittämistä koskevien tukitoimenpiteiden kohdentamista ja porrastamista varten määrätään kehitysalue. Kehitysalueen määräämisen perustana käytetään seutukuntajakoa, joka perustuu kuntajakoon. Seutukuntajakoa määrättäessä otetaan huomioon ainakin työssäkäynti, asiointi, kuntien välinen yhteistyö ja liikenneyhteydet. Seutukuntajaon vahvistaa sisäasiainministeriö sen jälkeen, kun se on kuullut niitä kuntia ja maakunnan liittoja, joita asia koskee. Valtioneuvosto voi määrätä maan heikoimmin kehittyneet alueet niiden kehittyneisyyden ja kehittämistarpeiden perusteella kehitysalueeksi. Kehitysalue jaetaan seutukunnittain I, II ja III tukialueeseen. Määräämis- ja jakamisperusteista sekä tukialueisiin kuuluvien seutukuntien nimeämisestä säädetään valtioneuvoston asetuksella. Maaseudun kehittämistä koskevien tukitoimenpiteiden kohdentamista ja porrastamista varten voidaan määrätä myös muita kuin kehitysalueita. Näiden alueiden määräämisen perustana käytetään kuntajakoa. Säännökset näiden alueiden muodostamisen perusteista ja kuntien nimeämisestä tässä momentissa tarkoitettuihin alueisiin annetaan valtioneuvoston asetuksella. Valtioneuvosto voi saariston kehityksen edistämisestä annetun lain 14 §:ssä tarkoitettua saaristoasiain neuvottelukuntaa kuultuaan määrätä mainitun lain 9 §:n nojalla saaristokunnaksi määrätyn kunnan ja sellaisen muun kunnan saaristo-osan, johon valtioneuvosto on päättänyt sovellettavaksi saaristokuntaa koskevia säännöksiä, sekä pysyvästi asutun,ilman kiinteää tieyhteyttä mantereeseen olevan saaren ja saariryhmän kuuluvaksi kehitysalueen I tai II tukialueeseen.",
+      "section_number": "38",
+      "chapter_number": 5,
+      "statute_id": "1353/1999"
+    },
+    {
+      "id": "a17cc433-58ca-42cb-b94b-97cbda030724",
+      "node_type": "Section",
+      "publisher": "finlex",
+      "title": "39 § Investointitukien enimmäismäärät",
+      "text": "Kehitysalueen yrityksille myönnettävien julkisten investointitukien enimmäismääristä säädetään yritystoiminnan tukemisesta annetussa laissa (1068/2000).",
+      "section_number": "39",
+      "chapter_number": 5,
+      "statute_id": "1353/1999"
+    },
+    {
+      "id": "50d16c81-2700-48a5-bd31-0b444ea4ab2f",
+      "node_type": "Section",
+      "publisher": "finlex",
+      "title": "40 § Muutoksenhaku",
+      "text": "Tässä laissa tarkoitetun aluekehittämisviranomaisena toimivan maakunnan liiton päätökseen haetaan muutosta siten kuin kuntalaissa (365/1995) oikaisuvaatimuksen tekemisestä ja kunnallisvalituksesta säädetään. Maakunnan yhteistyöryhmän tämän lain nojalla tekemään päätökseen haetaan muutosta valittamalla hallinto-oikeuteen siten kuin muutoksenhausta kuntayhtymän päätökseen kuntalaissa säädetään. Sisäasiainministeriön valtionapuviranomaisena tekemään päätökseen ei saa hakea muutosta valittamalla. Valtionapuviranomaisen päätökseen saa siihen tyytymätön asianosainen hakea oikaisua 30 päivän kuluessa päätöksen tiedoksisaannista. Oikaisuvaatimus tehdään sisäasiainministeriölle. Oikaisuvaatimuksesta annettuun päätökseen haetaan muutosta valittamalla hallinto-oikeuteen siten kuin hallintolainkäyttölaissa (586/1996) säädetään.",
+      "section_number": "40",
+      "chapter_number": 5,
+      "statute_id": "1353/1999"
+    },
+    {
+      "id": "fd756996-f78a-491b-83d5-15e9fb859830",
+      "node_type": "Section",
+      "publisher": "finlex",
+      "title": "41 § Voimaantulo",
+      "text": "Tämä laki tulee voimaan 1 päivänä tammikuuta 2003. Tämän lain 14 §:n 2 momenttia sovelletaan vuoden 2006 loppuun saakka. Ennen lain voimaantuloa voidaan ryhtyä lain täytäntöönpanon edellyttämiin toimenpiteisiin. Tällä lailla kumotaan alueiden kehittämisestä 10 päivänä joulukuuta 1993 annettu laki (1135/1993) siihen myöhemmin tehtyine muutoksineen.",
+      "section_number": "41",
+      "chapter_number": 6,
+      "statute_id": "1353/1999"
+    },
+    {
+      "id": "9f215057-5db6-4e55-867b-1f7d29df1d74",
+      "node_type": "Section",
+      "publisher": "finlex",
+      "title": "42 § Siirtymäsäännös",
+      "text": "Ennen tämän lain voimaantuloa myönnettyyn avustukseen sovelletaan tämän lain voimaan tullessa voimassa olleita säännöksiä.",
+      "section_number": "42",
+      "chapter_number": 6,
+      "statute_id": "1353/1999"
+    }
+  ],
+  "clauses": [
+    {
+      "id": "662cd364-16ac-4c30-8a59-3e685a0a20a4",
+      "node_type": "Clause",
+      "publisher": "finlex",
+      "title": "§ 7 mom 1",
+      "text": "1) vastaa maakunnan yleisestä kehittämisestä ja toimii tällöin yhteistyössä valtion viranomaisten kanssa;",
+      "clause_number": 1,
+      "section_number": "7",
+      "statute_id": "1353/1999"
+    },
+    {
+      "id": "2d71d18d-bb33-4344-9f94-96e3351a4489",
+      "node_type": "Clause",
+      "publisher": "finlex",
+      "title": "§ 7 mom 2",
+      "text": "2) vastaa maakunnan suunnitteluun kuuluvan maakuntaohjelman laatimisesta ja hyväksyy sen;",
+      "clause_number": 2,
+      "section_number": "7",
+      "statute_id": "1353/1999"
+    },
+    {
+      "id": "701d9a4b-fc0c-4b28-86a1-1f905869e824",
+      "node_type": "Clause",
+      "publisher": "finlex",
+      "title": "§ 7 mom 3",
+      "text": "3) valmistelee maakuntaohjelman perusteella vuosittain maakuntaohjelman toteuttamissuunnitelman yhteistyössä valtion viranomaisten, kuntien ja muiden maakuntaohjelman rahoittamiseen osallistuvien kanssa sekä osaltaan hyväksyy maakuntaohjelman toteuttamissuunnitelman;",
+      "clause_number": 3,
+      "section_number": "7",
+      "statute_id": "1353/1999"
+    },
+    {
+      "id": "b4ca0b2c-fd7c-4732-ad71-772640bf05e5",
+      "node_type": "Clause",
+      "publisher": "finlex",
+      "title": "§ 7 mom 4",
+      "text": "4) vastaa alueellisia rakennerahasto-ohjelmia koskevien ohjelmaehdotusten laatimisesta maakuntaa varten;",
+      "clause_number": 4,
+      "section_number": "7",
+      "statute_id": "1353/1999"
+    },
+    {
+      "id": "08d3fd70-4cce-45ac-8861-0d8a6354df4a",
+      "node_type": "Clause",
+      "publisher": "finlex",
+      "title": "§ 7 mom 5",
+      "text": "5) edistää kuntien seudullista ja muuta yhteistyötä sekä maakuntien välistä yhteistyötä ja yhteistyötä alueiden kehittämisen kannalta keskeisten julkis- ja yksityisoikeudellisten oikeushenkilöiden kanssa;",
+      "clause_number": 5,
+      "section_number": "7",
+      "statute_id": "1353/1999"
+    },
+    {
+      "id": "c052304f-4e38-46ca-99c5-dcf7dc92f19e",
+      "node_type": "Clause",
+      "publisher": "finlex",
+      "title": "§ 7 mom 6",
+      "text": "6) seuraa maakunnan ja sen osien kehitystä;",
+      "clause_number": 6,
+      "section_number": "7",
+      "statute_id": "1353/1999"
+    },
+    {
+      "id": "7a1e8a8e-a046-45a6-9b9e-25b44d30c1c4",
+      "node_type": "Clause",
+      "publisher": "finlex",
+      "title": "§ 7 mom 7",
+      "text": "7) hoitaa tehtäviinsä liittyviä kansainvälisiä asioita ja yhteyksiä; sekä",
+      "clause_number": 7,
+      "section_number": "7",
+      "statute_id": "1353/1999"
+    },
+    {
+      "id": "4b565f17-7f13-4e1d-89bb-635faad8fde6",
+      "node_type": "Clause",
+      "publisher": "finlex",
+      "title": "§ 7 mom 8",
+      "text": "8) hoitaa muut tässä laissa säädetyt tehtävänsä.",
+      "clause_number": 8,
+      "section_number": "7",
+      "statute_id": "1353/1999"
+    },
+    {
+      "id": "66df843e-3e39-4604-b2bb-24e98ef08cd6",
+      "node_type": "Clause",
+      "publisher": "finlex",
+      "title": "§ 32 mom 1",
+      "text": "1) avustuksen myöntämistä, maksamista tai valvontaa varten on annettu virheellisiä tai harhaanjohtavia tietoja taikka rahoituksen myöntämistä, maksamista tai valvontaa varten annettavia tietoja on salattu ja virheellisten tai harhaanjohtavien tietojen antamisella tai tietojen salaamisella on ollut vaikutusta rahoituksen saamiseen;",
+      "clause_number": 1,
+      "section_number": "32",
+      "statute_id": "1353/1999"
+    },
+    {
+      "id": "2752183b-6034-4c6d-91f4-b7caa129d6ba",
+      "node_type": "Clause",
+      "publisher": "finlex",
+      "title": "§ 32 mom 2",
+      "text": "2) avustuksen maksamista tai valvontaa varten on kieltäydytty antamasta tarvittavia tietoja, asiakirjoja tai muuta aineistoa taikka tarkastusta suoritettaessa kieltäydytty täyttämästä muita rahoituksen saajalle tarkastuksen suorittamiseksi laissa säädettyjä velvollisuuksia;",
+      "clause_number": 2,
+      "section_number": "32",
+      "statute_id": "1353/1999"
+    },
+    {
+      "id": "b0cc6fea-7c80-418d-bdeb-65cbc532eebd",
+      "node_type": "Clause",
+      "publisher": "finlex",
+      "title": "§ 32 mom 3",
+      "text": "3) avustusta on käytetty muuhun tarkoitukseen kuin se on myönnetty;",
+      "clause_number": 3,
+      "section_number": "32",
+      "statute_id": "1353/1999"
+    },
+    {
+      "id": "ce3e6ce1-366f-4b5f-a677-e7766ecdee44",
+      "node_type": "Clause",
+      "publisher": "finlex",
+      "title": "§ 32 mom 4",
+      "text": "4) avustuksen saaja on olennaisesti laiminlyönyt noudattaa avustuspäätöksessä määrättyjä ehtoja; taikka",
+      "clause_number": 4,
+      "section_number": "32",
+      "statute_id": "1353/1999"
+    },
+    {
+      "id": "96fefef2-9354-4a50-931e-c66d387439b4",
+      "node_type": "Clause",
+      "publisher": "finlex",
+      "title": "§ 32 mom 5",
+      "text": "5) avustus tai sen osa on myönnetty tai maksettu väärin perustein.",
+      "clause_number": 5,
+      "section_number": "32",
+      "statute_id": "1353/1999"
+    },
+    {
+      "id": "d6cc32e1-61f7-4d2f-b79b-a1ab08a6ab05",
+      "node_type": "Clause",
+      "publisher": "finlex",
+      "title": "§ 32 mom 1",
+      "text": "1) avustuksen saaja ei ole noudattanut avustuspäätöksessä määrättyjä ehtoja;",
+      "clause_number": 1,
+      "section_number": "32",
+      "statute_id": "1353/1999"
+    },
+    {
+      "id": "98898146-f5aa-4904-b906-55b8ff3a6843",
+      "node_type": "Clause",
+      "publisher": "finlex",
+      "title": "§ 32 mom 2",
+      "text": "2) sellaisen omaisuuden omistus- tai hallintaoikeus, jonka hankkimiseen avustus on myönnetty, on luovutettu ennen kuin viisi vuotta on kulunut avustuksen maksamispäivästä taikka avustuksen saaja on lopettanut avustuksen kohteena olleen toiminnan tai supistanut sitä olennaisesti; taikka",
+      "clause_number": 2,
+      "section_number": "32",
+      "statute_id": "1353/1999"
+    },
+    {
+      "id": "753f9a69-71b8-457d-8915-4144647d5c6d",
+      "node_type": "Clause",
+      "publisher": "finlex",
+      "title": "§ 32 mom 3",
+      "text": "3) avustuksen saaja on joutunut ulosottotoimenpiteen kohteeksi, selvitystilaan, konkurssiin taikka yrityksen saneerauksesta annetussa laissa (47/1993) tarkoitetun saneerausmenettelyn tai yksityishenkilön velkajärjestelystä annetussa laissa (57/1993) tarkoitetun velkajärjestelyn kohteeksi ja jollei tuen käyttötarkoituksesta muuta johdu.",
+      "clause_number": 3,
+      "section_number": "32",
+      "statute_id": "1353/1999"
+    }
+  ],
+  "cross_references": [],
+  "raw_html_path": "C:\\Users\\danit\\finance-hack\\aalto-hackaton-2026\\data\\raw\\finlex\\Laki (säädöskokoelma)\\Alueiden kehittämislaki.html"
+}

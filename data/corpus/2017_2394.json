@@ -1,0 +1,624 @@
+{
+  "statute": {
+    "id": "6a492f52-ee10-494e-a06c-5bc017ddb808",
+    "node_type": "Statute",
+    "publisher": "finlex",
+    "title": "Laki datan hallinnan ja jakamisen valvonnasta",
+    "text": "Laki datan hallinnan ja jakamisen valvonnasta",
+    "statute_id": "2017/2394",
+    "finlex_url": "https://finlex.fi/fi/laki/ajantasa/2017/2394"
+  },
+  "chapters": [
+    {
+      "id": "4bdc34c1-c573-4f3f-8553-acb914b7babd",
+      "node_type": "Chapter",
+      "publisher": "finlex",
+      "title": "Chapter 1",
+      "text": "1 luku Yleiset säännökset",
+      "chapter_number": 1,
+      "statute_id": "2017/2394"
+    },
+    {
+      "id": "50277577-2d35-4761-b9ab-2bc891b32f5b",
+      "node_type": "Chapter",
+      "publisher": "finlex",
+      "title": "Chapter 2",
+      "text": "2 luku Viranomaisten tutkintamenettely ja valvontatoimenpiteet",
+      "chapter_number": 2,
+      "statute_id": "2017/2394"
+    },
+    {
+      "id": "72d52e2b-b57e-47ff-90f6-bdf1530db90b",
+      "node_type": "Chapter",
+      "publisher": "finlex",
+      "title": "Chapter 3",
+      "text": "3 luku Hallinnolliset seuraamusmaksut",
+      "chapter_number": 3,
+      "statute_id": "2017/2394"
+    },
+    {
+      "id": "2c3ad6c9-2e83-4d89-8889-2c88852b27ae",
+      "node_type": "Chapter",
+      "publisher": "finlex",
+      "title": "Chapter 4",
+      "text": "4 luku Kansainvälinen yhteistyö",
+      "chapter_number": 4,
+      "statute_id": "2017/2394"
+    },
+    {
+      "id": "e550d31e-bdc0-4ad6-8896-d1a582def7b7",
+      "node_type": "Chapter",
+      "publisher": "finlex",
+      "title": "Chapter 5",
+      "text": "5 luku Erinäiset säännökset",
+      "chapter_number": 5,
+      "statute_id": "2017/2394"
+    }
+  ],
+  "sections": [
+    {
+      "id": "1382c2c8-a8c9-4938-b490-96c36525d0f9",
+      "node_type": "Section",
+      "publisher": "finlex",
+      "title": "1 § Lain tarkoitus ja soveltamisala",
+      "text": "Tässä laissa annetaan datan oikeudenmukaista saatavuutta ja käyttöä koskevista yhdenmukaisista säännöistä ja asetuksen (EU) 2017/2394 ja direktiivin (EU) 2020/1828 muuttamisesta annettua Euroopan parlamentin ja neuvoston asetusta (EU) 2023/2854 (datasäädös), jäljempänädata-asetus, ja eurooppalaisen datan hallinnoinnista ja asetuksen (EU) 2018/1724 muuttamisesta annettua Euroopan parlamentin ja neuvoston asetusta (EU) 2022/868 (datanhallinta-asetus), jäljempänädatanhallinta-asetus, täydentävät säännökset. Tätä lakia sovelletaan data-asetuksen 1 artiklan ja datanhallinta-asetuksen 1 artiklan soveltamisalan mukaisesti, lukuun ottamatta datanhallinta-asetuksen II lukua ja siihen liittyviä viranomaistehtäviä. Tätä lakia ei sovelleta eduskunnan valtiopäivätoimintaan eikä eduskunnan virastoihin. Lakia ei myöskään sovelleta eduskunnan oikeusasiamieheen eikä valtioneuvoston oikeuskansleriin. Elinkeinotoimintaan liittyvien liikesalaisuuksien sekä teknisten ohjeiden suojasta säädetään liikesalaisuuslaissa (595/2018). Todistelun turvaamisesta liikesalaisuuslaissa tarkoitetun liikesalaisuuden tai teknisen ohjeen oikeudettomaan käyttöön tai ilmaisemiseen perustuvan vahingon korvaamista tai liikesalaisuuslain 8 §:ssä tarkoitetun kiellon määräämistä koskevassa asiassa säädetään todistelun turvaamisesta teollis- ja tekijänoikeuksia koskevissa riita-asioissa annetussa laissa (344/2000).",
+      "section_number": "1",
+      "chapter_number": 1,
+      "statute_id": "2017/2394"
+    },
+    {
+      "id": "a6f98cdb-e80f-4d9b-aeaf-81982487e9c7",
+      "node_type": "Section",
+      "publisher": "finlex",
+      "title": "2 § Datakoordinaattori ja muut toimivaltaiset viranomaiset",
+      "text": "Data-asetuksen 37 artiklassa tarkoitettuna datakoordinaattorina Suomessa toimii Liikenne- ja viestintävirasto. Liikenne- ja viestintävirasto on valvonnasta vastaava data-asetuksen 37 artiklassa tarkoitettu toimivaltainen viranomainen, jollei 3 §:stä muuta johdu. Muita toimivaltaisia viranomaisia data-asetuksen valvonnassa ovat kuluttaja-asiamies sekä Kilpailu- ja kuluttajavirasto. Liikenne- ja viestintävirasto edistää data-asetuksen 37 artiklan 5 kohdan a alakohdassa tarkoitettua yritysten ja yhteisöjen datalukutaitoa sekä seuraa e alakohdassa tarkoitettua datan saataville asettamiseen ja käyttöön liittyvää kehitystä. Liikenne- ja viestintävirasto sertifioi data-asetuksen 10 artiklan 5 kohdan mukaisesti Suomeen sijoittuneet tuomioistuinten ulkopuoliset riidanratkaisuelimet. Liikenne- ja viestintävirasto toimii datanhallinta-asetuksen 13 ja 23 artiklassa tarkoitettuna toimivaltaisena viranomaisena.",
+      "section_number": "2",
+      "chapter_number": 1,
+      "statute_id": "2017/2394"
+    },
+    {
+      "id": "c006e43e-a8e0-46a3-919c-e53846864d6d",
+      "node_type": "Section",
+      "publisher": "finlex",
+      "title": "3 § Kuluttaja-asiamiehen ja Kilpailu- ja kuluttajaviraston toimivalta",
+      "text": "Data-asetuksen 37 artiklan mukainen valvonnasta vastaava toimivaltainen viranomainen on kuluttaja-asiamies mainitun asetuksen 3 artiklan 2 ja 3 kohdan osalta, jos kyse on tietojen antamisesta elinkeinonharjoittajalta kuluttajalle. Kilpailu- ja kuluttajavirasto edistää data-asetuksen 37 artiklan 5 kohdan a alakohdassa tarkoitettua kuluttajien datalukutaitoa. Kuluttaja-asiamiehen eräistä toimivaltuuksista säädetään kuluttajansuojaviranomaisten eräistä toimivaltuuksista annetussa laissa (566/2020). Kuluttaja-asiamiehen tehtävien tärkeysjärjestyksestä säädetään Kilpailu- ja kuluttajavirastosta annetussa laissa (661/2012).",
+      "section_number": "3",
+      "chapter_number": 1,
+      "statute_id": "2017/2394"
+    },
+    {
+      "id": "264e7c5f-442a-42d8-8960-ef341b63b03a",
+      "node_type": "Section",
+      "publisher": "finlex",
+      "title": "4 § Yhteistyö viranomaisten välillä",
+      "text": "Liikenne- ja viestintäviraston, kuluttaja-asiamiehen ja Kilpailu- ja kuluttajaviraston on data-asetuksen ja tämän lain mukaisia tehtäviä hoitaessaan toimittava yhteistyössä tietosuojavaltuutetun ja muiden asianomaisten viranomaisten kanssa. Kuluttaja-asiamiehen on ilmoitettava Liikenne- ja viestintävirastolle, jos se vastaanottaa ilmoituksen, joka koskee data-asetuksessa säädettyjen velvoitteiden rikkomista, ja se katsoo tarpeelliseksi ottaa asian tutkittavakseen.",
+      "section_number": "4",
+      "chapter_number": 1,
+      "statute_id": "2017/2394"
+    },
+    {
+      "id": "dfbf7870-d36f-4c67-b775-7f9419719bf5",
+      "node_type": "Section",
+      "publisher": "finlex",
+      "title": "5 § Tiedonsaantioikeus",
+      "text": "Liikenne- ja viestintäviraston tiedonsaantioikeuksista data-asetuksen, datanhallinta-asetuksen ja tämän lain noudattamisen todentamiseksi säädetään data-asetuksen 37 artiklan 14 kohdassa ja datanhallinta-asetuksen 14 artiklan 2 kohdassa ja 24 artiklan 2 kohdassa. Tietopyynnön kohteiden on luovutettava tiedot salassapitosäännösten estämättä, ilman aiheetonta viivytystä, viranomaisen pyytämässä muodossa ja maksutta. Liikenne- ja viestintävirastolla on tässä pykälässä tarkoitetut tiedonsaantioikeudet, jos virasto pyytää tietoja toisen jäsenvaltion toimivaltaisen viranomaisen data-asetuksen 37 artiklan 15 kohdan mukaisesti tekemän pyynnön perusteella mainitun artiklan 2 kohdassa ja 38 artiklan 3 kohdassa säädetyn toimivaltaisten viranomaisten yhteistyövelvoitteen toteuttamiseksi.",
+      "section_number": "5",
+      "chapter_number": 2,
+      "statute_id": "2017/2394"
+    },
+    {
+      "id": "b20c059a-dfb7-4bb7-9071-b671a39f2f60",
+      "node_type": "Section",
+      "publisher": "finlex",
+      "title": "6 § Tiedonvaihto viranomaisten välillä",
+      "text": "Liikenne- ja viestintävirastolla ja kuluttaja-asiamiehellä on salassapitosäännösten estämättä oikeus luovuttaa data-asetuksessa, datanhallinta-asetuksessa ja tässä laissa säädettyjen tehtäviensä hoitamisen yhteydessä saamansa tiedot tai laatimansa asiakirjat toisilleen, jos se on näille data-asetuksessa, datanhallinta-asetuksessa tai tässä laissa säädettyjen tehtävien hoitamiseksi välttämätöntä. Liikenne- ja viestintävirasto ja kuluttaja-asiamies voivat pyytää muilta viranomaisilta lausuntoa käsiteltävään asiaan ja luovuttaa näille lausunnon antamisen kannalta välttämättömät asiakirjat ja tiedot salassapitosäännösten ja muiden tietojen luovuttamista koskevien rajoitusten estämättä, jos se on näille data-asetuksessa, datanhallinta-asetuksessa tai tässä laissa säädettyjen tehtävien hoitamiseksi välttämätöntä. Liikenne- ja viestintäviraston on ilmoitettava 25 §:n 1 momentissa mainituille viranomaisille, jos on syytä epäillä, että sen käsiteltäväksi tulleella dataan pääsyä tai datan siirtoa koskevalla asialla on yhteys kansalliseen turvallisuuteen tai puolustukseen. Liikenne- ja viestintävirastolla on salassapitosäännösten ja muiden tietojen luovuttamista koskevien rajoitusten estämättä oikeus luovuttaa tässä laissa säädettyjen tehtäviensä hoitamisen yhteydessä saamansa tai laatimansa asiakirja sekä ilmaista salassa pidettävä tieto sisäministeriölle ja sen alaisille viranomaisille sekä Pääesikunnalle, jos se on 25 §:n 1 momentissa tarkoitetun lausuntomenettelyn kannalta välttämätöntä.",
+      "section_number": "6",
+      "chapter_number": 2,
+      "statute_id": "2017/2394"
+    },
+    {
+      "id": "794d7011-e1cd-44c9-ba44-d7c8906a3a00",
+      "node_type": "Section",
+      "publisher": "finlex",
+      "title": "7 § Tarkastukset",
+      "text": "Liikenne- ja viestintävirastolla on data-asetukseen tai tähän lakiin perustuvien velvoitteiden epäiltyyn rikkomiseen liittyvää valvontaa varten oikeus päästä tilaan, jota data-asetuksessa tarkoitettu käyttäjä, datan haltija tai datan vastaanottaja käyttää elinkeino- tai ammattitoimintaansa liittyviin tarkoituksiin, ja tehdä valvonta-asian hoitamiseksi tarvittavia tarkastuksia. Pääsy- ja tarkastusoikeus ei koske pysyväisluonteiseen asumiseen käytettäviä tiloja. Liikenne- ja viestintävirastolla on tarkastuksissa oikeus salassapitosäännösten estämättä saada tutkittavakseen, jäljentää ja ottaa jäljennösten ottamista varten haltuun epäiltyyn rikkomukseen liittyvän valvontatehtävän kannalta tarpeellinen liikekirjeenvaihto, kirjanpito, muut asiakirjat ja tiedot missä tahansa muodossa tallennusvälineestä riippumatta. Tarkastusta toimittava virkamies voi pyytää tarkastuksen kohteen laillisilta edustajilta tai henkilöstön jäseniltä tarkastuksen kohteeseen ja tarkoitukseen liittyviä selvityksiä tosiseikoista ja asiakirjoista sekä tallentaa saamansa vastaukset. Tarkastukseen sovelletaan lisäksi hallintolain (434/2003) 39 §:ää. Liikenne- ja viestintävirastolla on tässä pykälässä säädetyt tarkastusoikeudet, jos se toimittaa Suomessa tarkastuksen toisen jäsenvaltion toimivaltaisen viranomaisen data-asetuksen 37 artiklan 15 kohdan mukaisesti tekemän pyynnön perusteella data-asetuksen mainitun artiklan 2 kohdassa ja 38 artiklan 3 kohdassa säädetyn toimivaltaisten viranomaisten yhteistyövelvoitteen toteuttamiseksi.",
+      "section_number": "7",
+      "chapter_number": 2,
+      "statute_id": "2017/2394"
+    },
+    {
+      "id": "a8037fbd-7b22-436d-bf51-b1717dc9e984",
+      "node_type": "Section",
+      "publisher": "finlex",
+      "title": "8 § Asianajosalaisuutta koskeva poikkeus tiedonsaanti- ja tarkastusoikeudesta",
+      "text": "Poiketen siitä, mitä edellä tässä luvussa säädetään, Liikenne- ja viestintävirastolla ei ole 5 ja 7 §:ssä säädettyjä tutkintavaltuuksia käyttäessään oikeutta saada tai tarkastaa asiakirjoja, jotka sisältävät asiakkaan ja asianajajista annetussa laissa (496/1958) tarkoitetun asianajajan, ulkopuolisen luvan saaneista oikeudenkäyntiavustajista annetussa laissa (715/2011) tarkoitetun oikeudenkäyntiasiamiehen tai -avustajan taikka oikeusapulaissa (257/2002) tarkoitetun julkisen oikeusavustajan välistä luottamuksellista kirjeenvaihtoa. Poikkeusta sovelletaan Liikenne- ja viestintäviraston 5 ja 7 §:n mukaisiin tutkintavaltuuksiin riippumatta siitä, käytetäänkö niitä Liikenne- ja viestintäviraston omien valvontatehtävien suorittamisessa vai toisen jäsenvaltion toimivaltaisen viranomaisen pyynnöstä.",
+      "section_number": "8",
+      "chapter_number": 2,
+      "statute_id": "2017/2394"
+    },
+    {
+      "id": "c8dfa973-3578-4eba-b052-803de4070076",
+      "node_type": "Section",
+      "publisher": "finlex",
+      "title": "9 § Virka-apu",
+      "text": "Liikenne- ja viestintävirastolla on oikeus data-asetuksessa ja tässä laissa säädettyjen tehtäviensä suorittamiseksi saada pyynnöstä poliisilta virka-apua.",
+      "section_number": "9",
+      "chapter_number": 2,
+      "statute_id": "2017/2394"
+    },
+    {
+      "id": "fba8fde6-39c7-48d8-9e69-2d0940253659",
+      "node_type": "Section",
+      "publisher": "finlex",
+      "title": "10 § Valvontapäätös",
+      "text": "Jos Liikenne- ja viestintävirasto toteaa, että data-asetuksen tai datanhallinta-asetuksen velvollisuuksia tai kieltoja on rikottu, se voi antaa huomautuksen tai varoituksen ja velvoittaa sen, joka rikkoo data-asetusta tai datanhallinta-asetusta, lopettamaan rikkomisen, korjaamaan virheensä tai laiminlyöntinsä taikka kieltää data-asetuksen tai datanhallinta-asetuksen vastaisen toimenpiteen. Viranomainen voi asettaa kohtuullisen määräajan, jonka kuluessa rikkomus tai laiminlyönti on lopetettava.",
+      "section_number": "10",
+      "chapter_number": 2,
+      "statute_id": "2017/2394"
+    },
+    {
+      "id": "1865e2bf-8202-4c8d-af9a-128dde6faa02",
+      "node_type": "Section",
+      "publisher": "finlex",
+      "title": "11 § Uhkasakko ja keskeyttämisuhka",
+      "text": "Liikenne- ja viestintävirasto voi asettaa 10 §:n nojalla antamansa valvontapäätöksen tai muun tämän lain nojalla antamansa määräyksen tehosteeksi uhkasakon tai keskeyttämisuhan. Uhkasakkoa ei saa asettaa 5 §:ssä tarkoitetun tiedonantovelvollisuuden tehosteeksi luonnolliselle henkilölle, jos henkilöä on aihetta epäillä rikoksesta ja tiedot liittyvät rikosepäilyn kohteena olevaan asiaan.",
+      "section_number": "11",
+      "chapter_number": 2,
+      "statute_id": "2017/2394"
+    },
+    {
+      "id": "d73e603f-d843-4562-a9a3-a7ffdf639c09",
+      "node_type": "Section",
+      "publisher": "finlex",
+      "title": "12 § Tehtävien tärkeysjärjestys ja asian tutkimatta jättäminen",
+      "text": "Liikenne- ja viestintävirasto voi asettaa tässä laissa säädetyt valvontatehtävänsä tärkeysjärjestykseen. Liikenne- ja viestintävirasto voi jättää asian tutkimatta, jos asialla on epäillystä virheestä tai laiminlyönnistä huolimatta data-asetuksen tai datanhallinta-asetuksen mukaisten velvoitteiden noudattamisen kannalta vain vähäinen merkitys. Liikenne- ja viestintäviraston on tehtävä päätös tutkimatta jättämisestä heti, kun se on mahdollista.",
+      "section_number": "12",
+      "chapter_number": 2,
+      "statute_id": "2017/2394"
+    },
+    {
+      "id": "9e4f0bad-2b2d-4a67-a707-95dfd0ccb340",
+      "node_type": "Section",
+      "publisher": "finlex",
+      "title": "13 § Valmistajalle, myyjälle, vuokraajalle, leasinginantajalle tai palveluntarjoajalle määrättävä seuraamusmaksu",
+      "text": "Liikenne- ja viestintävirasto voi määrätä seuraamusmaksun valmistajalle tai palveluntarjoajalle, joka tahallaan tai huolimattomuudesta rikkoo tai laiminlyö velvollisuutta suunnitella, valmistaa tai tarjota verkkoon liitetyt tuotteet ja niihin liittyvät palvelut data-asetuksen 3 artiklan 1 kohdan mukaisesti. Liikenne- ja viestintävirasto voi määrätä seuraamusmaksun myyjälle, vuokraajalle tai leasinginantajalle, joka tahallaan tai huolimattomuudesta rikkoo tai laiminlyö velvollisuutta antaa ennen sopimuksen tekemistä data-asetuksen 3 artiklan 2 kohdassa tarkoitetut tiedot muille käyttäjille kuin kuluttajille. Liikenne- ja viestintävirasto voi määrätä seuraamusmaksun tuotteeseen liittyvän palvelun tarjoajalle, joka tahallaan tai huolimattomuudesta rikkoo tai laiminlyö velvollisuutta antaa ennen sopimuksen tekemistä data-asetuksen 3 artiklan 3 kohdassa tarkoitetut tiedot muille käyttäjille kuin kuluttajille.",
+      "section_number": "13",
+      "chapter_number": 3,
+      "statute_id": "2017/2394"
+    },
+    {
+      "id": "5c168d9f-53c5-473d-8621-206dd093d912",
+      "node_type": "Section",
+      "publisher": "finlex",
+      "title": "14 § Datan haltijalle määrättävä seuraamusmaksu",
+      "text": "Liikenne- ja viestintävirasto voi määrätä seuraamusmaksun datan haltijalle, joka tahallaan tai huolimattomuudesta rikkoo tai laiminlyö data-asetuksen:",
+      "section_number": "14",
+      "chapter_number": 3,
+      "statute_id": "2017/2394"
+    },
+    {
+      "id": "60fb5b60-eb4f-48ed-a0e5-69ccffa9d766",
+      "node_type": "Section",
+      "publisher": "finlex",
+      "title": "15 § Käyttäjälle määrättävä seuraamusmaksu",
+      "text": "Liikenne- ja viestintävirasto voi määrätä seuraamusmaksun data-asetuksen käyttäjälle, joka tahallaan tai huolimattomuudesta rikkoo tai laiminlyö data-asetuksen:",
+      "section_number": "15",
+      "chapter_number": 3,
+      "statute_id": "2017/2394"
+    },
+    {
+      "id": "aa9e1b09-cbcf-4ca9-a9a0-20cf1a2ae5f7",
+      "node_type": "Section",
+      "publisher": "finlex",
+      "title": "16 § Portinvartijayritykselle määrättävä seuraamusmaksu",
+      "text": "Liikenne- ja viestintävirasto voi määrätä seuraamusmaksun kilpailullisista ja oikeudenmukaisista markkinoista digitaalialalla ja direktiivien (EU) 2019/1937 ja (EU) 2020/1828 muuttamisesta annetun Euroopan parlamentin ja neuvoston asetuksen (EU) 2022/1925 (digimarkkinasäädös), jäljempänädigimarkkina-asetus, 3 artiklassa tarkoitetulle portinvartijayritykselle, joka tahallaan tai huolimattomuudesta rikkoo tai laiminlyö data-asetuksen 5 artiklan 3 kohdassa säädettyä kieltoa pyytää tai vastaanottaa dataa.",
+      "section_number": "16",
+      "chapter_number": 3,
+      "statute_id": "2017/2394"
+    },
+    {
+      "id": "e8d8c30f-f43a-417c-ac5d-7c7e6b5007f8",
+      "node_type": "Section",
+      "publisher": "finlex",
+      "title": "17 § Kolmannelle osapuolelle määrättävä seuraamusmaksu",
+      "text": "Liikenne- ja viestintävirasto voi määrätä seuraamusmaksun kolmannelle osapuolelle, joka tahallaan tai huolimattomuudesta rikkoo tai laiminlyö data-asetuksen:",
+      "section_number": "17",
+      "chapter_number": 3,
+      "statute_id": "2017/2394"
+    },
+    {
+      "id": "a631f7c3-c849-4e9f-96b9-4c88f0959065",
+      "node_type": "Section",
+      "publisher": "finlex",
+      "title": "18 § Datankäsittelypalvelun tarjoajalle määrättävä seuraamusmaksu",
+      "text": "Liikenne- ja viestintävirasto voi määrätä seuraamusmaksun datankäsittelypalvelun tarjoajalle, joka tahallaan tai huolimattomuudesta rikkoo tai laiminlyö data-asetuksen:",
+      "section_number": "18",
+      "chapter_number": 3,
+      "statute_id": "2017/2394"
+    },
+    {
+      "id": "a62660c0-f4e2-4624-aef4-bbf661a987ea",
+      "node_type": "Section",
+      "publisher": "finlex",
+      "title": "19 § Datan välityspalvelujen tarjoajalle määrättävä seuraamusmaksu",
+      "text": "Liikenne- ja viestintävirasto voi määrätä seuraamusmaksun datanhallinta-asetuksen 10 artiklassa tarkoitetun datan välityspalvelun tarjoajalle, joka tahallaan tai huolimattomuudesta rikkoo tai laiminlyö mainitun asetuksen:",
+      "section_number": "19",
+      "chapter_number": 3,
+      "statute_id": "2017/2394"
+    },
+    {
+      "id": "03b3ad7a-b870-4dde-af50-4d49c8b569d9",
+      "node_type": "Section",
+      "publisher": "finlex",
+      "title": "20 § Data-asetusta koskevan seuraamusmaksun suuruus",
+      "text": "Jos data-asetusta koskeva seuraamusmaksu määrätään elinkeinonharjoittajalle, seuraamusmaksu saa olla enintään 2 prosenttia seuraamusmaksupäätöstä edeltävän tilikauden liikevaihdosta. Jos seuraamusmaksu määrätään luonnolliselle henkilölle, joka ei ole elinkeinonharjoittaja, seuraamusmaksu saa olla enintään 2 prosenttia hänelle viimeksi toimitetun verotuksen mukaisesta valtionverotuksessa verotettavan ansiotulon ja pääomatulon yhteismäärästä, mutta kuitenkin enintään 2 000 euroa. Poiketen siitä, mitä 1 momentissa säädetään, seuraamusmaksu 13 §:n 1 momentissa, 14 §:n 1 ja 7 kohdassa, 15 ja 16 §:ssä sekä 17 §:n 1, 5 ja 6 kohdassa säädetystä rikkomuksesta tai laiminlyönnistä saa olla enintään 4 prosenttia elinkeinonharjoittajan seuraamusmaksupäätöstä edeltävän tilikauden liikevaihdosta. Jos tässä momentissa tarkoitettu seuraamusmaksu määrätään luonnolliselle henkilölle, joka ei ole elinkeinonharjoittaja, seuraamusmaksu saa olla enintään 4 prosenttia hänelle viimeksi toimitetun verotuksen mukaisesta valtionverotuksessa verotettavan ansiotulon ja pääomatulon yhteismäärästä, mutta kuitenkin enintään 4 000 euroa. Jos kuluttaja-asiamies esittää seuraamusmaksun määräämistä markkinaoikeudelle kuluttajansuojaviranomaisten eräistä toimivaltuuksista annetun lain mukaisesti, esityksessä otetaan huomioon seuraamusmaksuesityksen tekemistä edeltävän tilikauden liikevaihto. Edellä tässä pykälässä liikevaihdolla tarkoitetaan kirjanpitolain (1336/1997) 4 luvun 1 §:ssä tarkoitettua liikevaihtoa tai sitä vastaavaa liikevaihtoa. Jos tilinpäätös ei ole seuraamusmaksua määrättäessä vielä valmistunut tai jos liiketoiminta on vasta aloitettu eikä tilinpäätöstä ole saatavissa, liikevaihto voidaan arvioida muun saatavan selvityksen perusteella. Seuraamusmaksun suuruus perustuu kokonaisarviointiin. Seuraamusmaksun määräämisessä huomioon otettavista perusteista säädetään data-asetuksen 40 artiklan 3 kohdassa.",
+      "section_number": "20",
+      "chapter_number": 3,
+      "statute_id": "2017/2394"
+    },
+    {
+      "id": "bf9ae350-bf35-4ad6-a3d1-bf186bab2b0b",
+      "node_type": "Section",
+      "publisher": "finlex",
+      "title": "21 § Datanhallinta-asetusta koskevan seuraamusmaksun suuruus",
+      "text": "Datanhallinta-asetusta koskeva seuraamusmaksu on vähintään 1 000 euroa ja enintään 100 000 euroa. Seuraamusmaksun suuruus perustuu kokonaisarviointiin. Seuraamusmaksua määrättäessä sovelletaan datanhallinta-asetuksen 34 artiklan 2 kohtaa.",
+      "section_number": "21",
+      "chapter_number": 3,
+      "statute_id": "2017/2394"
+    },
+    {
+      "id": "597f434a-b869-4dda-a547-933a0c200440",
+      "node_type": "Section",
+      "publisher": "finlex",
+      "title": "22 § Seuraamusmaksun määrääminen",
+      "text": "Seuraamusmaksua ei määrätä, jos velvoitteen rikkomista on pidettävä vähäisenä tai seuraamusmaksun määräämistä ilmeisen kohtuuttomana. Seuraamusmaksua ei voida määrätä sille, jota epäillään samasta teosta esitutkinnassa, syyteharkinnassa tai tuomioistuimessa vireillä olevassa rikosasiassa. Seuraamusmaksua ei voida määrätä myöskään sille, jolle on samasta teosta annettu lainvoimainen tuomio. Seuraamusmaksua ei voida määrätä valtion viranomaiselle, valtion liikelaitokselle, kunnalliselle viranomaiselle, kuntayhtymälle, hyvinvointialueelle, hyvinvointiyhtymälle, itsenäiselle julkisoikeudelliselle laitokselle, eduskunnan virastolle, tasavallan presidentin kanslialle eikä Suomen evankelis-luterilaiselle kirkolle ja Suomen ortodoksiselle kirkolle eikä niiden seurakunnille, seurakuntayhtymille ja muille elimille. Seuraamusmaksua ei saa määrätä, jos on kulunut yli viisi vuotta siitä, kun rikkomus tai laiminlyönti on tapahtunut. Jos rikkomus tai laiminlyönti on ollut luonteeltaan jatkuvaa, viiden vuoden määräaika lasketaan siitä, kun rikkomus tai laiminlyönti on päättynyt. Seuraamusmaksu saadaan määrätä myös sellaiselle elinkeinonharjoittajalle, jolle elinkeinotoiminta, jossa laiminlyönti tai rikkomus on tapahtunut, on siirtynyt yrityskaupan tai muun yritysjärjestelyn seurauksena. Tämän lain nojalla maksettavaksi määrätyn seuraamusmaksun täytäntöönpanosta säädetään sakon täytäntöönpanosta annetussa laissa (672/2002).",
+      "section_number": "22",
+      "chapter_number": 3,
+      "statute_id": "2017/2394"
+    },
+    {
+      "id": "4f25a933-83b8-40d6-afa7-9e34e5de53c5",
+      "node_type": "Section",
+      "publisher": "finlex",
+      "title": "23 § Yhteistyö muiden jäsenvaltioiden ja Euroopan komission kanssa",
+      "text": "Liikenne- ja viestintävirasto toimii yhteistyössä muiden jäsenvaltioiden datakoordinaattorien, toimivaltaisten viranomaisten, Euroopan komission ja Euroopan datainnovaatiolautakunnan kanssa.",
+      "section_number": "23",
+      "chapter_number": 4,
+      "statute_id": "2017/2394"
+    },
+    {
+      "id": "e19f003f-86e5-43c7-8f05-755fa9d61232",
+      "node_type": "Section",
+      "publisher": "finlex",
+      "title": "24 § Asiakirjan luovuttaminen toisen jäsenvaltion toimivaltaiselle viranomaiselle tai Euroopan komissiolle",
+      "text": "Liikenne- ja viestintävirastolla on oikeus luovuttaa salassa pidettävä asiakirja sekä ilmaista salassa pidettävä tieto toisen Euroopan unionin tai Euroopan talousalueeseen kuuluvan valtion toimivaltaiselle viranomaiselle tai Euroopan komissiolle, jos se on data-asetuksen tai datanhallinta-asetuksen valvonnan kannalta välttämätöntä.",
+      "section_number": "24",
+      "chapter_number": 4,
+      "statute_id": "2017/2394"
+    },
+    {
+      "id": "61f1625d-e361-4285-a434-57ffba1634ef",
+      "node_type": "Section",
+      "publisher": "finlex",
+      "title": "25 § Erityinen lausuntomenettely",
+      "text": "Data-asetuksen 32 artiklan 3 kohdassa tarkoitettu lausunto pyydetään sisäministeriöltä, jos kyseessä on kansalliseen turvallisuuteen liittyvät edut, ja Pääesikunnalta, jos kyseessä on puolustukseen liittyvät edut. Sisäministeriön tai Pääesikunnan on pyydettävä lausunto ulkoministeriöltä, jos kansalliseen turvallisuuteen tai puolustukseen liittyvät edut koskevat myös ulko- ja turvallisuuspolitiikkaa. Data-asetuksen 32 artiklassa tarkoitettu päätöksen vastaanottaja voi pyytää lausuntoa toimivaltaiselta viranomaiselta sen selvittämiseksi täyttyvätkö mainitun artiklan 3 kohdan ensimmäisessä alakohdassa vahvistetut edellytykset, jos päätöksen vastaanottaja katsoo, että päätös saattaa koskea liikesalaisuuksia ja muuta kaupallisesti arkaluonteista dataa taikka teollis- ja tekijänoikeuksilla suojattua sisältöä tai että siirto voi johtaa uudelleentunnistamiseen. Toimivaltainen viranomainen voi pyytää lausuntoa siltä viranomaiselta tai elimeltä, jonka toimialaan päätökseen liittyvien data-asetuksessa tarkoitettujen etujen suojelu kuuluu. Viranomaisen on oltava yhteydessä sisäministeriöön tai Pääesikuntaan, jos on syytä epäillä, että dataan pääsyllä tai datan siirrolla on yhteys kansalliseen turvallisuuteen tai puolustukseen. Tarkempia säännöksiä lausuntomenettelystä voidaan antaa valtioneuvoston asetuksella.",
+      "section_number": "25",
+      "chapter_number": 5,
+      "statute_id": "2017/2394"
+    },
+    {
+      "id": "69abdd72-b506-4938-be05-cef5d9445c12",
+      "node_type": "Section",
+      "publisher": "finlex",
+      "title": "26 § Korvaus datan saataville asettamisesta poikkeuksellisen tarpeen tapauksissa",
+      "text": "Datan haltijan oikeudesta saada kohtuullinen korvaus data-asetuksen 15 artiklan 1 kohdan nojalla saataville asetetusta datasta sekä korvauksen määrän laskemisesta säädetään mainitun asetuksen 20 artiklassa. Datan haltijan on esitettävä viranomaiselle, jonka pyynnöstä data on asetettu saataville, kirjallisesti vaatimansa korvauksen määrä sekä korvauksen suorittamiseksi tarvittavat tiedot. Edellä 2 momentissa tarkoitetun viranomaisen on suoritettava korvaus datan haltijalle viimeistään kahden kuukauden kuluttua korvausvaatimuksen vastaanottamisesta. Jos viranomainen pyytää data-asetuksen 20 artiklan 2 kohdan nojalla datan haltijalta lisätietoja korvauksen laskennan perusteista, maksun suorittamisen määräaikaa jatketaan samalla määrällä päiviä kuin mitä datan haltijalta menee pyydettyjen lisätietojen toimittamiseen. Viranomaisen on saatettava mahdollinen data-asetuksen 20 artiklan 5 kohtaan perustuva korvauksen suuruutta koskeva asia Liikenne- ja viestintäviraston käsiteltäväksi ennen kuin korvauksen maksun määräaika on päättynyt. Korvaus on tällöin suoritettava datan haltijalle, kun Liikenne- ja viestintäviraston päätös kohtuullisen korvauksen määrästä on saanut lainvoiman. Liikenne- ja viestintävirasto voi päätöksessään vahvistaa korvauksen määrän vaaditun suuruisena tai alentaa kohtuullisena pidettävän korvauksen määrää. Asiaa ratkaistaessa\nsovelletaan data-asetuksen 20 artiklan 2 kohdan säännöksiä kohtuullisen korvauksen määrän laskemisesta ja otetaan huomioon datan haltijan korvauksen määrän perusteista esittämä selvitys.",
+      "section_number": "26",
+      "chapter_number": 5,
+      "statute_id": "2017/2394"
+    },
+    {
+      "id": "007148d6-8d95-4678-81ff-ff21acd4458d",
+      "node_type": "Section",
+      "publisher": "finlex",
+      "title": "27 § Oikaisuvaatimus",
+      "text": "Liikenne- ja viestintäviraston päätökseen, joka koskee datanhallinta-asetuksen 19 artiklan 5 kohdassa tarkoitettua rekisteröintiä, saa vaatia oikaisua. Oikaisuvaatimuksesta säädetään hallintolaissa.",
+      "section_number": "27",
+      "chapter_number": 5,
+      "statute_id": "2017/2394"
+    },
+    {
+      "id": "1ede9ac6-1cf6-4f21-a763-ebbd6a30dd6c",
+      "node_type": "Section",
+      "publisher": "finlex",
+      "title": "28 § Muutoksenhaku viranomaisen päätöksestä",
+      "text": "Muutoksenhausta hallintotuomioistuimeen säädetään oikeudenkäynnistä hallintoasioissa annetussa laissa (808/2019). Muutoksenhaussa uhkasakon asettamista ja maksettavaksi tuomitsemista koskevaan päätökseen sovelletaan kuitenkin uhkasakkolakia (1113/1990). Toimivaltaisen viranomaisen muussa kuin seuraamusmaksun määräämistä koskevassa päätöksessä voidaan määrätä, että päätöstä on noudatettava muutoksenhausta huolimatta, jollei valitusviranomainen toisin määrää.",
+      "section_number": "28",
+      "chapter_number": 5,
+      "statute_id": "2017/2394"
+    },
+    {
+      "id": "1d7380d5-fc7f-4436-9f45-05caa91f9f4e",
+      "node_type": "Section",
+      "publisher": "finlex",
+      "title": "29 § Voimaantulo",
+      "text": "Tämä laki tulee voimaan 1 päivänä tammikuuta 2026.",
+      "section_number": "29",
+      "chapter_number": 5,
+      "statute_id": "2017/2394"
+    }
+  ],
+  "clauses": [
+    {
+      "id": "201476ef-75df-49d4-af1e-b4806e9504c9",
+      "node_type": "Clause",
+      "publisher": "finlex",
+      "title": "§ 14 mom 1",
+      "text": "1) 4 artiklan 1 kohdassa säädettyä velvollisuutta asettaa helposti saatavilla oleva data ja siihen liittyvä metadata käyttäjän saataville;",
+      "clause_number": 1,
+      "section_number": "14",
+      "statute_id": "2017/2394"
+    },
+    {
+      "id": "130b2c96-db30-4ad8-9cdf-0e514b80284d",
+      "node_type": "Clause",
+      "publisher": "finlex",
+      "title": "§ 14 mom 2",
+      "text": "2) 4 artiklan 2, 7 tai 8 kohdassa taikka 5 artiklan 10 tai 11 kohdassa säädettyä velvollisuutta ilmoittaa datan jakamisesta pidättäytymisestä, datan jakamisen keskeyttämisestä tai datan jakamisesta kieltäytymisestä Liikenne- ja viestintävirastolle;",
+      "clause_number": 2,
+      "section_number": "14",
+      "statute_id": "2017/2394"
+    },
+    {
+      "id": "5b0b8814-4485-4ded-9a79-7aea089d4294",
+      "node_type": "Clause",
+      "publisher": "finlex",
+      "title": "§ 14 mom 3",
+      "text": "3) 4 artiklan 4 kohdassa säädettyä kieltoa kohtuuttomasti vaikeuttaa käyttäjän valintojen tai oikeuksien hyödyntämistä;",
+      "clause_number": 3,
+      "section_number": "14",
+      "statute_id": "2017/2394"
+    },
+    {
+      "id": "be08d69d-afdb-4f7f-bea2-6e61fe30c108",
+      "node_type": "Clause",
+      "publisher": "finlex",
+      "title": "§ 14 mom 4",
+      "text": "4) 4 artiklan 5 kohdassa säädettyä kieltoa pyytää käyttäjältä enempää tietoa kuin on tarpeen sen varmistamiseksi, onko henkilö katsottava käyttäjäksi, tai säilyttää enempää tietoa käyttäjän pääsystä pyydettyyn dataan kuin on tarpeen taikka 5 artiklan 4 kohdassa säädettyä kieltoa pyytää käyttäjältä tai kolmannelta osapuolelta enempää tietoa kuin on tarpeen sen varmistamiseksi, onko henkilö katsottava käyttäjäksi tai kolmanneksi osapuoleksi, tai säilyttää enempää tietoa kolmannen osapuolen pääsystä dataan kuin on tarpeen;",
+      "clause_number": 4,
+      "section_number": "14",
+      "statute_id": "2017/2394"
+    },
+    {
+      "id": "736b6d3f-0350-4da1-8dac-d9d3d8332c00",
+      "node_type": "Clause",
+      "publisher": "finlex",
+      "title": "§ 14 mom 5",
+      "text": "5) 4 artiklan 7 kohdassa tai 5 artiklan 10 kohdassa säädettyä velvollisuutta toimittaa käyttäjälle tai kolmannelle osapuolelle kirjallisesti perusteltu päätös datan jakamisesta pidättäytymisestä tai datan jakamisen keskeyttämisestä taikka 4 artiklan 8 kohdassa tai 5 artiklan 11 kohdassa säädettyä velvollisuutta toimittaa käyttäjälle tai kolmannelle osapuolelle kirjallisesti perustelut, joiden nojalla datan haltija on kieltäytynyt jakamasta dataa;",
+      "clause_number": 5,
+      "section_number": "14",
+      "statute_id": "2017/2394"
+    },
+    {
+      "id": "01275703-8743-4582-a71c-1e384b3533a7",
+      "node_type": "Clause",
+      "publisher": "finlex",
+      "title": "§ 14 mom 6",
+      "text": "6) 4 artiklan 13 kohdassa säädettyä kieltoa käyttää helposti saatavilla olevaa muuta dataa kuin henkilötietoja ilman käyttäjän kanssa tehtyä sopimusta tai mainitun artiklan 14 kohdassa säädettyä kieltoa asettaa muuta dataa kuin henkilötietoja kolmansien osapuolten saataville ilman käyttäjän kanssa tehtyä sopimusta;",
+      "clause_number": 6,
+      "section_number": "14",
+      "statute_id": "2017/2394"
+    },
+    {
+      "id": "b4536249-9318-4c99-aa38-8600fbbb7ba8",
+      "node_type": "Clause",
+      "publisher": "finlex",
+      "title": "§ 14 mom 7",
+      "text": "7) 5 artiklan 1 kohdassa säädettyä velvollisuutta pyynnöstä asettaa helposti saatavilla oleva data ja siihen liittyvä metadata kolmannen osapuolen saataville tai 8 artiklan 4 kohdassa säädettyä kieltoa asettaa dataa datan vastaanottajan saataville ilman käyttäjän pyyntöä taikka mainitun artiklan 1 kohdassa säädettyä velvollisuutta sopia datan vastaanottajan kanssa datan saataville asettamista koskevista järjestelyistä; tai",
+      "clause_number": 7,
+      "section_number": "14",
+      "statute_id": "2017/2394"
+    },
+    {
+      "id": "4433d117-2035-4fa2-a8d2-182162337fbe",
+      "node_type": "Clause",
+      "publisher": "finlex",
+      "title": "§ 14 mom 8",
+      "text": "8) 18 artiklan 1 kohdassa säädettyä velvollisuutta asettaa data mainitussa kohdassa tarkoitettujen elinten pyynnöstä niiden saataville ilman aiheetonta viivytystä.",
+      "clause_number": 8,
+      "section_number": "14",
+      "statute_id": "2017/2394"
+    },
+    {
+      "id": "a639fcfe-f9be-4f1f-aee5-094820d334a6",
+      "node_type": "Clause",
+      "publisher": "finlex",
+      "title": "§ 15 mom 1",
+      "text": "1) 4 artiklan 6 kohdassa säädettyä velvollisuutta noudattaa datan haltijan tai liikesalaisuuksien haltijan kanssa sovittuja suojatoimenpiteitä liikesalaisuuksien säilyttämiseksi;",
+      "clause_number": 1,
+      "section_number": "15",
+      "statute_id": "2017/2394"
+    },
+    {
+      "id": "9ea951fd-55f2-4142-9606-289f2808762d",
+      "node_type": "Clause",
+      "publisher": "finlex",
+      "title": "§ 15 mom 2",
+      "text": "2) 4 artiklan 10 kohdassa säädettyä kieltoa hyödyntää tai luovuttaa kolmannelle osapuolelle datanhaltijalta saamaansa dataa sellaisen verkkoon liitetyn tuotteen kehittämiseksi, joka kilpailee sen tuotteen kanssa, josta data on peräisin;",
+      "clause_number": 2,
+      "section_number": "15",
+      "statute_id": "2017/2394"
+    },
+    {
+      "id": "cd7b6f5e-055a-4904-acd0-92a6c81f7dc3",
+      "node_type": "Clause",
+      "publisher": "finlex",
+      "title": "§ 15 mom 3",
+      "text": "3) 4 artiklan 11 kohdassa säädettyä kieltoa käyttää pakottavia keinoja tai käyttää väärin datan suojaamiseen suunnitellun datan haltijan teknisen infrastruktuurin puutteita saadakseen pääsyn dataan; tai",
+      "clause_number": 3,
+      "section_number": "15",
+      "statute_id": "2017/2394"
+    },
+    {
+      "id": "9e29bdc0-d56a-47f6-9a6a-b4e0c9d47584",
+      "node_type": "Clause",
+      "publisher": "finlex",
+      "title": "§ 15 mom 4",
+      "text": "4) 11 artiklan 1 kohdassa säädettyä kieltoa muuttaa tai poistaa teknisiä suojatoimenpiteitä ilman, että siitä on sovittu datan haltijan kanssa.",
+      "clause_number": 4,
+      "section_number": "15",
+      "statute_id": "2017/2394"
+    },
+    {
+      "id": "c26dc688-c854-4b93-ad0a-f4082eb9fda9",
+      "node_type": "Clause",
+      "publisher": "finlex",
+      "title": "§ 17 mom 1",
+      "text": "1) 5 artiklan 5 kohdassa säädettyä kieltoa käyttää pakottavia keinoja tai käyttää väärin datan suojaamiseen suunnitellun datan haltijan teknisen infrastruktuurin puutteita saadakseen pääsyn dataan;",
+      "clause_number": 1,
+      "section_number": "17",
+      "statute_id": "2017/2394"
+    },
+    {
+      "id": "834aeadc-7c62-4123-b5de-014a962721d6",
+      "node_type": "Clause",
+      "publisher": "finlex",
+      "title": "§ 17 mom 2",
+      "text": "2) 6 artiklan 2 kohdan a alakohdassa säädettyä kieltoa kohtuuttomasti vaikeuttaa käyttäjän valintojen tai oikeuksien hyödyntämistä;",
+      "clause_number": 2,
+      "section_number": "17",
+      "statute_id": "2017/2394"
+    },
+    {
+      "id": "a1b8133a-4dec-46f2-9802-a5d93cf454cd",
+      "node_type": "Clause",
+      "publisher": "finlex",
+      "title": "§ 17 mom 3",
+      "text": "3) 6 artiklan 2 kohdan c alakohdassa säädettyä kieltoa asettaa vastaanottamansa data muun kolmannen osapuolen saataville ilman käyttäjän kanssa tehtyä sopimusta ja ilman, että muu kolmas osapuoli toteuttaa kaikki datan haltijan ja kolmannen osapuolen sopimat suojatoimenpiteet liikesalaisuuksien säilyttämiseksi;",
+      "clause_number": 3,
+      "section_number": "17",
+      "statute_id": "2017/2394"
+    },
+    {
+      "id": "02aef727-da57-4c68-91c8-098bb2dd0d12",
+      "node_type": "Clause",
+      "publisher": "finlex",
+      "title": "§ 17 mom 4",
+      "text": "4) 6 artiklan 2 kohdan d alakohdassa säädettyä kieltoa asettaa data digimarkkina-asetuksen 3 artiklassa tarkoitetun portinvartijayrityksen saataville;",
+      "clause_number": 4,
+      "section_number": "17",
+      "statute_id": "2017/2394"
+    },
+    {
+      "id": "6158d121-c006-4587-94d1-b22287d60c4f",
+      "node_type": "Clause",
+      "publisher": "finlex",
+      "title": "§ 17 mom 5",
+      "text": "5) 6 artiklan 2 kohdan e alakohdassa säädettyä kieltoa hyödyntää tai luovuttaa muulle kolmannelle osapuolelle datanhaltijalta saamaansa dataa sellaisen verkkoon liitetyn tuotteen kehittämiseksi, joka kilpailee sen tuotteen kanssa, josta data on peräisin;",
+      "clause_number": 5,
+      "section_number": "17",
+      "statute_id": "2017/2394"
+    },
+    {
+      "id": "e0c5b068-2871-4298-93a0-b59f662108b3",
+      "node_type": "Clause",
+      "publisher": "finlex",
+      "title": "§ 17 mom 6",
+      "text": "6) 6 artiklan 2 kohdan g alakohdassa säädettyä velvollisuutta huomioida datan haltijan tai liikesalaisuuksien haltijan kanssa sovitut toimenpiteet liikesalaisuuksien säilyttämiseksi;",
+      "clause_number": 6,
+      "section_number": "17",
+      "statute_id": "2017/2394"
+    },
+    {
+      "id": "fba027d4-0d75-4f45-bcf8-53399af076fc",
+      "node_type": "Clause",
+      "publisher": "finlex",
+      "title": "§ 17 mom 7",
+      "text": "7) 6 artiklan 2 kohdan h alakohdassa säädettyä kieltoa estää käyttäjää, joka on kuluttaja, asettamasta vastaanottamaansa dataa muiden osapuolten saataville; tai",
+      "clause_number": 7,
+      "section_number": "17",
+      "statute_id": "2017/2394"
+    },
+    {
+      "id": "b219a0c3-9bf5-4a73-bbc0-079a95022357",
+      "node_type": "Clause",
+      "publisher": "finlex",
+      "title": "§ 17 mom 8",
+      "text": "8) 11 artiklan 1 kohdassa säädettyä kieltoa muuttaa tai poistaa teknisiä suojatoimenpiteitä ilman, että siitä on sovittu datan haltijan kanssa.",
+      "clause_number": 8,
+      "section_number": "17",
+      "statute_id": "2017/2394"
+    },
+    {
+      "id": "16fe0202-1d90-42b9-b9f4-17667ee4fd38",
+      "node_type": "Clause",
+      "publisher": "finlex",
+      "title": "§ 18 mom 1",
+      "text": "1) 25 artiklan 1 kohdassa säädettyä velvollisuutta tehdä kirjallinen sopimus asiakkaan kanssa ja asettaa se asiakkaan saataville ennen sopimuksen allekirjoittamista;",
+      "clause_number": 1,
+      "section_number": "18",
+      "statute_id": "2017/2394"
+    },
+    {
+      "id": "be7c2055-bc3e-45a5-abd9-b6b87868a460",
+      "node_type": "Clause",
+      "publisher": "finlex",
+      "title": "§ 18 mom 2",
+      "text": "2) 26 artiklassa säädettyä velvollisuutta antaa asiakkaalle artiklan mukaiset tiedot;",
+      "clause_number": 2,
+      "section_number": "18",
+      "statute_id": "2017/2394"
+    },
+    {
+      "id": "cc150198-b420-45c4-a855-13da0df4c2d6",
+      "node_type": "Clause",
+      "publisher": "finlex",
+      "title": "§ 18 mom 3",
+      "text": "3) 29 artiklan 1 kohdassa säädettyä kieltoa periä vaihtomaksuja; tai",
+      "clause_number": 3,
+      "section_number": "18",
+      "statute_id": "2017/2394"
+    },
+    {
+      "id": "1fea5217-22a8-4dee-ab1a-e1e731df60b8",
+      "node_type": "Clause",
+      "publisher": "finlex",
+      "title": "§ 18 mom 4",
+      "text": "4) 32 artiklan 1 kohdassa säädettyä velvollisuutta toteuttaa riittävät toimenpiteet estääkseen muun datan kuin henkilötietojen siirto kolmansiin maihin tai kolmansien maiden viranomaisten pääsy tällaiseen dataan.",
+      "clause_number": 4,
+      "section_number": "18",
+      "statute_id": "2017/2394"
+    },
+    {
+      "id": "db69ae5e-e5a2-42fd-9dde-5b7890827002",
+      "node_type": "Clause",
+      "publisher": "finlex",
+      "title": "§ 19 mom 1",
+      "text": "1) 11 artiklassa säädettyä datan välityspalvelun tarjoajan ilmoitusvelvollisuutta;",
+      "clause_number": 1,
+      "section_number": "19",
+      "statute_id": "2017/2394"
+    },
+    {
+      "id": "d8de06e6-26b0-45c2-88b6-f8693493126d",
+      "node_type": "Clause",
+      "publisher": "finlex",
+      "title": "§ 19 mom 2",
+      "text": "2) 12 artiklassa säädettyjä datan välityspalvelun tarjoamisen edellytyksiä; tai",
+      "clause_number": 2,
+      "section_number": "19",
+      "statute_id": "2017/2394"
+    },
+    {
+      "id": "cbc2ce2e-7ff4-4442-87c6-13437fa0d889",
+      "node_type": "Clause",
+      "publisher": "finlex",
+      "title": "§ 19 mom 3",
+      "text": "3) 31 artiklassa säädettyjä muiden tietojen kuin henkilötietojen siirtoa kolmansiin maihin koskevia edellytyksiä.",
+      "clause_number": 3,
+      "section_number": "19",
+      "statute_id": "2017/2394"
+    }
+  ],
+  "cross_references": [],
+  "raw_html_path": "C:\\Users\\danit\\finance-hack\\aalto-hackaton-2026\\data\\raw\\finlex\\Laki (säädöskokoelma)\\Laki datan hallinnan ja jakamisen valvonnasta.html"
+}

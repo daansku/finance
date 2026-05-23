@@ -1,0 +1,991 @@
+{
+  "statute": {
+    "id": "43e68578-bc3c-495b-a837-d6299c8c6ce2",
+    "node_type": "Statute",
+    "publisher": "finlex",
+    "title": "Öljyvahinkojen torjuntalaki",
+    "text": "Öljyvahinkojen torjuntalaki",
+    "statute_id": "468/2003",
+    "finlex_url": "https://finlex.fi/fi/laki/ajantasa/468/2003"
+  },
+  "chapters": [
+    {
+      "id": "1027494b-00d7-4484-8e78-4c57da76717e",
+      "node_type": "Chapter",
+      "publisher": "finlex",
+      "title": "Chapter 1",
+      "text": "1 luku Yleiset säännökset",
+      "chapter_number": 1,
+      "statute_id": "468/2003"
+    },
+    {
+      "id": "cfcf2255-7559-4a5c-bea8-73e4a33c00bb",
+      "node_type": "Chapter",
+      "publisher": "finlex",
+      "title": "Chapter 2",
+      "text": "2 luku Viranomaiset ja niiden tehtävät",
+      "chapter_number": 2,
+      "statute_id": "468/2003"
+    },
+    {
+      "id": "6a89e425-a323-4187-bdd6-e54eba774ce0",
+      "node_type": "Chapter",
+      "publisher": "finlex",
+      "title": "Chapter 3",
+      "text": "3 luku Öljyvahinkojen torjuntasuunnitelmat",
+      "chapter_number": 3,
+      "statute_id": "468/2003"
+    },
+    {
+      "id": "967e0016-0192-4726-8f9d-cf27e26e30b0",
+      "node_type": "Chapter",
+      "publisher": "finlex",
+      "title": "Chapter 4",
+      "text": "4 luku Öljyn varastoijan ja sataman pitäjän velvollisuudet",
+      "chapter_number": 4,
+      "statute_id": "468/2003"
+    },
+    {
+      "id": "99ee1e6e-b950-4c39-b106-4de5bc3b2880",
+      "node_type": "Chapter",
+      "publisher": "finlex",
+      "title": "Chapter 5",
+      "text": "5 luku Öljyvahingon ja aluskemikaalivahingon torjunta",
+      "chapter_number": 5,
+      "statute_id": "468/2003"
+    },
+    {
+      "id": "015b621c-5602-402f-a8b1-e24847d4a870",
+      "node_type": "Chapter",
+      "publisher": "finlex",
+      "title": "Chapter 6",
+      "text": "6 luku Valvonta, hallintopakko ja muutoksenhaku",
+      "chapter_number": 6,
+      "statute_id": "468/2003"
+    },
+    {
+      "id": "162d8b66-aef8-4ef9-bc2d-7db6db042759",
+      "node_type": "Chapter",
+      "publisher": "finlex",
+      "title": "Chapter 7",
+      "text": "7 luku Viranomaisen tiedonsaanti ja salassapitovelvollisuus",
+      "chapter_number": 7,
+      "statute_id": "468/2003"
+    },
+    {
+      "id": "a57611a7-4ed2-432b-a5bc-ad51b8a1b886",
+      "node_type": "Chapter",
+      "publisher": "finlex",
+      "title": "Chapter 8",
+      "text": "8 luku Erinäiset säännökset",
+      "chapter_number": 8,
+      "statute_id": "468/2003"
+    }
+  ],
+  "sections": [
+    {
+      "id": "d6071199-2863-41d5-b801-7ffaeb036a6c",
+      "node_type": "Section",
+      "publisher": "finlex",
+      "title": "1 § Lain tavoite",
+      "text": "Tämän lain tavoitteena on, että: Lain tavoitteena on selkeyttää viranomaisten ja muiden tahojen tehtävät ja vastuut öljyvahinkojen ja aluksista aiheutuvien kemikaalivahinkojen torjunnassa.",
+      "section_number": "1",
+      "chapter_number": 1,
+      "statute_id": "468/2003"
+    },
+    {
+      "id": "ccfd2786-b534-4f82-88fe-8edf946892f1",
+      "node_type": "Section",
+      "publisher": "finlex",
+      "title": "2 § Lain soveltamisala",
+      "text": "Lakia sovelletaan maa-alueella tapahtuvien öljyvahinkojen sekä Suomen vesialueella ja talousvyöhykkeellä aluksista aiheutuvien öljy- ja kemikaalivahinkojen torjuntaan ja torjuntaan varautumiseen sekä vahinkojen seurausten korjaamiseen. Lisäksi laissa säädetään kansainvälisen virka-avun antamisesta ja pyytämisestä. Aluksista aiheutuvien öljyvahinkojen ja kemikaalivahinkojen torjuntaan sovelletaan lisäksi, mitä siitä on sovittu Suomea sitovissa kansainvälisissä meriympäristövahinkojen torjuntaa koskevissa sopimuksissa. Muun vaarallisen aineen kuin öljyn maa-alueella ympäristölle aiheuttamien vahinkojen torjuntaan sovelletaan pelastuslakia (468/2003).",
+      "section_number": "2",
+      "chapter_number": 1,
+      "statute_id": "468/2003"
+    },
+    {
+      "id": "1c5d57d7-77ba-4b78-a1d3-5edccd00f024",
+      "node_type": "Section",
+      "publisher": "finlex",
+      "title": "3 § Määritelmät",
+      "text": "Tässä laissa tarkoitetaan:",
+      "section_number": "3",
+      "chapter_number": 1,
+      "statute_id": "468/2003"
+    },
+    {
+      "id": "8231ffa5-093f-40ea-b213-8d5af4d6ea0e",
+      "node_type": "Section",
+      "publisher": "finlex",
+      "title": "4 § Ympäristöministeriön tehtävät",
+      "text": "Öljyvahinkojen ja aluskemikaalivahinkojen torjunnan yleinen ohjaus, seuranta ja kehittäminen kuuluu ympäristöministeriölle.",
+      "section_number": "4",
+      "chapter_number": 2,
+      "statute_id": "468/2003"
+    },
+    {
+      "id": "532aa7de-40c9-47d0-8030-0544c4312da0",
+      "node_type": "Section",
+      "publisher": "finlex",
+      "title": "5 § Suomen ympäristökeskuksen tehtävät",
+      "text": "Suomen ympäristökeskus huolehtii öljyvahinkojen ja aluskemikaalivahinkojen torjunnan ja alan ammatillisen jatko- ja täydennyskoulutuksen valtakunnallisesta järjestämisestä ja kehittämisestä. Se huolehtii myös riittävän valtakunnallisen alusöljy- ja aluskemikaalivahinkojen torjuntavalmiuden hankkimisesta ja ylläpidosta. Suomen ympäristökeskus vastaa alusöljyvahinkojen torjunnasta ja asettaa torjuntatöiden johtajan, jos alusöljyvahinko on sattunut tai sen vaara uhkaa Suomen vesialueella aavalla selällä tai talousvyöhykkeellä. Jos alusöljyvahinko on sattunut tai sen vaara uhkaa yhtä useammalla pelastustoimen alueella taikka jos vahinko tai sen vaara on niin suuri, ettei alueen pelastustointa kohtuudella voida vaatia yksin huolehtimaan torjuntatöistä, tai jos torjuntatoimet kestävät pitkään taikka siihen muuten on erityistä syytä, Suomen ympäristökeskus voi ottaa torjunnan vastuulleen ja asettaa torjuntatöiden johtajan. Suomen ympäristökeskus vastaa torjunnasta ja asettaa torjuntatöiden johtajan, jos aluskemikaalivahinko on sattunut tai sen vaara uhkaa Suomen vesialueella tai talousvyöhykkeellä.",
+      "section_number": "5",
+      "chapter_number": 2,
+      "statute_id": "468/2003"
+    },
+    {
+      "id": "f22ed360-5737-43c9-b3d5-f1088f491dde",
+      "node_type": "Section",
+      "publisher": "finlex",
+      "title": "6 § Elinkeino-, liikenne- ja ympäristökeskuksen tehtävät",
+      "text": "Elinkeino-, liikenne- ja ympäristökeskus ohjaa ja valvoo öljyvahinkojen torjunnan järjestämistä alueellaan ja vahvistaa toimialueensa pelastustoimen alueiden öljyvahinkojen torjuntasuunnitelmat. Se antaa myös tarvittaessa muille torjuntaviranomaisille asiantuntija-apua ja mahdollisuuksiensa mukaan muutakin apua öljyvahinkojen ja aluskemikaalivahinkojen torjunnassa.",
+      "section_number": "6",
+      "chapter_number": 2,
+      "statute_id": "468/2003"
+    },
+    {
+      "id": "4b851233-d1ee-4ab6-9c4a-6cb8f4f32efe",
+      "node_type": "Section",
+      "publisher": "finlex",
+      "title": "7 § Alueen pelastustoimen tehtävät öljyvahinkojen torjunnassa",
+      "text": "Alueen pelastustoimi vastaa maa-alueen öljyvahinkojen ja alusöljyvahinkojen torjunnasta alueellaan. Se ohjaa myös öljyvahinkojen torjuntaan varautumista alueellaan siten kuin jäljempänä säädetään. Alueen pelastustoimen on pyydettäessä osallistuttava aluskemikaalivahinkojen torjuntaan, jollei tehtävän suorittaminen merkittävällä tavalla vaaranna sen muun tärkeän lakisääteisen tehtävän suorittamista",
+      "section_number": "7",
+      "chapter_number": 2,
+      "statute_id": "468/2003"
+    },
+    {
+      "id": "e3e8fc7f-d1cc-470f-b77b-e32478a0085a",
+      "node_type": "Section",
+      "publisher": "finlex",
+      "title": "8 § Alusöljy- ja aluskemikaalivahinkojen torjuntaan osallistuvat viranomaiset",
+      "text": "Liikenteen turvallisuusvirasto, puolustusvoimat ja rajavartiolaitos osallistuvat alusöljy- ja aluskemikaalivahinkojen torjuntaan siten kuin tässä tai muussa laissa tarkemmin säädetään. Rajavartiolaitos osallistuu kuitenkin vain merialueella tapahtuvien vahinkojen torjuntaan. Edellä 1 momentissa tarkoitettujen torjuntaviranomaisten on alusöljy- tai aluskemikaalivahingon havaittuaan tai sellaisesta tiedon saatuaan ryhdyttävä pikaisesti valmiutensa edellyttämiin torjuntatoimiin, jollei tehtävän suorittaminen merkittävällä tavalla vaaranna viranomaisen muun tärkeän lakisääteisen tehtävän suorittamista.",
+      "section_number": "8",
+      "chapter_number": 2,
+      "statute_id": "468/2003"
+    },
+    {
+      "id": "8518c746-fc96-40bd-ab91-68b9b0c8ed96",
+      "node_type": "Section",
+      "publisher": "finlex",
+      "title": "9 § Kunnan tehtävät öljyvahinkojen torjunnassa",
+      "text": "Kunta vastaa tarvittaessa jälkitorjunnasta alueellaan. Kunnan eri viranomaisten ja laitosten tulee tarvittaessa osallistua öljyvahinkojen torjuntaan.",
+      "section_number": "9",
+      "chapter_number": 2,
+      "statute_id": "468/2003"
+    },
+    {
+      "id": "7e703d3b-6a9a-4411-a61d-01118165f5d4",
+      "node_type": "Section",
+      "publisher": "finlex",
+      "title": "10 § Torjuntaviranomaiset",
+      "text": "Tässä laissa tarkoitettuja torjuntaviranomaisia ovat: Torjuntatöitä johtavaan henkilöön sovelletaan tehtävässään rikosoikeudellista virkavastuuta koskevia säännöksiä. Vahingonkorvausvastuusta säädetään vahingonkorvauslaissa (412/1974).",
+      "section_number": "10",
+      "chapter_number": 2,
+      "statute_id": "468/2003"
+    },
+    {
+      "id": "31dedc0d-bb5c-4352-904a-080776cc9d66",
+      "node_type": "Section",
+      "publisher": "finlex",
+      "title": "11 § Virka-apuviranomaiset",
+      "text": "Valtion viranomaiset ovat pyydettäessä velvollisia mahdollisuuksiensa mukaan antamaan torjuntaviranomaisille virka-apua. Sama velvollisuus on Luotsausliikelaitoksesta annetussa laissa (938/2003) tarkoitetulla Luotsausliikelaitoksella.",
+      "section_number": "11",
+      "chapter_number": 2,
+      "statute_id": "468/2003"
+    },
+    {
+      "id": "7310540b-cffb-4574-a965-1c0d2f1d0436",
+      "node_type": "Section",
+      "publisher": "finlex",
+      "title": "12 § Alueen pelastustoimen öljyvahinkojen torjuntasuunnitelma",
+      "text": "Alueen pelastustoimella on oltava maaöljyvahinkojen torjuntasuunnitelma. Sillä on oltava myös alusöljyvahinkojen torjuntasuunnitelma, jos se paikalliset olosuhteet huomioon ottaen on tarpeellinen. Suunnitelmat on laadittava yhdeksi yhtenäiseksi torjuntasuunnitelmaksi. Elinkeino-, liikenne- ja ympäristökeskus vahvistaa alueen pelastustoimen hyväksymän öljyvahinkojen torjuntasuunnitelman. Öljyvahinkojen torjuntasuunnitelmassa on oltava tiedot öljyvahinkojen torjunnan eri viranomaisista ja niiden tehtävistä, selvitys torjuntavalmiuden tasosta ja torjunnan järjestämisestä sekä tiedot öljyvahinkojen torjuntakalustosta. Valtioneuvoston asetuksella annetaan tarkemmat säännökset öljyvahinkojen torjuntasuunnitelman sisällöstä sekä säädetään sen laatimisesta, hyväksymisestä ja tarkistamisesta.",
+      "section_number": "12",
+      "chapter_number": 3,
+      "statute_id": "468/2003"
+    },
+    {
+      "id": "2e2ba29f-89cb-4153-a9c8-86af566ab7aa",
+      "node_type": "Section",
+      "publisher": "finlex",
+      "title": "13 § Alusöljy- ja aluskemikaalivahinkojen torjunnan yhteistoimintasuunnitelma",
+      "text": "Alusöljy- ja aluskemikaalivahinkojen torjuntaviranomaisten tulee laatia elinkeino-, liikenne- ja ympäristökeskuksen johdolla suunnitelma yhteistoiminnasta alusöljy- ja aluskemikaalivahinkojen torjuntatyössä. Suunnitelman vahvistaa ympäristöministeriö. Alusöljy- ja aluskemikaalivahinkojen yhteistoimintasuunnitelmassa on oltava tiedot öljyvahinkojen torjunnan eri viranomaisista ja niiden tehtävistä, selvitys torjunnan palvelutasosta ja torjunnan järjestämisestä sekä tiedot öljyvahinkojen torjuntakalustosta. Valtioneuvoston asetuksella annetaan tarkemmat säännökset yhteistoimintasuunnitelman sisällöstä ja säädetään suunnitelman käsittelystä sekä suunnittelussa noudatettavasta aluejaosta ja suunnitelman laadinnasta vastaavasta elinkeino-, liikenne- ja ympäristökeskuksesta.",
+      "section_number": "13",
+      "chapter_number": 3,
+      "statute_id": "468/2003"
+    },
+    {
+      "id": "12e2986e-48c3-47ca-967e-7793534fc35e",
+      "node_type": "Section",
+      "publisher": "finlex",
+      "title": "14 § Öljyvaraston perustorjuntavalmius",
+      "text": "Jokainen, joka varastoi öljyä samalla varastoalueella vähintään 100 000 litraa, mutta kuitenkin alle miljoona litraa, on velvollinen pitämään varastoalueella paikallisten olosuhteiden vaatiman määrän torjuntaan soveltuvaa imeytys- tai muuta vastaavaa ainetta ja torjuntaan tarvittavaa kalustoa sekä huolehtimaan siitä, että saatavissa on niiden käyttöön perehtynyttä henkilöstöä. Jos varastoalue sijaitsee siten, että sieltä voi öljyvuodon yhteydessä joutua öljyä vesistöön, on varastoalueella oltava niin paljon öljypuomia, että sen avulla voidaan estää öljyn leviäminen vesistössä. Edellä 1 momentissa tarkoitetun varaston haltijan on huolehdittava siitä, että varaston henkilökunta on perehtynyt öljyvahinkojen hälytysjärjestelmään ja että henkilökunnan tiedossa ovat ne paikat, jotka viranomainen on hyväksynyt öljyisen jätteen keräys- ja hävityspaikoiksi. Jakeluasemilta edellytettävästä torjuntavalmiudesta säädetään vaarallisten kemikaalien ja räjähteiden käsittelyn turvallisuudesta annetussa laissa (390/2005).",
+      "section_number": "14",
+      "chapter_number": 4,
+      "statute_id": "468/2003"
+    },
+    {
+      "id": "6652f7f0-4292-4a96-937e-6fe91379c071",
+      "node_type": "Section",
+      "publisher": "finlex",
+      "title": "15 § Suuren öljyvaraston torjuntavalmius",
+      "text": "Jos öljyn määrä muualla kuin rannikolla sijaitsevalla varastoalueella on miljoona litraa tai suurempi, varastoija on velvollinen laatimaan suunnitelman alueella sattuvan öljyvahingon varalta ja kuulemaan siinä yhteydessä alueen pelastustointa. Varastoijan on myös hankittava öljyvahinkojen ehkäisemiseksi ja rajoittamiseksi tarpeellista kalustoa sekä huolehdittava siitä, että saatavissa on sen käyttöön perehtynyttä henkilöstöä. Suunnitelma torjunnan järjestämisestä on viivytyksettä saatettava elinkeino-, liikenne- ja ympäristökeskuksen ja alueen pelastustoimen tietoon. Tarkemmat säännökset 1 momentissa mainitusta suunnitelmasta ja tarvittavasta torjuntakalustosta annetaan valtioneuvoston asetuksella.",
+      "section_number": "15",
+      "chapter_number": 4,
+      "statute_id": "468/2003"
+    },
+    {
+      "id": "dcc6880e-5669-4688-882b-e70e7a382052",
+      "node_type": "Section",
+      "publisher": "finlex",
+      "title": "16 § Sataman ja laitoksen torjuntavalmius",
+      "text": "Pääasiassa kauppamerenkulun käyttöön tarkoitetun sataman pitäjä ja muun rannikkoalueella miljoona litraa tai sitä enemmän öljyä tai muita haitallisia aineita varastoivan laitoksen toiminnan harjoittaja on velvollinen laatimaan suunnitelman alueella sattuvan öljyvahingon ja aluskemikaalivahingon varalta. Suunnitelmaa laadittaessa on kuultava alueen pelastustointa. Sataman pitäjän ja toiminnan harjoittajan on hankittava öljyvahinkojen ja aluskemikaalivahinkojen ehkäisemiseksi ja rajoittamiseksi tarpeellista kalustoa. Toiminnanharjoittajan tulee myös huolehtia siitä, että torjuntakaluston käyttäjiksi on saatavissa koulutettua henkilöstöä. Suunnitelma torjunnan järjestämisestä on viivytyksettä saatettava elinkeino-, liikenne- ja ympäristökeskuksen ja alueen pelastustoimen tietoon. Tarkemmat säännökset 1 momentissa tarkoitetusta suunnitelmasta ja tarvittavasta torjuntakalustosta annetaan valtioneuvoston asetuksella. Säännöksiä annettaessa otetaan huomioon sataman liikenteen ja erityisesti siellä käyvien säiliöalusten määrä ja muut öljyvahingon ja aluskemikaalivahingon vaaraan vaikuttavat seikat.",
+      "section_number": "16",
+      "chapter_number": 4,
+      "statute_id": "468/2003"
+    },
+    {
+      "id": "fafbde74-2be9-4557-9fb5-9b8b62bf9370",
+      "node_type": "Section",
+      "publisher": "finlex",
+      "title": "17 § Vahingosta ilmoittaminen ja ensitorjunta",
+      "text": "Aluksen päällikön velvollisuudesta ilmoittaa alusöljy- ja aluskemikaalivahingosta sekä ryhtyä sellaisiin välittömiin torjuntatoimiin, joita häneltä voidaan kohtuudella vaatia, säädetään merenkulun ympäristönsuojelulain 11 luvun 1 ja 2 §:ssä. Sen, jonka hallussa vahingon tai vahingon vaaran aiheuttanut öljy on, on ilmoitettava vahingosta tai sen uhasta hätäkeskukselle ja ryhdyttävä sellaisiin torjuntatoimiin, joita häneltä olosuhteisiin nähden voidaan kohtuudella vaatia. Yleisestä ilmoittamis- ja toimimisvelvollisuudesta öljyn tai muun vahingollisen aineen aiheuttaman vahingon sattuessa tai vahingon vaaran uhatessa säädetään pelastuslain 28 §:ssä.",
+      "section_number": "17",
+      "chapter_number": 5,
+      "statute_id": "468/2003"
+    },
+    {
+      "id": "a8345340-1030-4f86-9766-1e2c93b47885",
+      "node_type": "Section",
+      "publisher": "finlex",
+      "title": "18 § Vahinkoilmoituksen vastaanoton edellyttämät toimenpiteet",
+      "text": "Öljy- tai aluskemikaalivahingosta tai sen vaarasta tiedon saaneen hätäkeskuksen, meripelastuskeskuksen, meripelastuslohkokeskuksen tai VTS-viranomaisen tulee viipymättä välittää tieto maa-alueen öljyvahingosta kyseisen alueen pelastustoimelle ja alusöljy- tai aluskemikaalivahingosta Suomen ympäristökeskukselle ja alueen pelastustoimelle.",
+      "section_number": "18",
+      "chapter_number": 5,
+      "statute_id": "468/2003"
+    },
+    {
+      "id": "ef1d867a-5063-4bc4-8f17-cf40491efaa4",
+      "node_type": "Section",
+      "publisher": "finlex",
+      "title": "19 § Torjunnan järjestäminen",
+      "text": "Torjuntaviranomaisen tulee kiireellisesti ryhtyä vahinkojen torjumiseksi tai rajoittamiseksi kaikkiin sellaisiin tarpeellisiin toimenpiteisiin, joista aiheutuvat kustannukset tai vahingot eivät ole ilmeisessä epäsuhteessa uhattuina oleviin taloudellisiin ja muihin arvoihin. Torjuntatoimenpiteet on suoritettava niin, ettei luonnon ja ympäristön saattamista samaan tilaan, jossa se oli ennen vahinkotapahtumaa, tarpeettomasti vaikeuteta. Suomen ympäristökeskus on muun torjuntaviranomaisen pyynnöstä tarvittaessa velvollinen antamaan öljyntorjuntakalustonsa ja sen käyttöön tarvittavan henkilöstön torjuntatöiden johtajan käytettäväksi. Suomen ympäristökeskus asettaa torjuntatöiden johtajan käyttöön tarpeellisen henkilöstön, kaluston ja tarvikkeet silloin, kun se 5 §:n nojalla vastaa alusöljyvahingon tai aluskemikaalivahingon torjunnasta taikka on ottanut torjunnan vastuulleen. Näissä tapauksissa alueen pelastustoimen on alueensa ulkopuolellakin asetettava torjuntatöiden johtajan pyynnöstä torjuntakalustonsa ja -tarvikkeensa sekä niiden käyttöön tarvittavaa henkilöstöä torjuntatöiden johtajan käytettäväksi.",
+      "section_number": "19",
+      "chapter_number": 5,
+      "statute_id": "468/2003"
+    },
+    {
+      "id": "523cc84c-8997-46ba-8dc8-bcbd6d44e6c4",
+      "node_type": "Section",
+      "publisher": "finlex",
+      "title": "20 § Velvollisuus osallistua torjuntaan",
+      "text": "Jos öljyvahinko tai aluskemikaalivahinko, sen vaara tai vahingon leviämisen mahdollisuus on niin suuri, että torjuntaviranomaisen käytössä oleva henkilöstö tai kalusto ei riitä vahingon tehokkaaseen torjumiseen tai ehkäisyyn, torjuntaviranomaisella on oikeus määrätä sataman pitäjä, laitoksen haltija, öljyn varastoija tai muu, jolla on torjuntakalustoa tai niiden käyttöön perehtynyttä henkilöstöä, asettamaan nämä torjuntaviranomaisen käyttöön, jollei tästä aiheudu toiminnan harjoittajalle kohtuutonta haittaa.",
+      "section_number": "20",
+      "chapter_number": 5,
+      "statute_id": "468/2003"
+    },
+    {
+      "id": "44fc4c87-d1fe-45ef-a2b1-989e93f2b063",
+      "node_type": "Section",
+      "publisher": "finlex",
+      "title": "21 § Torjuntatöiden johtaminen",
+      "text": "Öljyvahingon torjuntatöitä johtaa sen pelastustoimen alueen pelastusviranomainen, jossa vahinko tai vaaratilanne on saanut alkunsa, jollei 2 momentista muuta johdu taikka toisin sovita. Siihen saakka kunnes pelastusviranomainen ottaa toiminnan johtaakseen, torjuntatöitä voi johtaa muu pelastuslain 44 §:n 1 momentissa tarkoitettu pelastustoiminnan johtaja. Alusöljyvahingon torjuntatöitä johtaa Suomen ympäristökeskuksen asettama torjuntatöiden johtaja, jos Suomen ympäristökeskus 5 §:n nojalla vastaa torjunnasta taikka on ottanut torjunnan vastuulleen. Aluskemikaalivahingon torjuntatöitä johtaa Suomen ympäristökeskuksen asettama torjuntatöiden johtaja. Tässä momentissa tarkoitettuja torjuntatöitä voi kuitenkin johtaa vahinkopaikalle saapunut alueen pelastustoimen tai muun torjuntaviranomaisen palveluksessa oleva henkilö siihen saakka, kun Suomen ympäristökeskuksen asettama torjuntatöiden johtaja ottaa johtovastuun itselleen. Jälkitorjuntaa johtaa asianomaisen kunnan määräämä viranomainen. Elinkeino-, liikenne- ja ympäristökeskus ohjaa ja sovittaa yhteen jälkitorjuntatöitä, jos torjunta ulottuu usean kunnan alueelle.",
+      "section_number": "21",
+      "chapter_number": 5,
+      "statute_id": "468/2003"
+    },
+    {
+      "id": "46cb2da7-a01e-4f39-9bd1-ac26fdab4cc0",
+      "node_type": "Section",
+      "publisher": "finlex",
+      "title": "22 § Yhteistoiminta torjuntatilanteissa",
+      "text": "Jos öljy- tai aluskemikaalivahingon torjuntatoimiin osallistuu yhtä useamman toimialan viranomaisia, torjuntatöiden johtaja toimii yleisjohtajana ja vastaa tilannekuvan ylläpitämisestä sekä tehtävien antamisesta eri toimialoille ja toiminnan yhteensovittamisesta. Yksiköt toimivat oman johtonsa alaisuudessa siten, että niiden toimenpiteet kokonaisuutena edistävät vahingon tehokasta torjuntaa. Torjuntatöiden johtaja voi muodostaa avukseen eri viranomaisten edustajista koostuvan johtoryhmän, jos alusöljy- tai aluskemikaalivahingon torjuntatöihin osallistuu yhtä useamman toimialan viranomaisia. Ryhmää voidaan laajentaa torjuntatöihin vapaaehtoisesti osallistuvien yhdistysten ja muiden yhteisöjen edustajilla. Torjuntatöiden johtaja voi myös kutsua avukseen asiantuntijoita.",
+      "section_number": "22",
+      "chapter_number": 5,
+      "statute_id": "468/2003"
+    },
+    {
+      "id": "e31e143c-6c0b-4b84-8dbf-1933b8afa892",
+      "node_type": "Section",
+      "publisher": "finlex",
+      "title": "23 § Torjuntaviranomaisen toimivaltuudet",
+      "text": "Jos öljyvahingon tai aluskemikaalivahingon torjumiseksi ja vahinkojen seurausten rajoittamiseksi on välttämätöntä, torjuntaviranomaisella on oikeus:",
+      "section_number": "23",
+      "chapter_number": 5,
+      "statute_id": "468/2003"
+    },
+    {
+      "id": "4eeda254-8407-4cf6-9305-1a2962e5baad",
+      "node_type": "Section",
+      "publisher": "finlex",
+      "title": "24 § Johtovastuun siirto ja torjuntatöiden lopettaminen",
+      "text": "Torjuntatöiden johtaja ilmoittaa, milloin hän ottaa johtovastuun itselleen. Torjuntatöiden johtaja myös päättää, milloin johtovastuu siirretään jälkitorjunnasta vastaavalle kunnan asianomaiselle viranomaiselle. Torjuntatöiden johtaja päättää elinkeino-, liikenne- ja ympäristökeskusta tarvittaessa kuultuaan, milloin öljyvahingon tai aluskemikaalivahingon torjunta ei enää vaadi torjuntaviranomaisen toimenpiteitä.",
+      "section_number": "24",
+      "chapter_number": 5,
+      "statute_id": "468/2003"
+    },
+    {
+      "id": "60dec554-1e64-4592-b216-c417cdb915a5",
+      "node_type": "Section",
+      "publisher": "finlex",
+      "title": "25 § Alusta ja sen lastia koskevat toimenpiteet",
+      "text": "Jos Suomen vesialueella tai talousvyöhykkeellä alus uppoaa, joutuu karille tai yhteentörmäyksen osapuoleksi, saa vuodon tai konevian taikka muutoin joutuu tilaan, johon liittyy ilmeinen öljyn tai muun haitallisen aineen vuodon vaara, Suomen ympäristökeskus voi määrätä ryhdyttäväksi sellaisiin alukseen ja sen lastiin kohdistuviin pelastus- tai muihin toimenpiteisiin, jotka se katsoo välttämättömiksi vesien pilaantumisen ehkäisemiseksi tai rajoittamiseksi. Ennen toimenpiteisiin ryhtymistä Suomen ympäristökeskuksen on neuvoteltava tilanteesta Liikenteen turvallisuusviraston kanssa. Lisäksi Suomen ympäristökeskuksen on neuvoteltava aluksen omistajan, toimeksiannon saaneen pelastusyhtiön ja vakuutuksenantajien edustajien kanssa, jos se voi tapahtua aiheuttamatta tarpeetonta viivytystä. Sen aluksen päällikkö, josta vesien pilaantuminen tai sen vaara on aiheutunut, on velvollinen antamaan viranomaisille mainittujen vahingollisten seurausten estämiseksi kaikkea apua, jota olosuhteet huomioon ottaen voidaan vaatia.",
+      "section_number": "25",
+      "chapter_number": 5,
+      "statute_id": "468/2003"
+    },
+    {
+      "id": "c403fd6d-2bce-4e3e-ac94-18f0a912555d",
+      "node_type": "Section",
+      "publisher": "finlex",
+      "title": "26 § Kansainvälisen virka-avun antaminen ja pyytäminen",
+      "text": "Suomen ympäristökeskus päättää valtioiden välisen sopimuksen tai vieraan valtion pyynnön perusteella avun antamisesta ulkomaille alusöljy- ja aluskemikaalivahinkojen torjuntaan kuuluvassa asiassa. Suomen ympäristökeskus päättää myös avun pyytämisestä ulkomailta, jos se on alusöljy- tai aluskemikaalivahingon torjumiseksi tarpeen. Suomen ympäristökeskuksen tulee 1 momentissa tarkoitettua apua vastaanotettaessa avustaa ulkomaisia torjuntayksiöitä niiden maahantuloon ja maastalähtöön liittyvissä lupa-, ilmoitus- ja vastaavissa asioissa sen mukaan kuin maahantulon edellytyksistä erikseen säädetään tai Suomea sitovassa kansainvälisessä sopimuksessa määrätään.",
+      "section_number": "26",
+      "chapter_number": 5,
+      "statute_id": "468/2003"
+    },
+    {
+      "id": "07147417-0c5b-43dc-bba9-f1ab683d6264",
+      "node_type": "Section",
+      "publisher": "finlex",
+      "title": "27 § Valvonta",
+      "text": "Elinkeino-, liikenne- ja ympäristökeskus valvoo 12, 15 ja 16 §:ssä tarkoitettujen torjuntasuunnitelmien laatimista, suunnitelmien mukaisen kaluston hankintaa ja sitä, että torjuntakaluston käyttöön on saatavilla tarvittava henkilöstö. Alueen pelastustoimen tehtävänä on tarkastaa, että 14―16 §:ssä tarkoitetun toiminnan harjoittajalla on suunnitelman mukainen kalusto ja torjuntavalmius sekä ilmoittaa elinkeino-, liikenne- ja ympäristökeskukselle mahdollisesti havaitsemistaan puutteista.",
+      "section_number": "27",
+      "chapter_number": 6,
+      "statute_id": "468/2003"
+    },
+    {
+      "id": "34503ec5-c153-4bf0-8085-56f3d575f1d3",
+      "node_type": "Section",
+      "publisher": "finlex",
+      "title": "28 § Hallintopakko",
+      "text": "Elinkeino-, liikenne- ja ympäristökeskus voi määrätä sen, joka laiminlyö 12 tai 14―16 §:n tai niiden nojalla annettujen säännösten tai määräysten mukaisen velvollisuutensa, määräajassa täyttämään velvollisuutensa. Viranomaisen antamaa määräystä voidaan tehostaa uhkasakolla tai uhalla, että tekemättä jätetty toimenpide teetetään laiminlyöjän kustannuksella. Uhkasakkoa ja teettämisuhkaa koskevassa asiassa sovelletaan, mitä uhkasakkolaissa (1113/1990) säädetään.",
+      "section_number": "28",
+      "chapter_number": 6,
+      "statute_id": "468/2003"
+    },
+    {
+      "id": "f342eccf-3f9c-4b36-9dee-4788cd230e79",
+      "node_type": "Section",
+      "publisher": "finlex",
+      "title": "29 § Muutoksenhaku",
+      "text": "Viranomaisen tämän lain nojalla tekemään päätökseen haetaan muutosta valittamalla siten kuin hallintolainkäyttölaissa (586/1996) säädetään. Samassa järjestyksessä haetaan muutosta myös alueen pelastustoimen öljyvahinkojen torjuntasuunnitelman hyväksymistä koskevaan päätökseen. Muutoksenhaku ei estä 28 §:ssä tarkoitetun päätöksen täytäntöönpanoa, ellei valitusviranomainen toisin määrää.",
+      "section_number": "29",
+      "chapter_number": 6,
+      "statute_id": "468/2003"
+    },
+    {
+      "id": "68750b15-e295-45da-b929-e46ec0e3ec72",
+      "node_type": "Section",
+      "publisher": "finlex",
+      "title": "30 § Muutoksenhakuoikeuden rajoittaminen",
+      "text": "Torjuntaviranomaisen tekemään päätökseen ei saa hakea muutosta valittamalla, jos päätös koskee:",
+      "section_number": "30",
+      "chapter_number": 6,
+      "statute_id": "468/2003"
+    },
+    {
+      "id": "3828ee16-650e-46f5-b063-f04a152eab8a",
+      "node_type": "Section",
+      "publisher": "finlex",
+      "title": "31 § Torjuntaviranomaisen tiedonsaantioikeus",
+      "text": "Öljy- ja aluskemikaalivahinkojen torjuntaviranomaisella on oikeus saada salassapitosäännösten estämättä maksutta torjuntatoiminnassa mukana olevalta muulta viranomaiselta torjuntatoimen suunnittelussa tarvittavia, tämän viranomaisen toimintavalmiutta koskevia tietoja sekä henkilöstön valmius-, tunniste- ja yhteystietoja. Alusöljy- ja aluskemikaalivahinkojen torjuntaviranomaisella on oikeus vaaratilanteessa saada salassapitosäännösten estämättä maksutta öljyvahingon ja aluskemikaalivahingon torjumiseksi tarpeellisia tietoja seuraavasti: Maaöljyvahinkojen torjuntaviranomaisella on oikeus vaaratilanteessa saada salassapitosäännösten estämättä maksutta öljyvahingon torjumiseksi tarpeellisia tietoja seuraavasti: Tiedot voidaan luovuttaa myös teknisen käyttöyhteyden avulla tai muutoin sähköisesti.",
+      "section_number": "31",
+      "chapter_number": 7,
+      "statute_id": "468/2003"
+    },
+    {
+      "id": "adfac17c-7d95-49f2-8591-ceb3f792d6b7",
+      "node_type": "Section",
+      "publisher": "finlex",
+      "title": "32 § Torjuntaviranomaisen oikeus tietojen saamiseen yrityksiltä ja yhteisöiltä",
+      "text": "Öljy- ja aluskemikaalivahinkojen torjuntaviranomaisella on oikeus vaaratilanteessa saada öljyvahingon ja aluskemikaalivahingon torjumiseksi tarpeellisia tietoja:",
+      "section_number": "32",
+      "chapter_number": 7,
+      "statute_id": "468/2003"
+    },
+    {
+      "id": "ee1d4999-cd4f-457f-94d3-daa663213cb7",
+      "node_type": "Section",
+      "publisher": "finlex",
+      "title": "33 § Tietojen saaminen toimenpiderekisteristä",
+      "text": "Suomen ympäristökeskuksella ja elinkeino-, liikenne- ja ympäristökeskuksilla on salassapitosäännösten estämättä oikeus saada pelastuslain 69 §:ssä tarkoitetusta toimenpiderekisteristä tietoja öljyvahinkojen torjunnan suoritteista. Tiedot voidaan tarvittaessa luovuttaa teknisen käyttöyhteyden avulla.",
+      "section_number": "33",
+      "chapter_number": 7,
+      "statute_id": "468/2003"
+    },
+    {
+      "id": "352edd8b-0c5b-4342-8e0b-725331b729a8",
+      "node_type": "Section",
+      "publisher": "finlex",
+      "title": "34 § Salassapitovelvollisuus",
+      "text": "Öljy- ja aluskemikaalivahinkojen torjuntaviranomaisen tai virka-apuviranomaisen palveluksessa olevan henkilön taikka torjuntaan osallistuvan muun henkilön vaitiolovelvollisuuteen sovelletaan viranomaisten toiminnan julkisuudesta annettua lakia (621/1999). Viranomaisen vaitiolovelvollisuus ei kuitenkaan estä torjuntaviranomaista ilmaisemasta sellaista tietoa, jonka ilmaiseminen on yksittäistapauksessa tarpeen hengen tai terveyden suojaamiseksi tai huomattavan ympäristö- tai omaisuusvahingon välttämiseksi.",
+      "section_number": "34",
+      "chapter_number": 7,
+      "statute_id": "468/2003"
+    },
+    {
+      "id": "ec0970d5-5be8-4e2c-abef-fb08430ed5b4",
+      "node_type": "Section",
+      "publisher": "finlex",
+      "title": "35 § Torjuntakustannusten maksaminen",
+      "text": "Öljyvahingon ja aluskemikaalivahingon torjumisesta vastaavalla torjuntaviranomaisella on oikeus saada vahingon torjunnasta aiheutuneista kustannuksista korvaus vahingosta vastuulliselta tai hänen vakuutuksenantajaltaan sen mukaisesti kuin ympäristövahinkojen korvaamisesta annetussa laissa (737/1994), merilaissa (674/1994), liikennevakuutuslaissa (279/1959), raideliikennevastuulaissa (113/1999) tai muussa laissa säädetään. Torjuntaviranomaisen oikeudesta saada korvaus öljyvahinkojen torjuntakustannuksista öljysuojarahastosta säädetään erikseen. Torjuntaviranomaisen oikeudesta saada korvaus kansainvälisestä öljyvahinkojen korvausrahastosta on voimassa, mitä siitä on Suomea sitovasti sovittu. Öljyvahingon torjunnasta vastaava alueen pelastustoimi, Suomen ympäristökeskus tai kunta maksaa torjuntatoimista aiheutuvat kustannukset kuitenkin siihen saakka, kunnes 1 tai 2 momentissa mainittu korvaus on saatu. Suomen ympäristökeskus maksaa vastaavasti aluskemikaalivahingon torjunnasta aiheutuvat kustannukset.",
+      "section_number": "35",
+      "chapter_number": 8,
+      "statute_id": "468/2003"
+    },
+    {
+      "id": "f9e4fe42-030c-440d-adbb-65c07f353635",
+      "node_type": "Section",
+      "publisher": "finlex",
+      "title": "36 § Korvaukset torjuntaan osallistumisesta",
+      "text": "Öljyvahingon torjunnasta vastaavan alueen pelastustoimen, Suomen ympäristökeskuksen tai kunnan varoista maksetaan kohtuullinen palkkio henkilölle, joka on: Edellä mainitun torjuntaviranomaisen varoista maksetaan täysi korvaus torjuntatyöhön osallistuneille torjunnasta aiheutuneista ylimääräisistä kustannuksista ja torjuntatyössä kulutettujen tai turmeltuneiden tarvikkeiden, laitteiden, varusteiden ja muiden vastaavien käyttöesineiden arvosta tai arvon vähennyksestä. Torjuntaviranomainen suorittaa korvauksen myös edellä 20 ja 23 §:n mukaan käyttöön otetusta omaisuudesta sekä torjuntatehtävien suorittamisesta ulkopuoliselle mahdollisesti aiheutuneesta vahingosta, siten kuin vahingonkorvauslaissa säädetään. Edellä 1 ja 2 momentissa mainittujen periaatteiden mukaisesti Suomen ympäristökeskuksen varoista maksetaan aluskemikaalivahingon torjumiseksi annetusta avusta palkkio ja korvataan torjuntatehtävien suorittamisesta ulkopuoliselle mahdollisesti aiheutunut vahinko. Tässä pykälässä tarkoitettua korvausta ja palkkiota on haettava asianomaiselta torjuntaviranomaiselta kirjallisesti kolmen kuukauden kuluessa korvausperusteen syntymisestä tai 23 §:ssä tarkoitetussa tapauksessa siitä kun vahingonkärsijä on saanut tiedon vahingosta. Korvauksen suorittaminen kulutetuista tai turmeltuneista vaatteista, varusteista ja työvälineistä edellyttää, että vahingosta on viivytyksettä ilmoitettu torjuntatoimen johtajalle. Torjuntaviranomaisen varoista korvausta saaneen oikeus saada korvausta vahingosta vastuussa olevalta siirtyy torjuntaviranomaiselle siltä osin kuin korvausta on maksettu.",
+      "section_number": "36",
+      "chapter_number": 8,
+      "statute_id": "468/2003"
+    },
+    {
+      "id": "74665603-c7d5-4fe0-b373-0331e542c0c1",
+      "node_type": "Section",
+      "publisher": "finlex",
+      "title": "37 § Torjuntatyössä sattuneen tapaturman korvaaminen",
+      "text": "Öljy- tai aluskemikaalivahinkojen torjunnassa sattuneesta tapaturmasta tai siinä saadusta ammattitaudista suoritetaan korvausta valtion varoista samojen perusteiden mukaan kuin työtapaturmasta tai ammattitaudista siltä osin kuin vahingoittuneella ei ole oikeutta vähintään samansuuruiseen korvaukseen muun lain mukaan. Korvaus suoritetaan sille, joka on: Asian, joka koskee korvauksen suorittamista tämän pykälän nojalla valtion varoista, käsittelee Valtiokonttori. Valtiolta korvausta saaneen oikeus saada korvausta vahingosta vastuussa olevalta siirtyy valtiolle siltä osin kuin korvausta on maksettu.",
+      "section_number": "37",
+      "chapter_number": 8,
+      "statute_id": "468/2003"
+    },
+    {
+      "id": "3b0a6a19-b714-4179-b5b9-29315ae515a8",
+      "node_type": "Section",
+      "publisher": "finlex",
+      "title": "38 § Pelastustyössä aiheutuneen vahingon korvaaminen",
+      "text": "Jos alukselle, sen lastille tai muulle siinä olevalle omaisuudelle on 25 §:ssä tarkoitetussa tapauksessa aiheutettu enemmän vahinkoa kuin mitä pelastustyötä tavanomaisesti suoritettaessa olisi ollut odotettavissa eikä kenenkään muun voida katsoa olevan korvausvelvollinen, korvaa ylimenevän osan valtio.",
+      "section_number": "38",
+      "chapter_number": 8,
+      "statute_id": "468/2003"
+    },
+    {
+      "id": "880710b9-dc6d-46d2-bf11-1502243a1027",
+      "node_type": "Section",
+      "publisher": "finlex",
+      "title": "39 § Öljytorjuntarikkomus",
+      "text": "Joka laiminlyö on tuomittava, jollei teko ole vähäinen tai jollei teosta muualla laissa säädetä ankarampaa rangaistusta,öljyntorjuntarikkomuksestasakkoon. Se, joka rikkoo tämän lain nojalla määrättyä uhkasakolla tehostettua velvoitetta, voidaan jättää tuomitsematta samasta teosta rangaistukseen.",
+      "section_number": "39",
+      "chapter_number": 8,
+      "statute_id": "468/2003"
+    },
+    {
+      "id": "de8a2675-6e73-427c-a373-1a78c8b8e627",
+      "node_type": "Section",
+      "publisher": "finlex",
+      "title": "40 § Viittaukset rikoslakiin",
+      "text": "Rangaistus vastoin tätä lakia tai sen nojalla annettuja säännöksiä tai määräyksiä tehdystä ympäristön turmelemisesta säädetään rikoslain (39/1889) 48 luvun 1―4 §:ssä. Rangaistus 34 §:ssä säädetyn salassapitovelvollisuuden rikkomisesta tuomitaan rikoslain 38 luvun 1 tai 2 §:n mukaan, jollei teko ole rangaistava rikoslain 40 luvun 5 §:n mukaan.",
+      "section_number": "40",
+      "chapter_number": 8,
+      "statute_id": "468/2003"
+    },
+    {
+      "id": "ce4b599b-9b1d-401a-afb8-d406e7322317",
+      "node_type": "Section",
+      "publisher": "finlex",
+      "title": "41 § Torjuntakemikaalin käyttö",
+      "text": "Suomen ympäristökeskus voi poikkeustapauksessa päättää merenkulun ympäristönsuojelulain 2 luvun 2 §:n 1 momentin 3 kohdassa tarkoitettujen öljypitoisten aineiden tai mainitun lain 4 luvun 3 §:n 1 momentin 3 kohdassa tarkoitettujen haitallisten nestemäisten aineiden (torjuntakemikaali) käytöstä alusöljy- ja aluskemikaalivahingon torjunnassa. Suomen ympäristökeskuksen on ennen päätöksen tekemistä varmistuttava, että torjuntakemikaali on kyseisen vahingon torjunnassa huomattavasti muita torjuntamenetelmiä parempi eikä torjuntakemikaalin käytöstä aiheudu ilmeistä vesien pilaantumisen vaaraa eikä muuta haittaa ihmisen terveydelle tai ympäristölle.",
+      "section_number": "41",
+      "chapter_number": 8,
+      "statute_id": "468/2003"
+    },
+    {
+      "id": "039e7398-bf29-4012-b578-95a46c84e4a5",
+      "node_type": "Section",
+      "publisher": "finlex",
+      "title": "42 § Voimaantulo",
+      "text": "Tämä laki tulee voimaan 1 päivänä tammikuuta 2010. Lailla kumotaan maa-alueilla tapahtuvien öljyvahinkojen torjumisesta 24 päivänä toukokuuta 1974 annettu laki (378/1974) siihen myöhemmin tehtyine muutoksineen. Aluksista aiheutuvan ympäristön pilaantumisen ehkäisemisestä annetun lain (300/1979) kumoamisesta säädetään merenkulun ympäristönsuojelulaissa. Ennen lain voimaantuloa voidaan ryhtyä lain täytäntöönpanon edellyttämiin toimenpiteisiin.",
+      "section_number": "42",
+      "chapter_number": 8,
+      "statute_id": "468/2003"
+    }
+  ],
+  "clauses": [
+    {
+      "id": "38843ef1-e0ab-4e44-b8ed-bafadf6ffdd6",
+      "node_type": "Clause",
+      "publisher": "finlex",
+      "title": "§ 1 mom 1",
+      "text": "1) maa-alueilla tapahtuvien öljyvahinkojen ja aluksista aiheutuvien öljy- ja kemikaalivahinkojen torjuntaan varaudutaan asianmukaisesti;",
+      "clause_number": 1,
+      "section_number": "1",
+      "statute_id": "468/2003"
+    },
+    {
+      "id": "8ed8a384-15a2-4ebb-95f0-018c804ca371",
+      "node_type": "Clause",
+      "publisher": "finlex",
+      "title": "§ 1 mom 2",
+      "text": "2) mahdolliset vahingot torjutaan nopeasti ja tehokkaasti; ja",
+      "clause_number": 2,
+      "section_number": "1",
+      "statute_id": "468/2003"
+    },
+    {
+      "id": "4828dd08-da9b-4e1a-8f92-a31cf0199afc",
+      "node_type": "Clause",
+      "publisher": "finlex",
+      "title": "§ 1 mom 3",
+      "text": "3) vahinkojen seuraukset korjataan niin, että ihmisille, omaisuudelle ja ympäristölle aiheutuvat haitat jäävät mahdollisimman vähäisiksi.",
+      "clause_number": 3,
+      "section_number": "1",
+      "statute_id": "468/2003"
+    },
+    {
+      "id": "051af0a8-6fca-4297-bda9-040186001afe",
+      "node_type": "Clause",
+      "publisher": "finlex",
+      "title": "§ 10 mom 1",
+      "text": "1) Suomen ympäristökeskus ja sen asettama torjuntatöiden johtaja alusöljyvahinkojen ja aluskemikaalivahinkojen torjunnassa;",
+      "clause_number": 1,
+      "section_number": "10",
+      "statute_id": "468/2003"
+    },
+    {
+      "id": "8ce8c7d5-c906-44e2-a2cb-192c4b973650",
+      "node_type": "Clause",
+      "publisher": "finlex",
+      "title": "§ 10 mom 2",
+      "text": "2) Liikenteen turvallisuusvirasto, puolustusvoimat ja rajavartiolaitos ryhdyttyään alusöljyvahingon tai aluskemikaalivahingon torjuntaan;",
+      "clause_number": 2,
+      "section_number": "10",
+      "statute_id": "468/2003"
+    },
+    {
+      "id": "ba107bca-476d-43c3-bcd3-e0e133228449",
+      "node_type": "Clause",
+      "publisher": "finlex",
+      "title": "§ 10 mom 3",
+      "text": "3) elinkeino-, liikenne- ja ympäristökeskus öljyvahinkojen torjunnassa;",
+      "clause_number": 3,
+      "section_number": "10",
+      "statute_id": "468/2003"
+    },
+    {
+      "id": "a512d438-af3f-46c8-9109-b6d15532e798",
+      "node_type": "Clause",
+      "publisher": "finlex",
+      "title": "§ 10 mom 1",
+      "text": "4) alueen pelastustoimen pelastusviranomainen ja torjuntatöitä johtava muu pelastuslain 44 §:n 1 momentissa tarkoitettu pelastustoiminnan johtaja öljyvahinkojen torjunnassa; sekä",
+      "clause_number": 1,
+      "section_number": "10",
+      "statute_id": "468/2003"
+    },
+    {
+      "id": "8d68afaf-e435-4d9c-8498-888f49046bac",
+      "node_type": "Clause",
+      "publisher": "finlex",
+      "title": "§ 10 mom 4",
+      "text": "4) alueen pelastustoimen pelastusviranomainen ja torjuntatöitä johtava muu pelastuslain 44 §:n 1 momentissa tarkoitettu pelastustoiminnan johtaja öljyvahinkojen torjunnassa; sekä",
+      "clause_number": 4,
+      "section_number": "10",
+      "statute_id": "468/2003"
+    },
+    {
+      "id": "5fb4c913-61a9-43b5-a940-2dc8da249606",
+      "node_type": "Clause",
+      "publisher": "finlex",
+      "title": "§ 10 mom 5",
+      "text": "5) kunta jälkitorjunnassa.",
+      "clause_number": 5,
+      "section_number": "10",
+      "statute_id": "468/2003"
+    },
+    {
+      "id": "15b6db84-00aa-4d09-b341-9dd02e7bedfe",
+      "node_type": "Clause",
+      "publisher": "finlex",
+      "title": "§ 23 mom 1",
+      "text": "1) ottaa tilapäisesti käyttöön vahinkojen torjuntaan sopivia laitteita ja tarvikkeita, tarpeellisia viestintä- ja kuljetusvälineitä, työkoneita ja -välineitä sekä lastaukseen, purkaukseen tai väliaikaiseen varastoimiseen tarvittavia tiloja ja paikkoja;",
+      "clause_number": 1,
+      "section_number": "23",
+      "statute_id": "468/2003"
+    },
+    {
+      "id": "7885fc85-3651-4284-aab7-bc523910e195",
+      "node_type": "Clause",
+      "publisher": "finlex",
+      "title": "§ 23 mom 2",
+      "text": "2) nousta maihin ja liikkua toisen alueella;",
+      "clause_number": 2,
+      "section_number": "23",
+      "statute_id": "468/2003"
+    },
+    {
+      "id": "a867173b-b35c-46a4-bf5b-f1d3bf5c0af2",
+      "node_type": "Clause",
+      "publisher": "finlex",
+      "title": "§ 23 mom 3",
+      "text": "3) määrätä maa- ja vesirakennustoimenpiteistä toisen alueella;",
+      "clause_number": 3,
+      "section_number": "23",
+      "statute_id": "468/2003"
+    },
+    {
+      "id": "15a4934b-94e0-4aba-b5a3-a3eb1cf1ca07",
+      "node_type": "Clause",
+      "publisher": "finlex",
+      "title": "§ 23 mom 4",
+      "text": "4) rajoittaa vesiliikennettä; sekä",
+      "clause_number": 4,
+      "section_number": "23",
+      "statute_id": "468/2003"
+    },
+    {
+      "id": "c9bdbc87-fe4e-4450-8701-a2dda1168be6",
+      "node_type": "Clause",
+      "publisher": "finlex",
+      "title": "§ 23 mom 5",
+      "text": "5) ryhtyä muihin öljyvahingon ja aluskemikaalivahingon torjumiseksi tarpeellisiin toimiin.",
+      "clause_number": 5,
+      "section_number": "23",
+      "statute_id": "468/2003"
+    },
+    {
+      "id": "a43e3546-0c15-4f0f-b503-aaced23d4e6c",
+      "node_type": "Clause",
+      "publisher": "finlex",
+      "title": "§ 30 mom 4",
+      "text": "1) 5 §:n 2―4 momentissa tarkoitettua torjuntatöiden johtajan asettamista;",
+      "clause_number": 4,
+      "section_number": "30",
+      "statute_id": "468/2003"
+    },
+    {
+      "id": "6d9e01f1-7d20-4ca4-9033-b6d94400c0ad",
+      "node_type": "Clause",
+      "publisher": "finlex",
+      "title": "§ 30 mom 1",
+      "text": "1) 5 §:n 2―4 momentissa tarkoitettua torjuntatöiden johtajan asettamista;",
+      "clause_number": 1,
+      "section_number": "30",
+      "statute_id": "468/2003"
+    },
+    {
+      "id": "806c6619-dcb1-4b5a-a0f9-1aaf69da2d1f",
+      "node_type": "Clause",
+      "publisher": "finlex",
+      "title": "§ 30 mom 2",
+      "text": "2) 20 §:ssä tarkoitettua kaluston ja henkilöstön ottamista torjuntaviranomaisen käyttöön;",
+      "clause_number": 2,
+      "section_number": "30",
+      "statute_id": "468/2003"
+    },
+    {
+      "id": "ab0253ea-02ef-4826-b386-d34706e6ad0a",
+      "node_type": "Clause",
+      "publisher": "finlex",
+      "title": "§ 30 mom 3",
+      "text": "3) 23 §:ssä tarkoitettuja vahingon torjumiseksi ja seurausten rajoittamiseksi tarpeellisia toimia;",
+      "clause_number": 3,
+      "section_number": "30",
+      "statute_id": "468/2003"
+    },
+    {
+      "id": "8b3a546f-e911-4da6-8e67-709829c59475",
+      "node_type": "Clause",
+      "publisher": "finlex",
+      "title": "§ 30 mom 4",
+      "text": "4) 24 §:ssä tarkoitettua johtovastuun siirtämistä ja torjuntatoimenpiteiden lopettamista;",
+      "clause_number": 4,
+      "section_number": "30",
+      "statute_id": "468/2003"
+    },
+    {
+      "id": "054e9ea4-1111-469e-9919-d7cfd3d222b1",
+      "node_type": "Clause",
+      "publisher": "finlex",
+      "title": "§ 30 mom 1",
+      "text": "5) 25 §:n 1 momentissa tarkoitettuja alusta ja sen lastia koskevia toimenpiteitä;",
+      "clause_number": 1,
+      "section_number": "30",
+      "statute_id": "468/2003"
+    },
+    {
+      "id": "38fbb6e4-edc2-4a35-ab67-c13103e5ff06",
+      "node_type": "Clause",
+      "publisher": "finlex",
+      "title": "§ 30 mom 5",
+      "text": "5) 25 §:n 1 momentissa tarkoitettuja alusta ja sen lastia koskevia toimenpiteitä;",
+      "clause_number": 5,
+      "section_number": "30",
+      "statute_id": "468/2003"
+    },
+    {
+      "id": "27fc354a-c6ba-41a4-9472-f09bb1448280",
+      "node_type": "Clause",
+      "publisher": "finlex",
+      "title": "§ 30 mom 6",
+      "text": "6) 26 §:n tarkoitettua kansainvälisen virka-avun antamista ja pyytämistä; tai",
+      "clause_number": 6,
+      "section_number": "30",
+      "statute_id": "468/2003"
+    },
+    {
+      "id": "a3c553fd-ec01-45b3-b52e-168fe90d4483",
+      "node_type": "Clause",
+      "publisher": "finlex",
+      "title": "§ 30 mom 7",
+      "text": "7) 40 §:ssä tarkoitettua torjuntakemikaalin käyttöä.",
+      "clause_number": 7,
+      "section_number": "30",
+      "statute_id": "468/2003"
+    },
+    {
+      "id": "407185a8-8896-4d28-b420-1dfce5bc054e",
+      "node_type": "Clause",
+      "publisher": "finlex",
+      "title": "§ 31 mom 1",
+      "text": "1) hätäkeskustietojärjestelmästä vahingon hätäilmoitusta ja vaaratilannetta koskevia tietoja;",
+      "clause_number": 1,
+      "section_number": "31",
+      "statute_id": "468/2003"
+    },
+    {
+      "id": "5150a438-f5c1-4a2b-af0c-8af991adca60",
+      "node_type": "Clause",
+      "publisher": "finlex",
+      "title": "§ 31 mom 2",
+      "text": "2) satamalaitoksen tietojärjestelmästä aluksia sekä alus- ja tavaraliikennettä koskevia tietoja;",
+      "clause_number": 2,
+      "section_number": "31",
+      "statute_id": "468/2003"
+    },
+    {
+      "id": "3462d84d-75b9-4c46-b05c-780725d60cb1",
+      "node_type": "Clause",
+      "publisher": "finlex",
+      "title": "§ 31 mom 3",
+      "text": "3) kalastusviranomaisilta kalastusalusta, aluksen omistajaa ja haltijaa sekä aluksen toimintaa koskevia tietoja;",
+      "clause_number": 3,
+      "section_number": "31",
+      "statute_id": "468/2003"
+    },
+    {
+      "id": "2d9bec30-3e41-462e-9e8c-7622087d553d",
+      "node_type": "Clause",
+      "publisher": "finlex",
+      "title": "§ 31 mom 4",
+      "text": "4) maistraatin ja Ahvenanmaan maakunnan rekisteriviranomaisen vesikulkuneuvorekisteristä venettä sekä veneen omistajaa ja haltijaa koskevia tietoja;",
+      "clause_number": 4,
+      "section_number": "31",
+      "statute_id": "468/2003"
+    },
+    {
+      "id": "49c66f19-59b4-4900-9437-cc8711fb5485",
+      "node_type": "Clause",
+      "publisher": "finlex",
+      "title": "§ 31 mom 5",
+      "text": "5) Liikenteen turvallisuusviraston ja Ahvenanmaan valtionviraston alusrekistereistä sekä muista Liikenteen turvallisuusviraston ylläpitämistä rekistereistä alusta sekä sen omistajaa ja haltijaa koskevia tietoja;",
+      "clause_number": 5,
+      "section_number": "31",
+      "statute_id": "468/2003"
+    },
+    {
+      "id": "a340f6b6-d7d4-4717-929d-7f2ac1de3028",
+      "node_type": "Clause",
+      "publisher": "finlex",
+      "title": "§ 31 mom 6",
+      "text": "6) Liikenneviraston alusliikennepalvelujärjestelmästä alusliikennettä ja VTS- ja AIS-tilannekuvaa koskevia tietoja sekä puolustusvoimilta merialueen valvontaa koskevia tietoja;",
+      "clause_number": 6,
+      "section_number": "31",
+      "statute_id": "468/2003"
+    },
+    {
+      "id": "ef8d3021-321a-4ceb-b02b-bd0b42b232fb",
+      "node_type": "Clause",
+      "publisher": "finlex",
+      "title": "§ 31 mom 7",
+      "text": "7) Tullilaitoksen tietojärjestelmästä alus- ja tavaraliikennettä koskevia tietoja;",
+      "clause_number": 7,
+      "section_number": "31",
+      "statute_id": "468/2003"
+    },
+    {
+      "id": "bbc43dd3-677e-48ea-bf8a-7c440f95ce64",
+      "node_type": "Clause",
+      "publisher": "finlex",
+      "title": "§ 31 mom 8",
+      "text": "8) Rajavartiolaitoksen meripelastusrekisteristä hätäilmoitusta ja vaaratilannetta koskevia tietoja; sekä",
+      "clause_number": 8,
+      "section_number": "31",
+      "statute_id": "468/2003"
+    },
+    {
+      "id": "b5fd994e-1fc0-45c3-bb67-e80e29baa5b5",
+      "node_type": "Clause",
+      "publisher": "finlex",
+      "title": "§ 31 mom 9",
+      "text": "9) Maanmittauslaitoksen kiinteistötietojärjestelmästä kiinteistön omistajaa ja haltijaa sekä kiinteistöjaotusta koskevia tietoja.",
+      "clause_number": 9,
+      "section_number": "31",
+      "statute_id": "468/2003"
+    },
+    {
+      "id": "14b785d9-cdae-4a6d-b470-a8f2296ee49d",
+      "node_type": "Clause",
+      "publisher": "finlex",
+      "title": "§ 31 mom 1",
+      "text": "1) hätäkeskustietojärjestelmästä hätäilmoitusta ja vaaratilannetta koskevia tietoja;",
+      "clause_number": 1,
+      "section_number": "31",
+      "statute_id": "468/2003"
+    },
+    {
+      "id": "c6b36305-9fe6-4a31-8f67-9570a127842e",
+      "node_type": "Clause",
+      "publisher": "finlex",
+      "title": "§ 31 mom 2",
+      "text": "2) Tullilaitoksen tietojärjestelmästä alus- ja tavaraliikennettä koskevia tietoja;",
+      "clause_number": 2,
+      "section_number": "31",
+      "statute_id": "468/2003"
+    },
+    {
+      "id": "97a7ed05-3874-42de-8e2c-175c87bde7a3",
+      "node_type": "Clause",
+      "publisher": "finlex",
+      "title": "§ 31 mom 3",
+      "text": "3) vaarallisten kemikaalien ja räjähteiden käsittelyn turvallisuudesta annetun lain 130 §:ssä tarkoitetusta Turvatekniikan keskuksen rekisteristä tietoja yrityksen toiminnan laadusta sekä vaarallisten kemikaalien ja räjähteiden määristä; sekä",
+      "clause_number": 3,
+      "section_number": "31",
+      "statute_id": "468/2003"
+    },
+    {
+      "id": "f2b8e2b1-df00-428c-b087-ddae149d7f4c",
+      "node_type": "Clause",
+      "publisher": "finlex",
+      "title": "§ 31 mom 4",
+      "text": "4) Maanmittauslaitoksen kiinteistötietojärjestelmästä kiinteistön omistajaa ja haltijaa sekä kiinteistöjaotusta koskevia tietoja.",
+      "clause_number": 4,
+      "section_number": "31",
+      "statute_id": "468/2003"
+    },
+    {
+      "id": "22ed2ac9-47dc-4b19-84db-6c09b2e26b82",
+      "node_type": "Clause",
+      "publisher": "finlex",
+      "title": "§ 32 mom 1",
+      "text": "1) öljyn ja muun haitallisen aineen varastoijalta ja jakelijalta yrityksessä käytetyistä tuotteista ja niiden varastoinnista;",
+      "clause_number": 1,
+      "section_number": "32",
+      "statute_id": "468/2003"
+    },
+    {
+      "id": "cf726a2e-9bce-46f1-b960-94d8a86dd122",
+      "node_type": "Clause",
+      "publisher": "finlex",
+      "title": "§ 32 mom 2",
+      "text": "2) varustamolta, veneilyalan järjestöltä sekä matka-, rahti-, satama-, telakka- ja pelastuspalveluja tarjoavalta yritykseltä aluksen miehistöstä, matkustajista ja lastista;",
+      "clause_number": 2,
+      "section_number": "32",
+      "statute_id": "468/2003"
+    },
+    {
+      "id": "ee774ba0-087d-4531-b219-2caae71fe444",
+      "node_type": "Clause",
+      "publisher": "finlex",
+      "title": "§ 32 mom 3",
+      "text": "3) teollisuus- ja liikeyritykseltä viestintä- ja kuljetusvälineistä, työkoneista ja -välineistä sekä lastaukseen, purkaukseen tai väliaikaiseen varastoimiseen tarvittavista tiloista ja paikoista; sekä",
+      "clause_number": 3,
+      "section_number": "32",
+      "statute_id": "468/2003"
+    },
+    {
+      "id": "51ff0d8e-38b2-4a34-b50a-f47e2ed7801e",
+      "node_type": "Clause",
+      "publisher": "finlex",
+      "title": "§ 32 mom 4",
+      "text": "4) muulta vastaavalta taholta, jolla on hallussaan öljy- ja aluskemikaalivahinkojen torjumiseksi, ehkäisemiseksi ja henkilövahinkojen välttämiseksi tarpeellisia tietoja.",
+      "clause_number": 4,
+      "section_number": "32",
+      "statute_id": "468/2003"
+    },
+    {
+      "id": "a0e1a102-88be-4adc-bde9-cb4578883a04",
+      "node_type": "Clause",
+      "publisher": "finlex",
+      "title": "§ 36 mom 1",
+      "text": "1) 20 §:n perusteella määrätty avustamaan torjuntatyössä; tai",
+      "clause_number": 1,
+      "section_number": "36",
+      "statute_id": "468/2003"
+    },
+    {
+      "id": "de8344e5-fec5-4daf-8d06-03be5ba5aa5c",
+      "node_type": "Clause",
+      "publisher": "finlex",
+      "title": "§ 36 mom 2",
+      "text": "2) torjuntaviranomaisen tehtävään hyväksymänä osallistunut vapaaehtoisena öljyvahingon torjuntaan.",
+      "clause_number": 2,
+      "section_number": "36",
+      "statute_id": "468/2003"
+    },
+    {
+      "id": "d149ea94-1905-4bd4-a93c-a0b512944871",
+      "node_type": "Clause",
+      "publisher": "finlex",
+      "title": "§ 37 mom 1",
+      "text": "1) 20 §:n perusteella määrätty avustamaan torjuntatoiminnassa; tai",
+      "clause_number": 1,
+      "section_number": "37",
+      "statute_id": "468/2003"
+    },
+    {
+      "id": "327c45e2-b183-41fe-bb09-c1f43989bd42",
+      "node_type": "Clause",
+      "publisher": "finlex",
+      "title": "§ 37 mom 2",
+      "text": "2) torjuntaviranomaisen tehtävään hyväksymänä osallistunut vapaaehtoisena öljy- tai aluskemikaalivahingon torjuntaan.",
+      "clause_number": 2,
+      "section_number": "37",
+      "statute_id": "468/2003"
+    },
+    {
+      "id": "8fa58795-d391-4c3a-ac71-ebb8a2a0850c",
+      "node_type": "Clause",
+      "publisher": "finlex",
+      "title": "§ 39 mom 1",
+      "text": "1) 12 §:ssä säädetyn suunnitelman laatimisvelvollisuuden,",
+      "clause_number": 1,
+      "section_number": "39",
+      "statute_id": "468/2003"
+    },
+    {
+      "id": "c8a5776c-6864-466f-9fb4-bd3938688c78",
+      "node_type": "Clause",
+      "publisher": "finlex",
+      "title": "§ 39 mom 2",
+      "text": "2) 14―16 §:ssä tarkoitetun suunnitelman laatimisen tai tarvikkeiden ja kaluston hankkimisen, tai",
+      "clause_number": 2,
+      "section_number": "39",
+      "statute_id": "468/2003"
+    },
+    {
+      "id": "db9703de-a8bb-4b9f-8092-a1564f415100",
+      "node_type": "Clause",
+      "publisher": "finlex",
+      "title": "§ 39 mom 2",
+      "text": "3) 17 §:n 2 momentissa säädetyn ilmoittamisvelvollisuuden",
+      "clause_number": 2,
+      "section_number": "39",
+      "statute_id": "468/2003"
+    },
+    {
+      "id": "c6f60420-1778-46e2-b37f-797930df0eae",
+      "node_type": "Clause",
+      "publisher": "finlex",
+      "title": "§ 39 mom 3",
+      "text": "3) 17 §:n 2 momentissa säädetyn ilmoittamisvelvollisuuden",
+      "clause_number": 3,
+      "section_number": "39",
+      "statute_id": "468/2003"
+    }
+  ],
+  "cross_references": [],
+  "raw_html_path": "C:\\Users\\danit\\finance-hack\\aalto-hackaton-2026\\data\\raw\\finlex\\Laki (säädöskokoelma)\\Öljyvahinkojen torjuntalaki.html"
+}

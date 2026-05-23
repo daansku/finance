@@ -1,0 +1,75 @@
+{
+  "statute": {
+    "id": "6fb09cfe-102a-4e06-807c-8b3bbc09cf82",
+    "node_type": "Statute",
+    "publisher": "finlex",
+    "title": "Laki poliisin säilyttämien henkilöiden kohtelusta annetun lain muuttamisesta",
+    "text": "Laki poliisin säilyttämien henkilöiden kohtelusta annetun lain muuttamisesta",
+    "statute_id": "841/2006",
+    "finlex_url": "https://finlex.fi/fi/laki/ajantasa/841/2006"
+  },
+  "chapters": [
+    {
+      "id": "0f41806a-4118-476f-aaf2-42ac88addd1a",
+      "node_type": "Chapter",
+      "publisher": "finlex",
+      "title": "Chapter 1",
+      "text": "1 luku Yleiset säännökset",
+      "chapter_number": 1,
+      "statute_id": "841/2006"
+    },
+    {
+      "id": "39412734-3681-4178-b3f8-d9335f0e1a6a",
+      "node_type": "Chapter",
+      "publisher": "finlex",
+      "title": "Chapter 2",
+      "text": "2 luku Säilytystilaan ottaminen",
+      "chapter_number": 2,
+      "statute_id": "841/2006"
+    },
+    {
+      "id": "449e72b1-2f5e-4f75-99e5-d774fa3ad2c5",
+      "node_type": "Chapter",
+      "publisher": "finlex",
+      "title": "Chapter 7",
+      "text": "7 luku Tapaamiset ja muut yhteydet säilytystilan ulkopuolelle",
+      "chapter_number": 7,
+      "statute_id": "841/2006"
+    }
+  ],
+  "sections": [
+    {
+      "id": "affb17ea-5918-4cff-91b5-04645f8a2f11",
+      "node_type": "Section",
+      "publisher": "finlex",
+      "title": "7 § Turvallisuusalan elinkeinoluvan haltijan palveluksessa olevan vartijan asema",
+      "text": "Tässä pykälässä tarkoitetulla vartijalla ei ole käyttöoikeutta sellaisiin poliisin henkilörekistereihin, joihin sovelletaan henkilötietojen käsittelystä poliisitoimessa annettua lakia (616/2019), eikä muihinkaan viranomaistarkoituksia varten perustettuihin rekistereihin tai tietojärjestelmiin.",
+      "section_number": "7",
+      "chapter_number": 1,
+      "statute_id": "841/2006"
+    },
+    {
+      "id": "ce79ccb5-55a0-4fb0-bfe3-9f0773249814",
+      "node_type": "Section",
+      "publisher": "finlex",
+      "title": "4 § Tulotarkastus ja tietojen rekisteröinti",
+      "text": "Säilytystilaan otettuja vapautensa menettäneitä koskevien tietojen rekisteröinnistä säädetään henkilötietojen käsittelystä poliisitoimessa annetussa laissa.",
+      "section_number": "4",
+      "chapter_number": 2,
+      "statute_id": "841/2006"
+    },
+    {
+      "id": "ae2d7881-8034-48e6-ab52-d3e8ed3933b5",
+      "node_type": "Section",
+      "publisher": "finlex",
+      "title": "5 § Tapaamiskielto",
+      "text": "Tapaamiskieltoja koskevien tietojen käsittelystä poliisin henkilörekistereissä säädetään henkilötietojen käsittelystä poliisitoimessa annetussa laissa. Tämä laki tulee voimaan 1 päivänä kesäkuuta 2019.",
+      "section_number": "5",
+      "chapter_number": 7,
+      "statute_id": "841/2006"
+    }
+  ],
+  "clauses": [],
+  "cross_references": [],
+  "raw_html_path": "C:\\Users\\danit\\finance-hack\\aalto-hackaton-2026\\data\\raw\\finlex\\Laki\\Laki poliisin säilyttämien henkilöiden kohtelusta annetun lain muuttamisesta_1.html"
+}

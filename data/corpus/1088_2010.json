@@ -1,0 +1,76 @@
+{
+  "statute": {
+    "id": "61b83b02-6e30-4c2f-8470-8ae8a4d28532",
+    "node_type": "Statute",
+    "publisher": "finlex",
+    "title": "Sosiaali- ja terveysministeriön asetus lääkkeen määräämisestä annetun sosiaali- ja terveysministeriön asetuksen muuttamisesta",
+    "text": "Sosiaali- ja terveysministeriön asetus lääkkeen määräämisestä annetun sosiaali- ja terveysministeriön asetuksen muuttamisesta",
+    "statute_id": "1088/2010",
+    "finlex_url": "https://finlex.fi/fi/laki/ajantasa/1088/2010"
+  },
+  "chapters": [
+    {
+      "id": "fba0ef20-a4d2-4b38-8485-c86858277568",
+      "node_type": "Chapter",
+      "publisher": "finlex",
+      "title": "Chapter 3",
+      "text": "3 luku Lääkemääräys",
+      "chapter_number": 3,
+      "statute_id": "1088/2010"
+    },
+    {
+      "id": "b87ab881-99cd-42a8-8962-f7b1e54eb78e",
+      "node_type": "Chapter",
+      "publisher": "finlex",
+      "title": "Chapter 4",
+      "text": "4 luku Erinäiset säännökset",
+      "chapter_number": 4,
+      "statute_id": "1088/2010"
+    }
+  ],
+  "sections": [
+    {
+      "id": "091aaba2-90ab-4f95-bd04-b13677414210",
+      "node_type": "Section",
+      "publisher": "finlex",
+      "title": "17 § Lääkevaihto",
+      "text": "Kiellon syy merkitään lääkemääräykseen. Lääkkeenmääräämisohjelmisto ei saa automaattisesti lisätä eikä ehdottaa kieltoa tai sen syytä lääkemääräyksiin. Kirjallista lääkemääräystä laadittaessa kieltoa tai sen syytä ei saa käyttää leimoissa.",
+      "section_number": "17",
+      "chapter_number": 3,
+      "statute_id": "1088/2010"
+    },
+    {
+      "id": "eb9aa886-06c7-4996-b9bc-49c4627af008",
+      "node_type": "Section",
+      "publisher": "finlex",
+      "title": "18 § Lääkemääräyksen iterointi",
+      "text": "Lääkkeen määrääjä voi rajoittaa lääkkeen saannin tapahtuvaksi määräajoin iteroinnilla eli määräämällä lääkemääräyksen toimitettavaksi uudelleen. Iterointia varten lääkemääräykseen tulee merkitä uudelleen tapahtuvien toimituskertojen määrä numeroin. Lääkemääräys voidaan määrätä toimitettavaksi uudelleen korkeintaan kolme kertaa.",
+      "section_number": "18",
+      "chapter_number": 3,
+      "statute_id": "1088/2010"
+    },
+    {
+      "id": "07f5a924-74a1-45f1-b439-c584a085c308",
+      "node_type": "Section",
+      "publisher": "finlex",
+      "title": "19 § Lääkemääräyksen uudistaminen",
+      "text": "Kirjallisen lääkemääräyksen, joka sähköisestä lääkemääräyksestä annetun lain 12 §:n 4 momentin mukaisesti on tallennettu reseptikeskukseen, voi uudistaa. Pro auctore -lääkemääräystä ja eurooppalaista lääkemääräystä ei voi uudistaa. Sellaisella palvelunantajan nimeämällä sairaanhoitajalla, farmaseutilla ja proviisorilla, jolla on riittävä koulutus ja käytännön kokemus, on sähköisestä lääkemääräyksestä annetun lain 5 c §:n mukainen oikeus kirjata lääkemääräysten annostusmuutoksia. Annostusmuutosten kirjaamisoikeuden edellytyksenä on kirjallinen määräys, jossa määrätään ne lääkkeet tai lääkeryhmät, joiden lääkemääräysten annostusmuutoksia sairaanhoitaja, farmaseutti ja proviisori saavat kirjata. Kirjallisessa määräyksessä on oltava myös mahdolliset sairaanhoitajan, farmaseutin ja proviisorin kirjaamisoikeuden rajoitukset. Annostusmuutosten kirjaamisoikeus ei koske pkv-lääkkeen lääkemääräyksiä, huumausainelääkkeen lääkemääräyksiä eikä potilaskohtaisten erityisluvallisten lääkkeiden lääkemääräyksiä. Kirjallisen määräyksen annostusmuutosten kirjaamisoikeudesta saa antaa vastaava lääkäri siinä terveydenhuollon toimintayksikössä, johon sairaanhoitaja, farmaseutti tai proviisori on palvelussuhteessa. Mitä tässä pykälässä säädetään, sovelletaan myös palvelunantajan sopimuksen perusteella tai sen lukuun muulla tavalla hankittavissa terveydenhuollon palveluissa. Kirjallisen määräyksen tällöin saa antaa vastaava lääkäri siinä terveydenhuollon yksikössä, jossa sairaanhoitaja, farmaseutti tai proviisori työskentelee.",
+      "section_number": "19",
+      "chapter_number": 3,
+      "statute_id": "1088/2010"
+    },
+    {
+      "id": "faafc7f2-135c-453d-b96b-d07367689431",
+      "node_type": "Section",
+      "publisher": "finlex",
+      "title": "24 § Erillinen kirjanpito",
+      "text": "Vastaavan lääkärin tai hammaslääkärin on kirjallisesti tai sähköisesti annettava ja allekirjoitettava määräys lääkkeen toimittamisesta sairaalan, terveyskeskuksen, yksityisen terveydenhuollon palvelujen tuottajan toimintayksikön tai sosiaalihuollon toimintayksikön käyttöön (lääketilaus). Vastaavalla lääkärillä ja hammaslääkärillä tulee olla oikeus harjoittaa ammattiaan itsenäisesti laillistettuna ammattihenkilönä. Lääketilauksena pidetään myös sairaala-apteekin tai lääkekeskuksen hoitajan allekirjoittamaa tilausta kyseessä olevan laitoksen tai lääkelain 62 §:ssä  tarkoitettuun käyttöön sekä aluksen varustamon edustajan tai aluksen päällikön allekirjoittamaa tilausta laiva-apteekille. Tämä asetus tulee voimaan 19 päivänä marraskuuta 2024. Asetuksen 17 §:n 4 momentti sekä 19 §:n 1 ja 3 momentin kumoaminen tulevat kuitenkin voimaan vasta 1 päivänä lokakuuta 2027.",
+      "section_number": "24",
+      "chapter_number": 4,
+      "statute_id": "1088/2010"
+    }
+  ],
+  "clauses": [],
+  "cross_references": [],
+  "raw_html_path": "C:\\Users\\danit\\finance-hack\\aalto-hackaton-2026\\data\\raw\\finlex\\Asetus\\Sosiaali- ja terveysministeriön asetus lääkkeen määräämisestä annetun sosiaali- ja terveysministeriön asetuksen muuttamisesta_5.html"
+}

@@ -1,0 +1,88 @@
+{
+  "statute": {
+    "id": "93ec2f5b-a252-442d-96ea-59f30a75adbe",
+    "node_type": "Statute",
+    "publisher": "finlex",
+    "title": "Valtioneuvoston asetus rakennusurakkasopimuksissa käytettävistä indeksiehdoista annetun valtioneuvoston asetuksen muuttamisesta",
+    "text": "Valtioneuvoston asetus rakennusurakkasopimuksissa käytettävistä indeksiehdoista annetun valtioneuvoston asetuksen muuttamisesta",
+    "statute_id": "1288/2000",
+    "finlex_url": "https://finlex.fi/fi/laki/ajantasa/1288/2000"
+  },
+  "chapters": [],
+  "sections": [
+    {
+      "id": "86ea637e-02cc-4f3f-b768-b4fa692aa9a4",
+      "node_type": "Section",
+      "publisher": "finlex",
+      "title": "2 §",
+      "text": "Rakennusurakkasopimuksella tarkoitetaan tässä asetuksessa talonrakennustyötä koskevaa kokonaisurakkasopimusta tai erikseen tehtyä rakennusteknistä, putki-, ilmastointi-, sähkö- tai maalaustyötä koskevaa urakkasopimusta. Rakennusurakkasopimuksella tarkoitetaan myös maa- ja vesirakennustyötä koskevaa urakkasopimusta tai erikseen tehtyä maanalaisten kalliotilojen rakennustyötä sekä sillanrakennustyötä koskevaa urakkasopimusta. Urakka-ajalla tarkoitetaan tässä asetuksessa urakkasopimuksessa mainittua rakennussuoritukselle varattua aikaa.",
+      "section_number": "2",
+      "chapter_number": 1,
+      "statute_id": "1288/2000"
+    },
+    {
+      "id": "f1160b3c-26a8-4c46-972f-c171e47e95f9",
+      "node_type": "Section",
+      "publisher": "finlex",
+      "title": "3 §",
+      "text": "Indeksiehtoa voidaan käyttää maa- ja vesirakennustyötä koskevassa urakkasopimuksessa siten,",
+      "section_number": "3",
+      "chapter_number": 1,
+      "statute_id": "1288/2000"
+    },
+    {
+      "id": "4deb48c5-d9fe-427c-9706-58ec1a50ec61",
+      "node_type": "Section",
+      "publisher": "finlex",
+      "title": "5 §",
+      "text": "Perusindeksinä, johon vastaisuudessa tapahtuvaa indeksin muutosta verrataan, käytetään tämän asetuksen mukaista indeksisidonnaisuutta sovellettaessa aikaisintaan sen kuukauden tai, milloin indeksitiedot julkaistaan neljännesvuosittain, sen neljännesvuoden indeksilukua, joka on ollut julkaistuna urakkatarjousta jätettäessä. Tarkistusindeksinä käytetään työn tai työvaiheen valmistumiskuukauden tai -neljännesvuoden indeksilukua.",
+      "section_number": "5",
+      "chapter_number": 1,
+      "statute_id": "1288/2000"
+    },
+    {
+      "id": "42d37a46-fb3d-42f4-bee6-a844fbef11c8",
+      "node_type": "Section",
+      "publisher": "finlex",
+      "title": "6 §",
+      "text": "Tämä asetus tulee voimaan 1 päivänä tammikuuta 2001 ja on voimassa vuoden 2012 loppuun. Tämä asetus tulee voimaan 1 päivänä tammikuuta 2010.",
+      "section_number": "6",
+      "chapter_number": 1,
+      "statute_id": "1288/2000"
+    }
+  ],
+  "clauses": [
+    {
+      "id": "932e3070-3f56-4a21-8355-89e13e6e3807",
+      "node_type": "Clause",
+      "publisher": "finlex",
+      "title": "§ 3 mom 1",
+      "text": "1) että maa- ja vesirakennustyötä vastaava arvonlisäveroton urakkahinta, josta vähennetään palkkakustannusten osuutena 25 prosenttia, saadaan sitoa Tilastokeskuksen kuukausittain julkaisemaan maarakennuskustannusindeksin (2005=100) osaindeksiin M;",
+      "clause_number": 1,
+      "section_number": "3",
+      "statute_id": "1288/2000"
+    },
+    {
+      "id": "433b59bf-f8bf-4b99-8745-bc5b59cb7ef8",
+      "node_type": "Clause",
+      "publisher": "finlex",
+      "title": "§ 3 mom 2",
+      "text": "2) että maanalaisten kalliotilojen rakennustyötä vastaava arvonlisäveroton urakkahinta, josta vähennetään palkkakustannusten osuutena 30 prosenttia, saadaan sitoa 1 kohdassa mainitun indeksin osaindeksiin K; ja",
+      "clause_number": 2,
+      "section_number": "3",
+      "statute_id": "1288/2000"
+    },
+    {
+      "id": "e40947af-86ce-41f5-949c-2a30026b89ff",
+      "node_type": "Clause",
+      "publisher": "finlex",
+      "title": "§ 3 mom 3",
+      "text": "3) että betonirakenteiden rakennustyötä vastaava arvonlisäveroton urakkahinta, josta vähennetään palkkakustannusten osuutena 30 prosenttia, saadaan sitoa 1 kohdassa mainitun indeksin osaindeksiin S.",
+      "clause_number": 3,
+      "section_number": "3",
+      "statute_id": "1288/2000"
+    }
+  ],
+  "cross_references": [],
+  "raw_html_path": "C:\\Users\\danit\\finance-hack\\aalto-hackaton-2026\\data\\raw\\finlex\\Asetus\\Valtioneuvoston asetus rakennusurakkasopimuksissa käytettävistä indeksiehdoista annetun valtioneuvoston asetuksen muuttamisesta.html"
+}

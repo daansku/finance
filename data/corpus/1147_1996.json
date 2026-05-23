@@ -1,0 +1,942 @@
+{
+  "statute": {
+    "id": "6cb7ac87-b685-4c42-b743-830cf28a63a8",
+    "node_type": "Statute",
+    "publisher": "finlex",
+    "title": "Valtionavustuslaki",
+    "text": "Valtionavustuslaki",
+    "statute_id": "1147/1996",
+    "finlex_url": "https://finlex.fi/fi/laki/ajantasa/1147/1996"
+  },
+  "chapters": [
+    {
+      "id": "a81b1d40-f29d-4f1a-ad07-92b35387c00e",
+      "node_type": "Chapter",
+      "publisher": "finlex",
+      "title": "Chapter 1",
+      "text": "1 luku Yleiset säännökset",
+      "chapter_number": 1,
+      "statute_id": "1147/1996"
+    },
+    {
+      "id": "97dd9274-6f60-472b-a930-faf3f8db23e4",
+      "node_type": "Chapter",
+      "publisher": "finlex",
+      "title": "Chapter 2",
+      "text": "2 luku Valtionavustuksen myöntämisen perusteet",
+      "chapter_number": 2,
+      "statute_id": "1147/1996"
+    },
+    {
+      "id": "53186073-88c4-4c3d-9df3-1f0daa9d370d",
+      "node_type": "Chapter",
+      "publisher": "finlex",
+      "title": "Chapter 3",
+      "text": "3 luku Valtionavustuksen myöntäminen ja maksaminen",
+      "chapter_number": 3,
+      "statute_id": "1147/1996"
+    },
+    {
+      "id": "ec0896f6-e76c-457e-953c-df6c9d978b1e",
+      "node_type": "Chapter",
+      "publisher": "finlex",
+      "title": "Chapter 4",
+      "text": "4 luku Valtionavustuksen käyttö ja sen valvonta",
+      "chapter_number": 4,
+      "statute_id": "1147/1996"
+    },
+    {
+      "id": "ed06d285-0751-4a01-9163-401af527c084",
+      "node_type": "Chapter",
+      "publisher": "finlex",
+      "title": "Chapter 5",
+      "text": "5 luku Valtionavustuksen palauttaminen ja takaisinperintä",
+      "chapter_number": 5,
+      "statute_id": "1147/1996"
+    },
+    {
+      "id": "b6a12339-347f-4ac8-82c7-224b51456b22",
+      "node_type": "Chapter",
+      "publisher": "finlex",
+      "title": "Chapter 6",
+      "text": "6 luku Tietojensaanti ja tietojen luovuttaminen",
+      "chapter_number": 6,
+      "statute_id": "1147/1996"
+    },
+    {
+      "id": "fbfbbfa3-7d14-49d4-b01e-f66c703ec696",
+      "node_type": "Chapter",
+      "publisher": "finlex",
+      "title": "Chapter 7",
+      "text": "7 luku Erinäiset säännökset",
+      "chapter_number": 7,
+      "statute_id": "1147/1996"
+    }
+  ],
+  "sections": [
+    {
+      "id": "564a73cb-7fc9-41f9-89c1-b4eb0a16c238",
+      "node_type": "Section",
+      "publisher": "finlex",
+      "title": "1 § Soveltamisala",
+      "text": "Tässä laissa säädetään niistä perusteista ja menettelyistä, joita noudatetaan myönnettäessä valtionavustuksia. Valtionavustuksella tarkoitetaan tässä laissa tuenluonteista rahoitusta tietyn toiminnan tai hankkeen avustamiseksi. Tätä lakia sovelletaan valtion talousarvioon otetusta määrärahasta tai talousarvion ulkopuolella olevan valtion rahaston varoista myönnettävään valtionavustukseen. Tätä lakia sovelletaan myös, kun valtion talousarviossa myönnetään valtuus tehdä sopimuksia tai antaa sitoumuksia valtionavustuksesta. Jollei muussa laissa toisin säädetä, tätä lakia sovelletaan myös valtionavustukseen, joka myönnetään käytettäväksi Suomen ulkopuolella. Jos kuitenkin 2 momentissa tarkoitetun valtionavustuksen saajana on vieras valtio tai sen toimielin taikka valtioiden välinen kansainvälinen järjestö, valtionavustukseen sovelletaan ainoastaan 5―8 §:ää sekä 11 §:n 5 momenttia. Tätä lakia ei sovelleta Suomea sitovan kansainvälisen velvoitteen perusteella myönnettävään rahoitukseen.",
+      "section_number": "1",
+      "chapter_number": 1,
+      "statute_id": "1147/1996"
+    },
+    {
+      "id": "81b34351-2c1b-4e84-be1e-306adc962f50",
+      "node_type": "Section",
+      "publisher": "finlex",
+      "title": "2 § Soveltaminen Euroopan yhteisön tai muista Euroopan unionin varoista myönnettäviin tukiin",
+      "text": "Jollei muusta laista tai Euroopan yhteisön lainsäädännöstä muuta johdu, mitä 8― 37 §:ssä säädetään koskee soveltuvin osin Euroopan yhteisön tai muista Euroopan unionin varoista myönnettävää tukea. Tässä laissa tarkoitetaan Euroopan yhteisön tai muista Euroopan unionin varoista myönnettävällä tuella Euroopan yhteisöjen talousarvioista tai muista Euroopan unionin hallinnassa olevista varoista myönnettävää avustusta, lainaa ja muuta rahoitusta, takausta, maksuhelpotusta ja muita taloudellisia etuuksia.",
+      "section_number": "2",
+      "chapter_number": 1,
+      "statute_id": "1147/1996"
+    },
+    {
+      "id": "caaade1d-49f3-42d9-9a61-0da9b88e7b28",
+      "node_type": "Section",
+      "publisher": "finlex",
+      "title": "3 § Suhde muuhun lainsäädäntöön",
+      "text": "Jos muussa laissa on tästä laista poikkeavia säännöksiä, niitä noudatetaan tämän lain sijasta. Tätä lakia ei sovelleta kuntien valtionosuuslaissa (1147/1996), opetus- ja kulttuuritoimen rahoituksesta annetussa laissa (635/1998), vapaasta sivistystyöstä annetussa laissa (632/1998), sosiaali- ja terveydenhuollon suunnittelusta ja valtionosuudesta annetussa laissa (733/1992) eikä kunnille palo- ja pelastustoimen kustannuksiin suoritettavista valtionosuuksista ja -avustuksista annetussa laissa (560/1975) säädettyyn valtionosuuteen tai -avustukseen. Tätä lakia ei sovelleta myöskään raha-automaattien, kasinopelien eikä pelikasino- tai totopelitoiminnan tuotoista myönnettäviin avustuksiin. Ellei muussa laissa toisin säädetä, tässä laissa tarkoitettuna valtionavustuksena ei pidetä:",
+      "section_number": "3",
+      "chapter_number": 1,
+      "statute_id": "1147/1996"
+    },
+    {
+      "id": "a2da6d5d-31ac-4629-aae2-fa2f55568aee",
+      "node_type": "Section",
+      "publisher": "finlex",
+      "title": "4 § Määritelmät",
+      "text": "Tässä laissa tarkoitetaan:",
+      "section_number": "4",
+      "chapter_number": 1,
+      "statute_id": "1147/1996"
+    },
+    {
+      "id": "088eeed8-4bd3-49b6-875f-45d555482fe1",
+      "node_type": "Section",
+      "publisher": "finlex",
+      "title": "5 § Valtionavustuslajit",
+      "text": "Valtionavustus voidaan myöntää yleisavustuksena tai erityisavustuksena. Yleisavustus voidaan myöntää valtionavustuksen saajan toimintaan yleisesti tai tiettyyn osaan sen toiminnasta. Erityisavustus voidaan myöntää:",
+      "section_number": "5",
+      "chapter_number": 2,
+      "statute_id": "1147/1996"
+    },
+    {
+      "id": "ea2be250-faff-47e9-988b-d7e2314ea5b9",
+      "node_type": "Section",
+      "publisher": "finlex",
+      "title": "6 § Valtionavustuksen määrä",
+      "text": "Muu kuin 5 §:n 3 momentin 3 kohdassa tarkoitettu valtion talousarviosta tai talousarvion ulkopuolella olevasta valtion rahastosta myönnettävä valtionavustus ei saa kattaa valtionavustuksen kohteena olevasta toiminnasta tai hankkeesta aiheutuvien kokonaiskustannusten täyttä määrää, jollei valtionavustuksen myöntämisen tavoitteiden saavuttamiseksi välttämättömistä ja perustelluista syistä muuta johdu. Sen estämättä, mitä 1 momentissa säädetään, toiminnan tai hankkeen toteutuneet kustannukset voivat jäädä pienemmiksi kuin valtionapuviranomaisen vahvistaman laskennallisen perusteen mukaan myönnetty valtionavustus. Valtionavustus ei saa yhdessä muiden julkisten tukien kanssa ylittää Euroopan yhteisön tai Suomen lainsäädännössä säädettyä valtionavustuksen tai muun julkisen tuen enimmäismäärää.",
+      "section_number": "6",
+      "chapter_number": 2,
+      "statute_id": "1147/1996"
+    },
+    {
+      "id": "313ea311-087d-4d68-9582-a4cc9d906b72",
+      "node_type": "Section",
+      "publisher": "finlex",
+      "title": "7 § Valtionavustuksen myöntämisen yleiset edellytykset",
+      "text": "Valtionavustusta voidaan myöntää valtion talousarvion tai talousarvion ulkopuolella olevan valtion rahaston varojen puitteissa, jos: Valtionavustus voidaan myöntää saajalle sen omaan toimintaan tai hankkeeseen taikka käytettäväksi valtionavustuspäätöksen mukaista käyttötarkoitusta toteuttavan muun kuin saajan toiminnan tai hankkeen avustamiseen. Jos valtionavustus myönnetään käytettäväksi valtionavustuspäätöksen mukaista käyttötarkoitusta toteuttavan muun kuin saajan toiminnan tai hankkeen avustamiseen, valtionavustuksen saajan on tehtävä sopimus valtionavustuksen käytöstä, käytön valvonnasta ja niiden ehdoista toimintaa tai hanketta toteuttavan kanssa.",
+      "section_number": "7",
+      "chapter_number": 2,
+      "statute_id": "1147/1996"
+    },
+    {
+      "id": "b11a7555-0dfb-402f-8e62-2b299312d10b",
+      "node_type": "Section",
+      "publisher": "finlex",
+      "title": "8 § Tarkemmat säännökset valtionavustuksesta",
+      "text": "Tarkempia säännöksiä tämän lain soveltamisalaan kuuluvan valtionavustuksen talousarvion mukaisesta myöntämisestä, maksamisesta ja käytöstä voidaan antaa valtioneuvoston asetuksella.",
+      "section_number": "8",
+      "chapter_number": 2,
+      "statute_id": "1147/1996"
+    },
+    {
+      "id": "6dd733bb-cc0f-439f-ad7a-9d8a3186e053",
+      "node_type": "Section",
+      "publisher": "finlex",
+      "title": "9 § Valtionavustuksen hakeminen",
+      "text": "Valtionavustusta haetaan kirjallisesti. Valtionapuviranomaisen tulee tiedottaa sopivalla tavalla mahdollisuudesta hakea valtionavustusta ja hakemismenettelystä sekä antaa tietoja valtionavustuksen myöntämisen yleisistä edellytyksistä ja valtionavustuksen ehdoista, jollei tämä ole ilmeisen tarpeetonta.",
+      "section_number": "9",
+      "chapter_number": 3,
+      "statute_id": "1147/1996"
+    },
+    {
+      "id": "6e6522c0-21bc-4e55-b2cb-9593fdfe0749",
+      "node_type": "Section",
+      "publisher": "finlex",
+      "title": "10 § Valtionavustuksen hakijan selvittämis- velvollisuus",
+      "text": "Valtionavustuksen hakijan tulee hakemuksen yhteydessä antaa valtionapuviranomaiselle oikeat ja riittävät tiedot valtionavustuksen käyttötarkoituksesta sekä niistä muista seikoista, joita valtionapuviranomainen tarvitsee hakemuksen ratkaisemiseksi.",
+      "section_number": "10",
+      "chapter_number": 3,
+      "statute_id": "1147/1996"
+    },
+    {
+      "id": "39a15991-37e6-4a3e-8bc6-cd7441455f96",
+      "node_type": "Section",
+      "publisher": "finlex",
+      "title": "11 § Valtionavustuspäätös",
+      "text": "Valtionapuviranomainen tekee valtionavustusta koskevassa asiassa kirjallisen päätöksen (valtionavustuspäätös). Valtionavustuspäätöksestä, jolla valtionavustus myönnetään, tulee käydä ilmi ainakin valtionavustuksen: Valtionavustuspäätökseen voidaan ottaa 7 §:n 1 momentissa säädettyjen seikkojen toteutumisen varmistamiseksi välttämättömiä valtionavustuksen käyttämistä koskevia ehtoja ja rajoituksia. Valtionavustuspäätöksestä, jolla valtionavustus myönnetään, tulee lisäksi käydä ilmi valtionavustuksen asianmukaisen käyttämisen sekä valtionavustuksen saajan oikeuksien ja velvollisuuksien selkeyden edellyttämällä tavalla: Jos valtionavustus myönnetään ulkomaiselle valtionavustuksen saajalle käytettäväksi Suomen ulkopuolella, valtionapuviranomainen voi lisäksi tehdä valtionavustuksen käytöstä ja sen ehdoista sopimuksen valtionavustuksen saajan kanssa. Sopimukseen on otettava valtionavustuksen valtion talousarvion mukaisen käyttämisen sekä käytön valvonnan kannalta tarpeelliset ehdot.",
+      "section_number": "11",
+      "chapter_number": 3,
+      "statute_id": "1147/1996"
+    },
+    {
+      "id": "d81a2a36-350f-475f-8d70-733afa2a1194",
+      "node_type": "Section",
+      "publisher": "finlex",
+      "title": "12 § Valtionavustuksen maksaminen",
+      "text": "Valtionavustus maksetaan valtionavustuksen saajalle yhtenä tai useampana eränä kustannusten ajoittumisen perusteella. Valtionapuviranomainen voi päättää, että valtionavustus maksetaan toteutuneiden kustannusten perusteella sen jälkeen, kun avustuksen käytöstä on esitetty valtionapuviranomaiselle hyväksyttävä selvitys. Valtionavustuksesta voidaan maksaa ennakkoa, jos se on valtionavustuksen käytön kannalta perusteltua sekä sen käytön valvonnan kannalta tarkoituksenmukaista. Määrältään vähäinen ja 5 §:n 3 momentin 3 kohdassa tarkoitettu valtionavustus voidaan 1 momentin estämättä maksaa myös kertasuorituksena, jos se on valtionavustuksen käytön kannalta perusteltua. Valtionavustuksen saajan tulee antaa valtionapuviranomaiselle valtionavustuksen maksamiseksi oikeat ja riittävät tiedot.",
+      "section_number": "12",
+      "chapter_number": 3,
+      "statute_id": "1147/1996"
+    },
+    {
+      "id": "1163cfa3-089a-41ac-afc1-df1ec892941e",
+      "node_type": "Section",
+      "publisher": "finlex",
+      "title": "13 § Valtionavustuksen käyttö",
+      "text": "Valtionavustus saadaan käyttää ainoastaan valtionavustuspäätöksen mukaiseen tarkoitukseen. Sen lisäksi, mitä tässä laissa tai 8 §:n nojalla annetussa valtioneuvoston asetuksessa säädetään, valtionavustuksen saajan on noudatettava avustettavassa hankkeessa tai toiminnassa valtionavustuspäätökseen otettuja ehtoja ja rajoituksia. Jos valtionavustus on myönnetty tiettyä valtionavustuspäätöksessä määriteltyä käyttötarkoitusta varten käytettävän omaisuuden hankintaan tai perusparannukseen, omaisuutta ei saa käyttää pysyvästi muuhun kuin valtionavustuspäätöksessä määriteltyyn käyttötarkoitukseen eikä omaisuuden omistus- tai hallintaoikeutta luovuttaa toiselle valtionavustuspäätöksessä määrättynä valtionavustuksen kohteena olevan omaisuuden käyttöaikana. Valtionavustuspäätöksessä valtionavustuksen kohteena olevan omaisuuden käyttöajaksi saadaan määrätä enintään kymmenen vuotta valtionavustuksen tai sen viimeisen erän maksamisesta. Edellä 3 momentissa tarkoitettu valtionavustuksen kohteena olevan omaisuuden käyttöaika on kuitenkin 30 vuotta valtionavustuksen myöntämisestä, jos valtionavustus on myönnetty muussa kuin elinkeinotoiminnan tukemisen tarkoituksessa kiinteän omaisuuden, rakennuksen tai rakennuksessa olevan huoneiston hankintaan tai perusparannukseen. Tämän lain 8 §:n nojalla annetussa valtioneuvoston asetuksessa tai valtionavustuspäätöksessä voidaan kuitenkin asettaa lyhyempikin käyttöaika, jos se on perusteltua valtionavustuksen käyttötarkoituksen kannalta.",
+      "section_number": "13",
+      "chapter_number": 4,
+      "statute_id": "1147/1996"
+    },
+    {
+      "id": "181416ad-99a7-4c18-8483-4446f6370a9a",
+      "node_type": "Section",
+      "publisher": "finlex",
+      "title": "14 § Valtionavustuksen saajan tiedonanto- velvollisuus",
+      "text": "Valtionavustuksen saajan tulee antaa valtionapuviranomaiselle valtionavustuspäätöksen ehtojen noudattamisen valvomiseksi oikeat ja riittävät tiedot. Valtionavustuksen saajan tulee ilmoittaa viipymättä valtionapuviranomaiselle valtionavustuksen käyttötarkoituksen toteutumiseen vaikuttavasta muutoksesta tai muusta valtionavustuksen käyttöön vaikuttavasta muutoksesta.",
+      "section_number": "14",
+      "chapter_number": 4,
+      "statute_id": "1147/1996"
+    },
+    {
+      "id": "bf140691-3040-47a0-84e9-408e3038e056",
+      "node_type": "Section",
+      "publisher": "finlex",
+      "title": "15 § Valtionapuviranomaisen valvontatehtävä",
+      "text": "Valtionapuviranomaisen on huolehdittava valtionavustuksen asianmukaisesta ja riittävästä valvonnasta hankkimalla valtionavustuksen käyttö- ja seurantatietoja sekä muita tietoja samoin kuin tekemällä tarvittaessa tarkastuksia.",
+      "section_number": "15",
+      "chapter_number": 4,
+      "statute_id": "1147/1996"
+    },
+    {
+      "id": "00f29a6b-51ad-4835-9344-a96ca2720ddf",
+      "node_type": "Section",
+      "publisher": "finlex",
+      "title": "16 § Tarkastusoikeus",
+      "text": "Valtionapuviranomaisella on oikeus suorittaa valtionavustuksen maksamisessa ja käytön valvonnassa tarpeellisia valtionavustuksen saajan talouteen ja toimintaan kohdistuvia tarkastuksia. Jos valtionavustus on myönnetty 7 §:n 2 momentissa säädetyllä tavalla käytettäväksi valtionavustuspäätöksen mukaista käyttötarkoitusta toteuttavan muun kuin saajan hankkeeseen tai toimintaan, valtionapuviranomaisella on oikeus tarvittaessa tarkastaa valtionavustuspäätöksen mukaista toimintaa tai hanketta toteuttavan taloutta ja toimintaa. Valtionapuviranomainen voi päätöksellään valtuuttaa toisen viranomaisen tai ulkopuolisen tilintarkastajan suorittamaan 1 momentissa tarkoitettuja tarkastuksia. Tilintarkastajan tulee olla tilintarkastuslaissa (936/1994) tai julkishallinnon ja -talouden tilintarkastajista annetussa laissa (467/1999) tarkoitettu hyväksytty tilintarkastaja tai tilintarkastusyhteisö. Tilintarkastusyhteisön on nimettävä tarkastuksesta vastuullinen tilintarkastaja. Ulkopuolinen asiantuntija voi valtionapuviranomaisen pyynnöstä avustaa tarkastuksessa. Tilintarkastajaan ja ulkopuoliseen asiantuntijaan sovelletaan hallintomenettelylakia (598/1982), kielilakia (148/1922), viranomaisten toiminnan julkisuudesta annettua lakia (621/1999) sekä valtion virkamieslain (750/1994) 14 ja 15 §:ää. Tilintarkastajaan ja ulkopuoliseen asiantuntijaan sovelletaan rikosoikeudellista virkavastuuta koskevia säännöksiä.",
+      "section_number": "16",
+      "chapter_number": 4,
+      "statute_id": "1147/1996"
+    },
+    {
+      "id": "d03c5e12-ec93-4a2a-bd2c-c80d26df84e5",
+      "node_type": "Section",
+      "publisher": "finlex",
+      "title": "17 § Tarkastuksen suorittaminen",
+      "text": "Valtionavustuksen saajan on korvauksetta annettava tarkastusta suorittavalle virkamiehelle ja 16 §:n 2 momentissa tarkoitetulle tilintarkastajalle kaikki tarkastuksen kannalta tarpeelliset tiedot ja selvitykset, asiakirjat, tallenteet ja muu aineisto sekä muutoinkin avustettava tarkastuksessa. Tarkastusta suorittavalla virkamiehellä ja 16 §:n 2 momentissa tarkoitetulla tilintarkastajalla on oikeus ottaa tarkastuksen kohteena oleva aineisto haltuunsa, jos tarkastaminen sitä edellyttää. Aineiston haltuunotosta on tarkastuksen yhteydessä laadittava pöytäkirja. Siinä on mainittava haltuunoton tarkoitus ja haltuun otettu aineisto. Aineisto on palautettava viipymättä, kun sitä ei enää tarvita tarkastuksen suorittamiseksi. Tarkastusta suorittavalla virkamiehellä ja 16 §:n 2 momentissa tarkoitetulla tilintarkastajalla on oikeus päästä tarkastuksen edellyttämässä laajuudessa valtionavustuksen saajan hallinnassa tai käytössä oleviin liike-, varasto- tai muihin vastaaviin ammatin tai elinkeinon harjoittamiseen käytettäviin tiloihin ja muille alueille, joiden oloilla on merkitystä valtionavustuksen myöntämiselle ja käytön valvonnalle. Tarkastusta ei saa suorittaa kotirauhan piiriin kuuluvissa tiloissa.",
+      "section_number": "17",
+      "chapter_number": 4,
+      "statute_id": "1147/1996"
+    },
+    {
+      "id": "181d6b03-d0f3-4cb7-9273-f5f507bbff17",
+      "node_type": "Section",
+      "publisher": "finlex",
+      "title": "18 § Virka-apu",
+      "text": "Valtionapuviranomaisella on oikeus saada poliisi-, tulli-, vero- ja ulosottoviranomaisilta tarpeellista virka-apua tässä laissa tarkoitettujen valvonta- ja tarkastustehtävien suorittamisessa.",
+      "section_number": "18",
+      "chapter_number": 4,
+      "statute_id": "1147/1996"
+    },
+    {
+      "id": "5b5be660-ad23-4548-8f0b-5a72315cfc45",
+      "node_type": "Section",
+      "publisher": "finlex",
+      "title": "19 § Maksatuksen keskeytys",
+      "text": "Valtionapuviranomainen voi päätöksellään määrätä valtionavustuksen maksamisen keskeytettäväksi, jos:",
+      "section_number": "19",
+      "chapter_number": 4,
+      "statute_id": "1147/1996"
+    },
+    {
+      "id": "10d0b6b6-43e0-44cb-96a8-c6f438559963",
+      "node_type": "Section",
+      "publisher": "finlex",
+      "title": "20 § Valtionavustuksen palauttaminen",
+      "text": "Valtionavustuksen saajan tulee viipymättä palauttaa virheellisesti, liikaa tai ilmeisen perusteettomasti saamansa valtionavustus tai sen osa. Valtionavustuksen saajan tulee palauttaa valtionavustus tai sen osa myös, jos sitä ei voida käyttää valtionavustuspäätöksessä edellytetyllä tavalla. Jos palautettava määrä on enintään 10 euroa, se saadaan jättää palauttamatta. Mitä 1 momentissa säädetään, ei koske laskennallisen perusteen mukaan myönnetyn valtionavustuksen ja toteutuneiden kustannusten välistä erotusta.",
+      "section_number": "20",
+      "chapter_number": 5,
+      "statute_id": "1147/1996"
+    },
+    {
+      "id": "75dd3163-0e3e-4d33-9c8d-3d5e91b0b53a",
+      "node_type": "Section",
+      "publisher": "finlex",
+      "title": "21 § Velvollisuus valtionavustuksen takaisin- perintään",
+      "text": "Valtionapuviranomaisen on päätöksellään määrättävä valtionavustuksen maksaminen lopetettavaksi sekä jo maksettu valtionavustus takaisin perittäväksi, jos valtionavustuksen saaja on:",
+      "section_number": "21",
+      "chapter_number": 5,
+      "statute_id": "1147/1996"
+    },
+    {
+      "id": "e6f70295-c6ba-4b0b-aaea-277ebc10c7e4",
+      "node_type": "Section",
+      "publisher": "finlex",
+      "title": "22 § Valtionavustuksen harkinnanvarainen takaisinperintä",
+      "text": "Valtionapuviranomainen voi päätöksellään määrätä valtionavustuksen maksamisen lopetettavaksi sekä jo maksetun valtionavustuksen tai sen osan takaisin perittäväksi, jos: Jos valtionavustuksen kohteena ollut omaisuus on tuhoutunut tai vahingoittunut 13 §:ssä säädettynä käyttöaikana eikä tuhoutuneen tai vahingoittuneen omaisuuden tilalle hankita uutta vastaavaa omaisuutta, valtionapuviranomainen voi päätöksellään määrätä valtionavustuksen maksamisen lopetettavaksi ja määrätä mahdollisesta vakuutuskorvauksesta tai muusta korvauksesta takaisin perittäväksi määrän, joka vastaa valtionavustuksen osuutta omaisuuden alkuperäisestä hankintamenosta. Valtionapuviranomainen voi päätöksellään myös määrätä valtionavustuksen maksamisen lopetettavaksi sekä jo maksetun valtionavustuksen takaisin perittäväksi, jos Euroopan yhteisön lainsäädännössä sitä edellytetään.",
+      "section_number": "22",
+      "chapter_number": 5,
+      "statute_id": "1147/1996"
+    },
+    {
+      "id": "6a9ac9b3-2952-49f4-9c3d-90ceb0d75d3b",
+      "node_type": "Section",
+      "publisher": "finlex",
+      "title": "23 § Palautettava ja takaisin perittävä määrä investointiavustuksissa",
+      "text": "Edellä 20―22 §:n mukaan palautettava tai takaisin perittävä investointiavustuksen määrä on sen suuruinen osa investointiavustuksen kohteena olevan omaisuuden käyvästä arvosta, joka vastaa avustuksen osuutta avustuksen kohteena olevan omaisuuden alkuperäisistä hankintamenoista investointihankkeen toteuttamisen jälkeen. Jos investointiavustus on myönnetty elinkeinotoiminnan tukemiseen, valtionavustuksen palautettava tai takaisin perittävä määrä on 1 momentista poiketen investointiavustuksen maksettu määrä.",
+      "section_number": "23",
+      "chapter_number": 5,
+      "statute_id": "1147/1996"
+    },
+    {
+      "id": "eb8a2965-3809-439e-a4f2-e6ef3cc0d3da",
+      "node_type": "Section",
+      "publisher": "finlex",
+      "title": "24 § Korko",
+      "text": "Valtionavustuksen saajan on maksettava palautettavalle tai takaisin perittävälle määrälle valtionavustuksen maksupäivästä korkolain (633/1982) 3 §:n 2 momentin mukaista vuotuista korkoa lisättynä kolmella prosenttiyksiköllä.",
+      "section_number": "24",
+      "chapter_number": 5,
+      "statute_id": "1147/1996"
+    },
+    {
+      "id": "71248b09-01df-4f50-b231-3d58cb42b458",
+      "node_type": "Section",
+      "publisher": "finlex",
+      "title": "25 § Viivästyskorko",
+      "text": "Jos takaisin perittävää määrää ei makseta viimeistään valtionapuviranomaisen asettamana eräpäivänä, sille on maksettava vuotuista viivästyskorkoa korkolain 4 §:n 3 momentissa tarkoitetun korkokannan mukaan.",
+      "section_number": "25",
+      "chapter_number": 5,
+      "statute_id": "1147/1996"
+    },
+    {
+      "id": "57c37f23-6e69-4453-b101-41f6595f0e2d",
+      "node_type": "Section",
+      "publisher": "finlex",
+      "title": "26 § Kohtuullistaminen",
+      "text": "Valtionapuviranomainen voi 20―22 §:ssä tarkoitetuissa tapauksissa päättää, että osa palautettavasta tai takaisin perittävästä määrästä, sille laskettavasta korosta tai viivästyskorosta jätetään perimättä, jos täysimääräinen palauttaminen tai takaisinperintä on kohtuuton valtionavustuksen saajan taloudelliseen asemaan ja olosuhteisiin tai valtionavustuksella hankitun omaisuuden laatuun nähden taikka palauttamisen tai takaisinperinnän perusteena olevaan menettelyyn tai olosuhteiden muutokseen nähden. Erityisen painavasta syystä valtionapuviranomainen voi päättää, että palautettava tai takaisin perittävä määrä, sille laskettava korko tai viivästyskorko jätetään kokonaan perimättä.",
+      "section_number": "26",
+      "chapter_number": 5,
+      "statute_id": "1147/1996"
+    },
+    {
+      "id": "6f11956d-25ea-4718-b15a-a07c95964fcf",
+      "node_type": "Section",
+      "publisher": "finlex",
+      "title": "27 § Yhteisvastuullisuus",
+      "text": "Jos valtionavustus on myönnetty yhteisesti useammalle valtionavustuksen saajalle, kaikki saajat vastaavat yhteisvastuullisesti valtionavustuksen takaisin maksamisesta valtionapuviranomaiselle.",
+      "section_number": "27",
+      "chapter_number": 5,
+      "statute_id": "1147/1996"
+    },
+    {
+      "id": "00ff0b8b-970b-43cc-bd72-e78ad83f5ea2",
+      "node_type": "Section",
+      "publisher": "finlex",
+      "title": "28 § Takaisinperinnän määräaika",
+      "text": "Valtionapuviranomaisen on tehtävä 19, 21 ja 22 §:ssä tarkoitettu päätös viipymättä ja erityisestä syystä kahden kalenterivuoden kuluessa sen jälkeen, kun valtionapuviranomaisen tietoon on tullut sellainen seikka, jonka nojalla valtionavustuksen maksamisen keskeyttämiseen tai lopettamiseen taikka valtionavustuksen takaisinperintään voidaan ryhtyä. Valtionavustuksen, sille maksettavan koron tai viivästyskoron takaisinperintään ei saa enää ryhtyä, kun kymmenen vuotta on kulunut valtionavustuksen tai sen viimeisen erän maksamisesta. Jos 8 §:n nojalla annetussa valtioneuvoston asetuksessa tai valtionavustuspäätöksessä asetetaan määräaika valtionavustuksen tai sillä tuetun omaisuuden käyttämiselle 13 §:ssä säädetyllä tavalla, kymmenen vuoden määräaika lasketaan tämän ajan päättymisestä.",
+      "section_number": "28",
+      "chapter_number": 5,
+      "statute_id": "1147/1996"
+    },
+    {
+      "id": "ef6e6457-9705-46e5-9eda-a148b79d2b46",
+      "node_type": "Section",
+      "publisher": "finlex",
+      "title": "29 § Vanheneminen",
+      "text": "Oikeus saada maksatus myönnetystä valtionavustuksesta raukeaa, jos valtionavustuksen saaja ei ole esittänyt valtionavustuksen maksamista varten tarvittavaa hyväksyttävää selvitystä 8 §:n nojalla annetussa valtioneuvoston asetuksessa tai valtionavustuspäätöksessä asetetussa määräajassa. Jos määräaikaa ei ole asetettu, oikeus maksatukseen raukeaa kahden vuoden kuluttua sen varainhoitovuoden päättymisestä, jona valtionavustus on myönnetty. Edellä 20 §:ssä säädetty velvollisuus palauttaa valtionavustus tai sen osa raukeaa, kun kymmenen vuotta on kulunut valtionavustuksen tai sen viimeisen erän maksamisesta. Jos 8 §:n nojalla annetussa valtioneuvoston asetuksessa tai valtionavustuspäätöksessä asetetaan määräaika valtionavustuksen tai sillä tuetun omaisuuden käyttämiselle 13 §:ssä säädetyllä tavalla, palautusvelvollisuus raukeaa, kun kymmenen vuotta on kulunut asetetun määräajan päättymisestä.",
+      "section_number": "29",
+      "chapter_number": 5,
+      "statute_id": "1147/1996"
+    },
+    {
+      "id": "0320c03d-3a3f-466e-9777-55c057b39487",
+      "node_type": "Section",
+      "publisher": "finlex",
+      "title": "30 § Kuittaus",
+      "text": "Palautettava tai takaisin perittävä määrä korkoineen voidaan periä siten, että se vähennetään samalle valtionavustuksen saajalle maksettavasta muusta saman valtionapuviranomaisen myöntämästä valtionavustuksesta.",
+      "section_number": "30",
+      "chapter_number": 5,
+      "statute_id": "1147/1996"
+    },
+    {
+      "id": "34a38941-c8db-4dcf-b470-b2b75a8a4c93",
+      "node_type": "Section",
+      "publisher": "finlex",
+      "title": "31 § Tietojensaanti viranomaiselta",
+      "text": "Valtionapuviranomaisen oikeuteen saada tietoja toiselta viranomaiselta sovelletaan, mitä viranomaisten toiminnan julkisuudesta annetussa laissa säädetään. Valtionapuviranomaisella on salassapitosäännösten estämättä oikeus saada muilta viranomaisilta tehtäviensä hoitamiseksi välttämättömiä tietoja:",
+      "section_number": "31",
+      "chapter_number": 6,
+      "statute_id": "1147/1996"
+    },
+    {
+      "id": "79f4a358-f602-43f0-919b-cedab46cffc6",
+      "node_type": "Section",
+      "publisher": "finlex",
+      "title": "32 § Tietojen luovuttaminen",
+      "text": "Tämän lain nojalla saatujen tietojen luovuttamiseen sovelletaan, mitä viranomaisten toiminnan julkisuudesta annetussa laissa säädetään. Sen lisäksi, mitä viranomaisten toiminnan julkisuudesta annetussa laissa säädetään salassa pidettävien tietojen luovuttamisesta, valtionapuviranomaisella on salassapitovelvollisuuden estämättä oikeus luovuttaa tietoja: Edellä 2 momentissa tarkoitettuja tietoja ei saa käyttää muuhun kuin siihen tarkoitukseen, johon tiedot on luovutettu.",
+      "section_number": "32",
+      "chapter_number": 6,
+      "statute_id": "1147/1996"
+    },
+    {
+      "id": "c7903c57-25a9-4922-bbc5-f45e79f3505a",
+      "node_type": "Section",
+      "publisher": "finlex",
+      "title": "33 § Tiedoksianto",
+      "text": "Valtionapuviranomaisen muu kuin 19, 21, 22 ja 30 §:ssä tarkoitetussa asiassa tekemä päätös voidaan lähettää asianosaiselle tiedoksi postitse. Jollei muuta näytetä, asianosaisen katsotaan saaneen päätöksestä tiedon seitsemäntenä päivänä siitä, kun päätös on annettu postin välitettäväksi. Tiedoksiannossa noudatetaan muuten, mitä tiedoksiannosta hallintoasioissa säädetään.",
+      "section_number": "33",
+      "chapter_number": 7,
+      "statute_id": "1147/1996"
+    },
+    {
+      "id": "4399a645-d822-4f04-b732-74d986399f15",
+      "node_type": "Section",
+      "publisher": "finlex",
+      "title": "34 § Muutoksenhaku",
+      "text": "Valtionapuviranomaisen päätökseen ei saa hakea muutosta valittamalla. Valtionapuviranomaisen päätökseen saa siihen tyytymätön asianosainen hakea oikaisua 30 päivän kuluessa päätöksen tiedoksisaannista. Oikaisuvaatimus tehdään päätöksen tehneelle viranomaiselle. Oikaisuvaatimuksesta annettuun päätökseen saa valittamalla hakea muutosta siten kuin hallintolainkäyttölaissa (586/1996) säädetään.",
+      "section_number": "34",
+      "chapter_number": 7,
+      "statute_id": "1147/1996"
+    },
+    {
+      "id": "460dcd90-3a57-4b75-a632-1a3a1bd48b87",
+      "node_type": "Section",
+      "publisher": "finlex",
+      "title": "35 § Täytäntöönpano",
+      "text": "Valtionapuviranomaisen päätös voidaan panna täytäntöön muutoksenhausta huolimatta. Edellä 21 ja 22 §:ssä tarkoitetussa asiassa oikaisuvaatimuksesta annettu päätös voidaan panna täytäntöön verojen ja maksujen perimisestä ulosottotoimin annetussa laissa (367/1961) säädetyssä järjestyksessä.",
+      "section_number": "35",
+      "chapter_number": 7,
+      "statute_id": "1147/1996"
+    },
+    {
+      "id": "41f36837-2db8-49dd-8417-ac46749bfc9c",
+      "node_type": "Section",
+      "publisher": "finlex",
+      "title": "36 § Vaikutusten arviointi",
+      "text": "Valtionapuviranomaisen on sopivalla tavalla seurattava myöntämiensä valtionavustusten käytön tuloksellisuutta ja tarkoituksenmukaisuutta sekä valtionavustusten vaikutuksia kilpailuun, eri väestöryhmien asemaan samoin kuin niiden ympäristö- ja muita vaikutuksia. Valtionapuviranomaisen on määräajoin arvioitava valtionavustusten tarpeellisuutta ja kehittämistarpeita. Tässä tarkoituksessa valtionapuviranomaiset antavat toisilleen tarvittavaa apua.",
+      "section_number": "36",
+      "chapter_number": 7,
+      "statute_id": "1147/1996"
+    },
+    {
+      "id": "c27eb2f0-5912-49cf-8604-60fc56bee447",
+      "node_type": "Section",
+      "publisher": "finlex",
+      "title": "37 § Valtionapuviranomaisen tarkemmat ohjeet",
+      "text": "Valtionapuviranomainen voi antaa tarkempia ohjeita teknisluonteisista yksityiskohdista, jotka koskevat valtionavustuksen hakemista, valtionavustuksen hakijan selvittämisvelvollisuutta, valtionavustuksen saajan kirjanpitovelvollisuutta, valtionavustuksen maksamista sekä valtionavustuksen käyttöä ja valvonnan toteuttamista.",
+      "section_number": "37",
+      "chapter_number": 7,
+      "statute_id": "1147/1996"
+    },
+    {
+      "id": "30569d43-1bc9-416a-98f1-2fefcd5b8abf",
+      "node_type": "Section",
+      "publisher": "finlex",
+      "title": "38 § Voimaantulo- ja siirtymäsäännökset",
+      "text": "Tämä laki tulee voimaan 1 päivänä syyskuuta 2001. Tällä lailla kumotaan valtionavustuksia koskeviksi yleismääräyksiksi annettu valtioneuvoston päätös (490/1965) siihen myöhemmin tehtyine muutoksineen. Ennen tämän lain voimaantuloa myönnetyn valtionavustuksen käytössä ja käytön valvonnassa, palauttamisessa ja takaisinperinnässä sekä sitä koskevassa muutoksenhaussa noudatetaan valtionavustuksen myöntämisajankohtana voimassa olleita säännöksiä sekä valtionavustuspäätöksessä asetettuja ehtoja. Jollei valtionavustuspäätöksessä, joka on tehty ennen tämän lain voimaantuloa, ole maksamisesta toisin määrätty, noudatetaan kuitenkin tämän lain 12 §:ää. Ennen lain voimaantuloa voidaan ryhtyä lain täytäntöönpanon edellyttämiin toimenpiteisiin.",
+      "section_number": "38",
+      "chapter_number": 7,
+      "statute_id": "1147/1996"
+    }
+  ],
+  "clauses": [
+    {
+      "id": "47b17f01-0a6b-4b36-93cd-25233c7bfb44",
+      "node_type": "Clause",
+      "publisher": "finlex",
+      "title": "§ 3 mom 1",
+      "text": "1) tukea, korvausta tai muuta etuutta, jos oikeus sen saamiseen perustuu lakiin ja myönnettävän määrän määräytymisperuste säädetään yksityiskohtaisesti laissa;",
+      "clause_number": 1,
+      "section_number": "3",
+      "statute_id": "1147/1996"
+    },
+    {
+      "id": "0a32d521-6eda-4629-8f00-30996cfb8865",
+      "node_type": "Clause",
+      "publisher": "finlex",
+      "title": "§ 3 mom 2",
+      "text": "2) lainanantoa valtion varoista eikä siihen liittyvää korko- tai muuta etuutta;",
+      "clause_number": 2,
+      "section_number": "3",
+      "statute_id": "1147/1996"
+    },
+    {
+      "id": "ac7acc04-7af0-423a-8d6b-79928ce2d384",
+      "node_type": "Clause",
+      "publisher": "finlex",
+      "title": "§ 3 mom 3",
+      "text": "3) valtiontakausta tai -takuuta;",
+      "clause_number": 3,
+      "section_number": "3",
+      "statute_id": "1147/1996"
+    },
+    {
+      "id": "20e99ea5-6a26-4298-b00d-1b8aa84d1050",
+      "node_type": "Clause",
+      "publisher": "finlex",
+      "title": "§ 3 mom 4",
+      "text": "4) korkotukea luottolaitoksen taikka valtion erityisrahoituslaitoksen tai -yhtiön varoista myönnetylle luotolle;",
+      "clause_number": 4,
+      "section_number": "3",
+      "statute_id": "1147/1996"
+    },
+    {
+      "id": "e71d02d5-4fd7-474c-a0ed-cc7f8fd9416c",
+      "node_type": "Clause",
+      "publisher": "finlex",
+      "title": "§ 3 mom 5",
+      "text": "5) valtion verojen tai muiden saamisten maksuhelpotusta tai -vapautusta;",
+      "clause_number": 5,
+      "section_number": "3",
+      "statute_id": "1147/1996"
+    },
+    {
+      "id": "4a340d34-5ec1-497f-9b5b-4818fd8ba305",
+      "node_type": "Clause",
+      "publisher": "finlex",
+      "title": "§ 3 mom 6",
+      "text": "6) yksityiselle henkilölle annettavaa sosiaaliavustusta, sosiaalivakuutukseen perustuvaa etuutta tai muuhun lakisääteiseen sosiaaliturvaan liittyvää tukea.",
+      "clause_number": 6,
+      "section_number": "3",
+      "statute_id": "1147/1996"
+    },
+    {
+      "id": "baf0c8f9-9a1a-42dc-aed4-ea7fbe975aed",
+      "node_type": "Clause",
+      "publisher": "finlex",
+      "title": "§ 5 mom 1",
+      "text": "1) investointiavustuksena aineellisen tai aineettoman hyödykkeen hankintaan;",
+      "clause_number": 1,
+      "section_number": "5",
+      "statute_id": "1147/1996"
+    },
+    {
+      "id": "252c4c90-763c-4cd3-860e-54d04a57b363",
+      "node_type": "Clause",
+      "publisher": "finlex",
+      "title": "§ 5 mom 2",
+      "text": "2) hankeavustuksena kokeilu-, käynnistämis-, tutkimus- tai kehittämishankkeeseen taikka muuhun tarkoitukseltaan rajattuun hankkeeseen;",
+      "clause_number": 2,
+      "section_number": "5",
+      "statute_id": "1147/1996"
+    },
+    {
+      "id": "78d14d44-573d-4bae-82a1-63a6bb2bf777",
+      "node_type": "Clause",
+      "publisher": "finlex",
+      "title": "§ 5 mom 3",
+      "text": "3) apurahana, stipendinä tai avustuksena hakijan henkilökohtaiseen käyttöön tai hankkeeseen;",
+      "clause_number": 3,
+      "section_number": "5",
+      "statute_id": "1147/1996"
+    },
+    {
+      "id": "90744be9-a96b-44c0-9a0a-0d482ac9d6ec",
+      "node_type": "Clause",
+      "publisher": "finlex",
+      "title": "§ 5 mom 4",
+      "text": "4) muuna 1―3 kohdassa tarkoitettuun verrattavana erityisavustuksena.",
+      "clause_number": 4,
+      "section_number": "5",
+      "statute_id": "1147/1996"
+    },
+    {
+      "id": "661d2c82-215c-4492-b02c-ff66ebf0c430",
+      "node_type": "Clause",
+      "publisher": "finlex",
+      "title": "§ 7 mom 1",
+      "text": "1) tarkoitus, johon valtionavustusta haetaan, on yhteiskunnallisesti hyväksyttävä;",
+      "clause_number": 1,
+      "section_number": "7",
+      "statute_id": "1147/1996"
+    },
+    {
+      "id": "eec43871-5dee-48f0-b722-eb461f48ab53",
+      "node_type": "Clause",
+      "publisher": "finlex",
+      "title": "§ 7 mom 2",
+      "text": "2) valtionavustuksen myöntäminen on perusteltua valtionavustuksen käytölle asetettujen tavoitteiden kannalta;",
+      "clause_number": 2,
+      "section_number": "7",
+      "statute_id": "1147/1996"
+    },
+    {
+      "id": "a1841ba5-6a6d-461e-91d8-a26b53cd5767",
+      "node_type": "Clause",
+      "publisher": "finlex",
+      "title": "§ 7 mom 3",
+      "text": "3) valtionavustuksen myöntämistä on pidettävä tarpeellisena valtionavustuksen hakijan saama muu julkinen tuki sekä valtionavustuksen kohteena olevan hankkeen tai toiminnan laatu ja laajuus huomioon ottaen; sekä",
+      "clause_number": 3,
+      "section_number": "7",
+      "statute_id": "1147/1996"
+    },
+    {
+      "id": "67c863f5-5b33-429e-b25d-2118e0069fdb",
+      "node_type": "Clause",
+      "publisher": "finlex",
+      "title": "§ 7 mom 4",
+      "text": "4) valtionavustuksen myöntämisen ei arvioida aiheuttavan muita kuin vähäisiä kilpailua ja markkinoiden toimintaa vääristäviä vaikutuksia Euroopan talousalueeseen kuuluvassa valtiossa.",
+      "clause_number": 4,
+      "section_number": "7",
+      "statute_id": "1147/1996"
+    },
+    {
+      "id": "b243d8c1-a145-47d0-a401-57a15561655a",
+      "node_type": "Clause",
+      "publisher": "finlex",
+      "title": "§ 11 mom 1",
+      "text": "1) saaja;",
+      "clause_number": 1,
+      "section_number": "11",
+      "statute_id": "1147/1996"
+    },
+    {
+      "id": "e08b41b4-a6a4-477d-916a-6768fd71ea98",
+      "node_type": "Clause",
+      "publisher": "finlex",
+      "title": "§ 11 mom 2",
+      "text": "2) käyttötarkoitus;",
+      "clause_number": 2,
+      "section_number": "11",
+      "statute_id": "1147/1996"
+    },
+    {
+      "id": "721eb6d4-d514-438b-a9b8-dbaadcb223f0",
+      "node_type": "Clause",
+      "publisher": "finlex",
+      "title": "§ 11 mom 3",
+      "text": "3) määrä tai laskentaperuste.",
+      "clause_number": 3,
+      "section_number": "11",
+      "statute_id": "1147/1996"
+    },
+    {
+      "id": "a8e1ee1e-bbe2-4773-8d7e-f0d3510d1f80",
+      "node_type": "Clause",
+      "publisher": "finlex",
+      "title": "§ 11 mom 1",
+      "text": "1) valtionavustuksen kohteena olevan toiminnan tai hankkeen hyväksyttävät kustannukset;",
+      "clause_number": 1,
+      "section_number": "11",
+      "statute_id": "1147/1996"
+    },
+    {
+      "id": "8ccf1a56-1994-44aa-b64c-d65b8f9e9b56",
+      "node_type": "Clause",
+      "publisher": "finlex",
+      "title": "§ 11 mom 2",
+      "text": "2) valtionavustuksen enimmäismäärä valtionavustuksen kohteena olevasta toiminnasta tai hankkeesta aiheutuvista kokonaiskustannuksista;",
+      "clause_number": 2,
+      "section_number": "11",
+      "statute_id": "1147/1996"
+    },
+    {
+      "id": "1554caba-2e87-4736-8ad4-795ed9918a13",
+      "node_type": "Clause",
+      "publisher": "finlex",
+      "title": "§ 11 mom 3",
+      "text": "3) saajan valtionavustuksen kohteena olevasta toiminnasta tai hankkeesta saamien tulojen sekä saajan muiden tulojen vaikutus valtionavustuksen määrään ja käyttöön;",
+      "clause_number": 3,
+      "section_number": "11",
+      "statute_id": "1147/1996"
+    },
+    {
+      "id": "554d9707-2747-40b8-8848-bf9b9141c3da",
+      "node_type": "Clause",
+      "publisher": "finlex",
+      "title": "§ 11 mom 4",
+      "text": "4) valtionavustuksen käyttöaika sekä 13 §:n 2―4 momentissa tarkoitetut ehdot ja rajoitukset;",
+      "clause_number": 4,
+      "section_number": "11",
+      "statute_id": "1147/1996"
+    },
+    {
+      "id": "72ebf201-2ca2-4fac-9973-aebfe5c9f71a",
+      "node_type": "Clause",
+      "publisher": "finlex",
+      "title": "§ 11 mom 4",
+      "text": "4) valtionavustuksen käyttöaika sekä 13 §:n 2―4 momentissa tarkoitetut ehdot ja rajoitukset;",
+      "clause_number": 4,
+      "section_number": "11",
+      "statute_id": "1147/1996"
+    },
+    {
+      "id": "9ba03f9b-afef-4b29-b7f6-4eb08d31a0eb",
+      "node_type": "Clause",
+      "publisher": "finlex",
+      "title": "§ 11 mom 5",
+      "text": "5) saajan velvollisuus antaa selvitys valtionavustuksen käyttämisestä ja selvityksen ajankohta;",
+      "clause_number": 5,
+      "section_number": "11",
+      "statute_id": "1147/1996"
+    },
+    {
+      "id": "54770709-5418-4a2f-bb6a-ee1c32f8830e",
+      "node_type": "Clause",
+      "publisher": "finlex",
+      "title": "§ 11 mom 6",
+      "text": "6) muut valtionavustuksen myöntämisen ja maksamisen sekä käytön valvonnan perusteet.",
+      "clause_number": 6,
+      "section_number": "11",
+      "statute_id": "1147/1996"
+    },
+    {
+      "id": "48913258-76da-4d2e-8d26-876b0e9850a7",
+      "node_type": "Clause",
+      "publisher": "finlex",
+      "title": "§ 19 mom 4",
+      "text": "1) on perusteltua aihetta epäillä, että valtionavustuksen saaja ei menettele 12 §:n 4 momentissa taikka 13 tai 14 §:ssä tarkoitetulla tavalla;",
+      "clause_number": 4,
+      "section_number": "19",
+      "statute_id": "1147/1996"
+    },
+    {
+      "id": "1b7e0f71-9216-429d-af2f-0fd2904a9c79",
+      "node_type": "Clause",
+      "publisher": "finlex",
+      "title": "§ 19 mom 1",
+      "text": "1) on perusteltua aihetta epäillä, että valtionavustuksen saaja ei menettele 12 §:n 4 momentissa taikka 13 tai 14 §:ssä tarkoitetulla tavalla;",
+      "clause_number": 1,
+      "section_number": "19",
+      "statute_id": "1147/1996"
+    },
+    {
+      "id": "02fc452a-5108-47e6-9a8f-56123c76735c",
+      "node_type": "Clause",
+      "publisher": "finlex",
+      "title": "§ 19 mom 2",
+      "text": "2) ne perusteet, joilla valtionavustus on myönnetty, ovat olennaisesti muuttuneet; taikka",
+      "clause_number": 2,
+      "section_number": "19",
+      "statute_id": "1147/1996"
+    },
+    {
+      "id": "6d9fdb41-f985-4a47-a15d-0035bb64b445",
+      "node_type": "Clause",
+      "publisher": "finlex",
+      "title": "§ 19 mom 3",
+      "text": "3) Euroopan yhteisön lainsäädännössä edellytetään maksamisen keskeyttämistä.",
+      "clause_number": 3,
+      "section_number": "19",
+      "statute_id": "1147/1996"
+    },
+    {
+      "id": "30de1648-5c54-441d-a989-da6ba8c9351f",
+      "node_type": "Clause",
+      "publisher": "finlex",
+      "title": "§ 21 mom 1",
+      "text": "1) jättänyt palauttamatta sellaisen valtionavustuksen tai sen osan, joka 20 §:n mukaan on palautettava;",
+      "clause_number": 1,
+      "section_number": "21",
+      "statute_id": "1147/1996"
+    },
+    {
+      "id": "022fc841-8e52-410d-aa3f-7a8f8ff8586f",
+      "node_type": "Clause",
+      "publisher": "finlex",
+      "title": "§ 21 mom 2",
+      "text": "2) käyttänyt valtionavustuksen olennaisesti muuhun tarkoitukseen kuin se on myönnetty;",
+      "clause_number": 2,
+      "section_number": "21",
+      "statute_id": "1147/1996"
+    },
+    {
+      "id": "490e6d66-dcb3-42fa-8b9a-35d5e2010653",
+      "node_type": "Clause",
+      "publisher": "finlex",
+      "title": "§ 21 mom 3",
+      "text": "3) antanut valtionapuviranomaiselle väärän tai harhaanjohtavan tiedon seikasta, joka on ollut omiaan olennaisesti vaikuttamaan valtionavustuksen saantiin, määrään tai ehtoihin, taikka salannut sellaisen seikan; taikka",
+      "clause_number": 3,
+      "section_number": "21",
+      "statute_id": "1147/1996"
+    },
+    {
+      "id": "4b74bc8e-cb64-416f-9221-47cfbaf0e7e7",
+      "node_type": "Clause",
+      "publisher": "finlex",
+      "title": "§ 21 mom 4",
+      "text": "4) muutoin 1―3 kohtaan verrattavalla tavalla olennaisesti rikkonut valtionavustuksen käyttämistä koskevia säännöksiä tai valtionavustuspäätökseen otettuja ehtoja.",
+      "clause_number": 4,
+      "section_number": "21",
+      "statute_id": "1147/1996"
+    },
+    {
+      "id": "b2056bfb-736d-4399-befe-1167b6fdd324",
+      "node_type": "Clause",
+      "publisher": "finlex",
+      "title": "§ 22 mom 4",
+      "text": "1) valtionavustuksen saaja on menetellyt 12 §:n 4 momentin taikka 13 tai 14 §:n vastaisesti;",
+      "clause_number": 4,
+      "section_number": "22",
+      "statute_id": "1147/1996"
+    },
+    {
+      "id": "87a4e87e-9c39-45ce-91f0-e76ddc91ae2b",
+      "node_type": "Clause",
+      "publisher": "finlex",
+      "title": "§ 22 mom 1",
+      "text": "1) valtionavustuksen saaja on menetellyt 12 §:n 4 momentin taikka 13 tai 14 §:n vastaisesti;",
+      "clause_number": 1,
+      "section_number": "22",
+      "statute_id": "1147/1996"
+    },
+    {
+      "id": "d49e9374-01ae-4786-9625-282ee22a7514",
+      "node_type": "Clause",
+      "publisher": "finlex",
+      "title": "§ 22 mom 1",
+      "text": "2) valtionavustuksen saaja on kieltäytynyt antamasta 17 §:n 1 momentissa tarkoitettua aineistoa tai avustamasta mainitussa momentissa tarkoitetulla tavalla tarkastuksessa;",
+      "clause_number": 1,
+      "section_number": "22",
+      "statute_id": "1147/1996"
+    },
+    {
+      "id": "01b2da96-d32e-4f45-b863-dc19567424f0",
+      "node_type": "Clause",
+      "publisher": "finlex",
+      "title": "§ 22 mom 2",
+      "text": "2) valtionavustuksen saaja on kieltäytynyt antamasta 17 §:n 1 momentissa tarkoitettua aineistoa tai avustamasta mainitussa momentissa tarkoitetulla tavalla tarkastuksessa;",
+      "clause_number": 2,
+      "section_number": "22",
+      "statute_id": "1147/1996"
+    },
+    {
+      "id": "da9c5b37-6721-487a-928e-ca249d292942",
+      "node_type": "Clause",
+      "publisher": "finlex",
+      "title": "§ 22 mom 3",
+      "text": "3) valtionavustuksen saaja on lopettanut valtionavustuksen kohteena olleen toiminnan, supistanut sitä olennaisesti tai luovuttanut sen toiselle;",
+      "clause_number": 3,
+      "section_number": "22",
+      "statute_id": "1147/1996"
+    },
+    {
+      "id": "44c07327-4041-4cde-b9ff-8b28b3fab633",
+      "node_type": "Clause",
+      "publisher": "finlex",
+      "title": "§ 22 mom 4",
+      "text": "4) valtionavustuksen saaja on 13 §:n vastaisesti luovuttanut toiselle omistus- tai hallintaoikeuden omaisuuteen, joka on hankittu valtionavustuksella;",
+      "clause_number": 4,
+      "section_number": "22",
+      "statute_id": "1147/1996"
+    },
+    {
+      "id": "0bf39a90-23b7-4b9f-9d7e-5a086e5d356b",
+      "node_type": "Clause",
+      "publisher": "finlex",
+      "title": "§ 22 mom 5",
+      "text": "5) valtionavustuksen saaja on 13 §:n vastaisesti pysyvästi muuttanut valtionavustuksen kohteena olleen omaisuuden käyttötarkoitusta;",
+      "clause_number": 5,
+      "section_number": "22",
+      "statute_id": "1147/1996"
+    },
+    {
+      "id": "4250bb3b-71cd-460b-8c88-fbfe8a2dc5f6",
+      "node_type": "Clause",
+      "publisher": "finlex",
+      "title": "§ 22 mom 6",
+      "text": "6) valtionavustuksen saaja on joutunut ulosottotoimenpiteen kohteeksi, selvitystilaan, konkurssiin taikka yrityksen saneerauksesta annetussa laissa (47/1993) tarkoitetun saneerausmenettelyn tai yksityishenkilön velkajärjestelyistä annetussa laissa (57/1993) tarkoitetun velkajärjestelyn kohteeksi, jollei valtionavustuksen käyttötarkoituksesta muuta johdu; taikka",
+      "clause_number": 6,
+      "section_number": "22",
+      "statute_id": "1147/1996"
+    },
+    {
+      "id": "a183526c-1fd3-445d-b6ed-7af9d64954c8",
+      "node_type": "Clause",
+      "publisher": "finlex",
+      "title": "§ 22 mom 7",
+      "text": "7) valtionavustuksen saaja menettelee tosiasiallisesti tässä momentissa säädettyihin seikkoihin rinnastettavalla tavalla antamalla valtionavustuksen myöntämiseen, maksamiseen tai käyttämiseen liittyvälle seikalle muun kuin asian todellista luonnetta tai tarkoitusta vastaavan oikeudellisen muodon.",
+      "clause_number": 7,
+      "section_number": "22",
+      "statute_id": "1147/1996"
+    },
+    {
+      "id": "eab6c683-bbb0-42c4-ab43-021adbfc6753",
+      "node_type": "Clause",
+      "publisher": "finlex",
+      "title": "§ 31 mom 1",
+      "text": "1) valtionavustuksen hakijan ja saajan taloudellisesta asemasta;",
+      "clause_number": 1,
+      "section_number": "31",
+      "statute_id": "1147/1996"
+    },
+    {
+      "id": "50282245-38c4-4046-a600-e6bb9e67342e",
+      "node_type": "Clause",
+      "publisher": "finlex",
+      "title": "§ 31 mom 2",
+      "text": "2) valtionavustuksen hakijan ja saajan julkisista tuista;",
+      "clause_number": 2,
+      "section_number": "31",
+      "statute_id": "1147/1996"
+    },
+    {
+      "id": "157fe899-96d7-4af4-a399-93f3ce78c0f0",
+      "node_type": "Clause",
+      "publisher": "finlex",
+      "title": "§ 31 mom 3",
+      "text": "3) valtionavustuksen hakijaa ja saajaa koskevista muista seikoista, joilla on olennaista merkitystä tämän lain noudattamisen varmistamiseksi valtionavustuksen myöntämisessä, maksamisessa ja käytön valvonnassa.",
+      "clause_number": 3,
+      "section_number": "31",
+      "statute_id": "1147/1996"
+    },
+    {
+      "id": "ab1ef8d7-2b1e-4085-a2a2-55c10fb9a5f0",
+      "node_type": "Clause",
+      "publisher": "finlex",
+      "title": "§ 32 mom 1",
+      "text": "1) poliisi- ja muulle esitutkintaviranomaiselle rikoksen estämiseksi tai selvittämiseksi taikka syyttäjäviranomaiselle syyteharkintaa varten;",
+      "clause_number": 1,
+      "section_number": "32",
+      "statute_id": "1147/1996"
+    },
+    {
+      "id": "9b2a145c-cac9-454f-aca0-81f8d180dcad",
+      "node_type": "Clause",
+      "publisher": "finlex",
+      "title": "§ 32 mom 2",
+      "text": "2) tämän lain soveltamista koskevan viranomaisen selvityksen tai viranomaisen toimeksiannosta laadittavan tieteellisen tutkimuksen tekemiseksi, jos tietojen luovuttaminen on välttämätöntä selvityksen tai tutkimuksen tekemiseksi;",
+      "clause_number": 2,
+      "section_number": "32",
+      "statute_id": "1147/1996"
+    },
+    {
+      "id": "c5803a43-1140-4498-9aad-d989423bab45",
+      "node_type": "Clause",
+      "publisher": "finlex",
+      "title": "§ 32 mom 3",
+      "text": "3) toimivaltaiselle Euroopan unionin toimielimelle tai unionin muulle elimelle sekä toisen jäsenvaltion toimivaltaiselle viranomaiselle, jos Euroopan yhteisön lainsäädännössä tai muussa Suomen jäsenyyteen Euroopan unionissa liittyvässä velvoitteessa sitä edellytetään;",
+      "clause_number": 3,
+      "section_number": "32",
+      "statute_id": "1147/1996"
+    },
+    {
+      "id": "a645b59d-4db9-4177-adb3-ae3efa6350f1",
+      "node_type": "Clause",
+      "publisher": "finlex",
+      "title": "§ 32 mom 4",
+      "text": "4) jos Suomea sitovassa kansainvälisessä velvoitteessa sitä edellytetään.",
+      "clause_number": 4,
+      "section_number": "32",
+      "statute_id": "1147/1996"
+    }
+  ],
+  "cross_references": [],
+  "raw_html_path": "C:\\Users\\danit\\finance-hack\\aalto-hackaton-2026\\data\\raw\\finlex\\Laki (säädöskokoelma)\\Valtionavustuslaki.html"
+}

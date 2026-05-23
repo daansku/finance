@@ -1,0 +1,1101 @@
+{
+  "statute": {
+    "id": "2029553f-8807-4959-a6cd-d87a8cd043f1",
+    "node_type": "Statute",
+    "publisher": "finlex",
+    "title": "Rehulaki",
+    "text": "Rehulaki",
+    "statute_id": "62/2006",
+    "finlex_url": "https://finlex.fi/fi/laki/ajantasa/62/2006"
+  },
+  "chapters": [
+    {
+      "id": "1b54839d-1f63-47fa-91bb-2d816c419d28",
+      "node_type": "Chapter",
+      "publisher": "finlex",
+      "title": "Chapter 1",
+      "text": "1 luku Yleiset säännökset",
+      "chapter_number": 1,
+      "statute_id": "62/2006"
+    },
+    {
+      "id": "9aacda41-a8a0-4ecd-b343-1e1022a0b2bc",
+      "node_type": "Chapter",
+      "publisher": "finlex",
+      "title": "Chapter 2",
+      "text": "2 luku Rehuja koskevat vaatimukset",
+      "chapter_number": 2,
+      "statute_id": "62/2006"
+    },
+    {
+      "id": "3a6bb948-af8b-4ae8-85c0-a31cac9df745",
+      "node_type": "Chapter",
+      "publisher": "finlex",
+      "title": "Chapter 3",
+      "text": "3 luku Toiminnan harjoittamista koskevat vaatimukset",
+      "chapter_number": 3,
+      "statute_id": "62/2006"
+    },
+    {
+      "id": "433fc4e1-4163-4b5b-862f-b0e89f94dbf5",
+      "node_type": "Chapter",
+      "publisher": "finlex",
+      "title": "Chapter 4",
+      "text": "4 luku Viranomaiset ja niiden tehtävät",
+      "chapter_number": 4,
+      "statute_id": "62/2006"
+    },
+    {
+      "id": "d1ec9553-a53c-4cef-b245-ac8b6f4c7b74",
+      "node_type": "Chapter",
+      "publisher": "finlex",
+      "title": "Chapter 5",
+      "text": "5 luku Laboratoriot",
+      "chapter_number": 5,
+      "statute_id": "62/2006"
+    },
+    {
+      "id": "d7828947-b6ed-4606-9eac-140fd56f4476",
+      "node_type": "Chapter",
+      "publisher": "finlex",
+      "title": "Chapter 6",
+      "text": "6 luku Valvonta",
+      "chapter_number": 6,
+      "statute_id": "62/2006"
+    },
+    {
+      "id": "632b623c-779b-47d7-b738-dda1a2f3ae6b",
+      "node_type": "Chapter",
+      "publisher": "finlex",
+      "title": "Chapter 7",
+      "text": "7 luku Hallinnolliset pakkokeinot ja seuraamukset",
+      "chapter_number": 7,
+      "statute_id": "62/2006"
+    },
+    {
+      "id": "51d344d5-5f0a-439d-85cf-02fd79621364",
+      "node_type": "Chapter",
+      "publisher": "finlex",
+      "title": "Chapter 8",
+      "text": "8 luku Erinäiset säännökset",
+      "chapter_number": 8,
+      "statute_id": "62/2006"
+    }
+  ],
+  "sections": [
+    {
+      "id": "47f62abf-cc30-4689-93f9-24efb4a9dd42",
+      "node_type": "Section",
+      "publisher": "finlex",
+      "title": "1 § Tavoite",
+      "text": "Tämän lain tavoitteena on eläinten terveyden ja eläimistä saatavien elintarvikkeiden laadun turvaamiseksi varmistaa rehujen laatu, turvallisuus, jäljitettävyys sekä rehuista annettavien tietojen asianmukaisuus.",
+      "section_number": "1",
+      "chapter_number": 1,
+      "statute_id": "62/2006"
+    },
+    {
+      "id": "4353fbdb-61f6-4009-9fd0-a53e681f4637",
+      "node_type": "Section",
+      "publisher": "finlex",
+      "title": "2 § Soveltamisala",
+      "text": "Tätä lakia sovelletaan rehuihin ja niiden käsittelyyn, rehualan toimijoihin sekä valvontaan kaikissa rehujen tuotanto-, valmistus- ja jakeluvaiheissa alkutuotannosta markkinoille saattamiseen ja käyttöön. Tämä laki ei koske rehua, jota käytetään tutkimuslaitoksen tuotantokokeessa tai koe-eläinlaitoksen eläinkokeessa. Eläinkokeista säädetään koe-eläintoiminnasta annetussa laissa (62/2006).",
+      "section_number": "2",
+      "chapter_number": 1,
+      "statute_id": "62/2006"
+    },
+    {
+      "id": "e6d16003-2649-449c-bebb-5ed49f4b8195",
+      "node_type": "Section",
+      "publisher": "finlex",
+      "title": "3 § Euroopan yhteisön rehulainsäädäntö",
+      "text": "Jollei muussa laissa säädetä toisin, tätä lakia sovelletaan myös seuraavien rehuja ja rehuvalvontaa koskevien Euroopan yhteisön säädösten sekä niiden nojalla annettujen säännösten noudattamisen valvontaan:",
+      "section_number": "3",
+      "chapter_number": 1,
+      "statute_id": "62/2006"
+    },
+    {
+      "id": "55997200-281b-474e-a3de-08b90f4cf22e",
+      "node_type": "Section",
+      "publisher": "finlex",
+      "title": "4 § Suhde muuhun lainsäädäntöön",
+      "text": "Eläinperäisten rehujen hygieenisen laadun turvaamisesta eläintautien vastustamiseksi, ennaltaehkäisemiseksi ja leviämisen estämiseksi säädetään eläintautilaissa (55/1980). Euroopan yhteisön ulkopuolisista valtioista tuotavien eläinperäisten rehujen tuonnista ja sen valvonnasta säädetään eläinlääkinnällisestä rajatarkastuksesta annetussa laissa (1192/1996). Rehujen säteilyturvallisuuden arvioinnin perusteisiin sovelletaan säteilylakia (592/1991). Muuntogeenisten organismien suljetusta ja avoimesta käytöstä sekä muuntogeenisten organismien käsittelyyn tarkoitetun laitoksen tai toimitilan käyttöönotosta ja toiminnasta säädetään geenitekniikkalaissa (377/1995). Lääkkeiden valmistuksesta, tuonnista, jakelusta ja myynnistä sekä muusta kulutukseen luovutuksesta säädetään lääkelaissa (395/1987). Lääkkeiden ja muiden eläinten käsittelyssä käytettävien aineiden käytöstä ja valvonnasta sekä eläinten lääkitsemisessä käytettävien välineiden käytöstä ja valvonnasta säädetään eläinten lääkitsemisestä annetussa laissa (617/1997).",
+      "section_number": "4",
+      "chapter_number": 1,
+      "statute_id": "62/2006"
+    },
+    {
+      "id": "5aca5a49-cd0d-47c9-abca-6f013662b2ad",
+      "node_type": "Section",
+      "publisher": "finlex",
+      "title": "5 § Määritelmät",
+      "text": "Tässä laissa tarkoitetaan: Mitä tässä laissa säädetään Euroopan yhteisöstä tai Euroopan unionin jäsenvaltioista, koskee myös Euroopan talousalueesta tehdyn sopimuksen edellyttämässä laajuudessa Euroopan talousaluetta ja sen jäsenvaltioita.",
+      "section_number": "5",
+      "chapter_number": 1,
+      "statute_id": "62/2006"
+    },
+    {
+      "id": "61c71046-2283-44ec-ac7f-c71c5671e6e8",
+      "node_type": "Section",
+      "publisher": "finlex",
+      "title": "6 § Rehujen yleiset laatuvaatimukset",
+      "text": "Rehujen tulee olla tämän lain ja Euroopan yhteisön rehulainsäädännön vaatimusten mukaisia, aitoja, hyvälaatuisia ja turvallisia sekä eläinten ravitsemukseen sopivia. Rehujen turvallisuutta koskevista yleisistä vaatimuksista säädetään myös yleisen elintarvikeasetuksen 11 ja 15 artiklassa ja yhteisöstä vietävien rehujen erityisistä edellytyksistä yleisen elintarvikeasetuksen 12 artiklassa. Rehu ei saa sisältää sellaisia määriä haitallisia aineita, tuotteita tai eliöitä, että sen käytöstä voi aiheutua vaaraa ihmisten tai eläinten terveydelle taikka ympäristölle taikka laatuvirheitä eläimistä saataviin tuotteisiin. Tarkempia säännöksiä haitallisten aineiden, tuotteiden ja eliöiden sallituista enimmäispitoisuuksista rehuissa annetaan maa- ja metsätalousministeriön asetuksella.",
+      "section_number": "6",
+      "chapter_number": 2,
+      "statute_id": "62/2006"
+    },
+    {
+      "id": "d4ad5ab3-fa60-4e54-ae7e-fbb66c3d6098",
+      "node_type": "Section",
+      "publisher": "finlex",
+      "title": "7 § Rehuaineet",
+      "text": "Rehuaineiden tulee olla laadultaan, koostumukseltaan ja muilta ominaisuuksiltaan sellaisia, että ne soveltuvat eläinten ruokintaan. Valmistaa, saattaa markkinoille, käyttää rehujen valmistukseen tai eläinten ruokintaan sekä tuoda saa vain rehuaineita, jotka Euroopan yhteisö on merkinnyt julkaisemaansa rehuaineluetteloon. Muita kuin luetteloon merkittyjä rehuaineita saa valmistaa, saattaa markkinoille tai käyttää rehujen valmistukseen ja eläinten ruokintaan vain, jos ne erottuvat selvästi yhteisön hyväksymistä nimistä ja kuvauksista eivätkä johda harhaan ostajaa, muuta luovutuksensaajaa tai käyttäjää. Sen estämättä, mitä 2 momentissa säädetään, maa- ja metsätalousministeriö voi asetuksella kieltää tiettyjen rehuaineiden käytön, jos käytöstä voi aiheutua vakavaa vaaraa ihmisten tai eläinten terveydelle taikka ympäristölle. Asetuksessa voidaan lisäksi säätää, että Elintarviketurvallisuusvirasto voi yksittäistapauksessa myöntää luvan poiketa mainitussa asetuksessa säädetystä kiellosta, jos voidaan varmistua siitä, että luvan kohteena oleva rehuaine ei aiheuta vaaraa ihmisten tai eläinten terveydelle taikka ympäristölle. Tällöin asetuksessa on lisäksi annettava tarkemmat säännökset luvan myöntämisen edellytyksistä. Tarkempia säännöksiä rehuaineiden nimeämisestä annetaan maa- ja metsätalousministeriön asetuksella sen mukaan kuin niistä säädetään Euroopan yhteisön rehulainsäädännössä.",
+      "section_number": "7",
+      "chapter_number": 2,
+      "statute_id": "62/2006"
+    },
+    {
+      "id": "6d5eec19-df26-46d2-bb08-f51ab788b9a5",
+      "node_type": "Section",
+      "publisher": "finlex",
+      "title": "8 § Erityiset rehuaineet",
+      "text": "Erityisten rehuaineiden tulee olla laadultaan, koostumukseltaan ja muilta ominaisuuksiltaan sellaisia, että niillä on typpi- tai valkuaislähteenä ravintoarvoa eläimelle. Valmistaa, saattaa markkinoille, käyttää rehuseosten valmistukseen tai eläinten ruokintaan sekä tuoda saa vain erityisiä rehuaineita, jotka Euroopan yhteisö on hyväksynyt. Tarkempia säännöksiä erityisten rehuaineiden hyväksymisen edellytyksistä, hyväksyntämenettelystä ja käyttöä koskevista erityisedellytyksistä annetaan maa- ja metsätalousministeriön asetuksella sen mukaan kuin niistä säädetään Euroopan yhteisön rehulainsäädännössä.",
+      "section_number": "8",
+      "chapter_number": 2,
+      "statute_id": "62/2006"
+    },
+    {
+      "id": "8a94b82a-0906-491d-8610-4f4d7fabe7f3",
+      "node_type": "Section",
+      "publisher": "finlex",
+      "title": "9 § Erityisravinnoksi tarkoitetut rehut",
+      "text": "Erityisravinnoksi tarkoitettujen rehujen tulee olla laadultaan, koostumukseltaan ja muilta ominaisuuksiltaan eläinten erityisiin ravitsemuksellisiin tarpeisiin soveltuvia. Valmistaa, saattaa markkinoille, käyttää rehuseosten valmistukseen tai eläinten ruokintaan sekä tuoda saa vain erityisravinnoksi tarkoitettuja rehuja, jotka Euroopan yhteisö on hyväksynyt. Tarkempia säännöksiä erityisravinnoksi tarkoitettujen rehujen hyväksymisen edellytyksistä annetaan maa- ja metsätalousministeriön asetuksella sen mukaan kuin niistä säädetään Euroopan yhteisön rehulainsäädännössä.",
+      "section_number": "9",
+      "chapter_number": 2,
+      "statute_id": "62/2006"
+    },
+    {
+      "id": "fd418398-2da1-4921-90db-c09e8989fa72",
+      "node_type": "Section",
+      "publisher": "finlex",
+      "title": "10 § Rehun lisäaineet",
+      "text": "EY:n lisäaineasetuksen soveltamisalaan kuuluvien lisäaineiden markkinoille saattamisesta säädetään EY:n lisäaineasetuksessa. Tarkempia säännöksiä EY:n lisäaineasetuksen 25 artiklan 1 kohdan jälkimmäisessä osassa tarkoitettujen lisäaineiden markkinoille saattamisesta ja käyttöä koskevista erityisedellytyksistä annetaan maa- ja metsätalousministeriön asetuksella sen mukaan kuin EY:n lisäaineasetuksessa säädetään.",
+      "section_number": "10",
+      "chapter_number": 2,
+      "statute_id": "62/2006"
+    },
+    {
+      "id": "1ebbf491-0113-44e3-a0d0-28804630451c",
+      "node_type": "Section",
+      "publisher": "finlex",
+      "title": "11 § Muuntogeeniset rehut",
+      "text": "Gm-elintarvike- ja rehuasetuksen ja gmo-jäljitettävyysasetuksen soveltamisalaan kuuluvien rehujen markkinoille saattamisesta säädetään gm-elintarvike- ja rehuasetuksessa ja gmo-jäljitettävyysasetuksessa. Tarkempia säännöksiä gm-elintarvike- ja rehuasetuksen edellyttämistä kansallisesta yhteysviranomaisesta, muuntogeenisten rehujen turvallisuusarvioinnista sekä muuntogeenisten rehujen hyväksymistä koskevan kansallisen kannan muodostamisesta annetaan valtioneuvoston asetuksella.",
+      "section_number": "11",
+      "chapter_number": 2,
+      "statute_id": "62/2006"
+    },
+    {
+      "id": "0b04c147-fad3-4c27-bed9-9e369816f2ad",
+      "node_type": "Section",
+      "publisher": "finlex",
+      "title": "12 § Rehuseokset",
+      "text": "Rehuseosten tulee olla laadultaan, koostumukseltaan ja muilta ominaisuuksiltaan sellaisia, että ne soveltuvat eläinten ruokintaan. Rehuseos saa sisältää vain 7―11 §:ssä tarkoitettuja, sille säädetyt vaatimukset täyttäviä rehuja.",
+      "section_number": "12",
+      "chapter_number": 2,
+      "statute_id": "62/2006"
+    },
+    {
+      "id": "3e48b6d7-7826-448e-980d-998fe5ee10e0",
+      "node_type": "Section",
+      "publisher": "finlex",
+      "title": "13 § Lääkerehut",
+      "text": "Lääkerehun valmistukseen saa käyttää vain lääkettä, joka on hyväksytty Euroopan yhteisön keskitetyllä menettelyllä tai jolle Lääkelaitos on lääkelain nojalla myöntänyt myyntiluvan tai muun kulutukseen luovuttamisluvan. Lääkerehuja valmistavan ja markkinoille saattavan on pidettävä lääkerehun valmistukseen ja luovutukseen liittyvistä tiedoista tiedostoa. Lääkerehut on varastoitava, pakattava ja kuljetettava asianmukaisesti. Valmistaja ja jälleenmyyjä saavat luovuttaa lääkerehua vain eläinlääkärin kirjoittaman lääkerehumääräyksen perusteella eläimen omistajalle tai haltijalle. Sen lisäksi, mitä 1―3 momentissa säädetään, lääkerehuihin sovelletaan rehuseoksia koskevia säännöksiä. Tarkempia säännöksiä lääkerehun valmistusta koskevista vaatimuksista, valmistusta ja luovutusta koskevasta kirjanpidosta, toiminnan järjestämisestä, lääkerehun määräämisestä ja luovutuksesta sekä tuonnista annetaan maa- ja metsätalousministeriön asetuksella.",
+      "section_number": "13",
+      "chapter_number": 2,
+      "statute_id": "62/2006"
+    },
+    {
+      "id": "f4ae7c6e-328a-491b-95d3-da498c9271d8",
+      "node_type": "Section",
+      "publisher": "finlex",
+      "title": "14 § Rehusta annettavia tietoja koskevat yleiset vaatimukset",
+      "text": "Rehun tuoteselosteessa, pakkauksessa, esitteessä, mainoksessa tai muuten markkinoinnin yhteydessä rehusta on annettava totuudenmukaiset ja riittävät tiedot.",
+      "section_number": "14",
+      "chapter_number": 2,
+      "statute_id": "62/2006"
+    },
+    {
+      "id": "a9517845-6025-4660-80ba-dd3b707e2ab9",
+      "node_type": "Section",
+      "publisher": "finlex",
+      "title": "15 § Rehujen merkintä- ja pakkausvaatimukset",
+      "text": "Rehun tuoteselosteessa on annettava tiedot rehun käyttötarkoituksesta, tyypistä, määrästä, koostumuksesta, ominaisuuksista sekä tuoteselosteen tiedoista vastaavasta toimijasta siten kuin Euroopan yhteisön rehulainsäädännössä edellytetään. Jollei Euroopan yhteisön rehulainsäädännöstä muuta johdu, rehuista voidaan antaa myös muita tietoja, jos ne ovat yksiselitteisiä sekä mitattavissa ja perusteltavissa. Tuoteseloste on painettava tai kiinnitettävä rehun pakkaukseen tai säiliöön. Tuoteseloste on annettava myös pakkaamattomana toimitettavan rehun mukana ja sen tulee olla helposti saatavilla valvontaa varten. Tiedoista, jotka tuoteselosteessa on oltava, säädetään lisäksi EY:n lisäaineasetuksessa, TSE-asetuksessa, gm-elintarvike- ja rehuasetuksessa, gmo-jäljitettävyysasetuksessa sekä sivutuoteasetuksessa. Rehujen on oltava turvallisesti ja tuotteen ominaisuudet huomioon ottaen asianmukaisesti pakattuja. Tarkempia säännöksiä tuoteselosteesta ja siinä ilmoitettavista tiedoista, ominaisuuksien sallituista poikkeamista sekä pakkausvaatimuksista annetaan maa- ja metsätalousministeriön asetuksella.",
+      "section_number": "15",
+      "chapter_number": 2,
+      "statute_id": "62/2006"
+    },
+    {
+      "id": "abb62793-ff7d-4fe0-8be5-0aa75b92b3d0",
+      "node_type": "Section",
+      "publisher": "finlex",
+      "title": "16 § Tilapäiset rajoitukset",
+      "text": "Jos on perusteltua syytä olettaa, että rehu voi aiheuttaa vakavaa vaaraa ihmisten tai eläinten terveydelle taikka ympäristölle, maa- ja metsätalousministeriön asetuksella voidaan tilapäisesti kieltää rehun valmistus, markkinoille saattaminen, käyttö, tuonti tai vienti taikka rajoittaa niitä sekä määrätä kielletyt rehut poistettaviksi markkinoilta tai alkutuotantopaikkojen ja muiden rehun hallussapitäjien varastoista. Asetuksessa voidaan lisäksi säätää, että Elintarviketurvallisuusvirasto voi yksittäistapauksessa myöntää luvan poiketa mainitussa asetuksessa säädetyistä kielloista ja rajoituksista, jos voidaan varmistua siitä, että luvan kohteena oleva rehu ei aiheuta vaaraa ihmisten tai eläinten terveydelle taikka ympäristölle. Tällöin asetuksessa on lisäksi annettava tarkemmat säännökset luvan myöntämisen edellytyksistä.",
+      "section_number": "16",
+      "chapter_number": 2,
+      "statute_id": "62/2006"
+    },
+    {
+      "id": "105f16aa-81ab-49d8-8c77-3de1701f278a",
+      "node_type": "Section",
+      "publisher": "finlex",
+      "title": "17 § Toiminnan järjestäminen",
+      "text": "Rehualan toimija on velvollinen järjestämään toimintansa siten, että toiminnalle ja rehuille Euroopan yhteisön rehulainsäädännössä sekä tässä laissa ja sen nojalla säädetyt vaatimukset täyttyvät. Rehualan toimijoiden vastuusta rehujen turvallisuudesta säädetään myös yleisen elintarvikeasetuksen 17 artiklan 1 kohdassa. Rehualan toimijan velvollisuudesta järjestää toimintansa laadunvarmistus säädetään rehuhygienia-asetuksen 5―7 artiklassa. Rehualan toimijalla on oltava rehujen tuotanto-, valmistus- ja jakeluvaiheissa asianmukaiset tilat, laitteet ja kalusto. Rehujen käsittelyssä, käytössä, kuljetuksessa ja varastoinnissa on noudatettava riittävää huolellisuutta ja varovaisuutta terveys-, turvallisuus- ja ympäristöhaittojen ehkäisemiseksi. Tarkempia säännöksiä rehujen käsittely-, käyttö-, kuljetus- ja varastointivaatimuksista sekä toimijoiden toiminnan laadunvarmistuksesta ja laadunvarmistuksessa tehtävistä tutkimuksista voidaan antaa maa- ja metsätalousministeriön asetuksella.",
+      "section_number": "17",
+      "chapter_number": 3,
+      "statute_id": "62/2006"
+    },
+    {
+      "id": "e1dcf3f8-2585-41ed-ab4b-ec0c562212e4",
+      "node_type": "Section",
+      "publisher": "finlex",
+      "title": "18 § Ilmoitusvelvollisuus",
+      "text": "Rehualan toimijan on tehtävä Elintarviketurvallisuusvirastolle kirjallinen ilmoitus toiminnastaan ja sen olennaisista muutoksista sekä toiminnan lopettamisesta rekisteröintiä varten siten kuin rehuhygienia-asetuksen 9 artiklassa säädetään. Rehualan toimijaksi voi rekisteröityä myös tilatukijärjestelmän täytäntöönpanosta annetun lain (557/2005) tai eläinten rekisteröintiin sovellettavan lain taikka muun vastaavan lain mukaisessa hakemusmenettelyssä. Ilmoitusvelvollisuus ei kuitenkaan koske rehualan toimijoita, jotka yksinomaan toimittavat pieniä määriä tuottamiaan alkutuotannon tuotteita suoraan paikalliselle maatilalle siellä edelleen käytettäviksi. Ilmoitukseen on liitettävä seuraavat tiedot: Edellä 1 momentissa tarkoitetun rehualan toimijan on ilmoitettava kerran vuodessa Elintarviketurvallisuusvirastolle sen pyytämällä tavalla tiedot rehujen valmistusmääristä, valmistukseen käytetyistä rehuista ja näiden alkuperästä, markkinoille saatetuista, tuoduista ja viedyistä rehuista sekä niiden määristä. Tarkempia säännöksiä ilmoitettavista tiedoista ja ilmoitusmenettelystä voidaan antaa maa- ja metsätalousministeriön asetuksella.",
+      "section_number": "18",
+      "chapter_number": 3,
+      "statute_id": "62/2006"
+    },
+    {
+      "id": "c229886b-cd27-494a-807e-973fedd73192",
+      "node_type": "Section",
+      "publisher": "finlex",
+      "title": "19 § Tietojen kirjaamista ja jäljitettävyyttä koskevat vaatimukset",
+      "text": "Rehualan toimijan on pidettävä toimintaansa liittyvistä tiedoista tiedostoa, josta tarvittaessa voidaan selvittää valvontaa ja rehujen jäljitettävyyttä varten tarpeelliset tiedot. Velvollisuudesta kirjata tietoja säädetään myös yleisen elintarvikeasetuksen 18 artiklan 2 ja 3 kohdassa, rehuhygienia-asetuksen liitteissä I ja II sekä sivutuoteasetuksen liitteessä II. Velvollisuus kirjaamiseen koskee tietoja, joiden avulla rehu voidaan jäljittää sekä tuotantopanosten käyttöä ja tuotantoprosessien hallintaa seurata. Tarkempia säännöksiä tiedoston sisällöstä ja järjestämisestä voidaan antaa maa- ja metsätalousministeriön asetuksella.",
+      "section_number": "19",
+      "chapter_number": 3,
+      "statute_id": "62/2006"
+    },
+    {
+      "id": "3f03af62-1fc3-4d13-a2fa-238fe928c95e",
+      "node_type": "Section",
+      "publisher": "finlex",
+      "title": "20 § Rehualan toimijan hyväksyminen",
+      "text": "Rehualan toimijan on ennen toiminnan aloittamista haettava toiminnalleen Elintarviketurvallisuusviraston hyväksyminen, jos tarkoituksena on harjoittaa rehuhygienia-asetuksen 10 artiklassa tarkoitettua toimintaa, TSE-asetuksen liitteessä IV tarkoitettua hyväksyntää edellyttävää toimintaa taikka lääkerehujen valmistusta tai niiden markkinoille saattamista. Rehuhygienia-asetuksen ja TSE-asetuksen mukaisista hyväksymisen edellytyksistä säädetään rehuhygienia-asetuksen 13 artiklassa ja TSE-asetuksen liitteessä IV. Hyväksymistä koskevaan hakemukseen on liitettävä seuraavat tiedot: Myös hyväksytyn laitoksen harjoittaman toiminnan olennaisen muutoksen on oltava hyväksytty ennen muutetun toiminnan aloittamista. Toimijan on varattava valvontaviranomaiselle tilaisuus tarkastuksen suorittamiseen tuotantoyksiköissään ja muissa toimitiloissaan ennen toiminnan aloittamista. Rehualan toimija on hyväksyttävä, jos rehuhygienia-asetuksessa ja TSE-asetuksessa säädetyt vaatimukset täyttyvät. Hyväksyminen voidaan antaa ehdollisena rehuhygienia-asetuksen 13 artiklan 2 kohdan mukaisesti. Hyväksytylle toimijalle voidaan ihmisten tai eläinten terveydelle taikka ympäristölle aiheutuvien vaarojen ennaltaehkäisemiseksi asettaa toimintaa koskevia vaatimuksia, rajoituksia ja muita ehtoja. Tarkempia säännöksiä toimijan hyväksymistä koskevassa hakemuksessa annettavien tietojen sisällöstä ja hakemusmenettelystä annetaan maa- ja metsätalousministeriön asetuksella.",
+      "section_number": "20",
+      "chapter_number": 3,
+      "statute_id": "62/2006"
+    },
+    {
+      "id": "1efe923f-0f19-4be7-9c76-f7c434090288",
+      "node_type": "Section",
+      "publisher": "finlex",
+      "title": "21 § Rehualan toimijan tiedonantovelvollisuus",
+      "text": "Jos rehualan toimijalla on syytä epäillä, että sen markkinoille saattama tai käyttämä rehu ei täytä rehujen turvallisuutta koskevia vaatimuksia, siitä on välittömästi ilmoitettava Elintarviketurvallisuusvirastolle. Tarkempia säännöksiä ilmoituksen tekemisestä annetaan maa- ja metsätalousministeriön asetuksella. Määräysten vastaisen rehun markkinoilta poistamisesta säädetään yleisen elintarvikeasetuksen 20 artiklassa.",
+      "section_number": "21",
+      "chapter_number": 3,
+      "statute_id": "62/2006"
+    },
+    {
+      "id": "b4efdac0-11cf-41f4-8ff2-5d5d48c27a45",
+      "node_type": "Section",
+      "publisher": "finlex",
+      "title": "22 § Yleinen ohjaus ja valvonta",
+      "text": "Euroopan yhteisön rehulainsäädännön ja tämän lain täytäntöönpanon yleinen ohjaus ja valvonta kuuluvat maa- ja metsätalousministeriölle.",
+      "section_number": "22",
+      "chapter_number": 4,
+      "statute_id": "62/2006"
+    },
+    {
+      "id": "b6620b2b-85dc-4282-bbbc-f4bdff2d4ddc",
+      "node_type": "Section",
+      "publisher": "finlex",
+      "title": "23 § Valvontaviranomaiset",
+      "text": "Elintarviketurvallisuusvirasto suunnittelee, ohjaa, kehittää ja suorittaa valtakunnallista rehuvalvontaa siten kuin tässä laissa säädetään sekä huolehtii tiedottamisesta. Elintarviketurvallisuusvirasto käyttää valvonnassa apunaan työvoima- ja elinkeinokeskuksia. Lääninhallitukset valvovat Elintarviketurvallisuusviraston ohella lääkerehuja. Tullilaitos valvoo Elintarviketurvallisuusviraston ohella rehujen maahantuontia ja maastavientiä sekä kuljetusta Suomen kautta tullaamatta. Rajaeläinlääkärit huolehtivat tämän lain mukaisesta valvonnasta eläinlääkinnällisissä rajatarkastuksissa.",
+      "section_number": "23",
+      "chapter_number": 4,
+      "statute_id": "62/2006"
+    },
+    {
+      "id": "1fb0433c-1ed0-4077-a26f-e3720f7aed6b",
+      "node_type": "Section",
+      "publisher": "finlex",
+      "title": "24 § Valtuutetut tarkastajat",
+      "text": "Sen lisäksi, mitä 23 §:ssä säädetään, Elintarviketurvallisuusvirasto voi käyttää valvonnassa apunaan tehtävään kirjallisesti valtuuttamiaan tarkastajia, jotka toimivat tehtävässään Elintarviketurvallisuusviraston valvonnassa. Tarkastajaan sovelletaan rikosoikeudellista virkavastuuta koskevia säännöksiä hänen suorittaessaan tämän lain mukaisia tehtäviä. Tarkastajan tehtäviä hoidettaessa aiheutettuun vahinkoon sovelletaan, mitä vahingonkorvauslaissa (412/1974) säädetään. Tarkastajalla tulee olla tehtävänsä hoitamiseksi riittävä rehuja koskeva tai muu lain noudattamisen valvonnan kannalta tarvittava ammattitaito. Valtuutettuun tarkastajaan sovelletaan hänen suorittaessan tämän pykälän mukaisia tehtäviä, mitä hallintolaissa (434/2003), kielilaissa (423/2003) ja saamen kielilaissa (1086/2003) säädetään. Valtuutetulle tarkastajalle annettujen ja tarkastajan laatimien asiakirjojen julkisuudesta, tarkastajan vaitiolovelvollisuudesta ja asiakirjan julkisuuden toteuttamisesta säädetään viranomaisten toiminnan julkisuudesta annetussa laissa (621/1999). Valtuutetun tarkastajan tulee rehualan toimijan niin vaatiessa esittää kirjallinen selvitys valtuutuksestaan.",
+      "section_number": "24",
+      "chapter_number": 4,
+      "statute_id": "62/2006"
+    },
+    {
+      "id": "e944dde2-d070-401e-bbf5-f0753da10802",
+      "node_type": "Section",
+      "publisher": "finlex",
+      "title": "25 § Näytteiden tutkiminen",
+      "text": "Valvontaviranomaisen tämän lain mukaista valvontaa varten ottamat tai otattamat näytteet (viranomaisnäyte) on tutkittava viranomaisnäytteitä tutkimaan hyväksytyssä laboratoriossa taikka kansallisessa vertailulaboratoriossa.",
+      "section_number": "25",
+      "chapter_number": 5,
+      "statute_id": "62/2006"
+    },
+    {
+      "id": "889647f9-e8ef-416f-999e-c1f446206ddc",
+      "node_type": "Section",
+      "publisher": "finlex",
+      "title": "26 § Kansalliset vertailulaboratoriot",
+      "text": "Maa- ja metsätalousministeriö nimeää kansalliset vertailulaboratoriot ja määrää niiden tehtävät. Kansallisia vertailulaboratorioita koskevista vaatimuksista ja laboratorioiden tehtävistä säädetään valvonta-asetuksen 33 artiklassa.",
+      "section_number": "26",
+      "chapter_number": 5,
+      "statute_id": "62/2006"
+    },
+    {
+      "id": "97dee58d-a834-44d3-a0a7-d7bf6c39f093",
+      "node_type": "Section",
+      "publisher": "finlex",
+      "title": "27 § Hyväksytyt laboratoriot",
+      "text": "Elintarviketurvallisuusvirasto hyväksyy viranomaisnäytteitä tutkivan laboratorion hakemuksesta. Laboratoriolla voi olla myös liikkuva toimintayksikkö. Hyväksyttävällä laboratoriolla on oltava kirjallinen laadunvarmistusjärjestelmä, laboratorion on oltava teknisesti pätevä, ja sen tulee pystyä tuottamaan luotettavia tuloksia. Laboratorion henkilökunnalla on oltava tehtävän edellyttämä koulutus ja pätevyys. Viranomaisnäytteitä tutkivan laboratorion tulee lisäksi täyttää valvonta-asetuksen 12 artiklan 2 kohdassa säädetyt vaatimukset. Hyväksyminen voidaan antaa määräajaksi. Hyväksytylle laboratoriolle voidaan ihmisten tai eläinten terveydelle taikka ympäristölle aiheutuvien vaarojen ennaltaehkäisemiseksi asettaa toimintaa koskevia vaatimuksia, rajoituksia ja muita ehtoja. Tarkempia säännöksiä laboratorioiden laadunvarmistusjärjestelmille asetettavista vaatimuksista ja muista laboratorioiden hyväksymisen vaatimuksista sekä laboratorioiden henkilökunnan pätevyysvaatimuksista voidaan antaa maa- ja metsätalousministeriön asetuksella.",
+      "section_number": "27",
+      "chapter_number": 5,
+      "statute_id": "62/2006"
+    },
+    {
+      "id": "4129c1fa-30c2-4f4f-af09-e1c8343248b9",
+      "node_type": "Section",
+      "publisher": "finlex",
+      "title": "28 § Laboratorioiden ilmoitusvelvollisuus",
+      "text": "Rehualan toimijan käyttämän laadunvarmistuslaboratorion ja hyväksytyn laboratorion on ilmoitettava eläimen ja ihmisten välillä mahdollisesti suoraan tai välillisesti siirtyvien tautien tai tartuntojen (zoonoosien) seurantaan ja valvontaan liittyvistä tutkimuksista ja niiden tuloksista Elintarviketurvallisuusvirastolle sekä toimitettava tutkimuksissa eristetyt mikrobikannat kansalliseen vertailulaboratorioon. Hyväksytyn laboratorion on ilmoitettava viipymättä Elintarviketurvallisuusvirastolle toiminnan olennaisesta muuttamisesta, toiminnan keskeyttämisestä ja toiminnan lopettamisesta. Hyväksytyn laboratorion on Elintarviketurvallisuusviraston pyynnöstä toimitettava sille yhteenveto tekemistään 25 §:ssä tarkoitetuista tutkimuksista ja niiden tuloksista. Kansallisen vertailulaboratorion on pyydettäessä ilmoitettava Elintarviketurvallisuusvirastolle ja Kansanterveyslaitokselle epidemiologista seurantaa varten tarvittavat tiedot sekä Elintarviketurvallisuusvirastolle lisäksi valvonnan ohjausta varten tarvittavat tiedot 1 momentissa tarkoitetuista mikrobikannoista. Kansanterveyslaitokselle toimitettavat tiedot eivät saa sisältää valvontakohteiden tunnistetietoja. Tarkempia säännöksiä ilmoitusten ja yhteenvetojen sisällöstä ja toimittamisesta sekä mikrobikantojen säilyttämisestä ja lähettämisestä annetaan maa- ja metsätalousministeriön asetuksella.",
+      "section_number": "28",
+      "chapter_number": 5,
+      "statute_id": "62/2006"
+    },
+    {
+      "id": "99e3283e-840b-4fea-9e9c-04a0f39a6a53",
+      "node_type": "Section",
+      "publisher": "finlex",
+      "title": "29 § Valvonnan järjestäminen",
+      "text": "Rehuja ja rehualan toimijoita on valvottava tasapuolisesti ja säännöllisesti. Valvontaa on tehostettava, jos on epäiltävissä, että rehu tai rehualan toimijan toiminta ei täytä Euroopan yhteisön rehulainsäädännössä taikka tässä laissa tai sen nojalla säädettyjä tai määrättyjä vaatimuksia. Valvontatoimenpiteiden on oltava tarkoituksenmukaisia ja ne on sopivalla tavalla kohdistettava kaikkiin rehujen tuotanto-, valmistus- ja jakeluvaiheisiin alkutuotannosta markkinoille saattamiseen ja käyttöön. Valvontaviranomaisen on tarvittaessa neuvottava rehualan toimijaa Euroopan yhteisön rehulainsäädännön ja tämän lain sekä sen nojalla säädettyjen vaatimusten noudattamisesta. Tarkempia säännöksiä valvonnan järjestämisestä voidaan antaa maa- ja metsätalousministeriön asetuksella. Valvonnan järjestämisestä säädetään lisäksi rehujen valvontaa, turvallisuutta ja terveydellistä laatua sekä rehuhygieniaa koskevassa Euroopan yhteisön lainsäädännössä.",
+      "section_number": "29",
+      "chapter_number": 6,
+      "statute_id": "62/2006"
+    },
+    {
+      "id": "7ea72f87-1fb0-44bc-9f3c-d61d5ead8580",
+      "node_type": "Section",
+      "publisher": "finlex",
+      "title": "30 § Laboratorioiden valvonta",
+      "text": "Elintarviketurvallisuusvirasto valvoo, että 25 §:ssä tarkoitettuja tutkimuksia tekevät laboratoriot noudattavat tätä lakia ja sen nojalla annettuja säännöksiä.",
+      "section_number": "30",
+      "chapter_number": 6,
+      "statute_id": "62/2006"
+    },
+    {
+      "id": "c87d393a-4249-4ff7-87d6-9e380eca0cd1",
+      "node_type": "Section",
+      "publisher": "finlex",
+      "title": "31 § Saapumisilmoitukset sisämarkkinakaupassa",
+      "text": "Toisesta Euroopan unionin jäsenvaltiosta Suomeen toimitettavasta rehuerästä, joka voi aiheuttaa vaaraa ihmisten tai eläinten terveydelle taikka ympäristölle (erityisen riskialtis rehu), on rehualan toimijan ilmoitettava Elintarviketurvallisuusvirastolle ennen erän tuontia Suomeen. Suomeen toimitettavaa rehua voidaan valvontaviranomaisen määräyksestä säilyttää valvontaviranomaisen hyväksymässä paikassa, kunnes valvontaviranomainen on antanut luvan rehun markkinoille saattamiseen. Valvontaviranomainen voi antaa luvan vasta saatuaan riittävän selvityksen siitä, että Euroopan yhteisön rehulainsäädännössä sekä tässä laissa ja sen nojalla säädetyt ja määrätyt vaatimukset täyttyvät. Maa- ja metsätalousministeriön asetuksella annetaan tarkemmat säännökset erityisen riskialttiiden rehujen arvioinnin perusteista sekä siitä, milloin ja miten rehualan toimijan on tehtävä saapumisilmoitus rehuerästä Elintarviketurvallisuusvirastolle ja mitä tietoja rehusta on ilmoitettava.",
+      "section_number": "31",
+      "chapter_number": 6,
+      "statute_id": "62/2006"
+    },
+    {
+      "id": "209e63e1-3fa0-4f6a-8d6e-009af0c0ef77",
+      "node_type": "Section",
+      "publisher": "finlex",
+      "title": "32 § Ennakkoilmoitukset maahantuotavasta rehusta",
+      "text": "Maahantuotavista, valvonta-asetuksen 15 artiklan 5 kohdassa ja 17 artiklan 1 kohdassa tarkoitetuista rehueristä on rehualan toimijan ennen erän vastaanottamista ilmoitettava Elintarviketurvallisuusvirastolle. Maahantuotavaa rehua voidaan valvontaviranomaisen määräyksestä säilyttää tullin valvonnassa valvontaviranomaisten hyväksymässä paikassa, kunnes valvontaviranomainen on saanut riittävän selvityksen siitä, että Euroopan yhteisön rehulainsäädännössä sekä tässä laissa ja sen nojalla säädetyt ja määrätyt vaatimukset täyttyvät. Maa- ja metsätalousministeriön asetuksella voidaan antaa tarkemmat säännökset siitä, mitä rehuja ennakkoilmoitusvelvollisuus koskee, mitä tietoja kustakin rehusta tulee ilmoittaa, milloin ja miten rehualan toimijan on tehtävä ennakkoilmoitus maahantuotavasta rehuerästä Elintarviketurvallisuusvirastolle sekä miten maahantuontitarkastus tulee suorittaa.",
+      "section_number": "32",
+      "chapter_number": 6,
+      "statute_id": "62/2006"
+    },
+    {
+      "id": "dbf4ca60-fbe6-454a-be87-5b20c1eb4597",
+      "node_type": "Section",
+      "publisher": "finlex",
+      "title": "33 § Valvontasuunnitelma",
+      "text": "Elintarviketurvallisuusviraston on laadittava valvonta-asetuksen 42 artiklassa tarkoitettu monivuotinen kansallinen valvontasuunnitelma, jossa kuvataan rehuvalvontaan liittyvien järjestelmien rakenteet ja organisaatiot sekä valvonnan strategiset tavoitteet, tärkeysjärjestykseen asettaminen ja yleinen järjestäminen. Monivuotisen kansallisen valvontasuunnitelman lisäksi Elintarviketurvallisuusviraston on laadittava vuosittainen valvontasuunnitelma rehuvalvonnan järjestämiseksi. Vuosittaisessa valvontasuunnitelmassa on määritettävä suoritettavien tarkastusten sisältö sekä valvontakohteiden tarkastustiheys. Lisäksi suunnitelmassa on esitettävä valvontakohteiden riskinarvioinnin ja suunnitelman toteutumisen arvioinnin perusteet. Tarkempia säännöksiä valvontasuunnitelmista ja niiden sisällöstä voidaan antaa maa- ja metsätalousministeriön asetuksella.",
+      "section_number": "33",
+      "chapter_number": 6,
+      "statute_id": "62/2006"
+    },
+    {
+      "id": "a9c1fe9a-abd7-4376-8a44-998bced22d3c",
+      "node_type": "Section",
+      "publisher": "finlex",
+      "title": "34 § Tarkastus- ja tiedonsaantioikeus",
+      "text": "Valvontaviranomaisella ja valtuutetuilla tarkastajilla on oikeus valvontaa varten toteuttaa tässä laissa ja Euroopan yhteisön lainsäädännössä säädettyjä toimenpiteitä, päästä paikkoihin, joissa rehuja ja niitä koskevia asiakirjoja käsitellään, käytetään tai säilytetään, tarkastaa kuljetusvälineitä, rehualan toimijan kirjanpitoa ja 19 §:ssä tarkoitettua tiedostoa sekä ottaa maksutta tarpeellisia näytteitä rehuista. Kotirauhan piirissä tarkastuksen saa tehdä vain viranomainen, ja tarkastus saadaan toimittaa vain, jos se on välttämätöntä tarkastuksen kohteena olevien seikkojen selvittämiseksi ja on perusteltua syytä epäillä jonkun syyllistyneen tässä laissa rangaistavaksi säädettyyn menettelyyn ja tarkastus on välttämätön rikoksen selvittämiseksi. Valvontaviranomaisella sekä valtuutetuilla tarkastajilla on oikeus saada tässä laissa ja Euroopan yhteisön lainsäädännössä säädettyä tarkastusta ja valvontaa varten välttämättömät tiedot ja asiakirjat rehualan toimijalta. Rehualan toimijan on pyydettäessä annettava valvontaviranomaiselle ja valtuutetuille tarkastajille kaikki tarkastusta ja valvontaa varten välttämättömät tiedot. Mitä 1 ja 2 momentissa säädetään Suomen viranomaisten tarkastus- ja tiedonsaantioikeudesta, koskee myös Euroopan yhteisön tarkastajia. Valvontaviranomaisen on näissä tarkastuksissa toimittava yhteistyössä Euroopan yhteisön tarkastajien kanssa. Tarkempia säännöksiä tarkastus- ja valvontamenettelystä sekä näytteiden ottamisesta ja tutkimisesta voidaan antaa maa- ja metsätalousministeriön asetuksella.",
+      "section_number": "34",
+      "chapter_number": 6,
+      "statute_id": "62/2006"
+    },
+    {
+      "id": "e8512f0c-fa6a-4195-a956-664efa20a117",
+      "node_type": "Section",
+      "publisher": "finlex",
+      "title": "35 § Salassa pidettävien tietojen luovuttaminen",
+      "text": "Valvonnassa saadut tiedot ovat salassa pidettäviä siten kuin viranomaisten toiminnan julkisuudesta annetussa laissa ja valvonta-asetuksen 7 artiklassa säädetään. Sen lisäksi, mitä viranomaisten toiminnan julkisuudesta annetussa laissa säädetään, valvonnassa saatuja tietoja saa salassapitosäännösten estämättä luovuttaa:",
+      "section_number": "35",
+      "chapter_number": 6,
+      "statute_id": "62/2006"
+    },
+    {
+      "id": "8566bab2-fc0c-4b0e-a94d-221834d24a78",
+      "node_type": "Section",
+      "publisher": "finlex",
+      "title": "36 § Valvontarekisteri",
+      "text": "Elintarviketurvallisuusvirasto pitää valvontaa varten valtakunnallista rekisteriä 18 §:ssä tarkoitetuista ilmoitusvelvollisista rehualan toimijoista ja 27 §:ssä tarkoitetuista hyväksytyistä laboratorioista.",
+      "section_number": "36",
+      "chapter_number": 6,
+      "statute_id": "62/2006"
+    },
+    {
+      "id": "bd59810d-3fed-4189-97af-84f7ee46a97b",
+      "node_type": "Section",
+      "publisher": "finlex",
+      "title": "37 § Valvontarekisteriin merkittävät tiedot",
+      "text": "Rehualan toimijasta valvontarekisteriin merkitään: Hyväksytyistä laboratorioista valvontarekisteriin merkitään: Elintarviketurvallisuusvirasto julkaisee 1 ja 2 momentissa tarkoitettujen tietojen perusteella rehualan toimijoita ja laboratorioita koskevan luettelon. Tiedot poistetaan rekisteristä kymmenen vuoden kuluttua siitä, kun toimija on ilmoittanut valvontaviranomaiselle toimintansa loppumisesta, tai siitä, kun toiminta on loppunut. Rekisterimerkintä rangaistuksesta poistetaan kuitenkin, kun rangaistukseen tuomitsemisen syynä olleen teon rangaistavuus on poistettu. Jos rekisteriin merkitty tieto perustuu päätökseen, joka ei ole vielä lainvoimainen ja päätös sittemmin kumotaan, on tieto poistettava välittömästi kumoamista koskevan päätöksen saatua lainvoiman. Henkilötietojen käsittelyyn sovelletaan muutoin, mitä henkilötietolaissa (523/1999) ja viranomaisten toiminnan julkisuudesta annetussa laissa säädetään. Tarkemmat säännökset rehualan toimijoiden rekisteriin merkitsemisestä voidaan antaa maa- ja metsätalousministeriön asetuksella.",
+      "section_number": "37",
+      "chapter_number": 6,
+      "statute_id": "62/2006"
+    },
+    {
+      "id": "d2e45853-6e07-41f9-8344-f0b12376669f",
+      "node_type": "Section",
+      "publisher": "finlex",
+      "title": "38 § Valvontaviranomaisen ja valtuutetun tarkastajan tiedonantovelvollisuus",
+      "text": "Jos valvontaviranomainen tai valtuutettu tarkastaja tietää tai tällä on syytä epäillä, että rehu tai sen käyttö voi aiheuttaa vaaraa ihmisten tai eläinten terveydelle taikka ympäristölle, on valvontaviranomaisen ja valtuutetun tarkastajan salassapitosäännösten estämättä ilmoitettava tästä välittömästi toimivaltaiselle ympäristö-, elintarvike-, eläinlääkintä- tai terveydensuojeluviranomaiselle. Ilmoitus tulee tehdä aina myös Elintarviketurvallisuusvirastolle. Elintarviketurvallisuusviraston on tehtävä ilmoitus Kansanterveyslaitokselle, jos rehu tai sen käyttö voi aiheuttaa vaaraa ihmisen terveydelle. Valvontaviranomainen tai valtuutettu tarkastaja on velvollinen ilmoittamaan Elintarviketurvallisuusvirastolle tämän 36 §:n nojalla ylläpitämään rekisteriin tarvittavat tiedot. Lisäksi valvontaviranomainen on velvollinen pyydettäessä ilmoittamaan Elintarviketurvallisuusvirastolle tarkastuksia, valvontatoimenpiteitä, valvontahenkilöstöä, maksuja ja valvontaa koskevia muita tietoja tämän lain mukaisen valvonnan seurantaa varten. Valvontaviranomaisen ja valtuutetun tarkastajan on toimitettava 1 ja 2 momentissa tarkoitetut tiedot Elintarviketurvallisuusviraston määräämällä tavalla. Tarkempia säännöksiä valvontaviranomaisten ja valtuutettujen tarkastajien ilmoitusvelvollisuudesta voidaan antaa valtioneuvoston asetuksella.",
+      "section_number": "38",
+      "chapter_number": 6,
+      "statute_id": "62/2006"
+    },
+    {
+      "id": "47ad495b-ac3a-4dd9-bfd6-bc0e249df714",
+      "node_type": "Section",
+      "publisher": "finlex",
+      "title": "39 § Valvonnan tulosten julkaiseminen",
+      "text": "Elintarviketurvallisuusvirasto julkaisee valvonnan tulokset. Edellä 35 §:ssä tarkoitettuja salassa pidettäviä tietoja ei kuitenkaan saa julkaista. Tarkempia säännöksiä valvonnan tulosten julkaisemisesta voidaan antaa maa- ja metsätalousministeriön asetuksella.",
+      "section_number": "39",
+      "chapter_number": 6,
+      "statute_id": "62/2006"
+    },
+    {
+      "id": "bce90a9d-2a5b-48ab-b242-44fc25554a10",
+      "node_type": "Section",
+      "publisher": "finlex",
+      "title": "40 § Epäkohdan poistaminen",
+      "text": "Valvontaviranomainen voi määrätä epäkohdan poistettavaksi, jos rehu tai siitä annetut tiedot, rehun tuotanto-, valmistus- tai jakeluvaihe taikka tuotantotilat, alkutuotantopaikka tai niissä harjoitettava toiminta voivat aiheuttaa terveysvaaraa, vaarantaa rehusta annettujen tietojen oikeellisuuden tai riittävyyden taikka johtaa kuluttajaa harhaan tai eivät muutoin vastaa rehulainsäädännön vaatimuksia. Epäkohta on määrättävä poistettavaksi välittömästi tai valvontaviranomaisen asettamassa määräajassa.",
+      "section_number": "40",
+      "chapter_number": 7,
+      "statute_id": "62/2006"
+    },
+    {
+      "id": "b6cb5f36-6edd-496d-b300-35ab7ccc8afe",
+      "node_type": "Section",
+      "publisher": "finlex",
+      "title": "41 § Kielto",
+      "text": "Valvontaviranomainen voi kieltää rehun: Kielto voidaan määrätä vain, jos epäkohdasta voi aiheutua vaaraa ihmisten tai eläinten terveydelle taikka ympäristölle, jos se jatkuu tai toistuu taikka jos se aiheutetaan tahallisesti. Kielto on määrättävä määräaikaisena, jos sen perusteena oleva epäkohta on mahdollista poistaa. Kielto on viipymättä peruutettava, jos sen perusteena oleva epäkohta on poistettu tai jos sillä ei enää kiellon määräämisen kannalta ole merkitystä. Kieltoa on muutoksenhausta huolimatta noudatettava, jollei muutoksenhakuviranomainen kiellä valvontaviranomaisen päätöksen täytäntöönpanoa tai määrää sitä keskeytettäväksi.",
+      "section_number": "41",
+      "chapter_number": 7,
+      "statute_id": "62/2006"
+    },
+    {
+      "id": "438c799d-b997-475e-b398-bad3630cf451",
+      "node_type": "Section",
+      "publisher": "finlex",
+      "title": "42 § Rehun uudelleenkäsittely, hävittäminen ja palauttaminen",
+      "text": "Jos valvontaviranomainen on 41 §:n nojalla määrännyt rehun tuotantoa, valmistusta, käsittelyä, markkinoille saattamista, käyttöä, sisämarkkinakauppaa, maahantuontia tai maastavientiä koskevan kiellon, Elintarviketurvallisuusvirasto voi määrätä rehun hyväksymällään tavalla rehualan toimijan kustannuksella käsiteltäväksi uudelleen, hävitettäväksi, käytettäväksi muuhun tarkoitukseen tai palautettavaksi lähettäjämaahan. Päätökseen voidaan liittää määräyksiä sen täytäntöönpanossa noudatettavasta menettelystä.",
+      "section_number": "42",
+      "chapter_number": 7,
+      "statute_id": "62/2006"
+    },
+    {
+      "id": "b2406c65-99c7-4837-bb6a-d7c0c3aca7a7",
+      "node_type": "Section",
+      "publisher": "finlex",
+      "title": "43 § Rehualan toimijan rekisteröinnin ja hyväksymisen keskeyttäminen, muuttaminen ja peruuttaminen",
+      "text": "Rehualan toimijan rekisteröinnin ja hyväksymisen keskeyttämisestä, muuttamisesta ja peruuttamisesta säädetään rehuhygieniaasetuksen 14―16 artiklassa.",
+      "section_number": "43",
+      "chapter_number": 7,
+      "statute_id": "62/2006"
+    },
+    {
+      "id": "663e606a-8e5d-4b37-8717-5d35c6eb30b4",
+      "node_type": "Section",
+      "publisher": "finlex",
+      "title": "44 § Laboratorion hyväksymisen peruuttaminen",
+      "text": "Elintarviketurvallisuusviraston on peruutettava hyväksytyn laboratorion hyväksyminen, jos laboratorio lopettaa toiminnan, jonka perusteella se on hyväksytty. Lisäksi Elintarviketurvallisuusvirasto voi peruuttaa laboratorion hyväksymisen, jos laboratorio tai siellä harjoitettava toiminta olennaisesti rikkoo tässä laissa tai sen nojalla säädettyjä vaatimuksia eikä laboratorio Elintarviketurvallisuusviraston määräyksestä huolimatta korjaa puutteita kohtuullisessa määräajassa. Hyväksyminen voidaan kuitenkin peruuttaa välittömästi, jos se on ihmisten tai eläinten terveydelle taikka ympäristölle toiminnasta aiheutuvan kohtuuttoman vahingon vuoksi välttämätöntä. Elintarviketurvallisuusvirasto voi peruuttaa laboratorion hyväksymisen myös 2 momentissa tarkoitetun asian käsittelyn vaatimaksi ajaksi, jos puute laboratorion toiminnassa on sellainen, että se voi vaarantaa tutkimustulosten luotettavuuden.",
+      "section_number": "44",
+      "chapter_number": 7,
+      "statute_id": "62/2006"
+    },
+    {
+      "id": "02e4d65e-e7bb-4640-b5ba-40f910ef12f0",
+      "node_type": "Section",
+      "publisher": "finlex",
+      "title": "45 § Uhkasakko ja teettäminen",
+      "text": "Elintarviketurvallisuusvirasto voi tehostaa 40 §:ssä tarkoitettua määräystä, 41 §:ssä tarkoitettua kieltoa taikka 42 §:ssä tarkoitettua uudelleenkäsittelyä, hävittämistä tai palauttamista koskevaa määräystä uhkasakolla tai uhalla, että tekemättä jätetty teetetään laiminlyöjän kustannuksella. Uhkasakkoa, teettämisuhkaa ja teettämistä koskevassa asiassa noudatetaan, mitä uhkasakkolaissa (1113/1990) säädetään.",
+      "section_number": "45",
+      "chapter_number": 7,
+      "statute_id": "62/2006"
+    },
+    {
+      "id": "fc9dd34e-8c00-4551-8068-31def2ac2cfc",
+      "node_type": "Section",
+      "publisher": "finlex",
+      "title": "46 § Rangaistussäännös",
+      "text": "Joka tahallaan tai törkeästä huolimattomuudesta on tuomittava, jollei laiminlyöntiä tai teosta aiheutunutta vaaraa ihmisten tai eläinten terveydelle taikka ympäristölle ole pidettävä vähäisenä taikka jollei teosta muualla laissa säädetä ankarampaa rangaistusta,rehulakirikkomuksestasakkoon.",
+      "section_number": "46",
+      "chapter_number": 7,
+      "statute_id": "62/2006"
+    },
+    {
+      "id": "56141cf3-a8c9-460f-9ad5-626dbaea6da8",
+      "node_type": "Section",
+      "publisher": "finlex",
+      "title": "47 § Rikosilmoituksen tekeminen",
+      "text": "Elintarviketurvallisuusvirasto tekee 23 §:ssä tarkoitettujen viranomaisten ja 24 §:ssä tarkoitettujen valtuutettujen tarkastajien puolesta rikosilmoituksen rehulakirikkomuksesta. Ilmoitus voidaan jättää tekemättä rikkomuksesta, jota on kokonaisuudessaan pidettävä ilmeisen vähäisenä.",
+      "section_number": "47",
+      "chapter_number": 7,
+      "statute_id": "62/2006"
+    },
+    {
+      "id": "58fc58fe-ae2a-4fd4-9d45-d60da69f044d",
+      "node_type": "Section",
+      "publisher": "finlex",
+      "title": "48 § Vahingonkorvausvelvollisuus",
+      "text": "Rehun valmistajan, valmistuttajan ja tuojan on korvattava vahinko, joka rehun ammattikäytössä aiheutuu ostajalle siitä, että rehu ei täytä Euroopan yhteisön rehulainsäädännössä taikka tässä laissa tai tämän lain nojalla säädettyjä vaatimuksia. Korvaus on suoritettava, vaikka vahinkoa ei ole aiheutettu tahallisesti tai huolimattomuudesta. Edellä 1 momentissa tarkoitettua korvausvelvollisuutta ei kuitenkaan ole, jos se, jolta vaaditaan korvausta, saattaa todennäköiseksi, ettei rehussa ollut vahingon aiheuttanutta virhettä silloin, kun hän saattoi rehun markkinoille. Valmistajan, valmistuttajan ja tuojan velvollisuudesta korvata rehusta henkilölle taikka yksityiseen käyttöön tai kulutukseen tarkoitetulle ja vahinkoa kärsineen pääasiassa sellaiseen tarkoitukseen käyttämälle omaisuudelle aiheutunut vahinko säädetään tuotevastuulaissa (694/1990).",
+      "section_number": "48",
+      "chapter_number": 8,
+      "statute_id": "62/2006"
+    },
+    {
+      "id": "ad48bc49-efa6-47ca-93db-c1736344e579",
+      "node_type": "Section",
+      "publisher": "finlex",
+      "title": "49 § Perittävät maksut",
+      "text": "Tämän lain mukaisista viranomaisen suoritteista peritään valtiolle maksuja valtion maksuperustelaissa (150/1992) säädettyjen perusteiden mukaan.",
+      "section_number": "49",
+      "chapter_number": 8,
+      "statute_id": "62/2006"
+    },
+    {
+      "id": "623344e5-e867-43a5-b48d-adca8fd0209c",
+      "node_type": "Section",
+      "publisher": "finlex",
+      "title": "50 § Palkkiot ja kustannusten korvaukset",
+      "text": "Elintarviketurvallisuusvirasto maksaa valtuuttamilleen tarkastajille tämän lain mukaisista tarkastuksista ja näytteenotoista palkkiota ja kustannusten korvauksia.",
+      "section_number": "50",
+      "chapter_number": 8,
+      "statute_id": "62/2006"
+    },
+    {
+      "id": "797d6d69-fbf0-4a5c-813b-ee7cc426134a",
+      "node_type": "Section",
+      "publisher": "finlex",
+      "title": "51 § Muutoksenhaku",
+      "text": "Tämän lain nojalla annettuun päätökseen haetaan muutosta valittamalla hallinto-oikeuteen siten kuin hallintolainkäyttölaissa (586/1996) säädetään. Valtion viranomaisen määräämään maksuun haetaan oikaisua siten kuin valtion maksuperustelaissa säädetään.",
+      "section_number": "51",
+      "chapter_number": 8,
+      "statute_id": "62/2006"
+    },
+    {
+      "id": "85014bfa-9567-4a95-b329-8e261cd33453",
+      "node_type": "Section",
+      "publisher": "finlex",
+      "title": "52 § Voimaantulo",
+      "text": "Tämä laki tulee voimaan 1 päivänä maaliskuuta 2008. Tällä lailla kumotaan 5 päivänä kesäkuuta 1998 annettu rehulaki (396/1998) siihen myöhemmin tehtyine muutoksineen. Tällä lailla kumotun lain nojalla annetut maa- ja metsätalousministeriön asetukset ja päätökset jäävät edelleen voimaan. Ennen tämän lain voimaantuloa voidaan ryhtyä lain täytäntöönpanon edellyttämiin toimenpiteisiin.",
+      "section_number": "52",
+      "chapter_number": 8,
+      "statute_id": "62/2006"
+    },
+    {
+      "id": "f686c5d5-6f64-4bae-b94f-abc9d5cec10f",
+      "node_type": "Section",
+      "publisher": "finlex",
+      "title": "53 § Siirtymäsäännökset",
+      "text": "Ennen tämän lain voimaantuloa rehulain tai tilatukijärjestelmän täytäntöönpanosta annetun lain nojalla hyväksytyt tai ilmoitetut rehualan toimijat saavat ilman eri hyväksyntää tai ilmoitusta jatkaa toimintaansa. Ennen tämän lain voimaantuloa vireillä oleviin rehualan toimijoita koskeviin ilmoituksiin ja hyväksymishakemuksiin sovelletaan tämän lain voimaan tullessa voimassa olleita säännöksiä.",
+      "section_number": "53",
+      "chapter_number": 8,
+      "statute_id": "62/2006"
+    }
+  ],
+  "clauses": [
+    {
+      "id": "12b275ec-84aa-4bb6-b31b-e1ea9a4f12fb",
+      "node_type": "Clause",
+      "publisher": "finlex",
+      "title": "§ 3 mom 1",
+      "text": "1) \n                                        elintarvikelainsäädäntöä koskevista yleisistä periaatteista ja vaatimuksista, Euroopan elintarviketurvallisuusviranomaisen perustamisesta sekä elintarvikkeiden turvallisuuteen liittyvistä menettelyistä annettu Euroopan parlamentin ja neuvoston asetus (EY) N:o 178/2002 (yleinen elintarvikeasetus);",
+      "clause_number": 1,
+      "section_number": "3",
+      "statute_id": "62/2006"
+    },
+    {
+      "id": "d581bc5e-79e3-46d2-b25e-78c53ddd26d3",
+      "node_type": "Clause",
+      "publisher": "finlex",
+      "title": "§ 3 mom 2",
+      "text": "2) \n                                        rehu- ja elintarvikelainsäädännön sekä eläinten terveyttä ja hyvinvointia koskevien sääntöjen mukaisuuden varmistamiseksi suoritetusta virallisesta valvonnasta annettu Euroopan parlamentin ja neuvoston asetus (EY) N:o 882/2004 (valvonta-asetus);",
+      "clause_number": 2,
+      "section_number": "3",
+      "statute_id": "62/2006"
+    },
+    {
+      "id": "813312da-10e6-4c4e-a2c1-0409e8458771",
+      "node_type": "Clause",
+      "publisher": "finlex",
+      "title": "§ 3 mom 3",
+      "text": "3) \n                                        rehuhygieniaa koskevista vaatimuksista annettu Euroopan parlamentin ja neuvoston asetus (EY) N:o 183/2005 (rehuhygieniaasetus);",
+      "clause_number": 3,
+      "section_number": "3",
+      "statute_id": "62/2006"
+    },
+    {
+      "id": "0a3f33cc-2bf7-45ec-93d8-e51643b79262",
+      "node_type": "Clause",
+      "publisher": "finlex",
+      "title": "§ 3 mom 4",
+      "text": "4) \n                                        eläinten ruokinnassa käytettävistä lisäaineista annettu Euroopan parlamentin ja neuvoston asetus (EY) N:o 1831/2003 (EY:n lisäaineasetus);",
+      "clause_number": 4,
+      "section_number": "3",
+      "statute_id": "62/2006"
+    },
+    {
+      "id": "3db05f5e-9bd6-4d40-806c-35e8507f067c",
+      "node_type": "Clause",
+      "publisher": "finlex",
+      "title": "§ 3 mom 5",
+      "text": "5) \n                                        muiden kuin ihmisravinnoksi tarkoitettujen eläimistä saatavien sivutuotteiden terveyssäännöistä annettu Euroopan parlamentin ja neuvoston asetus (EY) N:o 1774/2002 (sivutuoteasetus);",
+      "clause_number": 5,
+      "section_number": "3",
+      "statute_id": "62/2006"
+    },
+    {
+      "id": "987c5d31-61c3-44b1-b547-9e2eeecec1ed",
+      "node_type": "Clause",
+      "publisher": "finlex",
+      "title": "§ 3 mom 6",
+      "text": "6) torjunta-ainejäämien enimmäismääristä kasvi- ja eläinperäisissä elintarvikkeissa ja rehuissa tai niiden pinnalla sekä neuvoston direktiivin 91/414/ETY muuttamisesta annettu Euroopan parlamentin ja neuvoston asetus (EY) N:o 396/2005;",
+      "clause_number": 6,
+      "section_number": "3",
+      "statute_id": "62/2006"
+    },
+    {
+      "id": "d82fa280-daa8-4c04-91f9-dcf15f27d4fc",
+      "node_type": "Clause",
+      "publisher": "finlex",
+      "title": "§ 3 mom 7",
+      "text": "7) \n                                        muuntogeenisistä elintarvikkeista ja rehuista annettu Euroopan parlamentin ja neuvoston asetus (EY) N:o 1829/2003 (gm-elintarvike- ja rehuasetus);",
+      "clause_number": 7,
+      "section_number": "3",
+      "statute_id": "62/2006"
+    },
+    {
+      "id": "04875bff-3f7f-49fa-a752-6e4f9cc49f9a",
+      "node_type": "Clause",
+      "publisher": "finlex",
+      "title": "§ 3 mom 8",
+      "text": "8) \n                                        muuntogeenisten organismien jäljitettävyydestä ja merkitsemisestä ja muuntogeenisistä organismeista valmistettujen elintarvikkeiden ja rehujen jäljitettävyydestä sekä direktiivin 2001/18/EY muuttamisesta annettu Euroopan parlamentin ja neuvoston asetus (EY) N:o 1830/2003 (gmo-jäljitettävyysasetus);",
+      "clause_number": 8,
+      "section_number": "3",
+      "statute_id": "62/2006"
+    },
+    {
+      "id": "2503451f-73f6-4522-b3d5-aa8b78031d53",
+      "node_type": "Clause",
+      "publisher": "finlex",
+      "title": "§ 3 mom 9",
+      "text": "9) muuntogeenisten organismien valtioiden rajat ylittävistä siirroista annettu Euroopan parlamentin ja neuvoston asetus (EY) N:o 1946/2003;",
+      "clause_number": 9,
+      "section_number": "3",
+      "statute_id": "62/2006"
+    },
+    {
+      "id": "6130d439-ca9b-4ae8-8538-7f9f182efde0",
+      "node_type": "Clause",
+      "publisher": "finlex",
+      "title": "§ 3 mom 10",
+      "text": "10) \n                                        tiettyjen tarttuvien spongiformisten enkefalopatioiden ehkäisyä, valvontaa ja hävittämistä koskevista säännöistä annettu Euroopan parlamentin ja neuvoston asetus (EY) N:o 999/2001 (TSE-asetus);",
+      "clause_number": 10,
+      "section_number": "3",
+      "statute_id": "62/2006"
+    },
+    {
+      "id": "41bb29f8-6132-4b31-8851-aca981235d94",
+      "node_type": "Clause",
+      "publisher": "finlex",
+      "title": "§ 3 mom 11",
+      "text": "11) salmonellan ja muiden tiettyjen elintarvikkeiden kautta tarttuvien tiettyjen zoonoosien aiheuttajien valvonnasta annettu Euroopan parlamentin ja neuvoston asetus (EY) N:o 2160/2003;",
+      "clause_number": 11,
+      "section_number": "3",
+      "statute_id": "62/2006"
+    },
+    {
+      "id": "4f9a65b3-69fc-4d67-bc3f-03d1afc8c0ab",
+      "node_type": "Clause",
+      "publisher": "finlex",
+      "title": "§ 3 mom 12",
+      "text": "12) luettelon vahvistamisesta niistä aineksista, joiden markkinoille saattaminen ja käyttö eläinten ravinnoksi on kielletty, tehty komission päätös 2004/217/EY;",
+      "clause_number": 12,
+      "section_number": "3",
+      "statute_id": "62/2006"
+    },
+    {
+      "id": "d8ff3e59-c58c-4814-a5aa-f0129f7dc6f3",
+      "node_type": "Clause",
+      "publisher": "finlex",
+      "title": "§ 3 mom 13",
+      "text": "13) elintarvikehygieniasta annettu Euroopan parlamentin ja neuvoston asetus (EY) N:o 852/2004.",
+      "clause_number": 13,
+      "section_number": "3",
+      "statute_id": "62/2006"
+    },
+    {
+      "id": "430ac317-4444-4a93-b443-f7128280c382",
+      "node_type": "Clause",
+      "publisher": "finlex",
+      "title": "§ 18 mom 1",
+      "text": "1) toimijan nimi ja osoite sekä muut yhteystiedot laitoskohtaisesti;",
+      "clause_number": 1,
+      "section_number": "18",
+      "statute_id": "62/2006"
+    },
+    {
+      "id": "8c1c6151-57fa-49af-bed3-0a94db783eab",
+      "node_type": "Clause",
+      "publisher": "finlex",
+      "title": "§ 18 mom 2",
+      "text": "2) toimijan yritys- ja yhteisötunnus tai, jos sitä ei ole, henkilötunnus tai tilatunnus;",
+      "clause_number": 2,
+      "section_number": "18",
+      "statute_id": "62/2006"
+    },
+    {
+      "id": "ef64bc5f-8399-4bdc-8c88-54f4b5f6394a",
+      "node_type": "Clause",
+      "publisher": "finlex",
+      "title": "§ 18 mom 3",
+      "text": "3) tieto toiminnan luonteesta tai sen olennaisesta muuttamisesta.",
+      "clause_number": 3,
+      "section_number": "18",
+      "statute_id": "62/2006"
+    },
+    {
+      "id": "64780b1a-b2e0-497d-bbfd-046d0ee60610",
+      "node_type": "Clause",
+      "publisher": "finlex",
+      "title": "§ 20 mom 1",
+      "text": "1) toimijan nimi ja osoite sekä muut yhteystiedot laitoskohtaisesti;",
+      "clause_number": 1,
+      "section_number": "20",
+      "statute_id": "62/2006"
+    },
+    {
+      "id": "e656be99-1d88-4977-81bd-21b46b8d30a4",
+      "node_type": "Clause",
+      "publisher": "finlex",
+      "title": "§ 20 mom 2",
+      "text": "2) toimijan yritys- ja yhteisötunnus tai, jos sitä ei ole, henkilötunnus tai tilatunnus;",
+      "clause_number": 2,
+      "section_number": "20",
+      "statute_id": "62/2006"
+    },
+    {
+      "id": "8deb97ec-d5ca-4462-86a0-11e3686ee06d",
+      "node_type": "Clause",
+      "publisher": "finlex",
+      "title": "§ 20 mom 3",
+      "text": "3) tieto toiminnan luonteesta tai sen olennaisesta muuttamisesta;",
+      "clause_number": 3,
+      "section_number": "20",
+      "statute_id": "62/2006"
+    },
+    {
+      "id": "45e8cc9f-3b35-400c-b266-778dc038e479",
+      "node_type": "Clause",
+      "publisher": "finlex",
+      "title": "§ 20 mom 4",
+      "text": "4) ajankohta, jolloin toiminta tai muutettu toiminta on tarkoitus aloittaa.",
+      "clause_number": 4,
+      "section_number": "20",
+      "statute_id": "62/2006"
+    },
+    {
+      "id": "7016f3de-8aee-43cd-9fcc-1cf30fd09640",
+      "node_type": "Clause",
+      "publisher": "finlex",
+      "title": "§ 35 mom 1",
+      "text": "1) 23 §:ssä tarkoitetuille viranomaisille tässä laissa säädettyjen tehtävien hoitamista varten;",
+      "clause_number": 1,
+      "section_number": "35",
+      "statute_id": "62/2006"
+    },
+    {
+      "id": "1678986a-8367-4ea3-b865-9bd03cc2c722",
+      "node_type": "Clause",
+      "publisher": "finlex",
+      "title": "§ 35 mom 2",
+      "text": "2) syyttäjä, poliisi- ja tulliviranomaisille rikoksen selvittämiseksi.",
+      "clause_number": 2,
+      "section_number": "35",
+      "statute_id": "62/2006"
+    },
+    {
+      "id": "34c44fc5-bc96-48cf-b3a1-d2959ae31add",
+      "node_type": "Clause",
+      "publisher": "finlex",
+      "title": "§ 37 mom 1",
+      "text": "1) rehualan toimijan nimi ja osoite sekä muut yhteystiedot;",
+      "clause_number": 1,
+      "section_number": "37",
+      "statute_id": "62/2006"
+    },
+    {
+      "id": "2a53208a-b1b8-4129-be6a-b94dd491e88e",
+      "node_type": "Clause",
+      "publisher": "finlex",
+      "title": "§ 37 mom 2",
+      "text": "2) toimipaikkojen osoitteet ja yhteystiedot;",
+      "clause_number": 2,
+      "section_number": "37",
+      "statute_id": "62/2006"
+    },
+    {
+      "id": "d22eef08-5308-4198-a686-351c519d25c6",
+      "node_type": "Clause",
+      "publisher": "finlex",
+      "title": "§ 37 mom 3",
+      "text": "3) rehualan toimijan yritys- ja yhteisötunnus, tai jos sitä ei ole, henkilötunnus tai tilatunnus;",
+      "clause_number": 3,
+      "section_number": "37",
+      "statute_id": "62/2006"
+    },
+    {
+      "id": "981560bc-604f-448f-be43-6be8e45477f6",
+      "node_type": "Clause",
+      "publisher": "finlex",
+      "title": "§ 37 mom 4",
+      "text": "4) toiminnan kuvaus;",
+      "clause_number": 4,
+      "section_number": "37",
+      "statute_id": "62/2006"
+    },
+    {
+      "id": "7f8c9c06-a086-4c98-87a1-54a1e1e4d6f9",
+      "node_type": "Clause",
+      "publisher": "finlex",
+      "title": "§ 37 mom 5",
+      "text": "5) hyväksyntänumero, jos kyseessä on rehuhygienia-asetuksen mukainen hyväksyntä;",
+      "clause_number": 5,
+      "section_number": "37",
+      "statute_id": "62/2006"
+    },
+    {
+      "id": "d5492dae-9a9d-4477-bfe6-3db8af43735e",
+      "node_type": "Clause",
+      "publisher": "finlex",
+      "title": "§ 37 mom 6",
+      "text": "6) tieto toimijalle tämän lain 40―42, 45 tai 46 §:n taikka rehuhygienia-asetuksen 14―16 artiklan nojalla annetusta määräyksestä, kiellosta, rangaistuksesta tai muusta seurauksesta;",
+      "clause_number": 6,
+      "section_number": "37",
+      "statute_id": "62/2006"
+    },
+    {
+      "id": "5a596752-f30e-4d5f-b5ea-566a158f3f59",
+      "node_type": "Clause",
+      "publisher": "finlex",
+      "title": "§ 37 mom 7",
+      "text": "7) suoritetut valvontatoimenpiteet sekä vastaavat muut tämän lain taikka sen nojalla annettujen säännösten tai määräysten mukaiset valvonnan kannalta tarpeelliset tiedot.",
+      "clause_number": 7,
+      "section_number": "37",
+      "statute_id": "62/2006"
+    },
+    {
+      "id": "0b9669db-a6d2-4165-889a-5848b03166fd",
+      "node_type": "Clause",
+      "publisher": "finlex",
+      "title": "§ 37 mom 1",
+      "text": "1) hyväksytyn laboratorion nimi ja osoite sekä muut yhteystiedot;",
+      "clause_number": 1,
+      "section_number": "37",
+      "statute_id": "62/2006"
+    },
+    {
+      "id": "d17a6c21-38b1-4142-8ef0-cb47befd500d",
+      "node_type": "Clause",
+      "publisher": "finlex",
+      "title": "§ 37 mom 2",
+      "text": "2) akkreditoinnin piirissä olevat määritysmenetelmät;",
+      "clause_number": 2,
+      "section_number": "37",
+      "statute_id": "62/2006"
+    },
+    {
+      "id": "ea4117e7-2632-47ac-8540-660a60c4bcbd",
+      "node_type": "Clause",
+      "publisher": "finlex",
+      "title": "§ 37 mom 3",
+      "text": "3) laboratoriossa tutkimuksista vastaavan henkilön nimi;",
+      "clause_number": 3,
+      "section_number": "37",
+      "statute_id": "62/2006"
+    },
+    {
+      "id": "269ca699-f50c-43a6-9a23-d7b7d50323a3",
+      "node_type": "Clause",
+      "publisher": "finlex",
+      "title": "§ 37 mom 4",
+      "text": "4) tieto hyväksymisen peruuttamisesta 44 §:n nojalla tai muusta seurauksesta;",
+      "clause_number": 4,
+      "section_number": "37",
+      "statute_id": "62/2006"
+    },
+    {
+      "id": "7ae355c6-1f69-4adc-b10d-4b67903244ce",
+      "node_type": "Clause",
+      "publisher": "finlex",
+      "title": "§ 37 mom 5",
+      "text": "5) suoritetut valvontatoimenpiteet sekä vastaavat muut tämän lain taikka sen nojalla annettujen säännösten tai määräysten mukaiset valvonnan kannalta tarpeelliset tiedot.",
+      "clause_number": 5,
+      "section_number": "37",
+      "statute_id": "62/2006"
+    },
+    {
+      "id": "7e751c1c-1d3d-4b96-8c35-5271ffd7ff06",
+      "node_type": "Clause",
+      "publisher": "finlex",
+      "title": "§ 41 mom 1",
+      "text": "1) tuotannon ja valmistuksen, jos tuotanto-, valmistus- tai säilytystilat, valmistusmenetelmät tai -laitteet taikka valmistajan laadunvarmistusjärjestelmät tai tuotteet eivät täytä niille Euroopan yhteisön rehulainsäädännössä taikka tässä laissa tai sen nojalla säädettyjä vaatimuksia;",
+      "clause_number": 1,
+      "section_number": "41",
+      "statute_id": "62/2006"
+    },
+    {
+      "id": "29089062-e9d8-4fa8-b1f3-0908ac53fbe5",
+      "node_type": "Clause",
+      "publisher": "finlex",
+      "title": "§ 41 mom 2",
+      "text": "2) käsittelyn, jos käsittely- tai säilytystilat, käsittelymenetelmät tai -laitteet taikka rehualan toimijan laadunvarmistusmenetelmät tai tuotteet eivät täytä niille Euroopan yhteisön rehulainsäädännössä taikka tässä laissa tai sen nojalla säädettyjä vaatimuksia;",
+      "clause_number": 2,
+      "section_number": "41",
+      "statute_id": "62/2006"
+    },
+    {
+      "id": "5a3aaf69-8ed0-4abf-8b3b-7ec4915469db",
+      "node_type": "Clause",
+      "publisher": "finlex",
+      "title": "§ 41 mom 3",
+      "text": "3) markkinoille saattamisen tai käytön, jos rehu tai sen pakkaaminen tai siitä annettavat tiedot eivät täytä Euroopan yhteisön rehulainsäädännössä taikka tässä laissa tai sen nojalla säädettyjä vaatimuksia, jos rehua käytetään sen käyttöohjeiden vastaisesti, jos rehun valmistaja, markkinoille saattaja tai käyttäjä on laiminlyönyt 18 §:n mukaisen ilmoitusvelvollisuuden taikka jos valmistajaa, markkinoille saattajaa tai käyttäjää ei ole hyväksytty 20 §:n mukaisesti;",
+      "clause_number": 3,
+      "section_number": "41",
+      "statute_id": "62/2006"
+    },
+    {
+      "id": "473acfe4-1658-4e3f-b8ae-419b42e18bca",
+      "node_type": "Clause",
+      "publisher": "finlex",
+      "title": "§ 41 mom 4",
+      "text": "4) kuljetuksen tai varastoinnin, jos kuljetuskalusto tai varastointitilat eivät täytä Euroopan yhteisön rehulainsäädännössä taikka tässä laissa tai sen nojalla säädettyjä vaatimuksia;",
+      "clause_number": 4,
+      "section_number": "41",
+      "statute_id": "62/2006"
+    },
+    {
+      "id": "cfbd891d-e61b-4a75-8e88-e5ffd91295f3",
+      "node_type": "Clause",
+      "publisher": "finlex",
+      "title": "§ 41 mom 5",
+      "text": "5) sisämarkkinakaupan, maahantuonnin ja maastaviennin, jos rehu ei täytä Euroopan yhteisön rehulainsäädännössä taikka tässä laissa tai sen nojalla säädettyjä vaatimuksia.",
+      "clause_number": 5,
+      "section_number": "41",
+      "statute_id": "62/2006"
+    },
+    {
+      "id": "827d8131-4c74-49b2-9b96-1f5bd95b2fcc",
+      "node_type": "Clause",
+      "publisher": "finlex",
+      "title": "§ 46 mom 1",
+      "text": "1) valmistaa, saattaa markkinoille, tuo maahan tai vie maasta rehua, joka ei täytä 6―15 §:ssä tai niiden nojalla rehulle taikka sen pakkaamiselle tai merkitsemiselle säädettyjä vaatimuksia,",
+      "clause_number": 1,
+      "section_number": "46",
+      "statute_id": "62/2006"
+    },
+    {
+      "id": "ea294f4a-e71f-4f52-80fb-c89c28c471a0",
+      "node_type": "Clause",
+      "publisher": "finlex",
+      "title": "§ 46 mom 2",
+      "text": "2) rikkoo rehun valmistusta, käsittelyä, kuljetusta, varastointia, käyttöä tai laadunvarmistusta koskevaa 17 §:n tai sen nojalla annettua säännöstä,",
+      "clause_number": 2,
+      "section_number": "46",
+      "statute_id": "62/2006"
+    },
+    {
+      "id": "a7f6449f-89aa-414e-b287-c0cb60623f1f",
+      "node_type": "Clause",
+      "publisher": "finlex",
+      "title": "§ 46 mom 3",
+      "text": "3) rikkoo 7 §:n 3 momentin nojalla annettua kieltoa tai 16 §:n nojalla annettua tilapäistä kieltoa,",
+      "clause_number": 3,
+      "section_number": "46",
+      "statute_id": "62/2006"
+    },
+    {
+      "id": "b2bc9e4c-3564-4545-a750-3aa676761f8c",
+      "node_type": "Clause",
+      "publisher": "finlex",
+      "title": "§ 46 mom 3",
+      "text": "3) rikkoo 7 §:n 3 momentin nojalla annettua kieltoa tai 16 §:n nojalla annettua tilapäistä kieltoa,",
+      "clause_number": 3,
+      "section_number": "46",
+      "statute_id": "62/2006"
+    },
+    {
+      "id": "a46167af-4c39-4ee4-9757-86bc9f8064b7",
+      "node_type": "Clause",
+      "publisher": "finlex",
+      "title": "§ 46 mom 2",
+      "text": "4) laiminlyö 18 §:ssä säädetyn ilmoitusvelvollisuuden, 19 §:ssä tarkoitetun tiedoston pitämisen tai 34 §:n 2 momentissa säädetyn tiedonantovelvollisuuden,",
+      "clause_number": 2,
+      "section_number": "46",
+      "statute_id": "62/2006"
+    },
+    {
+      "id": "7759fdae-5653-4107-a5d4-77376eedbde6",
+      "node_type": "Clause",
+      "publisher": "finlex",
+      "title": "§ 46 mom 4",
+      "text": "4) laiminlyö 18 §:ssä säädetyn ilmoitusvelvollisuuden, 19 §:ssä tarkoitetun tiedoston pitämisen tai 34 §:n 2 momentissa säädetyn tiedonantovelvollisuuden,",
+      "clause_number": 4,
+      "section_number": "46",
+      "statute_id": "62/2006"
+    },
+    {
+      "id": "41072f08-7810-4b3f-944f-a2d96afe5eb1",
+      "node_type": "Clause",
+      "publisher": "finlex",
+      "title": "§ 46 mom 5",
+      "text": "5) laiminlyö 20 §:ssä tarkoitetun rehualan toimijan hyväksymisen hakemisen,",
+      "clause_number": 5,
+      "section_number": "46",
+      "statute_id": "62/2006"
+    },
+    {
+      "id": "ec0af63b-7026-40a2-80fa-90949532d389",
+      "node_type": "Clause",
+      "publisher": "finlex",
+      "title": "§ 46 mom 6",
+      "text": "6) antaa 15 §:n vastaisesti tai muuten harhaanjohtavia tietoja rehusta tai sen ominaisuuksista taikka",
+      "clause_number": 6,
+      "section_number": "46",
+      "statute_id": "62/2006"
+    },
+    {
+      "id": "2f56dcb7-3a1a-4814-861f-66708a801336",
+      "node_type": "Clause",
+      "publisher": "finlex",
+      "title": "§ 46 mom 7",
+      "text": "7) rikkoo 40 §:n nojalla annettua määräystä, 41 §:n nojalla annettua kieltoa, 42 §:n nojalla annettua käsittely-, hävittämis- tai palauttamismääräystä taikka jatkaa toimintaansa, vaikka rekisteröinti tai hyväksyminen on 43 §:n nojalla keskeytetty tai peruutettu,",
+      "clause_number": 7,
+      "section_number": "46",
+      "statute_id": "62/2006"
+    }
+  ],
+  "cross_references": [],
+  "raw_html_path": "C:\\Users\\danit\\finance-hack\\aalto-hackaton-2026\\data\\raw\\finlex\\Laki (säädöskokoelma)\\Rehulaki_2.html"
+}

@@ -1,0 +1,66 @@
+{
+  "statute": {
+    "id": "241d0d01-1d92-4638-b71f-08f65a705536",
+    "node_type": "Statute",
+    "publisher": "finlex",
+    "title": "Laki vakuutusyhdistyslain muuttamisesta",
+    "text": "Laki vakuutusyhdistyslain muuttamisesta",
+    "statute_id": "1250/1987",
+    "finlex_url": "https://finlex.fi/fi/laki/ajantasa/1250/1987"
+  },
+  "chapters": [
+    {
+      "id": "bc25b45a-e99f-454f-a1b0-9972e308dd14",
+      "node_type": "Chapter",
+      "publisher": "finlex",
+      "title": "Chapter 8",
+      "text": "8 luku Yhteisömuodon muuttaminen",
+      "chapter_number": 8,
+      "statute_id": "1250/1987"
+    },
+    {
+      "id": "d9761298-dd48-4eb6-a381-23503dcdb01e",
+      "node_type": "Chapter",
+      "publisher": "finlex",
+      "title": "Chapter 14",
+      "text": "14 luku Sulautuminen",
+      "chapter_number": 14,
+      "statute_id": "1250/1987"
+    }
+  ],
+  "sections": [
+    {
+      "id": "7116c526-c763-457d-8bff-9c1bd05d92e3",
+      "node_type": "Section",
+      "publisher": "finlex",
+      "title": "2 §",
+      "text": "Yhdistys sekä muistutuksentekijä saavat valittaa päätöksestä Helsingin hallinto-oikeuteen siten kuin Vakuutusvalvontavirastosta annetussa laissa (78/1999) säädetään. Valitus on käsiteltävä kiireellisenä.",
+      "section_number": "2",
+      "chapter_number": 8,
+      "statute_id": "1250/1987"
+    },
+    {
+      "id": "7b674ee4-0597-46b4-bfb7-f8bc8bf04d81",
+      "node_type": "Section",
+      "publisher": "finlex",
+      "title": "11 §",
+      "text": "Sulautuva ja vastaanottava yhdistys sekä muistutuksentekijä saavat valittaa päätöksestä Helsingin hallinto-oikeuteen siten kuin Vakuutusvalvontavirastosta annetussa laissa säädetään. Valitus on käsiteltävä kiireellisenä.",
+      "section_number": "11",
+      "chapter_number": 14,
+      "statute_id": "1250/1987"
+    },
+    {
+      "id": "c21b90da-26df-4fe3-8597-08699a823950",
+      "node_type": "Section",
+      "publisher": "finlex",
+      "title": "9 §",
+      "text": "Luovuttava ja vastaanottava yhdistys sekä muistutuksentekijä saavat valittaa päätöksestä Helsingin hallinto-oikeuteen siten kuin Vakuutusvalvontavirastosta annetussa laissa säädetään. Valitus on käsiteltävä kiireellisenä. Tämä laki tulee voimaan 1 päivänä lokakuuta 2005. Muutoksenhaussa ennen tämän lain voimaantuloa annettuun hallintoviranomaisen päätökseen sovelletaan tämän lain voimaan tullessa voimassa olleita säännöksiä.",
+      "section_number": "9",
+      "chapter_number": 14,
+      "statute_id": "1250/1987"
+    }
+  ],
+  "clauses": [],
+  "cross_references": [],
+  "raw_html_path": "C:\\Users\\danit\\finance-hack\\aalto-hackaton-2026\\data\\raw\\finlex\\Laki\\Laki vakuutusyhdistyslain muuttamisesta_9.html"
+}

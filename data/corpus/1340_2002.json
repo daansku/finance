@@ -1,0 +1,866 @@
+{
+  "statute": {
+    "id": "a953604d-f43f-4f45-8873-7f056d86296d",
+    "node_type": "Statute",
+    "publisher": "finlex",
+    "title": "Sosiaali- ja terveysministeriön asetus vakuutusyrityksen tilinpäätöksestä ja konsernitilinpäätöksestä annetun sosiaali- ja terveysministeriön asetuksen muuttamisesta",
+    "text": "Sosiaali- ja terveysministeriön asetus vakuutusyrityksen tilinpäätöksestä ja konsernitilinpäätöksestä annetun sosiaali- ja terveysministeriön asetuksen muuttamisesta",
+    "statute_id": "1340/2002",
+    "finlex_url": "https://finlex.fi/fi/laki/ajantasa/1340/2002"
+  },
+  "chapters": [
+    {
+      "id": "046a1895-a9b7-4272-b907-c738813cc528",
+      "node_type": "Chapter",
+      "publisher": "finlex",
+      "title": "Chapter 3",
+      "text": "3 luku Toimintakertomus, rahoituslaskelma ja liitetiedot",
+      "chapter_number": 3,
+      "statute_id": "1340/2002"
+    }
+  ],
+  "sections": [
+    {
+      "id": "e1604b1a-35cd-40d0-8c73-96f2bdddf3cd",
+      "node_type": "Section",
+      "publisher": "finlex",
+      "title": "1 § Soveltamisala",
+      "text": "Tässä asetuksessa säädetään vakuutusyhtiön, vakuutusyhdistyksen ja kolmannen maan vakuutusyhtiön edustuston (vakuutusyritys) tilinpäätöksen ja toimintakertomuksen sekä vakuutusyhtiön ja vakuutusyhdistyksen konsernitilinpäätöksen laatimisesta. Jollei tässä asetuksessa toisin säädetä, vakuutusyhtiön, vakuutusyhdistyksen ja edustuston tilinpäätöksen, toimintakertomuksen ja konsernitilinpäätöksen laatimiseen sovelletaan kirjanpitoasetusta (1339/1997). Mitä tässä asetuksessa säädetään vakuutusyhtiön konsernitilinpäätöksestä, koskee myös vakuutusyhtiölain (1062/1979) 1 luvun 5 b §:ssä tarkoitetun vakuutusomistusyhteisön konsernitilinpäätöstä ja emoyrityksen toimintakertomuksessa konsernista annettavia tietoja. Tätä asetusta ei kuitenkaan sovelleta rahoitus- ja vakuutusryhmittymien valvonnasta annetun lain (699/2004) 28 §:n 1 momentissa tarkoitettuun konsernitilinpäätökseen eikä sellaiseen konsernitilinpäätökseen, joka laaditaan vakuutusyhtiölain 10 luvun 11 §:n 8 momentin perusteella.",
+      "section_number": "1",
+      "chapter_number": 1,
+      "statute_id": "1340/2002"
+    },
+    {
+      "id": "ef59564d-7b09-4714-bd30-46b0e2277879",
+      "node_type": "Section",
+      "publisher": "finlex",
+      "title": "2 § Poikkeukset kirjanpitoasetuksen soveltamisesta",
+      "text": "Kirjanpitoasetuksen 1 luvun 1―7 §:ää, 10 §:n 3 ja 4 momenttia, 11 §:n 1 momenttia sekä 3 momentin toista virkettä, 2 luvun 1 §:ää, 2 §:n 2―4 momenttia, 3 §:n 1 momentin 1, 5 ja 6 kohtaa sekä 2 ja 3 momenttia, 4 §:n 1 momentin 7, 9, 10 ja 12 kohtaa sekä 2―6 momenttia, 5 §:n 1 momentin 5 kohtaa sekä 2―5 momenttia, 6 §:n 2 momenttia, 8 §:n 5 momenttia, 9―11 §:ää, 5 luvun 1 ja 4 §:ää, 5a lukua sekä 6 luvun 1 ja 2 §:ää ei sovelleta vakuutusyrityksen tilinpäätöksen ja vakuutusyhtiön tai vakuutusyhdistyksen konsernitilinpäätöksen laatimiseen.",
+      "section_number": "2",
+      "chapter_number": 1,
+      "statute_id": "1340/2002"
+    },
+    {
+      "id": "92127dc4-ef94-4cc3-a8d2-1960b2c3cf90",
+      "node_type": "Section",
+      "publisher": "finlex",
+      "title": "3 § Luottolaitoksen ja sijoituspalveluyrityksen tilinpäätöksen yhdisteleminen vakuutusyhtiön konsernitilinpäätökseen",
+      "text": "Tytäryrityksenä olevan luottolaitoksen tai sijoituspalveluyrityksen tilinpäätös yhdistellään vakuutusyhtiön konsernitilinpäätökseen tämän asetuksen säännöksiä noudattaen, jos näiden tytäryritysten toimialan osuus ei ylitä rahoitus- ja vakuutusryhmittymien valvonnasta annetun lain 4 §:n mukaisia kynnysarvoja ja jos vakuutusyhtiölain 10 luvun 11 §:n 8 momentista ei muuta johdu.",
+      "section_number": "3",
+      "chapter_number": 1,
+      "statute_id": "1340/2002"
+    },
+    {
+      "id": "f1ac76e0-0484-45e9-8bbf-0ef01cebe5eb",
+      "node_type": "Section",
+      "publisher": "finlex",
+      "title": "6 § Toimintakertomuksessa ilmoitettavat tiedot",
+      "text": "Toimintakertomuksessa esitetään vakuutusyhtiölain 10 luvun 1 c §:n 3 momentissa tarkoitettujen seikkojen ohella: Edellä 1 momentin 1 kohdassa tarkoitetun selostuksen on oltava tasapuolinen ja kattava analyysi vakuutusyrityksen liiketoiminnan kehittymisestä ja tuloksesta sekä vakuutusyrityksen taloudellisesta asemasta ja sen on vastattava vakuutusyrityksen laajuutta ja rakennetta. Arvion tulee sisältää keskeisimmät tunnusluvut vakuutusyrityksen liiketoiminnan sekä taloudellisen aseman ja tuloksen ymmärtämiseksi. Toimintakertomuksessa esitettävään analyysiin on tarvittaessa sisällytettävä tietoa ja lisäselvityksiä tilinpäätöksessä esitetyistä luvuista. Edustuston toimintakertomuksessa esitetään 1 momentin 1―3 kohdassa ja 2―3 momentissa lueteltujen tietojen lisäksi: Jos edustusto on luovuttanut yrityksen, johon edustusto kuuluu, tai sen emoyrityksen osakkeita, siitä on mainittava toimintakertomuksessa ja ilmoitettava osakeyhtiölain (734/ 1978) 11 luvun 9 a §:n 2 momentin mukaiset tiedot pykälän 3 momentin ensimmäisen virkkeen mukaisesti. Vakuutusyhtiölain 10 luvun 1 c §:n 1 momentin 3 kohdassa tarkoitetusta rahoituslaskelmasta on ilmettävä:",
+      "section_number": "6",
+      "chapter_number": 3,
+      "statute_id": "1340/2002"
+    },
+    {
+      "id": "e9605be6-03de-4b2f-abe2-3743ff6fa1fd",
+      "node_type": "Section",
+      "publisher": "finlex",
+      "title": "7 § Tilinpäätöksen laatimista koskevat liitetiedot",
+      "text": "Tilinpäätöksen liitetietoina esitetään kirjanpitoasetuksen 2 luvun 2 §:n 1 momentissa lueteltujen liitetietojen lisäksi:",
+      "section_number": "7",
+      "chapter_number": 3,
+      "statute_id": "1340/2002"
+    },
+    {
+      "id": "1fafdf0a-2fd9-4c15-897d-b5458ada23f9",
+      "node_type": "Section",
+      "publisher": "finlex",
+      "title": "9 § Taseen vastaavia koskevat liitetiedot",
+      "text": "Taseen liitetietoina esitetään kirjanpitoasetuksen 2 luvun 4 §:n 1 momentin 3―6, 8―9 ja 11 kohdassa lueteltujen liitetietojen lisäksi: Edellä 1 momentin 15 kohdassa tarkoitettu erittely saadaan jättää tekemästä, jos yhdistelemisellä on ollut vain vähäinen merkitys oikean ja riittävän kuvan antamiseksi.",
+      "section_number": "9",
+      "chapter_number": 3,
+      "statute_id": "1340/2002"
+    },
+    {
+      "id": "fee39a42-b650-4851-b112-0ab2bbf532cb",
+      "node_type": "Section",
+      "publisher": "finlex",
+      "title": "11 § Taloudellista kehitystä kuvaavat tunnusluvut ja muut tiedot",
+      "text": "Lakisääteistä eläkevakuutusta harjoittava vakuutusyhtiö ilmoittaa tilinpäätöksen liitetietona seuraavat tunnusluvut tilikaudelta ja neljältä lähinnä edelliseltä tilikaudelta, tai jos vakuutusyhtiö ei ole toiminut viittä täyttä tilikautta, sen toiminta-ajalta: Lisäksi lakisääteistä eläkevakuutusta harjoittavan vakuutusyhtiön on esitettävä tulosanalyysi, josta käy ilmi tuloksen muodostuminen ja sen käyttö vastaavalta ajalta kuin 1 momentissa tarkoitetut tunnusluvut ilmoitetaan. Vahinkovakuutusta ja muuta henkivakuutusta kuin lakisääteistä eläkevakuutusta harjoittavat vakuutusyritykset ilmoittavat tilinpäätöksen liitetietona jäljempänä 4―6 momentissa säädetyt tunnusluvut tilikaudelta ja neljältä lähinnä edelliseltä tilikaudelta, tai jos vakuutusyritys ei ole toiminut viittä tilikautta, sen toiminta-ajalta. Vahinkovakuutusta ja muuta henkivakuutusta kuin lakisääteistä eläkevakuutusta harjoittavien vakuutusyritysten yhteiset tunnusluvut ovat seuraavat: Vahinkovakuutuksen taloudellista kehitystä kuvaavat tunnusluvut ovat seuraavat: Muun henkivakuutuksen kuin lakisääteisen eläkevakuutuksen taloudellista kehitystä kuvaavat tunnusluvut ovat seuraavat: Tilinpäätöksen liitetietoina esitetään selvitys vakuutusyrityksen olennaisista riskeistä ja niiden hallinnasta.",
+      "section_number": "11",
+      "chapter_number": 3,
+      "statute_id": "1340/2002"
+    },
+    {
+      "id": "8532b187-4f93-434e-8134-dbc3e2299c19",
+      "node_type": "Section",
+      "publisher": "finlex",
+      "title": "14 § Vakavaraisuutta kuvaavat liitetiedot",
+      "text": "Tilinpäätöksen liitetietoina esitetään vahinko- ja henkivakuutusyrityksen toimintapääomaan luetut erät ja toimintapääoman vähimmäismäärä sekä tasoitusmäärä. Työeläkevakuutusyhtiöstä esitetään toimintapääomaan luetut erät ja toimintapääoman vähimmäismäärä. Liitetietoina esitetään vahinkovakuutusyrityksen tasoitusmäärä suhteessa täyteen määräänsä.",
+      "section_number": "14",
+      "chapter_number": 3,
+      "statute_id": "1340/2002"
+    },
+    {
+      "id": "1faf0db4-1251-4e94-90e3-ef35b207e6ce",
+      "node_type": "Section",
+      "publisher": "finlex",
+      "title": "16 § Konserniin kuuluvaa vakuutusyhtiötä koskevat liitetiedot",
+      "text": "Sen lisäksi, mitä edellä tässä asetuksessa säädetään liitetiedoista, kotimaiseen ja siihen verrattavaan ulkomaiseen konserniin kuuluvan vakuutusyhtiön tai edustuston tuloslaskelman tai taseen liitetietoina on ilmoitettava:",
+      "section_number": "16",
+      "chapter_number": 3,
+      "statute_id": "1340/2002"
+    },
+    {
+      "id": "c27b306b-4815-4ddb-a754-26e7b9426bb2",
+      "node_type": "Section",
+      "publisher": "finlex",
+      "title": "20 § Yksittäisen yrityksen liitetietoja vastaavat liitetiedot",
+      "text": "Konsernituloslaskelman tai -taseen liitetietoina ilmoitetaan soveltuvin osin kirjanpitoasetuksen 2 luvun 2 §:n 1 momentissa, 3 §:n 1 momentin 2―4 kohdassa, 4 §:n 1 momentin 3―6, 8 ja 11 kohdassa, 5 §:n 1 momentin 1―4 ja 6 kohdassa, 6 §:n 1 momentissa, 7 §:ssä ja 8 §:n 1―4 momentissa sekä tämän asetuksen 3 luvun 6―10 ja 12―13 a §:ssä ja 15 §:ssä tarkoitetut tiedot konsernista.",
+      "section_number": "20",
+      "chapter_number": 3,
+      "statute_id": "1340/2002"
+    },
+    {
+      "id": "551abd8c-9e9e-434f-924b-7da5d3769af5",
+      "node_type": "Section",
+      "publisher": "finlex",
+      "title": "21 § Laatimista koskevat liitetiedot",
+      "text": "Sen lisäksi, mitä kirjanpitoasetuksen 4 luvun 2 §:ssä säädetään konsernitilinpäätöksen laatimista koskevista liitetiedoista, liitetiedoissa on selostettava, miten tytär- ja osakkuusyritysten osakkeisiin tai osuuksiin tehtyjä arvonkorotuksia on käsitelty konsernitilinpäätöksessä.",
+      "section_number": "21",
+      "chapter_number": 3,
+      "statute_id": "1340/2002"
+    },
+    {
+      "id": "823e62e2-287c-4ba6-a7db-7496efc03aab",
+      "node_type": "Section",
+      "publisher": "finlex",
+      "title": "22 § Tytär- ja osakkuusyrityksiä koskevat liitetiedot",
+      "text": "Konsernitilinpäätöksen tytär ja osakkuusyrityksiä koskevina liitetietoina esitetään, mitä kirjanpitoasetuksen 4 luvun 3 §:ssä säädetään.",
+      "section_number": "22",
+      "chapter_number": 3,
+      "statute_id": "1340/2002"
+    },
+    {
+      "id": "8a15312c-1052-42cb-9dde-e8c6e5db32a1",
+      "node_type": "Section",
+      "publisher": "finlex",
+      "title": "23 § Muut liitetiedot",
+      "text": "Sen lisäksi, mitä tässä asetuksessa säädetään, konsernituloslaskelman ja -taseen liitetietoina esitetään kirjanpitoasetuksen 4 luvun 4 §:n 1―6 kohdassa tarkoitetut tiedot. Sellaiseen vakuutusyhtiön, vakuutusyhdistyksen ja kolmannen maan vakuutusyhtiön edustuston tilinpäätökseen tai vakuutusyhtiön ja vakuutusyhdistyksen konsernitilinpäätökseen, joka on laadittu kirjanpitolain 7 a luvun 1 §:n mukaisia kansainvälisiä tilinpäätösstandardeja noudattaen sekä siitä erilliseen toimintakertomukseen ei sovelleta kirjanpitoasetuksen ja tämän asetuksen säännöksiä lukuun ottamatta kirjanpitoasetuksen 2 luvun 8 §:n 1 momentin 1 kohtaa sekä 2 ja 3 momenttia, 4 luvun 3 §:n 1 momentin 1―4 ja 6 kohtaa sekä 4 §:n 6 kohtaa, ja tämän asetuksen 3 luvun 6 §:n 1 momenttia, 7 §:n 1 momentin 6―10 ja 12―14 kohtaa, 10 §:n 1 momentin 1 kohtaa ja 3 momentin 1―3 kohtaa, 4 momentin 1―4 kohtaa, 13 §:n 1―3 momenttia, 13 a―15 §:ää ja 16 §:n 1 momenttia. Tämä asetus tulee voimaan 31 päivänä joulukuuta 2004. Tätä asetusta sovelletaan ensimmäisen kerran vakuutusyhtiön, vakuutusyhdistyksen ja kolmannen maan vakuutusyhtiön edustuston tilinpäätökseen sekä vakuutusyhtiön ja vakuutusyhdistyksen konsernin tilinpäätökseen siltä tilikaudelta, joka alkaa 1 päivänä tammikuuta 2005 tai sen jälkeen. Tätä asetusta voidaan soveltaa siltä tilikaudelta laadittavaan toimintakertomukseen, tilinpäätökseen ja konsernitilinpäätökseen joka on kulumassa asetuksen tullessa voimaan. Tämän asetuksen 3 luvun 11 §:n 3―6 momenttia sovelletaan vahinkovakuutusta ja muuta henkivakuutusta kuin lakisääteistä eläkevakuutusta harjoittavan vakuutusyhtiön, vakuutusyhdistyksen ja kolmannen maan vakuutusyhtiön edustuston kirjanpitoon 1 päivänä tammikuuta 2005 alkavalta tilikaudelta. Mainituissa säännöksissä tarkoitettujen tietojen ilmoittaminen lähinnä neljältä edelliseltä tilikaudelta on tehtävä ensimmäisen kerran 1 päivänä tammikuuta 2009 tehtävän tilinpäätöksen yhteydessä. Tilikaudelta 2005 laadittavassa tilinpäätöksessä on ilmoitettava 11 §:n 3―6 momentissa tarkoitetut tiedot kyseiseltä tilikaudelta, tilikaudelta 2006 laadittavassa tilinpäätöksessä vastaavat tiedot tilikausilta 2005 ja 2006, tilikaudelta 2007 laadittavassa tilinpäätöksessä vastaavat tiedot tilikausilta 2005―2007 ja tilikaudelta 2008 laadittavassa tilinpäätöksessä vastaavat tiedot tilikausilta 2005―2008. Liitteet 1 ja 2",
+      "section_number": "23",
+      "chapter_number": 3,
+      "statute_id": "1340/2002"
+    }
+  ],
+  "clauses": [
+    {
+      "id": "85d59a09-baf4-4f1c-a966-d4a1fc595c08",
+      "node_type": "Clause",
+      "publisher": "finlex",
+      "title": "§ 6 mom 1",
+      "text": "1) selostus, joka antaa oikean kuvan vakuutusyrityksen liiketoiminnan kehittymisestä ja tuloksesta sekä vakuutusyrityksen taloudellisesta asemasta, mukaan luettuna kuvaus merkittävimmistä riskeistä ja epävarmuustekijöistä;",
+      "clause_number": 1,
+      "section_number": "6",
+      "statute_id": "1340/2002"
+    },
+    {
+      "id": "361b9227-4cf9-4534-9df0-8506dca4c487",
+      "node_type": "Clause",
+      "publisher": "finlex",
+      "title": "§ 6 mom 2",
+      "text": "2) tiedot olennaisista tapahtumista tilikaudella ja sen päättymisen jälkeen;",
+      "clause_number": 2,
+      "section_number": "6",
+      "statute_id": "1340/2002"
+    },
+    {
+      "id": "eceb6e5d-5a10-4eda-b205-d9b32119ec36",
+      "node_type": "Clause",
+      "publisher": "finlex",
+      "title": "§ 6 mom 3",
+      "text": "3) arvio todennäköisestä tulevasta kehityksestä; sekä",
+      "clause_number": 3,
+      "section_number": "6",
+      "statute_id": "1340/2002"
+    },
+    {
+      "id": "ffe7ecd7-45c9-4c2d-a0c9-ec523e11d68b",
+      "node_type": "Clause",
+      "publisher": "finlex",
+      "title": "§ 6 mom 4",
+      "text": "4) jos vakuutusyhtiö tai vakuutusyhdistys on tilikauden aikana vakuutuskannan luovutuksen perusteella vastanottanut varoja tai velkoja tai luovuttanut varoja tai velkoja tai vastuun siirtämisen perusteella vastaanottanut varoja tai velkoja, siitä on annettava toimintakertomuksessa selostus.",
+      "clause_number": 4,
+      "section_number": "6",
+      "statute_id": "1340/2002"
+    },
+    {
+      "id": "8d20be8b-d722-4f09-960d-d10730e64b55",
+      "node_type": "Clause",
+      "publisher": "finlex",
+      "title": "§ 6 mom 5",
+      "text": "5) selostus, vakuutusyrityksen harjoittamasta vakuutusyhtiölain 1 luvun 3a §:n mukaisesta liitännäistoiminnasta.",
+      "clause_number": 5,
+      "section_number": "6",
+      "statute_id": "1340/2002"
+    },
+    {
+      "id": "d4e425a4-d506-45b4-99c7-6be54a9f8b5b",
+      "node_type": "Clause",
+      "publisher": "finlex",
+      "title": "§ 6 mom 1",
+      "text": "1) sen yrityksen nimi ja kotipaikka, johon edustusto kuuluu;",
+      "clause_number": 1,
+      "section_number": "6",
+      "statute_id": "1340/2002"
+    },
+    {
+      "id": "88c61899-2fdd-4373-a7d1-427f08fd7425",
+      "node_type": "Clause",
+      "publisher": "finlex",
+      "title": "§ 6 mom 2",
+      "text": "2) selostus edustuston tilikauden aikana vakuutuskannan luovutuksen perusteella vastaanottamista varoista ja veloista tai luovuttamista varoista ja veloista;",
+      "clause_number": 2,
+      "section_number": "6",
+      "statute_id": "1340/2002"
+    },
+    {
+      "id": "87577248-72fc-4c9b-a29d-163390dcd2bc",
+      "node_type": "Clause",
+      "publisher": "finlex",
+      "title": "§ 6 mom 3",
+      "text": "3) selostus, mikäli yrityksestä, johon edustusto kuuluu, on tullut emoyritys tai se on ollut vastaanottavana yrityksenä suuruudeltaan olennaisessa sulautumisessa, yritys on vakuutuskannan luovutuksen perusteella vastaanottanut tai luovuttanut merkittävästi varoja ja velkoja tai yritys on jakautunut;",
+      "clause_number": 3,
+      "section_number": "6",
+      "statute_id": "1340/2002"
+    },
+    {
+      "id": "0a5257a5-aa83-467a-9480-d29738d608c3",
+      "node_type": "Clause",
+      "publisher": "finlex",
+      "title": "§ 6 mom 4",
+      "text": "4) tieto yrityksen, johon edustusto kuuluu, muista ulkomaisista sivuliikkeistä tai jos yrityksellä, johon edustusto kuuluu, on yli kymmenen sivuliikettä, tieto siitä, mistä jäljennös edellä mainitun yrityksen tilinpäätöksestä tai konsernitilinpäätöksestä, jossa esitetään tieto sivuliikkeistä, on saatavissa;",
+      "clause_number": 4,
+      "section_number": "6",
+      "statute_id": "1340/2002"
+    },
+    {
+      "id": "c14ff73b-7e20-4e35-8fe8-d9913995ce9a",
+      "node_type": "Clause",
+      "publisher": "finlex",
+      "title": "§ 6 mom 5",
+      "text": "5) tieto edustuston hallussa olevista yrityksen, johon edustusto kuuluu, sekä edellä mainitun yrityksen emoyrityksen osakkeiden kokonaismääristä, yhteenlasketuista nimellisarvoista sekä suhteellisista osuuksista osakepääomasta ja kaikkien osakkeiden yhteenlasketuista äänimääristä.",
+      "clause_number": 5,
+      "section_number": "6",
+      "statute_id": "1340/2002"
+    },
+    {
+      "id": "9badf430-542a-4d8a-8447-f5ed35cc634c",
+      "node_type": "Clause",
+      "publisher": "finlex",
+      "title": "§ 7 mom 4",
+      "text": "2 a) jos sijoitus on arvostettu taseessa vakuutusyhtiölain 10 luvun 4 c §:n 1―4 momentin nojalla käypää arvoaan korkeampaan arvoon, esitetään kirjanpitoarvo ja käypä arvo joko sijoituskohdekohtaisesti tai muulla tarkoituksenmukaisella tavalla ryhmiteltynä ja perustelut sille, ettei arvonalennusta ole tehty ja perusteltu näyttö siitä, että käypä arvo myöhemmin jälleen saavutetaan;",
+      "clause_number": 4,
+      "section_number": "7",
+      "statute_id": "1340/2002"
+    },
+    {
+      "id": "f4b4cae3-f701-479e-b4dc-c5c9510e8e42",
+      "node_type": "Clause",
+      "publisher": "finlex",
+      "title": "§ 7 mom 5",
+      "text": "11) selostus vakuutusyhtiölain 10 luvun 14 §:n 5 momentissa, vakuutusyhdistyslain (1250/1987) 10 luvun 12 §:n 5 momentissa ja ulkomaisista vakuutusyhtiöistä annetun lain (398/1995) 40 b §:n 5 momentissa tarkoitetuista määräaikaisista poikkeusluvista, tieto poikkeuksen hakemisen syystä ja vaikutuksista toiminnan tulokseen ja taloudelliseen asemaan sekä tieto, että poikkeus perustuu Vakuutusvalvontaviraston antamaan lupaan;",
+      "clause_number": 5,
+      "section_number": "7",
+      "statute_id": "1340/2002"
+    },
+    {
+      "id": "3411172c-fea4-4653-9e33-2cc6a296603e",
+      "node_type": "Clause",
+      "publisher": "finlex",
+      "title": "§ 7 mom 11",
+      "text": "11) selostus vakuutusyhtiölain 10 luvun 14 §:n 5 momentissa, vakuutusyhdistyslain (1250/1987) 10 luvun 12 §:n 5 momentissa ja ulkomaisista vakuutusyhtiöistä annetun lain (398/1995) 40 b §:n 5 momentissa tarkoitetuista määräaikaisista poikkeusluvista, tieto poikkeuksen hakemisen syystä ja vaikutuksista toiminnan tulokseen ja taloudelliseen asemaan sekä tieto, että poikkeus perustuu Vakuutusvalvontaviraston antamaan lupaan;",
+      "clause_number": 11,
+      "section_number": "7",
+      "statute_id": "1340/2002"
+    },
+    {
+      "id": "80d25f23-17e1-4db3-a5e7-bd3364c3fb61",
+      "node_type": "Clause",
+      "publisher": "finlex",
+      "title": "§ 7 mom 7",
+      "text": "12) vakuutusyhtiölain 10 luvun 14 §:n 7 momentissa, vakuutusyhdistyslain 10 luvun 12 §:n 7 momentissa ja ulkomaisista vakuutusyhtiöistä annetun lain 40 b §:n 7 momentissa tarkoitetut määräaikaiset poikkeusluvat sekä tieto, että poikkeus perustuu Vakuutusvalvontaviraston antamaan lupaan;",
+      "clause_number": 7,
+      "section_number": "7",
+      "statute_id": "1340/2002"
+    },
+    {
+      "id": "d6d8043f-fbaf-411e-bd83-508c3b45cffa",
+      "node_type": "Clause",
+      "publisher": "finlex",
+      "title": "§ 7 mom 12",
+      "text": "12) vakuutusyhtiölain 10 luvun 14 §:n 7 momentissa, vakuutusyhdistyslain 10 luvun 12 §:n 7 momentissa ja ulkomaisista vakuutusyhtiöistä annetun lain 40 b §:n 7 momentissa tarkoitetut määräaikaiset poikkeusluvat sekä tieto, että poikkeus perustuu Vakuutusvalvontaviraston antamaan lupaan;",
+      "clause_number": 12,
+      "section_number": "7",
+      "statute_id": "1340/2002"
+    },
+    {
+      "id": "e4aeecd5-eca1-4b39-afad-2dbb14b99f49",
+      "node_type": "Clause",
+      "publisher": "finlex",
+      "title": "§ 9 mom 1",
+      "text": "1) sijoitusten jäljellä oleva hankintameno, kirjanpitoarvo ja käypä arvo tase-erittäin; kiinteistöt ja kiinteistöosakkeet eriteltyinä kiinteistöihin, kiinteistöosakkeisiin saman konsernin yrityksissä, kiinteistöosakkeisiin omistusyhteysyrityksissä ja muihin kiinteistöosakkeisiin; sijoitussidonnaisten vakuutusten katteena olevista sijoituksista alkuperäinen hankintameno ja käypä arvo;",
+      "clause_number": 1,
+      "section_number": "9",
+      "statute_id": "1340/2002"
+    },
+    {
+      "id": "c3d31bb2-6d0f-4adc-9a31-afe169bf2ebb",
+      "node_type": "Clause",
+      "publisher": "finlex",
+      "title": "§ 9 mom 2",
+      "text": "2) kiinteistöjen vuokraoikeuksien hankintamenot, jotka on aktivoitu kirjanpitolain (1336/1997) 5 luvun 11 §:n mukaisesti;",
+      "clause_number": 2,
+      "section_number": "9",
+      "statute_id": "1340/2002"
+    },
+    {
+      "id": "c5a9e0e4-74cb-41d3-8fea-1b2a2a7c720f",
+      "node_type": "Clause",
+      "publisher": "finlex",
+      "title": "§ 9 mom 3",
+      "text": "3) kiinteistösijoitusten käyvät arvot eriteltyinä arviointitilikausittain;",
+      "clause_number": 3,
+      "section_number": "9",
+      "statute_id": "1340/2002"
+    },
+    {
+      "id": "87aa6c76-647e-4c72-83ff-54392e7e5c64",
+      "node_type": "Clause",
+      "publisher": "finlex",
+      "title": "§ 9 mom 4",
+      "text": "4) omassa käytössä olevien kiinteistösijoitusten jäljellä oleva hankintameno, kirjanpitoarvo ja käypä arvo;",
+      "clause_number": 4,
+      "section_number": "9",
+      "statute_id": "1340/2002"
+    },
+    {
+      "id": "f9f88deb-30e3-41f2-818b-6d07aec022bf",
+      "node_type": "Clause",
+      "publisher": "finlex",
+      "title": "§ 9 mom 2",
+      "text": "5) kirjanpitoasetuksen 2 luvun 4 §:n 2 momenttia vastaava erittely kiinteistösijoituksista, sijoituksista saman konsernin yrityksissä ja omistusyhteysyrityksissä, aineettomista hyödykkeistä sekä aineellisiin hyödykkeisiin kuuluvasta käyttöomaisuudesta;",
+      "clause_number": 2,
+      "section_number": "9",
+      "statute_id": "1340/2002"
+    },
+    {
+      "id": "db471e5b-2db9-4db5-ab60-9214ec5b3ba9",
+      "node_type": "Clause",
+      "publisher": "finlex",
+      "title": "§ 9 mom 5",
+      "text": "5) kirjanpitoasetuksen 2 luvun 4 §:n 2 momenttia vastaava erittely kiinteistösijoituksista, sijoituksista saman konsernin yrityksissä ja omistusyhteysyrityksissä, aineettomista hyödykkeistä sekä aineellisiin hyödykkeisiin kuuluvasta käyttöomaisuudesta;",
+      "clause_number": 5,
+      "section_number": "9",
+      "statute_id": "1340/2002"
+    },
+    {
+      "id": "08eeac2a-dec4-4768-a82f-0710fbdc05dc",
+      "node_type": "Clause",
+      "publisher": "finlex",
+      "title": "§ 9 mom 6",
+      "text": "6) tieto joukkovelkakirjojen ja muiden vastaavien raha- ja pääomamarkkinavälineiden jäljellä olevan hankintamenon sisältämästä korkotuotoiksi tai niiden vähennyksiksi jaksotetusta joukkovelkakirjan tai muun vastaavan raha- tai pääomamarkkinavälineen nimellisarvon ja hankintamenon erotuksesta;",
+      "clause_number": 6,
+      "section_number": "9",
+      "statute_id": "1340/2002"
+    },
+    {
+      "id": "fcf16381-2182-4030-98ad-b1adc9bf3e6b",
+      "node_type": "Clause",
+      "publisher": "finlex",
+      "title": "§ 9 mom 7",
+      "text": "7) taseen erän \"Muut lainasaamiset\" erittely vakuuksien mukaan;",
+      "clause_number": 7,
+      "section_number": "9",
+      "statute_id": "1340/2002"
+    },
+    {
+      "id": "297a41a6-03dc-42fa-949a-914473d55f27",
+      "node_type": "Clause",
+      "publisher": "finlex",
+      "title": "§ 9 mom 8",
+      "text": "8) työeläkevakuutusyhtiön eläkelainasaamisten erittely;",
+      "clause_number": 8,
+      "section_number": "9",
+      "statute_id": "1340/2002"
+    },
+    {
+      "id": "9f12262f-ba2f-4a69-a82b-07aa3a27aa7c",
+      "node_type": "Clause",
+      "publisher": "finlex",
+      "title": "§ 9 mom 9",
+      "text": "9) taseeseen vastaaviin kirjattujen johdannaisten kirjanpitoarvojen erittely tase-erittäin;",
+      "clause_number": 9,
+      "section_number": "9",
+      "statute_id": "1340/2002"
+    },
+    {
+      "id": "c73f3fd8-9f60-4aa0-997a-ac4bccdc33bb",
+      "node_type": "Clause",
+      "publisher": "finlex",
+      "title": "§ 9 mom 10",
+      "text": "10) taseen \"sijoitukset\" pääryhmän ryhmän \"Muut sijoitukset\" \"Muut sijoitukset\" -erän erittely, jos erä on suuruudeltaan olennainen;",
+      "clause_number": 10,
+      "section_number": "9",
+      "statute_id": "1340/2002"
+    },
+    {
+      "id": "3efa86ee-1a4f-43b4-91eb-abb3955bc78a",
+      "node_type": "Clause",
+      "publisher": "finlex",
+      "title": "§ 9 mom 11",
+      "text": "11) taseen pääryhmän \"Saamiset\" erittely tase-erittäin saamisiin saman konsernin yrityksiltä ja omistusyhteysyrityksiltä;",
+      "clause_number": 11,
+      "section_number": "9",
+      "statute_id": "1340/2002"
+    },
+    {
+      "id": "70868567-d047-45f4-acb7-aa8e072cc894",
+      "node_type": "Clause",
+      "publisher": "finlex",
+      "title": "§ 9 mom 12",
+      "text": "12) taseen pääryhmän \"Muu omaisuus\" \"Muu omaisuus\" -erän erittely, jos erä on suuruudeltaan olennainen;",
+      "clause_number": 12,
+      "section_number": "9",
+      "statute_id": "1340/2002"
+    },
+    {
+      "id": "e66d9371-d20a-4fe9-8845-32584890f957",
+      "node_type": "Clause",
+      "publisher": "finlex",
+      "title": "§ 9 mom 13",
+      "text": "13) taseen \"Vakuutusten aktivoidut hankintamenot\" -erän erittely vahinko-, henki-, ja eläkevakuutukseen;",
+      "clause_number": 13,
+      "section_number": "9",
+      "statute_id": "1340/2002"
+    },
+    {
+      "id": "f8d138a3-ebcf-4839-a354-dcd69e698263",
+      "node_type": "Clause",
+      "publisher": "finlex",
+      "title": "§ 9 mom 14",
+      "text": "14) edustuston hallussa olevista yrityksen johon edustusto kuuluu, ja sen emoyrityksen osakkeista tai osuuksista osakelajeittain lukumäärä, yhteenlaskettu nimellisarvo ja hankintameno;",
+      "clause_number": 14,
+      "section_number": "9",
+      "statute_id": "1340/2002"
+    },
+    {
+      "id": "ddd76b01-bacf-439e-8138-fc17a1d4a3e2",
+      "node_type": "Clause",
+      "publisher": "finlex",
+      "title": "§ 9 mom 15",
+      "text": "15) erittely 5 §:ssä tarkoitetun tasekaavan vastaavien yhdistellyistä eristä.",
+      "clause_number": 15,
+      "section_number": "9",
+      "statute_id": "1340/2002"
+    },
+    {
+      "id": "d9254a6b-8dcf-46a1-b9ee-1eda7398ec8d",
+      "node_type": "Clause",
+      "publisher": "finlex",
+      "title": "§ 11 mom 1",
+      "text": "1) liikevaihto;",
+      "clause_number": 1,
+      "section_number": "11",
+      "statute_id": "1340/2002"
+    },
+    {
+      "id": "6a374f6c-054a-4601-bd50-9518a01121ba",
+      "node_type": "Clause",
+      "publisher": "finlex",
+      "title": "§ 11 mom 2",
+      "text": "2) vakuutusmaksutulo;",
+      "clause_number": 2,
+      "section_number": "11",
+      "statute_id": "1340/2002"
+    },
+    {
+      "id": "a824473c-f3a6-4639-985f-8ef3c466055d",
+      "node_type": "Clause",
+      "publisher": "finlex",
+      "title": "§ 11 mom 3",
+      "text": "3) maksetut eläkkeet;",
+      "clause_number": 3,
+      "section_number": "11",
+      "statute_id": "1340/2002"
+    },
+    {
+      "id": "e9ea895c-7590-46dd-8314-213ea55c7ae6",
+      "node_type": "Clause",
+      "publisher": "finlex",
+      "title": "§ 11 mom 4",
+      "text": "4) sijoitustoiminnan tuotto sitoutuneelle pääomalle käyvin arvoin sijoituslajeittain eriteltynä;",
+      "clause_number": 4,
+      "section_number": "11",
+      "statute_id": "1340/2002"
+    },
+    {
+      "id": "3a9e9fb0-1d83-4626-84da-c6483073f17d",
+      "node_type": "Clause",
+      "publisher": "finlex",
+      "title": "§ 11 mom 5",
+      "text": "5) asiakashyvitykset;",
+      "clause_number": 5,
+      "section_number": "11",
+      "statute_id": "1340/2002"
+    },
+    {
+      "id": "1fcd7fc4-2ee8-42ab-9c77-25515958ffb3",
+      "node_type": "Clause",
+      "publisher": "finlex",
+      "title": "§ 11 mom 6",
+      "text": "6) liikekulut;",
+      "clause_number": 6,
+      "section_number": "11",
+      "statute_id": "1340/2002"
+    },
+    {
+      "id": "eca9a6ae-581d-4597-9e86-499f9e3fe51e",
+      "node_type": "Clause",
+      "publisher": "finlex",
+      "title": "§ 11 mom 7",
+      "text": "7) sijoitusten käypä arvo sijoituslajeittain;",
+      "clause_number": 7,
+      "section_number": "11",
+      "statute_id": "1340/2002"
+    },
+    {
+      "id": "c48c8a4f-982b-482a-9a4b-4e521e89ee5d",
+      "node_type": "Clause",
+      "publisher": "finlex",
+      "title": "§ 11 mom 8",
+      "text": "8) toimintapääoma, toimintapääoma suhteessa vastuuvelkaan ja toimintapääoma suhteessa vakavaraisuusrajaan; tiedot tulee antaa sekä taulukon että kuvan muodossa;",
+      "clause_number": 8,
+      "section_number": "11",
+      "statute_id": "1340/2002"
+    },
+    {
+      "id": "891bfcdc-e485-4436-84e9-48e8fabbd3f3",
+      "node_type": "Clause",
+      "publisher": "finlex",
+      "title": "§ 11 mom 9",
+      "text": "9) taseen vastuuvelka;",
+      "clause_number": 9,
+      "section_number": "11",
+      "statute_id": "1340/2002"
+    },
+    {
+      "id": "867c5b20-aa57-4c2a-88a5-b05558301c48",
+      "node_type": "Clause",
+      "publisher": "finlex",
+      "title": "§ 11 mom 10",
+      "text": "10) taseen vastuuvelka ja varojen arvostuserot yhteensä;",
+      "clause_number": 10,
+      "section_number": "11",
+      "statute_id": "1340/2002"
+    },
+    {
+      "id": "f6bc77a4-b679-416e-ace1-2c1c9955ca8c",
+      "node_type": "Clause",
+      "publisher": "finlex",
+      "title": "§ 11 mom 11",
+      "text": "11) TEL -palkkasumma;",
+      "clause_number": 11,
+      "section_number": "11",
+      "statute_id": "1340/2002"
+    },
+    {
+      "id": "430be604-ec32-439e-886b-bc29e558f130",
+      "node_type": "Clause",
+      "publisher": "finlex",
+      "title": "§ 11 mom 12",
+      "text": "12) TEL -vakuutuksenottajien lukumäärä;",
+      "clause_number": 12,
+      "section_number": "11",
+      "statute_id": "1340/2002"
+    },
+    {
+      "id": "03fd3c3a-5283-4a82-b1f2-ce417aef6ec0",
+      "node_type": "Clause",
+      "publisher": "finlex",
+      "title": "§ 11 mom 13",
+      "text": "13) TEL -vakuutettujen lukumäärä;",
+      "clause_number": 13,
+      "section_number": "11",
+      "statute_id": "1340/2002"
+    },
+    {
+      "id": "cc775258-819f-4bd7-8a10-b39fef60fc58",
+      "node_type": "Clause",
+      "publisher": "finlex",
+      "title": "§ 11 mom 14",
+      "text": "14) YEL -työtulosumma;",
+      "clause_number": 14,
+      "section_number": "11",
+      "statute_id": "1340/2002"
+    },
+    {
+      "id": "f470a023-2d7a-4fd9-bd8d-7ff41d006a3b",
+      "node_type": "Clause",
+      "publisher": "finlex",
+      "title": "§ 11 mom 15",
+      "text": "15) eläkkeensaajien lukumäärä.",
+      "clause_number": 15,
+      "section_number": "11",
+      "statute_id": "1340/2002"
+    },
+    {
+      "id": "fc9c6bbc-4a0a-4854-a0c3-6ca106080b2d",
+      "node_type": "Clause",
+      "publisher": "finlex",
+      "title": "§ 11 mom 1",
+      "text": "1) liikevaihto, jonka esittäminen on vapaaehtoista;",
+      "clause_number": 1,
+      "section_number": "11",
+      "statute_id": "1340/2002"
+    },
+    {
+      "id": "4c970c26-9051-4be9-b912-a0ad66ad7e29",
+      "node_type": "Clause",
+      "publisher": "finlex",
+      "title": "§ 11 mom 2",
+      "text": "2) liikevoitto tai –tappio ja kokonaistulos;",
+      "clause_number": 2,
+      "section_number": "11",
+      "statute_id": "1340/2002"
+    },
+    {
+      "id": "f812934a-c1f0-4226-a89f-f23c6d8b5c6b",
+      "node_type": "Clause",
+      "publisher": "finlex",
+      "title": "§ 11 mom 3",
+      "text": "3) sijoitustoiminnan nettotuotto sitoutuneelle pääomalle käyvin arvoin sijoituslajeittain eriteltynä;",
+      "clause_number": 3,
+      "section_number": "11",
+      "statute_id": "1340/2002"
+    },
+    {
+      "id": "5bd03fc9-5d25-483f-a41b-1db9b6007802",
+      "node_type": "Clause",
+      "publisher": "finlex",
+      "title": "§ 11 mom 4",
+      "text": "4) sijoitustoiminnan nettotuottoerittely;",
+      "clause_number": 4,
+      "section_number": "11",
+      "statute_id": "1340/2002"
+    },
+    {
+      "id": "bda15341-8cb5-4f38-a175-cda03d8f05b4",
+      "node_type": "Clause",
+      "publisher": "finlex",
+      "title": "§ 11 mom 5",
+      "text": "5) sijoitusten käypä arvo sijoituslajeittain;",
+      "clause_number": 5,
+      "section_number": "11",
+      "statute_id": "1340/2002"
+    },
+    {
+      "id": "aacf24f4-e7d6-4b25-9a87-f9c9b1e31246",
+      "node_type": "Clause",
+      "publisher": "finlex",
+      "title": "§ 11 mom 6",
+      "text": "6) kokonaispääoman tuotto ilman sijoitussidonnaista vakuutusta prosentteina käyvin arvoin arvostettuna;",
+      "clause_number": 6,
+      "section_number": "11",
+      "statute_id": "1340/2002"
+    },
+    {
+      "id": "0b782586-ab4c-4255-8777-f2556a66a0e9",
+      "node_type": "Clause",
+      "publisher": "finlex",
+      "title": "§ 11 mom 7",
+      "text": "7) henkilöstön keskimääräinen lukumäärä tilikauden aikana.",
+      "clause_number": 7,
+      "section_number": "11",
+      "statute_id": "1340/2002"
+    },
+    {
+      "id": "b3e4c892-173e-4071-9e39-f2aef41c5294",
+      "node_type": "Clause",
+      "publisher": "finlex",
+      "title": "§ 11 mom 1",
+      "text": "1) vakuutusmaksutulo;",
+      "clause_number": 1,
+      "section_number": "11",
+      "statute_id": "1340/2002"
+    },
+    {
+      "id": "b97607ad-41f9-4f99-8175-294b0cd64eb0",
+      "node_type": "Clause",
+      "publisher": "finlex",
+      "title": "§ 11 mom 2",
+      "text": "2) vahinkosuhde prosentteina;",
+      "clause_number": 2,
+      "section_number": "11",
+      "statute_id": "1340/2002"
+    },
+    {
+      "id": "68a4b851-9e40-417e-8e73-a5c69466e58e",
+      "node_type": "Clause",
+      "publisher": "finlex",
+      "title": "§ 11 mom 3",
+      "text": "3) liikekulusuhde prosentteina;",
+      "clause_number": 3,
+      "section_number": "11",
+      "statute_id": "1340/2002"
+    },
+    {
+      "id": "0e9f531d-f8dd-4279-a188-c325d250f210",
+      "node_type": "Clause",
+      "publisher": "finlex",
+      "title": "§ 11 mom 4",
+      "text": "4) yhdistetty kulusuhde prosentteina;",
+      "clause_number": 4,
+      "section_number": "11",
+      "statute_id": "1340/2002"
+    },
+    {
+      "id": "6473fd55-73f2-46cd-ab0e-24518cd181a2",
+      "node_type": "Clause",
+      "publisher": "finlex",
+      "title": "§ 11 mom 5",
+      "text": "5) toimintapääoma tilinpäätöksen mukaisessa valuutassa;",
+      "clause_number": 5,
+      "section_number": "11",
+      "statute_id": "1340/2002"
+    },
+    {
+      "id": "9f9163c7-5fd6-42dc-a6ec-948ab02e8418",
+      "node_type": "Clause",
+      "publisher": "finlex",
+      "title": "§ 11 mom 6",
+      "text": "6) tasoitusmäärä tilinpäätöksen mukaisessa valuutassa;",
+      "clause_number": 6,
+      "section_number": "11",
+      "statute_id": "1340/2002"
+    },
+    {
+      "id": "e5920ca8-62e6-4258-b1ce-506ed7baa636",
+      "node_type": "Clause",
+      "publisher": "finlex",
+      "title": "§ 11 mom 7",
+      "text": "7) vakavaraisuuspääoma tilinpäätöksen mukaisessa valuutassa;",
+      "clause_number": 7,
+      "section_number": "11",
+      "statute_id": "1340/2002"
+    },
+    {
+      "id": "7840a2f6-7df5-4151-8e19-13a84e7cd4fa",
+      "node_type": "Clause",
+      "publisher": "finlex",
+      "title": "§ 11 mom 8",
+      "text": "8) vakavaraisuuspääoma prosentteina vastuuvelasta;",
+      "clause_number": 8,
+      "section_number": "11",
+      "statute_id": "1340/2002"
+    },
+    {
+      "id": "039f20ec-46db-426c-a23a-b326fd73c246",
+      "node_type": "Clause",
+      "publisher": "finlex",
+      "title": "§ 11 mom 9",
+      "text": "9) vastuunkantokyky prosentteina.",
+      "clause_number": 9,
+      "section_number": "11",
+      "statute_id": "1340/2002"
+    },
+    {
+      "id": "b855456c-580a-4252-bb58-d4546006713f",
+      "node_type": "Clause",
+      "publisher": "finlex",
+      "title": "§ 11 mom 1",
+      "text": "1) vakuutusmaksutulo;",
+      "clause_number": 1,
+      "section_number": "11",
+      "statute_id": "1340/2002"
+    },
+    {
+      "id": "2564b417-66fd-4044-a390-22490d50d645",
+      "node_type": "Clause",
+      "publisher": "finlex",
+      "title": "§ 11 mom 2",
+      "text": "2) liikekustannussuhde prosentteina;",
+      "clause_number": 2,
+      "section_number": "11",
+      "statute_id": "1340/2002"
+    },
+    {
+      "id": "6701170f-18f1-4744-a830-0df2c6d6eedd",
+      "node_type": "Clause",
+      "publisher": "finlex",
+      "title": "§ 11 mom 3",
+      "text": "3) toimintapääoma tilinpäätöksen mukaisessa valuutassa;",
+      "clause_number": 3,
+      "section_number": "11",
+      "statute_id": "1340/2002"
+    },
+    {
+      "id": "ede3dedb-7b05-4c10-86f4-8892b135ba03",
+      "node_type": "Clause",
+      "publisher": "finlex",
+      "title": "§ 11 mom 4",
+      "text": "4) tasoitusmäärä tilinpäätöksen mukaisessa valuutassa;",
+      "clause_number": 4,
+      "section_number": "11",
+      "statute_id": "1340/2002"
+    },
+    {
+      "id": "8336448e-a795-49d5-b3b5-b243b6204834",
+      "node_type": "Clause",
+      "publisher": "finlex",
+      "title": "§ 11 mom 5",
+      "text": "5) vakavaraisuuspääoma prosentteina vastuuvelasta.",
+      "clause_number": 5,
+      "section_number": "11",
+      "statute_id": "1340/2002"
+    },
+    {
+      "id": "5c5cd138-3188-40c2-bab9-d8d3b100de53",
+      "node_type": "Clause",
+      "publisher": "finlex",
+      "title": "§ 16 mom 1",
+      "text": "1) sen emoyrityksen nimi ja kotipaikka, joka laatii suurimman sellaisen yrityskokonaisuuden konsernitilinpäätöksen, johon kirjanpitovelvollinen kuuluu;",
+      "clause_number": 1,
+      "section_number": "16",
+      "statute_id": "1340/2002"
+    },
+    {
+      "id": "e3db90bf-0c93-4102-9015-a617fbda1ba6",
+      "node_type": "Clause",
+      "publisher": "finlex",
+      "title": "§ 16 mom 2",
+      "text": "2) emoyrityksen nimi ja kotipaikka siinä alakonsernissa, joka sisältyy 1 kohdassa tarkoitettuun konserniin ja johon kirjanpitovelvollinen tytäryrityksenä kuuluu; sekä",
+      "clause_number": 2,
+      "section_number": "16",
+      "statute_id": "1340/2002"
+    },
+    {
+      "id": "71f64e20-8d48-4afe-b064-3e436d8136d3",
+      "node_type": "Clause",
+      "publisher": "finlex",
+      "title": "§ 16 mom 3",
+      "text": "3) tieto siitä, mistä jäljennös 1 ja 2 kohdassa tarkoitetuista konsernitilinpäätöksistä on saatavissa.",
+      "clause_number": 3,
+      "section_number": "16",
+      "statute_id": "1340/2002"
+    }
+  ],
+  "cross_references": [
+    {
+      "raw_text": "pykälän 3 momentin e",
+      "statute_id": "1340/2002",
+      "section_number": "3 momentin e",
+      "clause_number": null,
+      "resolution_confidence": 0.0
+    }
+  ],
+  "raw_html_path": "C:\\Users\\danit\\finance-hack\\aalto-hackaton-2026\\data\\raw\\finlex\\Asetus\\Sosiaali- ja terveysministeriön asetus vakuutusyrityksen tilinpäätöksestä ja konsernitilinpäätöksestä annetun sosiaali- ja terveysministeriön asetuksen muuttamisesta_2.html"
+}

@@ -1,0 +1,88 @@
+{
+  "statute": {
+    "id": "59423ebf-a9c0-446b-86e9-3edf2f3996d2",
+    "node_type": "Statute",
+    "publisher": "finlex",
+    "title": "Laki euromääräisten maksujen pyöristämisestä",
+    "text": "Laki euromääräisten maksujen pyöristämisestä",
+    "statute_id": "29/2002",
+    "finlex_url": "https://finlex.fi/fi/laki/ajantasa/29/2002"
+  },
+  "chapters": [],
+  "sections": [
+    {
+      "id": "529b0497-3cff-4eb5-adae-0d827fe3392c",
+      "node_type": "Section",
+      "publisher": "finlex",
+      "title": "1 §",
+      "text": "Suomessa suoritettava euromääräinen maksu pyöristetään seuraavasti: Yhden ja kahden sentin suuruista maksua ei pyöristetä. Maksu voidaan pyöristää 1 momentissa säädetyllä tavalla myös velottaessa sitä kirjallisesti tai kirjattaessa se maksamisen sijasta velaksi taikka maksettaessa se pankki- tai muulla maksukortilla.",
+      "section_number": "1",
+      "chapter_number": 1,
+      "statute_id": "29/2002"
+    },
+    {
+      "id": "07eb0ec7-5d7f-4575-9284-aef199c882f3",
+      "node_type": "Section",
+      "publisher": "finlex",
+      "title": "2 §",
+      "text": "Senttimääriä ei pyöristetä, jos osapuolten kesken on niin sovittu tai jos maksu suoritetaan tilien välisenä tilisiirtona. Kun maksu suoritetaan pankin välityksellä muuten kuin 1 momentissa tarkoitettuna tilisiirtona, pankki voi vaatia, että maksun ja maksutositteen määrä pyöristetään. Jos tällöin suoritetaan useampia maksuja samanaikaisesti, kukin niistä pyöristetään erikseen.",
+      "section_number": "2",
+      "chapter_number": 1,
+      "statute_id": "29/2002"
+    },
+    {
+      "id": "09206fed-b420-4634-b835-422ea9c97719",
+      "node_type": "Section",
+      "publisher": "finlex",
+      "title": "3 §",
+      "text": "Tämä laki tulee voimaan 1 päivänä tammikuuta 2002. Tämä laki tulee voimaan 1 päivänä heinäkuuta 2002. HE 29/2002, TaVM 11/2002, EV 73/2002",
+      "section_number": "3",
+      "chapter_number": 1,
+      "statute_id": "29/2002"
+    }
+  ],
+  "clauses": [
+    {
+      "id": "f24ea96f-961e-44af-9b35-c0393cc1ac6b",
+      "node_type": "Clause",
+      "publisher": "finlex",
+      "title": "§ 1 mom 1",
+      "text": "1) jos suoritettava määrä päättyy yhteen tai kahteen senttiin, se pyöristetään lähinnä pienempään kymmenellä jaolliseen senttimäärään,",
+      "clause_number": 1,
+      "section_number": "1",
+      "statute_id": "29/2002"
+    },
+    {
+      "id": "6a8cbd7b-93b4-4575-b90e-da2b41a890a5",
+      "node_type": "Clause",
+      "publisher": "finlex",
+      "title": "§ 1 mom 2",
+      "text": "2) jos suoritettava määrä päättyy kolmeen tai neljään senttiin, se pyöristetään lähinnä suurempaan viidellä jaolliseen senttimäärään,",
+      "clause_number": 2,
+      "section_number": "1",
+      "statute_id": "29/2002"
+    },
+    {
+      "id": "2cfa1895-eae9-4697-9b5c-611c6cb67fdc",
+      "node_type": "Clause",
+      "publisher": "finlex",
+      "title": "§ 1 mom 3",
+      "text": "3) jos suoritettava määrä päättyy kuuteen tai seitsemään senttiin, se pyöristetään lähinnä pienempään viidellä jaolliseen senttimäärään,",
+      "clause_number": 3,
+      "section_number": "1",
+      "statute_id": "29/2002"
+    },
+    {
+      "id": "d919b706-b33f-46ca-a8cb-b14d6d3612c0",
+      "node_type": "Clause",
+      "publisher": "finlex",
+      "title": "§ 1 mom 4",
+      "text": "4) jos suoritettava määrä päättyy kahdeksaan tai yhdeksään senttiin, se pyöristetään lähinnä suurempaan kymmenellä jaolliseen senttimäärään.",
+      "clause_number": 4,
+      "section_number": "1",
+      "statute_id": "29/2002"
+    }
+  ],
+  "cross_references": [],
+  "raw_html_path": "C:\\Users\\danit\\finance-hack\\aalto-hackaton-2026\\data\\raw\\finlex\\Laki\\Laki euromääräisten maksujen pyöristämisestä.html"
+}

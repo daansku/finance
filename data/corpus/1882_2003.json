@@ -1,0 +1,785 @@
+{
+  "statute": {
+    "id": "3a077e53-2eb5-4783-9ed7-83572350de68",
+    "node_type": "Statute",
+    "publisher": "finlex",
+    "title": "Laki eräiden huviveneiden turvallisuudesta ja päästövaatimuksista",
+    "text": "Laki eräiden huviveneiden turvallisuudesta ja päästövaatimuksista",
+    "statute_id": "1882/2003",
+    "finlex_url": "https://finlex.fi/fi/laki/ajantasa/1882/2003"
+  },
+  "chapters": [
+    {
+      "id": "421ffa18-c2b1-4772-a671-03ac0db50104",
+      "node_type": "Chapter",
+      "publisher": "finlex",
+      "title": "Chapter 1",
+      "text": "1 luku Yleiset säännökset",
+      "chapter_number": 1,
+      "statute_id": "1882/2003"
+    },
+    {
+      "id": "1676a95b-d65c-4b5e-b69b-ea8de1b3493f",
+      "node_type": "Chapter",
+      "publisher": "finlex",
+      "title": "Chapter 2",
+      "text": "2 luku Tuotteiden vaatimustenmukaisuus",
+      "chapter_number": 2,
+      "statute_id": "1882/2003"
+    },
+    {
+      "id": "029abb86-ea9b-4e74-917d-31a3d7f69bb4",
+      "node_type": "Chapter",
+      "publisher": "finlex",
+      "title": "Chapter 3",
+      "text": "3 luku Markkinavalvontasäännökset",
+      "chapter_number": 3,
+      "statute_id": "1882/2003"
+    },
+    {
+      "id": "6c93d0f0-db4b-482b-86cf-ba9b064d7932",
+      "node_type": "Chapter",
+      "publisher": "finlex",
+      "title": "Chapter 4",
+      "text": "4 luku Erinäiset säännökset",
+      "chapter_number": 4,
+      "statute_id": "1882/2003"
+    }
+  ],
+  "sections": [
+    {
+      "id": "118be6e9-f1d5-42ec-b30d-29b237393c8b",
+      "node_type": "Section",
+      "publisher": "finlex",
+      "title": "1 § Lain tarkoitus",
+      "text": "Tämän lain tarkoituksena on suojella ihmisten turvallisuutta ja terveyttä sekä omaisuutta ja ympäristöä huviveneiden, vesiskoottereiden ja niiden varusteiden vaarallisilta ominaisuuksilta sekä huviveneiden ja vesiskoottereiden moottoreiden pakokaasu- ja melupäästöiltä.",
+      "section_number": "1",
+      "chapter_number": 1,
+      "statute_id": "1882/2003"
+    },
+    {
+      "id": "f22fafc6-0f50-485b-9d76-fce828e1864b",
+      "node_type": "Section",
+      "publisher": "finlex",
+      "title": "2 § Määritelmät",
+      "text": "Tässä laissa ja sen nojalla annetuissa säännöksissä tarkoitetaan:",
+      "section_number": "2",
+      "chapter_number": 1,
+      "statute_id": "1882/2003"
+    },
+    {
+      "id": "70d4c027-594d-4bfb-a23d-b87522bb2f44",
+      "node_type": "Section",
+      "publisher": "finlex",
+      "title": "3 § Lain soveltamisala",
+      "text": "Tätä lakia sovelletaan:",
+      "section_number": "3",
+      "chapter_number": 1,
+      "statute_id": "1882/2003"
+    },
+    {
+      "id": "3ca66226-49b3-4c86-a88c-75b3db1601f0",
+      "node_type": "Section",
+      "publisher": "finlex",
+      "title": "4 § Poikkeukset soveltamisalasta",
+      "text": "Tämän lain soveltamisalaan ei kuulu:",
+      "section_number": "4",
+      "chapter_number": 1,
+      "statute_id": "1882/2003"
+    },
+    {
+      "id": "552b9cad-700a-41ad-a419-a3bdeea3ed65",
+      "node_type": "Section",
+      "publisher": "finlex",
+      "title": "5 § Markkinavalvontasäännösten soveltamisala",
+      "text": "Markkinavalvontasäännöksiä sovelletaan 3 §:ssä tarkoitettuihin tuotteisiin. Markkinavalvontasäännöksiä ei kuitenkaan sovelleta edellä tarkoitettuihin tuotteisiin siinä tapauksessa, että kysymys on samalla 4 §:ssä tarkoitetusta tämän lain soveltamisalaan kuulumattomasta tuotteesta.",
+      "section_number": "5",
+      "chapter_number": 1,
+      "statute_id": "1882/2003"
+    },
+    {
+      "id": "3d79d53d-2eea-41d9-b64a-94e9058c8605",
+      "node_type": "Section",
+      "publisher": "finlex",
+      "title": "6 § Markkinoille saattaminen tai käyttöön ottaminen",
+      "text": "Tuote voidaan saattaa markkinoille tai ottaa tarkoitettuun käyttöön vain, jos se oikein rakennettuna, asennettuna ja huollettuna ei aiheuta vaaraa ihmisten turvallisuudelle tai terveydelle, omaisuudelle eikä ympäristölle.",
+      "section_number": "6",
+      "chapter_number": 2,
+      "statute_id": "1882/2003"
+    },
+    {
+      "id": "8c18981e-577e-40f8-8353-7c053d299b24",
+      "node_type": "Section",
+      "publisher": "finlex",
+      "title": "7 § Tuotteita koskevat vaatimukset",
+      "text": "Markkinoille saatettavan tai käyttöön otettavan tuotteen on täytettävä huvivenedirektiivin liitteen I mukaiset ihmisten turvallisuutta ja terveyttä sekä ympäristönsuojelua ja kuluttajansuojaa koskevat olennaiset vaatimukset. Yhdenmukaistettuja standardeja vastaavien kansallisten standardien mukaisen tuotteen katsotaan täyttävän huvivenedirektiivin liitteen I vaatimukset. Valtioneuvoston asetuksella voidaan huvivenedirektiivin täytäntöönpanemiseksi säätää:",
+      "section_number": "7",
+      "chapter_number": 2,
+      "statute_id": "1882/2003"
+    },
+    {
+      "id": "7613717b-59bb-4b9f-ae6b-0fd069500ce4",
+      "node_type": "Section",
+      "publisher": "finlex",
+      "title": "8 § Vaatimustenmukaisuuden arviointi",
+      "text": "Valmistajan tai tämän valtuutetun edustajan on ennen tuotteen markkinoille saattamista tai käyttöön ottamista huolehdittava siitä, että tuotteelle suoritetaan vaatimustenmukaisuuden arviointi sen varmistamiseksi, että tuote täyttää sille tässä laissa tai sen nojalla säädetyt vaatimukset. Jos kyse on huviveneen rakentamisen jälkeisestä arvioinnista eikä valmistaja tai tämän valtuutettu edustaja ole huolehtinut arvioinnin suorittamisesta, tulee sellaisen Euroopan unionin jäsenvaltioon tai Euroopan talousalueeseen kuuluvaan valtioon sijoittautuneen luonnollisen henkilön tai oikeushenkilön, joka saattaa huviveneen markkinoille tai ottaa sen käyttöön omalla vastuullaan, huolehtia arvioinnista. Valtioneuvoston asetuksella voidaan huvivenedirektiivin täytäntöönpanemiseksi säätää tarkemmin 1 ja 2 momentissa säädetystä vaatimustenmukaisuuden arvioinnista.",
+      "section_number": "8",
+      "chapter_number": 2,
+      "statute_id": "1882/2003"
+    },
+    {
+      "id": "ee08f078-7df3-45da-a006-1aba6bf39869",
+      "node_type": "Section",
+      "publisher": "finlex",
+      "title": "9 § CE-merkintä",
+      "text": "Vaatimustenmukaisuuden osoittamiseksi tulee huvivenedirektiivin liitteen IV mukainen CE-merkintä olla seuraavissa markkinoille saatettavissa tai käyttöön otettavissa tuotteissa: CE-merkintä on tehtävä näkyvällä, helposti luettavalla ja pysyvällä tavalla: CE-merkinnässä on oltava huvivenedirektiivin liitteissä IX―XII ja XVI esitettyjen menettelyjen täytäntöönpanosta vastuussa olevan laitoksen tunnusnumero. Tuotteeseen ei saa kiinnittää sellaisia merkkejä tai tekstejä, jotka voidaan helposti merkitykseltään tai muodoltaan sekoittaa CE-merkintään tai jotka voivat vaikeuttaa CE-merkinnän näkymistä ja luettavuutta. Jos tuote kuuluu sellaisen muun lainsäädännön soveltamisalaan, jossa on säännöksiä CE-merkinnästä, merkinnän tulee osoittaa, että tuote on myös näiden muiden säännösten mukainen.",
+      "section_number": "9",
+      "chapter_number": 2,
+      "statute_id": "1882/2003"
+    },
+    {
+      "id": "f334cb4b-40a3-4ba3-9c9d-b0d8229049ef",
+      "node_type": "Section",
+      "publisher": "finlex",
+      "title": "10 § Tuotteiden mukana olevat asiakirjat ja asiakirjojen kieli",
+      "text": "Markkinoille saatettavan tai käyttöön otettavan tuotteen mukana tulee olla omistajan käsikirja ja vaatimustenmukaisuuden vakuutus siten kuin huvivenedirektiivin liitteissä I ja XV säädetään. Valtioneuvoston asetuksella voidaan huvivenedirektiivin täytäntöönpanemiseksi säätää asiakirjoista, joiden tulee olla markkinoille saatettavan keskeneräisen huviveneen sekä markkinoille saatettavan tai käyttöön otettavan liitettävän varusteen ja moottorin mukana. Tässä pykälässä tarkoitettujen asiakirjojen tulee olla ainakin suomen ja ruotsin kielellä.",
+      "section_number": "10",
+      "chapter_number": 2,
+      "statute_id": "1882/2003"
+    },
+    {
+      "id": "0d4d1c6a-060e-4f94-b785-1aaadbbb0957",
+      "node_type": "Section",
+      "publisher": "finlex",
+      "title": "11 § Ilmoitetun laitoksen nimeäminen",
+      "text": "Liikenne- ja viestintäministeriö nimeää hakemuksesta laitokset, joilla on oikeus toimia ilmoitettuna laitoksena 8 §:ssä tarkoitetussa vaatimustenmukaisuuden arvioinnissa. Hakemuksessa on esitettävä ministeriön pyytämät hakemuksen käsittelemiseksi tarpeelliset tiedot. Nimeämispäätöksessä määritellään ilmoitetun laitoksen pätevyysalue, vahvistetaan laitoksen valvontaan liittyvät järjestelyt sekä asetetaan tarvittaessa muitakin laitoksen toimintaa koskevia vaatimuksia, rajoituksia ja ehtoja, joilla varmistetaan tehtävien asianmukainen suorittaminen. Ilmoitettu laitos voidaan nimetä määräajaksi tai toistaiseksi. Laitoksen on oltava viranomainen tai suomalainen oikeushenkilö, ja sen on täytettävä huvivenedirektiivin liitteessä XIV asetetut vähimmäisvaatimukset. Laitoksen, joka täyttää sovellettavien yhdenmukaistettujen standardien vaatimukset, katsotaan täyttävän edellä mainitut vähimmäisvaatimukset. Ilmoitetun laitoksen on osoitettava ulkopuolisella arvioinnilla täyttävänsä 3 momentissa säädetyt edellytykset.",
+      "section_number": "11",
+      "chapter_number": 2,
+      "statute_id": "1882/2003"
+    },
+    {
+      "id": "a33cc073-4dc6-42bc-bc60-ebc73873814b",
+      "node_type": "Section",
+      "publisher": "finlex",
+      "title": "12 § Ilmoitetun laitoksen tehtävät",
+      "text": "Ilmoitettu laitos suorittaa seuraavia tehtäviä huvivenedirektiivin liitteissä VI, VII, IX―XII ja XVI esitetyn mukaisesti: Ilmoitetun laitoksen tehtävistä huviveneen rakentamisen jälkeisessä arvioinnissa säädetään tarkemmin valtioneuvoston asetuksella. Ilmoitettu laitos voi teettää alihankkijalla osatoimenpiteitä tässä pykälässä tarkoitettujen tehtäviensä suorittamisessa, jos alihankkija täyttää huvivenedirektiivin liitteen XIV mukaiset ilmoitetun laitoksen nimeämistä koskevat vähimmäisvaatimukset ja jos alihankkija suorittaa tehtävät tässä laissa taikka sen nojalla säädettyjen vaatimusten mukaisesti. Ilmoitettu laitos vastaa alihankintana teettämistään toimenpiteistä.",
+      "section_number": "12",
+      "chapter_number": 2,
+      "statute_id": "1882/2003"
+    },
+    {
+      "id": "ed8f0bd9-131f-48ff-b6f0-ed03d9043cf1",
+      "node_type": "Section",
+      "publisher": "finlex",
+      "title": "13 § Hyvän hallinnon vaatimukset ja virkavastuu",
+      "text": "Ilmoitetun laitoksen on tässä laissa tarkoitettuja julkisia hallintotehtäviä hoitaessaan noudatettava, mitä hallintolaissa (434/2003), kielilaissa (423/2003), sähköisestä asioinnista viranomaistoiminnassa annetussa laissa (13/2003) ja viranomaisten toiminnan julkisuudesta annetussa laissa (621/1999) säädetään. Ilmoitetun laitoksen tai tämän alihankkijan palveluksessa olevaan henkilöön sovelletaan rikosoikeudellista virkavastuuta hänen suorittaessaan tässä laissa tarkoitettuja tehtäviä.",
+      "section_number": "13",
+      "chapter_number": 2,
+      "statute_id": "1882/2003"
+    },
+    {
+      "id": "f1105caf-c271-42af-833b-024021554c5d",
+      "node_type": "Section",
+      "publisher": "finlex",
+      "title": "14 § Ilmoitetun laitoksen valvonta ja nimeämisen peruuttaminen",
+      "text": "Liikenne- ja viestintäministeriö valvoo ilmoitettujen laitosten toimintaa. Ministeriöllä on oikeus salassapitosäännösten estämättä saada valvontatehtävänsä suorittamiseksi tarpeelliset tiedot laitoksen hallinnosta, taloudesta, henkilökunnan teknisestä pätevyydestä, laitoksen tekemistä arvioinneista sekä tämän lain mukaisista arviointimenettelyistä ja laitoksen antamista vaatimustenmukaisuustodistuksista ja EY-tyyppitarkastustodistuksista. Ilmoitetun laitoksen on ilmoitettava ministeriölle sellaisista toimintansa muutoksista, joilla voi olla vaikutusta sen toimintaedellytyksiin. Ministeriö voi peruuttaa nimeämisen kokonaan tai määräajaksi, jos ilmoitettu laitos ei enää täytä huvivenedirektiivin liitteessä XIV säädettyjä vaatimuksia taikka jos laitos toimii olennaisesti tämän lain tai sen nojalla annettujen säännösten vastaisesti. Ministeriön on ilmoitettava Euroopan yhteisöjen komissiolle ja muille Euroopan unionin ja Euroopan talousalueen jäsenvaltioille nimeämänsä ilmoitetut laitokset sekä nimeämisen peruutukset.",
+      "section_number": "14",
+      "chapter_number": 2,
+      "statute_id": "1882/2003"
+    },
+    {
+      "id": "7085c84b-08bf-4251-b192-a4d4a280c58b",
+      "node_type": "Section",
+      "publisher": "finlex",
+      "title": "15 § Merenkulkulaitoksen suorittama markkinavalvonta",
+      "text": "Merenkulkulaitos valvoo, että tuotteet ovat tämän lain ja sen nojalla annettujen säännösten mukaisia silloin, kun ne ensimmäisen kerran saatetaan markkinoille tai otetaan käyttöön.",
+      "section_number": "15",
+      "chapter_number": 3,
+      "statute_id": "1882/2003"
+    },
+    {
+      "id": "a9099d73-b414-4271-8923-6e601b470628",
+      "node_type": "Section",
+      "publisher": "finlex",
+      "title": "16 § Velvollisuus ilmoittaa vaarasta",
+      "text": "Jos valmistaja, valtuutettu edustaja tai markkinoille saattamisesta vastaava henkilö saa tietoonsa tai hänen tulisi hallussaan olevien tietojen perusteella pystyä ammattitaitonsa perusteella päättelemään, että tuotteesta voi aiheutua vaaraa ihmisten turvallisuudelle tai terveydelle taikka omaisuudelle tai ympäristölle, hänen on ilmoitettava tästä välittömästi Merenkulkulaitokselle. Valmistajan, valtuutetun edustajan tai markkinoille saattamisesta vastaavan henkilön on samalla ilmoitettava, mihin toimenpiteisiin hän on jo ryhtynyt vaaran takia. Valmistajan, valtuutetun edustajan tai markkinoille saattamisesta vastaavan henkilön on tehtävä yhteistyötä Merenkulkulaitoksen kanssa vaaran torjumiseksi Merenkulkulaitoksen sitä pyytäessä.",
+      "section_number": "16",
+      "chapter_number": 3,
+      "statute_id": "1882/2003"
+    },
+    {
+      "id": "f33f69d4-220a-4db6-9619-204da0a50b06",
+      "node_type": "Section",
+      "publisher": "finlex",
+      "title": "17 § Kuluttajille annettavat tiedot",
+      "text": "Valmistajan, valtuutetun edustajan tai markkinoille saattamisesta vastaavan henkilön on annettava markkinoinnissaan kuluttajille ja kuluttajiin rinnastettaville henkilöille tarvittavat tiedot, jotta he pystyvät arvioimaan tuotteeseen liittyvät vaarat. Valmistajan, valtuutetun edustajan tai markkinoille saattamisesta vastaavan henkilön on myös varmistauduttava siitä, että tiedot annetaan kuluttajille ja kuluttajiin rinnastettaville henkilöille ymmärrettävässä muodossa. Merenkulkulaitos voi vaatia, että valmistaja, valtuutettu edustaja tai markkinoille saattamisesta vastaava henkilö antaa kuluttajille sopivalla tavalla tuotteeseen liittyvän vaaran torjumisen tai ehkäisemisen kannalta tarpeellisia käyttö- tai toimintaohjeita, varoituksia tai muuta tietoa.",
+      "section_number": "17",
+      "chapter_number": 3,
+      "statute_id": "1882/2003"
+    },
+    {
+      "id": "4e2e1ef6-9b1a-43ad-8cf4-8a9c50826c3a",
+      "node_type": "Section",
+      "publisher": "finlex",
+      "title": "18 § Tiedonsaantioikeus",
+      "text": "Valmistajan, valtuutetun edustajan sekä markkinoille saattamisesta vastaavan henkilön on annettava Merenkulkulaitokselle tämän määräämässä ajassa lain noudattamisen valvonnassa tarpeelliset tiedot, erityisesti siltä osin kuin ne ovat tarpeen tuotteiden yksilöimiseksi ja tarvittaessa niiden jäljittämiseksi, sekä valvontatehtävän edellyttämässä laajuudessa vaadittaessa esitettävä Merenkulkulaitokselle tarkastusta varten kirjanpitonsa, kirjeenvaihtonsa ja varastonsa sekä annettava tehtävän suorittamisessa tarpeellinen apu.",
+      "section_number": "18",
+      "chapter_number": 3,
+      "statute_id": "1882/2003"
+    },
+    {
+      "id": "4def72c3-8e5c-4f82-ae0a-665c156a1171",
+      "node_type": "Section",
+      "publisher": "finlex",
+      "title": "19 § Tarkastusoikeus",
+      "text": "Merenkulkulaitoksella on oikeus päästä alueelle, huoneistoon ja muuhun sellaiseen tilaan, jonne pääsy on tässä laissa tarkoitetun valvonnan kannalta tarpeen, tehdä siellä tarkastuksia ja ryhtyä muihin valvonnan edellyttämiin toimenpiteisiin. Tarkastusoikeus ei kuitenkaan ulotu kotirauhan suojaamiin tiloihin.",
+      "section_number": "19",
+      "chapter_number": 3,
+      "statute_id": "1882/2003"
+    },
+    {
+      "id": "b7e2b358-0d97-4186-bf2b-a38059dffc6e",
+      "node_type": "Section",
+      "publisher": "finlex",
+      "title": "20 § Oikeus ottaa tuotteita tutkittavaksi ja testattavaksi",
+      "text": "Merenkulkulaitoksella on oikeus ottaa tuotteita tutkittavakseen ja testattavakseen, jos se on tämän lain tai sen nojalla annettujen säännösten noudattamisen valvonnan kannalta tarpeellista. Merenkulkulaitos voi käyttää tutkimuksessa ja testauksessa sekä riskinarvioinnissa apunaan ulkopuolista asiantuntijaa. Edellä 1 momentissa tarkoitettu tutkittavaksi ja testattavaksi otettu tuote, joka on vahingoittunut, on korjattava tai, jos se ei ole mahdollista, korvattava käyvän hinnan mukaan, jos valmistaja, valtuutettu edustaja tai markkinoille saattamisesta vastaava henkilö sitä vaatii, jollei havaita, että tuote on tämän lain tai sen nojalla annettujen säännösten vastainen. Jos tuote ei täytä tässä laissa tai sen nojalla säädettyjä vaatimuksia, Merenkulkulaitos voi velvoittaa valmistajan, valtuutetun edustajan tai markkinoille saattamisesta vastaavan henkilön korvaamaan hankinnasta, tutkimuksesta ja testauksesta aiheutuneet välttämättömät ja tarpeelliset kustannukset. Korvattavien kustannusten tulee kuitenkin olla kohtuullisessa suhteessa valvonnassa suoritettuihin toimenpiteisiin sekä rikkomuksen laatuun. Tutkittavaksi ja testattavaksi ottamista ei kuitenkaan voida ulottaa kotirauhan suojaamiin tiloihin.",
+      "section_number": "20",
+      "chapter_number": 3,
+      "statute_id": "1882/2003"
+    },
+    {
+      "id": "f6dcd991-5e6f-4120-9ec9-745650f91332",
+      "node_type": "Section",
+      "publisher": "finlex",
+      "title": "21 § Ulkopuoliselle asiantuntijalle asetettavat vaatimukset",
+      "text": "Tämän lain mukaista viranomaisvalvontaa varten tutkimuksia, testauksia ja riskinarviointeja tekevällä asiantuntijalla tulee olla näiden tehtävien edellyttämä asiantuntemus ja pätevyys. Tällaiseen ulkopuoliseen asiantuntijaan sovelletaan virkamiehen esteellisyyttä koskevia hallintolain säännöksiä.",
+      "section_number": "21",
+      "chapter_number": 3,
+      "statute_id": "1882/2003"
+    },
+    {
+      "id": "9c1c2f6b-d0d5-4844-95dc-0741d103be44",
+      "node_type": "Section",
+      "publisher": "finlex",
+      "title": "22 § Määräys puutteellisuuden korjaamiseksi",
+      "text": "Jos Merenkulkulaitos valvontaa suorittaessaan toteaa, että tuote, sitä koskevat asiakirjat tai siitä annettavat tiedot eivät ole tässä laissa tai sen nojalla annettujen säännösten mukaisia, Merenkulkulaitos voi määrätä tuotteen valmistajan, valtuutetun edustajan tai markkinoille saattamisesta vastaavan henkilön korjaamaan puutteellisuuden Merenkulkulaitoksen asettamassa määräajassa.",
+      "section_number": "22",
+      "chapter_number": 3,
+      "statute_id": "1882/2003"
+    },
+    {
+      "id": "cf996bb5-cab6-457e-b55b-5d737edc8d89",
+      "node_type": "Section",
+      "publisher": "finlex",
+      "title": "23 § Toimenpidemääräykset vaaran torjumiseksi, ehkäisemiseksi tai vähentämiseksi",
+      "text": "Jos tuotteeseen liittyvä vaara ihmisten turvallisuudelle tai terveydelle taikka omaisuudelle tai ympäristölle voidaan tehokkaasti torjua tai ehkäistä taikka vaaran suuruutta voidaan olennaisesti vähentää korjaus-, oikaisu- tai tiedottamistoimenpitein, Merenkulkulaitos voi määrätä, että valmistajan, valtuutetun edustajan tai markkinoille saattamisesta vastaavan henkilön on toteutettava tällaiset toimenpiteet Merenkulkulaitoksen asettamassa määräajassa ja määräämällä tavalla. Merenkulkulaitos voi myös määrätä, että tekemättä jätetty toimenpide teetetään laiminlyöjän kustannuksella taikka että valmistajan, valtuutetun edustajan tai markkinoille saattamisesta vastaavan henkilön toiminta keskeytetään tai kielletään.",
+      "section_number": "23",
+      "chapter_number": 3,
+      "statute_id": "1882/2003"
+    },
+    {
+      "id": "e8f030d2-3247-4414-8d47-0ff481b61d71",
+      "node_type": "Section",
+      "publisher": "finlex",
+      "title": "24 § Valmistuksen, maahantuonnin, markkinoille saattamisen ja käyttöönottamisen kielto",
+      "text": "Jos tuote on ihmisten turvallisuudelle tai terveydelle taikka omaisuudelle tai ympäristölle vaarallinen taikka tuote, sitä koskevat asiakirjat tai siitä annettavat tiedot eivät ole tämän lain tai sen nojalla annettujen säännösten mukaisia, Merenkulkulaitos voi kieltää valmistajalta, valtuutetulta edustajalta tai markkinoille saattamisesta vastaavalta henkilöltä tuotteen valmistuksen, maahantuonnin, markkinoille saattamisen tai käyttöön ottamisen. Merenkulkulaitos voi samalla määrätä, että valmistajan, valtuutetun edustajan tai markkinoille saattamisesta vastaavan henkilön on tehokkaasti ja välittömästi poistettava vaaralliset tai säännösten vastaiset tuotteet markkinoilta. Valmistajan, valtuutetun edustajan tai markkinoille saattamisesta vastaavan henkilön on annettava Merenkulkulaitokselle tämän määräämässä ajassa selvitys siitä, millä tavoin hän on toimeenpannut tässä pykälässä tarkoitettuun kieltoon liitetyn määräyksen, jonka mukaan tuotteet on poistettava markkinoilta.",
+      "section_number": "24",
+      "chapter_number": 3,
+      "statute_id": "1882/2003"
+    },
+    {
+      "id": "9acedae7-0591-4a9a-b68d-eb5c7b304a29",
+      "node_type": "Section",
+      "publisher": "finlex",
+      "title": "25 § Valmistuksen, maahantuonnin, markkinoille saattamisen ja käyttöönottamisen väliaikainen kielto",
+      "text": "Merenkulkulaitos voi määrätä 24 §:ssä tarkoitetun kiellon väliaikaisena, jos on ilmeistä, että tuote aiheuttaa vaaran ihmisten turvallisuudelle tai terveydelle taikka omaisuudelle tai ympäristölle taikka tuote, sitä koskevat asiakirjat tai siitä annettavat tiedot eivät ole tämän lain tai sen nojalla annettujen säännösten mukaisia. Väliaikainen kielto on voimassa, kunnes asia lopullisesti ratkaistaan mainitun pykälän nojalla. Merenkulkulaitos voi määrätä väliaikaisen kiellon samanaikaisesti kuin se antaa 22 tai 23 §:ssä tarkoitetun korjaus- tai oikaisumääräyksen tai määrää toiminnan keskeytettäväksi, jolloin kielto on voimassa korjaus- tai oikaisutoimenpiteelle asetetun määräajan. Kun väliaikainen kielto on asetettu, kysymys 24 §:ssä tarkoitetun kiellon antamisesta on ratkaistava ensi tilassa.",
+      "section_number": "25",
+      "chapter_number": 3,
+      "statute_id": "1882/2003"
+    },
+    {
+      "id": "d27eba8b-1889-497b-9b9a-c9e69b17b4e7",
+      "node_type": "Section",
+      "publisher": "finlex",
+      "title": "26 § Määräys tuotteen hävittämiseksi",
+      "text": "Jos 23―25 §:ssä tarkoitettuja kieltoja ja määräyksiä ei voida pitää riittävinä, Merenkulkulaitos voi määrätä valmistajan, valtuutetun edustajan tai markkinoille saattamisesta vastaavan henkilön hallussa olevan tuotteen taikka 27 §:n nojalla valmistajalle, valtuutetulle edustajalle tai markkinoille saattamisesta vastaavalle henkilölle palautetun tuotteen hävitettäväksi tai, jos tätä ei katsota tarkoituksenmukaiseksi, määrätä, miten tuotteen suhteen muutoin on meneteltävä.",
+      "section_number": "26",
+      "chapter_number": 3,
+      "statute_id": "1882/2003"
+    },
+    {
+      "id": "42e212c2-02ef-4e81-86ac-058866b460d4",
+      "node_type": "Section",
+      "publisher": "finlex",
+      "title": "27 § Määräys tuotteen korjaamiseksi, vaihtamiseksi tai kaupan purkamiseksi",
+      "text": "Kun Merenkulkulaitos on 24 §:n nojalla määrännyt tuotetta koskevan kiellon, se voi määrätä valmistajan, valtuutetun edustajan tai markkinoille saattamisesta vastaavan henkilön ryhtymään toimenpiteisiin, jotka koskevat jo markkinoille saatettua tai käyttöön otettua tuotetta ja joiden nojalla tuotteeseen liittyvä vahingonvaara voidaan torjua ja tuotteen haltijan oikeudellinen asema turvata. Edellä 1 momentissa tarkoitetulla määräyksellä valmistaja, valtuutettu edustaja tai markkinoille saattamisesta vastaava henkilö voidaan velvoittaa: Merenkulkulaitos voi antaa 1 momentissa tarkoitetun määräyksen myös, jos 24 §:ssä tarkoitettua kieltoa ei voida määrätä sen vuoksi, että kysymyksessä olevia tuotteita ei ole enää valmistajan, valtuutetun edustajan tai markkinoille saattamisesta vastaavan henkilön hallussa, ja jos määräyksen antamiseen on painavia syitä.",
+      "section_number": "27",
+      "chapter_number": 3,
+      "statute_id": "1882/2003"
+    },
+    {
+      "id": "dfb6fbfe-41d6-448b-bcaf-282b2705e09c",
+      "node_type": "Section",
+      "publisher": "finlex",
+      "title": "28 § Määräys tiedottamiseen",
+      "text": "Jos Merenkulkulaitos on määrännyt 24 tai 25 §:ssä tarkoitetun kiellon taikka antanut 27 §:ssä tarkoitetun määräyksen, Merenkulkulaitos voi asettamassaan määräajassa ja määräämällään tavalla velvoittaa valmistajan, valtuutetun edustajan tai markkinoille saattamisesta vastaavan henkilön tiedottamaan kiellosta tai määräyksestä sekä tuotteeseen taikka sen käyttämiseen liittyvästä vaarasta. Tiedottamista koskeva määräys voidaan antaa myös silloin, kun 24 §:ssä tarkoitettua kieltoa ei voida määrätä sen vuoksi, että kysymyksessä olevia tuotteita ei ole enää valmistajan, valtuutetun edustajan tai markkinoille saattamisesta vastaavan henkilön hallussa, ja kun tiedottamisvelvoitteen asettamiselle on painavia syitä.",
+      "section_number": "28",
+      "chapter_number": 3,
+      "statute_id": "1882/2003"
+    },
+    {
+      "id": "8adf1ca9-74af-4958-9408-08886f549650",
+      "node_type": "Section",
+      "publisher": "finlex",
+      "title": "29 § Toimenpiteet CE-merkinnällä varustetun vaarallisen tai vaatimustenvastaisen tuotteen osalta",
+      "text": "Jos Merenkulkulaitos toteaa, että CE-merkinnällä varustettu tuote voi oikein suunniteltuna, rakennettuna, tarvittaessa asennettuna, huollettuna ja käyttötarkoituksen mukaisesti käytettynä vaarantaa ihmisten turvallisuuden tai terveyden taikka omaisuuden tai ympäristön, tulee Merenkulkulaitoksen ryhtyä tarvittaviin 24 ja 25 §:ssä tarkoitettuihin toimenpiteisiin tällaisten tuotteiden poistamiseksi markkinoilta tai niiden markkinoille saattamisen ja käyttöönottamisen kieltämiseksi tai rajoittamiseksi. Merenkulkulaitoksen on viipymättä ilmoitettava toimenpiteistään ja niiden perusteista Euroopan yhteisöjen komissiolle. Jos CE-merkinnällä varustettu tuote ei ole vaatimustenmukainen, tulee Merenkulkulaitoksen ryhtyä toimenpiteisiin CE-merkinnän kiinnittänyttä valmistajaa, valtuutettua edustajaa tai markkinoille saattamisesta vastaavaa henkilöä vastaan. Merenkulkulaitoksen on viipymättä ilmoitettava toimenpiteistään ja niiden perusteista Euroopan yhteisöjen komissiolle ja muille Euroopan unionin ja Euroopan talousalueen jäsenvaltioille.",
+      "section_number": "29",
+      "chapter_number": 3,
+      "statute_id": "1882/2003"
+    },
+    {
+      "id": "d0566da2-0460-4ae9-aeae-04a1eeca9816",
+      "node_type": "Section",
+      "publisher": "finlex",
+      "title": "30 § Toimenpiteet epäasianmukaisen CE-merkinnän osalta",
+      "text": "Jos CE-merkintä on kiinnitetty epäasianmukaisesti, valmistaja, valtuutettu edustaja tai markkinoille saattamisesta vastaava henkilö on velvollinen saattamaan merkinnän sitä koskevien säännösten mukaiseksi Merenkulkulaitoksen määräämällä tavalla. Jos 1 momentissa tarkoitettua velvollisuutta ei noudateta, Merenkulkulaitoksen on ryhdyttävä tarvittaviin 29 §:ssä tarkoitettuihin toimenpiteisiin.",
+      "section_number": "30",
+      "chapter_number": 3,
+      "statute_id": "1882/2003"
+    },
+    {
+      "id": "c2d2286f-ec01-4229-8b56-50769ea847ac",
+      "node_type": "Section",
+      "publisher": "finlex",
+      "title": "31 § Uhkasakko",
+      "text": "Merenkulkulaitoksen tämän lain nojalla määräämää kieltoa tai antamaa määräystä on tehostettava uhkasakolla, jollei se erityisistä syistä ole tarpeetonta. Merenkulkulaitos voi asettaa 17 §:ssä tarkoitettujen tietojen antamisen sekä 18 §:ssä tarkoitetun tiedonantovelvollisuuden sekä asiakirjojen ja varaston esittämisvelvollisuuden noudattamisen tehosteeksi uhkasakon. Edellä 1 ja 2 momentissa tarkoitetun uhkasakon tuomitsee maksettavaksi hallinto-oikeus Merenkulkulaitoksen hakemuksesta. Uhkasakkoon, teettämiseen ja keskeyttämiseen sovelletaan muutoin, mitä uhkasakkolaissa (1113/1990) säädetään.",
+      "section_number": "31",
+      "chapter_number": 3,
+      "statute_id": "1882/2003"
+    },
+    {
+      "id": "9cf5d48f-9bf5-4f95-b0e5-f2428fb3f632",
+      "node_type": "Section",
+      "publisher": "finlex",
+      "title": "32 § Valvonnasta perittävät maksut",
+      "text": "Merenkulkulaitos voi määrätä valmistajan, valtuutetun edustajan tai markkinoille saattamisesta vastaavan henkilön suorittamaan Merenkulkulaitokselle valtion maksuperustelaissa (150/1992) tarkoitetun omakustannusarvon mukaisen maksun niistä tarkastuksista, jotka ovat olleet tarpeen Merenkulkulaitoksen ryhdyttyä tämän lain 22―30 §:ssä tarkoitettuun valvontatoimenpiteeseen. Maksusta säädetään tarkemmin liikenne- ja viestintäministeriön asetuksella.",
+      "section_number": "32",
+      "chapter_number": 3,
+      "statute_id": "1882/2003"
+    },
+    {
+      "id": "faf889db-a463-4f8d-abea-16f8f571242a",
+      "node_type": "Section",
+      "publisher": "finlex",
+      "title": "33 § Tiedonsaanti toiselta viranomaiselta ja salassapidettävien tietojen luovuttaminen",
+      "text": "Merenkulkulaitoksella ja tulliviranomaisella on oikeus viranomaisten toiminnan julkisuudesta annetussa laissa säädetyn salassapitovelvollisuuden estämättä saada tämän lain mukaista valvontaa varten tarpeellisia tietoja toisilta viranomaisilta. Viranomaisten toiminnan julkisuudesta annetussa laissa säädetyn salassapitovelvollisuuden estämättä saa tässä laissa tarkoitettuja tehtäviä hoidettaessa saatuja salassapitovelvollisuuden piiriin kuuluvia tietoja luovuttaa:",
+      "section_number": "33",
+      "chapter_number": 4,
+      "statute_id": "1882/2003"
+    },
+    {
+      "id": "5e90088a-9f3a-411f-be88-97806c4b33f6",
+      "node_type": "Section",
+      "publisher": "finlex",
+      "title": "34 § Ilmoitetun laitoksen tietojen luovuttaminen",
+      "text": "Ilmoitetut laitokset ovat viranomaisten toiminnan julkisuudesta annetussa laissa säädetyn salassapitovelvollisuuden estämättä velvollisia antamaan:",
+      "section_number": "34",
+      "chapter_number": 4,
+      "statute_id": "1882/2003"
+    },
+    {
+      "id": "bb9cadaa-f142-4663-9214-f2251cd2c454",
+      "node_type": "Section",
+      "publisher": "finlex",
+      "title": "35 § Yleinen ohjaus ja valvonta",
+      "text": "Yleinen ohjaus ja kehittäminen tämän lain tarkoituksen toteutumiseksi kuuluu liikenne- ja viestintäministeriölle. Merenkulkulaitos valvoo tämän lain ja sen nojalla annettujen säännösten, määräysten ja päätösten noudattamista. Tulliviranomainen valvoo tämän lain ja sen nojalla annettujen säännösten, määräysten ja päätösten noudattamista tuotteiden Euroopan unionin ja Euroopan talousalueen ulkopuolelta tapahtuvassa maahantuonnissa.",
+      "section_number": "35",
+      "chapter_number": 4,
+      "statute_id": "1882/2003"
+    },
+    {
+      "id": "50103bda-1293-4e41-8da5-83daa002ee3e",
+      "node_type": "Section",
+      "publisher": "finlex",
+      "title": "36 § Virka-apu",
+      "text": "Poliisin on annettava Merenkulkulaitokselle ja tulliviranomaiselle tässä laissa tai sen nojalla säädettyjen tehtävien suorittamiseksi virka-apua. Virka-avun antamisen edellytyksenä on, että Merenkulkulaitosta tai tulliviranomaista estetään suorittamasta virkatehtäviään.",
+      "section_number": "36",
+      "chapter_number": 4,
+      "statute_id": "1882/2003"
+    },
+    {
+      "id": "1c3555c6-c0d8-4f6a-8a87-6d7c285fbc30",
+      "node_type": "Section",
+      "publisher": "finlex",
+      "title": "37 § Muutoksenhaku",
+      "text": "Merenkulkulaitoksen 22―30 §:n nojalla tekemää päätöstä on muutoksenhausta huolimatta noudatettava, jollei muutoksenhakuviranomainen toisin määrää. Merenkulkulaitoksen 32 §:n nojalla tekemään maksua koskevaan päätökseen haetaan muutosta sen mukaan kuin valtion maksuperustelaissa säädetään. Muutoksenhausta on muutoin voimassa, mitä hallintolainkäyttölaissa (586/1996) säädetään.",
+      "section_number": "37",
+      "chapter_number": 4,
+      "statute_id": "1882/2003"
+    },
+    {
+      "id": "87634ffc-750e-4b93-8d07-32cee206c9a8",
+      "node_type": "Section",
+      "publisher": "finlex",
+      "title": "38 § Oikaisumenettely ja muutoksenhaku ilmoitetun laitoksen päätöksistä",
+      "text": "Ilmoitetun laitoksen vaatimustenmukaisuustodistusta, EY-tyyppitarkastustodistusta tai laatujärjestelmän arviointia koskevaan päätökseen ei saa hakea muutosta valittamalla. Laitoksen antamaan päätökseen saa hakea oikaisua Merenkulkulaitokselta 30 päivän kuluessa päätöksen tiedoksisaannista. Ilmoitetun laitoksen antamaan päätökseen on liitettävä oikaisuvaatimusosoitus. Merenkulkulaitoksen oikaisumenettelyssä antamaan päätökseen haetaan muutosta sen mukaan kuin hallintolainkäyttölaissa säädetään.",
+      "section_number": "38",
+      "chapter_number": 4,
+      "statute_id": "1882/2003"
+    },
+    {
+      "id": "61f9eab0-c4bc-4e56-90f7-7d084f39132a",
+      "node_type": "Section",
+      "publisher": "finlex",
+      "title": "39 § Rangaistussäännös",
+      "text": "Joka tahallaan tai törkeästä huolimattomuudesta Joka rikkoo 22―30 §:n nojalla määrättyä uhkasakolla tehostettua kieltoa tai määräystä, voidaan jättää tuomitsematta rangaistukseen samasta teosta.",
+      "section_number": "39",
+      "chapter_number": 4,
+      "statute_id": "1882/2003"
+    },
+    {
+      "id": "1db6ec2c-ac81-42c7-8dd9-86e84bade5fb",
+      "node_type": "Section",
+      "publisher": "finlex",
+      "title": "40 § Voimaantulo",
+      "text": "Tämä laki tulee voimaan 1 päivänä lokakuuta 2005. Ennen tämän lain voimaantuloa voidaan ryhtyä lain täytäntöönpanon edellyttämiin toimenpiteisiin. Tällä lailla kumotaan moottoriveneiden äänenvaimennuksesta 30 päivänä maaliskuuta 1973 annettu kauppa- ja teollisuusministeriön päätös (308/1973) sekä eräiden huviveneiden turvallisuudesta 20 päivänä kesäkuuta 1996 annettu asetus (464/1996).",
+      "section_number": "40",
+      "chapter_number": 4,
+      "statute_id": "1882/2003"
+    },
+    {
+      "id": "93975c34-fc42-4d14-9f6d-bee834521a1d",
+      "node_type": "Section",
+      "publisher": "finlex",
+      "title": "41 § Siirtymäsäännös",
+      "text": "Tämän lain estämättä markkinoille saatettavaksi ja käyttöön otettavaksi hyväksytään kuitenkin:",
+      "section_number": "41",
+      "chapter_number": 4,
+      "statute_id": "1882/2003"
+    }
+  ],
+  "clauses": [
+    {
+      "id": "584c2cd3-57d5-4ba6-aac7-5f8b259157b1",
+      "node_type": "Clause",
+      "publisher": "finlex",
+      "title": "§ 3 mom 1",
+      "text": "1) suunnittelun ja rakentamisen osalta:",
+      "clause_number": 1,
+      "section_number": "3",
+      "statute_id": "1882/2003"
+    },
+    {
+      "id": "b66c94e3-0a10-4bac-8c66-761472b48ee1",
+      "node_type": "Clause",
+      "publisher": "finlex",
+      "title": "§ 3 mom 2",
+      "text": "2) pakokaasupäästöjen osalta:",
+      "clause_number": 2,
+      "section_number": "3",
+      "statute_id": "1882/2003"
+    },
+    {
+      "id": "a3ef02a6-c9a6-4729-a171-365ba9538db0",
+      "node_type": "Clause",
+      "publisher": "finlex",
+      "title": "§ 3 mom 3",
+      "text": "3) melupäästöjen osalta:",
+      "clause_number": 3,
+      "section_number": "3",
+      "statute_id": "1882/2003"
+    },
+    {
+      "id": "9d7eaf88-553d-49bb-b6e6-d262cc21e393",
+      "node_type": "Clause",
+      "publisher": "finlex",
+      "title": "§ 4 mom 1",
+      "text": "1) suunnittelun ja rakentamisen osalta:",
+      "clause_number": 1,
+      "section_number": "4",
+      "statute_id": "1882/2003"
+    },
+    {
+      "id": "8133d9d3-33b1-417b-b776-a97ed0a32459",
+      "node_type": "Clause",
+      "publisher": "finlex",
+      "title": "§ 4 mom 2",
+      "text": "2) pakokaasupäästöjen osalta:",
+      "clause_number": 2,
+      "section_number": "4",
+      "statute_id": "1882/2003"
+    },
+    {
+      "id": "036fccb8-cf08-4baf-9a1d-9f4cb1ef9734",
+      "node_type": "Clause",
+      "publisher": "finlex",
+      "title": "§ 4 mom 3",
+      "text": "3) melupäästöjen osalta 1 kohdan a eikä f―k alakohdassa tarkoitettu vene.",
+      "clause_number": 3,
+      "section_number": "4",
+      "statute_id": "1882/2003"
+    },
+    {
+      "id": "be2ece02-9a99-4e10-aec9-4543da28b149",
+      "node_type": "Clause",
+      "publisher": "finlex",
+      "title": "§ 7 mom 1",
+      "text": "1) näytteille asetettavalle tuotteelle asetettavista vaatimuksista;",
+      "clause_number": 1,
+      "section_number": "7",
+      "statute_id": "1882/2003"
+    },
+    {
+      "id": "2ace8348-590c-4923-82ed-495facc4023a",
+      "node_type": "Clause",
+      "publisher": "finlex",
+      "title": "§ 7 mom 2",
+      "text": "2) keskeneräisen huviveneen markkinoille saattamisesta; sekä",
+      "clause_number": 2,
+      "section_number": "7",
+      "statute_id": "1882/2003"
+    },
+    {
+      "id": "d3039302-9849-4ea7-bfff-28905a8c03f7",
+      "node_type": "Clause",
+      "publisher": "finlex",
+      "title": "§ 7 mom 3",
+      "text": "3) liitettävän varusteen ja moottorin markkinoille saattamisesta ja käyttöön ottamisesta.",
+      "clause_number": 3,
+      "section_number": "7",
+      "statute_id": "1882/2003"
+    },
+    {
+      "id": "8021c3d9-cfbc-4554-b500-581b83ab4d46",
+      "node_type": "Clause",
+      "publisher": "finlex",
+      "title": "§ 9 mom 1",
+      "text": "1) huvivene, vesiskootteri ja varuste, joka täyttää huvivenedirektiivin liitteen I olennaiset vaatimukset; ja",
+      "clause_number": 1,
+      "section_number": "9",
+      "statute_id": "1882/2003"
+    },
+    {
+      "id": "07d8366a-d19d-4aa9-b893-5033aa51edac",
+      "node_type": "Clause",
+      "publisher": "finlex",
+      "title": "§ 9 mom 2",
+      "text": "2) perämoottori ja kiinteällä pakoputkistolla varustettu sisäperämoottori, joka täyttää huvivenedirektiivin liitteen I B- ja C-osan olennaiset vaatimukset.",
+      "clause_number": 2,
+      "section_number": "9",
+      "statute_id": "1882/2003"
+    },
+    {
+      "id": "96bdbead-51dd-4025-8357-222ac8aaa9c8",
+      "node_type": "Clause",
+      "publisher": "finlex",
+      "title": "§ 9 mom 1",
+      "text": "1) huviveneeseen ja vesiskootteriin huvivenedirektiivin liitteen I A-osan 2.2 kohdan mukaisesti;",
+      "clause_number": 1,
+      "section_number": "9",
+      "statute_id": "1882/2003"
+    },
+    {
+      "id": "d8bd3c13-3592-4066-aa49-db9203eeb150",
+      "node_type": "Clause",
+      "publisher": "finlex",
+      "title": "§ 9 mom 2",
+      "text": "2) varusteeseen taikka sen pakkaukseen, jos CE-merkintä ei mahdu varusteeseen; sekä",
+      "clause_number": 2,
+      "section_number": "9",
+      "statute_id": "1882/2003"
+    },
+    {
+      "id": "d6493557-efec-4de3-b6a5-8a4f7fef8e80",
+      "node_type": "Clause",
+      "publisher": "finlex",
+      "title": "§ 9 mom 3",
+      "text": "3) perämoottoriin ja pakoputkistolla varustettuun sisäperämoottoriin huvivenedirektiivin liitteen I B-osan 1.1 kohdan mukaisesti.",
+      "clause_number": 3,
+      "section_number": "9",
+      "statute_id": "1882/2003"
+    },
+    {
+      "id": "61b6523b-d128-4b47-a743-e046d59d4417",
+      "node_type": "Clause",
+      "publisher": "finlex",
+      "title": "§ 12 mom 1",
+      "text": "1) antaa EY-tyyppitarkastustodistuksen;",
+      "clause_number": 1,
+      "section_number": "12",
+      "statute_id": "1882/2003"
+    },
+    {
+      "id": "6642bca3-aab0-492c-a265-45fe6ca61483",
+      "node_type": "Clause",
+      "publisher": "finlex",
+      "title": "§ 12 mom 2",
+      "text": "2) valvoo EY-tyyppitarkastustodistuksessa kuvailtua tyypinmukaisuutta tai tarkastaa kunkin yksittäisen tuotteen ja antaa vaatimustenmukaisuustodistuksen;",
+      "clause_number": 2,
+      "section_number": "12",
+      "statute_id": "1882/2003"
+    },
+    {
+      "id": "1e008395-1e80-491b-a430-3d1d95ee27d4",
+      "node_type": "Clause",
+      "publisher": "finlex",
+      "title": "§ 12 mom 3",
+      "text": "3) vastaa valmistajan perustaman laatujärjestelmän hyväksymisestä, valvonnasta ja hyväksymisen peruuttamisesta; sekä",
+      "clause_number": 3,
+      "section_number": "12",
+      "statute_id": "1882/2003"
+    },
+    {
+      "id": "2306c0d0-0592-48e9-9fd8-c47b68629f43",
+      "node_type": "Clause",
+      "publisher": "finlex",
+      "title": "§ 12 mom 4",
+      "text": "4) osallistuu suunnittelu- ja tuotantovaiheessa testeihin, joita valmistaja tekee tai teettää puolestaan.",
+      "clause_number": 4,
+      "section_number": "12",
+      "statute_id": "1882/2003"
+    },
+    {
+      "id": "9026dbe1-88fb-4784-9408-e9ae65fdd020",
+      "node_type": "Clause",
+      "publisher": "finlex",
+      "title": "§ 27 mom 1",
+      "text": "1) \n                                        korjaamaan tuote niin, että sen rakenteessa tai koostumuksessa olevasta viasta tai puutteesta taikka siitä annetuista totuudenvastaisista tai harhaanjohtavista tai puutteellisista tiedoista aiheutuva vaara poistuu (korjaaminen);",
+      "clause_number": 1,
+      "section_number": "27",
+      "statute_id": "1882/2003"
+    },
+    {
+      "id": "1fc87413-8372-4428-aeb2-b64f16f00334",
+      "node_type": "Clause",
+      "publisher": "finlex",
+      "title": "§ 27 mom 2",
+      "text": "2) \n                                        ottamaan takaisin tuote, joka saattaa vaarantaa ihmisten turvallisuuden tai terveyden taikka omaisuuden tai ympäristön, sekä antamaan sen tilalle samanlainen tai samankaltainen tuote, joka ei ole vaarallinen (vaihto); taikka",
+      "clause_number": 2,
+      "section_number": "27",
+      "statute_id": "1882/2003"
+    },
+    {
+      "id": "8010cc8e-54f9-4401-9102-880fbe7760ca",
+      "node_type": "Clause",
+      "publisher": "finlex",
+      "title": "§ 27 mom 3",
+      "text": "3) \n                                        purkamaan kauppa (kaupan purku).",
+      "clause_number": 3,
+      "section_number": "27",
+      "statute_id": "1882/2003"
+    },
+    {
+      "id": "31b1f649-a656-4a8d-80bf-da1279b450cc",
+      "node_type": "Clause",
+      "publisher": "finlex",
+      "title": "§ 33 mom 1",
+      "text": "1) syyttäjälle, poliisille, rajavartiolaitokselle ja tulliviranomaiselle rikoksen ehkäisemiseksi tai selvittämiseksi;",
+      "clause_number": 1,
+      "section_number": "33",
+      "statute_id": "1882/2003"
+    },
+    {
+      "id": "647116da-623e-4468-bbf9-9a485aa46666",
+      "node_type": "Clause",
+      "publisher": "finlex",
+      "title": "§ 33 mom 2",
+      "text": "2) ympäristönsuojelu- ja kuluttajansuojeluviranomaiselle silloin, kun luovutettava asiakirja sisältää tälle viranomaiselle tarpeellisia tietoja sille kuuluvien tehtävien suorittamiseksi; sekä",
+      "clause_number": 2,
+      "section_number": "33",
+      "statute_id": "1882/2003"
+    },
+    {
+      "id": "596e4299-8374-4c36-b5a8-ae01327ec225",
+      "node_type": "Clause",
+      "publisher": "finlex",
+      "title": "§ 33 mom 3",
+      "text": "3) toimivaltaiselle ulkomaan viranomaiselle ja kansainväliselle toimielimelle Euroopan yhteisön direktiiviin tai Suomea sitovaan kansainväliseen sopimukseen perustuvan velvoitteen toteuttamiseksi.",
+      "clause_number": 3,
+      "section_number": "33",
+      "statute_id": "1882/2003"
+    },
+    {
+      "id": "0465a82d-6d31-4fc6-9be7-eacea8f972cf",
+      "node_type": "Clause",
+      "publisher": "finlex",
+      "title": "§ 34 mom 1",
+      "text": "1) laitosten yhteistoiminnan kannalta tarpeellisia tietoja toisille tässä laissa tarkoitetuille ilmoitetuille laitoksille sekä Euroopan unionin ja Euroopan talousalueen toisen jäsenvaltion nimeämille ilmoitetuille laitoksille; sekä",
+      "clause_number": 1,
+      "section_number": "34",
+      "statute_id": "1882/2003"
+    },
+    {
+      "id": "115e2f2b-976e-48ef-bc47-20f1303f2954",
+      "node_type": "Clause",
+      "publisher": "finlex",
+      "title": "§ 34 mom 2",
+      "text": "2) tämän lain mukaisen valvonnan kannalta tarpeellisia tietoja Merenkulkulaitokselle.",
+      "clause_number": 2,
+      "section_number": "34",
+      "statute_id": "1882/2003"
+    },
+    {
+      "id": "d24ad14a-0df1-498a-bf7e-6c02b255c0e8",
+      "node_type": "Clause",
+      "publisher": "finlex",
+      "title": "§ 39 mom 1",
+      "text": "1) saattaa tuotteen markkinoille tai ottaa sen käyttöön 6 tai 9 §:n taikka 7, 8 tai 10 §:n tai niiden nojalla annettujen säännösten vastaisesti,",
+      "clause_number": 1,
+      "section_number": "39",
+      "statute_id": "1882/2003"
+    },
+    {
+      "id": "18c3bf92-7b4c-4d0e-a40f-441933917fc5",
+      "node_type": "Clause",
+      "publisher": "finlex",
+      "title": "§ 39 mom 2",
+      "text": "2) rikkoo 16 tai 17 §:ssä säädettyä velvollisuutta tai",
+      "clause_number": 2,
+      "section_number": "39",
+      "statute_id": "1882/2003"
+    },
+    {
+      "id": "345e95ff-eddf-4b3d-8c18-c85e49890cd5",
+      "node_type": "Clause",
+      "publisher": "finlex",
+      "title": "§ 39 mom 3",
+      "text": "3) rikkoo 22―30 §:ssä tarkoitettua kieltoa tai määräystä,",
+      "clause_number": 3,
+      "section_number": "39",
+      "statute_id": "1882/2003"
+    },
+    {
+      "id": "e59ff751-259d-41d7-aa81-9642160a2d9b",
+      "node_type": "Clause",
+      "publisher": "finlex",
+      "title": "§ 41 mom 1",
+      "text": "1) 31 päivään joulukuuta 2005 saakka huviveneet, keskeneräiset huviveneet ja varusteet, jotka täyttävät vesiliikennelain (463/1996) ja eräiden huviveneiden turvallisuudesta annetun asetuksen vaatimukset, sekä vesiskootterit, jotka täyttävät vesiliikennelain vaatimukset;",
+      "clause_number": 1,
+      "section_number": "41",
+      "statute_id": "1882/2003"
+    },
+    {
+      "id": "eaa49616-da64-4889-928a-87b468d3a363",
+      "node_type": "Clause",
+      "publisher": "finlex",
+      "title": "§ 41 mom 2",
+      "text": "2) 31 päivään joulukuuta 2005 saakka dieselmoottorit ja nelitahtiset bensiinimoottorit, jotka täyttävät vesiliikennelain ja moottoriveneiden äänenvaimennuksesta annetun kauppa- ja teollisuusministeriön päätöksen vaatimukset; sekä",
+      "clause_number": 2,
+      "section_number": "41",
+      "statute_id": "1882/2003"
+    },
+    {
+      "id": "232d385d-8c37-43be-8849-654e9af67295",
+      "node_type": "Clause",
+      "publisher": "finlex",
+      "title": "§ 41 mom 3",
+      "text": "3) 31 päivään joulukuuta 2006 saakka kaksitahtiset bensiinimoottorit, jotka täyttävät vesiliikennelain ja moottoriveneiden äänenvaimennuksesta annetun kauppa- ja teollisuusministeriön päätöksen vaatimukset.",
+      "clause_number": 3,
+      "section_number": "41",
+      "statute_id": "1882/2003"
+    }
+  ],
+  "cross_references": [],
+  "raw_html_path": "C:\\Users\\danit\\finance-hack\\aalto-hackaton-2026\\data\\raw\\finlex\\Laki (säädöskokoelma)\\Laki eräiden huviveneiden turvallisuudesta ja päästövaatimuksista.html"
+}

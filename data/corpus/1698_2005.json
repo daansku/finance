@@ -1,0 +1,1865 @@
+{
+  "statute": {
+    "id": "f7288281-4c0b-495d-8e25-89c201153891",
+    "node_type": "Statute",
+    "publisher": "finlex",
+    "title": "Laki maatalouden harjoittamisesta luopumisen tukemisesta",
+    "text": "Laki maatalouden harjoittamisesta luopumisen tukemisesta",
+    "statute_id": "1698/2005",
+    "finlex_url": "https://finlex.fi/fi/laki/ajantasa/1698/2005"
+  },
+  "chapters": [
+    {
+      "id": "852699e2-dec9-4f77-ac31-68f91f05e831",
+      "node_type": "Chapter",
+      "publisher": "finlex",
+      "title": "Chapter 1",
+      "text": "1 luku Yleiset säännökset",
+      "chapter_number": 1,
+      "statute_id": "1698/2005"
+    },
+    {
+      "id": "ab8a4eee-8350-409d-aafb-30f9bb1669e3",
+      "node_type": "Chapter",
+      "publisher": "finlex",
+      "title": "Chapter 2",
+      "text": "2 luku Luopujaa koskevat edellytykset",
+      "chapter_number": 2,
+      "statute_id": "1698/2005"
+    },
+    {
+      "id": "74e99be4-de16-4b60-a736-0bf2c670ac40",
+      "node_type": "Chapter",
+      "publisher": "finlex",
+      "title": "Chapter 3",
+      "text": "3 luku Luopumistavat",
+      "chapter_number": 3,
+      "statute_id": "1698/2005"
+    },
+    {
+      "id": "bc8d6b3a-7528-4768-9114-ebf092b9c007",
+      "node_type": "Chapter",
+      "publisher": "finlex",
+      "title": "Chapter 4",
+      "text": "4 luku Yhtiöitä koskevat luopumistavat",
+      "chapter_number": 4,
+      "statute_id": "1698/2005"
+    },
+    {
+      "id": "f580f9dc-68d8-4679-8f0c-5f123db52cc2",
+      "node_type": "Chapter",
+      "publisher": "finlex",
+      "title": "Chapter 5",
+      "text": "5 luku Eri luopumistapoja koskevat yhteiset säännökset",
+      "chapter_number": 5,
+      "statute_id": "1698/2005"
+    },
+    {
+      "id": "ff416541-e18f-4948-95c7-235459c94baf",
+      "node_type": "Chapter",
+      "publisher": "finlex",
+      "title": "Chapter 6",
+      "text": "6 luku Luopumistuen määräytyminen",
+      "chapter_number": 6,
+      "statute_id": "1698/2005"
+    },
+    {
+      "id": "6c5dc133-3a4f-490d-b3ea-3551d7a75057",
+      "node_type": "Chapter",
+      "publisher": "finlex",
+      "title": "Chapter 7",
+      "text": "7 luku Luopumistuen hakeminen ja päätökset",
+      "chapter_number": 7,
+      "statute_id": "1698/2005"
+    },
+    {
+      "id": "c9988c89-81c1-4b5c-adb1-f2e09bb8a7a9",
+      "node_type": "Chapter",
+      "publisher": "finlex",
+      "title": "Chapter 8",
+      "text": "8 luku Sitoumusvelvoitteiden täyttäminen ja ilmoitusvelvollisuus",
+      "chapter_number": 8,
+      "statute_id": "1698/2005"
+    },
+    {
+      "id": "6dbd77b4-0679-4a4b-823c-f9c292657ff7",
+      "node_type": "Chapter",
+      "publisher": "finlex",
+      "title": "Chapter 9",
+      "text": "9 luku Takaisinperintä ja vanhentumissäännökset",
+      "chapter_number": 9,
+      "statute_id": "1698/2005"
+    },
+    {
+      "id": "ebe3c8eb-8eaf-45bd-970b-a8a35ada69c0",
+      "node_type": "Chapter",
+      "publisher": "finlex",
+      "title": "Chapter 10",
+      "text": "10 luku Muutoksenhaku",
+      "chapter_number": 10,
+      "statute_id": "1698/2005"
+    },
+    {
+      "id": "7bd790da-1d3e-4f2d-8a40-f3fca40bd2dc",
+      "node_type": "Chapter",
+      "publisher": "finlex",
+      "title": "Chapter 11",
+      "text": "11 luku Lain toimeenpanoa koskevat säännökset",
+      "chapter_number": 11,
+      "statute_id": "1698/2005"
+    },
+    {
+      "id": "9188310d-5a2c-45cd-afb9-c0d4243c2304",
+      "node_type": "Chapter",
+      "publisher": "finlex",
+      "title": "Chapter 12",
+      "text": "12 luku Tietojen antaminen, saaminen ja salassapito",
+      "chapter_number": 12,
+      "statute_id": "1698/2005"
+    },
+    {
+      "id": "229af843-36f7-428b-9e01-003722b0620e",
+      "node_type": "Chapter",
+      "publisher": "finlex",
+      "title": "Chapter 13",
+      "text": "13 luku Erinäiset säännökset",
+      "chapter_number": 13,
+      "statute_id": "1698/2005"
+    },
+    {
+      "id": "1ba78090-3a0f-4195-a3ef-b5e27275f844",
+      "node_type": "Chapter",
+      "publisher": "finlex",
+      "title": "Chapter 14",
+      "text": "14 luku Voimaantulo",
+      "chapter_number": 14,
+      "statute_id": "1698/2005"
+    }
+  ],
+  "sections": [
+    {
+      "id": "0dd0bc62-d30c-47a7-b84f-bdcc53ce7c06",
+      "node_type": "Section",
+      "publisher": "finlex",
+      "title": "1 § Lain tarkoitus",
+      "text": "Tämän lain nojalla myönnetään luopumistukea maatalousyrittäjille, jotka maatalouden rakenteen parantamiseksi pysyvästi luopuvat maatalouden harjoittamisesta siten kuin tässä laissa säädetään.",
+      "section_number": "1",
+      "chapter_number": 1,
+      "statute_id": "1698/2005"
+    },
+    {
+      "id": "104cf819-eb96-49b9-80b2-73bcff029dfd",
+      "node_type": "Section",
+      "publisher": "finlex",
+      "title": "2 § Soveltamisala",
+      "text": "Tätä lakia sovelletaan toimenpiteisiin, joiden perusteella maatalouden harjoittamisesta luovutaan vuosina 2007―2010. Luopumistukeen sovelletaan vastaavia periaatteita kuin maatalouden varhaiseläkejärjestelmässä, josta säädetään Euroopan maaseudun kehittämisen maatalousrahaston (maaseuturahaston) tuesta maaseudun kehittämiseen annetussa neuvoston asetuksessa (EY) N:o 1698/2005. Luopumistuki myönnetään kuitenkin kokonaan kansallisista varoista.",
+      "section_number": "2",
+      "chapter_number": 1,
+      "statute_id": "1698/2005"
+    },
+    {
+      "id": "8a4c49a2-8dc8-41c5-913b-77f77b5426db",
+      "node_type": "Section",
+      "publisher": "finlex",
+      "title": "3 § Määritelmät",
+      "text": "Tässä laissa tarkoitetaan: Valtioneuvoston asetuksella säädetään tarkemmin siitä, mitä pidetään Euroopan yhteisön perustamissopimuksen liitteessä I tarkoitettujen tuotteiden tuotantotoimintana.",
+      "section_number": "3",
+      "chapter_number": 1,
+      "statute_id": "1698/2005"
+    },
+    {
+      "id": "09401bd4-d80b-4c39-8c04-28bf4e23555b",
+      "node_type": "Section",
+      "publisher": "finlex",
+      "title": "4 § Luopuminen",
+      "text": "Luopumisella tarkoitetaan maatalouden harjoittamisen lopettamista siten, että luopuja toteuttaa maatilallaan sukupolvenvaihdoksen luovuttamalla maatilan peltomaan ja tuotantorakennukset tilanpidon jatkajalle taikka luovuttaa tai vuokraa omistamansa maatilan peltomaan lisäalueeksi tässä laissa säädetyllä tavalla. Jos luopuja harjoittaa porotaloutta, luopumisella tarkoitetaan porotalouden harjoittamisen lopettamista siten, että luopuja toteuttaa porotilallaan sukupolvenvaihdoksen luovuttamalla tuotantorakennukset ja -rakennelmat sekä omistamansa porot porotalouden jatkajalle tai omistamansa porot lisäporoiksi toiselle porotalouden harjoittajalle tässä laissa säädetyllä tavalla. Luopumisen katsotaan tapahtuneen, kun: Edellä 3 momentin 1 kohdassa luovutuskirjalla tarkoitetaan myös vuokrasopimusta.",
+      "section_number": "4",
+      "chapter_number": 1,
+      "statute_id": "1698/2005"
+    },
+    {
+      "id": "1b36a829-3b28-4280-b561-04f1afabc972",
+      "node_type": "Section",
+      "publisher": "finlex",
+      "title": "5 § Maatalousyrittäjä",
+      "text": "Tässä laissa tarkoitetaan maatalousyrittäjällä: Mitä tässä laissa säädetään maatalousyrittäjän aviopuolisosta, sovelletaan myös henkilöön, jonka kanssa maatalousyrittäjä jatkuvasti elää avioliittoa solmimatta yhteisessä taloudessa avioliitonomaisissa olosuhteissa ja joka on ottanut toiminnastaan maatalousyrittäjien eläkelain 1 §:n 2 momentissa säädettyä vähimmäiseläketurvaa koskevan vakuutuksen.",
+      "section_number": "5",
+      "chapter_number": 1,
+      "statute_id": "1698/2005"
+    },
+    {
+      "id": "6023ec0e-40a3-4ff3-88d3-07d39ca7712c",
+      "node_type": "Section",
+      "publisher": "finlex",
+      "title": "6 § Luopuja",
+      "text": "Oikeus luopumistukeen on omaan tai yhteiseen lukuun harjoittamastaan maataloudesta pysyvästi luopuvalla: Oikeus luopumistukeen on lisäksi 5 §:n 1 momentin 2 ja 3 kohdassa tarkoitetussa yhtiössä harjoittamastaan maataloudesta pysyvästi luopuvalla maatalousyrittäjällä, jos luopumisen kohteena oleva maatila on yhtiön omistuksessa ja hallinnassa. Mitä 1 momentin 2 ja 3 kohdassa säädetään, sovelletaan myös 5 §:n 1 momentin 2 kohdassa tarkoitetun henkilön aviopuolisoon. Edellä 1―3 momentissa tarkoitettua henkilöä kutsutaan jäljempänä luopujaksi.",
+      "section_number": "6",
+      "chapter_number": 2,
+      "statute_id": "1698/2005"
+    },
+    {
+      "id": "90c727f9-657e-4c4a-ac6e-ef0a79d2a076",
+      "node_type": "Section",
+      "publisher": "finlex",
+      "title": "7 § Toimiminen maatalousyrittäjänä",
+      "text": "Luopumistuen saamisen edellytyksenä on, että luopuja on luopumista edeltävien kymmenen vuoden ajan harjoittanut maataloutta 5 §:ssä tarkoitettuna maatalousyrittäjänä ja että hän on vähintään viiden vuoden ajan välittömästi ennen luopumista ollut vakuutettu maatalousyrittäjänä maatalousyrittäjien eläkelain nojalla. Tällöin vakuutuksen voimassaoloaikaan rinnastetaan aika, jona vakuutus on ollut keskeytettynä maatalousyrittäjän työkyvyttömyyden perusteella saaman kuntoutustuen vuoksi. Vakuutuksen voimassaoloaikaan rinnastetaan myös aika, jona vakuutus on ollut keskeytyneenä maatalousyrittäjälle ennen 1 päivää tammikuuta 2007 alkaneen työkyvyttömyyden perusteella myönnetyn osatyökyvyttömyyseläkkeen vuoksi. Mitä tässä momentissa säädetään, sovelletaan kuitenkin vain 1 päivää tammikuuta 2008 edeltävään aikaan.",
+      "section_number": "7",
+      "chapter_number": 2,
+      "statute_id": "1698/2005"
+    },
+    {
+      "id": "88fa36e2-495e-4c52-ba87-4a5fcb32407d",
+      "node_type": "Section",
+      "publisher": "finlex",
+      "title": "8 § Luopujan ikää koskevat edellytykset",
+      "text": "Luopumistuen saamisen edellytyksenä on, että luopuja on täyttänyt: Luopumistuen saamisen edellytyksenä on kuitenkin, ettei luopuja luopumisen tapahtuessa ole täyttänyt 63 vuotta. Edellä 1 momentissa muulla lähisukulaisella tarkoitetaan luopujan lapsen aviopuolisoa, luopujan aviopuolison lasta ja tämän aviopuolisoa, luopujan veljen tai sisaren lasta ja tämän aviopuolisoa sekä luopujan aviopuolison veljen tai sisaren lasta ja tämän aviopuolisoa. Mitä 1 momentissa säädetään aviopuolisosta, sovelletaan myös 5 §:n 2 momentissa tarkoitettuun henkilöön. Edellä 1 ja 2 momentissa tarkoitettuja ikärajoja sovelletaan myös luopumisen tapahtuessa luovuttamalla maatilan omistavan yhtiön osuudet tai osakkeet.",
+      "section_number": "8",
+      "chapter_number": 2,
+      "statute_id": "1698/2005"
+    },
+    {
+      "id": "49583d1f-3e24-42e0-846d-99859138a81c",
+      "node_type": "Section",
+      "publisher": "finlex",
+      "title": "9 § Luopuminen ennen vähimmäisiän saavuttamista",
+      "text": "Jos luopujina ovat aviopuolisot, joista vanhemmalla on oikeus luopumistukeen tämän lain säännösten mukaisesti, nuoremmalla puolisolla on oikeus luopumistukeen, jos luopuminen tapahtuu aikaisintaan viisi vuotta ennen kuin hän saavuttaa 8 §:ssä säädetyn iän. Jos luopujana on maatalousyrittäjän leski tai maatalousyrittäjien eläkelain mukaista toistaiseksi myönnettyä täyttä työkyvyttömyyseläkettä saavan henkilön puoliso, luopujalla on oikeus luopumistukeen, jos luopuminen tapahtuu aikaisintaan viisi vuotta ennen kuin luopuja saavuttaa 8 §:ssä säädetyn iän. Jos luopujana on maatalousyrittäjä, joka on harjoittanut maataloutta yhtymän osakkaana yhdessä sellaisen vanhemman sisaruksensa kanssa, jolla on oikeus luopumistukeen tämän lain säännösten mukaisesti, yhtymän nuoremmalla osakkaalla on oikeus luopumistukeen, jos luopuminen tapahtuu aikaisintaan viisi vuotta ennen kuin hän saavuttaa 8 §:ssä säädetyn iän. Luopumistukea ei kuitenkaan suoriteta 1―3 momentissa tarkoitetuille luopujille iän saavuttamista koskevan 8 §:n 1 momentissa säädetyn edellytyksen täyttymistä edeltävältä ajalta.",
+      "section_number": "9",
+      "chapter_number": 2,
+      "statute_id": "1698/2005"
+    },
+    {
+      "id": "614a1500-b316-493c-b551-d6d34879e724",
+      "node_type": "Section",
+      "publisher": "finlex",
+      "title": "10 § Luopumistuen saamisen estävät eläkkeet",
+      "text": "Oikeutta luopumistukeen ei ole luopujalla, joka luopumisen tapahtuessa saa:",
+      "section_number": "10",
+      "chapter_number": 2,
+      "statute_id": "1698/2005"
+    },
+    {
+      "id": "67532c62-6e05-46c9-892a-c1da01b31874",
+      "node_type": "Section",
+      "publisher": "finlex",
+      "title": "11 § Luopumista ja maatilaa koskevat edellytykset",
+      "text": "Luopumistuen saamisen edellytyksenä on, että luopuja hakee luopumistukea ennen 4 §:ssä säädettyä luopumista ja että luopuminen tapahtuu kahdentoista kuukauden kuluessa siitä, kun 36 §:ssä tarkoitettu ehdollinen päätös on annettu. Luopumistuen saamisen edellytyksenä on, että luopumisen kohteena olevan maatilan peltomaasta ei ole kolmen viimeisen vuoden aikana ennen luopumista luovutettu olennaista osuutta vastoin tässä laissa säädettyjä tavoitteita. Tämän lain tavoitteiden vastaisena ei pidetä luovutusta, joka on johtunut pakottavista taloudellisista vaikeuksista, vaiheittain toteutetusta sukupolvenvaihdoksesta, lisämaan luovutuksesta lähialueen viljelijöille tai muun kuin tonttimaan luovutuksesta valtiolle tai kunnalle, jos valtiolla tai kunnalla olisi ollut oikeus saada luovutettu alue pakkolunastuksena tai etuosto-oikeuden käyttämisen seurauksena taikka jos luovutukseen on ollut muu näihin rinnastettava painava syy. Lisämaan luovutuksen osalta edellytetään, että luovutus on koskenut enintään neljännestä tilan peltoalasta. Valtioneuvoston asetuksella säädetään tarkemmin, millä perusteilla edellä tarkoitettuja ja kooltaan vähäisiä luovutuksia ei pidetä tämän lain tavoitteiden vastaisina.",
+      "section_number": "11",
+      "chapter_number": 2,
+      "statute_id": "1698/2005"
+    },
+    {
+      "id": "7d32d50a-4e41-4dad-9dc7-19c2add8031c",
+      "node_type": "Section",
+      "publisher": "finlex",
+      "title": "12 § Luopujaa luopumisen jälkeen koskevat rajoitukset",
+      "text": "Luopumistuen saamisen edellytyksenä on, että luopuja luopumisen tapahduttua pysyvästi lopettaa kaupallisen maatalouden harjoittamisen ja ettei hän tee metsätalouden hankintatyötä. Kaupallisen maatalouden harjoittamiseksi ei katsota eläinten pitämistä lemmikkieläiminä, jollei niitä kasvateta tuotantotarkoituksiin. Luopumisen jälkeen luopuja voi pitää enintään kaksi hevosta tai kolme poroa. Jos luopujina ovat aviopuolisot, puolisot yhdessä voivat pitää enintään kaksi hevosta. Poroja saa pitää vain omatarvekäyttöä varten. Hevosia ei saa käyttää siitoseläiminä. Edellä 1 momentissa säädetyn estämättä luopuja voi kuitenkin tehdä seuraavia metsien käyttöä ja hoitoa edistäviä töitä:",
+      "section_number": "12",
+      "chapter_number": 2,
+      "statute_id": "1698/2005"
+    },
+    {
+      "id": "b60b3f98-08ba-408d-a9de-7cdb594405b1",
+      "node_type": "Section",
+      "publisher": "finlex",
+      "title": "13 § Yhteisössä harjoitetun maatalouden lopettaminen",
+      "text": "Mitä 12 §:ssä säädetään kaupallisen maatalouden harjoittamisen lopettamisesta, koskee myös sellaista maataloutta, jota luopuja on harjoittanut kokonaan tai osaksi omistamassaan yhteisössä tai muussa maataloutta harjoittavassa yhteisössä määräävässä asemassa. Luopuja saa luopumisen jälkeen yksin tai yhdessä perheenjäsenensä kanssa omistaa 3 §:n 1 momentin 2 kohdassa tarkoitettua maataloutta harjoittavan muun kuin 19 tai 21 §:ssä tarkoitetun osakeyhtiön osakkeista määrän, joka tuottaa enintään 15 prosentin osuuden äänistä. Luopujan on kuitenkin luopumisen jälkeen lopetettava työskentely johtavassa asemassa sellaisessa maataloutta harjoittavassa osakeyhtiössä, josta hän omistaa osakkeita yksin tai yhdessä perheenjäsenensä kanssa. Luopuja ei saa olla luopumisen jälkeen vastuunalaisena yhtiömiehenä 3 §:ssä tarkoitettua maataloutta harjoittavassa avoimessa yhtiössä tai kommandiittiyhtiössä. Edellä 2 momentissa perheenjäsenellä tarkoitetaan luopujan aviopuolisoa sekä luopujan kanssa samassa taloudessa asuvaa henkilöä, joka on hänelle sukua suoraan ylenevässä tai alenevassa polvessa. Johtavalla asemalla tarkoitetaan työskentelemistä osakeyhtiön hallituksen jäsenenä tai toimitusjohtajana taikka toimimista muussa vastaavassa asemassa.",
+      "section_number": "13",
+      "chapter_number": 2,
+      "statute_id": "1698/2005"
+    },
+    {
+      "id": "caa791f4-1b5a-4f3b-b614-d9157768a2dc",
+      "node_type": "Section",
+      "publisher": "finlex",
+      "title": "14 § Muun ansiotoiminnan rajoitukset",
+      "text": "Luopumistukea ei makseta ennen kuin luopuja on toimittanut eläkelaitokselle selvityksen myös muiden kuin 12 §:n 1 momentissa tarkoitettujen ansiotöiden lopettamisesta tai niiden vähentämisestä siten, että hänen niistä saamiensa ansiotulojen määrän voidaan arvioida jäävän pienemmäksi kuin 523,61 euroa kuukaudessa. Edellä mainittu ansiotuloraja tarkistetaan vuosittain työntekijän eläkelain (395/2006) 96 §:ssä tarkoitetulla palkkakertoimella. Edellä 1 momentissa tarkoitettuna tulona ei kuitenkaan pidetä omaishoidon tuesta annetussa laissa (937/2005) tarkoitettua omaishoidon tukea eikä perhehoitajalaissa (312/1992) tarkoitettua palkkiota. Mitä 1 momentissa säädetään, sovelletaan myös 9 §:ssä tarkoitettuun luopujaan hänen saavuttaessaan 8 §:ssä säädetyn iän.",
+      "section_number": "14",
+      "chapter_number": 2,
+      "statute_id": "1698/2005"
+    },
+    {
+      "id": "4c194abe-72cb-48e3-afd6-ebbd7e00a717",
+      "node_type": "Section",
+      "publisher": "finlex",
+      "title": "15 § Sukupolvenvaihdosluovutus",
+      "text": "Luopuminen maatalouden harjoittamisesta voi tapahtua siten, että luopuja toteuttaa maatilallaan sukupolvenvaihdoksen luovuttamalla maatilan peltomaan ja tuotantorakennukset maatalouden harjoittamista varten sellaiselle tilanpitoa jatkavalle luovutuksensaajalle: Jos 1 momentin 1, 4 ja 5 kohdassa tarkoitetut edellytykset eivät täyty luopumishetkellä, luovutuksensaajan on annettava sitoumus 1 kohdassa tarkoitetun edellytyksen täyttymisestä viimeistään luopumista seuraavien kahden kalenterivuoden aikana ja 4 ja 5 kohdassa tarkoitetun edellytyksen täyttymisestä luopumista seuraavien kolmen vuoden aikana. Edellä 1 momentissa tarkoitettuna sukupolvenvaihdosluovutuksena ei kuitenkaan pidetä maatilan peltomaan ja tuotantorakennusten luovuttamista sellaiselle luovutuksensaajalle, joka on jo ennen 1 momentissa tarkoitettua luovutusta aloittanut tilanpidon siten, että hänelle on myönnetty maaseutuelinkeinojen rahoituslain (329/1999) 10 §:n 1 momentin 2 kohdassa tarkoitettu nuorten viljelijöiden aloitustuki tai sitä vastaavan aikaisemman lainsäädännön mukainen käynnistystuki eikä tilanpitoa ole aloitettu samalla maatilalla, josta luopumiseen luopuja hakee luopumistukea. Valtioneuvoston asetuksella säädetään tarkemmin niistä seikoista, jotka on sisällytettävä elinkeinosuunnitelmaan ja jotka otetaan huomioon maatilan taloudellista elinkelpoisuutta arvioitaessa, maatilan yritystulon määrittämisestä sekä eläkelaitokselle esitettävistä selvityksistä yritystulon määrittämiseksi. Valtioneuvoston asetuksella säädetään myös tarkemmin, miten osoitetaan maatilan täyttävän ympäristöä, hygieniaa ja eläinten hyvinvointia koskevat vaatimukset, sekä luovutuksensaajalta edellytettävästä koulutuksesta ja käytännön kokemuksesta.",
+      "section_number": "15",
+      "chapter_number": 3,
+      "statute_id": "1698/2005"
+    },
+    {
+      "id": "84588636-3ff1-4be6-a185-c68e9fcd05db",
+      "node_type": "Section",
+      "publisher": "finlex",
+      "title": "16 § Luovutus lisäalueeksi maatalousyrittäjälle",
+      "text": "Luopuminen maatalouden harjoittamisesta voi tapahtua myös siten, että luopuja luovuttaa maatilan peltomaan osina tai kokonaan lisämaaksi maatalouden harjoittamista varten yhdelle tai useammalle luovutuksensaajalle: Luopuminen maatalouden harjoittamisesta voi vuosina 2007 ja 2008 tapahtua myös siten, että luopuja vuokraa maatilan peltomaan osina tai kokonaan lisämaaksi maatalouden harjoittamista varten yhdelle tai useammalle luovutuksensaajalle, joka täyttää 1 momentissa säädetyt edellytykset. Edellä 1 momentissa tarkoitetun luovutuksensaajan maatilan tulee sijaita sellaisella etäisyydellä lisämaaksi luovutetusta peltoalasta, että yhdysviljely on mahdollista. Valtioneuvoston asetuksella voidaan tarvittaessa säätää enimmäisetäisyydestä.",
+      "section_number": "16",
+      "chapter_number": 3,
+      "statute_id": "1698/2005"
+    },
+    {
+      "id": "34f02cab-fe86-4d77-ae9e-d7ecd7180520",
+      "node_type": "Section",
+      "publisher": "finlex",
+      "title": "17 § Luopuminen porotalouden harjoittamisesta",
+      "text": "Jos luopujan tila on porotaloustila tai siihen verrattava tila, luopuminen voi tapahtua: Luovutuksensaajan on sitouduttava harjoittamaan porotaloutta niin kauan kuin luopujalle maksetaan luopumistukea, kuitenkin vähintään viiden vuoden ajan. Edellä 1 momentin 1 kohdassa tarkoitettuna sukupolvenvaihdosluovutuksena ei kuitenkaan pidetä porojen ja tuotantorakennusten luovuttamista sellaiselle luovutuksensaajalle, joka on jo aikaisemmin ryhtynyt porotalouden harjoittajaksi siten, että hänelle on myönnetty porotalouden ja luontaiselinkeinojen rahoituslain 18 §:n 1 momentin 2 kohdassa tarkoitettu nuorten viljelijöiden aloitustuki tai sitä vastaava aikaisemman lainsäädännön mukainen käynnistystuki.",
+      "section_number": "17",
+      "chapter_number": 3,
+      "statute_id": "1698/2005"
+    },
+    {
+      "id": "f296b5e2-8913-4532-9321-eef0de6330b9",
+      "node_type": "Section",
+      "publisher": "finlex",
+      "title": "18 § Sukupolvenvaihdos henkilöyhtiössä",
+      "text": "Jos luopujana on 5 §:n 1 momentin 2 kohdassa tarkoitettu maatalousyrittäjä, luopuminen maatalouden harjoittamisesta voi tapahtua sellaisella sukupolvenvaihdosluovutuksella, jossa luopuja luovuttaa yhtiöosuutensa luopumisen kohteena olevan maatilan omistavassa avoimessa yhtiössä tai kommandiittiyhtiössä luovutuksensaajalle, joka: Edellä 1 momentissa tarkoitetun yhtiön on sitouduttava pitämään omistuksessaan ja hallinnassaan luopumisen kohteena oleva maatila ja viljelemään sitä niin kauan kuin luopumistukea maksetaan, kuitenkin vähintään viiden vuoden ajan. Yhtiön on myös sitouduttava täyttämään 15 §:n 1 momentin 4 ja 5 kohdassa säädetyt edellytykset. Kun luopujana on 1 momentissa tarkoitettu maatalousyrittäjä, luopuminen maatalouden harjoittamisesta voi tapahtua sukupolvenvaihdosluovutuksella myös siten, että avoin yhtiö tai kommandiittiyhtiö luovuttaa maatilan pellot ja tuotantorakennukset 15 §:ssä säädetyllä tavalla.",
+      "section_number": "18",
+      "chapter_number": 4,
+      "statute_id": "1698/2005"
+    },
+    {
+      "id": "c3c76427-805d-4a9d-a908-8edd7e0a4538",
+      "node_type": "Section",
+      "publisher": "finlex",
+      "title": "19 § Sukupolvenvaihdos osakeyhtiössä",
+      "text": "Kun luopujana on 5 §:n 1 momentin 3 kohdassa tarkoitettu maatalousyrittäjä, luopuminen maatalouden harjoittamisesta voi tapahtua sukupolvenvaihdosluovutuksella siten, että luopumisen kohteena olevan maatilan omistavan osakeyhtiön kaikki osakkeet luovutetaan luovutuksensaajalle, joka: Osakeyhtiön on 1 momentissa tarkoitetussa luovutuksessa sitouduttava pitämään omistuksessaan ja hallinnassaan luopumisen kohteena oleva maatila sekä viljelemään sitä niin kauan kuin luopumistukea maksetaan, kuitenkin vähintään viiden vuoden ajan. Osakeyhtiön on myös sitouduttava täyttämään 15 §:n 1 momentin 4 ja 5 kohdassa säädetyt edellytykset. Edellä 1 momentissa tarkoitetulla luovutuksensaajalla katsotaan olevan määräysvalta yhtiössä, jos hän omistaa yksin tai yhdessä aviopuolisonsa kanssa yli puolet yhtiön osakkeista tai, jos hänellä on yksin tai aviopuolisonsa kanssa osakeomistuksensa perusteella yli puolet äänistä. Jos kysymyksessä on 1 momentissa tarkoitettu luopuja, luopuminen maatalouden harjoittamisesta voi tapahtua myös siten, että osakeyhtiö, jonka lukuun luopuja on harjoittanut maataloutta, luovuttaa luopumisen kohteena olevan maatilan pellot ja tuotantorakennukset 15 §:ssä säädetyllä tavalla.",
+      "section_number": "19",
+      "chapter_number": 4,
+      "statute_id": "1698/2005"
+    },
+    {
+      "id": "427ba4c4-2452-4e5c-8f4e-261bb8299b40",
+      "node_type": "Section",
+      "publisher": "finlex",
+      "title": "20 § Sukupolvenvaihdosluovutus henkilöyhtiölle",
+      "text": "Luopuminen maatalouden harjoittamisesta voi tapahtua myös siten, että luopuja luovuttaa maatilan peltomaan ja tuotantorakennukset sukupolvenvaihdosluovutuksella 3 §:n 1 momentin 2 kohdassa tarkoitettua maataloutta harjoittavalle avoimelle yhtiölle tai kommandiittiyhtiölle, jos: Edellä 1 kohdassa tarkoitetun yhtiön on sitouduttava pitämään omistuksessaan ja hallinnassaan luopumisen kohteena oleva maatila ja viljelemään sitä niin kauan kuin luopumistukea maksetaan, kuitenkin vähintään viiden vuoden ajan. Yhtiön on myös sitouduttava täyttämään 15 §:n 1 momentin 4 ja 5 kohdassa säädetyt edellytykset.",
+      "section_number": "20",
+      "chapter_number": 4,
+      "statute_id": "1698/2005"
+    },
+    {
+      "id": "daa1bab9-2731-4937-9eeb-1bee58939683",
+      "node_type": "Section",
+      "publisher": "finlex",
+      "title": "21 § Sukupolvenvaihdosluovutus osakeyhtiölle",
+      "text": "Luopuminen maatalouden harjoittamisesta voi tapahtua myös siten, että luopuja luovuttaa maatilan peltomaan ja tuotantorakennukset sukupolvenvaihdosluovutuksella 3 §:n 1 momentin 2 kohdassa tarkoitettua maataloutta harjoittavalle osakeyhtiölle seuraavin edellytyksin: Edellä 1 momentin 1 kohdassa tarkoitetulla maatalousyrittäjällä katsotaan olevan määräysvalta osakeyhtiössä, jos hän omistaa yksin tai yhdessä aviopuolisonsa kanssa yli puolet yhtiön osakkeista tai, jos hänellä on yksin tai aviopuolisonsa kanssa osakeomistuksensa perusteella yli puolet äänistä. Mitä 1 ja 2 momentissa säädetään, sovelletaan myös 15 §:ssä säädetyt edellytykset täyttävään luovutuksensaajaan, joka hankkii maatilan omistukseensa perustettavan osakeyhtiön lukuun. Luovutuksensaajan tulee tällöin antaa 1 momentin 4 kohdassa tarkoitetut sitoumukset perustettavan yhtiön lukuun.",
+      "section_number": "21",
+      "chapter_number": 4,
+      "statute_id": "1698/2005"
+    },
+    {
+      "id": "4cfcfa65-0029-4461-9b58-0b20903e3332",
+      "node_type": "Section",
+      "publisher": "finlex",
+      "title": "22 § Luovutustavat",
+      "text": "Pellon ja tuotantorakennusten luovutus voi tapahtua kauppana, lahjana tai vaihdolla muuhun kuin maa- ja metsätalousmaahan. Edellä 18 §:n 1 momentissa ja 19 §:n 1 momentissa tarkoitettu yhtiöosuuden tai osakkeiden luovuttaminen voi tapahtua kauppana tai lahjana. Jos luopujana on 6 §:n 1 momentin 3 kohdassa tarkoitettu henkilö, luovutuksena pidetään myös lesken ja perillisten välistä ositusta ja perinnönjakoa. Edellä 16 §:n 2 momentissa tarkoitettu luovutus vuokraamalla voi tapahtua vähintään kymmenen vuoden ajaksi tehdyllä vuokrasopimuksella. Jos luopujan tila on porotaloustila tai siihen verrattava tila, 17 §:n 1 momentissa tarkoitettu porojen ja tuotantorakennusten sekä -rakennelmien luovutus voi tapahtua kauppana tai lahjana.",
+      "section_number": "22",
+      "chapter_number": 5,
+      "statute_id": "1698/2005"
+    },
+    {
+      "id": "9e0a34e9-d132-49ce-a46d-32e22f3b4356",
+      "node_type": "Section",
+      "publisher": "finlex",
+      "title": "23 § Luovutuksensaajien lukumäärä",
+      "text": "Edellä 15 ja 16 §:ssä, 18 §:n 3 momentissa ja 19 §:n 4 momentissa tarkoitettu luovutus voi tapahtua myös kahdelle luovutuksensaajalle ja heidän aviopuolisoilleen yhdessä. Tällöin molempien tai, jos kyse on aviopuolisoista, ainakin toisen on täytettävä, mitä 15 ja 16 §:ssä luovutuksensaajasta säädetään. Jos maatilan pellot tai osa niistä luovutetaan yhteisesti 1 momentissa tarkoitetuille luovutuksensaajille yhdessä viljeltäväksi, luovutuksensaajien on sitouduttava pitämään pellot jakamattomina omistuksessaan ja hallinnassaan tässä laissa säädettyjen sitoumusten voimassaoloajan. Sama koskee vuokraamalla toteutettua luovutusta. Mitä edellä säädetään, sovelletaan myös luovutettaessa pellot yhteisesti aviopuolisoille, vaikka vain toinen heistä täyttäisi luovutuksensaajaa koskevat edellytykset. Edellä 19 §:n 1 momentissa ja 21 §:ssä tarkoitettu luovutus voi tapahtua myös luovutuksensaajalle ja hänen aviopuolisolleen yhdessä. Tällöin aviopuolisoista toisen on täytettävä kaikki ehdot ja molempien on sitouduttava yhdessä puolisonsa kanssa pitämään omistuksessaan sellainen määrä osakkeita, että luovutuksensaajilla yhdessä on määräämisvalta 19 tai 21 §:ssä tarkoitetussa osakeyhtiössä niin kauan kuin luopumistukea maksetaan, kuitenkin vähintään viiden vuoden ajan.",
+      "section_number": "23",
+      "chapter_number": 5,
+      "statute_id": "1698/2005"
+    },
+    {
+      "id": "b6d2e7f6-e7eb-484a-97ec-0ed6e35540ae",
+      "node_type": "Section",
+      "publisher": "finlex",
+      "title": "24 § Sukupolvenvaihdosluovutus erikseen viljeltäväksi",
+      "text": "Sen estämättä, mitä 23 §:ssä säädetään, 15 §:ssä, 18 §:n 3 momentissa ja 19 §:n 4 momentissa tarkoitettu sukupolvenvaihdosluovutus voi tapahtua myös siten, että luopumisen kohteena olevasta maatilasta luovutetaan erilliset maatilat 15 §:ssä säädetyt ehdot täyttäville luovutuksensaajille erikseen viljeltäviksi, Edellä 1 momentin 2 kohdassa tarkoitetun maatilan yritystulon laskemiseen ja arviointiin noudatetaan soveltuvin osin, mitä maatilan taloudellisen elinkelpoisuuden arvioinnista 15 §:n nojalla valtioneuvoston asetuksella säädetään. Edellä tarkoitetun maatilan yritystulon vähimmäismäärästä ja yritystulosta tehtävistä vähimmäispoistojen määrästä säädetään tarkemmin valtioneuvoston asetuksella. Erikseen luovutettavan maatilan luovutuksensaajan on esitettävä eläkelaitokselle selvitys 1 momentin 2 kohdassa säädetyn edellytyksen täyttymisestä. Erikseen luovutettaviin maatiloihin sovelletaan myös, mitä 23 §:n 1 ja 2 momentissa säädetään.",
+      "section_number": "24",
+      "chapter_number": 5,
+      "statute_id": "1698/2005"
+    },
+    {
+      "id": "5b62cdd9-cec5-4645-842b-7b8045d21994",
+      "node_type": "Section",
+      "publisher": "finlex",
+      "title": "25 § Porotalouden sukupolvenvaihdosluovutus useammalle luovutuksensaajalle",
+      "text": "Edellä 17 §:n 1 momentin 1 kohdassa tarkoitettu luovutus voi tapahtua useammalle kuin yhdelle luovutuksensaajalle, jos kullekin luovutuksensaajalle luovutuksen seurauksena muodostuu vähintään 150 poron porokarja.",
+      "section_number": "25",
+      "chapter_number": 5,
+      "statute_id": "1698/2005"
+    },
+    {
+      "id": "8465af4d-26b1-408a-91ce-04fd25075526",
+      "node_type": "Section",
+      "publisher": "finlex",
+      "title": "26 § Luopumisen kohteena oleva maatila ja sallitut pidätykset",
+      "text": "Luopumisen tulee koskea maatilan koko peltomaata. Luopumisen kohteena olevaan maatilaan katsotaan kuuluvaksi myös siitä vuokratut peltoalueet, jollei niitä sijaintinsa perusteella tai muusta vastaavasta syystä voida pitää luopumisen kohteena olevasta maatilasta erillisinä. Luopujilla on kuitenkin oikeus jättää luopumisen ulkopuolelle seuraavat kohtuullisen kokoiset alueet:",
+      "section_number": "26",
+      "chapter_number": 5,
+      "statute_id": "1698/2005"
+    },
+    {
+      "id": "0797591b-d5ed-413d-a6b0-0f905b04acd4",
+      "node_type": "Section",
+      "publisher": "finlex",
+      "title": "27 § Luopujan velvollisuus luopua kaikesta peltomaasta",
+      "text": "Jos luopuja yksin tai yhdessä aviopuolisonsa kanssa taikka luopujan aviopuoliso omistaa useampia maatiloja, on niiden kaikkien peltomaasta luovuttava tässä laissa säädetyin tavoin. Jos luopuja tai hänen aviopuolisonsa omistaa luopumisen kohteena olevan maatilan lisäksi ainoastaan osuuden muusta maatilasta, ei tämän maatilan muilta osaomistajilta edellytetä peltomaasta luopumista. Luopujan ja hänen aviopuolisonsa on kuitenkin lopetettava maatalouden harjoittaminen omaan tai yhteiseen lukuun myös tällaisella tilalla. Jos 5 §:n 1 momentin 2 ja 3 kohdassa tarkoitettu luopuja on yhtiössä harjoittamansa maatalouden rinnalla harjoittanut yksin tai yhdessä aviopuolisonsa kanssa tai aviopuolison omistamalla peltomaalla maataloutta omaan tai yhteiseen lukuun, on hänen ja hänen aviopuolisonsa luovuttava myös edellä mainitusta peltomaasta tässä laissa säädetyin tavoin.",
+      "section_number": "27",
+      "chapter_number": 5,
+      "statute_id": "1698/2005"
+    },
+    {
+      "id": "3d040a66-73db-414d-b544-1a8d6d610101",
+      "node_type": "Section",
+      "publisher": "finlex",
+      "title": "28 § Luopumistuen osat",
+      "text": "Luopumistuki muodostuu perusmäärästä ja täydennysosasta. Luopumistuen perusmäärä perustuu maatalousyrittäjälle maatalousyrittäjien eläkelain nojalla vahvistettuun työtuloon.",
+      "section_number": "28",
+      "chapter_number": 6,
+      "statute_id": "1698/2005"
+    },
+    {
+      "id": "e259d6d9-6633-44ef-ba39-2d5b1e72aa9d",
+      "node_type": "Section",
+      "publisher": "finlex",
+      "title": "29 § Perusmäärän määräytyminen",
+      "text": "Luopumistuen perusmäärä on yhtä suuri kuin se maatalousyrittäjien eläkelain mukainen työkyvyttömyyseläke, joka maatalousyrittäjälle olisi myönnetty, jos hänellä luopumisen tapahtuessa olisi ollut oikeus täyden työkyvyttömyyseläkkeen saamiseen. Perusmäärää määrättäessä ei kuitenkaan oteta huomioon oikeutta eläkkeeseen työntekijän eläkelain 74 §:ssä luetelluista etuuksista eikä valtion varoista suoritettavasta eläkkeen korvaamisesta alle kolmivuotiaan lapsen hoidosta tai opiskelun ajalta annetun lain (644/2003) mukaista etuutta. Edellä mainittujen etuuksien perusteena olevia tuloja tai työntekijän eläkelain 76 §:n 4 momentissa tarkoitettuja laskennallisia tuloja ei oteta huomioon tulevan ajan eläkkeen perusteena olevissa ansioissa. Perusmäärän suuruutta määrättäessä ei oteta huomioon sellaista oikeutta eläkkeeseen, joka perustuu maatalousyrittäjän työ- tai virkasuhteeseen taikka muuhun kuin maatalousyrittäjien eläkelaissa tarkoitettuun yrittäjätoimintaan. Perusmäärään sovelletaan, mitä työntekijän eläkelain 80 §:ssä säädetään työkyvyttömyyseläkkeen määrittämisestä entisin perustein, jos luopuja on ennen luopumista saanut työkyvyttömyyseläkettä kuntoutustukena. Työntekijän eläkelain 74 §:ssä luetelluista etuuksista tai valtion varoista suoritettavasta eläkkeen korvaamisesta alle kolmivuotiaan lapsen hoidosta tai opiskelun ajalta annetun lain perusteella karttunutta eläkettä tai etuutta ei kuitenkaan oteta huomioon perusmäärää määrättäessä. Luopumistuen perusmäärään sovelletaan, mitä työntekijän eläkelain 92―95 §:ssä säädetään ensisijaisten etuuksien vähentämisestä eläkkeestä sekä mitä lapsikorotuksesta säädetään maatalousyrittäjien eläkelain muuttamisesta annetun lain (637/2003) voimaantulosäännöksen 10 momentissa. Perusmäärä tarkistetaan yleisten palkka- ja hintatasossa tapahtuneiden muutosten mukaan siten kuin työntekijän eläkelain 98 §:ssä säädetään.",
+      "section_number": "29",
+      "chapter_number": 6,
+      "statute_id": "1698/2005"
+    },
+    {
+      "id": "2ae7d7bd-4b3b-4033-89e8-45316b0a93af",
+      "node_type": "Section",
+      "publisher": "finlex",
+      "title": "30 § Osatyökyvyttömyyseläkettä saavan perus- määrä",
+      "text": "Maatalousyrittäjien eläkelain mukaista osatyökyvyttömyyseläkettä saavan maatalousyrittäjän luopumistuen perusmäärä on yhtä suuri kuin se maatalousyrittäjien eläkelain mukainen täysi työkyvyttömyyseläke, joka maatalousyrittäjälle olisi myönnetty, jos hänen osatyökyvyttömyyseläkkeensä olisi luopumisen tapahtuessa muutettu täyden eläkkeen suuruiseksi. Perusmäärää määrättäessä ei kuitenkaan oteta huomioon täyden työkyvyttömyyseläkkeen suuruisena työntekijän eläkelain 74 §:ssä luetelluista etuuksista tai valtion varoista suoritettavasta eläkkeen korvaamisesta alle kolmivuotiaan lapsen hoidosta tai opiskelun ajalta annetun lain perusteella karttunutta eläkettä tai etuutta. Muilta osin perusmäärään sovelletaan, mitä 29 §:n 2 ja 4 momentissa säädetään. Edellä 1 momentissa tarkoitettu maatalousyrittäjien eläkelain mukainen osatyökyvyttömyyseläke muutetaan luopumistuen perusmääräksi siitä ajankohdasta lukien, kun luopumistukea aletaan tämän lain 38 §:n mukaisesti maksaa. Maatalousyrittäjien eläkelain mukaisen osatyökyvyttömyyseläkkeen maksaminen lakkaa edellä mainitusta ajankohdasta lukien.",
+      "section_number": "30",
+      "chapter_number": 6,
+      "statute_id": "1698/2005"
+    },
+    {
+      "id": "06cb2deb-72d0-4805-a4fc-dea072237eb5",
+      "node_type": "Section",
+      "publisher": "finlex",
+      "title": "31 § Luopumistuen täydennysosa",
+      "text": "Luopumistuen täydennysosa on yhtä suuri kuin se kansaneläke, joka luopujalle olisi myönnetty, jos hänellä luopumisen tapahtuessa olisi ollut oikeus työkyvyttömyyseläkkeenä myönnettyyn kansaneläkkeeseen. Täydennysosaa laskettaessa ei kuitenkaan sovelleta, mitä kansaneläkelain 25 b §:ssä säädetään eläkkeen määrän suhteuttamisesta Suomessa asuttuun aikaan. Täydennysosaa määrättäessä otetaan tulona huomioon kansaneläkelain 26 §:n 1 momentissa tarkoitettua eläkettä tai korvausta vastaava ulkomailta maksettava jatkuva eläke tai korvaus. Täydennysosaa laskettaessa sovelletaan, mitä kansaneläkelaissa säädetään eläkkeen määräytymisestä puolisoille myös silloin, kun kysymys on tämän lain 5 §:n 2 momentissa tarkoitetuista henkilöistä. Täydennysosaan ei kuitenkaan sovelleta kansaneläkelain 28 §:n 1 momenttia. Sen jälkeen kun luopumistuki on myönnetty, täydennysosan määrää tarkistetaan vain kansaneläkelain 32 a §:n 3 momentissa tarkoitettujen perhesuhteiden muutosten johdosta. Täydennysosa tarkistetaan indeksillä siten kuin kansaneläkeindeksistä annetussa laissa (456/2001) säädetään. Luopumistukeen liitetään kansaneläkelain 29 §:ssä tarkoitettu lapsikorotus pykälässä säädetyin edellytyksin.",
+      "section_number": "31",
+      "chapter_number": 6,
+      "statute_id": "1698/2005"
+    },
+    {
+      "id": "3c9a5d53-c16c-4aaa-b0f8-d80f14567675",
+      "node_type": "Section",
+      "publisher": "finlex",
+      "title": "32 § Luopumistuen hakeminen",
+      "text": "Luopumistukea voi hakea aikaisintaan vuotta ennen 8 §:n 1 momentissa säädetyn iän saavuttamista. Hakemuksen tekemisen jälkeen luopuminen voi tapahtua jo ennen 8 §:n 1 momentissa säädetyn iän saavuttamista. Luopumistukea suoritetaan kuitenkin aikaisintaan 38 §:ssä säädetystä ajankohdasta lukien. Hakijan on liitettävä allekirjoittamaansa hakemukseen osapuolten allekirjoittama luovutuskirjan luonnos tai esisopimus sekä 15 §:n 1 momentin 6 kohdassa, 16 §:n 1 momentin 5 kohdassa tai 17 §:n 2 momentissa sekä tarvittaessa 15 §:n 2 momentissa tarkoitettu luovutuksensaajan allekirjoittama sitoumus ehdollista päätöstä varten. Jos luopuminen tapahtuu 18―21 §:ssä säädetyin tavoin, on hakemukseen liitettävä lisäksi yhtiön sekä 15 §:ssä säädetyt edellytykset täyttävän luovutuksensaajan allekirjoittamat edellä mainituissa lainkohdissa tarkoitetut sitoumukset sekä asiakirjat, joilla osoitetaan sitoumuksen antajan nimenkirjoitusoikeus ja oikeus sitoumuksen antamiseen. Hakemukseen on myös liitettävä 23 §:n 2 ja 3 momentissa tarkoitettu luovutuksensaajan aviopuolison allekirjoittama sitoumus. Luopumistukea on haettava ja 2 momentissa tarkoitetut sitoumukset annettava eläkelaitoksen hyväksymällä lomakkeella. Luopumistukea hakevan on annettava eläkelaitokselle asian käsittelemistä ja ratkaisemista varten tarvittavat tiedot.",
+      "section_number": "32",
+      "chapter_number": 7,
+      "statute_id": "1698/2005"
+    },
+    {
+      "id": "e12e5dd6-aa3e-4aca-9d78-846764a1e646",
+      "node_type": "Section",
+      "publisher": "finlex",
+      "title": "33 § Hakemukseen liitettävät selvitykset",
+      "text": "Hakemukseen on liitettävä selvitys luopumisen kohteena olevan tilan omistusoikeudesta ja pinta-alasta sekä sukupolvenvaihdosluovutuksessa selvitykset luovutuksensaajan ammattitaidosta, luopumisen kohteena olevan maatilan taloudellisesta elinkelpoisuudesta sekä ympäristöä, hygieniaa ja eläinten hyvinvointia koskevien vaatimusten noudattamisesta. Jos luopujana on 6 §:n 2 momentissa tarkoitettu luopuja, hakemukseen on liitettävä luopumisen kohteena olevan maatilan omistavan yhtiön kaupparekisteriote sekä 19 §:n 1 momentissa ja 21 §:n 1 momentissa tarkoitetuissa luovutuksissa jäljennös osakeyhtiötä koskevasta osake- ja osakasluettelosta sekä yhtiöjärjestyksestä. Jos luovutus tapahtuu 18 tai 20 §:ssä säädetyin tavoin, on eläkelaitokselle toimitettava avoimen tai kommandiittiyhtiön yhtiösopimus sekä 18 §:ssä tarkoitetussa luovutuksessa selvitys siitä, että muut yhtiömiehet suostuvat luopujan suunnittelemaan yhtiöosuuden luovuttamiseen, ellei kyseisen yhtiön yhtiösopimuksesta muuta johdu. Eläkelaitos voi edellyttää hakemukseen liitettäväksi muitakin hakemuksen ratkaisemiseksi tarpeellisia selvityksiä.",
+      "section_number": "33",
+      "chapter_number": 7,
+      "statute_id": "1698/2005"
+    },
+    {
+      "id": "bc2b6fc7-e4bc-4187-9163-9f8616151651",
+      "node_type": "Section",
+      "publisher": "finlex",
+      "title": "34 § Hakemuksen vireilletulo",
+      "text": "Luopumistukihakemus ja 15―21 §:ssä, 23 §:n 2 ja 3 momentissa sekä 33 §:ssä tarkoitetut asiakirjat ja sitoumukset on toimitettava sen kunnan maaseutuelinkeinoviranomaiselle, jonka alueella maatilan talouskeskus sijaitsee. Kunnan maaseutuelinkeinoviranomaisen on toimitettava hakemusasiakirjat lausuntoineen luopumistuen saamisen edellytyksistä eläkelaitokselle. Hakemuksen katsotaan tulleen vireille sinä päivänä, jona se on saapunut kunnan maaseutuelinkeinoviranomaiselle. Hakemuksen saapumispäivästä säädetään tarkemmin hallintolain (434/2003) 18 §:ssä. Hakemus voidaan toimittaa kunnan maaseutuelinkeinoviranomaisen sijasta sille työvoima- ja elinkeinokeskukselle, jonka toimialueella maatilan talouskeskus sijaitsee. Hakemus voidaan toimittaa myös suoraan eläkelaitokselle tai eläkelaitoksen valtuuttamalle asiamiehelle. Hakemuksen katsotaan tulleen vireille 1 momentissa tarkoitetuin tavoin saamispäivänään. Hakemus on viivytyksettä toimitettava kunnan maaseutuelinkeinoviranomaiselle tämän lausuntoa varten. Hakemuksen vastaanottanut kunnan maaseutuelinkeinoviranomainen, työvoima- ja elinkeinokeskus tai eläkelaitos voi pyytää tuen hakijaa toimittamaan kohtuullisen määräajan kuluessa asian ratkaisemiseksi tarpeellista lisäselvitystä. Kunnan maaseutuelinkeinoviranomaisen ja työvoima- ja elinkeinoviranomaisen on toimitettava hakemus ja siihen mahdollisesti saatu lisäselvitys viipymättä eläkelaitoksen ratkaistavaksi. Jollei tuen hakija toimita tarpeellista lisäselvitystä 3 momentissa tarkoitetulle lisäselvityksen pyytäjälle kohtuullisessa määräajassa, eläkelaitos voi jättää hakemuksen tutkimatta tai ratkaista sen ilman lisäselvitystä.",
+      "section_number": "34",
+      "chapter_number": 7,
+      "statute_id": "1698/2005"
+    },
+    {
+      "id": "f5a74bb8-a91e-4df7-8c59-89f0377fad58",
+      "node_type": "Section",
+      "publisher": "finlex",
+      "title": "35 § Lausunnot",
+      "text": "Kunnan maaseutuelinkeinoviranomaisen on annettava eläkelaitokselle lausuntonsa siitä, täyttyvätkö luopumistuen saamisen edellytykset. Jos eläkelaitos katsoo, että kunnan maaseutuelinkeinoviranomaisen lausunto on selvästi tulkinnanvarainen, eläkelaitos voi lisäksi pyytää hakemuksesta työvoima- ja elinkeinokeskuksen lausunnon. Jos luopujana on porotalouden harjoittaja, eläkelaitos voi pyytää hakemuksesta myös Paliskuntain yhdistyksen lausunnon. Eläkelaitos ratkaisee luopumistukea koskevan hakemuksen saatuaan kunnan maaseutuelinkeinoviranomaisen tai 2 momentissa tarkoitetuissa tapauksissa työvoima- ja elinkeinokeskuksen ja Paliskuntain yhdistyksen lausunnon asiassa. Valtioneuvoston asetuksella voidaan tarvittaessa säätää tarkemmin menettelystä lausuntoja annettaessa.",
+      "section_number": "35",
+      "chapter_number": 7,
+      "statute_id": "1698/2005"
+    },
+    {
+      "id": "70734277-87fa-41b5-905c-60b1e514cb1c",
+      "node_type": "Section",
+      "publisher": "finlex",
+      "title": "36 § Ehdollinen päätös",
+      "text": "Eläkelaitoksen on ratkaistava luopumistukihakemus viivytyksettä saatuaan tarpeelliset lausunnot ja selvitykset. Jos päätös tehdään luovutuskirjan luonnoksen tai esisopimuksen perusteella, eläkelaitoksen antamassa ehdollisessa päätöksessä on mainittava kaikki luopumistuen myöntämistä koskevat ehdot. Päätökseen on sisällyttävä ehto, että hakijan on toteutettava 4 §:ssä tarkoitettu luopuminen sekä toimitettava eläkelaitokselle luonnosta tai esisopimusta vastaava lopullinen luovutuskirja tai niiden jäljennös kahdentoista kuukauden kuluessa päätöksen antamisesta. Ehdollinen päätös raukeaa, jos luopumista ei ole toteutettu määräajassa. Jos hakemus ratkaistaan 2 momentissa säädetyin tavoin ehdollisena, pidetään 7 §:ssä tarkoitettua edellytystä arvioitaessa luopumishetkenä sitä ajankohtaa, jona luopumistukea on haettu. Ehdollisella päätöksellä ilmoitetaan arvio luopumistuen määrästä pitäen tuen alkamisajankohtana sen kalenterikuukauden alkua, jonka aikana ehdollinen päätös annetaan.",
+      "section_number": "36",
+      "chapter_number": 7,
+      "statute_id": "1698/2005"
+    },
+    {
+      "id": "e5cf1f83-0cdf-48c6-9bc6-f5c560053b85",
+      "node_type": "Section",
+      "publisher": "finlex",
+      "title": "37 § Päätös luopumistuen määrästä",
+      "text": "Luopumisen tapahduttua eläkelaitoksen on tarvittavat selvitykset saatuaan vahvistettava valituskelpoisella päätöksellä luopumistuen määrä noudattaen, mitä 29―31 §:ssä säädetään. Edellä 1 momentissa säädettyä noudatetaan myös osatyökyvyttömyyseläkkeen muuttuessa luopumistueksi.",
+      "section_number": "37",
+      "chapter_number": 7,
+      "statute_id": "1698/2005"
+    },
+    {
+      "id": "f98e2068-581a-4b96-8a82-8f901fe91494",
+      "node_type": "Section",
+      "publisher": "finlex",
+      "title": "38 § Luopumistuen maksaminen",
+      "text": "Luopumistukea suoritetaan asianomaista luopumistapaa koskevasta 4 §:n 3 momentissa tarkoitetusta luopumisajankohdasta; luopumistukea ei kuitenkaan suoriteta ennen kuin: Luopumistukea ei makseta vajaalta kalenterikuukaudelta. Eläkelaitos antaa 1 momentissa mainittujen edellytysten täyttyessä luopumistuen maksamisen aloittamista koskevan päätöksen.",
+      "section_number": "38",
+      "chapter_number": 7,
+      "statute_id": "1698/2005"
+    },
+    {
+      "id": "97b93dc8-64ac-42f8-9d3c-2324005c7430",
+      "node_type": "Section",
+      "publisher": "finlex",
+      "title": "39 § Päätöksen tiedoksianto",
+      "text": "Eläkelaitos antaa päätöksensä tiedoksi lähettämällä sen vastaanottajalle hänen ilmoittamaansa postiosoitteeseen kirjeellä. Päätöksestä on annettava tieto työvoima- ja elinkeinokeskukselle sekä kunnan maaseutuelinkeinoviranomaiselle. Lisäksi päätöksestä on annettava tieto Paliskuntain yhdistykselle, jos luopujana on porotalouden harjoittaja.",
+      "section_number": "39",
+      "chapter_number": 7,
+      "statute_id": "1698/2005"
+    },
+    {
+      "id": "c1f0ebbf-ed40-4e9c-bbc3-c7f965d2c5b1",
+      "node_type": "Section",
+      "publisher": "finlex",
+      "title": "40 § Eläkelaitoksen ilmoitusvelvollisuus",
+      "text": "Luopumistuen alkamista koskevan päätöksen antamisen yhteydessä eläkelaitoksen on toimitettava myös 15―21 §:ssä tarkoitetulle luovutuksensaajalle ja 18―21 §:ssä tarkoitetulle yhtiölle sitoumusten täyttämistä varten tieto siitä, kuinka kauan luopujalle tullaan maksamaan luopumistukea. Jos luopumistuen maksu pysyvästi lakkaa ilmoitettua aikaisemmin, eläkelaitoksen on niin ikään ilmoitettava asiasta luovutuksensaajalle. Siinä tapauksessa, että hakemus hylätään sen jälkeen, kun luopuminen on 4 §:ssä tarkoitetulla tavalla tapahtunut, 15―21 §:ssä tai 23 §:n 2 ja 3 momentissa tarkoitetun sitoumuksen antaneelle luovutuksensaajalle ja 18―21 §:ssä tarkoitetulle yhtiölle on päätöksen lainvoimaiseksi tulemisen jälkeen ilmoitettava, ettei annettu sitoumus sido häntä eikä yhtiötä.",
+      "section_number": "40",
+      "chapter_number": 7,
+      "statute_id": "1698/2005"
+    },
+    {
+      "id": "2385dcfd-a704-485c-8e38-a9af7a81c2be",
+      "node_type": "Section",
+      "publisher": "finlex",
+      "title": "41 § Eläkkeen saaminen ja karttuminen luopumistukiajalta",
+      "text": "Siltä ajalta, jolta luopujalle suoritetaan luopumistukea, ei sen saajalla ole oikeutta saada eläkettä maatalousyrittäjien eläkelaissa tarkoitetun yrittäjätoiminnan perusteella. Luopumistuen saaminen ei kuitenkaan estä eläkeoikeuden syntymistä työ- tai virkasuhteen taikka muun kuin maatalousyrittäjien eläkelaissa tarkoitetun yrittäjätoiminnan perusteella. Luopuja ei voi kartuttaa eläkettä maatalousyrittäjien eläkelain nojalla siltä ajalta, jolta hänelle suoritetaan luopumistukea. Luopuja ei voi luopumisen tapahtumisen jälkeen kartuttaa eläketurvaa maatalousyrittäjien eläkelain 1 §:n 2 momentissa tarkoitettuna maatilatalouden harjoittajana tai poronomistajana myöskään siltä ajalta, jolta luopumistuen suorittaminen ei ole vielä alkanut siitä syystä, etteivät 38 §:ssä säädetyt edellytykset tai jokin niistä täyty. Kun luopumistukea on alettu suorittaa 38 §:n perusteella, luopumistuen saajalle karttuu muusta kuin maatalousyrittäjien eläkelain mukaisesta ansiotyöstä eläkettä sen mukaan, mitä säädetään työntekijän eläkelain 3 §:ssä tarkoitetuissa työeläkelaeissa eläkkeen aikana tehdystä työstä.",
+      "section_number": "41",
+      "chapter_number": 7,
+      "statute_id": "1698/2005"
+    },
+    {
+      "id": "ca5f9276-ad50-49c9-84ec-cc4a3b21dd7f",
+      "node_type": "Section",
+      "publisher": "finlex",
+      "title": "42 § Luopumistuen perusmäärän muuttuminen vanhuuseläkkeeksi",
+      "text": "Luopumistuen perusmäärä muuttuu saman suuruiseksi maatalousyrittäjien eläkelain mukaiseksi vanhuuseläkkeeksi sitä kuukautta seuraavan kuukauden alusta, jonka aikana luopumistuen saaja täyttää 63 vuotta. Edellä 1 momentissa tarkoitettuun vanhuuseläkkeeseen lisätään kuitenkin: Perusmäärän muuttuessa vanhuuseläkkeeksi sovelletaan myös, mitä työntekijän eläkelain 82 ja 83 §:ssä säädetään elinaikakertoimesta. Perusmäärän muuttuessa 1 momentissa tarkoitetulla tavalla vanhuuseläkkeeksi, eläkelaitos voi myöntää hakemuksesta eläkkeensaajalle työ- tai virkasuhteen tai muun kuin maatalousyrittäjien eläkelain perusteella harjoitetun yrittäjätoiminnan perusteella karttuneen vanhuuseläkkeen aikaisintaan 1 momentissa tarkoitetusta ajankohdasta lukien. Jos luopuja ei ole lopettanut tai vähentänyt muita ansiotöitään niin, että luopumistuen perusmäärän maksaminen olisi aloitettu, 1 momentissa tarkoitetun maatalousyrittäjien eläkelain mukaisen vanhuuseläkkeen maksamisen aloittamista voidaan luopujan hakemuksesta lykätä, jos hakemus tehdään ennen kuin luopuja täyttää 63 vuotta. Tällöin maatalousyrittäjien eläkelain mukainen vanhuuseläke myönnetään erillisestä hakemuksesta. Vanhuuseläke määräytyy 1―4 momentissa tarkoitetuin tavoin hakemusta seuraavan kuukauden alusta.",
+      "section_number": "42",
+      "chapter_number": 7,
+      "statute_id": "1698/2005"
+    },
+    {
+      "id": "871b4df4-259a-43b2-ac8b-00ec25d4480f",
+      "node_type": "Section",
+      "publisher": "finlex",
+      "title": "43 § Luopumistuen täydennysosan maksamisen lakkaaminen",
+      "text": "Luopumistuen täydennysosaa maksetaan siihen saakka, kunnes luopuja täyttää 65 vuotta. Täydennysosaa maksetaan 42 §:ssä tarkoitetun maatalousyrittäjien eläkelain mukaisen vanhuuseläkkeen lisäksi, jollei 3 ja 4 momentista muuta johdu. Jos luopumistuen saajalle myönnetään kansaneläkelain mukainen työkyvyttömyyseläke, yksilöllinen varhaiseläke, työttömyyseläke, vanhuuseläke tai varhennettu vanhuuseläke, luopumistuen täydennysosa lakkautetaan. Jos luopumistuen saajalle myönnetään muu kuin 1 momentissa tarkoitettu, työntekijän eläkelain 3 §:ssä mainittujen työeläkelakien tai niiden voimaanpanosta annettujen lakien mukainen täysi työkyvyttömyyseläke, yksilöllinen varhaiseläke, työttömyyseläke, vanhuuseläke tai varhennettu vanhuuseläke, luopumistuen täydennysosa lakkautetaan. Mitä edellä säädetään, sovelletaan myös työntekijäin eläkelain (395/1961), jäljempänä vuoden 1961 työntekijäin eläkelaki, 8 §:n 4 momentissa tarkoitettujen lakien tai eläkesäännön mukaisiin vastaaviin eläkkeisiin. Jos luopumistuen saajalle myönnetty 3 ja 4 momentissa tarkoitettu eläke lakkaa, täydennysosan maksaminen aloitetaan uudelleen eläkkeen lakkaamista seuraavan kuukauden alusta.",
+      "section_number": "43",
+      "chapter_number": 7,
+      "statute_id": "1698/2005"
+    },
+    {
+      "id": "7c88778f-e1d1-43bf-a9dd-83853921dd77",
+      "node_type": "Section",
+      "publisher": "finlex",
+      "title": "44 § Luopumistuen saajan kuolema",
+      "text": "Luopumistuen saajan kuollessa luopumistuki lakkaa luopumistuen saajan kuolinpäivää seuraavan kuukauden alusta lukien. Määrättäessä perhe-eläkkeen suuruutta luopumistuen saajan jälkeen katsotaan, että edunjättäjällä oli kuolinhetkellään maatalousyrittäjien eläkelaissa tarkoitetun yrittäjätoimintansa perusteella oikeus saada tämän lain 29 tai 30 §:n mukaisen perusmäärän suuruista täyttä työkyvyttömyyseläkettä.",
+      "section_number": "44",
+      "chapter_number": 7,
+      "statute_id": "1698/2005"
+    },
+    {
+      "id": "269c35e5-52fb-4e06-9d01-fc463fd42e49",
+      "node_type": "Section",
+      "publisher": "finlex",
+      "title": "45 § Luopumistuen maksun keskeyttäminen",
+      "text": "Luopumistukea ei makseta kalenterikuukaudelta, jonka aikana luopumistuen saaja on ansiotyössä ja ansaitsee vähintään 523,61 euroa kuukaudessa. Tällöin ei tulona oteta huomioon 14 §:ssä tarkoitettua tuloa, jota ei lueta ansiotyöstä saaduksi tuloksi luopumistukea myönnettäessäkään. Edellä mainittu ansiotuloraja tarkistetaan vuosittain työntekijän eläkelain 96 §:ssä tarkoitetulla palkkakertoimella. Kun eläkelaitos saa tiedon seikasta, jonka perusteella luopumistukea ei 1 momentin mukaan saisi maksaa, eläkelaitos keskeyttää luopumistuen maksamisen seuraavasta mahdollisesta maksujaksosta alkaen, jos syy luopumistuen maksamisen keskeyttämiseen on edelleen olemassa. Luopumistuen maksaminen voidaan niin ikään keskeyttää, jos luopumistuen saajan työpanos ja olosuhteet luovutetulla tilalla huomioon ottaen pääasiallisen vastuun maatalouden harjoittamisesta on katsottava siirtyneen muutoin kuin tilapäisesti takaisin luopumistuen saajalle. Luopumistuen maksaminen aloitetaan uudelleen välittömästi, kun eläkelaitos on saanut tiedon keskeytyksen aiheuttaneen syyn poistumisesta. Luopumistuen saajan on ilmoitettava siitä kirjallisesti eläkelaitokselle. Valtioneuvoston asetuksella säädetään tarkemmin menettelystä silloin, kun keskeytettyä luopumistukea ryhdytään uudelleen maksamaan. Luopumistukea ei kuitenkaan makseta takautuvasti kuutta kuukautta pidemmältä ajalta ennen ilmoitusta.",
+      "section_number": "45",
+      "chapter_number": 7,
+      "statute_id": "1698/2005"
+    },
+    {
+      "id": "c730b024-eb7b-47f7-91e9-4a7112abc330",
+      "node_type": "Section",
+      "publisher": "finlex",
+      "title": "46 § Luopumistuen lakkauttaminen",
+      "text": "Luopumistuki lakkautetaan, jos luopuja ryhtyy harjoittamaan maataloutta tai metsätaloutta vastoin 12 ja 13 §:ssä säädettyä kieltoa. Jos luopujan 1 momentissa tarkoitettua toimintaa tai sitoumuksen laiminlyöntiä on pidettävä vähäisenä taikka jos tällaiselle toiminnalle tai laiminlyönnille on ollut olemassa muu erityinen syy, voidaan luopumistuki lakkauttaa määräajaksi taikka päättää, että luopumistuki maksetaan entisen suuruisena. Täydennysosa voidaan lakkauttaa myös osaksi. Luopumistuki voidaan lakkauttaa siitä lukien, kun 1 momentissa tarkoitettuun toimintaan ryhdyttiin tai laiminlyönti tapahtui.",
+      "section_number": "46",
+      "chapter_number": 8,
+      "statute_id": "1698/2005"
+    },
+    {
+      "id": "470d7f24-577b-4762-b170-aac8063deedc",
+      "node_type": "Section",
+      "publisher": "finlex",
+      "title": "47 § Sitoumuksen täyttämisen keskeyttäminen",
+      "text": "Luovutuksensaajalla on oikeus keskeyttää 15 §:n 1 momentin 6 kohdassa, 16 §:n 1 momentin 5 kohdassa ja 17 §:n 2 momentissa tarkoitetun sitoumuksensa täyttäminen asevelvollisuutensa suorittamisen, maatilataloutta koskevien tai maatilataloutta tukevien ammattiopintojensa taikka muun hyväksyttävän syyn vuoksi. Tällaisen esteen kestäessä vuotta pitemmän ajan eläkelaitoksen on pidennettävä sitoumusaikaa esteen kestävällä ajalla, jollei luovutuksensaaja osoita, että hän itse, hänen aviopuolisonsa tai toinen luovutuksensaaja täyttää sitoumuksen velvoitteet. Mitä edellä säädetään, sovelletaan myös 18 §:n 1 momentin 1 kohdassa, 19 §:n 1 momentin 1 kohdassa, 20 §:n 1 momentin 1 kohdassa sekä 21 §:n 1 momentin 1 kohdassa tarkoitettuun henkilöön.",
+      "section_number": "47",
+      "chapter_number": 8,
+      "statute_id": "1698/2005"
+    },
+    {
+      "id": "c349b5a1-7c20-4571-b591-b1e5a1e5c055",
+      "node_type": "Section",
+      "publisher": "finlex",
+      "title": "48 § Sitoumuksen täyttämättä jättäminen",
+      "text": "Jollei 15―17 §:ssä tarkoitettu luovutuksensaaja täytä sitoumustaan eikä tämä johdu 47 §:ssä tarkoitetusta hyväksyttävästä syystä, on eläkelaitoksen velvoitettava hänet korvaamaan eläkelaitokselle luopumistuen pääoma-arvo, joka määrätään sosiaali- ja terveysministeriön eläkelaitoksen hakemuksesta antamalla päätöksellä vahvistettujen perusteiden mukaan. Mitä 1 momentissa säädetään, koskee myös 18―21 §:ssä tarkoitettua luovutuksensaajaa ja yhtiötä. Lain 15 §:ssä säädetyt ehdot täyttävä luovutuksensaaja sekä 18―21 §:ssä tarkoitettu yhtiö vastaavat yhteisvastuullisesti luopumistuen pääoma-arvon korvaamisesta, jos 15 §:n 1 momentin 4, 5 tai 6 kohdassa tarkoitettua sitoumusta ei täytetä. Jos sitoumuksen laiminlyöntiä on pidettävä vähäisenä tai painavat kohtuusnäkökohdat sitä muutoin puoltavat, eläkelaitos voi kuitenkin päättää, että luopumistuen pääoma-arvo jätetään osaksi tai kokonaan perimättä. Jos 16 §:ssä tarkoitetut luovutuksensaajat toteuttavat tämän lain mukaisen sukupolvenvaihdoksen, jonka yhteydessä 16 §:n mukainen sitoumus siirretään sukupolvenvaihdoksessa tilanpidon jatkajan täytettäväksi, luopumistuen pääoma-arvo jätetään kokonaan perimättä. Pääoma-arvosta on maksettava korkolain (633/1982) 4 §:n 1 momentissa tarkoitettu vuotuinen korko 30 päivän kuluttua siitä, kun 15―21 §:ssä tarkoitettu luovutuksensaaja tai yhtiö on saanut tiedon pääoma-arvon suorittamisvelvollisuutta koskevasta päätöksestä. Tiedoksisaannin katsotaan tapahtuneen seitsemäntenä päivänä sen päivän jälkeen, jona päätös on postitettu eläkelaitokselle ilmoitettuun osoitteeseen, jollei muuta osoiteta.",
+      "section_number": "48",
+      "chapter_number": 8,
+      "statute_id": "1698/2005"
+    },
+    {
+      "id": "eb945327-84e9-40e2-ab2c-258a9aaac8a7",
+      "node_type": "Section",
+      "publisher": "finlex",
+      "title": "49 § Luopumistuen saajan ilmoitusvelvollisuus",
+      "text": "Luopumistuen saaja on velvollinen välittömästi ilmoittamaan eläkelaitokselle, jos saaja ryhtyy 46 §:n 1 momentissa tarkoitettuun toimintaan tai muutoin keskeyttää antamansa tässä laissa tarkoitetun sitoumuksen täyttämisen. Luopumistuen saaja on velvollinen ilmoittamaan eläkelaitokselle seuraavista muutoksista, jotka vaikuttavat hänen oikeuteensa saada luopumistukea tai hänen saamansa luopumistuen määrään: Eläkelaitos voi 1 momentissa tarkoitetusta ilmoitusvelvollisuudesta huolimatta vaatia luopumistuen saajalta selvityksen luopumistuen määrään ja luopumistukioikeuteen vaikuttavista seikoista, jos sillä on perusteltua syytä epäillä, että näissä seikoissa on tapahtunut muutoksia.",
+      "section_number": "49",
+      "chapter_number": 8,
+      "statute_id": "1698/2005"
+    },
+    {
+      "id": "8dd99e78-b560-418a-a6ce-e2aed726bb8f",
+      "node_type": "Section",
+      "publisher": "finlex",
+      "title": "50 § Oikeus vaatia selvitystä luopumistuen saajalta",
+      "text": "Eläkelaitos, työvoima- ja elinkeinokeskus tai kunnan maaseutuelinkeinoviranomainen voi perustellusta syystä vaatia luopumistuen saajalta selvityksen siitä, että hän edelleen täyttää luopumistuen saamisen edellytykset. Jollei tuensaaja toimita selvitystä hänelle asetetussa kohtuullisessa määräajassa, joka ei saa olla kuukautta lyhyempi, eläkelaitos voi päättää, että luopumistuen suorittaminen keskeytetään, kunnes selvitys on toimitettu.",
+      "section_number": "50",
+      "chapter_number": 8,
+      "statute_id": "1698/2005"
+    },
+    {
+      "id": "466f8c40-d68c-4216-a4a6-ff00ee5af7af",
+      "node_type": "Section",
+      "publisher": "finlex",
+      "title": "51 § Luovutuksensaajan ilmoitusvelvollisuus",
+      "text": "Luovutuksensaajalla on velvollisuus välittömästi ilmoittaa eläkelaitokselle, jos saaja keskeyttää tai lopettaa antamansa tässä laissa tarkoitetun sitoumuksen täyttämisen.",
+      "section_number": "51",
+      "chapter_number": 8,
+      "statute_id": "1698/2005"
+    },
+    {
+      "id": "c12e054e-12e7-4dbd-9091-83825d7d937e",
+      "node_type": "Section",
+      "publisher": "finlex",
+      "title": "52 § Ennakkopäätökset",
+      "text": "Luopumistuen saajalla on oikeus saada eläkelaitokselta sitova ennakkopäätös siitä, aiheuttaako saajan suunnittelema toimenpide luopumistuen maksun keskeyttämisen 45 §:n mukaan tai lakkauttamisen 46 §:n mukaan. Luovutuksensaajalla on oikeus saada eläkelaitokselta sitova ennakkopäätös siitä, onko saajan aikoma menettely katsottava 47 §:ssä tarkoitetuksi sitoumuksen keskeyttämiseksi tai 48 §:ssä tarkoitetuksi toimenpiteeksi ja mitä seuraamuksia menettely 47 tai 48 §:n mukaan aiheuttaa. Ennakkotietohakemuksessa on esitettävä yksilöity kysymys ja sen ratkaisemiseksi tarvittava selvitys. Ennakkotietoa ei anneta, jos hakemus asiassa on vireillä tai viranomainen tai eläkelaitos on ratkaissut asian. Ennakkotietoa koskeva päätös on voimassa vuoden sen antamisesta lukien. Se sitoo eläkelaitosta edellyttäen, että ennakkotietohakemuksessa esitetyt toimenpiteet toteutetaan hakemuksen mukaisesti ja hakemuksessa esitetyt tiedot muutenkin ovat oikeita ja riittäviä ratkaistavan seikan arvioimiseksi.",
+      "section_number": "52",
+      "chapter_number": 8,
+      "statute_id": "1698/2005"
+    },
+    {
+      "id": "907b6bfa-7262-45ac-ada2-0ed0ce1322e8",
+      "node_type": "Section",
+      "publisher": "finlex",
+      "title": "53 § Luopumistuen takaisinperintä",
+      "text": "Jos luopumistukea on maksettu aiheetta tai enemmän kuin mihin sen saajalla olisi oikeus, eläkelaitoksen on perittävä aiheettomasti maksettu luopumistuki takaisin. Aiheettomasti maksettu luopumistuki voidaan jättää osittain tai kokonaan takaisin perimättä, jos tämä katsotaan kohtuulliseksi ja tuen maksamisen ei ole katsottava johtuneen tuen saajan tai hänen edustajansa vilpillisestä menettelystä tai jos takaisinperittävä määrä on vähäinen. Jos luopumistukea ei olisi saanut maksaa luopumistuen saajalle 45 §:n 1 momentin perusteella, eläkelaitoksen on perittävä aiheettomasti maksettu luopumistuki takaisin noudattaen kuitenkin, mitä tässä ja 3 momentissa säädetään. Eläkelaitos voi erityisestä syystä luopua takaisinperinnästä, jos luopumistukea ei ole perittävä takaisin kolmea kuukautta pidemmältä ajalta. Sen estämättä, mitä 2 momentissa säädetään, 45 §:n 1 momentin perusteella aiheettomasti maksettu luopumistuki voidaan jättää perimättä takaisin kokonaan tai osittain, jos yli kolmen kuukauden ajalta tapahtuneet ansiotulorajan ylitykset ovat olleet määrältään vähäisiä, takaisinperittävän luopumistuen määrä on suurempi kuin luopumistuen saajan ansiotyöstään ylityskuukausilta saama ansiotulo ja takaisinperinnän kokonaan suorittamista on pidettävä kohtuuttomana.",
+      "section_number": "53",
+      "chapter_number": 9,
+      "statute_id": "1698/2005"
+    },
+    {
+      "id": "2673d67f-232e-4a37-bcf1-54a8df34f956",
+      "node_type": "Section",
+      "publisher": "finlex",
+      "title": "54 § Aiheettomasti maksetun osatyökyvyttömyyseläkkeen kuittaaminen",
+      "text": "Jos luopujalle on suoritettu 30 §:n 2 momentin mukaan aiheetta maatalousyrittäjien eläkelain mukaista osatyökyvyttömyyseläkettä luopumisen jälkeen, voidaan aiheetta maksettu eläke kuitata kokonaisuudessaan luopujalle samalta ajanjaksolta maksettavaksi tulevasta luopumistuen perusmäärästä.",
+      "section_number": "54",
+      "chapter_number": 9,
+      "statute_id": "1698/2005"
+    },
+    {
+      "id": "19b0110c-e4d1-4d4a-9a86-f6b8965f8fa8",
+      "node_type": "Section",
+      "publisher": "finlex",
+      "title": "55 § Aiheettomasti maksetun luopumistuen kuittaaminen",
+      "text": "Aiheettomasti maksettu luopumistuki saadaan periä takaisin myös kuittaamalla se vastaisuudessa maksettavista luopumistukieristä. Kulloinkin suoritettavasta luopumistukierästä ei saa tuensaajan suostumuksetta kuitenkaan vähentää enempää kuin kuudesosa siitä luopumistukierän osasta, joka jää jäljelle sen jälkeen kun luopumistukierästä on toimitettu ennakkoperintälain (1118/1996) mukainen ennakonpidätys. Samoin rajoituksin voidaan aiheettomasti maksettu luopumistuki periä takaisin kuittaamalla se vastaisuudessa maksettavista maatalousyrittäjien eläkelain mukaisista työkyvyttömyys- tai vanhuuseläkkeen eristä.",
+      "section_number": "55",
+      "chapter_number": 9,
+      "statute_id": "1698/2005"
+    },
+    {
+      "id": "ff36f5d4-f93e-4161-aac4-822d81fce462",
+      "node_type": "Section",
+      "publisher": "finlex",
+      "title": "56 § Vanhentumissäännökset",
+      "text": "Päätös aiheettomasti maksetun luopumistuen takaisinperinnästä on tehtävä viiden vuoden kuluessa sen maksupäivästä lukien. Takaisinperintäpäätöksellä vahvistettu saatava vanhentuu viiden vuoden kuluttua päätöksen antamisesta, jollei vanhentumista ole sitä ennen katkaistu. Takaisinperintäpäätöksellä vahvistetun saatavan vanhentuminen katkeaa siten kuin velan vanhentumisesta annetun lain (728/2003) 10 tai 11 §:ssä säädetään. Vanhentumisajan katkaisemisesta alkaa kulua uusi viiden vuoden vanhentumisaika. Tämän lain mukaisen etuuden saaminen vanhentuu viiden vuoden kuluttua siitä päivästä lukien, jona se olisi pitänyt maksaa, jollei vanhentumista ole sitä ennen katkaistu. Vanhentumisen katkaisemisesta alkaa kulua uusi viiden vuoden vanhentumisaika. Vanhentuminen katkeaa siten kuin velan vanhentumisesta annetun lain 10 tai 11 §:ssä säädetään. Edellä 1 ja 2 momentissa tarkoitettu viiden vuoden vanhentumisaika voi pidentyä siten kuin velan vanhentumisesta annetun lain 11 §:n 3 momentissa säädetään.",
+      "section_number": "56",
+      "chapter_number": 9,
+      "statute_id": "1698/2005"
+    },
+    {
+      "id": "fb5f4e6d-6ac8-46fc-acf5-8d3cf374c4ce",
+      "node_type": "Section",
+      "publisher": "finlex",
+      "title": "57 § Muutoksen hakeminen",
+      "text": "Muutoksenhakua varten on työeläkeasioiden muutoksenhakulautakunta ja vakuutusoikeus. Työeläkeasioiden muutoksenhakulautakunnasta ja sen jäsenistä säädetään työeläkeasioiden muutoksenhakulautakunnasta annetussa laissa (677/2005) ja vakuutusoikeudesta vakuutusoikeuslaissa (132/2003). Asianosainen saa hakea valittamalla muutosta eläkelaitoksen tämän lain nojalla antamaan päätökseen tai ennakkopäätökseen työeläkeasioiden muutoksenhakulautakunnalta siten kuin tässä laissa ja hallintolainkäyttölaissa (586/1996) säädetään. Asianosainen saa hakea valittamalla muutosta työeläkeasioiden muutoksenhakulautakunnan muutoksenhakuasiassa antamaan päätökseen vakuutusoikeudelta siten kuin tässä laissa ja hallintolainkäyttölaissa säädetään.",
+      "section_number": "57",
+      "chapter_number": 10,
+      "statute_id": "1698/2005"
+    },
+    {
+      "id": "4b21adbb-4910-4bf1-9bfc-b35b3cb1a4f8",
+      "node_type": "Section",
+      "publisher": "finlex",
+      "title": "58 § Muutoksenhakuaika ja menettelysäännökset",
+      "text": "Muutoksenhakuaika on 30 päivää siitä päivästä lukien, jona asianosainen on saanut tiedon eläkelaitoksen tai työeläkeasioiden muutoksenhakulautakunnan päätöksestä. Asianosaisen katsotaan saaneen tiedon seitsemäntenä päivänä sen päivän jälkeen, jona päätös on postitettu hänen ilmoittamaansa osoitteeseen, jos muutoksenhaun yhteydessä ei muuta näytetä. Asianosaisen on toimitettava valituskirjelmä muutoksenhakuajassa valituksenalaisen päätöksen tehneelle eläkelaitokselle tai sen valtuuttamalle asiamiehelle. Työeläkeasioiden muutoksenhakulautakunnan päätöksestä tehty valituskirjelmä on niin ikään toimitettava asiassa päätöksen tehneelle eläkelaitokselle tai sen valtuuttamalle asiamiehelle. Muutoksenhakuasian käsittelyyn eläkelaitoksessa ja valituksen siirtoon muutoksenhakuelimelle sovelletaan, mitä työntekijän eläkelain 133 §:n 1 ja 4 momentissa ja 134 §:ssä säädetään.",
+      "section_number": "58",
+      "chapter_number": 10,
+      "statute_id": "1698/2005"
+    },
+    {
+      "id": "57a009c0-354e-450f-bab7-1c558f7defb5",
+      "node_type": "Section",
+      "publisher": "finlex",
+      "title": "59 § Muutoksenhakuajan jälkeen tullut valitus",
+      "text": "Jos työeläkeasioiden muutoksenhakulautakunnalle tai vakuutusoikeudelle annettava valitus on saapunut asianomaiselle eläkelaitokselle, työeläkeasioiden muutoksenhakulautakunnalle tai vakuutusoikeudelle 58 §:ssä säädetyn määräajan jälkeen, valitus voidaan tästä huolimatta ottaa tutkittavaksi, jos valituksen myöhästymiseen on ollut painava syy.",
+      "section_number": "59",
+      "chapter_number": 10,
+      "statute_id": "1698/2005"
+    },
+    {
+      "id": "0a360e77-746f-4209-a6a2-28001dcaab12",
+      "node_type": "Section",
+      "publisher": "finlex",
+      "title": "60 § Päätöksen korjaaminen, oikaisu ja poista- minen",
+      "text": "Tämän lain perusteella annetussa päätöksessä oleva kirjoitus- tai laskuvirhe korjataan siten kuin työntekijän eläkelain 137 §:ssä säädetään. Eläkelaitos voi oikaista päätöksessään olevan asiavirheen siten kuin työntekijän eläkelain 138 §:ssä säädetään. Lainvoimaisen päätöksen oikaisuun uuden selvityksen perusteella sovelletaan, mitä työntekijän eläkelain 139 §:ssä säädetään. Lainvoimaisen päätöksen poistamiseen sovelletaan, mitä työntekijän eläkelain 140 §:ssä säädetään. Jos eläkelaitos tekee päätöksen poistamista koskevan vaatimuksen, se voi keskeyttää luopumistuen maksamisen tai maksaa sen vaatimuksensa mukaisena siihen asti, kunnes asia on uudelleen ratkaistu.",
+      "section_number": "60",
+      "chapter_number": 10,
+      "statute_id": "1698/2005"
+    },
+    {
+      "id": "b4c5d4a5-22f4-4c1b-b628-61a8187174c6",
+      "node_type": "Section",
+      "publisher": "finlex",
+      "title": "61 § Vakuutettujen edustajat",
+      "text": "Maatalousyrittäjien eläkelain 18 §:n nojalla määrätyt työeläkeasioiden muutoksenhakulautakunnan jäsenet toimivat maatalousyrittäjien eläkelain mukaan vakuutettujen edustajina myös tätä lakia sovellettaessa.",
+      "section_number": "61",
+      "chapter_number": 10,
+      "statute_id": "1698/2005"
+    },
+    {
+      "id": "0d3c3087-97fd-4118-b1d1-2b0c30c39da6",
+      "node_type": "Section",
+      "publisher": "finlex",
+      "title": "62 § Päätöksen täytäntöönpano",
+      "text": "Eläkelaitoksen päätöstä on muutoksenhausta huolimatta noudatettava, kunnes asia on ratkaistu lainvoimaisella päätöksellä. Eläkelaitoksen ja työeläkeasioiden muutoksenhakulautakunnan lainvoimainen päätös saadaan panna täytäntöön niin kuin riita-asiassa annettu lainvoimainen tuomio.",
+      "section_number": "62",
+      "chapter_number": 10,
+      "statute_id": "1698/2005"
+    },
+    {
+      "id": "5d9d5591-d8e7-46a5-bac9-ec2b9607c221",
+      "node_type": "Section",
+      "publisher": "finlex",
+      "title": "63 § Lain toimeenpano",
+      "text": "Tämän lain toimeenpanosta huolehtivat kuntien maaseutuelinkeinoviranomaiset, työvoima- ja elinkeinokeskukset, maa- ja metsätalousministeriö sekä eläkelaitos.",
+      "section_number": "63",
+      "chapter_number": 11,
+      "statute_id": "1698/2005"
+    },
+    {
+      "id": "31354a1f-772e-43b1-9efa-5b08e6c4d6cd",
+      "node_type": "Section",
+      "publisher": "finlex",
+      "title": "64 § Lain toimeenpano Ahvenanmaan maa- kunnassa",
+      "text": "Tämän lain mukaan työvoima- ja elinkeinokeskukselle kuuluvien tehtävien hoitamisesta Ahvenanmaan maakunnassa vastaa Ahvenanmaan lääninhallitus.",
+      "section_number": "64",
+      "chapter_number": 11,
+      "statute_id": "1698/2005"
+    },
+    {
+      "id": "dbda18f4-c247-4af1-8b82-6e90f712dd19",
+      "node_type": "Section",
+      "publisher": "finlex",
+      "title": "65 § Valvonnan järjestäminen",
+      "text": "Maa- ja metsätalousministeriö vastaa luopumistuen käytön valvonnasta. Ministeriöllä on oikeus ohjata ja valvoa eläkelaitoksen toimintaa siltä osin kuin se suorittaa tässä laissa tarkoitettuja tehtäviä. Eläkelaitoksen on tukijärjestelmää toimeenpannessaan huolehdittava, ettei tukea makseta sitoumusten vastaisesti. Eläkelaitoksen on järjestettävä toimintansa niin, että maa- ja metsätalousministeriö voi valvoa tuen myöntämisen ja maksamisen edellytysten täyttymistä sekä sitoumusten noudattamista. Kunnan maaseutuelinkeinoviranomaisen ja työvoima- ja elinkeinokeskuksen tehtävänä on osaltaan valvoa annettujen sitoumusten noudattamista.",
+      "section_number": "65",
+      "chapter_number": 11,
+      "statute_id": "1698/2005"
+    },
+    {
+      "id": "194628bf-b557-434d-849b-2506af7871e6",
+      "node_type": "Section",
+      "publisher": "finlex",
+      "title": "66 § Tuen saajia ja sitoumusten antajia koskevien tarkastusten suorittaminen",
+      "text": "Maa- ja metsätalousministeriöllä sekä työvoima- ja elinkeinokeskuksella on oikeus teettää palveluksessaan olevilla virkamiehillä ennakolta ilmoittamatta tässä laissa tarkoitetun tuen myöntämisen ja maksamisen ehtojen sekä sitoumusten noudattamisen valvonnassa tarvittavia tarkastuksia. Tuen saaja ja sitoumuksen antaja on velvollinen korvauksetta esittämään tarkastuksen suorittajalle ne asiakirjat, joilla tarkoitetaan myös automaattisen tietojenkäsittelyn avulla tai muulla tavalla luotua tai säilytettyä vastaavaa aineistoa, jonka avulla voidaan todeta, ovatko tuen myöntämisen ja maksamisen edellytykset täyttyneet ja onko annettuja sitoumuksia noudatettu. Tuen saaja ja sitoumuksen antaja on muutoinkin velvollinen avustamaan tarkastuksessa. Tarkastuksia suorittavalla on oikeus valvontatehtävän edellyttämässä laajuudessa tarkastaa sitoumuksenalaiset alueet sekä tuotanto- ja talousrakennuksia. Tarkastusta ei saa suorittaa kotirauhan piiriin kuuluvissa tiloissa.",
+      "section_number": "66",
+      "chapter_number": 11,
+      "statute_id": "1698/2005"
+    },
+    {
+      "id": "d46a0a52-3c74-4533-836e-8c78ec70edb6",
+      "node_type": "Section",
+      "publisher": "finlex",
+      "title": "67 § Lain toimeenpanosta aiheutuvat kustannukset",
+      "text": "Tämän lain toimeenpanosta aiheutuneet luopumistukikustannukset ja hoitokulut maksetaan valtion varoista. Sosiaali- ja terveysministeriö vahvistaa päätöksellään eläkelaitoksen hakemuksesta ne perusteet, joiden mukaan lasketaan 1 momentissa tarkoitetut hoitokulut. Valtion tulee, sen mukaan kuin valtioneuvoston asetuksella tarkemmin säädetään, suorittaa kunakin vuotena kuukausittain ennakkona määrä, joka vastaa 1 momentin mukaisesti valtion suoritettavaksi arvioitua määrää.",
+      "section_number": "67",
+      "chapter_number": 11,
+      "statute_id": "1698/2005"
+    },
+    {
+      "id": "1df93e26-17bd-4980-84fc-6a683ebe7cd8",
+      "node_type": "Section",
+      "publisher": "finlex",
+      "title": "68 § Sovellettavat säännökset",
+      "text": "Viranomaisten toiminnan julkisuudesta annettua lakia (621/1999), jäljempänä julkisuuslaki, sovelletaan eläkelaitoksen asiakirjojen ja toiminnan julkisuuteen siltä osin kuin eläkelaitos käyttää julkisuuslain 4 §:n 2 momentissa tarkoitettua julkista valtaa, jollei tässä tai muussa laissa toisin säädetä. Myös silloin, kun kysymys ei ole julkisuuslain 4 §:n 2 momentissa tarkoitetun julkisen vallan käytöstä, sovelletaan eläkelaitoksessa tämän lain toimeenpanoon liittyvissä asioissa julkisuuslain:",
+      "section_number": "68",
+      "chapter_number": 12,
+      "statute_id": "1698/2005"
+    },
+    {
+      "id": "357b688a-911d-4de0-b982-bbba6849c2e5",
+      "node_type": "Section",
+      "publisher": "finlex",
+      "title": "69 § Eläkelaitoksen oikeus saada ja käyttää saamiaan tietoja",
+      "text": "Eläkelaitoksella on oikeus saada salassapitosäännösten ja muiden tiedon saamista koskevien säännösten estämättä veroviranomaisilta, maaseutuelinkeinorekisteristä annetussa laissa (1515/1994) tarkoitetulta rekisteriviranomaiselta sekä paliskunnilta ja Paliskuntain yhdistykseltä tiedot, jotka ovat välttämättömiä tässä laissa säädettyjen tehtävien toimeenpanossa siten kuin maatalousyrittäjien eläkelain 19 b §:n 2 ja 3 momentissa säädetään. Eläkelaitoksella on oikeus saada salassapitosäännösten ja muiden tiedon saamista koskevien säännösten estämättä Eläketurvakeskukselta maksutta tämän lain nojalla käsiteltävänä olevan asian ratkaisuun vaikuttavat välttämättömät tiedot. Eläkelaitoksella on oikeus yksittäistapauksessa käyttää tämän lain mukaista asiaa käsitellessään muiden maatalousyrittäjien eläkelain 16 §:ssä mainituissa laeissa säädettyjen tehtävien hoitamista varten saamiaan tietoja siten kuin maatalousyrittäjien eläkelain 19 b §:n 1 momentissa säädetään. Eläkelaitoksen tiedonsaantioikeus koskee luopujaa, hänen aviopuolisoaan, sitoumuksen antanutta luovutuksensaajaa ja hänen aviopuolisoaan sekä 4 luvussa tarkoitettuja yhtiöitä. Valvontatehtävän täytäntöönpanoa varten eläkelaitoksella on oikeus yhdistää ja käsitellä 1―3 momentissa tarkoitettuja henkilötietoja. Luopujia ja muita sitoumuksen antajia koskevia yhdistettyjä tietoja voidaan säilyttää enintään kaksi vuotta sen jälkeen, kun luopujan tai muun sitoumuksen antajan sitoumus on lakannut olemasta voimassa. Yhdistettyjä tietoja ei saa luovuttaa eteenpäin.",
+      "section_number": "69",
+      "chapter_number": 12,
+      "statute_id": "1698/2005"
+    },
+    {
+      "id": "3bf7caad-1294-4d58-9d99-ecc640435265",
+      "node_type": "Section",
+      "publisher": "finlex",
+      "title": "70 § Oikeus saada tietoja asian ratkaisemiseksi ja lakisääteisten tehtävien toimeenpanemiseksi",
+      "text": "Eläkelaitoksella, Eläketurvakeskuksella ja tämän lain mukaisella muutoksenhakuelimellä on oikeus salassapitosäännösten ja muiden tiedon saantia koskevien säännösten estämättä saada tietoja vakuuttamis-, eläke- tai muun etuusasian ratkaisemiseksi sekä lakisääteisten tehtävien toimeenpanoa varten siten kuin työntekijän eläkelain 198 §:ssä säädetään. Maa- ja metsätalousministeriöllä, työvoima- ja elinkeinokeskuksella sekä kunnan maaseutuelinkeinoviranomaisella on oikeus saada salassapitosäännösten ja muiden tiedon saamista koskevien säännösten estämättä eläkelaitokselta luopumistuen saajaa ja sitoumuksen antajaa koskevat ne tiedot, jotka ovat välttämättömiä 65 ja 66 §:ssä säädettyjen tehtävien hoitamiseksi. Maa- ja metsätalousministeriöllä on oikeus saada tietoja kaikista luopumistuen saajista ja sitoumuksen antajista. Työvoima- ja elinkeinokeskuksella sekä kunnan maaseutuelinkeinoviranomaisella on oikeus saada tietoja niistä tuensaajista ja sitoumuksen antajista, jotka ovat antaneet sitoumuksen asianomaisen viranomaisen toimialueella sijaitsevasta maatilasta. Edellä 2 momentissa säädettyjen viranomaisten oikeuteen yhdistää eläkelaitokselta ja muilta viranomaisilta saamiaan tuen käytön ja sitoumusten noudattamisen valvomiseksi välttämättömiä henkilötietoja sovelletaan, mitä 69 §:n 5 momentissa säädetään.",
+      "section_number": "70",
+      "chapter_number": 12,
+      "statute_id": "1698/2005"
+    },
+    {
+      "id": "70a84e6f-8087-44e4-91c5-8e945f8a2245",
+      "node_type": "Section",
+      "publisher": "finlex",
+      "title": "71 § Luopujan ja luopumistukea hakevan oikeus saada tietoja",
+      "text": "Eläkelaitoksen on annettava luopujalle tämän pyynnöstä hallussaan olevat luopujan luopumistukioikeutta koskevat tiedot. Asianosaisen tiedonsaantioikeudesta, oikeudesta saada tieto itseään koskevasta asiakirjasta sekä oikeudesta tarkastaa itsestään rekisteriin talletetut tiedot on muutoin voimassa, mitä julkisuuslaissa ja henkilötietolaissa (523/1999) säädetään. Eläkelaitoksen on annettava luopumistukea hakevalle hakemuslomakkeella tai muulla vastaavalla tavalla tiedot siitä, mistä hänen tietojaan voidaan hankkia ja mihin niitä voidaan säännönmukaisesti luovuttaa.",
+      "section_number": "71",
+      "chapter_number": 12,
+      "statute_id": "1698/2005"
+    },
+    {
+      "id": "7076fadd-35d9-43e4-87a3-b85672c76374",
+      "node_type": "Section",
+      "publisher": "finlex",
+      "title": "72 § Työnantajan velvollisuus antaa tietoja",
+      "text": "Työnantajalla on velvollisuus antaa tietoja työntekijän työskentelystä, työolosuhteista tai muista vastaavista seikoista käsiteltävänä olevan luopumistukiasian ratkaisemiseksi tai muuten tämän lain mukaisten tehtävien toimeenpanossa siten kuin työntekijän eläkelain 195 §:ssä säädetään.",
+      "section_number": "72",
+      "chapter_number": 12,
+      "statute_id": "1698/2005"
+    },
+    {
+      "id": "b4f4b2a1-d3ef-4268-a88f-94a7523e1f44",
+      "node_type": "Section",
+      "publisher": "finlex",
+      "title": "73 § Eläkelaitoksen oikeus ja velvollisuus antaa tietoja",
+      "text": "Eläkelaitoksen on annettava tietoja liikennevakuutuslain (279/1959) 19 §:ssä tarkoitetulle vakuutusyhtiölle, Liikennevakuutuskeskukselle, Valtiokonttorille, Kansaneläkelaitokselle sekä verohallinnolle siten kuin maatalousyrittäjien eläkelain 19 c §:n 1 momentissa säädetään. Luopumistukeen sovelletaan myös, mitä työntekijän eläkelain 204 ja 205 §:ssä sekä 206 §:n 1 momentin 1 kohdassa säädetään tietojen antamisesta vapaaehtoista ryhmälisäeläketurvaa sekä rikosten ja väärinkäytösten selvittämistä varten samoin kuin tietojen antamisesta viranomaiselle. Samoin luopumistukeen sovelletaan, mitä työntekijän eläkelain 208 §:n 1 ja 3 momentissa säädetään tietojen luovuttamisesta eteenpäin. Eläkelaitoksen on annettava luopumistuen käytön seurantaa ja valvontaa varten maa- ja metsätalousministeriölle tuen käyttämisen ja tukijärjestelmän toimeenpanon valvomiseksi välttämättömät 70 §:n 2 momentissa tarkoitetut tiedot siten kuin valtioneuvoston asetuksella tarkemmin säädetään. Maa- ja metsätalousministeriöllä sekä työvoima- ja elinkeinokeskuksella on oikeus saada eläkelaitokselta tieto luopumistuen saajan ja hänen puolisonsa sekä sitoumuksen antajan ja hänen puolisonsa henkilötunnuksesta sekä yhteystiedoista.",
+      "section_number": "73",
+      "chapter_number": 12,
+      "statute_id": "1698/2005"
+    },
+    {
+      "id": "fa5476e6-e32e-4c08-86da-ca7c803471b2",
+      "node_type": "Section",
+      "publisher": "finlex",
+      "title": "74 § Rekisteri-ilmoitukset Eläketurvakeskukselle",
+      "text": "Eläkelaitoksen tulee viipymättä ilmoittaa Eläketurvakeskukselle luopumistuen alkamisesta ja päättymisestä. Eläkelaitoksen on myös annettava Eläketurvakeskukselle muita luopumistukea koskevia tarpeellisia tietoja.",
+      "section_number": "74",
+      "chapter_number": 12,
+      "statute_id": "1698/2005"
+    },
+    {
+      "id": "a1e81617-fce3-4ab6-a51b-e12df78b6506",
+      "node_type": "Section",
+      "publisher": "finlex",
+      "title": "75 § Tietojen maksuttomuus",
+      "text": "Eläkelaitoksella, Eläketurvakeskuksella ja tämän lain mukaisella muutoksenhakuelimellä on oikeus saada maksutta ne tiedot, jotka niillä on tämän lain mukaan oikeus saada. Jos tiedot tarvitaan tietyssä muodossa ja siitä aiheutuu tietojen luovuttajalle olennaisia lisäkustannuksia, kustannukset on kuitenkin korvattava.",
+      "section_number": "75",
+      "chapter_number": 12,
+      "statute_id": "1698/2005"
+    },
+    {
+      "id": "83cd3bb1-05f3-4408-b5f7-544ae5047164",
+      "node_type": "Section",
+      "publisher": "finlex",
+      "title": "76 § Tietojen eteenpäin luovuttajan vastuu",
+      "text": "Ennen kuin eläkelaitos luovuttaa tietoja eteenpäin, sen on varmistettava, että tietojen saajalla on lain mukaan oikeus saada luovutettavat tiedot niiden alkuperäiseltä antajalta. Luovuttaessaan tässä luvussa säädetyillä perusteilla tietoja eteenpäin eläkelaitos on vastuussa siitä, että luovutettavien tietojen sisältö vastaa tietojen antajalta saatuja tietoja.",
+      "section_number": "76",
+      "chapter_number": 12,
+      "statute_id": "1698/2005"
+    },
+    {
+      "id": "1d5bbbe7-7dd4-467d-a273-9ceb75f23407",
+      "node_type": "Section",
+      "publisher": "finlex",
+      "title": "77 § Tekninen käyttöyhteys",
+      "text": "Tietojen antamiseen teknisen käyttöyhteyden avulla sovelletaan, mitä työntekijän eläkelain 210 §:n 1, 3 ja 4 momentissa säädetään.",
+      "section_number": "77",
+      "chapter_number": 12,
+      "statute_id": "1698/2005"
+    },
+    {
+      "id": "10d0a220-5008-44ea-ac77-acb6b7befff2",
+      "node_type": "Section",
+      "publisher": "finlex",
+      "title": "78 § Viittaukset muuhun lainsäädäntöön",
+      "text": "Jollei tästä laista muuta johdu, luopumistuesta on soveltuvin osin voimassa, mitä työntekijän eläkelain 96―100 §:ssä säädetään palkkakertoimesta ja työeläkeindeksistä, 103 §:ssä eläkkeen hakemisesta toisen henkilön puolesta, 105 §:n 3 momentissa koneellisesta allekirjoittamisesta, 112 §:n 1 momentissa eläkkeen maksamisesta, 113 §:n 2 ja 3 momentissa eläkkeen maksamisen keskeyttämisestä ja eläkkeen lakkauttamisesta eläkkeensaajan todennäköisen kuoleman johdosta, 115 ja 116 §:ssä viivästyskorotuksen suorittamisesta eläkkeen maksamisen viivästymisen johdosta, 119 §:n 1 ja 2 momentissa, 120 §:n 2, 4 ja 5 momentissa sekä 121 ja 122 §:ssä eläkkeen maksamisesta Kansaneläkelaitokselle, työttömyyskassalle tai sosiaalihuoltolain (710/1982) mukaiselle toimielimelle, 124 §:n 1 momentissa eläkkeen siirtämisen tai panttaamisen kiellosta, 180 §:ssä eläkelaitoksen vastuusta Eläketurvakeskuksen kustannuksista, 216 §:ssä virka-avusta, 217 §:ssä eläkelaitoksen toimihenkilön ja hallituksen jäsenen esteellisyydestä ja 218 §:ssä asiakirjojen säilyttämisestä. Jollei tästä laista muuta johdu, luopumistuesta on soveltuvin osin voimassa, mitä maatalousyrittäjien eläkelain 16, 16 b, 16 c, 17 ja 17 a―17 h §:ssä säädetään Maatalousyrittäjien eläkelaitoksesta ja 18 §:ssä työeläkeasioiden muutoksenhakulautakunnan jäsenten määräämisestä.",
+      "section_number": "78",
+      "chapter_number": 13,
+      "statute_id": "1698/2005"
+    },
+    {
+      "id": "dd515f56-e951-4133-b91f-5ee51ef3de80",
+      "node_type": "Section",
+      "publisher": "finlex",
+      "title": "79 § Eläketulovähennys",
+      "text": "Tässä laissa tarkoitettua luopumistuen perusmäärää ja täydennysosaa pidetään tuloverolain (1535/1992) 100 ja 101 §:ää sovellettaessa eläketulovähennykseen oikeuttavana eläketulona.",
+      "section_number": "79",
+      "chapter_number": 13,
+      "statute_id": "1698/2005"
+    },
+    {
+      "id": "25c1d23e-4936-42bc-95c5-b5f053419f1c",
+      "node_type": "Section",
+      "publisher": "finlex",
+      "title": "80 § Rangaistussäännös",
+      "text": "Joka tahallaan on tuomittava, jollei teosta muualla laissa säädetä ankarampaa rangaistusta,maatalouden harjoittamisesta luopumisen tukemisesta annetun lain säännösten rikkomisestasakkoon.",
+      "section_number": "80",
+      "chapter_number": 13,
+      "statute_id": "1698/2005"
+    },
+    {
+      "id": "0ef4912c-192f-4bbd-826f-06a6466edc7a",
+      "node_type": "Section",
+      "publisher": "finlex",
+      "title": "81 § Lain voimaantulo",
+      "text": "Tämä laki tulee voimaan valtioneuvoston asetuksella säädettävänä ajankohtana. Ennen tämän lain voimaantuloa voidaan ryhtyä lain täytäntöönpanon edellyttämiin toimenpiteisiin.",
+      "section_number": "81",
+      "chapter_number": 14,
+      "statute_id": "1698/2005"
+    },
+    {
+      "id": "59c2fa36-acd6-456d-962b-24ed9951ac39",
+      "node_type": "Section",
+      "publisher": "finlex",
+      "title": "82 § Voimaantulosäännökset",
+      "text": "Tätä lakia sovelletaan, jos 4 §:ssä tarkoitettu luopuminen tapahtuu 1 päivänä tammikuuta 2007 tai sen jälkeen, kuitenkin viimeistään 31 päivänä joulukuuta 2010. Jos luopuminen on tapahtunut maatalousyrittäjien luopumistuesta annetun lain (1293/1994) 15 §:n mukaisesti viimeistään 31 päivänä joulukuuta 2006, oikeus luopumistukeen määräytyy siten, kuin mainitussa laissa säädetään. Tämän lain 8 §:n 1 momentin 2 kohdassa tarkoitettua 57 vuoden vähimmäisikää sovelletaan, jos 4 §:ssä tarkoitettu luopuminen tapahtuu aikaisintaan 1 päivänä tammikuuta 2007, mutta kuitenkin viimeistään 31 päivänä joulukuuta 2008. Edellä 8 §:n 1 momentin 3 kohdassa tarkoitettua 60 vuoden vähimmäisikää sovelletaan, jos 4 §:ssä tarkoitettu luopuminen tapahtuu 1 päivänä tammikuuta 2009, mutta viimeistään 31 päivänä joulukuuta 2010. Tämän lain 14 §:ssä ja 45 §:ssä mainitut rahamäärät vastaavat työntekijän eläkelain 96 §:n palkkakertoimen arvoa 1 vuonna 2004. Tämän lain 16 §:n 2 momenttia sovelletaan, jos 4 §:ssä tarkoitettu luopuminen on tapahtunut 1 päivänä tammikuuta 2007 tai sen jälkeen, kuitenkin viimeistään 31 päivänä joulukuuta 2008. Tämän lain 56 §:ssä säädettyä vanhentumisaikaa sovelletaan 1 päivästä tammikuuta 2007. Vanhentumisaikaa laskettaessa otetaan huomioon myös ennen tämän lain voimaatuloa kulunut aika. Tämän lain 60 §:n 3 momenttia sovelletaan poistohakemuksiin, jotka tulevat vireille 1 päivänä tammikuuta 2007 tai sen jälkeen.",
+      "section_number": "82",
+      "chapter_number": 14,
+      "statute_id": "1698/2005"
+    },
+    {
+      "id": "6e764e73-ce57-4190-814f-434d1d82a123",
+      "node_type": "Section",
+      "publisher": "finlex",
+      "title": "83 § Siirtymäsäännökset",
+      "text": "Sen estämättä, mitä 8 §:n 1 momentin 3 kohdassa säädetään luopujan vähimmäisiästä sukupolvenvaihdosluovutuksessa muulle kuin 8 §:n 1 momentin 1 kohdassa tarkoitetulle henkilölle, vuonna 1950 tai sitä aikaisemmin syntyneellä luopujalla luopumistuen saamisen edellytyksenä on, että luopuja luopumisen tapahtuessa on täyttänyt 56 vuotta, mutta ei kuitenkaan 63 vuotta. Jos luopujat ovat aviopuolisoita ja luopujista vanhempi täyttää tässä momentissa säädetyt edellytykset ja on muutoin luopumistukeen oikeutettu, nuoremmalla puolisolla on oikeus luopumistukeen, jos hän on luopumisen tapahtuessa täyttänyt 51 vuotta. Mitä edellä säädetään, sovelletaan myös 9 §:n 3 momentissa tarkoitettuun maataloutta yhtymän lukuun harjoittaneeseen yhtymän nuorempaan osakkaaseen sekä vuonna 1955 tai sitä aikaisemmin syntyneeseen 9 §:n 2 momentissa tarkoitettuun maatalousyrittäjän leskeen. Luopumistukea ei kuitenkaan suoriteta tässä momentissa tarkoitetuille luopujille 56 vuoden iän täyttämistä edeltävältä ajalta. Sen estämättä, mitä 8 §:n 1 momentin 3 kohdassa säädetään luopujan vähimmäisiästä luovutettaessa maatilan peltomaan omistusoikeus lisämaaksi muulle kuin 8 §:n 1 momentin 1 kohdassa tarkoitetulle henkilölle, vuosina 2009 ja 2010, vuonna 1951 tai sitä aikaisemmin syntyneellä luopujalla luopumistuen saamisen edellytyksenä on, että luopuja on luopumisen tapahtuessa täyttänyt 57 vuotta, mutta ei kuitenkaan 63 vuotta. Jos luopujat ovat aviopuolisoita ja luopujista vanhempi täyttää tässä momentissa säädetyt edellytykset ja on muutoin luopumistukeen oikeutettu, nuoremmalla puolisolla on oikeus luopumistukeen, jos hän on luopumisen tapahtuessa täyttänyt 52 vuotta. Mitä edellä säädetään, sovelletaan myös 9 §:n 3 momentissa tarkoitettuun maataloutta yhtymän lukuun harjoittaneeseen yhtymän nuorempaan osakkaaseen sekä vuonna 1956 tai sitä aikaisemmin syntyneeseen 9 §:n 2 momentissa tarkoitettuun maatalousyrittäjän leskeen. Luopumistukea ei kuitenkaan suoriteta tässä momentissa tarkoitetuille luopujille 57 vuoden iän täyttämistä edeltävältä ajalta. Sen estämättä, mitä 8 §:n 1 momentin 1 kohdassa säädetään luopujan vähimmäisiästä toteutettaessa luopuminen luovuttamalla porot, vuonna 1951 tai sitä aikaisemmin syntyneellä luopujalla luopumistuen saamisen edellytyksenä on, että luopuja on luopumisen tapahtuessa täyttänyt 55 vuotta, mutta ei kuitenkaan 63 vuotta. Jos luopujat ovat aviopuolisoita ja luopujista vanhempi täyttää tässä momentissa säädetyt edellytykset ja on muutoin luopumistukeen oikeutettu, nuoremmalla puolisolla on oikeus luopumistukeen, jos hän on luopumisen tapahtuessa täyttänyt 50 vuotta. Mitä edellä säädetään, sovelletaan myös vuonna 1956 tai sitä aikaisemmin syntyneeseen maatalousyrittäjän leskeen. Luopumistukea ei kuitenkaan suoriteta tässä momentissa tarkoitetuille luopujille ajalta ennen 55 vuoden iän täyttämistä.",
+      "section_number": "83",
+      "chapter_number": 14,
+      "statute_id": "1698/2005"
+    }
+  ],
+  "clauses": [
+    {
+      "id": "578d9118-bdf4-46e5-8381-34b8225a854e",
+      "node_type": "Clause",
+      "publisher": "finlex",
+      "title": "§ 4 mom 1",
+      "text": "1) tämän lain mukaista sukupolvenvaihdosluovutusta tai maatilan peltomaan luovutusta tai vuokraamista lisämaaksi koskeva luovutuskirja on allekirjoitettu ja maatilan tai lisämaaksi luovutetun tai vuokratun peltomaan hallintaoikeus on siirtynyt luovutuksensaajalle; jollei hallinta siirry luovutuskirjan allekirjoituspäivänä, katsotaan luovutuskirjan allekirjoituksen ja hallinnan siirron ajankohdista jälkimmäinen luopumisen ajankohdaksi;",
+      "clause_number": 1,
+      "section_number": "4",
+      "statute_id": "1698/2005"
+    },
+    {
+      "id": "1e99ba17-b4c1-41b3-9124-733fee75b261",
+      "node_type": "Clause",
+      "publisher": "finlex",
+      "title": "§ 4 mom 2",
+      "text": "2) tämän lain mukaisessa sukupolvenvaihdosluovutuksessa yhtiöosuuden tai osakkeiden luovutusta koskeva luovutuskirja on allekirjoitettu;",
+      "clause_number": 2,
+      "section_number": "4",
+      "statute_id": "1698/2005"
+    },
+    {
+      "id": "20f55263-c24f-4475-9eff-5438267045c4",
+      "node_type": "Clause",
+      "publisher": "finlex",
+      "title": "§ 4 mom 3",
+      "text": "3) luovutuskirja on allekirjoitettu, jos luopujan tila on porotaloustila.",
+      "clause_number": 3,
+      "section_number": "4",
+      "statute_id": "1698/2005"
+    },
+    {
+      "id": "c2fcdbef-ba49-45a3-a282-ddd9cadecbe6",
+      "node_type": "Clause",
+      "publisher": "finlex",
+      "title": "§ 5 mom 1",
+      "text": "1) henkilöä, joka omaan tai yhteiseen lukuun itse työhön osallistuen harjoittaa maataloutta;",
+      "clause_number": 1,
+      "section_number": "5",
+      "statute_id": "1698/2005"
+    },
+    {
+      "id": "bcd8d0b0-17fd-4ceb-bd59-f0b2cfbfa151",
+      "node_type": "Clause",
+      "publisher": "finlex",
+      "title": "§ 5 mom 2",
+      "text": "2) henkilöä, joka harjoittaa maataloutta avoimessa yhtiössä tai kommandiittiyhtiössä siten, että hän on vastuunalaisena yhtiömiehenä ottanut maatalousyrittäjien eläkelain 1 §:n 2 momentissa säädetyn vähimmäiseläketurvaa koskevan vakuutuksen; ja",
+      "clause_number": 2,
+      "section_number": "5",
+      "statute_id": "1698/2005"
+    },
+    {
+      "id": "d0e28632-dcbb-4cbe-a913-9089d8913edd",
+      "node_type": "Clause",
+      "publisher": "finlex",
+      "title": "§ 5 mom 2",
+      "text": "2) henkilöä, joka harjoittaa maataloutta avoimessa yhtiössä tai kommandiittiyhtiössä siten, että hän on vastuunalaisena yhtiömiehenä ottanut maatalousyrittäjien eläkelain 1 §:n 2 momentissa säädetyn vähimmäiseläketurvaa koskevan vakuutuksen; ja",
+      "clause_number": 2,
+      "section_number": "5",
+      "statute_id": "1698/2005"
+    },
+    {
+      "id": "eb40ff08-b31b-4d08-bdcd-35a4307cc198",
+      "node_type": "Clause",
+      "publisher": "finlex",
+      "title": "§ 5 mom 2",
+      "text": "3) henkilöä, joka harjoittaa maataloutta osakeyhtiön lukuun siten, että hän on ottanut maatalousyrittäjien eläkelaissa säädetyn vähimmäiseläketurvaa koskevan vakuutuksen lain 1 §:n 2 momentin 6 kohdassa tarkoitettuna maatalousyrittäjänä.",
+      "clause_number": 2,
+      "section_number": "5",
+      "statute_id": "1698/2005"
+    },
+    {
+      "id": "6d887764-201e-4d62-a279-a84d3241ea58",
+      "node_type": "Clause",
+      "publisher": "finlex",
+      "title": "§ 5 mom 3",
+      "text": "3) henkilöä, joka harjoittaa maataloutta osakeyhtiön lukuun siten, että hän on ottanut maatalousyrittäjien eläkelaissa säädetyn vähimmäiseläketurvaa koskevan vakuutuksen lain 1 §:n 2 momentin 6 kohdassa tarkoitettuna maatalousyrittäjänä.",
+      "clause_number": 3,
+      "section_number": "5",
+      "statute_id": "1698/2005"
+    },
+    {
+      "id": "760374ed-8be2-411b-943e-09a79d1d0a57",
+      "node_type": "Clause",
+      "publisher": "finlex",
+      "title": "§ 6 mom 1",
+      "text": "1) maatilan tai sen osan omistavalla maatalousyrittäjällä;",
+      "clause_number": 1,
+      "section_number": "6",
+      "statute_id": "1698/2005"
+    },
+    {
+      "id": "de1f44e4-7931-4416-bc9b-c6349563980a",
+      "node_type": "Clause",
+      "publisher": "finlex",
+      "title": "§ 6 mom 2",
+      "text": "2) 1 kohdassa tarkoitetun maatalousyrittäjän aviopuolisolla, vaikka hänellä ei ole omistusoikeutta maatilaan; ja",
+      "clause_number": 2,
+      "section_number": "6",
+      "statute_id": "1698/2005"
+    },
+    {
+      "id": "11c4bfb2-9902-4533-96a9-c206feef7c02",
+      "node_type": "Clause",
+      "publisher": "finlex",
+      "title": "§ 6 mom 3",
+      "text": "3) 1 kohdassa tarkoitetun maatalousyrittäjän leskellä, jos luopumisen kohteena oleva maatila kuuluu omaisuuteen, johon leskellä on avio-oikeus.",
+      "clause_number": 3,
+      "section_number": "6",
+      "statute_id": "1698/2005"
+    },
+    {
+      "id": "cb275daa-4262-4001-9f5b-fa634615aa7b",
+      "node_type": "Clause",
+      "publisher": "finlex",
+      "title": "§ 8 mom 1",
+      "text": "1) 56 vuotta, jos luopuminen tapahtuu luovuttamalla luopujan lapselle tai muulle lähisukulaiselle maatilan pellot ja tuotantorakennukset maatilan sukupolvenvaihdoksen toteuttamiseksi tai luovuttamalla maatilan koko peltomaa lapselle tai muulle lähisukulaiselle luovutuksensaajan tai tämän aviopuolison maatilaan lisäalueeksi taikka jos luopuminen tapahtuu luovuttamalla porot;",
+      "clause_number": 1,
+      "section_number": "8",
+      "statute_id": "1698/2005"
+    },
+    {
+      "id": "85f98f37-249b-485f-9ebd-16c33696e500",
+      "node_type": "Clause",
+      "publisher": "finlex",
+      "title": "§ 8 mom 2",
+      "text": "2) 57 vuotta, jos luopuminen tapahtuu vuonna 2007 tai 2008 luovuttamalla muulle kuin 1 kohdassa tarkoitetulle henkilölle maatilan peltomaa lisäalueeksi luovutuksensaajan tai tämän aviopuolison maatilaan;",
+      "clause_number": 2,
+      "section_number": "8",
+      "statute_id": "1698/2005"
+    },
+    {
+      "id": "91d701d4-89a7-4b87-806a-6b93de1fe0af",
+      "node_type": "Clause",
+      "publisher": "finlex",
+      "title": "§ 8 mom 3",
+      "text": "3) 60 vuotta, jos luopuminen tapahtuu luovuttamalla muulle kuin 1 kohdassa tarkoitetulle henkilölle maatilan pellot ja tuotantorakennukset sukupolvenvaihdoksen toteuttamiseksi tai luopuminen tapahtuu vuonna 2009 tai 2010 luovuttamalla muulle kuin 1 kohdassa tarkoitetulle henkilölle maatilan peltomaa lisäalueeksi luovutuksensaajan tai tämän aviopuolison maatilaan tai jos luopuminen tapahtuu vuokraamalla maatilan peltomaa lisäalueeksi.",
+      "clause_number": 3,
+      "section_number": "8",
+      "statute_id": "1698/2005"
+    },
+    {
+      "id": "c067d016-1c75-4bc8-9c10-6ba16de4fe51",
+      "node_type": "Clause",
+      "publisher": "finlex",
+      "title": "§ 10 mom 1",
+      "text": "1) kansaneläkelain (347/1956) mukaista toistaiseksi myönnettyä työkyvyttömyyseläkettä, yksilöllistä varhaiseläkettä, työttömyyseläkettä tai varhennettua vanhuuseläkettä; tai",
+      "clause_number": 1,
+      "section_number": "10",
+      "statute_id": "1698/2005"
+    },
+    {
+      "id": "00ccf164-8ecc-4ce1-bca4-6266625849bd",
+      "node_type": "Clause",
+      "publisher": "finlex",
+      "title": "§ 10 mom 2",
+      "text": "2) maatalousyrittäjien eläkelain mukaista toistaiseksi myönnettyä täyttä työkyvyttömyyseläkettä, yksilöllistä varhaiseläkettä, työttömyyseläkettä, varhennettua vanhuuseläkettä tai osa-aikaeläkettä.",
+      "clause_number": 2,
+      "section_number": "10",
+      "statute_id": "1698/2005"
+    },
+    {
+      "id": "f487f271-243c-46d5-a522-83b8b12338a8",
+      "node_type": "Clause",
+      "publisher": "finlex",
+      "title": "§ 12 mom 1",
+      "text": "1) metsänuudistaminen;",
+      "clause_number": 1,
+      "section_number": "12",
+      "statute_id": "1698/2005"
+    },
+    {
+      "id": "670d0340-f8a5-4678-95a3-bb014062237b",
+      "node_type": "Clause",
+      "publisher": "finlex",
+      "title": "§ 12 mom 2",
+      "text": "2) nuoren metsän hoito;",
+      "clause_number": 2,
+      "section_number": "12",
+      "statute_id": "1698/2005"
+    },
+    {
+      "id": "a4e8c6bc-e509-434c-a44f-1388ff146ca9",
+      "node_type": "Clause",
+      "publisher": "finlex",
+      "title": "§ 12 mom 3",
+      "text": "3) kulotus;",
+      "clause_number": 3,
+      "section_number": "12",
+      "statute_id": "1698/2005"
+    },
+    {
+      "id": "a3246e0f-6423-4146-921f-6f9fec5c75d5",
+      "node_type": "Clause",
+      "publisher": "finlex",
+      "title": "§ 12 mom 4",
+      "text": "4) nuoren metsän hoidon yhteydessä tehty energiapuun korjuu;",
+      "clause_number": 4,
+      "section_number": "12",
+      "statute_id": "1698/2005"
+    },
+    {
+      "id": "db46180f-1b07-4bb3-adc7-dd86d3c5cb9c",
+      "node_type": "Clause",
+      "publisher": "finlex",
+      "title": "§ 12 mom 5",
+      "text": "5) kunnostusojitus;",
+      "clause_number": 5,
+      "section_number": "12",
+      "statute_id": "1698/2005"
+    },
+    {
+      "id": "76f86dd0-901b-405e-a7e7-74eeda6f0545",
+      "node_type": "Clause",
+      "publisher": "finlex",
+      "title": "§ 12 mom 6",
+      "text": "6) metsänterveyslannoitus; ja",
+      "clause_number": 6,
+      "section_number": "12",
+      "statute_id": "1698/2005"
+    },
+    {
+      "id": "f1ff73f5-a75b-4942-a435-8a43ddb46fdf",
+      "node_type": "Clause",
+      "publisher": "finlex",
+      "title": "§ 12 mom 7",
+      "text": "7) metsätien tekeminen.",
+      "clause_number": 7,
+      "section_number": "12",
+      "statute_id": "1698/2005"
+    },
+    {
+      "id": "9241f720-dcc4-4505-852e-f8055cd9f7f5",
+      "node_type": "Clause",
+      "publisher": "finlex",
+      "title": "§ 15 mom 1",
+      "text": "1) jolla on riittävä ammatillinen pätevyys maatalouden harjoittamiseen;",
+      "clause_number": 1,
+      "section_number": "15",
+      "statute_id": "1698/2005"
+    },
+    {
+      "id": "0ea375c5-49a6-428f-bb86-ef05fe378053",
+      "node_type": "Clause",
+      "publisher": "finlex",
+      "title": "§ 15 mom 2",
+      "text": "2) joka ei ole täyttänyt 40:tä vuotta;",
+      "clause_number": 2,
+      "section_number": "15",
+      "statute_id": "1698/2005"
+    },
+    {
+      "id": "97afb8b7-1949-421f-87ea-d6215e0c23a5",
+      "node_type": "Clause",
+      "publisher": "finlex",
+      "title": "§ 15 mom 3",
+      "text": "3) jonka pysyväisluonteiset tulot muusta kuin maatilataloudesta ja tilalta käsin harjoitetusta maatilatalouden liitännäistoiminnasta luopumishetkellä arvioituina eivät ylitä 55 000 euroa vuodessa;",
+      "clause_number": 3,
+      "section_number": "15",
+      "statute_id": "1698/2005"
+    },
+    {
+      "id": "fbdc86d7-7f1f-403c-b44e-ebdd67a3eede",
+      "node_type": "Clause",
+      "publisher": "finlex",
+      "title": "§ 15 mom 4",
+      "text": "4) joka elinkeinosuunnitelmalla osoittaa, että luopumisen kohteena oleva maatila tai hänelle muodostuva maatila on taloudellisesti elinkelpoinen ja että maatilan yritystoiminnasta voi saada luopumista seuraavien viiden vuoden ajan kunakin vuonna tuloa vähintään 10 000 euroa;",
+      "clause_number": 4,
+      "section_number": "15",
+      "statute_id": "1698/2005"
+    },
+    {
+      "id": "8575ce0b-84bf-48ee-86a6-7161fc26b8ee",
+      "node_type": "Clause",
+      "publisher": "finlex",
+      "title": "§ 15 mom 5",
+      "text": "5) jolle muodostuvan maatilan voidaan katsoa täyttävän tuotantosuuntansa mukaiset muun lainsäädännön vaatimukset, jotka koskevat ympäristöä ja eläintensuojelua, sekä elintarvikelain (23/2006) vaatimukset, jotka koskevat tässä laissa tarkoitettua maatalouden harjoittamista; ja",
+      "clause_number": 5,
+      "section_number": "15",
+      "statute_id": "1698/2005"
+    },
+    {
+      "id": "34d6b2c2-665c-475a-930b-10ef1d159227",
+      "node_type": "Clause",
+      "publisher": "finlex",
+      "title": "§ 15 mom 6",
+      "text": "6) joka sitoutuu viljelemään maatilaa ja asumaan tilalla tai sellaisella etäisyydellä siitä, että tila tulee asianmukaisesti hoidetuksi huomioon ottaen eläinsuojelulain (247/1996) säännökset ja muut vastaavat säännökset, niin kauan kuin luopujalle maksetaan luopumistukea, kuitenkin vähintään viiden vuoden ajan.",
+      "clause_number": 6,
+      "section_number": "15",
+      "statute_id": "1698/2005"
+    },
+    {
+      "id": "e0f28cf0-6502-4d8e-a0c1-87d03a423460",
+      "node_type": "Clause",
+      "publisher": "finlex",
+      "title": "§ 16 mom 1",
+      "text": "1) joka luopumisen tapahtuessa harjoittaa maataloutta maatilalla, johon luopujan pelto tulee lisämaaksi;",
+      "clause_number": 1,
+      "section_number": "16",
+      "statute_id": "1698/2005"
+    },
+    {
+      "id": "5d0bf859-f41b-415c-8d2c-f7411779b10e",
+      "node_type": "Clause",
+      "publisher": "finlex",
+      "title": "§ 16 mom 2",
+      "text": "2) joka on ottanut maatalousyrittäjien eläkelain 1 §:n säännösten mukaisesti sanotussa laissa säädettyä vähimmäiseläketurvaa koskevan vakuutuksen maatilatalouden harjoittajana;",
+      "clause_number": 2,
+      "section_number": "16",
+      "statute_id": "1698/2005"
+    },
+    {
+      "id": "9cdd05f6-620c-4c2b-8f49-6309fc4be498",
+      "node_type": "Clause",
+      "publisher": "finlex",
+      "title": "§ 16 mom 3",
+      "text": "3) joka ei ole täyttänyt 55:tä vuotta;",
+      "clause_number": 3,
+      "section_number": "16",
+      "statute_id": "1698/2005"
+    },
+    {
+      "id": "4f2f3a6f-b1e2-4534-9d32-ec8afc73d070",
+      "node_type": "Clause",
+      "publisher": "finlex",
+      "title": "§ 16 mom 4",
+      "text": "4) jonka maatilan peltoala luovutuksen johdosta kasvaa vähintään kahdella hehtaarilla; ja",
+      "clause_number": 4,
+      "section_number": "16",
+      "statute_id": "1698/2005"
+    },
+    {
+      "id": "4c8cb876-e71b-41db-b08d-b9b6910eef78",
+      "node_type": "Clause",
+      "publisher": "finlex",
+      "title": "§ 16 mom 5",
+      "text": "5) joka sitoutuu viljelemään tilaa niin kauan kuin luopujalle maksetaan luopumistukea, kuitenkin vähintään viiden vuoden ajan.",
+      "clause_number": 5,
+      "section_number": "16",
+      "statute_id": "1698/2005"
+    },
+    {
+      "id": "5357348c-ee64-41e1-aed8-dd039ebdcb48",
+      "node_type": "Clause",
+      "publisher": "finlex",
+      "title": "§ 17 mom 1",
+      "text": "1) luovuttamalla porot sekä luovutuksensaajalle tarpeelliset tuotantorakennukset ja rakennelmat 15 §:n 1 momentin 1―3 kohdassa säädetyt edellytykset täyttävälle, porotalouden harjoittajaksi ryhtyvälle luovutuksensaajalle, jolle muodostuu vähintään 80 poron porokarja; tai",
+      "clause_number": 1,
+      "section_number": "17",
+      "statute_id": "1698/2005"
+    },
+    {
+      "id": "c27999bf-ca65-48b9-ade0-a18dd6052eb2",
+      "node_type": "Clause",
+      "publisher": "finlex",
+      "title": "§ 17 mom 1",
+      "text": "1) luovuttamalla porot sekä luovutuksensaajalle tarpeelliset tuotantorakennukset ja rakennelmat 15 §:n 1 momentin 1―3 kohdassa säädetyt edellytykset täyttävälle, porotalouden harjoittajaksi ryhtyvälle luovutuksensaajalle, jolle muodostuu vähintään 80 poron porokarja; tai",
+      "clause_number": 1,
+      "section_number": "17",
+      "statute_id": "1698/2005"
+    },
+    {
+      "id": "f7765cc0-4368-45de-9547-e12413029c4b",
+      "node_type": "Clause",
+      "publisher": "finlex",
+      "title": "§ 17 mom 1",
+      "text": "2) luovuttamalla porot porotaloutta ennestään harjoittavalle poronomistajalle, joka on ottanut 16 §:n 1 momentin 2 kohdassa tarkoitetun vakuutuksen poronomistajana, joka täyttää 16 §:n 1 momentin 3 kohdassa säädetyn ikäedellytyksen ja jonka yritys luovutuksen johdosta kasvaa vähintään 20 porolla.",
+      "clause_number": 1,
+      "section_number": "17",
+      "statute_id": "1698/2005"
+    },
+    {
+      "id": "63fc2ec3-0eef-4f29-8078-741351fb2f66",
+      "node_type": "Clause",
+      "publisher": "finlex",
+      "title": "§ 17 mom 2",
+      "text": "2) luovuttamalla porot porotaloutta ennestään harjoittavalle poronomistajalle, joka on ottanut 16 §:n 1 momentin 2 kohdassa tarkoitetun vakuutuksen poronomistajana, joka täyttää 16 §:n 1 momentin 3 kohdassa säädetyn ikäedellytyksen ja jonka yritys luovutuksen johdosta kasvaa vähintään 20 porolla.",
+      "clause_number": 2,
+      "section_number": "17",
+      "statute_id": "1698/2005"
+    },
+    {
+      "id": "8882b938-c278-40e8-b648-d9e0fb5d97fd",
+      "node_type": "Clause",
+      "publisher": "finlex",
+      "title": "§ 18 mom 1",
+      "text": "1) täyttää 15 §:ssä säädetyt edellytykset ja antaa yhtiön puolesta 15 §:n 1 momentin 6 kohdassa tarkoitetun sitoumuksen;",
+      "clause_number": 1,
+      "section_number": "18",
+      "statute_id": "1698/2005"
+    },
+    {
+      "id": "de87f71e-cd95-4a38-b45e-77bce3e50596",
+      "node_type": "Clause",
+      "publisher": "finlex",
+      "title": "§ 18 mom 1",
+      "text": "1) täyttää 15 §:ssä säädetyt edellytykset ja antaa yhtiön puolesta 15 §:n 1 momentin 6 kohdassa tarkoitetun sitoumuksen;",
+      "clause_number": 1,
+      "section_number": "18",
+      "statute_id": "1698/2005"
+    },
+    {
+      "id": "1a79b22b-09ae-492c-9b1d-76339747258f",
+      "node_type": "Clause",
+      "publisher": "finlex",
+      "title": "§ 18 mom 2",
+      "text": "2) täyttää luopumisen tapahduttua maatalousyrittäjien eläkelain 1 §:ssä säädetyt vakuuttamisen edellytykset luopumisen kohteena olevalla maatilalla harjoittamansa maatilatalouden perusteella; ja",
+      "clause_number": 2,
+      "section_number": "18",
+      "statute_id": "1698/2005"
+    },
+    {
+      "id": "824ddd57-4a68-4865-ab27-5376cbe79288",
+      "node_type": "Clause",
+      "publisher": "finlex",
+      "title": "§ 18 mom 3",
+      "text": "3) sitoutuu olemaan luovuttamatta yhtiöosuuttaan ja toimimaan yhtiössä vastuunalaisena yhtiömiehenä niin kauan kuin luopumistukea maksetaan, kuitenkin vähintään viiden vuoden ajan.",
+      "clause_number": 3,
+      "section_number": "18",
+      "statute_id": "1698/2005"
+    },
+    {
+      "id": "1b948810-6b06-426d-b208-70fc0993757b",
+      "node_type": "Clause",
+      "publisher": "finlex",
+      "title": "§ 19 mom 1",
+      "text": "1) täyttää 15 §:ssä säädetyt edellytykset ja antaa osakeyhtiön puolesta 15 §:n 1 momentin 6 kohdassa tarkoitetun sitoumuksen;",
+      "clause_number": 1,
+      "section_number": "19",
+      "statute_id": "1698/2005"
+    },
+    {
+      "id": "add75f7e-1bfa-45aa-b0ab-4a7674cb1223",
+      "node_type": "Clause",
+      "publisher": "finlex",
+      "title": "§ 19 mom 1",
+      "text": "1) täyttää 15 §:ssä säädetyt edellytykset ja antaa osakeyhtiön puolesta 15 §:n 1 momentin 6 kohdassa tarkoitetun sitoumuksen;",
+      "clause_number": 1,
+      "section_number": "19",
+      "statute_id": "1698/2005"
+    },
+    {
+      "id": "59b1a252-f76d-4293-9014-105d571fc5dd",
+      "node_type": "Clause",
+      "publisher": "finlex",
+      "title": "§ 19 mom 2",
+      "text": "2) täyttää luopumisen tapahduttua maatalousyrittäjien eläkelain 1 §:ssä säädetyt vakuuttamisen edellytykset lain 1 §:n 2 momentin 6 kohdassa tarkoitettuna maatalousyrittäjänä luopumisen kohteena olevalla maatilalla harjoittamansa maatilatalouden perusteella; ja",
+      "clause_number": 2,
+      "section_number": "19",
+      "statute_id": "1698/2005"
+    },
+    {
+      "id": "1f3ae5f3-60d1-407e-b3d4-9afb48f9b2de",
+      "node_type": "Clause",
+      "publisher": "finlex",
+      "title": "§ 19 mom 2",
+      "text": "2) täyttää luopumisen tapahduttua maatalousyrittäjien eläkelain 1 §:ssä säädetyt vakuuttamisen edellytykset lain 1 §:n 2 momentin 6 kohdassa tarkoitettuna maatalousyrittäjänä luopumisen kohteena olevalla maatilalla harjoittamansa maatilatalouden perusteella; ja",
+      "clause_number": 2,
+      "section_number": "19",
+      "statute_id": "1698/2005"
+    },
+    {
+      "id": "2d49d45b-b65e-4b96-828e-fb8de6d05172",
+      "node_type": "Clause",
+      "publisher": "finlex",
+      "title": "§ 19 mom 3",
+      "text": "3) sitoutuu pitämään omistuksessaan sellaisen määrän tämän osakeyhtiön osakkeita, että hänellä on niiden perusteella määräysvalta osakeyhtiössä niin kauan kuin luopumistukea maksetaan, kuitenkin vähintään viiden vuoden ajan.",
+      "clause_number": 3,
+      "section_number": "19",
+      "statute_id": "1698/2005"
+    },
+    {
+      "id": "571e5fa2-79f3-48bc-ab68-b3a6633d953a",
+      "node_type": "Clause",
+      "publisher": "finlex",
+      "title": "§ 20 mom 1",
+      "text": "1) maatilan hankkivassa yhtiössä vastuunalaiset yhtiömiehet täyttävät 15 §:ssä säädetyt edellytykset ja antavat 15 §:n 1 momentin 6 kohdassa tarkoitetun sitoumuksen;",
+      "clause_number": 1,
+      "section_number": "20",
+      "statute_id": "1698/2005"
+    },
+    {
+      "id": "bdd975e1-742e-4b4e-bcef-e9a2ab1c06f2",
+      "node_type": "Clause",
+      "publisher": "finlex",
+      "title": "§ 20 mom 1",
+      "text": "1) maatilan hankkivassa yhtiössä vastuunalaiset yhtiömiehet täyttävät 15 §:ssä säädetyt edellytykset ja antavat 15 §:n 1 momentin 6 kohdassa tarkoitetun sitoumuksen;",
+      "clause_number": 1,
+      "section_number": "20",
+      "statute_id": "1698/2005"
+    },
+    {
+      "id": "e72c222e-4242-45c7-b56a-ea2f74bbe360",
+      "node_type": "Clause",
+      "publisher": "finlex",
+      "title": "§ 20 mom 2",
+      "text": "2) 1 kohdassa tarkoitetut vastuunalaiset yhtiömiehet täyttävät luopumisen tapahduttua maatalousyrittäjien eläkelain 1 §:ssä säädetyt vakuuttamisen edellytykset luopumisen kohteena olevalla maatilalla harjoittamansa toiminnan perusteella; ja",
+      "clause_number": 2,
+      "section_number": "20",
+      "statute_id": "1698/2005"
+    },
+    {
+      "id": "6c25cd8a-65eb-410f-aa92-70db3cd04a15",
+      "node_type": "Clause",
+      "publisher": "finlex",
+      "title": "§ 20 mom 3",
+      "text": "3) 1 kohdassa tarkoitetut vastuunalaiset yhtiömiehet sitoutuvat olemaan luovuttamatta yhtiöosuuttaan ja toimimaan yhtiössä vastuunalaisina yhtiömiehinä niin kauan kuin luopumistukea maksetaan, kuitenkin vähintään viiden vuoden ajan.",
+      "clause_number": 3,
+      "section_number": "20",
+      "statute_id": "1698/2005"
+    },
+    {
+      "id": "ae43c364-2e61-4768-85b1-7bb07ce7b258",
+      "node_type": "Clause",
+      "publisher": "finlex",
+      "title": "§ 21 mom 1",
+      "text": "1) määräysvalta maatilan hankkivassa osakeyhtiössä on maatalousyrittäjällä, joka täyttää 15 §:ssä säädetyt edellytykset ja joka antaa osakeyhtiön puolesta 15 §:n 1 momentin 6 kohdassa tarkoitetun sitoumuksen;",
+      "clause_number": 1,
+      "section_number": "21",
+      "statute_id": "1698/2005"
+    },
+    {
+      "id": "5ea8b70f-c78a-4912-8055-16c9fbec99ed",
+      "node_type": "Clause",
+      "publisher": "finlex",
+      "title": "§ 21 mom 1",
+      "text": "1) määräysvalta maatilan hankkivassa osakeyhtiössä on maatalousyrittäjällä, joka täyttää 15 §:ssä säädetyt edellytykset ja joka antaa osakeyhtiön puolesta 15 §:n 1 momentin 6 kohdassa tarkoitetun sitoumuksen;",
+      "clause_number": 1,
+      "section_number": "21",
+      "statute_id": "1698/2005"
+    },
+    {
+      "id": "3d15b2a4-bbf5-406f-aa2e-eb3ac58618f7",
+      "node_type": "Clause",
+      "publisher": "finlex",
+      "title": "§ 21 mom 2",
+      "text": "2) 1 kohdassa tarkoitettu maatalousyrittäjä luopumisen tapahduttua täyttää luopumisen kohteena olevalla maatilalla harjoittamansa toiminnan perusteella maatalousyrittäjien eläkelain 1 §:ssä säädetyt vakuuttamisen edellytykset lain 1 §:n 2 momentin 6 kohdassa tarkoitettuna maatalousyrittäjänä;",
+      "clause_number": 2,
+      "section_number": "21",
+      "statute_id": "1698/2005"
+    },
+    {
+      "id": "cc138cd1-bccb-4c50-bb9c-fe8ab2e5851d",
+      "node_type": "Clause",
+      "publisher": "finlex",
+      "title": "§ 21 mom 2",
+      "text": "2) 1 kohdassa tarkoitettu maatalousyrittäjä luopumisen tapahduttua täyttää luopumisen kohteena olevalla maatilalla harjoittamansa toiminnan perusteella maatalousyrittäjien eläkelain 1 §:ssä säädetyt vakuuttamisen edellytykset lain 1 §:n 2 momentin 6 kohdassa tarkoitettuna maatalousyrittäjänä;",
+      "clause_number": 2,
+      "section_number": "21",
+      "statute_id": "1698/2005"
+    },
+    {
+      "id": "b476bd52-1009-4508-a5ba-46ce0f06e8dc",
+      "node_type": "Clause",
+      "publisher": "finlex",
+      "title": "§ 21 mom 3",
+      "text": "3) 1 kohdassa tarkoitettu maatalousyrittäjä sitoutuu pitämään omistuksessaan sellaisen määrän osakeyhtiön osakkeita, että hänellä on niiden perusteella määräysvalta osakeyhtiössä niin kauan kuin luopumistukea maksetaan, kuitenkin vähintään viiden vuoden ajan;",
+      "clause_number": 3,
+      "section_number": "21",
+      "statute_id": "1698/2005"
+    },
+    {
+      "id": "56e394e2-1d35-4db5-a037-86ef80a2e063",
+      "node_type": "Clause",
+      "publisher": "finlex",
+      "title": "§ 21 mom 1",
+      "text": "4) 1 kohdassa tarkoitettu osakeyhtiö sitoutuu pitämään omistuksessaan ja hallinnassaan luopumisen kohteena olevan maatilan ja viljelemään sitä niin kauan kuin luopumistukea maksetaan, kuitenkin vähintään viiden vuoden ajan, ja täyttämään 15 §:n 1 momentin 4 ja 5 kohdassa säädetyt edellytykset.",
+      "clause_number": 1,
+      "section_number": "21",
+      "statute_id": "1698/2005"
+    },
+    {
+      "id": "eb78c3d5-5783-4776-964d-2aa6a6ae49cb",
+      "node_type": "Clause",
+      "publisher": "finlex",
+      "title": "§ 21 mom 4",
+      "text": "4) 1 kohdassa tarkoitettu osakeyhtiö sitoutuu pitämään omistuksessaan ja hallinnassaan luopumisen kohteena olevan maatilan ja viljelemään sitä niin kauan kuin luopumistukea maksetaan, kuitenkin vähintään viiden vuoden ajan, ja täyttämään 15 §:n 1 momentin 4 ja 5 kohdassa säädetyt edellytykset.",
+      "clause_number": 4,
+      "section_number": "21",
+      "statute_id": "1698/2005"
+    },
+    {
+      "id": "43c5a33c-fbc5-40a3-b7ea-2df50783f982",
+      "node_type": "Clause",
+      "publisher": "finlex",
+      "title": "§ 24 mom 1",
+      "text": "1) jos erikseen luovutettavien maatilojen yhdysviljely ei ole tarkoituksenmukaista ottaen huomioon tilojen välinen etäisyys sekä niiden tuotantosuunta tai tuotantosuuntaan verrattavat seikat, kullakin maatilalla on sen luovutuksensaajalle tarpeelliset asuin- ja tuotantorakennukset ja kukin maatila on erikseen luovutettuna luovutuksensaajien esittämien selvitysten perusteella 15 §:ssä tarkoitetulla tavalla taloudellisesti elinkelpoinen; tai",
+      "clause_number": 1,
+      "section_number": "24",
+      "statute_id": "1698/2005"
+    },
+    {
+      "id": "b8d39833-39a7-4699-83f7-5de387fce7ed",
+      "node_type": "Clause",
+      "publisher": "finlex",
+      "title": "§ 24 mom 1",
+      "text": "2) jos erikseen luovutettavilla maatiloilla on tuotantosuunta huomioon ottaen tarpeelliset tuotantorakennukset ja kultakin erikseen luovutettavalta maatilalta saatavan yritystulon voidaan arvioida olevan viitenä luovutusta seuraavana kalenterivuotena vähintään kolme kertaa niin suuri kuin elinkelpoiselta maatilalta 15 §:n 1 momentin 4 kohdassa edellytetään.",
+      "clause_number": 1,
+      "section_number": "24",
+      "statute_id": "1698/2005"
+    },
+    {
+      "id": "785883a6-c020-456a-b6c2-3db38247cabf",
+      "node_type": "Clause",
+      "publisher": "finlex",
+      "title": "§ 24 mom 2",
+      "text": "2) jos erikseen luovutettavilla maatiloilla on tuotantosuunta huomioon ottaen tarpeelliset tuotantorakennukset ja kultakin erikseen luovutettavalta maatilalta saatavan yritystulon voidaan arvioida olevan viitenä luovutusta seuraavana kalenterivuotena vähintään kolme kertaa niin suuri kuin elinkelpoiselta maatilalta 15 §:n 1 momentin 4 kohdassa edellytetään.",
+      "clause_number": 2,
+      "section_number": "24",
+      "statute_id": "1698/2005"
+    },
+    {
+      "id": "6eb97866-3392-4b30-893a-22c337ad8d11",
+      "node_type": "Clause",
+      "publisher": "finlex",
+      "title": "§ 26 mom 1",
+      "text": "1) talouskeskusalue, jolla sijaitsevat asuinrakennukset sekä muissa kuin 15 ja 18―21 §:ssä tarkoitetuissa tapauksissa maatilan talousrakennukset; ja",
+      "clause_number": 1,
+      "section_number": "26",
+      "statute_id": "1698/2005"
+    },
+    {
+      "id": "329ddd7e-65f7-4adc-bfac-95d9be205e9b",
+      "node_type": "Clause",
+      "publisher": "finlex",
+      "title": "§ 26 mom 2",
+      "text": "2) omassa taloudessa tarvittavien puutarha- ja kasvitarhatuotteiden viljelemistä tai asuinrakennuksen rakentamista varten peltoalue, joka saa olla enintään 10 prosenttia luopumisen kohteena olevasta peltoalasta, ei kuitenkaan suurempi kuin yksi hehtaari.",
+      "clause_number": 2,
+      "section_number": "26",
+      "statute_id": "1698/2005"
+    },
+    {
+      "id": "3b861cb5-d9f6-4591-98ec-17200bd0b217",
+      "node_type": "Clause",
+      "publisher": "finlex",
+      "title": "§ 38 mom 1",
+      "text": "1) luopuja on saavuttanut 8 §:n 1 momentissa säädetyn iän;",
+      "clause_number": 1,
+      "section_number": "38",
+      "statute_id": "1698/2005"
+    },
+    {
+      "id": "6f1e5d0e-2cda-4781-97e7-3b8d3de404bc",
+      "node_type": "Clause",
+      "publisher": "finlex",
+      "title": "§ 38 mom 1",
+      "text": "1) luopuja on saavuttanut 8 §:n 1 momentissa säädetyn iän;",
+      "clause_number": 1,
+      "section_number": "38",
+      "statute_id": "1698/2005"
+    },
+    {
+      "id": "a9b7de47-f4df-472d-a7f1-a4b762c9c6f1",
+      "node_type": "Clause",
+      "publisher": "finlex",
+      "title": "§ 38 mom 2",
+      "text": "2) luopuja on lopettanut kaupallisen maatalouden harjoittamisen ja metsätalouden hankintatyöt 12 ja 13 §:ssä tarkoitetulla tavalla;",
+      "clause_number": 2,
+      "section_number": "38",
+      "statute_id": "1698/2005"
+    },
+    {
+      "id": "aef2cadd-e77f-4362-8e20-2e19c4d4db51",
+      "node_type": "Clause",
+      "publisher": "finlex",
+      "title": "§ 38 mom 3",
+      "text": "3) luopuja on lopettanut muut ansiotyönsä tai vähentänyt niitä siten, että luopujan niistä saamien ansiotulojen voidaan arvioida jäävän 14 §:ssä säädettyä määrää pienemmiksi;",
+      "clause_number": 3,
+      "section_number": "38",
+      "statute_id": "1698/2005"
+    },
+    {
+      "id": "bce5da49-b7af-4d8b-84b2-0c47838bcdec",
+      "node_type": "Clause",
+      "publisher": "finlex",
+      "title": "§ 38 mom 4",
+      "text": "4) kuntoutustuen maksaminen on päättynyt, jos luopujalla on luopumisen tapahtuessa ollut oikeus kuntoutustukeen;",
+      "clause_number": 4,
+      "section_number": "38",
+      "statute_id": "1698/2005"
+    },
+    {
+      "id": "64709658-5cbc-4458-9971-4dd36ebb0cf6",
+      "node_type": "Clause",
+      "publisher": "finlex",
+      "title": "§ 38 mom 5",
+      "text": "5) luopumisen kohteena olevan tilan peltomaan hallinta ja luovutettujen porojen omistusoikeus sekä 15 ja 18―21 §:ssä tarkoitetuissa tapauksissa myös tuotantorakennusten ja -rakennelmien hallinta on siirtynyt luovutuksensaajalle;",
+      "clause_number": 5,
+      "section_number": "38",
+      "statute_id": "1698/2005"
+    },
+    {
+      "id": "5dd5be0c-8e43-4dea-9c7c-85f90aff19d9",
+      "node_type": "Clause",
+      "publisher": "finlex",
+      "title": "§ 38 mom 1",
+      "text": "6) luovutuksensaaja on ryhtynyt täyttämään 15 §:n 1 momentin 6 kohdassa, 16 §:n 1 momentin 5 kohdassa ja 17 §:n 2 momentissa tarkoitettua sitoumustaan;",
+      "clause_number": 1,
+      "section_number": "38",
+      "statute_id": "1698/2005"
+    },
+    {
+      "id": "47b5e496-7fcb-424f-8c3a-14f109942553",
+      "node_type": "Clause",
+      "publisher": "finlex",
+      "title": "§ 38 mom 6",
+      "text": "6) luovutuksensaaja on ryhtynyt täyttämään 15 §:n 1 momentin 6 kohdassa, 16 §:n 1 momentin 5 kohdassa ja 17 §:n 2 momentissa tarkoitettua sitoumustaan;",
+      "clause_number": 6,
+      "section_number": "38",
+      "statute_id": "1698/2005"
+    },
+    {
+      "id": "12a056e8-03b0-463b-ab26-8fb156bf1a5c",
+      "node_type": "Clause",
+      "publisher": "finlex",
+      "title": "§ 38 mom 7",
+      "text": "7) 18―21 §:ssä tarkoitetuissa luovutuksissa luovutuksensaaja on esittänyt selvityksen siitä, että hän toimii sanotuissa lainkohdissa tarkoitetuissa yhtiöissä vastuunalaisena yhtiömiehenä tai että hänellä on määräysvalta osakeyhtiössä ja että hän on ottanut maatalousyrittäjien eläkelain mukaisen vähimmäiseläketurvaa koskevan vakuutuksen toiminnastaan luopumisen kohteena olevalla maatilalla;",
+      "clause_number": 7,
+      "section_number": "38",
+      "statute_id": "1698/2005"
+    },
+    {
+      "id": "5698a6ee-ff4f-4dcd-9c04-f138d034e638",
+      "node_type": "Clause",
+      "publisher": "finlex",
+      "title": "§ 38 mom 2",
+      "text": "8) 18―21 §:ssä tarkoitetuissa luovutuksissa yhtiö on ryhtynyt täyttämään 18 §:n 2 momentissa, 19 §:n 2 momentissa, 20 §:n 2 momentissa tai 21 §:n 1 momentin 4 kohdassa tarkoitettua sitoumustaan.",
+      "clause_number": 2,
+      "section_number": "38",
+      "statute_id": "1698/2005"
+    },
+    {
+      "id": "10556c67-ae68-49ef-82df-37bfe02d68d9",
+      "node_type": "Clause",
+      "publisher": "finlex",
+      "title": "§ 38 mom 8",
+      "text": "8) 18―21 §:ssä tarkoitetuissa luovutuksissa yhtiö on ryhtynyt täyttämään 18 §:n 2 momentissa, 19 §:n 2 momentissa, 20 §:n 2 momentissa tai 21 §:n 1 momentin 4 kohdassa tarkoitettua sitoumustaan.",
+      "clause_number": 8,
+      "section_number": "38",
+      "statute_id": "1698/2005"
+    },
+    {
+      "id": "ac14845b-7f4b-406f-9b6a-9fd4ab3a93b1",
+      "node_type": "Clause",
+      "publisher": "finlex",
+      "title": "§ 42 mom 1",
+      "text": "1) se eläke, johon luopumistuen saajalla on oikeus työntekijän eläkelain 74 §:ssä säädettyjen etuuksien nojalla, sekä etuus, joka on karttunut valtion varoista suoritettavasta eläkkeen korvaamisesta alle kolmivuotiaan lapsen hoidosta tai opiskelun ajalta annetun lain perusteella; ja",
+      "clause_number": 1,
+      "section_number": "42",
+      "statute_id": "1698/2005"
+    },
+    {
+      "id": "8ddd8f71-8390-499f-a2a5-3869a07f6f9e",
+      "node_type": "Clause",
+      "publisher": "finlex",
+      "title": "§ 42 mom 2",
+      "text": "2) sellainen maatalousyrittäjien eläkelain nojalla karttunut eläke, jota ei ole luopumishetkellä tämän lain säännösten mukaan tullut ottaa huomioon luopumistuen perusmäärää määritettäessä.",
+      "clause_number": 2,
+      "section_number": "42",
+      "statute_id": "1698/2005"
+    },
+    {
+      "id": "9823d88a-f032-4f8f-81ae-6e172350c535",
+      "node_type": "Clause",
+      "publisher": "finlex",
+      "title": "§ 49 mom 4",
+      "text": "1) siitä, että hänelle on myönnetty 43 §:n 3 tai 4 momentissa tarkoitettu eläke tai työntekijän eläkelain 92 ja 93 §:ssä tarkoitettu ensisijainen etuus;",
+      "clause_number": 4,
+      "section_number": "49",
+      "statute_id": "1698/2005"
+    },
+    {
+      "id": "c9c46615-32b3-420a-82d0-625fe03f6d73",
+      "node_type": "Clause",
+      "publisher": "finlex",
+      "title": "§ 49 mom 1",
+      "text": "1) siitä, että hänelle on myönnetty 43 §:n 3 tai 4 momentissa tarkoitettu eläke tai työntekijän eläkelain 92 ja 93 §:ssä tarkoitettu ensisijainen etuus;",
+      "clause_number": 1,
+      "section_number": "49",
+      "statute_id": "1698/2005"
+    },
+    {
+      "id": "25ad8b3d-77a2-4bb7-8b0b-7aaf9dc2e17c",
+      "node_type": "Clause",
+      "publisher": "finlex",
+      "title": "§ 49 mom 1",
+      "text": "2) ryhtymisestään ansiotyöhön, josta saatava ansiotulo on vähintään 45 §:n 1 momentissa säädetyn rahamäärän suuruinen taikka ansiotyöstä saatavan ansiotulon noususta vähintään sanotun rahamäärän suuruiseksi;",
+      "clause_number": 1,
+      "section_number": "49",
+      "statute_id": "1698/2005"
+    },
+    {
+      "id": "05964428-eb36-4d11-9512-a2bb0d797e4f",
+      "node_type": "Clause",
+      "publisher": "finlex",
+      "title": "§ 49 mom 2",
+      "text": "2) ryhtymisestään ansiotyöhön, josta saatava ansiotulo on vähintään 45 §:n 1 momentissa säädetyn rahamäärän suuruinen taikka ansiotyöstä saatavan ansiotulon noususta vähintään sanotun rahamäärän suuruiseksi;",
+      "clause_number": 2,
+      "section_number": "49",
+      "statute_id": "1698/2005"
+    },
+    {
+      "id": "ba78d2bb-95b0-40b9-ba5a-f1b69a0af740",
+      "node_type": "Clause",
+      "publisher": "finlex",
+      "title": "§ 49 mom 3",
+      "text": "3) työpanoksen ja olosuhteiden muuttumisesta maatilalla niin, että pääasiallisen vastuun maatalouden harjoittamisesta on katsottava 45 §:n 3 momentissa tarkoitetuin tavoin siirtyneen luopumistuensaajalle;",
+      "clause_number": 3,
+      "section_number": "49",
+      "statute_id": "1698/2005"
+    },
+    {
+      "id": "7c52ac14-980b-471c-8bc0-fcd7f86c1fc7",
+      "node_type": "Clause",
+      "publisher": "finlex",
+      "title": "§ 49 mom 3",
+      "text": "3) työpanoksen ja olosuhteiden muuttumisesta maatilalla niin, että pääasiallisen vastuun maatalouden harjoittamisesta on katsottava 45 §:n 3 momentissa tarkoitetuin tavoin siirtyneen luopumistuensaajalle;",
+      "clause_number": 3,
+      "section_number": "49",
+      "statute_id": "1698/2005"
+    },
+    {
+      "id": "34a297c0-b089-4e42-86f9-6b88bf6f3730",
+      "node_type": "Clause",
+      "publisher": "finlex",
+      "title": "§ 49 mom 4",
+      "text": "4) sellaisesta perhesuhteiden muutoksesta tai muusta olosuhteiden muutoksesta, joka 31 §:n mukaan vaikuttaa luopumistuen määrään.",
+      "clause_number": 4,
+      "section_number": "49",
+      "statute_id": "1698/2005"
+    },
+    {
+      "id": "51fed9eb-9e08-41b8-b13d-d4f734b299ba",
+      "node_type": "Clause",
+      "publisher": "finlex",
+      "title": "§ 68 mom 1",
+      "text": "1) asiakirjasalaisuutta koskevaa 22 §:ää;",
+      "clause_number": 1,
+      "section_number": "68",
+      "statute_id": "1698/2005"
+    },
+    {
+      "id": "f45438df-c2d7-4289-8db6-f770e3d8a887",
+      "node_type": "Clause",
+      "publisher": "finlex",
+      "title": "§ 68 mom 2",
+      "text": "2) vaitiolovelvollisuutta ja hyväksikäyttökieltoa koskevaa 23 §:ää;",
+      "clause_number": 2,
+      "section_number": "68",
+      "statute_id": "1698/2005"
+    },
+    {
+      "id": "332248fe-e367-4c58-8641-06a1f07d1fc1",
+      "node_type": "Clause",
+      "publisher": "finlex",
+      "title": "§ 68 mom 3",
+      "text": "3) salassapidettäviä asiakirjoja koskevia 22―24 §:ää; ja",
+      "clause_number": 3,
+      "section_number": "68",
+      "statute_id": "1698/2005"
+    },
+    {
+      "id": "b995e397-ac54-4a95-bce0-42e5364a1ab1",
+      "node_type": "Clause",
+      "publisher": "finlex",
+      "title": "§ 68 mom 4",
+      "text": "4) asiakirjan salassapitämistä koskevan velvollisuuden sekä 23 §:ssä säädetyn vaitiolovelvollisuuden ja hyväksikäyttökiellon rikkomista koskevia rangaistussäännöksiä sisältävää 35 §:ää.",
+      "clause_number": 4,
+      "section_number": "68",
+      "statute_id": "1698/2005"
+    },
+    {
+      "id": "7399140e-f7a3-46fe-842a-cf9ce942bcf5",
+      "node_type": "Clause",
+      "publisher": "finlex",
+      "title": "§ 80 mom 1",
+      "text": "1) tämän lain tai sen nojalla annetun asiakirjan perusteella annettavassa asiakirjassa antaa väärän tai harhaanjohtavan tiedon tai",
+      "clause_number": 1,
+      "section_number": "80",
+      "statute_id": "1698/2005"
+    },
+    {
+      "id": "4a3a78dc-a7dc-4397-976c-3a393ba3ea0c",
+      "node_type": "Clause",
+      "publisher": "finlex",
+      "title": "§ 80 mom 2",
+      "text": "2) vääriä tietoja antamalla tai salaamalla todellisen asianlaidan on saanut aikaan sen, että luopumistukea on maksettu perusteettomasti tai luopumistuen pääoma-arvo on jätetty osittain tai kokonaan takaisin perimättä,",
+      "clause_number": 2,
+      "section_number": "80",
+      "statute_id": "1698/2005"
+    }
+  ],
+  "cross_references": [],
+  "raw_html_path": "C:\\Users\\danit\\finance-hack\\aalto-hackaton-2026\\data\\raw\\finlex\\Laki (säädöskokoelma)\\Laki maatalouden harjoittamisesta luopumisen tukemisesta.html"
+}

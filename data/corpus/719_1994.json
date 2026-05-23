@@ -1,0 +1,633 @@
+{
+  "statute": {
+    "id": "0721da3a-e16c-49ad-8911-df95637d107b",
+    "node_type": "Statute",
+    "publisher": "finlex",
+    "title": "Painelaitelaki",
+    "text": "Painelaitelaki",
+    "statute_id": "719/1994",
+    "finlex_url": "https://finlex.fi/fi/laki/ajantasa/719/1994"
+  },
+  "chapters": [
+    {
+      "id": "e94be3cb-39af-44bf-b1cb-54900b856d2f",
+      "node_type": "Chapter",
+      "publisher": "finlex",
+      "title": "Chapter 1",
+      "text": "1 luku Yleiset säännökset",
+      "chapter_number": 1,
+      "statute_id": "719/1994"
+    },
+    {
+      "id": "d78cf6b2-0df9-4d72-889b-7a0edb9b55aa",
+      "node_type": "Chapter",
+      "publisher": "finlex",
+      "title": "Chapter 2",
+      "text": "2 luku Painelaitteen turvallisuuden varmistaminen",
+      "chapter_number": 2,
+      "statute_id": "719/1994"
+    },
+    {
+      "id": "75f92b55-23d3-4bf9-a4c2-23f3fcbb5e48",
+      "node_type": "Chapter",
+      "publisher": "finlex",
+      "title": "Chapter 3",
+      "text": "3 luku Valvonta",
+      "chapter_number": 3,
+      "statute_id": "719/1994"
+    },
+    {
+      "id": "04b37915-6de3-4eb5-8cf8-f19d9d4cea9b",
+      "node_type": "Chapter",
+      "publisher": "finlex",
+      "title": "Chapter 4",
+      "text": "4 luku Pakkokeinot ja seuraamukset",
+      "chapter_number": 4,
+      "statute_id": "719/1994"
+    },
+    {
+      "id": "0a2789b6-3a7f-4bf2-9c1d-ba70279369b0",
+      "node_type": "Chapter",
+      "publisher": "finlex",
+      "title": "Chapter 5",
+      "text": "5 luku Erinäiset säännökset",
+      "chapter_number": 5,
+      "statute_id": "719/1994"
+    },
+    {
+      "id": "863dd35d-d2fc-47ed-82a9-22c4347c4e0a",
+      "node_type": "Chapter",
+      "publisher": "finlex",
+      "title": "Chapter 6",
+      "text": "6 luku Voimaantulo",
+      "chapter_number": 6,
+      "statute_id": "719/1994"
+    }
+  ],
+  "sections": [
+    {
+      "id": "e464d9b9-5de4-4a62-a989-1b135418093e",
+      "node_type": "Section",
+      "publisher": "finlex",
+      "title": "1 §",
+      "text": "Tätä lakia sovelletaan painelaitteisiin. Tätä lakia sovelletaan siten kuin erikseen säädetään: Vaarallisten aineiden kuljetuksesta annetussa laissa (719/1994) tarkoitettuihin paineellisiin astioihin ja säiliöihin tätä lakia sovelletaan vain niiden sijoituksessa ja käytössä.",
+      "section_number": "1",
+      "chapter_number": 1,
+      "statute_id": "719/1994"
+    },
+    {
+      "id": "0866d380-c0f4-4391-8dc4-914c7c2bca4d",
+      "node_type": "Section",
+      "publisher": "finlex",
+      "title": "2 §",
+      "text": "Tässä laissa tarkoitetaan:",
+      "section_number": "2",
+      "chapter_number": 1,
+      "statute_id": "719/1994"
+    },
+    {
+      "id": "420159fc-e271-4d99-9743-4d87d8e5724f",
+      "node_type": "Section",
+      "publisher": "finlex",
+      "title": "3 §",
+      "text": "Painelaite on rakennettava ja sijoitettava ja sitä hoidettava, käytettävä ja tarkastettava niin, ettei se vaaranna kenenkään terveyttä, turvallisuutta tai omaisuutta.",
+      "section_number": "3",
+      "chapter_number": 2,
+      "statute_id": "719/1994"
+    },
+    {
+      "id": "217eadb7-ea24-421d-827d-cc237e5126f6",
+      "node_type": "Section",
+      "publisher": "finlex",
+      "title": "4 §",
+      "text": "Painelaitteelle 3 §:ssä säädettyjen vaatimusten mukaisuus osoitetaan tarkastuslaitosten tekemillä tarkastuksilla taikka muilla menettelyillä siten kuin asetuksella ja ministeriön päätöksellä tarkemmin säädetään. Ministeriön päätöksellä voidaan säätää painelaitteista, joista ei edellytetä 1 momentissa säädettyä vaatimustenmukaisuuden osoittamista paineeseen liittyvän vaaran vähäisyyden vuoksi. Ulkomaisen tarkastuslaitoksen toimenpiteet vaatimustenmukaisuuden osoittamisessa hyväksytään, jos Euroopan yhteisön säädöksissä niin edellytetään.",
+      "section_number": "4",
+      "chapter_number": 2,
+      "statute_id": "719/1994"
+    },
+    {
+      "id": "894bef9a-9b9d-44fd-bc7b-dc15142242c1",
+      "node_type": "Section",
+      "publisher": "finlex",
+      "title": "5 §",
+      "text": "Ministeriö nimeää ja tunnustaa ja valvontaviranomainen hyväksyy tarkastuslaitoksen suorittamaan 4 §:n 1 momentissa tarkoitettuja tehtäviä siten kuin asetuksella tarkemmin säädetään. Tarkastuslaitoksen nimeämisen, tunnustamisen tai hyväksymisen edellytyksenä on, että tarkastuslaitos on toiminnallisesti ja taloudellisesti riippumaton, sillä on vastuuvakuutus ja käytössään riittävästi ammattitaitoista henkilöstöä sekä toiminnan edellyttämät järjestelmät, laitteet ja välineet. Tarkastuslaitoksen nimeämisen, tunnustamisen ja hyväksymisen edellytyksistä samoin kuin hakemukseen liitettävistä vaatimusten täyttymistä osoittavista asiakirjoista säädetään tarkemmin asetuksella. Nimeäminen, tunnustaminen ja hyväksyminen voidaan antaa määräajaksi. Tarkastuslaitokselle voidaan asettaa sen toimintaa koskevia vaatimuksia, rajoituksia ja muita ehtoja. Tarkastuslaitoksen on ilmoitettava toimintansa sellaisista muutoksista, joilla on vaikutusta tarkastuslaitoksen nimeämisen, tunnustamisen tai hyväksymisen edellytyksiin. Valvontaviranomainen valvoo hyväksymiensä tarkastuslaitosten toimintaa sekä varmistaa määräajoin, että säädetyt vaatimukset täyttyvät. Ministeriö valvoo vastaavasti nimeämiensä ja tunnustamiensa tarkastuslaitosten toimintaa valvontaviranomaisen avustuksella. Jos tarkastuslaitos ei täytä säädettyjä vaatimuksia tai toimii säännösten vastaisesti, ministeriön tai valvontaviranomaisen on peruutettava antamansa nimeäminen, tunnustaminen tai hyväksyminen.",
+      "section_number": "5",
+      "chapter_number": 2,
+      "statute_id": "719/1994"
+    },
+    {
+      "id": "6254cc8c-f9d0-48d7-94c7-e24dfc2db440",
+      "node_type": "Section",
+      "publisher": "finlex",
+      "title": "6 §",
+      "text": "Sen, joka saattaa markkinoille painelaitteen, on voitava osoittaa, että painelaite sekä sen suunnittelu ja valmistus täyttävät 3 §:ssä säädetyt vaatimukset. Mitä 1 momentissa säädetään, koskee myös sitä, joka: Ministeriön päätöksellä voidaan säätää 1 momentissa tarkoitettuun osoittamiseen liittyvästä CE-merkinnästä.",
+      "section_number": "6",
+      "chapter_number": 2,
+      "statute_id": "719/1994"
+    },
+    {
+      "id": "5369244a-26d8-4713-8920-997176499f0d",
+      "node_type": "Section",
+      "publisher": "finlex",
+      "title": "7 §",
+      "text": "Ministeriön päätöksellä voidaan säätää, että tiettyjen painelaitteiden sijoitukselle on pyydettävä tarkastus.",
+      "section_number": "7",
+      "chapter_number": 2,
+      "statute_id": "719/1994"
+    },
+    {
+      "id": "d2faf5a3-023a-43b5-99ff-dcfc9029e8f6",
+      "node_type": "Section",
+      "publisher": "finlex",
+      "title": "8 §",
+      "text": "Painelaite, joka voi aiheuttaa merkittävää vaaraa, on rekisteröitävä siten kuin ministeriön päätöksellä säädetään. Rekisteröitävälle painelaitteelle on tehtävä määrätyin aikavälein tarkastus (määräaikaistarkastus) sekä tarvittaessa muutostarkastus sen varmistamiseksi, että painelaite ei asianmukaisesti käytettynä vaaranna kenenkään terveyttä, turvallisuutta tai omaisuutta. Ministeriön päätöksellä voidaan säätää, että tarkastuksia on tehtävä myös muille kuin rekisteröitäville painelaitteille. Ministeriön päätöksellä voidaan lisäksi säätää tietojen toimittamisesta rekisteriin valvontaa varten sekä määräaikaistarkastuksia korvaavista toimenpiteistä.",
+      "section_number": "8",
+      "chapter_number": 2,
+      "statute_id": "719/1994"
+    },
+    {
+      "id": "e9203db5-9161-44be-9e39-d630efed33ac",
+      "node_type": "Section",
+      "publisher": "finlex",
+      "title": "9 §",
+      "text": "Painelaitteen turvallista käyttöä varten tarvittavat laitteet, laitteistot ja laitejärjestelmät on tarkastettava siten kuin ministeriön päätöksellä säädetään.",
+      "section_number": "9",
+      "chapter_number": 2,
+      "statute_id": "719/1994"
+    },
+    {
+      "id": "a801d699-7847-4d64-8651-69ded297877c",
+      "node_type": "Section",
+      "publisher": "finlex",
+      "title": "10 §",
+      "text": "Painelaitteen omistajan ja haltijan on: Edellä 1 momentin 3 kohdassa tarkoitettu pätevyys on osoitettava pätevyyskirjalla tai muilla selvityksillä siten kuin ministeriön päätöksellä säädetään. Pätevyyskirjojen myöntämisestä ja myöntämisen edellytyksenä olevista koulutus- ja työkokemusvaatimuksista säädetään tarvittaessa tarkemmin asetuksella. Muilla selvityksillä kuin pätevyyskirjalla tapahtuvaa pätevyyden osoittamista koskevista koulutus- ja työkokemusvaatimuksista sekä käytön valvojan tehtävistä voidaan säätää tarkemmin ministeriön päätöksellä.",
+      "section_number": "10",
+      "chapter_number": 2,
+      "statute_id": "719/1994"
+    },
+    {
+      "id": "c60e3b24-2ae6-4c3c-a1b9-69cd67b39318",
+      "node_type": "Section",
+      "publisher": "finlex",
+      "title": "11 §",
+      "text": "Tämän lain noudattamista valvoo valvontaviranomainen. Työntekijäin suojelua koskevasta valvonnasta säädetään erikseen.",
+      "section_number": "11",
+      "chapter_number": 3,
+      "statute_id": "719/1994"
+    },
+    {
+      "id": "7e9885e9-17c4-4f73-9baf-87f5e4bd4b54",
+      "node_type": "Section",
+      "publisher": "finlex",
+      "title": "12 §",
+      "text": "Valvontaviranomaisella on tämän lain noudattamisen valvomiseksi oikeus: Valvontaviranomaisen on korvattava 1 momentin 2 kohdassa tarkoitetut näytteet ja koekappaleet käyvän hinnan mukaan, jollei havaita, että painelaite on tämän lain vastainen.",
+      "section_number": "12",
+      "chapter_number": 3,
+      "statute_id": "719/1994"
+    },
+    {
+      "id": "25df9580-8841-4985-a5d7-1a5d2f9b9de7",
+      "node_type": "Section",
+      "publisher": "finlex",
+      "title": "13 §",
+      "text": "Poliisin tulee tarvittaessa antaa virka-apua valvontaviranomaiselle tämän lain noudattamisen valvomiseksi ja täytäntöön panemiseksi. Sama koskee tulliviranomaista, jos painelaite tuodaan maahan Euroopan talousalueen ulkopuolelta.",
+      "section_number": "13",
+      "chapter_number": 3,
+      "statute_id": "719/1994"
+    },
+    {
+      "id": "8ce4385d-c2bb-49d1-b348-97df8c6e673a",
+      "node_type": "Section",
+      "publisher": "finlex",
+      "title": "14 §",
+      "text": "Valvontaviranomaisella on tietojen luovutusta koskevien salassapitosäännösten estämättä tämän lain noudattamisen valvomiseksi oikeus saada:",
+      "section_number": "14",
+      "chapter_number": 3,
+      "statute_id": "719/1994"
+    },
+    {
+      "id": "85059144-552b-4e29-9204-18f84ba0ff22",
+      "node_type": "Section",
+      "publisher": "finlex",
+      "title": "15 §",
+      "text": "Jos valvonnassa todetaan, ettei painelaite taikka sen sijoitus tai käyttö täytä 3 §:ssä säädettyjä vaatimuksia, valvontaviranomaisella on oikeus: Mitä 1 momentissa säädetään, koskee myös maasta vietäviä painelaitteita, jos Euroopan yhteisön säädöksissä niin edellytetään.",
+      "section_number": "15",
+      "chapter_number": 3,
+      "statute_id": "719/1994"
+    },
+    {
+      "id": "f88f6e4e-d4c2-49e6-ae66-11e7b3b2e190",
+      "node_type": "Section",
+      "publisher": "finlex",
+      "title": "16 §",
+      "text": "Jos valvontaviranomainen toteaa, että suunniteltuun tarkoitukseen käytettävä, CE-merkinnällä varustettu painelaite saattaa vaarantaa ihmisten turvallisuutta tai aiheuttaa vaaraa omaisuudelle, valvontaviranomaisen on ryhdyttävä tarvittaviin 15 §:ssä tarkoitettuihin toimenpiteisiin tällaisten painelaitteiden poistamiseksi markkinoilta, niiden markkinoille saattamisen ja käyttöönoton kieltämiseksi tai niiden vapaan liikkuvuuden rajoittamiseksi. Valvontaviranomaisen on ilmoitettava viipymättä toimenpiteensä ja niiden perustelut Euroopan yhteisöjen komissiolle. Jos CE-merkinnällä varustettu painelaite ei ole vaatimusten mukainen, valvontaviranomaisen on ryhdyttävä toimenpiteisiin CE-merkinnän tehnyttä vastaan sekä ilmoitettava toimenpiteistään Euroopan yhteisöjen komissiolle ja muille Euroopan talousalueeseen kuuluville valtioille.",
+      "section_number": "16",
+      "chapter_number": 3,
+      "statute_id": "719/1994"
+    },
+    {
+      "id": "95ced4a0-3a93-4898-a449-1013e86755ae",
+      "node_type": "Section",
+      "publisher": "finlex",
+      "title": "17 §",
+      "text": "Jos CE-merkintä on kiinnitetty perusteettomasti, painelaitteen valmistaja tai tämän Euroopan talousalueelle sijoittautunut edustaja on velvollinen saattamaan painelaitteen merkintää koskevien säännösten mukaiseksi. Jos 1 momentissa tarkoitettua velvollisuutta ei noudateta, valvontaviranomaisen on ryhdyttävä tarvittaviin 16 §:ssä tarkoitettuihin toimenpiteisiin.",
+      "section_number": "17",
+      "chapter_number": 3,
+      "statute_id": "719/1994"
+    },
+    {
+      "id": "8743c52f-714c-4e93-b1e0-c4549f6ab1f6",
+      "node_type": "Section",
+      "publisher": "finlex",
+      "title": "18 §",
+      "text": "Jos valvontaviranomainen toteaa käytön valvojan sopimattomaksi tehtäväänsä, valvontaviranomainen voi määrätä painelaitteen omistajan tai haltijan nimeämään uuden käytön valvojan. Ennen määräyksen antamista valvontaviranomaisen on varattava käytön valvojalle sekä omistajalle tai haltijalle tilaisuus tulla kuulluksi.",
+      "section_number": "18",
+      "chapter_number": 3,
+      "statute_id": "719/1994"
+    },
+    {
+      "id": "442c7c09-3cc4-4530-92e2-91ed75aa7da5",
+      "node_type": "Section",
+      "publisher": "finlex",
+      "title": "19 §",
+      "text": "Jos painelaitteen vaurioitumisesta tai paineen äkillisestä purkautumisesta aiheutuu henkilövahinko tai merkittävä omaisuusvahinko, painelaitteen omistajan tai haltijan on viipymättä ilmoitettava tapahtumasta valvontaviranomaiselle. Jos painelaite vaurioituu laitteen valmistukseen liittyvän testauksen aikana, ilmoitusvelvollisuus on painelaitteen valmistajalla. Valvontaviranomaisen on tutkittava vahinkoon johtanut tapahtuma, jos valvontaviranomainen arvioi sen onnettomuuden syyn selvittämisen tai onnettomuuksien ehkäisyn kannalta tarpeelliseksi. Painelaitteen omistajan tai haltijan on avustettava valvontaviranomaista tutkimuksessa.",
+      "section_number": "19",
+      "chapter_number": 3,
+      "statute_id": "719/1994"
+    },
+    {
+      "id": "0a115074-60c6-4ad5-b171-2402bcc8bd70",
+      "node_type": "Section",
+      "publisher": "finlex",
+      "title": "20 §",
+      "text": "Valvontaviranomainen voi tehostaa tämän lain nojalla antamaansa kieltoa tai määräystä uhkasakolla tai teettämisuhalla siten kuin siitä uhkasakkolaissa (1113/1990) säädetään. Teettäen suoritetun toimenpiteen kustannukset maksetaan ennakkoon valtion varoista. Edellä 2 momentissa tarkoitetut kustannukset sekä 15 §:ssä tarkoitetut kulut saadaan periä asianomaiselta ilman tuomiota tai päätöstä siinä järjestyksessä kuin verojen ja maksujen perimisestä ulosottotoimin annetussa laissa (367/1961) säädetään.",
+      "section_number": "20",
+      "chapter_number": 4,
+      "statute_id": "719/1994"
+    },
+    {
+      "id": "1f0ed2fc-262d-4eb2-8e1f-74d08a6d8f0a",
+      "node_type": "Section",
+      "publisher": "finlex",
+      "title": "21 §",
+      "text": "Joka tahallaan tai törkeästä huolimattomuudesta: Se, joka rikkoo tämän lain nojalla määrättyä, uhkasakolla tehostettua kieltoa tai määräystä, voidaan jättää tuomitsematta rangaistukseen samasta teosta.",
+      "section_number": "21",
+      "chapter_number": 4,
+      "statute_id": "719/1994"
+    },
+    {
+      "id": "298d947f-76a9-4406-b431-b0ca7b08b782",
+      "node_type": "Section",
+      "publisher": "finlex",
+      "title": "22 §",
+      "text": "Edellä 21 §:n 1 momentissa tarkoitetun rikkomuksen tuottama taloudellinen hyöty on tuomittava menetetyksi noudattaen, mitä rikoslain (39/1889) 2 luvun 16 §:ssä säädetään. Omaisuus, joka on ollut 21 §:n 1 momentissa tarkoitetun rikkomuksen kohteena, on tuomittava valtiolle menetetyksi siltä osin kuin menetykseen tuomitseminen on tarpeen henkilö- tai omaisuusvahinkojen estämiseksi. Omaisuuden menettämistä koskeviin rajoituksiin, omaisuuden arvon menettämiseen omaisuuden sijasta, menettämisseuraamuksen kohtuullistamiseen sekä omaisuuden menettämisessä noudatettavaan menettelyyn sovelletaan, mitä rikoslain 46 luvun 9―12 §:ssä säädetään.",
+      "section_number": "22",
+      "chapter_number": 4,
+      "statute_id": "719/1994"
+    },
+    {
+      "id": "4ce4977d-7dd5-4447-ae5f-925976815276",
+      "node_type": "Section",
+      "publisher": "finlex",
+      "title": "23 §",
+      "text": "Valvontaviranomainen ja tarkastuslaitokset voivat tietojen luovutusta koskevien salassapitosäännösten estämättä antaa tässä laissa tarkoitettuja tehtäviä suorittaessaan saamiaan liike- tai ammattisalaisuuden piiriin kuuluvia tietoja muille viranomaisille sekä tarkastuslaitosten ja valvontaviranomaisen yhteistyön kannalta tarpeellisia tietoja tässä laissa tarkoitettua tarkastustoimintaa harjoittaville tarkastuslaitoksille, kansainvälisille järjestöille ja yhteistyöhön osallistuville valtioille.",
+      "section_number": "23",
+      "chapter_number": 5,
+      "statute_id": "719/1994"
+    },
+    {
+      "id": "17969ed5-ca88-460f-b5da-1f0482115620",
+      "node_type": "Section",
+      "publisher": "finlex",
+      "title": "24 §",
+      "text": "Ministeriön ja valvontaviranomaisen tämän lain perusteella tekemään hallintopäätökseen haetaan muutosta siten kuin hallintolainkäyttölaissa (586/1996) säädetään. Päätöstä on muutoksenhausta huolimatta noudatettava, jollei valitusviranomainen toisin määrää. Jos tarkastuslaitos epää tarkastus- tai arviointitodistuksen, päätös on perusteltava ja päätöksestä on viipymättä ilmoitettava sille, jota päätös koskee. Tarkastuslaitoksen on samalla ilmoitettava, miten hakija voi saattaa asian tarkastuslaitoksen uudelleen käsiteltäväksi oikaisumenettelyssä. Oikaisuun sovelletaan menettelyä, josta tarkastuslaitosta nimettäessä, tunnustettaessa tai hyväksyttäessä on tarkemmin päätetty. Tarkastuslaitoksen oikaisumenettelyssä antamaan päätökseen, jolla tarkastus- tai arviointitodistus on evätty, haetaan muutosta hallinto-oikeudelta siten kuin hallintolainkäyttölaissa säädetään.",
+      "section_number": "24",
+      "chapter_number": 5,
+      "statute_id": "719/1994"
+    },
+    {
+      "id": "3147e118-d1ff-4526-8dfe-0fa038f6fdb6",
+      "node_type": "Section",
+      "publisher": "finlex",
+      "title": "25 §",
+      "text": "Tarkempia säännöksiä tämän lain soveltamisesta ja täytäntöönpanosta annetaan asetuksella ja ministeriön päätöksellä. Valvontaviranomaisen oikeudesta myöntää poikkeuksia yksittäistapauksissa erityisten syiden perusteella säädetään ministeriön päätöksellä. Valvontaviranomainen antaa tarvittaessa tämän lain soveltamista yhtenäistäviä teknisiä ja hallinnollisia ohjeita.",
+      "section_number": "25",
+      "chapter_number": 5,
+      "statute_id": "719/1994"
+    },
+    {
+      "id": "a4261f17-472c-4351-9a4f-c98d742c62a5",
+      "node_type": "Section",
+      "publisher": "finlex",
+      "title": "26 §",
+      "text": "Tämä laki tulee voimaan 29 päivänä marraskuuta 1999. Ennen lain voimaantuloa voidaan ryhtyä lain täytäntöönpanon edellyttämiin toimenpiteisiin.",
+      "section_number": "26",
+      "chapter_number": 6,
+      "statute_id": "719/1994"
+    },
+    {
+      "id": "273b488e-5949-462e-aa0b-1faa675d0459",
+      "node_type": "Section",
+      "publisher": "finlex",
+      "title": "27 §",
+      "text": "Tällä lailla kumotaan 2 päivänä helmikuuta 1973 annettu paineastialaki (98/1973) siihen myöhemmin tehtyine muutoksineen. Paineastialain ja räjähdysvaarallisista aineista annetun lain (263/1953) nojalla 22 päivänä joulukuuta 1993 annettu aerosoliasetus (1433/1993) jää kuitenkin edelleen voimaan. Paineastioiden suunnittelua, valmistusta, käyttöönottoa ja niihin liittyvää tarkastusta ja tarkastuslaitosta koskevia muita paineastialain ja sen nojalla annettuja säännöksiä kuin paineastia-asetuksen (549/1973) 21 c §:ää voidaan soveltaa 29 päivään toukokuuta 2002. Jos muualla lainsäädännössä viitataan paineastialakiin, viittauksen katsotaan tarkoittavan viittausta painelaitelakiin.",
+      "section_number": "27",
+      "chapter_number": 6,
+      "statute_id": "719/1994"
+    },
+    {
+      "id": "9937eae9-19dd-4e64-bec3-ec01465dce8f",
+      "node_type": "Section",
+      "publisher": "finlex",
+      "title": "28 §",
+      "text": "Paineastialain nojalla annetut valvontaviranomaisen päätökset sekä tarkastuslaitoksen ja ilmoitetun tarkastuslaitoksen todistukset ja vastaavat asiakirjat jäävät sellaisinaan voimaan, jollei niiden voimassaoloaikaa ole rajoitettu tai jollei ministeriö tai valvontaviranomainen rajoita niiden voimassaoloaikaa.",
+      "section_number": "28",
+      "chapter_number": 6,
+      "statute_id": "719/1994"
+    },
+    {
+      "id": "d51c63f5-e40a-4d0d-ae95-24c7d709e0ca",
+      "node_type": "Section",
+      "publisher": "finlex",
+      "title": "29 §",
+      "text": "Ennen tämän lain voimaantuloa käyttöön hyväksyttyjä painelaitteita saa edelleen käyttää, vaikka ne eivät täytä tässä laissa säädettyjä vaatimuksia. Valvontaviranomainen voi kuitenkin määrätä tällaisten painelaitteiden käytölle rajoituksia, jos se henkilö- tai omaisuusvahinkojen estämiseksi katsotaan tarpeelliseksi.",
+      "section_number": "29",
+      "chapter_number": 6,
+      "statute_id": "719/1994"
+    }
+  ],
+  "clauses": [
+    {
+      "id": "841fb3a0-8099-4efa-aa48-d639f525dc3b",
+      "node_type": "Clause",
+      "publisher": "finlex",
+      "title": "§ 1 mom 1",
+      "text": "1) ydinlaitosten painelaitteisiin;",
+      "clause_number": 1,
+      "section_number": "1",
+      "statute_id": "719/1994"
+    },
+    {
+      "id": "37531a1b-1e8e-4bc8-919e-3449f7a886c5",
+      "node_type": "Clause",
+      "publisher": "finlex",
+      "title": "§ 1 mom 2",
+      "text": "2) puolustushallinnon toimialan painelaitteisiin;",
+      "clause_number": 2,
+      "section_number": "1",
+      "statute_id": "719/1994"
+    },
+    {
+      "id": "ebbc818b-6f78-49ad-bbc2-83ce1df49081",
+      "node_type": "Clause",
+      "publisher": "finlex",
+      "title": "§ 1 mom 3",
+      "text": "3) alusten painelaitteisiin;",
+      "clause_number": 3,
+      "section_number": "1",
+      "statute_id": "719/1994"
+    },
+    {
+      "id": "a0081110-0860-431a-bd23-fd9a17f64edc",
+      "node_type": "Clause",
+      "publisher": "finlex",
+      "title": "§ 1 mom 4",
+      "text": "4) ilma-aluksiin ja niiden käyttölaitteistoihin kuuluviin painelaitteisiin.",
+      "clause_number": 4,
+      "section_number": "1",
+      "statute_id": "719/1994"
+    },
+    {
+      "id": "9b71195f-0923-4803-aaf0-108cd020b676",
+      "node_type": "Clause",
+      "publisher": "finlex",
+      "title": "§ 6 mom 1",
+      "text": "1) vie maasta painelaitteen, jos Euroopan yhteisön säädöksissä edellytetään maastaviejältä 1 momentissa tarkoitettua osoitusta;",
+      "clause_number": 1,
+      "section_number": "6",
+      "statute_id": "719/1994"
+    },
+    {
+      "id": "4657920e-5f57-45db-a970-2b1b6064b8d8",
+      "node_type": "Clause",
+      "publisher": "finlex",
+      "title": "§ 6 mom 1",
+      "text": "1) vie maasta painelaitteen, jos Euroopan yhteisön säädöksissä edellytetään maastaviejältä 1 momentissa tarkoitettua osoitusta;",
+      "clause_number": 1,
+      "section_number": "6",
+      "statute_id": "719/1994"
+    },
+    {
+      "id": "a7842706-6c02-4061-bbaa-3c77f6e8fef5",
+      "node_type": "Clause",
+      "publisher": "finlex",
+      "title": "§ 6 mom 2",
+      "text": "2) valmistaa painelaitteen omaan käyttöönsä tai toiselle luovutettavaksi;",
+      "clause_number": 2,
+      "section_number": "6",
+      "statute_id": "719/1994"
+    },
+    {
+      "id": "b9aee579-9161-4826-8101-350c8097d7ed",
+      "node_type": "Clause",
+      "publisher": "finlex",
+      "title": "§ 6 mom 3",
+      "text": "3) asentaa tai korjaa painelaitteen;",
+      "clause_number": 3,
+      "section_number": "6",
+      "statute_id": "719/1994"
+    },
+    {
+      "id": "4e37aec3-8f8f-4e2f-a7c3-e961a981bbbe",
+      "node_type": "Clause",
+      "publisher": "finlex",
+      "title": "§ 6 mom 4",
+      "text": "4) aikoo ottaa käyttöön painelaitteen, jonka vaatimustenmukaisuutta ei ole osoitettu.",
+      "clause_number": 4,
+      "section_number": "6",
+      "statute_id": "719/1994"
+    },
+    {
+      "id": "1d8c6af1-81ee-4d5d-b825-953f90abcaaa",
+      "node_type": "Clause",
+      "publisher": "finlex",
+      "title": "§ 10 mom 1",
+      "text": "1) huolehdittava siitä, että painelaite sijoitetaan sekä sitä käytetään, tarkastetaan ja valvotaan säädösten mukaisesti;",
+      "clause_number": 1,
+      "section_number": "10",
+      "statute_id": "719/1994"
+    },
+    {
+      "id": "6ef2f791-7d8d-4cf7-a87c-e57a712d2afa",
+      "node_type": "Clause",
+      "publisher": "finlex",
+      "title": "§ 10 mom 2",
+      "text": "2) huolehdittava tarvittaessa vaaran arvioinnilla ja vaaratilanteisiin varautumalla siitä, että painelaite on turvallinen käyttöönoton jälkeen;",
+      "clause_number": 2,
+      "section_number": "10",
+      "statute_id": "719/1994"
+    },
+    {
+      "id": "0a237c86-913f-4970-b7ee-64ddf8c0bf70",
+      "node_type": "Clause",
+      "publisher": "finlex",
+      "title": "§ 10 mom 3",
+      "text": "3) nimettävä rekisteröitävän painelaitteen käytön valvojaksi henkilö, jolla on tehtävään vaadittu pätevyys ja riittäväksi katsottava painelaitteen rakennetta, käyttöä ja kunnossapitoa koskeva asiantuntemus;",
+      "clause_number": 3,
+      "section_number": "10",
+      "statute_id": "719/1994"
+    },
+    {
+      "id": "006c0438-6c2d-4617-b4fc-a05497722019",
+      "node_type": "Clause",
+      "publisher": "finlex",
+      "title": "§ 10 mom 4",
+      "text": "4) huolehdittava siitä, että käytön valvojalle annetaan mahdollisuus hoitaa ja käyttää painelaitetta niin, ettei siitä aiheudu vaaraa ihmisille tai omaisuudelle;",
+      "clause_number": 4,
+      "section_number": "10",
+      "statute_id": "719/1994"
+    },
+    {
+      "id": "66ca7a6a-e798-45ad-9ad7-dd22100a3acd",
+      "node_type": "Clause",
+      "publisher": "finlex",
+      "title": "§ 10 mom 5",
+      "text": "5) huolehdittava rekisteröitävään painelaitteeseen liittyvästä tietojen antamisesta valvontaviranomaiselle.",
+      "clause_number": 5,
+      "section_number": "10",
+      "statute_id": "719/1994"
+    },
+    {
+      "id": "de28d0c8-f839-4fdb-82bb-2adea0bcfb47",
+      "node_type": "Clause",
+      "publisher": "finlex",
+      "title": "§ 12 mom 1",
+      "text": "1) päästä painelaitteiden sekä niiden osien ja materiaalien valmistus-, varastointi-, myynti-, asennus-, korjaus-, käyttö- ja tarkastuspaikkoihin;",
+      "clause_number": 1,
+      "section_number": "12",
+      "statute_id": "719/1994"
+    },
+    {
+      "id": "95dbea92-cf59-4a45-b064-cb07dfef5b29",
+      "node_type": "Clause",
+      "publisher": "finlex",
+      "title": "§ 12 mom 2",
+      "text": "2) saada tarpeellisia näytteitä ja koekappaleita painelaitteiden sekä niiden osien ja materiaalien omistajalta, haltijalta, valmistajalta, asennus- ja korjaustoimintaa harjoittavalta, maahantuojalta, myyjältä ja varastoijalta sekä tarkastuslaitokselta.",
+      "clause_number": 2,
+      "section_number": "12",
+      "statute_id": "719/1994"
+    },
+    {
+      "id": "8351d252-66c0-401f-9762-1b11c24e01a7",
+      "node_type": "Clause",
+      "publisher": "finlex",
+      "title": "§ 14 mom 1",
+      "text": "1) tulliviranomaiselta maahantuonnissa Euroopan talousalueen ulkopuolelta painelaitteen maahantuojan nimi sekä painelaitteiden tyyppiä, määrää ja tuontiajankohtaa koskevia tietoja;",
+      "clause_number": 1,
+      "section_number": "14",
+      "statute_id": "719/1994"
+    },
+    {
+      "id": "acbffec9-c6c5-48ee-bf15-f4da9f0666c6",
+      "node_type": "Clause",
+      "publisher": "finlex",
+      "title": "§ 14 mom 2",
+      "text": "2) työsuojeluviranomaisilta ja paloviranomaisilta painelaitevahinkoja koskevia tietoja;",
+      "clause_number": 2,
+      "section_number": "14",
+      "statute_id": "719/1994"
+    },
+    {
+      "id": "255695ac-1fcf-4a3e-9bdf-daaa91df48f5",
+      "node_type": "Clause",
+      "publisher": "finlex",
+      "title": "§ 14 mom 3",
+      "text": "3) tietoja painelaitteiden sekä niiden osien ja materiaalien omistajalta, haltijalta, valmistajalta, asennus- ja korjaustoimintaa harjoittavalta, maahantuojalta, myyjältä ja varastoijalta sekä tarkastuslaitokselta.",
+      "clause_number": 3,
+      "section_number": "14",
+      "statute_id": "719/1994"
+    },
+    {
+      "id": "55a8b219-6c5c-40be-9e9e-418b93293459",
+      "node_type": "Clause",
+      "publisher": "finlex",
+      "title": "§ 15 mom 1",
+      "text": "1) kieltää tilapäisesti tai pysyvästi sellaisen painelaitteen valmistus, pitäminen kaupan, myynti ja muu luovuttaminen sekä käyttö;",
+      "clause_number": 1,
+      "section_number": "15",
+      "statute_id": "719/1994"
+    },
+    {
+      "id": "af89b2b9-4f40-48de-9d37-19751e84ea06",
+      "node_type": "Clause",
+      "publisher": "finlex",
+      "title": "§ 15 mom 2",
+      "text": "2) vaatia sellaisten muutosten tekemistä painelaitteeseen tai sen valmistukseen, sijoitukseen tai käyttöön, että vaatimukset täyttyvät, sekä vaatia täyttymisen osoittamista;",
+      "clause_number": 2,
+      "section_number": "15",
+      "statute_id": "719/1994"
+    },
+    {
+      "id": "e68cbc6f-69ed-4f73-8e88-05f661f8a9b4",
+      "node_type": "Clause",
+      "publisher": "finlex",
+      "title": "§ 15 mom 3",
+      "text": "3) määrätä, jos 1 ja 2 kohdassa tarkoitettuja kieltoja ja muutoksia ei voida pitää riittävinä, painelaite muutettavaksi paineenalaiseen käyttöön soveltumattomaksi tai, jos tätä ei katsota tarkoituksenmukaiseksi, määrätä miten painelaitteen suhteen on muuten meneteltävä;",
+      "clause_number": 3,
+      "section_number": "15",
+      "statute_id": "719/1994"
+    },
+    {
+      "id": "661a0775-aada-46d2-b10f-9197b04b8ed9",
+      "node_type": "Clause",
+      "publisher": "finlex",
+      "title": "§ 15 mom 4",
+      "text": "4) velvoittaa painelaitteen valmistaja, maahantuoja tai myyjä julkisesti ilmoittamaan painelaitteeseen liittyvästä vaarasta sekä itse antaa tällainen ilmoitus valmistajan, maahantuojan tai myyjän kustannuksella;",
+      "clause_number": 4,
+      "section_number": "15",
+      "statute_id": "719/1994"
+    },
+    {
+      "id": "f3b156a2-4593-446d-9329-a9b0054f8b27",
+      "node_type": "Clause",
+      "publisher": "finlex",
+      "title": "§ 15 mom 5",
+      "text": "5) velvoittaa toiminnanharjoittaja korvaamaan testauksesta ja tutkimuksesta aiheutuneet kulut, jos valvontaviranomainen käyttää jotakin 1―4 kohdassa tarkoitettua oikeutta.",
+      "clause_number": 5,
+      "section_number": "15",
+      "statute_id": "719/1994"
+    },
+    {
+      "id": "82c1ccaf-6458-42b7-9aa9-a4b9d33c0550",
+      "node_type": "Clause",
+      "publisher": "finlex",
+      "title": "§ 21 mom 1",
+      "text": "1) laiminlyö 3, 4 tai 6―10 §:ssä tai 19 §:n 1 momentissa säädetyn velvollisuuden, taikka",
+      "clause_number": 1,
+      "section_number": "21",
+      "statute_id": "719/1994"
+    },
+    {
+      "id": "46880060-6dda-419f-b818-f2f4c522b28f",
+      "node_type": "Clause",
+      "publisher": "finlex",
+      "title": "§ 21 mom 1",
+      "text": "1) laiminlyö 3, 4 tai 6―10 §:ssä tai 19 §:n 1 momentissa säädetyn velvollisuuden, taikka",
+      "clause_number": 1,
+      "section_number": "21",
+      "statute_id": "719/1994"
+    },
+    {
+      "id": "8e52b96a-468d-4052-a9e3-f3c1586a6c97",
+      "node_type": "Clause",
+      "publisher": "finlex",
+      "title": "§ 21 mom 2",
+      "text": "2) ei noudata 15―18 §:n nojalla annettua kieltoa tai määräystä,",
+      "clause_number": 2,
+      "section_number": "21",
+      "statute_id": "719/1994"
+    }
+  ],
+  "cross_references": [],
+  "raw_html_path": "C:\\Users\\danit\\finance-hack\\aalto-hackaton-2026\\data\\raw\\finlex\\Laki (säädöskokoelma)\\Painelaitelaki_1.html"
+}

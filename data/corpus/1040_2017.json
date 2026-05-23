@@ -1,0 +1,58 @@
+{
+  "statute": {
+    "id": "7d356e55-319b-4baa-aa48-154888ffc8ee",
+    "node_type": "Statute",
+    "publisher": "finlex",
+    "title": "Valtiovarainministeriön asetus maksulaitoksen toimilupahakemukseen liitettävistä selvityksistä annetun valtiovarainministeriön asetuksen 14 ja 15 §:n muuttamisesta",
+    "text": "Valtiovarainministeriön asetus maksulaitoksen toimilupahakemukseen liitettävistä selvityksistä annetun valtiovarainministeriön asetuksen 14 ja 15 §:n muuttamisesta",
+    "statute_id": "1040/2017",
+    "finlex_url": "https://finlex.fi/fi/laki/ajantasa/1040/2017"
+  },
+  "chapters": [],
+  "sections": [
+    {
+      "id": "f7f04e45-332c-40a2-a8e7-780363604e35",
+      "node_type": "Section",
+      "publisher": "finlex",
+      "title": "14 § Sisäinen valvonta ja riskienhallinta",
+      "text": "Hakemukseen on liitettävä kuvaus: Hakemukseen on liitettävä selvitys siitä, miten maksulaitos on varautunut toiminnan jatkumiseen häiriötilanteissa. Hakemukseen on lisäksi liitettävä maksulaitoksen keskeisten toimintojen jatkuvuussuunnitelmat, mukaan lukien EU:n DORA-asetuksessa tarkoitetut tieto- ja viestintätekniikan liiketoiminnan jatkuvuutta koskevat toimintaperiaatteet ja suunnitelmat ja tieto- ja viestintätekniikan reagointi- ja palautumissuunnitelmat, sekä kuvaus jatkuvuussuunnitelmien säännöllisestä testauksesta ja päivityksestä.",
+      "section_number": "14",
+      "chapter_number": 1,
+      "statute_id": "1040/2017"
+    },
+    {
+      "id": "112e07f9-d59a-408d-ba45-217727c2d318",
+      "node_type": "Section",
+      "publisher": "finlex",
+      "title": "15 § Tietojärjestelmät ja tietoturvallisuus",
+      "text": "Hakemuksessa on kuvattava, miten maksulaitos varmistaa EU:n DORA-asetuksen II luvun mukaisen digitaalisen häiriönsietokyvyn ja tieto- ja viestintätekniikan järjestel-mien teknisen turvallisuuden, mukaan lukien ulkoistettavat toiminnot. Tämä asetus tulee voimaan 17 päivänä tammikuuta 2025.",
+      "section_number": "15",
+      "chapter_number": 1,
+      "statute_id": "1040/2017"
+    }
+  ],
+  "clauses": [
+    {
+      "id": "e596e2b6-954b-4be9-86d0-eb09e2f1bd8a",
+      "node_type": "Clause",
+      "publisher": "finlex",
+      "title": "§ 14 mom 2",
+      "text": "2) \n                                    sisäisen valvonnan, riskienhallinnan ja liiketoiminnasta riippumattoman riskienhallinnan arvioinnin järjestämisestä, mukaan lukien finanssialan digitaalisesta häiriönsietokyvystä ja asetusten (EY) N:o 1060/2009, (EU) N:o 648/2012, (EU) N:o 600/2014, (EU) N:o 909/2014 ja (EU) 2016/1011 muuttamisesta annetun Euroopan parlamentin ja neuvoston asetuksen (EU) 2022/2554, jäljempänäEU:n DORA-asetus, mukaiset tieto- ja viestintätekniikan palvelujen käyttöä koskevat järjestelyt;",
+      "clause_number": 2,
+      "section_number": "14",
+      "statute_id": "1040/2017"
+    },
+    {
+      "id": "1b869261-3725-410a-98ac-228db5bc2209",
+      "node_type": "Clause",
+      "publisher": "finlex",
+      "title": "§ 14 mom 8",
+      "text": "8) operatiivisen tai turvallisuutta koskevan poikkeaman ja siihen liittyvien asiakasvalitusten valvonta-, käsittely- ja seurantajärjestelmistä sekä näiden raportointijärjestelmästä, jossa otetaan huomioon EU:n DORA-asetuksen III luvun mukaiset tieto- ja viestintätekniikkaan liittyvistä poikkeamista raportointia koskevat velvoitteet;",
+      "clause_number": 8,
+      "section_number": "14",
+      "statute_id": "1040/2017"
+    }
+  ],
+  "cross_references": [],
+  "raw_html_path": "C:\\Users\\danit\\finance-hack\\aalto-hackaton-2026\\data\\raw\\finlex\\Asetus\\Valtiovarainministeriön asetus maksulaitoksen toimilupahakemukseen liitettävistä selvityksistä annetun valtiovarainministeriön asetuksen 14 ja 15 §_n muuttamisesta.html"
+}

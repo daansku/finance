@@ -1,0 +1,2400 @@
+{
+  "statute": {
+    "id": "8460b7e5-c5d8-43d0-8449-b36624958f1e",
+    "node_type": "Statute",
+    "publisher": "finlex",
+    "title": "Asetus Tampereen yliopistosta",
+    "text": "Asetus Tampereen yliopistosta",
+    "statute_id": "",
+    "finlex_url": ""
+  },
+  "chapters": [
+    {
+      "id": "60feaa91-565a-4667-a8a0-03e44bf47b5e",
+      "node_type": "Chapter",
+      "publisher": "finlex",
+      "title": "Chapter 1",
+      "text": "1 luku Yleisiä säännöksiä",
+      "chapter_number": 1,
+      "statute_id": ""
+    },
+    {
+      "id": "6d29eef6-4a70-4564-868e-659648903c73",
+      "node_type": "Chapter",
+      "publisher": "finlex",
+      "title": "Chapter 2",
+      "text": "2 luku Valtuusto",
+      "chapter_number": 2,
+      "statute_id": ""
+    },
+    {
+      "id": "a4000ff6-ab93-4acf-9d90-2aaaaec21ca6",
+      "node_type": "Chapter",
+      "publisher": "finlex",
+      "title": "Chapter 3",
+      "text": "3 luku Valtuuston vaalit",
+      "chapter_number": 3,
+      "statute_id": ""
+    },
+    {
+      "id": "12b1e50e-7bc8-416b-a85e-591e74fbebec",
+      "node_type": "Chapter",
+      "publisher": "finlex",
+      "title": "Chapter 4",
+      "text": "4 luku Hallitus",
+      "chapter_number": 4,
+      "statute_id": ""
+    },
+    {
+      "id": "62b16a28-30c4-4adc-ad16-2f502688f837",
+      "node_type": "Chapter",
+      "publisher": "finlex",
+      "title": "Chapter 5",
+      "text": "5 luku Kansleri ja muutoksenhakulautakunta",
+      "chapter_number": 5,
+      "statute_id": ""
+    },
+    {
+      "id": "969c801d-42d0-4248-8b05-0ba730213505",
+      "node_type": "Chapter",
+      "publisher": "finlex",
+      "title": "Chapter 6",
+      "text": "6 luku Rehtori ja hallintovirasto",
+      "chapter_number": 6,
+      "statute_id": ""
+    },
+    {
+      "id": "735b6afe-cfda-4029-88fa-430ad64ac6a0",
+      "node_type": "Chapter",
+      "publisher": "finlex",
+      "title": "Chapter 7",
+      "text": "7 luku Tiedekunnat ja opetusjaosto",
+      "chapter_number": 7,
+      "statute_id": ""
+    },
+    {
+      "id": "5a02922e-56b8-4770-9a90-a6afd0709f45",
+      "node_type": "Chapter",
+      "publisher": "finlex",
+      "title": "Chapter 8",
+      "text": "8 luku Laitokset",
+      "chapter_number": 8,
+      "statute_id": ""
+    },
+    {
+      "id": "38ecd10d-23ad-4c34-a3ce-558cc0dddef3",
+      "node_type": "Chapter",
+      "publisher": "finlex",
+      "title": "Chapter 9",
+      "text": "9 luku Erilliset laitokset",
+      "chapter_number": 9,
+      "statute_id": ""
+    },
+    {
+      "id": "72dd578f-ff19-460b-b59a-1b070a1b9cde",
+      "node_type": "Chapter",
+      "publisher": "finlex",
+      "title": "Chapter 10",
+      "text": "10 luku Rahastot",
+      "chapter_number": 10,
+      "statute_id": ""
+    },
+    {
+      "id": "32a2c0a9-3a37-49c6-b594-bacfdc0abe2d",
+      "node_type": "Chapter",
+      "publisher": "finlex",
+      "title": "Chapter 11",
+      "text": "11 luku Asioiden ratkaiseminen",
+      "chapter_number": 11,
+      "statute_id": ""
+    },
+    {
+      "id": "46077c21-31ec-44af-b06c-662c1ed6745e",
+      "node_type": "Chapter",
+      "publisher": "finlex",
+      "title": "Chapter 12",
+      "text": "12 luku Virkamiesten nimittäminen ja muun henkilökunnan ottaminen",
+      "chapter_number": 12,
+      "statute_id": ""
+    },
+    {
+      "id": "ce125e16-57b1-472e-bfb3-0108d1208fac",
+      "node_type": "Chapter",
+      "publisher": "finlex",
+      "title": "Chapter 13",
+      "text": "13 luku Virkavapaus",
+      "chapter_number": 13,
+      "statute_id": ""
+    },
+    {
+      "id": "b2105360-f434-4506-ba33-5d844bd57de4",
+      "node_type": "Chapter",
+      "publisher": "finlex",
+      "title": "Chapter 14",
+      "text": "14 luku Opetus, tutkinnot ja oppiarvot",
+      "chapter_number": 14,
+      "statute_id": ""
+    },
+    {
+      "id": "fcfc3217-cfbe-4b71-ad74-aff88da3a4d2",
+      "node_type": "Chapter",
+      "publisher": "finlex",
+      "title": "Chapter 15",
+      "text": "15 luku Opiskeluoikeus ja opiskelijat",
+      "chapter_number": 15,
+      "statute_id": ""
+    },
+    {
+      "id": "5741ba75-6c21-42de-bfe2-ff83705575e5",
+      "node_type": "Chapter",
+      "publisher": "finlex",
+      "title": "Chapter 16",
+      "text": "16 luku Opiskelijoiden oikeusturva ja kurinpito",
+      "chapter_number": 16,
+      "statute_id": ""
+    },
+    {
+      "id": "6c0228e9-da26-44e5-9a59-32ebbf2dfb43",
+      "node_type": "Chapter",
+      "publisher": "finlex",
+      "title": "Chapter 17",
+      "text": "17 luku Muutoksenhaku",
+      "chapter_number": 17,
+      "statute_id": ""
+    },
+    {
+      "id": "9273b614-7ba0-4ef1-94cc-cae823004fa1",
+      "node_type": "Chapter",
+      "publisher": "finlex",
+      "title": "Chapter 18",
+      "text": "18 luku Erinäisiä säännöksiä",
+      "chapter_number": 18,
+      "statute_id": ""
+    },
+    {
+      "id": "ebcbdb78-7277-45a4-be8b-916f6a03cc71",
+      "node_type": "Chapter",
+      "publisher": "finlex",
+      "title": "Chapter 19",
+      "text": "19 luku Voimaantulo- ja siirtymäsäännökset",
+      "chapter_number": 19,
+      "statute_id": ""
+    }
+  ],
+  "sections": [
+    {
+      "id": "2f813568-e93e-4de7-9cb0-e69e8f023ab8",
+      "node_type": "Section",
+      "publisher": "finlex",
+      "title": "1 §",
+      "text": "Yliopiston hallintoa hoitavat valtuusto, hallitus, kansleri, rehtori, hallintovirasto, tiedekuntaneuvostot, opetusjaostoneuvosto, laitosneuvostot, johtokunnat sekä dekaanit ja laitosten johtajat. Lisäksi on muutoksenhakuasioita varten muutoksenhakulautakunta. Yliopistoon kuuluvasta harjoittelukoulusta on voimassa niiltä osin kuin siitä ei ole erikseen säädetty, mitä tässä asetuksessa säädetään.",
+      "section_number": "1",
+      "chapter_number": 1,
+      "statute_id": ""
+    },
+    {
+      "id": "0152cf55-c0ca-4440-9690-837a28369771",
+      "node_type": "Section",
+      "publisher": "finlex",
+      "title": "2 §",
+      "text": "Yliopiston päätösvaltaa käyttävän monijäsenisen hallintoelimen ja muutoksenhakulautakunnan jäsenenä voi olla vain yliopistoon kuuluva täysivaltainen henkilö, joka on Suomen kansalainen tai virkamies Suomessa. Yliopiston hallintoelinten ja muutoksenhakulautakunnan jäsenet toimivat virkavastuulla.",
+      "section_number": "2",
+      "chapter_number": 1,
+      "statute_id": ""
+    },
+    {
+      "id": "cdc7922c-7e56-490f-9270-aa997b0b7c6c",
+      "node_type": "Section",
+      "publisher": "finlex",
+      "title": "3 §",
+      "text": "Yliopiston hallintoelimen tai muutoksenhakulautakunnan jäseneksi ei voida valita tai määrätä ketään vastoin hänen tahtoaan. Oikeutta kieltäytymiseen ei kuitenkaan ole yliopistoon virkasuhteessa olevalla henkilöllä, jos hallintoelimeen ei muuten saada riittävää määrää jäseniä tai varajäseniä. Hallintoelimen jäsen ei saa kieltäytyä ottamasta vastaan hänelle hallintoelimen järjestäytyessä tulevaa tehtävää.",
+      "section_number": "3",
+      "chapter_number": 1,
+      "statute_id": ""
+    },
+    {
+      "id": "ffd38236-e1a3-4c75-865a-a5cdc2f16729",
+      "node_type": "Section",
+      "publisher": "finlex",
+      "title": "4 §",
+      "text": "Tampereen yliopistoon kuuluvat sen opettajat, tutkijat ja muu henkilökunta sekä opiskelijat.",
+      "section_number": "4",
+      "chapter_number": 1,
+      "statute_id": ""
+    },
+    {
+      "id": "96b2c86c-75df-493d-8b62-10013f989b8b",
+      "node_type": "Section",
+      "publisher": "finlex",
+      "title": "5 §",
+      "text": "Yliopiston henkilökuntaan kuuluvaksi katsotaan: Opiskelijaksi katsotaan yliopistoon läsnä olevaksi opiskelijaksi ilmoittautunut henkilö, jolla on oikeus suorittaa yliopistossa tutkinto. Vaaleissa ei opiskelijaksi kuitenkaan katsota henkilöä, joka 1 momentin mukaan kuuluu henkilökuntaan.",
+      "section_number": "5",
+      "chapter_number": 1,
+      "statute_id": ""
+    },
+    {
+      "id": "032f655d-6bdd-4add-b74e-60647ea39b50",
+      "node_type": "Section",
+      "publisher": "finlex",
+      "title": "6 §",
+      "text": "Valtuustoon kuuluu 30 jäsentä. Jäsenistä valitsevat keskuudestaan ryhmittäin yliopiston vakinaiset professorit ja apulaisprofessorit 10 jäsentä ja muu henkilökunta 10 jäsentä kolmeksi kalenterivuodeksi kerrallaan. Lisäksi kumpikin ryhmä valitsee keskuudestaan kullekin jäsenelle kaksi henkilökohtaista varamiestä. Valinta toimitetaan välittömillä, suhteellisilla ja salaisilla vaaleilla. Tampereen yliopiston ylioppilaskunnan edustajisto valitsee suhteellisilla vaaleilla opiskelijoiden keskuudesta 10 jäsentä ja kullekin näistä henkilökohtaisen varamiehen kalenterivuodeksi kerrallaan. Valtuusto valitsee keskuudestaan puheenjohtajan ja varapuheenjohtajan. Jos valtuuston jäsen 5§:n mukaan ei enää kuulu yliopistoon, tulee ensimmäinen varamies hänen tilalleen jäljellä olevaksi toimikaudeksi. Mikäli tämäkin lakkaa kuulumasta yliopistoon, tulee toinen varamies hänen tilalleen.",
+      "section_number": "6",
+      "chapter_number": 2,
+      "statute_id": ""
+    },
+    {
+      "id": "f4706b5b-da06-4e89-827d-674106c5f7d6",
+      "node_type": "Section",
+      "publisher": "finlex",
+      "title": "7 §",
+      "text": "Valtuuston tehtävänä on:",
+      "section_number": "7",
+      "chapter_number": 2,
+      "statute_id": ""
+    },
+    {
+      "id": "7c47c308-792b-4845-a4c9-428e15d0f3e8",
+      "node_type": "Section",
+      "publisher": "finlex",
+      "title": "8 §",
+      "text": "Valtuusto kokoontuu, milloin puheenjohtaja tai hänen ollessaan estynyt varapuheenjohtaja tai hallitus katsoo sen tarpeelliseksi taikka milloin vähintään viidennes valtuuston jäsenistä sitä ilmoittamansa asian käsittelyä varten kirjallisesti pyytää. Kutsu valtuuston kokoukseen on lähetettävä viimeistään seitsemän päivää ennen kokousta. Käsiteltävät asiat on mainittava kokouskutsussa. Valtuusto on päätösvaltainen, kun kokouksen puheenjohtaja ja vähintään 15 muuta jäsentä on läsnä.",
+      "section_number": "8",
+      "chapter_number": 2,
+      "statute_id": ""
+    },
+    {
+      "id": "e9117afc-0c62-4d44-85d4-311bd5e6a785",
+      "node_type": "Section",
+      "publisher": "finlex",
+      "title": "9 §",
+      "text": "Valtuuston 6§:n 2 momentissa tarkoitettujen jäsenten vaalissa ovat vaalioikeutettuja: Vaalioikeutettu saa äänestää ryhmässään yhtä ehdokaslistaa, johon kuuluu samasta ryhmästä varsinainen jäsenehdokas ja ehdokkaat tämän ensimmäiseksi ja toiseksi varamieheksi.",
+      "section_number": "9",
+      "chapter_number": 3,
+      "statute_id": ""
+    },
+    {
+      "id": "e71707a5-1204-4e1f-986e-d05b39a92472",
+      "node_type": "Section",
+      "publisher": "finlex",
+      "title": "10 §",
+      "text": "Hallitus asettaa vaalia varten vaalilautakunnan, jonka tehtävänä on huolehtia vaalien toimeenpanoon liittyvistä tehtävistä siten kuin siitä on säädetty tai määrätty. Vaalilautakunnan puheenjohtajana on hallintojohtaja sekä muina jäseninä kuusi henkilöä, joiden tulee edustaa mahdollisimman tasapuolisesti 9§:n 1 momentissa mainittuja ryhmiä. Vaalilautakunta valitsee keskuudestaan varapuheenjohtajan. Sihteerinä toimii hallintoviraston määräämä yliopiston virkamies.",
+      "section_number": "10",
+      "chapter_number": 3,
+      "statute_id": ""
+    },
+    {
+      "id": "70725d23-bbff-43e5-b194-4498a7bfc1cc",
+      "node_type": "Section",
+      "publisher": "finlex",
+      "title": "11 §",
+      "text": "Vaalilautakunta laatii vaaliluettelon, johon merkitään ne henkilöt, jotka ovat vaalioikeutettuja. Jokaisesta vaalioikeutetusta merkitään, kumpaan 9§:n 1 momentissa mainituista ryhmistä hän kuuluu ja onko hän vaalikelpoinen.",
+      "section_number": "11",
+      "chapter_number": 3,
+      "statute_id": ""
+    },
+    {
+      "id": "8c57ff80-7fb4-48d8-8d06-af83d6c1a460",
+      "node_type": "Section",
+      "publisher": "finlex",
+      "title": "12 §",
+      "text": "Henkilö, joka katsoo, että vaaliluettelossa on vaalioikeuteen tai vaalikelpoisuuteen vaikuttava virhe, voi jättää vaalilautakunnalle kirjallisen oikaisuvaatimuksen seitsemän päivän kuluessa luettelon julkistamisesta. Vaalilautakunnan on annettava päätös seitsemän päivän kuluessa 1 momentissa säädetyn määräajan päättymisestä. Tämän jälkeen vaalilautakunta vahvistaa ja julkistaa lopullisen vaaliluettelon.",
+      "section_number": "12",
+      "chapter_number": 3,
+      "statute_id": ""
+    },
+    {
+      "id": "f4871bc2-ad56-466a-b097-51b558db2e19",
+      "node_type": "Section",
+      "publisher": "finlex",
+      "title": "13 §",
+      "text": "Vaalioikeutetulla on 14 päivän kuluessa lopullisen vaaliluettelon julkistamisesta oikeus asettaa omassa ryhmässään ehdokkaita jäsenten ja varajäsenten vaalia varten. Ehdokas asetetaan jättämällä vaalilautakunnalle kolmen vaalikelpoisen henkilön vaalilautakunnan vahvistamalla lomakkeella antama kirjallinen suostumus. Ehdokaslistat ovat kolmen ehdokkaan listoja. Ehdokaslistassa ensimmäinen henkilö on ehdolla jäseneksi, toinen ensimmäiseksi henkilökohtaiseksi varamieheksi ja kolmas toiseksi henkilökohtaiseksi varamieheksi. Ehdokkailla on mahdollisuus 9§:ssä mainittujen ryhmien sisällä muodostaa vaaliliittoja. Ilmoitus vaaliliitosta tulee jättää vaalilautakunnalle 1 momentissa säädetyn ajan kuluessa. Vaaliliitossa saa olla ehdokkaita enintään asianomaisesta ryhmästä valittavien jäsenten kaksinkertainen määrä. Ehdokkaiden asettamisajan päätyttyä vaalilautakunta julkistaa välittömästi ehdokaslistojen yhdistelmän.",
+      "section_number": "13",
+      "chapter_number": 3,
+      "statute_id": ""
+    },
+    {
+      "id": "285ed7a8-7c29-4b58-ae2c-e9f1183456bf",
+      "node_type": "Section",
+      "publisher": "finlex",
+      "title": "14 §",
+      "text": "Valtuuston vaali järjestetään yhtenä tai kahtena arkipäivänä. Vaalitoimituksen päätyttyä vaalilautakunta laskee annetut äänet. Samaan vaaliliittoon kuuluvien ehdokaslistojen keskinäinen järjestys määräytyy äänimäärien mukaan. Tässä järjestyksessä ehdokaslistoille annetaan vertausluvut siten, että ensimmäinen ehdokaslista saa vertausluvukseen vaaliliiton hyväksi annettujen äänien koko lukumäärän, toinen puolet siitä, kolmas kolmanneksen, neljäs neljänneksen ja niin edelleen. Vaaliliittoon kuulumattoman listan vertausluvuksi tulee sen äänimäärä. Jos äänimäärät tai vertausluvut ovat yhtä suuret, ratkaistaan ehdokaslistojen keskinäinen järjestys arpomalla.",
+      "section_number": "14",
+      "chapter_number": 3,
+      "statute_id": ""
+    },
+    {
+      "id": "fd6d12c8-9068-4300-b3c0-3b2ca7b1b6c7",
+      "node_type": "Section",
+      "publisher": "finlex",
+      "title": "15 §",
+      "text": "Äänestyksen tuloksen määräämiseksi asetetaan ehdokaslistat 9§:ssä mainituissa ryhmissä erikseen vertauslukujen mukaiseen järjestykseen. Jos äänimäärät ovat yhtä suuret, ratkaistaan listojen keskinäinen järjestys arpomalla. Vaalilautakunta julistaa valituksi äänestystuloksen mukaan järjestyksessä niin monta listaa kuin on valittavia.",
+      "section_number": "15",
+      "chapter_number": 3,
+      "statute_id": ""
+    },
+    {
+      "id": "18a252de-973f-4772-b63d-9608d872e161",
+      "node_type": "Section",
+      "publisher": "finlex",
+      "title": "16 §",
+      "text": "Tarkemmat vaaleja koskevat määräykset annetaan vaalijohtosäännössä.",
+      "section_number": "16",
+      "chapter_number": 3,
+      "statute_id": ""
+    },
+    {
+      "id": "4392bcb9-c1de-4f5b-bdba-4bf4baf6e81e",
+      "node_type": "Section",
+      "publisher": "finlex",
+      "title": "17 §",
+      "text": "Hallitukseen kuuluu 12 jäsentä. Lisäksi rehtori ja vararehtorit kuuluvat hallitukseen itseoikeutettuina jäseninä. Valtuusto määrää toimikaudekseen hallitukseen kahdeksan jäsentä ja kullekin henkilökohtaisen varamiehen. Jäsenistä tulee määrätä vähintään kuusi 5§:n 1 momentin 1 kohdassa tarkoitetuista henkilöistä. Tampereen yliopiston ylioppilaskunnan edustajisto valitsee suhteellisilla vaaleilla hallitukseen opiskelijoiden keskuudesta neljä jäsentä ja kullekin näistä henkilökohtaisen varajäsenen kalenterivuodeksi kerrallaan. Jos hallituksen jäsen tai varajäsen 5§:n mukaan ei enää kuulu yliopistoon tai jos hänet valitaan rehtoriksi tai vararehtoriksi, valtuusto määrää hänen tilalleen uuden jäsenen tai varajäsenen jäljellä olevaksi toimikaudeksi. Hallintojohtajalla on oikeus olla läsnä ja käyttää puhevaltaa hallituksen kokouksissa.",
+      "section_number": "17",
+      "chapter_number": 4,
+      "statute_id": ""
+    },
+    {
+      "id": "8c41dd1b-4b4c-4e09-8609-f53e47ac4ebe",
+      "node_type": "Section",
+      "publisher": "finlex",
+      "title": "18 §",
+      "text": "Hallituksen tehtävänä on: Hallitus voi ottaa käsiteltäväkseen ja ratkaistavakseen hallintovirastolle 29§:n 1 momentin 8 ja 14 kohdan nojalla kuuluvan asian. Hallitus voi siirtää rehtorin ratkaistavaksi 1 momentin 2, 6, 10 ja 13 kohdassa tarkoitettuja asioita. Hallitus voi saattaa valtuuston ratkaistavaksi toimivaltaansa kuuluvan asian, joka on yliopiston kannalta laajakantoinen tai periaatteellisesti tärkeä. Virkanimitys- tai kurinpitoasiaa ei kuitenkaan voida siirtää valtuustolle.",
+      "section_number": "18",
+      "chapter_number": 4,
+      "statute_id": ""
+    },
+    {
+      "id": "d1f7ee3f-57e1-4758-814d-5f8650d279f0",
+      "node_type": "Section",
+      "publisher": "finlex",
+      "title": "19 §",
+      "text": "Hallituksen puheenjohtajana toimii rehtori tai hänen ollessaan estynyt ensimmäinen, tai jos tämäkin on estynyt, toinen vararehtori. Hallitus kokoontuu, milloin rehtori tai hänen ollessaan estynyt vararehtori katsoo sen tarpeelliseksi tai milloin vähintään neljä hallituksen jäsentä sitä ilmoittamansa asian käsittelyä varten kirjallisesti pyytää. Kutsu hallituksen kokoukseen on lähetettävä viimeistään neljä päivää ennen kokousta. Käsiteltävät asiat on kokouskutsussa mainittava. Pakottavassa tapauksessa voi hallitus läsnä olevien jäsenten yksimielisellä päätöksellä ottaa käsiteltäväksi asian, jota ei ole kokouskutsussa mainittu. Hallitus on päätösvaltainen, kun kokouksen puheenjohtaja ja vähintään puolet muista jäsenistä on läsnä.",
+      "section_number": "19",
+      "chapter_number": 4,
+      "statute_id": ""
+    },
+    {
+      "id": "aa416521-b24d-4c78-b7de-dca8212f1fda",
+      "node_type": "Section",
+      "publisher": "finlex",
+      "title": "20 §",
+      "text": "Kanslerin tulee olla tieteellisesti ansioitunut, korkeakouluopetukseen perehtynyt ja korkeakouluhallintoa tunteva henkilö. Kanslerina ei voi olla Tampereen yliopiston tai muun korkeakoulun virkamies. Kanslerin nimittää tasavallan presidentti valtioneuvoston esityksestä kolmeksi lukuvuodeksi sen jälkeen kun valtuusto on esittänyt kolme ehdokasta. Jos kansleri eroaa ennen toimikautensa päättymistä, nimitetään uusi kansleri toimikauden jäljellä olevaksi ajaksi. Kanslerin ollessa estynyt hoitamasta tehtäviään tai tehtävän ollessa avoinna hoitaa kanslerin tehtäviä rehtori. Kanslerin tehtävänä on nimittää tai ottaa erinäiset opettajat, toimia muutoksenhakulautakunnan puheenjohtajana ja suorittaa muita tehtäviä siten kuin tässä asetuksessa säädetään.",
+      "section_number": "20",
+      "chapter_number": 5,
+      "statute_id": ""
+    },
+    {
+      "id": "34b8caa9-1c38-43c1-9afc-344df5c11de2",
+      "node_type": "Section",
+      "publisher": "finlex",
+      "title": "21 §",
+      "text": "Kansleri ottaa itselleen sihteerin, jonka tulee olla oikeustieteen kandidaatin tutkinnon suorittanut. Kansleri tekee päätöksensä kanslerin sihteerin tai erikseen määrättyjä asioita varten nimeämänsä hallintoviraston virkamiehen esittelystä. Kanslerin ratkaisemat asiat allekirjoittaa kansleri ja varmentaa esittelijä.",
+      "section_number": "21",
+      "chapter_number": 5,
+      "statute_id": ""
+    },
+    {
+      "id": "4c9496b9-6302-4e35-b100-3ec4e8069e4d",
+      "node_type": "Section",
+      "publisher": "finlex",
+      "title": "22 §",
+      "text": "Muutoksenhakulautakuntaan kuuluvat kansleri puheenjohtajana sekä neljä muuta jäsentä. Muut jäsenet ja näille henkilökohtaiset varamiehet määrää valtuusto kolmeksi lukuvuodeksi kerrallaan. Muutoksenhakulautakunnan jäsenistä kahden tulee olla yliopiston vakinaisia virkamiehiä ja yhden oikeustieteen kandidaatin tutkinnon suorittanut. Varajäsenellä tulee olla sama kelpoisuus kuin varsinaisella jäsenellä.",
+      "section_number": "22",
+      "chapter_number": 5,
+      "statute_id": ""
+    },
+    {
+      "id": "a9a5cc3d-2d8d-4021-b139-bdacb5fd5702",
+      "node_type": "Section",
+      "publisher": "finlex",
+      "title": "23 §",
+      "text": "Muutoksenhakulautakunta on päätösvaltainen, kun puheenjohtaja ja kolme jäsentä on läsnä. Jäsenen ollessa estynyt tulee hänen sijaansa hänen varamiehensä. Mikäli jäsenen tai varajäsenen este ilmeisesti kestää kauemmin kuin kuusi kuukautta, on hänen tilalleen jäljellä olevaksi toimikaudeksi määrättävä uusi jäsen tai varajäsen. Muutoksenhakulautakunta tekee päätöksensä esittelystä. Asian käsittelyssä muutoksenhakulautakunnassa noudatetaan laillista oikeudenkäyntijärjestystä. Erimielisyyden sattuessa asia päätetään äänestyksellä noudattaen samaa menettelyä kuin monijäsenisessä tuomioistuimessa. Muutoksenhakulautakunnan sihteerinä ja esittelijänä toimii kanslerin sihteeri.",
+      "section_number": "23",
+      "chapter_number": 5,
+      "statute_id": ""
+    },
+    {
+      "id": "e11a616a-1a00-417f-98a8-9457699bf86f",
+      "node_type": "Section",
+      "publisher": "finlex",
+      "title": "24 §",
+      "text": "Valtuusto valitsee rehtorin sekä ensimmäisen ja toisen vararehtorin kolmeksi lukuvuodeksi. Rehtorin ja vararehtorin tulee olla korkeakouluhallintoon sekä opetus- ja tutkimustoimintaan perehtyneitä. Rehtorin tulee olla yliopiston vakinainen professori ja vararehtorin yliopiston vakinainen opetus- ja tutkimustehtävissä toimiva virkamies, joka on suorittanut tohtorin tutkinnon tai tohtorin arvoon oikeuttavat opinnäytteet. Sillä, joka on ollut rehtorina viimeiset kolme vuotta, on oikeus kieltäytyä vastaanottamasta rehtorin tai vararehtorin tehtävää. Jos muu syy kieltäytymiseen esitetään, riippuu sen hyväksyminen valtuuston harkinnasta.",
+      "section_number": "24",
+      "chapter_number": 6,
+      "statute_id": ""
+    },
+    {
+      "id": "f2613fb5-4140-4c45-aad0-7af4aea22d59",
+      "node_type": "Section",
+      "publisher": "finlex",
+      "title": "25 §",
+      "text": "Rehtorin vaali toimitetaan umpilipuin. Jollei ensimmäisessä äänestyksessä kukaan saa ehdotonta enemmistöä, toimitetaan heti uusi äänestys kahden eniten ääniä saaneen kesken. Äänten mennessä tasan ratkaisee vaalin tuloksen arpa. Ensimmäinen ja toinen vararehtori valitaan yhdessä suhteellisella vaalilla, joka toimitetaan umpilipuin. Äänten mennessä tasan ratkaisee vaalin tuloksen arpa.",
+      "section_number": "25",
+      "chapter_number": 6,
+      "statute_id": ""
+    },
+    {
+      "id": "0c2c9548-c42d-459e-9f24-8bb7ed3174bd",
+      "node_type": "Section",
+      "publisher": "finlex",
+      "title": "26 §",
+      "text": "Rehtori toimii yliopiston esimiehenä sekä johtaa ja valvoo yliopiston toimintaa. Rehtori käyttää yliopiston puhevaltaa tuomioistuimissa ja muissa viranomaisissa sekä edustaa muutenkin yliopistoa. Rehtorilla on oikeus olla läsnä ja käyttää puhevaltaa yliopiston kaikkien hallintoelinten kokouksissa.",
+      "section_number": "26",
+      "chapter_number": 6,
+      "statute_id": ""
+    },
+    {
+      "id": "549504e4-e5af-4c48-86b2-6520382645d8",
+      "node_type": "Section",
+      "publisher": "finlex",
+      "title": "27 §",
+      "text": "Rehtorin tehtävänä on lisäksi: Rehtori voi saattaa hallituksen ratkaistavaksi toimivaltaansa kuuluvan asian, joka on yliopiston kannalta laajakantoinen tai periaatteellisesti tärkeä.",
+      "section_number": "27",
+      "chapter_number": 6,
+      "statute_id": ""
+    },
+    {
+      "id": "53c85d7f-5515-4fef-99de-9e6fd9c84282",
+      "node_type": "Section",
+      "publisher": "finlex",
+      "title": "28 §",
+      "text": "Rehtorin ollessa estynyt hoitaa hänen tehtäviään ensimmäinen vararehtori ja tämänkin ollessa estynyt toinen vararehtori. Rehtori on vapautettu hänen varsinaiseen virkaansa kuuluvista tehtävistä, samoin vararehtori rehtorin tehtäviä hoitaessaan. Opetusministeriö voi myöntää vararehtorille hänelle vararehtorina kuuluvien hallintotehtävien vuoksi vapautuksen opetusvelvollisuudesta enintään sen puoleen määrään saakka.",
+      "section_number": "28",
+      "chapter_number": 6,
+      "statute_id": ""
+    },
+    {
+      "id": "6c7fdbfa-df87-4bb1-a514-36bf351b676c",
+      "node_type": "Section",
+      "publisher": "finlex",
+      "title": "29 §",
+      "text": "Hallintoviraston tehtävänä on: Hallintovirasto voi saattaa hallituksen ratkaistavaksi viraston toimivaltaan kuuluvan asian, joka on yliopiston kannalta laajakantoinen tai periaatteellisesti tärkeä.",
+      "section_number": "29",
+      "chapter_number": 6,
+      "statute_id": ""
+    },
+    {
+      "id": "9cb7d8d6-4812-4c95-834e-d25436103c3a",
+      "node_type": "Section",
+      "publisher": "finlex",
+      "title": "30 §",
+      "text": "Hallintoviraston päällikkönä on hallintojohtaja. Hallintovirastoon kuuluu se hallinto- ja huoltohenkilöstö, jonka sijoittamisesta ei ole toisin säädetty tai määrätty.",
+      "section_number": "30",
+      "chapter_number": 6,
+      "statute_id": ""
+    },
+    {
+      "id": "efc7b2ad-24f7-4f8c-af34-dd9e946349c3",
+      "node_type": "Section",
+      "publisher": "finlex",
+      "title": "31 §",
+      "text": "Hallintojohtajan tehtävänä on:",
+      "section_number": "31",
+      "chapter_number": 6,
+      "statute_id": ""
+    },
+    {
+      "id": "31769a05-e642-4e7a-8b67-bca93de0cddb",
+      "node_type": "Section",
+      "publisher": "finlex",
+      "title": "32 §",
+      "text": "Rehtori ratkaisee ne hallintovirastolle kuuluvat asiat, joita ei ole säädetty tai määrätty hallintojohtajan tai muun virkamiehen ratkaistavaksi. Rehtori voi yksittäistapauksessa ottaa ratkaistavakseen sellaisenkin asian, joka muutoin olisi hallintoviraston virkamiehen ratkaistava. Rehtorin tai hallintojohtajan ratkaistavaksi kuuluva asia voidaan johtosäännössä siirtää hallintoviraston virkamiehen ratkaistavaksi. Hallintoviraston järjestysmuodosta ja tehtävistä annetaan tarkempia määräyksiä hallintoviraston johtosäännössä.",
+      "section_number": "32",
+      "chapter_number": 6,
+      "statute_id": ""
+    },
+    {
+      "id": "12f07175-d1c8-4cac-8d93-9d1db576780e",
+      "node_type": "Section",
+      "publisher": "finlex",
+      "title": "33 §",
+      "text": "Tiedekunnan hallintoa hoitavat tiedekuntaneuvosto ja tiedekunnan dekaani sekä opetusjaoston hallintoa opetusjaostoneuvosto ja opetusjaoston dekaani, joiden toimikausi on kolme kalenterivuotta. Hallitus päättää perusteista, joiden mukaan henkilön kuuluminen tiedekuntaan ja opetusjaostoon määräytyy.",
+      "section_number": "33",
+      "chapter_number": 7,
+      "statute_id": ""
+    },
+    {
+      "id": "ce8dcf1e-0673-4087-b93b-f4c591a2cc8c",
+      "node_type": "Section",
+      "publisher": "finlex",
+      "title": "34 §",
+      "text": "Tiedekuntaneuvostoon kuuluu valtuuston päätöksen mukaan 9, 12, 15, 18, 21 tai 24 jäsentä. Valtuusto määrää tiedekuntaneuvoston jäsenet ja näille henkilökohtaiset varamiehet tiedekuntaan kuuluvista henkilöistä siten, että jäsenistä ja varajäsenistä kolmannes on vakinaisia professoreita ja apulaisprofessoreita sekä kolmannes muita opettajia ja tutkijoita. Lisäksi hallitus määrää tiedekuntaneuvostoon kolmanneksen jäsenistä ja näille henkilökohtaiset varamiehet kalenterivuodeksi kerrallaan Tampereen yliopiston ylioppilaskunnan edustajiston esityksestä. Jäsenistä ja varajäsenistä on enemmän kuin puolet määrättävä  5§:n 1 momentin 1 ja 2 kohdassa tarkoitettujen henkilöiden keskuudesta. Ennen tiedekuntaneuvoston jäsenten määräämistä on niiden laitosten laitosneuvostojen, joiden opetus olennaisesti liittyy tiedekunnassa suoritettaviin tutkintoihin, tehtävä esityksensä asiasta.",
+      "section_number": "34",
+      "chapter_number": 7,
+      "statute_id": ""
+    },
+    {
+      "id": "45c41830-20cb-489f-b55a-f1281425474d",
+      "node_type": "Section",
+      "publisher": "finlex",
+      "title": "35 §",
+      "text": "Tiedekuntaneuvoston tehtävänä on: Tiedekuntaneuvosto voi siirtää päätösvaltaansa dekaanille 1 momentin 9, 12 ja 15 kohdassa tarkoitetuissa asioissa sekä erikseen mainittavissa asioissa, jotka eivät ole tiedekunnan kannalta laajakantoisia tai periaatteellisesti tärkeitä.",
+      "section_number": "35",
+      "chapter_number": 7,
+      "statute_id": ""
+    },
+    {
+      "id": "7bdb3064-19ca-43ce-821c-369c044bd167",
+      "node_type": "Section",
+      "publisher": "finlex",
+      "title": "36 §",
+      "text": "Tiedekuntaneuvosto valitsee toimikaudekseen dekaaniksi ja varadekaaniksi keskuudestaan vakinaisen professorin tai apulaisprofessorin. Dekaani toimii tiedekuntaneuvoston puheenjohtajana ja varadekaani varapuheenjohtajana. Dekaani johtaa ja valvoo tiedekunnan toimintaa sekä ratkaisee ne tiedekunnan toimivaltaan kuuluvat asiat, joita ei ole säädetty tai määrätty tiedekuntaneuvoston ratkaistaviksi, ja ne asiat, joissa tiedekuntaneuvosto on siirtänyt päätösvaltansa dekaanille.",
+      "section_number": "36",
+      "chapter_number": 7,
+      "statute_id": ""
+    },
+    {
+      "id": "ee1c00e3-c6a5-4535-ad1b-fdda8c43169e",
+      "node_type": "Section",
+      "publisher": "finlex",
+      "title": "37 §",
+      "text": "Tiedekuntaneuvosto kokoontuu, milloin dekaani tai hänen ollessaan estynyt varadekaani katsoo sen tarpeelliseksi tai milloin vähintään neljäsosa tiedekuntaneuvoston jäsenistä sitä ilmoittamansa asian käsittelyä varten kirjallisesti pyytää. Kutsu tiedekuntaneuvoston kokoukseen on lähetettävä viimeistään neljä päivää ennen kokousta. Kokouskutsussa on mainittava käsiteltävät asiat. Pakottavassa tapauksessa voi tiedekuntaneuvosto läsnä olevien jäsenten yksimielisellä päätöksellä ottaa käsiteltäväksi asian, jota ei ole mainittu kokouskutsussa. Tiedekuntaneuvosto on päätösvaltainen, kun kokouksen puheenjohtaja ja vähintään puolet neuvoston muista jäsenistä on läsnä, jollei 55§:ssä toisin säädetä. Jos tiedekuntaneuvoston jäsen tai varajäsen 5§:n mukaan ei enää kuulu yliopistoon, määrää hallitus hänen tilalleen uuden jäsenen tai varajäsenen jäljellä olevaksi toimikaudeksi.",
+      "section_number": "37",
+      "chapter_number": 7,
+      "statute_id": ""
+    },
+    {
+      "id": "01169033-06e1-4bfe-8d25-6fbd75d6d3b4",
+      "node_type": "Section",
+      "publisher": "finlex",
+      "title": "38 §",
+      "text": "Opetusjaostoneuvostoon kuuluu valtuuston päätöksen mukaan 9, 12 tai 15 jäsentä. Valtuusto määrää 1 momentissa tarkoitetusta jäsenmäärästä riippuen 6, 8 tai 10 jäsentä ja kullekin varamiehen opetusjaostoon kuuluvien opettajien ja tutkijoiden keskuudesta. Lisäksi hallitus määrää opetusjaostoneuvostoon kolmanneksen jäsenistä kalenterivuodeksi kerrallaan Tampereen yliopiston ylioppilaskunnan edustajiston esityksestä. Jäsenistä ja varajäsenistä on enemmän kuin puolet määrättävä 5§:n 1 momentin 1 ja 2 kohdassa tarkoitettujen henkilöiden keskuudesta. Ennen opetusjaostoneuvostojen jäsenten määräämistä on niiden laitosten laitosneuvostojen, joiden opetus olennaisesti liittyy opetusjaostossa suoritettaviin tutkintoihin, tehtävä esityksensä asiassa.",
+      "section_number": "38",
+      "chapter_number": 7,
+      "statute_id": ""
+    },
+    {
+      "id": "2b5b8cad-7039-479c-b617-1a494d653ff7",
+      "node_type": "Section",
+      "publisher": "finlex",
+      "title": "39 §",
+      "text": "Opetusjaoston dekaanista sekä opetusjaostoneuvostosta on soveltuvin osin voimassa, mitä 35-37§:ssä on säädetty. Dekaaniksi ja varadekaaniksi voidaan kuitenkin valita opetusjaostoneuvostoon kuuluva opettajan viran haltija.",
+      "section_number": "39",
+      "chapter_number": 7,
+      "statute_id": ""
+    },
+    {
+      "id": "fc283f2d-d865-4708-b965-15e48f7b91af",
+      "node_type": "Section",
+      "publisher": "finlex",
+      "title": "40 §",
+      "text": "Harjoittelukoulun hallintoasiat hoitaa, käsittelee ja ratkaisee se hallintoelin, jolle vastaavanlaiset tehtävät tämän asetuksen mukaan tai muuten kuuluvat, jollei harjoittelukouluasetuksessa (336/85) ole toisin säädetty. Hallitus voi määrätä, että 1 momentin ja 29§:n 1 momentin 14 kohdan mukaan hallintovirastolle kuuluvan asian hoitaa, käsittelee ja ratkaisee kasvatustieteiden tiedekunta.",
+      "section_number": "40",
+      "chapter_number": 7,
+      "statute_id": ""
+    },
+    {
+      "id": "62fdbd8d-8f9d-4748-afa0-75a4a1b38415",
+      "node_type": "Section",
+      "publisher": "finlex",
+      "title": "41 §",
+      "text": "Laitos on yhden tai useamman oppiaineen ja tutkimusalan muodostama perusyksikkö. Laitosjaosta päättää valtuusto. Laitoksen hallintoa hoitavat laitosneuvosto ja laitoksen johtaja, joiden toimikausi on kolme kalenterivuotta.",
+      "section_number": "41",
+      "chapter_number": 8,
+      "statute_id": ""
+    },
+    {
+      "id": "b7ec0bb8-1966-4c13-adf7-9073c4e53ecb",
+      "node_type": "Section",
+      "publisher": "finlex",
+      "title": "42 §",
+      "text": "Laitosneuvostoon kuuluu valtuuston päätöksen mukaan 6, 9 tai 12 jäsentä. Valtuusto määrää laitosneuvostoon jäsenet ja näille henkilökohtaiset varamiehet laitokseen kuuluvista henkilöistä siten, että jäsenistä ja varajäsenistä kolmannes on vakinaisia professoreita ja apulaisprofessoreita sekä kolmannes opettajia, tutkijoita ja muuta henkilökuntaa. Lisäksi hallitus määrää laitosneuvostoon kolmanneksen jäsenistä ja näille henkilökohtaiset varamiehet kalenterivuodeksi kerrallaan Tampereen yliopiston ylioppilaskunnan edustajiston esityksestä. Jos laitokseen ei kuulu riittävästi vakinaisia professoreita ja apulaisprofessoreita, voidaan puuttuvien vakinaisten virkamiesten sijasta laitosneuvostoon määrätä virkaatoimittavia professoreita tai apulaisprofessoreita tai, milloin heitäkään ei ole riittävästi, muita vakinaisia tai virkaatoimittavia opettajia. Ennen laitosneuvoston jäsenten määräämistä on asianomaisille ryhmille varattava tilaisuus tehdä esityksensä asiassa siten kuin valtuusto tarkemmin määrää. Opiskelijoita edustavien jäsenten osalta esityksen tekee ylioppilaskunnan edustajisto. Hallitus päättää perusteista, joiden mukaan laitokseen kuuluminen määräytyy. Henkilö voi samanaikaisesti kuulua enintään kahteen laitokseen. Jos laitosneuvoston jäsen tai varajäsen 5§:n mukaan ei enää kuulu yliopistoon, hallitus määrää hänen tilalleen uuden jäsenen tai varajäsenen jäljellä olevaksi toimikaudeksi.",
+      "section_number": "42",
+      "chapter_number": 8,
+      "statute_id": ""
+    },
+    {
+      "id": "77b5501f-df6a-44c7-90ad-6afa929df941",
+      "node_type": "Section",
+      "publisher": "finlex",
+      "title": "43 §",
+      "text": "Laitosneuvoston tehtävänä on: Laitosneuvosto voi siirtää päätösvaltaansa laitoksen johtajalle 1 momentin 6, 7 ja 10 kohdassa tarkoitetuissa asioissa sekä erikseen mainittavissa asioissa, jotka eivät ole laitoksen kannalta laajakantoisia tai periaatteellisesti tärkeitä. Laitosneuvoston kokouksista on soveltuvin osin voimassa, mitä 37§:ssä on säädetty.",
+      "section_number": "43",
+      "chapter_number": 8,
+      "statute_id": ""
+    },
+    {
+      "id": "15e809f6-774b-4e9c-abc8-6ee9ab676326",
+      "node_type": "Section",
+      "publisher": "finlex",
+      "title": "44 §",
+      "text": "Laitoksen johtajaksi ja hänen varamiehekseen laitosneuvosto valitsee toimikaudekseen keskuudestaan tohtorin tutkinnon tai tohtorin arvoon oikeuttavat opinnäytteet suorittaneen vakinaisen virkamiehen, jollei valtuusto jonkin laitoksen osalta toisin määrää.",
+      "section_number": "44",
+      "chapter_number": 8,
+      "statute_id": ""
+    },
+    {
+      "id": "89010e09-3c4b-4022-85f3-b0c0ab1bef21",
+      "node_type": "Section",
+      "publisher": "finlex",
+      "title": "45 §",
+      "text": "Laitoksen johtaja johtaa ja valvoo laitoksen toimintaa sekä ratkaisee ne laitokselle kuuluvat asiat, joita ei ole säädetty tai määrätty laitosneuvoston ratkaistaviksi. Laitoksen johtajan tehtävänä on lisäksi: Rehtori voi myöntää opettajankoulutuslaitoksen johtajalle vapautusta opetusvelvollisuudesta enintään sen puoleen määrään saakka.",
+      "section_number": "45",
+      "chapter_number": 8,
+      "statute_id": ""
+    },
+    {
+      "id": "800e8ca8-888e-4144-9446-a5be22601aca",
+      "node_type": "Section",
+      "publisher": "finlex",
+      "title": "46 §",
+      "text": "Kasvatustieteiden tiedekunnassa on kasvatustieteen laitos, aikuis- ja nuorisokasvatuksen laitos, Tampereen opettajankoulutuslaitos ja Hämeenlinnan opettajankoulutuslaitos. Tampereen opettajankoulutuslaitokseen kuuluu yläasteen ja lukion käsittävä harjoittelukoulu. Hämeenlinnan opettajankoulutuslaitokseen kuuluu ala-asteen käsittävä harjoittelukoulu.",
+      "section_number": "46",
+      "chapter_number": 8,
+      "statute_id": ""
+    },
+    {
+      "id": "da9ecce5-ee45-4ea7-a5e3-a5bbe5c82fba",
+      "node_type": "Section",
+      "publisher": "finlex",
+      "title": "47 §",
+      "text": "Yliopiston erillisiä laitoksia ovat kirjasto, tietokonekeskus, täydennyskoulutuskeskus, Yhteiskuntatieteiden tutkimuslaitos, puheopin laitos ja kielikeskus. Tulo- ja menoarvion rajoissa yliopistoon voidaan opetusministeriön päätöksellä perustaa muitakin erillisiä laitoksia.",
+      "section_number": "47",
+      "chapter_number": 9,
+      "statute_id": ""
+    },
+    {
+      "id": "7396c9ce-deef-4cea-beea-6bb8964ed746",
+      "node_type": "Section",
+      "publisher": "finlex",
+      "title": "48 §",
+      "text": "Erillisen laitoksen hallintoa hoitavat johtokunta ja johtaja tai johtajaksi määrätty yliopiston vakinainen tai virkaatoimittava virkamies. Tarkemmat määräykset laitoksen toiminnasta annetaan johtosäännössä.",
+      "section_number": "48",
+      "chapter_number": 9,
+      "statute_id": ""
+    },
+    {
+      "id": "8f8d12fe-2e78-4a09-acf8-fe561900ebad",
+      "node_type": "Section",
+      "publisher": "finlex",
+      "title": "49 §",
+      "text": "Yliopistolle lahjoitetut ja testamentatut, sen hoidossa olevien rahastojen varat pidetään erillään muista valtion varoista. Rahastojen varat on sijoitettava varmalla ja tuloa tuottavalla tavalla. Lahjoitus- ja testamenttivarojen vastaanottamisesta ja käytöstä on muilta osin voimassa, mitä yleismääräyksiksi lahjoitus- ja testamenttivarojen vastaanottamisesta ja käytöstä valtion virastoissa ja laitoksissa annetussa valtioneuvoston päätöksessä (35/74) on määrätty.",
+      "section_number": "49",
+      "chapter_number": 10,
+      "statute_id": ""
+    },
+    {
+      "id": "50316283-ec3e-4283-a1d7-09141b6cf043",
+      "node_type": "Section",
+      "publisher": "finlex",
+      "title": "50 §",
+      "text": "Hallitus, kansleri, muutoksenhakulautakunta, tiedekuntaneuvosto, opetusjaostoneuvosto, laitosneuvosto ja johtokunta sekä rehtori ja hallintoviraston päätösvaltaa käyttävä virkamies sekä dekaani ja laitoksen johtaja tekevät päätöksensä esittelystä. Asian esittelystä huolehtii hallintoviraston määräämä virkamies. Esittelymenettelyä ei noudateta tieteellistä pätevyyttä ratkaistaessa, opetusnäytettä ja opintosuoritusta arvosteltaessa eikä dekaania, varadekaania, laitoksen johtajaa ja tämän varamiestä valittaessa. Asioista, jotka käsitellään hallituksen, muutoksenhakulautakunnan, tiedekuntaneuvoston, opetusjaostoneuvoston, laitosneuvoston ja johtokunnan kokouksessa, laaditaan esittelylistat. Esittelylistaan merkitään kunkin asian kohdalle tehty päätös ja päätöksentekoon osallistuneiden nimet. Esittelylistat muodostavat hallintoelimen pöytäkirjan, jonka allekirjoittavat puheenjohtaja sekä esittelijä tai sihteeri. Jos esittelymenettelyä ei ole tai jos asiasta on äänestetty taikka esittelijä on ilmoittanut eriävän mielipiteensä tai jos puheenjohtaja katsoo sen muutoin tarpeelliseksi, laaditaan erillinen pöytäkirja. Pöytäkirjaan merkitty eriävä mielipide on sen esittäjän allekirjoitettava, ja puheenjohtajan on todettava se esitetyn mukaiseksi.",
+      "section_number": "50",
+      "chapter_number": 11,
+      "statute_id": ""
+    },
+    {
+      "id": "bdea09ec-96aa-43dd-be41-550425a09d05",
+      "node_type": "Section",
+      "publisher": "finlex",
+      "title": "51 §",
+      "text": "Hallintoelimen kokouksessa käsitellyistä asioista laaditut toimituskirjat allekirjoittaa puheenjohtaja ja varmentaa esittelijä tai, jos esittelymenettelyä ei ole, kokouksen sihteeri. Kanslerin, rehtorin, hallintoviraston ja dekaanin sekä laitoksen johtajan ratkaisemien asioiden toimituskirjat allekirjoittaa asian ratkaisija ja varmentaa esittelijä. Lähetteet, ilmoitukset ja niihin verrattavat kirjeet allekirjoittaa esittelijä.",
+      "section_number": "51",
+      "chapter_number": 11,
+      "statute_id": ""
+    },
+    {
+      "id": "85be9965-8150-40b0-8f71-ba5ac267f9ea",
+      "node_type": "Section",
+      "publisher": "finlex",
+      "title": "52 §",
+      "text": "Valtuuston, hallituksen, tiedekuntaneuvoston, opetusjaostoneuvoston, laitosneuvoston ja johtokunnan kokouksessa päätetään muut kuin vaaliasiat erimielisyyden sattuessa yksinkertaisella äänten enemmistöllä. Äänten mennessä tasan voittaa mielipide, jota puheenjohtaja on kannattanut. Viran täyttämistä ja opiskelijoiden kurinpitoa koskevissa asioissa suoritetaan äänestys kuitenkin samaa menettelyä noudattaen kuin monijäsenisessä tuomioistuimessa.",
+      "section_number": "52",
+      "chapter_number": 11,
+      "statute_id": ""
+    },
+    {
+      "id": "9dc7e207-607f-43d1-9adf-5d0a869565e7",
+      "node_type": "Section",
+      "publisher": "finlex",
+      "title": "53 §",
+      "text": "Vaali toimitetaan enemmistövaalina. Jollei ensimmäisessä äänestyksessä kukaan saa ehdotonta äänten enemmistöä, toimitetaan uusi äänestys kahden eniten ääniä saaneen kesken. Äänten mennessä tasan ratkaisee vaalin tuloksen arpa. Jos valittavia tai määrättäviä on useampia, noudatetaan suhteellista vaalitapaa, milloin vähintään viidesosa läsnä olevista sitä vaatii. Jos äänet menevät tasan, ratkaisee vaalin tuloksen arpa. Rehtorin ja vararehtorien vaalista on säädetty 25§:ssä.",
+      "section_number": "53",
+      "chapter_number": 11,
+      "statute_id": ""
+    },
+    {
+      "id": "87964a96-7f44-4297-b14b-6cc2e76547b5",
+      "node_type": "Section",
+      "publisher": "finlex",
+      "title": "54 §",
+      "text": "Jos esittelijän mielipide eroaa päätöksestä, hänellä on oikeus saada merkityksi mielipiteensä kokouksessa ratkaistussa asiassa pöytäkirjaan ja muussa esittelyssä ratkaistussa asiassa toimituskirjan taltiokappaleeseen. Eriävä mielipide on jälkimmäisessä tapauksessa esittelijän allekirjoitettava ja ratkaisijan todettava se esitetyn mukaiseksi. Ministeriölle tehtävään esitykseen sekä ministeriölle, korkeimmalle oikeudelle tai korkeimmalle hallinto-oikeudelle annettavaan lausuntoon on liitettävä pöytäkirjanote tai jäljennös toimituskirjan taltiokappaleesta, jos asiassa on äänestetty tai esittelijä on ilmoittanut eriävän mielipiteensä.",
+      "section_number": "54",
+      "chapter_number": 11,
+      "statute_id": ""
+    },
+    {
+      "id": "6fc25b07-0a8e-46dd-bc28-cb2b2ae409a9",
+      "node_type": "Section",
+      "publisher": "finlex",
+      "title": "55 §",
+      "text": "Ratkaistaessa professorin tai apulaisprofessorin viran hakijoiden taikka professorin virkaan kutsuttavaksi ehdotetun tai dosentiksi hakevan tieteellistä pätevyyttä tai annettaessa sitä koskevaa lausuntoa sekä arvosteltaessa opintosuorituksia saavat päätöksentekoon osallistua kokouksen puheenjohtajan lisäksi vain vastaavan tieteellisen pätevyyden saavuttaneet taikka vastaavan opintosuorituksen suorittaneet jäsenet sekä kaikki hallintoelimen jäseninä olevat vakinaiset professorit. Hallintoelimen muilla jäsenillä on tällöin puheoikeus kokouksessa. Käsiteltäessä 1 momentissa mainittuja asioita tiedekuntaneuvosto ja opetusjaostoneuvosto ovat päätösvaltaisia, kun kokouksen puheenjohtajan lisäksi päätöksentekoon oikeutettuja jäseniä on läsnä vähintään viisi. Jos hallintoelimessä ei ole riittävästi sellaisia jäseniä, jotka saavat osallistua päätöksentekoon, hallitus määrää hallintoelimeen sen esityksestä tarpeellisen määrän lisäjäseniä. Lisäjäsenten toimikausi on sama kuin asianomaisen hallintoelimen.",
+      "section_number": "55",
+      "chapter_number": 11,
+      "statute_id": ""
+    },
+    {
+      "id": "8d852a7c-2ce2-48ef-a8f5-41c24aa1e9dc",
+      "node_type": "Section",
+      "publisher": "finlex",
+      "title": "56 §",
+      "text": "Virkojen kelpoisuusvaatimuksista ja virkamiesten tehtävistä säädetään erikseen.",
+      "section_number": "56",
+      "chapter_number": 12,
+      "statute_id": ""
+    },
+    {
+      "id": "627d222c-b2bc-4da6-90da-a00ec1f2ee68",
+      "node_type": "Section",
+      "publisher": "finlex",
+      "title": "57 §",
+      "text": "Professorin, Yhteiskuntatieteiden tutkimuslaitoksen johtajan, ylikirjastonhoitajan ja hallintojohtajan nimittää tasavallan presidentti. Apulaisprofessorin, dosentin, yliopettajan, lehtorin, apulaisopettajan, yliassistentin ja assistentin sekä harjoittelukoulun rehtorin nimittää tai ottaa kansleri. Yliopiston muut kuin 1 momentissa mainitut virkamiehet, joilta vaaditaan korkeakoulututkinto, lukuun ottamatta tuntiopettajia, sekä vastaavan vuotta pitemmäksi ajaksi otettavan työsopimussuhteisen henkilökunnan nimittää tai ottaa hallitus. Yliassistentin, assistentin ja apulaisopettajan virat täytetään enintään viideksi vuodeksi kerrallaan, sekä erikoistutkijan, tutkijan, pääasiallisesti teatteritaiteen kandidaatin tutkintoa varten opetusta antavan lehtorin sekä suunnittelijan virat voidaan täyttää määräajaksi kuitenkin enintään viideksi vuodeksi kerrallaan siten kuin johtosäännössä määrätään.",
+      "section_number": "57",
+      "chapter_number": 12,
+      "statute_id": ""
+    },
+    {
+      "id": "6e1ccfd4-687c-48a0-b491-488be990d69a",
+      "node_type": "Section",
+      "publisher": "finlex",
+      "title": "58 §",
+      "text": "Muun kuin 57§:ssä tarkoitetun henkilökunnan nimittää tai ottaa hallintovirasto.",
+      "section_number": "58",
+      "chapter_number": 12,
+      "statute_id": ""
+    },
+    {
+      "id": "ba8be09c-594e-41e5-8870-a2d7fad50a7d",
+      "node_type": "Section",
+      "publisher": "finlex",
+      "title": "59 §",
+      "text": "Avoinna olevan viran väliaikaisen hoitajan ottamisesta yhteensä enintään vuodeksi päättää hallintovirasto. Muussa tapauksessa ottamisesta päättää nimittävä viranomainen tai, jos virkamies on tasavallan presidentin nimitettävä, yliopiston hallitus.",
+      "section_number": "59",
+      "chapter_number": 12,
+      "statute_id": ""
+    },
+    {
+      "id": "1acd03a2-93c1-4f23-8183-e47e7b13c853",
+      "node_type": "Section",
+      "publisher": "finlex",
+      "title": "60 §",
+      "text": "Avoinna oleva virka on viipymättä julistettava haettavaksi. Ulkomaalaiselle tarkoitettu lehtorin virka voidaan täyttää myös haettavaksi julistamatta. Hakemukseen on liitettävä ote nimikirjasta siten kuin valtion virkamiesasetuksen (723/87) 2§:ssä säädetään. Yliopisto voi määrätä hakemukseen liitettävästä muusta selvityksestä. Viran ollessa täytettävänä ei sen kelpoisuusvaatimuksia, opetusalaa tai sen täsmennystä eikä tehtäväpiiriä saa haettavaksi julistamisen jälkeen muuttaa.",
+      "section_number": "60",
+      "chapter_number": 12,
+      "statute_id": ""
+    },
+    {
+      "id": "7b138ee0-0a9f-4c6e-93b2-50d310bb1f18",
+      "node_type": "Section",
+      "publisher": "finlex",
+      "title": "61 §",
+      "text": "Professorin ja apulaisprofessorin viran hakijalle voi virkaehdotuksen tekevä hallintoelin hakuajan kuluessa tehdystä kirjallisesta pyynnöstä myöntää enintään kolmen kuukauden lisäajan vaadittavan kelpoisuuden täydentämistä varten. Jos yhdelle hakijoista on myönnetty edellä tarkoitettu lisäaika, kaikki hakijat saavat käyttää sitä hyväkseen.",
+      "section_number": "61",
+      "chapter_number": 12,
+      "statute_id": ""
+    },
+    {
+      "id": "cffada06-f572-4871-9884-5748240bb7d5",
+      "node_type": "Section",
+      "publisher": "finlex",
+      "title": "62 §",
+      "text": "Kun professorin tai apulaisprofessorin viran hakuaika tai 61§:ssä tarkoitettu lisäaika on päättynyt, tiedekuntaneuvosto valitsee vähintään kaksi asiantuntijaa täytettävän viran alalta antamaan kirjalliset lausunnot hakijoiden tieteellisestä pätevyydestä virkaan sekä vertailemaan hakijoita tässä suhteessa.",
+      "section_number": "62",
+      "chapter_number": 12,
+      "statute_id": ""
+    },
+    {
+      "id": "e38e575f-0193-4126-8b52-c06890b2744e",
+      "node_type": "Section",
+      "publisher": "finlex",
+      "title": "63 §",
+      "text": "Tieteellistä pätevyyttä arvioivat asiantuntijat tulee valita tasapuolisesti viran tehtäväpiiriin kuuluvilta tieteenaloilta sekä hakijoiden edustamilta tieteellisiltä oppisuunnilta. Asiantuntijat eivät saa olla kehenkään hakijaan hallintomenettelylain (598/82) 10§:n 2 momentissa tarkoitetussa suhteessa tai sellaisessa kiinteässä yhteistyösuhteessa taikka kiista- tai muussa suhteessa, joka ilmeisesti vaarantaa asiantuntijan puolueettomuutta.",
+      "section_number": "63",
+      "chapter_number": 12,
+      "statute_id": ""
+    },
+    {
+      "id": "d6fcb95a-f85b-4da8-be10-f857a4a84723",
+      "node_type": "Section",
+      "publisher": "finlex",
+      "title": "64 §",
+      "text": "Asiantuntijain lausuntojen antamiselle tulee asettaa kohtuullinen määräaika, jota ei ilman erityistä syytä saa määrätä kolmea kuukautta pitemmäksi. Asiantuntijat voivat neuvotella keskenään ja asiantuntija saa antaa lausuntonsa myös yhdessä yhden tai useamman asiantuntijaksi valitun kanssa.",
+      "section_number": "64",
+      "chapter_number": 12,
+      "statute_id": ""
+    },
+    {
+      "id": "0660999a-a26a-447c-a394-d84d4c02cf8a",
+      "node_type": "Section",
+      "publisher": "finlex",
+      "title": "65 §",
+      "text": "Ennen virkaehdotuksen tekemistä tulee jokaisen professorin tai apulaisprofessorin viran hakijan antaa opetustaitonsa osoittamiseksi dekaanin määräämänä aikana julkinen opetusnäyte. Tiedekuntaneuvosto arvostelee opetusnäytteet ja ratkaisee kunkin hakijan osalta, onko hänellä riittävä opetustaito. Tiedekuntaneuvosto voi vapauttaa hakijan opetusnäytteen antamisesta, jos hakijan opetustaito on aikaisemmin todettu. Tiedekuntaneuvosto voi erityisestä syystä määrätä laitosneuvoston arvostelemaan opetusnäytteet.",
+      "section_number": "65",
+      "chapter_number": 12,
+      "statute_id": ""
+    },
+    {
+      "id": "8b7d3c5d-d15a-4d97-a0f5-7f96a9e2f2e5",
+      "node_type": "Section",
+      "publisher": "finlex",
+      "title": "66 §",
+      "text": "Kun kaikki asiantuntijalausunnot ovat saapuneet tai kun lausuntojen antamiselle asetettu määräaika on kulunut ja vähintään kaksi asiantuntijalausuntoa saapunut, tulee tiedekuntaneuvoston ratkaista kunkin hakijan osalta, onko hänellä riittävä tieteellinen pätevyys. Tämän jälkeen tiedekuntaneuvoston tulee tehdä virkaehdotus, jossa on pantava virkaan kelpoisiksi todetuista hakijoista kolme ansiokkainta ehdolle siinä järjestyksessä kuin heidät katsotaan virkaan taitaviksi ja kykeneviksi. Erimielisyyden sattuessa suoritetaan äänestys kunkin ehdokassijan osalta erikseen. Virkaehdotus on viipymättä asetettava julkisesti nähtäväksi yliopiston ilmoitustaululle ja annettava tiedoksi kaikille hakijoille.",
+      "section_number": "66",
+      "chapter_number": 12,
+      "statute_id": ""
+    },
+    {
+      "id": "b45424d5-069f-49e8-9766-d478852c5607",
+      "node_type": "Section",
+      "publisher": "finlex",
+      "title": "67 §",
+      "text": "Kutsumismenettelyyn ryhtymisestä päättää kansleri tiedekuntaneuvoston esityksestä. Kanslerin päätettyä kutsumismenettelyyn ryhtymisestä tiedekuntaneuvosto valitsee vähintään kaksi asiantuntijaa antamaan lausunnon kutsuttavaksi ehdotetun tieteellisestä pätevyydestä. Asiantuntijoille asetettava määräaika ei tällöin saa ilman erityistä syytä olla kuutta viikkoa pitempi. Muilta osin noudatetaan, mitä asiantuntijoista edellä on säädetty. Opetustaidon osoittamisesta on soveltuvin osin voimassa, mitä 65§:ssä on säädetty.",
+      "section_number": "67",
+      "chapter_number": 12,
+      "statute_id": ""
+    },
+    {
+      "id": "5ab33271-96ed-4f78-b218-ceb50ad34831",
+      "node_type": "Section",
+      "publisher": "finlex",
+      "title": "68 §",
+      "text": "Saatuaan asiantuntijalausunnot tiedekuntaneuvoston tulee ratkaista kutsuttavaksi ehdotetun tieteellinen pätevyys. Jos tiedekuntaneuvosto katsoo kutsuttavaksi ehdotetun kelpoiseksi virkaan, sen tulee tehdä esitys hänen kutsumisestaan.",
+      "section_number": "68",
+      "chapter_number": 12,
+      "statute_id": ""
+    },
+    {
+      "id": "518d62ee-60a0-4eaa-a402-18dbb433332b",
+      "node_type": "Section",
+      "publisher": "finlex",
+      "title": "69 §",
+      "text": "Mitä 65§:ssä on säädetty opetustaidon osoittamisesta, noudatetaan soveltuvin osin myös täytettäessä yliopettajan, yliassistentin ja lehtorin virkoja. Harjoittelukoulun lehtorilta vaadittavan opetustaidon osoittamisesta on säädetty erikseen.",
+      "section_number": "69",
+      "chapter_number": 12,
+      "statute_id": ""
+    },
+    {
+      "id": "34e88f8d-909a-4114-bbf2-72e7d09f228f",
+      "node_type": "Section",
+      "publisher": "finlex",
+      "title": "70 §",
+      "text": "Dosentiksi hakevan on annettava opetusnäyte, jonka tiedekuntaneuvosto arvostelee, jollei se erityisestä syystä katso opetusnäytteen antamista tarpeettomaksi. Tiedekuntaneuvoston on hankittuaan vähintään kahdelta asiantuntijalta lausunnot dosentiksi hakevan tieteellisestä pätevyydestä ratkaistava hakijan pätevyys. Asiantuntijoiden valinnasta on soveltuvin osin voimassa, mitä 63§:ssä on säädetty. Jos tiedekuntaneuvosto toteaa hakijan täyttävän dosentiksi ottamiselle säädetyt edellytykset ja hänen kiinnittämisensä yliopistoon opetuksen ja tutkimustyön kannalta tarkoituksenmukaiseksi, sen on tehtävä kanslerille esitys asianomaisen ottamisesta dosentiksi.",
+      "section_number": "70",
+      "chapter_number": 12,
+      "statute_id": ""
+    },
+    {
+      "id": "346ef1e2-81b4-4923-965a-d457383053a2",
+      "node_type": "Section",
+      "publisher": "finlex",
+      "title": "71 §",
+      "text": "Mitä edellä on säädetty professorilta vaadittavan tieteellisen pätevyyden arvioimisesta ja ratkaisemisesta, noudatetaan vastaavasti täytettäessä teatterityön professorin virkaa. Asetuksen 55§:ää sovelletaan tällöin siten, että päätöksentekoon saavat kokouksen puheenjohtajan lisäksi osallistua vain professorin pätevyyden saavuttaneet.",
+      "section_number": "71",
+      "chapter_number": 12,
+      "statute_id": ""
+    },
+    {
+      "id": "921d64d0-9bd4-4ff9-b252-bfc3cc5049c5",
+      "node_type": "Section",
+      "publisher": "finlex",
+      "title": "72 §",
+      "text": "Mitä edellä on säädetty menettelystä professorin virkaa täytettäessä, noudatetaan soveltuvin kohdin myös täytettäessä Yhteiskuntatieteiden tutkimuslaitoksen johtajan ja professorin virkaa.",
+      "section_number": "72",
+      "chapter_number": 12,
+      "statute_id": ""
+    },
+    {
+      "id": "d65b2f53-15fa-4bc0-9dc2-63c960014618",
+      "node_type": "Section",
+      "publisher": "finlex",
+      "title": "73 §",
+      "text": "Täytettäessä erilliseen laitokseen sijoitettua virkaa tai otettaessa henkilö työsopimussuhteiseen tehtävään erillisessä laitoksessa huolehtii tiedekunnalle kuuluvista tehtävistä erillisen laitoksen johtokunta.",
+      "section_number": "73",
+      "chapter_number": 12,
+      "statute_id": ""
+    },
+    {
+      "id": "329d0317-335c-4902-8eef-c678f8256be5",
+      "node_type": "Section",
+      "publisher": "finlex",
+      "title": "74 §",
+      "text": "Virkavapauden sekä tätä vastaavan vapautuksen työsopimussuhteiselle henkilökunnalle myöntää hallintovirasto. Vuotta pitemmän virkavapauden myöntää kuitenkin tasavallan presidentin nimitettävälle virkamiehelle hallitus sekä muille virkamiehille nimittävä viranomainen.",
+      "section_number": "74",
+      "chapter_number": 13,
+      "statute_id": ""
+    },
+    {
+      "id": "1b0cd1e5-b7c2-4bc4-a373-ace1dd042808",
+      "node_type": "Section",
+      "publisher": "finlex",
+      "title": "75 §",
+      "text": "Yliopiston lukuvuosi alkaa 1 päivänä elokuuta ja päättyy 31 päivänä heinäkuuta. Opetusta annetaan opetussuunnitelmissa määrättyinä ajanjaksoina. Opetusta ei kuitenkaan anneta kymmenenä uudenvuoden päivän edellisenä ja kymmenenä sen jälkeisenä päivänä eikä kolmena pääsiäispäivän edellisenä ja kolmena sen jälkeisenä päivänä. Harjoittelukouluista on voimassa, mitä niistä on erikseen säädetty.",
+      "section_number": "75",
+      "chapter_number": 14,
+      "statute_id": ""
+    },
+    {
+      "id": "5e0e815b-bf39-452d-9dff-5d89cadc597d",
+      "node_type": "Section",
+      "publisher": "finlex",
+      "title": "76 §",
+      "text": "Tiedekuntaneuvosto tai opetusjaostoneuvosto hyväksyy opetussuunnitelmat siten kuin siitä on erikseen säädetty. Seuraavan lukuvuoden opetussuunnitelmat on hyväksyttävä ennen toukokuun loppua. Opetussuunnitelmia laadittaessa on pidettävä huolta, että opiskelijat voivat tarkoituksenmukaisessa järjestyksessä, keskeytyksettä ja tehokkaasti harjoittaa opintoja ja että heille varataan kesäkuun 1 päivän ja elokuun 31 päivän välisenä aikana vähintään kuukauden pituinen yhtäjaksoinen aika, jona opetusta ei anneta.",
+      "section_number": "76",
+      "chapter_number": 14,
+      "statute_id": ""
+    },
+    {
+      "id": "d5b750cf-29eb-4354-972c-9b1f4bec1c6d",
+      "node_type": "Section",
+      "publisher": "finlex",
+      "title": "77 §",
+      "text": "Yliopistossa annettava luento-opetus on julkista.",
+      "section_number": "77",
+      "chapter_number": 14,
+      "statute_id": ""
+    },
+    {
+      "id": "abe5040f-81bd-4e8b-8bbc-9effe045951b",
+      "node_type": "Section",
+      "publisher": "finlex",
+      "title": "78 §",
+      "text": "Yliopistossa vallitsee opetuksen ja tutkimuksen vapaus. Opettajan on kuitenkin noudatettava hyväksyttyjä opetussuunnitelmia sekä hänen tehtävistään ja yliopistossa annettavasta opetuksesta annettuja säännöksiä ja määräyksiä.",
+      "section_number": "78",
+      "chapter_number": 14,
+      "statute_id": ""
+    },
+    {
+      "id": "e9f10171-45fe-4c2f-840a-d37af936c564",
+      "node_type": "Section",
+      "publisher": "finlex",
+      "title": "79 §",
+      "text": "Kukin opettaja toimittaa kuulustelut virkaansa kuuluvissa oppiaineissa siten kuin opetussuunnitelmassa määrätään. Opettajan ollessa estynyt määrää laitoksen johtaja toisen saman aineen opettajan tai muun pätevän henkilön toimittamaan kuulustelut.",
+      "section_number": "79",
+      "chapter_number": 14,
+      "statute_id": ""
+    },
+    {
+      "id": "190a6f97-2093-4b54-9ba1-130e515d1c7a",
+      "node_type": "Section",
+      "publisher": "finlex",
+      "title": "80 §",
+      "text": "Kuulustelut toimitetaan joko kirjallisesti tai suullisesti taikka molemmin tavoin tai erityisestä syystä muulla tavoin. Opiskelijalla on oikeus kuulusteluissa ja kokeissa sekä kirjallisesti että suullisesti käyttää suomen tai ruotsin kieltä. Oikeudesta käyttää muuta kieltä päättää dekaani. Johtosäänössä annetaan tarkempia määräyksiä kuulusteluista.",
+      "section_number": "80",
+      "chapter_number": 14,
+      "statute_id": ""
+    },
+    {
+      "id": "4bc8e277-4105-4e3e-bea7-8ed77c9aef62",
+      "node_type": "Section",
+      "publisher": "finlex",
+      "title": "81 §",
+      "text": "Tiedekunnissa suoritettavista tutkinnoista ja opinnoista on voimassa, mitä seuraavissa asetuksissa on säädetty ja niiden nojalla määrätty:",
+      "section_number": "81",
+      "chapter_number": 14,
+      "statute_id": ""
+    },
+    {
+      "id": "a3d052bc-7ff0-4a1c-97d6-024278adc221",
+      "node_type": "Section",
+      "publisher": "finlex",
+      "title": "82 §",
+      "text": "Yhteiskuntatieteellisessä, humanistisessa, taloudellis-hallinnollisessa, lääketieteellisessä ja kasvatustieteiden tiedekunnassa voi ylemmän korkeakoulututkinnon, ei kuitenkaan lääketieteen lisensiaatin tutkinnon suorittanut, promootiossa tai ilman promootiota saada maisterin arvon. Humanististen tieteiden kandidaatin ja luonnontieteiden kandidaatin arvon myöntämisestä on voimassa, mitä humanistisista tutkinnoista ja luonnontieteellisistä tutkinnoista annetuissa asetuksissa on säädetty.",
+      "section_number": "82",
+      "chapter_number": 14,
+      "statute_id": ""
+    },
+    {
+      "id": "c359013a-b0c4-4139-8041-4c26e797214a",
+      "node_type": "Section",
+      "publisher": "finlex",
+      "title": "83 §",
+      "text": "Opetusjaostossa voidaan suorittaa hallintovirkamiestutkinto, kunnallistutkinto, nuorisotyön tutkinto, sosiaalihuoltajatutkinto, toimittajatutkinto, verovirkamiestutkinto, yhteiskunnallinen tutkinto ja yleinen vakuutustutkinto. Opetusjaosto voi myöntää hallintovirkamiestutkinnon tai verovirkamiestutkinnon suorittaneelle hallintonotaarin arvon sekä kunnallistutkinnon, nuorisotyön tutkinnon, sosiaalihuoltajatutkinnon, toimittajatutkinnon, yhteiskunnallisen tutkinnon tai yleisen vakuutustutkinnon suorittaneelle sosionomin arvon.",
+      "section_number": "83",
+      "chapter_number": 14,
+      "statute_id": ""
+    },
+    {
+      "id": "158c928b-fcc8-4605-aece-e86a4150d7b0",
+      "node_type": "Section",
+      "publisher": "finlex",
+      "title": "84 §",
+      "text": "Tohtorin tutkinnon suorittaneelle voidaan tämän tutkinnon tunnuksiksi promootiossa antaa tiedekuntaneuvoston vahvistamat arvomerkit. Arvomerkit voidaan antaa myös ilman promootiota. Tiedekunta voi promootion yhteydessä tai muulloinkin antaa kunniatohtorin arvon sekä siihen liittyvät arvomerkit suomalaiselle tai ulkomaalaiselle, joka tieteellisellä tai taiteellisella toiminnallaan tai tieteiden, taiteiden taikka muun kulttuuritoiminnan edistämisessä saavuttamiensa muiden ansioiden perusteella katsotaan tällaisen kunnianosoituksen arvoiseksi.",
+      "section_number": "84",
+      "chapter_number": 14,
+      "statute_id": ""
+    },
+    {
+      "id": "8c4a1472-803c-4c8c-ba25-4eb7b8e3e0bb",
+      "node_type": "Section",
+      "publisher": "finlex",
+      "title": "85 §",
+      "text": "Yliopistossa voidaan suorittaa myös tutkintoihin kuulumattomia erillisiä opintoja. Yliopistossa voidaan myönnettyjen määrärahojen puitteissa järjestää täydennyskoulutusta.",
+      "section_number": "85",
+      "chapter_number": 14,
+      "statute_id": ""
+    },
+    {
+      "id": "4fd7cfca-c96d-4710-8241-5324e7c824ec",
+      "node_type": "Section",
+      "publisher": "finlex",
+      "title": "86 §",
+      "text": "Opetusministeriö määrää yliopistoa kuultuaan ne yleiset perusteet, joiden mukaan ulkomaisessa korkeakoulussa suoritetut opinnot luetaan opiskelijalle hyväksi yliopistossa, jollei hyväksi lukemisen perusteista ole erikseen säädetty. Tiedekuntaneuvosto tai opetusjaostoneuvosto päättää kotimaisessa korkeakoulussa tai oppilaitoksessa suoritettujen opintojen hyväksi lukemisesta, jollei 81§:ssä mainituista asetuksista muuta johdu. Tiedekuntaneuvosto tai opetusjaosto päättää niin ikään ulkomaisessa korkeakoulussa suoritettujen opintojen hyväksi lukemisesta.",
+      "section_number": "86",
+      "chapter_number": 14,
+      "statute_id": ""
+    },
+    {
+      "id": "6b194757-272b-4b15-91b8-77002be479b1",
+      "node_type": "Section",
+      "publisher": "finlex",
+      "title": "87 §",
+      "text": "Opiskelijaksi muita kuin 2 ja 4 momentissa mainittuja tutkintoja suorittamaan voidaan yliopistoon hyväksyä henkilö, joka on suorittanut suomalaisen ylioppilastutkinnon tai jolla muutoin on opintoja varten riittävät perustiedot. Teatteritaiteen kandidaatin tutkintoa suorittamaan voidaan hyväksyä henkilö, jolla on opintoja varten riittävät perustiedot ja -taidot. Hallitus määrää ne yleiset perusteet, joilla henkilö, joka ei ole suorittanut suomalaista ylioppilastutkintoa, voidaan hyväksyä opiskelijaksi, jollei näistä perusteista ole erikseen säädetty. Lisensiaatin ja tohtorin tutkinnon suorittamisen yleisistä edellytyksistä on voimassa, mitä 81§:ssä mainituissa asetuksissa on säädetty.",
+      "section_number": "87",
+      "chapter_number": 15,
+      "statute_id": ""
+    },
+    {
+      "id": "f9894e0a-2748-432d-93cc-2596cd141a84",
+      "node_type": "Section",
+      "publisher": "finlex",
+      "title": "88 §",
+      "text": "Yliopistoon vuosittain otettavien opiskelijoiden määrästä ja yleisistä valintaperusteista päättää hallitus valtioneuvoston vahvistettua suunnitelman aloituspaikkojen määrästä ja opetusministeriön annettua suosituksensa valintaperusteista. Opettajankoulutukseen ottamisesta on voimassa, mitä siitä on erikseen säädetty.",
+      "section_number": "88",
+      "chapter_number": 15,
+      "statute_id": ""
+    },
+    {
+      "id": "ddd0c534-422f-49da-82c6-91438297ff82",
+      "node_type": "Section",
+      "publisher": "finlex",
+      "title": "89 §",
+      "text": "Sen, joka haluaa opiskella yliopistossa tutkintoa varten tai suorittaa erillisiä opintoja, on haettava kirjallisesti opiskeluoikeutta yliopistolta.",
+      "section_number": "89",
+      "chapter_number": 15,
+      "statute_id": ""
+    },
+    {
+      "id": "ca7b04db-6618-4991-ac19-ed4c9fe1e2ce",
+      "node_type": "Section",
+      "publisher": "finlex",
+      "title": "90 §",
+      "text": "Opiskelijoiden valinnan suorittavat asettamiensa valintatoimikuntien esityksestä tiedekuntaneuvostot ja opetusjaostoneuvosto. Opetusministeriö voi 1 momentin estämättä määrätä, että opiskelijoiden valinta voidaan suorittaa useamman korkeakoulun opiskelijoiden yhteisvalintaa varten asetetun toimielimen esityksestä.",
+      "section_number": "90",
+      "chapter_number": 15,
+      "statute_id": ""
+    },
+    {
+      "id": "6a9bedce-3119-4872-af13-ea2efa2d9cc2",
+      "node_type": "Section",
+      "publisher": "finlex",
+      "title": "91 §",
+      "text": "Yliopistoon opiskelijaksi hyväksytty merkitään yliopiston opiskelijaluetteloon sen jälkeen, kun hän on asianmukaisesti ilmoittautunut yliopistoon. Opiskelijan on ilmoittauduttava läsnä olevaksi tai poissa olevaksi hallintoviraston määräämällä tavalla.",
+      "section_number": "91",
+      "chapter_number": 15,
+      "statute_id": ""
+    },
+    {
+      "id": "75d9fe62-cd3d-4375-9647-3a55c4ed2e42",
+      "node_type": "Section",
+      "publisher": "finlex",
+      "title": "92 §",
+      "text": "Opiskelija, joka ei ole ilmoittautunut 91§:ssä säädetyllä tavalla, poistetaan opiskelijaluettelosta. Jos 1 momentissa tarkoitetusta syystä opiskelijaluettelosta poistettu aikoo myöhemmin jatkaa opintojaan, hänen on pyydettävä hallintovirastolta oikeutta päästä uudelleen opiskelijaluetteloon.",
+      "section_number": "92",
+      "chapter_number": 15,
+      "statute_id": ""
+    },
+    {
+      "id": "344d4245-e26e-438e-bbb9-f715e4ec3a08",
+      "node_type": "Section",
+      "publisher": "finlex",
+      "title": "93 §",
+      "text": "Täydennyskoulutuskeskuksen järjestämän koulutuksen vuotuisen toimintaohjelman hyväksyy hallitus. Keskuksen järjestämään koulutukseen osallistuvien valinnasta päättää täydennyskoulutuskeskus siten kuin johtosäännössä määrätään. Opettajien täydennyskoulutuksesta on voimassa, mitä siitä on erikseen säädetty.",
+      "section_number": "93",
+      "chapter_number": 15,
+      "statute_id": ""
+    },
+    {
+      "id": "4f18d6d0-bf2c-4da1-80b8-52fba4dfc419",
+      "node_type": "Section",
+      "publisher": "finlex",
+      "title": "94 §",
+      "text": "Tässä asetuksessa tarkoitetaan opintosuorituksella väitöskirjaa ja lisensiaatintutkimusta sekä sellaista kirjallista tai suullista kuulustelua taikka esitelmää tai muuta suoritusta, joka sisältyy yliopiston opetussuunnitelmiin.",
+      "section_number": "94",
+      "chapter_number": 16,
+      "statute_id": ""
+    },
+    {
+      "id": "c005b566-b289-400b-8611-8457e9fbe4d9",
+      "node_type": "Section",
+      "publisher": "finlex",
+      "title": "95 §",
+      "text": "Väitöskirjan ja lisensiaatintutkimuksen tarkastamista varten tiedekuntaneuvosto määrää siten kuin tutkintosäännössä tai muuten tarkemmin määrätään esitarkastajia, tarkastajia ja vastaväittäjiä, joiden tulee antaa asiasta perusteltu kirjallinen lausunto.",
+      "section_number": "95",
+      "chapter_number": 16,
+      "statute_id": ""
+    },
+    {
+      "id": "5743d48c-f613-4b34-bf6f-9fa6db5feb8a",
+      "node_type": "Section",
+      "publisher": "finlex",
+      "title": "96 §",
+      "text": "Väitöskirjan ja lisensiaatintutkimuksen esitarkastaja, tarkastaja ja vastaväittäjä ei saa olla tekijään hallintomenettelylain 10§:n 2 momentissa tarkoitetussa suhteessa eikä sellaisessa kiista- tai muussa suhteessa, joka ilmeisesti vaarantaa hänen puolueettomuuttaan. Väitöskirjan ja lisensiaatintutkimuksen tekijälle on ennen esitarkastajan, tarkastajan tai vastaväittäjän valintaa varattava tilaisuus antaa asiasta lausuntonsa.",
+      "section_number": "96",
+      "chapter_number": 16,
+      "statute_id": ""
+    },
+    {
+      "id": "7668f4c9-894d-4d18-aa8e-64e689de8f0c",
+      "node_type": "Section",
+      "publisher": "finlex",
+      "title": "97 §",
+      "text": "Ennen väitöskirjan ja lisensiaatintutkimuksen arvostelua tekijälle on varattava tilaisuus vastineen antamiseen esitarkastajan, tarkastajan ja vastaväittäjän lausunnosta.",
+      "section_number": "97",
+      "chapter_number": 16,
+      "statute_id": ""
+    },
+    {
+      "id": "88144ab5-fa08-4e14-a60f-4131b1edf20a",
+      "node_type": "Section",
+      "publisher": "finlex",
+      "title": "98 §",
+      "text": "Opiskelijalla on oikeus saada tieto arvosteluperusteiden soveltamisesta häneen. Hänelle on varattava tilaisuus tutustua arvosteltuun kirjalliseen tai muuten tallennettuun opintosuoritukseensa. Muun kirjallisen opintosuorituksensa kuin väitöskirjan tai lisensiaatintutkimuksen arvosteluun tyytymätön opiskelija voi pyytää siihen suullisesti tai kirjallisesti oikaisua arvostelun suorittaneelta opettajalta ja syventäviin opintoihin kuuluvan tutkielman arvostelusta kirjallisesti laitosneuvostolta. Oikaisua on pyydettävä 14 päivän kuluessa siitä ajankohdasta, jolloin opiskelijalla on ollut tilaisuus saada kuulustelun yksityiskohtaiset tulokset sekä arvosteluperusteiden soveltaminen omalta kohdaltaan tietoonsa. Oikaisupäätökseen tyytymätön voi hakea siihen muutosta tiedekuntaneuvostolta tai opetusjaostoneuvostolta seitsemän päivän kuluessa siitä, kun hän on saanut päätöksestä tiedon. Kirjalliset 2 momentissa tarkoitetut opintosuoritukset on säilytettävä kuuden kuukauden ajan tulosten julkistamisesta lukien. Opiskelijalla on oikeus omalla kustannuksellaan saada jäljennös suorituspapereistaan.",
+      "section_number": "98",
+      "chapter_number": 16,
+      "statute_id": ""
+    },
+    {
+      "id": "c80908ee-b144-45b0-992a-1d5e7b182a4c",
+      "node_type": "Section",
+      "publisher": "finlex",
+      "title": "99 §",
+      "text": "Hallintoelimessä saavat päätöksentekoon 98§:ssä tarkoitetussa asiassa osallistua vain saman tai samantasoisen opintosuorituksen suorittaneet jäsenet. Opetustaidon arvostelusta opettajankoulutuksessa on voimassa, mitä siitä on erikseen säädetty.",
+      "section_number": "99",
+      "chapter_number": 16,
+      "statute_id": ""
+    },
+    {
+      "id": "7dd93c97-cd67-483c-bac9-569cf6325f5e",
+      "node_type": "Section",
+      "publisher": "finlex",
+      "title": "100 §",
+      "text": "Opiskelijavalintaan tyytymätön voi pyytää siihen kirjallisesti oikaisua tiedekuntaneuvostolta tai opetusjaostoneuvostolta 14 päivän kuluessa valinnan tuloksen julkistamisesta. Tulosta julkistettaessa on ilmoitettava, miten pyrkijä voi saada tiedon valinnassa noudatettujen perusteiden soveltamisesta häneen sekä miten valintaan voi pyytää oikaisua. Valinnan tulosta ei saa oikaisupyynnön johdosta muuttaa kenenkään opiskelemaan valitun vahingoksi.",
+      "section_number": "100",
+      "chapter_number": 16,
+      "statute_id": ""
+    },
+    {
+      "id": "1eaae2e0-e6f0-4a50-b1c5-5726c953e95a",
+      "node_type": "Section",
+      "publisher": "finlex",
+      "title": "101 §",
+      "text": "Opiskelijaa, joka yliopiston piirissä on syyllistynyt rikkomukseen, voi rehtori rangaista antamalla hänelle muistutuksen. Jos rikkomus on sellainen, että siitä rehtorin harkinnan mukaan voi seurata ankarampi rangaistus, tulee asia saattaa hallituksen käsiteltäväksi. Hallitus voi syylliselle antaa varoituksen tai erottaa hänet yliopistosta määräajaksi, kuitenkin enintään yhdeksi vuodeksi.",
+      "section_number": "101",
+      "chapter_number": 16,
+      "statute_id": ""
+    },
+    {
+      "id": "846f0c99-2d77-47aa-99d1-c52225fc2783",
+      "node_type": "Section",
+      "publisher": "finlex",
+      "title": "102 §",
+      "text": "Edellä 101§:ssä tarkoitetun kurinpitoasian esittely kuuluu hallituksen tähän tehtävään määräämälle yliopiston virkamiehelle. Ennen asian käsittelyä on asianomaiselle todisteellisesti toimitettava tiedoksi, mistä rikkomuksesta häntä syytetään sekä varattava hänelle mahdollisuus tulla asiassa kuulluksi.",
+      "section_number": "102",
+      "chapter_number": 16,
+      "statute_id": ""
+    },
+    {
+      "id": "fe89589c-2f47-4350-a70c-6fdebc4c5bb0",
+      "node_type": "Section",
+      "publisher": "finlex",
+      "title": "103 §",
+      "text": "Opiskelijan, joka kuulustelussa syyllistyy vilppiin, voi kuulustelutilaisuuden valvoja välittömästi poistaa kuulustelutilaisuudesta. Jos vilppi havaitaan vasta kuulustelutilaisuuden päätyttyä, voi arvostelun suorittava opettaja hylätä opintosuorituksen.",
+      "section_number": "103",
+      "chapter_number": 16,
+      "statute_id": ""
+    },
+    {
+      "id": "36b50425-f1c3-4373-b0f4-7b3bb2576ff7",
+      "node_type": "Section",
+      "publisher": "finlex",
+      "title": "104 §",
+      "text": "Yliopiston vaalilautakunnan ja muun hallintoelimen kuin kanslerin päätökseen saa valittamalla hakea muutosta jokainen sillä perusteella, että hänen yksityistä oikeuttaan on loukattu. Valitus tehdään yliopiston muutoksenhakulautakunnalle. Muutoksenhausta on muutoin voimassa, mitä muutoksenhausta hallintoasioissa annetussa laissa (154/50) on säädetty. Muutoksenhausta yliopiston kanslerin ja muutoksenhakulautakunnan päätökseen on voimassa, mitä muutoksenhausta hallintoasioissa annetussa laissa on säädetty muutoksenhausta ylemmän hallintoviranomaisen päätökseen. Päätöksestä, joka on yksinomaan valmistelua tai täytäntöönpanoa, ei saa valittaa.",
+      "section_number": "104",
+      "chapter_number": 17,
+      "statute_id": ""
+    },
+    {
+      "id": "190fec2f-ec33-4873-9750-8fa9d350c465",
+      "node_type": "Section",
+      "publisher": "finlex",
+      "title": "105 §",
+      "text": "Valitusta ei saa tehdä päätöksestä, joka koskee: Valittaa ei saa erikseen päätöksestä, jolla ratkaistaan, onko viran hakijalla riittävä opetustaito tai tieteellinen pätevyys. Vaalilautakunnan päätöstä noudatetaan muutoksenhausta huolimatta, kunnes asia on lopullisesti ratkaistu.",
+      "section_number": "105",
+      "chapter_number": 17,
+      "statute_id": ""
+    },
+    {
+      "id": "8e07f0dd-24fb-4906-a85b-d8e02f59fa4d",
+      "node_type": "Section",
+      "publisher": "finlex",
+      "title": "106 §",
+      "text": "Virkarikoksesta syytetään yliopiston kansleria, rehtoria, vararehtoria, professoria ja hallintojohtajaa Turun hovioikeudessa.",
+      "section_number": "106",
+      "chapter_number": 18,
+      "statute_id": ""
+    },
+    {
+      "id": "7f5a7d44-a783-4d64-94ad-61c02219442d",
+      "node_type": "Section",
+      "publisher": "finlex",
+      "title": "107 §",
+      "text": "Yliopiston kanslerille maksetaan palkkio, joka on 25 prosenttia professorin viran peruspalkasta.",
+      "section_number": "107",
+      "chapter_number": 18,
+      "statute_id": ""
+    },
+    {
+      "id": "422cb154-732b-4b77-bb03-48315ed0092d",
+      "node_type": "Section",
+      "publisher": "finlex",
+      "title": "108 §",
+      "text": "Sen estämättä, mitä toimikaudesta on säädetty, kokoontuu valtuusto rehtorin kutsusta ennen toimikautensa alkamista määräämään hallituksen, tiedekuntaneuvostojen, opetusjaostoneuvoston ja laitosneuvostojen jäsenet.",
+      "section_number": "108",
+      "chapter_number": 18,
+      "statute_id": ""
+    },
+    {
+      "id": "5c515286-adb8-437c-b6ab-4c25c3de441b",
+      "node_type": "Section",
+      "publisher": "finlex",
+      "title": "109 §",
+      "text": "Tarkempia määräyksiä tämän asetuksen soveltamisesta antaa tarvittaessa opetusministeriö.",
+      "section_number": "109",
+      "chapter_number": 18,
+      "statute_id": ""
+    },
+    {
+      "id": "4223f303-ca64-4335-ba1e-00f4560690ec",
+      "node_type": "Section",
+      "publisher": "finlex",
+      "title": "110 §",
+      "text": "Tämä asetus tulee voimaan 1 päivänä tammikuuta 1989. Tällä asetuksella kumotaan Tampereen yliopistosta 16 päivänä marraskuuta 1984 annettu asetus (774/84) siihen myöhemmin tehtyine muutoksineen. Ennen asetuksen voimaantuloa voidaan ryhtyä sen täytäntöönpanemiseksi tarvittaviin toimenpiteisiin.",
+      "section_number": "110",
+      "chapter_number": 19,
+      "statute_id": ""
+    },
+    {
+      "id": "0c4b06b5-3938-4b54-b175-2fd807d07d4d",
+      "node_type": "Section",
+      "publisher": "finlex",
+      "title": "111 §",
+      "text": "Tämän asetuksen mukaisessa järjestyksessä valittavan tai määrättävän valtuuston, hallituksen, tiedekuntaneuvoston, opetusjaostoneuvoston ja laitosneuvoston ensimmäinen toimikausi alkaa 1 päivänä tammikuuta 1989. Rehtori ja vararehtorit valitaan ensimmäisen kerran tämän asetuksen mukaisesti toimikaudeksi, joka alkaa 1 päivänä elokuuta 1990. Siihen asti kunnes rehtori ja vararehtorit on valittu ja heidän toimikautensa alkanut, jatkavat Tampereen yliopistosta annetun asetuksen (774/84) mukaisessa järjestyksessä valitut rehtori ja vararehtorit yliopiston rehtorina ja vararehtoreina.",
+      "section_number": "111",
+      "chapter_number": 19,
+      "statute_id": ""
+    },
+    {
+      "id": "74f3f9d4-dc0e-4675-af7b-eae2c3b9adf3",
+      "node_type": "Section",
+      "publisher": "finlex",
+      "title": "112 §",
+      "text": "Jos viran täyttäminen tai muun asian käsittely on kesken silloin, kun tämä asetus tulee voimaan, siirtyvät jatkotoimenpiteet sille hallintoelimelle, jolle asia tämän asetuksen mukaan kuuluu.",
+      "section_number": "112",
+      "chapter_number": 19,
+      "statute_id": ""
+    },
+    {
+      "id": "455d3961-6229-4a0f-9823-4ac93f0f49bf",
+      "node_type": "Section",
+      "publisher": "finlex",
+      "title": "113 §",
+      "text": "Sen estämättä, mitä tässä asetuksessa säädetään, noudatetaan soveltuvin osin aikaisempia säännöksiä ja määräyksiä niiden opiskelijoiden osalta, jotka ovat aloittaneet opintonsa ennen tämän asetuksen 81§:ssä mainittujen asetusten voimaantuloa ja jotka näissä asetuksissa tarkemmin säädetyllä tavalla saavat opiskella aikaisemmin voimassa olleen järjestelmän mukaisesti.",
+      "section_number": "113",
+      "chapter_number": 19,
+      "statute_id": ""
+    }
+  ],
+  "clauses": [
+    {
+      "id": "cd0298c3-c6ef-4b3c-ab39-5d000b026364",
+      "node_type": "Clause",
+      "publisher": "finlex",
+      "title": "§ 5 mom 1",
+      "text": "1) yliopiston vakinainen virkamies;",
+      "clause_number": 1,
+      "section_number": "5",
+      "statute_id": ""
+    },
+    {
+      "id": "0603e506-d5c9-4c21-a2b9-e6a6b8dda439",
+      "node_type": "Clause",
+      "publisher": "finlex",
+      "title": "§ 5 mom 2",
+      "text": "2) henkilö, joka on otettu hoitamaan enemmän kuin puolet viran edellyttämistä tehtävistä;",
+      "clause_number": 2,
+      "section_number": "5",
+      "statute_id": ""
+    },
+    {
+      "id": "8c0ec409-5173-4c21-af00-8215f861e934",
+      "node_type": "Clause",
+      "publisher": "finlex",
+      "title": "§ 5 mom 3",
+      "text": "3) dosentti, päätoiminen tuntiopettaja ja muu tilapäinen virkamies;",
+      "clause_number": 3,
+      "section_number": "5",
+      "statute_id": ""
+    },
+    {
+      "id": "7c8121b2-0eca-4ee9-ade8-ea5dfccc154d",
+      "node_type": "Clause",
+      "publisher": "finlex",
+      "title": "§ 5 mom 4",
+      "text": "4) yliopistoon päätoimisessa työsopimussuhteessa oleva henkilö;",
+      "clause_number": 4,
+      "section_number": "5",
+      "statute_id": ""
+    },
+    {
+      "id": "be520e7a-04d4-4da5-8d84-090fac96c8d6",
+      "node_type": "Clause",
+      "publisher": "finlex",
+      "title": "§ 5 mom 5",
+      "text": "5) henkilö, joka yliopiston suostumuksella päätoimisesti harjoittaa tutkimustyötä yliopistossa tai avustaa tutkimustyön tekemisessä.",
+      "clause_number": 5,
+      "section_number": "5",
+      "statute_id": ""
+    },
+    {
+      "id": "a612ea38-ae4f-4d84-9691-285534712c0a",
+      "node_type": "Clause",
+      "publisher": "finlex",
+      "title": "§ 7 mom 1",
+      "text": "1) tehdä laajakantoisissa tai periaatteellisesti tärkeiksi katsottavissa asioissa ehdotuksia yliopistoa koskeviksi laeiksi ja asetuksiksi sekä yliopiston kehittämiseksi ja antaa näitä asioita koskevia lausuntoja;",
+      "clause_number": 1,
+      "section_number": "7",
+      "statute_id": ""
+    },
+    {
+      "id": "67f54587-3315-47d7-a112-9ff853b49b76",
+      "node_type": "Clause",
+      "publisher": "finlex",
+      "title": "§ 7 mom 2",
+      "text": "2) asettaa kolme henkilöä ehdolle kansleriksi nimittämistä varten;",
+      "clause_number": 2,
+      "section_number": "7",
+      "statute_id": ""
+    },
+    {
+      "id": "e7a3eb06-a036-42cd-adb5-6ef99bfb6eb3",
+      "node_type": "Clause",
+      "publisher": "finlex",
+      "title": "§ 7 mom 3",
+      "text": "3) valita yliopiston rehtori sekä ensimmäinen ja toinen vararehtori;",
+      "clause_number": 3,
+      "section_number": "7",
+      "statute_id": ""
+    },
+    {
+      "id": "7ec8b824-9286-487c-a9dd-6a8bf832315e",
+      "node_type": "Clause",
+      "publisher": "finlex",
+      "title": "§ 7 mom 4",
+      "text": "4) määrätä yliopiston hallitus opiskelijoita edustavia jäseniä lukuun ottamatta;",
+      "clause_number": 4,
+      "section_number": "7",
+      "statute_id": ""
+    },
+    {
+      "id": "a80d5e52-260d-48d7-ab45-030445c2fabd",
+      "node_type": "Clause",
+      "publisher": "finlex",
+      "title": "§ 7 mom 5",
+      "text": "5) käsitellä hallituksen vuosittain antama toimintakertomus ja seurata muutenkin hallituksen toimintaa;",
+      "clause_number": 5,
+      "section_number": "7",
+      "statute_id": ""
+    },
+    {
+      "id": "ad8abe30-0639-4aa1-b635-7e65d8c95727",
+      "node_type": "Clause",
+      "publisher": "finlex",
+      "title": "§ 7 mom 6",
+      "text": "6) määrätä tiedekuntaneuvostojen, opetusjaostoneuvoston ja laitosneuvostojen jäsenet ja varajäsenet, lukuun ottamatta opiskelijoita edustavia jäseniä ja samoin lukuun ottamatta hallintoelimen toimikauden aikana tapahtuvia kokoonpanon muutoksia, sekä johtokuntien jäsenet ja puheenjohtajaa lukuun ottamatta muutoksenhakulautakunnan jäsenet ja varajäsenet;",
+      "clause_number": 6,
+      "section_number": "7",
+      "statute_id": ""
+    },
+    {
+      "id": "21e32e00-95d2-481a-b8f7-e91ce3f3a934",
+      "node_type": "Clause",
+      "publisher": "finlex",
+      "title": "§ 7 mom 7",
+      "text": "7) päättää yliopiston laitoksista ja oppiaineiden ja tutkimusalojen jakautumisesta niihin sekä tehdä opetusministeriölle esitys uuden erillisen laitoksen perustamiseksi;",
+      "clause_number": 7,
+      "section_number": "7",
+      "statute_id": ""
+    },
+    {
+      "id": "5a862e65-9d86-476e-ae9d-77a262e86752",
+      "node_type": "Clause",
+      "publisher": "finlex",
+      "title": "§ 7 mom 8",
+      "text": "8) ratkaista ne hallituksen toimivaltaan kuuluvat asiat, jotka hallitus niiden laajakantoisuuden tai tärkeyden vuoksi alistaa valtuuston ratkaistaviksi; sekä",
+      "clause_number": 8,
+      "section_number": "7",
+      "statute_id": ""
+    },
+    {
+      "id": "4ba406f0-4118-4ff8-948b-1a412de79359",
+      "node_type": "Clause",
+      "publisher": "finlex",
+      "title": "§ 7 mom 9",
+      "text": "9) käsitellä ja ratkaista muut asiat, jotka voimassa olevien säännösten ja määräysten mukaan ovat valtuuston käsiteltäviä ja ratkaistavia.",
+      "clause_number": 9,
+      "section_number": "7",
+      "statute_id": ""
+    },
+    {
+      "id": "addabbab-8548-4aa9-bfcc-d71212ec7a00",
+      "node_type": "Clause",
+      "publisher": "finlex",
+      "title": "§ 9 mom 1",
+      "text": "1) ensimmäisessä ryhmässä yliopiston vakinaiset professorit ja apulaisprofessorit; sekä",
+      "clause_number": 1,
+      "section_number": "9",
+      "statute_id": ""
+    },
+    {
+      "id": "aebf4d2b-d8e2-47be-8f3c-c80fbe135012",
+      "node_type": "Clause",
+      "publisher": "finlex",
+      "title": "§ 9 mom 2",
+      "text": "2) toisessa ryhmässä yliopiston muu henkilökunta.",
+      "clause_number": 2,
+      "section_number": "9",
+      "statute_id": ""
+    },
+    {
+      "id": "3fe68e0b-91c7-4cb4-a27a-674c0a04220d",
+      "node_type": "Clause",
+      "publisher": "finlex",
+      "title": "§ 18 mom 1",
+      "text": "1) hoitaa yliopiston yleistä hallintoa;",
+      "clause_number": 1,
+      "section_number": "18",
+      "statute_id": ""
+    },
+    {
+      "id": "2fa9a0b9-1aea-4b3b-b2e2-92a07420957c",
+      "node_type": "Clause",
+      "publisher": "finlex",
+      "title": "§ 18 mom 2",
+      "text": "2) tehdä ehdotuksia yliopistoa koskeviksi laeiksi ja asetuksiksi sekä yliopiston kehittämiseksi ja antaa näitä asioita koskevia lausuntoja muissa kuin 7§:n 1 kohdassa mainituissa tapauksissa;",
+      "clause_number": 2,
+      "section_number": "18",
+      "statute_id": ""
+    },
+    {
+      "id": "ae7ab1ef-032c-4904-a3c1-53f4d4c35c3f",
+      "node_type": "Clause",
+      "publisher": "finlex",
+      "title": "§ 18 mom 3",
+      "text": "3) hyväksyä yliopistoa koskevat johto-, ohje- ja järjestyssäännöt sekä tutkintosäännöt siten kuin niistä erikseen on säädetty;",
+      "clause_number": 3,
+      "section_number": "18",
+      "statute_id": ""
+    },
+    {
+      "id": "a9eacd20-ad29-41cc-98f2-ebb3b2cd64eb",
+      "node_type": "Clause",
+      "publisher": "finlex",
+      "title": "§ 18 mom 4",
+      "text": "4) hyväksyä yliopiston toiminta- ja taloussuunnitelma ja muut laajakantoiset suunnitelmat sekä tehdä ehdotus yliopiston tulo- ja menoarvioksi;",
+      "clause_number": 4,
+      "section_number": "18",
+      "statute_id": ""
+    },
+    {
+      "id": "7d491645-5495-400a-9a5a-17866e564d50",
+      "node_type": "Clause",
+      "publisher": "finlex",
+      "title": "§ 18 mom 5",
+      "text": "5) määrätä tiedekuntaneuvostojen, opetusjaostoneuvoston ja laitosneuvostojen opiskelijoita edustavat jäsenet kalenterivuodeksi kerrallaan;",
+      "clause_number": 5,
+      "section_number": "18",
+      "statute_id": ""
+    },
+    {
+      "id": "e2234731-8ef6-417e-9864-a17445f82ba7",
+      "node_type": "Clause",
+      "publisher": "finlex",
+      "title": "§ 18 mom 6",
+      "text": "6) päättää tiedekuntaneuvostojen, opetusjaostoneuvoston, laitosneuvostojen ja johtokuntien kokoonpanon muutoksista niiden toimikauden aikana;",
+      "clause_number": 6,
+      "section_number": "18",
+      "statute_id": ""
+    },
+    {
+      "id": "b99807a4-a8d3-437f-be00-87f102656326",
+      "node_type": "Clause",
+      "publisher": "finlex",
+      "title": "§ 18 mom 7",
+      "text": "7) huolehtia valtuustossa käsiteltävien asioiden valmistelusta lukuun ottamatta 7§:n 2-4 kohdassa tarkoitettuja asioita sekä valtuuston päätösten toimeenpanosta;",
+      "clause_number": 7,
+      "section_number": "18",
+      "statute_id": ""
+    },
+    {
+      "id": "d0c54df1-ff01-4117-89f6-f3038e8006c2",
+      "node_type": "Clause",
+      "publisher": "finlex",
+      "title": "§ 18 mom 8",
+      "text": "8) tehdä esitys hallintojohtajan ja ylikirjastonhoitajan viran täyttämisestä;",
+      "clause_number": 8,
+      "section_number": "18",
+      "statute_id": ""
+    },
+    {
+      "id": "636447b6-cb18-4b97-bfc6-3ee08aa70f5a",
+      "node_type": "Clause",
+      "publisher": "finlex",
+      "title": "§ 18 mom 9",
+      "text": "9) nimittää ne yliopiston vakinaiset virkamiehet, jotka ovat hallituksen nimitettäviä;",
+      "clause_number": 9,
+      "section_number": "18",
+      "statute_id": ""
+    },
+    {
+      "id": "77b7f876-ad71-4402-8916-77aa7efc04d7",
+      "node_type": "Clause",
+      "publisher": "finlex",
+      "title": "§ 18 mom 10",
+      "text": "10) jakaa yliopistolle jakamattomina myönnetyt määrärahat ja tehdä ehdotus erityismenoarvioksi;",
+      "clause_number": 10,
+      "section_number": "18",
+      "statute_id": ""
+    },
+    {
+      "id": "582badfb-4514-4f7a-aaef-97bd8fdc6341",
+      "node_type": "Clause",
+      "publisher": "finlex",
+      "title": "§ 18 mom 11",
+      "text": "11) päättää viran sijoittamisesta ja alasta, jollei muualla ole toisin säädetty;",
+      "clause_number": 11,
+      "section_number": "18",
+      "statute_id": ""
+    },
+    {
+      "id": "c54c8604-f83d-486b-8b65-e914935a4329",
+      "node_type": "Clause",
+      "publisher": "finlex",
+      "title": "§ 18 mom 12",
+      "text": "12) päättää yliopiston saamien lahjoitusten ja testamenttien vastaanottamisesta, antaa näin saatujen varojen hoitamista ja käyttämistä koskevat määräykset, valita tilintarkastajat tarkastamaan rahastojen tilejä sekä päättää niistä toimenpiteistä, joihin tilintarkastajien lausunto antaa aihetta;",
+      "clause_number": 12,
+      "section_number": "18",
+      "statute_id": ""
+    },
+    {
+      "id": "ccfa4fce-d220-4d52-ad54-22397b43c9e2",
+      "node_type": "Clause",
+      "publisher": "finlex",
+      "title": "§ 18 mom 13",
+      "text": "13) jakaa dosenttistipendit, apurahat ja avustukset, jollei toisin ole säädetty tai määrätty;",
+      "clause_number": 13,
+      "section_number": "18",
+      "statute_id": ""
+    },
+    {
+      "id": "54add7ea-725c-482c-90b0-8fb599fc9c82",
+      "node_type": "Clause",
+      "publisher": "finlex",
+      "title": "§ 18 mom 14",
+      "text": "14) päättää yliopistoon vuosittain otettavien opiskelijoiden määrästä ja yleisistä valintaperusteista;",
+      "clause_number": 14,
+      "section_number": "18",
+      "statute_id": ""
+    },
+    {
+      "id": "87ee6a4d-4fdc-441a-b07e-7710cf482932",
+      "node_type": "Clause",
+      "publisher": "finlex",
+      "title": "§ 18 mom 15",
+      "text": "15) ratkaista ne rehtorille tai hallintovirastolle kuuluvat asiat, jotka rehtori tai hallintovirasto niiden tärkeyden vuoksi alistaa hallituksen ratkaistaviksi; sekä",
+      "clause_number": 15,
+      "section_number": "18",
+      "statute_id": ""
+    },
+    {
+      "id": "4242bd78-5602-49d1-b053-d80cdec41ea7",
+      "node_type": "Clause",
+      "publisher": "finlex",
+      "title": "§ 18 mom 16",
+      "text": "16) käsitellä ja ratkaista muut asiat, jotka on säädetty tai määrätty hallituksen käsiteltäviksi ja ratkaistaviksi.",
+      "clause_number": 16,
+      "section_number": "18",
+      "statute_id": ""
+    },
+    {
+      "id": "ea92ccd8-1eea-47cc-8113-710ac45e6ad1",
+      "node_type": "Clause",
+      "publisher": "finlex",
+      "title": "§ 27 mom 1",
+      "text": "1) tehdä aloitteita yliopiston kehittämiseksi;",
+      "clause_number": 1,
+      "section_number": "27",
+      "statute_id": ""
+    },
+    {
+      "id": "6489a6d6-a078-44ff-abd0-d01807df7354",
+      "node_type": "Clause",
+      "publisher": "finlex",
+      "title": "§ 27 mom 2",
+      "text": "2) valvoa, että yliopistossa noudatetaan järjestystä ja yliopistoa koskevia säännöksiä ja määräyksiä ja että opetusta ja laitoksia hoidetaan asianmukaisesti ja että henkilökunta täyttää tehtävänsä;",
+      "clause_number": 2,
+      "section_number": "27",
+      "statute_id": ""
+    },
+    {
+      "id": "89d22e40-e5de-4302-9017-d86808065fae",
+      "node_type": "Clause",
+      "publisher": "finlex",
+      "title": "§ 27 mom 3",
+      "text": "3) toimia yliopiston hallituksen puheenjohtajana;",
+      "clause_number": 3,
+      "section_number": "27",
+      "statute_id": ""
+    },
+    {
+      "id": "b353a0df-015a-4534-94fe-2626a4e904ea",
+      "node_type": "Clause",
+      "publisher": "finlex",
+      "title": "§ 27 mom 4",
+      "text": "4) kehittää ja johtaa yliopiston kansainvälistä toimintaa;",
+      "clause_number": 4,
+      "section_number": "27",
+      "statute_id": ""
+    },
+    {
+      "id": "572cfda1-0419-4f12-9ec7-d846d60342bc",
+      "node_type": "Clause",
+      "publisher": "finlex",
+      "title": "§ 27 mom 5",
+      "text": "5) kehittää ja johtaa yliopiston tiedotustoimintaa; sekä",
+      "clause_number": 5,
+      "section_number": "27",
+      "statute_id": ""
+    },
+    {
+      "id": "c7a92fbc-27c9-448e-b11b-ca2888e75ebb",
+      "node_type": "Clause",
+      "publisher": "finlex",
+      "title": "§ 27 mom 6",
+      "text": "6) käsitellä ja ratkaista muut asiat, jotka voimassa olevien säännösten ja määräysten mukaan ovat rehtorin käsiteltäviä ja ratkaistavia.",
+      "clause_number": 6,
+      "section_number": "27",
+      "statute_id": ""
+    },
+    {
+      "id": "877982a7-2276-44eb-aef9-b7606850c4de",
+      "node_type": "Clause",
+      "publisher": "finlex",
+      "title": "§ 29 mom 1",
+      "text": "1) tehdä aloitteita yliopiston toiminnan ja hallinnon kehittämiseksi ja huolehtia suunnitteluun liittyvien ehdotusten ja ohjelmien valmistelusta;",
+      "clause_number": 1,
+      "section_number": "29",
+      "statute_id": ""
+    },
+    {
+      "id": "b24efded-f6ce-4060-9fad-3201c37c81c0",
+      "node_type": "Clause",
+      "publisher": "finlex",
+      "title": "§ 29 mom 2",
+      "text": "2) valvoa, että yliopiston omaisuutta hoidetaan sekä käytetään oikein ja taloudellisesti;",
+      "clause_number": 2,
+      "section_number": "29",
+      "statute_id": ""
+    },
+    {
+      "id": "fce7cab4-7708-4aa9-8023-ec1a4789eb03",
+      "node_type": "Clause",
+      "publisher": "finlex",
+      "title": "§ 29 mom 3",
+      "text": "3) huolehtia yliopiston monijäsenisten hallintoelinten ja rehtorin käsiteltävien asioiden valmistelusta ja esittelystä sekä päätösten toimeenpanosta, jollei toisin ole säädetty tai määrätty;",
+      "clause_number": 3,
+      "section_number": "29",
+      "statute_id": ""
+    },
+    {
+      "id": "c9eb3379-2b7b-4056-acef-266e97aa9bc5",
+      "node_type": "Clause",
+      "publisher": "finlex",
+      "title": "§ 29 mom 4",
+      "text": "4) myöntää virkavapaus ja antaa viranhoitomääräys, jollei toisin ole säädetty;",
+      "clause_number": 4,
+      "section_number": "29",
+      "statute_id": ""
+    },
+    {
+      "id": "50c58108-076e-45b6-aae3-8d8b611f8d67",
+      "node_type": "Clause",
+      "publisher": "finlex",
+      "title": "§ 29 mom 5",
+      "text": "5) huolehtia virkojen julistamisesta haettavaksi;",
+      "clause_number": 5,
+      "section_number": "29",
+      "statute_id": ""
+    },
+    {
+      "id": "794529d9-cf13-436b-ace2-156fca2369de",
+      "node_type": "Clause",
+      "publisher": "finlex",
+      "title": "§ 29 mom 6",
+      "text": "6) nimittää ja ottaa ne vakinaiset ja tilapäiset virkamiehet sekä työsopimussuhteessa olevat henkilöt, joiden nimittäminen tai ottaminen ei kuulu muulle viranomaiselle tai yliopiston muulle hallintoelimelle sekä ottaa päätoimiset tuntiopettajat;",
+      "clause_number": 6,
+      "section_number": "29",
+      "statute_id": ""
+    },
+    {
+      "id": "0f524ecb-dad3-4995-980d-5d320137556a",
+      "node_type": "Clause",
+      "publisher": "finlex",
+      "title": "§ 29 mom 7",
+      "text": "7) myöntää ikälisät ja muut vastaavat edut, jollei erikseen ole toisin säädetty, sekä hoitaa muut yliopiston henkilöstöhallintoon liittyvät asiat;",
+      "clause_number": 7,
+      "section_number": "29",
+      "statute_id": ""
+    },
+    {
+      "id": "1e08b783-2877-4355-99e5-78aae51f9f1c",
+      "node_type": "Clause",
+      "publisher": "finlex",
+      "title": "§ 29 mom 8",
+      "text": "8) päättää valtion ja kunnan viranomaisten sekä yksityisten ja yhteisöjen tilaamia tieteellisiä tutkimuksia ja muita palvelutehtäviä koskevista sopimuksista;",
+      "clause_number": 8,
+      "section_number": "29",
+      "statute_id": ""
+    },
+    {
+      "id": "2a348309-b561-419e-a740-8455af3d12af",
+      "node_type": "Clause",
+      "publisher": "finlex",
+      "title": "§ 29 mom 9",
+      "text": "9) huolehtia yliopiston opetussuunnitelmien ja toimintakertomuksen julkaisemisesta;",
+      "clause_number": 9,
+      "section_number": "29",
+      "statute_id": ""
+    },
+    {
+      "id": "dee02232-74d3-43e2-97d1-370551e92a7e",
+      "node_type": "Clause",
+      "publisher": "finlex",
+      "title": "§ 29 mom 10",
+      "text": "10) pitää luetteloa yliopistoon kuuluvista henkilöistä sekä opiskelijoiden opintosuorituksista ja muita rekistereitä, jotka on määrätty yliopistossa pidettäviksi tai katsottu tarpeellisiksi;",
+      "clause_number": 10,
+      "section_number": "29",
+      "statute_id": ""
+    },
+    {
+      "id": "ccff57a6-6d08-4487-bad0-4ae4a24132a3",
+      "node_type": "Clause",
+      "publisher": "finlex",
+      "title": "§ 29 mom 11",
+      "text": "11) huolehtia yliopiston tiedotustoiminnasta;",
+      "clause_number": 11,
+      "section_number": "29",
+      "statute_id": ""
+    },
+    {
+      "id": "f6d278da-cfd3-48c8-8ad8-d2c0e7d37bae",
+      "node_type": "Clause",
+      "publisher": "finlex",
+      "title": "§ 29 mom 12",
+      "text": "12) huolehtia yliopiston tilinpidosta sekä valvoa tulo- ja menoarvion noudattamista;",
+      "clause_number": 12,
+      "section_number": "29",
+      "statute_id": ""
+    },
+    {
+      "id": "21f9ee67-08fd-4679-b112-0d632297d54d",
+      "node_type": "Clause",
+      "publisher": "finlex",
+      "title": "§ 29 mom 13",
+      "text": "13) huolehtia yliopiston hankinnoista, jollei toisin ole säädetty tai määrätty; sekä",
+      "clause_number": 13,
+      "section_number": "29",
+      "statute_id": ""
+    },
+    {
+      "id": "a788e2ac-0aa7-4ddd-890e-48ecb47875ea",
+      "node_type": "Clause",
+      "publisher": "finlex",
+      "title": "§ 29 mom 14",
+      "text": "14) hoitaa, käsitellä ja ratkaista muut yliopistolle kuuluvat asiat, joista ei ole toisin säädetty tai määrätty.",
+      "clause_number": 14,
+      "section_number": "29",
+      "statute_id": ""
+    },
+    {
+      "id": "c8100bbf-6e23-47e3-8f23-4ece63551906",
+      "node_type": "Clause",
+      "publisher": "finlex",
+      "title": "§ 31 mom 1",
+      "text": "1) toimia rehtorin lähimpänä apuna sekä valvoa, että yliopiston hallintohenkilökunta täyttää tehtävänsä;",
+      "clause_number": 1,
+      "section_number": "31",
+      "statute_id": ""
+    },
+    {
+      "id": "213deb08-5f8d-463c-8516-3ef45935eee4",
+      "node_type": "Clause",
+      "publisher": "finlex",
+      "title": "§ 31 mom 2",
+      "text": "2) tehdä tarpeellisiksi katsomiaan aloitteita yliopiston toimintaa, erityisesti sen hallintoa koskeviksi uudistuksiksi; sekä",
+      "clause_number": 2,
+      "section_number": "31",
+      "statute_id": ""
+    },
+    {
+      "id": "38a9e053-2f95-42ef-8482-ba9e7aef8b1a",
+      "node_type": "Clause",
+      "publisher": "finlex",
+      "title": "§ 31 mom 1",
+      "text": "3) ratkaista 29§:n 1 momentin 2, 3, 5, 7, 9, 10 ja 13 kohdassa tarkoitetut asiat.",
+      "clause_number": 1,
+      "section_number": "31",
+      "statute_id": ""
+    },
+    {
+      "id": "f90fcc2d-f878-49f5-84b1-8ec0f261a8a5",
+      "node_type": "Clause",
+      "publisher": "finlex",
+      "title": "§ 31 mom 3",
+      "text": "3) ratkaista 29§:n 1 momentin 2, 3, 5, 7, 9, 10 ja 13 kohdassa tarkoitetut asiat.",
+      "clause_number": 3,
+      "section_number": "31",
+      "statute_id": ""
+    },
+    {
+      "id": "828a91f5-2d1e-4afa-91e2-a9993e5feaa6",
+      "node_type": "Clause",
+      "publisher": "finlex",
+      "title": "§ 35 mom 1",
+      "text": "1) kehittää tiedekunnan tutkintoja ja tehdä niitä koskevia aloitteita ja esityksiä;",
+      "clause_number": 1,
+      "section_number": "35",
+      "statute_id": ""
+    },
+    {
+      "id": "ecea22ec-569d-4945-8159-fb414401ec57",
+      "node_type": "Clause",
+      "publisher": "finlex",
+      "title": "§ 35 mom 2",
+      "text": "2) käsitellä asiat, jotka koskevat tutkintojen, tutkimuksen, opetuksen ja muiden tiedekunnan tehtäväalueiden edellyttämää yhteistoimintaa eri tiedekuntien ja laitosten kesken;",
+      "clause_number": 2,
+      "section_number": "35",
+      "statute_id": ""
+    },
+    {
+      "id": "45a21fa3-bace-4688-8a96-f6c13bb19063",
+      "node_type": "Clause",
+      "publisher": "finlex",
+      "title": "§ 35 mom 3",
+      "text": "3) päättää avoinna olevan viran opetusalan täsmentämisestä ja tehdä esitys haettavaksi julistamisen siirtämisestä;",
+      "clause_number": 3,
+      "section_number": "35",
+      "statute_id": ""
+    },
+    {
+      "id": "b2227884-f85b-4625-8382-e33e768c64f0",
+      "node_type": "Clause",
+      "publisher": "finlex",
+      "title": "§ 35 mom 4",
+      "text": "4) valita professorin ja apulaisprofessorin viran täyttämisessä ja dosentin ottamisessa käytettävät asiantuntijat sekä ratkaista näiden virkojen hakijoiden ja dosentiksi hakevan pätevyys;",
+      "clause_number": 4,
+      "section_number": "35",
+      "statute_id": ""
+    },
+    {
+      "id": "187be353-1f6d-4cce-ae41-621ecba9a658",
+      "node_type": "Clause",
+      "publisher": "finlex",
+      "title": "§ 35 mom 5",
+      "text": "5) tehdä kanslerille esitys kutsumismenettelyyn ryhtymisestä;",
+      "clause_number": 5,
+      "section_number": "35",
+      "statute_id": ""
+    },
+    {
+      "id": "180aa977-0809-4de7-968d-6ae7a33febec",
+      "node_type": "Clause",
+      "publisher": "finlex",
+      "title": "§ 35 mom 6",
+      "text": "6) tehdä ehdollepano professorin ja apulaisprofessorin virkaan ja esitys professorin viran täyttämiseksi kutsusta sekä esitys dosentin ottamisesta;",
+      "clause_number": 6,
+      "section_number": "35",
+      "statute_id": ""
+    },
+    {
+      "id": "68a43ab2-4c03-4fd1-8fd7-a2e89c9daad2",
+      "node_type": "Clause",
+      "publisher": "finlex",
+      "title": "§ 35 mom 7",
+      "text": "7) tehdä esitys tiedekunnan yliopettajan, lehtorin ja apulaisopettajan, yliassistentin ja assistentin sekä harjoittelukoulun rehtorin nimittämisestä tai ottamisesta;",
+      "clause_number": 7,
+      "section_number": "35",
+      "statute_id": ""
+    },
+    {
+      "id": "20ef97b1-7859-4aae-9102-061ff1a37ebb",
+      "node_type": "Clause",
+      "publisher": "finlex",
+      "title": "§ 35 mom 8",
+      "text": "8) tehdä laitosten ehdotukset saatuaan esitys tiedekunnan toiminta- ja taloussuunnitelmaksi;",
+      "clause_number": 8,
+      "section_number": "35",
+      "statute_id": ""
+    },
+    {
+      "id": "b7463a34-024c-4a24-84a5-1090e00048d7",
+      "node_type": "Clause",
+      "publisher": "finlex",
+      "title": "§ 35 mom 9",
+      "text": "9) jakaa tiedekunnalle osoitetut tuntiopetusmäärärahat ja jakamattomina osoitetut määrärahat;",
+      "clause_number": 9,
+      "section_number": "35",
+      "statute_id": ""
+    },
+    {
+      "id": "0760f166-f11e-4771-a0fc-03828b850287",
+      "node_type": "Clause",
+      "publisher": "finlex",
+      "title": "§ 35 mom 10",
+      "text": "10) tehdä esitys tiedekuntaan otettavien opiskelijoiden määrästä ja yleisistä valintaperusteista sekä päättää yksityiskohtaisista valintaperusteista laitoksia kuultuaan;",
+      "clause_number": 10,
+      "section_number": "35",
+      "statute_id": ""
+    },
+    {
+      "id": "28db7503-0d0d-4944-af8c-3501398c389b",
+      "node_type": "Clause",
+      "publisher": "finlex",
+      "title": "§ 35 mom 11",
+      "text": "11) huolehtia yhdessä laitosten kanssa opiskelijoiden valinnasta sekä hyväksyä uudet opiskelijat;",
+      "clause_number": 11,
+      "section_number": "35",
+      "statute_id": ""
+    },
+    {
+      "id": "1a9c1cdb-e6e3-4e32-b211-20f15332aadc",
+      "node_type": "Clause",
+      "publisher": "finlex",
+      "title": "§ 35 mom 12",
+      "text": "12) päättää kuulustelutilaisuuksien järjestämisestä;",
+      "clause_number": 12,
+      "section_number": "35",
+      "statute_id": ""
+    },
+    {
+      "id": "df2c2e0c-468a-419d-86c5-89eaa83d313f",
+      "node_type": "Clause",
+      "publisher": "finlex",
+      "title": "§ 35 mom 13",
+      "text": "13) tehdä esitys tutkintosäännöksi sekä ottaen huomioon hallintoviraston ohjeet opettajien opetus- ja muuta työvelvollisuutta koskevien säännösten, määräysten ja sopimusten soveltamisesta, hyväksyä opetussuunnitelmat koulutusohjelmia, jatkotutkintoja ja muita opintoja varten;",
+      "clause_number": 13,
+      "section_number": "35",
+      "statute_id": ""
+    },
+    {
+      "id": "e4437bf2-3309-455c-9c97-45bd5532c89e",
+      "node_type": "Clause",
+      "publisher": "finlex",
+      "title": "§ 35 mom 14",
+      "text": "14) määrätä väitöskirjojen, lisensiaatintutkimusten ja muiden vastaavien opintosuoritusten esitarkastajat, tarkastajat ja vastaväittäjät sekä arvostella nämä tarkastajien lausuntojen perusteella;",
+      "clause_number": 14,
+      "section_number": "35",
+      "statute_id": ""
+    },
+    {
+      "id": "60917ff0-7b59-4a0c-a9be-125191157776",
+      "node_type": "Clause",
+      "publisher": "finlex",
+      "title": "§ 35 mom 15",
+      "text": "15) antaa todistukset tiedekunnassa suoritetuista tutkinnoista ja myöntää humanististen tieteiden kandidaatin, luonnontieteiden kandidaatin, maisterin ja kunniatohtorin arvoja sekä järjestää kanslerin suostumuksella promootioita;",
+      "clause_number": 15,
+      "section_number": "35",
+      "statute_id": ""
+    },
+    {
+      "id": "35d274c0-be74-46be-967d-33f22aac3166",
+      "node_type": "Clause",
+      "publisher": "finlex",
+      "title": "§ 35 mom 16",
+      "text": "16) päättää tiedekunnan jaettavaksi määrättyjen apurahojen myöntämisestä ja antaa apurahojen hakijoista pyydettyjä lausuntoja; sekä",
+      "clause_number": 16,
+      "section_number": "35",
+      "statute_id": ""
+    },
+    {
+      "id": "5b7be0cc-68b4-46c2-8f55-6fabfea1ac08",
+      "node_type": "Clause",
+      "publisher": "finlex",
+      "title": "§ 35 mom 17",
+      "text": "17) käsitellä ja ratkaista muut asiat, jotka on säädetty tai määrätty tiedekuntaneuvoston käsiteltäviksi ja ratkaistaviksi.",
+      "clause_number": 17,
+      "section_number": "35",
+      "statute_id": ""
+    },
+    {
+      "id": "b2f3903b-cb41-4eb9-b798-6bddd27cfe46",
+      "node_type": "Clause",
+      "publisher": "finlex",
+      "title": "§ 43 mom 1",
+      "text": "1) kehittää ja ohjata laitoksen toimintaa;",
+      "clause_number": 1,
+      "section_number": "43",
+      "statute_id": ""
+    },
+    {
+      "id": "c6d6f719-4923-4dc9-a30f-bca880efdf1e",
+      "node_type": "Clause",
+      "publisher": "finlex",
+      "title": "§ 43 mom 2",
+      "text": "2) tehdä laitosta koskeva ehdotus tiedekunnan toiminta- ja taloussuunnitelmaa varten;",
+      "clause_number": 2,
+      "section_number": "43",
+      "statute_id": ""
+    },
+    {
+      "id": "44cfd3bd-4b1f-4821-9efc-aed38ffda147",
+      "node_type": "Clause",
+      "publisher": "finlex",
+      "title": "§ 43 mom 3",
+      "text": "3) tehdä esitys vuotuiseksi tulo- ja menoarvioksi;",
+      "clause_number": 3,
+      "section_number": "43",
+      "statute_id": ""
+    },
+    {
+      "id": "f17efda9-27b0-4665-8c0b-4421b0e16b82",
+      "node_type": "Clause",
+      "publisher": "finlex",
+      "title": "§ 43 mom 4",
+      "text": "4) tehdä vuotuinen voimavarojen käyttösuunnitelma;",
+      "clause_number": 4,
+      "section_number": "43",
+      "statute_id": ""
+    },
+    {
+      "id": "db4ec587-ea84-4c6d-b638-86a661c2f580",
+      "node_type": "Clause",
+      "publisher": "finlex",
+      "title": "§ 43 mom 5",
+      "text": "5) tehdä esitys laitoksen vastuulla olevien koulutusohjelmien opetussuunnitelmaksi, jollei tiedekuntaneuvosto toisin määrää;",
+      "clause_number": 5,
+      "section_number": "43",
+      "statute_id": ""
+    },
+    {
+      "id": "e5c97d4a-873b-44f3-8ee4-8222e1ca7ac9",
+      "node_type": "Clause",
+      "publisher": "finlex",
+      "title": "§ 43 mom 1",
+      "text": "6) tehdä esitys tilapäisen opettajan sekä laitoksen muun kuin 57§:n 1 momentissa tarkoitetun henkilökunnan ottamisesta;",
+      "clause_number": 1,
+      "section_number": "43",
+      "statute_id": ""
+    },
+    {
+      "id": "8665fa5c-362c-40ba-afab-7dddafcb36fa",
+      "node_type": "Clause",
+      "publisher": "finlex",
+      "title": "§ 43 mom 6",
+      "text": "6) tehdä esitys tilapäisen opettajan sekä laitoksen muun kuin 57§:n 1 momentissa tarkoitetun henkilökunnan ottamisesta;",
+      "clause_number": 6,
+      "section_number": "43",
+      "statute_id": ""
+    },
+    {
+      "id": "86ce6f8e-3648-4119-9e67-962fdbf43746",
+      "node_type": "Clause",
+      "publisher": "finlex",
+      "title": "§ 43 mom 7",
+      "text": "7) tehdä esityksiä ja antaa lausuntoja laitokseen kuuluvien virkojen viranhoitojärjestelyistä sekä virkavapauksista;",
+      "clause_number": 7,
+      "section_number": "43",
+      "statute_id": ""
+    },
+    {
+      "id": "f1fd3f1d-1f84-4bdc-baec-4b23b4dcbfd1",
+      "node_type": "Clause",
+      "publisher": "finlex",
+      "title": "§ 43 mom 8",
+      "text": "8) määrätä perustutkinnon syventäviin opintoihin kuuluvan tutkielman tarkastajat sekä arvostella tutkielma tarkastajien lausuntojen perusteella;",
+      "clause_number": 8,
+      "section_number": "43",
+      "statute_id": ""
+    },
+    {
+      "id": "d43671c3-2203-4471-b0b2-92c2d0c18da2",
+      "node_type": "Clause",
+      "publisher": "finlex",
+      "title": "§ 43 mom 9",
+      "text": "9) käsitellä ja ratkaista muut asiat, jotka on säädetty tai määrätty laitosneuvoston käsiteltäviksi ja ratkaistaviksi; sekä",
+      "clause_number": 9,
+      "section_number": "43",
+      "statute_id": ""
+    },
+    {
+      "id": "3d3c3cea-2830-4f0e-a9ca-efffa2144ad6",
+      "node_type": "Clause",
+      "publisher": "finlex",
+      "title": "§ 43 mom 10",
+      "text": "10) ottaa tuntiopettajat päätoimisia lukuun ottamatta.",
+      "clause_number": 10,
+      "section_number": "43",
+      "statute_id": ""
+    },
+    {
+      "id": "62c786f2-ce15-4659-8efe-6f2931cca217",
+      "node_type": "Clause",
+      "publisher": "finlex",
+      "title": "§ 45 mom 1",
+      "text": "1) huolehtia, että laitoksen opetus- ja tutkimusvälineet ja tilat ovat asianmukaisessa järjestyksessä, ja tarvittaessa osoittaa välineet ja tilat opettajille ja tutkimustyötä harjoittaville;",
+      "clause_number": 1,
+      "section_number": "45",
+      "statute_id": ""
+    },
+    {
+      "id": "92229a0e-1f43-4085-b488-da9141c8789a",
+      "node_type": "Clause",
+      "publisher": "finlex",
+      "title": "§ 45 mom 2",
+      "text": "2) huolehtia laitoksen hankinnoista hallintoviraston ohjeiden ja laitosneuvoston päätösten mukaisesti;",
+      "clause_number": 2,
+      "section_number": "45",
+      "statute_id": ""
+    },
+    {
+      "id": "11effde8-1172-4498-89b1-1fff4f73a3d1",
+      "node_type": "Clause",
+      "publisher": "finlex",
+      "title": "§ 45 mom 3",
+      "text": "3) valvoa laitoksen määrärahojen käyttämistä sekä tulo- ja menoarvion noudattamista;",
+      "clause_number": 3,
+      "section_number": "45",
+      "statute_id": ""
+    },
+    {
+      "id": "f72023da-2c0d-4874-b995-372af4676cb0",
+      "node_type": "Clause",
+      "publisher": "finlex",
+      "title": "§ 45 mom 4",
+      "text": "4) tehdä laitoksen vuotuisen voimavarojen käyttösuunnitelman mukaiset päätökset;",
+      "clause_number": 4,
+      "section_number": "45",
+      "statute_id": ""
+    },
+    {
+      "id": "05a3169e-4a74-43eb-b0ed-c2cc7e2db93d",
+      "node_type": "Clause",
+      "publisher": "finlex",
+      "title": "§ 45 mom 5",
+      "text": "5) huolehtia laitoksen toimintakertomuksen laatimisesta; sekä",
+      "clause_number": 5,
+      "section_number": "45",
+      "statute_id": ""
+    },
+    {
+      "id": "e3a08c59-7d00-495e-9eba-3bb05375115b",
+      "node_type": "Clause",
+      "publisher": "finlex",
+      "title": "§ 45 mom 6",
+      "text": "6) huolehtia siitä, että laitosneuvoston käsiteltäviksi kuuluvat asiat tulevat valmistelluiksi, esitellyiksi ja toimeenpannuiksi asianmukaisessa järjestyksessä ja ajassa.",
+      "clause_number": 6,
+      "section_number": "45",
+      "statute_id": ""
+    },
+    {
+      "id": "d7b4377a-864b-4def-a0c4-c11baf22383a",
+      "node_type": "Clause",
+      "publisher": "finlex",
+      "title": "§ 81 mom 1",
+      "text": "1) asetus lääketieteellisistä tutkinnoista (762/75);",
+      "clause_number": 1,
+      "section_number": "81",
+      "statute_id": ""
+    },
+    {
+      "id": "8ee62100-ccb8-4fd0-ba2a-d9c0790c1b8a",
+      "node_type": "Clause",
+      "publisher": "finlex",
+      "title": "§ 81 mom 2",
+      "text": "2) asetus kauppatieteellisistä tutkinnoista (402/77);",
+      "clause_number": 2,
+      "section_number": "81",
+      "statute_id": ""
+    },
+    {
+      "id": "15810c54-2957-4131-93a1-3c4ff1d216f7",
+      "node_type": "Clause",
+      "publisher": "finlex",
+      "title": "§ 81 mom 3",
+      "text": "3) asetus kasvatustieteellisistä tutkinnoista ja opinnoista (530/78);",
+      "clause_number": 3,
+      "section_number": "81",
+      "statute_id": ""
+    },
+    {
+      "id": "4fc8f7b7-08e7-4a2b-a2d1-9e0d932050ea",
+      "node_type": "Clause",
+      "publisher": "finlex",
+      "title": "§ 81 mom 4",
+      "text": "4) asetus humanistisista tutkinnoista (1080/78);",
+      "clause_number": 4,
+      "section_number": "81",
+      "statute_id": ""
+    },
+    {
+      "id": "d37cb6fd-fb18-4341-9f93-ef4427db46d1",
+      "node_type": "Clause",
+      "publisher": "finlex",
+      "title": "§ 81 mom 5",
+      "text": "5) asetus humanistisen perustutkinnon järjestämisestä (741/79);",
+      "clause_number": 5,
+      "section_number": "81",
+      "statute_id": ""
+    },
+    {
+      "id": "755e8f37-3027-49e3-b9da-ec0f075dca16",
+      "node_type": "Clause",
+      "publisher": "finlex",
+      "title": "§ 81 mom 6",
+      "text": "6) asetus luonnontieteellisistä tutkinnoista (1081/78);",
+      "clause_number": 6,
+      "section_number": "81",
+      "statute_id": ""
+    },
+    {
+      "id": "6551425c-bb93-44e3-8723-0cae5d8d3fd4",
+      "node_type": "Clause",
+      "publisher": "finlex",
+      "title": "§ 81 mom 7",
+      "text": "7) asetus luonnontieteellisen perustutkinnon järjestämisestä (602/79);",
+      "clause_number": 7,
+      "section_number": "81",
+      "statute_id": ""
+    },
+    {
+      "id": "26b3feb9-cbbb-4a0f-9d33-853e22d4a371",
+      "node_type": "Clause",
+      "publisher": "finlex",
+      "title": "§ 81 mom 8",
+      "text": "8) asetus yhteiskuntatieteellisistä tutkinnoista (1082/78);",
+      "clause_number": 8,
+      "section_number": "81",
+      "statute_id": ""
+    },
+    {
+      "id": "45649d48-4d53-45a4-bd4f-c5c25d84eb41",
+      "node_type": "Clause",
+      "publisher": "finlex",
+      "title": "§ 81 mom 9",
+      "text": "9) asetus yhteiskuntatieteellisten perustutkintojen järjestämisestä (601/79);",
+      "clause_number": 9,
+      "section_number": "81",
+      "statute_id": ""
+    },
+    {
+      "id": "c12c805f-d683-4ade-94ab-1d4f04b6a718",
+      "node_type": "Clause",
+      "publisher": "finlex",
+      "title": "§ 81 mom 10",
+      "text": "10) asetus psykologian tutkinnoista (470/79);",
+      "clause_number": 10,
+      "section_number": "81",
+      "statute_id": ""
+    },
+    {
+      "id": "8b906386-a9d3-457c-905e-3920309eeada",
+      "node_type": "Clause",
+      "publisher": "finlex",
+      "title": "§ 81 mom 11",
+      "text": "11) asetus teatterialan korkeakoulututkinnoista ja -opinnoista (1080/80); ja",
+      "clause_number": 11,
+      "section_number": "81",
+      "statute_id": ""
+    },
+    {
+      "id": "4f08fd0a-c110-4f78-b552-7b9a2ca02385",
+      "node_type": "Clause",
+      "publisher": "finlex",
+      "title": "§ 81 mom 12",
+      "text": "12) asetus eräistä terveydenhuollon tutkinnoista (626/84).",
+      "clause_number": 12,
+      "section_number": "81",
+      "statute_id": ""
+    },
+    {
+      "id": "20189e80-674e-41b2-be90-423cc0ad91d4",
+      "node_type": "Clause",
+      "publisher": "finlex",
+      "title": "§ 105 mom 1",
+      "text": "1) opintosuorituksen arvostelua tai arvostelijan valintaa;",
+      "clause_number": 1,
+      "section_number": "105",
+      "statute_id": ""
+    },
+    {
+      "id": "ea2a1527-06dd-46c9-95c2-cb21cb7c2149",
+      "node_type": "Clause",
+      "publisher": "finlex",
+      "title": "§ 105 mom 2",
+      "text": "2) opiskelijaksi valintaa;",
+      "clause_number": 2,
+      "section_number": "105",
+      "statute_id": ""
+    },
+    {
+      "id": "037638de-9b4f-45a6-b6c4-ca30f9e815e5",
+      "node_type": "Clause",
+      "publisher": "finlex",
+      "title": "§ 105 mom 3",
+      "text": "3) professorin viran täyttämistä kutsusta;",
+      "clause_number": 3,
+      "section_number": "105",
+      "statute_id": ""
+    },
+    {
+      "id": "c234aeeb-2034-4a63-bff0-9d3aaccab9c4",
+      "node_type": "Clause",
+      "publisher": "finlex",
+      "title": "§ 105 mom 4",
+      "text": "4) tilapäisen virkamiehen ottamista;",
+      "clause_number": 4,
+      "section_number": "105",
+      "statute_id": ""
+    },
+    {
+      "id": "426ae032-4ea5-4cd9-ac94-4468cafaff9e",
+      "node_type": "Clause",
+      "publisher": "finlex",
+      "title": "§ 105 mom 5",
+      "text": "5) apurahaa, avustusta tai stipendiä; tai",
+      "clause_number": 5,
+      "section_number": "105",
+      "statute_id": ""
+    },
+    {
+      "id": "5048e517-4391-4482-b8ce-396d0b119346",
+      "node_type": "Clause",
+      "publisher": "finlex",
+      "title": "§ 105 mom 6",
+      "text": "6) muistutuksen tai varoituksen antamista opiskelijalle.",
+      "clause_number": 6,
+      "section_number": "105",
+      "statute_id": ""
+    }
+  ],
+  "cross_references": [],
+  "raw_html_path": "C:\\Users\\danit\\finance-hack\\aalto-hackaton-2026\\data\\raw\\finlex\\Asetus\\Asetus Tampereen yliopistosta_1.html"
+}

@@ -1,0 +1,42 @@
+{
+  "statute": {
+    "id": "c1fdb92a-0e2d-4751-8e0f-218562f508b7",
+    "node_type": "Statute",
+    "publisher": "finlex",
+    "title": "KHO:2014:48",
+    "text": "KHO:2014:48",
+    "statute_id": "74/2012",
+    "finlex_url": "https://finlex.fi/fi/laki/ajantasa/74/2012"
+  },
+  "chapters": [],
+  "sections": [
+    {
+      "id": "073fdfc5-fd0a-4a42-bc11-e36e5065cfa0",
+      "node_type": "Section",
+      "publisher": "finlex",
+      "title": "KHO:2014:48",
+      "text": "Seloste on kokonaisuudessaan ruotsinkielisellä päätössivustolla.",
+      "section_number": "1",
+      "chapter_number": 1,
+      "statute_id": "74/2012"
+    }
+  ],
+  "clauses": [],
+  "cross_references": [
+    {
+      "raw_text": "§ 1 momentti",
+      "statute_id": "74/2012",
+      "section_number": "1 momentti",
+      "clause_number": null,
+      "resolution_confidence": 0.0
+    },
+    {
+      "raw_text": "§ 3 kohta\nY",
+      "statute_id": "74/2012",
+      "section_number": "3 kohta\nY",
+      "clause_number": null,
+      "resolution_confidence": 0.0
+    }
+  ],
+  "raw_html_path": "C:\\Users\\danit\\finance-hack\\aalto-hackaton-2026\\data\\raw\\finlex\\Korkein hallinto-oikeus_ Ennakkopäätökset\\KHO_2014_48.html"
+}

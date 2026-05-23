@@ -1,0 +1,88 @@
+{
+  "statute": {
+    "id": "e194b3e4-eabc-4246-9db3-8b9643c9e95f",
+    "node_type": "Statute",
+    "publisher": "finlex",
+    "title": "Valtioneuvoston asetus jalometallituotteista annetun valtioneuvoston asetuksen muuttamisesta",
+    "text": "Valtioneuvoston asetus jalometallituotteista annetun valtioneuvoston asetuksen muuttamisesta",
+    "statute_id": "1148/2000",
+    "finlex_url": "https://finlex.fi/fi/laki/ajantasa/1148/2000"
+  },
+  "chapters": [],
+  "sections": [
+    {
+      "id": "cd26bd62-bb4b-4ed9-808f-5ad23105ba39",
+      "node_type": "Section",
+      "publisher": "finlex",
+      "title": "3 § Juottaminen",
+      "text": "Käytettävien juotteiden tulee olla samaa pitoisuutta ja jalometallia kuin varsinainen tuote seuraavin poikkeuksin:",
+      "section_number": "3",
+      "chapter_number": 1,
+      "statute_id": "1148/2000"
+    },
+    {
+      "id": "05a12feb-43ce-4f74-bfff-f526ef70e1b0",
+      "node_type": "Section",
+      "publisher": "finlex",
+      "title": "10 § Muut leimat",
+      "text": "Jalometallituotteessa ei saa olla tässä asetuksessa tarkoitettujen leimojen kanssa erehdyttävästi yhdennäköisiä muita leimoja. Muussa kuin jalometallituotteessa ei saa olla tässä asetuksessa tarkoitettuja leimoja tai niiden kanssa erehdyttävästi yhdennäköisiä muita leimoja. Nimileima on kuitenkin sallittu, jos tuotteesta käy selvästi ilmi, ettei kyse ole jalometallituotteesta. Jalometallituotteessa saa olla tässä asetuksessa tarkoitettujen leimojen lisäksi muissa valtioissa käytettäviä leimoja. Mitä 1 - 3 momentissa säädetään, ei sovelleta 14 a §:n tarkoittamissa tilanteissa.",
+      "section_number": "10",
+      "chapter_number": 1,
+      "statute_id": "1148/2000"
+    },
+    {
+      "id": "d159a9e4-7fd0-4c8e-b743-e07e8f736fff",
+      "node_type": "Section",
+      "publisher": "finlex",
+      "title": "11 § Pitoisuusleimat",
+      "text": "Pitoisuusleimassa sallittuja pitoisuutta osoittavia lukuja ovat kultatuotteelle 375, 585, 750, 916 ja 999, hopeatuotteelle 800, 830, 925 ja 999, platinatuotteelle 850, 900, 950 ja 999 ja palladiumtuotteelle 500, 850, 950 ja 999. Muita lukuja pitoisuusleimassa ei saa käyttää.",
+      "section_number": "11",
+      "chapter_number": 1,
+      "statute_id": "1148/2000"
+    },
+    {
+      "id": "47ed4adb-9191-457e-aa68-d6ff7e35c0cf",
+      "node_type": "Section",
+      "publisher": "finlex",
+      "title": "12 § Pitoisuusleimojen pohjamuodot",
+      "text": "Jos jalometallituotteen pitoisuusleimassa käytetään pohjamuotoa, on kullan pitoisuusleiman oltava soikealla, hopean pitoisuusleiman suorakaiteen muotoisella ja platinan pitoisuusleiman kärjellään olevalla vinoneliön muotoisella pohjalla, joka on makaavassa asennossa. Vastaavasti on palladiumin pitoisuusleiman oltava symmetrisen nelikulmion muotoisella pohjalla, jonka kolme sivua ovat samanpituiset ja puolet pohjan pituudesta.",
+      "section_number": "12",
+      "chapter_number": 1,
+      "statute_id": "1148/2000"
+    },
+    {
+      "id": "5b269617-a611-463e-aae3-cc3769374e07",
+      "node_type": "Section",
+      "publisher": "finlex",
+      "title": "14 § Leimauksesta vapauttaminen",
+      "text": "Kulta-, platina- ja palladiumtuote, jonka jalometalliseoksesta valmistetun osan massa on alle 1 gramman, sekä hopeatuote, jonka vastaava massa on alle 10 grammaa, voidaan saattaa markkinoille ilman säädettyjä leimoja. Jos 1 momentissa tarkoitettu tuote leimataan, on siinä oltava vähintään pitoisuusleima. Tämä asetus tulee voimaan 14 päivänä tammikuuta 2009.",
+      "section_number": "14",
+      "chapter_number": 1,
+      "statute_id": "1148/2000"
+    }
+  ],
+  "clauses": [
+    {
+      "id": "83cafd6d-54a1-4ce4-9558-cfd7fb4f3a69",
+      "node_type": "Clause",
+      "publisher": "finlex",
+      "title": "§ 3 mom 3",
+      "text": "3) platinatuotteiden juotteiden platinapitoisuuden tulee olla vähintään 800 tuhannesosaa;",
+      "clause_number": 3,
+      "section_number": "3",
+      "statute_id": "1148/2000"
+    },
+    {
+      "id": "b65d5088-0953-4ac1-8cbd-e6ea624ac088",
+      "node_type": "Clause",
+      "publisher": "finlex",
+      "title": "§ 3 mom 4",
+      "text": "4) palladiumtuotteiden juotteiden jalometallipitoisuuden tulee olla vähintään 500 tuhannesosaa.",
+      "clause_number": 4,
+      "section_number": "3",
+      "statute_id": "1148/2000"
+    }
+  ],
+  "cross_references": [],
+  "raw_html_path": "C:\\Users\\danit\\finance-hack\\aalto-hackaton-2026\\data\\raw\\finlex\\Asetus\\Valtioneuvoston asetus jalometallituotteista annetun valtioneuvoston asetuksen muuttamisesta.html"
+}

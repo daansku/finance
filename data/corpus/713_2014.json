@@ -1,0 +1,1285 @@
+{
+  "statute": {
+    "id": "ef14acab-e95b-489b-8c72-f27a139bac91",
+    "node_type": "Statute",
+    "publisher": "finlex",
+    "title": "Valtioneuvoston asetus ympäristönsuojelusta annetun valtioneuvoston asetuksen muuttamisesta",
+    "text": "Valtioneuvoston asetus ympäristönsuojelusta annetun valtioneuvoston asetuksen muuttamisesta",
+    "statute_id": "713/2014",
+    "finlex_url": "https://finlex.fi/fi/laki/ajantasa/713/2014"
+  },
+  "chapters": [
+    {
+      "id": "8fd90147-e3a4-4170-9de2-7edc811773c9",
+      "node_type": "Chapter",
+      "publisher": "finlex",
+      "title": "Chapter 1",
+      "text": "1 Luku Lupaviranomaisessa käsiteltävät lupa-asiat",
+      "chapter_number": 1,
+      "statute_id": "713/2014"
+    },
+    {
+      "id": "22f9f02a-e6ba-4f45-8d4b-41b232474125",
+      "node_type": "Chapter",
+      "publisher": "finlex",
+      "title": "Chapter 2",
+      "text": "2 luku Lupahakemus ja ympäristönsuojelulain 10 a luvussa tarkoitettu ilmoitus",
+      "chapter_number": 2,
+      "statute_id": "713/2014"
+    },
+    {
+      "id": "c3e564d4-1759-4f76-a19a-84ac0a15cf44",
+      "node_type": "Chapter",
+      "publisher": "finlex",
+      "title": "Chapter 3",
+      "text": "3 luku Lupahakemuksen ja ympäristönsuojelulain 10 a luvussa tarkoitetun ilmoituksen käsittely sekä lupa- ja ilmoituspäätös",
+      "chapter_number": 3,
+      "statute_id": "713/2014"
+    },
+    {
+      "id": "71a80e60-bdbf-42c3-9d4d-9a6ac3dbf544",
+      "node_type": "Chapter",
+      "publisher": "finlex",
+      "title": "Chapter 4",
+      "text": "4 luku Kertaluonteista toimintaa sekä maaperän ja pohjaveden puhdistamista koskeva ilmoitusmenettely",
+      "chapter_number": 4,
+      "statute_id": "713/2014"
+    }
+  ],
+  "sections": [
+    {
+      "id": "b26b5491-6c04-4461-a699-2f65326e6d0c",
+      "node_type": "Section",
+      "publisher": "finlex",
+      "title": "1 § Valtion ympäristölupaviranomaisessa käsiteltävät lupa-asiat",
+      "text": "Valtion ympäristölupaviranomainen ratkaisee ympäristönsuojelulain (527/2014) liitteen 1 taulukossa 1 tarkoitettujen toimintojen ympäristölupa-asiat. Lisäksi valtion ympäristölupaviranomainen ratkaisee seuraavien ympäristönsuojelulain liitteen 1 taulukossa 2 tarkoitettujen toimintojen ympäristölupa-asiat: Lisäksi valtion ympäristölupaviranomainen ratkaisee ympäristönsuojelulain 115 a §:n 3 momentissa tarkoitettuja ilmoitusmenettelyyn kuuluvia ympäristönsuojelulain liitteen 4 kohdan 2 alakohdan b ja kohdan 3 toimintoja koskevat lupa-asiat, jotka edellyttävät ympäristölupaa lain 29 a §:n 1 momentin perusteella.",
+      "section_number": "1",
+      "chapter_number": 1,
+      "statute_id": "713/2014"
+    },
+    {
+      "id": "adb31697-b5f4-4b16-8783-a43a3eaa152b",
+      "node_type": "Section",
+      "publisher": "finlex",
+      "title": "2 § Kunnan ympäristönsuojeluviranomaisessa käsiteltävät lupa-asiat",
+      "text": "Kunnan ympäristönsuojeluviranomaisen toimivallasta käsitellä muut kuin ympäristönsuojelulaissa valtion ympäristölupaviranomaisen ratkaistavaksi säädetyt lupa-asiat säädetään mainitun lain 34 §:n 2 ja 3 momentissa. Kunnan ympäristönsuojeluviranomainen ratkaisee seuraavien ympäristönsuojelulain liitteen 1 taulukossa 2 tarkoitettujen toimintojen ympäristölupahakemukset, jollei ympäristönsuojelulain 34 §:stä johdu muuta: Kunnan ympäristönsuojeluviranomainen käsittelee myös ympäristönsuojelulain 27 §:n 2 momentin 2 kohdassa tarkoitetun jätevesien johtamista koskevan lupa-asian ja 3 kohdassa tarkoitetun kohtuutonta haittaa naapuruussuhteissa aiheuttavan toiminnan lupa-asian sekä 28 §:ssä tarkoitetun pohjavesialueelle sijoittuvan toiminnan lupa-asian, jollei ympäristönsuojelulain 34 §:stä johdu muuta sekä ympäristönsuojelulain 115 a §:n 4 momentissa tarkoitettuja ilmoitusmenettelyyn kuuluvia muita kuin liitteen 4 kohdan 2 alakohdan b ja kohdan 3 toimintoja koskevat lupa-asiat, jotka edellyttävät ympäristölupaa lain 29 a §:n 1 momentin perusteella.",
+      "section_number": "2",
+      "chapter_number": 1,
+      "statute_id": "713/2014"
+    },
+    {
+      "id": "702c7957-a112-4fd3-813d-89a61e5fa1f9",
+      "node_type": "Section",
+      "publisher": "finlex",
+      "title": "3 § Lupahakemuksen ja ilmoituksen sisältö",
+      "text": "Lupahakemuksessa ja ympäristönsuojelulain 115 a §:ssä tarkoitetussa ilmoituksessa on oltava: Lisäksi lupahakemuksessa ja ilmoituksessa on oltava, jos se on toiminnan luonne ja vaikutukset huomioon ottaen päätösharkinnan kannalta tarpeellista: Jos lupahakemus koskee direktiivilaitoksen toimintaa, hakemuksessa on aina oltava 2 momentissa tarkoitetut tiedot. Lisäksi direktiivilaitoksen lupahakemuksessa on oltava: Toiminnanharjoittajan on ilmoitettava käsityksensä siitä, miltä osin hakemus tai ilmoitus sisältää salassa pidettäviä tietoja. Salassa pidettävät tiedot on esitettävä erillisessä liitteessä, jos se on mahdollista.",
+      "section_number": "3",
+      "chapter_number": 2,
+      "statute_id": "713/2014"
+    },
+    {
+      "id": "ea2ab251-881e-404f-9a64-44a835bce3a1",
+      "node_type": "Section",
+      "publisher": "finlex",
+      "title": "4 § Hakemukseen ja ilmoitukseen liitettävät tiedot",
+      "text": "Hakemukseen tai ilmoitukseen on liitettävä tarpeen mukaan: Velvollisuudesta liittää hakemukseen tietoja ympäristövaikutusten arviointimenettelystä ja luonnonsuojelulain (1096/1996) 65 §:ssä tarkoitetusta arvioinnista säädetään ympäristönsuojelulain 39 §:ssä. Velvollisuudesta liittää direktiivilaitoksen hakemukseen perustilaselvitys säädetään ympäristönsuojelulain 82 §:ssä ja velvollisuudesta liittää nimelliseltä sähköntuotantoteholtaan vähintään 300 megawatin polttolaitoksen toiminnan aloittamista koskevaan hakemukseen hiilidioksidin talteenottoa koskevia tietoja säädetään ympäristönsuojelulain 100 §:ssä.",
+      "section_number": "4",
+      "chapter_number": 2,
+      "statute_id": "713/2014"
+    },
+    {
+      "id": "7ff93da8-6eb7-4012-95af-7d3d4b97d5f3",
+      "node_type": "Section",
+      "publisher": "finlex",
+      "title": "8 § Toiminnan muuttamista koskeva hakemus ja ilmoitus",
+      "text": "Jos toimintaa muutetaan siten, että siihen on haettava lupa ympäristönsuojelulain 29 §:n perusteella tai tehtävä ilmoitus 115 a §:n perusteella, lupahakemuksessa tai ilmoituksessa on oltava:",
+      "section_number": "8",
+      "chapter_number": 2,
+      "statute_id": "713/2014"
+    },
+    {
+      "id": "97da81f0-455d-40bb-9c35-bde92ba61250",
+      "node_type": "Section",
+      "publisher": "finlex",
+      "title": "9 § Määräaikaisen luvan tai ilmoituspäätöksen uudistaminen",
+      "text": "Jos lupa on myönnetty tai ympäristönsuojelulain 115 d §:ssä tarkoitettu ilmoituspäätös on tehty määräajaksi ja siinä on samalla määrätty ympäristönsuojelulain 87 §:n nojalla, että uuden luvan tai ilmoituspäätöksen saamiseksi on ennen luvan tai ilmoituspäätöksen voimassaoloajan päättymistä haettava lupaa tai jätettävä ilmoitus, hakemuksessa tai ilmoituksessa on oltava tarpeellisin osin 3–7 §:ssä vaaditut tiedot ja selvitykset.",
+      "section_number": "9",
+      "chapter_number": 2,
+      "statute_id": "713/2014"
+    },
+    {
+      "id": "158c88ea-c8a1-4da1-b5c9-86876df90f03",
+      "node_type": "Section",
+      "publisher": "finlex",
+      "title": "11 § Kuulutus lupahakemuksesta ja ilmoituksesta sekä asiakirjojen nähtävilläpito",
+      "text": "Lupahakemuksesta ja ilmoituksesta on kuulutettava sen jälkeen, kun asia on riittävän yksityiskohtaisesti selvitetty. Lupahakemusta ja ilmoitusta koskevasta kuulutuksesta on käytävä ilmi ainakin: Jos lupaa on haettu ympäristönsuojelulain 41 §:ssä tarkoitettuihin toimintoihin erillisillä hakemuksilla, niistä voidaan kuuluttaa yhteisesti yhdellä kuulutuksella. Hakemus- tai ilmoitusasiakirjat on toimitettava kuntaan pidettäviksi nähtävinä kuulutuksessa mainitussa paikassa. Kunnan suostumuksesta asiakirjat voidaan toimittaa sähköisessä muodossa.",
+      "section_number": "11",
+      "chapter_number": 3,
+      "statute_id": "713/2014"
+    },
+    {
+      "id": "f3002abe-62b1-4552-aef6-65f659fc2844",
+      "node_type": "Section",
+      "publisher": "finlex",
+      "title": "12 § Lupa- ja ilmoitusasiassa pyydettävät lausunnot",
+      "text": "Sen lisäksi, mitä ympäristönsuojelulain 42 ja 115 e §:ssä säädetään, viranomaisen on pyydettävä lausunto: Lisäksi lausunto on pyydettävä puolustusministeriöltä, jos lupa- tai ilmoitusasia koskee puolustusvoimia, ja sisäministeriöltä, jos lupa- tai ilmoitusasia koskee Rajavartiolaitosta, ja: Kunnan ympäristönsuojeluviranomaisen on pyydettävä lausunto elinkeino-, liikenne- ja ympäristökeskukselta ympäristölupa-asiassa, joka koskee toiminnan sijoittumista tärkeälle tai muulle vedenhankintakäyttöön soveltuvalle pohjavesialueelle. Lupaviranomaisen velvollisuudesta pyytää patoturvallisuusviranomaisen lausunto jätepatoa tai muuta patoa koskevassa asiassa säädetään patoturvallisuuslain (494/2009) 9 §:ssä. Velvollisuudesta pyytää pelastusviranomaisen ja patoturvallisuusviranomaisen lausunto sisäisestä pelastussuunnitelmasta säädetään kaivannaisjätteistä annetun valtioneuvoston asetuksen 5 §:n 3 momentissa. Sosiaali- ja terveysministeriö antaa tarvittaessa lausuntoja periaatteellisesti tärkeistä terveyshaitan arvioimiseksi tarpeellisista seikoista ja maa- ja metsätalousministeriö periaatteellisesti tärkeistä eläintautien leviämisvaaran arvioimiseksi tarpeellisista seikoista.",
+      "section_number": "12",
+      "chapter_number": 3,
+      "statute_id": "713/2014"
+    },
+    {
+      "id": "e6d7cd35-d0e2-4bba-9034-61999d192e4f",
+      "node_type": "Section",
+      "publisher": "finlex",
+      "title": "13 § Lupa-asian ja ilmoituksen käsittely",
+      "text": "Asian käsittelystä ilman aiheetonta viivytystä säädetään hallintolain (434/2003) 23 §:ssä ja viranomaisten välisestä yhteistyöstä mainitun lain 10 §:ssä. Viranomaisen on lupahakemusta tai ilmoitusta käsitellessään huolehdittava tarvittavasta yhteydenpidosta niihin viranomaisiin, jotka samanaikaisesti käsittelevät toiminnan muita lupa-asioita ja suunnitelmia. Viranomaisen velvollisuudesta huolehtia asian riittävästä ja asianmukaisesta selvittämisestä säädetään hallintolain 31 §:ssä. Viranomainen voi lupa- tai ilmoitusasian selvittämiseksi tarvittaessa järjestää neuvotteluja asianomaisen valvontaviranomaisen ja hakijan kanssa. Asian selvittämiseksi voidaan lisäksi järjestää yleisön kuulemistilaisuus, jossa voidaan esittää muistutuksia ja mielipiteitä. Katselmuksen toimittamisesta asian selvittämiseksi säädetään hallintolain 38 §:ssä. Menettelystä puutteellisen ilmoituksen käsittelyssä säädetään ympäristönsuojelulain 115 b §:n 3 momentissa. Ilmoituksessa ja sen liitteissä ilmoitetut toiminnanharjoittajaa sitovat tiedot liitetään osaksi ilmoituspäätöstä. Sen lisäksi, mitä ympäristönsuojelulain 115 d ja 115 e §:ssä säädetään ilmoituspäätöksen sisällöstä, päätöksestä on käytävä ilmi: Ilmoituspäätöksessä on lisäksi mainittava, mitä ympäristönsuojelulain 70 §:n 2 momentissa säädetään ilmoituspäätökseen sisältyvän määräyksen ja valtioneuvoston asetuksen välisestä suhteesta. Jos lailla tai valtioneuvoston asetuksella on säädetty toiminnan ympäristönsuojeluvaatimuksista, ilmoituspäätökseen sisältyvissä määräyksissä ei ole tarpeen toistaa näitä vaatimuksia. Lisäksi ilmoituspäätöksestä on tarvittaessa käytävä ilmi, mitä 15 §:n 2–4 momentissa säädetään lupapäätöksen sisällöstä.",
+      "section_number": "13",
+      "chapter_number": 3,
+      "statute_id": "713/2014"
+    },
+    {
+      "id": "c952b694-3975-4255-ac50-d3502eab931d",
+      "node_type": "Section",
+      "publisher": "finlex",
+      "title": "20 § Toiminnan muuttamista koskevan lupa- ja ilmoituspäätöksen sisältö",
+      "text": "Jos toimintaa muutetaan ja siihen on haettava lupa ympäristönsuojelulain 29 §:n perusteella, lupapäätöksestä on käytävä ilmi tarpeellisin osin 14–19 §:ssä säädetyn lisäksi, miten muutos vaikuttaa toiminnan kokonaisuuteen sekä perusteltu ratkaisu siitä, miten aiemmin myönnettyä lupaa muutetaan. Jos toimintaa muutetaan ja siitä on tehtävä ilmoitus ympäristönsuojelulain 115 a §:n perusteella, ilmoituspäätöksestä on käytävä ilmi 15 a §:ssä säädetyn lisäksi, miten muutos vaikuttaa toiminnan kokonaisuuteen ja miten aiemmin myönnettyä lupaa tai ilmoituspäätöstä muutetaan. Lisäksi luvasta tai ilmoituspäätöksestä on siirrettävä uuteen ilmoituspäätökseen olemassa olevaa toimintaa edelleen koskevat tarpeelliset määräykset ja perusteltava määräyksiin mahdollisesti tehtävät muutokset.",
+      "section_number": "20",
+      "chapter_number": 3,
+      "statute_id": "713/2014"
+    },
+    {
+      "id": "aeaa1d08-f352-4258-a9bb-65fcbbdcc1be",
+      "node_type": "Section",
+      "publisher": "finlex",
+      "title": "21 § Luvan ja lupamääräysten tarkistamista koskevan lupapäätöksen sisältö",
+      "text": "Jos aiemmin myönnettyä lupaa tai lupamääräyksiä on tarkistettava ympäristönsuojelulain 81 §:n mukaisesti, lupapäätöksestä on käytävä ilmi tarpeellisin osin 14–19 §:ssä säädetyt seikat luvan myöntämisen edellytyksiä koskevaa harkintaa lukuun ottamatta. Päätöksestä on käytävä ilmi hakemukseen liittyvien selvitysten sisältö sekä perusteltu ratkaisu siitä, miltä osin lupamääräyksiä muutetaan, sekä uudet määräykset perusteluineen.",
+      "section_number": "21",
+      "chapter_number": 3,
+      "statute_id": "713/2014"
+    },
+    {
+      "id": "0f682ce8-dca7-49eb-9222-8be24f244c0b",
+      "node_type": "Section",
+      "publisher": "finlex",
+      "title": "23 § Lupa- ja ilmoituspäätöksen lähettäminen Suomen ympäristökeskukselle",
+      "text": "Sen lisäksi, mitä ympäristönsuojelulain 85 §:ssä ja 115 e §:ssä säädetään, valtion ympäristölupaviranomaisen on lähetettävä lupa- tai ilmoituspäätös sähköisesti tiedoksi Suomen ympäristökeskukselle.",
+      "section_number": "23",
+      "chapter_number": 3,
+      "statute_id": "713/2014"
+    },
+    {
+      "id": "d08255bb-670e-4ce9-b6f0-09dd157ccbd0",
+      "node_type": "Section",
+      "publisher": "finlex",
+      "title": "28 § Valvontasuunnitelma",
+      "text": "Ympäristönsuojelulain 168 §:ssä tarkoitetussa valvontasuunnitelmassa on oltava:",
+      "section_number": "28",
+      "chapter_number": 4,
+      "statute_id": "713/2014"
+    },
+    {
+      "id": "9739690a-eea6-4af0-b12d-359d6c77f76f",
+      "node_type": "Section",
+      "publisher": "finlex",
+      "title": "29 § Määräaikaistarkastukset ja riskinarviointi",
+      "text": "Määräaikaistarkastusten tiheys on määritettävä ympäristöriskien järjestelmällisen arvioinnin perusteella. Valtion valvontaviranomaisen on käytettävä arvioinnissaan ainakin seuraavia perusteita:",
+      "section_number": "29",
+      "chapter_number": 4,
+      "statute_id": "713/2014"
+    },
+    {
+      "id": "90b66da8-4031-4022-a3af-87705a430233",
+      "node_type": "Section",
+      "publisher": "finlex",
+      "title": "30 § Valvontaohjelma",
+      "text": "Ympäristönsuojelulain 168 §:ssä tarkoitetussa valvontaohjelmassa on oltava:",
+      "section_number": "30",
+      "chapter_number": 4,
+      "statute_id": "713/2014"
+    },
+    {
+      "id": "09a4dc74-b8cd-4f9c-99be-f24e5ec83610",
+      "node_type": "Section",
+      "publisher": "finlex",
+      "title": "42 § Vesihuoltolaitoksen viemäriin johdettavista päästöistä määrääminen ympäristöluvassa ja ilmoituspäätöksessä",
+      "text": "Ympäristöluvassa ja ilmoituspäätöksessä on annettava tarpeelliset päästöraja-arvot ja muut päästömääräykset vesihuoltolaitoksen viemäriin johdettaville teollisuusjätevesille ja muille vesille, jos ne sisältävät tämän asetuksen liitteessä 1 tarkoitettuja aineita, sen varmistamiseksi, että jätevedet esikäsitellään asianmukaisesti ja päästöjä tarkkaillaan. Viranomaisen on lupa- tai ilmoitusasiaa käsiteltäessä kuultava vesihuoltolaitosta.",
+      "section_number": "42",
+      "chapter_number": 4,
+      "statute_id": "713/2014"
+    },
+    {
+      "id": "0f4857aa-771d-4f33-9f75-3b181361f2ec",
+      "node_type": "Section",
+      "publisher": "finlex",
+      "title": "43 § Ympäristönsuojelun tietojärjestelmään erikseen tehtävät merkinnät",
+      "text": "Valtion valvontaviranomaisen on talletettava ympäristönsuojelun tietojärjestelmään tieto ympäristönsuojelulain 171 §:n nojalla myöntämästään oikeudesta tarkkailuun toisen alueella, jos oikeus on voimassa yli vuoden tai toistaiseksi. Tieto on talletettava kohdekiinteistön käyttöoikeutta koskevana merkintänä siten, että se on helposti löydettävissä. Lisäksi valvontaviranomaisen on mahdollisuuksien mukaan huolehdittava siitä, että järjestelmään merkitään vastaavin tavoin myös ympäristölupa- tai ilmoituspäätöksessä perustettu tarkkailuoikeus. Tämä asetus tulee voimaan 1 päivänä helmikuuta 2019.",
+      "section_number": "43",
+      "chapter_number": 4,
+      "statute_id": "713/2014"
+    }
+  ],
+  "clauses": [
+    {
+      "id": "0d37758e-ef16-4c7e-8e06-6609763df490",
+      "node_type": "Clause",
+      "publisher": "finlex",
+      "title": "§ 1 mom 1",
+      "text": "1) metsäteollisuus:",
+      "clause_number": 1,
+      "section_number": "1",
+      "statute_id": "713/2014"
+    },
+    {
+      "id": "c1a4bfd8-5c8e-4d5a-b818-479b80175b8a",
+      "node_type": "Clause",
+      "publisher": "finlex",
+      "title": "§ 1 mom 2",
+      "text": "2) metalliteollisuus:",
+      "clause_number": 2,
+      "section_number": "1",
+      "statute_id": "713/2014"
+    },
+    {
+      "id": "749ceda1-c54e-40ba-946a-4159724f86a2",
+      "node_type": "Clause",
+      "publisher": "finlex",
+      "title": "§ 1 mom 3",
+      "text": "3) energian tuotanto:",
+      "clause_number": 3,
+      "section_number": "1",
+      "statute_id": "713/2014"
+    },
+    {
+      "id": "0686dacb-4ad6-4d84-b0f6-6ba5ad0ecd4c",
+      "node_type": "Clause",
+      "publisher": "finlex",
+      "title": "§ 1 mom 4",
+      "text": "4) kemianteollisuus:",
+      "clause_number": 4,
+      "section_number": "1",
+      "statute_id": "713/2014"
+    },
+    {
+      "id": "720d09e7-7aca-49b3-918c-b38be99ba9c2",
+      "node_type": "Clause",
+      "publisher": "finlex",
+      "title": "§ 1 mom 5",
+      "text": "5) polttoaineiden valmistus taikka kemikaalien tai polttoaineiden varastointi tai käsittely:",
+      "clause_number": 5,
+      "section_number": "1",
+      "statute_id": "713/2014"
+    },
+    {
+      "id": "99b1b748-7789-477a-b817-ca3dcc462389",
+      "node_type": "Clause",
+      "publisher": "finlex",
+      "title": "§ 1 mom 6",
+      "text": "6) orgaanisia liuottimia käyttävä toiminta:",
+      "clause_number": 6,
+      "section_number": "1",
+      "statute_id": "713/2014"
+    },
+    {
+      "id": "d0786cf4-ee82-4b99-af4d-d15cc56a8a7b",
+      "node_type": "Clause",
+      "publisher": "finlex",
+      "title": "§ 1 mom 7",
+      "text": "7) malmien tai mineraalien kaivaminen tai maaperän ainesten otto:",
+      "clause_number": 7,
+      "section_number": "1",
+      "statute_id": "713/2014"
+    },
+    {
+      "id": "d545f6dc-85ef-4c60-8790-5811cca154d2",
+      "node_type": "Clause",
+      "publisher": "finlex",
+      "title": "§ 1 mom 8",
+      "text": "8) mineraalituotteiden valmistus:",
+      "clause_number": 8,
+      "section_number": "1",
+      "statute_id": "713/2014"
+    },
+    {
+      "id": "47cc465d-542e-4f41-b00d-4d9544225d4d",
+      "node_type": "Clause",
+      "publisher": "finlex",
+      "title": "§ 1 mom 9",
+      "text": "9) nahan tai tekstiilien laitosmainen tuotanto tai käsittely:",
+      "clause_number": 9,
+      "section_number": "1",
+      "statute_id": "713/2014"
+    },
+    {
+      "id": "9026be5b-ea96-41e9-84e5-21c05cb21d38",
+      "node_type": "Clause",
+      "publisher": "finlex",
+      "title": "§ 1 mom 10",
+      "text": "10) elintarvikkeiden tai rehujen valmistus:",
+      "clause_number": 10,
+      "section_number": "1",
+      "statute_id": "713/2014"
+    },
+    {
+      "id": "2fddfd30-4866-4eee-b48f-601f43192d86",
+      "node_type": "Clause",
+      "publisher": "finlex",
+      "title": "§ 1 mom 11",
+      "text": "11) eläinsuojat tai kalankasvatus:",
+      "clause_number": 11,
+      "section_number": "1",
+      "statute_id": "713/2014"
+    },
+    {
+      "id": "eadfe300-89d0-4db8-94d4-db49aec21500",
+      "node_type": "Clause",
+      "publisher": "finlex",
+      "title": "§ 1 mom 12",
+      "text": "12) liikenne:",
+      "clause_number": 12,
+      "section_number": "1",
+      "statute_id": "713/2014"
+    },
+    {
+      "id": "9be60ad2-7a2d-41e1-8c3a-2b32e4c4fb64",
+      "node_type": "Clause",
+      "publisher": "finlex",
+      "title": "§ 1 mom 13",
+      "text": "13) jätteiden ammattimainen tai laitosmainen käsittely sekä jätevesien käsittely:",
+      "clause_number": 13,
+      "section_number": "1",
+      "statute_id": "713/2014"
+    },
+    {
+      "id": "c3ea4032-361c-46f8-9693-888728bedece",
+      "node_type": "Clause",
+      "publisher": "finlex",
+      "title": "§ 1 mom 14",
+      "text": "14) muu toiminta:",
+      "clause_number": 14,
+      "section_number": "1",
+      "statute_id": "713/2014"
+    },
+    {
+      "id": "4018ed06-2032-401d-928d-16f81e5fa36a",
+      "node_type": "Clause",
+      "publisher": "finlex",
+      "title": "§ 2 mom 1",
+      "text": "1) metsäteollisuus:",
+      "clause_number": 1,
+      "section_number": "2",
+      "statute_id": "713/2014"
+    },
+    {
+      "id": "4beaf1dd-5bbe-425c-a36b-8fb7258f661c",
+      "node_type": "Clause",
+      "publisher": "finlex",
+      "title": "§ 2 mom 2",
+      "text": "2) metalliteollisuus:",
+      "clause_number": 2,
+      "section_number": "2",
+      "statute_id": "713/2014"
+    },
+    {
+      "id": "de4f381a-779a-48f6-a55b-da7611615993",
+      "node_type": "Clause",
+      "publisher": "finlex",
+      "title": "§ 2 mom 3",
+      "text": "3) energian tuotanto:",
+      "clause_number": 3,
+      "section_number": "2",
+      "statute_id": "713/2014"
+    },
+    {
+      "id": "e7fb68c6-43f6-464c-a877-db1c4c066472",
+      "node_type": "Clause",
+      "publisher": "finlex",
+      "title": "§ 2 mom 4",
+      "text": "4) polttoaineiden valmistus taikka kemikaalien tai polttoaineiden varastointi tai käsittely:",
+      "clause_number": 4,
+      "section_number": "2",
+      "statute_id": "713/2014"
+    },
+    {
+      "id": "28e4459d-f86c-43a0-b854-100c0054696f",
+      "node_type": "Clause",
+      "publisher": "finlex",
+      "title": "§ 2 mom 5",
+      "text": "5) orgaanisia liuottimia käyttävä toiminta:",
+      "clause_number": 5,
+      "section_number": "2",
+      "statute_id": "713/2014"
+    },
+    {
+      "id": "cdafa348-134e-40b8-9394-f4216bbf411e",
+      "node_type": "Clause",
+      "publisher": "finlex",
+      "title": "§ 2 mom 6",
+      "text": "6) malmien tai mineraalien kaivaminen tai maaperän ainesten otto:",
+      "clause_number": 6,
+      "section_number": "2",
+      "statute_id": "713/2014"
+    },
+    {
+      "id": "81342c80-fcdb-4724-abbe-5ea57431875a",
+      "node_type": "Clause",
+      "publisher": "finlex",
+      "title": "§ 2 mom 7",
+      "text": "7) mineraalituotteiden valmistus:",
+      "clause_number": 7,
+      "section_number": "2",
+      "statute_id": "713/2014"
+    },
+    {
+      "id": "7099bd53-abae-4ef7-822b-c31d6894a591",
+      "node_type": "Clause",
+      "publisher": "finlex",
+      "title": "§ 2 mom 8",
+      "text": "8) nahan tai tekstiilien laitosmainen tuotanto tai käsittely:",
+      "clause_number": 8,
+      "section_number": "2",
+      "statute_id": "713/2014"
+    },
+    {
+      "id": "ed0f1b6c-c602-4eb2-a378-0e15cc933419",
+      "node_type": "Clause",
+      "publisher": "finlex",
+      "title": "§ 2 mom 9",
+      "text": "9) elintarvikkeiden tai rehujen valmistus:",
+      "clause_number": 9,
+      "section_number": "2",
+      "statute_id": "713/2014"
+    },
+    {
+      "id": "2666d00c-28b6-41ff-8e69-cb1b038dca24",
+      "node_type": "Clause",
+      "publisher": "finlex",
+      "title": "§ 2 mom 10",
+      "text": "10) eläinsuojat:",
+      "clause_number": 10,
+      "section_number": "2",
+      "statute_id": "713/2014"
+    },
+    {
+      "id": "b3bd0f22-b5ea-4cb1-8c0d-9d5aef54e363",
+      "node_type": "Clause",
+      "publisher": "finlex",
+      "title": "§ 2 mom 11",
+      "text": "11) liikenne:",
+      "clause_number": 11,
+      "section_number": "2",
+      "statute_id": "713/2014"
+    },
+    {
+      "id": "f07088f5-c4ee-4ba7-a26f-14fc33f6eef1",
+      "node_type": "Clause",
+      "publisher": "finlex",
+      "title": "§ 2 mom 12",
+      "text": "12) jätteiden ammattimainen tai laitosmainen käsittely sekä jätevesien käsittely:",
+      "clause_number": 12,
+      "section_number": "2",
+      "statute_id": "713/2014"
+    },
+    {
+      "id": "c7ecdfad-faf7-4d92-b4e2-d00a632b1156",
+      "node_type": "Clause",
+      "publisher": "finlex",
+      "title": "§ 3 mom 1",
+      "text": "1) toiminnanharjoittajan yksilöinti- ja yhteystiedot sekä laitoksen nimi, toimiala ja sijaintipaikka;",
+      "clause_number": 1,
+      "section_number": "3",
+      "statute_id": "713/2014"
+    },
+    {
+      "id": "6429fa5e-68af-4d12-9225-8ebdc47db216",
+      "node_type": "Clause",
+      "publisher": "finlex",
+      "title": "§ 3 mom 2",
+      "text": "2) tiedot kiinteistöstä ja sillä sijaitsevista laitoksista ja toiminnasta sekä näiden haltijoista;",
+      "clause_number": 2,
+      "section_number": "3",
+      "statute_id": "713/2014"
+    },
+    {
+      "id": "7404180b-c0d3-4b37-ab76-25d6b1dfd718",
+      "node_type": "Clause",
+      "publisher": "finlex",
+      "title": "§ 3 mom 3",
+      "text": "3) yleiskuvaus toiminnasta sekä yleisölle tarkoitettu tiivistelmä lupahakemuksessa ja ilmoituksessa esitetyistä tiedoista;",
+      "clause_number": 3,
+      "section_number": "3",
+      "statute_id": "713/2014"
+    },
+    {
+      "id": "8801a896-2960-4c87-b660-bb8d300b243b",
+      "node_type": "Clause",
+      "publisher": "finlex",
+      "title": "§ 3 mom 4",
+      "text": "4) lupaharkinnan ja ilmoitusta koskevan päätösharkinnan kannalta tarpeelliset tiedot toiminnan tuotannosta, prosesseista, laitteistoista, rakenteista ja niiden sijainnista;",
+      "clause_number": 4,
+      "section_number": "3",
+      "statute_id": "713/2014"
+    },
+    {
+      "id": "51f3ad46-4a98-46e9-9d22-f19ccfe4f714",
+      "node_type": "Clause",
+      "publisher": "finlex",
+      "title": "§ 3 mom 5",
+      "text": "5) tiedot toiminnan sijaintipaikasta ja sen ympäristöolosuhteista;",
+      "clause_number": 5,
+      "section_number": "3",
+      "statute_id": "713/2014"
+    },
+    {
+      "id": "faa5aa85-9d58-46ae-a06a-8a20b7dadc15",
+      "node_type": "Clause",
+      "publisher": "finlex",
+      "title": "§ 3 mom 6",
+      "text": "6) tiedot toiminnan päästöjen laadusta ja määrästä veteen, ilmaan ja maaperään sekä toiminnan aiheuttamasta melusta ja tärinästä;",
+      "clause_number": 6,
+      "section_number": "3",
+      "statute_id": "713/2014"
+    },
+    {
+      "id": "41cbe091-bad5-44d0-8e5b-efb4d6ee6090",
+      "node_type": "Clause",
+      "publisher": "finlex",
+      "title": "§ 3 mom 7",
+      "text": "7) tiedot syntyvistä jätteistä ja jätelain 5 §:ssä tarkoitetuista sivutuotteista sekä niiden ominaisuuksista ja määrästä;",
+      "clause_number": 7,
+      "section_number": "3",
+      "statute_id": "713/2014"
+    },
+    {
+      "id": "83f815f9-1bb3-4ca3-b215-41e2641cd8f3",
+      "node_type": "Clause",
+      "publisher": "finlex",
+      "title": "§ 3 mom 8",
+      "text": "8) arvio toiminnan vaikutuksista ympäristöön;",
+      "clause_number": 8,
+      "section_number": "3",
+      "statute_id": "713/2014"
+    },
+    {
+      "id": "66a71ae1-7992-4b1e-8ef6-3e5c460b1cf9",
+      "node_type": "Clause",
+      "publisher": "finlex",
+      "title": "§ 3 mom 9",
+      "text": "9) toiminnan suunniteltu aloitusajankohta;",
+      "clause_number": 9,
+      "section_number": "3",
+      "statute_id": "713/2014"
+    },
+    {
+      "id": "f8d8c67e-1edf-4b49-8b33-d6101f490b34",
+      "node_type": "Clause",
+      "publisher": "finlex",
+      "title": "§ 3 mom 10",
+      "text": "10) selvitys toiminnan sijaintipaikan rajanaapureista sekä muista asianosaisista, joita toiminta ja sen vaikutukset erityisesti saattavat koskea.",
+      "clause_number": 10,
+      "section_number": "3",
+      "statute_id": "713/2014"
+    },
+    {
+      "id": "41b56da5-f857-44f1-833e-04aff949d8ab",
+      "node_type": "Clause",
+      "publisher": "finlex",
+      "title": "§ 3 mom 1",
+      "text": "1) käytettävissä olevat tiedot ympäristön laadusta;",
+      "clause_number": 1,
+      "section_number": "3",
+      "statute_id": "713/2014"
+    },
+    {
+      "id": "74cadbf5-226e-4235-8a05-ea10a9eba74c",
+      "node_type": "Clause",
+      "publisher": "finlex",
+      "title": "§ 3 mom 2",
+      "text": "2) tiedot käytettävistä polttoaineista ja niiden varastoinnista, säilytyksestä ja kulutuksesta sekä käytettävästä tai tuotettavasta energiasta ja veden käytöstä;",
+      "clause_number": 2,
+      "section_number": "3",
+      "statute_id": "713/2014"
+    },
+    {
+      "id": "f9ab8ca8-78ea-4b60-9a40-c97ec9e817b1",
+      "node_type": "Clause",
+      "publisher": "finlex",
+      "title": "§ 3 mom 3",
+      "text": "3) tiedot käytettävistä raaka-aineista, kemikaaleista ja muista tuotantoon käytettävistä materiaaleista sekä niiden varastoinnista, säilytyksestä ja kulutuksesta;",
+      "clause_number": 3,
+      "section_number": "3",
+      "statute_id": "713/2014"
+    },
+    {
+      "id": "94b5aae2-d108-47d1-989d-01a458c2766e",
+      "node_type": "Clause",
+      "publisher": "finlex",
+      "title": "§ 3 mom 4",
+      "text": "4) arvio energian ja materiaalien käytön tehokkuudesta;",
+      "clause_number": 4,
+      "section_number": "3",
+      "statute_id": "713/2014"
+    },
+    {
+      "id": "29640d89-2735-4546-9c35-0b62eab2f231",
+      "node_type": "Clause",
+      "publisher": "finlex",
+      "title": "§ 3 mom 5",
+      "text": "5) arvio toimintaan liittyvistä riskeistä, onnettomuuksien estämiseksi suunnitelluista toimista sekä toimista häiriötilanteissa taikka arvion sisältävä ympäristönsuojelulain 15 §:n mukainen varautumissuunnitelma;",
+      "clause_number": 5,
+      "section_number": "3",
+      "statute_id": "713/2014"
+    },
+    {
+      "id": "2e76db5a-38c9-4ffa-99fc-b3b81aef5b72",
+      "node_type": "Clause",
+      "publisher": "finlex",
+      "title": "§ 3 mom 6",
+      "text": "6) yksilöidyt tiedot toiminnan päästölähteistä ja niiden päästöistä sekä melutasosta;",
+      "clause_number": 6,
+      "section_number": "3",
+      "statute_id": "713/2014"
+    },
+    {
+      "id": "d230934e-f5d2-4063-b8ab-3b18797eb07d",
+      "node_type": "Clause",
+      "publisher": "finlex",
+      "title": "§ 3 mom 7",
+      "text": "7) arvio parhaan käyttökelpoisen tekniikan soveltamisesta suunnitellussa toiminnassa;",
+      "clause_number": 7,
+      "section_number": "3",
+      "statute_id": "713/2014"
+    },
+    {
+      "id": "99d7a3de-c2f3-4997-aff0-cb2317886856",
+      "node_type": "Clause",
+      "publisher": "finlex",
+      "title": "§ 3 mom 8",
+      "text": "8) selvitys päästöjen vähentämistä ja puhdistamista koskevista toimista;",
+      "clause_number": 8,
+      "section_number": "3",
+      "statute_id": "713/2014"
+    },
+    {
+      "id": "9895d1bd-5b45-41b0-ac84-1c6acfe98e44",
+      "node_type": "Clause",
+      "publisher": "finlex",
+      "title": "§ 3 mom 9",
+      "text": "9) selvitys maaperän ja pohjaveden suojelemista koskevista toimista ja pilaantumisriskin perusteella tehtävä arvio maaperän ja pohjaveden tarkkailutarpeesta ja mahdollisen määräajoin toteutettavan tarkkailun",
+      "clause_number": 9,
+      "section_number": "3",
+      "statute_id": "713/2014"
+    },
+    {
+      "id": "69f0ebea-24a5-4a0b-9dfd-7f186902dfb4",
+      "node_type": "Clause",
+      "publisher": "finlex",
+      "title": "§ 3 mom 10",
+      "text": "10) tiedot veden hankinnasta ja viemäröinnistä;",
+      "clause_number": 10,
+      "section_number": "3",
+      "statute_id": "713/2014"
+    },
+    {
+      "id": "29a7dd91-e18f-46ec-8a1d-921deba1e11f",
+      "node_type": "Clause",
+      "publisher": "finlex",
+      "title": "§ 3 mom 11",
+      "text": "11) tiedot liikenteestä ja liikennejärjestelyistä;",
+      "clause_number": 11,
+      "section_number": "3",
+      "statute_id": "713/2014"
+    },
+    {
+      "id": "c6284874-f200-420c-af26-0714a9a43d4c",
+      "node_type": "Clause",
+      "publisher": "finlex",
+      "title": "§ 3 mom 12",
+      "text": "12) selvitys suunnitelluista toimista jätteiden määrän ja haitallisuuden vähentämiseksi, jätteiden hyödyntämiseksi ja loppukäsittelemiseksi jätelain 8 §:n mukaisesti, jätteiden keräyksestä ja kuljetuksesta sekä",
+      "clause_number": 12,
+      "section_number": "3",
+      "statute_id": "713/2014"
+    },
+    {
+      "id": "a283f052-622a-46e8-adc4-0232888716b8",
+      "node_type": "Clause",
+      "publisher": "finlex",
+      "title": "§ 3 mom 13",
+      "text": "13) selvitys mahdollisesta ympäristöasioiden hallintajärjestelmästä;",
+      "clause_number": 13,
+      "section_number": "3",
+      "statute_id": "713/2014"
+    },
+    {
+      "id": "a981ae69-323c-48c8-b0d6-2b16c67099e4",
+      "node_type": "Clause",
+      "publisher": "finlex",
+      "title": "§ 3 mom 14",
+      "text": "14) tiedot toiminnan seurannasta ja tarkkailusta, ympäristöön kohdistuvien päästöjen ja niiden vaikutusten tarkkailusta sekä käytettävistä mittausmenetelmistä ja -laitteista, laskentamenetelmistä ja niiden laadunvarmistuksesta.",
+      "clause_number": 14,
+      "section_number": "3",
+      "statute_id": "713/2014"
+    },
+    {
+      "id": "11750dcb-9536-4b74-8fc2-4473ba2090a6",
+      "node_type": "Clause",
+      "publisher": "finlex",
+      "title": "§ 3 mom 1",
+      "text": "1) tieto laitoksen pääasiallisesta toiminnasta, jos laitoksella harjoitetaan useita ympäristönsuojelulain liitteen 1 taulukon 1 mukaisia toimintoja;",
+      "clause_number": 1,
+      "section_number": "3",
+      "statute_id": "713/2014"
+    },
+    {
+      "id": "61b66713-9ab7-4823-9cd4-42252daf9382",
+      "node_type": "Clause",
+      "publisher": "finlex",
+      "title": "§ 3 mom 2",
+      "text": "2) kuvaus tekniikoista, joilla pyritään ehkäisemään laitoksen aiheuttamat päästöt tai vähentämään niitä;",
+      "clause_number": 2,
+      "section_number": "3",
+      "statute_id": "713/2014"
+    },
+    {
+      "id": "9aa64410-99ed-42b4-905e-8f46a0ecb367",
+      "node_type": "Clause",
+      "publisher": "finlex",
+      "title": "§ 3 mom 3",
+      "text": "3) tiivistelmä hakijan tarkastelemista tekniikoiden ja toimenpiteiden päävaihtoehdoista;",
+      "clause_number": 3,
+      "section_number": "3",
+      "statute_id": "713/2014"
+    },
+    {
+      "id": "dd1268ca-d66b-452c-8a68-d17bde755531",
+      "node_type": "Clause",
+      "publisher": "finlex",
+      "title": "§ 3 mom 4",
+      "text": "4) tarvittaessa perusteltu esitys ympäristönsuojelulain 78 §:n mukaisten lievempien päästöraja-arvojen soveltamiseksi;",
+      "clause_number": 4,
+      "section_number": "3",
+      "statute_id": "713/2014"
+    },
+    {
+      "id": "ddaa9605-ce9d-4d10-b52b-7d9de6f14456",
+      "node_type": "Clause",
+      "publisher": "finlex",
+      "title": "§ 3 mom 5",
+      "text": "5) selvitys merkityksellisten vaarallisten aineiden käytöstä ja syntymisestä toiminnassa sekä arvio perustilaselvityksen laatimistarpeesta.",
+      "clause_number": 5,
+      "section_number": "3",
+      "statute_id": "713/2014"
+    },
+    {
+      "id": "61ed1968-21d1-481a-bd0f-29ec19b4e412",
+      "node_type": "Clause",
+      "publisher": "finlex",
+      "title": "§ 4 mom 1",
+      "text": "1) muut myönnetyt luvat ja mahdollinen sopimus yleiseen tai toisen viemäriin liittymisestä ja hakemuksessa tarkoitettujen jätevesien johtamisesta;",
+      "clause_number": 1,
+      "section_number": "4",
+      "statute_id": "713/2014"
+    },
+    {
+      "id": "4e345d88-40ab-4092-a27f-fe17520287da",
+      "node_type": "Clause",
+      "publisher": "finlex",
+      "title": "§ 4 mom 2",
+      "text": "2) ajan tasalla oleva mittakaavaltaan riittävän tarkka kartta, josta ilmenee toiminnan sijainti, mahdolliset päästöjä aiheuttavat kohteet sekä toiminnan haitallisten vaikutusten arvioimiseksi olennaiset kohteet ja asianosaisten kiinteistöt;",
+      "clause_number": 2,
+      "section_number": "4",
+      "statute_id": "713/2014"
+    },
+    {
+      "id": "fb7e7610-46e3-409d-9821-f459414130c6",
+      "node_type": "Clause",
+      "publisher": "finlex",
+      "title": "§ 4 mom 3",
+      "text": "3) asemapiirros, josta ilmenee rakenteiden ja ympäristön kannalta tärkeimpien prosessien ja päästökohtien sijainti;",
+      "clause_number": 3,
+      "section_number": "4",
+      "statute_id": "713/2014"
+    },
+    {
+      "id": "b23e98c5-3009-4db5-812a-3fa3f58d0982",
+      "node_type": "Clause",
+      "publisher": "finlex",
+      "title": "§ 4 mom 4",
+      "text": "4) prosessikaavio, josta ilmenee olennaiset päästölähteet;",
+      "clause_number": 4,
+      "section_number": "4",
+      "statute_id": "713/2014"
+    },
+    {
+      "id": "a3efe0d1-6e13-4f9f-ab8b-9f9a3f08f368",
+      "node_type": "Clause",
+      "publisher": "finlex",
+      "title": "§ 4 mom 5",
+      "text": "5) vaarallisten kemikaalien ja räjähteiden käsittelyn turvallisuudesta annetussa laissa (390/2005) tarkoitettu suuronnettomuuden vaaran arvioimiseksi laadittu selvitys tai ympäristönsuojelulain 115 §:ssä tarkoitettu sisäinen pelastussuunnitelma;",
+      "clause_number": 5,
+      "section_number": "4",
+      "statute_id": "713/2014"
+    },
+    {
+      "id": "ab3b3bba-5675-4c8a-b468-76cd229e64bf",
+      "node_type": "Clause",
+      "publisher": "finlex",
+      "title": "§ 4 mom 6",
+      "text": "6) ehdotus tarkkailun järjestämiseksi.",
+      "clause_number": 6,
+      "section_number": "4",
+      "statute_id": "713/2014"
+    },
+    {
+      "id": "9d13b4ab-24e3-4f6b-b9de-4f5fd75eb4cc",
+      "node_type": "Clause",
+      "publisher": "finlex",
+      "title": "§ 8 mom 1",
+      "text": "1) tieto siitä, miten muutos vaikuttaa toimintaan sekä sen ympäristövaikutuksiin;",
+      "clause_number": 1,
+      "section_number": "8",
+      "statute_id": "713/2014"
+    },
+    {
+      "id": "b56e8be2-0d37-4a9b-ae82-c48c3036846c",
+      "node_type": "Clause",
+      "publisher": "finlex",
+      "title": "§ 8 mom 2",
+      "text": "2) 3–7 §:ssä vaadituista tiedoista ja selvityksistä vain ne, jotka koskevat toiminnan muutosta ja sen ympäristövaikutuksia.",
+      "clause_number": 2,
+      "section_number": "8",
+      "statute_id": "713/2014"
+    },
+    {
+      "id": "8ee4b8c3-666a-4ca2-870e-73f51e4203d6",
+      "node_type": "Clause",
+      "publisher": "finlex",
+      "title": "§ 11 mom 1",
+      "text": "1) asian luonne;",
+      "clause_number": 1,
+      "section_number": "11",
+      "statute_id": "713/2014"
+    },
+    {
+      "id": "2d53b2b8-6af1-4e45-9f56-89dcdf5e1d97",
+      "node_type": "Clause",
+      "publisher": "finlex",
+      "title": "§ 11 mom 2",
+      "text": "2) toiminnanharjoittajan yksilöinti- ja yhteystiedot;",
+      "clause_number": 2,
+      "section_number": "11",
+      "statute_id": "713/2014"
+    },
+    {
+      "id": "7707a0a5-debb-40b9-bc9b-726f2cd41892",
+      "node_type": "Clause",
+      "publisher": "finlex",
+      "title": "§ 11 mom 3",
+      "text": "3) kuvaus toiminnasta;",
+      "clause_number": 3,
+      "section_number": "11",
+      "statute_id": "713/2014"
+    },
+    {
+      "id": "c3339636-1f45-4dbd-a07e-487938f38e65",
+      "node_type": "Clause",
+      "publisher": "finlex",
+      "title": "§ 11 mom 4",
+      "text": "4) toiminnan sijoittamispaikka;",
+      "clause_number": 4,
+      "section_number": "11",
+      "statute_id": "713/2014"
+    },
+    {
+      "id": "2f16462f-1264-4a2d-8145-e59e1632c6f2",
+      "node_type": "Clause",
+      "publisher": "finlex",
+      "title": "§ 11 mom 5",
+      "text": "5) tiedot olennaisista päästöistä ja syntyvistä jätteistä;",
+      "clause_number": 5,
+      "section_number": "11",
+      "statute_id": "713/2014"
+    },
+    {
+      "id": "79108701-d377-4089-95a5-c8b2823e5354",
+      "node_type": "Clause",
+      "publisher": "finlex",
+      "title": "§ 11 mom 6",
+      "text": "6) tieto asian ratkaisevasta viranomaisesta ja siitä, keneltä asiasta saa",
+      "clause_number": 6,
+      "section_number": "11",
+      "statute_id": "713/2014"
+    },
+    {
+      "id": "3e94b095-2c37-44d0-8469-c592f0ff0f87",
+      "node_type": "Clause",
+      "publisher": "finlex",
+      "title": "§ 11 mom 7",
+      "text": "7) tieto siitä, missä ja mihin ajankohtaan asti hakemus- tai ilmoitusasiakirjat pidetään",
+      "clause_number": 7,
+      "section_number": "11",
+      "statute_id": "713/2014"
+    },
+    {
+      "id": "1afee70a-6266-4435-bd73-6a69e8f48b05",
+      "node_type": "Clause",
+      "publisher": "finlex",
+      "title": "§ 11 mom 8",
+      "text": "8) tieto muistutusten ja mielipiteiden jättämiseksi;",
+      "clause_number": 8,
+      "section_number": "11",
+      "statute_id": "713/2014"
+    },
+    {
+      "id": "963cfabd-4a31-4ec5-b2b3-98c9ecbb1818",
+      "node_type": "Clause",
+      "publisher": "finlex",
+      "title": "§ 11 mom 9",
+      "text": "9) tieto mahdollisesta julkisesta kuulemistilaisuudesta;",
+      "clause_number": 9,
+      "section_number": "11",
+      "statute_id": "713/2014"
+    },
+    {
+      "id": "f95030f3-b5cc-421c-8df0-f73d9b9784b6",
+      "node_type": "Clause",
+      "publisher": "finlex",
+      "title": "§ 11 mom 10",
+      "text": "10) tieto mahdollisista lupahakemuksen johdosta käytävistä Suomen",
+      "clause_number": 10,
+      "section_number": "11",
+      "statute_id": "713/2014"
+    },
+    {
+      "id": "8d787006-53b9-4610-9c8c-1249955e9f5a",
+      "node_type": "Clause",
+      "publisher": "finlex",
+      "title": "§ 11 mom 11",
+      "text": "11) tieto siitä, sovelletaanko hankkeeseen ympäristövaikutusten arviointimenettelyä.",
+      "clause_number": 11,
+      "section_number": "11",
+      "statute_id": "713/2014"
+    },
+    {
+      "id": "2443779f-a334-4ec1-8e04-d16f883c819d",
+      "node_type": "Clause",
+      "publisher": "finlex",
+      "title": "§ 12 mom 1",
+      "text": "1) lentoaseman ympäristölupa-asiassa liikenne- ja viestintäministeriöltä;",
+      "clause_number": 1,
+      "section_number": "12",
+      "statute_id": "713/2014"
+    },
+    {
+      "id": "cfccf571-43db-478b-9664-bb8cea38b53c",
+      "node_type": "Clause",
+      "publisher": "finlex",
+      "title": "§ 12 mom 2",
+      "text": "2) kaivostoimintaa koskevassa ympäristölupa-asiassa kaivosviranomaiselta;",
+      "clause_number": 2,
+      "section_number": "12",
+      "statute_id": "713/2014"
+    },
+    {
+      "id": "241b80fb-1073-4454-81e8-b22875ea9a05",
+      "node_type": "Clause",
+      "publisher": "finlex",
+      "title": "§ 12 mom 3",
+      "text": "3) vaarallisten kemikaalien laajamittaista käsittelyä ja varastointia koskevassa ympäristölupa- tai ilmoitusasiassa Turvallisuus- ja kemikaalivirastolta.",
+      "clause_number": 3,
+      "section_number": "12",
+      "statute_id": "713/2014"
+    },
+    {
+      "id": "bff93db9-9318-4ab0-8485-97556531294c",
+      "node_type": "Clause",
+      "publisher": "finlex",
+      "title": "§ 12 mom 1",
+      "text": "1) raskaiden aseiden tai räjähteiden käyttöä koskevassa asiassa harkitaan ympäristönsuojelulain 50 §:n 1 momentin soveltamista; tai",
+      "clause_number": 1,
+      "section_number": "12",
+      "statute_id": "713/2014"
+    },
+    {
+      "id": "d548815b-f218-4242-9320-13e32785c049",
+      "node_type": "Clause",
+      "publisher": "finlex",
+      "title": "§ 12 mom 1",
+      "text": "1) raskaiden aseiden tai räjähteiden käyttöä koskevassa asiassa harkitaan ympäristönsuojelulain 50 §:n 1 momentin soveltamista; tai",
+      "clause_number": 1,
+      "section_number": "12",
+      "statute_id": "713/2014"
+    },
+    {
+      "id": "0a5a679e-1d17-41f3-9334-2e9296e57e40",
+      "node_type": "Clause",
+      "publisher": "finlex",
+      "title": "§ 12 mom 2",
+      "text": "2) lentopaikkaa koskevassa asiassa harkitaan ympäristönsuojelulain 50 §:n 2 momentin soveltamista.",
+      "clause_number": 2,
+      "section_number": "12",
+      "statute_id": "713/2014"
+    },
+    {
+      "id": "c0b26067-5231-4445-b0e7-bb6860cc526c",
+      "node_type": "Clause",
+      "publisher": "finlex",
+      "title": "§ 12 mom 2",
+      "text": "2) lentopaikkaa koskevassa asiassa harkitaan ympäristönsuojelulain 50 §:n 2 momentin soveltamista.",
+      "clause_number": 2,
+      "section_number": "12",
+      "statute_id": "713/2014"
+    },
+    {
+      "id": "c662a16d-e28d-46d1-b33e-614a6aabd9d9",
+      "node_type": "Clause",
+      "publisher": "finlex",
+      "title": "§ 13 mom 1",
+      "text": "1) toiminnanharjoittajan yksilöintiä koskevat tiedot ja yhteystiedot;",
+      "clause_number": 1,
+      "section_number": "13",
+      "statute_id": "713/2014"
+    },
+    {
+      "id": "1d4856f0-f665-4d65-bcf4-e5ede29dbc27",
+      "node_type": "Clause",
+      "publisher": "finlex",
+      "title": "§ 13 mom 2",
+      "text": "2) ilmoituksen käsittelemisen peruste;",
+      "clause_number": 2,
+      "section_number": "13",
+      "statute_id": "713/2014"
+    },
+    {
+      "id": "3b32ea57-eba7-4e5a-b44d-afdf269ecf4d",
+      "node_type": "Clause",
+      "publisher": "finlex",
+      "title": "§ 13 mom 3",
+      "text": "3) asian vireilletulo ja käsittely;",
+      "clause_number": 3,
+      "section_number": "13",
+      "statute_id": "713/2014"
+    },
+    {
+      "id": "cb612273-7c9d-44fe-8b84-442dbade69f5",
+      "node_type": "Clause",
+      "publisher": "finlex",
+      "title": "§ 13 mom 4",
+      "text": "4) tiivistelmä toiminnasta ja sen laajuudesta;",
+      "clause_number": 4,
+      "section_number": "13",
+      "statute_id": "713/2014"
+    },
+    {
+      "id": "9f7b823f-ba4f-4c0a-9036-14ecab0abca2",
+      "node_type": "Clause",
+      "publisher": "finlex",
+      "title": "§ 13 mom 5",
+      "text": "5) asian ratkaisu ja miten lausunnot, muistutukset, mielipiteet ja vastineet on otettu ratkaisussa huomioon;",
+      "clause_number": 5,
+      "section_number": "13",
+      "statute_id": "713/2014"
+    },
+    {
+      "id": "40bb141a-0aae-4ff6-a54a-2f03594e3509",
+      "node_type": "Clause",
+      "publisher": "finlex",
+      "title": "§ 13 mom 6",
+      "text": "6) myönteisen ilmoituspäätöksen edellytysten varmistamiseksi annettavat ja valvonnan kannalta tarpeelliset määräykset sekä määräykset toiminnan ja sen vaikutusten seurannasta ja tarkkailusta, sisältäen tarvittavat määräykset päästöraja-arvojen noudattamisen arvioimiseksi;",
+      "clause_number": 6,
+      "section_number": "13",
+      "statute_id": "713/2014"
+    },
+    {
+      "id": "2ce400c7-6a46-4e84-8058-79d975f1e0d1",
+      "node_type": "Clause",
+      "publisher": "finlex",
+      "title": "§ 13 mom 7",
+      "text": "7) tarvittavat määräykset sellaisista ympäristön pilaantumisen vaaraa ehkäisevistä toimenpiteistä, jotka liittyvät toiminnan käynnistämiseen, huoltoihin, vahinkoihin, väliaikaiseen toiminnan pysäyttämiseen ja lopulliseen toiminnan lakkauttamiseen;",
+      "clause_number": 7,
+      "section_number": "13",
+      "statute_id": "713/2014"
+    },
+    {
+      "id": "0ceb9c7a-3ba1-4582-8324-4c37a323b128",
+      "node_type": "Clause",
+      "publisher": "finlex",
+      "title": "§ 13 mom 8",
+      "text": "8) tämän asetuksen liitteen 1 mukaisia aineita koskevat päästöraja-arvot ja muut päästömääräykset, jos näitä aineita voi päästä ympäristöön tai vesihuoltolaitoksen viemäriin sellaisia määriä, että toiminnasta voi aiheutua ympäristön pilaantumisen vaaraa tai haittaa vesihuoltolaitoksen toiminnalle;",
+      "clause_number": 8,
+      "section_number": "13",
+      "statute_id": "713/2014"
+    },
+    {
+      "id": "3c4851f3-ecc8-4240-a027-1650c4b30088",
+      "node_type": "Clause",
+      "publisher": "finlex",
+      "title": "§ 13 mom 9",
+      "text": "9) ilmoituspäätöksen voimassaolo;",
+      "clause_number": 9,
+      "section_number": "13",
+      "statute_id": "713/2014"
+    },
+    {
+      "id": "36fa570c-5165-4590-95f7-292387ea7708",
+      "node_type": "Clause",
+      "publisher": "finlex",
+      "title": "§ 13 mom 10",
+      "text": "10) käsittelymaksu.",
+      "clause_number": 10,
+      "section_number": "13",
+      "statute_id": "713/2014"
+    },
+    {
+      "id": "347dca3a-64f9-4491-8b4f-b1893373e83c",
+      "node_type": "Clause",
+      "publisher": "finlex",
+      "title": "§ 28 mom 1",
+      "text": "1) yleisluontoinen arvio ympäristön pilaantumisen riskeistä suunnitelmaan kuuluvalla alueella;",
+      "clause_number": 1,
+      "section_number": "28",
+      "statute_id": "713/2014"
+    },
+    {
+      "id": "47d5b6ce-e9d4-49cb-97a2-dfab5c2e3fc5",
+      "node_type": "Clause",
+      "publisher": "finlex",
+      "title": "§ 28 mom 2",
+      "text": "2) tieto viranomaisen valvontavastuulle kuuluvista luvanvaraisista, ilmoituksenvaraisista ja rekisteröitävistä toiminnoista luettelona tai erillisenä sähköisenä rekisterinä;",
+      "clause_number": 2,
+      "section_number": "28",
+      "statute_id": "713/2014"
+    },
+    {
+      "id": "fc638744-b31f-4349-8857-a187094baf62",
+      "node_type": "Clause",
+      "publisher": "finlex",
+      "title": "§ 28 mom 3",
+      "text": "3) kuvaus menettelystä valvontaohjelman laatimiseksi;",
+      "clause_number": 3,
+      "section_number": "28",
+      "statute_id": "713/2014"
+    },
+    {
+      "id": "020d5267-2818-471a-9bf5-142390475a56",
+      "node_type": "Clause",
+      "publisher": "finlex",
+      "title": "§ 28 mom 4",
+      "text": "4) tieto siitä, miten ympäristöriskien arviointi tehdään, mitä perusteita siinä käytetään ja miten se ohjaa valvontaohjelman laatimista ja valvontaa;",
+      "clause_number": 4,
+      "section_number": "28",
+      "statute_id": "713/2014"
+    },
+    {
+      "id": "72ee85b2-b8a4-4838-8ef4-9fc9b7a904ff",
+      "node_type": "Clause",
+      "publisher": "finlex",
+      "title": "§ 28 mom 5",
+      "text": "5) tieto siitä, käytetäänkö määräaikaistarkastusten järjestämisessä otantamenettelyä, miltä osin otantaa käytetään ja mitkä ovat otannan laatimisen perusteet;",
+      "clause_number": 5,
+      "section_number": "28",
+      "statute_id": "713/2014"
+    },
+    {
+      "id": "da0e56ce-bc17-41a8-abe9-0209152e8925",
+      "node_type": "Clause",
+      "publisher": "finlex",
+      "title": "§ 28 mom 6",
+      "text": "6) kuvaus ympäristönsuojelulain 169 §:n mukaisten tarkastusten vireilletulosta ja käytöstä; jos viranomaisella ei ole asiasta tarkempaa ohjeistusta, viittaus ympäristönsuojelulain 169 ja 186 §:n mukaisiin menettelyihin on riittävä;",
+      "clause_number": 6,
+      "section_number": "28",
+      "statute_id": "713/2014"
+    },
+    {
+      "id": "fdd27e3b-551f-4ffe-b24e-dd2f74e2b0a8",
+      "node_type": "Clause",
+      "publisher": "finlex",
+      "title": "§ 28 mom 7",
+      "text": "7) tieto valvonnan voimavaroista henkilötyövuosina ja muina valvontaa kuvaavina tunnuslukuina;",
+      "clause_number": 7,
+      "section_number": "28",
+      "statute_id": "713/2014"
+    },
+    {
+      "id": "1adbf3a3-8fcb-4b0f-9503-db862ebf1a6d",
+      "node_type": "Clause",
+      "publisher": "finlex",
+      "title": "§ 28 mom 8",
+      "text": "8) kuvaus viranomaisten välisestä yhteistyöstä valvonnassa.",
+      "clause_number": 8,
+      "section_number": "28",
+      "statute_id": "713/2014"
+    },
+    {
+      "id": "6f5984c1-6a60-404f-a4ad-cc6382bac22f",
+      "node_type": "Clause",
+      "publisher": "finlex",
+      "title": "§ 29 mom 1",
+      "text": "1) toiminnan mahdolliset ja tosiasialliset vaikutukset ihmisen terveyteen ja ympäristöön ottaen huomioon päästötasot ja -tyypit, onnettomuusriski sekä paikallisen ympäristön herkkyys;",
+      "clause_number": 1,
+      "section_number": "29",
+      "statute_id": "713/2014"
+    },
+    {
+      "id": "46fead3e-0e01-46c2-ab54-82ad38e9a102",
+      "node_type": "Clause",
+      "publisher": "finlex",
+      "title": "§ 29 mom 2",
+      "text": "2) ympäristönsuojelulain ja sen nojalla annettujen säännösten ja määräysten, etenkin lupa- ja ilmoituspäätöksiin sisältyvien määräysten, noudattaminen toiminnassa;",
+      "clause_number": 2,
+      "section_number": "29",
+      "statute_id": "713/2014"
+    },
+    {
+      "id": "e33fea59-07b6-4ae0-8a4e-ca7dc3232453",
+      "node_type": "Clause",
+      "publisher": "finlex",
+      "title": "§ 29 mom 3",
+      "text": "3) toiminnanharjoittajan osallistuminen ympäristöasioiden hallinta- ja auditointijärjestelmään;",
+      "clause_number": 3,
+      "section_number": "29",
+      "statute_id": "713/2014"
+    },
+    {
+      "id": "85c6ba9c-8be4-4dd1-bfbe-f2813d2aca41",
+      "node_type": "Clause",
+      "publisher": "finlex",
+      "title": "§ 29 mom 4",
+      "text": "4) muu laitosta koskeva valvonta, jos se vastaa osittain tai kokonaan tämän lain mukaista valvontaa.",
+      "clause_number": 4,
+      "section_number": "29",
+      "statute_id": "713/2014"
+    },
+    {
+      "id": "cdcc3eb3-44a7-4c4b-ba4d-266989832ed8",
+      "node_type": "Clause",
+      "publisher": "finlex",
+      "title": "§ 30 mom 1",
+      "text": "1) suunnitelma ohjelmakaudella toteutettavista eri tyyppisten luvanvaraisten, ilmoituksenvaraisten ja rekisteröitävien toimintojen määräaikaistarkastuksista;",
+      "clause_number": 1,
+      "section_number": "30",
+      "statute_id": "713/2014"
+    },
+    {
+      "id": "e53f0bfa-a1b2-4b64-b228-56a725ecf7d4",
+      "node_type": "Clause",
+      "publisher": "finlex",
+      "title": "§ 30 mom 2",
+      "text": "2) tiedot muista kuin 1 kohdassa tarkoitetuista säännöllisen valvonnan toimenpiteistä;",
+      "clause_number": 2,
+      "section_number": "30",
+      "statute_id": "713/2014"
+    },
+    {
+      "id": "f753573e-578b-4f1d-b34b-5da35f4c958b",
+      "node_type": "Clause",
+      "publisher": "finlex",
+      "title": "§ 30 mom 3",
+      "text": "3) kuvaus edellisen kauden valvontaohjelman tavoitteiden toteutumisesta.",
+      "clause_number": 3,
+      "section_number": "30",
+      "statute_id": "713/2014"
+    }
+  ],
+  "cross_references": [],
+  "raw_html_path": "C:\\Users\\danit\\finance-hack\\aalto-hackaton-2026\\data\\raw\\finlex\\Asetus\\Valtioneuvoston asetus ympäristönsuojelusta annetun valtioneuvoston asetuksen muuttamisesta_6.html"
+}

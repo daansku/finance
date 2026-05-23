@@ -1,0 +1,1283 @@
+{
+  "statute": {
+    "id": "df96842f-8f81-4752-a7fe-9f5dbdc8b1ad",
+    "node_type": "Statute",
+    "publisher": "finlex",
+    "title": "Laki yhteiskunnan kriittisen infrastruktuurin suojaamisesta ja häiriönsietokyvyn parantamisesta",
+    "text": "Laki yhteiskunnan kriittisen infrastruktuurin suojaamisesta ja häiriönsietokyvyn parantamisesta",
+    "statute_id": "2022/2557",
+    "finlex_url": "https://finlex.fi/fi/laki/ajantasa/2022/2557"
+  },
+  "chapters": [
+    {
+      "id": "2fb003b6-af9e-4c9c-8916-55f052c4e0d0",
+      "node_type": "Chapter",
+      "publisher": "finlex",
+      "title": "Chapter 1",
+      "text": "1 luku Yleiset säännökset",
+      "chapter_number": 1,
+      "statute_id": "2022/2557"
+    },
+    {
+      "id": "0611b040-908e-4f8e-9687-ae8d25286a25",
+      "node_type": "Chapter",
+      "publisher": "finlex",
+      "title": "Chapter 2",
+      "text": "2 luku Yleinen ohjaus ja kehittäminen",
+      "chapter_number": 2,
+      "statute_id": "2022/2557"
+    },
+    {
+      "id": "b5887ba8-8652-4524-beda-890a08b0efe6",
+      "node_type": "Chapter",
+      "publisher": "finlex",
+      "title": "Chapter 3",
+      "text": "3 luku Kriittisten toimijoiden määrittäminen ja toimijoita koskevat yleiset vaatimukset",
+      "chapter_number": 3,
+      "statute_id": "2022/2557"
+    },
+    {
+      "id": "2fd793b3-8161-4242-9c3d-694bc3f19252",
+      "node_type": "Chapter",
+      "publisher": "finlex",
+      "title": "Chapter 4",
+      "text": "4 luku Kriittisen toimijan poikkeamailmoitus",
+      "chapter_number": 4,
+      "statute_id": "2022/2557"
+    },
+    {
+      "id": "58c5ad35-9ea1-4d8b-83d9-9988fe215715",
+      "node_type": "Chapter",
+      "publisher": "finlex",
+      "title": "Chapter 5",
+      "text": "5 luku Valvonta",
+      "chapter_number": 5,
+      "statute_id": "2022/2557"
+    },
+    {
+      "id": "cf3bc092-a0b1-4f2d-a375-493285f92e69",
+      "node_type": "Chapter",
+      "publisher": "finlex",
+      "title": "Chapter 6",
+      "text": "6 luku Erinäiset säännökset",
+      "chapter_number": 6,
+      "statute_id": "2022/2557"
+    }
+  ],
+  "sections": [
+    {
+      "id": "bebe68a4-ef75-43c5-af82-c5307af1a834",
+      "node_type": "Section",
+      "publisher": "finlex",
+      "title": "1 § Soveltamisala",
+      "text": "Tällä lailla pannaan täytäntöön kriittisten toimijoiden häiriönsietokyvystä ja direktiivin 2008/114/EY kumoamisesta annettu Euroopan parlamentin ja neuvoston direktiivi (EU) 2022/2557, jäljempänäCER-direktiivi. Tätä lakia sovelletaan: Edellä 2 momentin 1 kohdassa CER-direktiivin liitteessä olevan taulukon 9 kohdassa tarkoitetulla julkishallinnon toimialan toimijaluokalla tarkoitetaan tässä laissa viranomaisten toiminnan julkisuudesta annetun lain (621/1999) 4 §:n 1 momentin 1 kohdassa säädettyjä viranomaisia. Edellä 2 momentin 1 kohdassa CER-direktiivin liitteessä olevan taulukon 5 kohdassa tarkoitetun terveyden toimialan terveydenhuollon tarjoajan toimijaluokan osalta tätä lakia sovelletaan sosiaali- ja terveydenhuollon valvonnasta annetun lain (741/2023) 4 §:ssä tarkoitettuihin terveydenhuollon palveluita järjestäviin tai tuottaviin palvelunjärjestäjiin ja palveluntuottajiin lukuun ottamatta Kansaneläkelaitosta, veripalvelulain (197/2005) mukaisiin veripalvelulaitoksiin, apteekkeihin sekä potilaiden oikeuksien soveltamisesta rajat ylittävässä terveydenhuollossa annetussa Euroopan parlamentin ja neuvoston direktiivissä 2011/24/EU, jäljempänäpotilasdirektiivi, tarkoitettuihin lääkkeitä ja lääkinnällisiä laitteita toimittaviin ja tarjoaviin toimijoihin. Lisäksi tätä lakia sovelletaan sosiaali- ja terveydenhuollon valvonnasta annetun lain 4 §:ssä tarkoitettuihin sosiaalipalveluita järjestäviin tai tuottaviin palvelunjärjestäjiin\nja palveluntuottajiin. Hyvinvointialueisiin lakia sovelletaan niiden järjestämän ja tuottaman sosiaali- ja terveydenhuollon osalta.",
+      "section_number": "1",
+      "chapter_number": 1,
+      "statute_id": "2022/2557"
+    },
+    {
+      "id": "7a5be0ea-d210-4703-ad27-6ff1b5bb7e40",
+      "node_type": "Section",
+      "publisher": "finlex",
+      "title": "2 § Soveltamisalan rajaukset",
+      "text": "Tätä lakia ei sovelleta tasavallan presidentin kansliaan, eduskuntaan, eduskunnan oikeusasiamieheen, valtioneuvoston oikeuskansleriin, Suomen Pankkiin eikä tuomioistuimiin. Tätä lakia ei myöskään sovelleta viranomaistoimintaan maanpuolustuksen, kansallisen turvallisuuden, yleisen järjestyksen ja turvallisuuden aloilla eikä rikosten ennalta estämiseen, rikosten tutkintaan, syyteharkintaan saattamisen toteuttamiseen tai syytteeseen panoon. Tämän lain 7 §:n 3 momenttia, 14–16 §:ää, 5 lukua ja 29 §:ää ei sovelleta sellaiseen kriittiseen toimijaan, joka toimii kansallisen turvallisuuden, yleisen turvallisuuden, maanpuolustuksen tai lainvalvonnan alalla tai tarjoaa palvelua 1 momentissa tarkoitetulle viranomaiselle. Mitä edellä tässä momentissa säädetään ei kuitenkaan koske sellaista kriittistä toimijaa, joka tarjoaa vähäisessä määrin palvelua kansallisen turvallisuuden, yleisen turvallisuuden, maanpuolustuksen tai lainvalvonnan alalla. Tämän lain 7 §:n 3 momentin 3–5 kohtaa ja 4 momenttia, 13 §:n 3 momenttia, 14–16 §:ää, 5 lukua ja 29 §:ää ei sovelleta CER-direktiivin liitteessä olevan taulukon 3 kohdassa tarkoitetun pankkialan, 4 kohdassa tarkoitetun rahoitusmarkkinoiden infrastruktuurin tai 8 kohdassa tarkoitetun digitaalisen infrastruktuurin toimialalla toimivaan kriittiseen toimijaan. Tätä lakia ei sovelleta sellaisen tiedon antamiseen, jonka ilmaiseminen tai luovuttaminen vaarantaa maanpuolustusta, kansallista turvallisuutta tai yleistä järjestystä ja turvallisuutta.",
+      "section_number": "2",
+      "chapter_number": 1,
+      "statute_id": "2022/2557"
+    },
+    {
+      "id": "fa3d8d7b-9b61-4b7d-b961-c61e1ed0db40",
+      "node_type": "Section",
+      "publisher": "finlex",
+      "title": "3 § Suhde muuhun lainsäädäntöön",
+      "text": "Jos Euroopan unionin säädöksissä edellytetään alakohtaisesti kriittisten toimijoiden toteuttavan toimenpiteitä häiriönsietokyvyn parantamiseksi ja vaatimukset ovat vähintään tässä laissa säädettyjä velvoitteita vastaavia, kriittiseen toimijaan sovelletaan niitä tämän lain sijasta. Jos muussa laissa tai sen nojalla annetuissa säännöksissä on tästä laista poikkeavia vaatimuksia kriittisen toimijan riskiarvioinnista tai poikkeamista ilmoittamisesta ja vaatimukset ovat vaikutuksiltaan vähintään tässä laissa säädettyjä velvoitteita vastaavia, niitä sovelletaan tämän lain vastaavien säännösten asemasta. Henkilötietojen käsittelystä säädetään luonnollisten henkilöiden suojelusta henkilötietojen käsittelyssä sekä näiden tietojen vapaasta liikkuvuudesta ja direktiivin 95/46/EY kumoamisesta annetun Euroopan parlamentin ja neuvoston asetuksessa (EU) 2016/679 (yleinen tietosuoja-asetus) ja tietosuojalaissa (1050/2018). Tämän lain mukaan määritetyn kriittisen toimijan velvollisuudesta hallita kyberturvallisuuteen liittyviä riskejä säädetään kyberturvallisuuslaissa (124/2025).",
+      "section_number": "3",
+      "chapter_number": 1,
+      "statute_id": "2022/2557"
+    },
+    {
+      "id": "a3acc41d-1f46-4897-ba18-b7043aee148f",
+      "node_type": "Section",
+      "publisher": "finlex",
+      "title": "4 § Määritelmät",
+      "text": "Tässä laissa tarkoitetaan:",
+      "section_number": "4",
+      "chapter_number": 1,
+      "statute_id": "2022/2557"
+    },
+    {
+      "id": "4d5912a5-fcf0-4999-a26b-839fb6de1df2",
+      "node_type": "Section",
+      "publisher": "finlex",
+      "title": "5 § Kriittisten toimijoiden häiriönsietokykyä koskeva valtakunnallinen suunnitelma",
+      "text": "Valtioneuvosto hyväksyy kriittisten toimijoiden häiriönsietokyvyn parantamiseksi ja toiminnan yleisten tavoitteiden saavuttamiseksi vähintään neljän vuoden välein valtakunnallisen suunnitelman, joka toimii kriittisten toimijoiden häiriönsietokykyä koskevana kansallisena strategiana (valtakunnallinen suunnitelma). Valtakunnallisen suunnitelman valmistelussa on otettava huomioon vastaavan kaltaista tarkoitusta varten annetut valtioneuvoston periaatepäätökset ja muut päätökset. Valtakunnalliseen suunnitelmaan on sisällytettävä vähintään:",
+      "section_number": "5",
+      "chapter_number": 2,
+      "statute_id": "2022/2557"
+    },
+    {
+      "id": "11725e9d-deda-4c3a-a215-18d6fd236f19",
+      "node_type": "Section",
+      "publisher": "finlex",
+      "title": "6 § Kriittistä infrastruktuuria ja kriittisten toimijoiden häiriönsietokykyä koskeva kansallinen riskiarviointi",
+      "text": "Valtioneuvosto hyväksyy vähintään neljän vuoden välein kriittistä infrastruktuuria ja kriittisten toimijoiden häiriönsietokykyä koskevan kansallisen riskiarvioinnin. Kriittistä infrastruktuuria ja kriittisten toimijoiden häiriönsietokykyä koskevassa kansallisessa riskiarvioinnissa on käsiteltävä merkityksellisiä: Riskiarvioinnissa on otettava huomioon vähintään:",
+      "section_number": "6",
+      "chapter_number": 2,
+      "statute_id": "2022/2557"
+    },
+    {
+      "id": "687c2221-e3b4-4afd-9b93-ed3451f3e40e",
+      "node_type": "Section",
+      "publisher": "finlex",
+      "title": "7 § Yhteensovittamistehtävää hoitava ministeriö",
+      "text": "Yhteensovittamistehtävää hoitavan ministeriön tehtävään kuuluu tämän lain mukaisen toiminnan yleinen ohjaus, seuranta, yhteensovittaminen ja kehittäminen. Yhteensovittamistehtävää hoitava ministeriö toimii CER-direktiivin 9 artiklan 1 kohdan mukaisena toimivaltaisena viranomaisena ja vastaa kansallisen yhteyspisteen tehtäviä hoitavan tahon ilmoittamisesta komissiolle. Yhteensovittamistehtävää hoitavana ministeriönä toimii sisäministeriö. Sisäministeriön tehtävänä on: Yhteensovittamistehtävää hoitavan ministeriön on CER-direktiivin johdonmukaisen soveltamisen varmistamiseksi kuultava Euroopan unionin jäsenvaltioita sellaisten kriittisten toimijoiden osalta, jotka:",
+      "section_number": "7",
+      "chapter_number": 2,
+      "statute_id": "2022/2557"
+    },
+    {
+      "id": "e3ff5ef5-4065-492f-8944-f514593ac322",
+      "node_type": "Section",
+      "publisher": "finlex",
+      "title": "8 § Kriittisen infrastruktuurin häiriönsietokykyä edistävät toimet",
+      "text": "Edellä 7 §:ssä ja jäljempänä 13 ja 19 §:ssä tarkoitetut viranomaiset edistävät yhteistyössä Huoltovarmuuskeskuksen kanssa yleisesti kriittisten toimijoiden häiriönsietokykyyn liittyviä kokonaisuuksia. Tässä tarkoituksessa: Jäljempänä 19 §:ssä tarkoitettu valvova viranomainen antaa yhteistyössä Huoltovarmuuskeskuksen kanssa CER-direktiivin 10 artiklan 1 kohdassa tarkoitettua tukea kriittiselle toimijalle. Tässä tarkoituksessa voidaan laatia ohjemateriaalia, menetelmiä ja tukea häiriönsietokykyä testaavien harjoitusten järjestämistä sekä antaa neuvontaa ja koulutusta.",
+      "section_number": "8",
+      "chapter_number": 2,
+      "statute_id": "2022/2557"
+    },
+    {
+      "id": "4f4bf922-e144-4eea-bbb1-d8103a2f2a09",
+      "node_type": "Section",
+      "publisher": "finlex",
+      "title": "9 § Poikkeamailmoitusten välittäminen ja yhteenvetokertomus",
+      "text": "Valtioneuvoston tilannekeskuksesta annetussa laissa (300/2017) tarkoitettu valtioneuvoston tilannekeskus:",
+      "section_number": "9",
+      "chapter_number": 2,
+      "statute_id": "2022/2557"
+    },
+    {
+      "id": "72f654aa-5b62-43da-a766-1853b85f3900",
+      "node_type": "Section",
+      "publisher": "finlex",
+      "title": "10 § Kriittisen toimijan määrittäminen",
+      "text": "Yksityinen tai julkinen yhteisö taikka sen toiminnallinen osa voidaan määrittää kriittiseksi toimijaksi, jos: Kriittisen toimijan määrittämisessä otetaan huomioon kriittisten toimijoiden häiriönsietokykyä koskeva valtakunnallinen suunnitelma ja kriittistä infrastruktuuria ja kriittisten toimijoiden häiriönsietokykyä koskeva kansallinen riskiarvio sekä rajat ylittävä toiminta ja eurooppalainen yhteismitallisuus.",
+      "section_number": "10",
+      "chapter_number": 3,
+      "statute_id": "2022/2557"
+    },
+    {
+      "id": "d3f1b8ef-3a7e-4ecd-be26-a7d417a1143f",
+      "node_type": "Section",
+      "publisher": "finlex",
+      "title": "11 § Merkittävä haitallinen vaikutus",
+      "text": "Edellä 10 §:n 1 momentin 3 kohdassa säädetyn haitallisen vaikutuksen merkittävyyttä arvioitaessa on otettava huomioon:",
+      "section_number": "11",
+      "chapter_number": 3,
+      "statute_id": "2022/2557"
+    },
+    {
+      "id": "0f1002c4-af22-4597-a7f9-4979d1e5312b",
+      "node_type": "Section",
+      "publisher": "finlex",
+      "title": "12 § Merkittävä haitallinen vaikutus ja toimiala",
+      "text": "Edellä 11 §:ssä tarkoitetun merkittävän haitallisen vaikutuksen merkitystä yhteiskunnan toimintakyvyn kannalta keskeiselle palvelulle arvioitaessa on otettava huomioon yhteiskunnan toimintakyvyn kannalta merkittävät erityistehtävät sekä lisäksi seuraavia toimialoja koskevat perusteet:",
+      "section_number": "12",
+      "chapter_number": 3,
+      "statute_id": "2022/2557"
+    },
+    {
+      "id": "177c6189-cd68-4826-afe6-e7e72e5c49f2",
+      "node_type": "Section",
+      "publisher": "finlex",
+      "title": "13 § Päätöksenteko kriittisestä toimijasta",
+      "text": "Kriittisen toimijan määrittämistä koskevan asian ratkaisee se ministeriö, jonka toimialaan käsiteltävä toimija kuuluu. Päätös on voimassa enintään neljä vuotta. Ennen 1 momentissa tarkoitetun asian ratkaisemista on pyydettävä lausunto 7 §:ssä tarkoitetulta ministeriöltä ja tarpeellisessa laajuudessa muilta ministeriöiltä ja viranomaisilta sekä Huoltovarmuuskeskukselta. Tämän pykälän mukaisella päätöksellä määritetyn kriittisen toimijan katsotaan olevan Euroopan kannalta erityisen merkittävä kriittinen toimija, jos se tarjoaa samoja tai samanlaisia keskeisiä palveluja vähintään kuudelle Euroopan unionin jäsenvaltiolle tai vähintään kuuden jäsenvaltion alueella, ja kun toimijalle on ilmoitettu asiasta. Komission ilmoitettua siitä, että kriittistä toimijaa pidetään Euroopan kannalta erityisen merkittävänä kriittisenä toimijana, 7 §:ssä tarkoitetun ministeriön on toimitettava tieto komission ilmoituksesta ja siihen liittyvistä velvoitteista kriittiselle toimijalle viivytyksettä. Asianomainen ministeriö voi peruuttaa 1 momentissa tarkoitetun päätöksen, jos kriittinen toimija ei enää täytä annetun päätöksen edellytyksiä tai kriittinen toimija on lopettanut toimintansa.",
+      "section_number": "13",
+      "chapter_number": 3,
+      "statute_id": "2022/2557"
+    },
+    {
+      "id": "5da78f83-1692-4c62-b03a-ccc2a6fbf62c",
+      "node_type": "Section",
+      "publisher": "finlex",
+      "title": "14 § Kriittisen toimijan suorittama riskiarviointi",
+      "text": "Kriittisen toimijan on suoritettava riskiarviointi tarvittaessa ja vähintään neljän vuoden välein. Riskiarviointia laadittaessa on otettava huomioon kriittistä infrastruktuuria ja kriittisten toimijoiden häiriönsietokykyä koskeva kansallinen riskiarvio ja muut riskiarvioinnin kannalta merkittävät tietolähteet. Kriittisen toimijan riskiarvioinnissa on otettava huomioon kaikki sellaiset merkitykselliset luonnon ja ihmisen aiheuttamat riskit, jotka voivat johtaa poikkeamaan. Tällöin otetaan huomioon toimialojen tai rajat ylittävät riskit, onnettomuudet, luonnonkatastrofit, kansanterveydelliset hätätilanteet, hybridiuhat ja muut uhat sekä muut toimivaltaisen ministeriön määrittämät uhat. Riskiarvioinnissa on otettava huomioon, missä määrin muut toimialat ovat riippuvaisia kriittisen toimijan tarjoamasta keskeisestä palvelusta. Jos vastaavan kaltaista tarkoitusta varten laaditaan muun lain kuin tämän lain nojalla muu riskiarvio tai asiakirja, kriittinen toimija voi käyttää kyseistä arviointia tai asiakirjaa. Tästä on mainittava kyseisessä riskiarviossa tai asiakirjassa.",
+      "section_number": "14",
+      "chapter_number": 3,
+      "statute_id": "2022/2557"
+    },
+    {
+      "id": "0e9a5c69-2654-4038-9e46-be272896f959",
+      "node_type": "Section",
+      "publisher": "finlex",
+      "title": "15 § Häiriönsietokyvyn varmistaminen ja häiriönsietokykyä koskeva suunnitelma",
+      "text": "Kriittisen toimijan on toteutettava häiriönsietokykynsä varmistamiseksi asianmukaisia ja oikeasuhteisia teknisiä, turvallisuuteen liittyviä ja organisatorisia toimenpiteitä, jotka perustuvat 14 §:ssä tarkoitettuun riskiarviontiin ja muihin asiaan kuuluviin tietoihin. Tässä tarkoituksessa kriittisen toimijan on laadittava asianmukaisia ja oikeasuhtaisia teknisiä, turvallisuuteen liittyviä ja organisatorisia toimenpiteitä sisältävä suunnitelma häiriönsietokyvyn varmistamiseksi. Suunnitelmassa on oltava selostus: Jos vastaavan kaltaista tarkoitusta varten laaditaan muun lain kuin tämän lain nojalla asiakirja tai suunnitelma, erillistä tämän pykälän mukaista suunnitelmaa ei tarvitse laatia, vaan kriittinen toimija voi käyttää kyseistä asiakirjaa tai suunnitelmaa. Tästä on mainittava suunnitelmassa tai asiakirjassa. Kriittisen toimijan on nimettävä yhteyspiste, jonka kautta tiedonkulku järjestetään ja ilmoitettava tässä tarkoituksessa tehtävää hoitavan yhteyshenkilön nimi ja yhteystiedot tai muu vastaava yhteyspiste, josta voi saada tietoa.",
+      "section_number": "15",
+      "chapter_number": 3,
+      "statute_id": "2022/2557"
+    },
+    {
+      "id": "e936fb93-1e2f-4a7b-ab4f-ae3c4723a5e9",
+      "node_type": "Section",
+      "publisher": "finlex",
+      "title": "16 § Poikkeamia koskeva ilmoitusvelvollisuus",
+      "text": "Kriittisen toimijan on ilmoitettava ilman aiheetonta viivytystä asianomaiselle valvovalle viranomaiselle ja Valtioneuvoston tilannekeskukselle merkittävästä poikkeamasta, joka häiritsee tai voi häiritä keskeisten palvelujen tarjoamista. Kriittisen toimijan on annettava ensi-ilmoitus valvovalle viranomaiselle ja Valtioneuvoston tilannekeskukselle viimeistään 24 tunnin kuluttua siitä, kun poikkeama on tullut tietoon, jollei välttämättömästä operatiivisesta syystä muuta johdu. Kriittinen toimija antaa yksityiskohtaisen raportin tarvittaessa viimeistään kuukauden kuluttua siitä, kun poikkeama on tullut tietoon yhteensovittamistehtävää hoitavalle ministeriölle, toimialasta vastaavalle ministeriölle ja toimivaltaiselle valvovalle viranomaiselle. Häiriön merkittävyyden määrittämisessä on otettava huomioon erityisesti käyttäjien lukumäärä ja osuus, joihin häiriö vaikuttaa, häiriön kesto ja maantieteellinen alue ja maantieteellisen alueen eristyneisyys. Huoltovarmuuskeskuksella on sen estämättä, mitä tietojen salassa pitämisestä säädetään, oikeus saada tehtäviensä hoitamiseksi ja asianomaisten ministeriöiden ja valvovien viranomaisten tukemiseksi välttämättömiksi arvioidut tiedot 2 momentissa tarkoitetusta ensi-ilmoituksesta ja yksityiskohtaisesta raportista.",
+      "section_number": "16",
+      "chapter_number": 4,
+      "statute_id": "2022/2557"
+    },
+    {
+      "id": "65bdb8ed-87fa-435d-9447-cfa70279a25f",
+      "node_type": "Section",
+      "publisher": "finlex",
+      "title": "17 § Ensi-ilmoituksen ja yksityiskohtaisen raportin sisältö",
+      "text": "Poikkeamaa koskevaan ensi-ilmoitukseen sisällytetään: Yksityiskohtaiseen raporttiin sisällytetään:",
+      "section_number": "17",
+      "chapter_number": 4,
+      "statute_id": "2022/2557"
+    },
+    {
+      "id": "e6980eab-1a9e-441f-9bc1-5deb97abf39a",
+      "node_type": "Section",
+      "publisher": "finlex",
+      "title": "18 § Vastaanotetun poikkeamailmoituksen käsittely",
+      "text": "Asianomaisen valvovan viranomaisen on ilmoitettava kriittiselle toimijalle poikkeamailmoituksen vastaanottamisesta ja mahdollisista tukitoimista. Asianomaisen valvovan viranomaisen on annettava viivytyksettä kriittiselle toimijalle tietoja jatkotoimista. Jos häiriöstä ilmoittaminen on yleisen edun mukaista, valvova viranomainen voi lisäksi velvoittaa kriittisen toimijan tiedottamaan yleisölle asiasta tai kuultuaan ilmoitusvelvollista tiedottaa asiasta itse. Jos poikkeamalla on tai voi olla merkittävä vaikutus kriittisiin toimijoihin ja keskeisten palvelujen tarjonnan jatkuvuuteen yhdelle tai useammalle Euroopan unionin jäsenvaltiolle tai jos poikkeamalla on tai voi olla merkittävä vaikutus keskeisten palvelujen tarjonnan jatkuvuuteen vähintään kuudelle Euroopan unionin jäsenvaltiolle tai vähintään kuudessa jäsenvaltiossa, asiasta on saatujen tietojen perusteella ilmoitettava 9 §:n mukaisesti.",
+      "section_number": "18",
+      "chapter_number": 4,
+      "statute_id": "2022/2557"
+    },
+    {
+      "id": "91c1f2eb-d099-432c-bc28-eb3580b25695",
+      "node_type": "Section",
+      "publisher": "finlex",
+      "title": "19 § Valvovat viranomaiset",
+      "text": "Asianomainen valvova viranomainen valvoo kriittiselle toimijalle tämän lain nojalla säädettyjen ja määrättyjen velvoitteiden noudattamista. Tässä laissa tarkoitettuja valvovia viranomaisia ovat:",
+      "section_number": "19",
+      "chapter_number": 5,
+      "statute_id": "2022/2557"
+    },
+    {
+      "id": "e5e76407-b5b3-42dd-9145-11afa21ed667",
+      "node_type": "Section",
+      "publisher": "finlex",
+      "title": "20 § Valvonnan kohdistaminen ja tarkastusoikeus",
+      "text": "Valvonta on kohdistettava kriittiseen toimijaan tässä laissa säädettyjen velvollisuuksien noudattamisen valvomiseksi siinä laajuudessa kuin se on tarpeen. Valvovalla viranomaisella on oikeus tehdä tarkastuksia paikan päällä kriittisessä infrastruktuurissa, rakennuksissa ja toimitiloissa, joita kriittinen toimija käyttää keskeisten palvelujensa tarjoamiseen. Tarkastuksen yhteydessä on oikeus päästä valvottavan kohteen kaikkiin valvonnan kannalta välttämättömiin rakennuksiin, tiloihin ja tieto- ja muihin järjestelmiin sekä saada salassapitosäännösten tai muiden rajoitusten estämättä selvityksiä tässä laissa vaadituista suunnitelmista ja muista järjestelyistä. Tarkastusta ei kuitenkaan saa suorittaa pysyväisluonteiseen asumiseen käytettävissä tiloissa. Valvova viranomainen voi suorittaa lisäksi kriittisen toimijan toimenpiteiden valvontaa rakennusten ja toimitilojen ulkopuolella kriittisen toimijan häiriönsietokyvyn varmistamiseksi. Valvova viranomainen voi kuulla ulkopuolisia asiantuntijoita sekä pyytää näiltä lausuntoja. Valvova viranomainen voi tarkastuksen yhteydessä käyttää apunaan ulkopuolista asiantuntijaa. Tarkastuksen suorittajalla ja siihen osallistuvalla ulkopuolisella asiantuntijalla on oltava sellainen koulutus ja kokemus kuin tarkastuksen suorittamiseksi on tarpeen. Asiantuntijaan sovelletaan rikosoikeudellista virkavastuuta koskevia säännöksiä hänen suorittaessaan tässä laissa tarkoitettua avustamistehtävää. Vahingonkorvausvastuusta säädetään vahingonkorvauslaissa (412/1974). Tarkastuksessa noudatettavaan menettelyyn sovelletaan hallintolain (434/2003) 39 §:ää.",
+      "section_number": "20",
+      "chapter_number": 5,
+      "statute_id": "2022/2557"
+    },
+    {
+      "id": "8c9b5b53-eed0-4ee1-a001-baa88ff50122",
+      "node_type": "Section",
+      "publisher": "finlex",
+      "title": "21 § Huomautus, varoitus ja valvontapäätös",
+      "text": "Valvova viranomainen voi antaa huomautuksen tai varoituksen kriittiselle toimijalle, joka rikkoo tätä lakia. Varoituksen voi antaa, jos huomautusta ei asiasta ilmenevät seikat kokonaisuudessaan huomioiden voida pitää riittävänä. Varoitus on annettava kirjallisena ja siinä on yksilöitävä puute tai laiminlyönti, jota varoitus koskee. Valvova viranomainen voi päätöksellään velvoittaa toimijan korjaamaan havaitut puutteet tai laiminlyönnin kohtuullisessa määräajassa. Valvova viranomainen voi asettaa päätöksen tehosteeksi uhkasakon tai teettämisuhan.",
+      "section_number": "21",
+      "chapter_number": 5,
+      "statute_id": "2022/2557"
+    },
+    {
+      "id": "c0d8e2d3-3eb7-407c-a20a-217a14aa6476",
+      "node_type": "Section",
+      "publisher": "finlex",
+      "title": "22 § Laiminlyöntimaksu",
+      "text": "Valvova viranomainen voi määrätä päätöksellään kriittisen toimijan maksamaan laiminlyöntimaksun, jos kriittinen toimija tahallaan tai törkeästä huolimattomuudesta laiminlyö 14 §:ssä tarkoitetun riskiarvion, 15 §:ssä tarkoitettujen toimenpiteiden suorittamisen tai 16 §:ssä tarkoitetun poikkeamaa koskevan ilmoituksen antamisen ja havaitulla puutteella tai laiminlyönnillä on merkittävää vaikutusta yhteiskunnan keskeisten palvelujen tarjoamiseen. Laiminlyöntimaksu määrätään maksettavaksi valtiolle. Laiminlyöntimaksua ei voida määrätä kriittiselle toimijalle, joka on valtion viranomainen, valtion liikelaitos, kunnallinen viranomainen, hyvinvointialue tai itsenäinen julkisoikeudellinen laitos. Laiminlyöntimaksun määrä on vähintään 2 000 euroa ja enintään 20 000 euroa. Laiminlyöntimaksun suuruutta arvioitaessa on otettava huomioon tapauksen olosuhteet ja menettelyn laatu ja tässä tarkoituksessa ainakin seuraavat seikat:",
+      "section_number": "22",
+      "chapter_number": 5,
+      "statute_id": "2022/2557"
+    },
+    {
+      "id": "20b64ebb-c74b-4673-bf9c-19c260494b12",
+      "node_type": "Section",
+      "publisher": "finlex",
+      "title": "23 § Laiminlyöntimaksun määräämättä jättäminen",
+      "text": "Laiminlyöntimaksu jätetään määräämättä, jos Laiminlyöntimaksua ei saa määrätä sille, jota epäillään samasta teosta esitutkinnassa, syyteharkinnassa tai tuomioistuimessa vireillä olevassa rikosasiassa. Laiminlyöntimaksua ei saa määrätä myöskään sille, jolle on samasta teosta annettu lainvoimainen tuomio.",
+      "section_number": "23",
+      "chapter_number": 5,
+      "statute_id": "2022/2557"
+    },
+    {
+      "id": "4d342c25-2ddb-4f79-8e96-6573c2013941",
+      "node_type": "Section",
+      "publisher": "finlex",
+      "title": "24 § Laiminlyöntimaksun täytäntöönpano",
+      "text": "Laiminlyöntimaksun täytäntöönpanosta säädetään sakon täytäntöönpanosta annetussa laissa (672/2002). Laiminlyöntimaksu vanhenee viiden vuoden kuluttua lainvoiman saaneen päätöksen antamispäivästä.",
+      "section_number": "24",
+      "chapter_number": 5,
+      "statute_id": "2022/2557"
+    },
+    {
+      "id": "f4e8ea05-5056-4d26-bb99-36f1cae1158e",
+      "node_type": "Section",
+      "publisher": "finlex",
+      "title": "25 § Oikaisuvaatimus",
+      "text": "Tässä laissa tarkoitettuun päätökseen saa vaatia oikaisua. Oikaisuvaatimuksesta säädetään hallintolaissa. Valtioneuvoston yleisistunnon päätökseen ei saa vaatia oikaisua.",
+      "section_number": "25",
+      "chapter_number": 6,
+      "statute_id": "2022/2557"
+    },
+    {
+      "id": "4a6ebf3c-35f6-4247-b8db-c6c3b7d914a7",
+      "node_type": "Section",
+      "publisher": "finlex",
+      "title": "26 § Muutoksenhaku",
+      "text": "Muutoksenhausta hallintotuomioistuimeen säädetään oikeudenkäynnistä hallintoasioissa annetussa laissa (808/2019). Muutoksenhausta uhkasakon asettamista ja maksettavaksi tuomitsemista sekä teettämisuhan asettamista ja täytäntöönpantavaksi määräämistä koskevaan päätökseen sovelletaan kuitenkin uhkasakkolakia (1113/1990).",
+      "section_number": "26",
+      "chapter_number": 6,
+      "statute_id": "2022/2557"
+    },
+    {
+      "id": "ab9cf14c-7f87-4fe2-8313-8a764f81c3ac",
+      "node_type": "Section",
+      "publisher": "finlex",
+      "title": "27 § Viranomaisten ja muiden tahojen tiedonsaantioikeus",
+      "text": "Valvovalla viranomaisella on oikeus salassapitosäännösten estämättä saada viranomaisilta ja kriittiseksi toimijaksi määritetyltä toimijalta maksutta tässä laissa säädettyjen tehtäviensä hoitamiseksi välttämättömät tiedot. Valvovalla viranomaisella on oikeus salassapitosäännösten estämättä luovuttaa toiselle valvovalle viranomaiselle ja kyberturvallisuuslain 26 §:n mukaiselle valvovalle viranomaiselle sekä tämän lain 7 §:ssä tarkoitetulle ministeriölle ja ministeriölle, jonka toimialaan käsiteltävä asia kuuluu, tiedot, jotka ovat välttämättömiä niiden tehtävien hoitamiseksi. Valvovalla viranomaisella on oikeus salassapitosäännösten estämättä luovuttaa välttämättömät tiedot myös Huoltovarmuuskeskukselle sen tehtävien hoitamiseksi. Tässä pykälässä tarkoitettu tiedonsaantioikeus ei koske kyberturvallisuuslain 19 §:ssä tarkoitetun CSIRT-yksikön käsittelemiä tietoja.",
+      "section_number": "27",
+      "chapter_number": 6,
+      "statute_id": "2022/2557"
+    },
+    {
+      "id": "5afbc2dd-12fa-4ac0-a5d2-7ec0fa362524",
+      "node_type": "Section",
+      "publisher": "finlex",
+      "title": "28 § Viranomaisten yhteistyö",
+      "text": "Tämän lain 13 §:n mukaisesta päätöksestä kriittisen toimijan määrittämiseksi on ilmoitettava kyberturvallisuuslain 26 §:ssä tarkoitetuille viranomaisille yhden kuukauden kuluessa päätöksestä. Tämän lain 13 §:n 1 ja 2 momentissa ja 19 §:ssä tarkoitettujen viranomaisten ja kyberturvallisuuslain 26 §:ssä tarkoitetun viranomaisen on vaihdettava keskenään tietoja kriittisten toimijoiden määrittämisestä sekä kyberturvallisuusriskeistä, kyberuhkista ja kyberturvallisuuspoikkeamista sekä muista kuin kyberturvallisuusriskeistä, kyberuhkista ja kyberturvallisuuspoikkeamista, jotka vaikuttavat kriittisiin toimijoihin, sekä mainittujen viranomaisten toteuttamista olennaisista toimenpiteistä ja hallintatoimista.",
+      "section_number": "28",
+      "chapter_number": 6,
+      "statute_id": "2022/2557"
+    },
+    {
+      "id": "2dea6961-26eb-433d-8ba6-2c586c3efbf4",
+      "node_type": "Section",
+      "publisher": "finlex",
+      "title": "29 § Turvallisuusselvitys",
+      "text": "Jos turvallisuusselvityslaissa (726/2014) tarkoitettu henkilöturvallisuusselvitys laaditaan tämän lain 13 §:ssä tarkoitettuun kriittiseen toimijaan palvelussuhteeseen tai toimeksiantotehtävää suorittamaan valittavasta henkilöstä taikka palvelussuhdetta tai toimeksiantotehtävää hoitavasta henkilöstä ja se on selvityksen kohteen ulkomailla oleskelun tai muun erityisen syyn vuoksi tarpeen, suojelupoliisi voi tehdä selvitystä varten rikosrekisteritietojen säilyttämisestä ja luovuttamisesta Suomen ja muiden Euroopan unionin jäsenvaltioiden välillä annetun lain (214/2012) 20 c §:ssä tarkoitetun pyynnön. Pyynnön perusteella saatuja rekisteritietoja voidaan käyttää henkilöturvallisuusselvityksen laadinnassa sen lisäksi, mitä turvallisuusselvityslaissa muutoin säädetään.",
+      "section_number": "29",
+      "chapter_number": 6,
+      "statute_id": "2022/2557"
+    },
+    {
+      "id": "b21d7ddd-3453-4b08-a752-667ea3c3a643",
+      "node_type": "Section",
+      "publisher": "finlex",
+      "title": "30 § Voimaantulo",
+      "text": "Tämä laki tulee voimaan 1 päivänä heinäkuuta 2025. Tämän lain voimaan tullessa 5 §:ssä tarkoitettu kriittisten toimijoiden häiriönsietokykyä koskeva valtakunnallinen suunnitelma ja 6 §:ssä tarkoitettu kriittistä infrastruktuuria ja kriittisten toimijoiden häiriönsietokykyä koskeva kansallinen riskiarvio hyväksytään ensimmäisen kerran viimeistään 17 päivänä tammikuuta 2026. Tämän lain 13 §:ssä tarkoitettu päätös kriittisen toimijan määrittämisestä tehdään ensimmäisen kerran viimeistään 17 päivänä heinäkuuta 2026. Tämän lain voimaan tullessa 14 §:ssä säädetty kriittisen toimijan riskiarviointi tulee kriittiseksi toimijaksi määritetyn toimesta suorittaa ensimmäisen kerran yhdeksän kuukauden kuluessa siitä, kun vastaanottaja on saanut tiedon 13 §:ssä tarkoitetusta päätöksestä. Tämän lain 15 §:n mukainen suunnitelma on laadittava ensimmäisen kerran vuoden kuluessa 14 §:ssä tarkoitetun riskiarvioinnin laatimisesta. Saaduista 16 §:ssä tarkoitetuista poikkeamailmoituksista toimitetaan viimeistään 17 päivänä heinäkuuta 2028 ensimmäinen yhteenvetokertomus komissiolle ja CER-direktiivin 19 artiklassa tarkoitetulle kriittisten toimijoiden häiriönsietokykyä käsittelevälle ryhmälle.",
+      "section_number": "30",
+      "chapter_number": 6,
+      "statute_id": "2022/2557"
+    }
+  ],
+  "clauses": [
+    {
+      "id": "8b0fec52-0a21-46aa-89f4-923cfe0ef319",
+      "node_type": "Clause",
+      "publisher": "finlex",
+      "title": "§ 1 mom 1",
+      "text": "1) CER-direktiivin liitteen toimialaluokituksen mukaisesti energian, liikenteen, pankkialan, rahoitusmarkkinoiden infrastruktuurin, terveyden, juomaveden, jäteveden, digitaalisen infrastruktuurin, julkishallinnon, avaruuden sekä elintarvikkeiden tuotannon, jalostuksen ja jakelun lainsäädännön aloilla ottaen huomioon Euroopan parlamentin ja neuvoston direktiivin (EU) 2022/2557 täydentämisestä vahvistamalla luettelo keskeisistä palveluista annettu komission delegoitu asetus (EU) 2023/2450;",
+      "clause_number": 1,
+      "section_number": "1",
+      "statute_id": "2022/2557"
+    },
+    {
+      "id": "bb244067-4a6c-47d2-8123-2046519ff9d5",
+      "node_type": "Clause",
+      "publisher": "finlex",
+      "title": "§ 1 mom 2",
+      "text": "2) \n                                        ohjaukseen ja päätöksentekoon, joka koskee kriittisten toimijoiden häiriönsietokykyä koskevaa valtakunnallisena suunnitelmana annettavaa kansallista strategiaa, kriittistä infrastruktuuria ja kriittisten toimijoiden häiriönsietokykyä koskevaa kansallista riskiarviointia ja yhteiskunnan toiminnan kannalta tunnistetun keskeisen toimijan määrittämistä 10 §:ssä tarkoitetuksikriittiseksi toimijaksi;",
+      "clause_number": 2,
+      "section_number": "1",
+      "statute_id": "2022/2557"
+    },
+    {
+      "id": "6009812f-32cf-42de-bd06-36e7d2f5a6e8",
+      "node_type": "Clause",
+      "publisher": "finlex",
+      "title": "§ 1 mom 3",
+      "text": "3) 1 kohdassa tarkoitettujen toimialaluokkien osalta tämän lain nojalla määritettyyn kriittiseen toimijaan ja sen velvollisuuksiin häiriönsietokyvyn parantamiseksi;",
+      "clause_number": 3,
+      "section_number": "1",
+      "statute_id": "2022/2557"
+    },
+    {
+      "id": "a31441b8-bbf7-4025-9040-b8a511f6bfb3",
+      "node_type": "Clause",
+      "publisher": "finlex",
+      "title": "§ 1 mom 4",
+      "text": "4) kriittisen toimijan valvontaan; sekä",
+      "clause_number": 4,
+      "section_number": "1",
+      "statute_id": "2022/2557"
+    },
+    {
+      "id": "2f631070-d0bb-4f8a-9fb5-ca860da76ba3",
+      "node_type": "Clause",
+      "publisher": "finlex",
+      "title": "§ 1 mom 5",
+      "text": "5) viranomaisten yhteistyöhön.",
+      "clause_number": 5,
+      "section_number": "1",
+      "statute_id": "2022/2557"
+    },
+    {
+      "id": "f86a79bf-f98e-4b9d-ae4f-8209ac72cb59",
+      "node_type": "Clause",
+      "publisher": "finlex",
+      "title": "§ 5 mom 1",
+      "text": "1) strategiset tavoitteet ja painopisteet kriittisten toimijoiden yleisen häiriönsietokyvyn parantamiseksi; tällöin on otettava huomioon rajat ylittävät ja eri toimialojen riippuvuudet ja keskinäiset riippuvuussuhteet;",
+      "clause_number": 1,
+      "section_number": "5",
+      "statute_id": "2022/2557"
+    },
+    {
+      "id": "a8a14328-4e0a-46c1-9a84-46bbd1b69c4d",
+      "node_type": "Clause",
+      "publisher": "finlex",
+      "title": "§ 5 mom 2",
+      "text": "2) ohjauskehys strategisten tavoitteiden ja painopisteiden saavuttamiseksi;",
+      "clause_number": 2,
+      "section_number": "5",
+      "statute_id": "2022/2557"
+    },
+    {
+      "id": "03c98cbf-2923-44f7-aa42-4429ea709f0f",
+      "node_type": "Clause",
+      "publisher": "finlex",
+      "title": "§ 5 mom 3",
+      "text": "3) kuvaus kriittisten toimijoiden yleisen häiriönsietokyvyn parantamiseen tarvittavista toimenpiteistä sekä kuvaus 6 §:ssä tarkoitetusta kriittistä infrastruktuuria ja kriittisten toimijoiden häiriönsietokykyä koskevasta kansallisesta riskiarvioinnista;",
+      "clause_number": 3,
+      "section_number": "5",
+      "statute_id": "2022/2557"
+    },
+    {
+      "id": "6bb58a41-7b10-4080-a222-19e8440cca20",
+      "node_type": "Clause",
+      "publisher": "finlex",
+      "title": "§ 5 mom 4",
+      "text": "4) kuvaus kriittisten toimijoiden määrittämisprosessista;",
+      "clause_number": 4,
+      "section_number": "5",
+      "statute_id": "2022/2557"
+    },
+    {
+      "id": "dde81d02-7a02-4f9f-85d4-c5d793d35d9e",
+      "node_type": "Clause",
+      "publisher": "finlex",
+      "title": "§ 5 mom 5",
+      "text": "5) kuvaukset kriittisiä toimijoita koskevasta tukiprosessista ja toimenpiteistä julkisten ja yksityisten toimijoiden välisen yhteistyön tehostamisesta;",
+      "clause_number": 5,
+      "section_number": "5",
+      "statute_id": "2022/2557"
+    },
+    {
+      "id": "52102c66-ddb1-462f-a876-9e8a72c77339",
+      "node_type": "Clause",
+      "publisher": "finlex",
+      "title": "§ 5 mom 6",
+      "text": "6) luettelo tärkeimmistä strategian täytäntöönpanoon osallistuvista viranomaisista ja sidosryhmistä;",
+      "clause_number": 6,
+      "section_number": "5",
+      "statute_id": "2022/2557"
+    },
+    {
+      "id": "6d8a41bb-37f0-49d4-854f-392d790b4a36",
+      "node_type": "Clause",
+      "publisher": "finlex",
+      "title": "§ 5 mom 7",
+      "text": "7) toimintapuitteet CER-direktiivin ja toimenpiteistä kyberturvallisuuden yhteisen korkean tason varmistamiseksi kaikkialla unionissa, asetuksen (EU) N:o 910/2014 ja direktiivin (EU) 2018/1972 muuttamisesta sekä direktiivin (EU) 2016/1148 kumoamisesta (NIS 2 -direktiivi) annetun Euroopan parlamentin ja neuvoston direktiivin (EU) 2022/2555 toimivaltaisten viranomaisten väliselle koordinoinnille kyberturvallisuusriskejä, kyberuhkia ja kyberturvallisuuspoikkeamia koskevaa tiedonvaihtoa ja valvontatehtävää varten;",
+      "clause_number": 7,
+      "section_number": "5",
+      "statute_id": "2022/2557"
+    },
+    {
+      "id": "445f109a-4b41-4869-886b-f1c3aebdff9d",
+      "node_type": "Clause",
+      "publisher": "finlex",
+      "title": "§ 5 mom 8",
+      "text": "8) kuvaus käytössä olevista toimenpiteistä, jotka helpottavat mikroyritysten sekä pienten ja keskisuurten yritysten määritelmästä annetussa komission suosituksessa (2003/361/EY) tarkoitettujen kriittisiksi toimijoiksi määritettyjen pienten ja keskisuurten yritysten häiriönsietokykyä koskevien velvoitteiden täytäntöönpanoa.",
+      "clause_number": 8,
+      "section_number": "5",
+      "statute_id": "2022/2557"
+    },
+    {
+      "id": "82edd7ce-b6a2-4d78-af12-1d48353dde67",
+      "node_type": "Clause",
+      "publisher": "finlex",
+      "title": "§ 6 mom 1",
+      "text": "1) luonnonriskejä;",
+      "clause_number": 1,
+      "section_number": "6",
+      "statute_id": "2022/2557"
+    },
+    {
+      "id": "1d97c779-8fcd-43ac-800e-236b84a75c54",
+      "node_type": "Clause",
+      "publisher": "finlex",
+      "title": "§ 6 mom 2",
+      "text": "2) ihmisen aiheuttamia riskejä;",
+      "clause_number": 2,
+      "section_number": "6",
+      "statute_id": "2022/2557"
+    },
+    {
+      "id": "97530cb6-d7db-4d34-a0f2-ea21d8cc97b8",
+      "node_type": "Clause",
+      "publisher": "finlex",
+      "title": "§ 6 mom 3",
+      "text": "3) useita toimialoja koskevia tai rajat ylittäviä riskejä;",
+      "clause_number": 3,
+      "section_number": "6",
+      "statute_id": "2022/2557"
+    },
+    {
+      "id": "bb02a694-13fb-4008-9ecc-b098be68ec68",
+      "node_type": "Clause",
+      "publisher": "finlex",
+      "title": "§ 6 mom 4",
+      "text": "4) onnettomuuksia ja luonnonkatastrofeja;",
+      "clause_number": 4,
+      "section_number": "6",
+      "statute_id": "2022/2557"
+    },
+    {
+      "id": "85b99c3d-a7d4-40f5-8040-13dc927b544b",
+      "node_type": "Clause",
+      "publisher": "finlex",
+      "title": "§ 6 mom 5",
+      "text": "5) kansanterveydellisiä uhkia;",
+      "clause_number": 5,
+      "section_number": "6",
+      "statute_id": "2022/2557"
+    },
+    {
+      "id": "49c3717f-a575-4e2e-bde0-bc3a5acac99c",
+      "node_type": "Clause",
+      "publisher": "finlex",
+      "title": "§ 6 mom 6",
+      "text": "6) hybridiuhkia ja vieraan valtion toimintaa, joilla on vaikutusta Suomen kansalliseen turvallisuuteen;",
+      "clause_number": 6,
+      "section_number": "6",
+      "statute_id": "2022/2557"
+    },
+    {
+      "id": "bdc64576-921c-4676-bcdd-1110cd4d168c",
+      "node_type": "Clause",
+      "publisher": "finlex",
+      "title": "§ 6 mom 7",
+      "text": "7) uhkia liittyen terrorismirikoksiin; sekä",
+      "clause_number": 7,
+      "section_number": "6",
+      "statute_id": "2022/2557"
+    },
+    {
+      "id": "66dc86b5-9e22-42ca-a9c1-a700b12add77",
+      "node_type": "Clause",
+      "publisher": "finlex",
+      "title": "§ 6 mom 8",
+      "text": "8) teknologiaan liittyviä kansallisen turvallisuuden uhkia, paikkatiedon väärinkäyttöön liittyviä uhkia ja muita uhkia.",
+      "clause_number": 8,
+      "section_number": "6",
+      "statute_id": "2022/2557"
+    },
+    {
+      "id": "1376ba1e-e581-4c5a-b785-60d9a5ec5754",
+      "node_type": "Clause",
+      "publisher": "finlex",
+      "title": "§ 6 mom 1",
+      "text": "1) unionin pelastuspalvelumekanismista tehdyn Euroopan parlamentin ja neuvoston päätöksen N:o 1313/2013/EU 6 artiklan 1 kohdan mukainen riskiarviointi;",
+      "clause_number": 1,
+      "section_number": "6",
+      "statute_id": "2022/2557"
+    },
+    {
+      "id": "2882ca6e-73ff-4659-825d-9829ffeb4e42",
+      "node_type": "Clause",
+      "publisher": "finlex",
+      "title": "§ 6 mom 2",
+      "text": "2) sellaiset merkitykselliset riskiarvioinnit, jotka tehdään Euroopan unionin säädösten vaatimusten mukaisesti;",
+      "clause_number": 2,
+      "section_number": "6",
+      "statute_id": "2022/2557"
+    },
+    {
+      "id": "1736c583-2b2d-461f-aa2f-e82bd6ea9e9f",
+      "node_type": "Clause",
+      "publisher": "finlex",
+      "title": "§ 6 mom 3",
+      "text": "3) riskit, jotka johtuvat CER-direktiivin liitteen toimialojen keskinäisriippuvuuksista sekä rajat ylittävistä riippuvuuksista;",
+      "clause_number": 3,
+      "section_number": "6",
+      "statute_id": "2022/2557"
+    },
+    {
+      "id": "84b1f17a-3503-4f98-96d4-3c4f28188a3d",
+      "node_type": "Clause",
+      "publisher": "finlex",
+      "title": "§ 6 mom 4",
+      "text": "4) 16 ja 17 §:n mukaiset ilmoitettuja poikkeamia koskevat tiedot.",
+      "clause_number": 4,
+      "section_number": "6",
+      "statute_id": "2022/2557"
+    },
+    {
+      "id": "84ad52df-31cf-4975-a1ab-3826b369ea7f",
+      "node_type": "Clause",
+      "publisher": "finlex",
+      "title": "§ 7 mom 1",
+      "text": "1) yhteensovittaa kriittisten toimijoiden häiriönsietokykyä koskevan valtakunnallisen suunnitelman valmistelua;",
+      "clause_number": 1,
+      "section_number": "7",
+      "statute_id": "2022/2557"
+    },
+    {
+      "id": "1572eca1-5ef5-497e-9ee6-df587318b133",
+      "node_type": "Clause",
+      "publisher": "finlex",
+      "title": "§ 7 mom 2",
+      "text": "2) yhteensovittaa kriittistä infrastruktuuria ja kriittisten toimijoiden häiriönsietokykyä koskevan kansallisen riskiarvioinnin valmistelua;",
+      "clause_number": 2,
+      "section_number": "7",
+      "statute_id": "2022/2557"
+    },
+    {
+      "id": "367676bd-c010-40cf-a4ef-95875f4ed158",
+      "node_type": "Clause",
+      "publisher": "finlex",
+      "title": "§ 7 mom 3",
+      "text": "3) käsitellä ja toimittaa CER-direktiivin 18 artiklan 1 kohdassa tarkoitettu jäsenvaltion pyyntö neuvontaoperaatiosta komissiolle saatuaan 13 artiklan 4 kohdassa tarkoitetun suostumuksen kriittiseltä toimijalta;",
+      "clause_number": 3,
+      "section_number": "7",
+      "statute_id": "2022/2557"
+    },
+    {
+      "id": "99855f36-ecee-4ab7-8b05-97eefa8f3306",
+      "node_type": "Clause",
+      "publisher": "finlex",
+      "title": "§ 7 mom 4",
+      "text": "4) antaa CER-direktiivin 18 artiklan 2 kohdassa tarkoitettu suostumus neuvontaoperaatiosta komissiolle;",
+      "clause_number": 4,
+      "section_number": "7",
+      "statute_id": "2022/2557"
+    },
+    {
+      "id": "c9ec75af-b14f-4074-92f1-f0f670da9eb6",
+      "node_type": "Clause",
+      "publisher": "finlex",
+      "title": "§ 7 mom 5",
+      "text": "5) toimittaa komissiolle sen tai Euroopan unionin jäsenvaltion perustellusta pyynnöstä Euroopan kannalta erityisen merkittävän kriittisen toimijan riskiarvioinnin olennaiset osat ja luettelo kriittisen toimijan toteuttamista olennaisista 15 §:ssä tarkoitetuista toimenpiteistä;",
+      "clause_number": 5,
+      "section_number": "7",
+      "statute_id": "2022/2557"
+    },
+    {
+      "id": "e4d1dd80-d0b9-4c5e-b495-85941aa301bc",
+      "node_type": "Clause",
+      "publisher": "finlex",
+      "title": "§ 7 mom 6",
+      "text": "6) toimittaa komissiolle tiedot kriittisten toimijoiden häiriönsietokykyä koskevasta valtakunnallisesta suunnitelmasta kolmen kuukauden kuluessa sen hyväksymisestä;",
+      "clause_number": 6,
+      "section_number": "7",
+      "statute_id": "2022/2557"
+    },
+    {
+      "id": "449d695a-b3f8-42b2-ba29-b1774556340f",
+      "node_type": "Clause",
+      "publisher": "finlex",
+      "title": "§ 7 mom 7",
+      "text": "7) toimittaa komissiolle tieto kriittisten toimijoiden lukumäärästä; sekä",
+      "clause_number": 7,
+      "section_number": "7",
+      "statute_id": "2022/2557"
+    },
+    {
+      "id": "04fbac86-13ac-4104-8d9d-cc4634fd7ebb",
+      "node_type": "Clause",
+      "publisher": "finlex",
+      "title": "§ 7 mom 8",
+      "text": "8) toimittaa komissiolle luettelo CER-direktiivin 7 artiklan 2 kohdan a alakohdassa tarkoitetuista keskeisistä palveluista.",
+      "clause_number": 8,
+      "section_number": "7",
+      "statute_id": "2022/2557"
+    },
+    {
+      "id": "0be3948d-12a3-4a53-94c6-f293727ecded",
+      "node_type": "Clause",
+      "publisher": "finlex",
+      "title": "§ 7 mom 1",
+      "text": "1) käyttävät kriittistä infrastruktuuria, jolla on fyysinen yhteys kahden tai useamman jäsenvaltion välillä;",
+      "clause_number": 1,
+      "section_number": "7",
+      "statute_id": "2022/2557"
+    },
+    {
+      "id": "35b48dec-3b60-4217-ae59-eaa6f6c64b86",
+      "node_type": "Clause",
+      "publisher": "finlex",
+      "title": "§ 7 mom 2",
+      "text": "2) ovat osa yhtiörakenteita, jotka liittyvät tai ovat yhteydessä muiden jäsenvaltioiden kriittisiin toimijoihin;",
+      "clause_number": 2,
+      "section_number": "7",
+      "statute_id": "2022/2557"
+    },
+    {
+      "id": "0f2b16d7-fdc0-4658-bb44-d77980f90d26",
+      "node_type": "Clause",
+      "publisher": "finlex",
+      "title": "§ 7 mom 3",
+      "text": "3) on määritetty kriittisiksi toimijoiksi yhdessä Euroopan unionin jäsenvaltiossa ja jotka tarjoavat keskeisiä palveluja toisiin jäsenvaltioihin tai toisissa jäsenvaltioissa.",
+      "clause_number": 3,
+      "section_number": "7",
+      "statute_id": "2022/2557"
+    },
+    {
+      "id": "b9acfc8a-a85f-4daa-b53d-7cc54503d49f",
+      "node_type": "Clause",
+      "publisher": "finlex",
+      "title": "§ 8 mom 1",
+      "text": "1) analysoidaan strategioita niihin liittyvien parhaiden käytäntöjen määrittämiseksi;",
+      "clause_number": 1,
+      "section_number": "8",
+      "statute_id": "2022/2557"
+    },
+    {
+      "id": "1514b2ab-3f58-4a34-8df6-fe525eb46763",
+      "node_type": "Clause",
+      "publisher": "finlex",
+      "title": "§ 8 mom 2",
+      "text": "2) vaihdetaan tietoja sellaisista parhaista käytännöistä, jotka liittyvät 10 §:ssä tarkoitettuun kriittisten toimijoiden määrittämiseen;",
+      "clause_number": 2,
+      "section_number": "8",
+      "statute_id": "2022/2557"
+    },
+    {
+      "id": "c54f17c5-19eb-4392-acab-22ed7d50f666",
+      "node_type": "Clause",
+      "publisher": "finlex",
+      "title": "§ 8 mom 3",
+      "text": "3) vaihdetaan tietoja ja parhaita käytäntöjä, jotka koskevat kriittisten toimijoiden häiriönsietokykyä koskevaa innovointia, tutkimusta ja kehitystä; sekä",
+      "clause_number": 3,
+      "section_number": "8",
+      "statute_id": "2022/2557"
+    },
+    {
+      "id": "0d84341a-e1b7-477c-bf09-943fb498c2de",
+      "node_type": "Clause",
+      "publisher": "finlex",
+      "title": "§ 8 mom 4",
+      "text": "4) vaihdetaan tarvittaessa tietoja kriittisten toimijoiden häiriönsietokykyä koskevista kysymyksistä asiaankuuluvien Euroopan unionin toimielinten, elinten ja laitosten kanssa.",
+      "clause_number": 4,
+      "section_number": "8",
+      "statute_id": "2022/2557"
+    },
+    {
+      "id": "4b2b29a1-7f58-43ea-8fd9-56bf58c915ea",
+      "node_type": "Clause",
+      "publisher": "finlex",
+      "title": "§ 9 mom 1",
+      "text": "1) välittää asianomaisen viranomaisen laatiman poikkeamailmoituksen komissiolle, jos poikkeamalla on tai voi olla merkittävä vaikutus keskeisten palvelujen tarjonnan jatkuvuuteen vähintään kuudelle tai useammalle Euroopan unionin jäsenvaltiolle tai vähintään kuudessa tai useammassa jäsenvaltiossa;",
+      "clause_number": 1,
+      "section_number": "9",
+      "statute_id": "2022/2557"
+    },
+    {
+      "id": "37dde9c8-b1e3-4880-ad12-d23d4eaa15f1",
+      "node_type": "Clause",
+      "publisher": "finlex",
+      "title": "§ 9 mom 2",
+      "text": "2) välittää asianomaisen viranomaisen tiedon poikkeamasta muiden asiaan liittyvien Euroopan unionin jäsenmaiden keskitetyille yhteyspisteille, jos poikkeamalla on tai voi olla merkittävää vaikutusta kriittisiin toimijoihin ja keskeisten palveluiden tarjonnan jatkuvuuteen yhdelle tai useammalle muulle Euroopan unionin jäsenvaltiolle tai yhdessä tai useammassa muussa jäsenvaltiossa;",
+      "clause_number": 2,
+      "section_number": "9",
+      "statute_id": "2022/2557"
+    },
+    {
+      "id": "e95cdfc1-8a98-4fa6-9754-c84c230725ac",
+      "node_type": "Clause",
+      "publisher": "finlex",
+      "title": "§ 9 mom 3",
+      "text": "3) vastaanottaa poikkeamailmoituksen Euroopan unionin jäsenmaiden keskitetyiltä yhteyspisteiltä ja välittää sen asianomaiselle ministeriölle;",
+      "clause_number": 3,
+      "section_number": "9",
+      "statute_id": "2022/2557"
+    },
+    {
+      "id": "50c2a3b0-133a-4e9e-8edd-62e3a552f52e",
+      "node_type": "Clause",
+      "publisher": "finlex",
+      "title": "§ 9 mom 4",
+      "text": "4) toimittaa kahden vuoden välein 7 §:ssä tarkoitetun ministeriön kokoaman yhteenvetokertomuksen poikkeamailmoituksista, niiden lukumäärästä ja luonteesta Euroopan unionin komissiolle ja CER-direktiivin 19 artiklassa tarkoitetulle kriittisten toimijoiden häiriönsietokykyä käsittelevälle ryhmälle.",
+      "clause_number": 4,
+      "section_number": "9",
+      "statute_id": "2022/2557"
+    },
+    {
+      "id": "449022bc-07d4-4e28-b19b-80acd09c4767",
+      "node_type": "Clause",
+      "publisher": "finlex",
+      "title": "§ 10 mom 1",
+      "text": "1) toimija tarjoaa yhtä tai useampaa yhteiskunnan toimintakyvyn kannalta keskeistä palvelua;",
+      "clause_number": 1,
+      "section_number": "10",
+      "statute_id": "2022/2557"
+    },
+    {
+      "id": "87090715-d51c-4e9f-89ad-5b6b69962e5d",
+      "node_type": "Clause",
+      "publisher": "finlex",
+      "title": "§ 10 mom 2",
+      "text": "2) toimija toimii ja sen omistama, hallinnassa oleva tai käyttämä kriittinen infrastruktuuri sijaitsee Suomen alueella; sekä",
+      "clause_number": 2,
+      "section_number": "10",
+      "statute_id": "2022/2557"
+    },
+    {
+      "id": "2daa32bc-de9f-4ca3-b592-aa020e3348af",
+      "node_type": "Clause",
+      "publisher": "finlex",
+      "title": "§ 10 mom 3",
+      "text": "3) poikkeamalla olisi 11 ja 12 §:n mukaisia merkittäviä haitallisia vaikutuksia:",
+      "clause_number": 3,
+      "section_number": "10",
+      "statute_id": "2022/2557"
+    },
+    {
+      "id": "9731ba0b-91ae-4a66-86a6-d00a77266ae2",
+      "node_type": "Clause",
+      "publisher": "finlex",
+      "title": "§ 11 mom 1",
+      "text": "1) yhteiskunnan toimintakyvyn kannalta keskeisestä palvelusta riippuvaisten käyttäjien lukumäärä;",
+      "clause_number": 1,
+      "section_number": "11",
+      "statute_id": "2022/2557"
+    },
+    {
+      "id": "3df7165f-f152-438b-8e8e-902734f72e57",
+      "node_type": "Clause",
+      "publisher": "finlex",
+      "title": "§ 11 mom 2",
+      "text": "2) muiden CER-direktiivin liitteessä tarkoitettujen toimialojen ja alasektorien riippuvaisuus asianomaisesta keskeisestä palvelusta;",
+      "clause_number": 2,
+      "section_number": "11",
+      "statute_id": "2022/2557"
+    },
+    {
+      "id": "0aa8e6b1-e40a-4d75-93f6-c3d8db78d7ce",
+      "node_type": "Clause",
+      "publisher": "finlex",
+      "title": "§ 11 mom 3",
+      "text": "3) poikkeaman vaikutukset vakavuutensa ja kestonsa perusteella yhteiskunnan ja talouden toimintoihin, ympäristöön, yleiseen järjestykseen sekä turvallisuuteen ja väestön terveyteen;",
+      "clause_number": 3,
+      "section_number": "11",
+      "statute_id": "2022/2557"
+    },
+    {
+      "id": "955e2b4f-ae77-454d-9470-62af7cc4384f",
+      "node_type": "Clause",
+      "publisher": "finlex",
+      "title": "§ 11 mom 4",
+      "text": "4) toimijan markkinaosuus;",
+      "clause_number": 4,
+      "section_number": "11",
+      "statute_id": "2022/2557"
+    },
+    {
+      "id": "3d5e0cce-26e0-47b7-8f7a-46f4b66743cf",
+      "node_type": "Clause",
+      "publisher": "finlex",
+      "title": "§ 11 mom 5",
+      "text": "5) maantieteellinen alue, johon poikkeama voi vaikuttaa, Suomen rajat ylittävät vaikutukset ja alueelliseen eristyneisyyden asteeseen liittyvä haavoittuvuus; sekä",
+      "clause_number": 5,
+      "section_number": "11",
+      "statute_id": "2022/2557"
+    },
+    {
+      "id": "f8e43412-c77a-4199-b32e-d36f19096f76",
+      "node_type": "Clause",
+      "publisher": "finlex",
+      "title": "§ 11 mom 6",
+      "text": "6) toimijan merkityksellisyys keskeisen palvelun riittävän tason ylläpitämisessä ottaen huomioon vaihtoehtoisten palvelujen saatavuus tai keskeisen palvelun korvattavuus.",
+      "clause_number": 6,
+      "section_number": "11",
+      "statute_id": "2022/2557"
+    },
+    {
+      "id": "7230604c-f413-4e0d-93fc-e6c9c3209098",
+      "node_type": "Clause",
+      "publisher": "finlex",
+      "title": "§ 12 mom 1",
+      "text": "1) energiatoimialan osalta:",
+      "clause_number": 1,
+      "section_number": "12",
+      "statute_id": "2022/2557"
+    },
+    {
+      "id": "f0dd18f3-bd2c-4e07-9148-2bc51dc9fdea",
+      "node_type": "Clause",
+      "publisher": "finlex",
+      "title": "§ 12 mom 2",
+      "text": "2) elintarviketoimialan osalta elintarvikkeiden tuotannossa ja jalostuksessa vastaanotetun raaka-aineen määrä litroina tai kiloina ja tuotannon määrä sekä jaettavan hyödykkeen määrä myös kaupan ja jakelun, että ruokapalveluiden osalta;",
+      "clause_number": 2,
+      "section_number": "12",
+      "statute_id": "2022/2557"
+    },
+    {
+      "id": "e2d378b5-c009-4526-8236-3312149608bc",
+      "node_type": "Clause",
+      "publisher": "finlex",
+      "title": "§ 12 mom 3",
+      "text": "3) liikennetoimialan osalta:",
+      "clause_number": 3,
+      "section_number": "12",
+      "statute_id": "2022/2557"
+    },
+    {
+      "id": "c622d3c5-5854-47cf-a9c7-1a8ed89571e9",
+      "node_type": "Clause",
+      "publisher": "finlex",
+      "title": "§ 12 mom 4",
+      "text": "4) vesihuoltotoimialan osalta:",
+      "clause_number": 4,
+      "section_number": "12",
+      "statute_id": "2022/2557"
+    },
+    {
+      "id": "c2c49518-64a9-4f58-b2a9-244c0d284c5d",
+      "node_type": "Clause",
+      "publisher": "finlex",
+      "title": "§ 12 mom 5",
+      "text": "5) avaruustoimialan osalta:",
+      "clause_number": 5,
+      "section_number": "12",
+      "statute_id": "2022/2557"
+    },
+    {
+      "id": "cded8905-fd1e-49c4-8a3a-da2afe447bf6",
+      "node_type": "Clause",
+      "publisher": "finlex",
+      "title": "§ 15 mom 1",
+      "text": "1) toimenpiteistä poikkeamien syntymisen estämiseksi ottaen huomioon katastrofiriskien vähentämiseen ja ilmastonmuutokseen sopeutumiseen liittyvät toimenpiteet;",
+      "clause_number": 1,
+      "section_number": "15",
+      "statute_id": "2022/2557"
+    },
+    {
+      "id": "f45fe773-3c1f-4720-b7f2-d13a4673c06d",
+      "node_type": "Clause",
+      "publisher": "finlex",
+      "title": "§ 15 mom 2",
+      "text": "2) tilojen ja niissä sijaitsevan infrastruktuurin suojaamisesta kuten aidan asentamisesta, esteiden pystyttämisestä, ilmaisulaitteista ja kulunvalvonnasta sekä muusta fyysisestä suojaamisesta;",
+      "clause_number": 2,
+      "section_number": "15",
+      "statute_id": "2022/2557"
+    },
+    {
+      "id": "cefc1879-9677-414d-85a9-c722a1c27831",
+      "node_type": "Clause",
+      "publisher": "finlex",
+      "title": "§ 15 mom 3",
+      "text": "3) toimenpiteistä poikkeamien seurauksiin ja häiriötilanteisiin vastaamiseksi, torjumiseksi ja lieventämiseksi;",
+      "clause_number": 3,
+      "section_number": "15",
+      "statute_id": "2022/2557"
+    },
+    {
+      "id": "bcf34716-4b60-4a04-bf76-2c3e9761a8c1",
+      "node_type": "Clause",
+      "publisher": "finlex",
+      "title": "§ 15 mom 4",
+      "text": "4) toimenpiteistä poikkeamisista palautumiseksi ottaen huomioon liiketoiminnan jatkuvuuteen liittyvät toimenpiteet ja vaihtoehtoiset toimitusketjut;",
+      "clause_number": 4,
+      "section_number": "15",
+      "statute_id": "2022/2557"
+    },
+    {
+      "id": "faacbbd9-5477-41eb-a7c9-9085e33e0b40",
+      "node_type": "Clause",
+      "publisher": "finlex",
+      "title": "§ 15 mom 5",
+      "text": "5) henkilöstöturvallisuuden varmistamisesta kuten kriittisiä tehtäviä hoitavien henkilöstöryhmien määrittämisestä mukaan lukien ulkopuolisten palvelutarjoajien henkilöstön huomioiminen määrittämisessä, pääsyoikeuksien vahvistamisesta tiloihin, kriittiseen infrastruktuuriin ja arkaluonteisiin tietoihin sekä turvallisuusselvitysten pyytämisestä ja koulutus- ja pätevyysvaatimuksista;",
+      "clause_number": 5,
+      "section_number": "15",
+      "statute_id": "2022/2557"
+    },
+    {
+      "id": "b4ee80f3-62b1-487f-a068-f22c67c663d6",
+      "node_type": "Clause",
+      "publisher": "finlex",
+      "title": "§ 15 mom 6",
+      "text": "6) tiedottamisesta asianomaiselle henkilöstölle; sekä",
+      "clause_number": 6,
+      "section_number": "15",
+      "statute_id": "2022/2557"
+    },
+    {
+      "id": "2bb860bb-7a5a-4429-8cc1-e0d0ace61035",
+      "node_type": "Clause",
+      "publisher": "finlex",
+      "title": "§ 15 mom 7",
+      "text": "7) toteuttamisaikataulua koskevasta suunnitelmasta.",
+      "clause_number": 7,
+      "section_number": "15",
+      "statute_id": "2022/2557"
+    },
+    {
+      "id": "4bb6791a-35ed-4ecb-a45a-ce4f72e250d6",
+      "node_type": "Clause",
+      "publisher": "finlex",
+      "title": "§ 17 mom 1",
+      "text": "1) tieto poikkeaman havaitsemisesta ja sen luonteesta;",
+      "clause_number": 1,
+      "section_number": "17",
+      "statute_id": "2022/2557"
+    },
+    {
+      "id": "838ab828-b332-4eaa-8d40-067cba9acce0",
+      "node_type": "Clause",
+      "publisher": "finlex",
+      "title": "§ 17 mom 2",
+      "text": "2) arvio mahdollisesta aiheuttajasta tai syystä;",
+      "clause_number": 2,
+      "section_number": "17",
+      "statute_id": "2022/2557"
+    },
+    {
+      "id": "012cf0d5-e50d-423f-b127-ccf9c59fdfed",
+      "node_type": "Clause",
+      "publisher": "finlex",
+      "title": "§ 17 mom 3",
+      "text": "3) arvio mahdollisista seurauksista ja arvio keskeisen palvelun käyttäjien lukumäärästä tai osuudesta, johon häiriö vaikuttaa;",
+      "clause_number": 3,
+      "section_number": "17",
+      "statute_id": "2022/2557"
+    },
+    {
+      "id": "91a2fe71-a219-49f2-bcad-0a5855a4bbde",
+      "node_type": "Clause",
+      "publisher": "finlex",
+      "title": "§ 17 mom 4",
+      "text": "4) tieto, joka on tarpeen poikkeaman mahdollisten rajat ylittävien vaikutusten määrittämiseksi.",
+      "clause_number": 4,
+      "section_number": "17",
+      "statute_id": "2022/2557"
+    },
+    {
+      "id": "f7942d4e-d1cd-493b-ae80-7835ef86aaf0",
+      "node_type": "Clause",
+      "publisher": "finlex",
+      "title": "§ 17 mom 1",
+      "text": "1) yksityiskohtainen kuvaus poikkeamasta, sen vakavuudesta ja vaikutuksista sekä maantieteellisestä laajuudesta;",
+      "clause_number": 1,
+      "section_number": "17",
+      "statute_id": "2022/2557"
+    },
+    {
+      "id": "64e0ff11-453e-453c-929a-13ccee8ca62d",
+      "node_type": "Clause",
+      "publisher": "finlex",
+      "title": "§ 17 mom 2",
+      "text": "2) poikkeaman todennäköisesti aiheuttaneen uhkan tai syyn luonne;",
+      "clause_number": 2,
+      "section_number": "17",
+      "statute_id": "2022/2557"
+    },
+    {
+      "id": "18de420e-dd6f-4379-8a75-205fc3831e6c",
+      "node_type": "Clause",
+      "publisher": "finlex",
+      "title": "§ 17 mom 3",
+      "text": "3) toteutetut tai meneillään olevat toimenpiteet vaikutusten lieventämiseksi;",
+      "clause_number": 3,
+      "section_number": "17",
+      "statute_id": "2022/2557"
+    },
+    {
+      "id": "8cbd573d-1a41-4f60-84f7-8d95f9d4f951",
+      "node_type": "Clause",
+      "publisher": "finlex",
+      "title": "§ 17 mom 4",
+      "text": "4) mahdolliset rajat ylittävät vaikutukset; sekä",
+      "clause_number": 4,
+      "section_number": "17",
+      "statute_id": "2022/2557"
+    },
+    {
+      "id": "3e75f8f8-e92e-4fae-adbb-a33409e31ad2",
+      "node_type": "Clause",
+      "publisher": "finlex",
+      "title": "§ 17 mom 5",
+      "text": "5) muut kuin 1–4 kohdassa tarkoitetut poikkeaman hallinnan kannalta olennaiset tiedot.",
+      "clause_number": 5,
+      "section_number": "17",
+      "statute_id": "2022/2557"
+    },
+    {
+      "id": "a7339ab2-60de-43b4-9d6e-f23f06675fbb",
+      "node_type": "Clause",
+      "publisher": "finlex",
+      "title": "§ 19 mom 1",
+      "text": "1) Energiavirasto niiden kriittisten toimijoiden osalta, jotka kuuluvat energiatoimialan alasektoreiden sähkö, kaukolämmitys ja -jäähdytys toimijaluokkien alaan sekä kaasun alasektorin toimijaluokkien jakeluverkonhaltijat, siirtoverkon haltijat ja toimittajat alaan sekä alasektori vedyn siirtoa koskevaan toimijaluokkaan;",
+      "clause_number": 1,
+      "section_number": "19",
+      "statute_id": "2022/2557"
+    },
+    {
+      "id": "0d5cd732-151b-4343-b43b-a329ce616145",
+      "node_type": "Clause",
+      "publisher": "finlex",
+      "title": "§ 19 mom 2",
+      "text": "2) Etelä-Savon elinkeino-, liikenne- ja ympäristökeskus niiden kriittisten toimijoiden osalta, jotka kuuluvat juomaveden ja jäteveden toimijaluokkaan;",
+      "clause_number": 2,
+      "section_number": "19",
+      "statute_id": "2022/2557"
+    },
+    {
+      "id": "49b2b6e6-cbfb-4fd1-9eb0-d7c503423ad4",
+      "node_type": "Clause",
+      "publisher": "finlex",
+      "title": "§ 19 mom 3",
+      "text": "3) Liikenne- ja viestintävirasto niiden kriittisten toimijoiden osalta, jotka kuuluvat liikennetoimialan alasektoreiden ilmaliikenne, raideliikenne, vesiliikenne, tieliikenne ja julkinen liikenne alaan sekä niiden kriittisten toimijoiden osalta, jotka kuuluvat avaruustoimialan alaan;",
+      "clause_number": 3,
+      "section_number": "19",
+      "statute_id": "2022/2557"
+    },
+    {
+      "id": "747969cf-f18c-4378-9729-a25af0331a33",
+      "node_type": "Clause",
+      "publisher": "finlex",
+      "title": "§ 19 mom 4",
+      "text": "4) Lääkealan turvallisuus- ja kehittämiskeskus Fimea kriittisiksi nimettyjen:",
+      "clause_number": 4,
+      "section_number": "19",
+      "statute_id": "2022/2557"
+    },
+    {
+      "id": "88be1605-4c5f-47b8-b504-4e2a09f67ae0",
+      "node_type": "Clause",
+      "publisher": "finlex",
+      "title": "§ 19 mom 5",
+      "text": "5) Ruokavirasto niiden kriittisten toimijoiden osalta, jotka kuuluvat elintarvikkeiden tuotanto, jalostus ja jakelu toimijaluokkaan;",
+      "clause_number": 5,
+      "section_number": "19",
+      "statute_id": "2022/2557"
+    },
+    {
+      "id": "7f81f876-781d-4108-8ac9-65363526d0ea",
+      "node_type": "Clause",
+      "publisher": "finlex",
+      "title": "§ 19 mom 6",
+      "text": "6) Turvallisuus- ja kemikaalivirasto niiden kriittisten toimijoiden osalta, jotka kuuluvat energia toimialan alasektoreiden öljy, vety ja kaasu alaan, lukuun ottamatta edellä Energiaviraston valvonnan alaan säädettyjä toimijoita;",
+      "clause_number": 6,
+      "section_number": "19",
+      "statute_id": "2022/2557"
+    },
+    {
+      "id": "782f8ec3-63dd-464f-9470-5f8b7de79a0e",
+      "node_type": "Clause",
+      "publisher": "finlex",
+      "title": "§ 19 mom 3",
+      "text": "7) Sosiaali- ja terveysalan lupa- ja valvontavirasto ja aluehallintovirastot kriittisiksi nimettyjen sosiaali- ja terveydenhuollon valvonnasta annetun lain 4 §:ssä tarkoitettujen sosiaali- ja terveydenhuollon palveluita antavien palvelunjärjestäjien ja palveluntuottajien osalta; toimivaltainen valvontaviranomainen määräytyy mainitun lain 32 §:n 2 ja 3 momentin mukaisesti;",
+      "clause_number": 3,
+      "section_number": "19",
+      "statute_id": "2022/2557"
+    },
+    {
+      "id": "96b0d02c-8731-4c76-b3a1-c046ace9469e",
+      "node_type": "Clause",
+      "publisher": "finlex",
+      "title": "§ 19 mom 7",
+      "text": "7) Sosiaali- ja terveysalan lupa- ja valvontavirasto ja aluehallintovirastot kriittisiksi nimettyjen sosiaali- ja terveydenhuollon valvonnasta annetun lain 4 §:ssä tarkoitettujen sosiaali- ja terveydenhuollon palveluita antavien palvelunjärjestäjien ja palveluntuottajien osalta; toimivaltainen valvontaviranomainen määräytyy mainitun lain 32 §:n 2 ja 3 momentin mukaisesti;",
+      "clause_number": 7,
+      "section_number": "19",
+      "statute_id": "2022/2557"
+    },
+    {
+      "id": "c3bafa65-2acf-42ff-86b8-98ab3055e4e1",
+      "node_type": "Clause",
+      "publisher": "finlex",
+      "title": "§ 19 mom 8",
+      "text": "8) Sosiaali- ja terveysalan lupa- ja valvontavirasto kriittisiksi nimettyjen rajat ylittävistä vakavista terveysuhkista ja päätöksen N:o 1082/2013/EU kumoamisesta annetun Europan parlamentin ja neuvoston asetuksen (EU) 2022/2371 15 artiklassa tarkoitettujen EU:n vertailulaboratorioiden osalta.",
+      "clause_number": 8,
+      "section_number": "19",
+      "statute_id": "2022/2557"
+    },
+    {
+      "id": "3bdd30be-ee9d-4652-9fe3-a71a6ce0b7d9",
+      "node_type": "Clause",
+      "publisher": "finlex",
+      "title": "§ 22 mom 1",
+      "text": "1) laiminlyönnin kesto;",
+      "clause_number": 1,
+      "section_number": "22",
+      "statute_id": "2022/2557"
+    },
+    {
+      "id": "0b471227-5cef-4cbc-b037-789e8887ec01",
+      "node_type": "Clause",
+      "publisher": "finlex",
+      "title": "§ 22 mom 2",
+      "text": "2) laiminlyönnin tai puutteen toistuvuus;",
+      "clause_number": 2,
+      "section_number": "22",
+      "statute_id": "2022/2557"
+    },
+    {
+      "id": "23181189-9d0e-427d-91c0-fcb1021b4f13",
+      "node_type": "Clause",
+      "publisher": "finlex",
+      "title": "§ 22 mom 3",
+      "text": "3) merkittävien poikkeamien jättäminen ilmoittamatta;",
+      "clause_number": 3,
+      "section_number": "22",
+      "statute_id": "2022/2557"
+    },
+    {
+      "id": "172dece0-1cea-45b5-9f0c-6c48ec51eef5",
+      "node_type": "Clause",
+      "publisher": "finlex",
+      "title": "§ 22 mom 4",
+      "text": "4) havaittujen puutteiden jättäminen korjaamatta valvovan viranomaisen päätöksistä huolimatta;",
+      "clause_number": 4,
+      "section_number": "22",
+      "statute_id": "2022/2557"
+    },
+    {
+      "id": "c0052d40-cd13-4a3b-a7b0-95c5ecfe36eb",
+      "node_type": "Clause",
+      "publisher": "finlex",
+      "title": "§ 22 mom 5",
+      "text": "5) toimenpiteet, jotka kriittinen toimija on toteuttanut vahingon ehkäisemiseksi tai lieventämiseksi.",
+      "clause_number": 5,
+      "section_number": "22",
+      "statute_id": "2022/2557"
+    },
+    {
+      "id": "c8ce1b9d-cae0-44f6-8b69-2042a36d4349",
+      "node_type": "Clause",
+      "publisher": "finlex",
+      "title": "§ 23 mom 1",
+      "text": "1) kriittinen toimija on oma-aloitteisesti ryhtynyt riittäviin toimenpiteisiin laiminlyönnin korjaamiseksi välittömästi sen havaitsemisen jälkeen ja ilmoittanut siitä viivytyksettä valvovalle viranomaiselle sekä toiminut yhteistyössä valvovan viranomaisen kanssa eikä laiminlyönti ole toistuva;",
+      "clause_number": 1,
+      "section_number": "23",
+      "statute_id": "2022/2557"
+    },
+    {
+      "id": "a4d87607-f583-4756-a56e-eaa4293e609c",
+      "node_type": "Clause",
+      "publisher": "finlex",
+      "title": "§ 23 mom 2",
+      "text": "2) laiminlyöntiä on pidettävä vähäisenä; taikka",
+      "clause_number": 2,
+      "section_number": "23",
+      "statute_id": "2022/2557"
+    },
+    {
+      "id": "d8a5e992-b914-4c2c-a096-9e6a39997098",
+      "node_type": "Clause",
+      "publisher": "finlex",
+      "title": "§ 23 mom 3",
+      "text": "3) maksun määräämistä on pidettävä ilmeisen kohtuuttomana muutoin kuin 1 tai 2 kohdassa tarkoitetulla perusteella; laiminlyöntimaksua ei saa määrätä, jos on kulunut yli viisi vuotta siitä, kun laiminlyönti on tapahtunut.",
+      "clause_number": 3,
+      "section_number": "23",
+      "statute_id": "2022/2557"
+    }
+  ],
+  "cross_references": [],
+  "raw_html_path": "C:\\Users\\danit\\finance-hack\\aalto-hackaton-2026\\data\\raw\\finlex\\Laki (säädöskokoelma)\\Laki yhteiskunnan kriittisen infrastruktuurin suojaamisesta ja häiriönsietokyvyn parantamisesta.html"
+}

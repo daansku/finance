@@ -1,0 +1,1248 @@
+{
+  "statute": {
+    "id": "32956b6b-2719-4340-8119-4d7ca1c24a05",
+    "node_type": "Statute",
+    "publisher": "finlex",
+    "title": "Tartuntatautilaki",
+    "text": "Tartuntatautilaki",
+    "statute_id": "",
+    "finlex_url": ""
+  },
+  "chapters": [
+    {
+      "id": "b80055db-7e28-4ddd-8c82-95e47f0c5c8d",
+      "node_type": "Chapter",
+      "publisher": "finlex",
+      "title": "Chapter 1",
+      "text": "1 luku Yleiset säännökset",
+      "chapter_number": 1,
+      "statute_id": ""
+    },
+    {
+      "id": "4486d7ab-cf41-4e98-af2b-0812956c9771",
+      "node_type": "Chapter",
+      "publisher": "finlex",
+      "title": "Chapter 2",
+      "text": "2 luku Torjuntatyön järjestäminen ja viranomaiset",
+      "chapter_number": 2,
+      "statute_id": ""
+    },
+    {
+      "id": "fd46b6b5-b6eb-4822-bda1-770a12909327",
+      "node_type": "Chapter",
+      "publisher": "finlex",
+      "title": "Chapter 3",
+      "text": "3 luku Sairastuneiden ja sairastuneeksi perustellusti epäiltyjen tunnistaminen ja tartunnan jäljitys",
+      "chapter_number": 3,
+      "statute_id": ""
+    },
+    {
+      "id": "f2152e29-2d1d-42bb-904d-bdc91858503b",
+      "node_type": "Chapter",
+      "publisher": "finlex",
+      "title": "Chapter 4",
+      "text": "4 luku Tartuntatautien ilmoittaminen, tietojen luovuttaminen ja rekisterit",
+      "chapter_number": 4,
+      "statute_id": ""
+    },
+    {
+      "id": "7954ae99-3b1a-42fe-833d-a8f31b23c041",
+      "node_type": "Chapter",
+      "publisher": "finlex",
+      "title": "Chapter 5",
+      "text": "5 luku Rokotukset",
+      "chapter_number": 5,
+      "statute_id": ""
+    },
+    {
+      "id": "9a82f8de-8dfa-4cfe-bf37-914d5b7886dc",
+      "node_type": "Chapter",
+      "publisher": "finlex",
+      "title": "Chapter 6",
+      "text": "6 luku Tartunnan leviämistä rajoittavia toimenpiteitä",
+      "chapter_number": 6,
+      "statute_id": ""
+    },
+    {
+      "id": "7f522f21-cbf8-4349-bd47-a6808cf50649",
+      "node_type": "Chapter",
+      "publisher": "finlex",
+      "title": "Chapter 7",
+      "text": "7 luku Lääkkeiden, terveydenhuollon laitteiden ja tarvikkeiden sekä suojainten käyttö",
+      "chapter_number": 7,
+      "statute_id": ""
+    },
+    {
+      "id": "ed59b614-2f01-4a0e-8e83-bd8c80ec120e",
+      "node_type": "Chapter",
+      "publisher": "finlex",
+      "title": "Chapter 8",
+      "text": "8 luku Maksut ja korvaukset",
+      "chapter_number": 8,
+      "statute_id": ""
+    },
+    {
+      "id": "222cc6fb-f54e-4915-aed2-b2e66b715e76",
+      "node_type": "Chapter",
+      "publisher": "finlex",
+      "title": "Chapter 9",
+      "text": "9 luku Erinäiset säännökset",
+      "chapter_number": 9,
+      "statute_id": ""
+    }
+  ],
+  "sections": [
+    {
+      "id": "20642d51-9fee-4c4c-ac51-c4fbc7b8fa2d",
+      "node_type": "Section",
+      "publisher": "finlex",
+      "title": "1 § Tarkoitus",
+      "text": "Lain tarkoituksena on ehkäistä tartuntatauteja ja niiden leviämistä sekä niistä ihmisille ja yhteiskunnalle aiheutuvia haittoja.",
+      "section_number": "1",
+      "chapter_number": 1,
+      "statute_id": ""
+    },
+    {
+      "id": "2a48a62a-622b-452c-9d20-734b1c001fdb",
+      "node_type": "Section",
+      "publisher": "finlex",
+      "title": "2 § Soveltamisala",
+      "text": "Tätä lakia sovelletaan tartuntatautien torjuntatyön järjestämiseen ja toteuttamiseen sekä sen suunnitteluun, ohjaukseen, seurantaan ja valvontaan. Mitä tässä laissa säädetään työntekijästä, sovelletaan myös virkamieheen, virkasuhteessa olevaan ja näihin verrattavassa julkisoikeudellisessa palvelussuhteessa olevaan henkilöön sekä työnhakijaan.",
+      "section_number": "2",
+      "chapter_number": 1,
+      "statute_id": ""
+    },
+    {
+      "id": "1215d6b3-61ea-4e32-87f6-ad1e3aab6932",
+      "node_type": "Section",
+      "publisher": "finlex",
+      "title": "3 § Määritelmät",
+      "text": "Tässä laissa tarkoitetaan: 10)asiakas- ja potilastilallaasiakas- ja potilashuoneita, sairaankuljetuksessa käytettäviä kulkuneuvoja sekä näihin verrattavia tiloja, joissa on mahdollisuus tartunnalle tai sen leviämiselle asiakkaisiin tai potilaisiin.",
+      "section_number": "3",
+      "chapter_number": 1,
+      "statute_id": ""
+    },
+    {
+      "id": "7ebb8b40-ecd7-4fa2-b4a7-0fcd8d36ce7f",
+      "node_type": "Section",
+      "publisher": "finlex",
+      "title": "4 § Tartuntatautien luokittelu",
+      "text": "Tartuntataudit jaetaan yleisvaarallisiin ja valvottaviin tartuntatauteihin sekä muihin tartuntatauteihin, joista osa edellyttää säännöllistä seurantaa väestölle aiheuttamansa tautitaakan tai epidemiavaaran vuoksi. Tartuntatauti on yleisvaarallinen, jos: Tartuntatauti on valvottava, jos:",
+      "section_number": "4",
+      "chapter_number": 1,
+      "statute_id": ""
+    },
+    {
+      "id": "efe02a16-bde2-42ec-bf0c-f0e1cf96dc7b",
+      "node_type": "Section",
+      "publisher": "finlex",
+      "title": "5 § Asetuksenantovaltuus",
+      "text": "Valtioneuvoston asetuksella annetaan tarkempia säännöksiä siitä, mitkä taudit ovat yleisvaarallisia ja mitkä valvottavia tartuntatauteja. Lisäksi valtioneuvoston asetuksella säädetään tarkemmin, mitkä 4 §:n 1 momentissa tarkoitetuista muista tartuntataudeista, jotka edellyttävät säännöllistä seurantaa väestölle aiheuttamansa tautitaakan tai epidemiavaaran vuoksi, kuuluvat ilmoitusvelvollisuuden piiriin.",
+      "section_number": "5",
+      "chapter_number": 1,
+      "statute_id": ""
+    },
+    {
+      "id": "d9490f37-1070-4836-b4ec-d9ad57f360e2",
+      "node_type": "Section",
+      "publisher": "finlex",
+      "title": "6 § Viranomaisten yleiset velvollisuudet",
+      "text": "Tässä laissa tarkoitettujen valtion viranomaisten ja asiantuntijalaitosten sekä kuntien ja kuntayhtymien on järjestelmällisesti torjuttava tartuntatauteja sekä varauduttava terveydenhuollon häiriötilanteisiin. Niiden on ryhdyttävä välittömiin toimiin saatuaan tiedon torjuntatoimia edellyttävän tartuntataudin esiintymisestä tai sellaisen vaarasta toimialueellaan.",
+      "section_number": "6",
+      "chapter_number": 2,
+      "statute_id": ""
+    },
+    {
+      "id": "fafafa9f-b2d2-4d13-ae4b-8724e69192ec",
+      "node_type": "Section",
+      "publisher": "finlex",
+      "title": "7 § Valtakunnallinen torjuntatyö",
+      "text": "Tartuntatautien torjunnan yleinen suunnittelu, ohjaus ja valvonta kuuluvat sosiaali- ja terveysministeriölle. Ministeriö vastaa valtakunnallisesta terveydenhuollon häiriötilanteisiin tai niiden uhkaan varautumisesta ja näiden tilanteiden johtamisesta. Tartuntatautien torjunnan kansallisena asiantuntijalaitoksena toimii Terveyden ja hyvinvoinnin laitos, joka tukee asiantuntemuksellaan sosiaali- ja terveysministeriötä ja aluehallintovirastoja, ylläpitää tartuntatautien torjuntaa palvelevia valtakunnallisia epidemiologisia seurantajärjestelmiä sekä ohjaa ja tukee tartuntatautien torjuntatyötä kunnissa, sairaanhoitopiirien kuntayhtymissä ja sosiaalihuollon ja terveydenhuollon toimintayksiköissä. Laitos tutkii tartuntatauteja, seuraa ja selvittää tartuntatautien ilmaantumista ja esiintymistä, kehittää niiden diagnostiikkaa, seurantaa ja torjuntaa sekä tiedottaa niistä ja antaa väestölle ohjeita tartunnan välttämiseksi ja leviämisen ehkäisemiseksi. Laitos huolehtii osaltaan rokotehuollosta, rokotteiden vaikutusten seuraamisesta sekä rokotteiden ja rokotusten haittavaikutusten selvittämisestä. Laitos toimii Euroopan unionin tartuntatautien epidemiologisesta seurannasta ja tartuntatautien ilmoittamisesta vastaavana\ntoimivaltaisena viranomaisena.",
+      "section_number": "7",
+      "chapter_number": 2,
+      "statute_id": ""
+    },
+    {
+      "id": "75987abf-7066-46a2-a273-653981e38567",
+      "node_type": "Section",
+      "publisher": "finlex",
+      "title": "8 § Torjuntatyö aluetasolla",
+      "text": "Aluehallintovirasto sovittaa yhteen ja valvoo tartuntatautien torjuntaa alueellaan. Aluehallintovirasto valvoo, että sairaanhoitopiirien kuntayhtymät ovat varautuneet alueellisesti terveydenhuollon häiriötilanteita varten. Aluehallintovirasto valvoo torjuntatyön säännösten mukaista toteuttamista sekä kansallisten suunnitelmien ja sosiaali- ja terveysministeriön päätösten toimeenpanoa. Aluehallintovirastossa on oltava virastoon virkasuhteessa oleva tartuntataudeista vastaava lääkäri. Sairaanhoitopiirin kuntayhtymä ohjaa ja tukee kuntia ja sosiaalihuollon ja terveydenhuollon toimintayksiköitä lääketieteellisellä asiantuntemuksellaan tartuntatautien torjunnassa, kehittää alueellisesti tartuntatautien diagnostiikkaa ja hoitoa sekä selvittää epidemioita yhdessä kuntien kanssa. Sairaanhoitopiiri varautuu poikkeuksellisten epidemioiden torjuntaan ja hoitoon sekä huolehtii hoitoon liittyvien infektioiden torjunnan kehittämisestä alueensa sosiaalihuollon ja terveydenhuollon toimintayksiköissä. Sairaanhoitopiirin kuntayhtymässä on oltava kuntayhtymään virkasuhteessa oleva tartuntataudeista vastaava lääkäri. Aluehallintoviraston ja sen toimialueen sairaanhoitopiirien kuntayhtymien on tehtävä yhteistyötä tartuntatautien torjunnassa. Aluehallintovirasto tekee tässä laissa säädetyt hallinnolliset päätökset käyttäen hyväksi sairaanhoitopiirin kuntayhtymän, erityisvastuualueen ja Terveyden ja hyvinvoinnin laitoksen asiantuntemusta. Tartuntatautien torjunnan alueellinen varautuminen ja valmiussuunnittelu toteutetaan siten kuin terveydenhuoltolain (1326/2010) 38 §:ssä säädetään ottaen huomioon myös työterveyshuollon ja yksityisen terveydenhuollon toiminta.",
+      "section_number": "8",
+      "chapter_number": 2,
+      "statute_id": ""
+    },
+    {
+      "id": "0a608598-9e0d-441d-adb9-4f21005aab59",
+      "node_type": "Section",
+      "publisher": "finlex",
+      "title": "9 § Torjuntatyö kunnassa",
+      "text": "Kunnan velvollisuutena on järjestää alueellaan tässä laissa tarkoitettu tartuntatautien vastustamistyö osana kansanterveystyötä siten kuin kansanterveyslaissa (66/1972), terveydenhuoltolaissa ja tässä laissa säädetään. Kunnassa on oltava kuntaan virkasuhteessa oleva tartuntataudeista vastaava lääkäri. Terveyskeskuksen tartuntataudeista vastaavan lääkärin on otettava selvää epäillyn tai todetun tartuntataudin laadusta ja sen levinneisyydestä sekä ryhdyttävä tarpeellisiin toimenpiteisiin taudin leviämisen estämiseksi. Tartuntatautien vastustamistyöhön kuuluu tässä laissa tartuntatautien ehkäisy, varhaistoteaminen ja seuranta, epidemian selvittämiseksi tai torjumiseksi tarvittavat toimenpiteet sekä tartuntatautiin sairastuneen tai sairastuneeksi epäillyn tutkimus, hoito ja lääkinnällinen kuntoutus sekä hoitoon liittyvien infektioiden torjunta. Valtioneuvoston asetuksella säädetään tarkemmin kunnan järjestämistä ehkäisevistä palveluista tartuntatautien leviämisen ehkäisemiseksi.",
+      "section_number": "9",
+      "chapter_number": 2,
+      "statute_id": ""
+    },
+    {
+      "id": "11f112ed-cb72-4496-9969-4280791e19f8",
+      "node_type": "Section",
+      "publisher": "finlex",
+      "title": "10 § Tartuntatautien torjunta puolustusvoimissa, Rajavartiolaitoksessa ja eräissä valtion laitoksissa",
+      "text": "Puolustusvoimat, Rajavartiolaitos, Vankiterveydenhuollon yksikkö, valtion mielisairaalat ja valtion koulukodit ja poliisi sen huostassa olevien osalta vastaavat tartuntatautien torjuntatyöstä osana järjestämisvastuuseensa kuuluvaa terveydenhuoltoa siten, että toiminta täyttää tässä laissa asetetut velvoitteet. Puolustusvoimat, Rajavartiolaitos, Vankiterveydenhuollon yksikkö ja valtion mielisairaalat voivat tehdä terveydenhuoltonsa piiriin kuuluville henkilöille tässä laissa kunnan tehtäviksi säädetyt henkilöä koskevat viranomaispäätökset silloin, kun henkilö ei ole lomalla tai hoidettavana muussa terveydenhuollon toimintayksikössä. Tartuntatautien torjuntatyön järjestämisessä 1 momentissa tarkoitettujen viranomaisten ja toimintayksiköiden on oltava yhteistyössä alueen sairaanhoitopiirin kuntayhtymän ja kunnan kanssa, ja niiden on varauduttava poikkeuksellisiin epidemioihin ottaen huomioon sosiaali- ja terveysministeriön johdolla tapahtuvan varautumisen.",
+      "section_number": "10",
+      "chapter_number": 2,
+      "statute_id": ""
+    },
+    {
+      "id": "5b3f8f7f-60c2-42f9-9e43-2c3ab496c762",
+      "node_type": "Section",
+      "publisher": "finlex",
+      "title": "11 § Tartuntatautien neuvottelukunta",
+      "text": "Tartuntatautien torjunnan asiantuntijaelimenä toimii sosiaali- ja terveysministeriön yhteydessä tartuntatautien neuvottelukunta.",
+      "section_number": "11",
+      "chapter_number": 2,
+      "statute_id": ""
+    },
+    {
+      "id": "f106ee73-fe7b-4a40-aab2-49dc4ace36b6",
+      "node_type": "Section",
+      "publisher": "finlex",
+      "title": "12 § Torjuntatyön valvonta",
+      "text": "Tartuntatautien torjuntatyön lainmukaisuuden valvonta ja siihen liittyvä ohjaus kuuluu aluehallintovirastolle toimialueellaan. Sosiaali- ja terveysalan lupa- ja valvontavirasto ohjaa aluehallintovirastojen toimintaa valvonnan ja siihen liittyvän ohjauksen toimeenpanossa, yhteensovittamisessa ja yhdenmukaistamisessa. Lisäksi Sosiaali- ja terveysalan lupa- ja valvontavirasto valvoo tartuntatautien torjuntatyön lainmukaisuutta ja antaa siihen liittyvää ohjausta erityisesti silloin, kun kysymyksessä ovat: Yksityisten terveydenhuollon palvelujen antajien valvontaan liittyvistä tarkastuksista, valvonnallisista seuraamuksista ja valvontaviranomaisten tiedonsaantioikeudesta säädetään yksityisestä terveydenhuollosta annetun lain (152/1990) 16, 17, 20 ja 22 a §:ssä. Yksityisten sosiaalihuollon palvelujen antajien valvontaan liittyvistä tarkastuksista, valvonnallisista seuraamuksista ja valvontaviranomaisten tiedonsaantioikeudesta säädetään yksityisistä sosiaalipalveluista annetun lain (922/2011) 17–22 ja 39 §:ssä. Valtion järjestämän terveydenhuollon valvontaan liittyvien tarkastusten tekemisestä, valvonnallisista seuraamuksista ja valvontaviranomaisen tiedonsaantioikeudesta säädetään mielenterveyslain 33 a–33 c §:ssä, terveydenhuollon järjestämisestä puolustusvoimissa annetun lain (322/1987) 10 b–10 d ja 10 f §:ssä ja Vankiterveydenhuollon yksiköstä annetun lain (1635/2015) 11–13 §:ssä.",
+      "section_number": "12",
+      "chapter_number": 2,
+      "statute_id": ""
+    },
+    {
+      "id": "3fd6d0d5-39f1-4c57-8b94-6858f7e5d5c5",
+      "node_type": "Section",
+      "publisher": "finlex",
+      "title": "13 § Asetuksenantovaltuus",
+      "text": "Valtioneuvoston asetuksella säädetään tarkemmin 6 ja 7 §:ssä tarkoitetuista sosiaali- ja terveysministeriön, Terveyden ja hyvinvoinnin laitoksen sekä 6 ja 8 §:ssä tarkoitetuista aluehallintoviraston tehtävistä sekä 11 §:ssä tarkoitetun tartuntatautien neuvottelukunnan kokoonpanosta, asettamisesta ja tehtävistä. Sosiaali- ja terveysalan lupa- ja valvontaviraston ja aluehallintovirastojen tarkemmasta työnjaosta ohjauksessa ja valvonnassa säädetään tarvittaessa valtioneuvoston asetuksella.",
+      "section_number": "13",
+      "chapter_number": 2,
+      "statute_id": ""
+    },
+    {
+      "id": "d01f992a-17c2-475e-b2e4-358167cb0a73",
+      "node_type": "Section",
+      "publisher": "finlex",
+      "title": "14 § Vapaaehtoiset terveystarkastukset ja rokotukset",
+      "text": "Kunnan on järjestettävä yleisiä rokotuksia ja terveystarkastuksia tartuntatautien ehkäisemiseksi. Rokotukseen tai terveystarkastukseen osallistuminen on vapaaehtoista.",
+      "section_number": "14",
+      "chapter_number": 3,
+      "statute_id": ""
+    },
+    {
+      "id": "c5aabfaf-7209-4c52-b2ff-df257bae70ab",
+      "node_type": "Section",
+      "publisher": "finlex",
+      "title": "15 § Kohdennetut terveystarkastukset",
+      "text": "Aluehallintovirasto voi määrätä järjestettäväksi toimialueensa jollakin paikkakunnalla tai tietyssä työpaikassa, laitoksessa, kulkuneuvossa tai vastaavassa paikassa oleskeleville terveystarkastuksen, jos tarkastus on  yleisvaarallisen  tartuntataudin  leviämisen  estämiseksi  tarpeen. Terveystarkastukseen osallistuminen on vapaaehtoista. Terveystarkastuksen suorittaa lääkäri tai asianmukaisen koulutuksen saanut muu terveydenhuollon ammattihenkilö lääkärin valvonnassa. Tarkastuksen osana voidaan ottaa välttämättömiä näytteitä ja tehdä muu tutkimus, josta ei aiheudu merkittävää haittaa tutkittavalle. Työntekijällä on oikeus käydä 1 momentissa tarkoitetussa terveystarkastuksessa tai tutkimuksissa työaikana, jollei se ole vaikeudetta mahdollista muuna aikana. Se aika, joka työntekijän päivittäisestä säännöllisestä työajasta käytetään mainittuun tarkoitukseen, luetaan työssäoloajaksi.",
+      "section_number": "15",
+      "chapter_number": 3,
+      "statute_id": ""
+    },
+    {
+      "id": "68608170-7468-446f-aba7-c9c5fd5cda0c",
+      "node_type": "Section",
+      "publisher": "finlex",
+      "title": "16 § Pakollinen terveystarkastus",
+      "text": "Aluehallintovirasto voi päättää, että 14 ja 15 §:n mukaiseen terveystarkastukseen osallistuminen on pakollista, jos se on yleisvaarallisen tartuntataudin tai yleisvaaralliseksi perustellusti epäillyn tartuntataudin leviämisen ehkäisemiseksi välttämätöntä.",
+      "section_number": "16",
+      "chapter_number": 3,
+      "statute_id": ""
+    },
+    {
+      "id": "a1972691-468c-496b-a8af-879d97ab213e",
+      "node_type": "Section",
+      "publisher": "finlex",
+      "title": "17 § Hoitoon liittyvien infektioiden torjunta",
+      "text": "Terveydenhuollon ja sosiaalihuollon toimintayksikön on torjuttava suunnitelmallisesti hoitoon liittyviä infektioita.  Toimet on sovitettava yhteen terveydenhuoltolain 8 §:ssä säädettyjen potilasturvallisuutta edistävien toimien kanssa. Toimintayksikön johtajan on seurattava tartuntatautien ja lääkkeille erittäin vastustuskykyisten mikrobien esiintymistä ja huolehdittava tartunnan torjunnasta. Toimintayksikön on huolehdittava potilaiden, asiakkaiden ja henkilökunnan tarkoituksenmukaisesta suojauksesta ja sijoittamisesta sekä mikrobilääkkeiden asianmukaisesta käytöstä. Toimintayksikön johtajan on käytettävä apunaan  tartuntatautien  torjuntaan perehtyneitä terveydenhuollon ammattihenkilöitä ja sovitettava toimintansa yhteen kunnan tai kuntayhtymän toteuttamien toimien sekä valtakunnallisten hoitoon liittyvien infektioiden torjuntaohjelmien kanssa.",
+      "section_number": "17",
+      "chapter_number": 3,
+      "statute_id": ""
+    },
+    {
+      "id": "eb883da0-0249-4e66-9de8-132a9fb97cea",
+      "node_type": "Section",
+      "publisher": "finlex",
+      "title": "18 § Laboratoriotutkimukset ja toimilupa",
+      "text": "Tartuntatautien toteamiseksi tarvittavia laboratoriotutkimuksia ja -tehtäviä suoritetaan Terveyden ja hyvinvoinnin laitoksessa ja tähän tarkoitukseen toimiluvan saaneissa laboratorioissa sekä niiden valvomissa toimintayksiköissä. Jos toimiluvallinen laboratorio teettää laboratoriotutkimuksia alihankintana muussa laboratoriossa taikka valvoo tutkimusten suorittamista toimintayksikössä, laboratorion on varmistettava, että alihankintalaboratorio tai toimintayksikkö täyttää jäljempänä 3 momentissa laboratoriolle asetetut vaatimukset. Aluehallintovirasto myöntää toimiluvat laboratorioille. Aluehallintoviraston on pyydettävä Terveyden ja hyvinvoinnin laitokselta lausunto ennen toimiluvan myöntämistä laboratoriolle. Toimilupaan voidaan liittää välttämättömiä ehtoja palvelujen määrästä, henkilöstöstä, tiloista, laitteista ja tarvikkeista sekä toimintatavoista. Edellytyksenä toimiluvan myöntämiselle on, että laboratoriolla on asianmukaiset tilat ja laitteet sekä toiminnan edellyttämä ammattitaitoinen henkilökunta, ja että laboratorion laadunvarmistus sekä sen käyttämien alihankintalaboratorioiden ja sen valvomien toimintayksiköiden valvonta on järjestetty asianmukaisella tavalla. Aluehallintovirasto valvoo laboratorioita käyttäen hyväksi Terveyden ja hyvinvoinnin laitoksen asiantuntemusta. Jos toimiluvan myöntämisen jälkeen ilmenee, ettei laboratorio, sen alihankintalaboratorio tai sen valvoma toimintayksikkö täytä olennaisia luvan myöntämisen edellytyksiä ja sen toiminnassa esiintyy vakavia puutteita, joita ei aluehallintoviraston määräyksestä huolimatta ole korjattu, aluehallintovirasto voi peruuttaa toimiluvan. Aluehallintoviraston tehtävistä ja toimivallasta on lisäksi voimassa, mitä niistä erikseen säädetään. Aluehallintovirastolla ja Terveyden ja hyvinvoinnin laitoksella on tämän lain ja sen nojalla annettujen säännösten noudattamisen valvontaa varten oikeus päästä tarkastamaan laboratorioiden tiloja, toimintaa ja valvonnassa tarvittavia asiakirjoja sekä saada korvauksetta salassapitosäännösten estämättä käyttöönsä tarvittavat tiedot, selvitykset, asiakirjat ja muu aineisto. Tiedonsaantioikeus koskee myös valvontaa varten tarvittavia tietoja liike- tai ammattisalaisuudesta. Tiedot, selvitykset, asiakirjat ja muu aineisto on annettava aluehallintovirastolle tai Terveyden ja hyvinvoinnin laitokselle niiden asettamassa kohtuullisessa määräajassa. Jollei tietoja, selvityksiä, asiakirjoja ja muuta aineistoa anneta asetetussa määräajassa, aluehallintovirasto voi velvoittaa antamaan ne sakon uhalla.",
+      "section_number": "18",
+      "chapter_number": 3,
+      "statute_id": ""
+    },
+    {
+      "id": "9743b40a-fce0-40d4-8d57-f24f9f345959",
+      "node_type": "Section",
+      "publisher": "finlex",
+      "title": "19 § Asiantuntijalaboratorio, tiedonsaanti ja harvinaisten tutkimusten tekeminen",
+      "text": "Terveyden ja hyvinvoinnin laitos toimii kansallisena asiantuntijalaboratoriona Maailman terveysjärjestön ja Euroopan unionin edellyttämällä tavalla ja osallistuu asiantuntijalaboratorioiden yhteistyöhön. Terveyden ja hyvinvoinnin laitoksella on oikeus saada korvauksetta 18 §:ssä tarkoitetuilta laboratorioilta tiedot tartuntatautitapausten toteamiseksi tehtyjen tutkimusten lukumääristä ja käytetyistä laboratoriomenetelmistä ja laadunvarmistuksen tuloksista. Tartuntatautien toteamiseksi tehtäviä harvinaisia tutkimuksia voi tarvittaessa toteuttaa Terveyden ja hyvinvoinnin laitoksen lisäksi erityisvastuualue, sairaanhoitopiirin kuntayhtymä tai muu sovittava taho.",
+      "section_number": "19",
+      "chapter_number": 3,
+      "statute_id": ""
+    },
+    {
+      "id": "6eece145-5803-4dbe-8b36-419ba224c14d",
+      "node_type": "Section",
+      "publisher": "finlex",
+      "title": "20 § Lääkärin hoitovastuun siirto ja tietojen luovutus",
+      "text": "Taudin toteava lääkäri on ensisijaisesti vastuussa yleisvaaralliseen tai valvottavaan tartuntatautiin sairastuneen potilaan ja mahdollisesti muiden tartunnan saaneiden tutkimisesta ja hoidosta. Jos hän ei voi itse tätä tehdä, hänen on siirrettävä tehtävä kunnan tai sairaanhoitopiirin kuntayhtymän tartuntataudeista vastaavalle lääkärille. Kun lääkäri siirtää 1 momentissa tarkoitetussa tapauksessa hoitovastuun kunnan tai sairaanhoitopiirin kuntayhtymän tartuntataudeista vastaavalle lääkärille, hänen on salassapitosäännösten estämättä toimitettava tälle hoidon kannalta välttämättömät tiedot.",
+      "section_number": "20",
+      "chapter_number": 3,
+      "statute_id": ""
+    },
+    {
+      "id": "3319fb09-b348-4c55-8415-7faf2d761b30",
+      "node_type": "Section",
+      "publisher": "finlex",
+      "title": "21 § Ilmoitus tartunnalle altistumisesta",
+      "text": "Hoitavan lääkärin on ilmoitettava salassapitosäännösten estämättä kunnan tai sairaanhoitopiirin kuntayhtymän tartuntataudeista vastaavalle lääkärille, jos hän saa tietää potilaansa sairastavan tai elinaikanaan sairastaneen yleisvaarallista tai valvottavaa tartuntatautia, joka voi aiheuttaa tartunnan vaaran toiselle henkilölle. Kunnan tai sairaanhoitopiirin kuntayhtymän tartuntataudeista vastaavalla lääkärillä on tällöin oikeus ilmaisematta tartunnanlähdettä ilmoittaa salassapitosäännösten estämättä todennäköisestä tartuntavaarasta asianomaiselle henkilölle.",
+      "section_number": "21",
+      "chapter_number": 3,
+      "statute_id": ""
+    },
+    {
+      "id": "0171282c-3b08-472b-ba15-3bbc6b577309",
+      "node_type": "Section",
+      "publisher": "finlex",
+      "title": "22 § Tartunnan saaneen velvollisuus",
+      "text": "Yleisvaaralliseen tai valvottavaan tartuntatautiin sairastuneen ja sairastuneeksi perustellusti epäillyn henkilön on ilmoitettava asiaa selvittävälle lääkärille tartuntataudin leviämisen estämiseksi käsityksensä tartuntatavasta, -ajankohdasta ja -paikasta sekä niiden henkilöiden nimet, jotka ovat voineet olla tartunnan lähteenä tai saada tartunnan.",
+      "section_number": "22",
+      "chapter_number": 3,
+      "statute_id": ""
+    },
+    {
+      "id": "38784ffa-6f3e-4a02-9269-d35046a3b777",
+      "node_type": "Section",
+      "publisher": "finlex",
+      "title": "23 § Epidemian selvittäminen ja tartunnan jäljittäminen",
+      "text": "Kunnan tartuntataudeista vastaava lääkäri selvittää paikallisia epidemioita ja tekee tartunnan jäljitystä. Sairaanhoitopiirin kuntayhtymän tartuntataudeista vastaava lääkäri ohjaa sairaanhoitopiirin kuntayhtymän alueella epidemioiden selvitystä ja tartunnan jäljittämistä sekä toteuttaa laajalle levinneen epidemian selvittämistä yhteistyössä kuntien kanssa. Jos epidemia on levinnyt usean sairaanhoitopiirin kuntayhtymän alueelle, tauti on erityisen vakava tai epidemiaselvitys on muutoin valtakunnallisesti tärkeä, Terveyden ja hyvinvoinnin laitos ohjaa ja tukee tartunnan jäljitystä ja epidemioiden selvittämistä kunnissa ja sairaanhoitopiirien kuntayhtymien alueella sekä toteuttaa epidemiaselvityksiä. Terveyden ja hyvinvoinnin laitos selvittää epidemioita ja vastaa kansainvälistä yhteistyötä edellyttävästä epidemian selvityksestä ja tartunnan jäljityksestä.",
+      "section_number": "23",
+      "chapter_number": 3,
+      "statute_id": ""
+    },
+    {
+      "id": "720ac690-f6bb-48cd-8849-2523ee0f831c",
+      "node_type": "Section",
+      "publisher": "finlex",
+      "title": "24 § Tiedonsaantioikeus epidemian havaitsemiseksi, selvittämiseksi ja tartunnan jäljittämiseksi",
+      "text": "Sosiaali- ja terveysministeriöllä on salassapitosäännösten estämättä ja korvauksetta oikeus saada tässä laissa säädettyjen tehtävien hoitamisessa tarvittavat tiedot muilta viranomaisilta sekä yksityisiltä sosiaalihuollon ja terveydenhuollon toimintayksiköiltä. Terveyden ja hyvinvoinnin laitoksella ja sairaanhoitopiirin kuntayhtymän tartuntataudeista vastaavalla lääkärillä on salassapitosäännösten estämättä ja korvauksetta oikeus saada kunnan ja valtion terveydenhuolto-, terveydensuojelu-, eläinlääkintä- ja elintarvikevalvontaviranomaisilta sekä 18 §:ssä tarkoitetuilta laboratorioilta ja yksityisiltä sosiaalihuollon ja terveydenhuollon toimintayksiköiltä sekä itsenäisiltä terveydenhuollon ammatinharjoittajilta 23 §:ssä tarkoitettuun epidemian havaitsemiseen, syyn selvittämiseen ja tartunnan jäljittämiseen tarvittavat tiedot sekä mainitussa tarkoituksessa käsitellä tartuntatautiin sairastuneiden ja muiden henkilöiden niille antamia tietoja. Tiedot on annettava viivytyksettä ja korvauksetta. Terveyden ja hyvinvoinnin laitoksella ja sairaanhoitopiirin kuntayhtymän tartuntataudeista vastaavalla lääkärillä on oikeus saada matkanjärjestäjältä, majoituksen tarjoajalta ja ilma-aluksen tai muun aluksen omistajalta, haltijalta tai käyttäjältä matkustajana olleen henkilön henkilötunnus, nimi, syntymäaika, sukupuoli ja yhteystiedot salassapitosäännösten estämättä, jos se on epidemian leviämisen estämiseksi tai matkustajan oman terveyden suojelemiseksi välttämätöntä. Tiedot on annettava viivytyksettä ja korvauksetta. Terveyden ja hyvinvoinnin laitoksella ja sairaanhoitopiirin kuntayhtymän tartuntataudeista vastaavalla lääkärillä on salassapitosäännösten estämättä oikeus luovuttaa tartuntatautien torjunnasta vastaaville viranomaisille, kunnan terveydensuojelu- ja elintarvikevalvontaviranomaisille sekä Lääkealan turvallisuus- ja kehittämiskeskukselle sellaiset epidemian selvitystä tehdessään saamansa tiedot, jotka ovat välttämättömiä mainituille viranomaisille säädettyjen tehtävien suorittamiseksi.",
+      "section_number": "24",
+      "chapter_number": 3,
+      "statute_id": ""
+    },
+    {
+      "id": "144cc226-3641-44a6-8a51-35772de59998",
+      "node_type": "Section",
+      "publisher": "finlex",
+      "title": "25 § Tiedonsaantioikeus vakavan epidemian torjumiseksi",
+      "text": "Jos kiireelliset toimet ovat välttämättömiä väestön terveyden suojelemiseksi väestön terveyttä vaarantavan vakavan epidemian uhatessa tai sen aikana epidemian torjumiseksi tai sen syiden selvittämiseksi ja leviämisen estämiseksi, Terveyden ja hyvinvoinnin laitoksella on salassapitosäännösten estämättä ja korvauksetta oikeus saada käyttöönsä ja yhdistää potilasasiakirjoissa, Kansaneläkelaitoksen etuusrekisterissä ja terveydenhuollon valtakunnallisista henkilörekistereistä annetun lain (556/1989) mukaisissa rekistereissä olevia tietoja ja poimia satunnaisesti vertailuhenkilöitä tai tehdä väestöotos väestötietojärjestelmästä ja Väestörekisterikeskuksen varmennepalveluista annetun lain (661/2009) mukaisesta väestötietojärjestelmästä. Näitä tietoja ovat taudin aiheuttajia ja niiden ominaisuuksia, diagnooseja, riskitekijöitä, tartunnan kulkuun vaikuttaneita tekijöitä sekä sairastuneen hoitopaikkaa, hoitoa ja hoidon lopputulosta koskevat tiedot.  Tietoja voidaan yhdistää,\njos se on välttämätöntä vakavan epidemian alkuperän selvittämiseksi tai sen vaikutusten määrittämiseksi. Terveyden ja hyvinvoinnin laitoksella on väestön terveyttä uhkaavan vakavan epidemian uhatessa tai sen aikana oikeus saada tietoja toiminnanharjoittajalta salassapitosäännösten estämättä ja korvauksetta sairastuneiden ja väestätietojärjestelmästä ja Väestörekisterikeskuksen varmennepalveluista annetun lain mukaisesta väestötietojärjestelmästä satunnaisesti poimittujen vertailuhenkilöiden ostamista tuotteista, jotka ovat voineet toimia tartunnan välittäjinä. Tiedot on annettava viivytyksettä. Terveyden ja hyvinvoinnin laitoksella on oikeus saada 1 ja 2 momentissa tarkoitetut tiedot myös teknisen käyttöyhteyden avulla.",
+      "section_number": "25",
+      "chapter_number": 3,
+      "statute_id": ""
+    },
+    {
+      "id": "8fd9928c-270f-4d6c-8a8e-c4ab70c52719",
+      "node_type": "Section",
+      "publisher": "finlex",
+      "title": "26 § Altistuneiden henkilöiden tunnistetietojen säilyttäminen",
+      "text": "Edellä 20–25 §:n mukaisesti kerätyt ja luovutetut henkilötiedot on hävitettävä sen jälkeen, kun epidemian selvittäminen tai tartunnan jäljitys on päättynyt eikä tietojen säilyttäminen ole välttämätöntä tartuntataudin torjunnan kannalta. Tartunnan jäljitys tai tehtävien 20 §:ssä tarkoitettu siirto merkitään potilasasiakirjoihin.",
+      "section_number": "26",
+      "chapter_number": 3,
+      "statute_id": ""
+    },
+    {
+      "id": "04839356-5220-43eb-b350-f690c07913ca",
+      "node_type": "Section",
+      "publisher": "finlex",
+      "title": "27 § Asetuksenantovaltuus",
+      "text": "Valtioneuvoston asetuksella voidaan säätää tarkemmin 14 §:ssä tarkoitetuista vapaaehtoisista terveystarkastuksista.",
+      "section_number": "27",
+      "chapter_number": 3,
+      "statute_id": ""
+    },
+    {
+      "id": "efd63975-2fde-4c6c-8a81-e9c843a03095",
+      "node_type": "Section",
+      "publisher": "finlex",
+      "title": "28 § Tartuntatautien ilmoittaminen",
+      "text": "Lääkärin ja hammaslääkärin on salassapitosäännösten estämättä tehtävä ilmoitus epäilemästään tai toteamastaan yleisvaarallisesta ja valvottavasta tartuntatautitapauksesta Terveyden ja hyvinvoinnin laitokselle (tartuntatauti-ilmoitus). Tartuntatautien tutkimuksia tekevän laboratorion on tehtävä tartuntatauti-ilmoitus toteamastaan yleisvaarallisen ja valvottavan tartuntataudin sekä muiden tartuntatautien ilmoitettavista mikrobilöydöksistä ja mikrobien lääkeherkkyyksistä. Jos laboratoriotutkimus tehdään alihankintana toisessa laboratoriossa, tutkimuksen tilaava laboratorio on vastuussa tartuntatauti-ilmoituksen tekemisestä.",
+      "section_number": "28",
+      "chapter_number": 4,
+      "statute_id": ""
+    },
+    {
+      "id": "43d1d86b-0bd7-4ff3-83d5-f181a531957a",
+      "node_type": "Section",
+      "publisher": "finlex",
+      "title": "29 § Tartuntatauti-ilmoituksen sisältö",
+      "text": "Tartuntatauti-ilmoitus sisältää potilaan tunnistetiedot ja tiedon ilmoituksen tekijästä sekä sellaiset potilasta, tartuntatautia, mikrobilöydöstä ja mikrobin ominaisuuksia, tartuntatapaa, -aikaa ja -paikkaa sekä hoitoa koskevat tiedot sekä tartunnan kulkuun vaikuttavat tekijät, jotka ovat välttämättömiä taudin leviämisen estämiseksi ja epidemian selvittämiseksi. Tunnistetietona ilmoitetaan potilaan henkilötunnus sekä yleisvaarallisissa ja valvottavissa tartuntataudeissa lisäksi potilaan nimi. Jos potilaalla, jolla on todettu 28 §:ssä tarkoitettu muun tartuntataudin ilmoitettava mikrobilöydös, ei ole henkilötunnusta, ilmoitetaan hänen nimensä, syntymäaikansa ja sukupuolensa. Laboratorion on liitettävä tartuntatauti-ilmoitukseen mikrobikantoja tai näytteitä, jos se on taudin esiintymisen seuraamiseksi tai leviämisen ehkäisemiseksi tarpeellista.",
+      "section_number": "29",
+      "chapter_number": 4,
+      "statute_id": ""
+    },
+    {
+      "id": "e84fbd5f-c752-4b81-ad5e-2c50627e1307",
+      "node_type": "Section",
+      "publisher": "finlex",
+      "title": "30 § Ilmoittaminen kunnan viranomaisille",
+      "text": "Jos tartuntataudin leviämisen ehkäiseminen edellyttää kiireellisesti tässä laissa kunnan toteutettavaksi säädettyjä toimenpiteitä, ilmoitusvelvollisen on salassapitosäännösten estämättä saatettava asia kunnan tartuntataudeista vastaavan lääkärin tietoon. Ilmoitusvelvollisen on salassapitosäännösten estämättä ilmoitettava myös epäilemästään tai toteamastaan juomaveden välityksellä leviävästä epidemiasta ja muusta elinympäristön mikrobien aiheuttamasta tai eläinten levittämästä tartunnasta kunnan terveydensuojeluviranomaiselle sekä elintarvikkeiden välityksellä leviävästä epidemiasta kunnan elintarvikevalvontaviranomaiselle. Edellä 1 momentissa tarkoitettu ilmoitus saa sisältää tartuntataudin leviämisen ehkäisemiseksi välttämättömät 29 §:ssä tarkoitetut henkilön tunnistetiedot sekä tartuntatautia ja sen tartuntatapaa koskevat tiedot.",
+      "section_number": "30",
+      "chapter_number": 4,
+      "statute_id": ""
+    },
+    {
+      "id": "4b4af683-ce26-4797-a835-6ab6bbeec030",
+      "node_type": "Section",
+      "publisher": "finlex",
+      "title": "31 § Zoonoosien ja eläintautitapausten ilmoittaminen",
+      "text": "Kunnan tartuntataudeista vastaavan lääkärin on salassapitosäännösten estämättä ilmoitettava kunnan eläinlääkintäviranomaiselle epäilemästään, toteamastaan tai tietoonsa tulleesta zoonoosista. Ilmoitus voi sisältää ihmisille tai eläimille aiheutuvan vaaran torjumiseksi välttämättömät 29 §:ssä tarkoitetut henkilön tunnistetiedot sekä tartuntatautia ja sen tartuntatapaa koskevat tiedot. Elintarviketurvallisuusviraston on ilmoitettava epäillystä tai todetusta ihmisen terveyttä vaarantavasta eläintautitapauksesta Terveyden ja hyvinvoinnin laitokselle. Terveyden ja hyvinvoinnin laitoksen on ilmoitettava Elintarviketurvallisuusvirastolle epäillystä tai todetusta ihmisen terveyttä vaarantavasta vakavasta zoonoosista.",
+      "section_number": "31",
+      "chapter_number": 4,
+      "statute_id": ""
+    },
+    {
+      "id": "8bad51c6-ad48-4eff-99d4-08aec01c8ea8",
+      "node_type": "Section",
+      "publisher": "finlex",
+      "title": "32 § Tartuntatautirekisteri",
+      "text": "Terveyden ja hyvinvoinnin laitos ylläpitää 28 §:ssä tarkoitettujen ilmoitusten perusteella valtakunnallista tartuntatautirekisteriä tautien seurantaa ja torjuntaa sekä viranomaistoimintaa, tilastointia ja tutkimusta varten. Rekisteriin talletetaan tunnistetietoina 29 §:ssä tarkoitetut tiedot. Laitos voi täydentää tietoja väestörekisterijärjestelmästä tiedoilla potilaan asuinkunnasta ja -paikasta, syntymämaasta, maahanmuuttopäivästä, kansalaisuudesta ja mahdollisesta kuolemasta. Sairaanhoitopiirin kuntayhtymän tartuntataudeista vastaavan lääkärin on tehtävä esityksiä tietojen korjaamisesta Terveyden ja hyvinvoinnin laitokselle sairaanhoitopiirin kuntayhtymän alueelle rekisteröidyistä tautitapauksista laboratoriosta ja hoitavasta terveydenhuollon toimintayksiköstä hankkimiensa tietojen perusteella. Tiedon korjaamisesta säädetään henkilötietolain (523/1999) 29 §:ssä. Tietojen käsittelyn perusteen ja tarpeen arvioinnista säädetään henkilötietolain 12 §:n 2 momentissa.",
+      "section_number": "32",
+      "chapter_number": 4,
+      "statute_id": ""
+    },
+    {
+      "id": "4e10b9ce-9bf1-4b9a-9116-033e053dea15",
+      "node_type": "Section",
+      "publisher": "finlex",
+      "title": "33 § Tartuntatautien otosseurantarekisteri",
+      "text": "Terveyden ja hyvinvoinnin laitos ylläpitää otokseen perustuvaa henkilörekisteriä valtioneuvoston asetuksella säädettyjen tartuntatautien seurantaa, torjuntaa, viranomaistoimintaa, tilastointia ja tutkimusta varten. Rekisteriin talletetaan tunnistetietoina 29 §:ssä tarkoitetut tiedot. Laitos saa tartuntatautitapauksien diagnoositiedot sekä torjunnan toteuttamiseksi tartunnan kulkua ja riskitekijöitä koskevat tiedot vapaaehtoisesti otosseurantaan osallistuvista terveydenhuollon ja sosiaalihuollon toimintayksiköistä sekä niiden potilaista ja asiakkaista.",
+      "section_number": "33",
+      "chapter_number": 4,
+      "statute_id": ""
+    },
+    {
+      "id": "e7eef7e4-1e9d-4be5-ae66-59982ccbd4b5",
+      "node_type": "Section",
+      "publisher": "finlex",
+      "title": "34 § Otosseurantarekisterin tietojen yhdistäminen",
+      "text": "Terveyden ja hyvinvoinnin laitos voi täydentää otosseurantarekisterin tietoja väestötietojärjestelmästä ja Väestörekisterikeskuksen varmennepalveluista annetun lain mukaisesta väestötietojärjestelmästä tiedoilla asiakkaan ja potilaan asuinkunnasta ja -paikasta, syntymämaasta, kansalaisuudesta ja mahdollisesta kuolemasta sekä yhdistää näitä tietoja tartuntatautirekisterissä, Kansaneläkelaitoksen etuusrekisterissä ja terveydenhuollon valtakunnallisista henkilörekistereistä annetun lain mukaisissa rekistereissä oleviin tietoihin.",
+      "section_number": "34",
+      "chapter_number": 4,
+      "statute_id": ""
+    },
+    {
+      "id": "a0f2a083-0299-4ba6-9798-41f339fc0036",
+      "node_type": "Section",
+      "publisher": "finlex",
+      "title": "35 § Asiakkaiden ja potilaiden suostumus otosseurannassa",
+      "text": "Terveydenhuollon ja sosiaalihuollon toimintayksiköiden on toimitettava tiedot Terveyden ja hyvinvoinnin laitokselle 33 §:ssä tarkoitettuun otosseurantaan osallistuvien potilaiden tai asiakkaiden kirjallisella, tietoon perustuvalla suostumuksella. Otosseurantaan osallistuvien terveydenhuollon ja sosiaalihuollon toimintayksiköiden potilaista ja asiakkaista saadaan näiden suostumuksella ottaa näytteitä taudin aiheuttajan toteamiseksi. Jos kyseessä on otosseurantaan kuuluvan vakavan infektion vuoksi tehohoidossa oleva potilas, voidaan suostumus pyytää jälkikäteen, jos mahdollista. Kirjallisen suostumuksen vaatimuksesta voidaan otosseurannassa poiketa, kun henkilötietojen antaminen voisi olla henkilön edun vastaista ja tutkimuksesta aiheutuu hänelle vain vähäinen rasitus eikä siitä ole haittaa hänen terveydelleen. Tällöin suostumus näytteen ottoon voidaan saada suullisesti ilman todistajan läsnäoloa, ja otosseurannassa tarvittavan näytteen yhdistäminen asiakkaalta saatuihin riskitietoihin Terveyden ja hyvinvoinnin laitoksessa voidaan toteuttaa käyttäen näytekohtaista koodia, josta ei voida johtaa asiakkaan henkilöllisyyttä.",
+      "section_number": "35",
+      "chapter_number": 4,
+      "statute_id": ""
+    },
+    {
+      "id": "f48260a4-bf13-4489-ad13-3aea8f3feeeb",
+      "node_type": "Section",
+      "publisher": "finlex",
+      "title": "36 § Hoitoon liittyvien infektioiden rekisterit",
+      "text": "Terveyden ja hyvinvoinnin laitos ylläpitää valtakunnallista hoitoon liittyvien infektioiden rekisteriä niiden seurantaa ja torjuntaa sekä tilastointia ja tutkimusta varten. Rekisteriin talletetaan tunnistetietoina 29 §:ssä tarkoitetut tiedot. Laitoksella on oikeus saada salassapitosäännösten estämättä ja korvauksetta terveydenhuollon ja sosiaalihuollon toimintayksiköistä potilasta ja asiakasta koskevat tiedot hoitoon liittyvien infektioiden diagnooseista ja aiheuttajista sekä tartunnan kulkuun vaikuttaneista tekijöistä. Laitos voi täydentää tietoja väestötietojärjestelmästä tiedoilla potilaan ja asiakkaan asuinkunnasta ja -paikasta sekä mahdollisesta kuolemasta. Rekisteriin saa kerätä ja tallettaa seuraavat välttämättömät tiedot: taudin aiheuttajia ja niiden ominaisuuksia, diagnooseja, riskitekijöitä, tartunnan kulkuun vaikuttaneita tekijöitä sekä hoitopaikkaa, hoitoa ja hoidon lopputulosta koskevia tietoja sosiaali- ja terveydenhuollon hoitoilmoitusjärjestelmästä, tartuntatautirekisteristä tai terveydenhuollon valtakunnallisista henkilörekistereistä annetun lain mukaisista rekistereistä. Sairaanhoitopiirin kuntayhtymä ylläpitää alueellista hoitoon liittyvien infektioiden rekisteriä niiden seurantaa ja torjuntaa varten. Rekisteriin talletetaan tunnistetietoina 29 §:ssä tarkoitetut tiedot. Sairaanhoitopiirin kuntayhtymällä on oikeus saada salassapitosäännösten estämättä ja korvauksetta alueensa terveydenhuollon ja sosiaalihuollon toimintayksiköistä asiakasta tai potilasta koskevat tiedot hoitoon liittyvien infektioiden diagnooseista ja aiheuttajista sekä tartunnan kulkuun vaikuttaneista riskitekijöistä ja toimenpiteistä. Sairaanhoitopiirin kuntayhtymä voi täydentää tietoja väestötietojärjestelmästä tiedoilla potilaan asuinkunnasta ja -paikasta sekä mahdollisesta kuolemasta. Terveydenhuollon toimintayksikön ja sosiaalihuollon toimintayksikön on annettava salassapitosäännösten estämättä tiedot Terveyden ja hyvinvoinnin laitokselle ja sairaanhoitopiirin kuntayhtymän tartuntataudeista vastaavalle lääkärille harvinaisesta ja vakavasta hoitoon liittyvien infektioiden ja mikrobilääkkeille erityisen vastustuskykyisten mikrobien epidemiasta ja epidemiaepäilystä. Lääkealan turvallisuus- ja kehittämiskeskuksen on ilmoitettava Terveyden ja hyvinvoinnin laitokselle saamastaan tiedosta, jonka mukaan lääkeaineen epäillään aiheuttavan tartuntoja. Sosiaali- ja terveysalan lupa- ja valvontaviraston sekä aluehallintoviraston on ilmoitettava Terveyden ja hyvinvoinnin laitokselle saamastaan tiedosta, jonka mukaan terveydenhuollon laitteen tai tarvikkeen epäillään aiheuttavan tartuntoja.",
+      "section_number": "36",
+      "chapter_number": 4,
+      "statute_id": ""
+    },
+    {
+      "id": "cad05275-b753-4e8d-b160-81b28f301b67",
+      "node_type": "Section",
+      "publisher": "finlex",
+      "title": "37 § Lääkkeille erittäin vastustuskykyisten mikrobien kantajien rekisteri",
+      "text": "Sairaanhoitopiirin kuntayhtymä ylläpitää alueellista rekisteriä lääkkeille erittäin vastustuskykyisten mikrobien kantajista näiden mikrobien esiintymisen seuraamiseksi ja niiden leviämisen ehkäisemiseksi sekä rekisteriin merkittyjen henkilöiden oman hoidon tarkoituksenmukaiseksi järjestämiseksi. Laboratorioiden on ilmoitettava 29 §:n mukaiset tiedot hoidettavista potilaista rekisterin ylläpitäjälle. Rekisteriin voidaan tallettaa 29 §:n mukaiset tunnistetiedot.",
+      "section_number": "37",
+      "chapter_number": 4,
+      "statute_id": ""
+    },
+    {
+      "id": "cfb6c7ec-24f4-40e5-9da5-daf04b35f9b9",
+      "node_type": "Section",
+      "publisher": "finlex",
+      "title": "38 § Tunnistetietojen säilyttäminen",
+      "text": "Tartuntatautirekisterissä, lääkkeille erittäin vastustuskykyisten mikrobien kantajien rekisterissä, hoitoon liittyvien infektioiden rekisterissä ja tartuntatautien otosseurantarekisterissä saa säilyttää tunnistetietoja niin kauan kuin se on rekisterin käyttötarkoituksen kannalta välttämätöntä. Tartuntatautirekisterissä tieto henkilön nimestä viranomaiskäyttöä varten hävitetään samaa tartuntatautitapausta koskevien erillisten ilmoitusten yhdistämisen päättymistä seuraavan vuoden loppuun mennessä, ja saman ajan kuluessa henkilötunnukset tulee muuttaa sellaiseen muotoon, ettei yksittäisiä henkilöitä voida niiden perusteella tunnistaa. Yhdistämisaikaväli tartuntatautirekisterissä on pääsääntöisesti 12 kuukautta. Yhdistämisaikaväli on kuitenkin:",
+      "section_number": "38",
+      "chapter_number": 4,
+      "statute_id": ""
+    },
+    {
+      "id": "7cc8d3b1-aaa5-4d94-99e7-297616f4c1d6",
+      "node_type": "Section",
+      "publisher": "finlex",
+      "title": "39 § Tapauskohtaiset rekisterit",
+      "text": "Terveyden ja hyvinvoinnin laitos, sairaanhoitopiirin kuntayhtymä tai kunta voi perustaa tautitapaukseen tai rajoitettuun väestön terveyttä uhkaavaan epidemiaan liittyvän henkilörekisterin yleisvaarallisen tai valvottavan tartuntataudin  taikka  muun  tartuntataudin jäljitystä varten tai mikrobikantajuuden ja perustellusti altistuneiksi epäiltyjen seurantaa varten, jos se on välttämätöntä sairastuneiden hoidon järjestämiseksi kiireellisesti ja taudin leviämisen ehkäisemiseksi. Rekisteriin voidaan tallettaa tietoja sairastuneista sekä tartunnalle perustellusti altistuneiksi epäillyistä henkilöistä siten kuin 29 §:ssä säädetään. Tapauskohtainen rekisteri on hävitettävä heti, kun se ei enää ole välttämätön tartuntataudin torjunnan kannalta.",
+      "section_number": "39",
+      "chapter_number": 4,
+      "statute_id": ""
+    },
+    {
+      "id": "9cb79e5d-e09c-41a5-a8d0-52da6e977232",
+      "node_type": "Section",
+      "publisher": "finlex",
+      "title": "40 § Tietojen luovuttaminen rekistereistä",
+      "text": "Edellä 32, 33, 36, 37 ja 39 §:ssä tarkoitettuihin rekistereihin talletetut henkilötiedot on pidettävä salassa. Terveyden ja hyvinvoinnin laitos voi kuitenkin salassapitosäännösten estämättä luovuttaa valtakunnallisesta tartuntatautirekisteristä ja tapauskohtaisesta rekisteristä aluehallintoviraston tartuntatautien valvonnasta vastaavalle lääkärille sekä sairaanhoitopiirin kuntayhtymän ja kunnan tartuntataudeista vastaavalle lääkärille asianomaisen aluehallintoviraston, sairaanhoitopiirin kuntayhtymän tai kunnan aluetta koskevia tietoja siinä laajuudessa kuin se on tartuntatautien torjuntatyöhön kuuluvien tehtävien vuoksi välttämätöntä. Sairaanhoitopiirin kuntayhtymän tartuntataudeista vastaava lääkäri voi salassapitosäännösten estämättä luovuttaa 1 momentin nojalla valtakunnallisesta tartuntatautirekisteristä saamiaan tietoja kunnan tartuntataudeista vastaavalle lääkärille siinä laajuudessa kuin se on kunnan tartuntatautien torjuntatyöhön kuuluvien tehtävien vuoksi välttämätöntä, veripalvelulain (197/2005) 2 §:ssä tarkoitetulle veripalvelulaitokselle tai verikeskukselle siinä laajuudessa kuin se on välttämätöntä veren välityksellä leviävän tartunnan ehkäisemiseksi sekä kudos- ja elinsiirtoja toteuttavalle terveydenhuollon toimintayksikölle siinä laajuudessa kuin se on välttämätöntä siirrännäisen välityksellä leviävän tartunnan ehkäisemiseksi. Sairaanhoitopiirin kuntayhtymän tartuntataudeista vastaava lääkäri voi salassapitosäännösten estämättä luovuttaa lääkkeille erittäin vastustuskykyisten mikrobien kantajien rekisteristä saamiaan henkilöä koskevia tietoja myös toiselle terveydenhuollon toimintayksikölle sekä henkilöä hoitavalle terveydenhuollon ja sosiaalihuollon toimintayksikölle siinä laajuudessa kuin se on tartunnan leviämisen ehkäisemiseksi ja henkilön tarkoituksenmukaiseksi hoitamiseksi välttämätöntä.",
+      "section_number": "40",
+      "chapter_number": 4,
+      "statute_id": ""
+    },
+    {
+      "id": "94823c93-ac26-4800-8cb6-353b120074a5",
+      "node_type": "Section",
+      "publisher": "finlex",
+      "title": "41 § Teknisen yhteyden käyttö rekisteritietojen luovutuksessa",
+      "text": "Edellä 40 §:ssä tarkoitettuja tietoja voidaan luovuttaa myös teknisen käyttöyhteyden avulla. Ennen teknisen käyttöyhteyden avaamista tietoja pyytävän on esitettävä selvitys siitä, että tietojen suojauksesta huolehditaan asianmukaisesti.",
+      "section_number": "41",
+      "chapter_number": 4,
+      "statute_id": ""
+    },
+    {
+      "id": "6ced2589-d11f-4440-9013-ec833c60a5d3",
+      "node_type": "Section",
+      "publisher": "finlex",
+      "title": "42 § Tietojen luovutus tutkimukseen",
+      "text": "Terveyden ja hyvinvoinnin laitos voi salassapitosäännösten estämättä päättää henkilötietojen luovuttamisesta ylläpitämistään tämän lain mukaisista rekistereistä,  jos  luovutus  tapahtuu terveydenhuollon toimintaa, tautien ennalta ehkäisyä tai hoitoa koskevaa tai näihin liittyvää tieteellistä tutkimusta varten ja luovutus täyttää viranomaisten toiminnan julkisuudesta annetun lain (621/1999) 28 §:ssä säädetyt edellytykset.",
+      "section_number": "42",
+      "chapter_number": 4,
+      "statute_id": ""
+    },
+    {
+      "id": "1927c6a4-a256-4c90-94e1-7f84c25d18f0",
+      "node_type": "Section",
+      "publisher": "finlex",
+      "title": "43 § Asetuksenantovaltuus",
+      "text": "Valtioneuvoston asetuksella säädetään tarkemmin 29 §:ssä tarkoitetusta tartuntatauti-ilmoituksen sisällöstä sekä mikrobikantojen ja näytteiden liittämisestä ilmoitukseen, 33 §:n mukaisista otosseurannalla seurattavista taudeista ja oireyhtymistä, 36 §:ssä tarkoitetuista hoitoon liittyvistä infektioista sekä 38 §:ssä tarkoitetusta yhdistämisaikavälistä. Valtioneuvoston asetuksella säädetään 28 §:ssä tarkoitetut muiden tartuntatautien ilmoitettavat mikrobilöydökset ja mikrobien lääkeherkkyydet, 30 ja 31 §:ssä tarkoitetut kunnan eläinlääkintäviranomaiselle ilmoitettavat taudit ja 37 §:ssä tarkoitetut lääkkeille erittäin vastustuskykyiset mikrobit.",
+      "section_number": "43",
+      "chapter_number": 4,
+      "statute_id": ""
+    },
+    {
+      "id": "dc5fc24d-9e00-44f1-ae29-abae243ec8dc",
+      "node_type": "Section",
+      "publisher": "finlex",
+      "title": "44 § Kansallinen rokotusohjelma",
+      "text": "Kansallinen rokotusohjelma sisältää väestön suojaamiseksi tartuntataudeilta annettavat rokotukset. Rokotusohjelman sisällöstä päättää sosiaali- ja terveysministeriö rokotteisiin ja rokottamiseen perehtyneitä asiantuntijoita kuultuaan. Kunnan on järjestettävä kansallisen rokotusohjelman mukaiset rokotukset. Rokotukseen osallistuminen on vapaaehtoista. Terveyden ja hyvinvoinnin laitos ohjaa kansallisen rokotusohjelman ja muiden yleisten rokotusten toimeenpanoa, seuraa niiden toteutumista ja vaikutuksia sekä tekee tutkimustyötä ja ehdotuksia kansallisen rokotusohjelman kehittämiseksi.",
+      "section_number": "44",
+      "chapter_number": 5,
+      "statute_id": ""
+    },
+    {
+      "id": "ac1bd9be-9eb8-40e3-ad6b-88ba528c22c8",
+      "node_type": "Section",
+      "publisher": "finlex",
+      "title": "45 § Muut vapaaehtoiset rokotukset",
+      "text": "Valtioneuvosto päättää yleisten vapaaehtoisten rokotusten toimeenpanemisesta. Kunnan on järjestettävä valtioneuvoston päättämät yleiset vapaaehtoiset rokotukset ja sellaiset lääkärin määräyksen perusteella tartuntatautien ehkäisyyn käytettävät rokotukset, jotka eivät kuulu 44 §:ssä tarkoitettuun kansalliseen rokotusohjelmaan. Työhön liittyvien vaarojen vuoksi annettavat kansallisen rokotusohjelmaan kuulumattomat rokotukset kuuluvat työnantajan järjestämään työterveyshuoltolain (1383/2001) mukaiseen työterveyshuoltoon. Työntekijällä on oikeus käydä 1 ja 2 momentissa tarkoitetussa rokotuksessa työaikana, jollei se ole vaikeudetta mahdollista muuna aikana. Se aika, joka työntekijän päivittäisestä säännöllisestä työajasta käytetään mainittuun tarkoitukseen, luetaan työssäoloajaksi.",
+      "section_number": "45",
+      "chapter_number": 5,
+      "statute_id": ""
+    },
+    {
+      "id": "bb9cc1ec-f5ae-43d6-a2de-1f32b4f18739",
+      "node_type": "Section",
+      "publisher": "finlex",
+      "title": "46 § Rokotukset puolustusvoimissa ja Rajavartiolaitoksessa",
+      "text": "Puolustusvoimissa ja Rajavartiolaitoksessa on järjestettävä rokotus kullekin asevelvollisuuslain (1438/2007) mukaiseen varusmiespalvelukseen ja naisten vapaaehtoisesta asepalveluksesta annetun lain (194/1995) mukaiseen asepalvelukseen tulevalle tartuntatautien ehkäisemiseksi. Rokotuksen edellytyksenä on, että ehkäistävä tauti on vakava taikka sitä esiintyy tai se leviää ilman rokotusta palvelusaikana tavanomaista enemmän. Rokotukseen osallistuminen on vapaaehtoista.",
+      "section_number": "46",
+      "chapter_number": 5,
+      "statute_id": ""
+    },
+    {
+      "id": "2f5d05d2-eeec-45a0-b8eb-12afa53e2d1c",
+      "node_type": "Section",
+      "publisher": "finlex",
+      "title": "47 § Pakollinen rokotus",
+      "text": "Valtioneuvoston asetuksella voidaan säätää järjestettäväksi pakollinen rokotus, jos kattava rokottaminen on välttämätöntä väestön tai sen osan hengelle ja terveydelle vakavaa vahinkoa aiheuttavan yleisvaarallisen tartuntataudin leviämisen ehkäisemiseksi. Pakollinen rokotus voidaan rajoittaa myös tiettyyn väestön osaan, ryhmään tai ikäluokkaan. Kunnan on järjestettävä 1 momentissa tarkoitettu pakollinen rokotus.",
+      "section_number": "47",
+      "chapter_number": 5,
+      "statute_id": ""
+    },
+    {
+      "id": "f3ef8aaa-2c95-425a-be5e-307c35dd41e5",
+      "node_type": "Section",
+      "publisher": "finlex",
+      "title": "48 § Työntekijän ja opiskelijan rokotussuoja potilaiden suojaamiseksi",
+      "text": "Työskentelyyn sosiaalihuollon ja terveydenhuollon toimintayksiköiden asiakas- ja potilastiloissa, joissa hoidetaan lääketieteellisesti arvioituna tartuntatautien vakaville seuraamuksille alttiita asiakkaita tai potilaita, saa käyttää vain erityisestä syystä henkilöä, jolla on puutteellinen rokotussuoja. Työntekijällä ja työharjoitteluun osallistuvalla opiskelijalla on oltava joko rokotuksen tai sairastetun taudin antama suoja tuhkarokkoa ja vesirokkoa vastaan. Lisäksi edellytetään rokotuksen antama suoja influenssaa vastaan ja imeväisikäisiä hoitavilla hinkuyskää vastaan. Opiskeluterveydenhuollon on huolehdittava, että työharjoitteluun osallistuvilla opiskelijoilla on 2 momentissa tarkoitettu rokotussuoja. Työnantajalla on oikeus käsitellä työntekijän tai työharjoittelussa olevan opiskelijan 1 momentissa tarkoitettuihin tehtäviin soveltuvuutta koskevia tietoja riittävän rokotussuojan osalta työntekijän tai opiskelijan suostumuksella yksityisyyden suojasta työelämässä annetun lain (759/2004), työterveyshuoltolain ja henkilötietolain mukaisesti.",
+      "section_number": "48",
+      "chapter_number": 5,
+      "statute_id": ""
+    },
+    {
+      "id": "faa3e4cb-d01b-46a8-a7a4-681a869988b2",
+      "node_type": "Section",
+      "publisher": "finlex",
+      "title": "49 § Yleinen rokotus työterveyshuollossa sekä terveydenhuollon ja sosiaalihuollon toimintayksiköissä",
+      "text": "Jos 45 §:n 1 momentin mukaisen yleisen vapaaehtoisen rokotuksen toimeenpano on kiireellinen, valtioneuvosto voi antaa työterveyshuoltolaissa tarkoitetulle työterveyshuollolle oikeuden osallistua rokotuksen toimeenpanoon. Kun 45 §:n 1 momentin mukaisen yleisen vapaaehtoisen rokotuksen toimeenpano on kiireellinen, valtioneuvosto voi velvoittaa julkisen terveydenhuollon toimintayksiköt ja sosiaalihuollon toimintayksiköt järjestämään rokotus potilailleen ja asiakkailleen sekä näitä hoitavalle tai huoltavalle henkilökunnalle. Edellä 1 ja 2 momentissa tarkoitetut rokotukset on sovitettava yhteen kunnan toteuttaman rokotustoiminnan kanssa.",
+      "section_number": "49",
+      "chapter_number": 5,
+      "statute_id": ""
+    },
+    {
+      "id": "688f8b57-c1f5-4937-bd7c-df0e4bf539eb",
+      "node_type": "Section",
+      "publisher": "finlex",
+      "title": "50 § Rokotehankinnat",
+      "text": "Sosiaali- ja terveysministeriö päättää 44–47 §:ssä tarkoitettuja rokotuksia varten tarvittavien rokotteiden taloudellisesti tai muuten merkittävistä hankinnoista. Terveyden ja hyvinvoinnin laitos huolehtii sosiaali- ja terveysministeriön rokotehankintapäätöksen toimeenpanosta. Terveyden ja hyvinvoinnin laitos päättää muista rokotehankinnoista ilmoitettuaan etukäteen hankinnasta sosiaali- ja terveysministeriölle. Terveyden ja hyvinvoinnin laitos huolehtii tarpeen mukaan muiden vaarallisten tai harvinaisten tartuntatautien torjuntaan tarvittavien rokotteiden, tutkimusaineiden ja vasta-aineiden saatavuudesta. Terveyden ja hyvinvoinnin laitos huolehtii rokotteiden jakelusta.",
+      "section_number": "50",
+      "chapter_number": 5,
+      "statute_id": ""
+    },
+    {
+      "id": "fe4c37f7-5835-4a45-83e2-d7a630f0206c",
+      "node_type": "Section",
+      "publisher": "finlex",
+      "title": "51 § Rokotusten vaikutusten seuraaminen ja haittavaikutusten tai niiden epäilyjen selvittäminen",
+      "text": "Terveyden ja hyvinvoinnin laitoksen on seurattava rokotuksissa käytettävien rokotteiden tehoa, vaikuttavuutta ja turvallisuutta sekä ryhdyttävä toimenpiteisiin todetun tai epäillyn rokotteen tai rokotuksen haittavaikutuksen selvittämiseksi. Terveyden ja hyvinvoinnin laitoksella on oikeus saada salassapitosäännösten estämättä ja korvauksetta käyttöönsä potilasasiakirjoissa olevat 1 momentissa tarkoitettujen tehtävien suorittamiseksi välttämättömät tiedot ja yhdistää näitä tietoja tartuntatautirekisterissä, Kansaneläkelaitoksen etuusrekisterissä ja terveydenhuollon valtakunnallisista henkilörekistereistä annetun lain mukaisissa rekistereissä oleviin tietoihin. Edellä 2 momentissa tarkoitetut hoitopaikan potilasasiakirjoissa olevat välttämättömät tiedot ovat tunnistetietojen lisäksi edellä mainittujen sairauksien toteamiseksi tehtyjen tutkimusten tulokset, näiden sairauksien oirekuvaa, riskitietoja sekä hoitoa ja annettuja rokotuksia koskevat tiedot. Rekistereissä olevat välttämättömät tiedot rokotusten vaikutusten seuraamiseksi ovat henkilön tunnistetiedot, riskitekijätiedot, rokotustiedot, haittavaikutusepäilyn tai rokotuksin estettävän taudin diagnoositiedot, sen hoitamiseksi määrätyt lääkitystiedot sekä hoitopaikkaa koskevat tiedot. Edellä tarkoitettuja tietoja voidaan luovuttaa myös teknisen käyttöyhteyden avulla. Ennen teknisen käyttöyhteyden avaamista tietoja pyytävän on esitettävä selvitys siitä, että tietojen suojauksesta huolehditaan asianmukaisesti.",
+      "section_number": "51",
+      "chapter_number": 5,
+      "statute_id": ""
+    },
+    {
+      "id": "afeea9fa-dfa9-436c-a1fa-1df70543e317",
+      "node_type": "Section",
+      "publisher": "finlex",
+      "title": "52 § Haittavaikutusten ilmoittaminen",
+      "text": "Terveydenhuollon ammattihenkilöllä on salassapitosäännösten estämättä oikeus ilmoittaa toteamastaan tai epäilemästään rokotteen tai rokotuksen haittavaikutuksesta Lääkealan turvallisuus- ja kehittämiskeskukselle.",
+      "section_number": "52",
+      "chapter_number": 5,
+      "statute_id": ""
+    },
+    {
+      "id": "6e16ba5d-cfb9-4922-a51a-0a69059efbdf",
+      "node_type": "Section",
+      "publisher": "finlex",
+      "title": "53 § Rokotteiden ja rokotusten haittavaikutusilmoitusten tallentaminen",
+      "text": "Lääkealan turvallisuus- ja kehittämiskeskus tallentaa saamansa rokotteiden ja rokotusten haittavaikutusilmoitukset ylläpitämäänsä valtakunnalliseen haittavaikutusrekisteriin lääke- ja potilasturvallisuuden varmistamiseksi. Nämä tiedot käsittävät rokotetun tunnistetiedot, tiedot ilmoituksen tekijästä ja tiedot annetuista rokotteista mukaan lukien rokotteiden erätiedot ja todettua tai epäiltyä haittavaikutusta koskevat tiedot. Rekisteristä säädetään lääkelaissa (395/1987) ja terveydenhuollon valtakunnallisista henkilörekistereistä annetussa laissa. Lääkealan turvallisuus- ja kehittämiskeskuksen on luovutettava haittavaikutusrekisterin tiedot rokotteen tai rokotuksen todetuista tai epäillyistä haittavaikutuksista Terveyden ja hyvinvoinnin laitokselle. Terveyden ja hyvinvoinnin laitoksen on luovutettava kansallisesti tai kansainvälisesti saamansa   tiedot  rokotteen tai rokotuksen  todetuista  tai  epäillyistä  haittavaikutuksista Lääkealan turvallisuus- ja kehittämiskeskukselle. Terveyden ja hyvinvoinnin laitoksella on oikeus käyttää Lääkealan turvallisuus- ja kehittämiskeskukselta saamiaan tietoja rokotteiden ja rokotusten turvallisuusseurantaa varten. Edellä tässä pykälässä tarkoitettuja tietoja voidaan luovuttaa myös teknisen käyttöyhteyden avulla. Ennen teknisen käyttöyhteyden avaamista tietoja pyytävän on esitettävä selvitys siitä, että tietojen suojauksesta huolehditaan asianmukaisesti.",
+      "section_number": "53",
+      "chapter_number": 5,
+      "statute_id": ""
+    },
+    {
+      "id": "7f22dee5-2fa7-4779-b52f-74d55364376b",
+      "node_type": "Section",
+      "publisher": "finlex",
+      "title": "54 § Asetuksenantovaltuus",
+      "text": "Valtioneuvoston asetuksella voidaan säätää 45 §:n 1 momentissa tarkoitetun muun kuin kansalliseen rokotusohjelmaan kuuluvan yleisen vapaaehtoisen rokotuksen toimeenpanosta ja toimeenpanoon osallistuvista tahoista sekä mitä väestön osaa, ryhmää tai ikäluokkaa rokottaminen koskee, minkä ajan kuluessa rokottaminen toteutetaan sekä muita välttämättömistä rokottamiseen liittyvistä asioista. Jos rokotus 47 §:n mukaisesti säädetään pakolliseksi, valtioneuvoston asetuksella säädetään, mitä väestön osaa, ryhmää tai ikäluokkaa rokottaminen koskee, minkä ajan kuluessa rokottaminen toteutetaan sekä muista välttämättömistä rokottamiseen liittyvistä asioista. Sosiaali- ja terveysministeriön asetuksella säädetään 44 §:ssä tarkoitetusta kansallisesta rokotusohjelmasta ja rokottamisesta sekä vaarallisten tai harvinaisten tartuntatautien torjuntaan tarvittavista rokotteista, tutkimusaineista ja vasta-aineista. Sosiaali- ja terveysministeriön asetuksella säädetään tarkemmin 46 §:ssä tarkoitetuista puolustusvoimissa ja Rajavartiolaitoksessa annettavista rokotuksista. Sosiaali- ja terveysministeriön on ennen asetuksen antamista kuultava Terveyden ja hyvinvoinnin laitosta.",
+      "section_number": "54",
+      "chapter_number": 5,
+      "statute_id": ""
+    },
+    {
+      "id": "0612d6eb-5acb-46c6-a45a-f5f03d5b77ca",
+      "node_type": "Section",
+      "publisher": "finlex",
+      "title": "55 § Terveydentilan selvitys hengityselinten tuberkuloosista työtehtävää varten",
+      "text": "Työnantajan on vaadittava  työntekijältä  luotettava selvitys siitä, ettei tämä sairasta hengityselinten tuberkuloosia, jos on perusteltu syy epäillä työntekijän sairastavan hengityselinten tuberkuloosia ja työntekijä on sellaisissa tehtävissä, joissa hengityselinten tuberkuloosin leviämisen seuraukset ovat tavanomaista vakavammat. Selvitys on vaadittava myös harjoittelijoilta ja muilta vastaavilta henkilöiltä, jotka toimivat työpaikalla ilman palvelussuhdetta. Työnantajan on vaadittava tällaiselta henkilöltä selvitys ennen palvelussuhteen alkamista tai silloin, kun työssä olon aikana on perusteltu syy epäillä, että tämä sairastaa hengityselinten tuberkuloosia. Perusteltu syy on pitkäaikainen tai toistuva oleskelu maassa, jossa tuberkuloosi on yleinen tai muu erityinen altistuminen tuberkuloosille. Ennen kuin työntekijä on esittänyt 1 momentissa tarkoitetun hengityselinten tuberkuloosia koskevan selvityksen, hän ei saa toimia: Työnantajalla on oikeus käsitellä 1 momentissa tarkoitetun henkilön terveydentilaa koskevia tietoja tämän suostumuksella yksityisyyden suojasta työelämässä annetun lain, työterveyshuoltolain ja henkilötietolain mukaisesti.",
+      "section_number": "55",
+      "chapter_number": 6,
+      "statute_id": ""
+    },
+    {
+      "id": "e7d42ac8-95a2-49ae-96b6-baff49ab9abf",
+      "node_type": "Section",
+      "publisher": "finlex",
+      "title": "56 § Terveydentilan selvitys salmonellatartunnasta työtehtävää varten",
+      "text": "Työnantajan on vaadittava työntekijältä luotettava selvitys siitä, ettei tällä ole salmonellatartuntaa, jos työntekijä on sellaisissa tehtävissä, joihin liittyy salmonellatartunnan tavallista suurempi leviämisvaara. Selvitys on vaadittava myös harjoittelijoilta ja muilta vastaavilta henkilöiltä, jotka toimivat työpaikalla ilman palvelussuhdetta. Ennen kuin työntekijä on esittänyt 1 momentissa tarkoitetun salmonellatartuntaa koskevan selvityksen, hän ei saa toimia: Työnantajan on vaadittava työntekijältä 1 momentissa tarkoitettu selvitys ennen palvelussuhteen alkamista tai silloin, kun työssä olon aikana on perusteltu syy epäillä, että tämä on salmonellabakteerin kantaja. Työnantajalla on oikeus käsitellä 1 momentissa tarkoitetun henkilön terveydentilaa koskevia tietoja tämän suostumuksella yksityisyyden suojasta työelämässä annetun lain, työterveyshuoltolain ja henkilötietolain mukaisesti.",
+      "section_number": "56",
+      "chapter_number": 6,
+      "statute_id": ""
+    },
+    {
+      "id": "e7cf67a0-a666-44e4-a5f9-9188784a7da1",
+      "node_type": "Section",
+      "publisher": "finlex",
+      "title": "57 § Työstä, päivähoidosta ja oppilaitoksesta poissaolosta päättäminen",
+      "text": "Jos yleisvaarallisen tartuntataudin leviämistä ei voida estää muilla toimenpiteillä, virkasuhteinen kunnan tartuntataudeista vastaava lääkäri voi tehdä päätöksen tautiin sairastuneen tai sairastuneeksi perustellusti epäillyn henkilön työstä, päivähoitopaikasta tai oppilaitoksesta poissaolosta yhtäjaksoisesti yhteensä enintään kahden kuukauden ajaksi. Päätös työstä, päivähoitopaikasta tai oppilaitoksesta poissaolon lopettamisesta on tehtävä heti, kun asianomainen ei ole enää tartuntavaarallinen. Virkasuhteinen kunnan tartuntataudeista vastaava lääkäri voi päättää 1 momentissa säädettyä aikaa jatkettavaksi enintään kuudella kuukaudella kerrallaan, jos edellytykset ovat edelleen olemassa. Jos 55 §:n 2 momentissa ja 56 §:n 2 momentissa tarkoitetussa työssä tai tehtävässä olevan henkilön on todettu tai voidaan perustellusti epäillä aiheuttavan muun kuin yleisvaarallisen tartuntataudin leviämistä, hänen työstä poissaolostaan voidaan tehdä päätös tämän pykälän 1 ja 2 momentin mukaisesti.",
+      "section_number": "57",
+      "chapter_number": 6,
+      "statute_id": ""
+    },
+    {
+      "id": "004f8059-681e-4c44-8d19-52cde6f46432",
+      "node_type": "Section",
+      "publisher": "finlex",
+      "title": "58 § Laajaan tartunnanvaaraan liittyvät toimenpiteet",
+      "text": "Kun laajaa tartunnan vaaraa aiheuttava yleisvaarallinen tai yleisvaaralliseksi perustellusti epäilty tartuntatauti on todettu tai sen esiintyminen on perustellusti odotettavissa, kunnan tartuntatautien torjunnasta vastaava toimielin voi päättää toimialueellaan sosiaali- ja terveydenhuollon toimintayksiköiden, oppilaitosten, päiväkotien, asuntojen ja vastaavien tilojen sulkemisesta sekä yleisten kokousten tai yleisötilaisuuksien kieltämisestä. Edellytyksenä on lisäksi, että toimenpide on välttämätön yleisvaarallisen tai yleisvaaralliseksi perustellusti epäillyn tartuntataudin leviämisen estämiseksi. Aluehallintovirasto voi tehdä alueellaan vastaavat päätökset silloin, kun ne ovat tarpeen usean kunnan alueella. Jos muu kuin 1 momentissa tarkoitettu tartuntatauti aiheuttaa laajaa tartunnan vaaraa, kunnan tartuntatautien torjunnasta vastaava toimielin ja aluehallintovirasto voivat alueellaan päättää oppilaitosten ja päiväkotien sulkemisesta, jos se on välttämätöntä taudin leviämisen ehkäisemiseksi. Edellä 1 ja 2 momentissa tarkoitetut päätökset tehdään enintään yhden kuukauden ajaksi. Toimenpiteet on heti lopetettava, kun tartunnan vaaraa ei enää ole.",
+      "section_number": "58",
+      "chapter_number": 6,
+      "statute_id": ""
+    },
+    {
+      "id": "39dc0e77-24b0-42eb-91d8-a6a385aa3641",
+      "node_type": "Section",
+      "publisher": "finlex",
+      "title": "59 § Tilojen ja tuotteiden puhdistus ja tavaran hävittäminen",
+      "text": "Kun tartunnan vaaraa aiheuttava yleisvaarallinen tai yleisvaaralliseksi perustellusti epäilty tartuntatauti on todettu tai sen esiintyminen on perustellusti odotettavissa, virkasuhteinen kunnan tai sairaanhoitopiirin kuntayhtymän tartuntataudeista vastaava lääkäri voi päättää toimeenpantavaksi puhdistuksia ja desinfioimisia. Jos puhdistus tai desinfiointi esineen arvo huomioon ottaen tulee suhteettoman kalliiksi, voidaan tehdä päätös esineen hävittämisestä.",
+      "section_number": "59",
+      "chapter_number": 6,
+      "statute_id": ""
+    },
+    {
+      "id": "a2fe2195-ee0b-4839-9d2e-393d26d33d15",
+      "node_type": "Section",
+      "publisher": "finlex",
+      "title": "60 § Karanteeni",
+      "text": "Jos yleisvaarallisen tartuntataudin tai yleisvaaralliseksi perustellusti epäillyn tartuntataudin leviämisen vaara on ilmeinen eikä taudin leviämistä voida muulla tavoin estää, virkasuhteinen kunnan tartuntataudeista vastaava lääkäri tai virkasuhteinen sairaanhoitopiirin kuntayhtymän tartuntataudeista vastaava lääkäri voi päättää henkilön karanteenista enintään yhden kuukauden ajaksi. Päätös karanteenista voidaan tehdä henkilölle, jonka on todettu tai perustellusti epäilty altistuneen yleisvaaralliselle tartuntataudille. Virkasuhteinen kunnan tartuntataudeista vastaava lääkäri tai virkasuhteinen sairaanhoitopiirin kuntayhtymän tartuntataudeista vastaava lääkäri voi tehdä päätöksen karanteenista myös 1 momentissa tarkoitetun henkilön tahdosta riippumatta.",
+      "section_number": "60",
+      "chapter_number": 6,
+      "statute_id": ""
+    },
+    {
+      "id": "d2881757-17b2-46ad-ac22-88addba77729",
+      "node_type": "Section",
+      "publisher": "finlex",
+      "title": "61 § Tavaran karanteeni",
+      "text": "Virkasuhteinen kunnan tai sairaanhoitopiirin kuntayhtymän tartuntataudeista vastaava lääkäri voi tehdä päätöksen matkatavaran, kontin tai muun tavaran karanteenista enintään kahdeksi kuukaudeksi, jos yleisvaarallisen tai yleisvaaralliseksi perustellusti epäillyn tartuntataudin leviämisen vaara on ilmeinen eikä sitä voida tavaran puhdistuksella tai desinfioinnilla tai muilla toimenpiteillä estää.",
+      "section_number": "61",
+      "chapter_number": 6,
+      "statute_id": ""
+    },
+    {
+      "id": "2c318274-3bde-430c-96f8-32787ea83750",
+      "node_type": "Section",
+      "publisher": "finlex",
+      "title": "62 § Karanteenin jatkaminen ja lopettaminen",
+      "text": "Virkasuhteinen kunnan tai sairaanhoitopiirin kuntayhtymän tartuntataudeista vastaava lääkäri voi tehdä päätöksen henkilön karanteenin jatkamisesta enintään kuukaudella ja tavaran karanteenin jatkamisesta enintään kolmella kuukaudella, jos 60 tai 61 §:n mukaiset edellytykset ovat edelleen olemassa. Karanteeni on lopetettava heti, kun 60 tai 61 §:n mukaisia edellytyksiä ei enää ole. Karanteenin lopettamisesta päättää virkasuhteinen kunnan tai sairaanhoitopiirin kuntayhtymän tartuntataudeista vastaava lääkäri.",
+      "section_number": "62",
+      "chapter_number": 6,
+      "statute_id": ""
+    },
+    {
+      "id": "023ff339-ca73-4e8c-a949-62e6a13a622c",
+      "node_type": "Section",
+      "publisher": "finlex",
+      "title": "63 § Eristäminen",
+      "text": "Kunnan tai sairaanhoitopiirin kuntayhtymän virkasuhteinen tartuntataudeista vastaava lääkäri voi päättää yleisvaaralliseen tai yleisvaaralliseksi perustellusti epäiltyyn tartuntatautiin sairastuneen tai sairastuneeksi perustellusti epäillyn henkilön eristämisestä terveydenhuollon toimintayksikköön enintään kahden kuukauden ajaksi, jos taudin leviämisen vaara on ilmeinen ja jos taudin leviämistä ei voida estää muilla toimenpiteillä. Päätöksen tehneen lääkärin on annettava eristettävälle henkilölle ja häntä hoitaville työntekijöille tartunnan leviämisen ehkäisemiseksi välttämättömät ohjeet. Virkasuhteinen kunnan tai sairaanhoitopiirin kuntayhtymän tartuntataudeista vastaava lääkäri voi tehdä päätöksen eristämisestä myös 1 momentissa tarkoitetun henkilön tahdosta riippumatta.",
+      "section_number": "63",
+      "chapter_number": 6,
+      "statute_id": ""
+    },
+    {
+      "id": "43cf069a-8d21-4528-9e9d-4240b02034f7",
+      "node_type": "Section",
+      "publisher": "finlex",
+      "title": "64 § Välttämättömän sairaanhoidon toteuttaminen eristämisen aikana",
+      "text": "Eristykseen määrättyä potilasta on hoidettava yhteisymmärryksessä potilaan kanssa siten kuin potilaan asemasta ja oikeuksista annetun lain (785/1992) 6–9 §:ssä säädetään. Yleisvaaralliseen tai yleisvaaralliseksi perustellusti epäiltyyn tartuntatautiin sairastuneelle voidaan eristämispaikassa antaa taudin leviämisen ehkäisemiseksi välttämätön hoito hänen tahdostaan riippumatta. Tahdosta riippumattoman hoidon antamisesta päättää virkasuhteinen kunnan tai sairaanhoitopiirin kuntayhtymän tartuntataudeista vastaava lääkäri.",
+      "section_number": "64",
+      "chapter_number": 6,
+      "statute_id": ""
+    },
+    {
+      "id": "1c1b0775-f081-47ae-84e1-ed8654d927b1",
+      "node_type": "Section",
+      "publisher": "finlex",
+      "title": "65 § Lääkityksen antaminen vastustuksesta huolimatta eristämisen aikana",
+      "text": "Terveydenhuollon ammattihenkilö saa potilasta hoitavan lääkärin ohjeiden mukaan antaa potilaalle määrätyt lääkkeet potilaan vastustuksesta huolimatta, jos se on yleisvaarallisen tai  yleisvaaralliseksi perustellusti epäillyn tartuntataudin leviämisen estämiseksi välttämätöntä. Päätöksen lääkityksen antamisesta vastustuksesta huolimatta tekee virkasuhteinen kunnan tai sairaanhoitopiirin kuntayhtymän tartuntataudeista vastaava lääkäri.",
+      "section_number": "65",
+      "chapter_number": 6,
+      "statute_id": ""
+    },
+    {
+      "id": "867fd35d-f71e-4d61-a8ca-8180aba306fd",
+      "node_type": "Section",
+      "publisher": "finlex",
+      "title": "66 § Eristämisen jatkaminen ja lopettaminen",
+      "text": "Virkasuhteinen kunnan tai sairaanhoitopiirin kuntayhtymän tartuntataudeista vastaava lääkäri voi päättää henkilön eristämisen jatkamisesta enintään kuudella kuukaudella kerrallaan, jos edellytykset ovat edelleen olemassa. Eristäminen on lopetettava heti, kun 63 §:n mukaisia edellytyksiä ei enää ole. Eristämisen lopettamisesta päättää virkasuhteinen kunnan tai sairaanhoitopiirin kuntayhtymän tartuntataudeista vastaava lääkäri.",
+      "section_number": "66",
+      "chapter_number": 6,
+      "statute_id": ""
+    },
+    {
+      "id": "a2ff1057-41dd-4a13-94be-7a68f4f449f7",
+      "node_type": "Section",
+      "publisher": "finlex",
+      "title": "67 § Karanteeni ja eristäminen ulkopuolelta lukittavassa tilassa",
+      "text": "Karanteeni- tai eristyshuoneen ovea voidaan pitää ulkopuolelta lukittuna silloin, kun se on välttämätöntä ilmateitse tai pisara- ja kosketustartuntana tarttuvan yleisvaarallisen tai yleisvaaralliseksi perustellusti epäillyn tartuntataudin edellytykset täyttävän tartuntataudin leviämisen ehkäisemiseksi. Hoidon toteuttamiseen osallistuvan henkilön on valvottava potilasta niin, että hänellä on mahdollisuus saada välittömästi yhteys potilaaseen. Myös potilaalla on oltava mahdollisuus saada välittömästi yhteys henkilökuntaan. Päätöksen oven ulkopuolelta lukitsemisesta tekee virkasuhteinen kunnan tai sairaanhoitopiirin kuntayhtymän tartuntataudeista vastaava lääkäri.",
+      "section_number": "67",
+      "chapter_number": 6,
+      "statute_id": ""
+    },
+    {
+      "id": "0928c305-f0bd-4d9c-b7a6-b4b56089b2bc",
+      "node_type": "Section",
+      "publisher": "finlex",
+      "title": "68 § Olosuhteet karanteenin ja eristämisen aikana",
+      "text": "Karanteeni ja eristäminen on toteutettava siten, että henkilön oikeuksia ei tarpeettomasti rajoiteta. Henkilöllä on oikeus pitää yhteyttä toimintayksikön ulkopuolelle tavalla, joka ei aiheuta tartuntavaaraa muille. Karanteeni toteutetaan henkilön asunnossa tai muussa päätöksen antajan hyväksymässä tai osoittamassa paikassa. Kunnan on tarvittaessa järjestettävä karanteeniin määrätylle asianmukainen karanteenipaikka ja huolehdittava myös karanteeniin määrätyn ruokahuollosta. Sairaanhoitopiirin kuntayhtymän on huolehdittava, että sen käytettävissä on riittävä määrä eristämiseen sopivia tiloja ja tarvittavia suojavälineitä.",
+      "section_number": "68",
+      "chapter_number": 6,
+      "statute_id": ""
+    },
+    {
+      "id": "6661657f-104a-4a6f-9610-756ffd7c5212",
+      "node_type": "Section",
+      "publisher": "finlex",
+      "title": "69 § Tapaamisen rajoittaminen karanteenin ja eristämisen aikana",
+      "text": "Potilaan oikeutta tavata terveydenhuollon toimintayksikön ulkopuolisia henkilöitä voidaan rajoittaa, jos se on välttämätöntä yleisvaarallisen tai yleisvaaralliseksi perustellusti epäillyn tartuntataudin leviämisen ehkäisemiseksi. Päätöksen tapaamisoikeuden rajoittamisesta tekee virkasuhteinen kunnan tai sairaanhoitopiirin kuntayhtymän tartuntataudeista vastaava lääkäri.",
+      "section_number": "69",
+      "chapter_number": 6,
+      "statute_id": ""
+    },
+    {
+      "id": "887564a5-95da-4735-af3b-bd4a0cda403a",
+      "node_type": "Section",
+      "publisher": "finlex",
+      "title": "70 § Kiireellinen päätös rajoitetoimenpiteestä",
+      "text": "Muu kuin 60–67 tai 69 §:ssä tarkoitettu julkisessa terveydenhuollossa toimiva laillistettu lääkäri voi kiireellisessä tapauksessa päättää henkilön tai tavaran karanteenista taikka henkilön eristämisestä tai päättää välttämättömän sairaanhoidon toteuttamisesta, lääkityksen antamisesta henkilön vastustuksesta huolimatta tai tapaamisen rajoittamisesta enintään kolmeksi päiväksi, jos se on välttämätöntä tartuntataudin leviämisen estämiseksi ja jos hän suorittamansa tutkimuksen perusteella toteaa, että päätöksen tekemisen edellytykset ovat olemassa. Päätös on saatettava niin pian kuin olosuhteet sallivat kunnan tai sairaanhoitopiirin kuntayhtymän virkasuhteisen tartuntataudeista vastaavan lääkärin vahvistettavaksi.",
+      "section_number": "70",
+      "chapter_number": 6,
+      "statute_id": ""
+    },
+    {
+      "id": "f5c4d1cc-81a3-4835-b7db-4064ba8d3673",
+      "node_type": "Section",
+      "publisher": "finlex",
+      "title": "71 § Äkillinen vakava terveysvaara",
+      "text": "Jos pikaiset toimenpiteet ovat tarpeen yleisvaarallisen tai yleisvaaralliseksi perustellusti epäillyn tartuntataudin leviämisen estämiseksi, sosiaali- ja terveysministeriö sekä aluehallintovirasto ja kunnan tartuntatautien torjunnasta vastaava toimielin toimialueellaan voivat tehdä niitä koskevat välttämättömät 60, 61 ja 63 §:n mukaiset päätökset virkasuhteisen kunnan tai sairaanhoitopiirin kuntayhtymän tartuntataudeista vastaavan lääkärin sijasta.",
+      "section_number": "71",
+      "chapter_number": 6,
+      "statute_id": ""
+    },
+    {
+      "id": "2f4ab537-629f-4e53-aaa0-595fa5a54de6",
+      "node_type": "Section",
+      "publisher": "finlex",
+      "title": "72 § Lääkkeiden tarkoituksenmukainen ja yhdenvertainen saanti",
+      "text": "Tarkoituksenmukaisen ja yhdenvertaisen lääkehoidon varmistamiseksi poikkeuksellisen epidemian uhatessa ja aikana sosiaali- ja terveysministeriö voi terveydenhuollon ammattihenkilöistä annetun lain (559/1994) ja lääkelain estämättä määräaikaisesti rajoittaa tartuntataudin hoitoon tarkoitettujen lääkkeiden määräämistä ja luovuttamista tai antaa oikeuksia määrätä tai luovuttaa niitä.",
+      "section_number": "72",
+      "chapter_number": 7,
+      "statute_id": ""
+    },
+    {
+      "id": "9916ca6c-d02c-45a0-ad36-d7e88a21c65d",
+      "node_type": "Section",
+      "publisher": "finlex",
+      "title": "73 § Varmuusvarastoidut lääkkeet ja tarvikkeet",
+      "text": "Yleisvaarallisen tartuntataudin tai yleisvaaralliseksi perustellusti epäillyn tartuntataudin uhatessa, poikkeuksellisen epidemian uhatessa ja aikana sosiaali- ja terveysministeriö päättää valtion kustannuksella huoltovarmuuden turvaamisesta annetun lain (1390/1992) 3 §:n mukaisesti varmuusvarastoon hankittujen lääkkeiden, terveydenhuollon laitteiden ja tarvikkeiden ja suojainten käyttöönotosta ja jakelusta. Jos valtion kustannuksella varmuusvarastoon hankittu lääke tai tarvike jaetaan apteekkien kautta, sosiaali- ja terveysministeriö voi päättää niiden käytöstä ja ostajalta perittävästä hinnasta. Poikkeuksellisen epidemian uhatessa ja aikana sosiaali- ja terveysministeriö voi päättää antaa lääkelain estämättä varmuusvarastosta luovutettujen lääkkeiden myyntiluvasta poikkeavia kansallisia käyttö-, valmistus- ja annosteluohjeita.",
+      "section_number": "73",
+      "chapter_number": 7,
+      "statute_id": ""
+    },
+    {
+      "id": "2813cff1-9006-4158-bbcc-1b6e02c57d6c",
+      "node_type": "Section",
+      "publisher": "finlex",
+      "title": "74 § Muu lääkelain säännöksistä poikkeaminen",
+      "text": "Yleisvaarallisen tartuntataudin tai yleisvaaralliseksi perustellusti epäillyn tartuntataudin uhatessa, poikkeuksellisen epidemian uhatessa ja aikana sekä muussa vastaavassa terveydenhuollon häiriötilanteessa sosiaali- ja terveysministeriö voi päättää, että taudin torjumiseksi, hoitamiseksi ja sen aiheuttamien jälkitautien hoitamiseksi voidaan poiketa lääkelain säännöksistä seuraavasti:",
+      "section_number": "74",
+      "chapter_number": 7,
+      "statute_id": ""
+    },
+    {
+      "id": "fd85a241-a262-4d30-afeb-22fc2064027a",
+      "node_type": "Section",
+      "publisher": "finlex",
+      "title": "75 § Terveydenhuollon laitteista ja tarvikkeista annetun lain säännöksistä poikkeaminen",
+      "text": "Poikkeuksellisen epidemian uhatessa ja aikana sekä muussa vastaavassa terveydenhuollon häiriötilanteessa sosiaali- ja terveysministeriö voi myöntää taudin ja sen aiheuttamien jälkitautien hoitamiseksi määräaikaisen poikkeuksen terveydenhuollon laitteen tai tarvikkeen markkinoille saattamiseksi ja käyttöön ottamiseksi, vaikka laitteen tai tarvikkeen vaatimustenmukaisuuden arviointia ei ole toteutettu terveydenhuollon laitteista ja tarvikkeista annetussa laissa (629/2010) tai sen nojalla annetuissa säännöksissä ja määräyksissä edellytetyn mukaisesti. Sosiaali- ja terveysministeriö voi antaa asetuksessa laitteen tai tarvikkeen ja sen käytön turvallisuutta koskevia ehtoja.",
+      "section_number": "75",
+      "chapter_number": 7,
+      "statute_id": ""
+    },
+    {
+      "id": "ed3695a1-747d-417d-9ae0-cfcf47e79b3b",
+      "node_type": "Section",
+      "publisher": "finlex",
+      "title": "76 § Lääkealan turvallisuus- ja kehittämiskeskuksen tehtävät",
+      "text": "Lääkealan turvallisuus- ja kehittämiskeskus vastaa lääkejakelun turvallisuudesta, toimivuudesta sekä lääkealan toimijoiden ohjauksesta.  Keskus  tukee  sosiaali- ja terveysministeriötä 72–74 §:ssä tarkoitettujen toimien valmistelussa ja huolehtii osaltaan niiden toimeenpanosta.",
+      "section_number": "76",
+      "chapter_number": 7,
+      "statute_id": ""
+    },
+    {
+      "id": "ce7e838d-d7a6-412a-9c1b-38ceba3fe8ca",
+      "node_type": "Section",
+      "publisher": "finlex",
+      "title": "77 § Asetuksenantovaltuus",
+      "text": "Sosiaali- ja terveysministeriön asetuksella voidaan säätää tarkemmin 72 §:ssä tarkoitetuista lääkkeiden määräämistä ja luovuttamista koskevista poikkeuksista, 73 §:ssä tarkoitetusta lääkkeen käytöstä ja lääkkeestä potilaalta perittävästä hinnasta sekä 74 §:n mukaisista lääkelaista ja 75 §:n mukaisista terveydenhuollon laitteista ja tarvikkeista annetusta laista poikkeavista menettelyistä.",
+      "section_number": "77",
+      "chapter_number": 7,
+      "statute_id": ""
+    },
+    {
+      "id": "57428e8a-7318-4514-8419-5f6ab2d194da",
+      "node_type": "Section",
+      "publisher": "finlex",
+      "title": "78 § Valtionosuus",
+      "text": "Kunnan tämän lain nojalla järjestämään toimintaan sovelletaan sosiaali- ja terveydenhuollon suunnittelusta ja valtionavustuksesta annettua lakia (733/1992) sekä kunnan peruspalvelujen valtionosuudesta annettua lakia (1704/2009), jollei lailla toisin säädetä.",
+      "section_number": "78",
+      "chapter_number": 8,
+      "statute_id": ""
+    },
+    {
+      "id": "f2db074b-cc7e-4493-911b-5ba0397b1801",
+      "node_type": "Section",
+      "publisher": "finlex",
+      "title": "79 § Valtion osallistuminen erityisiin kustannuksiin",
+      "text": "Valtio voi osallistua tartuntatautien torjunnassa tarvittavan valmiuden ylläpitämisen ja terveydenhuollon erityistilanteiden hoidon kustannuksiin siten kuin terveydenhuoltolain 38 §:ssä säädetään. Valtio vastaa terveydenhuollon häiriötilanteessa kustannuksista, jotka ovat aiheutuneet henkilön määräämisestä karanteeniin, eristykseen tai pakolliseen terveystarkastukseen yleisvaarallisen tai yleisvaaralliseksi perustellusti epäillyn tartuntataudin vuoksi, jos henkilöllä ei ole Suomessa kotikuntaa ja aiheutuneita kustannuksia ei ole saatu muutoin perittyä.",
+      "section_number": "79",
+      "chapter_number": 8,
+      "statute_id": ""
+    },
+    {
+      "id": "b083d627-6dc7-4c7f-89fb-52a55389ded7",
+      "node_type": "Section",
+      "publisher": "finlex",
+      "title": "80 § Asiakasmaksut",
+      "text": "Tartuntatautien torjunnasta, tutkimuksesta, hoidosta ja lääkkeistä kunnallisessa terveydenhuollossa perittävistä maksuista säädetään sosiaali- ja terveydenhuollon asiakasmaksuista annetussa laissa (734/1992).",
+      "section_number": "80",
+      "chapter_number": 8,
+      "statute_id": ""
+    },
+    {
+      "id": "302a7930-c1df-42a1-936d-1d6a32d84889",
+      "node_type": "Section",
+      "publisher": "finlex",
+      "title": "81 § Rokotteiden maksuttomuus",
+      "text": "Kunta ja valtioneuvoston 49 §:n nojalla päättämät rokotuksen järjestäjät saavat 44 §:n 1 momentin, 45 §:n 1 momentin ja 47 §:n mukaisiin rokotuksiin käytettävät rokotteet maksutta. Valtio vastaa aiheutuneista kustannuksista.",
+      "section_number": "81",
+      "chapter_number": 8,
+      "statute_id": ""
+    },
+    {
+      "id": "0b2ace6c-e3bf-42ce-858e-2229060ffd6f",
+      "node_type": "Section",
+      "publisher": "finlex",
+      "title": "82 § Tartuntatautipäiväraha",
+      "text": "Henkilöllä, joka tartuntataudin leviämisen estämiseksi on määrätty olemaan poissa ansiotyöstään, eristettäväksi tai karanteeniin, on oikeus saada ansionmenetyksen korvaamiseksi tartuntatautipäivärahaa siten kuin sairausvakuutuslaissa (1224/2004) säädetään. Sama  oikeus on alle 16-vuotiaan lapsen huoltajalla, jos alle 16-vuotias lapsi on edellä mainitusta syystä määrätty pidettäväksi kotona ja huoltaja tämän vuoksi on estynyt tekemästä työtään.",
+      "section_number": "82",
+      "chapter_number": 8,
+      "statute_id": ""
+    },
+    {
+      "id": "bbc6799e-bd6e-476c-89a8-ae642f6d47a2",
+      "node_type": "Section",
+      "publisher": "finlex",
+      "title": "83 § Kunnan korvausvelvollisuus",
+      "text": "Omistajalla on oikeus saada kunnalta korvaus esineestä, joka tartuntataudin leviämisen estämiseksi on viranomaisten määräyksestä hävitetty tai käsitelty siten, että se on pilaantunut tai vahingoittunut. Korvauksena suoritetaan esineen arvo tai arvonalennus. Korvausta ei suoriteta esineestä, jonka arvo on vähäinen, ellei tähän ole erityisen painavaa syytä. Edellä 82 §:ssä tarkoitetulla henkilöllä on oikeus saada kunnalta korvaus hänelle aiheutuneesta taloudellisesta vahingosta, jos hän ei ole kyennyt sitä välttämään toimenpitein, joita häneltä on voitu kohtuudella edellyttää, ja jota ei korvata mainitun pykälän nojalla.",
+      "section_number": "83",
+      "chapter_number": 8,
+      "statute_id": ""
+    },
+    {
+      "id": "543680e3-804b-4972-9013-e132216277d0",
+      "node_type": "Section",
+      "publisher": "finlex",
+      "title": "84 § Kansainvälinen yhteistyö",
+      "text": "Tartuntatautien torjunnassa ja siihen liittyvässä kansainvälisessä yhteistyössä on tämän lain säännösten lisäksi noudatettava, mitä Maailman terveysjärjestön kansainvälinen terveyssäännöstö (2005) (SopS 51/2007) edellyttää ja otettava huomioon Euroopan unionin tartuntatauteja koskevat päätökset ja säädökset. Jos Suomea velvoittavassa muussa kansainvälisessä sopimuksessa on tästä laista ja sen nojalla annetuista säännöksistä poikkeavia määräyksiä, on sopimusmääräyksiä noudatettava.",
+      "section_number": "84",
+      "chapter_number": 9,
+      "statute_id": ""
+    },
+    {
+      "id": "98839d10-2fcb-4547-ba59-d5e84d91ed0a",
+      "node_type": "Section",
+      "publisher": "finlex",
+      "title": "85 § Ilmoittaminen Maailman terveysjärjestölle, Euroopan unionille ja ulkomaisille viranomaisille",
+      "text": "Terveyden ja hyvinvoinnin laitos ilmoittaa Maailman terveysjärjestölle, Euroopan tautien ehkäisy- ja torjuntakeskukselle ja niiden verkostoiden toimivaltaisille viranomaisille 84 §:ssä mainitun sopimuksen ja tarkoitettujen päätösten edellyttämät tiedot salassapitosäännösten ja muiden tiedonsaantia koskevien rajoitusten estämättä.",
+      "section_number": "85",
+      "chapter_number": 9,
+      "statute_id": ""
+    },
+    {
+      "id": "87bc152d-2211-4a9a-abbf-9782c05aae07",
+      "node_type": "Section",
+      "publisher": "finlex",
+      "title": "86 § Veden ja elintarvikkeiden välityksellä tarttuvat taudit",
+      "text": "Veden ja elintarvikkeiden välityksellä tarttuvien tautien torjunnassa on noudatettava myös, mitä terveydensuojelulaissa (763/1994) ja elintarvikelaissa säädetään.",
+      "section_number": "86",
+      "chapter_number": 9,
+      "statute_id": ""
+    },
+    {
+      "id": "15af391b-eb24-48ee-8442-6faac40634aa",
+      "node_type": "Section",
+      "publisher": "finlex",
+      "title": "87 § Mikrobien maahantuonnista ilmoittaminen",
+      "text": "Yleisvaarallisen tai yleisvaaralliseksi perustellusti epäillyn tartuntataudin leviämisen vaaraa aiheuttavien mikrobien tai niiden osien maahantuonnista on ilmoitettava ennen maahantuontia Terveyden ja hyvinvoinnin laitokselle. Ilmoitusvelvollisuus ei kuitenkaan koske potilas- tai laadunvarmistusnäytteitä, jotka tuodaan maahan 18 §:ssä tarkoitettuun laboratorioon potilaan hoitoon tai laadunvarmistukseen liittyviä laboratoriotutkimuksia varten.",
+      "section_number": "87",
+      "chapter_number": 9,
+      "statute_id": ""
+    },
+    {
+      "id": "7b2ab0ba-2b8d-4f27-9d10-21a1ea618dbe",
+      "node_type": "Section",
+      "publisher": "finlex",
+      "title": "88 § Viittaus rikoslakiin",
+      "text": "Rangaistus terveydensuojelurikkomuksesta säädetään rikoslain (39/1889) 44 luvun 2 §:ssä.",
+      "section_number": "88",
+      "chapter_number": 9,
+      "statute_id": ""
+    },
+    {
+      "id": "4cb1c51f-ad6f-4470-a0c8-146467ca5d9a",
+      "node_type": "Section",
+      "publisher": "finlex",
+      "title": "89 § Virka-apu",
+      "text": "Jos Terveyden ja hyvinvoinnin laitos, aluehallintovirasto, tartuntatautien torjunnasta vastaava kunnan toimielin, kunnan tartuntataudeista vastaava lääkäri tai sairaanhoitopiirin kuntayhtymän tartuntataudeista vastaava lääkäri toteaa, että yleisvaarallisen tai yleisvaaralliseksi perustellusti epäillyn tartuntataudin leviämistä ei voida muulla tavoin estää, poliisin, pelastusviranomaisen tai puolustusvoimien on annettava tämän pyynnöstä virka-apua. Rajavartiolaitoksen antamasta virka-avusta säädetään rajavartiolaissa (578/2005).",
+      "section_number": "89",
+      "chapter_number": 9,
+      "statute_id": ""
+    },
+    {
+      "id": "0c2b0c66-4836-43af-ad98-d28c2eedf781",
+      "node_type": "Section",
+      "publisher": "finlex",
+      "title": "90 § Muutoksenhaku",
+      "text": "Tässä laissa tarkoitettuun päätökseen saa hakea muutosta valittamalla hallinto-oikeuteen siten kuin hallintolainkäyttölaissa (586/1996) säädetään. Hallinto-oikeuden päätökseen muussa kuin 18 §:n 4 momentissa tarkoitetussa toimiluvan peruuttamista koskevassa asiassa saa hakea muutosta valittamalla vain, jos korkein hallinto-oikeus myöntää valitusluvan.",
+      "section_number": "90",
+      "chapter_number": 9,
+      "statute_id": ""
+    },
+    {
+      "id": "88d99b1e-6620-4bdf-8482-075513ecd881",
+      "node_type": "Section",
+      "publisher": "finlex",
+      "title": "91 § Päätösten täytäntöönpano",
+      "text": "Edellä 16, 57–67 ja 69–71 §:ssä tarkoitetut päätökset voidaan panna täytäntöön heti muutoksenhausta huolimatta. Kun muutosta on haettu, muutoksenhakuviranomainen voi kieltää päätöksen täytäntöönpanon tai määrätä sen keskeytettäväksi.",
+      "section_number": "91",
+      "chapter_number": 9,
+      "statute_id": ""
+    },
+    {
+      "id": "4e082944-2d2c-4a78-a20e-2c0cd7ffad34",
+      "node_type": "Section",
+      "publisher": "finlex",
+      "title": "92 § Käsittelyn kiireellisyys",
+      "text": "Tässä laissa tarkoitetut ansiotyöstä, oppilaitoksesta tai päivähoidosta poissaoloa, henkilön tahdosta riippumatta toteutettavaa hoitoa ja lääkitystä, tapaamisen rajoittamista, eristämistä, karanteenia sekä eristämistä tai karanteenia ulkopuolelta lukittavassa tilassa koskevat muutoksenhakuasiat on käsiteltävä kiireellisinä.",
+      "section_number": "92",
+      "chapter_number": 9,
+      "statute_id": ""
+    },
+    {
+      "id": "86a202de-bf03-484e-bd27-ab07b21d56dc",
+      "node_type": "Section",
+      "publisher": "finlex",
+      "title": "93 § Voimaantulo",
+      "text": "Tämä laki tulee voimaan 1 päivänä maaliskuuta 2017. Lain 48 §:ää sovelletaan kuitenkin vasta vuoden kuluttua tämän lain voimaantulosta. Tällä lailla kumotaan tartuntatautilaki (583/1986).",
+      "section_number": "93",
+      "chapter_number": 9,
+      "statute_id": ""
+    }
+  ],
+  "clauses": [
+    {
+      "id": "e4e6ef85-1cc1-4b78-a3e8-a7958806e682",
+      "node_type": "Clause",
+      "publisher": "finlex",
+      "title": "§ 4 mom 1",
+      "text": "1) taudin tarttuvuus on suuri;",
+      "clause_number": 1,
+      "section_number": "4",
+      "statute_id": ""
+    },
+    {
+      "id": "162e8906-bf81-40bd-97d4-c3d7e8e2cf47",
+      "node_type": "Clause",
+      "publisher": "finlex",
+      "title": "§ 4 mom 2",
+      "text": "2) tauti on vaarallinen; ja",
+      "clause_number": 2,
+      "section_number": "4",
+      "statute_id": ""
+    },
+    {
+      "id": "a9194cb2-5996-474d-ad26-3df592ac1bbe",
+      "node_type": "Clause",
+      "publisher": "finlex",
+      "title": "§ 4 mom 3",
+      "text": "3) taudin leviäminen voidaan estää tautiin sairastuneeseen, taudinaiheuttajalle altistuneeseen tai tällaisiksi perustellusti epäiltyyn henkilöön kohdistettavilla toimenpiteillä.",
+      "clause_number": 3,
+      "section_number": "4",
+      "statute_id": ""
+    },
+    {
+      "id": "4ac0260a-82f9-4a6f-be85-4b2f94ce2b59",
+      "node_type": "Clause",
+      "publisher": "finlex",
+      "title": "§ 4 mom 1",
+      "text": "1) taudin esiintymisen seuranta edellyttää lääkärin antamia tietoja tai erikseen kerättäviä lisätietoja;",
+      "clause_number": 1,
+      "section_number": "4",
+      "statute_id": ""
+    },
+    {
+      "id": "16a60dfb-4117-4beb-9974-122d36b22901",
+      "node_type": "Clause",
+      "publisher": "finlex",
+      "title": "§ 4 mom 2",
+      "text": "2) taudin leviämisen ehkäiseminen edellyttää erityisiä toimia taudin toteamiseksi tehtävän tutkimuksen ja taudin hoidon toteutumisen varmistamiseksi; tai",
+      "clause_number": 2,
+      "section_number": "4",
+      "statute_id": ""
+    },
+    {
+      "id": "02360afe-4f04-480b-923f-6024971a3416",
+      "node_type": "Clause",
+      "publisher": "finlex",
+      "title": "§ 4 mom 3",
+      "text": "3) kyseessä on kansallisella rokotusohjelmalla ehkäistävä tauti.",
+      "clause_number": 3,
+      "section_number": "4",
+      "statute_id": ""
+    },
+    {
+      "id": "9bfbc3ca-19e8-48c6-a664-de6648261405",
+      "node_type": "Clause",
+      "publisher": "finlex",
+      "title": "§ 12 mom 1",
+      "text": "1) periaatteellisesti tärkeät tai laajakantoiset asiat;",
+      "clause_number": 1,
+      "section_number": "12",
+      "statute_id": ""
+    },
+    {
+      "id": "c55ab0f2-3a43-4453-a6b1-8fb52758737c",
+      "node_type": "Clause",
+      "publisher": "finlex",
+      "title": "§ 12 mom 2",
+      "text": "2) usean aluehallintoviraston toimialuetta tai koko maata koskevat asiat;",
+      "clause_number": 2,
+      "section_number": "12",
+      "statute_id": ""
+    },
+    {
+      "id": "286696e9-fc16-4761-93c5-7c1556e5c160",
+      "node_type": "Clause",
+      "publisher": "finlex",
+      "title": "§ 12 mom 3",
+      "text": "3) asiat, jotka liittyvät olennaisesti Sosiaali- ja terveysalan lupa- ja valvontavirastossa käsiteltävään muuhun sosiaalihuoltoa tai terveydenhuoltoa taikka terveydenhuollon ammattihenkilöä koskevaan valvonta-asiaan;",
+      "clause_number": 3,
+      "section_number": "12",
+      "statute_id": ""
+    },
+    {
+      "id": "801b0ce8-d55e-490e-8140-86ace560eafd",
+      "node_type": "Clause",
+      "publisher": "finlex",
+      "title": "§ 12 mom 4",
+      "text": "4) asiat, joita aluehallintovirasto on esteellinen käsittelemään.",
+      "clause_number": 4,
+      "section_number": "12",
+      "statute_id": ""
+    },
+    {
+      "id": "0e5d8645-b484-497f-9ec2-5095f680c47c",
+      "node_type": "Clause",
+      "publisher": "finlex",
+      "title": "§ 38 mom 1",
+      "text": "1) kolme kuukautta, jos taudin kesto on lyhyt;",
+      "clause_number": 1,
+      "section_number": "38",
+      "statute_id": ""
+    },
+    {
+      "id": "3c97977f-55db-4f29-b37b-c3d9c826c3cd",
+      "node_type": "Clause",
+      "publisher": "finlex",
+      "title": "§ 38 mom 2",
+      "text": "2) kolme vuotta, jos taudin kulku on erityisen hidas;",
+      "clause_number": 2,
+      "section_number": "38",
+      "statute_id": ""
+    },
+    {
+      "id": "50144d15-0058-4677-9bb7-a20d9d3415f7",
+      "node_type": "Clause",
+      "publisher": "finlex",
+      "title": "§ 38 mom 3",
+      "text": "3) 50 vuotta, jos suuri osa tartunnan saaneista jää pysyviksi tartunnan kantajiksi.",
+      "clause_number": 3,
+      "section_number": "38",
+      "statute_id": ""
+    },
+    {
+      "id": "6abe31ae-f875-4b65-9717-0690e79477dd",
+      "node_type": "Clause",
+      "publisher": "finlex",
+      "title": "§ 55 mom 1",
+      "text": "1) sosiaalihuollon tai terveydenhuollon toimintayksiköissä;",
+      "clause_number": 1,
+      "section_number": "55",
+      "statute_id": ""
+    },
+    {
+      "id": "7fda3de1-027d-430e-8093-fb8dc74709e9",
+      "node_type": "Clause",
+      "publisher": "finlex",
+      "title": "§ 55 mom 2",
+      "text": "2) alle kouluikäisten lasten hoitotehtävissä.",
+      "clause_number": 2,
+      "section_number": "55",
+      "statute_id": ""
+    },
+    {
+      "id": "e1d6c570-d3b7-4178-937c-9e164ea32acc",
+      "node_type": "Clause",
+      "publisher": "finlex",
+      "title": "§ 56 mom 1",
+      "text": "1) elintarvikelaissa (23/2006) tarkoitetussa elintarvikehuoneistossa tehtävässä, jossa hän käsittelee pakkaamattomia kuumentamattomina tarjoiltavia elintarvikkeita;",
+      "clause_number": 1,
+      "section_number": "56",
+      "statute_id": ""
+    },
+    {
+      "id": "5893950b-498d-4c78-9498-fbc6601c7dff",
+      "node_type": "Clause",
+      "publisher": "finlex",
+      "title": "§ 56 mom 2",
+      "text": "2) maidon tuotantotilalla muissa maidonkäsittelytehtävissä kuin lypsytyössä, jos tila toimittaa maitoa meijeriin, jossa maitoa ei pastöroida.",
+      "clause_number": 2,
+      "section_number": "56",
+      "statute_id": ""
+    },
+    {
+      "id": "4320deae-03ba-4a98-9afb-dc1acdfbdf42",
+      "node_type": "Clause",
+      "publisher": "finlex",
+      "title": "§ 74 mom 1",
+      "text": "1) jonkin lääkevalmisteen käyttö on sallittua ilman Lääkealan turvallisuus- ja kehittämiskeskuksen tai Euroopan unionin toimielimen myöntämää myyntilupaa;",
+      "clause_number": 1,
+      "section_number": "74",
+      "statute_id": ""
+    },
+    {
+      "id": "53fc20cd-90f2-4ace-8a9c-a172764f327c",
+      "node_type": "Clause",
+      "publisher": "finlex",
+      "title": "§ 74 mom 2",
+      "text": "2) sairaala-apteekista tai lääkekeskuksesta voidaan luovuttaa lääkevalmisteita muulle sosiaali- ja terveydenhuollon toimintayksikölle ilman lääkelain 62 §:ssä tarkoitettua Lääkealan turvallisuus- ja kehittämiskeskuksen lupaa;",
+      "clause_number": 2,
+      "section_number": "74",
+      "statute_id": ""
+    },
+    {
+      "id": "77de27d7-fbab-43e1-b7d0-7aa81f670b4d",
+      "node_type": "Clause",
+      "publisher": "finlex",
+      "title": "§ 74 mom 3",
+      "text": "3) terveydenhuollon toimintayksiköstä voidaan luovuttaa vastaanotolla käyneelle henkilölle ja toimintayksikön henkilökunnalle hoidossa tarvittavat lääkkeet;",
+      "clause_number": 3,
+      "section_number": "74",
+      "statute_id": ""
+    },
+    {
+      "id": "5d6df6a8-5d11-49cc-a13c-2c45ebd5d50f",
+      "node_type": "Clause",
+      "publisher": "finlex",
+      "title": "§ 74 mom 4",
+      "text": "4) lääkkeen laadun varmistamiseksi lääkevalmistus ja lääkkeiden käyttökuntoon saattaminen voidaan keskittää apteekkien ja sairaala-apteekkien välisin sopimuksin.",
+      "clause_number": 4,
+      "section_number": "74",
+      "statute_id": ""
+    }
+  ],
+  "cross_references": [
+    {
+      "raw_text": "pykälän 1 ja",
+      "statute_id": "",
+      "section_number": "1 ja",
+      "clause_number": null,
+      "resolution_confidence": 0.0
+    }
+  ],
+  "raw_html_path": "C:\\Users\\danit\\finance-hack\\aalto-hackaton-2026\\data\\raw\\finlex\\Laki (säädöskokoelma)\\Tartuntatautilaki_1.html"
+}

@@ -1,0 +1,56 @@
+{
+  "statute": {
+    "id": "cbb0ca52-6253-4f75-9da8-14401f422d58",
+    "node_type": "Statute",
+    "publisher": "finlex",
+    "title": "Laki työttömyysetuuksien rahoituksesta annetun lain väliaikaisesta muuttamisesta",
+    "text": "Laki työttömyysetuuksien rahoituksesta annetun lain väliaikaisesta muuttamisesta",
+    "statute_id": "555/1998",
+    "finlex_url": "https://finlex.fi/fi/laki/ajantasa/555/1998"
+  },
+  "chapters": [],
+  "sections": [
+    {
+      "id": "54c3e8ad-7c0c-4fc0-a0f0-dd22273456e7",
+      "node_type": "Section",
+      "publisher": "finlex",
+      "title": "25 § Väliaikainen valtion lisärahoitusosuus palkansaajan ansiopäivärahan rahoittamiseen",
+      "text": "Jollei 4 §:n 1 ja 2 momentista muuta johdu, työttömyyskassan osuus kustakin ajalta 1 päivänä huhtikuuta tai sen jälkeen maksettavasta ansiopäivärahasta on: Jos ansiopäiväraha maksetaan työttömyysturvalain 6 luvun 2 §:n 2 momentin mukaisesti korotettuna, työttömyyskassan osuus lasketaan kuitenkin mainitun pykälän 1 momentin mukaan määräytyvästä ansiopäivärahasta. Valtion osuutena työttömyyskassalle maksetaan kustakin ansiopäivärahasta 4 §:n 1 momentissa tarkoitettu määrä lisättynä osuudella, joka vastaa 4 §:n 4 momentissa tarkoitetun Työllisyysrahaston osuuden ja tässä tarkoitetun työttömyyskassan osuuden erotusta. Tämä laki tulee voimaan 30 päivänä lokakuuta 2020 ja se on voimassa 31 päivään joulukuuta 2020 saakka. Lakia sovelletaan ajalta 1 päivänä huhtikuuta 2020 ja sen jälkeen maksettavan ansiopäivärahan rahoitukseen. Valtionosuuden tilittämiseen sovelletaan, mitä valtionosuuksien tilittämisessä muutoin noudatetaan. Takautuvalta ajalta valtionosuus tilitetään työttömyyskassalle mahdollisimman pian lain tultua hyväksytyksi.",
+      "section_number": "25",
+      "chapter_number": 1,
+      "statute_id": "555/1998"
+    }
+  ],
+  "clauses": [
+    {
+      "id": "fe8e4301-9cc6-4cd6-b4ed-b9fa438570c2",
+      "node_type": "Clause",
+      "publisher": "finlex",
+      "title": "§ 25 mom 1",
+      "text": "1) 5,5 prosenttia, kun kyse on työttömyysturvalain 6 luvun 9 §:ssä tarkoitetuista lisäpäivistä; ja",
+      "clause_number": 1,
+      "section_number": "25",
+      "statute_id": "555/1998"
+    },
+    {
+      "id": "1c540239-4cff-4347-ad2f-f909e0098e36",
+      "node_type": "Clause",
+      "publisher": "finlex",
+      "title": "§ 25 mom 2",
+      "text": "2) 3,5 prosenttia, kun kyse on muusta ansiopäivärahasta.",
+      "clause_number": 2,
+      "section_number": "25",
+      "statute_id": "555/1998"
+    }
+  ],
+  "cross_references": [
+    {
+      "raw_text": "pykälän 1 momentin m",
+      "statute_id": "555/1998",
+      "section_number": "1 momentin m",
+      "clause_number": null,
+      "resolution_confidence": 0.0
+    }
+  ],
+  "raw_html_path": "C:\\Users\\danit\\finance-hack\\aalto-hackaton-2026\\data\\raw\\finlex\\Laki\\Laki työttömyysetuuksien rahoituksesta annetun lain väliaikaisesta muuttamisesta_2.html"
+}

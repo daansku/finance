@@ -1,0 +1,2476 @@
+{
+  "statute": {
+    "id": "77ac2f5b-1aea-4f9b-8a38-2c4e3f7dadd8",
+    "node_type": "Statute",
+    "publisher": "finlex",
+    "title": "Merenkulun ympäristönsuojelulaki",
+    "text": "Merenkulun ympäristönsuojelulaki",
+    "statute_id": "51/1983",
+    "finlex_url": "https://finlex.fi/fi/laki/ajantasa/51/1983"
+  },
+  "chapters": [
+    {
+      "id": "097c1767-0708-4be7-b8f9-483e794a3125",
+      "node_type": "Chapter",
+      "publisher": "finlex",
+      "title": "Chapter 1",
+      "text": "1 luku Yleiset säännökset",
+      "chapter_number": 1,
+      "statute_id": "51/1983"
+    },
+    {
+      "id": "8fee432d-e7cc-47e6-a29f-05e32b4d9465",
+      "node_type": "Chapter",
+      "publisher": "finlex",
+      "title": "Chapter 2",
+      "text": "2 luku Aluksista aiheutuvien öljypäästöjen ehkäiseminen",
+      "chapter_number": 2,
+      "statute_id": "51/1983"
+    },
+    {
+      "id": "bdc4edbd-5aca-416d-8c60-7d57b53ae2dc",
+      "node_type": "Chapter",
+      "publisher": "finlex",
+      "title": "Chapter 3",
+      "text": "3 luku Öljypäästömaksu",
+      "chapter_number": 3,
+      "statute_id": "51/1983"
+    },
+    {
+      "id": "458ea023-94c9-439d-9f9d-a3d8fb502d9d",
+      "node_type": "Chapter",
+      "publisher": "finlex",
+      "title": "Chapter 4",
+      "text": "4 luku Aluksista aiheutuvien haitallisten nestemäisten aineiden päästöjen ehkäiseminen",
+      "chapter_number": 4,
+      "statute_id": "51/1983"
+    },
+    {
+      "id": "4ac3fe40-b705-4749-896e-51624a82efd1",
+      "node_type": "Chapter",
+      "publisher": "finlex",
+      "title": "Chapter 5",
+      "text": "5 luku Aluksista aiheutuvien käymäläjätevesipäästöjen ehkäiseminen",
+      "chapter_number": 5,
+      "statute_id": "51/1983"
+    },
+    {
+      "id": "7e453aa7-abd7-4aea-a66c-5329b57e57f1",
+      "node_type": "Chapter",
+      "publisher": "finlex",
+      "title": "Chapter 6",
+      "text": "6 luku Aluksista aiheutuvien kiinteän jätteen päästöjen ehkäiseminen",
+      "chapter_number": 6,
+      "statute_id": "51/1983"
+    },
+    {
+      "id": "f7a5ecfa-8ca7-42c6-9203-1fb1d71f8f80",
+      "node_type": "Chapter",
+      "publisher": "finlex",
+      "title": "Chapter 7",
+      "text": "7 luku Aluksista aiheutuvan ilman pilaantumisen ehkäiseminen",
+      "chapter_number": 7,
+      "statute_id": "51/1983"
+    },
+    {
+      "id": "215ed871-69ec-4717-80b3-0437907bd2ad",
+      "node_type": "Chapter",
+      "publisher": "finlex",
+      "title": "Chapter 8",
+      "text": "8 luku Aluksen tavanomaisesta toiminnasta aiheutuvan ympäristön pilaantumisen ehkäisemistä koskevat muut Suomea sitovat kansainväliset velvoitteet",
+      "chapter_number": 8,
+      "statute_id": "51/1983"
+    },
+    {
+      "id": "77ac2113-d018-46f3-be4e-e38cb0cac4c4",
+      "node_type": "Chapter",
+      "publisher": "finlex",
+      "title": "Chapter 9",
+      "text": "9 luku Jätteiden vastaanotto satamassa",
+      "chapter_number": 9,
+      "statute_id": "51/1983"
+    },
+    {
+      "id": "30eaeb90-8101-424a-9663-5f1f723e056e",
+      "node_type": "Chapter",
+      "publisher": "finlex",
+      "title": "Chapter 10",
+      "text": "10 luku Jätteiden jättäminen satamaan",
+      "chapter_number": 10,
+      "statute_id": "51/1983"
+    },
+    {
+      "id": "9b32fed7-a1ef-43e4-b508-4917293a949e",
+      "node_type": "Chapter",
+      "publisher": "finlex",
+      "title": "Chapter 11",
+      "text": "11 luku Aluksen päällikön velvollisuudet vaaratilanteessa",
+      "chapter_number": 11,
+      "statute_id": "51/1983"
+    },
+    {
+      "id": "69a4e763-b124-46b7-a784-a6e0fd7cc4fa",
+      "node_type": "Chapter",
+      "publisher": "finlex",
+      "title": "Chapter 12",
+      "text": "12 luku Valvonta ja hallintopakko",
+      "chapter_number": 12,
+      "statute_id": "51/1983"
+    },
+    {
+      "id": "f4b4dfcb-f362-41bb-8aea-2ab32150354f",
+      "node_type": "Chapter",
+      "publisher": "finlex",
+      "title": "Chapter 13",
+      "text": "13 luku Erinäiset säännökset",
+      "chapter_number": 13,
+      "statute_id": "51/1983"
+    }
+  ],
+  "sections": [
+    {
+      "id": "a44edfec-58ea-46d3-9b0d-63fdd4b56749",
+      "node_type": "Section",
+      "publisher": "finlex",
+      "title": "1 § Lain tarkoitus",
+      "text": "Tämän lain tarkoituksena on ehkäistä alusten tavanomaisesta toiminnasta aiheutuvaa ympäristön pilaantumista kieltämällä haitallisten aineiden päästäminen veteen ja ilmaan tai rajoittamalla tällaisten alueiden päästöjä. Lain tarkoituksena on myös järjestää alusten tavanomaisesta toiminnasta peräisin olevien jätteiden vastaanotto satamissa. Tällä lailla annetaan alusten tavanomaisesta toiminnasta aiheutuvaa ympäristön pilaantumisen ehkäisemistä koskevien Suomea sitovien kansainvälisten velvoitteiden ja Euroopan yhteisön säädösten kansallista täytäntöönpanoa koskevat säännökset ja muut alusten tavanomaisesta toiminnasta aiheutuvaa ympäristön pilaantumisen ehkäisemistä koskevat säännökset.",
+      "section_number": "1",
+      "chapter_number": 1,
+      "statute_id": "51/1983"
+    },
+    {
+      "id": "256551a5-3668-460a-b3c1-0f0c7845c521",
+      "node_type": "Section",
+      "publisher": "finlex",
+      "title": "2 § Määritelmät",
+      "text": "Tässä laissa tarkoitetaan:",
+      "section_number": "2",
+      "chapter_number": 1,
+      "statute_id": "51/1983"
+    },
+    {
+      "id": "e1d091c2-d2e6-4f17-86d7-9882679b1d6b",
+      "node_type": "Section",
+      "publisher": "finlex",
+      "title": "3 § Lain soveltamisala",
+      "text": "Tätä lakia sovelletaan alukseen, joka purjehtii Suomen vesialueella tai talousvyöhykkeellä. Poikkeuksista lain soveltamiseen sisävesialueella ja kotimaan liikenteessä säädetään jäljempänä. Suomalaiseen alukseen tätä lakia sovelletaan myös Suomen vesialueen ja talousvyöhykkeen ulkopuolella. Tätä lakia sovelletaan alusten tavanomaisesta toiminnasta peräisin olevien jätteiden vastaanottoon. Sen jälkeen kun aluksen tavanomaisesta toiminnasta peräisin olevat jätteet on siirretty aluksesta maihin, näihin jätteisiin sovelletaan jätelakia (1072/1993). Tätä lakia ei sovelleta MARPOL 73/78 -yleissopimuksen 2 artiklan 3 kappaleen b kohdan ii alakohdassa tarkoitettuun vahingollisen aineen päästöön, joka suoraan aiheutuu merenpohjan kivennäisvarojen tutkimisesta, hyväksikäytöstä ja näihin liittyvästä rannikon ulkopuolella tapahtuvasta käsittelystä.",
+      "section_number": "3",
+      "chapter_number": 1,
+      "statute_id": "51/1983"
+    },
+    {
+      "id": "d0e4c7ec-a0fa-4a98-a18c-711725d60111",
+      "node_type": "Section",
+      "publisher": "finlex",
+      "title": "4 § Lain soveltaminen puolustusvoimien ja rajavartiolaitoksen aluksiin",
+      "text": "Tätä lakia sovelletaan puolustusvoimien ja rajavartiolaitoksen aluksiin, jollei niiden rakenteen tai toiminnan erikoisluonteesta muuta johdu. Tätä lakia sovelletaan kuitenkin poikkeuksetta sellaisiin puolustusvoimien ja rajavartiolaitoksen aluksiin, joita käytetään säännöllisesti yleisessä liikenteessä kuljettamaan matkustajia tai lastia.",
+      "section_number": "4",
+      "chapter_number": 1,
+      "statute_id": "51/1983"
+    },
+    {
+      "id": "1d419702-055d-4913-835e-512063a40e68",
+      "node_type": "Section",
+      "publisher": "finlex",
+      "title": "5 § Lain soveltaminen vieraan valtion aluksiin",
+      "text": "Tämän lain estämättä on noudatettava, mitä vieraan valtion omistaman aluksen tai sota-aluksen oikeudellisesta asemasta kansainvälisten sopimusten mukaan määrätään.",
+      "section_number": "5",
+      "chapter_number": 1,
+      "statute_id": "51/1983"
+    },
+    {
+      "id": "74bddcd7-c03e-4445-8253-f6319914b45d",
+      "node_type": "Section",
+      "publisher": "finlex",
+      "title": "6 § Haitallisten ja ilmaa pilaavien aineiden päästökielto",
+      "text": "Haitallisten aineiden ja ilmaa pilaavien aineiden päästäminen aluksesta veteen tai ilmaan on kielletty siten kuin tässä laissa taikka sen nojalla säädetään tai määrätään tai Euroopan yhteisön säädöksissä säädetään. Jos sellaisia haitallisia aineita, joilla on eri päästömääräykset, sekoitetaan keskenään, on noudatettava ankarimpia päästömääräyksiä.",
+      "section_number": "6",
+      "chapter_number": 1,
+      "statute_id": "51/1983"
+    },
+    {
+      "id": "3601eb9c-8fe6-4101-b3ee-410152d9deef",
+      "node_type": "Section",
+      "publisher": "finlex",
+      "title": "7 § Pysyväisluonteisella kiinteällä yhteydellä rantaan varustetut kelluvat alustat",
+      "text": "Pysyväisluonteisella kiinteällä yhteydellä rantaan varustetuista kelluvista alustoista aiheutuvan ympäristön pilaantumisen ehkäisemiseen sovelletaan, mitä ympäristönsuojelulaissa (86/2000) ja jätelaissa säädetään. Pysyväisluonteisella kiinteällä yhteydellä rantaan varustetulla kelluvalla alustalla tarkoitetaan sellaista asuintarkoitukseen, ravintolatoimintaan, virkistykseen tai työskentelyyn tarkoitettua alusta, jolla on luonteeltaan pysyväisluonteinen kiinteä yhteys rantaan, kuten vesijohto, viemäri, sähkökaapeli tai kiinteä kulkusilta, sekä virkistykseen tarkoitettua kiinteästi ankkuroitua kelluvaa alustaa.",
+      "section_number": "7",
+      "chapter_number": 1,
+      "statute_id": "51/1983"
+    },
+    {
+      "id": "1d84175a-f642-46e6-b810-ec05a066ff58",
+      "node_type": "Section",
+      "publisher": "finlex",
+      "title": "1 § Öljyn päästökielto ja päästörajoitukset",
+      "text": "Öljyn tai öljypitoisen seoksen päästäminen aluksesta veteen on kielletty Suomen vesialueella ja talousvyöhykkeellä ja suomalaisesta aluksesta myös Suomen aluevesien ja talousvyöhykkeen ulkopuolella siten kuin MARPOL 73/78 -yleissopimuksen I liitteessä, Helsingin sopimuksessa taikka Suomea sitovissa muissa kansainvälisissä velvoitteissa määrätään tai Euroopan yhteisön säädöksissä säädetään. Sen lisäksi, mitä 1 momentissa säädetään, öljypitoista seosta ei saa päästää veteen aluksen konehuoneesta pilssiveden suodatuslaitteiston kautta sisävesialueella tai Suomen aluevesillä alueella, joka ulottuu neljän meripeninkulman etäisyydelle lähimmästä maasta. Öljypäästöön ei saa lisätä vettä, kemikaaleja tai muita aineita päästörajoitusten kiertämiseksi.",
+      "section_number": "1",
+      "chapter_number": 2,
+      "statute_id": "51/1983"
+    },
+    {
+      "id": "b46f18ac-666f-49fb-8293-66bebfcab3aa",
+      "node_type": "Section",
+      "publisher": "finlex",
+      "title": "2 § Öljyn päästäminen poikkeustilanteissa",
+      "text": "Mitä 1 §:ssä säädetään, ei koske öljyn tai öljypitoisen seoksen päästämistä veteen, jos: Mitä 1 momentin 2 kohdassa säädetään, ei koske tapauksia, joissa laivanisännän tai aluksen päällikön aikomuksena on ollut aiheuttaa vahinko tai hän on toiminut huolimattomasti tietäen, että vahinko todennäköisesti seuraisi.",
+      "section_number": "2",
+      "chapter_number": 2,
+      "statute_id": "51/1983"
+    },
+    {
+      "id": "f7c5cb43-2bf5-4a24-a284-1438b362dfa0",
+      "node_type": "Section",
+      "publisher": "finlex",
+      "title": "3 § Aluksen koneistotilojen rakenne- ja laitevaatimukset",
+      "text": "Aluksen, jonka bruttovetoisuus on vähintään 400, öljypäästöjen ehkäisemisen varmistamiseen tarvittavien konehuoneen laitteiden, rakenteiden ja järjestelyjen tulee olla MARPOL 73/78 -yleissopimuksen I liitteen vaatimusten mukaiset. Liikenteen turvallisuusvirasto voi kirjallisesta hakemuksesta myöntää poikkeuksia tässä momentissa säädetyistä vaatimuksista edellyttäen, että laite, järjestely tai rakenne täyttää MARPOL 73/78 -yleissopimuksen I liitteen vaatimukset. Suomalaisessa aluksessa, jonka pituus on vähintään 24 metriä ja bruttovetoisuus alle 400, tulee olla joko pilssiveden keräämiseen tarkoitettu säiliö tai Liikenteen turvallisuusviraston hyväksymän mallin mukaiset laitteet, jotka varmistavat, että poistoveden öljypitoisuus ilman laimennusta on enintään 15 miljoonasosaa. Liikenteen turvallisuusvirasto voi päättää MARPOL 73/78 -yleissopimuksen I liitteen mukaisin edellytyksin muun laitteen, rakenteen tai järjestelyn samanarvoisuudesta 1 ja 2 momentissa vaaditun laitteen kanssa, jos se on yhtä tehokas kuin 1 ja 2 momentissa vaadittu laite, rakenne tai järjestely. Öljyn kuljettaminen suomalaisen aluksen yhteentörmäyslaipion keulanpuoleisissa säiliöissä on kielletty.",
+      "section_number": "3",
+      "chapter_number": 2,
+      "statute_id": "51/1983"
+    },
+    {
+      "id": "7dee0b7d-6857-4091-9adc-21c46b575a92",
+      "node_type": "Section",
+      "publisher": "finlex",
+      "title": "4 § Öljysäiliöaluksen lastitilojen rakenne- ja laitevaatimukset",
+      "text": "Öljysäiliöaluksen rakenteen ja laitteiden tulee täyttää ne vaatimukset, jotka asetetaan MARPOL 73/78 -yleissopimuksen I liitteessä ja yksirunkoisiin öljysäiliöaluksiin sovellettavien kaksoisrunkoa tai vastaavaa rakennetta koskevien rakennevaatimusten nopeutetusta käyttöönotosta ja neuvoston asetuksen (EY) N:o 2978/94 kumoamisesta annetussa Euroopan parlamentin ja neuvoston asetuksessa (EY) N:o 417/2002 siihen myöhemmin tehtyine muutoksineen. Liikenteen turvallisuusvirasto voi määrätä samanarvoisuuksista ja myöntää kirjallisesta hakemuksesta poikkeuksia 1 momentissa tarkoitetuista vaatimuksista siten kuin MARPOL 73/78 -yleissopimuksen I liitteessä määrätään.",
+      "section_number": "4",
+      "chapter_number": 2,
+      "statute_id": "51/1983"
+    },
+    {
+      "id": "d0d15531-2076-4c81-93be-1b5e664a1e24",
+      "node_type": "Section",
+      "publisher": "finlex",
+      "title": "5 § Valmiussuunnitelma öljyvahingon varalle",
+      "text": "Suomalaisella öljysäiliöaluksella, jonka bruttovetoisuus on vähintään 150, ja muulla suomalaisella aluksella, jonka bruttovetoisuus on vähintään 400, on oltava MARPOL 73/78 -yleissopimuksen I liitteen mukainen Liikenteen turvallisuusviraston hyväksymä valmiussuunnitelma öljyvahingon varalle.",
+      "section_number": "5",
+      "chapter_number": 2,
+      "statute_id": "51/1983"
+    },
+    {
+      "id": "1b6c1d39-e079-4a2b-a021-e0cc0d63ad56",
+      "node_type": "Section",
+      "publisher": "finlex",
+      "title": "6 § Öljypäiväkirja",
+      "text": "Öljysäiliöaluksessa, jonka bruttovetoisuus on vähintään 150 aluksen päällikön tai hänen valvontansa alaisena muun päällystöön kuuluvan on pidettävä öljypäiväkirjaa. Sen lisäksi, mitä 1 momentissa säädetään, öljysäiliöaluksessa, jonka bruttovetoisuus on vähintään 150, ja muussa aluksessa, jonka bruttovetoisuus on vähintään 400, aluksen päällikön tai hänen valvontansa alaisena muun päällystöön kuuluvan on pidettävä koneistotiloja koskevaa öljypäiväkirjaa. Liikenteen turvallisuusvirasto vahvistaa öljypäiväkirjan kaavan MARPOL 73/78 -yleissopimuksen I liitteen mukaisesti. Liikenteen turvallisuusvirasto laatii MARPOL 73/78 -yleissopimuksen I liitteen mukaisesti öljypäiväkirjan mallin öljysäiliöaluksille, joiden bruttovetoisuus on alle 150. Liikenteen turvallisuusvirastolla ja aluksen ollessa ulkomaan satamassa asianomaisella ulkomaan viranomaisella on oikeus tarkastaa öljypäiväkirja ja saada siitä pyynnöstä aluksen päällikön oikeaksi todistama ote. Toimenpiteet, joihin Liikenteen turvallisuusvirasto tämän momentin nojalla ryhtyy, on suoritettava niin nopeasti kuin mahdollista aiheuttamatta alukselle tarpeetonta viivytystä. Öljypäiväkirja on pidettävä paikassa, jossa se on helposti saatavissa tarkastusta varten, ja sitä on säilytettävä kolme vuotta viimeisen merkinnän tekemisestä.",
+      "section_number": "6",
+      "chapter_number": 2,
+      "statute_id": "51/1983"
+    },
+    {
+      "id": "2c44264c-2b64-468f-baf0-3358d4d496b0",
+      "node_type": "Section",
+      "publisher": "finlex",
+      "title": "7 § IOPP-todistuskirja",
+      "text": "Öljysäiliöaluksen, joka on kansainvälisessä liikenteessä ja jonka bruttovetoisuus on vähintään 150, ja muun aluksen, joka on kansainvälisessä liikenteessä ja jonka bruttovetoisuus on vähintään 400, tulee täyttää MARPOL 73/78 -yleissopimuksen I liitteen rakenne- ja laitemääräykset. Tästä osoituksena alukselle myönnetään kansainvälinen todistuskirja öljyn aiheuttaman pilaantumisen ehkäisemisestä (IOPP-todistuskirja). Liikenteen turvallisuusvirasto antaa kirjallisesta hakemuksesta suomalaisen aluksen IOPP-todistuskirjan MARPOL 73/78 -yleissopimuksen I liitteen kaavan mukaisena edellyttäen, että alus täyttää MARPOL 73/78 -yleissopimuksen I liitteen vaatimukset. Liikenteen turvallisuusvirasto voi antaa ulkomaisen aluksen IOPP-todistuskirjan aluksen lippuvaltion pyynnöstä. Todistuskirja annetaan määräajaksi ja enintään viideksi vuodeksi kerrallaan.",
+      "section_number": "7",
+      "chapter_number": 2,
+      "statute_id": "51/1983"
+    },
+    {
+      "id": "53dbe270-1587-43df-b8d0-cec361efacb0",
+      "node_type": "Section",
+      "publisher": "finlex",
+      "title": "8 § Öljyn kuljettaminen sisävesialueella",
+      "text": "Sisävesialueella liikennöivässä öljysäiliöaluksessa on kiellettyä kuljettaa:",
+      "section_number": "8",
+      "chapter_number": 2,
+      "statute_id": "51/1983"
+    },
+    {
+      "id": "a322e186-e888-41d4-bb55-83e91b598784",
+      "node_type": "Section",
+      "publisher": "finlex",
+      "title": "9 § Porauslautat ja muut alustat",
+      "text": "MARPOL 73/78 -yleissopimuksen I liitteessä tarkoitettuihin kiinteisiin ja kelluviin porauslauttoihin, jotka toimivat merenpohjan kivennäisvarojen tutkimuksessa, hyödyntämisessä ja näihin liittyvässä rannikon ulkopuolella tapahtuvassa käsittelyssä, sekä muihin alustoihin sovelletaan:",
+      "section_number": "9",
+      "chapter_number": 2,
+      "statute_id": "51/1983"
+    },
+    {
+      "id": "e5c61acd-c64c-4c8f-8acd-ab4274393e16",
+      "node_type": "Section",
+      "publisher": "finlex",
+      "title": "10 § Tarkemmat säännökset ja määräykset",
+      "text": "Valtioneuvoston asetuksella voidaan antaa MARPOL 73/78 -yleissopimuksen I liitteen, Helsingin sopimuksen ja Suomen muiden kansainvälisten velvoitteiden sekä Euroopan yhteisön säädösten täytäntöön panemiseksi tarkempia säännöksiä Suomen aluevesillä ja talousvyöhykkeellä sekä suomalaisten alusten osalta myös Suomen aluevesien ja talousvyöhykkeen ulkopuolella öljypitoisen seoksen käsittelyyn, ominaisuuksiin ja alkuperään sekä aluksen, porauslautan tai muun alustan käyttöön liittyvistä päästörajoituksista. Liikenteen turvallisuusvirasto voi MARPOL 73/78 -yleissopimuksen I liitteen, Helsingin sopimuksen tai Euroopan yhteisön säädösten täytäntöön panemiseksi antaa teknisiä määräyksiä Suomen aluevesillä ja talousvyöhykkeellä sekä suomalaisten alusten osalta myös Suomen aluevesien ja talousvyöhykkeen ulkopuolella: Edellä 1 momentissa tarkoitetut tarkemmat säännökset ja 2 momentissa tarkoitetut tekniset määräykset voidaan ulottaa koskemaan myös sisävesialueella ja kotimaanliikenteessä purjehtivia aluksia.",
+      "section_number": "10",
+      "chapter_number": 2,
+      "statute_id": "51/1983"
+    },
+    {
+      "id": "874b4fdb-39d1-4f89-8bc1-264ff0764456",
+      "node_type": "Section",
+      "publisher": "finlex",
+      "title": "1 § Öljypäästömaksun maksuvelvollisuus",
+      "text": "Edellä 2 luvun 1 §:ssä tarkoitetun öljyn tai öljypitoisen seoksen päästökiellon rikkomisesta aluevesillä tai Suomen talousvyöhykkeellä määrätään seuraamusmaksu (öljypäästömaksu), jollei päästöä ole pidettävä määrältään ja vaikutuksiltaan vähäisenä. Kauttakulussa olevalta ulkomaiselta alukselta Suomen talousvyöhykkeellä tehdystä päästökiellon rikkomisesta määrätään öljypäästömaksu kuitenkin vain, jos päästöstä aiheutuu Suomen rantaviivalle tai siihen liittyville eduille taikka Suomen aluemeren tai talousvyöhykkeen luonnonvaroille huomattavaa vahinkoa tai sen vaaraa. Öljypäästömaksu määrätään luonnolliselle henkilölle tai oikeushenkilölle, joka rikkomuksen tapahtumahetkellä on aluksen omistaja tai laivanisäntä (maksuvelvollinen). Öljypäästömaksua ei voida määrätä aluksen omistajalle, jos tämä osoittaa laivanisännän, joka on käyttänyt alusta omistajan asemesta. Laivanisännistöyhtiössä laivanisännät vastaavat öljypäästömaksusta yhteisvastuullisesti. Tämän luvun säännöksiä ei sovelleta poliisin, tullin, puolustusvoimien eikä rajavartiolaitoksen aluksiin.",
+      "section_number": "1",
+      "chapter_number": 3,
+      "statute_id": "51/1983"
+    },
+    {
+      "id": "fde142af-746c-4939-958c-53daad8a9393",
+      "node_type": "Section",
+      "publisher": "finlex",
+      "title": "2 § Öljypäästömaksun määrä",
+      "text": "Öljypäästömaksu määrätään päästön määrän ja aluksen bruttovetoisuuden perusteella lain liitteenä olevan maksutaulukon mukaan.",
+      "section_number": "2",
+      "chapter_number": 3,
+      "statute_id": "51/1983"
+    },
+    {
+      "id": "35841ff9-6eb4-4f2c-b71d-fe822628078a",
+      "node_type": "Section",
+      "publisher": "finlex",
+      "title": "3 § Vapautus öljypäästömaksusta",
+      "text": "Öljypäästömaksu voidaan jättää määräämättä tai maksua voidaan alentaa, jos maksuvelvollinen osoittaa, että maksun määrääminen olisi sellaisen hätä- tai onnettomuustilanteen, johon ei voida soveltaa 2 luvun 2 §:n poikkeussäännöksiä, taikka muun tähän rinnastettavan syyn vuoksi ilmeisen kohtuutonta.",
+      "section_number": "3",
+      "chapter_number": 3,
+      "statute_id": "51/1983"
+    },
+    {
+      "id": "f3163bd2-23c2-4632-9039-323ca18a8fe3",
+      "node_type": "Section",
+      "publisher": "finlex",
+      "title": "4 § Öljypäästömaksun toissijaisuus",
+      "text": "Öljypäästömaksua ei voida määrätä sille, joka on lainvoimaisesti tuomittu rangaistukseen kyseisestä öljypäästöstä. Öljypäästömaksun määränneen viranomaisen on hakemuksesta poistettava maksu, jos se, jolle on määrätty öljypäästömaksu, myöhemmin tuomitaan rangaistukseen samasta öljypäästöstä.",
+      "section_number": "4",
+      "chapter_number": 3,
+      "statute_id": "51/1983"
+    },
+    {
+      "id": "b881fd82-2728-4aee-aa46-06cfbd9231d9",
+      "node_type": "Section",
+      "publisher": "finlex",
+      "title": "5 § Öljypäästömaksun määrääminen",
+      "text": "Öljypäästömaksun määrää rajavartiolaitos. Rajavartiolaitoksessa asiasta päättää merivartioston komentaja, apulaiskomentaja tai meritoimiston päällikkö. Öljypäästömaksu määrätään maksettavaksi valtiolle.",
+      "section_number": "5",
+      "chapter_number": 3,
+      "statute_id": "51/1983"
+    },
+    {
+      "id": "3aea0ed5-9142-401b-911c-0c4891a14cc4",
+      "node_type": "Section",
+      "publisher": "finlex",
+      "title": "6 § Toimet öljypäästömaksun määräämisen turvaamiseksi",
+      "text": "Öljypäästömaksun määräämiseksi voidaan ryhtyä sellaisiin asian selvittämiseksi tarpeellisiin toimenpiteisiin kuin tässä luvussa ja 12 luvun 9―11 §:ssä säädetään Rajavartiolaitos voi pysäyttää aluksen 12 luvun 9 ja 10 §:ssä säädetyillä edellytyksillä myös, jos se on perusteltua maksusaatavan turvaamiseksi. Pysäyttämispäätös voidaan tehdä perustellusta syystä ennen maksupäätöksen tekemistä. Aluksen matkan jatkamisen ehdoksi voidaan määrätä, että rajavartiolaitokselle asetetaan riittävä rahavakuus mahdollisen maksuvelvollisuuden täyttämiseksi. Vakuuden tallettamisesta on voimassa, mitä rahan, arvo-osuuksien, arvopaperien tai asiakirjain tallettamisesta velan maksuna tai vapautumiseksi muusta suoritusvelvollisuudesta annetussa laissa (281/1931) säädetään. Vakuus on palautettava sen asettajalle, kun edellytyksiä sen pitämiselle ei enää ole. Pysäyttämispäätöstä ja vakuuden asettamispäätöstä on noudatettava muutoksenhausta huolimatta. Jos öljypäästömaksun maksamisesta on asetettu vakuus tai jos ei muutoin enää ole perusteita aluksen pysäyttämiselle, pysäytysmääräys on välittömästi peruutettava. Päätös aluksen pysäyttämisestä on voimassa enintään 14 päivää päätöksen antamisesta lukien. Ulkomaisen aluksen matkan jatkamiselle asetetuista ehdoista on viipymättä ilmoitettava aluksen lippuvaltiolle.",
+      "section_number": "6",
+      "chapter_number": 3,
+      "statute_id": "51/1983"
+    },
+    {
+      "id": "0f778b16-b1a7-4b18-98d1-6c4d8efd3c42",
+      "node_type": "Section",
+      "publisher": "finlex",
+      "title": "7 § Tilaisuus tulla kuulluksi",
+      "text": "Ennen maksupäätöstä on aluksen omistajalle tai laivanisännälle varattava tilaisuus antaa selityksensä asian laatuun nähden riittävässä määräajassa. Jos 6 §:n 2 momentissa tarkoitetun päätöksen tarkoituksen toteutuminen saattaa muuten vaarantua, asian saa ratkaista asianosaista kuulematta. Aluksen päällikkö edustaa maksuvelvollista öljypäästömaksua koskevissa asioissa.",
+      "section_number": "7",
+      "chapter_number": 3,
+      "statute_id": "51/1983"
+    },
+    {
+      "id": "cff68095-c5fd-4be1-9c33-da305e76467a",
+      "node_type": "Section",
+      "publisher": "finlex",
+      "title": "8 § Virka-apu öljypäästömaksua koskevassa asiassa",
+      "text": "Viranomaisen on annettava rajavartiolaitokselle öljypäästömaksua koskevan tehtävän suorittamiseksi sellaista tarpeellista virka-apua, jonka antamiseen se on toimivaltainen.",
+      "section_number": "8",
+      "chapter_number": 3,
+      "statute_id": "51/1983"
+    },
+    {
+      "id": "a768efbd-dd12-4023-88bc-b2cc3739b1a0",
+      "node_type": "Section",
+      "publisher": "finlex",
+      "title": "9 § Oikeus saada tietoja",
+      "text": "Jos tiedon antamisesta ei aiheudu haittaa asian selvittämiselle, esitutkintaviranomaisella on viranomaisten toiminnan julkisuudesta annetun lain (621/1999) salassapitosäännösten estämättä oikeus luovuttaa rajavartiolaitokselle sellaisia laittoman öljypäästön esitutkinnassa esille tulleita tietoja, joilla voi olla merkitystä päätettäessä öljypäästömaksun määräämisestä samasta öljypäästöstä.",
+      "section_number": "9",
+      "chapter_number": 3,
+      "statute_id": "51/1983"
+    },
+    {
+      "id": "251c6223-b1a5-4ed6-9cd9-4df0cca6e086",
+      "node_type": "Section",
+      "publisher": "finlex",
+      "title": "10 § Muutoksenhakuoikeus",
+      "text": "Maksuvelvollisella on oikeus hakea muutosta öljypäästömaksua koskevaan päätökseen sekä 6 §:n 2 momentissa tarkoitettuun päätökseen valittamalla Helsingin käräjäoikeudessa toimivaan merioikeuteen. Merioikeus on päätösvaltainen merilain (674/1994) 21 luvun 1 §:n 3 momentissa tarkoitetussa kokoonpanossa.",
+      "section_number": "10",
+      "chapter_number": 3,
+      "statute_id": "51/1983"
+    },
+    {
+      "id": "f1ffc553-e50b-490d-8a9e-d672db733d79",
+      "node_type": "Section",
+      "publisher": "finlex",
+      "title": "11 § Valituksen tekeminen",
+      "text": "Valitus on tehtävä kirjallisesti 30 päivän kuluessa siitä, kun päätös valitusosoituksineen on annettu maksuvelvolliselle tiedoksi. Valituskirjelmä toimitetaan rajavartiolaitokselle. Rajavartiolaitoksen on viipymättä toimitettava valituskirjelmä Helsingin käräjäoikeuden kansliaan sekä liitettävä siihen jäljennökset kertyneestä asiakirja-aineistosta ja oma lausumansa. Asiakirjoja käräjäoikeudelle toimitettaessa on ilmoitettava, milloin valituskirjelmä on saapunut. Valitus tulee vireille merioikeudessa silloin, kun 2 momentissa tarkoitetut asiakirjat saapuvat tuomioistuimen kansliaan. Tuomioistuimen on viivytyksettä annettava valittajalle ja rajavartiolaitokselle tieto käsittelyn ajasta ja paikasta sekä valittajan poissaolon seurauksista. Jos valittaja on toimittanut valituskirjelmän määräajassa suoraan toimivaltaiseen tuomioistuimeen, hän ei menetä puhevaltaansa.",
+      "section_number": "11",
+      "chapter_number": 3,
+      "statute_id": "51/1983"
+    },
+    {
+      "id": "d0331550-e5da-4c96-bdf6-d3e34a59a58e",
+      "node_type": "Section",
+      "publisher": "finlex",
+      "title": "12 § Menettely merioikeudessa",
+      "text": "Merioikeuden on valituksen ja muun asiassa saadun selvityksen perusteella tutkittava, onko öljypäästömaksun määräämiselle ollut edellytyksiä. Asian käsittelystä on soveltuvin osin voimassa, mitä oikeudenkäynnistä rikosasiassa säädetään. Asiaa merioikeudessa käsiteltäessä rajavartiolaitoksen tulee näyttää toteen sellaiset tarpeelliset seikat, jotka ovat olleet perusteena öljypäästömaksun määräämiselle. Merioikeuden on huolehdittava siitä, että asia tulee perusteellisesti käsitellyksi. Päätöksentekijän tai häntä edustavan virkamiehen on oltava läsnä merioikeudessa valitusta käsiteltäessä. Valituksen tekijällä on oikeus olla läsnä merioikeudessa. Asia voidaan tutkia ja ratkaista valituksen tekijän poissaolosta huolimatta, jos:",
+      "section_number": "12",
+      "chapter_number": 3,
+      "statute_id": "51/1983"
+    },
+    {
+      "id": "09707785-c601-4561-bf0a-e519978ee160",
+      "node_type": "Section",
+      "publisher": "finlex",
+      "title": "13 § Jatkovalitus",
+      "text": "Muutosta merioikeuden ratkaisuun haetaan hovioikeudelta valittamalla siten kuin oikeudenkäymiskaaressa säädetään. Merioikeuden päätökseen aluksen pysäyttämistä ja vakuuden asettamista koskevassa asiassa ei saa hakea muutosta valittamalla. Asian käsittelystä hovioikeudessa ja muutoksenhausta korkeimpaan oikeuteen on soveltuvin osin voimassa, mitä oikeudenkäymiskaaren 26 ja 30 luvussa säädetään. Hovioikeuden on valitusasiaa käsiteltäessä varattava rajavartiolaitokselle tilaisuus tulla kuulluksi valituksen johdosta ja tarvittaessa esittää selvitystä asiassa. Rajavartiolaitoksella on oikeus oikeuskäytännön yhtenäisyyden ylläpitämiseksi hakea muutosta merioikeuden ja hovioikeuden tämän lain nojalla tekemään ratkaisuun, jos merioikeus tai hovioikeus on muuttanut rajavartiolaitoksen päätöstä tai kumonnut sen.",
+      "section_number": "13",
+      "chapter_number": 3,
+      "statute_id": "51/1983"
+    },
+    {
+      "id": "c7a22f48-3415-4123-be18-6a21cfb2a6f4",
+      "node_type": "Section",
+      "publisher": "finlex",
+      "title": "14 § Öljypäästömaksun määräämisen määräaika",
+      "text": "Öljypäästömaksua ei voida määrätä, kun päästöstä on kulunut kolme vuotta.",
+      "section_number": "14",
+      "chapter_number": 3,
+      "statute_id": "51/1983"
+    },
+    {
+      "id": "f54a5a70-e241-4898-ad6e-649c287844c4",
+      "node_type": "Section",
+      "publisher": "finlex",
+      "title": "15 § Öljypäästömaksun täytäntöönpano",
+      "text": "Maksupäätös pannaan täytäntöön sen jälkeen, kun se on tullut lainvoimaiseksi.",
+      "section_number": "15",
+      "chapter_number": 3,
+      "statute_id": "51/1983"
+    },
+    {
+      "id": "4d2e323a-7537-42e7-83b0-4655c1e5cb55",
+      "node_type": "Section",
+      "publisher": "finlex",
+      "title": "16 § Öljypäästömaksun maksamisen määräaika ja korko",
+      "text": "Öljypäästömaksu on maksettava 30 päivän kuluessa päätöksen tiedoksi saamisesta. Maksettavaksi erääntyneelle öljypäästömaksulle, jota ei ole suoritettu viimeistään eräpäivänä, peritään viivästyskorkoa korkolain (633/1982) 4 §:n 1 momentissa tarkoitetun korkokannan mukaan.",
+      "section_number": "16",
+      "chapter_number": 3,
+      "statute_id": "51/1983"
+    },
+    {
+      "id": "14660a86-2e54-4a23-91e7-1627d1d7f5ca",
+      "node_type": "Section",
+      "publisher": "finlex",
+      "title": "17 § Öljypäästömaksun täytäntöönpanosta vastaava viranomainen",
+      "text": "Öljypäästömaksua koskevan päätöksen täytäntöönpanosta huolehtii Oikeusrekisterikeskus. Rajavartiolaitoksen ja tuomioistuimen on ilmoitettava päätöksestään Oikeusrekisterikeskukselle. Oikeusrekisterikeskukselle on ilmoitettava myös päätöksestä, jolla öljypäästömaksua on alennettu tai maksu on poistettu.",
+      "section_number": "17",
+      "chapter_number": 3,
+      "statute_id": "51/1983"
+    },
+    {
+      "id": "d460f869-c46e-4e42-a4f1-5eae96730de8",
+      "node_type": "Section",
+      "publisher": "finlex",
+      "title": "1 § Haitallisten nestemäisten aineiden luokitus",
+      "text": "MARPOL 73/78 -yleissopimuksen II liitteen 6 säännön mukaisesti luokkiin X, Y tai Z kuuluvien haitallisten nestemäisten aineiden kuljettamiseen sovelletaan mainitun liitteen määräyksiä. Jos nestemäinen aine ei kuulu luokkaan X, Y tai Z, aine arvioidaan II liitteen mukaisesti sen kuljettamiseen sovellettavien menettelyjen arvioimiseksi. Liikenteen turvallisuusvirasto voi yksittäistapauksessa kirjallisesta hakemuksesta myöntää haitallisen nestemäisen aineen luokitusta koskevan poikkeuksen, kun kyseistä ainetta kuljetetaan kotimaan liikenteessä edellyttäen, että luokitussäännösten noudattaminen aiheuttaisi kohtuutonta hankaluutta tai kohtuuttomia kustannuksia ja olisi vähäiseen ympäristölle aiheutuvan vahingon vaaraan nähden aiheetonta.",
+      "section_number": "1",
+      "chapter_number": 4,
+      "statute_id": "51/1983"
+    },
+    {
+      "id": "828153ae-25de-4b53-abe0-78215eedc72a",
+      "node_type": "Section",
+      "publisher": "finlex",
+      "title": "2 § Haitallisen nestemäisen aineen päästökielto ja päästörajoitukset",
+      "text": "Haitallisen nestemäisen aineen päästäminen aluksesta veteen on kielletty Suomen vesialueella ja talousvyöhykkeellä ja suomalaisesta aluksesta myös Suomen aluevesien ja talousvyöhykkeen ulkopuolella siten kuin MARPOL 73/78 -yleissopimuksen II liitteessä, Helsingin sopimuksessa taikka Suomea sitovissa muissa kansainvälisissä velvoitteissa määrätään tai Euroopan yhteisön säädöksissä säädetään. Haitallisen nestemäisen aineen ja sitä sisältävän seoksen tyhjentäminen veteen suomalaisesta aluksesta Etelämantereen alueella on kielletty.",
+      "section_number": "2",
+      "chapter_number": 4,
+      "statute_id": "51/1983"
+    },
+    {
+      "id": "df8fb1bc-75da-4e7d-bf92-74c7d234a982",
+      "node_type": "Section",
+      "publisher": "finlex",
+      "title": "3 § Haitallisen nestemäisen aineen päästäminen poikkeustilanteissa",
+      "text": "Mitä 2 §:ssä säädetään, ei koske haitallisen nestemäisen aineen päästämistä veteen, jos: Mitä 1 momentin 2 kohdassa säädetään, ei koske tapauksia, joissa laivanisännän tai aluksen päällikön aikomuksena on ollut aiheuttaa vahinko tai hän on toiminut huolimattomasti tietäen, että vahinko todennäköisesti seuraisi.",
+      "section_number": "3",
+      "chapter_number": 4,
+      "statute_id": "51/1983"
+    },
+    {
+      "id": "0ab3d9d7-61bc-42fa-8b0d-747bd3b4f4c4",
+      "node_type": "Section",
+      "publisher": "finlex",
+      "title": "4 § Kemikaalisäiliöaluksen rakenne- ja laitevaatimukset",
+      "text": "Edellä 1 §:ssä tarkoitettuihin luokkiin X, Y tai Z kuuluvia haitallisia nestemäisiä aineita kuljettavan kemikaalisäiliöaluksen tulee täyttää MARPOL 73/78 -yleissopimuksen II liitteessä kemikaalisäiliöalukselle asetetut vaatimukset. Liikenteen turvallisuusvirasto hyväksyy kemikaalisäiliöalusten pumppaus- ja putkistojärjestelyjen suorituskykytestit siten kuin MARPOL 73/78 -yleissopimuksen II liitteessä määrätään. Liikenteen turvallisuusvirasto voi myöntää vapautuksia ja kirjallisesta hakemuksesta poikkeuksia 1 momentissa tarkoitetuista vaatimuksista sekä määrätä samanarvoisuuksista siten kuin MARPOL 73/78 -yleissopimuksen II liitteessä määrätään.",
+      "section_number": "4",
+      "chapter_number": 4,
+      "statute_id": "51/1983"
+    },
+    {
+      "id": "cbb8beec-7db6-4c68-84ef-a44492ab9545",
+      "node_type": "Section",
+      "publisher": "finlex",
+      "title": "5 § Valmiussuunnitelma meriympäristövahingon varalle",
+      "text": "Kemikaalisäiliöaluksella, jonka bruttovetoisuus on vähintään 150, on oltava valmiussuunnitelma haitallisen nestemäisen aineen aiheuttaman meriympäristövahingon varalle siten kuin MARPOL 73/78 -yleissopimuksen II liitteessä määrätään. Edellä 1 momentissa tarkoitettu suunnitelma voidaan yhdistää 2 luvun 5 §:ssä tarkoitetun öljyvahingon varalle laaditun valmiussuunnitelman kanssa valmiussuunnitelmaksi aluksen aiheuttaman meriympäristövahingon varalle. Liikenteen turvallisuusvirasto hyväksyy 1 ja 2 momentissa tarkoitetut valmiussuunnitelmat.",
+      "section_number": "5",
+      "chapter_number": 4,
+      "statute_id": "51/1983"
+    },
+    {
+      "id": "83a01e72-aeb9-4dc2-b837-4be3c3f6b09e",
+      "node_type": "Section",
+      "publisher": "finlex",
+      "title": "6 § Menettelytapaohjekirja",
+      "text": "Kemikaalisäiliöaluksen päällikön tai hänen valvontansa alaisena muun päällystöön kuuluvan on pidettävä menettelytapaohjekirjaa aluksen tyhjennystä ja pesua varten siten kuin MARPOL 73/78 -yleissopimuksen II liitteessä määrätään. Liikenteen turvallisuusvirasto hyväksyy kirjallisesta hakemuksesta aluksen menettelytapaohjekirjan edellyttäen, että se täyttää MARPOL 73/78 -yleissopimuksen II liitteen vaatimukset.",
+      "section_number": "6",
+      "chapter_number": 4,
+      "statute_id": "51/1983"
+    },
+    {
+      "id": "d4e382ff-df48-4f83-b8ca-5e43307f4d32",
+      "node_type": "Section",
+      "publisher": "finlex",
+      "title": "7 § Lastipäiväkirja",
+      "text": "Kemikaalisäiliöaluksen päällikön tai hänen valvontansa alaisena muun päällystöön kuuluvan on pidettävä lastipäiväkirjaa lastia koskevista toimenpiteistä ja lastin tyhjentämisessä tapahtuneista vahingoista siten kuin MARPOL 73/78 -yleissopimuksen II liitteessä määrätään. Liikenteen turvallisuusvirastolla ja aluksen ollessa ulkomaan satamassa asianomaisella ulkomaan viranomaisella on oikeus tarkastaa lastipäiväkirja ja saada siitä pyynnöstä aluksen päällikön oikeaksi todistama ote. Toimenpiteet, joihin Liikenteen turvallisuusvirasto tämän momentin nojalla ryhtyy, on suoritettava niin nopeasti kuin mahdollista aiheuttamatta alukselle tarpeetonta viivytystä. Lastipäiväkirja on pidettävä paikassa, jossa se on helposti saatavissa tarkastusta varten, ja sitä on säilytettävä kolme vuotta viimeisen merkinnän tekemisestä. Liikenteen turvallisuusvirasto vahvistaa lastipäiväkirjan kaavan.",
+      "section_number": "7",
+      "chapter_number": 4,
+      "statute_id": "51/1983"
+    },
+    {
+      "id": "1609bf1a-6afb-463c-b065-15990e170d10",
+      "node_type": "Section",
+      "publisher": "finlex",
+      "title": "8 § Muut haitallisten nestemäisten aineiden kuljetuksen todistuskirjat",
+      "text": "Kemikaalisäiliöaluksella on oltava todistuskirja siitä, että alus täyttää Kansainvälisen merenkulkujärjestön nestemäisten vaarallisten kemikaalien merikuljetussäännöstön (IBC-säännöstö) tai kemikaalien irtolastikuljetussäännöstön (BCH-säännöstö) vaatimukset. Kemikaalisäiliöaluksella on oltava todistuskirja siitä, että alus täyttää kaikki Kansainvälisen merenkulkujärjestön kansainvälisen kemikaalialussäännöstön 3 tyypin alusta koskevat vaatimukset, lastisäiliön sijaintia lukuun ottamatta, siten kuin MARPOL 73/78 -yleissopimuksen II liitteessä määrätään. Liikenteen turvallisuusvirasto antaa kirjallisesta hakemuksesta 1 tai 2 momentissa tarkoitetun todistuskirjan edellyttäen, että alus täyttää II liitteen vaatimukset. Liikenteen turvallisuusvirasto voi antaa todistuskirjan myös ulkomaiselle alukselle sen lippuvaltion pyynnöstä. Todistuskirja annetaan määräajaksi ja enintään viideksi vuodeksi kerrallaan.",
+      "section_number": "8",
+      "chapter_number": 4,
+      "statute_id": "51/1983"
+    },
+    {
+      "id": "0e2c75df-9060-4c75-90a4-1fb4e258d52f",
+      "node_type": "Section",
+      "publisher": "finlex",
+      "title": "9 § Lastin purkaminen ja säiliön pesun valvonta",
+      "text": "Kemikaalisäiliöaluksen päällikkö vastaa siitä, että haitallinen nestemäinen aine puretaan, säiliöt ja putkistot puhdistetaan, pesuvesi tyhjennetään ja merkinnät lastipäiväkirjaan tehdään MARPOL 73/78 -yleissopimuksen II liitteen ja Helsingin sopimuksen määräysten mukaisesti. Satamissa, joissa lastataan tai puretaan haitallisia nestemäisiä aineita, Liikenteen turvallisuusviraston valtuuttamien tarkastajien on tarkastettava, että eri luokkiin kuuluvien lastien lastaus ja purkaminen, alusten säiliöiden ja putkistojen pesu, merkinnät lastipäiväkirjaan ja muut näihin verrattavat toimenpiteet suoritetaan tämän lain ja sen nojalla annettujen säännösten ja määräysten sekä MARPOL 73/78 -yleissopimuksen II liitteen ja Helsingin sopimuksen mukaisesti. Alus vastaa tarkastuksen kustannuksista. Aluksen asiamiehen tulee tiedottaa Liikenteen turvallisuusvirastolle satamassa tapahtuvasta luokkaan X tai Y kuuluvan haitallisen nestemäisen aineen purkamisesta. Ilmoitus tulee tehdä hyvissä ajoin ja mikäli mahdollista vähintään 48 tuntia ennen aiottua purkamista. Esipesuun ja lastitilojen tuulettamiseen sovelletaan MARPOL 73/79 -yleissopimuksen II liitteen määräyksiä. Liikenteen turvallisuusvirasto voi antaa vapautuksia esipesusta ja määräyksiä lastin jäännösten tuulettamisesta II liitteen mukaisesti.",
+      "section_number": "9",
+      "chapter_number": 4,
+      "statute_id": "51/1983"
+    },
+    {
+      "id": "16c2b239-675d-4ad8-92fd-8e3016508263",
+      "node_type": "Section",
+      "publisher": "finlex",
+      "title": "10 § Tarkemmat säännökset ja määräykset",
+      "text": "Valtioneuvoston asetuksella voidaan antaa MARPOL 73/78 -yleissopimuksen II liitteen, Helsingin sopimuksen ja Suomen muiden kansainvälisten velvoitteiden sekä Euroopan yhteisön säädösten täytäntöön panemiseksi tarkempia säännöksiä Suomen aluevesillä ja talousvyöhykkeellä sekä suomalaisten alusten osalta myös Suomen aluevesien ja talousvyöhykkeen ulkopuolella: Liikenteen turvallisuusvirasto voi MARPOL 73/78 -yleissopimuksen II liitteen, Helsingin sopimuksen tai Euroopan yhteisön säädösten täytäntöön panemiseksi antaa teknisiä määräyksiä Suomen aluevesillä ja talousvyöhykkeellä sekä suomalaisten alusten osalta myös Suomen aluevesien ja talousvyöhykkeen ulkopuolella: Edellä 1 momentissa tarkoitetut säännökset ja 2 momentissa tarkoitetut tekniset määräykset voidaan ulottaa koskemaan myös sisävesialueella ja kotimaanliikenteessä purjehtivia aluksia.",
+      "section_number": "10",
+      "chapter_number": 4,
+      "statute_id": "51/1983"
+    },
+    {
+      "id": "b5c751de-20d8-40a0-9ded-24042c500a0d",
+      "node_type": "Section",
+      "publisher": "finlex",
+      "title": "1 § Käymäläjäteveden päästökielto ja päästörajoitus",
+      "text": "Käsittelemättömän ja käsitellyn käymäläjäteveden päästäminen aluksesta veteen on kielletty Suomen vesialueella ja talousvyöhykkeellä ja suomalaisesta aluksesta myös Suomen aluevesien ja talousvyöhykkeen ulkopuolella siten kuin MARPOL 73/78 -yleissopimuksen IV liitteessä, Helsingin sopimuksessa taikka Suomea sitovissa muissa kansainvälisissä velvoitteissa määrätään tai Euroopan yhteisön säädöksissä säädetään.",
+      "section_number": "1",
+      "chapter_number": 5,
+      "statute_id": "51/1983"
+    },
+    {
+      "id": "a014c02f-859b-4ccb-8874-a89174b0df61",
+      "node_type": "Section",
+      "publisher": "finlex",
+      "title": "2 § Käymäläjäteveden päästäminen poikkeustilanteissa",
+      "text": "Mitä 1 §:ssä säädetään, ei koske käymäläjäteveden päästämistä veteen, jos:",
+      "section_number": "2",
+      "chapter_number": 5,
+      "statute_id": "51/1983"
+    },
+    {
+      "id": "7dc1922b-73de-4084-86fd-34442d588c0c",
+      "node_type": "Section",
+      "publisher": "finlex",
+      "title": "3 § Alusta koskevat vaatimukset",
+      "text": "Aluksen, jonka bruttovetoisuus on vähintään 400 tai joka saa kuljettaa yli 15 henkilöä, tulee täyttää MARPOL 73/78 -yleissopimuksen IV liitteen vaatimukset. Käymälällä varustetun suomalaisen aluksen, joka ei täytä 1 momentin edellytyksiä eikä ole huvivene, tulee täyttää MARPOL 73/78 -yleissopimuksen IV liitteen vaatimukset.",
+      "section_number": "3",
+      "chapter_number": 5,
+      "statute_id": "51/1983"
+    },
+    {
+      "id": "4b01c8d2-6182-4b2b-a7be-577d7dc4726a",
+      "node_type": "Section",
+      "publisher": "finlex",
+      "title": "4 § Huvivenettä koskevat vaatimukset",
+      "text": "Käymälällä varustettu huvivene on varustettava käymäläjätevettä varten käymäläjärjestelmillä Helsingin sopimuksen IV liitteen 5 säännön mukaisesti siten, että aluksella on oltava toiminnassa käymäläjäteveden keräilysäiliö tai käymäläjäteveden käsittelylaitteisto, joka on MARPOL 73/78 -yleissopimuksen mukainen. Huviveneen vesikäymälä on liitettävä käymäläjäteveden keräilysäiliöön tai käymäläjäteveden käsittelylaitteistoon.",
+      "section_number": "4",
+      "chapter_number": 5,
+      "statute_id": "51/1983"
+    },
+    {
+      "id": "3ed897a9-d249-48de-9c6a-4cac09d0d8a1",
+      "node_type": "Section",
+      "publisher": "finlex",
+      "title": "5 § ISPP-todistuskirja",
+      "text": "Kansainvälisessä liikenteessä olevalla aluksella, jonka bruttovetoisuus on vähintään 400 tai joka saa kuljettaa yli 15 henkilöä, tulee täyttää MARPOL 73/78 -yleissopimuksen IV liitteen mukaiset vaatimukset. Tästä osoituksena alukselle annetaan käymäläjäteveden aiheuttaman pilaantumisen ehkäisemisestä annettu kansainvälinen todistuskirja (ISPP-todistuskirja). Liikenteen turvallisuusvirasto antaa kirjallisesta hakemuksesta suomalaisen aluksen ISPP-todistuskirjan MARPOL 73/78 -yleissopimuksen IV liitteen kaavan mukaisena edellyttäen, että alus täyttää yleissopimuksen IV liitteen vaatimukset. Liikenteen turvallisuusvirasto voi antaa ulkomaisen aluksen ISPP-todistuskirjan aluksen lippuvaltion pyynnöstä. Todistuskirja annetaan määräajaksi ja enintään viideksi vuodeksi kerrallaan.",
+      "section_number": "5",
+      "chapter_number": 5,
+      "statute_id": "51/1983"
+    },
+    {
+      "id": "6548dc78-49d6-4bf0-a593-c34da012b1d5",
+      "node_type": "Section",
+      "publisher": "finlex",
+      "title": "6 § Poikkeuksen myöntäminen käymäläjäteveden päästökiellosta",
+      "text": "Liikenteen turvallisuusvirasto voi kirjallisesta hakemuksesta myöntää Helsingin sopimuksen IV liitteen mukaisilla edellytyksillä poikkeuksen kiellosta tai rajoituksesta päästää käsittelemätöntä käymäläjätevettä veteen sekä käymäläjärjestelmien vaatimustenmukaisuudesta Suomen vesialueella, jos poikkeus ei ole Suomen kansainvälisten velvoitteiden tai Euroopan yhteisön säädösten vastainen ja poikkeuksen merkitys on vesiensuojelun kannalta vähäinen. Edellä 1 momentissa mainittujen edellytysten lisäksi poikkeuksen myöntämisen edellytyksenä on, että: Liikenteen turvallisuusviraston on lähetettävä tiedot tässä pykälässä tarkoitetuista päätöksistä Itämeren suojelukomissiolle.",
+      "section_number": "6",
+      "chapter_number": 5,
+      "statute_id": "51/1983"
+    },
+    {
+      "id": "00f57e9f-7168-488f-b910-b8354c2f5a6e",
+      "node_type": "Section",
+      "publisher": "finlex",
+      "title": "7 § Tarkemmat säännökset",
+      "text": "Valtioneuvoston asetuksella voidaan antaa MARPOL 73/78 -yleissopimuksen IV liitteen, Helsingin sopimuksen ja Suomen muiden kansainvälisten velvoitteiden sekä Euroopan yhteisön säädösten täytäntöön panemiseksi tarkempia säännöksiä Suomen aluevesillä ja talousvyöhykkeellä sekä suomalaisten alusten osalta myös Suomen aluevesien ja talousvyöhykkeen ulkopuolella: Edellä 1 momentissa tarkoitetut tarkemmat säännökset voidaan ulottaa koskemaan myös sisävesialueella ja kotimaanliikenteessä purjehtivia aluksia.",
+      "section_number": "7",
+      "chapter_number": 5,
+      "statute_id": "51/1983"
+    },
+    {
+      "id": "a027d7fd-a66d-4fda-90d6-f2cf489b0700",
+      "node_type": "Section",
+      "publisher": "finlex",
+      "title": "1 § Kiinteän jätteen veteen poistamiskielto ja poistamisrajoitus",
+      "text": "Kiinteän jätteen poistaminen aluksesta veteen on kielletty Suomen vesialueella ja talousvyöhykkeellä ja suomalaisesta aluksesta myös Suomen aluevesien ja talousvyöhykkeen ulkopuolella siten kuin MARPOL 73/78 -yleissopimuksen V liitteessä, Helsingin sopimuksessa taikka Suomea sitovissa muissa kansainvälisissä velvoitteissa määrätään tai Euroopan yhteisön säädöksissä säädetään. Kiinteän jätteen poistaminen veteen suomalaiselta alukselta tai kiinteältä ja kelluvalta alustalta, jota käytetään merenpohjan kivennäisvarojen tutkimisessa, hyväksikäytössä ja niihin liittyvässä rannikon ulkopuolella tapahtuvassa toiminnassa, on kielletty siten kuin MARPOL 73/78 -yleissopimuksen V liitteessä, Helsingin sopimuksessa tai Suomea sitovissa muissa kansainvälisissä velvoitteissa määrätään tai Euroopan yhteisön säädöksissä säädetään. Liikenteen turvallisuusvirasto voi MARPOL 73/78 -yleissopimuksen V liitteen mukaisesti tyyppihyväksyä kiinteän jätteen hienonnuslaitteistoja, joita käytettäessä voidaan noudattaa MARPOL 73/78 -yleissopimuksen V liitteessä tarkoitettuja lievempiä määräyksiä kiinteän jätteen veteen hävittämisestä.",
+      "section_number": "1",
+      "chapter_number": 6,
+      "statute_id": "51/1983"
+    },
+    {
+      "id": "aa5f56fc-6e27-431b-aa1b-9313bac6ec52",
+      "node_type": "Section",
+      "publisher": "finlex",
+      "title": "2 § Kiinteän jätteen poistaminen poikkeustilanteissa",
+      "text": "Mitä 1 §:ssä säädetään, ei koske kiinteän jätteen poistamista veteen, jos:",
+      "section_number": "2",
+      "chapter_number": 6,
+      "statute_id": "51/1983"
+    },
+    {
+      "id": "22839069-9749-4756-86cb-268265a83840",
+      "node_type": "Section",
+      "publisher": "finlex",
+      "title": "3 § Kiinteän jätteen veteen poistamisen kiellosta ja rajoittamisesta ilmoittava kyltti",
+      "text": "Aluksella, jonka pituus on vähintään 12 metriä, on oltava näkyvällä paikalla MARPOL 73/78 -yleissopimuksen V liitteessä tarkoitettu kyltti siitä, että aluksella noudatetaan V liitteen 3 ja 5 säännössä edellytettyjä kiinteän jätteen käsittelyä koskevia vaatimuksia. Kyltti laaditaan aluksen työkielellä ja kansainvälisillä matkoilla lisäksi joko englanniksi, ranskaksi tai espanjaksi.",
+      "section_number": "3",
+      "chapter_number": 6,
+      "statute_id": "51/1983"
+    },
+    {
+      "id": "ca04571b-3d6c-4662-9b53-247d4ad537e1",
+      "node_type": "Section",
+      "publisher": "finlex",
+      "title": "4 § Aluksen jätehuoltosuunnitelma",
+      "text": "Aluksella, jonka bruttovetoisuus on vähintään 400, sekä aluksella, joka on rekisteröity kuljettamaan vähintään 15 henkilöä, on oltava MARPOL 73/78 -yleissopimuksen V liitteessä tarkoitettu aluksen työkielellä laadittu jätehuoltosuunnitelma kiinteiden jätteiden käsittelemiseksi. Miehistön on noudatettava aluksen jätehuoltosuunnitelmaa.",
+      "section_number": "4",
+      "chapter_number": 6,
+      "statute_id": "51/1983"
+    },
+    {
+      "id": "ff8135d5-7784-41cd-822e-ad067274c63e",
+      "node_type": "Section",
+      "publisher": "finlex",
+      "title": "5 § Aluksen jätepäiväkirja",
+      "text": "Suomalaisessa aluksessa ja Suomen satamaan saapuvassa kansainvälisessä liikenteessä olevassa ulkomaisessa aluksessa, jonka bruttovetoisuus on vähintään 400 tai joka on rekisteröity kuljettamaan vähintään 15 henkilöä, sekä kiinteällä tai kelluvalla alustalla on aluksen päällikön tai hänen valvontansa alaisena muun päällystöön kuuluvan pidettävä kiinteistä jätteistä jätepäiväkirjaa. Jätepäiväkirja on pidettävä paikassa, jossa se on helposti saatavissa tarkastusta varten, ja sitä on säilytettävä kaksi vuotta viimeisen merkinnän tekemisestä. Liikenteen turvallisuusvirastolla ja aluksen ollessa ulkomaan satamassa asianomaisella ulkomaan viranomaisella on oikeus tarkastaa jätepäiväkirja ja saada siitä pyynnöstä aluksen päällikön oikeaksi todistama ote. Toimenpiteet, joihin Liikenteen turvallisuusvirasto tämän momentin nojalla ryhtyy, on suoritettava niin nopeasti kuin mahdollista aiheuttamatta alukselle tarpeetonta viivytystä Liikenteen turvallisuusvirasto vahvistaa jätepäiväkirjan kaavan MARPOL 73/78 -yleissopimuksen V liitteen mukaisesti. Liikenteen turvallisuusvirasto voi MARPOL 73/78 -yleissopimuksen V liitteen mukaisesti myöntää yksittäistapauksessa kirjallisesta hakemuksesta poikkeuksen aluksen jätepäiväkirjan pitämisestä.",
+      "section_number": "5",
+      "chapter_number": 6,
+      "statute_id": "51/1983"
+    },
+    {
+      "id": "b99bf6ab-9283-42e6-a307-6a8f485cfe72",
+      "node_type": "Section",
+      "publisher": "finlex",
+      "title": "6 § Tarkemmat säännökset ja määräykset",
+      "text": "Valtioneuvoston asetuksella voidaan antaa MARPOL 73/78 -yleissopimuksen V liitteen, Helsingin sopimuksen ja Suomen muiden kansainvälisten velvoitteiden sekä Euroopan yhteisön säädösten täytäntöön panemiseksi tarkempia säännöksiä Suomen aluevesillä ja talousvyöhykkeellä sekä suomalaisten alusten osalta myös Suomen aluevesien ja talousvyöhykkeen ulkopuolella 1 §:ssä tarkoitetuista poistamiskiellosta ja poistamisrajoituksesta. Liikenteen turvallisuusvirasto voi MARPOL 73/78 -yleissopimuksen V liitteen, Helsingin sopimuksen, tai Euroopan yhteisön säädösten täytäntöön panemiseksi antaa teknisiä määräyksiä Suomen aluevesillä ja talousvyöhykkeellä sekä suomalaisten alusten osalta myös Suomen aluevesien ja talousvyöhykkeen ulkopuolella: Edellä 1 momentissa tarkoitetut tarkemmat säännökset ja 2 momentissa tarkoitetut tekniset määräykset voidaan ulottaa koskemaan myös sisävesialueella ja kotimaanliikenteessä purjehtivia aluksia.",
+      "section_number": "6",
+      "chapter_number": 6,
+      "statute_id": "51/1983"
+    },
+    {
+      "id": "7d93a146-dce9-4a65-8b6f-2f450fe259d1",
+      "node_type": "Section",
+      "publisher": "finlex",
+      "title": "1 § Ilmaa pilaavien aineiden päästökielto ja päästörajoitus",
+      "text": "Ilmaa pilaavien aineiden päästäminen aluksista on kielletty Suomen vesialueella ja talousvyöhykkeellä ja suomalaisista aluksista myös Suomen aluevesien ja talousvyöhykkeen ulkopuolella siten kuin MARPOL 73/78 -yleissopimuksen VI liitteessä, Helsingin sopimuksessa taikka Suomea sitovissa muissa kansainvälisissä velvoitteissa määrätään tai Euroopan yhteisön säädöksissä säädetään.",
+      "section_number": "1",
+      "chapter_number": 7,
+      "statute_id": "51/1983"
+    },
+    {
+      "id": "8879ecf0-9f25-4c8e-a8f0-afd5e818fec1",
+      "node_type": "Section",
+      "publisher": "finlex",
+      "title": "2 § Öljy- ja kemikaalisäiliöaluksilta haihtuvien orgaanisten yhdisteiden päästökielto ja päästörajoitus",
+      "text": "Öljy- ja kemikaalisäiliöaluksilta haihtuvien orgaanisten yhdisteiden päästäminen voidaan 15 §:ssä säädetyn mukaisesti kieltää tai päästämistä voidaan rajoittaa Suomen alueella sijaitsevassa satamassa MARPOL 73/78 -yleissopimuksen VI liitteen taikka Suomen muiden kansainvälisten velvoitteiden tai Euroopan yhteisön säädösten mukaisesti.",
+      "section_number": "2",
+      "chapter_number": 7,
+      "statute_id": "51/1983"
+    },
+    {
+      "id": "47bb9a5d-8e3f-4fe6-b8ba-ec362fd2e6e4",
+      "node_type": "Section",
+      "publisher": "finlex",
+      "title": "3 § Otsonikerrosta heikentävien aineiden käytön rajoittaminen ja kieltäminen",
+      "text": "Aluksessa käytettäviä otsonikerrosta heikentäviä aineita koskevista rajoituksista ja kielloista säädetään ympäristönsuojelulaissa ja sen nojalla annetuissa säännöksissä ja määräyksissä, jollei asiasta säädetä Euroopan yhteisön säädöksissä.",
+      "section_number": "3",
+      "chapter_number": 7,
+      "statute_id": "51/1983"
+    },
+    {
+      "id": "599d1b14-f2d9-4d05-a092-ee944e7dae2e",
+      "node_type": "Section",
+      "publisher": "finlex",
+      "title": "4 § Ilmaa pilaavien aineiden päästäminen poikkeustilanteessa",
+      "text": "Tässä luvussa säädettyjä päästökieltoja ja päästörajoituksia ei sovelleta:",
+      "section_number": "4",
+      "chapter_number": 7,
+      "statute_id": "51/1983"
+    },
+    {
+      "id": "9a9d9778-58b5-4b27-80c9-a943c82cd3a9",
+      "node_type": "Section",
+      "publisher": "finlex",
+      "title": "5 § Aluksen laitteita koskevat vaatimukset",
+      "text": "Aluksen dieselmoottorin sekä sen pakokaasujen puhdistuslaitteiden ja puhdistusmenetelmien on oltava Euroopan yhteisön säädösten vaatimusten mukaiset. Jos dieselmoottorin lähtöteho on yli 130 kilowattia, puhdistuslaitteiden ja puhdistusmenetelmien on oltava myös MARPOL 73/78 -yleissopimuksen VI liitteen vaatimusten mukaiset. Liikenteen turvallisuusvirasto tai sen valtuuttama hyväksytty luokituslaitos hyväksyy kirjallisesta hakemuksesta suomalaisen aluksen dieselmoottorin sekä pakokaasujen puhdistuslaitteet ja puhdistusmenetelmät edellyttäen, että ne täyttävät MARPOL 73/78 -yleissopimuksen VI liitteen vaatimukset. Liikenteen turvallisuusvirasto voi määrätä tietyn laitteen, aineen, välineen tai kojeen tehokkuuteen perustuvista samanarvoisuuksista ja myöntää kirjallisesta hakemuksesta yksittäistapauksessa poikkeuksia siten kuin MARPOL 73/78 -yleissopimuksen VI liitteessä määrätään ja Euroopan yhteisön säädöksissä säädetään.",
+      "section_number": "5",
+      "chapter_number": 7,
+      "statute_id": "51/1983"
+    },
+    {
+      "id": "a5c604d9-004f-4946-a2fc-0883c195ca6a",
+      "node_type": "Section",
+      "publisher": "finlex",
+      "title": "6 § IAPP-todistuskirja",
+      "text": "Kansainvälisessä liikenteessä olevalla aluksella, jonka bruttovetoisuus on vähintään 400, on oltava ilman pilaantumisen ehkäisemisestä annettu todistuskirja (IAPP-todistuskirja), jonka mukaan alus täyttää MARPOL 73/78 -yleissopimuksen VI liitteen määräykset. Liikenteen turvallisuusvirasto antaa kirjallisesta hakemuksesta suomalaisen aluksen IAPP-todistuskirjan MARPOL 73/78 -yleissopimuksen VI liitteen kaavan mukaisena edellyttäen, että alus täyttää yleissopimuksen VI liitteen vaatimukset. Liikenteen turvallisuusvirasto voi antaa ulkomaisen aluksen IAPP-todistuskirjan aluksen lippuvaltion pyynnöstä. Todistuskirja annetaan määräajaksi ja enintään viideksi vuodeksi kerrallaan.",
+      "section_number": "6",
+      "chapter_number": 7,
+      "statute_id": "51/1983"
+    },
+    {
+      "id": "2cfbf94d-7429-4847-b944-aa38f94ae778",
+      "node_type": "Section",
+      "publisher": "finlex",
+      "title": "7 § Polttoaineiden laatuvaatimukset",
+      "text": "Aluksella käytettävien polttoaineiden tulee täyttää MARPOL 73/78 -yleissopimuksen VI liitteen ja Euroopan yhteisön säädösten mukaiset vaatimukset. Edellä 1 momentissa tarkoitettuja vaatimuksia ei kuitenkaan sovelleta tutkimus- ja testaustarkoituksiin tarkoitettuihin polttoaineisiin eikä sellaisella aluksella käytettäviin polttoaineisiin, joilla käytetään hyväksyttyä puhdistusjärjestelmää tai muuta hyväksyttyä teknistä menetelmää, joka täyttää MARPOL 73/78 -yleissopimuksen VI liitteen vaatimukset.",
+      "section_number": "7",
+      "chapter_number": 7,
+      "statute_id": "51/1983"
+    },
+    {
+      "id": "e234ef46-76a0-4fc5-8a7b-e6ee4409962d",
+      "node_type": "Section",
+      "publisher": "finlex",
+      "title": "8 § Polttoaineen määritysmenetelmät",
+      "text": "Meriliikenteen polttoaineiden vaatimustenmukaisuus määritetään käyttäen menetelmiä, joiden tulee täyttää MARPOL 73/78 -yleissopimuksen VI liitteessä, Helsingin sopimuksessa, Euroopan yhteisön säädöksissä ja Suomea sitovissa muissa kansainvälisissä velvoitteissa asetetut vaatimukset.",
+      "section_number": "8",
+      "chapter_number": 7,
+      "statute_id": "51/1983"
+    },
+    {
+      "id": "33fc6530-2093-4073-9463-10ef8e45afc6",
+      "node_type": "Section",
+      "publisher": "finlex",
+      "title": "9 § Polttoaineen luovutustodistus ja polttoainenäytteet",
+      "text": "Aluksella, jonka bruttovetoisuus on vähintään 400, on oltava polttoaineen toimittajan antama MARPOL 73/78 -yleissopimuksen VI liitteen mukainen polttoaineen luovutustodistus, johon on liitetty polttoainenäyte. Todistus ja näyte on säilytettävä aluksella MARPOL 73/78 -yleissopimuksen VI liitteen mukaisesti.",
+      "section_number": "9",
+      "chapter_number": 7,
+      "statute_id": "51/1983"
+    },
+    {
+      "id": "dade1ca0-a904-4340-a8b1-b0dd4bc1e98a",
+      "node_type": "Section",
+      "publisher": "finlex",
+      "title": "10 § Uuden päästöjenvähentämisteknologian koekäyttö",
+      "text": "Uuden päästöjenvähentämisteknologian koekäytön tulee täyttää MARPOL 73/78 -yleissopimuksen VI liitteen ja Euroopan yhteisön säädösten mukaiset vaatimukset. Liikenteen turvallisuusvirasto myöntää kirjallisesta hakemuksesta luvan koekäytölle edellyttäen, että 1 momentissa tarkoitetut vaatimukset täyttyvät. Lupa voidaan myöntää enintään 18 kuukaudeksi. Koekäytön tulokset on toimitettava Liikenteen turvallisuusvirastolle, joka saattaa ne yleisesti nähtäville kuuden kuukauden kuluessa koekäytön päättymisestä.",
+      "section_number": "10",
+      "chapter_number": 7,
+      "statute_id": "51/1983"
+    },
+    {
+      "id": "ef4ebaa1-7052-49c7-99ff-9089775a3be4",
+      "node_type": "Section",
+      "publisher": "finlex",
+      "title": "11 § Jätteen polttaminen aluksella",
+      "text": "Aluksen tavanomaisesta toiminnasta syntyvän jätteen polttaminen aluksella on Suomen vesialueella kielletty. Alusten tavanomaisesta toiminnasta syntyvän jätteen polttaminen Suomen talousvyöhykkeellä ja suomalaisilla aluksilla myös Suomen talousvyöhykkeen ulkopuolella on sallittu vain aluksen jätteenpolttouuneissa. MARPOL 73/78 -yleissopimuksen VI liitteessä määrätään ja Euroopan yhteisön säädöksissä säädetään aineista, joiden polttaminen on kielletty Suomen talousvyöhykkeellä ja suomalaisilla aluksilla myös Suomen talousvyöhykkeen ulkopuolella. Aluksen jätteenpolttouunin tulee täyttää MARPOL 73/78 -yleissopimuksen VI liitteen vaatimukset.",
+      "section_number": "11",
+      "chapter_number": 7,
+      "statute_id": "51/1983"
+    },
+    {
+      "id": "a741b9d5-dc09-47cc-9876-895e58845088",
+      "node_type": "Section",
+      "publisher": "finlex",
+      "title": "12 § Meriliikenteen polttoaineiden valvonta",
+      "text": "Tullilaitos valvoo Suomesta alukselle toimitettavien meriliikenteen polttoaineiden rikkipitoisuusvaatimusten noudattamista ottamalla edustavan määrän näytteitä polttoaineiden varastoilta ja jakeluasemilta, analysoimalla näytteet ja raportoimalla tuloksista Suomen ympäristökeskukselle. Liikenteen turvallisuusvirasto valvoo aluksissa käytettäviä polttoaineita koskevien vaatimusten noudattamista.",
+      "section_number": "12",
+      "chapter_number": 7,
+      "statute_id": "51/1983"
+    },
+    {
+      "id": "baa83788-0f9a-452f-9355-36fb1d897fdf",
+      "node_type": "Section",
+      "publisher": "finlex",
+      "title": "13 § Meriliikenteessä käytettäviä polttoaineita koskeva raportointi",
+      "text": "Meriliikenteen polttoaineiden valmistajilla, myyjillä ja maahantuojilla on velvollisuus antaa tietoja Liikenteen turvallisuusvirastolle ja Suomen ympäristökeskukselle Suomessa markkinoille saatettujen meriliikenteen polttoaineiden määristä ja laadusta siten kuin MARPOL 73/78 -yleissopimuksen VI liitteessä ja Euroopan yhteisön säädöksissä määrätään. Liikenteen turvallisuusvirasto ja Suomen ympäristökeskus raportoivat meriliikenteessä käytettävistä polttoaineista Euroopan yhteisön komissiolle siten kuin MARPOL 73/78 -yleissopimuksen VI liitteessä ja Euroopan yhteisöjen säädöksissä määrätään.",
+      "section_number": "13",
+      "chapter_number": 7,
+      "statute_id": "51/1983"
+    },
+    {
+      "id": "10077167-5f4b-4426-b1e4-a4ddd283e756",
+      "node_type": "Section",
+      "publisher": "finlex",
+      "title": "14 § Määräaikainen poikkeus polttoaineen laatuvaatimuksesta",
+      "text": "Ympäristöministeriö voi kirjallisesta hakemuksesta myöntää määräaikaisen poikkeuksen tämän luvun mukaisesta polttoaineen laatuvaatimuksesta MARPOL 73/78 -yleissopimuksen VI liitteessä määrätyillä ja Euroopan yhteisön säädöksissä säädetyillä perusteilla. Poikkeus on voimassa enintään kuusi kuukautta kerrallaan.",
+      "section_number": "14",
+      "chapter_number": 7,
+      "statute_id": "51/1983"
+    },
+    {
+      "id": "8e39d1f7-ccfc-4b9b-84d0-69e7139e76ec",
+      "node_type": "Section",
+      "publisher": "finlex",
+      "title": "15 § Tarkemmat säännökset ja määräykset",
+      "text": "Valtioneuvoston asetuksella voidaan antaa MARPOL 73/78 -yleissopimuksen VI liitteen, Helsingin sopimuksen ja Suomen muiden kansainvälisten velvoitteiden sekä Euroopan yhteisön säädösten täytäntöön panemiseksi tarkempia säännöksiä Suomen vesialueella ja talousvyöhykkeellä sekä suomalaisten alusten osalta myös Suomen aluevesien ja talousvyöhykkeen ulkopuolella: Liikenteen turvallisuusvirasto voi MARPOL 73/78 -yleissopimuksen VI liitteen, Helsingin sopimuksen tai Euroopan yhteisön säädösten täytäntöön panemiseksi antaa teknisiä määräyksiä Suomen aluevesillä ja talousvyöhykkeellä sekä suomalaisten alusten osalta myös Suomen aluevesien ja talousvyöhykkeen ulkopuolella 5 §:n 3 momentissa tarkoitetuista moottoreiden sekä pakokaasujen puhdistuslaitteiden ja puhdistusmenetelmien vaatimustenmukaisuudesta myönnettävistä tietyn laitteen, aineen, välineen tai kojeen tehokkuuteen perustuvista samanarvoisuuksista. Edellä 1 momentissa tarkoitetut tarkemmat säännökset ja 2 momentissa tarkoitetut tekniset määräykset voidaan ulottaa koskemaan myös sisävesialueella ja kotimaanliikenteessä purjehtivia aluksia.",
+      "section_number": "15",
+      "chapter_number": 7,
+      "statute_id": "51/1983"
+    },
+    {
+      "id": "5e89322e-a70d-4246-a088-55513b7ffe0d",
+      "node_type": "Section",
+      "publisher": "finlex",
+      "title": "1 § Aluksen suojaamiseen käytettävien haitallisten kiinnittymisenestojärjestelmien käytön kielto",
+      "text": "Aluksen suojaamiseen käytettävien haitallisten kiinnittymisenestojärjestelmien käytön kiellosta Euroopan yhteisön jäsenvaltion lipun alla purjehtivien alusten sekä Euroopan yhteisön jäsenvaltion alueella sijaitseviin satamiin tai offshore-terminaaleihin saapuvien muun lipun alla purjehtivien alusten suojaamiseen säädetään TBT-asetuksessa. Aluksen suojaamiseen käytettävien haitallisten kiinnittymisenestojärjestelmien käyttö AFS-yleissopimuksen osapuolen lipun alla purjehtivien alusten suojaamiseen on kielletty sisävesialueella, Suomen aluevesillä ja talousvyöhykkeellä ja suomalaisten alusten osalta myös niiden ulkopuolella siten kuin AFS-yleissopimuksessa määrätään.",
+      "section_number": "1",
+      "chapter_number": 8,
+      "statute_id": "51/1983"
+    },
+    {
+      "id": "13647f4f-fbbf-4ce5-80b7-1b774e571f71",
+      "node_type": "Section",
+      "publisher": "finlex",
+      "title": "2 § AFS -ilmoitus",
+      "text": "Liikenteen turvallisuusvirasto vastaanottaa suomalaista alusta koskevat AFS-ilmoitukset.",
+      "section_number": "2",
+      "chapter_number": 8,
+      "statute_id": "51/1983"
+    },
+    {
+      "id": "c5b40374-f6e6-4cd3-9b66-dd2ce396f9e4",
+      "node_type": "Section",
+      "publisher": "finlex",
+      "title": "3 § Tietojen toimittaminen",
+      "text": "AFS-yleissopimuksen edellyttämien tietojen toimittamisesta Kansainväliselle merenkulkujärjestölle vastaa Liikenteen turvallisuusvirasto. Suomen ympäristökeskus toimittaa tiedot kansallisen lainsäädännön mukaan hyväksytyistä, rajoitetuista tai kielletyistä kiinnittymisenestojärjestelmistä Liikenteen turvallisuusvirastolle.",
+      "section_number": "3",
+      "chapter_number": 8,
+      "statute_id": "51/1983"
+    },
+    {
+      "id": "1f678eb8-5399-4da4-90c8-18b8d5e53107",
+      "node_type": "Section",
+      "publisher": "finlex",
+      "title": "1 § Jätteiden vastaanottojärjestelyt satamassa",
+      "text": "Sataman pitäjän on huolehdittava siitä, että satamassa on laitteet, jotka riittävät vastaanottamaan satamaa käyttäviltä aluksilta tulevat, sataman pitäjän huolehdittaviksi jätettävät: Öljysatamassa on lisäksi oltava laitteet, jotka ovat riittävät vastaanottamaan tällaista satamaa käyttäviltä säiliöaluksilta tulevat öljyiset painolasti- ja säiliönpesuvedet. Edellä 1 momentin 2 kohdassa tarkoitettujen haitallisten nestemäisten aineiden vastaanottolaitteiden hankkimisesta ja käytöstä sekä kertyvien jätteiden ja seosten kuljetuksesta ja käsittelystä vastaa kuljetettavan aineen maahantuoja tai muu vastaanottaja taikka viejä tai muu lähettäjä. Pääosin huviveneliikennettä palvelevan sataman (huvivenesatama) pitäjän velvollisuus ottaa vastaan jätteitä aluksista koskee satamaa, jossa on vähintään 50 venepaikkaa tai jonka yhteydessä on vähintään viidenkymmenen huviveneen talvitelakointipaikka ja jossa peritään maksua tai muuta korvausta venepaikasta. Huvivenesataman pitäjä voi sopia toisen satamanpitäjän kanssa satamien yhteisen vastaanottopaikan ylläpidosta, jolloin satamia pidetään tältä osin yhtenä satamana.",
+      "section_number": "1",
+      "chapter_number": 9,
+      "statute_id": "51/1983"
+    },
+    {
+      "id": "c1e28f00-4498-43af-ab74-7bbbd389a409",
+      "node_type": "Section",
+      "publisher": "finlex",
+      "title": "2 § Jätteiden vastaanottojärjestelyt korjaussatamassa",
+      "text": "Sataman pitäjän on huolehdittava siitä, että satamassa, jossa suoritetaan alusten korjauksia (korjaussatama) on 1 §:ssä säädettyjen vastaanottolaitteiden lisäksi riittävät vastaanottolaitteet ottamaan vastaan satamaa käyttäviltä aluksilta tulevat otsonikerrosta heikentävät aineet ja tällaisia aineita sisältävät varusteet, kun niitä poistetaan alukselta. Korjaussatamassa on oltava tarvittaessa käytettävissä laitteet, jotka lisäksi ovat riittävät vastaanottamaan tällaista satamaa käyttäviltä säiliöaluksilta tulevat öljyiset painolasti- ja säiliönpesuvedet. Korjaussataman pitäjän tulee lisäksi järjestää riittävät vastaanottolaitteet korjattaviksi tulevia kemikaalisäiliöaluksia varten.",
+      "section_number": "2",
+      "chapter_number": 9,
+      "statute_id": "51/1983"
+    },
+    {
+      "id": "ea314c78-aa47-4fcc-8a68-efbe84b39bfa",
+      "node_type": "Section",
+      "publisher": "finlex",
+      "title": "3 § Sataman jätehuoltosuunnitelma",
+      "text": "Sataman pitäjän on laadittava sataman jätehuoltosuunnitelma 1 §:ssä tarkoitettujen aluksista peräisin olevien jätteiden jätehuollon järjestämiseksi. Huvivenesatama voi tehdä toisen huvivenesataman kanssa yhteisen jätehuoltosuunnitelman, joka voi koskea yhtä tai useampaa jätelajia. Sataman jätehuoltosuunnitelmassa esitettyjen toimien, kuten jätteiden vastaanoton, keräyksen, varastoinnin, käsittelyn ja hyödyntämisen suunnittelussa, on otettava huomioon sataman koko ja luonne sekä satamaa käyttävät alustyypit. Suunnitelmassa on lisäksi edellytettävä, että jätehuollon toteuttamiseksi tarpeellisia toimia on seurattava, havaitut puutteet on korjattava viivytyksettä ja jätehuollon toimia on kehitettävä jatkuvasti. Satamassa on noudatettava jätehuoltosuunnitelmaa sen jälkeen, kun se on hyväksytty.",
+      "section_number": "3",
+      "chapter_number": 9,
+      "statute_id": "51/1983"
+    },
+    {
+      "id": "14e95ab9-50ac-4b40-a350-68c19eeb31d4",
+      "node_type": "Section",
+      "publisher": "finlex",
+      "title": "4 § Sataman jätehuoltosuunnitelman hyväksyminen",
+      "text": "Sataman jätehuoltosuunnitelma esitetään hyväksyttäväksi sille elinkeino-, liikenne- ja ympäristökeskukselle, jonka toimialueella satama sijaitsee. Huvivenesataman jätehuoltosuunnitelma on kuitenkin esitettävä hyväksyttäväksi sen kunnan ympäristönsuojeluviranomaiselle, jonka alueella huvivenesatama sijaitsee. Sataman jätehuoltosuunnitelma on tarkistettava, jos satamaan jätettävien jätteiden laatu, määrä tai jätehuolto muuttuu merkittävästi. Jos jätehuoltosuunnitelmaa ei ole ollut tarpeen tarkistaa kolmen vuoden kuluessa sen hyväksymisestä, sataman pitäjän on lähetettävä asianomaiselle valvontaviranomaiselle ilmoitus, että jätehuoltosuunnitelma on edelleen voimassa. Valvontaviranomaisen kehotuksesta jätehuoltosuunnitelmaa on tarkistettava. Kehotuksessa on mainittava, miltä osin jätehuoltosuunnitelmaa on tarkistettava. Sataman jätehuoltosuunnitelma on hyväksyttävä, jos jätteiden vastaanotto ja vastaanottolaitteet täyttävät tämän luvun ja 10 luvun sekä niiden nojalla annettujen säännösten ja määräysten vaatimukset. Kun sataman jätehuoltosuunnitelma on hyväksytty, elinkeino-, liikenne- ja ympäristökeskuksen ja kunnan ympäristönsuojeluviranomaisen on merkittävä suunnitelma ympäristönsuojelulain mukaiseen ympäristönsuojelun tietojärjestelmään. Sataman pitäjälle on lähetettävä ote rekisteriin tehdystä merkinnästä.",
+      "section_number": "4",
+      "chapter_number": 9,
+      "statute_id": "51/1983"
+    },
+    {
+      "id": "f5ecaa6d-9742-454e-8e97-843c5a6beb8e",
+      "node_type": "Section",
+      "publisher": "finlex",
+      "title": "5 § Sataman jätehuoltosuunnitelmasta kuuleminen ja tiedottaminen",
+      "text": "Ennen sataman jätehuoltosuunnitelman esittämistä elinkeino-, liikenne- ja ympäristökeskukselle hyväksyttäväksi, sataman pitäjän on varattava satamaa käyttävien alusten haltijoille, heidän edustajilleen ja muille tahoille, joille jätehuoltosuunnitelmalla voi olla vaikutusta, tilaisuus lausua mielipiteensä sataman jätehuoltosuunnitelmasta tai sen tarkistamisesta. Jätehuoltosuunnitelman luonnos on oltava nähtävillä sataman pitäjän toimipaikassa ja muulla tarkoituksenmukaisella tavalla vähintään 14 päivän ajan sataman toiminta-aikana. Nähtävillä pitämisestä on ilmoitettava sataman käyttäjille ja muille tahoille ilmoitustaululla. Lisäksi nähtävillä pitämisestä on ilmoitettava sähköisen viestinnän kotisivuilla, sähköistä tiedonvälitystä apuna käyttäen, kirjeitse tai joillain muulla tiedon antamiseen soveltuvalla tarkoituksenmukaisella tavalla. Sataman pitäjän tulee saattaa satamaa käyttävien alusten edustajien saataville tiedot sataman jätehuoltojärjestelyistä sekä jätehuoltomaksuista niin, että kaikki sataman merkittävät käyttäjäryhmät saavat tiedon niistä. Elinkeino-, liikenne- ja ympäristökeskus voi sataman jätehuoltosuunnitelmaan hyväksyessään tarvittaessa määrätä, millä kielillä tiedot on annettava sataman käyttäjien edustajille.",
+      "section_number": "5",
+      "chapter_number": 9,
+      "statute_id": "51/1983"
+    },
+    {
+      "id": "a8b49c76-57b4-4fb0-a09f-ebcda660d1b4",
+      "node_type": "Section",
+      "publisher": "finlex",
+      "title": "6 § Tarpeettoman viivytyksen välttäminen",
+      "text": "Edellä 1 §:ssä tarkoitettu aluksilta peräisin olevien jätteiden vastaanotto on järjestettävä siten, ettei aluksille aiheudu tarpeetonta viivytystä.",
+      "section_number": "6",
+      "chapter_number": 9,
+      "statute_id": "51/1983"
+    },
+    {
+      "id": "3c2e074f-b78d-4a1f-b1ff-e908ca17fec6",
+      "node_type": "Section",
+      "publisher": "finlex",
+      "title": "7 § Raportointi",
+      "text": "Elinkeino-, liikenne ja ympäristökeskusten, Liikenteen turvallisuusviraston ja satamien on toimitettava aluksella syntyvän jätteen ja lastijäämien vastaanottolaitteista satamissa annetun Euroopan parlamentin ja neuvoston direktiivissä 2000/59/EY, jäljempänäalusjätedirektiivi, tarkoitetut tiedot Suomen ympäristökeskukselle, jonka tehtävänä on koota raportit lähetettäväksi Euroopan yhteisöjen komissiolle.",
+      "section_number": "7",
+      "chapter_number": 9,
+      "statute_id": "51/1983"
+    },
+    {
+      "id": "51c6d937-964c-48d8-af15-8082a86bcc3c",
+      "node_type": "Section",
+      "publisher": "finlex",
+      "title": "8 § Tarkemmat säännökset",
+      "text": "Valtioneuvoston asetuksella voidaan antaa MARPOL 73/78 -yleissopimuksen, Helsingin sopimuksen ja Suomen muiden kansainvälisten velvoitteiden sekä Euroopan yhteisön säädösten täytäntöön panemiseksi tarkempia säännöksiä: Edellä 1 momentin nojalla annetut tarkemmat säännökset voidaan ulottaa koskemaan myös sisävesialueella ja kotimaanliikenteessä purjehtivia aluksia.",
+      "section_number": "8",
+      "chapter_number": 9,
+      "statute_id": "51/1983"
+    },
+    {
+      "id": "5861c8fe-d10a-48f5-bfce-250480e9afd3",
+      "node_type": "Section",
+      "publisher": "finlex",
+      "title": "1 § Velvollisuus jättää alusjätteet ja lastijätteet",
+      "text": "Suomalaisen aluksen, joka saapuu Itämeren tai Euroopan yhteisön alueella olevaan satamaan, ja muun kuin suomalaisen aluksen, joka saapuu Suomen alueella olevaan satamaan, on ennen kuin alus lähtee satamasta jätettävä satamassa oleviin jätteiden vastaanottolaitteisiin kaikki alusjätteensä ja lastijätteensä. Jos huvivenesataman alueella ei ole vastaanottolaitetta, huviveneestä peräisin olevat jätteet tulee jättää muuhun maissa olevaan asianmukaiseen vastaanottolaitteeseen, jollei jätteitä voida tämän lain mukaisesti jättää alukseen. Edellä 1 momentissa tarkoitettu velvollisuus jättää jätteet ei kuitenkaan koske: Edellä 3 momentissa säädetyn estämättä Liikenteen turvallisuusvirasto voi tarvittaessa edellyttää, että alukselta toimitetaan kaikki jätteet satamaan ennen aluksen lähtöä satamasta, jos seuraavat edellytykset ovat olemassa: Aluksen päällikkö vastaa siitä, että aluksella noudatetaan tässä luvussa ja sen nojalla säädettyjä velvollisuuksia.",
+      "section_number": "1",
+      "chapter_number": 10,
+      "statute_id": "51/1983"
+    },
+    {
+      "id": "b71899fe-122b-40c3-8768-1386cf428d7b",
+      "node_type": "Section",
+      "publisher": "finlex",
+      "title": "2 § Alusjätteistä ja lastijätteistä perittävät maksut",
+      "text": "Sataman pitäjä perii jätehuollosta aiheutuvien kustannusten kattamiseksi maksun jokaiselta satamassa käyvältä alukselta siitä riippumatta, jättääkö alus satamaan jätettä vai ei. Maksun tulee kattaa seuraavien alusjätteiden jätehuollon kustannukset: Satamanpitäjä perii jätehuollosta aiheutuvien kustannusten kattamiseksi maksun myös niiltä satamassa käyviltä aluksilta, jotka jättävät lastijätettä sataman vastaanottolaitteisiin. Maksut voivat sisältyä aluksilta perittävään satamamaksuun. Sataman tulee ilmoittaa maksun määrä ja sen perusteet. Maksut voidaan porrastaa esimerkiksi alustyypin, alusluokan tai aluksen kokoluokan mukaan, mutta maksujen suuruus ei saa riippua siitä, kuinka paljon jätettä alus jättää satamaan. Maksuista voidaan myöntää alennusta, jos aluksella käytetään laitteita, menetelmiä tai sellaista hyvälaatuista polttoainetta, joiden ansiosta aluksen maihin jättämän jätteen määrä on tavallista vähäisempi tai se on hyödynnettävissä. Edellä 1 momentissa tarkoitettua maksua ei kuitenkaan peritä kalastusaluksilta eikä huviveneiltä, jotka saavat kuljettaa enintään 12 matkustajaa. Maksua ei myöskään peritä niiltä aluksilta, jotka Liikenteen turvallisuusvirasto on tämän luvun 4 §:n nojalla vapauttanut alusjätteiden ja lastijätteiden jättöpakosta.",
+      "section_number": "2",
+      "chapter_number": 10,
+      "statute_id": "51/1983"
+    },
+    {
+      "id": "41112dff-7900-4f10-8022-a431fb372f46",
+      "node_type": "Section",
+      "publisher": "finlex",
+      "title": "3 § Alusjätteistä ja lastijätteistä ilmoittaminen",
+      "text": "Suomen alueella olevaan satamaan saapuvan aluksen päällikön tai tämän tehtävään valtuuttaman henkilön on annettava tulosataman pitäjälle alusjätteitä ja lastijätteitä koskeva ilmoitus. Ilmoitus on annettava vähintään 24 tuntia ennen satamaan saapumista tai välittömästi edellisestä satamasta lähdettäessä, jos matka-aika on alle 24 tuntia. Jos aluksen lopullinen tulosatama selviää alle 24 tuntia ennen tähän satamaan saapumista, ilmoitus on annettava välittömästi lopullisen tulosataman selvittyä. Tiedot on pidettävä aluksella vähintään seuraavaan käyntisatamaan asti, ja ne on pyynnöstä esitettävä EU:n jäsenvaltion viranomaisille. Mitä 1 momentissa säädetään, ei koske kalastusaluksia eikä huviveneitä, jotka saavat kuljettaa enintään 12 matkustajaa. Liikenteen turvallisuusvirasto valvoo alusjätedirektiivin täytäntöönpanoa tarkastaen ilmoituksia sekä aluksia siten kuin direktiivissä säädetään. Sataman on huolehdittava siitä, että alusjätteistä tehdyt ilmoitukset ovat valvontaa varten Liikenteen turvallisuusviraston käytettävissä. Ilmoitukset voidaan välittää alukselta satamalle ja satamalta Liikenteen turvallisuusvirastoon sähköistä käyttöyhteyttä apuna käyttäen.",
+      "section_number": "3",
+      "chapter_number": 10,
+      "statute_id": "51/1983"
+    },
+    {
+      "id": "a90fd370-1932-438d-8a3c-e4642f1adf8c",
+      "node_type": "Section",
+      "publisher": "finlex",
+      "title": "4 § Poikkeus jätteiden jättöpakosta ja ilmoitusvelvollisuudesta",
+      "text": "Liikenteen turvallisuusvirasto voi kirjallisesta hakemuksesta myöntää 1 §:ssä tarkoitettua alusjätteiden ja lastijätteiden jättöpakkoa ja 3 §:ssä tarkoitettua alusjätteistä ja lastijätteistä ilmoittamista koskevan poikkeuksen alukselle, joka on säännöllisessä liikenteessä siten, että se liikennöi toistuvasti aikataulun tai etukäteen vahvistetun reitin mukaisesti nimettyjen satamien välillä ja käy vähintään kerran kahdessa viikossa yhdessä nimetyssä reitin varrella sijaitsevassa suomalaisessa satamassa. Poikkeus voidaan myöntää myös alukselle, joka on risteilyliikenteessä tai muussa liikenteessä lähtien ja saapuen samaan suomalaiseen satamaan poikkeamatta muissa satamissa. Poikkeuksen myöntämisen edellytyksenä on, että aluksella on jätehuoltosopimus pätevän jätehuoltoyrityksen tai sataman kanssa. Liikenteen turvallisuusvirastolle on toimitettava päätöksessä tarkemmin määrätyllä tavalla selvitys siitä, että alus käyttää pääosin jätehuoltosopimuksen mukaisia palveluita. Poikkeus myönnetään määräajaksi ja enintään viideksi vuodeksi kerrallaan. Liikenteen turvallisuusviraston on ilmoitettava päätöksestä niille satamille, joita päätös koskee. Liikenteen turvallisuusviraston on ilmoitettava Euroopan yhteisöjen komissiolle myönnetyistä vapautuksista säännöllisesti ja vähintään kerran vuodessa.",
+      "section_number": "4",
+      "chapter_number": 10,
+      "statute_id": "51/1983"
+    },
+    {
+      "id": "80d365f5-a7fa-4750-ac8a-16c0de60dbd8",
+      "node_type": "Section",
+      "publisher": "finlex",
+      "title": "5 § Tarkemmat säännökset ja määräykset",
+      "text": "Valtioneuvoston asetuksella voidaan antaa MARPOL 73/78 -yleissopimuksen, Helsingin sopimuksen ja Suomen muiden kansainvälisten velvoitteiden sekä Euroopan yhteisön säädösten täytäntöön panemiseksi tarkempia säännöksiä 1 §:n 3 momentin 2 kohdassa tarkoitetuista edellytyksistä olla jättämättä jätteitä satamaan. Liikenteen turvallisuusvirasto voi MARPOL 73/78 -yleissopimuksen, Helsingin sopimuksen tai Euroopan yhteisön säädösten täytäntöön panemiseksi antaa teknisiä määräyksiä 3 §:ssä tarkoitetun jätteistä ilmoittamisen tavasta. Edellä 1 ja 2 momentissa tarkoitetut tarkemmat säännökset ja tekniset määräykset voidaan ulottaa koskemaan myös sisävesialueella ja kotimaanliikenteessä purjehtivia aluksia.",
+      "section_number": "5",
+      "chapter_number": 10,
+      "statute_id": "51/1983"
+    },
+    {
+      "id": "edee6501-3692-4daf-bccd-06cbf7937076",
+      "node_type": "Section",
+      "publisher": "finlex",
+      "title": "1 § Öljyvahingosta tai sen vaarasta ilmoittaminen ja välittömiin torjuntatoimiin ryhtyminen",
+      "text": "Jos öljyä on päässyt aluksesta veteen tai öljyvuodon vaara aluksen karilleajon tai konevian, yhteentörmäyksen taikka muun merivahingon takia on uhkaamassa, aluksen päällikön on ilmoitettava öljyvahingosta tai sen vaarasta välittömästi asianomaiselle meripelastuskeskukselle, meripelastuslohkokeskukselle, hätäkeskukselle tai VTS-viranomaiselle. Suomalaisen aluksen päällikön on ilmoitettava Suomen vesialueen tai talousvyöhykkeen ulkopuolella öljyvahingosta tai sen vaarasta lähimmän rantavaltion viranomaiselle. Aluksen päällikön on lisäksi ryhdyttävä sellaisiin välittömiin torjuntatoimiin, joita häneltä kohtuudella voidaan vaatia. Jos suomalaisen aluksen päällikkö Suomen aluevesillä tai Suomen talousvyöhykkeellä havaitsee vedessä öljyä niin suuren määrän, että sen takia sää- ja muut olosuhteet huomioon ottaen uhkaa öljyvahingon vaara, hänen on ilmoitettava havainnosta asianomaiselle meripelastuskeskukselle, meripelastuslohkokeskukselle, hätäkeskukselle tai VTS-viranomaiselle taikka Suomen vesialueen tai talousvyöhykkeen ulkopuolella lähimmän rantavaltion viranomaiselle. Jos aluksen miehistöön tai päällystöön kuuluva tekee vastaavan havainnon, hän on velvollinen ilmoittamaan asiasta aluksen päällikölle. Aluksen päällikön ei kuitenkaan tarvitse tehdä 2 momentissa tarkoitettua ilmoitusta, jos on ilmeistä, että 2 momentissa tarkoitetut viranomaiset ovat jo saaneet tapauksesta tiedon.",
+      "section_number": "1",
+      "chapter_number": 11,
+      "statute_id": "51/1983"
+    },
+    {
+      "id": "9ad473cb-584a-40c5-82f0-a3d949a53b15",
+      "node_type": "Section",
+      "publisher": "finlex",
+      "title": "2 § Muun haitallisen aineen päästöstä tai sen vaarasta ilmoittaminen ja välittömiin torjuntatoimiin ryhtyminen",
+      "text": "Jos aluksesta aiheutuu Suomen vesialueella tai Suomen talousvyöhykkeellä lainvastainen muun haitallisen aineen kuin öljyn päästö veteen, aluksen päällikön on ilman viivytystä ilmoitettava asianomaiselle meripelastuskeskukselle, meripelastuslohkokeskukselle, hätäkeskukselle tai VTS-viranomaiselle asioista, jotka koskevat alusta, sen tilaa, sijaintia, lastia ja tapahtuman laatua, sekä ryhdyttävä sellaisiin välittömiin torjuntatoimiin, joita häneltä kohtuudella voidaan vaatia. Vähintään 15 metrin pituisen aluksen päällikön on ilmoitettava asianomaiselle meripelastuskeskukselle, meripelastuslohkokeskukselle, hätäkeskukselle tai VTS-viranomaiselle 1 momentissa tarkoitetuista seikoista myös tilanteissa, joissa päästöä ei ole tapahtunut, mutta päästön mahdollisuus on olemassa. Tämä koskee tapauksia, joissa alus on vaurioitunut, aluksen lasti on siirtynyt tai aluksen koneisto tai varusteet ovat vioittuneet tavalla, joka heikentää navigoinnin turvallisuutta. Suomen vesialueen ja Suomen talousvyöhykkeen ulkopuolella suomalaisen aluksen päällikön on tehtävä 1 ja 2 momentissa tarkoitettu ilmoitus lähimmän rantavaltion viranomaiselle. Jos aluksen päällikkö on estynyt antamasta tässä pykälässä tarkoitettua ilmoitusta, aluksen omistajan, rahtaajan, käyttäjän tai liikennöitsijän tai heidän asiamiehensä on otettava vastatakseen aluksen päällikölle kuuluvasta ilmoitusvelvollisuudesta.",
+      "section_number": "2",
+      "chapter_number": 11,
+      "statute_id": "51/1983"
+    },
+    {
+      "id": "c97e8412-6c5d-4538-a8c3-7b33cfae6c1d",
+      "node_type": "Section",
+      "publisher": "finlex",
+      "title": "3 § Tarkemmat säännökset",
+      "text": "Valtioneuvoston asetuksella voidaan antaa MARPOL 73/78 -yleissopimuksen, Euroopan yhteisön säädösten, Helsingin sopimuksen tai Suomen muiden kansainvälisten velvoitteiden täytäntöön panemiseksi tarkempia säännöksiä Suomen aluevesillä ja talousvyöhykkeellä sekä suomalaisten alusten osalta myös Suomen aluevesien ja talousvyöhykkeen ulkopuolella: Edellä 1 momentissa tarkoitetut tarkemmat säännökset voidaan ulottaa koskemaan myös sisävesialueella ja kotimaanliikenteessä purjehtivia aluksia.",
+      "section_number": "3",
+      "chapter_number": 11,
+      "statute_id": "51/1983"
+    },
+    {
+      "id": "f9be084e-de66-49d7-bbef-654ff25582cf",
+      "node_type": "Section",
+      "publisher": "finlex",
+      "title": "1 § Valvontaviranomaiset",
+      "text": "Tässä laissa tarkoitettuja valvontaviranomaisia ovat Liikenteen turvallisuusvirasto, Suomen ympäristökeskus, elinkeino-, liikenne- ja ympäristökeskus, rajavartiolaitos, tullilaitos ja poliisi. Liikenne- ja viestintäministeriö ja ympäristöministeriö huolehtivat tämän lain mukaisen toiminnan yleisestä ohjauksesta, seurannasta ja kehittämisestä hallinnonalallaan.",
+      "section_number": "1",
+      "chapter_number": 12,
+      "statute_id": "51/1983"
+    },
+    {
+      "id": "9d073f73-52e3-43d3-84b8-8e74fec46531",
+      "node_type": "Section",
+      "publisher": "finlex",
+      "title": "2 § Liikenteen turvallisuusviraston valvontatehtävät",
+      "text": "Liikenteen turvallisuusvirasto valvoo tämän lain ja sen nojalla annettujen säännösten ja määräysten noudattamista siltä osin kuin säännökset tai määräykset koskevat: Lisäksi Liikenteen turvallisuusvirastolle kuuluu muu tämän lain ja sen nojalla annettujen säännösten ja määräysten noudattamisen valvonta, jollei muualla tässä laissa toisin säädetä. Liikenteen turvallisuusvirasto on johtava valvontaviranomainen valvonnassa, joka koskee aluksesta veteen menevistä päästöistä tässä laissa ja sen nojalla annettujen säännösten ja määräysten noudattamista sisävesialueella.",
+      "section_number": "2",
+      "chapter_number": 12,
+      "statute_id": "51/1983"
+    },
+    {
+      "id": "f963819b-d8f3-4569-9236-edde546cd886",
+      "node_type": "Section",
+      "publisher": "finlex",
+      "title": "3 § Suomen ympäristökeskuksen valvontatehtävät",
+      "text": "Suomen ympäristökeskus on johtava valvontaviranomainen valvonnassa, joka koskee aluksesta veteen menevistä päästöistä tässä laissa ja sen nojalla annettujen säännösten ja määräysten noudattamista Suomen aluevesillä ja talousvyöhykkeellä.",
+      "section_number": "3",
+      "chapter_number": 12,
+      "statute_id": "51/1983"
+    },
+    {
+      "id": "044af7d1-d211-4e28-b0d9-65b1aca0526a",
+      "node_type": "Section",
+      "publisher": "finlex",
+      "title": "4 § Elinkeino-, liikenne- ja ympäristökeskuksen valvontatehtävät",
+      "text": "Elinkeino-, liikenne- ja ympäristökeskus valvoo toimialueellaan tämän lain ja sen nojalla annettujen säännösten ja määräysten noudattamista siltä osin kuin säännökset ja määräykset koskevat: Valvontatehtävä koskee erityisesti sellaisia kauppamerenkulun satamia, joilla pitää olla ympäristönsuojelulain mukainen ympäristölupa.",
+      "section_number": "4",
+      "chapter_number": 12,
+      "statute_id": "51/1983"
+    },
+    {
+      "id": "89f6caf9-d9a9-4f88-a12b-9aca55d5f43f",
+      "node_type": "Section",
+      "publisher": "finlex",
+      "title": "5 § Kunnan ympäristönsuojeluviranomaisen valvontatehtävät",
+      "text": "Kunnan ympäristönsuojeluviranomainen valvoo erityisesti huvivenesatamien jätehuoltoa ja huviveneistä peräisin olevien jätteiden vastaanottoa.",
+      "section_number": "5",
+      "chapter_number": 12,
+      "statute_id": "51/1983"
+    },
+    {
+      "id": "147a424c-6c46-405f-a55a-25bd052e5e26",
+      "node_type": "Section",
+      "publisher": "finlex",
+      "title": "6 § Rajavartiolaitoksen valvontatehtävät",
+      "text": "Rajavartiolaitos valvoo aluksesta veteen meneviä päästöjä koskevien tämän lain ja sen nojalla annettujen säännösten ja määräysten noudattamista Suomen aluevesillä ja talousvyöhykkeellä.",
+      "section_number": "6",
+      "chapter_number": 12,
+      "statute_id": "51/1983"
+    },
+    {
+      "id": "cd61ec79-dd7d-4d77-846c-ac63ce787a26",
+      "node_type": "Section",
+      "publisher": "finlex",
+      "title": "7 § Tullilaitoksen valvontatehtävät",
+      "text": "Tullilaitos valvoo Suomessa markkinoille saatettavien polttoaineiden laatua koskevien tämän lain ja sen nojalla annettujen säännösten ja määräysten noudattamista.",
+      "section_number": "7",
+      "chapter_number": 12,
+      "statute_id": "51/1983"
+    },
+    {
+      "id": "b0adbbe9-2cb7-440d-a27d-c04adcdc60d9",
+      "node_type": "Section",
+      "publisher": "finlex",
+      "title": "8 § Poliisin valvontatehtävät",
+      "text": "Poliisi valvoo aluksesta veteen meneviä päästöjä koskevien tämän lain ja sen nojalla annettujen säännösten ja määräysten noudattamista sisävesialueella sekä Suomen aluevesillä.",
+      "section_number": "8",
+      "chapter_number": 12,
+      "statute_id": "51/1983"
+    },
+    {
+      "id": "788b499f-6720-4d48-a708-23bf09172fdd",
+      "node_type": "Section",
+      "publisher": "finlex",
+      "title": "9 § Virka-apu",
+      "text": "Ilmatieteen laitoksen, Suomen ympäristökeskuksen, puolustusvoimien ja aluehallintoviraston on annettava valvontaviranomaiselle tämän lain mukaisen tehtävän suorittamiseksi sellaista tarpeellista virka-apua, jonka antamiseen se on toimivaltainen. Virka-avusta öljypäästömaksua koskevassa asiassa säädetään 3 luvun 8 §:ssä.",
+      "section_number": "9",
+      "chapter_number": 12,
+      "statute_id": "51/1983"
+    },
+    {
+      "id": "98b14a18-a04c-4209-aea1-73ad50750807",
+      "node_type": "Section",
+      "publisher": "finlex",
+      "title": "10 § Aluksen rakenteisiin, varusteisiin, laitteisiin, toimintoihin ja järjestelyihin kohdistuva valvonta",
+      "text": "Aluksen rakenteisiin, varusteisiin, laitteisiin, toimintoihin ja järjestelyihin kohdistuvasta valvonnasta ja siihen liittyvistä tarkastuksista ja muista toimenpiteistä Suomen vesialueella ja suomalaisen aluksen osalta myös Suomen vesialueen ulkopuolella säädetään alusturvallisuuden valvonnasta annetussa laissa (370/1995).",
+      "section_number": "10",
+      "chapter_number": 12,
+      "statute_id": "51/1983"
+    },
+    {
+      "id": "95192cbf-c928-46ab-9b07-4f526ade2fe8",
+      "node_type": "Section",
+      "publisher": "finlex",
+      "title": "11 § Tapahtuneiden päästöjen selvittäminen sekä toiminta välittömän vesien pilaantumisen vaaran ollessa käsillä",
+      "text": "Liikenteen turvallisuusvirastolla sekä rajavartiolaitoksella ja poliisilla on oikeus tapahtuneiden päästöjen tai haitallisten kiinnittymisenestojärjestelmien selvittämiseksi suorittaa suomalaisella aluksella tarkastuksia ja ottaa näytteitä vedessä havaitun öljyn tai muun haitallisen aineen alkuperän selvittämiseksi. Sama koskee ulkomaista alusta sen ollessa satamassa tai ankkurissa Suomen vesialueella tai sen purjehtiessa Suomen vesialueella. Suomen aluemerellä purjehtivaan ulkomaiseen alukseen kohdistuvista toimenpiteistä säädetään kuitenkin 12 §:ssä. Jos tapahtuneiden päästöjen tai haitallisten kiinnittymisenestojärjestelmien selvittäminen sitä vaatii tai on perusteltua syytä epäillä, että aluksen matkaan jostakin muusta kuin aluksen rakenteisiin, varusteisiin, laitteisiin, toimintoihin ja järjestelyihin liittyvästä syystä liittyy välitön vesien pilaantumisen vaara, Liikenteen turvallisuusvirasto sekä rajavartiolaitos ja poliisi voivat pysäyttää aluksen sen ollessa satamassa tai ankkurissa Suomen vesialueella. Sama koskee suomalaista alusta sen purjehtiessa Suomen vesialueella tai sen ulkopuolella ja ulkomaista alusta sen purjehtiessa Suomen vesialueella. Suomen aluemerellä purjehtivaan ulkomaiseen alukseen kohdistuvista toimenpiteistä säädetään kuitenkin 12 §:ssä. Edellä 1 ja 2 momentissa tarkoitetut toimenpiteet koskevat 1 luvun 4 §:n säännös huomioon ottaen vain soveltuvin osin puolustusvoimien ja rajavartiolaitoksen aluksia. Tarkastusoikeus ei kuitenkaan ulotu pysyväisluonteiseen asumiseen käytettyihin tiloihin.",
+      "section_number": "11",
+      "chapter_number": 12,
+      "statute_id": "51/1983"
+    },
+    {
+      "id": "748422c6-bc1f-409e-8b90-8af5f28f1b43",
+      "node_type": "Section",
+      "publisher": "finlex",
+      "title": "12 § Oikeus suorittaa tarkastuksia, saada tietoja ja pysäyttää alus Suomen aluemerellä tai talousvyöhykkeellä",
+      "text": "Kun on perusteltua syytä epäillä, että Suomen aluemerellä kulkeva ulkomainen alus on ollessaan Suomen aluemerellä aiheuttanut päästöjä tai käyttänyt haitallista kiinnittymisenestojärjestelmää, Liikenteen turvallisuusvirasto sekä rajavartiolaitos ja poliisi voivat ryhtyä kaikkiin 11 §:n 1 ja 2 momentissa tarkoitettuihin toimenpiteisiin. Kun on perusteltua syytä epäillä, että Suomen aluemerellä tai talousvyöhykkeellä kulkevalta ulkomaiselta alukselta on Suomen talousvyöhykkeellä rikottu tätä lakia tai sen nojalla annettuja säännöksiä, Liikenteen turvallisuusvirastolla sekä rajavartiolaitoksella ja poliisilla on oikeus saada alukselta tietoja aluksesta, aluksen rekisteröintisatamasta, satamasta, jossa se on viimeksi käynyt, ja satamasta, jonne se on matkalla, sekä muita tietoja sen toteamiseksi, onko säännöksiä rikottu. Edellä 2 momentissa tarkoitetussa tapauksessa Liikenteen turvallisuusvirasto sekä rajavartiolaitos ja poliisi voivat tarkastaa aluksen, jos momentissa tarkoitettujen säännösten rikkomisesta seuraa huomattava päästö, joka aiheuttaa merkittävää meriympäristön pilaantumista tai sen vaaraa, ja alus on kieltäytynyt antamasta tietoja tai aluksen antamat tiedot ovat selvästi ristiriidassa tosiasiallisen tilanteen kanssa ja olosuhteet muutoin antavat aihetta tarkastukseen. Liikenteen turvallisuusvirasto sekä rajavartiolaitos ja poliisi voivat pysäyttää Suomen aluemerellä tai talousvyöhykkeellä kulkevan ulkomaisen aluksen, jos on ilmeistä, että alukselta on Suomen talousvyöhykkeellä rikottu tätä lakia tai sen nojalla annettuja säännöksiä siten, että päästöstä aiheutuu Suomen rantaviivalle tai siihen liittyville eduille taikka Suomen aluemeren tai talousvyöhykkeen luonnonvaroille huomattavaa vahinkoa tai sen vaaraa. Edellä 2―4 momentissa säädetyin edellytyksin momenteissa tarkoitetut toimenpiteet voidaan kohdistaa myös sellaiseen Suomen talousvyöhykkeellä kulkevaan ulkomaiseen alukseen, jolta epäillään rikotun tätä lakia tai sen nojalla annettuja säännöksiä Suomen aluemerellä. Tarkastusoikeus ei kuitenkaan ulotu pysyväisluonteiseen asumiseen käytettyihin tiloihin.",
+      "section_number": "12",
+      "chapter_number": 12,
+      "statute_id": "51/1983"
+    },
+    {
+      "id": "4046d8f2-e728-4e1d-ae21-7a9d321dbea1",
+      "node_type": "Section",
+      "publisher": "finlex",
+      "title": "13 § Velvollisuus välttää aiheetonta viivytystä ja vähemmän haitan periaate",
+      "text": "Edellä 11 ja 12 §:ssä tarkoitetut toimenpiteet on suoritettava siten, ettei alukselle aiheudu tarpeetonta viivytystä. Ulkomaisen aluksen tarkastus tulee rajoittaa sellaisten todistusten ja muiden asiakirjojen tarkastamiseen, joita alukselta Suomea sitovien kansainvälisten sopimusten mukaan vaaditaan, tai aluksen muiden vastaavien asiakirjojen tarkastamiseen. Aluksen saa tarkastaa tarkemmin vasta ensin mainitun tarkastuksen jälkeen ja silloinkin vain, jos on perusteltua syytä epäillä, että aluksen tai sen varusteiden kunto poikkeaa olennaisesti asiakirjojen tiedoista tai asiakirjojen tiedot eivät riitä vahvistamaan tai todentamaan epäiltyä säännösten rikkomista taikka aluksessa ei ole voimassa olevia vaadittavia todistuksia tai asiakirjoja. Vaikka 11 ja 12 §:n mukaisesti suoritetuista tutkimuksista ilmenee, että ulkomaiselta alukselta on rikottu tätä lakia tai sen nojalla annettuja säännöksiä, aluksen tulee viipymättä antaa jatkaa matkaansa. Jos meriympäristölle aiheutuu kohtuutonta vahingonvaaraa siitä, että 12 §:n 4 momentin nojalla Suomen talousvyöhykkeellä pysäytetyn aluksen annetaan jatkaa matkaansa, Liikenteen turvallisuusvirasto voi kieltää matkan jatkamisen tai asettaa matkan jatkamisen ehdoksi, että alus siirretään lähimmälle sopivalle korjaustelakalle. Päätöksestä, jolla matkan jatkaminen on kielletty tai tehty ehdolliseksi, on viipymättä ilmoitettava aluksen lippuvaltiolle. Tarkastuksen toimittamisesta ulkomaisella aluksella sekä aluksen pysäyttämisestä ja sen käytön rajoittamisesta on lisäksi voimassa, mitä alusturvallisuuden valvonnasta annetussa laissa säädetään.",
+      "section_number": "13",
+      "chapter_number": 12,
+      "statute_id": "51/1983"
+    },
+    {
+      "id": "93b3cfb1-1cbf-41af-8483-3630a7103309",
+      "node_type": "Section",
+      "publisher": "finlex",
+      "title": "14 § Vakuuden asettaminen",
+      "text": "Jos on ilmeistä, että alukselta on Suomen aluevesillä tai talousvyöhykkeellä rikottu tätä lakia tai sen nojalla annettuja säännöksiä siten, että Suomen rantaviivalle tai siihen liittyville eduille taikka Suomen aluemeren tai talousvyöhykkeen luonnonvaroille aiheutuu huomattavaa vahinkoa tai sen vaaraa, aluksen matkan jatkamisen ehdoksi voidaan määrätä, että aluksen puolesta on asetettava riittävä vakuus mahdollisen korvausvelvollisuuden täyttämiseksi. Vakuuden asettamisesta ja sen määrästä päättää Suomen ympäristökeskus. Päätökseen haetaan muutosta valittamalla Helsingin hallinto-oikeuteen siten kuin hallintolainkäyttölaissa (586/1996) säädetään. Päätöstä on noudatettava muutoksenhausta huolimatta. Hallinto-oikeuden päätökseen ei saa hakea muutosta valittamalla. Vakuuden tallettamisesta on voimassa, mitä rahan, arvo-osuuksien, arvopaperien tai asiakirjain tallettamisesta velan maksuna tai vapautumiseksi muusta suoritusvelvollisuudesta annetussa laissa säädetään. Vakuus on palautettava sen asettajalle, kun edellytyksiä sen pitämiselle ei enää ole. Ulkomaisen aluksen matkan jatkamiselle asetetuista ehdoista on viipymättä ilmoitettava aluksen lippuvaltiolle.",
+      "section_number": "14",
+      "chapter_number": 12,
+      "statute_id": "51/1983"
+    },
+    {
+      "id": "0827f0b0-899b-443b-8417-a627566074d9",
+      "node_type": "Section",
+      "publisher": "finlex",
+      "title": "15 § Hallintopakko",
+      "text": "Liikenteen turvallisuusvirasto ja elinkeino-, liikenne- ja ympäristökeskus voivat tämän lain mukaiseen toimivaltaansa kuuluvassa asiassa:",
+      "section_number": "15",
+      "chapter_number": 12,
+      "statute_id": "51/1983"
+    },
+    {
+      "id": "5d4efc76-68ee-48de-8e2e-1c7629956483",
+      "node_type": "Section",
+      "publisher": "finlex",
+      "title": "16 § Uhkasakko, teettämisuhka ja keskeyttämisuhka",
+      "text": "Liikenteen turvallisuusvirasto ja elinkeino-, liikenne- ja ympäristökeskus voivat asettaa tämän lain nojalla antamansa kiellon tai määräyksen tehosteeksi uhkasakon, teettämisuhan tai keskeyttämisuhan siten kuin uhkasakkolaissa (1113/1990) säädetään.",
+      "section_number": "16",
+      "chapter_number": 12,
+      "statute_id": "51/1983"
+    },
+    {
+      "id": "e74f7cfd-9914-4bf9-aa57-7e996ff840f2",
+      "node_type": "Section",
+      "publisher": "finlex",
+      "title": "17 § Valvontaviranomaisen toimintavelvollisuus aluksen rikkoessa velvollisuutta jättää jätteet satamaan tai päästäessä ympäristöä pilaavia aineita",
+      "text": "Jos on selvää näyttöä siitä, että alus on rikkonut velvollisuuttaan jättää alusjätteet ja lastijätteet satamaan, Liikenteen turvallisuusviraston on pysäytettävä alus tai, jos satama, jossa alus seuraavaksi käy, on toisessa valtiossa, ilmoitettava toimivaltaiselle valvontaviranomaiselle siten kuin alusjätedirektiivissä säädetään. Jos aluksen on havaittu päästäneen öljyä tai haitallisia nestemäisiä aineita Suomen vesialueella, talousvyöhykkeellä tai aavalla merellä, Suomen ympäristökeskuksen, rajavartiolaitoksen tai Liikenteen turvallisuusviraston on ilmoitettava havaitsemastaan päästöstä satamalle, jossa alus seuraavaksi käy, ja aluksen lippuvaltiolle sekä pyydettävä ryhtymään toimiin päästön johdosta sen mukaan kuin säädetään alusten aiheuttamasta ympäristön pilaantumisesta ja säännösten rikkomisista määrättävistä seuraamuksista annetussa Euroopan parlamentin ja neuvoston direktiivissä 2005/35/EY siihen myöhemmin tehtyine muutoksineen.",
+      "section_number": "17",
+      "chapter_number": 12,
+      "statute_id": "51/1983"
+    },
+    {
+      "id": "e9954b05-b10c-481b-b037-13f3c15f7b8e",
+      "node_type": "Section",
+      "publisher": "finlex",
+      "title": "18 § Tarkemmat säännökset",
+      "text": "Valtioneuvoston asetuksella voidaan antaa tarkempia säännöksiä Liikenteen turvallisuusviraston, Suomen ympäristökeskuksen, elinkeino-, liikenne- ja ympäristökeskuksen, rajavartiolaitoksen, tullilaitoksen ja poliisin tehtävistä valvontaviranomaisina ja niiden välisestä työnjaosta.",
+      "section_number": "18",
+      "chapter_number": 12,
+      "statute_id": "51/1983"
+    },
+    {
+      "id": "018eabec-0aec-4524-b823-33b9a611e8d9",
+      "node_type": "Section",
+      "publisher": "finlex",
+      "title": "1 § Maksu, palkkiot ja kustannusten korvaaminen",
+      "text": "Tässä laissa tarkoitetuista viranomaissuoritteista sekä viranomaisen tarkastustoimenpiteistä perittäviin maksuihin sovelletaan, mitä valtion maksuperustelaissa (150/1992) säädetään. Tarkempia säännöksiä valtion viranomaisille perittävistä maksuista annetaan liikenne- ja viestintäministeriön asetuksella. Kunnalle tämän lain mukaan kuuluvista viranomaistehtävistä voidaan periä maksu, jonka perusteen on soveltuvin osin vastattava valtion maksuperustelakia. Kunnalle perittävän maksun perusteista määrätään tarkemmin kunnan hyväksymässä taksassa. Aluksen tarkastuksen tilaajan on maksettava nimetylle tarkastajalle palkkio tämän suorittamasta tähän lakiin tai sen perusteella annettuihin säännöksiin tai määräyksiin perustuvasta toimenpiteestä tai sellaisen perusteella annettavasta asiakirjasta. Palkkion suuruuden määräytymiseen sovelletaan, mitä aluksen teknisestä turvallisuudesta ja turvallisesta käytöstä annetussa laissa (1686/2009) säädetään nimetylle katsastajalle ja aluksenmittaajalle maksettavasta palkkiosta. Tarkempia säännöksiä palkkion suuruudesta annetaan valtioneuvoston asetuksella. Nimetyllä tarkastajalla on oikeus saada tilaajalta korvaus matkakuluistaan sekä päivärahaa valtion matkustussäännön mukaan. Jos alus ei ole satamalaiturissa, nimetty tarkastaja on kuljetettava alukseen tai hänellä on oikeus saada korvaus kuljetuksen järjestämisestä aiheutuvista kuluistaan. Tässä pykälässä tarkoitetut maksut, palkkiot ja kustannusten korvaukset saadaan periä maksuvelvolliselta siinä järjestyksessä kuin verojen ja maksujen täytäntöönpanosta annetussa laissa (706/2007) säädetään.",
+      "section_number": "1",
+      "chapter_number": 13,
+      "statute_id": "51/1983"
+    },
+    {
+      "id": "ac6cb9bc-c15a-48dd-a3a0-60ba289b11fe",
+      "node_type": "Section",
+      "publisher": "finlex",
+      "title": "2 § Nimetyn tarkastajan pätevyysvaatimukset, nimeäminen ja hyvän hallinnon vaatimukset",
+      "text": "Liikenteen turvallisuusviraston tehtävään nimeämän tarkastajan pätevyysvaatimuksiin sekä nimityskirjan myöntämiseen ja peruuttamiseen sovelletaan, mitä aluksen teknisestä turvallisuudesta ja turvallisesta käytöstä annetussa laissa säädetään nimetystä katsastajasta. Tarkempia säännöksiä nimetyn tarkastajan pätevyysvaatimuksista annetaan valtioneuvoston asetuksella. Nimetyn tarkastajan on tässä laissa tarkoitettuja julkisia hallintotehtäviä hoitaessaan noudatettava, mitä hallintolaissa (434/2003), kielilaissa (423/2003), sähköisestä asioinnista viranomaistoiminnassa annetussa laissa (13/2003) ja viranomaisten toiminnan julkisuudesta annetussa laissa säädetään. Alusten tekniset asiakirjat on kuitenkin annettava aluksessa sillä kielellä, jolla tekniset asiakirjat aluksessa laaditaan. Liikenteen turvallisuusviraston tehtävään nimeämään tarkastajaan sovelletaan rikosoikeudellista virkavastuuta koskevia säännöksiä hänen suorittaessaan tässä laissa tarkoitettuja tehtäviä. Vahingonkorvausvastuusta säädetään vahingonkorvauslaissa (412/1974).",
+      "section_number": "2",
+      "chapter_number": 13,
+      "statute_id": "51/1983"
+    },
+    {
+      "id": "602076ca-38e2-41d4-81b4-a59108adebaf",
+      "node_type": "Section",
+      "publisher": "finlex",
+      "title": "3 § Rangaistussäännökset",
+      "text": "Rangaistus vastoin tätä lakia tai sen nojalla annettuja säännöksiä tai määräyksiä tehdystä ympäristön turmelemisesta, jollei siihen ole syyllistytty huolimattomuudesta ulkomaiselta alukselta, säädetään rikoslain (39/1889) 48 luvun 1―4 §:ssä. Joka muulla tavoin kuin 1 momentissa tarkoitetulla tavalla tahallaan tai huolimattomuudesta toimii vastoin on tuomittava, jollei teko ole vähäinen tai jollei teosta ole muualla laissa säädetty ankarampaa rangaistusta,merenkulun ympäristönsuojelurikkomuksestasakkoon. Sitä, joka rikkoo tämän lain nojalla määrättyä uhkasakolla, teettämisuhalla tai keskeyttämisuhalla tehostettua velvoitetta tai kieltoa, ei voida tuomita 2 momentin nojalla rangaistukseen samasta teosta. Edellä 2 momentissa rangaistavaksi säädetystä menettelystä tuomitaan rangaistukseen se, jonka velvollisuuksien vastainen teko tai laiminlyönti on. Tätä arvioitaessa on otettava huomioon asianomaisen asema, hänen tehtäviensä ja toimivaltuuksiensa laatu ja laajuus sekä muutenkin hänen osuutensa lainvastaisen tilan syntyyn ja jatkumiseen.",
+      "section_number": "3",
+      "chapter_number": 13,
+      "statute_id": "51/1983"
+    },
+    {
+      "id": "81c28de6-831a-48f3-8a86-9c8bfad844bc",
+      "node_type": "Section",
+      "publisher": "finlex",
+      "title": "4 § Velvollisuus ilmoittaa aluksen lippuvaltiolle",
+      "text": "Liikenteen turvallisuusviraston on ilmoitettava viipymättä ulkomaiseen alukseen kohdistuvasta 12 luvun 11 ja 12 §:n mukaisesta menettelystä aluksen lippuvaltiolle. Jos kyse on Suomen vesialueella tehdystä teosta, vain oikeudenkäyntiin liittyvät tiedot on ilmoitettava.",
+      "section_number": "4",
+      "chapter_number": 13,
+      "statute_id": "51/1983"
+    },
+    {
+      "id": "c60d5a14-9a46-4fd0-9d45-43e3f4c895d6",
+      "node_type": "Section",
+      "publisher": "finlex",
+      "title": "5 § Oikeus pakkokeinojen käyttöön Suomen talousvyöhykkeellä ulkomaista alusta kohtaan",
+      "text": "Tutkittaessa sellaista 3 §:ssä tarkoitettua rikoslain 48 luvun 1―4 §:ssä rangaistavaksi säädettyä tekoa, josta rikoslain 48 luvun 10 §:n mukaan rangaistuksena voidaan tuomita vain sakkoa, oikeus pakkokeinojen käyttöön määräytyy rikoslain 48 luvun 1―4 §:ssä säädettyjen rangaistusasteikkojen perusteella.",
+      "section_number": "5",
+      "chapter_number": 13,
+      "statute_id": "51/1983"
+    },
+    {
+      "id": "b6ab3077-e7d3-440f-9d8c-cfc01490cca4",
+      "node_type": "Section",
+      "publisher": "finlex",
+      "title": "6 § Rikosoikeudellinen toimivalta ulkomaisen aluksen osalta",
+      "text": "Sen estämättä, mitä rikoslain 1 luvussa säädetään 3 §:n 2 momentissa tarkoitettujen säännösten rikkomiseen sovelletaan Suomen lakia myös, kun teko on tehty ulkomaiselta alukselta Suomen talousvyöhykkeellä. Jos 3 §:ssä tarkoitettu teko on tehty ulkomaiselta alukselta sen ollessa Suomen talousvyöhykkeellä, rikosasiaa ei saa tutkia Suomessa ilman valtakunnansyyttäjän syytemääräystä, ellei kysymyksessä ole jokin rikoslain 1 luvun 12 §:n 2 momentissa tarkoitettu tapaus. Jos ulkomainen alus ei ole tullut vapaaehtoisesti suomalaiseen satamaan tai ollut vapaaehtoisesti ankkurissa Suomen vesialueella, 2 momentissa tarkoitetusta teosta saa nostaa syytteen vain, jos päästöstä on aiheutunut huomattavaa vahinkoa tai vahingon vaaraa Suomen rantaviivalle taikka siihen liittyville eduille tai Suomen aluemeren tai talousvyöhykkeen luonnonvaroille. Edellä 2 momentissa tarkoitetusta teosta ei saa nostaa syytettä, jos aluksen lippuvaltio ryhtyy oikeudellisiin toimiin rangaistuksen määräämiseksi kuuden kuukauden kuluessa siitä, kun esitutkinta on aloitettu Suomessa. Kun lippuvaltion käynnistämät oikeudelliset toimet on saatu päätökseen, menettely Suomessa on päätettävä. Syytteen 2 momentissa tarkoitetusta teosta saa nostaa 4 momentin estämättä, jos teosta on aiheutunut Suomelle rantavaltiona huomattavaa vahinkoa tai jos aluksen lippuvaltio on toistuvasti laiminlyönyt velvollisuutensa panna tehokkaasti täytäntöön velvoitteet, jotka koskevat sen lipun alla purjehtivilta aluksilta tehtyjä, aluksista aiheutuvan meren pilaantumisen ehkäisemistä koskevien kansainvälisten sopimusten vastaisia tekoja.",
+      "section_number": "6",
+      "chapter_number": 13,
+      "statute_id": "51/1983"
+    },
+    {
+      "id": "79cc8c48-7b54-472b-9956-ad7b780f1711",
+      "node_type": "Section",
+      "publisher": "finlex",
+      "title": "7 § Oikaisuvaatimus",
+      "text": "Asianosainen saa hakea oikaisua Liikenteen turvallisuusvirastolta, jos päätös koskee: Päätökseen, johon saa hakea oikaisua, ei saa hakea valittamalla muutosta. Päätökseen on liitettävä ohjeet oikaisuvaatimuksen tekemiseksi. Oikaisua on haettava 30 päivän kuluessa päätöksen tiedoksisaamisesta tai maksun määräämisestä. Liikenteen turvallisuusviraston on ratkaistava tässä pykälässä tarkoitettu oikaisuvaatimus kahden kuukauden kuluessa oikaisuvaatimuksen vireilletulosta. Päätös oikaisuvaatimukseen on kuitenkin annettava 14 päivän kuluessa oikaisuvaatimuksen vireilletulosta, jos päätös estää aluksen tavanomaisen liikennöinnin.",
+      "section_number": "7",
+      "chapter_number": 13,
+      "statute_id": "51/1983"
+    },
+    {
+      "id": "1944186d-d764-494b-a4a6-73e51b5f1743",
+      "node_type": "Section",
+      "publisher": "finlex",
+      "title": "8 § Muutoksenhaku",
+      "text": "Muuhun kuin 3 luvun 5 §:ssä, 12 luvun 14 ja 16 §:ssä sekä tämän luvun 7 §:ssä tarkoitettuun päätökseen haetaan muutosta valittamalla siten kuin hallintolainkäyttölaissa säädetään. Jos Liikenteen turvallisuusvirasto ei ole antanut oikaisuvaatimuksen johdosta päätöstä sille tämän luvun 7 §:n 3 momentissa varatussa määräajassa, lasketaan valituksen tekemiselle varattu määräaika tämän luvun 7 §:n 3 momentissa tarkoitetun määräajan päättymisestä. Jos päätös estää aluksen tavanomaisen liikennöinnin, valitus on käsiteltävä kiireellisenä.",
+      "section_number": "8",
+      "chapter_number": 13,
+      "statute_id": "51/1983"
+    },
+    {
+      "id": "a9a108ab-b07b-4d0a-bf02-55e5aaf4e5b8",
+      "node_type": "Section",
+      "publisher": "finlex",
+      "title": "9 § Päätöksen täytäntöönpano",
+      "text": "Oikaisuvaatimuksen käsittely tai muutoksenhaku ei estä päätöksen täytäntöönpanoa, ellei oikaisuvaatimuksen käsittelevä viranomainen tai valitusviranomainen toisin määrää. Öljypäästömaksun maksupäätöksen täytäntöönpanosta säädetään 3 luvun 15 §:ssä.",
+      "section_number": "9",
+      "chapter_number": 13,
+      "statute_id": "51/1983"
+    },
+    {
+      "id": "a0bc0595-fd4b-4409-9c72-637fd28ccf2e",
+      "node_type": "Section",
+      "publisher": "finlex",
+      "title": "10 § Toimivaltainen tuomioistuin",
+      "text": "Toimivaltaisena tuomioistuimena tiettyä alusta tai siitä aiheutuneeksi väitettyä ympäristön pilaantumista koskevassa asiassa, jossa tätä lakia on sovellettava, on merilain 21 luvun 1 §:ssä mainittu käräjäoikeus (merioikeus), jonka tuomiopiirissä oikeudenkäynnin aiheuttanut tapahtuma on sattunut. Jos tapahtuma on sattunut aluksen ollessa matkalla, voidaan asia panna vireille myös siinä merioikeudessa, jonka tuomiopiirissä olevaan satamaan alus ensimmäiseksi saapuu. Milloin tämän luvun 3 §:ssä tarkoitettu teko on tapahtunut Suomen talousvyöhykkeellä, rikosasia käsitellään merioikeudessa. Toimivaltainen merioikeus on se, jonka tuomiopiiriä lähinnä rikos voidaan katsoa tehdyksi soveltaen, mitä oikeudenkäynnistä rikosasioissa annetun lain (689/1997) 4 luvun 1 §:n 1 ja 2 momentissa säädetään. Tätä pykälää sovellettaessa näiden merioikeuksien tuomiopiirien rajojen katsotaan jatkuvan aluevesien ulkorajalta suuntaansa muuttamatta talousvyöhykkeen ulkorajaan saakka. Milloin tämän luvun 3 §:ssä tarkoitettu teko on tapahtunut Suomen alueen ulkopuolella muualla kuin Suomen talousvyöhykkeellä, rikosasia käsitellään Helsingin käräjäoikeudessa.",
+      "section_number": "10",
+      "chapter_number": 13,
+      "statute_id": "51/1983"
+    },
+    {
+      "id": "223a7c5e-dd56-461b-ad01-96e1aa07c296",
+      "node_type": "Section",
+      "publisher": "finlex",
+      "title": "11 § Voimaantulo",
+      "text": "Tämä laki tulee voimaan 1 päivänä tammikuuta 2010. Tällä lailla kumotaan aluksista aiheutuvan ympäristön pilaantumisen ehkäisemisestä 16 päivänä maaliskuuta 1979 annettu laki (300/1979) siihen myöhemmin tehtyine muutoksineen. Seuraavat asetukset jäävät kuitenkin voimaan: Ennen lain voimaantuloa voidaan ryhtyä lain täytäntöönpanon edellyttämiin toimiin.",
+      "section_number": "11",
+      "chapter_number": 13,
+      "statute_id": "51/1983"
+    },
+    {
+      "id": "eccc34e4-d378-4ff4-ac02-dac674ab31cf",
+      "node_type": "Section",
+      "publisher": "finlex",
+      "title": "12 § Siirtymäsäännös",
+      "text": "Tämän lain voimaan tullessa voimassa olleen lain nojalla myönnetyt määräaikaiset todistuskirjat, samanarvoisuudet, poikkeusluvat ja muut luvat ovat voimassa tämän lain mukaisina määräajan loppuun. Liite Öljypäästömaksu (€) aluksen bruttovetoisuuden perusteella",
+      "section_number": "12",
+      "chapter_number": 13,
+      "statute_id": "51/1983"
+    }
+  ],
+  "clauses": [
+    {
+      "id": "f2b0b7fd-7dc3-4e26-8e53-bcb84ade37fe",
+      "node_type": "Clause",
+      "publisher": "finlex",
+      "title": "§ 2 mom 3",
+      "text": "3) \n                                        SOLAS―yleissopimuksellaihmishengen turvallisuudesta merellä vuonna 1974 tehtyä kansainvälistä yleissopimusta (SopS 11/1981) ja siihen myöhemmin tehtyjä muutoksia;",
+      "clause_number": 3,
+      "section_number": "2",
+      "statute_id": "51/1983"
+    },
+    {
+      "id": "edebe557-1cf6-44d9-b9c8-09384d6b0410",
+      "node_type": "Clause",
+      "publisher": "finlex",
+      "title": "§ 2 mom 47",
+      "text": "47) VTS-viranomaisellaalusliikennepalvelulaissa (623/2005) tarkoitettua Liikenneviraston yksikköä, joka ylläpitää alusliikennepalvelua;",
+      "clause_number": 47,
+      "section_number": "2",
+      "statute_id": "51/1983"
+    },
+    {
+      "id": "482b1e05-4594-4ac5-a8e1-227a8a2d5c5d",
+      "node_type": "Clause",
+      "publisher": "finlex",
+      "title": "§ 2 mom 1",
+      "text": "1) päästäminen on tarpeen aluksen turvallisuuden varmistamiseksi tai ihmishengen pelastamiseksi;",
+      "clause_number": 1,
+      "section_number": "2",
+      "statute_id": "51/1983"
+    },
+    {
+      "id": "0d4cba22-b75c-48c1-ae4a-0114869368ac",
+      "node_type": "Clause",
+      "publisher": "finlex",
+      "title": "§ 2 mom 2",
+      "text": "2) öljyn veteen pääseminen aiheutuu aluksen tai sen varusteiden vahingoittumisesta ja kaikkiin kohtuullisiin toimenpiteisiin on ryhdytty vahingoittumisen jälkeen; tai",
+      "clause_number": 2,
+      "section_number": "2",
+      "statute_id": "51/1983"
+    },
+    {
+      "id": "9eca46bd-779c-4958-b636-2d0d8b396d27",
+      "node_type": "Clause",
+      "publisher": "finlex",
+      "title": "§ 2 mom 3",
+      "text": "3) kysymys on sellaisten öljypitoisten aineiden veteen päästämisestä, joita käytetään pilaantumisen aiheuttaman vahingon vähentämiseksi ja asianomainen vahinkojen torjuntaviranomainen on kussakin yksittäistapauksessa päättänyt aineen käytöstä.",
+      "clause_number": 3,
+      "section_number": "2",
+      "statute_id": "51/1983"
+    },
+    {
+      "id": "af689f03-253c-4de2-9c45-2af1a92f0722",
+      "node_type": "Clause",
+      "publisher": "finlex",
+      "title": "§ 8 mom 1",
+      "text": "1) raskasta polttoöljyä lastisäiliöissä; ja",
+      "clause_number": 1,
+      "section_number": "8",
+      "statute_id": "51/1983"
+    },
+    {
+      "id": "73d6abaa-a072-4c8b-9a57-2743282fe19d",
+      "node_type": "Clause",
+      "publisher": "finlex",
+      "title": "§ 8 mom 2",
+      "text": "2) mitä tahansa öljyä aluksen pohjaan tai ulkolaitaan rajoittuvissa lastisäiliöissä.",
+      "clause_number": 2,
+      "section_number": "8",
+      "statute_id": "51/1983"
+    },
+    {
+      "id": "fbe48994-7bd0-42ef-abb3-eca487f44dea",
+      "node_type": "Clause",
+      "publisher": "finlex",
+      "title": "§ 9 mom 2",
+      "text": "1) 1 luvun 6 §:n 2 momentin säännöstä haitallisten aineiden sekoittamisesta;",
+      "clause_number": 2,
+      "section_number": "9",
+      "statute_id": "51/1983"
+    },
+    {
+      "id": "84c2e60e-b0cf-4a7c-9d77-336756d73727",
+      "node_type": "Clause",
+      "publisher": "finlex",
+      "title": "§ 9 mom 1",
+      "text": "1) 1 luvun 6 §:n 2 momentin säännöstä haitallisten aineiden sekoittamisesta;",
+      "clause_number": 1,
+      "section_number": "9",
+      "statute_id": "51/1983"
+    },
+    {
+      "id": "3ee6f692-6f68-446d-9844-1ce61b413438",
+      "node_type": "Clause",
+      "publisher": "finlex",
+      "title": "§ 9 mom 2",
+      "text": "2) tämän luvun 1―4 §:n säännöksiä öljypäästöistä ja niiden ehkäisemisestä; ja",
+      "clause_number": 2,
+      "section_number": "9",
+      "statute_id": "51/1983"
+    },
+    {
+      "id": "05641359-7967-4ddb-abf5-3a63af6a0569",
+      "node_type": "Clause",
+      "publisher": "finlex",
+      "title": "§ 9 mom 4",
+      "text": "3) tämän luvun 6 §:n 2―4 momentin säännöksiä koneistotiloja koskevasta öljypäiväkirjasta.",
+      "clause_number": 4,
+      "section_number": "9",
+      "statute_id": "51/1983"
+    },
+    {
+      "id": "7d0848f8-c193-42e8-a8e3-e8b0f47196b8",
+      "node_type": "Clause",
+      "publisher": "finlex",
+      "title": "§ 9 mom 3",
+      "text": "3) tämän luvun 6 §:n 2―4 momentin säännöksiä koneistotiloja koskevasta öljypäiväkirjasta.",
+      "clause_number": 3,
+      "section_number": "9",
+      "statute_id": "51/1983"
+    },
+    {
+      "id": "4274108c-f00f-437b-95c3-3e4a23a6fcd6",
+      "node_type": "Clause",
+      "publisher": "finlex",
+      "title": "§ 10 mom 1",
+      "text": "1) 3 ja 4 §:ssä aluksille, porauslautoille ja muille alustoille säädettyjä vaatimuksia koskevista poikkeuksista ja samanarvoisuuksista sekä poistoveden öljypitoisuuden käsittelylaitteita ja nesteidensiirtoa koskevista malleista;",
+      "clause_number": 1,
+      "section_number": "10",
+      "statute_id": "51/1983"
+    },
+    {
+      "id": "ca487c96-3fca-4177-8482-c1164907e45b",
+      "node_type": "Clause",
+      "publisher": "finlex",
+      "title": "§ 10 mom 2",
+      "text": "2) 5 §:ssä tarkoitetun valmiussuunnitelman sisällöstä ja rakenteesta;",
+      "clause_number": 2,
+      "section_number": "10",
+      "statute_id": "51/1983"
+    },
+    {
+      "id": "f5ee132c-0501-4e63-b6cf-7d50766f3da6",
+      "node_type": "Clause",
+      "publisher": "finlex",
+      "title": "§ 10 mom 3",
+      "text": "3) 6 §:ssä tarkoitetun öljypäiväkirjan kaavasta; ja",
+      "clause_number": 3,
+      "section_number": "10",
+      "statute_id": "51/1983"
+    },
+    {
+      "id": "f57f31f0-379a-45d2-a5fb-b178ab946a40",
+      "node_type": "Clause",
+      "publisher": "finlex",
+      "title": "§ 10 mom 4",
+      "text": "4) 7 §:ssä tarkoitetun IOPP-todistuskirjan kaavasta.",
+      "clause_number": 4,
+      "section_number": "10",
+      "statute_id": "51/1983"
+    },
+    {
+      "id": "53afa910-73d8-47da-88a5-257bbc10a4c9",
+      "node_type": "Clause",
+      "publisher": "finlex",
+      "title": "§ 12 mom 1",
+      "text": "1) merioikeus ei pidä valituksen tekijän henkilökohtaista kuulemista tarpeellisena; ja",
+      "clause_number": 1,
+      "section_number": "12",
+      "statute_id": "51/1983"
+    },
+    {
+      "id": "6b4752f6-7ba1-4963-8904-65ec9e9dc1bf",
+      "node_type": "Clause",
+      "publisher": "finlex",
+      "title": "§ 12 mom 2",
+      "text": "2) valituksen tekijä on kutsuttu merioikeuteen sillä uhalla, että asia voidaan tutkia ja ratkaista valituksen tekijän poissaolosta huolimatta.",
+      "clause_number": 2,
+      "section_number": "12",
+      "statute_id": "51/1983"
+    },
+    {
+      "id": "e9ae15ad-f095-4451-b4ce-894be8bb1278",
+      "node_type": "Clause",
+      "publisher": "finlex",
+      "title": "§ 3 mom 1",
+      "text": "1) päästäminen on tarpeen aluksen turvallisuuden varmistamiseksi tai ihmishengen pelastamiseksi;",
+      "clause_number": 1,
+      "section_number": "3",
+      "statute_id": "51/1983"
+    },
+    {
+      "id": "af4b2d1e-91bc-4ab0-89a8-777135c3bcd7",
+      "node_type": "Clause",
+      "publisher": "finlex",
+      "title": "§ 3 mom 2",
+      "text": "2) haitallisen nestemäisen aineen veteen pääseminen aiheutuu aluksen tai sen varusteiden vahingoittumisesta ja kaikkiin kohtuullisiin toimenpiteisiin on ryhdytty vahingoittumisen jälkeen; tai",
+      "clause_number": 2,
+      "section_number": "3",
+      "statute_id": "51/1983"
+    },
+    {
+      "id": "f642267f-1867-45a7-b96e-61154c226fe6",
+      "node_type": "Clause",
+      "publisher": "finlex",
+      "title": "§ 3 mom 3",
+      "text": "3) kysymys on sellaisten haitallisten nestemäisten aineiden veteen päästämisestä, joita käytetään pilaantumisen aiheuttaman vahingon vähentämiseksi ja asianomainen vahinkojen torjuntaviranomainen on kussakin yksittäistapauksessa päättänyt aineen käytöstä.",
+      "clause_number": 3,
+      "section_number": "3",
+      "statute_id": "51/1983"
+    },
+    {
+      "id": "e57ce130-df99-4e07-96f9-e291a30ffbac",
+      "node_type": "Clause",
+      "publisher": "finlex",
+      "title": "§ 10 mom 1",
+      "text": "1) 1 §:ssä tarkoitetusta haitallisten nestemäisten aineiden luokittelusta;",
+      "clause_number": 1,
+      "section_number": "10",
+      "statute_id": "51/1983"
+    },
+    {
+      "id": "dc52ac83-f605-4924-a963-1f328d4d47b9",
+      "node_type": "Clause",
+      "publisher": "finlex",
+      "title": "§ 10 mom 2",
+      "text": "2) 2 ja 9 §:ssä tarkoitetuista päästörajoituksista lastin purkamisen, esipesuvaatimusten, poistoveden pitoisuuksien, säiliön pesun valvonnan, lastitilojen tuulettamisen ja poistoveden tyhjennysolosuhteiden osalta; ja",
+      "clause_number": 2,
+      "section_number": "10",
+      "statute_id": "51/1983"
+    },
+    {
+      "id": "06ed0b6d-048d-46e0-aec0-92c1362fb794",
+      "node_type": "Clause",
+      "publisher": "finlex",
+      "title": "§ 10 mom 3",
+      "text": "3) 4 §:ssä tarkoitetuista kemikaalisäiliöaluksille asetettavista rakenteellisista vaatimuksista.",
+      "clause_number": 3,
+      "section_number": "10",
+      "statute_id": "51/1983"
+    },
+    {
+      "id": "4aa064eb-43ef-4eee-bf85-cc3a920cdc95",
+      "node_type": "Clause",
+      "publisher": "finlex",
+      "title": "§ 10 mom 1",
+      "text": "1) 4 §:ssä tarkoitetuista poikkeuksista, vapautuksista ja samanarvoisuuksista;",
+      "clause_number": 1,
+      "section_number": "10",
+      "statute_id": "51/1983"
+    },
+    {
+      "id": "d481f8d6-3cf0-440d-a726-820250f7c38a",
+      "node_type": "Clause",
+      "publisher": "finlex",
+      "title": "§ 10 mom 2",
+      "text": "2) 5 §:ssä tarkoitetusta valmiussuunnitelmasta;",
+      "clause_number": 2,
+      "section_number": "10",
+      "statute_id": "51/1983"
+    },
+    {
+      "id": "2b23cec2-3a84-4396-b6fb-a7bc0f5ee371",
+      "node_type": "Clause",
+      "publisher": "finlex",
+      "title": "§ 10 mom 3",
+      "text": "3) 6 §:ssä tarkoitetusta menettelytapaohjekirjasta;",
+      "clause_number": 3,
+      "section_number": "10",
+      "statute_id": "51/1983"
+    },
+    {
+      "id": "77ebdee8-d624-4bb3-a673-c76aee656a8f",
+      "node_type": "Clause",
+      "publisher": "finlex",
+      "title": "§ 10 mom 4",
+      "text": "4) 7 §:ssä tarkoitetusta lastipäiväkirjasta; ja",
+      "clause_number": 4,
+      "section_number": "10",
+      "statute_id": "51/1983"
+    },
+    {
+      "id": "ebb1c8d5-c5d7-4fe3-9068-31017b6a4a93",
+      "node_type": "Clause",
+      "publisher": "finlex",
+      "title": "§ 10 mom 5",
+      "text": "5) 8 §:ssä tarkoitetuista todistuskirjoista.",
+      "clause_number": 5,
+      "section_number": "10",
+      "statute_id": "51/1983"
+    },
+    {
+      "id": "5e3ed3ca-f7df-46ff-b12d-4ffe5ec22eb5",
+      "node_type": "Clause",
+      "publisher": "finlex",
+      "title": "§ 2 mom 1",
+      "text": "1) päästäminen on tarpeen aluksen tai sillä olevien turvallisuuden varmistamiseksi taikka ihmishengen pelastamiseksi; tai",
+      "clause_number": 1,
+      "section_number": "2",
+      "statute_id": "51/1983"
+    },
+    {
+      "id": "15809e04-82b6-4418-9abb-d91228c96245",
+      "node_type": "Clause",
+      "publisher": "finlex",
+      "title": "§ 2 mom 2",
+      "text": "2) käymäläjäteveden päästäminen aiheutuu aluksen tai sen varusteiden vaurioitumisesta ja kaikkiin kohtuullisiin varotoimenpiteisiin veteen pääsyn estämiseksi tai vähentämiseksi on ryhdytty ennen vaurioitumista ja sen jälkeen.",
+      "clause_number": 2,
+      "section_number": "2",
+      "statute_id": "51/1983"
+    },
+    {
+      "id": "6f8b4506-6fdf-4e93-9ee2-838097580f85",
+      "node_type": "Clause",
+      "publisher": "finlex",
+      "title": "§ 6 mom 1",
+      "text": "1) kyseessä on huvivene tai muu alus, jonka bruttovetoisuus on alle 400, tai alus, joka saa kuljettaa enintään 15 matkustajaa;",
+      "clause_number": 1,
+      "section_number": "6",
+      "statute_id": "51/1983"
+    },
+    {
+      "id": "e859341a-4e2a-47c2-93fd-470bb860dd33",
+      "node_type": "Clause",
+      "publisher": "finlex",
+      "title": "§ 6 mom 2",
+      "text": "2) alus on rakennettu ennen 1 päivää tammikuuta 2000; ja",
+      "clause_number": 2,
+      "section_number": "6",
+      "statute_id": "51/1983"
+    },
+    {
+      "id": "19462605-d1cf-4506-b42d-97be8ea931e9",
+      "node_type": "Clause",
+      "publisher": "finlex",
+      "title": "§ 6 mom 3",
+      "text": "3) päästökiellon noudattamiseen tarvittavan laitteiston asentaminen on teknisesti vaikeaa tai asentamisesta aiheutuvat kustannukset ovat aluksen arvoon nähden kohtuuttoman suuret.",
+      "clause_number": 3,
+      "section_number": "6",
+      "statute_id": "51/1983"
+    },
+    {
+      "id": "fa3c1091-2bce-458d-9284-246edc951bd6",
+      "node_type": "Clause",
+      "publisher": "finlex",
+      "title": "§ 7 mom 1",
+      "text": "1) 1 §:ssä tarkoitetuista käymäläjäteveden päästökiellosta ja päästörajoituksesta;",
+      "clause_number": 1,
+      "section_number": "7",
+      "statute_id": "51/1983"
+    },
+    {
+      "id": "61588bb7-0760-4b01-9b71-41e625d9050a",
+      "node_type": "Clause",
+      "publisher": "finlex",
+      "title": "§ 7 mom 2",
+      "text": "2) siitä, minkälainen käymäläjätevesi katsotaan 1 §:ssä tarkoitetulla tavalla käsitellyksi;",
+      "clause_number": 2,
+      "section_number": "7",
+      "statute_id": "51/1983"
+    },
+    {
+      "id": "6155aba9-ef28-4d70-bcea-4bce2bffd580",
+      "node_type": "Clause",
+      "publisher": "finlex",
+      "title": "§ 7 mom 3",
+      "text": "3) 3 ja 4 §:ssä tarkoitetuista aluksille ja huviveneille säädetyistä vaatimuksista; ja",
+      "clause_number": 3,
+      "section_number": "7",
+      "statute_id": "51/1983"
+    },
+    {
+      "id": "cfa64859-1845-4d0b-8bc0-6c777562c867",
+      "node_type": "Clause",
+      "publisher": "finlex",
+      "title": "§ 7 mom 4",
+      "text": "4) 6 §:ssä tarkoitetuista päästökieltoa koskevista poikkeuksista.",
+      "clause_number": 4,
+      "section_number": "7",
+      "statute_id": "51/1983"
+    },
+    {
+      "id": "9d9d6424-7bb8-4211-8b01-9cb91135db03",
+      "node_type": "Clause",
+      "publisher": "finlex",
+      "title": "§ 2 mom 1",
+      "text": "1) poistaminen on tarpeen aluksen tai sillä olevien turvallisuuden varmistamiseksi taikka ihmishengen pelastamiseksi;",
+      "clause_number": 1,
+      "section_number": "2",
+      "statute_id": "51/1983"
+    },
+    {
+      "id": "1d1dfb83-6e3a-4900-a5dc-eec0e3ed2555",
+      "node_type": "Clause",
+      "publisher": "finlex",
+      "title": "§ 2 mom 2",
+      "text": "2) kiinteän jätteen veteen poistaminen aiheutuu aluksen tai sen varusteiden vaurioitumisesta edellyttäen, että kaikkiin kohtuullisiin varotoimenpiteisiin veteen pääsyn estämiseksi tai vähentämiseksi on ryhdytty ennen vaurioitumista ja sen jälkeen; tai",
+      "clause_number": 2,
+      "section_number": "2",
+      "statute_id": "51/1983"
+    },
+    {
+      "id": "cd84691b-7489-42a8-a047-2ae7af83f7ef",
+      "node_type": "Clause",
+      "publisher": "finlex",
+      "title": "§ 2 mom 3",
+      "text": "3) kiinteän jätteen veteen poistaminen johtuu synteettisten kalaverkkojen katoamisesta vahingossa, jos kaikkiin kohtuullisiin varotoimenpiteisiin on ryhdytty kalaverkkojen katoamisen estämiseksi.",
+      "clause_number": 3,
+      "section_number": "2",
+      "statute_id": "51/1983"
+    },
+    {
+      "id": "91ddea6f-73cc-49d7-8147-b6a7effeb060",
+      "node_type": "Clause",
+      "publisher": "finlex",
+      "title": "§ 6 mom 1",
+      "text": "1) 1 §:ssä tarkoitetun kiinteän jätteen poistamisrajoituksen noudattamiseksi tarvittavia hienonnuslaitteistoja koskevista tyyppihyväksynnöistä; ja",
+      "clause_number": 1,
+      "section_number": "6",
+      "statute_id": "51/1983"
+    },
+    {
+      "id": "fd53459a-327e-4f02-a15f-957d960e3c99",
+      "node_type": "Clause",
+      "publisher": "finlex",
+      "title": "§ 6 mom 2",
+      "text": "2) 5 §:ssä tarkoitetusta aluksen jätepäiväkirjan kaavasta.",
+      "clause_number": 2,
+      "section_number": "6",
+      "statute_id": "51/1983"
+    },
+    {
+      "id": "1c0fa32f-7e9d-406f-a8e6-10dc476833a5",
+      "node_type": "Clause",
+      "publisher": "finlex",
+      "title": "§ 4 mom 1",
+      "text": "1) toimiin, jotka ovat tarpeen aluksen turvallisuuden varmistamiseksi tai ihmishengen pelastamiseksi;",
+      "clause_number": 1,
+      "section_number": "4",
+      "statute_id": "51/1983"
+    },
+    {
+      "id": "bc62baa0-d2e8-4a99-86a0-eba47dfb4db9",
+      "node_type": "Clause",
+      "publisher": "finlex",
+      "title": "§ 4 mom 2",
+      "text": "2) aluksen tai sen varusteiden vahingoittumisesta aiheutuneisiin päästöihin, jos kaikkiin kohtuullisiin toimenpiteisiin päästön ehkäisemiseksi tai vähentämiseksi on ryhdytty vahingoittumisen jälkeen eikä laivanisäntä tai aluksen päällikkö ole aiheuttanut vahinkoa tahallisesti tai toiminut huolimattomasti tietäen, että vahinko todennäköisesti seuraisi.",
+      "clause_number": 2,
+      "section_number": "4",
+      "statute_id": "51/1983"
+    },
+    {
+      "id": "bcf92659-6e1f-489e-a927-21f79d8f2f1d",
+      "node_type": "Clause",
+      "publisher": "finlex",
+      "title": "§ 15 mom 1",
+      "text": "1) 1 §:ssä tarkoitetuista päästökiellosta ja päästörajoituksesta;",
+      "clause_number": 1,
+      "section_number": "15",
+      "statute_id": "51/1983"
+    },
+    {
+      "id": "4d8e373b-61e5-4235-8b51-b8892cb3e25c",
+      "node_type": "Clause",
+      "publisher": "finlex",
+      "title": "§ 15 mom 2",
+      "text": "2) 2 §:ssä tarkoitetuista päästökiellosta ja päästörajoituksesta;",
+      "clause_number": 2,
+      "section_number": "15",
+      "statute_id": "51/1983"
+    },
+    {
+      "id": "87a24e54-41eb-4996-bcca-cdef4e52cd1c",
+      "node_type": "Clause",
+      "publisher": "finlex",
+      "title": "§ 15 mom 3",
+      "text": "3) 5 §:ssä tarkoitetuista aluksella käytettävien moottoreiden päästövaatimuksista ja moottoreissa käytettävistä pakokaasujen puhdistuslaitteista ja puhdistusmenetelmistä sekä pakokaasujen puhdistuslaitteiden käytöstä aiheutuvista päästöistä veteen;",
+      "clause_number": 3,
+      "section_number": "15",
+      "statute_id": "51/1983"
+    },
+    {
+      "id": "1fc37550-2fd7-4cff-806d-02e961a195c0",
+      "node_type": "Clause",
+      "publisher": "finlex",
+      "title": "§ 15 mom 4",
+      "text": "4) 5 §:ssä tarkoitetuista alusten moottoreiden sekä pakokaasujen puhdistuslaitteiden ja puhdistusmenetelmien vaatimustenmukaisuudesta myönnettävistä poikkeuksista;",
+      "clause_number": 4,
+      "section_number": "15",
+      "statute_id": "51/1983"
+    },
+    {
+      "id": "031775e2-3332-4592-a76d-27a2a6be21b7",
+      "node_type": "Clause",
+      "publisher": "finlex",
+      "title": "§ 15 mom 5",
+      "text": "5) 6 §:ssä tarkoitetusta IAPP-todistuskirjasta;",
+      "clause_number": 5,
+      "section_number": "15",
+      "statute_id": "51/1983"
+    },
+    {
+      "id": "a9308a3f-579d-469a-b28a-21e786e37840",
+      "node_type": "Clause",
+      "publisher": "finlex",
+      "title": "§ 15 mom 6",
+      "text": "6) 7―9 §:ssä tarkoitetuista aluksilla käytettävän polttoaineen laatuvaatimuksista, polttoaineen laadun määritysmenetelmistä, polttoaineen luovutustodistuksesta ja sen antamisesta sekä näihin liittyvän tarkkailun ja valvonnan järjestämisestä;",
+      "clause_number": 6,
+      "section_number": "15",
+      "statute_id": "51/1983"
+    },
+    {
+      "id": "b02fc221-ed14-4f75-9a59-89a01d2b006e",
+      "node_type": "Clause",
+      "publisher": "finlex",
+      "title": "§ 15 mom 7",
+      "text": "7) 10 §:ssä tarkoitetusta uuden päästöjenvähentämisteknologian koekäytöstä;",
+      "clause_number": 7,
+      "section_number": "15",
+      "statute_id": "51/1983"
+    },
+    {
+      "id": "25b25d6e-3a90-4219-960c-4ad16edf3652",
+      "node_type": "Clause",
+      "publisher": "finlex",
+      "title": "§ 15 mom 8",
+      "text": "8) 11 §:ssä tarkoitetuista aineista, joiden poltto on kielletty Suomen talousvyöhykkeellä ja suomalaisella aluksella myös Suomen aluevesien ja talousvyöhykkeen ulkopuolella;",
+      "clause_number": 8,
+      "section_number": "15",
+      "statute_id": "51/1983"
+    },
+    {
+      "id": "27ce3898-418a-4c02-89ef-d010a5cbe394",
+      "node_type": "Clause",
+      "publisher": "finlex",
+      "title": "§ 15 mom 9",
+      "text": "9) 10 ja 13 §:ssä tarkoitetusta toiminnanharjoittajan velvollisuudesta luovuttaa tietoja polttoaineen määristä ja laadusta, rikkipitoisuudesta ja päästöjen vähentämisteknologian koekäytön tuloksista asetuksessa säädettävälle viranomaiselle tämän luvun mukaisten velvoitteiden täyttämiseksi; sekä",
+      "clause_number": 9,
+      "section_number": "15",
+      "statute_id": "51/1983"
+    },
+    {
+      "id": "7b15ab55-7466-4e2b-980d-bb0991b7cb1b",
+      "node_type": "Clause",
+      "publisher": "finlex",
+      "title": "§ 15 mom 10",
+      "text": "10) 14 §:ssä tarkoitetun polttoaineen laatuvaatimuksista myönnettävän määräaikaisen poikkeuksen tarkemmista perusteista.",
+      "clause_number": 10,
+      "section_number": "15",
+      "statute_id": "51/1983"
+    },
+    {
+      "id": "4d6669ab-3582-4a29-a207-82fe46cd2a77",
+      "node_type": "Clause",
+      "publisher": "finlex",
+      "title": "§ 1 mom 1",
+      "text": "1) öljypitoiset jätteet;",
+      "clause_number": 1,
+      "section_number": "1",
+      "statute_id": "51/1983"
+    },
+    {
+      "id": "7096acce-7c17-453d-9457-7816e366cb90",
+      "node_type": "Clause",
+      "publisher": "finlex",
+      "title": "§ 1 mom 2",
+      "text": "2) haitallisia nestemäisiä aineita sisältävät jätteet;",
+      "clause_number": 2,
+      "section_number": "1",
+      "statute_id": "51/1983"
+    },
+    {
+      "id": "f241cdcd-1015-4530-9c75-8a56a42fb67d",
+      "node_type": "Clause",
+      "publisher": "finlex",
+      "title": "§ 1 mom 3",
+      "text": "3) käymäläjätevedet;",
+      "clause_number": 3,
+      "section_number": "1",
+      "statute_id": "51/1983"
+    },
+    {
+      "id": "c072c128-b851-4f92-9c77-dd899d23c7cb",
+      "node_type": "Clause",
+      "publisher": "finlex",
+      "title": "§ 1 mom 4",
+      "text": "4) kiinteät jätteet;",
+      "clause_number": 4,
+      "section_number": "1",
+      "statute_id": "51/1983"
+    },
+    {
+      "id": "3b8c6d8b-4e82-40b0-8cec-297d3c1b4588",
+      "node_type": "Clause",
+      "publisher": "finlex",
+      "title": "§ 1 mom 5",
+      "text": "5) pakokaasujen puhdistusjätteet, joiden päästäminen ympäristöön on MARPOL 73/78 -yleissopimuksen VI liitteen mukaan kiellettyä; sekä",
+      "clause_number": 5,
+      "section_number": "1",
+      "statute_id": "51/1983"
+    },
+    {
+      "id": "f5a81d45-2b85-4769-9742-c74032e71366",
+      "node_type": "Clause",
+      "publisher": "finlex",
+      "title": "§ 1 mom 6",
+      "text": "6) lastijätteet.",
+      "clause_number": 6,
+      "section_number": "1",
+      "statute_id": "51/1983"
+    },
+    {
+      "id": "4bb0ca7d-0769-4604-9410-c882a04fba84",
+      "node_type": "Clause",
+      "publisher": "finlex",
+      "title": "§ 8 mom 1",
+      "text": "1) 1 §:ssä tarkoitetuista jätteiden vastaanottojärjestelyistä satamassa;",
+      "clause_number": 1,
+      "section_number": "8",
+      "statute_id": "51/1983"
+    },
+    {
+      "id": "69565687-8e55-4ca2-8843-962d7b907e3a",
+      "node_type": "Clause",
+      "publisher": "finlex",
+      "title": "§ 8 mom 2",
+      "text": "2) 2 §:ssä tarkoitetuista jätteiden vastaanottojärjestelyistä korjaussatamassa; ja",
+      "clause_number": 2,
+      "section_number": "8",
+      "statute_id": "51/1983"
+    },
+    {
+      "id": "bd544875-99e4-4c15-a544-978fcb538e48",
+      "node_type": "Clause",
+      "publisher": "finlex",
+      "title": "§ 8 mom 3",
+      "text": "3) 3 §:ssä tarkoitetun sataman jätehuoltosuunnitelman rakenteesta ja sisällöstä.",
+      "clause_number": 3,
+      "section_number": "8",
+      "statute_id": "51/1983"
+    },
+    {
+      "id": "03a2eac6-bc92-44c5-8dc1-c4f9be1f3f5e",
+      "node_type": "Clause",
+      "publisher": "finlex",
+      "title": "§ 1 mom 1",
+      "text": "1) valtioneuvoston asetuksella säädettäviä vähäisiä määriä jätettä;",
+      "clause_number": 1,
+      "section_number": "1",
+      "statute_id": "51/1983"
+    },
+    {
+      "id": "672cbe1e-c08e-4992-a26d-d288a0b8141c",
+      "node_type": "Clause",
+      "publisher": "finlex",
+      "title": "§ 1 mom 2",
+      "text": "2) tapauksia, joissa jätteiden jättäminen satamaan aluksesta riippumattomasta syystä aiheuttaa alukselle tarpeetonta viivytystä; lisäksi edellytetään, että aluksella on riittävät erilliset säilytystilat kaikelle alukselle kertyneelle ja aiotun matkan aikana kertyvälle alusjätteelle ja lastijätteelle; tai",
+      "clause_number": 2,
+      "section_number": "1",
+      "statute_id": "51/1983"
+    },
+    {
+      "id": "362fddb7-a7e2-4d7a-8e1f-70cbc4a3c56c",
+      "node_type": "Clause",
+      "publisher": "finlex",
+      "title": "§ 1 mom 3",
+      "text": "3) käymäläjäteveden jättämistä aluksilta, joiden käymäläjätevesitankeissa on tilaa seuraavaan satamaan suuntautuvaa matkaa varten.",
+      "clause_number": 3,
+      "section_number": "1",
+      "statute_id": "51/1983"
+    },
+    {
+      "id": "55106bd3-e0d9-45d5-870f-203e90924e80",
+      "node_type": "Clause",
+      "publisher": "finlex",
+      "title": "§ 1 mom 1",
+      "text": "1) on olemassa vaara, että jätteet päästetään veteen; ja",
+      "clause_number": 1,
+      "section_number": "1",
+      "statute_id": "51/1983"
+    },
+    {
+      "id": "a357fb03-d0cf-4bd2-9639-0643ba998042",
+      "node_type": "Clause",
+      "publisher": "finlex",
+      "title": "§ 1 mom 2",
+      "text": "2) on perusteltua aihetta olettaa, että siinä satamassa, jonne jätteet aiotaan toimittaa, ei ole asianmukaisia vastaanottolaitteita eikä ole tiedossa, mihin satamaan jätteet aiotaan toimittaa.",
+      "clause_number": 2,
+      "section_number": "1",
+      "statute_id": "51/1983"
+    },
+    {
+      "id": "ec6eb5e6-f113-421d-9564-475e5c46410f",
+      "node_type": "Clause",
+      "publisher": "finlex",
+      "title": "§ 2 mom 1",
+      "text": "1) öljypitoiset jätteet;",
+      "clause_number": 1,
+      "section_number": "2",
+      "statute_id": "51/1983"
+    },
+    {
+      "id": "1a7eb7c5-1fb4-40e7-a8d3-62b62b26e4ad",
+      "node_type": "Clause",
+      "publisher": "finlex",
+      "title": "§ 2 mom 2",
+      "text": "2) kiinteä jäte lastijätettä lukuun ottamatta; ja",
+      "clause_number": 2,
+      "section_number": "2",
+      "statute_id": "51/1983"
+    },
+    {
+      "id": "aa2fbe04-9e88-47e3-9dc4-0afa6ba6d4af",
+      "node_type": "Clause",
+      "publisher": "finlex",
+      "title": "§ 2 mom 3",
+      "text": "3) käymäläjätevesi.",
+      "clause_number": 3,
+      "section_number": "2",
+      "statute_id": "51/1983"
+    },
+    {
+      "id": "f061152a-6c12-4adf-8557-0efd7207d701",
+      "node_type": "Clause",
+      "publisher": "finlex",
+      "title": "§ 3 mom 1",
+      "text": "1) 1 §:ssä tarkoitetusta öljyvahingosta ja sen vaarasta ilmoittamisen tavasta; ja",
+      "clause_number": 1,
+      "section_number": "3",
+      "statute_id": "51/1983"
+    },
+    {
+      "id": "55a1e0b6-7218-48ba-bea6-2fd5fc11b5ff",
+      "node_type": "Clause",
+      "publisher": "finlex",
+      "title": "§ 3 mom 2",
+      "text": "2) 2 §:ssä tarkoitetusta muun haitallisen aineen päästöstä ja sen vaarasta ilmoittamisen tavasta.",
+      "clause_number": 2,
+      "section_number": "3",
+      "statute_id": "51/1983"
+    },
+    {
+      "id": "15711cb3-f41e-41d3-b15e-9f747266ce21",
+      "node_type": "Clause",
+      "publisher": "finlex",
+      "title": "§ 2 mom 1",
+      "text": "1) alusta ja sen rakennetta sekä lastia;",
+      "clause_number": 1,
+      "section_number": "2",
+      "statute_id": "51/1983"
+    },
+    {
+      "id": "c1bf8deb-c6b7-45af-99bf-bc86741fcc21",
+      "node_type": "Clause",
+      "publisher": "finlex",
+      "title": "§ 2 mom 2",
+      "text": "2) aluksen polttoainetta ja sen laatua;",
+      "clause_number": 2,
+      "section_number": "2",
+      "statute_id": "51/1983"
+    },
+    {
+      "id": "27d65fb3-ad1e-4a17-82f2-e248b06c9435",
+      "node_type": "Clause",
+      "publisher": "finlex",
+      "title": "§ 2 mom 3",
+      "text": "3) aluksesta ilmaan ja veteen meneviä päästöjä;",
+      "clause_number": 3,
+      "section_number": "2",
+      "statute_id": "51/1983"
+    },
+    {
+      "id": "2c1ae498-7c0e-47da-9c2d-1085924ad765",
+      "node_type": "Clause",
+      "publisher": "finlex",
+      "title": "§ 2 mom 4",
+      "text": "4) aluksen suojaamiseen käytettäviä haitallisia kiinnittymisenestojärjestelmiä;",
+      "clause_number": 4,
+      "section_number": "2",
+      "statute_id": "51/1983"
+    },
+    {
+      "id": "8d258fb8-0cfa-43ac-8242-bb7e8ef44f62",
+      "node_type": "Clause",
+      "publisher": "finlex",
+      "title": "§ 2 mom 5",
+      "text": "5) aluksen varusteita;",
+      "clause_number": 5,
+      "section_number": "2",
+      "statute_id": "51/1983"
+    },
+    {
+      "id": "8238340b-c9c6-4270-a178-9166d7849b2e",
+      "node_type": "Clause",
+      "publisher": "finlex",
+      "title": "§ 2 mom 6",
+      "text": "6) aluksen käyttöä;",
+      "clause_number": 6,
+      "section_number": "2",
+      "statute_id": "51/1983"
+    },
+    {
+      "id": "7869f3fa-c229-4f3e-9dc9-eb872cbf20fa",
+      "node_type": "Clause",
+      "publisher": "finlex",
+      "title": "§ 2 mom 7",
+      "text": "7) aluksen todistuskirjaa ja muita asiakirjoja;",
+      "clause_number": 7,
+      "section_number": "2",
+      "statute_id": "51/1983"
+    },
+    {
+      "id": "e73cee61-64c0-4acc-b1ee-7085393fed15",
+      "node_type": "Clause",
+      "publisher": "finlex",
+      "title": "§ 2 mom 8",
+      "text": "8) aluksen päällikön tai muun miehistön ilmoitusvelvollisuutta;",
+      "clause_number": 8,
+      "section_number": "2",
+      "statute_id": "51/1983"
+    },
+    {
+      "id": "2ac9ac3d-cf2f-447e-bc01-6fdb597c3d42",
+      "node_type": "Clause",
+      "publisher": "finlex",
+      "title": "§ 2 mom 9",
+      "text": "9) velvollisuutta jättää alusjätteet satamaan.",
+      "clause_number": 9,
+      "section_number": "2",
+      "statute_id": "51/1983"
+    },
+    {
+      "id": "f5d88ab9-a884-4d2d-a282-0df1a5f5d67a",
+      "node_type": "Clause",
+      "publisher": "finlex",
+      "title": "§ 4 mom 1",
+      "text": "1) sataman jätehuoltosuunnittelua;",
+      "clause_number": 1,
+      "section_number": "4",
+      "statute_id": "51/1983"
+    },
+    {
+      "id": "3d127e0b-10b5-48b0-be51-0b9048447864",
+      "node_type": "Clause",
+      "publisher": "finlex",
+      "title": "§ 4 mom 2",
+      "text": "2) aluksesta peräisin olevien jätteiden vastaanottolaitteita satamassa; ja",
+      "clause_number": 2,
+      "section_number": "4",
+      "statute_id": "51/1983"
+    },
+    {
+      "id": "f83792ae-4e71-487c-a167-319afde2a7f0",
+      "node_type": "Clause",
+      "publisher": "finlex",
+      "title": "§ 4 mom 3",
+      "text": "3) sataman jätehuoltoa koskevia maksuja.",
+      "clause_number": 3,
+      "section_number": "4",
+      "statute_id": "51/1983"
+    },
+    {
+      "id": "41b5e2bb-7808-4b95-9b20-8ec2001f21a9",
+      "node_type": "Clause",
+      "publisher": "finlex",
+      "title": "§ 15 mom 1",
+      "text": "1) kieltää sitä, joka rikkoo tätä lakia taikka sen nojalla annettua asetusta tai määräystä, jatkamasta tai toistamasta säännöksen tai määräyksen vastaista menettelyä;",
+      "clause_number": 1,
+      "section_number": "15",
+      "statute_id": "51/1983"
+    },
+    {
+      "id": "b953897c-d272-4387-b248-64bd1244002d",
+      "node_type": "Clause",
+      "publisher": "finlex",
+      "title": "§ 15 mom 2",
+      "text": "2) määrätä sen, joka rikkoo tätä lakia taikka sen nojalla annettua asetusta tai määräystä, täyttämään muulla tavoin velvollisuutensa;",
+      "clause_number": 2,
+      "section_number": "15",
+      "statute_id": "51/1983"
+    },
+    {
+      "id": "bc964039-292d-4e85-a48b-75a04521c367",
+      "node_type": "Clause",
+      "publisher": "finlex",
+      "title": "§ 15 mom 3",
+      "text": "3) määrätä 1 tai 2 kohdassa tarkoitetulla tavalla menetellyt palauttamaan ympäristö ennalleen tai poistamaan rikkomuksesta ympäristölle aiheutunut haitta.",
+      "clause_number": 3,
+      "section_number": "15",
+      "statute_id": "51/1983"
+    },
+    {
+      "id": "6fd01122-c96f-44fc-8212-be401ae13423",
+      "node_type": "Clause",
+      "publisher": "finlex",
+      "title": "§ 3 mom 1",
+      "text": "1) 2 luvun 1 §:n mukaista öljyn päästökieltoa ja päästörajoitusta,",
+      "clause_number": 1,
+      "section_number": "3",
+      "statute_id": "51/1983"
+    },
+    {
+      "id": "63ada637-e3a7-4bea-803a-a99706a4fd28",
+      "node_type": "Clause",
+      "publisher": "finlex",
+      "title": "§ 3 mom 2",
+      "text": "2) 2 luvun 3 §:n 1 ja 2 momentin ja 4 §:n mukaisia öljysäiliöaluksia koskevia vaatimuksia,",
+      "clause_number": 2,
+      "section_number": "3",
+      "statute_id": "51/1983"
+    },
+    {
+      "id": "ebea4723-8ff2-421d-8cf6-2f351e88b62f",
+      "node_type": "Clause",
+      "publisher": "finlex",
+      "title": "§ 3 mom 2",
+      "text": "2) 2 luvun 3 §:n 1 ja 2 momentin ja 4 §:n mukaisia öljysäiliöaluksia koskevia vaatimuksia,",
+      "clause_number": 2,
+      "section_number": "3",
+      "statute_id": "51/1983"
+    },
+    {
+      "id": "85671a22-8183-4316-a383-acaceb4a6c6f",
+      "node_type": "Clause",
+      "publisher": "finlex",
+      "title": "§ 3 mom 4",
+      "text": "3) 2 luvun 3 §:n 4 momentin ja 8 §:n mukaisia öljyn kuljettamista koskevia kieltoja,",
+      "clause_number": 4,
+      "section_number": "3",
+      "statute_id": "51/1983"
+    },
+    {
+      "id": "fd6a6c98-315d-4c3c-a6f4-18234c59cb16",
+      "node_type": "Clause",
+      "publisher": "finlex",
+      "title": "§ 3 mom 3",
+      "text": "3) 2 luvun 3 §:n 4 momentin ja 8 §:n mukaisia öljyn kuljettamista koskevia kieltoja,",
+      "clause_number": 3,
+      "section_number": "3",
+      "statute_id": "51/1983"
+    },
+    {
+      "id": "ddd87cbc-c75c-4c75-a541-59a0bb3b6d24",
+      "node_type": "Clause",
+      "publisher": "finlex",
+      "title": "§ 3 mom 4",
+      "text": "4) 4 luvun 2 §:n mukaista haitallisten nestemäisten aineiden päästökieltoa ja päästörajoitusta,",
+      "clause_number": 4,
+      "section_number": "3",
+      "statute_id": "51/1983"
+    },
+    {
+      "id": "f31478b7-bc28-49a9-b442-498569294180",
+      "node_type": "Clause",
+      "publisher": "finlex",
+      "title": "§ 3 mom 5",
+      "text": "5) 4 luvun 4 §:n mukaisia kemikaalisäiliöaluksia koskevia rakenne- ja laitevaatimuksia;",
+      "clause_number": 5,
+      "section_number": "3",
+      "statute_id": "51/1983"
+    },
+    {
+      "id": "8f1f7a01-89a7-44ec-b67c-92c8d23d80ac",
+      "node_type": "Clause",
+      "publisher": "finlex",
+      "title": "§ 3 mom 6",
+      "text": "6) 5 luvun 1 §:n mukaista käymäläjäteveden päästökieltoa ja päästörajoitusta,",
+      "clause_number": 6,
+      "section_number": "3",
+      "statute_id": "51/1983"
+    },
+    {
+      "id": "e9c3e289-e4e3-4bc8-b6db-b177d840b2ca",
+      "node_type": "Clause",
+      "publisher": "finlex",
+      "title": "§ 3 mom 7",
+      "text": "7) 6 luvun 1 §:n mukaista kiinteän jätteen veteen poistamiskieltoa ja poistamisrajoitusta,",
+      "clause_number": 7,
+      "section_number": "3",
+      "statute_id": "51/1983"
+    },
+    {
+      "id": "5ff1c96b-97b8-4c82-8d7c-0a48fb304e4d",
+      "node_type": "Clause",
+      "publisher": "finlex",
+      "title": "§ 3 mom 3",
+      "text": "8) 7 luvun 5 ja 7 §:n sekä 11 §:n 3 momentin mukaisia ilmaan menevien päästöjen rajoittamiseksi vaadittuja laitevaatimuksia kuten dieselmoottoreita ja jätteenpolttouuneja koskevia vaatimuksia tai polttoaineita koskevia vaatimuksia,",
+      "clause_number": 3,
+      "section_number": "3",
+      "statute_id": "51/1983"
+    },
+    {
+      "id": "ffd0554f-6ae1-46f8-9862-260ddddc1a15",
+      "node_type": "Clause",
+      "publisher": "finlex",
+      "title": "§ 3 mom 8",
+      "text": "8) 7 luvun 5 ja 7 §:n sekä 11 §:n 3 momentin mukaisia ilmaan menevien päästöjen rajoittamiseksi vaadittuja laitevaatimuksia kuten dieselmoottoreita ja jätteenpolttouuneja koskevia vaatimuksia tai polttoaineita koskevia vaatimuksia,",
+      "clause_number": 8,
+      "section_number": "3",
+      "statute_id": "51/1983"
+    },
+    {
+      "id": "3f7784d2-3630-4eaa-9d30-b0b89dc0851a",
+      "node_type": "Clause",
+      "publisher": "finlex",
+      "title": "§ 3 mom 2",
+      "text": "9) 7 luvun 11 §:n 1 ja 2 momentin mukaista jätteen polttokieltoa ja päästörajoitusta,",
+      "clause_number": 2,
+      "section_number": "3",
+      "statute_id": "51/1983"
+    },
+    {
+      "id": "03bae644-7baa-4405-8a8e-85f67cedc7fb",
+      "node_type": "Clause",
+      "publisher": "finlex",
+      "title": "§ 3 mom 9",
+      "text": "9) 7 luvun 11 §:n 1 ja 2 momentin mukaista jätteen polttokieltoa ja päästörajoitusta,",
+      "clause_number": 9,
+      "section_number": "3",
+      "statute_id": "51/1983"
+    },
+    {
+      "id": "e916e124-f1da-41de-b677-c5f02fd1bec4",
+      "node_type": "Clause",
+      "publisher": "finlex",
+      "title": "§ 3 mom 10",
+      "text": "10) 8 luvun 1 §:n mukaista haitallisten kiinnittymisenestojärjestelmien käytön kieltoa,",
+      "clause_number": 10,
+      "section_number": "3",
+      "statute_id": "51/1983"
+    },
+    {
+      "id": "4e11e73e-ece8-47f3-a89a-1b0f6162ac82",
+      "node_type": "Clause",
+      "publisher": "finlex",
+      "title": "§ 3 mom 11",
+      "text": "11) 9 luvun 1 ja 2 §:n mukaista sataman vastaanottolaitteiden järjestämisvelvollisuutta,",
+      "clause_number": 11,
+      "section_number": "3",
+      "statute_id": "51/1983"
+    },
+    {
+      "id": "acb98b4a-dfa8-4afe-b416-468e2133490e",
+      "node_type": "Clause",
+      "publisher": "finlex",
+      "title": "§ 3 mom 12",
+      "text": "12) 10 luvun 1 §:n mukaista velvollisuutta jättää jätteet satamaan,",
+      "clause_number": 12,
+      "section_number": "3",
+      "statute_id": "51/1983"
+    },
+    {
+      "id": "ae65aeb8-10c7-45c7-92d1-fc7dad55d0b9",
+      "node_type": "Clause",
+      "publisher": "finlex",
+      "title": "§ 3 mom 13",
+      "text": "13) 10 luvun 3 §:n mukaista jätteistä ilmoittamisvelvollisuutta,",
+      "clause_number": 13,
+      "section_number": "3",
+      "statute_id": "51/1983"
+    },
+    {
+      "id": "0f963dcd-2850-4c15-930a-1591da898a57",
+      "node_type": "Clause",
+      "publisher": "finlex",
+      "title": "§ 3 mom 14",
+      "text": "14) 11 luvun 1 §:n mukaista öljyvahingosta tai sen vaarasta ilmoittamisvelvollisuutta taikka,",
+      "clause_number": 14,
+      "section_number": "3",
+      "statute_id": "51/1983"
+    },
+    {
+      "id": "ce61acc3-dfd7-47bc-a8c9-818b21b398d5",
+      "node_type": "Clause",
+      "publisher": "finlex",
+      "title": "§ 3 mom 15",
+      "text": "15) 11 luvun 2 §:n mukaista muun haitallisen aineen kuin öljyn päästöstä tai sen vaarasta ilmoittamisvelvollisuutta,",
+      "clause_number": 15,
+      "section_number": "3",
+      "statute_id": "51/1983"
+    },
+    {
+      "id": "8b3f4d37-2893-411b-9e6e-8c6b717466aa",
+      "node_type": "Clause",
+      "publisher": "finlex",
+      "title": "§ 7 mom 1",
+      "text": "1) Liikenteen turvallisuusviraston tekemää aluksen tarkastusta tai alusta koskevaa muuta tämän lain nojalla annettua asiakirjaa taikka Liikenteen turvallisuusviraston nimeämän tarkastajan aluksen tarkastuksen johdosta antamaa päätöstä; tai",
+      "clause_number": 1,
+      "section_number": "7",
+      "statute_id": "51/1983"
+    },
+    {
+      "id": "793ce6ac-08d0-40bf-aedc-10ce85ec174e",
+      "node_type": "Clause",
+      "publisher": "finlex",
+      "title": "§ 7 mom 2",
+      "text": "2) Liikenteen turvallisuusviraston nimeämän tarkastajan tämän lain mukaisesta toimituksesta, päätöksestä tai todistuskirjasta määräämää maksua.",
+      "clause_number": 2,
+      "section_number": "7",
+      "statute_id": "51/1983"
+    },
+    {
+      "id": "f99aca7b-d7a8-49fd-b021-c64f94a4a96b",
+      "node_type": "Clause",
+      "publisher": "finlex",
+      "title": "§ 11 mom 1",
+      "text": "1) alusten katsastuksista 3 päivänä joulukuuta 1999 annettu asetus (1123/1999);",
+      "clause_number": 1,
+      "section_number": "11",
+      "statute_id": "51/1983"
+    },
+    {
+      "id": "c788d29b-c549-4d14-8cf6-fadc4df22b73",
+      "node_type": "Clause",
+      "publisher": "finlex",
+      "title": "§ 11 mom 2",
+      "text": "2) laivavarusteista 4 päivänä joulukuuta 1998 annettu asetus (925/1998); ja",
+      "clause_number": 2,
+      "section_number": "11",
+      "statute_id": "51/1983"
+    },
+    {
+      "id": "bc85fe19-64fe-4535-9708-dfde9bb92dff",
+      "node_type": "Clause",
+      "publisher": "finlex",
+      "title": "§ 11 mom 3",
+      "text": "3) kemikaali- ja kaasusäiliöaluksista 26 päivänä maaliskuuta 1982 annettu asetus (244/1982).",
+      "clause_number": 3,
+      "section_number": "11",
+      "statute_id": "51/1983"
+    }
+  ],
+  "cross_references": [],
+  "raw_html_path": "C:\\Users\\danit\\finance-hack\\aalto-hackaton-2026\\data\\raw\\finlex\\Laki (säädöskokoelma)\\Merenkulun ympäristönsuojelulaki.html"
+}

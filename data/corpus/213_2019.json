@@ -1,0 +1,94 @@
+{
+  "statute": {
+    "id": "a998267d-9444-484b-ae6d-cc3d694193ef",
+    "node_type": "Statute",
+    "publisher": "finlex",
+    "title": "Laki sijoitusrahastolain muuttamisesta",
+    "text": "Laki sijoitusrahastolain muuttamisesta",
+    "statute_id": "213/2019",
+    "finlex_url": "https://finlex.fi/fi/laki/ajantasa/213/2019"
+  },
+  "chapters": [
+    {
+      "id": "9d6e52eb-1a5a-4744-a99e-232c860c16f2",
+      "node_type": "Chapter",
+      "publisher": "finlex",
+      "title": "Chapter 1",
+      "text": "1 luku Yleiset säännökset",
+      "chapter_number": 1,
+      "statute_id": "213/2019"
+    },
+    {
+      "id": "6f400b02-1afb-4b64-a6dd-0df28c5ece4e",
+      "node_type": "Chapter",
+      "publisher": "finlex",
+      "title": "Chapter 3",
+      "text": "3 luku Toimintaedellytykset ja vähimmäispääoma",
+      "chapter_number": 3,
+      "statute_id": "213/2019"
+    },
+    {
+      "id": "b88d6aae-9dee-4b3d-8a76-a69cac3638b3",
+      "node_type": "Chapter",
+      "publisher": "finlex",
+      "title": "Chapter 5",
+      "text": "5 luku Vakavaraisuus ja riskienhallinta",
+      "chapter_number": 5,
+      "statute_id": "213/2019"
+    },
+    {
+      "id": "41bced47-a489-4b9f-8f79-34e5265237bd",
+      "node_type": "Chapter",
+      "publisher": "finlex",
+      "title": "Chapter 20",
+      "text": "20 luku Lupa toimia säilytysyhteisönä",
+      "chapter_number": 20,
+      "statute_id": "213/2019"
+    }
+  ],
+  "sections": [
+    {
+      "id": "04e405af-4f53-4e50-ab7d-8a54977ab8e1",
+      "node_type": "Section",
+      "publisher": "finlex",
+      "title": "3 § EU-sääntelyyn liittyvät määritelmät",
+      "text": "Tässä laissa tarkoitetaan:",
+      "section_number": "3",
+      "chapter_number": 1,
+      "statute_id": "213/2019"
+    },
+    {
+      "id": "bdec8e20-2a9e-48d2-a262-50d278e0a6b8",
+      "node_type": "Section",
+      "publisher": "finlex",
+      "title": "1 § Vähimmäispääoma",
+      "text": "Edellä 2 momentissa asetetuista vaatimuksista huolimatta rahastoyhtiön omien varojen määrä ei saa alittaa EU:n sijoituspalveluyritysten vakavaraisuusasetuksen 13 artiklassa säädettyä määrää tai, jos rahastoyhtiön toiminnassa on tilinpäätöksen vahvistamisen jälkeen tapahtunut olennaisia muutoksia, Finanssivalvonnan rahastoyhtiön hakemuksesta vahvistamaa määrää. Sen estämättä, mitä 1–4 momentissa säädetään rahastoyhtiön, joka harjoittaa 2 luvun 2 §:n 2 momentissa tarkoitettua toimintaa, on aina täytettävä sijoituspalvelulain 6 luvun 1 §:n 2 tai 4 momentissa säädetyt perustamispääomavaatimukset.",
+      "section_number": "1",
+      "chapter_number": 3,
+      "statute_id": "213/2019"
+    },
+    {
+      "id": "edd80b50-2efc-4a9a-9d82-e2c4e2de56f1",
+      "node_type": "Section",
+      "publisher": "finlex",
+      "title": "3 § Omien varojen vähimmäismäärä",
+      "text": "Rahastoyhtiön omien varojen laskentaan sovelletaan EU:n vakavaraisuusasetuksen 26 artiklan 1 kohdan a–e alakohtia.",
+      "section_number": "3",
+      "chapter_number": 5,
+      "statute_id": "213/2019"
+    },
+    {
+      "id": "b3848531-19fa-473d-a4d4-ecd338511c42",
+      "node_type": "Section",
+      "publisher": "finlex",
+      "title": "9 § Säilytysyhteisön vähimmäispääoma",
+      "text": "Säilytysyhteisön osakepääoman on oltava vähinään 750 000 euroa. Perustamispääomaan luettavan osakepääoman on oltava kokonaan merkitty toimilupaa myönnettäessä ja perustamispääoman on täytettävä EU:n sijoituspalveluyritysten vakavaraisuusasetuksen 9 artiklan mukaiset vaatimukset. Tämä laki tulee voimaan 26 päivänä kesäkuuta 2021.",
+      "section_number": "9",
+      "chapter_number": 20,
+      "statute_id": "213/2019"
+    }
+  ],
+  "clauses": [],
+  "cross_references": [],
+  "raw_html_path": "C:\\Users\\danit\\finance-hack\\aalto-hackaton-2026\\data\\raw\\finlex\\Laki\\Laki sijoitusrahastolain muuttamisesta_5.html"
+}

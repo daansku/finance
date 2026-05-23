@@ -1,0 +1,108 @@
+{
+  "statute": {
+    "id": "10c4e36b-51ba-4fec-9964-6874d3cdd534",
+    "node_type": "Statute",
+    "publisher": "finlex",
+    "title": "Valtioneuvoston asetus uusiutuvilla energialähteillä tuotetun sähkön tuotantotuesta annetun valtioneuvoston asetuksen muuttamisesta",
+    "text": "Valtioneuvoston asetus uusiutuvilla energialähteillä tuotetun sähkön tuotantotuesta annetun valtioneuvoston asetuksen muuttamisesta",
+    "statute_id": "1397/2010",
+    "finlex_url": "https://finlex.fi/fi/laki/ajantasa/1397/2010"
+  },
+  "chapters": [],
+  "sections": [
+    {
+      "id": "99427b1c-de1b-4cdd-b0f3-3c131f2a66dc",
+      "node_type": "Section",
+      "publisher": "finlex",
+      "title": "3 § Sähkön ja päästöoikeuden markkinahintojen keskiarvo",
+      "text": "Päästöoikeuden markkinahinnan keskiarvo määräytyy aritmeettisena keskiarvona Euroopan talousalueen vaihdoltaan vähintään kahden suurimman päästöoikeuspörssin päivän päätöshinnan perusteella. Päästöoikeuden markkinahinnan keskiarvo lasketaan kutakin tariffijaksoa vastaavan kolmen kuukauden päivän päätöshintojen aritmeettisena keskiarvona.",
+      "section_number": "3",
+      "chapter_number": 1,
+      "statute_id": "1397/2010"
+    },
+    {
+      "id": "a2b0aef9-7468-46ba-a116-e3a1dea9dfcd",
+      "node_type": "Section",
+      "publisher": "finlex",
+      "title": "4 § Metsähakevoimalan tuotantotuki",
+      "text": "Metsähakevoimalassa tuotetusta sähköstä maksettava syöttötariffi (euroa megawattitunnilta) lasketaan kaavalla: Syöttötariffia maksetaan kuitenkin ainoastaan, jos syöttötariffin suuruus 1 momentin mukaan laskettuna on vähintään 1 euro megawattitunnilta. Syöttötariffin korotuksena maksettava kaasutinpreemio lasketaan kaavalla:",
+      "section_number": "4",
+      "chapter_number": 1,
+      "statute_id": "1397/2010"
+    },
+    {
+      "id": "45bfb31f-39f6-486d-b8df-52d9c2afd3b5",
+      "node_type": "Section",
+      "publisher": "finlex",
+      "title": "5 § Omakäyttölaitteet",
+      "text": "Mitä voimalaitosten omakäyttölaitteista annetussa kauppa- ja teollisuusministeriön asetuksessa (309/2003) säädetään omakäyttölaitteista, sovelletaan määritettäessä tavoitehintaan, muuttuvaan tuotantotukeen, lämpöpreemioon ja kaasutinpreemioon oikeuttavaa sähkön tuotantoa. Tämä asetus tulee voimaan 1 päivänä tammikuuta 2013. Metsähakevoimalan tuotantotukeen sovelletaan tämän asetuksen voimaan tullessa voimassa olleita säännöksiä, jos tuki maksetaan sähköstä, joka on tuotettu ennen 1 päivää tammikuuta 2013.",
+      "section_number": "5",
+      "chapter_number": 1,
+      "statute_id": "1397/2010"
+    }
+  ],
+  "clauses": [
+    {
+      "id": "815a08f5-93fd-4b05-bb6b-6f6027a028aa",
+      "node_type": "Clause",
+      "publisher": "finlex",
+      "title": "§ 4 mom 1",
+      "text": "1) 35,65 – 1,824 x turpeen vero – 1,358 x päästöoikeuden kolmen kuukauden keskiarvohinta, kun päästöoikeuden kolmen kuukauden keskiarvohinta on vähintään 10 euroa;",
+      "clause_number": 1,
+      "section_number": "4",
+      "statute_id": "1397/2010"
+    },
+    {
+      "id": "181d2e20-1fcb-4bb1-bfdc-f615e64ef3a3",
+      "node_type": "Clause",
+      "publisher": "finlex",
+      "title": "§ 4 mom 2",
+      "text": "2) 22,07 – 1,824 x turpeen vero, kun päästöoikeuden kolmen kuukauden keskiarvohinta on alle 10 euroa.",
+      "clause_number": 2,
+      "section_number": "4",
+      "statute_id": "1397/2010"
+    },
+    {
+      "id": "3861c1d8-2848-4aff-8cdc-da2c39f9f80b",
+      "node_type": "Clause",
+      "publisher": "finlex",
+      "title": "§ 4 mom 2",
+      "text": "1) 1,824 x turpeen vero – 3,466, kun syöttötariffia maksetaan 1 ja 2 momentin perusteella;",
+      "clause_number": 2,
+      "section_number": "4",
+      "statute_id": "1397/2010"
+    },
+    {
+      "id": "6fd79078-73c3-4b79-a796-736717624f5f",
+      "node_type": "Clause",
+      "publisher": "finlex",
+      "title": "§ 4 mom 1",
+      "text": "1) 1,824 x turpeen vero – 3,466, kun syöttötariffia maksetaan 1 ja 2 momentin perusteella;",
+      "clause_number": 1,
+      "section_number": "4",
+      "statute_id": "1397/2010"
+    },
+    {
+      "id": "2c6cca8b-61b4-4d47-a15c-a7d56ce626ce",
+      "node_type": "Clause",
+      "publisher": "finlex",
+      "title": "§ 4 mom 2",
+      "text": "2) 32,184 – 1,358 x päästöoikeuden kolmen kuukauden keskiarvohinta, kun syöttötariffia ei makseta 1 tai 2 momentin perusteella.",
+      "clause_number": 2,
+      "section_number": "4",
+      "statute_id": "1397/2010"
+    },
+    {
+      "id": "c370e8dc-9be0-4cb1-9517-720bdd2520bf",
+      "node_type": "Clause",
+      "publisher": "finlex",
+      "title": "§ 4 mom 2",
+      "text": "2) 32,184 – 1,358 x päästöoikeuden kolmen kuukauden keskiarvohinta, kun syöttötariffia ei makseta 1 tai 2 momentin perusteella.",
+      "clause_number": 2,
+      "section_number": "4",
+      "statute_id": "1397/2010"
+    }
+  ],
+  "cross_references": [],
+  "raw_html_path": "C:\\Users\\danit\\finance-hack\\aalto-hackaton-2026\\data\\raw\\finlex\\Asetus\\Valtioneuvoston asetus uusiutuvilla energialähteillä tuotetun sähkön tuotantotuesta annetun valtioneuvoston asetuksen muuttamisesta_1.html"
+}

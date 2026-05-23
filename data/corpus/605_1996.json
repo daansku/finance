@@ -1,0 +1,722 @@
+{
+  "statute": {
+    "id": "52eab647-cf58-41bb-84d7-abb814b919a0",
+    "node_type": "Statute",
+    "publisher": "finlex",
+    "title": "Vuosilomalaki",
+    "text": "Vuosilomalaki",
+    "statute_id": "605/1996",
+    "finlex_url": "https://finlex.fi/fi/laki/ajantasa/605/1996"
+  },
+  "chapters": [
+    {
+      "id": "84034f45-1c1d-4947-b05a-e95e991cd957",
+      "node_type": "Chapter",
+      "publisher": "finlex",
+      "title": "Chapter 1",
+      "text": "1 luku Yleiset säännökset",
+      "chapter_number": 1,
+      "statute_id": "605/1996"
+    },
+    {
+      "id": "aa6daf24-66d2-4f71-8aad-1a6c789db8c6",
+      "node_type": "Chapter",
+      "publisher": "finlex",
+      "title": "Chapter 2",
+      "text": "2 luku Vuosiloman pituus",
+      "chapter_number": 2,
+      "statute_id": "605/1996"
+    },
+    {
+      "id": "7ef0ed9d-d715-4333-87fd-0c511ad4cb8d",
+      "node_type": "Chapter",
+      "publisher": "finlex",
+      "title": "Chapter 3",
+      "text": "3 luku Vuosilomapalkka",
+      "chapter_number": 3,
+      "statute_id": "605/1996"
+    },
+    {
+      "id": "b452e336-07bf-4952-a42e-039fc78eba6b",
+      "node_type": "Chapter",
+      "publisher": "finlex",
+      "title": "Chapter 4",
+      "text": "4 luku Lomakorvaus",
+      "chapter_number": 4,
+      "statute_id": "605/1996"
+    },
+    {
+      "id": "1fa599a4-6673-45f0-bf86-72015bbfd26a",
+      "node_type": "Chapter",
+      "publisher": "finlex",
+      "title": "Chapter 5",
+      "text": "5 luku Vuosiloman antaminen",
+      "chapter_number": 5,
+      "statute_id": "605/1996"
+    },
+    {
+      "id": "b7bc3d80-8e89-4717-b8a3-eb7787d0a0cf",
+      "node_type": "Chapter",
+      "publisher": "finlex",
+      "title": "Chapter 6",
+      "text": "6 luku Erinäiset säännökset",
+      "chapter_number": 6,
+      "statute_id": "605/1996"
+    },
+    {
+      "id": "6e8c0028-d3db-4491-894e-1e165ca72fa7",
+      "node_type": "Chapter",
+      "publisher": "finlex",
+      "title": "Chapter 7",
+      "text": "7 luku Voimaantulo- ja siirtymäsäännökset",
+      "chapter_number": 7,
+      "statute_id": "605/1996"
+    }
+  ],
+  "sections": [
+    {
+      "id": "cf8fc603-8537-4390-8299-144cdad47b3d",
+      "node_type": "Section",
+      "publisher": "finlex",
+      "title": "1 § Soveltamisala",
+      "text": "Tätä lakia sovelletaan työ- ja virkasuhteessa tehtävään työhön, jollei toisin säädetä. Mitä tässä laissa säädetään työntekijästä, sovelletaan myös virkamieheen ja viranhaltijaan. Mitä työehtosopimuksesta säädetään, sovelletaan vastaavasti virkaehtosopimukseen. Mitä 6 §:n 2 momentissa, 8 §:n 2 momentissa, 10 §:n 3 ja 4 momentissa sekä 11 §:n 1 ja 3 momentissa säädetään työsopimuksesta, sovelletaan myös järjestelyyn, jolla on määrätty virkamiehen ja viranhaltijan työajasta.",
+      "section_number": "1",
+      "chapter_number": 1,
+      "statute_id": "605/1996"
+    },
+    {
+      "id": "417506cf-3426-4bd4-a42a-14d98b362cf3",
+      "node_type": "Section",
+      "publisher": "finlex",
+      "title": "2 § Soveltamisalarajaukset",
+      "text": "Tätä lakia ei sovelleta työhön, joka on työnantajan toiminnan luonteen vuoksi vuosittain keskeytyneenä ja jossa työntekijöillä on 30 §:ssä tarkoitetun sopimuksen perusteella oikeus vähintään tässä laissa säädettyä vuosilomaa vastaavaan palkalliseen vapaaseen. Työaikalain (605/1996) 2 §:n 1 momentin 3 kohdassa tarkoitetulla kotityöntekijällä on vuosiloman ja vuosilomapalkan asemesta oikeus tämän lain 8 §:n 1 momentissa tarkoitettuun vapaaseen ja 16 §:ssä tarkoitettuun lomakorvaukseen. Sama koskee työnantajan perheenjäseniä silloin, kun työnantajan palveluksessa ei ole perheenjäsenten lisäksi muita työntekijöitä.",
+      "section_number": "2",
+      "chapter_number": 1,
+      "statute_id": "605/1996"
+    },
+    {
+      "id": "b297e178-bbaf-4899-936d-a0ba254b3af5",
+      "node_type": "Section",
+      "publisher": "finlex",
+      "title": "3 § Säännösten pakottavuus",
+      "text": "Sopimus, jolla vähennetään työntekijälle tämän lain mukaan kuuluvia etuja, on mitätön, jollei tästä laista johdu muuta. Työnantajien ja työntekijöiden valtakunnallisten yhdistysten oikeudesta sopia työehtosopimuksella laista poiketen säädetään 30 §:ssä.",
+      "section_number": "3",
+      "chapter_number": 1,
+      "statute_id": "605/1996"
+    },
+    {
+      "id": "26ca8ac6-a1c6-4ba7-9b52-086ddaa2886f",
+      "node_type": "Section",
+      "publisher": "finlex",
+      "title": "4 § Määritelmät",
+      "text": "Tässä laissa tarkoitetaan:",
+      "section_number": "4",
+      "chapter_number": 1,
+      "statute_id": "605/1996"
+    },
+    {
+      "id": "1586fc68-553e-441f-b09a-b6ea4c7fdaca",
+      "node_type": "Section",
+      "publisher": "finlex",
+      "title": "5 § Vuosiloman ansainta",
+      "text": "Työntekijällä on oikeus saada lomaa kaksi ja puoli arkipäivää kultakin täydeltä lomanmääräytymiskuukaudelta. Jos työsuhde on lomanmääräytymisvuoden loppuun mennessä jatkunut yhdenjaksoisesti alle vuoden, työntekijällä on kuitenkin oikeus saada lomaa kaksi arkipäivää kultakin täydeltä lomanmääräytymiskuukaudelta. Loman pituutta laskettaessa päivän osa pyöristetään täyteen lomapäivään. Vuosiloman ansainta ei keskeydy siitä syystä, että työntekijä on välittömästi siirtynyt sellaisen työnantajan palvelukseen, jossa omistuksen, sopimuksen tai muun järjestelyn perusteella määräysvalta on: Edellä 1 momentissa tarkoitettuun työsuhteen jatkumisaikaan ei lueta aikaa, jolloin työ on keskeytynyt työntekijän ollessa suorittamassa asevelvollisuuslaissa (452/1950) tarkoitettua vakinaista palvelusta, naisten vapaaehtoisesta asepalveluksesta annetussa laissa (194/1995) tarkoitettua vapaaehtoista asepalvelusta tai siviilipalveluslaissa (1723/1991) tarkoitettua siviilipalvelusta.",
+      "section_number": "5",
+      "chapter_number": 2,
+      "statute_id": "605/1996"
+    },
+    {
+      "id": "652f7cd5-549c-46b0-8b4e-be478ffea578",
+      "node_type": "Section",
+      "publisher": "finlex",
+      "title": "6 § Täysi lomanmääräytymiskuukausi",
+      "text": "Täytenä lomanmääräytymiskuukautena pidetään kalenterikuukautta, jolloin työntekijälle on kertynyt vähintään 14 työssäolopäivää tai 7 §:n 1 ja 2 momentissa tarkoitettua työssäolon veroista päivää. Jos työntekijä on sopimuksen mukaisesti työssä niin harvoina päivinä, että hänelle ei tästä syystä kerry ainoatakaan 14 työssäolopäivää sisältävää kalenterikuukautta tai vain osa kalenterikuukausista sisältää 14 työssäolopäivää, täydeksi lomanmääräytymiskuukaudeksi katsotaan sellainen kalenterikuukausi, jonka aikana työntekijälle on kertynyt vähintään 35 työtuntia tai 7 §:ssä tarkoitettua työssäolon veroista tuntia.",
+      "section_number": "6",
+      "chapter_number": 2,
+      "statute_id": "605/1996"
+    },
+    {
+      "id": "c10b1222-f6c9-4285-9885-6e905ae8e985",
+      "node_type": "Section",
+      "publisher": "finlex",
+      "title": "7 § Työssäolon veroinen aika",
+      "text": "Työssäolon veroisena pidetään työstä poissaoloaikaa, jolta työnantaja on lain mukaan velvollinen maksamaan työntekijälle palkan. Työssäolon veroisena pidetään myös aikaa, jolloin työntekijä on poissa työstä sellaisen työajan tasaamiseksi annetun vapaan vuoksi, jolla hänen keskimääräinen viikkotyöaikansa tasataan laissa säädettyyn enimmäismäärään. Saman kalenterikuukauden aikana viikkotyöajan tasaamiseksi annetuista vapaapäivistä työssäolon veroisina pidetään kuitenkin vain neljä päivää ylittäviä vapaapäiviä, jollei vapaata ole annettu yli kuuden arkipäivän pituisena yhtenäisenä vapaana. Työssäolopäivien veroisina pidetään myös niitä työpäiviä tai työtunteja, jolloin työntekijä työsuhteen kestäessä on estynyt tekemästä työtä: Sovellettaessa 2 momenttia 6 §:n 2 momentissa tarkoitetun työntekijän työssäolon veroisena aikana pidetään 2 ja 3 kohdassa tarkoitetuissa tapauksissa enintään 105 kalenteripäivän sekä 5 ja 7 kohdassa tarkoitetuissa tapauksissa 42 kalenteripäivän jaksoa. Poissaoloaikaa laskettaessa poissaolon katsotaan alkaneen ensimmäisenä päivänä, jona työntekijä on ollut poissa työstä ja päättyneen poissaoloperusteen lakkaamispäivänä, jos päivästä on ennalta sovittu tai määrätty, ja muussa tapauksessa työhön paluuta edeltäneenä poissaolopäivänä. Työssäolon veroisiksi tunneiksi lasketaan tällöin ne tunnit, jotka työntekijä sopimuksen mukaan ilman poissaoloa olisi ollut työssä.",
+      "section_number": "7",
+      "chapter_number": 2,
+      "statute_id": "605/1996"
+    },
+    {
+      "id": "0f39efb6-82ee-4b6d-afdd-cea78bb24640",
+      "node_type": "Section",
+      "publisher": "finlex",
+      "title": "8 § Työntekijän oikeus vapaaseen",
+      "text": "Työntekijällä, joka sopimuksen mukaan tekee kaikkina kalenterikuukausina työtä alle 14 päivää tai 35 tuntia, on työsuhteen kestäessä oikeus halutessaan saada vapaata kaksi arkipäivää kultakin kalenterikuukaudelta, jonka aikana hän on ollut työsuhteessa. Vapaan ajalta maksettavasta lomakorvauksesta säädetään 16 ja 19 §:ssä. Työntekijällä, joka on tehnyt samalle työnantajalle työtä työsopimuslain 1 luvun 5 §:ssä tarkoitetuin tavoin toistuvien määräaikaisten työsopimusten perusteella, on halutessaan oikeus saada vapaata tämän lain 5―7 §:n perusteella määräytyvää lomaa vastaava aika siltä osin kuin lomaa ei ole pidetty. Työntekijän on ilmoitettava halustaan käyttää vapaata ennen lomakauden alkua. Vapaan antamisessa noudatetaan soveltuvin osin, mitä 20―26 §:ssä säädetään vuosiloman antamisesta.",
+      "section_number": "8",
+      "chapter_number": 2,
+      "statute_id": "605/1996"
+    },
+    {
+      "id": "852b5b36-b95f-4480-90a2-010f2cb0c124",
+      "node_type": "Section",
+      "publisher": "finlex",
+      "title": "9 § Yleissäännös vuosilomapalkasta",
+      "text": "Työntekijällä on oikeus saada vuosilomansa ajalta vähintään säännönmukainen tai keskimääräinen palkkansa siten kuin tässä laissa säädetään. Palkkaan kuuluvat luontoisedut on vuosiloman aikana annettava vähentämättöminä. Luontoisedut, jotka eivät ole työntekijän käytettävissä vuosiloman aikana, korvataan rahalla.",
+      "section_number": "9",
+      "chapter_number": 3,
+      "statute_id": "605/1996"
+    },
+    {
+      "id": "c5f3aff7-69ff-43a1-b824-a5ead4d09ed3",
+      "node_type": "Section",
+      "publisher": "finlex",
+      "title": "10 § Viikko- tai kuukausipalkkaan perustuva vuosilomapalkka",
+      "text": "Työntekijällä, jonka palkka on sovittu viikolta tai sitä pidemmältä ajalta, on oikeus saada tämä palkkansa myös vuosiloman ajalta. Jos työntekijälle on lomanmääräytymisvuoden aikana työssäolon ajalta viikko- tai kuukausipalkan lisäksi maksettu tai erääntynyt maksettavaksi muuta palkkaa, joka ei määräydy tilapäisten olosuhteiden perusteella, tämän palkan osuus lasketaan vuosilomapalkkaan siten kuin 11 §:n 1 ja 2 momentissa säädetään. Jos työntekijä ei ole vuosilomalla koko palkanmaksukauden aikaa, loma-ajan palkka lasketaan suhteuttaen se loma- ja työssäolojaksoihin siten, että se vastaa työntekijälle muutoin vastaavalta ajalta maksettavaa palkkaa. Jos työntekijän työaika ja vastaavasti palkka sopimuksen mukaan muuttuvat lomanmääräytymisvuoden aikana, työnantaja ja työntekijä saavat työajan muutoksesta sopiessaan sopia siitä, että työntekijän lomapalkka lasketaan lomanmääräytymisvuoden keskimääräisen viikko- tai kuukausipalkan mukaan. Jos edellä 6 §:n 2 momentissa tarkoitetun työntekijän sopimuksen mukainen työaika on niin vähäinen, että tästä syystä vain osa kalenterikuukausista on täysiä lomanmääräytymiskuukausia, hänen lomapalkkansa lasketaan 12 §:n mukaan.",
+      "section_number": "10",
+      "chapter_number": 3,
+      "statute_id": "605/1996"
+    },
+    {
+      "id": "2ae334fa-f940-492b-ad27-48a7b6d081dd",
+      "node_type": "Section",
+      "publisher": "finlex",
+      "title": "11 § Keskipäiväpalkkaan perustuva vuosilomapalkka",
+      "text": "Muun kuin viikko- tai kuukausipalkalla työskentelevän sellaisen työntekijän vuosilomapalkka, joka sopimuksen mukaan työskentelee vähintään 14 päivänä kalenterikuukaudessa, lasketaan kertomalla hänen keskipäiväpalkkansa lomapäivien määrän perusteella määräytyvällä kertoimella: Jos lomapäivien määrä on suurempi kuin 30, kerrointa korotetaan luvulla 0,9 lomapäivää kohden. Keskipäiväpalkka lasketaan siten, että lomanmääräytymisvuoden aikana työssäolon ajalta työntekijälle maksettu tai maksettavaksi erääntynyt palkka, hätätyöstä ja lain tai sopimuksen mukaisesta ylityöstä peruspalkan lisäksi maksettavaa korotusta lukuun ottamatta, jaetaan lomanmääräytymisvuoden aikana tehtyjen työpäivien määrällä, johon lisätään laissa säädetyn vuorokautisen säännöllisen työajan tai, jos laissa ei ole säädetty säännöllisen vuorokautisen työajan enimmäismäärää, sopimuksessa sovitun säännöllisen työajan lisäksi tehtyjen työtuntien kahdeksasosa. Jos työntekijän viikoittaisten työpäivien määrä on sopimuksen mukaan pienempi tai suurempi kuin viisi, keskipäiväpalkka kerrotaan viikoittaisten työpäivien määrällä ja jaetaan viidellä.",
+      "section_number": "11",
+      "chapter_number": 3,
+      "statute_id": "605/1996"
+    },
+    {
+      "id": "6727a615-f621-4989-928b-1fb5d3c872ba",
+      "node_type": "Section",
+      "publisher": "finlex",
+      "title": "12 § Prosenttiperusteinen vuosilomapalkka",
+      "text": "Muun kuin viikko- tai kuukausipalkalla alle 14 päivänä kalenterikuukaudessa työtä tekevän työntekijän vuosilomapalkka on 9 prosenttia taikka työsuhteen jatkuttua lomakautta edeltävän lomanmääräytymisvuoden loppuun mennessä vähintään vuoden 11,5 prosenttia lomanmääräytymisvuoden aikana työssäolon ajalta maksetusta tai maksettavaksi erääntyneestä palkasta lukuun ottamatta hätätyöstä ja lain tai sopimuksen mukaisesta ylityöstä maksettavaa korotusta. Jos työntekijä on lomanmääräytymisvuoden aikana ollut estynyt tekemästä työtä 7 §:n 2 momentin 1―4 tai 7 kohdassa tarkoitetusta syystä, vuosilomapalkan perusteena olevaan palkkaan lisätään laskennallisesti poissaoloajalta saamatta jäänyt palkka enintään 7 §:n 3 momentissa säädetyltä ajalta. Poissaoloajan palkka lasketaan, jollei muusta ole sovittu, työntekijän keskimääräisen viikkotyöajan ja poissaolon alkamishetken palkan mukaan ottaen huomioon poissaoloaikana toteutetut palkankorotukset. Jos keskimääräisestä viikkotyöajasta ei ole sovittu, laskennallinen palkka määräytyy poissaoloa edeltävän 12 viikon keskimääräisen viikkotyöajan mukaan.",
+      "section_number": "12",
+      "chapter_number": 3,
+      "statute_id": "605/1996"
+    },
+    {
+      "id": "df3185a3-dd85-4f44-8203-c3e861b76ac4",
+      "node_type": "Section",
+      "publisher": "finlex",
+      "title": "13 § Palvelurahoihin perustuva vuosilomapalkka",
+      "text": "Jos vastike työstä on sovittu suoritettavaksi osaksi tai kokonaan yleisöltä saatavilla palvelurahoilla, nämä otetaan huomioon vuosiloma- ja säästövapaan palkkaa sekä lomakorvausta laskettaessa. Palvelurahoista maksettava lomapalkka lasketaan 9―12 §:ssä säädetyllä tavalla.",
+      "section_number": "13",
+      "chapter_number": 3,
+      "statute_id": "605/1996"
+    },
+    {
+      "id": "99f76162-a7d8-4271-a6ac-ffa0c42738ff",
+      "node_type": "Section",
+      "publisher": "finlex",
+      "title": "14 § Lomapalkan laskentasäännön määräytyminen",
+      "text": "Lomapalkan laskentatapa määräytyy 10―12 §:n mukaan sen perusteella, mitä palkkaustapaa työntekijään sovellettiin lomanmääräytymisvuoden päättyessä. Jos työntekijä on ennen loman alkua kuukausipalkkainen, työnantaja ja työntekijä saavat 1 momentin estämättä sopia, että lomapalkka lasketaan kunkin loman ajalta hänelle muutoin maksettavan kuukausipalkan mukaan. Sopimus on tehtävä kirjallisesti. Jos työntekijä on osan lomanmääräytymisvuodesta ansainnut lomaa 6 §:n mukaan ja osan vuotta kuulunut 8 §:n 1 momentissa tarkoitetun vapaan piiriin, loman ja vapaan ajalta määräytyvä palkka ja lomakorvaus lasketaan kultakin jaksolta erikseen.",
+      "section_number": "14",
+      "chapter_number": 3,
+      "statute_id": "605/1996"
+    },
+    {
+      "id": "aa50cb59-9a24-4881-8bdf-178f49f86296",
+      "node_type": "Section",
+      "publisher": "finlex",
+      "title": "15 § Vuosilomapalkan maksaminen",
+      "text": "Vuosilomapalkka on maksettava ennen loman alkamista. Enintään kuuden päivän pituiselta lomajaksolta lomapalkka saadaan maksaa työsuhteessa tavanmukaisesti noudatettavana palkanmaksupäivänä.",
+      "section_number": "15",
+      "chapter_number": 3,
+      "statute_id": "605/1996"
+    },
+    {
+      "id": "513f9924-7f22-425b-8e37-fb58ab0ea0e2",
+      "node_type": "Section",
+      "publisher": "finlex",
+      "title": "16 § Lomakorvaus työsuhteen aikana",
+      "text": "Edellä 8 §:n 1 momentissa tarkoitetulla työntekijällä on oikeus saada lomakorvauksena 9 prosenttia tai, jos työsuhde on jatkunut lomakautta edeltävän lomanmääräytymisvuoden loppuun mennessä vähintään vuoden, 11,5 prosenttia hänelle lomanmääräytymisvuoden aikana työssäolon ajalta maksetusta tai maksettavaksi erääntyneestä palkasta lukuun ottamatta hätätyöstä tai lain tai sopimuksen mukaisesta ylityöstä maksettavaa korotusta. Jos työntekijä on ollut estynyt tekemästä työtä äitiys-, erityisäitiys-, isyys- tai vanhempainvapaan vuoksi, lomakorvauksen perusteena olevaan palkkaan lisätään poissaolon ajalta saamatta jäänyt palkka siten kuin 12 §:n 2 momentissa säädetään.",
+      "section_number": "16",
+      "chapter_number": 4,
+      "statute_id": "605/1996"
+    },
+    {
+      "id": "8dbe5343-aa06-4cc6-923d-6071ee7f10d9",
+      "node_type": "Section",
+      "publisher": "finlex",
+      "title": "17 § Lomakorvaus työsuhteen päättyessä",
+      "text": "Työsuhteen päättyessä työntekijällä on oikeus saada vuosiloman sijasta lomakorvaus siltä ajalta, jolta hän siihen mennessä ei ole saanut lomaa tai lomakorvausta. Jos työntekijän työsuhde on päättyessään jatkunut vähintään vuoden, työntekijällä on kuluvan lomanmääräytymisvuoden alusta oikeus saada lomakorvausta 5 §:n 1 momentin ensimmäisen virkkeen mukaan määräytyvää lomaa vastaavalta ajalta. Jos työntekijälle on työsuhteen ensimmäiseltä ja viimeiseltä kuukaudelta kertynyt yhteensä 6 ja 7 §:ssä säädetty määrä työssäolopäiviä tai -tunteja tai niiden veroista aikaa eikä hän ole näiltä kuukausilta saanut lomaa tai lomakorvausta, nämä kuukaudet luetaan lomakorvausta määrättäessä yhdeksi täydeksi lomanmääräytymiskuukaudeksi. Lomakorvaus lasketaan noudattaen soveltuvin osin, mitä 9―12 §:ssä säädetään vuosilomapalkasta. Työntekijällä, jolle ei ole työsuhteen päättyessä kertynyt 5―7 §:n mukaan oikeutta lomaan, on oikeus lomakorvaukseen, jonka määrä lasketaan siten kuin 16 §:ssä säädetään.",
+      "section_number": "17",
+      "chapter_number": 4,
+      "statute_id": "605/1996"
+    },
+    {
+      "id": "9494c91a-6f6d-49ce-b671-1cab01fb275b",
+      "node_type": "Section",
+      "publisher": "finlex",
+      "title": "18 § Sopimus vuosilomaetuuksien siirtämisestä",
+      "text": "Sopiessaan ennen työsuhteen päättymistä uudesta työsuhteesta työnantaja ja työntekijä saavat sopia siitä, että työntekijän ennen työsuhteen päättymistä kertyneet vuosilomaetuudet siirretään annettaviksi seuraavan työsuhteen aikana. Sopimus on tehtävä kirjallisesti.",
+      "section_number": "18",
+      "chapter_number": 4,
+      "statute_id": "605/1996"
+    },
+    {
+      "id": "40435706-7797-4ad0-a85e-dfe60d81d02a",
+      "node_type": "Section",
+      "publisher": "finlex",
+      "title": "19 § Lomakorvauksen maksaminen",
+      "text": "Työntekijälle, joka käyttää oikeuttaan 8 §:n 1 momentissa tarkoitettuun vapaaseen, 16 §:ssä säädetty lomakorvaus maksetaan vapaan yhteydessä siten kuin 15 §:ssä säädetään. Muutoin lomakorvaus maksetaan viimeistään lomakauden päättyessä. Kun työntekijä lähtee suorittamaan asepalvelusta, vapaaehtoista asepalvelusta tai siviilipalvelusta, hänelle maksetaan 17 §:n mukaan määräytyvä lomakorvaus, vaikka hänen työsuhteensa ei päättyisi.",
+      "section_number": "19",
+      "chapter_number": 4,
+      "statute_id": "605/1996"
+    },
+    {
+      "id": "19d7313a-4ec4-43c9-a6d0-fc51d6202f7e",
+      "node_type": "Section",
+      "publisher": "finlex",
+      "title": "20 § Vuosiloman antamisajankohta",
+      "text": "Vuosiloma annetaan työntekijälle työnantajan määräämänä ajankohtana, jolleivät työnantaja ja työntekijä sovi loman pitämisestä 21 §:ssä tarkoitetulla tavalla. Vuosilomasta 24 arkipäivää on sijoitettava lomakaudelle (kesäloma). Muu osa lomasta (talviloma) on annettava viimeistään seuraavan lomakauden alkuun mennessä. Kesäloma ja talviloma on annettava yhdenjaksoisena, jollei työn käynnissä pitämiseksi ole välttämätöntä jakaa sitä osaa kesälomasta, joka ylittää 12 arkipäivää, pidettäväksi yhdessä tai useammassa osassa. Jos loman antaminen lomakaudella aiheuttaa kausiluonteisessa työssä olennaisia vaikeuksia työnantajan toiminnalle, kesäloma voidaan antaa lomakauden ulkopuolella saman kalenterivuoden aikana.",
+      "section_number": "20",
+      "chapter_number": 5,
+      "statute_id": "605/1996"
+    },
+    {
+      "id": "87a1b961-9df7-43f5-8716-ee9db906176b",
+      "node_type": "Section",
+      "publisher": "finlex",
+      "title": "21 § Vuosiloman jakamisesta ja ajankohdasta sopiminen työsuhteen kestäessä",
+      "text": "Työnantaja ja työntekijä saavat sopia, että työntekijä pitää 12 arkipäivää ylittävän loman osan yhdessä tai useammassa jaksossa. Työnantaja ja työntekijä saavat sopia vuosiloman sijoittamisesta ajanjaksolle, joka alkaa sen kalenterivuoden alusta, jolle lomakausi sijoittuu, ja joka päättyy seuraavana vuonna ennen lomakauden alkua. Lisäksi saadaan sopia 12 arkipäivää ylittävän lomanosan pitämisestä viimeistään vuoden kuluessa lomakauden päättymisestä. Jos työntekijän työsuhde päättyy ennen kuin työntekijällä on 20 §:n mukaan oikeus pitää vuosilomaa, työnantaja ja työntekijä saavat sopia työsuhteen päättymiseen mennessä ansaittavan vuosiloman pitämisestä työsuhteen kestäessä. Työnantaja ja työntekijä saavat työntekijän aloitteesta sopia 24 arkipäivää ylittävän vuosiloman osan pitämisestä lyhennettynä työaikana. Sopimus on tehtävä kirjallisesti.",
+      "section_number": "21",
+      "chapter_number": 5,
+      "statute_id": "605/1996"
+    },
+    {
+      "id": "c3c10472-d1e4-4ee4-aaf7-913d4c5707b2",
+      "node_type": "Section",
+      "publisher": "finlex",
+      "title": "22 § Työntekijöiden kuuleminen",
+      "text": "Työnantajan on selvitettävä työntekijöille tai heidän edustajilleen vuosiloman antamisessa työpaikalla noudatettavat yleiset periaatteet. Ennen loman ajankohdan määräämistä työnantajan on varattava työntekijälle tilaisuus esittää mielipiteensä loman ajankohdasta. Työnantajan on mahdollisuuksien mukaan otettava huomioon työntekijöiden esitykset ja noudatettava tasapuolisuutta lomien sijoittamisessa.",
+      "section_number": "22",
+      "chapter_number": 5,
+      "statute_id": "605/1996"
+    },
+    {
+      "id": "ef55946c-3191-47e7-8a02-ac262c200e38",
+      "node_type": "Section",
+      "publisher": "finlex",
+      "title": "23 § Vuosiloman ajankohdasta ilmoittaminen",
+      "text": "Työnantajan määrätessä loman ajankohdan hänen on ilmoitettava siitä työntekijälle viimeistään kuukautta ennen loman alkamista. Jos tämä ei ole mahdollista, loman ajankohdasta voidaan ilmoittaa myöhemmin. Siitä on kuitenkin ilmoitettava viimeistään kahta viikkoa ennen loman alkamista.",
+      "section_number": "23",
+      "chapter_number": 5,
+      "statute_id": "605/1996"
+    },
+    {
+      "id": "3c49b163-4265-4a7d-abef-4e4c2b1178a1",
+      "node_type": "Section",
+      "publisher": "finlex",
+      "title": "24 § Vuosiloman sijoittaminen työntekijän vapaajaksolle",
+      "text": "Työnantaja ei saa ilman työntekijän suostumusta määrätä vuosilomaa alkavaksi työntekijän vapaapäivänä, jos tämä johtaa lomapäivien vähenemiseen. Kolme päivää tai sitä lyhyempää loman osaa ei saa ilman työntekijän suostumusta antaa niin, että lomapäivä sattuisi työntekijän työvuoroluettelon mukaiseksi vapaapäiväksi. Työnantaja ei saa ilman työntekijän suostumusta määrätä vuosilomaa työntekijän äitiys- eikä isyysvapaan ajaksi. Jos työntekijän vuosilomaa ei voida äitiys- tai isyysvapaan vuoksi antaa 20 tai 21 §:ssä tarkoitetulla tavalla, loma saadaan antaa kuuden kuukauden kuluessa vapaan päättymisestä.",
+      "section_number": "24",
+      "chapter_number": 5,
+      "statute_id": "605/1996"
+    },
+    {
+      "id": "51d12874-c14d-43b0-8382-f30cc10a4a7d",
+      "node_type": "Section",
+      "publisher": "finlex",
+      "title": "25 § Työkyvyttömyys vuosiloman alkaessa ja aikana",
+      "text": "Jos työntekijä on vuosilomansa tai sen osan alkaessa synnytyksen, sairauden tai tapaturman vuoksi työkyvytön, loma on työntekijän pyynnöstä siirrettävä myöhempään ajankohtaan. Työntekijällä on pyynnöstään oikeus loman tai sen osan siirtämiseen myös, jos tiedetään, että työntekijä joutuu lomansa aikana sellaiseen sairaanhoitoon tai muuhun siihen rinnastettavaan hoitoon, jonka aikana hän on työkyvytön. Jos synnytyksestä, sairaudesta tai tapaturmasta johtuva työkyvyttömyys alkaa vuosiloman tai sen osan aikana ja jatkuu yhtäjaksoisesti yli seitsemän kalenteripäivää, tämän ajan ylittävää osaa samalle vuosilomajaksolle ajoittuvasta työkyvyttömyysajasta ei pidetä vuosilomana, jos työntekijä pyytää sitä ilman aiheetonta viivytystä. Työntekijän on työnantajan pyynnöstä esitettävä luotettava selvitys työkyvyttömyydestään.",
+      "section_number": "25",
+      "chapter_number": 5,
+      "statute_id": "605/1996"
+    },
+    {
+      "id": "e08a55d7-49b0-4192-80ab-2b21c2bfbc32",
+      "node_type": "Section",
+      "publisher": "finlex",
+      "title": "26 § Työkyvyttömyyden vuoksi siirretyn vuosiloman ajankohta",
+      "text": "Edellä 25 §:ssä säädetyllä perusteella siirretty kesäloma on annettava lomakaudella ja talviloma ennen seuraavan lomakauden alkua. Jos loman antaminen tällä tavalla ei ole mahdollista, siirretty kesäloma voidaan antaa lomakauden jälkeen saman kalenterivuoden aikana ja talviloma seuraavan kalenterivuoden loppuun mennessä. Jos loman antaminen ei työkyvyttömyyden jatkumisen vuoksi ole edellä tarkoitetuin tavoinkaan mahdollista, saamatta jäänyt loma korvataan 17 §:ssä tarkoitetulla lomakorvauksella. Työnantajan on ilmoitettava siirretyn loman ajankohta kahta viikkoa tai, jos tämä ei ole mahdollista, viimeistään viikkoa ennen loman alkamista.",
+      "section_number": "26",
+      "chapter_number": 5,
+      "statute_id": "605/1996"
+    },
+    {
+      "id": "9f2497af-7839-4680-941a-4ec32453783c",
+      "node_type": "Section",
+      "publisher": "finlex",
+      "title": "27 § Vuosiloman säästäminen",
+      "text": "Työnantaja ja työntekijä saavat sopia 18 päivää ylittävän osan lomasta pidettäväksi seuraavalla lomakaudella tai sen jälkeen säästövapaana. Työntekijällä on oikeus säästää 24 päivää ylittävä osa lomastaan, jos siitä ei aiheudu työpaikan tuotanto- ja palvelutoiminnalle vakavaa haittaa. Vuosiloman säästämisestä ja säästettävien lomapäivien määrästä työnantajan ja työntekijän on neuvoteltava viimeistään silloin, kun työnantaja 22 §:n mukaan kuulee työntekijöitä vuosiloman ajankohdasta. Säästövapaa on annettava työntekijälle hänen määräämänään kalenterivuonna tai hänen määrääminään kalenterivuosina. Jollei säästövapaan tarkemmasta ajankohdasta voida sopia, työntekijän on ilmoitettava säästövapaan pitämisestä viimeistään neljä kuukautta ennen sen alkamispäivää. Mitä 25 ja 26 §:ssä säädetään vuosiloman siirtämisestä ja siirretyn loman antamisesta, koskee myös säästövapaata. Työntekijällä, jonka palkka määräytyy 10 §:n mukaan, on oikeus saada tämä palkkansa säästövapaan ajalta. Jos työntekijän palkka määräytyy 11 tai 12 §:n mukaan, hänelle säästövapaan ajalta maksettava palkka määräytyy säästövapaan tai sen osan alkamisajankohtaa edeltäneen lomanmääräytymisvuoden palkan mukaan. Työsuhteen päättyessä, työsuhteen muuttuessa osa-aikaiseksi tai työntekijän joutuessa toistaiseksi lomautetuksi työntekijällä on oikeus saada korvaus pitämättä jääneestä säästövapaasta sen mukaan kuin 17 §:ssä säädetään.",
+      "section_number": "27",
+      "chapter_number": 5,
+      "statute_id": "605/1996"
+    },
+    {
+      "id": "b96c1a1f-a900-4875-b803-093e9426328c",
+      "node_type": "Section",
+      "publisher": "finlex",
+      "title": "28 § Vuosilomapalkkalaskelma",
+      "text": "Maksaessaan lomapalkan tai lomakorvauksen työnantaja on velvollinen antamaan työntekijälle laskelman, josta ilmenevät lomapalkan tai lomakorvauksen suuruus ja määräytymisen perusteet.",
+      "section_number": "28",
+      "chapter_number": 6,
+      "statute_id": "605/1996"
+    },
+    {
+      "id": "d496659f-4ab8-42ce-b846-c05a096c7d0f",
+      "node_type": "Section",
+      "publisher": "finlex",
+      "title": "29 § Vuosilomakirjanpito",
+      "text": "Työnantajan on pidettävä kirjaa työntekijän vuosilomista ja säästövapaista sekä tämän lain perusteella määräytyvistä palkoista ja korvauksista (vuosilomakirjanpito). Vuosilomakirjanpidosta on käytävä ilmi vuosilomien pituudet ja ajankohdat sekä palkkojen ja korvausten suuruus ja niiden määräytymisen perusteet. Vuosilomakirjanpito sekä työnantajan ja työntekijän tämän lain nojalla tekemä kirjallinen sopimus on vaadittaessa näytettävä työsuojelutarkastuksen toimittajalle sekä työntekijöiden luottamusmiehelle tai työsopimuslain 13 luvun 3 §:n mukaisesti valitulle luottamusvaltuutetulle taikka, jos kumpaakaan ei ole valittu, työsuojeluvaltuutetulle. Työntekijällä tai hänen valtuuttamallaan on pyynnöstä oikeus saada kirjallinen selvitys työntekijän vuosilomaa ja säästövapaita koskevista merkinnöistä. Vuosilomakirjanpito on säilytettävä vähintään 34 §:ssä säädetyn kanneajan päättymiseen.",
+      "section_number": "29",
+      "chapter_number": 6,
+      "statute_id": "605/1996"
+    },
+    {
+      "id": "1c85e268-bd83-49c4-9779-9070a6f72447",
+      "node_type": "Section",
+      "publisher": "finlex",
+      "title": "30 § Poikkeaminen työehtosopimuksella",
+      "text": "Työnantajien ja työntekijöiden valtakunnallisilla yhdistyksillä on oikeus sopia toisin lomakaudesta, vuosilomapalkan ja lomakorvauksen laskemisesta ja maksamisesta, talviloman sijoittamisesta muuhun keskenään sopimaansa työajan lyhennykseen, säästövapaasta sekä siitä, mitä 8 §:n 2 momentissa säädetään. Näiden yhdistysten välisellä työehtosopimuksella saadaan lisäksi sopia 12 arkipäivää ylittävän vuosiloman jakamisesta pidettäväksi yhdessä tai useammassa jaksossa sekä 7 §:ssä säädetystä työssäolon veroisesta ajasta siten, että sovittu järjestely turvaa työntekijöille tässä laissa säädettyjä vastaavan pituiset vuosilomat. Siitä, mitä 7 §:n 2 momentin 1 kohdassa säädetään, ei kuitenkaan saa sopimuksin poiketa. Lisäksi valtakunnallisella virkaehtosopimuksella saadaan sopia virkamiehen tai viranhaltijan vuosiloman siirtämisessä ja keskeyttämisessä noudatettavasta ilmoitusajasta ja loman keskeyttämisen perusteista tilanteissa, joissa siirtäminen tai keskeyttäminen on julkisen vallan käyttöön liittyvistä painavista syistä tarpeen taikka välttämätöntä julkisyhteisön laissa säädettyjen terveyteen tai turvallisuuteen liittyvien tehtävien hoitamiseksi. Edellä 1 momentissa tarkoitettuja työehtosopimuksen määräyksiä työnantaja saa soveltaa niidenkin työntekijöiden työsuhteissa, jotka eivät ole sidottuja työehtosopimukseen, mutta joiden työsuhteissa työnantajan on työehtosopimuslain (436/1946) mukaan noudatettava työehtosopimuksen määräyksiä. Jos työsopimuksessa on niin sovittu, työehtosopimuksen edellä tarkoitettuja määräyksiä saadaan soveltaa työehtosopimuksen lakkaamisesta uuden työehtosopimuksen voimaantuloon niissä työsuhteissa, joissa määräyksiä saataisiin soveltaa, jos työehtosopimus olisi edelleen voimassa. Mitä tässä pykälässä säädetään työnantajien valtakunnallisesta yhdistyksestä, sovelletaan vastaavasti valtion neuvotteluviranomaiseen tai muuhun valtion sopimusviranomaiseen, kunnalliseen työmarkkinalaitokseen, evankelis-luterilaisen kirkon sopimusvaltuuskuntaan ja ortodoksiseen kirkkokuntaan sekä Ahvenanmaan maakunnan hallitukseen ja Ahvenanmaan maakunnan kunnalliseen sopimusvaltuuskuntaan. Tässä pykälässä tarkoitetun työ- ja virkaehtosopimuksen saavat tehdä eduskunnan osalta eduskunnan virkamiehistä annetun lain (1197/2003) 46 §:n 1 momentissa, Suomen Pankin osalta Suomen Pankin virkamiehistä annetun lain (1166/1998) 42 §:n 1 momentissa ja Kansaneläkelaitoksen osalta Kansaneläkelaitoksesta annetun lain (731/2001) 11 §:n 2 momentissa tarkoitetut osapuolet.",
+      "section_number": "30",
+      "chapter_number": 6,
+      "statute_id": "605/1996"
+    },
+    {
+      "id": "efff4b93-11c2-4e93-85bc-d5c6546a35df",
+      "node_type": "Section",
+      "publisher": "finlex",
+      "title": "31 § Yleissitovan työehtosopimuksen laista poikkeavat määräykset",
+      "text": "Työnantaja, jonka on noudatettava työsopimuslain 2 luvun 7 §:ssä tarkoitettua yleissitovaa työehtosopimusta, saa noudattaa sen soveltamisalalla myös työehtosopimuksen tämän lain 30 §:ssä tarkoitettuja määräyksiä, jos määräyksen soveltaminen ei edellytä paikallista sopimista. Tällöin sovelletaan myös, mitä 30 §:n 2 momentin viimeisessä virkkeessä säädetään.",
+      "section_number": "31",
+      "chapter_number": 6,
+      "statute_id": "605/1996"
+    },
+    {
+      "id": "fb1c818e-4341-4a9a-a6e4-18359158a69c",
+      "node_type": "Section",
+      "publisher": "finlex",
+      "title": "32 § Laissa säädettyä pidempi vuosiloma",
+      "text": "Työehtosopimukseen perustuvaan, laissa säädettyä pidempään vuosilomaan sovelletaan tämän lain vuosilomapalkkaa ja -korvausta koskevia säännöksiä, jollei sopimuksesta muuta ilmene. Lakisääteisen osan ylittävä osa lomasta annetaan siten kuin 20 §:n 2 momentissa säädetään talviloman antamisesta, jollei muusta ole sovittu.",
+      "section_number": "32",
+      "chapter_number": 6,
+      "statute_id": "605/1996"
+    },
+    {
+      "id": "bdf612fa-377d-43e3-87ce-e39105203b48",
+      "node_type": "Section",
+      "publisher": "finlex",
+      "title": "33 § Valtion virkamiesten pidempi vuosiloma",
+      "text": "Sen ohella, mitä tässä laissa säädetään vuosilomasta, valtion virkamieslaissa (750/1994) ja eduskunnan virkamiehistä annetussa laissa tarkoitetussa virkasuhteessa sovelletaan seuraavaa: Siitä, mitä 1 momentissa säädetään, saadaan sopia toisin 30 §:ssä säädetyllä tavalla.",
+      "section_number": "33",
+      "chapter_number": 6,
+      "statute_id": "605/1996"
+    },
+    {
+      "id": "a5e3dfd5-9587-4e76-b075-bf47a7854b2d",
+      "node_type": "Section",
+      "publisher": "finlex",
+      "title": "34 § Kanneaika",
+      "text": "Oikeus tässä laissa tarkoitettuun saatavaan raukeaa, jos kannetta työsuhteen kestäessä ei nosteta kahden vuoden kuluessa sen kalenterivuoden päättymisestä, jonka aikana vuosiloma olisi ollut annettava tai lomakorvaus maksettava. Työsuhteen päätyttyä 1 momentissa tarkoitettua saatavaa koskeva kanne on nostettava kahden vuoden kuluessa työsuhteen päättymisestä.",
+      "section_number": "34",
+      "chapter_number": 6,
+      "statute_id": "605/1996"
+    },
+    {
+      "id": "ac390977-71c5-44b1-ac63-8aa65f916d71",
+      "node_type": "Section",
+      "publisher": "finlex",
+      "title": "35 § Nähtävänäpito",
+      "text": "Työnantajan on pidettävä tämä laki ja sen nojalla tehdyt sopimukset työntekijöiden vapaasti saatavilla työpaikalla.",
+      "section_number": "35",
+      "chapter_number": 6,
+      "statute_id": "605/1996"
+    },
+    {
+      "id": "0faede11-1d7e-4281-9554-15f6739a11bd",
+      "node_type": "Section",
+      "publisher": "finlex",
+      "title": "36 § Työneuvoston lausunto",
+      "text": "Työneuvosto antaa lausuntoja tämän lain soveltamisesta ja tulkinnasta siten kuin työneuvostosta ja eräistä työsuojelun poikkeusluvista annetussa laissa (400/2004) säädetään.",
+      "section_number": "36",
+      "chapter_number": 6,
+      "statute_id": "605/1996"
+    },
+    {
+      "id": "9ade653b-2d15-4de3-8b0b-44392953c74b",
+      "node_type": "Section",
+      "publisher": "finlex",
+      "title": "37 § Valvonta",
+      "text": "Työsuojeluviranomaiset valvovat tämän lain noudattamista.",
+      "section_number": "37",
+      "chapter_number": 6,
+      "statute_id": "605/1996"
+    },
+    {
+      "id": "8e5c16d1-e981-4467-8c79-1a69e193496d",
+      "node_type": "Section",
+      "publisher": "finlex",
+      "title": "38 § Rangaistussäännökset",
+      "text": "Työnantaja tai tämän edustaja, joka tahallaan tai huolimattomuudesta Rangaistus tämän lain 29 §:ssä tarkoitettua vuosilomakirjanpitoa koskevasta laiminlyönnistä tai väärinkäytöksestä sekä sellaisesta vuosilomarikkomuksesta, joka on tehty työsuojeluviranomaisen kehotuksesta, määräyksestä tai kiellosta huolimatta, säädetään rikoslain 47 luvun 2 §:ssä.",
+      "section_number": "38",
+      "chapter_number": 6,
+      "statute_id": "605/1996"
+    },
+    {
+      "id": "6e7cc503-4e02-43a7-8da1-27ae61e41fd1",
+      "node_type": "Section",
+      "publisher": "finlex",
+      "title": "39 § Voimaantulo",
+      "text": "Tämä laki tulee voimaan 1 päivänä huhtikuuta 2005. Tällä lailla kumotaan niihin myöhemmin tehtyine muutoksineen: Jos laissa tai asetuksessa viitataan tällä lailla kumottuun säädökseen, sen sijasta sovelletaan tätä lakia.",
+      "section_number": "39",
+      "chapter_number": 7,
+      "statute_id": "605/1996"
+    },
+    {
+      "id": "67b5ad33-cea0-4d35-b702-dafe410fde78",
+      "node_type": "Section",
+      "publisher": "finlex",
+      "title": "40 § Siirtymäsäännökset",
+      "text": "Työsuhteissa, joissa työnantajan on noudatettava tai joissa työnantaja saa noudattaa joko työehtosopimuslain tai työsopimuslain 2 luvun 7 §:n nojalla ennen tämän lain voimaantuloa tehtyä työehtosopimusta, työnantaja saa soveltaa työehtosopimuksen tästä laista poikkeavia määräyksiä työehtosopimuksen päättymiseen saakka, jollei työehtosopimusta muuteta sitä ennen. Vastaavasti valtion virkaehtosopimuslain (664/1970), kunnallisen virkaehtosopimuslain (669/1970) tai evankelis-luterilaisen kirkon virkaehtosopimuksista annetun lain (968/1974) nojalla annettuja vuosilomaa koskevia, tästä laista poikkeavia määräyksiä saadaan soveltaa virkaehtosopimuksen päättymiseen saakka, jollei virkaehtosopimusta muuteta sitä ennen. Ennen tämän lain voimaantuloa ansaittujen vuosilomien ajalta maksettavaan vuosilomapalkkaan ja vuosilomakorvaukseen sovelletaan ansainta-aikana voimassa olleen vuosilomalain säännöksiä.",
+      "section_number": "40",
+      "chapter_number": 7,
+      "statute_id": "605/1996"
+    }
+  ],
+  "clauses": [
+    {
+      "id": "628c9f82-ae99-4efe-b3d7-e76fd3a9ea4d",
+      "node_type": "Clause",
+      "publisher": "finlex",
+      "title": "§ 5 mom 1",
+      "text": "1) aikaisemmalla työnantajalla;",
+      "clause_number": 1,
+      "section_number": "5",
+      "statute_id": "605/1996"
+    },
+    {
+      "id": "94f93d64-4e60-4d47-8ac8-2e26c8b38aa7",
+      "node_type": "Clause",
+      "publisher": "finlex",
+      "title": "§ 5 mom 2",
+      "text": "2) yhdellä tai useammalla henkilöllä, joka on aikaisempaan työnantajaan takaisinsaannista konkurssipesään annetun lain (758/1991) 3 §:ssä tarkoitetussa läheisyyssuhteessa; taikka",
+      "clause_number": 2,
+      "section_number": "5",
+      "statute_id": "605/1996"
+    },
+    {
+      "id": "3c2c8661-74ef-44f6-ad98-7e94d98705de",
+      "node_type": "Clause",
+      "publisher": "finlex",
+      "title": "§ 5 mom 3",
+      "text": "3) 1 ja 2 kohdassa tarkoitetuilla henkilöillä yhdessä.",
+      "clause_number": 3,
+      "section_number": "5",
+      "statute_id": "605/1996"
+    },
+    {
+      "id": "3426b7a8-1741-43f2-867e-8ab2879a31a3",
+      "node_type": "Clause",
+      "publisher": "finlex",
+      "title": "§ 7 mom 1",
+      "text": "1) työsopimuslain (55/2001) 4 luvun 1 §:ssä säädetyn äitiys-, erityisäitiys-, isyys- tai vanhempainvapaan aikana, 6 §:ssä säädetyn tilapäisen hoitovapaan ja 7 §:ssä säädetyn pakottavista perhesyistä johtuvan poissaolon aikana;",
+      "clause_number": 1,
+      "section_number": "7",
+      "statute_id": "605/1996"
+    },
+    {
+      "id": "d7e7fdbb-c39a-4873-8b9f-d9c16ef7ae31",
+      "node_type": "Clause",
+      "publisher": "finlex",
+      "title": "§ 7 mom 2",
+      "text": "2) sairauden tai tapaturman vuoksi, enintään kuitenkin 75 työpäivää lomanmääräytymisvuodessa, taikka jos työkyvyttömyys jatkuu yhdenjaksoisena lomanmääräytymisvuoden päättymisen jälkeen, enintään 75 työpäivää tätä sairautta tai tapaturmaa kohden;",
+      "clause_number": 2,
+      "section_number": "7",
+      "statute_id": "605/1996"
+    },
+    {
+      "id": "5d38c37a-8d74-4c82-a64e-1f28052cf611",
+      "node_type": "Clause",
+      "publisher": "finlex",
+      "title": "§ 7 mom 3",
+      "text": "3) lääkärin määräämän, ammattitaudin tai tapaturman johdosta työkyvyn palauttamiseksi tai säilyttämiseksi annettavan lääkinnällisen kuntoutuksen takia, enintään kuitenkin 75 työpäivää lomanmääräytymisvuodessa, taikka jos kuntoutus jatkuu yhdenjaksoisena lomanmääräytymisvuoden päättymisen jälkeen, enintään 75 työpäivää tätä kuntoutusjaksoa kohden;",
+      "clause_number": 3,
+      "section_number": "7",
+      "statute_id": "605/1996"
+    },
+    {
+      "id": "3e6ff856-7df1-449b-95f5-a6f74622a017",
+      "node_type": "Clause",
+      "publisher": "finlex",
+      "title": "§ 7 mom 4",
+      "text": "4) sairauden leviämisen estämiseksi annetun viranomaisen määräyksen vuoksi;",
+      "clause_number": 4,
+      "section_number": "7",
+      "statute_id": "605/1996"
+    },
+    {
+      "id": "192c1835-073e-40ef-ab26-2bd49867f99e",
+      "node_type": "Clause",
+      "publisher": "finlex",
+      "title": "§ 7 mom 5",
+      "text": "5) opintovapaalaissa (273/1979) tarkoitetun opintovapaan vuoksi, enintään kuitenkin 30 työpäivää lomanmääräytymisvuodessa, ja vain jos työntekijä on välittömästi opintovapaan jälkeen palannut työhön;",
+      "clause_number": 5,
+      "section_number": "7",
+      "statute_id": "605/1996"
+    },
+    {
+      "id": "03a5731d-74a2-421a-bf5d-92b65706d857",
+      "node_type": "Clause",
+      "publisher": "finlex",
+      "title": "§ 7 mom 6",
+      "text": "6) työnantajan suostumuksella työn edellyttämään koulutukseen osallistumisen vuoksi, kuitenkin siten, että työnantaja ja työntekijä voivat sopia siitä, että työssäolopäivien veroisiksi päiviksi luetaan vain 30 työpäivää kerrallaan;",
+      "clause_number": 6,
+      "section_number": "7",
+      "statute_id": "605/1996"
+    },
+    {
+      "id": "a749c5bb-15e8-4686-965e-171f2ba5780f",
+      "node_type": "Clause",
+      "publisher": "finlex",
+      "title": "§ 7 mom 7",
+      "text": "7) lomauttamisen takia, enintään kuitenkin 30 työpäivää kerrallaan;",
+      "clause_number": 7,
+      "section_number": "7",
+      "statute_id": "605/1996"
+    },
+    {
+      "id": "c41167c7-8b57-4a72-a745-51c8200465f9",
+      "node_type": "Clause",
+      "publisher": "finlex",
+      "title": "§ 7 mom 8",
+      "text": "8) lomauttamista vastaavan työviikkojen lyhentämisen tai muun siihen verrattavan työaikajärjestelyn takia, enintään kuitenkin kuusi kuukautta kerrallaan; jos tällainen työaikajärjestely jatkuu keskeytyksettä lomanmääräytymisvuoden päättymisen jälkeen, uuden kuuden kuukauden jakson laskeminen aloitetaan lomanmääräytymisvuoden päättymisen jälkeen;",
+      "clause_number": 8,
+      "section_number": "7",
+      "statute_id": "605/1996"
+    },
+    {
+      "id": "b302b44a-4e91-43a7-91bc-11d7d2a51ada",
+      "node_type": "Clause",
+      "publisher": "finlex",
+      "title": "§ 7 mom 9",
+      "text": "9) reservin harjoituksen tai ylimääräisen palveluksen taikka siviilipalveluslain 37 §:ssä tarkoitetun täydennyspalveluksen vuoksi; tai",
+      "clause_number": 9,
+      "section_number": "7",
+      "statute_id": "605/1996"
+    },
+    {
+      "id": "2d6fbafb-eafd-489d-9f4d-4badd9fe125a",
+      "node_type": "Clause",
+      "publisher": "finlex",
+      "title": "§ 7 mom 10",
+      "text": "10) sellaisen julkisen luottamustehtävän hoitamisen tai todistajana kuulemisen vuoksi, josta lain mukaan ei ole oikeutta kieltäytyä tai josta kieltäytyminen olisi sallittua vain laissa mainitun erityisen syyn perusteella.",
+      "clause_number": 10,
+      "section_number": "7",
+      "statute_id": "605/1996"
+    },
+    {
+      "id": "0ca19bcc-f12c-4901-8728-5d3fe0bac775",
+      "node_type": "Clause",
+      "publisher": "finlex",
+      "title": "§ 33 mom 1",
+      "text": "1) virkamies saa varsinaista vuosilomaa kolme arkipäivää kultakin täydeltä lomanmääräytymiskuukaudelta, jos hänellä ennen lomakauden alkamista on vuosilomaan oikeuttavaa palvelusaikaa yhteensä vähintään viisitoista vuotta;",
+      "clause_number": 1,
+      "section_number": "33",
+      "statute_id": "605/1996"
+    },
+    {
+      "id": "112e4fa5-daa4-4ab9-a1fe-ab92358060d1",
+      "node_type": "Clause",
+      "publisher": "finlex",
+      "title": "§ 33 mom 2",
+      "text": "2) milloin virkamiehen varsinaisesta vuosilomasta muu kuin säästövapaaseen kuuluva osa pidetään muuna kuin lomakautena, myönnetään loma tältä osin pidennettynä puolella, kuitenkin enintään asianomaisen koko loman puolesta määrästä ja siten, että pidennys voi olla enintään kuusi arkipäivää; milloin 1 kohdan mukaan määräytyvästä vuosilomasta pidetään enintään 34 arkipäivää lomakautena, myönnetään loma yhdeksällä arkipäivällä pidennettynä sellaiselle virkamiehelle, jolla on oikeus lomaan 12 lomanmääräytymiskuukaudelta; milloin virkamies säästää osan varsinaisista vuosilomapäivistä pidettäväksi säästövapaana, vähennetään edellä mainittua 34 päivän enimmäismäärää vastaavasti; mikäli virkamiehellä ei ole oikeutta lomaan 12 lomanmääräytymiskuukaudelta, mutta kuitenkin vähintään seitsemältä kuukaudelta, myönnetään loma viidellä arkipäivällä pidennettynä, mikäli varsinaisesta vuosilomasta, josta on vähennetty säästettävien lomapäivien lukumäärä, pidetään enintään kolme neljäsosaa lomakautena.",
+      "clause_number": 2,
+      "section_number": "33",
+      "statute_id": "605/1996"
+    },
+    {
+      "id": "0cc82628-4480-44f1-9bad-baae1cbcb78a",
+      "node_type": "Clause",
+      "publisher": "finlex",
+      "title": "§ 38 mom 1",
+      "text": "1) laiminlyö antaa työntekijälle tässä laissa säädettyä vuosilomaa taikka pitää työntekijää työssä vuosiloman ajaksi määräämänään aikana,",
+      "clause_number": 1,
+      "section_number": "38",
+      "statute_id": "605/1996"
+    },
+    {
+      "id": "1162237e-e7c7-4b3a-9759-976ecd92fc87",
+      "node_type": "Clause",
+      "publisher": "finlex",
+      "title": "§ 38 mom 2",
+      "text": "2) laiminlyö työntekijän pyynnöstä viipymättä antaa 28 §:ssä säädetyn vuosilomapalkkalaskelman taikka",
+      "clause_number": 2,
+      "section_number": "38",
+      "statute_id": "605/1996"
+    },
+    {
+      "id": "c2483776-8007-4865-9d41-901d72fccece",
+      "node_type": "Clause",
+      "publisher": "finlex",
+      "title": "§ 38 mom 3",
+      "text": "3) laiminlyö 35 §:ssä säädetyn lain ja sopimusten nähtävänäpitoa koskevan velvollisuutensa,",
+      "clause_number": 3,
+      "section_number": "38",
+      "statute_id": "605/1996"
+    },
+    {
+      "id": "e45854f3-b7ce-46ea-b970-3d3bc9fafbb4",
+      "node_type": "Clause",
+      "publisher": "finlex",
+      "title": "§ 39 mom 1",
+      "text": "1) 30 päivänä maaliskuuta 1973 annettu vuosilomalaki (272/1973);",
+      "clause_number": 1,
+      "section_number": "39",
+      "statute_id": "605/1996"
+    },
+    {
+      "id": "4dd5cc7f-5110-473a-825d-2f86e98c48a0",
+      "node_type": "Clause",
+      "publisher": "finlex",
+      "title": "§ 39 mom 2",
+      "text": "2) kunnan ja muun julkisen yhdyskunnan viran- ja toimenhaltijain vuosilomasta eräissä tapauksissa 21 päivänä huhtikuuta 1939 annettu laki (111/1939);",
+      "clause_number": 2,
+      "section_number": "39",
+      "statute_id": "605/1996"
+    },
+    {
+      "id": "53014249-14dd-4960-8eaf-ecf6c3a32be0",
+      "node_type": "Clause",
+      "publisher": "finlex",
+      "title": "§ 39 mom 3",
+      "text": "3) valtion virkamiesten vuosilomasta 31 päivänä elokuuta 1973 annettu asetus (692/1973);",
+      "clause_number": 3,
+      "section_number": "39",
+      "statute_id": "605/1996"
+    },
+    {
+      "id": "2cdc2138-41bd-42af-b58b-6c3cfe930fd2",
+      "node_type": "Clause",
+      "publisher": "finlex",
+      "title": "§ 39 mom 4",
+      "text": "4) eräiden valtion palveluksessa olevien osa-aikaisten ja sivutoimisten virkamiesten sekä tuntiopettajien vuosilomasta ja vuosilomakorvauksesta 23 päivänä joulukuuta 1987 annettu asetus (1200/1987);",
+      "clause_number": 4,
+      "section_number": "39",
+      "statute_id": "605/1996"
+    },
+    {
+      "id": "f095860e-fa51-481d-8c98-8d11f0fab386",
+      "node_type": "Clause",
+      "publisher": "finlex",
+      "title": "§ 39 mom 5",
+      "text": "5) ulkomaanedustuksen virkamiesten vuosilomista 6 päivänä maaliskuuta 1992 annettu asetus (208/1992); sekä",
+      "clause_number": 5,
+      "section_number": "39",
+      "statute_id": "605/1996"
+    },
+    {
+      "id": "2ea1b29b-4121-4657-8981-c0bcd91287c9",
+      "node_type": "Clause",
+      "publisher": "finlex",
+      "title": "§ 39 mom 6",
+      "text": "6) valtion työntekijäin vuosilomista 20 päivänä huhtikuuta 1978 annettu valtioneuvoston päätös (284/1978).",
+      "clause_number": 6,
+      "section_number": "39",
+      "statute_id": "605/1996"
+    }
+  ],
+  "cross_references": [],
+  "raw_html_path": "C:\\Users\\danit\\finance-hack\\aalto-hackaton-2026\\data\\raw\\finlex\\Laki (säädöskokoelma)\\Vuosilomalaki_1.html"
+}

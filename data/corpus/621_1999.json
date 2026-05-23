@@ -1,0 +1,573 @@
+{
+  "statute": {
+    "id": "7ef0245f-6bf0-4d60-bb54-47415de34bc1",
+    "node_type": "Statute",
+    "publisher": "finlex",
+    "title": "Tilastolaki",
+    "text": "Tilastolaki",
+    "statute_id": "621/1999",
+    "finlex_url": "https://finlex.fi/fi/laki/ajantasa/621/1999"
+  },
+  "chapters": [
+    {
+      "id": "ea866b00-aa52-437c-bf9e-e867790bdb73",
+      "node_type": "Chapter",
+      "publisher": "finlex",
+      "title": "Chapter 1",
+      "text": "1 luku Yleiset säännökset",
+      "chapter_number": 1,
+      "statute_id": "621/1999"
+    },
+    {
+      "id": "4c452296-7fd6-48e3-bb52-10d32b16b317",
+      "node_type": "Chapter",
+      "publisher": "finlex",
+      "title": "Chapter 2",
+      "text": "2 luku Tietojen kerääminen",
+      "chapter_number": 2,
+      "statute_id": "621/1999"
+    },
+    {
+      "id": "70015bd7-4d74-4f5c-bc16-133dc3d42745",
+      "node_type": "Chapter",
+      "publisher": "finlex",
+      "title": "Chapter 3",
+      "text": "3 luku Tietojen käsittely ja tilastojen laatiminen",
+      "chapter_number": 3,
+      "statute_id": "621/1999"
+    },
+    {
+      "id": "1c6ef109-cfc5-4c37-820d-b067ede8e3d1",
+      "node_type": "Chapter",
+      "publisher": "finlex",
+      "title": "Chapter 4",
+      "text": "4 luku Tilastotarkoituksiin kerättyjen tietojen luovuttaminen",
+      "chapter_number": 4,
+      "statute_id": "621/1999"
+    },
+    {
+      "id": "34b2abee-6135-4600-abd4-c95fe632b76e",
+      "node_type": "Chapter",
+      "publisher": "finlex",
+      "title": "Chapter 5",
+      "text": "5 luku Tilastokeskuksen tilastotointa koskevat säännökset",
+      "chapter_number": 5,
+      "statute_id": "621/1999"
+    },
+    {
+      "id": "4e2464c5-9696-4bda-8c58-4cd693b3416d",
+      "node_type": "Chapter",
+      "publisher": "finlex",
+      "title": "Chapter 6",
+      "text": "6 luku Erinäiset säännökset",
+      "chapter_number": 6,
+      "statute_id": "621/1999"
+    }
+  ],
+  "sections": [
+    {
+      "id": "ba7e553d-ef55-4631-9e95-33ab424faa4b",
+      "node_type": "Section",
+      "publisher": "finlex",
+      "title": "1 § Lain soveltamisala",
+      "text": "Tässä laissa säädetään valtion viranomaisten tilastojen laatimisessa sovellettavista tiedonkeruuta sekä tilastojen suunnittelua ja laadintaa koskevista menettelytavoista ja periaatteista. Tietojen keräämiseen, luovuttamiseen, suojaamiseen ja muuhun käsittelyyn tilastoja laadittaessa sovelletaan, mitä viranomaisten toiminnan julkisuudesta annetussa laissa (621/1999) ja henkilötietolaissa (523/1999) säädetään, jollei tässä tai muussa laissa toisin säädetä. Euroopan yhteisön tilasto-ohjelmaan sisältyviin tilastoihin sovelletaan yhteisön tilastoista annettua neuvoston asetusta (EY) N:o 322/97. Tämän lain säännöksiä sovelletaan kuitenkin niiltä osin kuin neuvoston asetus ei tule sovellettavaksi.",
+      "section_number": "1",
+      "chapter_number": 1,
+      "statute_id": "621/1999"
+    },
+    {
+      "id": "99c52bd6-f27c-4389-8a65-5a794ef12cbc",
+      "node_type": "Section",
+      "publisher": "finlex",
+      "title": "2 § Valtion tilastotoimi ja tilastoja laativat viranomaiset",
+      "text": "Valtion tilastotoimen tehtävänä on huolehtia yhteiskuntaoloja ja niiden kehitystä kuvaavien tilastojen laatimisesta yleistä käyttöä varten. Tässä laissa tarkoitetaan:",
+      "section_number": "2",
+      "chapter_number": 1,
+      "statute_id": "621/1999"
+    },
+    {
+      "id": "b7e5a2fa-8642-497c-945a-05aa86bc7803",
+      "node_type": "Section",
+      "publisher": "finlex",
+      "title": "3 § Lain tarkoitus",
+      "text": "Tämän lain tarkoituksena on yhteiskunnallista päätöksentekoa ja suunnittelua varten tarvittavan luotettavan tilastotiedon saannin varmistamiseksi sekä kansainväliseen tilastoyhteistyöhön liittyvien velvoitteiden toteuttamiseksi yhtenäistää ja tehostaa tietojen keruussa, käsittelyssä, käytössä, luovuttamisessa ja säilyttämisessä sovellettavia periaatteita ja menettelytapoja, edistää hyvän tilastotavan noudattamista valtion tilastotoimessa sekä varmistaa, että niiden oikeudet toteutuvat, jotka luovuttavat tietoja tilastointia varten tai joita tiedot koskevat.",
+      "section_number": "3",
+      "chapter_number": 1,
+      "statute_id": "621/1999"
+    },
+    {
+      "id": "51017b9b-9cac-4884-99db-fbec70defa73",
+      "node_type": "Section",
+      "publisher": "finlex",
+      "title": "4 § Tietojen keräämisessä noudatettavat periaatteet",
+      "text": "Tietojen antaminen tilastojen laatimista varten on tiedonantajille vapaaehtoista, jollei tiedonantovelvollisuudesta ole laissa säädetty. Hankittaessa tietoja tilastojen laatimista varten tulee ensi sijassa käyttää hyväksi julkishallinnon tehtävien hoitamisessa kertyneitä sekä elinkeinon- ja ammatinharjoittajien, yhteisöjen ja säätiöiden tavanomaisen toiminnan seurauksena syntyneitä tietoja. Tiedot on kerättävä taloudellisesti ja niin, että siitä aiheutuu tiedonantajille mahdollisimman vähän haittaa ja kustannuksia.",
+      "section_number": "4",
+      "chapter_number": 2,
+      "statute_id": "621/1999"
+    },
+    {
+      "id": "adfb630f-ef6a-44a5-a833-93df143140d8",
+      "node_type": "Section",
+      "publisher": "finlex",
+      "title": "5 § Kerättävät tiedot",
+      "text": "Tilastoja laativan viranomaisen on huolehdittava siitä, että tiedonantajilta pyydetään vain tilastojen laatimisen kannalta välttämättömät tiedot. Tiedot tulee kerätä ja tallettaa ilman tunnistetietoja aina, kun se tilastojen laatimisen kannalta on mahdollista. Tunnistetietoja voidaan kerätä ja tallettaa ainoastaan silloin, kun se on välttämätöntä tietoaineistojen yhdistämiseksi tai kun se on muutoin välttämätöntä yhteiskuntaolojen kehityspiirteitä kuvaavien luotettavien ja vertailukelpoisten tilastojen tuottamiseksi.",
+      "section_number": "5",
+      "chapter_number": 2,
+      "statute_id": "621/1999"
+    },
+    {
+      "id": "066fd6cc-4c17-4fea-8fef-c5e4aed6c263",
+      "node_type": "Section",
+      "publisher": "finlex",
+      "title": "6 § Tilastoviranomaisen neuvottelu- ja tiedonantovelvoitteet",
+      "text": "Ennen kuin tilastoviranomainen päättää tiedonantovelvollisuuden perusteella kerättävistä tiedoista, sen on neuvoteltava tiedonantajien tai heidän edustajiensa kanssa. Neuvottelussa käsiteltäviä kysymyksiä ovat: Neuvottelu on järjestettävä myös silloin, kun yhden tai useamman 1 momentissa tarkoitetun kysymyksen suhteen suunnitellaan muutoksia tai kun tiedonantajien edustaja sitä pyytää. Neuvottelu on järjestettävä niin varhaisessa vaiheessa, että tiedonantajien näkemykset voidaan ottaa huomioon tiedonkeruun suunnittelussa ja tiedonantajat voivat sopeuttaa tietojärjestelmänsä tarvittavan tiedon tuottamiseen.",
+      "section_number": "6",
+      "chapter_number": 2,
+      "statute_id": "621/1999"
+    },
+    {
+      "id": "6f97aa7d-7a71-4ff0-b83a-1cb69383d305",
+      "node_type": "Section",
+      "publisher": "finlex",
+      "title": "7 § Tilastoviranomaisen päätös tietojen keräämisestä ja tiedonkeruusta tiedottaminen",
+      "text": "Neuvoteltuaan tiedonantovelvollisten tai heidän edustajiensa kanssa tilastoviranomainen päättää kerättävistä tiedoista sekä tietojen keräämisessä noudatettavista menettelytavoista ja määräajoista. Tietojenkeruun käynnistämisestä ja kerättävistä tiedoista on riittävän ajoissa ilmoitettava tiedonantajille ja heidän edustajilleen.",
+      "section_number": "7",
+      "chapter_number": 2,
+      "statute_id": "621/1999"
+    },
+    {
+      "id": "92cfea6b-c10e-4875-a57b-34fa7a3817db",
+      "node_type": "Section",
+      "publisher": "finlex",
+      "title": "8 § Tiedonantovelvollisuudesta vapauttaminen",
+      "text": "Tilastoviranomaisen tulee vapauttaa tiedonantovelvollinen tämän pyynnöstä tiedonantovelvollisuudesta kokonaan tai osittain, jos tietojen antamisesta on tälle kohtuutonta haittaa eikä vapauttaminen oleellisesti vaikeuta tilastojen laatimista eikä tilastojen luotettavuus ja käytettävyys oleellisesti heikkene.",
+      "section_number": "8",
+      "chapter_number": 2,
+      "statute_id": "621/1999"
+    },
+    {
+      "id": "4376363d-ff08-452f-8356-545c4a4b62a8",
+      "node_type": "Section",
+      "publisher": "finlex",
+      "title": "9 § Tiedottamisvelvollisuus tietoja kerättäessä",
+      "text": "Tilastoja laativan viranomaisen on tietoja kerättäessä kirjallisesti selostettava tiedonantajille tietojen käyttötarkoitus, tilastojen laatimisessa käytettävät menettelytavat, tiedonantovelvollisuus perusteluineen tai se, että tietojen antaminen on vapaaehtoista, tiedonantajan oikeudet, tietojen suojaamisjärjestelyt ja säilytysajat sekä muut tarpeelliset tietojen antamiseen vaikuttavat seikat. Silloin, kun tietojen antaminen on vapaaehtoista, tietoja keräävän viranomaisen tulee ilmoittaa asiasta myös tiedonantajien edustajille. Tiedonantovelvollisille, lukuun ottamatta valtion viranomaisia, on annettava tilastotiedoista palautetieto. Palautetieto on annettava tiedonantajien kannalta tarkoituksenmukaisella tavalla.",
+      "section_number": "9",
+      "chapter_number": 2,
+      "statute_id": "621/1999"
+    },
+    {
+      "id": "8c2d8e60-0462-4e9a-9c11-9f3a837e6d89",
+      "node_type": "Section",
+      "publisher": "finlex",
+      "title": "10 § Tietojen käsittelyssä noudatettavat peri- aatteet",
+      "text": "Tilastotarkoituksia varten kerättyjä tietoja yhdistettäessä, säilytettäessä, hävitettäessä tai muutoin käsiteltäessä on huolehdittava siitä, ettei kenenkään yksityisyys tai liike- tai ammattisalaisuus vaarannu. Tietoja on käsiteltävä hyvää tilastotapaa noudattaen ja tilastoalalla yleensä sovellettavien kansainvälisten suositusten ja menettelytapojen mukaisesti. Tilastoja laativan viranomaisen on huolehdittava siitä, että tiedot on tilastotuotannon kaikissa vaiheissa asianmukaisesti suojattu siten kuin erikseen säädetään.",
+      "section_number": "10",
+      "chapter_number": 3,
+      "statute_id": "621/1999"
+    },
+    {
+      "id": "82ca4796-9c5d-4847-a050-9587b5e228c1",
+      "node_type": "Section",
+      "publisher": "finlex",
+      "title": "11 § Tilastojen laatu ja saatavuus",
+      "text": "Tilastojen on oltava mahdollisimman luotettavia ja niiden on annettava oikea kuva yhteiskuntaoloista ja niiden kehityksestä. Tietojen vertailukelpoisuuden varmistamiseksi ja hyväksikäytön tehostamiseksi tilastoja laadittaessa on mahdollisuuksien mukaan käytettävä yhdenmukaisia käsitteitä, määritelmiä ja luokituksia. Tilastot tulee laatia niin, etteivät niistä ole suoraan tai välillisesti tunnistettavissa ne, joita tilastot koskevat, ellei tunnistamista koskeva tieto ole tämän lain mukaan julkinen. Tilastot on julkistettava mahdollisimman pian niiden valmistumisen jälkeen. Niiden tilastojen julkistamiseen, joilla ilmeisesti voi olla vaikutusta pääoma- ja rahoitusmarkkinoilla, sovelletaan, mitä viranomaisten toiminnan julkisuudesta annetun lain 8 §:ssä ja 24 §:n 1 momentin 13 kohdassa säädetään.",
+      "section_number": "11",
+      "chapter_number": 3,
+      "statute_id": "621/1999"
+    },
+    {
+      "id": "ffc262e6-9855-4303-9c5f-68ef0806feed",
+      "node_type": "Section",
+      "publisher": "finlex",
+      "title": "12 § Tietojen salassapito ja julkisuus",
+      "text": "Tilastotarkoituksia varten annettujen tietojen julkisuudesta ja salassapidosta on voimassa, mitä viranomaisten toiminnan julkisuudesta annetussa laissa säädetään. Lain 24 §:n 1 momentin 16 kohtaa ei kuitenkaan sovelleta tilastoja laativan viranomaisen hallussa olevien valtion ja kunnallisten viranomaisten toimintaa ja julkisten palvelujen tuottamista kuvaavien eikä tämän lain 18 §:ssä tarkoitettuja yrityksiä ja yhteisöjä koskevien tietojen julkisuuteen. Tilastoja laativan viranomaisen hallussa olevaan tilastotarkoituksia varten saatuun asiakirjaan ei sovelleta viranomaisten toiminnan julkisuudesta annetun lain 11 ja 12 §:ssä säädettyä oikeutta saada tieto itseään koskevasta asiakirjasta.",
+      "section_number": "12",
+      "chapter_number": 4,
+      "statute_id": "621/1999"
+    },
+    {
+      "id": "acee8a70-32c0-4f30-a46c-e16f083f74f3",
+      "node_type": "Section",
+      "publisher": "finlex",
+      "title": "13 § Salassa pidettävien tietojen luovuttaminen",
+      "text": "Riippumatta siitä, mitä viranomaisten velvollisuudesta luovuttaa salassa pidettäviä tietoja muulla lailla säädetään, tilastoviran-omaisen tilastotarkoituksiin saamia tietoja voidaan luovuttaa ulkopuolisille vain tässä laissa tai muussa erityisesti valtion tilasto-tointa koskevassa laissa säädetyin perustein taikka sen nimenomaisella suostumuksella, jota ne koskevat. Näitä tietoja ei saa luovuttaa käytettäväksi tutkinnassa, valvonnassa, oikeudenkäynnissä, hallinnollisessa päätöksenteossa tai muussa vastaavassa henkilöä, yritystä, yhteisöä tai säätiötä koskevan asian käsittelyssä. Tilastoviranomainen voi luovuttaa tilasto-tarkoituksiin keräämiään salassa pidettäviä tietoja yhteiskuntaoloja koskevia tieteellisiä tutkimuksia ja tilastollisia selvityksiä varten. Henkilötietolaissa tarkoitettuja henkilötietoja ja muiden tilastoyksiköiden tunnistetietoja ei kuitenkaan saa luovuttaa. Välttämättömät tunnistetiedot voidaan kuitenkin luovuttaa toiselle tilastoviranomaiselle sen toimialaan kuuluvien tilastojen laatimista varten. Tämän momentin nojalla saatuja tietoja ei saa luovuttaa edelleen. Luvan myöntämiseen sovelletaan muutoin, mitä viranomaisten toiminnan julkisuudesta annetun lain 28 §:ssä säädetään. Tilastoviranomainen päättää kuitenkin aina luvan antamisesta. Mitä 1 ja 2 momentissa säädetään, ei estä tietojen antamista takaisin sille viranomaiselle, joka on toimittanut tietoaineiston tilastoviranomaiselle. Tilastoja laativan muun viranomaisen tilastoja varten erikseen keräämien tietojen luovuttamiseen sovelletaan, mitä viranomaisten toiminnan julkisuudesta annetun lain 28 §:ssä säädetään. Tilastoja laativa muu viranomainen päättää kuitenkin aina luvan antamisesta.",
+      "section_number": "13",
+      "chapter_number": 4,
+      "statute_id": "621/1999"
+    },
+    {
+      "id": "805cd832-75d3-4970-9d8f-ab0969ac6189",
+      "node_type": "Section",
+      "publisher": "finlex",
+      "title": "14 § Tilastokeskuksen oikeus kerätä tietoja tiedonantovelvollisuuden nojalla",
+      "text": "Valtion viranomaiset ovat velvollisia antamaan salassapitosäännösten estämättä tilastokeskukselle tilastojen laatimisen kannalta välttämättömät tiedot hallussaan olevista tietoaineistoista sekä tiedot omasta toiminnastaan, taloudestaan, hoitamistaan tehtävistä, henkilöstöstään ja muista toiminnan edellyttämistä voimavaroista. Kunnat ja kuntayhtymät ovat velvollisia antamaan salassapitosäännösten estämättä tilastokeskukselle tilastojen laatimisen kannalta välttämättömät tiedot taloudestaan, hyödykkeistään, toiminnan sijainnista, henkilöstöstään ja muista toiminnan edellyttämistä voimavaroista. Elinkeinonharjoittajat, kuntien ja valtion liikelaitokset sekä voittoa tavoittelemattomat yhteisöt ja säätiöt ovat velvollisia antamaan salassapitosäännösten estämättä tilastokeskukselle tilastojen laatimisen kannalta välttämättömät tiedot harjoittamansa toiminnan lajista, sijainnista, omistamisesta ja taloudesta, hyödykkeistään, henkilöstöstään ja muista toiminnan edellyttämistä voimavaroista. Eläketurvakeskus, Kansaneläkelaitos ja lakisääteistä sosiaalivakuutusta harjoittavat vakuutuslaitokset ovat salassapitosäännösten estämättä lisäksi velvollisia antamaan hallussaan olevat tiedot vakuutusvelvollisten maksamista sosiaalivakuutusmaksuista. Edellä mainittuihin ryhmiin kuulumattomat, lailla tai lain nojalla annettuja julkisia hallintotehtäviä hoitavat ovat velvollisia antamaan salassapitosäännösten estämättä tilastokeskukselle tilastojen laatimisen kannalta välttämättömät tiedot taloudestaan, hyödykkeistään, henkilöstöstään ja muista toiminnan edellyttämistä voimavaroista.",
+      "section_number": "14",
+      "chapter_number": 5,
+      "statute_id": "621/1999"
+    },
+    {
+      "id": "7b27bb57-4c11-4b5b-868c-6d1cc3882eec",
+      "node_type": "Section",
+      "publisher": "finlex",
+      "title": "15 § Tilastokeskuksen oikeus kerätä henkilötietoja tiedonantovelvollisuuden nojalla",
+      "text": "Valtion viranomaiset ovat velvollisia antamaan salassapitosäännösten estämättä tilastokeskukselle tilastojen laatimisen kannalta välttämättömät henkilötiedot, jotka kuvaavat henkilön: Elinkeinonharjoittajat ja muut työnantajat ovat velvollisia antamaan salassapitosäännösten estämättä tilastokeskukselle tilastojen laatimisen kannalta välttämättömät henkilötiedot henkilöstönsä palkoista, työajoista, ammatista ja toimipaikoista. Elinkeinotoimintaa harjoittavat luonnolliset henkilöt, maanviljelijät ja kalastajat ovat lisäksi velvollisia antamaan salassapitosäännösten estämättä tilastokeskukselle tilastojen laatimisen kannalta välttämättömät 14 §:n 3 momentissa tarkoitetut henkilötiedot toiminnastaan. Eläketurvakeskus, Kansaneläkelaitos ja kuntien eläkevakuutus ovat velvollisia antamaan salassapitosäännösten estämättä tilastokeskukselle hallussaan olevat välttämättömät henkilötiedot vakuutettujen ammatista, palvelussuhteesta ja maksetuista etuuksista. Lain tai lain nojalla tehdyn päätöksen perusteella koulutusta järjestävät organisaatiot ovat velvollisia antamaan salassapitosäännösten estämättä tilastokeskukselle tilastojen laatimisen kannalta välttämättömät oppilas-kohtaiset henkilötiedot oppilaista, heidän suorittamistaan tutkinnoista ja saadusta opetuksesta. Arkaluonteisia henkilötietoja saa 1 momentin 1, 3, 7, 9 ja 10 kohdan lisäksi kerätä tiedonantajilta vain silloin, kun arkaluonteinen tieto on vaikuttanut välittömästi koulutuksen, etuuden tai palvelun saantiin tai sen muotoon taikka kun se ilmenee välillisesti koulutuksen, etuuden tai palvelun saantia tai viranomaisen päätöstä tai liikenneonnettomuuden tai tapaturman syitä koskevista tiedoista.",
+      "section_number": "15",
+      "chapter_number": 5,
+      "statute_id": "621/1999"
+    },
+    {
+      "id": "1eca0597-15ce-4123-aa85-62e6721f3354",
+      "node_type": "Section",
+      "publisher": "finlex",
+      "title": "16 § Tiedonantovelvollisuutta koskevat rajoitukset",
+      "text": "Tilastokeskuksen oikeus kerätä tietoja 14 ja 15 §:ssä säädetyn tiedonantovelvollisuuden nojalla ei koske kansainvälisten suhteiden, yleisen turvallisuuden, puolustuksen ja valtion turvallisuuden kannalta salassa pidettäviä tietoja.",
+      "section_number": "16",
+      "chapter_number": 5,
+      "statute_id": "621/1999"
+    },
+    {
+      "id": "c80e0135-bfcd-4ecc-8d81-9c83118e75a1",
+      "node_type": "Section",
+      "publisher": "finlex",
+      "title": "17 § Tietoaineistojen käyttö",
+      "text": "Tilastokeskus voi laatia hallussaan olevasta aineistosta toimeksiannosta tilastoja. Milloin tilastokeskus laatii viranomaisten toiminnan julkisuudesta annetun lain 4 §:ssä tarkoitetun viranomaisen toimeksiannosta tilastoja, se voi käyttää toimeksiannon suorittamisessa myös toimeksiannon antaneen viranomaisen tilastokeskukselle luovuttamia tietoja. Toimeksiannon antanut viranomainen voi luovuttaa tilastokeskukselle toimeksiannon suorittamista varten hallussaan olevaa aineistoa siten kuin viranomaisen toiminnan julkisuudesta annetun lain 28 §:ssä ja 37 §:n 5 momentissa säädetään. Mainitun lain 5 §:n 2 momenttia ei sovelleta tällä tavoin laadittuihin tilastoihin. Milloin tilastokeskus laatii muun kuin 2 momentissa tarkoitetun viranomaisen toimeksiannosta tilastoja, se voi käyttää toimeksiannon suorittamisessa myös toimeksiantajan tilastokeskukselle luovuttamia tietoja.",
+      "section_number": "17",
+      "chapter_number": 5,
+      "statute_id": "621/1999"
+    },
+    {
+      "id": "1c6c23a5-d4b4-4994-ad48-debec0302ad1",
+      "node_type": "Section",
+      "publisher": "finlex",
+      "title": "18 § Yrityksiä ja yhteisöjä koskevien tietojen julkisuus",
+      "text": "Tilastokeskus ylläpitää tilastojen laadintaa varten hallussaan olevien tietojen pohjalta yritys- ja toimipaikkarekisteriä, jonka sisältämät tiedot ovat julkisia seuraavasti. Elinkeinon- ja ammatinharjoittajien, yhteisöjen ja säätiöiden osalta julkisia ovat tiedot: Toimipaikkojen osalta julkisia ovat tiedot toimipaikkatunnuksesta, toiminta-ajasta, nimestä, toimialasta, sijainnista, julkisesta osoitteesta ja muista julkisista yhteystiedoista sekä henkilökunnan määrän suuruusluokasta. Rekisteriin tehdyillä merkinnöillä ei ole oikeusvaikutuksia. Jokaisella on oikeus saada rekisteristä tietoja kopiona tai sähköisessä muodossa viranomaisten toiminnan julkisuudesta annetun lain 16 §:n 3 momentin estämättä. Henkilötietolain 3 §:n 5 kohdassa tarkoitetulla rekisteröidyllä on kuitenkin kyseisen lain 30 §:n mukainen oikeus kieltää itseään koskevien tietojen käsittely. Rekisteriin merkittyjen henkilötietojen käsittelyyn sovelletaan muutoinkin, mitä henkilötietolaissa säädetään.",
+      "section_number": "18",
+      "chapter_number": 5,
+      "statute_id": "621/1999"
+    },
+    {
+      "id": "5cfd69cf-0f95-4acc-8133-6188da6ec35c",
+      "node_type": "Section",
+      "publisher": "finlex",
+      "title": "19 § Salassa pidettävien tietojen luovuttaminen",
+      "text": "Sen lisäksi, mitä 13 §:n 1―3 momentissa säädetään, tilastokeskus voi luovuttaa tieteellistä tutkimusta ja tilastollista selvitystä varten tunnistetietoineen tiedot iästä, sukupuolesta, koulutuksesta ja ammatista edellyttäen, että tietojen saajalla on henkilötietolain mukainen oikeus käsitellä näitä tietoja. Kuolemansyytietojen luovuttamiseen sovelletaan, mitä siitä erikseen säädetään.",
+      "section_number": "19",
+      "chapter_number": 5,
+      "statute_id": "621/1999"
+    },
+    {
+      "id": "66dd6710-40d7-4328-ab23-acfbab7aadc8",
+      "node_type": "Section",
+      "publisher": "finlex",
+      "title": "20 § Ahvenanmaata koskevat erityissäännökset",
+      "text": "Ahvenanmaata koskevien tilastojen laatimisessa noudatetaan, mitä Ahvenanmaan itsehallintolaissa (1144/1991) säädetään. Valtakunnan viranomaisten tilastotarkoituksiin saamia Ahvenanmaata koskevia tietoja voidaan 12 ja 13 §:n estämättä luovuttaa tilastojen laatimista varten Ahvenanmaan tilastoja laativille viranomaisille.",
+      "section_number": "20",
+      "chapter_number": 6,
+      "statute_id": "621/1999"
+    },
+    {
+      "id": "db196644-361d-4874-a006-7c23e692dfbc",
+      "node_type": "Section",
+      "publisher": "finlex",
+      "title": "21 § Kustannusten korvaaminen",
+      "text": "Tilastoviranomaisella on oikeus saada tässä laissa tarkoitetut tiedot maksutta. Jos kuitenkin kysymyksessä on tiedonantajan hallussa olevien laajojen massaluonteisten tietoaineistojen luovuttaminen, välittömästi tietojen luovuttamisesta aiheutuvat erilliskustannukset korvataan. Edellä 9 §:ssä tarkoitetut palautetiedot ovat tiedonantovelvollisille maksuttomia.",
+      "section_number": "21",
+      "chapter_number": 6,
+      "statute_id": "621/1999"
+    },
+    {
+      "id": "09f980eb-4fe5-47ad-a90e-912bbb247201",
+      "node_type": "Section",
+      "publisher": "finlex",
+      "title": "22 § Ulkopuolisten palvelujen käyttö",
+      "text": "Tilastoja laativa viranomainen voi antaa toimeksiantona suoritettavaksi tilastotuotannon eri vaiheisiin liittyviä osatehtäviä tai tukitehtäviä. Toimeksiantojen käyttöä ja ehtoja harkittaessa ja valvontaa järjestettäessä on erityisesti otettava huomioon tietosuojanäkökohdat.",
+      "section_number": "22",
+      "chapter_number": 6,
+      "statute_id": "621/1999"
+    },
+    {
+      "id": "20202daa-d209-41a3-a4ce-500d8eefd0ed",
+      "node_type": "Section",
+      "publisher": "finlex",
+      "title": "23 § Uhkasakko",
+      "text": "Jos tiedonantovelvollinen laiminlyö tietojen antamisen määräaikana, voi lääninhallitus 2 §:n 2 momentin 1 kohdassa tarkoitetun viranomaisen hakemuksesta velvoittaa tietojen antamiseen uhkasakolla. Uhkasakon määräämisen edellytyksenä on 6 §:ssä tarkoitettujen neuvottelujen käyminen.",
+      "section_number": "23",
+      "chapter_number": 6,
+      "statute_id": "621/1999"
+    },
+    {
+      "id": "aac03039-8e88-43f2-8a79-c606dc8fd715",
+      "node_type": "Section",
+      "publisher": "finlex",
+      "title": "24 § Tilastosalaisuuden rikkominen",
+      "text": "Rangaistus 12 ja 13 §:ssä säädetynsalassapitovelvollisuuden rikkomisestatuomitaan rikoslain (39/1889) 38 luvun 1 tai 2 §:n mukaan, jollei teko ole rangaistava rikoslain 40 luvun 5 §:n mukaan tai siitä muualla laissa säädetä ankarampaa rangaistusta. Joka rikkoo 13 §:ssä säädettyjä velvoitteita, on tuomittavatilastosalaisuusrikkomuksestasakkoon.",
+      "section_number": "24",
+      "chapter_number": 6,
+      "statute_id": "621/1999"
+    },
+    {
+      "id": "3335998e-dc3f-428c-a6f5-8f033a4a7790",
+      "node_type": "Section",
+      "publisher": "finlex",
+      "title": "25 § Tiedonantovelvollisuuden rikkominen",
+      "text": "Tiedonantovelvollinen, joka tahallaan laiminlyö tässä laissa tarkoitettujen tietojen antamisen, on tuomittavatilastolaissa säädetyn tiedonantovelvollisuuden täyttämättä jättämisestäsakkoon. Tiedonantovelvollinen, joka tahallaan antaa väärän tiedon tai ilmoituksen tässä laissa säädetyn tiedonantovelvollisuuden täyttämiseksi, on tuomittavatilastoa koskevan väärän tiedon antamisestasakkoon. Jos 1 tai 2 momentissa mainittua rikkomusta on pidettävä kokonaisuudessaan ilmeisen vähäisenä, 2 §:n 2 momentin 1 kohdassa tarkoitettu viranomainen voi jättää ryhtymättä toimenpiteisiin rikkoneen saattamiseksi syytteeseen.",
+      "section_number": "25",
+      "chapter_number": 6,
+      "statute_id": "621/1999"
+    },
+    {
+      "id": "bba4832f-b17e-4c13-9065-0d03a3f13c0e",
+      "node_type": "Section",
+      "publisher": "finlex",
+      "title": "26 § Hallintopäätöksen tiedoksianto",
+      "text": "Tilastoja laativien viranomaisten päätökset saadaan antaa asianomaisille tiedoksi lähettämällä ne postitse. Jollei valituksen yhteydessä muuta näytetä, katsotaan valittajan saaneen päätöksestä tiedon seitsemäntenä päivänä sen jälkeen, kun päätös on annettu postin kuljetettavaksi.",
+      "section_number": "26",
+      "chapter_number": 6,
+      "statute_id": "621/1999"
+    },
+    {
+      "id": "f00def7d-807a-4632-84b1-ef0997b5d190",
+      "node_type": "Section",
+      "publisher": "finlex",
+      "title": "27 § Muutoksenhaku",
+      "text": "Tilastoja laativien viranomaisten tämän lain nojalla tekemiin päätöksiin saa hakea muutosta valittamalla siten kuin hallintolain-käyttölaissa (586/1996) säädetään. Päätökset voidaan panna täytäntöön lainvoimaa vailla olevina, jollei valitusviranomainen kiellä täytäntöönpanoa.",
+      "section_number": "27",
+      "chapter_number": 6,
+      "statute_id": "621/1999"
+    },
+    {
+      "id": "ba6176e0-0c55-4488-977c-75c958fb6c27",
+      "node_type": "Section",
+      "publisher": "finlex",
+      "title": "28 § Voimaantulo- ja siirtymäsäännökset",
+      "text": "Tämä laki tulee voimaan 1 päivänä toukokuuta 2004. Lain 14 §:n 4 momentin mukaisen tiedonantovelvollisuuden nojalla tietoja voidaan kerätä vuodesta 2005 lähtien. Tällä lailla kumotaan 21 päivänä tammi-kuuta 1994 annettu tilastolaki (62/1994) siihen myöhemmin tehtyine muutoksineen sekä liike- ja yhteisötunnuksen luovuttamisesta 14 päivänä joulukuuta 1990 annettu laki (1126/1990). Edellä 2 momentissa kumottua tilastolakia sovelletaan kuitenkin maa- ja metsätalousministeriön tietopalvelukeskuksesta annetun lain (1200/1992) 1 §:ssä tarkoitettuun palveluyksikköön vuoden ajan tämän lain voimaantulosta.",
+      "section_number": "28",
+      "chapter_number": 6,
+      "statute_id": "621/1999"
+    }
+  ],
+  "clauses": [
+    {
+      "id": "809b0770-485d-4372-a98d-61cf6940c40f",
+      "node_type": "Clause",
+      "publisher": "finlex",
+      "title": "§ 6 mom 1",
+      "text": "1) kerättävät tiedot ja niiden käyttötarkoitus;",
+      "clause_number": 1,
+      "section_number": "6",
+      "statute_id": "621/1999"
+    },
+    {
+      "id": "294c32ce-9a62-45dd-8ff9-58050f15e734",
+      "node_type": "Clause",
+      "publisher": "finlex",
+      "title": "§ 6 mom 2",
+      "text": "2) keräämisessä noudatettavat määräajat ja menettelytavat;",
+      "clause_number": 2,
+      "section_number": "6",
+      "statute_id": "621/1999"
+    },
+    {
+      "id": "7e7d0aaf-fa02-4979-832e-fafaa110d751",
+      "node_type": "Clause",
+      "publisher": "finlex",
+      "title": "§ 6 mom 3",
+      "text": "3) kerättävien tietojen säilytysajat ja niiden suojaamisessa noudatettavat säännökset ja menettelytavat;",
+      "clause_number": 3,
+      "section_number": "6",
+      "statute_id": "621/1999"
+    },
+    {
+      "id": "01543807-b6fd-4904-abf7-eca0e3c8eed2",
+      "node_type": "Clause",
+      "publisher": "finlex",
+      "title": "§ 6 mom 4",
+      "text": "4) eri osapuolille tiedonkeruusta aiheutuvat kustannukset sekä palautetieto ja sen antamistavat.",
+      "clause_number": 4,
+      "section_number": "6",
+      "statute_id": "621/1999"
+    },
+    {
+      "id": "a0a86a94-5db3-47d4-bde8-cece21905733",
+      "node_type": "Clause",
+      "publisher": "finlex",
+      "title": "§ 15 mom 1",
+      "text": "1) sosioekonomisia tai demografisia ominaisuuksia mukaan lukien henkilön etninen alkuperä ja uskonto;",
+      "clause_number": 1,
+      "section_number": "15",
+      "statute_id": "621/1999"
+    },
+    {
+      "id": "d3d5e590-943b-4f88-a515-d731115c6e7d",
+      "node_type": "Clause",
+      "publisher": "finlex",
+      "title": "§ 15 mom 2",
+      "text": "2) asumis- ja muita elinoloja;",
+      "clause_number": 2,
+      "section_number": "15",
+      "statute_id": "621/1999"
+    },
+    {
+      "id": "a4aea286-6348-4c20-8781-296019161701",
+      "node_type": "Clause",
+      "publisher": "finlex",
+      "title": "§ 15 mom 3",
+      "text": "3) tuloja, sosiaalietuuksia, varallisuutta ja muuta taloudellista asemaa;",
+      "clause_number": 3,
+      "section_number": "15",
+      "statute_id": "621/1999"
+    },
+    {
+      "id": "eb3641da-1b63-4447-8e01-1a7d836fd54e",
+      "node_type": "Clause",
+      "publisher": "finlex",
+      "title": "§ 15 mom 4",
+      "text": "4) elinkeinon- tai ammatinharjoittamista;",
+      "clause_number": 4,
+      "section_number": "15",
+      "statute_id": "621/1999"
+    },
+    {
+      "id": "8b95105f-3a55-4f63-b0f8-02cadddccd0e",
+      "node_type": "Clause",
+      "publisher": "finlex",
+      "title": "§ 15 mom 5",
+      "text": "5) koulutusta, työllistymistä ja työoloja;",
+      "clause_number": 5,
+      "section_number": "15",
+      "statute_id": "621/1999"
+    },
+    {
+      "id": "ff717a0a-b54e-4ebb-a45f-11783fef86c3",
+      "node_type": "Clause",
+      "publisher": "finlex",
+      "title": "§ 15 mom 6",
+      "text": "6) liikenneonnettomuuteen ja tapaturmiin osallisuutta sekä niiden syitä;",
+      "clause_number": 6,
+      "section_number": "15",
+      "statute_id": "621/1999"
+    },
+    {
+      "id": "d6e4d6f6-14a8-4458-92cd-c372c1d5efef",
+      "node_type": "Clause",
+      "publisher": "finlex",
+      "title": "§ 15 mom 7",
+      "text": "7) rangaistuksia tai joutumista rikoksen kohteeksi;",
+      "clause_number": 7,
+      "section_number": "15",
+      "statute_id": "621/1999"
+    },
+    {
+      "id": "0244c21d-c434-4e27-af87-7ae659ed9150",
+      "node_type": "Clause",
+      "publisher": "finlex",
+      "title": "§ 15 mom 8",
+      "text": "8) oikeusavun saantia, asioiden käsittelyä tuomioistuinlaitoksessa taikka ulosotto- tai muussa täytäntöönpanoviranomaisessa;",
+      "clause_number": 8,
+      "section_number": "15",
+      "statute_id": "621/1999"
+    },
+    {
+      "id": "03c6a428-ffdd-460f-ab73-c217abe7512d",
+      "node_type": "Clause",
+      "publisher": "finlex",
+      "title": "§ 15 mom 9",
+      "text": "9) poliisin palvelujen käyttöä tai poliisin toiminnan kohteena olemista;",
+      "clause_number": 9,
+      "section_number": "15",
+      "statute_id": "621/1999"
+    },
+    {
+      "id": "97071018-347b-42ac-b07c-87cb86c958ec",
+      "node_type": "Clause",
+      "publisher": "finlex",
+      "title": "§ 15 mom 10",
+      "text": "10) ehdokkuutta vaaleissa ja muuta yhteis-kunnallista toimintaa.",
+      "clause_number": 10,
+      "section_number": "15",
+      "statute_id": "621/1999"
+    },
+    {
+      "id": "6a3894e5-58d5-4c76-ba48-7a9f405372ec",
+      "node_type": "Clause",
+      "publisher": "finlex",
+      "title": "§ 18 mom 1",
+      "text": "1) yritys- ja yhteisötunnuksesta ja sen voimassaoloajasta, oikeudellisesta muodosta, nimestä, toimialasta, kielitunnuksesta, koti-kunnasta sekä julkisesta osoitteesta ja muista julkisista yhteystiedoista;",
+      "clause_number": 1,
+      "section_number": "18",
+      "statute_id": "621/1999"
+    },
+    {
+      "id": "b0880506-d933-4369-8253-b1e3705cea46",
+      "node_type": "Clause",
+      "publisher": "finlex",
+      "title": "§ 18 mom 2",
+      "text": "2) omistajatyypistä;",
+      "clause_number": 2,
+      "section_number": "18",
+      "statute_id": "621/1999"
+    },
+    {
+      "id": "a33496d1-ddd1-4cbf-be56-823b37dc0237",
+      "node_type": "Clause",
+      "publisher": "finlex",
+      "title": "§ 18 mom 3",
+      "text": "3) toiminnan sijainnista ja toimipaikoista;",
+      "clause_number": 3,
+      "section_number": "18",
+      "statute_id": "621/1999"
+    },
+    {
+      "id": "360ed2fd-628b-48ad-887f-3c737e63dece",
+      "node_type": "Clause",
+      "publisher": "finlex",
+      "title": "§ 18 mom 4",
+      "text": "4) liikevaihdon suuruusluokasta;",
+      "clause_number": 4,
+      "section_number": "18",
+      "statute_id": "621/1999"
+    },
+    {
+      "id": "36964680-228b-4f2b-87ad-29d209c7b3f0",
+      "node_type": "Clause",
+      "publisher": "finlex",
+      "title": "§ 18 mom 5",
+      "text": "5) henkilökunnan kokonaismäärästä ja henkilökunnan määrästä kunnittain;",
+      "clause_number": 5,
+      "section_number": "18",
+      "statute_id": "621/1999"
+    },
+    {
+      "id": "a3298d1b-5865-40bc-8427-6d0a39fe2737",
+      "node_type": "Clause",
+      "publisher": "finlex",
+      "title": "§ 18 mom 6",
+      "text": "6) ulkomaankaupan harjoittamisesta;",
+      "clause_number": 6,
+      "section_number": "18",
+      "statute_id": "621/1999"
+    },
+    {
+      "id": "8ef6858d-adaa-4947-951e-90e5eee1b699",
+      "node_type": "Clause",
+      "publisher": "finlex",
+      "title": "§ 18 mom 7",
+      "text": "7) arvonlisäverovelvollisuudesta, työnantajana toimimisesta ja ennakkoperintärekisteriin merkitsemisestä;",
+      "clause_number": 7,
+      "section_number": "18",
+      "statute_id": "621/1999"
+    },
+    {
+      "id": "21549ea5-c880-4b1b-968f-9ea89fb525d6",
+      "node_type": "Clause",
+      "publisher": "finlex",
+      "title": "§ 18 mom 8",
+      "text": "8) konsernien osalta konsernisuhteista.",
+      "clause_number": 8,
+      "section_number": "18",
+      "statute_id": "621/1999"
+    }
+  ],
+  "cross_references": [],
+  "raw_html_path": "C:\\Users\\danit\\finance-hack\\aalto-hackaton-2026\\data\\raw\\finlex\\Laki (säädöskokoelma)\\Tilastolaki.html"
+}

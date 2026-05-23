@@ -1,0 +1,38 @@
+{
+  "statute": {
+    "id": "dfa7345d-ba76-4d30-84c6-7b6c3eb89e96",
+    "node_type": "Statute",
+    "publisher": "finlex",
+    "title": "Laki valmisteverotuslain muuttamisesta annetun lain 51 §:n muuttamisesta",
+    "text": "Laki valmisteverotuslain muuttamisesta annetun lain 51 §:n muuttamisesta",
+    "statute_id": "1213/2021",
+    "finlex_url": "https://finlex.fi/fi/laki/ajantasa/1213/2021"
+  },
+  "chapters": [],
+  "sections": [
+    {
+      "id": "c49fff03-08bf-4f1d-a038-23b2ca4cb2d1",
+      "node_type": "Section",
+      "publisher": "finlex",
+      "title": "51 § Tuotteiden siirrot väliaikaisen verottomuuden järjestelmässä",
+      "text": "Yhdenmukaistetun valmisteveron alaisia tuotteita voidaan siirtää väliaikaisen verottomuuden järjestelmässä unionin alueella tai, jos tuotteet siirretään kolmannen maan tai kolmannen alueen kautta: Tämä laki tulee voimaan 13 päivänä helmikuuta 2023.",
+      "section_number": "51",
+      "chapter_number": 1,
+      "statute_id": "1213/2021"
+    }
+  ],
+  "clauses": [
+    {
+      "id": "a7659602-235e-4ff0-9026-b0abf617b309",
+      "node_type": "Clause",
+      "publisher": "finlex",
+      "title": "§ 51 mom 1",
+      "text": "1) verottomasta varastosta toiseen verottomaan varastoon, rekisteröidylle vastaanottajalle, väliaikaisesti rekisteröidylle vastaanottajalle, vientipaikkaan tai tullilainsäädännössä tarkoitettuun poistumistullitoimipaikkaan, joka on samalla ulkoisen passitusmenettelyn lähtötullitoimipaikka;",
+      "clause_number": 1,
+      "section_number": "51",
+      "statute_id": "1213/2021"
+    }
+  ],
+  "cross_references": [],
+  "raw_html_path": "C:\\Users\\danit\\finance-hack\\aalto-hackaton-2026\\data\\raw\\finlex\\Laki\\Laki valmisteverotuslain muuttamisesta annetun lain 51 §_n muuttamisesta.html"
+}

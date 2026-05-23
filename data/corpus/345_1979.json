@@ -1,0 +1,88 @@
+{
+  "statute": {
+    "id": "f4abfc35-6068-4130-ad88-3b9be487b66f",
+    "node_type": "Statute",
+    "publisher": "finlex",
+    "title": "Laki tiekuljetussopimuslain muuttamisesta",
+    "text": "Laki tiekuljetussopimuslain muuttamisesta",
+    "statute_id": "345/1979",
+    "finlex_url": "https://finlex.fi/fi/laki/ajantasa/345/1979"
+  },
+  "chapters": [],
+  "sections": [
+    {
+      "id": "91936088-ed88-45cf-bc15-f448956f5102",
+      "node_type": "Section",
+      "publisher": "finlex",
+      "title": "2 § Soveltamisalan rajoitukset",
+      "text": "Lakia ei myöskään sovelleta sellaiseen moottoriajoneuvolla tapahtuvaan kuljetukseen, jonka osalta on sovellettava kansainvälistä yleissopimusta tavarankuljetuksesta rautateitse (CIM) tai rautatiekuljetuslakia (1119/ 2000).",
+      "section_number": "2",
+      "chapter_number": 1,
+      "statute_id": "345/1979"
+    },
+    {
+      "id": "29cc90dc-ad24-4f1c-93fe-a13ff7680989",
+      "node_type": "Section",
+      "publisher": "finlex",
+      "title": "32 § Tavaran katoamisesta tai vähentymisestä suoritettava korvaus",
+      "text": "Kotimaisessa kuljetuksessa rahdinkuljettajan vastuu on rajoitettu 20 euroon tavaran kokonaispainosta puuttuvaa kiloa kohti. Vastuun enimmäismäärää voidaan tarkistaa valtioneuvoston asetuksella rahanarvon muutosta vastaavasti. Kansainvälisessä kuljetuksessa korvaus ei saa ylittää 8,33 Kansainvälisen valuuttarahaston määrittelemää erityisnosto-oikeutta tavaran kokonaispainosta puuttuvaa kiloa kohti. Jos korvaus vahvistetaan suoritettavaksi muussa valuutassa, muunto täksi valuutaksi määräytyy korvauksen vahvistamispäivän virallisen kurssin mukaan.",
+      "section_number": "32",
+      "chapter_number": 1,
+      "statute_id": "345/1979"
+    },
+    {
+      "id": "9d291d79-74de-4e8e-965d-4b04af43400b",
+      "node_type": "Section",
+      "publisher": "finlex",
+      "title": "42 § Toimivaltainen tuomioistuin",
+      "text": "Kansainvälistä kuljetusta koskeva kanne voidaan tutkia ainoastaan joko asianosaisten tekemän sopimuksen perusteella 1 §:n 1 momentissa mainittuun yleissopimukseen liittyneessä valtiossa taikka valtiossa, jossa Suomessa tässä laissa tarkoitettua kuljetusta koskeva kanne voidaan sen lisäksi, mitä muualla laissa säädetään, tutkia määräpaikan käräjäoikeudessa tai sen paikkakunnan käräjäoikeudessa, missä tavara otettiin kuljetettavaksi. Jos muuta toimivaltaista tuomioistuinta ei ole, kanne voidaan tutkia Helsingin käräjäoikeudessa. Tämä laki tulee voimaan 1 päivänä kesäkuuta 2001. Tämän lain 32 §:n 2 momenttia sovelletaan sen voimaantulon jälkeen tehtyyn sopimukseen.",
+      "section_number": "42",
+      "chapter_number": 1,
+      "statute_id": "345/1979"
+    }
+  ],
+  "clauses": [
+    {
+      "id": "8544eaa9-fc69-461d-8e75-d86b546db5f3",
+      "node_type": "Clause",
+      "publisher": "finlex",
+      "title": "§ 42 mom 1",
+      "text": "1) vastaajan kotipaikka tai pääkonttori sijaitsee;",
+      "clause_number": 1,
+      "section_number": "42",
+      "statute_id": "345/1979"
+    },
+    {
+      "id": "aafbd62b-5645-4c3a-8dda-255986cd52e2",
+      "node_type": "Clause",
+      "publisher": "finlex",
+      "title": "§ 42 mom 2",
+      "text": "2) vastaajan haaraliike tai asioimisto, jonka välityksellä kuljetussopimus on tehty, sijaitsee;",
+      "clause_number": 2,
+      "section_number": "42",
+      "statute_id": "345/1979"
+    },
+    {
+      "id": "03847a37-32d1-4a43-9a7f-28e6d89bd926",
+      "node_type": "Clause",
+      "publisher": "finlex",
+      "title": "§ 42 mom 3",
+      "text": "3) tavara otettiin kuljetettavaksi; tai",
+      "clause_number": 3,
+      "section_number": "42",
+      "statute_id": "345/1979"
+    },
+    {
+      "id": "54077fdb-b6fb-45df-b373-2e519c87c4e0",
+      "node_type": "Clause",
+      "publisher": "finlex",
+      "title": "§ 42 mom 4",
+      "text": "4) määräpaikka on.",
+      "clause_number": 4,
+      "section_number": "42",
+      "statute_id": "345/1979"
+    }
+  ],
+  "cross_references": [],
+  "raw_html_path": "C:\\Users\\danit\\finance-hack\\aalto-hackaton-2026\\data\\raw\\finlex\\Laki\\Laki tiekuljetussopimuslain muuttamisesta_2.html"
+}

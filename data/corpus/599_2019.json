@@ -1,0 +1,58 @@
+{
+  "statute": {
+    "id": "e3d9c6ef-1375-48e8-b5cc-c6c039f2ff6b",
+    "node_type": "Statute",
+    "publisher": "finlex",
+    "title": "Laki oikeudenkäymiskaaren 5 luvun 3 §:n muuttamisesta",
+    "text": "Laki oikeudenkäymiskaaren 5 luvun 3 §:n muuttamisesta",
+    "statute_id": "599/2019",
+    "finlex_url": "https://finlex.fi/fi/laki/ajantasa/599/2019"
+  },
+  "chapters": [
+    {
+      "id": "a28e359e-7b91-4991-bdce-e0863763791d",
+      "node_type": "Chapter",
+      "publisher": "finlex",
+      "title": "Chapter 5",
+      "text": "5 luku Riita-asian vireillepano ja valmistelu",
+      "chapter_number": 5,
+      "statute_id": "599/2019"
+    }
+  ],
+  "sections": [
+    {
+      "id": "bb0ce8fa-fca9-4a39-963b-cc262d26a871",
+      "node_type": "Section",
+      "publisher": "finlex",
+      "title": "3 §",
+      "text": "Jos saaminen perustuu kuluttajansuojalain (38/1978) 7 tai 7 a luvussa tarkoitettuun kuluttajaluottosopimukseen, haastehakemuksessa on ilmoitettava myös: Tämä laki tulee voimaan 1 päivänä lokakuuta 2023. Tämän lain voimaan tullessa vireillä olevaan asiaan sovelletaan tämän lain voimaan tullessa voimassa olleita säännöksiä. Tämän lain voimaantulon jälkeen vireille tulevaan asiaan sovelletaan 5 luvun 3 §:n 2 momentin 7 kohtaa vain, jos kuluttajaluottosopimus on tehty ennen kuluttajansuojalain 7 luvun 17 a §:n voimaantuloa, sellaisena kuin se on laissa (449/2023).",
+      "section_number": "3",
+      "chapter_number": 5,
+      "statute_id": "599/2019"
+    }
+  ],
+  "clauses": [
+    {
+      "id": "1e73d7f2-0cec-42df-b9cc-fb0b60dddf22",
+      "node_type": "Clause",
+      "publisher": "finlex",
+      "title": "§ 3 mom 6",
+      "text": "6) onko luottosopimus tehty kuluttajansuojalain 7 luvun 17 §:ssä tai 7 a luvun 15 §:ssä edellytetyllä tavalla;",
+      "clause_number": 6,
+      "section_number": "3",
+      "statute_id": "599/2019"
+    },
+    {
+      "id": "1e164f4c-a77c-4ffa-8e4d-df7172610a46",
+      "node_type": "Clause",
+      "publisher": "finlex",
+      "title": "§ 3 mom 7",
+      "text": "7) onko kyse kertaluotosta vai jatkuvasta luotosta.",
+      "clause_number": 7,
+      "section_number": "3",
+      "statute_id": "599/2019"
+    }
+  ],
+  "cross_references": [],
+  "raw_html_path": "C:\\Users\\danit\\finance-hack\\aalto-hackaton-2026\\data\\raw\\finlex\\Laki\\Laki  oikeudenkäymiskaaren 5 luvun 3 §_n muuttamisesta.html"
+}

@@ -1,0 +1,504 @@
+{
+  "statute": {
+    "id": "ab66499c-9fa7-4293-af12-75cb0a20020a",
+    "node_type": "Statute",
+    "publisher": "finlex",
+    "title": "Laki huoneistotietojärjestelmästä",
+    "text": "Laki huoneistotietojärjestelmästä",
+    "statute_id": "1599/2009",
+    "finlex_url": "https://finlex.fi/fi/laki/ajantasa/1599/2009"
+  },
+  "chapters": [
+    {
+      "id": "289c6bb5-e6f3-4143-8b3c-67e23384cdf7",
+      "node_type": "Chapter",
+      "publisher": "finlex",
+      "title": "Chapter 1",
+      "text": "1 luku Yleiset säännökset",
+      "chapter_number": 1,
+      "statute_id": "1599/2009"
+    },
+    {
+      "id": "2bebf9b8-fe5a-4330-b0d7-549f728545fd",
+      "node_type": "Chapter",
+      "publisher": "finlex",
+      "title": "Chapter 2",
+      "text": "2 luku Osakkeenomistajan sekä osakkeen panttauksen kirjaaminen ja osaketta koskevan rajoituksen merkitseminen osakehuoneistorekisteriin",
+      "chapter_number": 2,
+      "statute_id": "1599/2009"
+    },
+    {
+      "id": "ae9f7ab4-9e42-48ef-ad3e-9b287f42b6bf",
+      "node_type": "Chapter",
+      "publisher": "finlex",
+      "title": "Chapter 3",
+      "text": "3 luku Hallintakohteen taloudelliset ja tekniset tiedot",
+      "chapter_number": 3,
+      "statute_id": "1599/2009"
+    },
+    {
+      "id": "fc7c367c-bf86-4849-b505-7d4dddea459e",
+      "node_type": "Chapter",
+      "publisher": "finlex",
+      "title": "Chapter 4",
+      "text": "4 luku Tietojärjestelmän ylläpito sekä tietojen käsittely ja luovuttaminen",
+      "chapter_number": 4,
+      "statute_id": "1599/2009"
+    },
+    {
+      "id": "d1498c78-8d80-43b7-8378-73d89c486926",
+      "node_type": "Chapter",
+      "publisher": "finlex",
+      "title": "Chapter 5",
+      "text": "5 luku Erinäiset säännökset",
+      "chapter_number": 5,
+      "statute_id": "1599/2009"
+    }
+  ],
+  "sections": [
+    {
+      "id": "33abf705-d3ce-439d-abb2-a2e2edeaa6c8",
+      "node_type": "Section",
+      "publisher": "finlex",
+      "title": "1 § Lain soveltamisala",
+      "text": "Tätä lakia sovelletaan huoneiston hallintaan oikeuttavien osakkeiden omistusta ja panttausta ja osakkeiden omistuksen perusteella hallittavia kohteita koskevien rekistereiden ja asiointijärjestelmän (huoneistotietojärjestelmä) ylläpitoon sekä niissä tapahtuvaan tietojen käsittelyyn. Tätä lakia sovelletaan myös 1 momentissa tarkoitetun osakkeen omistuksen ja panttauksen kirjaamisessa ja osakkeeseen kohdistuvan rajoituksen merkitsemisessä noudatettavaan menettelyyn sekä kirjaamisen oikeusvaikutuksiin.",
+      "section_number": "1",
+      "chapter_number": 1,
+      "statute_id": "1599/2009"
+    },
+    {
+      "id": "9eec5e67-6b3f-403c-bec8-ca064c544ea4",
+      "node_type": "Section",
+      "publisher": "finlex",
+      "title": "2 § Huoneistotietojärjestelmän tarkoitus",
+      "text": "Huoneistotietojärjestelmä palvelee huoneiston hallintaan oikeuttavien osakkeiden vaihdannan, vakuuksien hallinnan ja näihin verrattavan toiminnan sekä yhtiön hallinnon ja sen osakkaiden tiedonsaannin tarpeita. Lisäksi sen avulla tuotetaan tietoa tutkimusta ja tilastointia varten sekä muihin yhteiskunnan tietotarpeisiin.",
+      "section_number": "2",
+      "chapter_number": 1,
+      "statute_id": "1599/2009"
+    },
+    {
+      "id": "bcba2700-b828-473d-989c-5257962c1ece",
+      "node_type": "Section",
+      "publisher": "finlex",
+      "title": "3 § Määritelmät",
+      "text": "Tässä laissa tarkoitetaan:",
+      "section_number": "3",
+      "chapter_number": 1,
+      "statute_id": "1599/2009"
+    },
+    {
+      "id": "be557179-2d71-4942-80a7-26ea92ae115d",
+      "node_type": "Section",
+      "publisher": "finlex",
+      "title": "4 § Osakehuoneistorekisteri",
+      "text": "Maanmittauslaitos kirjaa osakkeen saannon ja panttauksen sekä merkitsee muun osakkeeseen tai sen tuottamaan hallintaoikeuteen kohdistuvan rajoituksen tarkoitusta varten pidettävään rekisteriin (osakehuoneistorekisteri). Osakehuoneistorekisteriin tallennetaan: Jos 2 momentissa tarkoitettu asia koskee luonnollista henkilöä, osakehuoneistorekisteriin tallennetaan henkilön nimi ja henkilötunnus. Jos henkilöllä ei ole henkilötunnusta, tallennetaan sen sijaan henkilön syntymäaika, kansalaisuus ja kotiosoite. Jos 2 momentissa tarkoitettu asia koskee yhteisöä tai säätiötä, osakehuoneistorekisteriin tallennetaan sen toiminimi ja yritys- ja yhteisötunnus. Jos yhteisöllä tai säätiöllä ei ole yritys- ja yhteisötunnusta, tallennetaan vastaava rekisteritunnus ja rekisteri, johon se on merkitty. Ulkomaalaisesta yhteisöstä tai säätiöstä tallennetaan toiminimi ja kotipaikka.",
+      "section_number": "4",
+      "chapter_number": 2,
+      "statute_id": "1599/2009"
+    },
+    {
+      "id": "24b9caee-1eb4-4c05-8aea-fd52f37ae321",
+      "node_type": "Section",
+      "publisher": "finlex",
+      "title": "5 § Osakkeenomistajan kirjaaminen",
+      "text": "Osakkeen ensimmäinen omistaja kirjataan osakehuoneistorekisteriin yritys- ja yhteisötieto-lain (244/2001) 10 §:ssä taikka asunto-osakeyhtiölain 13 luvun 13 §:ssä, 19 luvun 14 §:ssä tai 20 luvun 14 §:ssä tarkoitetun ilmoituksen tietojen perusteella. Osakkeen saanto kirjataan osakehuoneistorekisteriin sen hakemuksesta, jolle osake on siirtynyt. Kirjaamisen edellytyksenä on rekisteriin kirjatun osakkeenomistajan suostumus tai muu selvitys saannosta. Saanto, joka ei ole lopullinen osakkeen luovutukseen liittyvän ehdon takia, kirjataan osake-huoneistorekisteriin ehdollisena. Saannon kirjaamista koskeva hakemus jätetään tällöin muuten lepäämään, kunnes asia voidaan lopullisesti ratkaista. Tällöin voidaan jättää lepäämään muukin hakemus tai ilmoitus, jonka perusteella osakehuoneistorekisteriin voidaan tehdä kirjaus tai merkintä, jos luovutuksensaaja kirjataan osakkeenomistajaksi.",
+      "section_number": "5",
+      "chapter_number": 2,
+      "statute_id": "1599/2009"
+    },
+    {
+      "id": "e7b8df5d-8d3b-4b06-9342-622ffc4d4760",
+      "node_type": "Section",
+      "publisher": "finlex",
+      "title": "6 § Panttauksen kirjaaminen",
+      "text": "Osakkeen panttaus kirjataan osakehuoneistorekisteriin pantinsaajan hakemuksesta. Kirjaamisen edellytyksenä on rekisteriin kirjatun osakkeenomistajan suostumus tai muu selvitys hakijan oikeudesta. Kirjauksessa on mainittava pantinsaaja ja pyydettäessä panttivastuun enimmäismäärä euroissa. Jos pantinsaajia on useita, panttausten keskinäinen etusijajärjestys voidaan kirjata näiden yhteisestä hakemuksesta. Panttausta koskeva kirjaus poistetaan tai sitä muutetaan osakehuoneistorekisteriin kirjatun osakkeenomistajan tai pantinsaajan hakemuksesta. Poistamisen tai muuttamisen edellytyksenä on niiden suostumus, joiden asema voi muutoksen johdosta heikentyä.",
+      "section_number": "6",
+      "chapter_number": 2,
+      "statute_id": "1599/2009"
+    },
+    {
+      "id": "ab112b06-a37d-4d4e-85aa-b5ac04c1cafd",
+      "node_type": "Section",
+      "publisher": "finlex",
+      "title": "7 § Ulosmittaus, turvaamistoimenpide, konkurssi ja yrityksen saneeraus",
+      "text": "Osakkeeseen kohdistuva ulosmittaus ja turvaamistoimenpide merkitään osakehuoneistorekisteriin asianomaisen viranomaisen ilmoituksesta. Merkinnässä on yksilöitävä peruste, jonka nojalla merkintä on tehty. Osakkeenomistajan konkurssi merkitään osakehuoneistorekisteriin konkurssipesän ilmoituksesta. Osakkeenomistajan yrityksen saneerauksesta annetussa laissa (47/1993) tarkoitetun saneerausmenettelyn alkaminen ja lakkaaminen merkitään osakehuoneistorekisteriin selvittäjän tai tuomioistuimen ilmoituksesta.",
+      "section_number": "7",
+      "chapter_number": 2,
+      "statute_id": "1599/2009"
+    },
+    {
+      "id": "6dd29acb-f3f9-45a7-82f1-f97d68f480f1",
+      "node_type": "Section",
+      "publisher": "finlex",
+      "title": "8 § Muut rajoitukset",
+      "text": "Jos lakiin tai testamenttiin perustuva käyttöoikeus rajoittaa osakkeenomistajan oikeutta luovuttaa osake, rajoitus merkitään osakehuoneistorekisteriin osakkeen saantoa kirjattaessa tai oikeudenhaltijan hakemuksesta. Merkitsemisen edellytyksenä on rekisteriin kirjatun osakkeenomistajan suostumus tai muu selvitys oikeudesta. Merkinnässä on mainittava oikeudenhaltija ja muut rajoituksen yksilöimiseksi tarvittavat tiedot. Edellä 1 momentissa tarkoitettu rajoitus poistetaan osakehuoneistorekisteriin kirjatun osakkeenomistajan tai oikeudenhaltijan hakemuksesta. Jos osakkeenomistaja hakee merkinnän poistamista, edellytyksenä on rekisteriin oikeudenhaltijaksi merkityn suostumus tai muu selvitys oikeuden lakkaamisesta. Lisäksi osakehuoneistorekisteriin merkitään osakkeeseen tai sen tuottamaan hallintaoikeuteen kohdistuvia rajoituksia siten kuin muualla laissa säädetään.",
+      "section_number": "8",
+      "chapter_number": 2,
+      "statute_id": "1599/2009"
+    },
+    {
+      "id": "4154959d-7ed6-415b-a215-6c090188d994",
+      "node_type": "Section",
+      "publisher": "finlex",
+      "title": "9 § Kirjaaminen tai merkintä tuomioistuimen ratkaisun perusteella",
+      "text": "Se, jolla tuomioistuimen lainvoimaisen tuomion mukaan on rekisteriin osakkeenomistajaksi kirjattua parempi oikeus osakkeeseen, kirjataan hakemuksestaan osakkeenomistajaksi osakehuoneistorekisteriin. Muu osakehuoneistorekisteriin tehty kirjaus tai merkintä voidaan sen lisäksi, mitä edellä säädetään, poistaa tai sitä voidaan muuttaa kirjauksen tai merkinnän tarkoittamaa oikeutta tai rajoitusta koskevan lainvoimaisen tuomion perusteella.",
+      "section_number": "9",
+      "chapter_number": 2,
+      "statute_id": "1599/2009"
+    },
+    {
+      "id": "a3d7637e-0e9b-4c54-bce5-a0ccd593d82e",
+      "node_type": "Section",
+      "publisher": "finlex",
+      "title": "10 § Kirjaamista tai merkintää koskevan asian käsittely",
+      "text": "Kirjaamista tai merkintää koskevasta vireille tulleesta hakemuksesta tai ilmoituksesta on viipymättä tehtävä merkintä osakehuoneistorekisteriin. Jos hakemus hyväksytään, kirjaus tai merkintä katsotaan tehdyksi, kun hakemus on merkitty vireille tulleeksi. Kirjaamisviranomaisen on viran puolesta otettava huomioon sellaiset osakehuoneistorekisteristä ilmenevät rajoitukset, yhtiöjärjestyksen osakeryhmiä koskevat määräykset ja väestötieto-järjestelmästä ilmenevät oikeustoimikelpoisuuden rajoitukset, jotka vaikuttavat oikeuteen määrätä osakkeesta. Kirjaamisviranomaisen on tarvittaessa varattava hakijalle tai muulle henkilölle tilaisuus tulla kuulluksi. Asia ratkaistaan tekemällä asianomainen kirjaus tai merkintä osakehuoneistorekisteriin. Jos asia ratkaistaan toisin kuin hakija tai muu asianosainen on vaatinut, ratkaisusta tehdään lisäksi erillinen päätös, joka annetaan tiedoksi kyseiselle asianosaiselle ja johon liitetään valitusosoitus, sekä rekisteriin merkitään ratkaisun lainvoimaisuutta koskeva tieto. Toimituskirjaksi hakijalle annetaan todistus rekisteriin tehdystä kirjauksesta tai merkinnästä taikka erillinen päätös. Lisäksi yhtiölle annetaan maksutta tiedoksi todistus osakkeen saannon kirjaamisesta rekisteriin. Jos hakijan oikeus on riitainen eikä hakemus tai sitä vastaan esitetty väite ole selvästi perusteeton, osoitetaan hakija tai muu, jolla on asiassa näyttövelvollisuus, määräajassa saattamaan asia tuomioistuimen tutkittavaksi. Hakijalle kehotus annetaan uhalla, että hakemus muuten jätetään tutkimatta, ja muulle asianosaiselle uhalla, että kirjaus voidaan muuten tehdä. Asia, joka on oikeudenkäynnissä tutkittavana, jätetään lepäämään, kunnes riita on lainvoimaisesti ratkaistu.",
+      "section_number": "10",
+      "chapter_number": 2,
+      "statute_id": "1599/2009"
+    },
+    {
+      "id": "deb934d4-5fe2-418b-ba71-c595d974f9bb",
+      "node_type": "Section",
+      "publisher": "finlex",
+      "title": "11 § Virheen korjaaminen",
+      "text": "Hallintolain (434/2003) 50 §:stä poiketen kirjausta tai merkintää koskeva asiavirhe saadaan korjata vain, jos ratkaisu perustuu selvästi virheelliseen tai puutteelliseen selvitykseen tai ilmeisen väärään lain soveltamiseen ja ne, joiden asema voi korjauksen johdosta heikentyä, antavat siihen suostumuksensa. Kirjausta tai merkintää koskeva ilmeinen kirjoitus- tai laskuvirhe, teknisestä viasta aiheutunut virhe taikka muu näihin verrattava virhe tai puute on korjattava hallintolain 51 §:n 2 momentin estämättä. Ennen sellaisen virheen korjaamista on niille tiedossa oleville asianosaisille, joiden asema voi korjauksen johdosta heikentyä, varattava tilaisuus tulla kuulluksi.",
+      "section_number": "11",
+      "chapter_number": 2,
+      "statute_id": "1599/2009"
+    },
+    {
+      "id": "38e920d6-9040-4931-9acb-e7cb7c5f32a5",
+      "node_type": "Section",
+      "publisher": "finlex",
+      "title": "12 § Kirjauksen oikeusvaikutukset",
+      "text": "Jos osakehuoneistorekisteriin osakkeenomistajaksi kirjattu on luovuttanut tai pantannut osakkeen, luovutuksensaajan tai pantinsaajan oikeutta ei saannon tai panttauksen tultua kirjatuksi estä se, että osakkeenomistajaksi kirjatulla ei ollutkaan oikeutta määrätä osakkeesta, paitsi jos luovutuksensaaja tai pantinsaaja tiesi tai hänen piti tietää siitä. Rekisteristä ilmenevien määräämisvallan rajoitusten katsotaan tulleen jokaisen tietoon. Jos osake luovutetaan tai pantataan useammalle, osakehuoneistorekisteriin kirjattu saanto tai panttaus saa etusijan kirjaamattomaan tai myöhemmin rekisteriin kirjattuun saantoon tai panttaukseen nähden. Aikaisempi saanto tai panttaus saa kuitenkin etusijan myöhempään saantoon tai panttaukseen nähden, jos myöhempään saantoon tai panttaukseen vetoava tiesi taikka hänen piti tietää aiemmasta saannosta tai panttauksesta. Jos panttausten keskinäinen etusijajärjestys on kirjattu osakehuoneistorekisteriin, sitä noudatetaan. Osakkeen luovutus tai panttaus ei sido luovuttajan tai pantinantajan velkojia, ellei kyseistä saantoa tai panttausta ole kirjattu osakehuoneistorekisteriin.",
+      "section_number": "12",
+      "chapter_number": 2,
+      "statute_id": "1599/2009"
+    },
+    {
+      "id": "58bff716-5ce9-45b7-af59-0bcd342081fc",
+      "node_type": "Section",
+      "publisher": "finlex",
+      "title": "13 § Hallintakohderekisteri",
+      "text": "Edellä 2 luvussa säädetyn tehtävän hoitamista ja tietopalvelun järjestämistä varten Maanmittauslaitos pitää rekisteriä (hallintakohderekisteri), johon tallennetaan tieto: Lisäksi hallintakohderekisteriin tallennetaan tieto varainsiirtoveron suorittamista koskevasta selvityksestä.",
+      "section_number": "13",
+      "chapter_number": 3,
+      "statute_id": "1599/2009"
+    },
+    {
+      "id": "80a407ca-dfba-4f01-8921-2e4479ea48d9",
+      "node_type": "Section",
+      "publisher": "finlex",
+      "title": "14 § Muuhun viranomaisen tietojärjestelmään sisältyvien taloudellisten ja teknisten tietojen käsittely",
+      "text": "Maanmittauslaitos saa käsitellä seuraavia muusta viranomaisen rekisteristä teknisen käyttöyhteyden avulla luovutettavia tietoja:",
+      "section_number": "14",
+      "chapter_number": 3,
+      "statute_id": "1599/2009"
+    },
+    {
+      "id": "4d3733e1-0dbc-4939-b87d-d3e090859361",
+      "node_type": "Section",
+      "publisher": "finlex",
+      "title": "15 § Maanmittauslaitoksen tehtävät ja vastuu",
+      "text": "Maanmittauslaitos vastaa huoneistotietojärjestelmän ylläpidosta ja kehittämisestä. Maanmittauslaitos on osakehuoneistorekisterin ja hallintakohderekisterin pitäjä. Maanmittauslaitoksen tehtävänä on luovuttaa tietoa 2 §:ssä säädettyihin tarkoituksiin.",
+      "section_number": "15",
+      "chapter_number": 4,
+      "statute_id": "1599/2009"
+    },
+    {
+      "id": "20d784f8-358a-4cbd-887c-4e3fb0513a20",
+      "node_type": "Section",
+      "publisher": "finlex",
+      "title": "16 § Tietojen käsittelyn rajoittamista koskevan säännöksen soveltaminen",
+      "text": "Luonnollisten henkilöiden suojelusta henkilötietojen käsittelyssä sekä näiden tietojen vapaasta liikkuvuudesta ja direktiivin 95/46/EY kumoamisesta (yleinen tietosuoja-asetus) annetun Euroopan parlamentin ja neuvoston asetuksen (EU) N:o 2016/679 18 artiklan 1 kohtaa ei sovelleta huoneistotietojärjestelmään.",
+      "section_number": "16",
+      "chapter_number": 4,
+      "statute_id": "1599/2009"
+    },
+    {
+      "id": "69905e67-c3c8-4e66-9e0f-69bfaacf99bb",
+      "node_type": "Section",
+      "publisher": "finlex",
+      "title": "17 § Maanmittauslaitoksen tiedonsaantioikeus",
+      "text": "Maanmittauslaitoksella on oikeus salassapitosäännösten estämättä saada tuomioistuimelta, ulosottoviranomaiselta, väestötietotietojärjestelmän pitäjältä, kunnan viranomaiselta, luottolaitokselta ja yhtiöltä sille tässä laissa säädetyn tehtävän hoitamiseksi tarpeelliset tiedot. Maanmittauslaitoksella on oikeus saada väestötietojärjestelmästä tässä laissa säädetyn tehtävän hoitamiseksi seuraavat luonnollista henkilöä koskevat tiedot: Maanmittauslaitoksella on oikeus saada 1 ja 2 momentissa tarkoitetut tiedot teknisen käyttöyhteyden avulla tai muulla tarkoitukseen soveltuvalla tavalla.",
+      "section_number": "17",
+      "chapter_number": 4,
+      "statute_id": "1599/2009"
+    },
+    {
+      "id": "5aaa9f0c-c644-4bc3-a657-30abe4da2add",
+      "node_type": "Section",
+      "publisher": "finlex",
+      "title": "18 § Tietojen säilyttäminen",
+      "text": "Edellä 4 §:ssä tarkoitetut tiedot säilytetään pysyvästi. Edellä 13 §:n 1 momentin 2 kohdassa tarkoitetut tunnukset säilytetään siihen saakka, että tunnuksen kohde on poistettu siitä viranomaisen rekisteristä, jossa sen tietoja ensisijaisesti ylläpidetään. Tiedot, jotka on käsitelty siten, ettei niitä voida välillisesti tai välittömästi tunnistaa yhtä tai useampaa henkilöä koskeviksi, saadaan säilyttää pysyvästi.",
+      "section_number": "18",
+      "chapter_number": 4,
+      "statute_id": "1599/2009"
+    },
+    {
+      "id": "f7402847-5b0d-476d-afbb-02f5877bb0fc",
+      "node_type": "Section",
+      "publisher": "finlex",
+      "title": "19 § Tietojen luovuttaminen huoneistotietojärjestelmän tarkoituksiin",
+      "text": "Huoneistotietojärjestelmän julkisia tietoja saa luovuttaa 2 §:ssä tarkoitettuihin tarkoituksiin. Salassa pidettäviä tietoja saa luovuttaa, jos niitä koskevasta tiedonsaantioikeudesta on laissa erikseen säädetty. Henkilötietoja saa luovuttaa vain sille, jolla on oikeus käsitellä niitä. Luovutettuja henkilötietoja saa käsitellä vain siihen tarkoitukseen, johon ne on luovutettu. Jos henkilötietoja luovutetaan välitettäväksi 2 §:ssä tarkoitettuihin tarkoituksiin, välittäjänä toimiva saa käsitellä tietoja vain siinä määrin kuin se on välttämätöntä lopullisen vastaanottajan tiedonsaantioikeuden toteuttamiseksi. Yhtiön hallitsemaa kiinteistöä, rakennusta tai niiden osaa sekä huoneistoa koskevia ominaisuus- ja sijaintitietoja saa pitää yleisesti saatavilla julkisilla verkkosivuilla tai muuten luovuttaa, jos niitä ei voida välittömästi tai välillisesti tunnistaa yhtä tai useampaa henkilöä koskeviksi tiedoiksi.",
+      "section_number": "19",
+      "chapter_number": 4,
+      "statute_id": "1599/2009"
+    },
+    {
+      "id": "32ec2229-81a9-4389-9bb4-5fbb65c11e4f",
+      "node_type": "Section",
+      "publisher": "finlex",
+      "title": "20 § Tietopalvelun järjestäminen",
+      "text": "Maanmittauslaitos päättää huoneistotietojärjestelmän tietojen luovuttamisesta. Tiedot saadaan luovuttaa teknisen käyttöyhteyden avulla tai muuten sähköisessä muodossa, jos luovutuksen saajalle ja välittäjänä toimivalle myönnetään käyttölupa. Yhtiöllä on kuitenkin oikeus saada sellaisia tietoja, joita se tavanomaisessa toiminnassaan tarvitsee, ja osakkeenomistajalla on oikeus saada itseään koskevia tietoja ilman käyttölupaa. Käyttölupa voidaan myöntää hakemuksesta. Jos hakemus koskee henkilötietojen luovuttamista, hakijan on esitettävä selvitys tiedonsaantioikeudestaan ja henkilötietojen käsittelylle säädettyjen vaatimusten täyttämisestä. Käyttölupaa koskeva päätös on voimassa toistaiseksi tai määräajan. Päätöksessä voidaan asettaa ehtoja, jotka koskevat tiedonhaussa käytettäviä perusteita ja muita henkilötietojen suojaamiseksi tarpeellisia seikkoja.",
+      "section_number": "20",
+      "chapter_number": 4,
+      "statute_id": "1599/2009"
+    },
+    {
+      "id": "897b0dc2-5029-4d1e-97af-c8c030f5fefc",
+      "node_type": "Section",
+      "publisher": "finlex",
+      "title": "21 § Tietojen luovutukseen liittyvät suojatoimet",
+      "text": "Maanmittauslaitos valvoo käyttöluvan edellytysten ja ehtojen täyttymistä pyytämällä selvityksiä ja tekemällä tarkastuksia käyttöluvan saajan tiloissa. Tarkastusta ei saa suorittaa pysyväisluonteiseen asumiseen tarkoitetuissa tiloissa. Tarkastukseen sovelletaan hallintolain 39 §:ää. Maanmittauslaitos tekee päätöksen käyttöluvan lakkauttamisesta, jos perusteet luvan myöntämiselle eivät ole enää olemassa tai on käynyt ilmi, ettei niitä ollut luvan myöntämisen hetkellä.",
+      "section_number": "21",
+      "chapter_number": 4,
+      "statute_id": "1599/2009"
+    },
+    {
+      "id": "823feae6-5a36-4899-b058-612152c918fe",
+      "node_type": "Section",
+      "publisher": "finlex",
+      "title": "22 § Vahingonkorvausvelvollisuus",
+      "text": "Valtio on velvollinen korvaamaan vahingon, joka aiheutuu: Jos vahingon kärsineellä olisi oikeus saada korvausta muulta taholta, oikeus korvaukseen siirtyy valtiolle siltä osin kuin valtio maksaa vahingonkorvausta.",
+      "section_number": "22",
+      "chapter_number": 5,
+      "statute_id": "1599/2009"
+    },
+    {
+      "id": "ec86061b-6b3e-4bef-bbb6-253f486e90be",
+      "node_type": "Section",
+      "publisher": "finlex",
+      "title": "23 § Maksut",
+      "text": "Huoneistotietojärjestelmään liittyvistä Maanmittauslaitoksen suoritteista ja palveluista perittäviin maksuihin sovelletaan, mitä valtion maksuperustelaissa (150/1992) säädetään. Viranomaiselta ei peritä maksua tavanomaisista tietojen luovutuksista. Yhtiöltä ja osakkeenomistajalta ei peritä maksua 20 §:n 1 momentissa tarkoitetusta, ilman käyttölupaa tapahtuvasta tietojen luovuttamisesta. Tarkemmat säännökset perittävistä maksuista annetaan maa- ja metsätalousministeriön asetuksella.",
+      "section_number": "23",
+      "chapter_number": 5,
+      "statute_id": "1599/2009"
+    },
+    {
+      "id": "7443c32b-ffd0-4148-86c8-f9bcb706ee9b",
+      "node_type": "Section",
+      "publisher": "finlex",
+      "title": "24 § Muutoksenhaku kirjaamista tai merkintää koskevaan päätökseen",
+      "text": "Edellä 10 §:n 3 momentissa tarkoitettuun kirjausta tai merkintää koskevaan päätökseen haetaan muutosta valittamalla yhtiön kotipaikan käräjäoikeuteen. Valitus on tehtävä 30 päivän kuluessa päätöksen tekemisestä. Valituksen käsittelyyn käräjäoikeudessa sovelletaan oikeudenkäymiskaaren 8 luvun säännöksiä hakemusasioiden käsittelystä. Käräjäoikeuden on annettava tieto valituksesta ja sen sisällöstä kirjaamisviranomaiselle. Muutoksenhakutuomioistuimen on viipymättä ilmoitettava kirjaamisviranomaiselle ratkaisustaan sekä siitä, onko sen antama ratkaisu saanut lainvoiman. Kirjaamisviranomaisen on omasta aloitteestaan otettava käsiteltäväkseen muutoksenhakutuomioistuimen palauttama asia, ratkaistava tarvittaessa asia uudestaan ja tehtävä osakehuoneistorekisteriin tarvittavat kirjaukset ja merkinnät.",
+      "section_number": "24",
+      "chapter_number": 5,
+      "statute_id": "1599/2009"
+    },
+    {
+      "id": "82130d5e-494d-44f1-919d-185d49018010",
+      "node_type": "Section",
+      "publisher": "finlex",
+      "title": "25 § Muutoksenhaku käyttölupaa koskevaan päätökseen",
+      "text": "Edellä 20 ja 21 §:ssä tarkoitettuun päätökseen saa vaatia oikaisua siten kuin hallintolaissa säädetään. Oikaisuvaatimukseen annettuun päätökseen saa hakea muutosta valittamalla hallinto-oikeuteen siten kuin hallintolainkäyttölaissa (586/1996) säädetään. Hallinto-oikeuden päätökseen saa hakea muutosta vain, jos korkein hallinto-oikeus myöntää valitusluvan.",
+      "section_number": "25",
+      "chapter_number": 5,
+      "statute_id": "1599/2009"
+    },
+    {
+      "id": "1c734581-3301-435a-87cd-b48418fe72ff",
+      "node_type": "Section",
+      "publisher": "finlex",
+      "title": "26 § Voimaantulo",
+      "text": "Tämän lain voimaantulosta säädetään erikseen lailla.",
+      "section_number": "26",
+      "chapter_number": 5,
+      "statute_id": "1599/2009"
+    }
+  ],
+  "clauses": [
+    {
+      "id": "c602b4aa-aa8d-46b4-8f46-3bcdc1c9b3fe",
+      "node_type": "Clause",
+      "publisher": "finlex",
+      "title": "§ 4 mom 1",
+      "text": "1) kirjaamishakemusta ja sen käsittelyä koskevat tiedot;",
+      "clause_number": 1,
+      "section_number": "4",
+      "statute_id": "1599/2009"
+    },
+    {
+      "id": "116ac562-1ca0-4dd5-ac4d-7a09c6c74d5f",
+      "node_type": "Clause",
+      "publisher": "finlex",
+      "title": "§ 4 mom 2",
+      "text": "2) rajoituksen merkitsemistä koskevaa hakemusta tai ilmoitusta ja hakemuksen käsittelyä koskevat tiedot;",
+      "clause_number": 2,
+      "section_number": "4",
+      "statute_id": "1599/2009"
+    },
+    {
+      "id": "04153380-9c47-4b2c-83f1-63bf1524f0ee",
+      "node_type": "Clause",
+      "publisher": "finlex",
+      "title": "§ 4 mom 3",
+      "text": "3) kirjaamista ja rajoituksen merkitsemistä koskevat ratkaisut.",
+      "clause_number": 3,
+      "section_number": "4",
+      "statute_id": "1599/2009"
+    },
+    {
+      "id": "0d9dbb87-7fc7-493c-be71-1bc12af14d76",
+      "node_type": "Clause",
+      "publisher": "finlex",
+      "title": "§ 13 mom 1",
+      "text": "1) lunastuslausekkeesta tai vastaavasta vaihdannan rajoituksesta, jollei tietoa saada muusta viranomaisen tietojärjestelmästä;",
+      "clause_number": 1,
+      "section_number": "13",
+      "statute_id": "1599/2009"
+    },
+    {
+      "id": "333f72fb-cc96-47c7-bb3b-cd9ff5bba016",
+      "node_type": "Clause",
+      "publisher": "finlex",
+      "title": "§ 13 mom 2",
+      "text": "2) yhtiölle kuuluvan tai sen hallitseman kiinteistön, rakennuksen, huoneiston ja osakeryhmän tunnuksesta.",
+      "clause_number": 2,
+      "section_number": "13",
+      "statute_id": "1599/2009"
+    },
+    {
+      "id": "39984088-eb50-49e4-9941-95910ed16857",
+      "node_type": "Clause",
+      "publisher": "finlex",
+      "title": "§ 14 mom 1",
+      "text": "1) kaupparekisterin tiedot yhtiön rekisteröinnistä, toiminimistä ja tunnuksista, vastuuhenkilöstä, kotipaikasta ja sijainnista, hallintakohteista sekä osakkeista ja niitä koskevista vaihdannan rajoituksista;",
+      "clause_number": 1,
+      "section_number": "14",
+      "statute_id": "1599/2009"
+    },
+    {
+      "id": "3fbc1219-68a6-4a74-8338-6f083b78b631",
+      "node_type": "Clause",
+      "publisher": "finlex",
+      "title": "§ 14 mom 2",
+      "text": "2) kaupparekisterin tiedot muun kuin 1 kohdassa tarkoitetun yhteisön tai säätiön rekisteröinnistä, toiminimistä ja tunnuksista, vastuuhenkilöstä, yhtiömuodosta ja kotipaikasta;",
+      "clause_number": 2,
+      "section_number": "14",
+      "statute_id": "1599/2009"
+    },
+    {
+      "id": "7b479244-0aa2-4335-bce2-2418d44f9983",
+      "node_type": "Clause",
+      "publisher": "finlex",
+      "title": "§ 14 mom 3",
+      "text": "3) kiinteistötietojärjestelmän tiedot yhtiön hallitseman kiinteistön tai sen osan omistuksesta ja muusta hallintaperusteesta, rasitteista, pinta-alasta ja sijainnista sekä kiinteistöön tai sen osaan kohdistuvista kaavamääräyksistä;",
+      "clause_number": 3,
+      "section_number": "14",
+      "statute_id": "1599/2009"
+    },
+    {
+      "id": "37e3757e-d42c-430b-a61b-3db16037fc43",
+      "node_type": "Clause",
+      "publisher": "finlex",
+      "title": "§ 14 mom 4",
+      "text": "4) väestötietojärjestelmän tiedot yhtiön hallitsemien rakennusten tunnisteista, sijainnista, ominaisuuksista, käytöstä ja viranomaisluvista;",
+      "clause_number": 4,
+      "section_number": "14",
+      "statute_id": "1599/2009"
+    },
+    {
+      "id": "69a739cc-fd97-4a5d-9364-539729120861",
+      "node_type": "Clause",
+      "publisher": "finlex",
+      "title": "§ 14 mom 5",
+      "text": "5) väestötietojärjestelmän tiedot huoneiston yksilöivästä tunnuksesta, osoitteesta ja ominaisuuksista.",
+      "clause_number": 5,
+      "section_number": "14",
+      "statute_id": "1599/2009"
+    },
+    {
+      "id": "708d5820-fb0d-4e5e-a7ef-8ceac5579426",
+      "node_type": "Clause",
+      "publisher": "finlex",
+      "title": "§ 17 mom 1",
+      "text": "1) yksilöimiseksi ja tunnistamiseksi tarvittavat tiedot;",
+      "clause_number": 1,
+      "section_number": "17",
+      "statute_id": "1599/2009"
+    },
+    {
+      "id": "e92996c1-af81-47e1-8045-4fafedcf6b63",
+      "node_type": "Clause",
+      "publisher": "finlex",
+      "title": "§ 17 mom 2",
+      "text": "2) yhteystiedot;",
+      "clause_number": 2,
+      "section_number": "17",
+      "statute_id": "1599/2009"
+    },
+    {
+      "id": "c24a8bd5-a260-4f9d-8a91-dc5f98534abd",
+      "node_type": "Clause",
+      "publisher": "finlex",
+      "title": "§ 17 mom 3",
+      "text": "3) puolisoa, kuolemaa ja perillisiä koskevat tiedot;",
+      "clause_number": 3,
+      "section_number": "17",
+      "statute_id": "1599/2009"
+    },
+    {
+      "id": "74bf19fd-0908-40cc-afea-3788cf869ce4",
+      "node_type": "Clause",
+      "publisher": "finlex",
+      "title": "§ 17 mom 4",
+      "text": "4) osoite- tai muita henkilötietoja koskevat luovutusrajoitukset;",
+      "clause_number": 4,
+      "section_number": "17",
+      "statute_id": "1599/2009"
+    },
+    {
+      "id": "40ca379c-48a1-43c5-ae81-4adf609602dc",
+      "node_type": "Clause",
+      "publisher": "finlex",
+      "title": "§ 17 mom 5",
+      "text": "5) turvakiellon kohteena olevat henkilötiedot;",
+      "clause_number": 5,
+      "section_number": "17",
+      "statute_id": "1599/2009"
+    },
+    {
+      "id": "5a26724d-0d30-41ef-9428-0e3b2e28bbe1",
+      "node_type": "Clause",
+      "publisher": "finlex",
+      "title": "§ 17 mom 6",
+      "text": "6) toimintakelpoisuuden rajoittamista ja edunvalvontaa koskevat tiedot.",
+      "clause_number": 6,
+      "section_number": "17",
+      "statute_id": "1599/2009"
+    },
+    {
+      "id": "a6307137-75ec-4675-a3bf-c443a518b1f3",
+      "node_type": "Clause",
+      "publisher": "finlex",
+      "title": "§ 22 mom 1",
+      "text": "1) osakehuoneistorekisteriin tehtävää kirjausta tai merkintää koskevasta virheellisestä ratkaisusta taikka muusta sellaisesta virheellisyydestä tai puutteellisuudesta;",
+      "clause_number": 1,
+      "section_number": "22",
+      "statute_id": "1599/2009"
+    },
+    {
+      "id": "969423aa-3022-43b7-990b-651d37ba2b6e",
+      "node_type": "Clause",
+      "publisher": "finlex",
+      "title": "§ 22 mom 2",
+      "text": "2) teknisestä virheestä osakehuoneistorekisterin kirjauksia ja merkintöjä koskevien tietojen käsittelyssä.",
+      "clause_number": 2,
+      "section_number": "22",
+      "statute_id": "1599/2009"
+    }
+  ],
+  "cross_references": [],
+  "raw_html_path": "C:\\Users\\danit\\finance-hack\\aalto-hackaton-2026\\data\\raw\\finlex\\Laki (säädöskokoelma)\\Laki huoneistotietojärjestelmästä.html"
+}

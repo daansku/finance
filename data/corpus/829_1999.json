@@ -1,0 +1,734 @@
+{
+  "statute": {
+    "id": "7108b192-b425-482f-98c4-9592d6d4e550",
+    "node_type": "Statute",
+    "publisher": "finlex",
+    "title": "Passilaki",
+    "text": "Passilaki",
+    "statute_id": "829/1999",
+    "finlex_url": "https://finlex.fi/fi/laki/ajantasa/829/1999"
+  },
+  "chapters": [
+    {
+      "id": "b3265088-9f63-48dc-ba76-e24d1018bfc6",
+      "node_type": "Chapter",
+      "publisher": "finlex",
+      "title": "Chapter 1",
+      "text": "1 luku Yleiset säännökset",
+      "chapter_number": 1,
+      "statute_id": "829/1999"
+    },
+    {
+      "id": "e2ae0dc4-e8f1-4954-a2bd-ae75e08f539b",
+      "node_type": "Chapter",
+      "publisher": "finlex",
+      "title": "Chapter 2",
+      "text": "2 luku Passin hakeminen ja myöntäminen",
+      "chapter_number": 2,
+      "statute_id": "829/1999"
+    },
+    {
+      "id": "4bcbd846-02e1-48bf-9c71-7f1fa881dcc5",
+      "node_type": "Chapter",
+      "publisher": "finlex",
+      "title": "Chapter 3",
+      "text": "3 luku Passin peruuttaminen ja poisottaminen",
+      "chapter_number": 3,
+      "statute_id": "829/1999"
+    },
+    {
+      "id": "59c2b1e6-4485-4643-9956-795a88a920ec",
+      "node_type": "Chapter",
+      "publisher": "finlex",
+      "title": "Chapter 4",
+      "text": "4 luku Maastalähtö ja maahantulo",
+      "chapter_number": 4,
+      "statute_id": "829/1999"
+    },
+    {
+      "id": "678e6576-de4f-4ffa-aad7-38e40dfe9299",
+      "node_type": "Chapter",
+      "publisher": "finlex",
+      "title": "Chapter 5",
+      "text": "5 luku Erinäiset säännökset",
+      "chapter_number": 5,
+      "statute_id": "829/1999"
+    }
+  ],
+  "sections": [
+    {
+      "id": "905ec97c-ea2f-4660-a169-5ad5797a2eee",
+      "node_type": "Section",
+      "publisher": "finlex",
+      "title": "1 § Matkustamisoikeus",
+      "text": "Suomen kansalaisella on oikeus matkustaa maasta sen mukaan kuin tässä laissa säädetään. Suomen kansalaista ei saa estää saapumasta maahan.",
+      "section_number": "1",
+      "chapter_number": 1,
+      "statute_id": "829/1999"
+    },
+    {
+      "id": "2e9ed599-c804-4933-a747-9f149ebec723",
+      "node_type": "Section",
+      "publisher": "finlex",
+      "title": "2 § Matkustamisoikeuden osoittaminen",
+      "text": "Suomen kansalainen osoittaa oikeutensa matkustaa maasta ja saapua maahan passilla, jollei tästä laista, Euroopan yhteisön lainsäädännöstä taikka Suomea sitovasta kansainvälisestä sopimuksesta muuta johdu. Ilman passia Suomen kansalainen saa matkustaa Islantiin, Norjaan, Ruotsiin ja Tanskaan. Valtioneuvoston asetuksella säädetään ne muut maat, joihin Suomen kansalainen saa matkustaa käyttäen matkustusasiakirjana passin sijasta henkilökorttilain (829/1999) 1 §:n 1 momentissa tarkoitettua henkilökorttia. Harjoittaessaan merimiestointa ulkomaanliikenteessä merimies voi osoittaa oikeutensa matkustaa maasta merenkulkijain kansallisella henkilöllisyystodistuksella (merimiespassi). Merimiehenä pidetään merenkulkijain kansallisia henkilöllisyystodistuksia koskevassa yleissopimuksessa (SopS 64/1970) määriteltyä merenkulkijaa. Ilma-aluksen miehistöön kuuluva voi osoittaa oikeutensa matkustaa maasta ja saapua maahan säännönmukaiseen tehtäväänsä kuuluvan lennon yhteydessä kansainvälisen siviili-ilmailun yleissopimuksen (SopS 11/1949) liitteessä 9 tarkoitetulla Suomen viranomaisen antamalla miehistökortilla. Suomen kansalainen voi osoittaa oikeutensa matkustaa maasta ja saapua maahan Yhdistyneiden Kansakuntien ja Euroopan unionin virkamiehilleen antamalla matkustusasiakirjalla. Valtion aluksella, valtion ilma-aluksella tai puolustusvoimien järjestäytyneen joukon jäsenenä matkustaja- tai miehistöluetteloon merkitty Suomen kansalainen voi virka- tai palvelustehtävässään matkustaa maasta ja saapua maahan ilman matkustusasiakirjaa, jos hän muutoin voi luotettavasti osoittaa henkilöllisyytensä.",
+      "section_number": "2",
+      "chapter_number": 1,
+      "statute_id": "829/1999"
+    },
+    {
+      "id": "2439828d-2eca-468c-b717-f8079e7450ee",
+      "node_type": "Section",
+      "publisher": "finlex",
+      "title": "3 § Passi",
+      "text": "Matkustusoikeuden osoittamiseksi Suomen kansalaiselle annetaan hakemuksesta passi, jollei laista muuta johdu.",
+      "section_number": "3",
+      "chapter_number": 1,
+      "statute_id": "829/1999"
+    },
+    {
+      "id": "9b57e466-60c0-427b-8882-d1a358221ac0",
+      "node_type": "Section",
+      "publisher": "finlex",
+      "title": "4 § Diplomaattipassi ja virkapassi",
+      "text": "Diplomaattipassi voidaan myöntää: Virkapassi voidaan myöntää ulkoasiainhallinnon palveluksessa olevalle ja muulle ulkomaanedustuksessa toimivalle sekä muussa kuin 1 momentissa tarkoitetussa virallisessa kansainvälisessä tehtävässä toimivalle henkilölle. Virkapassi voidaan erityisestä syystä myöntää myös edellä tarkoitetun henkilön puolisolle ja lapselle. Tämän lain passia koskevia säännöksiä sovelletaan myös diplomaattipassiin ja virkapassiin, jollei laissa tai asetuksessa toisin säädetä. Edellä 1 momentin 5 ja 6 kohdassa sekä 2 momentissa puolisolla tarkoitetaan henkilön aviopuolisoa taikka henkilön kanssa avioliitonomaisissa olosuhteissa elävää avopuolisoa, jos avopuolisot ovat todistettavasti asuneet yhdessä vähintään kaksi vuotta taikka heillä on tai on ollut yhteinen lapsi.",
+      "section_number": "4",
+      "chapter_number": 1,
+      "statute_id": "829/1999"
+    },
+    {
+      "id": "79d77bc3-a6a4-4d2f-85a8-3ca90fe12071",
+      "node_type": "Section",
+      "publisher": "finlex",
+      "title": "5 § Passin sisältö",
+      "text": "Passiin merkitään henkilön sukunimi, etunimet, sukupuoli, henkilötunnus, kansalaisuus, syntymäkotikunta, passin myöntämispäivä ja viimeinen voimassaolopäivä, passin myöntänyt viranomainen ja passin numero. Passissa on lisäksi passinhaltijan kasvokuva ja nimikirjoitus. Kelpoisuusalueeltaan rajoitetun passin osalta passiin merkitään ne maat, joihin se oikeuttaa matkustamaan. Syntymäkotikunnan sijaan merkitään \"ulkomaat\", jos henkilön syntymäkotikuntaa ei voida luotettavasti selvittää taikka sen merkitseminen passiin todennäköisesti vaarantaisi henkilön turvallisuutta. Passin turvatekijöistä ja biometrisistä tunnisteista on voimassa, mitä jäsenvaltioiden myöntämien passien turvatekijöitä ja biometriikkaa koskevista vaatimuksista annetussa neuvoston asetuksessa (EY) N:o 2252/2004 säädetään. Biometrisen tunnisteen sisältävän passin kannessa on tätä osoittava tunnuskuva. Passin tekniseen osaan talletettujen tietojen aitouden ja eheyden varmistamiseen liittyvän varmenteen luo Väestörekisterikeskus. Valtioneuvoston asetuksella säädetään 1 momentissa tarkoitetun nimikirjoituksen merkitsemisestä.",
+      "section_number": "5",
+      "chapter_number": 1,
+      "statute_id": "829/1999"
+    },
+    {
+      "id": "b3a7ee80-c235-4c07-9b55-9c1e065dbaef",
+      "node_type": "Section",
+      "publisher": "finlex",
+      "title": "6 § Passin hakeminen",
+      "text": "Passia on haettava kirjallisesti ja hakemukseen on liitettävä hakijan kasvokuva, josta hakija on hyvin tunnistettavissa. Passihakemus on jätettävä henkilökohtaisesti kihlakunnan poliisilaitokseen. Helsinki-Vantaan lentoasemalla myönnettävää passia koskeva hakemus voidaan jättää lentoasemalla myös liikkuvalle poliisille. Hakijan on hakiessaan passia esitettävä tunnistamisasiakirjana poliisin myöntämä voimassa oleva henkilöllisyyttä osoittava asiakirja. Jollei hakijalla ole esittää tunnistamisasiakirjaa, poliisi suorittaa tunnistamisen. Passin saa noutaa passinhakijan valtuuttama henkilö. Passi lähetetään hakijan pyynnöstä myös postitse. Ulkomailla oleva Suomen kansalainen voi hakea passia Suomen suurlähetystöstä tai lähetetyn virkamiehen johtamasta konsulaatista taikka sellaisesta muusta Suomen edustustosta, jossa palvelevan nimetyn Suomen kansalaisen ulkoasiainministeriö on oikeuttanut antamaan passeja. Hakijan on hakiessaan passia esitettävä tunnistamisasiakirjana voimassa oleva henkilöllisyyttä osoittava asiakirja. Jollei hakijalla ole esittää tunnistamisasiakirjaa, passin antava viranomainen suorittaa tunnistamisen. Edustusto voi pyynnöstä toimittaa passinhakijalle kunniakonsulaatin välityksellä. Passin saa noutaa passinhakijan valtuuttama henkilö. Edustusto voi lähettää passin myös hakijan pyynnöstä postitse. Diplomaattipassia ja virkapassia haetaan kirjallisesti ulkoasiainministeriöltä. Poliisin myöntämistä henkilöllisyyttä osoittavista asiakirjoista säädetään tarkemmin valtioneuvoston asetuksella. Hakemukseen liitettävien kasvokuvien lukumäärästä sekä kasvokuvalle asetettavista vaatimuksista säädetään sisäasiainministeriön asetuksella.",
+      "section_number": "6",
+      "chapter_number": 2,
+      "statute_id": "829/1999"
+    },
+    {
+      "id": "2e0ad0a4-e296-4ba2-a1f5-f05d16bc946c",
+      "node_type": "Section",
+      "publisher": "finlex",
+      "title": "7 § Alaikäisen passihakemus",
+      "text": "Alaikäisen passihakemukseen tulee liittää hänen huoltajiensa suostumus. Huoltaja voi antaa suostumuksensa passin kelpoisuusalueen tai voimassaoloajan osalta rajoitettuna. Jos alaikäinen on otettu Suomessa sosiaalilautakunnan huostaan, antaa 1 momentissa tarkoitetun suostumuksen sosiaalihuoltolain (710/1982) 6 §:n 1 momentissa tarkoitettu toimielin.",
+      "section_number": "7",
+      "chapter_number": 2,
+      "statute_id": "829/1999"
+    },
+    {
+      "id": "9b434940-97e1-4f04-92f3-04be60e07984",
+      "node_type": "Section",
+      "publisher": "finlex",
+      "title": "8 § Asevelvollisen passihakemus",
+      "text": "Asevelvollisen on passia hakiessaan esitettävä selvitys siitä, ettei passin myöntämiselle ole 14 §:n 5 momentissa tai 15 §:n 1 momentin 3 kohdassa tarkoitettua estettä. Todistus, jolla asevelvollinen voi osoittaa esteettömyyden passin saamiselle, voi olla:",
+      "section_number": "8",
+      "chapter_number": 2,
+      "statute_id": "829/1999"
+    },
+    {
+      "id": "41f4bcca-98e6-4525-affc-3b5164a71438",
+      "node_type": "Section",
+      "publisher": "finlex",
+      "title": "9 § Tunnistaminen",
+      "text": "Passinhakijan tunnistaminen tulee suorittaa luotettavalla tavalla. Sisäasiainministeriöllä on oikeus antaa passin myöntäville viranomaisille määräyksiä tunnistamisen suorittamisesta.",
+      "section_number": "9",
+      "chapter_number": 2,
+      "statute_id": "829/1999"
+    },
+    {
+      "id": "7b3d50c7-c5fd-4a8b-94d7-90471d0db936",
+      "node_type": "Section",
+      "publisher": "finlex",
+      "title": "10 § Passin myöntäminen",
+      "text": "Passin myöntää kihlakunnan poliisilaitos. Helsinki-Vantaan lentoasemalla passin voi myöntää myös liikkuva poliisi. Ulkomailla olevalle Suomen kansalaiselle myöntää passin Suomen suurlähetystö tai lähetetyn virkamiehen johtama konsulaatti taikka sellainen muu Suomen edustusto, jossa palvelevan nimetyn Suomen kansalaisen ulkoasiainministeriö on oikeuttanut antamaan passeja. Diplomaattipassin ja virkapassin myöntää ulkoasiainministeriö.",
+      "section_number": "10",
+      "chapter_number": 2,
+      "statute_id": "829/1999"
+    },
+    {
+      "id": "558a7e06-a122-4c6d-898b-6ed4893e1744",
+      "node_type": "Section",
+      "publisher": "finlex",
+      "title": "11 § Alaikäisen passi",
+      "text": "Alaikäiselle myönnetään passi, jos hänen huoltajansa siihen suostuvat. Jos joltakin huoltajalta ei matkan, sairauden tai muun vastaavan syyn vuoksi voida saada 7 §:n 1 momentissa tarkoitettua suostumusta ja jos ratkaisun viivästymisestä aiheutuisi kohtuutonta haittaa, ei hänen suostumuksensa asiassa ole tarpeen. Jos huoltaja on evännyt suostumuksensa, passi voidaan kuitenkin myöntää alaikäiselle, jos sen myöntämättä jättäminen olisi selvästi vastoin lapsen etua ja jos voidaan pitää ilmeisenä, ettei lasta vastoin huoltajansa suostumusta muutoin kuin tilapäisesti viedä toiseen valtioon. Sosiaalihuoltolain 6 §:n 1 momentissa tarkoitettu toimielin on velvollinen antamaan passin myöntävän viranomaisen pyynnöstä lausunnon siitä, onko passin epääminen selvästi vastoin lapsen etua. Viranomainen antaa lausuntonsa niissä tapauksissa, joissa viranomaisella on ennestään hallussaan alaikäistä tai hänen huoltajiaan koskevia tietoja. Lausunto voi sisältää myös sellaista tietoa, joka sosiaalihuollon asiakkaan asemasta ja oikeuksista annetun lain (812/2000) nojalla on pidettävä salassa, jos tämä on lapsen edun kannalta välttämätöntä. Päätöstä, jolla alaikäiselle on 2 momentin nojalla myönnetty passi, on noudatettava muutoksenhausta huolimatta.",
+      "section_number": "11",
+      "chapter_number": 2,
+      "statute_id": "829/1999"
+    },
+    {
+      "id": "06051b1d-d0d3-4d3f-bdba-9542db0ab8a7",
+      "node_type": "Section",
+      "publisher": "finlex",
+      "title": "12 § Väliaikainen passi",
+      "text": "Edellä 10 §:ssä tarkoitettu viranomainen voi erityisestä syystä myöntää passin väliaikaisena (väliaikainen passi), jos keskitetysti valmistetun passin myöntäminen nopeutetussakaan aikataulussa ei ole mahdollista. Hakijan on esitettävä luotettava selvitys syystä, joka edellyttää väliaikaisen passin myöntämistä, sekä sen kestosta.",
+      "section_number": "12",
+      "chapter_number": 2,
+      "statute_id": "829/1999"
+    },
+    {
+      "id": "04473fef-3eef-4f87-bc4e-a3a23b402bac",
+      "node_type": "Section",
+      "publisher": "finlex",
+      "title": "13 § Passin kelpoisuusalue",
+      "text": "Passi oikeuttaa matkustamaan Suomesta. Passin kelpoisuusaluetta rajoitetaan sen mukaan kuin hakija pyytää taikka huoltaja 7 §:n 1 momentin nojalla tai sosiaalilautakunta huostaanottamansa lapsen osalta on rajoittanut suostumustaan. Kelpoisuusalueeltaan rajoitettu passi voidaan myöntää myös 15 §:n 1 momentissa tarkoitetulle henkilölle ja silloin, kun alaikäiselle 11 §:n 2 momentissa tarkoitetussa tapauksessa myönnetään passi.",
+      "section_number": "13",
+      "chapter_number": 2,
+      "statute_id": "829/1999"
+    },
+    {
+      "id": "17d8f87e-0449-46e0-8aa2-b0eae6f47176",
+      "node_type": "Section",
+      "publisher": "finlex",
+      "title": "14 § Passin voimassaoloaika",
+      "text": "Passin voimassaoloaika on viisi vuotta sen myöntämispäivästä lukien, jollei 2―7 momentista muuta johdu. Passi myönnetään viittä vuotta lyhyemmäksi ajaksi sen mukaan kuin hakija pyytää taikka huoltaja 7 §:n 1 momentin nojalla tai sosiaalilautakunta huostaanottamansa lapsen osalta on rajoittanut suostumustaan. Viittä vuotta lyhyemmäksi ajaksi passi voidaan myöntää myös 15 §:n 1 momentissa tarkoitetulle henkilölle ja silloin, kun passi myönnetään 11 §:n 2 momentissa tarkoitetussa tapauksessa. Hakijalle, jolla on myös jonkin vieraan valtion kansalaisuus ja joka kansalaisuuslain (359/2003) 34 §:n nojalla mahdollisesti tulee menettämään Suomen kansalaisuutensa, passi myönnetään enintään siihen saakka, kun hakija täyttää 22 vuotta. Kun passi myönnetään 18 §:ssä tarkoitetussa tapauksessa peruuttamatta voimassa olevaa passia, passi myönnetään kaksoispassin antamisen perusteena olevan syyn edellyttämäksi ajaksi, kuitenkin enintään viideksi vuodeksi. Asevelvolliselle voidaan antaa passi enintään sen vuoden loppuun, jona hän täyttää 28 vuotta, jollei hän osoita, ettei maanpuolustusvelvollisuus ole esteenä passin myöntämiselle tätä pidemmäksi ajaksi taikka jollei erityisen painavista syistä muuta johdu. Edellä 12 §:ssä tarkoitettu väliaikainen passi myönnetään enintään 12 kuukauden määräajaksi. Diplomaattipassi ja virkapassi voidaan erityisestä syystä myöntää viittä vuotta lyhyemmäksi ajaksi.",
+      "section_number": "14",
+      "chapter_number": 2,
+      "statute_id": "829/1999"
+    },
+    {
+      "id": "99d07d37-fd49-4da7-8947-8772193a477d",
+      "node_type": "Section",
+      "publisher": "finlex",
+      "title": "15 § Passin myöntämisen esteet",
+      "text": "Passi voidaan evätä henkilöltä: Passia ei anneta henkilölle, joka on määrätty pakkokeinolain (450/1987) 2 luvun 1 §:ssä tarkoitettuun matkustuskieltoon taikka konkurssilain (120/2004) 4 luvun 8 tai 9 §:ssä tarkoitettuun maastapoistumiskieltoon.",
+      "section_number": "15",
+      "chapter_number": 2,
+      "statute_id": "829/1999"
+    },
+    {
+      "id": "cc6be663-f458-490d-8fc0-0ff524ba61ef",
+      "node_type": "Section",
+      "publisher": "finlex",
+      "title": "16 § Passin myöntämisen esteiden ja rajoitusten harkitseminen",
+      "text": "Harkittaessa passin myöntämistä 15 §:n 1 momentissa tarkoitetulle henkilölle on otettava huomioon matkustamisen merkitys hänen perhesuhteidensa, terveydentilansa, toimeentulonsa, ammattinsa ja muiden olosuhteiden kannalta. Passin myöntämistä harkittaessa on lisäksi otettava huomioon, onko perusteltua syytä olettaa, että asianomainen matkustaa ulkomaille välttääkseen esitutkintaa, rangaistusta tai sen täytäntöönpanoa.",
+      "section_number": "16",
+      "chapter_number": 2,
+      "statute_id": "829/1999"
+    },
+    {
+      "id": "933356df-c49b-4021-b37a-c816ceaeadd2",
+      "node_type": "Section",
+      "publisher": "finlex",
+      "title": "17 § Esteettömyyden selvittäminen ja henkilötietojen oikeellisuus",
+      "text": "Edellä 10 §:ssä tarkoitetun passin myöntävän viranomaisen on ennen passin antamista selvitettävä hakijan esteettömyys. Lupaviranomainen tarkistaa hakijan henkilötiedot väestötietojärjestelmästä ja tiedot merkitään passiin väestötietojärjestelmän tietojen mukaisesti.",
+      "section_number": "17",
+      "chapter_number": 2,
+      "statute_id": "829/1999"
+    },
+    {
+      "id": "bbfecbe7-86cb-4a19-b6f3-7a2113c99624",
+      "node_type": "Section",
+      "publisher": "finlex",
+      "title": "18 § Kaksoispassi",
+      "text": "Uusi passi voidaan myöntää voimassa olevaa passia peruuttamatta, jos voimassa oleva passi on ulkomaan viranomaisen hallussa tai ulkomaan viranomaisen passiin tekemät merkinnät estävät matkustamisen toiseen maahan ja jos uusi passi on tarpeen hakijan työn tai muun erityisen painavan henkilökohtaisen syyn vuoksi.",
+      "section_number": "18",
+      "chapter_number": 2,
+      "statute_id": "829/1999"
+    },
+    {
+      "id": "b3a67a73-b09d-4a1f-8022-0d5da31a1264",
+      "node_type": "Section",
+      "publisher": "finlex",
+      "title": "19 § Uuden passin antaminen",
+      "text": "Jos passinhakijalla on voimassa oleva passi eikä se ole hänen hallussaan, hänen on esitettävä riittävä selvitys passin katoamisesta. Kun 10 §:ssä tarkoitettu viranomainen luovuttaa myöntämänsä uuden passin, lukuun ottamatta 18 §:ssä tarkoitettua kaksoispassia, aikaisempi passin myöntämispäätös raukeaa ja passin voimassaolo päättyy. Hakijan on tällöin luovutettava uuden passin luovuttavalle viranomaiselle aikaisempi passi, jos se on hänen hallussaan. Jos aikaisemmassa passissa on hakijalle välttämättömiä ulkomaan viranomaisen merkintöjä, hakija ei ole velvollinen luovuttamaan sitä viranomaiselle kuin ainoastaan passin mitätöintiä varten. Sisäasiainministeriöllä on oikeus antaa tarkempia määräyksiä passin mitätöinnistä.",
+      "section_number": "19",
+      "chapter_number": 2,
+      "statute_id": "829/1999"
+    },
+    {
+      "id": "e966dc3a-6573-4d01-9a28-4459e80c3d0e",
+      "node_type": "Section",
+      "publisher": "finlex",
+      "title": "20 § Päätös",
+      "text": "Kun passi myönnetään hakemuksen mukaisesti, hakijalle ei anneta erillistä hallintopäätöstä eikä valitusosoitusta. Jos passi myönnetään 11 §:n 2 momentissa tarkoitetussa tapauksessa ilman kaikkien huoltajien suostumusta taikka passi myönnetään hakemuksesta poiketen, hakijalle annetaan passin ohella erillinen hallintopäätös valitusosoituksineen.",
+      "section_number": "20",
+      "chapter_number": 2,
+      "statute_id": "829/1999"
+    },
+    {
+      "id": "b0eeb06d-30d5-4b99-b420-6b17c4ca7da1",
+      "node_type": "Section",
+      "publisher": "finlex",
+      "title": "21 § Passin peruuttamisen edellytykset",
+      "text": "Passi peruutetaan: Passi voidaan peruuttaa: Diplomaattipassi ja virkapassi voidaan peruuttaa myös silloin, kun passinhaltija on siirtynyt toisiin tehtäviin tai passin myöntämisen edellytykset muutoin poistuvat. Harkittaessa passin peruuttamista 2 momentin 3 kohdan nojalla on otettava huomioon 16 §:ssä mainitut seikat. Päätöstä, jolla alaikäiseltä 1 momentin 5 kohdan perusteella on päätetty jättää passi peruuttamatta, on noudatettava muutoksenhausta huolimatta. Jos passi on peruutettu 1 momentin 7 kohdan nojalla, passinhaltijalla on oikeus saada maksutta uusi passi peruutetun passin jäljellä olevaksi voimassaoloajaksi. Jos passi on peruutettu 2 momentin 1, 2 tai 4 kohdan nojalla syystä, joka ei ole aiheutunut passinhaltijan omasta menettelystä, passinhaltijalla on oikeus saada maksutta uusi passi peruutetun passin jäljellä olevaksi voimassaoloajaksi.",
+      "section_number": "21",
+      "chapter_number": 3,
+      "statute_id": "829/1999"
+    },
+    {
+      "id": "4e77b320-3aec-421a-b5da-f45ab5a4edfc",
+      "node_type": "Section",
+      "publisher": "finlex",
+      "title": "22 § Passin peruuttaminen",
+      "text": "Passin peruuttaa passinhaltijan kotikunnan kihlakunnan poliisilaitos tai passin myöntänyt viranomainen.",
+      "section_number": "22",
+      "chapter_number": 3,
+      "statute_id": "829/1999"
+    },
+    {
+      "id": "dcdf7d40-7ea3-44d3-9607-60c567e98569",
+      "node_type": "Section",
+      "publisher": "finlex",
+      "title": "23 § Passin peruuttaminen turvallisuustoimenpiteenä",
+      "text": "Väärinkäytösten estämiseksi passi voidaan peruuttaa viranomaisen aloitteesta silloin, kun voidaan todennäköisin syin epäillä henkilön kuolleen luonnononnettomuuden tai muun katastrofin yhteydessä taikka rikoksen johdosta. Jos 1 momentissa tarkoitettu epäily osoittautuu vääräksi ja henkilö löytyy elävänä, hänellä on oikeus saada maksutta uusi passi peruutetun passin jäljellä olevaksi voimassaoloajaksi.",
+      "section_number": "23",
+      "chapter_number": 3,
+      "statute_id": "829/1999"
+    },
+    {
+      "id": "90ea64f8-4b01-4b4e-8511-d6e274942fb2",
+      "node_type": "Section",
+      "publisher": "finlex",
+      "title": "24 § Edellytykset passin ottamiselle viranomaisen haltuun",
+      "text": "Passi otetaan viranomaisen haltuun, kun on tehty päätös passin peruuttamisesta. Passi voidaan ottaa väliaikaisesti viranomaisen haltuun ennen peruuttamispäätöksen tekemistä, jos passi sisältää ilmeisen virheellisyyden tai passi on siten turmeltunut, ettei sitä voida enää pitää luotettavana tunnistamis- tai matkustusasiakirjana tai sen merkintöjä on muutettu taikka siinä on muita kuin viranomaisen merkintöjä taikka jos sitä käyttää muu kuin se, jolle passi on myönnetty. Matkustuskieltoon määrätyn henkilön passin luovuttamisesta poliisille ilman peruuttamispäätöstä säädetään pakkokeinolain 2 luvun 2 §:n 3 momentissa. Maastapoistumiskieltoon määrätyn henkilön passin luovuttamisesta poliisin haltuun säädetään konkurssilain 4 luvun 8 §:n 3 momentissa.",
+      "section_number": "24",
+      "chapter_number": 3,
+      "statute_id": "829/1999"
+    },
+    {
+      "id": "522a1019-50af-40bc-ac4d-62826fabab35",
+      "node_type": "Section",
+      "publisher": "finlex",
+      "title": "25 § Passin ottaminen viranomaisen haltuun",
+      "text": "Passin ottaa viranomaisen haltuun sen peruuttanut viranomainen taikka tämän pyynnöstä rajatarkastusviranomainen. Passin saa 24 §:n 3 momentissa tarkoitetussa tapauksessa ottaa viranomaisen haltuun poliisin, tullin tai rajavartiolaitoksen pidättämiseen oikeutettu virkamies. Tällöin rajatarkastusviranomainen voi ottaa passin haltuunsa pidättämiseen oikeutetulle virkamiehelle luovutettavaksi. Passin saa 24 §:n 2 momentin mukaisessa tapauksessa ottaa väliaikaisesti viranomaisen haltuun passin peruuttamiseen 22 §:n nojalla oikeutettu viranomainen ja rajatarkastusviranomainen, jos on todennäköistä, että passi voidaan 21 §:n nojalla peruuttaa. Viranomaisen haltuun otettu passi on viipymättä toimitettava passinhaltijan kotikunnan kihlakunnan poliisilaitokselle tai sen myöntäneelle viranomaiselle. Poliisimiehellä, rajavartiomiehellä ja muulla passintarkastajana toimivalla virkamiehellä on passin haltuun ottamiseksi oikeus tehdä henkilöntarkastus. Passi voidaan ottaa viranomaisen haltuun sen estämättä, että passin peruuttamispäätöksestä on valitettu. Päätökseen ottaa passi viranomaisen haltuun ei saa erikseen hakea muutosta valittamalla.",
+      "section_number": "25",
+      "chapter_number": 3,
+      "statute_id": "829/1999"
+    },
+    {
+      "id": "94e263c0-b1e2-432c-8f75-5bb6e984234a",
+      "node_type": "Section",
+      "publisher": "finlex",
+      "title": "26 § Rajatarkastusviranomainen",
+      "text": "Rajatarkastusviranomaisella tarkoitetaan tässä laissa rajavartiolaitosta ja muuta viranomaista, jolla on oikeus rajavartiolaissa (578/2005) tarkoitetun rajatarkastuksen tekemiseen.",
+      "section_number": "26",
+      "chapter_number": 4,
+      "statute_id": "829/1999"
+    },
+    {
+      "id": "c8ff8b13-39f9-497f-bda3-bd436b157561",
+      "node_type": "Section",
+      "publisher": "finlex",
+      "title": "27 § Rajan ylittämistä koskevat säännökset",
+      "text": "Rajan ylittämisestä, rajanylityspaikoista ja niiden aukioloajoista sekä rajatarkastustehtävien jakamisesta rajavartiolaitoksen, poliisin ja tullin kesken eri rajanyrityspaikoilla säädetään rajavartiolaissa ja sen nojalla annetuissa säännöksissä.",
+      "section_number": "27",
+      "chapter_number": 4,
+      "statute_id": "829/1999"
+    },
+    {
+      "id": "e7d6fab8-8761-48d1-851a-9e4eb85d509e",
+      "node_type": "Section",
+      "publisher": "finlex",
+      "title": "28 § Tietojen antaminen rajatarkastusviranomaiselle",
+      "text": "Jos Suomen kansalaisella on matkustaessaan oltava passi tai henkilökortti, hänen on lähtiessään maasta ja myös maahan saapuessaan pyynnöstä esitettävä se rajatarkastusviranomaiselle. Suomen kansalainen on velvollinen antamaan rajatarkastusviranomaiselle tämän pyynnöstä tietoja, jotka ovat välttämättömiä matkustusoikeuden toteamiseksi.",
+      "section_number": "28",
+      "chapter_number": 4,
+      "statute_id": "829/1999"
+    },
+    {
+      "id": "993b55b8-c83c-41ee-8b36-3cd2b1e07241",
+      "node_type": "Section",
+      "publisher": "finlex",
+      "title": "29 § Passirekisteri",
+      "text": "Tässä laissa poliisille ja 10 §:n 2 momentissa tarkoitetulle Suomen edustustolle säädettyjen tehtävien suorittamiseksi poliisi pitää rekisteriä passeista ja niihin merkityistä ja talletetuista tiedoista. Poliisin henkilörekistereistä säädetään tarkemmin henkilötietojen käsittelystä poliisitoimessa annetussa laissa (761/2003). Tässä laissa ulkoasiainministeriölle säädettyjen tehtävien suorittamiseksi diplomaatti- ja virkapassirekisteriä pitää ulkoasiainministeriö, joka on myös rekisterinpitäjä. Rekisteriin talletettavien tietojen osalta on voimassa, mitä henkilötietojen käsittelystä poliisitoimessa annetun lain 3 §:n 2 momentissa sekä 3 momentin 2 ja 3 kohdassa säädetään. Tietojen poistamisesta on voimassa, mitä mainitun lain 23 §:n 1 momentin 2 ja 3 kohdassa sekä 2 momentissa säädetään. Henkilötietojen käsittelyyn sovelletaan muutoin henkilötietolakia (523/1999) ja viranomaisten toiminnan julkisuudesta annettua lakia (621/1999).",
+      "section_number": "29",
+      "chapter_number": 5,
+      "statute_id": "829/1999"
+    },
+    {
+      "id": "a1c7885e-c634-4331-95f4-36cafbfe45cf",
+      "node_type": "Section",
+      "publisher": "finlex",
+      "title": "30 § Teknisen osan tietojen tietoturva",
+      "text": "Passin myöntävä viranomainen vastaa siitä, että passia annettaessa sen koneellisesti luettavat tiedot ovat yhdenmukaiset vastaavien passissa visuaalisesti nähtävissä olevien tietojen kanssa. Sisäasiainministeriön tulee huolehtia erityisesti passin koneellisesti luettavien tietojen tietoturvasta. Sisäasiainministeriö vastaa edellä tarkoitetusta tietoturvasta myös sellaisen kolmannen osapuolen osalta, joka ministeriön toimeksiannosta kokonaan tai osittain toteuttaa 1 momentissa tarkoitettujen tietojen tallettamisen. Ulkoasiainministeriö vastaa 2 momentissa säädetyistä seikoista diplomaattipassien ja virkapassien sekä 10 §:ssä tarkoitettujen ulkomaan edustustojen myöntämien passien osalta.",
+      "section_number": "30",
+      "chapter_number": 5,
+      "statute_id": "829/1999"
+    },
+    {
+      "id": "88be73b3-fd45-425b-aa20-cb711f0b5dd0",
+      "node_type": "Section",
+      "publisher": "finlex",
+      "title": "31 § Passin säilyttäminen",
+      "text": "Passinhaltijan on säilytettävä passiaan huolellisesti. Passinhaltija vastaa huolimattomasta säilyttämisestä aiheutuvista seuraamuksista. Passiin ei myöskään saa tehdä mitään omia merkintöjä.",
+      "section_number": "31",
+      "chapter_number": 5,
+      "statute_id": "829/1999"
+    },
+    {
+      "id": "4ca24796-599d-4006-b97c-7cd8db9c7bb6",
+      "node_type": "Section",
+      "publisher": "finlex",
+      "title": "32 § Passin hävittäminen",
+      "text": "Jollei passia ole noudettu vuoden kuluessa passin myöntämispäivästä, se voidaan hävittää. Tällöin myös passin myöntämispäätös raukeaa. Viranomaisen on hävitettävä 19 §:n nojalla sille luovutettu passi sekä 22 §:ssä tarkoitetun viranomaisen 21 §:n nojalla peruuttama passi. Jos 10 §:ssä tarkoitetulle viranomaiselle toimitetaan passi, jonka voimassaoloaika on päättynyt, tämän on hävitettävä se. Tilanteissa, joissa passi peruutetaan muun kuin sen haltijan aloitteesta, passi hävitetään kuitenkin vasta passin peruuttamista koskevan päätöksen lainvoimaiseksi tulon jälkeen, kuitenkin viimeistään sen voimassaoloajan päätyttyä. Sisäasiainministeriöllä on oikeus antaa tarkempia määräyksiä passin hävittämisestä.",
+      "section_number": "32",
+      "chapter_number": 5,
+      "statute_id": "829/1999"
+    },
+    {
+      "id": "53c0f5f0-7ec1-4ee9-afec-46fa7813db36",
+      "node_type": "Section",
+      "publisher": "finlex",
+      "title": "33 § Passinhaltijan nimen tai henkilötunnuksen muutos",
+      "text": "Passinhaltijan on huolehdittava siitä, että käyttäessään passia matkustusoikeuden osoituksena siihen merkityt henkilötiedot vastaavat väestötietojärjestelmään merkittyjä tietoja.",
+      "section_number": "33",
+      "chapter_number": 5,
+      "statute_id": "829/1999"
+    },
+    {
+      "id": "dfd90cd0-ffcb-4bd0-914e-352be7d1e11c",
+      "node_type": "Section",
+      "publisher": "finlex",
+      "title": "34 § Maksu",
+      "text": "Passista peritään valtion maksuperustelaissa (150/1992) säädettyjen perusteiden mukainen maksu.",
+      "section_number": "34",
+      "chapter_number": 5,
+      "statute_id": "829/1999"
+    },
+    {
+      "id": "6a1e5779-43b0-4d36-bb63-3a1714fde54f",
+      "node_type": "Section",
+      "publisher": "finlex",
+      "title": "35 § Merimiespassi",
+      "text": "Merimiespassin hakemisesta, myöntämisestä, peruuttamisesta ja ottamisesta viranomaisen haltuun on voimassa, mitä tässä laissa säädetään passin hakemisesta, myöntämisestä, peruuttamisesta ja viranomaisen haltuun ottamisesta.",
+      "section_number": "35",
+      "chapter_number": 5,
+      "statute_id": "829/1999"
+    },
+    {
+      "id": "a2e0907f-406a-4fea-9d2f-43b6b971d3a7",
+      "node_type": "Section",
+      "publisher": "finlex",
+      "title": "36 § Rikoslain rangaistussäännökset",
+      "text": "Rangaistus valtionrajarikoksesta säädetään rikoslain (39/1889) 17 luvun 7 §:ssä ja lievästä valtionrajarikoksesta 17 luvun 7 a §:ssä.",
+      "section_number": "36",
+      "chapter_number": 5,
+      "statute_id": "829/1999"
+    },
+    {
+      "id": "e3f26af7-e69c-4ff0-b8ea-f8d6dd550a78",
+      "node_type": "Section",
+      "publisher": "finlex",
+      "title": "37 § Muutoksenhaku",
+      "text": "Muutoksen hakemisesta tämän lain nojalla tehtyyn päätökseen on voimassa, mitä hallintolainkäyttölaissa (586/1996) säädetään. Valituksen ulkomaanedustuston päätöksestä käsittelee Helsingin hallinto-oikeus. Edellä 1 momentissa tarkoitettu valitus on käsiteltävä kiireellisenä.",
+      "section_number": "37",
+      "chapter_number": 5,
+      "statute_id": "829/1999"
+    },
+    {
+      "id": "93fafb32-ab4a-46e8-bb24-7d762ad58904",
+      "node_type": "Section",
+      "publisher": "finlex",
+      "title": "38 § Tarkemmat säännökset",
+      "text": "Tarkempia säännöksiä menettelystä passia haettaessa ja annettaessa sekä hakemukseen vaadittavista liitteistä voidaan antaa valtioneuvoston asetuksella. Valtioneuvoston asetuksella voidaan antaa tarkempia säännöksiä diplomaattipassin ja virkapassin myöntämisen edellytyksistä ja rajoituksista. Sisäasiainministeriö vahvistaa passin hakemisessa ja antamisessa käytettävän lomakkeen kaavan sekä päättää passin mallista ja muista sen valmistamiseen liittyvistä seikoista. Diplomaattipassin ja virkapassin hakemisessa ja antamisessa käytettävän lomakkeen vahvistaa kuitenkin ulkoasiainministeriö, joka myös päättää niiden mallista ja muista niiden valmistamiseen liittyvistä seikoista.",
+      "section_number": "38",
+      "chapter_number": 5,
+      "statute_id": "829/1999"
+    },
+    {
+      "id": "73727bf0-5a1e-4e47-bbe1-063da6d9f753",
+      "node_type": "Section",
+      "publisher": "finlex",
+      "title": "39 § Voimaantulo",
+      "text": "Tämä laki tulee voimaan 21 päivänä elokuuta 2006. Tällä lailla kumotaan 22 päivänä elokuuta 1986 annettu passilaki (642/1986) siihen myöhemmin tehtyine muutoksineen. Ennen tämän lain voimaantuloa voidaan ryhtyä sen täytäntöönpanon edellyttämiin toimenpiteisiin.",
+      "section_number": "39",
+      "chapter_number": 5,
+      "statute_id": "829/1999"
+    },
+    {
+      "id": "012ea8a4-f877-43a2-adac-595b673e6082",
+      "node_type": "Section",
+      "publisher": "finlex",
+      "title": "40 § Siirtymäsäännökset",
+      "text": "Ennen tämän lain voimaantuloa toistaiseksi peruutetun passin voimassaolo päättyy tämän lain voimaan tullessa ilman erillistä päätöstä. Tämän lain voimaan tullessa kumottavan passilain nojalla annetut passit ovat voimassa niihin merkittyyn viimeiseen voimassaolopäivään saakka. Jos ennen tämän lain voimaantuloa myönnetyn valmistusvirheellisen passin jäljellä oleva voimassaoloaika on yli viisi vuotta, myönnetään sen tilalle uusi passi kuitenkin vain viideksi vuodeksi.",
+      "section_number": "40",
+      "chapter_number": 5,
+      "statute_id": "829/1999"
+    }
+  ],
+  "clauses": [
+    {
+      "id": "ebb9680e-befd-40e7-9467-1bdbf9e0bbd6",
+      "node_type": "Clause",
+      "publisher": "finlex",
+      "title": "§ 4 mom 1",
+      "text": "1) tasavallan presidentille, eduskunnan puhemiehelle ja varapuhemiehelle, valtioneuvoston jäsenelle ja oikeuskanslerille, korkeimman oikeuden ja korkeimman hallinto-oikeuden presidentille, puolustusvoimain komentajalle sekä evankelisluterilaisen kirkon ja ortodoksisen kirkkokunnan arkkipiispalle;",
+      "clause_number": 1,
+      "section_number": "4",
+      "statute_id": "829/1999"
+    },
+    {
+      "id": "5e4722ca-a3cd-4f07-ad28-045aa6eaf928",
+      "node_type": "Clause",
+      "publisher": "finlex",
+      "title": "§ 4 mom 2",
+      "text": "2) ulkoasiainhallinnon palveluksessa toimivalle henkilölle diplomaattisia tehtäviä varten sekä muulle ulkomaanedustuksessa toimivalle henkilölle vastaavia tehtäviä varten;",
+      "clause_number": 2,
+      "section_number": "4",
+      "statute_id": "829/1999"
+    },
+    {
+      "id": "0d94cb01-acf9-4990-b82d-2a37b91babc6",
+      "node_type": "Clause",
+      "publisher": "finlex",
+      "title": "§ 4 mom 3",
+      "text": "3) erityisen merkittävässä valtiollisessa tehtävässä toimineelle henkilölle;",
+      "clause_number": 3,
+      "section_number": "4",
+      "statute_id": "829/1999"
+    },
+    {
+      "id": "2cee8b3d-305b-460e-9361-45fc7095cc54",
+      "node_type": "Clause",
+      "publisher": "finlex",
+      "title": "§ 4 mom 4",
+      "text": "4) muulle kuin 1―3 kohdassa tarkoitetulle henkilölle, jos diplomaattipassin myöntäminen on tarpeellinen diplomaattiseen tehtävään rinnastettavaa kansainvälistä tehtävää varten;",
+      "clause_number": 4,
+      "section_number": "4",
+      "statute_id": "829/1999"
+    },
+    {
+      "id": "2ef91c5b-247d-46ad-8d18-8b47021869d2",
+      "node_type": "Clause",
+      "publisher": "finlex",
+      "title": "§ 4 mom 5",
+      "text": "5) kohdassa 2 mainittujen ulkoasiainhallinnon palveluksessa olevien henkilöiden puolisolle, alaikäiselle lapselle sekä olosuhteiden sitä edellyttäessä myös 18―20-vuotiaalle lapselle, sekä erityisestä syystä leskelle;",
+      "clause_number": 5,
+      "section_number": "4",
+      "statute_id": "829/1999"
+    },
+    {
+      "id": "ee4ae490-01fa-4e7d-831c-ee07e6893aaf",
+      "node_type": "Clause",
+      "publisher": "finlex",
+      "title": "§ 4 mom 6",
+      "text": "6) erityisestä syystä 1, 3 ja 4 kohdassa tarkoitetun henkilön sekä 2 kohdassa mainitun muun ulkomaanedustuksessa toimivan henkilön puolisolle tai leskelle ja lapselle.",
+      "clause_number": 6,
+      "section_number": "4",
+      "statute_id": "829/1999"
+    },
+    {
+      "id": "b0f4ef98-82c5-4383-9542-5b2c3c222878",
+      "node_type": "Clause",
+      "publisher": "finlex",
+      "title": "§ 8 mom 1",
+      "text": "1) sotilaspassi;",
+      "clause_number": 1,
+      "section_number": "8",
+      "statute_id": "829/1999"
+    },
+    {
+      "id": "4f2f4d4f-3f6c-46d8-b401-ffeb8f422e81",
+      "node_type": "Clause",
+      "publisher": "finlex",
+      "title": "§ 8 mom 2",
+      "text": "2) rauhan ajan palveluksesta vapautetulle annettu kutsuntatodistus tai muu vastaava päätös;",
+      "clause_number": 2,
+      "section_number": "8",
+      "statute_id": "829/1999"
+    },
+    {
+      "id": "77abf313-cdcb-4806-9b28-ff9add52daad",
+      "node_type": "Clause",
+      "publisher": "finlex",
+      "title": "§ 8 mom 3",
+      "text": "3) kokonaan asepalveluksesta vapautetulle annettu kutsuntatodistus;",
+      "clause_number": 3,
+      "section_number": "8",
+      "statute_id": "829/1999"
+    },
+    {
+      "id": "23b0b4ec-82cd-4fe4-a21b-d12f4e0e96ce",
+      "node_type": "Clause",
+      "publisher": "finlex",
+      "title": "§ 8 mom 4",
+      "text": "4) sotilasviranomaisen antama esteettömyystodistus; tai",
+      "clause_number": 4,
+      "section_number": "8",
+      "statute_id": "829/1999"
+    },
+    {
+      "id": "75a42e3f-835b-4a39-8735-f2436d31a3bc",
+      "node_type": "Clause",
+      "publisher": "finlex",
+      "title": "§ 8 mom 5",
+      "text": "5) siviilipalvelustodistus.",
+      "clause_number": 5,
+      "section_number": "8",
+      "statute_id": "829/1999"
+    },
+    {
+      "id": "b868b842-aec4-4d42-a725-577e457292f5",
+      "node_type": "Clause",
+      "publisher": "finlex",
+      "title": "§ 15 mom 1",
+      "text": "1) jos henkilön todennäköisin syin epäillään syyllistyneen rikokseen, josta saattaa seurata vähintään vuoden vankeusrangaistus ja jota koskeva esitutkinta tai syyteharkinta on kesken taikka josta henkilö on syytteessä tai jonka johdosta henkilö on etsintäkuulutettu;",
+      "clause_number": 1,
+      "section_number": "15",
+      "statute_id": "829/1999"
+    },
+    {
+      "id": "1e9dfc6f-61b4-47f1-b29c-0fea9ed73325",
+      "node_type": "Clause",
+      "publisher": "finlex",
+      "title": "§ 15 mom 2",
+      "text": "2) joka on tuomittu ehdottomaan vankeusrangaistukseen eikä ole rangaistusta suorittanut;",
+      "clause_number": 2,
+      "section_number": "15",
+      "statute_id": "829/1999"
+    },
+    {
+      "id": "7d2768be-2ce3-43c4-9fc8-36f48cba360e",
+      "node_type": "Clause",
+      "publisher": "finlex",
+      "title": "§ 15 mom 3",
+      "text": "3) joka on 28 vuotta täyttänyt asevelvollinen, sen vuoden loppuun, jona hän täyttää 30 vuotta, jollei hän osoita, ettei maanpuolustusvelvollisuus ole esteenä passin antamiselle.",
+      "clause_number": 3,
+      "section_number": "15",
+      "statute_id": "829/1999"
+    },
+    {
+      "id": "cc1b2d1a-741b-4acb-8519-23b02cf7097a",
+      "node_type": "Clause",
+      "publisher": "finlex",
+      "title": "§ 21 mom 1",
+      "text": "1) jos sen haltija menettää Suomen kansalaisuuden tai vapautetaan siitä;",
+      "clause_number": 1,
+      "section_number": "21",
+      "statute_id": "829/1999"
+    },
+    {
+      "id": "812d578a-6fc5-4430-ba8e-14d487ca07f2",
+      "node_type": "Clause",
+      "publisher": "finlex",
+      "title": "§ 21 mom 2",
+      "text": "2) jos sen haltija pyytää passin peruuttamista;",
+      "clause_number": 2,
+      "section_number": "21",
+      "statute_id": "829/1999"
+    },
+    {
+      "id": "42824b19-9e1d-43ce-9ac4-6ebddcab8d7f",
+      "node_type": "Clause",
+      "publisher": "finlex",
+      "title": "§ 21 mom 3",
+      "text": "3) jos passinhaltija ilmoittaa sen kadonneeksi tai anastetuksi;",
+      "clause_number": 3,
+      "section_number": "21",
+      "statute_id": "829/1999"
+    },
+    {
+      "id": "29c7b44d-eec0-46ee-8cc6-c43068023a82",
+      "node_type": "Clause",
+      "publisher": "finlex",
+      "title": "§ 21 mom 4",
+      "text": "4) jos viranomaisten tietoon on tullut, että passinhaltija on kuollut;",
+      "clause_number": 4,
+      "section_number": "21",
+      "statute_id": "829/1999"
+    },
+    {
+      "id": "9c5af842-95ff-44fa-86dc-84d763e3c76a",
+      "node_type": "Clause",
+      "publisher": "finlex",
+      "title": "§ 21 mom 1",
+      "text": "5) jos sosiaalilautakunta tai huoltaja on peruuttanut 7 §:n 1 momentissa tarkoitetun suostumuksensa; jos huoltaja peruu 7 §:n 1 momentissa tarkoitetun suostumuksensa, passi voidaan jättää peruuttamatta, jos peruuttaminen olisi selvästi vastoin lapsen etua ja jos voidaan pitää ilmeisenä, ettei lasta vastoin huoltajan suostumusta muutoin kuin tilapäisesti viedä toiseen valtioon; sosiaalihuoltolain 6 §:n 1 momentissa tarkoitetun toimielimen velvollisuudesta antaa lausuntonsa lapsen edusta passin peruuttamatta jättämistä koskevassa asiassa noudatetaan, mitä tämän lain 11 §:n 3 momentissa säädetään;",
+      "clause_number": 1,
+      "section_number": "21",
+      "statute_id": "829/1999"
+    },
+    {
+      "id": "07f23125-73ab-465e-a792-aa779626da64",
+      "node_type": "Clause",
+      "publisher": "finlex",
+      "title": "§ 21 mom 5",
+      "text": "5) jos sosiaalilautakunta tai huoltaja on peruuttanut 7 §:n 1 momentissa tarkoitetun suostumuksensa; jos huoltaja peruu 7 §:n 1 momentissa tarkoitetun suostumuksensa, passi voidaan jättää peruuttamatta, jos peruuttaminen olisi selvästi vastoin lapsen etua ja jos voidaan pitää ilmeisenä, ettei lasta vastoin huoltajan suostumusta muutoin kuin tilapäisesti viedä toiseen valtioon; sosiaalihuoltolain 6 §:n 1 momentissa tarkoitetun toimielimen velvollisuudesta antaa lausuntonsa lapsen edusta passin peruuttamatta jättämistä koskevassa asiassa noudatetaan, mitä tämän lain 11 §:n 3 momentissa säädetään;",
+      "clause_number": 5,
+      "section_number": "21",
+      "statute_id": "829/1999"
+    },
+    {
+      "id": "6cc95da7-8dcd-40bc-ac61-a7c055bce44c",
+      "node_type": "Clause",
+      "publisher": "finlex",
+      "title": "§ 21 mom 6",
+      "text": "6) jos sosiaalilautakunta vaatii sen huostaan otetun alaikäisen osalta passin peruuttamista; tai",
+      "clause_number": 6,
+      "section_number": "21",
+      "statute_id": "829/1999"
+    },
+    {
+      "id": "9e34ce6c-72dc-4cc6-a7ac-c40dd1d6f266",
+      "node_type": "Clause",
+      "publisher": "finlex",
+      "title": "§ 21 mom 3",
+      "text": "7) jos Väestörekisterikeskus on erityisestä syystä peruuttanut 5 §:n 3 momentissa tarkoitetun varmenteen.",
+      "clause_number": 3,
+      "section_number": "21",
+      "statute_id": "829/1999"
+    },
+    {
+      "id": "9378e8dd-9409-44a1-b674-9154c559ac13",
+      "node_type": "Clause",
+      "publisher": "finlex",
+      "title": "§ 21 mom 7",
+      "text": "7) jos Väestörekisterikeskus on erityisestä syystä peruuttanut 5 §:n 3 momentissa tarkoitetun varmenteen.",
+      "clause_number": 7,
+      "section_number": "21",
+      "statute_id": "829/1999"
+    },
+    {
+      "id": "86959ab4-09bf-40b3-a913-ffe6d9cf3911",
+      "node_type": "Clause",
+      "publisher": "finlex",
+      "title": "§ 21 mom 1",
+      "text": "1) jos passi sisältää ilmeisen virheellisyyden;",
+      "clause_number": 1,
+      "section_number": "21",
+      "statute_id": "829/1999"
+    },
+    {
+      "id": "c2414c02-f83f-46d4-9b52-321286f387cc",
+      "node_type": "Clause",
+      "publisher": "finlex",
+      "title": "§ 21 mom 2",
+      "text": "2) jos se on turmeltunut tai sen merkintöjä on muutettu taikka siinä on muita kuin viranomaisen merkintöjä;",
+      "clause_number": 2,
+      "section_number": "21",
+      "statute_id": "829/1999"
+    },
+    {
+      "id": "fa2ffcd7-95fe-4209-b891-206a946fbd6d",
+      "node_type": "Clause",
+      "publisher": "finlex",
+      "title": "§ 21 mom 3",
+      "text": "3) jos sen myöntämisen jälkeen on tullut esiin seikkoja, jotka passin myöntämistä harkittaessa todennäköisesti johtaisivat 15 §:n nojalla passin epäämiseen; tai",
+      "clause_number": 3,
+      "section_number": "21",
+      "statute_id": "829/1999"
+    },
+    {
+      "id": "42c1ffce-fed5-4530-9655-9ece514a14f9",
+      "node_type": "Clause",
+      "publisher": "finlex",
+      "title": "§ 21 mom 4",
+      "text": "4) jos sitä käyttää muu kuin se, jolle passi on myönnetty.",
+      "clause_number": 4,
+      "section_number": "21",
+      "statute_id": "829/1999"
+    }
+  ],
+  "cross_references": [],
+  "raw_html_path": "C:\\Users\\danit\\finance-hack\\aalto-hackaton-2026\\data\\raw\\finlex\\Laki (säädöskokoelma)\\Passilaki.html"
+}

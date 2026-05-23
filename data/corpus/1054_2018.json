@@ -1,0 +1,848 @@
+{
+  "statute": {
+    "id": "3aab8619-e45c-4d76-accb-b4416a377329",
+    "node_type": "Statute",
+    "publisher": "finlex",
+    "title": "Tietosuojalaki",
+    "text": "Tietosuojalaki",
+    "statute_id": "1054/2018",
+    "finlex_url": "https://finlex.fi/fi/laki/ajantasa/1054/2018"
+  },
+  "chapters": [
+    {
+      "id": "00b7b8da-d7d8-4bd2-8510-cc19702d360c",
+      "node_type": "Chapter",
+      "publisher": "finlex",
+      "title": "Chapter 1",
+      "text": "1 luku Yleiset säännökset",
+      "chapter_number": 1,
+      "statute_id": "1054/2018"
+    },
+    {
+      "id": "288ca358-c7db-4853-9b1c-01e7c7c5ba93",
+      "node_type": "Chapter",
+      "publisher": "finlex",
+      "title": "Chapter 2",
+      "text": "2 luku Käsittelyn oikeusperuste eräissä tapauksissa",
+      "chapter_number": 2,
+      "statute_id": "1054/2018"
+    },
+    {
+      "id": "047261bd-c435-4522-b5ca-1d2475c96da8",
+      "node_type": "Chapter",
+      "publisher": "finlex",
+      "title": "Chapter 3",
+      "text": "3 luku Valvontaviranomainen",
+      "chapter_number": 3,
+      "statute_id": "1054/2018"
+    },
+    {
+      "id": "1767fd5c-dcb1-42fa-9e05-af47a7caa759",
+      "node_type": "Chapter",
+      "publisher": "finlex",
+      "title": "Chapter 4",
+      "text": "4 luku Oikeusturva ja seuraamukset",
+      "chapter_number": 4,
+      "statute_id": "1054/2018"
+    },
+    {
+      "id": "d067bf80-68b2-4fe6-898f-eba302cf7002",
+      "node_type": "Chapter",
+      "publisher": "finlex",
+      "title": "Chapter 5",
+      "text": "5 luku Tietojenkäsittelyn erityistilanteet",
+      "chapter_number": 5,
+      "statute_id": "1054/2018"
+    },
+    {
+      "id": "ac742c72-16fe-44b3-9da4-001217457775",
+      "node_type": "Chapter",
+      "publisher": "finlex",
+      "title": "Chapter 6",
+      "text": "6 luku Erinäiset säännökset",
+      "chapter_number": 6,
+      "statute_id": "1054/2018"
+    }
+  ],
+  "sections": [
+    {
+      "id": "fae9be99-9940-4ab7-b3ea-a85007434540",
+      "node_type": "Section",
+      "publisher": "finlex",
+      "title": "1 § Lain tarkoitus",
+      "text": "Tällä lailla täsmennetään ja täydennetään luonnollisten henkilöiden suojelusta henkilötietojen käsittelyssä sekä näiden tietojen vapaasta liikkuvuudesta ja direktiivin 95/46/EY kumoamisesta annettua Euroopan parlamentin ja neuvoston asetusta (EU) 2016/679 (yleinen tietosuoja-asetus), jäljempänätietosuoja-asetus, ja sen kansallista soveltamista.",
+      "section_number": "1",
+      "chapter_number": 1,
+      "statute_id": "1054/2018"
+    },
+    {
+      "id": "5e849559-edb4-466d-88c2-1d2f2704105c",
+      "node_type": "Section",
+      "publisher": "finlex",
+      "title": "2 § Soveltamisala",
+      "text": "Tätä lakia sovelletaan tietosuoja-asetuksen 2 artiklan soveltamisalan mukaisesti. Tätä lakia ja tietosuoja-asetusta sovelletaan lisäksi, lukuun ottamatta asetuksen 56 artiklaa ja VII lukua, sellaiseen henkilötietojen käsittelyyn, jota suoritetaan mainitun 2 artiklan 2 kohdan a ja b alakohdassa tarkoitetun toiminnan yhteydessä, jollei muualla laissa toisin säädetä. Tätä lakia ei sovelleta eduskunnan valtiopäivätoimintaan. Tätä lakia ei sovelleta sellaiseen henkilötietojen käsittelyyn, josta säädetään henkilötietojen käsittelystä rikosasioissa ja kansallisen turvallisuuden ylläpitämisen yhteydessä annetussa laissa (1054/2018).",
+      "section_number": "2",
+      "chapter_number": 1,
+      "statute_id": "1054/2018"
+    },
+    {
+      "id": "9bc3d19b-ddbd-4cde-9460-c2c520d16f95",
+      "node_type": "Section",
+      "publisher": "finlex",
+      "title": "3 § Sovellettava laki",
+      "text": "Henkilötietojen käsittelyyn, joka tapahtuu Euroopan unionin alueella sijaitsevaan rekisterinpitäjän tai henkilötietojen käsittelijän toimipaikkaan liittyvän toiminnan yhteydessä, sovelletaan Suomen lakia, jos rekisterinpitäjän toimipaikka sijaitsee Suomessa. Jos henkilötietojen käsittelyyn sovelletaan vieraan valtion lakia ja sen nojalla poiketaan tietosuoja-asetuksen 89 artiklan 2 kohdan mukaisesti rekisteröidyn suojaksi säädetyistä oikeuksista, jäljempänä 31 §:ssä rekisteröidyn suojaksi säädettyjä suojatoimia on kuitenkin noudatettava lainvalinnasta riippumatta.",
+      "section_number": "3",
+      "chapter_number": 1,
+      "statute_id": "1054/2018"
+    },
+    {
+      "id": "38ab74f2-e087-4798-8f05-65bdcceaaacb",
+      "node_type": "Section",
+      "publisher": "finlex",
+      "title": "4 § Käsittelyn lainmukaisuus",
+      "text": "Henkilötietoja saa käsitellä tietosuoja-asetuksen 6 artiklan 1 kohdan e alakohdan mukaisesti, jos:",
+      "section_number": "4",
+      "chapter_number": 2,
+      "statute_id": "1054/2018"
+    },
+    {
+      "id": "1028de88-bda6-48b6-ac18-0d2038180d74",
+      "node_type": "Section",
+      "publisher": "finlex",
+      "title": "5 § Tietoyhteiskunnan palvelujen tarjoamiseen lapselle sovellettava ikäraja",
+      "text": "Kun henkilötietoja käsitellään tietosuoja-asetuksen 6 artiklan 1 kohdan a alakohdassa tarkoitetun suostumuksen perusteella ja kyseessä on tietosuoja-asetuksen 4 artiklan 25 kohdassa tarkoitettujen tietoyhteiskunnan palvelujen tarjoaminen suoraan lapselle, lapsen henkilötietojen käsittely on lainmukaista, jos lapsi on vähintään 13-vuotias.",
+      "section_number": "5",
+      "chapter_number": 2,
+      "statute_id": "1054/2018"
+    },
+    {
+      "id": "346b122f-fcd6-4e7c-8fe3-ad2ead18e5b9",
+      "node_type": "Section",
+      "publisher": "finlex",
+      "title": "6 § Erityisiä henkilötietoryhmiä koskeva käsittely",
+      "text": "Tietosuoja-asetuksen 9 artiklan 1 kohtaa ei sovelleta: Käsiteltäessä henkilötietoja 1 momentissa tarkoitetussa tilanteessa rekisterinpitäjän ja henkilötietojen käsittelijän on toteutettava asianmukaiset ja erityiset toimenpiteet rekisteröidyn oikeuksien suojaamiseksi. Näitä toimenpiteitä ovat:",
+      "section_number": "6",
+      "chapter_number": 2,
+      "statute_id": "1054/2018"
+    },
+    {
+      "id": "49da80a4-47be-4bbf-8c63-7809a820859c",
+      "node_type": "Section",
+      "publisher": "finlex",
+      "title": "7 § Rikostuomioihin ja rikkomuksiin liittyvä käsittely",
+      "text": "Tietosuoja-asetuksen 10 artiklassa tarkoitettuihin rikostuomioihin ja rikkomuksiin tai niihin liittyviin turvaamistoimiin liittyviä henkilötietoja saa käsitellä, jos: Mitä 6 §:n 2 momentissa säädetään toimenpiteistä rekisteröidyn oikeuksien suojaamiseksi, sovelletaan myös käsiteltäessä tämän pykälän 1 momentissa tarkoitettuja henkilötietoja.",
+      "section_number": "7",
+      "chapter_number": 2,
+      "statute_id": "1054/2018"
+    },
+    {
+      "id": "fe1516c4-ad67-42f5-b7bb-b85acb70c18c",
+      "node_type": "Section",
+      "publisher": "finlex",
+      "title": "8 § Tietosuojavaltuutettu",
+      "text": "Tietosuoja-asetuksessa tarkoitettuna kansallisena valvontaviranomaisena oikeusministeriön yhteydessä on tietosuojavaltuutettu. Tietosuojavaltuutettu on toiminnassaan itsenäinen ja riippumaton.",
+      "section_number": "8",
+      "chapter_number": 3,
+      "statute_id": "1054/2018"
+    },
+    {
+      "id": "3fb0f340-1ce5-4e78-83ce-c3252b8705b9",
+      "node_type": "Section",
+      "publisher": "finlex",
+      "title": "9 § Tietosuojavaltuutetun toimisto",
+      "text": "Tietosuojavaltuutetulla on toimisto, jossa on vähintään kaksi apulaistietosuojavaltuutettua sekä tarpeellinen määrä tietosuojavaltuutetun tehtäväalaan perehtyneitä esittelijöitä ja muuta henkilöstöä. Tietosuojavaltuutettu nimittää toimiston virkamiehet ja ottaa palvelukseen toimiston muun henkilöstön. Tietosuojavaltuutettu hyväksyy toimiston työjärjestyksen.",
+      "section_number": "9",
+      "chapter_number": 3,
+      "statute_id": "1054/2018"
+    },
+    {
+      "id": "71cd5c06-1c03-420d-8f79-fc2b86eb5410",
+      "node_type": "Section",
+      "publisher": "finlex",
+      "title": "10 § Kelpoisuusvaatimukset ja nimitysperusteet",
+      "text": "Tietosuojavaltuutetun ja apulaistietosuojavaltuutetun kelpoisuusvaatimuksena on muu oikeustieteen ylempi korkeakoulututkinto kuin kansainvälisen ja vertailevan oikeustieteen maisterin tutkinto, hyvä perehtyneisyys henkilötietojen suojaa koskeviin asioihin sekä käytännössä osoitettu johtamistaito. Lisäksi edellytetään kykyä hoitaa kansainvälisiä tehtäviä.",
+      "section_number": "10",
+      "chapter_number": 3,
+      "statute_id": "1054/2018"
+    },
+    {
+      "id": "1d583f92-e8f1-473c-b8db-e6418f7870bb",
+      "node_type": "Section",
+      "publisher": "finlex",
+      "title": "11 § Nimittäminen ja toimikausi",
+      "text": "Tietosuojavaltuutetun ja apulaistietosuojavaltuutetun nimittää valtioneuvosto viideksi vuodeksi kerrallaan. Tietosuojavaltuutetuksi ja apulaistietosuojavaltuutetuksi nimitetty vapautuu hoitamasta muuta virkaa siksi ajaksi, jona hän toimii tietosuojavaltuutettuna tai apulaistietosuojavaltuutettuna.",
+      "section_number": "11",
+      "chapter_number": 3,
+      "statute_id": "1054/2018"
+    },
+    {
+      "id": "cc98d72f-7e09-47bf-a233-bb9081b3b041",
+      "node_type": "Section",
+      "publisher": "finlex",
+      "title": "12 § Asiantuntijalautakunta",
+      "text": "Tietosuojavaltuutetun toimistossa on asiantuntijalautakunta, johon kuuluu puheenjohtaja, varapuheenjohtaja ja kolme muuta jäsentä. Kullakin heistä on henkilökohtainen varajäsen. Valtioneuvosto asettaa lautakunnan kolmen vuoden toimikaudeksi. Lautakunnan puheenjohtajan ja varapuheenjohtajan on oltava oikeustieteen muun ylemmän korkeakoulututkinnon kuin kansainvälisen ja vertailevan oikeustieteen maisterin tutkinnon suorittanut henkilö, jolla on hyvä perehtyneisyys henkilötietojen suojaa koskeviin asioihin ja muu tehtävän hoidon edellyttämä pätevyys. Lautakunnan muulta jäseneltä edellytetään perehtyneisyyttä henkilötietojen suojaa koskeviin asioihin ja tehtävän hoidon edellyttämää muuta pätevyyttä. Lautakunnan jäseneen sovelletaan rikosoikeudellista virkavastuuta koskevia säännöksiä hänen hoitaessaan tässä laissa tarkoitettuja tehtäviä. Vahingonkorvausvastuusta säädetään vahingonkorvauslaissa (412/1974). Lautakunnan jäsenille ja varajäsenille maksetaan tehtävästään palkkio. Oikeusministeriö vahvistaa palkkioiden määrät.",
+      "section_number": "12",
+      "chapter_number": 3,
+      "statute_id": "1054/2018"
+    },
+    {
+      "id": "5e06bb53-f33f-450c-a645-27ac017488f7",
+      "node_type": "Section",
+      "publisher": "finlex",
+      "title": "13 § Selvitys sidonnaisuuksista",
+      "text": "Tietosuojavaltuutetun ja apulaistietosuojavaltuutetun on annettava valtion virkamieslain (750/1994) 8 a §:ssä tarkoitettu selvitys sidonnaisuuksistaan.",
+      "section_number": "13",
+      "chapter_number": 3,
+      "statute_id": "1054/2018"
+    },
+    {
+      "id": "14c4edc7-9027-4e97-90da-f2ab6553f9a2",
+      "node_type": "Section",
+      "publisher": "finlex",
+      "title": "14 § Tietosuojavaltuutetun tehtävät ja toimivaltuudet",
+      "text": "Tietosuojavaltuutetun   tehtävistä   ja   toimivaltuuksista   säädetään tietosuoja-asetuksen 55–59 artiklassa. Tietosuojavaltuutetulla on myös muita tässä tai muussa laissa säädettyjä tehtäviä ja toimivaltuuksia. Tietosuojavaltuutettu ei valvo valtioneuvoston oikeuskanslerin eikä eduskunnan oikeusasiamiehen toimintaa. Tietosuojavaltuutettu edustaa Suomea Euroopan tietosuojaneuvostossa. Tietosuojavaltuutettu akkreditoi tietosuoja-asetuksen 43 artiklassa tarkoitetun sertifiointielimen. Tietosuojavaltuutettu laatii vuosittain tietosuoja-asetuksen 59 artiklassa tarkoitetun toimintakertomuksen, joka toimitetaan eduskunnalle ja valtioneuvostolle. Toimintakertomus on pidettävä yleisesti saatavilla.",
+      "section_number": "14",
+      "chapter_number": 3,
+      "statute_id": "1054/2018"
+    },
+    {
+      "id": "4a0a7369-bc18-49c7-a5dd-5c8d00a1038e",
+      "node_type": "Section",
+      "publisher": "finlex",
+      "title": "15 § Tietosuojavaltuutetun päätöksenteko",
+      "text": "Tietosuojavaltuutettu ratkaisee asiat esittelystä, jollei hän yksittäistapauksessa toisin päätä.",
+      "section_number": "15",
+      "chapter_number": 3,
+      "statute_id": "1054/2018"
+    },
+    {
+      "id": "cc0be13e-065c-4b00-a66b-44f1ff477978",
+      "node_type": "Section",
+      "publisher": "finlex",
+      "title": "16 § Apulaistietosuojavaltuutetun tehtävät ja toimivaltuudet",
+      "text": "Tietosuojavaltuutetun ja apulaistietosuojavaltuutetun välisestä tehtävien jaosta määrätään tietosuojavaltuutetun toimiston työjärjestyksessä. Apulaistietosuojavaltuutetulla on tehtäviensä hoidossa samat toimivaltuudet kuin tietosuojavaltuutetulla.",
+      "section_number": "16",
+      "chapter_number": 3,
+      "statute_id": "1054/2018"
+    },
+    {
+      "id": "d49c9abc-bf01-46f3-a4dc-f4eba0c93a10",
+      "node_type": "Section",
+      "publisher": "finlex",
+      "title": "17 § Asiantuntijalautakunnan tehtävät ja asioiden käsittely",
+      "text": "Asiantuntijalautakunnan tehtävänä on tietosuojavaltuutetun pyynnöstä antaa lausuntoja henkilötietojen käsittelyä koskevan lainsäädännön soveltamiseen liittyvistä merkittävistä kysymyksistä. Lautakunta voi kuulla ulkopuolisia asiantuntijoita. Lautakunnan sihteerinä toimii tietosuojavaltuutetun toimiston esittelijä.",
+      "section_number": "17",
+      "chapter_number": 3,
+      "statute_id": "1054/2018"
+    },
+    {
+      "id": "3652c7d7-5e13-4c7d-aef6-25fd6bfdc2d1",
+      "node_type": "Section",
+      "publisher": "finlex",
+      "title": "18 § Tietosuojavaltuutetun tiedonsaanti- ja tarkastusoikeus",
+      "text": "Sen lisäksi, mitä tietosuoja-asetuksen 58 artiklan 1 kohdassa säädetään valvontaviranomaisen tiedonsaanti- ja tarkastusoikeudesta, tietosuojavaltuutetulla on oikeus salassapitosäännösten estämättä saada maksutta tehtäviensä hoidon kannalta tarpeelliset tiedot. Pysyväisluonteiseen asumiseen käytetyssä tilassa tarkastuksen saa toimittaa vain, jos se on välttämätöntä tarkastuksen kohteena olevien seikkojen selvittämiseksi ja kyseessä olevassa tapauksessa on olemassa perusteltu ja yksilöity syy epäillä henkilötietojen käsittelyä koskevia säännöksiä rikotun tai rikottavan tavalla, josta voi olla seuraamuksena hallinnollinen seuraamusmaksu tai rikoslaissa (39/1889) säädetty rangaistus.",
+      "section_number": "18",
+      "chapter_number": 3,
+      "statute_id": "1054/2018"
+    },
+    {
+      "id": "24fc24bd-3375-4160-82da-d85c76ea9ea8",
+      "node_type": "Section",
+      "publisher": "finlex",
+      "title": "19 § Asiantuntijoiden käyttö",
+      "text": "Tietosuojavaltuutettu voi kuulla ulkopuolisia asiantuntijoita sekä pyytää näiltä lausuntoja. Tietosuojavaltuutettu voi käyttää toimivaltaansa kuuluvan tarkastuksen suorittamisessa apunaan ulkopuolisia asiantuntijoita. Asiantuntijaan sovelletaan rikosoikeudellista virkavastuuta koskevia säännöksiä hänen suorittaessaan tällaisia tehtäviä. Vahingonkorvausvastuusta säädetään vahingonkorvauslaissa.",
+      "section_number": "19",
+      "chapter_number": 3,
+      "statute_id": "1054/2018"
+    },
+    {
+      "id": "93217c1e-2dd6-4a52-b358-c4ede2bc83dc",
+      "node_type": "Section",
+      "publisher": "finlex",
+      "title": "20 § Virka-apu",
+      "text": "Tietosuojavaltuutetulla on oikeus tehtäviensä suorittamiseksi saada pyynnöstä poliisilta virka-apua.",
+      "section_number": "20",
+      "chapter_number": 3,
+      "statute_id": "1054/2018"
+    },
+    {
+      "id": "4474821e-b482-41c6-aefd-c8b5d9b8dacb",
+      "node_type": "Section",
+      "publisher": "finlex",
+      "title": "21 § Oikeus saattaa asia tietosuojavaltuutetun käsiteltäväksi",
+      "text": "Rekisteröidyllä on oikeus saattaa asia tietosuojavaltuutetun käsiteltäväksi, jos rekisteröity katsoo, että häntä koskevien henkilötietojen käsittelyssä rikotaan sitä koskevaa lainsäädäntöä. Tietosuojavaltuutettu voi keskeyttää asian käsittelyn, jos siihen liittyvä asia on vireillä tuomioistuimessa.",
+      "section_number": "21",
+      "chapter_number": 4,
+      "statute_id": "1054/2018"
+    },
+    {
+      "id": "b4ec0082-39af-4d6d-8894-8a515589b735",
+      "node_type": "Section",
+      "publisher": "finlex",
+      "title": "22 § Uhkasakko",
+      "text": "Tietosuojavaltuutettu voi asettaa tietosuoja-asetuksen 58 artiklan 2 kohdan c–g ja j alakohdassa tarkoitetun päätöksen ja tämän lain 18 §:n 1 momenttiin perustuvan tietojen luovuttamista koskevan määräyksen tehosteeksi uhkasakon. Uhkasakon asettamisesta ja tuomitsemisesta maksettavaksi säädetään uhkasakkolaissa (1113/1990). Uhkasakkoa ei saa asettaa luonnolliselle henkilölle 1 momentissa tarkoitetun tietojen luovuttamista koskevan määräyksen tehosteeksi silloin, kun henkilöä on aihetta epäillä rikoksesta ja tiedot koskevat rikosepäilyn kohteena olevaa asiaa.",
+      "section_number": "22",
+      "chapter_number": 4,
+      "statute_id": "1054/2018"
+    },
+    {
+      "id": "ee966be0-52cc-4654-9da5-280d1182f37e",
+      "node_type": "Section",
+      "publisher": "finlex",
+      "title": "23 § Komission päätökset",
+      "text": "Jos tietosuojavaltuutettu katsoo sillä vireillä olevassa asiassa tarpeelliseksi selvittää, onko tietosuoja-asetuksen 45 artiklassa tarkoitettu Euroopan komission päätös tietosuojan tason riittävyydestä tietosuoja-asetuksen mukainen, tietosuojavaltuutettu voi hakemuksella saattaa ennakkoratkaisun pyytämistä koskevan asian Helsingin hallinto-oikeuden ratkaistavaksi. Hallinto-oikeuden päätökseen saa hakea muutosta valittamalla vain, jos korkein hallinto-oikeus myöntää valitusluvan.",
+      "section_number": "23",
+      "chapter_number": 4,
+      "statute_id": "1054/2018"
+    },
+    {
+      "id": "0741b8a9-07bc-4d60-84d9-b72e68603dc1",
+      "node_type": "Section",
+      "publisher": "finlex",
+      "title": "24 § Hallinnollinen seuraamusmaksu",
+      "text": "Tietosuoja-asetuksen 83 artiklassa säädetyn hallinnollisen sakon (hallinnollinen seuraamusmaksu) määrää tietosuojavaltuutetun ja apulaistietosuojavaltuutettujen yhdessä muodostama seuraamuskollegio. Tietosuojavaltuutettu toimii kollegion puheenjohtajana. Apulaistietosuojavaltuutetun ollessa estynyt voi hänen sijaisenaan seuraamuskollegiossa toimia tietosuojavaltuutetun toimiston työjärjestyksessä määrätty esittelijä. Kollegio on päätösvaltainen kolmijäsenisenä. Kollegion päätös tehdään esittelystä. Päätökseksi tulee se kanta, jota enemmistö on kannattanut. Äänten mennessä tasan päätökseksi tulee se kanta, joka on lievempi sille, johon seuraamus kohdistuu. Seuraamusmaksu voidaan määrätä myös tietosuoja-asetuksen 10 artiklan rikkomisesta noudattaen, mitä tietosuoja-asetuksen 83 artiklan 5 kohdassa ja tässä laissa säädetään. Seuraamusmaksua ei voida määrätä valtion viranomaisille, valtion liikelaitoksille, kunnallisille viranomaisille, itsenäisille julkisoikeudellisille laitoksille, eduskunnan virastoille, tasavallan presidentin kanslialle eikä Suomen evankelis-luterilaiselle kirkolle ja Suomen ortodoksiselle kirkolle eikä niiden seurakunnille, seurakuntayhtymille ja muille elimille. Seuraamusmaksua ei saa määrätä, jos on kulunut yli kymmenen vuotta siitä, kun rikkomus tai laiminlyönti on tapahtunut. Jos rikkomus tai laiminlyönti on ollut luonteeltaan jatkuvaa, kymmenen vuoden määräaika lasketaan siitä, kun rikkomus tai laiminlyönti on päättynyt. Seuraamusmaksun täytäntöönpanosta säädetään sakon täytäntöönpanosta annetussa laissa (672/2002). Seuraamusmaksu vanhenee viiden vuoden kuluttua sen määräämispäivästä.",
+      "section_number": "24",
+      "chapter_number": 4,
+      "statute_id": "1054/2018"
+    },
+    {
+      "id": "220038a0-0ea7-4d52-b4ff-6bff1fd7a6eb",
+      "node_type": "Section",
+      "publisher": "finlex",
+      "title": "25 § Muutoksenhaku",
+      "text": "Tietosuojavaltuutetun ja apulaistietosuojavaltuutetun päätökseen sekä 24 §:n 1 momentissa säädettyyn päätökseen saa hakea muutosta valittamalla hallinto-oikeuteen siten kuin hallintolainkäyttölaissa (586/1996) säädetään. Hallinto-oikeuden päätökseen saa hakea muutosta valittamalla vain, jos korkein hallinto-oikeus myöntää valitusluvan. Myös tietosuojavaltuutettu saa hakea muutosta hallinto-oikeuden päätökseen. Tietosuojavaltuutetun tai apulaistietosuojavaltuutetun päätöksessä voidaan määrätä, että päätöstä on noudatettava muutoksenhausta huolimatta, jollei valitusviranomainen toisin määrää.",
+      "section_number": "25",
+      "chapter_number": 4,
+      "statute_id": "1054/2018"
+    },
+    {
+      "id": "069e8d8d-0bfd-4d12-8864-92817a60eb01",
+      "node_type": "Section",
+      "publisher": "finlex",
+      "title": "26 § Rangaistussäännökset",
+      "text": "Rangaistus tietosuojarikoksesta säädetään rikoslain 38 luvun 9 §:ssä. Rangaistus viestintäsalaisuuden loukkauksesta ja törkeästä viestintäsalaisuuden loukkauksesta säädetään rikoslain 38 luvun 3 ja 4 §:ssä sekä rangaistus tietomurrosta ja törkeästä tietomurrosta 38 luvun 8 ja 8 a §:ssä. Rangaistus tämän lain 35 §:ssä säädetyn vaitiolovelvollisuuden ja 36 §:ssä säädetyn salassapitovelvollisuuden rikkomisesta tuomitaan rikoslain 38 luvun 1 tai 2 §:n mukaan, jollei teko ole rangaistava rikoslain 40 luvun 5 §:n mukaan tai siitä muualla laissa säädetä ankarampaa rangaistusta. Rikoslain 38 luvun 10 §:n 3 momentissa säädetään syyttäjän velvollisuudesta kuulla tietosuojavaltuutettua ennen tämän pykälän 1 momentissa mainittuja rikoksia koskevan syytteen nostamista samoin kuin tuomioistuimen velvollisuudesta varata tällaista asiaa käsitellessään tietosuojavaltuutetulle tilaisuus tulla kuulluksi.",
+      "section_number": "26",
+      "chapter_number": 4,
+      "statute_id": "1054/2018"
+    },
+    {
+      "id": "59bdd5fb-742e-4645-a335-38efc50c4103",
+      "node_type": "Section",
+      "publisher": "finlex",
+      "title": "27 § Henkilötietojen käsittely journalistisen, akateemisen, taiteellisen tai kirjallisen ilmaisun tarkoituksia varten",
+      "text": "Sananvapauden ja tiedonvälityksen vapauden turvaamiseksi henkilötietojen käsittelyyn ainoastaan journalistisia tarkoituksia varten tai akateemisen, taiteellisen tai kirjallisen ilmaisun tarkoituksia varten ei sovelleta tietosuoja-asetuksen 5 artiklan 1 kohdan c–e alakohtaa, 6  ja  7 artiklaa,  9  ja  10 artiklaa, 11 artiklan 2 kohtaa, 12–22 artiklaa, 30 artiklaa, 34 artiklan 1–3 kohtaa, 35 ja 36 artiklaa, 56 artiklaa, 58 artiklan 2 kohdan f alakohtaa, 60–63 artiklaa ja 65–67 artiklaa. Tietosuoja-asetuksen 27 artiklaa ei sovelleta sellaiseen henkilötietojen käsittelyyn, joka liittyy sananvapauden käyttämisestä joukkoviestinnässä annetussa laissa (460/2003) säädettyyn toimintaan. Tietosuoja-asetuksen 44–50 artiklaa ei sovelleta, jos soveltaminen loukkaisi oikeutta sananvapauteen tai tiedonvälityksen vapauteen. Sananvapauden ja tiedonvälityksen vapauden turvaamiseksi henkilötietojen käsittelyyn ainoastaan journalistisia tarkoituksia varten tai akateemisen, taiteellisen tai kirjallisen ilmaisun tarkoituksia varten sovelletaan tietosuoja-asetuksen 5 artiklan 1 kohdan a ja b alakohtaa ja 2 kohtaa, 24–26 artiklaa, 31 artiklaa, 39 ja 40 artiklaa, 42 artiklaa, 57 ja 58 artiklaa, 64 artiklaa ja 70 artiklaa ainoastaan soveltuvin osin.",
+      "section_number": "27",
+      "chapter_number": 5,
+      "statute_id": "1054/2018"
+    },
+    {
+      "id": "4293a074-c1c7-45b2-9bb1-f9bc282a073b",
+      "node_type": "Section",
+      "publisher": "finlex",
+      "title": "28 § Julkisuusperiaate",
+      "text": "Oikeuteen saada tieto ja muuhun henkilötietojen luovuttamiseen viranomaisen henkilörekisteristä sovelletaan, mitä viranomaisten toiminnan julkisuudesta säädetään.",
+      "section_number": "28",
+      "chapter_number": 5,
+      "statute_id": "1054/2018"
+    },
+    {
+      "id": "1b41eaa3-b5e3-4c0c-aba0-99be6e99ad93",
+      "node_type": "Section",
+      "publisher": "finlex",
+      "title": "29 § Henkilötunnuksen käsittely",
+      "text": "Henkilötunnusta saa käsitellä rekisteröidyn suostumuksella tai, jos käsittelystä säädetään laissa. Lisäksi henkilötunnusta saa käsitellä, jos rekisteröidyn yksiselitteinen yksilöiminen on tärkeää: Henkilötunnusta saa käsitellä luotonannossa tai saatavan perimisessä, vakuutus-, luottolaitos-, maksupalvelu-, vuokraus- ja lainaustoiminnassa, luottotietotoiminnassa, terveydenhuollossa, sosiaalihuollossa ja muun sosiaaliturvan toteuttamisessa tai virka-, työ- ja muita palvelussuhteita ja niihin liittyviä etuja koskevissa asioissa. Sen lisäksi, mitä henkilötunnuksen käsittelystä 1 ja 2 momentissa säädetään, henkilötunnuksen saa luovuttaa osoitetietojen päivittämiseksi tai moninkertaisten postilähetysten välttämiseksi suoritettavaa tietojenkäsittelyä varten, jos henkilötunnus jo on luovutuksensaajan käytettävissä. Henkilötunnusta ei tule merkitä tarpeettomasti henkilörekisterin perusteella tulostettuihin tai laadittuihin asiakirjoihin.",
+      "section_number": "29",
+      "chapter_number": 5,
+      "statute_id": "1054/2018"
+    },
+    {
+      "id": "65c81304-63e4-43fe-9940-2623c4022398",
+      "node_type": "Section",
+      "publisher": "finlex",
+      "title": "30 § Henkilötietojen käsittely työsuhteen yhteydessä",
+      "text": "Työntekijää koskevien henkilötietojen käsittelystä, työntekijälle tehtävistä testeistä ja tarkastuksista sekä niitä koskevista vaatimuksista, teknisestä valvonnasta työpaikalla sekä työntekijän sähköpostiviestin hakemisesta ja avaamisesta säädetään yksityisyyden suojasta työelämässä annetussa laissa (759/2004).",
+      "section_number": "30",
+      "chapter_number": 5,
+      "statute_id": "1054/2018"
+    },
+    {
+      "id": "6ecf33c2-53b3-43b7-9d18-666227c490c1",
+      "node_type": "Section",
+      "publisher": "finlex",
+      "title": "31 § Tieteellisiä ja historiallisia tutkimustarkoituksia sekä tilastollisia tarkoituksia varten tapahtuvaa henkilötietojen käsittelyä koskevat poikkeukset ja suojatoimet",
+      "text": "Käsiteltäessä henkilötietoja tieteellistä tai historiallista tutkimustarkoitusta varten voidaan tietosuoja-asetuksen 15, 16, 18 ja 21 artiklassa säädetyistä rekisteröidyn oikeuksista tarvittaessa poiketa edellyttäen, että: Käsiteltäessä henkilötietoja tilastollisia tarkoituksia varten voidaan tietosuoja-asetuksen 15, 16, 18 ja 21 artiklassa säädetyistä rekisteröidyn oikeuksista tarvittaessa poiketa edellyttäen, että: Käsiteltäessä tietosuoja-asetuksen 9 artiklan 1 kohdassa ja 10 artiklassa tarkoitettuja henkilötietoja 1 tai 2 momentissa säädetyssä tarkoituksessa poikkeaminen tietosuoja-asetuksen 15, 16, 18 ja 21 artiklassa säädetyistä rekisteröidyn oikeuksista edellyttää sen lisäksi, mitä 1 ja 2 momentissa säädetään, että laaditaan tietosuoja-asetuksen 35 artiklan mukainen tietosuojaa koskeva vaikutustenarviointi tai noudatetaan tietosuoja-asetuksen 40 artiklan mukaisia käytännesääntöjä, joissa on otettu asianmukaisesti huomioon edellä tarkoitettu rekisteröidyn oikeuksista poikkeaminen. Vaikutustenarviointi tulee toimittaa kirjallisesti tiedoksi tietosuojavaltuutetulle ennen käsittelyyn ryhtymistä.",
+      "section_number": "31",
+      "chapter_number": 5,
+      "statute_id": "1054/2018"
+    },
+    {
+      "id": "db7fbe38-94c7-4190-af24-fabc15c7e303",
+      "node_type": "Section",
+      "publisher": "finlex",
+      "title": "32 § Yleisen edun mukaisia arkistointitarkoituksia varten tapahtuvaa henkilötietojen käsittelyä koskevat poikkeukset ja suojatoimet",
+      "text": "Käsiteltäessä henkilötietoja yleisen edun mukaisia arkistointitarkoituksia varten 4 §:n 4 kohdan tai tietosuoja-asetuksen 6 artiklan 1 kohdan c alakohdan nojalla voidaan tietosuoja-asetuksen 15, 16 ja 18–21 artiklassa tarkoitetuista rekisteröidyn oikeuksista poiketa tietosuoja-asetuksen 89 artiklan 3 kohdassa säädetyin edellytyksin.",
+      "section_number": "32",
+      "chapter_number": 5,
+      "statute_id": "1054/2018"
+    },
+    {
+      "id": "bf845349-0112-4fc1-bd54-66c262b3023a",
+      "node_type": "Section",
+      "publisher": "finlex",
+      "title": "33 § Rajoitukset rekisterinpitäjän velvollisuuteen toimittaa tietoja rekisteröidylle",
+      "text": "Tietosuoja-asetuksen 13 ja 14 artiklan mukaisesta velvollisuudesta toimittaa tiedot rekisteröidylle voidaan poiketa, jos se on välttämätöntä valtion turvallisuuden, puolustuksen tai yleisen järjestyksen ja turvallisuuden vuoksi, rikosten ehkäisemiseksi tai selvittämiseksi taikka verotukseen tai julkiseen talouteen liittyvän valvontatehtävän vuoksi. Tietosuoja-asetuksen 14 artiklan 1–4 kohdasta voidaan poiketa myös, jos tiedon toimittaminen aiheuttaa olennaista vahinkoa tai haittaa rekisteröidylle eikä talletettavia tietoja käytetä rekisteröityä koskevaan päätöksentekoon. Jos rekisteröidylle ei toimiteta 1 tai 2 momentin perusteella tietoa, rekisterinpitäjän on toteutettava asianmukaiset toimenpiteet rekisteröidyn oikeuksien suojaamiseksi. Näihin toimenpiteisiin kuuluu tietosuoja-asetuksen 14 artiklan 1 ja 2 kohdassa tarkoitettujen tietojen pitäminen kaikkien saatavilla, ellei tämä vaaranna tietojen toimittamista koskevan rajoituksen tarkoitusta.",
+      "section_number": "33",
+      "chapter_number": 5,
+      "statute_id": "1054/2018"
+    },
+    {
+      "id": "753ccf51-7b68-4d32-a595-f5feadb39c3b",
+      "node_type": "Section",
+      "publisher": "finlex",
+      "title": "34 § Rajoitukset rekisteröidyn oikeuteen tutustua hänestä kerättyihin tietoihin",
+      "text": "Rekisteröidyllä ei ole tietosuoja-asetuksen 15 artiklassa tarkoitettua oikeutta tutustua hänestä kerättyihin tietoihin, jos: Jos vain osa rekisteröityä koskevista tiedoista on sellaisia, että ne 1 momentin mukaan jäävät tietosuoja-asetuksen 15 artiklassa tarkoitetun oikeuden ulkopuolelle, rekisteröidyllä on oikeus saada tietää muut häntä koskevat tiedot. Rekisteröidylle on ilmoitettava rajoituksen syyt, ellei tämä vaaranna rajoituksen tarkoitusta. Jos rekisteröidyllä ei ole oikeutta tutustua hänestä kerättyihin tietoihin, tietosuoja-asetuksen 15 artiklan 1 kohdassa tarkoitetut tiedot on annettava tietosuojavaltuutetulle rekisteröidyn pyynnöstä.",
+      "section_number": "34",
+      "chapter_number": 5,
+      "statute_id": "1054/2018"
+    },
+    {
+      "id": "c14646bd-f39e-422b-9804-b28c5fee044d",
+      "node_type": "Section",
+      "publisher": "finlex",
+      "title": "35 § Vaitiolovelvollisuus",
+      "text": "Joka henkilötietojen käsittelyyn liittyviä toimenpiteitä suorittaessaan on saanut tietää jotakin toisen henkilön ominaisuuksista, henkilökohtaisista oloista, taloudellisesta asemasta taikka toisen liikesalaisuudesta, ei saa oikeudettomasti ilmaista sivulliselle näin saamiaan tietoja eikä käyttää niitä omaksi tai toisen hyödyksi tai toisen vahingoksi.",
+      "section_number": "35",
+      "chapter_number": 6,
+      "statute_id": "1054/2018"
+    },
+    {
+      "id": "3fbecae3-8937-494a-ab67-e3849c77038f",
+      "node_type": "Section",
+      "publisher": "finlex",
+      "title": "36 § Ilmoittajan henkilöllisyyden suojaaminen",
+      "text": "Kun luonnollinen henkilö on tehnyt tietosuojavaltuutetulle ilmoituksen sen valvontaan kuuluvien säännösten epäillystä rikkomisesta, ilmoittajan henkilöllisyys on pidettävä salassa, jos henkilöllisyyden paljastamisesta voidaan olosuhteiden perusteella arvioida aiheutuvan haittaa ilmoittajalle.",
+      "section_number": "36",
+      "chapter_number": 6,
+      "statute_id": "1054/2018"
+    },
+    {
+      "id": "63ad6914-e55e-4d36-8a8f-1dd025b2a8cc",
+      "node_type": "Section",
+      "publisher": "finlex",
+      "title": "37 § Voimaantulo",
+      "text": "Tämä laki tulee voimaan 1 päivänä tammikuuta 2019. Tällä lailla kumotaan henkilötietolaki (523/1999) sekä tietosuojalautakunnasta ja tietosuojavaltuutetusta annettu laki (389/1994).",
+      "section_number": "37",
+      "chapter_number": 6,
+      "statute_id": "1054/2018"
+    },
+    {
+      "id": "65d684e5-b888-4b18-97ca-45dd73f8c082",
+      "node_type": "Section",
+      "publisher": "finlex",
+      "title": "38 § Siirtymäsäännökset",
+      "text": "Tietosuojalautakunnan myöntämien lupien voimassaolo päättyy tämän lain tullessa voimaan. Tietosuojalautakunnassa ennen tämän lain voimaantuloa vireille tulleet asiat raukeavat lain voimaan tullessa. Tämän lain voimaan tullessa vireillä olevaan tietosuojavaltuutetulle tehtävää ilmoitusta koskevaan asiaan sovelletaan henkilötietolain 36 ja 37 §:n säännöksiä ilmoitusvelvollisuudesta ja ilmoituksen tekemisestä. Tämän lain voimaan tullessa vireillä olevassa tarkastusoikeuden toteuttamista ja henkilötietojen korjaamista koskevassa asiassa ei sovelleta sellaisia tietosuoja-asetuksen 12 ja 15–18 artiklan säännöksiä, joissa asetetaan rekisterinpitäjälle laajempia velvollisuuksia kuin tämän lain voimaan tullessa voimassa olleet säännökset edellyttävät, jos mainittujen tietosuoja-asetuksen säännösten soveltaminen olisi rekisterinpitäjän kannalta kohtuutonta. Haettaessa muutosta ennen tämän lain voimaantuloa tehtyyn tietosuojalautakunnan ja tietosuojavaltuutetun päätökseen sovelletaan tämän lain voimaan tullessa voimassa olleita säännöksiä. Ylimääräiseen muutoksenhakuun sovelletaan tämän lain voimaan tullessa voimassa olleita säännöksiä kuitenkin vain, jos se on pantu vireille ennen tämän lain voimaantuloa. Jos vahinkoa aiheuttanut teko on tehty ennen tämän lain voimaantuloa, velvollisuuteen korvata vahinko sovelletaan tämän lain voimaan tullessa voimassa olleita säännöksiä.",
+      "section_number": "38",
+      "chapter_number": 6,
+      "statute_id": "1054/2018"
+    }
+  ],
+  "clauses": [
+    {
+      "id": "87ae4058-af6a-454d-8f1f-5176dda81d3f",
+      "node_type": "Clause",
+      "publisher": "finlex",
+      "title": "§ 4 mom 1",
+      "text": "1) kysymys on henkilön asemaa, tehtäviä sekä niiden hoitoa julkisyhteisössä, elinkeinoelämässä, järjestötoiminnassa tai muussa vastaavassa toiminnassa kuvaavista tiedoista siltä osin kuin käsittelyn tavoite on yleisen edun mukainen ja käsittely on oikeasuhtaista sillä tavoiteltuun oikeutettuun päämäärään nähden;",
+      "clause_number": 1,
+      "section_number": "4",
+      "statute_id": "1054/2018"
+    },
+    {
+      "id": "539fdbc3-eff9-4264-870e-22c60c0f2762",
+      "node_type": "Clause",
+      "publisher": "finlex",
+      "title": "§ 4 mom 2",
+      "text": "2) käsittely on tarpeen ja oikeasuhtaista viranomaisen toiminnassa yleisen edun mukaisen tehtävän suorittamiseksi;",
+      "clause_number": 2,
+      "section_number": "4",
+      "statute_id": "1054/2018"
+    },
+    {
+      "id": "9b23c3b4-10e1-4433-b654-3f0988aa4c07",
+      "node_type": "Clause",
+      "publisher": "finlex",
+      "title": "§ 4 mom 3",
+      "text": "3) käsittely on tarpeen tieteellistä tai historiallista tutkimusta taikka tilastointia varten ja se on oikeasuhtaista sillä tavoiteltuun yleisen edun mukaiseen tavoitteeseen nähden; tai",
+      "clause_number": 3,
+      "section_number": "4",
+      "statute_id": "1054/2018"
+    },
+    {
+      "id": "c7281070-5b9c-4d7d-a22e-825fcad61a6a",
+      "node_type": "Clause",
+      "publisher": "finlex",
+      "title": "§ 4 mom 4",
+      "text": "4) henkilötietoja sisältävien tutkimusaineistojen, kulttuuriperintöaineistojen sekä näiden kuvailutietoihin liittyvien henkilötietojen käsittely arkistointitarkoituksessa on tarpeen ja oikeasuhtaista sillä tavoiteltuun yleisen edun mukaiseen tavoitteeseen ja rekisteröidyn oikeuksiin nähden.",
+      "clause_number": 4,
+      "section_number": "4",
+      "statute_id": "1054/2018"
+    },
+    {
+      "id": "2d02f01f-7660-4c87-a5f4-b05ec03f6a52",
+      "node_type": "Clause",
+      "publisher": "finlex",
+      "title": "§ 6 mom 1",
+      "text": "1) vakuutuslaitoksen käsitellessä vakuutustoiminnassa saatuja tietoja vakuutetun ja korvauksenhakijan terveydentilasta, sairaudesta tai vammaisuudesta taikka sellaista häneen kohdistetuista hoitotoimenpiteistä tai niihin verrattavista toimista, jotka ovat tarpeen vakuutuslaitoksen vastuun selvittämiseksi;",
+      "clause_number": 1,
+      "section_number": "6",
+      "statute_id": "1054/2018"
+    },
+    {
+      "id": "7b14848b-ba40-4d75-bfe4-1bbc0d43087c",
+      "node_type": "Clause",
+      "publisher": "finlex",
+      "title": "§ 6 mom 2",
+      "text": "2) tietojen käsittelyyn, josta säädetään laissa tai joka johtuu välittömästi rekisterinpitäjälle laissa säädetystä tehtävästä;",
+      "clause_number": 2,
+      "section_number": "6",
+      "statute_id": "1054/2018"
+    },
+    {
+      "id": "d326a3b1-9a2b-41e8-a267-860a60c6575f",
+      "node_type": "Clause",
+      "publisher": "finlex",
+      "title": "§ 6 mom 3",
+      "text": "3) ammattiliittoon kuulumista koskevaan tiedon käsittelyyn, joka on tarpeen rekisterinpitäjän erityisten oikeuksien ja velvoitteiden noudattamiseksi työoikeuden alalla;",
+      "clause_number": 3,
+      "section_number": "6",
+      "statute_id": "1054/2018"
+    },
+    {
+      "id": "d195f64d-10fe-4177-81e1-dead5561f674",
+      "node_type": "Clause",
+      "publisher": "finlex",
+      "title": "§ 6 mom 4",
+      "text": "4) kun terveydenhuollon palveluntarjoaja järjestäessään tai tuottaessaan palveluja käsittelee tässä toiminnassa saamiaan tietoja henkilön terveydentilasta tai vammaisuudesta taikka hänen saamastaan terveydenhuollon ja kuntoutuksen palvelusta taikka muita rekisteröidyn hoidon kannalta välttämättömiä tietoja;",
+      "clause_number": 4,
+      "section_number": "6",
+      "statute_id": "1054/2018"
+    },
+    {
+      "id": "aaa8f969-3130-46b5-b1c1-b1d375946158",
+      "node_type": "Clause",
+      "publisher": "finlex",
+      "title": "§ 6 mom 5",
+      "text": "5) kun sosiaalihuollon palveluntarjoaja järjestäessään tai tuottaessaan palveluja tai myöntäessään etuuksia käsittelee tässä toiminnassa saamiaan tai tuottamiaan tietoja henkilön terveydentilasta tai vammaisuudesta taikka hänen saamastaan terveydenhuollon ja kuntoutuksen palvelusta taikka muita rekisteröidyn palvelun tai etuuden myöntämisen kannalta välttämättömiä tietoja;",
+      "clause_number": 5,
+      "section_number": "6",
+      "statute_id": "1054/2018"
+    },
+    {
+      "id": "3f2988a5-d7e6-44cd-8509-b8137743adc1",
+      "node_type": "Clause",
+      "publisher": "finlex",
+      "title": "§ 6 mom 6",
+      "text": "6) terveyttä koskevien ja geneettisten tietojen käsittelyyn antidopingtyössä ja vammaisurheilun yhteydessä siltä osin kuin näiden tietojen käsittely on välttämätöntä antidopingtyön tai vammaisten ja pitkäaikaissairaiden urheilun mahdollistamiseksi;",
+      "clause_number": 6,
+      "section_number": "6",
+      "statute_id": "1054/2018"
+    },
+    {
+      "id": "20d70868-a54b-4758-ba0d-183f5dc3b094",
+      "node_type": "Clause",
+      "publisher": "finlex",
+      "title": "§ 6 mom 7",
+      "text": "7) tieteellistä tai historiallista tutkimusta taikka tilastointia varten tehtävään tietojen käsittelyyn;",
+      "clause_number": 7,
+      "section_number": "6",
+      "statute_id": "1054/2018"
+    },
+    {
+      "id": "3b6f457e-09ab-40f8-bd52-c4a7efeadebc",
+      "node_type": "Clause",
+      "publisher": "finlex",
+      "title": "§ 6 mom 8",
+      "text": "8) tutkimus- ja kulttuuriperintöaineistojen käsittelyyn yleishyödyllisessä arkistointitarkoituksessa geneettisiä tietoja lukuun ottamatta.",
+      "clause_number": 8,
+      "section_number": "6",
+      "statute_id": "1054/2018"
+    },
+    {
+      "id": "f1dcfc3e-6cd0-4bbc-a151-ebc7810d9724",
+      "node_type": "Clause",
+      "publisher": "finlex",
+      "title": "§ 6 mom 1",
+      "text": "1) toimenpiteet, joilla on jälkeenpäin mahdollista varmistaa ja todentaa kenen toimesta henkilötietoja on tallennettu, muutettu tai siirretty;",
+      "clause_number": 1,
+      "section_number": "6",
+      "statute_id": "1054/2018"
+    },
+    {
+      "id": "9d228e0c-0e8d-417f-b123-d153aedb7143",
+      "node_type": "Clause",
+      "publisher": "finlex",
+      "title": "§ 6 mom 2",
+      "text": "2) toimenpiteet, joilla parannetaan henkilötietoja käsittelevän henkilöstön osaamista;",
+      "clause_number": 2,
+      "section_number": "6",
+      "statute_id": "1054/2018"
+    },
+    {
+      "id": "68c1a02a-36c6-45d1-affe-f976c8b1f1d3",
+      "node_type": "Clause",
+      "publisher": "finlex",
+      "title": "§ 6 mom 3",
+      "text": "3) tietosuojavastaavan nimittäminen;",
+      "clause_number": 3,
+      "section_number": "6",
+      "statute_id": "1054/2018"
+    },
+    {
+      "id": "9a5cb3d9-c25b-46a0-a32e-cfcb65e0f237",
+      "node_type": "Clause",
+      "publisher": "finlex",
+      "title": "§ 6 mom 4",
+      "text": "4) rekisterinpitäjän ja käsittelijän sisäiset toimenpiteet, joilla estetään pääsy henkilötietoihin;",
+      "clause_number": 4,
+      "section_number": "6",
+      "statute_id": "1054/2018"
+    },
+    {
+      "id": "b5d786a3-9b8f-4be8-bdee-2de668d67aca",
+      "node_type": "Clause",
+      "publisher": "finlex",
+      "title": "§ 6 mom 5",
+      "text": "5) henkilötietojen pseudonymisointi;",
+      "clause_number": 5,
+      "section_number": "6",
+      "statute_id": "1054/2018"
+    },
+    {
+      "id": "f4c6bc72-711e-490a-9b46-b00b2c6ca5c2",
+      "node_type": "Clause",
+      "publisher": "finlex",
+      "title": "§ 6 mom 6",
+      "text": "6) henkilötietojen salaaminen;",
+      "clause_number": 6,
+      "section_number": "6",
+      "statute_id": "1054/2018"
+    },
+    {
+      "id": "89615b86-0623-499d-b24f-d278fd74b589",
+      "node_type": "Clause",
+      "publisher": "finlex",
+      "title": "§ 6 mom 7",
+      "text": "7) toimenpiteet, joilla käsittelyjärjestelmien ja henkilötietojen käsittelyyn liittyvien palveluiden jatkuva luottamuksellisuus, eheys, käytettävyys ja vikasietoisuus taataan, mukaan lukien kyky palauttaa nopeasti tietojen saatavuus ja pääsy tietoihin fyysisen tai teknisen vian sattuessa;",
+      "clause_number": 7,
+      "section_number": "6",
+      "statute_id": "1054/2018"
+    },
+    {
+      "id": "74192a22-c9ce-4684-b47f-5b2bde00cdb0",
+      "node_type": "Clause",
+      "publisher": "finlex",
+      "title": "§ 6 mom 8",
+      "text": "8) menettely, jolla testataan, tutkitaan ja arvioidaan säännöllisesti teknisten ja organisatoristen toimenpiteiden tehokkuutta tietojenkäsittelyn turvallisuuden varmistamiseksi;",
+      "clause_number": 8,
+      "section_number": "6",
+      "statute_id": "1054/2018"
+    },
+    {
+      "id": "1f0db3bd-26b5-4ae4-a2cc-f7094b37fe88",
+      "node_type": "Clause",
+      "publisher": "finlex",
+      "title": "§ 6 mom 9",
+      "text": "9) erityiset menettelysäännöt, joilla varmistetaan tietosuoja-asetuksen ja tämän lain noudattaminen siirrettäessä henkilötietoja tai käsiteltäessä henkilötietoja muuhun tarkoitukseen;",
+      "clause_number": 9,
+      "section_number": "6",
+      "statute_id": "1054/2018"
+    },
+    {
+      "id": "4ba18221-1db9-46f6-b948-76b0aa02f979",
+      "node_type": "Clause",
+      "publisher": "finlex",
+      "title": "§ 6 mom 10",
+      "text": "10) tietosuoja-asetuksen 35 artiklan mukainen tietosuojaa koskevan vaikutustenarvioinnin laatiminen;",
+      "clause_number": 10,
+      "section_number": "6",
+      "statute_id": "1054/2018"
+    },
+    {
+      "id": "087f5a05-8ef8-44e3-b1eb-449b5765f805",
+      "node_type": "Clause",
+      "publisher": "finlex",
+      "title": "§ 6 mom 11",
+      "text": "11) muut tekniset, menettelylliset ja organisatoriset toimenpiteet.",
+      "clause_number": 11,
+      "section_number": "6",
+      "statute_id": "1054/2018"
+    },
+    {
+      "id": "99167c60-77bb-4b87-aefc-c5c2e045a716",
+      "node_type": "Clause",
+      "publisher": "finlex",
+      "title": "§ 7 mom 1",
+      "text": "1) käsittely on tarpeen oikeusvaateen selvittämiseksi, laatimiseksi, esittämiseksi, puolustamiseksi tai ratkaisemiseksi; tai",
+      "clause_number": 1,
+      "section_number": "7",
+      "statute_id": "1054/2018"
+    },
+    {
+      "id": "69fb2cb6-da02-4408-9ea5-4a2abd91c848",
+      "node_type": "Clause",
+      "publisher": "finlex",
+      "title": "§ 7 mom 1",
+      "text": "2) tietoja käsitellään 6 §:n 1 momentin 1, 2 tai 7 kohdassa säädetyssä tarkoituksessa.",
+      "clause_number": 1,
+      "section_number": "7",
+      "statute_id": "1054/2018"
+    },
+    {
+      "id": "92b96ba8-1390-40b0-9193-47f4d8ba224a",
+      "node_type": "Clause",
+      "publisher": "finlex",
+      "title": "§ 7 mom 2",
+      "text": "2) tietoja käsitellään 6 §:n 1 momentin 1, 2 tai 7 kohdassa säädetyssä tarkoituksessa.",
+      "clause_number": 2,
+      "section_number": "7",
+      "statute_id": "1054/2018"
+    },
+    {
+      "id": "284e821c-18b6-4921-b549-ddf89c74c77e",
+      "node_type": "Clause",
+      "publisher": "finlex",
+      "title": "§ 29 mom 1",
+      "text": "1) laissa säädetyn tehtävän suorittamiseksi;",
+      "clause_number": 1,
+      "section_number": "29",
+      "statute_id": "1054/2018"
+    },
+    {
+      "id": "b0538258-859f-4e91-b366-551bd5edf4a7",
+      "node_type": "Clause",
+      "publisher": "finlex",
+      "title": "§ 29 mom 2",
+      "text": "2) rekisteröidyn tai rekisterinpitäjän oikeuksien ja velvollisuuksien toteuttamiseksi; tai",
+      "clause_number": 2,
+      "section_number": "29",
+      "statute_id": "1054/2018"
+    },
+    {
+      "id": "b1ae8e32-d612-4818-90ed-6631b30a67a4",
+      "node_type": "Clause",
+      "publisher": "finlex",
+      "title": "§ 29 mom 3",
+      "text": "3) historiallista tai tieteellistä tutkimusta taikka tilastointia varten.",
+      "clause_number": 3,
+      "section_number": "29",
+      "statute_id": "1054/2018"
+    },
+    {
+      "id": "5094e5bf-bcd9-4fc2-8ac8-858e701d66cf",
+      "node_type": "Clause",
+      "publisher": "finlex",
+      "title": "§ 31 mom 1",
+      "text": "1) käsittely perustuu asianmukaiseen tutkimussuunnitelmaan;",
+      "clause_number": 1,
+      "section_number": "31",
+      "statute_id": "1054/2018"
+    },
+    {
+      "id": "bf93e686-4dd1-4a33-a5f2-8d7bef437b20",
+      "node_type": "Clause",
+      "publisher": "finlex",
+      "title": "§ 31 mom 2",
+      "text": "2) tutkimuksella on vastuuhenkilö tai siitä vastaava ryhmä; ja",
+      "clause_number": 2,
+      "section_number": "31",
+      "statute_id": "1054/2018"
+    },
+    {
+      "id": "fdb8dc26-de35-41cc-953a-4bea80cff7d4",
+      "node_type": "Clause",
+      "publisher": "finlex",
+      "title": "§ 31 mom 3",
+      "text": "3) henkilötietoja käytetään ja luovutetaan vain historiallista tai tieteellistä tutkimusta taikka muuta yhteensopivaa tarkoitusta varten sekä muutoinkin toimitaan niin, että tiettyä henkilöä koskevat tiedot eivät paljastu ulkopuolisille.",
+      "clause_number": 3,
+      "section_number": "31",
+      "statute_id": "1054/2018"
+    },
+    {
+      "id": "b3a6cd2a-a387-40eb-a003-dfd136de0e05",
+      "node_type": "Clause",
+      "publisher": "finlex",
+      "title": "§ 31 mom 1",
+      "text": "1) tilastoa ei voida tuottaa tai sen tarkoituksena olevaa tiedontarvetta toteuttaa ilman henkilötietojen käsittelyä;",
+      "clause_number": 1,
+      "section_number": "31",
+      "statute_id": "1054/2018"
+    },
+    {
+      "id": "a92f4b03-4aae-40a8-b621-c20648ae3dc3",
+      "node_type": "Clause",
+      "publisher": "finlex",
+      "title": "§ 31 mom 2",
+      "text": "2) kyseisen tilaston tuottamisella on asiallinen yhteys rekisterinpitäjän toimintaan; ja",
+      "clause_number": 2,
+      "section_number": "31",
+      "statute_id": "1054/2018"
+    },
+    {
+      "id": "6b631f88-170e-4a68-9759-3e959330cce0",
+      "node_type": "Clause",
+      "publisher": "finlex",
+      "title": "§ 31 mom 3",
+      "text": "3) tietoja ei luovuteta tai aseteta saataville siten, että tietty henkilö on niistä tunnistettavissa, ellei tietoja luovuteta julkista tilastoa varten.",
+      "clause_number": 3,
+      "section_number": "31",
+      "statute_id": "1054/2018"
+    },
+    {
+      "id": "71a131fe-7e3d-400c-8047-4ad48c6a1f0c",
+      "node_type": "Clause",
+      "publisher": "finlex",
+      "title": "§ 34 mom 1",
+      "text": "1) tiedon antaminen saattaisi vahingoittaa kansallista turvallisuutta, puolustusta tai yleistä järjestystä ja turvallisuutta taikka haitata rikosten ehkäisemistä tai selvittämistä;",
+      "clause_number": 1,
+      "section_number": "34",
+      "statute_id": "1054/2018"
+    },
+    {
+      "id": "01e9b34d-63c2-4283-bc03-b3c6f691c45e",
+      "node_type": "Clause",
+      "publisher": "finlex",
+      "title": "§ 34 mom 2",
+      "text": "2) tiedon antamisesta saattaisi aiheutua vakavaa vaaraa rekisteröidyn terveydelle tai hoidolle taikka rekisteröidyn tai jonkun muun oikeuksille; tai",
+      "clause_number": 2,
+      "section_number": "34",
+      "statute_id": "1054/2018"
+    },
+    {
+      "id": "13f06ce5-27ab-4699-87c6-ace7a3eeb243",
+      "node_type": "Clause",
+      "publisher": "finlex",
+      "title": "§ 34 mom 3",
+      "text": "3) henkilötietoja käytetään valvonta- ja tarkastustehtävissä ja tiedon antamatta jättäminen on välttämätöntä Suomen tai Euroopan unionin tärkeän taloudellisen tai rahoituksellisen edun turvaamiseksi.",
+      "clause_number": 3,
+      "section_number": "34",
+      "statute_id": "1054/2018"
+    }
+  ],
+  "cross_references": [
+    {
+      "raw_text": "pykälän 1 momentissa t",
+      "statute_id": "1054/2018",
+      "section_number": "1 momentissa t",
+      "clause_number": null,
+      "resolution_confidence": 0.0
+    },
+    {
+      "raw_text": "pykälän 1 momentissa m",
+      "statute_id": "1054/2018",
+      "section_number": "1 momentissa m",
+      "clause_number": null,
+      "resolution_confidence": 0.0
+    }
+  ],
+  "raw_html_path": "C:\\Users\\danit\\finance-hack\\aalto-hackaton-2026\\data\\raw\\finlex\\Laki (säädöskokoelma)\\Tietosuojalaki.html"
+}

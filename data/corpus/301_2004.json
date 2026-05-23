@@ -1,0 +1,78 @@
+{
+  "statute": {
+    "id": "00712253-b238-4c7c-b9dd-260fc24d583d",
+    "node_type": "Statute",
+    "publisher": "finlex",
+    "title": "Laki ulkomaalaislain muuttamisesta",
+    "text": "Laki ulkomaalaislain muuttamisesta",
+    "statute_id": "301/2004",
+    "finlex_url": "https://finlex.fi/fi/laki/ajantasa/301/2004"
+  },
+  "chapters": [
+    {
+      "id": "3076f742-f3e7-4a78-ac80-57315013b1dc",
+      "node_type": "Chapter",
+      "publisher": "finlex",
+      "title": "Chapter 8",
+      "text": "8 luku Ulkomaalaisille Suomessa myönnettävät matkustusasiakirjat",
+      "chapter_number": 8,
+      "statute_id": "301/2004"
+    }
+  ],
+  "sections": [
+    {
+      "id": "e52e9652-b550-4607-b894-2735715267ee",
+      "node_type": "Section",
+      "publisher": "finlex",
+      "title": "138 § Muukalaispassin ja pakolaisen matkustusasiakirjan peruuttaminen",
+      "text": "Muukalaispassi tai pakolaisen matkustusasiakirja voidaan peruuttaa, jos: Tämä laki tulee voimaan 29 päivänä kesäkuuta 2009. Ennen lain voimaantuloa voidaan ryhtyä täytäntöönpanon edellyttämiin toimenpiteisiin.",
+      "section_number": "138",
+      "chapter_number": 8,
+      "statute_id": "301/2004"
+    }
+  ],
+  "clauses": [
+    {
+      "id": "8ece0ec5-0310-42ab-b79d-4bb3a8ea709f",
+      "node_type": "Clause",
+      "publisher": "finlex",
+      "title": "§ 138 mom 1",
+      "text": "1) asiakirja on turmeltunut tai sen merkintöjä on muutettu;",
+      "clause_number": 1,
+      "section_number": "138",
+      "statute_id": "301/2004"
+    },
+    {
+      "id": "23fa5656-854b-4f69-a056-cf5733a73c85",
+      "node_type": "Clause",
+      "publisher": "finlex",
+      "title": "§ 138 mom 2",
+      "text": "2) asiakirjan myöntämisen jälkeen on tullut esiin seikkoja, jotka asiakirjan myöntämistä harkittaessa todennäköisesti olisivat johtaneet sen epäämiseen;",
+      "clause_number": 2,
+      "section_number": "138",
+      "statute_id": "301/2004"
+    },
+    {
+      "id": "e035231c-d222-4c34-9bb2-30ae0f15c41f",
+      "node_type": "Clause",
+      "publisher": "finlex",
+      "title": "§ 138 mom 3",
+      "text": "3) asiakirjaa käyttää muu kuin se, jolle se on myönnetty, tai se on muun kuin sen hallussa, jolle se on myönnetty; taikka",
+      "clause_number": 3,
+      "section_number": "138",
+      "statute_id": "301/2004"
+    },
+    {
+      "id": "d1b36198-d208-41f9-8462-164e48b991af",
+      "node_type": "Clause",
+      "publisher": "finlex",
+      "title": "§ 138 mom 4",
+      "text": "4) Väestörekisterikeskus on erityisestä syystä peruuttanut asiakirjan tekniseen osaan talletettujen tietojen aitouden ja eheyden varmistamiseen tai sormenjälkien lukemiseen liittyvän varmenteen.",
+      "clause_number": 4,
+      "section_number": "138",
+      "statute_id": "301/2004"
+    }
+  ],
+  "cross_references": [],
+  "raw_html_path": "C:\\Users\\danit\\finance-hack\\aalto-hackaton-2026\\data\\raw\\finlex\\Laki (säädöskokoelma)\\Laki ulkomaalaislain muuttamisesta.html"
+}

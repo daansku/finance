@@ -1,0 +1,56 @@
+{
+  "statute": {
+    "id": "6cd64ff2-4bdb-40d2-a3de-d6510e7cce2e",
+    "node_type": "Statute",
+    "publisher": "finlex",
+    "title": "Valtioneuvoston asetus väestötietoasetuksen muuttamisesta",
+    "text": "Valtioneuvoston asetus väestötietoasetuksen muuttamisesta",
+    "statute_id": "886/1993",
+    "finlex_url": "https://finlex.fi/fi/laki/ajantasa/886/1993"
+  },
+  "chapters": [],
+  "sections": [
+    {
+      "id": "3c750103-6a8d-4e9d-9f08-f3a67eb596de",
+      "node_type": "Section",
+      "publisher": "finlex",
+      "title": "4 § Tiedot Suomen kansalaisesta",
+      "text": "Suomen kansalaisesta talletetaan väestötietojärjestelmään henkilötunnuksen lisäksi:",
+      "section_number": "4",
+      "chapter_number": 1,
+      "statute_id": "886/1993"
+    },
+    {
+      "id": "94f91c8e-d9bc-4387-b499-5054d4504264",
+      "node_type": "Section",
+      "publisher": "finlex",
+      "title": "34 § Kansalaisvarmenteen hakijan tunnistaminen",
+      "text": "Väestörekisterikeskuksen myöntäessä sähköiseen asiointiin käytettäviä kansalaisvarmenteita muuhun kuin väestötietolain 23 §:n 2 ja 3 momentissa tarkoitettuun korttiin tai tekniseen välineeseen, hakemuksen vastaanottajan on todettava hakijan henkilöllisyys voimassa olevasta kotimaisesta poliisin myöntämästä passista tai henkilökortista, 1 päivänä lokakuuta 1990 tai sen jälkeen annetusta ajokortista taikka, jos poliisi on mainitun pykälän 5 momentissa tarkoitetuissa tapauksissa suorittanut hakemukseen liittyvän tunnistamisen, poliisin hakemuksen vastaanottajalle toimittamasta erillisestä henkilön tunnistamista koskevasta asiakirjasta. Tämä asetus tulee voimaan 1 päivänä toukokuuta 2003. Ennen asetuksen voimaantuloa voidaan ryhtyä asetuksen täytäntöönpanon edellyttämiin toimenpiteisiin.",
+      "section_number": "34",
+      "chapter_number": 1,
+      "statute_id": "886/1993"
+    }
+  ],
+  "clauses": [
+    {
+      "id": "226af3ec-65ed-4efd-9658-94de30f64c73",
+      "node_type": "Clause",
+      "publisher": "finlex",
+      "title": "§ 4 mom 22",
+      "text": "22) kansalaisvarmenteeseen sisältyvä sähköinen asiointitunnus ja sen luonnissa käytettävä tekninen tunnistetieto.",
+      "clause_number": 22,
+      "section_number": "4",
+      "statute_id": "886/1993"
+    }
+  ],
+  "cross_references": [
+    {
+      "raw_text": "pykälän 5 momentissa t",
+      "statute_id": "886/1993",
+      "section_number": "5 momentissa t",
+      "clause_number": null,
+      "resolution_confidence": 0.0
+    }
+  ],
+  "raw_html_path": "C:\\Users\\danit\\finance-hack\\aalto-hackaton-2026\\data\\raw\\finlex\\Asetus\\Valtioneuvoston asetus väestötietoasetuksen muuttamisesta_2.html"
+}

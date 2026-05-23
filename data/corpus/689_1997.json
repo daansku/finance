@@ -1,0 +1,1577 @@
+{
+  "statute": {
+    "id": "a9024c58-ebc0-4063-a389-f29880233968",
+    "node_type": "Statute",
+    "publisher": "finlex",
+    "title": "Esitutkintalaki",
+    "text": "Esitutkintalaki",
+    "statute_id": "689/1997",
+    "finlex_url": "https://finlex.fi/fi/laki/ajantasa/689/1997"
+  },
+  "chapters": [
+    {
+      "id": "563f5e37-74d0-42c2-aef9-e9d83d8696fa",
+      "node_type": "Chapter",
+      "publisher": "finlex",
+      "title": "Chapter 1",
+      "text": "1 luku Soveltamisalasäännökset",
+      "chapter_number": 1,
+      "statute_id": "689/1997"
+    },
+    {
+      "id": "de9fd397-0689-4842-9d66-60960fa86dd5",
+      "node_type": "Chapter",
+      "publisher": "finlex",
+      "title": "Chapter 2",
+      "text": "2 luku Esitutkintaan osalliset",
+      "chapter_number": 2,
+      "statute_id": "689/1997"
+    },
+    {
+      "id": "00ba8c96-a7c4-4fdf-825e-ec7e7dbe1412",
+      "node_type": "Chapter",
+      "publisher": "finlex",
+      "title": "Chapter 3",
+      "text": "3 luku Esitutkinnan toimittamisen yleiset säännökset",
+      "chapter_number": 3,
+      "statute_id": "689/1997"
+    },
+    {
+      "id": "04aeb1f1-f80c-4376-be47-964cc2486177",
+      "node_type": "Chapter",
+      "publisher": "finlex",
+      "title": "Chapter 4",
+      "text": "4 luku Esitutkintaperiaatteet ja esitutkintaan osallistuvien oikeudet",
+      "chapter_number": 4,
+      "statute_id": "689/1997"
+    },
+    {
+      "id": "5e9d670d-02f2-4381-9fae-195c0007812e",
+      "node_type": "Chapter",
+      "publisher": "finlex",
+      "title": "Chapter 5",
+      "text": "5 luku Esitutkintaviranomaisen ja syyttäjän esitutkintayhteistyö",
+      "chapter_number": 5,
+      "statute_id": "689/1997"
+    },
+    {
+      "id": "ef34c075-4367-4d61-a64f-a1263616222a",
+      "node_type": "Chapter",
+      "publisher": "finlex",
+      "title": "Chapter 6",
+      "text": "6 luku Läsnäolo esitutkinnassa",
+      "chapter_number": 6,
+      "statute_id": "689/1997"
+    },
+    {
+      "id": "4862cbfe-53cf-4548-aa6a-16b66184a6b0",
+      "node_type": "Chapter",
+      "publisher": "finlex",
+      "title": "Chapter 7",
+      "text": "7 luku Kuulustelut",
+      "chapter_number": 7,
+      "statute_id": "689/1997"
+    },
+    {
+      "id": "bbe08b34-4ce2-4385-86dc-15693ecbeda1",
+      "node_type": "Chapter",
+      "publisher": "finlex",
+      "title": "Chapter 8",
+      "text": "8 luku Ryhmätunnistus",
+      "chapter_number": 8,
+      "statute_id": "689/1997"
+    },
+    {
+      "id": "89ae3c60-4441-46a7-8b4a-df9843e75cb6",
+      "node_type": "Chapter",
+      "publisher": "finlex",
+      "title": "Chapter 9",
+      "text": "9 luku Esitutkinta-aineisto",
+      "chapter_number": 9,
+      "statute_id": "689/1997"
+    },
+    {
+      "id": "ff9019fb-42bb-4fcf-8946-ab93c5c19719",
+      "node_type": "Chapter",
+      "publisher": "finlex",
+      "title": "Chapter 10",
+      "text": "10 luku Esitutkinnan päättäminen",
+      "chapter_number": 10,
+      "statute_id": "689/1997"
+    },
+    {
+      "id": "06a5ca39-03ed-4653-9ba9-2026add05f6e",
+      "node_type": "Chapter",
+      "publisher": "finlex",
+      "title": "Chapter 11",
+      "text": "11 luku Erinäiset säännökset",
+      "chapter_number": 11,
+      "statute_id": "689/1997"
+    }
+  ],
+  "sections": [
+    {
+      "id": "4ff1ca13-d218-4267-a8d0-afa895fa5141",
+      "node_type": "Section",
+      "publisher": "finlex",
+      "title": "1 § Lain soveltamisala",
+      "text": "Rikoksen esitutkinta toimitetaan tämän lain mukaisesti, jollei laissa erikseen toisin säädetä. Pakkokeinojen käyttämisestä ja esitutkintaviranomaisen tiedonhankinnasta on muuten voimassa, mitä niistä erikseen laissa säädetään.",
+      "section_number": "1",
+      "chapter_number": 1,
+      "statute_id": "689/1997"
+    },
+    {
+      "id": "e469c66e-8124-44a5-a2e8-985641a20811",
+      "node_type": "Section",
+      "publisher": "finlex",
+      "title": "2 § Esitutkinnassa selvitettävät asiat",
+      "text": "Esitutkinnassa selvitetään: Esitutkinnassa asia on valmisteltava siten, että syyteharkinta ja asianosaisten etujen valvominen voidaan suorittaa asianmukaisesti ja että todistelu voidaan pääkäsittelyssä ottaa vastaan yhdellä kertaa tai asia voidaan ratkaista kirjallisessa menettelyssä.",
+      "section_number": "2",
+      "chapter_number": 1,
+      "statute_id": "689/1997"
+    },
+    {
+      "id": "2d95c637-d727-4d3b-a7f4-f801755824ca",
+      "node_type": "Section",
+      "publisher": "finlex",
+      "title": "1 § Viranomaiset esitutkinnassa",
+      "text": "Esitutkinnan toimittaa poliisi. Poliisin lisäksi esitutkintaviranomaisia ovat rajavartio-, tulli- ja sotilasviranomaiset siten kuin niiden esitutkintatoimivallasta säädetään rajavartiolaissa (578/2005), tullilaissa (1466/1994), sotilaskurinpitolaissa (331/1983) ja poliisin tehtävien suorittamisesta puolustusvoimissa annetussa laissa (1251/1995). Esitutkintaviranomaisten lisäksi esitutkintaan osallistuu syyttäjä.",
+      "section_number": "1",
+      "chapter_number": 2,
+      "statute_id": "689/1997"
+    },
+    {
+      "id": "b49fa473-87e0-4dc2-94a5-14db35795d2e",
+      "node_type": "Section",
+      "publisher": "finlex",
+      "title": "2 § Tutkinnanjohtaja",
+      "text": "Esitutkintaa johtaa tutkinnanjohtaja, jona toimii pakkokeinolain (806/2011) 2 luvun 9 §:ssä tarkoitettu pidättämiseen oikeutettu virkamies. Syyttäjä toimii tutkinnanjohtajana kuitenkin vain 4 §:n 1 momentissa tarkoitetuissa tapauksissa. Poliisin toimittamassa esitutkinnassa saa rikosylikonstaapeli tai ylikonstaapeli toimia tutkinnanjohtajana asian laatuun liittyvästä tai muusta vastaavasta perustellusta syystä ja muun viranomaisen toimittamassa esitutkinnassa virkamies, jonka oikeudesta toimia tutkinnanjohtajana säädetään laissa erikseen. Samaan rikoskokonaisuuteen kuuluvien rikosten tutkinnanjohtajien esimieheksi voidaan määrätä tutkinnan yleisjohtaja, joka päättää esitutkinnan yhteensovittamisesta ja joka voi tuossa tarkoituksessa antaa alaisenaan toimivia tutkinnanjohtajia koskevia määräyksiä.",
+      "section_number": "2",
+      "chapter_number": 2,
+      "statute_id": "689/1997"
+    },
+    {
+      "id": "7315d84e-9e3d-4fe9-b260-2a0ec2eb2801",
+      "node_type": "Section",
+      "publisher": "finlex",
+      "title": "3 § Tutkija",
+      "text": "Tutkija suorittaa tutkinnanjohtajan johdon ja valvonnan alaisena epäiltyä rikosta koskevat kuulustelut ja muut esitutkinta-toimenpiteet sekä toteuttaa tutkinnanjohtajan antamat asian tutkintaa koskevat määräykset ja suorittaa muut tutkijalle lain mukaan kuuluvat toimenpiteet.",
+      "section_number": "3",
+      "chapter_number": 2,
+      "statute_id": "689/1997"
+    },
+    {
+      "id": "616f53fe-e4cd-47c4-b9bd-ead82fafda4a",
+      "node_type": "Section",
+      "publisher": "finlex",
+      "title": "4 § Erityiset tutkintajärjestelyt",
+      "text": "Syyttäjä johtaa esitutkintaa, jos poliisimiehen epäillään tehneen rikoksen virkatehtävän suorittamisen yhteydessä. Vaikka poliisimiehen tekemäksi epäiltyä rikosta ei ole tehty virkatehtävien suorittamisen yhteydessä, syyttäjä voi rikoksen vakavuuden tai asian laadun sitä muuten edellyttäessä päättää ryhtymisestään tutkinnanjohtajaksi. Syyttäjä voi edellä tarkoitetuissa tapauksissa johtaa esitutkintaa myös siltä osin kuin asiassa on poliisimiehen lisäksi muu epäilty, jos se on asian selvittämiseksi tarkoituksenmukaista. Syyttäjä ei toimi tutkinnanjohtajana, jos asia käsitellään rikesakko- tai rangaistusmääräysasiana. Tutkinnanjohtajana toimiessaan syyttäjällä on tuossa tehtävässään samat toimivaltuudet kuin tutkinnanjohtajana toimivalla päällystöön kuuluvalla poliisimiehellä. Poliisimiehen tekemäksi epäilty rikos tutkitaan aina muussa kuin hänen toimipaikkansa poliisiyksikössä, jos asia ei ole rikesakko- tai rangaistusmääräysasiana käsiteltävä. Muutenkin rikoksen tutkiva poliisiyksikkö tulee tarvittaessa määrätä niin, ettei luottamus esitutkinnan puolueettomuuteen vaarannu.",
+      "section_number": "4",
+      "chapter_number": 2,
+      "statute_id": "689/1997"
+    },
+    {
+      "id": "b118cfd7-e2b8-4249-8084-9f2dfc81097e",
+      "node_type": "Section",
+      "publisher": "finlex",
+      "title": "5 § Esitutkinnan asianosaiset",
+      "text": "Esitutkinnassa asianosaisia ovat: Asianosaisen huoltajaan tai edunvalvojaan, asianosaisena olevan oikeushenkilön lakimääräiseen toimielimeen tai muuhun johtoon kuuluvaan edustajaan taikka muun asianosaisen lailliseen edustajaan sovelletaan soveltuvin osin tämän lain asianosaisia koskevia säännöksiä. Tarvittaessa tutkinnanjohtaja päättää siitä, onko henkilöä pidettävä asianosaisena.",
+      "section_number": "5",
+      "chapter_number": 2,
+      "statute_id": "689/1997"
+    },
+    {
+      "id": "d81b496f-3ff8-46b4-a794-80a41c98cf70",
+      "node_type": "Section",
+      "publisher": "finlex",
+      "title": "6 § Avustaja ja tukihenkilö",
+      "text": "Jos asianosaisella on avustaja tai tukihenkilö, tämä osallistuu esitutkintaan laissa säädetyllä tavalla.",
+      "section_number": "6",
+      "chapter_number": 2,
+      "statute_id": "689/1997"
+    },
+    {
+      "id": "88dbabc8-c1c2-4b29-931f-c7f2f8d5433b",
+      "node_type": "Section",
+      "publisher": "finlex",
+      "title": "7 § Esitutkintavirkamiehen esteellisyys",
+      "text": "Tutkinnanjohtaja, tutkija ja muu esitutkintaviranomaisen virkamies eivät saa esteellisinä osallistua esitutkintaan. Esitutkintavirkamiehen esteellisyyttä koskeva kysymys on ratkaistava viipymättä. Virkamies itse tai tarvittaessa hänen esimiehensä ratkaisee kysymyksen esteellisyydestä. Jos syyttäjä on tutkinnanjohtajana, häntä on kuultava tutkijan esteellisyyttä koskevasta kysymyksestä ja hän voi ottaa kysymyksen ratkaistavakseen. Esteellisen esitutkintavirkamiehen tilalle on viipymättä määrättävä esteetön virkamies. Esitutkintavirkamies saa kuitenkin esteellisenäkin ryhtyä esitutkintatoimenpiteeseen, jota rikoksen selvittämistä vaarantamatta ei voida viivyttää.",
+      "section_number": "7",
+      "chapter_number": 2,
+      "statute_id": "689/1997"
+    },
+    {
+      "id": "ad94750a-13f9-4e31-82a0-87df2c306fcc",
+      "node_type": "Section",
+      "publisher": "finlex",
+      "title": "8 § Esteellisyysperusteet",
+      "text": "Esitutkintavirkamies on esteellinen, jos: Esteellisyyttä ei 1 momentin 4 kohdan nojalla aiheudu yksinomaan sen vuoksi, että asianosaisena on valtio. Läheisellä tarkoitetaan 1 momentissa esitutkintavirkamiehen: Läheisenä pidetään myös vastaavaa puolisukulaista. Puolisoilla tarkoitetaan aviopuolisoita sekä avioliitonomaisissa olosuhteissa ja rekisteröidyssä parisuhteessa eläviä.",
+      "section_number": "8",
+      "chapter_number": 2,
+      "statute_id": "689/1997"
+    },
+    {
+      "id": "5c05d59d-bbe4-4c45-bf67-87c4616bf60e",
+      "node_type": "Section",
+      "publisher": "finlex",
+      "title": "1 § Rikoksesta tehdyn ilmoituksen kirjaaminen",
+      "text": "Kun esitutkintaviranomaiselle ilmoitetaan rikos tai tapahtuma, jota ilmoittaja epäilee rikokseksi, esitutkintaviranomaisen on viipymättä kirjattava ilmoitus. Jos ilmoitus on epäselvä tai puutteellinen, ilmoituksen tekijää on tarvittaessa kehotettava täsmentämään tai täydentämään sitä. Rikosilmoituksen kirjaamisvelvollisuus koskee myös muuten kuin 1 momentissa tarkoitetulla tavalla esitutkintaviranomaisen tietoon tullutta epäiltyä rikosta, jos 9 §:n 1 momentissa tarkoitetut toimenpiteistä luopumisen edellytykset eivät täyty.",
+      "section_number": "1",
+      "chapter_number": 3,
+      "statute_id": "689/1997"
+    },
+    {
+      "id": "a8a185bd-620d-40f8-920d-97cc051809ee",
+      "node_type": "Section",
+      "publisher": "finlex",
+      "title": "2 § Rikoksesta tehdyn ilmoituksen siirtäminen",
+      "text": "Jos ilmoitus rikoksesta on tehty sellaiselle esitutkintaviranomaiselle, jonka tehtäviin esitutkinnan toimittaminen asiassa ei kuulu, tämän on heti kirjattava asia vastaanotetuksi sekä toimitettava ilmoitus ja mahdollinen muu asiassa kertynyt aineisto asianomaiselle esitutkintaviranomaiselle, jonka on viivytyksettä kirjattava ilmoitus.",
+      "section_number": "2",
+      "chapter_number": 3,
+      "statute_id": "689/1997"
+    },
+    {
+      "id": "12761048-0b59-4e7d-a257-1a1514f74b0b",
+      "node_type": "Section",
+      "publisher": "finlex",
+      "title": "3 § Esitutkinnan toimittaminen",
+      "text": "Esitutkintaviranomaisen on toimitettava esitutkinta, kun sille tehdyn ilmoituksen perusteella tai muuten on syytä epäillä, että rikos on tehty. Ennen esitutkinnan aloittamista esitutkintaviranomaisen on tarvittaessa selvitettävä 1 momentissa tarkoitettuun rikosepäilyyn liittyvät seikat erityisesti siten, että ketään ei aiheettomasti aseteta rikoksesta epäillyn asemaan ja että asian sitä edellyttäessä voidaan tehdä 9 §:n 1 momentissa tai 10 §:n 1 momentissa tarkoitettu ratkaisu esitutkinnan toimittamatta jättämisestä. Esitutkinnan aloittamista edeltäviin toimenpiteisiin sovelletaan soveltuvin osin tämän lain säännöksiä. Tutkinnanjohtaja päättää tarvittaessa siitä, toimitetaanko esitutkinta, ja päätöksen tekemiseen mahdollisesti tarvittavien seikkojen selvittämisestä. Asian selvittämiseksi tarpeellisiin esitutkintatoimenpiteisiin saadaan ryhtyä ennen tutkinnanjohtajan päätöstä.",
+      "section_number": "3",
+      "chapter_number": 3,
+      "statute_id": "689/1997"
+    },
+    {
+      "id": "1e6f5756-e72f-4568-8acc-c7cf06fd2f76",
+      "node_type": "Section",
+      "publisher": "finlex",
+      "title": "4 § Asianomistajarikoksen esitutkinnan toimittaminen",
+      "text": "Jos syyttäjä saa nostaa syytteen rikoksesta ainoastaan asianomistajan vaatimuksesta (asianomistajarikos), esitutkinta toimitetaan vain, jos asianomistaja on ilmoittanut esitutkintaviranomaiselle tai syyttäjälle vaativansa rikokseen syyllistyneelle rangaistusta. Jos asianomistaja peruuttaa rangaistusvaatimuksensa, tutkinta on lopetettava. Asianomistajarikoksen esitutkinta saadaan aloittaa, vaikkei rangaistusvaatimusta olekaan tehty, jos asianomistaja ei ilmeisesti vielä tiedä rikoksesta eikä tutkintaa voida siirtää rikoksen selvittämistä vaarantamatta. Tutkinnan aloittamisesta on tällöin viipymättä ilmoitettava asianomistajalle. Tutkinta on lopetettava, jos asianomistaja tiedon rikoksesta saatuaan ei ilmoita vaativansa rikokseen syyllistyneelle rangaistusta. Jos syyttäjä saa lain mukaan yleisen edun sitä vaatiessa nostaa syytteen asianomistajarikoksesta, vaikkei asianomistaja vaatisikaan rikokseen syyllistyneelle rangaistusta, esitutkinta on syyttäjän pyynnöstä toimitettava. Jos sen osoittaminen, että rikos on tapahtunut, on lain mukaan edellytys johonkin toimenpiteeseen ryhtymiseen tai jonkin etuuden säilyttämiseen, asianomistajarikoksen esitutkinta on toimitettava tarpeellisessa laajuudessa asianomistajan pyynnöstä, vaikkei hän ilmoitakaan vaativansa rikokseen syyllistyneelle rangaistusta.",
+      "section_number": "4",
+      "chapter_number": 3,
+      "statute_id": "689/1997"
+    },
+    {
+      "id": "115864a7-bf22-46e8-a198-74daf8d8d966",
+      "node_type": "Section",
+      "publisher": "finlex",
+      "title": "5 § Rikollisen teon tutkinta",
+      "text": "Kun alle 15-vuotiaan epäillään syyllistyneen rikolliseen tekoon, toimitetaan tarvittaessa esitutkinta sen selvittämiseksi, onko 15 vuotta täyttänyt ollut osallisena teossa. Tällöin esitutkinnassa selvitetään kunkin epäillyn osalta 1 luvun 2 §:ssä tarkoitetut seikat. Alle 15-vuotiaan tekemäksi epäillyn rikollisen teon johdosta toimitetaan lisäksi tarvittaessa esitutkinta: Esitutkinta voidaan 2 momentin 3 kohdassa tarkoitetussa tapauksessa toimittaa, vaikka asianomistajarikoksen asianomistaja ei ole esittänyt 4 §:n 1 momentissa tarkoitettua vaatimusta.",
+      "section_number": "5",
+      "chapter_number": 3,
+      "statute_id": "689/1997"
+    },
+    {
+      "id": "bdc92eea-66f1-4c7c-bc27-2ef260f88b46",
+      "node_type": "Section",
+      "publisher": "finlex",
+      "title": "6 § Ilmoitus esitutkinnan aloittamisesta",
+      "text": "Tutkinnanjohtajan on ilmoitettava esitutkinnan aloittamisesta rikoslain (39/1889) 40 luvun 11 §:n 1 kohdassa tarkoitetun virkamiehen esimiehelle mahdollisia virkamiesoikeudellisia toimenpiteitä varten, jos virkamiestä epäillään rikoksesta, josta säädetty ankarin rangaistus on vähintään neljä vuotta vankeutta. Tutkinnanjohtajalla on oikeus ilmoittaa myös virkamiehen tekemäksi epäillyn muun rikoksen esitutkinnan aloittamisesta, jos tutkittavana oleva rikos on sellainen, että sillä voidaan olettaa olevan merkitystä virkatehtävien suorittamisen kannalta.",
+      "section_number": "6",
+      "chapter_number": 3,
+      "statute_id": "689/1997"
+    },
+    {
+      "id": "a0bd0fdb-f876-4e68-977e-3574d19d2434",
+      "node_type": "Section",
+      "publisher": "finlex",
+      "title": "7 § Asianosaisten pyytämät toimenpiteet",
+      "text": "Asianosaisen pyytämät kuulustelut ja muut esitutkintatoimenpiteet on suoritettava, jos hän osoittaa, että ne saattavat vaikuttaa asiaan, ja jollei niistä aiheudu asian laatuun nähden kohtuuttomia kustannuksia. Asianosaisen pyytämistä esitutkintatoimenpiteistä päättää esitutkinnan aikana tutkinnanjohtaja tai 5 luvun 2 §:n 1 momentin nojalla syyttäjä. Kun asia on siirretty syyttäjälle, niistä päättää syyttäjä.",
+      "section_number": "7",
+      "chapter_number": 3,
+      "statute_id": "689/1997"
+    },
+    {
+      "id": "7d36d56f-c723-495a-8733-46edd8f8b326",
+      "node_type": "Section",
+      "publisher": "finlex",
+      "title": "8 § Ulkomailla tehty rikos",
+      "text": "Esitutkintaviranomainen voi tutkia ulkomailla tehdyksi epäillyn rikoksen, jos rikokseen rikoslain 1 luvun säännösten nojalla voidaan soveltaa Suomen lakia ja jos esitutkinnan toimittaminen Suomessa on tutkinnallisista syistä ja rikosvastuun toteuttamisen kannalta tarkoituksenmukaista. Jos tällaisen rikoksen tutkiminen Suomessa edellyttää rikoslain 1 luvun 12 §:ssä tarkoitettua valtakunnansyyttäjän syytemääräystä, syyttäjä päättää esitutkinnan aloittamisesta. Kun asianomistaja ilmoittaa esitutkintaviranomaiselle toisen Euroopan unionin jäsenvaltion alueella tehdystä rikoksesta, asianomistajan ilmoitus ja hänen vaatimuksensa on toimitettava sen jäsenvaltion toimivaltaiselle viranomaiselle, jonka alueella rikos on tehty, jos esitutkintaviranomainen ei 1 momentin mukaisesti tutki rikosta. Edellytyksenä toimittamiselle on lisäksi, että asianomistaja ei ole voinut tehdä ilmoitusta ja esittää vaatimuksiaan tekopaikan valtiossa tai että vakavan rikoksen ollessa kysymyksessä hän ei ole halunnut menetellä niin. Kansainvälisestä yhteistyöstä rikosten selvittämiseksi säädetään laissa erikseen.",
+      "section_number": "8",
+      "chapter_number": 3,
+      "statute_id": "689/1997"
+    },
+    {
+      "id": "6556272b-d370-4a67-aee7-3530213cf49f",
+      "node_type": "Section",
+      "publisher": "finlex",
+      "title": "9 § Esitutkinnan toimittamatta jättäminen ja lopettaminen",
+      "text": "Esitutkinta saadaan jättää toimittamatta tai jo aloitettu esitutkinta lopettaa sellaisen rikoksen johdosta, josta ei ole odotettavissa ankarampaa rangaistusta kuin sakkoa ja jota on kokonaisuutena arvostellen pidettävä ilmeisen vähäisenä, jos asianomistajalla ei ole asiassa vaatimuksia. Jos viranomainen sen perusteella, mitä muussa laissa säädetään, jättää ryhtymättä toimenpiteisiin rikoksesta epäillyn saattamiseksi syytteeseen, esitutkinta toimitetaan kuitenkin vain erityisestä syystä. Tässä pykälässä tarkoitetut päätökset tekee tarvittaessa tutkinnanjohtaja.",
+      "section_number": "9",
+      "chapter_number": 3,
+      "statute_id": "689/1997"
+    },
+    {
+      "id": "28cd9fa6-a451-480e-96dc-9d6ec776188e",
+      "node_type": "Section",
+      "publisher": "finlex",
+      "title": "10 § Esitutkinnan rajoittaminen",
+      "text": "Syyttäjä voi tutkinnanjohtajan esityksestä päättää, ettei esitutkintaa toimiteta tai että se lopetetaan, jos syyttäjä oikeudenkäynnistä rikosasioissa annetun lain 1 luvun 7 tai 8 §:n taikka muun vastaavan lainkohdan nojalla tulisi jättämään syytteen nostamatta eikä tärkeä yleinen tai yksityinen etu vaadi syytteen nostamista. Syyttäjä voi tutkinnanjohtajan esityksestä myös päättää, että esitutkinta lopetetaan, jos tutkinnan jatkamisesta aiheutuvat kustannukset olisivat selvässä epäsuhteessa tutkittavana olevan asian laatuun ja siitä mahdollisesti odotettavaan seuraamukseen tai jos jo suoritettujen esitutkintatoimenpiteiden perusteella on varsin todennäköistä, että syyttäjä tulisi jättämään syytteen nostamatta muulla kuin 1 momentissa mainitulla perusteella. Esitutkinnan lopettaminen edellyttää lisäksi, ettei tärkeä yleinen tai yksityinen etu vaadi esitutkinnan jatkamista. Esitutkinta on 1 ja 2 momentissa tarkoitetuissa tapauksissa aloitettava uudelleen, jos siihen asiassa ilmenneiden uusien seikkojen vuoksi on perusteltua syytä.",
+      "section_number": "10",
+      "chapter_number": 3,
+      "statute_id": "689/1997"
+    },
+    {
+      "id": "1e1a05be-aeb2-4cb8-a228-c82054334975",
+      "node_type": "Section",
+      "publisher": "finlex",
+      "title": "11 § Esitutkinnan toimittamisaika",
+      "text": "Esitutkinta on toimitettava ilman aiheetonta viivytystä. Alle 18-vuotiaan ollessa epäiltynä rikoksesta tai alle 15-vuotiaana tekemästään rikollisesta teosta esitutkinta on toimitettava kiireellisesti. Esitutkintatoimenpiteet voidaan olosuhteiden sitä edellyttäessä asettaa tärkeysjärjestykseen.",
+      "section_number": "11",
+      "chapter_number": 3,
+      "statute_id": "689/1997"
+    },
+    {
+      "id": "c6013533-bcaa-4a60-81a6-54ffa3577d21",
+      "node_type": "Section",
+      "publisher": "finlex",
+      "title": "12 § Esitutkintatoimenpiteiden siirtäminen",
+      "text": "Esitutkintatoimenpiteet saadaan tutkinnanjohtajan päätöksellä siirtää myöhempään ajankohtaan, jos siirtäminen on välttämätöntä tutkittavana olevan rikoksen tai toisen siihen liittyvän rikoksen selvittämiselle ja jos siirtämisestä ei aiheudu vaaraa toisen hengelle, terveydelle tai vapaudelle taikka huomattavan ympäristö-, omaisuus- tai varallisuusvahingon vaaraa.",
+      "section_number": "12",
+      "chapter_number": 3,
+      "statute_id": "689/1997"
+    },
+    {
+      "id": "f57213ce-350b-49fe-9974-af1441cc84ba",
+      "node_type": "Section",
+      "publisher": "finlex",
+      "title": "13 § Esitutkinnan keskeyttäminen",
+      "text": "Esitutkinta saadaan sen aloittamisen jälkeen tutkinnanjohtajan päätöksellä keskeyttää, jos rikoksesta ei epäillä ketään ja jos asiaan vaikuttavaa selvitystä ei ole saatavissa. Esitutkinnan keskeyttämisestä päätettäessä on erityisesti otettava huomioon epäillyn rikoksen laatu. Esitutkintaa on jatkettava ilman aiheetonta viivytystä, kun edellytyksiä keskeyttämiselle ei enää ole.",
+      "section_number": "13",
+      "chapter_number": 3,
+      "statute_id": "689/1997"
+    },
+    {
+      "id": "b71d8b25-978e-4862-a638-ea215e0a9951",
+      "node_type": "Section",
+      "publisher": "finlex",
+      "title": "14 § Suppean esitutkinnan edellytykset",
+      "text": "Yksinkertaisissa ja selvissä asioissa esitutkinta saadaan suorittaa suppeana siten kuin siitä jäljempänä säädetään, jos teosta ei ole yleisen rangaistuskäytännön mukaisesti odotettavissa ankarampaa rangaistusta kuin sakkoa. Poliisimiehen tekemäksi epäillyn rikoksen johdosta saadaan toimittaa suppea esitutkinta vain, jos asia käsitellään rikesakko- tai rangaistusmääräysasiana. Tutkinnanjohtaja päättää tarvittaessa siitä, toimitetaanko esitutkinta täydellisenä vai suppeana.",
+      "section_number": "14",
+      "chapter_number": 3,
+      "statute_id": "689/1997"
+    },
+    {
+      "id": "8eb3ce5d-31a3-4a59-9ef0-7acd49a4234c",
+      "node_type": "Section",
+      "publisher": "finlex",
+      "title": "1 § Tasapuolisuusperiaate",
+      "text": "Esitutkinnassa on selvitettävä ja otettava huomioon sekä rikoksesta epäiltyä vastaan että hänen puolestaan vaikuttavat seikat ja todisteet.",
+      "section_number": "1",
+      "chapter_number": 4,
+      "statute_id": "689/1997"
+    },
+    {
+      "id": "c6e6c976-c62a-4dd3-856c-63b069742240",
+      "node_type": "Section",
+      "publisher": "finlex",
+      "title": "2 § Syyttömyysolettama",
+      "text": "Rikoksesta epäiltyä on kohdeltava esitutkinnassa syyttömänä.",
+      "section_number": "2",
+      "chapter_number": 4,
+      "statute_id": "689/1997"
+    },
+    {
+      "id": "a95d4bb0-4c56-4666-81bd-b27a3b797b5d",
+      "node_type": "Section",
+      "publisher": "finlex",
+      "title": "3 § Oikeus olla myötävaikuttamatta rikoksensa selvittämiseen",
+      "text": "Rikoksesta epäillyllä on oikeus olla myötävaikuttamatta sen rikoksen selvittämiseen, josta häntä epäillään.",
+      "section_number": "3",
+      "chapter_number": 4,
+      "statute_id": "689/1997"
+    },
+    {
+      "id": "4806b6a7-5d59-4167-a382-d2cd0aa735d4",
+      "node_type": "Section",
+      "publisher": "finlex",
+      "title": "4 § Suhteellisuusperiaate",
+      "text": "Esitutkintatoimenpiteen ja siitä aiheutuvan henkilön oikeuksiin puuttumisen on oltava puolustettavia suhteessa selvitettävään rikokseen, selvitettävän asian selvittämis-tarpeeseen sekä toimenpiteen kohteena olevan henkilön ikään, terveyteen ja muihin vastaaviin häneen liittyviin seikkoihin ja muihin asiaan vaikuttaviin seikkoihin nähden.",
+      "section_number": "4",
+      "chapter_number": 4,
+      "statute_id": "689/1997"
+    },
+    {
+      "id": "e052dc43-d4fa-4cc4-8847-533cd3b2ca78",
+      "node_type": "Section",
+      "publisher": "finlex",
+      "title": "5 § Vähimmän haitan periaate",
+      "text": "Esitutkinnassa ei kenenkään oikeuksiin saa puuttua enempää kuin on välttämätöntä esitutkinnan tarkoituksen saavuttamiseksi. Esitutkintatoimenpiteellä ei saa aiheuttaa kenellekään tarpeettomasti vahinkoa tai haittaa.",
+      "section_number": "5",
+      "chapter_number": 4,
+      "statute_id": "689/1997"
+    },
+    {
+      "id": "6fc3941f-1007-4891-a61a-1a4592914adc",
+      "node_type": "Section",
+      "publisher": "finlex",
+      "title": "6 § Hienotunteisuusperiaate",
+      "text": "Esitutkinnan asianosaisia ja muita esitutkintaan osallistuvia on kohdeltava hienotunteisesti.",
+      "section_number": "6",
+      "chapter_number": 4,
+      "statute_id": "689/1997"
+    },
+    {
+      "id": "6441e948-305e-4f39-a8b4-3b06c4e5bf62",
+      "node_type": "Section",
+      "publisher": "finlex",
+      "title": "7 § Lasten kohtelu esitutkinnassa",
+      "text": "Alle 18-vuotiasta on kohdeltava esitutkinnassa hänen ikänsä ja kehitystasonsa edellyttämällä tavalla. Erityisesti on huolehdittava siitä, ettei tutkintatoimenpiteistä aiheudu hänelle tarpeetonta haittaa koulussa, työpaikalla tai muussa hänelle tärkeässä ympäristössä. Alle 18-vuotiaisiin kohdistuvat tutkintatoimenpiteet on mahdollisuuksien mukaan annettava tähän tehtävään erityisesti perehtyneille tutkijoille. Esitutkintaviranomaisen on tarvittaessa neuvoteltava lääkärin tai muun asiantuntijan kanssa siitä, voidaanko alle 18-vuotiaaseen kohdistaa tutkintatoimenpiteitä.",
+      "section_number": "7",
+      "chapter_number": 4,
+      "statute_id": "689/1997"
+    },
+    {
+      "id": "bd1c714b-76cc-4974-8cfc-d1f2b0fc4bde",
+      "node_type": "Section",
+      "publisher": "finlex",
+      "title": "8 § Edunvalvojan määrääminen lapselle",
+      "text": "Tuomioistuimen on määrättävä alle 18-vuotiaalle asianosaiselle esitutkintaa varten edunvalvoja, jos on perusteltua syytä olettaa, että huoltaja, edunvalvoja tai muu laillinen edustaja ei voi puolueettomasti valvoa asianosaisen etua asiassa ja jos edunvalvojan määrääminen ei ole selvästi tarpeetonta. Tutkinnanjohtajan on tarvittaessa tehtävä tuomioistuimelle hakemus edunvalvojan määräämisestä. Hakemuksen voi tehdä myös syyttäjä, holhoustoimesta annetussa laissa (442/1999) tarkoitettuna holhousviranomaisena toimiva maistraatti tai sosiaalihuoltolain (710/1982) 6 §:n 1 momentissa tarkoitettu toimielin (sosiaaliviranomainen). Edunvalvojan määräys on voimassa sen rikosasian käsittelyn loppuun asti, jonka esitutkintaa varten määräys on annettu. Edunvalvojan määräämisestä aiheutuneet kustannukset sekä edunvalvojan palkkio ja kustannukset maksetaan valtion varoista. Muuten edunvalvonnassa noudatetaan soveltuvin osin holhoustoimesta annetun lain säännöksiä.",
+      "section_number": "8",
+      "chapter_number": 4,
+      "statute_id": "689/1997"
+    },
+    {
+      "id": "a0756179-ac3a-4ba8-be0c-e12efdb4913a",
+      "node_type": "Section",
+      "publisher": "finlex",
+      "title": "9 § Henkilön asema esitutkinnassa",
+      "text": "Kun henkilöön kohdistetaan esitutkintatoimenpiteitä, hänelle on mahdollisimman nopeasti ilmoitettava hänen asemansa esitutkinnassa. Tällainen ilmoittamisvelvollisuus koskee myös asemassa tapahtuneita muutoksia. Henkilöä voidaan kohdella esitutkinnassa kuultavana, jos hänen asemansa on epäselvä.",
+      "section_number": "9",
+      "chapter_number": 4,
+      "statute_id": "689/1997"
+    },
+    {
+      "id": "ce93ec06-3091-415c-b64f-514c5f4e337d",
+      "node_type": "Section",
+      "publisher": "finlex",
+      "title": "10 § Oikeus käyttää avustajaa esitutkinnassa",
+      "text": "Asianosaisella on oikeus käyttää valitsemaansa avustajaa esitutkinnassa. Asianosaiselle on ennen hänen kuulemistaan kirjallisesti ilmoitettava mainitusta oikeudesta, jollei asia ole suppeassa esitutkinnassa käsiteltävä. Rikoksesta epäillylle oikeudesta on kirjallisesti ilmoitettava viipymättä, kun hän menettää vapautensa kiinniottamisen, pidättämisen tai vangitsemisen yhteydessä. Esitutkintaviranomaisen on muutenkin selvitettävään rikokseen, rikoksen selvittämiseen ja asianosaisen henkilöön liittyvät seikat huomioon ottaen huolehdittava siitä, että asianosaisen oikeus käyttää avustajaa tosiasiallisesti toteutuu hänen sitä halutessaan. Tutkinnanjohtajan tai syyttäjän on tehtävä tuomioistuimelle esitys oikeudenkäyntiavustajan tai tukihenkilön määräämisestä asianomistajalle, kun siihen on aihetta oikeudenkäynnistä rikosasioissa annetun lain 2 luvun säännösten nojalla, ja puolustajan määräämisestä rikoksesta epäillylle, kun siihen on aihetta mainitun luvun 1 §:n 3 momentin nojalla. Asianosaisen avustajan kelpoisuudesta ja sen ratkaisemisesta säädetään 11 luvun 3 §:ssä.",
+      "section_number": "10",
+      "chapter_number": 4,
+      "statute_id": "689/1997"
+    },
+    {
+      "id": "9415edd5-32d0-45e1-9836-0afbaca98b4a",
+      "node_type": "Section",
+      "publisher": "finlex",
+      "title": "11 § Epäillyn yhteydenpito avustajaan",
+      "text": "Rikoksesta epäiltynä kiinniotetulla, pidätetyllä tai vangitulla on oikeus pitää yhteyttä avustajaansa tapaamalla, kirjeitse ja puhelimitse siten kuin tutkintavankeuslaissa (768/2005) ja poliisin säilyttämien henkilöiden kohtelusta annetussa laissa (841/2006) tarkemmin säädetään. Esitutkintaviranomaisen on huolehdittava siitä, että epäillyn ja hänen avustajansa yhteydenpidon luottamuksellisuus turvataan.",
+      "section_number": "11",
+      "chapter_number": 4,
+      "statute_id": "689/1997"
+    },
+    {
+      "id": "3ff4a961-18c0-48b1-b18b-676fe452f42f",
+      "node_type": "Section",
+      "publisher": "finlex",
+      "title": "12 § Esitutkinnan käsittelykieli",
+      "text": "Esitutkinnassa käytetään kaksikielisen esitutkintaviranomaisen virka-alueella rikoksesta epäillyn kieltä, joko suomea tai ruotsia. Jos epäillyt ovat erikielisiä tai jos epäillyn kieli ei ole suomi tai ruotsi, esitutkintaviranomainen päättää käsittelykielestä asianosaisten oikeutta ja etua silmällä pitäen. Jos kielivalintaa ei voida tehdä tällä perusteella, käytetään esitutkintaviranomaisen virka-alueen väestön enemmistön kieltä. Esitutkinnassa käytetään yksikielisen esitutkintaviranomaisen toimittamassa esitutkinnassa viranomaisen virka-alueen kieltä, jollei viranomainen asianosaisten oikeutta ja etua silmällä pitäen päätä toisen kielen käyttämisestä. Esitutkinnassa jokaisella on kuitenkin oikeus 1 momentista riippumatta käyttää suomea tai ruotsia kielilain (423/2003) 10 §:ssä säädetyllä tavalla. Esitutkintaviranomaisen on huolehdittava tulkkauksesta tai valtion kustannuksella hankittava tulkki silloin, kun viranomaisen ei ole käytettävä sen kanssa asioivan henkilön kieltä. Oikeudesta käyttää saamen kieltä esitutkinnassa säädetään saamen kielilaissa (1086/2003). Muulla kuin suomen-, ruotsin- tai saamenkielisellä on oikeus esitutkinnassa käyttää kieltä, jota hän ymmärtää ja osaa puhua riittävästi, sekä viittomakielisellä oikeus käyttää viittomakieltä. Esitutkintaviranomaisen on huolehdittava tulkkauksesta tai valtion kustannuksella hankittava tulkki. Tulkkaus on 2 ja 4 momentissa tarkoitetuissa tapauksissa järjestettävä myös silloin, kun se on kuultavan aisti- tai puhevian takia tarpeen.",
+      "section_number": "12",
+      "chapter_number": 4,
+      "statute_id": "689/1997"
+    },
+    {
+      "id": "6d80b22e-3576-4227-83d5-e78d259e2490",
+      "node_type": "Section",
+      "publisher": "finlex",
+      "title": "13 § Asiakirjan kääntäminen",
+      "text": "Asian kannalta olennainen esitutkinta-aineistoon kuuluva asiakirja tai sen osa on käännettävä 12 §:ssä tarkoitetulle asianosaisen käyttämälle kielelle, jos kääntäminen on tulkkauksesta huolimatta tarpeen asianosaisen oikeuden valvomiseksi. Kääntäminen tapahtuu valtion kustannuksella, jollei esitutkintaviranomainen itse huolehdi kääntämisestä. Asiakirjan kääntämisestä on lisäksi voimassa, mitä kääntämisestä kielilaissa ja saamen kielilaissa säädetään.",
+      "section_number": "13",
+      "chapter_number": 4,
+      "statute_id": "689/1997"
+    },
+    {
+      "id": "0e531786-d590-469a-a6e2-092459505999",
+      "node_type": "Section",
+      "publisher": "finlex",
+      "title": "14 § Ilmoitusten, kutsujen ja kirjeiden kieli",
+      "text": "Esitutkintaan liittyvissä ilmoituksissa, kutsuissa ja kirjeissä käytettävästä kielestä säädetään kielilain 19 §:n 3 momentissa ja saamen kielilain 15 §:n 1 momentissa. Muulle kuin suomen-, ruotsin- tai saamenkieliselle on ilmoitus, kutsu tai kirje lähetettävä mahdollisuuksien mukaan kielellä, jota hänen voidaan olettaa riittävästi ymmärtävän.",
+      "section_number": "14",
+      "chapter_number": 4,
+      "statute_id": "689/1997"
+    },
+    {
+      "id": "9b86e52a-aae6-4e3f-b7dd-1682f2fdad5c",
+      "node_type": "Section",
+      "publisher": "finlex",
+      "title": "15 § Asianosaisjulkisuus esitutkinnassa",
+      "text": "Asianosaisella on esitutkinnan aloittamisen jälkeen oikeus saada tieto esitutkintaan johtaneista ja esitutkinnassa ilmi tulleista seikoista. Esitutkintaviranomainen voi esitutkinnan aikana rajoittaa asianosaisen oikeutta saada tieto 1 momentissa tarkoitetuista seikoista, jos tietojen antamisesta on haittaa asian selvittämiselle. Huomioon on otettava myös viranomaisten toiminnan julkisuudesta annetussa laissa (621/1999) ja muualla laissa olevat asianosaisen tiedonsaantioikeutta koskevat rajoitukset. Esitutkinta-asiakirjojen julkisuudesta säädetään 9 luvun 7 §:ssä.",
+      "section_number": "15",
+      "chapter_number": 4,
+      "statute_id": "689/1997"
+    },
+    {
+      "id": "21ef8371-9ebb-44f5-9126-bc24d38bd3f6",
+      "node_type": "Section",
+      "publisher": "finlex",
+      "title": "1 § Ilmoitus syyttäjälle",
+      "text": "Esitutkintaviranomaisen on viipymättä ilmoitettava syyttäjälle asiasta, jossa rikoksesta epäiltynä on poliisimies, jollei asiaa käsitellä rikesakko- tai rangaistusmääräysasiana. Syyttäjälle on lisäksi ilmoitettava tutkittavaksi tulleesta rikoksesta, jonka esitutkinta- ja syyttäjäviranomaiset ovat yhdessä niille kuuluvan toimivallan perusteella päättäneet kuuluvan ilmoitusvelvollisuuden piiriin tai josta syyttäjä on pyytänyt ilmoittamaan.",
+      "section_number": "1",
+      "chapter_number": 5,
+      "statute_id": "689/1997"
+    },
+    {
+      "id": "57484716-5685-4d6f-9b1e-85b7b07850e4",
+      "node_type": "Section",
+      "publisher": "finlex",
+      "title": "2 § Syyttäjän toimivaltuudet esitutkinnassa",
+      "text": "Esitutkintaviranomaisen on syyttäjän pyynnöstä toimitettava esitutkinta tai suoritettava esitutkintatoimenpide. Esitutkinta-viranomaisen on muutenkin noudatettava syyttäjän määräyksiä, joilla pyritään turvaamaan asian selvittäminen 1 luvun 2 §:ssä tarkoitetulla tavalla. Syyttäjä päättää esitutkintatoimenpiteistä asian siirryttyä hänelle esitutkinnan päättämisen jälkeen. Syyttäjän toimimisesta tutkinnanjohtajana säädetään 2 luvun 4 §:ssä.",
+      "section_number": "2",
+      "chapter_number": 5,
+      "statute_id": "689/1997"
+    },
+    {
+      "id": "4619bfee-076e-4d01-b3c5-ac253efe09ac",
+      "node_type": "Section",
+      "publisher": "finlex",
+      "title": "3 § Yhteistyövelvollisuus",
+      "text": "Esitutkintaviranomaisen tulee asian laadun tai laajuuden edellyttämällä tavalla ilmoittaa syyttäjälle esitutkinnan toimittamiseen ja esitutkintatoimenpiteisiin liittyvistä seikoista sekä tutkinnan edistymisestä muuten. Jos esitutkintaviranomainen on ilmoittanut tutkittavaksi tulleesta rikoksesta syyttäjälle, tutkinnanjohtajan on ennen esitutkinnan päättämistä kuultava syyttäjää siitä, onko asia selvitetty riittävästi 1 luvun 2 §:ssä tarkoitetulla tavalla, jos asian laatu tai laajuus edellyttää kuulemista tai jos esitutkinta on tarkoitus päättää saattamatta asiaa syyttäjän käsiteltäväksi. Pakkokeinojen käyttöön liittyvästä ilmoittamisvelvollisuudesta säädetään pakkokeinolaissa. Syyttäjän on tarvittavassa määrin osallistuttava esitutkintaan sen varmistamiseksi, että asia selvitetään 1 luvun 2 §:ssä tarkoitetulla tavalla. Esitutkintaviranomaisen ja syyttäjän tulee neuvotella esitutkintayhteistyön järjestämiseen liittyvistä kysymyksistä.",
+      "section_number": "3",
+      "chapter_number": 5,
+      "statute_id": "689/1997"
+    },
+    {
+      "id": "128263e7-b1ef-4317-9bf5-a4f8d9741515",
+      "node_type": "Section",
+      "publisher": "finlex",
+      "title": "1 § Velvollisuus saapua esitutkintaan",
+      "text": "Jos on syytä olettaa, että henkilöltä saadaan selvitystä rikoksesta, tai jos hänen läsnäolonsa esitutkintatoimenpidettä suoritettaessa on muuten tarpeen rikoksen selvittämiseksi, hän on velvollinen kutsusta saapumaan esitutkintaan sen poliisilaitoksen toimialueella, jossa hän oleskelee. Kutsussa on ilmoitettava tutkittavana oleva rikos ja kutsuttavan asema esitutkinnassa.",
+      "section_number": "1",
+      "chapter_number": 6,
+      "statute_id": "689/1997"
+    },
+    {
+      "id": "bfc210ad-6303-4b54-bbc1-f2eb68ce87ea",
+      "node_type": "Section",
+      "publisher": "finlex",
+      "title": "2 § Nouto esitutkintaan",
+      "text": "Jos esitutkintaan kutsuttu jättää ilman hyväksyttävää syytä kutsun noudattamatta, hänet voidaan noutaa sinne. Rikoksesta epäilty voidaan noutaa ilman kutsuakin, jos rikoksesta saattaa seurata vankeutta ja on todennäköistä, että hän ei noudata kutsua, tai jos on syytä epäillä, että hän kutsun saatuaan ryhtyy pakenemalla, todisteita hävittämällä tai muulla tavalla vaikeuttamaan esitutkintaa. Noudosta päättää tutkinnanjohtaja. Noudosta on annettava noudettavaksi määrätylle kirjallinen määräys. Jos määräystä ei asian kiireellisyyden vuoksi ole kirjallisena, määräys ja sen perusteena olevat seikat on kerrottava noudettavalle kiinniottamisen yhteydessä. Etsinnästä kuulusteluun noutoa varten säädetään pakkokeinolain 8 luvun 3 §:n 1 momentissa ja 4 §:ssä.",
+      "section_number": "2",
+      "chapter_number": 6,
+      "statute_id": "689/1997"
+    },
+    {
+      "id": "944e3b21-69fd-4281-9b97-b85900db3fee",
+      "node_type": "Section",
+      "publisher": "finlex",
+      "title": "3 § Välitön kuuleminen",
+      "text": "Rikospaikalta tai sen välittömästä läheisyydestä tavatun henkilön on poliisimiehen kehotuksesta jäätävä tälle paikalle tai saavuttava välittömästi muuhun saman poliisilaitoksen toimialueella olevaan paikkaan, jos häntä on asian selvittämiseksi tarpeen heti kuulla. Jos hän ilman hyväksyttävää syytä kieltäytyy noudattamasta kehotusta tai tämä on hänen käyttäytymisensä perusteella todennäköistä, poliisi voi estää häntä poistumasta paikalta tai ottaa hänet kiinni ja viedä kuultavaksi. Rikospaikalta poistumassa oleva saadaan ottaa kiinni 1 momentissa tarkoitetun kehotuksen antamiseksi, jos olosuhteet ovat sellaiset, että kehotusta ei voida muuten saattaa hänen tietoonsa ja asian selvittäminen muuten vaarantuisi.",
+      "section_number": "3",
+      "chapter_number": 6,
+      "statute_id": "689/1997"
+    },
+    {
+      "id": "47e145df-88bc-40c3-860d-7d052e0775ef",
+      "node_type": "Section",
+      "publisher": "finlex",
+      "title": "4 § Tutkintatoimenpiteiden viivytyksetön aloittaminen",
+      "text": "Esitutkintatoimenpiteet, joiden vuoksi henkilö on kutsusta saapunut tai noudettu esitutkintaan taikka on 3 §:n nojalla määrätty jäämään paikalle tai viety kuultavaksi, on aloitettava ilman aiheetonta viivytystä.",
+      "section_number": "4",
+      "chapter_number": 6,
+      "statute_id": "689/1997"
+    },
+    {
+      "id": "a4dc1349-d0c6-418d-b36e-9783e2c5c862",
+      "node_type": "Section",
+      "publisher": "finlex",
+      "title": "5 § Läsnäolon kesto",
+      "text": "Ketään ei saa pitää esitutkinnassa kauempaa kuin on välttämätöntä. Muu kuin rikoksesta epäilty on velvollinen olemaan läsnä esitutkinnassa enintään 6 tuntia kerrallaan. Epäilty, jota ei ole pidätetty tai vangittu, on velvollinen olemaan läsnä kerrallaan enintään 12 tuntia ja, jos pidättämiseen on pakkokeinolain 2 luvun 5 §:n mukaiset edellytykset, enintään 24 tuntia. Alle 15-vuotiaana tehdystä rikollisesta teosta epäilty on erittäin painavista syistä velvollinen olemaan läsnä kerrallaan yli 12 tuntia ja enintään 24 tuntia. Esitutkinnassa ollutta ei saa ilman erityistä syytä uudelleen velvoittaa saapumaan tai noutaa sinne seuraavien 12 tunnin aikana siitä, kun hän on poistunut esitutkinnasta.",
+      "section_number": "5",
+      "chapter_number": 6,
+      "statute_id": "689/1997"
+    },
+    {
+      "id": "aaa847ef-1065-42e6-b1bf-6665c3822098",
+      "node_type": "Section",
+      "publisher": "finlex",
+      "title": "6 § Poistumisen estäminen",
+      "text": "Rikoksesta epäiltyä, joka on 5 §:n 2 momentin nojalla velvollinen olemaan läsnä esitutkinnassa ja jota ei ole pidätetty tai vangittu, saadaan esitutkinnassa pitää lukitussa tilassa, jos se on välttämätöntä hänen poistumisensa estämiseksi.",
+      "section_number": "6",
+      "chapter_number": 6,
+      "statute_id": "689/1997"
+    },
+    {
+      "id": "88ccf9c2-4cd9-456d-967a-21737fc5c63d",
+      "node_type": "Section",
+      "publisher": "finlex",
+      "title": "7 § Ilmoitus sotilasviranomaiselle",
+      "text": "Sotilaan noutamisesta tai kiinniottamisesta esitutkintaa varten taikka vapaaksi päästämisestä on viipymättä ilmoitettava sen hallintoyksikön päällikölle, jossa asianomainen sotilas palvelee.",
+      "section_number": "7",
+      "chapter_number": 6,
+      "statute_id": "689/1997"
+    },
+    {
+      "id": "8393a11f-def1-4e83-b750-b3f9afa7c96a",
+      "node_type": "Section",
+      "publisher": "finlex",
+      "title": "1 § Kuulusteltavan läsnäolo",
+      "text": "Kuulusteltavan on oltava itse läsnä kuulustelussa. Jos tutkija katsoo, ettei siitä aiheudu haittaa ja ettei se vaaranna tutkinnan luotettavuutta, asianosainen saa antaa lausumansa asiamiehen välityksellä taikka puhelimitse tai muulla tiedonsiirtovälineellä. Samoin edellytyksin saadaan todistajaa kuulustella puhelimitse tai muulla tiedonsiirtovälineellä. Rikoksesta epäiltyä saadaan kuulustella asiamiehen välityksellä vain, jos asia koskee rikosta, josta ei ole säädetty muuta tai ankarampaa rangaistusta kuin sakko tai kuusi kuukautta vankeutta. Asianosaiselta ja todistajalta on otettava vastaan heidän tarjoamansa kuulustelukertomusta täydentävät kirjalliset selvitykset.",
+      "section_number": "1",
+      "chapter_number": 7,
+      "statute_id": "689/1997"
+    },
+    {
+      "id": "f72751e3-e874-44bd-b68f-580333e73c85",
+      "node_type": "Section",
+      "publisher": "finlex",
+      "title": "2 § Asianomistajan kuulustelemisrajoitukset",
+      "text": "Asianomistaja, jolla ilmeisesti ei ole tutkittavaa asiaa selventäviä tietoja, voidaan jättää esitutkinnassa kuulustelematta, jos hän on rikosilmoituksen tehdessään tai muussa yhteydessä ilmoittanut syytteestä päättämistä ja oikeudenkäyntiä varten tarvittavat seikat. Asianomistajan kuulusteleminen voidaan jättää tämän omasta ilmoittautumisesta tapahtuvaksi, jos asian laatu asianomistajien suuren lukumäärän tai muun vastaavan syyn vuoksi sitä edellyttää.",
+      "section_number": "2",
+      "chapter_number": 7,
+      "statute_id": "689/1997"
+    },
+    {
+      "id": "78508dae-fd43-4876-9a04-a9437c1a7065",
+      "node_type": "Section",
+      "publisher": "finlex",
+      "title": "3 § Päihtyneen kuulusteleminen",
+      "text": "Jos henkilö on niin päihtynyt alkoholista tai muusta huumaavasta aineesta, että hänen ei voida olettaa ymmärtävän kuulustelun merkitystä, häntä saa kuulustella vain, jos kuulustelua ei voida lykätä rikoksen selvittämistä vaarantamatta. Kuulustellulle on varattava tilaisuus myöhemmin uudelleen tarkastaa kertomuksensa siten kuin kuulustelukertomuksen tarkastamisesta jäljempänä säädetään.",
+      "section_number": "3",
+      "chapter_number": 7,
+      "statute_id": "689/1997"
+    },
+    {
+      "id": "be67f740-e05b-4087-9baf-931c7445ae57",
+      "node_type": "Section",
+      "publisher": "finlex",
+      "title": "4 § Mielentilaltaan häiriintyneen kuulusteleminen",
+      "text": "Jos kuulusteltavan ei voida olettaa ymmärtävän kuulustelun merkitystä mielenterveyden häiriön, järkytyksen tai muun vastaavan syyn takia, sovelletaan vastaavasti, mitä 3 §:ssä säädetään. Kuulustelemisesta on tarvittaessa neuvoteltava kuulusteltavan läheisten ja lääkärin kanssa.",
+      "section_number": "4",
+      "chapter_number": 7,
+      "statute_id": "689/1997"
+    },
+    {
+      "id": "8562b08c-7a35-4e91-b492-c75077360b8e",
+      "node_type": "Section",
+      "publisher": "finlex",
+      "title": "5 § Kuulusteltavan kohtelu",
+      "text": "Kuulusteltavaa on kohdeltava rauhallisesti ja asiallisesti. Tunnustuksen tai määrättyyn suuntaan johtavan lausuman saamiseksi kuulusteltavalta ei saa käyttää tietoisesti vääriä ilmoituksia, lupauksia tai uskotteluja erityisistä eduista, uuvuttamista, uhkausta, pakkoa taikka muita kuulusteltavan ratkaisuvapauteen, tahdonvoimaan, muistiin tai arvostelukykyyn vaikuttavia sopimattomia keinoja tai menettelytapoja. Kuulustelun saa toimittaa kello 22:n ja 7:n välisenä aikana ainoastaan, jos: Kuulusteltavalle on annettava tilaisuus säännölliseen ateriointiin ja riittävään lepoon.",
+      "section_number": "5",
+      "chapter_number": 7,
+      "statute_id": "689/1997"
+    },
+    {
+      "id": "04b4162f-a508-4c4e-9d4d-fec573512682",
+      "node_type": "Section",
+      "publisher": "finlex",
+      "title": "6 § Asianomistajan totuudessa pysymisvelvollisuus",
+      "text": "Asianomistajan sekä tämän laillisen edustajan ja asiamiehen on pysyttävä totuudessa tehdessään selkoa tutkittavasta asiasta ja vastatessaan esitettyihin kysymyksiin.",
+      "section_number": "6",
+      "chapter_number": 7,
+      "statute_id": "689/1997"
+    },
+    {
+      "id": "6b6666a5-09a9-47d5-b099-3ffdd47d001b",
+      "node_type": "Section",
+      "publisher": "finlex",
+      "title": "7 § Todistajana kuulemisen esteet",
+      "text": "Todistajana esitutkinnassa ei saa kuulustella sitä, joka ei saisi todistaa tutkittavaa rikosta koskevassa oikeudenkäynnissä. Oikeudenkäymiskaaren 17 luvun 21 §:ssä tarkoitetun henkilön kuulustelemisesta todistajana tai todistelutarkoituksessa esitutkinnassa päättää tutkinnanjohtaja.",
+      "section_number": "7",
+      "chapter_number": 7,
+      "statute_id": "689/1997"
+    },
+    {
+      "id": "8db80bfd-6490-455f-921e-d794f4c0a3fc",
+      "node_type": "Section",
+      "publisher": "finlex",
+      "title": "8 § Todistajan ilmaisuvelvollisuus ja kieltäytyminen todistamasta",
+      "text": "Todistajan on totuudenmukaisesti ja mitään salaamatta ilmaistava, mitä hän tietää tutkittavasta asiasta. Jos hän kuitenkin olisi tutkittavaa rikosta koskevassa oikeudenkäynnissä oikeutettu tai velvollinen kieltäytymään todistamasta, ilmaisemasta seikkaa tai vastaamasta kysymykseen, hän on oikeutettu tai velvollinen siihen myös esitutkinnassa. Todistaja, jolla on 1 momentissa tarkoitettu ilmaisuvelvollisuus, on velvollinen myös esittämään hallussaan olevan, esitutkinnan kannalta merkityksellisen asiakirjan tai muun todistusaineiston. Oikeudenkäymiskaaren 17 luvun 23 §:n 1 momentissa tarkoitettu henkilö, joka mainitun pykälän 3 momentin nojalla voidaan velvoittaa todistamaan salassa pidettävästä asiasta, on oikeutettu todistamaan tästä esitutkinnassa, jos tutkittavana on rikos, josta säädetty ankarin rangaistus on vähintään kuusi vuotta vankeutta taikka sellaisen rikoksen yritys tai osallisuus siihen. Oikeudenkäymiskaaren 17 luvun 24 §:n 2 momentissa tarkoitettu henkilö, joka mainitun pykälän 4 momentin nojalla voidaan velvoittaa vastaamaan pykälän 2 tai 3 momentissa tarkoitettuun kysymykseen, on velvollinen vastaamaan tällaiseen kysymykseen ja esittämään hallussaan olevan, esitutkinnan kannalta merkityksellisen asiakirjan tai muun todistusaineiston myös esitutkinnassa, jos tutkittavana on tämän pykälän 3 momentissa tarkoitettu rikos.",
+      "section_number": "8",
+      "chapter_number": 7,
+      "statute_id": "689/1997"
+    },
+    {
+      "id": "45983bc1-3cb3-40bb-a3f8-8ae149a158f9",
+      "node_type": "Section",
+      "publisher": "finlex",
+      "title": "9 § Todistajankuulustelu tuomioistuimessa",
+      "text": "Jos todistajalla ilmeisesti on tiedossaan seikka, joka on tärkeä syyllisyyden selvittämiseksi tai rikoksella saadun hyödyn jäljittämiseksi ja pois ottamiseksi, ja hän kieltäytyy sitä ilmaisemasta, vaikka hän saattaa olla ilmaisemiseen velvollinen tai 8 §:n 3 momentin mukaan ilmaisemiseen oikeutettu, kysymys kieltäytymisen perusteesta tutkitaan tutkinnanjohtajan pyynnöstä tuomioistuimessa. Todistajankuulustelu toimitetaan tuomioistuimessa, jos kieltäytymiselle ei ole laillista perustetta. Mitä 1 momentissa säädetään, sovelletaan myös todistajaan, joka kieltäytyy esittämästä asiakirjaa tai muuta todistusaineistoa. Todistajankuulustelu voidaan toimittaa siinä käräjäoikeudessa, jossa se käy sopivasti päinsä. Todistajankuulustelussa on soveltuvin osin voimassa, mitä oikeudenkäymiskaaressa säädetään todistelun vastaanottamisesta pääkäsittelyn ulkopuolella. Rikoksesta epäillyn ja hänen avustajansa tai asiamiehensä oikeudesta olla läsnä todistajaa kuulusteltaessa on voimassa, mitä 13 ja 18 §:ssä säädetään. Läsnäolo-oikeudesta päättää tuomioistuin tutkinnanjohtajaa kuultuaan. Todistajalla on oikeus saada korvausta taloudellisesta menetyksestä sekä matka- ja toimeentulokustannuksista niiden perusteiden mukaan, joista säädetään valtion varoista maksettavista todistelukustannuksista annetussa laissa (666/1972). Oikeutta korvaukseen ei kuitenkaan ole, jos tuomioistuin katsoo, että todistajan kieltäytyminen on ollut ilmeisen aiheeton.",
+      "section_number": "9",
+      "chapter_number": 7,
+      "statute_id": "689/1997"
+    },
+    {
+      "id": "f2a4c18d-8fa4-41b1-9233-6b9ce711a70e",
+      "node_type": "Section",
+      "publisher": "finlex",
+      "title": "10 § Ennen kuulustelua tehtävät ilmoitukset",
+      "text": "Kuulusteltavalle on ennen kuulustelua ilmoitettava hänen asemansa esitutkinnassa, hänen oikeutensa pyytää kuulustelutodistaja paikalle ja hänen kielelliset oikeutensa sekä rikoksesta epäillylle hänen oikeutensa olla myötävaikuttamatta rikoksensa selvittämiseen. Rikoksesta epäillylle on ennen kuulustelua yksilöitävä teko, josta häntä epäillään. Samalla epäillylle on ilmoitettava oikeudesta käyttää avustajaa esitutkinnassa ja siitä, milloin hänelle voidaan määrätä puolustaja. Avustajaa ja puolustajaa koskeva ilmoitus voidaan jättää tekemättä, jos se on 4 luvun 10 §:n nojalla jo tehtyjen toimenpiteiden perusteella tai muuten ilmeisen tarpeeton. Ennen kuulustelua asianomistajalle, tämän lailliselle edustajalle ja asiamiehelle sekä todistajalle on ilmoitettava totuusvelvollisuudesta ja perättömästä lausumasta säädetystä rangaistusuhasta. Asianomistajalle on ennen kuulustelua ilmoitettava, milloin hänelle oikeudenkäynnistä rikosasioissa annetun lain 2 luvun mukaan voidaan määrätä oikeudenkäyntiavustaja tai tukihenkilö. Todistajalta on tiedusteltava sellaisia seikkoja, jotka lain mukaan oikeuttavat tai velvoittavat hänet kieltäytymään todistamasta. Aiheen ilmetessä todistajalle on ilmoitettava, mitä 8 ja 9 §:ssä säädetään.",
+      "section_number": "10",
+      "chapter_number": 7,
+      "statute_id": "689/1997"
+    },
+    {
+      "id": "4924986b-aac2-4c86-822c-6c72347a0359",
+      "node_type": "Section",
+      "publisher": "finlex",
+      "title": "11 § Kuulustelutodistaja",
+      "text": "Kuulusteltavan pyynnöstä on kuulustelussa oltava läsnä luotettava ja oikeudenkäymiskaaren 17 luvun 43 §:n mukaan esteetön todistaja. Tutkija voi myös omasta aloitteestaan kutsua todistajan paikalle. Jollei kuulustelua voida tutkintaa vaarantamatta viivyttää, se saadaan kuulusteltavan pyynnöstä huolimatta suorittaa ilman todistajaa. Rikoksesta epäiltyä alle 18-vuotiasta ei kuitenkaan saa kuulustella ilman todistajaa, paitsi jos kuulustelussa on läsnä hänen avustajansa tai laillinen edustajansa taikka sosiaaliviranomaisen edustaja. Kuulustelutodistajan käyttö voidaan korvata kuulustelutilaisuuden tallentamisella ääni- ja kuvatallenteeseen, jos siten voidaan riittävän luotettavasti osoittaa kuulustelun suorittamistapa ja kuulustelun aikaiset tapahtumat.",
+      "section_number": "11",
+      "chapter_number": 7,
+      "statute_id": "689/1997"
+    },
+    {
+      "id": "3cde1914-3c7f-4070-bbcb-7ab0e942ec6a",
+      "node_type": "Section",
+      "publisher": "finlex",
+      "title": "12 § Kuultavaa tukevien henkilöiden läsnäolo",
+      "text": "Asianosaisen avustajalla ja asianomistajalle määrätyllä tukihenkilöllä on oikeus olla läsnä hänen päämiestään kuulusteltaessa, jollei tutkinnanjohtaja kiellä sitä painavista rikostutkinnallisista syistä. Tutkija voi pyynnöstä sallia muunkin asianosaista tai todistajaa tukevan henkilön läsnäolon kuulustelussa, jos se ei vaikeuta rikoksen selvittämistä tai vaaranna salassapitovelvollisuutta.",
+      "section_number": "12",
+      "chapter_number": 7,
+      "statute_id": "689/1997"
+    },
+    {
+      "id": "188962d6-3d06-46a9-8a92-ef164af7b680",
+      "node_type": "Section",
+      "publisher": "finlex",
+      "title": "13 § Osallistuminen toisen henkilön kuulusteluun",
+      "text": "Tutkija voi sallia asianosaisen ja hänen avustajansa tai asiamiehensä sekä asianomistajalle määrätyn tukihenkilön osallistua asianomistajan kanssa toisen asianosaisen tai todistajan kuulusteluun, jollei siitä voi aiheutua haittaa rikoksen selvittämiselle. Osallistumisen sallimista harkittaessa on otettava lisäksi huomioon hienotunteisuusnäkökohdat ja se, että epäillyn läsnäolosta ei saa aiheutua kärsimystä tai sitä vastaavaa muuta haittaa asianomistajalle. Syyttäjällä on oikeus osallistua kuulusteluun.",
+      "section_number": "13",
+      "chapter_number": 7,
+      "statute_id": "689/1997"
+    },
+    {
+      "id": "09621a8a-17dc-4b91-9ebf-657ea3c28ea1",
+      "node_type": "Section",
+      "publisher": "finlex",
+      "title": "14 § Vajaavaltaisen laillisen edustajan läsnäolo kuulustelussa",
+      "text": "Jos kuulusteltava on alle 15-vuotias, hänen huoltajallaan, edunvalvojallaan tai muulla laillisella edustajallaan on oikeus olla läsnä kuulustelussa. Jos asianomistajana tai epäiltynä kuulusteltavana on 15 vuotta täyttänyt vajaavaltainen, laillisella edustajalla on oikeus olla läsnä kuulustelussa, jos tämä tutkittavaa rikosta koskevassa oikeudenkäynnissä saisi oikeudenkäymiskaaren 12 luvun 1 tai 2 §:n mukaan käyttää puhevaltaa vajaavaltaisen sijasta tai ohella. Tutkija voi kieltää laillisen edustajan läsnäolon kuulustelussa, jos tätä epäillään tutkittavana olevasta rikoksesta tai jos läsnäolon voidaan muuten olettaa vaikeuttavan rikoksen selvittämistä.",
+      "section_number": "14",
+      "chapter_number": 7,
+      "statute_id": "689/1997"
+    },
+    {
+      "id": "36466d74-9fef-4636-a2cc-73257b5086a8",
+      "node_type": "Section",
+      "publisher": "finlex",
+      "title": "15 § Yhteydenotto vajaavaltaisen lailliseen edustajaan",
+      "text": "Kuulustelusta on etukäteen ilmoitettava 14 §:n 1 ja 2 momentissa tarkoitetuille läsnäoloon oikeutetuille vajaavaltaisen laillisille edustajille ja ainakin yhdelle heistä on varattava tilaisuus olla läsnä kuulustelussa. Ilmoitusvelvollisuudesta ja tilaisuuden varaamisesta läsnäoloon voidaan poiketa vain, jos laillista edustajaa ei kyetä tavoittamaan tai jos ilmoittaminen ja tilaisuuden varaaminen eivät ole rikostutkinnallisista syistä mahdollisia ja jos epäiltyä on rikoksen tai rikollisen teon selvittämiseksi viipymättä kuulusteltava. Kuulustelusta ja kuulustelukertomuksen sisällöstä on 2 momentissa tarkoitetussa tapauksessa mahdollisimman pian ilmoitettava kuulusteltavan lailliselle edustajalle.",
+      "section_number": "15",
+      "chapter_number": 7,
+      "statute_id": "689/1997"
+    },
+    {
+      "id": "d8304fc6-10c2-4bb3-afcb-cb9db5598bf3",
+      "node_type": "Section",
+      "publisher": "finlex",
+      "title": "16 § Sosiaaliviranomaisen edustajan osallistuminen kuulusteluun",
+      "text": "Kun alle 18-vuotiasta epäillään rikoksesta tai rikollisesta teosta, sosiaaliviranomaiselle on ilmoitettava teosta ja varattava tilaisuus lähettää edustajansa kuulusteluun, jollei tämä ole selvästi tarpeetonta. Esitutkintaviranomaisen on viipymättä toimitettava kuulustelupöytäkirja sosiaaliviranomaiselle.",
+      "section_number": "16",
+      "chapter_number": 7,
+      "statute_id": "689/1997"
+    },
+    {
+      "id": "82d728fa-0bb0-4260-9d42-9c0468d57436",
+      "node_type": "Section",
+      "publisher": "finlex",
+      "title": "17 § Kysymysten tekeminen",
+      "text": "Asianosainen ja hänen avustajansa tai asiamiehensä voivat kuulustelussa tutkijan luvalla esittää kuulusteltavalle kysymyksiä asian selvittämiseksi. Tutkija saa päättää, että kysymykset on esitettävä hänen välityksellään. Myös syyttäjä voi esittää kuulusteltavalle kysymyksiä. Asianosaisella, hänen avustajallaan ja asiamiehellään on muulloinkin oikeus pyytää tutkijaa kysymään kuulusteltavalta asian selvittämiseksi tarpeellisia seikkoja.",
+      "section_number": "17",
+      "chapter_number": 7,
+      "statute_id": "689/1997"
+    },
+    {
+      "id": "48399039-51ab-4e95-a1b9-c3193f5bd391",
+      "node_type": "Section",
+      "publisher": "finlex",
+      "title": "18 § Henkilön poistaminen kuulustelusta",
+      "text": "Tutkija saa poistaa kuulustelutilaisuudesta henkilön, joka käytöksellään häiritsee kuulustelua tai jonka läsnäolo muuten vaikeuttaa asian selvittämistä.",
+      "section_number": "18",
+      "chapter_number": 7,
+      "statute_id": "689/1997"
+    },
+    {
+      "id": "144554ac-731a-4ebb-921c-229bf6f280e1",
+      "node_type": "Section",
+      "publisher": "finlex",
+      "title": "19 § Kuulustelusta poissaolleen asianosaisen oikeudet",
+      "text": "Asianosaiselle ja hänen avustajalleen tai asiamiehelleen, joka ei pyynnöstään huolimatta ole saanut olla läsnä kuulustelussa tai on siitä poistettu, on varattava tilaisuus saada tietoonsa, mitä kuulustelussa on käynyt ilmi, ja tehdä kysymyksiä niin pian kuin siitä ei voi aiheutua haittaa rikoksen selvittämiselle.",
+      "section_number": "19",
+      "chapter_number": 7,
+      "statute_id": "689/1997"
+    },
+    {
+      "id": "343ec5c5-2c33-44a1-b5ff-c763ea7db0b9",
+      "node_type": "Section",
+      "publisher": "finlex",
+      "title": "20 § Alustavat puhuttelut",
+      "text": "Rikoksen selvittämiseksi toimitettavissa alustavissa puhutteluissa on noudatettava, mitä 5 §:n 1 momentissa säädetään kuulusteltavan kohtelusta sekä 8 §:ssä todistajan ilmaisuvelvollisuudesta ja kieltäytymisestä todistamasta.",
+      "section_number": "20",
+      "chapter_number": 7,
+      "statute_id": "689/1997"
+    },
+    {
+      "id": "ff5789b9-4845-41a3-87e8-0bd349cea6ad",
+      "node_type": "Section",
+      "publisher": "finlex",
+      "title": "1 § Ryhmätunnistuksen määritelmä",
+      "text": "Ryhmätunnistuksellatarkoitetaan rikoksesta epäillyn tunnistamiseksi järjestettävää tilaisuutta, jossa epäillyn lisäksi käytetään vertailuhenkilöitä.",
+      "section_number": "1",
+      "chapter_number": 8,
+      "statute_id": "689/1997"
+    },
+    {
+      "id": "2dad7a00-4971-442e-8196-a28709e1a905",
+      "node_type": "Section",
+      "publisher": "finlex",
+      "title": "2 § Ryhmätunnistuksen edellytykset",
+      "text": "Ryhmätunnistusta voidaan käyttää silloin, kun sillä voidaan olettaa olevan merkitystä rikoksen selvittämisessä. Asianomistaja ja todistaja voidaan velvoittaa osallistumaan tunnistajina ryhmätunnistukseen. Ryhmätunnistuksen järjestämisestä päättää tutkinnanjohtaja.",
+      "section_number": "2",
+      "chapter_number": 8,
+      "statute_id": "689/1997"
+    },
+    {
+      "id": "4542f0da-c3a4-4dfe-bbf5-a8faf4f7c4c0",
+      "node_type": "Section",
+      "publisher": "finlex",
+      "title": "3 § Ryhmätunnistuksen järjestäminen",
+      "text": "Ryhmätunnistus on järjestettävä siten, että sen tulos on mahdollisimman luotettava. Vertailuhenkilöinä ei saa käyttää henkilöitä, joiden ulkonäkö poikkeaa rikoksesta epäillystä tunnistamisen luotettavuutta vähentävällä tavalla. Vertailuhenkilöitä on ryhmätunnistuksessa oltava vähintään viisi. Tutkija voi sallia asianosaisen, hänen avustajansa tai asiamiehensä ja asianomistajan kanssa hänelle määrätyn tukihenkilön olla läsnä ryhmätunnistuksessa, jollei siitä aiheudu haittaa tunnistamiselle. Syyttäjälle on varattava tilaisuus olla läsnä ryhmätunnistuksessa. Ryhmätunnistuksesta on laadittava pöytäkirja, minkä lisäksi tunnistamistilaisuus on tallennettava videotallenteeseen tai muuhun siihen verrattavaan kuvatallenteeseen.",
+      "section_number": "3",
+      "chapter_number": 8,
+      "statute_id": "689/1997"
+    },
+    {
+      "id": "cbe60a50-f964-4625-8720-6599a703e923",
+      "node_type": "Section",
+      "publisher": "finlex",
+      "title": "4 § Sivullisen velvoittaminen osallistumaan ryhmätunnistukseen",
+      "text": "Sivullinen voidaan velvoittaa osallistumaan ryhmätunnistukseen vertailuhenkilönä vain, jos se on rikoksen laatu huomioon ottaen tärkeää asian selvittämiseksi. Vertailuhenkilö voi kuitenkin kieltäytyä osallistumasta tunnistamistilaisuuteen, jos osallistuminen aiheuttaisi hänelle kohtuutonta haittaa. Ryhmätunnistukseen osallistuneella sivullisella on oikeus saada siitä kohtuullinen korvaus. Korvauksen määrästä säädetään sisäasiainministeriön asetuksella.",
+      "section_number": "4",
+      "chapter_number": 8,
+      "statute_id": "689/1997"
+    },
+    {
+      "id": "9b4ec08f-91af-488e-a7ad-5ca18f092f38",
+      "node_type": "Section",
+      "publisher": "finlex",
+      "title": "5 § Säännösten soveltaminen muuhun tunnistukseen",
+      "text": "Mitä 1—4 §:ssä säädetään ryhmätunnistuksesta, on soveltuvin osin voimassa myös tunnistuksessa, jossa käytetään valokuvia tai muuta kuvatallennetta taikka näköhavaintojen lisäksi tai ohella muita aistihavaintoja.",
+      "section_number": "5",
+      "chapter_number": 8,
+      "statute_id": "689/1997"
+    },
+    {
+      "id": "20e82975-3ef4-4d64-a2f6-e2c76a2e36cd",
+      "node_type": "Section",
+      "publisher": "finlex",
+      "title": "1 § Esitutkintatoimenpiteistä laadittava pöytäkirja",
+      "text": "Esitutkintatoimenpiteistä on laadittava pöytäkirja tai tehtävä merkintä muuhun asiakirjaan, jollei erikseen laissa muuta säädetä. Kuulustelusta laaditaan kuulustelupöytäkirja kuulusteltavan käyttämällä suomen tai ruotsin kielellä. Jos kuulusteltava on käyttänyt muuta kieltä, pöytäkirja laaditaan 4 luvun 12 §:n 1 momentin mukaisella esitutkinnan käsittelykielellä. Kuulustelupöytäkirjasta on käytävä ilmi, miltä osin lausuma tai kertomus on annettu asiamiehen välityksellä, puhelimitse tai muulla tiedonsiirtovälineellä. Jos kuulusteltava on ollut 7 luvun 3 tai 4 §:ssä tarkoitetussa tilassa, kuulustelupöytäkirjaan on tehtävä merkintä kuulustellun tilasta ja siitä, miksi kuulustelemista ei ole voitu lykätä.",
+      "section_number": "1",
+      "chapter_number": 9,
+      "statute_id": "689/1997"
+    },
+    {
+      "id": "aee7f677-1b3a-4b86-a2ba-26eb198ef682",
+      "node_type": "Section",
+      "publisher": "finlex",
+      "title": "2 § Kuulustelupöytäkirjan tarkastaminen ja korjaaminen",
+      "text": "Heti kuulustelun päätyttyä on kuulustelupöytäkirja annettava kuulustellun tarkastettavaksi. Tarkastaminen voidaan toimittaa kuulustelukertomuksen ja kuulustelupöytäkirjan tietojen ääneen lukemisella kuulusteltavalle, jos se on asian laatu ja laajuus huomioon ottaen asianmukaista. Kuulustellulta on tiedusteltava, onko hänen kertomuksensa kirjattu oikein. Kuulustelupöytäkirjaan on merkittävä kuulustellun pyytämät asiaankuuluvat lisäykset ja korjaukset. Kuulustelupöytäkirjaa ei saa muuttaa sen jälkeen, kun kuulusteltu on sen tarkastanut ja pyydetyt korjaukset ja lisäykset on tehty.",
+      "section_number": "2",
+      "chapter_number": 9,
+      "statute_id": "689/1997"
+    },
+    {
+      "id": "1e470ef9-8b13-49b0-96f5-6b83a779664b",
+      "node_type": "Section",
+      "publisher": "finlex",
+      "title": "3 § Kuulustelutilaisuuden tallentaminen ääni- ja kuvatallenteeseen",
+      "text": "Kuulustelutilaisuus saadaan ottaa kokonaan tai osittain ääni- ja kuvatallenteeseen. Kuulustelutilaisuus on tallennettava kokonaan tai osittain, jos siihen on asian laatuun tai kuulusteltavan henkilöön liittyvät seikat huomioon ottaen syytä kuulustelun suorittamistavan, kuulustelun aikaisten tapahtumien tai kuulusteltavan kertomuksen jälkikäteistä todentamista varten. Tallentamisesta on ennen sen aloittamista ilmoitettava kuulusteltavalle.",
+      "section_number": "3",
+      "chapter_number": 9,
+      "statute_id": "689/1997"
+    },
+    {
+      "id": "e67fb1f5-cbc9-4ca3-8c03-015b6427a45a",
+      "node_type": "Section",
+      "publisher": "finlex",
+      "title": "4 § Kuulustelutilaisuuden tallentaminen todisteena käyttämistä varten",
+      "text": "Asianomistajan ja todistajan kuulustelu on tallennettava ääni- ja kuvatallenteeseen, jos kuulustelukertomusta on tarkoitus käyttää todisteena oikeudenkäynnissä eikä kuulusteltavaa tämän nuoren iän tai henkisen toiminnan häiriintyneisyyden vuoksi todennäköisesti voida kuulla henkilökohtaisesti aiheuttamatta haittaa kuulusteltavalle. Kuulustelussa on otettava huomioon kuulusteltavan kehitystason asettamat erityisvaatimukset kuulustelumenetelmille, kuulusteluun osallistuvien henkilöiden määrälle ja muille kuulusteluolosuhteille. Tallentamisesta on ennen sen aloittamista ilmoitettava kuulusteltavalle. Tutkinnanjohtaja voi päättää, että muukin kuin esitutkintaviranomainen voi kuulustelijan valvonnassa esittää kysymyksiä kuulusteltavalle. Rikoksesta epäillylle on varattava mahdollisuus esittää kysymyksiä kuulusteltavalle. Jos rikoksesta epäilty niin pyytää, hänen kysymyksensä saa esittää myös asiamies tai avustaja. Kuulustelija voi kuitenkin määrätä, että kysymykset on esitettävä kuulustelijan välityksellä kuulusteltavalle. Syyttäjälle on varattava tilaisuus olla läsnä kuulustelutilaisuudessa. Hänellä on oikeus esittää kysymyksiä kuulusteltavalle itse tai kuulustelijan välityksellä.",
+      "section_number": "4",
+      "chapter_number": 9,
+      "statute_id": "689/1997"
+    },
+    {
+      "id": "82df575f-5984-461e-8223-7ffec83d2e4d",
+      "node_type": "Section",
+      "publisher": "finlex",
+      "title": "5 § Ääni- ja kuvatallenteen tarkastaminen",
+      "text": "Jos kuulustelutilaisuus tallennetaan 3 tai 4 §:ssä tarkoitetulla tavalla, kuulustellulle on kuulustelun päätyttyä varattava tilaisuus kuunnella ja katsella tallenne ja tehdä kertomukseensa tarpeelliset korjaukset ja lisäykset, jollei tämä ole kuulusteltavan nuori ikä tai hänen henkisen toimintansa häiriintyneisyys huomioon ottaen selvästi tarkoituksetonta. Kuulustelukertomuksen tarkastaminen tapahtuu 2 §:n 1 momentissa tarkoitetulla kuulustelupöytäkirjan tarkastamisella.",
+      "section_number": "5",
+      "chapter_number": 9,
+      "statute_id": "689/1997"
+    },
+    {
+      "id": "4cfcc9eb-00d8-4a63-95bc-fe137ccb14a4",
+      "node_type": "Section",
+      "publisher": "finlex",
+      "title": "6 § Esitutkintapöytäkirja",
+      "text": "Esitutkinnan päätyttyä on siitä kertyneestä aineistosta laadittava 4 luvun 12 §:n 1 momentin mukaisella esitutkinnan käsittely-kielellä pöytäkirja (esitutkintapöytäkirja), jos se tarvitaan asian jatkokäsittelyä varten. Esitutkintapöytäkirjaan on otettava kuulustelupöytäkirjat ja selostukset tutkintatoimenpiteistä ja niiden yhteydessä tehdyistä esitutkinnassa selvitettäviä asioita koskevista havainnoista sekä liitettävä tutkinnassa kertyneet asiakirjat, tallenteet ja valokuvat, jos niillä voidaan olettaa olevan merkitystä asiassa ja jos laissa ei toisin säädetä. Esitutkintapöytäkirjaan on merkittävä esitutkinnassa kuultujen henkilöiden kieli. Esitutkinnassa kertyneestä aineistosta, jota ei ole otettu esitutkintapöytäkirjaan, on tehtävä merkintä pöytäkirjaan, jollei laissa toisin säädetä. Rikoksesta epäillylle oikeudenkäynnistä rikosasioissa annetun lain 2 luvun 1 §:n nojalla määrätylle puolustajalle ja asianomistajalle mainitun luvun 1 a §:n nojalla määrätylle oikeudenkäyntiavustajalle on lähetettävä jäljennös esitutkintapöytäkirjasta.",
+      "section_number": "6",
+      "chapter_number": 9,
+      "statute_id": "689/1997"
+    },
+    {
+      "id": "5d9b1ca6-aed0-4721-8705-2e29beac451c",
+      "node_type": "Section",
+      "publisher": "finlex",
+      "title": "7 § Esitutkinta-asiakirjojen julkisuus",
+      "text": "Esitutkinta-asiakirjojen julkisuudesta säädetään viranomaisten toiminnan julkisuudesta annetussa laissa. Ääni- ja kuvatallenteesta tieto voidaan antaa vain luovuttamalla tallenne esitutkintaviranomaisen luona nähtäväksi, jos tallenteen sisältö huomioon ottaen on syytä olettaa, että tiedon antaminen muulla tavoin voisi johtaa tallenteessa esiintyvän henkilön yksityisyyden suojan loukkaamiseen.",
+      "section_number": "7",
+      "chapter_number": 9,
+      "statute_id": "689/1997"
+    },
+    {
+      "id": "cc22a719-9757-4c0c-83e9-0db2dbffba7e",
+      "node_type": "Section",
+      "publisher": "finlex",
+      "title": "1 § Loppulausunto",
+      "text": "Ennen esitutkinnan päättämistä asianosaisille on varattava tilaisuus antaa esitutkintaviranomaiselle loppulausunto esitutkinta-aineiston riittävyydestä, näytön arvioinnista, oikeuskysymyksistä tai muista asian käsittelyn kannalta tärkeistä seikoista, jollei lausunnon pyytäminen ole asian laatu ja laajuus, rikoksen vähäisyys tai muut vastaavat seikat huomioon ottaen syyteharkinnan ja tuomioistuinkäsittelyn kannalta ilmeisen tarpeetonta. Loppulausuntopyyntö on tarvittaessa yksilöitävä. Loppulausunnon antamista varten on varattava aikaa niin, että lausunnon antaja ehtii riittävästi perehtymään asiaan ja että asian käsittelyä ei kuitenkaan tarpeettomasti viivytetä. Esitutkintaviranomaisen on loppulausunnon saatuaan harkittava, antaako lausunto aihetta esitutkinnan täydentämiseen. Tutkinnanjohtaja päättää loppulausunnon pyytämisestä ja sen mahdollisesti edellyttämistä toimenpiteistä. Tarvittaessa syyttäjää on kuultava loppulausuntopyynnön tarpeellisuudesta ja sisällöstä.",
+      "section_number": "1",
+      "chapter_number": 10,
+      "statute_id": "689/1997"
+    },
+    {
+      "id": "8d0dfbbd-8255-4cb6-b359-3168ce4e3d8c",
+      "node_type": "Section",
+      "publisher": "finlex",
+      "title": "2 § Esitutkinnan päättäminen",
+      "text": "Esitutkinnan valmistuttua asia on toimitettava syyttäjälle syyteharkintaa taikka rangaistusmääräyksen tai rikesakkomääräyksen antamista varten. Sotilasoikeuden-käyntiasiana tutkittavasta rikoksesta laadittu esitutkintapöytäkirja on toimitettava viipymättä sotilasviranomaiselle. Esitutkinta päätetään kuitenkin saattamatta asiaa syyttäjän käsiteltäväksi, jos tutkinnassa on selvinnyt, ettei rikosta ole tehty taikka ettei asiassa voida nostaa ketään vastaan syytettä tai esittää muuta rikokseen perustuvaa julkisoikeudellista vaatimusta. Esitutkinnan lopettamisesta ja rajoittamisesta esitutkintaviranomaisen ja syyttäjän ratkaisulla säädetään 3 luvun 9 ja 10 §:ssä.",
+      "section_number": "2",
+      "chapter_number": 10,
+      "statute_id": "689/1997"
+    },
+    {
+      "id": "8da39e83-8caf-4226-8cf7-895018a65bcb",
+      "node_type": "Section",
+      "publisher": "finlex",
+      "title": "3 § Huomauttaminen",
+      "text": "Poliisimies ja tutkinnanjohtajana toimiessaan syyttäjä voi antaa rikoksesta epäiltynä olleelle suullisen tai kirjallisen huomautuksen, jos esitutkinta lopetetaan 3 luvun 9 §:n nojalla.",
+      "section_number": "3",
+      "chapter_number": 10,
+      "statute_id": "689/1997"
+    },
+    {
+      "id": "9b24f384-d85f-4b2f-9d72-af3b255fadf2",
+      "node_type": "Section",
+      "publisher": "finlex",
+      "title": "4 § Esitutkinnan osittainen päättäminen",
+      "text": "Jos esitutkinnassa ilmenee, ettei henkilöä, jolle on ilmoitettu hänen asemastaan rikoksesta epäiltynä, enää ole syytä epäillä rikoksesta, mutta ettei esitutkintaa kokonaisuudessaan voida päättää 2 §:ssä säädetyllä tavalla, esitutkinta on ilman aiheetonta viivytystä päätettävä hänen osaltaan.",
+      "section_number": "4",
+      "chapter_number": 10,
+      "statute_id": "689/1997"
+    },
+    {
+      "id": "0431c316-abcb-4d43-b0f2-4eab1ce9b84a",
+      "node_type": "Section",
+      "publisher": "finlex",
+      "title": "1 § Esitutkintapäätös",
+      "text": "Esitutkinnan toimittamatta jättämisestä, lopettamisesta 3 luvun 9 §:n 1 momentin tai 10 §:n nojalla sekä päättämisestä saattamatta asiaa syyttäjän harkittavaksi on tehtävä kirjallinen päätös. Sama koskee muuta vastaavaa esitutkintapäätöstä, joka voi vaikuttaa asianosaisen oikeuksiin, etuihin tai velvollisuuksiin. Edellä 1 momentissa tarkoitetusta päätöksestä on ilmettävä: Päätös annetaan esitutkinnassa läsnä olevalle asianosaiselle tai lähetetään postitse hänen ilmoittamaansa taikka muuten esitutkintaviranomaisen tiedossa olevaan osoitteeseen. Päätös saadaan jättää antamatta tai lähettämättä, jos siitä aiheutuisi haittaa kysymyksessä olevan rikoksen tai toisen siihen liittyvän rikoksen selvittämiselle. Ilmoitus on annettava tai lähetettävä ilman aiheetonta viivytystä sen jälkeen, kun selvittämisestä aiheutuvaa haittaa ei voi enää aiheutua. Esitutkintaviranomaisen päätöksistä on muuten voimassa, mitä niistä erikseen laissa säädetään.",
+      "section_number": "1",
+      "chapter_number": 11,
+      "statute_id": "689/1997"
+    },
+    {
+      "id": "e3f50967-a89e-45a3-8b62-9f6388d2e0fe",
+      "node_type": "Section",
+      "publisher": "finlex",
+      "title": "2 § Suppean esitutkinnan sisältö",
+      "text": "Suppeassa esitutkinnassa ei ole tutkinnanjohtajaa. Kuulustelukertomukseen merkitään vain kuulusteltavan lausuman pääsisältö, joka voidaan kirjata kuulustelupöytäkirjan sijasta muuhun asiakirjaan. Suppea esitutkinta saadaan toimittaa noudattamatta 5 luvun 1 §:n sekä 7 luvun 11 ja 14—16 §:n säännöksiä. Sama koskee 7 luvun 10 §:n 2 momenttia avustajan käyttöoikeutta koskevan ilmoituksen osalta.",
+      "section_number": "2",
+      "chapter_number": 11,
+      "statute_id": "689/1997"
+    },
+    {
+      "id": "37d7cefa-fedc-4aea-8306-67a188ba773a",
+      "node_type": "Section",
+      "publisher": "finlex",
+      "title": "3 § Avustajan kelpoisuus",
+      "text": "Asianosaisen avustajana esitutkinnassa saa toimia asianajaja, julkinen oikeusavustaja tai luvan saaneista oikeudenkäyntiavustajista annetussa laissa (715/2011) tarkoitettu luvan saanut oikeudenkäyntiavustaja. Avustajana yksittäistapauksessa ei saa toimia se, joka: Avustajan kelpoisuuden ratkaisee tutkinnanjohtaja. Jos henkilöltä on evätty oikeus toimia avustajana esitutkinnassa, asianosaiselle on varattava tilaisuus hankkia kelpoisuusvaatimukset täyttävä avustaja. Tutkintaa ei kuitenkaan tarvitse tämän vuoksi viivyttää, ellei siihen ole erityistä aihetta. Sen vaatimuksesta, jota asia koskee, tuomioistuimen on päätettävä, onko tutkinnanjohtajan 2 momentin nojalla tekemää päätöstä noudatettava. Asian ratkaisee se tuomioistuin, jonka toimivaltaan pääasian tutkiminen kuuluu. Tuomioistuimen on käsiteltävä asia kiireellisenä. Tuomioistuimen päätökseen ei saa hakea muutosta valittamalla. Vaatimuksen esittänyt saa kannella tuomioistuimen päätöksestä siten kuin pakkokeinolaissa vangitsemisen osalta säädetään.",
+      "section_number": "3",
+      "chapter_number": 11,
+      "statute_id": "689/1997"
+    },
+    {
+      "id": "2fe67ed8-464d-4680-9164-8ff596a89bb6",
+      "node_type": "Section",
+      "publisher": "finlex",
+      "title": "4 § Asiantuntijalausunto",
+      "text": "Esitutkintaa varten voidaan hankkia asiantuntijalausunto esitutkinnassa selvitettävää asiaa koskevasta kysymyksestä. Asiantuntijana ei saa toimia se, joka on asiaan tai asianosaiseen sellaisessa suhteessa, että hänen puolueettomuutensa vaarantuu.",
+      "section_number": "4",
+      "chapter_number": 11,
+      "statute_id": "689/1997"
+    },
+    {
+      "id": "f69d574e-91cc-459f-b1b1-7c31ad72f82c",
+      "node_type": "Section",
+      "publisher": "finlex",
+      "title": "5 § Ilmaisukielto",
+      "text": "Jos esitutkinnassa läsnä olevalle ilmaistaan muita kuin häntä itseään tai hänen päämiestään koskevia tutkintaan liittyviä seikkoja, jotka eivät ennestään ole hänen tiedossaan, tutkinnanjohtaja voi kieltää häntä ilmaisemasta niitä sivullisille esitutkinnan aikana. Syyteharkinnan aikana ilmaisukiellosta päättää syyttäjä. Ilmaisukielto voidaan antaa asianosaisen edustajalle ja avustajalle silloinkin, kun hän ei ole ollut läsnä tutkinnassa. Ilmaisukiellon edellytyksenä on, että 1 momentissa tarkoitettujen seikkojen ilmitulo esitutkinnan aikana voi vaikeuttaa rikoksen selvittämistä taikka aiheuttaa asianosaiselle tai muulle henkilölle vahinkoa tai haittaa. Kielto voidaan määrätä olemaan voimassa esitutkinnan päättymisen jälkeenkin, kunnes asia on ollut esillä tuomioistuimen istunnossa taikka kun syyttäjä on päättänyt jättää syytteen nostamatta tai kun asia on jätetty sikseen, jos seikkojen ilmitulo voi vaikeuttaa muun vielä tutkittavana olevan rikoksen selvittämistä. Ilmaisukielto annetaan enintään kolmeksi kuukaudeksi kerrallaan. Kielto on annettava saajalleen kirjallisena todisteellisesti tiedoksi. Kiellossa on yksilöitävä kiellon kohteena olevat seikat, mainittava kiellon voimassaoloaika ja ilmoitettava kiellon rikkomiseen liittyvästä rangaistusuhasta. Ilmaisukielto on viipymättä kumottava ennen määräajan päättymistä, jos 2 momentissa tarkoitettua määräämisen edellytystä ei enää ole. Kiellon saajalle on ilmoitettava kiellon kumoamisesta. Rangaistus ilmaisukiellon rikkomisesta tuomitaan rikoslain 38 luvun 1 tai 2 §:n nojalla, jollei teosta muualla laissa säädetä ankarampaa rangaistusta.",
+      "section_number": "5",
+      "chapter_number": 11,
+      "statute_id": "689/1997"
+    },
+    {
+      "id": "9d15562f-b870-4439-8bbb-71cfee941288",
+      "node_type": "Section",
+      "publisher": "finlex",
+      "title": "6 § Salassapitovelvollisuus",
+      "text": "Edellä 5 §:ssä tarkoitettu ilmaisukielto ei vaikuta viranomaisten toiminnan julkisuudesta annetun lain 23 §:n 2 momentista aiheutuvaan salassapitovelvollisuuteen. Esitutkintaviranomaisen on selostettava kiellon saajalle kiellon ja mainittuun säännökseen perustuvan salassapitovelvollisuuden suhdetta ja salassapitovelvolliselle salassapitovelvollisuuden sisältöä muutenkin, jollei se ole ilmeisen tarpeetonta.",
+      "section_number": "6",
+      "chapter_number": 11,
+      "statute_id": "689/1997"
+    },
+    {
+      "id": "5b4c7406-5b80-4ea8-9cb1-3d9cd4cb4548",
+      "node_type": "Section",
+      "publisher": "finlex",
+      "title": "7 § Esitutkinnasta tiedottaminen",
+      "text": "Jos esitutkinnasta on asian yhteiskunnallisen merkityksen, sen herättämän yleisen mielenkiinnon, rikoksen selvittämisen, rikoksesta epäillyn tavoittamisen, uuden rikoksen estämisen tai rikoksesta aiheutuvan vahingon estämisen vuoksi taikka muusta vastaavasta syystä tarpeen tiedottaa, tiedottaminen on tehtävä niin, että ketään ei aiheettomasti saateta epäilyksenalaiseksi ja että kenellekään ei tarpeettomasti aiheuteta vahinkoa tai haittaa. Henkilön nimen tai kuvan saa antaa julkisuuteen vain, jos se on välttämätöntä rikoksen selvittämiseksi, rikoksesta epäillyn tavoittamiseksi, uuden rikoksen estämiseksi tai rikoksesta aiheutuvan vahingon estämiseksi. Esitutkinnasta tiedottamisessa on lisäksi otettava huomioon 4 luvussa säädetyt esitutkintaperiaatteet. Velvollisuudesta pitää salassa esitutkinnassa ilmi tulleet seikat säädetään erikseen. Oikeus antaa tietoja esitutkinnasta julkisuuteen on tutkinnanjohtajalla ja hänen esimiehillään sekä heidän määräämällään muulla virkamiehellä. Oikeus tietojen antamiseen on myös syyttäjällä esitutkinnan päättymisen jälkeen.",
+      "section_number": "7",
+      "chapter_number": 11,
+      "statute_id": "689/1997"
+    },
+    {
+      "id": "b60db76a-f63b-46f9-b256-70f102b18023",
+      "node_type": "Section",
+      "publisher": "finlex",
+      "title": "8 § Tietojen saaminen viranomaiselta sekä yksityiseltä yhteisöltä tai henkilöltä",
+      "text": "Rikoksen selvittämiseksi tarvittavien tietojen saamisesta viranomaiselta sekä yksityiseltä yhteisöltä  tai   henkilöltä   säädetään   poliisilain (872/2011) 4 luvun 2 ja 3 §:ssä.",
+      "section_number": "8",
+      "chapter_number": 11,
+      "statute_id": "689/1997"
+    },
+    {
+      "id": "00b7253f-cb2c-4bb6-ae89-4a633be75101",
+      "node_type": "Section",
+      "publisher": "finlex",
+      "title": "9 § Ilmoitukset asianomistajalle",
+      "text": "Sen lisäksi, mitä edellä säädetään ilmoittamisesta, esitutkintaviranomaisen on ilmoitettava asianomistajalle: Jos asianomistaja on kärsinyt rikoksen johdosta vahinkoa, josta hänellä on ilmeisesti oikeus saada korvausta rikosvahinkolain (1204/2005) nojalla, esitutkintaviranomaisen on lisäksi ilmoitettava asianomistajalle oikeudesta korvaukseen ja tarvittaessa opastettava häntä korvauksen hakemisessa.",
+      "section_number": "9",
+      "chapter_number": 11,
+      "statute_id": "689/1997"
+    },
+    {
+      "id": "dd8b87dd-fbe4-4c85-80b7-a9042479b60a",
+      "node_type": "Section",
+      "publisher": "finlex",
+      "title": "10 § Tarkemmat säännökset",
+      "text": "Valtioneuvoston asetuksella voidaan säätää tarkemmin:",
+      "section_number": "10",
+      "chapter_number": 11,
+      "statute_id": "689/1997"
+    },
+    {
+      "id": "74bddaab-d096-4801-a8ee-83b3cedfe3bd",
+      "node_type": "Section",
+      "publisher": "finlex",
+      "title": "11 § Voimaantulo",
+      "text": "Tämä laki tulee voimaan 1 päivänä tammikuuta 2014. Tällä lailla kumotaan esitutkintalaki (449/1987).",
+      "section_number": "11",
+      "chapter_number": 11,
+      "statute_id": "689/1997"
+    },
+    {
+      "id": "0ba87b18-b2e5-461c-a4bc-ba9f4cffe7d7",
+      "node_type": "Section",
+      "publisher": "finlex",
+      "title": "12 § Siirtymäsäännös",
+      "text": "Tämän lain voimaan tullessa vireillä olevaan esitutkintaan sovelletaan lain voimaan tullessa voimassa olleita säännöksiä. Edellä 1 momentissa säädetyn lisäksi tämän lain voimaan tullessa voimassa olleiden säännösten mukaan asianosaisen avustajana esitutkinnassa toimimaan kelpoinen henkilö on kelpoinen toimimaan asianosaisen avustajana esitutkinnassa yhden vuoden ajan tämän lain voimaantulosta. Lisäksi tämän lain voimaan tullessa voimassa olleiden säännösten mukaan asianosaisen avustajana esitutkinnassa toimimaan kelpoinen henkilö, joka hakee luvan saaneista oikeudenkäyntiavustajista annetussa laissa tarkoitettua lupaa kolme kuukautta ennen mainitun lain 30 §:n 3 momentissa tarkoitetun määräajan päättymistä ja jonka hakemusta ei ole lainvoimaisesti ratkaistu vuoden kuluessa mainitun lain voimaantulosta, on kelpoinen toimimaan asianosaisen avustajana esitutkinnassa siihen saakka, kunnes hänen hakemuksensa on lainvoimaisesti ratkaistu.",
+      "section_number": "12",
+      "chapter_number": 11,
+      "statute_id": "689/1997"
+    }
+  ],
+  "clauses": [
+    {
+      "id": "46c46488-7f79-4b32-97e7-469f5f9e2755",
+      "node_type": "Clause",
+      "publisher": "finlex",
+      "title": "§ 2 mom 1",
+      "text": "1) asian laadun edellyttämällä tavalla epäilty rikos, sen teko-olosuhteet, sillä aiheutettu vahinko ja siitä saatu hyöty, asianosaiset sekä muut syyteharkintaa ja rikoksen johdosta määrättävää seuraamusta varten tarvittavat seikat;",
+      "clause_number": 1,
+      "section_number": "2",
+      "statute_id": "689/1997"
+    },
+    {
+      "id": "b4226633-e7dd-4764-8a16-56572381170d",
+      "node_type": "Clause",
+      "publisher": "finlex",
+      "title": "§ 2 mom 2",
+      "text": "2) mahdollisuudet rikoksella saadun omaisuuden palauttamiseksi ja rikoksen johdosta tuomittavan menettämisseuraamuksen tai asianomistajalle tulevan vahingonkorvauksen täytäntöönpanemiseksi;",
+      "clause_number": 2,
+      "section_number": "2",
+      "statute_id": "689/1997"
+    },
+    {
+      "id": "9961eafa-6a7d-4861-a840-74a6cc720c55",
+      "node_type": "Clause",
+      "publisher": "finlex",
+      "title": "§ 2 mom 3",
+      "text": "3) asianomistajan yksityisoikeudellinen vaatimus, jos hän oikeudenkäynnistä rikosasioissa annetun lain (689/1997) 3 luvun 9 §:n nojalla on pyytänyt syyttäjää ajamaan hänen vaatimustaan; ja",
+      "clause_number": 3,
+      "section_number": "2",
+      "statute_id": "689/1997"
+    },
+    {
+      "id": "70673e80-a16f-4039-acc7-ddd19a7dcadb",
+      "node_type": "Clause",
+      "publisher": "finlex",
+      "title": "§ 2 mom 4",
+      "text": "4) suostuuko asianomistaja ja aikooko rikoksesta epäilty suostua asian käsittelemiseen käräjäoikeudessa oikeudenkäynnistä rikosasioissa annetun lain 5 a luvussa tarkoitetussa kirjallisessa menettelyssä.",
+      "clause_number": 4,
+      "section_number": "2",
+      "statute_id": "689/1997"
+    },
+    {
+      "id": "a8cb47e1-4633-44b5-a78d-2145c0e2d90f",
+      "node_type": "Clause",
+      "publisher": "finlex",
+      "title": "§ 5 mom 1",
+      "text": "1) asianomistaja;",
+      "clause_number": 1,
+      "section_number": "5",
+      "statute_id": "689/1997"
+    },
+    {
+      "id": "78cb58e2-2a0a-41da-903a-fcfe2e93522e",
+      "node_type": "Clause",
+      "publisher": "finlex",
+      "title": "§ 5 mom 2",
+      "text": "2) rikoksesta epäilty;",
+      "clause_number": 2,
+      "section_number": "5",
+      "statute_id": "689/1997"
+    },
+    {
+      "id": "80a52c5c-f25a-4efc-8dfe-2dc4c5260a6d",
+      "node_type": "Clause",
+      "publisher": "finlex",
+      "title": "§ 5 mom 3",
+      "text": "3) muu henkilö, jonka oikeuksiin, etuihin tai velvollisuuksiin rikos ja sen selvittäminen voivat vaikuttaa.",
+      "clause_number": 3,
+      "section_number": "5",
+      "statute_id": "689/1997"
+    },
+    {
+      "id": "35e294b2-086c-4e78-afb9-6b81bcab8f0c",
+      "node_type": "Clause",
+      "publisher": "finlex",
+      "title": "§ 8 mom 1",
+      "text": "1) hän tai hänen läheisensä on esitutkinnan asianosainen;",
+      "clause_number": 1,
+      "section_number": "8",
+      "statute_id": "689/1997"
+    },
+    {
+      "id": "2bd8cf7f-f4fc-4045-8ab4-a67c7cd13b38",
+      "node_type": "Clause",
+      "publisher": "finlex",
+      "title": "§ 8 mom 2",
+      "text": "2) hän tai hänen läheisensä avustaa taikka edustaa asianosaista tai sitä, jolle asian ratkaisusta on odotettavissa erityistä hyötyä tai vahinkoa;",
+      "clause_number": 2,
+      "section_number": "8",
+      "statute_id": "689/1997"
+    },
+    {
+      "id": "c80a6c41-dd29-4077-875f-3e16c964dcb8",
+      "node_type": "Clause",
+      "publisher": "finlex",
+      "title": "§ 8 mom 3",
+      "text": "3) asian ratkaisusta on odotettavissa erityistä hyötyä tai vahinkoa hänelle tai hänen 3 momentissa tarkoitetulle läheiselleen;",
+      "clause_number": 3,
+      "section_number": "8",
+      "statute_id": "689/1997"
+    },
+    {
+      "id": "71f25b86-4abe-403b-9f51-95c162e3ec60",
+      "node_type": "Clause",
+      "publisher": "finlex",
+      "title": "§ 8 mom 3",
+      "text": "3) asian ratkaisusta on odotettavissa erityistä hyötyä tai vahinkoa hänelle tai hänen 3 momentissa tarkoitetulle läheiselleen;",
+      "clause_number": 3,
+      "section_number": "8",
+      "statute_id": "689/1997"
+    },
+    {
+      "id": "29708dd7-3ab5-40ac-b505-01935d188e57",
+      "node_type": "Clause",
+      "publisher": "finlex",
+      "title": "§ 8 mom 4",
+      "text": "4) hän on palvelussuhteessa tai käsiteltävään asiaan liittyvässä toimeksiantosuhteessa asianosaiseen tai siihen, jolle asian ratkaisusta on odotettavissa erityistä hyötyä tai vahinkoa;",
+      "clause_number": 4,
+      "section_number": "8",
+      "statute_id": "689/1997"
+    },
+    {
+      "id": "741267f0-b130-401e-8599-5ebabf74dd5d",
+      "node_type": "Clause",
+      "publisher": "finlex",
+      "title": "§ 8 mom 3",
+      "text": "5) hän tai hänen 3 momentin 1 kohdassa tarkoitettu läheisensä on hallituksen, hallintoneuvoston tai niihin rinnastettavan toimielimen jäsenenä taikka toimitusjohtajana tai sitä vastaavassa asemassa sellaisessa yhteisössä, säätiössä, valtion liikelaitoksessa tai laitoksessa, joka on asianosainen tai jolle asian ratkaisusta on odotettavissa erityistä hyötyä tai vahinkoa;",
+      "clause_number": 3,
+      "section_number": "8",
+      "statute_id": "689/1997"
+    },
+    {
+      "id": "a242c130-1cca-4e64-b991-7ef8aa6781e6",
+      "node_type": "Clause",
+      "publisher": "finlex",
+      "title": "§ 8 mom 5",
+      "text": "5) hän tai hänen 3 momentin 1 kohdassa tarkoitettu läheisensä on hallituksen, hallintoneuvoston tai niihin rinnastettavan toimielimen jäsenenä taikka toimitusjohtajana tai sitä vastaavassa asemassa sellaisessa yhteisössä, säätiössä, valtion liikelaitoksessa tai laitoksessa, joka on asianosainen tai jolle asian ratkaisusta on odotettavissa erityistä hyötyä tai vahinkoa;",
+      "clause_number": 5,
+      "section_number": "8",
+      "statute_id": "689/1997"
+    },
+    {
+      "id": "89ddf60a-93bd-4c0a-92bb-b4827ca0501e",
+      "node_type": "Clause",
+      "publisher": "finlex",
+      "title": "§ 8 mom 3",
+      "text": "6) hän tai hänen 3 momentin 1 kohdassa tarkoitettu läheisensä kuuluu viraston tai laitoksen johtokuntaan tai siihen rinnastettavaan toimielimeen ja kysymys on asiasta, joka liittyy tämän viraston tai laitoksen ohjaukseen tai valvontaan; tai",
+      "clause_number": 3,
+      "section_number": "8",
+      "statute_id": "689/1997"
+    },
+    {
+      "id": "b65c4c9c-3fa3-41d2-8d3a-89a04684e0f6",
+      "node_type": "Clause",
+      "publisher": "finlex",
+      "title": "§ 8 mom 6",
+      "text": "6) hän tai hänen 3 momentin 1 kohdassa tarkoitettu läheisensä kuuluu viraston tai laitoksen johtokuntaan tai siihen rinnastettavaan toimielimeen ja kysymys on asiasta, joka liittyy tämän viraston tai laitoksen ohjaukseen tai valvontaan; tai",
+      "clause_number": 6,
+      "section_number": "8",
+      "statute_id": "689/1997"
+    },
+    {
+      "id": "2dc08c56-2022-4c02-8489-883331e809fa",
+      "node_type": "Clause",
+      "publisher": "finlex",
+      "title": "§ 8 mom 7",
+      "text": "7) luottamus hänen puolueettomuuteensa muusta erityisestä syystä vaarantuu.",
+      "clause_number": 7,
+      "section_number": "8",
+      "statute_id": "689/1997"
+    },
+    {
+      "id": "e98f165f-3896-40ac-a034-7c5d9d24cd5a",
+      "node_type": "Clause",
+      "publisher": "finlex",
+      "title": "§ 8 mom 1",
+      "text": "1) puolisoa ja lasta, lapsenlasta, sisarusta, vanhempaa, isovanhempaa ja hänelle muuten erityisen läheistä henkilöä samoin kuin tällaisen henkilön puolisoa;",
+      "clause_number": 1,
+      "section_number": "8",
+      "statute_id": "689/1997"
+    },
+    {
+      "id": "20dc20ee-b27a-432b-8b99-f6488c2e5929",
+      "node_type": "Clause",
+      "publisher": "finlex",
+      "title": "§ 8 mom 2",
+      "text": "2) vanhemman sisarusta sekä hänen puolisoaan, virkamiehen sisarusten lapsia ja virkamiehen entistä puolisoa; sekä",
+      "clause_number": 2,
+      "section_number": "8",
+      "statute_id": "689/1997"
+    },
+    {
+      "id": "7c9b8499-f14f-4c51-acd4-c9ae23998747",
+      "node_type": "Clause",
+      "publisher": "finlex",
+      "title": "§ 8 mom 3",
+      "text": "3) puolison lasta, lapsenlasta, sisarusta, vanhempaa ja isovanhempaa samoin kuin tällaisen henkilön puolisoa sekä virkamiehen puolison sisarusten lapsia.",
+      "clause_number": 3,
+      "section_number": "8",
+      "statute_id": "689/1997"
+    },
+    {
+      "id": "ec1b96cd-4dcc-4959-a2ba-1669b3209706",
+      "node_type": "Clause",
+      "publisher": "finlex",
+      "title": "§ 5 mom 1",
+      "text": "1) asianomistajan pyynnöstä teolla menetetyn omaisuuden saamiseksi takaisin tai hänen vahingonkorvausoikeutensa toteuttamiseksi;",
+      "clause_number": 1,
+      "section_number": "5",
+      "statute_id": "689/1997"
+    },
+    {
+      "id": "c86f6a6f-7201-4dad-aa37-e7b2906ef04a",
+      "node_type": "Clause",
+      "publisher": "finlex",
+      "title": "§ 5 mom 2",
+      "text": "2) menettämisseuraamuksen edellytysten selvittämiseksi; tai",
+      "clause_number": 2,
+      "section_number": "5",
+      "statute_id": "689/1997"
+    },
+    {
+      "id": "26b54fd8-09ed-4e30-9696-e26464a4fbef",
+      "node_type": "Clause",
+      "publisher": "finlex",
+      "title": "§ 5 mom 3",
+      "text": "3) epäiltyyn kohdistettavien lastensuojelutoimenpiteiden tarpeen tai muun epäillyn etuun liittyvän selvittämistarpeen vuoksi.",
+      "clause_number": 3,
+      "section_number": "5",
+      "statute_id": "689/1997"
+    },
+    {
+      "id": "3e26b34f-8f3b-4766-898d-61208f2aa88b",
+      "node_type": "Clause",
+      "publisher": "finlex",
+      "title": "§ 5 mom 1",
+      "text": "1) kuulusteltava sitä pyytää;",
+      "clause_number": 1,
+      "section_number": "5",
+      "statute_id": "689/1997"
+    },
+    {
+      "id": "27efa7bb-6a2c-4523-b735-e83f17cb770d",
+      "node_type": "Clause",
+      "publisher": "finlex",
+      "title": "§ 5 mom 2",
+      "text": "2) asia tutkitaan suppeassa esitutkinnassa, johon kuulusteltava on 6 luvun 3 §:n mukaan velvollinen heti jäämään tai saapumaan; tai",
+      "clause_number": 2,
+      "section_number": "5",
+      "statute_id": "689/1997"
+    },
+    {
+      "id": "c888c87d-8e43-4e93-870d-642adae2c770",
+      "node_type": "Clause",
+      "publisher": "finlex",
+      "title": "§ 5 mom 3",
+      "text": "3) kuulustelua ei voida lykätä rikoksen selvittämistä vaarantamatta.",
+      "clause_number": 3,
+      "section_number": "5",
+      "statute_id": "689/1997"
+    },
+    {
+      "id": "22fc0e72-8c04-48a6-9a80-852451c20ca9",
+      "node_type": "Clause",
+      "publisher": "finlex",
+      "title": "§ 1 mom 1",
+      "text": "1) päätöksen tehnyt viranomainen ja päätöksen tekemisen ajankohta;",
+      "clause_number": 1,
+      "section_number": "1",
+      "statute_id": "689/1997"
+    },
+    {
+      "id": "8a0fa97d-e913-458e-9ed5-9c160d090080",
+      "node_type": "Clause",
+      "publisher": "finlex",
+      "title": "§ 1 mom 2",
+      "text": "2) asianosaiset;",
+      "clause_number": 2,
+      "section_number": "1",
+      "statute_id": "689/1997"
+    },
+    {
+      "id": "c1c4e3e2-5e55-4e5b-99bf-ecc44562b826",
+      "node_type": "Clause",
+      "publisher": "finlex",
+      "title": "§ 1 mom 3",
+      "text": "3) asia;",
+      "clause_number": 3,
+      "section_number": "1",
+      "statute_id": "689/1997"
+    },
+    {
+      "id": "9c01ecfd-6ba8-4b7b-ab71-1e031597278f",
+      "node_type": "Clause",
+      "publisher": "finlex",
+      "title": "§ 1 mom 4",
+      "text": "4) päätöksen perustelut ja sovelletut säännökset;",
+      "clause_number": 4,
+      "section_number": "1",
+      "statute_id": "689/1997"
+    },
+    {
+      "id": "7eeb15fb-889a-4905-b279-b08a726b489b",
+      "node_type": "Clause",
+      "publisher": "finlex",
+      "title": "§ 1 mom 5",
+      "text": "5) päätöksen sisältö; ja",
+      "clause_number": 5,
+      "section_number": "1",
+      "statute_id": "689/1997"
+    },
+    {
+      "id": "076eda16-8b78-41d4-8ce4-c7af18746dfd",
+      "node_type": "Clause",
+      "publisher": "finlex",
+      "title": "§ 1 mom 6",
+      "text": "6) lisätietoja antavan esitutkintavirkamiehen yhteystiedot.",
+      "clause_number": 6,
+      "section_number": "1",
+      "statute_id": "689/1997"
+    },
+    {
+      "id": "47e0a3c1-4075-4e7f-8ed7-c337e95bf1bb",
+      "node_type": "Clause",
+      "publisher": "finlex",
+      "title": "§ 3 mom 1",
+      "text": "1) on toiminut rikoksesta epäillyn neuvonantajana tutkittavassa tai siihen välittömästi liittyvässä rikoksessa;",
+      "clause_number": 1,
+      "section_number": "3",
+      "statute_id": "689/1997"
+    },
+    {
+      "id": "819fa88a-fa56-415c-bf9b-34b6fc133dfa",
+      "node_type": "Clause",
+      "publisher": "finlex",
+      "title": "§ 3 mom 2",
+      "text": "2) toimii toisen rikoksesta epäillyn avustajana tutkittavaa tai siihen välittömästi liittyvää rikosta koskevassa asiassa, jos hänen toimimisensa asianosaisen avustajana oletettavasti vaikeuttaa merkittävästi asian selvittämistä;",
+      "clause_number": 2,
+      "section_number": "3",
+      "statute_id": "689/1997"
+    },
+    {
+      "id": "3a5a1f5e-0303-48f7-8cd4-dacdfbaaf18f",
+      "node_type": "Clause",
+      "publisher": "finlex",
+      "title": "§ 3 mom 3",
+      "text": "3) toimii tai on toiminut tutkittavaa tai siihen välittömästi liittyvää rikosta koskevassa asiassa pakkokeinolain 8 luvun 7 §:ssä tarkoitettuna etsintävaltuutettuna tai mainitun lain 10 luvun 44 §:ssä tarkoitettuna julkisena asiamiehenä;",
+      "clause_number": 3,
+      "section_number": "3",
+      "statute_id": "689/1997"
+    },
+    {
+      "id": "7853c762-4acb-4081-b461-f8e1e473f122",
+      "node_type": "Clause",
+      "publisher": "finlex",
+      "title": "§ 3 mom 4",
+      "text": "4) harjoittaa oikeudellisten toimeksiantojen hoitamista yhdessä sellaisen henkilön kanssa, joka 1—3 kohdassa tarkoitetusta syystä ei saisi toimia asianosaisen avustajana;",
+      "clause_number": 4,
+      "section_number": "3",
+      "statute_id": "689/1997"
+    },
+    {
+      "id": "79facb82-e637-4c43-8760-c3492268127d",
+      "node_type": "Clause",
+      "publisher": "finlex",
+      "title": "§ 3 mom 5",
+      "text": "5) on epäiltynä tai todistajana tutkittavaa tai siihen välittömästi liittyvää rikosta koskevassa asiassa;",
+      "clause_number": 5,
+      "section_number": "3",
+      "statute_id": "689/1997"
+    },
+    {
+      "id": "235b9672-3802-4b7f-9aff-74586677bcdc",
+      "node_type": "Clause",
+      "publisher": "finlex",
+      "title": "§ 3 mom 6",
+      "text": "6) on virkamiehenä tai muuten julkista valtaa käyttäen osallistunut toimenpiteisiin tutkittavassa tai siihen välittömästi liittyvässä rikoksessa taikka tällaista rikosta koskevassa asiassa; tai",
+      "clause_number": 6,
+      "section_number": "3",
+      "statute_id": "689/1997"
+    },
+    {
+      "id": "becfea9d-7102-40f1-8046-a0789a04f893",
+      "node_type": "Clause",
+      "publisher": "finlex",
+      "title": "§ 3 mom 7",
+      "text": "7) on ryhdyttyään avustajaksi kyseisessä asiassa menetellyt lain tai hyvän asianajotavan vastaisesti siten, että hänen jatkamisensa avustajana oletettavasti vaikeuttaa merkittävästi asian selvittämistä.",
+      "clause_number": 7,
+      "section_number": "3",
+      "statute_id": "689/1997"
+    },
+    {
+      "id": "74b629ab-3bb8-4f95-9f74-12aea78db40e",
+      "node_type": "Clause",
+      "publisher": "finlex",
+      "title": "§ 9 mom 1",
+      "text": "1) mahdollisuuksien mukaan siitä, mihin toimenpiteisiin rikoksesta tehdyn ilmoituksen tai esitutkintaviranomaisen tietoon muuten tulleen rikoksen johdosta ryhdytään;",
+      "clause_number": 1,
+      "section_number": "9",
+      "statute_id": "689/1997"
+    },
+    {
+      "id": "08ced8b7-01ce-4b84-abfa-a77881fc6619",
+      "node_type": "Clause",
+      "publisher": "finlex",
+      "title": "§ 9 mom 2",
+      "text": "2) asianomistajan rikoksesta epäiltyyn kohdistaman rangaistusvaatimuksen ja sen peruuttamisen merkityksestä, jos vaatimus on edellytyksenä esitutkinnan toimittamiselle tai jatkamiselle;",
+      "clause_number": 2,
+      "section_number": "9",
+      "statute_id": "689/1997"
+    },
+    {
+      "id": "371b255f-1f5b-4227-91ea-34e1d031c193",
+      "node_type": "Clause",
+      "publisher": "finlex",
+      "title": "§ 9 mom 3",
+      "text": "3) viipymättä asianomistajarikoksen esitutkinnan toimittamisesta 3 luvun 4 §:n 3 momentissa tarkoitetussa tapauksessa.",
+      "clause_number": 3,
+      "section_number": "9",
+      "statute_id": "689/1997"
+    },
+    {
+      "id": "e1e84182-46b2-443f-a54c-446cc821ba39",
+      "node_type": "Clause",
+      "publisher": "finlex",
+      "title": "§ 9 mom 3",
+      "text": "3) viipymättä asianomistajarikoksen esitutkinnan toimittamisesta 3 luvun 4 §:n 3 momentissa tarkoitetussa tapauksessa.",
+      "clause_number": 3,
+      "section_number": "9",
+      "statute_id": "689/1997"
+    },
+    {
+      "id": "259cee57-6b7b-4c19-8756-2a38c58ffc11",
+      "node_type": "Clause",
+      "publisher": "finlex",
+      "title": "§ 10 mom 1",
+      "text": "1) rikosilmoituksen kirjaamistavasta;",
+      "clause_number": 1,
+      "section_number": "10",
+      "statute_id": "689/1997"
+    },
+    {
+      "id": "640f6d8a-5c9d-4213-9ae8-91c5d2bbb517",
+      "node_type": "Clause",
+      "publisher": "finlex",
+      "title": "§ 10 mom 2",
+      "text": "2) ryhmätunnistuksen järjestämisestä;",
+      "clause_number": 2,
+      "section_number": "10",
+      "statute_id": "689/1997"
+    },
+    {
+      "id": "b2045540-c850-41cf-acf8-97ce0b1528bb",
+      "node_type": "Clause",
+      "publisher": "finlex",
+      "title": "§ 10 mom 3",
+      "text": "3) kuulustelupöytäkirjan ja esitutkintapöytäkirjan sisällöstä, rakenteesta ja liitteistä.",
+      "clause_number": 3,
+      "section_number": "10",
+      "statute_id": "689/1997"
+    }
+  ],
+  "cross_references": [
+    {
+      "raw_text": "pykälän 3 momentin n",
+      "statute_id": "689/1997",
+      "section_number": "3 momentin n",
+      "clause_number": null,
+      "resolution_confidence": 0.0
+    },
+    {
+      "raw_text": "pykälän 4 momentin n",
+      "statute_id": "689/1997",
+      "section_number": "4 momentin n",
+      "clause_number": null,
+      "resolution_confidence": 0.0
+    },
+    {
+      "raw_text": "pykälän 2 tai",
+      "statute_id": "689/1997",
+      "section_number": "2 tai",
+      "clause_number": null,
+      "resolution_confidence": 0.0
+    },
+    {
+      "raw_text": "pykälän 3 momentissa t",
+      "statute_id": "689/1997",
+      "section_number": "3 momentissa t",
+      "clause_number": null,
+      "resolution_confidence": 0.0
+    }
+  ],
+  "raw_html_path": "C:\\Users\\danit\\finance-hack\\aalto-hackaton-2026\\data\\raw\\finlex\\Laki (säädöskokoelma)\\Esitutkintalaki_1.html"
+}

@@ -1,0 +1,322 @@
+{
+  "statute": {
+    "id": "9a2113b2-0fd3-46db-9fdb-e8cb2d5be2ec",
+    "node_type": "Statute",
+    "publisher": "finlex",
+    "title": "Laki sähköisestä asioinnista viranomaistoiminnassa",
+    "text": "Laki sähköisestä asioinnista viranomaistoiminnassa",
+    "statute_id": "14/2003",
+    "finlex_url": "https://finlex.fi/fi/laki/ajantasa/14/2003"
+  },
+  "chapters": [
+    {
+      "id": "a52101ff-ec41-4ea8-bb5b-0438edc68d20",
+      "node_type": "Chapter",
+      "publisher": "finlex",
+      "title": "Chapter 1",
+      "text": "1 luku Yleiset säännökset",
+      "chapter_number": 1,
+      "statute_id": "14/2003"
+    },
+    {
+      "id": "345ed2bc-6fed-4f59-b196-4881b5538abb",
+      "node_type": "Chapter",
+      "publisher": "finlex",
+      "title": "Chapter 2",
+      "text": "2 luku Viranomaisen velvollisuudet",
+      "chapter_number": 2,
+      "statute_id": "14/2003"
+    },
+    {
+      "id": "aec0edb0-070c-44f7-9672-e46ea339c29e",
+      "node_type": "Chapter",
+      "publisher": "finlex",
+      "title": "Chapter 3",
+      "text": "3 luku Sähköisen viestin lähettäminen",
+      "chapter_number": 3,
+      "statute_id": "14/2003"
+    },
+    {
+      "id": "6a307612-0281-4202-af7c-010719b280e5",
+      "node_type": "Chapter",
+      "publisher": "finlex",
+      "title": "Chapter 4",
+      "text": "4 luku Päätösasiakirjan sähköinen allekirjoittami- nen ja sähköinen tiedoksianto",
+      "chapter_number": 4,
+      "statute_id": "14/2003"
+    },
+    {
+      "id": "6b5441a8-adf0-4045-82e2-aa4502b69726",
+      "node_type": "Chapter",
+      "publisher": "finlex",
+      "title": "Chapter 5",
+      "text": "5 luku Erinäiset säännökset",
+      "chapter_number": 5,
+      "statute_id": "14/2003"
+    },
+    {
+      "id": "434eb136-522c-44a4-b811-6af8f803648f",
+      "node_type": "Chapter",
+      "publisher": "finlex",
+      "title": "Chapter 6",
+      "text": "6 luku Voimaantulo- ja siirtymäsäännökset",
+      "chapter_number": 6,
+      "statute_id": "14/2003"
+    }
+  ],
+  "sections": [
+    {
+      "id": "8c0bae1d-d9cd-42fb-b672-9346dbcba2aa",
+      "node_type": "Section",
+      "publisher": "finlex",
+      "title": "1 § Lain tarkoitus",
+      "text": "Tämän lain tarkoituksena on lisätä asioinnin sujuvuutta ja joutuisuutta samoin kuin tietoturvallisuutta hallinnossa, tuomioistuimissa ja muissa lainkäyttöelimissä sekä ulosotossa edistämällä sähköisten tiedonsiirtomenetelmien käyttöä. Laissa säädetään viranomaisten ja näiden asiakkaiden oikeuksista, velvollisuuksista ja vastuista sähköisessä asioinnissa.",
+      "section_number": "1",
+      "chapter_number": 1,
+      "statute_id": "14/2003"
+    },
+    {
+      "id": "3dd7fb33-67ae-46d8-aaff-c1cbfc3210fd",
+      "node_type": "Section",
+      "publisher": "finlex",
+      "title": "2 § Soveltamisala",
+      "text": "Tätä lakia sovelletaan hallintoasian, tuomioistuinasian, syyteasian ja ulosottoasian sähköiseen vireillepanoon, käsittelyyn ja päätöksen tiedoksiantoon, jollei muualla laissa toisin säädetä. Lakia sovelletaan soveltuvin osin myös muussa viranomaistoiminnassa. Tuomioistuinasioilla tarkoitetaan yleisissä tuomioistuimissa, hallintotuomioistuimissa ja erityistuomioistuimissa käsiteltäviä asioita. Tuomioistuinasioilla tarkoitetaan lisäksi hallintoasioiden muutoksenhakua myös hallintoviranomaisessa tai muussa lainkäyttöelimessä. Lakia sovelletaan sähköiseen asiointiin lisäksi silloin, kun hallintoasian käsittely on muun kuin julkisyhteisön tehtävänä tai kun oikeudenkäyntiasiakirja saadaan toimittaa tuomioistuimen asiakirjan vastaanottamaan määräämälle henkilölle. Lakia ei sovelleta esitutkintaan eikä poliisitutkintaan. Sähköisestä asioinnista Suomen evankelis-luterilaisessa kirkossa säädetään erikseen.",
+      "section_number": "2",
+      "chapter_number": 1,
+      "statute_id": "14/2003"
+    },
+    {
+      "id": "1fe395b3-496e-45f6-b19b-12797fec1235",
+      "node_type": "Section",
+      "publisher": "finlex",
+      "title": "3 § Muu lainsäädäntö",
+      "text": "Viranomaisasiointiin sovelletaan muutoin, mitä asian vireillepanosta, päätöksen tiedoksiannosta, viranomaisten toiminnan julkisuudesta, henkilötietojen käsittelystä, asiakirjojen arkistoinnista, asian käsittelyssä käytettävästä kielestä ja asian käsittelystä säädetään. Sähköisten allekirjoitusten käytöstä ja niihin liittyvistä varmennepalveluista säädetään sähköisistä allekirjoituksista annetussa laissa (14/2003).",
+      "section_number": "3",
+      "chapter_number": 1,
+      "statute_id": "14/2003"
+    },
+    {
+      "id": "21588fd0-e565-41e6-ad3c-fec9f4397d0b",
+      "node_type": "Section",
+      "publisher": "finlex",
+      "title": "4 § Määritelmät",
+      "text": "Tässä laissa tarkoitetaan:",
+      "section_number": "4",
+      "chapter_number": 1,
+      "statute_id": "14/2003"
+    },
+    {
+      "id": "d02f9405-d20a-452a-b7f8-62031a7c31e9",
+      "node_type": "Section",
+      "publisher": "finlex",
+      "title": "5 § Sähköisten asiointipalvelujen järjestäminen",
+      "text": "Viranomaisen, jolla on tarvittavat tekniset, taloudelliset ja muut valmiudet, on niiden rajoissa tarjottava kaikille mahdollisuus lähettää ilmoittamaansa sähköiseen osoitteeseen tai määriteltyyn laitteeseen viesti asian vireille saattamiseksi tai käsittelemiseksi. Tällöin on lisäksi kaikille tarjottava mahdollisuus lähettää sähköisesti viranomaiselle sille toimitettavaksi säädettyjä tai määrättyjä ilmoituksia, sen pyytämiä selvityksiä tai muita vastaavia asiakirjoja taikka muita viestejä. Viranomainen voi tarjota 1 momentissa tarkoitetut palvelut myös tehtävä- tai toimipaikkakohtaisesti. Viranomaisen on pyrittävä käyttämään asiakkaan kannalta teknisesti mahdollisimman yhteensopivia ja helppokäyttöisiä laitteistoja ja ohjelmistoja. Viranomaisen on lisäksi varmistettava riittävä tietoturvallisuus asioinnissa ja viranomaisten keskinäisessä tietojenvaihdossa.",
+      "section_number": "5",
+      "chapter_number": 2,
+      "statute_id": "14/2003"
+    },
+    {
+      "id": "07b214ab-7cda-4947-930b-2e478bb09518",
+      "node_type": "Section",
+      "publisher": "finlex",
+      "title": "6 § Viranomaisen saavutettavuuden turvaaminen",
+      "text": "Viranomaisen tulee huolehtia siitä, että sen sähköiset tiedonsiirtomenetelmät ovat toimintakunnossa ja mahdollisuuksien mukaan käytettävissä muulloinkin kuin viraston aukioloaikana.",
+      "section_number": "6",
+      "chapter_number": 2,
+      "statute_id": "14/2003"
+    },
+    {
+      "id": "1e9c3e47-2150-498f-8d1b-2b009ab947d3",
+      "node_type": "Section",
+      "publisher": "finlex",
+      "title": "7 § Viranomaisen yhteystiedoista ilmoittaminen",
+      "text": "Viranomaisen tulee sopivalla tavalla ilmoittaa sähköisessä asioinnissa käytettävät yhteystietonsa. Jos oikaisuvaatimus tai valitus voidaan tehdä viranomaiselle myös sähköisesti, tällainen yhteystieto on ilmoitettava oikaisuvaatimus- tai valitusosoituksessa. Oikaisuvaatimuksen ja valituksen tekemisessä noudatetaan muutoin, mitä niistä erikseen säädetään.",
+      "section_number": "7",
+      "chapter_number": 2,
+      "statute_id": "14/2003"
+    },
+    {
+      "id": "442f0b50-ac60-4f9a-9792-649e76e84d45",
+      "node_type": "Section",
+      "publisher": "finlex",
+      "title": "8 § Vastuu sähköisen viestin perillemenosta",
+      "text": "Sähköinen viesti toimitetaan viranomaiselle lähettäjän omalla vastuulla.",
+      "section_number": "8",
+      "chapter_number": 3,
+      "statute_id": "14/2003"
+    },
+    {
+      "id": "16d25c8b-95ff-462b-817c-8598b789a14d",
+      "node_type": "Section",
+      "publisher": "finlex",
+      "title": "9 § Kirjallisen muodon ja allekirjoitusvaatimuk- sen täyttyminen",
+      "text": "Vireillepanossa ja asian muussa käsittelyssä vaatimuksen kirjallisesta muodosta täyttää myös viranomaiselle toimitettu sähköinen asiakirja. Jos asian vireillepanossa tai muussa käsittelyssä edellytetään allekirjoitettua asiakirjaa, allekirjoitusvaatimuksen täyttää myös sähköisistä allekirjoituksista annetun lain 18 §:ssä tarkoitettu sähköinen allekirjoitus. Viranomaiselle saapunutta sähköistä asiakirjaa ei tarvitse täydentää allekirjoituksella, jos asiakirjassa on tiedot lähettäjästä eikä asiakirjan alkuperäisyyttä tai eheyttä ole syytä epäillä. Jos viranomaiselle toimitetussa sähköisessä asiakirjassa on selvitys asiamiehen toimivallasta, asiamiehen ei tarvitse toimittaa valtakirjaa. Viranomainen voi kuitenkin määrätä valtakirjan toimitettavaksi, jos viranomaisella on aihetta epäillä asiamiehen toimivaltaa tai sen laajuutta.",
+      "section_number": "9",
+      "chapter_number": 3,
+      "statute_id": "14/2003"
+    },
+    {
+      "id": "1ac4acac-8ab8-4227-9a73-d79faa648c4c",
+      "node_type": "Section",
+      "publisher": "finlex",
+      "title": "10 § Sähköisen viestin saapumisajankohta",
+      "text": "Sähköinen viesti katsotaan saapuneeksi viranomaiselle silloin, kun se on viranomaisen käytettävissä vastaanottolaitteessa tai tietojärjestelmässä siten, että viestiä voidaan käsitellä. Jos saapumisajankohdasta ei ole selvitystä sen johdosta, että viranomaisen käyttämä sähköinen tiedonsiirtomenetelmä on ollut epäkunnossa tai poissa käytöstä taikka selvitystä ei muusta vastaavasta syystä voida esittää, sähköinen viesti katsotaan saapuneeksi sinä ajankohtana, jona se on lähetetty, jos lähettämisajankohdasta voidaan esittää luotettava selvitys.",
+      "section_number": "10",
+      "chapter_number": 3,
+      "statute_id": "14/2003"
+    },
+    {
+      "id": "f03d372a-934e-4622-a169-b4c0cb4d8a9d",
+      "node_type": "Section",
+      "publisher": "finlex",
+      "title": "11 § Viranomaisen pyytämän asiakirjan saapuminen määräajassa",
+      "text": "Viranomaisen asian käsittelyssä pyytämän lausunnon, selityksen, vastineen tai muun vastaavan asiakirjan katsotaan saapuneen määräajassa, jos asiakirja saapuu viimeistään määräajan viimeisen päivän aikana tässä laissa tarkoitetulla tavalla. Tätä sovelletaan myös asiakirjaan, jonka antamiseen viranomainen on varannut tilaisuuden. Määräajoista ja niiden noudattamisen vaikutuksista säädetään muutoin erikseen.",
+      "section_number": "11",
+      "chapter_number": 3,
+      "statute_id": "14/2003"
+    },
+    {
+      "id": "0f826f37-ceae-456f-a3b1-6c5596df135e",
+      "node_type": "Section",
+      "publisher": "finlex",
+      "title": "12 § Sähköisen asiakirjan vastaanottamisesta ilmoittaminen",
+      "text": "Viranomaisen on viipymättä ilmoitettava sähköisen asiakirjan vastaanottamisesta lähettäjälle. Ilmoitus voidaan toimittaa tietojärjestelmän välityksellä automaattisena kuittauksena tai muutoin. Vastaanottamisesta ilmoittaminen ei vaikuta asian käsittelyn edellytyksiin, joista säädetään erikseen. Mitä 1 momentissa säädetään, ei sovelleta telekopiona tai vastaavalla tavalla saapuneeseen asiakirjaan.",
+      "section_number": "12",
+      "chapter_number": 3,
+      "statute_id": "14/2003"
+    },
+    {
+      "id": "8828c599-c4a9-4b9d-b925-4e5beeca0e08",
+      "node_type": "Section",
+      "publisher": "finlex",
+      "title": "13 § Sähköisen asiakirjan kirjaaminen tai rekisteröiminen",
+      "text": "Saapuneet sähköiset asiakirjat on kirjattava tai niiden saapuminen on muulla luotettavalla tavalla rekisteröitävä. Kirjaus- tai muista vastaavista merkinnöistä on käytävä ilmi asiakirjan saapumisajankohta sekä merkinnät asiakirjan eheyden ja alkuperäisyyden toteamisesta.",
+      "section_number": "13",
+      "chapter_number": 3,
+      "statute_id": "14/2003"
+    },
+    {
+      "id": "e31c3132-7a6b-4b17-8f35-5480f78d0510",
+      "node_type": "Section",
+      "publisher": "finlex",
+      "title": "14 § Sähköisen viestin tekninen muokkaaminen",
+      "text": "Viranomainen voi teknisesti muokata sähköistä viestiä, jos se on tarpeen viestin saattamiseksi luettavaan, tallennettavaan tai arkistoitavaan muotoon.",
+      "section_number": "14",
+      "chapter_number": 3,
+      "statute_id": "14/2003"
+    },
+    {
+      "id": "f9f28b3d-97e1-49e4-ba90-c9b2b41f0436",
+      "node_type": "Section",
+      "publisher": "finlex",
+      "title": "15 § Sähköisen asiakirjan siirto",
+      "text": "Viranomaiselle erehdyksessä toimitettu asian vireillepanoa tai muuta käsittelyä koskeva sähköinen asiakirja on viipymättä siirrettävä sille viranomaiselle, jolle asiakirja on osoitettu. Siirrosta on ilmoitettava asiakirjan toimittaneelle. Hallintoasiassa ja hallintolainkäyttöasiassa sovelletaan lisäksi, mitä asian siirtämisestä toimivaltaiselle viranomaiselle erikseen säädetään. Siirretyssä asiassa määräaikaa katsotaan noudatetun, jos toimivaltainen viranomainen saa asiakirjan määräajan kuluessa.",
+      "section_number": "15",
+      "chapter_number": 3,
+      "statute_id": "14/2003"
+    },
+    {
+      "id": "4c251980-69b4-4eee-b2b0-d8626c45c0e1",
+      "node_type": "Section",
+      "publisher": "finlex",
+      "title": "16 § Päätösasiakirjan sähköinen allekirjoittaminen",
+      "text": "Päätösasiakirja voidaan allekirjoittaa sähköisesti. Viranomaisen sähköisen allekirjoituksen on täytettävä sähköisistä allekirjoituksista annetun lain 18 §:ssä säädetyt edellytykset.",
+      "section_number": "16",
+      "chapter_number": 4,
+      "statute_id": "14/2003"
+    },
+    {
+      "id": "42e01ed8-d953-48d5-beeb-898b75c03a21",
+      "node_type": "Section",
+      "publisher": "finlex",
+      "title": "17 § Päätösasiakirjan jäljennös",
+      "text": "Asianosaisella on päätösasiakirjassa olevan viranomaisen sähköisen allekirjoituksen voimassaoloajan päätyttyä oikeus pyynnöstä saada maksutta päätösasiakirjan jäljennös.",
+      "section_number": "17",
+      "chapter_number": 4,
+      "statute_id": "14/2003"
+    },
+    {
+      "id": "989ee3c4-fca3-494b-878d-b036b2669585",
+      "node_type": "Section",
+      "publisher": "finlex",
+      "title": "18 § Todisteellinen sähköinen tiedoksianto",
+      "text": "Päätös, jonka tiedoksiannosta alkaa kulua muutoksenhakuaika tai joka tullakseen voimaan on annettava asianosaiselle tiedoksi, voidaan asianosaisen suostumuksella antaa tiedoksi myös sähköisenä viestinä, ei kuitenkaan telekopiona tai vastaavalla tavalla. Sama koskee muuta päätöstä tai asiakirjaa, jonka todisteellisesta tiedoksiannosta säädetään erikseen. Viranomaisen on tällöin ilmoitettava, että päätös on asianosaisen tai tämän edustajan noudettavissa viranomaisen osoittamalta palvelimelta, tietokannasta tai muusta tiedostosta. Asianosaisen tai tämän edustajan on tunnistauduttava päätöstä noutaessaan. Tunnistautumisessa on käytettävä sellaista varmennetta, joka täyttää sähköisistä allekirjoituksista annetussa laissa laatuvarmenteelle asetetut vaatimukset, tai muuta tunnistautumistekniikkaa, joka on tietoturvallinen ja todisteellinen. Päätös katsotaan annetuksi tiedoksi, kun asiakirja on noudettu viranomaisen 1 momentin mukaisesti osoittamalta yhteydeltä. Jos päätöstä ei ole noudettu seitsemän päivän kuluessa viranomaisen ilmoituksesta, tiedoksiannossa noudatetaan, mitä siitä muualla laissa säädetään.",
+      "section_number": "18",
+      "chapter_number": 4,
+      "statute_id": "14/2003"
+    },
+    {
+      "id": "0f9e8740-13f2-431d-803d-b30eb08280b5",
+      "node_type": "Section",
+      "publisher": "finlex",
+      "title": "19 § Muu sähköinen tiedoksianto",
+      "text": "Muu asiakirja voidaan antaa tiedoksi asianomaiselle sähköisenä viestinä hänen ilmoittamallaan tavalla. Jos kuitenkin asianomaisen yksityisyyden suojaaminen, muu erityinen suojan tai suojelun tarve taikka oikeuksien turvaaminen sitä edellyttää, asiakirjan tiedoksiantoon on sovellettava, mitä edellä 18 §:ssä tai tiedoksiannosta muutoin säädetään.",
+      "section_number": "19",
+      "chapter_number": 4,
+      "statute_id": "14/2003"
+    },
+    {
+      "id": "8e71c067-005e-465e-bc7c-a88d1d2bcd94",
+      "node_type": "Section",
+      "publisher": "finlex",
+      "title": "20 § Koneellinen allekirjoitus",
+      "text": "Haastehakemus, haaste ja sähköisenä viestinä lähetettävä oikeudenkäyntiasiakirja voidaan allekirjoittaa koneellisesti. Hallintoviranomaisen toiminnassa syntyneiden asiakirjojen samoin kuin ulosoton asiakirjojen koneellisesta allekirjoittamisesta säädetään erikseen.",
+      "section_number": "20",
+      "chapter_number": 5,
+      "statute_id": "14/2003"
+    },
+    {
+      "id": "eafbf996-01e6-4e70-b9c9-40afa5badecc",
+      "node_type": "Section",
+      "publisher": "finlex",
+      "title": "21 § Arkistointi",
+      "text": "Sähköinen asiakirja on arkistoitava siten, että sen alkuperäisyys ja säilyminen sisällöltään muuttumattomana voidaan myöhemmin osoittaa.",
+      "section_number": "21",
+      "chapter_number": 5,
+      "statute_id": "14/2003"
+    },
+    {
+      "id": "e57e21ec-30d0-45a4-8882-bee3503cf46c",
+      "node_type": "Section",
+      "publisher": "finlex",
+      "title": "22 § Tarkemmat määräykset ja ohjeet",
+      "text": "Arkistolaitos antaa tarkempia määräyksiä ja ohjeita sähköisen asioinnin kirjaamisesta tai muusta rekisteröinnistä sekä arkistoinnista. Valtiovarainministeriö antaa ohjeita ja suosituksia sähköisen asioinnin yhteentoimivuuden ja tietoturvallisuuden varmistamisesta sekä sähköisten asiointipalvelujen järjestämisestä.",
+      "section_number": "22",
+      "chapter_number": 5,
+      "statute_id": "14/2003"
+    },
+    {
+      "id": "2f1eb134-96e1-4254-8892-a6ab985d6414",
+      "node_type": "Section",
+      "publisher": "finlex",
+      "title": "23 § Tarkemmat säännökset",
+      "text": "Tarkempia säännöksiä tämän lain täytäntöönpanosta annetaan valtioneuvoston asetuksella.",
+      "section_number": "23",
+      "chapter_number": 5,
+      "statute_id": "14/2003"
+    },
+    {
+      "id": "06c6be93-96b4-422d-a11a-f58cc819493d",
+      "node_type": "Section",
+      "publisher": "finlex",
+      "title": "24 § Voimaantulo",
+      "text": "Tämä laki tulee voimaan 1 päivänä helmikuuta 2003. Tällä lailla kumotaan sähköisestä asioinnista hallinnossa 30 päivänä joulukuuta 1999 annettu laki (1318/1999) ja sähköisestä viestinnästä oikeudenkäyntiasioissa 28 päivänä kesäkuuta 1993 annettu laki (594/1993) siihen myöhemmin tehtyine muutoksineen. Ennen tämän lain voimaantuloa voidaan ryhtyä sen täytäntöönpanon edellyttämiin toimiin.",
+      "section_number": "24",
+      "chapter_number": 6,
+      "statute_id": "14/2003"
+    },
+    {
+      "id": "3f3e3a7c-9936-4eea-8fbb-154fbb85c70b",
+      "node_type": "Section",
+      "publisher": "finlex",
+      "title": "25 § Siirtymäsäännökset",
+      "text": "Oikeusministeriön myöntämät luvat sen ylläpitämän sanomanvälitysjärjestelmän käyttöön jäävät voimaan tämän lain voimaan tullessa. Oikeusministeriössä tämän lain voimaan tullessa vireillä olleet lupahakemukset ratkaistaan noudattaen ennen tämän lain voimaantuloa voimassa olleita säännöksiä. Tämän lain tultua voimaan sanomanvälitysjärjestelmään voi toimittaa tietoja sellainen hakija, joka täyttää järjestelmän edellyttämät tekniset vaatimukset. Valtioneuvostossa tämän lain voimaan tullessa vireillä olevat varmentajan tai varmenteen lisäämistä valtiovarainministeriön ylläpitämään luetteloon koskevat ilmoittautumiset raukeavat. Sähköisestä asioinnista hallinnossa annetun lain nojalla annetut ohjeet jäävät voimaan, kunnes asiasta annetaan uudet ohjeet tai määräykset. Muussa lainsäädännössä olevalla viittauksella sähköisestä viestinnästä oikeudenkäyntiasioissa annettuun lakiin tai sähköisestä asioinnista hallinnossa annettuun lakiin tarkoitetaan lain voimaantulon jälkeen viittausta tähän lakiin.",
+      "section_number": "25",
+      "chapter_number": 6,
+      "statute_id": "14/2003"
+    }
+  ],
+  "clauses": [],
+  "cross_references": [],
+  "raw_html_path": "C:\\Users\\danit\\finance-hack\\aalto-hackaton-2026\\data\\raw\\finlex\\Laki (säädöskokoelma)\\Laki sähköisestä asioinnista viranomaistoiminnassa.html"
+}

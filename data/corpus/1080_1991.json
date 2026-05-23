@@ -1,0 +1,47 @@
+{
+  "statute": {
+    "id": "077781a2-c0a3-46ab-b299-423ec23d76ad",
+    "node_type": "Statute",
+    "publisher": "finlex",
+    "title": "Valmiuslaki",
+    "text": "Valmiuslaki",
+    "statute_id": "1080/1991",
+    "finlex_url": "https://finlex.fi/fi/laki/ajantasa/1080/1991"
+  },
+  "chapters": [
+    {
+      "id": "f74ef4df-02fc-4636-81a5-9f1067ccc9fe",
+      "node_type": "Chapter",
+      "publisher": "finlex",
+      "title": "Chapter 21",
+      "text": "21 luku Voimaantulo- ja siirtymäsäännökset",
+      "chapter_number": 21,
+      "statute_id": "1080/1991"
+    }
+  ],
+  "sections": [
+    {
+      "id": "6e3274a0-2ad1-4e00-a7bf-64a9e1c8794d",
+      "node_type": "Section",
+      "publisher": "finlex",
+      "title": "134 § Voimaantulo",
+      "text": "Tämä laki tulee voimaan 1 päivänä maaliskuuta 2012. Tällä lailla kumotaan valmiuslaki (1080/1991).",
+      "section_number": "134",
+      "chapter_number": 21,
+      "statute_id": "1080/1991"
+    },
+    {
+      "id": "ab183c25-8ece-4da6-8c46-00a5bdcf09b5",
+      "node_type": "Section",
+      "publisher": "finlex",
+      "title": "135 § Siirtymäsäännös",
+      "text": "Jos muussa lainsäädännössä viitataan tällä lailla kumottavaan valmiuslakiin, viittauksen on katsottava tarkoittavan tätä lakia.",
+      "section_number": "135",
+      "chapter_number": 21,
+      "statute_id": "1080/1991"
+    }
+  ],
+  "clauses": [],
+  "cross_references": [],
+  "raw_html_path": "C:\\Users\\danit\\finance-hack\\aalto-hackaton-2026\\data\\raw\\finlex\\Laki (säädöskokoelma)\\Valmiuslaki.html"
+}

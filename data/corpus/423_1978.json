@@ -1,0 +1,521 @@
+{
+  "statute": {
+    "id": "45c71149-c75a-4da7-9f4d-894a121c2ad4",
+    "node_type": "Statute",
+    "publisher": "finlex",
+    "title": "Merimiesten palkkaturvalaki",
+    "text": "Merimiesten palkkaturvalaki",
+    "statute_id": "423/1978",
+    "finlex_url": "https://finlex.fi/fi/laki/ajantasa/423/1978"
+  },
+  "chapters": [
+    {
+      "id": "58e3836f-9e39-4831-90e6-7963b9a8a1f7",
+      "node_type": "Chapter",
+      "publisher": "finlex",
+      "title": "Chapter 1",
+      "text": "1 luku Yleiset säännökset",
+      "chapter_number": 1,
+      "statute_id": "423/1978"
+    },
+    {
+      "id": "87d101ad-8df7-4d73-8354-20b50c214c2f",
+      "node_type": "Chapter",
+      "publisher": "finlex",
+      "title": "Chapter 2",
+      "text": "2 luku Palkkaturvan saamisen edellytykset",
+      "chapter_number": 2,
+      "statute_id": "423/1978"
+    },
+    {
+      "id": "ef8f6bde-3aa7-4517-a41d-7fee924ef88f",
+      "node_type": "Chapter",
+      "publisher": "finlex",
+      "title": "Chapter 3",
+      "text": "3 luku Palkkaturvan hakeminen ja hakemuksen käsittely",
+      "chapter_number": 3,
+      "statute_id": "423/1978"
+    },
+    {
+      "id": "32450872-e3ed-44c5-a13a-af495f9f8626",
+      "node_type": "Chapter",
+      "publisher": "finlex",
+      "title": "Chapter 4",
+      "text": "4 luku Palkkaturvapäätös ja palkkaturvan maksaminen",
+      "chapter_number": 4,
+      "statute_id": "423/1978"
+    },
+    {
+      "id": "cba30e40-276a-4b73-b8ee-663d1a90e696",
+      "node_type": "Chapter",
+      "publisher": "finlex",
+      "title": "Chapter 5",
+      "text": "5 luku Takaisinmaksuvelvollisuus",
+      "chapter_number": 5,
+      "statute_id": "423/1978"
+    },
+    {
+      "id": "ef4f454a-2aa1-42e3-8df1-5d320632a01b",
+      "node_type": "Chapter",
+      "publisher": "finlex",
+      "title": "Chapter 6",
+      "text": "6 luku Muutoksenhaku",
+      "chapter_number": 6,
+      "statute_id": "423/1978"
+    },
+    {
+      "id": "9be216ab-b158-4576-ad38-8995235b580e",
+      "node_type": "Chapter",
+      "publisher": "finlex",
+      "title": "Chapter 7",
+      "text": "7 luku Erinäiset säännökset",
+      "chapter_number": 7,
+      "statute_id": "423/1978"
+    },
+    {
+      "id": "5f408f52-acc0-4020-8b89-071a0dfeb894",
+      "node_type": "Chapter",
+      "publisher": "finlex",
+      "title": "Chapter 8",
+      "text": "8 luku Voimaantulo- ja siirtymäsäännökset",
+      "chapter_number": 8,
+      "statute_id": "423/1978"
+    }
+  ],
+  "sections": [
+    {
+      "id": "564ef08d-c362-4065-9799-2e7f10dda339",
+      "node_type": "Section",
+      "publisher": "finlex",
+      "title": "1 § Lain tarkoitus ja soveltamisala",
+      "text": "Merimiesten palkkaturvalain tarkoituksena on turvata merimieslaissa (423/1978) tarkoitetun työtekijän työsuhteesta johtuvien saatavien maksaminen työnantajan maksukyvyttömyyden varalta.",
+      "section_number": "1",
+      "chapter_number": 1,
+      "statute_id": "423/1978"
+    },
+    {
+      "id": "dc7e9974-a50c-4f80-94a0-f625d7df35ee",
+      "node_type": "Section",
+      "publisher": "finlex",
+      "title": "2 § Viranomaiset",
+      "text": "Palkkaturva-asioita hoitava ministeriö, jäljempänä ministeriö, ohjaa lain toimeenpanoa sekä vastaa palkkaturvajärjestelmän kehittämisestä. Uudenmaan työvoima- ja elinkeinokeskus tekee päätöksen palkkaturva-asiassa sekä huolehtii muista lain täytäntöönpanoon liittyvistä tehtävistä.",
+      "section_number": "2",
+      "chapter_number": 1,
+      "statute_id": "423/1978"
+    },
+    {
+      "id": "ca90ea45-b3b9-41c1-8e72-6dd2330f31e5",
+      "node_type": "Section",
+      "publisher": "finlex",
+      "title": "3 § Saatavaa koskevat edellytykset",
+      "text": "Palkkaturvana maksetaan merimieslaissa tarkoitetun työntekijän työsuhteesta johtuvia saatavia, joiden peruste ja määrä on saatu selvitettyä.",
+      "section_number": "3",
+      "chapter_number": 2,
+      "statute_id": "423/1978"
+    },
+    {
+      "id": "c7c75e54-6d1e-489c-990a-a6d76bc5d002",
+      "node_type": "Section",
+      "publisher": "finlex",
+      "title": "4 § Hakemuksen määräaika",
+      "text": "Saatavaa on haettava palkkaturvana merilain (674/1994) 3 luvun 2 §:n 1 momentin mukaisen meripanttioikeuden voimassa ollessa. Lakiin tai sopimukseen perustuvaa vahingonkorvausta tai hyvitystä, jolla ei ole erityistä eräpäivää ja joka ei enää nauti 1 momentissa mainittua meripanttioikeutta, on haettava palkkaturvana kolmen kuukauden kuluessa tuomion lainvoimaiseksi tulosta tai vakiintunutta työmarkkinakäytäntöä noudattaen solmitun sopimuksen tekemisestä.",
+      "section_number": "4",
+      "chapter_number": 2,
+      "statute_id": "423/1978"
+    },
+    {
+      "id": "0ec62915-7a9a-42de-a8d5-63044b6a9498",
+      "node_type": "Section",
+      "publisher": "finlex",
+      "title": "5 § Työnantajan maksukyvyttömyys",
+      "text": "Palkkaturvan saamisen edellytyksenä on työnantajan maksukyvyttömyys. Työnantajaa on pidettävä maksukyvyttömänä, jos:",
+      "section_number": "5",
+      "chapter_number": 2,
+      "statute_id": "423/1978"
+    },
+    {
+      "id": "e6796e22-d9b2-41b0-a0d8-749ce83304d9",
+      "node_type": "Section",
+      "publisher": "finlex",
+      "title": "6 § Valvontavelvollisuus",
+      "text": "Jos työnantaja on asetettu konkurssiin, työntekijän on säilyttääkseen oikeutensa palkkaturvaan ilmoitettava saatavansa työnantajan konkurssissa konkurssisäännön (31/1868) 19 §:ssä säädetyllä tavalla. Ilmoitusvelvollisuutta ei kuitenkaan ole, jos saatava sisältyy pesänhoitajan laatimaan 11 §:ssä tarkoitettuun työsuhdesaatavaluetteloon. Lisäksi työntekijän on säilyttääkseen oikeutensa palkkaturvaan ilmoitettava saatavansa meripanttioikeuksineen myös aluksen pakkohuutokaupassa. Jos työntekijä laiminlyö 1 momentissa säädetyn valvontavelvollisuutensa, palkkaturva voidaan tällä perusteella evätä joko kokonaan tai osittain.",
+      "section_number": "6",
+      "chapter_number": 2,
+      "statute_id": "423/1978"
+    },
+    {
+      "id": "e8cd70ce-ed54-4d2b-89fb-ab2a1704f1e3",
+      "node_type": "Section",
+      "publisher": "finlex",
+      "title": "7 § Väärinkäytösten estäminen",
+      "text": "Palkkaturvaviranomaisella on perustellusta syystä oikeus evätä palkkaturva tai harkita maksettavan palkkaturvan määrä seuraavissa tilanteissa: Maksettava palkkaturva voidaan perustellusta syystä myös rajoittaa määrään, jonka työnantaja on maksanut työntekijälle vuoden kuluessa ennen palkkaturvahakemuksen jättämistä työsuhteesta johtuvina saatavina. Edellä 1 momentin 3 kohdassa tarkoitettuna samana työnantajana pidetään myös yritystä, jossa omistuksen, sopimuksen tai muun järjestelyn perusteella on määräysvalta: Työntekijällä, jolle on aiemmin maksettu palkkaturvaa, on oikeus hakemuksesta ennalta saada tietää, tullaanko palkkaturvaa rajoittamaan tai se epäämään 1 momentin 3 kohdassa tarkoitetulla perusteella.",
+      "section_number": "7",
+      "chapter_number": 2,
+      "statute_id": "423/1978"
+    },
+    {
+      "id": "53eada04-f995-4044-9c1f-9c78baf632de",
+      "node_type": "Section",
+      "publisher": "finlex",
+      "title": "8 § Palkkaturvana maksettavan vahingonkor- vauksen tai hyvityksen ja odotusajan palkan enimmäismäärä eräissä tapauksissa",
+      "text": "Tämän lain 4 §:n 2 momentissa tarkoitetun vahingonkorvauksen tai hyvityksen enimmäismäärä yhtä työntekijää kohden samalle työnantajalle tehdyn työn perusteella on 90 000 markkaa. Merimieslain 18 §:n 5 momentissa tarkoitetusta odotusajan palkasta maksetaan enintään se määrä, joka palkkaturvana maksetaan muiden työsuhteesta johtuvien saatavien suorituksena.",
+      "section_number": "8",
+      "chapter_number": 2,
+      "statute_id": "423/1978"
+    },
+    {
+      "id": "1fb03205-eea4-437e-8fdd-330867717421",
+      "node_type": "Section",
+      "publisher": "finlex",
+      "title": "9 § Hakemus ja hakijat",
+      "text": "Hakemus on toimitettava työvoimatoimistoon tai työvoima- ja elinkeinokeskukseen. Hakemuksen voi ulkomailla jättää myös Suomen edustustoon. Palkkaturvan hakijana voi olla työntekijä tai työntekijäjärjestö, jolle työntekijä on siirtänyt saatavansa perittäväksi. Työnantajan ollessa konkurssissa palkkaturvaa voi hakea valtioneuvoston asetuksella säädettävin edellytyksin työntekijöiden lukuun myös konkurssipesä. Valtioneuvosto voi määrätä, millä 2 momentissa tarkoitetulla työntekijäjärjestöllä on oikeus ilman eri valtuutustakin edustaa jäseniään palkkaturva-asiassa.",
+      "section_number": "9",
+      "chapter_number": 3,
+      "statute_id": "423/1978"
+    },
+    {
+      "id": "33f7d1e4-45f8-4958-a754-f7218f350675",
+      "node_type": "Section",
+      "publisher": "finlex",
+      "title": "10 § Kuuleminen",
+      "text": "Työnantajalle ja työntekijälle on ennen asian ratkaisemista varattava tilaisuus tulla kuulluiksi siten kuin hallintomenettelylain (598/1982) 15 §:ssä säädetään. Avoimen yhtiön yhtiömiehen ja kommandiittiyhtiön vastuunalaisen yhtiömiehen sekä muun saatavien maksamisesta vastuussa olevan määrääminen 15 §:ssä tarkoitetulla tavalla takaisinmaksuvelvolliseksi edellyttää, että myös tälle on varattu tilaisuus tulla kuulluksi hakemuksen johdosta. Silloin kun työnantaja ei omista alusta, jolla tehtyyn työhön merimiehen palkkaturvana hakemat saatavat perustuvat, hakemus on annettava tiedoksi myös aluksen omistajalle, jos tämä on työvoima- ja elinkeinokeskuksen tiedossa ja tiedoksianto voi tapahtua vaivattomasti.",
+      "section_number": "10",
+      "chapter_number": 3,
+      "statute_id": "423/1978"
+    },
+    {
+      "id": "27bb19dc-2454-41c7-a2eb-7c7b7b4b94fa",
+      "node_type": "Section",
+      "publisher": "finlex",
+      "title": "11 § Pesänhoitajan työsuhdesaatavaluettelo",
+      "text": "Konkurssipesän hoitajan on viipymättä konkurssin alettua laadittava luettelo maksamatta olevista työsuhteesta johtuvista saatavista. Pesänhoitajan on yhteistyössä työvoima- ja elinkeinokeskuksen kanssa selvitettävä, mitkä saatavista voidaan maksaa palkkaturvana. Pesänhoitajan on varattava työntekijöille tai näiden edustajille tilaisuus lausua käsityksensä luetteloon merkityistä saatavista.",
+      "section_number": "11",
+      "chapter_number": 3,
+      "statute_id": "423/1978"
+    },
+    {
+      "id": "7d949405-e634-4a7a-befd-e1076f5e7f3c",
+      "node_type": "Section",
+      "publisher": "finlex",
+      "title": "12 § Palkkaturvapäätös ja sen tiedoksianto",
+      "text": "Palkkaturvahakemukseen on annettava kirjallinen päätös. Päätös on perusteltava hallintomenettelylain 24 §:n edellyttämällä tavalla. Päätös on heti lähetettävä asianomaisille. Päätös on lähetettävä myös 10 §:n 2 momentissa tarkoitetulle aluksen omistajalle. Palkkaturvapäätöksessä on määrättävä 15 §:n mukaisesta takaisinmaksuvelvollisuudesta. Jos kysymystä takaisinmaksuvelvollisuudesta ei voida ratkaista huomattavasti viivyttämättä palkkaturvan myöntämistä, päätös takaisinmaksuvelvollisuudesta voidaan tehdä erikseen. Tämä päätös on tehtävä viipymättä sen jälkeen, kun takaisinmaksuvelvollisuus on pystytty selvittämään.",
+      "section_number": "12",
+      "chapter_number": 4,
+      "statute_id": "423/1978"
+    },
+    {
+      "id": "eb164e04-be70-424f-985c-5f83656d2386",
+      "node_type": "Section",
+      "publisher": "finlex",
+      "title": "13 § Palkkaturvan maksaminen",
+      "text": "Palkkaturva maksetaan viikon kuluessa palkkaturvapäätöksestä. Palkkaturvana maksettavasta määrästä toimitetaan ennakkoperintälain (1118/1996) mukainen ennakonpidätys ja pidätetään muut lain mukaan merimieslaissa tarkoitetun työntekijän palkasta vähennettävät maksut, jollei muualla toisin säädetä. Palkan ulosmittaus ja palkanmaksukielto ovat voimassa myös palkkaturvaa maksettaessa. Työntekijälle maksettavasta palkkaturvasta työvoima- ja elinkeinokeskus saa käyttää valtion tämän lain tai palkkaturvalain (866/1998) mukaisen vastasaatavan kuittaukseen enintään sen osan, joka työntekijän palkasta lain mukaan on ulosmitattavissa.",
+      "section_number": "13",
+      "chapter_number": 4,
+      "statute_id": "423/1978"
+    },
+    {
+      "id": "3e21c4fa-6b1f-4330-b26e-e40ab1c286eb",
+      "node_type": "Section",
+      "publisher": "finlex",
+      "title": "14 § Saatavien siirtyminen valtiolle",
+      "text": "Palkkaturvana maksettavat saatavat siirtyvät kaikkine oikeuksineen valtiolle päätöksen antopäivästä.",
+      "section_number": "14",
+      "chapter_number": 5,
+      "statute_id": "423/1978"
+    },
+    {
+      "id": "1baf98e4-f5ab-4c83-9201-7bc96822a5fd",
+      "node_type": "Section",
+      "publisher": "finlex",
+      "title": "15 § Takaisinmaksuvelvollisuus",
+      "text": "Työnantaja, kommandiittiyhtiön vastuunalainen yhtiömies ja avoimen yhtiön yhtiömies sekä muu työntekijän saatavien maksamisesta vastuussa oleva on velvollinen maksamaan valtiolle takaisin palkkaturvana maksetut määrät päätöksen antopäivästä lukien laskettavine korkolain (633/1982) 4 §:n 3 momentin mukaisine korkoineen.",
+      "section_number": "15",
+      "chapter_number": 5,
+      "statute_id": "423/1978"
+    },
+    {
+      "id": "ee0cea3a-0224-4e6e-8e71-dad0034effef",
+      "node_type": "Section",
+      "publisher": "finlex",
+      "title": "16 § Palkkaturvapäätöksen täytäntöönpano- kelpoisuus",
+      "text": "Palkkaturvapäätös on heti täytäntöön pantavissa niin kuin lainvoimainen tuomio, jollei tuomioistuin käsitellessään palkkaturvaa koskevaa riitaa määrää, ettei päätöstä ole toistaiseksi pantava täytäntöön tai täytäntöönpanoa jatkettava.",
+      "section_number": "16",
+      "chapter_number": 5,
+      "statute_id": "423/1978"
+    },
+    {
+      "id": "f9d51b3c-0e5b-4e05-95fe-fb6901de7c7e",
+      "node_type": "Section",
+      "publisher": "finlex",
+      "title": "17 § Maksuhuojennukset",
+      "text": "Ministeriö ja valtioneuvoston asetuksella säädettävään määrään saakka työvoima- ja elinkeinokeskus voi työllisyyden turvaamiseksi tärkeistä tai muista tähän rinnastettavista syistä taikka perimisen ollessa maksuvelvollisen taloudellinen asema huomioon ottaen kohtuutonta myöntää maksun suoritukselle lykkäystä tai vapauttaa työnantajan tai muun maksuvelvollisen kokonaan tai osaksi maksuvelvollisuudestaan. Ministeriön ja työvoima- ja elinkeinokeskuksen maksuhuojennusta koskevassa asiassa tekemään päätökseen ei saa hakea valittamalla muutosta.",
+      "section_number": "17",
+      "chapter_number": 5,
+      "statute_id": "423/1978"
+    },
+    {
+      "id": "180dcb7d-05ee-429b-84a1-03355b10d773",
+      "node_type": "Section",
+      "publisher": "finlex",
+      "title": "18 § Erityinen vanhentumisaika",
+      "text": "Palkkaturva on perittävä takaisin valtiolle 10 vuoden kuluessa sen vuoden päättymisestä lukien, jona palkkaturvapäätös on annettu. Tämän jälkeen oikeus maksun saantiin on menetetty. Aikaraja ei estä maksun saamista ulosmitatuista, konkurssiin luovutetuista tai muun julkisen haasteen kohteena olevista varoista, jos saatavan perimiseksi on suoritettu ulosmittaus tai saatava on valvottu konkurssissa taikka muun julkisen haasteen perusteella edellä mainitun määräajan kuluessa. Erityisen vanhentumisajan suhteesta saneerausmenettelyyn ja velkajärjestelyyn säädetään yrityksen saneerauksesta annetun lain (47/1993) 99 ja 99 a §:ssä sekä yksityishenkilön velkajärjestelystä annetun lain (57/1993) 79 ja 79 a §:ssä.",
+      "section_number": "18",
+      "chapter_number": 5,
+      "statute_id": "423/1978"
+    },
+    {
+      "id": "d652cfd6-aec7-46fa-98ea-a23a53e7d223",
+      "node_type": "Section",
+      "publisher": "finlex",
+      "title": "19 § Kanne työnantajaa vastaan",
+      "text": "Jos palkkaturvana haettu saatava on hylätty sen vuoksi, että työnantaja on riitauttanut saatavan eikä sen perustetta ja määrää ole saatu palkkaturvamenettelyssä selvitettyä, työntekijän on säilyttääkseen oikeutensa palkkaturvaan nostettava kanne käräjäoikeudessa työnantajaa vastaan. Haastehakemuksessa on ilmoitettava, että kysymyksessä on tämän momentin mukainen kanne. Tuomioistuimen on annettava haaste, haastehakemus ja siihen liitetyt asiakirjat sekä haasteen johdosta annetut vastaukset valtiolle tiedoksi. Valtiolla on, mikäli katsoo etunsa sitä vaativan, oikeus tuomioistuimen asettamassa määräajassa ilmoittautua oikeudenkäyntiin vastaajaksi. Tuomioistuin vahvistaa 1 ja 2 momentissa tarkoitetuissa tilanteissa valtioon nähden enintään ne saatavat, jotka työnantaja velvoitetaan työntekijälle maksamaan. Jos työnantaja on kiistänyt palkkaturvana haetun saatavan eikä työnantajaa ole voitu todeta maksukyvyttömäksi, saatava on hylättävä riitaisena ja työntekijälle on annettava osoitus 1 momentissa tarkoitetun kanteen nostamisesta.",
+      "section_number": "19",
+      "chapter_number": 6,
+      "statute_id": "423/1978"
+    },
+    {
+      "id": "018b4ac8-eeef-4bc4-958a-96870f5e68c9",
+      "node_type": "Section",
+      "publisher": "finlex",
+      "title": "20 § Kanne valtiota vastaan",
+      "text": "Jos palkkaturvana haettu saatava, jota työnantaja ei ole kiistänyt, on hylätty selvittämättömänä tai perusteettomana, työntekijän on säilyttääkseen oikeutensa palkkaturvaan nostettava saatavan perustetta ja määrää koskeva vahvistuskanne käräjäoikeudessa valtiota vastaan.",
+      "section_number": "20",
+      "chapter_number": 6,
+      "statute_id": "423/1978"
+    },
+    {
+      "id": "4712f6f0-f546-4732-a4bf-27eb19481300",
+      "node_type": "Section",
+      "publisher": "finlex",
+      "title": "21 § Kanteen vireillepano ja oikeuspaikka",
+      "text": "Määräaika 19 ja 20 §:ssä tarkoitetun kanteen nostamiselle on kuusi kuukautta. Määräaika lasketaan päätöksen tiedoksisaannista. Kanne on pantava vireille siinä tuomioistuimessa, jossa työnantajan olisi vastattava työpalkkasaatavaa koskevassa asiassa.",
+      "section_number": "21",
+      "chapter_number": 6,
+      "statute_id": "423/1978"
+    },
+    {
+      "id": "729975d6-8430-4df4-b79f-d2e9f7df518d",
+      "node_type": "Section",
+      "publisher": "finlex",
+      "title": "22 § Saatavan selvittäminen työnantajan konkurssissa ja aluksen pakkohuutokaupassa",
+      "text": "Jos työnantaja on konkurssissa tai asetetaan konkurssiin kanteen vireillepanoajan kuluessa, kannetta ei voi nostaa, vaan saatavaa koskevat riitaisuudet ratkaistaan konkurssimenettelyssä. Jos tällainen konkurssi peruuntuu tai raukeaa, lasketaan määräaika kanteen nostamiselle konkurssin päättymisestä. Kannetta ei tarvitse nostaa, jos saatava valvotaan sellaisessa aluksen pakkohuutokaupassa, jota koskeva kuulutus on julkaistu kanteen vireillepanoajan kuluessa. Jos pakkohuutokauppa peruuntuu tai raukeaa, lasketaan määräaika kanteen nostamiselle siitä päivästä, jona huutokauppa kuulutuksen mukaan olisi ollut pidettävä. Työvoima- ja elinkeinokeskuksella on oikeus tehdä muistutus sellaista konkurssissa tai aluksen pakkohuutokaupassa valvottua saatavaa vastaan, joka voi tulla palkkaturvana maksettavaksi.",
+      "section_number": "22",
+      "chapter_number": 6,
+      "statute_id": "423/1978"
+    },
+    {
+      "id": "704769d4-d5a7-49b9-a807-71903b395d7c",
+      "node_type": "Section",
+      "publisher": "finlex",
+      "title": "23 § Uusi palkkaturvahakemus",
+      "text": "Tuomioon tai aluksen pakkohuutokaupassa ulosottomiehen ratkaisuun perustuva saatava voidaan maksaa palkkaturvana, jos uusi hakemus tehdään kuuden kuukauden kuluessa tuomion tai ulosottomiehen ratkaisun lainvoimaiseksi tulosta edellyttäen, että palkkaturvan saamisen muut edellytykset täyttyvät.",
+      "section_number": "23",
+      "chapter_number": 6,
+      "statute_id": "423/1978"
+    },
+    {
+      "id": "c9af5477-226d-46b7-a66a-135b64c2738f",
+      "node_type": "Section",
+      "publisher": "finlex",
+      "title": "24 § Hallintovalitus",
+      "text": "Palkkaturvapäätökseen, jolla saatava on hylätty muulla kuin 19 ja 20 §:ssä mainituilla perusteilla, työntekijä saa hakea muutosta työttömyysturvalautakunnalta kirjallisella valituksella. Valitus on toimitettava työvoima- ja elinkeinokeskukselle 30 päivän kuluessa päätöksen tiedoksisaannista. Valittajan katsotaan saaneen päätöksestä tiedon seitsemäntenä päivänä sen jälkeen, kun päätös on postitettu valittajan ilmoittamalla osoitteella, jollei valituksen yhteydessä muuta näytetä. Työvoima- ja elinkeinokeskuksen on viipymättä lähetettävä valituskirjelmä, lausuntonsa ja kertyneet asiakirjat työttömyysturvalautakunnalle. Työttömyysturvalautakunnan päätökseen tyytymätön saa hakea muutosta korkeimmalta hallinto-oikeudelta 1 momentissa säädetyssä ajassa työttömyysturvalautakunnan päätöksestä tiedon saatuaan.",
+      "section_number": "24",
+      "chapter_number": 6,
+      "statute_id": "423/1978"
+    },
+    {
+      "id": "29932d7d-6a15-4aa2-9d94-da38983ab668",
+      "node_type": "Section",
+      "publisher": "finlex",
+      "title": "25 § Työnantajan takaisinsaantikanne",
+      "text": "Työantaja ja muu maksuvelvollinen saa hakea takaisinsaantia palkkaturvapäätökseen siinä tuomioistuimessa, jossa työnantajan olisi vastattava työpalkkasaatavaa koskevassa asiassa. Takaisinsaantikanne on pantava vireille 60 päivän kuluessa palkkaturvapäätöksen tiedoksisaannista. Jos työnantaja tai muu maksuvelvollinen on konkurssissa tai asetetaan konkurssiin takaisinsaantikanteen vireillepanoajan kuluessa, maksuvelvollisuutta koskevat riitaisuudet voidaan ratkaista konkurssimenettelyssä. Riitaisuudet voidaan ratkaista myös aluksen pakkohuutokauppamenettelyn yhteydessä, jos sitä koskeva kuulutus on julkaistu takaisinsaantikanteen vireillepanoajan kuluessa.",
+      "section_number": "25",
+      "chapter_number": 6,
+      "statute_id": "423/1978"
+    },
+    {
+      "id": "9807dec3-4ab6-4b58-b27c-fcae1232e5b9",
+      "node_type": "Section",
+      "publisher": "finlex",
+      "title": "26 § Tiedoksisaanti ja virka-apu",
+      "text": "Työnantaja on velvollinen antamaan lain täytäntöönpanoa varten tarpeelliset tiedot työvoima- ja elinkeinokeskukselle, jolla on oikeus tarkistaa tiedot työnantajan kirjanpidosta. Poliisiviranomainen on velvollinen antamaan tarpeellista virka-apua tietojen hankkimiseksi. Työvoima- ja elinkeinokeskuksella on oikeus saada veroviranomaisilta, ulosottoviranomaisilta, työsuojeluviranomaisilta, Kansaneläkelaitokselta, työttömyyskassoilta ja työvoimatoimistoilta palkkaturvahakemuksen käsittelyä varten tarpeelliset tiedot.",
+      "section_number": "26",
+      "chapter_number": 7,
+      "statute_id": "423/1978"
+    },
+    {
+      "id": "59a136d5-f457-49cf-8162-ed1c0303a907",
+      "node_type": "Section",
+      "publisher": "finlex",
+      "title": "27 § Aiheeton palkkaturvaetuus",
+      "text": "Joka tahallaan tai tuottamuksellisesti on saanut aikaan aiheettoman palkkaturvan maksun tai muun tämän lain mukaisen etuuden myöntämisen, on velvollinen palauttamaan aiheettoman maksun tai korvaamaan etuuden arvon korkolain 4 §:n 3 momentin mukaisine korkoineen etuuden myöntämispäivästä lukien.",
+      "section_number": "27",
+      "chapter_number": 7,
+      "statute_id": "423/1978"
+    },
+    {
+      "id": "c93e94ea-8448-4741-ad90-46763b639152",
+      "node_type": "Section",
+      "publisher": "finlex",
+      "title": "28 § Rangaistussäännökset",
+      "text": "Rangaistus palkkaturvan petollisesta hankkimisesta tai sen yrittämisestä tuomitaan rikoslain (39/1889) 36 luvun 1―3 §:n mukaan. Rangaistus avustuspetoksesta, joka kohdistuu tämän lain mukaiseen huojennukseen tai vapautukseen, tuomitaan rikoslain 29 luvun 5, 6 tai 8 §:n mukaan.",
+      "section_number": "28",
+      "chapter_number": 7,
+      "statute_id": "423/1978"
+    },
+    {
+      "id": "5bdad876-ce58-4c2b-829b-57349f8bb46c",
+      "node_type": "Section",
+      "publisher": "finlex",
+      "title": "29 § Rahoitus",
+      "text": "Työttömyysetuuksien rahoituksesta annetussa laissa (555/1998) tarkoitetun työttömyysvakuutusrahaston on maksettava valtiolle työntekijöille palkkaturvana maksettujen määrien ja työnantajilta perittyjen pääomamäärien erotus vuosittain jälkikäteen ministeriön lähettämän laskun mukaisesti. Tästä erotuksesta on kuitenkin vähennettävä työnantajilta tai muilta maksuvelvollisilta 17 §:n nojalla perimättä jätetyt määrät. Maksun viivästyessä sille on maksettava viivästyskorkoa 16 prosenttia.",
+      "section_number": "29",
+      "chapter_number": 7,
+      "statute_id": "423/1978"
+    },
+    {
+      "id": "0f04efc1-08c2-4257-901d-697fb0a0a470",
+      "node_type": "Section",
+      "publisher": "finlex",
+      "title": "30 § Tarkemmat säännökset",
+      "text": "Tarkemmat säännökset tämän lain täytäntöönpanosta annetaan valtioneuvoston asetuksella.",
+      "section_number": "30",
+      "chapter_number": 7,
+      "statute_id": "423/1978"
+    },
+    {
+      "id": "94d3426f-566e-4d51-bf35-997b1fd83503",
+      "node_type": "Section",
+      "publisher": "finlex",
+      "title": "31 § Lain voimaantulo",
+      "text": "Tämä laki tulee voimaan 1 päivänä tammikuuta 2001. Tällä lailla kumotaan 21 päivänä joulukuuta 1979 annettu merimiesten palkkaturvalaki (927/1979) siihen myöhemmin tehtyine muutoksineen.",
+      "section_number": "31",
+      "chapter_number": 8,
+      "statute_id": "423/1978"
+    },
+    {
+      "id": "f29869a6-dbbd-4c07-afe8-90555c953cc8",
+      "node_type": "Section",
+      "publisher": "finlex",
+      "title": "32 § Siirtymäsäännökset",
+      "text": "Tätä lakia sovelletaan niihin palkkaturvahakemuksiin, jotka on jätetty työvoimaviranomaisille lain voimaantulon jälkeen. Tämän lain 6 luvun muutoksenhakua koskevia säännöksiä sovelletaan myös lain voimaan tullessa vireillä oleviin hakemuksiin. Lain 23 §:n mukaisiin uusiin palkkaturvahakemuksiin sovelletaan tämän lain voimaan tullessa voimassa olleita säännöksiä, jos tuomioon perustuvaa saatavaa on ensimmäisen kerran haettu palkkaturvana kumotun lain voimassa ollessa eikä 1 momentissa mainitusta muutoksenhakua koskevien säännösten soveltamisesta muuta johdu. Ennen tämän lain voimaantuloa tehtyihin palkkaturvapäätöksiin perustuvat valtion saatavat vanhentuvat viimeistään vuoden 2010 päättyessä.",
+      "section_number": "32",
+      "chapter_number": 8,
+      "statute_id": "423/1978"
+    }
+  ],
+  "clauses": [
+    {
+      "id": "e1a6c946-4ece-422b-924d-6a75a5233914",
+      "node_type": "Clause",
+      "publisher": "finlex",
+      "title": "§ 5 mom 1",
+      "text": "1) työnantaja on asetettu konkurssiin;",
+      "clause_number": 1,
+      "section_number": "5",
+      "statute_id": "423/1978"
+    },
+    {
+      "id": "d5355284-cb07-44a7-b3aa-7ded58840aec",
+      "node_type": "Clause",
+      "publisher": "finlex",
+      "title": "§ 5 mom 2",
+      "text": "2) työnantaja on todettu kyvyttömäksi maksamaan ulosotossa olevia velkojaan;",
+      "clause_number": 2,
+      "section_number": "5",
+      "statute_id": "423/1978"
+    },
+    {
+      "id": "b9f49849-8c42-458e-bb98-4874b31fff03",
+      "node_type": "Clause",
+      "publisher": "finlex",
+      "title": "§ 5 mom 3",
+      "text": "3) työnantaja on laiminlyönyt ajallaan tilittää säädetyt ennakonpidätykset tai maksaa työnantajasuoritukset;",
+      "clause_number": 3,
+      "section_number": "5",
+      "statute_id": "423/1978"
+    },
+    {
+      "id": "dfcab2ae-9a83-44ce-9bfc-82a0c492843e",
+      "node_type": "Clause",
+      "publisher": "finlex",
+      "title": "§ 5 mom 4",
+      "text": "4) työnantaja ei ole tavoitettavissa tai on lopettanut toimintansa eikä työnantajan varoista pystytä saatavaa maksamaan; tai",
+      "clause_number": 4,
+      "section_number": "5",
+      "statute_id": "423/1978"
+    },
+    {
+      "id": "24a45edd-963b-4076-8b39-0b6212426ac9",
+      "node_type": "Clause",
+      "publisher": "finlex",
+      "title": "§ 5 mom 5",
+      "text": "5) työnantajan maksukyvyttömyys on muissa edellä mainittuihin verrattavissa tapauksissa palkkaturvaviranomaisen selvästi todettavissa.",
+      "clause_number": 5,
+      "section_number": "5",
+      "statute_id": "423/1978"
+    },
+    {
+      "id": "a6644cd7-9f94-44f9-b0f4-385530754202",
+      "node_type": "Clause",
+      "publisher": "finlex",
+      "title": "§ 7 mom 1",
+      "text": "1) työntekijän saatava perustuu sopimukseen tai järjestelyyn, joka on ilmeisesti tehty palkkaturvan saamiseksi;",
+      "clause_number": 1,
+      "section_number": "7",
+      "statute_id": "423/1978"
+    },
+    {
+      "id": "5940be46-61f4-4782-b9bb-5c071fa8f22a",
+      "node_type": "Clause",
+      "publisher": "finlex",
+      "title": "§ 7 mom 2",
+      "text": "2) palkkaturvana haettu saatava on ilmeisessä epäsuhteessa siihen, mitä tehtyyn työhön ja muihin olosuhteisiin nähden voidaan pitää kohtuullisena;",
+      "clause_number": 2,
+      "section_number": "7",
+      "statute_id": "423/1978"
+    },
+    {
+      "id": "faa671bb-76f1-420a-9cde-c9c5174c11dd",
+      "node_type": "Clause",
+      "publisher": "finlex",
+      "title": "§ 7 mom 3",
+      "text": "3) työntekijä hakee toistuvasti palkkaturvana samaan työnantajaan kohdistuvia saatavia.",
+      "clause_number": 3,
+      "section_number": "7",
+      "statute_id": "423/1978"
+    },
+    {
+      "id": "9187d853-5f98-4148-8d5f-92dbab6a0179",
+      "node_type": "Clause",
+      "publisher": "finlex",
+      "title": "§ 7 mom 1",
+      "text": "1) aikaisemmalla työnantajalla;",
+      "clause_number": 1,
+      "section_number": "7",
+      "statute_id": "423/1978"
+    },
+    {
+      "id": "e9e4a8a7-6c26-4945-98ad-628e294cbf7b",
+      "node_type": "Clause",
+      "publisher": "finlex",
+      "title": "§ 7 mom 2",
+      "text": "2) sellaisella henkilöllä, joka on, tai sellaisilla henkilöillä, jotka ovat aikaisempaan työnantajaan takaisinsaannista konkurssipesään annetun lain (758/1991) 3 §:ssä tarkoitetussa läheisyyssuhteessa; tai",
+      "clause_number": 2,
+      "section_number": "7",
+      "statute_id": "423/1978"
+    },
+    {
+      "id": "da5f7df3-b50a-42e8-abda-a173f8b81a2f",
+      "node_type": "Clause",
+      "publisher": "finlex",
+      "title": "§ 7 mom 3",
+      "text": "3) edellä 1 ja 2 kohdassa tarkoitetuilla henkilöillä yhdessä.",
+      "clause_number": 3,
+      "section_number": "7",
+      "statute_id": "423/1978"
+    }
+  ],
+  "cross_references": [],
+  "raw_html_path": "C:\\Users\\danit\\finance-hack\\aalto-hackaton-2026\\data\\raw\\finlex\\Laki (säädöskokoelma)\\Merimiesten palkkaturvalaki.html"
+}

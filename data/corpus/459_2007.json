@@ -1,0 +1,68 @@
+{
+  "statute": {
+    "id": "9baa918c-19f8-4d99-b92a-d918301bd779",
+    "node_type": "Statute",
+    "publisher": "finlex",
+    "title": "Laki tilintarkastuslain muuttamisesta",
+    "text": "Laki tilintarkastuslain muuttamisesta",
+    "statute_id": "459/2007",
+    "finlex_url": "https://finlex.fi/fi/laki/ajantasa/459/2007"
+  },
+  "chapters": [],
+  "sections": [
+    {
+      "id": "1dd3ebc2-d19e-49de-a7ca-b9bc94e26949",
+      "node_type": "Section",
+      "publisher": "finlex",
+      "title": "4 § Tilintarkastusvelvollisuus",
+      "text": "Yhteisössä ja säätiössä on valittava tilintarkastaja ja toimitettava tilintarkastus sen mukaan kuin tässä laissa ja muualla laissa säädetään. Jollei muualla laissa toisin säädetä, tilintarkastaja voidaan jättää valitsematta yhteisössä, jossa sekä päättyneellä että sitä välittömästi edeltäneellä tilikaudella on täyttynyt enintään yksi seuraavista edellytyksistä: Tilintarkastaja voidaan myös jättää valitsematta toimintaansa aloittavassa yhteisössä, jolla ei vielä ole 2 momentissa tarkoitettuja tilikausia, jollei ole ilmeistä, ettei edellytyksiä tilintarkastajan valitsematta jättämiseen ole. Tilintarkastaja on kuitenkin aina valittava yhteisössä, jonka pääasiallisena toimialana on arvopapereiden omistaminen ja hallinta ja jolla on kirjanpitolain 1 luvun 8 §:ssä tarkoitettu huomattava vaikutusvalta toisen kirjanpitovelvollisen liiketoiminnan tai rahoituksen johtamisessa. Jos yhteisöllä ei ole 1, 2 tai 3 momentin mukaista velvollisuutta valita tilintarkastajaa, yhtiöjärjestyksessä, yhtiösopimuksessa tai säännöissä voidaan määrätä tilintarkastuksesta sekä useamman tilintarkastajan valinnasta. Jos yhteisölle on valittu vain yksi tilintarkastaja eikä tämä ole 33 tai 34 §:ssä tarkoitettu tilintarkastusyhteisö, on valittava ainakin yksi varatilintarkastaja. Mitä tässä tai muussa laissa säädetään tilintarkastajasta, sovelletaan vastaavasti varatilintarkastajaan. Jos tilinpäätöksen vahvistamisesta päätetään yhteisön tai säätiön toimielimen kokouksessa, tilinpäätös ja toimintakertomus on annettava tilintarkastajalle viimeistään kuukautta ennen tätä kokousta.",
+      "section_number": "4",
+      "chapter_number": 1,
+      "statute_id": "459/2007"
+    },
+    {
+      "id": "e48b3924-0d2f-4659-8127-3986bff99863",
+      "node_type": "Section",
+      "publisher": "finlex",
+      "title": "38 § Tietojen poistaminen tilintarkastajarekisteristä",
+      "text": "Jos rekisteriin merkityn tilintarkastajan hyväksyminen on lakkautettu tai se on 50 §:ssä tarkoitetulla tavalla peruutettu, Keskuskauppakamarin tilintarkastuslautakunnan on poistettava tilintarkastajaa koskevat tiedot rekisteristä. Rekisteristä poistamista koskevan ilmoituksen voi tehdä myös se, joka on peruuttanut tilintarkastajan hyväksymisen, jos päätös on lainvoimainen. Keskuskauppakamarin tilintarkastuslautakunnan on ilmoituksen saatuaan viipymättä ilmoitettava peruuttamisesta asianomaisille ETA-valtioiden tilintarkastajarekisteriä pitäville viranomaisille. Tämä laki tulee voimaan 31 päivänä joulukuuta 2013. Jos tilintarkastajan hyväksyminen on lakannut tämän lain voimaan tullessa voimassa olleen 35 §:n nojalla, hyväksynnän palauttamiseen sovelletaan, mitä 36 §:ssä säädetään.",
+      "section_number": "38",
+      "chapter_number": 1,
+      "statute_id": "459/2007"
+    }
+  ],
+  "clauses": [
+    {
+      "id": "19e832dc-c068-4753-b048-67ba920e7739",
+      "node_type": "Clause",
+      "publisher": "finlex",
+      "title": "§ 4 mom 1",
+      "text": "1) taseen loppusumma ylittää 100 000 euroa;",
+      "clause_number": 1,
+      "section_number": "4",
+      "statute_id": "459/2007"
+    },
+    {
+      "id": "f173fe2e-6c68-4f77-91ac-977507a87a33",
+      "node_type": "Clause",
+      "publisher": "finlex",
+      "title": "§ 4 mom 2",
+      "text": "2) liikevaihto tai sitä vastaava tuotto ylittää 200 000 euroa; tai",
+      "clause_number": 2,
+      "section_number": "4",
+      "statute_id": "459/2007"
+    },
+    {
+      "id": "297945b7-552d-4627-82d9-0d03bc84b364",
+      "node_type": "Clause",
+      "publisher": "finlex",
+      "title": "§ 4 mom 3",
+      "text": "3) palveluksessa on keskimäärin yli kolme henkilöä.",
+      "clause_number": 3,
+      "section_number": "4",
+      "statute_id": "459/2007"
+    }
+  ],
+  "cross_references": [],
+  "raw_html_path": "C:\\Users\\danit\\finance-hack\\aalto-hackaton-2026\\data\\raw\\finlex\\Laki\\Laki tilintarkastuslain muuttamisesta_1.html"
+}

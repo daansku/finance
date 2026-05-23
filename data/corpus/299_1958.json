@@ -1,0 +1,544 @@
+{
+  "statute": {
+    "id": "3098eef8-8bf0-4d90-b2d5-5fd5202d9f15",
+    "node_type": "Statute",
+    "publisher": "finlex",
+    "title": "Työterveyshuoltolaki",
+    "text": "Työterveyshuoltolaki",
+    "statute_id": "299/1958",
+    "finlex_url": "https://finlex.fi/fi/laki/ajantasa/299/1958"
+  },
+  "chapters": [
+    {
+      "id": "fa534e00-0ee1-401a-986b-fb2f7614f32b",
+      "node_type": "Chapter",
+      "publisher": "finlex",
+      "title": "Chapter 1",
+      "text": "1 luku Yleiset säännökset",
+      "chapter_number": 1,
+      "statute_id": "299/1958"
+    },
+    {
+      "id": "0eb8a8a8-d625-44bc-95c5-6a01ce1f9c08",
+      "node_type": "Chapter",
+      "publisher": "finlex",
+      "title": "Chapter 2",
+      "text": "2 luku Työnantajan velvollisuudet",
+      "chapter_number": 2,
+      "statute_id": "299/1958"
+    },
+    {
+      "id": "0ecc5906-0f96-4650-9db5-d4bdcb3ce9da",
+      "node_type": "Chapter",
+      "publisher": "finlex",
+      "title": "Chapter 3",
+      "text": "3 luku Työterveyshuollon yleisperiaatteet, toteuttaminen ja sisältö",
+      "chapter_number": 3,
+      "statute_id": "299/1958"
+    },
+    {
+      "id": "0f57005b-9cb6-4c74-8f81-95cf8f85bf52",
+      "node_type": "Chapter",
+      "publisher": "finlex",
+      "title": "Chapter 4",
+      "text": "4 luku Tietojen käsittely työterveyshuollossa",
+      "chapter_number": 4,
+      "statute_id": "299/1958"
+    },
+    {
+      "id": "29321ea0-c9d3-462b-9a63-9134c1f1722e",
+      "node_type": "Chapter",
+      "publisher": "finlex",
+      "title": "Chapter 5",
+      "text": "5 luku Erinäiset säännökset",
+      "chapter_number": 5,
+      "statute_id": "299/1958"
+    }
+  ],
+  "sections": [
+    {
+      "id": "f55dee61-9b3c-4240-826d-2c9bb5d1d766",
+      "node_type": "Section",
+      "publisher": "finlex",
+      "title": "1 § Lain tarkoitus",
+      "text": "Tässä laissa säädetään työnantajan velvollisuudesta järjestää työterveyshuolto sekä työterveyshuollon sisällöstä ja toteuttamisesta. Tämän lain tarkoituksena on työnantajan, työntekijän ja työterveyshuollon yhteistoimin edistää:",
+      "section_number": "1",
+      "chapter_number": 1,
+      "statute_id": "299/1958"
+    },
+    {
+      "id": "f26d61e2-85e9-45bd-b179-150cad272afc",
+      "node_type": "Section",
+      "publisher": "finlex",
+      "title": "2 § Soveltamisala",
+      "text": "Tätä lakia sovelletaan työhön, jossa työnantaja on velvollinen noudattamaan työturvallisuuslakia (299/1958). Yrittäjien ja muiden omaa työtään tekevien työterveyshuollon järjestämisessä noudatetaan soveltuvin osin, mitä tässä laissa säädetään.",
+      "section_number": "2",
+      "chapter_number": 1,
+      "statute_id": "299/1958"
+    },
+    {
+      "id": "64b68c76-38e6-414e-8cde-268cf934b7f3",
+      "node_type": "Section",
+      "publisher": "finlex",
+      "title": "3 § Määritelmät",
+      "text": "Tässä laissa tarkoitetaan: Valtioneuvoston asetuksella voidaan säätää tarkemmin 1 momentin 4 kohdassa tarkoitetusta koulutuksesta, 1 momentin 5 kohdassa tarkoitetuista riittävistä tiedoista ja 1 momentin 7 kohdassa tarkoitetun hyvän työterveyshuoltokäytännön toteuttamisen periaatteista.",
+      "section_number": "3",
+      "chapter_number": 1,
+      "statute_id": "299/1958"
+    },
+    {
+      "id": "12673092-b238-4d0d-9750-f923b6ddc0ef",
+      "node_type": "Section",
+      "publisher": "finlex",
+      "title": "4 § Työterveyshuollon järjestäminen",
+      "text": "Työnantajan on kustannuksellaan järjestettävä työterveyshuolto työstä ja työolosuhteista johtuvien terveysvaarojen ja -haittojen ehkäisemiseksi ja torjumiseksi sekä työntekijöiden turvallisuuden, työkyvyn ja terveyden suojelemiseksi ja edistämiseksi. Työterveyshuolto tulee järjestää ja toteuttaa siinä laajuudessa kuin työstä, työjärjestelyistä, henkilöstöstä, työpaikan olosuhteista ja niiden muutoksista johtuva tarve edellyttää, siten kuin tässä laissa säädetään.",
+      "section_number": "4",
+      "chapter_number": 2,
+      "statute_id": "299/1958"
+    },
+    {
+      "id": "76ea796c-53cc-484b-b535-1af460df38fc",
+      "node_type": "Section",
+      "publisher": "finlex",
+      "title": "5 § Työterveyshuollon ammattihenkilöt ja asiantuntijat",
+      "text": "Työnantajan tulee käyttää riittävästi työterveyshuollon ammattihenkilöitä ja heidän tarpeellisiksi katsomiaan asiantuntijoita työterveyshuollon suunnittelua, toteuttamista sekä kehittämistä ja seurantaa koskevissa asioissa siten kuin työterveyshuollon toteuttamiseksi hyvän työterveyshuoltokäytännön mukaisesti on tarpeen. Työterveyshuollon ammattihenkilöiden ja asiantuntijoiden tulee olla ammatillisesti riippumattomia työnantajista, työntekijöistä ja heidän edustajistaan, ja heillä tulee olla tämän lain 3 §:ssä tarkoitettu pätevyys sekä riittävällä täydennyskoulutuksella ylläpidetyt tiedot ja taidot. Työterveyshuollon ammattihenkilön ja asiantuntijan työnantaja on velvollinen huolehtimaan siitä, että ammattihenkilö ja asiantuntija osallistuvat riittävästi, kuitenkin vähintään kolmen vuoden välein, ammattitaitoaan ylläpitävään täydennyskoulutukseen. Täydennyskoulutusvelvollisuus koskee myös itsenäisenä ammatinharjoittajana työterveyshuoltotehtävissä toimivaa terveydenhuollon ammattihenkilöä. Sosiaali- ja terveysministeriö voi antaa ohjeita täydennyskoulutuksen sisällöstä, laadusta, määrästä ja järjestämisestä.",
+      "section_number": "5",
+      "chapter_number": 2,
+      "statute_id": "299/1958"
+    },
+    {
+      "id": "6e8cca2a-c923-453c-8af8-cbe92bb18c83",
+      "node_type": "Section",
+      "publisher": "finlex",
+      "title": "6 § Työterveyshuollon palveluista sopiminen",
+      "text": "Työnantajan ja työterveyshuollon palvelujen tuottajan tulee tehdä työterveyshuollon järjestämisestä kirjallinen sopimus, josta ilmenee työterveyshuollon yleiset järjestelyt sekä palvelujen sisältö ja laajuus. Olosuhteiden olennaisesti muuttuessa sopimusta on tarkistettava. Jos työnantaja järjestää itse työterveyshuollon palvelut, sen tulee sopivalla tavalla kuvata 1 momentissa tarkoitetut seikat. Valtioneuvoston asetuksella voidaan säätää työterveyshuollon järjestämistä koskevan sopimuksen tarkemmasta sisällöstä.",
+      "section_number": "6",
+      "chapter_number": 2,
+      "statute_id": "299/1958"
+    },
+    {
+      "id": "89fd288a-a5bf-48e2-8040-0a4fefe1bca1",
+      "node_type": "Section",
+      "publisher": "finlex",
+      "title": "7 § Palvelujen tuottaminen",
+      "text": "Työnantaja voi järjestää tässä laissa tarkoitetut työterveyshuollon palvelut:",
+      "section_number": "7",
+      "chapter_number": 2,
+      "statute_id": "299/1958"
+    },
+    {
+      "id": "060ca15b-6fd1-4f6f-a6be-ea4fdf1871c1",
+      "node_type": "Section",
+      "publisher": "finlex",
+      "title": "8 § Yhteistoiminta",
+      "text": "Kun työnantaja valmistelee työterveyshuollon toteuttamiseksi tarpeellisia päätöksiä, työnantajan tulee toimia yhteistoiminnassa työntekijöiden tai heidän edustajiensa kanssa asioissa, jotka liittyvät työpaikan työterveyshuollon järjestämisen yleisiin suuntaviivoihin ja toiminnan suunnitteluun mukaan lukien työterveyshuollon toimintasuunnitelma, sisältö, laajuus sekä työterveyshuollon toteutus ja vaikutusten arviointi samoin kuin antaa työntekijöille tai heidän edustajilleen riittävän ajoissa asioiden käsittelyn kannalta tarpeelliset tiedot. Ennen kuin työnantaja ratkaisee 12 ja 14 §:ssä tarkoitetun toiminnan aloittamisen, muuttamisen tai työterveyshuollon järjestämiseen olennaisesti vaikuttavan muun asian, on asia käsiteltävä työsuojelun valvonnasta ja muutoksenhausta työsuojeluasioissa annetussa laissa (131/1973) tarkoitetussa työsuojelutoimikunnassa tai muussa sen korvaavassa yhteistoimintamenettelyssä tai, jollei työsuojelutoimikuntaa tai sen korvaavaa yhteistoimintamenettelyä ole, yhdessä työsuojeluvaltuutetun kanssa. Jollei työpaikalle ole valittu työsuojeluvaltuutettua, asiat käsitellään mahdollisuuksien mukaan yhdessä henkilöstön kanssa. Työntekijöillä ja heidän edustajillaan on oikeus tehdä ehdotuksia työterveyshuollon toiminnan kehittämiseksi. Ehdotuksia ja niiden johdosta tarpeellisia toimenpiteitä tulee käsitellä yhteistoiminnassa siten kuin 1 momentissa säädetään.",
+      "section_number": "8",
+      "chapter_number": 2,
+      "statute_id": "299/1958"
+    },
+    {
+      "id": "895d27af-fc4e-43dc-8778-6e69ac5a49fe",
+      "node_type": "Section",
+      "publisher": "finlex",
+      "title": "9 § Työterveyshuollon kustannusten korvaaminen",
+      "text": "Työnantajalla, yrittäjällä ja muulla omaa työtään tekevällä on oikeus korvaukseen tässä laissa säädetyn työterveyshuollon ja muun terveydenhuollon järjestämisestä aiheutuneista kustannuksista siten kuin sairausvakuutuslaissa (364/1963) säädetään.",
+      "section_number": "9",
+      "chapter_number": 2,
+      "statute_id": "299/1958"
+    },
+    {
+      "id": "79af99d7-3ef8-4f8e-8c69-cdc7e5897621",
+      "node_type": "Section",
+      "publisher": "finlex",
+      "title": "10 § Työntekijän suojelu",
+      "text": "Jos työntekijälle suoritettu terveystarkastus osoittaa, että työntekijällä henkilökohtaisten terveydellisten ominaisuuksien takia on ilmeinen alttius saada työstä vaaraa terveydelleen, työntekijää ei saa käyttää tällaiseen työhön.",
+      "section_number": "10",
+      "chapter_number": 2,
+      "statute_id": "299/1958"
+    },
+    {
+      "id": "1455f78a-ccbf-460d-9826-5aa1553f13ba",
+      "node_type": "Section",
+      "publisher": "finlex",
+      "title": "11 § Työterveyshuollon toimintasuunnitelma",
+      "text": "Työnantajalla on oltava työterveyshuollosta kirjallinen toimintasuunnitelma, jonka tulee sisältää työterveyshuollon yleiset tavoitteet sekä työpaikan olosuhteisiin perustuvat tarpeet ja niistä johtuvat toimenpiteet ottaen huomioon mitä 1, 4 ja 12 §:ssä säädetään. Työpaikkakäynteihin ja muihin työterveyshuollon suorittamiin selvityksiin perustuen toimintasuunnitelmaa tulee tarkistaa vuosittain. Toimintasuunnitelmassa on otettava riittävästi huomioon monitieteinen tieto työn ja terveyden välisestä suhteesta ja työn terveysvaikutuksista. Työterveyshuollon toimintasuunnitelma voi olla osa työturvallisuuslaissa tarkoitettua työsuojelun toimintaohjelmaa tai muuta työnantajan laatimaa kehittämisohjelmaa tai -suunnitelmaa.",
+      "section_number": "11",
+      "chapter_number": 3,
+      "statute_id": "299/1958"
+    },
+    {
+      "id": "8533ac7c-30e6-438b-9ec2-c6a5545ea89e",
+      "node_type": "Section",
+      "publisher": "finlex",
+      "title": "12 § Työterveyshuollon sisältö",
+      "text": "Työnantajan järjestettäväksi 4 §:ssä säädettyyn työterveyshuoltoon kuuluu hyvän työterveyshuoltokäytännön mukaisesti: Edellä 1 momentissa tarkoitetut tehtävät toteutetaan soveltuvin osin yhteistyössä johdon, linjaorganisaation, henkilöstöhallinnon ja yhteistoimintaorganisaatioiden kanssa. Yhteisen työpaikan erityistä vaaraa aiheuttavien tai laajavaikutteisten terveydellisten tekijöiden selvittämiseksi työnantajien on työterveyshuollon asiantuntemusta hyväksi käyttäen toimittava yhteistoiminnassa siten kuin erikseen säädetään. Valtioneuvoston asetuksella säädetään tarkemmin 1 momentissa tarkoitettujen tehtävien toteuttamisessa käytettävistä tavanomaisina pidettävistä menetelmistä ja keinoista.",
+      "section_number": "12",
+      "chapter_number": 3,
+      "statute_id": "299/1958"
+    },
+    {
+      "id": "8d812ab1-9685-4660-8af1-164fe3c489e8",
+      "node_type": "Section",
+      "publisher": "finlex",
+      "title": "13 § Työntekijän velvollisuus osallistua terveystarkastukseen",
+      "text": "Työntekijä ei saa ilman perusteltua syytä kieltäytyä osallistumasta tässä laissa tarkoitettuun terveystarkastukseen, joka työhön sijoitettaessa tai työn kestäessä on välttämätön: Terveystarkastus suoritetaan yhteisymmärryksessä työntekijän kanssa siten kuin potilaan asemasta ja oikeuksista annetun lain (785/1992) 6 §:ssä säädetään.",
+      "section_number": "13",
+      "chapter_number": 3,
+      "statute_id": "299/1958"
+    },
+    {
+      "id": "a9f56c23-ae6c-4707-9c0a-3d0dbbc5be65",
+      "node_type": "Section",
+      "publisher": "finlex",
+      "title": "14 § Muut terveydenhuollon palvelut",
+      "text": "Työnantaja voi 12 §:ssä tarkoitettujen palvelujen lisäksi järjestää työntekijöille sairaanhoito- ja muita terveydenhuoltopalveluja.",
+      "section_number": "14",
+      "chapter_number": 3,
+      "statute_id": "299/1958"
+    },
+    {
+      "id": "239ec062-a159-4b25-8e86-a57320c10b0e",
+      "node_type": "Section",
+      "publisher": "finlex",
+      "title": "15 § Työnantajan velvollisuus antaa tietoja",
+      "text": "Työnantajan tulee antaa työterveyshuollon ammattihenkilöille ja asiantuntijoille työstä, työjärjestelyistä, ammattitaudeista, työtapaturmista, henkilöstöstä, työpaikan olosuhteista ja niiden muutoksista sekä muista niihin verrattavista tekijöistä tietoja, jotka ovat tarpeen työntekijöille työstä aiheutuvan terveydellisen vaaran tai haitan arvioimiseksi ja ehkäisemiseksi.",
+      "section_number": "15",
+      "chapter_number": 4,
+      "statute_id": "299/1958"
+    },
+    {
+      "id": "5214ba9b-14ba-4b7f-8c35-908b195c0605",
+      "node_type": "Section",
+      "publisher": "finlex",
+      "title": "16 § Työntekijän velvollisuus antaa tietoja",
+      "text": "Työntekijän on pyynnöstä annettava työterveyshuollon palvelujen tuottajalle tiedot havaitsemistaan terveyden vaaraa aiheuttavista tekijöistä työpaikallaan.",
+      "section_number": "16",
+      "chapter_number": 4,
+      "statute_id": "299/1958"
+    },
+    {
+      "id": "93e1d078-f757-484a-afc3-fd2424d12a5c",
+      "node_type": "Section",
+      "publisher": "finlex",
+      "title": "17 § Työterveyshuollon palvelujen tuottajan neuvonta- ja tietojenantovelvollisuus",
+      "text": "Työterveyshuollon palvelujen tuottajan on annettava työntekijöille ja työnantajalle tarpeellisia tietoja työssä ja työpaikan olosuhteissa esiintyvistä terveyden vaaroista ja haitoista sekä niiden torjuntakeinoista. Työntekijälle on annettava tietoja työterveyshuollon työntekijälle suorittamista terveystarkastuksista, niiden tarkoituksesta, tuloksista ja tulkinnoista sekä muusta työterveyshuollon sisällöstä. Työnantajalla, työpaikan työsuojelutoimikunnalla ja työsuojeluvaltuutetulla on oikeus saada työterveyshuoltotehtävissä toimivilta henkilöiltä sellaisia näiden asemansa perusteella saamia tietoja, joilla on merkitystä työntekijöiden terveyden sekä työpaikan olosuhteiden terveellisyyden kehittämisen kannalta.",
+      "section_number": "17",
+      "chapter_number": 4,
+      "statute_id": "299/1958"
+    },
+    {
+      "id": "24792669-8073-4131-92fa-379acc84bb92",
+      "node_type": "Section",
+      "publisher": "finlex",
+      "title": "18 § Salassa pidettävien tietojen luovuttaminen",
+      "text": "Salassa pidettäväksi säädettyjä tietoja ei saa ilmaista, jollei se, jonka hyväksi salassapitovelvollisuus on säädetty, anna siihen suostumustaan siten kuin erikseen säädetään. Työterveydenhuollon palvelujen tuottajan palveluksessa oleva työterveyslääkäri saa sen estämättä, mitä potilasasiakirjojen salassapidosta potilaan asemasta ja oikeuksista annetussa laissa säädetään, antaa:",
+      "section_number": "18",
+      "chapter_number": 4,
+      "statute_id": "299/1958"
+    },
+    {
+      "id": "02e351fa-2c18-4267-b6bf-b83ddaf82e34",
+      "node_type": "Section",
+      "publisher": "finlex",
+      "title": "19 § Työnantajalle toimitettu lääkärinlausunto",
+      "text": "Työnantaja saa yksityisyyden suojasta työelämässä annetun lain (477/2001) 8 §:n 2 momentin estämättä luovuttaa työterveyshuollon palvelujen tuottajalle tässä laissa säädettyjen työterveyshuollon tehtävien toteuttamista varten työntekijän työnantajalle luovuttaman työkykyään koskevan lääkärintodistuksen tai -lausunnon, jollei työntekijä ole kieltänyt luovuttamista.",
+      "section_number": "19",
+      "chapter_number": 4,
+      "statute_id": "299/1958"
+    },
+    {
+      "id": "d75135a8-8920-4d87-b2d5-33774df48d8e",
+      "node_type": "Section",
+      "publisher": "finlex",
+      "title": "20 § Viranomaisten tiedonsaantioikeus",
+      "text": "Sosiaali- ja terveysministeriöllä ja sen määräämällä asiantuntijalaitoksella on oikeus saada tämän lain mukaisten tehtäviensä hoitamiseksi tarvittavia tietoja työterveyshuollon toteuttamisesta huolehtivilta terveydenhuollon toimintayksiköiltä ja terveydenhuollon ammattihenkilöiltä.",
+      "section_number": "20",
+      "chapter_number": 4,
+      "statute_id": "299/1958"
+    },
+    {
+      "id": "b676e26d-80ca-400b-b95c-b3825dacb978",
+      "node_type": "Section",
+      "publisher": "finlex",
+      "title": "21 § Työterveyshuollon asiakirjojen laatiminen ja säilyttäminen",
+      "text": "Työterveyshuollon potilasasiakirjojen laadinnasta ja säilyttämisajoista on voimassa, mitä potilaan asemasta ja oikeuksista annetussa laissa säädetään. Sosiaali- ja terveysministeriö voi antaa ohjeita työterveyshuollon asiakirjojen laatimisesta.",
+      "section_number": "21",
+      "chapter_number": 4,
+      "statute_id": "299/1958"
+    },
+    {
+      "id": "48dd75ef-46bb-4a1a-9f61-cd918bf0f5b9",
+      "node_type": "Section",
+      "publisher": "finlex",
+      "title": "22 § Työterveyshuollon neuvottelukunta",
+      "text": "Työterveyshuollon suunnittelua ja kehittämistä varten sosiaali- ja terveysministeriön yhteydessä toimii työterveyshuollon neuvottelukunta, jonka kokoonpanosta, tehtävistä ja toiminnasta säädetään tarkemmin valtioneuvoston asetuksella.",
+      "section_number": "22",
+      "chapter_number": 5,
+      "statute_id": "299/1958"
+    },
+    {
+      "id": "b90d0481-2b50-4f4a-98a1-0f14d5fe8200",
+      "node_type": "Section",
+      "publisher": "finlex",
+      "title": "23 § Rangaistukset",
+      "text": "Työnantaja tai tämän edustaja, joka tahallaan tai huolimattomuudesta jättää noudattamatta, mitä 8 §:n 2 momentissa säädetään yhteistoiminnasta, on tuomittavatyöterveyshuollon yhteistoimintavelvoitteen rikkomisestasakkoon. Työnantaja tai tämän edustaja, joka tahallaan tai huolimattomuudesta jättää noudattamatta mitä 4 §:n 1 momentissa säädetään työterveyspalvelujen järjestämisestä tai ei noudata työsuojeluviranomaisen järjestämisvelvollisuuden sisällöstä antamaa päätöstä, on tuomittavatyöterveyspalvelujen laiminlyömisestäsakkoon. Rangaistus työturvallisuusmääräysten rikkomisesta sekä työturvallisuusmääräysten vastaisen puutteellisuuden tai epäkohdan aiheuttamisesta ja työturvallisuusmääräysten vastaisen tilan jatkumisen mahdollistamisesta säädetään rikoslain (39/1889) 47 luvun 1 §:ssä. Ennen kuin virallinen syyttäjä nostaa syytteen tämän lain tai sen nojalla annettujen säännösten rikkomisesta, on hänen, jollei työsuojeluviranomainen ole ilmoittanut rikkomusta syytteeseen pantavaksi, hankittava asiasta lausunto sanotulta viranomaiselta. Virallisen syyttäjän tulee hyvissä ajoin, ennen kuin syyteasia otetaan tuomioistuimessa käsiteltäväksi, ilmoittaa siitä asianomaiselle työsuojeluviranomaiselle.",
+      "section_number": "23",
+      "chapter_number": 5,
+      "statute_id": "299/1958"
+    },
+    {
+      "id": "ee539f2f-a0fe-4699-8d7c-672f9f888b13",
+      "node_type": "Section",
+      "publisher": "finlex",
+      "title": "24 § Valvonta",
+      "text": "Tämän lain ja sen nojalla annettujen säännösten mukaan työnantajan järjestettäväksi kuuluvan työterveyshuollon toteuttamisesta huolehtivien terveyskeskusten, työterveyshuoltopalveluja tuottavien yksiköiden ja terveydenhuollon ammattihenkilöiden toiminnan sekä työterveyshuoltopalvelujen sisällön lääketieteellinen valvonta kuuluu sosiaali- ja terveysministeriölle ja lääninhallitukselle siten kuin siitä erikseen säädetään. Työsuojeluviranomaisten on, sen mukaan kuin työsuojelun valvonnasta ja muutoksenhausta työsuojeluasioissa annetussa laissa on säädetty, valvottava, että työnantaja on järjestänyt tässä laissa tai sen nojalla annetuissa säädöksissä tarkoitetun työterveyshuollon. Jos työnantaja on laiminlyönyt tämän lain tai sen nojalla annettujen säännösten mukaan työnantajan velvollisuudeksi säädettyjen työterveyshuoltopalvelujen järjestämisen ja syntyy erimielisyyttä järjestämisvelvollisuuden sisällöstä, on työsuojeluviranomaisen ennen työsuojelun valvonnasta ja muutoksenhausta työsuojeluasioissa annetussa laissa tarkoitetun työnantajaa velvoittavan päätöksen tekemistä pyydettävä lausunto sosiaali- ja terveysministeriöltä tai sen määräämältä laitokselta tai viranomaiselta. Edellä 14 §:ssä tarkoitetun toiminnan valvonnasta säädetään erikseen.",
+      "section_number": "24",
+      "chapter_number": 5,
+      "statute_id": "299/1958"
+    },
+    {
+      "id": "3d0f25e1-a4bc-4bba-9a7e-5575c6cb4005",
+      "node_type": "Section",
+      "publisher": "finlex",
+      "title": "25 § Työterveyshuoltoa koskevien säädösten ja sopimusten tai kuvausten nähtävänäpito",
+      "text": "Työnantajan on pidettävä tämä laki ja sen nojalla annetut säädökset, työnantajan ja työterveyshuoltopalvelujen tuottajan välinen työterveyshuollon järjestämistä koskeva sopimus tai työnantajan laatima kuvaus itse järjestämästään työterveyshuollosta sekä 12 §:n 1 momentin 1 kohdassa tarkoitettu työpaikkaselvitys työntekijöiden nähtävinä työpaikalla.",
+      "section_number": "25",
+      "chapter_number": 5,
+      "statute_id": "299/1958"
+    },
+    {
+      "id": "0bcd6f2f-4a45-40e5-93f0-5eb9756e3930",
+      "node_type": "Section",
+      "publisher": "finlex",
+      "title": "26 § Voimaantulo",
+      "text": "Tämä laki tulee voimaan 1 päivänä tammikuuta 2002. Tällä lailla kumotaan 29 päivänä syyskuuta 1978 annettu työterveyshuoltolaki (743/1978) siihen myöhemmin tehtyine muutoksineen. Ne terveydenhuollon ammattihenkilöt ja asiantuntijat, jotka ovat tämän lain voimaantullessa päteviä toimimaan työterveyshuollossa, ovat tämän lain säännösten estämättä edelleen päteviä nykyisiin ja niitä vastaaviin työterveyshuollon tehtäviin.",
+      "section_number": "26",
+      "chapter_number": 5,
+      "statute_id": "299/1958"
+    }
+  ],
+  "clauses": [
+    {
+      "id": "3fa43ca7-caa2-4537-834a-baa506916a61",
+      "node_type": "Clause",
+      "publisher": "finlex",
+      "title": "§ 1 mom 1",
+      "text": "1) työhön liittyvien sairauksien ja tapaturmien ehkäisyä;",
+      "clause_number": 1,
+      "section_number": "1",
+      "statute_id": "299/1958"
+    },
+    {
+      "id": "7c446fc7-bdd0-4054-8b16-2d7966dc0634",
+      "node_type": "Clause",
+      "publisher": "finlex",
+      "title": "§ 1 mom 2",
+      "text": "2) työn ja työympäristön terveellisyyttä ja turvallisuutta;",
+      "clause_number": 2,
+      "section_number": "1",
+      "statute_id": "299/1958"
+    },
+    {
+      "id": "0589ed0f-dc2d-4053-acc7-c5b5c1325637",
+      "node_type": "Clause",
+      "publisher": "finlex",
+      "title": "§ 1 mom 3",
+      "text": "3) työntekijöiden terveyttä sekä työ- ja toimintakykyä työuran eri vaiheissa; sekä",
+      "clause_number": 3,
+      "section_number": "1",
+      "statute_id": "299/1958"
+    },
+    {
+      "id": "fe4d5ec3-1956-40ad-9791-cc2516b3f9fd",
+      "node_type": "Clause",
+      "publisher": "finlex",
+      "title": "§ 1 mom 4",
+      "text": "4) työyhteisön toimintaa.",
+      "clause_number": 4,
+      "section_number": "1",
+      "statute_id": "299/1958"
+    },
+    {
+      "id": "352f2be4-a542-45d5-aa97-791c5c43624b",
+      "node_type": "Clause",
+      "publisher": "finlex",
+      "title": "§ 7 mom 1",
+      "text": "1) hankkimalla tarvitsemansa palvelut kansanterveyslaissa (66/1972) tarkoitetulta terveyskeskukselta;",
+      "clause_number": 1,
+      "section_number": "7",
+      "statute_id": "299/1958"
+    },
+    {
+      "id": "c48b2507-393b-4ef5-8111-357548cca280",
+      "node_type": "Clause",
+      "publisher": "finlex",
+      "title": "§ 7 mom 2",
+      "text": "2) järjestämällä tarvitsemansa työterveyshuoltopalvelut itse tai yhdessä toisten työnantajien kanssa; tai",
+      "clause_number": 2,
+      "section_number": "7",
+      "statute_id": "299/1958"
+    },
+    {
+      "id": "5bc1a753-7826-4743-bbbd-5501cd9e096f",
+      "node_type": "Clause",
+      "publisher": "finlex",
+      "title": "§ 7 mom 3",
+      "text": "3) hankkimalla tarvitsemansa palvelut muulta työterveyshuoltopalvelujen tuottamiseen oikeutetulta toimintayksiköltä tai henkilöltä.",
+      "clause_number": 3,
+      "section_number": "7",
+      "statute_id": "299/1958"
+    },
+    {
+      "id": "07f9705c-8afc-4efd-9abc-26ec779b9b5d",
+      "node_type": "Clause",
+      "publisher": "finlex",
+      "title": "§ 12 mom 1",
+      "text": "1) työn ja työolosuhteiden terveellisyyden ja turvallisuuden selvittäminen ja arviointi toistuvin työpaikkakäynnein ja muita työterveyshuollon menetelmiä käyttäen ottaen huomioon työpaikan altisteet, työn kuormittavuus, työjärjestelyt sekä tapaturma- ja väkivaltavaara samoin kuin näiden tekijöiden huomioon ottaminen työtä, työmenetelmiä ja työtiloja suunniteltaessa sekä työolosuhteiden muutostilanteissa;",
+      "clause_number": 1,
+      "section_number": "12",
+      "statute_id": "299/1958"
+    },
+    {
+      "id": "335dbef3-d3ea-4c1a-8e33-8b4b6f7ee76f",
+      "node_type": "Clause",
+      "publisher": "finlex",
+      "title": "§ 12 mom 2",
+      "text": "2) työperäisten terveysvaarojen ja -haittojen, työntekijöiden terveydentilan sekä työ- ja toimintakyvyn selvittäminen, arviointi ja seuranta mukaan lukien työstä ja työympäristöstä aiheutuva erityinen sairastumisen vaara sekä edellä mainituista seikoista johtuvat terveystarkastukset ottaen huomioon työntekijän yksilölliset ominaisuudet;",
+      "clause_number": 2,
+      "section_number": "12",
+      "statute_id": "299/1958"
+    },
+    {
+      "id": "be2702fd-184c-458c-a5c5-27ec672f9a2f",
+      "node_type": "Clause",
+      "publisher": "finlex",
+      "title": "§ 12 mom 3",
+      "text": "3) toimenpide-ehdotusten tekeminen työn terveellisyyden ja turvallisuuden parantamiseksi, tarvittaessa työn sopeuttamiseksi työntekijän edellytyksiin, työntekijöiden työ- ja toimintakyvyn ylläpitämiseksi ja edistämiseksi sekä toimenpide-ehdotusten toteutumisen seuranta;",
+      "clause_number": 3,
+      "section_number": "12",
+      "statute_id": "299/1958"
+    },
+    {
+      "id": "6d0a2c5b-b136-4c39-a199-fa2c8fd7daa6",
+      "node_type": "Clause",
+      "publisher": "finlex",
+      "title": "§ 12 mom 4",
+      "text": "4) tietojen antaminen, neuvonta ja ohjaus työn terveellisyyttä ja turvallisuutta sekä työntekijöiden terveyttä koskevissa asioissa mukaan lukien työntekijän perustellusta syystä työkuormituksestaan pyytämä selvitys;",
+      "clause_number": 4,
+      "section_number": "12",
+      "statute_id": "299/1958"
+    },
+    {
+      "id": "94a50e66-83ad-41a2-bd51-4fb313711bd3",
+      "node_type": "Clause",
+      "publisher": "finlex",
+      "title": "§ 12 mom 5",
+      "text": "5) vajaakuntoisen työntekijän työssä selviytymisen seuranta ja edistäminen työntekijän terveydelliset edellytykset huomioon ottaen, kuntoutusta koskeva neuvonta ja hoitoon tai lääkinnälliseen tai ammatilliseen kuntoutukseen ohjaaminen;",
+      "clause_number": 5,
+      "section_number": "12",
+      "statute_id": "299/1958"
+    },
+    {
+      "id": "7cf87587-593c-485a-8d68-086071e7c16a",
+      "node_type": "Clause",
+      "publisher": "finlex",
+      "title": "§ 12 mom 6",
+      "text": "6) yhteistyö muun terveydenhuollon, työhallinnon, opetushallinnon, sosiaalivakuutuksen ja sosiaalihuollon sekä työsuojeluviranomaisen edustajien kanssa; tarvittaessa yhteisen työpaikan työnantajien työterveyshuollon palvelujentuottajien ja muiden tarvittavien tahojen kanssa;",
+      "clause_number": 6,
+      "section_number": "12",
+      "statute_id": "299/1958"
+    },
+    {
+      "id": "7293dbc2-ae9f-4bf4-a553-34105c32b8da",
+      "node_type": "Clause",
+      "publisher": "finlex",
+      "title": "§ 12 mom 7",
+      "text": "7) osallistuminen työturvallisuuslain 36 §:ssä tarkoitetun ensiavun järjestämiseen;",
+      "clause_number": 7,
+      "section_number": "12",
+      "statute_id": "299/1958"
+    },
+    {
+      "id": "2841b4ef-6abc-4584-83e0-286800c98187",
+      "node_type": "Clause",
+      "publisher": "finlex",
+      "title": "§ 12 mom 8",
+      "text": "8) omalta osaltaan suunnitella ja toteuttaa osana tässä laissa määriteltyjä työterveyshuollon tehtäviin kuuluviin työkykyä ylläpitäviä ja edistäviä toimenpiteitä, joihin sisältyy tarvittaessa kuntoutustarpeen selvittäminen; sekä",
+      "clause_number": 8,
+      "section_number": "12",
+      "statute_id": "299/1958"
+    },
+    {
+      "id": "b14426ee-599a-4fa4-8a37-9da7bc4fd854",
+      "node_type": "Clause",
+      "publisher": "finlex",
+      "title": "§ 12 mom 9",
+      "text": "9) työterveyshuollon toiminnan laadun ja vaikuttavuuden arviointi ja seuranta.",
+      "clause_number": 9,
+      "section_number": "12",
+      "statute_id": "299/1958"
+    },
+    {
+      "id": "775f0fd1-ccc7-488d-ba91-9173a0296511",
+      "node_type": "Clause",
+      "publisher": "finlex",
+      "title": "§ 13 mom 1",
+      "text": "1) hänen terveydentilansa selvittämiseksi erityistä sairastumisen vaaraa aiheuttavassa työssä tai työympäristössä; tai",
+      "clause_number": 1,
+      "section_number": "13",
+      "statute_id": "299/1958"
+    },
+    {
+      "id": "5d596a78-2c5f-4661-ab0d-ceb7f840394c",
+      "node_type": "Clause",
+      "publisher": "finlex",
+      "title": "§ 13 mom 2",
+      "text": "2) hänen työ- tai toimintakykynsä selvittämiseksi työstä aiheutuvien, terveydentilaan kohdistuvien vaatimusten vuoksi.",
+      "clause_number": 2,
+      "section_number": "13",
+      "statute_id": "299/1958"
+    },
+    {
+      "id": "97fa83d5-abab-4c9b-b019-f6509b0e81ba",
+      "node_type": "Clause",
+      "publisher": "finlex",
+      "title": "§ 18 mom 1",
+      "text": "1) työnantajalle erityistä sairastumisen vaaraa aiheuttavissa töissä kirjallisen lausunnon terveystarkastusten johtopäätöksistä sekä niiden perusteella aiheellisista työsuojelutoimista, siltä osin kuin ne liittyvät työsuojeluun ja työterveyshuoltoon;",
+      "clause_number": 1,
+      "section_number": "18",
+      "statute_id": "299/1958"
+    },
+    {
+      "id": "e26896f9-1d16-4369-a69f-6fcb9586cc5a",
+      "node_type": "Clause",
+      "publisher": "finlex",
+      "title": "§ 18 mom 2",
+      "text": "2) työsuojeluviranomaiselle ja työsuojeluvalvonnasta ja muutoksenhausta työsuojeluasioissa annetun lain 1 §:n 2 momentissa tarkoitetulle asiantuntijalle työsuojelun valvontaa varten edellä 1 kohdassa tarkoitetun lausunnon; sekä",
+      "clause_number": 2,
+      "section_number": "18",
+      "statute_id": "299/1958"
+    },
+    {
+      "id": "edea710b-2b4e-475f-87b0-35f819e94792",
+      "node_type": "Clause",
+      "publisher": "finlex",
+      "title": "§ 18 mom 2",
+      "text": "2) työsuojeluviranomaiselle ja työsuojeluvalvonnasta ja muutoksenhausta työsuojeluasioissa annetun lain 1 §:n 2 momentissa tarkoitetulle asiantuntijalle työsuojelun valvontaa varten edellä 1 kohdassa tarkoitetun lausunnon; sekä",
+      "clause_number": 2,
+      "section_number": "18",
+      "statute_id": "299/1958"
+    },
+    {
+      "id": "2d6b6a7a-adf5-42c1-bf7d-15e1d79b705f",
+      "node_type": "Clause",
+      "publisher": "finlex",
+      "title": "§ 18 mom 3",
+      "text": "3) työterveyshuollon palvelujen tuottajalle terveydellisen vaaran seurantaa varten tämän pyynnöstä tiedot sellaisen potilaana olleen työntekijän terveystarkastuksista, joka on työskennellyt erityisen sairastumisen vaaraa aiheuttavassa työssä ja joka on siirtynyt vastaavalla tavalla vaaralliseen työhön sen työnantajan palvelukseen, jonka työterveydenhuollosta tietoa pyytävä työterveyshuollon palvelujen tuottaja vastaa.",
+      "clause_number": 3,
+      "section_number": "18",
+      "statute_id": "299/1958"
+    }
+  ],
+  "cross_references": [],
+  "raw_html_path": "C:\\Users\\danit\\finance-hack\\aalto-hackaton-2026\\data\\raw\\finlex\\Laki (säädöskokoelma)\\Työterveyshuoltolaki_1.html"
+}

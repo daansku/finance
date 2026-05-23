@@ -1,0 +1,78 @@
+{
+  "statute": {
+    "id": "6930114c-42a5-431f-937e-5e6f8cd9e3fd",
+    "node_type": "Statute",
+    "publisher": "finlex",
+    "title": "Laki rahankeräyslain muuttamisesta",
+    "text": "Laki rahankeräyslain muuttamisesta",
+    "statute_id": "863/2019",
+    "finlex_url": "https://finlex.fi/fi/laki/ajantasa/863/2019"
+  },
+  "chapters": [],
+  "sections": [
+    {
+      "id": "e472f115-2faf-411b-b565-033fada78e66",
+      "node_type": "Section",
+      "publisher": "finlex",
+      "title": "1 § Soveltamisala",
+      "text": "Tätä lakia sovelletaan myös sellaisiin rahankeräyksiin, joiden tarkoituksena on 2 §:n 9 kohdassa tarkoitetun kryptovaran kerääminen.",
+      "section_number": "1",
+      "chapter_number": 1,
+      "statute_id": "863/2019"
+    },
+    {
+      "id": "8c38b22c-022e-4b25-949c-0347b8cdd742",
+      "node_type": "Section",
+      "publisher": "finlex",
+      "title": "2 § Määritelmät",
+      "text": "Tässä laissa tarkoitetaan:",
+      "section_number": "2",
+      "chapter_number": 1,
+      "statute_id": "863/2019"
+    },
+    {
+      "id": "3c988982-1f5b-419e-a327-d740ed895cd5",
+      "node_type": "Section",
+      "publisher": "finlex",
+      "title": "7 § Kielletyt järjestämistavat",
+      "text": "Kiellettyä on lisäksi kerätä rahaa ja kryptovaroja:",
+      "section_number": "7",
+      "chapter_number": 1,
+      "statute_id": "863/2019"
+    },
+    {
+      "id": "26ad6e4a-11f8-46ad-b03c-dee90aaf6f19",
+      "node_type": "Section",
+      "publisher": "finlex",
+      "title": "26 § Rahankeräystili",
+      "text": "Jos rahankeräyksen järjestäjä on vastaanottanut kryptovaroja osana rahankeräystä, on rahankeräyksen järjestäjän vaihdettava vastaanotetut kryptovarat rahaksi kryptovarapalvelun välityksellä ja talletettava varat rahankeräystilille ennen vuosi-ilmoituksen, lopputilityksen, pienkeräystilityksen tai vaalikeräystilityksen tekemistä. Tämä laki tulee voimaan 30 päivänä kesäkuuta 2024.",
+      "section_number": "26",
+      "chapter_number": 1,
+      "statute_id": "863/2019"
+    }
+  ],
+  "clauses": [
+    {
+      "id": "ea46413f-497d-4151-850c-73398e8e4806",
+      "node_type": "Clause",
+      "publisher": "finlex",
+      "title": "§ 7 mom 1",
+      "text": "1) ketjukirjeen avulla siten, että toimintaan osallistuvalle luvataan taloudellinen etu sitä vastaan, että hän lähettää ketjukirjeen edelleen tai ketjukirjeeseen rinnastettavalla tavalla siten että sähköisessä tai muussa muodossa lähetetyssä viestissä kehotetaan lähettämään rahaa tai kryptovaroja aiemmin toimintaan liittyneille; tai",
+      "clause_number": 1,
+      "section_number": "7",
+      "statute_id": "863/2019"
+    },
+    {
+      "id": "d482f940-3608-4e90-9e05-6056d7c9fca9",
+      "node_type": "Clause",
+      "publisher": "finlex",
+      "title": "§ 7 mom 2",
+      "text": "2) pyramidipelin muodossa siten, että toimintaan liittyvän henkilön ansainta- tai voittomahdollisuudet osaksi tai kokonaan muodostuvat vastikkeetta niistä maksuista, joita toimintaan myöhemmin mukaan liittyvät maksavat osallistumismaksuina tai muina kerta- tai toistuvaissuorituksina.",
+      "clause_number": 2,
+      "section_number": "7",
+      "statute_id": "863/2019"
+    }
+  ],
+  "cross_references": [],
+  "raw_html_path": "C:\\Users\\danit\\finance-hack\\aalto-hackaton-2026\\data\\raw\\finlex\\Laki\\Laki rahankeräyslain muuttamisesta.html"
+}

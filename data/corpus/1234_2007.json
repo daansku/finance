@@ -1,0 +1,1705 @@
+{
+  "statute": {
+    "id": "1ded9b9c-0c1d-41ff-8def-c308b4912e38",
+    "node_type": "Statute",
+    "publisher": "finlex",
+    "title": "Laki maataloustuotteiden markkinajärjestelystä",
+    "text": "Laki maataloustuotteiden markkinajärjestelystä",
+    "statute_id": "1234/2007",
+    "finlex_url": "https://finlex.fi/fi/laki/ajantasa/1234/2007"
+  },
+  "chapters": [
+    {
+      "id": "6d8523a6-b1ac-446c-951f-02adf7cf4f2c",
+      "node_type": "Chapter",
+      "publisher": "finlex",
+      "title": "Chapter 1",
+      "text": "1 luku Yleiset säännökset",
+      "chapter_number": 1,
+      "statute_id": "1234/2007"
+    },
+    {
+      "id": "5b44530d-dc7e-4eaf-95ad-f25e9777f22b",
+      "node_type": "Chapter",
+      "publisher": "finlex",
+      "title": "Chapter 2",
+      "text": "2 luku Interventiovarastointi",
+      "chapter_number": 2,
+      "statute_id": "1234/2007"
+    },
+    {
+      "id": "4341469f-5f46-4b09-943a-29862d64b714",
+      "node_type": "Chapter",
+      "publisher": "finlex",
+      "title": "Chapter 3",
+      "text": "3 luku Tuonti EU:n ulkopuolelta ja vienti EU:n ulkopuolelle",
+      "chapter_number": 3,
+      "statute_id": "1234/2007"
+    },
+    {
+      "id": "ed1df858-5b2b-4a5f-b182-493fd3576d9f",
+      "node_type": "Chapter",
+      "publisher": "finlex",
+      "title": "Chapter 4",
+      "text": "4 luku Tukijärjestelmät",
+      "chapter_number": 4,
+      "statute_id": "1234/2007"
+    },
+    {
+      "id": "3268566b-9ad7-48e1-b046-5da7ada66d61",
+      "node_type": "Chapter",
+      "publisher": "finlex",
+      "title": "Chapter 5",
+      "text": "5 luku Ruhonluokitus",
+      "chapter_number": 5,
+      "statute_id": "1234/2007"
+    },
+    {
+      "id": "2189d118-a1fe-43fd-8e91-79830c28f167",
+      "node_type": "Chapter",
+      "publisher": "finlex",
+      "title": "Chapter 6",
+      "text": "6 luku Hintaselvitykset",
+      "chapter_number": 6,
+      "statute_id": "1234/2007"
+    },
+    {
+      "id": "84f87d8c-89ec-4670-a028-53d50fe9fc30",
+      "node_type": "Chapter",
+      "publisher": "finlex",
+      "title": "Chapter 7",
+      "text": "7 luku Sokerin tuotantoa koskevat vaatimukset",
+      "chapter_number": 7,
+      "statute_id": "1234/2007"
+    },
+    {
+      "id": "8974ce53-25e4-455d-8341-0e02b6865715",
+      "node_type": "Chapter",
+      "publisher": "finlex",
+      "title": "Chapter 8",
+      "text": "8 luku Vakuudet",
+      "chapter_number": 8,
+      "statute_id": "1234/2007"
+    },
+    {
+      "id": "8b52f34e-f653-4fc7-8350-1ae65ceda608",
+      "node_type": "Chapter",
+      "publisher": "finlex",
+      "title": "Chapter 9",
+      "text": "9 luku Tarkastukset",
+      "chapter_number": 9,
+      "statute_id": "1234/2007"
+    },
+    {
+      "id": "2f5079be-59d1-412f-aeed-6d8fd74175d4",
+      "node_type": "Chapter",
+      "publisher": "finlex",
+      "title": "Chapter 10",
+      "text": "10 luku Hakemista, ilmoittamista, päätöksiä, maksamista, takaisinperintää ja seuraamusmaksuja koskevat yleiset säännökset",
+      "chapter_number": 10,
+      "statute_id": "1234/2007"
+    },
+    {
+      "id": "8c975e1d-6038-40d9-8845-2f7b5995c6ec",
+      "node_type": "Chapter",
+      "publisher": "finlex",
+      "title": "Chapter 11",
+      "text": "11 luku Hyväksyttyjä toimijoita koskevat yhteiset säännökset",
+      "chapter_number": 11,
+      "statute_id": "1234/2007"
+    },
+    {
+      "id": "0956ca0e-a09e-4207-ba83-eee0cdebcac6",
+      "node_type": "Chapter",
+      "publisher": "finlex",
+      "title": "Chapter 12",
+      "text": "12 luku Hallinnolliset pakkokeinot ja rangaistussäännökset",
+      "chapter_number": 12,
+      "statute_id": "1234/2007"
+    },
+    {
+      "id": "6902a45b-0e0a-44db-bba6-abf48b3f2b08",
+      "node_type": "Chapter",
+      "publisher": "finlex",
+      "title": "Chapter 13",
+      "text": "13 luku Erinäiset säännökset",
+      "chapter_number": 13,
+      "statute_id": "1234/2007"
+    },
+    {
+      "id": "5156db4b-bb4d-4a52-8d50-40ffe52f18d7",
+      "node_type": "Chapter",
+      "publisher": "finlex",
+      "title": "Chapter 14",
+      "text": "14 luku Voimaantulo",
+      "chapter_number": 14,
+      "statute_id": "1234/2007"
+    }
+  ],
+  "sections": [
+    {
+      "id": "84262bc5-5f18-4d0e-8812-5bee0450f947",
+      "node_type": "Section",
+      "publisher": "finlex",
+      "title": "1 § Soveltamisala",
+      "text": "Tässä laissa säädetään maatalouden yhteisestä markkinajärjestelystä ja tiettyjä maataloustuotteita koskevista erityissäännöksistä (yhteisiä markkinajärjestelyjä koskeva asetus) annetun neuvoston asetuksen (EY) N:o 1234/2007, jäljempänämarkkinajärjestelyasetus, ja sen nojalla annetun Euroopan unionin (EU) lainsäädännön täytäntöönpanosta.",
+      "section_number": "1",
+      "chapter_number": 1,
+      "statute_id": "1234/2007"
+    },
+    {
+      "id": "4c982658-7a59-4e06-bf87-edc14dd8b0f1",
+      "node_type": "Section",
+      "publisher": "finlex",
+      "title": "2 § Suhde muuhun lainsäädäntöön",
+      "text": "Sen lisäksi, mitä tässä laissa säädetään:",
+      "section_number": "2",
+      "chapter_number": 1,
+      "statute_id": "1234/2007"
+    },
+    {
+      "id": "a592a348-b291-4cdc-87fd-887db9da1cd3",
+      "node_type": "Section",
+      "publisher": "finlex",
+      "title": "3 § Määritelmät",
+      "text": "Tässä laissa tarkoitetaan:",
+      "section_number": "3",
+      "chapter_number": 1,
+      "statute_id": "1234/2007"
+    },
+    {
+      "id": "372c7682-6828-4827-b743-de53c0dcfde3",
+      "node_type": "Section",
+      "publisher": "finlex",
+      "title": "4 § Maaseutuviraston yleistoimivalta ja EU:n lainsäädännössä tarkoitettu toimivaltainen viranomainen",
+      "text": "Maaseutuvirasto on toimivaltainen kansallinen viranomainen EU:n yhteisen maatalouspolitiikan markkinajärjestelyn täytäntöönpanossa ja vastaa markkinajärjestelyyn liittyvien kansalliselle viranomaiselle kuuluvien toimenpiteiden täytäntöönpanosta ja täytäntöönpanon edellyttämistä päätöksistä, jollei jäljempänä tässä laissa toisin säädetä. Maa- ja metsätalousministeriö toimii maksajavirastoasetuksen 1 artiklan 2 kohdassa tarkoitettuna toimivaltaisena viranomaisena. Maaseutuvirasto toimii rahoitusasetuksen 6 artiklassa tarkoitettuna maksajavirastona.",
+      "section_number": "4",
+      "chapter_number": 1,
+      "statute_id": "1234/2007"
+    },
+    {
+      "id": "b92fc20c-d3b0-44d9-a909-03e81113d5b6",
+      "node_type": "Section",
+      "publisher": "finlex",
+      "title": "5 § Interventiovarastojen valinta",
+      "text": "Maaseutuviraston on markkinajärjestelyasetuksessa tarkoitetussa julkisessa interventiossa (interventiovarastointi) käytettävien varastojen (interventiovarasto) ja varastointiin liittyvien palvelujen hankinnan yhteydessä varmistettava, että:",
+      "section_number": "5",
+      "chapter_number": 2,
+      "statute_id": "1234/2007"
+    },
+    {
+      "id": "19397a1f-3ab9-4c23-befc-4b399a7befeb",
+      "node_type": "Section",
+      "publisher": "finlex",
+      "title": "6 § Viljatuotteiden tarjoajan valtuutus",
+      "text": "EU:n interventiolainsäädännössä tarkoitettu viljatuotteiden tarjoamiseen kelpoinen toimija voi valtuuttaa toisen tarjoamiseen kelpoisen toimijan tarjoamaan puolestaan. Valtuutetun tarjouksen tekijän on esitettävä Maaseutuvirastolle tarjouksen yhteydessä valtuutusta koskeva selvitys. Selvityksessä on oltava valtuuttajaa koskevat tiedot ja tämän suostumus valtuutuksen kohteena olevien tuotteiden tarkastukseen tuotteiden varastointiin käytettävissä tiloissa ennen interventiovarastoon toimitusta. Maaseutuvirasto voi antaa tarkempia määräyksiä valtuutuksesta esitettävistä tiedoista.",
+      "section_number": "6",
+      "chapter_number": 2,
+      "statute_id": "1234/2007"
+    },
+    {
+      "id": "5bf06d12-b7a3-4118-b8d0-0e3e5020faf5",
+      "node_type": "Section",
+      "publisher": "finlex",
+      "title": "7 § Tuotteiden toimittaminen interventiovarastoon ja sieltä poistaminen",
+      "text": "Interventiovarastoon tuotteita myyvän toimijan (interventiomyyjä) on toimitettava tuotteet interventiovarastoon ja interventiovarastosta tuotteita ostavan toimijan (interventio-ostaja) poistettava ne sieltä siten, että tuotteiden laatu ja määrä voidaan tarkastaa. Interventiomyyjän on toimitettava ja merkittävä pakatut tuotteet siten, että ne ovat helposti käsiteltävissä ja tunnistettavissa. Tuotteiden toimittamis- ja poistamistapaa sekä merkintöjä koskevista vaatimuksista voidaan antaa tarkempia säännöksiä maa- ja metsätalousministeriön asetuksella EU:n lainsäädännössä säädetyissä rajoissa. Interventiomyyjä ja interventio-ostaja voivat toimittaa tuotteita interventiovarastoon tai poistaa niitä sieltä ainoastaan silloin, kun interventiovarastonpitäjä voi vastaanottaa tai poistaa niitä ja tuotteiden tarkastuksesta tämän lain mukaisesti vastaava viranomainen tarkastaa kyseisiä tuotteita.",
+      "section_number": "7",
+      "chapter_number": 2,
+      "statute_id": "1234/2007"
+    },
+    {
+      "id": "4cd576e1-f483-47ea-a8b6-1132adf36479",
+      "node_type": "Section",
+      "publisher": "finlex",
+      "title": "8 § Interventiovarastointiin liittyvien tuotteiden maksaminen ja kustannusten korvaaminen",
+      "text": "Viljatuotteiden interventiomyyjän oikeudesta tarjota tuotteet otettavaksi interventiovaraston haltuun niiden varastointipaikassa ilman kuljetusta sekä viranomaisen velvollisuudesta tässä tapauksessa vähentää tuotteiden hinnasta tuotteiden kuljetusta ja varastosta poistoa koskevat kustannukset säädetään EU:n interventiolainsäädännössä. Kustannusten vähentämisestä päättää Maaseutuvirasto. Vähennettäviä kustannuksia ovat yleistä hintatasoa vastaavat kohtuulliset kuljetusta ja varastosta poistoa koskevat kustannukset. Vähennettävistä kustannuksista annetaan tarkempia säännöksiä valtioneuvoston asetuksella. Interventiovarastoon toimitettavien tuotteiden hinnan ja kuljetuskustannusten korvaamisen perusteista säädetään muilta kuin 1 momentissa tarkoitetuilta osin EU:n interventiolainsäädännössä. Interventiomyyjän on esitettävä Maaseutuvirastolle tuotteiden hinnan ja kuljetuskustannusten korvaamisen määrittämisessä tarpeelliset tiedot. Maaseutuvirasto voi antaa tarkempia määräyksiä korvausten hakemisen yhteydessä esitettävistä tiedoista. Jos viljatuotteiden luovuttamisen yhteydessä tehtävässä tarkastuksessa luovutettujen tuotteiden määrä todetaan interventio-ostajan ja Maaseutuviraston välillä sovittua määrää pienemmäksi eikä puuttuvaa määrää ole mahdollista luovuttaa, Maaseutuvirasto palauttaa interventio-ostajalle puuttuvaa tuotemäärää vastaavan osuuden hinnasta. Jos luovutettu määrä todetaan sovittua suuremmaksi, interventio-ostajan on maksettava liikaa luovutettua määrää vastaava hinta Maaseutuvirastolle.",
+      "section_number": "8",
+      "chapter_number": 2,
+      "statute_id": "1234/2007"
+    },
+    {
+      "id": "7e7a7083-e08a-45c4-bef6-be7f85ffe20b",
+      "node_type": "Section",
+      "publisher": "finlex",
+      "title": "9 § Varastoitavien tuotteiden valmistusta koskevat vaatimukset",
+      "text": "Interventiovarastoon toimitettavaa voita tai maitojauhetta valmistavan laitoksen velvollisuudesta hakea hyväksymistä ja hyväksymisen edellytyksistä säädetään EU:n interventiolainsäädännössä. Maaseutuvirasto myöntää hyväksymisen hakemuksesta hyväksymisedellytykset täyttävälle laitokselle (hyväksytty varastoitavien tuotteiden valmistaja). Hyväksyminen on voimassa toistaiseksi. Hyväksymisen peruuttamisen ja peruutetun hyväksymisen uudelleen voimaansaattamisen edellytyksistä säädetään EU:n interventiolainsäädännössä. Hyväksytyn varastoitavien tuotteiden valmistajan velvollisuudesta ilmoittaa ennakolta viranomaiselle kyseisten tuotteiden tuotannon aloittamisesta, ilmoituksen määräajasta ja muista hyväksyttyä varastoitavien tuotteiden valmistajaa koskevista vaatimuksista säädetään EU:n interventiolainsäädännössä. Maaseutuvirasto voi antaa EU:n interventiolainsäädännössä säädetyissä rajoissa määräyksiä kyseisessä lainsäädännössä tarkoitettua määräaikaa myöhäisemmästä määräajasta, jos tämä ei vaaranna tuotannon valvonnan järjestämistä.",
+      "section_number": "9",
+      "chapter_number": 2,
+      "statute_id": "1234/2007"
+    },
+    {
+      "id": "59e86f93-73a4-4552-9090-91119335ac27",
+      "node_type": "Section",
+      "publisher": "finlex",
+      "title": "10 § Tuonti- ja vientitodistukset",
+      "text": "Tuojan velvollisuudesta esittää tuontitodistus tuotaessa EU:n ulkopuolelta maataloustuotteita ja viejän velvollisuudesta esittää vientitodistus vietäessä maataloustuotteita EU:n ulkopuolelle sekä todistuksissa esitettävistä tiedoista ja todistusten käytöstä säädetään EU:n tuonti- ja vientitodistuslainsäädännössä. Maaseutuvirasto voi antaa EU:n tuonti- ja vientitodistuslainsäädännössä sallittuja tai edellytettyjä tarkempia määräyksiä todistuksissa esitettäviä tietoja ja todistusten käyttöä koskevista tuotteiden seurannan varmistamiseksi tarpeellisista vähäisistä täydennyksistä ja sellaisista vähäisistä poikkeuksista, jotka eivät vaaranna tuotteiden seurantaa eivätkä tuotteiden tuontia ja vientiä valvovien viranomaisten riittävää tiedonsaantia.",
+      "section_number": "10",
+      "chapter_number": 3,
+      "statute_id": "1234/2007"
+    },
+    {
+      "id": "73de11fa-641d-45fc-ad6a-59b6a1d05c54",
+      "node_type": "Section",
+      "publisher": "finlex",
+      "title": "11 § Hamppualan tuotteiden tuonnissa edellytettävä todistus",
+      "text": "EU:n hampputuotteiden tuontilainsäädännössä säädetään hamppualan tuotteista, joiden tuonti EU:n ulkopuolelta edellyttää todistusta, sekä todistusta koskevassa hakemuksessa esitettävistä tiedoista ja todistuksen myöntämisen edellytyksistä. Todistuksen myöntämisestä päättää hakemuksesta Maaseutuvirasto. Tuojan on esitettävä todistus tuonnin yhteydessä tullitoimipaikalle, joka tekee tuotteiden tuontimenettelyyn asettamisen yhteydessä todistukseen tuotavaa erää vastaavan merkinnän.",
+      "section_number": "11",
+      "chapter_number": 3,
+      "statute_id": "1234/2007"
+    },
+    {
+      "id": "a881391a-891b-497d-a42f-f3313b468975",
+      "node_type": "Section",
+      "publisher": "finlex",
+      "title": "12 § Eräiden hampun siementen tuonnin erityiset vaatimukset",
+      "text": "EU:n hampputuotteiden tuontilainsäädännössä säädetään muista kuin kylvettäväksi tarkoitetuista hampun siemenistä (hampun siemenet), joiden tuonti edellyttää 11 §:ssä tarkoitetun todistuksen lisäksi, että tuoja on tähän tarkoitukseen hyväksytty (hyväksytty hampun siementen tuoja). Maaseutuvirasto päättää hakemuksesta hyväksymisestä. Hyväksymisen edellytyksenä on, että tuoja antaa sitoumuksen noudattaa EU:n hampputuotteiden tuontilainsäädännössä ja tässä laissa tarkoitettuja hampun siementen tuontia koskevia vaatimuksia. Hyväksyminen on voimassa toistaiseksi. EU:n hampputuotteiden tuontilainsäädännössä säädetään: Hyväksytyn hampun siementen tuojan on esitettävä Maaseutuvirastolle kuuden kuukauden kuluessa 2 momentin 2 kohdassa tarkoitetun hampun siementen käyttöä koskevan määräajan päättymisestä asiakirjat, jotka osoittavat hampun siementen käyttötavan. Maaseutuvirasto voi antaa tarkempia määräyksiä esitettävistä asiakirjoista.",
+      "section_number": "12",
+      "chapter_number": 3,
+      "statute_id": "1234/2007"
+    },
+    {
+      "id": "66a95328-dd47-42d7-8ffc-89124b07fe85",
+      "node_type": "Section",
+      "publisher": "finlex",
+      "title": "13 § Vientituen hakemista koskeva ennakkoilmoitus ja vientitukituotteiden asettaminen esille",
+      "text": "Vientituen hakijan velvollisuudesta esittää toimivaltaiselle tullitoimipaikalle vientituen kohteena olevien tuotteiden (vientitukituote) lastaamista ja vientituen hakemista koskeva ennakkoilmoitus ja sen määräajasta säädetään vientitukiasetuksessa. Tullihallitus voi antaa vientitukiasetuksessa sallittuja määräyksiä siinä säädettyä määräaikaa myöhäisemmästä määräajasta. Ennakkoilmoituksessa on esitettävä vientitukituotteita, lastauspaikkaa, lastausaikaa ja kuljetusvälinettä koskevat tiedot. Tullihallitus antaa tarkempia määräyksiä ennakkoilmoituksessa esitettävistä tiedoista EU:n lainsäädännössä säädetyissä rajoissa. Vientituen hakijan on asetettava vientitukituotteet esille muista tuotteista erottuvalla tavalla siten, että tuotteet ja niiden kuljetus voidaan tunnistaa ja tuotteet tarkastaa välittömästi ennen ennakkoilmoituksessa esitettyä lastauksen alkamisajankohtaa. Tullihallitus voi antaa tarkempia määräyksiä tuotteiden esille asettamisen tavasta EU:n lainsäädännössä säädetyissä rajoissa.",
+      "section_number": "13",
+      "chapter_number": 4,
+      "statute_id": "1234/2007"
+    },
+    {
+      "id": "8da8c83e-fe23-42a2-89bc-8035953c804b",
+      "node_type": "Section",
+      "publisher": "finlex",
+      "title": "14 § Vientitukituotteita koskeva vienti-ilmoitus ja vientitukihakemus",
+      "text": "Vientituen hakijan velvollisuudesta esittää toimivaltaiselle tulliviranomaiselle vientitukituotteita koskeva vienti-ilmoitus säädetään vientitukiasetuksessa. Vientituen hakijan on esitettävä vienti-ilmoituksessa tuen laskemisessa tarvittavat tiedot. Maaseutuvirasto antaa tarkempia määräyksiä vienti-ilmoituksessa esitettävistä tuen laskemisessa tarvittavista tiedoista EU:n lainsäädännössä säädetyissä rajoissa. Muista vienti-ilmoituksessa esitettävistä tiedoista säädetään soveltamisasetuksen 216 artiklassa. Vienti-ilmoitusta, jossa viejä ilmoittaa hakevansa vientitukea ja josta ilmenee 1 momentissa tarkoitetut tiedot, pidetään vientitukea koskevana tukihakemuksena. Tukihakemus on esitettävä toimivaltaiselle tullitoimipaikalle siten, että tullitoimipaikalla on ennen ennakkoilmoituksessa ilmoitettua lastausajankohtaa riittävästi aikaa hakemuksen käsittelyyn ja tuotteiden tarkastamisen tarpeellisuuden arviointiin. Tullihallitus voi antaa tarkempia määräyksiä hakemuksen määräajasta. Tukihakemusta ei saa peruuttaa, jos aikaa ennen ilmoitettua lastausaikaa on vähemmän kuin kaksi tuntia. Tullitoimipaikka voi kuitenkin hyväksyä myöhemminkin tehdyn peruutuksen, jos se johtuu tuotteiden kuljetukseen varatun ajoneuvon rikkoontumisesta matkalla lastauspaikalle tai myöhästymisestä rajanylityksessä tai muusta vastaavasta poikkeuksellisesta syystä.",
+      "section_number": "14",
+      "chapter_number": 4,
+      "statute_id": "1234/2007"
+    },
+    {
+      "id": "e245937f-3641-4176-a907-0aee40f88ddb",
+      "node_type": "Section",
+      "publisher": "finlex",
+      "title": "15 § Tarkastuslaitoksen hyväksyminen ja toiminta",
+      "text": "Vientitukiasetuksessa säädetään vientituen hakijan oikeudesta käyttää vientituen myöntämisen edellytyksenä olevien vientitukituotteiden tullimuodollisuuksien täyttymistä, kuljetusta koskevien vaatimusten noudattamista ja tuotteiden purkamista osoittavien tietojen varmistamisessa tähän tarkoitukseen hyväksyttyä tarkastukseen ja valvontaan erikoistunutta laitosta (hyväksytty tarkastuslaitos). Hyväksymisen edellytyksistä ja hyväksymisen määräajasta sekä hyväksymisen keskeyttämisen ja peruuttamisen edellytyksistä säädetään vientitukiasetuksessa. Maaseutuvirasto päättää hakemuksesta tarkastuslaitoksen hyväksymisestä. Hyväksytyn tarkastuslaitoksen toimintaa koskevista vaatimuksista säädetään vientitukiasetuksessa ja eläinkuljetusten vientitukiasetuksessa. Hyväksytyn tarkastuslaitoksen on Maaseutuviraston pyynnöstä esitettävä tullimuodollisuuksien täyttymistä, kuljetusta ja purkamista koskevien tietojen perusteena olevat tiedot.",
+      "section_number": "15",
+      "chapter_number": 4,
+      "statute_id": "1234/2007"
+    },
+    {
+      "id": "ac3b0b3a-690e-44dc-8183-8c265a2c7e33",
+      "node_type": "Section",
+      "publisher": "finlex",
+      "title": "16 § Muonitusvaraston hyväksyminen ja toiminta",
+      "text": "Vientituen hakijan oikeudesta käyttää vientitukituotteiden vientimenettelyn yhteydessä tähän tarkoitukseen hyväksyttyä muonitusvarastoa (hyväksytty muonitusvarasto) säädetään vientitukiasetuksessa. Hyväksymisen edellytyksistä ja hyväksymisen kohteena olevaa toimintaa koskevista vaatimuksista säädetään vientitukiasetuksessa ja soveltamisasetuksen 524—535 artiklassa. Maaseutuvirasto päättää hakemuksesta muonitusvaraston hyväksymisestä. Hyväksyminen on voimassa kolme vuotta. Maaseutuvirasto päättää hakemuksesta uudesta hyväksymisestä. Hakemuksessa on oltava selvitys hyväksymisen edellytyksistä.",
+      "section_number": "16",
+      "chapter_number": 4,
+      "statute_id": "1234/2007"
+    },
+    {
+      "id": "9b4a94e7-d767-4818-b6b7-e1583c166357",
+      "node_type": "Section",
+      "publisher": "finlex",
+      "title": "17 § Hedelmä- ja vihannesalan kansallinen strategia",
+      "text": "Markkinajärjestelyasetuksessa tarkoitetun hedelmä- ja vihannesmarkkinoilla toteutettavien toimenpiteiden kansallisen strategian laatii maa- ja metsätalousministeriö.",
+      "section_number": "17",
+      "chapter_number": 4,
+      "statute_id": "1234/2007"
+    },
+    {
+      "id": "c23849ac-e627-4aa7-9e45-ff5e3db154e0",
+      "node_type": "Section",
+      "publisher": "finlex",
+      "title": "18 § Tuottajaorganisaatiotuen yleiset edellytykset",
+      "text": "Tuottajaorganisaatiotuen myöntämisen edellytyksenä on, että:",
+      "section_number": "18",
+      "chapter_number": 4,
+      "statute_id": "1234/2007"
+    },
+    {
+      "id": "58afebbb-bc20-417b-aa80-c8a0f924f9fe",
+      "node_type": "Section",
+      "publisher": "finlex",
+      "title": "19 § Hedelmä- ja vihannesalan tuottajaorganisaation toimintaohjelma",
+      "text": "Maaseutuvirasto hyväksyy hakemuksesta tukea hakevan hedelmä- ja vihannesalan tuottajaorganisaation laatiman toimintaohjelman, jos toimintaohjelma täyttää markkinajärjestelyasetuksessa, EU:n hedelmä- ja vihannesasetuksessa ja tässä luvussa tarkoitetut seuraavia seikkoja koskevat vaatimukset: Hedelmä- ja vihannesalan tuottajaorganisaation on toimintaohjelman hyväksymistä koskevassa hakemuksessa esitettävä hyväksymisen edellytyksiä koskevat tiedot. Maaseutuvirasto voi antaa tarkempia määräyksiä esitettävistä tiedoista. Toimintaohjelman hyväksymisen hakemisen määräajasta säädetään EU:n hedelmä- ja vihannesasetuksessa. Valtioneuvoston asetuksella voidaan antaa EU:n hedelmä- ja vihannesasetuksessa sallittuja säännöksiä myöhäisemmästä määräajasta, jos tämä on tarpeen sen varmistamiseksi, että tuottajaorganisaatiolla on riittävästi aikaa koota ilmoitettavat tiedot.",
+      "section_number": "19",
+      "chapter_number": 4,
+      "statute_id": "1234/2007"
+    },
+    {
+      "id": "c20574b8-a241-42cc-ba93-e7a5a680c20a",
+      "node_type": "Section",
+      "publisher": "finlex",
+      "title": "20 § Hedelmä- ja vihannesalan tuottajaorganisaation tukikelpoiset toimenpiteet",
+      "text": "Tuottajaorganisaatiotukea voidaan myöntää hyväksyttyyn toimintaohjelmaan sisältyvien seuraavien markkinajärjestelyasetuksessa ja EU:n hedelmä- ja vihannesasetuksessa tarkoitettujen toimenpiteiden toteuttamisesta aiheutuneiden kulujen korvaamiseen: Edellä 1 momentissa tarkoitetuista tukikelpoisista toimenpiteistä voidaan antaa tarkempia säännöksiä valtioneuvoston asetuksella EU:n lainsäädännössä säädetyissä rajoissa. Tuottajaorganisaatiotukea ei voida myöntää toimenpiteelle, johon on saatu muuta julkista rahoitusta. Muista tukikelpoisia toimenpiteitä koskevista rajoituksista säädetään EU:n hedelmä- ja vihannesasetuksessa.",
+      "section_number": "20",
+      "chapter_number": 4,
+      "statute_id": "1234/2007"
+    },
+    {
+      "id": "cbcbac1e-12be-4ab3-9128-87bc7fb04e2c",
+      "node_type": "Section",
+      "publisher": "finlex",
+      "title": "21 § Hedelmä- ja vihannesalan tuottajaorganisaation tukikelpoiset ympäristötoimet",
+      "text": "Tuottajaorganisaatiotukea voidaan myöntää hedelmä- ja vihannesalan tuottajaorganisaatiolle toimintaohjelmaan sisältyvien ympäristötoimien toteuttamisesta aiheutuneiden lisäkustannusten tai tulon menetysten korvaamiseen, jos toimi koskee: Edellä 1 momentissa tarkoitetuista tukikelpoisista ympäristötoimista annetaan tarkempia säännöksiä valtioneuvoston asetuksella EU:n lainsäädännössä säädetyissä rajoissa. Hedelmä- ja vihannesalan tuottajaorganisaation on toteutettava vähintään kaksi 1 momentissa tarkoitettua ympäristötointa tai käytettävä niihin vähintään kymmenen prosenttia toimintaohjelman menoista. Ympäristötoimi ei saa koskea Manner-Suomen tai Ahvenanmaan maakunnan maaseudun kehittämisohjelmassa tarkoitettuja toimenpiteitä. Ympäristötoimia koskevista vaatimuksista säädetään lisäksi markkinajärjestelyasetuksessa ja EU:n hedelmä- ja vihannesasetuksessa.",
+      "section_number": "21",
+      "chapter_number": 4,
+      "statute_id": "1234/2007"
+    },
+    {
+      "id": "14b50692-deb9-4853-8f9c-a4e2e3e7dccd",
+      "node_type": "Section",
+      "publisher": "finlex",
+      "title": "22 § Tuottajaorganisaatiotuen kustannusten tukikelpoisuus ja tuen enimmäismäärä",
+      "text": "Tuottajaorganisaatiotuella voidaan korvata sellaiset 20 ja 21 §:ssä tarkoitettujen toimenpiteiden ja toimien toteuttamisesta aiheutuneet tarpeelliset ja kohtuulliset kustannukset, jotka ovat syntyneet hyväksytyn toimintaohjelman toteuttamisen aloittamisen jälkeen. Tukikelpoisista kustannuksista ja niitä koskevista rajoituksista säädetään lisäksi EU:n hedelmä- ja vihannesasetuksessa. Tukikelpoisista kustannuksista annetaan tarkempia säännöksiä valtioneuvoston asetuksella EU:n lainsäädännössä säädetyissä rajoissa. Tuottajaorganisaatiotuen enimmäismäärästä säädetään markkinajärjestelyasetuksessa ja EU:n hedelmä- ja vihannesasetuksessa. Tuottajaorganisaatiotuen enimmäismäärän korottamisen edellytyksistä säädetään markkinajärjestelyasetuksen 103 d artiklan 3 kohdassa. Asetuksen 103 d artiklan 3 kohdan g alakohdan mukaisen, tuen enimmäismäärän korottamisen edellytyksenä olevan alle 20 prosentin markkinaosuuden täyttymisestä säädetään tarkemmin valtioneuvoston asetuksella.",
+      "section_number": "22",
+      "chapter_number": 4,
+      "statute_id": "1234/2007"
+    },
+    {
+      "id": "8f43e699-ac0f-486a-a299-514f26260336",
+      "node_type": "Section",
+      "publisher": "finlex",
+      "title": "23 § Hedelmä- ja vihannesalan tuottajaorganisaation toimintarahasto",
+      "text": "Hedelmä- ja vihannesalan tuottajaorganisaation velvollisuudesta ilmoittaa vuosittain arvio toimintarahastonsa suuruudesta seuraavana toimintaohjelman toteuttamisvuonna säädetään markkinajärjestelyasetuksessa ja EU:n hedelmä- ja vihannesasetuksessa. Ilmoitus annetaan Maaseutuvirastolle. Ilmoituksessa on esitettävä tiedot, joiden perusteella voidaan arvioida toimintarahaston suuruus ja kaupan pidetyn tuotannon arvo. Maaseutuvirasto voi antaa tarkempia määräyksiä ilmoituksessa esitettävistä tiedoista. Ilmoituksen esittämisen määräajasta säädetään EU:n hedelmä- ja vihannesasetuksessa. Valtioneuvoston asetuksella voidaan antaa EU:n hedelmä- ja vihannesasetuksessa sallittuja säännöksiä myöhäisemmästä määräajasta, jos tämä on tarpeen sen varmistamiseksi, että tuottajaorganisaatiolla on riittävästi aikaa koota ilmoitettavat tiedot. Hedelmä- ja vihannesalan tuottajaorganisaation on järjestettävä toimintarahaston kirjanpito siten, että tilintarkastajat voivat vuosittain tunnistaa, tarkastaa ja varmentaa toimintarahastoon liittyvät menot. Toimintarahaston kirjanpitoa koskevista vaatimuksista voidaan antaa tarkempia säännöksiä valtioneuvoston asetuksella EU:n lainsäädännössä säädetyissä rajoissa.",
+      "section_number": "23",
+      "chapter_number": 4,
+      "statute_id": "1234/2007"
+    },
+    {
+      "id": "dea0e389-5735-409f-90fc-7b9f02a9b687",
+      "node_type": "Section",
+      "publisher": "finlex",
+      "title": "24 § Tuottajaorganisaatiotuen hakemisen yhteydessä esitettävät tiedot",
+      "text": "Tuottajaorganisaatiotukea koskevan hakemuksen yhteydessä on esitettävä toteutettuja toimenpiteitä ja toimia sekä niistä aiheutuneita kustannuksia koskeva selvitys. Tuen hakemisesta ja maksamisesta säädetään lisäksi EU:n hedelmä- ja vihannesasetuksessa. Maaseutuvirasto voi antaa tarkempia määräyksiä esitettävistä tiedoista.",
+      "section_number": "24",
+      "chapter_number": 4,
+      "statute_id": "1234/2007"
+    },
+    {
+      "id": "22b2d003-6bc7-445e-b366-a5cea893a309",
+      "node_type": "Section",
+      "publisher": "finlex",
+      "title": "25 § Tuottajaorganisaation toimintaohjelman muutokset",
+      "text": "Hedelmä- ja vihannesalan tuottajaorganisaation velvollisuudesta hakea hyväksyttyä toimintaohjelmaa koskeville muutoksille ennakolta hyväksymistä, hakemisen määräajasta ja muutosten hyväksymisen edellytyksistä säädetään EU:n hedelmä- ja vihannesasetuksessa. Maaseutuvirasto päättää hakemuksesta muutosten hyväksymisestä. Valtioneuvoston asetuksella voidaan antaa EU:n hedelmä- ja vihannesasetuksessa sallittuja säännöksiä siinä tarkoitettua hakemisen määräaikaa myöhäisemmästä määräajasta, jos tämä on tarpeen sen varmistamiseksi, että tuottajaorganisaatiolla on riittävästi aikaa arvioida muutostarpeita. Sen estämättä, mitä 1 momentissa säädetään, hedelmä- ja vihannesalan tuottajaorganisaatio voi muuttaa toimintaohjelmaansa sen toteuttamisvuoden aikana ilman hyväksymistä, jos kyseessä on vähäinen muutos, jolla ei ole vaikutusta toimenpiteiden toteutumisen kannalta, ja jos se ilmoittaa muutoksesta Maaseutuvirastolle viipymättä muutostarpeen tultua ilmi.",
+      "section_number": "25",
+      "chapter_number": 4,
+      "statute_id": "1234/2007"
+    },
+    {
+      "id": "b7617d1d-0a11-42bf-88d0-542aada43e46",
+      "node_type": "Section",
+      "publisher": "finlex",
+      "title": "26 § Mehiläishoito-ohjelma ja mehiläishoitotuen tukikelpoiset toimenpiteet",
+      "text": "Markkinajärjestelyasetuksessa tarkoitetun mehiläishoitotuen myöntämisen edellytyksenä olevan mehiläishoito-ohjelman laatii maa- ja metsätalousministeriö. Toimenpiteistä, joihin mehiläishoitotukea voi saada, säädetään markkinajärjestelyasetuksen 106 artiklassa. Tukikelpoisista toimenpiteistä ja niitä koskevista vaatimuksista annetaan tarkempia säännöksiä valtioneuvoston asetuksella EU:n lainsäädännössä säädetyissä rajoissa.",
+      "section_number": "26",
+      "chapter_number": 4,
+      "statute_id": "1234/2007"
+    },
+    {
+      "id": "1b9b75bb-8b93-4392-aa77-61048ff982eb",
+      "node_type": "Section",
+      "publisher": "finlex",
+      "title": "27 § Mehiläishoitotukeen oikeutetut",
+      "text": "Mehiläishoitotukea voidaan myöntää mehiläishoitoalaa edustavalle rekisteröidylle yhdistykselle tai osuuskunnalle, joka sitoutuu toteuttamaan kaikki tukikelpoiset toimenpiteet. Tukea voi hakea useampi tukeen oikeutettu toimija yhdessä. Tukeen oikeutettu toimija voi käyttää yksittäisten toimenpiteiden toteutuksessa apuna muuta julkisoikeudellista tai yksityisoikeudellista rekisteröityä yhteisöä. Tällöin sovelletaan, mitä valtionavustuslain (688/2001) 7 §:n 2 momentissa säädetään velvollisuudesta tehdä sopimus avustuksen käytöstä, käytön valvonnasta ja niiden ehdoista hanketta toteuttavan kanssa.",
+      "section_number": "27",
+      "chapter_number": 4,
+      "statute_id": "1234/2007"
+    },
+    {
+      "id": "1614e06a-5175-4500-a9d6-298ae0363c28",
+      "node_type": "Section",
+      "publisher": "finlex",
+      "title": "28 § Mehiläishoitotuen hyväksyttävät kustannukset ja tuen enimmäismäärä",
+      "text": "Mehiläishoitotukeen kelpoisia kustannuksia ovat 26 §:n 2 momentissa tarkoitettujen tukikelpoisten toimenpiteiden toteuttamisesta aiheutuneet tarpeelliset ja kohtuulliset kustannukset. Hyväksyttävistä kustannuksista annetaan tarkempia säännöksiä valtioneuvoston asetuksella. Maaseutuvirasto päättää hakijalle myönnettävän mehiläishoitotuen enimmäismäärästä.",
+      "section_number": "28",
+      "chapter_number": 4,
+      "statute_id": "1234/2007"
+    },
+    {
+      "id": "588d8c93-22fa-4cee-9c91-8af3bab36a58",
+      "node_type": "Section",
+      "publisher": "finlex",
+      "title": "29 § Mehiläishoitotuen hakeminen, myöntäminen ja maksaminen",
+      "text": "Maaseutuvirasto päättää hakemuksesta mehiläishoitotuen myöntämisestä. Tukea koskeva hakemus on toimitettava hakuilmoituksessa ilmoitettavana aikana. Hakemukseen on liitettävä tuen kohteena olevien toimenpiteiden toteuttamista ja niiden kustannuksia koskeva suunnitelma. Tuen myöntämisen edellytyksenä on, että esitetyt toimenpiteet ja niihin liittyvät kustannukset ovat hyväksyttäviä. Tuensaajan on pidettävä kirjaa toteutetuista toimenpiteistä ja niihin liittyvistä kustannuksista. Maaseutuvirasto päättää hakemuksesta mehiläishoitotuen maksatuksesta. Hakemukseen on liitettävä toteutettuja toimenpiteitä ja niiden kustannuksia koskeva selvitys. Tuen maksamisen edellytyksenä on, että toteutetut toimenpiteet ja niihin liittyvät kustannukset ovat hyväksyttäviä. Hakemuksissa esitettävistä tiedoista ja 2 momentissa tarkoitetuista kirjattavista tiedoista voidaan antaa tarkempia säännöksiä valtioneuvoston asetuksella.",
+      "section_number": "29",
+      "chapter_number": 4,
+      "statute_id": "1234/2007"
+    },
+    {
+      "id": "a7e987c1-5906-4e13-a5bf-6146a712b3b6",
+      "node_type": "Section",
+      "publisher": "finlex",
+      "title": "30 § Yksityistä varastointia koskevat vaatimukset",
+      "text": "Yksityisen varastoinnin tuen kohteena olevan voin valmistajalta edellytettävästä hyväksymisestä säädetään yksityisen varastoinnin asetuksessa. Hyväksymiseen sovelletaan, mitä tässä laissa säädetään hyväksytystä varastoitavien tuotteiden valmistajasta. Yksityisen varastoinnin tuen myöntämisen edellytyksenä on, että tuen hakija varastoi tuotteet sellaisissa olosuhteissa ja sellaisella tavalla, jotka varmistavat tuotteiden määrän ja ominaisuuksien säilymisen sekä tuotteiden tunnistamisen ja helpon käsiteltävyyden. Edellytyksenä on lisäksi, että tuen hakija varmistaa, että tuotteissa on niiden yksilöinnissä tarvittavat merkinnät ja että varastoituja tuotteita ei korvata toisilla tuotteilla. Tuotteiden varastointiolosuhteita, varastointitapaa ja merkintöjä koskevista vaatimuksista voidaan antaa tarkempia säännöksiä maa- ja metsätalousministeriön asetuksella EU:n lainsäädännössä säädetyissä rajoissa. Yksityisen varastoinnin tuen hakijan on toimitettava tuotteet varastoon ja poistettava ne sieltä siten, että tuotteiden laatu, määrä ja merkinnät voidaan tarkastaa. Tuen hakijan on järjestettävä tuotteiden poistaminen varastosta varastoinnin päättyessä siten, että poistettavan yksittäisen tuote-erän määrä ei ole vähäinen. Tuotteiden toimittamis- ja poistamistapaa ja varastosta kerralla poistettavien tuotteiden vähimmäismäärää koskevista vaatimuksista voidaan antaa tarkempia säännöksiä maa- ja metsätalousministeriön asetuksella EU:n lainsäädännössä säädetyissä rajoissa. Yksityisen varastoinnin tuen hakija voi siirtää tuen kohteena olevia tuotteita toiseen varastoon vain Maaseutuviraston luvalla. Luvan myöntämisen edellytyksenä on, että siirto on tarpeen tuotteiden asianmukaisten säilytysolosuhteiden turvaamisen tai muun vastaavan poikkeuksellisen ja ennakoimattoman syyn vuoksi. Yksityisen varastoinnin tuen hakijan velvollisuudesta toimittaa tuotteet varastoon ja poistaa ne sieltä määräajassa sekä muista tuen hakijan varastointiin liittyvistä velvollisuuksista säädetään yksityisen varastoinnin asetuksessa.",
+      "section_number": "30",
+      "chapter_number": 4,
+      "statute_id": "1234/2007"
+    },
+    {
+      "id": "261c96f9-6263-4263-9850-a02bf575d296",
+      "node_type": "Section",
+      "publisher": "finlex",
+      "title": "31 § Yksityistä varastointia koskevien tietojen ilmoittaminen ja kirjaaminen",
+      "text": "Yksityisen varastoinnin tuen saajan on pidettävä kirjaa ja ilmoitettava Maaseutuvirastolle tiedoista, jotka ovat tarpeellisia varastointia koskevien vaatimusten noudattamisen varmistamiseksi. Tuotteiden varastointiin liittyvien tietojen kirjaamista ja ilmoittamista koskevista vaatimuksista voidaan antaa tarkempia säännöksiä maa- ja metsätalousministeriön asetuksella EU:n lainsäädännössä säädetyissä rajoissa. Tuen hakijan velvollisuudesta ilmoittaa tuotteiden toimitusta, käytettäviä varastoja, varastointimenettelyjä ja varastosta poistoa koskevia tietoja säädetään lisäksi yksityisen varastoinnin asetuksessa. Yksityisen varastoinnin tuen saajalta edellytettävien ilmoitusten määräajoista säädetään yksityisen varastoinnin asetuksessa. Maa- ja metsätalousministeriön asetuksella voidaan antaa yksityisen varastoinnin asetuksessa sallittuja säännöksiä ilmoitusten määräajoista, jos tämä on tarpeen tuotteiden tarkastusten suunnittelun ja toteuttamisen varmistamiseksi.",
+      "section_number": "31",
+      "chapter_number": 4,
+      "statute_id": "1234/2007"
+    },
+    {
+      "id": "a2c4524f-a1ad-44cf-a995-ee9fad6f8412",
+      "node_type": "Section",
+      "publisher": "finlex",
+      "title": "32 § Yksityistä varastointia koskeva sopimus",
+      "text": "Velvollisuudesta vahvistaa tuen myöntävän viranomaisen ja tuen hakijan välinen yksityistä varastointia koskeva sopimus säädetään yksityisen varastoinnin asetuksessa. Sopimuksen laatii Maaseutuvirasto. Maaseutuviraston on varmistettava, että sopimukseen sisällytetään yksityisen varastoinnin asetuksessa ja tässä laissa tarkoitetut yksityistä varastointia koskevat vaatimukset.",
+      "section_number": "32",
+      "chapter_number": 4,
+      "statute_id": "1234/2007"
+    },
+    {
+      "id": "3c164850-fc22-453b-a587-197aa7e3aa5e",
+      "node_type": "Section",
+      "publisher": "finlex",
+      "title": "33 § Koulumaitotukeen kelpoiset tuotteet",
+      "text": "Sen lisäksi, mitä koulumaitotukeen kelpoisten tuotteiden vaatimuksista säädetään koulumaitoasetuksessa, tuotteiden on vastattava ravintosuosituksia. Valtioneuvoston asetuksella voidaan antaa tarkempia säännöksiä ravintosuositusten huomioimisesta tuotteita koskevissa vaatimuksissa.",
+      "section_number": "33",
+      "chapter_number": 4,
+      "statute_id": "1234/2007"
+    },
+    {
+      "id": "f0e4a41d-8e6b-4ee6-9b48-eeaf7edf83e8",
+      "node_type": "Section",
+      "publisher": "finlex",
+      "title": "34 § Koulumaitotuen hakijoiden hyväksyminen",
+      "text": "Koulumaitotuen hakijan velvollisuudesta hakea hyväksymistä tähän tarkoitukseen säädetään koulumaitoasetuksessa. Maaseutuvirasto päättää hakemuksesta hyväksymisestä. Hyväksymisen edellytyksenä on sen lisäksi, mitä koulumaitoasetuksessa säädetään, että hakija on julkinen tai viranomaisen hyväksymä yksityinen päiväkoti, esikoulu, perusasteen oppilaitos tai toisen asteen oppilaitos taikka niiden toiminnasta vastaava viranomainen (hyväksytty koulumaitotuen hakija). Koulumaitotukea voi hakea hyväksytyn koulumaitotuen hakijan puolesta tälle koulumaitotuen kohteena olevia tuotteita toimittava toimija, joka on hyväksytty tähän tarkoitukseen (hyväksytty koulumaitotuotteiden toimittaja). Maaseutuvirasto päättää hakemuksesta hyväksymisestä. Hyväksymisen edellytyksenä on sen lisäksi, mitä koulumaitoasetuksessa säädetään, että tuotteiden toimittaja esittää hyväksytyn koulumaitotuen hakijan antaman valtuutuksen tuen hakemiseen tämän puolesta. Koulumaitotuen hakijan hyväksymistä tai koulumaitotuotteiden toimittajan hyväksymistä hakevan toimijan on esitettävä hyväksymistä koskevassa hakemuksessa tässä pykälässä tarkoitetut hyväksymisen edellytyksiä koskevat tiedot. Maaseutuvirasto voi antaa tarkempia määräyksiä hakemuksissa esitettävistä tiedoista. Myönnetty hyväksyminen on voimassa toistaiseksi. Hyväksymisen peruuttamisen edellytyksistä ja peruutetun hyväksymisen uudelleen voimaansaattamisen edellytyksistä säädetään koulumaitoasetuksessa.",
+      "section_number": "34",
+      "chapter_number": 4,
+      "statute_id": "1234/2007"
+    },
+    {
+      "id": "0e943443-9cff-4143-9dbc-b850c2a34822",
+      "node_type": "Section",
+      "publisher": "finlex",
+      "title": "35 § Hyväksyttyä koulumaitotuen hakijaa koskevat vaatimukset",
+      "text": "Hyväksytyn koulumaitotuen hakijan on: Lapsien ja oppilaiden lukumääräksi katsotaan koko lukukauden osalta lukukauden ensimmäisenä päivänä päiväkotiin ilmoittautuneiden lapsien tai oppilaitokseen ilmoittautuneiden oppilaiden määrä. Muista koulumaitotuen myöntämisen ja maksamisen edellytyksistä säädetään koulumaitoasetuksessa. Edellä 1 momentissa tarkoitetuista kirjattavista ja ilmoitettavista tiedoista voidaan antaa tarkempia säännöksiä valtioneuvoston asetuksella EU:n lainsäädännössä säädetyissä rajoissa. Hyväksytyn koulumaitotuen hakijan on haettava tukea siten, että yksittäinen tukihakemus kattaa yhden lukukauden.",
+      "section_number": "35",
+      "chapter_number": 4,
+      "statute_id": "1234/2007"
+    },
+    {
+      "id": "e3fe69ab-e9ca-4cae-a5b3-f0d1d9829186",
+      "node_type": "Section",
+      "publisher": "finlex",
+      "title": "36 § Hyväksyttyä koulumaitotuotteiden toimittajaa koskevat vaatimukset",
+      "text": "Jos koulumaitotukea hakee hyväksytty koulumaitotuotteiden toimittaja, tuen myöntämisen edellytyksenä on, että tämä: Maaseutuvirastolla on oikeus saada 1 momentin 3 kohdassa tarkoitetut tiedot salassapitosäännösten estämättä. Edellä 1 momentissa tarkoitetuista kirjattavista tiedoista voidaan antaa tarkempia säännöksiä valtioneuvoston asetuksella EU:n lainsäädännössä säädetyissä rajoissa. Hyväksytyltä koulumaitotuotteiden toimittajalta edellytettävistä toimitettuja tuotteita koskevista tiedoista ja muista tuen myöntämisen edellytyksistä säädetään koulumaitoasetuksessa. Valtioneuvoston asetuksella voidaan antaa koulumaitoasetuksessa sallittuja tarkempia säännöksiä hyväksytyn koulumaitotuotteiden toimittajan oikeudesta esittää koulumaitoasetuksessa tarkoitettujen tietojen sijaan muita tuotteiden toimittamista ja jakelua koskevia tietoja, jos tämä on hyväksytyn koulumaitotuotteiden toimittajan kannalta tarkoituksenmukaista eikä vaaranna tuen kohteena olevien tuotteiden seurantaa. Hyväksytyn koulumaitotuotteiden toimittajan on haettava tukea siten, että yksittäinen tukihakemus kattaa yhden kuukauden ajanjakson.",
+      "section_number": "36",
+      "chapter_number": 4,
+      "statute_id": "1234/2007"
+    },
+    {
+      "id": "8c43c804-173a-4481-ab1b-3f7660f7fd92",
+      "node_type": "Section",
+      "publisher": "finlex",
+      "title": "37 § Tukijärjestelmiin liittyvät tekniset vaatimukset",
+      "text": "EU:n markkinajärjestelylainsäädännössä säädetään tuenhakijoilta ja tuensaajilta edellytettävistä teknisistä laitteista ja muista teknisistä vaatimuksista. Maa- ja metsätalousministeriön asetuksella voidaan antaa EU:n markkinajärjestelylainsäädännössä sallittuja tai edellytettyjä tarkempia säännöksiä teknisten vaatimusten asianmukaisen täytäntöönpanon edellyttämistä vähäisistä täydennyksistä ja sellaisista vähäisistä poikkeuksista, jotka eivät vaaranna EU:n markkinajärjestelylainsäädännön asianmukaista täytäntöönpanoa.",
+      "section_number": "37",
+      "chapter_number": 4,
+      "statute_id": "1234/2007"
+    },
+    {
+      "id": "a172f33f-2d1c-474e-8005-3e2789ed785a",
+      "node_type": "Section",
+      "publisher": "finlex",
+      "title": "38 § Ruhonluokitusasteikot",
+      "text": "Teurastamon velvollisuudesta luokittaa nautaeläinten ja sian ruhot markkinajärjestelyasetuksessa tarkoitetunruhonluokitusasteikonmukaisesti säädetään luokitusasetuksessa. Velvollisuutta sovelletaan myös luokitusasetuksessa tarkoitetun vähintään 12 kuukauden ikäisen nautaeläimen ruhon luokitukseen. Velvollisuutta ei sovelleta, jos kyse on luokitusasetuksen 20 artiklan 2 kohdassa tarkoitetusta luokituksesta. Jos teurastamo luokittaa lampaan ruhoja, luokitus on tehtävä ruhonluokitusasteikon mukaisesti. Maa- ja metsätalousministeriön asetuksella voidaan antaa markkinajärjestelyasetuksessa sallittuja täydentäviä säännöksiä ruhonluokitusasteikkoa täydentävistä asteikoista, jos tämä on tarpeen ruhon tarkemman arvon määrittämiseksi.",
+      "section_number": "38",
+      "chapter_number": 5,
+      "statute_id": "1234/2007"
+    },
+    {
+      "id": "54fe3fcb-006f-454b-b490-f71580220bce",
+      "node_type": "Section",
+      "publisher": "finlex",
+      "title": "39 § Luokituksen toteuttaminen",
+      "text": "Luokitukseen ja siihen liittyvän punnituksen tekniseen toteuttamiseen sekä ruhon merkintätapaan ja tarjontamuotoon liittyvistä teurastamoa koskevista vaatimuksista säädetään EU:n ruhonluokituslainsäädännössä. Maa- ja metsätalousministeriön asetuksella voidaan antaa EU:n ruhonluokituslainsäädännössä sallittuja tarkempia säännöksiä luokituksen teknistä toteuttamista ja ruhon merkintätapoja koskevista vähäisistä täydennyksistä, jos tämä on tarpeen luokituksen ja punnituksen täsmällisen toteuttamisen tai ruhon tunnistamisen varmistamiseksi. Maa- ja metsätalousministeriön asetuksella voidaan lisäksi antaa EU:n ruhonluokituslainsäädännössä sallittuja tarkempia säännöksiä ruhon tarjontamuotoa koskevista vähäisistä täydennyksistä, jos tämä on tarpeen sovellettujen kaupallisten käytäntöjen tai teurastustekniikoiden noudattamisen taikka hygienian varmistamiseksi.",
+      "section_number": "39",
+      "chapter_number": 5,
+      "statute_id": "1234/2007"
+    },
+    {
+      "id": "d896bfc9-9242-4462-b379-bf865df26060",
+      "node_type": "Section",
+      "publisher": "finlex",
+      "title": "40 § Ruhonluokittajan hyväksyminen",
+      "text": "Luokitusasetuksessa tarkoitetun ruhonluokituksen saa suorittaa vain Maaseutuviraston tähän tehtävään hyväksymä henkilö (hyväksytty ruhonluokittaja). Hyväksyminen kattaa luokituksen lisäksi ruhon punninnan ja tunnistemerkinnällä varustamisen. Maaseutuvirasto päättää hakemuksesta hyväksymisestä. Hyväksymisen edellytyksenä on riittävä 1 momentissa tarkoitettuun toimintaan liittyvään Maaseutuviraston hyväksymään koulutukseen perustuva pätevyys ja luokitusta koskeva Maaseutuviraston hyväksymä työnäyte. Valtioneuvoston asetuksella voidaan antaa tarkempia säännöksiä koulutuksen ja työnäytteen sisällöstä ja toteuttamistavasta. Maaseutuvirasto voi päättää hyväksymisestä enintään kolmeksi vuodeksi kerrallaan. Maaseutuvirasto päättää uudesta hyväksymisestä, jos ruhonluokittaja tätä hakee ja esittää selvityksen hyväksymisen edellytysten täyttymisestä. Hakijan ei kuitenkaan ole annettava uutta työnäytettä, ellei tähän ole erityisiä syitä.",
+      "section_number": "40",
+      "chapter_number": 5,
+      "statute_id": "1234/2007"
+    },
+    {
+      "id": "ac6be80e-04ba-43a9-b9c0-703930cbdc11",
+      "node_type": "Section",
+      "publisher": "finlex",
+      "title": "41 § Velvollisuus ilmoittaa hintoja ja niihin liittyviä muita tietoja",
+      "text": "Jos EU:n markkinajärjestelylainsäädännön täytäntöönpano edellyttää jäsenvaltiolta tuotteiden hintoja, määrää tai laatua koskevien tietojen toimittamista ja jos viranomaisella ei ole käytettävissään näitä tietoja eikä niitä voida hankkia julkisista tilastoista tai erillisten selvitysten avulla, niitä ovat velvollisia ilmoittamaan (hintaselvitys): Naudanlihan teurastamon ja teurastamoon nautaeläimiä lähettävien toimijoiden velvollisuudesta antaa hintaselvityksiä säädetään luokitusasetuksessa. Hyväksytyn sokerialan yrityksen velvollisuudesta antaa hintaselvityksiä säädetään EU:n sokerituotantolainsäädännössä. Ilmoitettavista tiedoista ja tietojen ilmoittamiseen velvollisista toimijoista annetaan tarkempia säännöksiä valtioneuvoston asetuksella EU:n lainsäädännössä säädetyissä rajoissa.",
+      "section_number": "41",
+      "chapter_number": 6,
+      "statute_id": "1234/2007"
+    },
+    {
+      "id": "e0386afc-8388-4132-b241-86c8a8badbcb",
+      "node_type": "Section",
+      "publisher": "finlex",
+      "title": "42 § Tietojen ilmoittamisessa toimivaltainen viranomainen ja ilmoitusmenettelyt",
+      "text": "Hintaselvityksen antamisesta vastaavan toimijan on toimitettava tiedot maa- ja metsätalousministeriön tietopalvelukeskukselle, joka käsittelee tiedot ja toimittaa ne EU:n toimielimille sekä tarvittaessa päättää tietojen luovutuksesta. Hyväksytyn sokerialan yrityksen on kuitenkin toimitettava tiedot Maaseutuvirastolle, joka vastaa edellä mainituista toimenpiteistä. Hintaselvityksen antamisesta vastaavan toimijan on esitettävä tiedot maksutta ja helposti käsiteltävässä muodossa. Maa- ja metsätalousministeriön asetuksella voidaan antaa tarkempia säännöksiä tietojen ilmoittamisessa käytettävistä lomakkeista ja tiedonsiirtomuodosta. Hintaselvityksen antamisesta vastaavan toimijan on ilmoitettava tiedot ennen EU:n markkinajärjestelylainsäädännössä jäsenvaltiolle säädettyä tietojen ilmoittamisen määräaikaa siten, että viranomaisella on mahdollisuus käsitellä ja toimittaa tiedot määräajassa. Valtioneuvoston asetuksella annetaan tarkempia säännöksiä ilmoittamisen määräajoista.",
+      "section_number": "42",
+      "chapter_number": 6,
+      "statute_id": "1234/2007"
+    },
+    {
+      "id": "6024bed6-daa8-4dee-935a-e935042eb20b",
+      "node_type": "Section",
+      "publisher": "finlex",
+      "title": "43 § Ilmoitettujen tietojen rekisteröinti, käyttö, luovutus ja julkisuus",
+      "text": "Hintaselvityksissä annetut tiedot muodostavat maaseutuelinkeinohallinnon tietojärjestelmästä annetussa laissa (284/2008) tarkoitetun rekisterin. Ilmoitettuja tietoja voidaan käyttää vain EU:n markkinajärjestelylainsäädännössä tarkoitetulla tavalla tuotealan keskimääräisen hinnan määrittämiseen. Jos toimija ilmoittaa vapaaehtoisesti muita tietoja kuin tässä luvussa tarkoitetun velvollisuuden kattamia tietoja, vapaaehtoisesti ilmoitettujen tietojen rekisteröintiin, käyttöön, luovutukseen ja julkisuuteen sovelletaan, mitä ilmoitusvelvollisuuden kohteena olevista säädetään.",
+      "section_number": "43",
+      "chapter_number": 6,
+      "statute_id": "1234/2007"
+    },
+    {
+      "id": "339ff411-c72a-44e4-b867-d73e98b581b8",
+      "node_type": "Section",
+      "publisher": "finlex",
+      "title": "44 § Velvollisuus pitää kirjaa hintaselvitysten perusteena olevista tiedoista",
+      "text": "Hintaselvityksen antamisesta vastaavan toimijan on pidettävä kirjaa ilmoitettujen tietojen perusteena olevista tiedoista. Kirjattavista tiedoista voidaan antaa tarkempia säännöksiä valtioneuvoston asetuksella.",
+      "section_number": "44",
+      "chapter_number": 6,
+      "statute_id": "1234/2007"
+    },
+    {
+      "id": "f27b9709-6344-4ac1-a800-bd76cf25fb6e",
+      "node_type": "Section",
+      "publisher": "finlex",
+      "title": "45 § Sokerin valmistajaa, puhdistamoa ja jalostajaa koskevat vaatimukset",
+      "text": "Sokerin valmistajan, puhdistamon ja jalostajan velvollisuudesta hakea viranomaiselta hyväksymistä tähän tarkoitukseen ja hyväksymisen edellytyksistä säädetään EU:n sokerituotantolainsäädännössä. Maaseutuvirasto myöntää hyväksymisen hakemuksesta hyväksymisedellytykset täyttävälle sokerin valmistajalle, puhdistamolle tai jalostajalle (hyväksytty sokerialan yritys). Hyväksyminen on voimassa toistaiseksi. Hyväksymisen peruuttamisen edellytyksistä säädetään EU:n sokerituotantolainsäädännössä. Hyväksytyn sokerialan yrityksen toimintaa koskevista vaatimuksista ja tämän velvollisuudesta ilmoittaa viranomaiselle toimintaa koskevia tietoja säädetään EU:n sokerituotantolainsäädännössä. Tiedot on ilmoitettava Maaseutuvirastolle. Sokerin valmistajalle myönnettävän tuotantokiintiön myöntämisen edellytyksistä sekä valmistajan velvollisuudesta maksaa tuotantomaksua ja ylijäämämaksua ja velvollisuudesta ilmoittaa tuotantokiintiön ylittävän tuotannon siirtämisestä seuraavan markkinointivuoden tuotantoon säädetään EU:n sokerituotantolainsäädännössä. Tuotantokiintiön myöntämisestä päättää Maaseutuvirasto. Tuotanto- ja ylijäämämaksut on maksettava Maaseutuvirastolle. Tuotannon siirtämisestä on ilmoitettava viimeistään kunkin vuoden huhtikuun 15 päivänä, jollei EU:n markkinajärjestelylainsäädännöstä muuta johdu.",
+      "section_number": "45",
+      "chapter_number": 7,
+      "statute_id": "1234/2007"
+    },
+    {
+      "id": "eb26257c-6165-4d44-9d76-a916c5ccd20f",
+      "node_type": "Section",
+      "publisher": "finlex",
+      "title": "46 § Sokerijuurikkaan toimialakohtaisia sopimuksia ja toimitussopimuksia koskevat vaatimukset",
+      "text": "Sokerijuurikkaan toimialakohtaisia sopimuksia ja toimitussopimuksia koskevista vaatimuksista sekä sokerin valmistajan velvollisuudesta ilmoittaa viranomaiselle toimitussopimuksia koskevia tietoja säädetään EU:n sokerituotantolainsäädännössä. Tiedot on ilmoitettava Maaseutuvirastolle. Jos EU:n sokerituotantolainsäädännön täytäntöönpano edellyttää viranomaisen hyväksymän riippumattoman asiantuntijan nimeämistä taikka muun toimialasopimuksiin tai toimitussopimuksiin liittyvän hallintopäätöksen tekemistä, toimivaltainen viranomainen asiassa on maa- ja metsätalousministeriö.",
+      "section_number": "46",
+      "chapter_number": 7,
+      "statute_id": "1234/2007"
+    },
+    {
+      "id": "b9469001-d9ed-4374-846b-94b56fea2a9a",
+      "node_type": "Section",
+      "publisher": "finlex",
+      "title": "47 § Vakuusmuodot, takaajan hyväksyminen ja vakuuden asettaminen",
+      "text": "Jos hakemuksen tai tarjouksen tekeminen edellyttää EU:n markkinajärjestelylainsäädännön mukaan vakuuden asettamista, vakuutena voidaan käyttää vakuusasetuksen 8 artiklan 1 kohdassa tarkoitettua käteistalletusta tai takausta. Takauksen myöntäjän on oltava tähän tarkoitukseenhyväksytty takaaja. Maaseutuvirasto päättää takaajan hakemuksesta hyväksymisen myöntämisestä. Hyväksymisen edellytyksenä on, että takaaja on luottolaitostoiminnasta annetun lain (121/2007) 8 §:n 1 momentissa tarkoitettu luottolaitos, 2 momentissa tarkoitettu ulkomainen luottolaitos tai 3 momentissa tarkoitettu ulkomainen ETA-luottolaitos taikka vakuutusyhtiölaissa (521/2008) tarkoitettu vahinkovakuutusyhtiö. Hyväksyminen on voimassa toistaiseksi. Jos hakija käyttää vakuutena käteistalletusta, tämän on talletettava se Maaseutuviraston osoittamalle tilille. Jos hakija käyttää vakuutena takausta, hyväksytyn takaajan on annettava Maaseutuvirastolle osoitettu takaussitoumus. Muista vakuuden asettamisessa sovellettavista menettelyistä säädetään vakuusasetuksessa.",
+      "section_number": "47",
+      "chapter_number": 8,
+      "statute_id": "1234/2007"
+    },
+    {
+      "id": "758c1c07-66b4-446c-88b8-a3cf3c05a13f",
+      "node_type": "Section",
+      "publisher": "finlex",
+      "title": "48 § Vakuuden kohdistaminen, vapauttaminen ja pidättäminen",
+      "text": "Kun hakija tekee hakemuksen tai tarjouksen, jonka käsittely edellyttää vakuutta, Maaseutuvirasto päättää asetetun vakuuden kohdistamisesta EU:n markkinajärjestelylainsäädännössä edellytetyn vakuuden määrän mukaisesti. Asetettua vakuutta ei voi kohdistetulta osin käyttää muuhun tarkoitukseen. Maaseutuvirasto päättää kohdistetun vakuuden vapauttamisesta tai pidättämisestä EU:n markkinajärjestelylainsäädännössä säädettyjen edellytysten mukaisesti. Vakuutta ei kuitenkaan pidätetä, jos pidätettävän vakuuden määrä on alle 60 euroa tai jos vakuutta ei tule EU:n markkinajärjestelylainsäädännön nojalla pidättää. Jos EU:n markkinajärjestelylainsäädännössä edellytetään jäsenvaltion määrittävän asiakirjan tai menettelyn, jota vakuuden asettaneen toimijan on vakuuden vapauttamiseksi käytettävä, Maaseutuvirasto voi antaa tarkempia määräyksiä käytettävästä asiakirjasta tai menettelystä.",
+      "section_number": "48",
+      "chapter_number": 8,
+      "statute_id": "1234/2007"
+    },
+    {
+      "id": "8b0e0ed7-d752-4bea-b32a-b147a34a3e04",
+      "node_type": "Section",
+      "publisher": "finlex",
+      "title": "49 § Tarkastusten yleinen ohjaus, tarkastuskohteiden valinta, yleiset tarkastusmenettelyt ja tarkastuksista raportointi",
+      "text": "Tarkastuksia ja niihin liittyvää raportointia koskevasta yleisestä ohjauksesta vastaa Maaseutuvirasto. Hintaselvityksiin ja ruhonluokitukseen liittyvien tarkastusten osalta yleisestä ohjauksesta vastaa kuitenkin maa- ja metsätalousministeriö. Tämän luvun mukaisesti tarkastuksia suorittava viranomainen päättää tarkastusten määrästä ja valitsee tarkastuskohteet riskianalyysiin tai satunnaisotantaan perustuen, jollei asiasta EU:n markkinajärjestelylainsäädännössä muuta säädetä. Tarkastuksissa sovelletaan hallintolain (434/2003) 39 §:ää. Tarkastuksia suorittavat viranomaiset raportoivat toteutetuista tarkastuksista ja havainnoistaan tarkastusten yleisestä ohjauksesta vastaavalle viranomaiselle. Tarkastuksia suorittavan viranomaisen on pyydettäessä ilmoitettava tarkastusten yleisestä ohjauksesta vastaavalle viranomaiselle myös valvontatoimenpiteitä, valvontahenkilöstöä ja valvontaa koskevia muita tietoja valvonnan seurantaa varten.",
+      "section_number": "49",
+      "chapter_number": 9,
+      "statute_id": "1234/2007"
+    },
+    {
+      "id": "e5b99d6a-62f7-4a3f-b6a6-28a3fd6e9c66",
+      "node_type": "Section",
+      "publisher": "finlex",
+      "title": "50 § Hakemusten ja ilmoitusten tarkastukset",
+      "text": "Maaseutuvirasto tarkastaa hakemukseen ja ilmoitukseen liittyvät tuen myöntämisen tai maksamisen edellytyksiä taikka muun hakemuksessa tai ilmoituksessa tarkoitetun toimenpiteen edellytyksiä koskevat tiedot. Vienti-ilmoituksen tarkastaa kuitenkin vientitapahtuman yhteydessä tullilaitos.",
+      "section_number": "50",
+      "chapter_number": 9,
+      "statute_id": "1234/2007"
+    },
+    {
+      "id": "2fd143a4-f673-476a-be58-0a7830609c3d",
+      "node_type": "Section",
+      "publisher": "finlex",
+      "title": "51 § Varastointiin liittyvät tarkastukset",
+      "text": "Ennen interventiovarastoinnin aloittamista Elintarviketurvallisuusvirasto tarkastaa voin, maitojauheen ja viljatuotteiden varastointiin tarkoitettujen tilojen vaatimustenmukaisuuden. Interventiovarastoinnin aikana varastojen, varastointiolosuhteiden ja varastointimenettelyjen sekä varastoitujen tuotteiden määrän, laadun, pakkaustavan ja pakkausmerkintöjen vaatimustenmukaisuuden tarkastaa EU:n interventiolainsäädännössä edellytetyllä tavalla: Yksityiseen varastointiin käytettyjen tilojen ja niiden varastointiolosuhteiden ja varastointimenettelyjen sekä varastoitujen tuotteiden määrän, laadun, pakkaustavan ja pakkausmerkintöjen vaatimustenmukaisuuden tarkastaa yksityisen varastoinnin asetuksessa edellytetyllä tavalla tullilaitos. Tässä pykälässä tarkoitetuilla viranomaisilla on oikeus päästä tarkatusta varten varastointiin tarkoitettuihin ja käytettyihin tiloihin ja tarkastaa varastoidut tuotteet ja varastointiolosuhteet sekä tuotteiden varastointiin liittyvät varastonpitäjän asiakirjat ja kirjanpito varastojen, varastointiolosuhteiden ja varastointimenettelyjen vaatimustenmukaisuuden ja varastoitujen tuotteiden laadun, määrän, pakkaustavan ja merkintöjen vaatimustenmukaisuuden sekä viranomaisille annettujen tietojen oikeellisuuden varmistamisen edellyttämässä laajuudessa. Tarkastusta ei kuitenkaan saa suorittaa pysyväisluonteiseen asumiseen käytettävässä tilassa.",
+      "section_number": "51",
+      "chapter_number": 9,
+      "statute_id": "1234/2007"
+    },
+    {
+      "id": "2932d093-4984-4146-9d64-aca5e8026962",
+      "node_type": "Section",
+      "publisher": "finlex",
+      "title": "52 § Varastoitavien tuotteiden valmistajan tarkastus",
+      "text": "Elintarviketurvallisuusvirasto tarkastaa varastoitavien tuotteiden valmistajan hyväksymistä hakevien ja hyväksyttyjen varastoitavien tuotteiden valmistajien hyväksymisedellytysten ja tuotannon vaatimustenmukaisuuden EU:n interventiolainsäädännössä ja yksityisen varastoinnin asetuksessa edellytetyllä tavalla. Tullilaitos tarkastaa hyväksyttyjen varastoitavien tuotteiden valmistajien tuotantoa koskevan kirjanpidon vaatimustenmukaisuuden EU:n interventiolainsäädännössä ja yksityisen varastoinnin asetuksessa edellytetyllä tavalla. Elintarviketurvallisuusvirasto voi käyttää tarkastuksissa apunaan kunnan elintarvikevalvontaviranomaisia, jos Elintarviketurvallisuusvirasto ja kunta, jonka toimialueella kyseinen laitos sijaitsee, näin sopivat. Valtioneuvoston asetuksella säädetään tarkemmin tarkastustehtävistä, joissa kunnan elintarvikeviranomainen avustaa Elintarviketurvallisuusvirastoa. Tässä pykälässä tarkoitetuilla viranomaisilla on oikeus päästä tarkastusta varten hyväksymistä hakevan ja hyväksytyn varastoitavien tuotteiden valmistajan hyväksymisen kohteena olevien tuotteiden valmistuksessa käyttämiin tiloihin ja tarkastaa tuotteet, laitteet, asiakirjat ja kirjanpito laitoksen hyväksymisedellytysten noudattamisen ja valmistuksen vaatimustenmukaisuuden sekä viranomaisille annettujen tietojen oikeellisuuden varmistamisen edellyttämässä laajuudessa. Tarkastusta ei kuitenkaan saa suorittaa pysyväisluonteiseen asumiseen käytettävässä tilassa.",
+      "section_number": "52",
+      "chapter_number": 9,
+      "statute_id": "1234/2007"
+    },
+    {
+      "id": "d781f002-6b5f-41bd-84c3-48859b261c99",
+      "node_type": "Section",
+      "publisher": "finlex",
+      "title": "53 § Varastoon toimitettavien ja sieltä poistettavien tuotteiden tarkastus",
+      "text": "Maaseutuvirasto tarkastaa luuttomaksi leikattavan naudanlihan, elinkeino-, liikenne- ja ympäristökeskus viljatuotteiden ja tullilaitos muiden tuotteiden määrän, laadun, pakkaustavan ja pakkausmerkintöjen vaatimustenmukaisuuden tuotteiden interventiovarastoon ja yksityisessä varastoinnissa käytettäviin tiloihin toimittamisen yhteydessä EU:n interventiolainsäädännössä ja yksityisen varastoinnin asetuksessa tarkoitetulla tavalla. Elintarviketurvallisuusvirasto kuitenkin ottaa ja tutkii näytteet interventiovarastoon toimitettavasta voista ja maitojauheesta sekä tutkii interventiovarastoon toimitettavista viljatuotteista otetut näytteet. Elinkeino-, liikenne- ja ympäristökeskus tarkastaa sen lisäksi, mitä 1 momentissa säädetään, yksittäisten interventiovarastolle toimitettavien viljatuotekuormien laadun aistinvaraisesti (viljatuotteiden alustava laaduntarkastus) ennen tuotteiden siirtoa varastoon, jos tämä on tarpeen selvästi laatuvaatimuksista poikkeavien erien erottamisen varmistamiseksi. Tullilaitos tarkastaa tuotteiden määrän, laadun, pakkaustavan ja pakkausmerkintöjen vaatimustenmukaisuuden yksityisessä varastoinnissa käytettävistä tiloista poistamisen yhteydessä yksityisen varastoinnin asetuksessa tarkoitetulla tavalla. Maaseutuvirasto tarkastaa luuttomaksi leikattavan naudanlihan, elinkeino-, liikenne- ja ympäristökeskus viljatuotteiden ja tullilaitos muiden tuotteiden määrän, laadun, pakkaustavan ja pakkausmerkintöjen vaatimustenmukaisuuden interventiovarastosta poistamisen yhteydessä, jos tämä on tarpeen tuotteiden vaatimustenmukaisuuden varmistamiseksi. Tässä pykälässä tarkoitetulla viranomaisella on tuotteiden varastoon toimittamisen tai sieltä poistamisen yhteydessä oikeus päästä tuotteiden varastointiin ja lastaamiseen käytettyihin tiloihin ja tarkastaa tuotteet ja niitä koskevat tuotteiden toimittajan asiakirjat sekä varastonpitäjän tuotteita koskevat asiakirjat ja kirjanpito tuotteiden vaatimustenmukaisuuden ja annettujen tietojen oikeellisuuden varmistamisen edellyttämässä laajuudessa. Jos viljatuotteet tarjotaan interventiovarastoon niiden varastointipaikassa tai jos tarjottujen viljatuotteiden sijaintia ilmoitetussa varastointipaikassa on syytä epäillä, viranomaisella on lisäksi oikeus päästä varastoinnissa ennen tuotteiden toimittamista interventiovarastoon käytettäviin tiloihin ja tarkastaa tuotteet ja tuotteita koskevat varastonpitäjän ja tarjoajan asiakirjat ja kirjanpito. Tarkastusta ei kuitenkaan saa suorittaa pysyväisluonteiseen asumiseen käytettävässä tilassa.",
+      "section_number": "53",
+      "chapter_number": 9,
+      "statute_id": "1234/2007"
+    },
+    {
+      "id": "51a99486-444d-4d2a-8483-43cd33f73ca9",
+      "node_type": "Section",
+      "publisher": "finlex",
+      "title": "54 § Tuonnin ja viennin tarkastukset",
+      "text": "Tullilaitos tarkastaa tuonti- ja vientitodistusten, tuonti- ja vienti-ilmoitusten ja muiden tuonnin ja viennin yhteydessä esitettävien asiakirjojen ja näihin liittyvien tuotteiden sekä vientitukituotteiden ja näihin liittyvien asiakirjojen vaatimustenmukaisuuden tuotteiden tullimenettelyyn asettamisen yhteydessä ja sen aikana. Viranomaisesta, joka suorittaa nautaeläinten vientituen myöntämisen edellytyksenä olevan eläinkuljetusten vientitukiasetuksen 2 artiklassa tarkoitetun tarkastuksen, säädetään kuitenkin eläinten kuljetuksesta annetun lain (1429/2006) 27 §:ssä. Tullilaitoksella on tarkastuksen toimittamiseksi oikeus päästä varastoihin, tiloihin ja muihin paikkoihin, missä tuotteita kuljetetaan, säilytetään tai lastataan ja tarkastaa tuotteet sekä tuotteita, tuotteiden haltijaa, muuta asianosaista ja kulkuneuvoa koskevat asiakirjat tuotteiden ja niistä esitettyjen tietojen vaatimustenmukaisuuden varmistamisen edellyttämässä laajuudessa. Tarkastusta ei kuitenkaan saa suorittaa pysyväisluonteiseen asumiseen käytettävässä tilassa. Eläinkuljetusten vientitukiasetuksen 2 artiklassa tarkoitettuun tarkastukseen liittyvästä rajaeläinlääkärin tarkastusoikeudesta säädetään eläinten kuljetuksesta annetun lain 28 §:ssä. Tullilaitos voi tarkastusten yhteydessä edellyttää tuotteiden tarkastettavaksi asettamista ja purkamista kulkuneuvosta ja asettaa tullivalvonnassa olevaan kulkuneuvoon tullisinetin. Tullilaitos voi estää tuotteiden tuonnin Suomen alueelle tai viennin Suomesta, jos tuonti tai vienti edellyttää EU:n markkinajärjestelylainsäädännön nojalla tuonti- tai vientitodistusta eikä sitä ole taikka jos tuonti edellyttää tuontitullin tai maksun maksamista eikä sitä ole maksettu. Jos vientituen hakija käyttää vientituen kohteena olevien tuotteiden määräpaikkaan saapumisen varmistamisessa eräitä Venäjän federaation alueelle maanteitse vietäviä naudanliha- ja sianlihatoimituksia koskevasta tiedotusjärjestelmästä annetussa komission asetuksessa (EY) N:o 2584/2000 tarkoitettua järjestelmää, Tullihallitus vastaanottaa, käsittelee ja varmistaa kyseiset tiedot mainitussa asetuksessa tarkoitetulla tavalla.",
+      "section_number": "54",
+      "chapter_number": 9,
+      "statute_id": "1234/2007"
+    },
+    {
+      "id": "772667a2-0247-455d-9da5-419b4941116c",
+      "node_type": "Section",
+      "publisher": "finlex",
+      "title": "55 § Tuen hakijoiden ja saajien tarkastukset",
+      "text": "Maaseutuvirasto tarkastaa tässä laissa tarkoitettuja tuen hakijoita ja saajia tuen myöntämisen ja maksamisen edellytysten vaatimustenmukaisuuden selvittämiseksi EU:n markkinajärjestelylainsäädännössä edellytetyllä tavalla. Maaseutuvirasto tarkastaa lisäksi mehiläishoitotuen saajia tuen myöntämisen ja maksamisen edellytysten vaatimustenmukaisuuden selvittämiseksi. Maaseutuvirastolla on oikeus päästä tuen kohteena olevaan toimintaan liittyviin tuen hakijan ja saajan tiloihin ja tarkastaa tuotteet, asiakirjat ja kirjanpito toimenpiteiden vaatimustenmukaisuuden ja tuen myöntämis- ja maksamisedellytysten noudattamisen varmistamisen edellyttämässä laajuudessa. Tarkastusta ei kuitenkaan saa suorittaa pysyväisluonteiseen asumiseen käytettävässä tilassa.",
+      "section_number": "55",
+      "chapter_number": 9,
+      "statute_id": "1234/2007"
+    },
+    {
+      "id": "e0f8ff40-d18f-4061-8db4-545561a6fb5a",
+      "node_type": "Section",
+      "publisher": "finlex",
+      "title": "56 § Hyväksyttyjen toimijoiden ja hintaselvityksiä antavien toimijoiden tarkastukset",
+      "text": "Tullilaitos tarkastaa: Maaseutuvirasto tarkastaa: Tullilaitoksella ja Maaseutuvirastolla on niille tämän pykälän nojalla kuuluvien tarkastustehtävien hoitamiseksi oikeus päästä hyväksymistä hakevan ja hyväksytyn toimijan hyväksymisen kohteena olevaa toimintaa koskeviin tiloihin ja tarkastaa tuotteet, laitteet, asiakirjat ja kirjanpito hyväksymisedellytysten täyttymisen ja toiminnan vaatimustenmukaisuuden varmistamisen edellyttämässä laajuudessa. Jos hyväksytyn hampun siementen tuojan tuomia hampun siemeniä käyttää muu kuin hyväksytty hampun siementen tuoja, Maaseutuvirastolla on lisäksi oikeus päästä tuotteiden käyttäjän tiloihin ja tarkastaa edellä mainitut seikat tuotteiden käytön vaatimustenmukaisuuden valvonnan edellyttämässä laajuudessa. Tarkastusta ei kuitenkaan saa suorittaa pysyväisluonteiseen asumiseen käytettävässä tilassa. Maaseutuvirastolla on oikeus päästä hintaselvityksen antamisesta vastaavan toimijan tiloihin ja tarkastaa ilmoitusvelvollisuuden kattamaan toimintaan liittyvät asiakirjat ja kirjanpito ilmoitusvelvollisuuden noudattamisen ja ilmoitettujen tietojen oikeellisuuden varmistamisen edellyttämässä laajuudessa. Tarkastusta ei kuitenkaan saa suorittaa pysyväisluonteiseen asumiseen käytettävässä tilassa.",
+      "section_number": "56",
+      "chapter_number": 9,
+      "statute_id": "1234/2007"
+    },
+    {
+      "id": "3c374a50-98a1-4552-a661-0f348e4c2a98",
+      "node_type": "Section",
+      "publisher": "finlex",
+      "title": "57 § Tuotteiden käytön ja määräpaikan tarkastukset",
+      "text": "Jos EU:n markkinajärjestelylainsäädännössä edellytetään interventiovarastosta peräisin olevien tuotteiden tai vientituen kohteena olevien tuotteiden taikka muiden markkinajärjestelyyn liittyvien tuotteiden käytön tai määräpaikkaan saapumisen valvontaa tähän tarkoitukseen vahvistetulla asiakirjalla tai menettelyllä, tullilaitos tarkastaa kyseiset tuotteet ja asiakirjat. Tullihallitus voi antaa EU:n markkinajärjestelylainsäädännössä sallittuja tuotteiden käytön tai määräpaikkaan saapumisen todistamisesta vastaavaa toimijaa koskevia tarkempia määräyksiä asiakirjoja koskevista vähäisistä täydennyksistä, jos nämä ovat tarpeen tuotteiden käytön tai määräpaikkaan saapumisen todistamiseksi. Tullilaitoksella on oikeus päästä kuljetuksessa käytettäviin kulkuneuvoihin ja tuotteiden käyttöön ja määräpaikkaan liittyviin tiloihin ja tarkastaa valvonnan kohteena olevat tuotteet sekä tuotteita ja niiden käyttöä ja kuljetusta koskevat asiakirjat EU:n markkinajärjestelylainsäädännössä tarkoitettujen kyseistä menettelyä koskevien vaatimusten noudattamisen varmistamisen edellyttämässä laajuudessa. Tarkastusta ei kuitenkaan saa suorittaa pysyväisluonteiseen asumiseen käytettävässä tilassa.",
+      "section_number": "57",
+      "chapter_number": 9,
+      "statute_id": "1234/2007"
+    },
+    {
+      "id": "a05bf78e-9345-4705-92f7-3be5b2f228d3",
+      "node_type": "Section",
+      "publisher": "finlex",
+      "title": "58 § Kaupallisten asiakirjojen tarkastukset",
+      "text": "Tullilaitos tarkastaa EU:n markkinajärjestelylainsäädännössä tarkoitettua tukea tai muuta korvausta saavan sekä hyväksytyn sokerialan yrityksen jälkitarkastusasetuksessa tarkoitettuja kaupallisia asiakirjoja. Tullilaitoksella on oikeus päästä EU:n markkinajärjestelylainsäädännössä tarkoitettua tukea tai muuta korvausta saavan toimijan ja hyväksytyn sokerialan yrityksen tiloihin ja tarkastaa tämän mainittuun toimintaan liittyvät asiakirjat ja kirjanpito tuen tai korvauksen myöntämisedellytysten tai maksun perusteiden oikeellisuuden varmistamisen edellyttämässä laajuudessa. Tarkastusta ei kuitenkaan saa suorittaa pysyväisluonteiseen asumiseen käytettävässä tilassa.",
+      "section_number": "58",
+      "chapter_number": 9,
+      "statute_id": "1234/2007"
+    },
+    {
+      "id": "c28acd12-296b-4952-932b-d75c3c7ea475",
+      "node_type": "Section",
+      "publisher": "finlex",
+      "title": "59 § Yksityisten toimijoiden käyttö apuna tarkastuksissa",
+      "text": "Tässä luvussa tarkoitettu tarkastuksesta vastaava viranomainen voi käyttää tarkastuksessa apuna ulkopuolista tilintarkastajaa tämän suostumuksella, jos tämä on tarpeen tarkastuksen tarkoituksenmukaiseksi toteuttamiseksi. Tilintarkastajan on oltava tilintarkastuslaissa (459/2007) tai julkishallinnon ja -talouden tilintarkastajista annetussa laissa (467/1999) tarkoitettu tilintarkastaja tai tilintarkastusyhteisö. Tilintarkastusyhteisön on nimettävä tarkastuksesta vastuullinen tilintarkastaja. Maaseutuvirasto voi oikeuttaa elinkeino-, liikenne- ja ympäristökeskuksen käyttämään interventiovarastoon toimitettavien viljatuotteiden tarkastuksessa apuna viljatuotteiden interventiovarastonpitäjää tämän suostumuksella, jos tämä on tarpeen tarkastusten tarkoituksenmukaiseksi toteuttamiseksi. Interventiovarastonpitäjällä on oltava tehtävän edellyttämät riittävät tekniset ja hallinnolliset resurssit ja tämän tarkastuksessa käyttämällä henkilöstöllä tehtävän edellyttämä kokemukseen tai koulutukseen perustuva riittävä ammattitaito. Interventiovarastonpitäjän on kirjattava ja ilmoitettava Maaseutuvirastolle toteutettuihin tarkastuksiin liittyvät tiedot. Henkilökunnan ammattitaidosta, interventiovarastolta edellytettävistä resursseista sekä kirjattavista ja ilmoitettavista tiedoista voidaan antaa tarkempia säännöksiä valtioneuvoston asetuksella. Maaseutuvirasto voi käyttää ruhonluokituksen tarkastuksessa apuna yksityisoikeudellista yhteisöä tämän suostumuksella, jos tämä on tarpeen tarkastuksen tarkoituksenmukaiseksi toteuttamiseksi. Yhteisöllä on oltava käytettävissä tehtävään riittävä määrä henkilöitä, joilla on tarkastusten toteuttamisen edellyttämä koulutukseen tai kokemukseen perustuva ammattitaito. Edellytettävästä ammattitaidosta voidaan antaa tarkempia säännöksiä valtioneuvoston asetuksella. Yhteisön on nimettävä tarkastuksista vastuulliset henkilöt. Tarkastuksessa avustavaan sovelletaan tämän luvun mukaisissa tehtävissä rikosoikeudellista virkavastuuta koskevia säännöksiä. Vahingonkorvausvastuusta säädetään vahingonkorvauslaissa (412/1974).",
+      "section_number": "59",
+      "chapter_number": 9,
+      "statute_id": "1234/2007"
+    },
+    {
+      "id": "4de7082e-1fc3-4e4e-bed6-5d64c53b7f7e",
+      "node_type": "Section",
+      "publisher": "finlex",
+      "title": "60 § Todentamisviranomaisen tarkastukset",
+      "text": "Euroopan yhteisön yhteisen maatalouspolitiikan täytäntöönpanosta annetun lain (1100/1994) 2 §:n 4 momentin nojalla nimetty rahoitusasetuksen 7 artiklassa tarkoitettutodentamisviranomainenvoi maksajavirastoasetuksen 5 artiklassa säädetyn todistuksen myöntämiseksi välttämättömien tutkimusten tekemiseksi sekä muiden erikseen EU:n lainsäädännössä todentamisviranomaisen tehtäväksi säädettyjen tarkastusten suorittamiseksi tehdä tarkastuksia niissä viranomaisissa tai yhteisöissä, jotka suorittavat maksajavirastolle säädettyjä tehtäviä, taikka tuensaajan, interventiovarastonpitäjän tai hyväksytyn sokerialan yrityksen luona. Tarkastusta suorittavalla on oikeus tarkastaa tehtävänsä edellyttämässä laajuudessa tuensaajan, interventiovarastonpitäjän ja hyväksytyn sokerialan yrityksen rakennukset, toimitilat ja muut tuen tai korvauksen maksamisen taikka hyväksymisen edellytyksenä olevat olosuhteet. Tarkastusta ei kuitenkaan saa suorittaa pysyväisluonteiseen asumiseen käytettävässä tilassa. Todentamisviranomaisella on salassapitosäännösten estämättä oikeus saada viranomaisilta tarkastustehtävän suorittamiseksi välttämättömiä tietoja. Tarkastustehtävää suoritettaessa todentamisviranomaiseen sovelletaan rikosoikeudellista virkavastuuta koskevia säännöksiä. Vahingonkorvausvastuusta säädetään vahingonkorvauslaissa.",
+      "section_number": "60",
+      "chapter_number": 9,
+      "statute_id": "1234/2007"
+    },
+    {
+      "id": "78d1e856-fcfb-4721-80ca-1f71b8d587a2",
+      "node_type": "Section",
+      "publisher": "finlex",
+      "title": "61 § Näytteenotto ja näytteiden tutkiminen",
+      "text": "Jos tarkastuksen toteuttaminen edellyttää näytteenottoa, tarkastuksesta vastaavalla viranomaisella ja tarkastuksessa apuna käytettävällä viranomaisella sekä tarkastuksessa apuna käytettävällä yksityisoikeudellisella toimijalla on oikeus ottaa korvauksetta valvontaa varten tarvittava määrä näytteitä. Jos tarkastuksen toteuttaminen edellyttää näytteiden laadun analysointia laboratoriossa, analysointi toteutetaan tarkastuksen toimittamisesta huolehtivan viranomaisen laboratoriossa taikka elintarvikelain (23/2006) 37 §:ssä tarkoitetussa vertailulaboratoriossa tai viranomaisnäytteitä tutkimaan hyväksytyssä laboratoriossa.",
+      "section_number": "61",
+      "chapter_number": 9,
+      "statute_id": "1234/2007"
+    },
+    {
+      "id": "c6fded7b-06b3-475d-8050-716fe9cfa115",
+      "node_type": "Section",
+      "publisher": "finlex",
+      "title": "62 § Avustamisvelvollisuus tarkastuksessa",
+      "text": "Tässä luvussa tarkoitetun tarkastuksen kohteena olevalla toimijalla on velvollisuus antaa tarkastuksesta vastaavan viranomaisen käyttöön maksutta tarkastuksen suorittamiseksi tarpeelliset asiakirjat ja tiedot. Viranomaisen on palautettava tälle luovutettu aineisto viivytyksettä sen jälkeen, kun aineiston hallussapito ei ole tarpeen tarkastuksen toteuttamiseksi. Tässä luvussa tarkoitetulla tarkastusten kohteena olevalla toimijalla on velvollisuus antaa tarkastuksesta vastaavan viranomaisen käyttöön tarkastusten toteuttamisen edellyttämät tilat ja laitteet sekä asettaa tarkastettavat tuotteet esille siten, että ne voidaan tarkastaa. Tarkastuksen kohteena olevan toimijan on sallittava näytteiden ottaminen tarkastusten edellyttämässä laajuudessa. Tässä luvussa tarkoitetun tarkastusten kohteena olevan toimijan on tarvittaessa avustettava tarkastustoimenpiteiden toteuttamisessa ja näytteidenotossa.",
+      "section_number": "62",
+      "chapter_number": 9,
+      "statute_id": "1234/2007"
+    },
+    {
+      "id": "ff1d21ff-2115-4668-9b54-fae374abf01b",
+      "node_type": "Section",
+      "publisher": "finlex",
+      "title": "63 § Maa- ja metsätalousministeriön, Maaseutuviraston ja tarkastusviranomaisen tiedonsaantioikeus",
+      "text": "Maa- ja metsätalousministeriöllä ja Maaseutuvirastolla sekä tämän luvun mukaisesti tarkastuksista vastaavilla viranomaisilla on salassapitosäännösten estämättä oikeus saada maksutta valtion ja kunnan viranomaiselta asian käsittelemiseksi välttämättömiä, hakijaa, tämän taloudellista asemaa ja liike- tai ammattitoimintaa tai muita tuen tai muun tässä laissa tai EU:n markkinajärjestelylainsäädännössä tarkoitetun asian käsittelemisen, tarkastuksen suorittamisen tai raportoinnin toteuttamisen kannalta merkityksellistä olosuhdetta koskevia tietoja. Maa- ja metsätalousministeriöllä ja Maaseutuvirastolla sekä tämän luvun mukaisesti tarkastusten toimittamisesta huolehtivilla viranomaisilla on salassapitosäännösten estämättä oikeus saada maksutta tässä laissa tai EU:n markkinajärjestelylainsäädännössä tarkoitettua toimintaa harjoittavilta toimijoilta tässä laissa tai EU:n markkinajärjestelylainsäädännössä tarkoitetun asian käsittelemisen, tarkastuksen suorittamisen tai raportoinnin kannalta välttämättömät asiakirjat ja tiedot.",
+      "section_number": "63",
+      "chapter_number": 9,
+      "statute_id": "1234/2007"
+    },
+    {
+      "id": "a046186e-37fd-43f5-a66b-a893e193616c",
+      "node_type": "Section",
+      "publisher": "finlex",
+      "title": "64 § Tarkastuksia ohjaavien viranomaisten ja EU:n lainsäädännössä tarkoitettujen viranomaisten tarkastus- ja tiedonsaantioikeus",
+      "text": "Mitä tässä luvussa säädetään tarkastuksesta vastaavan viranomaisen tarkastusoikeudesta, koskee myös kyseisen tarkastuksen yleisestä ohjauksesta vastaavaa maa- ja metsätalousministeriötä ja Maaseutuvirastoa. EU:n varojen asianmukaisen hallinnon ja käytön varmistamiseksi Maaseutuvirastolla on oikeus suorittaa maksajavirastoasetuksessa tarkoitettua laadunvalvontaa niissä viranomaisissa, jotka suorittavat maksajavirastolle säädettyjä tehtäviä. Mitä tässä luvussa säädetään tarkastuksesta vastaavan viranomaisen tarkastus- ja tiedonsaantioikeudesta, koskee myös rahoitusasetuksessa tarkoitettuja EU:n komission tarkastustehtäviä suorittavia henkilöitä. Vastaava tarkastus- ja tiedonsaantioikeus on muilla EU:n lainsäädännössä tarkoitetuilla viranomaisilla, joiden tehtäviin kuuluu vastaavanlaisia tarkastustehtäviä.",
+      "section_number": "64",
+      "chapter_number": 9,
+      "statute_id": "1234/2007"
+    },
+    {
+      "id": "28a10b83-48b1-4aab-a77e-951cc80ad994",
+      "node_type": "Section",
+      "publisher": "finlex",
+      "title": "65 § Viranomaisen oikeus luovuttaa tietoja muille viranomaisille",
+      "text": "Maa- ja metsätalousministeriö ja Maaseutuvirasto päättävät sellaisten tietojen luovuttamisesta EU:n toimielimille, jotka ne ovat saaneet tämän lain toimeenpanon yhteydessä ja joiden luovuttamiseen jäsenvaltiolla on EU:n lainsäädännön nojalla velvollisuus. Sama oikeus on myös muulla viranomaisella, jonka tehtäviin tietojen luovuttaminen tämän lain mukaan kuuluu. Maa- ja metsätalousministeriön tai Maaseutuviraston päätöksessä määriteltävien tietojen luovuttamisesta voi, jos asianomainen viranomainen sen hyväksyy, huolehtia tässä laissa tarkoitettu tarkastuksesta tai tietojen keräämisestä vastaava viranomainen. Tämän lain noudattamisen valvontaan liittyvää tehtävää suoritettaessa saatuja tietoja saa salassapitovelvollisuuden estämättä luovuttaa syyttäjä-, poliisi- ja tulliviranomaisille rikoksen selvittämiseksi.",
+      "section_number": "65",
+      "chapter_number": 9,
+      "statute_id": "1234/2007"
+    },
+    {
+      "id": "6f439d02-18d2-4bce-9415-f013fec4541f",
+      "node_type": "Section",
+      "publisher": "finlex",
+      "title": "66 § Valvonnan toteuttamiseen liittyvät kirjattavia ja ilmoitettavia tietoja koskevat vaatimukset",
+      "text": "Tietojen kirjaamiseen ja ilmoittamiseen liittyvistä velvollisuuksista, jotka koskevat interventiovarastonpitäjää, interventiomyyjää ja interventio-ostajaa, tuen hakijaa ja saajaa, hintaselvityksiä antamaan velvollista toimijaa sekä EU:n markkinajärjestelylainsäädännössä tai tässä laissa tarkoitetun hyväksymisen saanutta toimijaa, säädetään tämän lain lisäksi EU:n markkinajärjestelylainsäädännössä. Valtioneuvoston asetuksella voidaan antaa EU:n markkinajärjestelylainsäädännössä sallittuja tai edellytettyjä tarkempia säännöksiä kirjattavia ja ilmoitettavia tietoja koskevista:",
+      "section_number": "66",
+      "chapter_number": 9,
+      "statute_id": "1234/2007"
+    },
+    {
+      "id": "5548e39a-7f33-442d-a2c5-bebc40234d66",
+      "node_type": "Section",
+      "publisher": "finlex",
+      "title": "67 § Tietojen kirjaamistapa",
+      "text": "Jos EU:n markkinajärjestelylainsäädännössä tai tässä laissa säädetään toimijan velvollisuudesta kirjata tämän toimintaan liittyviä tietoja, tiedot on kirjattava luotettavalla tavalla ja siten, että ne ovat helposti tarkastettavissa. Tietojen kirjaamistavasta voidaan antaa tarkempia säännöksiä valtioneuvoston asetuksella.",
+      "section_number": "67",
+      "chapter_number": 9,
+      "statute_id": "1234/2007"
+    },
+    {
+      "id": "72731cbc-715b-4f7c-aa71-13f5b77d8ccc",
+      "node_type": "Section",
+      "publisher": "finlex",
+      "title": "68 § Asiakirjojen säilyttäminen",
+      "text": "Interventiovarastonpitäjän, tuen hakijan ja saajan, hintaselvityksiä antamaan velvollisen toimijan ja EU:n markkinajärjestelylainsäädännössä tai tässä laissa tarkoitetun hyväksymisen saaneen toimijan on säilytettävä kyseiseen toimintaan liittyvät asiakirjat neljä vuotta sen vuoden lopusta, jolloin toimi saatettiin päätökseen, jollei muualla lainsäädännössä säädetä pidemmästä säilytysajasta. Säilytettävistä asiakirjoista voidaan antaa tarkempia säännöksiä maa- ja metsätalousministeriön asetuksella.",
+      "section_number": "68",
+      "chapter_number": 9,
+      "statute_id": "1234/2007"
+    },
+    {
+      "id": "d443941f-2271-4f02-9861-9e25136deefa",
+      "node_type": "Section",
+      "publisher": "finlex",
+      "title": "69 § Hakijaa koskevien tietojen rekisteröiminen",
+      "text": "Maaseutuvirasto voi rekisteröidä vakuuksien, maksujen tai muiden vastaavien toimenpiteiden teknisessä toteuttamisessa tarpeellisia tietoja, jotka interventiovarastonpitäjä taikka tässä laissa tarkoitettu tukea, todistusta tai hyväksymistä hakenut tai tarjouksen tehnyt toimija on sille ilmoittanut. Toimijalle annetaan ensimmäisen tietojen ilmoittamisen yhteydessä rekisteritunnus, jota tämä voi myöhemmin käyttää asioidessaan Maaseutuvirastossa tässä laissa tarkoitetussa asiassa. Rekisteröidyt tiedot ovat osa maaseutuelinkeinohallinnon tietojärjestelmästä annetun lain mukaista tietojärjestelmää. Tietojen käyttötarkoitukseen, sisältöön, rekisterin ylläpitoon sekä siihen sisältyvien tietojen julkisuuteen, luovuttamiseen ja säilyttämiseen sovelletaan mainittua lakia.",
+      "section_number": "69",
+      "chapter_number": 10,
+      "statute_id": "1234/2007"
+    },
+    {
+      "id": "c9fbb88e-c72a-43c8-9b7a-3302de1cd35e",
+      "node_type": "Section",
+      "publisher": "finlex",
+      "title": "70 § Hakemusten ja ilmoitusten muotovaatimukset",
+      "text": "Hakemus ja ilmoitus on tehtävä kirjallisesti ja allekirjoitettava. Vientitukea koskeva hakemus on kuitenkin tehtävä soveltamisasetuksen 787 artiklassa tarkoitetulla sähköisellä vienti-ilmoituksella, jollei kyseessä ole yhteisön tullikoodeksista (uudistettu tullikoodeksi) annetun Euroopan parlamentin ja neuvoston asetuksen (EY) N:o 450/2008 5 artiklassa tarkoitettu tilanne. Sen lisäksi, mitä EU:n markkinajärjestelylainsäädännössä säädetään velvollisuudesta käyttää määrämuotoista hakemusta tai ilmoitusta, tukea koskeva hakemus on tehtävä Maaseutuviraston tähän tarkoitukseen vahvistamalla lomakkeella. Hakemukseen ja ilmoitukseen on liitettävä sen käsittelemisen kannalta tarpeelliset selvitykset. Maaseutuvirasto voi antaa määräyksiä hakemuksissa ja ilmoituksissa esitettävistä tiedoista. Jos EU:n markkinajärjestelylainsäädännössä säädetään, että tuotteiden myynti interventiovarastoon tai osto sieltä tai tuen hakeminen taikka muu toimenpide on toteutettava hakemuksen sijaan tarjouksen perusteella, tarjoukseen sovelletaan, mitä tässä laissa säädetään hakemuksesta.",
+      "section_number": "70",
+      "chapter_number": 10,
+      "statute_id": "1234/2007"
+    },
+    {
+      "id": "703f87fa-ac63-4b45-a849-b8085bf04358",
+      "node_type": "Section",
+      "publisher": "finlex",
+      "title": "71 § Päätös ja sen tiedoksianto",
+      "text": "Automaattisessa tietojenkäsittelyssä aikaansaatuna asiakirjana annettava päätös ja asian käsittelyyn liittyvät muut asiakirjat voidaan allekirjoittaa koneellisesti. Interventiovarastointia tai yksityisen varastoinnin tukea koskevan hakemuksen tai tarjouksen perusteella tehtävä päätös annetaan tiedoksi siten kuin sähköisestä asioinnista viranomaistoiminnassa annetun lain (13/2003) 19 §:ssä säädetään. Jollei hakija tai tarjoaja ole antanut suostumusta tällaiseen tiedoksiantoon, päätös annetaan tiedoksi siten kuin hallintolain 60 §:ssä säädetään.",
+      "section_number": "71",
+      "chapter_number": 10,
+      "statute_id": "1234/2007"
+    },
+    {
+      "id": "410aa6c9-349e-4fca-9764-6cd41bc3b37b",
+      "node_type": "Section",
+      "publisher": "finlex",
+      "title": "72 § Maksatuksen hakeminen",
+      "text": "Tuen saajan on haettava tuen maksatusta tukihakemuksesta erillisellä hakemuksella, jos kyseessä on toteutuneiden kustannusten korvaamiseen perustuva tuki tai jos EU:n markkinajärjestelylainsäädännössä tätä edellytetään. Tämän lain tai EU:n markkinajärjestelylainsäädännön nojalla toimijalle korvattavien kustannusten maksatusta on haettava erillisellä hakemuksella. Interventiovarastoon ostettujen tuotteiden toimittamiseen liittyvät korvattavat kustannukset voidaan kuitenkin maksaa tuotteiden myyntiä koskevan tarjouksen tai hakemuksen perusteella, jos interventiomyyjä on antanut tarjouksessa tai hakemuksessa maksun suorittamiseksi tarpeelliset tiedot.",
+      "section_number": "72",
+      "chapter_number": 10,
+      "statute_id": "1234/2007"
+    },
+    {
+      "id": "3cbefdc7-4d59-4733-8fb1-29f264d5ce12",
+      "node_type": "Section",
+      "publisher": "finlex",
+      "title": "73 § Tuen maksaminen ennakolta tai useassa erässä",
+      "text": "Sen lisäksi, mitä EU:n markkinajärjestelylainsäädännössä säädetään tuen maksamisesta ennakolta, vientituen maksamiseen ennakolta sovelletaan, mitä vientitukiasetuksen 37 artiklassa säädetään. Sen lisäksi, mitä EU:n markkinajärjestelylainsäädännössä säädetään jäsenvaltion velvollisuudesta maksaa tukea useassa erässä, voidaan tuottajaorganisaatiotukea maksaa hakemuksesta useassa erässä EU:n hedelmä- ja vihannesasetuksen 72 artiklassa säädetyin edellytyksin. Lisäksi edellytyksenä on, että yksittäinen erä ei ole määrältään vähäinen. Valtioneuvoston asetuksella voidaan antaa tarkempia säännöksiä maksettavan erän vähimmäismäärästä. Mehiläishoitotukea voidaan maksaa hakemuksesta useassa erässä toteutetuista toimenpiteistä aiheutuneiden kustannusten mukaisesti, ei kuitenkaan useammin kuin kerran kuukaudessa.",
+      "section_number": "73",
+      "chapter_number": 10,
+      "statute_id": "1234/2007"
+    },
+    {
+      "id": "c05f67b9-78c7-42b3-aeef-e22d6cc414a8",
+      "node_type": "Section",
+      "publisher": "finlex",
+      "title": "74 § Tuen takaisinperiminen",
+      "text": "Maaseutuviraston on perittävä takaisin virheellisesti tai perusteetta maksettu tuki siten kuin takaisinperinnän edellytyksistä EU:n markkinajärjestelylainsäädännössä säädetään. Virheellisesti tai perusteetta maksetun mehiläishoitotuen takaisinperintään sovelletaan, mitä valtionavustuslain 21 ja 22 §:ssä säädetään. Tukea ei peritä takaisin, jos perittävä määrä on tukijärjestelmässä myönnetyn yksittäisen tuen osalta ilman korkoja alle 100 euroa. Vientituen osalta 100 euron määrän laskemistapaan sovelletaan kuitenkin, mitä siitä vientitukiasetuksessa säädetään.",
+      "section_number": "74",
+      "chapter_number": 10,
+      "statute_id": "1234/2007"
+    },
+    {
+      "id": "46d9c708-a05e-43fa-9108-5a42dc5bcb52",
+      "node_type": "Section",
+      "publisher": "finlex",
+      "title": "75 § Seuraamusmaksun määrääminen",
+      "text": "Seuraamusmaksun edellytyksistä säädetään EU:n markkinajärjestelylainsäädännössä. Seuraamusmaksun määrää Maaseutuvirasto. Vientitukeen liittyvää seuraamusmaksua ei kuitenkaan määrätä, jos sen määrä on 100 euroa tai pienempi vienti-ilmoitusta kohti.",
+      "section_number": "75",
+      "chapter_number": 10,
+      "statute_id": "1234/2007"
+    },
+    {
+      "id": "af3e06b8-a535-4d69-a257-d9c58963e7dd",
+      "node_type": "Section",
+      "publisher": "finlex",
+      "title": "76 § Takaisinperittävän tuen ja seuraamusmaksun korko",
+      "text": "Takaisinperittävälle tuelle on suoritettava korkoa, joka lasketaan sen ajan perusteella, joka kuluu takaisinperintää koskevan päätöksen tiedoksisaannin ja saatavan suorittamisen välillä, jollei koron laskemistavasta tai koron perimättä jättämisestä EU:n markkinajärjestelylainsäädännössä muuta säädetä. Jos takaisinperittävä vientituki maksetaan takaisinperintäpäätöksessä asetetussa määräajassa korkoineen takaisin, maksu katsotaan korkojen laskemista varten tapahtuvan vientitukiasetuksessa tarkoitetulla tavalla kahdentenakymmenentenä päivänä takaisinperintäpäätöksen jälkeen. Määrätylle seuraamusmaksulle on suoritettava korkoa siten kuin EU:n markkinajärjestelylainsäädännössä säädetään. Perittävän koron määrä on kuusi prosenttia vuotuista korkoa, jollei EU:n markkinajärjestelylainsäädännössä muuta säädetä.",
+      "section_number": "76",
+      "chapter_number": 10,
+      "statute_id": "1234/2007"
+    },
+    {
+      "id": "9b7477a4-0af8-4a8a-9207-517400aef93d",
+      "node_type": "Section",
+      "publisher": "finlex",
+      "title": "77 § Oikaisu",
+      "text": "Jos tuenhakija on saanut tukea vähemmän kuin tämän olisi pitänyt saada tai jos tuki on perusteettomasti kokonaan hylätty, Maaseutuvirasto voi päätöksen lainvoimaisuuden estämättä ja ilman eri hakemusta oikaista virheellisen päätöksen, jos tarkoitusta varten on käytettävissä varoja.",
+      "section_number": "77",
+      "chapter_number": 10,
+      "statute_id": "1234/2007"
+    },
+    {
+      "id": "0f2e8a2c-dd32-4c41-8028-dece55205a79",
+      "node_type": "Section",
+      "publisher": "finlex",
+      "title": "78 § Tuelle maksettava korko",
+      "text": "Jos tuenhakijalle myönnetään tukea tai myönnetyn tuen määrää korotetaan oikaisun johdosta, oikaisun kohteena olevalle tuen määrälle voidaan maksaa kuuden prosentin vuotuista korkoa laskettuna siitä päivästä, jolloin oikaistava päätös oli tehty, oikaisupäätöksen tekopäivään saakka. Korkoa ei kuitenkaan makseta, jos oikaisun tarve on johtunut tuenhakijan toiminnasta. Jos tuenhakijalle myönnetään muutoksenhaun johdosta tukea tai tuen määrää korotetaan, tälle määrälle voidaan maksaa kuuden prosentin vuotuista korkoa laskettuna valituksenalaisen päätöksen tekopäivästä muutoksenhakuviranomaisen päätöksen tekopäivään. Koron maksamisesta päättää tällöin muutoksenhakuviranomainen.",
+      "section_number": "78",
+      "chapter_number": 10,
+      "statute_id": "1234/2007"
+    },
+    {
+      "id": "2d13c49f-c45d-46c6-bbaf-0f9b23f73e1e",
+      "node_type": "Section",
+      "publisher": "finlex",
+      "title": "79 § Viranomaiselle suoritettujen maksujen palautus",
+      "text": "Maaseutuviraston on palautettava väärin perustein tai liikaa peritty maksu, takaisinperitty määrä tai seuraamusmaksu. Palautettavalle määrälle suoritetaan viivekorkoa siten kuin veronlisäyksestä ja viivekorosta annetussa laissa (1556/1995) säädetään.",
+      "section_number": "79",
+      "chapter_number": 10,
+      "statute_id": "1234/2007"
+    },
+    {
+      "id": "e2e4653b-3446-4154-8dfc-98acd385b022",
+      "node_type": "Section",
+      "publisher": "finlex",
+      "title": "80 § Takaisinperintää, seuraamusmaksua ja maksua koskevan päätöksen ajankohta",
+      "text": "Takaisinperintää ja seuraamusmaksun asettamista koskeva päätös on tehtävä ilman aiheetonta viivytystä sen jälkeen, kun päätöksestä vastaavan viranomaisen tietoon on tullut sellainen seikka, jonka nojalla takaisinperintään tai seuraamusmaksun asettamiseen voidaan ryhtyä. Tuen takaisinperintää ja tukeen liittyvän seuraamusmaksun asettamista koskeva päätös on tehtävä viimeistään kymmenen vuoden kuluessa tuen tai, jos se maksetaan osissa, sen viimeisen erän maksamisesta, jollei EU:n markkinajärjestelylainsäädännössä muuta säädetä. Muun kuin tukeen liittyvän seuraamusmaksun asettamista koskeva päätös on tehtävä viimeistään kymmenen vuoden kuluessa seuraamusmaksun perusteena olevasta laiminlyönnistä, virheestä tai toimenpiteestä, jollei EU:n markkinajärjestelylainsäädännössä muuta säädetä. Hyväksytyltä sokerin valmistajalta perittävän tuotantomaksun ja ylijäämämaksun vanhentumiseen sovelletaan verojen ja maksujen täytäntöönpanosta annetun lain (706/2007) 20 §:ää.",
+      "section_number": "80",
+      "chapter_number": 10,
+      "statute_id": "1234/2007"
+    },
+    {
+      "id": "f73a480d-16d7-40a6-9332-04dcf0fc7300",
+      "node_type": "Section",
+      "publisher": "finlex",
+      "title": "81 § Hyväksytyn toimijan hyväksymisen edellytyksiä koskevat muutokset ja selvitykset",
+      "text": "EU:n markkinajärjestelylainsäädännön tai tämän lain nojalla hyväksymisen saaneen toimijan on ilmoitettava hyväksymisen edellytyksiin liittyvistä muutoksista välittömästi niistä tiedon saatuaan hyväksymisen myöntäneelle viranomaiselle. Hyväksytyn toimijan on hyväksymisen myöntäneen viranomaisen pyynnöstä toimitettava hyväksymisen edellytysten tutkimiseksi tarvittavat tiedot.",
+      "section_number": "81",
+      "chapter_number": 11,
+      "statute_id": "1234/2007"
+    },
+    {
+      "id": "ec30150a-ff41-4c23-8b84-3f5855e612c6",
+      "node_type": "Section",
+      "publisher": "finlex",
+      "title": "82 § Korjauskehotus ja huomautus hyväksytylle toimijalle",
+      "text": "Hyväksymisen myöntäneen viranomaisen on annettava hyväksytylle varastoitavien tuotteiden valmistajalle, sokerialan yritykselle, hampun siementen tuojalle, tarkastuslaitokselle, muonitusvarastolle, koulumaitotuen hakijalle, koulumaitotuotteiden toimittajalle, ruhonluokittajalle tai takaajalle taikka muulle EU:n markkinajärjestelylainsäädännössä tarkoitetulle hyväksytylle toimijalle kirjallinen korjauskehotus, jollei EU:n markkinajärjestelylainsäädännöstä muuta johdu, jos tämä: Korjauskehotuksen antaneen viranomaisen on asetettava toimijalle määräaika, jonka kuluessa havaitut puutteet, laiminlyönnit tai rikkomukset on korjattava, jollei määräajan asettaminen ole ilmeisen tarpeetonta. Jos korjaaminen on mahdotonta, hyväksymisen myöntänyt viranomainen voi korjauskehotuksen asemesta antaa toimijalle huomautuksen.",
+      "section_number": "82",
+      "chapter_number": 11,
+      "statute_id": "1234/2007"
+    },
+    {
+      "id": "1b5b1b88-f729-4f06-9fef-49b3763b4a09",
+      "node_type": "Section",
+      "publisher": "finlex",
+      "title": "83 § Hyväksymisen peruuttaminen",
+      "text": "Jollei EU:n markkinajärjestelylainsäädännössä säädetä muuta hyväksymisen edellytysten tai hyväksyttyä toimijaa koskevien vaatimusten laiminlyönnin tai rikkomisen seuraamuksista, hyväksymisen myöntäneen viranomaisen on peruutettava hyväksyminen, jos: Viranomaisen on ennen hyväksymisen peruuttamista kuultava peruuttamisen kohteena olevaa toimijaa.",
+      "section_number": "83",
+      "chapter_number": 11,
+      "statute_id": "1234/2007"
+    },
+    {
+      "id": "cd27f7cf-ce74-4c1d-927b-2f68786f2f2e",
+      "node_type": "Section",
+      "publisher": "finlex",
+      "title": "84 § Peruutetun hyväksymisen uudelleen voimaan saattaminen",
+      "text": "Hyväksymisen peruuttaneen viranomaisen on hakemuksesta päätettävä peruutetun hyväksymisen saattamisesta uudelleen voimaan, jos toimija esittää selvityksen hyväksymisen edellytysten täyttymisestä ja hyväksymisen peruuttamisen syynä olleen puutteen, laiminlyönnin tai rikkomuksen korjaamisesta, jollei EU:n markkinajärjestelylainsäädännössä asiasta muuta säädetä. Jos peruuttaminen on johtunut seikasta, jota ei voida jälkikäteen korjata, mutta toimija esittää riittävän selvityksen toteuttamistaan toimenpiteistä puutteen, laiminlyönnin tai rikkomuksen uusiutumisen estämiseksi, hyväksymisen peruneen viranomaisen on tehtävä päätös hyväksyminen saattamisesta uudelleen voimaan, jollei EU:n markkinajärjestelylainsäädännössä asiasta muuta säädetä.",
+      "section_number": "84",
+      "chapter_number": 11,
+      "statute_id": "1234/2007"
+    },
+    {
+      "id": "1afdad20-0ec8-49f3-8f7d-9b84fd5c2c9d",
+      "node_type": "Section",
+      "publisher": "finlex",
+      "title": "85 § Hintaselvityksiin liittyvät hallinnolliset pakkokeinot",
+      "text": "Jos hintaselvityksen antamisesta vastaava 41 §:ssä tarkoitettu toimija ei toimita tietoja asetetussa määräajassa, Maaseutuvirasto voi antaa sokerialan toimijalle ja maa- ja metsätalousministeriön tietopalvelukeskus muille toimijoille määräyksen toimittaa puuttuvat tiedot asettamassaan määräajassa. Maa- ja metsätalousministeriön tietopalvelukeskus voi asettaa tietojen antamiseen velvolliselle toimijalle hyväksyttyä sokerialan yritystä lukuun ottamatta tietojen toimittamista koskevan määräyksen noudattamisen tehosteeksi uhkasakon. Uhkasakosta säädetään uhkasakkolaissa (1113/1990).",
+      "section_number": "85",
+      "chapter_number": 12,
+      "statute_id": "1234/2007"
+    },
+    {
+      "id": "1d9a42f2-10d5-45b9-a85b-c44084d46c21",
+      "node_type": "Section",
+      "publisher": "finlex",
+      "title": "86 § Takaisinperintää, seuraamusmaksua ja maksua koskevan päätöksen täytäntöönpano",
+      "text": "Tuen takaisinperintää, seuraamusmaksua ja maksua koskevaan viranomaisen päätökseen perustuva saatava on suoraan ulosottokelpoinen. Sen perimisestä säädetään verojen ja maksujen täytäntöönpanosta annetussa laissa.",
+      "section_number": "86",
+      "chapter_number": 12,
+      "statute_id": "1234/2007"
+    },
+    {
+      "id": "320ea981-17a4-4708-bcca-ee49b984807f",
+      "node_type": "Section",
+      "publisher": "finlex",
+      "title": "87 § Maataloustuotteiden markkinajärjestelysäännösten rikkominen",
+      "text": "Joka tahallaan on tuomittava, jollei siitä muualla laissa säädetä ankarampaa rangaistusta,maataloustuotteiden markkinajärjestelysäännösten rikkomisestasakkoon. Tarkastusta suorittava henkilö tai viranomainen voi jättää ilmoittamatta esitutkintaviranomaiselle rikkomuksen, jota on kokonaisuudessaan pidettävä ilmeisen vähäisenä. Rangaistusta ei voida määrätä sille, jolle on samasta teosta määrätty 75 §:ssä tarkoitettu seuraamusmaksu. Rangaistukseen tuomitsematta voidaan jättää se, jolta on samasta perusteesta johtuen peritty tukea takaisin tai jolle on asetettu 85 §:ssä tarkoitettu uhkasakko taikka jota koskeva hyväksyminen on peruutettu eikä toimintaa ole peruuttamisesta johtuen jatkettu.",
+      "section_number": "87",
+      "chapter_number": 12,
+      "statute_id": "1234/2007"
+    },
+    {
+      "id": "0a3cbcc0-c167-4201-9270-6c59d09c10ae",
+      "node_type": "Section",
+      "publisher": "finlex",
+      "title": "88 § Viittaus rikoslakiin",
+      "text": "Rangaistus väärän todistuksen antamisesta viranomaiselle säädetään rikoslain (39/1889) 16 luvun 8 §:ssä.",
+      "section_number": "88",
+      "chapter_number": 12,
+      "statute_id": "1234/2007"
+    },
+    {
+      "id": "513293ec-dcb9-4b48-ab51-8b0fab45c7d6",
+      "node_type": "Section",
+      "publisher": "finlex",
+      "title": "89 § Viljatuotteiden alustavaan laaduntarkastukseen liittyvät erityiset menettelyt ja valtion korvausvastuu",
+      "text": "Jos viljatuotteiden alustava laaduntarkastus osoittaa, että tuotteiden laatu ei vastaa EU:n interventiolainsäädännössä tarkoitettuja vaatimuksia, Maaseutuvirasto tekee päätöksen kuorman hylkäämisestä eikä kyseistä kuormaa vastaanoteta interventiovarastoon. Hylättyjen tuotteiden tarjoaja voi hakea määräajassa Maaseutuvirastolta viljatuotteiden alustavan laaduntarkastuksen yhteydessä otetun näytteen analysointia laboratoriossa. Maaseutuvirasto antaa määräyksen määräajan pituudesta. Jos analyysi osoittaa, etteivät hylätyt tuotteet vastanneet vaatimuksia, tarjoaja vastaa analysoinnista aiheutuvista kustannuksista. Jos 1 momentissa tarkoitettu analysointi osoittaa tuotteiden täyttävän säädetyt vaatimukset, tarjoajalla on oikeus korvaukseen tälle tuotteiden hylkäämisestä aiheutuneista kohtuullisista ylimääräisistä kuljetuskustannuksista. Jos tuotteiden toimittaminen interventiovarastoon ei ole enää mahdollista EU:n markkinajärjestelylainsäädännössä tarkoitetussa määräajassa ja jos tarjoaja myy hylätyt tuotteet kohtuullisen ajan kuluessa hylkäämisestä alempaan hintaan, jonka tämä olisi saanut myydessään tuotteet interventiovarastoon, tällä on lisäksi oikeus korvaukseen interventiohinnan ja vallitsevan hintatason välisestä hintaerosta. Tarjoajan on tehtävä korvausta koskeva hakemus Maaseutuvirastolle kuuden kuukauden kuluessa analyysin tuloksen tiedoksisaannista. Kustannusten ja hinnaneron korvaamisesta päättää hakemuksesta Maaseutuvirasto. Hakemukseen on liitettävä selvitys kustannuksista ja myynnistä. Maaseutuvirasto voi antaa tarkempia määräyksiä hakemuksessa esitettävistä tiedoista.",
+      "section_number": "89",
+      "chapter_number": 13,
+      "statute_id": "1234/2007"
+    },
+    {
+      "id": "ec83535b-c7d9-4ccf-9078-f7af9502abf4",
+      "node_type": "Section",
+      "publisher": "finlex",
+      "title": "90 § Muutoksenhaku",
+      "text": "Maa- ja metsätalousministeriön sekä maa- ja metsätalousministeriön tietopalvelukeskuksen tämän lain nojalla tekemään päätökseen saa hakea muutosta valittamalla hallinto-oikeuteen. Maaseutuviraston tämän lain nojalla tekemään päätökseen saa vaatia oikaisua 30 päivän kuluessa päätöksen tiedoksisaannista Maaseutuvirastolta siten kuin hallintolaissa säädetään. Maaseutuviraston oikaisuvaatimuksen johdosta antamaan päätökseen saa hakea muutosta valittamalla maaseutuelinkeinojen valituslautakuntaan. Maaseutuelinkeinojen valituslautakunnan päätökseen, joka koskee takaisinperintää, seuraamusmaksun määräämistä tai valvontaa, saa hakea muutosta valittamalla korkeimpaan hallinto-oikeuteen. Muihin valituslautakunnan päätöksiin saa hakea muutosta vain, jos korkein hallinto-oikeus myöntää valitusluvan. Muilta osin muutoksenhausta säädetään hallintolainkäyttölaissa (586/1996).",
+      "section_number": "90",
+      "chapter_number": 13,
+      "statute_id": "1234/2007"
+    },
+    {
+      "id": "a2a165c2-ca6d-4b9c-942f-6a01555436a7",
+      "node_type": "Section",
+      "publisher": "finlex",
+      "title": "91 § EU:n rahoitus",
+      "text": "EU:n rahoitus tuloutetaan valtion talousarvioon. Interventiovarastointiin sekä interventio-ostoihin ja -myynteihin liittyvien EU:n varojen hallinnosta säädetään maatalouden interventiorahastosta annetussa laissa (1206/1994).",
+      "section_number": "91",
+      "chapter_number": 13,
+      "statute_id": "1234/2007"
+    },
+    {
+      "id": "d1d12211-df7d-4dda-bef8-5a970dc2f251",
+      "node_type": "Section",
+      "publisher": "finlex",
+      "title": "92 § Voimaantulo",
+      "text": "Tämä laki tulee voimaan 1 päivänä tammikuuta 2013.",
+      "section_number": "92",
+      "chapter_number": 14,
+      "statute_id": "1234/2007"
+    },
+    {
+      "id": "abd03af3-cd70-4b6d-8474-f08a0195ac78",
+      "node_type": "Section",
+      "publisher": "finlex",
+      "title": "93 § Siirtymäsäännös",
+      "text": "Tämän lain voimaantullessa vireillä olleeseen asiaan sovelletaan tämän lain voimaan tullessa voimassa olleita säännöksiä. Ennen lain voimaantuloa voidaan ryhtyä lain täytäntöönpanon edellyttämiin toimiin.",
+      "section_number": "93",
+      "chapter_number": 14,
+      "statute_id": "1234/2007"
+    }
+  ],
+  "clauses": [
+    {
+      "id": "c620a770-c7d9-4747-86f1-53a16c6a0136",
+      "node_type": "Clause",
+      "publisher": "finlex",
+      "title": "§ 2 mom 1",
+      "text": "1) markkinajärjestelyasetuksessa tarkoitetun maidon ja maitotuotteiden kiintiöjärjestelmän täytäntöönpanosta säädetään Euroopan yhteisön maidon ja maitotuotteiden kiintiöjärjestelmän täytäntöönpanosta annetussa laissa (355/1995);",
+      "clause_number": 1,
+      "section_number": "2",
+      "statute_id": "1234/2007"
+    },
+    {
+      "id": "c07ed824-37fe-4099-afd4-32c6e37bfad0",
+      "node_type": "Clause",
+      "publisher": "finlex",
+      "title": "§ 2 mom 2",
+      "text": "2) markkinajärjestelyasetuksessa tarkoitetusta mehiläishoitoalan kansallisesta tuesta ja sokerijuurikkaan viljelijöille myönnettävästä tuesta säädetään maa- ja puutarhatalouden kansallisista tuista annetussa laissa (1559/2001);",
+      "clause_number": 2,
+      "section_number": "2",
+      "statute_id": "1234/2007"
+    },
+    {
+      "id": "be4256f8-7566-4564-a386-cd78e670da0c",
+      "node_type": "Clause",
+      "publisher": "finlex",
+      "title": "§ 2 mom 3",
+      "text": "3) markkinajärjestelyasetuksessa tarkoitetun porojen ja porotuotteiden tuotantoon ja kaupan pitämiseen liittyvän tuen täytäntöönpanosta säädetään porotalouden ja luontaiselinkeinojen rahoituslaissa (45/2000);",
+      "clause_number": 3,
+      "section_number": "2",
+      "statute_id": "1234/2007"
+    },
+    {
+      "id": "9f1c37d0-9174-4619-9247-445f2999bde3",
+      "node_type": "Clause",
+      "publisher": "finlex",
+      "title": "§ 2 mom 4",
+      "text": "4) markkinajärjestelyasetuksessa tarkoitettujen tuontitullien ja lisätuontitullien kantamisesta säädetään tullilaissa (1466/1994).",
+      "clause_number": 4,
+      "section_number": "2",
+      "statute_id": "1234/2007"
+    },
+    {
+      "id": "dfba8218-e944-401f-835a-c02c0d9db89f",
+      "node_type": "Clause",
+      "publisher": "finlex",
+      "title": "§ 5 mom 1",
+      "text": "1) varastot ja varastointimenettelyt täyttävät EU:n interventiolainsäädännössä ja tässä laissa säädetyt vaatimukset;",
+      "clause_number": 1,
+      "section_number": "5",
+      "statute_id": "1234/2007"
+    },
+    {
+      "id": "c6645351-9696-45bf-9cfe-e8ad6a83793c",
+      "node_type": "Clause",
+      "publisher": "finlex",
+      "title": "§ 5 mom 2",
+      "text": "2) \n                                        interventiovarastoinnista vastaavan toimijan (interventiovarastonpitäjä) kanssa laaditaan EU:n interventiolainsäädännössä tarkoitettu sopimus, jossa vahvistetaan interventiovarastonpitäjän korvausvastuu ja muut EU:n interventiolainsäädännössä edellytetyt seikat;",
+      "clause_number": 2,
+      "section_number": "5",
+      "statute_id": "1234/2007"
+    },
+    {
+      "id": "0f8cb607-9633-4d7b-a753-9599ff46cc6e",
+      "node_type": "Clause",
+      "publisher": "finlex",
+      "title": "§ 5 mom 3",
+      "text": "3) interventiovarastonpitäjä sitoutuu pitämään kirjaa ja ilmoittamaan Maaseutuvirastolle ja tässä laissa tarkoitetulle varastoinnin tarkastuksesta vastaavalle viranomaiselle varastoja ja varastointimenettelyä koskevat EU:n interventiolainsäädännössä ja tässä laissa tarkoitetut tiedot.",
+      "clause_number": 3,
+      "section_number": "5",
+      "statute_id": "1234/2007"
+    },
+    {
+      "id": "0cd21253-4ad9-4be0-ba36-9ad513af4013",
+      "node_type": "Clause",
+      "publisher": "finlex",
+      "title": "§ 12 mom 1",
+      "text": "1) tuotujen hampun siementen hyväksyttävistä käyttötavoista;",
+      "clause_number": 1,
+      "section_number": "12",
+      "statute_id": "1234/2007"
+    },
+    {
+      "id": "cf0ee7db-1519-4662-ba5b-43862674e76a",
+      "node_type": "Clause",
+      "publisher": "finlex",
+      "title": "§ 12 mom 2",
+      "text": "2) määräajasta, jonka kuluessa hampun siemenet on käytettävä;",
+      "clause_number": 2,
+      "section_number": "12",
+      "statute_id": "1234/2007"
+    },
+    {
+      "id": "de558749-238e-4960-baa4-cdefd0b41ff1",
+      "node_type": "Clause",
+      "publisher": "finlex",
+      "title": "§ 12 mom 3",
+      "text": "3) hyväksytyn hampun siementen tuojan velvollisuudesta antaa viranomaiselle sitoumus hampun siementen käyttöä koskevien asiakirjojen esittämisestä.",
+      "clause_number": 3,
+      "section_number": "12",
+      "statute_id": "1234/2007"
+    },
+    {
+      "id": "7f9c5377-c56a-4109-8720-9b1670bc7b54",
+      "node_type": "Clause",
+      "publisher": "finlex",
+      "title": "§ 18 mom 1",
+      "text": "1) Maaseutuvirasto hyväksyy tukea hakevan hedelmä- ja vihannesalan tuottajaorganisaation toimintaohjelman;",
+      "clause_number": 1,
+      "section_number": "18",
+      "statute_id": "1234/2007"
+    },
+    {
+      "id": "f0453f59-33be-4ee1-a83a-d1bfb9156789",
+      "node_type": "Clause",
+      "publisher": "finlex",
+      "title": "§ 18 mom 2",
+      "text": "2) hedelmä- ja vihannesalan tuottajaorganisaation toteuttamat toimenpiteet ja niistä aiheutuvat kustannukset ovat tässä luvussa tarkoitetulla tavalla tukikelpoisia;",
+      "clause_number": 2,
+      "section_number": "18",
+      "statute_id": "1234/2007"
+    },
+    {
+      "id": "4a7232e9-6cb6-466d-b7d6-b77da5d0f68c",
+      "node_type": "Clause",
+      "publisher": "finlex",
+      "title": "§ 18 mom 3",
+      "text": "3) hedelmä- ja vihannesalan tuottajaorganisaation toimintarahasto täyttää tässä luvussa tarkoitetut vaatimukset.",
+      "clause_number": 3,
+      "section_number": "18",
+      "statute_id": "1234/2007"
+    },
+    {
+      "id": "39a34889-bae8-4ee8-81ff-de8887e45e74",
+      "node_type": "Clause",
+      "publisher": "finlex",
+      "title": "§ 19 mom 1",
+      "text": "1) alkutilanteen kuvaus, toimintaohjelman tavoitteet ja tavoitteiden toteutumisen arvioinnissa käytettävät kriteerit;",
+      "clause_number": 1,
+      "section_number": "19",
+      "statute_id": "1234/2007"
+    },
+    {
+      "id": "98aa44f2-0f9a-4cc8-8306-05e3eaf90567",
+      "node_type": "Clause",
+      "publisher": "finlex",
+      "title": "§ 19 mom 2",
+      "text": "2) toimintaohjelman kesto;",
+      "clause_number": 2,
+      "section_number": "19",
+      "statute_id": "1234/2007"
+    },
+    {
+      "id": "43fedbf7-8c87-488a-998e-0587cbe56875",
+      "node_type": "Clause",
+      "publisher": "finlex",
+      "title": "§ 19 mom 3",
+      "text": "3) toteutettavat toimenpiteet, kustannukset ja rahoitus;",
+      "clause_number": 3,
+      "section_number": "19",
+      "statute_id": "1234/2007"
+    },
+    {
+      "id": "cc6953f6-b625-4477-9cb5-08a4dd6866dc",
+      "node_type": "Clause",
+      "publisher": "finlex",
+      "title": "§ 19 mom 4",
+      "text": "4) selvitys toimintarahaston perustamisesta ja tuottajaorganisaatiolta edellytettävät sitoumukset.",
+      "clause_number": 4,
+      "section_number": "19",
+      "statute_id": "1234/2007"
+    },
+    {
+      "id": "e9a9fc0a-fcec-4047-bf46-fff70a868e37",
+      "node_type": "Clause",
+      "publisher": "finlex",
+      "title": "§ 20 mom 1",
+      "text": "1) tuotannonsuunnittelu;",
+      "clause_number": 1,
+      "section_number": "20",
+      "statute_id": "1234/2007"
+    },
+    {
+      "id": "b1575c4d-7629-4697-9358-bbf4d61025e1",
+      "node_type": "Clause",
+      "publisher": "finlex",
+      "title": "§ 20 mom 2",
+      "text": "2) tuotteiden laadun parantaminen tai säilyttäminen;",
+      "clause_number": 2,
+      "section_number": "20",
+      "statute_id": "1234/2007"
+    },
+    {
+      "id": "713bd7d7-f224-41f0-8231-a6dc0fad3466",
+      "node_type": "Clause",
+      "publisher": "finlex",
+      "title": "§ 20 mom 3",
+      "text": "3) kaupan pitämisen parantaminen;",
+      "clause_number": 3,
+      "section_number": "20",
+      "statute_id": "1234/2007"
+    },
+    {
+      "id": "d6fc4ce1-2f3b-4002-81c9-ebbcde30d04c",
+      "node_type": "Clause",
+      "publisher": "finlex",
+      "title": "§ 20 mom 4",
+      "text": "4) tutkimus tai koetuotanto;",
+      "clause_number": 4,
+      "section_number": "20",
+      "statute_id": "1234/2007"
+    },
+    {
+      "id": "01b520f4-6ae4-4ffb-abb2-9bdbf40bb4d6",
+      "node_type": "Clause",
+      "publisher": "finlex",
+      "title": "§ 20 mom 5",
+      "text": "5) koulutus tai neuvontapalvelujen lisääminen;",
+      "clause_number": 5,
+      "section_number": "20",
+      "statute_id": "1234/2007"
+    },
+    {
+      "id": "e8c929b4-62f3-4aa7-a6ba-d85adbafdf73",
+      "node_type": "Clause",
+      "publisher": "finlex",
+      "title": "§ 20 mom 6",
+      "text": "6) markkinoiden kriisinehkäisyyn ja hallintaan liittyvä satovakuutus;",
+      "clause_number": 6,
+      "section_number": "20",
+      "statute_id": "1234/2007"
+    },
+    {
+      "id": "72a09e70-5332-4d19-ba42-f545ed7e9837",
+      "node_type": "Clause",
+      "publisher": "finlex",
+      "title": "§ 20 mom 7",
+      "text": "7) ympäristötoimi.",
+      "clause_number": 7,
+      "section_number": "20",
+      "statute_id": "1234/2007"
+    },
+    {
+      "id": "9cd38cef-d51d-476a-a5ce-6f3b77556f37",
+      "node_type": "Clause",
+      "publisher": "finlex",
+      "title": "§ 21 mom 1",
+      "text": "1) ilmastonmuutoksen hillitsemistä;",
+      "clause_number": 1,
+      "section_number": "21",
+      "statute_id": "1234/2007"
+    },
+    {
+      "id": "75a973d5-c566-49fa-a299-b749716b3a7b",
+      "node_type": "Clause",
+      "publisher": "finlex",
+      "title": "§ 21 mom 2",
+      "text": "2) luonnonsuojelua ja biologista monimuotoisuutta;",
+      "clause_number": 2,
+      "section_number": "21",
+      "statute_id": "1234/2007"
+    },
+    {
+      "id": "fe9254bf-3d73-40d0-87a1-08d4410aef7e",
+      "node_type": "Clause",
+      "publisher": "finlex",
+      "title": "§ 21 mom 3",
+      "text": "3) ympäristön, terveyden tai elämänlaadun kohentamista;",
+      "clause_number": 3,
+      "section_number": "21",
+      "statute_id": "1234/2007"
+    },
+    {
+      "id": "4e7503f3-c80b-4c7f-87c4-c3b15bcf588e",
+      "node_type": "Clause",
+      "publisher": "finlex",
+      "title": "§ 21 mom 4",
+      "text": "4) luonnonvarojen suojelua;",
+      "clause_number": 4,
+      "section_number": "21",
+      "statute_id": "1234/2007"
+    },
+    {
+      "id": "fa3fd508-8855-4229-adb6-100c27be251a",
+      "node_type": "Clause",
+      "publisher": "finlex",
+      "title": "§ 21 mom 5",
+      "text": "5) jätteiden käsittelyä; tai",
+      "clause_number": 5,
+      "section_number": "21",
+      "statute_id": "1234/2007"
+    },
+    {
+      "id": "f465d437-f6de-4464-9709-e4383eab4878",
+      "node_type": "Clause",
+      "publisher": "finlex",
+      "title": "§ 21 mom 6",
+      "text": "6) ympäristötoimiin liittyvää koulutusta tai neuvontaa.",
+      "clause_number": 6,
+      "section_number": "21",
+      "statute_id": "1234/2007"
+    },
+    {
+      "id": "fbc98066-58b9-4563-b7f4-0ef3283cac60",
+      "node_type": "Clause",
+      "publisher": "finlex",
+      "title": "§ 35 mom 1",
+      "text": "1) varmistettava tuen kohteena olevien tuotteiden jakelu ainoastaan päiväkodissa oleville lapsille tai oppilaitosta käyville lapsille tai oppilaille;",
+      "clause_number": 1,
+      "section_number": "35",
+      "statute_id": "1234/2007"
+    },
+    {
+      "id": "b0ad1f45-1e39-4465-a46d-a8d5fab2ac16",
+      "node_type": "Clause",
+      "publisher": "finlex",
+      "title": "§ 35 mom 2",
+      "text": "2) pidettävä kirjaa jaetuista tukikelpoisista tuotteista; ja",
+      "clause_number": 2,
+      "section_number": "35",
+      "statute_id": "1234/2007"
+    },
+    {
+      "id": "ba2b29de-fca7-4698-b3df-26dae74f9d2c",
+      "node_type": "Clause",
+      "publisher": "finlex",
+      "title": "§ 35 mom 3",
+      "text": "3) ilmoitettava Maaseutuvirastolle 1 kohdassa tarkoitettujen lapsien ja oppilaiden lukumäärää ja näille jaettuja tuotteita koskevat tiedot.",
+      "clause_number": 3,
+      "section_number": "35",
+      "statute_id": "1234/2007"
+    },
+    {
+      "id": "56a1d7c7-fd04-453d-97fe-88c259aed9e6",
+      "node_type": "Clause",
+      "publisher": "finlex",
+      "title": "§ 36 mom 1",
+      "text": "1) alentaa tukihakemuksen kohteena olevien tuotteiden hintaa vähintään maksettavaa tukea vastaavalla määrällä siten, että alennetun hinnan ja tuen yhteenlaskettu määrä ei ylitä hintaa, jonka vastaavantyyppiset asiakkaat maksavat kyseiselle tuotteiden toimittajalle;",
+      "clause_number": 1,
+      "section_number": "36",
+      "statute_id": "1234/2007"
+    },
+    {
+      "id": "319f6609-43d3-441c-b89f-2fb3504c8659",
+      "node_type": "Clause",
+      "publisher": "finlex",
+      "title": "§ 36 mom 2",
+      "text": "2) pitää kirjaa tuotteiden hinnan alentamista koskevista tiedoista;",
+      "clause_number": 2,
+      "section_number": "36",
+      "statute_id": "1234/2007"
+    },
+    {
+      "id": "c33166dc-b758-4093-9f17-ff4e5d2fb665",
+      "node_type": "Clause",
+      "publisher": "finlex",
+      "title": "§ 36 mom 3",
+      "text": "3) ilmoittaa Maaseutuvirastolle tämän pyynnöstä ilman aiheetonta viivytystä tiedot, joiden perusteella voidaan varmistaa hinnan alentaminen kunkin hyväksytyn koulumaitotuen hakijan osalta.",
+      "clause_number": 3,
+      "section_number": "36",
+      "statute_id": "1234/2007"
+    },
+    {
+      "id": "9d321b5f-3362-469d-84e2-bb96771bb53a",
+      "node_type": "Clause",
+      "publisher": "finlex",
+      "title": "§ 41 mom 1",
+      "text": "1) toimijat, jotka valmistuksen jälkeen ensi kertaa myyvät markkinoille tai ensi kertaa ostavat markkinoilla kuluttajille tarkoitettua maitoa tai maitotuotteita;",
+      "clause_number": 1,
+      "section_number": "41",
+      "statute_id": "1234/2007"
+    },
+    {
+      "id": "e0397f68-21bb-408a-a7c0-ece66ec7886a",
+      "node_type": "Clause",
+      "publisher": "finlex",
+      "title": "§ 41 mom 2",
+      "text": "2) sianlihan ja lampaanlihan teurastamot;",
+      "clause_number": 2,
+      "section_number": "41",
+      "statute_id": "1234/2007"
+    },
+    {
+      "id": "9ea61783-7d68-474b-a5f2-504ff5cd807d",
+      "node_type": "Clause",
+      "publisher": "finlex",
+      "title": "§ 41 mom 3",
+      "text": "3) lampaanlihan tukkukauppiaat;",
+      "clause_number": 3,
+      "section_number": "41",
+      "statute_id": "1234/2007"
+    },
+    {
+      "id": "b562630f-2a58-4f74-a361-abaff487c6f9",
+      "node_type": "Clause",
+      "publisher": "finlex",
+      "title": "§ 41 mom 4",
+      "text": "4) siipikarjanlihan teurastamot ja munien pakkaamot;",
+      "clause_number": 4,
+      "section_number": "41",
+      "statute_id": "1234/2007"
+    },
+    {
+      "id": "2c1db922-c400-4eb6-9559-6e440917e597",
+      "node_type": "Clause",
+      "publisher": "finlex",
+      "title": "§ 41 mom 5",
+      "text": "5) viljan jalostajat ja toimijat, jotka vievät viljaa Suomen ulkopuolelle;",
+      "clause_number": 5,
+      "section_number": "41",
+      "statute_id": "1234/2007"
+    },
+    {
+      "id": "e53dfdfb-076b-4ae3-82a0-0709392a207a",
+      "node_type": "Clause",
+      "publisher": "finlex",
+      "title": "§ 41 mom 6",
+      "text": "6) hedelmien, vihannesten ja hedelmä- ja vihannesjalosteiden maahantuojat ja tukkukauppiaat.",
+      "clause_number": 6,
+      "section_number": "41",
+      "statute_id": "1234/2007"
+    },
+    {
+      "id": "0a68d47a-aeaf-45b6-9ecc-f7f01cbe6b85",
+      "node_type": "Clause",
+      "publisher": "finlex",
+      "title": "§ 51 mom 1",
+      "text": "1) tullilaitos, jos varastoinnin kohteena on voi, maitojauhe tai naudanliha;",
+      "clause_number": 1,
+      "section_number": "51",
+      "statute_id": "1234/2007"
+    },
+    {
+      "id": "3297a6b5-cf8a-406d-9ef2-a1d1c54aa7ba",
+      "node_type": "Clause",
+      "publisher": "finlex",
+      "title": "§ 51 mom 2",
+      "text": "2) Maaseutuvirasto, jos tarkastuksen kohteena on naudanlihan luuttomaksi leikkaaminen interventiovarastoinnin aikana;",
+      "clause_number": 2,
+      "section_number": "51",
+      "statute_id": "1234/2007"
+    },
+    {
+      "id": "0701e605-db16-4e2c-b269-f0c6b9b0e4c1",
+      "node_type": "Clause",
+      "publisher": "finlex",
+      "title": "§ 51 mom 3",
+      "text": "3) Elintarviketurvallisuusvirasto, jos varastoinnin kohteena ovat viljatuotteet.",
+      "clause_number": 3,
+      "section_number": "51",
+      "statute_id": "1234/2007"
+    },
+    {
+      "id": "f799f54e-f2b0-449e-a3bd-9fb438c996e3",
+      "node_type": "Clause",
+      "publisher": "finlex",
+      "title": "§ 56 mom 1",
+      "text": "1) hyväksymistä hakevan sokerialan yrityksen hyväksymisedellytysten täyttymisen sekä hyväksytyn sokerialan yrityksen hyväksymisedellytyksiä, tuotantokiintiötä, ilmoitusvelvollisuutta, tuotantomaksuja, toimiala- ja toimitussopimuksia ja sokerijuurikkaan vähimmäishintaa koskevien vaatimusten noudattamisen EU:n sokerituotantolainsäädännössä edellytetyllä tavalla;",
+      "clause_number": 1,
+      "section_number": "56",
+      "statute_id": "1234/2007"
+    },
+    {
+      "id": "d0b8bc59-affa-4fe4-8277-6e9888ed7bb6",
+      "node_type": "Clause",
+      "publisher": "finlex",
+      "title": "§ 56 mom 2",
+      "text": "2) hyväksymistä hakevan ja hyväksytyn muonitusvaraston hyväksymisedellytysten täyttymisen ja toiminnan vaatimustenmukaisuuden.",
+      "clause_number": 2,
+      "section_number": "56",
+      "statute_id": "1234/2007"
+    },
+    {
+      "id": "d27e4cf3-d191-455c-b576-51795845c0df",
+      "node_type": "Clause",
+      "publisher": "finlex",
+      "title": "§ 56 mom 1",
+      "text": "1) hyväksymistä hakevan ja hyväksytyn tarkastuslaitoksen hyväksymisedellytysten täyttymisen ja toiminnan vaatimustenmukaisuuden;",
+      "clause_number": 1,
+      "section_number": "56",
+      "statute_id": "1234/2007"
+    },
+    {
+      "id": "7edd71d2-2fd1-4cd8-b545-2467eb4ad09d",
+      "node_type": "Clause",
+      "publisher": "finlex",
+      "title": "§ 56 mom 2",
+      "text": "2) hyväksytyn hampun siementen tuojan hyväksymisedellytysten täyttymisen ja toiminnan vaatimustenmukaisuuden;",
+      "clause_number": 2,
+      "section_number": "56",
+      "statute_id": "1234/2007"
+    },
+    {
+      "id": "0b589354-06cd-4107-a3cc-ff310adb94ea",
+      "node_type": "Clause",
+      "publisher": "finlex",
+      "title": "§ 56 mom 3",
+      "text": "3) hyväksymistä hakevan ja hyväksytyn ruhonluokittajan hyväksymisedellytysten täyttymisen ja toiminnan vaatimustenmukaisuuden;",
+      "clause_number": 3,
+      "section_number": "56",
+      "statute_id": "1234/2007"
+    },
+    {
+      "id": "c783a485-9d1c-4c4d-b40d-9f39186f5805",
+      "node_type": "Clause",
+      "publisher": "finlex",
+      "title": "§ 56 mom 4",
+      "text": "4) hintaselvityksen antamisesta vastaavan toimijan ilmoitusvelvollisuuden kattaman toiminnan vaatimustenmukaisuuden.",
+      "clause_number": 4,
+      "section_number": "56",
+      "statute_id": "1234/2007"
+    },
+    {
+      "id": "78e4988f-cc7d-4e97-a521-509702cde827",
+      "node_type": "Clause",
+      "publisher": "finlex",
+      "title": "§ 66 mom 1",
+      "text": "1) tuotteiden seurannan tai 1 momentissa tarkoitettujen toimijoiden toimintaa koskevien vaatimusten noudattamisen varmistamiseksi tarpeellisista toimijan kannalta kohtuullisista vähäisistä täydennyksistä; ja",
+      "clause_number": 1,
+      "section_number": "66",
+      "statute_id": "1234/2007"
+    },
+    {
+      "id": "a72454e6-f68d-456b-9c6e-c3f21ba0096b",
+      "node_type": "Clause",
+      "publisher": "finlex",
+      "title": "§ 66 mom 1",
+      "text": "1) tuotteiden seurannan tai 1 momentissa tarkoitettujen toimijoiden toimintaa koskevien vaatimusten noudattamisen varmistamiseksi tarpeellisista toimijan kannalta kohtuullisista vähäisistä täydennyksistä; ja",
+      "clause_number": 1,
+      "section_number": "66",
+      "statute_id": "1234/2007"
+    },
+    {
+      "id": "afab0f83-7126-4805-8494-1e8bfb3f8fcd",
+      "node_type": "Clause",
+      "publisher": "finlex",
+      "title": "§ 66 mom 2",
+      "text": "2) vähäisistä poikkeuksista, jotka eivät vaaranna toimintaa koskevien vaatimusten noudattamisen valvontaa eivätkä viranomaisen riittävää tiedonsaantia.",
+      "clause_number": 2,
+      "section_number": "66",
+      "statute_id": "1234/2007"
+    },
+    {
+      "id": "19d580a8-a18e-4adc-af14-26e93b54b9e7",
+      "node_type": "Clause",
+      "publisher": "finlex",
+      "title": "§ 82 mom 1",
+      "text": "1) ei täytä tässä laissa tai EU:n markkinajärjestelylainsäädännössä tarkoitettuja hyväksymisen edellytyksiä; tai",
+      "clause_number": 1,
+      "section_number": "82",
+      "statute_id": "1234/2007"
+    },
+    {
+      "id": "ac60c096-83ec-4b3f-890a-d5baa24b415f",
+      "node_type": "Clause",
+      "publisher": "finlex",
+      "title": "§ 82 mom 2",
+      "text": "2) laiminlyö tai rikkoo toimintaansa koskevia tässä laissa tai EU:n markkinajärjestelylainsäädännössä säädettyjä vaatimuksia.",
+      "clause_number": 2,
+      "section_number": "82",
+      "statute_id": "1234/2007"
+    },
+    {
+      "id": "e83f2fef-8e0e-49d9-9094-8f791d5d1532",
+      "node_type": "Clause",
+      "publisher": "finlex",
+      "title": "§ 83 mom 1",
+      "text": "1) 82 §:ssä tarkoitetun korjauskehotuksen saanut toimija ei korjaa hyväksymisen edellytyksiä koskevaa puutetta asetetussa määräajassa;",
+      "clause_number": 1,
+      "section_number": "83",
+      "statute_id": "1234/2007"
+    },
+    {
+      "id": "10d19ec5-b7e8-441f-9ac3-f5756d92b7d9",
+      "node_type": "Clause",
+      "publisher": "finlex",
+      "title": "§ 83 mom 2",
+      "text": "2) 82 §:ssä tarkoitetun korjauskehotuksen saanut toimija ei korjaa toimintaansa koskevia vaatimuksia koskevaa laiminlyöntiä tai rikkomusta asetetussa määräajassa ja kyseessä on toimijaa koskevien vaatimusten kokonaisuuden kannalta olennainen ja vakava virhe tai laiminlyönti; tai",
+      "clause_number": 2,
+      "section_number": "83",
+      "statute_id": "1234/2007"
+    },
+    {
+      "id": "ed40aa3f-03cc-4bb8-a94c-051a44d1be8e",
+      "node_type": "Clause",
+      "publisher": "finlex",
+      "title": "§ 83 mom 3",
+      "text": "3) toimijalle on annettu yhtä useampi 82 §:ssä tarkoitettu huomautus toimijaa koskevien vaatimusten kokonaisuuden kannalta olennaisen ja vakavan virheen tai laiminlyönnin johdosta.",
+      "clause_number": 3,
+      "section_number": "83",
+      "statute_id": "1234/2007"
+    },
+    {
+      "id": "53055de2-751d-44e8-a80e-22b3fba2d30d",
+      "node_type": "Clause",
+      "publisher": "finlex",
+      "title": "§ 87 mom 2",
+      "text": "1) rikkoo 62 §:n 1 tai 2 momentissa tarkoitetun avustamisvelvollisuuden tarkastuksissa,",
+      "clause_number": 2,
+      "section_number": "87",
+      "statute_id": "1234/2007"
+    },
+    {
+      "id": "ac5afe57-172b-447c-8f16-85e5846bf55d",
+      "node_type": "Clause",
+      "publisher": "finlex",
+      "title": "§ 87 mom 1",
+      "text": "1) rikkoo 62 §:n 1 tai 2 momentissa tarkoitetun avustamisvelvollisuuden tarkastuksissa,",
+      "clause_number": 1,
+      "section_number": "87",
+      "statute_id": "1234/2007"
+    },
+    {
+      "id": "da825c9c-ba90-4537-b82b-1a6806e7f5eb",
+      "node_type": "Clause",
+      "publisher": "finlex",
+      "title": "§ 87 mom 2",
+      "text": "2) harjoittaa luokitusasetuksessa tarkoitettua ruhonluokitusta ilman 40 §:ssä tarkoitettua hyväksymistä tai",
+      "clause_number": 2,
+      "section_number": "87",
+      "statute_id": "1234/2007"
+    },
+    {
+      "id": "7110a919-4173-4d8d-82f9-f44a160b0d12",
+      "node_type": "Clause",
+      "publisher": "finlex",
+      "title": "§ 87 mom 3",
+      "text": "3) harjoittaa 12 §:ssä tarkoitettua hampun siementen tuontia ilman mainitussa pykälässä tarkoitettua hyväksymistä,",
+      "clause_number": 3,
+      "section_number": "87",
+      "statute_id": "1234/2007"
+    }
+  ],
+  "cross_references": [],
+  "raw_html_path": "C:\\Users\\danit\\finance-hack\\aalto-hackaton-2026\\data\\raw\\finlex\\Laki (säädöskokoelma)\\Laki maataloustuotteiden markkinajärjestelystä.html"
+}

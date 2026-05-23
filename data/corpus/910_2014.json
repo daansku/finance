@@ -1,0 +1,1661 @@
+{
+  "statute": {
+    "id": "a25e0cce-f60d-4c4d-a170-09e2f4c55a78",
+    "node_type": "Statute",
+    "publisher": "finlex",
+    "title": "Kyberturvallisuuslaki",
+    "text": "Kyberturvallisuuslaki",
+    "statute_id": "910/2014",
+    "finlex_url": "https://finlex.fi/fi/laki/ajantasa/910/2014"
+  },
+  "chapters": [
+    {
+      "id": "44fb161c-38d3-47e3-9e64-e1559c6afa70",
+      "node_type": "Chapter",
+      "publisher": "finlex",
+      "title": "Chapter 1",
+      "text": "1 luku Yleiset säännökset",
+      "chapter_number": 1,
+      "statute_id": "910/2014"
+    },
+    {
+      "id": "ad1787b4-27d1-4867-875c-eec09da641be",
+      "node_type": "Chapter",
+      "publisher": "finlex",
+      "title": "Chapter 2",
+      "text": "2 luku Riskienhallinta ja poikkeamista ilmoittaminen",
+      "chapter_number": 2,
+      "statute_id": "910/2014"
+    },
+    {
+      "id": "2e638870-3b0f-43f7-be39-976c914344bc",
+      "node_type": "Chapter",
+      "publisher": "finlex",
+      "title": "Chapter 3",
+      "text": "3 luku CSIRT-yksikkö",
+      "chapter_number": 3,
+      "statute_id": "910/2014"
+    },
+    {
+      "id": "8ea54343-3bd8-4f19-9875-f45e3b402a1f",
+      "node_type": "Chapter",
+      "publisher": "finlex",
+      "title": "Chapter 4",
+      "text": "4 luku Valvonta",
+      "chapter_number": 4,
+      "statute_id": "910/2014"
+    },
+    {
+      "id": "2c5934d8-9fbc-44f9-86bc-fb5e756ecc3f",
+      "node_type": "Chapter",
+      "publisher": "finlex",
+      "title": "Chapter 5",
+      "text": "5 luku Seuraamusmaksu",
+      "chapter_number": 5,
+      "statute_id": "910/2014"
+    },
+    {
+      "id": "5f0d24a4-a466-40dd-86fd-67126529f5c4",
+      "node_type": "Chapter",
+      "publisher": "finlex",
+      "title": "Chapter 6",
+      "text": "6 luku Muut säännökset",
+      "chapter_number": 6,
+      "statute_id": "910/2014"
+    }
+  ],
+  "sections": [
+    {
+      "id": "d940224b-e749-4bcd-9961-e09475d986c6",
+      "node_type": "Section",
+      "publisher": "finlex",
+      "title": "1 § Soveltamisala",
+      "text": "Tässä laissa säädetään kyberturvallisuutta koskevien riskien hallinnasta. Tällä lailla pannaan täytäntöön toimenpiteistä kyberturvallisuuden yhteisen korkean tason varmistamiseksi kaikkialla unionissa, asetuksen (EU) N:o 910/2014 ja direktiivin (EU) 2018/1972 muuttamisesta sekä direktiivin (EU) 2016/1148 kumoamisesta annettu Euroopan parlamentin ja neuvoston direktiivi (EU) 2022/2555 (NIS 2 -direktiivi). NIS 2 -direktiivin täytäntöönpanosta mainitun direktiivin liitteen I kohdassa 10 tarkoitetulla julkishallinnon toimialalla säädetään julkisen hallinnon tiedonhallinnasta annetussa laissa (906/2019).",
+      "section_number": "1",
+      "chapter_number": 1,
+      "statute_id": "910/2014"
+    },
+    {
+      "id": "15baf629-c56e-4a5c-9f47-57058dfea1c4",
+      "node_type": "Section",
+      "publisher": "finlex",
+      "title": "2 § Määritelmät",
+      "text": "Tässä laissa tarkoitetaan:",
+      "section_number": "2",
+      "chapter_number": 1,
+      "statute_id": "910/2014"
+    },
+    {
+      "id": "6bd0e528-7c5c-40eb-9eb8-50005f7b94aa",
+      "node_type": "Section",
+      "publisher": "finlex",
+      "title": "3 § Toimijat",
+      "text": "Tätä lakia sovelletaan oikeushenkilöön ja luonnolliseen henkilöön (toimija), joka: Tätä lakia sovelletaan myös toimijaan, joka koostaan riippumatta on: Lisäksi tätä lakia sovelletaan sellaiseen toimijaan sen koosta riippumatta, joka harjoittaa liitteessä I tai II tarkoitettua toimintaa tai on mainituissa liitteissä tarkoitettu toimija, jos: Edellä 3 momentissa tarkoitetuista kriteereistä voidaan antaa tarkempia säännöksiä valtioneuvoston asetuksella. Toimijaan ei sovelleta 1 momentin 2 kohdassa mainitun suosituksen liitteen 3 artiklan 4 kohtaa.",
+      "section_number": "3",
+      "chapter_number": 1,
+      "statute_id": "910/2014"
+    },
+    {
+      "id": "035e9de0-df93-4f8f-b2e7-d2e7b9e15662",
+      "node_type": "Section",
+      "publisher": "finlex",
+      "title": "4 § Soveltamisalan rajaukset",
+      "text": "Tämän lain 2 lukua ei sovelleta toimintaan eikä palveluihin, joita tarjotaan maanpuolustuksen, kansallisen turvallisuuden, yleisen järjestyksen ja turvallisuuden taikka rikosten ennalta estämisen, rikostutkinnan ja syytetoimien toteuttamiseksi. Tätä lakia ei sovelleta toimijaan, joka tarjoaa ainoastaan 1 momentissa tarkoitettua toimintaa tai palvelua. Edellä 1 ja 2 momentista poiketen lakia sovelletaan toimijaan, joka on luottamuspalvelun tarjoaja. Tätä lakia ei sovelleta toimijaan, johon finanssialan digitaalisesta häiriönsietokyvystä ja asetusten (EY) N:o 1060/2009, (EU) N:o 648/2012, (EU) N:o 600/2014, (EU) N:o 909/2014 ja (EU) 2016/1011 muuttamisesta annettua Euroopan parlamentin ja neuvoston asetusta (EU) 2022/2554 (DORA-asetus) ei sovelleta sen 2 artiklan 4 kohdan nojalla. Tätä lakia ei sovelleta toimijaan, jonka harjoittama liitteessä I tai II tarkoitettu toiminta on satunnaista ja vähäistä. Tätä lakia sovelletaan kuntalaissa (410/2015) tarkoitettuun kuntaan vain liitteessä I tai II tarkoitetun toiminnan osalta. Tämän lain säännöksiä, jotka velvoittavat antamaan tietoa, ei sovelleta, jos tiedon luovuttaminen vaarantaisi maanpuolustusta tai kansallista turvallisuutta taikka olisi vastoin siihen liittyvää tärkeää etua.",
+      "section_number": "4",
+      "chapter_number": 1,
+      "statute_id": "910/2014"
+    },
+    {
+      "id": "91de5d69-0f3e-482e-8095-6405a7698746",
+      "node_type": "Section",
+      "publisher": "finlex",
+      "title": "5 § Suhde muuhun lainsäädäntöön",
+      "text": "Jos muussa laissa tai sen nojalla annetuissa säännöksissä tai määräyksissä on tästä laista poikkeavia vaatimuksia kyberturvallisuusriskien hallinnasta tai merkittävistä poikkeamista ilmoittamisesta ja vaatimukset ovat vaikutuksiltaan vähintään tässä laissa säädettyjä velvoitteita vastaavia, niitä sovelletaan tämän lain vastaavien säännösten asemasta. Jos Euroopan unionin asetuksessa tai NIS 2 -direktiivin nojalla säädetyssä komission asetuksessa edellytetään, että toimija ottaa käyttöön kyberturvallisuutta koskevien riskien hallitsemiseksi toimenpiteitä tai ilmoittaa merkittävistä poikkeamista, ja vaatimukset ovat vaikutuksiltaan vähintään tässä laissa säädettyjä velvoitteita vastaavia, säännöksiä sovelletaan tämän lain 2, 4 ja 5 luvun sekä 41 §:n asemasta. Henkilötietojen käsittelyn tietoturvallisuudesta säädetään luonnollisten henkilöiden suojelusta henkilötietojen käsittelyssä sekä näiden tietojen vapaasta liikkuvuudesta ja direktiivin 95/46/EY kumoamisesta (yleinen tietosuoja-asetus) annetun Euroopan parlamentin ja neuvoston asetuksessa (EU) 2016/679, jäljempänäyleinen tietosuoja-asetus, ja tietosuojalaissa (1050/2018). Sen lisäksi mitä tässä laissa säädetään valvovan viranomaisen toimivaltuuksista, luvan peruuttamiseen sovelletaan sähkö- ja maakaasumarkkinoiden valvonnasta annetun lain (590/2013) 23 §:n 6 kohdassa, vaarallisten kemikaalien ja räjähteiden käsittelyn turvallisuudesta annetun lain (390/2005) 109 a §:ssä sekä maa-asemista ja eräistä tutkista annetun lain (96/2023) 8 §:n 1 momentin 3 kohdassa säädettyä.",
+      "section_number": "5",
+      "chapter_number": 1,
+      "statute_id": "910/2014"
+    },
+    {
+      "id": "ec6dfb5a-4b0a-489c-90d8-0b3f443947f7",
+      "node_type": "Section",
+      "publisher": "finlex",
+      "title": "6 § Lainkäyttövalta ja alueellisuus",
+      "text": "Tätä lakia sovelletaan toimijaan, joka on sijoittautunut Suomeen, jollei laissa toisin säädetä tai Euroopan unionin lainsäädännöstä tai Suomea sitovasta kansainvälisestä velvoitteesta muuta johdu. Riippumatta valtiosta, johon toimija on sijoittautunut, tätä lakia sovelletaan yleisen sähköisen viestintäverkon tarjoajaan ja yleisesti saatavilla olevan sähköisen viestintäpalvelun tarjoajaan silloin kun se tarjoaa palvelujaan Suomessa. DNS-palveluntarjoaja, aluetunnusrekisterin ylläpitäjä, pilvipalvelujen tarjoaja, datakeskuspalvelujen tarjoaja, sisällönjakeluverkkojen tarjoaja, hallintapalvelun tarjoaja, tietoturvapalveluntarjoaja, verkossa toimivien markkinapaikkojen tarjoaja, verkossa toimivien hakukoneiden tarjoaja ja verkkoyhteisöalustojen tarjoaja kuuluvat tämän lain soveltamisalaan, jos sen NIS 2 -direktiivin 26 artiklan 2 kohdassa tarkoitettu päätoimipaikka tai 3 kohdassa tarkoitettu Euroopan unioniin nimetty edustaja sijaitsee Suomessa. Jos tällainen toimija ei ole sijoittautunut Euroopan unionin jäsenvaltioon ja se tarjoaa palvelujaan Suomessa tai muun Euroopan unionin jäsenvaltion alueella, sen on nimettävä NIS 2 -direktiivin 26 artiklan 3 kohdassa tarkoitettu edustaja Euroopan unionin jäsenvaltioiden aluetta varten. Jos toimija ei ole sijoittautunut Euroopan unionin jäsenvaltioon tai asettanut NIS 2 -direktiivin 26 artiklan 3 kohdassa tarkoitettua nimettyä edustajaa ja toimija\ntarjoaa palveluita Suomessa, toimija kuuluu tämän lain soveltamisalaan. Valvova viranomainen voi suorittaa toiseen Euroopan unionin jäsenvaltioon sijoittautuneeseen toimijaan kohdistuvia valvonta- tai täytäntöönpanotoimia siten kuin tässä laissa säädetään, jos toisen jäsenvaltion toimivaltainen viranomainen sitä pyytää ja toimija tarjoaa palveluja Suomessa tai sillä on viestintäverkko tai tietojärjestelmä Suomen alueella. Edellytyksenä on lisäksi, että valvovalla viranomaisella olisi oikeus suorittaa vastaava valvonta- tai täytäntöönpanotoimi tämän lain nojalla, jos toimija olisi sijoittautunut Suomeen. Valvova viranomainen voi kieltäytyä pyynnöstä, jos sillä ei ole lain nojalla toimivaltaa antaa pyydettyä apua, pyydetty apu ei ole oikeassa suhteessa valvontatehtäviin tai pyyntö koskee sellaisia tietoja tai käsittää sellaisia toimintoja, joiden paljastaminen tai toteuttaminen olisi vastoin Suomen maapuolustukseen tai kansalliseen turvallisuuteen liittyviä etuja. Ennen pyynnöstä kieltäytymistä valvovan viranomaisen on kuultava muita asianomaisia\ntoimivaltaisia viranomaisia sekä, jos jokin Euroopan unionin jäsenvaltio sitä pyytää, Euroopan komissiota ja Euroopan unionin kyberturvallisuusvirastoa.",
+      "section_number": "6",
+      "chapter_number": 1,
+      "statute_id": "910/2014"
+    },
+    {
+      "id": "7ed7fa43-a7d1-4b8e-96be-450d4ca4b4c2",
+      "node_type": "Section",
+      "publisher": "finlex",
+      "title": "7 § Riskienhallinta",
+      "text": "Toimijan on tunnistettava, arvioitava ja hallittava riskejä, joita kohdistuu sen toiminnoissa tai palveluntarjonnassa käytettävien viestintäverkkojen ja tietojärjestelmien turvallisuuteen. Kyberturvallisuutta koskevalla riskienhallinnalla tulee estää tai minimoida poikkeamien vaikutus toimintaan, toiminnan jatkuvuuteen, palvelujen vastaanottajiin ja muihin palveluihin. Toimijan on toteutettava riskienhallintatoimenpiteet, jotka ovat ajantasaisia, oikeasuhtaisia ja riittäviä suhteessa toiminnassa käytettäville viestintäverkoille ja tietojärjestelmille aiheutuviin riskeihin ja viestintäverkon tai tietojärjestelmän merkitykseen toimijan toiminnan ja palveluntarjonnan kannalta.",
+      "section_number": "7",
+      "chapter_number": 2,
+      "statute_id": "910/2014"
+    },
+    {
+      "id": "dad15b56-b115-4d68-8f6d-125e8cd46e55",
+      "node_type": "Section",
+      "publisher": "finlex",
+      "title": "8 § Kyberturvallisuutta koskeva riskienhallinnan toimintamalli",
+      "text": "Toimijalla on oltava käytössä ajantasainen kyberturvallisuutta koskeva riskienhallinnan toimintamalli viestintäverkkojen ja tietojärjestelmien ja niiden fyysisen ympäristön suojaamiseksi poikkeamilta ja niiden vaikutuksilta. Kyberturvallisuutta koskevassa riskienhallinnan toimintamallissa on tunnistettava viestintäverkkoihin ja tietojärjestelmiin ja niiden fyysiseen ympäristöön kohdistuvat riskit ottaen huomioon kaikki vaaratekijät huomioiva lähestymistapa. Toimintamallissa on määritettävä ja kuvattava kyberturvallisuutta koskevan riskienhallinnan tavoitteet, menettelyt ja vastuut sekä 9 §:n mukaiset toimenpiteet, joilla viestintäverkkoja ja tietojärjestelmiä ja niiden fyysistä ympäristöä suojataan kyberuhkilta ja poikkeamilta (hallintatoimenpiteet).",
+      "section_number": "8",
+      "chapter_number": 2,
+      "statute_id": "910/2014"
+    },
+    {
+      "id": "ea425ca5-ef4d-44af-b43d-555b8223c228",
+      "node_type": "Section",
+      "publisher": "finlex",
+      "title": "9 § Toimenpiteet kyberturvallisuutta koskevien riskien hallinnassa",
+      "text": "Toimijoiden on toteutettava kyberturvallisuutta koskevan riskienhallinnan toimintamallin mukaiset oikeasuhtaiset tekniset, operatiiviset tai organisatoriset hallintatoimenpiteet viestintäverkkojen ja tietojärjestelmien turvallisuuteen kohdistuvien riskien hallitsemiseksi ja haitallisten vaikutusten estämiseksi tai minimoimiseksi. Toimintamallissa ja siihen perustuvissa hallintatoimenpiteissä on otettava huomioon ja pidettävä yllä ajantasaisesti ainakin: Toimenpiteet on suhteutettava toiminnan laatuun ja laajuuteen, poikkeamasta kohtuudella ennakoitavissa oleviin välittömiin vaikutuksiin, toimijan viestintäverkkojen ja tietojärjestelmien riskialttiuteen, poikkeamien todennäköisyyteen ja vakavuuteen, toimenpiteistä aiheutuviin kustannuksiin sekä ajantasainen kehitys huomioon ottaen käytettävissä oleviin teknisiin mahdollisuuksiin torjua uhka. Valvova viranomainen voi toimialallaan antaa riskienhallintavelvollisuuksia tarkentavia teknisiä määräyksiä: Riskienhallinnassa, riskienhallinnan toimintamallissa ja hallintatoimenpiteissä on noudatettava lisäksi NIS 2 -direktiivin 21 artiklan 5 kohdan nojalla annettavia Euroopan komission täytäntöönpanosäädöksiä.",
+      "section_number": "9",
+      "chapter_number": 2,
+      "statute_id": "910/2014"
+    },
+    {
+      "id": "8259dc47-17f3-4de7-8918-d95a46990bf5",
+      "node_type": "Section",
+      "publisher": "finlex",
+      "title": "10 § Johdon vastuu",
+      "text": "Toimijan johto vastaa kyberturvallisuutta koskevan riskienhallinnan toteuttamisen ja valvonnan järjestämisestä sekä hyväksyy kyberturvallisuutta koskevan riskienhallinnan toimintamallin ja valvoo sen toteuttamista. Toimijan johdolla tulee olla riittävä perehtyneisyys kyberturvallisuutta koskevaan riskienhallintaan. Johdolla tarkoitetaan toimijan hallitusta, hallintoneuvostoa ja toimitusjohtajaa sekä muussa niihin rinnastettavassa asemassa olevaa, joka tosiasiallisesti johtaa sen toimintaa.",
+      "section_number": "10",
+      "chapter_number": 2,
+      "statute_id": "910/2014"
+    },
+    {
+      "id": "139ae30d-1ee6-4b51-90aa-52a26e12ea9b",
+      "node_type": "Section",
+      "publisher": "finlex",
+      "title": "11 § Poikkeamailmoitukset viranomaiselle",
+      "text": "Toimijan on viipymättä ilmoitettava valvovalle viranomaiselle merkittävästä poikkeamasta. Merkittävällä poikkeamalla tarkoitetaan poikkeamaa, joka on aiheuttanut tai voi aiheuttaa vakavan palvelujen toimintahäiriön tai huomattavia taloudellisia tappioita asianomaiselle toimijalle, sekä poikkeamaa, joka on vaikuttanut tai voi vaikuttaa muihin luonnollisiin henkilöihin tai oikeushenkilöihin aiheuttamalla huomattavaa aineellista tai aineetonta vahinkoa. Ensi-ilmoitus on tehtävä 24 tunnin kuluessa merkittävän poikkeaman havaitsemisesta ja jatkoilmoitus 72 tunnin kuluessa merkittävän poikkeaman havaitsemisesta. Ensi-ilmoituksessa on ilmoitettava: Jatkoilmoituksessa on ilmoitettava: Valvova viranomainen voi toimialallaan antaa tarkempia teknisiä määräyksiä, joilla tarkennetaan 11–15 §:n nojalla tehtävän ilmoituksen, tiedotuksen tai raportin tietosisältöä, teknistä muotoa ja menettelyä. Edellä 2 momentissa säädetystä poiketen luottamuspalvelun tarjoajan on tehtävä jatkoilmoitus 24 tunnin kuluessa merkittävän poikkeaman havaitsemisesta, jos merkittävä poikkeama vaikuttaa sen luottamuspalvelujen tarjontaan. Edellä 1 momentissa tarkoitetun lisäksi merkittävällä poikkeamalla tarkoitetaan NIS 2 -direktiivin 23 artiklan 11 kohdan nojalla annetussa Euroopan komission täytäntöönpanosäädöksessä täsmennettyä tilannetta, jossa poikkeama katsotaan merkittäväksi.",
+      "section_number": "11",
+      "chapter_number": 2,
+      "statute_id": "910/2014"
+    },
+    {
+      "id": "f5d42606-6d84-4209-a8eb-02ab3528f35d",
+      "node_type": "Section",
+      "publisher": "finlex",
+      "title": "12 § Poikkeamaa koskeva väliraportti",
+      "text": "Toimijan on annettava valvovan viranomaisen pyynnöstä lisätietoja tai väliraportti merkittävää poikkeamaa koskevista tilannepäivityksistä ja käsittelyn edistymisestä. Jos merkittävä poikkeama on pitkäkestoinen, toimijan on annettava väliraportti viimeistään kuukauden kuluttua jatkoilmoituksen antamisesta.",
+      "section_number": "12",
+      "chapter_number": 2,
+      "statute_id": "910/2014"
+    },
+    {
+      "id": "efc55373-4ffd-4028-a684-8b3e1487e558",
+      "node_type": "Section",
+      "publisher": "finlex",
+      "title": "13 § Poikkeamaa koskeva loppuraportti",
+      "text": "Toimijan on annettava valvovalle viranomaiselle merkittävää poikkeamaa koskeva loppuraportti kuukauden kuluessa jatkoilmoituksen toimittamisesta tai, jos kyseessä on pitkäkestoinen poikkeama, kuukauden kuluessa sen käsittelyn päättymisestä. Loppuraportin on sisällettävä:",
+      "section_number": "13",
+      "chapter_number": 2,
+      "statute_id": "910/2014"
+    },
+    {
+      "id": "b828f612-e309-4631-b3d4-f1ddd820f61f",
+      "node_type": "Section",
+      "publisher": "finlex",
+      "title": "14 § Poikkeamasta ja kyberuhkasta ilmoittaminen muulle kuin viranomaiselle",
+      "text": "Toimijan on ilmoitettava viipymättä merkittävästä poikkeamasta palvelujensa vastaanottajille, jos merkittävä poikkeama todennäköisesti haittaa toimijan palvelujen tarjoamista. Toimijan on ilmoitettava viipymättä merkittävästä kyberuhkasta sekä kyberuhkan hallitsemiseksi käytettävissä olevista toimenpiteistä niille palvelujensa vastaanottajille, joihin merkittävä kyberuhka saattaa vaikuttaa. Jos merkittävästä poikkeamasta tiedottaminen on yleisen edun mukaista, valvova viranomainen voi velvoittaa toimijan tiedottamaan asiasta tai tiedottaa asiasta itse.",
+      "section_number": "14",
+      "chapter_number": 2,
+      "statute_id": "910/2014"
+    },
+    {
+      "id": "fbe31c03-6849-422f-a5dd-e26c6f610fdc",
+      "node_type": "Section",
+      "publisher": "finlex",
+      "title": "15 § Vapaaehtoinen ilmoittaminen",
+      "text": "Toimijat voivat vapaaehtoisesti tehdä valvovalle viranomaiselle ilmoituksia muista kuin 11 §:ssä tarkoitetuista poikkeamista, kyberuhkista ja läheltä piti -tilanteista. Valvovan viranomaisen on toimialallaan otettava vastaan vapaaehtoisia poikkeamailmoituksia merkittävistä poikkeamista, poikkeamista, kyberuhkista ja läheltä piti -tilanteista myös muilta kuin tässä laissa tarkoitetuilta toimijoilta. Valvovan viranomaisen on toimitettava tieto tämän pykälän nojalla tehdyistä ilmoituksista 18 §:ssä tarkoitetulle keskitetylle yhteyspisteelle.",
+      "section_number": "15",
+      "chapter_number": 2,
+      "statute_id": "910/2014"
+    },
+    {
+      "id": "77a11425-67c0-4e54-b5d9-13cf55ee1d40",
+      "node_type": "Section",
+      "publisher": "finlex",
+      "title": "16 § Poikkeamailmoituksen vastaanottaminen",
+      "text": "Valvovan viranomaisen on vastattava poikkeamailmoituksen tehneelle taholle viivytyksettä. Vastauksessa on oltava alustava palaute merkittävästä poikkeamasta sekä ohjeet siitä ilmoittamisesta esitutkintaviranomaiselle, jos asiassa epäillään rikosta. Valvova viranomainen voi asettaa etusijalle 11 §:ssä tarkoitettuihin ilmoituksiin vastaamisen ja niiden 17 §:n mukaisen käsittelyn vapaaehtoisiin ilmoituksiin nähden.",
+      "section_number": "16",
+      "chapter_number": 2,
+      "statute_id": "910/2014"
+    },
+    {
+      "id": "fe2381bf-77a9-4479-9ab1-bc6fc34077fb",
+      "node_type": "Section",
+      "publisher": "finlex",
+      "title": "17 § Poikkeamailmoitusten käsittely",
+      "text": "Valvovan viranomaisen on toimitettava 11–13 ja 15 §:ssä tarkoitetut ilmoitukset ja raportit CSIRT-yksikölle välittömästi. CSIRT-yksikkö antaa toimijan pyynnöstä ohjeita ja operatiivisia neuvoja vaikutuksia lieventävistä toimenpiteistä. Jos merkittävästä poikkeamasta on aiheutunut yleisen tietosuoja-asetuksen 33 artiklassa tarkoitettu henkilötietojen tietoturvaloukkaus, josta on ilmoitettava, valvovan viranomaisen on ilmoitettava poikkeaman havaitsemisesta tietosuojavaltuutetulle. Jos merkittävässä poikkeamassa toimijan ilmoituksen perusteella voidaan olettaa tehdyksi rikos, josta säädetty enimmäisrangaistus on vähintään kolme vuotta vankeutta, valvovan viranomaisen on ilmoitettava merkittävän poikkeaman havaitsemisesta poliisille. Jos merkittävällä poikkeamalla on vaikutuksia muihin Euroopan unionin jäsenvaltioihin tai muihin toimialoihin, valvovan viranomaisen on tiedotettava siitä 18 §:ssä tarkoitetulle keskitetylle yhteyspisteelle ja toimitettava sitä koskevat ilmoitukset, raportit ja muut tiedot yhteyspisteelle. Jos merkittävä poikkeama vaikuttaa toiseen Euroopan unionin jäsenvaltioon, keskitetyn yhteyspisteen on ilmoitettava siitä ilman aiheetonta viivytystä Euroopan unionin kyberturvallisuusvirastolle ja niille jäsenvaltioille, joihin poikkeama vaikuttaa. Keskitetyn yhteyspisteen on pyynnöstä toimitettava myös 11–13 §:ssä tarkoitetut ilmoitukset ja raportit sen Euroopan unionin jäsenvaltion, johon poikkeama vaikuttaa, keskitetylle yhteyspisteelle. Keskitetty yhteyspiste saa luovuttaa tässä tarkoituksessa Euroopan unionin kyberturvallisuusvirastolle ja muiden Euroopan unionin jäsenvaltioiden keskitetyille yhteyspisteille tietoja merkittävästä poikkeamasta.",
+      "section_number": "17",
+      "chapter_number": 2,
+      "statute_id": "910/2014"
+    },
+    {
+      "id": "8d35b246-51a9-4c38-a147-924a7d7e5ec2",
+      "node_type": "Section",
+      "publisher": "finlex",
+      "title": "18 § Keskitetty yhteyspiste",
+      "text": "Liikenne- ja viestintäviraston Kyberturvallisuuskeskus toimii NIS 2 -direktiivin 8 artiklan 3 kohdassa tarkoitettuna keskitettynä yhteyspisteenä. Keskitetyn yhteyspisteen tehtävänä on edistää valvovien viranomaisten välistä yhteistyötä ja koordinaatiota tämän lain mukaisten tehtävien toteuttamisessa. Keskitetyn yhteyspisteen on toimitettava Euroopan unionin kyberturvallisuusvirastolle kolmen kuukauden välein yhteenvetoraportti, joka sisältää anonymisoidut koontitiedot 11–13 ja 15 §:n nojalla ilmoitetuista merkittävistä poikkeamista, poikkeamista, kyberuhkista ja läheltä piti -tilanteista. Keskitetyllä yhteyspisteellä on oikeus saada tätä tarkoitusta varten anonymisoidut koontitiedot valvovalta viranomaiselta.",
+      "section_number": "18",
+      "chapter_number": 2,
+      "statute_id": "910/2014"
+    },
+    {
+      "id": "d8f9eea4-399d-434b-bade-737aa602aa06",
+      "node_type": "Section",
+      "publisher": "finlex",
+      "title": "19 § CSIRT-yksikkö",
+      "text": "Liikenne- ja viestintävirastossa toimii tietoturvaloukkauksiin reagoiva ja niitä tutkiva NIS 2 ‑direktiivin 1 artiklan 2 kohdan a alakohdassa tarkoitettu CSIRT-yksikkö. Sen toiminta on järjestettävä erilliseksi 26 §:n nojalla tehtävästä valvonnasta. CSIRT-yksikön on täytettävä seuraavat vaatimukset: CSIRT-yksikön on määritettävä selkeästi 2 momentin 1 kohdassa tarkoitetut viestintäkanavat ja tiedotettava niistä kohderyhmilleen ja yhteistyökumppaneilleen.",
+      "section_number": "19",
+      "chapter_number": 3,
+      "statute_id": "910/2014"
+    },
+    {
+      "id": "b8fc5f1e-2184-4526-acc9-3577c971e8c2",
+      "node_type": "Section",
+      "publisher": "finlex",
+      "title": "20 § CSIRT-yksikön tehtävät",
+      "text": "CSIRT-yksikön tehtävänä on: CSIRT-yksikkö voi asettaa tehtäviään riskiperusteisesti tärkeysjärjestykseen käytettävissään olevien voimavarojen mukaisesti. CSIRT-yksikkö koordinoi 23 §:ssä tarkoitettuja kyberturvallisuustietojen vapaaehtoisia jakamisjärjestelyjä itsensä, tämän lain soveltamisalaan kuuluvien toimijoiden ja muiden yhteisöjen kesken. CSIRT-yksikkö voi tuottaa 1 momentin 2 kohdassa tarkoitettua viestintäverkon ja tietojärjestelmien reaaliaikaista tai lähes reaaliaikaista tietoturvallisuuden seurantaa koskevaa palvelua viestintäverkkojen ja tietojärjestelmien tietoturvallisuuden varmistamiseksi, poikkeamien havaitsemiseksi ja selvittämiseksi sekä kyberuhkien ennalta estämiseksi (tietoturvaloukkausten havainnointipalvelu). CSIRT-yksikkö voi tarjota tietoturvaloukkausten havainnointipalvelua suoraan sitä pyytäville toimijoille ja muille yhteisöille sekä sellaisille tietoturvapalveluntarjoajille, jotka tarjoavat tietoturvaloukkausten havainnointipalvelua toimijoille tai muille yhteisöille käytettäväksi (palvelukeskus). CSIRT-yksikön 1 momentin 1 ja 2 kohdassa sekä 21 §:n 4 momentissa tarkoitetusta palvelusta voidaan periä maksu siltä, joka palvelua pyytää. Viranomaisten suoritteiden maksullisuudesta ja suoritteista perittävien maksujen suuruuden yleisistä perusteista sekä maksujen muista perusteista säädetään valtion maksuperustelaissa (150/1992).",
+      "section_number": "20",
+      "chapter_number": 3,
+      "statute_id": "910/2014"
+    },
+    {
+      "id": "7909d9bf-a676-47a8-94c3-3b658adf8f4f",
+      "node_type": "Section",
+      "publisher": "finlex",
+      "title": "21 § Yleisten viestintäverkkojen ja tietojärjestelmien verkkopohjainen haavoittuvuuskartoitus",
+      "text": "CSIRT-yksiköllä on oikeus ennakoivalla, muulla kuin intrusiivisella tavalla havainnoida ja kartoittaa tietoja yleiseen viestintäverkkoon liitetyistä viestintäverkoista ja tietojärjestelmistä haavoittuvuuksien, kyberuhkien ja turvattomasti määritettyjen viestintäverkkojen tai tietojärjestelmien asetuksien havaitsemiseksi (haavoittuvuuskartoitus). Haavoittuvuuskartoitus tehdään haavoittuvien tai turvattomasti määritettyjen viestintäverkkojen ja tietojärjestelmien asetuksien havaitsemiseksi ja havainnoista asianomaisille tahoille ilmoittamiseksi. Haavoittuvuuskartoituksen toteuttamisessa CSIRT-yksiköllä on oikeus yleisen viestintäverkon välityksellä hankkia tietoja siihen kytkettyjen viestintäverkkolaitteiden, telepäätelaitteiden, muiden tietojärjestelmien ja niiden tietoliikennejärjestelyjen yksilöintitiedoista, käytetyistä ohjelmistoista ja niiden toiminnasta, teknisestä toteutuksesta ja niiden avulla tarjotuista palveluista. Haavoittuvuuskartoitus ei saa aiheuttaa haittaa kartoituksen kohteena olevan järjestelmän tai palvelun toiminnalle. Haavoittuvuuskartoituksella ei saa hankkia tietoa yleisessä viestintäverkossa tai yleisesti saatavilla olevassa viestintäpalvelussa välitettävänä olevasta viestinnästä. Haavoittuvuuskartoituksessa havaittuja, kartoituksen kohteeseen yhdistettävissä olevia tietoja saa käyttää vain viestintäverkkoon tai tietojärjestelmään kohdistuvista haavoittuvuuksista ja riskeistä ilmoittamiseksi kartoituksen kohteelle. CSIRT-yksikkö voi käyttää haavoittuvuuskartoituksella hankittuja tietoja lisäksi 20 §:n 1 momentin 1, 4 ja 5 kohdassa tarkoitettujen tehtävien hoitamiseksi. Tarpeettomat tiedot on poistettava viipymättä. CSIRT-yksiköllä on oikeus tehdä kartoituksen kohteen pyynnöstä haavoittuvuuskartoitus kartoituksen kohteen viestintäverkossa tai tietojärjestelmissä 1–3 momentissa säädetystä poikkeavalla tavalla sellaisen haavoittuvuuden, kyberuhkan tai turvattomasti määritettyjen asetuksien havaitsemiseksi, jolla voi olla merkittävä vaikutus viestintäverkkoon tai tietojärjestelmään tai niiden avulla tarjottaviin palveluihin (kohdennettu haavoittuvuuskartoitus). Haavoittuvuuskartoituksessa ja kohdennetussa haavoittuvuuskartoituksessa ei saa käsitellä sähköisten viestien sisältöä eikä välitystietoa. CSIRT-yksikön on hävitettävä haavoittuvuuskartoituksessa tai kohdennetussa haavoittuvuuskartoituksessa saamansa tiedot, kun ne eivät ole enää tarpeen tässä pykälässä tarkoitettujen tehtävien hoitamiseksi.",
+      "section_number": "21",
+      "chapter_number": 3,
+      "statute_id": "910/2014"
+    },
+    {
+      "id": "73bcd6db-37f9-4f4b-a229-da04018bd0ff",
+      "node_type": "Section",
+      "publisher": "finlex",
+      "title": "22 § Koordinoitu haavoittuvuuksien julkistaminen",
+      "text": "CSIRT-yksikkö toimii NIS 2 -direktiivin 12 artiklassa tarkoitettuna koordinaattorina koordinoitua haavoittuvuuksien julkistamista varten. Tässä tehtävässä CSIRT-yksikkö ottaa vastaan ilmoituksia haavoittuvuuksista ja huolehtii niistä johtuvista tarpeellisista jatkotoimista. Ilmoituksen saa antaa nimettömänä. Koordinaattorina CSIRT-yksikkö ottaa yhteyttä ja toimii tarvittaessa välittäjänä haavoittuvuudesta ilmoittavan tahon ja TVT-tuotteen tai -palvelun valmistajan tai tarjoajan välillä, avustaa haavoittuvuudesta ilmoittavia tahoja ja neuvottelee haavoittuvuuden julkistamisen aikataulusta sekä koordinoi useisiin toimijoihin vaikuttavien haavoittuvuuksien hallintaa. Lisäksi CSIRT-yksikkö ohjaa ja neuvoo tietojen ilmoittamisessa Euroopan haavoittuvuustietokantaan ja tietojen hakemisessa siitä. CSIRT-yksiköllä on oikeus ilmoittaa Euroopan haavoittuvuustietokantaan haavoittuvuuksista tiedot: Jos CSIRT-yksikkö saa tiedon sellaisesta haavoittuvuudesta, jolla voi olla merkittävä vaikutus muihin Euroopan unionin jäsenvaltioihin, sen on tehtävä yhteistyötä kyseisten valtioiden CSIRT-yksiköiden kanssa CSIRT-verkostossa.",
+      "section_number": "22",
+      "chapter_number": 3,
+      "statute_id": "910/2014"
+    },
+    {
+      "id": "93a0b050-85b5-4167-91b7-8daa475f544a",
+      "node_type": "Section",
+      "publisher": "finlex",
+      "title": "23 § Kyberturvallisuustietojen vapaaehtoiset jakamisjärjestelyt",
+      "text": "CSIRT-yksikön, toimijoiden ja muiden kuin tämän lain soveltamisalaan kuuluvien yhteisöiden välillä voidaan muodostaa CSIRT-yksikön koordinoimia kyberturvallisuustietojen vapaaehtoisia jakamisjärjestelyitä niihin osallistuvien yhteisöjen sekä niiden asiakkaiden viestintäverkkoihin, tietojärjestelmiin tai palveluihin kohdistuvien kyberuhkien ehkäisemiseksi ja havaitsemiseksi, poikkeamien hallitsemiseksi ja niistä palautumiseksi ja niiden vaikutusten lieventämiseksi. Kyberturvallisuustietojen vapaaehtoiseen jakamisjärjestelyyn osallistuvien kesken voidaan luovuttaa tietoja: Sen lisäksi, mitä sähköisen viestinnän palveluista annetun lain 319 §:ssä säädetään tietojen luovuttamisesta, CSIRT-yksikkö voi luovuttaa jakamisjärjestelyyn osallistuvalle tämän lain mukaisia tehtäviä suorittaessaan saamansa tiedon kyberuhkaan tai poikkeamaan liittyvästä välitystiedosta tai haitallisen tietokoneohjelman tai käskyn sisältävästä viestistä. Jakamisjärjestelyihin osallistuva toimija tai muu yhteisö saa sähköisen viestinnän palveluista annetun lain 136 §:n 4 momentin estämättä luovuttaa oma-aloitteisesti CSIRT-yksikölle ja toiselle tämän lain mukaiseen vapaaehtoiseen jakamisjärjestelyyn osallistuvalle tietoa kyberuhkaan tai poikkeamaan liittyvästä välitystiedosta tai haitallisen tietokoneohjelman tai käskyn sisältävästä viestistä. Jakamisjärjestelyihin osallistuva saa käsitellä tämän pykälän nojalla saamaansa kyberuhkaan tai poikkeamaan liittyvää välitystietoa tai haitallisen tietokoneohjelman tai käskyn sisältävää viestiä koskevaa tietoa vain 1 momentissa tarkoitettuihin tarkoituksiin. CSIRT-yksikkö voi lisäksi käsitellä tämän pykälän nojalla saamiaan tietoja 20 §:n 1 momentissa säädetyn tehtävänsä hoitamiseksi. Tiedon luovuttamisella ei saa rajoittaa luottamuksellisen viestin ja yksityisyyden suojaa enempää kuin on välttämätöntä 1 momentissa säädetyn tarkoituksen vuoksi.",
+      "section_number": "23",
+      "chapter_number": 3,
+      "statute_id": "910/2014"
+    },
+    {
+      "id": "7bfad8ef-3e46-4860-8858-a900d7b3ca13",
+      "node_type": "Section",
+      "publisher": "finlex",
+      "title": "24 § Tietoturvaloukkausten havainnointipalveluun liittyvä tiedonkäsittely",
+      "text": "Tietoturvaloukkausten havainnointipalvelua käyttävä toimija, muu yhteisö, palvelukeskus ja CSIRT-yksikkö saavat luovuttaa toisilleen viestintäverkkojen ja tietojärjestelmien tietoturvallisuuden seurannan kannalta tarpeellisia tietoja kyberuhkien ehkäisemiseksi ja havaitsemiseksi sekä poikkeamien hallitsemiseksi, niistä palautumiseksi ja niiden vaikutusten lieventämiseksi. Siinä määrin kuin tietoturvaloukkausten havainnointipalvelun toteuttamiseksi on välttämätöntä, luovutettavat tiedot saavat sisältää palvelua käyttävän toimijan tai muun yhteisön palvelussa käsiteltäväksi pyytämiä sellaisia sähköisiä viestejä tai niihin liittyviä välitystietoja, joita sillä on oikeus käsitellä sähköisen viestinnän palveluista annetun lain 272 §:n nojalla. Välitystietojen ja sähköisten viestien käsittelyyn tietoturvaloukkausten havainnointipalvelussa CSIRT-yksikössä ja palvelukeskuksessa sovelletaan, mitä sähköisen viestinnän palveluista annetun lain 136–138, 145 ja 272 §:ssä säädetään. CSIRT-yksikkö saa lisäksi käyttää palvelun tuottamisen yhteydessä saamiaan välitystietoja ja muita tietoja kansallisen kyberturvallisuuden tilannekuvan ylläpitämisen tukemiseksi. Mitä sähköisen viestinnän palveluista annetun lain 316 §:n 4 momentissa säädetään merkittävien tietoturvaloukkausten tai -uhkien selvittämistä koskevien tietojen hävittämisestä ja 319 §:n 1 momentissa salassapitovelvollisuudesta, koskee myös CSIRT-yksikölle tietoturvaloukkausten havainnointipalvelun toteuttamiseksi luovutettuja viestejä ja välitystietoja.",
+      "section_number": "24",
+      "chapter_number": 3,
+      "statute_id": "910/2014"
+    },
+    {
+      "id": "7e46f457-f384-4da0-b7d1-b6b4025cf927",
+      "node_type": "Section",
+      "publisher": "finlex",
+      "title": "25 § CSIRT-yksikölle vapaaehtoisesti luovutettu tieto",
+      "text": "Siitä riippumatta, mitä viranomaisten tiedonsaantioikeuksista muualla laissa säädetään, CSIRT-yksikölle tämän lain mukaisten tehtävien hoitamiseksi vapaaehtoisesti luovutettua tietoa ei saa ilman tiedon luovuttaneen suostumusta käyttää tiedon luovuttajaan kohdistuvassa rikostutkinnassa eikä hallinnollisessa tai muussa tiedon luovuttajaan kohdistuvassa päätöksenteossa.",
+      "section_number": "25",
+      "chapter_number": 3,
+      "statute_id": "910/2014"
+    },
+    {
+      "id": "06fa6da3-b2db-4840-b16d-5e590c7bab20",
+      "node_type": "Section",
+      "publisher": "finlex",
+      "title": "26 § Valvovat viranomaiset",
+      "text": "Tämän lain, sen nojalla annettujen määräysten ja NIS 2 -direktiivin nojalla annettujen säännösten noudattamista valvoo:",
+      "section_number": "26",
+      "chapter_number": 4,
+      "statute_id": "910/2014"
+    },
+    {
+      "id": "4f6e2895-e844-45fc-8da0-50a9d6f83f24",
+      "node_type": "Section",
+      "publisher": "finlex",
+      "title": "27 § Valvonnan kohdistaminen",
+      "text": "Valvonta on kohdistettava keskeisiin toimijoihin. Valvova viranomainen voi kuitenkin kohdistaa valvontaa myös muuhun kuin keskeiseen toimijaan, jos on perusteltu syy epäillä, että tämä ei ole noudattanut tätä lakia, sen nojalla annettuja määräyksiä tai NIS 2 -direktiivin nojalla annettuja säännöksiä. Keskeisellä toimijallatarkoitetaan: Valvova viranomainen voi asettaa sille tässä laissa säädetyt tehtävät tärkeysjärjestykseen riskiperusteisesti. Valvovan viranomaisen on otettava valvonnan kohdistamisessa ja 29–34 §:ssä tarkoitettujen toimien käyttämisestä päättäessään huomioon:",
+      "section_number": "27",
+      "chapter_number": 4,
+      "statute_id": "910/2014"
+    },
+    {
+      "id": "350b59e5-5813-4486-a9fd-79d9b000fcd9",
+      "node_type": "Section",
+      "publisher": "finlex",
+      "title": "28 § Tiedonsaantioikeus",
+      "text": "Valvovalla viranomaisella on salassapitosäännösten ja muiden tietojen luovuttamista koskevien rajoitusten estämättä oikeus saada toimijalta kyberturvallisuutta koskevien riskien hallintaa, riskienhallinnan toimintamallia, hallintatoimenpiteitä ja merkittävää poikkeamaa koskevat tiedot sekä muut edellä mainittuihin tietoihin välittömästi liittyvät tiedot, jotka ovat välttämättömiä kyberturvallisuutta koskevan riskienhallintavelvoitteen noudattamisen ja merkittävistä poikkeamista ilmoittamisen ja raportoinnin valvontaa varten. Valvovalla viranomaisella on salassapitosäännösten ja muiden tietojen luovuttamista koskevien rajoitusten estämättä oikeus saada toimijalta välitystieto, sijaintitieto sekä tieto haitallisen tietokoneohjelman tai käskyn sisältävästä viestistä, jos se on välttämätöntä kyberturvallisuutta koskevan riskienhallintavelvoitteen noudattamisen tai merkittävistä poikkeamista ilmoittamisen ja raportoinnin valvomista varten. Valvovan viranomaisen tämän momentin nojalla saamat tiedot on pidettävä salassa. Valvovan viranomaisen on tietopyynnössä ilmoitettava pyynnön tarkoitus sekä täsmennettävä pyydetyt tiedot. Tiedot on luovutettava viipymättä, viranomaisen pyytämässä muodossa ja maksutta. Valvovalla viranomaisella on salassapitosäännösten, 2 momentissa säädetyn salassapitovelvollisuuden ja muiden tietojen luovuttamista koskevien rajoitusten estämättä oikeus luovuttaa tässä laissa säädettyjen tehtäviensä hoitamisen yhteydessä saamansa tai laatimansa asiakirja sekä ilmaista salassa pidettävä tieto toiselle valvovalle viranomaiselle ja CSIRT-yksikölle, jos se on välttämätöntä viranomaiselle tässä laissa säädettyä tehtävää varten. Tiedonsaantioikeuden käyttämisellä tai tietojen luovuttamisella ei saa rajoittaa luottamuksellisen viestin ja yksityisyyden suojaa enempää kuin on välttämätöntä. Valvovan viranomaisen tiedonsaantioikeus ei koske CSIRT-yksikön tämän lain nojalla tuottamia palveluita eikä tietoja toimijassa. Tässä pykälässä tarkoitettu tiedonsaantioikeus ei koske salassa pidettäviä tietoja julkisen hallinnon turvallisuusverkkotoiminnasta annetussa laissa (10/2015) tarkoitetusta turvallisuusverkon palvelutuotannosta tai palvelujen käytöstä eikä tietoja, joiden luovuttaminen vaarantaisi maanpuolustusta tai kansallista turvallisuutta taikka olisi vastoin niihin liittyvää tärkeää etua.",
+      "section_number": "28",
+      "chapter_number": 4,
+      "statute_id": "910/2014"
+    },
+    {
+      "id": "cf93f351-f2ac-4942-88ce-f7e1beb1d3de",
+      "node_type": "Section",
+      "publisher": "finlex",
+      "title": "29 § Tarkastusoikeus",
+      "text": "Valvovalla viranomaisella on oikeus tehdä toimijaa koskeva tarkastus. Tarkastus tehdään tässä laissa tai sen nojalla annetussa määräyksessä taikka NIS 2 -direktiivin nojalla annetuissa säännöksissä säädettyjen velvollisuuksien noudattamisen valvomiseksi siinä laajuudessa kuin se on tarpeen. Jos se on tarkastuksen laadun tai siihen liittyvien teknisten syiden vuoksi tarpeellista, valvova viranomainen voi pyytää tarkastuksen suorittajaksi toisen valvovan viranomaisen tai käyttää tarkastuksessa apuna toista valvovaa viranomaista, tietoturvallisuuden arviointilaitosta ja ulkopuolista tietotekniikan asiantuntijaa. Tarkastuksen suorittajalla ja siihen osallistuvalla on oltava sellainen koulutus ja kokemus kuin tarkastuksen suorittamiseksi on tarpeen. Ulkopuoliseen asiantuntijaan sovelletaan rikosoikeudellista virkavastuuta koskevia säännöksiä hänen hoitaessaan tämän pykälän mukaisia tehtäviä. Vahingonkorvausvastuusta säädetään vahingonkorvauslaissa (412/1974). Toimijoiden on tarkastusta varten päästettävä tarkastusta suorittava tarkastuksen edellyttämässä laajuudessa tarkastuksen kohteena olevaan viestintäverkkoon tai tietojärjestelmään ja muihin kuin pysyväisluonteiseen asumiseen tarkoitettuihin tiloihin. Tarkastuksen suorittamiseksi valvovalla viranomaisella, tarkastusta suorittavalla toisella viranomaisella, tietoturvallisuuden arviointilaitoksella ja ulkopuolisella asiantuntijalla on salassapitosäännösten tai muiden tiedon luovuttamista koskevien rajoitusten estämättä oikeus saada tutkittavakseen valvontatehtävän kannalta välttämättömät tiedot, asiakirjat, laitteet ja ohjelmistot, suorittaa tarvittavia testejä ja mittauksia sekä tarkastaa toimijan toteuttamat turvallisuusjärjestelyt. Tarkastuksen suorittajan tarkastus- ja tiedonsaantioikeuteen sovelletaan mitä 28 §:n 6 momentissa säädetään tiedonsaantioikeuden rajoituksista. Tarkastuksessa noudatettavaan menettelyyn sovelletaan, mitä hallintolain (434/2003) 39 §:ssä säädetään tarkastuksesta.",
+      "section_number": "29",
+      "chapter_number": 4,
+      "statute_id": "910/2014"
+    },
+    {
+      "id": "c8ee4bed-5498-4711-b3e0-7e43848414ab",
+      "node_type": "Section",
+      "publisher": "finlex",
+      "title": "30 § Turvallisuusauditointi",
+      "text": "Valvovalla viranomaisella on oikeus velvoittaa toimija teettämään kyberturvallisuuden riskienhallintaan kohdistuva turvallisuusauditointi, jos: Valvovalla viranomaisella on oikeus saada tieto teetetyn turvallisuusauditoinnin tuloksista sekä velvoittaa toimija toteuttamaan turvallisuusauditoinnin suosittelemat kohtuulliset ja oikeasuhtaiset toimenpiteet kyberturvallisuutta koskevan riskienhallinnan kehittämiseksi.",
+      "section_number": "30",
+      "chapter_number": 4,
+      "statute_id": "910/2014"
+    },
+    {
+      "id": "14dd3062-4469-4d7e-8341-ae970cfebd89",
+      "node_type": "Section",
+      "publisher": "finlex",
+      "title": "31 § Valvontapäätös ja varoitus",
+      "text": "Valvova viranomainen voi velvoittaa toimijan määräajassa korjaamaan puutteet tässä laissa tai sen nojalla annetuissa määräyksissä taikka NIS 2 -direktiivin nojalla annetuissa säännöksissä säädettyjen velvollisuuksien noudattamisessa. Valvova viranomainen voi päätöksellä velvoittaa toimijan julkistamaan kyseiset puutteet tai muut seikat, jotka liittyvät tämän lain, sen nojalla annettujen määräysten tai NIS 2 -direktiivin nojalla annettujen säännösten rikkomiseen. Valvova viranomainen voi antaa toimijalle varoituksen, jos tämä ei ole noudattanut tätä lakia, sen nojalla annettuja määräyksiä tai NIS 2 -direktiivin nojalla annettuja säännöksiä. Varoituksessa on yksilöitävä puute tai laiminlyönti, jota se koskee. Varoitus on annettava kirjallisena.",
+      "section_number": "31",
+      "chapter_number": 4,
+      "statute_id": "910/2014"
+    },
+    {
+      "id": "a22d0f30-b981-4289-a12e-77ba81df5820",
+      "node_type": "Section",
+      "publisher": "finlex",
+      "title": "32 § Johdon toiminnan rajoittaminen",
+      "text": "Valvova viranomainen voi kieltää määräajaksi henkilöä toimimasta keskeisen toimijan hallituksen jäsenenä tai varajäsenenä, hallintoneuvoston jäsenenä tai varajäsenenä, toimitusjohtajana tai muussa siihen rinnastettavassa asemassa, jos tämä on toistuvasti ja vakavasti rikkonut 10 §:ssä säädettyjä velvollisuuksia. Valvovan viranomaisen on ennen päätöksen tekemistä annettava keskeiselle toimijalle varoitus, jossa yksilöidään puute tai laiminlyönti, jonka korjaamatta jättäminen voi johtaa päätökseen johdon toiminnan rajoittamisesta, sekä varattava toimijalle kohtuullinen määräaika puutteen tai laiminlyönnin korjaamiseksi. Päätös saa olla voimassa enintään niin kauan, kuin sen perusteena oleva puute tai laiminlyönti on korjaamatta, kuitenkin enintään viisi vuotta. Edellä 1 momentissa säädetystä poiketen johdon toimintaa ei saa rajoittaa, jos kyse on yksityisestä elinkeinonharjoittajasta, avoimesta yhtiöstä, kommandiittiyhtiöstä, valtion viranomaisesta, valtion liikelaitoksesta, hyvinvointialueesta tai -yhtymästä, kunnallisesta viranomaisesta, itsenäisestä julkisoikeudellisesta laitoksesta, eduskunnan virastosta, tasavallan presidentin kansliasta, Suomen evankelis-luterilaisesta kirkosta, Suomen ortodoksisesta kirkosta tai niiden seurakunnista, seurakuntayhtymistä taikka muista elimistä.",
+      "section_number": "32",
+      "chapter_number": 4,
+      "statute_id": "910/2014"
+    },
+    {
+      "id": "3385cba8-d8a7-48d4-a310-c7945bddf607",
+      "node_type": "Section",
+      "publisher": "finlex",
+      "title": "33 § Ilmoitus tietosuojavaltuutetulle",
+      "text": "Jos valvova viranomainen saa tässä laissa tarkoitettujen tehtävien hoitamisen yhteydessä tietoonsa, että 2 luvussa säädettyjen velvollisuuksien laiminlyönti voi johtaa tai on johtanut yleisessä tietosuoja-asetuksessa tarkoitettuun henkilötietojen tietoturvaloukkaukseen, josta on mainitun asetuksen 33 artiklan nojalla ilmoitettava asetuksessa tarkoitetulle valvontaviranomaiselle, valvovan viranomaisen on ilmoitettava asiasta tietosuojavaltuutetulle. Valvovan viranomaisen on tehtävä 1 momentissa tarkoitettu ilmoitus tietosuojavaltuutetulle myös, jos yleisen tietosuoja-asetuksen nojalla toimivaltainen valvontaviranomainen on sijoittunut toiseen jäsenvaltioon.",
+      "section_number": "33",
+      "chapter_number": 4,
+      "statute_id": "910/2014"
+    },
+    {
+      "id": "9319348a-4df7-4be3-86c8-4f4a40af91e9",
+      "node_type": "Section",
+      "publisher": "finlex",
+      "title": "34 § Uhkasakko, teettämisuhka ja keskeyttämisuhka",
+      "text": "Valvova viranomainen voi asettaa tämän lain nojalla antamansa päätöksen tehosteeksi uhkasakon, teettämisuhan tai keskeyttämisuhan.",
+      "section_number": "34",
+      "chapter_number": 4,
+      "statute_id": "910/2014"
+    },
+    {
+      "id": "f4e64cad-2a8c-451e-ac66-1ebf029ebd2a",
+      "node_type": "Section",
+      "publisher": "finlex",
+      "title": "35 § Hallinnollinen seuraamusmaksu",
+      "text": "Toimijalle voidaan määrätä hallinnollinen seuraamusmaksu, jos se tahallaan tai törkeästä huolimattomuudesta laiminlyö: Seuraamusmaksua ei voi määrätä valtion viranomaisille, valtion liikelaitoksille, hyvinvointialueille eikä -yhtymille, kunnallisille viranomaisille, itsenäisille julkisoikeudellisille laitoksille, eduskunnan virastoille, tasavallan presidentin kanslialle eikä Suomen evankelis-luterilaiselle kirkolle ja Suomen ortodoksiselle kirkolle eikä niiden seurakunnille, seurakuntayhtymille ja muille elimille.",
+      "section_number": "35",
+      "chapter_number": 5,
+      "statute_id": "910/2014"
+    },
+    {
+      "id": "6070ec53-2a0c-4da1-8a92-884ee898198e",
+      "node_type": "Section",
+      "publisher": "finlex",
+      "title": "36 § Seuraamusmaksulautakunta",
+      "text": "Liikenne- ja viestintäviraston yhteydessä toimii seuraamusmaksulautakunta. Lautakunta määrää hallinnollisen seuraamusmaksun valvovan viranomaisen esityksestä. Hallinnollinen seuraamusmaksu määrätään maksettavaksi valtiolle. Liikenne- ja viestintävirasto nimeää lautakunnan puheenjohtajan ja varapuheenjohtajan. Kukin valvova viranomainen nimeää lautakuntaan jäsenen ja tälle henkilökohtaisen varajäsenen. Lautakunnan jäseneltä ja varajäseneltä edellytetään perehtyneisyyttä kyberturvallisuutta koskevien riskien hallintaan sekä NIS 2 -direktiiviin ja sitä täytäntöönpanevassa sääntelyssä asetettuihin velvollisuuksiin nimeävän viranomaisen valvontatoimialalla. Lautakunnan puheenjohtajalla ja varapuheenjohtajalla tulee olla tehtävän edellyttämä riittävä oikeudellinen asiantuntemus. Lautakunnan jäsenet nimetään kolmen vuoden määräajaksi. Lautakunnan jäsen toimii tehtävässään riippumattomasti ja puolueettomasti. Seuraamusmaksulautakunnan päätös tehdään esittelystä. Esittelijänä toimii sen valvovan viranomaisen virkamies, jonka valvontatoimivaltaan kohdistuva asia on ratkaistavana. Lautakunta on päätösvaltainen, kun paikalla on puheenjohtaja tai varapuheenjohtaja ja vähintään kaksi muuta jäsentä tai varajäsentä. Päätökseksi tulee se kanta, jota enemmistö on kannattanut. Äänten mennessä tasan päätökseksi tulee se kanta, joka on lievempi sille, johon seuraamus kohdistuu. Seuraamusmaksulautakunnalla on oikeus salassapitosäännösten estämättä saada maksutta seuraamusmaksun määräämiseksi välttämättömät 28 §:ssä tarkoitetut tiedot sekä muut tiedot, jotka ovat välttämättömiä seuraamusmaksun määräämiseksi tai sen määrän arvioimiseksi.",
+      "section_number": "36",
+      "chapter_number": 5,
+      "statute_id": "910/2014"
+    },
+    {
+      "id": "62065452-7391-4ebf-a81e-504be5a122d6",
+      "node_type": "Section",
+      "publisher": "finlex",
+      "title": "37 § Seuraamusmaksun määrääminen",
+      "text": "Hallinnollisen seuraamusmaksun määrä perustuu kokonaisarviointiin, jossa otetaan huomioon tapauksen olosuhteet sekä ainakin seuraavat seikat:",
+      "section_number": "37",
+      "chapter_number": 5,
+      "statute_id": "910/2014"
+    },
+    {
+      "id": "f18937ff-90b1-4e22-bc72-7a2c3c189507",
+      "node_type": "Section",
+      "publisher": "finlex",
+      "title": "38 § Seuraamusmaksun enimmäismäärä",
+      "text": "Keskeiselle toimijalle määrättävän hallinnollisen seuraamusmaksun enimmäismäärä on 10 000 000 euroa tai kaksi prosenttia toimijan edellisen tilikauden maailmanlaajuisesta vuotuisesta kokonaisliikevaihdosta sen mukaan, kumpi näistä määristä on suurempi. Muulle kuin keskeiselle toimijalle määrättävän hallinnollisen seuraamusmaksun enimmäismäärä on 7 000 000 euroa tai 1,4 prosenttia toimijan edellisen tilikauden maailmanlaajuisesta vuotuisesta kokonaisliikevaihdosta sen mukaan, kumpi näistä määristä on suurempi.",
+      "section_number": "38",
+      "chapter_number": 5,
+      "statute_id": "910/2014"
+    },
+    {
+      "id": "46cc0fff-c821-4917-b7cc-873f85d73715",
+      "node_type": "Section",
+      "publisher": "finlex",
+      "title": "39 § Seuraamusmaksun määräämättä jättäminen",
+      "text": "Seuraamusmaksu jätetään määräämättä, jos: Seuraamusmaksua ei saa määrätä, jos on kulunut yli viisi vuotta siitä, kun rikkomus tai laiminlyönti on tapahtunut. Jos rikkomus tai laiminlyönti on ollut luonteeltaan jatkuvaa, määräaika lasketaan siitä, kun rikkomus tai laiminlyönti on päättynyt. Seuraamusmaksua ei saa määrätä sille, jota epäillään samasta teosta esitutkinnassa, syyteharkinnassa tai tuomioistuimessa vireillä olevassa rikosasiassa. Seuraamusmaksua ei saa määrätä myöskään sille, jolle on samasta teosta annettu lainvoimainen tuomio. Seuraamusmaksua ei saa määrätä sille, jolle on määrätty samasta teosta yleisen tietosuoja-asetuksen 83 artiklassa tarkoitettu seuraamusmaksu.",
+      "section_number": "39",
+      "chapter_number": 5,
+      "statute_id": "910/2014"
+    },
+    {
+      "id": "ca97eba6-3c0b-493b-b2be-38d6c827020c",
+      "node_type": "Section",
+      "publisher": "finlex",
+      "title": "40 § Seuraamusmaksun täytäntöönpano",
+      "text": "Seuraamusmaksun täytäntöönpanosta säädetään sakon täytäntöönpanosta annetussa laissa (672/2002). Seuraamusmaksu vanhenee viiden vuoden kuluttua lainvoiman saaneen päätöksen antamispäivästä. Seuraamusmaksu raukeaa, kun maksuvelvollinen luonnollinen henkilö kuolee.",
+      "section_number": "40",
+      "chapter_number": 5,
+      "statute_id": "910/2014"
+    },
+    {
+      "id": "58445013-ca9b-4a6b-8ad1-b590e2d0961d",
+      "node_type": "Section",
+      "publisher": "finlex",
+      "title": "41 § Toimijaluettelo",
+      "text": "Valvova viranomainen ylläpitää valvontatoimialansa osalta toimijaluetteloa. Toimijoiden on ilmoitettava valvovalle viranomaiselle: DNS-palveluntarjoajien, aluetunnusrekisterin ylläpitäjien, pilvipalvelujen tarjoajien, datakeskuspalvelujen tarjoajien, sisällönjakeluverkkojen tarjoajien, hallintapalvelun tarjoajien, tietoturvapalveluntarjoajien, verkossa toimivien markkinapaikkojen tarjoajien, verkossa toimivien hakukoneiden tarjoajien ja verkkoyhteisöalustojen tarjoajien on ilmoitettava valvovalle viranomaiselle 2 momentissa tarkoitettujen tietojen lisäksi: Toimijoiden on ilmoitettava muutoksista tässä pykälässä tarkoitettuihin tietoihin viipymättä. Muutoksesta 2 momentissa tarkoitettuihin tietoihin on ilmoitettava valvovalle viranomaiselle kahden viikon kuluessa ja 3 momentissa tarkoitettuihin tietoihin kolmen kuukauden kuluessa muutoshetkestä. Valvova viranomainen voi antaa tarkempia teknisiä määräyksiä tietojen ilmoittamisesta. Valvovan viranomaisen on toimitettava keskitetylle yhteyspisteelle NIS 2 -direktiivin 3 artiklan 5 kohdassa ja 27 artiklan 4 kohdassa tarkoitettujen ilmoituksien tekemiseksi tarpeelliset tiedot toimijaluettelosta. Keskitetty yhteyspiste vastaa mainituissa kohdissa tarkoitettujen ilmoituksien tekemisestä Euroopan komissiolle, NIS-yhteistyöryhmälle ja Euroopan unionin kyberturvallisuusvirastolle. CSIRT-yksiköllä on oikeus saada valvovalta viranomaiselta tietoja toimijaluettelosta.",
+      "section_number": "41",
+      "chapter_number": 6,
+      "statute_id": "910/2014"
+    },
+    {
+      "id": "a678d496-5cf5-440e-bc80-c3326fb1de6b",
+      "node_type": "Section",
+      "publisher": "finlex",
+      "title": "42 § Kansallinen kyberturvallisuusstrategia",
+      "text": "Valtioneuvosto hyväksyy kansallisen kyberturvallisuusstrategian ja vastaa sen päivittämisestä säännöllisesti vähintään viiden vuoden välein. Kansalliseen kyberturvallisuusstrategiaan on sisällytettävä vähintään NIS 2 -direktiivin 7 artiklan 1 kohdassa tarkoitetut osa-alueet ja 2 kohdassa tarkoitetut toimintaperiaatteet. Valtioneuvosto antaa kansallisen kyberturvallisuusstrategian tiedoksi Euroopan komissiolle kolmen kuukauden kuluessa sen hyväksymisestä. Kyberturvallisuusstrategiasta voidaan jättää antamatta tietoja, joiden luovuttaminen vaarantaisi maanpuolustusta tai kansallista turvallisuutta taikka olisi vastoin niihin liittyvää tärkeää etua.",
+      "section_number": "42",
+      "chapter_number": 6,
+      "statute_id": "910/2014"
+    },
+    {
+      "id": "355c2af2-98b6-4412-b564-eb8ebfee1d9d",
+      "node_type": "Section",
+      "publisher": "finlex",
+      "title": "43 § Laajamittaisten kyberturvallisuuspoikkeamien ja -kriisien hallintasuunnitelma",
+      "text": "Kyberturvallisuutta koskevissa kriisitilanteissa käytettävissä olevien valmiuksien, voimavarojen ja menettelyiden yksilöimiseksi laaditaan laajamittaisten kyberturvallisuuspoikkeamien ja ‑kriisien hallintasuunnitelma. Liikenne- ja viestintävirasto vastaa suunnitelman laatimisesta yhteistoiminnassa 26 §:ssä tarkoitettujen valvovien viranomaisten, poliisin, suojelupoliisin, Puolustusvoimien ja Huoltovarmuuskeskuksen kanssa. Suunnitelman tulee sisältää laajamittaisten kyberturvallisuuspoikkeamien ja -kriisien hallitsemiseksi tarpeelliset tiedot: Edellä 2 momentissa tarkoitetut tiedot on annettava tiedoksi Euroopan komissiolle ja NIS 2 ‑direktiivin 16 artiklassa tarkoitetulle Euroopan kyberkriisien yhteysorganisaatioiden verkostolle kolmen kuukauden kuluessa suunnitelman hyväksymisestä. Tietoja voidaan jättää antamatta siltä osin, jos niiden luovuttaminen vaarantaisi maanpuolustusta tai kansallista turvallisuutta taikka olisi vastoin niihin liittyvää tärkeää etua.",
+      "section_number": "43",
+      "chapter_number": 6,
+      "statute_id": "910/2014"
+    },
+    {
+      "id": "867419a9-1e33-452c-a48f-b410007f07a3",
+      "node_type": "Section",
+      "publisher": "finlex",
+      "title": "44 § Kyberkriisinhallintaviranomainen",
+      "text": "NIS 2 -direktiivin 9 artiklan 1 kohdan kohdassa tarkoitettuna kyberkriisinhallintaviranomaisena toimii kukin 43 §:n 1 momentissa tarkoitettu viranomainen sille laissa säädettyjen tehtävien mukaisesti. Liikenne- ja viestintäviraston Kyberturvallisuuskeskus toimii koordinaattorina laajamittaisten kyberturvallisuuspoikkeamien ja -kriisien hallinnassa.",
+      "section_number": "44",
+      "chapter_number": 6,
+      "statute_id": "910/2014"
+    },
+    {
+      "id": "7e2b06c8-6907-416f-9213-13342e499c35",
+      "node_type": "Section",
+      "publisher": "finlex",
+      "title": "45 § Viranomaisten yhteistyö",
+      "text": "Valvovien viranomaisten, CSIRT-yksikön ja keskitetyn yhteyspisteen on toimittava yhteistyössä tässä laissa ja NIS 2 -direktiivin nojalla säädettyjen tehtävien hoitamiseksi. Valvovien viranomaisten, CSIRT-yksikön ja keskitetyn yhteyspisteen on toimittava tarvittaessa yhteistyössä poliisin tai muun esitutkintaviranomaisen, tietosuojavaltuutetun, Liikenne- ja viestintäviraston sille ilmailulaissa (864/2014), sähköisen viestinnän palveluista annetussa laissa ja eIDAS-asetuksessa säädettyjen tehtävien osalta ja Finanssivalvonnan kanssa. Valvovien viranomaisten on ilmoitettava DORA-asetuksen 32 artiklan 1 kohdan nojalla perustetulle valvontafoorumille, kun ne käyttävät valvonta- ja täytäntöönpanovaltuuksiaan toimijaan, joka on nimetty kriittiseksi TVT-palveluntarjoajana olevaksi kolmanneksi osapuoleksi DORA-asetuksen 31 artiklan nojalla. Valvovien viranomaisten, Liikenne- ja viestintäviraston ja Finanssivalvonnan on vaihdettava keskenään säännöllisesti tietoja merkittävistä poikkeamista ja kyberuhkista.",
+      "section_number": "45",
+      "chapter_number": 6,
+      "statute_id": "910/2014"
+    },
+    {
+      "id": "54eef8fb-ff9a-4be1-a381-f2eb606ada40",
+      "node_type": "Section",
+      "publisher": "finlex",
+      "title": "46 § Muutoksenhaku",
+      "text": "Muutoksenhausta hallintotuomioistuimeen säädetään oikeudenkäynnistä hallintoasioissa annetussa laissa (808/2019). Valvovan viranomaisen tekemää päätöstä on noudatettava muutoksenhausta huolimatta, ellei muutoksenhakuviranomainen toisin määrää. Muutoksenhaussa uhkasakon asettamista ja maksettavaksi tuomitsemista sekä teettämis- tai keskeyttämisuhan asettamista ja täytäntöönpantavaksi määräämistä koskevaan päätökseen sovelletaan kuitenkin, mitä uhkasakkolaissa (1113/1990) säädetään.",
+      "section_number": "46",
+      "chapter_number": 6,
+      "statute_id": "910/2014"
+    },
+    {
+      "id": "7e58d79e-2db6-445b-a73b-ddd1715471f2",
+      "node_type": "Section",
+      "publisher": "finlex",
+      "title": "47 § Voimaantulo",
+      "text": "Tämä laki tulee voimaan 8 päivänä huhtikuuta 2025. Tämän lain 41 §:ssä tarkoitettu ilmoitus on tehtävä viimeistään kuukauden kuluessa lain voimaantulosta tai siitä, kun 3 §:n mukaiset toimijan kriteerit täyttyvät. Tämän lain 8 §:ssä tarkoitettu riskienhallinnan toimintamalli on laadittava kolmen kuukauden kuluessa lain voimaantulosta tai siitä, kun 3 §:n mukaiset toimijan kriteerit täyttyvät. Liite I Toimijat, jotka harjoittavat seuraavaa toimintaa tai ovat seuraavaa toimijatyyppiä: 1. Ilmaliikenne: a) Yhteisistä siviili-ilmailun turvaamista koskevista säännöistä ja asetuksen (EY) N:o 2320/2002 kumoamisesta annetun Euroopan parlamentin ja neuvoston asetuksen (EY) N:o 300/2008 3 artiklan 4 alakohdassa määritellyt lentoliikenteen harjoittajat, joiden toiminta on kaupallista b) Lentoasemaverkoista ja -maksuista annetun lain (210/2011) 3 §:n 1 momentin 2 kohdassa tarkoitetut lentoaseman pitäjät c) Yhtenäisen eurooppalaisen ilmatilan toteuttamisen puitteista annetun Euroopan parlamentin ja neuvoston asetuksen (EY) N:o 549/2004 2 artiklan 1 alakohdassa määriteltyä lennonjohtopalvelua tarjoavat lennonjohtopalvelun tarjoajat 2. Raideliikenne: a) Raideliikennelain (1302/2018) 4 §:n 1 momentin 29 kohdassa tarkoitetut rataverkon haltijat ja liikenteenohjauspalvelua tarjoavat yhtiöt b) Raideliikennelain 4 §:n 1 momentin 34 kohdassa tarkoitetut rautatieyritykset c) Raideliikennelain 4 §:n 1 momentin 23 kohdassa tarkoitetut palvelupaikan ylläpitäjät 3. Vesiliikenne: a) Alusten ja satamarakenteiden turvatoimien parantamisesta annetun Euroopan parlamentin ja neuvoston asetuksen (EY) N:o 725/2004 liitteessä I merenkulun osalta määritellyt sisävesillä, merillä ja rannikoilla matkustaja- ja rahtiliikennettä hoitavat yhtiöt, lukuun ottamatta tällaisten yhtiöiden liikennöimiä yksittäisiä aluksia b) Eräiden alusten ja niitä palvelevien satamien turvatoimista ja turvatoimien valvonnasta annetun lain (485/2004) 2 §:n 2 kohdassa tarkoitetut satamanpitäjät sekä toimijat, jotka huolehtivat rakenteista ja varusteista sataman alueella c) Alusliikennepalvelulain (623/2005) 2 §:n 1 momentin 5 kohdassa tarkoitetut VTS-palveluntarjoajat 4. Tieliikenne: a) Liikenteen palveluista annetun lain (320/2017) 15 luvussa tarkoitetun tieliikenteen ohjaus- ja hallintapalvelun tarjoaja b) Liikenteen palveluista annetun lain 160 §:ssä tarkoitettujen älykkäiden liikennejärjestelmien ylläpitäjät 5. Maa-asemista ja eräistä tutkista annetun lain (96/2023) 2 §:n 1 momentin 5 kohdassa tarkoitetut toiminnanharjoittajat; tai muut avaruuspohjaisten palvelujen tarjoamista tukevan, jäsenvaltioiden tai yksityisten tahojen omistaman, hallinnoiman ja operoiman maassa sijaitsevan infrastruktuurin ylläpitäjät, lukuun ottamatta yleisten sähköisten viestintäverkkojen tarjoajia 6. Digitaalinen infrastruktuuri: a) Internetin yhdysliikennepisteiden, eli sellaisen verkkoinfrastruktuurin osan, joka mahdollistaa useamman kuin kahden riippumattoman verkon (autonomisen järjestelmän)yhdistämisen pääasiassa internetliikenteen välittämisen helpottamiseksi, joka tarjoaa yhteenliitäntää ainoastaan autonomisille järjestelmille ja joka ei edellytä minkään yhteenliittämänsä kahden autonomisen järjestelmän väliseltä internetliikenteeltä kulkemista minkään kolmannen autonomisen järjestelmän kautta eikä muokkaa tällaista liikennettä tai muutoin puutu siihen, ylläpitäjät b) DNS-palveluntarjoajat c) Aluetunnusrekisterin ylläpitäjät d) Pilvipalvelun tarjoajat e) Datakeskuspalvelun tarjoajat f) Sisällönjakeluverkon tarjoajat g) Luottamuspalvelun tarjoajat h) Yleisten sähköisten viestintäverkkojen tarjoajat i) Yleisesti saatavilla olevien sähköisten viestintäpalvelujen tarjoajat 7. TVT-palvelujen hallinta: a) Hallintapalvelun tarjoajat b) Tietoturvapalveluntarjoajat 8. Sähkö: a) Sähkömarkkinalain (588/2013) 3 §:n 1 momentin 21 kohdassa tarkoitetut sähköalan yritykset, jotka harjoittavat momentin 11 kohdassa tarkoitettua sähköntoimitusta b) Sähkömarkkinalain 3 §:n 1 momentin 10 kohdassa tarkoitetut jakeluverkonhaltijat c) Sähkömarkkinalain 7 §:n mukaiset kantaverkonhaltijat d) Sähkömarkkinalain 3 §:n 1 momentin 15 kohdassa tarkoitetut tuottajat e) Sähkön sisämarkkinoista annetun Euroopan parlamentin ja neuvoston asetuksen (EU) 2019/943 2 artiklan 8 alakohdassa määritellyt nimitetyt sähkömarkkinaoperaattorit f) Sähkömarkkinalain 3 §:n 1 momentin 37 kohdassa tarkoitetut sähkömarkkinoiden osapuolet, jotka tarjoavat sähkömarkkinalain 3 §:n 1 momentin 21 a kohdassa tarkoitettua aggregointia, 30 a kohdassa tarkoitettua kulutusjoustoa tai 21 c kohdassa tarkoitettua energian varastointia g) Latauspisteiden operaattorit, jotka vastaavat latauspalvelua loppukäyttäjille tarjoavan latauspisteen hallinnoinnista ja toiminnasta, myös liikennepalvelun tarjoajan nimissä ja puolesta 9. Uusiutuvista lähteistä peräisin olevan energian käytön edistämisestä annetun Euroopan parlamentin ja neuvoston direktiivin (EU) 2018/2001 2 kohdan 19 alakohdassa määritellyn kaukolämmityksen tai kaukojäähdytyksen haltijat 10. Kaasu: a) Maakaasumarkkinalain (587/2017) 3 §:n 1 momentin 10 kohdassa tarkoitetut jakeluverkonhaltijat b) Maakaasumarkkinalain 3 §:n 1 momentin 9 kohdassa tarkoitetut siirtoverkonhaltijat c) Maakaasumarkkinalain 3 §:n 1 momentin 14 kohdassa tarkoitetut maakaasun toimittajat d) Maakaasumarkkinalain 3 §:n 1 momentin 20 kohdassa tarkoitetut varastointilaitteiston haltijat e) Maakaasumarkkinalain 3 §:n 1 momentin 22 kohdassa tarkoitetut nesteytetyn maakaasun käsittelylaitteiston haltijat f) Maakaasumarkkinalain 3 §:n 1 momentin 18 kohdassa tarkoitetut maakaasualan yritykset g) Maakaasun jalostus- ja käsittelylaitteistojen haltijat 11. Öljy: a) Öljynsiirtoputkistojen haltijat b) Öljyn tuotanto-, jalostus- ja käsittelylaitteistojen haltijat sekä öljyn varastointia ja siirtoa hoitavat operaattorit c) Jäsenvaltioiden velvollisuudesta ylläpitää raakaöljy- ja/tai öljytuotevarastojen vähimmäistasoa annetun Neuvoston direktiivin 2009/119/EY 2 kohdan f alakohdassa määritellyt keskusvarastointiyksiköt 12. Vety: a) Vedyn tuotantoa ja varastointia harjoittavat toimijat b) Vedyn siirtoa harjoittavat toimijat 13. Terveys: a) Sosiaali- ja terveydenhuollon valvonnasta annetun lain (741/2023) 4 §:n 2 kohdassa tarkoitetut palveluntuottajat, jotka tuottavat mainitun pykälän 4 kohdassa tarkoitettua terveyspalvelua b) Rajatylittävistä vakavista terveysuhkista ja päätöksen N:o 1082/2013/EU kumoamisesta annetun Euroopan parlamentin ja neuvoston asetuksen (EU) 2022/2371 15 artiklassa tarkoitetut EU:n vertailulaboratoriot c) Ihmisille tarkoitettuja lääkkeitä koskevista yhteisön säännöistä annetun Euroopan parlamentin ja neuvoston direktiivin 2001/83/EY 1 artiklan 2 alakohdassa määriteltyjen lääkkeiden tutkimusta ja kehitystä harjoittavat toimijat d) NACE Rev. 2 -luokituksen C jakson kaksinumerotasossa 21 tarkoitettua lääkeaineiden ja lääkkeiden valmistusta harjoittavat toimijat e) Euroopan lääkeviraston roolin vahvistamisesta kriisivalmiudessa ja -hallinnassa lääkkeiden ja lääkinnällisten laitteiden osalta annetun Euroopan parlamentin ja neuvoston asetuksen (EU) 2022/123 22 artiklassa tarkoitettuja vakavan kansanterveysuhan aikana kriittisiksi katsottuja lääkinnällisiä laitteita (kansanterveysuhan aikana kriittisten lääkinnällisten laitteiden luettelo) valmistavat toimijat f) Veripalvelulain (197/2005) mukaiset veripalvelulaitokset, apteekit ja potilaiden oikeuksien soveltamisesta rajat ylittävässä terveydenhuollossa annetun Euroopan parlamentin ja neuvoston direktiivin 2011/24/EU mukaiset lääkkeitä ja lääkinnällisiä laitteita toimittavat ja tarjoavat toimijat 14. Ihmisten käyttöön tarkoitetun veden laadusta annetun Euroopan parlamentin ja neuvoston direktiivin (EU) 2020/2184 2 artiklan 1 alakohdan a alakohdassa määritellyn ihmisten käyttöön tarkoitetun veden toimittajat ja jakelijat, lukuun ottamatta jakelijoita, joille ihmisten käyttöön tarkoitetun veden jakelu ei ole keskeinen osa niiden yleistä toimintaa, joka muodostuu muiden hyödykkeiden ja tavaroiden jakelusta 15. Yhdyskuntajätevesien käsittelystä annetun Neuvoston direktiivin 91/271/ETY 2 artiklan 1, 2 ja 3 alakohdassa määriteltyä yhdyskuntajätevettä, talousjätevettä tai teollisuusjätevettä keräävät, hävittävät tai käsittelevät yritykset, lukuun ottamatta yrityksiä, joille yhdyskuntajäteveden, talousjäteveden tai teollisuusjäteveden kerääminen, hävittäminen tai käsittely ei ole keskeinen osa niiden yleistä toimintaa Liite II Toimijat, jotka harjoittavat seuraavaa toimintaa tai ovat seuraavaa toimijatyyppiä: 1. Kuriiripalvelun tarjoajat ja yhteisön postipalvelujen sisämarkkinoiden kehittämistä ja palvelun laadun parantamista koskevista yhteisistä säännöistä annetun Euroopan parlamentin ja neuvoston direktiivin 97/67/EY 2 artiklan 1 a alakohdassa tarkoitetut postipalvelun tarjoajat 2. Digitaalisen palvelun tarjoajat: a) Verkossa toimivien markkinapaikkojen tarjoajat b) Verkossa toimivien hakukoneiden tarjoajat c) Verkkoyhteisöalustojen tarjoajat 3. NACE Rev. 2 -luokituksen C jakson kaksinumerotasossa 29 tarkoitettua moottoriajoneuvojen, perävaunujen ja puoliperävaunujen valmistusta harjoittavat toimijat 4. NACE Rev. 2 -luokituksen C jakson kaksinumerotasossa 30 tarkoitettua muiden kulkuneuvojen valmistusta harjoittavat toimijat 5. Tutkimusorganisaatiot, joiden ensisijaisena tavoitteena on harjoittaa soveltavaa tutkimusta tai kokeellista kehitystyötä kyseisen tutkimuksen tulosten hyödyntämiseksi kaupallisiin tarkoituksiin mutta jotka eivät ole korkeakouluja tai muita opetus- ja koulutusalan laitoksia 6. Kemikaalien rekisteröinnistä, arvioinnista, lupamenettelyistä ja rajoituksista (REACH), Euroopan kemikaaliviraston perustamisesta, direktiivin 1999/45/EY muuttamisesta sekä neuvoston asetuksen (ETY) N:o 793/93, komission asetuksen (EY) N:o 1488/94, neuvoston direktiivin 76/769/ETY ja komission direktiivien 91/155/ETY, 93/67/ETY, 93/105/EY ja 2000/21/EY kumoamisesta annetun Euroopan parlamentin ja neuvoston asetuksen (EY) N:o 1907/2006 3 artiklan 9 alakohdassa tarkoitettua aineiden valmistusta ja 14 alakohdassa tarkoitettua aineiden tai seosten jakelua harjoittavat yritykset sekä yritykset, jotka tuottavat mainitun asetuksen 3 artiklan 3 alakohdassa määriteltyjä esineitä aineista tai seoksista silloin, kun aine on rekisteröitävä ja toiminta edellyttää vaarallisten kemikaalien ja räjähteiden käsittelyn turvallisuudesta annetun lain (390/2005) 23 §:ssä tarkoitettua lupaa tai 24 §:ssä tarkoitettua ilmoitusta 7. Elintarvikelainsäädäntöä koskevista yleisistä periaatteista ja vaatimuksista, Euroopan elintarviketurvallisuusviranomaisen perustamisesta sekä elintarvikkeiden turvallisuuteen liittyvistä menettelyistä annetun Euroopan parlamentin ja neuvoston asetuksen (EY) N:o 178/2002 3 artiklan 2 alakohdassa määritellyt elintarvikeyritykset, jotka harjoittavat tukkukauppaa, teollista tuotantoa tai jalostusta 8. Jätteistä ja tiettyjen direktiivien kumoamisesta annetun Euroopan parlamentin ja neuvoston direktiivin 2008/98/EY 3 artiklan 9 alakohdassa määriteltyä jätehuoltoa harjoittavat yritykset, lukuun ottamatta yrityksiä, joille jätehuolto ei ole niiden pääasiallista taloudellista toimintaa 9. Lääkinnällisistä laitteista, direktiivin 2001/83/EY, asetuksen (EY) N:o 178/2002 ja asetuksen (EY) N:o 1223/2009 muuttamisesta sekä neuvoston direktiivien 90/385/ETY ja 93/42/ETY kumoamisesta annetun Euroopan parlamentin ja neuvoston asetuksen (EU) 2017/745 2 artiklan 1 alakohdassa määriteltyjä lääkinnällisiä laitteita valmistavat toimijat 10. In vitro -diagnostiikkaan tarkoitetuista lääkinnällisistä laitteista sekä direktiivin 98/79/EY ja komission päätöksen 2010/227/EU kumoamisesta annetun Euroopan parlamentin ja neuvoston asetuksen (EU) 2017/746 2 artiklan 2 alakohdassa määriteltyjä in vitro -diagnostiikkaan tarkoitettuja lääkinnällisiä laitteita valmistavat toimijat, lukuun ottamatta tämän lain liitteessä I olevan 13 kohdan e-alakohdassa tarkoitettuja toimijoita 11. NACE Rev. 2 -luokituksen C jakson kaksinumerotasossa 26 tarkoitettua tietokoneiden sekä elektronisten ja optisten tuotteiden valmistusta harjoittavat yritykset 12. NACE Rev. 2 -luokituksen C jakson kaksinumerotasossa 27 tarkoitettua sähkölaitteiden valmistusta harjoittavat yritykset 13. NACE Rev. 2 -luokituksen C jakson kaksinumerotasossa 28 tarkoitettua muiden koneiden ja laitteiden valmistusta harjoittavat yritykset",
+      "section_number": "47",
+      "chapter_number": 6,
+      "statute_id": "910/2014"
+    }
+  ],
+  "clauses": [
+    {
+      "id": "94cd4053-be0c-492e-889d-21818bb1be1e",
+      "node_type": "Clause",
+      "publisher": "finlex",
+      "title": "§ 3 mom 1",
+      "text": "1) harjoittaa liitteessä I tai II tarkoitettua toimintaa tai on mainituissa liitteissä tarkoitettu toimija; ja",
+      "clause_number": 1,
+      "section_number": "3",
+      "statute_id": "910/2014"
+    },
+    {
+      "id": "819dcf09-96bc-4e5b-8ddd-071e5e7f4bc5",
+      "node_type": "Clause",
+      "publisher": "finlex",
+      "title": "§ 3 mom 2",
+      "text": "2) täyttää tai ylittää mikroyritysten sekä pienten ja keskisuurten yritysten määritelmästä annetun komission suosituksen 2003/361/EY liitteen 2 artiklan mukaiset keskisuuria yrityksiä koskevat edellytykset ja tarjoaa palvelujaan tai harjoittaa toimintaansa jossakin Euroopan unionin jäsenvaltiossa.",
+      "clause_number": 2,
+      "section_number": "3",
+      "statute_id": "910/2014"
+    },
+    {
+      "id": "62a884c8-68e1-4d4c-b2e3-2670e5ef234f",
+      "node_type": "Clause",
+      "publisher": "finlex",
+      "title": "§ 3 mom 1",
+      "text": "1) yleisten sähköisten viestintäverkkojen tai yleisesti saatavilla olevien sähköisten viestintäpalvelujen tarjoaja;",
+      "clause_number": 1,
+      "section_number": "3",
+      "statute_id": "910/2014"
+    },
+    {
+      "id": "f006aff7-2ce1-4ccc-a661-54eff22be371",
+      "node_type": "Clause",
+      "publisher": "finlex",
+      "title": "§ 3 mom 2",
+      "text": "2) luottamuspalvelun tarjoaja;",
+      "clause_number": 2,
+      "section_number": "3",
+      "statute_id": "910/2014"
+    },
+    {
+      "id": "c7cb10dd-ed43-4400-a522-5bbf92663ad0",
+      "node_type": "Clause",
+      "publisher": "finlex",
+      "title": "§ 3 mom 3",
+      "text": "3) aluetunnusrekisterin ylläpitäjä; tai",
+      "clause_number": 3,
+      "section_number": "3",
+      "statute_id": "910/2014"
+    },
+    {
+      "id": "f6ea09ab-5f6a-47e7-aa68-0e5c9cfce45f",
+      "node_type": "Clause",
+      "publisher": "finlex",
+      "title": "§ 3 mom 4",
+      "text": "4) DNS-palveluntarjoaja.",
+      "clause_number": 4,
+      "section_number": "3",
+      "statute_id": "910/2014"
+    },
+    {
+      "id": "80da930e-9d0b-4e13-966f-83918d957c11",
+      "node_type": "Clause",
+      "publisher": "finlex",
+      "title": "§ 3 mom 1",
+      "text": "1) se tarjoaa palvelua, joka on yhteiskunnan tai talouden kriittisten toimintojen ylläpitämisen kannalta keskeinen ja jota muut toimijat eivät tarjoa;",
+      "clause_number": 1,
+      "section_number": "3",
+      "statute_id": "910/2014"
+    },
+    {
+      "id": "2ef4ef35-93f8-4a5d-8ef4-e4047bfdb4bd",
+      "node_type": "Clause",
+      "publisher": "finlex",
+      "title": "§ 3 mom 2",
+      "text": "2) häiriö sen tarjoamassa palvelussa vaikuttaisi merkittävästi yleiseen järjestykseen, yleiseen turvallisuuteen tai kansanterveyteen;",
+      "clause_number": 2,
+      "section_number": "3",
+      "statute_id": "910/2014"
+    },
+    {
+      "id": "21525fe5-84df-4445-9ed3-972b531132f6",
+      "node_type": "Clause",
+      "publisher": "finlex",
+      "title": "§ 3 mom 3",
+      "text": "3) häiriö sen tarjoamassa palvelussa voisi aiheuttaa merkittävän systeemisen riskin erityisesti aloilla, joilla tällaisella häiriöllä voisi olla rajat ylittäviä vaikutuksia; tai",
+      "clause_number": 3,
+      "section_number": "3",
+      "statute_id": "910/2014"
+    },
+    {
+      "id": "38cbf394-01c1-4659-b976-3c282217bc55",
+      "node_type": "Clause",
+      "publisher": "finlex",
+      "title": "§ 3 mom 4",
+      "text": "4) se on kriittinen, koska sillä on erityisen suuri merkitys kansallisella tai alueellisella tasolla kyseisen toimialan tai palvelutyypin tai jonkin Euroopan unionin jäsenvaltion muiden keskinäisriippuvaisten toimialojen kannalta.",
+      "clause_number": 4,
+      "section_number": "3",
+      "statute_id": "910/2014"
+    },
+    {
+      "id": "6ddc0de6-491b-4fb2-8e34-c88d96da94a7",
+      "node_type": "Clause",
+      "publisher": "finlex",
+      "title": "§ 9 mom 1",
+      "text": "1) kyberturvallisuutta koskevan riskienhallinnan toimintaperiaatteet ja hallintatoimenpiteiden vaikuttavuuden arviointi;",
+      "clause_number": 1,
+      "section_number": "9",
+      "statute_id": "910/2014"
+    },
+    {
+      "id": "be01fbbe-203c-4835-95c6-ddecc5d18024",
+      "node_type": "Clause",
+      "publisher": "finlex",
+      "title": "§ 9 mom 2",
+      "text": "2) viestintäverkkojen ja tietojärjestelmien turvallisuutta koskevat toimintaperiaatteet;",
+      "clause_number": 2,
+      "section_number": "9",
+      "statute_id": "910/2014"
+    },
+    {
+      "id": "c4d79c36-2ebe-4541-8e54-9e0809939057",
+      "node_type": "Clause",
+      "publisher": "finlex",
+      "title": "§ 9 mom 3",
+      "text": "3) viestintäverkkojen ja tietojärjestelmien hankinnan, kehittämisen ja ylläpidon turvallisuus sekä tarvittavat menettelyt haavoittuvuuksien käsittelemiseksi ja julkistamiseksi;",
+      "clause_number": 3,
+      "section_number": "9",
+      "statute_id": "910/2014"
+    },
+    {
+      "id": "34c594f1-d5b5-451a-88ac-f84ad9760642",
+      "node_type": "Clause",
+      "publisher": "finlex",
+      "title": "§ 9 mom 4",
+      "text": "4) toimitusketjun välittömien toimittajien tuotteiden ja palveluntarjoajien palvelujen yleinen laatu ja häiriönsietokyky, niihin sisällytetyt hallintatoimenpiteet sekä välittömien toimittajien ja palveluntarjoajien kyberturvallisuuskäytännöt;",
+      "clause_number": 4,
+      "section_number": "9",
+      "statute_id": "910/2014"
+    },
+    {
+      "id": "566916d4-9313-4a18-a6fe-75d807b78467",
+      "node_type": "Clause",
+      "publisher": "finlex",
+      "title": "§ 9 mom 5",
+      "text": "5) omaisuudenhallinta ja sen turvallisuuden kannalta tärkeiden toimintojen tunnistaminen;",
+      "clause_number": 5,
+      "section_number": "9",
+      "statute_id": "910/2014"
+    },
+    {
+      "id": "92791df3-cef6-4253-ab40-524f3cfd4516",
+      "node_type": "Clause",
+      "publisher": "finlex",
+      "title": "§ 9 mom 6",
+      "text": "6) henkilöstöturvallisuus ja kyberturvallisuuskoulutus;",
+      "clause_number": 6,
+      "section_number": "9",
+      "statute_id": "910/2014"
+    },
+    {
+      "id": "1430086a-5b12-48c2-b6b5-4dc0b9567ed8",
+      "node_type": "Clause",
+      "publisher": "finlex",
+      "title": "§ 9 mom 7",
+      "text": "7) pääsynhallinnan ja todentamisen menettelyt;",
+      "clause_number": 7,
+      "section_number": "9",
+      "statute_id": "910/2014"
+    },
+    {
+      "id": "c222a293-eca6-4434-864d-c9779c565912",
+      "node_type": "Clause",
+      "publisher": "finlex",
+      "title": "§ 9 mom 8",
+      "text": "8) salausmenetelmien käyttämistä koskevat toimintaperiaatteet ja menettelyt sekä tarvittaessa toimenpiteet suojatun sähköisen viestinnän käyttämiseksi;",
+      "clause_number": 8,
+      "section_number": "9",
+      "statute_id": "910/2014"
+    },
+    {
+      "id": "a6269150-514a-439a-83aa-9848d069a830",
+      "node_type": "Clause",
+      "publisher": "finlex",
+      "title": "§ 9 mom 9",
+      "text": "9) poikkeamien havainnointi ja käsittely turvallisuuden ja toimintavarmuuden palauttamiseksi ja ylläpitämiseksi;",
+      "clause_number": 9,
+      "section_number": "9",
+      "statute_id": "910/2014"
+    },
+    {
+      "id": "44d4cd2f-bb09-45f9-9fb1-a8cf625be808",
+      "node_type": "Clause",
+      "publisher": "finlex",
+      "title": "§ 9 mom 10",
+      "text": "10) varmuuskopiointi, palautumissuunnittelu, kriisinhallinta ja muu toiminnan jatkuvuuden hallinta ja tarvittaessa suojattujen varaviestintäjärjestelmien käyttö;",
+      "clause_number": 10,
+      "section_number": "9",
+      "statute_id": "910/2014"
+    },
+    {
+      "id": "263cdee7-7ecd-4a24-a4b9-57b3e3118d37",
+      "node_type": "Clause",
+      "publisher": "finlex",
+      "title": "§ 9 mom 11",
+      "text": "11) perustason tietoturvakäytännöt toiminnan, tietoliikenneturvallisuuden, laitteisto- ja ohjelmistoturvallisuuden ja tietoaineistoturvallisuuden varmistamiseksi; sekä",
+      "clause_number": 11,
+      "section_number": "9",
+      "statute_id": "910/2014"
+    },
+    {
+      "id": "ca8cab76-08f8-4386-b8ea-19cd68261bcb",
+      "node_type": "Clause",
+      "publisher": "finlex",
+      "title": "§ 9 mom 12",
+      "text": "12) toimenpiteet viestintäverkkojen ja tietojärjestelmien fyysisen ympäristön ja tilaturvallisuuden sekä välttämättömien resurssien varmistamiseksi.",
+      "clause_number": 12,
+      "section_number": "9",
+      "statute_id": "910/2014"
+    },
+    {
+      "id": "b1be4769-f661-44f0-b6de-5e79ed60de12",
+      "node_type": "Clause",
+      "publisher": "finlex",
+      "title": "§ 9 mom 2",
+      "text": "1) toimialakohtaisista erityispiirteistä, jotka on otettava huomioon kyberturvallisuutta koskevassa riskienhallinnan toimintamallissa ja 2 momentissa tarkoitetuissa osa-alueissa sekä riskienhallinnan ja viestintäverkkojen ja tietojärjestelmien tietoturvallisuuden hallinnan menettelyissä;",
+      "clause_number": 2,
+      "section_number": "9",
+      "statute_id": "910/2014"
+    },
+    {
+      "id": "97fefe37-24fb-4f1c-bccf-903cbedd7061",
+      "node_type": "Clause",
+      "publisher": "finlex",
+      "title": "§ 9 mom 1",
+      "text": "1) toimialakohtaisista erityispiirteistä, jotka on otettava huomioon kyberturvallisuutta koskevassa riskienhallinnan toimintamallissa ja 2 momentissa tarkoitetuissa osa-alueissa sekä riskienhallinnan ja viestintäverkkojen ja tietojärjestelmien tietoturvallisuuden hallinnan menettelyissä;",
+      "clause_number": 1,
+      "section_number": "9",
+      "statute_id": "910/2014"
+    },
+    {
+      "id": "67f89004-0698-4bea-9e19-333a2b484f69",
+      "node_type": "Clause",
+      "publisher": "finlex",
+      "title": "§ 9 mom 2",
+      "text": "2) kriittisiä toimitusketjuja koskevien unionin tason koordinoitujen riskinarviointien tuloksien huomioimisesta toimialakohtaisessa riskienhallinnassa.",
+      "clause_number": 2,
+      "section_number": "9",
+      "statute_id": "910/2014"
+    },
+    {
+      "id": "59cdfa8a-2515-40ca-a75d-2c75f68381c1",
+      "node_type": "Clause",
+      "publisher": "finlex",
+      "title": "§ 11 mom 1",
+      "text": "1) merkittävän poikkeaman havaitsemisesta;",
+      "clause_number": 1,
+      "section_number": "11",
+      "statute_id": "910/2014"
+    },
+    {
+      "id": "bd237739-14bb-4371-8f07-39adfd2e2847",
+      "node_type": "Clause",
+      "publisher": "finlex",
+      "title": "§ 11 mom 2",
+      "text": "2) epäilläänkö merkittävän poikkeaman johtuvan rikoksesta tai muusta lainvastaisesta tai vihamielisestä teosta;",
+      "clause_number": 2,
+      "section_number": "11",
+      "statute_id": "910/2014"
+    },
+    {
+      "id": "54e299cd-9e1d-459b-8a00-6b40a8a687ea",
+      "node_type": "Clause",
+      "publisher": "finlex",
+      "title": "§ 11 mom 3",
+      "text": "3) rajat ylittävien vaikutuksien mahdollisuus ja todennäköisyys sekä rajat ylittävien vaikutuksien ennakointiin liittyvät tiedot.",
+      "clause_number": 3,
+      "section_number": "11",
+      "statute_id": "910/2014"
+    },
+    {
+      "id": "fc569a17-e103-4702-8dd9-c2b3821daaa8",
+      "node_type": "Clause",
+      "publisher": "finlex",
+      "title": "§ 11 mom 1",
+      "text": "1) arvio merkittävän poikkeaman laadusta, vakavuudesta ja vaikutuksista;",
+      "clause_number": 1,
+      "section_number": "11",
+      "statute_id": "910/2014"
+    },
+    {
+      "id": "0528ba9b-90ca-4139-82a6-3dcb2d22ed89",
+      "node_type": "Clause",
+      "publisher": "finlex",
+      "title": "§ 11 mom 2",
+      "text": "2) tekniset vaarantumisindikaattorit, jos sellaisia on saatavilla;",
+      "clause_number": 2,
+      "section_number": "11",
+      "statute_id": "910/2014"
+    },
+    {
+      "id": "19f13e1e-15ad-4f9f-866e-eb033ef81255",
+      "node_type": "Clause",
+      "publisher": "finlex",
+      "title": "§ 11 mom 3",
+      "text": "3) mahdolliset päivitykset ensi-ilmoituksen tietoihin.",
+      "clause_number": 3,
+      "section_number": "11",
+      "statute_id": "910/2014"
+    },
+    {
+      "id": "0609536a-5a16-49aa-a2c1-0ff39c51cbc3",
+      "node_type": "Clause",
+      "publisher": "finlex",
+      "title": "§ 13 mom 1",
+      "text": "1) yksityiskohtainen kuvaus poikkeamasta, sen vakavuudesta ja vaikutuksista;",
+      "clause_number": 1,
+      "section_number": "13",
+      "statute_id": "910/2014"
+    },
+    {
+      "id": "8324cef8-bcfe-42ee-bc5f-f3c9336846df",
+      "node_type": "Clause",
+      "publisher": "finlex",
+      "title": "§ 13 mom 2",
+      "text": "2) selvitys poikkeaman todennäköisesti aiheuttaneen uhkan tai juurisyyn tyypistä;",
+      "clause_number": 2,
+      "section_number": "13",
+      "statute_id": "910/2014"
+    },
+    {
+      "id": "e4775f97-64ac-41d0-abf8-c7a2e7817f44",
+      "node_type": "Clause",
+      "publisher": "finlex",
+      "title": "§ 13 mom 3",
+      "text": "3) selvitys toteutetuista ja meneillään olevista toimenpiteistä poikkeaman vaikutusten lieventämiseksi; ja",
+      "clause_number": 3,
+      "section_number": "13",
+      "statute_id": "910/2014"
+    },
+    {
+      "id": "b3c3fce8-7b33-44c0-8db6-65e53253cb69",
+      "node_type": "Clause",
+      "publisher": "finlex",
+      "title": "§ 13 mom 4",
+      "text": "4) selvitys mahdollisista rajat ylittävistä vaikutuksista.",
+      "clause_number": 4,
+      "section_number": "13",
+      "statute_id": "910/2014"
+    },
+    {
+      "id": "d4108d56-9cea-4616-a751-35f25f419160",
+      "node_type": "Clause",
+      "publisher": "finlex",
+      "title": "§ 19 mom 1",
+      "text": "1) sen on varmistettava viestintäkanaviensa kattava saatavuus välttäen viestinnän täysin katkaisevia yksittäisiä vikaantumispisteitä ja ylläpidettävä useita viestintäkeinoja, joilla muut voivat ottaa siihen ja se voi ottaa muihin yhteyttä milloin tahansa;",
+      "clause_number": 1,
+      "section_number": "19",
+      "statute_id": "910/2014"
+    },
+    {
+      "id": "5f713673-0c40-4476-a659-1222b57a6b5b",
+      "node_type": "Clause",
+      "publisher": "finlex",
+      "title": "§ 19 mom 2",
+      "text": "2) sen toimitilat ja niiden toimia tukevat tietojärjestelmät on sijoitettava suojattuihin paikkoihin;",
+      "clause_number": 2,
+      "section_number": "19",
+      "statute_id": "910/2014"
+    },
+    {
+      "id": "dac1f22a-0cab-40e7-806e-5652e0f53749",
+      "node_type": "Clause",
+      "publisher": "finlex",
+      "title": "§ 19 mom 3",
+      "text": "3) sillä on oltava tarkoituksenmukainen järjestelmä pyyntöjen hallintaa ja reititystä varten, erityisesti tapausten tuloksekkaan ja tehokkaan edelleen ohjauksen helpottamiseksi;",
+      "clause_number": 3,
+      "section_number": "19",
+      "statute_id": "910/2014"
+    },
+    {
+      "id": "0d0d013e-2f54-49d5-b47f-0bfc14c20b7a",
+      "node_type": "Clause",
+      "publisher": "finlex",
+      "title": "§ 19 mom 4",
+      "text": "4) sen on varmistettava toimintojensa luottamuksellisuus ja luotettavuus;",
+      "clause_number": 4,
+      "section_number": "19",
+      "statute_id": "910/2014"
+    },
+    {
+      "id": "a4d65e49-a72b-4c18-943c-c362119490d4",
+      "node_type": "Clause",
+      "publisher": "finlex",
+      "title": "§ 19 mom 5",
+      "text": "5) sillä on oltava riittävä henkilöstö palvelujensa jatkuvan saatavuuden varmistamiseksi, ja sen on varmistettava henkilöstönsä asianmukainen koulutus;",
+      "clause_number": 5,
+      "section_number": "19",
+      "statute_id": "910/2014"
+    },
+    {
+      "id": "8829530a-f222-41d7-b21f-0be386bb3fbd",
+      "node_type": "Clause",
+      "publisher": "finlex",
+      "title": "§ 19 mom 6",
+      "text": "6) sillä on oltava varautumisjärjestelyt palvelujensa jatkuvuuden varmistamiseksi.",
+      "clause_number": 6,
+      "section_number": "19",
+      "statute_id": "910/2014"
+    },
+    {
+      "id": "048cd4c0-0c47-4c82-a857-86b04f0d6438",
+      "node_type": "Clause",
+      "publisher": "finlex",
+      "title": "§ 20 mom 1",
+      "text": "1) seurata ja analysoida kyberuhkia, haavoittuvuuksia ja poikkeamia kansallisella tasolla sekä kerätä niitä koskevia tietoja ja antaa niitä koskevia ennakkovaroituksia, hälytyksiä, ilmoituksia ja tietoja;",
+      "clause_number": 1,
+      "section_number": "20",
+      "statute_id": "910/2014"
+    },
+    {
+      "id": "83dfd13f-1eaf-4fad-bfaa-5059720e6723",
+      "node_type": "Clause",
+      "publisher": "finlex",
+      "title": "§ 20 mom 2",
+      "text": "2) avustaa pyynnöstä viestintäverkkojen ja tietojärjestelmien tietoturvallisuuden reaaliaikaisessa tai lähes reaaliaikaisessa seurannassa;",
+      "clause_number": 2,
+      "section_number": "20",
+      "statute_id": "910/2014"
+    },
+    {
+      "id": "24a1db7c-26c7-42a7-8308-adfd6fcca935",
+      "node_type": "Clause",
+      "publisher": "finlex",
+      "title": "§ 20 mom 3",
+      "text": "3) reagoida poikkeamailmoituksiin ja tarvittaessa avustaa poikkeamasta ilmoittanutta tahoa poikkeaman käsittelyssä;",
+      "clause_number": 3,
+      "section_number": "20",
+      "statute_id": "910/2014"
+    },
+    {
+      "id": "c7d2e9c2-e5dd-4703-9f22-c2c6767b0330",
+      "node_type": "Clause",
+      "publisher": "finlex",
+      "title": "§ 20 mom 4",
+      "text": "4) kerätä ja analysoida uhkatietoja ja tietoturvaloukkausten tutkintaa koskevia tietoja;",
+      "clause_number": 4,
+      "section_number": "20",
+      "statute_id": "910/2014"
+    },
+    {
+      "id": "d01986ca-b2db-47ca-963e-4da0d315b218",
+      "node_type": "Clause",
+      "publisher": "finlex",
+      "title": "§ 20 mom 5",
+      "text": "5) laatia riski- ja poikkeama-analyysejä ja tukea kyberturvallisuuden tilannekuvan ylläpitämistä;",
+      "clause_number": 5,
+      "section_number": "20",
+      "statute_id": "910/2014"
+    },
+    {
+      "id": "102849b7-5dc0-4b79-8142-d300c2c07a85",
+      "node_type": "Clause",
+      "publisher": "finlex",
+      "title": "§ 20 mom 6",
+      "text": "6) osallistua NIS 2 -direktiivin 15 artiklassa tarkoitettuun CSIRT-verkostoon ja avustaa sen jäseniä niiden pyynnöstä;",
+      "clause_number": 6,
+      "section_number": "20",
+      "statute_id": "910/2014"
+    },
+    {
+      "id": "df6e4aad-9c1e-4d44-98b6-d28229ba0e25",
+      "node_type": "Clause",
+      "publisher": "finlex",
+      "title": "§ 20 mom 7",
+      "text": "7) nimetä asiantuntijoita NIS 2 -direktiivin 19 artiklassa tarkoitettuihin vertaisarviointeihin;",
+      "clause_number": 7,
+      "section_number": "20",
+      "statute_id": "910/2014"
+    },
+    {
+      "id": "eea48466-4925-46e1-ba90-f0ed35035eaa",
+      "node_type": "Clause",
+      "publisher": "finlex",
+      "title": "§ 20 mom 8",
+      "text": "8) edistää tietoturvallisten tiedonjakovälineiden käyttöönottoa;",
+      "clause_number": 8,
+      "section_number": "20",
+      "statute_id": "910/2014"
+    },
+    {
+      "id": "82c13126-aa3c-4df7-b271-5b87503eb92b",
+      "node_type": "Clause",
+      "publisher": "finlex",
+      "title": "§ 20 mom 9",
+      "text": "9) antaa ohjeita ja suosituksia poikkeamien käsittelemisestä, kyberturvallisuuden kriisinhallinnasta ja koordinoidusta haavoittuvuuksien julkistamisesta.",
+      "clause_number": 9,
+      "section_number": "20",
+      "statute_id": "910/2014"
+    },
+    {
+      "id": "cefcdd57-15c2-44fd-b07f-fdf495616f37",
+      "node_type": "Clause",
+      "publisher": "finlex",
+      "title": "§ 22 mom 1",
+      "text": "1) jotka sisältävät kuvauksen haavoittuvuudesta;",
+      "clause_number": 1,
+      "section_number": "22",
+      "statute_id": "910/2014"
+    },
+    {
+      "id": "7102e34e-1283-404e-ad72-33645dacc47b",
+      "node_type": "Clause",
+      "publisher": "finlex",
+      "title": "§ 22 mom 2",
+      "text": "2) TVT-tuotteista tai -palveluista, joihin haavoittuvuus vaikuttaa, sekä haavoittuvuuden vakavuus niiden olosuhteiden perusteella, joissa haavoittuvuutta voidaan hyödyntää;",
+      "clause_number": 2,
+      "section_number": "22",
+      "statute_id": "910/2014"
+    },
+    {
+      "id": "30f65560-039d-4b1e-a7fd-321cd5511706",
+      "node_type": "Clause",
+      "publisher": "finlex",
+      "title": "§ 22 mom 3",
+      "text": "3) ohjelmistokorjausten saatavuudesta ja, jos niitä ei ole saatavilla, valvovan viranomaisen tai CSIRT-yksikön ohjeistuksesta haavoittuvien TVT-tuotteiden tai -palveluiden käyttäjille siitä, miten julkistetusta haavoittuvuudesta johtuvia riskejä voidaan vähentää.",
+      "clause_number": 3,
+      "section_number": "22",
+      "statute_id": "910/2014"
+    },
+    {
+      "id": "c2d290c0-0d99-4cf3-bcb3-0e346be790c5",
+      "node_type": "Clause",
+      "publisher": "finlex",
+      "title": "§ 23 mom 1",
+      "text": "1) kyberuhkista;",
+      "clause_number": 1,
+      "section_number": "23",
+      "statute_id": "910/2014"
+    },
+    {
+      "id": "b497b490-e526-4923-bc3e-2ef66aad449e",
+      "node_type": "Clause",
+      "publisher": "finlex",
+      "title": "§ 23 mom 2",
+      "text": "2) poikkeamista ja läheltä piti -tilanteista;",
+      "clause_number": 2,
+      "section_number": "23",
+      "statute_id": "910/2014"
+    },
+    {
+      "id": "95294061-5867-443d-bdff-35c4d013fa4b",
+      "node_type": "Clause",
+      "publisher": "finlex",
+      "title": "§ 23 mom 3",
+      "text": "3) haavoittuvuuksista;",
+      "clause_number": 3,
+      "section_number": "23",
+      "statute_id": "910/2014"
+    },
+    {
+      "id": "1c517c2a-bbb2-4a5c-947d-dc5a4d54720a",
+      "node_type": "Clause",
+      "publisher": "finlex",
+      "title": "§ 23 mom 4",
+      "text": "4) taktiikoista, tekniikoista ja menettelyistä;",
+      "clause_number": 4,
+      "section_number": "23",
+      "statute_id": "910/2014"
+    },
+    {
+      "id": "30ea3c47-b932-41bd-97bb-635e0fce0e05",
+      "node_type": "Clause",
+      "publisher": "finlex",
+      "title": "§ 23 mom 5",
+      "text": "5) vaarantumisindikaattoreista;",
+      "clause_number": 5,
+      "section_number": "23",
+      "statute_id": "910/2014"
+    },
+    {
+      "id": "dfc4ea7b-a7c6-41ce-a41c-21a56768812c",
+      "node_type": "Clause",
+      "publisher": "finlex",
+      "title": "§ 23 mom 6",
+      "text": "6) yksittäisistä uhkatoimijoista;",
+      "clause_number": 6,
+      "section_number": "23",
+      "statute_id": "910/2014"
+    },
+    {
+      "id": "5f0f21a4-689b-493e-a8cb-9655594769cc",
+      "node_type": "Clause",
+      "publisher": "finlex",
+      "title": "§ 23 mom 7",
+      "text": "7) kyberturvallisuushälytyksistä;",
+      "clause_number": 7,
+      "section_number": "23",
+      "statute_id": "910/2014"
+    },
+    {
+      "id": "9364f06f-b28f-4b62-b0ad-b05d8749513b",
+      "node_type": "Clause",
+      "publisher": "finlex",
+      "title": "§ 23 mom 8",
+      "text": "8) muista kuin 1–7 kohdassa tarkoitetuista kyberuhkien ja poikkeamien torjumiseksi tarpeellisista seikoista.",
+      "clause_number": 8,
+      "section_number": "23",
+      "statute_id": "910/2014"
+    },
+    {
+      "id": "f63a66cc-88d6-436b-82ab-98f082b9980d",
+      "node_type": "Clause",
+      "publisher": "finlex",
+      "title": "§ 26 mom 1",
+      "text": "1) Liikenne- ja viestintävirasto siltä osin kuin kyse on liitteen I kohdissa 1–7 ja liitteen II kohdissa 1–5 tarkoitetuista toimijoista;",
+      "clause_number": 1,
+      "section_number": "26",
+      "statute_id": "910/2014"
+    },
+    {
+      "id": "4325ab23-dede-407c-ac8c-9da54ba5b0b7",
+      "node_type": "Clause",
+      "publisher": "finlex",
+      "title": "§ 26 mom 2",
+      "text": "2) Energiavirasto siltä osin kuin kyse on liitteen I kohdissa 8 ja 9 sekä kohdan 10 alakohdissa a–c ja kohdan 12 alakohdassa b tarkoitetuista toimijoista;",
+      "clause_number": 2,
+      "section_number": "26",
+      "statute_id": "910/2014"
+    },
+    {
+      "id": "8bc4227a-f94e-4a68-a45e-446ccda21744",
+      "node_type": "Clause",
+      "publisher": "finlex",
+      "title": "§ 26 mom 3",
+      "text": "3) Turvallisuus- ja kemikaalivirasto siltä osin kuin kyse on liitteen I kohdan 10 alakohdissa d–g, kohdassa 11, kohdan 12 alakohdassa a sekä liitteen II kohdissa 6 ja 11–13 tarkoitetuista toimijoista;",
+      "clause_number": 3,
+      "section_number": "26",
+      "statute_id": "910/2014"
+    },
+    {
+      "id": "4be41c77-aaa6-497c-bd88-1672c911b4bb",
+      "node_type": "Clause",
+      "publisher": "finlex",
+      "title": "§ 26 mom 4",
+      "text": "4) Sosiaali- ja terveysalan lupa- ja valvontavirasto siltä osin kuin kyse on liitteen I kohdan 13 alakohdissa a ja b tarkoitetuista toimijoista;",
+      "clause_number": 4,
+      "section_number": "26",
+      "statute_id": "910/2014"
+    },
+    {
+      "id": "b50695e0-149a-4fc8-bde6-33799326df25",
+      "node_type": "Clause",
+      "publisher": "finlex",
+      "title": "§ 26 mom 5",
+      "text": "5) Etelä-Savon elinkeino-, liikenne- ja ympäristökeskus siltä osin kuin kyse on liitteen I kohdissa 14–15 sekä liitteen II kohdassa 8 tarkoitetuista toimijoista;",
+      "clause_number": 5,
+      "section_number": "26",
+      "statute_id": "910/2014"
+    },
+    {
+      "id": "13bb9883-c50a-4477-9806-3107b377f8e1",
+      "node_type": "Clause",
+      "publisher": "finlex",
+      "title": "§ 26 mom 6",
+      "text": "6) Ruokavirasto siltä osin kuin kyse on liitteen II kohdassa 7 tarkoitetuista toimijoista;",
+      "clause_number": 6,
+      "section_number": "26",
+      "statute_id": "910/2014"
+    },
+    {
+      "id": "fbef9b81-6233-4271-80f6-3dfe14450a07",
+      "node_type": "Clause",
+      "publisher": "finlex",
+      "title": "§ 26 mom 7",
+      "text": "7) Lääkealan turvallisuus- ja kehittämiskeskus siltä osin kuin kyse on liitteen I kohdan 13 alakohdissa c–f ja liitteen II kohdissa 9 ja 10 tarkoitetuista toimijoista.",
+      "clause_number": 7,
+      "section_number": "26",
+      "statute_id": "910/2014"
+    },
+    {
+      "id": "daac3325-7cbe-4538-9c0b-7dd29a1be99d",
+      "node_type": "Clause",
+      "publisher": "finlex",
+      "title": "§ 27 mom 1",
+      "text": "1) liitteessä I tarkoitettua toimijaa, joka ylittää mikroyritysten sekä pienten ja keskisuurten yritysten määritelmästä annetun komission suosituksen 2003/361/EY liitteen 2 artiklan mukaiset keskisuuria yrityksiä koskevat edellytykset;",
+      "clause_number": 1,
+      "section_number": "27",
+      "statute_id": "910/2014"
+    },
+    {
+      "id": "ed81fe69-523a-4a12-8d16-812ecfe43d4f",
+      "node_type": "Clause",
+      "publisher": "finlex",
+      "title": "§ 27 mom 2",
+      "text": "2) hyväksyttyjä luottamuspalvelun tarjoajia, aluetunnusrekisterin ylläpitäjiä sekä DNS-palveluntarjoajia;",
+      "clause_number": 2,
+      "section_number": "27",
+      "statute_id": "910/2014"
+    },
+    {
+      "id": "acc048ff-b194-482f-8c3d-8d6fceb3c4c3",
+      "node_type": "Clause",
+      "publisher": "finlex",
+      "title": "§ 27 mom 3",
+      "text": "3) yleisten sähköisten viestintäverkkojen tai yleisesti saatavilla olevien sähköisten viestintäpalvelujen tarjoajia, jotka täyttävät tai ylittävät mikroyritysten sekä pienten ja keskisuurten yritysten määritelmästä annetun komission suosituksen 2003/361/EY liitteen 2 artiklan mukaiset keskisuuria yrityksiä koskevat edellytykset; sekä",
+      "clause_number": 3,
+      "section_number": "27",
+      "statute_id": "910/2014"
+    },
+    {
+      "id": "5d962eb6-33e3-488a-967d-fb2470e3d02a",
+      "node_type": "Clause",
+      "publisher": "finlex",
+      "title": "§ 27 mom 3",
+      "text": "4) 3 §:n 3 momentissa tarkoitettua toimijaa.",
+      "clause_number": 3,
+      "section_number": "27",
+      "statute_id": "910/2014"
+    },
+    {
+      "id": "1827ca48-86c6-431e-bbca-f975a3f32884",
+      "node_type": "Clause",
+      "publisher": "finlex",
+      "title": "§ 27 mom 4",
+      "text": "4) 3 §:n 3 momentissa tarkoitettua toimijaa.",
+      "clause_number": 4,
+      "section_number": "27",
+      "statute_id": "910/2014"
+    },
+    {
+      "id": "bebf13c5-1f00-4869-9a1c-f953d6d3b445",
+      "node_type": "Clause",
+      "publisher": "finlex",
+      "title": "§ 27 mom 1",
+      "text": "1) liitteessä I tai II tarkoitetun toiminnan laatu ja laajuus;",
+      "clause_number": 1,
+      "section_number": "27",
+      "statute_id": "910/2014"
+    },
+    {
+      "id": "1ca8c7e9-c0b4-4dd3-81f0-866235be5d74",
+      "node_type": "Clause",
+      "publisher": "finlex",
+      "title": "§ 27 mom 2",
+      "text": "2) tietojärjestelmän tai viestintäverkon merkitys liitteessä I tai II tarkoitetulle toiminnalle; ja",
+      "clause_number": 2,
+      "section_number": "27",
+      "statute_id": "910/2014"
+    },
+    {
+      "id": "bb80d96c-ef7a-4c4f-9b13-674da1c91570",
+      "node_type": "Clause",
+      "publisher": "finlex",
+      "title": "§ 27 mom 3",
+      "text": "3) 37 §:ssä tarkoitetut seikat.",
+      "clause_number": 3,
+      "section_number": "27",
+      "statute_id": "910/2014"
+    },
+    {
+      "id": "a5dfc4a3-dd7f-4e43-aafa-edf5ad0e6210",
+      "node_type": "Clause",
+      "publisher": "finlex",
+      "title": "§ 30 mom 1",
+      "text": "1) toimijaan on kohdistunut merkittävä poikkeama, joka on aiheuttanut palvelujen vakavan toimintahäiriön tai huomattavaa aineellista tai aineetonta vahinkoa; tai",
+      "clause_number": 1,
+      "section_number": "30",
+      "statute_id": "910/2014"
+    },
+    {
+      "id": "0a98f960-c1c3-465a-8075-a31b69ecd22f",
+      "node_type": "Clause",
+      "publisher": "finlex",
+      "title": "§ 30 mom 2",
+      "text": "2) toimija on olennaisesti ja vakavasti laiminlyönyt toteuttaa 8 §:ssä tarkoitetun kyberturvallisuutta koskevan riskienhallinnan toimintamallin tai siinä edellytettyjä hallintatoimenpiteitä taikka muutoin olennaisesti ja vakavasti toiminut tässä laissa tai sen nojalla taikka NIS 2 -direktiivin nojalla säädetyn velvollisuuden vastaisesti.",
+      "clause_number": 2,
+      "section_number": "30",
+      "statute_id": "910/2014"
+    },
+    {
+      "id": "7bf2ee00-baaf-41cf-8856-629e6e4316e3",
+      "node_type": "Clause",
+      "publisher": "finlex",
+      "title": "§ 35 mom 1",
+      "text": "1) 7 §:ssä tarkoitetun velvollisuuden hallita riskejä, 8 §:ssä tarkoitetun kyberturvallisuutta koskevan riskienhallinnan toimintamallin laatimisen tai 9 §:n 1 momentissa tarkoitettujen osa-alueiden huomioimisen osana kyberturvallisuuden riskienhallinnan toimintamallia;",
+      "clause_number": 1,
+      "section_number": "35",
+      "statute_id": "910/2014"
+    },
+    {
+      "id": "9ea3abd8-74fa-4612-afa3-9b994663d7b5",
+      "node_type": "Clause",
+      "publisher": "finlex",
+      "title": "§ 35 mom 1",
+      "text": "1) 7 §:ssä tarkoitetun velvollisuuden hallita riskejä, 8 §:ssä tarkoitetun kyberturvallisuutta koskevan riskienhallinnan toimintamallin laatimisen tai 9 §:n 1 momentissa tarkoitettujen osa-alueiden huomioimisen osana kyberturvallisuuden riskienhallinnan toimintamallia;",
+      "clause_number": 1,
+      "section_number": "35",
+      "statute_id": "910/2014"
+    },
+    {
+      "id": "ede69b3a-0fa0-4fb9-a6e0-1838c8d2b296",
+      "node_type": "Clause",
+      "publisher": "finlex",
+      "title": "§ 35 mom 2",
+      "text": "2) toteuttaa 9 §:n 2 momentissa tarkoitetut toimenpiteet;",
+      "clause_number": 2,
+      "section_number": "35",
+      "statute_id": "910/2014"
+    },
+    {
+      "id": "20a2f513-1f5e-434b-8782-e997060ba5ac",
+      "node_type": "Clause",
+      "publisher": "finlex",
+      "title": "§ 35 mom 2",
+      "text": "2) toteuttaa 9 §:n 2 momentissa tarkoitetut toimenpiteet;",
+      "clause_number": 2,
+      "section_number": "35",
+      "statute_id": "910/2014"
+    },
+    {
+      "id": "c4a53eac-4cdb-4a6b-81b7-9bd2f4b01176",
+      "node_type": "Clause",
+      "publisher": "finlex",
+      "title": "§ 35 mom 3",
+      "text": "3) antaa 11 §:ssä tarkoitetun poikkeamailmoituksen, 12 §:ssä tarkoitetun väliraportin tai 13 §:ssä tarkoitetun loppuraportin valvovalle viranomaiselle;",
+      "clause_number": 3,
+      "section_number": "35",
+      "statute_id": "910/2014"
+    },
+    {
+      "id": "d83b564b-6c01-40ff-9e15-389c1dcb052d",
+      "node_type": "Clause",
+      "publisher": "finlex",
+      "title": "§ 35 mom 4",
+      "text": "4) antaa 41 §:ssä tarkoitetut tiedot valvovalle viranomaiselle.",
+      "clause_number": 4,
+      "section_number": "35",
+      "statute_id": "910/2014"
+    },
+    {
+      "id": "22e3393e-c02b-472d-8675-3ffd9d691cc8",
+      "node_type": "Clause",
+      "publisher": "finlex",
+      "title": "§ 37 mom 1",
+      "text": "1) rikkomisen vakavuus ja rikottujen säännösten tärkeys siten, että rikkomisen vakavuutta osoittaa",
+      "clause_number": 1,
+      "section_number": "37",
+      "statute_id": "910/2014"
+    },
+    {
+      "id": "8a6bc3e7-76c8-409a-ba9f-725b1a21ee17",
+      "node_type": "Clause",
+      "publisher": "finlex",
+      "title": "§ 37 mom 2",
+      "text": "2) rikkomisen kesto;",
+      "clause_number": 2,
+      "section_number": "37",
+      "statute_id": "910/2014"
+    },
+    {
+      "id": "8c11ac76-51c2-45e3-b8ad-1cafca6952d4",
+      "node_type": "Clause",
+      "publisher": "finlex",
+      "title": "§ 37 mom 3",
+      "text": "3) toimijan mahdolliset vastaavat aiemmat rikkomiset;",
+      "clause_number": 3,
+      "section_number": "37",
+      "statute_id": "910/2014"
+    },
+    {
+      "id": "73163f4d-81b4-45dc-9839-3ca08343f60e",
+      "node_type": "Clause",
+      "publisher": "finlex",
+      "title": "§ 37 mom 4",
+      "text": "4) aiheutunut vahinko, mukaan lukien rahoitukseen liittyvät tai taloudelliset tappiot, vaikutukset muihin palveluihin sekä niiden käyttäjien lukumäärä, joihin rikkominen vaikuttaa;",
+      "clause_number": 4,
+      "section_number": "37",
+      "statute_id": "910/2014"
+    },
+    {
+      "id": "4302e82c-84fd-4a87-8810-ca06aad66792",
+      "node_type": "Clause",
+      "publisher": "finlex",
+      "title": "§ 37 mom 5",
+      "text": "5) tahallisuuden aste;",
+      "clause_number": 5,
+      "section_number": "37",
+      "statute_id": "910/2014"
+    },
+    {
+      "id": "5588c146-f405-4aa4-be75-ec063452eaf5",
+      "node_type": "Clause",
+      "publisher": "finlex",
+      "title": "§ 37 mom 6",
+      "text": "6) toimenpiteet, jotka toimija on toteuttanut vahingon ehkäisemiseksi tai lieventämiseksi;",
+      "clause_number": 6,
+      "section_number": "37",
+      "statute_id": "910/2014"
+    },
+    {
+      "id": "251744f8-263b-4a23-a953-8cf04d99ef41",
+      "node_type": "Clause",
+      "publisher": "finlex",
+      "title": "§ 37 mom 7",
+      "text": "7) hyväksyttyjen käytännesääntöjen tai hyväksyttyjen sertifiointimekanismien noudattaminen;",
+      "clause_number": 7,
+      "section_number": "37",
+      "statute_id": "910/2014"
+    },
+    {
+      "id": "fdbd4ad4-46e6-4cff-aef2-a720198654b5",
+      "node_type": "Clause",
+      "publisher": "finlex",
+      "title": "§ 37 mom 8",
+      "text": "8) toimijan halukkuus tehdä yhteistyötä valvovan viranomaisen kanssa.",
+      "clause_number": 8,
+      "section_number": "37",
+      "statute_id": "910/2014"
+    },
+    {
+      "id": "68b59c22-e2db-4263-aa6d-3c522fd5af79",
+      "node_type": "Clause",
+      "publisher": "finlex",
+      "title": "§ 39 mom 1",
+      "text": "1) toimija on oma-aloitteisesti ryhtynyt riittäviin toimenpiteisiin rikkomuksen tai laiminlyönnin korjaamiseksi välittömästi sen havaitsemisen jälkeen ja ilmoittanut siitä viivytyksettä valvovalle viranomaiselle sekä toiminut yhteistyössä valvovan viranomaisen kanssa eikä rikkomus tai laiminlyönti ole vakava tai toistuva;",
+      "clause_number": 1,
+      "section_number": "39",
+      "statute_id": "910/2014"
+    },
+    {
+      "id": "93182a91-c6fe-412e-9241-b60d10f6e37c",
+      "node_type": "Clause",
+      "publisher": "finlex",
+      "title": "§ 39 mom 2",
+      "text": "2) rikkomusta tai laiminlyöntiä on pidettävä vähäisenä; tai",
+      "clause_number": 2,
+      "section_number": "39",
+      "statute_id": "910/2014"
+    },
+    {
+      "id": "5b992a43-b4b6-4d00-9d5b-75cb63a11a79",
+      "node_type": "Clause",
+      "publisher": "finlex",
+      "title": "§ 39 mom 3",
+      "text": "3) seuraamusmaksun määräämistä on pidettävä ilmeisen kohtuuttomana muutoin kuin 1 tai 2 kohdassa tarkoitetulla perusteella.",
+      "clause_number": 3,
+      "section_number": "39",
+      "statute_id": "910/2014"
+    },
+    {
+      "id": "f5f4ded7-9f03-4ae3-8065-ee3d37273616",
+      "node_type": "Clause",
+      "publisher": "finlex",
+      "title": "§ 41 mom 1",
+      "text": "1) toimijan nimi;",
+      "clause_number": 1,
+      "section_number": "41",
+      "statute_id": "910/2014"
+    },
+    {
+      "id": "1bcb88b7-c2c3-4f1c-aa2e-abec322971b7",
+      "node_type": "Clause",
+      "publisher": "finlex",
+      "title": "§ 41 mom 2",
+      "text": "2) osoitteensa, sähköpostiosoitteensa, puhelinnumeronsa ja muut ajantasaiset yhteystietonsa;",
+      "clause_number": 2,
+      "section_number": "41",
+      "statute_id": "910/2014"
+    },
+    {
+      "id": "60afdf98-c8d1-4959-98f2-262439f2ad41",
+      "node_type": "Clause",
+      "publisher": "finlex",
+      "title": "§ 41 mom 3",
+      "text": "3) IP-osoitealueensa;",
+      "clause_number": 3,
+      "section_number": "41",
+      "statute_id": "910/2014"
+    },
+    {
+      "id": "27efb3a9-0751-42ee-b9bf-63634a15e3f0",
+      "node_type": "Clause",
+      "publisher": "finlex",
+      "title": "§ 41 mom 4",
+      "text": "4) NIS 2 -direktiivin liitteessä I tai II tarkoitettu asiaankuuluva toimialansa ja sen osa;",
+      "clause_number": 4,
+      "section_number": "41",
+      "statute_id": "910/2014"
+    },
+    {
+      "id": "dec16a9f-67f2-401c-8461-14b388d70781",
+      "node_type": "Clause",
+      "publisher": "finlex",
+      "title": "§ 41 mom 5",
+      "text": "5) tieto siitä, onko se keskeinen toimija;",
+      "clause_number": 5,
+      "section_number": "41",
+      "statute_id": "910/2014"
+    },
+    {
+      "id": "e9e440ba-a50b-476f-a3c6-1c026b1e60f8",
+      "node_type": "Clause",
+      "publisher": "finlex",
+      "title": "§ 41 mom 6",
+      "text": "6) luettelo niistä Euroopan unionin jäsenvaltioista, joissa se tarjoaa NIS 2 -direktiivin soveltamisalaan kuuluvia palveluja; ja",
+      "clause_number": 6,
+      "section_number": "41",
+      "statute_id": "910/2014"
+    },
+    {
+      "id": "e76bbdc0-a820-4248-ab38-0758ec6987f1",
+      "node_type": "Clause",
+      "publisher": "finlex",
+      "title": "§ 41 mom 7",
+      "text": "7) osallistumisesta 23 §:ssä tarkoitettuun kyberturvallisuustietojen vapaaehtoiseen jakamisjärjestelyyn.",
+      "clause_number": 7,
+      "section_number": "41",
+      "statute_id": "910/2014"
+    },
+    {
+      "id": "115465f1-5978-4734-8135-b12b4793a13c",
+      "node_type": "Clause",
+      "publisher": "finlex",
+      "title": "§ 41 mom 1",
+      "text": "1) NIS 2 -direktiivin liitteessä I tai II tarkoitettu toimijatyyppinsä;",
+      "clause_number": 1,
+      "section_number": "41",
+      "statute_id": "910/2014"
+    },
+    {
+      "id": "d6c4846c-5030-464b-ae39-1a8ede1f8448",
+      "node_type": "Clause",
+      "publisher": "finlex",
+      "title": "§ 41 mom 2",
+      "text": "2) päätoimipaikkansa ja muiden Euroopan unionin jäsenvaltiossa sijaitsevien laillisten toimipaikkojensa osoite tai, jos toimija ei ole sijoittautunut Euroopan unioniin, sen Euroopan unioniin nimetyn edustajan osoite, sähköpostiosoite, puhelinnumero ja muut ajantasaiset yhteystiedot; ja",
+      "clause_number": 2,
+      "section_number": "41",
+      "statute_id": "910/2014"
+    },
+    {
+      "id": "83195a93-9dd4-42b7-8d0d-bc801560a78e",
+      "node_type": "Clause",
+      "publisher": "finlex",
+      "title": "§ 41 mom 3",
+      "text": "3) luettelo Euroopan unionin jäsenvaltioista, joissa toimija tarjoaa palveluita.",
+      "clause_number": 3,
+      "section_number": "41",
+      "statute_id": "910/2014"
+    },
+    {
+      "id": "024bffe2-45dc-4fb0-ae24-4e62548ab370",
+      "node_type": "Clause",
+      "publisher": "finlex",
+      "title": "§ 43 mom 1",
+      "text": "1) kansallisten varautumiskeinojen ja -toimien tavoitteista;",
+      "clause_number": 1,
+      "section_number": "43",
+      "statute_id": "910/2014"
+    },
+    {
+      "id": "c6f1f574-6c49-441f-8dc5-d7af753e3d26",
+      "node_type": "Clause",
+      "publisher": "finlex",
+      "title": "§ 43 mom 2",
+      "text": "2) viranomaisten tehtävistä ja vastuista;",
+      "clause_number": 2,
+      "section_number": "43",
+      "statute_id": "910/2014"
+    },
+    {
+      "id": "37a78413-c274-499e-9c03-713e14e7ab00",
+      "node_type": "Clause",
+      "publisher": "finlex",
+      "title": "§ 43 mom 3",
+      "text": "3) kriisinhallintaa koskevista toimintatavoista ja niiden sisällyttämisestä yleiseen kansalliseen kriisinhallintakehykseen sekä tiedonvaihtokanavista viranomaisten välillä;",
+      "clause_number": 3,
+      "section_number": "43",
+      "statute_id": "910/2014"
+    },
+    {
+      "id": "376ed0e1-541e-4fd1-ab21-b5f6ecf03d76",
+      "node_type": "Clause",
+      "publisher": "finlex",
+      "title": "§ 43 mom 4",
+      "text": "4) kansallisista varautumiskeinoista, joihin kuuluvat myös harjoitukset ja koulutustoimenpiteet;",
+      "clause_number": 4,
+      "section_number": "43",
+      "statute_id": "910/2014"
+    },
+    {
+      "id": "65114ca8-02a6-47ad-a697-86389c4c7c15",
+      "node_type": "Clause",
+      "publisher": "finlex",
+      "title": "§ 43 mom 5",
+      "text": "5) keskeisistä julkisista ja yksityisistä sidosryhmistä ja keskeisestä infrastruktuurista;",
+      "clause_number": 5,
+      "section_number": "43",
+      "statute_id": "910/2014"
+    },
+    {
+      "id": "377b0779-b5b3-44f7-ace3-63a4c1c27e6e",
+      "node_type": "Clause",
+      "publisher": "finlex",
+      "title": "§ 43 mom 6",
+      "text": "6) viranomaisten välisestä menettelystä osallistuttaessa laajamittaisten kyberturvallisuuspoikkeamien ja -kriisien koordinoituun hallintaan Euroopan unionin tasolla.",
+      "clause_number": 6,
+      "section_number": "43",
+      "statute_id": "910/2014"
+    }
+  ],
+  "cross_references": [
+    {
+      "raw_text": "pykälän 4 kohdassa t",
+      "statute_id": "910/2014",
+      "section_number": "4 kohdassa t",
+      "clause_number": null,
+      "resolution_confidence": 0.0
+    }
+  ],
+  "raw_html_path": "C:\\Users\\danit\\finance-hack\\aalto-hackaton-2026\\data\\raw\\finlex\\Laki (säädöskokoelma)\\Kyberturvallisuuslaki.html"
+}

@@ -1,0 +1,1001 @@
+{
+  "statute": {
+    "id": "6d59fdba-c452-4e47-903c-7066e938ec3f",
+    "node_type": "Statute",
+    "publisher": "finlex",
+    "title": "Laki eläintunnistusjärjestelmästä",
+    "text": "Laki eläintunnistusjärjestelmästä",
+    "statute_id": "1760/2000",
+    "finlex_url": "https://finlex.fi/fi/laki/ajantasa/1760/2000"
+  },
+  "chapters": [
+    {
+      "id": "69cf6bec-2251-4dfa-adb4-2c5a642ba16e",
+      "node_type": "Chapter",
+      "publisher": "finlex",
+      "title": "Chapter 1",
+      "text": "1 luku Yleiset säännökset",
+      "chapter_number": 1,
+      "statute_id": "1760/2000"
+    },
+    {
+      "id": "1bc7cf70-6101-463c-8698-e2e66e12ceb1",
+      "node_type": "Chapter",
+      "publisher": "finlex",
+      "title": "Chapter 2",
+      "text": "2 luku Eläintunnistusjärjestelmän rekisterit",
+      "chapter_number": 2,
+      "statute_id": "1760/2000"
+    },
+    {
+      "id": "f2a77995-8e4e-41b5-beb9-969cde8f1a2c",
+      "node_type": "Chapter",
+      "publisher": "finlex",
+      "title": "Chapter 3",
+      "text": "3 luku Eläinten merkitseminen ja eläimistä pidettävät luettelot",
+      "chapter_number": 3,
+      "statute_id": "1760/2000"
+    },
+    {
+      "id": "b254bfcb-df3d-4a5a-b314-4df2ea871fa1",
+      "node_type": "Chapter",
+      "publisher": "finlex",
+      "title": "Chapter 4",
+      "text": "4 luku Viranomaiset ja valvonnan järjestäminen",
+      "chapter_number": 4,
+      "statute_id": "1760/2000"
+    },
+    {
+      "id": "6e58cb65-4134-4173-b806-2cf1c97edda7",
+      "node_type": "Chapter",
+      "publisher": "finlex",
+      "title": "Chapter 5",
+      "text": "5 luku Hallinnolliset pakkokeinot ja seuraamukset",
+      "chapter_number": 5,
+      "statute_id": "1760/2000"
+    },
+    {
+      "id": "54841272-6fd5-4b74-a2e9-3a1209448eaf",
+      "node_type": "Chapter",
+      "publisher": "finlex",
+      "title": "Chapter 6",
+      "text": "6 luku Erinäiset säännökset",
+      "chapter_number": 6,
+      "statute_id": "1760/2000"
+    }
+  ],
+  "sections": [
+    {
+      "id": "0c0c103b-4824-4df7-8184-c9fbd283390d",
+      "node_type": "Section",
+      "publisher": "finlex",
+      "title": "1 § Lain tarkoitus",
+      "text": "Tässä laissa säädetään eläimistä vastuussa olevien toimijoiden, eläinten pitopaikkojen ja eläinten tunnistamisesta, rekisteröimisestä ja jäljittämisestä (eläintunnistusjärjestelmä).",
+      "section_number": "1",
+      "chapter_number": 1,
+      "statute_id": "1760/2000"
+    },
+    {
+      "id": "ec4b6685-7ab7-40c1-85a6-be79391458ce",
+      "node_type": "Section",
+      "publisher": "finlex",
+      "title": "2 § Soveltamisala",
+      "text": "Tätä lakia sovelletaan muihin kuin luonnonvaraisina eläviin eläimiin. Lakia sovelletaan kuitenkin luonnonvaraisena elävien eläinten haaskaruokintapaikkoihin. Eläinlajeista, jotka 1 momentin perusteella kuuluvat lain soveltamisalaan, säädetään maa- ja metsätalousministeriön asetuksella siten kuin eläinten tunnistamista, terveyttä, hyvinvointia, eläinperäisiä sivutuotteita, kansanterveyttä tai elintarviketurvallisuutta koskeva Euroopan unionin lainsäädäntö taikka eläintauteja, eläinten ja ihmisten välillä tarttuvia tauteja tai maataloustukia koskeva kansallinen lainsäädäntö edellyttävät.",
+      "section_number": "2",
+      "chapter_number": 1,
+      "statute_id": "1760/2000"
+    },
+    {
+      "id": "30f2c740-3e11-4046-8b40-d8e49ea46f63",
+      "node_type": "Section",
+      "publisher": "finlex",
+      "title": "3 § Euroopan unionin lainsäädäntö",
+      "text": "Jollei muussa laissa toisin säädetä, tätä lakia sovelletaan myös seuraavien eläinten tunnistamista ja rekisteröimistä sekä luonnonvaraisena elävien eläinten haaskaruokintapaikkoja koskevien Euroopan unionin säädösten ja niiden nojalla annettujen säännösten täytäntöönpanoon ja noudattamisen valvontaan: Mitä tässä laissa säädetään Euroopan unionista tai Euroopan unionin jäsenvaltioista, koskee myös Euroopan talousaluetta ja sen jäsenvaltioita.",
+      "section_number": "3",
+      "chapter_number": 1,
+      "statute_id": "1760/2000"
+    },
+    {
+      "id": "c4e1cfc0-1879-4e79-817b-9ba21931b674",
+      "node_type": "Section",
+      "publisher": "finlex",
+      "title": "4 § Suhde muuhun lainsäädäntöön",
+      "text": "Eläintunnistusjärjestelmän rekistereiden tiedot talletetaan maaseutuelinkeinohallinnon tietojärjestelmästä annetussa laissa (284/2008), jäljempänätietojärjestelmälaki, tarkoitettuun maaseutuelinkeinohallinnon tietojärjestelmään (tietojärjestelmä). Eläintunnistusjärjestelmän asiakirjoihin ja rekistereihin sovelletaan edellä mainittua lakia, jollei tässä laissa toisin säädetä.",
+      "section_number": "4",
+      "chapter_number": 1,
+      "statute_id": "1760/2000"
+    },
+    {
+      "id": "7ed5f545-ff64-452e-a54d-6eebbbdb502b",
+      "node_type": "Section",
+      "publisher": "finlex",
+      "title": "5 § Määritelmät",
+      "text": "Tässä laissa tarkoitetaan:",
+      "section_number": "5",
+      "chapter_number": 1,
+      "statute_id": "1760/2000"
+    },
+    {
+      "id": "827bc731-6884-4108-ada5-fea8c8503dbd",
+      "node_type": "Section",
+      "publisher": "finlex",
+      "title": "6 § Rekisterinpitäjä",
+      "text": "Eläintunnistusjärjestelmän rekistereiden rekisterinpitäjä on Elintarviketurvallisuusvirasto. Rekisterinpitäjän vastuusta säädetään tietojärjestelmälain 5 §:ssä.",
+      "section_number": "6",
+      "chapter_number": 2,
+      "statute_id": "1760/2000"
+    },
+    {
+      "id": "7b67e793-f218-4cdd-8471-55274002a670",
+      "node_type": "Section",
+      "publisher": "finlex",
+      "title": "7 § Avustavan tehtävän siirto muulle kuin viranomaiselle",
+      "text": "Elintarviketurvallisuusvirasto voi määräämillään ehdoilla myöntää muulle kuin viranomaiselle oikeuden avustaa rekisteritietojen päivittämisessä tai eläinten tunnistamiseen liittyvässä tehtävässä, jos avustajalla on riittävä perehtyneisyys tehtävän kohteena olevaan eläinlajiin ja sen pidolle asetettaviin vaatimuksiin sekä riittävä osaaminen rekisterinpidosta. Avustajaan sovelletaan rikosoikeudellista virkavastuuta koskevia säännöksiä. Vahingonkorvausvastuusta säädetään vahingonkorvauslaissa (412/1974).",
+      "section_number": "7",
+      "chapter_number": 2,
+      "statute_id": "1760/2000"
+    },
+    {
+      "id": "553787d2-0cf9-43a6-8e0a-853b544e1071",
+      "node_type": "Section",
+      "publisher": "finlex",
+      "title": "8 § Eläintenpitäjä- ja eläinvälittäjärekisterin tiedot",
+      "text": "Eläintenpitäjä- ja eläinvälittäjärekisteriin talletetaan seuraavat tiedot:",
+      "section_number": "8",
+      "chapter_number": 2,
+      "statute_id": "1760/2000"
+    },
+    {
+      "id": "612bf749-1b22-4dfd-9927-b6df35438187",
+      "node_type": "Section",
+      "publisher": "finlex",
+      "title": "9 § Ilmoitukset eläintenpitäjä- ja eläinvälittäjärekisteriin",
+      "text": "Eläintenpitäjä ja eläinvälittäjä ovat velvollisia ilmoittamaan eläintenpitäjä- ja eläinvälittäjärekisteriin merkittäviksi 8 §:n 1―5 kohdassa tarkoitetut tiedot kirjallisesti tai sähköisesti ennen toiminnan aloittamista. Eläintenpitäjä ja eläinvälittäjä ovat velvollisia ilmoittamaan rekisteriin merkittäviksi 8 §:n 6 ja 7 kohdassa tarkoitetut tiedot kirjallisesti tai sähköisesti viimeistään 30 vuorokauden kuluttua tapahtumasta. Eläinvälitystoiminnassa käyttöönotettavasta eläinkuljetusvälineestä on kuitenkin ilmoitettava ennen kuljetusten aloittamista. Eläinten kuljetus-, pitämis- ja kauppaamistoiminnalle sekä eläinkuljetusvälineelle vaadittavasta luvasta tai hyväksynnästä säädetään erikseen. Tarkemmat säännökset eläinvälitystoiminnassa käyttöönotettavaa tai käytöstä poistuvaa eläinkuljetusvälinettä koskevasta ilmoitusmenettelystä voidaan antaa maa- ja metsätalousministeriön asetuksella.",
+      "section_number": "9",
+      "chapter_number": 2,
+      "statute_id": "1760/2000"
+    },
+    {
+      "id": "5afc1a17-4bd5-4ced-8bb8-147cc272407a",
+      "node_type": "Section",
+      "publisher": "finlex",
+      "title": "10 § Pitopaikka- ja haaskaruokintapaikkarekisterin tiedot",
+      "text": "Pitopaikka- ja haaskaruokintapaikkarekisteriin talletetaan seuraavat tiedot pitopaikasta: Haaskaruokintapaikasta rekisteriin talletetaan seuraavat tiedot:",
+      "section_number": "10",
+      "chapter_number": 2,
+      "statute_id": "1760/2000"
+    },
+    {
+      "id": "5d7a58d6-e3bc-4429-87de-cc824963df63",
+      "node_type": "Section",
+      "publisher": "finlex",
+      "title": "11 § Ilmoitukset pitopaikka- ja haaskaruokintapaikkarekisteriin",
+      "text": "Pitopaikasta vastuussa oleva toimija on velvollinen kirjallisesti tai sähköisesti ilmoittamaan pitopaikka- ja haaskaruokintapaikkarekisteriin merkittäviksi 10 § 1 momentin 1―6 kohdassa tarkoitetut tiedot ennen eläintenpidon aloittamista sekä 7 ja 8 kohdassa tarkoitetut tiedot viimeistään 30 vuorokauden kuluttua tapahtumasta. Haaskaruokintapaikasta vastuussa oleva toimija on velvollinen kirjallisesti tai sähköisesti ilmoittamaan pitopaikka- ja haaskaruokintapaikkarekisteriin merkittäviksi 10 §:n 2 momentin 1―5 kohdassa tarkoitetut tiedot ennen haaskaruokinnan aloittamista sekä 6 ja 7 kohdassa tarkoitetut tiedot viimeistään 30 vuorokauden kuluttua tapahtumasta. Eläinten pitämiseen tarkoitetuille tiloille tai luonnonvaraisena elävien eläinten haaskaruokintapaikalle vaadittavasta luvasta tai hyväksynnästä säädetään erikseen. Tarkemmat säännökset 10 §:n 1 momentin 5 kohdassa tarkoitetusta pitopaikan eläinmäärän ja kapasiteetin ilmoittamisesta voidaan antaa eläinlajikohtaisesti maa- ja metsätalousministeriön asetuksella.",
+      "section_number": "11",
+      "chapter_number": 2,
+      "statute_id": "1760/2000"
+    },
+    {
+      "id": "2b211621-3f09-40c8-bf91-7f0ee18b35e1",
+      "node_type": "Section",
+      "publisher": "finlex",
+      "title": "12 § Eläinrekisterin tiedot",
+      "text": "Eläinrekisteriin talletetaan seuraavat tiedot:",
+      "section_number": "12",
+      "chapter_number": 2,
+      "statute_id": "1760/2000"
+    },
+    {
+      "id": "cf77dbe3-5c97-48a3-9d91-89a5cfbe4038",
+      "node_type": "Section",
+      "publisher": "finlex",
+      "title": "13 § Ilmoitukset eläinrekisteriin",
+      "text": "Eläimistä vastuussa oleva toimija on velvollinen ilmoittamaan eläinrekisteriin merkittäviksi 12 §:n 1―10 kohdassa tarkoitetut tiedot. Luokan 1 käsittelylaitos on velvollinen ilmoittamaan 12 §:n 11 kohdan mukaisesti sivutuoteasetuksessa tarkoitetun luokan 1 ainekseen kuuluvan kuolleen eläimen kokoruhon vastaanottamisesta. Eläinlajeista, jotka kuuluvat 1 ja 2 momentissa tarkoitetun ilmoitusvelvollisuuden piiriin, sekä ilmoituksen määräajasta säädetään maa- ja metsätalousministeriön asetuksella.",
+      "section_number": "13",
+      "chapter_number": 2,
+      "statute_id": "1760/2000"
+    },
+    {
+      "id": "69017a17-b838-47f2-8a45-0dcebf72cebc",
+      "node_type": "Section",
+      "publisher": "finlex",
+      "title": "14 § Huolellisuus- ja selonottovelvollisuus",
+      "text": "Eläintenpitäjä ja eläinvälittäjä eivät saa luovuttaa eivätkä siirtää pitopaikasta eläintä, josta 13 §:ssä tarkoitetut ilmoitukset eläinrekisteriin on laiminlyöty kokonaan tai osittain. Eläimistä vastuussa oleva toimija ei saa vastaanottaa pitopaikkaan eikä eläinkuljettaja ottaa kuljetettavaksi eläintä, josta ilmoitukset eläinrekisteriin on laiminlyöty kokonaan tai osittain.",
+      "section_number": "14",
+      "chapter_number": 2,
+      "statute_id": "1760/2000"
+    },
+    {
+      "id": "90dbeabe-9bd7-46a1-ab3d-e54939d38249",
+      "node_type": "Section",
+      "publisher": "finlex",
+      "title": "15 § Rekisterikysely",
+      "text": "Se, joka ottaa eläimen eläinvälitykseen, kuljetettavaksi, teurastettavaksi taikka perattavaksi on velvollinen ennen kyseiseen toimenpiteeseen ryhtymistä tekemään tietojärjestelmästä rekisterikyselyn eläimen kelpoisuuden selvittämiseksi. Rekisterikysely sisältää eläimestä tietojärjestelmään talletetut tiedot, 14 §:ssä tarkoitetut laiminlyönnit sekä viranomaisen eläintä koskevat kiellot ja määräykset. Eläinlajeista, jotka kuuluvat 1 momentissa tarkoitetun velvollisuuden piiriin, säädetään maa- ja metsätalousministeriön asetuksella. Lisäksi maa- ja metsätalousministeriön asetuksella voidaan antaa tarkemmat säännökset rekisterikyselyn sisällöstä ja rekisterikyselymenettelystä. Sellaisesta eläinlajista, josta on säädetty 2 momentissa tarkoitetulla tavalla, on eläintenpitäjällä oikeus tehdä eläintä koskeva 1 momentissa tarkoitettu rekisterikysely ennen eläimen hankintaa.",
+      "section_number": "15",
+      "chapter_number": 2,
+      "statute_id": "1760/2000"
+    },
+    {
+      "id": "69c5003e-4990-47ec-be6c-4cd16596d2f1",
+      "node_type": "Section",
+      "publisher": "finlex",
+      "title": "16 § Oikeus tietojen saantiin viranomaisilta",
+      "text": "Rekisterinpitäjällä on sen estämättä, mitä tietojen salassapidosta säädetään, oikeus saada tietoja viranomaisilta seuraavasti: Tiedot voidaan toimittaa teknisen käyttöyhteyden avulla tai muutoin sähköisessä muodossa.",
+      "section_number": "16",
+      "chapter_number": 2,
+      "statute_id": "1760/2000"
+    },
+    {
+      "id": "b826f0fc-5200-4f5f-bc66-9d0edf81e9ed",
+      "node_type": "Section",
+      "publisher": "finlex",
+      "title": "17 § Oikeus tietojen saantiin muilta kuin viranomaisilta",
+      "text": "Rekisterinpitäjällä on sen estämättä, mitä tietojen salassapidosta säädetään, oikeus saada eläimistä saatavien tuotteiden myyntiä, käsittelyä ja markkinointia harjoittavilta toimijoilta asiakkaista tai raaka-ainetoimittajista 9 §:ssä säädetyn eläintenpitäjän ja eläinvälittäjän ilmoitusvelvollisuuden noudattamisen valvomiseksi välttämättömät tiedot.",
+      "section_number": "17",
+      "chapter_number": 2,
+      "statute_id": "1760/2000"
+    },
+    {
+      "id": "13dd1cbf-a3c6-4ddf-ab0b-1642a258bc33",
+      "node_type": "Section",
+      "publisher": "finlex",
+      "title": "18 § Tunnistimet",
+      "text": "Elintarviketurvallisuusvirasto hyväksyy eläinten merkitsemiseen käytettävät tunnistimet kutakin eläinlajia varten erikseen tunnistimien valmistajan tai markkinoijan hakemuksesta. Tunnistimen hyväksymisen edellytyksenä on Euroopan unionin eläinten tunnistamista koskevan lainsäädännön asettamissa rajoissa, että tunnistin: Jos hakemuksen käsittelyvaiheessa ilmenee, että tunnistimet eivät täytä niille 1 momentissa asetettuja vaatimuksia, Elintarviketurvallisuusviraston on hylättävä hakemus. Jos Elintarviketurvallisuusvirasto toteaa hakemuksen hyväksymisen jälkeen, että tunnistimet eivät täytä niille 1 momentissa asetettuja vaatimuksia, Elintarviketurvallisuusviraston on annettava hyväksynnän saajalle huomautus epäkohdasta sekä tarvittaessa ilmoitettava määräaika, jonka kuluessa epäkohta on poistettava. Jos epäkohtaa ei ole huomautuksen jälkeen korjattu, Elintarviketurvallisuusvirasto voi peruuttaa tunnistimen hyväksymisen. Elintarviketurvallisuusviraston on pidettävä luetteloa hyväksytyistä tunnistimista kaikkien saatavilla. Sähköiseen tunnistimeen sisältyvässä, eläimen yksilöivässä tunnistuskoodissa saa käyttää ISO standardeissa 11784 ja 11785 tarkoitettua maatunnusta vain, jos Elintarviketurvallisuusvirasto varmistaa tunnistuskoodien yksiselitteisyyden.",
+      "section_number": "18",
+      "chapter_number": 3,
+      "statute_id": "1760/2000"
+    },
+    {
+      "id": "afda498e-a1c3-46da-8d74-b31b297153ef",
+      "node_type": "Section",
+      "publisher": "finlex",
+      "title": "19 § Eläimen merkitseminen",
+      "text": "Eläintenpitäjä ja eläinvälittäjä ovat velvollisia merkitsemään omistuksessaan tai hallinnassaan syntyneen eläimen tunnistimella, johon sisältyy Elintarviketurvallisuusviraston osoittama tunnistuskoodi. Eläintenpitäjä ja eläinvälittäjä ovat velvollisia huolehtimaan omistuksessaan tai hallinnassaan olevan eläimen pysymisestä merkittynä tämän lain ja Euroopan unionin eläinten tunnistamista koskevan lainsäädännön edellyttämällä tavalla. Eläinlajeista, jotka kuuluvat merkitsemisvelvollisuuden piiriin, säädetään maa- ja metsätalousministeriön asetuksella. Lisäksi maa- ja metsätalousministeriön asetuksella voidaan antaa tarkemmat säännökset eläinten merkitsemistavasta ja -ajankohdasta sekä tunnistimien varastoinnista, käytöstä, korvaamisesta ja hävittämisestä.",
+      "section_number": "19",
+      "chapter_number": 3,
+      "statute_id": "1760/2000"
+    },
+    {
+      "id": "b218e14c-222c-4796-927f-9e39b668d02b",
+      "node_type": "Section",
+      "publisher": "finlex",
+      "title": "20 § Puutteellisesti merkitty eläin",
+      "text": "Jos eläimen 19 §:ssä tarkoitettu merkitseminen on laiminlyöty kokonaan tai osittain, eläintä ei saa luovuttaa eikä siirtää pitopaikasta, vastaanottaa pitopaikkaan eikä ottaa kuljetettavaksi.",
+      "section_number": "20",
+      "chapter_number": 3,
+      "statute_id": "1760/2000"
+    },
+    {
+      "id": "b2f253d3-46eb-4e52-8ecf-e3c8f5e1ca7d",
+      "node_type": "Section",
+      "publisher": "finlex",
+      "title": "21 § Luettelon pitäminen",
+      "text": "Eläimistä vastuussa olevan toimijan on pidettävä luetteloa omistuksessaan tai hallinnassaan olevista eläimistä eläinlaji- ja pitopaikkakohtaisesti. Luokan 1 käsittelylaitoksen on pidettävä luetteloa sivutuoteasetuksessa tarkoitetun luokan 1 ainekseen kuuluvien kuolleiden eläinten kokoruhojen vastaanottamisesta. Luetteloa on pidettävä ajan tasalla joko paperisella lomakkeella tai sähköisessä muodossa siten, että se voidaan tarvittaessa esittää valvontaviranomaiselle. Luetteloa on säilytettävä kolmen kalenterivuoden ajan sen vuoden päättymisestä lukien, jolloin luetteloon viimeksi kirjattiin eläintä koskeva merkintä. Eläinlajeista, jotka kuuluvat luettelonpitovelvollisuuden piiriin, säädetään maa- ja metsätalousministeriön asetuksella.",
+      "section_number": "21",
+      "chapter_number": 3,
+      "statute_id": "1760/2000"
+    },
+    {
+      "id": "0d539ea9-9c67-48fb-9383-2919a60b3b42",
+      "node_type": "Section",
+      "publisher": "finlex",
+      "title": "22 § Eläimistä pidettävän luettelon malli",
+      "text": "Elintarviketurvallisuusvirasto vahvistaa 21 §:ssä tarkoitetun eläinlajikohtaisen luettelon mallin. Erityisestä syystä Elintarviketurvallisuusvirasto voi hakemuksesta hyväksyä vahvistetusta mallista poikkeavan luettelon mallin.",
+      "section_number": "22",
+      "chapter_number": 3,
+      "statute_id": "1760/2000"
+    },
+    {
+      "id": "f1f6f0b7-c3bb-4a03-8c23-50184f877212",
+      "node_type": "Section",
+      "publisher": "finlex",
+      "title": "23 § Yleinen ohjaus ja valvonta",
+      "text": "Tämän lain ja Euroopan unionin eläinten tunnistamista koskevan lainsäädännön täytäntöönpanon yleinen ohjaus ja valvonta kuuluvat maa- ja metsätalousministeriölle.",
+      "section_number": "23",
+      "chapter_number": 4,
+      "statute_id": "1760/2000"
+    },
+    {
+      "id": "17d79936-a249-4fe9-bd88-2a2eca53163e",
+      "node_type": "Section",
+      "publisher": "finlex",
+      "title": "24 § Valvontaviranomaiset",
+      "text": "Elintarviketurvallisuusvirasto suunnittelee, ohjaa ja kehittää valtakunnallista eläintunnistusjärjestelmän valvontaa siten kuin tässä laissa ja Euroopan unionin eläinten tunnistamista koskevassa lainsäädännössä säädetään. Elintarviketurvallisuusvirasto valvoo, että elintarvikelain 6 §:n 23 kohdassa tarkoitetut teurastamot noudattavat tätä lakia ja sen nojalla annettuja säännöksiä. Aluehallintovirasto valvoo Elintarviketurvallisuusviraston ohella tämän lain ja sen nojalla annettujen säännösten noudattamista toimialueellaan. Kunnaneläinlääkäri valvoo Elintarviketurvallisuusviraston ohella tämän lain ja sen nojalla annettujen säännösten noudattamista virka-alueellaan. Elinkeino-, liikenne- ja ympäristökeskus suorittaa tarkastukset eläimistä vastuussa olevien toimijoiden pitopaikoissa tämän lain ja sen nojalla annettujen säännösten noudattamisen valvomiseksi toimialueellaan.",
+      "section_number": "24",
+      "chapter_number": 4,
+      "statute_id": "1760/2000"
+    },
+    {
+      "id": "9e801e47-2b64-42d7-a541-b703056ceb50",
+      "node_type": "Section",
+      "publisher": "finlex",
+      "title": "25 § Valtuutetut tarkastajat",
+      "text": "Sen lisäksi, mitä 24 §:ssä säädetään, Elintarviketurvallisuusvirasto voi käyttää valvonnassa apunaan valvontatehtävään kirjallisesti valtuuttamiaan tarkastajia, jotka toimivat Elintarviketurvallisuusviraston valvonnassa. Valtuutetulla tarkastajalla tulee olla tehtävänsä hoitamiseksi riittävä perehtyneisyys tehtävän kohteena olevaan eläinlajiin ja sen pidolle asetettaviin vaatimuksiin. Valtuutettuun tarkastajaan sovelletaan rikosoikeudellista virkavastuuta koskevia säännöksiä. Vahingonkorvausvastuusta säädetään vahingonkorvauslaissa.",
+      "section_number": "25",
+      "chapter_number": 4,
+      "statute_id": "1760/2000"
+    },
+    {
+      "id": "ea4af620-f1df-4d3d-adba-f751c961692f",
+      "node_type": "Section",
+      "publisher": "finlex",
+      "title": "26 § Valvonnan järjestäminen",
+      "text": "Eläintunnistusjärjestelmän toimivuutta sekä tämän lain ja sen nojalla annettujen säännösten ja Euroopan unionin eläinten tunnistamista koskevan lainsäädännön noudattamista on valvottava kattavasti ja säännöllisesti. Valvontatoimenpiteiden on oltava tarkoituksenmukaisia ja ne on kohdistettava järjestelmän kaikkiin osa-alueisiin. Valvontaa on tehostettava, jos on epäiltävissä tai suoritettujen tarkastusten perusteella havaittavissa, että eläimistä vastuussa olevat toimijat eivät noudata tätä lakia ja sen nojalla annettuja säännöksiä. Valvontaviranomaisen on tarvittaessa neuvottava eläimistä vastuussa olevaa toimijaa, eläinkuljettajaa, luokan 1 käsittelylaitosta, pitopaikasta vastuussa olevaa toimijaa ja haaskaruokintapaikasta vastuussa olevaa toimijaa tämän lain ja sen nojalla annettujen säännösten noudattamisessa.",
+      "section_number": "26",
+      "chapter_number": 4,
+      "statute_id": "1760/2000"
+    },
+    {
+      "id": "5dde280b-1a59-48fd-92dc-ea7609e6b1b8",
+      "node_type": "Section",
+      "publisher": "finlex",
+      "title": "27 § Valvontasuunnitelma",
+      "text": "Elintarviketurvallisuusviraston on laadittava vuosittain valtakunnallinen valvontasuunnitelma valvonnan järjestämisestä, toteuttamisesta, seurannasta ja raportoinnista. Valvontasuunnitelmasta on käytävä ilmi vähintään suoritettavien tarkastusten määrä, kattavuus, valvontatapa sekä valvontakohteiden valintaan vaikuttava riskinarviointi ottaen huomioon Euroopan unionin eläinten tunnistamista koskevassa lainsäädännössä valvonnalle asetetut vaatimukset.",
+      "section_number": "27",
+      "chapter_number": 4,
+      "statute_id": "1760/2000"
+    },
+    {
+      "id": "6eb21e0c-355e-428e-a040-d58c12a5bf87",
+      "node_type": "Section",
+      "publisher": "finlex",
+      "title": "28 § Tarkastus- ja tiedonsaantioikeus",
+      "text": "Valvontaviranomaisella on oikeus päästä pitopaikassa kaikkiin niihin tiloihin, joissa eläimistä vastuussa olevan toimijan eläimiä on tai eläimiä koskevia asiakirjoja säilytetään. Lisäksi valvontaviranomaisella on oikeus päästä luokan 1 käsittelylaitoksen sellaisiin tiloihin, joissa säilytetään käsittelyä varten vastaanotettuja kuolleiden eläinten kokoruhoja tai niitä koskevia asiakirjoja. Valvontaviranomaisella on oikeus päästä myös haaskaruokintapaikkaan sekä haaskaruokintapaikasta vastuussa olevan toimijan sellaisiin tiloihin, joissa säilytetään haaskaruokintaan tarkoitettua eläimistä peräisin olevaa sivutuotetta tai sitä koskevia asiakirjoja. Tarkastuksessa voidaan tarkastaa eläimet, niiden tunnistuskoodit, tunnistimet ja eläimistä pidettävät luettelot sekä muut sellaiset merkitykselliset seikat, jotka liittyvät tämän lain ja sen nojalla annettujen säännösten noudattamisen valvontaan. Kotirauhan piirissä saa suorittaa tarkastuksen vain, jos se on välttämätöntä eläinten, ihmisten ja ympäristön terveyden tai elintarviketurvallisuuden vaarantamisen estämiseksi. Vain viranomainen voi tehdä tarkastuksen kotirauhan piirissä. Valvontaviranomaisella on sen estämättä, mitä tietojen salassapidosta säädetään, oikeus saada tässä laissa ja Euroopan unionin eläinten tunnistamista koskevassa lainsäädännössä säädettyä tarkastusta ja valvontaa varten välttämättömät tiedot ja asiakirjat eläimistä vastuussa olevalta toimijalta, luokan 1 käsittelylaitokselta, pitopaikasta vastuussa olevalta toimijalta ja haaskaruokintapaikasta vastuussa olevalta toimijalta. Mitä tässä laissa säädetään viranomaisten tarkastus- ja tiedonsaantioikeudesta, koskee myös Euroopan unionin lainsäädännössä tarkoitettuja tarkastajia.",
+      "section_number": "28",
+      "chapter_number": 4,
+      "statute_id": "1760/2000"
+    },
+    {
+      "id": "0b14a185-6253-414e-be21-2c0d14fd657e",
+      "node_type": "Section",
+      "publisher": "finlex",
+      "title": "29 § Tarkemmat säännökset valvonnasta",
+      "text": "Tarkemmat säännökset 26 §:ssä tarkoitetusta valvonnan järjestämisestä sekä 27 §:ssä tarkoitetusta valvontasuunnitelmasta ja sen sisällöstä voidaan antaa maa- ja metsätalousministeriön asetuksella.",
+      "section_number": "29",
+      "chapter_number": 4,
+      "statute_id": "1760/2000"
+    },
+    {
+      "id": "c7196022-86e9-4875-a458-2ae328e00573",
+      "node_type": "Section",
+      "publisher": "finlex",
+      "title": "30 § Virka-apu",
+      "text": "Poliisin velvollisuudesta antaa virka-apua säädetään poliisilain (493/1995) 40 §:ssä.",
+      "section_number": "30",
+      "chapter_number": 4,
+      "statute_id": "1760/2000"
+    },
+    {
+      "id": "8892e270-ee49-4c74-90e3-b875ebb9976a",
+      "node_type": "Section",
+      "publisher": "finlex",
+      "title": "31 § Epäkohdan poistaminen",
+      "text": "Valvontaviranomainen voi määrätä epäkohdan poistettavaksi, jos eläimistä vastuussa oleva toimija, luokan 1 käsittelylaitos, pitopaikasta vastuussa oleva toimija tai haaskaruokintapaikasta vastuussa oleva toimija jättää noudattamatta tai laiminlyö tämän lain tai sen nojalla annettujen säännösten noudattamisen. Epäkohta on määrättävä poistettavaksi välittömästi tai valvontaviranomaisen asettamassa määräajassa. Valvontaviranomaisen on tehtävä epäkohdan poistamiseksi annetusta määräyksestä merkintä tietojärjestelmään.",
+      "section_number": "31",
+      "chapter_number": 5,
+      "statute_id": "1760/2000"
+    },
+    {
+      "id": "532ac18d-f507-451b-88db-ee99e6f6e97a",
+      "node_type": "Section",
+      "publisher": "finlex",
+      "title": "32 § Kielto",
+      "text": "Sen estämättä, mitä 31 §:ssä säädetään epäkohdan poistamisesta, aluehallintovirasto voi kieltää eläimistä vastuussa olevaa toimijaa luovuttamasta ja siirtämästä eläimiä pitopaikasta, jos tämä on laiminlyönyt 9, 11, 13, 19 tai 21 §:n taikka 28 §:n 3 momentin säännösten noudattamisen. Kielto voi koskea yksittäisiä eläimiä tai kaikkia pitopaikassa olevia saman eläinlajin eläimiä. Kaikkia pitopaikassa olevia saman eläinlajin eläimiä koskevan kiellon edellytyksenä on, että merkittävä osa eläimistä ei täytä tunnistus- ja rekisteröintivaatimuksia. Eläinten luovuttamisen ja siirtämisen kieltämisen lisäksi aluehallintovirasto voi kieltää eläinten vastaanottamisen pitopaikkaan, jos 1 momentissa mainittujen säännösten noudattamisen laiminlyönti on laajamittaista, toistuvaa tai tahallista sekä aiheuttaa vaaraa eläinten, ihmisten ja ympäristön terveydelle, eläinten hyvinvoinnille tai elintarviketurvallisuudelle. Nautaeläimen luovuttamisen, siirtämisen ja vastaanottamisen kieltämisestä säädetään neuvoston asetuksen (EY) N:o 820/97 täytäntöönpanoa koskevista yksityiskohtaisista säännöistä nautaeläinten tunnistus- ja rekisteröintijärjestelmän hallinnollisten vähimmäisseuraamusten soveltamisen osalta annetussa komission asetuksessa (EY) N:o 494/98, jäljempänäseuraamusasetus. Päätöksen asiassa tekee aluehallintovirasto. Pitopaikassa tarkastuksen suorittanut valvontaviranomainen voi määrätä 1, 2 tai 3 momentissa tarkoitetun kiellon väliaikaiseksi asian selvittämisen tai epäkohdan poistamisen ajaksi. Väliaikainen kielto on voimassa, kunnes aluehallintovirasto antaa asiassa lopullisen ratkaisunsa. Kiellon määränneen valvontaviranomaisen on tehtävä kiellosta merkintä tietojärjestelmään. Tarkemmat säännökset 1 momentissa tarkoitetun kaikkia pitopaikassa olevia saman eläinlajin eläimiä koskevan kiellon edellytyksistä voidaan antaa maa- ja metsätalousministeriön asetuksella.",
+      "section_number": "32",
+      "chapter_number": 5,
+      "statute_id": "1760/2000"
+    },
+    {
+      "id": "5711bb46-9c3e-4ea6-9fb7-af3c123fd91a",
+      "node_type": "Section",
+      "publisher": "finlex",
+      "title": "33 § Kiellon peruuttaminen",
+      "text": "Aluehallintoviraston on peruutettava 32 §:ssä tarkoitettu kielto heti, kun valvontaviranomaisen antaman selvityksen perusteella voidaan varmistua siitä, että kiellon perusteena ollut epäkohta on korjattu. Aluehallintoviraston on tehtävä kiellon peruuttamisesta merkintä tietojärjestelmään.",
+      "section_number": "33",
+      "chapter_number": 5,
+      "statute_id": "1760/2000"
+    },
+    {
+      "id": "a4af6cb9-2e7c-430c-bd0b-0a570900eb74",
+      "node_type": "Section",
+      "publisher": "finlex",
+      "title": "34 § Tunnistamattoman nautaeläimen lopettaminen",
+      "text": "Tunnistamattoman nautaeläimen lopettamisesta säädetään seuraamusasetuksessa. Päätöksen asiassa tekee aluehallintovirasto.",
+      "section_number": "34",
+      "chapter_number": 5,
+      "statute_id": "1760/2000"
+    },
+    {
+      "id": "3834e96d-4575-48c0-9ada-be94847c6d72",
+      "node_type": "Section",
+      "publisher": "finlex",
+      "title": "35 § Uhkasakko ja teettäminen",
+      "text": "Valvontaviranomainen voi asettaa 31 §:ssä säädetyn määräyksen tai 32 §:ssä säädetyn kiellon tehosteeksi uhkasakon tai teettämisuhan. Uhkasakkoa ei saa asettaa luonnolliselle henkilölle tässä laissa säädetyn tietojen ilmoittamisvelvollisuuden tehosteeksi, jos henkilöä on aihetta epäillä rikoksesta ja tiedot liittyvät rikosepäilyn kohteena olevaan asiaan. Uhkasakosta ja teettämisuhasta säädetään uhkasakkolaissa (1113/1990).",
+      "section_number": "35",
+      "chapter_number": 5,
+      "statute_id": "1760/2000"
+    },
+    {
+      "id": "73d6a1ad-6342-4d7e-9261-5691070b191f",
+      "node_type": "Section",
+      "publisher": "finlex",
+      "title": "36 § Rangaistussäännös",
+      "text": "Joka tahallaan tai törkeästä huolimattomuudesta on tuomittava, jollei teosta muualla laissa säädetä ankarampaa rangaistusta,eläintunnistusjärjestelmästä annetun lain rikkomisestasakkoon. Se, joka rikkoo tämän lain nojalla määrättyä uhkasakolla tehostettua kieltoa tai velvoitetta, voidaan jättää tuomitsematta rangaistukseen samasta teosta.",
+      "section_number": "36",
+      "chapter_number": 5,
+      "statute_id": "1760/2000"
+    },
+    {
+      "id": "5a2650e6-106e-41ef-9668-c9a221a4630d",
+      "node_type": "Section",
+      "publisher": "finlex",
+      "title": "37 § Rikosilmoituksen tekeminen",
+      "text": "Aluehallintovirasto tekee 24 §:ssä tarkoitettujen valvontaviranomaisten puolesta rikosilmoituksen eläintunnistusjärjestelmästä annetun lain rikkomisesta. Ilmoitus voidaan jättää tekemättä rikkomuksesta, jota on kokonaisuudessaan pidettävä ilmeisen vähäisenä.",
+      "section_number": "37",
+      "chapter_number": 5,
+      "statute_id": "1760/2000"
+    },
+    {
+      "id": "ff911fdb-d785-4061-9750-3d5aa4e39c32",
+      "node_type": "Section",
+      "publisher": "finlex",
+      "title": "38 § Muutoksenhaku",
+      "text": "Tämän lain nojalla annettuun päätökseen haetaan muutosta valittamalla hallinto-oikeuteen siten kuin hallintolainkäyttölaissa (586/1996) säädetään. Valvontaviranomaisen tekemää päätöstä on muutoksenhausta huolimatta noudatettava, jollei muutoksenhakuviranomainen toisin määrää.",
+      "section_number": "38",
+      "chapter_number": 6,
+      "statute_id": "1760/2000"
+    },
+    {
+      "id": "6e707ab0-ded6-4987-abb8-9816f39fc051",
+      "node_type": "Section",
+      "publisher": "finlex",
+      "title": "39 § Voimaantulo",
+      "text": "Tämä laki tulee voimaan 1 päivänä toukokuuta 2010. Tällä lailla kumotaan 4 päivänä huhtikuuta 1996 annetun eläinsuojelulain (247/1996) 26 a §, sellaisena kuin se on laissa 220/2003. Ennen lain voimaantuloa voidaan ryhtyä lain täytäntöönpanon edellyttämiin toimenpiteisiin.",
+      "section_number": "39",
+      "chapter_number": 6,
+      "statute_id": "1760/2000"
+    },
+    {
+      "id": "c13eda25-afd6-45a9-b172-044d4a1e54eb",
+      "node_type": "Section",
+      "publisher": "finlex",
+      "title": "40 § Siirtymäsäännökset",
+      "text": "Sellaisten eläintenpitäjien ja eläinvälittäjien, jotka ovat ennen tämän lain voimaantuloa ilmoittaneet toiminnastaan voimassa olleissa säännöksissä edellytetyllä tavalla tietojärjestelmälaissa tarkoitettuun tietojärjestelmään tai vesiviljelyrekisteristä annetussa maa- ja metsätalousministeriön päätöksessä (212/1996) tarkoitettuun rekisteriin, ei tarvitse ilmoittaa toiminnastaan uudelleen. Vastaavasti ennen tämän lain voimaantuloa voimassa olleissa säännöksissä edellytetyllä tavalla ilmoitettuja eläimiä ja pitopaikkoja ei tarvitse ilmoittaa uudelleen. Ennen tämän lain voimaantuloa vireille tulleisiin tietojen luovuttamista ja tunnistimien hyväksymistä koskeviin hakemuksiin sovelletaan tämän lain voimaan tullessa voimassa olleita säännöksiä.",
+      "section_number": "40",
+      "chapter_number": 6,
+      "statute_id": "1760/2000"
+    }
+  ],
+  "clauses": [
+    {
+      "id": "ed6175d3-2f35-4680-ac28-04331723ef29",
+      "node_type": "Clause",
+      "publisher": "finlex",
+      "title": "§ 3 mom 1",
+      "text": "1) nautaeläinten tunnistus- ja rekisteröintijärjestelmän käyttöönottamisesta sekä naudanlihan ja naudanlihatuotteiden pakollisesta merkitsemisestä ja neuvoston asetuksen (EY) N:o 820/97 kumoamisesta annettu Euroopan parlamentin ja neuvoston asetus (EY) N:o 1760/2000;",
+      "clause_number": 1,
+      "section_number": "3",
+      "statute_id": "1760/2000"
+    },
+    {
+      "id": "9bbb291f-5fb4-45a2-8327-271862f19cd1",
+      "node_type": "Clause",
+      "publisher": "finlex",
+      "title": "§ 3 mom 2",
+      "text": "2) lammas- ja vuohieläinten tunnistus- ja rekisteröintijärjestelmän käyttöönottamisesta ja asetuksen (EY) N:o 1782/2003 ja direktiivien 92/102/ETY ja 64/432/ETY muuttamisesta annettu neuvoston asetus (EY) N:o 21/2004;",
+      "clause_number": 2,
+      "section_number": "3",
+      "statute_id": "1760/2000"
+    },
+    {
+      "id": "95ffec6e-3604-4263-a05a-e129f360666c",
+      "node_type": "Clause",
+      "publisher": "finlex",
+      "title": "§ 3 mom 3",
+      "text": "3) neuvoston direktiivien 90/426/ETY ja 90/427/ETY täytäntöönpanosta hevoseläinten tunnistusmenetelmien osalta annettu komission asetus (EY) N:o 504/2008; sekä",
+      "clause_number": 3,
+      "section_number": "3",
+      "statute_id": "1760/2000"
+    },
+    {
+      "id": "413f36ae-55e6-4217-a9e5-def7da286eff",
+      "node_type": "Clause",
+      "publisher": "finlex",
+      "title": "§ 3 mom 4",
+      "text": "4) \n                                        muiden kuin ihmisravinnoksi tarkoitettujen eläimistä saatavien sivutuotteiden terveyssäännöistä annettu Euroopan parlamentin ja neuvoston asetus (EY) N:o 1774/2002, jäljempänäsivutuoteasetus.",
+      "clause_number": 4,
+      "section_number": "3",
+      "statute_id": "1760/2000"
+    },
+    {
+      "id": "d72f325c-545a-4284-adf3-a15bc23d6b5d",
+      "node_type": "Clause",
+      "publisher": "finlex",
+      "title": "§ 8 mom 2",
+      "text": "1) tietojärjestelmälain 4 §:n 2 momentissa tarkoitetut tunnistetiedot;",
+      "clause_number": 2,
+      "section_number": "8",
+      "statute_id": "1760/2000"
+    },
+    {
+      "id": "d3ee455f-c9e9-4975-a3d2-06ad3c98dd82",
+      "node_type": "Clause",
+      "publisher": "finlex",
+      "title": "§ 8 mom 1",
+      "text": "1) tietojärjestelmälain 4 §:n 2 momentissa tarkoitetut tunnistetiedot;",
+      "clause_number": 1,
+      "section_number": "8",
+      "statute_id": "1760/2000"
+    },
+    {
+      "id": "4733af92-aa67-4a8f-95d1-d88466fcb0d6",
+      "node_type": "Clause",
+      "publisher": "finlex",
+      "title": "§ 8 mom 2",
+      "text": "2) toiminnan kohteena olevat eläinlajit;",
+      "clause_number": 2,
+      "section_number": "8",
+      "statute_id": "1760/2000"
+    },
+    {
+      "id": "7ee5dc58-47c0-4523-a0e1-1bafeb559508",
+      "node_type": "Clause",
+      "publisher": "finlex",
+      "title": "§ 8 mom 3",
+      "text": "3) toiminnan aiottu aloittamisajankohta;",
+      "clause_number": 3,
+      "section_number": "8",
+      "statute_id": "1760/2000"
+    },
+    {
+      "id": "5f4514a9-7c8e-4e08-878c-1f05612ec732",
+      "node_type": "Clause",
+      "publisher": "finlex",
+      "title": "§ 8 mom 4",
+      "text": "4) eläintenpitäjän osalta eläinten pitämisen tarkoitus tai eläinten tuotantomuoto;",
+      "clause_number": 4,
+      "section_number": "8",
+      "statute_id": "1760/2000"
+    },
+    {
+      "id": "c102a03a-53c7-4d42-bd32-d4613f4abf68",
+      "node_type": "Clause",
+      "publisher": "finlex",
+      "title": "§ 8 mom 5",
+      "text": "5) eläinvälittäjän osalta eläinvälitystoiminnan pääasiallinen toiminta-alue ja toiminnassa käytettyjen eläinkuljetusvälineiden tunnistustiedot, toimiminen eläinkuljettajana ja elintarvikealan toimijana;",
+      "clause_number": 5,
+      "section_number": "8",
+      "statute_id": "1760/2000"
+    },
+    {
+      "id": "5ff7cea7-0f5e-4f91-a292-c3234726c129",
+      "node_type": "Clause",
+      "publisher": "finlex",
+      "title": "§ 8 mom 6",
+      "text": "6) oleelliset muutokset toiminnassa;",
+      "clause_number": 6,
+      "section_number": "8",
+      "statute_id": "1760/2000"
+    },
+    {
+      "id": "07f72877-5d3d-49ce-b3db-c859174d81a2",
+      "node_type": "Clause",
+      "publisher": "finlex",
+      "title": "§ 8 mom 7",
+      "text": "7) toiminnan lopettaminen.",
+      "clause_number": 7,
+      "section_number": "8",
+      "statute_id": "1760/2000"
+    },
+    {
+      "id": "3e2c37b3-223d-4f7d-b2e4-e6f8f38778ea",
+      "node_type": "Clause",
+      "publisher": "finlex",
+      "title": "§ 10 mom 2",
+      "text": "1) pitopaikasta vastuussa olevan toimijan tietojärjestelmälain 4 §:n 2 momentissa tarkoitetut tunnistetiedot;",
+      "clause_number": 2,
+      "section_number": "10",
+      "statute_id": "1760/2000"
+    },
+    {
+      "id": "81709ab3-3472-4217-9b6e-9566ed4bcaf5",
+      "node_type": "Clause",
+      "publisher": "finlex",
+      "title": "§ 10 mom 1",
+      "text": "1) pitopaikasta vastuussa olevan toimijan tietojärjestelmälain 4 §:n 2 momentissa tarkoitetut tunnistetiedot;",
+      "clause_number": 1,
+      "section_number": "10",
+      "statute_id": "1760/2000"
+    },
+    {
+      "id": "898fbdc4-c44d-4e18-80c7-2c342da2c5b9",
+      "node_type": "Clause",
+      "publisher": "finlex",
+      "title": "§ 10 mom 2",
+      "text": "2) pitopaikan sijainti;",
+      "clause_number": 2,
+      "section_number": "10",
+      "statute_id": "1760/2000"
+    },
+    {
+      "id": "432353ac-f713-47e1-b869-2d543079e334",
+      "node_type": "Clause",
+      "publisher": "finlex",
+      "title": "§ 10 mom 3",
+      "text": "3) pitopaikkaan luetut laitokset, rakennukset, rakennelmat sekä maa- ja vesialueet;",
+      "clause_number": 3,
+      "section_number": "10",
+      "statute_id": "1760/2000"
+    },
+    {
+      "id": "02c8c4f8-84d7-4a38-87ae-0c0e54fe8c65",
+      "node_type": "Clause",
+      "publisher": "finlex",
+      "title": "§ 10 mom 4",
+      "text": "4) pitopaikassa pidettävät eläinlajit ja eläinten käyttötarkoitus tai tuotantomuoto;",
+      "clause_number": 4,
+      "section_number": "10",
+      "statute_id": "1760/2000"
+    },
+    {
+      "id": "28dc5584-c9e1-4124-bafd-006c3d66dd02",
+      "node_type": "Clause",
+      "publisher": "finlex",
+      "title": "§ 10 mom 5",
+      "text": "5) pitopaikan eläinmäärä ja kapasiteetti;",
+      "clause_number": 5,
+      "section_number": "10",
+      "statute_id": "1760/2000"
+    },
+    {
+      "id": "ea9448bc-da0d-423f-8df1-71208f904015",
+      "node_type": "Clause",
+      "publisher": "finlex",
+      "title": "§ 10 mom 6",
+      "text": "6) toiminnan aiottu aloittamisajankohta;",
+      "clause_number": 6,
+      "section_number": "10",
+      "statute_id": "1760/2000"
+    },
+    {
+      "id": "23e1a854-e2f7-484e-91ee-27137c145a12",
+      "node_type": "Clause",
+      "publisher": "finlex",
+      "title": "§ 10 mom 7",
+      "text": "7) oleelliset muutokset toiminnassa;",
+      "clause_number": 7,
+      "section_number": "10",
+      "statute_id": "1760/2000"
+    },
+    {
+      "id": "de143e67-788c-4951-8c77-cc15a11427f2",
+      "node_type": "Clause",
+      "publisher": "finlex",
+      "title": "§ 10 mom 8",
+      "text": "8) toiminnan lopettaminen.",
+      "clause_number": 8,
+      "section_number": "10",
+      "statute_id": "1760/2000"
+    },
+    {
+      "id": "ad35c0f5-b84d-41ce-88c7-16a228d92b7c",
+      "node_type": "Clause",
+      "publisher": "finlex",
+      "title": "§ 10 mom 2",
+      "text": "1) haaskaruokintapaikasta vastuussa olevan toimijan tietojärjestelmälain 4 §:n 2 momentissa tarkoitetut tunnistetiedot;",
+      "clause_number": 2,
+      "section_number": "10",
+      "statute_id": "1760/2000"
+    },
+    {
+      "id": "e0c61e33-6913-47d8-9b7f-a43b162b6fdc",
+      "node_type": "Clause",
+      "publisher": "finlex",
+      "title": "§ 10 mom 1",
+      "text": "1) haaskaruokintapaikasta vastuussa olevan toimijan tietojärjestelmälain 4 §:n 2 momentissa tarkoitetut tunnistetiedot;",
+      "clause_number": 1,
+      "section_number": "10",
+      "statute_id": "1760/2000"
+    },
+    {
+      "id": "6100f774-95ab-4ab6-a85d-18a513ae12c4",
+      "node_type": "Clause",
+      "publisher": "finlex",
+      "title": "§ 10 mom 2",
+      "text": "2) haaskaruokintapaikan sijainti;",
+      "clause_number": 2,
+      "section_number": "10",
+      "statute_id": "1760/2000"
+    },
+    {
+      "id": "7d7f14c5-ed2b-42e5-8d03-40b0f9205bab",
+      "node_type": "Clause",
+      "publisher": "finlex",
+      "title": "§ 10 mom 3",
+      "text": "3) haaskaruokintatoiminnan aiottu aloittamisajankohta;",
+      "clause_number": 3,
+      "section_number": "10",
+      "statute_id": "1760/2000"
+    },
+    {
+      "id": "16d1507b-eb1c-46a0-a6ca-2a6912089896",
+      "node_type": "Clause",
+      "publisher": "finlex",
+      "title": "§ 10 mom 4",
+      "text": "4) eläimistä peräisin olevan sivutuotteen laji tai laatu;",
+      "clause_number": 4,
+      "section_number": "10",
+      "statute_id": "1760/2000"
+    },
+    {
+      "id": "4fcb4665-4a66-4e7e-b7f1-86b176141504",
+      "node_type": "Clause",
+      "publisher": "finlex",
+      "title": "§ 10 mom 5",
+      "text": "5) sivutuotteen keräysalue tai -paikka;",
+      "clause_number": 5,
+      "section_number": "10",
+      "statute_id": "1760/2000"
+    },
+    {
+      "id": "154dc442-433f-47a0-9c73-ed32c084a560",
+      "node_type": "Clause",
+      "publisher": "finlex",
+      "title": "§ 10 mom 6",
+      "text": "6) oleelliset muutokset toiminnassa;",
+      "clause_number": 6,
+      "section_number": "10",
+      "statute_id": "1760/2000"
+    },
+    {
+      "id": "fc4963a1-15d8-492d-8bd1-5f23b4023e3b",
+      "node_type": "Clause",
+      "publisher": "finlex",
+      "title": "§ 10 mom 7",
+      "text": "7) toiminnan lopettaminen.",
+      "clause_number": 7,
+      "section_number": "10",
+      "statute_id": "1760/2000"
+    },
+    {
+      "id": "397c732c-6b80-4c2f-b96e-17bde95f81a7",
+      "node_type": "Clause",
+      "publisher": "finlex",
+      "title": "§ 12 mom 2",
+      "text": "1) eläimestä vastuussa olevan toimijan tietojärjestelmälain 4 §:n 2 momentissa tarkoitetut tunnistetiedot;",
+      "clause_number": 2,
+      "section_number": "12",
+      "statute_id": "1760/2000"
+    },
+    {
+      "id": "eea0235e-1af1-4a8c-a2dc-cb43754de136",
+      "node_type": "Clause",
+      "publisher": "finlex",
+      "title": "§ 12 mom 1",
+      "text": "1) eläimestä vastuussa olevan toimijan tietojärjestelmälain 4 §:n 2 momentissa tarkoitetut tunnistetiedot;",
+      "clause_number": 1,
+      "section_number": "12",
+      "statute_id": "1760/2000"
+    },
+    {
+      "id": "2fdaa611-478b-442d-beda-bf699b21ef68",
+      "node_type": "Clause",
+      "publisher": "finlex",
+      "title": "§ 12 mom 2",
+      "text": "2) eläimen tunnistuskoodi, tunnistin, tunnistamiseen liittyvä asiakirja ja muut eläimen tunnistamisen kannalta oleelliset tiedot;",
+      "clause_number": 2,
+      "section_number": "12",
+      "statute_id": "1760/2000"
+    },
+    {
+      "id": "7cf3b2cf-547d-4b87-9946-c75190a8e7b9",
+      "node_type": "Clause",
+      "publisher": "finlex",
+      "title": "§ 12 mom 3",
+      "text": "3) eläimen syntymä tai kuoriutuminen tai niihin verrattava tapahtuma;",
+      "clause_number": 3,
+      "section_number": "12",
+      "statute_id": "1760/2000"
+    },
+    {
+      "id": "b79632f9-80ef-4ed8-b28d-689e02f6578d",
+      "node_type": "Clause",
+      "publisher": "finlex",
+      "title": "§ 12 mom 4",
+      "text": "4) eläimen tuonti Suomeen Euroopan unionin jäsenvaltiosta tai Euroopan unionin alueen ulkopuolelta ja eläimen alkuperätiedot;",
+      "clause_number": 4,
+      "section_number": "12",
+      "statute_id": "1760/2000"
+    },
+    {
+      "id": "5578cc77-3f6e-445e-8e3b-1a76b101eaf5",
+      "node_type": "Clause",
+      "publisher": "finlex",
+      "title": "§ 12 mom 5",
+      "text": "5) eläimen eläinlaji sekä käyttötarkoitus tai tuotantomuoto;",
+      "clause_number": 5,
+      "section_number": "12",
+      "statute_id": "1760/2000"
+    },
+    {
+      "id": "776d5d51-8427-454c-a92b-5ca00859048a",
+      "node_type": "Clause",
+      "publisher": "finlex",
+      "title": "§ 12 mom 6",
+      "text": "6) eläimen pitopaikka;",
+      "clause_number": 6,
+      "section_number": "12",
+      "statute_id": "1760/2000"
+    },
+    {
+      "id": "d2846436-c6a1-4bca-a537-f8ded4d510bb",
+      "node_type": "Clause",
+      "publisher": "finlex",
+      "title": "§ 12 mom 7",
+      "text": "7) eläimen omistuksen ja hallinnan sekä pitopaikan muutokset;",
+      "clause_number": 7,
+      "section_number": "12",
+      "statute_id": "1760/2000"
+    },
+    {
+      "id": "0ac24da0-b634-47ec-a51d-989ea70af7a8",
+      "node_type": "Clause",
+      "publisher": "finlex",
+      "title": "§ 12 mom 8",
+      "text": "8) eläimen vienti Suomesta Euroopan unionin jäsenvaltioon tai Euroopan unionin alueen ulkopuolelle ja eläimen määränpää;",
+      "clause_number": 8,
+      "section_number": "12",
+      "statute_id": "1760/2000"
+    },
+    {
+      "id": "25eb47b6-6369-486e-bd05-341ec9e34a24",
+      "node_type": "Clause",
+      "publisher": "finlex",
+      "title": "§ 12 mom 9",
+      "text": "9) eläimen kuolema ja hävitystapa;",
+      "clause_number": 9,
+      "section_number": "12",
+      "statute_id": "1760/2000"
+    },
+    {
+      "id": "2b5c82c0-0965-4c47-aa04-9e6132762a5b",
+      "node_type": "Clause",
+      "publisher": "finlex",
+      "title": "§ 12 mom 10",
+      "text": "10) eläimen teurastaminen ja siihen liittyvät oleelliset tiedot;",
+      "clause_number": 10,
+      "section_number": "12",
+      "statute_id": "1760/2000"
+    },
+    {
+      "id": "c57aa521-7d7b-4761-9e5d-0d6d2fb650d3",
+      "node_type": "Clause",
+      "publisher": "finlex",
+      "title": "§ 12 mom 11",
+      "text": "11) vastaanottaminen luokan 1 käsittelylaitokseen.",
+      "clause_number": 11,
+      "section_number": "12",
+      "statute_id": "1760/2000"
+    },
+    {
+      "id": "f05ad282-9a99-4cd2-aaf0-c92fd2aaf31e",
+      "node_type": "Clause",
+      "publisher": "finlex",
+      "title": "§ 16 mom 1",
+      "text": "1) peltolohkorekisteristä pitopaikkaan liittyvät tiedot peltolohkoista, niiden tunnuksista ja muista tämän lain mukaisten hallinnointi- ja valvontatehtävien suorittamiseksi tarpeellisista tiedoista;",
+      "clause_number": 1,
+      "section_number": "16",
+      "statute_id": "1760/2000"
+    },
+    {
+      "id": "17fb184f-a0b3-499c-915d-7da7effe23a1",
+      "node_type": "Clause",
+      "publisher": "finlex",
+      "title": "§ 16 mom 2",
+      "text": "2) kiinteistötietojärjestelmästä pitopaikkaan liittyvät tiedot rakennuksista, rakennelmista, maa- ja vesialueista sekä muut tämän lain mukaisten hallinnointi- ja valvontatehtävien suorittamiseksi tarpeelliset tiedot;",
+      "clause_number": 2,
+      "section_number": "16",
+      "statute_id": "1760/2000"
+    },
+    {
+      "id": "e00debb3-746d-4f37-927e-a41952b166b7",
+      "node_type": "Clause",
+      "publisher": "finlex",
+      "title": "§ 16 mom 3",
+      "text": "3) ympäristöhallinnon tietojärjestelmästä vesiviljelyä ja turkiseläintenpitoa koskevat tämän lain mukaisten hallinnointi- ja valvontatehtävien suorittamiseksi tarpeelliset tiedot;",
+      "clause_number": 3,
+      "section_number": "16",
+      "statute_id": "1760/2000"
+    },
+    {
+      "id": "a061c373-5f09-41d2-b413-e620b0024d15",
+      "node_type": "Clause",
+      "publisher": "finlex",
+      "title": "§ 16 mom 4",
+      "text": "4) oikeushallinnon tietojärjestelmästä tiedot eläimistä vastuussa olevaan toimijaan kohdistuvasta eläintenpitokiellosta.",
+      "clause_number": 4,
+      "section_number": "16",
+      "statute_id": "1760/2000"
+    },
+    {
+      "id": "6349acf8-f1eb-40cb-b8d2-a353b4f7fee1",
+      "node_type": "Clause",
+      "publisher": "finlex",
+      "title": "§ 18 mom 1",
+      "text": "1) sopii käytettäväksi hakemuksessa tarkoitetulle eläinlajille ja pysyy eläimessä sitä vahingoittamatta;",
+      "clause_number": 1,
+      "section_number": "18",
+      "statute_id": "1760/2000"
+    },
+    {
+      "id": "9ccdb6ad-5f71-4e3a-8cde-aca26b018b22",
+      "node_type": "Clause",
+      "publisher": "finlex",
+      "title": "§ 18 mom 2",
+      "text": "2) soveltuu teknisiltä ominaisuuksiltaan Suomen ilmastoon; sekä",
+      "clause_number": 2,
+      "section_number": "18",
+      "statute_id": "1760/2000"
+    },
+    {
+      "id": "1c6ece0f-a984-470a-b705-d4373b7c6d9b",
+      "node_type": "Clause",
+      "publisher": "finlex",
+      "title": "§ 18 mom 3",
+      "text": "3) on vaikeasti väärennettävä, uudelleenkäyttöön soveltumaton ja pysyy luettavana eläimen koko eliniän.",
+      "clause_number": 3,
+      "section_number": "18",
+      "statute_id": "1760/2000"
+    },
+    {
+      "id": "8ef15d45-ddcf-4826-8daa-d2e35d318d4d",
+      "node_type": "Clause",
+      "publisher": "finlex",
+      "title": "§ 36 mom 3",
+      "text": "1) laiminlyö 9, 11 tai 13 §:ssä säädetyn ilmoitusvelvollisuuden, 21 §:ssä säädetyn luettelonpitovelvollisuuden tai 28 §:n 3 momentissa säädetyn tiedonantovelvollisuuden,",
+      "clause_number": 3,
+      "section_number": "36",
+      "statute_id": "1760/2000"
+    },
+    {
+      "id": "e63a68c9-47e7-4bc4-84be-c0e9d5915c74",
+      "node_type": "Clause",
+      "publisher": "finlex",
+      "title": "§ 36 mom 1",
+      "text": "1) laiminlyö 9, 11 tai 13 §:ssä säädetyn ilmoitusvelvollisuuden, 21 §:ssä säädetyn luettelonpitovelvollisuuden tai 28 §:n 3 momentissa säädetyn tiedonantovelvollisuuden,",
+      "clause_number": 1,
+      "section_number": "36",
+      "statute_id": "1760/2000"
+    },
+    {
+      "id": "691a7771-0587-450c-8a54-54ef5729c33d",
+      "node_type": "Clause",
+      "publisher": "finlex",
+      "title": "§ 36 mom 2",
+      "text": "2) laiminlyö 19 §:ssä säädetyn eläimen merkitsemisvelvollisuuden taikka",
+      "clause_number": 2,
+      "section_number": "36",
+      "statute_id": "1760/2000"
+    },
+    {
+      "id": "305b5e73-464a-487a-a3c5-cae8016cbe11",
+      "node_type": "Clause",
+      "publisher": "finlex",
+      "title": "§ 36 mom 3",
+      "text": "3) rikkoo 31 §:n nojalla annettua määräystä tai 32 §:n nojalla annettua kieltoa,",
+      "clause_number": 3,
+      "section_number": "36",
+      "statute_id": "1760/2000"
+    }
+  ],
+  "cross_references": [
+    {
+      "raw_text": "§ 1 momentin",
+      "statute_id": "1760/2000",
+      "section_number": "1 momentin",
+      "clause_number": null,
+      "resolution_confidence": 0.0
+    }
+  ],
+  "raw_html_path": "C:\\Users\\danit\\finance-hack\\aalto-hackaton-2026\\data\\raw\\finlex\\Laki (säädöskokoelma)\\Laki eläintunnistusjärjestelmästä.html"
+}

@@ -1,0 +1,1483 @@
+{
+  "statute": {
+    "id": "b5189fb8-10b0-43fd-a240-30720940e311",
+    "node_type": "Statute",
+    "publisher": "finlex",
+    "title": "Työsopimuslaki",
+    "text": "Työsopimuslaki",
+    "statute_id": "",
+    "finlex_url": ""
+  },
+  "chapters": [
+    {
+      "id": "97ee2a64-0502-41b1-91de-bbb4e9175a54",
+      "node_type": "Chapter",
+      "publisher": "finlex",
+      "title": "Chapter 1",
+      "text": "1 luku Yleiset säännökset",
+      "chapter_number": 1,
+      "statute_id": ""
+    },
+    {
+      "id": "78363c09-ee5b-4e04-a32b-8ef24434f405",
+      "node_type": "Chapter",
+      "publisher": "finlex",
+      "title": "Chapter 2",
+      "text": "2 luku Työnantajan velvollisuudet",
+      "chapter_number": 2,
+      "statute_id": ""
+    },
+    {
+      "id": "12f9b7fa-9c4b-4b55-af74-7e7e91a54f10",
+      "node_type": "Chapter",
+      "publisher": "finlex",
+      "title": "Chapter 3",
+      "text": "3 luku Työntekijän velvollisuudet",
+      "chapter_number": 3,
+      "statute_id": ""
+    },
+    {
+      "id": "25b4de59-1f92-4bc9-b702-1be3dea7871f",
+      "node_type": "Chapter",
+      "publisher": "finlex",
+      "title": "Chapter 4",
+      "text": "4 luku Perhevapaat",
+      "chapter_number": 4,
+      "statute_id": ""
+    },
+    {
+      "id": "a06d2a18-2f31-4611-8afe-9b07a4eddeca",
+      "node_type": "Chapter",
+      "publisher": "finlex",
+      "title": "Chapter 5",
+      "text": "5 luku Lomauttaminen",
+      "chapter_number": 5,
+      "statute_id": ""
+    },
+    {
+      "id": "bf9502e5-c728-4eea-a15b-29e6f9d1430b",
+      "node_type": "Chapter",
+      "publisher": "finlex",
+      "title": "Chapter 6",
+      "text": "6 luku Yleiset säännökset työsopimuksen päättämisestä",
+      "chapter_number": 6,
+      "statute_id": ""
+    },
+    {
+      "id": "f3e06b04-86a7-40b9-be30-d51d0c52745e",
+      "node_type": "Chapter",
+      "publisher": "finlex",
+      "title": "Chapter 7",
+      "text": "7 luku Työsopimuksen irtisanomisperusteet",
+      "chapter_number": 7,
+      "statute_id": ""
+    },
+    {
+      "id": "3d0a749b-57e2-4bd5-8f1f-103133d0aebc",
+      "node_type": "Chapter",
+      "publisher": "finlex",
+      "title": "Chapter 8",
+      "text": "8 luku Työsopimuksen purkaminen",
+      "chapter_number": 8,
+      "statute_id": ""
+    },
+    {
+      "id": "b0bcf5e2-e3a1-4fa7-9563-c7ef6ff7a19c",
+      "node_type": "Chapter",
+      "publisher": "finlex",
+      "title": "Chapter 9",
+      "text": "9 luku Työsopimuksen päättämismenettely",
+      "chapter_number": 9,
+      "statute_id": ""
+    },
+    {
+      "id": "c51c5ffe-6040-480c-ad36-444f19363822",
+      "node_type": "Chapter",
+      "publisher": "finlex",
+      "title": "Chapter 10",
+      "text": "10 luku Työsopimuksen pätemättömyys ja kohtuuttomat ehdot",
+      "chapter_number": 10,
+      "statute_id": ""
+    },
+    {
+      "id": "ee97d294-5bbb-499c-9342-cc0b144c00ec",
+      "node_type": "Chapter",
+      "publisher": "finlex",
+      "title": "Chapter 11",
+      "text": "11 luku Kansainvälisluonteiset työsopimukset",
+      "chapter_number": 11,
+      "statute_id": ""
+    },
+    {
+      "id": "96188d95-9360-43c6-9b4e-513312e5bdc4",
+      "node_type": "Chapter",
+      "publisher": "finlex",
+      "title": "Chapter 12",
+      "text": "12 luku Vahingonkorvausvelvollisuus",
+      "chapter_number": 12,
+      "statute_id": ""
+    },
+    {
+      "id": "e965efd4-e373-4b4a-a9f1-03ef48d041ba",
+      "node_type": "Chapter",
+      "publisher": "finlex",
+      "title": "Chapter 13",
+      "text": "13 luku Erinäisiä säännöksiä",
+      "chapter_number": 13,
+      "statute_id": ""
+    },
+    {
+      "id": "14621fdf-bb23-467c-a498-26457164883a",
+      "node_type": "Chapter",
+      "publisher": "finlex",
+      "title": "Chapter 14",
+      "text": "14 luku Voimaantulo- ja siirtymäsäännökset",
+      "chapter_number": 14,
+      "statute_id": ""
+    }
+  ],
+  "sections": [
+    {
+      "id": "593157db-fb4b-4e84-919c-e4ce8ffdeb30",
+      "node_type": "Section",
+      "publisher": "finlex",
+      "title": "1 § Soveltamisala",
+      "text": "Tätä lakia sovelletaan sopimukseen (työsopimus), jolla työntekijä tai työntekijät yhdessä työkuntana sitoutuvat henkilökohtaisesti tekemään työtä työnantajan lukuun tämän johdon ja valvonnan alaisena palkkaa tai muuta vastiketta vastaan. Tätä lakia on sovellettava, vaikka vastikkeesta ei ole sovittu, jos tosiseikoista käy ilmi, että työtä ei ole tarkoitettu tehtäväksi vastikkeetta. Lain soveltamista ei estä pelkästään se, että työ tehdään työntekijän kotona tai hänen valitsemassaan paikassa eikä sekään, että työ suoritetaan työntekijän työvälineillä tai -koneilla.",
+      "section_number": "1",
+      "chapter_number": 1,
+      "statute_id": ""
+    },
+    {
+      "id": "cf61ba8b-e450-4c42-b9a1-fc7ef59a61ae",
+      "node_type": "Section",
+      "publisher": "finlex",
+      "title": "2 § Poikkeukset soveltamisalasta",
+      "text": "Tätä lakia ei sovelleta:",
+      "section_number": "2",
+      "chapter_number": 1,
+      "statute_id": ""
+    },
+    {
+      "id": "d6755fdc-bc48-46dd-9c46-3de0c4642378",
+      "node_type": "Section",
+      "publisher": "finlex",
+      "title": "3 § Työsopimuksen muoto ja kesto",
+      "text": "Työsopimus voidaan tehdä suullisesti, kirjallisesti tai sähköisesti. Työsopimus on voimassa toistaiseksi, jollei sitä ole perustellusta syystä tehty määräaikaiseksi. Työnantajan aloitteesta ilman perusteltua syytä tehtyä määräaikaista työsopimusta samoin kuin ilman perusteltua syytä tehtyjä toisiaan seuraavia määräaikaisia työsopimuksia on pidettävä toistaiseksi voimassa olevina.",
+      "section_number": "3",
+      "chapter_number": 1,
+      "statute_id": ""
+    },
+    {
+      "id": "32cd311c-ae20-4a1a-ba7d-a8e09a42c19e",
+      "node_type": "Section",
+      "publisher": "finlex",
+      "title": "4 § Koeaika",
+      "text": "Työnantaja ja työntekijä voivat sopia työnteon aloittamisesta alkavasta, enintään neljän kuukauden pituisesta koeajasta. Jos työnantaja järjestää työntekijälle erityisen työhön liittyvän koulutuksen, joka kestää yhdenjaksoisesti yli neljä kuukautta, koeaika saadaan sopia enintään kuuden kuukauden pituiseksi. Kahdeksaa kuukautta lyhyemmässä määräaikaisessa työsuhteessa koeaika saa olla enintään puolet työsopimuksen kestosta. Jos työnantajaa sitovassa työehtosopimuksessa on määräys koeajasta, työnantajan on ilmoitettava tämän määräyksen soveltamisesta työntekijälle työsopimusta solmittaessa. Koeajan kuluessa työsopimus voidaan molemmin puolin purkaa. Työsopimusta ei saa kuitenkaan purkaa 2 luvun 2 §:n 1 momentissa tarkoitetuilla tai muutoinkaan koeajan tarkoitukseen nähden epäasiallisilla perusteilla. Työnantaja ei myöskään saa purkaa työsopimusta laiminlyötyään tämän pykälän 3 momentissa säädetyn ilmoitusvelvollisuutensa.",
+      "section_number": "4",
+      "chapter_number": 1,
+      "statute_id": ""
+    },
+    {
+      "id": "669967a1-2e46-4c50-8eb2-5ce1121f77bd",
+      "node_type": "Section",
+      "publisher": "finlex",
+      "title": "5 § Työsuhteen kestosta riippuvat työsuhde- etuudet",
+      "text": "Jos työnantajan ja työntekijän välillä on tehty useita peräkkäisiä, keskeytymättömänä tai vain lyhytaikaisin keskeytyksin jatkuvia määräaikaisia työsopimuksia, työsuhteen katsotaan työsuhde-etuuksien määräytymisen kannalta jatkuneen yhdenjaksoisena.",
+      "section_number": "5",
+      "chapter_number": 1,
+      "statute_id": ""
+    },
+    {
+      "id": "d1e7bb82-6683-4224-a5b7-70f620882143",
+      "node_type": "Section",
+      "publisher": "finlex",
+      "title": "6 § Vajaavaltaisen työsopimus",
+      "text": "Alle 18-vuotiaan oikeudesta tehdä työsopimus sekä nuoren työntekijän huoltajan oikeudesta purkaa alaikäisen tekemä työsopimus säädetään nuorista työntekijöistä annetussa laissa (998/1993). Vajaavaltaiseksi julistettu ja henkilö, jonka toimintakelpoisuutta on holhoustoimesta annetun lain (442/1999) nojalla rajoitettu, voi itse tehdä ja päättää työsopimuksensa.",
+      "section_number": "6",
+      "chapter_number": 1,
+      "statute_id": ""
+    },
+    {
+      "id": "57ef2098-4682-40cf-b965-049339518fc6",
+      "node_type": "Section",
+      "publisher": "finlex",
+      "title": "7 § Oikeuksien ja velvollisuuksien siirtäminen",
+      "text": "Työsopimuksen osapuolet eivät saa siirtää työsopimuksesta johtuvia oikeuksiaan tai velvollisuuksiaan kolmannelle ilman toisen sopijapuolen suostumusta, ellei jäljempänä säädetystä muuta johdu. Erääntynyt saaminen voidaan kuitenkin siirtää toisen sopijapuolen suostumuksetta. Työnantajan siirtäessä työntekijän tämän suostumuksen mukaisesti toisen työnantajan (käyttäjäyritys) käyttöön, käyttäjäyritykselle siirtyvät oikeus johtaa ja valvoa työntekoa sekä ne työnantajalle säädetyt velvollisuudet, jotka liittyvät välittömästi työn tekemiseen ja sen järjestelyihin.",
+      "section_number": "7",
+      "chapter_number": 1,
+      "statute_id": ""
+    },
+    {
+      "id": "11a93a6e-3d6e-4526-a3ef-a8409ae1ad1a",
+      "node_type": "Section",
+      "publisher": "finlex",
+      "title": "8 § Työntekijän avustaja",
+      "text": "Jos työntekijä on työnantajan suostumuksella ottanut avustajan työsopimuksesta johtuvien velvoitteidensa täyttämiseksi, on myös avustajaksi otettu henkilö työsuhteessa suostumuksen antaneeseen työnantajaan.",
+      "section_number": "8",
+      "chapter_number": 1,
+      "statute_id": ""
+    },
+    {
+      "id": "81e792c4-a764-406b-8628-5cbc69b63f22",
+      "node_type": "Section",
+      "publisher": "finlex",
+      "title": "9 § Työnantajan sijainen",
+      "text": "Työnantaja voi asettaa toisen henkilön edustajanaan johtamaan ja valvomaan työtä. Jos sijainen tehtäväänsä suorittaessaan virheellään tai laiminlyönnillään aiheuttaa työntekijälle vahinkoa, työnantaja vastaa syntyneen vahingon korvaamisesta.",
+      "section_number": "9",
+      "chapter_number": 1,
+      "statute_id": ""
+    },
+    {
+      "id": "c106f5cc-2c39-42d7-8efd-4d57dd059d54",
+      "node_type": "Section",
+      "publisher": "finlex",
+      "title": "10 § Liikkeen luovutus",
+      "text": "Työnantajan liikkeen luovutuksella tarkoitetaan yrityksen, liikkeen, yhteisön tai säätiön tai näiden toiminnallisen osan luovuttamista toiselle työnantajalle, jos luovutettava, pää- tai sivutoimisena harjoitettu liike tai sen osa pysyy luovutuksen jälkeen samana tai samankaltaisena. Edellä 1 momentissa tarkoitetussa liikkeen luovutuksessa työnantajan luovutushetkellä voimassa olevista työsuhteista johtuvat oikeudet ja velvollisuudet siirtyvät liikkeen uudelle omistajalle tai haltijalle. Ennen luovutusta erääntyneestä työntekijän palkka- tai muusta työsuhteesta johtuvasta saatavasta vastaavat luovuttaja ja luovutuksensaaja yhteisvastuullisesti. Luovuttaja on kuitenkin luovutuksensaajalle vastuussa ennen luovutusta erääntyneestä työntekijän saatavasta, jollei muuta ole sovittu. Konkurssipesän luovuttaessa liikkeen luovutuksensaaja ei vastaa ennen luovutusta erääntyneistä työntekijän palkka- ja muista työsuhteesta johtuvista saatavista, paitsi jos konkurssiin asetetussa liikkeessä ja luovutuksen vastaanottavassa liikkeessä määräysvaltaa käyttävät tai ovat käyttäneet samat henkilöt omistuksen, sopimuksen tai muun järjestelyn perusteella.",
+      "section_number": "10",
+      "chapter_number": 1,
+      "statute_id": ""
+    },
+    {
+      "id": "9ff7911b-2a99-4537-8094-7c91b80c5e26",
+      "node_type": "Section",
+      "publisher": "finlex",
+      "title": "1 § Yleisvelvoite",
+      "text": "Työnantajan on kaikin puolin edistettävä suhteitaan työntekijöihin samoin kuin työntekijöiden keskinäisiä suhteita. Työnantajan on huolehdittava siitä, että työntekijä voi suoriutua työstään myös yrityksen toimintaa, tehtävää työtä tai työmenetelmiä muutettaessa tai kehitettäessä. Työnantajan on pyrittävä edistämään työntekijän mahdollisuuksia kehittyä kykyjensä mukaan työurallaan etenemiseksi.",
+      "section_number": "1",
+      "chapter_number": 2,
+      "statute_id": ""
+    },
+    {
+      "id": "538bdaf7-f377-4580-b1bc-bd0f82d1e07e",
+      "node_type": "Section",
+      "publisher": "finlex",
+      "title": "2 § Syrjintäkielto ja tasapuolinen kohtelu",
+      "text": "Työnantaja ei saa ilman hyväksyttävää perustetta asettaa työntekijöitä eri asemaan iän, terveydentilan, kansallisen tai etnisen alkuperän, sukupuolisen suuntautuneisuuden, kielen, uskonnon, mielipiteen, perhesuhteiden, ammattiyhdistystoiminnan, poliittisen toiminnan tai muun näihin verrattavan seikan vuoksi. Sukupuoleen perustuvan syrjinnän kiellosta säädetään naisten ja miesten välisestä tasa-arvosta annetussa laissa (609/1986). Määräaikaisissa ja osa-aikaisissa työsuhteissa ei saa pelkästään työsopimuksen kestoajan tai työajan pituuden vuoksi soveltaa epäedullisempia työehtoja kuin muissa työsuhteissa, ellei se ole perusteltua asiallisista syistä. Työnantajan on muutoinkin kohdeltava työntekijöitä tasapuolisesti, ellei siitä poikkeaminen ole työntekijöiden tehtävät ja asema huomioon ottaen perusteltua. Työnantajan on noudatettava 1 momentissa säädettyä syrjintäkieltoa myös ottaessaan työntekijöitä työhön.",
+      "section_number": "2",
+      "chapter_number": 2,
+      "statute_id": ""
+    },
+    {
+      "id": "4504bbfd-455b-4ba2-bb90-d02f8d9dbbcd",
+      "node_type": "Section",
+      "publisher": "finlex",
+      "title": "3 § Työturvallisuus",
+      "text": "Työnantajan on huolehdittava työturvallisuudesta työntekijän suojelemiseksi tapaturmilta ja terveydellisiltä vaaroilta niin kuin työturvallisuuslaissa (299/1958) ja sen nojalla annetuissa säännöksissä säädetään. Jos raskaana olevan työntekijän työtehtävät tai työolot vaarantavat hänen tai sikiön terveyden eikä työssä tai työoloissa olevaa vaaratekijää voida poistaa, työntekijä on pyrittävä raskauden ajaksi siirtämään muihin, hänen työkykynsä ja ammattitaitonsa huomioon ottaen sopiviin tehtäviin. Työntekijän oikeudesta erityisäitiysvapaaseen säädetään 4 luvun 1 §:ssä.",
+      "section_number": "3",
+      "chapter_number": 2,
+      "statute_id": ""
+    },
+    {
+      "id": "2b8229d4-4d2d-4cf1-af94-42ceaf58c2fb",
+      "node_type": "Section",
+      "publisher": "finlex",
+      "title": "4 § Selvitys työnteon keskeisistä ehdoista",
+      "text": "Työnantajan on annettava työntekijälle, jonka työsuhde on voimassa toistaiseksi tai yli kuukauden pituisen määräajan, kirjallinen selvitys työnteon keskeisistä ehdoista viimeistään ensimmäisen palkanmaksukauden päättymiseen mennessä, jolleivät ehdot käy ilmi kirjallisesta työsopimuksesta. Jos työntekijä on alle kuukauden pituisissa määräaikaisissa työsuhteissa saman työnantajan kanssa toistuvasti samoin ehdoin, on työnantajan annettava selvitys työnteon keskeisistä ehdoista viimeistään kuukauden kuluttua ensimmäisen työsuhteen alkamisesta. Selvitys saadaan antaa vain kerran, jos työsuhteet toistuvat edelleen, ellei 3 momentista johdu muuta. Vähintään kuukauden jatkuvassa ulkomaantyössä selvitys on annettava hyvissä ajoin ennen kuin työntekijä matkustaa työkohteeseen. Selvitys voidaan antaa yhdellä tai useammalla asiakirjalla tai viittaamalla työsuhteessa sovellettavaan lakiin tai työehtosopimukseen. Selvityksestä on käytävä ilmi ainakin: Työnantajan on lisäksi annettava työntekijälle kirjallinen selvitys työnteon ehdon muutoksesta niin pian kuin mahdollista, viimeistään kuitenkin muutosta seuraavan palkanmaksukauden päättyessä, jollei muutos johdu lainsäädännön tai työehtosopimuksen muuttamisesta.",
+      "section_number": "4",
+      "chapter_number": 2,
+      "statute_id": ""
+    },
+    {
+      "id": "18553b38-e5eb-4d8f-992f-87e2542c6aa5",
+      "node_type": "Section",
+      "publisher": "finlex",
+      "title": "5 § Työnantajan velvollisuus tarjota työtä osa-aikaiselle työntekijälle",
+      "text": "Jos työnantaja tarvitsee lisää työntekijöitä hänen osa-aikatyötä tekeville työntekijöilleen sopiviin tehtäviin, työnantajan on tarjottava näitä töitä osa-aikatyöntekijöille 6 luvun 6 §:stä riippumatta. Jos 1 momentissa tarkoitetun työn vastaanottaminen edellyttää sellaista koulutusta, jonka työnantaja voi työntekijän soveltuvuuteen nähden kohtuudella järjestää, työntekijälle on annettava tällainen koulutus.",
+      "section_number": "5",
+      "chapter_number": 2,
+      "statute_id": ""
+    },
+    {
+      "id": "5082f6e3-0298-4a2b-8708-7443b46fbcdb",
+      "node_type": "Section",
+      "publisher": "finlex",
+      "title": "6 § Vapautuvista työpaikoista tiedottaminen",
+      "text": "Työnantajan on ilmoitettava vapautuvista työpaikoistaan yleisesti yrityksessä tai työpaikalla omaksutun käytännön mukaisesti varmistaakseen, että myös osa-aikaisilla ja määräaikaisilla työntekijöillä on samat mahdollisuudet hakeutua näihin työpaikkoihin kuin vakituisilla tai kokoaikaisilla työntekijöillä.",
+      "section_number": "6",
+      "chapter_number": 2,
+      "statute_id": ""
+    },
+    {
+      "id": "9003807a-ba7c-4299-97ec-4a58ca821d63",
+      "node_type": "Section",
+      "publisher": "finlex",
+      "title": "7 § Työehtosopimusten yleissitovuus",
+      "text": "Työnantajan on noudatettava vähintään valtakunnallisen, asianomaisella alalla edustavana pidettävän työehtosopimuksen (yleissitova työehtosopimus) määräyksiä niistä työsuhteen ehdoista ja työoloista, jotka koskevat työntekijän tekemää tai siihen lähinnä rinnastettavaa työtä. Työsopimuksen ehto, joka on ristiriidassa yleissitovan työehtosopimuksen vastaavan määräyksen kanssa, on mitätön ja sen sijasta on noudatettava yleissitovan työehtosopimuksen määräystä. Työnantaja, joka on työehtosopimuslain (436/1946) nojalla velvollinen noudattamaan työehtosopimusta, jonka toisena sopijapuolena on valtakunnallinen työntekijöiden yhdistys, saa 1 momentissa säädetystä poiketen soveltaa tämän työehtosopimuksen määräyksiä.",
+      "section_number": "7",
+      "chapter_number": 2,
+      "statute_id": ""
+    },
+    {
+      "id": "e67a9cc8-3368-4d48-9c33-9c7f0ccdab07",
+      "node_type": "Section",
+      "publisher": "finlex",
+      "title": "8 § Yleissitovuuden vahvistaminen ja voimassaolo",
+      "text": "Työehtosopimuksen yleissitovuuden vahvistamisesta samoin kuin yleissitovuuden voimassaolosta ja sopimusten saatavuudesta säädetään työehtosopimuksen yleissitovuuden vahvistamisesta annetussa laissa (56/2001).",
+      "section_number": "8",
+      "chapter_number": 2,
+      "statute_id": ""
+    },
+    {
+      "id": "07e435d6-6a70-4558-bfca-0cba278b453e",
+      "node_type": "Section",
+      "publisher": "finlex",
+      "title": "9 § Vuokrattujen työntekijöiden työsuhteissa sovellettava työehtosopimus",
+      "text": "Jos työnantaja on vuokrannut työntekijänsä toisen työnantajan (käyttäjäyritys) työhön eikä työntekijänsä vuokrannut työnantaja ole sidottu 7 §:n 3 momentissa tarkoitettuun työehtosopimukseen eikä velvollinen noudattamaan työsuhteissaan yleissitovaa työehtosopimusta, on vuokratun työntekijän työsuhteessa sovellettava vähintään käyttäjäyritystä sitovan 7 §:n 3 momentissa tarkoitetun tai yleissitovan työehtosopimuksen määräyksiä.",
+      "section_number": "9",
+      "chapter_number": 2,
+      "statute_id": ""
+    },
+    {
+      "id": "e5f3dba6-1dc8-4b91-abf4-f53e202a384b",
+      "node_type": "Section",
+      "publisher": "finlex",
+      "title": "10 § Vähimmäispalkka työehtosopimuksen puuttuessa",
+      "text": "Jos työsuhteessa ei tule sovellettavaksi työehtosopimuslain nojalla sitova työehtosopimus eikä yleissitova työehtosopimus eivätkä työnantaja ja työntekijä ole sopineet työstä maksettavasta vastikkeesta, on työntekijälle maksettava tekemästään työstä tavanomainen ja kohtuullinen palkka.",
+      "section_number": "10",
+      "chapter_number": 2,
+      "statute_id": ""
+    },
+    {
+      "id": "942467f5-3d45-421d-96b4-c8330ca5e4f0",
+      "node_type": "Section",
+      "publisher": "finlex",
+      "title": "11 § Sairausajan palkka",
+      "text": "Työntekijällä, joka on sairauden tai tapaturman vuoksi estynyt tekemästä työtään, on oikeus sairausajan palkkaan. Jos työsuhde on jatkunut vähintään kuukauden, työntekijällä on oikeus saada esteen ajalta täysi palkkansa sairastumispäivää seuranneen yhdeksännen arkipäivän loppuun, enintään kuitenkin siihen saakka, kun hänen oikeutensa sairausvakuutuslain (364/1963) mukaiseen päivärahaan alkaa. Alle kuukauden jatkuneissa työsuhteissa työntekijällä on vastaavasti oikeus saada 50 prosenttia palkastaan. Työntekijällä ei ole oikeutta sairausajan palkkaan, jos hän on aiheuttanut työkyvyttömyytensä tahallaan tai törkeällä huolimattomuudella. Työntekijän on pyydettäessä esitettävä työnantajalle luotettava selvitys työkyvyttömyydestään. Maksettuaan työntekijälle sairausajan palkan työnantajalla on vastaavalta ajalta oikeus saada työntekijälle sairausvakuutuslain tai tapaturmavakuutuslain (608/1948) mukaan kuuluva päiväraha, enintään kuitenkin maksamaansa palkkaa vastaava määrä.",
+      "section_number": "11",
+      "chapter_number": 2,
+      "statute_id": ""
+    },
+    {
+      "id": "472c8a74-d199-4321-9ca5-6c6b1370c6ae",
+      "node_type": "Section",
+      "publisher": "finlex",
+      "title": "12 § Työntekijän oikeus palkkaansa työnteon estyessä",
+      "text": "Työnantaja on velvollinen maksamaan työntekijälle täyden palkan, jos hän on ollut sopimuksen mukaisesti työnantajan käytettävissä voimatta kuitenkaan tehdä työtä työnantajasta johtuvasta syystä, ellei toisin sovita. Jos työntekijä on estynyt tekemästä työtään työpaikkaa kohdanneen tulipalon, poikkeuksellisen luonnontapahtuman tai muun sen kaltaisen hänestä tai työnantajasta riippumattoman syyn vuoksi, työntekijällä on oikeus saada palkkansa esteen ajalta, enintään kuitenkin 14 päivältä. Jos työnteon estymisen työsopimuksen osapuolista riippumattomana syynä on toisten työntekijöiden työtaistelutoimenpide, jolla ei ole riippuvuussuhdetta hänen työehtoihinsa tai työoloihinsa, työntekijällä on oikeus saada palkkansa kuitenkin enintään seitsemältä päivältä. Työnantaja saa vähentää työntekijälle 1 ja 2 momentin perusteella maksettavasta palkasta määrän, joka työntekijältä on säästynyt työsuorituksen estymisen vuoksi sekä määrän, jonka hän on ansainnut muulla työllä tai jättänyt tahallaan ansaitsematta. Palkkaa vähentäessään työnantajan on noudatettava tämän luvun 17 §:n säännöksiä kuittausoikeuden rajoituksista.",
+      "section_number": "12",
+      "chapter_number": 2,
+      "statute_id": ""
+    },
+    {
+      "id": "a4d2d95d-86e5-4d06-a871-c8f37b08ca56",
+      "node_type": "Section",
+      "publisher": "finlex",
+      "title": "13 § Palkan maksuaika ja -kausi",
+      "text": "Palkka on maksettava palkanmaksukauden viimeisenä päivänä, jollei toisin sovita. Jos aikapalkan perusteena on viikkoa lyhyempi aika, palkka on maksettava vähintään kaksi kertaa kuukaudessa ja muussa tapauksessa kerran kuukaudessa. Suorituspalkkaustyössä palkanmaksukausi saa olla enintään kahden viikon pituinen, ellei suorituspalkkaa makseta kuukausittain tulevan palkan yhteydessä. Jos suorituspalkkaustyö kestää yhtä palkanmaksukautta pitempään, on kultakin palkanmaksukaudelta maksettava työhön käytetyn ajan mukaan määräytyvä osa palkasta. Jos osa palkasta määräytyy voitto-osuutena, provisiona tai muulla vastaavalla perusteella, saa tämän osan maksukausi olla edellä säädettyä pitempi, enintään kuitenkin 12 kuukautta.",
+      "section_number": "13",
+      "chapter_number": 2,
+      "statute_id": ""
+    },
+    {
+      "id": "72e64f69-5057-446c-8e9c-db5d9e8829b9",
+      "node_type": "Section",
+      "publisher": "finlex",
+      "title": "14 § Palkanmaksukausi työsuhteen päättyessä",
+      "text": "Työsuhteen päättyessä päättyy myös palkanmaksukausi. Työsuhteesta johtuvan saatavan suorituksen viivästyessä työntekijällä on oikeus saada korkolain (633/1982) 4 §:ssä tarkoitetun viivästyskoron lisäksi täysi palkkansa odotuspäiviltä, enintään kuitenkin kuudelta kalenteripäivältä. Jos työsuhteesta johtuva saatava ei ole selvä ja riidaton tai jos suorituksen viivästyminen on johtunut laskuvirheestä tai tällaiseen rinnastettavasta erehdyksestä, työntekijällä on oikeus odotuspäivien palkkaan vain, jos hän on huomauttanut suorituksen viivästymisestä työnantajalle kuukauden kuluessa työsuhteen päättymisestä eikä työnantaja ole suorittanut saatavaa kolmen arkipäivän kuluessa huomautuksesta. Oikeus odotuspäivien palkkaan alkaa tällöin työnantajalle varatun maksuajan kuluttua.",
+      "section_number": "14",
+      "chapter_number": 2,
+      "statute_id": ""
+    },
+    {
+      "id": "3de37899-9d49-4a7c-a9a5-d0769fc0285c",
+      "node_type": "Section",
+      "publisher": "finlex",
+      "title": "15 § Palkan poikkeuksellinen erääntyminen",
+      "text": "Jos työntekijän palkka erääntyy maksettavaksi sunnuntaina, kirkollisena juhlapäivänä, itsenäisyys- tai vapunpäivänä, joulu- tai juhannusaattona tai arkilauantaina, erääntymispäivänä pidetään lähinnä edellistä arkipäivää. Jos työntekijän palkka erääntyy maksettavaksi sellaisena arkipäivänä, jona pankkien yleisesti keskinäisissä maksuissaan käyttämät maksujärjestelmät eivät säädöskokoelmassa julkaistavan Suomen Pankin ilmoituksen mukaan ole Euroopan keskuspankin tai Suomen Pankin tekemän päätöksen vuoksi käytössä, erääntymispäivänä pidetään niin ikään tätä lähinnä edeltävää arkipäivää.",
+      "section_number": "15",
+      "chapter_number": 2,
+      "statute_id": ""
+    },
+    {
+      "id": "e44b074d-40cc-4234-9395-8f9affb6a395",
+      "node_type": "Section",
+      "publisher": "finlex",
+      "title": "16 § Palkan maksaminen",
+      "text": "Palkka on maksettava työntekijälle käteisenä tai jos niin on sovittu, hänen osoittamaansa rahalaitokseen. Työnantaja vastaa viimeksi mainitusta palkanmaksutavasta aiheutuvista kustannuksista. Palkka on maksettava tai sen on oltava nostettavissa palkan erääntymispäivänä. Maksaessaan palkan työnantajan on annettava työntekijälle laskelma, josta käyvät ilmi palkan suuruus ja sen määräytymisen perusteet.",
+      "section_number": "16",
+      "chapter_number": 2,
+      "statute_id": ""
+    },
+    {
+      "id": "182e4c89-1ba3-4a49-8c00-7711b8d7cf5e",
+      "node_type": "Section",
+      "publisher": "finlex",
+      "title": "17 § Työnantajan kuittausoikeus ja palkkaennakko",
+      "text": "Työnantaja ei saa kuitata työntekijän palkkasaamista vastasaamisellaan siltä osin kuin palkka on ulosottolain (37/1895) ja suojaosuudesta palkan ulosmittauksessa annetun asetuksen (1031/1989) mukaan jätettävä ulosmittaamatta. Sopimuksen vakuudeksi tai muutoin maksettu palkkaennakko voidaan vähentää palkasta. Palkkaennakko luetaan ensisijaisesti 1 momentissa tarkoitettuun suojaosaan.",
+      "section_number": "17",
+      "chapter_number": 2,
+      "statute_id": ""
+    },
+    {
+      "id": "044fc410-c515-421c-8fa6-6dd9c5de70d4",
+      "node_type": "Section",
+      "publisher": "finlex",
+      "title": "1 § Yleiset velvollisuudet",
+      "text": "Työntekijän on tehtävä työnsä huolellisesti noudattaen niitä määräyksiä, joita työnantaja antaa toimivaltansa mukaisesti työn suorittamisesta. Työntekijän on toiminnassaan vältettävä kaikkea, mikä on ristiriidassa hänen asemassaan olevalta työntekijältä kohtuuden mukaan vaadittavan menettelyn kanssa.",
+      "section_number": "1",
+      "chapter_number": 3,
+      "statute_id": ""
+    },
+    {
+      "id": "ef329da5-5da6-4b3a-ac78-fa6308ae9642",
+      "node_type": "Section",
+      "publisher": "finlex",
+      "title": "2 § Työturvallisuus",
+      "text": "Työntekijän on noudatettava työtehtävien ja työolojen edellyttämää huolellisuutta ja varovaisuutta sekä huolehdittava käytettävissään olevin keinoin niin omasta kuin työpaikalla olevien muiden työntekijöiden turvallisuudesta. Työntekijän on ilmoitettava työnantajalle työpaikan rakenteissa, koneissa, laitteissa sekä työ- ja suojeluvälineissä havaitsemistaan vioista ja puutteellisuuksista, joista saattaa aiheutua tapaturman tai sairastumisen vaaraa.",
+      "section_number": "2",
+      "chapter_number": 3,
+      "statute_id": ""
+    },
+    {
+      "id": "cffac87e-5d2a-493f-a40b-e458a0546f29",
+      "node_type": "Section",
+      "publisher": "finlex",
+      "title": "3 § Kilpaileva toiminta",
+      "text": "Työntekijä ei saa tehdä toiselle sellaista työtä tai harjoittaa sellaista toimintaa, joka huomioon ottaen työn luonne ja työntekijän asema ilmeisesti vahingoittaa hänen työnantajaansa työsuhteissa noudatettavan hyvän tavan vastaisena kilpailutekona. Työntekijä ei saa työsuhteen kestäessä ryhtyä kilpailevan toiminnan valmistelemiseksi sellaisiin toimenpiteisiin, joita 1 momentissa säädetty huomioon ottaen ei voida pitää hyväksyttävinä. Työnantaja, joka ottaa työhön henkilön, jonka tietää olevan 1 momentin perusteella estynyt ryhtymästä työhön, vastaa työntekijän ohella aikaisemmalle työnantajalle aiheutuneesta vahingosta.",
+      "section_number": "3",
+      "chapter_number": 3,
+      "statute_id": ""
+    },
+    {
+      "id": "92a2ef69-a9e4-49b1-b152-27ae875986bd",
+      "node_type": "Section",
+      "publisher": "finlex",
+      "title": "4 § Liike- ja ammattisalaisuudet",
+      "text": "Työntekijä ei saa työsuhteen kestäessä käyttää hyödykseen tai ilmaista muille työnantajan ammatti- ja liikesalaisuuksia. Jos työntekijä on saanut tiedot oikeudettomasti, kielto jatkuu myös työsuhteen päättymisen jälkeen. Salaisuuden ilmaisseen työntekijän ohella työnantajalle syntyneen vahingon korvaamisesta on vastuussa myös se, jolle työntekijä ilmaisi tiedot, jos viimeksi mainittu tiesi tai hänen olisi pitänyt tietää työntekijän menetelleen oikeudettomasti.",
+      "section_number": "4",
+      "chapter_number": 3,
+      "statute_id": ""
+    },
+    {
+      "id": "ac78315e-b154-4e7d-b043-1cdf6d851048",
+      "node_type": "Section",
+      "publisher": "finlex",
+      "title": "5 § Kilpailukieltosopimus",
+      "text": "Työnantajan toimintaan tai työsuhteeseen liittyvästä erityisen painavasta syystä voidaan työsuhteen alkaessa tai sen aikana tehtävällä sopimuksella (kilpailukieltosopimus) rajoittaa työntekijän oikeutta tehdä työsopimus työsuhteen päättymisen jälkeen alkavasta työstä sellaisen työnantajan kanssa, joka harjoittaa ensiksi mainitun työnantajan kanssa kilpailevaa toimintaa samoin kuin työntekijän oikeutta harjoittaa omaan lukuunsa tällaista toimintaa. Kilpailukieltosopimuksen perusteen erityistä painavuutta arvioitaessa on otettava muun ohella huomioon työnantajan toiminnan laatu ja sellainen suojan tarve, joka johtuu liike- tai ammattisalaisuuden säilyttämisestä tai työnantajan työntekijälle järjestämästä erityiskoulutuksesta, samoin kuin työntekijän asema ja tehtävät. Kilpailukieltosopimuksella saadaan rajoittaa työntekijän oikeutta tehdä uusi työsopimus tai harjoittaa ammattia enintään kuuden kuukauden ajan. Jos työntekijän voidaan katsoa saavan kohtuullisen korvauksen hänelle kilpailukieltosopimuksesta aiheutuvasta sidonnaisuudesta, rajoitusaika voidaan sopia enintään vuoden pituiseksi. Kilpailukieltosopimukseen voidaan ottaa määräys vahingonkorvauksen sijasta tuomittavasta sopimussakosta, joka saa enimmäismäärältään vastata työntekijän työsuhteen päättymistä edeltäneen kuuden kuukauden palkkaa. Kilpailukieltosopimus ei sido työntekijää, jos työsuhde on päättynyt työnantajasta johtuvasta syystä. Mitä edellä säädetään kilpailukieltosopimuksen keston rajoittamisesta ja sopimussakon enimmäismäärästä, ei koske työntekijää, jonka tehtäviensä ja asemansa perusteella katsotaan tekevän yrityksen, yhteisön tai säätiön tai sen itsenäisen osan johtamistyötä tai olevan tällaiseen johtamistehtävään välittömästi rinnastettavassa itsenäisessä asemassa. Kilpailukieltosopimus on mitätön siltä osin kuin se on tehty vastoin edellä säädettyä. Muutoin tällaisen sopimuksen pätevyydestä ja sovittelusta on voimassa, mitä varallisuusoikeudellisista oikeustoimista annetussa laissa (228/1929,oikeustoimilaki) säädetään.",
+      "section_number": "5",
+      "chapter_number": 3,
+      "statute_id": ""
+    },
+    {
+      "id": "2c95ae6e-ae65-4a47-b3f3-651a979d702b",
+      "node_type": "Section",
+      "publisher": "finlex",
+      "title": "1 § Äitiys-, erityisäitiys-, isyys- ja vanhempainvapaa",
+      "text": "Työntekijällä on oikeus saada vapaaksi työstä sairausvakuutuslaissa tarkoitetut äitiys-, erityisäitiys-, isyys- ja vanhempainrahakaudet. Äitiys- ja isyysvapaasta on ilmoitettava työnantajalle viimeistään kaksi kuukautta ennen vapaan aiottua alkamista. Työntekijä saa kuitenkin varhentaa äitiysvapaan sekä muuttaa synnytyksen yhteydessä pidettäväksi aiotun isyysvapaan ajankohdan, jos se on tarpeen lapsen syntymän tai lapsen, äidin tai isän terveydentilan vuoksi. Näistä muutoksista on ilmoitettava työnantajalle niin pian kuin mahdollista. Muutoin työntekijä saa perustellusta syystä muuttaa aiemmin ilmoittamansa vapaan ajankohdan kuukauden ilmoitusaikaa noudattaen. Työntekijällä on oikeus pitää vanhempainvapaa enintään kahdessa osassa, joiden tulee olla vähintään 12 arkipäivän pituisia. Vanhempainvapaan pitämisestä ja sen pituudesta on ilmoitettava työnantajalle viimeistään kaksi kuukautta ennen vapaan alkamista. Työntekijä saa perustellusta syystä muuttaa vapaan ajankohdan vähintään kuukauden ilmoitusaikaa noudattaen. Ottolapsen hoidon vuoksi pidettävästä vapaasta on ilmoitettava, jos mahdollista, kaksi kuukautta ennen vapaan alkamista. Ottolapsen vanhempi saa perustellusta syystä muuttaa ennen vapaan alkamista vapaan ajankohtaa ilmoittamalla siitä työnantajalle niin pian kuin se on mahdollista.",
+      "section_number": "1",
+      "chapter_number": 4,
+      "statute_id": ""
+    },
+    {
+      "id": "521c0164-4ab3-4671-b3b5-8b741837fde7",
+      "node_type": "Section",
+      "publisher": "finlex",
+      "title": "2 § Työnteko äitiysrahakauden aikana",
+      "text": "Työntekijä saa työnantajan suostumuksella tehdä äitiysrahakauden aikana työtä, joka ei vaaranna hänen eikä sikiön tai syntyneen lapsen turvallisuutta. Tällaista työtä ei kuitenkaan saa tehdä kahden viikon aikana ennen laskettua synnytysaikaa eikä kahden viikon aikana synnytyksen jälkeen. Sekä työnantajalla että työntekijällä on oikeus milloin tahansa keskeyttää äitiysrahakauden aikana tehtävä työ.",
+      "section_number": "2",
+      "chapter_number": 4,
+      "statute_id": ""
+    },
+    {
+      "id": "90a8ac74-a15a-46b5-b24a-5e523a48aa19",
+      "node_type": "Section",
+      "publisher": "finlex",
+      "title": "3 § Hoitovapaa",
+      "text": "Työntekijällä on oikeus saada hoitovapaata lapsensa tai muun hänen taloudessaan vakituisesti asuvan lapsen hoitamiseksi, kunnes lapsi täyttää kolme vuotta. Hoitovapaana voidaan pitää enintään kaksi vähintään kuukauden pituista jaksoa, jolleivät työnantaja ja työntekijä sovi kahta useammasta tai kuukautta lyhyemmästä jaksosta. Hoitovapaata saa vain toinen vanhemmista tai huoltajista kerrallaan. Äitiys- tai vanhempainvapaan aikana toinen vanhemmista tai huoltajista voi kuitenkin pitää yhden jakson hoitovapaata. Työntekijän on ilmoitettava työnantajalle hoitovapaasta ja sen pituudesta viimeistään kaksi kuukautta ennen sen alkamista. Työntekijä voi perustellusta syystä muuttaa hoitovapaan ajankohdan ja sen pituuden ilmoittamalla siitä työnantajalle viimeistään kuukautta ennen muutosta.",
+      "section_number": "3",
+      "chapter_number": 4,
+      "statute_id": ""
+    },
+    {
+      "id": "89398124-d662-4b53-85a2-eab5cddb2a65",
+      "node_type": "Section",
+      "publisher": "finlex",
+      "title": "4 § Osittainen hoitovapaa",
+      "text": "Työntekijä, joka on ollut saman työnantajan työssä yhteensä vähintään 12 kuukautta viimeksi kuluneen 24 kuukauden aikana, voi saada lapsensa tai muun hänen taloudessaan vakituisesti asuvan lapsen hoitamiseksi osittaista hoitovapaata sen kalenterivuoden loppuun, jona lapsi aloittaa peruskoulun. Lapsen molemmat vanhemmat tai huoltajat eivät saa pitää osittaista hoitovapaata samanaikaisesti. Työntekijän on tehtävä esitys osittaisesta hoitovapaasta viimeistään kaksi kuukautta ennen vapaan alkamista. Työnantaja ja työntekijä sopivat osittaisesta hoitovapaasta ja sen yksityiskohtaisista järjestelyistä haluamallaan tavalla. Työnantaja voi kieltäytyä sopimasta vapaasta tai antamasta sitä vain, jos vapaasta aiheutuu työpaikan tuotanto- tai palvelutoiminnalle vakavaa haittaa, jota ei voida välttää kohtuullisilla työn järjestelyillä. Työnantajan on esitettävä työntekijälle selvitys kieltäytymisensä perusteena olevista seikoista. Jos työntekijällä on oikeus osittaiseen hoitovapaaseen, mutta sen yksityiskohtaisista järjestelyistä ei voida sopia, on hänelle annettava osittaista hoitovapaata yksi jakso kalenterivuodessa. Vapaan pituus ja sen ajankohta määräytyvät työntekijän esityksen mukaan. Osittainen hoitovapaa annetaan tällöin lyhentämällä vuorokautinen työaika kuudeksi tunniksi. Lyhennetyn työajan tulee olla yhdenjaksoinen lepotaukoja lukuun ottamatta. Jos työaika on järjestetty keskimääräiseksi, se tulee lyhentää keskimäärin 30 tunniksi viikossa.",
+      "section_number": "4",
+      "chapter_number": 4,
+      "statute_id": ""
+    },
+    {
+      "id": "85b818ff-32a3-482e-9660-aac03594d752",
+      "node_type": "Section",
+      "publisher": "finlex",
+      "title": "5 § Osittaisen hoitovapaan keskeyttäminen",
+      "text": "Osittaisen hoitovapaan muuttamisesta on sovittava. Jos siitä ei voida sopia, työntekijä voi perustellusta syystä keskeyttää vapaan noudattaen vähintään kuukauden ilmoitusaikaa.",
+      "section_number": "5",
+      "chapter_number": 4,
+      "statute_id": ""
+    },
+    {
+      "id": "064d34ba-6058-434a-9117-315742a44010",
+      "node_type": "Section",
+      "publisher": "finlex",
+      "title": "6 § Tilapäinen hoitovapaa",
+      "text": "Työntekijän lapsen tai muun hänen taloudessaan vakituisesti asuvan lapsen, joka ei ole täyttänyt 10 vuotta, sairastuessa äkillisesti on työntekijällä oikeus saada lapsen hoidon järjestämiseksi tai tämän hoitamiseksi tilapäistä hoitovapaata enintään neljä työpäivää kerrallaan. Lapsen molemmat vanhemmat tai huoltajat eivät saa pitää tilapäistä hoitovapaata samanaikaisesti. Työntekijän on ilmoitettava työnantajalle tilapäisestä hoitovapaasta ja sen arvioidusta kestosta niin pian kuin mahdollista. Työnantajan pyynnöstä työntekijän on esitettävä luotettava selvitys tilapäisen hoitovapaan perusteesta.",
+      "section_number": "6",
+      "chapter_number": 4,
+      "statute_id": ""
+    },
+    {
+      "id": "1d120f10-f311-4542-91f6-b465e812cf75",
+      "node_type": "Section",
+      "publisher": "finlex",
+      "title": "7 § Poissaolo pakottavista perhesyistä",
+      "text": "Työntekijällä on oikeus tilapäiseen poissaoloon työstä, jos hänen välitön läsnäolonsa on välttämätöntä hänen perhettään kohdanneen, sairaudesta tai onnettomuudesta johtuvan, ennalta arvaamattoman ja pakottavan syyn vuoksi. Työntekijän on ilmoitettava työnantajalle poissaolostaan ja sen syystä niin pian kuin mahdollista. Työnantajan pyynnöstä työntekijän on esitettävä luotettava selvitys poissaolonsa perusteesta.",
+      "section_number": "7",
+      "chapter_number": 4,
+      "statute_id": ""
+    },
+    {
+      "id": "2cfb1531-6a99-4d93-8a32-e64c7cffeaa0",
+      "node_type": "Section",
+      "publisher": "finlex",
+      "title": "8 § Palkanmaksuvelvollisuus",
+      "text": "Työnantajalla ei ole velvollisuutta maksaa työntekijälle palkkaa tässä luvussa tarkoitettujen perhevapaiden ajalta. Työnantajan on kuitenkin korvattava raskaana olevalle työntekijälle synnytystä edeltävistä lääketieteellisistä tutkimuksista aiheutuva ansion menetys, jos tutkimuksia ei voida suorittaa työajan ulkopuolella.",
+      "section_number": "8",
+      "chapter_number": 4,
+      "statute_id": ""
+    },
+    {
+      "id": "0997abd5-3cb3-4826-9a4a-a897bd9e72b5",
+      "node_type": "Section",
+      "publisher": "finlex",
+      "title": "9 § Työhönpaluu",
+      "text": "Tässä luvussa tarkoitettujen perhevapaiden päättyessä työntekijällä on oikeus palata ensisijaisesti aikaisempaan työhönsä. Jos tämä ei ole mahdollista, on työntekijälle tarjottava aikaisempaa työtä vastaavaa työsopimuksen mukaista työtä ja jos tämäkään ei ole mahdollista, muuta työsopimuksen mukaista työtä.",
+      "section_number": "9",
+      "chapter_number": 4,
+      "statute_id": ""
+    },
+    {
+      "id": "a666c22f-6a6e-4d85-860e-5c3ffa186d9e",
+      "node_type": "Section",
+      "publisher": "finlex",
+      "title": "1 § Lomauttamisen määritelmä",
+      "text": "Lomauttamisella tarkoitetaan työnantajan päätökseen tai hänen aloitteestaan tehtävään sopimukseen perustuvaa työnteon ja palkanmaksun väliaikaista keskeyttämistä työsuhteen pysyessä muutoin voimassa. Työnantaja saa 2 §:ssä säädettyjen perusteiden täyttyessä lomauttaa työntekijän joko määräajaksi tai toistaiseksi keskeyttämällä työnteon kokonaan tai lyhentämällä työntekijän lain tai sopimuksen mukaista säännöllistä työaikaa siinä määrin kuin se lomauttamisen perusteen kannalta on välttämätöntä. Työntekijä saa 6 §:stä johtuvin rajoituksin ottaa lomautuksen ajaksi muuta työtä. Asuntoedun käyttämisestä lomautuksen aikana säädetään 13 luvun 5 §:ssä.",
+      "section_number": "1",
+      "chapter_number": 5,
+      "statute_id": ""
+    },
+    {
+      "id": "3635524f-ccdb-46e3-a167-a45fbd2a2612",
+      "node_type": "Section",
+      "publisher": "finlex",
+      "title": "2 § Lomauttamisen perusteet",
+      "text": "Työnantaja saa lomauttaa työntekijän, jos Työnantaja ja työntekijä saavat työsuhteen kestäessä 1 momentissa ja tämän luvun 4 §:ssä säädetyn estämättä sopia määräaikaisesta lomauttamisesta silloin, kun se on tarpeen työnantajan toiminnan tai taloudellisen tilan vuoksi. Työnantaja saa lomauttaa määräaikaisessa työsuhteessa olevan työntekijän vain, jos tämä tekee työtä vakituisen työntekijän sijaisena ja työnantajalla olisi oikeus lomauttaa vakituinen työntekijä, jos hän olisi työssä. Työnantaja saa lomauttaa työehtosopimuksen perusteella valitun luottamusmiehen ja 13 luvun 3 §:ssä tarkoitetun luottamusvaltuutetun vain 7 luvun 10 §:n 2 momentissa säädetyillä perusteilla.",
+      "section_number": "2",
+      "chapter_number": 5,
+      "statute_id": ""
+    },
+    {
+      "id": "c50e3e24-0de9-46fa-bbab-9a47097e51c6",
+      "node_type": "Section",
+      "publisher": "finlex",
+      "title": "3 § Ennakkoselvitys ja työntekijän kuuleminen",
+      "text": "Työnantajan on käytettävissään olevien tietojen perusteella esitettävä työntekijälle ennakkoselvitys lomautuksen perusteista sekä sen arvioidusta laajuudesta, toteuttamistavasta, alkamisajankohdasta ja kestosta. Jos lomautus kohdistuu useaan työntekijään, selvitys voidaan antaa työntekijöiden edustajalle tai työntekijöille yhteisesti. Selvitys on esitettävä viipymättä lomautuksen tarpeen tultua työnantajan tietoon. Selvityksen antamisen jälkeen, ennen lomautusilmoitusta työnantajan on varattava työntekijöille tai heidän edustajalleen tilaisuus tulla kuulluksi annetusta selvityksestä. Ennakkoselvitystä ei tarvitse esittää, jos työnantajan on muun lain, sopimuksen tai muun häntä sitovan määräyksen perusteella esitettävä vastaava selvitys tai neuvoteltava lomauttamisesta työntekijöiden tai heidän edustajansa kanssa.",
+      "section_number": "3",
+      "chapter_number": 5,
+      "statute_id": ""
+    },
+    {
+      "id": "9d6766c7-6516-41a2-b03a-a9d84cc7f024",
+      "node_type": "Section",
+      "publisher": "finlex",
+      "title": "4 § Lomautusilmoitus",
+      "text": "Työnantajan on ilmoitettava lomauttamisesta työntekijälle henkilökohtaisesti viimeistään 14 päivää ennen lomautuksen alkamista. Jos ilmoitusta ei voida toimittaa henkilökohtaisesti, sen saa toimittaa kirjeitse tai sähköisesti samaa ilmoitusaikaa noudattaen. Ilmoituksessa on mainittava lomautuksen peruste, sen alkamisaika ja kesto tai arvioitu kesto. Ilmoitusvelvollisuutta ei ole, jos työnantajalla ei ole koko lomautusaikaan kohdistuvaa velvollisuutta maksaa työntekijälle palkkaa muun työstä poissaolon vuoksi. Ilmoitus on annettava tiedoksi lomautettavien työntekijöiden edustajalle. Jos lomautus kohdistuu vähintään 10 työntekijään, työnantajan on ilmoitettava tästä myös työvoimaviranomaiselle, paitsi jos hänellä on muun lain perusteella vastaava velvollisuus.",
+      "section_number": "4",
+      "chapter_number": 5,
+      "statute_id": ""
+    },
+    {
+      "id": "6baf6ee6-302d-4df8-a38e-8d7ceb36ec60",
+      "node_type": "Section",
+      "publisher": "finlex",
+      "title": "5 § Todistus lomauttamisesta",
+      "text": "Työnantajan on työntekijän pyynnöstä annettava lomautuksesta kirjallinen todistus, josta käyvät ilmi ainakin lomautuksen syy, alkamisaika sekä sen kesto tai arvioitu kesto.",
+      "section_number": "5",
+      "chapter_number": 5,
+      "statute_id": ""
+    },
+    {
+      "id": "6940edbd-7f8e-4a6a-8d51-ebf1c00e92b0",
+      "node_type": "Section",
+      "publisher": "finlex",
+      "title": "6 § Työhönpaluu lomautuksen jälkeen",
+      "text": "Jos työntekijä on lomautettu toistaiseksi, työnantajan on ilmoitettava työn alkamisesta vähintään seitsemän päivää aikaisemmin, jollei toisin ole sovittu. Työntekijällä on oikeus irtisanoa lomautuksen ajaksi toisen työnantajan kanssa tekemänsä työsopimus sen kestosta riippumatta viiden päivän irtisanomisaikaa noudattaen.",
+      "section_number": "6",
+      "chapter_number": 5,
+      "statute_id": ""
+    },
+    {
+      "id": "387b62f2-61a4-4635-8cd1-8c850bbadbcd",
+      "node_type": "Section",
+      "publisher": "finlex",
+      "title": "7 § Lomautetun työntekijän työsuhteen päättyminen",
+      "text": "Työntekijä saa lomautuksen aikana irtisanoa työsopimuksensa sen kestosta riippumatta ilman irtisanomisaikaa. Jos lomautuksen päättymisaika on työntekijän tiedossa, tätä oikeutta ei ole lomautuksen päättymistä edeltävän seitsemän päivän aikana. Jos työnantaja irtisanoo lomautetun työntekijän työsopimuksen päättymään lomautuksen aikana, työntekijällä on oikeus saada irtisanomisajan palkkansa. Työnantaja saa vähentää irtisanomisajan palkasta 14 päivän palkan, jos työntekijä on lomautettu lain tai sopimuksen mukaista yli 14 päivän lomautusilmoitusaikaa käyttäen. Jos työntekijä irtisanoo työsopimuksensa lomautuksen kestettyä yhdenjaksoisesti vähintään 200 päivää, hänellä on oikeus saada korvauksena irtisanomisajan palkkansa, kuten 2 momentissa säädetään.",
+      "section_number": "7",
+      "chapter_number": 5,
+      "statute_id": ""
+    },
+    {
+      "id": "cdeb32b4-3e6f-494a-9e83-f55e370a3884",
+      "node_type": "Section",
+      "publisher": "finlex",
+      "title": "1 § Määräaikaiset sopimukset",
+      "text": "Määräaikainen työsopimus päättyy ilman irtisanomista määräajan päättyessä tai sovitun työn valmistuessa. Jos työsopimuksen päättymisen ajankohta on vain työnantajan tiedossa, hänen on ilmoitettava työntekijälle työsopimuksen päättymisestä viipymättä päättymisajankohdan tultua hänen tietoonsa. Viittä vuotta pidemmäksi määräajaksi tehty työsopimus on viiden vuoden kuluttua sopimuksen tekemisestä irtisanottavissa samoin perustein ja menettelytavoin kuin toistaiseksi voimassa oleva työsopimus.",
+      "section_number": "1",
+      "chapter_number": 6,
+      "statute_id": ""
+    },
+    {
+      "id": "1aa499fc-a7ce-4ecf-9929-8bcbbca9f927",
+      "node_type": "Section",
+      "publisher": "finlex",
+      "title": "2 § Yleiset säännökset irtisanomisajoista",
+      "text": "Toistaiseksi tehty tai muutoin toistaiseksi voimassa oleva työsopimus päätetään toisen sopijapuolen tietoon saatettavalla irtisanomisella. Irtisanomisaika voidaan sopia enintään kuudeksi kuukaudeksi. Jos on sovittu pidemmästä ajasta, tämän sijasta on noudatettava kuuden kuukauden irtisanomisaikaa. Työnantajan noudatettava irtisanomisaika voidaan sopia työntekijän irtisanomisaikaa pidemmäksi. Jos työnantajan noudatettavaksi sovittu irtisanomisaika on työntekijän irtisanomisaikaa lyhyempi, saa työntekijä noudattaa työnantajan noudatettavaksi sovittua irtisanomisaikaa. Jos työsopimus saadaan irtisanoa ilman irtisanomisaikaa, työsuhde päättyy sen työpäivän tai työvuoron päättyessä, jonka aikana irtisanomisilmoitus on toimitettu toiselle sopijapuolelle.",
+      "section_number": "2",
+      "chapter_number": 6,
+      "statute_id": ""
+    },
+    {
+      "id": "9e700d7c-789e-4f5d-b18f-a379f457eb87",
+      "node_type": "Section",
+      "publisher": "finlex",
+      "title": "3 § Yleiset irtisanomisajat",
+      "text": "Jollei muusta sovita, työnantajan noudatettavat irtisanomisajat työsuhteen jatkuttua keskeytyksettä ovat: Jollei muusta sovita, työntekijän noudatettavat irtisanomisajat työsuhteen jatkuttua keskeytyksettä ovat:",
+      "section_number": "3",
+      "chapter_number": 6,
+      "statute_id": ""
+    },
+    {
+      "id": "5bb0b1bb-c85f-4fe4-bb62-346e49fe40c8",
+      "node_type": "Section",
+      "publisher": "finlex",
+      "title": "4 § Irtisanomisajan noudattamatta jättäminen",
+      "text": "Työnantajan, joka on irtisanonut työsopimuksen noudattamatta irtisanomisaikaa, on maksettava työntekijälle korvauksena täysi palkka irtisanomisaikaa vastaavalta ajalta. Työntekijä, joka ei ole noudattanut irtisanomisaikaa, on velvollinen suorittamaan työnantajalle kertakaikkisena korvauksena irtisanomisajan palkkaa vastaavan määrän. Jos irtisanomisajan noudattaminen on laiminlyöty vain osittain, korvausvelvollisuus rajoittuu noudattamatta jääneen irtisanomisajan osan palkkaa vastaavaksi.",
+      "section_number": "4",
+      "chapter_number": 6,
+      "statute_id": ""
+    },
+    {
+      "id": "40bca979-6f38-46c9-8f9a-dcfa26787a1b",
+      "node_type": "Section",
+      "publisher": "finlex",
+      "title": "5 § Sopimussuhteen hiljainen pidennys",
+      "text": "Jos työnantaja sallii työntekijän jatkaa työtä sopimuskauden tai irtisanomisajan päättymisen jälkeen, katsotaan sopimussuhdetta jatketun toistaiseksi.",
+      "section_number": "5",
+      "chapter_number": 6,
+      "statute_id": ""
+    },
+    {
+      "id": "1b7071cc-bce9-4456-92f4-cf2379a7b837",
+      "node_type": "Section",
+      "publisher": "finlex",
+      "title": "6 § Työntekijän takaisin ottaminen",
+      "text": "Työnantajan on tarjottava työtä 7 luvun 3 tai 7 §:ssä säädetyillä perusteilla irtisanomalleen, työvoimatoimistosta edelleen työtä hakevalle entiselle työntekijälleen, jos hän tarvitsee työntekijöitä yhdeksän kuukauden kuluessa työsuhteen päättymisestä samoihin tai samankaltaisiin tehtäviin, joita irtisanottu työntekijä oli tehnyt. Edellä 1 luvun 10 §:n 2 momentista poiketen tämä velvollisuus koskee vastaavasti myös 1 luvun 10 §:ssä tarkoitettua liikkeen luovutuksensaajaa silloin, kun luovuttaja on irtisanonut työntekijän työsopimuksen päättymään ennen luovutushetkeä.",
+      "section_number": "6",
+      "chapter_number": 6,
+      "statute_id": ""
+    },
+    {
+      "id": "ffeceec8-0a95-4439-ac87-a024451d6f01",
+      "node_type": "Section",
+      "publisher": "finlex",
+      "title": "7 § Työtodistus",
+      "text": "Työsuhteen päättyessä työntekijällä on oikeus saada pyynnöstään työnantajalta kirjallinen todistus työsuhteen kestosta ja työtehtävien laadusta. Työntekijän nimenomaisesta pyynnöstä todistuksessa on lisäksi mainittava työsuhteen päättymisen syy sekä arvio työntekijän työtaidosta ja käytöksestä. Työtodistuksesta ei saa ilmetä muuta kuin mitä sen sanamuodosta käy ilmi. Työnantajalla on velvollisuus antaa työntekijälle työtodistus, jos sitä pyydetään 10 vuoden kuluessa työsuhteen päättymisestä. Todistusta työntekijän työtaidosta ja käytöksestä on kuitenkin pyydettävä viiden vuoden kuluessa työsuhteen päättymisestä. Jos työsuhteen päättymisestä on kulunut yli 10 vuotta, työtodistus työsuhteen kestosta ja työtehtävien laadusta on annettava vain, jos siitä ei aiheudu työnantajalle kohtuutonta hankaluutta. Samoin edellytyksin työnantajan on annettava kadonneen tai turmeltuneen työtodistuksen tilalle uusi todistus.",
+      "section_number": "7",
+      "chapter_number": 6,
+      "statute_id": ""
+    },
+    {
+      "id": "990e20cc-05f0-4745-a950-383928950a9f",
+      "node_type": "Section",
+      "publisher": "finlex",
+      "title": "1 § Yleissäännös irtisanomisperusteista",
+      "text": "Työnantaja saa irtisanoa toistaiseksi voimassa olevan työsopimuksen vain asiallisesta ja painavasta syystä.",
+      "section_number": "1",
+      "chapter_number": 7,
+      "statute_id": ""
+    },
+    {
+      "id": "52093197-9f5d-454a-ae4f-e8e55690eac4",
+      "node_type": "Section",
+      "publisher": "finlex",
+      "title": "2 § Työntekijän henkilöön liittyvät irtisanomis- perusteet",
+      "text": "Työntekijästä johtuvana tai hänen henkilöönsä liittyvänä asiallisena ja painavana irtisanomisperusteena voidaan pitää työsopimuksesta tai laista johtuvien, työsuhteeseen olennaisesti vaikuttavien velvoitteiden vakavaa rikkomista tai laiminlyöntiä sekä sellaisten työntekijän henkilöön liittyvien työntekoedellytysten olennaista muuttumista, joiden vuoksi työntekijä ei enää kykene selviytymään työtehtävistään. Syyn asiallisuutta ja painavuutta arvioitaessa on otettava huomioon työnantajan ja työntekijän olosuhteet kokonaisuudessaan. Asiallisena ja painavana irtisanomisperusteena ei voida pitää ainakaan: Työntekijää, joka on laiminlyönyt työsuhteesta johtuvien velvollisuuksiensa täyttämisen tai rikkonut niitä, ei kuitenkaan saa irtisanoa ennen kuin hänelle on varoituksella annettu mahdollisuus korjata menettelynsä. Työnantajan on kuultuaan työntekijää 9 luvun 2 §:ssä tarkoitetulla tavalla ennen irtisanomista selvitettävä, olisiko irtisanominen vältettävissä sijoittamalla työntekijä muuhun työhön. Jos irtisanomisen perusteena on niin vakava työsuhteeseen liittyvä rikkomus, että työnantajalta ei voida kohtuudella edellyttää sopimussuhteen jatkamista, ei 3 ja 4 momentissa säädettyä tarvitse noudattaa.",
+      "section_number": "2",
+      "chapter_number": 7,
+      "statute_id": ""
+    },
+    {
+      "id": "153aa333-1cb8-4331-b988-c419f0d8ee87",
+      "node_type": "Section",
+      "publisher": "finlex",
+      "title": "3 § Taloudelliset ja tuotannolliset irtisanomis- perusteet",
+      "text": "Työnantaja saa irtisanoa työsopimuksen, kun tarjolla oleva työ on taloudellisista, tuotannollisista tai työnantajan toiminnan uudelleenjärjestelyistä johtuvista syistä vähentynyt olennaisesti ja pysyvästi. Työsopimusta ei kuitenkaan saa irtisanoa, jos työntekijä on sijoitettavissa tai koulutettavissa toisiin tehtäviin 4 §:ssä säädetyllä tavalla. Perustetta irtisanomiseen ei ole ainakaan silloin, kun",
+      "section_number": "3",
+      "chapter_number": 7,
+      "statute_id": ""
+    },
+    {
+      "id": "151bdfa0-9e72-4295-8f0a-103e8db95d7d",
+      "node_type": "Section",
+      "publisher": "finlex",
+      "title": "4 § Työn tarjoamis- ja koulutusvelvollisuus",
+      "text": "Työntekijälle on tarjottava ensisijaisesti hänen työsopimuksensa mukaista työtä vastaavaa työtä. Jos tällaista työtä ei ole, työntekijälle on tarjottava muuta hänen koulutustaan, ammattitaitoaan tai kokemustaan vastaavaa työtä. Työnantajan on järjestettävä työntekijälle sellaista uusien tehtävien edellyttämää koulutusta, jota voidaan molempien sopijapuolten kannalta pitää tarkoituksenmukaisena ja kohtuullisena. Jos työnantajalla, joka tosiasiallisesti käyttää henkilöstöasioissa määräysvaltaa toisessa yrityksessä tai yhteisössä omistuksen, sopimuksen tai muun järjestelyn perusteella, ei ole tarjota työntekijälle 1 momentissa tarkoitettua työtä, on hänen selvitettävä, voiko hän täyttää työn tarjoamis- ja koulutusvelvollisuutensa tarjoamalla työntekijälle työtä muista määräysvallassaan olevista yrityksistä tai yhteisöistä.",
+      "section_number": "4",
+      "chapter_number": 7,
+      "statute_id": ""
+    },
+    {
+      "id": "eb06c088-c26b-4456-a015-e7978e8cefa4",
+      "node_type": "Section",
+      "publisher": "finlex",
+      "title": "5 § Irtisanomisoikeus liikkeen luovutuksen yhteydessä",
+      "text": "Luovutuksensaaja ei saa irtisanoa työntekijän työsopimusta pelkästään 1 luvun 10 §:ssä tarkoitetun liikkeen luovutuksen perusteella. Työnantajan luovuttaessa liikkeensä 1 luvun 10 §:ssä säädetyllä tavalla työntekijä saa työsuhteessa muutoin sovellettavaa irtisanomisaikaa noudattamatta tai sen kestoajasta riippumatta irtisanoa työsopimuksen päättymään luovutuspäivästä, jos hän on saanut tiedon luovutuksesta työnantajalta tai liikkeen uudelta haltijalta viimeistään kuukautta ennen luovutuspäivää. Jos työntekijälle on annettu tieto luovutuksesta myöhemmin, hän saa irtisanoa työsopimuksensa päättymään luovutuspäivästä tai tämän jälkeen, viimeistään kuitenkin kuukauden kuluessa saatuaan tiedon luovutuksesta.",
+      "section_number": "5",
+      "chapter_number": 7,
+      "statute_id": ""
+    },
+    {
+      "id": "e3bcf869-acd8-43a7-826a-6a031a97875d",
+      "node_type": "Section",
+      "publisher": "finlex",
+      "title": "6 § Luovutuksensaajan vastuu",
+      "text": "Jos työsopimus päätetään siksi, että työntekijän työehdot heikkenevät olennaisesti liikkeen luovutuksen johdosta, työnantajan katsotaan olevan vastuussa työsuhteen päättymisestä.",
+      "section_number": "6",
+      "chapter_number": 7,
+      "statute_id": ""
+    },
+    {
+      "id": "b53c5e35-c936-4758-ba63-409da4e446c6",
+      "node_type": "Section",
+      "publisher": "finlex",
+      "title": "7 § Irtisanominen saneerausmenettelyn yhteydessä",
+      "text": "Jos työnantaja on yrityksen saneerauksesta annetussa laissa (47/1993) tarkoitetun menettelyn kohteena, työnantaja saa, ellei 4 §:stä johdu muuta, irtisanoa työsopimuksen sen kestosta riippumatta noudattaen kahden kuukauden irtisanomisaikaa, jos Työntekijän noudatettava irtisanomisaika saneerausmenettelyn yhteydessä on 14 päivää, jos 5 luvun 7 §:n 1 momentista ei muuta johdu.",
+      "section_number": "7",
+      "chapter_number": 7,
+      "statute_id": ""
+    },
+    {
+      "id": "8b164b94-9ce3-4a4e-ade9-48e18be71daa",
+      "node_type": "Section",
+      "publisher": "finlex",
+      "title": "8 § Työnantajan konkurssi ja kuolema",
+      "text": "Kun työnantaja asetetaan konkurssiin, saadaan työsopimus sen kestosta riippumatta molemmin puolin irtisanoa päättymään. Irtisanomisaika on 14 päivää. Palkan konkurssin ajalta maksaa konkurssipesä. Työnantajan kuoltua on sekä kuolinpesän osakkailla että työntekijällä oikeus irtisanoa työsopimus sen kestosta riippumatta. Irtisanomisaika on 14 päivää. Irtisanomisoikeutta on käytettävä kolmen kuukauden kuluessa työnantajan kuolemasta.",
+      "section_number": "8",
+      "chapter_number": 7,
+      "statute_id": ""
+    },
+    {
+      "id": "78ae0edb-a20a-4366-a931-65912d955e69",
+      "node_type": "Section",
+      "publisher": "finlex",
+      "title": "9 § Raskaana tai perhevapaalla olevan työntekijän irtisanominen",
+      "text": "Työnantaja ei saa irtisanoa työsopimusta työntekijän raskauden johdosta eikä sillä perusteella, että työntekijä käyttää oikeuttaan 4 luvussa säädettyyn perhevapaaseen. Työnantajan pyynnöstä työntekijän on esitettävä selvitys raskaudestaan. Jos työnantaja irtisanoo raskaana olevan tai perhevapaata käyttävän työntekijän työsopimuksen, katsotaan irtisanomisen johtuneen työntekijän raskaudesta tai perhevapaan käyttämisestä, ellei työnantaja voi osoittaa sen johtuneen muusta seikasta. Työnantaja saa irtisanoa äitiys-, erityisäitiys-, isyys-, vanhempain- tai hoitovapaalla olevan työntekijän työsopimuksen 3 §:ssä säädetyillä perusteilla vain, jos työnantajan toiminta päättyy kokonaan.",
+      "section_number": "9",
+      "chapter_number": 7,
+      "statute_id": ""
+    },
+    {
+      "id": "c11d1f6b-d178-42fa-99a0-1f304f3ef6db",
+      "node_type": "Section",
+      "publisher": "finlex",
+      "title": "10 § Luottamusmiehen ja luottamusvaltuutetun irtisanomissuoja",
+      "text": "Työnantaja saa irtisanoa työehtosopimuksen perusteella valitun luottamusmiehen ja 13 luvun 3 §:ssä tarkoitetun luottamusvaltuutetun työsopimuksen tämän luvun 2 §:ssä tarkoitetulla perusteella vain, jos niiden työntekijöiden enemmistö, joita luottamusmies tai luottamusvaltuutettu edustaa, antaa siihen suostumuksensa. Työnantaja saa irtisanoa luottamusmiehen ja luottamusvaltuutetun työsopimuksen 3 tai 7 §:ssä taikka 8 §:n 1 momentissa säädetyillä perusteilla vain, jos luottamusmiehen tai luottamusvaltuutetun työ päättyy kokonaan, eikä työnantaja voi järjestää hänelle hänen ammattitaitoaan vastaavaa tai hänelle muutoin sopivaa työtä tai kouluttaa häntä muuhun työhön 4 §:ssä tarkoitetulla tavalla.",
+      "section_number": "10",
+      "chapter_number": 7,
+      "statute_id": ""
+    },
+    {
+      "id": "d8c9f954-e61f-4375-b412-16a59bb28037",
+      "node_type": "Section",
+      "publisher": "finlex",
+      "title": "11 § Työsuhteen muuttaminen osa-aikaiseksi",
+      "text": "Työnantaja saa yksipuolisesti muuttaa työsuhteen osa-aikaiseksi 3 §:ssä tarkoitetulla irtisanomisperusteella irtisanomisaikaa noudattaen.",
+      "section_number": "11",
+      "chapter_number": 7,
+      "statute_id": ""
+    },
+    {
+      "id": "b713d6a8-5458-4e29-98af-e5782b56e601",
+      "node_type": "Section",
+      "publisher": "finlex",
+      "title": "1 § Purkamisperuste",
+      "text": "Työnantaja saa purkaa työsopimuksen noudatettavasta irtisanomisajasta tai työsopimuksen kestosta riippumatta päättyväksi heti vain erittäin painavasta syystä. Tällaisena syynä voidaan pitää työntekijän työsopimuksesta tai laista johtuvien, työsuhteeseen olennaisesti vaikuttavien velvoitteiden niin vakavaa rikkomista tai laiminlyöntiä, että työnantajalta ei voida kohtuudella edellyttää sopimussuhteen jatkamista edes irtisanomisajan pituista aikaa. Työntekijä saa vastaavasti purkaa työsopimuksen päättyväksi heti, jos työnantaja rikkoo tai laiminlyö työsopimuksesta tai laista johtuvia, työsuhteessa olennaisesti vaikuttavia velvoitteitaan niin vakavasti, että työntekijältä ei voida kohtuudella edellyttää sopimussuhteen jatkamista edes irtisanomisajan pituista aikaa.",
+      "section_number": "1",
+      "chapter_number": 8,
+      "statute_id": ""
+    },
+    {
+      "id": "7b48047c-47f0-4fd9-95e8-728243991e52",
+      "node_type": "Section",
+      "publisher": "finlex",
+      "title": "2 § Purkamisoikeuden raukeaminen",
+      "text": "Purkamisoikeus raukeaa, jos työsopimusta ei ole purettu 14 päivän kuluessa siitä, kun sopijapuoli sai tiedon 1 §:ssä tarkoitetun purkamisperusteen täyttymisestä. Jos purkaminen estyy pätevän syyn vuoksi, sen saa toimittaa 14 päivän kuluessa esteen lakkaamisesta.",
+      "section_number": "2",
+      "chapter_number": 8,
+      "statute_id": ""
+    },
+    {
+      "id": "7ac5f7da-c7bb-4954-89d7-a2464e092db6",
+      "node_type": "Section",
+      "publisher": "finlex",
+      "title": "3 § Työsopimuksen purkautuneena pitäminen",
+      "text": "Jos työntekijä on ollut poissa työstä vähintään seitsemän päivää ilmoittamatta sinä aikana työnantajalle pätevää syytä poissaololleen, työnantaja saa käsitellä työsopimusta purkautuneena poissaolon alkamisesta lukien. Jos työnantaja on poissa työpaikalta vähintään seitsemän päivää ilmoittamatta sinä aikana työntekijälle pätevää syytä poissaololleen, työntekijä saa katsoa työsopimuksen purkautuneen. Jos poissaolosta ei ole voitu ilmoittaa toiselle sopijapuolelle hyväksyttävän esteen vuoksi, työsopimuksen purkautuminen peruuntuu.",
+      "section_number": "3",
+      "chapter_number": 8,
+      "statute_id": ""
+    },
+    {
+      "id": "f9eff134-8be7-4735-8ca5-2019bfda0676",
+      "node_type": "Section",
+      "publisher": "finlex",
+      "title": "1 § Irtisanomisperusteeseen vetoaminen",
+      "text": "Työnantajan on toimitettava työsopimuksen irtisanominen kohtuullisen ajan kuluessa siitä, kun työnantaja sai tiedon 7 luvun 2 §:ssä tarkoitetusta työntekijän henkilöön liittyvästä irtisanomisen perusteesta.",
+      "section_number": "1",
+      "chapter_number": 9,
+      "statute_id": ""
+    },
+    {
+      "id": "e3e2dfc4-800f-47ae-b672-5bd50f4f7b8b",
+      "node_type": "Section",
+      "publisher": "finlex",
+      "title": "2 § Työntekijän ja työnantajan kuuleminen",
+      "text": "Ennen kuin työnantaja irtisanoo työsopimuksen 7 luvun 2 §:ssä tarkoitetulla perusteella tai purkaa työsopimuksen 1 luvun 4 §:n perusteella tai 8 luvun 1 §:ssä tarkoitetusta syystä, työnantajan on varattava työntekijälle tilaisuus tulla kuulluksi työsopimuksen päättämisen syistä. Työntekijällä on oikeus häntä kuultaessa käyttää avustajaa. Ennen kuin työntekijä purkaa työsopimuksen 8 luvun 1 §:ssä tarkoitetusta syystä, työntekijän on varattava työnantajalle tilaisuus tulla kuulluksi työsopimuksen purkamisen perusteesta.",
+      "section_number": "2",
+      "chapter_number": 9,
+      "statute_id": ""
+    },
+    {
+      "id": "96d75437-93fe-4c74-9247-de7e608442d9",
+      "node_type": "Section",
+      "publisher": "finlex",
+      "title": "3 § Työnantajan selvitysvelvollisuus",
+      "text": "Ennen kuin työnantaja irtisanoo työsopimuksen 7 luvun 3 tai 7 §:n perusteella, työnantajan on selvitettävä irtisanottavalle työntekijälle irtisanomisen perusteet ja vaihtoehdot niin hyvissä ajoin kuin mahdollista. Jos työsopimus irtisanotaan 7 luvun 8 §:n perusteella, konkurssi- tai kuolinpesän on esitettävä selvitys irtisanomisen perusteesta työntekijöille niin pian kuin mahdollista. Jos irtisanominen kohdistuu useaan työntekijään, selvitys voidaan antaa työntekijöiden edustajalle tai jollei tällaista ole valittu, työntekijöille yhteisesti. Jos työnantaja on lain säännöksen, sopimuksen tai muun häntä sitovan määräyksen mukaan velvollinen neuvottelemaan irtisanomisen perusteesta työntekijöiden tai heidän edustajiensa kanssa, työnantajalla ei ole 1 ja 2 momentissa tarkoitettua selvitysvelvollisuutta.",
+      "section_number": "3",
+      "chapter_number": 9,
+      "statute_id": ""
+    },
+    {
+      "id": "6aa5e9a6-983c-4fe9-abda-55ab2e0cb4b0",
+      "node_type": "Section",
+      "publisher": "finlex",
+      "title": "4 § Työsopimuksen päättämisilmoituksen toimittaminen",
+      "text": "Työsopimuksen päättämisilmoitus on toimitettava työnantajalle tai tämän edustajalle tai työntekijälle henkilökohtaisesti. Jos tämä ei ole mahdollista, ilmoitus voidaan toimittaa kirjeitse tai sähköisesti. Tällaisen ilmoituksen katsotaan tulleen vastaanottajan tietoon viimeistään seitsemäntenä päivänä sen jälkeen, kun ilmoitus on lähetetty. Työntekijän ollessa lain tai sopimuksen mukaisella vuosilomalla tai työajan tasaamiseksi annetulla vähintään kahden viikon pituisella vapaalla katsotaan kirjeitse tai sähköisesti lähetettyyn ilmoitukseen perustuva työsuhteen päättäminen toimitetuksi kuitenkin aikaisintaan loman tai vapaan päättymistä seuraavana päivänä. Toimitettaessa työsopimuksen päättämisilmoitus kirjeitse tai sähköisesti katsotaan 1 luvun 4 §:n mukaiseen perusteeseen ja 8 luvun 1 §:ssä tarkoitettuihin työsopimuksen päättämisperusteisiin vedotun sovitussa tai säädetyssä ajassa, jos ilmoitus on tuon ajan kuluessa jätetty postin kuljetettavaksi tai lähetetty sähköisesti.",
+      "section_number": "4",
+      "chapter_number": 9,
+      "statute_id": ""
+    },
+    {
+      "id": "792f0e8c-42bf-4a8c-9633-378ac29fb61a",
+      "node_type": "Section",
+      "publisher": "finlex",
+      "title": "5 § Päättämisperusteiden ilmoittaminen työntekijälle",
+      "text": "Työnantajan on työntekijän pyynnöstä viivytyksettä ilmoitettava tälle kirjallisesti työsopimuksen päättymispäivämäärä sekä ne hänen tiedossaan olevat irtisanomisen tai purkamisen syyt, joiden perusteella työsopimus on päätetty.",
+      "section_number": "5",
+      "chapter_number": 9,
+      "statute_id": ""
+    },
+    {
+      "id": "c9cb8513-4930-4836-99ec-e35713a6df66",
+      "node_type": "Section",
+      "publisher": "finlex",
+      "title": "1 § Oikeustoimilain mukainen pätemättömyys",
+      "text": "Jos työsopimus ei sido työntekijää oikeustoimilain 3 luvussa säädetyn pätemättömyysperusteen vuoksi, työntekijällä on pätemättömyyden voimaan saattamisen sijasta oikeus irtisanoa työsopimus päättymään heti, jollei pätemättömyysperuste ole menettänyt merkitystään.",
+      "section_number": "1",
+      "chapter_number": 10,
+      "statute_id": ""
+    },
+    {
+      "id": "261cdc43-d9ae-40d2-b0f4-fcb1cfe3f093",
+      "node_type": "Section",
+      "publisher": "finlex",
+      "title": "2 § Kohtuuttomat ehdot",
+      "text": "Jos työsopimuksen ehdon soveltaminen olisi hyvän tavan vastaista tai muutoin kohtuutonta, ehtoa voidaan sovitella tai se voidaan jättää huomioon ottamatta.",
+      "section_number": "2",
+      "chapter_number": 10,
+      "statute_id": ""
+    },
+    {
+      "id": "c2b6921b-a657-4d63-9d81-7e3cb56d7eb0",
+      "node_type": "Section",
+      "publisher": "finlex",
+      "title": "3 § Mitättömän ehdon vaikutukset",
+      "text": "Vaikka työsopimuksen ehto on työntekijän suojaksi annetun säännöksen vastaisena mitätön, työsopimus on muilta osin voimassa.",
+      "section_number": "3",
+      "chapter_number": 10,
+      "statute_id": ""
+    },
+    {
+      "id": "c79cfbed-822b-428e-867c-04c17db4ccd6",
+      "node_type": "Section",
+      "publisher": "finlex",
+      "title": "4 § Vajaavaltaisuuteen perustuva pätemättömyys",
+      "text": "Työnantaja ei saa vedota työntekijän vajaavaltaisuudesta johtuvaan sopimuksen pätemättömyyteen niin kauan kuin vajaavaltainen täyttää sopimusvelvoitteensa.",
+      "section_number": "4",
+      "chapter_number": 10,
+      "statute_id": ""
+    },
+    {
+      "id": "a9728b7e-94c5-41c5-8b51-5b2ef791a0b6",
+      "node_type": "Section",
+      "publisher": "finlex",
+      "title": "1 § Työsopimukseen sovellettava laki",
+      "text": "Jos työsopimuksella on liittymä useampaan kuin yhteen valtioon, työsopimukseen sovellettava laki määräytyy Roomassa 19 päivänä kesäkuuta 1980 tehdyn sopimusvelvoitteisiin sovellettavaa lakia koskevan yleissopimuksen mukaisesti.",
+      "section_number": "1",
+      "chapter_number": 11,
+      "statute_id": ""
+    },
+    {
+      "id": "8f15ba04-c11c-4ad8-9382-d24e53b66292",
+      "node_type": "Section",
+      "publisher": "finlex",
+      "title": "2 § Lähetetyt työntekijät",
+      "text": "Suomeen lähetettyjen työntekijöiden työsuhteiden vähimmäisehdoista ja työoloista säädetään lähetetyistä työntekijöistä annetussa laissa (1146/1999).",
+      "section_number": "2",
+      "chapter_number": 11,
+      "statute_id": ""
+    },
+    {
+      "id": "614452d8-c4b1-4548-a85e-a49f8f9986f2",
+      "node_type": "Section",
+      "publisher": "finlex",
+      "title": "1 § Yleinen vahingonkorvausvelvollisuus",
+      "text": "Työnantajan, joka tahallaan tai huolimattomuudesta rikkoo tai laiminlyö työsuhteesta tai tästä laista johtuvia velvollisuuksia, on korvattava työntekijälle siten aiheuttamansa vahinko. Edellä 1 momentissa säädetystä poiketen korvausvelvollisuus 1 luvun 4 §:ssä taikka 7 tai 8 luvussa säädettyjen perusteiden vastaisesta työsopimuksen päättämisestä määräytyy 2 §:n mukaan. Työntekijän, joka tahallaan tai huolimattomuudesta rikkoo tai laiminlyö työsopimuksesta tai tästä laista johtuvia velvollisuuksia tai aiheuttaa työssään työnantajalle vahinkoa, on korvattava työnantajalle aiheuttamansa vahinko vahingonkorvauslain (412/1974) 4 luvun 1 §:ssä säädettyjen perusteiden mukaan. Korvaus irtisanomisajan noudattamatta jättämisestä määräytyy 6 luvun 4 §:n mukaan. Vähintään 200 päivää lomautettuna olleen työntekijän oikeudesta saada työsopimuksen irtisanoessaan irtisanomisajan palkkaa tai sen osaa vastaava korvaus irtisanomisajalta säädetään 5 luvun 7 §:n 3 momentissa.",
+      "section_number": "1",
+      "chapter_number": 12,
+      "statute_id": ""
+    },
+    {
+      "id": "bd9709e1-7257-432d-8541-b832c3753836",
+      "node_type": "Section",
+      "publisher": "finlex",
+      "title": "2 § Korvaus työsopimuksen perusteettomasta päättämisestä",
+      "text": "Työnantaja, joka on tässä laissa säädettyjen perusteiden vastaisesti päättänyt työsopimuksen, on määrättävä maksamaan korvausta työsopimuksen perusteettomasta päättämisestä. Jos työntekijä on purkanut työsopimuksen 8 luvun 1 §:ssä säädetyllä perusteella, joka on johtunut työnantajan tahallisesta tai huolimattomasta menettelystä, työnantaja on määrättävä maksamaan korvausta työsopimuksen perusteettomasta päättämisestä. Yksinomaisena korvauksena on suoritettava vähintään kolmen ja enintään 24 kuukauden palkka. Työehtosopimuksen perusteella valitulle luottamusmiehelle ja jäljempänä 13 luvun 3 §:ssä tarkoitetulle luottamusvaltuutetulle suoritettavan korvauksen enimmäismäärä on kuitenkin 30 kuukauden palkka. Korvauksen suuruutta määrättäessä otetaan työsopimuksen päättämisen syystä riippuen huomioon työtä vaille jäämisen arvioitu kesto ja ansion menetys, määräaikaisen työsopimuksen jäljellä ollut kestoaika, työsuhteen kesto, työntekijän ikä ja hänen mahdollisuutensa saada ammattiaan tai koulutustaan vastaavaa työtä, työnantajan menettely työsopimusta päätettäessä, työntekijän itsensä antama aihe työsopimuksen päättämiseen, työntekijän ja työnantajan olot yleensä sekä muut näihin rinnastettavat seikat. Jos työnantaja on irtisanonut työsopimuksen vastoin 7 luvun 3 tai 7 §:ssä säädettyjä perusteita tai purkanut sen 1 luvun 4 §:n tai yksinomaan 8 luvun 1 §:ssä säädettyjen perusteiden vastaisesti, korvausta määrättäessä ei sovelleta 1 momentin säännöstä korvauksen vähimmäismäärästä.",
+      "section_number": "2",
+      "chapter_number": 12,
+      "statute_id": ""
+    },
+    {
+      "id": "6ad24f19-e73d-489e-b198-c36763d0711a",
+      "node_type": "Section",
+      "publisher": "finlex",
+      "title": "3 § Työttömyyspäivärahan vaikutus vahingonkorvauksen ja korvauksen maksamiseen",
+      "text": "Edellä 2 §:n mukaan määrätystä korvauksesta siltä osin kuin se on korvausta työntekijälle ennen tuomion julistamista tai antamista menetetyistä työttömyydestä johtuvista palkkaeduista on vähennettävä Tuomioistuin voi tehdä korvauksesta 1 momentissa säädettyä pienemmän vähennyksen tai jättää vähennyksen kokonaan tekemättä, jos se on korvauksen määrä, työntekijän taloudelliset ja sosiaaliset olot sekä hänen kokemansa loukkaus huomioon ottaen kohtuullista. Edellä 1 momentin 1 kohdassa tarkoitettua asiaa käsiteltäessä tuomioistuimen on varattava työttömyysvakuutusrahastolle ja etuuden maksaneelle työttömyyskassalle tilaisuus tulla kuulluksi. Tuomioistuimen on velvoitettava työnantaja maksamaan korvauksesta vähennetty rahamäärä työttömyysvakuutusrahastolle ja toimitettava asiassa annettu lainvoiman saanut tuomio tai päätös sille tiedoksi. Mitä tässä säädetään työttömyysvakuutusrahastosta, koskee vastaavasti kansaneläkelaitosta käsiteltäessä 1 momentin 2 tai 3 kohdassa tarkoitettua asiaa. Jos työnantajan korvausvelvollisuudesta tehdään sopimus, siinä on erikseen mainittava 2 §:n nojalla sovittu kokonaiskorvaus sekä siihen sisältyvä työntekijälle työttömyydestä johtuvista, ennen sopimuksen tekemistä menetetyistä palkkaeduista maksettava korvaus. Korvauksesta on tehtävä vähennys noudattaen, mitä 1 ja 2 momentissa säädetään. Työnantaja vastaa siitä, että korvauksesta vähennetty rahamäärä suoritetaan työttömyysvakuutusrahastolle tai kansaneläkelaitokselle ja että sopimusjäljennös toimitetaan sille tiedoksi. Mitä edellä säädetään 2 §:n mukaan määrätystä korvauksesta, sovelletaan myös perusteettoman lomauttamisen johdosta 1 §:n 1 momentin nojalla määrättyyn vahingonkorvaukseen.",
+      "section_number": "3",
+      "chapter_number": 12,
+      "statute_id": ""
+    },
+    {
+      "id": "e2ae8593-c3ad-4311-ad05-1d37fa417af1",
+      "node_type": "Section",
+      "publisher": "finlex",
+      "title": "1 § Yhdistymisvapaus",
+      "text": "Työnantajalla ja työntekijällä on oikeus kuulua yhdistykseen sekä oikeus osallistua tällaisen yhdistyksen toimintaan. Heillä on myös oikeus perustaa luvallinen yhdistys. Työnantajalla ja työntekijällä on niin ikään vapaus olla kuulumatta edellä tarkoitettuun yhdistykseen. Tämän oikeuden ja vapauden käytön estäminen ja rajoittaminen on kiellettyä. Yhdistymisvapauden vastainen sopimus on mitätön.",
+      "section_number": "1",
+      "chapter_number": 13,
+      "statute_id": ""
+    },
+    {
+      "id": "63d5e41b-7757-4e21-966a-50bbd3a0606d",
+      "node_type": "Section",
+      "publisher": "finlex",
+      "title": "2 § Kokoontumisoikeus",
+      "text": "Työnantajan on sallittava työntekijöiden ja heidän järjestöjensä käyttää maksutta työnantajan hallinnassa olevia sopivia tiloja taukojen aikana ja työajan ulkopuolella käsitelläkseen työsuhdeasioita sekä ammatillisen yhdistyksen toimialaan kuuluvia asioita. Kokoontumisoikeuden käyttö ei saa aiheuttaa haittaa työnantajan toiminnalle.",
+      "section_number": "2",
+      "chapter_number": 13,
+      "statute_id": ""
+    },
+    {
+      "id": "5a1a34f9-b547-4dd2-ba75-9ff51d810c38",
+      "node_type": "Section",
+      "publisher": "finlex",
+      "title": "3 § Luottamusvaltuutettu",
+      "text": "Työntekijät, joilla ei ole työnantajaa työehtosopimuslain nojalla sitovassa työehtosopimuksessa tarkoitettua luottamusmiestä, voivat valita keskuudestaan luottamusvaltuutetun. Luottamusvaltuutetun tehtävät ja toimivalta määräytyvät tässä laissa ja muualla työlainsäädännössä erikseen säädettävällä tavalla. Lisäksi työntekijät voivat erikseen enemmistöpäätöksin valtuuttaa luottamusvaltuutetun edustamaan heitä valtuutuksessa määrätyissä työsuhteita ja työoloja koskevissa asioissa. Luottamusvaltuutetulla on oikeus saada laissa tarkoitettujen tehtävien hoitamiseksi tarpeelliset tiedot sekä riittävästi vapautusta työstään. Työnantajan on korvattava tästä aiheutuva ansion menetys. Muiden tehtävien hoitamiseksi luottamusvaltuutetulle annettavasta työstä vapautuksesta ja ansion menetyksen korvaamisesta on sovittava työnantajan kanssa. Luottamusvaltuutetun irtisanomissuojasta säädetään 7 luvun 10 §:ssä.",
+      "section_number": "3",
+      "chapter_number": 13,
+      "statute_id": ""
+    },
+    {
+      "id": "320d4bdb-f180-44e5-9081-db2a3cb0ab58",
+      "node_type": "Section",
+      "publisher": "finlex",
+      "title": "4 § Luottamusvaltuutettu ja liikkeen luovutus",
+      "text": "Luottamusvaltuutettu säilyttää 3 §:ssä säädetyn asemansa, jos liike tai sen osa sitä luovutettaessa säilyttää itsenäisyytensä. Jos luottamusvaltuutetun toimikausi päättyy liikkeen luovutuksen johdosta, hänellä on 7 luvun 10 §:ssä säädetty irtisanomissuoja kuusi kuukautta toimikautensa päättymisestä.",
+      "section_number": "4",
+      "chapter_number": 13,
+      "statute_id": ""
+    },
+    {
+      "id": "22f86d36-dd1d-4fb7-a5b7-7e9cd754ddfb",
+      "node_type": "Section",
+      "publisher": "finlex",
+      "title": "5 § Asuntoetu",
+      "text": "Työntekijällä on oikeus käyttää hänelle palkkaetuna annettua asuinhuoneistoa sen ajan, jolloin työnteko on keskeytynyt hyväksyttävän syyn vuoksi sekä työsuhteen päättyessä asuinhuoneiston vuokrauksesta annetun lain (481/1995) 92 §:ssä vuokranantajan irtisanomisajaksi säädetyn ajan. Työsuhteen päättyessä työntekijän kuoleman johdosta hänen huoneistossa asuvilla perheenjäsenillään on oikeus käyttää asuntoa kuolemantapauksen jälkeen sen ajan, johon työntekijällä olisi ollut oikeus, kuitenkin enintään kolme kuukautta. Työsuhteen päätyttyä työnantaja saa periä 1 momentissa tarkoitetusta huoneiston käytöstä vastikkeena neliömetriltä enintään määrän, joka on asumistukilain (408/1975) nojalla vahvistettu paikkakunnalla kohtuullisiksi enimmäisasumismenoiksi neliömetriä kohden. Vastikkeen perimisestä on ilmoitettava työntekijälle tai hänen perheenjäsenelleen. Vastiketta saadaan periä sen kuukauden alusta, joka lähinnä seuraa 14 päivän kuluttua ilmoituksesta. Vastaavasti työnantajalla on oikeus periä huoneiston käytöstä vastike hänen palkanmaksuvelvollisuutensa keskeydyttyä työsuhteen jatkuessa. Vastiketta saadaan periä aikaisintaan palkanmaksuvelvollisuuden päättymistä seuraavan toisen täyden kalenterikuukauden alusta. Vastikkeen perimisestä on ilmoitettava työntekijälle viimeistään kuukautta ennen maksuvelvollisuuden alkamista. Tärkeän syyn niin vaatiessa työnantaja voi 1 momentissa tarkoitetun työnteon keskeytyksen ajaksi sekä työsuhteen päättymisen jälkeiseksi ajaksi antaa työntekijän tai vainajan perheenjäsenen käytettäväksi muun soveliaan asunnon. Tästä aiheutuvat muuttokustannukset maksaa työnantaja.",
+      "section_number": "5",
+      "chapter_number": 13,
+      "statute_id": ""
+    },
+    {
+      "id": "7517dc16-68bb-4c4a-bfd7-7f46b0af8a6f",
+      "node_type": "Section",
+      "publisher": "finlex",
+      "title": "6 § Säännösten pakottavuus",
+      "text": "Sopimus, jolla vähennetään työntekijälle tämän lain mukaan tulevia oikeuksia ja etuja, on mitätön, ellei tästä laista johdu muuta.",
+      "section_number": "6",
+      "chapter_number": 13,
+      "statute_id": ""
+    },
+    {
+      "id": "48243be2-d538-4b0b-900b-4f3021559c4c",
+      "node_type": "Section",
+      "publisher": "finlex",
+      "title": "7 § Poikkeaminen työehtosopimuksella",
+      "text": "Työnantajien ja työntekijöiden valtakunnallisilla yhdistyksillä on 6 §:ssä säädetystä poiketen oikeus sopia siitä, mitä 1 luvun 5 §:ssä (työsuhteen kestosta riippuvat työsuhde-etuudet), 2 luvun 5 §:ssä (työnantajan velvollisuus tarjota työtä osa-aikatyöntekijälle), 11 §:ssä (sairausajan palkka) ja 13 §:ssä (palkanmaksuaika ja -kausi), 5 luvun 3 §:ssä (ennakkoselvitys ja työntekijän kuuleminen), 4 §:ssä (lomautusilmoitus) ja 7 §:n 2 momentissa (työnantajan oikeus vähentää lomautusilmoitusajan palkka irtisanomisajan palkasta), 6 luvun 6 §:ssä (työntekijän takaisin ottaminen) sekä 9 luvussa (työsopimuksen päättämismenettely) säädetään. Mainittujen yhdistysten välisellä työehtosopimuksella saadaan myös sopia 5 luvun 2 §:n 1 momentin 2 kohdassa ja 2 momentissa tarkoitetun lomauttamisen perusteista, ei kuitenkaan pidentää 1 momentin 2 kohdassa mainittua lomautuksen enimmäisaikaa ja rajoittaa 7 luvun 4 §:ssä säädetyn työn tarjoamisvelvollisuuden alueellista laajuutta. Edellä 1 momentissa tarkoitettuja työehtosopimuksen määräyksiä työnantaja saa soveltaa niidenkin työntekijöiden työsuhteissa, jotka eivät ole sidottuja työehtosopimukseen, mutta joiden työsuhteissa työnantajan on työehtosopimuslain mukaan noudatettava työehtosopimuksen määräyksiä. Jos työsopimuksessa on niin sovittu, saadaan työehtosopimuksen mainittuja määräyksiä noudattaa työehtosopimuksen lakkaamisen jälkeen uuden työehtosopimuksen voimaantuloon saakka niissä työsuhteissa, joissa määräyksiä saataisiin soveltaa, jos työehtosopimus olisi edelleen voimassa. Mitä tässä pykälässä säädetään työnantajien valtakunnallisesta yhdistyksestä, sovelletaan vastaavasti valtion neuvotteluviranomaiseen ja muuhun valtion sopimusviranomaiseen, kunnalliseen työmarkkinalaitokseen, evankelis-luterilaisen kirkon sopimusvaltuuskuntaan ja ortodoksiseen kirkkokuntaan sekä Ahvenanmaan maakunnan maakuntahallitukseen ja Ahvenanmaan maakunnan kunnalliseen sopimusvaltuuskuntaan.",
+      "section_number": "7",
+      "chapter_number": 13,
+      "statute_id": ""
+    },
+    {
+      "id": "ff28e623-24dd-4e3a-8ea5-5e4bb05ae76d",
+      "node_type": "Section",
+      "publisher": "finlex",
+      "title": "8 § Yleissitovan työehtosopimuksen laista poikkeavat määräykset",
+      "text": "Työnantaja, jonka on noudatettava 2 luvun 7 §:ssä tarkoitettua yleissitovaa työehtosopimusta, saa noudattaa tämän työehtosopimuksen soveltamisalalla myös sen tämän luvun 7 §:ssä tarkoitettuja määräyksiä, jos niiden soveltaminen ei edellytä paikallista sopimista. Tällöin sovelletaan myös, mitä 7 §:n 2 momentin toisessa virkkeessä säädetään.",
+      "section_number": "8",
+      "chapter_number": 13,
+      "statute_id": ""
+    },
+    {
+      "id": "c31e877f-9050-4628-98c7-85987d60769e",
+      "node_type": "Section",
+      "publisher": "finlex",
+      "title": "9 § Kanneaika",
+      "text": "Työsuhteen päättyessä oikeus tässä laissa tarkoitettuun saatavaan raukeaa yleisestä 10 vuoden vanhentumisajasta poiketen, jos kannetta ei nosteta kahden vuoden kuluessa siitä, kun työsuhde on päättynyt. Edellä 1 momentissa säädetty ei koske työntekijälle aiheutuneen henkilövahingon korvaamista.",
+      "section_number": "9",
+      "chapter_number": 13,
+      "statute_id": ""
+    },
+    {
+      "id": "4f1a6e17-927e-47c1-a35d-e1b804ed040b",
+      "node_type": "Section",
+      "publisher": "finlex",
+      "title": "10 § Nähtävänäpito",
+      "text": "Työnantajan on pidettävä tämä laki ja 2 luvun 7 §:ssä tarkoitettu yleissitova työehtosopimus työntekijöiden vapaasti saatavilla työpaikalla.",
+      "section_number": "10",
+      "chapter_number": 13,
+      "statute_id": ""
+    },
+    {
+      "id": "884d10a1-e289-44ea-9b38-d64937602653",
+      "node_type": "Section",
+      "publisher": "finlex",
+      "title": "11 § Rangaistussäännökset",
+      "text": "Rangaistus 2 luvun 2 §:ssä säädetyn syrjintäkiellon rikkomisesta säädetään rikoslain (39/1889) 47 luvun 3 §:ssä, 13 luvun 1 §:ssä säädetyn yhdistymisvapauden loukkaamisesta rikoslain 47 luvun 5 §:ssä sekä 7 luvun 10 §:ssä tarkoitetun luottamusmiehen ja 13 luvun 3 §:ssä säädetyn luottamusvaltuutetun oikeuksien loukkaamisesta rikoslain 47 luvun 4 §:ssä. Työnantaja tai tämän edustaja, joka tahallaan tai huolimattomuudesta rikkoo 2 luvun 17 §:n (kuittausoikeuden rajoitus), 6 luvun 7 §:n (työtodistus) taikka 13 luvun 2 (kokoontumisoikeus) tai 10 §:n (nähtävänäpito) säännöksiä, on tuomittavatyösopimuslakirikkomuksestasakkoon. Vastuu työnantajan ja tämän edustajan kesken määräytyy rikoslain 47 luvun 7 §:ssä säädettyjen perusteiden mukaan.",
+      "section_number": "11",
+      "chapter_number": 13,
+      "statute_id": ""
+    },
+    {
+      "id": "08ba69ae-5c3f-4b77-9d0e-92dc1186c12f",
+      "node_type": "Section",
+      "publisher": "finlex",
+      "title": "12 § Valvonta",
+      "text": "Työsuojeluviranomaiset valvovat tämän lain noudattamista. Työsuojeluviranomaisten on valvontatehtävässään ja erityisesti valvoessaan yleissitovien työehtosopimusten noudattamista toimittava kiinteässä yhteistyössä niiden työnantajien ja työntekijöiden yhdistysten kanssa, joiden tekemien yleissitovien työehtosopimusten määräyksiä työnantajien on 2 luvun 7 §:n mukaan noudatettava. Työsuojeluviranomaisilla on pyynnöstä oikeus saada työnantajalta jäljennös valvonnan kannalta tarpeellisista asiakirjoista sekä yksityiskohtainen selvitys suullisesti tehdyistä sopimuksista.",
+      "section_number": "12",
+      "chapter_number": 13,
+      "statute_id": ""
+    },
+    {
+      "id": "4c29ae2d-2884-47eb-8c86-84e08f6c09c1",
+      "node_type": "Section",
+      "publisher": "finlex",
+      "title": "1 § Voimaantulo",
+      "text": "Tämä laki tulee voimaan 1 päivänä kesäkuuta 2001.",
+      "section_number": "1",
+      "chapter_number": 14,
+      "statute_id": ""
+    },
+    {
+      "id": "5ce879dc-998e-41ce-ac5b-951192f08442",
+      "node_type": "Section",
+      "publisher": "finlex",
+      "title": "2 § Kumottavat säännökset",
+      "text": "Tällä lailla kumotaan 30 päivänä huhtikuuta 1970 annettu työsopimuslaki (320/1970) siihen myöhemmin tehtyine muutoksineen. Jos muussa laissa tai asetuksessa viitataan tämän lain voimaan tullessa voimassa olleeseen työsopimuslakiin, on sen sijasta sovellettava tätä lakia.",
+      "section_number": "2",
+      "chapter_number": 14,
+      "statute_id": ""
+    },
+    {
+      "id": "c519ba8b-0a7b-48e3-9add-fbb1a8fd84e3",
+      "node_type": "Section",
+      "publisher": "finlex",
+      "title": "3 § Siirtymäsäännös",
+      "text": "Työsuhteissa, joissa työnantajan on noudatettava tai hän saa noudattaa joko työehtosopimuslain tai tämän lain voimaan tullessa voimassa olleen työsopimuslain 17 §:n 1 ja 2 momentin nojalla ennen tämän lain voimaantuloa tehtyä työehtosopimusta, hän saa soveltaa sen tästä laista poikkeavia määräyksiä työehtosopimuksen voimassaolon päättymiseen saakka, ellei työehtosopimusta muuteta sitä ennen. Tämän lain voimaan tullessa voimassa olleen työsopimuslain 17 §:n 1 ja 2 momenttia sovelletaan siihen saakka, kun työehtosopimuksen yleissitovuus on työehtosopimuksen yleissitovuuden vahvistamisesta annetussa laissa tarkoitetulla tavalla vahvistettu ja päätös on saanut lainvoiman. Työnantajan 13 luvun 10 §:ssä säädetty velvollisuus pitää 2 luvun 7 §:ssä tarkoitettu yleissitova työehtosopimus työntekijöiden nähtävänä alkaa siitä päivästä, kun yleissitovuuden vahvistamista koskeva päätös on toimitettu ministeriöiden ja valtion muiden viranomaisten määräyskokoelmista annetun lain (189/2000) 6 §:ssä tarkoitettuun oikeusministeriön ylläpitämään määräyskokoelmaan ja yleissitova työehtosopimus on julkaistu työehtosopimuksen yleissitovuuden vahvistamisesta annetun lain 14 §:ssä säädetyllä tavalla.",
+      "section_number": "3",
+      "chapter_number": 14,
+      "statute_id": ""
+    }
+  ],
+  "clauses": [
+    {
+      "id": "a8996ce7-3e0c-4da4-b91b-21da9860bed5",
+      "node_type": "Clause",
+      "publisher": "finlex",
+      "title": "§ 2 mom 1",
+      "text": "1) julkisoikeudelliseen palvelussuhteeseen eikä julkisoikeudellisen palvelusvelvollisuuden täyttämiseen;",
+      "clause_number": 1,
+      "section_number": "2",
+      "statute_id": ""
+    },
+    {
+      "id": "4d20f9fe-f61f-4bbd-b35c-f9373e86f776",
+      "node_type": "Clause",
+      "publisher": "finlex",
+      "title": "§ 2 mom 2",
+      "text": "2) tavanomaiseen harrastustoimintaan;",
+      "clause_number": 2,
+      "section_number": "2",
+      "statute_id": ""
+    },
+    {
+      "id": "3424a045-6891-4055-af89-e73d2618d272",
+      "node_type": "Clause",
+      "publisher": "finlex",
+      "title": "§ 2 mom 3",
+      "text": "3) sellaiseen työsuoritusta edellyttävään sopimukseen, josta säädetään erikseen lailla.",
+      "clause_number": 3,
+      "section_number": "2",
+      "statute_id": ""
+    },
+    {
+      "id": "d70142d0-07f3-499a-a970-18ef7cb10236",
+      "node_type": "Clause",
+      "publisher": "finlex",
+      "title": "§ 4 mom 1",
+      "text": "1) työnantajan ja työntekijän koti- tai liikepaikka;",
+      "clause_number": 1,
+      "section_number": "4",
+      "statute_id": ""
+    },
+    {
+      "id": "d5612065-5f5e-4905-97cf-a8838d98352d",
+      "node_type": "Clause",
+      "publisher": "finlex",
+      "title": "§ 4 mom 2",
+      "text": "2) työnteon alkamisajankohta;",
+      "clause_number": 2,
+      "section_number": "4",
+      "statute_id": ""
+    },
+    {
+      "id": "d0ed3dc8-661c-4df3-a1dc-14b28f9d8b98",
+      "node_type": "Clause",
+      "publisher": "finlex",
+      "title": "§ 4 mom 3",
+      "text": "3) määräaikaisen työsopimuksen kesto ja määräaikaisuuden peruste;",
+      "clause_number": 3,
+      "section_number": "4",
+      "statute_id": ""
+    },
+    {
+      "id": "8637f0b1-aad4-4a15-aba0-914edf413c05",
+      "node_type": "Clause",
+      "publisher": "finlex",
+      "title": "§ 4 mom 4",
+      "text": "4) koeaika;",
+      "clause_number": 4,
+      "section_number": "4",
+      "statute_id": ""
+    },
+    {
+      "id": "8a6cd16d-6977-4ba2-be2c-3b4be7361d5e",
+      "node_type": "Clause",
+      "publisher": "finlex",
+      "title": "§ 4 mom 5",
+      "text": "5) työntekopaikka tai jos työntekijällä ei ole pääasiallista kiinteää työntekopaikkaa, selvitys niistä periaatteista, joiden mukaan työntekijä työskentelee eri työkohteissa;",
+      "clause_number": 5,
+      "section_number": "4",
+      "statute_id": ""
+    },
+    {
+      "id": "381f6738-79b1-4802-a2fd-2eec3d9218a8",
+      "node_type": "Clause",
+      "publisher": "finlex",
+      "title": "§ 4 mom 6",
+      "text": "6) työntekijän pääasialliset työtehtävät;",
+      "clause_number": 6,
+      "section_number": "4",
+      "statute_id": ""
+    },
+    {
+      "id": "cae6e679-c177-48e0-b0e2-a463453a9310",
+      "node_type": "Clause",
+      "publisher": "finlex",
+      "title": "§ 4 mom 7",
+      "text": "7) työhön sovellettava työehtosopimus;",
+      "clause_number": 7,
+      "section_number": "4",
+      "statute_id": ""
+    },
+    {
+      "id": "e6ef8cc6-01cb-4610-9fc5-6875d2ca6046",
+      "node_type": "Clause",
+      "publisher": "finlex",
+      "title": "§ 4 mom 8",
+      "text": "8) palkan ja muun vastikkeen määräytymisen perusteet sekä palkanmaksukausi;",
+      "clause_number": 8,
+      "section_number": "4",
+      "statute_id": ""
+    },
+    {
+      "id": "9ea7dcb3-1a92-4ff6-8b97-4ce00b82acec",
+      "node_type": "Clause",
+      "publisher": "finlex",
+      "title": "§ 4 mom 9",
+      "text": "9) säännöllinen työaika;",
+      "clause_number": 9,
+      "section_number": "4",
+      "statute_id": ""
+    },
+    {
+      "id": "376804bc-a5d9-4037-992b-91c1598afbf1",
+      "node_type": "Clause",
+      "publisher": "finlex",
+      "title": "§ 4 mom 10",
+      "text": "10) vuosiloman määräytyminen;",
+      "clause_number": 10,
+      "section_number": "4",
+      "statute_id": ""
+    },
+    {
+      "id": "5deb5bac-6b6b-4447-bf5b-384f1605b7b2",
+      "node_type": "Clause",
+      "publisher": "finlex",
+      "title": "§ 4 mom 11",
+      "text": "11) irtisanomisaika tai sen määräytymisen peruste;",
+      "clause_number": 11,
+      "section_number": "4",
+      "statute_id": ""
+    },
+    {
+      "id": "7bcd88f7-c1a9-416c-abb8-35be70d32da1",
+      "node_type": "Clause",
+      "publisher": "finlex",
+      "title": "§ 4 mom 12",
+      "text": "12) vähintään kuukauden kestävässä ulkomaantyössä työn kesto, valuutta, jossa rahapalkka maksetaan, ulkomailla suoritettavat rahalliset korvaukset ja luontoisedut sekä työntekijän kotiuttamisen ehdot.",
+      "clause_number": 12,
+      "section_number": "4",
+      "statute_id": ""
+    },
+    {
+      "id": "071e8378-d34a-4a1e-a4f3-952c3f3d20c9",
+      "node_type": "Clause",
+      "publisher": "finlex",
+      "title": "§ 2 mom 1",
+      "text": "1) hänellä on 7 luvun 3 §:ssä tarkoitettu taloudellinen tai tuotannollinen peruste työsopimuksen irtisanomiseen tai",
+      "clause_number": 1,
+      "section_number": "2",
+      "statute_id": ""
+    },
+    {
+      "id": "941b117a-71c7-4532-a291-ef7e1613c65a",
+      "node_type": "Clause",
+      "publisher": "finlex",
+      "title": "§ 2 mom 2",
+      "text": "2) työ tai työnantajan edellytykset tarjota työtä ovat vähentyneet tilapäisesti eikä työnantaja voi kohtuudella järjestää työntekijälle muuta sopivaa työtä tai työnantajan tarpeita vastaavaa koulutusta; työn tai työn tarjoamisedellytysten katsotaan lomauttamisen perusteena vähentyneen tilapäisesti, jos niiden voidaan arvioida kestävän enintään 90 päivää.",
+      "clause_number": 2,
+      "section_number": "2",
+      "statute_id": ""
+    },
+    {
+      "id": "7180fcae-6f1d-4fe0-9112-6f4c24b497aa",
+      "node_type": "Clause",
+      "publisher": "finlex",
+      "title": "§ 3 mom 1",
+      "text": "1) 14 päivää, jos työsuhde on jatkunut enintään yhden vuoden;",
+      "clause_number": 1,
+      "section_number": "3",
+      "statute_id": ""
+    },
+    {
+      "id": "76debaaf-b643-48f3-8156-3fc9ead7ebc9",
+      "node_type": "Clause",
+      "publisher": "finlex",
+      "title": "§ 3 mom 2",
+      "text": "2) yksi kuukausi, jos työsuhde on jatkunut yli vuoden mutta enintään neljä vuotta;",
+      "clause_number": 2,
+      "section_number": "3",
+      "statute_id": ""
+    },
+    {
+      "id": "2fc04f2d-9581-4fbc-860c-49638d58eeaf",
+      "node_type": "Clause",
+      "publisher": "finlex",
+      "title": "§ 3 mom 3",
+      "text": "3) kaksi kuukautta, jos työsuhde on jatkunut yli neljä mutta enintään kahdeksan vuotta;",
+      "clause_number": 3,
+      "section_number": "3",
+      "statute_id": ""
+    },
+    {
+      "id": "bdd70950-9a39-4e94-83c3-ff35d43e1e14",
+      "node_type": "Clause",
+      "publisher": "finlex",
+      "title": "§ 3 mom 4",
+      "text": "4) neljä kuukautta, jos työsuhde on jatkunut yli kahdeksan mutta enintään 12 vuotta;",
+      "clause_number": 4,
+      "section_number": "3",
+      "statute_id": ""
+    },
+    {
+      "id": "7b0f4de0-7160-48d3-907a-2db08eaad76c",
+      "node_type": "Clause",
+      "publisher": "finlex",
+      "title": "§ 3 mom 5",
+      "text": "5) kuusi kuukautta, jos työsuhde on jatkunut yli 12 vuotta.",
+      "clause_number": 5,
+      "section_number": "3",
+      "statute_id": ""
+    },
+    {
+      "id": "bee49d57-fc97-40bb-b790-481c20e3e1fa",
+      "node_type": "Clause",
+      "publisher": "finlex",
+      "title": "§ 3 mom 1",
+      "text": "1) 14 päivää, jos työsuhde on jatkunut enintään viisi vuotta;",
+      "clause_number": 1,
+      "section_number": "3",
+      "statute_id": ""
+    },
+    {
+      "id": "83acbc2d-1a53-4960-8803-3f4d5c818bc8",
+      "node_type": "Clause",
+      "publisher": "finlex",
+      "title": "§ 3 mom 2",
+      "text": "2) yksi kuukausi, jos työsuhde on jatkunut yli viisi vuotta.",
+      "clause_number": 2,
+      "section_number": "3",
+      "statute_id": ""
+    },
+    {
+      "id": "4a0a68b5-82fc-4a2f-a657-6007c5e703a2",
+      "node_type": "Clause",
+      "publisher": "finlex",
+      "title": "§ 2 mom 1",
+      "text": "1) työntekijän sairautta, vammaa tai tapaturmaa, ellei hänen työkykynsä ole näiden vuoksi vähentynyt olennaisesti ja niin pitkäaikaisesti, että työnantajalta ei voida kohtuudella edellyttää sopimussuhteen jatkamista;",
+      "clause_number": 1,
+      "section_number": "2",
+      "statute_id": ""
+    },
+    {
+      "id": "69743289-9479-46ee-9626-87b1cea06fe8",
+      "node_type": "Clause",
+      "publisher": "finlex",
+      "title": "§ 2 mom 2",
+      "text": "2) työntekijän osallistumista työehtosopimuslain mukaiseen tai työntekijäyhdistyksen toimeenpanemaan työtaistelutoimenpiteeseen;",
+      "clause_number": 2,
+      "section_number": "2",
+      "statute_id": ""
+    },
+    {
+      "id": "cbc88b83-e49a-4a52-bf16-a78d80d7790d",
+      "node_type": "Clause",
+      "publisher": "finlex",
+      "title": "§ 2 mom 3",
+      "text": "3) työntekijän poliittisia, uskonnollisia tai muita mielipiteitä tai hänen osallistumistaan yhteiskunnalliseen tai yhdistystoimintaan;",
+      "clause_number": 3,
+      "section_number": "2",
+      "statute_id": ""
+    },
+    {
+      "id": "1a38ab6a-3d63-4746-b674-19ca23084b8c",
+      "node_type": "Clause",
+      "publisher": "finlex",
+      "title": "§ 2 mom 4",
+      "text": "4) turvautumista työntekijän käytettävissä oleviin oikeusturvakeinoihin.",
+      "clause_number": 4,
+      "section_number": "2",
+      "statute_id": ""
+    },
+    {
+      "id": "d75de5df-204b-452a-9b61-7f75925cabca",
+      "node_type": "Clause",
+      "publisher": "finlex",
+      "title": "§ 3 mom 1",
+      "text": "1) työnantaja on joko ennen irtisanomista tai sen jälkeen ottanut uuden työntekijän samankaltaisiin tehtäviin, vaikka hänen toimintaedellytyksensä eivät ole vastaavana aikana muuttuneet; tai",
+      "clause_number": 1,
+      "section_number": "3",
+      "statute_id": ""
+    },
+    {
+      "id": "fb8cca58-cbaf-4455-9908-13b25e169cd4",
+      "node_type": "Clause",
+      "publisher": "finlex",
+      "title": "§ 3 mom 2",
+      "text": "2) töiden uudelleenjärjestelystä ei ole aiheutunut työn tosiasiallista vähentymistä.",
+      "clause_number": 2,
+      "section_number": "3",
+      "statute_id": ""
+    },
+    {
+      "id": "3543ae16-06be-4289-9e7c-a8e923d1d2b8",
+      "node_type": "Clause",
+      "publisher": "finlex",
+      "title": "§ 7 mom 1",
+      "text": "1) irtisanomisen perusteena on sellainen saneerausmenettelyn aikana suoritettava järjestely tai toimenpide, joka on välttämätön konkurssin torjumiseksi ja jonka vuoksi työ lakkaa tai vähenee 3 §:ssä tarkoitetulla tavalla tai",
+      "clause_number": 1,
+      "section_number": "7",
+      "statute_id": ""
+    },
+    {
+      "id": "057028f8-fce2-43af-954c-7c11442186d9",
+      "node_type": "Clause",
+      "publisher": "finlex",
+      "title": "§ 7 mom 2",
+      "text": "2) irtisanomisen perusteena on vahvistetun saneerausohjelman mukainen toimenpide, jonka vuoksi työ lakkaa tai vähenee 3 §:ssä tarkoitetulla tavalla, tai perusteena on vahvistetussa saneerausohjelmassa todetusta taloudellisesta syystä johtuva, ohjelman mukainen järjestely, joka edellyttää työvoiman vähentämistä.",
+      "clause_number": 2,
+      "section_number": "7",
+      "statute_id": ""
+    },
+    {
+      "id": "9e41406d-d046-4e5a-88c1-275baef2dbf5",
+      "node_type": "Clause",
+      "publisher": "finlex",
+      "title": "§ 3 mom 1",
+      "text": "1) 75 prosenttia työntekijälle kyseiseltä ajalta maksetusta työttömyysturvalaissa (602/1984) tarkoitetusta ansioon suhteutetusta työttömyyspäivärahasta;",
+      "clause_number": 1,
+      "section_number": "3",
+      "statute_id": ""
+    },
+    {
+      "id": "db67ef17-64f9-4b11-83a7-4df167bbbed3",
+      "node_type": "Clause",
+      "publisher": "finlex",
+      "title": "§ 3 mom 2",
+      "text": "2) 80 prosenttia työntekijälle kyseiseltä ajalta maksetusta työttömyysturvalaissa tarkoitetusta peruspäivärahasta; sekä",
+      "clause_number": 2,
+      "section_number": "3",
+      "statute_id": ""
+    },
+    {
+      "id": "ead0beb0-a6e7-40cf-b316-a2fa885c5774",
+      "node_type": "Clause",
+      "publisher": "finlex",
+      "title": "§ 3 mom 3",
+      "text": "3) työntekijälle kyseiseltä ajalta työmarkkinatuesta annetun lain (1542/1993) nojalla maksettu työmarkkinatuki.",
+      "clause_number": 3,
+      "section_number": "3",
+      "statute_id": ""
+    }
+  ],
+  "cross_references": [
+    {
+      "raw_text": "pykälän 3 momentissa s",
+      "statute_id": "",
+      "section_number": "3 momentissa s",
+      "clause_number": null,
+      "resolution_confidence": 0.0
+    }
+  ],
+  "raw_html_path": "C:\\Users\\danit\\finance-hack\\aalto-hackaton-2026\\data\\raw\\finlex\\Laki (säädöskokoelma)\\Työsopimuslaki_1.html"
+}

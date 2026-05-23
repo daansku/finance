@@ -1,0 +1,719 @@
+{
+  "statute": {
+    "id": "2c304901-edbe-43b0-b382-0f2773056eea",
+    "node_type": "Statute",
+    "publisher": "finlex",
+    "title": "Väestötietolaki",
+    "text": "Väestötietolaki",
+    "statute_id": "",
+    "finlex_url": ""
+  },
+  "chapters": [
+    {
+      "id": "43979e1d-d66d-426e-8cc7-fb7cd7f5f6e3",
+      "node_type": "Chapter",
+      "publisher": "finlex",
+      "title": "Chapter 1",
+      "text": "1 luku Yleiset säännökset",
+      "chapter_number": 1,
+      "statute_id": ""
+    },
+    {
+      "id": "74cf1c57-03d4-4def-909f-3f6f7c83fa06",
+      "node_type": "Chapter",
+      "publisher": "finlex",
+      "title": "Chapter 2",
+      "text": "2 luku Väestötietojärjestelmän tiedot",
+      "chapter_number": 2,
+      "statute_id": ""
+    },
+    {
+      "id": "da8055ad-cd87-4a7d-8e7e-20f7403b912a",
+      "node_type": "Chapter",
+      "publisher": "finlex",
+      "title": "Chapter 3",
+      "text": "3 luku Ilmoitusvelvollisuus ja tietojen tallettaminen",
+      "chapter_number": 3,
+      "statute_id": ""
+    },
+    {
+      "id": "df7f043e-58bf-4e54-93e3-a9f24bf68bcf",
+      "node_type": "Chapter",
+      "publisher": "finlex",
+      "title": "Chapter 4",
+      "text": "4 luku Kotipaikka",
+      "chapter_number": 4,
+      "statute_id": ""
+    },
+    {
+      "id": "f70b8bd3-3d4d-4f7c-899a-402815fd04a6",
+      "node_type": "Chapter",
+      "publisher": "finlex",
+      "title": "Chapter 5",
+      "text": "5 luku Kotipaikkaa koskeva päätös, sen tiedoksi antaminen ja muutoksenhaku",
+      "chapter_number": 5,
+      "statute_id": ""
+    },
+    {
+      "id": "a73a4f34-4a1d-44eb-8545-8854e3c26f37",
+      "node_type": "Chapter",
+      "publisher": "finlex",
+      "title": "Chapter 6",
+      "text": "6 luku Asiakirjojen julkisuus ja tietojen luovuttaminen",
+      "chapter_number": 6,
+      "statute_id": ""
+    },
+    {
+      "id": "052f9f26-83aa-4f5d-ba73-0139361de2e6",
+      "node_type": "Chapter",
+      "publisher": "finlex",
+      "title": "Chapter 7",
+      "text": "7 luku Maksut",
+      "chapter_number": 7,
+      "statute_id": ""
+    },
+    {
+      "id": "7eb8e8f1-c051-4d72-8863-90fb3ba2bacd",
+      "node_type": "Chapter",
+      "publisher": "finlex",
+      "title": "Chapter 8",
+      "text": "8 luku Salassapito- ja rangaistussäännökset",
+      "chapter_number": 8,
+      "statute_id": ""
+    },
+    {
+      "id": "15850b0f-b9e3-4aff-96ea-479ea4870a4a",
+      "node_type": "Chapter",
+      "publisher": "finlex",
+      "title": "Chapter 9",
+      "text": "9 luku Erinäiset säännökset",
+      "chapter_number": 9,
+      "statute_id": ""
+    },
+    {
+      "id": "a65dd3bd-1b01-4e98-a081-6e52a5f25b08",
+      "node_type": "Chapter",
+      "publisher": "finlex",
+      "title": "Chapter 10",
+      "text": "10 luku Voimaantulo- ja siirtymäsäännökset",
+      "chapter_number": 10,
+      "statute_id": ""
+    }
+  ],
+  "sections": [
+    {
+      "id": "585ae398-62c7-447c-8009-3181ec72f950",
+      "node_type": "Section",
+      "publisher": "finlex",
+      "title": "1 § Soveltamisala",
+      "text": "Väestötietoja kerätään, talletetaan ja luovutetaan siten kuin tässä laissa säädetään. Tietojen ilmoittamisesta väestötietojärjestelmään, tietojen luovuttamisesta ja tietosuojasta on lisäksi voimassa, mitä niistä erikseen säädetään. Yleisten asiakirjain julkisuudesta annettua lakia (83/51) sovelletaan väestötietojärjestelmään vain siltä osin kuin kysymys on asianosaisen oikeudesta asiakirjaan.",
+      "section_number": "1",
+      "chapter_number": 1,
+      "statute_id": ""
+    },
+    {
+      "id": "a0c2c683-ff08-43e4-90bc-8d05387c4471",
+      "node_type": "Section",
+      "publisher": "finlex",
+      "title": "2 § Väestötietojärjestelmä",
+      "text": "Väestötietojärjestelmä on automaattisen tietojenkäsittelyn avulla pidettävä yhtenäinen tietojärjestelmä, joka muodostuu alueellisista rekistereistä. Rekisteritoimisto vastaa virka-alueensa rekisteritiedoista ja niiden ylläpidosta. Väestörekisterikeskus vastaa väestötietojärjestelmän yleisestä toimivuudesta ja rekisteritoimintojen yhtenäisyydestä.",
+      "section_number": "2",
+      "chapter_number": 1,
+      "statute_id": ""
+    },
+    {
+      "id": "9435f52f-d091-4f22-b6f5-684105753d72",
+      "node_type": "Section",
+      "publisher": "finlex",
+      "title": "3 § Väestötietojen käyttötarkoitus",
+      "text": "Väestötietojärjestelmän henkilötietoja pidetään henkilön yksilöintiä sekä henkilö- ja perheoikeudellisen aseman ja toimivaltaisuuden selvittämistä varten. Kiinteistö-, rakennus- ja huoneistotietoja pidetään kotipaikan yksilöintiä sekä rakennusten ja huoneistojen teknisten ominaisuuksien selvittämistä varten. Tiedot on tarkoitettu käytettäviksi tuomioistuinmenettelyssä, hallinnollisessa päätöksenteossa, tieteellisessä tutkimuksessa, tilastojen laatimisessa, asiakasrekisterien ajantasallapidossa, mielipide- ja markkinatutkimuksessa, suoramarkkinoinnissa sekä muussa osoitepalvelussa. Rakennus- ja huoneistotietoja saa käyttää henkilöä koskevassa päätöksenteossa kuitenkin vain jäljempänä tässä laissa säädetyin edellytyksin.",
+      "section_number": "3",
+      "chapter_number": 1,
+      "statute_id": ""
+    },
+    {
+      "id": "7d016b00-40c5-4ef2-9a2b-6cc5f7177738",
+      "node_type": "Section",
+      "publisher": "finlex",
+      "title": "4 § Väestötietojärjestelmään talletettavat henkilötiedot",
+      "text": "Suomen kansalaisesta talletetaan siten kuin asetuksella tarkemmin säädetään: Asianomaisten viranomaisten käyttöä varten talletetaan lisäksi: Ulkomaalaisesta voidaan tallettaa 1 ja 2 momentissa tarkoitetut tiedot, jos se on Suomessa asumisen tai työskentelyn, Suomea sitovan kansainvälisen sopimuksen velvoitteiden täyttämisen tai muun erityisen syyn johdosta tarpeen. Tietojen tallettamisen edellytyksenä on, että niistä on saatu luotettava selvitys. Tietoja ei kuitenkaan talleteta ulkomaalaisesta, joka on:",
+      "section_number": "4",
+      "chapter_number": 2,
+      "statute_id": ""
+    },
+    {
+      "id": "a2548991-4e50-4319-bff0-8343a1b2969e",
+      "node_type": "Section",
+      "publisher": "finlex",
+      "title": "5 § Väestötietojärjestelmään talletettavat muut tiedot",
+      "text": "Kiinteistöstä, rakennuksesta ja huoneistosta väestötietojärjestelmään talletettavista tiedoista säädetään asetuksella. Väestötietojärjestelmään voidaan tehdä rekisterinpidossa tarpeellisia kirjaamismerkintöjä sekä tietopalvelussa tarpeellisia asiakasmerkintöjä.",
+      "section_number": "5",
+      "chapter_number": 2,
+      "statute_id": ""
+    },
+    {
+      "id": "9db07f0a-9318-4b5f-9a38-b02134039335",
+      "node_type": "Section",
+      "publisher": "finlex",
+      "title": "6 § Tietojen tarkistaminen",
+      "text": "Henkilötietoja pidetään luotettavana selvityksenä henkilöstä ja hänen perheoikeudellisesta asemastaan, jollei toisin näytetä. Rekisteritoimiston on tarkistettava tietoja säännöllisesti niiden luotettavuuden varmistamiseksi. Väestörekisterikeskus päättää laajoista ja erityisiä kustannuksia aiheuttavista tarkistuksista rekisteritoimistoja kuultuaan. Tarkistusten ajankohta ja laajuus sekä niiden kohteena olevat tiedot on määrättävä siten, että tiedot tulevat tarkistetuiksi tarpeellisilta osin vähintään kerran kymmenessä vuodessa.",
+      "section_number": "6",
+      "chapter_number": 2,
+      "statute_id": ""
+    },
+    {
+      "id": "ce95f150-b2ea-4314-aae0-61b932d144ac",
+      "node_type": "Section",
+      "publisher": "finlex",
+      "title": "7 § Muuttuneiden tietojen arkistointi",
+      "text": "Kun väestötietojärjestelmän tiedot ovat muuttuneet, aikaisemmat tiedot on säilytettävä erikseen arkistoituina, jollei niiden käyttötarve ole säännöllistä. Tieto lapsen huostaanotosta on kuitenkin viipymättä poistettava väestötietojärjestelmästä huostaanoton päätyttyä.",
+      "section_number": "7",
+      "chapter_number": 2,
+      "statute_id": ""
+    },
+    {
+      "id": "284b9b2c-a219-47b1-9ab4-67634d0f463f",
+      "node_type": "Section",
+      "publisher": "finlex",
+      "title": "8 § Tietojen ilmoittaminen ja tallettaminen",
+      "text": "Edellä 4 ja 5 §:ssä säädettyjen tietojen ja niitä koskevien muutosten ilmoittamisesta väestötietojärjestelmään on voimassa, mitä erikseen tai jäljempänä säädetään. Tiedot voidaan ilmoittaa talletettavaksi myös tietoliikenneyhteyksin tai muutoin konekielisesti. Tätä koskevan luvan myöntää ilmoitusvelvolliselle rekisteritoimisto, jos ilmoitukset käsittävät vain sen virka-alueen tietoja, ja muutoin väestörekisterikeskus kuultuaan asianomaisia rekisteritoimistoja. Rekisteritoimiston ja väestörekisterikeskuksen on huolehdittava siitä, että tiedot talletetaan väestötietojärjestelmään ilman aiheetonta viivytystä.",
+      "section_number": "8",
+      "chapter_number": 3,
+      "statute_id": ""
+    },
+    {
+      "id": "8c3ffe92-574c-4bed-9866-26b350de595c",
+      "node_type": "Section",
+      "publisher": "finlex",
+      "title": "9 § Suomen kansalaisen ilmoitusvelvollisuus",
+      "text": "Suomen kansalaisen on pyynnöstä annettava 4 §:ssä tarkoitettujen tietojen tarkistamista varten tarpeelliset selvitykset. Henkilön on tehtävä itsestään ja kanssaan muuttaneista perheenjäsenistään muuttoilmoitus uuden asuinpaikkansa rekisteritoimistolle siten kuin asetuksella tarkemmin säädetään. Muuttoilmoitus on tehtävä, jos oleskelu on tarkoitettu kestämään yli kuukauden, ja myös silloin, kun tilapäinen oleskelu asuinpaikassa muuttuu pysyväksi. Rekisteritoimisto voi myöntää omalla virka-alueellaan poikkeuksen muuttoilmoituksen tekemisestä, jos henkilö työtehtävän tai muun siihen verrattavan syyn vuoksi joutuu toistuvasti muuttamaan tilapäisesti asuntoa ja jos henkilön kotipaikka sekä osoite ovat rekisteritoimiston tiedossa. Suomesta muuttavan on tehtävä itsestään ja kanssaan muuttavista perheenjäsenistään maastamuuttoilmoitus siten kuin asetuksella tarkemmin säädetään. Ilmoitus tehdään sille rekisteritoimistolle, jonka virka-alueella henkilöllä on kotipaikka. Ilmoitus on tehtävä, jos oleskelu ulkomailla on tarkoitettu kestämään yli kolme kuukautta, ja myös silloin, kun tilapäinen oleskelu ulkomailla muuttuu pysyväksi.",
+      "section_number": "9",
+      "chapter_number": 3,
+      "statute_id": ""
+    },
+    {
+      "id": "be84f02a-8099-4ba5-aba4-6d2b2ee5f57e",
+      "node_type": "Section",
+      "publisher": "finlex",
+      "title": "10 § Ulkomaalaisen ilmoitusvelvollisuus",
+      "text": "Ulkomaalaisen ilmoitusvelvollisuudesta on soveltuvin osin voimassa, mitä 9 §:ssä säädetään Suomen kansalaisen ilmoitusvelvollisuudesta. Ulkomaalaisen, jonka oleskelu Suomessa on tarkoitettu kestämään tai on kestänyt vähintään yhden vuoden, on lisäksi ilmoitettava 4 §:ssä säädetyt tiedot. Henkilön on esitettävä luotettava selvitys väestötietojärjestelmään ilmoittamistaan tiedoista.",
+      "section_number": "10",
+      "chapter_number": 3,
+      "statute_id": ""
+    },
+    {
+      "id": "bdec58e4-c60d-4afb-82d0-e6b02e7673d8",
+      "node_type": "Section",
+      "publisher": "finlex",
+      "title": "11 § Ilmoitusvelvollisuus muutettaessa Pohjoismaiden välillä",
+      "text": "Kun henkilö muuttaa Suomesta Islantiin, Norjaan, Ruotsiin tai Tanskaan taikka mainituista maista Suomeen, noudatetaan tämän lain ohella Tanskan, Suomen, Islannin, Norjan ja Ruotsin välistä väestörekisteriä koskevaa sopimusta (SopS 49/90).",
+      "section_number": "11",
+      "chapter_number": 3,
+      "statute_id": ""
+    },
+    {
+      "id": "d3f12b1a-5159-4eab-beef-d5c6d8782dc8",
+      "node_type": "Section",
+      "publisher": "finlex",
+      "title": "12 § Eräiden laitosten ja sosiaalilautakunnan ilmoitusvelvollisuus",
+      "text": "Hoito-, huolto- ja rangaistuslaitoksen on ilmoitettava henkilön kotipaikan tarkistamista varten tammikuun aikana rekisteritoimistolle laitoksessa ilmoitushetkellä yli kolme kuukautta olleista henkilöistä. Rekisteritoimisto voi määrätä muunkin ajankohdan tietojen ilmoittamiselle. Sosiaalilautakunnan on ilmoitettava lapsen huostaanotosta ja vahvistamastaan lapsen huoltoa koskevasta sopimuksesta. Syntymän ja kuoleman ilmoittamisesta säädetään asetuksella.",
+      "section_number": "12",
+      "chapter_number": 3,
+      "statute_id": ""
+    },
+    {
+      "id": "6dd6c5a8-fa59-44ce-bbdb-4b8a9b7a0ea7",
+      "node_type": "Section",
+      "publisher": "finlex",
+      "title": "13 § Rakennuksen ja huoneiston omistajan tai haltijan ilmoitusvelvollisuus",
+      "text": "Rakennuksen omistajan tai haltijan taikka näiden edustajan on huolehdittava rakennuksessa asuvien henkilöiden 9 §:ssä ja 10 §:n 1 momentissa tarkoitettujen ilmoitusten toimittamisesta rekisteritoimistolle. Rakennuksen omistajan tai tämän edustajan on annettava rakennuksesta väestötietojärjestelmään talletettavat tiedot sekä niiden tarkistamista ja virallisen tilaston laatimista varten tarpeelliset tiedot. Huoneiston omistajan tai haltijan on annettava huoneistosta 2 momentissa tarkoitetut tiedot. Myös rakennuksen omistaja tai tämän edustaja on velvollinen tarvittaessa antamaan tiedot. Kunnan viranomaiset ovat velvollisia avustamaan 2 ja 3 momentissa tarkoitettujen tietojen hankkimisessa, jollei niitä ole saatu rakennuksen tai huoneiston omistajalta tai haltijalta taikka näiden edustajalta.",
+      "section_number": "13",
+      "chapter_number": 3,
+      "statute_id": ""
+    },
+    {
+      "id": "95c7ad84-1424-4f9e-a06e-c4b8e35094cb",
+      "node_type": "Section",
+      "publisher": "finlex",
+      "title": "14 § Kiinteistöjä, rakennuksia, huoneistoja ja rakentamista koskeva viranomaisen ilmoitusvelvollisuus",
+      "text": "Kunta on velvollinen ilmoittamaan väestötietojärjestelmää ja virallisen tilaston laatimista varten tarpeelliset tiedot rakentamisesta sekä rakennuksista ja huoneistoista siten kuin asetuksella tarkemmin säädetään. Kiinteistötietojärjestelmää ylläpitävän viranomaisen ja muiden valtion viranomaisten sekä tuomioistuimen velvollisuudesta ilmoittaa kiinteistöjä, rakennuksia tai huoneistoja koskevia tietoja säädetään tarkemmin asetuksella.",
+      "section_number": "14",
+      "chapter_number": 3,
+      "statute_id": ""
+    },
+    {
+      "id": "ef2bb1b2-fa0e-48b9-8a4f-72a70aaf570e",
+      "node_type": "Section",
+      "publisher": "finlex",
+      "title": "15 § Kotipaikan määräytyminen",
+      "text": "Henkilöllä on jäljempänä säädetyin poikkeuksin kotipaikka siinä kunnassa, jossa hänellä kulloinkin on varsinainen asunto ja koti. Jos henkilöllä on useita asuntoja, hänen varsinainen asuntonsa ja kotinsa on siellä, missä hänellä on yhteinen koti aviopuolisonsa ja lastensa kanssa. Jos asunnot ovat tällöin samanveroiset tai jos yhteistä kotia ei ole, kotipaikka on siinä kunnassa, jossa henkilö pääasiallisesti oleskelee. Jos henkilöllä ei ole varsinaista asuntoa ja kotia missään kunnassa, hänen kotipaikkansa on siinä kunnassa, jossa hän pääasiallisesti oleskelee. Jollei siitä saada selvitystä, kotipaikka on siinä kunnassa, jonka väestöön hänen katsotaan kuuluvan tai viimeksi kuuluneen työn, tulojen tai muiden olosuhteiden perusteella. Sosiaalilautakunnan huostaan otetun henkilön kotipaikka on siinä kunnassa, jonka sosiaalilautakunta on päättänyt mainitusta toimesta.",
+      "section_number": "15",
+      "chapter_number": 4,
+      "statute_id": ""
+    },
+    {
+      "id": "f88311ac-f2fb-4f46-be1a-54ca1d71a10e",
+      "node_type": "Section",
+      "publisher": "finlex",
+      "title": "16 § Maahan muuttaneen ulkomaalaisen kotipaikka",
+      "text": "Maahan muuttaneella ulkomaalaisella on kotipaikka Suomessa, jos oleskelu on tarkoitettu kestämään tai on kestänyt vähintään yhden vuoden. Erityisestä syystä ulkomaalaisella voidaan katsoa olevan kotipaikka Suomessa vuotta lyhyemmänkin oleskelun perusteella. Kotipaikka määräytyy muutoin siten kuin tässä luvussa säädetään.",
+      "section_number": "16",
+      "chapter_number": 4,
+      "statute_id": ""
+    },
+    {
+      "id": "5d19e19b-5a31-4504-9fdc-55f7d8eaca7d",
+      "node_type": "Section",
+      "publisher": "finlex",
+      "title": "17 § Kotipaikan pysyvyys",
+      "text": "Henkilön kotipaikka ei muutu sen johdosta, että hän: Henkilön kotipaikka ei myöskään muutu sen johdosta, että hän on tilapäisesti poissa kotipaikaltaan opiskelun, sairauden, eduskunnan tai valtioneuvoston jäsenyyden taikka muun julkisen luottamustoimen, lyhytaikaisen työsuhteen tai muun näihin rinnastettavan satunnaisen oleskelun vuoksi.",
+      "section_number": "17",
+      "chapter_number": 4,
+      "statute_id": ""
+    },
+    {
+      "id": "59ff31c9-e109-4120-9e66-412fb611ca1f",
+      "node_type": "Section",
+      "publisher": "finlex",
+      "title": "18 § Vuoden vaihteen asukasluku ja kotipaikka",
+      "text": "Väestötietojärjestelmään otetaan tieto siitä, mikä on kunnan asukasluku vuoden vaihteessa, ja siitä, missä kunnassa henkilöllä on sanottuna aikana ollut tässä laissa tarkoitettu kotipaikka. Tällöin otetaan huomioon viimeistään asianomaisen vuoden maaliskuun 31 päivänä väestötietojärjestelmään talletetut tiedot.",
+      "section_number": "18",
+      "chapter_number": 4,
+      "statute_id": ""
+    },
+    {
+      "id": "96a26658-81de-4aec-a8bb-16995660edc7",
+      "node_type": "Section",
+      "publisher": "finlex",
+      "title": "19 § Rekisteritoimiston päätös kotipaikasta",
+      "text": "Saatuaan muuttoilmoituksen rekisteritoimiston on tehtävä viipymättä päätös henkilön kotipaikasta. Kun rekisteritoimisto on vastaanottanut maastamuuttoilmoituksen muutosta muualle kuin Pohjoismaihin, sen on tehtävä viipymättä päätös siitä, onko henkilöllä enää kotipaikkaa Suomessa tai onko maasta muuttaneen ulkomaalaisen tietojen ylläpito lopetettava. Jos henkilö on laiminlyönyt muuttoilmoituksen tai maastamuuttoilmoituksen tekemisen, on rekisteritoimiston, joka katsoo henkilön muuttaneen virka-alueelleen tai jonka virka-alueella ulkomaille muuttaneella on ollut viimeksi kotipaikka, kehotettava häntä määräajassa täyttämään ilmoitusvelvollisuutensa ja samalla ilmoitettava, ettei laiminlyönti estä ratkaisemasta asiaa. Määräajan kuluttua rekisteritoimiston on viipymättä tehtävä päätös asiasta. Kehotus maastamuuttoilmoituksen tekemiseen voidaan erityisestä syystä jättää antamatta. Rekisteritoimisto voi tällöin ratkaista asian, jos sillä on luotettava selvitys henkilön muuttamisesta vakituisesti ulkomaille. Jos henkilöllä muusta kuin 2 momentissa mainitusta syystä ei ole kotipaikkaa missään kunnassa, tulee rekisteritoimiston, jonka virka-alueella henkilö pääasiassa oleskelee, tehdä päätös kotipaikasta.",
+      "section_number": "19",
+      "chapter_number": 5,
+      "statute_id": ""
+    },
+    {
+      "id": "b873481d-9e39-45d5-a34e-857420524b86",
+      "node_type": "Section",
+      "publisher": "finlex",
+      "title": "20 § Päätöksen tiedoksianto",
+      "text": "Rekisteritoimiston on annettava henkilölle tiedoksi hänen kotipaikkaansa koskeva päätös, jos se ei ole muuttoilmoituksen tai maastamuuttoilmoituksen mukainen tai jos rekisteritoimisto on tehnyt päätöksen muutoin kuin henkilöä koskevan muuttoilmoituksen perusteella. Päätökseen on liitettävä ohjeet oikaisuvaatimuksen tekemisestä. Jollei muuta näytetä, henkilön katsotaan saaneen päätöksestä tiedon seitsemäntenä päivänä sen jälkeen, kun se on annettu postin kuljetettavaksi hänen ilmoittamaansa tai rekisteritoimistossa viimeksi tiedossa olevaan osoitteeseen.",
+      "section_number": "20",
+      "chapter_number": 5,
+      "statute_id": ""
+    },
+    {
+      "id": "a2feb97a-091c-486a-a9e6-5a9642504d76",
+      "node_type": "Section",
+      "publisher": "finlex",
+      "title": "21 § Oikaisuvaatimusmenettely",
+      "text": "Henkilö, jonka kotipaikkaa päätös koskee, saa vaatia päätöksen tehneeltä rekisteritoimistolta kirjallisesti oikaisua. Oikaisuvaatimus on tehtävä 30 päivän kuluessa päätöksen tiedoksi saamisesta. Jos oikaisuvaatimusta ei jätetä heti tutkimatta tai hylätä ilmeisesti aiheettomana, rekisteritoimiston on hankittava lausunto tai muu selvitys siltä rekisteritoimistolta, jonka virka-alueella henkilöllä on ollut kotipaikka ennen viimeksi tehtyä kotipaikkapäätöstä.",
+      "section_number": "21",
+      "chapter_number": 5,
+      "statute_id": ""
+    },
+    {
+      "id": "1d9fc24a-3baa-47d8-9087-81748ca2034d",
+      "node_type": "Section",
+      "publisher": "finlex",
+      "title": "22 § Valitusmenettely",
+      "text": "Henkilö, jonka kotipaikkaa rekisteritoimiston oikaisuvaatimukseen antama päätös koskee, voi hakea muutosta valittamalla siihen lääninoikeuteen, jonka tuomiopiirissä päätöksen tehnyt rekisteritoimisto on. Valitus on tehtävä 30 päivän kuluessa päätöksen tiedoksi saamisesta. Lääninoikeus voi tehdyistä vaatimuksista huolimatta päättää, että henkilön kotipaikka on toiseen lääniin kuuluvassa kunnassa tai ettei maastamuuttaneella ole kotipaikkaa Suomessa. Henkilö saa hakea muutosta kotipaikkaansa koskevaan lääninoikeuden päätökseen valittamalla korkeimpaan hallinto-oikeuteen noudattaen, mitä muutoksenhausta hallintoasioissa annetussa laissa (154/50) säädetään.",
+      "section_number": "22",
+      "chapter_number": 5,
+      "statute_id": ""
+    },
+    {
+      "id": "5c043611-819d-404b-a13c-e014963a9182",
+      "node_type": "Section",
+      "publisher": "finlex",
+      "title": "23 § Eräät muutoksenhakuun liittyvät toimenpiteet",
+      "text": "Jos kotipaikkaa koskevasta päätöksestä on valitettu, tämän tulee käydä selville rekisterimerkinnöistä. Lääninoikeuden ja korkeimman hallinto-oikeuden on lähetettävä jäljennös kotipaikkaa koskevasta päätöksestään asianomaiselle rekisteritoimistolle.",
+      "section_number": "23",
+      "chapter_number": 5,
+      "statute_id": ""
+    },
+    {
+      "id": "a0986f06-5975-4202-b52d-9b9943b55a47",
+      "node_type": "Section",
+      "publisher": "finlex",
+      "title": "24 § Selvitykset tietojen käyttötarkoituksesta ja suojauksesta",
+      "text": "Tietoja väestötietojärjestelmästä pyydettäessä on ilmoitettava niiden käyttötarkoitus ja muut luovuttamisen edellytysten selvittämiseksi tarpeelliset seikat. Tämä ei koske tilastotietoja eikä yksittäin luovutettavaa osoitetietoa. Jos kysymyksessä on tietojen massaluovutus, on lisäksi ilmoitettava, kuinka tietojen suojaus järjestetään.",
+      "section_number": "24",
+      "chapter_number": 6,
+      "statute_id": ""
+    },
+    {
+      "id": "3c875367-6fc5-4982-98c5-2106e94f4871",
+      "node_type": "Section",
+      "publisher": "finlex",
+      "title": "25 § Luovuttamisen yleiset edellytykset",
+      "text": "Väestötietojärjestelmästä luovutettavan tiedon tulee olla tarpeellinen ilmoitettuun käyttötarkoitukseen. Tietoa ei saa luovuttaa, jos luovuttamisen voidaan perustellusta syystä epäillä loukkaavan henkilön yksityisyyden suojaa, hänen etujaan tai oikeuksiaan taikka vaarantavan valtion turvallisuutta. Henkilötunnus voidaan luovuttaa ainoastaan silloin, kun henkilön luotettava yksilöinti sekä tietojen käyttötarkoitus sitä edellyttävät, ja jos pyytäjällä on tai voi olla se henkilörekisterilain (471/87) tai muun lain perusteella hallussaan. Edellä 4 §:n 2 momentissa tarkoitetut tiedot sekä 12 §:n 1 momentin nojalla rekisteritoimistoille ilmoitetut tiedot voidaan luovuttaa ainoastaan asianomaisille viranomaisille. Henkilöllä on sen lisäksi, mitä henkilörekisterilain 23 §:ssä säädetään, oikeus kieltää osoitetietonsa luovuttaminen puhelimitse muuhun kuin viranomaisen käyttöön.",
+      "section_number": "25",
+      "chapter_number": 6,
+      "statute_id": ""
+    },
+    {
+      "id": "a9602127-6cbd-4af5-b56c-665af2cce1db",
+      "node_type": "Section",
+      "publisher": "finlex",
+      "title": "26 § Tietojen luovuttaminen viranomaisille",
+      "text": "Valtion ja kunnan viranomaisille luovutetaan niille säädettyjen tehtävien hoitamisessa tarpeelliset tiedot. Tuomioistuimessa ja yksittäisen hallintoasian käsittelyssä tarvittavat tiedot tulee hankkia viran puolesta, jollei rekisteröity ole asian vireille tultua viivytyksettä ilmoittanut toimittavansa itse tarpeelliset selvitykset, tai jollei muunlaiseen menettelyyn ole erityistä syytä. Rakennus- ja huoneistotietoja ei saa kotipaikan yksilöintimerkintöjä lukuun ottamatta käyttää henkilöä koskevassa päätöksenteossa, ellei hänelle anneta päätöksen yhteydessä selvitystä tietojen käytöstä.",
+      "section_number": "26",
+      "chapter_number": 6,
+      "statute_id": ""
+    },
+    {
+      "id": "d3b4e025-d501-4c7d-9481-da30b68ef9fc",
+      "node_type": "Section",
+      "publisher": "finlex",
+      "title": "27 § Tietojen muu luovuttaminen",
+      "text": "Henkilölle ja yhteisölle luovutetaan väestötietojärjestelmästä tietoja, joita nämä tarvitsevat oikeuksiensa ja velvollisuuksiensa toteuttamiseksi. Tietoja voidaan luovuttaa myös suoramarkkinointiin, mielipide- ja markkinatutkimukseen, osoitepalvelutoimintaan, asiakasrekisterin nimi- ja osoitetietojen päivittämiseen, tieteelliseen tutkimukseen tai muuhun näihin verrattavaan tarkoitukseen, mikäli tässä laissa säädetyt muut edellytykset tietojen luovuttamiselle ovat olemassa. Luovutettaessa tietoja massaluovutuksena suoramainontaa tai muuta suoramarkkinointia, mielipide- ja markkinatutkimusta, osoitepalvelua sekä niihin verrattavaa toimintaa varten henkilötietojen otantaperusteena saa käyttää ainoastaan nimeä, vähintään kuuden viikon ikää, sukupuolta, äidinkieltä, ammattia, kotipaikkaa ja osoitetta sekä asetuksella tarkemmin säädettäviä kiinteistö- ja rakennustietoja.",
+      "section_number": "27",
+      "chapter_number": 6,
+      "statute_id": ""
+    },
+    {
+      "id": "9593dd13-2a76-4048-ad18-914904db4c2f",
+      "node_type": "Section",
+      "publisher": "finlex",
+      "title": "28 § Tietojen luovutustapa",
+      "text": "Väestötietojärjestelmästä tietoja luovutetaan teknisen käyttöyhteyden avulla, muussa koneellisesti käsiteltävässä muodossa tai kirjallisesti. Viranomaisille ja lailla säädettyä tehtävää hoitaville yhteisöille tarpeellisia tietoja samoin kuin yksittäisiä osoitetietoja voidaan luovuttaa muullakin tarkoitukseen soveltuvalla tavalla. Väestötietojärjestelmän tietoja ja niihin liittyviä asiakirjoja saa tutkia viranomaisen luvalla ja valvonnassa virkatehtävien hoitoa, tieteellistä tutkimusta tai muuta näihin verrattavaa tarkoitusta varten.",
+      "section_number": "28",
+      "chapter_number": 6,
+      "statute_id": ""
+    },
+    {
+      "id": "52a73c6c-b2d8-400a-8dcc-dd3ba8ec36c0",
+      "node_type": "Section",
+      "publisher": "finlex",
+      "title": "29 § Massaluovutuksen ja arkaluonteisen otannan edellytykset",
+      "text": "Väestötietojärjestelmästä saa luovuttaa tietoja henkilörekisterilaissa tarkoitettuna massaluovutuksena tai arkaluonteisena otantana vain: Tietosuojalautakunta voi antaa poikkeusluvan tietojen massaluovutukseen tai niiden luovuttamiseen arkaluonteisena otantana, vaikkei hakijalla ole henkilörekisterilain mukaista oikeutta tallettaa luovutettavia tietoja henkilörekisteriin. Luvan myöntämiselle on kuitenkin edellytyksenä, että tietojen luovuttamisella voidaan merkittävästi yksinkertaistaa asioiden hallinnollista tai muuta käsittelyä. Edellytyksenä on lisäksi, että rekisteröidyn yksityisyyden, hänen etujensa ja oikeuksiensa sekä valtion turvallisuuden vaarantuminen voidaan estää.",
+      "section_number": "29",
+      "chapter_number": 6,
+      "statute_id": ""
+    },
+    {
+      "id": "fedba612-240d-4d57-b5ba-d26e8797808b",
+      "node_type": "Section",
+      "publisher": "finlex",
+      "title": "30 § Luovutettujen tietojen käyttö",
+      "text": "Tietoja saa käyttää ainoastaan siihen tarkoitukseen, johon ne on luovutettu. Niitä ei saa antaa kolmannelle ilman rekisteriviranomaisen lupaa. Mitä 1 momentissa säädetään, ei koske tämän lain nojalla yksittäin luovutettua tietoa.",
+      "section_number": "30",
+      "chapter_number": 6,
+      "statute_id": ""
+    },
+    {
+      "id": "5739bd63-4cc1-4009-bb3d-614f66f563ed",
+      "node_type": "Section",
+      "publisher": "finlex",
+      "title": "31 § Tietojen luovuttamisesta päättävä viranomainen",
+      "text": "Väestörekisterikeskus päättää tietojen luovuttamisesta, kun kysymyksessä ovat valtakunnalliset tai usean rekisteritoimiston virka-alueen tiedot, väestörekisterikeskuksen säilytettävänä olevista rekisteröityjen uskonnollisten yhdyskuntien jäsenluetteloista annettavat tiedot tai ulkomaille muutoin kuin yksittäin luovutettavat tiedot. Rekisteritoimisto päättää virka-alueensa tietojen ja yksittäin annettavien muiden tietojen luovuttamisesta.",
+      "section_number": "31",
+      "chapter_number": 6,
+      "statute_id": ""
+    },
+    {
+      "id": "0cf96acb-3413-40a7-b9b6-d08c91b24756",
+      "node_type": "Section",
+      "publisher": "finlex",
+      "title": "32 § Tietojen luovuttamista koskeva päätös",
+      "text": "Tietojen luovuttamisesta on tehtävä kirjallinen päätös, jos ne annetaan teknisen käyttöyhteyden avulla, muutoin konekielisesti, massaluovutuksena tai arkaluonteisena otantana. Päätökseen on liitettävä tarpeelliset määräykset tietojen käytöstä ja suojauksesta.",
+      "section_number": "32",
+      "chapter_number": 6,
+      "statute_id": ""
+    },
+    {
+      "id": "df580bf2-ba08-49ad-a41c-4d6d51c0b1ce",
+      "node_type": "Section",
+      "publisher": "finlex",
+      "title": "33 § Muutoksenhaku tietojen luovuttamista koskevasta päätöksestä",
+      "text": "Rekisteritoimiston tietojen luovuttamista koskevaan päätökseen haetaan muutosta valittamalla lääninoikeuteen ja väestörekisterikeskuksen päätökseen valittamalla korkeimpaan hallinto-oikeuteen siten kuin muutoksenhausta hallintoasioissa annetussa laissa säädetään.",
+      "section_number": "33",
+      "chapter_number": 6,
+      "statute_id": ""
+    },
+    {
+      "id": "b18a524d-ec4a-46c0-a85d-df0be463739c",
+      "node_type": "Section",
+      "publisher": "finlex",
+      "title": "34 § Tietopalvelujen maksut",
+      "text": "Väestötietojärjestelmän tietopalveluista peritään maksuja valtion maksuperustelaissa (150/92) säädettyjen perusteiden mukaisesti. Maksu voidaan määrätä suoritteen omakustannusarvoa alemmaksi, jos tietojen saaja osallistuu merkittävässä määrin väestötietojen ylläpitoon.",
+      "section_number": "34",
+      "chapter_number": 7,
+      "statute_id": ""
+    },
+    {
+      "id": "affdea0b-e3af-470b-b2f1-944ec60bc021",
+      "node_type": "Section",
+      "publisher": "finlex",
+      "title": "35 § Salassapitovelvollisuus",
+      "text": "Henkilö, jonka tehtävänä on palvelussuhteen tai toimeksiannon perusteella käsitellä väestötietojärjestelmän tietoja, väestökirjoja ja niihin kuuluvia asiakirjoja, ei saa tämän lain vastaisesti ilmaista näin saamiaan tietoja sivulliselle. Edellä 1 momentissa tarkoitetulla tavoin salassapitovelvollinen on myös henkilö, joka on saanut 28 §:n 2 momentin nojalla luvan tutkia väestötietojärjestelmän tietoja tai väestökirjoja taikka niihin kuuluvia asiakirjoja, sekä rakennuksen omistaja tai tämän edustaja, joka käsittelee muutto- ja maastamuuttoilmoituksia.",
+      "section_number": "35",
+      "chapter_number": 8,
+      "statute_id": ""
+    },
+    {
+      "id": "5ec44a13-3c03-44bc-aec3-6d220f6eaaff",
+      "node_type": "Section",
+      "publisher": "finlex",
+      "title": "36 § Väestökirjanpitorikkomus",
+      "text": "Joka laiminlyö tässä laissa säädetyn ilmoitusvelvollisuuden, on tuomittavaväestökirjanpitorikkomuksestasakkoon. Väestökirjanpitorikkomuksesta voidaan jättää ilmoitus tekemättä, syyte nostamatta tai rangaistus tuomitsematta, jos ilmoitusvelvollinen on kehotuksen saatuaan täyttänyt velvollisuutensa tai jos rikkomus on muutoin vähäinen.",
+      "section_number": "36",
+      "chapter_number": 8,
+      "statute_id": ""
+    },
+    {
+      "id": "a865b2f5-09f3-4c4a-acc6-1a7fa737622c",
+      "node_type": "Section",
+      "publisher": "finlex",
+      "title": "37 § Väestötietojen salassapitovelvollisuuden rikkominen",
+      "text": "Joka rikkoo 35 §:ssä säädetyn salassapitovelvollisuuden, on tuomittava, jollei siitä muualla laissa säädetä ankarampaa rangaistusta,väestötietojen salassapitovelvollisuuden rikkomisestasakkoon tai vankeuteen enintään kuudeksi kuukaudeksi. Virkamiehen ja julkisyhteisön työntekijän salassapitovelvollisuuden rikkomiseen on kuitenkin sovellettava rikoslain 40 luvun 5 §:n säännöksiä.",
+      "section_number": "37",
+      "chapter_number": 8,
+      "statute_id": ""
+    },
+    {
+      "id": "3718fce1-f492-4da3-842e-557a2980d7f6",
+      "node_type": "Section",
+      "publisher": "finlex",
+      "title": "38 § Kirkollisten viranomaisten väestörekisterinpitotehtävät",
+      "text": "Evankelis-luterilaisen kirkon ja ortodoksisen kirkkokunnan viranomaisten pitämää rekisteriä nimitetään kirkolliseksi väestörekisteriksi. Kirkollisen viranomaisen toimivalta määräytyy sen mukaan, missä henkilöllä on kotipaikka, jollei erikseen toisin säädetä. Kirkollisen väestörekisterin pidosta on voimassa soveltuvin osin, mitä 4-7, 24-30, 32, 35-37 ja 43 §:ssä säädetään. Väestötietojärjestelmää voidaan käyttää hyväksi luovutettaessa tietoja kirkollisesta väestörekisteristä.",
+      "section_number": "38",
+      "chapter_number": 9,
+      "statute_id": ""
+    },
+    {
+      "id": "0e852d46-0598-45fb-8826-afd6741b35be",
+      "node_type": "Section",
+      "publisher": "finlex",
+      "title": "39 § Muutoksenhaku kirkollisen viranomaisen päätökseen",
+      "text": "Henkilö, jonka yksityistä oikeutta evankelis-luterilaisen kirkon tai ortodoksisen kirkkokunnan viranomaisen väestörekisterin pitoon liittyvä ratkaisu koskee, voi vaatia siihen kirjallisesti oikaisua. Oikaisuvaatimus on toimitettava ratkaisun tehneelle kirkolliselle viranomaiselle, jonka tulee, jollei se hyväksy oikaisuvaatimusta, saattaa asia rekisteritoimiston käsiteltäväksi kahden viikon kuluessa oikaisuvaatimuksen saapumisesta. Oikaisuvaatimuksen käsittelee se rekisteritoimisto, jonka virka-alueella oikaisuvaatimuksen tekijällä on tai on viimeksi ollut kotipaikka. Jos henkilöllä ei ole koskaan ollut kotipaikkaa Suomessa, Helsingin kihlakunnan rekisteritoimisto käsittelee asian. Muutoksen hakemisesta rekisteritoimiston ja lääninoikeuden päätökseen on soveltuvin osin voimassa, mitä 22 §:ssä säädetään.",
+      "section_number": "39",
+      "chapter_number": 9,
+      "statute_id": ""
+    },
+    {
+      "id": "40419857-62f7-4399-bce0-b2215ccb35de",
+      "node_type": "Section",
+      "publisher": "finlex",
+      "title": "40 § Ylläpitokustannukset",
+      "text": "Valtio maksaa väestötietojärjestelmän ylläpitämisestä aiheutuvat kustannukset lukuun ottamatta siihen liittyvistä tehtävistä evankelis-luterilaiselle kirkolle ja ortodoksiselle kirkkokunnalle sekä kunnille aiheutuvia kustannuksia.",
+      "section_number": "40",
+      "chapter_number": 9,
+      "statute_id": ""
+    },
+    {
+      "id": "eacd440f-b621-4c3a-8964-976804b2911b",
+      "node_type": "Section",
+      "publisher": "finlex",
+      "title": "41 § Tarkemmat säännökset",
+      "text": "Tarkempia säännöksiä tämän lain täytäntöönpanosta annetaan asetuksella.",
+      "section_number": "41",
+      "chapter_number": 9,
+      "statute_id": ""
+    },
+    {
+      "id": "01e96e82-3b2d-418d-994b-7151e819872a",
+      "node_type": "Section",
+      "publisher": "finlex",
+      "title": "42 § Voimaantulo",
+      "text": "Tämä laki tulee voimaan 1 päivänä marraskuuta 1993. Tällä lailla kumotaan 21 päivänä helmikuuta 1969 annettu väestökirjalaki (141/69) siihen myöhemmin tehtyine muutoksineen. Ennen tämän lain voimaantuloa voidaan ryhtyä sen täytäntöönpanon edellyttämiin toimenpiteisiin.",
+      "section_number": "42",
+      "chapter_number": 10,
+      "statute_id": ""
+    },
+    {
+      "id": "5269e0c9-dec1-45bd-a57a-847eb7ded78b",
+      "node_type": "Section",
+      "publisher": "finlex",
+      "title": "43 § Siirtymäsäännökset",
+      "text": "Jollei tietoa ole otettu väestötietojärjestelmään, sitä säilytetään kumotussa väestökirjalaissa tarkoitetuissa väestökirjoissa tai niihin kuuluvissa asiakirjoissa. Tietojen luovuttamisesta päättää se viranomainen, jonka hallussa asiakirja on. Tietojen luovuttamisesta on tällöin voimassa soveltuvin osin, mitä tämän lain 24-33 §:ssä säädetään. Henkilörekisterilain 6 §:n 2 momentissa tarkoitettuja arkaluonteisia tietoja ei saa luovuttaa muille kuin asianomaisille viranomaisille. Väestökirjoissa oleva tieto on kuitenkin julkinen, kun asianomaisen henkilön kuolemasta on kulunut 25 vuotta. Jos muussa laissa tai asetuksessa viitataan tällä lailla kumotun väestökirjalain säännöksiin, viittauksen on katsottava tarkoittavan tämän lain vastaavaa lainkohtaa. Milloin muussa laissa tai asetuksessa oikeus tai velvollisuus määräytyy henkikirjoituksen tai tammikuun ensimmäisen päivän kotipaikan perusteella, sovelletaan tämän lain 18 §:ssä tarkoitettua vuoden vaihteen kotipaikkaa. Jos kysymys on henkikirjoitetusta asukasmäärästä tai tammikuun ensimmäisen päivän asukasluvusta, sovelletaan 18 §:ssä tarkoitettua vuoden vaihteen asukaslukua.",
+      "section_number": "43",
+      "chapter_number": 10,
+      "statute_id": ""
+    }
+  ],
+  "clauses": [
+    {
+      "id": "93d6b40d-96a9-4fc8-8ac5-326b8e7d1a82",
+      "node_type": "Clause",
+      "publisher": "finlex",
+      "title": "§ 4 mom 1",
+      "text": "1) henkilön tunnistetietoina henkilötunnus, nimi, osoite ja kotipaikka sekä sellaiset tiedot kiinteistöstä, rakennuksesta ja huoneistosta, jotka yksilöivät hänen kotipaikkansa;",
+      "clause_number": 1,
+      "section_number": "4",
+      "statute_id": ""
+    },
+    {
+      "id": "f344f400-aee4-433c-9a5c-9087b65c7102",
+      "node_type": "Clause",
+      "publisher": "finlex",
+      "title": "§ 4 mom 2",
+      "text": "2) perheoikeudellista asemaa kuvaavat vanhempia, avioliittoa, puolisoa ja lapsia koskevat tiedot;",
+      "clause_number": 2,
+      "section_number": "4",
+      "statute_id": ""
+    },
+    {
+      "id": "758cd55f-2ca9-4691-a20c-bbcabfbbdbe9",
+      "node_type": "Clause",
+      "publisher": "finlex",
+      "title": "§ 4 mom 3",
+      "text": "3) kansalaisuutta, toimivaltaisuutta ja kuolinaikaa koskevat tiedot; sekä",
+      "clause_number": 3,
+      "section_number": "4",
+      "statute_id": ""
+    },
+    {
+      "id": "f3def466-f612-4e6a-ac7c-5ee7891fef46",
+      "node_type": "Clause",
+      "publisher": "finlex",
+      "title": "§ 4 mom 4",
+      "text": "4) henkilön ilmoittamat tiedot äidinkielestä, ammatista ja tietojen luovuttamista koskevista rajoituksista.",
+      "clause_number": 4,
+      "section_number": "4",
+      "statute_id": ""
+    },
+    {
+      "id": "d4c965c5-1fbd-414f-b67f-c25ab6e2be0e",
+      "node_type": "Clause",
+      "publisher": "finlex",
+      "title": "§ 4 mom 1",
+      "text": "1) tiedot lasten huostaanottoa koskevista sosiaalilautakunnan ratkaisuista;",
+      "clause_number": 1,
+      "section_number": "4",
+      "statute_id": ""
+    },
+    {
+      "id": "d6eabc40-1177-4381-b543-a4812163a497",
+      "node_type": "Clause",
+      "publisher": "finlex",
+      "title": "§ 4 mom 2",
+      "text": "2) vaalien ja kansanäänestysten toimittamista varten tarvittavat tiedot ääni- ja äänestysoikeutetuista; sekä",
+      "clause_number": 2,
+      "section_number": "4",
+      "statute_id": ""
+    },
+    {
+      "id": "20d7f03f-5729-4762-a929-fc57a1801f5e",
+      "node_type": "Clause",
+      "publisher": "finlex",
+      "title": "§ 4 mom 3",
+      "text": "3) avioliiton esteiden tutkintaa ja vihkimistä varten tarvittavat tiedot kirkkokuntaan tai rekisteröityyn uskonnolliseen yhdyskuntaan kuulumisesta.",
+      "clause_number": 3,
+      "section_number": "4",
+      "statute_id": ""
+    },
+    {
+      "id": "b42e5bbd-844a-4368-8608-92ae79a3944b",
+      "node_type": "Clause",
+      "publisher": "finlex",
+      "title": "§ 4 mom 1",
+      "text": "1) vieraan valtion Suomessa olevan diplomaattisen tai muun edustuston taikka lähetetyn konsulin viraston palveluksessa;",
+      "clause_number": 1,
+      "section_number": "4",
+      "statute_id": ""
+    },
+    {
+      "id": "ad02ce20-98e2-43a7-87ee-e91664111ecb",
+      "node_type": "Clause",
+      "publisher": "finlex",
+      "title": "§ 4 mom 2",
+      "text": "2) Yhdistyneiden Kansakuntien, sen erityisjärjestön tai sellaiseen rinnastettavan muun kansainvälisen järjestön palveluksessa; tai",
+      "clause_number": 2,
+      "section_number": "4",
+      "statute_id": ""
+    },
+    {
+      "id": "14433a8c-0904-4ec6-b3d0-0c1cb7a693f6",
+      "node_type": "Clause",
+      "publisher": "finlex",
+      "title": "§ 4 mom 3",
+      "text": "3) edellä 1 tai 2 kohdassa tarkoitetun henkilön perheenjäsen tai hänen yksityisessä palveluksessaan, ellei rekisteritoimisto erityisestä syystä toisin määrää.",
+      "clause_number": 3,
+      "section_number": "4",
+      "statute_id": ""
+    },
+    {
+      "id": "4e459279-7c76-4e10-a56b-5733c93546e2",
+      "node_type": "Clause",
+      "publisher": "finlex",
+      "title": "§ 17 mom 1",
+      "text": "1) oleskelee tilapäisesti ulkomailla;",
+      "clause_number": 1,
+      "section_number": "17",
+      "statute_id": ""
+    },
+    {
+      "id": "aa65c7a6-0c6b-45ee-8a42-8e3a444dd8e6",
+      "node_type": "Clause",
+      "publisher": "finlex",
+      "title": "§ 17 mom 2",
+      "text": "2) on laivaväkeen kuuluvana merillä;",
+      "clause_number": 2,
+      "section_number": "17",
+      "statute_id": ""
+    },
+    {
+      "id": "3798b57d-91ff-4a75-a257-c222e1852ea4",
+      "node_type": "Clause",
+      "publisher": "finlex",
+      "title": "§ 17 mom 3",
+      "text": "3) on virka- tai työsopimussuhteessa Suomen valtioon ja palvelee ulkomaanedustustossa;",
+      "clause_number": 3,
+      "section_number": "17",
+      "statute_id": ""
+    },
+    {
+      "id": "244068c8-815d-48a5-9ca9-1132f22f2a8e",
+      "node_type": "Clause",
+      "publisher": "finlex",
+      "title": "§ 17 mom 4",
+      "text": "4) on hoidettavana sairaalassa tai muussa siihen verrattavassa laitoksessa;",
+      "clause_number": 4,
+      "section_number": "17",
+      "statute_id": ""
+    },
+    {
+      "id": "990af939-e26b-4d85-83ef-4e87a68786d8",
+      "node_type": "Clause",
+      "publisher": "finlex",
+      "title": "§ 17 mom 5",
+      "text": "5) suorittaa asevelvollisuutta; tai",
+      "clause_number": 5,
+      "section_number": "17",
+      "statute_id": ""
+    },
+    {
+      "id": "55788761-82cb-4423-9c3c-14d494e1bc02",
+      "node_type": "Clause",
+      "publisher": "finlex",
+      "title": "§ 17 mom 6",
+      "text": "6) suorittaa rangaistusta laitoksessa.",
+      "clause_number": 6,
+      "section_number": "17",
+      "statute_id": ""
+    },
+    {
+      "id": "e517a6fd-2bfb-4771-ae67-70dd018c15dd",
+      "node_type": "Clause",
+      "publisher": "finlex",
+      "title": "§ 29 mom 1",
+      "text": "1) jos hakijalla on henkilörekisterilain mukainen oikeus tallettaa luovutettavat tiedot henkilörekisteriin eikä niiden luovutus ja käyttö vaaranna rekisteröidyn yksityisyyden suojaa, hänen etujaan tai oikeuksiaan taikka valtion turvallisuutta; tai",
+      "clause_number": 1,
+      "section_number": "29",
+      "statute_id": ""
+    },
+    {
+      "id": "3d851dc3-fd94-43e9-9f5a-2c72e023a196",
+      "node_type": "Clause",
+      "publisher": "finlex",
+      "title": "§ 29 mom 2",
+      "text": "2) jos tietojen luovuttaminen perustuu muun lain säännökseen.",
+      "clause_number": 2,
+      "section_number": "29",
+      "statute_id": ""
+    }
+  ],
+  "cross_references": [],
+  "raw_html_path": "C:\\Users\\danit\\finance-hack\\aalto-hackaton-2026\\data\\raw\\finlex\\Laki (säädöskokoelma)\\Väestötietolaki.html"
+}

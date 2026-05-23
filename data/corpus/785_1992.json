@@ -1,0 +1,372 @@
+{
+  "statute": {
+    "id": "f3ccf0ca-02ac-41cf-af4c-753ead8ef311",
+    "node_type": "Statute",
+    "publisher": "finlex",
+    "title": "Laki sosiaali- ja terveydenhuollon asiakastietojen sähköisestä käsittelystä",
+    "text": "Laki sosiaali- ja terveydenhuollon asiakastietojen sähköisestä käsittelystä",
+    "statute_id": "785/1992",
+    "finlex_url": "https://finlex.fi/fi/laki/ajantasa/785/1992"
+  },
+  "chapters": [
+    {
+      "id": "dde52556-af87-45f0-9b32-733b793ea326",
+      "node_type": "Chapter",
+      "publisher": "finlex",
+      "title": "Chapter 1",
+      "text": "1 luku Yleiset säännökset",
+      "chapter_number": 1,
+      "statute_id": "785/1992"
+    },
+    {
+      "id": "3be12239-bbfb-45b9-b72a-6cd6be68e06e",
+      "node_type": "Chapter",
+      "publisher": "finlex",
+      "title": "Chapter 2",
+      "text": "2 luku Asiakastietojen sähköisen käsittelyn yleiset vaatimukset",
+      "chapter_number": 2,
+      "statute_id": "785/1992"
+    },
+    {
+      "id": "cd6607aa-1846-4181-a92c-a06e7ee22133",
+      "node_type": "Chapter",
+      "publisher": "finlex",
+      "title": "Chapter 3",
+      "text": "3 luku Potilastietojen sähköinen luovuttaminen valtakunnallisten tietojärjestelmäpalvelujen avulla",
+      "chapter_number": 3,
+      "statute_id": "785/1992"
+    },
+    {
+      "id": "0c570a04-88cc-4451-aa45-569c7a7ee7b3",
+      "node_type": "Chapter",
+      "publisher": "finlex",
+      "title": "Chapter 4",
+      "text": "4 luku Terveydenhuollon valtakunnalliset tietojärjestelmäpalvelut",
+      "chapter_number": 4,
+      "statute_id": "785/1992"
+    },
+    {
+      "id": "53ac9c92-f12a-4d54-bb6d-ab06f6a174c7",
+      "node_type": "Chapter",
+      "publisher": "finlex",
+      "title": "Chapter 5",
+      "text": "5 luku Asiakkaan tiedonsaantioikeus",
+      "chapter_number": 5,
+      "statute_id": "785/1992"
+    },
+    {
+      "id": "a7fd289f-339c-4dc2-8e11-e0c2c96ce218",
+      "node_type": "Chapter",
+      "publisher": "finlex",
+      "title": "Chapter 6",
+      "text": "6 luku Erinäiset säännökset",
+      "chapter_number": 6,
+      "statute_id": "785/1992"
+    },
+    {
+      "id": "13cbd305-69b0-4325-ae0b-d34e810de5eb",
+      "node_type": "Chapter",
+      "publisher": "finlex",
+      "title": "Chapter 7",
+      "text": "7 luku Voimaantulo- ja siirtymäsäännökset",
+      "chapter_number": 7,
+      "statute_id": "785/1992"
+    }
+  ],
+  "sections": [
+    {
+      "id": "b979a4fb-4a64-4fd6-ba32-f89b7bacbb78",
+      "node_type": "Section",
+      "publisher": "finlex",
+      "title": "1 § Lain tarkoitus",
+      "text": "Tämän lain tarkoituksena on edistää sosiaali- ja terveydenhuollon asiakastietojen tietoturvallista sähköistä käsittelyä. Lailla toteutetaan yhtenäinen sähköinen potilastietojen käsittely- ja arkistointijärjestelmä terveydenhuollon palvelujen tuottamiseksi potilasturvallisesti ja tehokkaasti sekä potilaan tiedonsaantimahdollisuuksien edistämiseksi.",
+      "section_number": "1",
+      "chapter_number": 1,
+      "statute_id": "785/1992"
+    },
+    {
+      "id": "6468f633-4d3e-4da0-86fd-1a36e278b458",
+      "node_type": "Section",
+      "publisher": "finlex",
+      "title": "2 § Soveltamisala",
+      "text": "Tässä laissa säädetään sosiaali- ja terveydenhuollon asiakastietojen sähköisestä käsittelystä. Tätä lakia sovelletaan julkisten ja yksityisten sosiaalihuollon ja terveydenhuollon palvelujen antajien järjestäessä taikka toteuttaessa sosiaalihuoltoa tai terveydenhuoltoa. Jollei tästä tai muusta laista muuta johdu, asiakastietojen käsittelyyn sovelletaan, mitä potilaan asemasta ja oikeuksista annetussa laissa (785/1992), jäljempänä potilaslaki, sosiaalihuollon asiakkaan asemasta ja oikeuksista annetussa laissa (812/2000), jäljempänä asiakaslaki, henkilötietolaissa (523/1999), viranomaisten toiminnan julkisuudesta annetussa laissa (621/1999), sähköisestä asioinnista viranomaistoiminnassa annetussa laissa (13/2003), sähköisistä allekirjoituksista annetussa laissa (14/2003) sekä arkistolaissa (831/1994) tai näiden nojalla säädetään.",
+      "section_number": "2",
+      "chapter_number": 1,
+      "statute_id": "785/1992"
+    },
+    {
+      "id": "60f39661-5eb4-4e65-ad8f-dbf9d40c25fc",
+      "node_type": "Section",
+      "publisher": "finlex",
+      "title": "3 § Määritelmät",
+      "text": "Tässä laissa tarkoitetaan:",
+      "section_number": "3",
+      "chapter_number": 1,
+      "statute_id": "785/1992"
+    },
+    {
+      "id": "a3da80c4-e378-4201-a930-005098b88d96",
+      "node_type": "Section",
+      "publisher": "finlex",
+      "title": "4 § Asiakastietojen käytettävyys ja säilyttäminen",
+      "text": "Asiakastietojen sähköisessä käsittelyssä tulee turvata tietojen saatavuus ja käytettävyys. Asiakastietojen tulee säilyä eheinä ja muuttumattomina koko niiden säilytysajan. Sähköisestä asiakasasiakirjasta tulee olla vain yksi alkuperäinen tunnisteella yksilöity kappale. Alkuperäisestä asiakirjasta voidaan palvelun toteuttamiseksi tai muusta perustellusta syystä ottaa jäljennös, josta tulee ilmetä asiakirjan olevan jäljennös. Sosiaali- ja terveysministeriön asetuksella voidaan säätää tarkemmin asiakasasiakirjojen yksilöimisestä sekä niiden jäljennösten säilyttämisestä.",
+      "section_number": "4",
+      "chapter_number": 2,
+      "statute_id": "785/1992"
+    },
+    {
+      "id": "1fb3ba9a-efc2-4ff4-9d49-cf22dff9ffc8",
+      "node_type": "Section",
+      "publisher": "finlex",
+      "title": "5 § Käytön ja luovutuksen seuranta",
+      "text": "Sosiaalihuollon ja terveydenhuollon palvelujen antajan tulee pitää rekisteriä omien asiakastietojärjestelmiensä ja asiakasrekisteriensä käyttäjistä sekä näiden käyttöoikeuksista. Palvelujen antajan tulee kerätä asiakasrekisterikohtaisesti kaikesta asiakastietojen käytöstä ja jokaisesta asiakastietojen luovutuksesta seurantaa varten lokitiedot lokirekisteriin. Käyttölokirekisteriin tallennetaan tieto käytetyistä asiakastiedoista, siitä palvelujen antajasta, jonka asiakastietoja käytetään, asiakastietojen käyttäjästä, tietojen käyttötarkoituksesta ja käyttöajankohdasta. Luovutuslokirekisteriin tallennetaan tieto luovutetuista asiakastiedoista, siitä palvelujen antajasta, jonka asiakastietoja luovutetaan, asiakastietojen luovuttajasta, tietojen luovutustarkoituksesta, luovutuksensaajasta ja luovutusajankohdasta. Terveydenhuollon palvelujen antajien potilasasiakirjatietojen luovuttamista koskevat lokitiedot tallennetaan 14 §:ssä tarkoitettuun arkistointipalveluun. Asiakastietojen käyttäjien käyttöoikeustiedot ja lokitiedot tulee hävittää, kun ne eivät enää ole tarpeen asiakastietojen käytön ja luovutuksen lainmukaisuuden seuraamiseksi. Käyttöoikeus- ja lokitiedoista sekä tietojen vähimmäissäilytysajasta voidaan säätää tarkemmin sosiaali- ja terveysministeriön asetuksella.",
+      "section_number": "5",
+      "chapter_number": 2,
+      "statute_id": "785/1992"
+    },
+    {
+      "id": "c64c0891-49ef-46d6-afe0-16fe77a0f064",
+      "node_type": "Section",
+      "publisher": "finlex",
+      "title": "6 § Potilasasiakirjojen tietorakenteet",
+      "text": "Terveydenhuollon potilastietojärjestelmien ja potilasasiakirjojen tietorakenteiden tulee mahdollistaa sähköisten potilasasiakirjojen käyttö, luovuttaminen, säilyttäminen ja suojaaminen 14 §:ssä tarkoitettujen valtakunnallisten tietojärjestelmäpalvelujen avulla. Palvelutapahtumassa käytettävät tiedot tulee voida rajata potilasasiakirjojen tietorakenteiden avulla vain kyseisen palvelutapahtuman kannalta tarpeellisiin tietoihin. Terveydenhuollon palvelujen antajan tulee luokitella erityistä suojausta edellyttävät potilasasiakirjat ja potilastiedot erillisellä vahvistuspyynnöllä suojattaviin potilastietoihin. Sosiaali- ja terveysministeriön asetuksella voidaan säätää tarkemmin potilastietojärjestelmien ja potilasasiakirjojen tietorakenteista sekä tietojen luokittelusta.",
+      "section_number": "6",
+      "chapter_number": 2,
+      "statute_id": "785/1992"
+    },
+    {
+      "id": "ec725edf-eb9f-47be-bac6-2fbb23eb49ef",
+      "node_type": "Section",
+      "publisher": "finlex",
+      "title": "7 § Suunnittelu-, tutkimus- ja tilastotiedot",
+      "text": "Asiakastietojärjestelmästä tulee voida tuottaa sosiaalihuollon ja terveydenhuollon palvelujen antajan oman suunnittelun, johtamisen ja tilastoinnin, sekä valtakunnallisen tutkimus- ja tilastotoiminnan kannalta tarpeelliset tiedot ja hoidon tarpeen arviointia sekä hoitoon pääsyn ajankohtaa koskevat tiedot.",
+      "section_number": "7",
+      "chapter_number": 2,
+      "statute_id": "785/1992"
+    },
+    {
+      "id": "f20f2b38-2c36-45cf-a574-deee27256294",
+      "node_type": "Section",
+      "publisher": "finlex",
+      "title": "8 § Tunnistaminen",
+      "text": "Asiakastietojen sähköisessä käsittelyssä asiakas, sosiaalihuollon ja terveydenhuollon palvelujen antaja, muu asiakastietojen käsittelyn osapuoli ja näiden edustajat sekä tietotekniset laitteet tulee tunnistaa luotettavasti. Potilastietoja käsittelevien henkilöiden, palvelujen antajien, tietoteknisten laitteiden sekä valtakunnallisten tietojärjestelmäpalvelujen tunnistaminen edellyttää lisäksi todentamista. Sosiaali- ja terveysministeriön asetuksella voidaan säätää tarkemmin tunnistamisen ja todentamisen teknisistä keinoista.",
+      "section_number": "8",
+      "chapter_number": 2,
+      "statute_id": "785/1992"
+    },
+    {
+      "id": "68340c2b-e9ad-4616-a178-0de88b4b5c83",
+      "node_type": "Section",
+      "publisher": "finlex",
+      "title": "9 § Asiakirjan sähköinen allekirjoittaminen",
+      "text": "Asiakastietojen eheys, muuttumattomuus ja kiistämättömyys tulee varmistaa sähköisellä allekirjoituksella tietojen sähköisessä käsittelyssä, tiedonsiirrossa ja säilytyksessä. Luonnollisen henkilön sähköisessä allekirjoittamisessa tulee käyttää sähköisistä allekirjoituksista annetussa laissa tarkoitettua kehittynyttä sähköistä allekirjoitusta. Organisaation ja tietoteknisten laitteiden allekirjoituksessa on käytettävä luotettavuudeltaan vastaavaa sähköistä allekirjoitusta.",
+      "section_number": "9",
+      "chapter_number": 2,
+      "statute_id": "785/1992"
+    },
+    {
+      "id": "4f126b6c-8f45-41ca-8ec1-02a154d6b05a",
+      "node_type": "Section",
+      "publisher": "finlex",
+      "title": "10 § Potilastietojen luovuttaminen",
+      "text": "Potilastietoja saadaan luovuttaa 14 §:ssä tarkoitettujen valtakunnallisten tietojärjestelmäpalvelujen avulla ainoastaan toiselle terveydenhuollon palvelujen antajalle. Luovutuksen tulee perustua joko potilaan suostumukseen tai luovutuksen oikeuttavaan lain säännökseen. Sähköiseen luovutuspyyntöön perustuva potilastietojen sähköinen luovutus toiselle terveydenhuollon palvelujen antajalle toteutetaan valtakunnallisten tietojärjestelmäpalvelujen avulla sen jälkeen, kun hoitosuhteen olemassaolo potilaan ja luovutuspyynnön esittäjän välillä on tietoteknisesti varmistettu. Muut potilastietojen sähköiset luovutukset toiselle terveydenhuollon palvelujen antajalle toteutetaan joko valtakunnallisten tietojärjestelmäpalvelujen avulla tai terveydenhuollon palvelujen antajien välisenä luovutuksena. Sen estämättä, mitä 1 momentissa säädetään, voidaan valtakunnallisten tietojärjestelmäpalvelujen avulla toteuttaa arkistointipalveluun liittyneiden terveydenhuollon palvelujen antajien lukuun terveydenhuollon valtakunnallisista henkilörekistereistä annetun lain (556/1989) ja sen nojalla annettujen säännösten mukainen tietojen luovutus terveydenhuollon valtakunnallisiin henkilörekistereihin.",
+      "section_number": "10",
+      "chapter_number": 3,
+      "statute_id": "785/1992"
+    },
+    {
+      "id": "15f266e1-b9ad-426e-ac54-d873e28bec35",
+      "node_type": "Section",
+      "publisher": "finlex",
+      "title": "11 § Hakutiedot",
+      "text": "Hakutiedot ovat potilasasiakirjojen sähköisessä hakemisessa käytettäviä asiakirjan yksilöiviä tietoja. Hakutietojen tarkoituksena on mahdollistaa potilasasiakirjojen luovutus toiselle terveydenhuollon palvelujen antajalle 14 §:n 1 momentissa tarkoitetun hakemistopalvelun avulla. Sähköiseen potilasasiakirjaan ja potilaan suostumusta koskevat tiedot sisältävään asiakirjaan (suostumusasiakirja) on liitettävä hakutiedot. Hakutiedot ovat osa kunkin terveydenhuollon palvelujen antajan potilasrekisteriä. Potilasasiakirjan hakutietoja ovat potilaan henkilötunnus, terveydenhuollon palvelujen antaja, potilasrekisteri, osastohoitojakso tai avohoitokäyntitieto ja niiden alkamis- ja päättymispäivä, tieto siitä, sisältääkö potilasasiakirja tietoja laboratoriotutkimuksista, kuvantamistutkimuksista tai muista vastaavista tutkimuksista sekä palvelukokonaisuustunnus. Suostumusasiakirjaan tallennetaan hakutietoina lisäksi tieto potilaan antaman suostumuksen olemassaolosta, suostumuksen antamisen aika sekä suostumukseen liittyvä palvelukokonaisuustunnus. Jos potilaalla ei ole henkilötunnusta, voidaan hakutietona tallentaa nimen ja syntymäajan yhdistelmä. Potilastietojen haun hakutietojen avulla tulee olla mahdollista erikseen julkisen ja yksityisen terveydenhuollon, eri palvelujen antajien sekä eri potilasrekistereiden osalta.",
+      "section_number": "11",
+      "chapter_number": 3,
+      "statute_id": "785/1992"
+    },
+    {
+      "id": "0d788aac-48c3-482f-abb0-670f7729e429",
+      "node_type": "Section",
+      "publisher": "finlex",
+      "title": "12 § Hakutietojen luovutuskielto",
+      "text": "Potilaalla on oikeus kieltää hakutietojensa luovutus tietyn terveydenhuollon palvelujen antajan taikka potilasrekisterin osalta sekä yksittäisen palvelutapahtuman tai palvelujen antajan palvelukokonaisuuden osalta. Potilaalla on oikeus peruuttaa hakutietojen luovutuskielto tai tehdä siihen muutoksia. Kiellon sekä sen muutoksen ja peruutuksen tulee olla allekirjoitettu omakätisesti tai turvallisuudeltaan kehittynyttä sähköistä allekirjoitusta vastaavalla sähköisellä allekirjoituksella, ja ne on tehtävä sille palvelujen antajalle, jonka potilasrekisterin tietoja kielto koskee. Kiellosta huolimatta hakutiedot saadaan luovuttaa potilaan 1 momentissa tarkoitetulla tavalla allekirjoitetun suostumuksen perusteella sekä potilaslain 13 §:n 3 momentin 3 kohdassa tarkoitetuissa tapauksissa.",
+      "section_number": "12",
+      "chapter_number": 3,
+      "statute_id": "785/1992"
+    },
+    {
+      "id": "fe22c9f1-d3e6-4e47-8055-b870f3d08363",
+      "node_type": "Section",
+      "publisher": "finlex",
+      "title": "13 § Potilaan suostumus",
+      "text": "Potilaan suostumus voidaan antaa palvelutapahtumaa tai palvelukokonaisuutta varten. Suostumuksen tulee olla allekirjoitettu omakätisesti tai turvallisuudeltaan kehittynyttä sähköistä allekirjoitusta vastaavalla sähköisellä allekirjoituksella. Potilaslain 13 §:n 3 momentin 2 kohdassa tarkoitetut tiedot ja ne hakutiedot, joiden luovuttamista potilas ei ole 12 §:ssä tarkoitetulla tavalla kieltänyt, voidaan kuitenkin luovuttaa toiselle terveydenhuollon palvelujen antajalle potilaan suullisella suostumuksella. Kirjallisesta suostumuksesta tulee laatia suostumusasiakirja. Suostumusasiakirjasta tulee suostumuksen antamisen yhteydessä tulostaa jäljennös potilaalle. Suostumusasiakirjat ovat osa kunkin suostumuksen pyytäneen palvelujen antajan sähköistä potilasrekisteriä. Suullinen suostumus kirjataan potilasrekisteriin. Potilaalla on oikeus peruuttaa suostumus tai tehdä siihen muutoksia. Palvelukokonaisuutta varten annettu suostumus lakkaa olemasta voimassa, kun edellisestä palvelukokonaisuuteen kuuluvan palvelutapahtuman päättymisestä on kulunut vuosi. Jos potilaalla ei ole edellytyksiä arvioida annettavan suostumuksen merkitystä, palvelutapahtuman tai palvelukokonaisuuden kannalta tarpeellisia tietoja saa antaa hänen laillisen edustajansa suostumuksen perusteella. Potilaan laillinen edustaja voi tällöin potilaan puolesta myös kieltää 12 §:ssä tarkoitetulla tavalla hakutietojen luovuttamisen. Potilaan laillisella edustajalla on oikeus salassapitovelvollisuuden estämättä saada suostumuksen antamista, kiellon toteuttamista tai niiden muuttamista varten välttämättömät potilasta koskevat tiedot.",
+      "section_number": "13",
+      "chapter_number": 3,
+      "statute_id": "785/1992"
+    },
+    {
+      "id": "4c019a95-98b9-4914-9053-808844a59cc6",
+      "node_type": "Section",
+      "publisher": "finlex",
+      "title": "14 § Valtakunnalliset tietojärjestelmäpalvelut",
+      "text": "Kansaneläkelaitos hoitaa terveydenhuollon palvelujen antajien lukuun potilasasiakirjojen säilytystä ja käyttöä varten olevaa arkistointipalvelua sekä sen osana potilasasiakirjojen luovutusta varten hakemistopalvelua ja suostumuksenhallintapalvelua. Kansaneläkelaitos hoitaa luovutuslokirekisterien säilytyksen osana arkistointipalvelua. Kansaneläkelaitos voi hoitaa osana arkistointipalvelua myös käyttölokirekisterien säilytyksen. Kansaneläkelaitos hoitaa 19 §:ssä tarkoitettua katseluyhteyttä. Sosiaali- ja terveysalan tutkimus- ja kehittämiskeskus vastaa koodistopalvelun sisällöstä. Kansaneläkelaitos hoitaa koodistopalvelun tietoteknistä toteutusta. Koodistopalvelu sisältää kaikki koodistot, joita tarvitaan potilasasiakirjojen käsittelyssä valtakunnallisten tietojärjestelmäpalvelujen avulla. Terveydenhuollon oikeusturvakeskus hoitaa terveydenhuollon palvelujen antajien sekä näiden palvelujen antamiseen osallistuvien henkilöiden ja tietoteknisten laitteiden varmennepalvelua, johon kuuluvat tunnistamisessa ja todentamisessa sekä sähköisessä allekirjoittamisessa tarvittavat varmenteet ja näihin liittyvät palvelut. Kansaneläkelaitos ei saa antaa valtakunnallisten tietojärjestelmäpalvelujen järjestämiseen liittyvien potilasrekistereiden tai niihin liittyvien lokirekistereiden käsittelyä tai säilyttämistä toimeksiantotehtävänä ulkopuolisille.",
+      "section_number": "14",
+      "chapter_number": 4,
+      "statute_id": "785/1992"
+    },
+    {
+      "id": "ee423378-777f-42bb-9b1f-6da7e5c9968a",
+      "node_type": "Section",
+      "publisher": "finlex",
+      "title": "15 § Velvollisuus liittyä tietojärjestelmäpalvelujen käyttäjäksi",
+      "text": "Julkisen terveydenhuollon palvelujen antajan tulee liittyä 14 §:ssä tarkoitettujen valtakunnallisten tietojärjestelmäpalvelujen käyttäjäksi. Yksityisen terveydenhuollon palvelujen antajan tulee liittyä näiden tietojärjestelmäpalvelujen käyttäjäksi, jos sen potilasasiakirjojen pitkäaikaissäilytys toteutetaan sähköisesti. Ahvenanmaan maakunnan julkisen terveydenhuollon palvelujen antaja voi liittyä valtakunnallisten tietojärjestelmäpalvelujen käyttäjäksi. Tästä liittymisestä on kuitenkin säädettävä erikseen siten kuin Ahvenanmaan itsehallintolain (1144/1991) 32 §:ssä säädetään. Kaikki liittymisen jälkeen valmistuneiden valmiiden potilasasiakirjojen alkuperäiset kappaleet tulee tallentaa valtakunnalliseen arkistointipalveluun. Näihin potilasasiakirjoihin liittyvät suostumusasiakirjat tallennetaan vastaavasti suostumuksenhallintapalveluun. Ennen liittymistä valmistuneet potilasasiakirjat sekä niitä koskevat suostumusasiakirjat voidaan tallentaa valtakunnalliseen arkistointipalveluun. Ennen liittymistä valmistuneiden asiakirjojen hakutietoja ei kuitenkaan saa luovuttaa ilman potilaan kirjallista suostumusta. Keskeneräisten potilasasiakirjojen hakutiedot tulee tallentaa hakemistopalveluun. Sosiaali- ja terveysministeriön asetuksella voidaan säätää tarkemmin siitä, miten keskeneräiset potilasasiakirjat tallennetaan.",
+      "section_number": "15",
+      "chapter_number": 4,
+      "statute_id": "785/1992"
+    },
+    {
+      "id": "5cdd9d3f-f47b-4542-9104-069ca6c63d03",
+      "node_type": "Section",
+      "publisher": "finlex",
+      "title": "16 § Vastuut tietojärjestelmäpalvelujen hoidossa",
+      "text": "Valtakunnallisten tietojärjestelmäpalvelujen ja potilastietojen tulee olla käytettävissä ympärivuorokautisesti siten, että potilastiedot ovat aina saatavilla potilasturvallisuutta vaarantamatta. Tietojärjestelmäpalveluilla tulee olla tarpeelliset varajärjestelmät toimintahäiriöiden ja poikkeusolojen varalle. Kansaneläkelaitos vastaa arkistointipalvelun teknisenä toteuttajana ja ylläpitäjänä arkistointipalvelun yleisestä toiminnasta ja toiminnan lainmukaisuudesta, huolehtii potilaalle annettavan 19 §:ssä tarkoitetun katseluyhteyden teknisestä toteuttamisesta sekä käyttää päätösvaltaa järjestelmän tietotekniseen toimintaan liittyvissä kysymyksissä, jollei tästä laista tai sen nojalla annetuista säännöksistä muuta johdu. Arkistointipalveluun liittynyt terveydenhuollon palvelujen antaja vastaa potilastietojen rekisterinpitäjänä järjestelmään tallennettujen potilastietojen ja niiden käsittelyyn liittyvien lokitietojen sisällöstä ja virheettömyydestä sekä tietojen luovuttamisen ja muun käsittelyn lainmukaisuudesta. Kansaneläkelaitos vastaa hoitamiensa tietojärjestelmäpalvelujen osalta potilastietojen käytettävyydestä, eheydestä, muuttumattomuudesta, suojaamisesta, säilyttämisestä ja hävittämisestä. Kansaneläkelaitos vastaa siitä, että arkistointipalvelu toimii teknisesti siten, että potilastietoja ei sen kautta voida luovuttaa lain vastaisesti sekä siitä, että luovutuksesta tallentuu lokitieto luovutuslokirekisteriin. Kansaneläkelaitoksella ei ole oikeutta määrätä arkistointipalveluun kuuluvista potilastiedoista eikä luovuttaa niitä, ellei tässä laissa toisin säädetä. Potilastietoja ei saa muutoinkaan käsitellä laajemmin kuin mitä ylläpitoon kuuluvat tehtävät välttämättä edellyttävät. Arkistointipalvelu on suojattava valtion viranomaisten tietoturvallisuutta koskevien velvoitteiden mukaisesti. Terveydenhuollon oikeusturvakeskus vastaa terveydenhuollon varmennepalvelujen luotettavasta toiminnasta. Terveydenhuollon oikeusturvakeskuksen tulee pitää yleisesti saatavilla varmennetta ja varmennetoimintaa koskevat tiedot, joiden perusteella sen toiminta ja luotettavuus voidaan arvioida, sekä turvata allekirjoituksen luomistietojen luottamuksellisuus silloin, kun Terveydenhuollon oikeusturvakeskus itse tuottaa tiedot. Terveydenhuollon oikeusturvakeskus ei saa tallentaa tai jäljentää allekirjoittajalle luovutettuja allekirjoituksen luomistietoja. Terveydenhuollon oikeusturvakeskuksen on pidettävä rekisteriä myöntämistään varmenteista. Lisäksi sen on pidettävä varmenteisiin luottavien osapuolten saatavilla rekisteriä peruutetuista varmenteista.",
+      "section_number": "16",
+      "chapter_number": 4,
+      "statute_id": "785/1992"
+    },
+    {
+      "id": "7bd9cb8a-c293-4136-a9e6-c7a8543b233b",
+      "node_type": "Section",
+      "publisher": "finlex",
+      "title": "17 § Potilaan informointi",
+      "text": "Kansaneläkelaitos laatii kirjallisen selosteen, josta ilmenee tiedot valtakunnallisista tietojärjestelmäpalveluista, niiden yleisistä toimintaperiaatteista sekä näistä tietojärjestelmäpalveluista vastaavista tahoista, hakutietojen tallentamisesta ja niiden käyttötarkoituksesta sekä käsittelystä, potilastiedon luovutuksen edellytyksistä, potilaan oikeuksista vaikuttaa potilastietojen käsittelyyn, potilastietojen suojaamisesta sekä muista potilaan kannalta merkityksellisistä tietojen käsittelyyn liittyvistä seikoista. Valtakunnallisiin tietojärjestelmäpalveluihin liittyneen terveydenhuollon palvelujen antajan on annettava seloste potilaalle. Valtakunnallisiin tietojärjestelmäpalveluihin liittyneen terveydenhuollon palvelujen antajan on palvelutapahtuman yhteydessä ilmoitettava potilaalle hänen oikeudestaan kieltää hakutietojen luovuttaminen. Jos potilas on jo saanut 1 ja 2 momentissa tarkoitetut tiedot, voidaan tietojenantovelvollisuudesta poiketa siten kuin henkilötietolain 24 §:ssä säädetään. Tietojen antamisesta tulee tehdä merkintä potilasrekisteriin.",
+      "section_number": "17",
+      "chapter_number": 5,
+      "statute_id": "785/1992"
+    },
+    {
+      "id": "5428cf0d-d3e6-4aa5-b9c5-d7dd035168c9",
+      "node_type": "Section",
+      "publisher": "finlex",
+      "title": "18 § Asiakkaan tiedonsaantioikeus",
+      "text": "Asiakkaan oikeudesta tarkastaa asiakasrekisterin tietoja ja oikeuden toteuttamisesta säädetään henkilötietolain 26―28 §:ssä. Asiakkaalla on oikeus saada asiakastietojensa käsittelyyn liittyvien oikeuksiensa selvittämistä tai toteuttamista varten sosiaalihuollon ja terveydenhuollon palvelujen antajalta kirjallisesta pyynnöstä viivytyksettä lokirekisterin perusteella maksutta tieto siitä, kuka on käyttänyt tai kenelle on luovutettu häntä koskevia tietoja sekä mikä on ollut käytön tai luovutuksen peruste. Asiakkaalla ei kuitenkaan ole oikeutta saada lokitietoja henkilötietolain 27 §:n 1 momentin 1―4 kohdassa tarkoitetuissa tapauksissa. Asiakas ei saa käyttää tai luovuttaa saamiaan lokitietoja edelleen muuhun tarkoitukseen. Jos asiakas pyytää toistamiseen saman ajanjakson lokitietoja, palvelujen antaja voi periä lokitietojen antamisesta kohtuullisen korvauksen, joka ei saa ylittää tiedon antamisesta aiheutuvia välittömiä kustannuksia. Pääsystä lokitietoihin 19 §:ssä tarkoitetun katseluyhteyden avulla ei kuitenkaan saa periä erillistä maksua. Jos asiakas katsoo, että hänen asiakastietojaan on käytetty tai luovutettu ilman riittäviä perusteita, tietoja käyttäneen tai tietoja saaneen palvelujen antajan tulee antaa asiakkaalle pyynnöstä selvitys tietojen käytön tai luovuttamisen perusteista.",
+      "section_number": "18",
+      "chapter_number": 5,
+      "statute_id": "785/1992"
+    },
+    {
+      "id": "758ec036-d524-409c-8743-b2e72b57cef9",
+      "node_type": "Section",
+      "publisher": "finlex",
+      "title": "19 § Katseluyhteys",
+      "text": "Täysi-ikäiselle potilaalle annetaan sähköisen katseluyhteyden avulla hänen seuraavat valtakunnalliseen arkistointipalveluun tallennetut potilastietonsa ja niiden luovutukseen liittyvät tiedot: Potilaalle voidaan antaa sähköisen katseluyhteyden avulla myös ajanvaraustiedot sekä 1 momentin 3 kohdan edellytysten täyttyessä kuvantamistulokset ja muut vastaavat tutkimustulokset. Sen estämättä, mitä 1 ja 2 momentissa säädetään, katseluyhteys tulee toteuttaa siten, ettei potilaalla ole pääsyä niihin tietoihin, joiden luovuttamisesta voi terveydenhuollon ammattihenkilön harkinnan mukaan aiheutua vakavaa vaaraa potilaan terveydelle tai hoidolle taikka jonkun muun oikeuksille. Katseluyhteys tulee toteuttaa siten, että potilaan yksityisyyden suoja ei vaarannu. Tietojen saanti katseluyhteyden avulla ei vaikuta potilaan henkilötietolain mukaiseen tarkastusoikeuteen. Sosiaali- ja terveysministeriön asetuksella voidaan säätää siitä, miten tiedot annetaan katseluyhteyden kautta.",
+      "section_number": "19",
+      "chapter_number": 5,
+      "statute_id": "785/1992"
+    },
+    {
+      "id": "3286e157-5457-4004-9a43-b87e40c9b032",
+      "node_type": "Section",
+      "publisher": "finlex",
+      "title": "20 § Ohjaus, valvonta ja seuranta",
+      "text": "Sosiaali- ja terveydenhuollon asiakastiedon sähköisen käsittelyn, siihen liittyvän tietohallinnon ja 14 §:ssä tarkoitettujen valtakunnallisten tietojärjestelmäpalvelujen hoidon ja toteuttamisen yleinen suunnittelu, ohjaus ja valvonta kuuluvat sosiaali- ja terveysministeriölle. Tietosuojavaltuutettu, Terveydenhuollon oikeusturvakeskus sekä lääninhallitus alueellaan ohjaavat ja valvovat niille säädetyn toimivallan mukaisesti osaltaan tämän lain noudattamista. Sosiaalihuollon ja terveydenhuollon palvelujen antajan, Kansaneläkelaitoksen ja Terveydenhuollon oikeusturvakeskuksen on omalta osaltaan seurattava ja valvottava, että sen antamaan palveluun liittyvä tietosuoja toteutuu. Jos joku on lainvastaisesti käsitellyt asiakastietoja, tulee asianomaisen palvelujen antajan sekä Kansaneläkelaitoksen oma-aloitteisesti ryhtyä tarvittaviin toimenpiteisiin. Seurannan ja valvonnan toteuttamiseksi palvelujen antajalla on oikeus saada Kansaneläkelaitokselta omien potilasrekisteriensä lokitiedot. Sosiaalihuollon ja terveydenhuollon toimintayksikön vastaavan johtajan tulee antaa kirjalliset ohjeet asiakastietojen käsittelystä ja noudatettavista menettelytavoista sekä huolehtia henkilökunnan riittävästä asiantuntemuksesta ja osaamisesta asiakastietojen käsittelyssä. Lisäksi jokaisella palvelujen antajalla, Kansaneläkelaitoksella ja Terveydenhuollon oikeusturvakeskuksella on oltava seuranta- ja valvontatehtävää varten tietosuojavastaava.",
+      "section_number": "20",
+      "chapter_number": 6,
+      "statute_id": "785/1992"
+    },
+    {
+      "id": "939cb70f-93c8-4425-8921-152f6841dca2",
+      "node_type": "Section",
+      "publisher": "finlex",
+      "title": "21 § Sosiaali- ja terveydenhuollon sähköisen tietohallinnon neuvottelukunta",
+      "text": "Sosiaali- ja terveydenhuollon sähköistä tiedonhallintaa koskevien periaatekysymysten käsittelyä, 14 §:ssä tarkoitettujen valtakunnallisten tietojärjestelmäpalvelujen toteutusta sekä palvelujen käyttäjien tietojärjestelmien yhtenäistämistä ja kehittämistä varten on sosiaali- ja terveysministeriön yhteydessä sosiaali- ja terveydenhuollon sähköisen tietohallinnon neuvottelukunta. Neuvottelukunnan tehtävistä ja kokoonpanosta säädetään tarkemmin valtioneuvoston asetuksella.",
+      "section_number": "21",
+      "chapter_number": 6,
+      "statute_id": "785/1992"
+    },
+    {
+      "id": "56fe3aa4-399a-474a-90ba-e4e0b1b3b9fe",
+      "node_type": "Section",
+      "publisher": "finlex",
+      "title": "22 § Maksut",
+      "text": "Kansaneläkelaitoksen ja Terveydenhuollon oikeusturvakeskuksen hoitamien 14 §:ssä tarkoitettujen valtakunnallisten tietojärjestelmäpalvelujen käyttö on terveydenhuollon palvelujen antajille maksullista. Käyttömaksut säädetään sosiaali- ja terveysministeriön asetuksella sellaisiksi, että ne vastaavat palvelujen hoidosta aiheutuvien kustannusten määrää. Kansaneläkelaitoksen ja Terveydenhuollon oikeusturvakeskuksen tulee toimittaa vuosittain sosiaali- ja terveysministeriölle sekä sosiaali- ja terveydenhuollon sähköisen tietohallinnon neuvottelukunnalle selvitys kustannuksiin vaikuttavista tekijöistä sekä arvio seuraavan vuoden käyttömaksujen perustana olevista kokonaiskustannuksista.",
+      "section_number": "22",
+      "chapter_number": 6,
+      "statute_id": "785/1992"
+    },
+    {
+      "id": "e398456f-4a7f-4ad3-9e7a-0285d55457fe",
+      "node_type": "Section",
+      "publisher": "finlex",
+      "title": "23 § Rangaistussäännökset",
+      "text": "Joka tahallaan tai törkeästä huolimattomuudesta rikkoo 8 §:ssä säädettyä tunnistamis- tai todentamisvelvoitetta, luovuttaa hakutietoja 12 §:n, 15 §:n 2 momentin tai 25 §:n 3 momentin vastaisesti, luovuttaa potilastietoja ilman 13 §:ssä edellytettyä potilaan suostumusta tai luovutuksen oikeuttavaa lain säännöstä taikka laiminlyö 17 §:n 2 momentin mukaisen informointivelvoitteen ja siten vaarantaa asiakkaan yksityisyyden suojaa tai muutoin hänen oikeuksiaan, on tuomittava, jollei teosta muualla laissa säädetä ankarampaa rangaistusta,sosiaali- ja terveydenhuollon asiakastietojen käsittelyrikkomuksestasakkoon. Rangaistus tietomurrosta säädetään rikoslain (39/1889) 38 luvun 8 §:ssä ja rangaistus henkilörekisteririkoksesta rikoslain 38 luvun 9 §:ssä. Rangaistus salassapitovelvollisuuden rikkomisesta tuomitaan rikoslain 38 luvun 1 tai 2 §:n mukaan, jollei teko ole rangaistava rikoslain 40 luvun 5 §:n mukaan tai siitä muualla laissa säädetä ankarampaa rangaistusta.",
+      "section_number": "23",
+      "chapter_number": 6,
+      "statute_id": "785/1992"
+    },
+    {
+      "id": "b05f654d-5f33-4e32-8281-871efcd9fadd",
+      "node_type": "Section",
+      "publisher": "finlex",
+      "title": "24 § Voimaantulo",
+      "text": "Tämä laki tulee voimaan 1 päivänä heinäkuuta 2007.",
+      "section_number": "24",
+      "chapter_number": 7,
+      "statute_id": "785/1992"
+    },
+    {
+      "id": "2a45a60e-5955-4101-ae35-a11d987275e2",
+      "node_type": "Section",
+      "publisher": "finlex",
+      "title": "25 § Siirtymäsäännökset",
+      "text": "Edellä lain 24 §:ssä säädetystä poiketen 15 §, jossa säädetään velvollisuudesta liittyä valtakunnallisten tietojärjestelmäpalvelujen käyttäjäksi, tulee voimaan neljän vuoden kuluttua lain voimaantulosta. Jos terveydenhuollon palvelujen antaja on kuitenkin liittynyt tässä laissa tarkoitettujen tietojärjestelmäpalvelujen käyttäjäksi ennen 15 §:n voimaantuloa, koskevat tämän lain säännökset niitä terveydenhuollon palvelujen antajan asiakirjoja, jotka on liitetty mainittuihin tietojärjestelmäpalveluihin. Lain 14 §:ssä tarkoitetut valtakunnalliset tietojärjestelmäpalvelut voidaan ottaa käyttöön vaiheittain jo ennen liittymisvelvollisuuden voimaantuloa. Tällöin näiden palvelujen avulla tapahtuvaan potilastietojen käsittelyyn sovelletaan tämän lain säännöksiä. Lain 22 §:ssä tarkoitettuja maksuja aletaan periä neljän vuoden kuluttua tämän lain voimaantulosta. Sosiaali- ja terveydenhuollon saumattoman palveluketjun kokeilusta annetun lain (811/2000) mukaisesti toteutettuihin viitetietojärjestelmiin tallennetut tiedot voidaan liittää valtakunnalliseen arkistointipalveluun ilman potilaan suostumusta. Arkistointipalveluun liitettyjen viitetietojen ja niiden avulla tapahtuva potilastietojen luovutus tapahtuu tämän lain mukaisesti hakutietojen avulla. Näitä hakutietoja ei kuitenkaan saa luovuttaa ilman potilaan kirjallista suostumusta. Ennen lain voimaantuloa voidaan ryhtyä lain täytäntöönpanon edellyttämiin toimenpiteisiin.",
+      "section_number": "25",
+      "chapter_number": 7,
+      "statute_id": "785/1992"
+    }
+  ],
+  "clauses": [
+    {
+      "id": "bd4e4779-b23b-4cee-8155-565b274c2a81",
+      "node_type": "Clause",
+      "publisher": "finlex",
+      "title": "§ 19 mom 1",
+      "text": "1) suostumusta koskevat tiedot sekä luovutuslokitiedot lukuun ottamatta luovuttajan ja luovutuksensaajan henkilötietoja sekä niitä luovutuslokitietoja, joihin potilaalla ei henkilötietolain 27 §:n 1 momentin 1―4 kohdan mukaan ole tiedonsaantioikeutta;",
+      "clause_number": 1,
+      "section_number": "19",
+      "statute_id": "785/1992"
+    },
+    {
+      "id": "5f95e1cc-db19-490b-9e84-d74cc30fdfc2",
+      "node_type": "Clause",
+      "publisher": "finlex",
+      "title": "§ 19 mom 1",
+      "text": "1) suostumusta koskevat tiedot sekä luovutuslokitiedot lukuun ottamatta luovuttajan ja luovutuksensaajan henkilötietoja sekä niitä luovutuslokitietoja, joihin potilaalla ei henkilötietolain 27 §:n 1 momentin 1―4 kohdan mukaan ole tiedonsaantioikeutta;",
+      "clause_number": 1,
+      "section_number": "19",
+      "statute_id": "785/1992"
+    },
+    {
+      "id": "9441258c-f4fa-4343-a61a-994689d88187",
+      "node_type": "Clause",
+      "publisher": "finlex",
+      "title": "§ 19 mom 2",
+      "text": "2) potilasasiakirjojen hakutiedot, tiedot palvelutapahtumien paikasta ja ajasta, lääkemääräystiedot ja hoito-ohjeet; sekä",
+      "clause_number": 2,
+      "section_number": "19",
+      "statute_id": "785/1992"
+    },
+    {
+      "id": "96733b8c-cdfd-45ba-9ee1-ee3eb2c799d2",
+      "node_type": "Clause",
+      "publisher": "finlex",
+      "title": "§ 19 mom 3",
+      "text": "3) lähetteet, yhteenvedot annetusta hoidosta, hoidon loppulausunnot, laboratoriotulokset sekä lääkärintodistukset ja -lausunnot sen jälkeen, kun potilasta hoitava terveydenhuollon ammattihenkilö on hyväksynyt tietojen antamisen katseluyhteyden kautta.",
+      "clause_number": 3,
+      "section_number": "19",
+      "statute_id": "785/1992"
+    }
+  ],
+  "cross_references": [],
+  "raw_html_path": "C:\\Users\\danit\\finance-hack\\aalto-hackaton-2026\\data\\raw\\finlex\\Laki (säädöskokoelma)\\Laki sosiaali- ja terveydenhuollon asiakastietojen sähköisestä käsittelystä.html"
+}

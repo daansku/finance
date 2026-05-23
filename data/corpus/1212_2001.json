@@ -1,0 +1,98 @@
+{
+  "statute": {
+    "id": "8a07035e-0a56-43ca-a005-563c01952097",
+    "node_type": "Statute",
+    "publisher": "finlex",
+    "title": "Oikeusministeriön asetus yksityishenkilön velkajärjestelyasiassa määrätyn selvittäjän palkkiosta ja kulukorvauksesta annetun oikeusministeriön asetuksen muuttamisesta",
+    "text": "Oikeusministeriön asetus yksityishenkilön velkajärjestelyasiassa määrätyn selvittäjän palkkiosta ja kulukorvauksesta annetun oikeusministeriön asetuksen muuttamisesta",
+    "statute_id": "1212/2001",
+    "finlex_url": "https://finlex.fi/fi/laki/ajantasa/1212/2001"
+  },
+  "chapters": [],
+  "sections": [
+    {
+      "id": "a01a521b-8a31-4184-98f2-53c4624ed76d",
+      "node_type": "Section",
+      "publisher": "finlex",
+      "title": "1 §",
+      "text": "Palkkiot selvittäjän tehtävästä ovat:",
+      "section_number": "1",
+      "chapter_number": 1,
+      "statute_id": "1212/2001"
+    },
+    {
+      "id": "9fa85014-cdbe-48f4-964b-ec89ecf1b9cd",
+      "node_type": "Section",
+      "publisher": "finlex",
+      "title": "2 §",
+      "text": "Jos asia on erityisen vaikea tai työmäärältään erityisen laaja, selvitystehtävästä 1 §:n mukaan määrättävää palkkiota voidaan tuomioistuimen harkinnan mukaan korottaa enintään 50 prosentilla. Jos korottamiseen kuitenkin on erittäin painava syy, korotus voi olla suurempi. Palkkion korottaminen on erikseen perusteltava.",
+      "section_number": "2",
+      "chapter_number": 1,
+      "statute_id": "1212/2001"
+    },
+    {
+      "id": "4c93731b-30ce-441b-b745-8188f72dd251",
+      "node_type": "Section",
+      "publisher": "finlex",
+      "title": "4 §",
+      "text": "Kun selvittäjä määrätään ennen velkajärjestelyn aloittamista, hänen palkkionsa tältä osin on enintään 252 euroa.",
+      "section_number": "4",
+      "chapter_number": 1,
+      "statute_id": "1212/2001"
+    },
+    {
+      "id": "b0e3957b-d9d0-497d-8a0b-954b06d3f886",
+      "node_type": "Section",
+      "publisher": "finlex",
+      "title": "5 §",
+      "text": "Jos selvittäjä huolehtii omaisuuden rahaksimuutosta, varojen tilittämisestä ja muista rahaksimuuttoon liittyvistä tehtävistä, hän saa tästä tehtävästä periä palkkiona yhden prosentin omaisuuden myynnistä saadusta rahamäärästä, kuitenkin vähintään 126 euroa. Jos selvittäjä antaa rahaksimuuttamisen tehtäväksi toiselle, selvittäjä saa periä rahojen tilittämisestä ja muista hänelle kuuluvista rahaksimuuttamiseen liittyvistä tehtävistä palkkiona 126 euroa, jos omaisuuden myyntihinta on enintään 35 000 euroa, ja 252 euroa, jos myyntihinta ylittää 35 000 euroa. Tämä asetus tulee voimaan 1 päivänä tammikuuta 2016.",
+      "section_number": "5",
+      "chapter_number": 1,
+      "statute_id": "1212/2001"
+    }
+  ],
+  "clauses": [
+    {
+      "id": "ea879036-df47-4610-843b-b7f93bab3f98",
+      "node_type": "Clause",
+      "publisher": "finlex",
+      "title": "§ 1 mom 1",
+      "text": "1) 478,80 euroa, kun velkojia on vähemmän kuin 5;",
+      "clause_number": 1,
+      "section_number": "1",
+      "statute_id": "1212/2001"
+    },
+    {
+      "id": "c62dd1c4-0b4b-4ff0-b06e-113cd19c84af",
+      "node_type": "Clause",
+      "publisher": "finlex",
+      "title": "§ 1 mom 2",
+      "text": "2) 604,80 euroa, kun velkojia on vähintään 5 mutta vähemmän kuin 15;",
+      "clause_number": 2,
+      "section_number": "1",
+      "statute_id": "1212/2001"
+    },
+    {
+      "id": "b82c7a0c-103d-490d-a521-5abba7ebef75",
+      "node_type": "Clause",
+      "publisher": "finlex",
+      "title": "§ 1 mom 3",
+      "text": "3) 844,20 euroa, kun velkojia on vähintään 15, velallisen omistusasunto ehdotetaan maksuohjelmassa säilytettäväksi, järjestellään velallisen elinkeinotoimintaan liittyviä velkoja tai kun asia muusta syystä on erityisen vaikea;",
+      "clause_number": 3,
+      "section_number": "1",
+      "statute_id": "1212/2001"
+    },
+    {
+      "id": "b51cf76c-f7e5-4ae7-93b6-7352b40ccc10",
+      "node_type": "Clause",
+      "publisher": "finlex",
+      "title": "§ 1 mom 4",
+      "text": "4) 352,80–478,80 euroa asian vaikeudesta riippuen, kun selvittäjä määrätään takaus- tai vakuusvastuun järjestelyssä.",
+      "clause_number": 4,
+      "section_number": "1",
+      "statute_id": "1212/2001"
+    }
+  ],
+  "cross_references": [],
+  "raw_html_path": "C:\\Users\\danit\\finance-hack\\aalto-hackaton-2026\\data\\raw\\finlex\\Asetus\\Oikeusministeriön asetus yksityishenkilön velkajärjestelyasiassa määrätyn selvittäjän palkkiosta ja kulukorvauksesta annetun oikeusministeriön asetuksen muuttamisesta.html"
+}

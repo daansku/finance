@@ -1,0 +1,632 @@
+{
+  "statute": {
+    "id": "ca39ce0b-4aa9-4a2f-86d7-ce846917b6c1",
+    "node_type": "Statute",
+    "publisher": "finlex",
+    "title": "Laki yksityisyyden suojasta televiestinnässä ja teletoiminnan tietoturvasta",
+    "text": "Laki yksityisyyden suojasta televiestinnässä ja teletoiminnan tietoturvasta",
+    "statute_id": "396/1997",
+    "finlex_url": "https://finlex.fi/fi/laki/ajantasa/396/1997"
+  },
+  "chapters": [
+    {
+      "id": "e6d2eaa3-1eeb-4d61-b833-f5a421c79e10",
+      "node_type": "Chapter",
+      "publisher": "finlex",
+      "title": "Chapter 1",
+      "text": "1 luku Yleiset säännökset",
+      "chapter_number": 1,
+      "statute_id": "396/1997"
+    },
+    {
+      "id": "114b3229-aa6f-4b57-8966-03e04de1c50f",
+      "node_type": "Chapter",
+      "publisher": "finlex",
+      "title": "Chapter 2",
+      "text": "2 luku Teletoiminnan tietoturva",
+      "chapter_number": 2,
+      "statute_id": "396/1997"
+    },
+    {
+      "id": "fc549bf0-7326-4ef3-9229-7f95105f0b54",
+      "node_type": "Chapter",
+      "publisher": "finlex",
+      "title": "Chapter 3",
+      "text": "3 luku Tunnistamistietojen käsittely",
+      "chapter_number": 3,
+      "statute_id": "396/1997"
+    },
+    {
+      "id": "78540c41-dc5a-4f40-b59f-1a3b4272a6d7",
+      "node_type": "Chapter",
+      "publisher": "finlex",
+      "title": "Chapter 4",
+      "text": "4 luku Tilaajaluettelot ja televiestintä suora- markkinoinnissa",
+      "chapter_number": 4,
+      "statute_id": "396/1997"
+    },
+    {
+      "id": "e2eae85f-3b2b-40e2-8a70-3c6bac71c080",
+      "node_type": "Chapter",
+      "publisher": "finlex",
+      "title": "Chapter 5",
+      "text": "5 luku Valvonta, pakkokeinot ja seuraamukset",
+      "chapter_number": 5,
+      "statute_id": "396/1997"
+    },
+    {
+      "id": "dd7ca313-9edf-4956-9f6f-6b6d73540a69",
+      "node_type": "Chapter",
+      "publisher": "finlex",
+      "title": "Chapter 6",
+      "text": "6 luku Erinäiset säännökset",
+      "chapter_number": 6,
+      "statute_id": "396/1997"
+    },
+    {
+      "id": "1e40fcb1-7576-4797-a4db-89b36459e5f5",
+      "node_type": "Chapter",
+      "publisher": "finlex",
+      "title": "Chapter 7",
+      "text": "7 luku Voimaantulo- ja siirtymäsäännökset",
+      "chapter_number": 7,
+      "statute_id": "396/1997"
+    }
+  ],
+  "sections": [
+    {
+      "id": "258dadd6-6f90-4bdf-987b-b4514e876542",
+      "node_type": "Section",
+      "publisher": "finlex",
+      "title": "1 § Lain tarkoitus",
+      "text": "Tämän lain tarkoituksena on edistää yleisen teletoiminnan tietoturvaa ja tilaajien ja käyttäjien yksityisyyden ja oikeutettujen etujen suojaa televiestinnässä.",
+      "section_number": "1",
+      "chapter_number": 1,
+      "statute_id": "396/1997"
+    },
+    {
+      "id": "86a09138-9a74-4e29-9e1f-7c0b4d208217",
+      "node_type": "Section",
+      "publisher": "finlex",
+      "title": "2 § Soveltamisala",
+      "text": "Yleisessä teletoiminnassa ja yleisiä telepalveluita käyttäen harjoitetussa televiestinnässä sekä tilaajaluetteloiden tarjoamisessa on noudatettava, mitä tässä laissa säädetään. Henkilötietojen käsittelyyn teletoiminnassa sovelletaan, mitä henkilötietojen käsittelystä erikseen säädetään, jollei tästä laista muuta johdu. Ministeriö päättää tarkemmin, ottaen huomioon tekniset mahdollisuudet ja teleyrityksille aiheutuvien kustannusten kohtuullisuus, miten tätä lakia sovelletaan yleisissä analogisissa matkaviestinverkoissa harjoitettavaan teletoimintaan ja televiestintään. Tätä lakia sovelletaan yleisen televerkon välityksellä tapahtuvaan muusta kuin yleisestä televerkosta lähtevään tai sinne tulevaan televiestintään, jos muu kuin yleinen televerkko on liitetty yleisen televerkon osaksi tai yleisen televerkon liittymään. Tämän lain 4 §:ää sovelletaan kuitenkin kaikkeen televiestintään. Tätä lakia ei sovelleta televisio- ja radiotoimintaan.",
+      "section_number": "2",
+      "chapter_number": 1,
+      "statute_id": "396/1997"
+    },
+    {
+      "id": "03f61793-b9ee-4768-a665-a8512f846fea",
+      "node_type": "Section",
+      "publisher": "finlex",
+      "title": "3 § Määritelmät",
+      "text": "Tässä laissa tarkoitetaan:",
+      "section_number": "3",
+      "chapter_number": 1,
+      "statute_id": "396/1997"
+    },
+    {
+      "id": "fac97941-6b37-41de-9e9a-bfe6bc48a23b",
+      "node_type": "Section",
+      "publisher": "finlex",
+      "title": "4 § Televiestinnän luottamuksellisuus",
+      "text": "Televiestintä on luottamuksellista, jollei sitä ole tarkoitettu yleisesti vastaanotettavaksi. Se, joka on ottanut vastaan tai muutoin saanut tiedon luottamuksellisesta televiestistä, jota ei ole hänelle tarkoitettu, ei saa oikeudettomasti ilmaista tietoa televiestin sisällöstä tai käyttää hyväksi tietoa televiestin sisällöstä tai sen olemassaolosta.",
+      "section_number": "4",
+      "chapter_number": 2,
+      "statute_id": "396/1997"
+    },
+    {
+      "id": "cc708e51-3cd9-4f21-97e9-1d115d575d3b",
+      "node_type": "Section",
+      "publisher": "finlex",
+      "title": "5 § Televiestinnän suojaus",
+      "text": "Käyttäjällä ja tilaajalla on oikeus suojata televiestinsä haluamallaan tavalla käyttäen hyväksi sitä varten tarjolla olevia teknisiä mahdollisuuksia. Suojauksen purkujärjestelmiin sovelletaan, mitä telemarkkinalain 25, 39 ja 45 §:ssä säädetään.",
+      "section_number": "5",
+      "chapter_number": 2,
+      "statute_id": "396/1997"
+    },
+    {
+      "id": "1eec512c-f3ab-451a-8581-a87ffa178486",
+      "node_type": "Section",
+      "publisher": "finlex",
+      "title": "6 § Teleyrityksen velvollisuudet",
+      "text": "Teleyrityksen tulee huolehtia harjoittamansa teletoiminnan tietoturvasta. Teleyritysten tulee toteuttaa tarvittaessa yhteistyössä muiden teleyritysten kanssa turvataso, joka on tekniseen kehitykseen nähden riittävä ja kustannuksiltaan kohtuullinen. Teleyrityksen on tiedotettava tilaajilleen telepalveluidensa turvallisuuteen liittyvistä erityisistä riskeistä sekä mahdollisuuksista niiden poistamiseen ja tähän liittyvien toimenpiteiden kustannuksista. Ministeriö päättää tarvittaessa siitä, mitä on otettava huomioon kustannusten kohtuullisuutta ja turvatason riittävyyttä arvioitaessa.",
+      "section_number": "6",
+      "chapter_number": 2,
+      "statute_id": "396/1997"
+    },
+    {
+      "id": "cedcd8cd-d5d4-4ee1-8527-ca335b43b28f",
+      "node_type": "Section",
+      "publisher": "finlex",
+      "title": "7 § Vaitiolovelvollisuus",
+      "text": "Teleyrityksen palveluksessa oleva tai ollut ei saa luvattomasti ilmaista, mitä hän on tehtävässään saanut tietää televiestin sisällöstä tai televiestinnän harjoittajien tunnistamistiedoista, ellei 3 luvun säännöksistä muuta johdu. Edellä 1 momentissa tarkoitettu vaitiolovelvollisuus on myös telemarkkinalain 12 §:ssä tarkoitetulla valtuutetulla teleurakoitsijalla sekä sillä, joka on tai on ollut teleurakoitsijan palveluksessa.",
+      "section_number": "7",
+      "chapter_number": 2,
+      "statute_id": "396/1997"
+    },
+    {
+      "id": "d0e8ba93-7726-4f35-a349-e36815fd5654",
+      "node_type": "Section",
+      "publisher": "finlex",
+      "title": "8 § Poikkeusoloihin varautuminen",
+      "text": "Teleyrityksen tulee varmistaa teletoimintansa tietoturva myös poikkeusoloissa osallistumalla valmiussuunnitteluun ja valmistelemalla etukäteen poikkeusoloissa tapahtuvaa toimintaa sekä muin toimenpitein. Jos 1 momentista aiheutuvat tehtävät edellyttävät sellaisia toimenpiteitä, jotka selvästi poikkeavat tavanomaisena pidettävästä teleyrityksen toiminnasta ja joista aiheutuu olennaisia lisäkustannuksia, tällaiset kustannukset voidaan korvata valtion varoista, jollei toimenpiteen tilaaja suorita teleyritykselle siitä aiheutuvia kustannuksia. Ministeriö päättää tarkemmin 1 momentin soveltamisesta.",
+      "section_number": "8",
+      "chapter_number": 2,
+      "statute_id": "396/1997"
+    },
+    {
+      "id": "161e73fe-19e2-4a9b-bfc1-143c63233579",
+      "node_type": "Section",
+      "publisher": "finlex",
+      "title": "9 § Tunnistamistietojen hävittäminen ja muuttaminen",
+      "text": "Teleyrityksen on hävitettävä tai muutettava teleyhteyden purkamisen jälkeen sen toteuttamisessa syntyneet ja teleyrityksen tallentamat tunnistamistiedot sellaisiksi, että televiestinnän osapuolia ei voi tunnistaa, jollei tämän luvun säännöksistä muuta johdu.",
+      "section_number": "9",
+      "chapter_number": 3,
+      "statute_id": "396/1997"
+    },
+    {
+      "id": "d4c54c2f-2001-4429-bcda-c3101f585922",
+      "node_type": "Section",
+      "publisher": "finlex",
+      "title": "10 § Tunnistamistietojen käsittely laskutusta varten",
+      "text": "Teleyritys voi käsitellä telelaskun sekä teleyritysten keskinäisten maksujen määrittämiseksi sellaisia tilaajan tunnistamistietoja, jotka koskevat: Teleyritys saa käsitellä telelaskun määräytymiseen liittyviä tunnistamistietoja enintään kolmen vuoden ajan siitä, kun telelasku on kokonaan maksettu, ei kuitenkaan kauemmin kuin telelasku voidaan periä, jollei muualla toisin säädetä. Teleyrityksen velvollisuudesta säilyttää telelaskun määräytymiseen liittyviä tunnistamistietoja säädetään asetuksella.",
+      "section_number": "10",
+      "chapter_number": 3,
+      "statute_id": "396/1997"
+    },
+    {
+      "id": "5f82bc52-03a4-40bc-9d93-cb9d1d4e322d",
+      "node_type": "Section",
+      "publisher": "finlex",
+      "title": "11 § Tunnistamistietojen käsittely telepalveluiden markkinoinnissa",
+      "text": "Tilaajan suostumuksella teleyritys voi käsitellä 10 §:n 2 momentissa tarkoitetun ajan tunnistamistietoja markkinoidakseen telepalveluitaan tai niihin välittömästi liittyviä muita palveluitaan, joiden tuottamisen yhteydessä tunnistamistiedot ovat syntyneet.",
+      "section_number": "11",
+      "chapter_number": 3,
+      "statute_id": "396/1997"
+    },
+    {
+      "id": "ea5d82de-3298-477d-adbf-994d31cbd9d1",
+      "node_type": "Section",
+      "publisher": "finlex",
+      "title": "12 § Tunnistamistietojen käsittely teleyrityksissä",
+      "text": "Teleyritys saa 10 §:n 2 momentissa tarkoitetun ajan itse käsitellä ja luovuttaa toiselle teleyritykselle tunnistamistietoja laskutukseen, televerkon ja -palveluiden ylläpitoon ja kehitykseen sekä väärinkäytösten ehkäisyyn ja tutkintaan liittyvien tehtävien hoitamiseksi. Tunnistamistietoja saavat käsitellä vain sellaiset teleyrityksen palveluksessa olevat tai teleyritysten tähän tehtävään valtuuttamat henkilöt, jotka suorittavat laskutukseen tai televerkon ja telepalveluiden ylläpitoon ja kehitykseen, väärinkäytösten ehkäisyyn ja tutkintaan, asiakaspalveluun ja 11 §:ssä tarkoitettuun markkinointiin liittyviä tehtäviä, ja vain siinä laajuudessa kuin se on näiden tehtävien hoitamiseksi tarpeellista. Edellä 2 momentissa tarkoitettuihin teleyrityksen valtuuttamiin henkilöihin sovelletaan, mitä tunnistamistietojen käsittelystä säädetään.",
+      "section_number": "12",
+      "chapter_number": 3,
+      "statute_id": "396/1997"
+    },
+    {
+      "id": "fa58d67e-f6f5-4a59-bb82-e382f2090102",
+      "node_type": "Section",
+      "publisher": "finlex",
+      "title": "13 § Teleyhteyksien erittely",
+      "text": "Teleyritys ei saa luovuttaa erittelyä liittymästä otettujen teleyhteyksien numeroista tai muista tunnisteista, ellei jäljempänä tässä pykälässä toisin säädetä. Milloin tilaaja pyytää telelaskun yhteyskohtaista erittelyä, teleyrityksen on annettava erittely ilmaisematta teleyhteyksien tunnisteiden kolmea viimeistä numeroa, jollei 3 momentista muuta johdu. Teleyrityksen on tilaajan pyynnöstä kirjallisesti eriteltävä täydellisesti teleyhteyksien numerot, milloin: Teleyritys saa antaa erittelyn tilaajalle vain siltä ajalta, jonka liittymä on ollut tämän hallinnassa. Asetuksella säädetään tarkemmin, miten teleyhteyksien tunnisteet on eriteltävä, jos tunniste ei muodostu yksinomaan numeroista.",
+      "section_number": "13",
+      "chapter_number": 3,
+      "statute_id": "396/1997"
+    },
+    {
+      "id": "13bc59e5-a6d9-4e3d-835c-2360472c5442",
+      "node_type": "Section",
+      "publisher": "finlex",
+      "title": "14 § Kutsuvan yhteyden tunnistus",
+      "text": "Kutsuvan yhteyden tunnistusta kiinteässä puhelinverkossa tai matkaviestinverkossa tarjoavan teleyrityksen tulee huolehtia siitä, että kutsuva käyttäjä voi yhteyskohtaisesti poistaa puhelinpalveluissa kutsuvan yhteyden tunnistuksen maksutta. Tilaajan tulee voida poistaa kutsuvan yhteyden tunnistus liittymästään otetuista yhteyksistä myös pysyvästi. Kiinteän puhelinverkon tai matkaviestinverkon liittymää tarjoavan teleyrityksen tulee huolehtia siitä, että tilaajalla, joka ottaa vastaan teleyhteyden teleyrityksen tarjoamaan liittymään, on mahdollisuus estää liittymänsä puhelinpalveluissa: Jos tässä pykälässä tarkoitettuja palveluita ei tarjota muissa kuin kiinteissä puhelinverkoissa ja matkaviestinverkoissa, ministeriö päättää tarvittaessa tarkemmin siitä, mitä tässä pykälässä tarkoitettuja palveluita on tarjottava mainituissa muissa verkoissa tarvittaessa teleyritysten keskinäisessä yhteistyössä.",
+      "section_number": "14",
+      "chapter_number": 3,
+      "statute_id": "396/1997"
+    },
+    {
+      "id": "aa2c4a33-416d-46f3-97c2-42a99b5e9413",
+      "node_type": "Section",
+      "publisher": "finlex",
+      "title": "15 § Kytketyn yhteyden tunnistus",
+      "text": "Kytketyn yhteyden tunnistusta tarjoavan teleyrityksen tulee huolehtia siitä, että televiestin vastaanottava tilaaja voi maksutta estää sen, että kutsuva käyttäjä saa tietoonsa sen liittymän numeron tai tunnisteen, johon yhteys on kytketty.",
+      "section_number": "15",
+      "chapter_number": 3,
+      "statute_id": "396/1997"
+    },
+    {
+      "id": "d1470bb7-2d46-4f7e-9c9e-7d7277f3b058",
+      "node_type": "Section",
+      "publisher": "finlex",
+      "title": "16 § Automaattinen yhteyden siirto",
+      "text": "Teleyrityksen tulee tarjota käyttäjälle mahdollisuus maksutta poistaa muiden tekemät automaattiset yhteydensiirrot käyttäjän liittymään.",
+      "section_number": "16",
+      "chapter_number": 3,
+      "statute_id": "396/1997"
+    },
+    {
+      "id": "eb38a7d0-1094-4d11-a416-048cb7fb6cd2",
+      "node_type": "Section",
+      "publisher": "finlex",
+      "title": "17 § Tunnistuspalveluiden käyttö",
+      "text": "Edellä 14―16 §:ssä tarkoitetut toiminteet on toteutettava niin, että ne voidaan ottaa yksinkertaisella tavalla käyttöön sen mukaan kuin asetuksella säädetään. Teleyritysten on tiedotettava käyttäjille ja tilaajille tunnistuspalvelujen tarjonnasta ja käytöstä.",
+      "section_number": "17",
+      "chapter_number": 3,
+      "statute_id": "396/1997"
+    },
+    {
+      "id": "7f86f04e-bbf1-47b5-9873-aca391f8b213",
+      "node_type": "Section",
+      "publisher": "finlex",
+      "title": "18 § Tunnistamistietojen luovutus viranomaiselle",
+      "text": "Poliisilla on 7 §:ssä säädetyn vaitiolovelvollisuuden estämättä oikeus saada: Sen estämättä, mitä 7 §:ssä säädetään tai mitä tilaaja on sopinut teleyrityksen kanssa tunnistamistietojen pitämisestä salassa, teleyrityksellä on oikeus antaa hätäilmoituksen vastaanottaneelle poliisille, pelastusviranomaiselle ja muille hätäilmoituksia vastaanottaville viranomaisille tunnistamistietoja liittymästä, jonka käyttäjää hätäilmoitus koskee. Tunnistamistietoina voidaan antaa liittymän numeron ja muun tunnisteen ohella tieto liittymän asennusosoitteesta ja tilaajasta tai käyttäjästä sekä tieto sen tukiaseman sijainnista, jonka kautta matkaviestimellä tehty hätäilmoitus on ohjattu yleiseen televerkkoon. Viranomaisen oikeudesta saada tunnistamistietoja rikoksen esitutkinnassa säädetään pakkokeinolaissa (450/1987).",
+      "section_number": "18",
+      "chapter_number": 3,
+      "statute_id": "396/1997"
+    },
+    {
+      "id": "731bb4bb-9ae0-4476-ac9e-594007e98c61",
+      "node_type": "Section",
+      "publisher": "finlex",
+      "title": "19 § Luettelotietojen luovutus ja tilaajaluetteloiden tarjoaminen",
+      "text": "Sen estämättä, mitä tilaajaluettelon tietojen luovutuksesta muualla säädetään, teleyritykset voivat luovuttaa tilaajan tilaajaluettelossa julkaistaviksi ilmoittamia tietoja niiden toisessa tilaajaluettelossa julkaisemista varten. Tilaajaluettelon tarjoajalla on oikeus ylläpitää ja tarjota tilaajaluetteloita. Euroopan unionin jäsenvaltioiden alueen ja Euroopan talousalueen ulkopuolelle tapahtuvasta henkilötietojen siirrosta on voimassa, mitä siitä erikseen säädetään.",
+      "section_number": "19",
+      "chapter_number": 4,
+      "statute_id": "396/1997"
+    },
+    {
+      "id": "8b9bd853-2689-451f-82fe-8299b52d5a47",
+      "node_type": "Section",
+      "publisher": "finlex",
+      "title": "20 § Tilaajaluettelot",
+      "text": "Tilaajaluettelossa saa julkaista vain sellaisia tietoja, jotka ovat välttämättömiä tilaajan tai käyttäjän tunnistamiseksi, jollei se, jonka tietoja julkaistaan, ole selkeästi antanut suostumustaan muiden tietojen julkaisemiseen. Tilaajalla ja käyttäjällä on oikeus maksutta: Teleyrityksen on huolehdittava tilaajan tai käyttäjän 1 ja 2 momentissa tarkoitettuja tietoja koskevien vaatimusten ja muutosten toimittamisesta edelleen niille, joille se on luovuttanut näitä tietoja tilaajaluetteloissa julkaisemista varten. Teleyrityksen ja sen, jolle teleyritys on edellä mainittuja tietoja luovuttanut, on sovittava tilaajan tai käyttäjän näitä tietoja koskevien vaatimusten toimittamisesta.",
+      "section_number": "20",
+      "chapter_number": 4,
+      "statute_id": "396/1997"
+    },
+    {
+      "id": "02b8c9e4-8a8f-47c3-b28c-aab940203f2e",
+      "node_type": "Section",
+      "publisher": "finlex",
+      "title": "21 § Televiestintä suoramarkkinoinnissa",
+      "text": "Televiestintää ei saa käyttää suoramarkkinointiin ilman tilaajan ennalta antamaa suostumusta, milloin teleyhteydet vastaanottavalle tilaajalle otetaan automaattisten järjestelmien tai faksin avulla, jollei ministeriö 4 momentin nojalla toisin päätä. Sen estämättä, mitä 1 momentissa säädetään, televiestintää saa käyttää suoramarkkinointiin automaattisten järjestelmien avulla, jos tilaaja, joka ei ole luonnollinen henkilö, ei ole sitä kieltänyt, jollei ministeriö 4 momentin nojalla toisin päätä. Faksia saa kuitenkin käyttää suoramarkkinointiin tilaajalle, joka ei ole luonnollinen henkilö. Muuta kuin 1 momentissa tarkoitettua suoramarkkinointia luonnolliselle henkilölle televiestinnän avulla saa harjoittaa, jollei tämä tilaaja ole sitä nimenomaisesti kieltänyt. Tilaajan on maksutta voitava kieltää tässä momentissa tarkoitettu suoramarkkinointi. Ministeriö päättää tarvittaessa televerkon ja telepalveluiden toimivuus ja turvallisuus sekä suoramarkkinoinnin harjoittajille aiheutuvien velvollisuuksien kohtuullisuus huomioon ottaen tarkemmin siitä, minkä televiestinnän muotojen käyttö: Suoramarkkinoinnista kuluttajalle on lisäksi voimassa, mitä kuluttajansuojalaissa (38/1978) säädetään.",
+      "section_number": "21",
+      "chapter_number": 4,
+      "statute_id": "396/1997"
+    },
+    {
+      "id": "117a0529-8314-45b3-8cf6-09804b3dce07",
+      "node_type": "Section",
+      "publisher": "finlex",
+      "title": "22 § Suoramarkkinointia koskevien kieltojen saatavillapito",
+      "text": "Ministeriö päättää tarvittaessa tarkemmin siitä, miten 20 §:n 2 momentin 2 kohdassa ja 21 §:ssä tarkoitetut kiellot on pidettävä niiden saatavilla, jotka harjoittavat suoramarkkinointia.",
+      "section_number": "22",
+      "chapter_number": 4,
+      "statute_id": "396/1997"
+    },
+    {
+      "id": "e17b9041-41f7-474e-aec8-8d62ac792cb5",
+      "node_type": "Section",
+      "publisher": "finlex",
+      "title": "23 § Ohjaus ja valvonta",
+      "text": "Teletoiminnan yleinen ohjaus ja kehittäminen kuuluu ministeriölle. Sen tulee yhteistyössä Telehallintokeskuksen, tietosuojaviranomaisten, teleyritysten, telelaitteita valmistavan teollisuuden ja käyttäjiä edustavien yhteisöjen kanssa edistää yksityisyyden suojaa televiestinnässä ja teletoiminnan tietoturvaa. Telehallintokeskuksen tehtävänä on: Tietosuojavaltuutetun tehtävänä on valvoa 20 ja 21 §:ssä tarkoitetun tilaajan kielto-oikeuden ja tilaajan ennakkosuostumuksen noudattamista. Jos Telehallintokeskuksen käsiteltävänä oleva asia koskee menettelyä, joka saattaa rikkoa henkilötietolain (523/1999) säännöksiä, Telehallintokeskus voi siirtää asian siltä osin käsiteltäväksi henkilötietolain mukaisesti.",
+      "section_number": "23",
+      "chapter_number": 5,
+      "statute_id": "396/1997"
+    },
+    {
+      "id": "2cbbe112-2466-4c9c-9e9a-ed8717913dd9",
+      "node_type": "Section",
+      "publisher": "finlex",
+      "title": "24 § Tiedonsaantioikeus",
+      "text": "Sen estämättä, mitä salassapidosta muualla säädetään, ministeriöllä, Telehallintokeskuksella ja tietosuojavaltuutetulla on oikeus 23 §:ssä säädettyjen tehtävien suorittamiseksi saada tässä laissa tarkoitetuilta teleyrityksiltä ja niiden yhteenliittymiltä, televerkkojen omistajilta ja haltijoilta, teleurakoitsijoilta, tilaajaluetteloiden julkaisijoilta ja suoramarkkinoinnin harjoittajilta tarpeelliset tiedot niiden harjoittamasta tässä laissa tarkoitetusta toiminnasta.",
+      "section_number": "24",
+      "chapter_number": 5,
+      "statute_id": "396/1997"
+    },
+    {
+      "id": "1758ad88-55ab-444e-bbd9-0ff0ca471100",
+      "node_type": "Section",
+      "publisher": "finlex",
+      "title": "25 § Pakkokeinot",
+      "text": "Jos joku rikkoo tätä lakia tai sen nojalla annettuja säännöksiä tai määräyksiä, Telehallintokeskus voi velvoittaa hänet korjaamaan virheensä tai laiminlyöntinsä. Päätöksen tehosteeksi voidaan asettaa uhkasakko tai uhka, että toiminta keskeytetään osaksi tai kokonaan taikka että tekemättä jätetty toimenpide teetetään asianomaisen kustannuksella. Teettämällä suoritetun toimenpiteen kustannukset suoritetaan valtion varoista ja peritään laiminlyöjältä siinä järjestyksessä kuin verojen ja maksujen perimisestä ulosottotoimin annetussa laissa (367/1961) säädetään.",
+      "section_number": "25",
+      "chapter_number": 5,
+      "statute_id": "396/1997"
+    },
+    {
+      "id": "9ec7ba68-e44a-4d6d-81b6-8fb4e9454587",
+      "node_type": "Section",
+      "publisher": "finlex",
+      "title": "26 § Vaitiolovelvollisuuden rikkominen",
+      "text": "Rangaistus 7 §:ssä säädetyn vaitiolovelvollisuuden rikkomisesta tuomitaan rikoslain 38 luvun 1 tai 2 §:n mukaan, jollei teko ole rangaistava rikoslain 40 luvun 5 §:n mukaan tai siitä muualla laissa säädetä ankarampaa rangaistusta. Rangaistus 4 §:n 2 momentissa säädetyn vaitiolovelvollisuuden rikkomisesta tuomitaan rikoslain 38 luvun 2 §:n 2 momentin mukaan, jollei teko ole rangaistava rikoslain 40 luvun 5 §:n mukaan tai siitä muualla kuin rikoslain 38 luvun 1 §:ssä säädetä ankarampaa rangaistusta.",
+      "section_number": "26",
+      "chapter_number": 5,
+      "statute_id": "396/1997"
+    },
+    {
+      "id": "cdfea965-520b-4304-a28f-baa9e142a7bc",
+      "node_type": "Section",
+      "publisher": "finlex",
+      "title": "27 § Yksityisyyden suojasta televiestinnässä ja teletoiminnan tietoturvasta annettujen säännösten rikkominen",
+      "text": "Joka tahallaan on tuomittava, jollei teosta muualla säädetä ankarampaa rangaistusta,yksityisyyden suojasta televiestinnässä ja teletoiminnan tietoturvasta annettujen säännösten rikkomisestasakkoon. Rangaistusta ei tuomita, jos rikkomus on vähäinen.",
+      "section_number": "27",
+      "chapter_number": 5,
+      "statute_id": "396/1997"
+    },
+    {
+      "id": "b8de7d11-9b09-4bc0-b363-95c054d77ba9",
+      "node_type": "Section",
+      "publisher": "finlex",
+      "title": "28 § Muutoksenhaku",
+      "text": "Telehallintokeskuksen tämän lain nojalla antamaan päätökseen saadaan hakea muutosta noudattaen, mitä hallintolainkäyttölaissa (586/1996) säädetään. Telehallintokeskus voi päätöksessään määrätä, että päätöstä on noudatettava ennen kuin se on saanut lainvoiman. Valitusviranomainen voi kuitenkin kieltää täytäntöönpanon, kunnes valitus on ratkaistu.",
+      "section_number": "28",
+      "chapter_number": 6,
+      "statute_id": "396/1997"
+    },
+    {
+      "id": "a2bfb59c-5034-48ec-b83b-86155e9dc0bb",
+      "node_type": "Section",
+      "publisher": "finlex",
+      "title": "29 § Tarkemmat säännökset",
+      "text": "Tarkemmat säännökset tämän lain täytäntöönpanosta annetaan asetuksella.",
+      "section_number": "29",
+      "chapter_number": 6,
+      "statute_id": "396/1997"
+    },
+    {
+      "id": "b2d645fc-471b-4592-80f9-5d3ad31689cb",
+      "node_type": "Section",
+      "publisher": "finlex",
+      "title": "30 § Voimaantulo",
+      "text": "Tämä laki tulee voimaan 1 päivänä heinäkuuta 1999. Ennen tämän lain voimaantuloa voidaan ryhtyä lain täytäntöönpanon edellyttämiin toimiin.",
+      "section_number": "30",
+      "chapter_number": 7,
+      "statute_id": "396/1997"
+    },
+    {
+      "id": "2a76478c-8ff5-4abd-816f-5fc787d04db6",
+      "node_type": "Section",
+      "publisher": "finlex",
+      "title": "31 § Siirtymäsäännös",
+      "text": "Jos 11 §:ssä tarkoitettu tunnistamistietojen käsittely on aloitettu ennen tämän lain voimaantuloa, sitä voidaan jatkaa tämän lain estämättä. Tällöin tilaajille on tiedotettava tunnistamistietojen käsittelystä, ja jos he eivät muuta ilmoita kuukauden kuluessa, heidän katsotaan antaneen suostumuksensa tietojen käsittelylle.",
+      "section_number": "31",
+      "chapter_number": 7,
+      "statute_id": "396/1997"
+    }
+  ],
+  "clauses": [
+    {
+      "id": "f12b0deb-dd6e-442c-a7bb-596c6ec1bb21",
+      "node_type": "Clause",
+      "publisher": "finlex",
+      "title": "§ 10 mom 1",
+      "text": "1) telepäätelaitteen numeroa, tunnistetta tai tyyppiä;",
+      "clause_number": 1,
+      "section_number": "10",
+      "statute_id": "396/1997"
+    },
+    {
+      "id": "c86e1991-fc64-423f-9a1e-a3769e27e4eb",
+      "node_type": "Clause",
+      "publisher": "finlex",
+      "title": "§ 10 mom 2",
+      "text": "2) vastaanottavan liittymän numeroa tai muuta tunnistetta;",
+      "clause_number": 2,
+      "section_number": "10",
+      "statute_id": "396/1997"
+    },
+    {
+      "id": "f60c3cbc-6a66-49ae-a54f-75c0874b1caa",
+      "node_type": "Clause",
+      "publisher": "finlex",
+      "title": "§ 10 mom 3",
+      "text": "3) teleyhteyden alkamisajankohtaa tai päivämäärää; sekä",
+      "clause_number": 3,
+      "section_number": "10",
+      "statute_id": "396/1997"
+    },
+    {
+      "id": "3788b094-2bcb-4227-bc99-0d2c8915d171",
+      "node_type": "Clause",
+      "publisher": "finlex",
+      "title": "§ 10 mom 4",
+      "text": "4) teleyhteyden muotoa ja kestoa sekä siinä siirrettyä tietomäärää samoin kuin muita maksun määrittämiseksi tarpeellisia tunnistamistietoja.",
+      "clause_number": 4,
+      "section_number": "10",
+      "statute_id": "396/1997"
+    },
+    {
+      "id": "055b1008-0157-41ef-8cb3-14d03d3b24fa",
+      "node_type": "Clause",
+      "publisher": "finlex",
+      "title": "§ 13 mom 1",
+      "text": "1) teleyhteydet on otettu toiseen liittymään, mistä aiheutuu telelaskun yhteydessä velottavia maksuja, jotka eivät ole telemaksuja; tai",
+      "clause_number": 1,
+      "section_number": "13",
+      "statute_id": "396/1997"
+    },
+    {
+      "id": "db635d87-05ee-478b-9dcd-dc4aeb92301f",
+      "node_type": "Clause",
+      "publisher": "finlex",
+      "title": "§ 13 mom 2",
+      "text": "2) telelasku on yli kaksinkertainen edellisen vastaavan laskutuskauden laskuun verrattuna.",
+      "clause_number": 2,
+      "section_number": "13",
+      "statute_id": "396/1997"
+    },
+    {
+      "id": "92655937-a7ee-4814-89c2-3be3f0dfb7e3",
+      "node_type": "Clause",
+      "publisher": "finlex",
+      "title": "§ 14 mom 1",
+      "text": "1) kutsuvan yhteyden tunnistus maksutta; sekä",
+      "clause_number": 1,
+      "section_number": "14",
+      "statute_id": "396/1997"
+    },
+    {
+      "id": "367f4bad-4bc8-418e-8610-865fbce4409d",
+      "node_type": "Clause",
+      "publisher": "finlex",
+      "title": "§ 14 mom 2",
+      "text": "2) sellaisten teleyhteyksien vastaanotto, joista on poistettu kutsuvan yhteyden tunnistus.",
+      "clause_number": 2,
+      "section_number": "14",
+      "statute_id": "396/1997"
+    },
+    {
+      "id": "0daa411d-ca50-4670-ae40-577f3ca2360d",
+      "node_type": "Clause",
+      "publisher": "finlex",
+      "title": "§ 18 mom 1",
+      "text": "1) rikoslain (39/1889) 16 luvun 9 a §:ssä, 17 luvun 13 §:n 2 kohdassa tai 24 luvun 3 a §:ssä tarkoitetun rikoksen selvittämiseksi tarvittavia tunnistamistietoja liittymään otetuista yhteyksistä asianomistajan ja sen suostumuksella, jonka hallinnassa liittymä on; sekä",
+      "clause_number": 1,
+      "section_number": "18",
+      "statute_id": "396/1997"
+    },
+    {
+      "id": "74d1e3df-9e4f-4127-baf9-6fe9a061e1d6",
+      "node_type": "Clause",
+      "publisher": "finlex",
+      "title": "§ 18 mom 2",
+      "text": "2) tilaajan suostumuksella matkaviestimestä lähetettyjä viestejä koskevat tunnistamistiedot siltä osin kuin se on tarpeen sellaisen rikoksen selvittämiseksi, jonka johdosta matkaviestin tai siinä käytetty liittymä on oikeudettomasti toisen hallussa.",
+      "clause_number": 2,
+      "section_number": "18",
+      "statute_id": "396/1997"
+    },
+    {
+      "id": "68cc4732-3857-40c6-b843-7b15f99c031a",
+      "node_type": "Clause",
+      "publisher": "finlex",
+      "title": "§ 20 mom 1",
+      "text": "1) vaatia, että hänen tilaajaluettelossa olevat henkilötietonsa poistetaan tai niitä korjataan;",
+      "clause_number": 1,
+      "section_number": "20",
+      "statute_id": "396/1997"
+    },
+    {
+      "id": "60c204be-81f9-4147-b54f-0fdcada21f0c",
+      "node_type": "Clause",
+      "publisher": "finlex",
+      "title": "§ 20 mom 2",
+      "text": "2) kieltää tilaajaluettelossa olevien henkilötietojensa käyttö suoramarkkinointiin; sekä",
+      "clause_number": 2,
+      "section_number": "20",
+      "statute_id": "396/1997"
+    },
+    {
+      "id": "6db764f7-fb83-4556-a60f-bb52855b053d",
+      "node_type": "Clause",
+      "publisher": "finlex",
+      "title": "§ 20 mom 3",
+      "text": "3) vaatia, että käynti- tai postiosoitteesta julkaistaan vain osa tai että julkaistuista henkilötiedoista ei käy ilmi hänen sukupuoltaan.",
+      "clause_number": 3,
+      "section_number": "20",
+      "statute_id": "396/1997"
+    },
+    {
+      "id": "0444bdb3-d0aa-41c0-b360-c0dd745d1f03",
+      "node_type": "Clause",
+      "publisher": "finlex",
+      "title": "§ 21 mom 1",
+      "text": "1) 1 momentissa tarkoitetussa televiestinnässä olisi sallittua ilman tilaajan suostumusta edellyttäen, että tilaajalla on kuitenkin mahdollisuus kieltää tai estää tässä kohdassa tarkoitettu televiestintä; sekä",
+      "clause_number": 1,
+      "section_number": "21",
+      "statute_id": "396/1997"
+    },
+    {
+      "id": "ebfa0d10-f886-4f15-b058-cc65994ffdd5",
+      "node_type": "Clause",
+      "publisher": "finlex",
+      "title": "§ 21 mom 1",
+      "text": "1) 1 momentissa tarkoitetussa televiestinnässä olisi sallittua ilman tilaajan suostumusta edellyttäen, että tilaajalla on kuitenkin mahdollisuus kieltää tai estää tässä kohdassa tarkoitettu televiestintä; sekä",
+      "clause_number": 1,
+      "section_number": "21",
+      "statute_id": "396/1997"
+    },
+    {
+      "id": "cd8c0e9c-e8ac-4452-837c-4156b06ad5fb",
+      "node_type": "Clause",
+      "publisher": "finlex",
+      "title": "§ 21 mom 2",
+      "text": "2) 2 momentissa tarkoitetussa televiestinnässä edellyttää tilaajan ennalta antamaa suostumusta.",
+      "clause_number": 2,
+      "section_number": "21",
+      "statute_id": "396/1997"
+    },
+    {
+      "id": "9ef55068-96d0-4a9c-9f4b-a77e25f472b9",
+      "node_type": "Clause",
+      "publisher": "finlex",
+      "title": "§ 21 mom 2",
+      "text": "2) 2 momentissa tarkoitetussa televiestinnässä edellyttää tilaajan ennalta antamaa suostumusta.",
+      "clause_number": 2,
+      "section_number": "21",
+      "statute_id": "396/1997"
+    },
+    {
+      "id": "b5bada71-2522-44e0-9545-5dc8c6e1864e",
+      "node_type": "Clause",
+      "publisher": "finlex",
+      "title": "§ 23 mom 3",
+      "text": "1) valvoa tämän lain ja sen nojalla annettujen sääntöjen ja määräysten noudattamista, jollei 3 momentista muuta johdu; sekä",
+      "clause_number": 3,
+      "section_number": "23",
+      "statute_id": "396/1997"
+    },
+    {
+      "id": "3c834ba7-c3f8-45d5-8de1-0df7ccc5d14e",
+      "node_type": "Clause",
+      "publisher": "finlex",
+      "title": "§ 23 mom 1",
+      "text": "1) valvoa tämän lain ja sen nojalla annettujen sääntöjen ja määräysten noudattamista, jollei 3 momentista muuta johdu; sekä",
+      "clause_number": 1,
+      "section_number": "23",
+      "statute_id": "396/1997"
+    },
+    {
+      "id": "a37e6a92-cf9a-451e-a0ce-cb96f26980d2",
+      "node_type": "Clause",
+      "publisher": "finlex",
+      "title": "§ 23 mom 2",
+      "text": "2) antaa tarvittaessa teknisiä määräyksiä teleyritysten toiminnasta sekä telelaitteiden, televerkkojen ja telepalveluiden varustamisesta tämän lain edellyttämällä tavalla.",
+      "clause_number": 2,
+      "section_number": "23",
+      "statute_id": "396/1997"
+    },
+    {
+      "id": "531f7ad3-03cd-45a4-8dba-db6b13f4cdd9",
+      "node_type": "Clause",
+      "publisher": "finlex",
+      "title": "§ 27 mom 1",
+      "text": "1) laiminlyö 6 §:n 1 momentissa tarkoitetun teletoiminnan tietoturvasta huolehtimisen,",
+      "clause_number": 1,
+      "section_number": "27",
+      "statute_id": "396/1997"
+    },
+    {
+      "id": "34a4792f-3319-4f11-977e-e7777abea036",
+      "node_type": "Clause",
+      "publisher": "finlex",
+      "title": "§ 27 mom 1",
+      "text": "1) laiminlyö 6 §:n 1 momentissa tarkoitetun teletoiminnan tietoturvasta huolehtimisen,",
+      "clause_number": 1,
+      "section_number": "27",
+      "statute_id": "396/1997"
+    },
+    {
+      "id": "1d1fe37a-d8cc-414c-b8db-b859012f5802",
+      "node_type": "Clause",
+      "publisher": "finlex",
+      "title": "§ 27 mom 2",
+      "text": "2) käsittelee tunnistamistietoja 9―13 §:ssä säädetyn vastaisesti tai",
+      "clause_number": 2,
+      "section_number": "27",
+      "statute_id": "396/1997"
+    },
+    {
+      "id": "041bcd46-93ed-4f6c-a6ca-c766712fa0ae",
+      "node_type": "Clause",
+      "publisher": "finlex",
+      "title": "§ 27 mom 3",
+      "text": "3) käyttää televiestintää suoramarkkinointiin 21 §:n vastaisesti",
+      "clause_number": 3,
+      "section_number": "27",
+      "statute_id": "396/1997"
+    }
+  ],
+  "cross_references": [],
+  "raw_html_path": "C:\\Users\\danit\\finance-hack\\aalto-hackaton-2026\\data\\raw\\finlex\\Laki (säädöskokoelma)\\Laki yksityisyyden suojasta televiestinnässä ja teletoiminnan tietoturvasta.html"
+}

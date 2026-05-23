@@ -1,0 +1,788 @@
+{
+  "statute": {
+    "id": "6b85b022-0695-4b7f-811d-7f56eba72430",
+    "node_type": "Statute",
+    "publisher": "finlex",
+    "title": "Laki Euroopan unionin yhteisen kalastuspolitiikan kansallisesta täytäntöönpanosta",
+    "text": "Laki Euroopan unionin yhteisen kalastuspolitiikan kansallisesta täytäntöönpanosta",
+    "statute_id": "1954/2003",
+    "finlex_url": "https://finlex.fi/fi/laki/ajantasa/1954/2003"
+  },
+  "chapters": [
+    {
+      "id": "cf99f0f1-502e-49ba-b9a1-8ee8f4d59c7e",
+      "node_type": "Chapter",
+      "publisher": "finlex",
+      "title": "Chapter 1",
+      "text": "1 luku Yleiset säännökset",
+      "chapter_number": 1,
+      "statute_id": "1954/2003"
+    },
+    {
+      "id": "407fd461-479e-4777-84d9-df6327346400",
+      "node_type": "Chapter",
+      "publisher": "finlex",
+      "title": "Chapter 2",
+      "text": "2 luku Kalavarojen käytön ohjaus",
+      "chapter_number": 2,
+      "statute_id": "1954/2003"
+    },
+    {
+      "id": "3e277905-4755-4b52-88eb-4f0bc913b9f3",
+      "node_type": "Chapter",
+      "publisher": "finlex",
+      "title": "Chapter 3",
+      "text": "3 luku Suomen kalastuskiintiöiden jakaminen kaupallisille kalastajille",
+      "chapter_number": 3,
+      "statute_id": "1954/2003"
+    },
+    {
+      "id": "9c0c0f71-a57f-46e6-b834-cab9cc617adc",
+      "node_type": "Chapter",
+      "publisher": "finlex",
+      "title": "Chapter 4",
+      "text": "4 luku Markkinajärjestelyt",
+      "chapter_number": 4,
+      "statute_id": "1954/2003"
+    },
+    {
+      "id": "390307bb-8b07-437f-9b74-058810e4193f",
+      "node_type": "Chapter",
+      "publisher": "finlex",
+      "title": "Chapter 5",
+      "text": "5 luku Sisävesillä käytettävien kalastusalusten rekisteröinti",
+      "chapter_number": 5,
+      "statute_id": "1954/2003"
+    },
+    {
+      "id": "e6a10de7-d153-454f-8404-ee5b702db53e",
+      "node_type": "Chapter",
+      "publisher": "finlex",
+      "title": "Chapter 6",
+      "text": "6 luku Erinäiset säännökset",
+      "chapter_number": 6,
+      "statute_id": "1954/2003"
+    }
+  ],
+  "sections": [
+    {
+      "id": "300d2701-a9ba-4763-b8ff-3e7d457dfe33",
+      "node_type": "Section",
+      "publisher": "finlex",
+      "title": "1 § Soveltamisala",
+      "text": "Tässä laissa säädetään Euroopan unionin yhteisen kalastuspolitiikan täytäntöönpanosta siltä osin kuin muualla laissa ei toisin säädetä. Tätä lakia sovelletaan Suomen alueella ja talousvyöhykkeellä sekä niillä merialueilla, joille Suomeen rekisteröidyillä kaupallista kalastusta harjoittavilla aluksilla on pääsy kalastamaan Euroopan unionin yhteistä kalastuspolitiikkaa koskevan lainsäädännön nojalla.",
+      "section_number": "1",
+      "chapter_number": 1,
+      "statute_id": "1954/2003"
+    },
+    {
+      "id": "247699a4-4cc8-4787-b25f-b4f4d25983a0",
+      "node_type": "Section",
+      "publisher": "finlex",
+      "title": "2 § Toimivaltainen viranomainen",
+      "text": "Maa- ja metsätalousministeriö vastaa Euroopan unionin yhteisen kalastuspolitiikan täytäntöönpanosta sekä ohjaa ja sovittaa yhteen sitä koskevia valvontatoimia. Maa- ja metsätalousministeriö on Euroopan unionin yhteisestä kalastuspolitiikasta annetuissa Euroopan unionin säädöksissä ja päätöksissä tarkoitettu jäsenvaltion toimivaltainen viranomainen, jos muualla laissa ei toisin säädetä. Rahasto-ohjelmaa koskevan ehdotuksen ja sen muutosten valmistelusta ja toimeenpanon suunnittelusta vastaa maa- ja metsätalousministeriö. Maa- ja metsätalousministeriö vastaa myös rahasto-ohjelman merkitykseltään vähäistä muutosta koskevan ehdotuksen hyväksymisestä tai antamisesta Euroopan komission hyväksyttäväksi. Maa- ja metsätalousministeriö ohjaa ja sovittaa yhteen Euroopan unionin yhteistä kalastuspolitiikkaa koskevien tietojen keruuta sekä valvontatietojen keräämistä, käsittelyä, varmentamista ja raportointia. Luonnonvarakeskus vastaa Euroopan unionin asetuksella säädetyistä kalataloustietojen keruuta koskevista tehtävistä.",
+      "section_number": "2",
+      "chapter_number": 1,
+      "statute_id": "1954/2003"
+    },
+    {
+      "id": "6bd04889-1c7b-4e87-9fea-e8f05f2bfb12",
+      "node_type": "Section",
+      "publisher": "finlex",
+      "title": "3 § Määritelmät",
+      "text": "Tässä laissa tarkoitetaan:",
+      "section_number": "3",
+      "chapter_number": 1,
+      "statute_id": "1954/2003"
+    },
+    {
+      "id": "50ca2cd6-c712-4c6d-a804-7e6c9b4a6891",
+      "node_type": "Section",
+      "publisher": "finlex",
+      "title": "4 § Suomen kalastuskiintiön täyttyminen tai suurimman sallitun pyyntiponnistustason saavuttaminen",
+      "text": "Suomen lipun alla purjehtivat kalastusalukset eivät saa kalastaa kalakantaa tai kalakantaryhmää, jos kyseessä olevasta kalakannasta tai kalakantaryhmästä peräisin olevat saaliit ovat neuvoston valvonta-asetuksen 35 artiklan 1 kohdan a alakohdassa tarkoitetulla tavalla todennäköisesti täyttäneet tai ylittäneet Suomen käytettävissä olevan kyseisen kalakannan kalastuskiintiön tai jos neuvoston valvonta-asetuksen 35 artiklan 1 kohdan b alakohdassa tarkoitettu pyyntiponnistustaso on todennäköisesti saavutettu tai ylitetty. Maa- ja metsätalousministeriö arvioi saaliiden ja pyyntiponnistuksen määrän kehitystä saalisrekisterin tietojen sekä kyseistä kalakantaa kalastamassa olevien kalastusalusten lukumäärän, kalastuskapasiteetin ja sijainnin perusteella. Maa- ja metsätalousministeriön asetuksella säädetään päivä, jolloin 1 momentissa tarkoitettu kielto tulee voimaan, ja neuvoston valvonta-asetuksen 35 artiklan 2 kohdassa tarkoitettu päivä, johon saakka 1 momentissa tarkoitettujen saaliiden aluksella pitäminen, jälleenlaivaus, uudelleen sijoitus, kuljetus ja aluksesta purkaminen on sallittua. Kielto voi koskea Suomelle kyseiselle kalakannalle vahvistetun kalastuskiintiön koko kiintiöaluetta tai sitä osaa kiintiöalueesta, jossa kyseisestä kalakannasta saadaan merkittäviä saalismääriä. Kiellon voimaantulo voidaan säätää siten, että otetaan huomioon Euroopan parlamentin ja neuvoston yhteisestä kalastuspolitiikasta annetun asetuksen 15 artiklan 8 kohdan mukainen mahdollisuus vähentää muun kuin kohdelajin kiintiön ylittäneet saaliit tai saaliit, joita varten ei ole kiintiötä, enintään yhdeksän prosentin edestä kohdelajin kiintiöstä sekä 15 artiklan 9 kohdan mukainen mahdollisuus saaliiden lisämäärien purkamiseen enintään\nkymmenellä prosentilla laskettuna Suomen kalastuskiintiöstä. Kiintiön täyttymisen ja kalastuskiellon jälkeen kiintiöön kuuluvien kalakantojen kalastamisesta säädetään neuvoston LIS-asetuksen 3 artiklan 1 kohdan c alakohdassa.",
+      "section_number": "4",
+      "chapter_number": 2,
+      "statute_id": "1954/2003"
+    },
+    {
+      "id": "b10c22a1-54c0-4f52-88ef-c506593988f5",
+      "node_type": "Section",
+      "publisher": "finlex",
+      "title": "5 § Kalastuksen säätely kansallisilla kiintiöillä",
+      "text": "Kaupallinen kalastus on järjestettävä tavalla, joka ei vaaranna Suomen kalastuskiintiöiden riittävyyttä, kalastuskiintiöiden hyödyntämistä, kalakantojen säilyttämistä ja hoitamista, alueellisen kalastuspaineen sääntelyä tai kaupallisten kalastajien tasapuolisia kalastusmahdollisuuksia. Valtioneuvoston asetuksella voidaan säätää alueellisista, alusryhmäkohtaisista ja ajallisista kansallisista kiintiöistä sellaisille Euroopan unionissa kiintiöidyille kalakannoille, joita Suomen lipun alla olevilla kalastusaluksilla on oikeus kalastaa. Asetus voi olla voimassa enintään viisi vuotta kerrallaan. Edellä 1 momentissa tarkoitetussa asetuksessa säädetään suurimmasta mahdollisesta saalismäärästä painona, kappalemäärittäin tai osuutena Euroopan unionin Suomelle vahvistaman kyseisen kalakannan kiintiöstä, joka maantieteellisesti koordinaatein määritellyllä merialueella saadaan kalastaa tai jonka tietty alusryhmä saa kalastaa. Yli vuoden voimassa olevassa asetuksessa suurimmasta  mahdollisesta  saalismäärästä säädetään osuutena Suomen käytössä olevasta kiintiöstä. Asetuksessa voidaan säätää myös määräajasta, jonka aikana enimmäissaalismäärää ei saa ylittää. Kalastusalukset jaetaan alusryhmäkohtaiseen kiintiöön kalastusaluksen pituuden, vetoisuuden, konetehon tai aluksen käyttämän pyydyksen perusteella. Alusryhmäkohtainen kansallinen kiintiö voi koskea Suomelle vahvistettua kiintiöaluetta kokonaisuudessaan tai osaa siitä.",
+      "section_number": "5",
+      "chapter_number": 2,
+      "statute_id": "1954/2003"
+    },
+    {
+      "id": "dcd15f4e-7a96-4c4a-963d-e1c042fa3fef",
+      "node_type": "Section",
+      "publisher": "finlex",
+      "title": "6 § Kansallisesti säädetyn kiintiön täyttyminen",
+      "text": "Kun 5 §:n nojalla annetussa valtioneuvoston asetuksessa säädetty alueellinen kiintiö täyttyy, kiintiöalueella ei saa kalastaa kiintiöön kuuluvia kalakantoja. Kun valtioneuvoston asetuksessa säädetty alusryhmäkohtainen kiintiö täyttyy, ryhmään kuuluvat alukset eivät saa kalastaa kiintiöön kuuluvia kalakantoja. Maa- ja metsätalousministeriön asetuksella säädetään päivistä, jolloin 1 momentissa tarkoitetut kalastuskiellot tulevat voimaan. Maa- ja metsätalousministeriö arvioi saaliiden määrän kehitystä saalisrekisterin tietojen sekä kyseistä kalakantaa kalastamassa olevien kalastusalusten lukumäärän, kalastuskapasiteetin ja sijainnin sekä pyydysten lukumäärän perusteella. Maa- ja metsätalousministeriön asetuksella säädetään myös päivästä, johon saakka kiintiöön kuuluvien saaliiden aluksella pitäminen, jälleenlaivaus, uudelleen sijoitus, kuljetus ja aluksesta purkaminen on sallittua. Kiintiön täyttymisen ja kalastuskiellon jälkeen kiintiöön kuuluvien kalakantojen kalastamisesta säädetään neuvoston LIS-asetuksen 3 artiklan 1 kohdan c alakohdassa.",
+      "section_number": "6",
+      "chapter_number": 2,
+      "statute_id": "1954/2003"
+    },
+    {
+      "id": "f2b139cc-f88d-44a6-ac16-a6d0d73b5bda",
+      "node_type": "Section",
+      "publisher": "finlex",
+      "title": "7 § Suomen kalastuskiintiöiden vaihto muiden Euroopan unionin jäsenvaltioiden kanssa",
+      "text": "Maa- ja metsätalousministeriö voi vaihtaa omasta, siirrettävien käyttöoikeuksien haltijoiden tai kaupallisten kalastajien edustajien aloitteesta Suomen käytettävissä olevia ja Suomelle tulevaisuudessa  myönnettäviä kalastuskiintiöitä tai niiden osia muiden Euroopan unionin jäsenvaltioiden kanssa, jos vaihdolla turvataan Suomessa kalastuskiintiöiden riittävyys tai mahdollisuudet 20 §:n mukaisten toimijakohtaisten kalastuskiintiöiden hyödyntämiseen tai sillä tasataan alueellista kalastuspainetta tai tuetaan kalastusmahdollisuuksien tasapuolista jakaantumista kaupallisten kalastajien kesken. Maa- ja metsätalousministeriö päättää luovutuksessa noudatettavasta vaihtosuhteesta kuultuaan kaupallisten kalastajien edustajia.",
+      "section_number": "7",
+      "chapter_number": 2,
+      "statute_id": "1954/2003"
+    },
+    {
+      "id": "25935f6c-0268-4fdf-b22c-de64766b0c02",
+      "node_type": "Section",
+      "publisher": "finlex",
+      "title": "8 § Muut kalastusrajoitukset",
+      "text": "Valtioneuvoston asetuksella voidaan 5 §:n 1 momentin mukaisessa tarkoituksessa säätää tiettyä merialuetta koskevasta määräaikaisesta kalastuskiellosta ja ajallisista, alueellisista tai määrällisistä rajoituksista Euroopan unionissa kiintiöityjen tai muutoin säädeltyjen kalakantojen pyyntiin käytettävien pyydysten käytölle. Maa- ja metsätalousministeriön asetuksella voidaan lisäksi samassa tarkoituksessa antaa säännöksiä pyydysten teknisistä ominaisuuksista. Edellä tarkoitetut määräaikaiset kalastuskiellot ja pyydysrajoitukset voivat koskea kaikkia kalastusaluksia tai tietyn alusryhmän aluksia. Kiintiöön kuuluvien kalakantojen kalastamisesta kalastuskiellon jälkeen säädetään neuvoston LIS-asetuksen 3 artiklan 1 kohdan c alakohdassa. Pyydysten käytön rajoituksista ja teknisistä määräyksistä annettujen säännösten vastaisesta kalastamisesta säädetään neuvoston LIS-asetuksen 3 artiklan 1 kohdan e alakohdassa.",
+      "section_number": "8",
+      "chapter_number": 2,
+      "statute_id": "1954/2003"
+    },
+    {
+      "id": "1db2a0bd-909b-4ca7-aabb-39f0835b61d8",
+      "node_type": "Section",
+      "publisher": "finlex",
+      "title": "9 § Tarkemmat säännökset Euroopan unionin lainsäädännössä tarkoitetuista säilyttämistoimenpiteistä ja monivuotisista suunnitelmista",
+      "text": "Valtioneuvoston asetuksella voidaan antaa Euroopan unionin yhteisen kalastuspolitiikan täytäntöön panemiseksi välttämättömiä, yhteisestä kalastuspolitiikasta annetun Euroopan parlamentin ja neuvoston asetuksen 18 artiklan 8 kohdassa tarkoitettuja unionin säilyttämistoimenpiteitä ja monivuotisia suunnitelmia koskevia tarkempia säännöksiä. Maa- ja metsätalousministeriön asetuksella voidaan antaa säilyttämistoimenpiteitä ja monivuotisia suunnitelmia koskevissa säännöksissä sallittuja tai edellytettyjä tarkempia säännöksiä pyydysten teknisistä ominaisuuksista ja käytöstä.",
+      "section_number": "9",
+      "chapter_number": 2,
+      "statute_id": "1954/2003"
+    },
+    {
+      "id": "0a231995-809c-40e9-9051-77429d3f7d5d",
+      "node_type": "Section",
+      "publisher": "finlex",
+      "title": "10 § Kalastusluvat",
+      "text": "Elinkeino-, liikenne- ja ympäristökeskus myöntää neuvoston valvonta-asetuksen 7 artiklassa ja komission valvonta-asetuksen 4 artiklassa tarkoitetut kalastusluvat vähintään yhdeksi ja enintään kymmeneksi kalenterivuodeksi kerrallaan. Elinkeino-, liikenne- ja ympäristökeskus pitää rekisteriä luvan saaneista kalastusaluksista ja niiden kalastuslisenssinhaltijoista. Jos kalastuslupia haetaan useammalle kalastusalukselle kuin lupia voidaan Euroopan unionin yhteisen kalastuspolitiikan säännösten mukaan myöntää, etusijalle asetetaan sellaiset kalastuslisenssinhaltijat, joiden kalastusalukset ovat kyseisen lisenssinhaltijan hallinta-aikana ilmoittaneet elinkeino-, liikenne- ja ympäristökeskukselle kyseisessä luvassa tarkoitettujen kalakantojen saaliita viimeisten viiden haettavaksi julistamista edeltävän vuoden aikana useimpina kalenterivuosina. Enintään kymmenen prosenttia jaettavista luvista tai Euroopan unionin säännöksellä Suomelle osoitettu ja siitä edellä tarkoitetun jaon jälkeen jäljellä oleva lupamäärä voidaan varata sellaisille kalastuslisenssin haltijoille, joiden aluksilla ei ole ollut kyseisen kalalajin ilmoitettuja saaliita edellä tarkoitetun viiden vuoden aikana. Tällaisille kalastuslisenssien haltijoille varattavien lupien myöntämisessä asetetaan etusijalle sellaiset kalastuslisenssinhaltijat, joiden kalastusaluksen\npääkoneen kilowatteina ilmaistu teho on pienin. Maa- ja metsätalousministeriön asetuksella voidaan säätää tarkemmin kalastusluvissa tarkoitetuista kalakannoista ja pyydyksistä, myönnettävien lupien lukumäärästä, 2 momentissa tarkoitetuista saalisilmoituksista, lupien voimassaoloalueesta ja -ajasta sekä lupien hakumenettelystä. Kalastamisesta ilman kalastuslupaa säädetään neuvoston LIS-asetuksen 3 artiklan 1 kohdan a alakohdassa.",
+      "section_number": "10",
+      "chapter_number": 2,
+      "statute_id": "1954/2003"
+    },
+    {
+      "id": "823603df-2a85-46db-b851-844964af063d",
+      "node_type": "Section",
+      "publisher": "finlex",
+      "title": "11 § Kalastusluvan siirtäminen",
+      "text": "Jos kalastusluvan haltija luovuttaa luvassa mainitun aluksen eikä kalastusluvasta muuta ole luovutuksen osapuolten kanssa kirjallisesti sovittu, elinkeino-, liikenne- ja ympäristökeskus siirtää kalastusluvan jäljellä olevaksi ajaksi aluksen uudelle kalastuslisenssinhaltijalle, jos aluksen kansallisuus ei luovutuksen johdosta muutu. Kalastusluvan haltija voi sopia luovutuksensaajan kanssa, että kalastuslupa ei seuraa luovutettavaa alusta. Tällöin elinkeino-, liikenne- ja ympäristökeskus siirtää luvan luovuttajan toiseen kalastusalukseen, jos se Euroopan unionin säädösten mukaan on mahdollista eikä sitä ole kielletty muualla laissa.",
+      "section_number": "11",
+      "chapter_number": 2,
+      "statute_id": "1954/2003"
+    },
+    {
+      "id": "6e8b5771-dd89-4da3-9801-f5224e330268",
+      "node_type": "Section",
+      "publisher": "finlex",
+      "title": "12 § Suomen kalastuskiintiöiden jakaminen siirrettäviksi käyttöoikeuksiksi",
+      "text": "Suomen silakan, kilohailin ja lohen kalastuskiintiöt jaetaan siirrettäviksi käyttöoikeuksiksi merialueen kaupallisen kalastuksen toimintaedellytysten parantamiseksi ja kalastuksen järjestämiseksi tehokkaalla ja kestävällä tavalla. Ahvenanmaan itsehallintolain (1144/1991) 59 b §:n 2 momentissa säädettyä menettelyä noudattaen määritetään Suomen kalastuskiintiöistä Ahvenanmaan maakunnan osuudet, jotka siirretään Ahvenanmaan maakunnan hallituksen hallinnoitaviksi. Ahvenanmaalle siirrettävien osuuksien vähentämisen jälkeen maa- ja metsätalousministeriö jakaa hakemusten perusteella Suomen silakan, kilohailin ja lohen kalastuskiintiöt siirrettäviksi käyttöoikeuksiksi merialueen kaupalliseen kalastukseen rekisteröidyn aluksen omistaville kaupallisille kalastajille. Hakijan tulee täyttää vaatimukset merialueen kaupalliseen kalastukseen rekisteröidyn aluksen omistamisesta ja kaupallisten kalastajien rekisteriin kuulumisesta hakemuksen jättämisen määräaikaan mennessä. Siirrettävät käyttöoikeudet ilmaistaan promilleosuuksina Suomen tiettyä kalakantaa koskevasta kalastuskiintiöstä kolmen desimaalin tarkkuudella. Suomen silakan kalastuskiintiöitä koskevat siirrettävät käyttöoikeudet jaetaan erikseen troolikalastuksen ja rysäkalastuksen siirrettäviksi käyttöoikeuksiksi. Suomen kilohailin kalastuskiintiötä koskevat siirrettävät käyttöoikeudet jaetaan troolikalastuksen siirrettäviksi käyttöoikeuksiksi. Valtioneuvoston asetuksella säädetään siirrettävien käyttöoikeuksien hakumenettelystä ja hakemukseen liitettävistä asiakirjoista sekä siirrettäviä käyttöoikeuksia koskevien päätösten sisällöstä.",
+      "section_number": "12",
+      "chapter_number": 3,
+      "statute_id": "1954/2003"
+    },
+    {
+      "id": "8ffefc8d-7e08-4b11-bef7-369d5f3c0524",
+      "node_type": "Section",
+      "publisher": "finlex",
+      "title": "13 § Siirrettävien käyttöoikeuksien jakoperusteet",
+      "text": "Siirrettävät käyttöoikeudet jaetaan promilleosuuksina kaupallisille kalastajille sen mukaan, kuinka suuri kunkin kaupallisen kalastajan omistuksessa olevan tai olleen kalastusaluksen tai kalastusalusten kyseiseen Suomen kalastuskiintiöön kuuluva saalis on ollut vuosina 2011–2015 verrattuna kaikkien hakijoiden samalla tavalla laskettuun kokonaissaaliiseen. Saaliin suuruutta laskettaessa kultakin hakijalta otetaan viiteajanjaksolta 2011–2015 mukaan ne kolme kalenterivuotta, joiden aikana hakijan omistuksessa oleville tai olleille aluksille on kirjattu yhteisen kalastuspolitiikan seuraamusjärjestelmästä ja valvonnasta annetun lain (1188/2014) 30 §:ssä tarkoitettuun saalisrekisteriin eniten kyseisen kalastuskiintiön saaliita. Lohen  kalastuksessa  leveyspiirin 65°30´N pohjoispuolella ennen 25 päivää kesäkuuta ja leveyspiirien 64°00´N–65°30´N välillä ennen 20 päivää kesäkuuta pyydetystä saaliista lasketaan mukaan 80 prosenttia. Edellä olevasta 2 momentin mukaisesta pääsäännöstä poiketen, jos hakija on aloittanut kaupallisen kalastuksen vuonna 2014, lisätään saaliiseen vuosien 2014 ja 2015 saaliiden keskiarvoa vastaava määrä. Jos hakija on aloittanut kaupallisen kalastuksen vuonna 2015, lisätään saaliiseen kyseisen vuoden saalista vastaava määrä kerrottuna kahdella. Jos hakija on aloittanut kaupallisen kalastuksen vuonna 2016, saaliiksi lasketaan vuonna 2016 lokakuun loppuun mennessä kertynyt saalis, johon lisätään vuonna 2016 lokakuun loppuun mennessä kertynyttä saalista vastaava määrä kerrottuna kahdella. Hakijalle ei jaeta lohen kalastuksen siirrettäviä käyttöoikeuksia, jos hakijan kyseiseen Suomen kalastuskiintiöön kirjattujen 2 momentin mukaisesti laskettujen lohisaaliiden ja 4 momentin mukaisesti laskettujen määrien mukaisesti lasketun kolmen kalenterivuoden saaliin keskiarvo on alle kymmenen lohta. Hakijalle ei jaeta silakan rysäkalastuksen siirrettäviä käyttöoikeuksia, jos hakijan kyseiseen Suomen kalastuskiintiöön kirjattujen 2 momentin mukaisesti laskettujen rysillä kalastettujen silakkasaaliiden ja 4 momentin mukaisesti laskettujen määrien mukaisesti lasketun kolmen kalenterivuoden saaliin keskiarvo on alle kaksi tuhatta kiloa. Jos Euroopan unionin lainsäädännössä muutetaan silakkaa, kilohailia tai lohta koskevia kiintiöalueita, maa- ja metsätalousministeriö jakaa kyseisen Suomen kalastuskiintiön siirrettävät käyttöoikeudet uudelleen siirrettävien käyttöoikeuksien haltijoille voimassa olevien siirrettävien käyttöoikeuksien perusteella jaettujen 20 §:ssä tarkoitettujen toimijakohtaisten kalastuskiintiöiden osoittamassa suhteessa. Valtioneuvoston asetuksella voidaan säätää 2–5 momentissa tarkoitettujen tietojen selvittämistä koskevista menettelyistä ja tarkemmasta laskentamenettelystä.",
+      "section_number": "13",
+      "chapter_number": 3,
+      "statute_id": "1954/2003"
+    },
+    {
+      "id": "17a82098-1327-469a-9c73-41b2d0ef7a64",
+      "node_type": "Section",
+      "publisher": "finlex",
+      "title": "14 § Siirrettävien käyttöoikeuksien keskittymisen rajoittaminen",
+      "text": "Yhdellä kaupallisella kalastajalla voi olla hallussaan enintään 200,000 promillea kutakin Suomen silakan tai kilohailin kalastuskiintiötä ja enintään 150,000 promillea kutakin Suomen lohen kalastuskiintiötä koskevista siirrettävistä ja ei-siirrettävistä käyttöoikeuksista. Osakeyhtiölain (624/2006) 8 luvun 12 §:ssä tarkoitettu konserni, joka harjoittaa kaupallista kalastusta, katsotaan yhdeksi kaupalliseksi kalastajaksi.",
+      "section_number": "14",
+      "chapter_number": 3,
+      "statute_id": "1954/2003"
+    },
+    {
+      "id": "8285e749-8740-40df-bbad-a51a4d3f8c8a",
+      "node_type": "Section",
+      "publisher": "finlex",
+      "title": "15 § Siirrettävien käyttöoikeuksien voimassaolo ja voimassaolon jatkaminen",
+      "text": "Siirrettävät käyttöoikeudet ovat voimassa kymmenen kalenterivuotta siitä, kun ne ensimmäisen kerran jaetaan. Maa- ja metsätalousministeriö voi jatkaa siirrettävän käyttöoikeuden haltijan valtioneuvoston asetuksella säädetyssä määräajassa saapuneen hakemuksen perusteella siirrettävän käyttöoikeuden voimassaoloa enintään viideksi kalenterivuodeksi kerrallaan. Voimassaolon jatkaminen edellyttää, että hakija on kirjattu kyseessä olevan siirrettävän käyttöoikeuden haltijaksi 30 §:ssä tarkoitettuun rekisteriin. Jos siirrettävän käyttöoikeuden haltija ei hae siirrettävien käyttöoikeuksien voimassaolon jatkamista säädetyssä määräajassa, siirrettävät käyttöoikeudet palautuvat valtiolle alkuperäisen voimassaoloajan umpeuduttua. Valtioneuvoston asetuksella annetaan tarkemmat säännökset menettelystä voimassaolon jatkamisen hakemiseksi ja haun määräajasta.",
+      "section_number": "15",
+      "chapter_number": 3,
+      "statute_id": "1954/2003"
+    },
+    {
+      "id": "e5e166dc-194c-4062-81f5-eff9fc88b723",
+      "node_type": "Section",
+      "publisher": "finlex",
+      "title": "16 § Siirrettävien käyttöoikeuksien siirtäminen",
+      "text": "Siirrettävän käyttöoikeuden haltijalla on oikeus siirtää siirrettävä käyttöoikeus kokonaan tai osittain kaupalliselle kalastajalle, joka omistaa merialueen kaupalliseen kalastukseen rekisteröidyn kalastusaluksen. Siirrettävää käyttöoikeutta ei saa kuitenkaan siirtää Ahvenanmaan maakunnan alueella kotipaikkaansa pitävälle kaupalliselle kalastajalle. Siirrettävän käyttöoikeuden haltijan kuolin- tai konkurssipesä voi siirtää siirrettävän käyttöoikeuden samoilla edellytyksillä kuin alkuperäinen oikeudenomistaja. Siirron saajan käyttöoikeudet eivät saa siirron jälkeen ylittää 14 §:ssä säädettyä siirrettävien käyttöoikeuksien enimmäismäärää. Silakan rysäkalastukseen oikeuttavaa siirrettävää käyttöoikeutta ei saa siirtää troolikalastuksessa käytettäväksi siirrettäväksi käyttöoikeudeksi, eikä lohen kalastukseen oikeuttavaa siirrettävää käyttöoikeutta saa siirtää muulle kuin kalastuslain (379/2015) 88 §:n mukaiselle I ryhmän kaupalliselle kalastajalle, joka omistaa merialueen kaupalliseen kalastukseen rekisteröidyn kalastusaluksen. Siirrettävän käyttöoikeuden haltija, jonka kotipaikka on leveyspiirin 64°00´N pohjoispuolella, ei saa siirtää lohen kalastukseen oikeuttavaa siirrettävää käyttöoikeutta kaupalliselle kalastajalle, jonka kotipaikka on kyseisen leveyspiirin eteläpuolella. Siirrettävän käyttöoikeuden siirto tulee voimaan, kun elinkeino-, liikenne- ja ympäristökeskus on merkinnyt siirron 30 §:ssä tarkoitettuun rekisteriin. Siirtäjän ja siirron saajan on haettava siirron merkitsemistä yhdessä. Valtioneuvoston asetuksella voidaan säätää 6 momentissa tarkoitetusta siirron merkitsemiseen liittyvästä hakumenettelystä.",
+      "section_number": "16",
+      "chapter_number": 3,
+      "statute_id": "1954/2003"
+    },
+    {
+      "id": "270800c9-0fc9-450b-9798-c6a9d014233d",
+      "node_type": "Section",
+      "publisher": "finlex",
+      "title": "17 § Aloittavien kaupallisten kalastajien ei-siirrettävät käyttöoikeudet",
+      "text": "Elinkeino-, liikenne- ja ympäristökeskus voi jakaa kirjallisen hakemuksen perusteella kalastuslain 88 §:ssä tarkoitettuun I ryhmään rekisteröityneelle aloittavalle kaupalliselle kalastajalle, joka omistaa merialueen kaupalliseen kalastukseen rekisteröidyn kalastusaluksen, enintään viideksi kalenterivuodeksi silakan tai lohen rysäkalastukseen kaupallisen kalastajakohtaisen ei-siirrettävän käyttöoikeuden, jonka suuruus vastaa enintään kahta promillea siitä Suomen silakan tai lohen kalastuskiintiön osasta, josta on vähennetty 12 §:ssä tarkoitetut Ahvenanmaan maakunnalle siirrettävät kiintiömäärät sekä 18 §:ssä tarkoitetut erilliset kalastuskiintiöt. Ei-siirrettävinä käyttöoikeuksina voidaan jakaa kustakin Suomen silakan ja lohen kalastuskiintiöstä yhteensä enintään määrä, joka vastaa neljää prosenttia siitä kyseisen Suomen kalastuskiintiön osasta, josta on vähennetty 12 §:ssä tarkoitettu Ahvenanmaan maakunnalle siirrettävä kiintiömäärä sekä 18 §:ssä tarkoitettu erillinen kalastuskiintiö. Jos kaikille 1 momentin vaatimukset täyttäville hakijoille ei voida myöntää kahden promillen ei-siirrettäviä käyttöoikeuksia neljän prosentin enimmäismäärän täyttymisen takia, jaetaan Suomen kalastuskiintiöstä jaettavissa olevasta osuudesta 1 momentin vaatimukset täyttäville hakijoille samansuuruiset ei-siirrettävät käyttöoikeudet. Valtioneuvoston asetuksella voidaan säätää aloittaville kaupallisille kalastajille jaettavien ei-siirrettävien käyttöoikeuksien hausta, hakemuksen ja päätöksen sisällöstä sekä niihin liittyvistä menettelyistä.",
+      "section_number": "17",
+      "chapter_number": 3,
+      "statute_id": "1954/2003"
+    },
+    {
+      "id": "320815e0-86a3-45a9-9053-017ca4f441d6",
+      "node_type": "Section",
+      "publisher": "finlex",
+      "title": "18 § Erilliset kalastuskiintiöt",
+      "text": "Valtioneuvoston  asetuksella voidaan varata Suomen silakan, kilohailin ja lohen kalastuskiintiöistä määrältään vähäisiä erillisiä kalastuskiintiöitä eri kalastusmuotojen toimintaedellytysten ja sivusaaliita koskevien tarpeiden turvaamiseksi. Erilliset kalastuskiintiöt määritellään eri pyyntimuotojen aiempien vuosien saalistilastojen perusteella mahdollisimman pieniksi siten, että ne eivät tarpeettomasti rajoita muuta kuin siirrettävien tai ei-siirrettävien käyttöoikeuksien ja niiden perusteella jaettavien 20 §:n mukaisten toimijakohtaisten kalastuskiintiöiden perusteella tapahtuvaa kalastusta. Valtioneuvoston asetuksella voidaan säätää: Edellä 3 momentissa tarkoitettuja asetuksia annettaessa voidaan niiden mukaiset velvoitteet säätää erilaisina eri kaupallisten kalastajien ryhmiin kuuluville kaupallisille kalastajille ja erilaisina toimijakohtaisten kalastuskiintiöiden haltijoille ja muille kaupallisille kalastajille.",
+      "section_number": "18",
+      "chapter_number": 3,
+      "statute_id": "1954/2003"
+    },
+    {
+      "id": "6a28416b-a00f-42eb-be0a-bff138665bba",
+      "node_type": "Section",
+      "publisher": "finlex",
+      "title": "19 § Toimijakohtaisten kalastuskiintiöiden jakomenettely",
+      "text": "Ennen ei-siirrettävien ja siirrettävien käyttöoikeuksien perusteella suoritettavaa 2 ja 3 momentissa tarkoitettujen toimijakohtaisten kalastuskiintiöiden jakoa maa- ja metsätalousministeriö vähentää kustakin Suomen silakan, kilohailin ja lohen vuosittaisesta kalastuskiintiöstä 12 §:n 2 momentissa tarkoitetut Ahvenanmaan maakunnalle siirrettävät kiintiömäärät sekä 18 §:ssä tarkoitetut erilliset kalastuskiintiöt. Elinkeino-, liikenne- ja ympäristökeskus jakaa ei-siirrettävän käyttöoikeuden perusteella sen mukaisen promilleosuuden osoittaman toimijakohtaisen kalastuskiintiön 1 momentissa tarkoitettujen vähennysten jälkeen jäljellä olevasta Suomen kalastuskiintiöstä. Elinkeino-, liikenne- ja ympäristökeskus jakaa siirrettävän käyttöoikeuden perusteella sen mukaisen promilleosuuden osoittaman toimijakohtaisen kalastuskiintiön 1 momentissa tarkoitettujen vähennysten ja 2 momentin mukaisesti toteutetun jaon jälkeen jäljellä olevasta Suomen kalastuskiintiöstä. Toimijakohtaiset kalastuskiintiöt ja niiden käyttämättömät osat, joita Itämeren kiintiöasetuksen ja TACien ja kiintiöiden vuosittaiseen hallinnoimiseen liittyvien lisäedellytysten käyttöönottamisesta annetun neuvoston asetuksen (EY) N:o 847/96 mukaan ei voida siirtää seuraavalle kalenterivuodelle, palautuvat maa- ja metsätalousministeriön hallinnoitaviksi niiden soveltamista seuraavan kalenterivuoden 6 päivänä tammikuuta.",
+      "section_number": "19",
+      "chapter_number": 3,
+      "statute_id": "1954/2003"
+    },
+    {
+      "id": "7eed59cf-6de3-4be9-83bc-466584f6c2da",
+      "node_type": "Section",
+      "publisher": "finlex",
+      "title": "20 § Toimijakohtaisten kalastuskiintiöiden jakaminen",
+      "text": "Elinkeino-, liikenne- ja ympäristökeskus jakaa Suomen silakan, kilohailin ja lohen kalastuskiintiöt  toimijakohtaisiksi kalastuskiintiöiksi kalenterivuosittain määräaikaan mennessä saapuneiden siirrettävien ja ei-siirrettävien käyttöoikeuksien haltijoiden hakemusten perusteella 19 §:ssä tarkoitettujen menettelyiden mukaisesti. Päätöksessään elinkeino-, liikenne- ja ympäristökeskus ottaa huomioon mahdolliset 23 §:ssä tarkoitetut toimijakohtaisista kalastuskiintiöistä luopumiset ja 27 §:n 5 momentin mukaiset käyttömaksun maksamatta jättämisestä johtuvat toimijakohtaisten kalastuskiintiöiden menetykset. Elinkeino-, liikenne- ja ympäristökeskus voi vahvistaa maa- ja metsätalousministeriön päätöksen perusteella seuraavaa vuotta koskevat väliaikaiset toimijakohtaiset kalastuskiintiöt, joiden suuruus on enintään 90 prosenttia siirrettävien ja ei-siirrettävien käyttöoikeuksien perusteella tietystä Suomen kalastuskiintiöstä jaettavista toimijakohtaisista kalastuskiintiöistä, jos: Kun maa- ja metsätalousministeriö on selvittänyt edellisen vuoden toimijakohtaisten kalastuskiintiöiden käyttöä koskevat tiedot, se voi jakaa mahdolliset 27 §:n 2 ja 3 momentissa tarkoitetut valtiolle palautuneet siirrettävät käyttöoikeudet 28 §:ssä tarkoitetun menettelyn mukaisesti ja muuttaa tarvittaessa siirrettäviä käyttöoikeuksia koskevia päätöksiä. Edellisen vuoden toimijakohtaisten kalastuskiintiöiden käyttöä koskevien tietojen perusteella tai kun tämän pykälän 2 momentissa tarkoitettuja perusteita ei enää ole, elinkeino-, liikenne- ja ympäristökeskus  muuttaa tarvittaessa toimijakohtaisia kalastuskiintiöitä tai väliaikaisia toimijakohtaisia kalastuskiintiöitä koskevia päätöksiä. Kun mahdolliset 3 momentin mukaiset päätösten muutokset on tehty ja Euroopan komissio on asetuksellaan vahvistanut mahdolliset Suomen kalastuskiintiöiden siirrot tai vähennykset edelliseltä vuodelta, elinkeino-, liikenne- ja ympäristökeskus muuttaa tarvittaessa päätöksiään toimijakohtaisista kalastuskiintiöistä. Euroopan komission asetuksesta aiheutuvat lisäykset jaetaan ei-siirrettävien ja siirrettävien käyttöoikeuksien haltijoille niiden mukaisten osuuksien suhteessa ja vähennykset jaetaan edellisenä vuonna toimijakohtaisen kalastuskiintiönsä ylittäneiden haltijoiden kesken ylitysten suuruuden mukaisessa suhteessa. Valtioneuvoston asetuksella voidaan säätää toimijakohtaisten kalastuskiintiöiden hausta, hakemuksen ja päätöksen sisällöstä sekä niihin liittyvistä menettelyistä.",
+      "section_number": "20",
+      "chapter_number": 3,
+      "statute_id": "1954/2003"
+    },
+    {
+      "id": "17fdb43b-93b6-4080-b974-97abb200984e",
+      "node_type": "Section",
+      "publisher": "finlex",
+      "title": "21 § Suomen kalastuskiintiöihin tehtävien muutosten vaikutus toimijakohtaisiin kalastuskiintiöihin",
+      "text": "Jos Suomen kalastuskiintiö Euroopan unionin neuvoston päätöksellä pienenee tai suurenee kesken kalenterivuoden, elinkeino-, liikenne- ja ympäristökeskus muuttaa tarvittaessa 20 §:n 3 tai 4 momentissa tarkoitettua toimijakohtaisia kalastuskiintiöitä koskevaa päätöstään siten, että Suomen kalastuskiintiöiden lisäykset ja vähennykset jaetaan siirrettävien ja ei-siirrettävien käyttöoikeuksien haltijoille siirrettävien ja ei-siirrettävien käyttöoikeuksien suhteessa.",
+      "section_number": "21",
+      "chapter_number": 3,
+      "statute_id": "1954/2003"
+    },
+    {
+      "id": "8f8024b9-8802-4229-bf04-ce23e0110e95",
+      "node_type": "Section",
+      "publisher": "finlex",
+      "title": "22 § Toimijakohtaisen kalastuskiintiön siirtäminen",
+      "text": "Toimijakohtaisen kalastuskiintiön haltija saa siirtää toimijakohtaisen kalastuskiintiön kokonaan tai osittain 30 §:n mukaisessa rekisterissä olevalle kaupalliselle kalastajalle. Toimijakohtaisen  kalastuskiintiön haltijan kuolin- tai konkurssipesä voi siirtää toimijakohtaisen kalastuskiintiön samoilla edellytyksillä kuin alkuperäinen oikeudenomistaja. Lohen kalastuksessa toimijakohtaisen kalastuskiintiön saa siirtää vain kaupalliselle kalastajalle, joka on rekisteröity kalastuslain 88 §:ssä tarkoitetun I ryhmän kaupalliseksi kalastajaksi ja joka omistaa merialueen kaupalliseen kalastukseen rekisteröidyn kalastusaluksen. Toimijakohtaisen kalastuskiintiön haltija, jonka kotipaikka on leveyspiirin 64°00´N pohjoispuolella, ei saa siirtää lohen toimijakohtaista kalastuskiintiötä kaupalliselle kalastajalle, jonka kotipaikka on kyseisen leveyspiirin eteläpuolella. Jos toimijakohtaisen kalastuskiintiön haltija siirtää toimijakohtaisen kalastuskiintiön tai osan siitä kaupalliselle kalastajalle, jota ei ole rekisteröity 30 §:n mukaiseen rekisteriin, siirtäjän ja siirron saajan on haettava siirron merkitsemistä yhdessä elinkeino-, liikenne- ja ympäristökeskukselta, joka tarkistaa, että siirron saaja on rekisteröity kaupalliseksi kalastajaksi ja omistaa merialueen kaupalliseen kalastukseen rekisteröidyn kalastusaluksen. Toimijakohtaisen kalastuskiintiön siirto tulee voimaan päivämäärästä, jolle elinkeino-, liikenne- ja ympäristökeskus on vahvistanut siirron 30 §:n mukaiseen rekisteriin. Valtioneuvoston asetuksella voidaan säätää 2–4 momentin mukaisista toimijakohtaisen kalastuskiintiön siirtämis-, haku- ja päätöksentekomenettelyistä.",
+      "section_number": "22",
+      "chapter_number": 3,
+      "statute_id": "1954/2003"
+    },
+    {
+      "id": "86da068e-4bbc-46f5-b446-ea478499c818",
+      "node_type": "Section",
+      "publisher": "finlex",
+      "title": "23 § Toimijakohtaisesta kalastuskiintiöstä luopuminen",
+      "text": "Siirrettävän ja ei-siirrettävän käyttöoikeuden haltija voi 20 §:ssä tarkoitetussa hakemuksessa ilmoittaa luopuvansa käyttöoikeutensa perusteella jaettavasta seuraavan kalenterivuoden toimijakohtaisesta kalastuskiintiöstään kokonaan tai osittain. Siirrettävän tai ei-siirrettävän käyttöoikeuden haltijan hakematta jäänyt toimijakohtainen kalastuskiintiö rinnastetaan luovutettuun toimijakohtaiseen kalastuskiintiöön. Se osuus, josta haltija luopuu, jaetaan muiden kyseisen Suomen kalastuskiintiön siirrettävien  käyttöoikeuksien haltijoiden kesken siirrettävien käyttöoikeuksien osoittamassa suhteessa ottaen huomioon 20 §:ssä tarkoitetuissa hakemuksissa esitetyt tiedot haltijoiden halukkuudesta ottaa vastaan lisää toimijakohtaisia kalastuskiintiöitä. Jos kaikkea luovutettavaa toimijakohtaista kalastuskiintiötä ei oteta vastaan muiden haltijoiden hakemusten perusteella, kyseiset kiintiömäärät jäävät maa- ja metsätalousministeriön hallinnoitaviksi.",
+      "section_number": "23",
+      "chapter_number": 3,
+      "statute_id": "1954/2003"
+    },
+    {
+      "id": "cc59fede-e60d-4e1b-98ee-3f215cfe4f11",
+      "node_type": "Section",
+      "publisher": "finlex",
+      "title": "24 § Toimijakohtaisten kalastuskiintiöiden haltijoiden ilmoitukset ja kiintiöjärjestelyt",
+      "text": "Toimijakohtaisen kalastuskiintiön haltijan tulee yhteisen kalastuspolitiikan seuraamusjärjestelmästä ja valvonnasta annetun lain 21 ja 25 §:ssä tarkoitetussa saalis- ja purkamisilmoituksessa ilmoittaa toimijakohtaisen kalastuskiintiön haltija, jonka toimijakohtaista kalastuskiintiötä ilmoitettu saalis tai sen osa koskee. Maa- ja metsätalousministeriö päättää vuosittain ne Suomen kalastuskiintiöt, joiden osalta sovelletaan Euroopan parlamentin ja neuvoston yhteisestä kalastuspolitiikasta annetun asetuksen 15 artiklan 8 kohdan mukaista mahdollisuutta vähentää muun kuin kohdelajin kiintiön ylittäneet saaliit tai saaliit, joita varten ei ole kiintiötä, enintään yhdeksän prosentin edestä kohdelajin kiintiöstä. Valtioneuvoston asetuksella voidaan säätää käytettävää pyydystä, kalastusaluetta tai saaliin koostumusta koskevista kalastuksen rajoituksista, jotka ovat tarpeen 2 momentissa tarkoitetun maa- ja metsätalousministeriön päätöksen soveltamiseksi.",
+      "section_number": "24",
+      "chapter_number": 3,
+      "statute_id": "1954/2003"
+    },
+    {
+      "id": "1fb70903-ee61-4e1b-99d3-a98a3df3327f",
+      "node_type": "Section",
+      "publisher": "finlex",
+      "title": "25 § Lohisaaliita koskevat erityismääräykset",
+      "text": "Merialueelta pyydettyjen lohien ensimyynti on sallittu vain lohen toimijakohtaisen kalastuskiintiön haltijalle. Muiden kaupallisten kalastajien on vapautettava rysäkalastuksessa saadut lohet. Lohen toimijakohtaisen kalastuskiintiön haltijan on merkittävä myytävät lohet elinkeino-, liikenne- ja ympäristökeskukselta saadun tunnisteen avulla siten, että voidaan tunnistaa kenen toimijakohtaisesta kalastuskiintiöstä lohi on peräisin. Valtioneuvoston asetuksella voidaan säätää: Edellä 2 momentissa tarkoitettuja asetuksia annettaessa voidaan niiden mukaiset velvoitteet säätää erilaisina eri kaupallisten kalastajien ryhmiin kuuluville kaupallisille kalastajille ja erilaisina toimijakohtaisten kiintiöiden haltijoille ja muille kaupallisille kalastajille.",
+      "section_number": "25",
+      "chapter_number": 3,
+      "statute_id": "1954/2003"
+    },
+    {
+      "id": "9c0dc58e-618c-454a-8727-ccd479c8cb12",
+      "node_type": "Section",
+      "publisher": "finlex",
+      "title": "26 § Toimijakohtaisten kalastuskiintiöiden käyttömaksu",
+      "text": "Siirrettävän ja ei-siirrettävän käyttöoikeuden haltijan on suoritettava valtiolle toimijakohtaisten kalastuskiintiöiden käyttömaksu. Käyttömaksu muodostuu kertomalla toimijakohtaisen kalastuskiintiön koko sekä silakan ja kilohailin tonnikohtainen tai lohen kappalekohtainen hinta keskenään. Valtioneuvoston asetuksella säädetään silakan, kilohailin ja lohen tonni- ja kalakohtaiset hinnat keskimääräisen kalan alkutuottajan markkinahinnan mukaan siten, että ne eivät keskimäärin ylitä puoltatoista prosenttia kyseisen kalatonnin tai yksittäisen kalan alkutuottajan saamasta markkinahinnasta. Elinkeino-, liikenne- ja ympäristökeskus määrää toimijakohtaisia kalastuskiintiöitä koskevassa 20 §:n 1 momentissa tarkoitetussa jakopäätöksessä käyttömaksun siirrettävän ja ei-siirrettävän käyttöoikeuden haltijalle hänen saamastaan toimijakohtaisesta kalastuskiintiöstä.",
+      "section_number": "26",
+      "chapter_number": 3,
+      "statute_id": "1954/2003"
+    },
+    {
+      "id": "d555fea0-c808-40f2-a1d8-6e48f429aaa6",
+      "node_type": "Section",
+      "publisher": "finlex",
+      "title": "27 § Siirrettävän ja ei-siirrettävän käyttöoikeuden haltijan velvollisuudet ja seuraamukset niiden noudattamatta jättämisestä",
+      "text": "Siirrettävän käyttöoikeuden haltija on velvollinen hyödyntämään niiden perusteella jaetut toimijakohtaiset kalastuskiintiönsä tai siirtämään ne muiden kaupallisten kalastajien hyödynnettäväksi 22 §:n mukaisesti. Siirrettävä käyttöoikeus palautuu kokonaisuudessaan valtiolle, jos sen haltija ei kahtena kolmesta peräkkäisestä vuodesta käytä siirrettävän käyttöoikeuden perusteella jaettua toimijakohtaista kalastuskiintiötään tai siirrä siitä osaa muille kaupallisille kalastajille 22 §:n mukaisesti. Siirrettävästä käyttöoikeudesta palautuu puolet valtiolle, jos sen haltija ei kahtena kolmesta peräkkäisestä vuodesta käytä vähintään puolta siirrettävän käyttöoikeuden perusteella jaetusta toimijakohtaisesta kalastuskiintiöstään tai siirrä siitä vähintään puolta muille kaupallisille kalastajille 22 §:n mukaisesti. Edellä 17 §:ssä tarkoitettu ei-siirrettävä käyttöoikeus palautuu kokonaisuudessaan valtiolle, jos sen haltija ei kahtena kolmesta peräkkäisestä vuodesta käytä vähintään 50 prosenttia ei-siirrettävän käyttöoikeuden perusteella jaetusta toimijakohtaisesta kalastuskiintiöstään. Siirrettävän tai ei-siirrettävän käyttöoikeuden haltija on velvollinen maksamaan toimijakohtaisen kalastuskiintiönsä käyttömaksun eräpäivään mennessä. Jos siirrettävän tai ei-siirrettävän käyttöoikeuden haltija ei ole maksanut muistutuksessa määrättyyn eräpäivään ja kyseistä käyttömaksua seuraavan vuoden toimijakohtaista kalastuskiintiötä koskevan hakemuksen jättämisen määräpäivään mennessä, haltija menettää oikeutensa seuraavan vuoden toimijakohtaiseen kalastuskiintiöön.",
+      "section_number": "27",
+      "chapter_number": 3,
+      "statute_id": "1954/2003"
+    },
+    {
+      "id": "c22e7a04-7652-4bde-ba38-10b8e607fc55",
+      "node_type": "Section",
+      "publisher": "finlex",
+      "title": "28 § Valtiolle palautuneiden siirrettävien käyttöoikeuksien jakaminen",
+      "text": "Maa- ja metsätalousministeriö jakaa 27 §:n 2 ja 3 momentin ja 15 §:n perusteella valtiolle palautuneet siirrettävät käyttöoikeudet asettamaansa määräaikaan mennessä saapuneiden hakemusten perusteella niille 17 §:n mukaisille ei-siirrettävien käyttöoikeuksien haltijoille, jotka ovat vähintään kahden vuoden ajan kaikkina vuosina hyödyntäneet vähintään 50 prosenttia ei-siirrettävien käyttöoikeuksien perusteella jaetuista toimijakohtaisista kalastuskiintiöistä. Edellä 1 momentissa tarkoitetulla tavalla jaettava siirrettävä käyttöoikeus voi olla suuruudeltaan enintään neljä promillea. Jos valtiolle palautuneet käyttöoikeudet eivät riitä kaikkien edellä mainitut vaatimukset täyttävien ei-siirrettävien käyttöoikeuksien haltijoille, hakijat asetetaan etusijajärjestykseen ensisijaisesti ei-siirrettävän käyttöoikeuden keston ja toissijaisesti ei-siirrettävän käyttöoikeuden hyödyntämisprosentin mukaan. Jos valtiolle 27 §:n 2 ja 3 momentin ja 15 §:n perusteella palautunutta siirrettävää käyttöoikeutta jää jäljelle tämän pykälän 3 momentin mukaisen jaon jälkeen, jaetaan jäljelle jäävä osuus muiden kyseisen Suomen kalastuskiintiön siirrettävien käyttöoikeuksien haltijoiden kesken siirrettävien käyttöoikeuksien osoittamassa suhteessa 14 §:ssä tarkoitetuin rajoituksin. Valtioneuvoston asetuksella voidaan säätää menettelystä valtiolle palautuneiden siirrettävien käyttöoikeuksien jakamiseksi kaupallisille kalastajille.",
+      "section_number": "28",
+      "chapter_number": 3,
+      "statute_id": "1954/2003"
+    },
+    {
+      "id": "080e8c9d-9239-4bd2-b517-b0a29eb0951b",
+      "node_type": "Section",
+      "publisher": "finlex",
+      "title": "29 § Toimijakohtaisen kalastuskiintiön haltijan velvollisuudet ja seuraamukset niiden noudattamatta jättämisestä",
+      "text": "Toimijakohtaisen kalastuskiintiön haltijan on järjestettävä kalastustoimintansa ja seurattava toimijakohtaisen kalastuskiintiönsä hyödyntämistä mahdollisen kiintiön ylityksen vaikutukset huomioon ottaen niin, etteivät toimijakohtaisen kalastuskiintiön haltijan saaliit ylitä sille jaettua tai jaettavaa toimijakohtaista kalastuskiintiötä. Suomen silakan, kilohailin ja lohen kalastuskiintiöiden kalastaminen on kielletty ilman toimijakohtaista kalastuskiintiötä, lukuun ottamatta 18 §:ssä tarkoitettujen erillisten kalastuskiintiöiden perusteella harjoitettavaa kalastusta. Toimijakohtaisen kalastuskiintiön haltija ei saa kalastaa kyseistä Suomen kalastuskiintiötä, jos haltijan sitä koskeva toimijakohtainen kiintiö on täyttynyt. Kalastus on keskeytettävä heti, jos on ilmeistä, että toimijakohtainen kiintiö on täyttynyt. Elinkeino-, liikenne- ja ympäristökeskus voi myöntää luvan tutkimus- ja koulutustarkoituksessa tapahtuvaan trooli- tai rysäkalastukseen ilman toimijakohtaista kalastuskiintiötä siten, että saaliit kirjataan erilliseen kalastuskiintiöön. Kalastuksesta ilman toimijakohtaista kalastuskiintiötä, sen ylittävästä kalastuksesta tai 25 §:ssä tarkoitetun lohen merkintävelvollisuuksien rikkomisesta määrättävästä vakavaa rikkomusta koskevasta seuraamusmaksusta säädetään yhteisen kalastuspolitiikan seuraamusjärjestelmästä ja valvonnasta annetun lain 51 ja 52 §:ssä. Jos toimijakohtaisen kalastuskiintiön ylittänyt toimijakohtaisen kalastuskiintiön haltija on samalla siirrettävän käyttöoikeuden haltija, vähennetään ylitystä vastaava määrä siirrettävän käyttöoikeuden haltijan seuraavan vuoden kyseisestä toimijakohtaisesta kalastuskiintiöstä ja kyseinen osuus toimijakohtaisesta kalastuskiintiöstä palautuu valtiolle. Jos toimijakohtaisen kalastuskiintiön haltija ylittää toimijakohtaisen kalastuskiintiönsä, haltijalla on saaliin purkamisen jälkeen 72 tuntia aikaa hankkia lisää toimijakohtaista kalastuskiintiötä ja ilmoittaa siitä elinkeino-, liikenne- ja ympäristökeskukselle välttääkseen 3 ja 4 momentissa tarkoitetut seuraamukset. Valtioneuvoston asetuksella voidaan säätää 5 momentin mukaiseen siirtoon liittyvästä menettelystä ja toimijakohtaisten kalastuskiintiöiden täyttymisen seurannasta.",
+      "section_number": "29",
+      "chapter_number": 3,
+      "statute_id": "1954/2003"
+    },
+    {
+      "id": "de52c37a-d964-4dbc-a01e-904044c8072a",
+      "node_type": "Section",
+      "publisher": "finlex",
+      "title": "30 § Kaupallisen kalastuksen siirrettäviä käyttöoikeuksia ja toimijakohtaisia kalastuskiintiöitä koskeva rekisteri",
+      "text": "Maa- ja metsätalousministeriö ottaa käyttöön siirrettäviä käyttöoikeuksia ja toimijakohtaisia kalastuskiintiöitä koskevan rekisterin (kalastuskiintiörekisteri) osaksi yhteisen kalastuspolitiikan seuraamusjärjestelmästä ja valvonnasta annetun lain 29 §:ssä tarkoitettua tietojärjestelmää. Rekisteriä käytetään Euroopan unionin lainsäädännössä sekä tässä laissa säädettyjen tehtävien hoitamiseen. Kalastuskiintiörekisteriä pitävät maa- ja metsätalousministeriö ja elinkeino-, liikenne- ja ympäristökeskus. Päävastuullinen rekisterinpitäjä on elinkeino-, liikenne- ja ympäristökeskus. Kumpikin rekisterinpitäjä vastaa rekisteriin tallettamistaan tiedoista ja niiden oikeellisuudesta. Rekisterin tietoja voidaan luovuttaa Luonnonvarakeskukselle tutkimusta ja tilastojen laatimista varten.",
+      "section_number": "30",
+      "chapter_number": 3,
+      "statute_id": "1954/2003"
+    },
+    {
+      "id": "05c31187-82e5-4cfa-b920-df79b7212583",
+      "node_type": "Section",
+      "publisher": "finlex",
+      "title": "31 § Kalastuskiintiörekisterin sisältö",
+      "text": "Kalastuskiintiörekisteriin voidaan tallentaa:",
+      "section_number": "31",
+      "chapter_number": 3,
+      "statute_id": "1954/2003"
+    },
+    {
+      "id": "6873b1a0-8fed-4365-921e-b38669d709dd",
+      "node_type": "Section",
+      "publisher": "finlex",
+      "title": "32 § Haltijan oikeus käyttää kalastuskiintiörekisterin tietoja",
+      "text": "Siirrettävien käyttöoikeuksien ja toimijakohtaisten kalastuskiintiöiden haltijoilla on oikeus rekisteriin kuuluvassa sähköisessä palvelussa nähdä omat tietonsa, nähdä muut siirrettävien ja ei-siirrettävien käyttöoikeuksien ja toimijakohtaisten kalastuskiintiöiden haltijoiden tunnistetiedot ja siirtää hallussaan oleva toimijakohtainen kalastuskiintiö kokonaan tai osittain toiselle rekisteriin tallennetulle toimijakohtaisen kalastuskiintiön haltijalle. Tietojen selaaminen ja siirtojen toteuttaminen sähköisessä palvelussa edellyttää vahvasta sähköisestä tunnistamisesta ja sähköisistä luottamuspalveluista annetun lain (617/2009) 2 §:ssä tarkoitettua vahvaa sähköistä tunnistamista.",
+      "section_number": "32",
+      "chapter_number": 3,
+      "statute_id": "1954/2003"
+    },
+    {
+      "id": "8e1ac081-ebd2-485c-8e48-c621c2dc5856",
+      "node_type": "Section",
+      "publisher": "finlex",
+      "title": "33 § Tuottajaorganisaation ja toimialakohtaisen organisaation hyväksyminen",
+      "text": "Maa- ja metsätalousministeriö hyväksyy Euroopan parlamentin ja neuvoston markkina-asetuksen II luvun 1 jaksossa tarkoitetut kalastus- ja vesiviljelyalan tuottajaorganisaatiot ja toimialakohtaiset organisaatiot komission tuottaja-asetuksen 2 artiklan mukaisesti. Hyväksynnän ehtona on Euroopan parlamentin ja neuvoston markkina-asetuksen 14 ja 16 artiklassa säädettyjen edellytysten täyttyminen. Euroopan parlamentin ja neuvoston markkina-asetuksen 14 artiklan 1 kohdan b alakohdassa tarkoitetulla tuottajaorganisaation riittävän laajalla taloudellisella toiminnalla tarkoitetaan vähintään 20 prosenttia kyseisen kalalajin vuosisaaliista tai sitä pyytävien kaupallisten kalastajien määrästä Suomessa. Euroopan parlamentin ja neuvoston markkina-asetuksen 16 artiklan 1 kohdan b alakohdassa tarkoitetulla toimialakohtaisen organisaation merkittävällä osalla tuotantotoiminnasta sekä kalastus- ja vesiviljelytuotteiden tai niistä jalostettujen tuotteiden jalostuksesta tai kaupan pitämisestä taikka molemmista tarkoitetaan vähintään 20 prosenttia. Edellä 1 momentissa tarkoitetun hyväksynnän hakemisesta säädetään komission tuottaja-asetuksessa. Hakemukseen liitettävistä selvityksistä voidaan säätää valtioneuvoston asetuksella.",
+      "section_number": "33",
+      "chapter_number": 4,
+      "statute_id": "1954/2003"
+    },
+    {
+      "id": "ee5125d4-90b7-4f0b-9e7f-274b5cd262b1",
+      "node_type": "Section",
+      "publisher": "finlex",
+      "title": "34 § Tuottajaorganisaation ja toimialakohtaisen organisaation hyväksymisen peruuttaminen",
+      "text": "Maa- ja metsätalousministeriö päättää Euroopan parlamentin ja neuvoston markkina-asetuksen 18 artiklan ja komission tuottaja-asetuksen 3 ja 4 artiklan mukaisesti 33 §:ssä tarkoitetun hyväksymisen peruuttamisesta, jos hyväksynnän edellytykset eivät enää täyty.",
+      "section_number": "34",
+      "chapter_number": 4,
+      "statute_id": "1954/2003"
+    },
+    {
+      "id": "5863b00a-acaa-4642-8124-990f449e811e",
+      "node_type": "Section",
+      "publisher": "finlex",
+      "title": "35 § Tuottajaorganisaation ja toimialakohtaisen organisaation sääntöjen laajentaminen",
+      "text": "Maa- ja metsätalousministeriö päättää Euroopan parlamentin ja neuvoston markkina-asetuksen 22, 23 ja 25 artiklan sekä komission tuottaja-asetuksen 5 artiklan mukaisesti tuottajaorganisaation tai toimialakohtaisen organisaation sääntöjen laajentamisesta koskemaan tuottajaorganisaatioon kuulumattomia tuottajia tai toimialakohtaiseen organisaatioon kuulumattomia toimijoita. Sääntöjen laajentamista koskevassa organisaation hakemuksessa tulee esittää perusteet sääntöjen laajentamiselle ja osoittaa, että Euroopan parlamentin ja neuvoston markkina-asetuksen 22 ja 23 artiklassa säädetyt edellytykset täyttyvät. Maa- ja metsätalousministeriö päättää Euroopan parlamentin ja neuvoston markkina-asetuksen 24 artiklassa  tarkoitetuista  organisaatioon  kuulumattomien  tuottajien tai toimijoiden korvauksista tuottajaorganisaatiolle tai toimialakohtaiselle organisaatiolle.",
+      "section_number": "35",
+      "chapter_number": 4,
+      "statute_id": "1954/2003"
+    },
+    {
+      "id": "3c3fe542-5336-414e-b47b-1eddbe7d784c",
+      "node_type": "Section",
+      "publisher": "finlex",
+      "title": "36 § Tuottajaorganisaation tuotannon ja kaupan pitämisen suunnitelma",
+      "text": "Maa- ja metsätalousministeriö hyväksyy Euroopan parlamentin ja neuvoston markkina-asetuksen 28 artiklassa tarkoitetun tuottajaorganisaation tuotannon ja kaupan pitämisen suunnitelman tai sen tarkistuksen komission tuotantoasetuksen mukaisesti. Maa- ja metsätalousministeriö hyväksyy Euroopan parlamentin ja neuvoston markkina-asetuksen 28 artiklan 5 kohdassa tarkoitetun vuosikertomuksen tuottajaorganisaation tuotantoa ja kaupan pitämistä koskevaan suunnitelmaan perustuvasta toiminnasta.",
+      "section_number": "36",
+      "chapter_number": 4,
+      "statute_id": "1954/2003"
+    },
+    {
+      "id": "904b719b-5142-42ae-a3f0-a9afc290a2a5",
+      "node_type": "Section",
+      "publisher": "finlex",
+      "title": "37 § Kalastus- ja vesiviljelytuotteiden kauppanimet ja tieteelliset nimet",
+      "text": "Maa- ja metsätalousministeriön asetuksella vahvistetaan Euroopan parlamentin ja neuvoston markkina-asetuksen 37 artiklan 1 kohdassa tarkoitettu luettelo Suomen alueella sallituista kalastus- ja vesiviljelytuotteiden kauppanimistä ja tieteellisistä nimistä.",
+      "section_number": "37",
+      "chapter_number": 4,
+      "statute_id": "1954/2003"
+    },
+    {
+      "id": "ea5295b8-e86a-4982-9842-e4b35b4ae949",
+      "node_type": "Section",
+      "publisher": "finlex",
+      "title": "38 § Sisävesien kalastusalusrekisteri",
+      "text": "Sisävesien kalastusalusrekisteriin merkitään sisävesillä kaupalliseen kalastukseen käytettävät alukset ja veneet (sisävesialus).",
+      "section_number": "38",
+      "chapter_number": 5,
+      "statute_id": "1954/2003"
+    },
+    {
+      "id": "02c7a864-37f0-4e81-b894-a3b2425473d9",
+      "node_type": "Section",
+      "publisher": "finlex",
+      "title": "39 § Toimivaltainen rekisterinpitäjä",
+      "text": "Elinkeino-, liikenne- ja ympäristökeskus on sisävesialusten osalta toimivaltainen rekisterinpitäjä. Elinkeino-, liikenne- ja ympäristökeskus päättää sisävesialusten rekisteröinnistä ja rekisteristä poistamisesta ja tekee niihin liittyvät merkinnät rekisteriin sekä vastaa merkintöjen oikeellisuudesta. Maa- ja metsätalousministeriö vastaa rekisterin pidon ohjauksesta sekä rekisterin hallinnoimiseksi välttämättömän tietojärjestelmän ylläpidosta ja kehittämisestä.",
+      "section_number": "39",
+      "chapter_number": 5,
+      "statute_id": "1954/2003"
+    },
+    {
+      "id": "84ab7058-a5fc-42bc-a45d-7bd62f9da451",
+      "node_type": "Section",
+      "publisher": "finlex",
+      "title": "40 § Rekisteriin merkittävät tiedot",
+      "text": "Sisävesialuksesta rekisteriin merkitään kalastusaluksen omistajan tai omistajien sekä haltijan tai haltijoiden nimi tai nimet, henkilö- tai yritys- ja yhteisötunnukset, kielikoodi sekä osoite- ja yhteystiedot. Lisäksi rekisteriin merkitään aluksen 41 §:ssä tarkoitettu alusryhmä, aluksen katsastustiedot, aluksen päämoottorin koneteho sekä tiedot alukseen kohdistuvista ulosmittaus-, turvaamis- ja täytäntöönpanotoimista.",
+      "section_number": "40",
+      "chapter_number": 5,
+      "statute_id": "1954/2003"
+    },
+    {
+      "id": "fa9d5a22-ea77-4bb6-9a92-fefa274ce2af",
+      "node_type": "Section",
+      "publisher": "finlex",
+      "title": "41 § Ryhmittely",
+      "text": "Sisävesialukset ryhmitellään niiden pääasiallisen kalastuskäytön mukaisesti kahteen ryhmään seuraavasti: Sisävesialukselle annetaan kolme kirjainta sekä numero-osan käsittävä tunnus. Tunnuksen kirjainosa sisältää kirjaimet KAL ja numero-osa juoksevassa numerojärjestyksessä annettavan numeron.",
+      "section_number": "41",
+      "chapter_number": 5,
+      "statute_id": "1954/2003"
+    },
+    {
+      "id": "27516ee0-d935-4027-9de9-6cb7c0911e3a",
+      "node_type": "Section",
+      "publisher": "finlex",
+      "title": "42 § Sisävesialuksen rekisteröinti",
+      "text": "Sisävesialuksen omistajan on ennen aluksen kalastuskäyttöön ottamista ilmoitettava se rekisteriin. Hakemukseen on liitettävä oikeaksi todistettu jäljennös omistusoikeuden siirtymistä osoittavasta asiakirjasta sekä niiden sisävesialusten osalta, jotka on katsastettava, myös jäljennökset katsastustodistuksista. Sisävesialuksen rekisteriin merkitsemisestä annetaan rekisteriote.",
+      "section_number": "42",
+      "chapter_number": 5,
+      "statute_id": "1954/2003"
+    },
+    {
+      "id": "9519edc1-0901-479b-8e90-a0aa8630ef39",
+      "node_type": "Section",
+      "publisher": "finlex",
+      "title": "43 § Sisävesialuksen rekisteristä poistaminen",
+      "text": "Sisävesialus poistetaan rekisteristä omistajan ilmoituksen perusteella. Aluksen rekisteriin merkitylle haltijalle on ilmoitettava omistajan ilmoituksesta ennen päätöksen tekoa. Rekisterinpitäjä voi poistaa sisävesialuksen rekisteristä, jos se on tuhoutunut tai sitä ei ole käytetty kaupalliseen kalastukseen edellisen kolmen kalenterivuoden aikana. Aluksen omistajaksi ja haltijaksi merkityille on varattava tilaisuus tulla kuulluiksi ennen päätöksen tekemistä.",
+      "section_number": "43",
+      "chapter_number": 5,
+      "statute_id": "1954/2003"
+    },
+    {
+      "id": "b739567a-cce4-4508-a50f-09c22c54505b",
+      "node_type": "Section",
+      "publisher": "finlex",
+      "title": "44 § Muutosten ja tietojen ilmoitusvelvollisuus",
+      "text": "Jos sisävesialus on tuhoutunut tai sitä ei enää käytetä kaupalliseen kalastukseen tai rekisteriin merkityissä tiedoissa on tapahtunut muu olennainen muutos, sisävesialuksen omistajan on viipymättä ilmoitettava siitä sekä samalla esitettävä tarpeellinen selvitys muutoksista. Jos muutos on muutoin rekisterinpitäjän tiedossa, tämä voi asianosaista kuultuaan korjata rekisteritiedot muuttuneita olosuhteita vastaaviksi. Aluksen omistajalla ja haltijalla on velvollisuus antaa rekisterin ylläpidon tai käyttötarkoituksen kannalta tarpeellisia tietoja rekisterinpitäjälle tämän pyynnöstä.",
+      "section_number": "44",
+      "chapter_number": 5,
+      "statute_id": "1954/2003"
+    },
+    {
+      "id": "969405db-de73-4d1b-8bc3-a7dddbe7c8ee",
+      "node_type": "Section",
+      "publisher": "finlex",
+      "title": "45 § Rekisterinpitäjän oikeus saada tietoja viranomaisilta",
+      "text": "Rekisterinpitäjällä on sen estämättä, mitä tietojen salassapidosta säädetään, oikeus saada rekisterin ylläpidon ja käyttötarkoituksen kannalta välttämättöminä tietoina: Tiedot voidaan luovuttaa teknisen käyttöyhteyden avulla tai muutoin sähköisessä muodossa.",
+      "section_number": "45",
+      "chapter_number": 5,
+      "statute_id": "1954/2003"
+    },
+    {
+      "id": "d9265583-6768-411d-978e-7a13d0c0193b",
+      "node_type": "Section",
+      "publisher": "finlex",
+      "title": "46 § Luonnonvarakeskuksen oikeus saada tietoja",
+      "text": "Luonnonvarakeskuksella on oikeus saada rekisteröidyiltä kaupallisilta kalastajilta, kalanjalostusta ja kalakauppaa harjoittavilta yrityksiltä, vesiviljely-yrityksiltä ja muilta kalatalousalan toimijoilta sellaisia toiminnan harjoittamiseen liittyviä tietoja, jotka ovat välttämättömiä Euroopan unionissa kalatalousalan tietojen keruusta, hallinnasta ja käytöstä sekä tieteellisten lausuntojen tukemisesta säädettyjen velvoitteiden noudattamiseksi.",
+      "section_number": "46",
+      "chapter_number": 6,
+      "statute_id": "1954/2003"
+    },
+    {
+      "id": "3b482d26-d73c-47ad-80ea-ad07ab028c4d",
+      "node_type": "Section",
+      "publisher": "finlex",
+      "title": "47 § Pääsy näytteenottopaikkoihin ja yritysrekistereihin",
+      "text": "Luonnonvarakeskuksen nimeämillä tietojenkerääjillä on oikeus päästä aluksille, yritystiloihin ja muihin näytteenottopaikkoihin sekä yritysrekistereihin keräämään tietoja Euroopan unionissa kalatalousalan tietojen keruusta, hallinnasta ja käytöstä sekä tieteellisten lausuntojen tukemisesta säädettyjen velvoitteiden noudattamiseksi siltä osin kuin edellä tarkoitetut tilat eivät kuulu kotirauhan piiriin. Tietojen keräämisessä on noudatettava soveltuvin osin, mitä hallintolain (434/2003) 39 §:ssä säädetään. Tietojenkerääjään sovelletaan hänen suorittaessaan edellä tarkoitettua tehtävää rikosoikeudellista virkavastuuta koskevia säännöksiä.",
+      "section_number": "47",
+      "chapter_number": 6,
+      "statute_id": "1954/2003"
+    },
+    {
+      "id": "9900c041-7687-4eb7-a663-16f63e2dd991",
+      "node_type": "Section",
+      "publisher": "finlex",
+      "title": "48 § Muutoksenhaku",
+      "text": "Maa- ja metsätalousministeriön sekä elinkeino-, liikenne- ja ympäristökeskuksen tässä laissa tarkoitettuun päätökseen saa hakea muutosta valittamalla Turun hallinto-oikeuteen siten kuin hallintolainkäyttölaissa (586/1996) säädetään. Turun hallinto-oikeuden päätökseen saa hakea muutosta valittamalla vain, jos korkein hallinto-oikeus myöntää valitusluvan. Tämän  lain  mukaisen  päätöksen  tehneellä viranomaisella on valitusoikeus Turun hallinto-oikeuden päätöksestä, jos hallinto-oikeus on muuttanut viranomaisen päätöstä tai kumonnut sen. Tämän lain 12 §:n 3 momentin, 15 §:n 1 momentin, 17 §:n 1 momentin, 20 §:n 1–4 momentin, 21 §:n sekä 24 §:n 2 momentin nojalla tehtyä päätöstä on noudatettava muutoksenhausta huolimatta. Muutoksenhaussa noudatetaan muutoin, mitä hallintolainkäyttölaissa säädetään.",
+      "section_number": "48",
+      "chapter_number": 6,
+      "statute_id": "1954/2003"
+    },
+    {
+      "id": "19a6aa49-58db-4bab-a93b-2c254f0daea6",
+      "node_type": "Section",
+      "publisher": "finlex",
+      "title": "49 § Voimaantulo",
+      "text": "Tämä laki tulee voimaan 12 päivänä joulukuuta 2016. Tällä lailla kumotaan Euroopan unionin yhteisen kalastuspolitiikan täytäntöönpanosta annettu laki (1139/1994). Jos muussa laissa viitataan tämän lain voimaan tullessa voimassa olleeseen Euroopan unionin yhteisen kalastuspolitiikan täytäntöönpanosta annettuun lakiin, sen asemesta sovelletaan tätä lakia. Sisävesialuksen omistajan on vuoden kuluessa tämän lain voimaantulosta ilmoitettava rekisteröitäväksi sellainen alus, jonka rekisteröiminen ei ollut pakollista tämän lain voimaan tullessa.",
+      "section_number": "49",
+      "chapter_number": 6,
+      "statute_id": "1954/2003"
+    }
+  ],
+  "clauses": [
+    {
+      "id": "2442548d-83cc-465d-9b44-34473db0109f",
+      "node_type": "Clause",
+      "publisher": "finlex",
+      "title": "§ 18 mom 1",
+      "text": "1) mitä kalakantoja ja kalastusmuotoja 1 momentissa tarkoitetut erilliset kalastuskiintiöt koskevat;",
+      "clause_number": 1,
+      "section_number": "18",
+      "statute_id": "1954/2003"
+    },
+    {
+      "id": "b52422b7-0157-4ba3-bb68-7e3d7c0b6a65",
+      "node_type": "Clause",
+      "publisher": "finlex",
+      "title": "§ 18 mom 1",
+      "text": "1) mitä kalakantoja ja kalastusmuotoja 1 momentissa tarkoitetut erilliset kalastuskiintiöt koskevat;",
+      "clause_number": 1,
+      "section_number": "18",
+      "statute_id": "1954/2003"
+    },
+    {
+      "id": "14165b9c-04d0-470a-acfd-646c990be8b0",
+      "node_type": "Clause",
+      "publisher": "finlex",
+      "title": "§ 18 mom 2",
+      "text": "2) erillisten kalastuskiintiöiden suuruudesta ja suuruuden laskentaperusteista; sekä",
+      "clause_number": 2,
+      "section_number": "18",
+      "statute_id": "1954/2003"
+    },
+    {
+      "id": "f0b4a237-1421-4938-a1e4-f92a07fcc84f",
+      "node_type": "Clause",
+      "publisher": "finlex",
+      "title": "§ 18 mom 3",
+      "text": "3) erillisten kalastuskiintiöiden pyyntiä koskevista rajoituksista ja saalismäärien rajoituksista kaupallista kalastajaa kohden.",
+      "clause_number": 3,
+      "section_number": "18",
+      "statute_id": "1954/2003"
+    },
+    {
+      "id": "84fdb67e-9f35-4486-83e2-00573bb00adc",
+      "node_type": "Clause",
+      "publisher": "finlex",
+      "title": "§ 20 mom 1",
+      "text": "1) Suomen kalastuskiintiön jakamiseen vaikuttava muutoksenhaun käsittely tai muu oikeuskäsittely on kesken; tai",
+      "clause_number": 1,
+      "section_number": "20",
+      "statute_id": "1954/2003"
+    },
+    {
+      "id": "f21d2ceb-1ea5-4f0d-9398-d79f729d0b90",
+      "node_type": "Clause",
+      "publisher": "finlex",
+      "title": "§ 20 mom 2",
+      "text": "2) Itämeren kiintiöasetusta ei ole julkaistu eikä seuraavan vuoden Suomen silakan, kilohailin ja lohen kalastuskiintiöitä ole vahvistettu, jolloin väliaikaiset toimijakohtaiset kalastuskiintiöt voivat olla lisäksi enintään kansainvälisen merentutkimusneuvoston antaman tieteellisen neuvon alarajan suuruiset.",
+      "clause_number": 2,
+      "section_number": "20",
+      "statute_id": "1954/2003"
+    },
+    {
+      "id": "0688210d-7f90-49ee-97ff-9df0c779dccd",
+      "node_type": "Clause",
+      "publisher": "finlex",
+      "title": "§ 25 mom 1",
+      "text": "1) tietyllä alueella tai tiettynä aikana kaupalliselle kalastajalle sallittavan lohisaaliin enimmäismäärästä;",
+      "clause_number": 1,
+      "section_number": "25",
+      "statute_id": "1954/2003"
+    },
+    {
+      "id": "1759c578-e307-4c57-8b27-fc88a1ac260b",
+      "node_type": "Clause",
+      "publisher": "finlex",
+      "title": "§ 25 mom 2",
+      "text": "2) lohisaaliin koostumusta koskevista rajoituksista; sekä",
+      "clause_number": 2,
+      "section_number": "25",
+      "statute_id": "1954/2003"
+    },
+    {
+      "id": "dd0442de-fe1e-4b51-80af-b63c5e2b3a5a",
+      "node_type": "Clause",
+      "publisher": "finlex",
+      "title": "§ 25 mom 3",
+      "text": "3) toimijakohtaisia kalastuskiintiöitä koskevista saaliin merkitsemismenettelyistä.",
+      "clause_number": 3,
+      "section_number": "25",
+      "statute_id": "1954/2003"
+    },
+    {
+      "id": "4d160800-9ce9-4177-8738-845735f39c11",
+      "node_type": "Clause",
+      "publisher": "finlex",
+      "title": "§ 31 mom 1",
+      "text": "1) siirrettävän käyttöoikeuden, ei-siirrettävän käyttöoikeuden ja toimijakohtaisen kalastuskiintiön haltijan nimi ja yhteystiedot sekä henkilötunnus tai yritys- ja yhteisötunnus;",
+      "clause_number": 1,
+      "section_number": "31",
+      "statute_id": "1954/2003"
+    },
+    {
+      "id": "56887dfb-22aa-46a6-9544-06cdb3c33066",
+      "node_type": "Clause",
+      "publisher": "finlex",
+      "title": "§ 31 mom 2",
+      "text": "2) siirrettävän käyttöoikeuden ja ei-siirrettävän käyttöoikeuden haltijan hallussa olevat siirrettävien ja ei-siirrettävien käyttöoikeuksien promilleosuudet ja toimijakohtaisten kalastuskiintiöiden haltijoiden hallussa olevien toimijakohtaisten kalastuskiintiöiden suuruudet sekä niiden hyödyntämistä koskevat käyttöasteet ja saaliit;",
+      "clause_number": 2,
+      "section_number": "31",
+      "statute_id": "1954/2003"
+    },
+    {
+      "id": "82357f2b-c755-4cfb-a39e-d4c80dfcb33a",
+      "node_type": "Clause",
+      "publisher": "finlex",
+      "title": "§ 31 mom 3",
+      "text": "3) siirrettävän käyttöoikeuden, ei-siirrettävän käyttöoikeuden ja toimijakohtaisen kalastuskiintiön haltijan puolesta tietojen selaamiseen, toimijakohtaisen kalastuskiintiön hyödyntämiseen ja ilmoittamiseen sekä siirtojen toteuttamiseen valtuutetun yhteyshenkilön nimi, yhteystiedot ja sähköiseen tunnistamiseen tarvittavat tiedot;",
+      "clause_number": 3,
+      "section_number": "31",
+      "statute_id": "1954/2003"
+    },
+    {
+      "id": "01c8036c-12d4-48f4-847e-8db2f2411e06",
+      "node_type": "Clause",
+      "publisher": "finlex",
+      "title": "§ 31 mom 4",
+      "text": "4) siirrettävien käyttöoikeuksien ja toimijakohtaisten kalastuskiintiöiden siirrot;",
+      "clause_number": 4,
+      "section_number": "31",
+      "statute_id": "1954/2003"
+    },
+    {
+      "id": "bbd3c325-7749-41d0-b2e3-160e87fedff3",
+      "node_type": "Clause",
+      "publisher": "finlex",
+      "title": "§ 31 mom 5",
+      "text": "5) tiedot havaituista toimijakohtaisten kalastuskiintiöiden ylityksistä tai kalastuksesta ilman kalastuskiintiötä; sekä",
+      "clause_number": 5,
+      "section_number": "31",
+      "statute_id": "1954/2003"
+    },
+    {
+      "id": "37a163b4-cae2-44ba-ab00-8756fc85d87a",
+      "node_type": "Clause",
+      "publisher": "finlex",
+      "title": "§ 31 mom 6",
+      "text": "6) muita hakemusten käsittelyssä tarvittavia välttämättömiä tietoja.",
+      "clause_number": 6,
+      "section_number": "31",
+      "statute_id": "1954/2003"
+    },
+    {
+      "id": "c0242cbc-adcf-4592-ab80-42dcdf4e0af3",
+      "node_type": "Clause",
+      "publisher": "finlex",
+      "title": "§ 41 mom 1",
+      "text": "1) alusryhmä 1: troolarit;",
+      "clause_number": 1,
+      "section_number": "41",
+      "statute_id": "1954/2003"
+    },
+    {
+      "id": "019cb7d9-d51f-4380-b354-d2654aa93d61",
+      "node_type": "Clause",
+      "publisher": "finlex",
+      "title": "§ 41 mom 2",
+      "text": "2) alusryhmä 2: muut alukset.",
+      "clause_number": 2,
+      "section_number": "41",
+      "statute_id": "1954/2003"
+    },
+    {
+      "id": "e6faf652-b5b9-4121-8713-42f0a24cd92d",
+      "node_type": "Clause",
+      "publisher": "finlex",
+      "title": "§ 45 mom 1",
+      "text": "1) väestö- sekä yritys- ja yhteisötietorekistereitä pitäviltä viranomaisilta sisävesialusten omistajien ja haltijoiden sekä kalastusaluksilla työskentelevien henkilö- ja yritys- ja yhteisötunnukset, osoite- ja yhteystiedot sekä tiedot henkilöiden kuolemasta ja oikeushenkilöiden purkautumisesta ja lakkaamisesta;",
+      "clause_number": 1,
+      "section_number": "45",
+      "statute_id": "1954/2003"
+    },
+    {
+      "id": "3e40bdbe-60b1-4a76-b932-28b1dccd93ea",
+      "node_type": "Clause",
+      "publisher": "finlex",
+      "title": "§ 45 mom 2",
+      "text": "2) alusrekisteriä pitäviltä viranomaisilta tiedot alusrekisteriin rekisteröityjä kalastusaluksia ja niiden omistajia ja haltijoita koskevista merkinnöistä;",
+      "clause_number": 2,
+      "section_number": "45",
+      "statute_id": "1954/2003"
+    },
+    {
+      "id": "379aa732-8c0d-4ca6-8836-c3a7626c1800",
+      "node_type": "Clause",
+      "publisher": "finlex",
+      "title": "§ 45 mom 3",
+      "text": "3) ulosottoviranomaisilta tiedot sisävesialuksiin kohdistuvista ulosmittaus-, turvaamis- ja täytäntöönpanotoimenpiteistä;",
+      "clause_number": 3,
+      "section_number": "45",
+      "statute_id": "1954/2003"
+    },
+    {
+      "id": "6691d177-ddac-466a-bcda-047f9f1d0a57",
+      "node_type": "Clause",
+      "publisher": "finlex",
+      "title": "§ 45 mom 4",
+      "text": "4) alusten katsastusta hoitavilta viranomaisilta tiedot sisävesialusten katsastuksesta.",
+      "clause_number": 4,
+      "section_number": "45",
+      "statute_id": "1954/2003"
+    }
+  ],
+  "cross_references": [
+    {
+      "raw_text": "pykälän 2 momentissa t",
+      "statute_id": "1954/2003",
+      "section_number": "2 momentissa t",
+      "clause_number": null,
+      "resolution_confidence": 0.0
+    },
+    {
+      "raw_text": "pykälän 3 momentin m",
+      "statute_id": "1954/2003",
+      "section_number": "3 momentin m",
+      "clause_number": null,
+      "resolution_confidence": 0.0
+    }
+  ],
+  "raw_html_path": "C:\\Users\\danit\\finance-hack\\aalto-hackaton-2026\\data\\raw\\finlex\\Laki (säädöskokoelma)\\Laki Euroopan unionin yhteisen kalastuspolitiikan kansallisesta täytäntöönpanosta.html"
+}

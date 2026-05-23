@@ -1,0 +1,88 @@
+{
+  "statute": {
+    "id": "f1a31790-40d7-488a-985a-5f65f71e4c39",
+    "node_type": "Statute",
+    "publisher": "finlex",
+    "title": "Valtioneuvoston asetus sähkömarkkina-asetuksen muuttamisesta",
+    "text": "Valtioneuvoston asetus sähkömarkkina-asetuksen muuttamisesta",
+    "statute_id": "518/1995",
+    "finlex_url": "https://finlex.fi/fi/laki/ajantasa/518/1995"
+  },
+  "chapters": [
+    {
+      "id": "576f4e35-4c89-45d1-9aad-f2bfab1a14e0",
+      "node_type": "Chapter",
+      "publisher": "finlex",
+      "title": "Chapter 5",
+      "text": "5 luku Sähkön tuotanto",
+      "chapter_number": 5,
+      "statute_id": "518/1995"
+    }
+  ],
+  "sections": [
+    {
+      "id": "01193542-c4ad-4a06-9166-221591c5e24e",
+      "node_type": "Section",
+      "publisher": "finlex",
+      "title": "6 §",
+      "text": "Sähkön vähittäismyynnin taseselvityksen tulee perustua yli 3 x 63 ampeerin pääsulakkeilla varustetun sähkönkäyttöpaikan osalta tunneittain tapahtuvaan energianmittaukseen ja rekisteröintiin, jos sähkönkäyttöpaikka on varustettu nämä ominaisuudet täyttävällä mittauslaitteistolla. Sähkön vähittäismyynnin taseselvityksen tulee perustua enintään 3 x 63 ampeerin pääsulakkeilla varustetun sähkönkäyttöpaikan osalta tavanomaisen mittauksen ja tyyppikuormituskäyrän yhdistelmään, jos sähkönkäyttöpaikkaan ostetaan sähköä muilla kuin sähkömarkkinalain 21 §:ssä tarkoitetuilla ehdoilla. Jos asiakasryhmän sähkönkäyttö poikkeaa merkittävästi tyyppikuormituskäyrän mukaisesta sähkönkäytön aikavaihtelusta, jakeluverkonhaltija voi ottaa asiakasryhmää varten käyttöön paikallisen kuormituskäyrän. Harkitessaan paikallisen kuormituskäyrän käyttöönottoa, jakeluverkonhaltijan tulee ottaa huomioon, mitä sähkömarkkinalain 16 c §:n 3 momentissa säädetään.",
+      "section_number": "6",
+      "chapter_number": 1,
+      "statute_id": "518/1995"
+    },
+    {
+      "id": "34559094-75ae-407c-a743-dfe3ae84a0c1",
+      "node_type": "Section",
+      "publisher": "finlex",
+      "title": "9 §",
+      "text": "Sähkön riittävyyden turvaamiseksi järjestettävän tarjouskilpailun tarjouspyyntö erittelyineen on julkaistava Euroopan unionin virallisessa lehdessä vähintään kuusi kuukautta ennen tarjousten jättämiselle asetettua määräaikaa. Tarjouskilpailun järjestämisestä voidaan ilmoittaa tämän ohella myös muilla tavoin.",
+      "section_number": "9",
+      "chapter_number": 5,
+      "statute_id": "518/1995"
+    },
+    {
+      "id": "ed071661-295b-4b31-b376-aace2fe6a33b",
+      "node_type": "Section",
+      "publisher": "finlex",
+      "title": "10 §",
+      "text": "Voimalaitoksen haltijan on ilmoitettava sähkömarkkinaviranomaiselle teholtaan vähintään yhden megavolttiampeerin suuruisen: Ilmoituksessa on annettava tiedot voimalaitoksen omistajasta, voimalaitoksen tehosta ja energialähteistä sekä tärkeimmistä teknisistä ominaisuuksista, voimalaitoksen tai sen tehonkorotuksen käyttöönottoajankohdasta sekä, milloin kysymys on voimalaitoksen pitkäaikaisesta tai pysyvästä käytöstäpoistamisesta taikka voimalaitoksen pysyvästä tehonalennuksesta, toimenpiteen suunnitellusta toteutusajankohdasta. Tämä asetus tulee voimaan 27 päivänä joulukuuta 2004. Asetuksen 10 §:n säännöksiä sovelletaan päätöksiin tai toimenpiteisiin, jotka on tehty asetuksen voimaantulon jälkeen.",
+      "section_number": "10",
+      "chapter_number": 5,
+      "statute_id": "518/1995"
+    }
+  ],
+  "clauses": [
+    {
+      "id": "10413501-8c05-4f3b-a326-750b04ca3088",
+      "node_type": "Clause",
+      "publisher": "finlex",
+      "title": "§ 10 mom 1",
+      "text": "1) voimalaitoksen rakentamista tai voimalaitoksen tehonkorotusta koskevista päätöksistään kalenterivuosittain seuraavan tammikuun loppuun mennessä;",
+      "clause_number": 1,
+      "section_number": "10",
+      "statute_id": "518/1995"
+    },
+    {
+      "id": "ed07c17c-103d-4479-b34b-d11c41b52054",
+      "node_type": "Clause",
+      "publisher": "finlex",
+      "title": "§ 10 mom 2",
+      "text": "2) voimalaitoksen tai voimalaitoksen tehonkorotuksen käyttöönotosta kuukauden kuluessa siitä, kun voimalaitos tai sen tehonkorotus on otettu tuotantokäyttöön; sekä",
+      "clause_number": 2,
+      "section_number": "10",
+      "statute_id": "518/1995"
+    },
+    {
+      "id": "937933e7-7d39-4e29-a423-bf0c4b8e239a",
+      "node_type": "Clause",
+      "publisher": "finlex",
+      "title": "§ 10 mom 3",
+      "text": "3) voimalaitoksen pitkäaikaisesta tai pysyvästä käytöstäpoistamisesta taikka voimalaitoksen pysyvästä tehonalennuksesta vähintään kuusi kuukautta ennen toimenpiteen suunniteltua toteutusajankohtaa.",
+      "clause_number": 3,
+      "section_number": "10",
+      "statute_id": "518/1995"
+    }
+  ],
+  "cross_references": [],
+  "raw_html_path": "C:\\Users\\danit\\finance-hack\\aalto-hackaton-2026\\data\\raw\\finlex\\Asetus\\Valtioneuvoston asetus sähkömarkkina-asetuksen muuttamisesta_1.html"
+}

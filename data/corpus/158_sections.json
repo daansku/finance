@@ -1,0 +1,2914 @@
+{
+  "statute": {
+    "id": "970325d2-686f-4aa0-8640-f51c08cc2187",
+    "node_type": "Statute",
+    "publisher": "finlex",
+    "title": "Peruskouluasetus",
+    "text": "Peruskouluasetus",
+    "statute_id": "",
+    "finlex_url": ""
+  },
+  "chapters": [
+    {
+      "id": "6a00728c-fcf4-4e2b-8b60-ee34e98fa9be",
+      "node_type": "Chapter",
+      "publisher": "finlex",
+      "title": "Chapter 1",
+      "text": "1 luku Piirijako",
+      "chapter_number": 1,
+      "statute_id": ""
+    },
+    {
+      "id": "7d37ef3a-69b0-4be0-a4f2-dad17ea88458",
+      "node_type": "Chapter",
+      "publisher": "finlex",
+      "title": "Chapter 2",
+      "text": "2 luku Hallinto",
+      "chapter_number": 2,
+      "statute_id": ""
+    },
+    {
+      "id": "0ace974d-fe8d-436b-8e65-5a3059cd65fa",
+      "node_type": "Chapter",
+      "publisher": "finlex",
+      "title": "Chapter 3",
+      "text": "3 luku Työaika",
+      "chapter_number": 3,
+      "statute_id": ""
+    },
+    {
+      "id": "cf0775e5-2534-427e-9fca-c5bb2570af3e",
+      "node_type": "Chapter",
+      "publisher": "finlex",
+      "title": "Chapter 4",
+      "text": "4 luku Opetus",
+      "chapter_number": 4,
+      "statute_id": ""
+    },
+    {
+      "id": "549d8f26-31ae-4ce9-9b6a-dc13488ef3c0",
+      "node_type": "Chapter",
+      "publisher": "finlex",
+      "title": "Chapter 5",
+      "text": "5 luku Oppivelvollisuus ja koulunkäyntioikeus",
+      "chapter_number": 5,
+      "statute_id": ""
+    },
+    {
+      "id": "23088a53-43dd-402e-af01-cac49e7485a9",
+      "node_type": "Chapter",
+      "publisher": "finlex",
+      "title": "Chapter 6",
+      "text": "6 luku Oppilashuolto",
+      "chapter_number": 6,
+      "statute_id": ""
+    },
+    {
+      "id": "7633efb0-8e96-4464-9750-90384e1b7737",
+      "node_type": "Chapter",
+      "publisher": "finlex",
+      "title": "Chapter 7",
+      "text": "7 luku Kouluyhteistyö",
+      "chapter_number": 7,
+      "statute_id": ""
+    },
+    {
+      "id": "2b82afb8-3449-42a0-a0f8-a2348cd6f193",
+      "node_type": "Chapter",
+      "publisher": "finlex",
+      "title": "Chapter 8",
+      "text": "8 luku Virkojen perustaminen ja lakkauttaminen",
+      "chapter_number": 8,
+      "statute_id": ""
+    },
+    {
+      "id": "9d7fc1a9-6350-4e34-b4a4-1a950bdb7d9d",
+      "node_type": "Chapter",
+      "publisher": "finlex",
+      "title": "Chapter 9",
+      "text": "9 luku Viranhaltijain ja tuntiopettajien kelpoisuusehdot",
+      "chapter_number": 9,
+      "statute_id": ""
+    },
+    {
+      "id": "87342b24-1a34-43bd-b1cc-c4884ee6f87a",
+      "node_type": "Chapter",
+      "publisher": "finlex",
+      "title": "Chapter 10",
+      "text": "10 luku Viranhaltijain nimittäminen",
+      "chapter_number": 10,
+      "statute_id": ""
+    },
+    {
+      "id": "5a53e9da-e661-495c-8de2-0a3a256e32fe",
+      "node_type": "Chapter",
+      "publisher": "finlex",
+      "title": "Chapter 11",
+      "text": "11 luku Viranhaltijain ja tuntiopettajien tehtävät ja oikeudellinen asema",
+      "chapter_number": 11,
+      "statute_id": ""
+    },
+    {
+      "id": "5952af41-4590-414f-8de4-220a8005a7ea",
+      "node_type": "Chapter",
+      "publisher": "finlex",
+      "title": "Chapter 12",
+      "text": "12 luku Kiinteistö ja irtaimisto",
+      "chapter_number": 12,
+      "statute_id": ""
+    },
+    {
+      "id": "9989d43f-2c2b-48c2-9384-fabbeaed441b",
+      "node_type": "Chapter",
+      "publisher": "finlex",
+      "title": "Chapter 13",
+      "text": "13 luku Muutoksenhaku",
+      "chapter_number": 13,
+      "statute_id": ""
+    },
+    {
+      "id": "5a01ae1c-6060-49f5-8098-854cb075aa3a",
+      "node_type": "Chapter",
+      "publisher": "finlex",
+      "title": "Chapter 14",
+      "text": "14 luku Erinäisiä säännöksiä",
+      "chapter_number": 14,
+      "statute_id": ""
+    },
+    {
+      "id": "78d349dc-e672-4ab8-9b57-bdd727f5499c",
+      "node_type": "Chapter",
+      "publisher": "finlex",
+      "title": "Chapter 15",
+      "text": "15 luku Voimaantulosäännökset",
+      "chapter_number": 15,
+      "statute_id": ""
+    }
+  ],
+  "sections": [
+    {
+      "id": "11ab04a4-2074-437d-a13d-6066fc214ac9",
+      "node_type": "Section",
+      "publisher": "finlex",
+      "title": "1 §",
+      "text": "Peruskoulun yläasteen piiri saadaan muodostaa, jos yläasteen kullekin vuosiluokalle tulee vähintään 90 samankielistä oppilasta. Milloin asutuksen sijoittuminen tai liikenteelliset syyt sekä jo olevien koulurakennusten tarkoituksenmukainen ja taloudellinen käyttö sitä edellyttävät, saadaan yläasteen piiri muodostaa myös, jos kullekin vuosiluokalle tulee vähintään 40 samankielistä oppilasta. Muissa kuin edellä tässä pykälässä tarkoitetuissa tapauksissa yläasteen piiri voidaan muodostaa ja ylläpitää valtioneuvoston luvalla ja sen tarpeellisiksi katsomilla ehdoilla. Valtioneuvoston lupa voidaan myöntää myös määräajaksi, enintään 10 vuodeksi kerrallaan. Koululle erityisesti annettuun opetustehtävään perustuvan erityisen syyn johdosta laajennetaan peruskoulun ala- tai yläasteen koulun piiri tämän tehtävän osalta ulottumaan myös muun ala- tai yläasteen piirin alueelle. Tällaisen päällekkäisen piirin oppilaat luetaan sen koulun oppilaiksi, jota he käyvät, jollei 82 §:n 6 momentissa toisin säädetä.",
+      "section_number": "1",
+      "chapter_number": 1,
+      "statute_id": ""
+    },
+    {
+      "id": "2e2749e1-c006-4556-9223-3b9c92111a79",
+      "node_type": "Section",
+      "publisher": "finlex",
+      "title": "2 §",
+      "text": "Osa peruskoulun ala- tai yläasteen luokista voidaan tarpeen vaatiessa sijoittaa muualle kuin koulun varsinaiseen toimipaikkaan. Samaan piiriin voidaan järjestää, jos se on tarkoituksenmukaista, useampi kuin yksi peruskoulun ala-asteen luokkia sisältävä koulu.",
+      "section_number": "2",
+      "chapter_number": 1,
+      "statute_id": ""
+    },
+    {
+      "id": "933c8ad4-87bb-4056-8f42-a6126d389c04",
+      "node_type": "Section",
+      "publisher": "finlex",
+      "title": "3 §",
+      "text": "Johtokunnan tulee: Jos johtokunnan tietoon on tullut viranhaltijan tai tuntiopettajan sellainen menettely tai laiminlyönti, joka voi aiheuttaa huomautuksen, kurinpitomenettelyn tai syytteen, johtokunnan on siitä viipymättä ilmoitettava kirjallisesti koululautakunnalle ja lääninhallitukselle.",
+      "section_number": "3",
+      "chapter_number": 2,
+      "statute_id": ""
+    },
+    {
+      "id": "25c03f4f-98a2-4dd4-959a-9ded16ede795",
+      "node_type": "Section",
+      "publisher": "finlex",
+      "title": "4 §",
+      "text": "Jollei laissa tai tässä asetuksessa ole toisin säädetty, johtokunnasta ja sen jäsenestä on soveltuvin osin voimassa, mitä kunnallislaissa (953/76) on lautakunnasta ja sen jäsenestä säädetty. Johtokunta on koululautakunnan valvonnan alainen.",
+      "section_number": "4",
+      "chapter_number": 2,
+      "statute_id": ""
+    },
+    {
+      "id": "95b954f2-24c1-4298-84d6-c70619f9e81d",
+      "node_type": "Section",
+      "publisher": "finlex",
+      "title": "5 §",
+      "text": "Johtokunta on kutsuttava koolle viipymättä, jos koululautakunta, koulutoimen johtaja, koulun johtaja tai vähintään kolmasosa johtokunnan jäsenistä sitä vaatii. Johtokunnan kokouksissa on lääninhallituksen edustajalla oikeus olla läsnä ja käyttää niissä puhevaltaa. Muiden oikeudesta olla läsnä ja käyttää puhevaltaa määrätään johtosäännössä. Milloin johtokunta on kahden tai useamman koulun yhteinen, johtokunta määrää, minkä koulun johtaja toimii johtokunnan sihteerinä.",
+      "section_number": "5",
+      "chapter_number": 2,
+      "statute_id": ""
+    },
+    {
+      "id": "7e372887-30a9-427e-a964-8b95d2e102c4",
+      "node_type": "Section",
+      "publisher": "finlex",
+      "title": "6 §",
+      "text": "Koululautakunta kutsuessaan koolle peruskoululain (476/83) 13§:n 1 momentissa tarkoitetun kokouksen määrää kokouksen puheenjohtajan. Kokouksen sihteerinä toimii koulun johtaja. Oppilaiden huoltajien kokouksessa tehdään kunnanvaltuustolle ehdotus johtokuntaan oppilaiden huoltajien keskuudesta valittaviksi jäseniksi ja heidän varajäsenikseen. Ehdotettuja henkilöitä, joita ei aseteta sijajärjestykseen, tulee olla mahdollisuuksien mukaan vähintään kymmenen. Kokouksen koollekutsumistavasta ja muista tarpeellisista seikoista määrätään johtosäännössä.",
+      "section_number": "6",
+      "chapter_number": 2,
+      "statute_id": ""
+    },
+    {
+      "id": "0bee437f-3ea1-4bab-b354-1f0913f0b0f8",
+      "node_type": "Section",
+      "publisher": "finlex",
+      "title": "7 §",
+      "text": "Opettajakunnan tulee: Opettajakunnan kokous, jossa suunnitellaan alkavan lukuvuoden työtä, on pidettävä viimeistään päivää ennen oppilaiden koulutyön alkamista. Suorittaessaan 1 momentissa mainittuja tehtäviään opettajakunnan on tarvittaessa neuvoteltava peruskoulun palveluksessa olevien muita kuin opetustehtäviä suorittavien henkilöiden kanssa.",
+      "section_number": "7",
+      "chapter_number": 2,
+      "statute_id": ""
+    },
+    {
+      "id": "ceba32e8-c32b-427e-ba38-18a30567e942",
+      "node_type": "Section",
+      "publisher": "finlex",
+      "title": "8 §",
+      "text": "Opettajakunnan puheenjohtajana toimii johtaja tai hänen estyneenä ollessaan apulaisjohtaja tai varajohtaja. Opettajakunta valitsee keskuudestaan sihteerin. Opettajakunnan kokouksen kutsuu koolle puheenjohtaja. Kokous on kutsuttava koolle viipymättä, jos vähintään kolmasosa opettajakunnan jäsenistä sitä vaatii.",
+      "section_number": "8",
+      "chapter_number": 2,
+      "statute_id": ""
+    },
+    {
+      "id": "5dcc856c-d4e3-4190-ac50-cd55751e21b1",
+      "node_type": "Section",
+      "publisher": "finlex",
+      "title": "9 §",
+      "text": "Opettajakunnan kokous on päätösvaltainen, kun enemmän kuin puolet jäsenistä on saapuvilla. Päätökseksi tulee enemmistön mielipide. Äänten mennessä tasan asian ratkaisee puheenjohtajan ääni, vaalin kuitenkin arpa. Opettajakunnan kokouksen koollekutsumistavasta ja siinä noudatettavista menettelytavoista määrätään johtosäännössä.",
+      "section_number": "9",
+      "chapter_number": 2,
+      "statute_id": ""
+    },
+    {
+      "id": "352b2e05-600c-4e67-bc38-412e75f2b5aa",
+      "node_type": "Section",
+      "publisher": "finlex",
+      "title": "10 §",
+      "text": "Oppilaskunnan tulee: Oppilaskunta voi koulun opetuksen ja kasvatuksen kehittämiseksi tehdä ehdotuksia ja antaa lausuntoja opetussuunnitelmasta ja sen työsuunnitelmasta sekä oppikirjoista ja opetusväline- ja kirjastohankinnoista sekä osallistua oppilashuoltoon. Oppilaskunnan hallituksen tehtävänä on valmistella oppilaskunnan kokouksessa esille tulevat asiat ja toimeenpanna oppilaskunnan päätökset. Johtokunta voi kouluhallituksen antamien ohjeiden mukaan päättää, että oppilaskunnan hallitus jätetään valitsematta.",
+      "section_number": "10",
+      "chapter_number": 2,
+      "statute_id": ""
+    },
+    {
+      "id": "c7b5fff9-8dad-4664-bca5-c772dda4c54d",
+      "node_type": "Section",
+      "publisher": "finlex",
+      "title": "11 §",
+      "text": "Oppilaskunta kokoontuu lukuvuosittain viimeistään syyskuun loppuun mennessä päättämään 10§:n 1 momentin 1 ja 2 kohdassa mainituista asioista. Kouluhallitus antaa tarkemmat määräykset oppilaskunnan ja sen hallituksen kokouksista, niissä noudatettavasta menettelystä, päätöksenteosta, koollekutsumisesta ja niihin osallistuvien esteellisyydestä noudattaen soveltuvin osin yhdistyksen kokouksesta voimassa olevia säännöksiä.",
+      "section_number": "11",
+      "chapter_number": 2,
+      "statute_id": ""
+    },
+    {
+      "id": "e5a55633-24aa-4164-9a97-32e8dab9d485",
+      "node_type": "Section",
+      "publisher": "finlex",
+      "title": "12 §",
+      "text": "Peruskoulussa muita kuin opetustehtäviä suorittavan henkilökunnan kokouksessa päätetään:",
+      "section_number": "12",
+      "chapter_number": 2,
+      "statute_id": ""
+    },
+    {
+      "id": "63a4863a-d424-4c35-b694-abdd4be0a2d3",
+      "node_type": "Section",
+      "publisher": "finlex",
+      "title": "13 §",
+      "text": "Milloin kahdella tai useammalla peruskoululla on yhteinen johtokunta, tulee peruskoulun johtajan, joka toimii johtokunnan sihteerinä, huolehtia siitä, että koulujen opettajakunnat ja muita kuin opetustehtäviä suorittava henkilökunta pitävät yhteiset kokouksensa, joissa tehdään 7§:n 1 momentin 4 kohdassa ja 12§:n 1 kohdassa tarkoitetut ehdotukset johtokuntaan valittavasta jäsenestä ja varajäsenestä. Johtajan tulee huolehtia vastaavasti 10§:n 1 momentin 2 kohdassa tarkoitetun valinnan toimittamisesta.",
+      "section_number": "13",
+      "chapter_number": 2,
+      "statute_id": ""
+    },
+    {
+      "id": "4e91ceb4-fba5-47c6-bbd0-f4c3a7740f29",
+      "node_type": "Section",
+      "publisher": "finlex",
+      "title": "14 §",
+      "text": "Peruskoulun johtajan tehtävänä on: Jos koulun palveluksessa olevan henkilön menettely on ollut virheellinen taikka koululle tai oppilaalle vahingollinen ja jos muutoin ei saada oikaisua, on johtajan ilmoitettava asia johtokunnalle. Milloin kaksi tai useampia peruskouluja tai peruskoulu ja lukio käyttävät yhteistä kiinteistöä tai yhteisiä opetustiloja tahi -välineitä, ja näillä kouluilla on eri johtajat, määrää koululautakunta yhden heistä hoitamaan tästä johtuvat yhteiset tehtävät.",
+      "section_number": "14",
+      "chapter_number": 2,
+      "statute_id": ""
+    },
+    {
+      "id": "28811879-48c3-45fc-995b-c475d15bb205",
+      "node_type": "Section",
+      "publisher": "finlex",
+      "title": "15 §",
+      "text": "Milloin yläasteen koulussa tai erityisluokista muodostetussa koulussa on vähintään 15 taikka ala-asteen koulussa vähintään 30 perusopetusryhmää, on koulussa apulaisjohtaja. Jos kahdella tai useammalla peruskoululla on yhteinen johtaja, on kouluilla yhteinen apulaisjohtaja silloin, jos niissä on yhteensä vähintään 15 yläasteen perusopetusryhmää tai yhteensä vähintään 30 perusopetusryhmää. Jos lukion rehtori hoitaa myös peruskoulun johtajan tehtävät, on peruskoulussa apulaisjohtaja, mikäli lukiossa ja peruskoulussa on yhteensä vähintään 15 perusopetusryhmää. Koululautakunta voi määrätä, että 14 §:n 1 momentin 7-16 kohdassa määrätyt tehtävät tai osa niistä kuuluvat apulaisjohtajalle ja että apulaisjohtajan on avustettava johtajaa työsuunnitelmaehdotuksen valmistamisessa. Koulun johtajan estyneenä tai esteellisenä ollessa hoitaa apulaisjohtaja johtajalle kuuluvat tehtävät. Kolmi- tai useampiopettajaisessa koulussa, jossa ei ole apulaisjohtajaa, tulee olla varajohtaja, joka johtajan estyneenä tai esteellisenä ollessa hoitaa johtajan tehtävät. Apulaisjohtajalla on apulaisrehtorin ja, milloin koulussa on rehtori, varajohtajalla vararehtorin arvonimi.",
+      "section_number": "15",
+      "chapter_number": 2,
+      "statute_id": ""
+    },
+    {
+      "id": "fcccbd60-1379-4291-b9d8-ecd7a63109ec",
+      "node_type": "Section",
+      "publisher": "finlex",
+      "title": "16 §",
+      "text": "Johtajaa, apulaisjohtajaa ja varajohtajaa valittaessa on vakinainen viranhaltija asetettava viran väliaikaisen hoitajan edelle sekä virkakelpoinen epäpätevän edelle, jollei erityinen syy vaadi poikkeusta. Koululautakunnan on varattava opettajakuntaan kuuluville kullekin erikseen tai kaikille yhteisesti sekä johtokunnalle tilaisuus ehdottaa, kuka olisi valittava johtajaksi, apulaisjohtajaksi tai varajohtajaksi.",
+      "section_number": "16",
+      "chapter_number": 2,
+      "statute_id": ""
+    },
+    {
+      "id": "3e40ad81-ab6f-4ec0-9eed-545038c3aadd",
+      "node_type": "Section",
+      "publisher": "finlex",
+      "title": "17 §",
+      "text": "Vuodenvaihde jakaa peruskoulun lukuvuoden syys- ja kevätlukukauteen. Oppilaiden koulutyö aloitetaan elokuussa ja päätetään viimeistään 6 päivänä kesäkuuta. Lukuvuoden koulutyön päättymispäivä voidaan sijoittaa myös lauantaiksi. Kouluhallitus määrää koulutyön aloittamispäivän ja päättymispäivän. Koulutyön aloittamisajankohdasta on koululautakunnan ilmoitettava vähintään kahta viikkoa aikaisemmin sopivalla tavalla oppilaiden huoltajille. Jos kunta on määrännyt, että oppilaan on käytävä koulua muun kuin oman piirin koulussa, on ilmoitus tästä toimitettava kirjallisesti oppilaan huoltajalle.",
+      "section_number": "17",
+      "chapter_number": 3,
+      "statute_id": ""
+    },
+    {
+      "id": "7ddb79b5-edff-4b81-b905-270c6ab671cf",
+      "node_type": "Section",
+      "publisher": "finlex",
+      "title": "18 §",
+      "text": "Milloin koulutyö on ollut pakottavasta syystä keskeytyneenä tai alkanut määrättyä aikaa myöhemmin eikä opetussuunnitelmassa määriteltyjä tavoitteita voida muutoin saavuttaa, korvataan menetetyt työpäivät vapaapäiviä kohtuullisessa määrin vähentämällä ja, jollei se riitä, pidentämällä lukuvuoden koulutyöhön käytettävää aikaa enintään kuudella työpäivällä. Koulupiirissä, jossa oppilailla on pitkiä tai muutoin vaikeita koulumatkoja taikka jossa vesistöjen jäätyminen tai sulaminen estää yhtäjaksoisen koulunkäynnin tai jossa muu erityinen syy sitä vaatii, saadaan lukuvuoden koulutyö päättää 17§:ssä säädettyä myöhemmin kesäkuussa.",
+      "section_number": "18",
+      "chapter_number": 3,
+      "statute_id": ""
+    },
+    {
+      "id": "393618e0-0c91-47dd-9d09-8377bc138e7e",
+      "node_type": "Section",
+      "publisher": "finlex",
+      "title": "19 §",
+      "text": "Koulun työpäiväksi luetaan työjärjestyksessä määrätyn pituinen päivä ja lukukausien päättymispäivät. Jos työpäivä pakottavasta syystä keskeytyy, on pitämättä jääneet tunnit pidettävä muulloin, kuitenkin niin, etteivät oppilaiden työpäivät sen vuoksi tule säädettyä pitemmiksi. Työpäiviksi ei lueta oppilaiden lomatoimintaa.",
+      "section_number": "19",
+      "chapter_number": 3,
+      "statute_id": ""
+    },
+    {
+      "id": "1004fe0e-40d5-4a8a-ad06-64977a18e1cf",
+      "node_type": "Section",
+      "publisher": "finlex",
+      "title": "20 §",
+      "text": "Kesäloman lisäksi peruskoulussa on vähintään kymmenen päivää kestävä joululoma, vähintään neljä päivää kestävä pääsiäisloma sekä kouluhallituksen alueittain määräämänä aikana enintään kuusi arkipäivää kestävä talviloma. Talviloma tai osa siitä voidaan yhdistää pääsiäislomaan. Vapaapäiviä ovat lauantait, jollei lauantai ole lukukauden koulutyön päättymispäivä tai jollei kouluhallitus erityisestä syystä toisin määrää. Lukuvuoteen voi kuulua myös muita vapaapäiviä, ja ne on sijoitettava samoiksi päiviksi koulun kaikilla luokilla. Ehtoja lukuun ottamatta oppilaille ei anneta koulutehtäviä loman aikana suoritettavaksi.",
+      "section_number": "20",
+      "chapter_number": 3,
+      "statute_id": ""
+    },
+    {
+      "id": "c9c97358-e3af-4505-8ad8-838dd4d67ebb",
+      "node_type": "Section",
+      "publisher": "finlex",
+      "title": "21 §",
+      "text": "Peruskoulun ensimmäisellä ja toisella vuosiluokalla annetaan oppiaineiden opetusta ja oppilaanohjausta 19-21, kolmannella ja neljännellä vuosiluokalla 23-25, viidennellä ja kuudennella vuosiluokalla 24-26 ja sitä ylemmillä vuosiluokilla 30 ja erityisluokilla yläasteella 27-30 oppituntia viisipäiväisessä työviikossa. Tämän lisäksi oppilaille voidaan antaa tukiopetusta. Peruskoulun esiasteella annetaan opetusta ja oppilaanohjausta 18-20 oppituntia viisipäiväisessä työviikossa. Jos peruskoulun viidennellä ja kuudennella vuosiluokalla opetetaan vapaaehtoisena aineena englannin kieltä tai toista kotimaista kieltä, voi oppilaan viikkotuntimäärä olla tähän opetukseen käytettyä enintään kahta viikkotuntia suurempi kuin 1 momentissa on säädetty, tukiopetusta lukuun ottamatta. Saamelaisten kotiseutualueella asuville oppilaille vapaaehtoista saamen kieltä ja suomen kieltä opetettaessa saadaan oppilaan viikkotuntimäärää korottaa tähän opetukseen käytetyllä enintään kahdella viikkotunnilla. Peruskoulun ala-asteen ensimmäisen ja toisen vuosiluokan sekä esiasteen oppilaan työpäivään saa kuulua enintään viisi, ala-asteen muun vuosiluokan oppilaan työpäivään enintään kuusi ja yläasteen oppilaan työpäivään enintään seitsemän oppituntia. Työelämään tutustuttamisessa ja muussa koulun ulkopuolella annettavassa opetuksessa voidaan poiketa tämän pykälän säännöksistä sen mukaan kuin työsuunnitelmassa määrätään.",
+      "section_number": "21",
+      "chapter_number": 3,
+      "statute_id": ""
+    },
+    {
+      "id": "5f6a5af4-6455-4274-8166-cccef07a10f7",
+      "node_type": "Section",
+      "publisher": "finlex",
+      "title": "22 §",
+      "text": "Päivän työ aloitetaan lyhyellä päivänavauksella, jossa käsitellään persoonallisuuden kehityksen kannalta merkityksellisiä, oppilaiden elämään, kouluun ja yhteiskuntaan liittyviä aiheita ja johon voi lisäksi kuulua virsi- tai muuta yhteislaulua taikka muuta musiikkia. Päivänavausten tulee myönteisellä tavalla liittyä koulussa annettavaan uskonnolliseen ja eettiseen kasvatukseen. Oppilas, joka on vapautettu peruskoululain 28§:n 1 momentissa tarkoitetusta koulussa annettavasta uskonnon opetuksesta, on vapautettu myös osallistumasta päivänavaukseen.",
+      "section_number": "22",
+      "chapter_number": 3,
+      "statute_id": ""
+    },
+    {
+      "id": "0f905363-aef9-467c-bfa9-53d881aef8bb",
+      "node_type": "Section",
+      "publisher": "finlex",
+      "title": "23 §",
+      "text": "Oppitunti kestää 60 minuuttia, josta vähintään 45 minuuttia käytetään työjärjestyksen mukaiseen opetukseen ja vähintään 10 minuuttia välituntiin. Peruskoululain 5 §:ssä tarkoitetulla esiasteella sekä muutoinkin, milloin se oppilaiden ikä tai kehitystaso, opetettava aine tai opetuksessa käytettävä työtapa huomioon ottaen taikka kun se muusta erityisestä syystä on tarkoituksenmukaista, opetukseen käytettävä aika ja välitunnit voidaan kouluhallituksen ohjeiden mukaan järjestää toisin kuin edellä on säädetty. Työpäivää voidaan kuitenkin lyhentää vain työpäivän loppuun sijoitetun kaksoistunnin vuoksi. Ruokailutauko pidetään opetukseen käytettävää aikaa lyhentämättä, ja se kestää vähintään 30 minuuttia.",
+      "section_number": "23",
+      "chapter_number": 3,
+      "statute_id": ""
+    },
+    {
+      "id": "04ef126b-0a12-4648-b0a0-c9ddae618980",
+      "node_type": "Section",
+      "publisher": "finlex",
+      "title": "24 §",
+      "text": "Opetus peruskoulussa on julkista. Koulun johtaja voi kuitenkin tarpeen vaatiessa rajoittaa pääsyä opetusta seuraamaan.",
+      "section_number": "24",
+      "chapter_number": 4,
+      "statute_id": ""
+    },
+    {
+      "id": "625f33b2-94b4-4f87-aa12-f42a540b4eb6",
+      "node_type": "Section",
+      "publisher": "finlex",
+      "title": "25 §",
+      "text": "Jos peruskoulussa on saamelaisten kotiseutualueella asuvia saamenkielisiä oppilaita, on näille annettava opetusta myös saamen kielellä, jollei lääninhallitus erityisestä syystä myönnä poikkeusta. Vaikeasti kuulovammaisten opetusta on tarpeen mukaan tuettava myös viittomakielellä.",
+      "section_number": "25",
+      "chapter_number": 4,
+      "statute_id": ""
+    },
+    {
+      "id": "5cc1a61a-babb-4d34-80e7-af12274e3cda",
+      "node_type": "Section",
+      "publisher": "finlex",
+      "title": "26 §",
+      "text": "Koululautakunnan tulee vahvistaa oppikirjan ja siihen rinnastettavan oppimateriaalin käyttöönottaminen. Opetuksessa käytettävien oppikirjojen ja niihin rinnastettavien oppimateriaalien tulee olla kouluhallituksen hyväksymiä. Kouluhallituksen tulee antaa kunnille ohjeet, missä järjestyksessä käytössä oleva oppikirja saadaan vaihtaa toiseen sekä mitä opetuksessa käytettäviä kirjoja ei katsota oppikirjoiksi. Kouluhallitus voi hyväksyä oppikirjan ja siihen rinnastettavan oppimateriaalin käytettäväksi vain, jos se on tarpeen vaatima ja sisältää käytössä oleviin verrattuna oleellisen parannuksen.",
+      "section_number": "26",
+      "chapter_number": 4,
+      "statute_id": ""
+    },
+    {
+      "id": "bb1f0f66-f47a-4624-98e4-1c31b38788bf",
+      "node_type": "Section",
+      "publisher": "finlex",
+      "title": "27 §",
+      "text": "Kouluhallitus laatii peruskoulua varten opetussuunnitelman perusteet, jotka sisältävät koulutyön yleistä järjestelyä, oppiaineita, niiden viikko- ja kokonaistuntimäärää sekä niiden oppimäärää, opetukseen käytettävää tuntimäärää kokonaisuudessaan ja tarvittaessa oppiaineittain, arvostelua, tukiopetuksen antamista, oppilaanohjausta ja koulun ulkopuolella annettavaa opetusta koskevat ohjeet.",
+      "section_number": "27",
+      "chapter_number": 4,
+      "statute_id": ""
+    },
+    {
+      "id": "b556706d-4792-4df6-81d4-4b2ee5f9d81a",
+      "node_type": "Section",
+      "publisher": "finlex",
+      "title": "28 §",
+      "text": "Kunta laatii peruskoulun opetussuunnitelman. Opetussuunnitelman oppimäärät perustuvat oppiaineittain kouluhallituksen päättämään valtakunnalliseen oppimäärään. Valtakunnalliseen oppimäärään kuuluu yleinen osa, joka sisältyy kaikkien kuntien opetussuunnitelmaan. Valtakunnalliseen oppimäärään voi kuulua myös osia, jotka kunnan opetussuunnitelmassa voidaan osaksi tai kokonaan korvata kunnan laatimilla oppimäärän osilla.",
+      "section_number": "28",
+      "chapter_number": 4,
+      "statute_id": ""
+    },
+    {
+      "id": "97ae32bd-3a04-4078-b467-dc97d9cdf3ee",
+      "node_type": "Section",
+      "publisher": "finlex",
+      "title": "29 §",
+      "text": "Ehdotuksen opetussuunnitelmaksi sen työsuunnitelmaa lukuun ottamatta valmistelee koululautakunnan asettama toimikunta. Toimikuntaan tulee myös kuulua jäsenenä ainakin yksi opettaja tai johtaja kultakin sellaiselta kouluasteelta ja erityisopetuksen alalta, jota opetussuunnitelma koskee. Opetussuunnitelman hyväksyy koululautakunta sen jälkeen, kun koulujen johtajat lautakunnan koolle kutsumassa kokouksessa ovat antaneet siitä lausuntonsa. Opetussuunnitelma on alistettava lääninhallituksen vahvistettavaksi. Jos lääninhallitus katsoo, ettei se voi sitä vahvistaa, sen tulee tarpeelliset ohjeet antaen palauttaa opetussuunnitelma uudelleen käsiteltäväksi. Jollei lääninhallitus vahvista uuttakaan opetussuunnitelmaa, sen tulee alistaa asia kouluhallituksen ratkaistavaksi. Mitä edellä on säädetty opetussuunnitelman valmistelusta, hyväksymisestä ja vahvistamisesta, noudatetaan myös, kun opetussuunnitelmaa muutetaan. Jos kouluhallitus 1 momentissa tarkoitetussa tapauksessa katsoo, että opetussuunnitelmaa on muutettava, koululautakunta on velvollinen neljän kuukauden kuluessa kouluhallituksen päätöksestä tiedon saatuaan alistamaan uuden opetussuunnitelman lääninhallituksen vahvistettavaksi.",
+      "section_number": "29",
+      "chapter_number": 4,
+      "statute_id": ""
+    },
+    {
+      "id": "cb1efaa3-bb62-4f9b-84db-54159bbef43a",
+      "node_type": "Section",
+      "publisher": "finlex",
+      "title": "30 §",
+      "text": "Opetussuunnitelmaan kuuluu koulukohtaisena erityisenä osana jokaista lukuvuotta varten laadittu työsuunnitelma, jossa määrätään koulun 45 ja 46§:ssä tarkoitettujen tuntien käyttämisestä eri oppiaineiden opettamiseen ja muuhun koulun tehtävän mukaiseen toimintaan, opettajien ja tuntiopettajien työmäärä, koulun johtajan opetustunnit, koulun ulkopuolella annettava opetus sekä oppilas- ja nuorisokerhotyö.",
+      "section_number": "30",
+      "chapter_number": 4,
+      "statute_id": ""
+    },
+    {
+      "id": "9e663303-1e26-4321-88b6-b27a6a489f18",
+      "node_type": "Section",
+      "publisher": "finlex",
+      "title": "31 §",
+      "text": "Ehdotuksen työsuunnitelmaksi laatii koulun johtaja yhteistoimin opettajien kanssa. Työsuunnitelman hyväksyy johtokunta ja vahvistaa koululautakunta. Koululautakunta voi johtokuntaa kuultuaan tehdä tarpeelliseksi katsomansa muutokset työsuunnitelmaan.",
+      "section_number": "31",
+      "chapter_number": 4,
+      "statute_id": ""
+    },
+    {
+      "id": "7bbbde6f-ebc1-41da-9f41-232ee164145c",
+      "node_type": "Section",
+      "publisher": "finlex",
+      "title": "32 §",
+      "text": "Vahvistettu työsuunnitelma on toimitettava viipymättä lääninhallitukselle tiedoksi.",
+      "section_number": "32",
+      "chapter_number": 4,
+      "statute_id": ""
+    },
+    {
+      "id": "0b709b6e-981a-4b2b-bd18-38f67213520a",
+      "node_type": "Section",
+      "publisher": "finlex",
+      "title": "33 §",
+      "text": "Peruskoulun ala-asteen opetussuunnitelmaan tulee kuulua äidinkieltä, ympäristöoppia, kansalaistaitoa, uskontoa, historiaa, matematiikkaa, biologiaa, maantietoa, musiikkia, kuvaamataitoa, käsityötä ja liikuntaa. Tämän lisäksi opetetaan yhteisenä aineena, sen mukaan kuin kunnan kieliohjelmassa määrätään, joko englannin kieltä tai toista kotimaista kieltä taikka osalle oppilaista toista kotimaista kieltä ja osalle englannin kieltä. Opetussuunnitelmaan tulee kuulua myös oppilaanohjausta kouluhallituksen ohjeiden mukaisesti. Kunnassa, jossa on vähintään 30 000 samankielistä asukasta, tulee yhteisenä aineena opetettavana kielenä tarjota toista kotimaista kieltä ja peruskoululain 27§:n 3 momentissa mainittuja kieliä. Kunnassa, jossa on vähemmän kuin 30 000 samankielistä asukasta, voidaan yhteisenä aineena opetettavana kielenä tarjota, sen mukaan kuin kunnan kieliohjelmassa määrätään, toisen kotimaisen kielen ja englannin lisäksi yhtä tai useampaa peruskoululain 27§:n 3 momentissa tarkoitettua kieltä. Milloin 1-3 momentin mukaisesti peruskoulun ala-asteella tarjotaan opetettavaksi yhteisenä aineena kahta tai useampaa kieltä, on koululautakunnan ilmoitettava tästä jokaiselle seuraavana lukuvuonna mainitun kielen opiskelun aloittavan oppilaan huoltajalle. Ilmoitus on tehtävä lukuvuotta edeltävän tammikuun loppuun mennessä ja huoltajaa on kehotettava ilmoittamaan kuukauden kuluessa koululautakunnalle, mitä kieltä hän haluaa ensisijaisesti ja mitä toissijaisesti oppilaalle opetettavan. Jos oppilaan huoltaja on 4 momentin perusteella valinnut muun kielen kuin englannin kielen eikä koulun työn taloudellisen tai tarkoituksenmukaisen järjestämisen vuoksi huoltajan valitseman kummankaan kielen opetusta voida järjestää, johtokunta muuttaa huoltajaa kuultuaan valinnan englannin kieleksi tai toiseksi kotimaiseksi kieleksi. Edellä 2 momentissa tarkoitetussa kunnassa valintaa ei kuitenkaan saa muuttaa, jos kielen ensisijaisesti valinneita on vähintään kaksitoista.",
+      "section_number": "33",
+      "chapter_number": 4,
+      "statute_id": ""
+    },
+    {
+      "id": "ca1037f3-ca00-455a-8ec7-6e29213e5076",
+      "node_type": "Section",
+      "publisher": "finlex",
+      "title": "34 §",
+      "text": "Ruotsinkielisen peruskoulun ala-asteella voidaan viidenneltä vuosiluokalta alkaen opettaa yhteisenä aineena opetettavan suomen kielen lisäksi vapaaehtoisena aineena vierasta kieltä taikka yhteisenä aineena opetettavan englannin kielen lisäksi vapaaehtoisena aineena suomen kieltä. Mitä 1 momentissa on säädetty, on vastaavasti voimassa saamelaisten kotiseutualueella asuville oppilaille äidinkielenä opetettavan suomen ja saamen kielen lisäksi opetettavasta vapaaehtoisesta saamen ja suomen kielestä. Tässä tarkoitettua vapaaehtoista ainetta voidaan opettaa peruskoulun ala-asteen kaikilla vuosiluokilla. Milloin suomenkielisen peruskoulun ala-asteella opetetaan vapaaehtoista ainetta, ovat 1 momentin säännökset vastaavasti voimassa ruotsin kielen ja vieraan kielen osalta.",
+      "section_number": "34",
+      "chapter_number": 4,
+      "statute_id": ""
+    },
+    {
+      "id": "4b5231e7-33f3-4926-9e55-795590cd53ef",
+      "node_type": "Section",
+      "publisher": "finlex",
+      "title": "35 §",
+      "text": "Peruskoulun yläasteen opetussuunnitelmaan tulee kuulua kaikille oppilaille yhteisenä aineena äidinkieltä, toista kotimaista kieltä, vierasta kieltä, uskontoa, historiaa, yhteiskuntaoppia, matematiikkaa, fysiikkaa, kemiaa, biologiaa, maantietoa, musiikkia, kuvaamataitoa, kotitaloutta, teknistä työtä, tekstiilityötä ja liikuntaa. Musiikki ja kuvaamataito voivat olla kahdeksannella ja yhdeksännellä vuosiluokalla keskenään vaihtoehtoisia aineita. Vieras kieli on englannin kieli tai sen sijasta ala-asteella opetettu muu vieras kieli. Yläasteen opetussuunnitelmaan tulee kuulua myös oppilaanohjaukseen varattuja tunteja kouluhallituksen ohjeiden mukaisesti. Yhteisten aineiden opetukseen sekä oppilaanohjaukseen käytetään kahdeksannella ja yhdeksännellä vuosiluokalla 24 oppituntia viikossa, jollei kouluhallitus erityisestä syystä myönnä poikkeusta. Yhteisten aineiden lisäksi kahdeksannella ja yhdeksännellä vuosiluokalla tarjotaan valinnaisia aineita. Valinnaisaineina opetussuunnitelmaan tulee kuulua vierasta kieltä, teknistä työtä, tekstiilityötä, kotitaloutta, maa- ja metsätaloutta sekä puutarhanhoitoa, kaupallisia aineita, tietotekniikkaa, musiikkia, kuvaamataitoa ja konekirjoitusta. Lisäksi koulussa, jossa on saamelaisten kotiseutualueella asuvia oppilaita, tulee valinnaisaineena olla saamen kieli. Peruskoulun yläasteella valinnaisena aineena tarjottavia vieraita kieliä ovat ranska, saksa ja venäjä. Milloin koulun kahdeksannen vuosiluokan perusopetusryhmien määrä on enintään neljä, valinnaisaineena on kaksi mainituista kielistä sekä milloin se on vähintään viisi, kaikki mainitut kielet. Milloin yläasteen opetussuunnitelmaan kuuluu yhteisenä aineena muu vieras kieli kuin englannin kieli, opetussuunnitelmaan tulee lisäksi kuulua valinnaisaineena englannin kieli. Jos koulun sijainti, toimintaolosuhteet ja oppilasmäärä sekä jatko-opintomahdollisuudet sen sallivat, peruskoulun yläasteen opetussuunnitelmaan voi kouluhallituksen luvalla valinnaisaineena kuulua latinan kieli. Latinan kieltä opetetaan tällöin kaikilla vuosiluokilla.",
+      "section_number": "35",
+      "chapter_number": 4,
+      "statute_id": ""
+    },
+    {
+      "id": "efc33dd6-deaa-45c8-bb60-901788e22981",
+      "node_type": "Section",
+      "publisher": "finlex",
+      "title": "36§",
+      "text": "Sen estämättä mitä 33-35 §:ssä on säädetty, erityisopetuksessa kielenopetus voidaan järjestää siten, että yhteisenä aineena opetetaan vain joko toista kotimaista kieltä tai englannin kieltä. Tällöin yläasteen yhteisten aineiden opetukseen ja oppilaiden ohjaukseen käytetään seitsemännellä vuosiluokalla 27 ja kahdeksannella ja yhdeksännellä vuosiluokalla 23 oppituntia viikossa, jollei kouluhallitus erityisestä syystä myönnä poikkeusta. Erityisopetuksessa voidaan tällöin ottaa valinnaisaineeksi peruskoulun seitsemännellä vuosiluokalla toinen mainituista kielistä, tekninen työ, tekstiilityö, kotitalous, maa- ja metsätalous sekä puutarhanhoito, kaupalliset aineet, tietotekniikka, musiikki, kuvaamataito ja konekirjoitus. Opetusryhmässä, joka on muodostettu vammautuneista tai kehityksessään viivästyneistä oppilaista ja jossa annetaan erityisopetusta peruskoululain 32 §:n mukaiseen yksitoista vuotta kestävään oppivelvollisuuteen perustuvana, voidaan opetus järjestää 1 momentista poiketen siten, että yhteisenä aineena ei opeteta toista kotimaista kieltä eikä vierasta kieltä. Näiden asemesta opetetaan muita yhteisenä aineena opetettavia aineita. Oppiaineita voidaan yhdistää oppiainekokonaisuuksiksi sen mukaan kuin opetussuunnitelmassa määrätään. Opetuksen järjestämisestä antaa ohjeet kouluhallitus. Erityisopetuksessa voidaan opettaa viittomakieltä vaikeasti kuulovammaisille ja muille sitä tarvitseville oppilaille. Tällöin voidaan yläasteella poiketa viittomakielen opetukseen käytetyllä tuntimäärällä, kuitenkin enintään yhdellä tunnilla viikossa, yhteisten aineiden opetukseen käytettävästä tuntimäärästä. Erityisopetuksen esiasteen opetuksen sisällöstä määrätään opetussuunnitelmassa.",
+      "section_number": "36",
+      "chapter_number": 4,
+      "statute_id": ""
+    },
+    {
+      "id": "754258d4-53e9-4c94-86fc-614e62512d11",
+      "node_type": "Section",
+      "publisher": "finlex",
+      "title": "37 §",
+      "text": "Valinnaisaineiden valintaa varten peruskoulun yläasteen johtajan on toimitettava helmikuun loppuun mennessä jokaisen seitsemännen ja erityisopetuksessa tarvittaessa kuudennen vuosiluokan oppilaan huoltajalle selvitys koulun yläasteella valittavana olevista valinnaisaineista. Huoltajan on ilmoitettava valinnastaan maaliskuun loppuun mennessä. Jos huoltaja ei määräajassa suorita valintaa tai jos huoltajan valitsemaa opetusta ei voida järjestää, päättää opetettavasta aineesta johtokunta varattuaan huoltajalle tilaisuuden esittää mielipiteensä. Milloin peruskoulun oppilas on muuttanut toiselle paikkakunnalle, on valinnaisaineen valinta tehtävä oppilasta toiseen kouluun ilmoitettaessa, jollei koulun johtaja anna sen tekemistä varten lyhyttä harkinta-aikaa. Johtokunnan oikeudesta päättää opetettavasta aineesta on vastaavasti voimassa, mitä 1 momentissa on säädetty. Yläasteen oppilaalle, joka on jo aloittanut tietyn valinnaisaineen opiskelun, on mahdollisuuksien mukaan annettava tilaisuus saman aineen opiskeluun.",
+      "section_number": "37",
+      "chapter_number": 4,
+      "statute_id": ""
+    },
+    {
+      "id": "9dfa8156-0428-4f1d-9a65-39f69e26ad21",
+      "node_type": "Section",
+      "publisher": "finlex",
+      "title": "38 §",
+      "text": "Huoltajan pyynnöstä johtokunta voi vapauttaa peruskoulun yläasteen oppilaan joko yhteisenä aineena opetettavan vieraan kielen tai toisen kotimaisen kielen opiskelusta, jos oppilaalla ilmeisesti ei ole edellytyksiä kysymyksessä olevan kielen opiskeluun. Koulun johtajan esityksestä johtokunta voi vapauttaa peruskoulun oppilaan kielen opiskelusta, jos siihen on erityisen painava syy. Oppilaan huoltajalle on varattava tilaisuus lausua mielipiteensä asiasta. Oppilaalle on järjestettävä vastaavasti muun aineen opetusta. Jos kouluun siirtyvälle oppilaalle ei voida ilman kohtuutonta haittaa järjestää hänen toisessa koulussa aloittamansa kielen opetusta, voi johtokunta koulun johtajan esityksestä vaihtaa kielen muuksi kieleksi. Oppilaan huoltajalle on varattava tilaisuus lausua mielipiteensä asiasta. Lääkärintodistuksen nojalla koulun johtaja voi vapauttaa oppilaan jonkin aineen opiskelusta, jos osallistuminen opiskeluun tuottaa oppilaalle sairauden tai vamman vuoksi kohtuuttomia vaikeuksia. Satunnaisen vapautuksen opetuksesta voi pätevästä syystä myöntää aineen opettaja.",
+      "section_number": "38",
+      "chapter_number": 4,
+      "statute_id": ""
+    },
+    {
+      "id": "59e974f6-672d-4586-b27c-9f6f7d544c6c",
+      "node_type": "Section",
+      "publisher": "finlex",
+      "title": "39 §",
+      "text": "Kun oppilaan huoltaja, joka haluaa oppilaan vapautettavaksi uskonnonvapauslain (267/22) 8§:n nojalla koulun yleisestä uskonnon opetuksesta, on tehnyt siitä uskonnonvapauslain täytäntöönpanosta annetun asetuksen (334/22) 6§:n mukaisen ilmoituksen koulun johtajalle, tämän tulee vapauttaa oppilas sanotusta opetuksesta ja ilmoittaa asiasta koululautakunnalle. Jos koulussa annetaan peruskoululain 28 §:n 2-4 momentissa tarkoitettua opetusta, tulee sitä antaa yhtä monta viikkotuntia kuin uskonnon opetusta. Huoltajien, jotka haluavat järjestettäväksi peruskoululain 28 §:n 3 momentin mukaisesti uskonnon opetusta, tulee esittää vaatimuksensa kirjallisesti koululautakunnalle. Huoltajien tulee koululautakunnan pyynnöstä esittää selvitys tunnustuksen sisällöstä.",
+      "section_number": "39",
+      "chapter_number": 4,
+      "statute_id": ""
+    },
+    {
+      "id": "4b8420e1-41a9-4d0f-9f87-27160f8e5414",
+      "node_type": "Section",
+      "publisher": "finlex",
+      "title": "40 §",
+      "text": "Erityisopetusta annetaan oppilaalle, joka on siten vammautunut tai kehityksessään viivästynyt, ettei hän menesty peruskoulun muussa opetuksessa, tai joka tunne-elämän häiriön tai muun syyn vuoksi ei sopeudu peruskoulun muuhun opetukseen. Erityisluokalla opetusta voidaan antaa joko kymmenen vuotta tai, milloin erityisopetuksen antamisen perusteena on se, että oppilas on peruskoululain 32 §:n 3 momentissa tarkoitetulla tavalla vammautunut tai kehityksessään viivästynyt, yksitoista vuotta kestävään oppivelvollisuuteen perustuvana. Erityisopetuksessa on opetus ja tarvittaessa oppimäärät mukautettava oppilaiden oppimisedellytysten mukaisiksi. Kasvatuksessa on kiinnitettävä huomiota oppilaiden aloitekyvyn ja itseluottamuksen herättämiseen ja tukemiseen. Johtosäännössä määrätään tarkemmin erityisopetuksen järjestämisestä ja erityisluokista. Milloin erityisopetusta ei anneta erityisluokalla, on johtosäännössä määrättävä, miten erityisopetusta tarvitsevien oppilaiden opetus järjestetään.",
+      "section_number": "40",
+      "chapter_number": 4,
+      "statute_id": ""
+    },
+    {
+      "id": "6e46078f-8ef3-4d9f-8133-d9ab14377f14",
+      "node_type": "Section",
+      "publisher": "finlex",
+      "title": "41 §",
+      "text": "Peruskoulun oppilaille, joilla on lieviä oppimis- tai sopeutumisvaikeuksia, voidaan järjestää ensisijaisesti erityisopettajan antamaa erityisopetusta. Opetuksen järjestämisestä antaa ohjeet kouluhallitus ja siitä päättää koululautakunta. Opetusta voidaan antaa yhdellekin oppilaalle. Ennen opetuksen antamista on huoltajalle varattava tilaisuus lausua mielipiteensä asiasta.",
+      "section_number": "41",
+      "chapter_number": 4,
+      "statute_id": ""
+    },
+    {
+      "id": "e97325ea-462a-4614-ad05-976e9ca0b691",
+      "node_type": "Section",
+      "publisher": "finlex",
+      "title": "42 §",
+      "text": "Opinnoissaan tilapäisesti jälkeen jääneille taikka vaikean vamman, sopeutumattomuuden tai muun syyn vuoksi sitä tarvitseville peruskoulun oppilaille voidaan antaa tukiopetusta. Tukiopetuksen järjestämisestä antaa ohjeet kouluhallitus. Opetusta voidaan antaa yhdellekin oppilaalle.",
+      "section_number": "42",
+      "chapter_number": 4,
+      "statute_id": ""
+    },
+    {
+      "id": "2a30f199-ff3b-41e3-b3b0-8e414a054f0b",
+      "node_type": "Section",
+      "publisher": "finlex",
+      "title": "43 §",
+      "text": "Peruskoulun ala-asteen perusopetusryhmässä voi, milloin siihen kuuluu ensimmäisen tai toisen vuosiluokan oppilaita, olla enintään 25 oppilasta ja muissa tapauksissa enintään 32 oppilasta. Perusopetusryhmiä on kuitenkin piirissä enintään yhtä monta kuin rehtorin ja luokanopettajan virkoja. Peruskoulun yläasteella on perusopetusryhmä vuosiluokan alkavaa 32 oppilasta kohti. Erityisluokalla annettavassa opetuksessa perusopetusryhmässä voi olla enintään 10 oppilasta. Perusopetusryhmässä voi olla ja opetusryhmässä voidaan opettaa yhdessä kaikkien vuosiluokkien oppilaita. Opetusministeriö voi määrätä, että jollakin erityisopetuksen alalla tai opetettaessa yhdessä useamman vuosiluokan oppilaita, perusopetusryhmän tulee olla pienempi kuin 10. Milloin opetuksen kannalta on tarkoituksenmukaista, saadaan erityisluokan oppilaita yhdistää muuhun peruskoulun opetusryhmään, mikäli opetusryhmän oppilasmäärä ei tule suuremmaksi kuin 20. Lääninhallituksen luvalla saa perusopetusryhmä olla edellä tässä pykälässä säädettyä suurempikin.",
+      "section_number": "43",
+      "chapter_number": 4,
+      "statute_id": ""
+    },
+    {
+      "id": "0a007d2d-68c4-4f99-bb8b-251e7e9e278d",
+      "node_type": "Section",
+      "publisher": "finlex",
+      "title": "44 §",
+      "text": "Tyttöjä ja poikia opetetaan, milloin siihen on aihetta, kolmannelta vuosiluokalta lähtien erikseen liikunnassa. Peruskoulun yläasteella on tyttöjä ja poikia yleensä opetettava erikseen liikunnassa.",
+      "section_number": "44",
+      "chapter_number": 4,
+      "statute_id": ""
+    },
+    {
+      "id": "9a4d0784-2e7f-4b68-90b2-a6566f4371ff",
+      "node_type": "Section",
+      "publisher": "finlex",
+      "title": "45 §",
+      "text": "Peruskoulun ala-asteella peruskoululain 31§:n 1 momentissa tarkoitetusta tuntimäärästä saadaan käyttää opetussuunnitelmassa vahvistettujen oppiaineiden opettamiseen ja luokkamuotoiseen oppilaanohjaukseen kutakin peruskoulun piiriin sijoitettua rehtorin ja luokanopettajan virkaa kohti 23 tuntia viikossa. Milloin piirin peruskoulun ala-asteella on vähintään seitsemän edellä tarkoitettua virkaa, saadaan kutakin virkaa kohti käytettävää tuntimäärää korottaa kahdella tunnilla viikossa. Kutakin rehtorin ja luokanopettajan virkaa kohti on tukiopetukseen varattava kaksi tuntia viikossa. Koululautakunta päättää kutakin edellä mainittua virkaa kohti viikossa käytettävän, enintään 3,5 tunnin sijoittamisesta ala-asteen kouluihin ja erityisopetukseen. Koululautakunnan on päätöstä tehdessään otettava erityisesti huomioon kielten opetuksen järjestäminen ja opetussuunnitelman mahdolliset painotukset eri kouluissa. Peruskoulun yläasteella peruskoululain 31 §:n 2 momentissa tarkoitettu tuntimäärä, vähennettynä kahdella tunnilla viikossa kutakin perusopetusryhmää kohti, käytetään opetussuunnitelmassa vahvistettujen oppiaineiden opettamiseen, luokkamuotoiseen oppilaanohjaukseen ja tukiopetukseen. Vähintään 0,5 tuntia viikossa perusopetusryhmää kohti on varattava käytettäväksi tukiopetukseen. Koululautakunta päättää, miten käytetään kaksi tuntia viikossa perusopetusryhmää kohti kunnan peruskoulujen yläasteilla ja erityisopetuksessa. Koululautakunnan on päätöstä tehdessään otettava erityisesti huomioon kielten opetuksen järjestäminen ja opetussuunnitelman mahdolliset painotukset eri kouluissa. Milloin peruskoulun ala-asteella yhteisenä aineena opetettavan kielen opetus on järjestetty peruskoululain 31§:n 4 momentin mukaisesti, kunnan peruskoulujen oppiaineiden opettamiseen käytettävää tuntimäärää saadaan korottaa enintään kahdella tunnilla viikossa kutakin edellä mainittua kieltä kohti kullakin vuosiluokalla, jolla asianomaisen kielen opetusta annetaan, yhtä kieltä lukuunottamatta. Kaksikielisessä kunnassa edellä mainittu tuntimäärä lasketaan erikseen kumpaakin kieliryhmää varten. Tuntimäärän sijoittamisesta kouluille päättää koululautakunta. Peruskoulussa, jossa annetaan peruskoululain 4§:n 2 momentissa tarkoitettua lisäopetusta, saadaan opetussuunnitelmassa vahvistettujen oppiaineiden opetukseen, luokkamuotoiseen oppilaanohjaukseen ja tukiopetukseen koulussa käytettävissä olevaa tuntimäärää korottaa enintään 40 tunnilla viikossa kutakin mainitun opetuksen perusopetusryhmää kohti. Sellaista lisäopetuksen perusopetusryhmää kohti, jossa on vähintään 25 oppilasta, saadaan koulussa käytettävissä olevaa tuntimäärää korottaa kuitenkin 42 tuntia viikossa. Peruskoulussa, jossa annetaan peruskoululain 4§:n 3 momentissa tarkoitettua esiopetusta erillisessä perusopetusryhmässä, saadaan opetussuunnitelmassa vahvistettuun perusopetusryhmän toimintaan käyttää enintään 23 tuntia viikossa luokanopettajan virkaa kohti. Valtioneuvosto päättää kouluhallitusta kuultuaan tarvittaessa peruskoululain 30§:n 1 momentissa tarkoitetusta eri oppiaineiden opettamiseen käytettävästä tuntimäärästä.",
+      "section_number": "45",
+      "chapter_number": 4,
+      "statute_id": ""
+    },
+    {
+      "id": "96894dac-d07d-41b5-87df-27824bb14ee5",
+      "node_type": "Section",
+      "publisher": "finlex",
+      "title": "46 §",
+      "text": "Opetussuunnitelmassa vahvistettujen oppiaineiden opettamiseen, luokkamuotoiseen oppilaanohjaukseen ja tukiopetukseen erityisluokilla sekä 41§:n mukaiseen erityisopetukseen saadaan käyttää 10 tuntia viikossa kuntaa kohti sekä 0,1 tuntia viikossa kutakin kunnan alueella asuvaa peruskoulun oppilasta kohti. Kaksikielisessä kunnassa edellä mainitut tuntimäärät lasketaan erikseen kumpaakin kieliryhmää varten. Kouluhallitus voi kunnan hakemuksesta opetusministeriön antamien ohjeiden mukaan määräajaksi korottaa 1 momentissa tarkoitettua oppilasta kohti laskettavaa tuntimäärää. Milloin kunnat järjestävät erityisopetusta yhteistoiminnassa, osa edellä tässä pykälässä tarkoitetuista tunneista tulee siirtää käytettäväksi toisessa kunnassa sen mukaan kuin kunnat keskenään sopivat, tai jos kunnat on peruskoululain 6§:n 2 momentin mukaisesti velvoitettu yhteistoimintaan, johtosäännössä yhtäpitävästi määräävät. Erityisopetukseen 1-3 momentin mukaan käytettävien tuntien sijoittamisesta eri kouluihin päättää koululautakunta. Tunneista vähintään puolet on käytettävä 41§:n mukaiseen erityisopetukseen, jollei lääninhallitus myönnä poikkeusta. Erityisopetukseen käytettäviä tunteja ei saa käyttää peruskoulun muuhun opetukseen.",
+      "section_number": "46",
+      "chapter_number": 4,
+      "statute_id": ""
+    },
+    {
+      "id": "d187f99e-fd65-415b-94ee-96742cad2a3e",
+      "node_type": "Section",
+      "publisher": "finlex",
+      "title": "47 §",
+      "text": "Kunkin lukukauden koulutyön päättyessä on oppilaan lukukauden aikana osoittama käyttäytyminen ja huolellisuus sekä tiedot ja taidot eri aineissa arvosteltava. Arvosanat merkitään koulun oppilasluetteloon ja todistuksiin, joiden kaavat vahvistaa kouluhallitus, numeroilla 4-10, jolloin arvosana 4 osoittaa heikkoja, arvosanat 5 ja 6 osoittavat välttäviä, 7 ja 8 tyydyttäviä sekä 9 ja 10 kiitettäviä tietoja ja taitoja. Arvosanaa ei anneta aineessa, jonka opiskelusta oppilas on kokonaan vapautettu. Arvosanaa käyttäytymisessä ja huolellisuudessa ei merkitä päästö- eikä erotodistukseen. Ensimmäisen ja toisen vuosiluokan syys- ja kevätlukukauden lopussa sekä kolmannen vuosiluokan syyslukukauden lopussa sekä kouluhallituksen ohjeiden mukaan ala-asteella muulloinkin voidaan arvostelu jättää suorittamatta, jolloin annetaan arvio oppilaan koulutyöskentelystä ja sen kehittymisestä. Oppilaan arvostelusta päättää koulun asianomaisen aineen opettaja. Käyttäytymisen ja huolellisuuden arvostelee asianomainen luokanopettaja tai, jos oppilaalla on useampia opettajia, nämä yhdessä. Oppilaalle, joka on suorittanut peruskoulun koko oppimäärän, annetaan päästötodistus. Oppilaalle, joka eroaa koulusta ennen peruskoulun koko oppimäärän suorittamista, annetaan erotodistus. Päästö- ja erotodistuksen allekirjoittaa koulun johtaja. Koulun johtajan oikeaksi todistama jäljennös on säilytettävä koulun arkistossa. Lukukausitodistuksen allekirjoittaa luokanvalvoja tai luokanopettaja. Peruskoulun esiasteen oppilasarvostelusta antaa kouluhallitus ohjeet. Kouluhallitus antaa niinikään ohjeet vammautuneiden tai kehityksessään viivästyneiden peruskoululain 32§:n mukaisessa yksitoistavuotiseen oppivelvollisuuteen perustuvassa opetuksessa olevien oppilaiden oppilasarvostelusta.",
+      "section_number": "47",
+      "chapter_number": 4,
+      "statute_id": ""
+    },
+    {
+      "id": "9c7a75e7-492b-47b2-a2fb-a8845b686855",
+      "node_type": "Section",
+      "publisher": "finlex",
+      "title": "48 §",
+      "text": "Oppilas, joka kaikissa arvostelluissa aineissa on saanut ainakin välttävän arvosanan, siirretään lukuvuoden koulutyön päättyessä seuraavalle vuosiluokalle. Oppilas, joka yhdessä aineessa on saanut heikon arvosanan saa ehdot ja voi päästä seuraavalle vuosiluokalle suoritettuaan tässä aineessa hyväksytyn tutkinnon. Kouluhallitus määrää, milloin heikko arvosana jossakin aineessa ei aiheuta vuosiluokalle jäämistä eikä estä päästötodistuksen antamista. Samoin kouluhallitus määrää, mitkä aineet arvostellaan yhteisellä arvosanalla, missä aineissa annetaan useita arvosanoja ja mitkä aineet vuosiluokalta siirtämisessä on katsottava yhdeksi, sekä antaa muut tarvittavat ohjeet oppilaiden arvostelusta ja arvosanoista. Huoltajan ennen lukuvuoden koulutyön päättymistä esittämästä pyynnöstä oppilas jätetään vuosiluokalle, jos sitä on oppilaan yleisen koulumenestyksen vuoksi pidettävä tarkoituksenmukaisena. Yhdeksännellä vuosiluokalla oppilaalle annetaan tällöin lukukausitodistus. Tilaisuus ehtojen suorittamiseen on järjestettävä peruskoulun oppilaille kesäkuun viimeisenä arkipäivänä, ei kuitenkaan lauantaina. Painavasta syystä koulun johtaja voi yksittäistapauksissa huoltajan pyynnöstä antaa tilaisuuden ehtojen suorittamiseen muunakin ajankohtana. Ehtojen suorittamisen hyväksymisestä päättää koulun johtaja yhteistoimin asianomaisen opettajan kanssa. Peruskoulun oppilaan vuosiluokalta siirtämisestä ja päästötodistuksen antamisesta päättävät koulun johtaja ja oppilaan opettajat yhdessä.",
+      "section_number": "48",
+      "chapter_number": 4,
+      "statute_id": ""
+    },
+    {
+      "id": "2498acbc-e401-4394-b325-3113213ae073",
+      "node_type": "Section",
+      "publisher": "finlex",
+      "title": "49 §",
+      "text": "Lääninhallitus voi, jos oppilaan arvostelua tai vuosiluokalta siirtämistä koskeva päätös on ilmeisesti virheellinen, velvoittaa opettajan tai opettajat toimittamaan uuden arvostelun tai määrätä, mikä arvosana oppilaalle on annettava, taikka määrätä oppilaan vuosiluokalta siirtämisestä.",
+      "section_number": "49",
+      "chapter_number": 4,
+      "statute_id": ""
+    },
+    {
+      "id": "386d4a59-0e53-4630-84d0-7e080815fccb",
+      "node_type": "Section",
+      "publisher": "finlex",
+      "title": "50 §",
+      "text": "Huoltajan, joka haluaa peruskoululain 36§:n mukaisen poikkeuksen lapsensa koulunkäynnin alkamisesta, tulee toimittaa sitä koskeva hakemus hyvissä ajoin ennen lukuvuoden koulutyön alkamista koululautakunnalle. Jos hakemus koskee koulunkäynnin aloittamista säädettyä aikaisemmin, tulee huoltajan esittää selvitys, milloin se ilman kohtuutonta vaikeutta on mahdollista, oppilaalle suoritetusta psykologisesta ja tarvittaessa myös lääketieteellisestä tutkimuksesta.",
+      "section_number": "50",
+      "chapter_number": 5,
+      "statute_id": ""
+    },
+    {
+      "id": "e1d6fd0f-2780-4fe0-b796-784bf6da5c30",
+      "node_type": "Section",
+      "publisher": "finlex",
+      "title": "51 §",
+      "text": "Peruskoululain 32 §:ssä tarkoitettu yksitoistavuotinen oppivelvollisuus suoritetaan peruskoulun erityisopetuksessa siten kuin 40 §:ssä on säädetty. Liikuntavammaisille ja aivovaurioisille lapsille voidaan peruskouluopetusta antaa siten kuin erikseen on säädetty. Valtion ylläpitämistä kuulovammaisten ja näkövammaisten kouluista säädetään erikseen. Koululautakunnan tulee ilmoittaa kouluhallitukselle sen antamien ohjeiden mukaisesti lapset, joiden koulunkäynnin järjestäminen vaatii valtion kouluviranomaisten toimenpiteitä.",
+      "section_number": "51",
+      "chapter_number": 5,
+      "statute_id": ""
+    },
+    {
+      "id": "27644bd7-a19c-4580-a419-7300ebaa4b00",
+      "node_type": "Section",
+      "publisher": "finlex",
+      "title": "52 §",
+      "text": "Jos oppivelvollisuusikäisen kehitys tai henkinen toiminta näyttää siinä määrin estyneeltä tai häiriintyneeltä, ettei hän voi saavuttaa peruskoulun edellyttämää tieto- ja taitomäärää, on koululautakunnan ilmoitettava siitä erityishuoltopiirin kuntainliitolle ja sosiaalilautakunnalle. Jos kehitysvammaisten erityishuollosta annetun lain (519/77) mukaista tarpeellista opetusta saaneesta oppivelvollisuusikäisestä on tehty mainitun lain 30 §:n mukainen ilmoitus hänen asuinkunnalleen, on asuinkunnan ilmoitettava oppivelvollisuusikäisen kotikunnalle, kun oppivelvollisuusikäinen on otettu peruskoulun oppilaaksi.",
+      "section_number": "52",
+      "chapter_number": 5,
+      "statute_id": ""
+    },
+    {
+      "id": "84ca375f-2d9f-4a3e-b5a5-7b04ff8a116c",
+      "node_type": "Section",
+      "publisher": "finlex",
+      "title": "53 §",
+      "text": "Peruskoulun toiselle tai sitä ylemmälle vuosiluokalle pyrkivällä oppilaalla tulee olla todistus edellisen vuosiluokan oppimäärän suorittamisesta. Sen puuttuessa järjestää johtaja tarvittaessa kuulustelun.",
+      "section_number": "53",
+      "chapter_number": 5,
+      "statute_id": ""
+    },
+    {
+      "id": "c8480036-3a60-4860-8b13-5a71697c3c75",
+      "node_type": "Section",
+      "publisher": "finlex",
+      "title": "54 §",
+      "text": "Oppilaan oikeudesta päästä muun kuin oman piirinsä kouluun päättää koulua ylläpitävän kunnan koululautakunta hankittuaan oppilaan huoltajalta tarpeelliset selvitykset, tarvittaessa oppilaan kotikunnan koululautakunnan lausunnon ja peruskoululain 38§:n 3 momentissa tarkoitetun lääninhallituksen luvan.",
+      "section_number": "54",
+      "chapter_number": 5,
+      "statute_id": ""
+    },
+    {
+      "id": "8250ad34-e432-4329-81f9-1b3924a72cab",
+      "node_type": "Section",
+      "publisher": "finlex",
+      "title": "55 §",
+      "text": "Erityisluokalle voidaan ottaa tai siirtää oppilas, joka vammautumisen tai kehityksessä viivästymisen vuoksi ei suoriudu peruskoulun muulla luokalla tai tunne-elämän häiriön tai muun syyn vuoksi ei sopeudu peruskoulun muuhun luokkaan. Erityisluokalle ottamisesta ja siirtämisestä päättää koululautakunta ja ilmoittaa siitä lääninhallitukselle. Ottamista ja siirtämistä ei saa tehdä neuvottelematta oppilaan huoltajan kanssa ja, milloin se ilman kohtuutonta vaikeutta on mahdollista, suorittamatta oppilaan psykologista ja tarvittaessa myös lääketieteellistä tutkimusta. Jos oppilas on otettu tai siirretty erityisluokalle vastoin huoltajan mielipidettä, on asia alistettava lääninhallituksen ratkaistavaksi. Erityisluokan oppilaan voi koululautakunta oppilaan huoltajaa kuultuaan siirtää hänen kehitystään vastaavalle peruskoulun muulle luokalle.",
+      "section_number": "55",
+      "chapter_number": 5,
+      "statute_id": ""
+    },
+    {
+      "id": "16802ed9-9903-4dd5-8d3f-8bb71a061739",
+      "node_type": "Section",
+      "publisher": "finlex",
+      "title": "56 §",
+      "text": "Peruskoulun lisäopetukseen tulee ilmoittautua kuukauden kuluessa peruskoulun oppimäärän suorittamisen jälkeen. Koululautakunta voi kuitenkin ottaa lisäopetukseen myöhemmin ilmoittautuneen samana kalenterivuonna peruskoulun oppimäärän suorittaneen oppilaan. Lisäopetuksesta on soveltuvin osin voimassa, mitä peruskoulun yläasteesta on säädetty ja määrätty, jollei tässä asetuksessa toisin säädetä tai valtioneuvosto peruskoululain 4 §:n nojalla toisin päätä. Peruskoulun esiopetuksesta on soveltuvin osin voimassa, mitä peruskoulun ala-asteen ensimmäisestä ja toisesta vuosiluokasta on säädetty ja määrätty, jollei tässä asetuksessa toisin säädetä tai valtioneuvosto peruskoululain 4 §:n nojalla toisin päätä.",
+      "section_number": "56",
+      "chapter_number": 5,
+      "statute_id": ""
+    },
+    {
+      "id": "26598b6d-0b42-4224-bdbb-2ec419cf3fe8",
+      "node_type": "Section",
+      "publisher": "finlex",
+      "title": "57 §",
+      "text": "Milloin oppilas jää kouluun saapumatta, on oppilaan huoltaja velvollinen mahdollisimman pian ilmoittamaan poissaolon syyn luokanvalvojalle tai, milloin luokanvalvojaa ei ole, oppilaan muulle opettajalle. Jollei ilmoitusta ole tehty kolmen päivän kuluessa, on luokanvalvojan, opettajan tai johtokunnan määräämän muun henkilön otettava selko poissaolon syystä ja huomautettava, jollei syy ole pätevä, huoltajalle hänen velvollisuudestaan huolehtia oppilaan säännöllisestä koulunkäynnistä. Jos aiheeton poissaolo jatkuu tai toistuu ja oppilas on oppivelvollinen, on koululautakunnan kehotettava huoltajaa täyttämään velvollisuutensa. Lautakunnan toimenpide on merkittävä pöytäkirjaan. Poissaolon edelleen jatkuessa tulee koululautakunnan ilmoittaa asia sosiaalilautakunnalle ja tarpeen vaatiessa viralliselle syyttäjälle toimenpiteitä varten taikka, jos oppilas ei ole oppivelvollinen, poistaa hänet koulun kirjoista. Koululautakunnan tulee, jos oppilas asuu toisessa kunnassa, ilmoittaa toimenpiteestään oppilaan asuinkunnan koululautakunnalle. Työnantaja ei saa pitää oppivelvollista työssä kouluaikana koulumatkan vaatima aika siihen luettuna eikä antaa oppilaan suoritettavaksi sellaista työmäärää, ettei oppilaalla ole riittävästi vapaa-aikaa sekä aikaa lepoon ja kotitehtäviin.",
+      "section_number": "57",
+      "chapter_number": 5,
+      "statute_id": ""
+    },
+    {
+      "id": "73ee3bca-d0da-4e68-bcbc-fc66ba870771",
+      "node_type": "Section",
+      "publisher": "finlex",
+      "title": "58 §",
+      "text": "Jos oppilas ei noudata koulun järjestystä, käyttäytyy sopimattomasti tai on tehtävissään huolimaton hän syyllistyy rikkomukseen. Opettajan on pyrittävä keskustelemalla ohjaamaan rikkomukseen syyllistynyttä oppilasta. Tämän lisäksi oppilaan ojentamiseksi: Kurinpitorangaistuksia ovat 1 momentin 4-7 kohdassa tarkoitetut toimenpiteet. Oppilas saadaan poistaa luokasta vain, jos hän häiritsee opetusta. Opettaja voi jättää kotitehtävänsä laiminlyöneen oppilaan kouluun enintään tunnin ajaksi kerrallaan suorittamaan kotitehtäviä. Tällöin on opettajan oltava läsnä. Jälki-istunnon valvojina toimivat opettajat ja tuntiopettajat. Jälki-istunto on mahdollisuuksien mukaan järjestettävä samana päivänä kuin se määrätään. Koululautakunnan käsitellessä oppivelvollisen lapsen koulusta erottamista on sosiaalilautakunnan edustajalle varattava tilaisuus olla läsnä kokouksessa ja käyttää siinä puhevaltaa.",
+      "section_number": "58",
+      "chapter_number": 5,
+      "statute_id": ""
+    },
+    {
+      "id": "7038425f-59c2-4267-b748-d3b2700d8ca5",
+      "node_type": "Section",
+      "publisher": "finlex",
+      "title": "59 §",
+      "text": "Opettajan tulee saattaa oppilaan tekemä rikkomus johtajan tietoon, jos hän ei pidä käytettävänään olevia ojentamiskeinoja riittävinä. Vastaavasti on johtajan saatettava asia johtokunnan tietoon ja johtokunnan lausuntoineen koululautakunnan tietoon.",
+      "section_number": "59",
+      "chapter_number": 5,
+      "statute_id": ""
+    },
+    {
+      "id": "3c4b3366-fc30-4b9d-917e-d37062fb4fd8",
+      "node_type": "Section",
+      "publisher": "finlex",
+      "title": "60 §",
+      "text": "Ennen kurinpitorangaistuksen määräämistä on oppilasta kuultava sekä yksilöitävä rikkomus ja hankittava tarpeellinen selvitys. Oppilaan määräaikaisesta erottamisesta on koululautakunnan kuultava myös oppilaan huoltajaa. Kurinpitorangaistus ja sen syy on merkittävä kouluhallituksen vahvistaman kaavan mukaan pidettävään rangaistuskirjaan. Rangaistus on saatettava oppilaan huoltajalle tiedoksi. Milloin oppilas on erotettu koulusta määräajaksi, hänellä on oikeus osallistua sanottuna aikana kirjallisiin kokeisiin.",
+      "section_number": "60",
+      "chapter_number": 5,
+      "statute_id": ""
+    },
+    {
+      "id": "11774e4e-7e9e-445c-a710-51751abc59b8",
+      "node_type": "Section",
+      "publisher": "finlex",
+      "title": "61 §",
+      "text": "Milloin oppilaan käyttäytyminen aiheuttaa toistuvasti työrauhahäiriöitä, tulee peruskoulun johtajan tai hänen määräämänsä keskustelemalla oppilaan, hänen huoltajansa, opettajien sekä tarvittaessa muiden oppilaiden kanssa pyrkiä selvittämään, mikä on syynä kurittomuuteen ja mihin toimenpiteisiin olisi ryhdyttävä asiantilan korjaamiseksi.",
+      "section_number": "61",
+      "chapter_number": 5,
+      "statute_id": ""
+    },
+    {
+      "id": "97bf7dd3-7806-4015-b041-926af7876bed",
+      "node_type": "Section",
+      "publisher": "finlex",
+      "title": "62 §",
+      "text": "Oppikirjoja annetaan kunkin oppilaan käyttöön yhdet kappaleet hänen kouluaikanaan.",
+      "section_number": "62",
+      "chapter_number": 6,
+      "statute_id": ""
+    },
+    {
+      "id": "8426c101-297a-4f1b-89aa-7a664bb5a4ae",
+      "node_type": "Section",
+      "publisher": "finlex",
+      "title": "63 §",
+      "text": "Kouluateria on annettava mahdollisuuksien mukaan yleisenä ateria-aikana. Kouluateria katsotaan riittäväksi, jos se tyydyttää keskimäärin kolmanneksen oppilaan päivittäisestä ravinnontarpeesta.",
+      "section_number": "63",
+      "chapter_number": 6,
+      "statute_id": ""
+    },
+    {
+      "id": "d3b83517-48e3-452c-a80c-d6a609bc1bef",
+      "node_type": "Section",
+      "publisher": "finlex",
+      "title": "64 §",
+      "text": "Oppilaan kuljetusta ei ole pidettävä tarkoituksenmukaisesti järjestettynä, jos ala-asteen oppilaan päivittäiseen koulumatkaan odotuksineen käytettävä aika muodostuu kahta ja puolta ja yläasteen oppilaan kolmea tuntia pitemmäksi. Lääninhallituksen luvalla saa ala-asteen vuosiluokkia vastaavalla erityisluokalla olevan oppilaan päivittäinen koulumatka odotuksineen kestää kolme tuntia. Kouluhallitus antaa tarvittaessa kunnille ohjeet, mitä oppilaiden kuljetusta, saattamista ja majoitusta järjestettäessä on otettava huomioon.",
+      "section_number": "64",
+      "chapter_number": 6,
+      "statute_id": ""
+    },
+    {
+      "id": "bdffe0d6-cb68-4f8b-a108-2be7fd9ee968",
+      "node_type": "Section",
+      "publisher": "finlex",
+      "title": "65 §",
+      "text": "Jos oppilaan huoltaja haluaa kunnalta avustusta oppilaan kuljetus- tai saattokustannuksiin tai muuta avustusta, hänen tulee esittää asia sen kunnan koululautakunnalle, jonka alaista koulua oppilas käy. Hakemus on toimitettava koulun johtajalle. Avustus on haettava viimeistään sen lukukauden aikana, jota hakemus koskee.",
+      "section_number": "65",
+      "chapter_number": 6,
+      "statute_id": ""
+    },
+    {
+      "id": "85030d8e-ea99-4cb9-8864-defa982600c3",
+      "node_type": "Section",
+      "publisher": "finlex",
+      "title": "66 §",
+      "text": "Oppilaskodissa ja muussa kunnan järjestämässä majoituksessa annettavaan täysihoitoon kuuluu ilmainen ravinto, majoitus ja puhtaanapito. Oppilaan huoltajan, joka haluaa saada oppilaan oppilaskotiin tai muuhun kunnan järjestämään majoitukseen, on esitettävä pyyntönsä koulun johtajalle.",
+      "section_number": "66",
+      "chapter_number": 6,
+      "statute_id": ""
+    },
+    {
+      "id": "2ed98795-ad81-4181-aca8-ee5a120b70c8",
+      "node_type": "Section",
+      "publisher": "finlex",
+      "title": "67 §",
+      "text": "Jollei kaikkia oppilaskotiin pyrkiviä oppilaita voida sinne ottaa, on etusija annettava pitkä- ja vaikeamatkaisimmille, nuorimmille ja heikoille. Tällöin on erityisesti otettava huomioon oppilas, jonka huoltaja ei kykene huolehtimaan oppilaan koulunkäynnistä. Toisesta koulupiiristä oleva oppilas voidaan ottaa oppilaskotiin, jos hänet voitaisiin ottaa sinne myös omassa piirissä vallitsevien olosuhteiden mukaan tai jos erityinen syy sitä vaatii.",
+      "section_number": "67",
+      "chapter_number": 6,
+      "statute_id": ""
+    },
+    {
+      "id": "73e5c20f-0273-4a29-86b5-d5e3b836ebe1",
+      "node_type": "Section",
+      "publisher": "finlex",
+      "title": "68 §",
+      "text": "Oppilaita ei pidetä oppilaskodissa joulu- eikä kesäloman aikana eikä ilman pakottavaa syytä muun loman tai vähintään kaksi päivää kestävän koulutyön keskeytyksen aikana. Mitä tässä momentissa on säädetty oppilaskodista, voidaan myös noudattaa kunnan järjestämässä muussa majoituksessa. Oppilaan käyntiä kotona vapaapäivinä ei saa estää eikä oppilaan huoltajaa kieltää käymästä oppilaskodissa tai muussa majoituksessa, ellei siihen ole syytä. Huoltajien käyntejä varten voidaan tarvittaessa asettaa määräajat, jotka on heille ilmoitettava.",
+      "section_number": "68",
+      "chapter_number": 6,
+      "statute_id": ""
+    },
+    {
+      "id": "f025bdf1-7d9f-46a4-b401-0005914bf359",
+      "node_type": "Section",
+      "publisher": "finlex",
+      "title": "69 §",
+      "text": "Oppilaskodissa oppilaita ohjataan koulun kotitehtävissä ja vapaa-ajan toiminnassa, jota varten oppilaskodissa voi olla tarvittaessa ohjaajia.",
+      "section_number": "69",
+      "chapter_number": 6,
+      "statute_id": ""
+    },
+    {
+      "id": "0fa7fab9-2060-4025-9c8c-fd53b99f8cd9",
+      "node_type": "Section",
+      "publisher": "finlex",
+      "title": "70 §",
+      "text": "Oppilas on velvollinen noudattamaan oppilaskodin järjestystä sekä oppilaskodinhoitajan ja muun henkilökunnan ohjeita sekä käyttäytymään asiallisesti. Jos oppilas ei noudata oppilaskodin järjestystä tai käyttäytyy muutoin sopimattomasti, voi oppilaskodinhoitaja nuhdella häntä tai, oppilasta kuultuaan, rangaista häntä enintään tunnin kestävällä erillään istumisella. Rangaistus ja sen syy on merkittävä oppilaskodin päiväkirjaan. Jos oppilaskodinhoitaja ei pidä käytettävänään olevia toimenpiteitä riittävinä tai jos oppilas jatkuvasti rikkoo koulun oppilaskodin järjestystä, on hänen ilmoitettava asia koulun johtajalle. Johtaja voi antaa 58 §:n mukaisen varoituksen tai ilmoittaa asiasta johtokunnalle, joka voi antaa 58 §:n mukaisen varoituksen. Johtokunta voi myös ilmoittaa asiasta koululautakunnalle, joka voi, kuultuaan oppilasta ja hänen huoltajaansa, erottaa oppilaan oppilaskodista määräajaksi tai pysyvästi.",
+      "section_number": "70",
+      "chapter_number": 6,
+      "statute_id": ""
+    },
+    {
+      "id": "3365198b-b3f1-4107-be83-dc252748fcc6",
+      "node_type": "Section",
+      "publisher": "finlex",
+      "title": "71 §",
+      "text": "Kunta voi järjestää peruskoulun ja peruskoulua korvaavan koulun oppilaiden kesävirkistystä varten kesäsiirtolan. Jos muu kuin kunta haluaa valtionavun turvin järjestää kesäsiirtolan, sen tulee toimittaa lääninhallitukselle ilmoitus kesäsiirtolaan otettavien oppilaiden lukumäärästä sekä selostus kesäsiirtolan henkilökunnasta ja sen pätevyydestä.",
+      "section_number": "71",
+      "chapter_number": 6,
+      "statute_id": ""
+    },
+    {
+      "id": "b5ab8b36-688e-4717-9145-89d7aaf28b3c",
+      "node_type": "Section",
+      "publisher": "finlex",
+      "title": "72 §",
+      "text": "Kesäsiirtolaan oppilaita valittaessa on etusijalle asetettava terveydellisistä tai sosiaalisista syistä lomavirkistystä tarvitsevat. Peruskoulun johtajan ja opettajan sekä terveyskeskuslääkärin on annettava tietoja ja tehtävä ehdotuksia oppilaiden kesäsiirtolaan ottamista varten. Kesäsiirtolan tulee olla lääkärin valvonnassa.",
+      "section_number": "72",
+      "chapter_number": 6,
+      "statute_id": ""
+    },
+    {
+      "id": "f3c60bd3-401c-41c1-8d92-10628a0e23fa",
+      "node_type": "Section",
+      "publisher": "finlex",
+      "title": "73 §",
+      "text": "Kesäsiirtolassa tulee olla johtaja ja tarpeellinen määrä muuta henkilökuntaa sekä, jos siihen on sijoitettu enemmän kuin 30 oppilasta, myös apulaisjohtaja. Kesäsiirtolan johtajan tai apulaisjohtajan tulee olla virkakelpoinen peruskoulun opettaja. Kesäsiirtolan johtajan tulee johtaa ja valvoa siirtolan toimintaa ja suorittaa ne tehtävät, jotka johtosäännön, koululautakunnan määräyksen tai asian laadun mukaan hänelle kuuluvat.",
+      "section_number": "73",
+      "chapter_number": 6,
+      "statute_id": ""
+    },
+    {
+      "id": "3b4135ff-b471-4dbc-a98c-a27c2af86e25",
+      "node_type": "Section",
+      "publisher": "finlex",
+      "title": "74 §",
+      "text": "Jos oppilas ei noudata kesäsiirtolan järjestystä tai käyttäytyy muutoin sopimattomasti, voi siirtolan johtaja nuhdella häntä tai, oppilasta kuultuaan, rangaista häntä enintään tunnin kestävällä erillään istumisella. Jollei siitä seuraa parannusta, siirtolan johtaja voi, kuultuaan oppilasta ja hänen huoltajaansa, palauttaa oppilaan kotiin. Rangaistus ja sen syy sekä kotiin palauttaminen on merkittävä kesäsiirtolan päiväkirjaan.",
+      "section_number": "74",
+      "chapter_number": 6,
+      "statute_id": ""
+    },
+    {
+      "id": "30bea20f-2775-4c96-83b8-f22226509a60",
+      "node_type": "Section",
+      "publisher": "finlex",
+      "title": "75 §",
+      "text": "Peruskoulun yläasteen koulun johtokunnan puheenjohtajan, johtajan, oppilaskunnan ohjaajana toimivan opettajan, oppilaskunnan puheenjohtajan ja sihteerin sekä muita kuin opetustehtäviä suorittavan henkilökunnan edustajan on kokoonnuttava vähintään kerran lukukaudessa kouluyhteistyökokoukseen käsittelemään koulun sisäistä sekä koulun ja kodin välistä yhteistyötä, koulun kasvatus- ja opetustehtävän edistämistä sekä koulutyön järjestämistä ja kehittämistä. Heidän on myös kokoonnuttava käsittelemään kevätlukukauden loppupuolella seuraavan lukuvuoden työsuunnitelman laadinnan perusteita. Kouluyhteistyökokouksen puheenjohtajana toimii johtokunnan puheenjohtaja. Kokous on kutsuttava koolle kuukauden kuluessa, jos joku 1 momentissa mainituista henkilöistä sitä ilmoittamaansa asiaa varten johtajalta vaatii.",
+      "section_number": "75",
+      "chapter_number": 7,
+      "statute_id": ""
+    },
+    {
+      "id": "9e31bb79-21dc-4327-9cce-5b0a4678fa73",
+      "node_type": "Section",
+      "publisher": "finlex",
+      "title": "76 §",
+      "text": "Peruskoulun ala-asteella voi olla oppilaskuntatoimintaa, jonka järjestämisestä kouluhallitus antaa yleiset ohjeet.",
+      "section_number": "76",
+      "chapter_number": 7,
+      "statute_id": ""
+    },
+    {
+      "id": "0da6f439-82ff-40b1-800c-68ede75d60a3",
+      "node_type": "Section",
+      "publisher": "finlex",
+      "title": "77 §",
+      "text": "Peruskoulun yläasteen jokaista perusopetusryhmää kohti on johtokunnan määräämä luokanvalvoja, jonka tehtävistä määrää kouluhallitus. Luokanvalvojaksi on määrättävä ensisijaisesti sellainen opettaja, joka huomattavassa määrin opettaa asianomaisen perusopetusryhmän oppilaita. Luokanvalvojaksi voidaan määrätä myös tuntiopettaja, milloin tehtävän tarkoituksenmukainen hoitaminen sitä edellyttää.",
+      "section_number": "77",
+      "chapter_number": 7,
+      "statute_id": ""
+    },
+    {
+      "id": "0588845c-f478-4a26-a84c-3a82e4475ff4",
+      "node_type": "Section",
+      "publisher": "finlex",
+      "title": "78 §",
+      "text": "Peruskoulun ala-asteella kunkin perusopetusryhmän oppilaat voivat valita ja yläasteella valitsevat perusopetusryhmän luottamusoppilaan ja hänen sijaisensa. Johtokunnan luvalla voidaan peruskoulun yläasteella perusopetusryhmän luottamusoppilas jättää valitsematta. Kouluhallitus voi antaa ohjeita siitä, milloin luottamusoppilas jätetään valitsematta.",
+      "section_number": "78",
+      "chapter_number": 7,
+      "statute_id": ""
+    },
+    {
+      "id": "8a152103-e011-4433-a60e-77446e28a6cd",
+      "node_type": "Section",
+      "publisher": "finlex",
+      "title": "79 §",
+      "text": "Oppilaskunnan ohjaajana toimivan opettajan tulee tukea ja edistää oppilaskunnan toimintaa ja muuta oppilaiden vapaata harrastustoimintaa.",
+      "section_number": "79",
+      "chapter_number": 7,
+      "statute_id": ""
+    },
+    {
+      "id": "fee61d61-8604-4c44-b0ba-7bdfdc40f9bd",
+      "node_type": "Section",
+      "publisher": "finlex",
+      "title": "80 §",
+      "text": "Kodin ja koulun välistä yhteistyötä järjestettäessä on huolehdittava siitä, että oppilaiden huoltajilla on vähintään lukuvuosittain tilaisuus keskustella koulun johtajan ja oppilaan opettajien kanssa koulun opetus- ja kasvatustyöstä.",
+      "section_number": "80",
+      "chapter_number": 7,
+      "statute_id": ""
+    },
+    {
+      "id": "c7427149-850f-4165-a985-000031baa6a2",
+      "node_type": "Section",
+      "publisher": "finlex",
+      "title": "81 §",
+      "text": "Peruskoulun opettajanvirat on järjestettävä niitä perustettaessa tai uudelleen järjestettäessä siten, että ala-asteen kahden alimman vuosiluokan opetustyön hoitavat luokanopettajat, muilla ala-asteen vuosiluokilla luokanopettajat ja aineenopettajat sekä yläasteella aineenopettajat ja lehtorit, jollei lääninhallitus kouluhallituksen antamien ohjeiden mukaan myönnä lupaa poiketa tästä. Peruskoulun ala-asteen opettajanvirat on järjestettävä siten, että vähintään puolet kolmannen ja sitä ylemmän vuosiluokan oppilaan oppitunneista on saman opettajan hoidossa, jollei lääninhallitus yksittäistapauksessa koulutyön tarkoituksenmukaiseksi järjestämiseksi myönnä poikkeusta. Opetusministeriö voi määrätä erityisopettajan ja erityisluokanopettajan virkojen perustamisen ja ylläpitämisen yleisistä edellytyksistä.",
+      "section_number": "81",
+      "chapter_number": 8,
+      "statute_id": ""
+    },
+    {
+      "id": "5c4a94fd-c2e8-4261-90f9-1dcd7773a77c",
+      "node_type": "Section",
+      "publisher": "finlex",
+      "title": "82 §",
+      "text": "Peruskoulun ala-asteen piirissä tulee olla kouluun tulevia lapsia vähintään seuraavat määrät, jotta luokanopettajan virkaa pidetään tarpeellisena: Sellaisessa ala-asteen piirissä, jossa on kouluun tulevia lapsia enemmän kuin 250, saadaan perustaa tarpeellisena pidettävä luokanopettajan tai rehtorin virka jokaista ensimmäisen ja toisen vuosiluokan alkavaa 25 oppilasta kohti sekä jokaista kolmannen, neljännen, viidennen ja kuudennen vuosiluokan alkavaa 32 oppilasta kohti. Tällaisessa piirissä on kuitenkin vähintään yksitoista tarpeellisena pidettävää virkaa. Milloin 1 momentin 1-4 kohdassa tarkoitetun peruskoulun ala-asteen opettajan palkkaukseen on aikaisemmin myönnetty valtionosuutta, voidaan virka jättää lakkauttamatta, jos 1 kohdassa tarkoitettu oppilasmäärä on vähintään 6, 2 kohdassa tarkoitettu oppilasmäärä vähintään 12, 3 kohdassa tarkoitettu oppilasmäärä vähintään 27 tai 4 kohdassa tarkoitettu oppilasmäärä vähintään 65. Jos peruskoulun ala-asteen opettajan palkkaamiseen jo aikaisemmin on myönnetty valtionosuutta, ei valtionosuutta lakkauteta, ellei oppilaiden luku ole jäänyt kolmena perättäisenä lukuvuotena 1 momentin 5-10 kohdassa taikka 2 tai 3 momentissa mainittuja määriä pienemmäksi. Erityisestä syystä opetusministeriö voi myöntää poikkeuksia edellä tässä pykälässä säädetyistä oppilasmääristä. Opetusministeriö voi myöntää oppilasmääristä poikkeuksia myös saamenkielisen opetuksen järjestämiseksi saamelaisten kotiseutualueella. Milloin koulussa on erityisluokka tai peruskoululain 4 §:n 3 momentissa tarkoitettua opetusta erillisessä perusopetusryhmässä, sen oppilaita ei oteta huomioon laskettaessa kouluun tulevien lapsien määrää.",
+      "section_number": "82",
+      "chapter_number": 8,
+      "statute_id": ""
+    },
+    {
+      "id": "ac9fe649-960c-4537-890f-6502efb831aa",
+      "node_type": "Section",
+      "publisher": "finlex",
+      "title": "83 §",
+      "text": "Peruskoulun ala-asteella voi olla teknisen työn ja tekstiilityön aineenopettajan virka, jos aineiden tuntimäärä ala-asteen kolmannella ja sitä ylemmillä vuosiluokilla on riittävä viran perustamista varten. Peruskoulun ala-asteella voi olla toisen kotimaisen kielen ja vieraan kielen aineenopettajan virka ja, jos ala-asteella on vähintään seitsemän luokanopettajan virkaa, muitakin aineenopettajan virkoja.",
+      "section_number": "83",
+      "chapter_number": 8,
+      "statute_id": ""
+    },
+    {
+      "id": "39417270-0997-47a8-9cf9-b7ae70fc8d2c",
+      "node_type": "Section",
+      "publisher": "finlex",
+      "title": "84 §",
+      "text": "Peruskoulun yläasteelle voidaan perustaa lehtorin ja aineenopettajan sekä opinto-ohjaajan virkoja sen mukaan kuin oppiaineiden tuntimäärät edellyttävät. Oppilaanohjauksen tunnit voidaan ottaa jonkin oppiaineen lehtorin tai aineenopettajan virkaa perustettaessa huomioon. Kouluhallitus voi antaa ohjeita virkaan kuuluvien aineiden yhdistelmistä. Opettajalla, jolla on valtion oppikoulun lehtorin pätevyys ja joka on siirretty valtion oppikoulun tai kansakouluun kuuluvan keskikoulun lehtorin virasta taikka yksityisoppikoulun vastaavasta toimesta peruskoulun aineenopettajan virkaan, on oikeus käyttää lehtorin arvonimeä.",
+      "section_number": "84",
+      "chapter_number": 8,
+      "statute_id": ""
+    },
+    {
+      "id": "0d93df15-48f8-4dcb-81bb-f35339b0acaa",
+      "node_type": "Section",
+      "publisher": "finlex",
+      "title": "85 §",
+      "text": "Oppilaskodissa tulee olla oppilaskodinhoitajan virka. Oppilaskodissa voi olla: Oppilaskodissa, jossa on vähintään viisi erityisluokalla olevaa tai vammaista oppilasta, voi olla yksi oppilaskodinhoitajan virka enemmän kuin 1 momentissa on säädetty.",
+      "section_number": "85",
+      "chapter_number": 8,
+      "statute_id": ""
+    },
+    {
+      "id": "7e238615-8e8e-41a1-b42d-0e571143b3ee",
+      "node_type": "Section",
+      "publisher": "finlex",
+      "title": "86 §",
+      "text": "Peruskoulun opettajan viroista on ensisijaisesti lakkautettava se virka, jonka lakkauttamisesta on vähiten haittaa koulun työn tarkoituksenmukaiselle järjestämiselle. Jos peruskoulussa on kaksi tai useampia opettajan virkoja, joista yksi voidaan lakkauttaa, on noudatettava seuraavaa järjestystä: Mikäli 2 momentin 2 kohdan mukaisesti useampi opettaja ilmoittaa haluavansa, että hänen virkansa lakkautetaan, noudatetaan soveltuvin osin 2 momentin 3-6 kohdan määräyksiä kuitenkin siten, että ensisijaisesti lakkautetaan virkavuosiltaan tai iältään vanhimman taikka kauimmin palvelleen virka. Määriteltäessä 2 momentin 3 kohdan nojalla ajankohtaa, jolloin opettaja on ryhtynyt palvelukseen, otetaan huomioon myös aika, jonka opettaja on palvellut asianomaisessa kunnassa, jos hänet on siirretty virkaan, joka olisi lakkautettava. Jos edellä tässä pykälässä säädetyn mukaisesti meneteltäessä kouluun jäisi vain samaan sukupuoleen kuuluvia opettajia, lakkautetaan lähinnä seuraava virka. Lääninhallituksen luvalla saadaan poiketa edellä tässä pykälässä säädetystä lakkauttamisjärjestyksestä. Mitä edellä on tässä pykälässä säädetty, koskee soveltuvin osin kunnan koululaitoksen viraksi perustettuja peruskoulun virkoja.",
+      "section_number": "86",
+      "chapter_number": 8,
+      "statute_id": ""
+    },
+    {
+      "id": "2e433dcf-edc1-4503-b54b-9efce3f0d668",
+      "node_type": "Section",
+      "publisher": "finlex",
+      "title": "87 §",
+      "text": "Ennen kuin kunnanvaltuusto päättää lakkauttaa rehtorin, opettajan tai oppilaskodinhoitajan viran, sen on varattava koululautakunnalle tilaisuus antaa asiasta lausunto, jollei tämä ole tehnyt lakkautusesitystä. Lainvoiman saanut vakinaisesti täytetyn viran lakkauttamista koskeva päätös on annettava tiedoksi kouluhallitukselle. Päätös viran lakkauttamisesta tulee voimaan 1 päivänä elokuuta sen jälkeen, kun se on saanut lainvoiman.",
+      "section_number": "87",
+      "chapter_number": 8,
+      "statute_id": ""
+    },
+    {
+      "id": "40638475-8b8e-4955-8413-3a6474b8e64b",
+      "node_type": "Section",
+      "publisher": "finlex",
+      "title": "88§",
+      "text": "Jos lain tai asetuksen säännös, piirijaon muutos, oppilasmäärän lisääntyminen tai väheneminen taikka muu syy tekee viran uudelleen järjestämisen tarpeelliseksi, päättää siitä kunnanvaltuusto, sitten kun koululautakunta, mikäli se ei ole tehnyt esitystä asiasta, on antanut siitä lausunnon.",
+      "section_number": "88",
+      "chapter_number": 8,
+      "statute_id": ""
+    },
+    {
+      "id": "831e5865-3e95-4b51-ba91-deb89e4ec5c8",
+      "node_type": "Section",
+      "publisher": "finlex",
+      "title": "89 §",
+      "text": "Vakinaisen viranhaltijan, jonka virka on lakkautettu, siirtää kunnanhallitus toiseen virkaan samassa kunnassa. Jos keskenään naimisissa olevia viranhaltijoita, joiden virat on lakkautettu, ei voida siirtää saman kunnan kouluihin, kunnanhallituksen tulee ilmoittaa nämä viranhaltijat kouluhallitukselle muualle siirtämistä varten, mikäli he sitä haluavat. Erityisen painavasta syystä kouluhallitus voi siirtää muunkin viranhaltijan, jonka virka on lakkautettu, toisen kunnan virkaan, vaikka omassa kunnassa on virka avoinna. Jos kouluhallitus ei siirtoa suorita, sen on ilmoitettava siitä kunnanhallitukselle. Viranhaltijaa ei saa siirtää sellaiseen virkaan, jonka kelpoisuusehtoja hän ei täytä, ellei toisin ole säädetty.",
+      "section_number": "89",
+      "chapter_number": 8,
+      "statute_id": ""
+    },
+    {
+      "id": "47f3daad-2f55-4fbb-85df-d56d54dc23af",
+      "node_type": "Section",
+      "publisher": "finlex",
+      "title": "90 §",
+      "text": "Jos virkoja uudelleen järjestettäessä useat virkakelpoiset viranhaltijat haluavat saada saman viran, ratkaisee kunnanhallitus ottaen huomioon, mitä koulun etu ja kohtuus vaativat, kenelle virka on annettava. Milloin virkoja uudelleen järjestettäessä opettaja on siirrettävä toiseen kouluun tai toisen koulun opettajan virkaan, on soveltuvin osin noudatettava, mitä 86 §:n 1-5 momentissa on säädetty.",
+      "section_number": "90",
+      "chapter_number": 8,
+      "statute_id": ""
+    },
+    {
+      "id": "485882a5-ff70-42d4-a3bc-1fb05209738b",
+      "node_type": "Section",
+      "publisher": "finlex",
+      "title": "91 §",
+      "text": "Kun kouluhallitukselle on ilmoitettu vakinainen viranhaltija, joka on siirrettävä toisen kunnan virkaan, on kouluhallituksen määrättävä, että jokin tai joitakin avoimia virkoja on jätettävä täyttämättä, kunnes on selvitetty, voidaanko asianomainen siirtää johonkin niistä. Kouluhallitus voi myös määrätä, että jonkin kunnan tai muun alueen peruskoulun tietynlaisia virkoja ei saa täyttää kulumassa olevana lukuvuotena. Kouluhallituksen on pidettävä lakkautuspalkalle asetetuista luetteloa, josta heidän ikänsä, tutkintonsa ja aikaisempi virkatoimintansa selviävät.",
+      "section_number": "91",
+      "chapter_number": 8,
+      "statute_id": ""
+    },
+    {
+      "id": "b76065a9-34ae-43dd-9137-0a964a38d4ac",
+      "node_type": "Section",
+      "publisher": "finlex",
+      "title": "92 §",
+      "text": "Lakkautuspalkalle asetettu, joka ryhtyy sellaiseen palvelukseen, joka aiheuttaa lakkautuspalkan pidättämisen osittain tai kokonaan, on velvollinen ilmoittamaan kirjallisesti palvelukseen ryhtymisestään kouluhallitukselle, jonka tulee lähettää ilmoitus lakkautuspalkkaa maksavalle kunnanhallitukselle.",
+      "section_number": "92",
+      "chapter_number": 8,
+      "statute_id": ""
+    },
+    {
+      "id": "28faf090-3c84-4020-8a9b-6df7698e43e9",
+      "node_type": "Section",
+      "publisher": "finlex",
+      "title": "93 §",
+      "text": "Viranhaltijan ja tuntiopettajan tulee olla 18 vuotta täyttänyt. Viranhaltijalla ja tuntiopettajalla ei saa olla sellaista vammaa tai sairautta, joka tekee hänet virkaan tai tehtävään sopimattomaksi.",
+      "section_number": "93",
+      "chapter_number": 9,
+      "statute_id": ""
+    },
+    {
+      "id": "134405fd-6c2e-4fcc-abc0-cda557e9ac9a",
+      "node_type": "Section",
+      "publisher": "finlex",
+      "title": "94 §",
+      "text": "Rehtorin- ja opettajanviran haltijalta ja tuntiopettajalta vaaditaan, että hän on koulun opetuskielellä suorittanut koulutukseen kuuluvan opetusharjoittelun taikka opettajankoulutusyksiköstä tai opettajanvalmistuslaitoksesta saadulla todistuksella osoittanut täydellisesti hallitsevansa koulun opetuskielen. Ruotsissa luokanopettajan tutkinnon suorittaneen henkilön, joka on suorittanut koulutukseen kuuluvan opetusharjoittelun ruotsinkielellä, katsotaan täydellisesti hallitsevan ruotsinkielisen peruskoulun opetuskielen. Jos rehtorin- tai opettajanviran haltija taikka tuntiopettaja toimii sekä suomen- että ruotsinkielisissä kouluissa, on hänen täytettävä 1 momentissa säädetty vaatimus kummankin opetuskielen osalta. Sen estämättä, mitä 1 ja 2 momentissa on säädetty, saadaan ruotsinkielisen peruskoulun luokanopettajan viran väliaikaiseksi hoitajaksi sekä ala-asteelle tuntiopettajaksi enintään kahdeksi vuodeksi ottaa henkilö, joka on suorittanut luokanopettajan tutkinnon Norjassa tai Tanskassa edellyttäen, ettei hän anna opetusta äidinkielessä. Oppilaskodinhoitajanviran haltijalta vaaditaan, että hän on koulun opetuskielellä saanut virkaan vaadittavan vähintään yhden lukuvuoden kestäneen koulutuksen tai koulun opetuskielellä suorittanut peruskoulun, keskikoulun tai kansakoulun oppimäärän taikka sellaisen kielitutkinnon kuin vastaavasti valtion virkamieheltä vaaditaan tai saanut 1 momentissa tarkoitetun todistuksen. Jos tällaisen viran haltija toimii sekä suomen- että ruotsinkielisessä koulussa, vaaditaan häneltä edellä mainitun lisäksi nimittävän viranomaisen riittäväksi harkitsema vähemmistön kielen taito. Kuntaa pienempien virka-alueiden enemmistön ja vähemmistön kielet määräytyvät tällöin alueiden peruskoulujen oppilasmäärien mukaan. Jos peruskoulussa annetaan saamen kielen opetusta tai jos opetuskielenä on saamen kieli, tulee riittävän monella viranhaltijalla ja tuntiopettajalla olla edellä säädetyn mukaisen suomen kielen taidon ohella opetuksen hoitamisen kannalta riittävä saamen kielen taito. Vaikeasti kuulovammaisten erityisluokalla opettavalla viranhaltijalla ja tuntiopettajalla tulee olla riittävä viittomakielen taito.",
+      "section_number": "94",
+      "chapter_number": 9,
+      "statute_id": ""
+    },
+    {
+      "id": "548e14ac-5db4-4f6c-bdd7-00c97b8c23d4",
+      "node_type": "Section",
+      "publisher": "finlex",
+      "title": "95 §",
+      "text": "Vakinaiselta rehtorin- ja opettajanviran haltijalta vaaditaan, että hän on suorittanut kouluhallinnon tutkinnon. Tätä tutkintoa ei kuitenkaan vaadita opettajanviranhaltijalta, joka on suorittanut kasvatustieteiden kandidaatin tutkinnon luokanopettajan koulutusohjelman mukaan tai aineenopettajan kasvatustieteelliset opinnot tai joka on aikaisemmin suorittanut kansakouluhallinnon tai oppikoululainsäädännön tutkinnon, eikä opettajanviranhaltijalta, jolta kansakoulun tai oppikoulun opettajan virkaan tai toimeen pääsemiseksi ei ole vaadittu mainittuja tutkintoja. Kouluhallinnon tutkinnossa, jonka vaatimukset kouluhallitus määrää, voidaan suorittaa alin, keskimmäinen ja ylin arvosana. Kouluhallitus määrää tutkijat. Tutkinnosta suoritettavasta maksusta säädetään erikseen.",
+      "section_number": "95",
+      "chapter_number": 9,
+      "statute_id": ""
+    },
+    {
+      "id": "021577a4-0dc7-4858-b0ad-ab570115df25",
+      "node_type": "Section",
+      "publisher": "finlex",
+      "title": "96 §",
+      "text": "Rehtorin virkaan on kelpoinen henkilö, jolla on asianomaisen koulun opettajanvirkaan vaadittava kelpoisuus. Kahden tai useamman koulun yhteiseen rehtorin virkaan on kelpoinen henkilö, jolla on kelpoisuus opettajan virkaan jossakin niistä edellä mainituista kouluista, johon erillisenä peruskoululain 18 §:n mukaan voitaisiin perustaa rehtorin virka.",
+      "section_number": "96",
+      "chapter_number": 9,
+      "statute_id": ""
+    },
+    {
+      "id": "534d28b4-3ed8-4925-ab34-5328413ffa2b",
+      "node_type": "Section",
+      "publisher": "finlex",
+      "title": "97 §",
+      "text": "Luokanopettajan virkaan on kelpoinen henkilö, joka on suorittanut kasvatustieteiden kandidaatin tutkinnon luokanopettajan koulutusohjelman mukaan tai peruskoulun luokanopettajan taikka kansakoulunopettajan tutkinnon tai jolla on alakansakoulunopettajan pätevyys. Luokanopettajan virkaan on kelpoinen myös henkilö, joka on suorittanut Islannissa, Norjassa, Ruotsissa tai Tanskassa vähintään kolmivuotiseen koulutusohjelmaan perustuvan peruskoulun luokanopettajan tutkinnon. Milloin edellä mainitussa maassa suoritettu luokanopettajan tutkinto perustuu lyhyempään opiskeluun, on henkilö kelpoinen opettamaan peruskoulun 1-4 vuosiluokalla tai, opetusministeriön määräämän lisäopiskelun suoritettuaan, kuten kolmivuotiseen opiskeluun perustuvan tutkinnon suorittanut. Jos luokanopettajan virkaan on yhdistetty erityinen velvollisuus opettaa teknistä työtä, tekstiilityötä tai jotakin muuta oppiainetta tai antaa opetusta jollakin opetusalueella, on virkaan kelpoinen henkilö, joka on suorittanut luokanopettajan koulutusohjelmaan kuuluvat erikoistumisopinnot tai opettajanvalmistuslaitoksessa tai opettajankoulutusyksikössä hyväksytyn arvosanan tai erikoistumisopinnot tässä aineessa tai tällä opetusalueella.",
+      "section_number": "97",
+      "chapter_number": 9,
+      "statute_id": ""
+    },
+    {
+      "id": "48ef4e54-338f-47c3-89b5-606a63639098",
+      "node_type": "Section",
+      "publisher": "finlex",
+      "title": "98 §",
+      "text": "Aineenopettajan virkaan on kelpoinen henkilö, joka on suorittanut ylemmän korkeakoulututkinnon ja siinä tai erillisinä aineenopettajan kasvatustieteelliset opinnot sekä aineenopettajan koulutusohjelmaan tai suuntautumisvaihtoehtoon kuuluvat opetettavan aineen opinnot tai niitä vastaavat opinnot virkaan kuuluvassa aineessa. Vastaavuus on osoitettava korkeakoulun antamalla todistuksella. Jos aineenopettajan virkaan kuuluu kolme tai useampia aineita, vaaditaan 1 momentin mukainen kelpoisuus vähintään kahdessa virkaan kuuluvassa aineessa ja muissa aineissa vähintään 15 opintoviikon laajuiset ainetta vastaavan tieteenalan tai -alojen taikka opinalan opinnot tai arvosana approbatur taikka luokanopettajan koulutusohjelmaan kuuluvat aineen erikoistumisopinnot. Kouluhallitus antaa tarvittaessa määräykset siitä, minkä tieteenalan tai -alojen taikka opinalan katsotaan vastaavan virkaan kuuluvaa ainetta. Jos henkilö on suorittanut korkeakoulututkinnon luokanopettajan koulutusohjelman mukaan tai peruskoulun luokanopettajan taikka kansakoulunopettajan tutkinnon, on kelpoisuusehtona aineenopettajan kasvatustieteellisten opintojen asemesta vähintään 9 opintoviikon laajuinen opetusharjoittelu ja siihen liitettävät opetusopin opinnot. Kaupallisten aineiden aineenopettajan virkaan on kelpoinen myös henkilö, joka on suorittanut 160 opintoviikon laajuisen ekonomin tutkinnon sekä aineenopettajan kasvatustieteelliset opinnot. Maa- ja metsätalouden sekä puutarhanhoidon aineenopettajan virkaan on kelpoinen myös henkilö, joka on suorittanut maatalous- ja metsätieteiden kandidaatin tutkinnon maatalouden koulutusohjelman mukaan sekä aineenopettajan kasvatustieteelliset opinnot. Aineenopettajan virkaan on kelpoinen myös henkilö, joka on suorittanut peruskoulun asianomaisen aineen aineenopettajan tutkinnon tai jolla on tämän asetuksen voimaantullessa kelpoisuus valtion oppikoulun vastaavaan opettajan virkaan.",
+      "section_number": "98",
+      "chapter_number": 9,
+      "statute_id": ""
+    },
+    {
+      "id": "89ed6b77-d278-48d5-b135-558d1b42ec39",
+      "node_type": "Section",
+      "publisher": "finlex",
+      "title": "99 §",
+      "text": "Opinto-ohjaajan virkaan on kelpoinen henkilö, joka on suorittanut erilliset opinto-ohjaajan opinnot tai peruskoulun opinto-ohjaajan tutkinnon taikka opetusministeriön hyväksymät opinnot. Jos aineenopettajan tai lehtorin virkaan on liitetty opinto-ohjaajan tehtävät, vaaditaan kelpoisuusehtona 1 momentissa mainitut opinnot tai tutkinto.",
+      "section_number": "99",
+      "chapter_number": 9,
+      "statute_id": ""
+    },
+    {
+      "id": "507f7c96-8ac2-4392-92e7-016b745a492f",
+      "node_type": "Section",
+      "publisher": "finlex",
+      "title": "100§",
+      "text": "Kotitalouden, maa- ja metsätalouden sekä puutarhanhoidon, kaupallisten aineiden ja yleisaineiden aineenopettajan virkaan on kelpoinen myös henkilö, jolla on vastaava kansalaiskoulun opettajan kelpoisuus. Teknisen työn aineenopettajan virkaan on kelpoinen myös henkilö, jolla on kansalaiskoulun puutyön, metallityön tai kone- ja sähköopin opettajan taikka oppikoulun poikien käsityönopettajan kelpoisuus. Peruskoulun ala-asteella opettavan teknisen työn aineenopettajan virkaan on kelpoinen myös henkilö, joka on suorittanut Rauman seminaarissa käsityönopettajan tutkinnon taikka peruskoulun tai keskikoulun oppimäärän ja joka on saanut valtion kotiteollisuusopettajaopiston puutyöosaston päästötodistuksen. Aineenopettajan virkaan, johon kuuluvat maa- ja metsätalous sekä puutarhanhoito ja tekninen työ yhdessä, on kelpoinen myös henkilö, jolla on kansalaiskoulun maatilatalouden sekä kone- ja sähköopin opettajan kelpoisuus sekä henkilö, jolla on kansalaiskoulun maatilatalouden opettajan kelpoisuus ja opetusministeriön hyväksymä lisäopiskelu. Tekstiilityön aineenopettajan virkaan on kelpoinen myös henkilö, jolla on oppikoulun tai kansalaiskoulun tyttöjen käsityönopettajan kelpoisuus. Peruskoulun ala-asteella opettavan tekstiilityön aineenopettajan virkaan on kelpoinen myös henkilö, joka on suorittanut käsityönopettajan tutkinnon opetusministeriön hyväksymässä oppilaitoksessa. Liikunnan aineenopettajan virkaan on kelpoinen myös henkilö, joka on suorittanut liikuntakasvatuksen kandidaatin tutkinnon ja siinä tai erikseen vähintään arvosanan cum laude approbatur liikuntapedagogiikassa sekä vähintään arvosanan approbatur liikuntafysiologiassa ja liikuntahygieniassa tai joka on suorittanut voimistelunopettajan tutkinnon. Kuvaamataidon aineenopettajan virkaan on kelpoinen myös henkilö, joka on suorittanut kuvaamataidonopettajan tutkinnon taideteollisessa oppilaitoksessa tai vastaavan loppututkinnon taideteollisessa korkeakoulussa. Musiikin aineenopettajan virkaan on kelpoinen myös henkilö, joka on suorittanut musiikinopettajan tutkinnon Sibelius-Akatemiassa. Jollei 5-7 momentissa tarkoitettu henkilö ole peruskoulun luokanopettaja tai kansakoulunopettaja, vaaditaan edellä säädettyjen kelpoisuusehtojen lisäksi aineenopettajan kasvatustieteelliset opinnot tai kahden lukukauden opetusharjoittelun ohella kasvatusopin virkatutkinto tai kasvatustieteen tahi kasvatus- ja opetusopin arvosana taikka vähintään 15 opintoviikon opinnot kasvatustieteessä. Opetusharjoittelu on voitu suorittaa perus- tai kansakoulunopettajain valmistuslaitoksessa taikka niin kuin oppikoulunopettajain opetusharjoittelusta on säädetty.",
+      "section_number": "100",
+      "chapter_number": 9,
+      "statute_id": ""
+    },
+    {
+      "id": "46082a17-d76f-4286-a14d-1fa5647c3fae",
+      "node_type": "Section",
+      "publisher": "finlex",
+      "title": "101 §",
+      "text": "Toisen kotimaisen kielen tai vieraan kielen aineenopettajan virkaan on kelpoinen myös henkilö, joka on suorittanut humanististen tieteiden kandidaatin tutkinnon ja siinä tai erikseen arvosanan cum laude approbatur opetettavassa kielessä sekä kahden lukukauden toisen kotimaisen tai vieraan kielen opetusharjoittelun perus- tai kansakoulunopettajain valmistuslaitoksessa taikka niin kuin oppikoulunopettajain opetusharjoittelusta on säädetty. Edellä 1 momentissa tarkoitettuun virkaan on kelpoinen myös kansakoulunopettaja, joka on suorittanut arvosanan cum laude approbatur opetettavassa kielessä tai sitä vastaavan, virkaa varten järjestetyn opetusministeriön hyväksymän tutkinnon sekä kummassakin tapauksessa yhden lukukauden pituisen toisen kotimaisen tai vieraan kielen opetusharjoittelun 1 momentissa tarkoitetulla tavalla tahi erityisesti tätä virkaa varten järjestetyn, kouluhallituksen hyväksymän opetusharjoittelun.",
+      "section_number": "101",
+      "chapter_number": 9,
+      "statute_id": ""
+    },
+    {
+      "id": "70a47f32-4849-421f-8a8b-eaeec39f4573",
+      "node_type": "Section",
+      "publisher": "finlex",
+      "title": "102 §",
+      "text": "Lehtorin virkaan on kelpoinen henkilö, joka on suorittanut ylemmän korkeakoulututkinnon ja siinä tai erillisinä aineenopettajan kasvatustieteelliset opinnot sekä aineenopettajan koulutusohjelmaan tai suuntautumisvaihtoehtoon kuuluvat opetettavan aineen opinnot tai niitä vastaavat opinnot virkaan kuuluvassa aineessa. Vastaavuus on osoitettava korkeakoulun antamalla todistuksella. Jos lehtorin virkaan kuuluu kolme tai useampia aineita, vaaditaan 1 momentin mukainen kelpoisuus vähintään kahdessa virkaan kuuluvassa aineessa ja muissa aineissa vähintään 15 opintoviikon laajuiset ainetta vastaavan tieteenalan tai -alojen taikka opinalan opinnot tai arvosana approbatur taikka luokanopettajan koulutusohjelmaan kuuluvat aineen erikoistumisopinnot. Kouluhallitus antaa tarvittaessa määräykset siitä, minkä tieteenalan tai -alojen taikka opinalan katsotaan vastaavan virkaan kuuluvaa ainetta. Jos henkilö on suorittanut korkeakoulututkinnon luokanopettajan koulutusohjelman mukaan tai peruskoulun luokanopettajan taikka kansakoulunopettajan tutkinnon, on kelpoisuusehtona aineenopettajan kasvatustieteellisten opintojen asemesta vähintään 9 opintoviikon laajuinen opetusharjoittelu ja siihen liitettävät opetusopin opinnot. Lehtorin virkaan on kelpoinen myös henkilö, jolla on tämän asetuksen voimaantullessa kelpoisuus valtion oppikoulun nuoremman lehtorin virkaan. Opetusharjoittelua normaalilyseossa ei vaadita hakijalta, joka on suorittanut kahden lukukauden pituisen vieraan kielen tai toisen kotimaisen kielen opetusharjoittelun peruskoulunopettajain tai kansakoulunopettajain valmistuslaitoksessa taikka peruskoulun luokanopettajan tai kansakoulunopettajan tutkinnon ja lisäksi yhden lukukauden pituisen vieraan kielen tai toisen kotimaisen kielen opetusharjoittelun peruskoulunopettajain tai kansakoulunopettajain valmistuslaitoksessa.",
+      "section_number": "102",
+      "chapter_number": 9,
+      "statute_id": ""
+    },
+    {
+      "id": "d12d0c33-01ab-44ff-8295-da4666794af1",
+      "node_type": "Section",
+      "publisher": "finlex",
+      "title": "103 §",
+      "text": "Luokanopettajan virkaa vastaavaan erityisluokanopettajan virkaan on kelpoinen henkilö, joka on suorittanut: Aineenopettajan tai lehtorin virkaa vastaavaan erityisluokanopettajan virkaan on kelpoinen henkilö, jolla on kelpoisuus peruskoulun vastaavaan opettajanvirkaan ja joka on tutkinnossa tai erillisinä suorittanut virkaan soveltuvat erityisopetuksen erikoistumisopinnot tai erityispedagogiikan erikoistumiskurssin. Erityisopettajan virkaan on kelpoinen henkilö, joka on suorittanut: Luokanopettajan virkaa vastaavan harjaantumisopetuksen erityisluokanopettajan virkaan on kelpoinen myös henkilö, joka on suorittanut lastentarhanopettajan tutkinnon tai humanististen tieteiden kandidaatin tutkinnon sekä lisäksi kehitysvammaisten tai harjaantumiskoulun erityisopetuksen osa-alueelle suuntautuvat erilliset erityisopettajan opinnot. Esiasteen erityisluokanopettajan virkaan on kelpoinen henkilö, joka on kelpoinen soveltuvaan erityisluokanopettajan virkaan tai joka on suorittanut lastentarhanopettajan tutkinnon ja virkaa vastaavalle erityisopetuksen osa-alueelle suuntautuvat erilliset erityisopettajan opinnot tai virkaa vastaavalla opintosuunnalla erityisopettajan tutkinnon.",
+      "section_number": "103",
+      "chapter_number": 9,
+      "statute_id": ""
+    },
+    {
+      "id": "eb5079d5-e7c4-46e3-8c6a-51b60220042a",
+      "node_type": "Section",
+      "publisher": "finlex",
+      "title": "104 §",
+      "text": "Henkilö, joka on saanut erivapauden tai asetuksen nojalla kelpoisuuden oppi-, kansa-, perus- tai harjaantumiskoulun opettajan virkaan, on kelpoinen peruskoulun opettajan ja rehtorin virkaan, johon vaaditaan vastaava kelpoisuus.",
+      "section_number": "104",
+      "chapter_number": 9,
+      "statute_id": ""
+    },
+    {
+      "id": "521ba839-40b5-4a97-bd13-d19189fafdbd",
+      "node_type": "Section",
+      "publisher": "finlex",
+      "title": "105 §",
+      "text": "Oppilaskodinhoitajan virkaan on kelpoinen henkilö, jolla on kelpoisuus peruskoulun kotitalouden aineenopettajan virkaan tai joka on saanut opettajanvalmistuslaitokselta kelpoisuustodistuksen asuntolanhoitajan tai oppilaskodinhoitajan virkaan.",
+      "section_number": "105",
+      "chapter_number": 9,
+      "statute_id": ""
+    },
+    {
+      "id": "38936673-0389-4ff6-9bf1-c685ddf67c0e",
+      "node_type": "Section",
+      "publisher": "finlex",
+      "title": "106 §",
+      "text": "Tuntiopettajaksi on kelpoinen henkilö, jolla on asianomaisen aineen aineenopettajan tai lehtorin taikka opinto-ohjaajan kelpoisuus. Kelpoisuuden tuntiopettajan tehtävään tuottaa myös kouluhallituksen hyväksymän laitoksen tai henkilön antama todistus siitä, että asianomaisella on tarpeelliset tiedot ja taidot sekä kyky antaa opetusta.",
+      "section_number": "106",
+      "chapter_number": 9,
+      "statute_id": ""
+    },
+    {
+      "id": "2aa30661-bc98-4cc5-9503-90baf61cb42f",
+      "node_type": "Section",
+      "publisher": "finlex",
+      "title": "107 §",
+      "text": "Viran väliaikaiseksi hoitajaksi ja tuntiopettajaksi voidaan enintään lukuvuodeksi kerrallaan ottaa henkilö, jolla, vaikkakaan ei täytä edellä tässä luvussa säädettyjä kelpoisuusehtoja, on riittävä taito ja kyky viran tai tehtävän hoitamiseen.",
+      "section_number": "107",
+      "chapter_number": 9,
+      "statute_id": ""
+    },
+    {
+      "id": "6d0351e5-b41b-4b20-959c-96a9ea001cfc",
+      "node_type": "Section",
+      "publisher": "finlex",
+      "title": "108 §",
+      "text": "Avoimeksi tullut virka täytetään vakinaisesti elokuun 1 päivästä lukien. Lakkautuspalkalla oleva on velvollinen ottamaan hänelle tarjotun viran vastaan seuraavan kuukauden 1 päivänä sen jälkeen, kun viran vastaanottamiseen velvoittava päätös on annettu hänelle tiedoksi.",
+      "section_number": "108",
+      "chapter_number": 10,
+      "statute_id": ""
+    },
+    {
+      "id": "020168d8-ef99-43de-8d49-9a6bf924ba46",
+      "node_type": "Section",
+      "publisher": "finlex",
+      "title": "109 §",
+      "text": "Vakinaisesti täytettävä virka on koululautakunnan julistettava haettavaksi virallisessa lehdessä sekä jossakin muussa koulun opetuskielellä ilmestyvässä asianomaisten viranhaltijain keskuuteen yleisesti leviävässä lehdessä. Hakuaika on vähintään 20 ja enintään 30 päivää. Ilmoituksen tulee olla kummassakin lehdessä vähintään 15 päivää ennen hakuajan päättymistä, lehden ilmestymispäivä mukaan luettuna. Jos viranhaltija toimii sekä suomen- että ruotsinkielisissä kouluissa, hakuilmoitus on julkaistava virallisessa lehdessä molemmilla kielillä sekä suomen- ja ruotsinkielisessä edellä tarkoitetussa muussa lehdessä. Väliaikaisesti täytettävä avoin virka voidaan julistaa haettavaksi muullakin tarkoituksenmukaisella tavalla.",
+      "section_number": "109",
+      "chapter_number": 10,
+      "statute_id": ""
+    },
+    {
+      "id": "7f251ea8-9682-4967-bd7c-880d5238b1e5",
+      "node_type": "Section",
+      "publisher": "finlex",
+      "title": "110 §",
+      "text": "Hakijan on liitettävä hakemukseensa kelpoisuuden osoittavat todistukset ja nimikirjan ote tai, jos hakijasta ei ole pidetty nimikirjaa, virkatodistus ja kouluhallituksen vahvistaman kaavan mukainen ansioluettelo. Hakijan on lisäksi liitettävä hakemukseensa voimassa oleva, tutkimukseen perustuva lääkärintodistus siitä, ettei hän sairasta tartunnanvaarallista tuberkuloosia. Koululautakunnan vaatimuksesta hakijan on myös esitettävä tätä täydellisempi selvitys terveydentilastaan. Jolleivät hakemuksen liitteet ole alkuperäisiä, niiden tulee olla julkisen notaarin tai kahden esteettömän henkilön oikeaksi todistamat. Milloin koululautakunta, lääninhallitus tai kouluhallitus niin vaatii, hakija on velvollinen esittämään alkuperäisen todistuksen nähtäväksi. Virkatodistus tai nimikirjan ote ei saa olla annettu eikä ansioluettelo laadittu kuutta kuukautta ennen hakuajan päättymistä. Hakemus on toimitettava koululautakunnalle. Hakemus voidaan lähettää postitse, niin kuin siitä on erikseen säädetty.",
+      "section_number": "110",
+      "chapter_number": 10,
+      "statute_id": ""
+    },
+    {
+      "id": "9d846237-51db-48ee-a449-e53bd4bb67df",
+      "node_type": "Section",
+      "publisher": "finlex",
+      "title": "111 §",
+      "text": "Hakijoista on laadittava kouluhallituksen ohjeiden mukainen luettelo, joka on lähetettävä hyvissä ajoin ennen vaalia koululautakunnan jäsenille. Hakuajan päätyttyä on koululautakunnan viipymättä toimitettava vaali. Virkakelpoisten hakijoiden puuttuessa sekä milloin koulun etu sitä vaatii, virka on julistettava uudelleen haettavaksi. Siltä varalta, ettei valittu hakija ota virkaa vastaan, koululautakunta voi valita varalle yhden tai kaksi hakijaa kutakin avoinna olevaa virkaa kohti. Hakijan, joka haluaa vaalipäätöksen alistettavaksi lääninhallitukselle, tulee ilmoittaa siitä koululautakunnalle säädetyssä määräajassa. Mikäli kukaan hakijoista ei tee mainittua ilmoitusta, kutsuu koululautakunta nimitetyn hoitamaan virkaa ja, jos hän ottaa viran vastaan, antaa hänelle nimittämiskirjan ja ilmoittaa päätöksen lääninhallitukselle ja, jos valittu on toisen kunnan palveluksessa, tämän kunnan koululautakunnalle. Jos hakija tahtoo peruuttaa hakemuksensa, on hänen ilmoitettava siitä koululautakunnalle. Peruutettua hakemusta ei saa ottaa huomioon virkaa täytettäessä.",
+      "section_number": "111",
+      "chapter_number": 10,
+      "statute_id": ""
+    },
+    {
+      "id": "92abed9e-b474-411a-a37c-f990dae20f6a",
+      "node_type": "Section",
+      "publisher": "finlex",
+      "title": "112 §",
+      "text": "Milloin vaalipäätös on alistettava lääninhallituksen vahvistettavaksi, on alistukseen liitettävä ote koululautakunnan kokouksen pöytäkirjasta. Lisäksi alistukseen tulee liittää hakuilmoitus merkinnöin minä päivänä se on julkaistu ja missä lehdissä taikka millä muulla tavoin virka on julistettu haettavaksi sekä 111 §:n 1 momentissa mainittu luettelo ja kaikki hakemukset liitteineen. Vaalipäätös on alistettava viipymättä, ei kuitenkaan ennen kuin 14 päivän kuluttua päätöksen tiedoksiannosta.",
+      "section_number": "112",
+      "chapter_number": 10,
+      "statute_id": ""
+    },
+    {
+      "id": "707d9587-abd4-430b-976c-792565d1252f",
+      "node_type": "Section",
+      "publisher": "finlex",
+      "title": "113 §",
+      "text": "Lääninhallituksen on viipymättä ratkaistava vaaliasia. Vahvistettuaan vaalin lääninhallitus ilmoittaa päätöksensä vaalin toimittajalle. Jos vaalimenettelyssä on tapahtunut virhe, jonka takia vaalia ei voida vahvistaa tai jos taitavin ja soveliain hakija on vaalissa sivuutettu, on lääninhallituksen kumottava vaali virheelliseltä osalta ja palautettava asia kokonaan tai osittain uudelleen käsiteltäväksi ja esitettävä asian laadusta riippuen joko uuden vaalin toimittamista, viran uudelleen haettavaksi julistamista, viran täyttämisen raukeamaan jättämistä tai muuta virheen oikaisemiseksi tarpeellista toimenpidettä. Jos koululautakunnan uusi päätös poikkeaa lääninhallituksen esityksestä, on se yksityiskohtaisesti perusteltava. Jos lääninhallitus ei voi yhtyä koululautakunnan uuteen tai uudistettuun päätökseen, sen on alistettava asia kouluhallituksen ratkaistavaksi. Lääninhallituksen on perusteltava kielteinen päätöksensä. Vaalipäätöksen saatua lainvoiman koululautakunta kutsuu valitun hoitamaan virkaa ja, jos hän ottaa viran vastaan, antaa hänelle nimittämiskirjan ja ilmoittaa asiasta lääninhallitukselle ja, jos valittu on toisen kunnan palveluksessa, tämän kunnan koululautakunnalle.",
+      "section_number": "113",
+      "chapter_number": 10,
+      "statute_id": ""
+    },
+    {
+      "id": "76d93cd1-635c-4a4c-bf0c-504ad7398940",
+      "node_type": "Section",
+      "publisher": "finlex",
+      "title": "114 §",
+      "text": "Milloin valittu ilmoittaa 14 päivän kuluessa lainvoimaisesta nimittämistä koskevasta päätöksestä tiedon saatuaan, ettei hän ota virkaa vastaan, kutsuu koululautakunta sen, jonka lautakunta on valinnut tai lääninhallitus vahvistanut ensimmäiselle varasijalle valituksi, virkaa hoitamaan. Milloin ensimmäiselle varasijalle valittukaan ei edellä esitetyn mukaisesti ota virkaa vastaan, kutsuu koululautakunta vastaavasti toiselle varasijalle valitun virkaa hoitamaan ja, jos tämäkään ei ota virkaa vastaan, vastaavasti seuraaville varasijoille valitut. Jos varasijalle valittu ottaan viran vastaan, on koululautakunnan tehtävä 111 §:n tai 113 §:n mukainen ilmoitus.",
+      "section_number": "114",
+      "chapter_number": 10,
+      "statute_id": ""
+    },
+    {
+      "id": "3ba221c8-b34a-4ba3-8ace-fb12c644874d",
+      "node_type": "Section",
+      "publisher": "finlex",
+      "title": "115 §",
+      "text": "Peruskoulun opettajan tulee: Edellä mainittujen tehtävien suorittamiseksi opettaja on velvollinen myös osallistumaan koulutyön kehittämistä ja suunnittelua koskeviin neuvotteluihin ja kokouksiin sekä kodin ja koulun yhteistyöhön. Koululautakunta vapauttaa ilmoituksesta opettajan, joka ei kuulu peruskoululain 28 §:n 1 momentissa tarkoitettuun uskontokuntaan, osallistumasta päivänavauksiin ja uskonnollisiin tilaisuuksiin. Vapautettu opettaja on kuitenkin tarvittaessa velvollinen pitämään osan päivänavauksista. Mitä edellä tässä pykälässä on säädetty opettajan tehtävistä, on soveltuvin osin voimassa myös tuntiopettajan ja muun opetusta antavan henkilön tehtävistä. Opettaja ei saa ottaa palkattua sivutointa, ellei hän ole saanut siihen lupaa. Opettaja on velvollinen opettamaan toisessakin kunnan koululaitokseen kuuluvassa samankielisessä koulussa, jollei omassa koulussa ole hänen opetusvelvollisuuttaan vastaavaa tuntimäärää.",
+      "section_number": "115",
+      "chapter_number": 11,
+      "statute_id": ""
+    },
+    {
+      "id": "1b74de70-c4d0-47c3-b4d8-99c524bf55e2",
+      "node_type": "Section",
+      "publisher": "finlex",
+      "title": "116 §",
+      "text": "Peruskoulun opettajan tai tuntiopettajan tulee suorittaa hänelle määrätyt opetuksen ohjausta, koulukirjaston, kokoelmien ja opetusvälineiden hoitoa, koulun yhteisten musiikkiesitysten järjestämistä sekä keittolatoiminnan ohjausta ja valvontaa koskevat tehtävät kouluhallituksen ohjeiden mukaan.",
+      "section_number": "116",
+      "chapter_number": 11,
+      "statute_id": ""
+    },
+    {
+      "id": "a155525d-2500-48af-a830-cc1778b5ed2d",
+      "node_type": "Section",
+      "publisher": "finlex",
+      "title": "117 §",
+      "text": "Peruskoulun oppilaskodinhoitajan tehtävänä on: Jos oppilaskodissa on kaksi tai useampia oppilaskodinhoitajia, voidaan tarvittaessa tehtävät jakaa heidän kesken, sen mukaan kuin koululautakunta määrää.",
+      "section_number": "117",
+      "chapter_number": 11,
+      "statute_id": ""
+    },
+    {
+      "id": "51981e34-0a89-47cb-a454-4cf2e9015200",
+      "node_type": "Section",
+      "publisher": "finlex",
+      "title": "118 §",
+      "text": "Palvelulisän myöntämisestä peruskoulun viranhaltijalle ja tuntiopettajalle on voimassa, mitä kunnan virkasäännössä on määrätty. Mitä 1 momentissa on säädetty, on soveltuvin osin voimassa määrävuosikorotuksen myöntämisestä.",
+      "section_number": "118",
+      "chapter_number": 11,
+      "statute_id": ""
+    },
+    {
+      "id": "0401fcf2-c163-4254-ae8d-edf659116cda",
+      "node_type": "Section",
+      "publisher": "finlex",
+      "title": "119 §",
+      "text": "Peruskoulun viranhaltijan on haettava raskauden ja synnytyksen vuoksi virkavapautta kirjallisesti viimeistään 70 päivää ennen laskettua synnytysaikaa. Hakemukseen on liitettävä sairausvakuutuslain 28 §:n mukaan työnantajalle suoritettavan äitiysrahan hakemista varten kunnallisen äitiysneuvolan tai lääkärin antama todistus raskauden kestoajasta. Viranhaltijan, jolle on myönnetty virkavapautta raskauden ja synnytyksen vuoksi, tulee toimittaa virkavapauden myöntäneelle viranomaiselle myös todistus sairausvakuutuslain 30 §:ssä edellytetystä jälkitarkastuksesta viipymättä tarkastuksessa käytyään. Mitä 1 ja 2 momentissa on säädetty, on soveltuvin osin voimassa myös tuntiopettajasta.",
+      "section_number": "119",
+      "chapter_number": 11,
+      "statute_id": ""
+    },
+    {
+      "id": "1c6c76b3-09ae-4089-96c7-383bc2a32ee8",
+      "node_type": "Section",
+      "publisher": "finlex",
+      "title": "120 §",
+      "text": "Peruskoulun viranhaltijan, joka hakee virkavapautta sairauden perusteella, on todistettava sairautensa, jollei asianomaisen kunnan virkasäännössä enintään viisi vuorokautta kestävän sairauden osalta ole toisin määrätty, sairausvakuutuslain mukaisen päivärahan hakemista varten vahvistetun kaavan mukaisella lääkärintodistuksella tai terveydenhoitajan antamalla todistuksella. Mikäli sairaus on kuitenkin kestänyt yli viisi vuorokautta, on se todistettava edellä mainitun mukaisella lääkärintodistuksella. Opetusministeriöllä on oikeus määrätyn ajanjakson tai alueen taikka muulla tavoin rajoitettujen tapausten osalta erityisestä syystä määrätä edellä sanotusta poikkeavasti. Jollei viranomaisella ole käytettävissään sairausvakuutuslain 28 §:n mukaan työnantajalle suoritettavan päivä- tai äitiysrahan hakemista varten tarvittavia tietoja ja selvityksiä, viranhaltijan on toimitettava nämä viranomaiselle. Mitä 1 ja 2 momentissa on säädetty, on soveltuvin osin voimassa myös tuntiopettajasta.",
+      "section_number": "120",
+      "chapter_number": 11,
+      "statute_id": ""
+    },
+    {
+      "id": "c72bd7c9-0073-41dc-b3e6-29bbee5dbb06",
+      "node_type": "Section",
+      "publisher": "finlex",
+      "title": "121 §",
+      "text": "Koululautakunta antaa pyynnöstä viranhaltijalle ja tuntiopettajalle todistuksen hänen viran tai tehtävän hoidostaan ja käytöksestään.",
+      "section_number": "121",
+      "chapter_number": 11,
+      "statute_id": ""
+    },
+    {
+      "id": "d3378146-d291-4e14-bf77-01e6c056ee25",
+      "node_type": "Section",
+      "publisher": "finlex",
+      "title": "122 §",
+      "text": "Jos viranhaltija tai tuntiopettaja on syyllistynyt sellaiseen virheeseen tai laiminlyöntiin, joka ei anna aihetta kurinpitotoimiin, koululautakunta voi asianomaista kuultuaan antaa hänelle kirjallisen huomautuksen, josta on tehtävä merkintä koululautakunnan pöytäkirjaan.",
+      "section_number": "122",
+      "chapter_number": 11,
+      "statute_id": ""
+    },
+    {
+      "id": "7bcde002-4b14-4cc3-b045-3de3a7da5730",
+      "node_type": "Section",
+      "publisher": "finlex",
+      "title": "123 §",
+      "text": "Kurinpitoasiassa toimitetusta tutkimuksesta on laadittava pöytäkirja. Kuulustelu on toimitettava esteettömän henkilön läsnäollessa. Rangaistusvaatimus on esitettävä kirjallisesti koululautakunnalle. Koululautakunnan on ennen päätöksen tekemistä varattava asianomaiselle tilaisuus kirjallisen selityksen antamiseen sekä, jos siihen on syytä, kuultava häntä myös suullisesti. Koululautakunnan päätös on todistettavasti annettava tiedoksi pöytäkirjanotteella asianomaiselle ja tutkimuksen suorittaneelle viran haltijalle. Lautakunnan on ilmoitettava päätöksestään myös asianomaiselle lääninhallitukselle ja johtokunnalle.",
+      "section_number": "123",
+      "chapter_number": 11,
+      "statute_id": ""
+    },
+    {
+      "id": "a0989728-fc9b-4a53-b6bd-a5fe92fa9e3a",
+      "node_type": "Section",
+      "publisher": "finlex",
+      "title": "124 §",
+      "text": "Viranhaltijan ja tuntiopettajan, joka haluaa erota virasta tai tehtävästä, on pyydettävä eroa kirjallisesti. Ero myönnetään yleensä 1 päivästä elokuuta. Painavasta syystä ero on kuitenkin myönnettävä muustakin ajankohdasta. Viranhaltijalle ja tuntiopettajalle eron myöntää ja erokirjan antaa koululautakunta. Erokirjaan merkitään palvelusaika, virkavapaudet ja niiden syyt. Mitä tässä momentissa on säädetty, on soveltuvin osin voimasssa myös tuntiopettajasta.",
+      "section_number": "124",
+      "chapter_number": 11,
+      "statute_id": ""
+    },
+    {
+      "id": "95fe2dcd-7dcb-4e1f-a3b3-7df3d0de6dff",
+      "node_type": "Section",
+      "publisher": "finlex",
+      "title": "125 §",
+      "text": "Erityisluokanopettajan viran haltijan, joka on toiminut peruskoulun viranhaltijain palkkauksesta, eläkkeestä ja perhe-eläkkeestä annetun asetuksen (165/72) 25 §:n tarkoittamana apukoulun tai tarkkailuluokan opettajana tai tämän asetuksen mukaisen vastaavan erityisluokan opettajana, eläkeikä on 55 vuotta edellyttäen, että hänellä on vähintään 30 vuotta eläkeaikaa ja että hän on toiminut mainittujen erityisluokkien opettajana vähintään 15 vuotta. Erityisluokan opettajanviran haltija on velvollinen eroamaan virasta heinäkuun 31 päivänä sinä kalenterivuonna, jolloin hän täyttää 60 vuotta, jollei lääninhallitus anna hänelle oikeutta pitempään virassa pysymiseen. Mitä 1 momentissa on säädetty, on vastaavasti voimassa erityiskoulun rehtorin viran haltijasta.",
+      "section_number": "125",
+      "chapter_number": 11,
+      "statute_id": ""
+    },
+    {
+      "id": "1189cde3-3c50-4749-9176-95a1abd69cfb",
+      "node_type": "Section",
+      "publisher": "finlex",
+      "title": "126 §",
+      "text": "Eläkkeen ja perhe-eläkkeen myöntää valtiokonttori. Hakemus on tehtävä valtiokonttorin vahvistamalla lomakkeella ja siihen on liitettävä valtiokonttorin määräämä selvitys.",
+      "section_number": "126",
+      "chapter_number": 11,
+      "statute_id": ""
+    },
+    {
+      "id": "4b44d37c-fc15-4e29-b85f-6972f404cde3",
+      "node_type": "Section",
+      "publisher": "finlex",
+      "title": "127 §",
+      "text": "Viranhaltijoista ja tuntiopettajista on laadittava vahvistetun kaavan mukainen nimikirja. Kouluhallitus vahvistaa 110 §:ssä tarkoitetun ansioluettelon kaavan noudattaen soveltuvin osin, mitä nimikirjasta on säädetty ja määrätty.",
+      "section_number": "127",
+      "chapter_number": 11,
+      "statute_id": ""
+    },
+    {
+      "id": "475f189b-8c43-44ab-abdd-695b72778399",
+      "node_type": "Section",
+      "publisher": "finlex",
+      "title": "128 §",
+      "text": "Peruskoulun sijoituspaikaksi on valittava oppilaiden koulumatkojen kannalta mahdollisimman edullinen riittävän suuri alue, johon rakennukset ovat rakennuspaikan, vedensaannin ja viemäröinnin puolesta tarkoituksenmukaisesti sijoitettavissa ja joka on terveellinen ja rauhallinen. Myös liikenneturvallisuus ja taloudelliset näkökohdat on otettava huomioon. Peruskoulun huonetilat on mahdollisuuksien mukaan sijoitettava niin lähelle muuta samankielistä oppilaitosta, että tarvittaessa voidaan käyttää toisen koulun opettajia ja huonetiloja toisen koulun tarpeisiin.",
+      "section_number": "128",
+      "chapter_number": 12,
+      "statute_id": ""
+    },
+    {
+      "id": "245c4fa6-ef03-489f-a0b0-a3c92ee4e01d",
+      "node_type": "Section",
+      "publisher": "finlex",
+      "title": "129 §",
+      "text": "Peruskoulun rakennukset ja tonttialue on pidettävä koulun toiminnan sekä turvallisuuden ja viihtyisyyden kannalta tarkoituksenmukaisessa kunnossa.",
+      "section_number": "129",
+      "chapter_number": 12,
+      "statute_id": ""
+    },
+    {
+      "id": "be999b94-d5fc-4932-90e9-2747acd76ae8",
+      "node_type": "Section",
+      "publisher": "finlex",
+      "title": "130 §",
+      "text": "Peruskoulun omien huonetilojen ja tonttialueen tai sen osan käyttötarkoitusta ei saa ilman kouluhallituksen suostumusta pysyvästi muuttaa. Peruskoulun kiinteistöä, opetustiloja, kalustoa, kirjastoa ja opetusvälineitä saadaan korvauksetta käyttää muun kunnallisen oppilaitoksen ja yleisen kirjaston tarpeisiin, mikäli siitä ei aiheudu sanottavaa haittaa peruskoulun toiminnalle. Asiasta päättää koululautakunta.",
+      "section_number": "130",
+      "chapter_number": 12,
+      "statute_id": ""
+    },
+    {
+      "id": "24a657b1-9b4c-44ff-ac49-51340ee1225f",
+      "node_type": "Section",
+      "publisher": "finlex",
+      "title": "131 §",
+      "text": "Peruskoulun, lukion ja yleisen kirjaston valtionosuuksista ja -avustuksista sekä lainoista annetun lain (1112/78) 18 §:n 2 momentin nojalla muuhun käyttöön luovutetussa koulurakennuksessa kunta saa omalla kustannuksellaan tehdä muutos- ja perusparannustöitä, jotka ovat tarpeen rakennuksen käyttämiseksi sanotussa lainkohdassa mainittuihin tarkoituksiin edellyttäen, että kunta omalla kustannuksellaan saattaa rakennuksen koulun toiminnan kannalta tarkoituksenmukaiseen kuntoon siinä tapauksessa, että se tarvitaan uudelleen koulun käyttöön.",
+      "section_number": "131",
+      "chapter_number": 12,
+      "statute_id": ""
+    },
+    {
+      "id": "5a10d99d-6cb6-45ff-9633-70db8c31a88e",
+      "node_type": "Section",
+      "publisher": "finlex",
+      "title": "132 §",
+      "text": "Lupaa peruskoulukiinteistön tai -huoneiston käyttöön muuhun kuin 130 §:n 2 momentissa tai peruskoulun, lukion ja yleisen kirjaston valtionosuuksista ja -avustuksista sekä lainoista annetun lain 18 §:n 2 momentissa säädettyyn tarkoitukseen on haettava hyvissä ajoin johtokunnalta, jollei luvan myöntäminen johtosäännön perusteella kuulu koululautakunnalle tai koulutoimen johtajalle. Hakemuksesta on annettava tieto peruskoulun johtajalle sekä päätöksestä tieto hakijalle ja koulun johtajalle. Lupaa ei saa myöntää tilaisuuksiin, joista olisi merkittävää haittaa peruskoululle tai peruskoulurakennuksen yhteydessä olevassa huoneistossa asuvalle.",
+      "section_number": "132",
+      "chapter_number": 12,
+      "statute_id": ""
+    },
+    {
+      "id": "69ebd6c9-676b-48a7-a6fb-02ce03575e75",
+      "node_type": "Section",
+      "publisher": "finlex",
+      "title": "133 §",
+      "text": "Peruskoulun kalustoa, kirjastoa ja opetusvälineitä on täydennettävä siten, että ne pysyvät koulutoimen vaatimusten mukaisina. Koulukirjaston tulee olla kasvatusta ja opetusta tukeva käsikirjasto. Kouluhallitus antaa tarvittaessa kunnille ohjeita kaluston, opetusvälineiden ja koulukirjastojen hankinnoista, hoitamisesta ja käyttämisestä.",
+      "section_number": "133",
+      "chapter_number": 12,
+      "statute_id": ""
+    },
+    {
+      "id": "462422b9-d9f7-47f1-8d3b-f515d1c8c068",
+      "node_type": "Section",
+      "publisher": "finlex",
+      "title": "134 §",
+      "text": "Peruskoulun viranhaltijan ja tuntiopettajan sekä muun koulukohtaisen hallintoelimen kuin johtokunnan päätökseen ei saa hakea muutosta valittamalla paitsi, jos viranhaltijalle on siirretty koululautakunnan tehtävä, jota koskevaan koululautakunnan päätökseen saa hakea muutosta valittamalla. Peruskoulun johtajan päätökseen, joka koskee 14 §:n 1 momentin 10 kohdassa tai 38§:ssä tarkoitettua asiaa, saa kuitenkin hakea muutosta valittamalla kirjallisesti koululautakunnalle 14 päivän kuluessa päätöksen tiedoksisaannista. Valitusoikeutta ei ole koululautakunnan päätöksestä, jolla on ratkaistu johtajan päätöksestä tehty valitus.",
+      "section_number": "134",
+      "chapter_number": 13,
+      "statute_id": ""
+    },
+    {
+      "id": "75f967a0-8a15-444e-b396-313f0114a498",
+      "node_type": "Section",
+      "publisher": "finlex",
+      "title": "135 §",
+      "text": "Johtokunnan päätökseen haetaan muutosta valittamalla kirjallisesti koululautakunnalle 14 päivän kuluessa siitä kun päätös on julkipantu koulun ilmoitustaululle tai, milloin päätös on annettava asianomaiselle tiedoksi, tämän saatua tiedon päätöksestä. Johtokunnan päätökseen, joka koskee työsuunnitelman hyväksymistä, työjärjestystä, uuden oppikirjan käyttöönottamista tai oppilaalle annettavaa kirjallista varoitusta, ei saa hakea muutosta valittamalla. Valitusoikeutta ei ole koululautakunnan päätöksestä, jolla on ratkaistu johtokunnan päätöksestä tehty valitus paitsi jos päätös koskee oppilaan vapauttamista kielen opiskelusta.",
+      "section_number": "135",
+      "chapter_number": 13,
+      "statute_id": ""
+    },
+    {
+      "id": "871d4648-6234-4807-86b3-42f179792e5d",
+      "node_type": "Section",
+      "publisher": "finlex",
+      "title": "136 §",
+      "text": "Jollei jäljempänä toisin säädetä, koululautakunnan ja lääninhallituksen päätökseen haetaan muutosta valittamalla kouluhallitukselle, sen mukaan kuin muutoksenhausta hallintoasioissa annetussa laissa (154/50) on säädetty. Milloin päätös on lääninhallituksen vahvistettava, valitusaika alkaa päätöksen vahvistamispäivästä. Myös koululautakunnalla on opetussuunnitelmaa koskevassa asiassa valitusoikeus lääninhallituksen päätöksestä. Kurinpitoasiassa tutkimuksen suorittaneella viran haltijalla on valitusoikeus viranhaltijan ja tuntiopettajan kurinpitoasiaa koskevasta päätöksestä.",
+      "section_number": "136",
+      "chapter_number": 13,
+      "statute_id": ""
+    },
+    {
+      "id": "1424e093-09bf-4d58-a3b6-6e0a305b7222",
+      "node_type": "Section",
+      "publisher": "finlex",
+      "title": "137 §",
+      "text": "Koululautakunnan päätökseen ei saa valittamalla hakea muutosta, jos päätös koskee:",
+      "section_number": "137",
+      "chapter_number": 13,
+      "statute_id": ""
+    },
+    {
+      "id": "27948377-ca18-495a-84c6-6b3ccae837da",
+      "node_type": "Section",
+      "publisher": "finlex",
+      "title": "138 §",
+      "text": "Lääninhallituksen päätökseen ei saa valittamalla hakea muutosta, jos päätös koskee avoimen viran hoitajan vaalin vahvistamista tai päätöstä, jolla lääninhallitus on määrännyt avoimen viran hoitajan. Valittamalla ei saa hakea muutosta myöskään lääninhallituksen päätökseen, joka koskee oppilasarvostelua, luokalta siirtämistä sekä oikeutta päästä erityiseen tutkintoon.",
+      "section_number": "138",
+      "chapter_number": 13,
+      "statute_id": ""
+    },
+    {
+      "id": "2722070d-4b08-405b-9a2b-96eb8e557545",
+      "node_type": "Section",
+      "publisher": "finlex",
+      "title": "139 §",
+      "text": "Kouluhallituksen päätökseen haetaan muutosta sen mukaan kuin muutoksenhausta hallintoasioissa annetussa laissa on säädetty. Kouluhallituksen päätökseen, joka koskee peruskoulun viranhaltijan siirtämistä toiseen virkaan, ei saa hakea muutosta valittamalla. Kouluhallituksen päätökseen, jolla on ratkaistu lääninhallituksen päätöksestä tehty valitus, ei saa hakea muutosta valittamalla, jos päätös koskee oppilaan määräaikaista erottamista koulusta, oppilaan ottamista tai siirtämistä erityisluokalle, opetussuunnitelmaa tai viranhaltijan nimittämistä. Kouluhallituksen päätökseen, jolla on ratkaistu lääninhallituksen kouluhallituksen ratkaistavaksi alistama asia, ei saa hakea muutosta valittamalla. Kouluhallituksen päätökseen, jolla on ratkaistu koululautakunnan päätöksestä tehty valitus, ei saa hakea muutosta valittamalla, paitsi jos päätös koskee peruskoulun viranhaltijan tai tuntiopettajan kurinpitoasiaa ja siinä on viranhaltijalle tai tuntiopettajalle annettu varoitusta ankarampi rangaistus.",
+      "section_number": "139",
+      "chapter_number": 13,
+      "statute_id": ""
+    },
+    {
+      "id": "3265e02f-c3cb-45ef-bc60-85d35981c9e8",
+      "node_type": "Section",
+      "publisher": "finlex",
+      "title": "140 §",
+      "text": "Valituksesta huolimatta voidaan muu kuin viranhaltijan, tuntiopettajan ja oppilaan kurinpitorangaistusta koskeva päätös panna täytäntöön, jollei muutoksenhaku päätöksen täytäntöönpanon johdosta käy hyödyttömäksi tai viranomainen, jolle valitus on tehty, kiellä täytäntöönpanoa. Jos päätös on alistettava valtion viranomaisen vahvistettavaksi, ei sitä saa panna täytäntöön ennen vahvistamista, ellei toisin ole säädetty.",
+      "section_number": "140",
+      "chapter_number": 13,
+      "statute_id": ""
+    },
+    {
+      "id": "1684278a-da51-4598-8bb3-532c69ea4adf",
+      "node_type": "Section",
+      "publisher": "finlex",
+      "title": "141 §",
+      "text": "Koululautakunnan päätökseen haetaan muutosta kunnanhallitukselta kunnallisvalituksin, jos päätös koskee: Jos luvan myöntäminen 1 momentin 5 kohdassa tarkoitetussa asiassa kuuluu johtosäännön perusteella koulutoimen johtajalle, haetaan koulutoimen johtajan päätökseen muutosta kunnanhallitukselta kunnallisvalituksin.",
+      "section_number": "141",
+      "chapter_number": 13,
+      "statute_id": ""
+    },
+    {
+      "id": "284b4523-f233-45da-80ac-71247d10915a",
+      "node_type": "Section",
+      "publisher": "finlex",
+      "title": "142 §",
+      "text": "Mitä tässä luvussa on säädetty koululautakunnasta, on vastaavasti voimassa kaksikielisen kunnan koululautakunnan osastosta.",
+      "section_number": "142",
+      "chapter_number": 13,
+      "statute_id": ""
+    },
+    {
+      "id": "325bcc3c-5aa0-437e-85e7-0583b699e4e9",
+      "node_type": "Section",
+      "publisher": "finlex",
+      "title": "143 §",
+      "text": "Lääninoikeuden päätöksestä, jolla on ratkaistu viran lakkauttamista tai uudelleen järjestämistä koskevasta kunnanvaltuuston päätöksestä tehty valitus, ei saa hakea muutosta valittamalla.",
+      "section_number": "143",
+      "chapter_number": 13,
+      "statute_id": ""
+    },
+    {
+      "id": "689b60bb-f4b4-4591-9c71-a8c324bcb9fa",
+      "node_type": "Section",
+      "publisher": "finlex",
+      "title": "144 §",
+      "text": "Joka katsoo, ettei kunnan viranomainen ole antanut hänelle virkasuhteesta johtuvaa taloudellista etuutta sellaisena kuin se olisi ollut hänelle suoritettava, saa, jollei laissa tai asetuksessa toisin säädetä, kirjallisesti vaatia siihen oikaisua asianomaiselta viranomaiselta. Viranomaisen on annettava asiassa päätös. Oikaisuvaatimusta ei saa tehdä asiassa, joka kuuluu työtuomioistuimen toimivaltaan, jollei työtuomioistuin siitä annetun lain 1 §:n 2 momentin nojalla ole päättänyt olla ratkaisematta asiaa. Jollei oikaisuvaatimusta ole tehty kolmen vuoden kuluessa sen kalenterivuoden päättymisestä lukien, jonka aikana etuus olisi pitänyt antaa, on oikeus siihen menetetty. Oikaisuvaatimukseen annettuun kunnan viranomaisen päätökseen voidaan hakea muutosta kunnallisvalituksin.",
+      "section_number": "144",
+      "chapter_number": 13,
+      "statute_id": ""
+    },
+    {
+      "id": "2f062495-fefc-4468-b560-75d6d94f1e61",
+      "node_type": "Section",
+      "publisher": "finlex",
+      "title": "145 §",
+      "text": "Syyslukukauden koulutyön päättyessä pidetään joulujuhla ja kevätlukukauden koulutyön päättyessä lukuvuoden päättäjäiset. Kevätlukukaudella on pyrittävä järjestämään oppilastöiden ja kerhotoiminnan esittelyjä.",
+      "section_number": "145",
+      "chapter_number": 14,
+      "statute_id": ""
+    },
+    {
+      "id": "b0b6e204-0cb6-4478-9820-e4cfa0ead5fc",
+      "node_type": "Section",
+      "publisher": "finlex",
+      "title": "146 §",
+      "text": "Peruskoulun oppilaille, joiden päivittäinen työaika on päättynyt tai joilla ei ole työjärjestyksen mukaista työskentelyä, voidaan opetusministeriön määräämin perustein järjestää vapaaehtoisia koulun työtä edistäviä kerhoja, joihin voi osallistua muunkin kuin asianomaisen peruskoulun oppilaita, sekä lukion oppilaita.",
+      "section_number": "146",
+      "chapter_number": 14,
+      "statute_id": ""
+    },
+    {
+      "id": "aadedd9c-54c1-4826-8732-a18ffbde3d62",
+      "node_type": "Section",
+      "publisher": "finlex",
+      "title": "147 §",
+      "text": "Peruskoululain 85 §:ssä tarkoitettua nuorisotyötä voidaan järjestää, mikäli toimintaan ilmoittautuu vähintään kahdeksan peruskoulunkäyntinsä päättänyttä nuorta tai vähintään viisi erityisluokalla ollutta peruskoulunkäyntinsä päättänyttä nuorta. Työjärjestys, jossa määrätään ohjaaja tai ohjaajat ja, jos se on tarpeen, yhteinen johtaja, laaditaan ja vahvistetaan niin kuin 30-32 §:ssä on säädetty. Aloitettua toimintaa saadaan jatkaa niin kauan kuin vähintään neljä peruskoulunkäyntinsä päättänyttä nuorta ottaa siihen säännöllisesti osaa. Pyydettäessä on osanottajalle annettava todistus hänen suorituksistaan ja taidoistaan toiminnan aikana.",
+      "section_number": "147",
+      "chapter_number": 14,
+      "statute_id": ""
+    },
+    {
+      "id": "f8370e2f-3054-498c-94fe-6420f12eb95a",
+      "node_type": "Section",
+      "publisher": "finlex",
+      "title": "148 §",
+      "text": "Jos muu henkilö kuin peruskoulun oppilas haluaa suorittaa erityisessä tutkinnossa peruskoulun oppimäärän tai osan siitä ja sen perusteella saada todistuksen, tulee hänen ilmoittautua asuinpaikkansa yläasteen piirin peruskoulun johtajalle. Kuulustelun toimittavat johtajan määräämät opettajat. Jos kuulusteltavan tiedot ja taidot vastaavat peruskoulun oppimääriä, johtaja antaa hänelle siitä kouluhallituksen vahvistaman kaavan mukaisen todistuksen tai päästötodistuksen. Kuulusteltavan tulee saadakseen todistuksen peruskoulun oppimäärän suorittamisesta osoittaa saavuttaneensa peruskoulun yläasteella vaadittavat tiedot äidinkielessä, vieraassa kielessä, toisessa kotimaisessa kielessä, historiassa, yhteiskuntaopissa, matematiikassa, fysiikassa, kemiassa, biologiassa ja maantiedossa. Koulun johtaja voi pätevästä syystä sallia, että peruskoulun oppilas suorittaa erityisessä tutkinnossa sellaisen koulun opetussuunnitelmaan kuuluvan aineen oppimäärän, jonka opetukseen hän ei ole osallistunut. Tutkinnosta on soveltuvin osin voimassa, mitä 1 momentissa on säädetty.",
+      "section_number": "148",
+      "chapter_number": 14,
+      "statute_id": ""
+    },
+    {
+      "id": "37a93dd4-ab80-46ce-bcb0-3da5237bc4a5",
+      "node_type": "Section",
+      "publisher": "finlex",
+      "title": "149 §",
+      "text": "Edellä 148 §:ssä tarkoitetun tutkinnon arvostelusta on soveltuvin osin voimassa, mitä tässä asetuksessa on arvostelusta säädetty. Edellä 148 §:ssä tarkoitetut tutkinnot ovat maksuttomia. Kansanopiston sekä kansalais- ja työväenopiston oikeudesta antaa todistuksia peruskoulun oppimäärän tai sen osan suorittamisesta säädetään erikseen.",
+      "section_number": "149",
+      "chapter_number": 14,
+      "statute_id": ""
+    },
+    {
+      "id": "001d02e8-aab9-424e-97f9-0bf2352112a1",
+      "node_type": "Section",
+      "publisher": "finlex",
+      "title": "150 §",
+      "text": "Peruskoulun oppimäärän suorittaminen tuottaa virkaan tai toimeen tai oppilaitokseen pääsemiseksi saman kelpoisuuden kuin kansakoulun tai keskikoulun oppimäärän suorittaminen, jollei erityisiä vaatimuksia oppilaitokseen pääsemiseksi peruskoulun aineiden oppimäärien ja arvosanojen osalta ole säädetty tai määrätty.",
+      "section_number": "150",
+      "chapter_number": 14,
+      "statute_id": ""
+    },
+    {
+      "id": "121eaba9-d79c-4afe-be44-9134bc69555b",
+      "node_type": "Section",
+      "publisher": "finlex",
+      "title": "151 §",
+      "text": "Koululautakunta voi ottaa opetusharjoittelijaksi peruskouluun peruskoulun tai lukion opettajaksi opiskelevan henkilön. Harjoittelija ei saa ilman erityistä syytä antaa opetusta muuten kuin opettajan läsnäollessa. Kuitenkin hänelle voidaan järjestää opettajan valvonnan alaisena erikseen opetettava ryhmä.",
+      "section_number": "151",
+      "chapter_number": 14,
+      "statute_id": ""
+    },
+    {
+      "id": "187eb579-9e32-4db8-a7a3-4cdb752479b3",
+      "node_type": "Section",
+      "publisher": "finlex",
+      "title": "152 §",
+      "text": "Vapaana oleva peruskoululain 90 §:ssä tarkoitettu asunto on annettava ensisijassa asianomaisen koulun johtajalle, toisessa sijassa koulun perheelliselle opettajalle, kolmannessa sijassa koulun muulle opettajalle ja sen jälkeen samaa etusijajärjestystä noudattaen muun koulun johtajalle tai opettajalle, aina virkaiän mukaan.",
+      "section_number": "152",
+      "chapter_number": 14,
+      "statute_id": ""
+    },
+    {
+      "id": "121c704e-c4ee-45e5-af25-0c90ad28d648",
+      "node_type": "Section",
+      "publisher": "finlex",
+      "title": "153 §",
+      "text": "Kunta voi järjestää peruskoulun yleiseksi kehittämiseksi tarpeellista kokeilua opetusministeriön luvalla. Kokeilussa voidaan poiketa peruskoululain ja tämän asetuksen säännöksistä. Luvan myöntämisen ehtona on kouluhallituksen hyväksymä kokeiluohjelma. Lupa myönnetään kokeilun kestoajaksi tai lukuvuodeksi kerrallaan. Kokeilu on järjestettävä kokeiluohjelman ja kouluhallituksen ohjeiden mukaisesti. Kunta voi valtioneuvoston luvalla perustaa kokeilukoulun.",
+      "section_number": "153",
+      "chapter_number": 14,
+      "statute_id": ""
+    },
+    {
+      "id": "5e826044-3b0c-4e62-8dd4-0af84a85b044",
+      "node_type": "Section",
+      "publisher": "finlex",
+      "title": "154 §",
+      "text": "Tämä asetus tulee voimaan 1 päivänä elokuuta 1985. Ennen tämän asetuksen voimaantuloa voidaan ryhtyä asetuksen täytäntöönpanon edellyttämiin toimenpiteisiin.",
+      "section_number": "154",
+      "chapter_number": 15,
+      "statute_id": ""
+    },
+    {
+      "id": "a041cba5-5ad8-4b11-836b-fc2278ee2e64",
+      "node_type": "Section",
+      "publisher": "finlex",
+      "title": "155 §",
+      "text": "Tämän asetuksen voimaan tultua koeaikaa palveleville peruskoulun opettajille annetaan nimittämiskirja heidän suoritettuaan, jollei 95 §:n säännöksestä muuta johdu, kouluhallinnon tutkinnon.",
+      "section_number": "155",
+      "chapter_number": 15,
+      "statute_id": ""
+    },
+    {
+      "id": "3d293987-c78b-40ba-905b-a16470f91c21",
+      "node_type": "Section",
+      "publisher": "finlex",
+      "title": "156 §",
+      "text": "Jos henkilöllä on liikuntatieteellisistä tutkinnoista annetun asetuksen (299/78), teologisista tutkinnoista annetun asetuksen (527/78), kasvatustieteellisistä tutkinnoista ja opinnoista annetun asetuksen (530/78), taideteollisen alan korkeakoulututkinnoista annetun asetuksen (948/78), humanistisista tutkinnoista annetun asetuksen (1080/78), luonnontieteellisistä tutkinnoista annetun asetuksen (1081/78), musiikkialan korkeakoulututkinnoista annetun asetuksen (563/80) tai musiikinopettajan tutkintoon johtavien opintojen väliaikaisesta järjestämisestä Sibelius-Akatemiassa annetun asetuksen (314/83) perusteella oikeus opiskella aikaisemmin voimassa olleiden säännösten mukaan, on hän tutkinnon suoritettuaan kelpoinen peruskoulun asianomaiseen aineenopettajan ja lehtorin virkaan siten kuin valtion oppikoulujen opettajan virkojen ja toimien haettavaksi julistamisesta ja hakemisesta sekä opettajien pätevyysehdoista annetussa asetuksessa (620/48) on säädetty. Henkilö, joka on suorittanut asianomaisen alan korkeakoulututkinnon ennen 1 momentissa mainitun tutkintoasetuksen voimaantuloa tai joka on suorittanut kuvaamataidonopettajan, kotitalousopettajan, kotitalouden ja tekstiilikäsityön opettajan taikka musiikinopettajan tutkinnon, on kelpoinen vastaavasti 1 momentin mukaisesti. Tämän asetuksen voimaantullessa 26 päivänä kesäkuuta 1970 annetun peruskouluasetuksen 87 §:n mukaisena kokeiluna toimivalla peruskoulun erillisellä esiluokalla voi edelleen olla luokanopettajan virka. Henkilö, joka on suorittanut lastentarhanopettajan tutkinnon ja joka tämän asetuksen voimaan tullessa toimii erillisen esiluokan opettajana, on kelpoinen luokanopettajan virkaan, johon on yhdistetty erityinen velvollisuus opettaa esiluokalla.",
+      "section_number": "156",
+      "chapter_number": 15,
+      "statute_id": ""
+    },
+    {
+      "id": "e3a31708-b7b8-4476-8263-48bc6094a14e",
+      "node_type": "Section",
+      "publisher": "finlex",
+      "title": "157 §",
+      "text": "Lukuvuonna 1985-86 noudatetaan peruskoulun kahdeksannella ja yhdeksännellä vuosiluokalla ja lukuvuonna 1986-87 yhdeksännellä vuosiluokalla 26 päivänä kesäkuuta 1970 annetun peruskouluasetuksen opetusryhmiä koskevia säännöksiä, jollei koululla ole lukuvuonna 1984-85 ollut lupaa kokeilutehtävän vuoksi poiketa opetusryhmiä koskevista säännöksistä. Sen estämättä, mitä 33 ja 35 §:ssä on säädetty, peruskoulun oppilaille annetaan kielenopetusta tämän asetuksen voimaan tullessa voimassa olevien säännösten ja määräysten mukaan, kunnes kunnan kieliohjelma on vahvistettu. Elämänkatsomustiedon sekä peruskoululain 28§:n 2 ja 3 momentissa tarkoitetun uskonnon opetuksen osalta opetussuunnitelmaan kuuluvista asioista päättää ennen peruskoululain 30§:n perusteella laaditun opetussuunnitelman vahvistamista koululautakunta.",
+      "section_number": "157",
+      "chapter_number": 15,
+      "statute_id": ""
+    },
+    {
+      "id": "9fef3a9e-d01a-43b4-909f-2031d8685f59",
+      "node_type": "Section",
+      "publisher": "finlex",
+      "title": "158 §",
+      "text": "Tämän asetuksen 46§:ää sovelletaan 1 päivästä elokuuta 1987 lukien. Kunta voi lukuvuosina 1985-86 ja 1986-87 ylläpitää ne erityisluokanopettajan ja erityisopettajan virat, jotka sillä on ollut lukuvuonna 1984-85, ja antaa erityisopetusta samassa laajuudessa kuin sitä on annettu lukuvuonna 1984-85. Lisäksi kunta voi lukuvuosina 1985-86 ja 1986-87 perustaa ne erityisluokanopettajan virat, joita peruskoulussa kehitysvammaisille annettavan erityisopetuksen järjestäminen edellyttää, sekä kouluhallituksen luvalla muitakin erityisopettajan ja erityisluokanopettajan virkoja.",
+      "section_number": "158",
+      "chapter_number": 15,
+      "statute_id": ""
+    }
+  ],
+  "clauses": [
+    {
+      "id": "45e49486-6f07-4de7-9049-569d0e97934a",
+      "node_type": "Clause",
+      "publisher": "finlex",
+      "title": "§ 3 mom 1",
+      "text": "1) seurata peruskoulun toimintaa;",
+      "clause_number": 1,
+      "section_number": "3",
+      "statute_id": ""
+    },
+    {
+      "id": "c7e89294-7877-488a-86e2-9bb67fa7aab6",
+      "node_type": "Clause",
+      "publisher": "finlex",
+      "title": "§ 3 mom 2",
+      "text": "2) huolehtia, että koulun taloutta hoidetaan voimassa olevien säännösten sekä koululautakunnan ja kunnan muiden viranomaisten antamien ohjeiden ja määräysten mukaisesti, sekä valmistaa vuosittain ehdotus talousarvioksi, jollei johtosäännössä toisin määrätä;",
+      "clause_number": 2,
+      "section_number": "3",
+      "statute_id": ""
+    },
+    {
+      "id": "922d2a9e-2e93-4f58-9fe7-c35ad58bc901",
+      "node_type": "Clause",
+      "publisher": "finlex",
+      "title": "§ 3 mom 3",
+      "text": "3) kehittää ja tukea peruskoulun kasvatustyötä;",
+      "clause_number": 3,
+      "section_number": "3",
+      "statute_id": ""
+    },
+    {
+      "id": "b51e04e5-6e73-47cc-8c0e-68012c2dfcd6",
+      "node_type": "Clause",
+      "publisher": "finlex",
+      "title": "§ 3 mom 4",
+      "text": "4) tehdä tarvittaessa ehdotuksia opetussuunnitelmasta sekä opetusväline- ja kirjastohankinnoista;",
+      "clause_number": 4,
+      "section_number": "3",
+      "statute_id": ""
+    },
+    {
+      "id": "ee780768-f7b0-4dfe-80a1-76ee728932c1",
+      "node_type": "Clause",
+      "publisher": "finlex",
+      "title": "§ 3 mom 5",
+      "text": "5) päättää työsuunnitelmasta ja asianomaisen aineen opettajia kuultuaan hyväksyttyjen oppikirjojen käyttöönottamisesta ja alistaa päätöksensä koululautakunnalle sekä päättää koulun työjärjestyksestä ja opettajan 116§:ssä tarkoitetuista tehtävistä;",
+      "clause_number": 5,
+      "section_number": "3",
+      "statute_id": ""
+    },
+    {
+      "id": "a1aee2f1-a380-4908-bb8d-8659d3afed46",
+      "node_type": "Clause",
+      "publisher": "finlex",
+      "title": "§ 3 mom 6",
+      "text": "6) ylläpitää ja edistää koulun sisäistä sekä koulun ja kodin välistä yhteistyötä ja tiedotustoimintaa sekä järjestää huoltajille tarkoitettuja tiedotus- ja neuvottelutilaisuuksia ja kutsua niihin osanottajat sekä päättää niiden ohjelmasta ja puheenjohtajasta;",
+      "clause_number": 6,
+      "section_number": "3",
+      "statute_id": ""
+    },
+    {
+      "id": "e593852c-5254-4c89-9408-e0713420e0f9",
+      "node_type": "Clause",
+      "publisher": "finlex",
+      "title": "§ 3 mom 7",
+      "text": "7) antaa koulun ja oppilaskodin järjestyssäännöt kuultuaan opettajakuntaa, muuta henkilökuntaa ja oppilaskodin osalta myös oppilaskodinhoitajaa, sekä saattaa ne koululautakunnan, koulun palveluksessa olevien sekä oppilaiden ja oppilaiden huoltajien tietoon;",
+      "clause_number": 7,
+      "section_number": "3",
+      "statute_id": ""
+    },
+    {
+      "id": "757ffebc-88fd-483c-86ce-18415b8f5d1c",
+      "node_type": "Clause",
+      "publisher": "finlex",
+      "title": "§ 3 mom 8",
+      "text": "8) määrätä tarvittaessa oppilaskunnan asettamasta kolmesta ehdokkaasta oppilaskunnan ohjaajana toimiva opettaja ja hänen sijaisensa;",
+      "clause_number": 8,
+      "section_number": "3",
+      "statute_id": ""
+    },
+    {
+      "id": "ad7e764b-9a40-4cb6-9e97-9d43e8373476",
+      "node_type": "Clause",
+      "publisher": "finlex",
+      "title": "§ 3 mom 9",
+      "text": "9) antaa ohjeet opetusryhmän kokousten ja muiden vastaavien kokousten järjestämisestä sekä perusopetusryhmän ja sen luottamusoppilaan tehtävistä;",
+      "clause_number": 9,
+      "section_number": "3",
+      "statute_id": ""
+    },
+    {
+      "id": "6249fe3a-e37c-4b10-920c-f358f9c67bb9",
+      "node_type": "Clause",
+      "publisher": "finlex",
+      "title": "§ 3 mom 10",
+      "text": "10) valvoa ja kehittää peruskoulussa tapahtuvaa oppilaiden harrastustoimintaa sekä vahvistaa tarvittaessa oppilaskunnan ja kerhojen säännöt;",
+      "clause_number": 10,
+      "section_number": "3",
+      "statute_id": ""
+    },
+    {
+      "id": "5990d0c2-38c6-4bb0-a532-4550a85b786c",
+      "node_type": "Clause",
+      "publisher": "finlex",
+      "title": "§ 3 mom 11",
+      "text": "11) valvoa kouluruokailun, koulukuljetuksen ja muun oppilashuollon järjestämistä ja oppilaskodin toimintaa;",
+      "clause_number": 11,
+      "section_number": "3",
+      "statute_id": ""
+    },
+    {
+      "id": "4529efff-f1b7-40e9-a1b2-e937ec8e72d1",
+      "node_type": "Clause",
+      "publisher": "finlex",
+      "title": "§ 3 mom 12",
+      "text": "12) valvoa kouluyhteisön jäsenten oikeusturvaa ja ryhtyä toimenpiteisiin epäkohtien ilmaantuessa;",
+      "clause_number": 12,
+      "section_number": "3",
+      "statute_id": ""
+    },
+    {
+      "id": "87090b4b-e7eb-4a0f-9314-9734d8afbedf",
+      "node_type": "Clause",
+      "publisher": "finlex",
+      "title": "§ 3 mom 13",
+      "text": "13) päättää oppilaiden kurinpitorangaistuksista ja antaa lausunto oppilaan erottamisesta määräajaksi;",
+      "clause_number": 13,
+      "section_number": "3",
+      "statute_id": ""
+    },
+    {
+      "id": "ab882962-8613-477a-a818-3173b1be765b",
+      "node_type": "Clause",
+      "publisher": "finlex",
+      "title": "§ 3 mom 14",
+      "text": "14) vapauttaa peruskoulun oppilas kielen opiskelusta ja päättää tarvittaessa vahvistetun työsuunnitelman perusteella yhteisenä aineena opetettavan toisen kotimaisen kielen tai vieraan kielen sekä valinnaisen aineen vaihtamisesta;",
+      "clause_number": 14,
+      "section_number": "3",
+      "statute_id": ""
+    },
+    {
+      "id": "b6e0f42d-82b5-4611-9054-307b18dfae10",
+      "node_type": "Clause",
+      "publisher": "finlex",
+      "title": "§ 3 mom 15",
+      "text": "15) antaa pyydettäessä lausuntoja peruskoulun toimintaa koskevissa asioissa; sekä",
+      "clause_number": 15,
+      "section_number": "3",
+      "statute_id": ""
+    },
+    {
+      "id": "3c0f4e23-c196-4279-9e5d-f78948005a38",
+      "node_type": "Clause",
+      "publisher": "finlex",
+      "title": "§ 3 mom 16",
+      "text": "16) suorittaa ne muut tehtävät, jotka sille lain, asetuksen, johtosäännön tai asian laadun mukaan kuuluvat.",
+      "clause_number": 16,
+      "section_number": "3",
+      "statute_id": ""
+    },
+    {
+      "id": "a6c3d571-a00c-4738-b26d-6a1a46f64ddb",
+      "node_type": "Clause",
+      "publisher": "finlex",
+      "title": "§ 7 mom 1",
+      "text": "1) kehittää ja eheyttää koulun kasvatusta ja opetusta;",
+      "clause_number": 1,
+      "section_number": "7",
+      "statute_id": ""
+    },
+    {
+      "id": "4a8f35a5-dbf5-4b6a-a3db-60fdcff6074d",
+      "node_type": "Clause",
+      "publisher": "finlex",
+      "title": "§ 7 mom 2",
+      "text": "2) tehdä ehdotuksia opetussuunnitelmasta ja sen työsuunnitelmasta, hyväksyttyjen oppikirjojen käyttöön ottamisesta sekä opetusväline- ja kirjastohankinnoista;",
+      "clause_number": 2,
+      "section_number": "7",
+      "statute_id": ""
+    },
+    {
+      "id": "4bbb9780-201c-4886-80a5-9c3fffd3c24f",
+      "node_type": "Clause",
+      "publisher": "finlex",
+      "title": "§ 7 mom 3",
+      "text": "3) tehdä ehdotuksia koulun työrauhan ylläpitämiseksi ja edistämiseksi;",
+      "clause_number": 3,
+      "section_number": "7",
+      "statute_id": ""
+    },
+    {
+      "id": "f06f60bf-f7f9-4b59-be10-e38d69ba211b",
+      "node_type": "Clause",
+      "publisher": "finlex",
+      "title": "§ 7 mom 4",
+      "text": "4) tehdä kunnanvaltuustolle, mikäli mahdollista kolme henkilöä käsittävä ehdotus koulun johtokunnan jäseneksi valittavasta opettajasta ja hänen varajäsenestään;",
+      "clause_number": 4,
+      "section_number": "7",
+      "statute_id": ""
+    },
+    {
+      "id": "4380549d-b0b6-4253-aa0d-5b9c132bf3c4",
+      "node_type": "Clause",
+      "publisher": "finlex",
+      "title": "§ 7 mom 5",
+      "text": "5) tehdä ehdotus tai antaa lausunto koulun ja oppilaskodin järjestyssäännöistä sekä pyydettäessä muistakin koulun toimintaa koskevista asioista; sekä",
+      "clause_number": 5,
+      "section_number": "7",
+      "statute_id": ""
+    },
+    {
+      "id": "f577e5eb-96de-4261-83ac-28ca7c797d27",
+      "node_type": "Clause",
+      "publisher": "finlex",
+      "title": "§ 7 mom 6",
+      "text": "6) suorittaa ne muut tehtävät, jotka sille lain, asetuksen, johtosäännön tai asian laadun mukaan kuuluvat.",
+      "clause_number": 6,
+      "section_number": "7",
+      "statute_id": ""
+    },
+    {
+      "id": "5765ac8f-7e05-41b6-afd0-1597cda8105f",
+      "node_type": "Clause",
+      "publisher": "finlex",
+      "title": "§ 10 mom 1",
+      "text": "1) valita itselleen puheenjohtaja ja sihteeri sekä tarvittaessa hallitus;",
+      "clause_number": 1,
+      "section_number": "10",
+      "statute_id": ""
+    },
+    {
+      "id": "317775e2-a78e-4783-9953-956e4dcfdb14",
+      "node_type": "Clause",
+      "publisher": "finlex",
+      "title": "§ 10 mom 2",
+      "text": "2) valita koulun johtokuntaan kaksi oppilasjäsentä ja heille henkilökohtaiset varajäsenet;",
+      "clause_number": 2,
+      "section_number": "10",
+      "statute_id": ""
+    },
+    {
+      "id": "2e7bcca2-1256-4377-ab91-1e05fd0b23c4",
+      "node_type": "Clause",
+      "publisher": "finlex",
+      "title": "§ 10 mom 3",
+      "text": "3) tehdä johtokunnalle kolme henkilöä käsittävä ehdotus oppilaskunnan ohjaajaksi valittavasta opettajasta ja hänen sijaisestaan;",
+      "clause_number": 3,
+      "section_number": "10",
+      "statute_id": ""
+    },
+    {
+      "id": "103b699f-ff6e-44fd-94c8-8e93099195fd",
+      "node_type": "Clause",
+      "publisher": "finlex",
+      "title": "§ 10 mom 4",
+      "text": "4) järjestää oppilaiden yhteistoimintaa ja vapaata harrastustoimintaa;",
+      "clause_number": 4,
+      "section_number": "10",
+      "statute_id": ""
+    },
+    {
+      "id": "b1f19925-c298-49d9-868b-9fd32219251d",
+      "node_type": "Clause",
+      "publisher": "finlex",
+      "title": "§ 10 mom 5",
+      "text": "5) tehdä ehdotus tai antaa lausunto koulun järjestyssäännöistä sekä muistakin koulun toimintaa koskevista asioista; sekä",
+      "clause_number": 5,
+      "section_number": "10",
+      "statute_id": ""
+    },
+    {
+      "id": "6a086b62-fa3d-4077-a8bc-4f99f06c884b",
+      "node_type": "Clause",
+      "publisher": "finlex",
+      "title": "§ 10 mom 6",
+      "text": "6) suorittaa muut tehtävät, jotka sille lain, asetuksen, johtosäännön tai asian laadun mukaan kuuluvat.",
+      "clause_number": 6,
+      "section_number": "10",
+      "statute_id": ""
+    },
+    {
+      "id": "aa5c074e-d5a6-43c7-be81-6f11b9052b11",
+      "node_type": "Clause",
+      "publisher": "finlex",
+      "title": "§ 12 mom 1",
+      "text": "1) johtokunnan valitsemista varten kunnanvaltuustolle tehtävästä, mikäli mahdollista kolme henkilöä käsittävästä ehdotuksesta mainitun henkilökunnan keskuudesta valittavaksi jäseneksi ja hänen varajäsenekseen;",
+      "clause_number": 1,
+      "section_number": "12",
+      "statute_id": ""
+    },
+    {
+      "id": "e540bd59-aeaf-4fd8-accf-4865609d15e2",
+      "node_type": "Clause",
+      "publisher": "finlex",
+      "title": "§ 12 mom 2",
+      "text": "2) kouluyhteistyötä varten valittavasta 75§:ssä tarkoitetusta henkilökunnan edustajasta ja hänen sijaisestaan; sekä",
+      "clause_number": 2,
+      "section_number": "12",
+      "statute_id": ""
+    },
+    {
+      "id": "4df919ae-91fd-4069-8545-aaea57fbfd8e",
+      "node_type": "Clause",
+      "publisher": "finlex",
+      "title": "§ 12 mom 3",
+      "text": "3) ehdotuksesta tai lausunnosta, joka koskee koulun järjestyssääntöjä tai koulun toimintaa.",
+      "clause_number": 3,
+      "section_number": "12",
+      "statute_id": ""
+    },
+    {
+      "id": "31c6e912-5b99-4d6c-8b71-83fd9f94e28e",
+      "node_type": "Clause",
+      "publisher": "finlex",
+      "title": "§ 14 mom 1",
+      "text": "1) johtaa, ohjata ja valvoa koulun kasvatus- ja opetustyötä ja muuta toimintaa sekä kansliatehtävien suorittamista, valvoa koulukeittolaa ja oppilaskotia, huolehtia siitä, että koulussa vallitsee yhteistyö ja hyvä järjestys sekä auttaa koulun palveluksessa olevia työrauhan ja järjestyksen ylläpitämisessä;",
+      "clause_number": 1,
+      "section_number": "14",
+      "statute_id": ""
+    },
+    {
+      "id": "0c4f0ba5-4d97-4c07-b7a1-1127252ca54d",
+      "node_type": "Clause",
+      "publisher": "finlex",
+      "title": "§ 14 mom 2",
+      "text": "2) koululautakunnan määräämän ajan kuluessa antaa johtokunnalle opettajien kanssa neuvotellen valmistettu ehdotus työsuunnitelmaksi;",
+      "clause_number": 2,
+      "section_number": "14",
+      "statute_id": ""
+    },
+    {
+      "id": "4c200eb1-5e5c-4146-b4de-e60bcd4906ca",
+      "node_type": "Clause",
+      "publisher": "finlex",
+      "title": "§ 14 mom 3",
+      "text": "3) seurata ja ohjata opettajien antamaa opetusta;",
+      "clause_number": 3,
+      "section_number": "14",
+      "statute_id": ""
+    },
+    {
+      "id": "1a051d35-ca73-42ae-8637-916ec5adb665",
+      "node_type": "Clause",
+      "publisher": "finlex",
+      "title": "§ 14 mom 4",
+      "text": "4) hoitaa koulun taloutta siten kuin johtosäännössä määrätään;",
+      "clause_number": 4,
+      "section_number": "14",
+      "statute_id": ""
+    },
+    {
+      "id": "bdae5067-9bd3-49b2-a586-ba25f5be4f9d",
+      "node_type": "Clause",
+      "publisher": "finlex",
+      "title": "§ 14 mom 5",
+      "text": "5) osallistua johtajakoulutukseen;",
+      "clause_number": 5,
+      "section_number": "14",
+      "statute_id": ""
+    },
+    {
+      "id": "6f87ea71-f93c-4787-a669-7fcdf720eb9f",
+      "node_type": "Clause",
+      "publisher": "finlex",
+      "title": "§ 14 mom 6",
+      "text": "6) kutsua tarvittaessa opettajakunnan kokous koolle ja valvoa, että kokouksen päätökset merkitään pöytäkirjaan ja pannaan täytäntöön;",
+      "clause_number": 6,
+      "section_number": "14",
+      "statute_id": ""
+    },
+    {
+      "id": "6540dda5-bec3-4ce3-8b57-5c732d05e120",
+      "node_type": "Clause",
+      "publisher": "finlex",
+      "title": "§ 14 mom 7",
+      "text": "7) huolehtia johtokunnan päätösten täytäntöönpanosta, jollei toisin ole säädetty tai määrätty;",
+      "clause_number": 7,
+      "section_number": "14",
+      "statute_id": ""
+    },
+    {
+      "id": "147393f0-f364-4374-b4d7-bee8abcc5796",
+      "node_type": "Clause",
+      "publisher": "finlex",
+      "title": "§ 14 mom 8",
+      "text": "8) ilmoittaa koulun palveluksessa oleville heidän tietoonsa saatettavista opetusta ja työturvallisuutta sekä muista koulua koskevista kouluhallituksen, lääninhallituksen ja kunnan viranomaisten kirjeistä ja muista ilmoituksista;",
+      "clause_number": 8,
+      "section_number": "14",
+      "statute_id": ""
+    },
+    {
+      "id": "db387171-4d36-45e9-9282-afa77c2b681e",
+      "node_type": "Clause",
+      "publisher": "finlex",
+      "title": "§ 14 mom 9",
+      "text": "9) järjestää tehtävien hoito koulun viranhaltijalle tai tuntiopettajalle sattuneen odottamattoman esteen ajaksi, kuitenkin enintään kolmeksi päiväksi, ja ilmoittaa asiasta heti sille, joka myöntää virkavapauden tai vapautuksen tehtävän suorittamisesta;",
+      "clause_number": 9,
+      "section_number": "14",
+      "statute_id": ""
+    },
+    {
+      "id": "c957d4ce-fcc8-47f3-8b74-d552066f67db",
+      "node_type": "Clause",
+      "publisher": "finlex",
+      "title": "§ 14 mom 10",
+      "text": "10) myöntää oppilaalle hyväksyttävästä syystä lupa enintään viikon poissaoloon koulusta;",
+      "clause_number": 10,
+      "section_number": "14",
+      "statute_id": ""
+    },
+    {
+      "id": "c263f578-1587-41ce-a528-6a3fbc025735",
+      "node_type": "Clause",
+      "publisher": "finlex",
+      "title": "§ 14 mom 11",
+      "text": "11) kutsua koolle 75 §:ssä tarkoitettu kouluyhteistyökokous ja 12 §:ssä tarkoitettu kokous;",
+      "clause_number": 11,
+      "section_number": "14",
+      "statute_id": ""
+    },
+    {
+      "id": "517f2489-ca62-4fab-b4c1-ade68d0a0f05",
+      "node_type": "Clause",
+      "publisher": "finlex",
+      "title": "§ 14 mom 12",
+      "text": "12) valvoa koulurakennusten, kaluston ja muun irtaimiston kuntoa sekä valaistusta, lämmitystä, tuuletusta ja siivousta sekä koulutontin hoitoa;",
+      "clause_number": 12,
+      "section_number": "14",
+      "statute_id": ""
+    },
+    {
+      "id": "4af45a80-ed11-4eab-b1b3-447c815f6439",
+      "node_type": "Clause",
+      "publisher": "finlex",
+      "title": "§ 14 mom 13",
+      "text": "13) huolehtia koulun arkiston sekä oppilas- ja kalustoluettelojen hoidosta ja muiden kansliakirjojen pitämisestä;",
+      "clause_number": 13,
+      "section_number": "14",
+      "statute_id": ""
+    },
+    {
+      "id": "e2d228dd-1605-4d04-9e1f-6272ab465037",
+      "node_type": "Clause",
+      "publisher": "finlex",
+      "title": "§ 14 mom 14",
+      "text": "14) huolehtia opetus- ja havaintovälineiden sekä oppilaille annettavien oppikirjojen ja koulutarvikkeiden varastojen hoidosta ja luetteloimisesta;",
+      "clause_number": 14,
+      "section_number": "14",
+      "statute_id": ""
+    },
+    {
+      "id": "3173287f-474a-4341-b0b4-494da962ba19",
+      "node_type": "Clause",
+      "publisher": "finlex",
+      "title": "§ 14 mom 15",
+      "text": "15) valmistaa kouluhallituksen, lääninhallituksen ja kunnan viranomaisten määräämät vuosikertomukset, tilastolliset tiedot ja muut ilmoitukset sekä toimittaa ne määräaikoina asianomaisille;",
+      "clause_number": 15,
+      "section_number": "14",
+      "statute_id": ""
+    },
+    {
+      "id": "1181f677-990e-40fd-9e8d-3b2e1a0ae6a8",
+      "node_type": "Clause",
+      "publisher": "finlex",
+      "title": "§ 14 mom 16",
+      "text": "16) ilmoittaa koululautakunnalle kouluun saapumatta jäänyt oppivelvollinen oppilas sekä toiseen koulupiiriin kuuluvan oppilaan ottamisesta ja eroamisesta; sekä",
+      "clause_number": 16,
+      "section_number": "14",
+      "statute_id": ""
+    },
+    {
+      "id": "785ee19f-ea74-43b4-a68f-1bc9064dad89",
+      "node_type": "Clause",
+      "publisher": "finlex",
+      "title": "§ 14 mom 17",
+      "text": "17) suorittaa ne muut tehtävät, jotka hänelle lain, asetuksen, johtosäännön tai asian laadun mukaan kuuluvat.",
+      "clause_number": 17,
+      "section_number": "14",
+      "statute_id": ""
+    },
+    {
+      "id": "efd30b22-bb07-425a-b5bd-9a67a50b8b45",
+      "node_type": "Clause",
+      "publisher": "finlex",
+      "title": "§ 58 mom 1",
+      "text": "1) opettaja voi nuhdella oppilasta;",
+      "clause_number": 1,
+      "section_number": "58",
+      "statute_id": ""
+    },
+    {
+      "id": "1c480ab0-6240-47de-8020-cd547cb3e44c",
+      "node_type": "Clause",
+      "publisher": "finlex",
+      "title": "§ 58 mom 2",
+      "text": "2) opettaja voi poistaa oppilaan luokasta enintään oppitunnin jäljellä olevaksi ajaksi;",
+      "clause_number": 2,
+      "section_number": "58",
+      "statute_id": ""
+    },
+    {
+      "id": "89a74df1-2a49-401d-bc10-1f43aba5cc85",
+      "node_type": "Clause",
+      "publisher": "finlex",
+      "title": "§ 58 mom 3",
+      "text": "3) johtaja voi nuhdella oppilasta;",
+      "clause_number": 3,
+      "section_number": "58",
+      "statute_id": ""
+    },
+    {
+      "id": "65f6a1a3-b0ce-4459-81b9-c700003f6c29",
+      "node_type": "Clause",
+      "publisher": "finlex",
+      "title": "§ 58 mom 4",
+      "text": "4) opettaja voi määrätä enintään kahden tunnin jälki-istunnon;",
+      "clause_number": 4,
+      "section_number": "58",
+      "statute_id": ""
+    },
+    {
+      "id": "44768b20-0c7c-4918-9e81-bb2169099fac",
+      "node_type": "Clause",
+      "publisher": "finlex",
+      "title": "§ 58 mom 5",
+      "text": "5) johtaja voi antaa kirjallisen varoituksen;",
+      "clause_number": 5,
+      "section_number": "58",
+      "statute_id": ""
+    },
+    {
+      "id": "e54f52e2-13fd-4395-9ecb-0122abf3c243",
+      "node_type": "Clause",
+      "publisher": "finlex",
+      "title": "§ 58 mom 6",
+      "text": "6) johtokunta voi antaa kirjallisen varoituksen; tai",
+      "clause_number": 6,
+      "section_number": "58",
+      "statute_id": ""
+    },
+    {
+      "id": "9c51a16f-355d-4ec1-9d71-49093ae5f6c5",
+      "node_type": "Clause",
+      "publisher": "finlex",
+      "title": "§ 58 mom 7",
+      "text": "7) koululautakunta voi erottaa oppilaan vähintään yhdeksi ja enintään kolmeksi kuukaudeksi.",
+      "clause_number": 7,
+      "section_number": "58",
+      "statute_id": ""
+    },
+    {
+      "id": "35b395f4-06e1-4779-aa22-efa226679494",
+      "node_type": "Clause",
+      "publisher": "finlex",
+      "title": "§ 82 mom 1",
+      "text": "1) yksiopettajaisen koulun opettajan palkkaukseen 13;",
+      "clause_number": 1,
+      "section_number": "82",
+      "statute_id": ""
+    },
+    {
+      "id": "9140260e-58e4-4992-a5f9-f7764ed65a3c",
+      "node_type": "Clause",
+      "publisher": "finlex",
+      "title": "§ 82 mom 2",
+      "text": "2) kaksiopettajaisen koulun toisen opettajan palkkaukseen 20;",
+      "clause_number": 2,
+      "section_number": "82",
+      "statute_id": ""
+    },
+    {
+      "id": "e8cdea13-a55f-4083-9aca-ba1fc7fe5ee5",
+      "node_type": "Clause",
+      "publisher": "finlex",
+      "title": "§ 82 mom 3",
+      "text": "3) kolmiopettajaisen koulun kolmannen opettajan palkkaukseen 40;",
+      "clause_number": 3,
+      "section_number": "82",
+      "statute_id": ""
+    },
+    {
+      "id": "95a717f7-9a69-4845-8521-2275c6689ec7",
+      "node_type": "Clause",
+      "publisher": "finlex",
+      "title": "§ 82 mom 4",
+      "text": "4) neliopettajaisen koulun neljännen opettajan palkkaukseen 80;",
+      "clause_number": 4,
+      "section_number": "82",
+      "statute_id": ""
+    },
+    {
+      "id": "edd2256c-b990-4ec6-851c-e7ee30d7f704",
+      "node_type": "Clause",
+      "publisher": "finlex",
+      "title": "§ 82 mom 5",
+      "text": "5) viisiopettajaisen koulun viidennen opettajan palkkaukseen 105;",
+      "clause_number": 5,
+      "section_number": "82",
+      "statute_id": ""
+    },
+    {
+      "id": "828dd4db-800e-4a4f-ac37-bb13b0d0f22f",
+      "node_type": "Clause",
+      "publisher": "finlex",
+      "title": "§ 82 mom 6",
+      "text": "6) kuusiopettajaisen koulun kuudennen opettajan palkkaukseen 130;",
+      "clause_number": 6,
+      "section_number": "82",
+      "statute_id": ""
+    },
+    {
+      "id": "c9d1fe1a-3b43-4929-9080-29a1333bbf2a",
+      "node_type": "Clause",
+      "publisher": "finlex",
+      "title": "§ 82 mom 7",
+      "text": "7) seitsemänopettajaisen koulun seitsemännen opettajan palkkaukseen 155;",
+      "clause_number": 7,
+      "section_number": "82",
+      "statute_id": ""
+    },
+    {
+      "id": "5487af6e-6f42-4db4-a730-636848c717c6",
+      "node_type": "Clause",
+      "publisher": "finlex",
+      "title": "§ 82 mom 8",
+      "text": "8) kahdeksanopettajaisen koulun kahdeksannen opettajan palkkaukseen 180;",
+      "clause_number": 8,
+      "section_number": "82",
+      "statute_id": ""
+    },
+    {
+      "id": "2f8c9177-c97d-4c3d-aef3-159a7e219fa6",
+      "node_type": "Clause",
+      "publisher": "finlex",
+      "title": "§ 82 mom 9",
+      "text": "9) yhdeksänopettajaisen koulun yhdeksännen opettajan palkkaukseen 205; sekä",
+      "clause_number": 9,
+      "section_number": "82",
+      "statute_id": ""
+    },
+    {
+      "id": "29889100-3c9f-44e5-ab47-9f12cd33e699",
+      "node_type": "Clause",
+      "publisher": "finlex",
+      "title": "§ 82 mom 10",
+      "text": "10) kymmenopettajaisen koulun kymmenennen opettajan palkkaukseen 230.",
+      "clause_number": 10,
+      "section_number": "82",
+      "statute_id": ""
+    },
+    {
+      "id": "4634e204-d40a-4765-8dd4-6e14c7e6d7fc",
+      "node_type": "Clause",
+      "publisher": "finlex",
+      "title": "§ 85 mom 1",
+      "text": "1) kaksi oppilaskodinhoitajan virkaa, jos oppilaskotiin sijoitettuja peruskoulun oppilaita on vähintään 40;",
+      "clause_number": 1,
+      "section_number": "85",
+      "statute_id": ""
+    },
+    {
+      "id": "5e2ccd9e-541b-4326-96f3-92c2eb646f1f",
+      "node_type": "Clause",
+      "publisher": "finlex",
+      "title": "§ 85 mom 2",
+      "text": "2) kolme oppilaskodinhoitajan virkaa, jos oppilaskotiin sijoitettuja oppilaita on vähintään 120; sekä",
+      "clause_number": 2,
+      "section_number": "85",
+      "statute_id": ""
+    },
+    {
+      "id": "6a3a007a-9a06-4cb6-8694-be768f64162f",
+      "node_type": "Clause",
+      "publisher": "finlex",
+      "title": "§ 85 mom 3",
+      "text": "3) neljä oppilaskodinhoitajan virkaa, jos oppilaskotiin sijoitettuja oppilaita on vähintään 180.",
+      "clause_number": 3,
+      "section_number": "85",
+      "statute_id": ""
+    },
+    {
+      "id": "10c78637-9e46-4ab7-a872-227c48308e5e",
+      "node_type": "Clause",
+      "publisher": "finlex",
+      "title": "§ 86 mom 1",
+      "text": "1) ensisijaisesti lakkautetaan avoin tai väliaikaisesti täytetty virka;",
+      "clause_number": 1,
+      "section_number": "86",
+      "statute_id": ""
+    },
+    {
+      "id": "3c519c4b-9fa9-4814-b3a3-2f563e7580f7",
+      "node_type": "Clause",
+      "publisher": "finlex",
+      "title": "§ 86 mom 2",
+      "text": "2) toissijaisesti lakkautetaan virka, jonka vakinainen haltija ilmoittaa siihen suostuvansa;",
+      "clause_number": 2,
+      "section_number": "86",
+      "statute_id": ""
+    },
+    {
+      "id": "54a5ad73-3636-4339-9155-dbb70fb082c4",
+      "node_type": "Clause",
+      "publisher": "finlex",
+      "title": "§ 86 mom 3",
+      "text": "3) kolmannella sijalla lakkautetaan sen vakinaisesti nimitetyn opettajan virka, joka viimeksi on ryhtynyt palvelukseen sellaisessa virassa, joka lakkautetaan;",
+      "clause_number": 3,
+      "section_number": "86",
+      "statute_id": ""
+    },
+    {
+      "id": "2b3406ab-2e49-4602-942c-8c2e33cd5b75",
+      "node_type": "Clause",
+      "publisher": "finlex",
+      "title": "§ 86 mom 4",
+      "text": "4) neljännellä sijalla lakkautetaan sen opettajan virka, jolla on vähiten virkavuosia asianomaisen kunnan alueella toimivissa oppilaitoksissa;",
+      "clause_number": 4,
+      "section_number": "86",
+      "statute_id": ""
+    },
+    {
+      "id": "2b35e6c2-8fe3-427d-826b-1d284aa9e0a3",
+      "node_type": "Clause",
+      "publisher": "finlex",
+      "title": "§ 86 mom 5",
+      "text": "5) viidennellä sijalla lakkautetaan sen opettajan virka, jolla on vähiten virkavuosia; sekä",
+      "clause_number": 5,
+      "section_number": "86",
+      "statute_id": ""
+    },
+    {
+      "id": "a7e39692-e0c6-4b99-83c7-fe2a1058b660",
+      "node_type": "Clause",
+      "publisher": "finlex",
+      "title": "§ 86 mom 6",
+      "text": "6) kuudennella sijalla lakkautetaan sen opettajan virka, joka on iältään nuorin.",
+      "clause_number": 6,
+      "section_number": "86",
+      "statute_id": ""
+    },
+    {
+      "id": "a3f80df5-030d-49ce-9a74-3811ac2dfee6",
+      "node_type": "Clause",
+      "publisher": "finlex",
+      "title": "§ 103 mom 1",
+      "text": "1) kasvatustieteiden kandidaatin tutkinnon luokanopettajan koulutusohjelman mukaan tai peruskoulun luokanopettajan taikka kansakoulunopettajan tutkinnon; sekä",
+      "clause_number": 1,
+      "section_number": "103",
+      "statute_id": ""
+    },
+    {
+      "id": "fe3c3741-bbf6-433d-96e4-666e875e7a7f",
+      "node_type": "Clause",
+      "publisher": "finlex",
+      "title": "§ 103 mom 2",
+      "text": "2) virkaan soveltuvat erilliset erityisopettajan opinnot tai virkaan soveltuvan erityisopettajan tutkinnon.",
+      "clause_number": 2,
+      "section_number": "103",
+      "statute_id": ""
+    },
+    {
+      "id": "a65e0e0a-b694-46e6-8e0e-60077614ef00",
+      "node_type": "Clause",
+      "publisher": "finlex",
+      "title": "§ 103 mom 1",
+      "text": "1) kasvatustieteiden kandidaatin tutkinnon erityiskasvatuksen koulutusohjelman mukaan tai erityispedagogiikan koulutusohjelman erityisopettajan suuntautumisvaihtoehdon mukaan;",
+      "clause_number": 1,
+      "section_number": "103",
+      "statute_id": ""
+    },
+    {
+      "id": "ced62324-8a72-43c7-b3ce-497a6265bf39",
+      "node_type": "Clause",
+      "publisher": "finlex",
+      "title": "§ 103 mom 2",
+      "text": "2) humanististen tieteiden kandidaatin tutkinnon tai vastaavan korkeakoulututkinnon sekä lisäksi virkaa vastaavalle erityisopetuksen osa-alueelle suuntautuvat erilliset erityisopettajan opinnot tai virkaa vastaavalla opintosuunnalla erityisopettajan tutkinnon; tai",
+      "clause_number": 2,
+      "section_number": "103",
+      "statute_id": ""
+    },
+    {
+      "id": "f6f326ac-47da-43a1-8e5f-7299d90d88d5",
+      "node_type": "Clause",
+      "publisher": "finlex",
+      "title": "§ 103 mom 3",
+      "text": "3) peruskoulun luokanopettajan tai kansakoulun opettajan tutkinnon sekä joko virkaan soveltuvat erilliset erityisopettajan opinnot tai virkaan soveltuvan erityisopettajan tutkinnon.",
+      "clause_number": 3,
+      "section_number": "103",
+      "statute_id": ""
+    },
+    {
+      "id": "38baa230-6e8e-4679-a232-cc3b51e9344b",
+      "node_type": "Clause",
+      "publisher": "finlex",
+      "title": "§ 115 mom 1",
+      "text": "1) pyrkiä saavuttamaan peruskoululle asetetut tavoitteet yhteistyössä oppilaiden ja heidän kotiensa kanssa;",
+      "clause_number": 1,
+      "section_number": "115",
+      "statute_id": ""
+    },
+    {
+      "id": "32228108-87ee-47f8-b417-9443abd9ec7d",
+      "node_type": "Clause",
+      "publisher": "finlex",
+      "title": "§ 115 mom 2",
+      "text": "2) noudattaa vahvistettua opetussuunnitelmaa ja käsitellä vahvistetut oppimäärät;",
+      "clause_number": 2,
+      "section_number": "115",
+      "statute_id": ""
+    },
+    {
+      "id": "e992afbf-ba07-467c-9204-6b422701425e",
+      "node_type": "Clause",
+      "publisher": "finlex",
+      "title": "§ 115 mom 3",
+      "text": "3) valmistautua huolellisesti tunneilleen ja suorittaa tunnollisesti opetustehtävänsä;",
+      "clause_number": 3,
+      "section_number": "115",
+      "statute_id": ""
+    },
+    {
+      "id": "2c8abf31-0578-4947-867b-7fe98da950d4",
+      "node_type": "Clause",
+      "publisher": "finlex",
+      "title": "§ 115 mom 4",
+      "text": "4) käyttää ja kehittää erilaisiin opetustilanteisiin soveltuvia opetusmenetelmiä ja työmuotoja, valmistella ja tarkastaa oppilaiden tehtävät ja ohjata niiden suorittamista sekä suorittaa oppilasarvostelut ja valmistaa todistukset;",
+      "clause_number": 4,
+      "section_number": "115",
+      "statute_id": ""
+    },
+    {
+      "id": "e5417fad-9445-4e49-bd85-e7178fad794b",
+      "node_type": "Clause",
+      "publisher": "finlex",
+      "title": "§ 115 mom 5",
+      "text": "5) kohdella oppilaita ystävällisesti, tasapuolisesti ja oikeudenmukaisesti, tukea heidän itsetuntoaan sekä kannustaa heitä työssään;",
+      "clause_number": 5,
+      "section_number": "115",
+      "statute_id": ""
+    },
+    {
+      "id": "38ded45e-5b41-4c39-b3a7-2898af4a00c6",
+      "node_type": "Clause",
+      "publisher": "finlex",
+      "title": "§ 115 mom 6",
+      "text": "6) käsitellä luottamuksellisesti ja tahdikkaasti oppilaan syntyperää, perhettä, uskontoa, terveyttä ja muita vastaavia seikkoja;",
+      "clause_number": 6,
+      "section_number": "115",
+      "statute_id": ""
+    },
+    {
+      "id": "a6fddf4b-1fa7-4fa4-b9c0-70cf7614ae61",
+      "node_type": "Clause",
+      "publisher": "finlex",
+      "title": "§ 115 mom 7",
+      "text": "7) antaa oman luokkansa oppilaille hyväksyttävästä syystä lupa enintään kahden päivän poissaoloon koulusta;",
+      "clause_number": 7,
+      "section_number": "115",
+      "statute_id": ""
+    },
+    {
+      "id": "1dd4c88e-7b0c-424c-b1a0-efffbaf7d2ad",
+      "node_type": "Clause",
+      "publisher": "finlex",
+      "title": "§ 115 mom 8",
+      "text": "8) ohjata ja valvoa oppilaiden käyttäytymistä kouluruokailussa, välitunneilla sekä koulualueella ja sen välittömässä läheisyydessä;",
+      "clause_number": 8,
+      "section_number": "115",
+      "statute_id": ""
+    },
+    {
+      "id": "9d13c87d-b22f-4a76-8577-6f8a0f2d948f",
+      "node_type": "Clause",
+      "publisher": "finlex",
+      "title": "§ 115 mom 9",
+      "text": "9) huolehtia tapaturman sattuessa ensiavun antamisesta oppilaalle ja tarvittaessa järjestää hänelle terveydenhoitajan tai lääkärin apua;",
+      "clause_number": 9,
+      "section_number": "115",
+      "statute_id": ""
+    },
+    {
+      "id": "875ff2e9-8238-4b5b-9981-778faee06379",
+      "node_type": "Clause",
+      "publisher": "finlex",
+      "title": "§ 115 mom 10",
+      "text": "10) neuvotella oppilaan kasvatusta koskevissa asioissa oppilaan huoltajan kanssa, jos tämä sitä pyytää tai jos siihen muutoin on aihetta;",
+      "clause_number": 10,
+      "section_number": "115",
+      "statute_id": ""
+    },
+    {
+      "id": "7e53b8ae-9a09-4d65-80f7-be8381b4c743",
+      "node_type": "Clause",
+      "publisher": "finlex",
+      "title": "§ 115 mom 11",
+      "text": "11) pitää kouluhallituksen antamien ohjeiden mukaista päiväkirjaa ja luetteloa oppilaiden poissaoloista;",
+      "clause_number": 11,
+      "section_number": "115",
+      "statute_id": ""
+    },
+    {
+      "id": "31f03c0d-42c4-4c8c-bfb3-3ae56d1ce38b",
+      "node_type": "Clause",
+      "publisher": "finlex",
+      "title": "§ 115 mom 12",
+      "text": "12) antaa valvonnassaan olevan luokan oppilaista tarvittavat luettelot ja tiedot johtajalle sekä noudattaa hänen antamiaan ohjeita;",
+      "clause_number": 12,
+      "section_number": "115",
+      "statute_id": ""
+    },
+    {
+      "id": "1acb645b-aeae-4863-a49a-bdd13971714e",
+      "node_type": "Clause",
+      "publisher": "finlex",
+      "title": "§ 115 mom 13",
+      "text": "13) huolehtia mahdollisuuksien mukaan koulun toisenkin opettajan tehtävistä, milloin tämä odottamattoman esteen takia ei voi antaa opetusta eikä muuta sijaista saada, kuitenkin enintään kolmena työpäivänä kerrallaan;",
+      "clause_number": 13,
+      "section_number": "115",
+      "statute_id": ""
+    },
+    {
+      "id": "b6e8973f-fd68-4b32-8c3c-df149432171f",
+      "node_type": "Clause",
+      "publisher": "finlex",
+      "title": "§ 115 mom 14",
+      "text": "14) hoitaa hyvin koulun omaisuutta;",
+      "clause_number": 14,
+      "section_number": "115",
+      "statute_id": ""
+    },
+    {
+      "id": "92220699-1de0-4251-b2df-87192fc39e0d",
+      "node_type": "Clause",
+      "publisher": "finlex",
+      "title": "§ 115 mom 15",
+      "text": "15) ottaa osaa koulun johtajan, johtokunnan, koululautakunnan ja lääninhallituksen kutsumiin kokouksiin; sekä",
+      "clause_number": 15,
+      "section_number": "115",
+      "statute_id": ""
+    },
+    {
+      "id": "9bc45941-0470-4191-af94-d560b9584708",
+      "node_type": "Clause",
+      "publisher": "finlex",
+      "title": "§ 115 mom 16",
+      "text": "16) suorittaa muutkin tehtävät, jotka hänelle säännösten ja määräysten tai asian laadun mukaan kuuluvat.",
+      "clause_number": 16,
+      "section_number": "115",
+      "statute_id": ""
+    },
+    {
+      "id": "0f1de251-c6d1-4420-aea7-b7a96c8b9f0a",
+      "node_type": "Clause",
+      "publisher": "finlex",
+      "title": "§ 117 mom 1",
+      "text": "1) johtaa oppilaskotia ja hoitaa hyvin siellä olevia oppilaita;",
+      "clause_number": 1,
+      "section_number": "117",
+      "statute_id": ""
+    },
+    {
+      "id": "6c46cb47-c90e-496c-8fa7-ce5c7543dd1d",
+      "node_type": "Clause",
+      "publisher": "finlex",
+      "title": "§ 117 mom 2",
+      "text": "2) laatia ehdotus oppilaskodin toimintasuunnitelmaksi sekä toimittaa ehdotus johtokunnan hyväksyttäväksi, joka toimittaa sen koululautakunnan vahvistettavaksi;",
+      "clause_number": 2,
+      "section_number": "117",
+      "statute_id": ""
+    },
+    {
+      "id": "15bb934b-129c-4f31-9260-0b0f76c2bc08",
+      "node_type": "Clause",
+      "publisher": "finlex",
+      "title": "§ 117 mom 3",
+      "text": "3) toimintasuunnitelmaa noudattaen järjestää oppilaskodin talous sekä tilittää varat;",
+      "clause_number": 3,
+      "section_number": "117",
+      "statute_id": ""
+    },
+    {
+      "id": "9031d941-5e22-46df-97b7-c29178ba2685",
+      "node_type": "Clause",
+      "publisher": "finlex",
+      "title": "§ 117 mom 4",
+      "text": "4) järjestää oppilaskodin työt ja huolehtia niiden suorittamisesta henkilökunnan ja oppilaiden avulla;",
+      "clause_number": 4,
+      "section_number": "117",
+      "statute_id": ""
+    },
+    {
+      "id": "99b3806f-bf9a-4358-807d-15321aafef75",
+      "node_type": "Clause",
+      "publisher": "finlex",
+      "title": "§ 117 mom 5",
+      "text": "5) valvoa, että oppilaat suorittavat kotitehtävänsä ja opastaa heitä siinä mahdollisuuksien mukaan sekä ohjata heitä oppilaskodissa järjestettävissä muissa tehtävissä ja vapaissa harrastuksissa;",
+      "clause_number": 5,
+      "section_number": "117",
+      "statute_id": ""
+    },
+    {
+      "id": "340ba7f5-19ba-4a09-9829-62b184b9773c",
+      "node_type": "Clause",
+      "publisher": "finlex",
+      "title": "§ 117 mom 6",
+      "text": "6) ohjata ja valvoa oppilaiden ruokailua siihen itse osallistuen;",
+      "clause_number": 6,
+      "section_number": "117",
+      "statute_id": ""
+    },
+    {
+      "id": "7e3220d1-b78c-4fc2-8a19-6b332dd34427",
+      "node_type": "Clause",
+      "publisher": "finlex",
+      "title": "§ 117 mom 7",
+      "text": "7) hoitaa sairastunutta oppilasta ja tarpeen mukaan hankkia hänelle terveydenhoitajan tai lääkärin apua;",
+      "clause_number": 7,
+      "section_number": "117",
+      "statute_id": ""
+    },
+    {
+      "id": "814ef7e1-d424-4c25-865f-538fdfb642cf",
+      "node_type": "Clause",
+      "publisher": "finlex",
+      "title": "§ 117 mom 8",
+      "text": "8) huolehtia järjestyksen säilymisestä oppilaskodissa;",
+      "clause_number": 8,
+      "section_number": "117",
+      "statute_id": ""
+    },
+    {
+      "id": "f017c13d-8372-48e5-a532-e294d7577ce8",
+      "node_type": "Clause",
+      "publisher": "finlex",
+      "title": "§ 117 mom 9",
+      "text": "9) pitää päiväkirjaa kouluhallituksen ohjeiden mukaisesti;",
+      "clause_number": 9,
+      "section_number": "117",
+      "statute_id": ""
+    },
+    {
+      "id": "060013a5-e92d-4633-b1aa-b226be27e9d6",
+      "node_type": "Clause",
+      "publisher": "finlex",
+      "title": "§ 117 mom 10",
+      "text": "10) huolehtia oppilaskodin omaisuuden hoidosta ja säilymisestä; sekä",
+      "clause_number": 10,
+      "section_number": "117",
+      "statute_id": ""
+    },
+    {
+      "id": "7131989a-87dd-43c3-b146-2e485d70b9f5",
+      "node_type": "Clause",
+      "publisher": "finlex",
+      "title": "§ 117 mom 11",
+      "text": "11) suorittaa muutkin tehtävät, jotka hänelle säännösten ja määräysten tai asian laadun mukaan kuuluvat.",
+      "clause_number": 11,
+      "section_number": "117",
+      "statute_id": ""
+    },
+    {
+      "id": "4a89a632-3c23-4a18-a624-1a2a825a763b",
+      "node_type": "Clause",
+      "publisher": "finlex",
+      "title": "§ 137 mom 1",
+      "text": "1) vakinaisen viranhaltijan tai avoimen viran hoitajan vaalia;",
+      "clause_number": 1,
+      "section_number": "137",
+      "statute_id": ""
+    },
+    {
+      "id": "b5957270-77c8-4080-a763-af53f66a117b",
+      "node_type": "Clause",
+      "publisher": "finlex",
+      "title": "§ 137 mom 2",
+      "text": "2) viransijaisen tai tuntiopettajan ottamista;",
+      "clause_number": 2,
+      "section_number": "137",
+      "statute_id": ""
+    },
+    {
+      "id": "7a0602c1-0e18-47f1-99fa-2c120d105daf",
+      "node_type": "Clause",
+      "publisher": "finlex",
+      "title": "§ 137 mom 3",
+      "text": "3) koulun johtajan, varajohtajan ja apulaisjohtajan vaalia;",
+      "clause_number": 3,
+      "section_number": "137",
+      "statute_id": ""
+    },
+    {
+      "id": "4f4f7d7e-9a05-41ef-90ba-cf84c14c2310",
+      "node_type": "Clause",
+      "publisher": "finlex",
+      "title": "§ 137 mom 4",
+      "text": "4) 122 § :ssä tarkoitetun huomautuksen antamista;",
+      "clause_number": 4,
+      "section_number": "137",
+      "statute_id": ""
+    },
+    {
+      "id": "7381157c-0b66-459f-a9b5-20f22cc8e918",
+      "node_type": "Clause",
+      "publisher": "finlex",
+      "title": "§ 137 mom 5",
+      "text": "5) työsuunnitelman vahvistamista; tai",
+      "clause_number": 5,
+      "section_number": "137",
+      "statute_id": ""
+    },
+    {
+      "id": "0e9d486a-aa5a-4b91-ab56-4db83db47fea",
+      "node_type": "Clause",
+      "publisher": "finlex",
+      "title": "§ 137 mom 6",
+      "text": "6) oppikirjan käyttöönottamisen vahvistamista.",
+      "clause_number": 6,
+      "section_number": "137",
+      "statute_id": ""
+    },
+    {
+      "id": "75c34c83-8087-4f4a-94bb-83b9b7ea833a",
+      "node_type": "Clause",
+      "publisher": "finlex",
+      "title": "§ 141 mom 1",
+      "text": "1) oppilaan koulunkäyntiä muun kuin oman piirin koulussa;",
+      "clause_number": 1,
+      "section_number": "141",
+      "statute_id": ""
+    },
+    {
+      "id": "72244042-3ddb-4ce3-8283-31c9718c75d8",
+      "node_type": "Clause",
+      "publisher": "finlex",
+      "title": "§ 141 mom 2",
+      "text": "2) majoitusta, kuljetusta sekä kuljetus- ja saattoavustusta;",
+      "clause_number": 2,
+      "section_number": "141",
+      "statute_id": ""
+    },
+    {
+      "id": "dfdcea79-7b34-4cef-b351-9336c6386fc3",
+      "node_type": "Clause",
+      "publisher": "finlex",
+      "title": "§ 141 mom 3",
+      "text": "3) kesäsiirtolaan ottamista;",
+      "clause_number": 3,
+      "section_number": "141",
+      "statute_id": ""
+    },
+    {
+      "id": "25c4e8ed-f154-406a-89c8-b7a66a27e1f5",
+      "node_type": "Clause",
+      "publisher": "finlex",
+      "title": "§ 141 mom 4",
+      "text": "4) viranhaltijoiden toimipaikkojen määräämistä;",
+      "clause_number": 4,
+      "section_number": "141",
+      "statute_id": ""
+    },
+    {
+      "id": "6c4b3d79-95d3-4fe4-8d0e-aae84c3f5854",
+      "node_type": "Clause",
+      "publisher": "finlex",
+      "title": "§ 141 mom 5",
+      "text": "5) edellä 132 §:ssä tarkoitettua asiaa, jos luvan myöntäminen johtosäännön perusteella kuuluu koululautakunnalle; tai",
+      "clause_number": 5,
+      "section_number": "141",
+      "statute_id": ""
+    },
+    {
+      "id": "33cdd92b-3d42-4ac0-983d-4300dd30622d",
+      "node_type": "Clause",
+      "publisher": "finlex",
+      "title": "§ 141 mom 6",
+      "text": "6) asiaa, joka voidaan siirtää kunnanhallituksen käsiteltäväksi.",
+      "clause_number": 6,
+      "section_number": "141",
+      "statute_id": ""
+    }
+  ],
+  "cross_references": [],
+  "raw_html_path": "C:\\Users\\danit\\finance-hack\\aalto-hackaton-2026\\data\\raw\\finlex\\Asetus (säädöskokoelma)\\Peruskouluasetus.html"
+}

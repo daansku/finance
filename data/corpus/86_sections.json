@@ -1,0 +1,1264 @@
+{
+  "statute": {
+    "id": "e43fd65b-aa1c-4355-8c3a-5713d1edd228",
+    "node_type": "Statute",
+    "publisher": "finlex",
+    "title": "Laki kehitysvammaisten erityishuollosta",
+    "text": "Laki kehitysvammaisten erityishuollosta",
+    "statute_id": "",
+    "finlex_url": ""
+  },
+  "chapters": [
+    {
+      "id": "de2ddcdb-53f9-4174-baeb-e6a4e59b3f9f",
+      "node_type": "Chapter",
+      "publisher": "finlex",
+      "title": "Chapter 1",
+      "text": "1 luku Yleiset säännökset.",
+      "chapter_number": 1,
+      "statute_id": ""
+    },
+    {
+      "id": "6d091e2a-2d0b-4885-879b-32ff4acd8db7",
+      "node_type": "Chapter",
+      "publisher": "finlex",
+      "title": "Chapter 2",
+      "text": "2 luku Erityishuoltopiirin kuntainliiton hallinto.",
+      "chapter_number": 2,
+      "statute_id": ""
+    },
+    {
+      "id": "765cb5f5-d0cc-435c-8c7f-c0047148140a",
+      "node_type": "Chapter",
+      "publisher": "finlex",
+      "title": "Chapter 3",
+      "text": "3 luku Erityishuollon järjestäminen.",
+      "chapter_number": 3,
+      "statute_id": ""
+    },
+    {
+      "id": "bb24cd8d-f314-4b37-bd21-f5982088f9ce",
+      "node_type": "Chapter",
+      "publisher": "finlex",
+      "title": "Chapter 4",
+      "text": "4 luku Maksut.",
+      "chapter_number": 4,
+      "statute_id": ""
+    },
+    {
+      "id": "4196a2e1-65e0-492a-a223-16a8c463b9f2",
+      "node_type": "Chapter",
+      "publisher": "finlex",
+      "title": "Chapter 5",
+      "text": "5 luku Korvaukset.",
+      "chapter_number": 5,
+      "statute_id": ""
+    },
+    {
+      "id": "ab91c7bc-e357-455e-8f48-fb4085e15153",
+      "node_type": "Chapter",
+      "publisher": "finlex",
+      "title": "Chapter 6",
+      "text": "6 luku Valtionosuudet.",
+      "chapter_number": 6,
+      "statute_id": ""
+    },
+    {
+      "id": "98f799e1-4704-46af-b47d-0c467f50f1ea",
+      "node_type": "Chapter",
+      "publisher": "finlex",
+      "title": "Chapter 7",
+      "text": "7 luku Kuntien maksuosuudet.",
+      "chapter_number": 7,
+      "statute_id": ""
+    },
+    {
+      "id": "8395b76c-e5b8-480b-92fa-bf48af3a2cf4",
+      "node_type": "Chapter",
+      "publisher": "finlex",
+      "title": "Chapter 8",
+      "text": "8 luku Erityishuoltoalan koulutus- ja tutkimustoiminnan järjestäminen.",
+      "chapter_number": 8,
+      "statute_id": ""
+    },
+    {
+      "id": "ff27de91-6d7a-4407-9a57-496d092faf3d",
+      "node_type": "Chapter",
+      "publisher": "finlex",
+      "title": "Chapter 9",
+      "text": "9 luku Erityishuollon järjestämisestä eräissä tapauksissa.",
+      "chapter_number": 9,
+      "statute_id": ""
+    },
+    {
+      "id": "5538f50e-3d3c-43fa-b024-dcefd0c98520",
+      "node_type": "Chapter",
+      "publisher": "finlex",
+      "title": "Chapter 10",
+      "text": "10 luku Erinäisiä säännöksiä.",
+      "chapter_number": 10,
+      "statute_id": ""
+    }
+  ],
+  "sections": [
+    {
+      "id": "01efde23-83e0-4dcb-80cb-d7b1cd7ac68d",
+      "node_type": "Section",
+      "publisher": "finlex",
+      "title": "1§",
+      "text": "Tässä laissa säädetään erityishuollon antamisesta henkilölle, jonka kehitys tai henkinen toiminta on estynyt tai häiriintynyt synnynnäisen tai kehitysiässä saadun sairauden, vian tai vamman vuoksi ja joka ei muun lain nojalla voi saada tarvitsemiaan palveluksia. Erityishuollon tarkoituksena on edistää 1 momentissa tarkoitetun henkilön suoriutumista päivittäisistä toiminnoista, hänen omintakeista toimeentuloaan ja sopeutumistaan yhteiskuntaan sekä turvata hänen tarvitsemansa opetus, hoito ja muu huolenpito.",
+      "section_number": "1",
+      "chapter_number": 1,
+      "statute_id": ""
+    },
+    {
+      "id": "0af46dd0-8f89-4ca7-a260-0ba02fb4f31e",
+      "node_type": "Section",
+      "publisher": "finlex",
+      "title": "2§",
+      "text": "Erityishuoltoon kuuluvia palveluksia ovat, sen mukaan kuin asetuksella tai tämän lain nojalla muutoin säädetään tai määrätään:",
+      "section_number": "2",
+      "chapter_number": 1,
+      "statute_id": ""
+    },
+    {
+      "id": "d57eda88-91ad-4029-b253-5d1ea667b927",
+      "node_type": "Section",
+      "publisher": "finlex",
+      "title": "3§",
+      "text": "Erityishuollon ohjauksesta ja valvonnasta huolehtii sosiaali- ja terveysministeriön alaisena sosiaalihallitus. Erityishuoltoon kuuluvan terveydenhuollon valvonnasta huolehtii lääkintöhallitus yhteistoiminnassa sosiaalihallituksen kanssa. Erityishuoltoon kuuluvan harjaantumis- ja muun opetuksen ohjauksesta ja valvonnasta huolehtivat toimialoillaan ammattikasvatushallitus ja kouluhallitus yhteistoiminnassa sosiaalihallituksen kanssa. Läänin alueella erityishuoltoa ohjaa ja valvoo 1 ja 2 momentissa mainittujen keskusvirastojen alaisena lääninhallitus. Jos erityishuoltopiiri sijaitsee kahden tai useamman läänin alueella, lääninhallitusten tulee toimia keskenään yhteistyössä kuitenkin niin, että toimintasuunnitelman vahvistaa se lääninhallitus, jonka alueella erityishuoltopiirin kuntainliitolla on kotipaikka.",
+      "section_number": "3",
+      "chapter_number": 1,
+      "statute_id": ""
+    },
+    {
+      "id": "b830557c-ef79-4135-adae-70075afab9ba",
+      "node_type": "Section",
+      "publisher": "finlex",
+      "title": "4§",
+      "text": "Valtioneuvoston tulee kalenterivuosittain hyväksyävaltakunnallinen erityishuoltosuunnitelmaerityishuollon järjestämisestä hyväksymisvuotta seuraavan viisivuotiskauden aikana. Suunnitelman tulee sisältää: Suunnitelma voi lisäksi sisältää määräyksiä erityishuollon eri toimintamuotojen yleisistä tavoitteista sekä toteuttamistavoista ja -aikataulusta. Sosiaalihallitus huolehtii valtakunnallisen erityishuoltosuunnitelman ja sen muutosten valmisteluista yhteistoiminnassa 3 §:ssä tarkoitettujen keskusvirastojen kanssa.",
+      "section_number": "4",
+      "chapter_number": 1,
+      "statute_id": ""
+    },
+    {
+      "id": "9f227e71-720e-47e5-a2e1-e7d9f1d74042",
+      "node_type": "Section",
+      "publisher": "finlex",
+      "title": "5§",
+      "text": "Kunnan on huolehdittava siitä, että henkilö, jolla on kunnassa väestökirjalaissa (141/69) tarkoitettu kotipaikka, saa tarpeellisen erityishuollon. Jollei henkilöllä ole Suomessa kotipaikkaa, kuuluu 1 momentissa tarkoitettu velvollisuus sille kunnalle, jossa henkilö oleskelee tai, ulkomailla asuvan Suomen kansalaisen osalta, jossa hänellä viimeksi oli Suomessa kotipaikka. Henkilön kotikunnalla tai kunnalla, josta henkilö on, tarkoitetaan tässä laissa sitä kuntaa, joka 1 tai 2 momentin mukaan on velvollinen huolehtimaan henkilön erityishuollon järjestämisestä.",
+      "section_number": "5",
+      "chapter_number": 1,
+      "statute_id": ""
+    },
+    {
+      "id": "ca09c5c6-2077-4648-ae65-b2b38ffa52b7",
+      "node_type": "Section",
+      "publisher": "finlex",
+      "title": "6§",
+      "text": "Erityishuollon järjestämistä varten maa jaetaanerityishuoltopiireihin,joiden alueet määrää valtioneuvosto. Jollei erityisestä syystä muuta johdu, piirit on muodostettava lääninjakoon sopeutuviksi ottaen kuitenkin huomioon lääninjaon kehittämisen tarve. Erityishuoltopiiriin kuuluvat kunnat ovat jäseninäerityishuoltopiirin kuntainliitossa,jonka tulee järjestää kuntien velvollisuudeksi säädetty erityishuolto, mikäli tämän lain säännöksistä ei muuta johdu. Jos erityishuolto tai osa siitä sen vaativuuden, siinä tarvittavien erityisten edellytysten taikka muiden vastaavanlaisten syiden vuoksi on tarkoituksenmukaista järjestää suurempaa kuin yhden erityishuoltopiirin väestömäärää varten, valtioneuvosto voi piirijaosta riippumatta määrätä erityishuollon kokonaan tai osittain yhden tai useamman kuntainliiton järjestettäväksi. Kaksikieliset ja ruotsinkieliset kunnat ovat lisäksi jäseninäerityishuollon kuntainliitossa,jonka tehtävänä on piirijaosta riippumatta jäsenkuntiensa ruotsinkielisen väestön erityishuollon järjestäminen. Erityishuollon kuntainliitosta on soveltuvin osin voimassa, mitä tässä laissa erityishuoltopiirin kuntainliitosta säädetään, kuitenkin niin, että liittovaltuuston jäsenten lukumäärästä ja äänivallan perusteista määrätään perussäännössä. Jos maakuntalailla niin säädetään, Ahvenanmaan maakunta voi olla 4 momentissa tarkoitetun erityishuollon kuntainliiton jäsenenä tai sopia kuntainliiton kanssa sen laitosten käyttämisestä. Maakunnan oikeuksista ja velvollisuuksista kuntainliiton jäsenenä on tällöin voimassa, mitä jäsenkunnasta tässä laissa säädetään ja kuntainliiton perussäännössä määrätään. Erityishuollon järjestämisestä Ahvenanmaan maakunnassa on muutoin voimassa, mitä maakuntalailla säädetään.",
+      "section_number": "6",
+      "chapter_number": 1,
+      "statute_id": ""
+    },
+    {
+      "id": "3ac1e437-20d3-4dda-8cd8-95dd8a99dd82",
+      "node_type": "Section",
+      "publisher": "finlex",
+      "title": "7§",
+      "text": "Kunnallislaissa (953/76) tarkoitetun kuntasuunnitelman osana erityishuoltopiirin kuntainliiton liittovaltuuston tulee kalenterivuosittain hyväksyäerityishuoltopiirin toimintasuunnitelmaerityishuollon järjestämisestä erityishuoltopiirissä. Erityishuoltopiirin kuntainliiton kuntasuunnitelman tulee sopeutua valtakunnalliseen erityishuoltosuunnitelmaan. Kuntasuunnitelmaa laadittaessa on erityishuoltopiirin kuntainliiton jäsenkunnalle sekä, jos niin on sovittu, muullekin kunnalle tai kuntainliitolle, jonka toimintaa suunnitelma koskee, varattava tilaisuus ehdotuksen tekemiseen suunnitelman sisällöksi niitä koskevilta osin. Kuntasuunnitelman käsittämän ensimmäisen kalenterivuoden osalta hyväksymispäätöksen tekemiseen sovelletaan kunnallislain 50 §:n säännöksiä siltä osin kuin suunnitelman toteuttaminen myöhemmin edellyttäisi sanotussa pykälässä säädetyn menettelyn noudattamista. Erityishuoltopiirin kuntainliiton kuntasuunnitelmaan sisältyvässä toimintasuunnitelmassa on annettava selvitys erityishuoltoa varten tarpeellisen henkilökunnan määrästä, muun toimintavarustuksen olennaisista muutoksista ja erityishuoltopalvelusten hankkimisesta muilta laitoksilta sekä kuntien järjestettävästä erityishuollosta. Toimintasuunnitelma on valtioneuvoston määräämänä aikana alistettava lääninhallituksen vahvistettavaksi. Samalla kuntasuunnitelma on muilta osin saatettava lääninhallitukselle tiedoksi. Lääninhallitukselle on myös toimitettava 2 momentissa tarkoitetut ehdotukset.",
+      "section_number": "7",
+      "chapter_number": 1,
+      "statute_id": ""
+    },
+    {
+      "id": "467c5af1-1c5a-42a6-86c7-9b10f0daaa3f",
+      "node_type": "Section",
+      "publisher": "finlex",
+      "title": "8§",
+      "text": "Lääninhallituksen tulee vahvistaa 7 §:ssä tarkoitettu toimintasuunnitelma ensimmäisen kalenterivuoden osalta ja antaa tarvittaessa ohjeita suunnitelman kehittämiseksi myöhempien vuosien osalta. Toimintasuunnitelma on vahvistettava hyväksytyssä muodossa. Siihen voidaan kuitenkin tehdä oikaisunluonteisia korjauksia. Jos suunnitelma on vahvistettavilta osin lain tai asetuksen tahi viimeksi hyväksytyn valtakunnallisen erityishuoltosuunnitelman vastainen taikka epätarkoituksenmukainen, se on palautettava uudelleen käsiteltäväksi. Jos lääninhallitus katsoo, ettei liittovaltuuston uuttakaan päätöstä voida sanotuista syistä vahvistaa, toimintasuunnitelman vahvistamista koskeva asia on siirrettävä valtioneuvoston käsiteltäväksi. Edellä 7 §:ssä ja 1 ja 2 momentissa säädettyä menettelyä on noudatettava myös kuntasuunnitelmaa ja vahvistettua toimintasuunnitelmaa muutettaessa.",
+      "section_number": "8",
+      "chapter_number": 1,
+      "statute_id": ""
+    },
+    {
+      "id": "c6e621cd-6f64-412b-a062-07f434270398",
+      "node_type": "Section",
+      "publisher": "finlex",
+      "title": "9§",
+      "text": "Erityishuoltopiirin kuntainliiton tulee järjestää 2 §:ssä tarkoitetut palvelukset seuraavina toimintamuotoina: Toimintamuotojen järjestämistä varten erityishuoltopiirin kuntainliitolla tulee olla keskuslaitos, neuvola sekä muita tarvittavia toimintayksiköitä, kuten harjaantumiskouluja, suojatyöpaikkoja, päiväkoteja, asuntoloita ja asuntoja.",
+      "section_number": "9",
+      "chapter_number": 1,
+      "statute_id": ""
+    },
+    {
+      "id": "eb2a7b6b-29d0-4b9c-b095-559e4075910e",
+      "node_type": "Section",
+      "publisher": "finlex",
+      "title": "10§",
+      "text": "Erityishuoltopiirin kuntainliitto tai sen suostumuksella erityishuoltoa järjestävä kunta voi sopia erityishuollon toimintayksikön vuokraamisesta ja erityishuoltopalvelusten hankkimisesta yksityiseltä tai valtion erityishuollon toimintayksiköltä. Erityishuoltopiirin kuntainliitto voi tehdä myös muun kuin erityishuoltopiirin kuntainliiton kanssa sopimuksen tarvitsemiensa erityishuoltopalvelusten järjestämisestä tällaisen kuntainliiton toimesta siten kuin valtakunnallisessa erityishuoltosuunnitelmassa määrätään. Edellä 1 ja 2 momentissa tarkoitetut sopimukset on alistettava lääninhallituksen hyväksyttäväksi. Jollei 2 momentissa tarkoitetusta tarpeellisena pidettävästä yhteistoiminnasta sovita, valtioneuvosto voi määrätä yhteistoimintaan ryhtymisestä ja, ottaen tasapuolisesti huomioon erityishuoltopiirin kuntainliiton ja muun kuntainliiton edut, antaa tarpeelliset määräykset yhteistoiminnan ehdoista",
+      "section_number": "10",
+      "chapter_number": 1,
+      "statute_id": ""
+    },
+    {
+      "id": "e1bd02b3-6b49-47b9-bb31-6a8b93c6e5bb",
+      "node_type": "Section",
+      "publisher": "finlex",
+      "title": "11§",
+      "text": "Erityishuoltopiirin kuntainliitto voi sosiaalihallituksen suostumuksella lääninhallituksia kuultuaan tehdä toisen erityishuoltopiirin kuntainliiton kanssa sopimuksen toimintayksikön käyttämisestä muun kuin 6 §:n 3 momentissa tarkoitetun erityishuollon järjestämiseen, edellyttäen, että järjestely on valtakunnallisen erityishuoltosuunnitelman mukainen.",
+      "section_number": "11",
+      "chapter_number": 1,
+      "statute_id": ""
+    },
+    {
+      "id": "3fa268d5-fdf6-427d-951f-b00b2b5d23ed",
+      "node_type": "Section",
+      "publisher": "finlex",
+      "title": "12§",
+      "text": "Milloin erityishuollon pysyvän järjestämisen kannalta on tarkoituksenmukaista ja järjestely on valtakunnallisen erityishuoltosuunnitelman mukainen, erityishuoltopiirin kuntainliitot voivat sosiaalihallituksen suostumuksella sopia toimintayksikön tai sen osan perustamisesta ja ylläpitämisestä yhteisesti. Edellä 1 momentissa tarkoitettu toimintayksikkö tai sen osa on sen kuntainliiton hallinnassa, jonka alueella se sijaitsee. Kuntainliittojen välisessä sopimuksessa voidaan määrätä, että yksikön tai sen osan hallintoa varten asetetaanyhteisjohtokunta,johon kuntainliittojen liittovaltuustot valitsevat sopimuksen mukaiset jäsenet. Toimintayksikköön tai sen osaan kuntainliitoilla on käyttöoikeus sopimuksessa määrätyin ehdoin. Jollei erityishuollon järjestämisen kannalta tarpeellisena pidettävän yhteisen toimintayksikön tai sen osan perustamisesta sovita, valtioneuvosto voi sosiaalihallituksen ehdotuksesta määrätä sen perustettavaksi ja, ottaen tasapuolisesti huomioon kuntainliittojen edut, antaa tarpeelliset määräykset yhteistoiminnan ehdoista.",
+      "section_number": "12",
+      "chapter_number": 1,
+      "statute_id": ""
+    },
+    {
+      "id": "e10c5ad6-fd1c-4b64-b40c-13a69980b6af",
+      "node_type": "Section",
+      "publisher": "finlex",
+      "title": "13§",
+      "text": "Milloin erityishuollon ja terveydenhuollon järjestämisen kannalta on tarkoituksenmukaista, erityishuoltopiirin ja samalla alueella toimivat terveydenhuoltoalan kuntainliitot voivat sosiaali- ja terveysministeriön suostumuksella sopia erityishuollon toimintayksikön tai sen osan ja terveydenhuolto- tai muun laitoksen tai sen osan perustamisesta ja ylläpitämisestä yhteisesti. Sopimuksessa on määrättävä, minkä kuntainliiton hallinnassa toimintayksikkö tai sen osa ja terveydenhuolto tahi muu laitos tai sen osa on. Sopimuksessa on muutoin noudatettava, mitä 12 §:n 2 momentissa säädetään. Jollei erityishuollon ja terveydenhuollon järjestämisen kannalta tarpeellisena pidettävän yhteisen toimintayksikön tai sen osan ja terveydenhuolto tai muun laitoksen tai sen osan perustamisesta sovita, valtioneuvosto voi määrätä sen perustettavaksi ja, ottaen tasapuolisesti huomioon kuntainliittojen edut, antaa tarpeelliset määräykset yhteistoiminnan ehdoista.",
+      "section_number": "13",
+      "chapter_number": 1,
+      "statute_id": ""
+    },
+    {
+      "id": "78afe992-993a-45be-9603-bb10735ba3b0",
+      "node_type": "Section",
+      "publisher": "finlex",
+      "title": "14§",
+      "text": "Sen estämättä, mitä 6 §:n 1 ja 2 momentissa säädetään, kunta voi harjoittaa vahvistetussa erityishuollon toimintasuunnitelmassa sen järjestettäväksi annettua erityishuoltoa. Edellä 1 momentissa tarkoitetusta kunnasta on tällöin soveltuvin osin voimassa, mitä 21 §:ssä, 24 §:n 1 ja 2 momentissa, 25, 35, 39 ja 42 §:ssä sekä 4-6 sekä 10 luvussa on säädetty erityishuoltopiirin kuntainliitosta. Kunnan erityishuoltoviranomaisena toimii sosiaalilautakunta, jonka kanssa erityishuoltopiirin kuntainliiton tulee toimia yhteistyössä silloinkin, kun paikallisen erityishuollon järjestäminen on kuntainliiton tehtävänä.",
+      "section_number": "14",
+      "chapter_number": 1,
+      "statute_id": ""
+    },
+    {
+      "id": "1da9041a-8db8-48a4-a24d-885df4174b0b",
+      "node_type": "Section",
+      "publisher": "finlex",
+      "title": "15§",
+      "text": "Kunnallisten erityishuollon toimintayksiköiden lisäksi voi valtiolla olla erityishuollon toimintayksiköitä valtion velvollisuudeksi säädetyn erityishuollon järjestämistä sekä valtakunnallista tutkimus-, kokeilu- tai muuta niihin verrattavaa erityishuoltotoimintaa varten.",
+      "section_number": "15",
+      "chapter_number": 1,
+      "statute_id": ""
+    },
+    {
+      "id": "235a10ff-e6bf-4bd2-b02c-b1cf6f56770b",
+      "node_type": "Section",
+      "publisher": "finlex",
+      "title": "16§",
+      "text": "Sen lisäksi, mitä edellä on säädetty, voi olla myös yksityisiä erityishuollon toimintayksiköitä. Yksityiset erityishuollon toimintayksiköt voivat tuottaa erityishuoltopalveluksia kuntainliitoille tai kunnille taikka muille palveluksia haluaville. Yksityiset erityishuollon toimintayksiköt voivat myös järjestää valtakunnallista tutkimus-, kokeilu- tai muuta niihin verrattavaa erityishuoltotoimintaa siten kuin siitä toimintayksikön ylläpitäjän ja sosiaalihallituksen kesken sovitaan. Sopimus on alistettava sosiaali- ja terveysministeriön hyväksyttäväksi. Yksityisellä erityishuollon toimintayksiköllä tulee olla, sen mukaan kuin ohjesäännössä tarkemmin määrätään, johtokunta ja johtaja. Ohjesääntö on alistettava lääninhallituksen vahvistettavaksi.",
+      "section_number": "16",
+      "chapter_number": 1,
+      "statute_id": ""
+    },
+    {
+      "id": "9aface25-e790-4871-a348-c9b03aebe470",
+      "node_type": "Section",
+      "publisher": "finlex",
+      "title": "17§",
+      "text": "Erityishuoltopiirin kuntainliitonliittovaltuustoonvalitsevat jäsenkuntien valtuustot jäseniä seuraavasti: Kullekin jäsenelle valitaan henkilökohtainen varajäsen.",
+      "section_number": "17",
+      "chapter_number": 2,
+      "statute_id": ""
+    },
+    {
+      "id": "5d62c89c-e933-47bd-acaf-ef6f55757ad7",
+      "node_type": "Section",
+      "publisher": "finlex",
+      "title": "18§",
+      "text": "Jäsenkuntaa edustavien jäsenten äänimäärä liittovaltuustossa määräytyy kunnan viimeksi toimitettuun henkikirjoitukseen perustuvan asukasluvun mukaan siten, että kuntaa edustavilla jäsenillä on yksi ääni jokaista alkavaa 100 asukasta kohti. Äänimäärä voi kuitenkin olla enintään kolmannes kaikkien jäsenkuntia edustavien jäsenten yhteenlasketusta rajoittamattomasta äänimäärästä. Kuntaa edustavien jäsenten äänimäärä jakautuu tasan heistä saapuvilla olevien kesken.",
+      "section_number": "18",
+      "chapter_number": 2,
+      "statute_id": ""
+    },
+    {
+      "id": "cf4fc5b4-01e4-40f2-bc3e-80b71e84d2c5",
+      "node_type": "Section",
+      "publisher": "finlex",
+      "title": "19§",
+      "text": "Kuntainliiton hallintoa hoitaaliittohallitus. Liittohallituksen apuna voi ollalautakuntia,milloin niitä erityishuoltopiirin kuntainliiton hallinnon tai osa-alueiden erityishuollon järjestämisen vuoksi pidetään tarkoituksenmukaisina.",
+      "section_number": "19",
+      "chapter_number": 2,
+      "statute_id": ""
+    },
+    {
+      "id": "beb97f1e-83a4-4be3-8e9d-08eba5ad5153",
+      "node_type": "Section",
+      "publisher": "finlex",
+      "title": "20§",
+      "text": "Liittohallituksen avuksi voidaan asettaaerityishuoltoneuvosto,jonka jäsenet liittovaltuusto valitsee enintään toimikaudekseen nimeten samalla puheenjohtajan ja varapuheenjohtajan. Jäsenistä puolet tulee valita erityishuoltopiirin kuntainliiton palveluksessa olevista siten, että erityishuollon eri ammattiryhmät mahdollisuuksien mukaan tulevat neuvostossa edustetuiksi. Muiden jäsenten tulee edustaa kehitysvammaisten omaisia sekä erityishuollon eri osa-alueiden muuta asiantuntemusta. Erityishuoltoneuvoston tehtävänä on seurata ja pyrkiä kehittämään erityishuoltopiirin kuntainliiton järjestämää erityishuoltoa ja tehdä aloitteita sitä koskevissa asioissa.",
+      "section_number": "20",
+      "chapter_number": 2,
+      "statute_id": ""
+    },
+    {
+      "id": "76441447-f75f-499c-ae26-9d4a27e6335b",
+      "node_type": "Section",
+      "publisher": "finlex",
+      "title": "21§",
+      "text": "Liittohallituksen alaisena voi olla yhtä tai useampaa kuntainliiton toimintayksikköä vartenjohtokunta,jonka liittovaltuusto valitsee enintään toimikaudekseen. Johtokunnan tulee johtaa ja valvoa toimintayksikön toimintaa, avustaa liittohallitusta erityishuollon toimintasuunnitelman sekä talousarvion laadinnassa sekä suorittaa muut sille määrätyt tehtävät.",
+      "section_number": "21",
+      "chapter_number": 2,
+      "statute_id": ""
+    },
+    {
+      "id": "0ea95eb9-146b-4a53-b77b-1e07a90a80b4",
+      "node_type": "Section",
+      "publisher": "finlex",
+      "title": "22§",
+      "text": "Liittohallituksen alaisena johtavana viranhaltijana on erityishuoltopiirin johtaja ja hänen apunaan tarpeen mukaan muita viranhaltijoita. Erityishuoltopiirin johtajan valitsee liittovaltuusto. Mikäli toisin ei määrätä, valitsee erityishuoltopiirin kuntainliiton muun henkilökunnan liittohallitus.",
+      "section_number": "22",
+      "chapter_number": 2,
+      "statute_id": ""
+    },
+    {
+      "id": "9778d489-bf50-4dce-9b08-6982917c03b9",
+      "node_type": "Section",
+      "publisher": "finlex",
+      "title": "23§",
+      "text": "Erityishuollon yksilöllistä järjestämistä varten erityishuoltopiirin kuntainliitossa onerityishuollon johtoryhmä. Erityishuollon johtoryhmän puheenjohtajana on erityishuoltopiirin johtaja ja jäseninä vähintään kaksi erityishuoltopiirin johtavaa viranhaltijaa siten, että johtoryhmässä on edustettuna lääketieteellinen, kasvatuksellinen ja sosiaalihuollollinen asiantuntemus. Asioiden käsittelystä erityishuollon johtoryhmässä on soveltuvin osin voimassa mitä kunnallislaissa kunnanhallituksen jaostosta säädetään.",
+      "section_number": "23",
+      "chapter_number": 2,
+      "statute_id": ""
+    },
+    {
+      "id": "783e6252-a801-43c5-995d-ec897b09784c",
+      "node_type": "Section",
+      "publisher": "finlex",
+      "title": "24§",
+      "text": "Erityishuoltopiirin kuntainliiton toimintayksikössä tai sen osassa tulee olla vastaava johtaja, joka vastaa yksikössä annettavasta erityishuollosta. Vastaava johtaja voi olla yhteinen kahdelle tai useammalle toimintayksikölle. Vastaavana johtajana voi toimia myös erityishuollon johtoryhmän jäsen.",
+      "section_number": "24",
+      "chapter_number": 2,
+      "statute_id": ""
+    },
+    {
+      "id": "770683e3-8542-4258-ab03-62ae8dd9fd7b",
+      "node_type": "Section",
+      "publisher": "finlex",
+      "title": "25§",
+      "text": "Erityishuoltoa järjestävällä kuntainliitolla tulee ollaerityishuoltopiirin ohjesääntö,joka on alistettava lääninhallituksen vahvistettavaksi. Erityishuoltopiirin ohjesäännössä määrätään:",
+      "section_number": "25",
+      "chapter_number": 2,
+      "statute_id": ""
+    },
+    {
+      "id": "2d5b8f42-760c-44b3-907d-ce3ffabb96c4",
+      "node_type": "Section",
+      "publisher": "finlex",
+      "title": "26§",
+      "text": "Erityishuoltopiirin kuntainliittoon sovelletaan tässä laissa säädetyin poikkeuksin kunnallislain säännöksiä.",
+      "section_number": "26",
+      "chapter_number": 2,
+      "statute_id": ""
+    },
+    {
+      "id": "004fa7a6-eceb-4984-ab46-7eff16cf2aac",
+      "node_type": "Section",
+      "publisher": "finlex",
+      "title": "27§",
+      "text": "Erityishuoltopiirin kuntainliiton toimesta annetaan erityishuoltoa ensisijaisesti kuntainliittoon kuuluvista kunnista oleville henkilöille, jollei 6 §:n 3 momentin mukaisista järjestelyistä tai 11, 12 tahi 13 §:n nojalla tehdyistä sopimuksista taikka 12 §:n 3 momentin tai 13 §:n 2 momentin nojalla annetusta määräyksestä muuta johdu. Milloin erityishuoltopiirin kuntainliiton toimintayksikössä erityishuollossa olevan henkilön kotipaikka muuttuu tai milloin hänen erityishuoltonsa järjestäminen ei 1 momentin säännöksistä johtuen muutoin kuuluisi sille erityishuoltopiirin kuntainliitolle, jonka toimintayksikössä hän on, tulee tämän kuntainliiton ilmoittaa asiasta sille erityishuoltopiirin kuntainliitolle, jolle henkilön erityishuollon järjestäminen 1 momentin säännösten mukaan kuuluisi. Viimeksi mainitun kuntainliiton tulee ryhtyä tarpeellisiin toimenpiteisiin henkilön erityishuollon järjestämiseksi. Erityishuollon antamista on kuitenkin jatkettava entisessä paikassa siihen asti, kunnes se voidaan tarkoituksenmukaisesti ja henkilön erityishuoltomahdollisuuksia heikentämättä järjestää muualla.",
+      "section_number": "27",
+      "chapter_number": 3,
+      "statute_id": ""
+    },
+    {
+      "id": "a2ac7a78-30c8-4f48-9372-df4a25e1b1dd",
+      "node_type": "Section",
+      "publisher": "finlex",
+      "title": "28§",
+      "text": "Jos lapsen kehitys tai henkinen toiminta on estynyt tai häiriintynyt synnynnäisen tai kehitysiässä saadun sairauden, vian tai vamman vuoksi siinä määrin, ettei hän voi saavuttaa koulujärjestelmän perusteista annetun lain (467/68) mukaisen oppivelvollisuuden täyttämisen edellyttämää tieto- ja taitomäärää peruskoulussa, muussa oppilaitoksessa, erikoiskoulut mukaan luettuina, tai kotona, on hänellä oikeus saada harjaantumisopetusta sen lukuvuoden loppuun asti, jonka kuluessa hän täyttää 16 vuotta. Edellä 1 momentissa tarkoitetun lapsen tulee saada harjaantumisopetusta ennen kansakoululaissa tarkoitetun oppivelvollisuuden suorittamisen aloittamisiän saavuttamista.",
+      "section_number": "28",
+      "chapter_number": 3,
+      "statute_id": ""
+    },
+    {
+      "id": "30503f2d-cbf1-4deb-95d4-99a6e540483a",
+      "node_type": "Section",
+      "publisher": "finlex",
+      "title": "29§",
+      "text": "Ennen kuin lapsi kansakoululain 44 §:n nojalla vapautetaan oppivelvollisuudesta, on asiasta, milloin vapautus perustuu lapsen sielulliseen poikkeavuuteen, hankittava asianomaisen erityishuoltopiirin erityishuollon johtoryhmän lausunto. Jos lääninhallitus haluaa ratkaista asian johtoryhmän lausunnosta poikkeavalla tavalla, on asia alistettava kouluhallituksen ratkaistavaksi. Kouluhallituksen tulee ennen asian ratkaisemista varata sosiaalihallitukselle tilaisuus lausunnon antamiseen asiassa. Päätöksestä, jolla lapsi on sielullisen poikkeavuuden johdosta vapautettu oppivelvollisuudesta, on ilmoitettava asianomaiselle erityishuoltopiirin erityishuollon johtoryhmälle.",
+      "section_number": "29",
+      "chapter_number": 3,
+      "statute_id": ""
+    },
+    {
+      "id": "d622ee8a-a91e-430c-a9a6-a96757fff2e1",
+      "node_type": "Section",
+      "publisher": "finlex",
+      "title": "30§",
+      "text": "Jos erityishuollon johtoryhmä arvioi harjaantumisopetuksessa olevan oppivelvollisuusikäisen lapsen edistyneen siinä määrin, että hän voisi saavuttaa oppivelvollisuuden edellyttämän tieto- ja taitomäärän kansakoululaissa tai koulujärjestelmän perusteista annetussa laissa tarkoitetussa oppilaitoksessa, tulee johtoryhmän ilmoittaa asiasta lääninhallitukselle. Lääninhallituksen tulee 1 momentissa tarkoitetun ilmoituksen johdosta peruuttaa mahdollinen päätös lapsen vapauttamisesta oppivelvollisuudesta ja velvoittaa asianomainen kunta järjestämään lapsen opetus peruskoulussa tai muussa kunnallisessa oppilaitoksessa.",
+      "section_number": "30",
+      "chapter_number": 3,
+      "statute_id": ""
+    },
+    {
+      "id": "fde53a97-cd78-4b25-adc3-63226aaea219",
+      "node_type": "Section",
+      "publisher": "finlex",
+      "title": "31§",
+      "text": "Erityishuoltoon pyrkimistä koskeva aloite tulee tehdä erityishuoltopiirin kuntainliitolle tai henkilön kotikunnan sosiaalilautakunnalle. Erityishuollon antamisesta ja lopettamisesta päättää erityishuollon johtoryhmä, jollei erityishuoltopiirin ohjesäännössä toisin määrätä.",
+      "section_number": "31",
+      "chapter_number": 3,
+      "statute_id": ""
+    },
+    {
+      "id": "78dbcfc3-120e-45b7-896b-61d206bbf0a9",
+      "node_type": "Section",
+      "publisher": "finlex",
+      "title": "32§",
+      "text": "Vastoin tahtoa voidaan erityishuoltoa antaa, jollei lastensuojelulain (52/36) säännöksistä muuta johdu, vain henkilölle, jonka huoltoa ei muutoin voida järjestää ja jonka on syytä olettaa ilman huoltoa joutuvan vakavaan hengentai terveydenvaaraan tahi jonka käytöksestä ja muista seikoista käy ilmi, että hän on vammaisuutensa vuoksi vaarallinen toisen henkilön turvallisuudelle ja välittömän erityishuollon tarpeessa. Erityishuollon antamisesta 1 momentissa tarkoitetulle henkilölle on tehtävä erityishuollon johtoryhmälle kirjallinen hakemus. Hakemuksen on oikeutettu tekemään hänen holhoojansa tai muu huoltajansa. Jollei 2 momentissa tarkoitettuja hakemuksen tekemiseen oikeutettuja ole tai jolleivät he suostu hakemuksen tekemiseen, hakemuksen voi tehdä myös se sosiaalilautakunta, jonka alueella henkilö oleskelee, tai lautakunnan tehtävään määräämä viranhaltija. Vastaavin edellytyksin voi hakemuksen rangaistuslaitoksessa olevan osalta tehdä laitoksen johtaja.",
+      "section_number": "32",
+      "chapter_number": 3,
+      "statute_id": ""
+    },
+    {
+      "id": "da726622-10c4-4554-b1c6-d78c23a338a4",
+      "node_type": "Section",
+      "publisher": "finlex",
+      "title": "33§",
+      "text": "Milloin erityishuollon johtoryhmä 32 §:ssä tarkoitetun hakemuksen johdosta katsoo olevan ilmeistä, että sanotun pykälän 1 momentissa mainitut edellytykset erityishuollon antamiselle henkilölle vastoin tahtoa ovat olemassa, johto ryhmä voi määrätä henkilön toimitettavaksi tutkimukseen. Edellä 1 momentissa tarkoitettu tutkimus on suoritettava viipymättä ja viimeistään viiden päivän kuluessa tutkittavaksi saapumisesta, jollei lääninhallitus erityisestä syystä pitennä tutkimusaikaa. Tutkimuksen tultua loppuun suoritetuksi erityishuollon johtoryhmä päättää erityishuollon antamisesta. Päätös erityishuollon antamisesta vastoin tahtoa on välittömästi ja viimeistään kahden viikon kuluessa sen tekemisestä alistettava lääninhallituksen vahvistettavaksi. Lääninhallituksen tulee käsitellä asia kiireellisenä.",
+      "section_number": "33",
+      "chapter_number": 3,
+      "statute_id": ""
+    },
+    {
+      "id": "18b2b37d-312e-47bd-8785-820c0357b937",
+      "node_type": "Section",
+      "publisher": "finlex",
+      "title": "34§",
+      "text": "Erityishuollon yksilölliseksi toteuttamiseksi erityishuollon johtoryhmän tai sen määräämissä rajoissa toimintayksikön vastaavan johtajan tulee hyväksyäerityishuolto-ohjelmajokaista erityishuollon tarpeessa olevaa henkilöä varten. Ohjelma, joka on tarpeen mukaan tarkistettava, on, mahdollisuuksien mukaan, laadittava yhteistyössä asianomaisen henkilön itsensä ja hänen holhoojansa tai muun huoltajansa sekä sosiaalilautakunnan kanssa. Kunnan järjestämässä erityishuollossa olevan osalta erityishuolto-ohjelman hyväksyy ja tarkistaa kuitenkin sosiaalilautakunta tai toimintayksikön vastaava johtaja. Tällöin on soveltuvin osin noudatettava, mitä 1 momentissa on säädetty.",
+      "section_number": "34",
+      "chapter_number": 3,
+      "statute_id": ""
+    },
+    {
+      "id": "acc8421d-b13d-482c-ab36-acc013f023db",
+      "node_type": "Section",
+      "publisher": "finlex",
+      "title": "35§",
+      "text": "Yksilöllistä erityishuolto-ohjelmaa toteutettaessa tulee pyrkiä siihen, että sellaisen henkilön asuminen, joka ei voi asua omassa kodissaan mutta joka ei ole laitoshuollon tarpeessa, järjestetään muulla tavoin. Henkilölle on myös pyrittävä järjestämään suojatyötä, jollei hän voi saada muuta työpaikkaa.",
+      "section_number": "35",
+      "chapter_number": 3,
+      "statute_id": ""
+    },
+    {
+      "id": "86f758cb-ebe6-428c-842c-5e02234389b0",
+      "node_type": "Section",
+      "publisher": "finlex",
+      "title": "36§",
+      "text": "Lääninhallitus voi, milloin henkilö itse tai hänen holhoojansa tahi muu huoltajansa taikka sosiaalilautakunta katsoo, ettei erityishuoltoohjelma ole tarkoituksenmukainen, määrätä ohjelmaa oikaistavaksi tarpeellisiksi katsomiltaan osin.",
+      "section_number": "36",
+      "chapter_number": 3,
+      "statute_id": ""
+    },
+    {
+      "id": "81d54301-d91d-4813-baa5-82d076e59fba",
+      "node_type": "Section",
+      "publisher": "finlex",
+      "title": "37§",
+      "text": "Jos vastoin tahtoa erityishuollossa olevaa henkilöä tutkittaessa tai huoltoa järjestettäessä käy ilmi, että 32 §:n 1 momentissa tarkoitetut edellytykset puuttuvat, erityishuollon antaminen on heti hänen tai holhoojan tahi muun huoltajan taikka 32 §:n 3 momentissa tarkoitetun viranomaisen sitä pyydettyä lopetettava.",
+      "section_number": "37",
+      "chapter_number": 3,
+      "statute_id": ""
+    },
+    {
+      "id": "91e3caa7-e364-4e9a-a848-561e3edf9746",
+      "node_type": "Section",
+      "publisher": "finlex",
+      "title": "38§",
+      "text": "Vastoin tahtoa saadaan henkilölle antaa erityishuoltoa saman tutkimuksen perusteella enintään puolen vuoden ajan. Jos hän ei sen jälkeen suostu jäämään erityishuoltoon eikä erityishuollon antamista ole 37 §:n säännösten perusteella lopetettava, on 32 §:n 1 momentissa tarkoitettujen edellytysten olemassaolo uudelleen selvitettävä vähintään puolivuosittain. Tällöin on noudatettava, mitä 33 §:n 3 momentissa on säädetty.",
+      "section_number": "38",
+      "chapter_number": 3,
+      "statute_id": ""
+    },
+    {
+      "id": "82ccb065-f0e6-4f6e-a40d-e502469a3685",
+      "node_type": "Section",
+      "publisher": "finlex",
+      "title": "39§",
+      "text": "Erityishuoltopiirin kuntainliiton on huolehdittava tutkimukseen määrätyn tai järjestämässään erityishuollossa olevan henkilön kuljetuksesta kuntainliiton toimintayksiköiden välillä sekä muusta kuljetuksesta sen mukaan kuin asetuksella säädetään tai valtakunnallisessa erityishuoltosuunnitelmassa määrätään.",
+      "section_number": "39",
+      "chapter_number": 3,
+      "statute_id": ""
+    },
+    {
+      "id": "7b156a06-4e0b-4559-bfd5-830a62b334c4",
+      "node_type": "Section",
+      "publisher": "finlex",
+      "title": "40§",
+      "text": "Valtio huolehtii erityishuollon järjestämisestä seuraaville erityishuollon tarpeessa oleville henkilöille: Valtio voi järjestää muutakin kuin 1 momentissa ja 15 §:ssä tarkoitettua erityishuoltoa sen mukaan kuin asetuksella tarkemmin säädetään.",
+      "section_number": "40",
+      "chapter_number": 3,
+      "statute_id": ""
+    },
+    {
+      "id": "49664066-c7d5-499b-b31e-80baaaead460",
+      "node_type": "Section",
+      "publisher": "finlex",
+      "title": "41§",
+      "text": "Erityishuoltopiirin kuntainliitto on velvollinen lääninhallituksen yksittäistapauksessa antamasta määräyksestä huolehtimaan erityishuollon antamisesta 40 §:ssä tarkoitetulle henkilölle.",
+      "section_number": "41",
+      "chapter_number": 3,
+      "statute_id": ""
+    },
+    {
+      "id": "ad4dd49d-5e4f-4f85-90d2-d5efe15f5dd9",
+      "node_type": "Section",
+      "publisher": "finlex",
+      "title": "42§",
+      "text": "Erityishuollossa olevaan henkilöön saadaan soveltaa pakkoa vain siinä määrin kuin erityishuollon järjestäminen tai toisen henkilön turvallisuus välttämättä vaatii.",
+      "section_number": "42",
+      "chapter_number": 3,
+      "statute_id": ""
+    },
+    {
+      "id": "ad9a6a7c-4b8a-4e65-8423-85011e56e1dd",
+      "node_type": "Section",
+      "publisher": "finlex",
+      "title": "43§",
+      "text": "Erityishuolto ja 39 §:ssä tarkoitettu kuljetus ovat henkilölle maksuttomia. Ylläpidosta kunnallisessa ja valtion erityishuollon toimintayksikössä perittävistä maksuista säädetään asetuksella. Sama koskee kunnan, kuntainliiton tai valtion lukuun muualla tapahtuvaa ylläpitoa. Asetuksella voidaan säätää, ettei maksua ylläpidosta peritä 28 §:ssä tarkoitetussa harjaantumisopetuksessa olevan lapsen osalta. Muulta kuin Suomen kansalaiselta voidaan asetuksella säätää perittäväksi maksu ja korvaus edellä tässä pykälässä säädetystä poikkeavin perustein.",
+      "section_number": "43",
+      "chapter_number": 4,
+      "statute_id": ""
+    },
+    {
+      "id": "0a11fe9c-2694-482d-84e6-0f673c17396f",
+      "node_type": "Section",
+      "publisher": "finlex",
+      "title": "44§",
+      "text": "Erityishuoltopiirin kuntainliiton muulle kuin sanottuun kuntainliittoon kuuluvasta kunnasta olevalle henkilölle järjestämän erityishuollon aiheuttamista kustannuksista on sen kuntainliiton, johon henkilön kotikunta kuuluu, suoritettava korvaus, jollei 2 momentin säännöksistä muuta johdu. Kustannukset, jotka aiheutuvat erityishuoltopiirin kuntainliitolle erityishuollon järjestämisestä 5 §:n 2 momentissa tai 40 §:ssä tarkoitetulle henkilölle, korvataan kuntainliitolle valtion varoista. Kustannukset, jotka aiheutuvat erityishuollon järjestämisestä valtion erityishuollon toimintayksikön toimesta muulle kuin 5 §:n 2 momentissa tai 40 §:ssä tarkoitetulle henkilölle, korvataan valtiolle sen erityishuoltopiirin kuntainliiton toimesta, johon henkilön kotikunta kuuluu.",
+      "section_number": "44",
+      "chapter_number": 5,
+      "statute_id": ""
+    },
+    {
+      "id": "a68115f2-dac3-491b-8ac1-7f436ecea11b",
+      "node_type": "Section",
+      "publisher": "finlex",
+      "title": "45§",
+      "text": "Jollei toisin ole sovittu, 44 §:n 1 ja 2 momentissa tarkoitettu korvaus lasketaan siten, kuin tässä pykälässä säädetään. Sama koskee soveltuvin osin 44 §:n 3 momentin mukaan suoritettavan korvauksen määräämistä. Korvauksen määräämiseksi toimintayksikön edellisen varainhoitovuoden valtionosuuden perusteena olevien käyttökustannusten kokonaismäärään lisätään 10 prosenttia. Näin saadusta määrästä vähennetään 43 §:n mukaiset maksut ja korvaukset ja toimintayksikön muut käyttötulot, lukuunottamatta korkotuloja, valtionosuutta ja kuntien maksuosuuksia käyttökustannuksiin sekä muita tässä laissa säädettyjä erityishuollon korvauksia samoin kuin tuloja, jotka kunta tai kuntainliitto saa sellaisesta toiminnasta, minkä kustannuksiin valtionosuutta ei suoriteta. Erotus jaetaan luvulla, jona käytetään käyttöpäivien tai käyntikertojen kokonaismäärää toiminnan laadusta riippuen, minkä jälkeen osamäärä kerrotaan kysymyksessä olevan henkilön käyttöpäivien tai käyntikertojen luvulla. Saatuun määrään lisätään kutakin käyttöpäivää tai käyntikertaa kohti henkilön suoritettavaksi säädetyn korvauksen määrä, milloin korvausta tai maksua ei peritä.",
+      "section_number": "45",
+      "chapter_number": 5,
+      "statute_id": ""
+    },
+    {
+      "id": "1a3cd0c8-3286-49fd-a482-e22da414f1bd",
+      "node_type": "Section",
+      "publisher": "finlex",
+      "title": "46§",
+      "text": "Milloin toimintayksikön edellisen vuoden tilinpäätöstä ei vielä ole hyväksytty, voidaan 45 §:ssä tarkoitetuista korvauksista periä ennakkona määrä, joka vastaa toimintayksikön edellisen vuoden arvioituja käyttökustannuksia, sanotun pykälän 2 momentissa tarkoitetuin tavoin käyttöpäivää tai käyntikertaa kohti laskettuna.",
+      "section_number": "46",
+      "chapter_number": 5,
+      "statute_id": ""
+    },
+    {
+      "id": "80c687a9-c5d7-4028-bd8d-4383c27e9fb9",
+      "node_type": "Section",
+      "publisher": "finlex",
+      "title": "47§",
+      "text": "Jos henkilö on erityishuollossa liikennevahingon tai työtapaturman aiheuttaman vian, vamman tai sairauden johdosta, asianomaisen vakuutusyhtiön, mukaan luettuina liikennevakuutusyhdistys ja tapaturmavirasto, joka liikennevakuutuslain (279/59) tai tapaturmavakuutuslain (608/48) nojalla on velvollinen korvaamaan vahingon, tulee suorittaa erityishuollon toimintayksikön ylläpitäjälle henkilölle annetusta erityishuollosta aiheutuneita todellisia kustannuksia vastaava korvaus. Edellä 1 momentissa tarkoitetun korvauksen perusteista säädetään asetuksella.",
+      "section_number": "47",
+      "chapter_number": 5,
+      "statute_id": ""
+    },
+    {
+      "id": "793df88f-d3de-4ed9-94a6-6b96b3e519fc",
+      "node_type": "Section",
+      "publisher": "finlex",
+      "title": "48§",
+      "text": "Erityishuoltopiirin kuntainliitolle suoritetaan valtionosuutta perustamiskustannuksiin sekä kultakin kalenterivuodelta vahvistetun toimintasuunnitelman toteuttamisesta aiheutuviin käyttökustannuksiin. Valtionosuudet lasketaan kuntakohtaisesti kuntien kantokykyluokituksesta annetussa laissa (665/67) tarkoitettujen kantokykyluokkien perusteella seuraavasti:",
+      "section_number": "48",
+      "chapter_number": 6,
+      "statute_id": ""
+    },
+    {
+      "id": "2416bf8e-f8f5-4e0f-9859-343f3c8a77fd",
+      "node_type": "Section",
+      "publisher": "finlex",
+      "title": "49§",
+      "text": "Siitä poiketen, mitä kuntien ja kuntainliittojen valtionosuuksista ja -avustuksista annetun lain 5 §:n 8 kohdassa on säädetty käyttökustannuksina pidetään myös erityishuoltopiirin kuntainliiton yleishallinnosta sekä kuntainliiton toimintayksikön hallintoelinten jäsenille maksettavista palkkioista ja muista korvauksista aiheutuvia välittömiä hallintokustannuksia. Valtionosuutta ei suoriteta 73 §:n 2 momentissa tarkoitetuista korvauksista aiheutuviin kustannuksiin.",
+      "section_number": "49",
+      "chapter_number": 6,
+      "statute_id": ""
+    },
+    {
+      "id": "b0ea1505-0dea-4282-80fa-c58e59014faf",
+      "node_type": "Section",
+      "publisher": "finlex",
+      "title": "50§",
+      "text": "Määrättäessä erityishuoltopiirin kuntainliiton valtionosuutta perustamiskustannuksiin katsotaan jäsenkunnan osuudeksi sanotuista kustannuksista sen suuruinen määrä, mikä kunkin 9 §:ssä tarkoitetun toimintamuodon osalta kolmen edellisen varainhoitovuoden aikana olleista käyttöpäivistä ja käyntikerroista tulee kunnasta olevien henkilöiden osalle. Milloin kysymyksessä on uusi toimintayksikkö, lasketaan jäsenkunnan osuus ennakolta yksikön arvioidun käytön mukaan ja lopullisesti 1 momentissa mainitun perusteen mukaan siten, että yksikön käyttö lasketaan kolmen ensimmäisen täyden kalenterivuoden käsittäneen toiminnan ajalta. Sama koskee soveltuvin osin jäsenkunnan osuuden määräämistä yksikön olennaisesta laajentamisesta aiheutuviin perustamiskustannuksiin. Jäsenkunnan osuus perustamiskustannuksiin, jotka aiheutuvat kuntainliiton keskushallintoon tai muutoin koko kuntainliiton toimintaan erillisinä kohdistuvista toimenpiteistä, määrätään 1 momentissa säädettyjen perusteiden mukaan siten, että jäsenkunnan osuudeksi kustannuksista katsotaan sen suuruinen määrä, joka vastaa kunnasta kaikissa erityishuoltopiirin kuntainliiton toimintayksiköissä olleiden henkilöiden käyttöpäiviä.",
+      "section_number": "50",
+      "chapter_number": 6,
+      "statute_id": ""
+    },
+    {
+      "id": "75becf00-aea7-4425-808f-b95062c02609",
+      "node_type": "Section",
+      "publisher": "finlex",
+      "title": "51§",
+      "text": "Määrättäessä erityishuoltopiirin kuntainliiton valtionosuutta käyttökustannuksiin katsotaan jäsenkunnan osuudeksi sanotuista kustannuksista sen suuruinen määrä, mikä kunkin 9 §:ssä tarkoitetun toimintamuodon osalta muista kuin 44 §:n 2 momentissa tai 47 §:ssä tarkoitetuista käyttöpäivistä ja käyntikerroista tulee kunnasta olevien henkilöiden osalle. Edellä 1 momentissa tarkoitettua osuutta laskettaessa luetaan kunkin toimintamuodon osalta käyttökustannuksiin myös näiden menojen osuutta kuntainliiton toimintamuotojen käyttökustannusten kokonaismäärästä vastaava osuus sellaisista menoista, jotka aiheutuvat -kuntainliiton keskushallinnosta tai muutoin kohdistuvat kuntainliiton koko toimintaan. Milloin kuntainliitto on suorittanut 44 §:n 1 tai 3 momentissa tarkoitettua korvausta, luetaan näin suoritetut korvaukset kuntainliiton käyttömenoihin ja valtionosuus niiden koko naismäärään suoritetaan kuntainliitolle muutoin 1 momentissa säädettyjen perusteiden mukaisesti.",
+      "section_number": "51",
+      "chapter_number": 6,
+      "statute_id": ""
+    },
+    {
+      "id": "04765254-e078-4400-82f9-94e29a28229f",
+      "node_type": "Section",
+      "publisher": "finlex",
+      "title": "52§",
+      "text": "Erityishuoltopiirin kuntainliittojen 12 §:ssä tarkoitetun yhteisen toimintayksikön tai sen osan kustannuksista luetaan, jollei toisin ole sovittu, kunkin kuntainliiton osuudeksi määrä, mikä perustamiskustannusten kohdalta 50 §:ssä ja käyttökustannusten kohdalta 51 §:n 1 ja 2 momentissa tarkoitettujen perusteiden mukaan laskettuna yhteensä tulee kuntainliiton jäsenkuntien osalle. Valtionosuuksista kuntainliiton osuudeksi näin tuleviin perustamis- ja käyttökustannuksiin on soveltuvin osin voimassa, mitä 48 ja 49 §:ssä, 50 §:n 3 momentissa ja 51 §:n 1 momentissa on säädetty. Mitä 1 momentissa on säädetty, noudatetaan myös 13 §:ssä tarkoitettuun erityishuoltopiirin i ja terveydenhuoltoalan kuntainliittojen yhteiseen toimintayksikköön tai sen osaan ja terveydenhuolto- tai muuhun laitokseen tai sen osaan. Mitä käyttöpäivästä ja käyntikerrasta on säädetty, sovelletaan tällöin hoitopäivään ja hoitokäyntiin. Kunnalle, jonka kantokyky on heikko ja jolle tästä laista johtuvat menot aiheuttavat kohtuutonta taloudellista rasitusta, sosiaalihallitus myöntää hakemuksesta valtionavustusta sanottuihin menoihin tulo- ja menoarvion rajoissa. Sosiaalihallitus voi tulo- ja menoarvion rajoissa myöntää valtionavustusta myös yksityiselle erityishuollon toimintayksikölle. Jos tällainen yksikkö järjestää 16 §:n 3 momentissa tarkoitetun hyväksytyn sopimuksen edellyttämää toimintaa, suoritetaan yksityisen toimintayksikön ylläpitäjälle sopimuksessa määrättävä korvaus valtion varoista tulo- ja menoarvion rajoissa.",
+      "section_number": "52",
+      "chapter_number": 6,
+      "statute_id": ""
+    },
+    {
+      "id": "afc45023-3990-4256-b0bf-fe4fb03af79d",
+      "node_type": "Section",
+      "publisher": "finlex",
+      "title": "54§",
+      "text": "Siitä poiketen mitä kuntien ja kuntainliittojen valtionosuuksista ja -avustuksista annetun lain 10 §:n 1 momentin 3 kohdassa on säädetty luonnospiirustuksista ja rakennustapaselostuksesta ja 11 §:n 1 momentissa pääpiirustuksista, voi toteuttamisohjelman hyväksyminen ja päätös valtionosuuden suorittamisesta perustamiskustannuksiin perustua rakennushanketta koskevan suunnitelman luonnokseen, johon on sisällytetty pääpiirustukset ja rakennustapaselostus.",
+      "section_number": "54",
+      "chapter_number": 6,
+      "statute_id": ""
+    },
+    {
+      "id": "8cde5412-2897-4ab2-924e-d2e52f0c7544",
+      "node_type": "Section",
+      "publisher": "finlex",
+      "title": "55§",
+      "text": "Siitä poiketen, mitä kuntien ja kuntainliittojen valtionosuuksista ja -avustuksista annetun lain 7 §:n 1 momentissa on säädetty, ei käyttökustannusten vähennykseksi lueta henkilöltä 43 §:n nojalla perittävää maksua ja korvausta mutta kylläkin toiselta erityishuoltopiirin kuntainliitolta ja muulta kuntainliitolta tai kunnalta perittävät korvaukset. Valtioneuvosto voi antaa yleisiä ohjeita siitä, milloin tässä laissa säädetyistä toiminnoista aiheutuvia kustannuksia on 1 momentissa tarkoitetun lain 8 §:ssä säädetyllä tavalla pidettävä tehtävän asianmukaisen hoitamisen kannalta tarpeellisina.",
+      "section_number": "55",
+      "chapter_number": 6,
+      "statute_id": ""
+    },
+    {
+      "id": "b9fb0e5f-c070-4eca-b0df-9d68060f5911",
+      "node_type": "Section",
+      "publisher": "finlex",
+      "title": "56§",
+      "text": "Siitä poiketen, mitä kuntien ja kuntainliittojen valtionosuuksista ja -avustuksista annetun lain 14 a §:ssä säädetään, on käyttökustannuksia aiheuttaviin, valtion asianomaisen viranomaisen tarkemmin määräämiin toimenpiteisiin saatava valtion asianomaisen viranomaisen hyväksyminen ennen kustannuksia aiheuttavan sitovan sopimuksen tai muun toimenpiteen tekemistä, milloin siitä aiheutuvat käyttökustannukset ylittävät valtion asianomaisen viranomaisen vuosittain vahvistaman enimmäismäärän. Edellä 1 momentissa säädettyä menettelyä ei kuitenkaan sovelleta, jos siinä tarkoitetut käyttökustannukset on yksityiskohtaisesti käsitelty vahvistetussa erityishuollon toimintasuunnitelmassa.",
+      "section_number": "56",
+      "chapter_number": 6,
+      "statute_id": ""
+    },
+    {
+      "id": "50cee7ca-6453-4ea3-a7dc-02051b53353d",
+      "node_type": "Section",
+      "publisher": "finlex",
+      "title": "57§",
+      "text": "Kuntien ja kuntainliittojen valtionosuuksista ja -avustuksista annetun lain 24 §:n säännöksiä sovelletaan myös silloin, kun kunnallisen erityishuollon toimintayksikön osa luovutetaan toisen omistukseen taikka sen toiminta lopetetaan tai sitä muutetaan niin, ettei sitä enää voida hyväksyä tarkoitukseensa käytettäväksi. Mitä 1 momentissa ja siinä mainitun lain 24 §:ssä säädetään, noudatetaan soveltuvin osin myös yksityisiin erityishuollon toimintayksikköihin.",
+      "section_number": "57",
+      "chapter_number": 6,
+      "statute_id": ""
+    },
+    {
+      "id": "61354e51-d6e5-4ce5-a495-79fc8510fe59",
+      "node_type": "Section",
+      "publisher": "finlex",
+      "title": "58§",
+      "text": "Kuntien ja kuntainliittojen valtionosuuksista ja -avustuksista annetun lain 32 §:ssä sekä tämän lain 56 §:ssä tarkoitettuna valtion asianomaisena viranomaisena toimii erityishuollon järjestämistä koskevissa asioissa sosiaali- ja terveysministeriö. Ensiksi mainitun lain 15 §:n 2 ja 3 momentissa tarkoitettuna valtion asianomaisena viranomaisena toimii kuitenkin valtiovarainministeriö. Asetuksella voidaan kuitenkin sosiaali- ja terveysministeriön päätettäväksi 1 momentin mukaan kuuluvia asioita siirtää sosiaalihallitukselle tai lääninhallitukselle, joiden tulee näitä asioita ratkaistaessaan noudattaa sosiaali- ja terveysministeriön antamia yleisiä ohjeita.",
+      "section_number": "58",
+      "chapter_number": 6,
+      "statute_id": ""
+    },
+    {
+      "id": "cc1aedb7-9eec-4482-982b-64a0588b53b0",
+      "node_type": "Section",
+      "publisher": "finlex",
+      "title": "59§",
+      "text": "Sen lisäksi, mitä kuntien ja kuntainliittojen valtionosuuksista ja -avustuksista annetun lain 21 a §:ssä on säädetty, sosiaali- ja terveysministeriö taikka, milloin on menetelty 58 §:n 2 momentissa säädetyllä tavalla, sosiaalihallitus tai lääninhallitus voi pidättää tai keskeyttää käyttökustannusten valtionosuuden ennakon tai loppuerän suorittamisen myös, jos toiminnassa ei noudateta vahvistettua toimintasuunnitelmaa. Milloin erityishuollollisista syistä on välttämätöntä, sosiaalihallitus tai, jos asetuksella on niin säädetty, lääninhallitus voi määrätä toiminnan keskeytettäväksi joko osaksi tai kokonaan, kunnes korjaus on saatu aikaan.",
+      "section_number": "59",
+      "chapter_number": 6,
+      "statute_id": ""
+    },
+    {
+      "id": "50817297-20c8-4a97-94af-7851be22f65a",
+      "node_type": "Section",
+      "publisher": "finlex",
+      "title": "60§",
+      "text": "Sen lisäksi, mitä kuntien ja kuntainliittojen valtionosuuksista ja -avustuksista annetun lain 15 §:ssä on säädetty, on viranhaltijoiden ja työntekijöiden määrää sekä muita kuin sopimuksenvaraisia palvelussuhteen ehtoja koskevien asioiden käsittelemistä varten neuvottelukunta, jonka tehtävänä on antaa lausuntoja lähinnä periaatteellisluonteisista ja laajakantoisista kysymyksistä. Valtioneuvosto määrää neuvottelukunnan jäsenet. Neuvottelukunnassa tulee olla sosiaali- ja terveysministeriön, valtiovarainministeriön ja sosiaalihallituksen edustajat, joista valtioneuvosto määrää puheenjohtajan. Muiden jäsenten tulee edustaa kuntien keskusjärjestöjä sekä kunnallista sopimusvaltuuskuntaa. Jos henkilökunnan palkkaus tai muut taloudelliset edut on suoritettu suurempina kuin 1 momentissa mainitussa laissa säädetyt perusteet edellyttävät, valtioneuvosto voi 1 momentissa tarkoitetun neuvottelukunnan annettua asiasta lausuntonsa päättää, että valtionosuus evätään kokonaan tai osaksi sen palkkauksen tai niiden muiden etujen kohdalta, joihin poikkeaminen on kohdistunut.",
+      "section_number": "60",
+      "chapter_number": 6,
+      "statute_id": ""
+    },
+    {
+      "id": "5ee690f7-aad2-4fa7-b1b4-9fa902ee1338",
+      "node_type": "Section",
+      "publisher": "finlex",
+      "title": "61§",
+      "text": "Siltä osin kuin tässä laissa ei ole toisin säädetty, noudatetaan valtionosuuksista ja avustuksista soveltuvin osin, mitä kuntien ja kuntainliittojen valtionosuuksista ja -avustuksista annetussa laissa on säädetty. Edellä 1 momentissa mainitun lain säännöksiä noudatetaan soveltuvin osin myös yksityisen erityishuollon toimintayksikön valtionavustuksia ja korvauksia koskevissa asioissa.",
+      "section_number": "61",
+      "chapter_number": 6,
+      "statute_id": ""
+    },
+    {
+      "id": "0202b3ce-775a-476e-87bf-3323f179f39a",
+      "node_type": "Section",
+      "publisher": "finlex",
+      "title": "62§",
+      "text": "Jäsenkuntien maksuosuudet erityishuoltopiirin kuntainliiton perustamiskustannuksiin määräytyvät samojen perusteiden mukaan kuin 50 §:ssä on perustamiskustannusten valtionosuuksien määräämisestä säädetty. Maksuosuuksia laskettaessa otetaan vähennyksenä huomioon 48 ja 50 §:n mukaisesti määräytyvä kunnan osuus perustamiskustannusten valtionosuudesta.",
+      "section_number": "62",
+      "chapter_number": 7,
+      "statute_id": ""
+    },
+    {
+      "id": "87512682-52b2-4195-9b86-e3af3526eb99",
+      "node_type": "Section",
+      "publisher": "finlex",
+      "title": "63§",
+      "text": "Jäsenkuntien maksuosuudet erityishuoltopiirin kuntainliiton käyttökustannuksiin määräytyvät samojen perusteiden mukaan kuin 51 §:ssä on käyttökustannusten valtionosuuksien määräämisestä säädetty. Maksuosuuksia laskettaessa otetaan vähennyksenä huomioon 48, 49 ja 51 §:n mukaisesti määräytyvä kunnan osuus käyttökustannusten valtionosuudesta.",
+      "section_number": "63",
+      "chapter_number": 7,
+      "statute_id": ""
+    },
+    {
+      "id": "3921ccf5-0d05-46d7-ab9c-f4604ae9aec6",
+      "node_type": "Section",
+      "publisher": "finlex",
+      "title": "64§",
+      "text": "Jollei toisin ole sovittu, jaetaan erityishuoltopiirin kuntainliittojen 12 §:ssä sekä erityishuoltopiirin ja terveydenhuoltoalan kuntainliiton 13 §:ssä tarkoitetun yhteisen toimintayksikön tai sen osan perustamis- ja käyttökustannukset tulee kuntainliittojen vastattaviksi samoin perustein kuin 52 §:ssä on perustamis- ja käyttökustannusten kohdalta säädetty. Kuntien maksuosuuksista toimintayksikön tai sen osan perustamis- ja käyttökustannuksiin on vastaavasti voimassa, mitä 62 ja 63 §:ssä on sanottu.",
+      "section_number": "64",
+      "chapter_number": 7,
+      "statute_id": ""
+    },
+    {
+      "id": "c0f66470-0993-40e0-b1c9-8a51fafa6689",
+      "node_type": "Section",
+      "publisher": "finlex",
+      "title": "65§",
+      "text": "Erityishuoltoalan henkilökunnan koulutuksesta tai erityishuollon tutkimuksesta huolehtivalla korkeakoululla tai muulla viranomaisella on oikeus käyttää erityishuoltopiirin kuntainliiton toimintayksiköitä erityishuoltoalan koulutus- tai tutkimustoiminnan järjestämiseen. Edellä 16 §:ssä tarkoitetun toimintayksikön ylläpitäjä voi sopia korkeakoulun tai muun viranomaisen kanssa toimintayksikön käyttämisestä 1 momentissa tarkoitettuun koulutustai tutkimustoimintaan.",
+      "section_number": "65",
+      "chapter_number": 8,
+      "statute_id": ""
+    },
+    {
+      "id": "5d55c666-9568-47fc-b21a-7da3ca465e7e",
+      "node_type": "Section",
+      "publisher": "finlex",
+      "title": "66§",
+      "text": "Korkeakoulu tai muu viranomainen suorittaa erityishuoltopiirin kuntainliitolle täyden korvauksen perustamiskustannuksista, jotka ovat aiheutuneet sen koulutus- tai tutkimuskäytössä olevien, erityishuoltopiirin kuntainliiton toimintayksikössä sijaitsevien huonetilojen rakentamisesta, perusparannuksesta, laajentamisesta tai rakenteellisesti uudelleen järjestämisestä, kiinteät kojeet ja laitteet mukaan luettuina, sekä käyttökustannuksista, jotka aiheutuvat sanottujen huonetilojen kunnossapidosta. Mikäli huonetiloja kuitenkin käytetään osittain myös erityishuoltopiirin kuntainliiton toiminnassa, on korvausta tältä osin soviteltava. Korvattuun määrään ei suoriteta 48 §:ssä tarkoitettua valtionosuutta perustamiskustannuksiin. Mitä 1 momentissa on sanottu, sovelletaan muihinkin erityishuoltopiirin kuntainliiton perustamis- ja käyttökustannuksiin, jotka aiheutuvat pääasiallisesti erityishuoltoalan opetustai tutkimustoiminnan järjestämisestä erityishuoltopiirin kuntainliiton toimintayksikössä.",
+      "section_number": "66",
+      "chapter_number": 8,
+      "statute_id": ""
+    },
+    {
+      "id": "c1f78c91-f089-40b8-bf08-2d4568cc6189",
+      "node_type": "Section",
+      "publisher": "finlex",
+      "title": "67§",
+      "text": "Edellä 65 §:n 1 momentissa tarkoitettujen toimintojen järjestämisestä sekä 66 §:ssä tarkoitettujen korvausten määräytymisperusteista tulee korkeakoulun tai muun viranomaisen sopia erityishuoltopiirin kuntainliiton kanssa. Edellä 1 momentissa tarkoitettu sopimus, joka on asetuksella säädettävissä tapauksissa alistettava valtioneuvoston hyväksyttäväksi, on laadittava siten, että siinä otetaan tasapuolisesti huomioon toisaalta erityishuoltopiirin kuntainliiton velvollisuus erityishuollon järjestämiseen sekä toisaalta korkeakoulun tai muun viranomaisen säännöksiin tai määräyksiin taikka vahvistettuihin koulutus- ja tutkimussuunnitelmiin perustuva velvollisuus erityishuoltoalan koulutus- tai tutkimustoiminnan järjestämiseen. Jollei 1 momentissa tarkoitettua sopimusta saada aikaan, valtioneuvosto voi, jos järjestely erityishuoltoalan koulutus- tai tutkimustoiminnan tahi erityishuollon tarkoituksenmukaisen järjestämisen kannalta on välttämätöntä, määrätä erityishuoltopiirin kuntainliiton toimintayksiköiden käyttämisestä sanottuihin tarkoituksiin sekä siitä aiheutuvien kustannusten korvaamisesta. Tällöin on noudatettava, mitä 2 momentissa sekä 66 §:ssä säädetään.",
+      "section_number": "67",
+      "chapter_number": 8,
+      "statute_id": ""
+    },
+    {
+      "id": "76c26185-7867-4849-a7bc-5107bf275632",
+      "node_type": "Section",
+      "publisher": "finlex",
+      "title": "68§",
+      "text": "Erityishuoltopiirin kuntainliitto voi valtioneuvoston suostumuksella sopia sellaisen terveydenhuoltoalan kuntainliiton kanssa, jonka toimialue käsittää erityishuoltopiirin alueen, että erityishuoltopiirin kuntainliiton varat ja velat siirtyvät terveydenhuoltoalan kuntainliitolle. Edellä 1 momentissa tarkoitetun sopimuksen tekemiseen vaaditaan sekä erityishuoltopiirin että terveydenhuoltoalan kuntainliitossa, että vähintään kaksi kolmannesta liittovaltuuston kaikkien jäsenten yhteenlasketusta äänimäärästä sitä kannattaa. Jolleivät kuntainliitot sovi 1 momentissa tarkoitetusta yhteenliittymisestä, valtioneuvosto voi, milloin järjestelyä on sekä erityishuollon että terveydenhuollon järjestämisen kannalta pidettävä tarkoituksenmukaisena, kuntainliitot siihen velvoittaa.",
+      "section_number": "68",
+      "chapter_number": 9,
+      "statute_id": ""
+    },
+    {
+      "id": "951d08fc-ec33-47ea-a59f-e1a3c8077272",
+      "node_type": "Section",
+      "publisher": "finlex",
+      "title": "69§",
+      "text": "Edellä 68 §:ssä mainitun sopimuksen tai valtioneuvoston päätöksen voimaantulosta lukien terveydenhuoltoalan kuntainliitosta on soveltuvin osin voimassa, sen lisäksi mitä siitä muuten on säädetty, mitä erityishuoltopiirin kuntainliitosta tässä laissa säädetään.",
+      "section_number": "69",
+      "chapter_number": 9,
+      "statute_id": ""
+    },
+    {
+      "id": "1251b1e8-372f-43c1-82f2-7deb4ae59e41",
+      "node_type": "Section",
+      "publisher": "finlex",
+      "title": "70§",
+      "text": "Edellä 68 §:ssä tarkoitettu menettely ei aiheuta muutosta niihin osuuksiin, jotka jäsenkunnilla välittömästi ennen siirtymistä on erityishuoltopiirin kuntainliiton varoihin ja velkoihin, jollei toisin sovita.",
+      "section_number": "70",
+      "chapter_number": 9,
+      "statute_id": ""
+    },
+    {
+      "id": "a273a507-104b-4657-9562-2c1c7998695b",
+      "node_type": "Section",
+      "publisher": "finlex",
+      "title": "71§",
+      "text": "Sen lisäksi, mitä 58 §:n 2 momentissa on säädetty, sosiaalihallituksen tai lääninhallituksen tulee muitakin tässä laissa tarkoitettuja asioita ratkaistessaan noudattaa sosiaali- ja terveysministeriön yleisiä ohjeita.",
+      "section_number": "71",
+      "chapter_number": 10,
+      "statute_id": ""
+    },
+    {
+      "id": "31192604-4271-495a-8898-1db6bee60e6b",
+      "node_type": "Section",
+      "publisher": "finlex",
+      "title": "72§",
+      "text": "Erityishuoltoa järjestävää toimintayksikköä ei saa ottaa käyttöön ennen kuin lääninhallitus on hyväksynyt sen tarkoitukseensa.",
+      "section_number": "72",
+      "chapter_number": 10,
+      "statute_id": ""
+    },
+    {
+      "id": "d61c2cb0-74a9-461a-9af9-f38583b1e209",
+      "node_type": "Section",
+      "publisher": "finlex",
+      "title": "73§",
+      "text": "Jollei toisin ole sovittu, jäsenkuntien osuudet erityishuoltopiirin kuntainliiton varoihin ja vastuu sen veloista määräytyvät niiden osuuksien suhteessa, joilla jäsenkunnat ovat osallistuneet kuntainliiton perustamiskustannuksiin. Maksuosuudet muunnetaan kuitenkin sen mukaan kuin asetuksella tarkemmin säädetään jäsenkuntien osuuksien määräämisajankohdan rahanarvoon huomioon ottaen kohtuullinen arvonvähennys. Milloin erityishuoltopiirijakoa muutettaessa erityishuoltopiirin kuntainliiton jäsenkunta siirtyy toiseen erityishuoltopiiriin, luovuttavan kuntainliiton on suoritettava vastaanottavalle kuntainliitolle korvaus kunnan osuudesta kuntainliiton varoihin velat vähennettyinä.",
+      "section_number": "73",
+      "chapter_number": 10,
+      "statute_id": ""
+    },
+    {
+      "id": "6c66de2e-3f0d-43b7-a373-3475a37e24ae",
+      "node_type": "Section",
+      "publisher": "finlex",
+      "title": "74§",
+      "text": "Kelpoisuudesta erityishuoltopiirin kuntainliiton ja erityishuoltoa järjestävän kunnan virkoihin voidaan säätää asetuksella.",
+      "section_number": "74",
+      "chapter_number": 10,
+      "statute_id": ""
+    },
+    {
+      "id": "2774539f-c897-4200-a2ec-6c458ec0bf36",
+      "node_type": "Section",
+      "publisher": "finlex",
+      "title": "75§",
+      "text": "Erityishuoltopiirin kuntainliitto on velvollinen järjestämään palveluksessaan olevalle sekä alueensa kunnissa erityishuoltotehtävissä toimivalle henkilökunnalle täydennyskoulutusta siinä laajuudessa ja sillä tavoin kuin valtakunnallisessa erityishuoltosuunnitelmassa määrätään. Kuntainliitto on velvollinen määräämään palveluksessaan olevan henkilön osallistumaan tämän toimialaa koskevaan sosiaalihallituksen hyväksymään tai järjestämään täydennyskoulutukseen valtakunnallisessa erityishuoltosuunnitelmassa määrätyllä tavalla.",
+      "section_number": "75",
+      "chapter_number": 10,
+      "statute_id": ""
+    },
+    {
+      "id": "d014682b-51c2-41dc-ac1b-6ec9ad10fbf0",
+      "node_type": "Section",
+      "publisher": "finlex",
+      "title": "76§",
+      "text": "Erityishuoltopiirin kuntainliiton tai erityishuoltoa järjestävän kunnan luottamushenkilöt ja niiden palveluksessa olevat sekä muut niiden tehtäviä suorittavat tai niiden toimintayksikössä työskentelevät henkilöt eivät saa ilman asianomaisen henkilön tai hänen holhoojansa tahi muun huoltajan lupaa ilmaista yksityistä tai perheen salaisuutta, josta he asemansa tahi tehtävänsä perusteella ovat saaneet tietää. Sama koskee erityishuoltoa järjestävään muuhun kuin kunnalliseen toimintayksikköön vastaavanlaisessa suhteessa olevaa henkilöä. Mitä 1 momentissa on säädetty, ei estä asian ilmaisemista sille, jolla viran puolesta on oikeus saada asiasta tieto.",
+      "section_number": "76",
+      "chapter_number": 10,
+      "statute_id": ""
+    },
+    {
+      "id": "c7aeeb77-851e-4c76-ae65-962a84efa229",
+      "node_type": "Section",
+      "publisher": "finlex",
+      "title": "77§",
+      "text": "Joka rikkoo 76 §:n 1 momentissa säädetyn salassapitovelvollisuuden, on tuomittava, jollei teosta ole muussa laissa säädetty ankarampaa rangaistusta,kehitysvammaisten erityishuollosta annetussa laissa säädetyn salassapitovelvollisuuden rikkomisestasakkoon tai vankeuteen enintään kuudeksi kuukaudeksi. Virallinen syyttäjä ei saa nostaa syytettä 1 mikäli momentissa tarkoitetusta teosta, ellei asianomistaja ole ilmoittanut tekoa syytteeseen pantavaksi.",
+      "section_number": "77",
+      "chapter_number": 10,
+      "statute_id": ""
+    },
+    {
+      "id": "bab89960-b5be-4892-8028-715c258e2f33",
+      "node_type": "Section",
+      "publisher": "finlex",
+      "title": "78§",
+      "text": "Erityishuollon järjestäjä on pyynnöstä velvollinen antamaan erityishuoltoa saavalle henkilölle tai hänen holhoojalleen tahi muulle huoltajalle nähtäväksi huollettavan henkilön erityishuoltoohjelman samoin kuin muut hallussaan olevat huollettavaa, hänen tilaansa tai huoltoaan koskevat asiakirjat noudattaen soveltuvin osin, mitä yleisten asiakirjojen julkisuudesta annetussa laissa (83/51) asiakirjojen nähtäväksi antamisesta säädetään. Huollettavalla tai hänen holhoojallaan tahi muulla huoltajalla on myös oikeus samoin edellytyksin saada asiakirjoista tarvitsemansa jäljennökset.",
+      "section_number": "78",
+      "chapter_number": 10,
+      "statute_id": ""
+    },
+    {
+      "id": "87497ec1-802a-4702-a9cf-a5c8feed1d83",
+      "node_type": "Section",
+      "publisher": "finlex",
+      "title": "79§",
+      "text": "Erityishuollon järjestäjä on velvollinen antamaan valtion viranomaisille toiminnastaan näiden tarpeellisiksi katsomia tietoja ja selvityksiä noudattaen kuitenkin, mitä muussa laissa on salassapitovelvollisuudesta säädetty. Erityishuoltoa järjestävä kunta sekä 16 §:ssä tarkoitettu yksityinen erityishuollon järjestäjä on samoin edellytyksin velvollinen antamaan myös erityishuoltopiirin kuntainliitolle tämän tarpeellisiksi katsomia tietoja ja selvityksiä.",
+      "section_number": "79",
+      "chapter_number": 10,
+      "statute_id": ""
+    },
+    {
+      "id": "fb570144-54ee-4364-8321-7699156ae8a7",
+      "node_type": "Section",
+      "publisher": "finlex",
+      "title": "80§",
+      "text": "Sosiaalilautakunnan päätökseen tässä laissa tarkoitetussa asiassa haetaan muutosta valittamalla lääninoikeuteen 30 päivän kuluessa päätöksen tiedoksi saamisesta. Valitus voidaan antaa sanottuna aikana myös lautakunnalle, jonka tulee oman lausuntonsa ohessa toimittaa se lääninoikeudelle. Mitä 1 momentissa on säädetty, ei sovelleta, milloin laissa tai asetuksessa on muutoksenhausta säädetty toisin tai kielletty muutoksenhaku, ei myöskään milloin päätös kunnallislain mukaan voidaan alistaa kunnan- tai liittohallituksen tutkittavaksi.",
+      "section_number": "80",
+      "chapter_number": 10,
+      "statute_id": ""
+    },
+    {
+      "id": "6e6737ec-9233-490f-891e-7c0d3bec364f",
+      "node_type": "Section",
+      "publisher": "finlex",
+      "title": "81§",
+      "text": "Muutoksenhaussa erityishuoltopiirin kuntainliiton liittovaltuuston, liittohallituksen, lautakunnan, johtokunnan, yhteisjohtokunnan, erityishuollon johtoryhmän tai muun kunnallisen toimielimen tai viranhaltijan päätökseen on noudatettava, mitä kunnallislaissa säädetään, mikäli tämän lain säännöksistä ei muuta johdu. Siitä poiketen, mitä 1 momentissa säädetään, erityishuollon johtoryhmän tai kunnallisen viranhaltijan päätökseen, joka koskee erityishuollon antamista ja lopettamista sekä erityishuollon johtoryhmän päätökseen, joka koskee vastoin tahtoa tapahtuvaa erityishuollon antamista tahi jatkamista taikka näiden tai sosiaalilautakunnan päätökseen yksilöllisen erityishuolto-ohjelman hyväksymisestä, haetaan muutosta valittamalla lääninhallitukselle 30 päivän kuluessa päätöksen tiedoksi saamisesta. Valitus voidaan antaa sanottuna aikana myös erityishuollon johtoryhmälle tai sosiaalilautakunnalle, joiden tulee oman lausuntonsa ohella toimittaa se lääninhallitukselle. Siitä poiketen, mitä 1 ja 2 momentissa säädetään, johtoryhmän 33 §:n 1 momentin nojalla tekemään päätökseen ei saa hakea muutosta valittamalla.",
+      "section_number": "81",
+      "chapter_number": 10,
+      "statute_id": ""
+    },
+    {
+      "id": "7aaae4fd-5212-4689-8a71-5da8a3d4b63e",
+      "node_type": "Section",
+      "publisher": "finlex",
+      "title": "82§",
+      "text": "Muutosta valtioneuvoston, sosiaali- ja terveysministeriön, sosiaalihallituksen, lääninhallituksen ja lääninoikeuden päätökseen haetaan siinä järjestyksessä kuin muutoksenhausta hallintoasioissa annetussa laissa (154/50) on säädetty. Siitä poiketen, mitä 1 momentissa säädetään, lääninhallituksen 33 §:n 3 momentin ja 38 §:n nojalla tekemään päätökseen haetaan muutosta valittamalla sosiaalihallitukselta 30 päivän kuluessa päätöksen tiedoksi saamisesta. Valitus voidaan antaa sanottuna aikana myös lääninhallitukselle, jonka tulee oman lausuntonsa ohella toimittaa se sosiaalihallitukselle. Sosiaalihallituksen 2 momentin sekä lääninhallituksen 36 §:n nojalla tekemään päätökseen ei saa hakea muutosta valittamalla.",
+      "section_number": "82",
+      "chapter_number": 10,
+      "statute_id": ""
+    },
+    {
+      "id": "ed53fa7b-11dd-48b7-b20b-3160948e4c4e",
+      "node_type": "Section",
+      "publisher": "finlex",
+      "title": "83§",
+      "text": "Erityishuoltopiirin kuntainliiton liittovaltuuston, liittohallituksen, lautakunnan, johtokunnan, yhteisjohtokunnan, erityishuollon johtoryhmän tai viranhaltijan päätös voidaan panna täytäntöön, ennenkuin se on saanut lainvoiman, siten kuin kunnallislain 146 §:ssä säädetään. Sanotun säännöksen estämättä voidaan päätös muutoksenhausta huolimatta panna täytäntöön, jos se on laadultaan sellainen, että se on viivytyksettä täytäntöönpantava, tai jos päätöksen voimaantulemista ei voida erityishuollollisista syistä siirtää tuonnemmaksi ja mainittu toimielin on määrännyt päätöksen heti täytäntöönpantavaksi.",
+      "section_number": "83",
+      "chapter_number": 10,
+      "statute_id": ""
+    },
+    {
+      "id": "609369fd-2cb7-415f-9961-a3458ae3e6e5",
+      "node_type": "Section",
+      "publisher": "finlex",
+      "title": "84§",
+      "text": "Edellä 43 §:ssä tarkoitetut maksut ja korvaukset saadaan ulosottaa ilman tuomiota tai päätöstä siinä järjestyksessä kuin verojen ja maksujen perimisestä ulosottotoimin on säädetty.",
+      "section_number": "84",
+      "chapter_number": 10,
+      "statute_id": ""
+    },
+    {
+      "id": "2e3d7b8c-670b-4a7a-b826-5d99310ccda4",
+      "node_type": "Section",
+      "publisher": "finlex",
+      "title": "85§",
+      "text": "Edellä 10-13 §:ssä, 16 §:n 3 momentissa sekä 5, 8 ja 9 luvussa tarkoitettuihin sopimuksiin voidaan sisällyttää määräys siitä, että sopimuksista johtuvat vastaiset riidat on välimiesten ratkaistava noudattaen soveltuvin osin, mitä välimiesmenettelystä annetussa laissa (46/ 28) on säädetty. Eräiden hallintoriita-asiain oikeuspaikasta annetun lain (446/54) 1 §:ssä tarkoitettua hakemusta asiasta, joka 1 momentin mukaan on välimiesten ratkaistava, ei lääninoikeus saa ottaa tutkittavaksi, jos vastapuoli tekee siitä väitteen ennen kuin käyttää pääasiassa puhevaltaa. Jos lääninoikeudessa vireillä oleva riita jätetään välimiesten ratkaistavaksi, tulee lääninoikeuden jättää asia sikseen.",
+      "section_number": "85",
+      "chapter_number": 10,
+      "statute_id": ""
+    },
+    {
+      "id": "c1135e37-ef9d-43f1-b2bb-aca0a1654957",
+      "node_type": "Section",
+      "publisher": "finlex",
+      "title": "86§",
+      "text": "Tarkemmat säännökset tämän lain täytäntöönpanosta ja soveltamisesta annetaan asetuksella.",
+      "section_number": "86",
+      "chapter_number": 10,
+      "statute_id": ""
+    },
+    {
+      "id": "b1ced191-ff08-43bd-8a51-b4798ea86fd8",
+      "node_type": "Section",
+      "publisher": "finlex",
+      "title": "87§",
+      "text": "Tämän lain voimaanpanosta säädetään erikseen.",
+      "section_number": "87",
+      "chapter_number": 10,
+      "statute_id": ""
+    }
+  ],
+  "clauses": [
+    {
+      "id": "ffef3bf1-e95f-464a-8922-528f0ed26b62",
+      "node_type": "Clause",
+      "publisher": "finlex",
+      "title": "§ 2 mom 1",
+      "text": "1) tutkimus, joka käsittää erityishuollon yksilöllisen suunnittelun ja toteuttamisen edellyttämät lääketieteelliset, psykologiset ja sosiaaliset selvitykset sekä soveltuvuuskokeet;",
+      "clause_number": 1,
+      "section_number": "2",
+      "statute_id": ""
+    },
+    {
+      "id": "048cc1ed-78cd-4c54-84bb-de71688144ec",
+      "node_type": "Clause",
+      "publisher": "finlex",
+      "title": "§ 2 mom 2",
+      "text": "2) terveydenhuolto;",
+      "clause_number": 2,
+      "section_number": "2",
+      "statute_id": ""
+    },
+    {
+      "id": "bb1cdb28-13e9-4526-b36e-c99eedd7e0ab",
+      "node_type": "Clause",
+      "publisher": "finlex",
+      "title": "§ 2 mom 3",
+      "text": "3) harjaantumis- ja muu tarpeellinen opetus, ohjaus sekä toiminnallinen valmennus;",
+      "clause_number": 3,
+      "section_number": "2",
+      "statute_id": ""
+    },
+    {
+      "id": "c1d15a07-66fa-4d70-850f-3e5ce0828cc5",
+      "node_type": "Clause",
+      "publisher": "finlex",
+      "title": "§ 2 mom 4",
+      "text": "4) sijoittaminen työhön, asumisen järjestäminen ja muu vastaava yhteiskunnalliseen sopeuttamiseen pyrkivä toiminta;",
+      "clause_number": 4,
+      "section_number": "2",
+      "statute_id": ""
+    },
+    {
+      "id": "43203738-fa75-496f-9fe9-a185dfd7784b",
+      "node_type": "Clause",
+      "publisher": "finlex",
+      "title": "§ 2 mom 5",
+      "text": "5) henkilökohtaisten apuneuvojen ja apuvälineiden järjestäminen;",
+      "clause_number": 5,
+      "section_number": "2",
+      "statute_id": ""
+    },
+    {
+      "id": "5d5422b2-d3ed-4347-8436-62866f8ba64d",
+      "node_type": "Clause",
+      "publisher": "finlex",
+      "title": "§ 2 mom 6",
+      "text": "6) yksilöllinen hoito ja muu huolenpito;",
+      "clause_number": 6,
+      "section_number": "2",
+      "statute_id": ""
+    },
+    {
+      "id": "fe9fbdba-304c-4470-9b96-a8465fb268c6",
+      "node_type": "Clause",
+      "publisher": "finlex",
+      "title": "§ 2 mom 7",
+      "text": "7) henkilön aviopuolison, vanhempien ja muiden perheenjäsenten, muun huoltajan tai hänelle muuten läheisen henkilön ohjaus ja neuvonta;",
+      "clause_number": 7,
+      "section_number": "2",
+      "statute_id": ""
+    },
+    {
+      "id": "b7029878-f368-4ab1-a1f6-ae6a7d7cf6e6",
+      "node_type": "Clause",
+      "publisher": "finlex",
+      "title": "§ 2 mom 8",
+      "text": "8) tiedotustoiminnan harjoittaminen erityishuoltopalveluksista;",
+      "clause_number": 8,
+      "section_number": "2",
+      "statute_id": ""
+    },
+    {
+      "id": "da1d3962-1abc-44d6-bde7-1baefb33d139",
+      "node_type": "Clause",
+      "publisher": "finlex",
+      "title": "§ 2 mom 9",
+      "text": "9) kehityshäiriöiden ehkäisy; sekä",
+      "clause_number": 9,
+      "section_number": "2",
+      "statute_id": ""
+    },
+    {
+      "id": "e9a5d3e0-ce75-4971-8575-2702ebe27f22",
+      "node_type": "Clause",
+      "publisher": "finlex",
+      "title": "§ 2 mom 10",
+      "text": "10) muu vastaava erityishuollon toteuttamiseksi tarpeellinen toiminta.",
+      "clause_number": 10,
+      "section_number": "2",
+      "statute_id": ""
+    },
+    {
+      "id": "408f34a5-ff9a-4c37-a63a-69a6bc028d19",
+      "node_type": "Clause",
+      "publisher": "finlex",
+      "title": "§ 4 mom 1",
+      "text": "1) selvitys vuosittain palkattavasta uudesta henkilökunnasta ja perusteista sen jakamiseksi alueittain;",
+      "clause_number": 1,
+      "section_number": "4",
+      "statute_id": ""
+    },
+    {
+      "id": "25c397ea-6f00-41e7-89df-e8965ced774e",
+      "node_type": "Clause",
+      "publisher": "finlex",
+      "title": "§ 4 mom 2",
+      "text": "2) arvio valtionosuuksien enimmäismääristä; sekä",
+      "clause_number": 2,
+      "section_number": "4",
+      "statute_id": ""
+    },
+    {
+      "id": "04c73b96-5c11-4a54-afd0-039d0da5b40c",
+      "node_type": "Clause",
+      "publisher": "finlex",
+      "title": "§ 4 mom 3",
+      "text": "3) arvio valtionavustuksista ja niiden jakautumisperusteista.",
+      "clause_number": 3,
+      "section_number": "4",
+      "statute_id": ""
+    },
+    {
+      "id": "f88a6eae-ca30-419c-b502-e87784897485",
+      "node_type": "Clause",
+      "publisher": "finlex",
+      "title": "§ 9 mom 1",
+      "text": "1) päivähuoltona, harjaantumisopetuksena ja suojatyönä;",
+      "clause_number": 1,
+      "section_number": "9",
+      "statute_id": ""
+    },
+    {
+      "id": "a08edd22-5cbb-4288-9bd2-72cd7d62cabd",
+      "node_type": "Clause",
+      "publisher": "finlex",
+      "title": "§ 9 mom 2",
+      "text": "2) perhehuoltona;",
+      "clause_number": 2,
+      "section_number": "9",
+      "statute_id": ""
+    },
+    {
+      "id": "e8572568-3930-4276-ae42-624607e63fca",
+      "node_type": "Clause",
+      "publisher": "finlex",
+      "title": "§ 9 mom 3",
+      "text": "3) asumishuoltona; ja",
+      "clause_number": 3,
+      "section_number": "9",
+      "statute_id": ""
+    },
+    {
+      "id": "b671097a-28ef-4176-8daa-b17546ca48af",
+      "node_type": "Clause",
+      "publisher": "finlex",
+      "title": "§ 9 mom 4",
+      "text": "4) muuna avohuoltona; sekä",
+      "clause_number": 4,
+      "section_number": "9",
+      "statute_id": ""
+    },
+    {
+      "id": "71cf54dd-2039-417b-9c51-85fdd0d3c291",
+      "node_type": "Clause",
+      "publisher": "finlex",
+      "title": "§ 9 mom 5",
+      "text": "5) laitoshuoltona.",
+      "clause_number": 5,
+      "section_number": "9",
+      "statute_id": ""
+    },
+    {
+      "id": "d3432f62-98f1-4238-b718-4703163b0c8a",
+      "node_type": "Clause",
+      "publisher": "finlex",
+      "title": "§ 25 mom 2",
+      "text": "1) 19 §:n 2 momentissa tarkoitetusta lautakunnasta, sen kokoonpanosta ja tehtävistä;",
+      "clause_number": 2,
+      "section_number": "25",
+      "statute_id": ""
+    },
+    {
+      "id": "de19db82-1b8e-483c-aacf-f963313a902a",
+      "node_type": "Clause",
+      "publisher": "finlex",
+      "title": "§ 25 mom 1",
+      "text": "1) 19 §:n 2 momentissa tarkoitetusta lautakunnasta, sen kokoonpanosta ja tehtävistä;",
+      "clause_number": 1,
+      "section_number": "25",
+      "statute_id": ""
+    },
+    {
+      "id": "ffc4007e-67e0-46b9-90c8-9e602d95c8f9",
+      "node_type": "Clause",
+      "publisher": "finlex",
+      "title": "§ 25 mom 2",
+      "text": "2) erityishuoltoneuvoston asettamisesta, sen kokoonpanosta ja tehtävistä;",
+      "clause_number": 2,
+      "section_number": "25",
+      "statute_id": ""
+    },
+    {
+      "id": "c8a064d0-232f-4dc5-848d-7b1c1bdc161e",
+      "node_type": "Clause",
+      "publisher": "finlex",
+      "title": "§ 25 mom 3",
+      "text": "3) johtokunnan asettamisesta, sen kokoonpanosta ja tehtävistä;",
+      "clause_number": 3,
+      "section_number": "25",
+      "statute_id": ""
+    },
+    {
+      "id": "0eb0e59a-3165-4061-a65f-3f9e1e39e1aa",
+      "node_type": "Clause",
+      "publisher": "finlex",
+      "title": "§ 25 mom 4",
+      "text": "4) erityishuollon johtoryhmän kokoonpanosta ja tehtävistä;",
+      "clause_number": 4,
+      "section_number": "25",
+      "statute_id": ""
+    },
+    {
+      "id": "012eaf3d-0ed5-49b2-983f-316f1a07a0a8",
+      "node_type": "Clause",
+      "publisher": "finlex",
+      "title": "§ 25 mom 3",
+      "text": "5) henkilökunnan valitsemisesta 22 §:n 3 momentissa säädetystä poikkeavassa järjestyksessa; sekä",
+      "clause_number": 3,
+      "section_number": "25",
+      "statute_id": ""
+    },
+    {
+      "id": "306a0145-d348-4ce7-83d2-f7f39a745835",
+      "node_type": "Clause",
+      "publisher": "finlex",
+      "title": "§ 25 mom 5",
+      "text": "5) henkilökunnan valitsemisesta 22 §:n 3 momentissa säädetystä poikkeavassa järjestyksessa; sekä",
+      "clause_number": 5,
+      "section_number": "25",
+      "statute_id": ""
+    },
+    {
+      "id": "e3ae0656-faeb-4f1a-b67f-1c518218c246",
+      "node_type": "Clause",
+      "publisher": "finlex",
+      "title": "§ 25 mom 6",
+      "text": "6) muusta kuntainliiton hallinnosta ja sen toimintayksikköjen toiminnasta ottaen huomioon mitä tässä laissa tai sen nojalla säädetaan tai määrätään.",
+      "clause_number": 6,
+      "section_number": "25",
+      "statute_id": ""
+    },
+    {
+      "id": "f4552e06-c80c-4f60-a6a7-878f7998d256",
+      "node_type": "Clause",
+      "publisher": "finlex",
+      "title": "§ 40 mom 1",
+      "text": "1) vankilassa taikka muussa valtion laitoksessa pidettävälle tai huollettavana olevalle; sekä",
+      "clause_number": 1,
+      "section_number": "40",
+      "statute_id": ""
+    },
+    {
+      "id": "957643d7-a683-4392-94d2-57e14d9f3700",
+      "node_type": "Clause",
+      "publisher": "finlex",
+      "title": "§ 40 mom 2",
+      "text": "2) rikoksesta syytetylle, jota sen mukaan kuin erikseen säädetään, pidetään erityishuollon toimintayksikössä tai joka mielentilansa vuoksi on jätetty rangaistukseen tuomitsematta ja jolle on määrätty annettavaksi erityishuoltoa.",
+      "clause_number": 2,
+      "section_number": "40",
+      "statute_id": ""
+    }
+  ],
+  "cross_references": [
+    {
+      "raw_text": "pykälän 1 momentissa m",
+      "statute_id": "",
+      "section_number": "1 momentissa m",
+      "clause_number": null,
+      "resolution_confidence": 0.0
+    },
+    {
+      "raw_text": "pykälän 2 momentissa t",
+      "statute_id": "",
+      "section_number": "2 momentissa t",
+      "clause_number": null,
+      "resolution_confidence": 0.0
+    }
+  ],
+  "raw_html_path": "C:\\Users\\danit\\finance-hack\\aalto-hackaton-2026\\data\\raw\\finlex\\Laki (säädöskokoelma)\\Laki kehitysvammaisten erityishuollosta.html"
+}

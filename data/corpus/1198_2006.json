@@ -1,0 +1,583 @@
+{
+  "statute": {
+    "id": "8c28e793-9bbb-4d14-94b9-2f4f078df794",
+    "node_type": "Statute",
+    "publisher": "finlex",
+    "title": "Laki Euroopan kalatalousrahaston kansallisesta hallinnoinnista ja elinkeinokalataloudelle myönnettävistä tuista",
+    "text": "Laki Euroopan kalatalousrahaston kansallisesta hallinnoinnista ja elinkeinokalataloudelle myönnettävistä tuista",
+    "statute_id": "1198/2006",
+    "finlex_url": "https://finlex.fi/fi/laki/ajantasa/1198/2006"
+  },
+  "chapters": [
+    {
+      "id": "5c0ceef6-10a2-477f-b8c4-776b5cacf2fa",
+      "node_type": "Chapter",
+      "publisher": "finlex",
+      "title": "Chapter 1",
+      "text": "1 luku Yleiset säännökset",
+      "chapter_number": 1,
+      "statute_id": "1198/2006"
+    },
+    {
+      "id": "9cc8a272-b2b1-4fcf-bcd5-c70da774b8c3",
+      "node_type": "Chapter",
+      "publisher": "finlex",
+      "title": "Chapter 2",
+      "text": "2 luku Kansallinen strategiasuunnitelma ja toimintaohjelma",
+      "chapter_number": 2,
+      "statute_id": "1198/2006"
+    },
+    {
+      "id": "d0abfc66-6fc6-4f16-9803-4911ab4c10c1",
+      "node_type": "Chapter",
+      "publisher": "finlex",
+      "title": "Chapter 3",
+      "text": "3 luku Toimintaohjelman hallinnointi",
+      "chapter_number": 3,
+      "statute_id": "1198/2006"
+    },
+    {
+      "id": "cf3c2934-50f6-4062-a276-43098880287c",
+      "node_type": "Chapter",
+      "publisher": "finlex",
+      "title": "Chapter 4",
+      "text": "4 luku Toimintaohjelman toimeenpano",
+      "chapter_number": 4,
+      "statute_id": "1198/2006"
+    },
+    {
+      "id": "e478fd43-3578-43eb-8fb3-59d2b7dede83",
+      "node_type": "Chapter",
+      "publisher": "finlex",
+      "title": "Chapter 5",
+      "text": "5 luku Tuen hakeminen, myöntäminen ja kustannusten tukikelpoisuus",
+      "chapter_number": 5,
+      "statute_id": "1198/2006"
+    },
+    {
+      "id": "fffe829a-e8e2-4b6a-9e9e-926b2a585d88",
+      "node_type": "Chapter",
+      "publisher": "finlex",
+      "title": "Chapter 6",
+      "text": "6 luku Erinäiset säännökset",
+      "chapter_number": 6,
+      "statute_id": "1198/2006"
+    }
+  ],
+  "sections": [
+    {
+      "id": "1641efb9-6bc9-423c-98d5-a68a1e680555",
+      "node_type": "Section",
+      "publisher": "finlex",
+      "title": "1 § Lain tarkoitus",
+      "text": "Tämän lain tarkoituksena on varmistaa Euroopan kalatalousrahastosta osarahoitettujen elinkeinokalatalouden kehittämiseen suunnattujen tukien asianmukainen hallinto ja toimeenpano.",
+      "section_number": "1",
+      "chapter_number": 1,
+      "statute_id": "1198/2006"
+    },
+    {
+      "id": "cd0977c8-ee67-498d-b8a8-550b3df178a8",
+      "node_type": "Section",
+      "publisher": "finlex",
+      "title": "2 § Soveltamisala",
+      "text": "Tätä lakia sovelletaan elinkeinokalatalouden kehittämiseen sekä Euroopan kalatalousrahastosta annetun neuvoston asetuksen (EY) N:o 1198/2006 (kalatalousrahastoasetus) mukaisesti kansallisen strategiasuunnitelman ja kalatalousrahastosta osarahoitettavan toimintaohjelman laatimiseen, arvioimiseen, toimeenpanoon, hallinnointiin, valvontaan ja seurantaan. Tuen hakemiseen, myöntämiseen, maksamiseen, valvontaan, tarkastukseen, palauttamiseen ja takaisinperintään sovelletaan valtionavustuslakia (688/2001), jollei tässä laissa toisin säädetä.",
+      "section_number": "2",
+      "chapter_number": 1,
+      "statute_id": "1198/2006"
+    },
+    {
+      "id": "180ebab7-39e6-4c40-a8b9-7c381c160a92",
+      "node_type": "Section",
+      "publisher": "finlex",
+      "title": "3 § Suhde Euroopan yhteisön lainsäädäntöön",
+      "text": "Tätä lakia sovelletaan kansallisen strategiasuunnitelman ja toimintaohjelman laatimiseen, arvioimiseen, toimeenpanoon, hallinnointiin, valvontaan ja seurantaan siltä osin kuin Euroopan yhteisön lainsäädännöstä ei muuta johdu.",
+      "section_number": "3",
+      "chapter_number": 1,
+      "statute_id": "1198/2006"
+    },
+    {
+      "id": "f5fe3991-2e2f-4d67-8a90-c184e82d841f",
+      "node_type": "Section",
+      "publisher": "finlex",
+      "title": "4 § Määritelmät",
+      "text": "Tässä laissa tarkoitetaan:",
+      "section_number": "4",
+      "chapter_number": 1,
+      "statute_id": "1198/2006"
+    },
+    {
+      "id": "bdcfcce2-2cf8-4055-bf69-0c27b9da553d",
+      "node_type": "Section",
+      "publisher": "finlex",
+      "title": "5 § Kansallinen strategiasuunnitelma",
+      "text": "Maa- ja metsätalousministeriö vastaa kalatalousrahastoasetuksen 15 artiklassa tarkoitetun kansallisen strategiasuunnitelman laatimisesta, toteuttamisesta ja seurannasta sekä siihen sisältyvien tavoitteiden yhteensovittamisesta Euroopan yhteisön yhteisen kalastuspolitiikan tavoitteiden sekä yhteisön muiden politiikkojen kanssa. Valtioneuvosto hyväksyy suunnitelman ennen sen toimittamista Euroopan yhteisöjen komissiolle.",
+      "section_number": "5",
+      "chapter_number": 2,
+      "statute_id": "1198/2006"
+    },
+    {
+      "id": "fbfe4e94-c5a2-4398-ac6a-d6c013319909",
+      "node_type": "Section",
+      "publisher": "finlex",
+      "title": "6 § Toimintaohjelma",
+      "text": "Maa- ja metsätalousministeriö laatii 5 §:ssä tarkoitetun strategiasuunnitelman perusteella ehdotuksen Suomen elinkeinokalatalouden toimintaohjelmaksi sekä vastaa sen yhteensovittamisesta Euroopan yhteisön muiden rahoitusvälineiden ja ohjelmien kanssa. Euroopan yhteisön varoista rahoitettavaa toimintaohjelmaa koskevan ehdotuksen hyväksymisestä päättää valtioneuvosto ennen ehdotuksen toimittamista Euroopan yhteisöjen komission hyväksyttäväksi. Toimintaohjelman muuttamisessa noudatetaan soveltuvin osin, mitä ohjelman laatimisesta ja hyväksymisestä säädetään. Merkitykseltään vähäisestä muutoksesta päättää kuitenkin 7 §:ssä tarkoitettu hallintoviranomainen.",
+      "section_number": "6",
+      "chapter_number": 2,
+      "statute_id": "1198/2006"
+    },
+    {
+      "id": "47e1d1f0-042e-423e-a05a-ffe736718d4d",
+      "node_type": "Section",
+      "publisher": "finlex",
+      "title": "7 § Hallintoviranomainen",
+      "text": "Maa- ja metsätalousministeriö toimii kalatalousrahastoasetuksen 58 artiklassa tarkoitettuna hallintoviranomaisena. Hallintoviranomaisen tehtävistä säädetään kalatalousrahastoasetuksen 59 artiklassa.",
+      "section_number": "7",
+      "chapter_number": 3,
+      "statute_id": "1198/2006"
+    },
+    {
+      "id": "c523a776-c414-4532-8bac-ab8ec21748c6",
+      "node_type": "Section",
+      "publisher": "finlex",
+      "title": "8 § Todentamisviranomainen",
+      "text": "Maa- ja metsätalousministeriö toimii kalatalousrahastoasetuksen 58 artiklassa tarkoitettuna todentamisviranomaisena. Todentamisviranomaisen tehtävistä säädetään kalatalousrahastoasetuksen 60 artiklassa.",
+      "section_number": "8",
+      "chapter_number": 3,
+      "statute_id": "1198/2006"
+    },
+    {
+      "id": "220e3731-29b6-4d88-8f82-37760e49e128",
+      "node_type": "Section",
+      "publisher": "finlex",
+      "title": "9 § Tarkastusviranomainen",
+      "text": "Maa- ja metsätalousministeriö toimii kalatalousrahastoasetuksen 58 artiklassa tarkoitettuna tarkastusviranomaisena. Tarkastusviranomaisen tehtävistä säädetään kalatalousrahastoasetuksen 61 artiklassa.",
+      "section_number": "9",
+      "chapter_number": 3,
+      "statute_id": "1198/2006"
+    },
+    {
+      "id": "b5d5a8b5-da2c-421c-bf71-09b78bb40235",
+      "node_type": "Section",
+      "publisher": "finlex",
+      "title": "10 § Seurantakomitea",
+      "text": "Valtioneuvosto asettaa kalatalousrahastoasetuksen 63 artiklassa tarkoitetun seurantakomitean ottaen huomioon, mitä sen perustamisesta ja kokoonpanosta säädetään Euroopan yhteisön lainsäädännössä. Valtioneuvoston asetuksella säädetään tarkemmin seurantakomitean asettamisesta, kokoonpanosta ja sen jäsenistä. Seurantakomitean tehtävänä on hoitaa sille Euroopan yhteisön lainsäädännön mukaan kuuluvat tehtävät. Seurantakomitean toimikausi päättyy, kun Euroopan yhteisöjen komissio on hyväksynyt kalatalousrahastoasetuksen 67 artiklan 1 kohdassa tarkoitetun viimeisen täytäntöönpanoa koskevan loppukertomuksen. Seurantakomitean työjärjestyksessä määrätään seurantakomitean kokouksista, asioiden käsittelystä seurantakomiteassa sekä sen mahdollisuudesta kuulla asiantuntijoita. Seurantakomitean toiminnassa noudatetaan hallintolakia (434/2003), kielilakia (423/2003), saamen kielilakia (1086/2003) ja viranomaisten toiminnan julkisuudesta annettua lakia (621/1999). Seurantakomitean päätöksentekoon osallistuvien henkilöiden toimintaan sovelletaan rikosoikeudellista virkavastuuta koskevia säännöksiä. Seurantakomitean tehtäviä hoidettaessa aiheutetun vahingon korvaamisesta on voimassa, mitä vahingonkorvauslaissa (412/1974) säädetään.",
+      "section_number": "10",
+      "chapter_number": 3,
+      "statute_id": "1198/2006"
+    },
+    {
+      "id": "69341109-c4a5-4e5a-9ebc-f01ffdcd8464",
+      "node_type": "Section",
+      "publisher": "finlex",
+      "title": "11 § Maa- ja metsätalousministeriön tehtävät",
+      "text": "Maa- ja metsätalousministeriö vastaa: Ohjelman yhtenäisen ja tehokkaan toimeenpanon varmistamiseksi maa- ja metsätalousministeriö ohjaa ja valvoo työvoima- ja elinkeinokeskuksia sekä kalatalousryhmiä niiden hoitaessa 12―14 §:ssä tarkoitettuja tehtäviä.",
+      "section_number": "11",
+      "chapter_number": 4,
+      "statute_id": "1198/2006"
+    },
+    {
+      "id": "c1e404b2-de45-4181-82e8-84396aecf130",
+      "node_type": "Section",
+      "publisher": "finlex",
+      "title": "12 § Työvoima- ja elinkeinokeskuksen tehtävät",
+      "text": "Työvoima- ja elinkeinokeskus vastaa toimialueellaan tuen myöntämisestä, maksamisesta, paikan päällä tehtävistä todentamisista, seurannasta, takaisinperinnästä ja tiedottamisesta samoin kuin 15 §:n 2 momentissa tarkoitetusta toimenpiteiden alueellisesta yhteensovittamisesta. Työvoima- ja elinkeinokeskus pyytää kalatalousrahastoasetuksen IV osaston IV luvun mukaista tukea koskevasta hakemuksesta lausunnon siltä kalatalousryhmältä, jonka toimialueella tuettava toimenpide pääosin toteutetaan. Työvoima- ja elinkeinokeskus voi päättäessään tuen myöntämisestä poiketa lausunnosta, jos tuen myöntäminen on Euroopan yhteisön tai kansallisen lainsäädännön taikka toimintaohjelman tai kalatalousrahastoasetuksen 45 artiklan 2 kohdassa tarkoitetun paikallisen kehittämisstrategian vastaista. Työvoima- ja elinkeinokeskus voi lisäksi poiketa lausunnosta, jos hankkeiden rahoittamiseen varatussa kalatalousryhmän rahoituskehyksessä ei ole määrärahaa hankkeen rahoittamiseksi.",
+      "section_number": "12",
+      "chapter_number": 4,
+      "statute_id": "1198/2006"
+    },
+    {
+      "id": "f9cdc692-074f-465a-9eb4-316d05c92aff",
+      "node_type": "Section",
+      "publisher": "finlex",
+      "title": "13 § Maa- ja metsätalousministeriön ja työvoima- ja elinkeinokeskusten yhteiset ratkaisut",
+      "text": "Maa- ja metsätalousministeriö tekee yhdessä työvoima- ja elinkeinokeskusten kanssa ratkaisun kalatalousrahastoasetuksen IV osaston I luvun 23 ja 24 artiklan ja 26 artiklan 4 kohdan c alakohdan mukaisten palkkioiden myöntämisestä sekä III luvun mukaisesti rahoitettavaksi valittavista 15 000 euron kokonaiskustannukset ylittävistä kehittämishankkeista. Työvoima- ja elinkeinokeskus tekee edellä mainittuun ratkaisuun perustuvat päätökset 12 §:n 1 momentin mukaisesti. Työvoima- ja elinkeinokeskuksen päätökseen voi hakea muutosta 27 §:n 3 momentin mukaisesti. Maa- ja metsätalousministeriö järjestää määräaikaisen hakumenettelyn 1 momentissa tarkoitettujen kehittämishankkeiden osalta. Edellä 1 momentissa tarkoitettujen palkkioiden osalta maa- ja metsätalousministeriö järjestää hakumenettelyn vain toimintaohjelman tavoitteiden saavuttamiseen ja ammattikalastuksen toimintaedellytyksiin liittyvästä erityisestä syystä.",
+      "section_number": "13",
+      "chapter_number": 4,
+      "statute_id": "1198/2006"
+    },
+    {
+      "id": "1790b1aa-5efb-49e1-9e35-8d10240de5c3",
+      "node_type": "Section",
+      "publisher": "finlex",
+      "title": "14 § Kalatalousryhmän tehtävät",
+      "text": "Kalatalousryhmä vastaa oman alueensa elinkeinokalatalouden kehittämistä koskevan, kalatalousrahastoasetuksen 45 artiklan 2 kohdassa tarkoitetun paikallisen kehittämisstrategian toteuttamisesta, seurannasta ja siitä tiedottamisesta. Kalatalousryhmän tulee antaa 12 §:n 2 momentissa tarkoitettu lausunto tukihakemuksen myöntämisen tarkoituksenmukaisuudesta paikallisen kehittämisstrategian tavoitteiden kannalta. Kalatalousryhmän toiminnassa noudatetaan hallintolakia, kielilakia ja viranomaisten toiminnan julkisuudesta annettua lakia. Kalatalousryhmän päätöksentekoon osallistuvien henkilöiden toimintaan sovelletaan rikosoikeudellista virkavastuuta koskevia säännöksiä heidän hoitaessaan kalatalousryhmälle säädettyjä tehtäviä. Tehtäviä hoidettaessa aiheutetun vahingon korvaamisesta on voimassa, mitä vahingonkorvauslaissa säädetään.",
+      "section_number": "14",
+      "chapter_number": 4,
+      "statute_id": "1198/2006"
+    },
+    {
+      "id": "3c89d1a9-6387-46b6-a148-4e4d39a1e31f",
+      "node_type": "Section",
+      "publisher": "finlex",
+      "title": "15 § Toimintaohjelman yhteensovittaminen",
+      "text": "Kalatalousrahaston toimet sovitetaan yhteen rakennerahastojen sekä Euroopan maaseudun kehittämisen maatalousrahaston ja Euroopan maatalouden tukirahaston kanssa rakennerahastoja koskevan kansallisen lainsäädännön mukaisesti. Toimintaohjelmassa määriteltyjen toimenpiteiden toimeenpano sovitetaan yhteen muiden alueella toteutettavien yhteisön osarahoitteisten ohjelmien ja tukitoimenpiteiden kanssa.",
+      "section_number": "15",
+      "chapter_number": 4,
+      "statute_id": "1198/2006"
+    },
+    {
+      "id": "09575826-c10a-4a6d-a43d-ceba105cbb09",
+      "node_type": "Section",
+      "publisher": "finlex",
+      "title": "16 § Tukimuodot ja tuettava toiminta",
+      "text": "Kalatalousrahaston varoista voidaan myöntää tukia seuraaviin kalatalousrahastoasetuksessa säädettyihin ja toimintaohjelmassa tarkemmin määriteltyihin toimenpiteisiin:",
+      "section_number": "16",
+      "chapter_number": 5,
+      "statute_id": "1198/2006"
+    },
+    {
+      "id": "ee72e15b-4bac-4eff-8b64-1d4d72040eb5",
+      "node_type": "Section",
+      "publisher": "finlex",
+      "title": "17 § Tuen hakeminen",
+      "text": "Kirjallinen, allekirjoitettu hakemus on toimitettava ennen tuettavan toimenpiteen aloittamista siihen työvoima- ja elinkeinokeskukseen, jonka toimialueella tuettava toimenpide pääosin toteutetaan tai jonka toimialueella hakijan kotipaikka sijaitsee.",
+      "section_number": "17",
+      "chapter_number": 5,
+      "statute_id": "1198/2006"
+    },
+    {
+      "id": "2e814bf6-0af5-4f46-a059-b9ea5d4f665a",
+      "node_type": "Section",
+      "publisher": "finlex",
+      "title": "18 § Tuen myöntäminen ilman hakemusta",
+      "text": "Maa- ja metsätalousministeriö ja työvoima- ja elinkeinokeskukset voivat myöntää tukea kalatalousrahastoasetuksen 46 artiklan mukaiseen tekniseen apuun ilman hakemusta. Maa- ja metsätalousministeriö voi myöntää tukea kalatalousrahastoasetuksen IV osaston III luvun mukaisiin toimenpiteisiin ilman hakemusta toimintaohjelman tavoitteiden saavuttamiseen liittyvästä erityisestä syystä.",
+      "section_number": "18",
+      "chapter_number": 5,
+      "statute_id": "1198/2006"
+    },
+    {
+      "id": "83fc77b4-42f9-44ff-bf17-aa1f8b6a3b37",
+      "node_type": "Section",
+      "publisher": "finlex",
+      "title": "19 § Tuen saajaa koskevat edellytykset",
+      "text": "Tuen saaja voi olla oikeushenkilö tai luonnollinen henkilö. Investointeihin tukea voidaan myöntää vain sille, joka on arvonlisäverolaissa (1501/1993) tarkoitettu arvonlisäverovelvollinen. Lisäedellytyksenä kalastuksen investoinneissa on, että tuen hakija on kalastuslain (286/1982) 6 a §:n 1 momentissa tarkoitettu ammattikalastaja. Hakijalle, joka ei tukea haettaessa täytä 2 momentissa säädettyjä vaatimuksia, voidaan myöntää tukea kalastuksen investointeihin, jos hakija esittää hakemuksen liitteenä toteuttamiskelpoisen suunnitelman vaatimusten täyttämiseksi kolmen vuoden kuluessa viimeisen maksuerän maksamisesta.",
+      "section_number": "19",
+      "chapter_number": 5,
+      "statute_id": "1198/2006"
+    },
+    {
+      "id": "10bb3c56-a3bf-4514-935d-52ab440864af",
+      "node_type": "Section",
+      "publisher": "finlex",
+      "title": "20 § Kustannusten tukikelpoisuus",
+      "text": "Tukea voidaan myöntää tuettavasta toimenpiteestä aiheutuviin kustannuksiin, jotka ovat syntyneet tukihakemuksen vireilletulon jälkeen. Tukea voidaan myöntää vain investointihankkeeseen, jonka kokonaiskustannukset ovat vähintään 3 000 euroa, jollei tuen myöntämiselle ole elinkeinokalatalouden kehittämiseen liittyvää painavaa syytä. Yksinomaan julkisesti rahoitettuun hankkeeseen liittyvissä hankinnoissa, jotka jäävät julkisista hankinnoista annetun lainsäädännön soveltamisalan ulkopuolelle, on pyydettävä tarjous vähintään kolmelta eri toimittajalta, jos hankinnan arvo ylittää 1 000 euroa. Kehittämishankkeissa syntyvät yleiskustannukset ovat tukikelpoisia, jos ne kohdistuvat hankkeeseen perustellulla tavalla ja niiden kohdistuminen hankkeeseen on luotettavasti osoitettu. Luontaissuoritukset ovat tukikelpoisia kustannuksia osana hankkeen yksityistä rahoitusosuutta. Valtioneuvoston asetuksella säädetään tarkemmin hyväksyttävistä yleiskustannuksista ja luontaissuorituksista sekä niiden erittelystä, osoittamisesta ja enimmäismäärästä.",
+      "section_number": "20",
+      "chapter_number": 5,
+      "statute_id": "1198/2006"
+    },
+    {
+      "id": "a12adbb7-f9a6-4858-b882-b7d3f1d60543",
+      "node_type": "Section",
+      "publisher": "finlex",
+      "title": "21 § Kehittämissuunnitelma",
+      "text": "Investointituen hakija voi esittää hakemuksen yhteydessä yrityksen tai ammatinharjoittajan toiminnan kehittämisen kannalta olennaiset seikat sisältävän kehittämissuunnitelman. Työvoima- ja elinkeinokeskuksen tulee ottaa kehittämissuunnitelma huomioon korottavana tekijänä tuen tasosta päättäessään. Valtioneuvoston asetuksella säädetään tarkemmin kehittämissuunnitelman sisällöstä.",
+      "section_number": "21",
+      "chapter_number": 5,
+      "statute_id": "1198/2006"
+    },
+    {
+      "id": "7e0affdc-a26b-45d2-8e10-6fe69169c83f",
+      "node_type": "Section",
+      "publisher": "finlex",
+      "title": "22 § Tuen myöntäjään ja tuen saajaan kohdistuvat tarkastukset",
+      "text": "Maaseutuvirasto tarkastaa tuen saajan toteuttamat toimenpiteet sekä tuen myöntämiseen liittyvät menettelyt tarkastusviranomaisen laatiman ja komission hyväksymän tarkastusstrategian mukaisesti. Maa- ja metsätalousministeriö voi tarvittaessa tehdä tuen myöntämiseen, maksamiseen ja käyttöön liittyvien edellytysten ja ehtojen noudattamisen valvomiseksi tuen myöntäjiin ja saajiin kohdistuvia tarkastuksia. Vastaava oikeus on tuen saajien osalta työvoima- ja elinkeinokeskuksilla.",
+      "section_number": "22",
+      "chapter_number": 6,
+      "statute_id": "1198/2006"
+    },
+    {
+      "id": "053cd1e6-9d6f-4b4f-bb7d-699bcc82099b",
+      "node_type": "Section",
+      "publisher": "finlex",
+      "title": "23 § Seurantajärjestelmä",
+      "text": "Tukien rahoituksen, myöntämisen, maksamisen, tarkastuksen ja takaisinperinnän sekä niiden vaikutusten seurannan tietojärjestelmänä toimii elinkeinokalatalouden rakennetukirekisteri. Elinkeinokalatalouden rakennetukirekisterin rakentamisesta ja kehittämisestä vastaa maa- ja metsätalousministeriö. Rekisterin ylläpidosta vastaavat maa- ja metsätalousministeriö ja työvoima- ja elinkeinokeskukset yhdessä. Rekisteriin voidaan tallentaa seuraavat tiedot:",
+      "section_number": "23",
+      "chapter_number": 6,
+      "statute_id": "1198/2006"
+    },
+    {
+      "id": "6a93e301-3769-49bb-9523-7b3a48470336",
+      "node_type": "Section",
+      "publisher": "finlex",
+      "title": "24 § Tietojen julkisuus, tietojensaantioikeus ja tietojen luovuttaminen",
+      "text": "Elinkeinokalatalouden rakennetukirekisteriin sisältyvien tietojen julkisuudesta on voimassa, mitä viranomaisten toiminnan julkisuudesta annetussa laissa säädetään. Maa- ja metsätalousministeriöllä, työvoima- ja elinkeinokeskuksilla ja maaseutuvirastolla on salassapitosäännösten estämättä oikeus saada muulta viranomaiselta, julkista tehtävää hoitavalta taholta ja kalatalousryhmältä hakijaa tai tuen saajaa, tämän terveydentilaa, taloudellista asemaa ja liike- tai ammattitoimintaa, julkisista varoista myönnettyä rahoitusta tai muuta tuen kannalta merkityksellistä olosuhdetta koskevia tietoja, jotka ovat välttämättömiä tukea koskevan asian käsittelemiseksi. Maa- ja metsätalousministeriöllä, työvoima- ja elinkeinokeskuksella ja Maaseutuvirastolla on salassapitosäännösten estämättä oikeus luovuttaa muulle viranomaiselle tai julkista tehtävää hoitavalle taikka Euroopan yhteisön toimielimelle tässä laissa säädettyä tehtävää hoidettaessa saatuja, tuen saajaa koskevia tietoja, jotka ovat välttämättömiä viranomaiselle, julkista tehtävää hoitavalle tai toimielimelle säädetyn tarkastustehtävän suorittamiseksi tai sen valvomiseksi, että Euroopan yhteisön lainsäädäntöä on noudatettu. Edellä 2 ja 3 momentin perusteella saatuja tietoja ei saa käyttää muuhun kuin siihen tarkoitukseen, johon niitä on pyydetty.",
+      "section_number": "24",
+      "chapter_number": 6,
+      "statute_id": "1198/2006"
+    },
+    {
+      "id": "31e445d6-c284-4477-9bde-7baa028843a2",
+      "node_type": "Section",
+      "publisher": "finlex",
+      "title": "25 § Tietojen säilyttäminen ja rekisteröidyn tarkastusoikeus",
+      "text": "Elinkeinokalatalouden rakennetukirekisteriin sisältyviä tietoja säilytetään kolme vuotta siitä, kun toimintaohjelma on kalatalousrahastoasetuksen 86 artiklan mukaisesti päätetty. Rekisteröidyn oikeuteen tarkastaa häntä koskevat elinkeinokalatalouden rakennetukirekisteriin sisältyvät tiedot, tiedoissa olevien virheiden tai puutteiden oikaisuun sekä vanhentuneiden ja tarpeettomien tietojen poistamiseen sovelletaan, mitä henkilötietolaissa (523/1999) säädetään.",
+      "section_number": "25",
+      "chapter_number": 6,
+      "statute_id": "1198/2006"
+    },
+    {
+      "id": "8e7d36e6-31dc-4da7-b452-8bc8c88256f4",
+      "node_type": "Section",
+      "publisher": "finlex",
+      "title": "26 § Kalatalousryhmän hyväksyminen",
+      "text": "Kalatalousryhmäksi voidaan hyväksyä rekisteröity yhdistys tai muu yksityisoikeudellinen yhteisö, joka täyttää ryhmälle yhteisön lainsäädännössä säädetyt toiminnalliset ja hallinnolliset edellytykset. Valtioneuvoston asetuksella säädetään tarkemmin kalatalousryhmien valintaperusteista, hyväksymisessä noudatettavasta menettelystä sekä kalatalousryhmille jaettavan rahoituksen määräytymisperusteista.",
+      "section_number": "26",
+      "chapter_number": 6,
+      "statute_id": "1198/2006"
+    },
+    {
+      "id": "657bb22a-3c53-4f7f-9d6b-032e2b5282c5",
+      "node_type": "Section",
+      "publisher": "finlex",
+      "title": "27 § Muutoksenhaku",
+      "text": "Valtioneuvoston päätökseen, joka koskee 5 §:ssä tarkoitetun kansallisen strategiasuunnitelman tai 6 §:ssä tarkoitetun toimintaohjelman hyväksymistä tai muuttamista, ei saa valittamalla hakea muutosta. Hallintoviranomaisen 6 §:n 3 momentissa tarkoitetusta päätöksestä ei saa valittamalla hakea muutosta. Maa- ja metsätalousministeriön tämän lain nojalla tekemään päätökseen saa hakea muutosta valittamalla siten kuin hallintolainkäyttölaissa (586/1996) säädetään. Työvoima- ja elinkeinokeskuksen tämän lain nojalla tekemään päätökseen saa hakea muutosta valittamalla maaseutuelinkeinojen valituslautakuntaan siten kuin hallintolainkäyttölaissa säädetään. Maaseutuelinkeinojen valituslautakunnan päätökseen, joka koskee tuen maksamisen keskeyttämistä tai takaisinperintää, saa hakea muutosta valittamalla siten kuin hallintolainkäyttölaissa säädetään. Valituslautakunnan antamaan päätökseen saa muutoin hakea muutosta valittamalla korkeimpaan hallinto-oikeuteen, jos korkein hallinto-oikeus myöntää valitusluvan.",
+      "section_number": "27",
+      "chapter_number": 6,
+      "statute_id": "1198/2006"
+    },
+    {
+      "id": "88d72d1c-0d0b-4725-9d46-64bed168f3e9",
+      "node_type": "Section",
+      "publisher": "finlex",
+      "title": "28 § Voimaantulo",
+      "text": "Tämä laki tulee voimaan 1 päivänä tammikuuta 2007. Ennen lain voimaantuloa voidaan ryhtyä lain täytäntöönpanon edellyttämiin toimenpiteisiin.",
+      "section_number": "28",
+      "chapter_number": 6,
+      "statute_id": "1198/2006"
+    }
+  ],
+  "clauses": [
+    {
+      "id": "bd49c474-5895-4351-8a77-7d2a8b396ebe",
+      "node_type": "Clause",
+      "publisher": "finlex",
+      "title": "§ 11 mom 1",
+      "text": "1) toimintaohjelman varojen käytön suunnittelusta ja varojen jaon valmistelusta tässä laissa säädettyjä tehtäviä hoitavien viranomaisten ja kalatalousryhmien käyttöön;",
+      "clause_number": 1,
+      "section_number": "11",
+      "statute_id": "1198/2006"
+    },
+    {
+      "id": "4cfe1e94-f3ba-487b-898e-b74bc371e270",
+      "node_type": "Clause",
+      "publisher": "finlex",
+      "title": "§ 11 mom 2",
+      "text": "2) toimintaohjelman Ahvenanmaan maakuntaa koskevan yhteisön rahoitusosuuden ohjaamisesta maakunnan hallitukselle;",
+      "clause_number": 2,
+      "section_number": "11",
+      "statute_id": "1198/2006"
+    },
+    {
+      "id": "39966fba-e194-412f-8b2a-be24d60ba6d0",
+      "node_type": "Clause",
+      "publisher": "finlex",
+      "title": "§ 11 mom 3",
+      "text": "3) toimintaohjelman ja sen toimeenpanon suunnittelusta ja kehittämisestä;",
+      "clause_number": 3,
+      "section_number": "11",
+      "statute_id": "1198/2006"
+    },
+    {
+      "id": "150331c2-128f-4b40-ba7e-05dcee475ad8",
+      "node_type": "Clause",
+      "publisher": "finlex",
+      "title": "§ 11 mom 4",
+      "text": "4) varojen käytön riittävän valvonnan järjestämisestä;",
+      "clause_number": 4,
+      "section_number": "11",
+      "statute_id": "1198/2006"
+    },
+    {
+      "id": "7185541d-a4fc-44c9-b8f8-c2b00532bf2d",
+      "node_type": "Clause",
+      "publisher": "finlex",
+      "title": "§ 11 mom 5",
+      "text": "5) ohjelman arvioinnin, seurannan ja tiedotuksen järjestämisestä, sekä",
+      "clause_number": 5,
+      "section_number": "11",
+      "statute_id": "1198/2006"
+    },
+    {
+      "id": "14c397bd-a178-4c2a-aae4-a3ec0bf90b30",
+      "node_type": "Clause",
+      "publisher": "finlex",
+      "title": "§ 11 mom 6",
+      "text": "6) kalatalousryhmien valinnasta.",
+      "clause_number": 6,
+      "section_number": "11",
+      "statute_id": "1198/2006"
+    },
+    {
+      "id": "74d54ae7-e0a4-4fa4-81c7-2562ad09a852",
+      "node_type": "Clause",
+      "publisher": "finlex",
+      "title": "§ 16 mom 1",
+      "text": "1) kalastuksen, vesiviljelyn, kalan jalostuksen ja kalan tukkukaupan investointeihin;",
+      "clause_number": 1,
+      "section_number": "16",
+      "statute_id": "1198/2006"
+    },
+    {
+      "id": "ec50946d-3afa-4e4d-a9cf-ea676100e7d6",
+      "node_type": "Clause",
+      "publisher": "finlex",
+      "title": "§ 16 mom 2",
+      "text": "2) elinkeinokalatalouden yritysten toimintaympäristön investointeihin ja kehittämishankkeisiin;",
+      "clause_number": 2,
+      "section_number": "16",
+      "statute_id": "1198/2006"
+    },
+    {
+      "id": "fff5c8dc-35b0-44e0-99fc-dbf0b5611f7a",
+      "node_type": "Clause",
+      "publisher": "finlex",
+      "title": "§ 16 mom 3",
+      "text": "3) kalatalousryhmien toimintaan; sekä",
+      "clause_number": 3,
+      "section_number": "16",
+      "statute_id": "1198/2006"
+    },
+    {
+      "id": "66ed15bd-1adf-4020-b529-275ea6ca58ef",
+      "node_type": "Clause",
+      "publisher": "finlex",
+      "title": "§ 16 mom 4",
+      "text": "4) muihin kalatalousrahastoasetuksen mukaisiin toimenpiteisiin.",
+      "clause_number": 4,
+      "section_number": "16",
+      "statute_id": "1198/2006"
+    },
+    {
+      "id": "1edaa259-cdec-40f4-9316-e90c635831d0",
+      "node_type": "Clause",
+      "publisher": "finlex",
+      "title": "§ 23 mom 1",
+      "text": "1) hakijan nimi ja yhteystiedot sekä henkilötunnus tai yritys- ja yhteisötunnus;",
+      "clause_number": 1,
+      "section_number": "23",
+      "statute_id": "1198/2006"
+    },
+    {
+      "id": "cdef8647-acb0-4595-a743-fabbfa175399",
+      "node_type": "Clause",
+      "publisher": "finlex",
+      "title": "§ 23 mom 2",
+      "text": "2) hakijan yhteyshenkilön nimi ja yhteystiedot,",
+      "clause_number": 2,
+      "section_number": "23",
+      "statute_id": "1198/2006"
+    },
+    {
+      "id": "bf242416-3307-466d-80f0-05ff29ee282e",
+      "node_type": "Clause",
+      "publisher": "finlex",
+      "title": "§ 23 mom 3",
+      "text": "3) tuettavan toimenpiteen sisältöä, tavoitteita ja tuloksia koskevat tiedot;",
+      "clause_number": 3,
+      "section_number": "23",
+      "statute_id": "1198/2006"
+    },
+    {
+      "id": "d2ab3e41-6c3c-4574-8581-b8d236f29e44",
+      "node_type": "Clause",
+      "publisher": "finlex",
+      "title": "§ 23 mom 4",
+      "text": "4) tuettavan toimenpiteen kustannuksia ja kokonaisrahoitusta koskevat arviot sekä näiden toteutumista koskevat tiedot;",
+      "clause_number": 4,
+      "section_number": "23",
+      "statute_id": "1198/2006"
+    },
+    {
+      "id": "9b903534-341b-44db-b496-2c7e2071877e",
+      "node_type": "Clause",
+      "publisher": "finlex",
+      "title": "§ 23 mom 5",
+      "text": "5) tuki- tai maksuhakemusta ja sen ratkaisemista sekä tuen yksilöintiä koskevat tiedot;",
+      "clause_number": 5,
+      "section_number": "23",
+      "statute_id": "1198/2006"
+    },
+    {
+      "id": "de529c6d-28b3-4bcb-81b4-c17304c70819",
+      "node_type": "Clause",
+      "publisher": "finlex",
+      "title": "§ 23 mom 6",
+      "text": "6) hankkeen ohjausryhmän jäsenten nimi- ja yhteystiedot;",
+      "clause_number": 6,
+      "section_number": "23",
+      "statute_id": "1198/2006"
+    },
+    {
+      "id": "7b28053c-49cf-4600-b144-67e8e880894f",
+      "node_type": "Clause",
+      "publisher": "finlex",
+      "title": "§ 23 mom 7",
+      "text": "7) tiedot tuensaajalle myönnetyistä ja maksetuista tuista;",
+      "clause_number": 7,
+      "section_number": "23",
+      "statute_id": "1198/2006"
+    },
+    {
+      "id": "83cd4b81-2b19-4182-80b3-e0a390dddc35",
+      "node_type": "Clause",
+      "publisher": "finlex",
+      "title": "§ 23 mom 8",
+      "text": "8) tuettavaan toimenpiteeseen käytettävän julkisen ja yksityisen rahoituksen määrä;",
+      "clause_number": 8,
+      "section_number": "23",
+      "statute_id": "1198/2006"
+    },
+    {
+      "id": "a96b02fa-1332-46d0-8aaa-3981f3c56e16",
+      "node_type": "Clause",
+      "publisher": "finlex",
+      "title": "§ 23 mom 9",
+      "text": "9) tiedot paikan päällä tehtävistä todentamisista;",
+      "clause_number": 9,
+      "section_number": "23",
+      "statute_id": "1198/2006"
+    },
+    {
+      "id": "3d1ad13b-96cd-47ca-86d4-a380052232fe",
+      "node_type": "Clause",
+      "publisher": "finlex",
+      "title": "§ 23 mom 10",
+      "text": "10) tiedot tarkastuksesta ja siinä tehdyistä havainnoista;",
+      "clause_number": 10,
+      "section_number": "23",
+      "statute_id": "1198/2006"
+    },
+    {
+      "id": "9a785a2e-10da-4bf2-b732-813c076b98b5",
+      "node_type": "Clause",
+      "publisher": "finlex",
+      "title": "§ 23 mom 11",
+      "text": "11) tiedot tuen saajalta takaisinperittävistä tuista sekä takaisinperinnän toteutumisesta;",
+      "clause_number": 11,
+      "section_number": "23",
+      "statute_id": "1198/2006"
+    },
+    {
+      "id": "e796af9a-9cfb-4f56-be8f-4bb85879adb5",
+      "node_type": "Clause",
+      "publisher": "finlex",
+      "title": "§ 23 mom 12",
+      "text": "12) seurantaa varten kerättävät, toimintaohjelmassa määriteltyjen indikaattorien mukaiset tiedot; sekä",
+      "clause_number": 12,
+      "section_number": "23",
+      "statute_id": "1198/2006"
+    },
+    {
+      "id": "33709817-08a7-43fd-8915-78f053bc4e08",
+      "node_type": "Clause",
+      "publisher": "finlex",
+      "title": "§ 23 mom 13",
+      "text": "13) kehittämissuunnitelmaa koskevat tiedot.",
+      "clause_number": 13,
+      "section_number": "23",
+      "statute_id": "1198/2006"
+    }
+  ],
+  "cross_references": [],
+  "raw_html_path": "C:\\Users\\danit\\finance-hack\\aalto-hackaton-2026\\data\\raw\\finlex\\Laki (säädöskokoelma)\\Laki Euroopan kalatalousrahaston kansallisesta hallinnoinnista ja elinkeinokalataloudelle myönnettävistä tuista.html"
+}

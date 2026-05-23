@@ -1,0 +1,704 @@
+{
+  "statute": {
+    "id": "af41258c-d662-42a6-b1a4-c84c4cfea98f",
+    "node_type": "Statute",
+    "publisher": "finlex",
+    "title": "Tonnistoverolaki",
+    "text": "Tonnistoverolaki",
+    "statute_id": "734/1978",
+    "finlex_url": "https://finlex.fi/fi/laki/ajantasa/734/1978"
+  },
+  "chapters": [
+    {
+      "id": "8390c1a4-f360-474b-9fe2-4b3da32ea38d",
+      "node_type": "Chapter",
+      "publisher": "finlex",
+      "title": "Chapter 1",
+      "text": "1 luku Yleiset säännökset",
+      "chapter_number": 1,
+      "statute_id": "734/1978"
+    },
+    {
+      "id": "18c4cd61-4e2a-46ce-91fb-b6f822e7463e",
+      "node_type": "Chapter",
+      "publisher": "finlex",
+      "title": "Chapter 2",
+      "text": "2 luku Tonnistoverotettavan toiminnan verotus",
+      "chapter_number": 2,
+      "statute_id": "734/1978"
+    },
+    {
+      "id": "fa2557c9-7a48-469b-a03c-b59f3a4d4fb4",
+      "node_type": "Chapter",
+      "publisher": "finlex",
+      "title": "Chapter 3",
+      "text": "3 luku Tonnistoverovelvollisen tuloverotus tonnistoverokauden aikana",
+      "chapter_number": 3,
+      "statute_id": "734/1978"
+    },
+    {
+      "id": "bdac3165-d406-4eed-971c-605da1bc9b29",
+      "node_type": "Chapter",
+      "publisher": "finlex",
+      "title": "Chapter 4",
+      "text": "4 luku Tuloverotus tonnistoverovelvollisuuden päättymisen jälkeen",
+      "chapter_number": 4,
+      "statute_id": "734/1978"
+    },
+    {
+      "id": "f5a4bbdb-0dc1-4515-a07b-363e475d29ea",
+      "node_type": "Chapter",
+      "publisher": "finlex",
+      "title": "Chapter 5",
+      "text": "5 luku Tonnistoverovelvolliseksi hyväksyminen ja hyväksymisen peruuttaminen",
+      "chapter_number": 5,
+      "statute_id": "734/1978"
+    },
+    {
+      "id": "60f293a2-cbbf-4eb6-8159-631304d37e9b",
+      "node_type": "Chapter",
+      "publisher": "finlex",
+      "title": "Chapter 6",
+      "text": "6 luku Verotuksen toimittaminen ja ilmoittamis- velvollisuus",
+      "chapter_number": 6,
+      "statute_id": "734/1978"
+    },
+    {
+      "id": "c1a0ce11-2842-44fc-9a16-be6919ead84f",
+      "node_type": "Chapter",
+      "publisher": "finlex",
+      "title": "Chapter 7",
+      "text": "7 luku Erinäiset säännökset",
+      "chapter_number": 7,
+      "statute_id": "734/1978"
+    }
+  ],
+  "sections": [
+    {
+      "id": "ceac278e-3d0b-47e5-ab5c-911fe52490b7",
+      "node_type": "Section",
+      "publisher": "finlex",
+      "title": "1 § Tonnistovero",
+      "text": "Suomessa yleisesti verovelvollinen, kansainvälistä meriliikennettä harjoittava osakeyhtiö voi valita tonnistoverotettavan toiminnan tuottaman voiton verottamisen sijasta alusten vetoisuuteen perustuvan tonnistoverotuksen tonnistoverokaudeksi siten kuin tässä laissa säädetään. Mitä tässä laissa säädetään Suomessa yleisesti verovelvollisesta osakeyhtiöstä, koskee soveltuvin osin myös kansainvälistä meriliikennettä harjoittavaa toisessa Euroopan unionin jäsenvaltiossa asuvan yhteisön Suomessa olevaa kiinteää toimipaikkaa. Tonnistovero suoritetaan valtiolle.",
+      "section_number": "1",
+      "chapter_number": 1,
+      "statute_id": "734/1978"
+    },
+    {
+      "id": "9c4e64ee-ee91-4254-b738-777512c2b71b",
+      "node_type": "Section",
+      "publisher": "finlex",
+      "title": "2 § Verovelvollisuus",
+      "text": "Velvollinen suorittamaan tonnistoveroa on yhtiö, joka on tämän lain mukaisesti hakemuksesta hyväksytty tonnistoverovelvolliseksi. Tonnistoverovelvollisuus alkaa tonnistoverokauden alkaessa ja päättyy tonnistoverokauden päättyessä. Tonnistoverotuksen voi valita yhtiö: Jos yhtiö on 3 §:ssä tarkoitetussa suhteessa yhteen tai useampaan tämän pykälän 3 momentin 1 ja 2 kohdan mukaiset edellytykset täyttävään yhtiöön, 3 momentin 3 kohdassa tarkoitetut osuudet lasketaan kaikkien keskenään 3 §:ssä tarkoitetussa suhteessa olevien yhtiöiden yhteenlasketun tonniston perusteella.",
+      "section_number": "2",
+      "chapter_number": 1,
+      "statute_id": "734/1978"
+    },
+    {
+      "id": "000ba9b2-951c-474d-a534-c17abf0fcbf6",
+      "node_type": "Section",
+      "publisher": "finlex",
+      "title": "3 § Verovelvollisuus konsernissa",
+      "text": "Osakeyhtiölain (734/1978) 1 luvun 3 §:ssä tarkoitettuun konserniin kuuluva yhtiö voi olla tonnistoverovelvollinen vain, jos kaikki samaan konserniin kuuluvat 1 §:ssä ja 2 §:n 3 momentissa tarkoitetut edellytykset täyttävät yhtiöt ovat tonnistoverovelvollisia ja yhtiöillä on sama tilikausi. Mitä 1 momentissa säädetään, koskee vastaavasti yhtiöitä, joissa yhdellä tai useammalla luonnollisella henkilöllä, oikeushenkilöllä tai näillä yhdessä on osakeyhtiölain 1 luvun 3 §:ssä tarkoitettua määräysvaltaa vastaava määräysvalta.",
+      "section_number": "3",
+      "chapter_number": 1,
+      "statute_id": "734/1978"
+    },
+    {
+      "id": "73d3ca1d-c3a7-477f-871e-27487df6703e",
+      "node_type": "Section",
+      "publisher": "finlex",
+      "title": "4 § Tonnistoverovelvolliseksi hakeutuminen",
+      "text": "Yhtiön on 3 momentissa mainituin poikkeuksin haettava tonnistoverovelvolliseksi hyväksymistä 12 kuukauden kuluessa lain voimaantulosta tai, jos yhtiö on perustettu lain voimaantulon jälkeen, 3 kuukauden kuluessa yhtiön rekisteröinnistä. Edellä 3 §:ssä tarkoitetussa suhteessa olevien yhtiöiden on haettava hyväksymistä samanaikaisesti. Yhtiön, joka tulee 3 §:ssä tarkoitettuun suhteeseen tonnistoverovelvolliseksi jo hyväksytyn yhtiön kanssa, on haettava hyväksymistä 3 kuukauden kuluessa siitä ajankohdasta, jona 3 §:ssä tarkoitettu suhde on muodostunut.",
+      "section_number": "4",
+      "chapter_number": 1,
+      "statute_id": "734/1978"
+    },
+    {
+      "id": "f388ccf6-a46d-4ff3-ae46-16b15973963f",
+      "node_type": "Section",
+      "publisher": "finlex",
+      "title": "5 § Tonnistoverokausi",
+      "text": "Tonnistoverokausi alkaa hakemuksen tekemistä seuraavan verovuoden alusta tai, jos yhtiö on perustettu lain voimaantulon jälkeen, yhtiön ensimmäisen verovuoden alusta. Edellä 4 §:n 3 momentissa tarkoitetuissa tilanteissa tonnistoverokausi alkaa sitä seuraavan verovuoden alusta lukien, jonka aikana 3 §:ssä tarkoitettu suhde on muodostunut. Tonnistoverokausi päättyy 10 kalenterivuoden kuluttua tonnistoverokauden alkamisesta tai, jos mainittu aika päättyy kesken verovuotta, tuon verovuoden päättyessä. Jos kahden tai useamman keskenään 3 §:ssä tarkoitetussa suhteessa olevan yhtiön tonnistoverokausi on alkanut eri ajankohdista, kaikkien yhtiöiden tonnistoverokausi päättyy samana ajankohtana kuin se yhtiöiden tonnistoverokausista, joka päättyy viimeiseksi. Yhtiöiden sulautuessa vastaanottavan yhtiön tonnistoverokausi päättyy samana ajankohtana kuin se sulautuvien yhtiöiden tonnistoverokausista, joka päättyy viimeiseksi. Jos yhtiön tonnistoverovelvolliseksi hyväksyminen peruutetaan, tonnistoverokausi päättyy sen verovuoden lopussa, jonka aikana peruuttamista koskeva päätös on tehty. Jos yhtiö hakee tonnistoverovelvolliseksi uudeksi tonnistoverokaudeksi, uusi tonnistoverokausi alkaa välittömästi edellisen tonnistoverokauden päättymisen jälkeen.",
+      "section_number": "5",
+      "chapter_number": 1,
+      "statute_id": "734/1978"
+    },
+    {
+      "id": "d413e386-a5f4-4c44-8255-976e303e8dd3",
+      "node_type": "Section",
+      "publisher": "finlex",
+      "title": "6 § Tonnistoverotuksen suhde tuloverotukseen",
+      "text": "Tonnistoverotettavasta toiminnasta saatu tulo ei ole veronalaista tuloverotuksessa. Tonnistoverovelvollisen muusta kuin tonnistoverotettavasta toiminnasta saadun tulon verotuksessa sovelletaan tuloverotusta koskevaa lainsäädäntöä. Ennen tonnistoverokauden alkua syntyneet tappiot eivät ole verotuksessa vähennyskelpoisia. Tonnistoverotettavasta toiminnasta saadusta tulosta vieraassa valtiossa suoritettua veroa ei vähennetä Suomessa suoritettavasta verosta.",
+      "section_number": "6",
+      "chapter_number": 1,
+      "statute_id": "734/1978"
+    },
+    {
+      "id": "a5641768-9669-49c4-b195-31a0bef969a8",
+      "node_type": "Section",
+      "publisher": "finlex",
+      "title": "7 § Tonnistoverotettavasta toiminnasta saadun tulon verotus",
+      "text": "Tonnistoverotettavasta toiminnasta saaduilla tuloilla tarkoitetaan tuloja, jotka saadaan: Tonnistoverotettavasta toiminnasta saatuna tulona pidetään myös kuljetuspalvelun hintaan sisältyvästä satama-alueen ulkopuolella tapahtuvasta henkilökuljetuksesta saatua tuloa, jos tonnistoverovelvollinen on ostanut henkilökuljetuksen toiselta yritykseltä. Edellä 1 ja 2 momentissa tarkoitettujen tulojen hankkimisesta ja säilyttämisestä johtuneet menot eivät ole verotuksessa vähennyskelpoisia.",
+      "section_number": "7",
+      "chapter_number": 2,
+      "statute_id": "734/1978"
+    },
+    {
+      "id": "b8b7f240-4a7b-4105-8c8e-2759dd136315",
+      "node_type": "Section",
+      "publisher": "finlex",
+      "title": "8 § Tonnistoverotettava alus",
+      "text": "Tonnistoveroa suoritetaan seuraavista pääasiassa kansainvälisessä meriliikenteessä olevista, strategisesti ja kaupallisesti Suomesta johdetuista, pääasiallisesti lastin tai matkustajien kuljettamiseen tarkoitetuista ja käytetyistä aluksista(tonnistoverotettava alus), joiden bruttovetoisuus on vähintään 100: Aluksen katsotaan olevan kansainvälisessä meriliikenteessä, kun se liikennöi suomalaisen ja ulkomaisen sataman välillä, ulkomaisten satamien välillä tai ulkomaisen sataman ja avomeren välillä, ei kuitenkaan, jos alus liikennöi yksinomaan kahden samassa valtiossa olevan sataman välillä.",
+      "section_number": "8",
+      "chapter_number": 2,
+      "statute_id": "734/1978"
+    },
+    {
+      "id": "39ea4447-2cba-4086-8f92-1310dab68063",
+      "node_type": "Section",
+      "publisher": "finlex",
+      "title": "9 § Tonnistoveron määrä",
+      "text": "Tonnistoveroa suoritetaan 8 §:ssä tarkoitetun aluksen nettovetoisuuden perusteella jokaista 100 tonnia kohden 0,4 euroa päivältä 1 000 tonniin asti, 0,3 euroa 1 000 tonnin ylittävältä osalta 10 000 tonniin asti, 0,2 euroa 10 000 tonnin ylittävältä osalta 25 000 tonniin asti ja 0,1 euroa 25 000 tonnin ylittävältä osalta. Vero suoritetaan myös niiltä päiviltä, joina alus ei ole ollut liikenteessä.",
+      "section_number": "9",
+      "chapter_number": 2,
+      "statute_id": "734/1978"
+    },
+    {
+      "id": "f76d46e1-f98e-4d11-a7ba-1966e88e61ea",
+      "node_type": "Section",
+      "publisher": "finlex",
+      "title": "10 § Veronalaiset tulot",
+      "text": "Tonnistoverovelvollisen muusta kuin tonnistoverotettavasta toiminnasta saamien tulojen verottamiseen sovelletaan, mitä tulon verottamisesta muussa lainsäädännössä säädetään. Tuloverotettavia tuloja ovat muun ohessa: Edellä 2 momentin 2 ja 3 kohdassa tarkoitetut tulot ovat veronalaisia silloinkin, kun hyödykkeitä on käytetty osittain tai kokonaan tonnistoverotettavassa toiminnassa taikka rahoitusomaisuus tai muut saamiset ovat kertyneet tonnistoverotettavasta toiminnasta.",
+      "section_number": "10",
+      "chapter_number": 3,
+      "statute_id": "734/1978"
+    },
+    {
+      "id": "37190b2f-857c-4cc0-8b8b-01e2bb346c07",
+      "node_type": "Section",
+      "publisher": "finlex",
+      "title": "11 § Vähennyskelpoiset menot",
+      "text": "Tuloverotettavien tulojen hankkimisesta ja säilyttämisestä johtuvat menot ja muut niihin kohdistuvat vähennyskelpoiset erät vähennetään siten kuin muualla lainsäädännössä säädetään, jäljempänä mainituin poikkeuksin. Käyttöomaisuuden hankintamenon vähentämisestä säädetään 12 §:ssä. Korkomenoista ja kurssitappioista on vähennyskelpoista se osa, joka vastaa muuhun kuin tonnistoverotettavaan toimintaan liittyvien varojen osuutta kaikista yhtiön varoista. Varat arvostetaan niiden kirjanpidollisiin arvoihin.",
+      "section_number": "11",
+      "chapter_number": 3,
+      "statute_id": "734/1978"
+    },
+    {
+      "id": "4706eba8-300c-4591-ae78-833e876cad16",
+      "node_type": "Section",
+      "publisher": "finlex",
+      "title": "12 § Käyttöomaisuuden hankintamenon vähentäminen",
+      "text": "Tonnistoverotettavan toiminnan käyttöomaisuutta on käyttöomaisuus, jota käytetään verovuonna yksinomaan tai osittain tonnistoverotettavassa toiminnassa. Tällaisen omaisuuden hankintameno ei ole tuloverotuksessa vähennyskelpoinen. Edellä 10 §:n 2 momentin 2 kohdassa tarkoitettujen hyödykkeiden luovutushinnasta vähennetään kuitenkin 14 §:n 2 momentin mukaan laskettu hankintamenon poistamatta oleva määrä. Muun kuin 1 momentissa tarkoitetun käyttöomaisuuden hankintameno vähennetään siten kuin muualla lainsäädännössä säädetään. Elinkeinotulon verottamisesta annetun lain (360/1968) 30 §:ssä tarkoitetun käyttöomaisuuden menojäännös lasketaan erikseen 1 momentissa tarkoitetun omaisuuden osalta(tonnistoverotettavan toiminnan menojäännös)ja 2 momentissa tarkoitetun omaisuuden osalta(tuloverotettavan toiminnan menojäännös).Tonnistoverotettavan toiminnan menojäännökseen sovelletaan, mitä 14 §:n 1 momentissa säädetään. Tuloverotettavan toiminnan menojäännökseen sovelletaan, mitä elinkeinotulon verottamisesta annetun lain 30 §:ssä säädetään. Käyttöomaisuus siirretään yhtiön tonnistoverotettavasta toiminnasta tuloverotettavaan toimintaan 14 §:ssä säädetyllä tavalla laskettua poistamatta olevaa hankintamenon osaa vastaavasta arvosta ja tuloverotettavasta toiminnasta tonnistoverotettavaan toimintaan tuloverotuksessa poistamatta olevasta arvosta.",
+      "section_number": "12",
+      "chapter_number": 3,
+      "statute_id": "734/1978"
+    },
+    {
+      "id": "9ad3d019-a69e-4b90-94ac-3c134d3a9dae",
+      "node_type": "Section",
+      "publisher": "finlex",
+      "title": "13 § Menojäännöksen jakaminen tonnistoverokauden alussa",
+      "text": "Jos yhtiöllä on ennen tonnistoverokauden alkua sekä tonnistoverotettavaan että tuloverotettavaan toimintaan kuuluvaa elinkeinotulon verottamisesta annetun lain 30 §:ssä tarkoitettua käyttöomaisuutta, menojäännös jaetaan tonnistoverotukseen siirryttäessä tonnistoverotettavan toiminnan menojäännökseen ja tuloverotettavan toiminnan menojäännökseen. Jako tehdään tonnistoverotettavaan toimintaan ja tuloverotettavaan toimintaan kuuluvan käyttöomaisuuden kirjanpidossa poistamatta olevien hankintamenojen suhteessa.",
+      "section_number": "13",
+      "chapter_number": 3,
+      "statute_id": "734/1978"
+    },
+    {
+      "id": "0e315c8a-f120-44ae-aaf5-cbff0e451749",
+      "node_type": "Section",
+      "publisher": "finlex",
+      "title": "14 § Tonnistoverotettavan toiminnan käyttöomaisuuden seuranta tonnistoverokauden aikana",
+      "text": "Tonnistoverotettavan toiminnan menojäännöstä laskettaessa noudatetaan, mitä elinkeinotulon verottamisesta annetun lain 30 §:ssä säädetään menojäännökseen tehtävistä lisäyksistä ja vähennyksistä. Poistoina vähennetään määrä, joka vastaa mainitussa lainkohdassa säädetyn poiston enimmäismäärää. Muusta kuin 1 momentissa tarkoitetusta tonnistoverotettavan toiminnan käyttöomaisuudesta tehdään vastaavasti verovuosittain laskennallinen poisto, joka vastaa sitä määrää, joka tuloverotuksessa olisi voitu enintään vähentää. Yhtiön tulee vuosittain antaa selvitys verovuoden aikana tapahtuneista tonnistoverotettavan käyttöomaisuuden verovuoden aikana tapahtuneista lisäyksistä ja vähennyksistä, poistoista sekä poistamatta olevista hankintamenoista ja menojäännöksestä tai menojäännöksestä vähentämättä jäävästä määrästä verovuoden päättyessä.",
+      "section_number": "14",
+      "chapter_number": 3,
+      "statute_id": "734/1978"
+    },
+    {
+      "id": "b8429677-0045-47a0-955d-f73baf40eb7c",
+      "node_type": "Section",
+      "publisher": "finlex",
+      "title": "15 § Ennen tonnistoverotukseen siirtymistä syntynyt verovelka",
+      "text": "Verovuoden veronalaiseksi tuloksi luetaan se osa tonnistoverotettavaan toimintaan kuuluvasta käyttöomaisuudesta verovuoden aikana saaduista luovutushinnoista ja muista vastikkeista, joka on jäänyt vähentämättä tonnistoverotettavan toiminnan menojäännöstä laskettaessa. Veronalaiseksi tuloksi luetaan kuitenkin tonnistoverokauden aikana yhteensä enintään määrä, jolla tonnistoverotettavan toiminnan menojäännökseen kuuluvan käyttöomaisuuden todennäköinen luovutushinta ylittää tonnistoverotettavan toiminnan menojäännöksen tonnistoveroon siirryttäessä. Tuloksi tällä perusteella lukematta jäänyt määrä vähennetään tonnistoverotettavan toiminnan menojäännökseen luettavan käyttöomaisuuden hankintamenoista seuraavina verovuosina sitä mukaa kuin hankintamenoja syntyy. Jos tonnistoverovelvollinen osoittaa sitovin tilaussopimuksin tai muulla luotettavalla tavalla aikovansa hankkia kolmen luovutusta seuraavan verovuoden aikana tonnistoverotettavan toiminnan menojäännökseen luettavaa kuluvaa käyttöomaisuutta, 1 ja 2 momentin nojalla veronalaiseksi tuloksi luettava määrä vähennetään menojäännökseen luettavan kuluvan käyttöomaisuuden hankintamenoista (tonnistoverotettavan toiminnan jälleenhankintavaraus). Jos tonnistoverotettavan toiminnan jälleenhankintavarausta ei ole kokonaan käytetty 3 momentissa tarkoitetulla tavalla, luetaan käyttämättä jäänyt määrä 20 prosentilla korotettuna sen verovuoden veronalaiseksi tuloksi, jonka kuluessa vähentämisen olisi viimeistään tullut tapahtua.",
+      "section_number": "15",
+      "chapter_number": 3,
+      "statute_id": "734/1978"
+    },
+    {
+      "id": "2ce4135c-61ca-4682-a052-3e0bada2f2f7",
+      "node_type": "Section",
+      "publisher": "finlex",
+      "title": "16 § Markkinaehtoperiaate",
+      "text": "Tonnistoverovelvollisen ja siihen 3 §:ssä tarkoitetussa suhteessa olevan yrityksen välisissä liiketoimissa on noudatettava ehtoja, joita toisistaan riippumattomien osapuolten välillä olisi noudatettu. Jos tästä on poikettu, verotusta toimitettaessa on osapuolten verotuksessa meneteltävä siten kuin markkinaehtoisia arvoja olisi noudatettu. Sama koskee tonnistoverovelvollisen ja muun yrityksen välisiä liiketoimia, jos toinen osapuoli tai siihen 3 §:ssä tarkoitetussa suhteessa oleva yritys on toisen osapuolen tai siihen 3 §:ssä tarkoitetussa suhteessa olevan yrityksen kirjanpitolaissa (1336/1997) tarkoitettu omistusyhteysyritys tai osakkuusyritys. Tonnistoverovelvollisen on viipymättä ilmoitettava tonnistoverovelvolliseksi hyväksymisestä ja hyväksymisen voimaantuloajasta siihen 1 momentissa tarkoitetussa suhteessa oleville yrityksille. Tonnistoverovelvollisen on laadittava kirjallinen ajan tasalla pidettävä selvitys 1 momentissa tarkoitetuissa liiketoimissa noudatettavista hinnoitteluperiaatteista.",
+      "section_number": "16",
+      "chapter_number": 3,
+      "statute_id": "734/1978"
+    },
+    {
+      "id": "5e9688a0-ca99-48a8-b31d-3cd4b928b819",
+      "node_type": "Section",
+      "publisher": "finlex",
+      "title": "17 § Tulojen ja menojen selvittäminen",
+      "text": "Tonnistoverovelvollisen on selvitettävä erikseen tonnistoverotettavasta toiminnasta saadut tulot ja tuloverotettavat tulot sekä niihin kohdistuvat menot ja muut vähennykset samoin kuin mainittuihin toimintoihin kohdistuvat varat ja velat. Yhtiön on lisäksi säilytettävä kirjanpitolain 2 luvun 10 §:ssä tarkoitettu kirjanpitoaineisto mainitussa lainkohdassa tarkoitetulla tavalla vähintään 15 vuotta sen vuoden lopusta, jonka aikana tilikausi on päättynyt. Tonnistoverovelvollisen on lisäksi laadittava selvitys niistä laskentaperiaatteista, joita yhtiö noudattaa yhtiön tulojen, niihin kohdistuvien menojen ja toiminnan harjoittamiseen liittyvien korkojen kohdentamisessa yhtiön tonnistoverotettavan ja muun toiminnan välillä.",
+      "section_number": "17",
+      "chapter_number": 3,
+      "statute_id": "734/1978"
+    },
+    {
+      "id": "ce14b79d-ba97-4d0e-895b-1080390301e5",
+      "node_type": "Section",
+      "publisher": "finlex",
+      "title": "18 § Laskennallisen koron tuloksi lukeminen",
+      "text": "Jos tonnistoverovelvollisen taseen vieraan pääoman määrä verovuoden päättyessä on pienempi kuin puolet yhtiön taseen oman pääoman määrästä, verovuoden veronalaiseksi tuloksi luetaan määrä, joka saadaan vähentämällä oman pääoman puolesta määrästä vieraan pääoman määrä ja kertomalla näin saatu määrä korkoprosentilla, joka on eräistä viitekoroista annetussa laissa (996/1998) tarkoitettu peruskorko lisättynä yhdellä prosenttiyksiköllä.",
+      "section_number": "18",
+      "chapter_number": 3,
+      "statute_id": "734/1978"
+    },
+    {
+      "id": "c0f049e8-1c3a-48a7-8b03-e33f70c2904b",
+      "node_type": "Section",
+      "publisher": "finlex",
+      "title": "19 § Yhtiöveron hyvitysjärjestelmän soveltaminen ja muu varojen jakoon kohdistuva verotus",
+      "text": "Tonnistoverovelvollisen jakamaan ja saamaan osinkoon sovelletaan yhtiöveron hyvityksestä annettua lakia (1232/1988). Vertailuveroon ei lueta tonnistoveroa. Jos tonnistoverovelvollinen jakaa varoja osakkailleen muutoin kuin 1 momentissa säädetyllä tavalla, jaettuun määrään sovelletaan yhtiön verotuksessa, mitä 1 momentissa säädetään osingonjaosta. Lisäksi sovelletaan, mitä verotusmenettelystä annetun lain (1558/1995) 29 §:ssä säädetään peitellystä osingonjaosta.",
+      "section_number": "19",
+      "chapter_number": 3,
+      "statute_id": "734/1978"
+    },
+    {
+      "id": "5e443930-f1c1-42d1-b5a6-d25b9154b3e4",
+      "node_type": "Section",
+      "publisher": "finlex",
+      "title": "20 § Sulautuminen",
+      "text": "Tonnistoverovelvollisen ei katsota purkautuvan verotuksessa, jos se sulautuu toiseen tonnistoverovelvolliseen yhtiöön tai kaksi tonnistoverovelvollista yhtiötä sulautuu perustamalla uuden tonnistoverovelvolliseksi hyväksyttävän yhtiön edellyttäen, että elinkeinotulon verottamisesta annetun lain 52 a §:ssä sulautumiselle säädetyt edellytykset täyttyvät. Sulautumisessa noudatetaan soveltuvin osin, mitä elinkeinotulon verottamisesta annetun lain 52 b ja 52 g §:ssä säädetään. Vastaanottavan yhtiön tonnistoverotettavan toiminnan menojäännöksenä ja tuloverotettavan toiminnan menojäännöksenä pidetään sulautuvien yhtiöiden vastaavien menojäännösten yhteismääriä. Vastaanottavan yhtiön tuloon 15 §:n 2 momentin nojalla enintään luettava määrä on sulautuvien yhtiöiden verotuksessa vahvistettujen 15 §:n 2 momentissa tarkoitettujen määrien yhteismäärä vähennettynä yhtiöiden tuloon ennen sulautumista 15 §:n nojalla luetuilla määrillä.",
+      "section_number": "20",
+      "chapter_number": 3,
+      "statute_id": "734/1978"
+    },
+    {
+      "id": "39f07e18-eb36-4f5a-83f0-0231e046803d",
+      "node_type": "Section",
+      "publisher": "finlex",
+      "title": "21 § Jakautuminen",
+      "text": "Tonnistoverovelvollisen ei katsota purkautuvan verotuksessa, jos se jakautuu kahdeksi tai useammaksi tonnistoverovelvolliseksi yhtiöksi, jos elinkeinotulon verottamisesta annetun lain 52 c §:n 1 momentissa säädetyt edellytykset täyttyvät. Jakautumisessa noudatetaan soveltuvin osin, mitä elinkeinotulon verottamisesta annetun lain 52 c ja 52 g §:ssä säädetään. Jakautuvan yhtiön tonnistoverotettavan toiminnan menojäännös ja tuloverotettavan toiminnan menojäännös siirtyvät vastaanottaville yhtiöille samassa suhteessa kuin vastaava käyttöomaisuus, arvostettuna kirjanpidossa poistamatta olevaan arvoon, siirtyy vastaanottaville yhtiöille. Vastaanottavien yhtiöiden tuloon 15 §:n 2 momentin nojalla enintään luettavina määrinä pidetään määriä, jotka saadaan vähentämällä jakautuvan yhtiön verotuksessa vahvistetusta 15 §:n 2 momentissa tarkoitetusta määrästä yhtiön tuloon ennen jakautumista 15 §:n nojalla luettu määrä ja jakamalla näin saatu määrä vastaanottaville yhtiöille 2 momentin mukaisessa suhteessa.",
+      "section_number": "21",
+      "chapter_number": 3,
+      "statute_id": "734/1978"
+    },
+    {
+      "id": "08b5e1dd-3baf-4723-98fa-96528854e857",
+      "node_type": "Section",
+      "publisher": "finlex",
+      "title": "22 § Yhtiön purkaminen",
+      "text": "Tonnistoverovelvollisen yhtiön purkautuessa sovelletaan, mitä 24 §:ssä säädetään. Purkautuvan yhtiön verotuksessa sovelletaan lisäksi, mitä elinkeinotulon verottamisesta annetun lain 51 d §:ssä säädetään purkautuvan yhtiön veronalaiseksi luovutushinnaksi luettavista määristä. Mitä 1 momentissa säädetään, sovelletaan myös muuhun kuin 20 §:ssä tarkoitettuun sulautumiseen ja 21 §:ssä tarkoitettuun jakautumiseen.",
+      "section_number": "22",
+      "chapter_number": 3,
+      "statute_id": "734/1978"
+    },
+    {
+      "id": "3ce0d596-5303-4268-9c26-13b5429b6138",
+      "node_type": "Section",
+      "publisher": "finlex",
+      "title": "23 § Konserniavustus",
+      "text": "Tonnistoverovelvollisen antamaan tai saamaan suoritukseen ei sovelleta konserniavustuksesta verotuksessa annettua lakia (825/1986) suorituksen antajan eikä saajan verotuksessa.",
+      "section_number": "23",
+      "chapter_number": 3,
+      "statute_id": "734/1978"
+    },
+    {
+      "id": "00076c6f-a587-4811-a2ec-870315ba4645",
+      "node_type": "Section",
+      "publisher": "finlex",
+      "title": "24 § Tonnistoverotettavan toiminnan tuloverotus tonnistoverovelvollisuuden peruuttamisen johdosta",
+      "text": "Jos tonnistoverovelvolliseksi hyväksyminen 29 §:n mukaisesti peruutetaan, yhtiölle määrätään tulovero tonnistoverotettavan toiminnan tuottamasta tulosta tonnistoverokaudelta noudattaen näiltä verovuosilta toimitettavissa verotuksissa sovellettavia tuloverolainsäädännön säännöksiä ja kansainvälisten sopimusten määräyksiä. Tuloveroa määrättäessä 21 §:ssä tarkoitetulla tavalla jakautuneen yhtiön tonnistoverotettavan toiminnan tuottama tulo jaetaan vastaanottavien yhtiöiden verotettavaksi samassa suhteessa kuin tonnistoverotettavan toiminnan menojäännös on siirtynyt 21 §:n 2 momentin nojalla vastaanottaville yhtiöille. Jos yhtiön tonnistoverokausi 5 §:n 3 momentin johdosta päättyy myöhemmin kuin 5 §:n 2 momentissa tarkoitettuna ajankohtana tonnistoverokauden alkamisesta, tulovero määrätään enintään tonnistoverokauden päättymistä edeltävien kymmenen kalenterivuoden aikana päättyneiltä verovuosilta. Tämän pykälän nojalla toimitetuissa verotuksissa yhtiön katsotaan tehneen enimmäismääräisinä kaikki ne vähennykset, jotka se olisi voinut tehdä. Yhtiölle ennen tonnistoverokautta ja sen aikana syntyneet tappiot vähennetään siten kuin tuloverolaissa (1535/1992) säädetään. Tämän pykälän mukaisen verotuksen toimittamisesta ja veron korottamisesta säädetään 32 §:ssä.",
+      "section_number": "24",
+      "chapter_number": 4,
+      "statute_id": "734/1978"
+    },
+    {
+      "id": "5f6db805-091b-4dc8-a94f-c8b70fa5a15f",
+      "node_type": "Section",
+      "publisher": "finlex",
+      "title": "25 § Yhtiön verotus tonnistoverokauden päättymisen jälkeen",
+      "text": "Tonnistoverokauden päättymistä seuraavan verovuoden alusta yhtiön verotus toimitetaan noudattaen tuloverotusta koskevia säännöksiä. Tuloverotuksessa vähennyskelpoisia eivät ole tonnistoverotettavasta toiminnasta johtuneet menot, korot eivätkä menetykset, jotka yhtiön verotuksessa olisi voitu vähentää tonnistoverokauden aikana, jos yhtiötä olisi tuolloin verotettu tuloverotusta koskevien säännösten nojalla. Elinkeinotulon verottamisesta annetun lain 30 §:ssä säädettyä menojäännöstä laskettaessa menojäännöksenä 1 momentissa tarkoitetun verovuoden alussa pidetään tuloverotettavan toiminnan menojäännöksen ja tonnistoverotettavan toiminnan menojäännöksen yhteismäärää tonnistoverokauden päättyessä. Menojäännöksestä vähennetään 15 §:n 2 momentin nojalla vielä vähentämättä oleva määrä ja 15 §:n 3 momentissa tarkoitetun jälleenhankintavarauksen määrä. Muun kuin 2 momentissa tarkoitetun, tonnistoverokauden päättyessä tonnistoverotettavaan toimintaan kuuluvan käyttöomaisuushyödykkeen poistamattomana hankintamenona pidetään 14 §:n 2 momentissa tarkoitetulla tavalla laskettua hankintamenoa.",
+      "section_number": "25",
+      "chapter_number": 4,
+      "statute_id": "734/1978"
+    },
+    {
+      "id": "ee1a40bd-5337-41c7-a169-1af689cba434",
+      "node_type": "Section",
+      "publisher": "finlex",
+      "title": "26 § Tonnistoverovelvolliseksi hakeminen",
+      "text": "Tonnistoverovelvolliseksi hyväksymistä haetaan kirjallisella hakemuksella Konserniverokeskukselta tonnistoverokaudeksi. Hakemus on tehtävä 4 §:ssä säädetyssä määräajassa. Edellä 5 §:n 5 momentissa tarkoitetuissa tilanteissa hyväksymistä on haettava ennen tonnistoverokauden päättymistä. Hakemuksen tulee sisältää tarpeelliset tiedot ja asiakirjat yhtiön toiminnasta ja tonnistoverovelvolliseksi hyväksymisen edellytysten arviointiin vaikuttavista seikoista. Konserniverokeskuksen pyynnöstä hakijan on toimitettava lisäksi muut asian ratkaisemiseksi tarvittavat tiedot ja asiakirjat.",
+      "section_number": "26",
+      "chapter_number": 5,
+      "statute_id": "734/1978"
+    },
+    {
+      "id": "56e0d99a-b48f-4d84-bb2f-05170468d7de",
+      "node_type": "Section",
+      "publisher": "finlex",
+      "title": "27 § Tonnistoverovelvolliseksi hyväksyminen",
+      "text": "Konserniverokeskus hyväksyy 2 ja 3 §:ssä säädetyt edellytykset täyttävän yhtiön tonnistoverovelvolliseksi ja merkitsee sen pitämäänsä tonnistoverovelvollisten luetteloon. Yhtiötä ei hyväksytä tonnistoverovelvolliseksi 4 §:n 3 momentissa tarkoitetuissa tilanteissa, jos järjestelyyn on ryhdytty 4 §:n 1 momentin säännösten kiertämiseksi.",
+      "section_number": "27",
+      "chapter_number": 5,
+      "statute_id": "734/1978"
+    },
+    {
+      "id": "51017b22-313a-456f-8af8-b50e4972916b",
+      "node_type": "Section",
+      "publisher": "finlex",
+      "title": "28 § Tonnistoverovelvollisuuden voimassaolon edellytykset",
+      "text": "Tonnistoverovelvollisuuden voimassaolon edellytyksenä on 2 ja 3 §:ssä säädettyjen edellytysten täyttymisen lisäksi, että yhtiö:",
+      "section_number": "28",
+      "chapter_number": 5,
+      "statute_id": "734/1978"
+    },
+    {
+      "id": "32000784-5f54-4b04-b9ce-be00b1e8287a",
+      "node_type": "Section",
+      "publisher": "finlex",
+      "title": "29 § Hyväksymisen peruuttaminen",
+      "text": "Konserniverokeskuksen on peruutettava tonnistoverovelvolliseksi hyväksymistä koskeva päätös, jos 2, 3 ja 28 §:ssä säädetyt edellytykset eivät täyty. Ennen peruuttamista tonnistoverovelvolliselle on varattava tilaisuus tulla kuulluksi. Tonnistoverovelvolliselle on lisäksi varattava tilaisuus Konserniverokeskuksen asettamassa kohtuullisessa määräajassa poistaa 1 momentissa tarkoitettu puute. Määräaikaa ei aseteta, jos on ilmeistä, että 1 momentissa tarkoitetut edellytykset eivät tule täyttymään. Peruuttamisesta on ilmoitettava myös yhtiön emoyhtiölle ja yhtiöön 3 §:ssä tarkoitetussa suhteessa oleville tonnistoverovelvollisille. Jos tonnistoverovelvollisen 28 §:n 1 kohdan vastainen menettely on suunnitelmallinen tai sillä on tavoiteltu huomattavaa taloudellista hyötyä, hyväksyminen on peruutettava huolimatta siitä, että tonnistoverovelvollinen tämän pykälän 2 momentin mukaisesti poistaa puutteen. Kun tonnistoverovelvolliseksi hyväksyminen peruutetaan tai tonnistoverovelvollinen yhtiö purkautuu, Konserniverokeskus poistaa yhtiön tonnistoverovelvollisten luettelosta. Jos yhtiön hyväksyminen tonnistoverovelvolliseksi on peruutettu, yhtiötä ei voida hyväksyä uudestaan tonnistoverovelvolliseksi. Sama koskee yhtiön toimintaa jatkavaa, siihen 3 §:ssä tarkoitetussa suhteessa olevaa yhtiötä.",
+      "section_number": "29",
+      "chapter_number": 5,
+      "statute_id": "734/1978"
+    },
+    {
+      "id": "7f778d55-7b01-44cf-abf3-30d7a533277f",
+      "node_type": "Section",
+      "publisher": "finlex",
+      "title": "30 § Hyväksymisen peruuttamatta jättäminen eräissä tapauksissa",
+      "text": "Konserniverokeskus voi jättää yhtiön tonnistoverovelvolliseksi hyväksymisen peruuttamatta, vaikka 3 §:ssä säädetyt edellytykset eivät täyty, jos edellytysten täyttymättä jääminen johtuu siitä, että Konserniverokeskus on peruuttanut jonkun tai joidenkin samaan konserniin kuuluvien yhtiöiden tonnistoverovelvolliseksi hyväksymisen. Tonnistoverovelvolliseksi hyväksyminen voidaan jättää peruuttamatta sen estämättä, että yhtiön tai keskenään 3 §:n mukaisessa suhteessa olevien yhtiöiden aika- tai matkaperusteisesti vuokralle ottamien alusten osuus yhtiöiden tonnistoverotettavasta tonnistosta tonnistoverovelvolliseksi hyväksymisen jälkeen väliaikaisesti toiminnan laajentamisen johdosta ylittää 50 prosenttia, jos 2 §:ssä säädetyt edellytykset muutoin täyttyvät. Hyväksyminen on kuitenkin peruutettava, jos edellytykset eivät täyty Konserniverokeskuksen asettamassa kohtuullisessa määräajassa.",
+      "section_number": "30",
+      "chapter_number": 5,
+      "statute_id": "734/1978"
+    },
+    {
+      "id": "a7d10543-cd14-4ada-bdd0-f51a41fca1ef",
+      "node_type": "Section",
+      "publisher": "finlex",
+      "title": "31 § Verotuksen toimittaminen",
+      "text": "Tonnistoverovelvollisen tonnistoverotuksen toimittaa Konserniverokeskus. Konserniverokeskus toimittaa tonnistoverovelvollisen tuloverotuksen tonnistoverokauteen kuuluvilta verovuosilta. Jos tonnistoverovelvolliseksi hyväksyminen peruutetaan tai tonnistoverotettava yhtiö purkautuu, Konserniverokeskus toimittaa yhtiön tuloverotuksen 32 §:ssä tarkoitetuilta verovuosilta. Tonnistoverotus toimitetaan verotusmenettelystä annetun lain 3 §:ssä tarkoitetulta verovuodelta. Verotuksen toimittamisesta, verotuksen päättymisestä, verotarkastuksesta, veronoikaisusta, jälkiverotuksesta, veronkorotuksesta, yhteisökorosta ja seurannaismuutoksesta on soveltuvin osin voimassa, mitä verotusmenettelystä annetussa laissa säädetään. Tonnistoveron kanto, perintä ja palauttaminen toimitetaan siten kuin veronkantolaissa (611/1978) tai sen nojalla säädetään. Konserniverokeskus vahvistaa 13 §:ssä tarkoitettujen menojäännösten määrän sekä 15 §:n 2 momentissa tarkoitetun veronalaiseksi tuloksi enintään luettavan määrän tonnistoverokauden ensimmäiseltä verovuodelta toimitettavan verotuksen yhteydessä.",
+      "section_number": "31",
+      "chapter_number": 6,
+      "statute_id": "734/1978"
+    },
+    {
+      "id": "0815e53c-3216-4244-a72a-079cee56a47f",
+      "node_type": "Section",
+      "publisher": "finlex",
+      "title": "32 § Verotuksen toimittaminen hyväksymisen peruuttamisen ja yhtiön purkautumisen jälkeen",
+      "text": "Edellä 24 §:ssä tarkoitettu verotus toimitetaan poiketen siitä, mitä muualla tuloverotusta koskevassa lainsäädännössä säädetään, kaikilta tonnistoverokauteen kuuluvilta verovuosilta tonnistoverokauden päättymisen jälkeen. Verotus päättyy Verohallituksen määräämänä aikana, kuitenkin viimeistään tonnistoverokauden päättymistä seuraavan kalenterivuoden lokakuun loppuun mennessä. Edellä 24 §:ssä tarkoitettu vero määrätään 10 prosentilla korotettuna tai, jos hyväksyminen on peruutettu yhtiön 28 §:n 1 kohdan vastaisen menettelyn taikka mainitun pykälän 3 kohdassa tarkoitetun ilmoittamisvelvollisuuden olennaisen laiminlyönnin perusteella, 40 prosentilla korotettuna. Jos verovelvollinen osoittaa, että tonnistoverovelvolliseksi hyväksymisen peruuttaminen tai yhtiön purkaminen on tapahtunut siitä riippumattomista tai pakottavista syistä, Konserniverokeskus voi alentaa korotusta tai jättää sen kokonaan määräämättä. Korotusta voidaan alentaa tai se voidaan jättää määräämättä myös silloin, kun tonnistoverovelvolliseksi hyväksyminen peruutetaan sen johdosta, että yhtiö on lopettanut tonnistoverotettavan toiminnan harjoittamisen eikä toimintaa ole jatkettu toisessa yhtiössä. Maksettavalle verolle on suoritettava yhteisökorkoa siten kuin yhteisökorosta säädetään. Yhteisökorko lasketaan kultakin verovuodelta, jolta veroa määrätään, veroilmoituksen viimeistä antopäivää seuraavasta päivästä veron ensimmäiseen eräpäivään. Suoritettua tonnistoveroa ei palauteta.",
+      "section_number": "32",
+      "chapter_number": 6,
+      "statute_id": "734/1978"
+    },
+    {
+      "id": "bda0144c-9ec4-4ce8-bf37-f8ea42952e96",
+      "node_type": "Section",
+      "publisher": "finlex",
+      "title": "33 § Tonnistoveron ennakonkanto",
+      "text": "Tonnistovero suoritetaan ennakonkannossa noudattaen soveltuvin osin ennakkoperintälain (1118/1996) säännöksiä.",
+      "section_number": "33",
+      "chapter_number": 6,
+      "statute_id": "734/1978"
+    },
+    {
+      "id": "3ca5ac6f-0b44-45ec-a995-e193e6b4d91f",
+      "node_type": "Section",
+      "publisher": "finlex",
+      "title": "34 § Tuloverotusta koskeva ilmoittamisvelvollisuus",
+      "text": "Tonnistoverovelvollinen on velvollinen antamaan veroilmoituksen erikseen tonnistoverotettavasta toiminnasta ja tuloverotettavasta toiminnasta noudattaen soveltuvin osin, mitä veronalaisen tulon ilmoittamisvelvollisuudesta verotusmenettelystä annetussa laissa säädetään. Yhtiön on lisäksi annettava muut tuloverotuksen toimittamista varten tarpeelliset tiedot ja selvityksen sen mukaan kuin valtiovarainministeriön asetuksella säädetään.",
+      "section_number": "34",
+      "chapter_number": 6,
+      "statute_id": "734/1978"
+    },
+    {
+      "id": "45b94f5d-c1a3-46fe-9367-56283b4dc77b",
+      "node_type": "Section",
+      "publisher": "finlex",
+      "title": "35 § Tonnistoverotusta varten annettavat tiedot",
+      "text": "Tonnistoverovelvollisen on annettava tonnistoveron määräämistä varten tarpeelliset tiedot ja selvitykset sen mukaan kuin valtiovarainministeriön asetuksella säädetään. Tonnistoverovelvollisen on viipymättä ilmoitettava Konserniverokeskukselle 29 §:n 1 momentissa tarkoitettujen peruuttamisedellytysten arvioinnin kannalta merkityksellisistä muutoksista.",
+      "section_number": "35",
+      "chapter_number": 6,
+      "statute_id": "734/1978"
+    },
+    {
+      "id": "c0c272ee-bcba-4b34-8988-449327d81503",
+      "node_type": "Section",
+      "publisher": "finlex",
+      "title": "36 § Veronhuojennuksen seuranta",
+      "text": "Tämän lain mukaisen veronhuojennuksen seurantaa varten Konserniverokeskus laskee tonnistoverovelvollisen tonnistoverotettavan toiminnan tuloksen noudattaen soveltuvin osin tuloverotusta koskevaa lainsäädäntöä sekä Suomea velvoittavia kansainvälisiä sopimuksia. Laskelmaa laadittaessa tonnistoverovelvollisen katsotaan tehneen kaikki ne vähennykset, jotka se olisi enintään voinut vähentää. Tonnistoverotettavan toiminnan käyttöomaisuuden hankintamenot vähennetään tässä laskelmassa 14 §:ssä säädetyllä tavalla. Tässä pykälässä tarkoitettuun laskelmaan ei voi hakea muutosta. Toimittaessaan 25 tai 32 §:ssä tarkoitettua verotusta Konserniverokeskus voi sen estämättä, mitä verotusmenettelystä annetussa laissa tai muualla tuloverolainsäädännössä säädetään, poiketa tämän pykälän mukaisesta laskelmasta.",
+      "section_number": "36",
+      "chapter_number": 7,
+      "statute_id": "734/1978"
+    },
+    {
+      "id": "c915d2fb-0383-4ff7-bf24-74b47cc67df2",
+      "node_type": "Section",
+      "publisher": "finlex",
+      "title": "37 § Yhtiön osakkeiden verotusarvo",
+      "text": "Yhtiön varallisuusverolain (1537/1992) 27 §:ssä tarkoitetun nettovarallisuuden määrää laskettaessa ja nettovarallisuuteen kuuluvia omaisuuseriä arvostettaessa katsotaan omaisuuseristä tehtävät vähennykset tehdyiksi tonnistoverotettavaan toimintaan kuuluvien varojen osalta tämän lain 36 §:ssä säädetyn määräisenä.",
+      "section_number": "37",
+      "chapter_number": 7,
+      "statute_id": "734/1978"
+    },
+    {
+      "id": "0c8100f9-54c2-42fe-924a-f77ec607f3e1",
+      "node_type": "Section",
+      "publisher": "finlex",
+      "title": "38 § Ennakkoratkaisu",
+      "text": "Konserniverokeskus voi verovelvollisen kirjallisesta hakemuksesta antaa ennakkoratkaisun tämän lain soveltamisesta. Poiketen siitä, mitä verotusmenettelystä annetun lain 84 §:ssä säädetään, keskusverolautakunta ei anna ennakkoratkaisua tämän lain soveltamisesta tuloverotuksessa. Hakemuksessa on ilmoitettava yksilöitynä kysymys, johon ennakkoratkaisua haetaan, ja esitettävä asian ratkaisemiseksi tarvittava selvitys. Lainvoiman saanutta ennakkoratkaisua on hakijan vaatimuksesta sitovana noudatettava siten kuin ennakkoratkaisussa määrätään. Ennakkoratkaisua koskeva asia on käsiteltävä Konserniverokeskuksessa, hallinto-oikeudessa ja korkeimmassa hallinto-oikeudessa kiireellisenä. Verotusmenettelystä annetun lain 85 §:ssä tarkoitettua ennakkotietoa ei anneta 1 momentissa tarkoitetussa asiassa.",
+      "section_number": "38",
+      "chapter_number": 7,
+      "statute_id": "734/1978"
+    },
+    {
+      "id": "22a09ccf-80f8-4aab-877b-c240354f69f6",
+      "node_type": "Section",
+      "publisher": "finlex",
+      "title": "39 § Muutoksenhaku",
+      "text": "Konserniverokeskuksen tämän lain nojalla toimittamaan verotukseen haetaan muutosta siten kuin verotusmenettelystä annetussa laissa säädetään. Päätökseen, joka koskee tonnistoverovelvolliseksi hyväksymistä tai hyväksymisen peruuttamista, haetaan muutosta valittamalla Helsingin hallinto-oikeuteen siten kuin muutoksenhausta hallintolainkäyttölaissa (586/1996) säädetään. Valitus on käsiteltävä kiireellisenä. Konserniverokeskuksen ennakkoratkaisusta saa verovelvollinen tai muu muutoksenhakuun oikeutettu valittaa Helsingin hallinto-oikeuteen. Muutoksenhausta on muutoin soveltuvin osin voimassa, mitä verotusmenettelystä annetussa laissa muutoksenhausta verotukseen säädetään. Valitusaika on 30 päivää tiedoksisaannista. Päätökseen, jolla ennakkoratkaisu on jätetty antamatta, ei saa hakea muutosta valittamalla.",
+      "section_number": "39",
+      "chapter_number": 7,
+      "statute_id": "734/1978"
+    },
+    {
+      "id": "b4640cc4-37eb-4c6c-9a44-d632088fb581",
+      "node_type": "Section",
+      "publisher": "finlex",
+      "title": "40 § Voimaantulo",
+      "text": "Tämä laki tulee voimaan valtioneuvoston asetuksella säädettävänä ajankohtana. Lakia sovelletaan ensimmäisen kerran kalenterivuonna 2002 alkavalta verovuodelta toimitettavassa verotuksessa. Tonnistoverokausi alkaa 5 §:n 1 momentista poiketen sen vuonna 2002 alkavan verovuoden alusta, jonka aikana laki on tullut voimaan, jos yhtiö esittää sitä koskevan vaatimuksen 4 §:n 1 momentissa säädetyssä määräajassa tehdyssä hakemuksessa ja tonnistoverovelvolliseksi hyväksymisen edellytykset ovat täyttyneet verovuoden alusta.",
+      "section_number": "40",
+      "chapter_number": 7,
+      "statute_id": "734/1978"
+    }
+  ],
+  "clauses": [
+    {
+      "id": "61acc8bc-9f9a-4e3f-bf36-9ca0e9fbaa2e",
+      "node_type": "Clause",
+      "publisher": "finlex",
+      "title": "§ 2 mom 1",
+      "text": "1) jota tosiasiallisesti johdetaan Suomesta;",
+      "clause_number": 1,
+      "section_number": "2",
+      "statute_id": "734/1978"
+    },
+    {
+      "id": "2a24d4d6-84e2-43fa-b62d-38633074ab10",
+      "node_type": "Clause",
+      "publisher": "finlex",
+      "title": "§ 2 mom 2",
+      "text": "2) joka harjoittaa tavaroiden tai matkustajien kuljettamista 8 §:ssä tarkoitetulla aluksella Suomesta ja on siitä Suomessa verovelvollinen; ja",
+      "clause_number": 2,
+      "section_number": "2",
+      "statute_id": "734/1978"
+    },
+    {
+      "id": "1d366e0e-0c11-4fbf-b5b3-d6b9c05a918c",
+      "node_type": "Clause",
+      "publisher": "finlex",
+      "title": "§ 2 mom 1",
+      "text": "3) jonka 8 §:n 1 momentin 1 kohdassa tarkoitettujen alusten bruttovetoisuus on vähintään 25 prosenttia ja mainitun momentin 3 kohdassa tarkoitettujen alusten bruttovetoisuus enintään 50 prosenttia kaikkien 8 §:ssä tarkoitettujen alusten bruttovetoisuudesta.",
+      "clause_number": 1,
+      "section_number": "2",
+      "statute_id": "734/1978"
+    },
+    {
+      "id": "a54cf7c1-b5ce-480c-817d-1b6933baf50a",
+      "node_type": "Clause",
+      "publisher": "finlex",
+      "title": "§ 2 mom 3",
+      "text": "3) jonka 8 §:n 1 momentin 1 kohdassa tarkoitettujen alusten bruttovetoisuus on vähintään 25 prosenttia ja mainitun momentin 3 kohdassa tarkoitettujen alusten bruttovetoisuus enintään 50 prosenttia kaikkien 8 §:ssä tarkoitettujen alusten bruttovetoisuudesta.",
+      "clause_number": 3,
+      "section_number": "2",
+      "statute_id": "734/1978"
+    },
+    {
+      "id": "336e0105-5e89-4489-a275-60d39a2cbbb8",
+      "node_type": "Clause",
+      "publisher": "finlex",
+      "title": "§ 7 mom 1",
+      "text": "1) tavaroiden ja matkustajien kuljettamisesta tonnistoverotettavalla aluksella;",
+      "clause_number": 1,
+      "section_number": "7",
+      "statute_id": "734/1978"
+    },
+    {
+      "id": "f834a0f0-6938-41c5-95ac-8508db1d57b8",
+      "node_type": "Clause",
+      "publisher": "finlex",
+      "title": "§ 7 mom 2",
+      "text": "2) aluksella tapahtuvasta tavaroiden ja palvelujen myynnistä aluksella kulutettaviksi;",
+      "clause_number": 2,
+      "section_number": "7",
+      "statute_id": "734/1978"
+    },
+    {
+      "id": "41f3e1bc-2500-43d4-8170-1c9de76c8ef1",
+      "node_type": "Clause",
+      "publisher": "finlex",
+      "title": "§ 7 mom 3",
+      "text": "3) yhtiön edellä 1 kohdassa tarkoitetun toiminnan harjoittamiselle välttämättömistä ja siihen läheisesti liittyvistä toiminnoista, kuten 1 kohdassa tarkoitetun kuljetuspalvelun hintaan sisältyvästä lastin ja matkustajien kuljetuksesta satama-alueella alukselle ja alukselta, aluksen lastauksesta ja purkamisesta sekä tavaran lastauksen ja purkamisen edellyttämästä väliaikaisesta varastoinnista;",
+      "clause_number": 3,
+      "section_number": "7",
+      "statute_id": "734/1978"
+    },
+    {
+      "id": "b4aad23c-8a73-470f-aa21-c5d93f85c36d",
+      "node_type": "Clause",
+      "publisher": "finlex",
+      "title": "§ 7 mom 4",
+      "text": "4) tonnistoverotettavan aluksen antamisesta vuokralle miehistöineen edellyttäen, että vuokralle ottaja käyttää alusta toiminnassa, joka olisi vuokralle antajan harjoittamana tonnistoverotettavaa;",
+      "clause_number": 4,
+      "section_number": "7",
+      "statute_id": "734/1978"
+    },
+    {
+      "id": "270f92f4-f505-452a-b6dc-abe93dc5cc4e",
+      "node_type": "Clause",
+      "publisher": "finlex",
+      "title": "§ 7 mom 5",
+      "text": "5) tonnistoverotettavassa toiminnassa käytettyjen alusten, koneiden, kaluston ja muun niihin verrattavan irtaimen käyttöomaisuuden luovuttamisesta.",
+      "clause_number": 5,
+      "section_number": "7",
+      "statute_id": "734/1978"
+    },
+    {
+      "id": "8b0bb241-1bac-43f8-8f25-a19d9bb853c1",
+      "node_type": "Clause",
+      "publisher": "finlex",
+      "title": "§ 8 mom 1",
+      "text": "1) yhtiön omistama, Suomen alusrekisteriin merkitty matkustaja-alus ja ulkomaanliikenteen kauppa-alusluettelosta annetussa laissa (1707/1991) tarkoitettuun kauppa-alusluetteloon merkitty lastialus, jolla se liikennöi tai jonka yhtiö on antanut miehistöineen vuokralle;",
+      "clause_number": 1,
+      "section_number": "8",
+      "statute_id": "734/1978"
+    },
+    {
+      "id": "dc56ae0f-84a0-44bf-8801-7fa1609b7cf6",
+      "node_type": "Clause",
+      "publisher": "finlex",
+      "title": "§ 8 mom 2",
+      "text": "2) Euroopan unionin jäsenvaltion alusrekisteriin merkitty, yhtiön ilman miehistöä vuokralle ottama alus, jonka se varustaa ja jolla se liikennöi; ja",
+      "clause_number": 2,
+      "section_number": "8",
+      "statute_id": "734/1978"
+    },
+    {
+      "id": "e0f76091-b1bf-480e-96b9-7e4a9f4b8b99",
+      "node_type": "Clause",
+      "publisher": "finlex",
+      "title": "§ 8 mom 3",
+      "text": "3) Euroopan unionin jäsenvaltion alusrekisteriin merkitty, yhtiön miehistöineen vuokralle ottama alus.",
+      "clause_number": 3,
+      "section_number": "8",
+      "statute_id": "734/1978"
+    },
+    {
+      "id": "d67844d3-2a45-4b60-b7b8-8d164083871f",
+      "node_type": "Clause",
+      "publisher": "finlex",
+      "title": "§ 10 mom 1",
+      "text": "1) muusta kuin 7 §:n 1 momentin 5 kohdassa tarkoitetusta irtaimesta käyttöomaisuudesta saadut luovutushinnat ja muut tulot;",
+      "clause_number": 1,
+      "section_number": "10",
+      "statute_id": "734/1978"
+    },
+    {
+      "id": "180acc11-4392-40ad-83de-f58084481a38",
+      "node_type": "Clause",
+      "publisher": "finlex",
+      "title": "§ 10 mom 1",
+      "text": "1) muusta kuin 7 §:n 1 momentin 5 kohdassa tarkoitetusta irtaimesta käyttöomaisuudesta saadut luovutushinnat ja muut tulot;",
+      "clause_number": 1,
+      "section_number": "10",
+      "statute_id": "734/1978"
+    },
+    {
+      "id": "eaa0be27-0573-4b78-9e3a-4511ae75967f",
+      "node_type": "Clause",
+      "publisher": "finlex",
+      "title": "§ 10 mom 2",
+      "text": "2) kiinteästä omaisuudesta, rakennuksesta, osakkeista, osuuksista ja muusta niihin verrattavasta omaisuudesta saadut luovutushinnat ja muut tulot; sekä",
+      "clause_number": 2,
+      "section_number": "10",
+      "statute_id": "734/1978"
+    },
+    {
+      "id": "d40a6820-1512-47c1-9b91-00c773ad1772",
+      "node_type": "Clause",
+      "publisher": "finlex",
+      "title": "§ 10 mom 3",
+      "text": "3) rahoitusomaisuudesta ja muista saamisista saadut korot ja muut tulot.",
+      "clause_number": 3,
+      "section_number": "10",
+      "statute_id": "734/1978"
+    },
+    {
+      "id": "0cc0d333-bdd1-44b1-839f-6cc42ebaef26",
+      "node_type": "Clause",
+      "publisher": "finlex",
+      "title": "§ 28 mom 1",
+      "text": "1) ei ole osallisena liiketoimessa tai järjestelyssä, jonka tarkoituksena on keinotekoisesti pienentää tonnistoveron laskentaperustetta tai johon on ryhdytty ilmeisesti siinä tarkoituksessa, että suoritettavasta tuloverosta tai tonnistoverosta vapauduttaisiin;",
+      "clause_number": 1,
+      "section_number": "28",
+      "statute_id": "734/1978"
+    },
+    {
+      "id": "6d7777a5-af83-4abb-993e-94ec63444b88",
+      "node_type": "Clause",
+      "publisher": "finlex",
+      "title": "§ 28 mom 2",
+      "text": "2) ei anna rahalainaa osakkailleen taikka yhtiöön 3 §:ssä tarkoitetussa suhteessa oleville yhteisöille tai niiden osakkaille eikä poikkea muun mainituille tahoille myöntämänsä rahoituksen suhteen ehdoista, joita se noudattaa toisistaan riippumattomien osapuolten välillä;",
+      "clause_number": 2,
+      "section_number": "28",
+      "statute_id": "734/1978"
+    },
+    {
+      "id": "de692ea1-13dd-46fc-8f37-6d75a8e3d529",
+      "node_type": "Clause",
+      "publisher": "finlex",
+      "title": "§ 28 mom 3",
+      "text": "3) noudattaa ilmoittamisvelvollisuutta koskevia säännöksiä; ja",
+      "clause_number": 3,
+      "section_number": "28",
+      "statute_id": "734/1978"
+    },
+    {
+      "id": "a0f5bf11-95f1-4ad8-b3be-09e3bfff4c98",
+      "node_type": "Clause",
+      "publisher": "finlex",
+      "title": "§ 28 mom 4",
+      "text": "4) noudattaa, mitä 17 §:ssä säädetään.",
+      "clause_number": 4,
+      "section_number": "28",
+      "statute_id": "734/1978"
+    }
+  ],
+  "cross_references": [
+    {
+      "raw_text": "pykälän 3 momentin",
+      "statute_id": "734/1978",
+      "section_number": "3 momentin",
+      "clause_number": null,
+      "resolution_confidence": 0.0
+    },
+    {
+      "raw_text": "pykälän 2 momentin m",
+      "statute_id": "734/1978",
+      "section_number": "2 momentin m",
+      "clause_number": null,
+      "resolution_confidence": 0.0
+    },
+    {
+      "raw_text": "pykälän 3 kohdassa t",
+      "statute_id": "734/1978",
+      "section_number": "3 kohdassa t",
+      "clause_number": null,
+      "resolution_confidence": 0.0
+    }
+  ],
+  "raw_html_path": "C:\\Users\\danit\\finance-hack\\aalto-hackaton-2026\\data\\raw\\finlex\\Laki (säädöskokoelma)\\Tonnistoverolaki.html"
+}

@@ -1,0 +1,790 @@
+{
+  "statute": {
+    "id": "430aef79-d8e5-4841-90b3-22a69681f833",
+    "node_type": "Statute",
+    "publisher": "finlex",
+    "title": "Sisäasiainministeriön asetus väestönsuojan laitteista ja varusteista",
+    "text": "Sisäasiainministeriön asetus väestönsuojan laitteista ja varusteista",
+    "statute_id": "562/1999",
+    "finlex_url": "https://finlex.fi/fi/laki/ajantasa/562/1999"
+  },
+  "chapters": [
+    {
+      "id": "e42ed121-ce70-43ed-b702-4241eafaf3ba",
+      "node_type": "Chapter",
+      "publisher": "finlex",
+      "title": "Chapter 1",
+      "text": "1 luku Yleiset säännökset",
+      "chapter_number": 1,
+      "statute_id": "562/1999"
+    },
+    {
+      "id": "42128d55-dadf-45b1-bc2b-eea87fea4166",
+      "node_type": "Chapter",
+      "publisher": "finlex",
+      "title": "Chapter 2",
+      "text": "2 luku Yhteisiä vaatimuksia",
+      "chapter_number": 2,
+      "statute_id": "562/1999"
+    },
+    {
+      "id": "c4c9591f-370b-4231-bbf9-37c1fc8f8a51",
+      "node_type": "Chapter",
+      "publisher": "finlex",
+      "title": "Chapter 3",
+      "text": "3 luku Väestönsuojan ovet, luukut, sulkulaitteet, läpiviennit ja ilmanottoputki",
+      "chapter_number": 3,
+      "statute_id": "562/1999"
+    },
+    {
+      "id": "0e4c95fd-c4cc-42fb-a373-105abbc778f0",
+      "node_type": "Chapter",
+      "publisher": "finlex",
+      "title": "Chapter 4",
+      "text": "4 luku Paine-, ylipaine-, tulo- ja poistoilmaventtiilit, viemärin sukuventtiili ja ylipainemittari",
+      "chapter_number": 4,
+      "statute_id": "562/1999"
+    },
+    {
+      "id": "da29ab41-38b7-4ac7-8f29-f7d1c1cb207b",
+      "node_type": "Chapter",
+      "publisher": "finlex",
+      "title": "Chapter 5",
+      "text": "5 luku Vesisäiliö, jäteastia, käymälävarustus, sulkuteltta ja vuode",
+      "chapter_number": 5,
+      "statute_id": "562/1999"
+    },
+    {
+      "id": "91594f85-23b5-4a30-90ed-4835031fd62a",
+      "node_type": "Chapter",
+      "publisher": "finlex",
+      "title": "Chapter 6",
+      "text": "6 luku Vuotovesipumppu, varavalaistus, tärähdyksenvaimennin ja kaasunilmaisin",
+      "chapter_number": 6,
+      "statute_id": "562/1999"
+    },
+    {
+      "id": "f7481256-e10e-453d-9f16-efe5e17a6aa0",
+      "node_type": "Chapter",
+      "publisher": "finlex",
+      "title": "Chapter 7",
+      "text": "7 luku K-luokan Ilmanvaihtolaite",
+      "chapter_number": 7,
+      "statute_id": "562/1999"
+    },
+    {
+      "id": "b107e634-dc56-4469-9262-dfc6ef24b19b",
+      "node_type": "Chapter",
+      "publisher": "finlex",
+      "title": "Chapter 8",
+      "text": "8 luku K-luokan ja S1-luokan ilmanvaihtolaite",
+      "chapter_number": 8,
+      "statute_id": "562/1999"
+    },
+    {
+      "id": "bc868850-7684-4c8b-a2ae-15c8ca16226f",
+      "node_type": "Chapter",
+      "publisher": "finlex",
+      "title": "Chapter 9",
+      "text": "9 luku Polttomoottorikäyttöinen ilmanvaihtolaite",
+      "chapter_number": 9,
+      "statute_id": "562/1999"
+    }
+  ],
+  "sections": [
+    {
+      "id": "fac62247-65f1-418f-99c3-2df82f3f77e0",
+      "node_type": "Section",
+      "publisher": "finlex",
+      "title": "1 § Soveltamisala",
+      "text": "Tämä asetus koskee väestönsuojan paine- ja kaasutiiviitä ovia, suojaluukkuja, sulkulaitteita, kaasutiiviitä luukkuja, läpivientejä, tuloilma-, paine-, ylipaine- ja poistoilmaventtiilejä, ilmanottoputkia, sulkuventtiilejä, ylipainemittareita, vesisäiliöitä, jäteastioita, käymäläkalusteita ja -komeroita, sulkutelttoja, vuoteita, vuotovesipumppuja, varavalaistuslaitteita, tärähdyksen vaimentimia, kaasunilmaisinlaitteistoja, ilmanvaihtolaitteistoja ja esisuodattimia. Tässä asetuksessa säädetään 1 momentissa mainittujen laitteiden ja varusteiden",
+      "section_number": "1",
+      "chapter_number": 1,
+      "statute_id": "562/1999"
+    },
+    {
+      "id": "55e5c975-095f-4194-9f10-2ef510c02aa7",
+      "node_type": "Section",
+      "publisher": "finlex",
+      "title": "2 § Tuotteiden merkinnät",
+      "text": "Tuotteet tulee varustaa pysyvällä merkinnällä. Merkinnän tulee sisältää vähintään: Tämä momentti koskee soveltuvin osin sulkulaitteita, läpivientejä ja 5 luvussa mainittuja laitteita ja varusteita.",
+      "section_number": "2",
+      "chapter_number": 2,
+      "statute_id": "562/1999"
+    },
+    {
+      "id": "485f25d8-9395-4614-a7ab-e03a5edfeaec",
+      "node_type": "Section",
+      "publisher": "finlex",
+      "title": "3 § Laitteiden ja varusteiden kestoikä ja pakkaus",
+      "text": "Laitteiden ja varusteiden suunnitellun käyttöiän tulee olla vähintään 30 vuotta noudattaen valmistajan tai maahantuojan antamia varastointi- ja huolto-ohjeita. Betonirakenteisiin kiinnitettäviltä laitteilta tai niiden osilta edellytetään vähintään 50 vuoden suunniteltua käyttöikää. Tieto laitteen ja varusteen vaatimasta pinta-alasta ja tilavuudesta pakattuna tulee merkitä pakkaukseen.",
+      "section_number": "3",
+      "chapter_number": 2,
+      "statute_id": "562/1999"
+    },
+    {
+      "id": "0bcc65d3-9554-4772-8064-dc8fe8bd2e7e",
+      "node_type": "Section",
+      "publisher": "finlex",
+      "title": "4 § Olosuhteet",
+      "text": "Väestönsuojan laitteiden tai varusteiden tulee säilyä käyttökuntoisena ympäristön lämpötilan ollessa -30 °C ja +70 °C välillä ja toimia asianmukaisesti sijoituspaikan lämpötilan ollessa -20 °C ja + 40 °C välillä. Jos lämpötila laitteiden tai varusteiden sijoituspaikassa on suojautumisen aikana 0 °C tai sen yläpuolella, tulee laitteen tai varusteen toimia asianmukaisesti lämpötilan ollessa 0 °C ja +40 °C välillä.",
+      "section_number": "4",
+      "chapter_number": 2,
+      "statute_id": "562/1999"
+    },
+    {
+      "id": "e24881f3-671a-48f0-a9ee-b7e34487ed58",
+      "node_type": "Section",
+      "publisher": "finlex",
+      "title": "5 § Tärähdyskuormitus",
+      "text": "Paine- ja kaasutiiviin oven, suojaluukun, kaasutiiviin suojaluukun, sulkulaitteen, läpiviennin, ylipaine-, paine- ja poistoilmaventtiilin, viemärin sulkuventtiilin, ylipainemittarin, tuloilmaventtiilin, vuotovesipumpun, varavalaistuslaitteen, tärähdyksen vaimentimen, kaasunilmaisin- ja analysointilaitteen, ilmanvaihtolaitteen ja esisuodattimen tulee kestää kiinnitysalustan tärähdys, jossa maksimiheilahdusnopeus on mielivaltaisessa suunnassa 1,5 m/s ja maksimikiihtyvyys 300 m/s\n                                    2\n                                    . K-luokan väestönsuojan osalta edellä 1 momentissa lueteltujen laitteiden ja varusteiden tulee kestää kiinnitysalustan tärähdys, jossa maksimiheilahdusnopeus on 0,5 m/s ja maksimikiihtyvyys 100 m/s\n                                    2\n                                    .",
+      "section_number": "5",
+      "chapter_number": 2,
+      "statute_id": "562/1999"
+    },
+    {
+      "id": "e8e57f1e-ac78-44a1-a1bf-44238471f55a",
+      "node_type": "Section",
+      "publisher": "finlex",
+      "title": "6 § Hitsiliitokset",
+      "text": "Laitteiden hitsiliitokset tulee tehdä standardin SFS-EN 25817 tai vastaavien vaatimusten mukaisesti siten, että hitsiluokka on D. Laitteen kestokykyyn oleellisesti vaikuttavien hitsiliitosten hitsiluokan tulee olla C.",
+      "section_number": "6",
+      "chapter_number": 2,
+      "statute_id": "562/1999"
+    },
+    {
+      "id": "99f06fff-f370-48e3-9310-e868c7db56f6",
+      "node_type": "Section",
+      "publisher": "finlex",
+      "title": "7 § Korroosionesto",
+      "text": "Laitteiden tulee kestää liitteen 1 taulukossa 1 esitetyt ympäristöolosuhteiden ilmastorasitusluokat standardin SFS-EN ISO 12944-2 mukaisesti.",
+      "section_number": "7",
+      "chapter_number": 2,
+      "statute_id": "562/1999"
+    },
+    {
+      "id": "977d377a-6e2f-4409-97c7-30b8977b976d",
+      "node_type": "Section",
+      "publisher": "finlex",
+      "title": "8 § Käyttö- ja huolto-ohjeet",
+      "text": "Laitteiden ja varusteiden sijoittamisesta, asennuksesta, käytöstä, varastoinnista ja huollosta on oltava ohjeet molemmilla kotimaisilla kielillä. Ohjeiden tulee sisältää muun muassa tiedot tuotteen tilantarpeesta ja tarvittaessa on tehtävä esimerkkipiirustus laitteen sijoituksesta ympärysseinään, ympäröivien rakenteiden raudoituksesta sekä laitteesta siirtyvien kuormien suuruuksista ja suunnista.",
+      "section_number": "8",
+      "chapter_number": 2,
+      "statute_id": "562/1999"
+    },
+    {
+      "id": "be3141e7-e5ef-4f75-901c-b13854a3cef7",
+      "node_type": "Section",
+      "publisher": "finlex",
+      "title": "9 § Yleistä",
+      "text": "Oven, luukun ja kaasutiiviin sulkulaitteen sulkemislaitteet on varustettava auki- ja kiinniasentoa osoittavilla merkinnöillä. Tarvittaessa ne on varustettava auki- ja kiinniasentoa osoittavilla ilmaisimilla. Oven, luukun ja kaasutiiviin sulkulaitteen sulkemisaika saa olla enintään 1 minuutti. Ovea ja luukkua kiinnipitävät osat on voitava purkaa suojan sisäpuolelta käsityökaluilla myös silloin, kun ovi ja luukku ovat saaneet pysyviä muodonmuutoksia.",
+      "section_number": "9",
+      "chapter_number": 3,
+      "statute_id": "562/1999"
+    },
+    {
+      "id": "a39c17ff-e158-412e-9027-f135c59d3a5f",
+      "node_type": "Section",
+      "publisher": "finlex",
+      "title": "10 § Paine- ja kaasutiiviit ovet",
+      "text": "Väestönsuojan oven (SO-K, SO-1, SO-3, SO-6 ja VO-6) aukeamissuunta on ulospäin ja se on voitava sulkea ja avata käsin suojan sisä- ja ulkopuolelta. Ovien SO-K, SO-1 ja VO-6 tulee olla kaasutiiviitä. Kalliosuojien erikoisovien tai leveydeltään yli 3 400 mm ovien sulkemisaika saa olla enintään 5 minuuttia. Ovien tulee olla liitteen 2 taulukoissa 2, 3 ja 4 esitettyjen vaatimusten mukaisia. Ovien tulee olla liitteen 3 taulukossa 5 esitettyjen mittojen mukaisia. Sulkulaitteiden tulee kiristää ovilevy karmia vasten siten, että oven ja karmin kantavien pintojen välissä saa olla rakoa enintään 2 mm. Liukuoven ja karmin rako saa olla enintään 4 mm. Ovien tulee olla liitteen 3 taulukossa 5 esitettyjen mittojen mukaisia.",
+      "section_number": "10",
+      "chapter_number": 3,
+      "statute_id": "562/1999"
+    },
+    {
+      "id": "ee1cd0f2-4b76-4014-8836-9938ebff0958",
+      "node_type": "Section",
+      "publisher": "finlex",
+      "title": "11 § Paine- ja kaasutiiviit luukut",
+      "text": "Kalliosuojissa sekä S3-luokan teräsbetonisissa väestönsuojissa luukun (SL-6, SL-3 ja VL-6) aukeamissuunta on ulospäin ja se on voitava sulkea ja avata käsin suojan sisäpuolelta. Luukun VL-6 tulee olla lisäksi kaasutiivis. S1- ja K-luokan väestönsuojissa hätäpoistumisluukun (HS-1 ja HS-K) aukeamissuunta on sisäänpäin ja se on voitava sulkea ja avata käsin väestönsuojan sisäpuolelta. Hätäpoistumisluukun tulee olla paineenkestävä ja kaasutiivis. Momenteissa 1 ja 2 tarkoitettujen luukkujen kuormien ja minimipaksuuksien tulee olla liitteen 2 taulukoiden 2–4 mukaisia. Sulkulaitteiden tulee kiristää luukku karmia vasten siten, että luukun ja karmin kantavien pintojen välissä saa olla rakoa enintään 2 mm. Luukkujen tulee olla liitteen 3 taulukossa 6 esitettyjen mittojen mukaisia.",
+      "section_number": "11",
+      "chapter_number": 3,
+      "statute_id": "562/1999"
+    },
+    {
+      "id": "a85af35e-ee59-4437-8414-e23b75ba176a",
+      "node_type": "Section",
+      "publisher": "finlex",
+      "title": "12 § Kaasutiiviiden laitteiden tiiviys",
+      "text": "Kaasutiiviin oven, luukun ja sulkulaitteen tiiviyden tulee olla sellainen, että läpi pääsevä vuotovirtaus on enintään 0,2 dm\n                                    3\n                                    /s suljettavan aukon neliömetriä kohti ulkopuolisen ylipaineen ollessa 150 Pa. K-luokan suojaoven läpi pääsevä vuotovirtaus saa olla enintään 0,5 dm\n                                    3\n                                    /s ulkopuolisen ylipaineen ollessa 100 Pa. Tiivisteellä varustetussa laitteessa kuorma ei saa siirtyä tiivisteen kautta karmiin. Tiivisteen tulee olla kloropreenikumia tai ominaisuuksiltaan sitä vastaavaa materiaalia ja tiivisteen tulee kestää normaaliajan käyttö.",
+      "section_number": "12",
+      "chapter_number": 3,
+      "statute_id": "562/1999"
+    },
+    {
+      "id": "0dfcbe68-e512-45e2-b19f-3c479a61ea8e",
+      "node_type": "Section",
+      "publisher": "finlex",
+      "title": "13 § Väestönsuojan läpivientien sulkulaitteet",
+      "text": "Väestönsuojien paineenkestävien sulkulaitteiden (IS-K, IS-1 ja IS-6) sekä kalliosuojien ja S3-luokan teräsbetonisuojien kaasutiiviiden sulkulaitteiden (KS-6) tulee kestää liitteen 2 taulukossa 2 esitetyt staattiset kuormat. Kaasutiiviiden sulkulaitteiden tulee kestää liitteen 2 taulukossa 4 esitetyt paineaaltokuormat. Paineenkestävien sulkulaitteiden tulee kestää kolme kertaa liitteen 2 taulukossa 4 esitetyt paineaaltokuormat. Paineenkestävä sulkulaite on voitava sulkea väestönsuojan puolelta kaasutiiviillä sulkulaipalla. Sulkulaitteen tulee olla rakenteeltaan sellainen, että se voidaan säilyttää normaalioloissa läpivientiputkeen kiinnitettynä. Massaltaan yli 20 kg olevaan sulkulaitteeseen tulee tehdä nostolenkki tai se on saranoitava läpivientiputkeen. Sulkulaite tulee olla pintakäsitelty sekä ulko- ja sisäpuolelta kuumasinkityksellä standardin SFS-EN ISO 1461 mukaisesti. Sulkulaitteen avulla on voitava tarvittaessa säätää sen kautta kulkeva ilmavirta. Sulkulaitteen läpivientiputkien mittojen tulee olla liitteen 3 taulukon 8 mukaisia.",
+      "section_number": "13",
+      "chapter_number": 3,
+      "statute_id": "562/1999"
+    },
+    {
+      "id": "8171d513-c712-41bc-a2bf-2aef5c11f69a",
+      "node_type": "Section",
+      "publisher": "finlex",
+      "title": "14 § Läpiviennit",
+      "text": "Väestönsuojien paineenkestävien läpivientien (LP-K, LP-1 ja LP-6) sekä kalliosuojien ja S3-luokan teräsbetonisuojien kaasutiiviiden sulkulaitteiden läpivientien (LP-KS6) tulee kestää liitteen 2 taulukossa 2 esitetyt staattiset kuormat. Kaasutiiviiden sulkulaitteiden läpivientien tulee kestää liitteen 2 taulukossa 4 esitetyt paineaaltokuormat. Paineenkestävien läpivientien tulee kestää kolme kertaa liitteen 2 taulukossa 4 esitetyt paineaaltokuormat. Läpiviennin tulee olla tiivis. Jos läpiviennin nimellissuuruus on yli 40 mm, siihen tulee liittää tartuntalaippa. Läpivienti tulee tehdä standardin SFS-EN 10220 tai vastaavan vaatimustason mukaisesta putkesta liitteen 3 taulukon 8 mukaisesti. Läpiviennin tulee olla pintakäsitelty sekä ulko- että sisäpuolelta kuumasinkityksellä standardin SFS-EN ISO 1461 mukaisesti.",
+      "section_number": "14",
+      "chapter_number": 3,
+      "statute_id": "562/1999"
+    },
+    {
+      "id": "45878e31-3aa7-45bc-8058-7c99b433e7e0",
+      "node_type": "Section",
+      "publisher": "finlex",
+      "title": "15 § Ilmanottoputket",
+      "text": "Teräsbetonisuojien ilmanottoputkien (IP-3) tulee olla ominaisuuksiltaan standardin SFS-EN 10220 tai vastaavan vaatimustason mukaisesta putkesta liitteen 3 taulukon 8 mukaisesti. Ilmanottoputken tulee kestää siihen pysty- tai vaakasuunnassa kohdistuva 20 kN:n suuruinen kuorma. Ilmanottoputken IP-160 aiheuttama virtausvastus saa olla enintään 70 Pa ilmavirran ollessa 135 dm\n                                    3\n                                    /s ja ilmanottoputken IP-200 virtausvastus saa olla enintään 70 Pa ilmavirran ollessa 270 dm\n                                    3\n                                    /s. Ilmanottoputki tulee olla pintakäsitelty sekä ulko- että sisäpuolelta kuumasinkityksellä standardin SFS-EN ISO 1461 mukaisesti.",
+      "section_number": "15",
+      "chapter_number": 3,
+      "statute_id": "562/1999"
+    },
+    {
+      "id": "307fd5d3-e0d4-4b68-9376-f732dc6c3bf2",
+      "node_type": "Section",
+      "publisher": "finlex",
+      "title": "16 § K-luokan ylipaineventtiili",
+      "text": "K-luokan väestönsuojan ylipaineventtiilin (YV-K) tulee kestää liitteen 2 taulukossa 2 esitetyt staattiset kuormat. Ilmavirtaa 54 dm\n                                    3\n                                    /s vastaavalla tavalla avoimena olevan ylipaineventtiilin tulee kestää kolme kertaa liitteen 2 taulukossa 4 esitetty paineaaltokuorma. Avoimena olevan ylipaineventtiilin tulee sulkeutua ulkopuolisen paineiskun vaikutuksesta. Ylipaineventtiilin läpi pääsevän ylipaineimpulssin suuruus saa olla enintään 5 Ns. Suljetun venttiilin vuotovirtaus saa olla enintään 30 cm\n                                    3\n                                    /s ulkopuolisen ylipaineen ollessa 100 Pa. Ylipaineventtiilin avautumispaineen tulee olla 10 ja 40 Pa:n välillä. Ylipaineventtiili on voitava sulkea käsin suojan puolelta. Ylipaineventtiilin ominaiskäyrän tulee olla jatkuvasti nouseva. Venttiilin ja 300 mm pituisen suoran läpivientiputken yhdessä aiheuttama virtausvastus saa olla enintään 95 Pa ilmavirran ollessa 54 dm\n                                    3\n                                    /s. Ilmavirralla 18 dm\n                                    3\n                                    /s virtausvastuksen tulee olla vähintään 50 Pa. Kun ominaiskäyrän nousevaa osaa vastaava ilmavirta on enintään 54 dm\n                                    3\n                                    /s, saa hystereesi-ilmiön vaikutus olla enintään 20 dm\n                                    3\n                                    /s. Ylipaineventtiili on voitava kiinnittää 160 mm nimellissuuruisen läpivientiputken laippaan, jonka mitat on esitetty liitteen 3 taulukossa 8.",
+      "section_number": "16",
+      "chapter_number": 4,
+      "statute_id": "562/1999"
+    },
+    {
+      "id": "95b9256b-63fe-47b8-a915-2afeb82b86af",
+      "node_type": "Section",
+      "publisher": "finlex",
+      "title": "17 § S1-luokan ylipaineventtiili",
+      "text": "S1-luokan väestönsuojan ylipaineventtiilin (YV-1) tulee kestää liitteen 2 taulukossa 2 esitetyt staattiset kuormat. Ilmavirtaa 85 dm\n                                    3\n                                    /s vastaavalla tavalla avoimena olevan ylipaineventtiilin tulee kestää kolme kertaa liitteen 2 taulukossa 4 esitetty paineaaltokuorma. Avoimena olevan ylipaineventtiilin tulee sulkeutua ulkopuolisen paineiskun vaikutuksesta. Ylipaineventtiilin läpi pääsevän ylipaineimpulssin suuruus saa olla enintään 10 Ns paineiskun heijastuspainehuipun ollessa 10 ja 40 kPa:n välillä ylipainetta ja enintään 4 Ns heijastuspainehuipun ollessa 40 ja 300 kPa:n välillä ylipainetta. Suljetun venttiilin vuotovirtaus saa olla enintään 15 cm\n                                    3\n                                    /s ulkopuolisen ylipaineen ollessa 150 Pa. Ylipaineventtiilin avautumispaineen tulee olla 30 ja 60 Pa välillä. Ylipaineventtiili on voitava sulkea käsin suojan puolelta. Paineaaltokuormituksen heijastuspainehuipun suuruuden ollessa 300 kPa ylipainetta ei sulkeutuneen ylipaineventtiilin vuotovirtaus saa ylittää 10 dm\n                                    3\n                                    /s. Ylipaineventtiilin ominaiskäyrän tulee olla jatkuvasti nouseva. Venttiilin ja 300 mm pituisen suoran läpivientiputken yhdessä aiheuttama virtausvastus saa olla enintään 95 Pa ilmavirran ollessa 54 dm\n                                    3\n                                    /s. Ilmavirralla 65 dm\n                                    3\n                                    /s virtausvastus saa olla enintään 115 Pa. Kun ominaiskäyrän nousevaa osaa vastaava ilmavirta on enintään 70 dm\n                                    3\n                                    /s, saa hystereesi-ilmiön vaikutus olla enintään 20 dm\n                                    3\n                                    /s. Ylipaineventtiili on voitava kiinnittää 160 mm nimellissuuruisen läpivientiputken laippaan, jonka mitat on esitetty liitteen 3 taulukossa 8. Ylipaineventtiilin ulkonema seinäpinnasta saa olla enintään 150 mm ja sivuttaissuunnassa enintään 130 mm läpivientiputken keskilinjalta.",
+      "section_number": "17",
+      "chapter_number": 4,
+      "statute_id": "562/1999"
+    },
+    {
+      "id": "b5756fd3-ce00-4bdf-921c-9da93f3283fb",
+      "node_type": "Section",
+      "publisher": "finlex",
+      "title": "18 § Kalliosuojien sekä S3-luokan teräsbetonisuojan paineventtiili",
+      "text": "Kalliosuojien sekä S3-luokan teräsbetonisuojan paineventtiilin (PV-6) tulee kestää liitteen 2 taulukossa 2 esitetyt staattiset kuormat. Paineventtiilin tulee kestää kolme kertaa liitteen 2 taulukossa 4 esitetty paineaaltokuorma. Sulkeutuneen paineventtiilin vuotovirtaus ei saa ylittää 20 prosenttia venttiilin nimellisilmavirrasta silloin, kun paineaaltokuormituksen heijastuspainehuippu on 900 kPa ylipainetta. Paineventtiilin tulee sulkeutua 10 kPa suuruisen ulkopuolisen alipaineen vaikutuksesta. Paineventtiilin tulee pysyä avoimena 1,2-kertaisella käyttöilmavirralla.",
+      "section_number": "18",
+      "chapter_number": 4,
+      "statute_id": "562/1999"
+    },
+    {
+      "id": "47de0d70-f742-4c63-ae57-981ecd9c228a",
+      "node_type": "Section",
+      "publisher": "finlex",
+      "title": "19 § Tuloilmaventtiili",
+      "text": "Väestönsuojan tuloilmaventtiili (TV-6) on voitava liittää halkaisijaltaan 160 mm olevaan standardin SFS-EN 1506 mukaiseen kanavaan. Tuloilmaventtiilin tulee kestää paineaaltokuorma, joka on annettu liitteen 2 taulukossa 4. Tuloilmaventtiilin virtausvastuskäyrän tulee ilmavirran kasvaessa olla jatkuvasti nouseva. Kanavan päähän asennetun tuloilmaventtiilin virtausvastus saa ilmavirralla 25 dm\n                                    3\n                                    /s olla enintään 60 Pa. Ilmavirralla 8 dm\n                                    3\n                                    /s virtausvastuksen tulee olla vähintään 20 Pa. Tuloilmaventtiilin on ohjattava tuloilma suojaan siten, että standardin SFS- EN 12238 mukaisesti määritetty heittopituus on kanavan keskilinjasta lukien kanavan molemmilla puolilla ilmavirralla 25 dm\n                                    3\n                                    /s vähintään 1,0 m ja että ilmavirtauksen loppunopeus on 0,5 m/s.",
+      "section_number": "19",
+      "chapter_number": 4,
+      "statute_id": "562/1999"
+    },
+    {
+      "id": "df6bff3c-7c65-498a-9fe9-715b3290a6c3",
+      "node_type": "Section",
+      "publisher": "finlex",
+      "title": "20 § Poistoilmaventtiili",
+      "text": "S1- ja K-luokan poistoilmaventtiilin (KV-1) tulee kestää liitteen 2 taulukossa 2 esitetyt staattiset kuormat. Poistoilmaventtiilit on voitava kiinnittää halkaisijaltaan 160 mm läpivientiputkeen, jonka mitat esitetään liitteen 3 taulukossa 8. Ulkoisen paineen ollessa 150 Pa, suljetun poistoilmaventtiilin vuotovirtaus saa olla enintään 15 cm\n                                    3\n                                    /s . Poistoilmaventtiili on voitava sulkea ja avata väestönsuojan puolelta käsin. Suljetun poistoilmaventtiilin tulee kestää kummaltakin puolelta 20 kPa:n staattinen ylipaine.",
+      "section_number": "20",
+      "chapter_number": 4,
+      "statute_id": "562/1999"
+    },
+    {
+      "id": "6e5bd74c-cddd-48c3-b298-c5a1385238fd",
+      "node_type": "Section",
+      "publisher": "finlex",
+      "title": "21 § Viemärin sulkuventtiili",
+      "text": "Viemärin sulkuventtiilin (VSV-K, VSV-1, VSV-6) ja sen liitosten tulee kestää liitteen 2 taulukossa 2 esitetyt staattiset kuormat. Suljetun sulkuventtiilin vuotoilmavirtaus saa olla enintään 15 cm\n                                    3\n                                    /s ulkoisen paineen ollessa 150 Pa. Sulkuventtiili on voitava sulkea ja avata väestönsuojan puolelta käsin.",
+      "section_number": "21",
+      "chapter_number": 4,
+      "statute_id": "562/1999"
+    },
+    {
+      "id": "3534fa6c-958f-47fe-942f-b56927c6d604",
+      "node_type": "Section",
+      "publisher": "finlex",
+      "title": "22 § Ylipainemittari",
+      "text": "Väestönsuojan ylipainemittari (YM-6) liitetään kloropreenikumista tai ominaisuuksiltaan sitä vastaavasta materiaalista tehdyllä liitoksella väestönsuojasta ulos johtavaan, ulkohalkaisijaltaan 10 mm olevaan mittaputkeen. Ylipainemittarissa tulee olla merkintä käytettävän mittanesteen laadusta. Mittanesteen tiheyden tulee olla vähintään 0,75 kg/dm\n                                    3\n                                     ja enintään 0,85 kg/dm\n                                    3\n                                    , eikä se saa olla helposti haihtuvaa. Ylipainemittarin tulee kestää liitteen 2 taulukossa 2 esitetyt staattiset kuormat ja kolme kertaa liitteen 2 taulukossa 4 esitetyt paineaaltokuormat. Ylipainemittarin tulee näyttää paine-eron suuruus alipaineen 100 Pa ja ylipaineen 500 Pa välillä. Ylipainemittarin epätarkkuus saa staattisessa mittauksessa olla enintään ± 10 Pa 100 Pa alipaineen ja 100 Pa ylipaineen välisellä alueella. Epätarkkuus saa olla enintään ± 30 Pa ylipaineen ollessa yli 100 Pa ja enintään 500 Pa. Ylipainemittarin nolla-asetusta on voitava säätää vähintään 25 Pa:n verran.",
+      "section_number": "22",
+      "chapter_number": 4,
+      "statute_id": "562/1999"
+    },
+    {
+      "id": "839ca723-793a-4f44-b830-e4f14f2d9445",
+      "node_type": "Section",
+      "publisher": "finlex",
+      "title": "23 § Irrallinen varavesisäiliö",
+      "text": "Väestönsuojan varavesisäiliön (VS-6) tulee täyttää elintarvikepakkauksille asetetut materiaalivaatimukset. Varavesisäiliö on varustettava veden jakeluun sopivalla laitteella. Säiliön tilavuus saa olla enintään 1 500 l ja massa saa olla tyhjänä enintään 100 kg. Säiliö on voitava tyhjänä kuljettaa valoaukoltaan 900 x 2 000 mm ovesta. Vesisäiliön vaatima lattia-ala saa olla enintään 1,3 m\n                                    2\n                                     /1 000 l. Tilavuudeltaan alle 200 l:n säiliöt on tyhjinä voitava säilyttää sisäkkäin. Varavesisäiliön tulee kestää rasitus, joka aiheutuu vedellä täytetyn säiliön tai säiliösarjan pudottamisesta pystyasennossa 200 mm:n korkeudelta kovalle alustalle, kun säiliötä on säilytetty täytettynä 14 vuorokautta +20 °C lämpötilassa, suhteellisen kosteuden ollessa 95 prosenttia. Varavesisäiliön tulee täytettynä kestää kaatumatta siihen kohdistuva vaakasuuntainen staattinen voima, jonka suuruus on 1 N/l, kuitenkin vähintään 150 N ja enintään 400 N. Voiman vaikutuskohta on tällöin säiliön yläreunassa tai enintään 1 500 mm korkeudella lattiapinnasta. Vedellä täytetyn varavesisäiliön tulee kestää rasitus, joka voi aiheutua muun muassa pituudeltaan 75 mm ja paksuudeltaan 10 mm teräspuikon päätä painettaessa vaakasuorassa suunnassa säiliön alareunan ulkoseinää vastaan 200 N voimalla.",
+      "section_number": "23",
+      "chapter_number": 5,
+      "statute_id": "562/1999"
+    },
+    {
+      "id": "8a77ec4f-df5e-4655-bdbb-f103108935d1",
+      "node_type": "Section",
+      "publisher": "finlex",
+      "title": "24 § Jäteastia",
+      "text": "Väestönsuojan jäteastia (JS-6) on varustettava kantokahvoilla. Jäteastian massa vedellä täytettynä saa olla enintään 110 kg ja se on voitava kuljettaa valoaukoltaan 900 x 2 000 mm:n ovesta. Jäteastiat on tyhjinä voitava säilyttää sisäkkäin. Jäteastian tulee kestää rasitus, joka aiheutuu vedellä täytetyn säiliön pudottamisesta pystyasennossa 200 mm:n korkeudelta kovalle alustalle, kun säiliötä on säilytetty täytettynä 14 vuorokautta +20 °C lämpötilassa suhteellisen kosteuden ollessa 95 prosenttia. Vedellä täytetyn jäteastian tulee kestää rasitus, joka voi aiheutua muun muassa pituudeltaan 75 mm:n ja paksuudeltaan 10 mm:n teräspuikon päätä painettaessa vaakasuorassa suunnassa säiliön alareunan ulkoseinää vastaan 200 N:n voimalla.",
+      "section_number": "24",
+      "chapter_number": 5,
+      "statute_id": "562/1999"
+    },
+    {
+      "id": "4dcda0d3-2521-4d6f-b79b-5a418247aab7",
+      "node_type": "Section",
+      "publisher": "finlex",
+      "title": "25 § Kuivakäymälän kaluste",
+      "text": "Väestönsuojan kuivakäymälän kalusteen (KK-6) tilavuuden tulee olla vähintään 30 l. Jokaista kuivakäymälän kalustetta varten tulee olla vähintään 16 kpl pusseja sekä tarvikkeet pussien sulkemiseksi. Kuivakäymälän kalusteen tulee kestää 1 500 N:n suuruinen pystysuora kuorma ja rasitus, joka aiheutuu vedellä täytetyn kalusteen pudottamisesta pystyasennossa 200 mm:n korkeudelta kovalle alustalle, kun kalustetta on säilytetty vedellä täytettynä 14 vuorokautta +20 °C:n lämpötilassa suhteellisen kosteuden ollessa 95 prosenttia.",
+      "section_number": "25",
+      "chapter_number": 5,
+      "statute_id": "562/1999"
+    },
+    {
+      "id": "9fff7507-1eae-4ff7-9b69-e0b94ede64d7",
+      "node_type": "Section",
+      "publisher": "finlex",
+      "title": "26 § Kuivakäymäläkomero",
+      "text": "Käymäläkomero (KH-3) tulee kiinnittää seinässä olevaan kehykseen. Käymäläkomero (KH-6) pystytetään lattialle ilman sivutukia, lattia- ja kattokiinnityksiä. Käymäläkomeron tulee täyttää liitteen 3 taulukossa 9 esitetyt mitat. Kuivakäymäläkomeron materiaalin tulee olla vaikeasti syttyvää IMO Resolution A.471 (XII) tai sitä vastaavien vaatimusten mukainen. Käymäläkomeron tai käymäläryhmän käyttökuntoon asentamiseen saa kahdelta henkilöltä kulua enintään 20 minuuttia. Käymäläkomero on voitava liittää poistoilmakanavaan tai ylipaineventtiiliin. Käymäläkomeron tai käymäläryhmän sivu-, taka- ja etuseinien sekä katon on muodostettava käymälän yläosaan yhtenäinen tila, josta ilma poistuu. Ilmanvaihtoa varten on käymälässä oltava lattiarajassa 10 - 20 mm:n levyinen virtausaukko.",
+      "section_number": "26",
+      "chapter_number": 5,
+      "statute_id": "562/1999"
+    },
+    {
+      "id": "6d4969ba-695e-4c93-b85f-0452d2aa22c1",
+      "node_type": "Section",
+      "publisher": "finlex",
+      "title": "27 § Sulkuteltta",
+      "text": "S1- ja K-luokan väestönsuojan sulkuteltta (ST-1) tulee kiinnittää tiiviisti ympärysseinään suojaoven eteen siten, että poistoilmavirta kulkee sulkuteltan ja ylipaineventtiilien kautta ulos. Sulkuteltta on voitava asentaa paikalleen enintään 20 minuutissa. Sulkuteltan toiminta-asennot ovat seuraavat: Sulkuteltan materiaalin tulee olla vaikeasti syttyvää IMO Resolution A.471 (XII) tai sitä vastaavien vaatimusten mukainen. Seinän kiinnityskohdalla sulkuteltan leveyden tulee olla 1 650 mm tai 1 900 mm, korkeuden 2 150 mm ja syvyyden enintään 1 300 mm. Kun ulos menevä ilmavirta on 15 ja 80 dm\n                                    3\n                                    /s välillä, tulee sulkutelttaan muodostua alipainetta 10 ja 50 Pa:n välillä. Sulkuteltan kautta ulos menevän ilmavirran ollessa 20 dm\n                                    3\n                                    /s, sulkuteltan ja ovisyvennyksen yhdessä muodostaman tilan ilmanvaihtokertoimen tulee olla vähintään 15 l/h. Kun sulkuteltan kautta ulos menevä ilmavirta on 20 dm\n                                    3\n                                    /s, saa alipaine suojatilaan nähden olla enintään 5 sekunnin ajan pienempi kuin 3 Pa. Sulkuteltan ja suojatilan välisen kulkuaukon tulee sulkeutua itsestään sen kautta kuljettaessa.",
+      "section_number": "27",
+      "chapter_number": 5,
+      "statute_id": "562/1999"
+    },
+    {
+      "id": "cb71abbf-f6bf-4194-8ff8-5d18f51c523f",
+      "node_type": "Section",
+      "publisher": "finlex",
+      "title": "28 § Väestönsuojan vuode",
+      "text": "Väestönsuojan vuoteen (VV-6) tulee olla kolmikerroksinen ja sen vaatima varastointitila saa olla varastointipakkauksessa enintään 0,2 m\n                                    2\n                                    . Vuoteen alustan tulee olla kosteutta läpäisemätön ja materiaaliltaan vaikeasti syttyvää IMO Resolution A.471 (XII) tai sitä vastaavien vaatimusten mukainen. Alustan tulee toimia patjana. Vuoteen mitat on esitetty liitteen 2 taulukossa 7. Vuode on voitava asentaa käyttökuntoon 10 minuutissa. Väestönsuojan vuoteen tulee kestää rasitus, joka aiheutuu siitä, kun vuode pudotetaan 200 mm:n korkeudelta kovalle alustalle ja jokaisella vuodetasolla on 80 kg:n kuorma. Vuoteen tulee täysin kuormitettuna kestää kaatumatta siihen kohdistuva vaakasuuntainen 400 N:n voima. Voiman vaikutuskohta on ylimmän vuoteen tasolla, erikseen vuoteen päässä ja keskellä.",
+      "section_number": "28",
+      "chapter_number": 5,
+      "statute_id": "562/1999"
+    },
+    {
+      "id": "1ede2811-fd2b-4a16-bca0-7e9224305fb5",
+      "node_type": "Section",
+      "publisher": "finlex",
+      "title": "29 § Kalliosuojien ja S3-luokan teräsbetonisuojan polttomoottorikäyttöinen vuotovesipumppu",
+      "text": "Kalliosuojien ja S3-luokan teräsbetonisuojan polttomoottorikäyttöisessä vuotovesipumpussa (PMP) tulee olla käsi- ja sähkökäynnistys. Se on liitettävä 12 V akkuun ja vakiojännitevaraajaan. Pumppua käyttävän polttomoottorin tulee olla varmakäyttöinen ja sen avulla tulee voida käyttää pumppua sen nimellistoimipisteessä vähintään 500 tuntia vähäisiä huoltokeskeytyksiä lukuunottamatta. Pumpun polttomoottori jäähdytetään vedellä tai suojasta poistettavalla ilmalla. Vuotovesipumpun moottorin polttonesteen käyttösäiliö tulee mitoittaa vähintään 6 tunnin käyttöä varten. Varastosäiliöt tulee mitoittaa 14 vuorokauden käyttöä varten.",
+      "section_number": "29",
+      "chapter_number": 6,
+      "statute_id": "562/1999"
+    },
+    {
+      "id": "1b0db2b8-aee2-45fe-9739-590c72a39049",
+      "node_type": "Section",
+      "publisher": "finlex",
+      "title": "30 § Varavalaistus",
+      "text": "Kalliosuojien ja S3-luokan teräsbetonisuojan varavalaistuslaitteiston (VAL-6) virtalähteenä on ilmanvaihtolaitteen polttomoottorin generaattori. Varavalaistuksen lampun tehon tulee olla 20 W. Varavalaistuksen nimellisjännitteen tulee olla 24 V ja sen sähköteho saa olla enintään 500 W. Varavalaistuksen sähköverkko tulee varustaa pistorasioilla. Varavalaistuksen ohjausta ja tarkkailua varten tulee olla ohjauskeskus, johon voidaan liittää viisi valaisinryhmää. S1- ja K-luokan ilmanvaihtolaitteiden (IVL-1 ja IVL-K) varavalaisimen tulee toimia suojapuhallinta käsin pyöritettäessä. Varavalaisimessa tulee olla sähkön kehittämistä varten generaattori, valaisin ja sen johdin.",
+      "section_number": "30",
+      "chapter_number": 6,
+      "statute_id": "562/1999"
+    },
+    {
+      "id": "64c17917-ad6d-4e8c-a1e9-b439709a88eb",
+      "node_type": "Section",
+      "publisher": "finlex",
+      "title": "31 § Hätävalaistus",
+      "text": "Hätävalaistuksen virtalähteenä tulee käyttää polttomoottorikäyttöisen ilmanvaihtolaitteen käynnistysakkua, jossa on oltava sähköverkkoon liitetty vakiojännitevaraaja. Hätävalaistuksen lampun tehon tulee olla 3 W. Hätävalaistuksen akkuparisto tulee mitoittaa vähintään 5 tunnin yhtäjaksoista käyttöä varten.",
+      "section_number": "31",
+      "chapter_number": 6,
+      "statute_id": "562/1999"
+    },
+    {
+      "id": "286bec7d-db7c-404c-96ad-1b945d8fe569",
+      "node_type": "Section",
+      "publisher": "finlex",
+      "title": "32 § Tärähdyksen vaimennin",
+      "text": "Tärähdyksen vaimentimen (TVA-6) tarkoituksena on vähentää maaperän tärähdyksestä laitteisiin ja rakennusosiin aiheutuvia rasituksia. Tärähdyksen vaimentimen tulee vaimentaa käyntivärinä, kestää suojautumisen aikaiset kuormat sekä normaaliolojen pitkäaikaiset rasitukset. Vaimentimen tulee kestää siihen kohdistuvat kiinnitysalustan tärähdysliikkeet, jotka ovat mielivaltaisessa suunnassa enintään seuraavat:",
+      "section_number": "32",
+      "chapter_number": 6,
+      "statute_id": "562/1999"
+    },
+    {
+      "id": "d84d41c4-d0ae-4bff-ae6c-98ad0bc7ef2c",
+      "node_type": "Section",
+      "publisher": "finlex",
+      "title": "33 § Kaasunilmaisinlaitteisto",
+      "text": "Ilmaisinlaitteen, näytteenottolaitteen, keskusyksikön ja kaukohälyttimen käsittävän kaasunilmaisin-laitteen (KIL-6) tulee näyttää reaaliaikaisena hälytyksen tyyppi ja karkea kaasupitoisuuden taso. Kaasunilmaisinlaitteen tulee kestää liitteen 2 taulukossa 4 esitetty näyteilmaputkiston kautta tuleva paineaaltokuorma. Kaasunilmaisinlaitteen tulee ilmaista näyteilmassa oleva kemiallinen taisteluaine ja antaa siitä hälytys. Hälytyksen vasteaika saa olla enintään 10 s. Kun kaasupitoisuus laskee hälytysrajan alle, tulee hälytyksen loppua. Kaasunilmaisinlaitteen hälytysrajat [mg/m\n                                    3\n                                    ] ovat seuraavat: Kaasunilmaisinlaitteen tulee toimia sähkön syötön katkettua sähköverkosta. Varsinaisen ilmaisinlaitteen virran ottoteho saa olla enintään 30 W sekä erillisen keskusyksikön enintään 10 W siihen liitettyä ilmaisinlaitetta kohti.",
+      "section_number": "33",
+      "chapter_number": 6,
+      "statute_id": "562/1999"
+    },
+    {
+      "id": "481c2664-a08c-4e01-a422-d2da6ec3cb23",
+      "node_type": "Section",
+      "publisher": "finlex",
+      "title": "34 § Yleistä",
+      "text": "Ilmanvaihtolaite (IVL-K) käsittää sulkuventtiilin, esisuodattimen, erityissuodattimen, suojapuhaltimen, ilmavirran mittarin, liitososat, varavalaisinlaitteen sekä tuloilmalaitteen. Ilmanvaihtolaitteen tulee toimia sähkömoottorilla ja käsikäyttöisenä. Ilmanvaihtolaitteen yhteydessä tulee olla lukittava kotelo ohjeita ja huoltotarvikkeita varten. Laitteen tulee olla mitoiltaan sellainen, että sen erityissuodatin voidaan vaihtaa toisen ilmanvaihtolaitteen erityissuodattimen tilalle. Ilmanvaihtolaite on voitava kiinnittää 160 mm nimellissuuruisen läpivientiputken laippaan, jonka mitat on esitetty liitteen 3 taulukossa 8. Ilmanvaihtolaitteen kiinnitysten tulee sallia suojan ympärysseinän taipuminen sisäänpäin vähintään 60 mm. Ilmanvaihtolaitteen tulee kestää kolme kertaa liitteen 2 taulukossa 4 esitetty läpivientiputken kautta tuleva paineaaltokuorma.",
+      "section_number": "34",
+      "chapter_number": 7,
+      "statute_id": "562/1999"
+    },
+    {
+      "id": "b379b5e4-d511-46d8-95db-a4c455ff0d33",
+      "node_type": "Section",
+      "publisher": "finlex",
+      "title": "35 § Sulkuventtiili ja esisuodatin",
+      "text": "Sulkuventtiili ja esisuodatin (PV-K) tulee liittää toisiinsa kiinteäksi yksiköksi. Esisuodattimen tulee täyttää liitteen 4 vaatimukset. Suljetun venttiilin vuotovirtaus saa olla enintään 20 cm\n                                    3\n                                    /s ulkopuolisen ylipaineen ollessa 100 Pa ja enintään 40 cm\n                                    3\n                                    /s sisäpuolisen alipaineen ollessa 1 000 Pa. Sulkuventtiili on voitava sulkea käsin. Sulkuventtiilin tulee käsin suljettuna kestää liitteen 2 taulukossa 2 esitetyt staattiset kuormat.",
+      "section_number": "35",
+      "chapter_number": 7,
+      "statute_id": "562/1999"
+    },
+    {
+      "id": "50f72de4-df40-4d02-a319-4735f0a1e3f6",
+      "node_type": "Section",
+      "publisher": "finlex",
+      "title": "36 § Erityissuodatin",
+      "text": "Erityissuodatin (ES-K) käsittää hiukkas- ja kaasusuodatinosan. Erityissuodattimen lisämerkintöjä ja suodatuskykyä koskevat vaatimukset on esitetty liitteessä 4. Erityissuodattimen kokonaisvastus saa olla enintään 400 Pa nimellisilmavirralla 18 dm\n                                    3\n                                    /s.",
+      "section_number": "36",
+      "chapter_number": 7,
+      "statute_id": "562/1999"
+    },
+    {
+      "id": "e8ee1afb-7e1d-4f5a-8011-94a852be9233",
+      "node_type": "Section",
+      "publisher": "finlex",
+      "title": "37 § Suojapuhallin ja ilmavirran mittari",
+      "text": "Suojapuhallin (SP-K) käsittää puhallinosan, ilmavirran mittarin sekä puhaltimen ja erityissuodattimen yhteisen kannattimen. Suojapuhaltimen ilmavirtaa on voitava säätää portaattomasti ja sen on pysyttävä asetteluarvossa. Suojapuhaltimen tulee täyttää liitteen 5 vaatimukset. Kammen pyöritysnopeuden tulee olla nimellistoimintapisteissä vähintään 25 ja enintään 45 kierrosta minuutissa. Kammen tulee olla poikittain pyörittäjään nähden. Kammen akselin korkeuden lattiasta tulee olla vähintään 1 000 mm ja enintään 1 100 mm. Suojapuhaltimen tulee kestää nimellistoimintapisteessä 1 000 tunnin käyttö. Suojapuhallin on varustettava 3-vaihesähkömoottorilla. Suojapuhaltimeen liittyvällä ilmavirran mittarilla tulee voida todeta ilmavirran suuruus suodatus- ja ohituskäytössä 10 prosentin tarkkuudella.",
+      "section_number": "37",
+      "chapter_number": 7,
+      "statute_id": "562/1999"
+    },
+    {
+      "id": "4fb9ff7a-0858-4433-9726-213c4b05281e",
+      "node_type": "Section",
+      "publisher": "finlex",
+      "title": "38 § Ilmanvaihtolaitteen liitososat",
+      "text": "Ilmanvaihtolaitteen liitososia ovat sulkuventtiilin tai esisuodattimen ja erityissuodattimen sekä erityissuodattimen ja suojapuhaltimen väliset joustavat liitokset sekä erityissuodattimen tilalle liitettävä ohitusilmaputki. Liitososat on voitava kiinnittää ilman työkaluja. Liitososien tulee kestää 10 kPa:n ulkopuolista ja 30 kPa:n sisäpuolista staattista ylipainetta, sekä mielivaltaisessa suunnassa 10 mm:n suuruinen liike. Joustavien liitososien vuotovirtaus saa olla enintään 10 cm\n                                    3\n                                    /s sisäpuolisen ylipaineen ollessa 100 Pa ja 20 cm\n                                    3\n                                    /s sisäpuolisen alipaineen ollessa 1 000 Pa. Joustavan liitososan tulee olla kloropreenikumia tai ominaisuuksiltaan sitä vastaavaa materiaalia.",
+      "section_number": "38",
+      "chapter_number": 7,
+      "statute_id": "562/1999"
+    },
+    {
+      "id": "e0486fc9-64d2-4fcd-9cbf-2518aefec475",
+      "node_type": "Section",
+      "publisher": "finlex",
+      "title": "39 § Tuloilmalaite",
+      "text": "Tuloilmalaitteen puhallusaukon tulee olla vähintään 850 ja enintään 950 mm pyörityskammen keskiön tason yläpuolella. Tuloilmalaitteen on ohjattava tuloilma suojaan siten, että standardin SFS-EN 12238 mukaisesti määritetty heittopituus suojatilaan päin on ilmavirralla 54 dm\n                                    3\n                                    /s vähintään 1,0 m ja että ilmavirtauksen loppunopeus on 0,5 m/s.",
+      "section_number": "39",
+      "chapter_number": 7,
+      "statute_id": "562/1999"
+    },
+    {
+      "id": "4ae013f0-0821-41bd-85bb-e9f8529abf24",
+      "node_type": "Section",
+      "publisher": "finlex",
+      "title": "40 § Yleistä",
+      "text": "Ilmanvaihtolaite (IVL-1) käsittää paineventtiilin, esisuodattimen, erityissuodattimen, suojapuhaltimen, ilmavirran mittarin, liitososat ja varavalaisinlaitteen. Ilmanvaihtolaitteen tulee toimia sähkömoottorilla ja käsikäyttöisenä. Ilmanvaihtolaitteen yhteydessä tulee olla lukittava kotelo ohjeita ja huoltotarvikkeita varten. Laitteen tulee olla mitoiltaan sellainen, että sen erityissuodatin voidaan vaihtaa toisen ilmanvaihtolaitteen erityissuodattimen tilalle. Ilmanvaihtolaitteeseen on voitava kiinnittää 160 mm nimellissuuruisen läpivientiputken laippaan, jonka mitat on esitetty liitteen 3 taulukossa 8. Ilmanvaihtolaitteen kiinnitysten tulee sallia suojan ympärysseinän taipuminen sisäänpäin vähintään 60 mm. Paineventtiilin tulee kestää kolme kertaa liitteen 2 taulukossa 4 esitetyt paineaaltokuormat. Erityissuodattimen, suojapuhaltimen ja liitososien tulee kestää liitteen 2 taulukossa 4 esitetty paineaaltokuorma.",
+      "section_number": "40",
+      "chapter_number": 8,
+      "statute_id": "562/1999"
+    },
+    {
+      "id": "78ba19ea-2f9f-4cf3-9c3d-8ead457495a6",
+      "node_type": "Section",
+      "publisher": "finlex",
+      "title": "41 § Paineventtiili ja esisuodatin",
+      "text": "Paineventtiili ja esisuodatin (PV-1) tulee liittää toisiinsa kiinteäksi yksiköksi. Esisuodattimen tulee täyttää liitteen 4 vaatimukset. Paineventtiilissä tulee olla kaksi M10-tulpalla suljettua liitäntää. Paineventtiilin tulee sulkeutua ulkopuolisen paineiskun vaikutuksesta. Läpi pääsevän ylipaineimpulssin suuruus saa olla enintään 20 Ns paineiskun heijastuspainehuipun ollessa vähintään 10 ja enintään 40 kPa ylipainetta ja enintään 8 Ns heijastuspainehuipun ollessa vähintään 40 ja enintään 300 kPa ylipainetta. Paineaaltokuormituksen heijastuspainehuipun suuruuden ollessa 300 kPa ylipainetta ei sulkeutuneen paineventtiilin vuotovirtaus saa ylittää 25 dm\n                                    3\n                                    /s. Paineventtiilin tulee sulkeutua 10 kPa suuruisen ulkopuolisen alipaineen vaikutuksesta. Paineventtiilin tulee suljettuna kestää liitteen 2 taulukossa 2 esitetyt staattiset kuormat. Suljetun paineventtiilin vuotovirtaus saa olla enintään 10 cm\n                                    3\n                                    /s ulkopuolisen ylipaineen ollessa 150 Pa ja enintään 20 cm\n                                    3\n                                    /s sisäpuolisen alipaineen ollessa 1 500 Pa. Paineventtiili on voitava sulkea käsin. Paineventtiilin aiheuttama virtausvastus saa olla enintään 120 Pa ilmavirran ollessa 135 dm\n                                    3\n                                    /s. Venttiilin tulee pysyä avoimena ilmavirran ollessa 270 dm\n                                    3\n                                    /s.",
+      "section_number": "41",
+      "chapter_number": 8,
+      "statute_id": "562/1999"
+    },
+    {
+      "id": "b2c49c82-5c18-45d6-8945-e91416758b95",
+      "node_type": "Section",
+      "publisher": "finlex",
+      "title": "42 § Erityissuodatin",
+      "text": "Erityissuodatin (ES-1) käsittää hiukkas- ja kaasusuodatinosan. Erityissuodattimen lisämerkintöjä ja suodatuskykyä koskevat vaatimukset on esitetty liitteessä 4. Erityissuodattimen tulee kestää liitteen 2 taulukossa 4 esitetty paineaaltokuorma. Erityissuodattimen kokonaisvastus saa olla enintään 800 Pa, kun nimellisilmavirta on 40 dm\n                                    3\n                                    /s.",
+      "section_number": "42",
+      "chapter_number": 8,
+      "statute_id": "562/1999"
+    },
+    {
+      "id": "2c54568f-3770-4983-89e2-5650be4dfac7",
+      "node_type": "Section",
+      "publisher": "finlex",
+      "title": "43 § Suojapuhallin ja ilmavirran mittari",
+      "text": "Suojapuhallin (SP-1) käsittää puhallinosan, ilmavirranmittarin sekä puhaltimen ja erityissuodattimen yhteisen kannattimen. Suojapuhaltimen ilmavirtaa on voitava säätää portaattomasti ja sen on pysyttävä asetteluarvossa. Suojapuhaltimen tulee täyttää liitteen 5 mukaiset vaatimukset. Kammen pyöritysnopeuden tulee olla nimellistoimintapisteissä vähintään 25 ja enintään 45 kierrosta minuutissa. Kammen tulee olla poikittain pyörittäjään nähden. Kammen akselin korkeuden lattiasta tulee olla vähintään 1 000 mm ja enintään 1 100 mm. Suojapuhaltimen tulee kestää nimellistoimintapisteessä 1000 tunnin käyttö. Suojapuhallin on varustettava 3-vaihesähkömoottorilla. Suojapuhaltimeen liittyvällä ilmavirran mittarilla tulee voida todeta ilmavirran suuruus suodatus- ja ohituskäytössä 10 prosentin tarkkuudella.",
+      "section_number": "43",
+      "chapter_number": 8,
+      "statute_id": "562/1999"
+    },
+    {
+      "id": "124908b4-74ab-4e2c-b17c-e8546fb6e5a0",
+      "node_type": "Section",
+      "publisher": "finlex",
+      "title": "44 § Ilmanvaihtolaitteen liitososat",
+      "text": "Ilmanvaihtolaitteen liitososia ovat sulkuventtiilin tai esisuodattimen ja erityissuodattimen sekä erityissuodattimen ja suojapuhaltimen väliset joustavat liitososat sekä erityissuodattimen tilalle liitettävä ohitusilmaputki. Liitososat on voitava kiinnittää ilman työkaluja. Liitososien tulee kestää 10 kPa ulkopuolista ja 30 kPa sisäpuolista staattista ylipainetta. Joustavien liitososien tulee kestää mielivaltaisessa suunnassa 10 mm:n suuruinen liike. Joustavien liitososien vuotovirtaus saa olla enintään 10 cm\n                                    3\n                                    /s sisäpuolisen ylipaineen ollessa 150 Pa ja 20 cm\n                                    3\n                                    /s sisäpuolisen alipaineen ollessa 1500 Pa. Joustavien liitososien tulee olla kloropreenikumia tai ominaisuuksiltaan sitä vastaavaa materiaalia.",
+      "section_number": "44",
+      "chapter_number": 8,
+      "statute_id": "562/1999"
+    },
+    {
+      "id": "9f327b7d-509d-48cb-9ab7-1ca582d8e6e6",
+      "node_type": "Section",
+      "publisher": "finlex",
+      "title": "45 § Yleistä",
+      "text": "Polttomoottorikäyttöinen ilmanvaihtolaite (IVL-6) käsittää erityissuodattimet, suojapuhaltimen sähkö- ja polttomoottorit, ilmavirran mittarit sekä muut mittaus- ja valvontalaitteet. Ilmanvaihtolaitteeseen luetaan myös yhdyskanavat, liitososat ja sulkulaitteet. Ilmanvaihtolaitteen yhteydessä tulee olla lukittava kotelo ohjeita ja huoltotarvikkeita varten. Ilman-vaihtolaite tulee mitoittaa 21 vuorokauden yhtämittaista käyttöä varten. Ilmanvaihtolaitteen tulee kestää liitteen 2 taulukossa 4 esitetty paineaaltokuorma.",
+      "section_number": "45",
+      "chapter_number": 9,
+      "statute_id": "562/1999"
+    },
+    {
+      "id": "2cbe9791-ce42-4464-aa4d-59fa7528b011",
+      "node_type": "Section",
+      "publisher": "finlex",
+      "title": "46 § Erityissuodatin",
+      "text": "Erityissuodatin (ES-6) käsittää hiukkas- ja kaasusuodatinosan. Erityissuodattimen tulee täyttää liitteessä 4 esitetyt vaatimukset. Erityissuodattimen tulee kestää liitteen 2 taulukossa 4 esitetty paineaaltokuorma. Erityissuodattimen (ES-6/240) kokonaisvastus saa olla enintään 1 500 Pa nimellisilmavirralla 170 dm\n                                    3\n                                    /s. Erityissuodattimena voidaan käyttää myös nimellisilmavirraltaan enintään 340 dm\n                                    3\n                                    /s suodatinta. Suodattimen kapasiteetin tulee olla suoraan verrannollinen liitteessä 4 annetun suodattimen ES-6/240 kapasiteettiin.",
+      "section_number": "46",
+      "chapter_number": 9,
+      "statute_id": "562/1999"
+    },
+    {
+      "id": "c21af0ec-3403-4c6f-abc7-e18cc4469d07",
+      "node_type": "Section",
+      "publisher": "finlex",
+      "title": "47 § Suojapuhallin",
+      "text": "Suojapuhaltimen tulee täyttää liitteessä 5 esitetyt vaatimukset. Suojapuhaltimen polttomoottorin tulee kestää puhaltimen nimellistoimintapisteessä 500 tunnin käyttö. Puhaltimen polttomoottorissa tulee olla sähkökäynnistys. Moottorin käynnistämistä varten tulee olla 24 V:n akku. Akku tulee mitoittaa siten, että moottori voidaan käynnistää, kun akkua on kuormitettu yhtäjaksoisesti 5 tunnin ajan hätävalaistuksella. Polttomoottori tulee varustaa vaihtovirtalatauslaitteella, jonka teho on 700 W. Laitteessa tulee olla 24 DVC:n sähköliitäntä varavalaistusta ja kaasunilmaisinlaitetta varten. Polttomoottorin jäähdytys tapahtuu suojasta poistettavan ilman avulla. Polttomoottorin polttonesteen käyttösäiliö tulee mitoittaa vähintään 6 tunnin käyttöä varten. Varastosäiliöt tulee mitoittaa 14 vuorokauden polttomoottorin käyttöä varten.",
+      "section_number": "47",
+      "chapter_number": 9,
+      "statute_id": "562/1999"
+    },
+    {
+      "id": "bbad1e26-8fcf-474a-95b3-758571ba8acc",
+      "node_type": "Section",
+      "publisher": "finlex",
+      "title": "48 § Ilmanvaihtolaitteen yhdyskanavat ja liitososat",
+      "text": "Yhdyskanavia ovat ilmanjakokanava, jolla ilma jaetaan erityissuodattimille ja ilmankokoamiskanava, jolla ilma johdetaan erityissuodattimista suojapuhaltimeen sekä ohitusilmakanava, jolla ilma johdetaan raitisilmakanavasta erityissuodattimien ohi suojapuhaltimeen. Kanavien tulee kestää 10 kPa ulkopuolista ja 30 kPa sisäpuolista staattista ylipainetta. Joustavan liitososan tulee olla kloropreenikumia tai ominaisuuksiltaan sitä vastaavaa materiaalia. Ilmanjakokanavan ja siihen liitettyjen joustavien liitososien tiiviyden tulee olla sellainen, että kanavan sisäpuolinen 10 kPa:n ylipaine muuttuu enintään 10 prosenttia 5 minuutin aikana. Joustavien liitososien tulee kestää vaurioitumatta 10 kPa ulkopuolista ja 20 kPa sisäpuolista staattista ylipainetta sekä mielivaltaisessa suunnassa 20 mm:n suuruinen liike.",
+      "section_number": "48",
+      "chapter_number": 9,
+      "statute_id": "562/1999"
+    },
+    {
+      "id": "fd25e26f-1663-4644-a730-969a91d9be5f",
+      "node_type": "Section",
+      "publisher": "finlex",
+      "title": "49 § Ilmavirran mittari",
+      "text": "Ilmanvaihtolaitteeseen liittyvällä ilmavirran mittarilla tulee voida todeta ilmavirran suuruus ohituskäytössä 10 prosentin tarkkuudella. Erityissuodattimiin liittyvillä ilmavirran mittareilla tulee voida todeta ilmavirran suuruus suodatuskäytössä 10 prosentin tarkkuudella. Erityissuodattimissa on oltava erikseen mittauslaite, jolla voidaan mitata hiukkassuodatinosan virtausvastus",
+      "section_number": "49",
+      "chapter_number": 9,
+      "statute_id": "562/1999"
+    },
+    {
+      "id": "ab865032-b002-4134-92bd-a991bf77168e",
+      "node_type": "Section",
+      "publisher": "finlex",
+      "title": "50 § Säätö- ja sulkulaite",
+      "text": "Ilmanvaihtolaitteessa tulee olla tarpeelliset kaasutiiviit sulkulaitteet, joilla voidaan säätää raitisilmakanavasta tulevan ilman kulku erityissuodattimiin tai suoraan väestönsuojatilaan. Jokaista erityissuodatinta varten on oltava ilmavirran säätölaite. Laite on voitava lukita asetettuun säätöasentoon. Sulkulaitteen tiiviyden tulee olla sellainen, että vuotoilmavirta raitisilmakanavasta on 2 000 Pa:n sisäpuolisella alipaineella enintään 10 cm\n                                    3\n                                    /s. Sulkulaitteiden tiivisteiden tulee olla kloropreenikumia tai ominaisuuksiltaan sitä vastaavaa materiaalia.",
+      "section_number": "50",
+      "chapter_number": 9,
+      "statute_id": "562/1999"
+    },
+    {
+      "id": "9a8d222d-0fdc-41dc-878a-7437ff99d697",
+      "node_type": "Section",
+      "publisher": "finlex",
+      "title": "51 § Esisuodatin",
+      "text": "Esisuodattimen (ESIS-6) tulee täyttää liitteessä 4 esitetyt vaatimukset. Esisuodattimen tulee kestää ilman virtaussuunnassa tuleva liitteen 2 taulukossa 4 esitetty paineaaltokuorma. Esisuodattimen virtausvastus saa olla enintään 100 Pa.",
+      "section_number": "51",
+      "chapter_number": 9,
+      "statute_id": "562/1999"
+    },
+    {
+      "id": "5c8c5422-7ab5-4d8e-86fb-fa1ebc8296b7",
+      "node_type": "Section",
+      "publisher": "finlex",
+      "title": "52 § Voimaantulo",
+      "text": "Tämä asetus tulee voimaan 1 päivänä syyskuuta 2005. Syyskuun 1 päivänä 2006 tai tämän jälkeen rakennusluvan saaneissa väestönsuojissa käyttöönotettujen varusteiden ja laitteiden tulee olla tämän asetuksen mukaiset. Tätä asetusta voidaan soveltaa niihin varusteisiin ja laitteisiin, jotka otetaan käyttöön ennen 1 päivää syyskuuta 2006 rakennusluvan saaneissa väestönsuojissa. Ennen asetuksen voimaantuloa voidaan ryhtyä asetuksen täytäntöönpanon edellyttämiin toimenpiteisiin. Liitteet 1-5",
+      "section_number": "52",
+      "chapter_number": 9,
+      "statute_id": "562/1999"
+    }
+  ],
+  "clauses": [
+    {
+      "id": "cd624f1e-c66f-43c5-b316-348d1bdd20cb",
+      "node_type": "Clause",
+      "publisher": "finlex",
+      "title": "§ 1 mom 1",
+      "text": "1) ominaisuuksista, toiminnasta ja käyttötavasta; sekä",
+      "clause_number": 1,
+      "section_number": "1",
+      "statute_id": "562/1999"
+    },
+    {
+      "id": "29f6c96d-06ca-4359-a1d1-f885f59f8a5a",
+      "node_type": "Clause",
+      "publisher": "finlex",
+      "title": "§ 1 mom 2",
+      "text": "2) tuotteista annettavista tiedoista, käyttö-, huolto- ja asennusohjeista sekä niihin tehtävistä merkinnöistä..",
+      "clause_number": 2,
+      "section_number": "1",
+      "statute_id": "562/1999"
+    },
+    {
+      "id": "230f57f1-ca02-4469-9355-a90cc542713f",
+      "node_type": "Clause",
+      "publisher": "finlex",
+      "title": "§ 2 mom 1",
+      "text": "1) tunnuskirjaimet VSS;",
+      "clause_number": 1,
+      "section_number": "2",
+      "statute_id": "562/1999"
+    },
+    {
+      "id": "b6b73813-2644-470e-a25c-bdaf4634caa9",
+      "node_type": "Clause",
+      "publisher": "finlex",
+      "title": "§ 2 mom 2",
+      "text": "2) laitteen tai varusteen nimike;",
+      "clause_number": 2,
+      "section_number": "2",
+      "statute_id": "562/1999"
+    },
+    {
+      "id": "bf9d9305-7b8f-4527-86cb-32492a6bbc1f",
+      "node_type": "Clause",
+      "publisher": "finlex",
+      "title": "§ 2 mom 3",
+      "text": "3) valmistajan nimi ja valmistusvuosi, sekä",
+      "clause_number": 3,
+      "section_number": "2",
+      "statute_id": "562/1999"
+    },
+    {
+      "id": "4f0e8665-0864-4795-a210-5cba65fa0033",
+      "node_type": "Clause",
+      "publisher": "finlex",
+      "title": "§ 2 mom 4",
+      "text": "4) valmistajan sarjanumero.",
+      "clause_number": 4,
+      "section_number": "2",
+      "statute_id": "562/1999"
+    },
+    {
+      "id": "bdd0ff4b-471b-4cd6-9bd1-62ab5040fb07",
+      "node_type": "Clause",
+      "publisher": "finlex",
+      "title": "§ 27 mom 1",
+      "text": "1) valmiusasento, jossa sulkuteltta ei saa haitata suojaan tuloa;",
+      "clause_number": 1,
+      "section_number": "27",
+      "statute_id": "562/1999"
+    },
+    {
+      "id": "17629264-2ad0-4556-ab9f-c3b3ebcc754b",
+      "node_type": "Clause",
+      "publisher": "finlex",
+      "title": "§ 27 mom 2",
+      "text": "2) suodatus- ja sulkukäyttöasento, johon sulkuteltta on voitava muuttaa 2 minuutissa valmiusasennosta. Suodatus- ja sulkukäyttöasennossa sulkuteltan sisälle tulee samanaikaisesti mahtua kolme henkilöä. Sulkuteltan alaosan tulee olla tiivis siten, ettei avoimen suojaoven, kynnyksen korkeudelta sisään 1 m/s virtaava ulkoilma pääse tunkeutumaan suojatilaan; sekä",
+      "clause_number": 2,
+      "section_number": "27",
+      "statute_id": "562/1999"
+    },
+    {
+      "id": "978eed8d-f3a1-4f14-a402-aabef1342a6c",
+      "node_type": "Clause",
+      "publisher": "finlex",
+      "title": "§ 27 mom 3",
+      "text": "3) ohituskäyttöasento, jossa sulkuteltta ei saa aiheuttaa havaittavaa ilman virtausvastustusta.",
+      "clause_number": 3,
+      "section_number": "27",
+      "statute_id": "562/1999"
+    },
+    {
+      "id": "bf2f5f02-f6aa-4afa-96f8-b1a800c83a01",
+      "node_type": "Clause",
+      "publisher": "finlex",
+      "title": "§ 32 mom 1",
+      "text": "1) siirtymänopeus 1,5 m/s;",
+      "clause_number": 1,
+      "section_number": "32",
+      "statute_id": "562/1999"
+    },
+    {
+      "id": "cf425c04-bee1-4601-a566-8834103a9352",
+      "node_type": "Clause",
+      "publisher": "finlex",
+      "title": "§ 32 mom 2",
+      "text": "2) siirtymä 25 mm; sekä",
+      "clause_number": 2,
+      "section_number": "32",
+      "statute_id": "562/1999"
+    },
+    {
+      "id": "e920f683-2e55-4527-afcc-7a24ead00154",
+      "node_type": "Clause",
+      "publisher": "finlex",
+      "title": "§ 32 mom 3",
+      "text": "3) \n                                        kiihtyvyys 300 m/s\n                                        2\n                                        .",
+      "clause_number": 3,
+      "section_number": "32",
+      "statute_id": "562/1999"
+    },
+    {
+      "id": "932a9634-4beb-4d3e-bf3d-375161df22d4",
+      "node_type": "Clause",
+      "publisher": "finlex",
+      "title": "§ 33 mom 1",
+      "text": "1) sariini 0,1;",
+      "clause_number": 1,
+      "section_number": "33",
+      "statute_id": "562/1999"
+    },
+    {
+      "id": "cf121c03-58cd-45c0-83ba-cf2baf302894",
+      "node_type": "Clause",
+      "publisher": "finlex",
+      "title": "§ 33 mom 2",
+      "text": "2) somaani 0,1;",
+      "clause_number": 2,
+      "section_number": "33",
+      "statute_id": "562/1999"
+    },
+    {
+      "id": "6cce8e09-3933-4dd1-bddf-7682e231b233",
+      "node_type": "Clause",
+      "publisher": "finlex",
+      "title": "§ 33 mom 3",
+      "text": "3) VX 0,04;",
+      "clause_number": 3,
+      "section_number": "33",
+      "statute_id": "562/1999"
+    },
+    {
+      "id": "c8ee5882-d3e0-4dd4-8920-ce187a8ee744",
+      "node_type": "Clause",
+      "publisher": "finlex",
+      "title": "§ 33 mom 4",
+      "text": "4) sinappikaasu 2; sekä",
+      "clause_number": 4,
+      "section_number": "33",
+      "statute_id": "562/1999"
+    },
+    {
+      "id": "1a16f9c6-5307-449b-a077-01d0cbd6f391",
+      "node_type": "Clause",
+      "publisher": "finlex",
+      "title": "§ 33 mom 5",
+      "text": "5) syaanivety 20.",
+      "clause_number": 5,
+      "section_number": "33",
+      "statute_id": "562/1999"
+    }
+  ],
+  "cross_references": [],
+  "raw_html_path": "C:\\Users\\danit\\finance-hack\\aalto-hackaton-2026\\data\\raw\\finlex\\Asetus (säädöskokoelma)\\Sisäasiainministeriön asetus väestönsuojan laitteista ja varusteista.html"
+}

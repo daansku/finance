@@ -9,6 +9,7 @@ __pycache__/
 data/raw/
 data/processed/
 data/graph/
+data/chroma/
 
 # Local artifacts (vector indexes, dbs, run outputs)
 *.faiss
@@ -16,3 +17,7 @@ data/graph/
 *.duckdb
 *.sqlite
 runs/
+*.pyc
+.pytest_cache/
+__pycache__/
+src/taxxa.egg-info/

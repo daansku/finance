@@ -1,0 +1,198 @@
+{
+  "statute": {
+    "id": "477e279c-3a86-46ee-964d-b327cba06fc2",
+    "node_type": "Statute",
+    "publisher": "finlex",
+    "title": "Laki kyberturvallisuuslain muuttamisesta",
+    "text": "Laki kyberturvallisuuslain muuttamisesta",
+    "statute_id": "124/2025",
+    "finlex_url": "https://finlex.fi/fi/laki/ajantasa/124/2025"
+  },
+  "chapters": [],
+  "sections": [
+    {
+      "id": "93e31f3e-7336-46be-8b9b-5691e72a8ed8",
+      "node_type": "Section",
+      "publisher": "finlex",
+      "title": "3 § Toimijat",
+      "text": "Tätä lakia sovelletaan myös toimijaan, joka koostaan riippumatta on:",
+      "section_number": "3",
+      "chapter_number": 1,
+      "statute_id": "124/2025"
+    },
+    {
+      "id": "f899967f-2eb8-49ab-be2b-b6c4a7b263c9",
+      "node_type": "Section",
+      "publisher": "finlex",
+      "title": "4 § Soveltamisalan rajaukset",
+      "text": "Tätä lakia sovelletaan kuntalaissa (410/2015) tarkoitettuun kuntaan vain liitteessä I tai II tarkoitetun toiminnan osalta sekä siltä osin, kun kunta on kriittinen toimija.",
+      "section_number": "4",
+      "chapter_number": 1,
+      "statute_id": "124/2025"
+    },
+    {
+      "id": "cca8d84e-c82e-47f2-8006-43e1ea3a2f48",
+      "node_type": "Section",
+      "publisher": "finlex",
+      "title": "17 § Poikkeamailmoituksen käsittely",
+      "text": "Jos 11–13 tai 15 §:ssä tarkoitetun ilmoituksen tai raportin tekee kriittinen toimija, valvovan viranomaisen on toimitettava ilmoituksesta tai raportista tieto viranomaiselle, joka on yhteiskunnan kriittisen infrastruktuurin suojaamisesta ja häiriönsietokyvyn parantamisesta annetun lain 19 §:n nojalla toimivaltainen valvomaan kriittistä toimijaa.",
+      "section_number": "17",
+      "chapter_number": 1,
+      "statute_id": "124/2025"
+    },
+    {
+      "id": "127d32cd-d36e-4511-90ad-ed0ae0eeb0d8",
+      "node_type": "Section",
+      "publisher": "finlex",
+      "title": "26 § Valvovat viranomaiset",
+      "text": "Jos kriittinen toimija ei harjoita liitteessä I tai II tarkoitettua toimintaa, valvova viranomainen määräytyy yhteiskunnan kriittisen infrastruktuurin suojaamisesta ja häiriönsietokyvyn parantamisesta annetun lain 19 §:n nojalla.",
+      "section_number": "26",
+      "chapter_number": 1,
+      "statute_id": "124/2025"
+    },
+    {
+      "id": "12a80797-48ce-42f6-974c-36114b58e2f1",
+      "node_type": "Section",
+      "publisher": "finlex",
+      "title": "27 § Valvonnan kohdistaminen",
+      "text": "Keskeisellä toimijalla tarkoitetaan:",
+      "section_number": "27",
+      "chapter_number": 1,
+      "statute_id": "124/2025"
+    },
+    {
+      "id": "3192c9e0-b77e-4602-97d6-6487b241be4f",
+      "node_type": "Section",
+      "publisher": "finlex",
+      "title": "28 § Tiedonsaantioikeus",
+      "text": "Valvovalla viranomaisella on salassapitosäännösten, 2 momentissa säädetyn salassapitovelvollisuuden ja muiden tietojen luovuttamista koskevien rajoitusten estämättä oikeus luovuttaa tässä laissa säädettyjen tehtäviensä hoitamisen yhteydessä saamansa tai laatimansa asiakirja sekä ilmaista salassa pidettävä tieto toiselle valvovalle viranomaiselle, CSIRT-yksikölle ja yhteiskunnan kriittisen infrastruktuurin suojaamisesta ja häiriönsietokyvyn parantamisesta annetun lain 19 §:ssä tarkoitetulle valvovalle viranomaiselle, jos se on välttämätöntä tässä laissa tai yhteiskunnan kriittisen infrastruktuurin suojaamisesta annetussa laissa viranomaiselle säädettyä tehtävää varten. Tiedonsaantioikeuden käyttämisellä tai tietojen luovuttamisella ei saa rajoittaa luottamuksellisen viestin ja yksityisyyden suojaa enempää kuin on välttämätöntä.",
+      "section_number": "28",
+      "chapter_number": 1,
+      "statute_id": "124/2025"
+    },
+    {
+      "id": "8390faef-a45a-4afa-90cc-204b48cd1599",
+      "node_type": "Section",
+      "publisher": "finlex",
+      "title": "45 § Viranomaisten yhteistyö",
+      "text": "Valvovien viranomaisten, CSIRT-yksikön ja keskitetyn yhteyspisteen on toimittava tarvittaessa yhteistyössä poliisin tai muun esitutkintaviranomaisen, tietosuojavaltuutetun, Finanssivalvonnan ja yhteiskunnan kriittisen infrastruktuurin suojaamisesta ja häiriönsietokyvyn parantamisesta annetun lain 19 §:ssä tarkoitetun valvovan viranomaisen kanssa sekä Liikenne- ja viestintäviraston sille ilmailulaissa (864/2014), sähköisen viestinnän palveluista annetussa laissa ja eIDAS-asetuksessa säädettyjen tehtävien osalta. Valvovien viranomaisten ja yhteiskunnan kriittisen infrastruktuurin suojaamisesta ja häiriönsietokyvyn parantamisesta annetun lain 19 §:ssä tarkoitettujen valvovien viranomaisten on vaihdettava keskenään säännöllisesti tietoja kriittisten toimijoiden määrittämisestä sekä riskeistä, kyberuhkista ja poikkeamista ja muista kuin kyberturvallisuuteen liittyvistä riskeistä, uhkista ja poikkeamista, jotka vaikuttavat kriittisiksi toimijoiksi määritettyihin toimijoihin, sekä näiden riskien, uhkien ja poikkeamien hallintatoimenpiteistä. Valvovan viranomaisen on ilmoitettava yhteiskunnan kriittisen infrastruktuurin suojaamisesta ja häiriönsietokyvyn parantamisesta annetun lain 19 §:n nojalla toimivaltaiselle valvovalle viranomaiselle, kun kriittiseen toimijaan kohdistetaan tämän lain 4 luvussa säädettyjä toimivaltuuksia. Valvova viranomainen voi kohdistaa kriittiseen toimijaan valvontaa yhteiskunnan kriittisen infrastruktuurin suojaamisesta ja häiriönsietokyvyn parantamisesta\nannetun lain 19 §:n nojalla toimivaltaisen valvovan viranomaisen pyynnöstä. Tämä laki tulee voimaan 1 päivänä heinäkuuta 2025. Tätä lakia ja tällä lailla muutettavan lain 10–18 ja 41 §:ää sovelletaan kriittiseen toimijaan kolmen kuukauden kuluttua siitä, kun tämä on saanut tiedon päätöksestä, jolla tämä on määritetty kriittiseksi toimijaksi. Tällä lailla muutettavan lain 7–9 §:ää sovelletaan kriittiseen toimijaan kuitenkin vasta yhdeksän kuukauden kuluttua siitä, kun tämä on saanut tiedon päätöksestä, jolla tämä on määritetty kriittiseksi toimijaksi.",
+      "section_number": "45",
+      "chapter_number": 1,
+      "statute_id": "124/2025"
+    }
+  ],
+  "clauses": [
+    {
+      "id": "f8ca03e5-19ca-42e9-bbea-5da53b6c459e",
+      "node_type": "Clause",
+      "publisher": "finlex",
+      "title": "§ 3 mom 1",
+      "text": "1) yleisten sähköisten viestintäverkkojen tai yleisesti saatavilla olevien sähköisten viestintäpalvelujen tarjoaja;",
+      "clause_number": 1,
+      "section_number": "3",
+      "statute_id": "124/2025"
+    },
+    {
+      "id": "13a320b3-7d85-4095-b00b-fb0aff467742",
+      "node_type": "Clause",
+      "publisher": "finlex",
+      "title": "§ 3 mom 2",
+      "text": "2) luottamuspalvelun tarjoaja;",
+      "clause_number": 2,
+      "section_number": "3",
+      "statute_id": "124/2025"
+    },
+    {
+      "id": "27dbde25-4518-42fc-86e4-c8c082c279df",
+      "node_type": "Clause",
+      "publisher": "finlex",
+      "title": "§ 3 mom 3",
+      "text": "3) aluetunnusrekisterin ylläpitäjä;",
+      "clause_number": 3,
+      "section_number": "3",
+      "statute_id": "124/2025"
+    },
+    {
+      "id": "cfdafc4b-5008-4227-b6b7-283613ac2c88",
+      "node_type": "Clause",
+      "publisher": "finlex",
+      "title": "§ 3 mom 4",
+      "text": "4) DNS-palveluntarjoaja; tai",
+      "clause_number": 4,
+      "section_number": "3",
+      "statute_id": "124/2025"
+    },
+    {
+      "id": "ad028ea9-46dc-437d-a7de-02574de4030e",
+      "node_type": "Clause",
+      "publisher": "finlex",
+      "title": "§ 3 mom 5",
+      "text": "5) \n                                    yhteiskunnan kriittisen infrastruktuurin suojaamisesta ja häiriönsietokyvyn parantamisesta annetun lain (310/2025) nojalla määritetty kriittinen toimija muulla kuin julkishallinnon toimialalla (kriittinen toimija).",
+      "clause_number": 5,
+      "section_number": "3",
+      "statute_id": "124/2025"
+    },
+    {
+      "id": "e4086fd0-59a5-48bc-93e4-f4989100d03d",
+      "node_type": "Clause",
+      "publisher": "finlex",
+      "title": "§ 27 mom 1",
+      "text": "1) liitteessä I tarkoitettua toimijaa, joka ylittää mikroyritysten sekä pienten ja keskisuurten yritysten määritelmästä annetun komission suosituksen 2003/361/EY liitteen 2 artiklan mukaiset keskisuuria yrityksiä koskevat edellytykset;",
+      "clause_number": 1,
+      "section_number": "27",
+      "statute_id": "124/2025"
+    },
+    {
+      "id": "4607a99f-2618-46fb-b94c-f0024b6e6258",
+      "node_type": "Clause",
+      "publisher": "finlex",
+      "title": "§ 27 mom 2",
+      "text": "2) hyväksyttyjä luottamuspalvelun tarjoajia, aluetunnusrekisterin ylläpitäjiä sekä DNS-palveluntarjoajia;",
+      "clause_number": 2,
+      "section_number": "27",
+      "statute_id": "124/2025"
+    },
+    {
+      "id": "538156c3-6936-4082-94ca-47143d0b1136",
+      "node_type": "Clause",
+      "publisher": "finlex",
+      "title": "§ 27 mom 3",
+      "text": "3) yleisten sähköisten viestintäverkkojen tai yleisesti saatavilla olevien sähköisten viestintäpalvelujen tarjoajia, jotka täyttävät tai ylittävät mikroyritysten sekä pienten ja keskisuurten yritysten määritelmästä annetun komission suosituksen 2003/361/EY liitteen 2 artiklan mukaiset keskisuuria yrityksiä koskevat edellytykset;",
+      "clause_number": 3,
+      "section_number": "27",
+      "statute_id": "124/2025"
+    },
+    {
+      "id": "22c0431b-2762-4a0a-9682-64e099695be9",
+      "node_type": "Clause",
+      "publisher": "finlex",
+      "title": "§ 27 mom 3",
+      "text": "4) 3 §:n 3 momentissa tarkoitettua toimijaa; sekä",
+      "clause_number": 3,
+      "section_number": "27",
+      "statute_id": "124/2025"
+    },
+    {
+      "id": "9e208dbc-27e1-4066-95df-d1221c56d73d",
+      "node_type": "Clause",
+      "publisher": "finlex",
+      "title": "§ 27 mom 4",
+      "text": "4) 3 §:n 3 momentissa tarkoitettua toimijaa; sekä",
+      "clause_number": 4,
+      "section_number": "27",
+      "statute_id": "124/2025"
+    },
+    {
+      "id": "500e5c66-81c0-435c-9577-5cf7278abf00",
+      "node_type": "Clause",
+      "publisher": "finlex",
+      "title": "§ 27 mom 5",
+      "text": "5) kriittistä toimijaa.",
+      "clause_number": 5,
+      "section_number": "27",
+      "statute_id": "124/2025"
+    }
+  ],
+  "cross_references": [],
+  "raw_html_path": "C:\\Users\\danit\\finance-hack\\aalto-hackaton-2026\\data\\raw\\finlex\\Laki\\Laki kyberturvallisuuslain muuttamisesta.html"
+}

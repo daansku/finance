@@ -1,0 +1,763 @@
+{
+  "statute": {
+    "id": "c2c4721d-450c-431b-b9fc-c3d78b350546",
+    "node_type": "Statute",
+    "publisher": "finlex",
+    "title": "Laki pankki- ja maksutilien valvontajärjestelmästä annetun lain muuttamisesta",
+    "text": "Laki pankki- ja maksutilien valvontajärjestelmästä annetun lain muuttamisesta",
+    "statute_id": "571/2019",
+    "finlex_url": "https://finlex.fi/fi/laki/ajantasa/571/2019"
+  },
+  "chapters": [
+    {
+      "id": "c136657a-9f51-4558-8637-5fc7c11d738b",
+      "node_type": "Chapter",
+      "publisher": "finlex",
+      "title": "Chapter 1",
+      "text": "1 luku Yleiset säännökset",
+      "chapter_number": 1,
+      "statute_id": "571/2019"
+    },
+    {
+      "id": "89926569-aa4a-4720-845f-dcee477b029f",
+      "node_type": "Chapter",
+      "publisher": "finlex",
+      "title": "Chapter 2",
+      "text": "2 luku Keskitetty automatisoitu tilitietojärjestelmä",
+      "chapter_number": 2,
+      "statute_id": "571/2019"
+    },
+    {
+      "id": "059de615-bfbe-4060-b61f-f45bf7aa9d41",
+      "node_type": "Chapter",
+      "publisher": "finlex",
+      "title": "Chapter 3",
+      "text": "3 luku Keskitetty sähköinen saldo- ja tilitapahtumajärjestelmä",
+      "chapter_number": 3,
+      "statute_id": "571/2019"
+    },
+    {
+      "id": "8e73a779-2900-408b-83e3-248de977566a",
+      "node_type": "Chapter",
+      "publisher": "finlex",
+      "title": "Chapter 4",
+      "text": "4 luku Voimaantulo",
+      "chapter_number": 4,
+      "statute_id": "571/2019"
+    }
+  ],
+  "sections": [
+    {
+      "id": "c01dd884-bcdc-4294-9261-d4526a4f7299",
+      "node_type": "Section",
+      "publisher": "finlex",
+      "title": "1 § Pankki- ja maksutilien valvontajärjestelmä ja lain tarkoitus",
+      "text": "Tässä laissa säädetään pankki- ja maksutilien valvontajärjestelmästä, joka muodostuu keskitetystä automatisoidusta tilitietojärjestelmästä sekä keskitetystä sähköisestä saldo- ja tilitapahtumajärjestelmästä. Pankki- ja maksutilien valvontajärjestelmän tarkoituksena on: Pankki- ja maksutilien valvontajärjestelmän henkilötietoja käsitellään pankki- ja maksutilien tiedonhakujärjestelmän, pankki- ja maksutilirekisterin, tiedonluovutusjärjestelmän sekä koostavan sovelluksen avulla. Tätä lakia sovelletaan pankki- ja maksutilitietojen, tallelokerotietojen, saldo- ja tilitapahtumatietojen- sekä arvopaperitietojen saamiseen ja välittämiseen maksulaitoksilta, sähkörahayhteisöiltä, luottolaitoksilta ja kryptovarapalvelun tarjoajilta toimivaltaisille viranomaisille pankki- ja maksutilien valvontajärjestelmän avulla. Mitä tässä laissa säädetään maksulaitoksesta, sähkörahayhteisöstä, luottolaitoksesta ja kryptovarapalvelun tarjoajasta, sovelletaan myös ulkomaisten maksulaitosten, sähkörahayhteisöjen, luottolaitosten ja kryptovarapalvelun tarjoajien Suomessa sijaitseviin sivuliikkeisiin. Pankki- ja maksutilien valvontajärjestelmässä käsiteltävät tiedot ovat salassa pidettäviä. Pankki- ja maksutilirekisteriin sovelletaan muutoin, mitä viranomaisten toiminnan julkisuudesta annetussa laissa (621/1999) säädetään, kuitenkin siten, että tietoja voidaan pankki- ja maksutilirekisteristä luovuttaa ainoastaan tässä laissa säädettyihin käyttötarkoituksiin sekä viranomaisten toiminnan julkisuudesta annetun lain 11 ja 12 §:ssä, 26 §:n 3 momentissa ja 29 §:n 1 momentin 3 kohdassa säädettyihin käyttötarkoituksiin. Toimivaltaisen viranomaisen tietopyyntöjä ei tule 1 a §:ssä tarkoitetuissa toimijoissa käsitellä muussa tarkoituksessa, kuin pyynnön käsittelemiseksi ja tietojen luovuttamiseksi pyynnön mukaisena. Edellä 1 a §:ssä tarkoitetusta toimijasta saatuja tietoja ei saa käsitellä muuta kuin sitä tarkoitusta varten, jota varten tiedot on luovutettu. Tulli ylläpitää koostavaa sovellusta, jonka avulla se siirtää koneellisesti toimivaltaisten viranomaisten tietopyynnöt 2 ja 3 luvussa säädettyihin käsittelytarkoituksiin 1 a §:ssä tarkoitetuille toimijoille sekä luovuttaa välittämällä näistä vastaanotetut tiedot tietopyynnön mukaisesti toimivaltaiselle viranomaiselle. Tulli on koostavalla sovelluksella käsiteltävien henkilötietojen rekisterinpitäjä. Koostavalla sovelluksella tapahtuva henkilötietojen käsittely on automaattista. Koostavan sovelluksen kautta luovutetut tiedot on poistettava sovelluksesta välittömästi sen jälkeen, kun tiedot on luovutettu eteenpäin. Ellei toimivaltainen viranomainen ole tiedonhakujärjestelmäänsä hyödyntäen hakenut pyytämiään tietoja koostavasta sovelluksesta Tullin asettamassa määräajassa, tiedot poistuvat sovelluksesta automaattisesti. Poiketen siitä, mitä luonnollisten henkilöiden suojelusta henkilötietojen käsittelyssä sekä näiden tietojen vapaasta liikkuvuudesta ja direktiivin 95/46/EY kumoamisesta (yleinen tietosuoja-asetus) annetun Euroopan parlamentin ja neuvoston asetuksen (EU) 2016/679, jäljempänäyleinen tietosuoja-asetus, 15 artiklassa säädetään rekisteröidyn oikeudesta pääsystä tietoihin, pääsyä tietoihin ei ole, kun tietoja käsitellään koostavalla sovelluksella. Tiedot on annettava tietosuojavaltuutetulle rekisteröidyn pyynnöstä noudattaen, mitä tietosuojalain (1050/2018) 34 §:ssä säädetään. Välillisen tarkastusoikeuden käyttöä koskeva pyyntö on esitettävä tietosuojavaltuutetulle taikka Tullille noudattaen henkilötietojen käsittelystä Tullissa annetun lain (650/2019) 35 §:n 2 momenttia. Tullille esitetty pyyntö on toimitettava viipymättä tietosuojavaltuutetulle. Luottolaitoksen on ylläpidettävä sähköistä pankki- ja maksutilien tiedonhakujärjestelmää, jonka avulla se luovuttaa salassapitosäännösten estämättä 2 ja 3 luvussa tarkoitettuja tietoja asiakkaistaan ja näiden saldo- ja tilitapahtumatiedoista toimivaltaiselle viranomaiselle. Jos se on luottolaitoksen koko sekä toiminnan luonne ja laajuus huomioon ottaen perusteltua, luottolaitos saa poiketa tiedonhakujärjestelmän ylläpitovelvoitteesta, jos Finanssivalvonta myöntää siihen luvan. Maksulaitokset, sähkörahayhteisöt ja kryptovarapalvelujen tarjoajat voivat ylläpitää 1 momentissa tarkoitettua pankki- ja maksutilien tiedonhakujärjestelmää, jolloin niiden tulee luovuttaa tiedonhakujärjestelmän avulla 2 ja 3 luvussa tarkoitetut tiedot toimivaltaiselle viranomaiselle. Poiketen siitä, mitä yleisen tietosuoja-asetuksen 15 artiklassa säädetään rekisteröidyn oikeudesta pääsystä tietoihin, pääsyä tietoihin ei ole, kun tietoja käsitellään sähköisellä pankki- ja maksutilien tiedonhakujärjestelmällä. Tiedot on annettava tietosuojavaltuutetulle rekisteröidyn pyynnöstä noudattaen, mitä tietosuojalain 34 §:ssä säädetään. Toimivaltaisen viranomaisen on ylläpidettävä sähköistä viranomaisen tiedonhakujärjestelmää, jonka avulla se voi pyytää ja vastaanottaa 1 a §:ssä tarkoitetuilta toimijoilta salassapitosäännösten estämättä 2 ja 3 luvussa tarkoitettuja tietoja niiden asiakkaista ja näiden saldo- ja tilitapahtumista sekä arvopaperitiedoista. Tietopyynnössä on määriteltävä, kohdentuuko pyyntö 2 vai 3 luvussa tarkoitettuihin tietoihin. Tulli valvoo 1 ja 2 momentissa, 4 §:n 2 momentissa ja 6 §:n 1 momentissa tarkoitettujen velvoitteiden noudattamista sekä antaa määräyksen tässä pykälässä tarkoitettujen tiedonhakujärjestelmien teknisistä vaatimuksista. Tulli ylläpitää tiedonluovutusjärjestelmää, jonka avulla 1 a §:ssä tarkoitetut toimijat, jotka eivät ole rakentaneet pankki- ja maksutilien tiedonhakujärjestelmää, luovuttavat 3 luvussa tarkoitetut tiedot toimivaltaisille viranomaisille. Tulli antaa teknisiä määräyksiä siitä, millä tavoin tiedot tulee toimittaa tiedonluovutusjärjestelmään. Tullilla on oikeus saada pankki- ja maksutilirekisteriin tallennettavat tiedot ja pankki- ja maksutilien tiedonhakujärjestelmistä luovutettavat tiedot maksutta. Toimivaltaisilla viranomaisilla on oikeus saada tässä laissa tarkoitetut tiedot pankki- ja maksutilien valvontajärjestelmästä maksutta.",
+      "section_number": "1",
+      "chapter_number": 1,
+      "statute_id": "571/2019"
+    },
+    {
+      "id": "865f8cc3-67fa-4864-a58f-38c6a566495e",
+      "node_type": "Section",
+      "publisher": "finlex",
+      "title": "2 § Määritelmät",
+      "text": "Tässä laissa tarkoitetaan:",
+      "section_number": "2",
+      "chapter_number": 1,
+      "statute_id": "571/2019"
+    },
+    {
+      "id": "ca54126f-f46e-48ab-b8f4-35400bd80ed4",
+      "node_type": "Section",
+      "publisher": "finlex",
+      "title": "3 § Keskitettyä automatisoitua tilitietojärjestelmää käyttävät viranomaiset",
+      "text": "Seuraavilla toimivaltaisilla viranomaisilla on oikeus päästä pankki- ja maksutilien valvontajärjestelmään 4 §:n mukaisesti luovutettaviin ja 6 §:n mukaisesti tallennettuihin tietoihin, jos se on välttämätöntä seuraavien tehtävien suorittamiseksi ja viranomaisella on muualla laissa säädetty oikeus saada edellä mainitut tiedot:",
+      "section_number": "3",
+      "chapter_number": 2,
+      "statute_id": "571/2019"
+    },
+    {
+      "id": "67338815-9a41-476c-85c8-376561840110",
+      "node_type": "Section",
+      "publisher": "finlex",
+      "title": "4 § Pankki- ja maksutilien tiedonhakujärjestelmästä luovutettavat pankki- ja maksutilitiedot",
+      "text": "Luottolaitoksen on luovutettava pankki- ja maksutilien tiedonhakujärjestelmän avulla välittömästi ja salassapitosäännösten estämättä 2 momentissa tarkoitettuja tietoja asiakkaistaan toimivaltaiselle viranomaiselle. Tiedonhakujärjestelmän kautta on luovutettava toimivaltaiselle viranomaiselle seuraavat tiedot, jos toimivaltainen viranomainen on ne salassapitosäännösten ja muiden tiedon saantia koskevien rajoitusten estämättä oikeutettu muun lain nojalla saamaan: Toimivaltaisen viranomaisen on yksilöitävä säännös, jonka nojalla se pyytää tietoa. Luottolaitokset vastaavat luovutettavien tietojen oikeellisuudesta sekä tietojen oikaisemisesta ilman aiheetonta viivytystä. Asianajajan asiakasvaratilien yhteyteen on merkittävä nimenomainen tieto siitä, että pankki- tai maksutili on asianajajan asiakasvarojen tili, jota koskee asianajajan salassapitovelvollisuus. Tietoja asiakasvaratileistä ei saa luovuttaa tiedonhakujärjestelmän kautta, vaan ainoastaan tiedon siitä, että kyseessä on asianajajan asiakasvaratili sekä minkä asianajajan asiakasvaratili on kyseessä.",
+      "section_number": "4",
+      "chapter_number": 2,
+      "statute_id": "571/2019"
+    },
+    {
+      "id": "5cdef076-8ec7-41ba-a06b-31ca4cb9dac6",
+      "node_type": "Section",
+      "publisher": "finlex",
+      "title": "6 § Pankki- ja maksutilirekisteriin tallennettavat tiedot",
+      "text": "Maksulaitosten, sähkörahayhteisöjen ja kryptovarapalvelujen tarjoajien on salassapitosäännösten ja muiden tiedonsaantia koskevien rajoitusten estämättä annettava Tullille 2 momentissa tarkoitetut tiedot. Maksulaitokset, sähkörahayhteisöt ja kryptovarapalvelujen tarjoajat voivat ylläpitää 1 d §:ssä tarkoitettua pankki- ja maksutilien tiedonhakujärjestelmää, jolloin tiedonhakujärjestelmän kautta on luovutettava tämän pykälän 2 momentissa tarkoitetut tiedot. Pankki- ja maksutilirekisteriin tallennetaan seuraavat tiedot maksulaitoksen, sähkörahayhteisön ja kryptovarapalvelujen tarjoajan rahanpesun ja terrorismin rahoittamisen estämisestä annetun lain 3 luvun 2 §:ssä tunnistettavaksi säädetystä asiakkaasta: Jos luottolaitos on saanut Finanssivalvonnalta 1 d §:n 1 momentissa tarkoitetun luvan poiketa tiedonhakujärjestelmän ylläpitovelvoitteesta, pankki- ja maksutilirekisteriin tallennetaan seuraavat tiedot:",
+      "section_number": "6",
+      "chapter_number": 2,
+      "statute_id": "571/2019"
+    },
+    {
+      "id": "d3300fdb-ccdb-4e2e-a333-ebaa1b762335",
+      "node_type": "Section",
+      "publisher": "finlex",
+      "title": "7 § Tietojen antaminen pankki- ja maksutilirekisteristä",
+      "text": "Tiedot voidaan luovuttaa sen estämättä, mitä yleisen tietosuoja-asetuksen 18 artiklan 1 kohdan a alakohdassa säädetään rekisteröidyn oikeudesta siihen, että rekisterinpitäjä rajoittaa henkilötietojen käsittelyä.",
+      "section_number": "7",
+      "chapter_number": 2,
+      "statute_id": "571/2019"
+    },
+    {
+      "id": "eeb258d5-e530-449f-a0b3-aacf38ddb5f0",
+      "node_type": "Section",
+      "publisher": "finlex",
+      "title": "8 § Keskitettyä automatisoitua tilitietojärjestelmää koskevien tietojen luovuttaminen toimivaltaisille viranomaisille",
+      "text": "Tulli välittää 3 §:ssä tarkoitettujen toimivaltaisten viranomaisten 4 ja 6 §:ssä säädettyjä tietoja koskevat tietopyynnöt, joiden osalta on yksilöity 3 §:ssä tarkoitettu käyttötarkoitus, pseudonymisoituna luottolaitokselle sekä siirtää luottolaitokselta vastaanotetut tiedot tietopyynnön mukaisesti toimivaltaiselle viranomaiselle koostavalla sovelluksella.",
+      "section_number": "8",
+      "chapter_number": 2,
+      "statute_id": "571/2019"
+    },
+    {
+      "id": "24a52e69-10f6-440b-9ffb-0213e340b609",
+      "node_type": "Section",
+      "publisher": "finlex",
+      "title": "9 § Tietojen poistaminen pankki- ja maksutilirekisteristä",
+      "text": "9 § Tietojen poistaminen pankki- ja maksutilirekisteristä",
+      "section_number": "9",
+      "chapter_number": 2,
+      "statute_id": "571/2019"
+    },
+    {
+      "id": "eb546917-2971-4cb6-abd4-6662ac142046",
+      "node_type": "Section",
+      "publisher": "finlex",
+      "title": "10 § Lokitiedot",
+      "text": "Tullin on ylläpidettävä lokirekisteriä pankki- ja maksutilirekisterin sekä koostavan sovelluksen kautta tapahtuvan keskitetyn automatisoidun tilitietojärjestelmän käyttökerroista ja luovutettava lokitiedot 3 §:ssä tarkoitetuille toimivaltaisille viranomaisille pyynnöstä. Lokirekisterin on sisällettävä vähintään seuraavat tiedot: Lisäksi kunkin toimivaltaisen viranomaisen on pidettävä lokirekisteriä, josta käy ilmi 1 momentissa tarkoitettujen tietojen lisäksi keskitetystä automatisoidusta tilitietojärjestelmästä tiedustelun tai haun suorittaneen henkilön ja sen määränneen henkilön tunnistetiedot ja jos mahdollista, tiedustelun tai haun tulosten vastaanottajan tunnistetiedot. Toimivaltaisen viranomaisen on nimettävä henkilö, joka valvoo keskitetyn automatisoidun tilitietojärjestelmän käyttöä. Tulli rekisterinpitäjänä valvoo pankki- ja maksutilirekisterin käyttöä. Tietosuojavastaavan on tarkastettava tässä pykälässä tarkoitetut lokirekisterit säännöllisesti. Lokitiedot säilytetään ainoastaan henkilötietojen suojan ja tietoturvallisuuden sekä oikeusturvan varmistamiseksi, ja ne on suojattava epäasialliselta käytöltä. Lokitietoja säilytetään kuluva vuosi ja viisi seuraavaa vuotta, paitsi jos niitä tarvitaan kesken olevassa valvonta-asiassa.",
+      "section_number": "10",
+      "chapter_number": 2,
+      "statute_id": "571/2019"
+    },
+    {
+      "id": "d5ff0ae5-4879-413e-96ce-27936951a888",
+      "node_type": "Section",
+      "publisher": "finlex",
+      "title": "12 § Rikemaksu",
+      "text": "Tulli määrää rikemaksun sille, joka tahallaan tai huolimattomuudesta laiminlyö tai rikkoo velvollisuuden ylläpitää 1 d §:n 1 momentissa tarkoitettua pankki- ja maksutilien tiedonhakujärjestelmää tai velvollisuuden toimittaa Tullille 4 §:n 2 momentissa taikka 6 §:n 2 tai 3 momentissa tarkoitettuja tietoja. Seuraavilla toimivaltaisilla viranomaisilla on oikeus saada teknisen rajapinnan avulla keskitetystä sähköisestä saldo- ja tilitapahtumajärjestelmästä 17 b §:ssä tarkoitetut tiedot seuraaviin käyttötarkoituksiin, jos se on välttämätöntä viranomaisen tehtävien hoitamiseksi: Keskitetystä sähköisestä saldo- ja tilitapahtumajärjestelmästä on mahdollista pyytää seuraavat pankki- ja maksutilien saldoon liittyvät tiedot: Asianajajan asiakasvaratilejä koskevia saldotietoja ei saa luovuttaa keskitetyn sähköisen saldo- ja tilitapahtumajärjestelmän kautta. Seuraavilla toimivaltaisilla viranomaisilla on oikeus saada teknisen rajapinnan avulla keskitetystä sähköisestä saldo- ja tilitapahtumajärjestelmästä 17 d §:ssä tarkoitetut tiedot seuraaviin käyttötarkoituksiin, jos se on välttämätöntä viranomaisen tehtävien hoitamiseksi: Keskitetystä sähköisestä saldo- ja tilitapahtumajärjestelmästä on mahdollista pyytää seuraavat pankki- ja maksutilejä koskevat tilitapahtumatiedot: Lisäksi keskitetyn sähköisen saldo- ja tilitapahtumajärjestelmän kautta on mahdollista pyytää asiakkaan arvopaperitiedot. Asianajajan asiakasvaratilejä koskevia 1 ja 2 momentissa tarkoitettuja tietoja ei saa luovuttaa keskitetyn sähköisen saldo- ja tilitapahtumajärjestelmän kautta. Oikeus saada 17 b ja 17 d §:ssä tarkoitettuja tietoja ja mahdollisuus tehdä niitä koskevia tietopyyntöjä keskitetystä sähköisestä saldo- ja tilitapahtumajärjestelmästä on ainoastaan sellaisella 17 a ja 17 c §:ssä tarkoitetun toimivaltaisen viranomaisen henkilöstön jäsenellä, joka on nimetty ja valtuutettu suorittamaan näitä tehtäviä. Toimivaltaisen viranomaisen on sähköistä tiedonhakujärjestelmäänsä hyödyntäen yksilöitävä pyyntöä koskevan pankki- ja maksutilin IBAN-numero tai muu yksilöintitunnus, tiedon käyttötarkoitus ja asian viitetiedot sekä säännökset, joiden nojalla se pyytää tietoa keskitetystä sähköisestä saldo- ja tilitapahtumajärjestelmästä. Edellä 1 a §:ssä tarkoitettujen toimijoiden on luovutettava 17 b §:ssä ja 17 d §:n 1 momentissa tarkoitetut tiedot viipymättä, mutta viimeistään seuraavan pankkipäivän kuluessa salassapitosäännösten estämättä. Edellä 17 d §:n 1 momentissa tarkoitetut tiedot tulee luovuttaa pyydettäessä viiden edeltävän kalenterivuoden ajalta. Toimivaltaisen viranomaisen tulee tapauskohtaisesti arvioida miltä ajalta tiedot on tarpeen pyytää sekä poistaa tarpeettomat henkilötiedot ilman aiheetonta viivytystä. Edellä 1 a §:ssä tarkoitettu toimija voi perustellusta syystä luovuttaa 17 d §:n 2 momentissa tarkoitetut tiedot muuta sähköistä tietoturvallista tapaa käyttäen. Jokainen keskitettyyn sähköiseen saldo- ja tilitapahtumajärjestelmään kuuluvia tietoja käsittelevä taho on rekisterinpitäjä käsittelemänsä tiedon osalta. Toimivaltainen viranomainen vastaa tekemänsä saldo- ja tilitapahtumatietopyynnön välttämättömyydestä ja oikeasuhtaisuudesta. Toimivaltainen viranomainen vastaa myös tietopyynnössä antamiensa tietojen oikeellisuudesta sekä tietojen oikaisemisesta ilman aiheetonta viivytystä. Tulli välittää 1 a §:ssä tarkoitetuille toimijoille 17 a ja 17 c §:ssä tarkoitettujen toimivaltaisten viranomaisten 17 b ja 17 d §:ssä tarkoitetut tietopyynnöt, joiden osalta on yksilöity tietojen saamista koskevat säännökset, tiedon käyttötarkoitus, asian viitetiedot ja toimivaltaisen viranomaisen yhteystiedot, sekä siirtää näiltä vastaanotetut tiedot sellaisenaan toimivaltaiselle viranomaiselle koostavalla sovelluksella. Edellä 1 a §:ssä tarkoitetut toimijat vastaavat luovuttamiensa saldo- ja tilitapahtumatietojen oikeellisuudesta sekä tietojen oikaisemisesta ilman aiheetonta viivytystä. Toimivaltaisen viranomaisen tulee ilmoittaa Tullille havaitsemistaan virheellisistä vastaanottamistaan tiedoista. Tullin on ylläpidettävä lokirekisteriä koostavan sovelluksen kautta tapahtuvan keskitetyn sähköisen saldo- ja tilitapahtumajärjestelmän käyttökerroista ja luovutettava lokitiedot 17 a ja 17 c §:ssä tarkoitetuille toimivaltaisille viranomaisille pyynnöstä. Lokirekisterin on sisällettävä vähintään seuraavat tiedot: Lisäksi toimivaltaisen viranomaisen sekä 1 a §:ssä tarkoitettujen toimijoiden on ylläpidettävä keskitetyn sähköisen saldo- ja tilitapahtumajärjestelmän käytöstä lokirekisteriä, jonka on sisällettävä vähintään 1 momentissa tarkoitetut tiedot. Toimivaltaisen viranomaisen 2 momentissa tarkoitetusta lokirekisteristä on käytävä ilmi myös keskitetystä sähköisestä saldo- ja tilitapahtumajärjestelmästä tiedustelun suorittaneen henkilön ja sen määränneen henkilön tunnistetiedot ja jos mahdollista, tiedustelun tulosten vastaanottajan tunnistetiedot. Toimivaltaisen viranomaisen on nimettävä henkilö, joka valvoo keskitetyn sähköisen saldo- ja tilitapahtumajärjestelmän käyttöä. Lokitiedot säilytetään ainoastaan henkilötietojen suojan ja tietoturvallisuuden sekä oikeusturvan varmistamiseksi, ja ne on suojattava epäasialliselta käytöltä. Lokitietoja säilytetään kuluva vuosi ja viisi seuraavaa vuotta, paitsi jos niitä tarvitaan kesken olevassa valvonta-asiassa. Tämä laki tulee voimaan 1 päivänä joulukuuta 2025. Sen 3 lukua sovelletaan kuitenkin vasta 1 päivästä kesäkuuta 2026 lukuun ottamatta sen 17 d §:n 2 momenttia, jota sovelletaan 10 päivästä heinäkuuta 2027 ja 17 f §:n 3 momenttia, jota sovelletaan seuraavasti: 1) 1 päivästä kesäkuuta 2026 31 päivään toukokuuta 2027 tilitapahtumatiedot tulee luovuttaa kahden tietopyyntöä edeltäneen kalenterivuoden ajalta; 2) 1 päivästä kesäkuuta 2027 31 päivään toukokuuta 2028 tilitapahtumatiedot tulee luovuttaa kolmen tietopyyntöä edeltäneen kalenterivuoden ajalta; 3) 1 päivästä kesäkuuta 2028 31 päivään toukokuuta 2029 tilitapahtumatiedot tulee luovuttaa neljän tietopyyntöä edeltäneen kalenterivuoden ajalta; 4) 1 päivästä kesäkuuta 2029 tilitapahtumatiedot tulee luovuttaa viiden tietopyyntöä edeltäneen kalenterivuoden ajalta.",
+      "section_number": "12",
+      "chapter_number": 2,
+      "statute_id": "571/2019"
+    }
+  ],
+  "clauses": [
+    {
+      "id": "0e979b8f-9f10-4015-83e4-856cf6a54082",
+      "node_type": "Clause",
+      "publisher": "finlex",
+      "title": "§ 1 mom 1",
+      "text": "1) edistää viranomaisten automaattista tiedonsaantia pankki- ja maksutileistä ja tallelokeroista;",
+      "clause_number": 1,
+      "section_number": "1",
+      "statute_id": "571/2019"
+    },
+    {
+      "id": "99cd4bad-a706-4fe8-80eb-49587c86b807",
+      "node_type": "Clause",
+      "publisher": "finlex",
+      "title": "§ 1 mom 2",
+      "text": "2) edistää viranomaisten sähköistä tiedonsaantia saldo- ja tilitapahtumatiedoista sekä arvopapereihin liittyvistä tiedoista; sekä",
+      "clause_number": 2,
+      "section_number": "1",
+      "statute_id": "571/2019"
+    },
+    {
+      "id": "942ba77f-603c-4efb-991a-6ff2d547ec29",
+      "node_type": "Clause",
+      "publisher": "finlex",
+      "title": "§ 1 mom 3",
+      "text": "3) parantaa luovutettavien henkilötietojen tietoturvaa.",
+      "clause_number": 3,
+      "section_number": "1",
+      "statute_id": "571/2019"
+    },
+    {
+      "id": "c28b34ef-4175-4be4-a992-1d01c18289e9",
+      "node_type": "Clause",
+      "publisher": "finlex",
+      "title": "§ 2 mom 1",
+      "text": "1)pankki- ja maksutilirekisterillärekisteriä, johon kerätään maksulaitosten ja sähkörahayhteisöjen sekä Finanssivalvonnalta 1 d §:n 1 momentissa tarkoitetun poikkeusluvan saaneiden luottolaitosten pankki- ja maksutilien asiakkaiden tiedot sekä kryptovarapalvelun tarjoajien asiakkaiden tiedot;",
+      "clause_number": 1,
+      "section_number": "2",
+      "statute_id": "571/2019"
+    },
+    {
+      "id": "ade4813a-938f-446e-8d8c-29931dcd7d8c",
+      "node_type": "Clause",
+      "publisher": "finlex",
+      "title": "§ 2 mom 2",
+      "text": "2)pankki- ja maksutilien tiedonhakujärjestelmälläjärjestelmää, jonka avulla luottolaitostoiminnasta annetussa laissa (610/2014) tarkoitetut luottolaitokset ja 1 d §:n 2 momentissa tarkoitetut tiedonhakujärjestelmän luoneet muut toimijat luovuttavat tietoa pankki- ja maksutileistä ja niiden saldo- ja tilitapahtumista, tallelokeroista ja arvopapereista toimivaltaisille viranomaisille;",
+      "clause_number": 2,
+      "section_number": "2",
+      "statute_id": "571/2019"
+    },
+    {
+      "id": "eb9b4561-997c-4101-8279-6fb4dfdf66dc",
+      "node_type": "Clause",
+      "publisher": "finlex",
+      "title": "§ 3 mom 7",
+      "text": "7) poliisilla rikosten ennalta estämiseen, paljastamiseen ja selvittämiseen sekä syyteharkintaan saattamiseen, kansallisen turvallisuuden ylläpitämiseen, rahankeräyslaissa (863/2019) tarkoitettuun rahankeräysten valvontatehtävän suorittamiseen sekä poliisilain (872/2011) 6 luvun mukaiseen poliisitutkintaan tarvittavia tietoja, jos tärkeä yleinen tai yksityinen etu sitä vaatii;",
+      "clause_number": 7,
+      "section_number": "3",
+      "statute_id": "571/2019"
+    },
+    {
+      "id": "d2d7ca8b-dcee-4319-83b3-9f97ed9307fc",
+      "node_type": "Clause",
+      "publisher": "finlex",
+      "title": "§ 3 mom 8",
+      "text": "8) Puolustusvoimilla sotilaskurinpidosta ja rikostorjunnasta Puolustusvoimissa annetussa laissa (89/2025) tarkoitettuun rikosten estämiseen, paljastamiseen ja selvittämiseen sekä sotilastiedustelusta annetun lain (590/2019) 104 §:n mukaisesti;",
+      "clause_number": 8,
+      "section_number": "3",
+      "statute_id": "571/2019"
+    },
+    {
+      "id": "42323abc-654a-494a-9193-f424f55ba333",
+      "node_type": "Clause",
+      "publisher": "finlex",
+      "title": "§ 3 mom 9",
+      "text": "9) Finanssivalvonnalla Finanssivalvonnasta annetun lain (878/2008) 3 §:ssä tarkoitettujen tehtävien suorittamiseen;",
+      "clause_number": 9,
+      "section_number": "3",
+      "statute_id": "571/2019"
+    },
+    {
+      "id": "3f7709cf-c94e-4773-a99f-bf60f2f8d9ee",
+      "node_type": "Clause",
+      "publisher": "finlex",
+      "title": "§ 3 mom 10",
+      "text": "10) Rajavartiolaitoksella rikosten ennalta estämiseen, paljastamiseen ja selvittämiseen sekä syyteharkintaan saattamiseen rikostorjunnasta Rajavartiolaitoksessa annetun lain (108/2018) mukaisesti.",
+      "clause_number": 10,
+      "section_number": "3",
+      "statute_id": "571/2019"
+    },
+    {
+      "id": "fe65339f-f35f-42cd-8af3-d7df2e44ae7c",
+      "node_type": "Clause",
+      "publisher": "finlex",
+      "title": "§ 4 mom 1",
+      "text": "1) tilinhaltijan ja tilin käyttöoikeudenhaltijan täydellinen nimi, syntymäaika ja suomalainen henkilötunnus tai sen puuttuessa kansalaisuus sekä asiakkuuden ja tilin käyttöoikeuden alkamis- ja päättymispäivä, tai jos tilinhaltija on oikeushenkilö, sen täydellinen nimi, rekisterinumero, rekisteröimispäivä ja rekisteriviranomainen sekä asiakkuuden alkamis- ja päättymispäivä ja kaikki tilin käyttöoikeudenhaltijat ja näiden luonnollista henkilöä koskevat edellä mainitut tiedot tai jos käyttöoikeudenhaltija on yleinen edunvalvoja, edunvalvojan nimen, syntymäajan ja henkilötunnuksen sijasta palveluntuottajan yksilöintitiedot, edunvalvojan nimike sekä, jos palveluntuottajalla on useampi kuin yksi yleinen edunvalvoja, edunvalvojan järjestysnumero;",
+      "clause_number": 1,
+      "section_number": "4",
+      "statute_id": "571/2019"
+    },
+    {
+      "id": "11cb0fc2-8d18-4623-a2de-e7a9b91af9ea",
+      "node_type": "Clause",
+      "publisher": "finlex",
+      "title": "§ 4 mom 2",
+      "text": "2) rahanpesun ja terrorismin rahoittamisen estämisestä annetun lain 1 luvun 5–7 §:ssä tarkoitettujen tosiasiallisten edunsaajien täydellinen nimi, syntymäaika ja suomalainen henkilötunnus tai sen puuttuessa kansalaisuus;",
+      "clause_number": 2,
+      "section_number": "4",
+      "statute_id": "571/2019"
+    },
+    {
+      "id": "8efe7f8e-a002-48d9-956d-f9996551d521",
+      "node_type": "Clause",
+      "publisher": "finlex",
+      "title": "§ 4 mom 3",
+      "text": "3) pankki- ja maksutilin IBAN-numero tai muu yksilöintitunnus sekä tilin avaamis- ja sulkemispäivä;",
+      "clause_number": 3,
+      "section_number": "4",
+      "statute_id": "571/2019"
+    },
+    {
+      "id": "23744e1d-7da1-4420-a4e5-f5e2685d8932",
+      "node_type": "Clause",
+      "publisher": "finlex",
+      "title": "§ 4 mom 4",
+      "text": "4) tallelokeron vuokraajan ja tallelokeron käyttöoikeutetun täydellinen nimi, syntymäaika ja suomalainen henkilötunnus tai sen puuttuessa kansalaisuus sekä tallelokeron yksilöintitieto ja vuokra-ajan pituus, tai jos vuokraaja on oikeushenkilö, sen täydellinen nimi, rekisterinumero, rekisteröimispäivä ja rekisteriviranomainen sekä tallelokeron yksilöintitieto ja vuokra-ajan pituus tai jos käyttöoikeutettu on yleinen edunvalvoja, edunvalvojan nimen, syntymäajan ja henkilötunnuksen sijasta palveluntuottajan yksilöintitiedot, edunvalvojan nimike sekä, jos palveluntuottajalla on useampi kuin yksi yleinen edunvalvoja, edunvalvojan järjestysnumero.",
+      "clause_number": 4,
+      "section_number": "4",
+      "statute_id": "571/2019"
+    },
+    {
+      "id": "88727d2d-c60b-43e3-a6ee-690ba72a5e37",
+      "node_type": "Clause",
+      "publisher": "finlex",
+      "title": "§ 6 mom 1",
+      "text": "1) tilinhaltijan ja tilin käyttöoikeudenhaltijan sekä kryptovarapalvelujen tarjoajan asiakkaan täydellinen nimi, syntymäaika ja suomalainen henkilötunnus tai sen puuttuessa kansalaisuus, tai jos tilinhaltija tai kryptovarapalvelujen tarjoajan asiakas on oikeushenkilö, sen täydellinen nimi, rekisterinumero, rekisteröimispäivä ja rekisteriviranomainen sekä kaikki tilin käyttöoikeudenhaltijat ja näiden luonnollista henkilöä koskevat edellä mainitut tiedot tai jos käyttöoikeudenhaltija on yleinen edunvalvoja, edunvalvojan nimen, syntymäajan ja henkilötunnuksen sijasta palveluntuottajan yksilöintitiedot, edunvalvojan nimike sekä, jos palveluntuottajalla on useampi kuin yksi yleinen edunvalvoja, edunvalvojan järjestysnumero;",
+      "clause_number": 1,
+      "section_number": "6",
+      "statute_id": "571/2019"
+    },
+    {
+      "id": "be790e31-970c-4b59-863f-ef25f0a8731a",
+      "node_type": "Clause",
+      "publisher": "finlex",
+      "title": "§ 6 mom 2",
+      "text": "2) asiakkuuden ja tilin käyttöoikeuden alkamis- ja päättymispäivä;",
+      "clause_number": 2,
+      "section_number": "6",
+      "statute_id": "571/2019"
+    },
+    {
+      "id": "e1ad6575-4ba7-4766-9429-508dd39200d4",
+      "node_type": "Clause",
+      "publisher": "finlex",
+      "title": "§ 6 mom 3",
+      "text": "3) maksutilin IBAN-numero tai muu yksilöintitunnus.",
+      "clause_number": 3,
+      "section_number": "6",
+      "statute_id": "571/2019"
+    },
+    {
+      "id": "a60e04e3-15b5-4c9b-8679-3b027e3fd93e",
+      "node_type": "Clause",
+      "publisher": "finlex",
+      "title": "§ 6 mom 1",
+      "text": "1) tilinhaltijan ja tilin käyttöoikeudenhaltijan täydellinen nimi, syntymäaika ja suomalainen henkilötunnus tai sen puuttuessa kansalaisuus sekä asiakkuuden ja tilin käyttöoikeuden alkamis- ja päättymispäivä, tai jos tilinhaltija on oikeushenkilö, sen täydellinen nimi, rekisterinumero, rekisteröimispäivä ja rekisteriviranomainen, asiakkuuden alkamis- ja päättymispäivä sekä kaikki tilin käyttöoikeudenhaltijat ja näiden luonnollista henkilöä koskevat edellä mainitut tiedot tai jos käyttöoikeudenhaltija on yleinen edunvalvoja, edunvalvojan nimen, syntymäajan ja henkilötunnuksen sijasta palveluntuottajan yksilöintitiedot, edunvalvojan nimike sekä, jos palveluntuottajalla on useampi kuin yksi yleinen edunvalvoja, edunvalvojan järjestysnumero;",
+      "clause_number": 1,
+      "section_number": "6",
+      "statute_id": "571/2019"
+    },
+    {
+      "id": "03c1bedc-1b7a-45fc-b390-de16906db93b",
+      "node_type": "Clause",
+      "publisher": "finlex",
+      "title": "§ 6 mom 2",
+      "text": "2) rahanpesun ja terrorismin rahoittamisen estämisestä annetun lain 1 luvun 5–7 §:ssä tarkoitettujen tosiasiallisten edunsaajien täydellinen nimi, syntymäaika ja suomalainen henkilötunnus tai sen puuttuessa kansalaisuus;",
+      "clause_number": 2,
+      "section_number": "6",
+      "statute_id": "571/2019"
+    },
+    {
+      "id": "fd02afd4-0020-46b2-b624-3372ec3ce06c",
+      "node_type": "Clause",
+      "publisher": "finlex",
+      "title": "§ 6 mom 3",
+      "text": "3) pankki- ja maksutilin IBAN-numero tai muu yksilöintitunnus sekä tilin avaamis- ja sulkemispäivä;",
+      "clause_number": 3,
+      "section_number": "6",
+      "statute_id": "571/2019"
+    },
+    {
+      "id": "64a10a96-d780-46a6-a259-8f5ce9c69df3",
+      "node_type": "Clause",
+      "publisher": "finlex",
+      "title": "§ 6 mom 4",
+      "text": "4) tallelokeron vuokraajan ja tallelokeron käyttöoikeutetun täydellinen nimi, syntymäaika ja suomalainen henkilötunnus tai sen puuttuessa kansalaisuus sekä tallelokeron yksilöintitieto ja vuokra-ajan pituus, tai jos vuokraaja on oikeushenkilö, sen täydellinen nimi, rekisterinumero, rekisteröimispäivä ja rekisteriviranomainen sekä tallelokeron yksilöintitieto ja vuokra-ajan pituus tai jos käyttöoikeutettu on yleinen edunvalvoja, edunvalvojan nimen, syntymäajan ja henkilötunnuksen sijasta palveluntuottajan yksilöintitiedot, edunvalvojan nimike sekä, jos palveluntuottajalla on useampi kuin yksi yleinen edunvalvoja, edunvalvojan järjestysnumero.",
+      "clause_number": 4,
+      "section_number": "6",
+      "statute_id": "571/2019"
+    },
+    {
+      "id": "1fcd973a-49db-4631-ad99-232f6919603c",
+      "node_type": "Clause",
+      "publisher": "finlex",
+      "title": "§ 10 mom 1",
+      "text": "1) asian viitetiedot;",
+      "clause_number": 1,
+      "section_number": "10",
+      "statute_id": "571/2019"
+    },
+    {
+      "id": "5d8a57fb-6206-481a-91d2-b98d2d997952",
+      "node_type": "Clause",
+      "publisher": "finlex",
+      "title": "§ 10 mom 2",
+      "text": "2) säännökset, joiden nojalla tietoja pyydetään;",
+      "clause_number": 2,
+      "section_number": "10",
+      "statute_id": "571/2019"
+    },
+    {
+      "id": "b4aa3962-0547-4103-a8ec-526bda8c93b7",
+      "node_type": "Clause",
+      "publisher": "finlex",
+      "title": "§ 10 mom 3",
+      "text": "3) tiedustelun tai haun päivämäärä ja kellonaika;",
+      "clause_number": 3,
+      "section_number": "10",
+      "statute_id": "571/2019"
+    },
+    {
+      "id": "925d4cfe-0ada-47d0-944a-97a6a7330057",
+      "node_type": "Clause",
+      "publisher": "finlex",
+      "title": "§ 10 mom 4",
+      "text": "4) tiedustelussa tai haussa käytettyjen tietojen tyyppi;",
+      "clause_number": 4,
+      "section_number": "10",
+      "statute_id": "571/2019"
+    },
+    {
+      "id": "31eeb16f-4b0d-418d-ab68-243c81d900fc",
+      "node_type": "Clause",
+      "publisher": "finlex",
+      "title": "§ 10 mom 5",
+      "text": "5) tiedustelun tai haun tuloksen tunnistetiedot;",
+      "clause_number": 5,
+      "section_number": "10",
+      "statute_id": "571/2019"
+    },
+    {
+      "id": "a60b0693-7b89-4413-81a3-2cade674637b",
+      "node_type": "Clause",
+      "publisher": "finlex",
+      "title": "§ 10 mom 6",
+      "text": "6) rekisteriä käyttäneen toimivaltaisen viranomaisen nimi.",
+      "clause_number": 6,
+      "section_number": "10",
+      "statute_id": "571/2019"
+    },
+    {
+      "id": "3a9ccc61-f14c-41b8-9e66-3b3c1231147c",
+      "node_type": "Clause",
+      "publisher": "finlex",
+      "title": "§ 12 mom 1",
+      "text": "1) poliisilla poliisilain 4 luvun 3 §:n ja 5 a luvun 50 §:n mukaisiin tarkoituksiin;",
+      "clause_number": 1,
+      "section_number": "12",
+      "statute_id": "571/2019"
+    },
+    {
+      "id": "5a279fd2-9b59-430a-9fd1-90b2bc271fed",
+      "node_type": "Clause",
+      "publisher": "finlex",
+      "title": "§ 12 mom 2",
+      "text": "2) rahanpesun selvittelykeskuksella rahanpesun selvittelykeskuksesta annetun lain 4 §:n mukaisiin tarkoituksiin;",
+      "clause_number": 2,
+      "section_number": "12",
+      "statute_id": "571/2019"
+    },
+    {
+      "id": "c6f9a85f-0e0b-4c69-adfb-b5f3708c4d2f",
+      "node_type": "Clause",
+      "publisher": "finlex",
+      "title": "§ 12 mom 2",
+      "text": "3) Tullilla tullilain 102 §:n 2 momentin ja rikostorjunnasta Tullissa annetun lain 2 luvun 14 §:n 1 momentin mukaisiin tarkoituksiin;",
+      "clause_number": 2,
+      "section_number": "12",
+      "statute_id": "571/2019"
+    },
+    {
+      "id": "26c468d5-fc31-436d-9390-9215ed503fca",
+      "node_type": "Clause",
+      "publisher": "finlex",
+      "title": "§ 12 mom 3",
+      "text": "3) Tullilla tullilain 102 §:n 2 momentin ja rikostorjunnasta Tullissa annetun lain 2 luvun 14 §:n 1 momentin mukaisiin tarkoituksiin;",
+      "clause_number": 3,
+      "section_number": "12",
+      "statute_id": "571/2019"
+    },
+    {
+      "id": "8e5193b6-af9d-4d44-96b8-695715e39dc7",
+      "node_type": "Clause",
+      "publisher": "finlex",
+      "title": "§ 12 mom 4",
+      "text": "4) Rajavartiolaitoksella henkilötietojen käsittelystä Rajavartiolaitoksesta annetun lain (639/2019) 20 §:n mukaisiin tarkoituksiin;",
+      "clause_number": 4,
+      "section_number": "12",
+      "statute_id": "571/2019"
+    },
+    {
+      "id": "ecca2b12-df3b-4333-a6c6-8a18aa0c5be8",
+      "node_type": "Clause",
+      "publisher": "finlex",
+      "title": "§ 12 mom 5",
+      "text": "5) Verohallinnolla verotusmenettelystä annetun lain 18 a §:n mukaisiin tarkoituksiin;",
+      "clause_number": 5,
+      "section_number": "12",
+      "statute_id": "571/2019"
+    },
+    {
+      "id": "3004bd13-5c87-4d09-90e6-e586104c3449",
+      "node_type": "Clause",
+      "publisher": "finlex",
+      "title": "§ 12 mom 6",
+      "text": "6) ulosottoviranomaisella ulosottokaaren 3 luvun 64 ja 66 §:n mukaisiin tarkoituksiin;",
+      "clause_number": 6,
+      "section_number": "12",
+      "statute_id": "571/2019"
+    },
+    {
+      "id": "ca0fd610-bf56-4888-be78-941d1ea50549",
+      "node_type": "Clause",
+      "publisher": "finlex",
+      "title": "§ 12 mom 7",
+      "text": "7) Finanssivalvonnalla Finanssivalvonnasta annetun lain 18 §:n mukaisiin tarkoituksiin;",
+      "clause_number": 7,
+      "section_number": "12",
+      "statute_id": "571/2019"
+    },
+    {
+      "id": "57f16d3e-b4c5-45a0-88ca-5834202a91a2",
+      "node_type": "Clause",
+      "publisher": "finlex",
+      "title": "§ 12 mom 8",
+      "text": "8) Puolustusvoimilla sotilastiedustelusta annetun lain 104 §:n ja sotilaskurinpidosta ja rikostorjunnasta Puolustusvoimissa annetun lain 112 §:n mukaisiin tarkoituksiin.",
+      "clause_number": 8,
+      "section_number": "12",
+      "statute_id": "571/2019"
+    },
+    {
+      "id": "7faf06bb-4ff1-47cd-b6c0-5a147c0ba5b3",
+      "node_type": "Clause",
+      "publisher": "finlex",
+      "title": "§ 12 mom 1",
+      "text": "1) tilinumero;",
+      "clause_number": 1,
+      "section_number": "12",
+      "statute_id": "571/2019"
+    },
+    {
+      "id": "92c30a1c-37f8-4647-b535-77189f9dd0de",
+      "node_type": "Clause",
+      "publisher": "finlex",
+      "title": "§ 12 mom 2",
+      "text": "2) tilin saldo;",
+      "clause_number": 2,
+      "section_number": "12",
+      "statute_id": "571/2019"
+    },
+    {
+      "id": "ad2e9db7-27fd-4349-87ea-a996381681ff",
+      "node_type": "Clause",
+      "publisher": "finlex",
+      "title": "§ 12 mom 3",
+      "text": "3) tilin saldoa koskeva päivämäärä ja kellonaika.",
+      "clause_number": 3,
+      "section_number": "12",
+      "statute_id": "571/2019"
+    },
+    {
+      "id": "74583bae-1cc5-41fa-96b2-214ea3489695",
+      "node_type": "Clause",
+      "publisher": "finlex",
+      "title": "§ 12 mom 1",
+      "text": "1) poliisilla poliisilain 4 luvun 3 §:n ja 5 a luvun 50 §:n mukaisiin tarkoituksiin;",
+      "clause_number": 1,
+      "section_number": "12",
+      "statute_id": "571/2019"
+    },
+    {
+      "id": "6dac91bd-a888-4af1-a501-5c363aa6df43",
+      "node_type": "Clause",
+      "publisher": "finlex",
+      "title": "§ 12 mom 2",
+      "text": "2) rahanpesun selvittelykeskuksella rahanpesun selvittelykeskuksesta annetun lain 4 §:n mukaisiin tarkoituksiin;",
+      "clause_number": 2,
+      "section_number": "12",
+      "statute_id": "571/2019"
+    },
+    {
+      "id": "050864fa-5798-4cc2-943d-af3d8266bdb4",
+      "node_type": "Clause",
+      "publisher": "finlex",
+      "title": "§ 12 mom 2",
+      "text": "3) Tullilla tullilain 102 §:n 2 momentin ja rikostorjunnasta Tullissa annetun lain 2 luvun 14 §:n 1 momentin mukaisiin tarkoituksiin;",
+      "clause_number": 2,
+      "section_number": "12",
+      "statute_id": "571/2019"
+    },
+    {
+      "id": "583d7d1d-13f6-4aa0-b2f1-3bd85b250c86",
+      "node_type": "Clause",
+      "publisher": "finlex",
+      "title": "§ 12 mom 3",
+      "text": "3) Tullilla tullilain 102 §:n 2 momentin ja rikostorjunnasta Tullissa annetun lain 2 luvun 14 §:n 1 momentin mukaisiin tarkoituksiin;",
+      "clause_number": 3,
+      "section_number": "12",
+      "statute_id": "571/2019"
+    },
+    {
+      "id": "0ed67fc6-ecfa-4b5f-bb35-0087af31c48b",
+      "node_type": "Clause",
+      "publisher": "finlex",
+      "title": "§ 12 mom 4",
+      "text": "4) Rajavartiolaitoksella henkilötietojen käsittelystä Rajavartiolaitoksesta annetun lain 20 §:n mukaisiin tarkoituksiin;",
+      "clause_number": 4,
+      "section_number": "12",
+      "statute_id": "571/2019"
+    },
+    {
+      "id": "8166fdfd-4823-48a2-8811-df6cf7089310",
+      "node_type": "Clause",
+      "publisher": "finlex",
+      "title": "§ 12 mom 5",
+      "text": "5) Verohallinnolla verotusmenettelystä annetun lain 18 a §:n mukaisiin tarkoituksiin;",
+      "clause_number": 5,
+      "section_number": "12",
+      "statute_id": "571/2019"
+    },
+    {
+      "id": "294cb483-18b6-4365-97f8-73b0083fae5c",
+      "node_type": "Clause",
+      "publisher": "finlex",
+      "title": "§ 12 mom 6",
+      "text": "6) ulosottoviranomaisella ulosottokaaren 3 luvun 64 ja 66 §:n mukaisiin tarkoituksiin;",
+      "clause_number": 6,
+      "section_number": "12",
+      "statute_id": "571/2019"
+    },
+    {
+      "id": "c0be09dc-eabc-4d2e-a256-8b07d5d8efc3",
+      "node_type": "Clause",
+      "publisher": "finlex",
+      "title": "§ 12 mom 7",
+      "text": "7) Finanssivalvonnalla Finanssivalvonnasta annetun lain 18 §:n mukaisiin tarkoituksiin;",
+      "clause_number": 7,
+      "section_number": "12",
+      "statute_id": "571/2019"
+    },
+    {
+      "id": "eccaa1e4-7fa9-4c04-b231-fd148ccd14e8",
+      "node_type": "Clause",
+      "publisher": "finlex",
+      "title": "§ 12 mom 8",
+      "text": "8) Puolustusvoimilla sotilastiedustelusta annetun lain 104 §:n ja sotilaskurinpidosta ja rikostorjunnasta Puolustusvoimissa annetun lain 112 §:n mukaisiin tarkoituksiin.",
+      "clause_number": 8,
+      "section_number": "12",
+      "statute_id": "571/2019"
+    },
+    {
+      "id": "f5020a90-0026-463a-9f96-7cd51503688f",
+      "node_type": "Clause",
+      "publisher": "finlex",
+      "title": "§ 12 mom 1",
+      "text": "1) tapahtumatyyppi;",
+      "clause_number": 1,
+      "section_number": "12",
+      "statute_id": "571/2019"
+    },
+    {
+      "id": "ec022d55-5ec9-4b73-973b-171efc74451a",
+      "node_type": "Clause",
+      "publisher": "finlex",
+      "title": "§ 12 mom 2",
+      "text": "2) tapahtumapäivä ja kellonaika;",
+      "clause_number": 2,
+      "section_number": "12",
+      "statute_id": "571/2019"
+    },
+    {
+      "id": "4667d975-69df-4011-a312-127e3a4e8198",
+      "node_type": "Clause",
+      "publisher": "finlex",
+      "title": "§ 12 mom 3",
+      "text": "3) tapahtuman summa tilivaluutassa ja alkuperäisessä valuutassa;",
+      "clause_number": 3,
+      "section_number": "12",
+      "statute_id": "571/2019"
+    },
+    {
+      "id": "f2bca316-d0f2-402c-9034-33a3e6ad2dd4",
+      "node_type": "Clause",
+      "publisher": "finlex",
+      "title": "§ 12 mom 4",
+      "text": "4) tapahtuman viesti ja viitenumero;",
+      "clause_number": 4,
+      "section_number": "12",
+      "statute_id": "571/2019"
+    },
+    {
+      "id": "2ed64f44-e27b-479e-9a98-fbb567a7a2a5",
+      "node_type": "Clause",
+      "publisher": "finlex",
+      "title": "§ 12 mom 5",
+      "text": "5) tapahtumaa koskeva tilinumero;",
+      "clause_number": 5,
+      "section_number": "12",
+      "statute_id": "571/2019"
+    },
+    {
+      "id": "c7ceef0a-f394-4ea0-82ea-d24018eaaad0",
+      "node_type": "Clause",
+      "publisher": "finlex",
+      "title": "§ 12 mom 6",
+      "text": "6) vastaanottajan tai lähettäjän nimi;",
+      "clause_number": 6,
+      "section_number": "12",
+      "statute_id": "571/2019"
+    },
+    {
+      "id": "15917c29-e573-4e42-a5d7-75a8aba9379c",
+      "node_type": "Clause",
+      "publisher": "finlex",
+      "title": "§ 12 mom 7",
+      "text": "7) muut kuin 1–6 kohdassa tarkoitetut ISO20022-sanomarakenteesta saatavat tilitapahtumaan liittyvät tiedot.",
+      "clause_number": 7,
+      "section_number": "12",
+      "statute_id": "571/2019"
+    },
+    {
+      "id": "ce8a20bd-0394-41ed-95d1-546fd546b5ca",
+      "node_type": "Clause",
+      "publisher": "finlex",
+      "title": "§ 12 mom 1",
+      "text": "1) asian viitetiedot;",
+      "clause_number": 1,
+      "section_number": "12",
+      "statute_id": "571/2019"
+    },
+    {
+      "id": "1666ce32-555b-487e-bca9-dc6d1d168d11",
+      "node_type": "Clause",
+      "publisher": "finlex",
+      "title": "§ 12 mom 2",
+      "text": "2) säännökset, joiden nojalla tietoja pyydetään;",
+      "clause_number": 2,
+      "section_number": "12",
+      "statute_id": "571/2019"
+    },
+    {
+      "id": "ef4182e9-34db-4fc9-ab9a-ee78c36c396b",
+      "node_type": "Clause",
+      "publisher": "finlex",
+      "title": "§ 12 mom 3",
+      "text": "3) tiedustelun tai haun päivämäärä ja kellonaika;",
+      "clause_number": 3,
+      "section_number": "12",
+      "statute_id": "571/2019"
+    },
+    {
+      "id": "56649102-c6b6-4be1-96ad-05abeae77bda",
+      "node_type": "Clause",
+      "publisher": "finlex",
+      "title": "§ 12 mom 4",
+      "text": "4) tiedustelussa tai haussa käytettyjen tietojen tyyppi;",
+      "clause_number": 4,
+      "section_number": "12",
+      "statute_id": "571/2019"
+    },
+    {
+      "id": "afa993ce-3f41-4c04-adab-b75a2673791e",
+      "node_type": "Clause",
+      "publisher": "finlex",
+      "title": "§ 12 mom 5",
+      "text": "5) tiedustelun tai haun tuloksen tunnistetiedot;",
+      "clause_number": 5,
+      "section_number": "12",
+      "statute_id": "571/2019"
+    },
+    {
+      "id": "016f560f-d724-41c0-a357-5836c6503aca",
+      "node_type": "Clause",
+      "publisher": "finlex",
+      "title": "§ 12 mom 6",
+      "text": "6) järjestelmää käyttäneen toimivaltaisen viranomaisen nimi.",
+      "clause_number": 6,
+      "section_number": "12",
+      "statute_id": "571/2019"
+    }
+  ],
+  "cross_references": [
+    {
+      "raw_text": "pykälän 2 momentissa t",
+      "statute_id": "571/2019",
+      "section_number": "2 momentissa t",
+      "clause_number": null,
+      "resolution_confidence": 0.0
+    }
+  ],
+  "raw_html_path": "C:\\Users\\danit\\finance-hack\\aalto-hackaton-2026\\data\\raw\\finlex\\Laki\\Laki pankki- ja maksutilien valvontajärjestelmästä annetun lain muuttamisesta_3.html"
+}

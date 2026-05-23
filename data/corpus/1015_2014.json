@@ -1,0 +1,47 @@
+{
+  "statute": {
+    "id": "417d1c7a-c91e-4505-80e2-ccc77882de5e",
+    "node_type": "Statute",
+    "publisher": "finlex",
+    "title": "Valtioneuvoston asetus mittayksiköistä annetun valtioneuvoston asetuksen muuttamisesta",
+    "text": "Valtioneuvoston asetus mittayksiköistä annetun valtioneuvoston asetuksen muuttamisesta",
+    "statute_id": "1015/2014",
+    "finlex_url": "https://finlex.fi/fi/laki/ajantasa/1015/2014"
+  },
+  "chapters": [],
+  "sections": [
+    {
+      "id": "e0db0c5f-2d7c-4616-8ff6-5aa14d2a3e39",
+      "node_type": "Section",
+      "publisher": "finlex",
+      "title": "1 § Perusyksiköiden määritelmät",
+      "text": "Kansainvälisen mittayksikköjärjestelmän Système International d’Unités (SI) mukainen ajan yksikkö on sekunti. Sekunnin tunnus on s ja sen määritelmän perustana on cesium 133 -atomin häiritsemättömän perustilan ylihienorakennesiirtymää vastaavan taajuuden ΔνCs\n                                 kiinteä lukuarvo 9 192 631 770, kun yksikkönä on Hz eli s\n                                −1. Pituuden SI-yksikkö on metri. Metrin tunnus on m ja sen määritelmän perustana on tyhjiössä etenevän valon nopeudenckiinteä lukuarvo 299 792 458, kun yksikkönä on m/s ja kun sekunnin määritelmän perustana on ΔνCs. Massan SI-yksikkö on kilogramma. Kilogramman tunnus on kg ja sen määritelmän perustana on Planckin vakionhkiinteä lukuarvo 6,626 070 15 × 10\n                                −34, kun yksikkönä on J∙s eli kg∙m\n                                2\n                                ∙s\n                                −1\n                                ja kun metrin ja sekunnin määritelmien perustana ovatcja ΔνCs. Sähkövirran SI-yksikkö on ampeeri. Ampeerin tunnus on A ja sen määritelmän perustana on alkeisvarauksenekiinteä lukuarvo 1,602 176 634 × 10\n                                −19, kun yksikkönä on C eli A∙s ja kun sekunnin määritelmän perustana on ΔνCs. Termodynaamisen lämpötilan SI-yksikkö on kelvin. Kelvinin tunnus on K ja sen määritelmän perustana on Boltzmannin vakionkkiinteä lukuarvo 1,380 649 × 10\n                                −23, kun yksikkönä on J∙K\n                                −1\n                                 eli kg∙m\n                                2\n                                ∙s\n                                −2\n                                ∙K\n                                −1\n                                 ja kun kilogramman, metrin ja sekunnin määritelmien perustana ovath,cja ΔνCs. Ainemäärän SI-yksikkö on mooli. Moolin tunnus on mol. Yksi mooli sisältää täsmälleen 6,022 140 76 × 10\n                                23\n                                 perusosasta. Tämä luku on Avogadron vakionNA\n                                 kiinteä lukuarvo, jonka yksikkönä on mol\n                                −1, ja sitä kutsutaan nimityksellä Avogadron luku. Systeemin ainemäärä, jonka tunnus onn, esittää systeemin määriteltyjen perusosasten lukumäärää. Perusosanen voi olla atomi, molekyyli, ioni, elektroni, muu hiukkanen tai hiukkasten määritelty ryhmä. Valovoiman SI-yksikkö on kandela. Kandelan tunnus on cd ja sen määritelmän perustana on 540 × 10\n                                12\n                                 Hz:n taajuisen yksivärisen säteilyn valotehokkuudenKcd\n                                 kiinteä lukuarvo 683, kun yksikkönä on lm∙W\n                                −1\n                                 eli cd∙sr∙W\n                                −1\n                                 eli cd∙sr∙kg\n                                −1\n                                ∙m\n                                −2\n                                ∙s\n                                3\n                                 ja kun kilogramman, metrin ja sekunnin määritelmien perustana ovath,cja ΔνCs.",
+      "section_number": "1",
+      "chapter_number": 1,
+      "statute_id": "1015/2014"
+    },
+    {
+      "id": "79f351ba-c3b3-4864-b697-d0e6f652718c",
+      "node_type": "Section",
+      "publisher": "finlex",
+      "title": "4 § Johdannaisyksiköiden erityisnimet",
+      "text": "Johdannaisyksiköille saadaan käyttää erityisnimiä ja -tunnuksia taulukon 1 mukaisesti. Perusyksiköiden avulla johdetut yksiköt voidaan ilmaista myös käyttäen 1 momentissa tarkoitettuja erityisnimiä ja -tunnuksia. Celsiuslämpötilatmääritellään kahden termodynaamisen lämpötilanTjaT0\n                                  erotuksenat=T−T0, jossaT0\n                                 = 273,15 K. Lämpötilaväli tai -ero voidaan ilmaista joko kelvineinä tai celsiusasteina. Yksiköt celsiusaste ja kelvin ovat yhtä suuret.",
+      "section_number": "4",
+      "chapter_number": 1,
+      "statute_id": "1015/2014"
+    },
+    {
+      "id": "d530e0e0-739b-4428-ba80-d6577d35ccdc",
+      "node_type": "Section",
+      "publisher": "finlex",
+      "title": "11 § Suomen normaaliaika",
+      "text": "Suomen normaaliaika on kaksi tuntia edellä koordinoitua yleisaikaa (UTC). Koordinoitu yleisaika on viidennentoista yleisen paino- ja mittakonferenssin vuonna 1975 vahvistama asteikko. Kansainvälinen paino- ja mittatoimisto ylläpitää UTC-aikaa yhdessä kansallisten aikalaboratorioiden kanssa. Suomen UTC-ajan toteuttamisesta vastaa Teknologian tutkimuskeskus VTT Oy. Tämä asetus tulee voimaan 13 päivänä kesäkuuta 2020.",
+      "section_number": "11",
+      "chapter_number": 1,
+      "statute_id": "1015/2014"
+    }
+  ],
+  "clauses": [],
+  "cross_references": [],
+  "raw_html_path": "C:\\Users\\danit\\finance-hack\\aalto-hackaton-2026\\data\\raw\\finlex\\Asetus\\Valtioneuvoston asetus mittayksiköistä annetun valtioneuvoston asetuksen muuttamisesta.html"
+}

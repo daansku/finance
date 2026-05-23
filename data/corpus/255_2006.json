@@ -1,0 +1,722 @@
+{
+  "statute": {
+    "id": "66cceae2-f1c3-41ea-ae87-6f6da74ff896",
+    "node_type": "Statute",
+    "publisher": "finlex",
+    "title": "Joukkorahoituslaki",
+    "text": "Joukkorahoituslaki",
+    "statute_id": "255/2006",
+    "finlex_url": "https://finlex.fi/fi/laki/ajantasa/255/2006"
+  },
+  "chapters": [
+    {
+      "id": "e340e599-448b-444a-8dac-f5cf48010d45",
+      "node_type": "Chapter",
+      "publisher": "finlex",
+      "title": "Chapter 1",
+      "text": "1 luku Yleiset säännökset",
+      "chapter_number": 1,
+      "statute_id": "255/2006"
+    },
+    {
+      "id": "481b9327-31bf-448d-b996-882d852d7375",
+      "node_type": "Chapter",
+      "publisher": "finlex",
+      "title": "Chapter 2",
+      "text": "2 luku Oikeus välittää joukkorahoitusta",
+      "chapter_number": 2,
+      "statute_id": "255/2006"
+    },
+    {
+      "id": "91581a19-207c-416f-a7ce-2dea7b00dc62",
+      "node_type": "Chapter",
+      "publisher": "finlex",
+      "title": "Chapter 3",
+      "text": "3 luku Asiakkaansuoja",
+      "chapter_number": 3,
+      "statute_id": "255/2006"
+    },
+    {
+      "id": "d7eed746-ff58-4e2d-825a-1919eaa592e5",
+      "node_type": "Chapter",
+      "publisher": "finlex",
+      "title": "Chapter 4",
+      "text": "4 luku Valvonta ja seuraamukset",
+      "chapter_number": 4,
+      "statute_id": "255/2006"
+    },
+    {
+      "id": "ab872e17-34cc-40f8-896b-a9c767a6b688",
+      "node_type": "Chapter",
+      "publisher": "finlex",
+      "title": "Chapter 5",
+      "text": "5 luku Erinäiset säännökset",
+      "chapter_number": 5,
+      "statute_id": "255/2006"
+    }
+  ],
+  "sections": [
+    {
+      "id": "be20221d-9c01-4d7d-80f4-75df08650ace",
+      "node_type": "Section",
+      "publisher": "finlex",
+      "title": "1 § Soveltamisala",
+      "text": "Tässä laissa säädetään vastikkeellisen laina- ja sijoitusmuotoisen joukkorahoituksen hankkimisesta, tarjoamisesta ja ammattimaisesta välittämisestä elinkeinotoiminnan rahoittamiseksi. Mitä tässä laissa säädetään joukkorahoituksen välittäjästä, sovelletaan 3—9 §:ää, 10 §:n 4 momenttia ja 17 §:ää lukuun ottamatta myös joukkorahoitusta välittävään luottolaitokseen, maksulaitokseen, rahastoyhtiöön, sijoituspalveluyritykseen ja vaihtoehtorahastojen hoitajaan. Tämän lain säännöksiä ei sovelleta sellaiseen lainamuotoiseen joukkorahoitukseen, jossa velallisena on kuluttaja. Rahankeräyksestä säädetään rahankeräyslaissa (255/2006). Joukkorahoituksen saajan tiedonantovelvollisuudesta säädetään lisäksi arvopaperimarkkinalaissa (746/2012), jos laina- tai sijoitusmuotoisessa joukkorahoituksessa tarjotaan ja välitetään arvopaperimarkkinalaissa tarkoitettuja arvopapereita.",
+      "section_number": "1",
+      "chapter_number": 1,
+      "statute_id": "255/2006"
+    },
+    {
+      "id": "3ab2c459-8718-415c-aaf2-163486988d3d",
+      "node_type": "Section",
+      "publisher": "finlex",
+      "title": "2 § Määritelmät",
+      "text": "Tässä laissa tarkoitetaan:",
+      "section_number": "2",
+      "chapter_number": 1,
+      "statute_id": "255/2006"
+    },
+    {
+      "id": "cee51d2c-ea3f-465c-b4c2-e4e2154cc42a",
+      "node_type": "Section",
+      "publisher": "finlex",
+      "title": "3 § Rekisteröitymisvelvollisuus",
+      "text": "Elinkeinonharjoittaja saa välittää joukkorahoitusta vain, jos se on rekisteröitynyt tämän luvun mukaisesti Finanssivalvonnan ylläpitämään joukkorahoituksen välittäjien rekisteriin. Rekisteröitymisvelvollisuus ei kuitenkaan koske toiseen Euroopan talousalueeseen kuuluvaan valtioon (ETA-valtio) sijoittautuneita elinkeinonharjoittajia, jotka välittävät tilapäisesti joukkorahoitusta Suomessa.",
+      "section_number": "3",
+      "chapter_number": 2,
+      "statute_id": "255/2006"
+    },
+    {
+      "id": "cf4db613-4120-4dca-8352-1e19c9077490",
+      "node_type": "Section",
+      "publisher": "finlex",
+      "title": "4 § Rekisteri-ilmoitus",
+      "text": "Sen, joka aikoo välittää joukkorahoitusta, on sisällytettävä rekisteri-ilmoitukseen: Ilmoituksen tekijän on Finanssivalvonnan pyynnöstä toimitettava muitakin tietoja, jotka ovat tarpeen rekisteröinnin edellytysten täyttymisen arvioimiseksi.",
+      "section_number": "4",
+      "chapter_number": 2,
+      "statute_id": "255/2006"
+    },
+    {
+      "id": "4a9092da-b19b-4732-bdf7-cd0f941b92cb",
+      "node_type": "Section",
+      "publisher": "finlex",
+      "title": "5 § Rekisteriin merkittävät tiedot ja muutoksista ilmoittaminen",
+      "text": "Joukkorahoituksen välittäjien rekisteriin merkitään: Joukkorahoituksen välittäjän on viipymättä ilmoitettava Finanssivalvonnalle rekisteriin merkittyjen tietojen muutoksista sekä toimintansa lopettamisesta.",
+      "section_number": "5",
+      "chapter_number": 2,
+      "statute_id": "255/2006"
+    },
+    {
+      "id": "ca4c793e-551c-41f0-9ec2-1834fc11863e",
+      "node_type": "Section",
+      "publisher": "finlex",
+      "title": "6 § Rekisteröinnin edellytykset",
+      "text": "Finanssivalvonnan on rekisteröitävä ilmoituksen tekijä joukkorahoituksen välittäjäksi, jos: Rekisteröinnin edellytyksenä on lisäksi, että ilmoituksen tekijällä on oltava omaa pääomaa vähintään 50 000 euroa tai ilmoituksen tekijän toiminnan laatu ja laajuus huomioon ottaen Finanssivalvonnan riittäväksi arvioima ammatillinen vastuuvakuutus, pankkitakaus tai muu vastaava vakuus. Vakuutuksenantajalla tai muun vakuuden antajalla on oltava kotipaikka ETA-valtiossa, jollei Finanssivalvonta hakemuksesta myönnä tästä poikkeusta. Vakuutuksen on lisäksi täytettävä seuraavat ehdot: Jos joukkorahoituksen välittäjä aikoo vastaanottaa asiakasvaroja, rekisteröinnin edellytyksenä on lisäksi, että tämä kykenee säilyttämään ja käsittelemään asiakasvaroja 10 §:ssä edellytetyllä tavalla. Joukkorahoituksen välittäjän on toimitettava Finanssivalvonnalle tiedoksi säännöt, sopimusehdot tai muut vastaavat asiakirjat, joista ilmenee, miten joukkorahoituksen välitys tapahtuu sekä mitä edellytyksiä, oikeuksia ja velvollisuuksia joukkorahoituksen saajille ja muille asiakkaille asetetaan. Finanssivalvonta voi evätä rekisteröinnin, jos olosuhteet huomioon ottaen on ilmeistä, että ilmoituksen tekijä aikoo toimia toisen välikätenä.",
+      "section_number": "6",
+      "chapter_number": 2,
+      "statute_id": "255/2006"
+    },
+    {
+      "id": "c52872a0-571e-4977-9db0-6cfb3631167e",
+      "node_type": "Section",
+      "publisher": "finlex",
+      "title": "7 § Luotettavuus ja rahoitusmarkkinoiden toiminnan tuntemus",
+      "text": "Ilmoituksen tekijää ei pidetä 6 §:n 1 momentin 4 kohdassa edellytetyllä tavalla luotettavana, jos hänet on lainvoiman saaneella tuomiolla viiden arviota edeltäneen vuoden aikana tuomittu vankeusrangaistukseen tai kolmen arviota edeltäneen vuoden aikana sakkorangaistukseen rikoksesta, jonka voidaan katsoa osoittavan hänen olevan ilmeisen sopimaton välittämään joukkorahoitusta, toimimaan joukkorahoituksen välittäjän omistajana taikka toimimaan sen hallituksen jäsenenä tai varajäsenenä, toimitusjohtajana tai toimitusjohtajan sijaisena taikka muussa ylimmässä johdossa, taikka jos hän on muutoin aikaisemmalla toiminnallaan osoittanut olevansa ilmeisen sopimaton toimimaan mainitunlaisessa tehtävässä. Jos ilmoituksen tekijä on oikeushenkilö, vaatimus luotettavuudesta koskee toimitusjohtajaa ja hänen sijaistaan, hallituksen jäsentä ja varajäsentä, hallintoneuvoston ja siihen rinnastettavan toimielimen jäsentä ja varajäsentä, vastuunalaista yhtiömiestä, muuta ylimpään johtoon kuuluvaa ja sitä, jolla on suoraan tai välillisesti vähintään kymmenesosa osakeyhtiön osakkeista tai osakkeiden tuottamasta äänivallasta taikka vastaava omistus- tai määräämisvalta, jos kyseessä on muu yhteisö kuin osakeyhtiö. Vaatimus rahoitusmarkkinoiden toiminnan tuntemuksesta koskee hallitusta kokonaisuutena. Hallituksella sekä toimitusjohtajalla ja muulla toimivaan johtoon kuuluvalla on oltava sellainen yleinen rahoitusmarkkinoiden ja niihin liittyvien merkittävien riskien tuntemus kuin toiminnan laatuun ja laajuuteen katsoen on tarpeen. Toimivaan johtoon luetaan ilmoituksen tekijän toimitusjohtaja ja hänen sijaisensa, hallituksen jäsen ja varajäsen, hallintoneuvoston ja siihen rinnastettavan toimielimen jäsen ja varajäsen, vastuunalainen yhtiömies sekä muu ylimpään johtoon kuuluva. Jos ilmoituksen tekijä harjoittaa myös muuta liiketoimintaa kuin joukkorahoituksen välitystä, vaatimus koskee vain niitä, jotka tosiasiallisesti vastaavat joukkorahoituksen välityksestä.",
+      "section_number": "7",
+      "chapter_number": 2,
+      "statute_id": "255/2006"
+    },
+    {
+      "id": "3353a817-ff3f-4756-bfe1-4bc892f30cb8",
+      "node_type": "Section",
+      "publisher": "finlex",
+      "title": "8 § Rekisteristä poistaminen",
+      "text": "Finanssivalvonnan on poistettava joukkorahoituksen välittäjä rekisteristä, jos: Jos elinkeinonharjoittaja on poistettu rekisteristä, se ei saa enää harjoittaa joukkorahoituksen välitystä. Finanssivalvonta antaa tarkempia määräyksiä toiminnan lopettamisesta rekisteristä poistamisen perusteella.",
+      "section_number": "8",
+      "chapter_number": 2,
+      "statute_id": "255/2006"
+    },
+    {
+      "id": "2fc6ad37-38db-44e1-a9e7-e499ecb72d22",
+      "node_type": "Section",
+      "publisher": "finlex",
+      "title": "9 § Joukkorahoituksen välittäjän oikeus välittää laina- tai sijoitusmuotoista joukkorahoitusta",
+      "text": "Joukkorahoituksen välittäjä, joka on merkitty Finanssivalvonnan ylläpitämään rekisteriin, saa välittää laina- ja sijoitusmuotoista joukkorahoitusta. Joukkorahoituksen välittäjä, joka on merkitty Finanssivalvonnan ylläpitämään rekisteriin, saa myös sijoituspalvelulain 1 luvun 11 §:n 1 ja 5 kohdassa tarkoitetulla tavalla välittää ja vastaanottaa mainitun lain 1 luvun 10 §:n 1 momentin 1 ja 2 kohdassa tarkoitettuja arvopapereita tai muita yhteissijoitusyritysten osuuksia koskevia toimeksiantoja sekä tarjota laina- ja sijoitusmuotoiseen joukkorahoitukseen liittyvää sijoitusneuvontaa. Edellä 2 momentissa tarkoitettuja toimeksiantoja välittäessään joukkorahoituksen välittäjän on noudatettava tämän lain 2 ja 3 luvun säännöksiä ja välitettävä saamansa toimeksiannot luottolaitokselle, rahastoyhtiölle, sijoituspalveluyritykselle tai vaihtoehtorahastojen hoitajalle taikka sellaisessa kolmannessa maassa toimiluvan saaneen sijoituspalveluyrityksen tai luottolaitoksen sivuliikkeelle, joka noudattaa sijoituspalvelulakia tai luottolaitostoiminnasta annettua lakia vastaavia toiminnan vakautta koskevia säännöksiä. Edellä 1 momentissa tarkoitettuja palveluja saa tarjota Suomesta ETA-alueelle, jollei sitä ole toisessa ETA-valtiossa kielletty tai rajoitettu. Kolmansista maista säädetään erikseen. Sijoituspalvelun tarjoajan oikeudesta käyttää joukkorahoituksen välittäjää sidonnaisasiamiehenään säädetään sijoituspalvelulain 7 luvun 7 §:ssä.",
+      "section_number": "9",
+      "chapter_number": 2,
+      "statute_id": "255/2006"
+    },
+    {
+      "id": "15a89cc7-8d0b-4fc2-9e03-4ee8275b1171",
+      "node_type": "Section",
+      "publisher": "finlex",
+      "title": "10 § Joukkorahoituksen välittäjän menettelytavat sekä velvollisuudet sijoittajaa kohtaan",
+      "text": "Joukkorahoituksen välittäjän on toimittava  rehellisesti,  tasapuolisesti, ammattimaisesti ja asiakkaan edun mukaisesti. Joukkorahoituksen välittäjän on noudatettava: Joukkorahoituksen välittäjä, joka 9 §:n 2 momentin mukaisesti välittää ja vastaanottaa arvopapereita tai muita yhteissijoitusyritysten osuuksia koskevia toimeksiantoja tai tarjoaa laina- ja sijoitusmuotoiseen joukkorahoitukseen liittyvää sijoitusneuvontaa, ei saa hallinnoida eikä pitää hallussaan asiakkaansa rahoitusvälineitä tai rahavaroja (asiakasvarat) eikä olla velkaa asiakkaalleen. Jos joukkorahoituksen välittäjä muutoin toiminnassaan hallinnoi asiakasvaroja, sen on järjestettävä sen haltuun luovutettujen asiakasvarojen säilyttäminen ja käsittely luotettavalla tavalla. Joukkorahoituksen välittäjän on erityisesti huolehdittava siitä, että: 1) asiakasvarat pidetään erillään sen omista varoista; 2) asiakasvaroista pidetään kirjaa siten, että kunkin asiakkaan asiakasvarat on eritelty muiden asiakkaiden varoista; 3) asiakasvarat talletetaan Suomessa tai muussa ETA-valtiossa toimiluvan saaneessa talletuspankissa olevalle pankkitilille. Joukkorahoituksen välittäjän, joka on rekisteröitynyt 2 luvun mukaisesti, ei tarvitse liittyä sijoituspalvelulain 11 luvussa tarkoitettuun sijoittajien korvausrahastoon.",
+      "section_number": "10",
+      "chapter_number": 3,
+      "statute_id": "255/2006"
+    },
+    {
+      "id": "bc50e14a-e427-48e6-b84d-154abec0215f",
+      "node_type": "Section",
+      "publisher": "finlex",
+      "title": "11 § Tiedonantovelvollisuus",
+      "text": "Joukkorahoituksen markkinoinnissa ei saa antaa totuudenvastaisia tai harhaanjohtavia tietoja. Tieto, jonka totuudenvastaisuus tai harhaanjohtavuus käy ilmi tiedon esittämisen jälkeen ja jolla saattaa olla olennaista merkitystä joukkorahoituksen välittäjän asiakkaalle, on viivytyksettä oikaistava tai täydennettävä riittävällä tavalla. Joukkorahoituksen saajan on perustellun arvion tekemiseksi joukkorahoituksen saajasta ja tarjouksen edullisuudesta julkistettava 21 §:n mukaisesti ennen varainhankinnan aloittamista oikeat ja riittävät tiedot seikoista, jotka ovat omiaan olennaisesti vaikuttamaan yrityksen arvoon tai takaisinmaksukykyyn. Joukkorahoituksen välittäjän on huolehdittava siitä, että joukkorahoituksen saaja täyttää tässä momentissa säädetyn velvollisuuden. Joukkorahoituksen saajalla ja joukkorahoituksen välittäjällä on velvollisuus julkistaa viipymättä tieto omassa taloudellisessa tilanteessaan tapahtuneista olennaisista muutoksista ja muista seikoista, jotka vaikuttavat niiden velvollisuuksien täyttämiseen. Sen estämättä, mitä arvopaperimarkkinalain 4 luvun 3 §:ssä säädetään, joukkorahoituksen saajan ei tarvitse julkaista esitettä, jos arvopapereita tarjotaan Suomessa ja niiden yhteenlaskettu vastike 12 kuukauden aikana on alle 5 000 000 euroa.",
+      "section_number": "11",
+      "chapter_number": 3,
+      "statute_id": "255/2006"
+    },
+    {
+      "id": "038b0680-4a39-4401-8b84-1369ae617fab",
+      "node_type": "Section",
+      "publisher": "finlex",
+      "title": "12 § Asiakkaan tunteminen",
+      "text": "Asiakkaan tuntemisesta säädetään rahanpesun ja terrorismin rahoittamisen estämisestä ja selvittämisestä annetussa laissa (503/2008). Joukkorahoituksen välittäjä ei saa välittää joukkorahoitusta tai muutoin osallistua varainhankintaan joukkorahoituksen saajalle, joka on konkurssissa.",
+      "section_number": "12",
+      "chapter_number": 3,
+      "statute_id": "255/2006"
+    },
+    {
+      "id": "84830dec-ff39-48a4-9a9f-423d813f91df",
+      "node_type": "Section",
+      "publisher": "finlex",
+      "title": "13 § Valvonta",
+      "text": "Tämän lain noudattamista valvoo Finanssivalvonta. Lisäksi kuluttaja-asiamies valvoo lain noudattamista, jos joukkorahoituksen välittäjän asiakkaana on kuluttaja. Finanssivalvonnan yhteistyöstä kuluttaja-asiamiehen kanssa säädetään Finanssivalvonnasta annetun lain (878/2008) 46 §:ssä. Finanssivalvonnalla on oikeus saada sakon täytäntöönpanosta annetun lain (672/2002) 46 §:ssä tarkoitetusta sakkorekisteristä tiedot, jotka ovat tarpeen 6 ja 7 §:ssä säädettyjen edellytysten selvittämiseksi. Oikeudesta saada tietoja rikosrekisteristä säädetään erikseen.",
+      "section_number": "13",
+      "chapter_number": 4,
+      "statute_id": "255/2006"
+    },
+    {
+      "id": "16962c1b-dca0-4c2b-acc6-a13706b50e9c",
+      "node_type": "Section",
+      "publisher": "finlex",
+      "title": "14 § Rangaistussäännökset",
+      "text": "Joka tahallaan tai törkeästä huolimattomuudesta 1) 2 luvun säännösten vastaisesti ilman rekisteröintiä välittää joukkorahoitusta tai 2) 12 §:n 2 momentin vastaisesti hankkii joukkorahoituksella varoja sellaiselle joukkorahoituksen saajalle, joka on konkurssissa, on tuomittava, jollei teko ole vähäinen tai siitä ole muualla laissa säädetty ankarampaa rangaistusta,joukkorahoitusrikoksestasakkoon tai  vankeuteen enintään yhdeksi vuodeksi. Rangaistus 19 §:ssä säädetyn salassapitovelvollisuuden rikkomisesta tuomitaan rikoslain (39/1889) 38 luvun 1 tai 2 §:n mukaan, jollei teosta muualla laissa säädetä ankarampaa rangaistusta.",
+      "section_number": "14",
+      "chapter_number": 4,
+      "statute_id": "255/2006"
+    },
+    {
+      "id": "b55f9a41-c39c-4b52-a138-f197bfe86778",
+      "node_type": "Section",
+      "publisher": "finlex",
+      "title": "15 § Rikemaksu ja seuraamusmaksu",
+      "text": "Finanssivalvonnasta annetun lain 38 §:n 1 momentin 2 kohdassa tarkoitettuja säännöksiä, joiden laiminlyönnistä tai rikkomisesta määrätään rikemaksu, ovat tämän lain 18 §:n säännökset suosituksia antavaan toimielimeen kuulumisesta ja siihen liittyvästä ilmoitusvelvollisuudesta. Finanssivalvonnasta annetun lain 40 §:n 1 momentissa tarkoitettuja säännöksiä ja päätöksiä, joiden laiminlyönnistä tai rikkomisesta määrätään seuraamusmaksu, ovat: Hallinnollisten seuraamusten määräämisestä, julkistamisesta, täytäntöönpanosta ja käsittelystä markkinaoikeudessa säädetään Finanssivalvonnasta annetun lain 4 luvussa.",
+      "section_number": "15",
+      "chapter_number": 4,
+      "statute_id": "255/2006"
+    },
+    {
+      "id": "2d182476-0d30-460c-aedf-96635cb954a5",
+      "node_type": "Section",
+      "publisher": "finlex",
+      "title": "16 § Vahingonkorvausvelvollisuus",
+      "text": "Joukkorahoituksen välittäjä ja joukkorahoituksen saaja ovat velvollisia korvaamaan vahingon, jonka ne ovat tahallaan tai huolimattomuudesta aiheuttaneet asiakkaalleen tai muulle henkilölle tämän lain tai sen nojalla annettujen säännösten vastaisella menettelyllä. Sijoittajalla on oikeus vaatia korvausta hänelle aiheutuneesta vahingosta myös joukkorahoituksen välittäjän toimitusjohtajalta, hallituksen jäseneltä tai siihen rinnastettavan toimielimen jäseneltä sekä vastuunalaiselta yhtiömieheltä, jos vahinko on johtunut siitä, että tämä on tahallaan tai huolimattomuudesta laiminlyönyt huolehtia siitä, että toiminnassa noudatetaan 10 §:n 3 momentissa tarkoitettua kieltoa vastaanottaa asiakasvaroja, ja siitä, että asiakasvaroja säilytetään ja käsitellään mainitussa säännöksessä edellytetyllä tavalla. Vahinko katsotaan aiheutetuksi huolimattomuudesta, jollei menettelystä vastuussa oleva osoita menetelleensä huolellisesti. Vahingonkorvauksen sovitteluun ja korvausvastuun jakaantumiseen kahden tai useamman korvausvelvollisen kesken sovelletaan, mitä vahingonkorvauslain (412/1974) 2 luvussa ja 6 luvussa säädetään.",
+      "section_number": "16",
+      "chapter_number": 4,
+      "statute_id": "255/2006"
+    },
+    {
+      "id": "fcd981e2-1cac-4f02-b8a8-e44131fcde28",
+      "node_type": "Section",
+      "publisher": "finlex",
+      "title": "17 § Tietojen saatavilla pitäminen",
+      "text": "Sen estämättä, mitä viranomaisten toiminnan julkisuudesta annetun lain (621/1999) 16 §:n 3 momentissa säädetään, rekisteristä saa luovuttaa henkilötietoja tulosteena taikka saattaa ne yleisesti saataville sähköisen tietoverkon kautta tai luovuttaa ne muutoin sähköisessä muodossa. Tieto henkilötunnuksesta saadaan kuitenkin luovuttaa tämän lain nojalla vain, jos tieto annetaan tulosteena tai teknisenä tallenteena ja jos luovutuksensaajalla on oikeus henkilötunnuksen käsittelyyn henkilötietolain (523/1999) 13 §:n tai muun lain nojalla. Seuraavat rekisteriin merkityt tiedot Finanssivalvonnan on kuitenkin pidettävä yleisesti saatavilla sähköisen tietoverkon avulla: 1) elinkeinonharjoittajan nimi sekä toiminimi, mahdollinen aputoiminimi, yritys- ja yhteisötunnus tai muu vastaava tunniste, päätoimipaikka ja niiden toimipaikkojen käyntiosoite, joissa joukkorahoitusta välitetään; 2) toimitusjohtajan ja hänen sijaisensa nimi, hallituksen jäsenten ja varajäsenten nimet, hallitukseen rinnastettavan toimielimen jäsenten ja varajäsenten nimet sekä vastuunalaiset yhtiömiehet; 3) rekisteröinnin päivämäärä; 4) ilmoituksen tekijälle määrätyt julkiset varoitukset, rikemaksut ja seuraamusmaksut sekä sellaiset kiellot, joiden tehosteeksi on asetettu uhkasakko.",
+      "section_number": "17",
+      "chapter_number": 5,
+      "statute_id": "255/2006"
+    },
+    {
+      "id": "6bfd9363-e55b-45b6-88d2-3a83b4b3ab18",
+      "node_type": "Section",
+      "publisher": "finlex",
+      "title": "18 § Hyvä joukkorahoitustapa ja itsesääntely",
+      "text": "Joukkorahoitusta hankittaessa, tarjottaessa tai välitettäessä ei saa menetellä hyvän joukkorahoitustavan vastaisesti. Joukkorahoituksen välittäjän on: Edellä 2 momentissa tarkoitettu tai siihen rinnastettava toimielin voi antaa hyvien käytäntöjen noudattamisen edistämiseksi  myös  muita  kuin  2 momentissa tarkoitettuja tämän lain soveltamisalaa koskevia suosituksia. Joukkorahoituksen välittäjän on ilmoitettava Finanssivalvonnalle, mihin 2 ja 3 momentissa tarkoitettuun toimielimeen se kuuluu tai minkä toimielimen tai toimielinten antamia suosituksia se noudattaa. Finanssivalvonnan pyynnöstä toimielimen tai toimielimeen kuuluvan joukkorahoituksen välittäjän on toimitettava Finanssivalvonnalle toimielimen säännöt ja muut Finanssivalvonnan pyytämät valvonnan kannalta tarpeelliset tiedot toimielimestä. Suositukseen perustuva tai muu sopimusehto, jolla poiketaan tämän lain säännöksistä asiakkaan tai joukkorahoituksen saajan vahingoksi, on mitätön.",
+      "section_number": "18",
+      "chapter_number": 5,
+      "statute_id": "255/2006"
+    },
+    {
+      "id": "0d22cec7-7725-4b67-8ae6-52440c4513e0",
+      "node_type": "Section",
+      "publisher": "finlex",
+      "title": "19 § Salassapitovelvollisuus",
+      "text": "Joka joukkorahoituksen välittäjän toimielimen jäsenenä tai varajäsenenä, sen palveluksessa taikka sen toimeksiannosta tehtävää suorittaessaan on saanut tietää joukkorahoituksen saajan tai joukkorahoituksen välittäjän muun asiakkaan tai muun sen toimintaan liittyvän henkilön taloudellista asemaa tai yksityisen henkilökohtaisia oloja koskevan seikan taikka liike- tai ammattisalaisuuden, on velvollinen pitämään sen salassa, jollei se, jonka hyväksi vaitiolovelvollisuus on säädetty, anna suostumustaan sen ilmaisemiseen. Salassa pidettäviä tietoja ei saa myöskään antaa joukkorahoituksen välittäjän yhtiökokoukselle tai sitä vastaavan toimielimen kokoukselle eikä kokoukseen osallistuvalle osakkeenomistajalle, jäsenelle, yhtiömiehelle eikä muulle henkilölle.",
+      "section_number": "19",
+      "chapter_number": 5,
+      "statute_id": "255/2006"
+    },
+    {
+      "id": "708d435e-74e0-4352-b357-dd835c1c89e8",
+      "node_type": "Section",
+      "publisher": "finlex",
+      "title": "20 § Muutoksenhaku",
+      "text": "Muutoksenhausta Finanssivalvonnan tämän lain nojalla antamaan päätökseen säädetään Finanssivalvonnasta annetun lain 73 §:ssä. Tässä laissa tarkoitettua päätöstä rekisteristä poistamisesta on muutoksenhausta huolimatta noudatettava, jollei valitusviranomainen toisin määrää.",
+      "section_number": "20",
+      "chapter_number": 5,
+      "statute_id": "255/2006"
+    },
+    {
+      "id": "95610e30-0b24-4d4d-a6fc-99cc03b811a9",
+      "node_type": "Section",
+      "publisher": "finlex",
+      "title": "21 § Asetuksenantovaltuus",
+      "text": "Valtiovarainministeriön asetuksella voidaan antaa tarkemmat säännökset joukkorahoituksen saajan velvollisuudesta julkaista:",
+      "section_number": "21",
+      "chapter_number": 5,
+      "statute_id": "255/2006"
+    },
+    {
+      "id": "4630fc38-69e1-4ae9-88bc-317987b6d1f5",
+      "node_type": "Section",
+      "publisher": "finlex",
+      "title": "22 § Voimaantulo",
+      "text": "Tämä laki tulee voimaan 1 päivänä syyskuuta 2016.",
+      "section_number": "22",
+      "chapter_number": 5,
+      "statute_id": "255/2006"
+    },
+    {
+      "id": "f628315b-255c-455f-ab2c-96cc1e6acd26",
+      "node_type": "Section",
+      "publisher": "finlex",
+      "title": "23 § Siirtymäsäännökset",
+      "text": "Joukkorahoituksen välittäjän on jätettävä hakemus rekisteröitymisestä viimeistään kolmen kuukauden kuluttua tämän lain voimaantulosta. Se, joka tämän lain voimaan tullessa harjoittaa tämän lain mukaan rekisteröintiä edellyttävää toimintaa, saa jatkaa toimintaansa, kunnes päätös rekisteriin merkitsemisestä on tehty, jos 4 §:ssä tarkoitettu rekisteri-ilmoitus tehdään kolmen kuukauden kuluessa lain voimaantulosta. Rekisteri-ilmoitus voidaan ottaa käsiteltäväksi ennen tämän lain voimaantuloa, ja ilmoituksen tekijä voidaan rekisteröidä joukkorahoituksen välittäjien rekisteriin tämän lain tullessa voimaan. Joukkorahoituksen välittäjän on tehtävä Finanssivalvonnalle viimeistään kuuden kuukauden kuluttua tämän lain voimaantulosta ilmoitus siitä, mihin 18 §:n 2 momentissa tarkoitettuun toimielimeen se kuuluu tai mikä toimielin on antanut 18 §:n 2 ja 3 momentissa tarkoitetun suosituksen, jota joukkorahoituksen välittäjä on sitoutunut noudattamaan. Tämän lain 14 ja 15 §:ää sovelletaan kolmen kuukauden kuluttua tämän lain voimaantulosta ja 18 §:n 2―5 momenttia kuuden kuukauden kuluttua tämän lain voimaantulosta.",
+      "section_number": "23",
+      "chapter_number": 5,
+      "statute_id": "255/2006"
+    }
+  ],
+  "clauses": [
+    {
+      "id": "028a25d1-99d6-4cf5-8c8c-003aff85917a",
+      "node_type": "Clause",
+      "publisher": "finlex",
+      "title": "§ 2 mom 1",
+      "text": "9)rahastoyhtiölläsijoitusrahastolain (48/1999) 2 §:n 1 momentin 3 kohdassa tarkoitettua rahastoyhtiötä ja mainitun momentin 10 b kohdassa tarkoitettua ulkomaista ETA-rahastoyhtiötä;",
+      "clause_number": 1,
+      "section_number": "2",
+      "statute_id": "255/2006"
+    },
+    {
+      "id": "ec7076b1-3203-46c6-adf7-24cb7bbc6f99",
+      "node_type": "Clause",
+      "publisher": "finlex",
+      "title": "§ 2 mom 1",
+      "text": "10)sijoituspalveluyritykselläsijoituspalvelulain 1 luvun 9 §:n 1 momentin 1 kohdassa tarkoitettua sijoituspalveluyritystä ja mainitun momentin 2 kohdassa tarkoitettua ulkomaista sijoituspalveluyritystä;",
+      "clause_number": 1,
+      "section_number": "2",
+      "statute_id": "255/2006"
+    },
+    {
+      "id": "2f153303-e946-48d3-842b-6d49bb8526b4",
+      "node_type": "Clause",
+      "publisher": "finlex",
+      "title": "§ 2 mom 1",
+      "text": "11)vaihtoehtorahastojen hoitajallavaihtoehtorahastojen hoitajista annetun lain (162/2014) 2 luvun 2 §:n 1 momentissa tarkoitettua vaihtoehtorahastojen hoitajaa ja mainitun pykälän 2 momentissa tarkoitettua ETA-vaihtoehtorahastojen hoitajaa.",
+      "clause_number": 1,
+      "section_number": "2",
+      "statute_id": "255/2006"
+    },
+    {
+      "id": "aed6b3c5-3133-4ae9-8291-f279d85c18f0",
+      "node_type": "Clause",
+      "publisher": "finlex",
+      "title": "§ 4 mom 1",
+      "text": "1) 5 §:n 1 momentin 1 ja 2 kohdassa tarkoitetut tiedot;",
+      "clause_number": 1,
+      "section_number": "4",
+      "statute_id": "255/2006"
+    },
+    {
+      "id": "7bde2629-9516-485b-85d5-a0bd31944bb8",
+      "node_type": "Clause",
+      "publisher": "finlex",
+      "title": "§ 4 mom 1",
+      "text": "1) 5 §:n 1 momentin 1 ja 2 kohdassa tarkoitetut tiedot;",
+      "clause_number": 1,
+      "section_number": "4",
+      "statute_id": "255/2006"
+    },
+    {
+      "id": "daaa964f-84e7-43a8-999f-9b5a03d44d58",
+      "node_type": "Clause",
+      "publisher": "finlex",
+      "title": "§ 4 mom 2",
+      "text": "2) selvitys 7 §:n 2 momentissa tarkoitetuista henkilöistä, joiden luotettavuus ja rahoitusmarkkinoiden toiminnan tuntemus tulee arvioitavaksi;",
+      "clause_number": 2,
+      "section_number": "4",
+      "statute_id": "255/2006"
+    },
+    {
+      "id": "bc94fbb1-5fff-4bd8-9f7f-41c894b90aa4",
+      "node_type": "Clause",
+      "publisher": "finlex",
+      "title": "§ 4 mom 2",
+      "text": "2) selvitys 7 §:n 2 momentissa tarkoitetuista henkilöistä, joiden luotettavuus ja rahoitusmarkkinoiden toiminnan tuntemus tulee arvioitavaksi;",
+      "clause_number": 2,
+      "section_number": "4",
+      "statute_id": "255/2006"
+    },
+    {
+      "id": "6b557256-e445-4ff8-ace6-bd00d9222b6b",
+      "node_type": "Clause",
+      "publisher": "finlex",
+      "title": "§ 4 mom 3",
+      "text": "3) selvitys 7 §:ssä tarkoitettujen henkilöiden koulutuksesta ja työkokemuksesta.",
+      "clause_number": 3,
+      "section_number": "4",
+      "statute_id": "255/2006"
+    },
+    {
+      "id": "4ee5eb23-0d2f-49b9-9e91-b44073be99d5",
+      "node_type": "Clause",
+      "publisher": "finlex",
+      "title": "§ 5 mom 1",
+      "text": "1) elinkeinonharjoittajan täydellinen nimi ja henkilötunnus tai tämän puuttuessa syntymäaika, toiminimi, aputoiminimi, yritys- ja yhteisötunnus tai muu vastaava tunniste sekä niiden toimipaikkojen käyntiosoite, joissa joukkorahoitusta välitetään;",
+      "clause_number": 1,
+      "section_number": "5",
+      "statute_id": "255/2006"
+    },
+    {
+      "id": "28949e8c-dc96-4abc-84e7-24bcbd27a9ae",
+      "node_type": "Clause",
+      "publisher": "finlex",
+      "title": "§ 5 mom 2",
+      "text": "2) niiden henkilöiden täydellinen nimi ja henkilötunnus tai tämän puuttuessa syntymäaika, joiden luotettavuus ja rahoitusmarkkinoiden toiminnan tuntemus on rekisteri-ilmoitusta käsiteltäessä selvitetty;",
+      "clause_number": 2,
+      "section_number": "5",
+      "statute_id": "255/2006"
+    },
+    {
+      "id": "eb75cd0a-cde8-47c3-b531-dfeb3761f277",
+      "node_type": "Clause",
+      "publisher": "finlex",
+      "title": "§ 5 mom 3",
+      "text": "3) Finanssivalvonnan antama rekisteritunnus ja rekisteröinnin päivämäärä;",
+      "clause_number": 3,
+      "section_number": "5",
+      "statute_id": "255/2006"
+    },
+    {
+      "id": "eb6e55e3-4495-465f-ace9-b683d85fdddf",
+      "node_type": "Clause",
+      "publisher": "finlex",
+      "title": "§ 5 mom 4",
+      "text": "4) rekisteristä poistamisen syy ja ajankohta;",
+      "clause_number": 4,
+      "section_number": "5",
+      "statute_id": "255/2006"
+    },
+    {
+      "id": "82edaee5-7253-4937-b040-57341220196c",
+      "node_type": "Clause",
+      "publisher": "finlex",
+      "title": "§ 5 mom 5",
+      "text": "5) ilmoituksen tekijälle määrätyt julkiset varoitukset, rikemaksut ja seuraamusmaksut sekä sellaiset kiellot, joiden tehosteeksi on asetettu uhkasakko.",
+      "clause_number": 5,
+      "section_number": "5",
+      "statute_id": "255/2006"
+    },
+    {
+      "id": "31981324-eda6-42cc-8b1e-ebf2c2f6c884",
+      "node_type": "Clause",
+      "publisher": "finlex",
+      "title": "§ 6 mom 1",
+      "text": "1) ilmoituksen tekijällä on oikeus harjoittaa elinkeinoa Suomessa;",
+      "clause_number": 1,
+      "section_number": "6",
+      "statute_id": "255/2006"
+    },
+    {
+      "id": "a22c2382-ad55-4380-9d8d-b89356b0f7ca",
+      "node_type": "Clause",
+      "publisher": "finlex",
+      "title": "§ 6 mom 2",
+      "text": "2) ilmoituksen tekijä ei ole konkurssissa ja, jos ilmoituksen tekijä on luonnollinen henkilö, hän on täysi-ikäinen eikä hänen toimintakelpoisuuttaan ole rajoitettu;",
+      "clause_number": 2,
+      "section_number": "6",
+      "statute_id": "255/2006"
+    },
+    {
+      "id": "9ae3c1c0-31a4-49aa-95f5-ba0ab228f4a7",
+      "node_type": "Clause",
+      "publisher": "finlex",
+      "title": "§ 6 mom 3",
+      "text": "3) ilmoituksen tekijä ei ole yrityksen saneerausmenettelyssä tai yksityishenkilön velkajärjestelyssä;",
+      "clause_number": 3,
+      "section_number": "6",
+      "statute_id": "255/2006"
+    },
+    {
+      "id": "fe87f039-84b2-4967-ab25-f1145f40a9a5",
+      "node_type": "Clause",
+      "publisher": "finlex",
+      "title": "§ 6 mom 4",
+      "text": "4) ilmoituksen tekijä on luotettava;",
+      "clause_number": 4,
+      "section_number": "6",
+      "statute_id": "255/2006"
+    },
+    {
+      "id": "ea8d6d2a-1599-4e82-8bd6-19b87df701c8",
+      "node_type": "Clause",
+      "publisher": "finlex",
+      "title": "§ 6 mom 5",
+      "text": "5) ilmoituksen tekijällä on sellainen rahoitusmarkkinoiden toiminnan tuntemus kuin joukkorahoituksen välityksen luonteeseen ja laajuuteen katsoen on tarpeen;",
+      "clause_number": 5,
+      "section_number": "6",
+      "statute_id": "255/2006"
+    },
+    {
+      "id": "32ac219f-859b-4f5b-aef3-b6fce2e5a65b",
+      "node_type": "Clause",
+      "publisher": "finlex",
+      "title": "§ 6 mom 6",
+      "text": "6) muut tässä pykälässä säädetyt rekisteröinnin edellytykset täyttyvät.",
+      "clause_number": 6,
+      "section_number": "6",
+      "statute_id": "255/2006"
+    },
+    {
+      "id": "f8e61b40-479e-40cd-996a-9b664bf3e5a3",
+      "node_type": "Clause",
+      "publisher": "finlex",
+      "title": "§ 6 mom 1",
+      "text": "1) vakuutus on voimassa niiden vahinkojen korvaamiseksi, joista joukkorahoituksen välittäjä on tämän lain mukaan vastuussa;",
+      "clause_number": 1,
+      "section_number": "6",
+      "statute_id": "255/2006"
+    },
+    {
+      "id": "a143a6b0-9b2b-4ccb-bab2-89a5f292ef59",
+      "node_type": "Clause",
+      "publisher": "finlex",
+      "title": "§ 6 mom 2",
+      "text": "2) vakuutuksen määrä on vähintään 1 000 000 euroa vahinkoa kohti ja yhteensä 1 500 000 euroa kaikkien vahinkojen osalta vuotta kohti;",
+      "clause_number": 2,
+      "section_number": "6",
+      "statute_id": "255/2006"
+    },
+    {
+      "id": "c9248c85-7944-4350-ace6-6a18f70d1a2f",
+      "node_type": "Clause",
+      "publisher": "finlex",
+      "title": "§ 6 mom 3",
+      "text": "3) jos vakuutukseen sisältyy omavastuu, vakuutuksenantaja suorittaa vakuutuskorvauksen vahingon kärsineelle omavastuuta vähentämättä;",
+      "clause_number": 3,
+      "section_number": "6",
+      "statute_id": "255/2006"
+    },
+    {
+      "id": "50a7b533-280b-421e-b1ff-80ff4558e511",
+      "node_type": "Clause",
+      "publisher": "finlex",
+      "title": "§ 6 mom 4",
+      "text": "4) vakuutuksesta korvataan vahinko, joka on syntynyt vakuutuskauden aikana tapahtuneen teon tai laiminlyönnin seurauksena ja jonka korvaamisesta on esitetty kirjallinen vaatimus ilmoituksen tekijälle tai vakuutuksenantajalle vakuutuksen voimassaoloaikana tai kolmen vuoden kuluessa vakuutuksen päättymisestä.",
+      "clause_number": 4,
+      "section_number": "6",
+      "statute_id": "255/2006"
+    },
+    {
+      "id": "7f2fd11d-e066-4f47-8efc-cecac1c9c414",
+      "node_type": "Clause",
+      "publisher": "finlex",
+      "title": "§ 8 mom 1",
+      "text": "1) joukkorahoituksen välittäjä on lopettanut toimintansa;",
+      "clause_number": 1,
+      "section_number": "8",
+      "statute_id": "255/2006"
+    },
+    {
+      "id": "cbf47cc6-c3bf-41e9-b9bd-b1988ac868c5",
+      "node_type": "Clause",
+      "publisher": "finlex",
+      "title": "§ 8 mom 1",
+      "text": "2) 6 §:n 1 momentin 1, 2 ja 4 kohdassa säädetyt rekisteröinnin edellytykset eivät enää täyty;",
+      "clause_number": 1,
+      "section_number": "8",
+      "statute_id": "255/2006"
+    },
+    {
+      "id": "6ab5ad6a-c3da-49c3-b926-1833c2c74a5c",
+      "node_type": "Clause",
+      "publisher": "finlex",
+      "title": "§ 8 mom 2",
+      "text": "2) 6 §:n 1 momentin 1, 2 ja 4 kohdassa säädetyt rekisteröinnin edellytykset eivät enää täyty;",
+      "clause_number": 2,
+      "section_number": "8",
+      "statute_id": "255/2006"
+    },
+    {
+      "id": "a0aeb24a-bb4a-4025-8f20-51efcdae6609",
+      "node_type": "Clause",
+      "publisher": "finlex",
+      "title": "§ 8 mom 3",
+      "text": "3) joukkorahoituksen välittäjä toimii toisen välikätenä;",
+      "clause_number": 3,
+      "section_number": "8",
+      "statute_id": "255/2006"
+    },
+    {
+      "id": "95cdcc4a-efba-40b8-91c4-54dfd125a91d",
+      "node_type": "Clause",
+      "publisher": "finlex",
+      "title": "§ 8 mom 1",
+      "text": "4) 6 §:n 1 momentin 5 kohdassa taikka 2 momentissa säädetty rekisteröinnin edellytys ei enää täyty eikä joukkorahoituksen välittäjä ole Finanssivalvonnan antamassa kehotuksessa asetetussa määräajassa täyttänyt edellytystä; tai",
+      "clause_number": 1,
+      "section_number": "8",
+      "statute_id": "255/2006"
+    },
+    {
+      "id": "6b56a59c-6641-4251-8296-cb28886aec10",
+      "node_type": "Clause",
+      "publisher": "finlex",
+      "title": "§ 8 mom 4",
+      "text": "4) 6 §:n 1 momentin 5 kohdassa taikka 2 momentissa säädetty rekisteröinnin edellytys ei enää täyty eikä joukkorahoituksen välittäjä ole Finanssivalvonnan antamassa kehotuksessa asetetussa määräajassa täyttänyt edellytystä; tai",
+      "clause_number": 4,
+      "section_number": "8",
+      "statute_id": "255/2006"
+    },
+    {
+      "id": "768d7639-eda0-4af3-acda-966f95a0d03f",
+      "node_type": "Clause",
+      "publisher": "finlex",
+      "title": "§ 8 mom 5",
+      "text": "5) joukkorahoituksen välittäjän tai sen ylimmän johdon toiminnassa ilmenee vakavia tai toistuvia laiminlyöntejä.",
+      "clause_number": 5,
+      "section_number": "8",
+      "statute_id": "255/2006"
+    },
+    {
+      "id": "d6a3bad8-5b2c-42a5-862c-3f056764ad48",
+      "node_type": "Clause",
+      "publisher": "finlex",
+      "title": "§ 10 mom 1",
+      "text": "1) 18 §:n 1 momentissa tarkoitettua hyvää joukkorahoitustapaa;",
+      "clause_number": 1,
+      "section_number": "10",
+      "statute_id": "255/2006"
+    },
+    {
+      "id": "5fbc9cef-b7b2-4945-ac31-d5c0e7fe99a4",
+      "node_type": "Clause",
+      "publisher": "finlex",
+      "title": "§ 10 mom 1",
+      "text": "1) 18 §:n 1 momentissa tarkoitettua hyvää joukkorahoitustapaa;",
+      "clause_number": 1,
+      "section_number": "10",
+      "statute_id": "255/2006"
+    },
+    {
+      "id": "09be516e-357b-4f4b-8522-18575ed78e49",
+      "node_type": "Clause",
+      "publisher": "finlex",
+      "title": "§ 10 mom 2",
+      "text": "2) sijoituspalvelulain 7 luvun 10 §:n säännöksiä eturistiriitatilanteiden hallinnasta;",
+      "clause_number": 2,
+      "section_number": "10",
+      "statute_id": "255/2006"
+    },
+    {
+      "id": "f07ec673-88cf-4edc-b84a-5670c30cc0b2",
+      "node_type": "Clause",
+      "publisher": "finlex",
+      "title": "§ 10 mom 3",
+      "text": "3) sijoituspalvelulain 10 luvun 4 §:n säännöksiä asiakasta koskevien tietojen hankkimisesta, jos sijoitus ylittää 2 000 euroa, 5 §:n säännöksiä tiedonantovelvollisuudesta, 9 §:n säännöksiä liiketoimista ja palveluista säilytettävistä tiedoista, 10 §:n säännöksiä puhelujen tallentamisesta ja 13 §:n säännöksiä asiakasvalitusten käsittelystä.",
+      "clause_number": 3,
+      "section_number": "10",
+      "statute_id": "255/2006"
+    },
+    {
+      "id": "ccc16fca-3a54-400d-9b21-72c2550b6eb6",
+      "node_type": "Clause",
+      "publisher": "finlex",
+      "title": "§ 15 mom 1",
+      "text": "1) tämän lain 10 §:ssä mainitut sijoituspalvelulain 7 luvun 10 §:n säännökset eturistiriitojen hallinnasta;",
+      "clause_number": 1,
+      "section_number": "15",
+      "statute_id": "255/2006"
+    },
+    {
+      "id": "a33eeb6d-385e-4305-94b8-2321d9d5b586",
+      "node_type": "Clause",
+      "publisher": "finlex",
+      "title": "§ 15 mom 2",
+      "text": "2) tämän lain 10 §:ssä mainitut sijoituspalvelulain 10 luvun 4 §:n säännökset asiakasta koskevien tietojen hankkimisesta, jos sijoitus ylittää 2 000 euroa, 5 §:n säännökset tiedonantovelvollisuudesta, 9 §:n säännökset liiketoimista ja palveluista säilytettävistä tiedoista, 10 §:n säännökset puhelujen tallentamisesta ja 13 §:n säännökset asiakasvalitusten käsittelystä;",
+      "clause_number": 2,
+      "section_number": "15",
+      "statute_id": "255/2006"
+    },
+    {
+      "id": "2bf2f092-dfc5-4c24-ba6e-8b898ef81e2f",
+      "node_type": "Clause",
+      "publisher": "finlex",
+      "title": "§ 15 mom 3",
+      "text": "3) tämän lain 10 §:ssä tarkoitetut säännökset asiakasvarojen hallinnasta ja hallussapidosta, 12 §:n säännökset asiakkaan tuntemisvelvollisuudesta sekä 11 §:n säännökset ja 21 §:n nojalla annetut säännökset tiedonantovelvollisuudesta.",
+      "clause_number": 3,
+      "section_number": "15",
+      "statute_id": "255/2006"
+    },
+    {
+      "id": "292d9e58-e3fe-4bca-b9ae-fddecf0dcca7",
+      "node_type": "Clause",
+      "publisher": "finlex",
+      "title": "§ 18 mom 1",
+      "text": "1) suoraan tai välillisesti kuuluttava riippumattomaan, alan toimijoita laajasti edustavaan Suomessa tai ETA-alueella perustettuun toimielimeen, joka on antanut suosituksen joukkorahoituksen välitystä koskevan avoimuuden ja läpinäkyvyyden edistämiseksi; taikka",
+      "clause_number": 1,
+      "section_number": "18",
+      "statute_id": "255/2006"
+    },
+    {
+      "id": "02e6b87e-b2c7-4635-abf0-4ac56b35822f",
+      "node_type": "Clause",
+      "publisher": "finlex",
+      "title": "§ 18 mom 2",
+      "text": "2) sitouduttava noudattamaan kyseisen toimielimen antamia suosituksia tai julkistettava perustelut sille, miksei se ole niihin sitoutunut.",
+      "clause_number": 2,
+      "section_number": "18",
+      "statute_id": "255/2006"
+    },
+    {
+      "id": "30a032ad-33ae-4bbb-be8b-0f246978fe90",
+      "node_type": "Clause",
+      "publisher": "finlex",
+      "title": "§ 21 mom 2",
+      "text": "1) 11 §:n 2 momentissa tarkoitetut oikeat ja riittävät tiedot, kun arvopapereiden yleisölle tarjoamisen tai kaupankäynnin kohteeksi ottamisen yhteydessä julkistettavasta esitteestä ja direktiivin 2001/34/EY muuttamisesta annettua Euroopan parlamentin ja neuvoston direktiiviä 2003/71/EY ei sovelleta tarjoukseen;",
+      "clause_number": 2,
+      "section_number": "21",
+      "statute_id": "255/2006"
+    },
+    {
+      "id": "34b89672-245f-471c-a5e1-8bfb7098bcd3",
+      "node_type": "Clause",
+      "publisher": "finlex",
+      "title": "§ 21 mom 1",
+      "text": "1) 11 §:n 2 momentissa tarkoitetut oikeat ja riittävät tiedot, kun arvopapereiden yleisölle tarjoamisen tai kaupankäynnin kohteeksi ottamisen yhteydessä julkistettavasta esitteestä ja direktiivin 2001/34/EY muuttamisesta annettua Euroopan parlamentin ja neuvoston direktiiviä 2003/71/EY ei sovelleta tarjoukseen;",
+      "clause_number": 1,
+      "section_number": "21",
+      "statute_id": "255/2006"
+    },
+    {
+      "id": "a92c973b-10dd-45a8-bbe3-474878545a90",
+      "node_type": "Clause",
+      "publisher": "finlex",
+      "title": "§ 21 mom 2",
+      "text": "2) 11 §:ssä tarkoitettujen oikeiden ja riittävien tietojen rakenne ja sisältö sellaisesta tarjouksesta, joka on vastikkeeltaan 12 kuukauden ajalta laskettuna Suomessa yhteensä alle 5 000 000 euroa.",
+      "clause_number": 2,
+      "section_number": "21",
+      "statute_id": "255/2006"
+    }
+  ],
+  "cross_references": [
+    {
+      "raw_text": "pykälän 2 momentissa t",
+      "statute_id": "255/2006",
+      "section_number": "2 momentissa t",
+      "clause_number": null,
+      "resolution_confidence": 0.0
+    }
+  ],
+  "raw_html_path": "C:\\Users\\danit\\finance-hack\\aalto-hackaton-2026\\data\\raw\\finlex\\Laki (säädöskokoelma)\\Joukkorahoituslaki.html"
+}

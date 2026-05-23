@@ -1,0 +1,1639 @@
+{
+  "statute": {
+    "id": "38f7365f-e222-4821-af32-f4dc158db0ec",
+    "node_type": "Statute",
+    "publisher": "finlex",
+    "title": "Päästökauppalaki",
+    "text": "Päästökauppalaki",
+    "statute_id": "",
+    "finlex_url": ""
+  },
+  "chapters": [
+    {
+      "id": "c2888e80-2462-42c2-8955-7af8ae9e8643",
+      "node_type": "Chapter",
+      "publisher": "finlex",
+      "title": "Chapter 1",
+      "text": "1 luku Yleiset säännökset",
+      "chapter_number": 1,
+      "statute_id": ""
+    },
+    {
+      "id": "1dd9bb96-83fc-412f-bbce-0a7a860b1797",
+      "node_type": "Chapter",
+      "publisher": "finlex",
+      "title": "Chapter 2",
+      "text": "2 luku Kasvihuonekaasujen päästölupa",
+      "chapter_number": 2,
+      "statute_id": ""
+    },
+    {
+      "id": "639639ee-2b8f-46ea-8ae8-c1dc57250498",
+      "node_type": "Chapter",
+      "publisher": "finlex",
+      "title": "Chapter 3",
+      "text": "3 luku Kansallinen jakosuunnitelmaesitys ja päästöoikeuksien jakoperusteet",
+      "chapter_number": 3,
+      "statute_id": ""
+    },
+    {
+      "id": "8a1d604c-eda2-4d50-803e-2623181c1875",
+      "node_type": "Chapter",
+      "publisher": "finlex",
+      "title": "Chapter 4",
+      "text": "4 luku Päätös kansallisesta jakosuunnitelmaesityksestä ja päästöoikeuksien myöntäminen",
+      "chapter_number": 4,
+      "statute_id": ""
+    },
+    {
+      "id": "2f5f42db-db15-4d4f-98a8-f1e9cb4ca2e2",
+      "node_type": "Chapter",
+      "publisher": "finlex",
+      "title": "Chapter 5",
+      "text": "5 luku Rekisteri",
+      "chapter_number": 5,
+      "statute_id": ""
+    },
+    {
+      "id": "144b4ee7-299c-404f-a217-7c3b0f0fc358",
+      "node_type": "Chapter",
+      "publisher": "finlex",
+      "title": "Chapter 6",
+      "text": "6 luku Päästöoikeuksien kirjaaminen, palauttaminen, mitätöinti ja voimassaolo",
+      "chapter_number": 6,
+      "statute_id": ""
+    },
+    {
+      "id": "fd0802b9-0c0d-4a9a-98db-9e6db7182d26",
+      "node_type": "Chapter",
+      "publisher": "finlex",
+      "title": "Chapter 7",
+      "text": "7 luku Päästöjen tarkkailu, ilmoittaminen ja todentaminen",
+      "chapter_number": 7,
+      "statute_id": ""
+    },
+    {
+      "id": "325f97b0-5180-4e7e-85f7-5254f230e560",
+      "node_type": "Chapter",
+      "publisher": "finlex",
+      "title": "Chapter 8",
+      "text": "8 luku Valvonta ja seuraamukset",
+      "chapter_number": 8,
+      "statute_id": ""
+    },
+    {
+      "id": "86ee9f2d-804d-4699-b23e-68a47a037a3d",
+      "node_type": "Chapter",
+      "publisher": "finlex",
+      "title": "Chapter 9",
+      "text": "9 luku Muutoksenhaku ja päätöksen täytäntöönpano",
+      "chapter_number": 9,
+      "statute_id": ""
+    },
+    {
+      "id": "c810fda5-0779-4d3d-ad8f-a4e6cf365bd1",
+      "node_type": "Chapter",
+      "publisher": "finlex",
+      "title": "Chapter 10",
+      "text": "10 luku Voimaantulo",
+      "chapter_number": 10,
+      "statute_id": ""
+    }
+  ],
+  "sections": [
+    {
+      "id": "6861977b-c58a-4e35-8501-dae37182a949",
+      "node_type": "Section",
+      "publisher": "finlex",
+      "title": "1 § Lain tarkoitus",
+      "text": "Tämän lain tarkoituksena on edistää kasvihuonekaasupäästöjen vähentämistä kustannustehokkaasti ja taloudellisesti. Tällä lailla pannaan täytäntöön kasvihuonekaasujen päästöoikeuksien kaupan järjestelmän toteuttamisesta yhteisössä ja neuvoston direktiivin 96/61/EY muuttamisesta annettu Euroopan parlamentin ja neuvoston direktiivi (2003/87/EY), jäljempänä päästökauppadirektiivi.",
+      "section_number": "1",
+      "chapter_number": 1,
+      "statute_id": ""
+    },
+    {
+      "id": "de7641df-5b85-4eb1-b90f-72cfa4305f18",
+      "node_type": "Section",
+      "publisher": "finlex",
+      "title": "2 § Soveltamisala",
+      "text": "Tätä lakia sovelletaan seuraavien toimintojen hiilidioksidipäästöihin: Tätä lakia ei sovelleta laitokseen tai sen osaan, jonka pääasiallinen tarkoitus on uusien tuotteiden tai menetelmien tutkiminen, kehittäminen tai testaaminen.",
+      "section_number": "2",
+      "chapter_number": 1,
+      "statute_id": ""
+    },
+    {
+      "id": "13096069-0a4b-4c8d-b36c-a4b5b82cbde2",
+      "node_type": "Section",
+      "publisher": "finlex",
+      "title": "3 § Kapasiteetin yhteen laskeminen",
+      "text": "Jos sama toiminnanharjoittaja harjoittaa useampaa saman 2 §:n 1 momentissa tarkoitetun alakohdan piiriin kuuluvaa toimintaa samassa laitoksessa tai samalla sijaintipaikalla, toimintojen kapasiteetit lasketaan yhteen. Toimintojen kuuluminen tämän lain soveltamisalaan ratkaistaan yhteenlaskettujen kapasiteettien perusteella. Yhteenlasketut sellaisten toimintojen kapasiteetit, joilla lain voimaan tullessa on sama toiminnanharjoittaja, kuuluvat päästökauppakaudella 2005―2007 lain soveltamisalaan päästökauppakauden loppuun saakka, vaikka jonkun tai joidenkin toimintojen toiminnanharjoittaja vaihtuu. Seuraavilla päästökauppakausilla yhteenlasketut sellaisten toimintojen kapasiteetit, jotka sisältyvät asianomaisen päästökauppakauden kansalliseen jakosuunnitelmaesitykseen, kuuluvat lain soveltamisalaan asianomaisen kauden loppuun, vaikka jonkun tai joidenkin toimintojen toiminnanharjoittaja vaihtuu. Toiminnanharjoittajien velvollisuuksista säädetään 6 §:ssä.",
+      "section_number": "3",
+      "chapter_number": 1,
+      "statute_id": ""
+    },
+    {
+      "id": "a200e0f4-ee0c-4954-ae9f-2ceb9f09b56f",
+      "node_type": "Section",
+      "publisher": "finlex",
+      "title": "4 § Lain soveltaminen kaukolämpöverkkoon liitettyihin laitoksiin",
+      "text": "Tätä lakia sovelletaan myös 2 §:n 1 momentin 1 kohdan a alakohdan mainitun kapasiteetin alittavien laitosten hiilidioksidipäästöihin, jos laitoksen pääasiallinen tarkoitus on lämmön tuottaminen kaukolämpöverkkoon. Lisäksi edellytetään, että vähintään yhden samaan kaukolämpöverkkoon liitetyn polttolaitoksen nimellinen lämpöteho on yli 20 megawattia ja se tuottaa lämpöä toimitettavaksi pääasiassa kaukolämpöverkkoon. Soveltamisen edellytyksenä on myös, että Euroopan yhteisöjen komissio hyväksyy kyseisten laitosten sisällyttämisen päästöoikeuksien kaupan järjestelmään. Edellä 1 momentissa tarkoitetut laitokset sisällytetään 34 §:ssä tarkoitettuun kansalliseen jakosuunnitelmaesitykseen. Komission hyväksymistä haetaan 36 §:ssä tarkoitetun ilmoittamisen yhteydessä.",
+      "section_number": "4",
+      "chapter_number": 1,
+      "statute_id": ""
+    },
+    {
+      "id": "61c8fe72-3017-4194-8c69-2ebedcdcd8a7",
+      "node_type": "Section",
+      "publisher": "finlex",
+      "title": "5 § Määritelmät",
+      "text": "Tässä laissa tarkoitetaan:",
+      "section_number": "5",
+      "chapter_number": 1,
+      "statute_id": ""
+    },
+    {
+      "id": "8da976af-d541-4668-b26c-768a587f65bb",
+      "node_type": "Section",
+      "publisher": "finlex",
+      "title": "6 § Toiminnanharjoittajan yleiset velvollisuudet",
+      "text": "Toiminnanharjoittajan on:",
+      "section_number": "6",
+      "chapter_number": 1,
+      "statute_id": ""
+    },
+    {
+      "id": "537816ff-ca19-4146-88df-09ff3635225f",
+      "node_type": "Section",
+      "publisher": "finlex",
+      "title": "7 § Luvan tarve",
+      "text": "Laitoksella on oltava kasvihuonekaasujen päästölupa. Luvan myöntää päästökauppaviranomainen. Lupa myönnetään toistaiseksi tai erityisistä syistä määräajaksi. Velvoite hakea lupa koskee päästökauppakaudella 2005―2007 ainoastaan hiilidioksidipäästöjä. Edellä 4 §:ssä tarkoitetuille laitoksille on haettava lupaa ja lupa voidaan myöntää 8―10 §:n mukaisesti ehdolla, että lupa on voimassa, jos Euroopan yhteisöjen komissio hyväksyy kyseiset laitokset päästöoikeuksien kaupan järjestelmään. Jos komission hyväksyntää ei saada, lupahakemuksen käsittely, tai jos lupa on jo myönnetty, kasvihuonekaasujen päästölupa raukeaa.",
+      "section_number": "7",
+      "chapter_number": 2,
+      "statute_id": ""
+    },
+    {
+      "id": "1f04f138-61ea-46bc-9165-6e0414661094",
+      "node_type": "Section",
+      "publisher": "finlex",
+      "title": "8 § Lupahakemus",
+      "text": "Hakemukseen on liitettävä lupaharkinnan kannalta tarpeellinen selvitys laitoksesta, sen toiminnasta ja päästöjen lähteistä sekä suunnitelma päästöjen tarkkailemiseksi ja päästöistä laadittavien selvitysten toimittamiseksi päästökauppaviranomaiselle. Lisäksi päästökauppaviranomaiselle on ennen luvan myöntämistä toimitettava selvitys siitä, että laitoksen toimintaa saa harjoittaa ympäristönsuojelulainsäädännön nojalla. Lupahakemuksen tarkemmasta sisällöstä säädetään valtioneuvoston asetuksella. Lupahakemus on toimitettava päästökauppaviranomaiselle vähintään kuusi kuukautta ennen toiminnan suunniteltua aloittamista. Tämän lain voimaan tullessa toiminnassa oleville laitoksille on haettava kasvihuonekaasujen päästölupa kahden kuukauden kuluessa lain voimaantulosta. Lupahakemukseen liitettävää päästöjen tarkkailusuunnitelmaa voidaan täydentää neljän kuukauden kuluessa lain voimaantulosta. Päästökauppaviranomaisen on tehtävä lupaa koskeva päätös neljän kuukauden kuluessa lain voimaantulosta tai viimeistään kahden kuukauden kuluttua siitä, kun hakemus ja sen täydennykset on toimitettu päästökauppaviranomaiselle, jos jälkimmäinen ajankohta on myöhempi.",
+      "section_number": "8",
+      "chapter_number": 2,
+      "statute_id": ""
+    },
+    {
+      "id": "ed6905fc-5748-4c27-a602-6c09cd8950e3",
+      "node_type": "Section",
+      "publisher": "finlex",
+      "title": "9 § Luvan myöntämisen edellytykset",
+      "text": "Kasvihuonekaasujen päästölupa myönnetään toiminnanharjoittajalle laitosta tai sen osaa koskien, jos: Päästölupa voidaan myöntää, vaikka päätös ympäristönsuojelulain (86/2000) mukaisesta luvasta ei ole lainvoimainen.",
+      "section_number": "9",
+      "chapter_number": 2,
+      "statute_id": ""
+    },
+    {
+      "id": "32383403-50e2-4360-8030-20605defd967",
+      "node_type": "Section",
+      "publisher": "finlex",
+      "title": "10 § Lupapäätös",
+      "text": "Kasvihuonekaasujen päästölupa voi koskea saman toiminnanharjoittajan samalla sijaintipaikalla olevaa yhtä tai useampaa laitosta. Kasvihuonekaasujen päästölupa voi erityisestä syystä koskea useamman toiminnanharjoittajan samalla sijaintipaikalla olevaa yhtä tai useampaa laitosta. Jos useampi toiminnanharjoittaja on hakenut yhdessä päästölupaa, vastaavat ne luvan velvoitteiden täyttämisestä yhteisvastuullisesti. Toiminnanharjoittajien on lupaa hakiessaan nimettävä taho, joka vastaa yhteydenpidosta viranomaisiin. Luvan tulee sisältää tiedot toiminnanharjoittajasta, päästöistä ja niiden lähteistä, laitoksen toiminnasta sekä seuraavat lupaehdot:",
+      "section_number": "10",
+      "chapter_number": 2,
+      "statute_id": ""
+    },
+    {
+      "id": "1af47d54-0e81-414f-8781-d5a3f9bcf575",
+      "node_type": "Section",
+      "publisher": "finlex",
+      "title": "11 § Luvan muuttaminen ja tarkistaminen",
+      "text": "Toiminnanharjoittajan on ilmoitettava ennakkoon päästökauppaviranomaiselle kaikista sellaisista laitoksen laajennuksista, toiminnan muutoksista taikka päästöjen tarkkailua koskevista muutoksista, jotka voivat edellyttää kasvihuonekaasujen päästöluvan muuttamista tai päästöjen tarkkailua koskevien lupaehtojen tarkistamista. Toiminnanharjoittajan ilmoituksen johdosta päästökauppaviranomainen voi muuttaa luvan tai tarkistaa päästöjen tarkkailua koskevia lupaehtoja. Päästökauppaviranomaisen on käsiteltävä luvan muuttamista ja lupaehtojen tarkistamista koskeva asia kuten lupahakemus. Jos Euroopan yhteisöjen komission päästökauppadirektiivin nojalla antamat päästöjen tarkkailua koskevat ohjeet edellyttävät lupaehtojen tarkistamista, on päästökauppaviranomaisen kehotettava toiminnanharjoittajaa esittämään lupaehtojen tarkistamista varten tarkistettu suunnitelma päästöjen tarkkailemiseksi. Toiminnanharjoittajan on toimitettava tarkistettu suunnitelma päästökauppaviranomaisen asettamassa määräajassa.",
+      "section_number": "11",
+      "chapter_number": 2,
+      "statute_id": ""
+    },
+    {
+      "id": "b61d3aec-e401-408f-b29a-df5df6aec406",
+      "node_type": "Section",
+      "publisher": "finlex",
+      "title": "12 § Toiminnanharjoittajan vaihtuminen",
+      "text": "Uuden toiminnanharjoittajan on ilmoitettava päästökauppaviranomaiselle toiminnanharjoittajan vaihtumisesta. Päästökauppaviranomaisen on ilmoituksen johdosta tarkistettava kasvihuonekaasujen päästölupa 30 päivän kuluessa siitä, kun ilmoitus ja tarpeelliset selvitykset on toimitettu viranomaiselle, tai toiminnanharjoittajien sopimasta myöhemmästä ajankohdasta lukien. Lupaan on merkittävä tiedot uudesta toiminnanharjoittajasta. Uusi toiminnanharjoittaja vastaa 6 §:ssä tarkoitetuista velvollisuuksista ja 10 §:ssä tarkoitettujen lupaehtojen täyttämisestä luvan tarkistamispäivästä alkaen. Jos samaan kasvihuonekaasujen päästölupaan sisältyvästä laitoksen tai laitosten toiminnasta ainoastaan osa siirtyy uudelle toiminnanharjoittajalle, on noudatettava luvan myöntämistä ja muuttamista koskevia säännöksiä lukuun ottamatta luvan hakemiselle 8 §:n 2 momentissa asetettua määräaikaa. Päästökauppaviranomaisen on ilmoituksen johdosta tehtävä päätös luvan myöntämisestä ja muuttamisesta 30 päivän kuluessa siitä, kun ilmoitus ja tarpeelliset selvitykset ja suunnitelmat on toimitettu viranomaiselle, tai toiminnanharjoittajien sopimasta myöhemmästä ajankohdasta lukien. Uusi toiminnanharjoittaja vastaa määräysvallassaan olevan laitoksen osalta 6 §:ssä tarkoitetuista velvollisuuksista ja 10 §:ssä tarkoitettujen lupaehtojen täyttämisestä siitä alkaen, kun hänelle on myönnetty kasvihuonekaasujen päästölupa.",
+      "section_number": "12",
+      "chapter_number": 2,
+      "statute_id": ""
+    },
+    {
+      "id": "880495ed-4ac1-4b8f-8aba-c01be7716076",
+      "node_type": "Section",
+      "publisher": "finlex",
+      "title": "13 § Luvan peruuttaminen",
+      "text": "Toiminnanharjoittajan on ilmoitettava päästökauppaviranomaiselle laitoksen pysyvästä käytöstä poistamisesta ja laitoksen toimintaa koskevan luvan raukeamisesta ympäristönsuojelulain 57 §:n perusteella tai luvan peruuttamisesta ympäristönsuojelulain 59 §:n perusteella. Päästökauppaviranomaisen on peruutettava kasvihuonekaasujen päästölupa, jos: Päästökauppaviranomainen voi peruuttaa kasvihuonekaasujen päästöluvan, jos: Kasvihuonekaasujen päästöluvan peruuttamista koskevan asian voi panna vireille toiminnanharjoittaja tai päästökauppaviranomainen.",
+      "section_number": "13",
+      "chapter_number": 2,
+      "statute_id": ""
+    },
+    {
+      "id": "c983ea9e-bbf1-477a-9b91-a88933f68e62",
+      "node_type": "Section",
+      "publisher": "finlex",
+      "title": "14 § Kansallinen jakosuunnitelmaesitys",
+      "text": "Kansallinen jakosuunnitelmaesitys laaditaan tämän lain soveltamisalaan kuuluville toiminnoille myönnettävien päästöoikeuksien kokonaismäärästä ja siitä, miten päästöoikeudet on tarkoitus jakaa kunkin laitoksen toiminnanharjoittajalle. Jakosuunnitelma laaditaan päästökauppakausittain. Ensimmäinen päästökauppakausi alkaa 1 päivänä tammikuuta 2005 ja päättyy 31 päivänä joulukuuta 2007. Toinen päästökauppakausi alkaa 1 päivänä tammikuuta 2008 ja päättyy 31 päivänä joulukuuta 2012. Sen jälkeen kansallinen jakosuunnitelma laaditaan kutakin seuraavaa viisivuotiskautta varten.",
+      "section_number": "14",
+      "chapter_number": 3,
+      "statute_id": ""
+    },
+    {
+      "id": "9cb85be1-dea9-4196-b0bd-201fecdc63b1",
+      "node_type": "Section",
+      "publisher": "finlex",
+      "title": "15 § Jakomenetelmä päästökauppakaudelle 2005―2007",
+      "text": "Päästökauppakaudelle 2005―2007 päästöoikeudet jaetaan toiminnanharjoittajille maksutta.",
+      "section_number": "15",
+      "chapter_number": 3,
+      "statute_id": ""
+    },
+    {
+      "id": "a260a628-963d-40f5-9b83-9982567819c7",
+      "node_type": "Section",
+      "publisher": "finlex",
+      "title": "16 § Päästöoikeuksien kokonaismäärä",
+      "text": "Päästöoikeuksien kokonaismäärän on päästökauppakaudella 2008―2012 vastattava ilmastonmuutosta koskevan Yhdistyneiden Kansakuntien puitesopimuksen Kioton pöytäkirjan hyväksymisestä Euroopan yhteisön puolesta sekä sen täyttämisestä yhteisesti tehdyn neuvoston päätöksen 2002/358/EY, jäljempänä taakanjakoa koskeva päätös, ja Kioton pöytäkirjan (laki ilmastonmuutosta koskevan Yhdistyneiden Kansakuntien puitesopimuksen Kioton pöytäkirjan lainsäädännön alaan kuuluvien määräysten voimaansaattamisesta, 383/2002) päästörajoitusvelvoitetta. Kokonaismäärää määriteltäessä otetaan huomioon lain soveltamisalaan kuuluvista ja kuulumattomista lähteistä aiheutuvat tavoitteelliset, kansalliseen energia- ja ilmastostrategiaan perustuvat kasvihuonekaasupäästöt. Päästökauppakaudella 2005―2007 päästöoikeuksien kokonaismäärän on oltava johdonmukainen niiden toimien kanssa, joilla pyritään saavuttamaan taakanjakoa koskevan päätöksen ja Kioton pöytäkirjan päästörajoitusvelvoite.",
+      "section_number": "16",
+      "chapter_number": 3,
+      "statute_id": ""
+    },
+    {
+      "id": "32536182-c4af-4498-a909-b03c7d9143c5",
+      "node_type": "Section",
+      "publisher": "finlex",
+      "title": "17 § Laitosten ryhmittely alaryhmiin",
+      "text": "Kansallista jakosuunnitelmaesitystä varten laitokset, joissa harjoitetaan 2―4 §:ssä tarkoitettuja toimintoja, ryhmitellään toiminnan luonteen tai tuotettavan tuotteen perusteella alaryhmiin. Samaan alaryhmään kuuluville laitoksille jaetaan päästöoikeuksia samoilla perusteilla. Laitoksen päästöoikeudet lasketaan laitoksen tai sen tuotannon osien osalta erikseen ja laitoksen kokonaispäästöoikeudet saadaan erikseen laskettujen päästöoikeuksien summana. Jos laitos tai sen tuotanto jakaantuvat useampaan 18 §:ssä tarkoitettuun alaryhmään, päästöoikeudet lasketaan erikseen kullekin laitoksen tai sen tuotannon osalle sen alaryhmän jakoperusteiden mukaan, mihin alaryhmään nämä kuuluvat.",
+      "section_number": "17",
+      "chapter_number": 3,
+      "statute_id": ""
+    },
+    {
+      "id": "88c2353a-b547-4129-be30-3ae9f1f93b7d",
+      "node_type": "Section",
+      "publisher": "finlex",
+      "title": "18 § Kansallisen jakosuunnitelmaesityksen alaryhmät",
+      "text": "Kansallista jakosuunnitelmaesitystä varten laitokset tai niiden osat ryhmitellään seuraaviin alaryhmiin:",
+      "section_number": "18",
+      "chapter_number": 3,
+      "statute_id": ""
+    },
+    {
+      "id": "16e71547-c681-42ac-8e57-3a1b91f6b4db",
+      "node_type": "Section",
+      "publisher": "finlex",
+      "title": "19 § Kansallisen jakosuunnitelmaesityksen määritelmät",
+      "text": "Kansallisessa jakosuunnitelmaesityksessä tarkoitetaan: Polttoaineiden polton hiilidioksidipäästöjä laskettaessa polttoaineiden ominaispäästökertoimina ja hapettumiskertoimina käytetään ensisijaisesti kansallisesti määriteltyjä Tilastokeskuksen käyttämiä kertoimia ja toissijaisesti hallitustenvälisen ilmastopaneelin IPCC:n määrittelemiä kertoimia. Jos toiminnanharjoittaja pystyy komission kasvihuonekaasupäästöjen tarkkailusta ja raportoinnista antamien ohjeiden (K(2004) 130 lopullinen) perusteella osoittamaan perustelluksi IPCC:n suuntaviivoissa määritellyistä kertoimista poikkeavien kertoimien käytön, voidaan näitä kertoimia käyttää kyseisen toiminnanharjoittajan laitoksen päästöoikeuksia laskettaessa.",
+      "section_number": "19",
+      "chapter_number": 3,
+      "statute_id": ""
+    },
+    {
+      "id": "64a20b68-165b-4b0d-aaf5-8957d533bed7",
+      "node_type": "Section",
+      "publisher": "finlex",
+      "title": "20 § Alaryhmien A1 ja A2 jakoperusteet päästökauppakaudelle 2005―2007",
+      "text": "Alaryhmiin A1 ja A2 kuuluville laitoksille päästökauppakaudelle 2005―2007 myönnettävät päästöoikeudet lasketaan kertomalla teollisuusprosessin keskimääräisellä käyttöastekertoimella teollisuusprosessin keskimääräinen ominaispäästökerroin ja kertomalla tällä tulolla laitoksen keskimääräisen tuotantokapasiteetin summa vuosina 2005―2007. Öljynjalostamon päästöoikeudet lasketaan 21 §:n säännösten mukaisesti. Kapasiteetin keskimääräinen käyttöastekerroin lasketaan viidestä vuosihavainnosta vuosilta 1998―2002 siten, että suurin ja pienin kerroin jätetään huomiotta ja jäljelle jäävistä kolmesta kertoimesta lasketaan aritmeettinen keskiarvo. Keskimääräinen ominaispäästökerroin lasketaan viidestä vuosihavainnosta vuosilta 1998―2002 siten, että suurinta ja pienintä kerrointa ei oteta huomioon ja jäljelle jäävistä kolmesta kertoimesta lasketaan aritmeettinen keskiarvo. Vuosien 2005―2007 keskimääräinen tuotantokapasiteetti perustuu toiminnanharjoittajan arvioon. Tuotantokapasiteetin muutoksen vuosina 2005―2007 tulee perustua toiminnanharjoittajan tekemiin hankkeen toteuttamisen kannalta sitoviin päätöksiin.",
+      "section_number": "20",
+      "chapter_number": 3,
+      "statute_id": ""
+    },
+    {
+      "id": "8838bea7-c060-4828-a24f-0d344383adca",
+      "node_type": "Section",
+      "publisher": "finlex",
+      "title": "21 § Öljynjalostamoiden jakoperusteet päästökauppakaudelle 2005―2007",
+      "text": "Öljynjalostukselle päästökauppakaudelle 2005―2007 myönnettävät päästöoikeudet lasketaan kertomalla keskimääräinen polttoainekulutus keskimääräisellä ominaispäästökertoimella ja kertomalla tämä tulo kolmella. Tähän päästöoikeusmäärään lisätään toiminnanharjoittajan arvioima vedyntuotannon määrä vuosina 2005―2007 tonneina kerrottuna 5,6:lla. Näin saatuun lukuun lisätään se jalostamon polttoainekulutuksen kasvusta aiheutuvan hiilidioksidipäästöjen määrä, joka on seurausta jalostamomuutoksen aiheuttamista lopputuoterakenteen muutoksista vuosina 2005―2007. Keskimääräinen ominaispäästökerroin lasketaan viidestä vuosihavainnosta vuosilta 1998―2002 siten, että suurinta ja pienintä kerrointa ei oteta huomioon ja jäljelle jäävistä kolmesta kertoimesta lasketaan aritmeettinen keskiarvo. Polttolaitoksen keskimääräinen polttoainekulutus lasketaan viidestä vuosihavainnosta vuosilta 1998―2002 siten, että vuosikulutuksesta vähennetään vastaavana aikana tuotetun vedyn valmistukseen käytetty polttoaine ja näin saaduista luvuista suurin ja pienin havainto jätetään huomiotta ja jäljelle jäävistä kolmesta havainnosta lasketaan aritmeettinen keskiarvo. Vedyntuotannon ja jalostamomuutokseen liittyvästä polttoainekulutuksen kasvusta aiheutuvien hiilidioksidipäästöjen määrät vuosina 2005―2007 perustuvat toiminnanharjoittajan arvioon. Laitoksen toiminnan muutoksen vuosina 2005―2007 tulee perustua toiminnanharjoittajan tekemiin hankkeen toteuttamisen kannalta sitoviin päätöksiin.",
+      "section_number": "21",
+      "chapter_number": 3,
+      "statute_id": ""
+    },
+    {
+      "id": "4ad76c4a-fe97-4e4c-91f8-d743ddfc954d",
+      "node_type": "Section",
+      "publisher": "finlex",
+      "title": "22 § Alaryhmien B1 ja B2 jakoperusteet päästökauppakaudelle 2005―2007",
+      "text": "Alaryhmään B1 ja B2 kuuluville laitoksille päästökauppakaudelle 2005―2007 myönnettävät yhtä vuotta vastaavat päästöoikeudet lasketaan kertomalla keskimääräinen polttoainekulutus keskimääräisellä ominaispäästökertoimella. Massa- ja paperiteollisuuden, metallien valmistuksen sekä kemianteollisuuden alaryhmiin B1 ja B2 kuuluvien laitosten päästöoikeudet lasketaan kertomalla edellä saatu tulo laitoksen energian tuotantoon kiinteästi liittyvän teollisuusprosessin kapasiteetin tiedossa olevalla vuoden 2005 tammikuun 1 päivän ja vuoden 2000 kesäkuun 30 päivän kapasiteettien suhteella. Polttolaitoksen keskimääräinen polttoainekulutus lasketaan viidestä vuosihavainnosta vuosilta 1998―2002 siten, että suurin ja pienin havainto jätetään huomiotta ja jäljelle jäävistä kolmesta havainnosta lasketaan aritmeettinen keskiarvo. Massa- ja paperiteollisuuden osalta polttoainekulutus lasketaan vain fossiilisten polttoaineiden ja turpeen osalta. Alaryhmään B2 kuuluvan laitoksen vuotuisesta polttoainekulutuksesta vähennetään laitoksen tuottaman lauhdesähkön laskennallinen polttoainetarve käyttäen hyötysuhteena arvoa 0,4. Lauhdesähkön tuotannon osalta päästöoikeudet lasketaan alaryhmän D jakoperusteiden mukaisesti. Massa- ja paperiteollisuuden sekä öljynjalostuksen alaryhmään B2 kuuluvien laitosten lauhdesähkön tuotannon päästöoikeudet lasketaan alaryhmän B2 jakoperusteiden mukaisesti eikä polttoainekulutuksen vuosihavainnoista poisteta lauhdesähkön laskennallisia polttoaineita. Keskimääräinen ominaispäästökerroin lasketaan viidestä vuosihavainnosta vuosilta 1998―2002 siten, että suurinta ja pienintä kerrointa ei oteta huomioon ja jäljelle jäävistä kolmesta kertoimesta lasketaan aritmeettinen keskiarvo. Jos alaryhmään B1 tai B2 kuuluvan laitoksen lämmöntuotannosta keskimäärin yli 20 prosenttia on vuosina 1998―2002 ollut kaukolämmön tuotantoa, kaukolämmön ja sitä vastaavan yhteistuotantosähkön osalta päästöoikeuksia laskettaessa tehdään 23 §:n 1 momentin 2 kohdassa tarkoitettu lämpötilakorjaus sekä käytetään lisäksi 23 §:n 1 momentin 4 kohdassa määriteltyä kerrointa. Jos alaryhmään B1 tai B2 kuuluvan laitoksen laitospaikalle on vuoden 1998 jälkeen tullut uusi, merkittävä polttolaitos, joka on korvannut laitospaikan muiden polttolaitosten yhteenlasketusta tuotannosta yli puolet, ja korvatut polttolaitokset tai pääosa niistä on jäänyt toimintaan esimerkiksi vara- ja huippulaitoksina, lasketaan kunkin laitoksen päästöoikeudet erikseen siten, että laskentakautena käytetään laitosten pisintä mahdollista yhteistä ajanjaksoa ja muuten päästöoikeudet lasketaan 1―5 momentin mukaisesti.",
+      "section_number": "22",
+      "chapter_number": 3,
+      "statute_id": ""
+    },
+    {
+      "id": "579f171f-72e0-4f40-b325-2989c63c882d",
+      "node_type": "Section",
+      "publisher": "finlex",
+      "title": "23 § Alaryhmien C1 ja C2 jakoperusteet päästökauppakaudelle 2005―2007",
+      "text": "Alaryhmään C1 ja C2 kuuluville laitoksille päästökauppakaudelle 2005―2007 myönnettävät yhtä vuotta vastaavat päästöoikeudet lasketaan siten, että: Polttolaitoksen keskimääräinen polttoainekulutus lasketaan viidestä 1 momentin 1 kohdan mukaisella vähennyksellä korjatusta sekä 1 momentin 2 kohdassa määritellyllä tavalla lämpötilakorjatusta vuosihavainnosta vuosilta 1998―2002 siten, että suurin ja pienin havainto jätetään huomiotta ja jäljelle jäävistä kolmesta havainnosta lasketaan aritmeettinen keskiarvo. Keskimääräinen ominaispäästökerroin lasketaan viidestä 1 momentin 1 kohdan mukaisella vähennyksellä korjatusta vuosihavainnosta vuosilta 1998―2002 siten, että suurinta ja pienintä kerrointa ei oteta huomioon ja jäljelle jäävistä kolmesta kertoimesta lasketaan aritmeettinen keskiarvo.",
+      "section_number": "23",
+      "chapter_number": 3,
+      "statute_id": ""
+    },
+    {
+      "id": "0b355dd6-6d84-4d54-8a34-19d0a4ccdff4",
+      "node_type": "Section",
+      "publisher": "finlex",
+      "title": "24 § Kaukolämpölaitosten käsittely yhtenä kokonaisuutena",
+      "text": "Samaan kaukolämpöverkkoon kaukolämpöä tuottavien alaryhmään C1 ja C2 kuuluville laitoksille päästöoikeudet lasketaan siten, että: Kun päästöoikeuksia jaetaan 1 momentin mukaisesti sellaisille laitoksille, jotka tuottavat kaukolämpöä eri kaukolämpöverkkoihin, lasketaan kutakin kaukolämpöverkkoa koskeva lämpösopimusten tilaustehojen kehitystä kuvaava 23 §:n 1 momentin 4 kohdassa tarkoitettu kerroin kyseisen verkon loppuasiakkaiden lämpösopimusten tilaustehojen avulla.",
+      "section_number": "24",
+      "chapter_number": 3,
+      "statute_id": ""
+    },
+    {
+      "id": "735f4a1d-a0ab-4027-a568-6a8ca97b56f3",
+      "node_type": "Section",
+      "publisher": "finlex",
+      "title": "25 § Alaryhmien D ja E jakoperusteet päästökauppakaudelle 2005―2007",
+      "text": "Alaryhmään D kuuluville laitoksille päästökauppakaudelle 2005―2007 myönnettävät yhtä vuotta vastaavat päästöoikeudet lasketaan kertomalla vuosien 2000―2003 keskimääräinen vuotuinen polttoainekulutus vuosien 2000―2003 keskimääräisellä ominaispäästökertoimella. Polttoainekulutus ja ominaispäästökerroin lasketaan vuosien 2000―2003 aritmeettisena keskiarvona. Alaryhmään E kuuluville laitoksille päästökauppakaudelle 2005―2007 myönnettävät yhtä vuotta vastaavat päästöoikeudet lasketaan kertomalla vuosien 1998―2002 keskimääräinen vuotuinen polttoainekulutus vuosien 1998―2002 keskimääräisellä ominaispäästökertoimella. Polttoainekulutus ja ominaispäästökerroin lasketaan vuosien 1998―2002 aritmeettisena keskiarvona.",
+      "section_number": "25",
+      "chapter_number": 3,
+      "statute_id": ""
+    },
+    {
+      "id": "72e5a0a8-f400-4d8d-b972-dd78f90bde9f",
+      "node_type": "Section",
+      "publisher": "finlex",
+      "title": "26 § Vuonna 1998 tai sen jälkeen valmistuneet laitokset",
+      "text": "Laitoksille tai niiden osille, jotka ovat valmistuneet vuonna 1998 tai sen jälkeen, päästökauppakaudelle 2005―2007 myönnettävät yhtä vuotta vastaavat päästöoikeudet lasketaan seuraavasti: Alaryhmään D kuuluviin laitoksiin, jotka ovat valmistuneet vuonna 2000 tai sen jälkeen, myönnettävät päästöoikeudet lasketaan käyttämällä 1 momentin 3―7 kohdan mukaisen ajanjakson polttoainekulutuksen ja ominaispäästökertoimen aritmeettista keskiarvoa. Alaryhmään E kuuluviin laitoksiin, jotka ovat valmistuneet vuonna 1998 tai sen jälkeen, käytetään 1 momentin 1―7 kohdan mukaisen ajanjakson polttoainekulutuksen ja ominaispäästökertoimen aritmeettista keskiarvoa. Laitokselle, joka kuuluu alaryhmään A1 tai A2 ja joka on valmistunut vuonna 2000 tai sen jälkeen ja jonka käyntiasteen asteittainen nousu johtaa siihen, että laitoksen päästöoikeudet jäävät 20 §:ssä tarkoitettuja jakoperusteita käyttämällä enintään 90 prosenttiin siitä, mitä sen päästöt ovat olleet vuonna 2003, tai jos tällaisen laitoksen yhdenkin vuoden käyttöaste on ollut tarkastelujaksolla alle 65 prosenttia, lasketaan päästöoikeudet 28 §:ssä tarkoitetuilla uuden osallistujan jakoperusteilla.",
+      "section_number": "26",
+      "chapter_number": 3,
+      "statute_id": ""
+    },
+    {
+      "id": "5b833dab-8bb5-43ab-b116-8722691c0d87",
+      "node_type": "Section",
+      "publisher": "finlex",
+      "title": "27 § Varaus uusille osallistujille",
+      "text": "Kansallisessa jakosuunnitelmaesityksessä varataan päästökauppakaudelle 2005―2007 osa päästöoikeuksista sellaisille 2 momentissa tarkoitetuille laitoksille ja laitosten muutoksille (uusi osallistuja), jotka eivät sisälly 34 §:ssä tarkoitettuun kansalliseen jakosuunnitelmaesitykseen ja jotka otetaan kaupalliseen käyttöön ennen päästökauppakauden päättymistä. Uusille osallistujille varattavasta osuudesta myönnetään päästöoikeuksia: Edellä 2 momentin 5 ja 6 kohdassa tarkoitetuille laitoksen tai prosessin muutokselle päästöoikeuksia myönnetään laitoksen tai prosessin muuttuneelle osalle ja niille laitoksen tai prosessin osille, joihin kyseiset muutokset vaikuttavat. Laitoksen kasvihuonekaasujen päästöluvan peruuttamisen seurauksena laitoksen kansallisessa rekisterissä olevalle tilille kirjaamatta jääneet päästöoikeudet siirtyvät käytettäviksi uusille osallistujille varattuun osuuteen. Jos uusille osallistujille päästökauppakaudelle 2005―2007 varattu osuus ei riitä kaikille edellä tarkoitetuille uusille osallistujille, tulee uusien osallistujien hankkia päästöoikeuksia toisten laitosten toiminnanharjoittajilta tai markkinoilta. Niille uusille osallistujille, jotka ovat hakeneet päästöoikeuksia 40 §:n mukaisesti ja joille ei vielä ole myönnetty päästöoikeuksia, myönnettävät päästöoikeudet sovitetaan jäljellä olevaan päästöoikeuksien määrään siten, että niiden kaikkien 28 §:n mukaisesti laskettavista päästöoikeuksien määristä vähennetään yhtä suuri prosenttiosuus.",
+      "section_number": "27",
+      "chapter_number": 3,
+      "statute_id": ""
+    },
+    {
+      "id": "15d5a4e5-3844-4b15-ae55-af74ee5f5aa4",
+      "node_type": "Section",
+      "publisher": "finlex",
+      "title": "28 § Uusia osallistujia koskevat jakoperusteet päästökauppakaudelle 2005―2007",
+      "text": "Uudelle osallistujalle päästökauppakaudelle 2005―2007 myönnettävät yhtä vuotta vastaavat päästöoikeudet lasketaan laitoksen nimellisen lämpötehon, 2 momentissa tarkoitetun laitostyypin vuotuisen huipunkäyttöajan ja vertailupolttoaineena käytettävän polttoaineen polton ominaispäästökertoimen tulona. Päästöoikeuksia myönnetään jäljellä olevalle päästökauppakaudelle laitoksen tai laitoksen muutoksen kaupallista käyttöönottoa seuraavan kuukauden alusta lukien. Uusien osallistujien vuotuisina huipunkäyttöaikoina käytetään seuraavia arvoja: Päästöoikeuksien määrää laskettaessa laskennassa käytetään seuraavia ominaispäästökertoimia: Edellä 27 §:n 2 momentin 6 kohdassa tarkoitetulle laitoksen tai prosessin muutokselle päästöoikeudet lasketaan samojen jakoperusteiden mukaisesti kuin olemassa olevalle laitokselle.",
+      "section_number": "28",
+      "chapter_number": 3,
+      "statute_id": ""
+    },
+    {
+      "id": "fb0efdbb-defb-4cd0-b719-b07f74be1e06",
+      "node_type": "Section",
+      "publisher": "finlex",
+      "title": "29 § Päästöoikeusmäärän kohtuullistaminen",
+      "text": "Päästöoikeuksien määrää voidaan kohtuullistaa, jos päästöoikeuksien laskentakaavat johtavat yksittäisten laitosten osalta ilmeiseen kohtuuttomuuteen muihin samaan alaryhmään kuuluviin kilpaileviin toiminnanharjoittajiin verrattuna tarkastelukaudella olleen laitoksen käyttöönottovaiheesta johtuvan alhaisen käyntiasteen, laitoksen tuotantoa vaikeuttaneen konerikon, tulipalon tai muun näihin rinnastettavan syyn vuoksi. Toiminnanharjoittajan tulee päästöoikeuksia hakiessaan esittää perustelut haluamalleen kohtuullistamiselle.",
+      "section_number": "29",
+      "chapter_number": 3,
+      "statute_id": ""
+    },
+    {
+      "id": "337672bf-be54-48b0-94b5-0e9572aaeaf0",
+      "node_type": "Section",
+      "publisher": "finlex",
+      "title": "30 § Päästöoikeuksien määrän sovittaminen niiden kokonaismäärään",
+      "text": "Jos laitoskohtaisten päästöoikeuksien kokonaismäärä olisi 20―26 §:n jakoperusteiden mukaan laskettuna ja 29 §:n mukaisen kohtuullistamisen jälkeen suurempi tai pienempi kuin kansallisessa jakosuunnitelmaesityksessä ja päästöoikeuksien myöntämispäätöksessä päätettävä päästöoikeuksien kokonaismäärä ilman uusille osallistujille varattua määrää, sovitetaan laitoskohtaiset päästöoikeudet hyväksyttyyn kokonaismäärään siten, että: Jos 1 momentin 2 kohdassa tarkoitettu suhdeluku on pienempi kuin yksi, kerrotaan uusille osallistujille 28 §:n jakoperusteiden mukaan lasketut päästöoikeudet tällä suhdeluvulla.",
+      "section_number": "30",
+      "chapter_number": 3,
+      "statute_id": ""
+    },
+    {
+      "id": "23028149-af75-4deb-91e8-4012ffc2dfe7",
+      "node_type": "Section",
+      "publisher": "finlex",
+      "title": "31 § Ylivoimainen este",
+      "text": "Valtioneuvosto voi ylivoimaisen esteen vuoksi toiminnanharjoittajan hakemuksesta myöntää päästökauppakaudella 2005―2007 laitoksille päästöoikeuksia 37 §:ssä tarkoitetussa päätöksessä laitoksille myönnettyjen päästöoikeuksien lisäksi (lisäpäästöoikeus). Ylivoimaiseksi esteeksi katsotaan toiminnanharjoittajan vaikutusmahdollisuuksien ulkopuolella oleva tilanne tai tapahtuma, johon hän ei ole kohtuudella voinut varautua ja josta aiheutuu laitoksen hiilidioksidipäästöjen merkittävä lisääntyminen. Hakemuksen sisällöstä säädetään valtioneuvoston asetuksella. Valtioneuvosto päättää kansallisesta esityksestä Euroopan yhteisöjen komissiolle lisäpäästöoikeuksien myöntämiseksi. Valtioneuvosto päättää lisäpäästöoikeuksien myöntämisestä välittömästi sen jälkeen, kun Euroopan yhteisöjen komissio on hyväksynyt lisäpäästöoikeuksien myöntämisen. Päätöksestä on käytävä ilmi, miten päästökauppaviranomainen kirjaa lisäpäästöoikeudet kansalliseen rekisteriin kyseiselle toiminnanharjoittajalle. Lisäpäästöoikeudet eivät ole siirtokelpoisia. Päätös on annettava tiedoksi toiminnanharjoittajalle sekä toimitettava päästökauppaviranomaiselle.",
+      "section_number": "31",
+      "chapter_number": 3,
+      "statute_id": ""
+    },
+    {
+      "id": "da8a5554-bb2f-49a3-a22a-5aa7b5c104bf",
+      "node_type": "Section",
+      "publisher": "finlex",
+      "title": "32 § Kansallisen jakosuunnitelmaesityksen valmistelu",
+      "text": "Kauppa- ja teollisuusministeriö valmistelee kansallisen jakosuunnitelmaesityksen yhteistyössä muiden asianomaisten ministeriöiden kanssa. Ministeriön on jakosuunnitelmaesitystä valmisteltaessa varattava toiminnanharjoittajille sekä viranomaisille ja muille tahoille, joiden toimintaa tai etua esitys erityisesti koskee, tilaisuus lausunnon antamiseen. Esitystä valmisteltaessa on lisäksi asiasta tiedotettava sillä tavoin, että varataan yleisölle mahdollisuus mielipiteen esittämiseen. Kuulemisessa ja mielipiteen esittämisessä varataan mahdollisuus lausua 35 §:n 1―5 ja 7 kohdassa tarkoitetuista asioista sekä laitosten sisällyttämisestä jakosuunnitelmaesitykseen.",
+      "section_number": "32",
+      "chapter_number": 4,
+      "statute_id": ""
+    },
+    {
+      "id": "cd55a943-9388-44c9-b31c-c0fd5acf39aa",
+      "node_type": "Section",
+      "publisher": "finlex",
+      "title": "33 § Ministeriölle toimitettavat tiedot ja päästöoikeuksien hakeminen",
+      "text": "Toiminnanharjoittajan on toimitettava kauppa- ja teollisuusministeriölle kansallista jakosuunnitelmaesitystä varten tiedot laitoksesta, sen toiminnasta ja hiilidioksidipäästöjen lähteistä sekä laitoksen käytöstä ja päästöistä. Tietojen ja hakemuksen tarkemmasta sisällöstä säädetään valtioneuvoston asetuksella. Tiedot on toimitettava päästökauppakautta 2008―2012 ja sitä seuraavia päästökauppakausia varten viimeistään 21 kuukautta ennen kyseisen päästökauppakauden alkamista. Toiminnanharjoittajan on haettava päästöoikeuksia valtioneuvostolle osoitetulla hakemuksella. Toiminnanharjoittajien, jotka ovat 10 §:n 2 momentin mukaisesti hakeneet yhdessä päästölupaa, on haettava päästöoikeuksia yhdessä. Hakemuksessa on ilmoitettava 1 momentissa tarkoitetut tiedot sekä tieto siitä, miltä osin ne ovat muuttuneet tai tarkentuneet. Hakemuksessa ei ilmoiteta haettavien päästöoikeuksien määrää. Toiminnanharjoittaja voi päästökauppakautta 2008―2012 ja sitä seuraavia päästökauppakausia varten hakea päästöoikeuksia 1 momentissa tarkoitetussa määräajassa ja toimittaa hakemuksen yhteydessä 1 momentissa tarkoitetut tiedot. Hakemus on toimitettava päästökauppakautta 2008―2012 ja sitä seuraavia päästökauppakausia varten viimeistään 15 kuukautta ennen kyseisen päästökauppakauden alkamista. Hakemuksen jälkeen muuttuneista tiedoista toiminnanharjoittajan on ilmoitettava viimeistään 15 kuukautta ennen kyseisen päästökauppakauden alkamista. Päästökauppakautta 2005―2007 varten hakemus on toimitettava kahden kuukauden kuluessa tämän lain voimaantulosta.",
+      "section_number": "33",
+      "chapter_number": 4,
+      "statute_id": ""
+    },
+    {
+      "id": "53967fc5-5732-4935-9526-95e3a3bb7aa4",
+      "node_type": "Section",
+      "publisher": "finlex",
+      "title": "34 § Valtioneuvoston päätös kansallisesta jakosuunnitelmaesityksestä",
+      "text": "Valtioneuvosto päättää kansallisesta jakosuunnitelmaesityksestä. Päästökauppakautta 2005―2007 koskeva päätös kansallisesta jakosuunnitelmaesityksestä tehdään välittömästi tämän lain tultua voimaan. Päätös kansallisesta jakosuunnitelmaesityksestä tehdään seuraaville päästökauppakausille vähintään 18 kuukautta ennen kyseisen päästökauppakauden alkamista.",
+      "section_number": "34",
+      "chapter_number": 4,
+      "statute_id": ""
+    },
+    {
+      "id": "ebc5dbd7-a727-4ddc-8b3d-70a3f412ad2f",
+      "node_type": "Section",
+      "publisher": "finlex",
+      "title": "35 § Kansallisen jakosuunnitelmaesityksen sisältö",
+      "text": "Valtioneuvoston päätöksestä on käytävä ilmi:",
+      "section_number": "35",
+      "chapter_number": 4,
+      "statute_id": ""
+    },
+    {
+      "id": "dd7cc786-c7d0-479d-b7ba-9be71214fe85",
+      "node_type": "Section",
+      "publisher": "finlex",
+      "title": "36 § Kansallisen jakosuunnitelmaesityksen julkaiseminen ja siitä ilmoittaminen",
+      "text": "Kauppa- ja teollisuusministeriö ilmoittaa jakosuunnitelmaesityksestä asianomaisille toiminnanharjoittajille sekä Euroopan yhteisöjen komissiolle ja muille Euroopan unionin jäsenmaille välittömästi valtioneuvoston päätöksen jälkeen. Lisäksi ministeriö julkaisee kansallisen jakosuunnitelmaesityksen sähköisesti ja varaa toiminnanharjoittajille ja yleisölle mahdollisuuden mielipiteen esittämiseen.",
+      "section_number": "36",
+      "chapter_number": 4,
+      "statute_id": ""
+    },
+    {
+      "id": "1102c5d3-30aa-440b-81f8-be234d1bc6cd",
+      "node_type": "Section",
+      "publisher": "finlex",
+      "title": "37 § Päästöoikeuksien myöntämispäätös",
+      "text": "Valtioneuvosto tekee päätöksen päästöoikeuksien myöntämisestä sen jälkeen, kun Euroopan yhteisöjen komissio on käsitellyt kansallisen jakosuunnitelmaesityksen. Valtioneuvoston päätös on tehtävä vähintään 12 kuukautta ennen kyseisen päästökauppakauden alkamista. Päästökauppakautta 2005―2007 koskeva valtioneuvoston päätös on tehtävä mahdollisimman pian sen jälkeen, kun 33 §:n 4 momentissa tarkoitettu päästöoikeuksien hakemiseen varattu määräaika on päättynyt ja komissio on käsitellyt kansallisen jakosuunnitelmaesityksen. Edellä 1 ja 2 momentissa tarkoitettu päätös perustuu 15―27, 29 ja 30 §:n mukaisiin perusteisiin sekä 35 §:ssä tarkoitettuun kansalliseen esitykseen ja siihen Euroopan yhteisöjen komission käsittelyn perustella tehtyihin muutoksiin.",
+      "section_number": "37",
+      "chapter_number": 4,
+      "statute_id": ""
+    },
+    {
+      "id": "6bf68315-8594-4c14-ad09-201e8eb02ec5",
+      "node_type": "Section",
+      "publisher": "finlex",
+      "title": "38 § Päästöoikeuksien myöntämispäätöksen sisältö",
+      "text": "Päästöoikeuksien myöntämispäätöksestä on käytävä ilmi:",
+      "section_number": "38",
+      "chapter_number": 4,
+      "statute_id": ""
+    },
+    {
+      "id": "6016dfbb-c07f-4d79-af07-bf5123c85a2f",
+      "node_type": "Section",
+      "publisher": "finlex",
+      "title": "39 § Päästöoikeuksien myöntämispäätöksen tiedoksianto ja siitä tiedottaminen",
+      "text": "Päästöoikeuksien myöntämispäätös on annettava tiedoksi toiminnanharjoittajille, joita päätös koskee, sekä toimitettava päästökauppaviranomaiselle. Kauppa- ja teollisuusministeriö julkaisee päätöksen sähköisesti.",
+      "section_number": "39",
+      "chapter_number": 4,
+      "statute_id": ""
+    },
+    {
+      "id": "edfc880e-34c7-4a9b-b578-0d1a6314ac93",
+      "node_type": "Section",
+      "publisher": "finlex",
+      "title": "40 § Hakemus päästöoikeuksien myöntämisestä uudelle osallistujalle",
+      "text": "Uuden osallistujan on haettava päästöoikeuksia valtioneuvostolle osoitetulla hakemuksella. Hakemus on toimitettava valtioneuvostolle aikaisintaan 12 ja viimeistään 6 kuukautta ennen sitä ajankohtaa, josta alkaen päästöoikeuksia haetaan uuden osallistujan käytettäväksi. Hakemuksessa on ilmoitettava seuraavat tiedot: Tietojen tarkemmasta sisällöstä säädetään valtioneuvoston asetuksella.",
+      "section_number": "40",
+      "chapter_number": 4,
+      "statute_id": ""
+    },
+    {
+      "id": "1bdaf8c0-b49e-4a32-870c-b80ab5ea5aa3",
+      "node_type": "Section",
+      "publisher": "finlex",
+      "title": "41 § Päätös päästöoikeuksien myöntämisestä uudelle osallistujalle",
+      "text": "Valtioneuvosto päättää päästöoikeuksien myöntämisestä uudelle osallistujalle. Päätöksestä on käytävä ilmi uudelle osallistujalle myönnetty päästöoikeuksien enimmäismäärä perusteluineen. Päästöoikeuksia myönnetään jäljellä olevalle päästökauppakaudelle toiminnanharjoittajan ilmoittamaa laitoksen tai laitoksen muutoksen kaupallista käyttöönottoa seuraavan kuukauden alusta lukien. Jos kaupallinen käyttöönotto viivästyy toiminnanharjoittajan hakemuksessa ilmoittamasta ajankohdasta, päästökauppaviranomainen kirjaa päästöoikeuksia toiminnanharjoittajan kyseisen laitoksen kansallisessa rekisterissä olevalle tilille ainoastaan sen määrän, joka vastaa todellista käyttöönottoa seuraavan kuukauden alun ja päästökauppakauden lopun väliselle ajalle laskettavia päästöoikeuksia. Valtioneuvoston päätöksestä on käytävä ilmi myös, mikä osa päästöoikeuksien kokonaismäärästä kirjataan vuosittain laitoksen kansallisessa rekisterissä olevalle tilille. Päästöoikeuksien myöntämisen edellytyksenä on, että laitokselle on myönnetty kasvihuonekaasujen päästölupa taikka laitoksen muutoksen johdosta lupaa on muutettu tai tarkistettu. Päätös on annettava tiedoksi toiminnanharjoittajalle sekä toimitettava päästökauppaviranomaiselle. Kauppa- ja teollisuusministeriö julkaisee päätöksen sähköisesti.",
+      "section_number": "41",
+      "chapter_number": 4,
+      "statute_id": ""
+    },
+    {
+      "id": "13c193e8-c2da-4d48-8233-2f721067dea9",
+      "node_type": "Section",
+      "publisher": "finlex",
+      "title": "42 § Rekisterin perustaminen ja ylläpito",
+      "text": "Päästökauppaviranomainen toimii kansallisen rekisterin rekisterinpitäjänä sen varmistamiseksi, että päästöoikeuksien vuosittaisesta kirjaamisesta, hallussapidosta, siirtämisestä ja mitätöinnistä pidetään tarkkaa tilinpitoa. Päästökauppaviranomainen voi antaa kansallisen rekisterin ylläpitoon liittyviä tehtäviä ulkopuolisen hoidettavaksi. Rekisteri toimii myös Kioton pöytäkirjan mukaisista päästöyksiköistä kirjaa pitävänä kansallisena rekisterinä. Rekisterin tämän osan käyttöönotosta säädetään erikseen.",
+      "section_number": "42",
+      "chapter_number": 5,
+      "statute_id": ""
+    },
+    {
+      "id": "a414891b-7e3b-403e-bd90-2187bc1c0434",
+      "node_type": "Section",
+      "publisher": "finlex",
+      "title": "43 § Kansallisen rekisterin yhteys komission keskusrekisteriin",
+      "text": "Kansallinen rekisteri on yhteydessä Euroopan yhteisöjen komission keskusrekisteriin, joka tekee riippumattoman tapahtumakirjan avulla automaattisia tarkistuksia kustakin tapahtumasta rekisterissä varmistaakseen, että päästöoikeuksien vuosittaisessa kirjaamisessa, siirtämisessä ja mitätöinnissä toimitaan säännösten mukaisesti. Kansalliset rekisterit ja Euroopan yhteisöjen komission keskusrekisteri koostuvat sähköisistä tietokannoista, joiden yhteisten tietojen avulla seurataan päästöoikeuksien vuosittaista kirjaamista, hallussapitoa, siirtämistä ja mitätöintiä sekä varmistetaan, että siirrot eivät ole Kioton pöytäkirjasta johtuvien velvoitteiden vastaisia.",
+      "section_number": "43",
+      "chapter_number": 5,
+      "statute_id": ""
+    },
+    {
+      "id": "a7fb72a9-fe1e-4aae-8f59-adb92c33726b",
+      "node_type": "Section",
+      "publisher": "finlex",
+      "title": "44 § Rekisteriä ja päästöyksiköiden tilinpitoa koskevat vaatimukset",
+      "text": "Päästöoikeuksien vuosittaisen kirjaamisen, hallussapidon, siirtämisen ja mitätöinnin kirjaamisesta rekisteriin sekä yleisön oikeudesta tutustua rekisterissä oleviin tietoihin ja tietojen salassa pidosta on voimassa, mitä Euroopan yhteisöjen komission päästökauppadirektiivin 19 artiklan nojalla annetussa asetuksessa, jäljempänä komission rekisteriasetus, säädetään. Valtioneuvoston asetuksella voidaan tarvittaessa säätää komission rekisteriasetuksen täytäntöönpanosta.",
+      "section_number": "44",
+      "chapter_number": 5,
+      "statute_id": ""
+    },
+    {
+      "id": "fc5d7f1c-8afe-4f00-9e1a-f98af423ef16",
+      "node_type": "Section",
+      "publisher": "finlex",
+      "title": "45 § Päästöoikeuksien hallussapito ja siirto",
+      "text": "Päästöoikeuksia voi pitää hallussaan luonnollinen henkilö tai oikeushenkilö. Rekisterissä kirjataan erillisille tileille kunkin sellaisen henkilön päästöoikeudet, jonka tilille päästöoikeuksia vuosittain kirjataan tai jolle niitä siirretään. Päästöoikeuksia voidaan siirtää henkilöiden välillä yhteisössä. Päästöoikeuksia voidaan siirtää Euroopan yhteisössä olevien henkilöiden ja kolmansissa maissa olevien henkilöiden välillä, jos kolmansien maiden päästökauppajärjestelmien mukaiset päästöoikeudet on tunnustettu päästökauppadirektiivin 25 artiklassa tarkoitetun menettelyn mukaisesti.",
+      "section_number": "45",
+      "chapter_number": 5,
+      "statute_id": ""
+    },
+    {
+      "id": "37aa8f43-e1ea-4fe3-b436-03ef3a4a3411",
+      "node_type": "Section",
+      "publisher": "finlex",
+      "title": "46 § Päästöoikeuksien vuosittainen kirjaaminen",
+      "text": "Päästökauppaviranomainen kirjaa vuosittain laitokselle päästöoikeuksien myöntämispäätöksen mukaisen määrän päästöoikeuksia helmikuun 28 päivään mennessä päästöluvan haltijan kansallisessa rekisterissä olevalle kyseisen laitoksen tilille. Päästöoikeuksien kirjaamisen edellytyksenä on, että laitoksella on voimassa oleva kasvihuonekaasujen päästölupa. Jos päästökauppaviranomainen peruuttaa laitoksen kasvihuonekaasujen päästöluvan, päästökauppaviranomainen ei saa luvan peruuttamisen jälkeen kirjata päästöluvan haltijalle kyseisen laitoksen tilille 1 momentissa tarkoitettuja vuosittain kirjattavia päästöoikeuksia.",
+      "section_number": "46",
+      "chapter_number": 6,
+      "statute_id": ""
+    },
+    {
+      "id": "88702e63-d4a0-4db7-8a49-219d4bda176a",
+      "node_type": "Section",
+      "publisher": "finlex",
+      "title": "47 § Päästöoikeuksien kirjaaminen uudelle osallistujalle",
+      "text": "Päästökauppaviranomainen kirjaa uuden osallistujan rekisterissä olevalle tilille vuosittain päästöoikeuksien myöntämispäätöksen mukaisen määrän päästöoikeuksia helmikuun 28 päivään mennessä. Jos 2 momentin mukaiset kirjaamisen edellytykset täyttyvät tämän ajankohdan jälkeen, päästökauppaviranomaisen on tehtävä kirjaus välittömästi kirjaamisen edellytysten täytyttyä. Päästöoikeuksien kirjaamisen edellytyksenä on, että laitokselle on myönnetty kasvihuonekaasujen päästölupa tai lupaa on laitoksen muutoksen johdosta muutettu ja että laitos tai laitoksen muutos on otettu kaupalliseen käyttöön. Toiminnanharjoittajan on toimitettava selvitys kaupallisesta käyttöönotosta päästökauppaviranomaiselle.",
+      "section_number": "47",
+      "chapter_number": 6,
+      "statute_id": ""
+    },
+    {
+      "id": "5a906252-e300-407d-9a2a-1de91968c9dc",
+      "node_type": "Section",
+      "publisher": "finlex",
+      "title": "48 § Päästöoikeuksien kirjaaminen toiminnanharjoittajan vaihtuessa",
+      "text": "Laitoksen toiminnanharjoittajan vaihtuessa 37 tai 41 §:ssä tarkoitetun päätöksen mukaiset vuosittain kirjattavat päästöoikeudet kirjataan uuden toiminnanharjoittajan rekisterissä olevalle kyseisen laitoksen tilille siitä alkaen, kun kasvihuonekaasujen päästölupaan on merkitty uusi toiminnanharjoittaja 12 §:n 1 momentin mukaisesti. Kaikki 37 tai 41 §:ssä tarkoitetun päätöksen mukaiset vuosittain kirjattavat päästöoikeudet kirjataan aikaisemman toiminnanharjoittajan rekisterissä olevalle kyseisen laitoksen tilille, jos samaan kasvihuonekaasujen päästölupaan sisältyvästä laitoksen tai laitosten toiminnasta ainoastaan osa siirtyy uudelle toiminnanharjoittajalle. Uusi ja aikaisempi toiminnanharjoittaja voivat kuitenkin sopia, että osa päästöoikeuksista kirjataan uuden toiminnanharjoittajan laitoksen tilille sen jälkeen, kun uudelle toiminnanharjoittajalle on myönnetty luovutettua toimintaa koskeva kasvihuonekaasujen päästölupa. Tätä koskeva kirjallinen sopimus on toimitettava päästökauppaviranomaiselle.",
+      "section_number": "48",
+      "chapter_number": 6,
+      "statute_id": ""
+    },
+    {
+      "id": "279cf09b-a315-493f-ae3c-f86446741d16",
+      "node_type": "Section",
+      "publisher": "finlex",
+      "title": "49 § Velvoite palauttaa päästöoikeuksia ja päästöoikeuksien voimassaolo",
+      "text": "Toiminnanharjoittajan on palautettava vuosittain huhtikuun 30 päivään mennessä kustakin laitoksesta edellisenä kalenterivuonna aiheutuneita ja 7 luvun mukaisesti todennettuja päästöjä vastaava määrä päästöoikeuksia 42 §:ssä tarkoitettuun rekisteriin. Toiminnanharjoittaja voi täyttää 1 momentissa säädetyn velvoitteensa palauttamalla Suomen tai jonkin muun Euroopan talousalueeseen kuuluvan valtion toimivaltaisen viranomaisen myöntämiä päästöoikeuksia taikka kolmansissa maissa myönnettyjä päästöoikeuksia, jos kolmansien maiden päästöoikeudet on tunnustettu päästökauppadirektiivin 25 artiklan mukaisesti. Päästöoikeudet ovat voimassa sen päästökauppakauden velvoitteiden täyttämiseen, jolle ne on 37 tai 41 §:n mukaisella päätöksellä tai vastaavalla muussa Euroopan talousalueeseen kuuluvassa valtiossa tehdyllä päätöksellä myönnetty.",
+      "section_number": "49",
+      "chapter_number": 6,
+      "statute_id": ""
+    },
+    {
+      "id": "c95ae099-ab98-4102-a07b-2f8e20e2e649",
+      "node_type": "Section",
+      "publisher": "finlex",
+      "title": "50 § Päästöoikeuksien mitätöinti",
+      "text": "Päästökauppaviranomainen mitätöi 49 §:n 1 momentin mukaisesti palautetut päästöoikeudet palauttamisen jälkeen. Luonnollinen henkilö tai oikeushenkilö, jonka rekisterissä olevalla tilillä päästöoikeudet ovat, voi kirjallisesti pyytää päästökauppaviranomaista mitätöimään ne. Päästökauppaviranomaisen on mitätöitävä päästöoikeudet viivytyksettä. Päästökauppaviranomaisen on neljän kuukauden kuluttua kunkin päästökauppakauden päättymisen jälkeen mitätöitävä kyseiselle päästökauppakaudelle myönnetyt ja kirjatut päästöoikeudet, joita ei ole mitätöity 1 tai 2 momentin mukaisesti.",
+      "section_number": "50",
+      "chapter_number": 6,
+      "statute_id": ""
+    },
+    {
+      "id": "560f5c64-d17b-41d3-88ab-c6819c0d6d48",
+      "node_type": "Section",
+      "publisher": "finlex",
+      "title": "51 § Mitätöityjen päästöoikeuksien korvaaminen",
+      "text": "Päästökauppaviranomaisen on kirjattava päästöoikeuksia rekisterissä olevalle asianomaiselle tilille päästökauppakautta 2013―2017 ja sitä seuraavia päästökauppakausia varten korvaamaan tilillä edelliseltä päästökauppakaudelta olevat päästöoikeudet, jotka on mitätöity 50 §:n 3 momentin mukaisesti.",
+      "section_number": "51",
+      "chapter_number": 6,
+      "statute_id": ""
+    },
+    {
+      "id": "122c72cc-5883-4013-81d9-81e0a79b334f",
+      "node_type": "Section",
+      "publisher": "finlex",
+      "title": "52 § Päästöjen tarkkailu, selvitys ja todentaminen",
+      "text": "Toiminnanharjoittajan on tarkkailtava lain soveltamisalaan kuuluvia päästöjään johdonmukaisesti, luotettavasti ja tarkasti ja laadittava niistä selvitys kultakin kalenterivuodelta tämän lain ja sen nojalla annettujen säännösten sekä kasvihuonekaasujen päästöluvassa asetettujen ehtojen mukaisesti. Toiminnanharjoittajan on huolehdittava päästöselvityksen todentamisesta sekä siitä, että kunkin kalenterivuoden päästöistä laadittu selvitys ja siitä annettu todentajan lausunto toimitetaan päästökauppaviranomaiselle seuraavan maaliskuun 31 päivään mennessä. Todentamisen kohteena on tarkkailujärjestelmän luotettavuus, uskottavuus ja tarkkuus sekä ilmoitetut päästöluvut ja -tiedot.",
+      "section_number": "52",
+      "chapter_number": 7,
+      "statute_id": ""
+    },
+    {
+      "id": "5b9a5d77-b699-452f-b977-1a700c46af45",
+      "node_type": "Section",
+      "publisher": "finlex",
+      "title": "53 § Käytettävä todentaja",
+      "text": "Toiminnanharjoittajan on käytettävä päästöselvitysten todentamisessa todentajaa, joka on hyväksytty Suomessa tämän lain nojalla, tai muussa Euroopan talousalueeseen kuuluvassa valtiossa päästökauppadirektiivin toimeenpanossa hyväksyttyä todentajaa. Jos todentajaa ei ole hyväksytty Suomessa, toiminnanharjoittajan on osoitettava, että todentaja on hyväksytty muussa Euroopan talousalueeseen kuuluvassa valtiossa.",
+      "section_number": "53",
+      "chapter_number": 7,
+      "statute_id": ""
+    },
+    {
+      "id": "207aa161-196a-4306-a816-d37ff5af5544",
+      "node_type": "Section",
+      "publisher": "finlex",
+      "title": "54 § Todentajan lausunto",
+      "text": "Todentaja laatii päästöselvityksestä lausunnon, jossa todetaan, onko päästöselvitys tyydyttävä. Lausunnosta tulee käydä ilmi todentamisen kannalta oleelliset seikat. Päästöselvitys voidaan katsoa tyydyttäväksi, jos päästöselvitys on laadittu 52 §:n 1 momentin mukaisesti ja kokonaispäästöjä ei todentajan mielestä ole ilmoitettu oleellisesti väärin.",
+      "section_number": "54",
+      "chapter_number": 7,
+      "statute_id": ""
+    },
+    {
+      "id": "13ee7eeb-3472-4090-85bf-97a11c2b4efe",
+      "node_type": "Section",
+      "publisher": "finlex",
+      "title": "55 § Todentajan hyväksyminen",
+      "text": "Päästökauppaviranomainen hyväksyy tämän lain soveltamisalaan kuuluvat todentajat. Todentajan hyväksymisen edellytyksenä on, että: Hyväksymispäätöksessä määritellään todentajan pätevyysalue ja asetetaan tarvittaessa muitakin toimintaa koskevia ehtoja, joilla varmistetaan tehtävien asianmukainen hoitaminen. Todentajan on osoitettava luotettavalla ulkopuolisella arvioinnilla täyttävänsä 1 momentin 1―6 kohdassa säädetyt vaatimukset.",
+      "section_number": "55",
+      "chapter_number": 7,
+      "statute_id": ""
+    },
+    {
+      "id": "5a587e35-e316-46f2-815a-5d4fa91ac8fb",
+      "node_type": "Section",
+      "publisher": "finlex",
+      "title": "56 § Todentajan ilmoitusvelvollisuus",
+      "text": "Todentajan on ilmoitettava päästökauppaviranomaiselle kaikista sellaisista toimintansa muutoksista, joilla voi olla vaikutusta todentajan hyväksymisen edellytyksiin.",
+      "section_number": "56",
+      "chapter_number": 7,
+      "statute_id": ""
+    },
+    {
+      "id": "cc4aa13a-de6a-4626-ae57-315bb8ab210f",
+      "node_type": "Section",
+      "publisher": "finlex",
+      "title": "57 § Todentajan hyväksymisen peruuttaminen",
+      "text": "Jos todentaja ei täytä 55 §:n mukaisia vaatimuksia taikka toimii olennaisesti säännösten tai hyväksymispäätöksen ehtojen vastaisesti, päästökauppaviranomaisen on kehotettava todentajaa korjaamaan toimintansa asetetun määräajan kuluessa. Päästökauppaviranomainen voi peruuttaa hyväksymisen, jos todentaja ei ole saattanut toimintaansa säännösten tai lupaehtojen mukaiseksi asetetussa määräajassa.",
+      "section_number": "57",
+      "chapter_number": 7,
+      "statute_id": ""
+    },
+    {
+      "id": "301168cd-1870-40ea-a7bd-6221e9f8f0d3",
+      "node_type": "Section",
+      "publisher": "finlex",
+      "title": "58 § Todentamistehtävien suorittaminen",
+      "text": "Todentajan on suoritettava tehtävänsä ammattitaitoisesti pyrkien hyvään käytäntöön sekä ottaen huomioon todentamista koskevat säännökset ja suositukset. Todentaja voi todentamistehtävässä käyttää apunaan ulkopuolisia henkilöitä. Todentaja vastaa myös apunaan käyttämiensä henkilöiden toiminnasta. Todentajan tulee seurata päästökauppaa koskevien säännösten ja standardien kehitystä. Todentajan tulee toimia yhteistyössä muiden todentajien kanssa siten kuin toimintatapojen yhdenmukaisuuden varmistamiseksi on tarpeen. Todentajan on tässä laissa tarkoitettuja julkisia hallintotehtäviä hoitaessaan noudatettava, mitä viranomaisten toiminnan julkisuudesta annetussa laissa (621/1999), sähköisestä asioinnista viranomaistoiminnassa annetussa laissa (13/2003), hallintolaissa (434/2003) ja kielilaissa (423/2003) säädetään.",
+      "section_number": "58",
+      "chapter_number": 7,
+      "statute_id": ""
+    },
+    {
+      "id": "25cc3dd8-510c-494c-a2fd-3f8916f23c4c",
+      "node_type": "Section",
+      "publisher": "finlex",
+      "title": "59 § Asetuksenantovaltuus",
+      "text": "Kauppa- ja teollisuusministeriön asetuksella annetaan tarkempia säännöksiä päästöjen tarkkailusta, päästöistä laadittavasta selvityksestä, todentajan lausunnosta, todentajan hyväksymismenettelystä, hyväksymisen edellytysten arvioinnista ja todentamistehtävien suorittamisesta.",
+      "section_number": "59",
+      "chapter_number": 7,
+      "statute_id": ""
+    },
+    {
+      "id": "5998fb22-efd6-4d33-aba2-5886ff1b723b",
+      "node_type": "Section",
+      "publisher": "finlex",
+      "title": "60 § Ohjaus ja seuranta",
+      "text": "Kauppa- ja teollisuusministeriö huolehtii lain täytäntöönpanon yleisestä ohjauksesta ja seurannasta. Päästökauppaviranomaisen tehtävänä on valvoa tämän lain sekä sen nojalla annettujen säännösten noudattamista.",
+      "section_number": "60",
+      "chapter_number": 8,
+      "statute_id": ""
+    },
+    {
+      "id": "6b3100fd-e59b-4253-a911-dd63d05eca76",
+      "node_type": "Section",
+      "publisher": "finlex",
+      "title": "61 § Tiedonsaanti- ja tarkastusoikeus",
+      "text": "Päästökauppaviranomaisella on oikeus valvontaa ja tämän lain täytäntöönpanoa varten saada viranomaisten toiminnan julkisuudesta annetussa laissa säädetyn salassapitovelvollisuuden estämättä tarpeellisia tietoja ympäristönsuojelulain 27 §:ssä tarkoitetusta ympäristönsuojelun tietojärjestelmästä sekä toiminnanharjoittajilta. Kauppa- ja teollisuusministeriöllä on oikeus saada viranomaisten toiminnan julkisuudesta annetussa laissa säädetyn salassapitovelvollisuuden estämättä päästöoikeuksien jakoa koskevia tarpeellisia tietoja ympäristönsuojelulain 27 §:ssä tarkoitetusta ympäristönsuojelun tietojärjestelmästä sekä toiminnanharjoittajilta. Päästökauppaviranomaisella on oikeus tämän lain ja sen nojalla annettujen säännösten noudattamisen valvomiseksi toimittaa tarkastus toiminnanharjoittajan hallinnassa olevissa tiloissa, jotka eivät kuulu kotirauhan piiriin. Toiminnanharjoittajan on vaadittaessa esitettävä tarkastusta toimittavalle viranomaiselle tarkastusta varten ne asiakirjat ja tietojärjestelmässään olevat tallenteensa sekä järjestettävä pääsy laitteisiin ja laitteistoihin, joilla voi olla merkitystä tämän lain tai sen nojalla annettujen säännösten noudattamisen valvonnassa. Tarkastusta toimittavalla virkamiehellä on oikeus ottaa maksutta jäljennöksiä tarkastettavista asiakirjoista ja tulosteita tietojärjestelmissä olevista tallenteista.",
+      "section_number": "61",
+      "chapter_number": 8,
+      "statute_id": ""
+    },
+    {
+      "id": "322a0102-a10c-4f8e-b8a0-5a1263bf9f5d",
+      "node_type": "Section",
+      "publisher": "finlex",
+      "title": "62 § Päästöoikeuden ylitysmaksu",
+      "text": "Päästökauppaviranomaisen on määrättävä toiminnanharjoittaja maksamaan valtiolle päästöoikeuden ylitysmaksu, jos toiminnanharjoittaja ei palauta huhtikuun 30 päivään mennessä edellisen kalenterivuoden päästöjä vastaavaa määrää päästöoikeuksia. Ylitysmaksun määrä on 100 euroa hiilidioksidiekvivalenttitonnilta, jolta päästöoikeuksia ei ole palautettu. Ylitysmaksun määrä päästökauppakaudella 2005―2007 on kuitenkin 40 euroa hiilidioksidiekvivalenttitonnilta. Päästökauppaviranomainen voi jättää päätöksen ylitysmaksun määräämisestä toistaiseksi tekemättä, jos toiminnanharjoittaja on hakenut todentajan lausuntoon oikaisua tai todentajan oikaisuvaatimuksen johdosta antamasta päätöksestä on muutoksenhaku vireillä. Päästökauppaviranomainen voi samoin jättää päätöksen tekemättä, jos toiminnanharjoittaja on hakenut ylivoimaisen esteen vuoksi lisäpäästöoikeuksia eikä asiaa ole vielä ratkaistu. Ylitysmaksu on määrättävä sen jälkeen, kun toiminnanharjoittajan palautusvelvoitteen määrä on tullut lainvoimaisesti ratkaistuksi.",
+      "section_number": "62",
+      "chapter_number": 8,
+      "statute_id": ""
+    },
+    {
+      "id": "11118d07-5fbc-4518-b4d1-5909b26acb07",
+      "node_type": "Section",
+      "publisher": "finlex",
+      "title": "63 § Ylitysmaksun täytäntöönpano",
+      "text": "Ylitysmaksu pannaan täytäntöön ilman tuomiota tai päätöstä noudattaen, mitä verojen ja maksujen perimisestä ulosottotoimin annetussa laissa (367/1961) säädetään. Ylitysmaksun täytäntöönpanosta huolehtii oikeusrekisterikeskus. Valtioneuvoston asetuksella voidaan säätää tarkemmin ylitysmaksua koskevasta viranomaisten välisestä ilmoitusvelvollisuudesta, ylitysmaksun palauttamisesta sekä muista maksun täytäntöönpanon kannalta vastaavista välttämättömistä seikoista.",
+      "section_number": "63",
+      "chapter_number": 8,
+      "statute_id": ""
+    },
+    {
+      "id": "7b9d8108-0a1a-42a0-8005-1e93da72a3b9",
+      "node_type": "Section",
+      "publisher": "finlex",
+      "title": "64 § Päästöoikeuksien palauttamisen laiminlyöntiä koskevat muut seuraamukset",
+      "text": "Toiminnanharjoittajan on palautettava 62 §:n 1 ja 2 momentissa tarkoitettuja palautettujen päästöoikeuksien ylittäviä päästöjä vastaava määrä päästöoikeuksia. Palautus on tehtävä viimeistään seuraavan vuoden päästöoikeuksia palautettaessa. Päästöoikeuksien palauttamisessa ja mitätöinnissä noudatetaan mitä 49 ja 50 §:ssä säädetään. Päästökauppaviranomainen julkaisee vuosittain tiedot toiminnanharjoittajista, jotka eivät ole palauttaneet päästöoikeuksia 49 §:n 1 momentin mukaisesti.",
+      "section_number": "64",
+      "chapter_number": 8,
+      "statute_id": ""
+    },
+    {
+      "id": "6f1c2cef-b0e8-491c-8d83-7feaee3ab5a8",
+      "node_type": "Section",
+      "publisher": "finlex",
+      "title": "65 § Päästöoikeuksien luovutuskielto",
+      "text": "Päästökauppaviranomaisen on kiellettävä toiminnanharjoittajaa luovuttamasta päästöoikeuksia, jos toiminnanharjoittaja ei ole toimittanut tyydyttäväksi todennettua selvitystä maaliskuun 31 päivään mennessä edeltävän vuoden päästöistä. Kielto on laitoskohtainen. Kielto on voimassa toistaiseksi, kunnes 54 §:n mukaisesti todennettu selvitys on toimitettu päästökauppaviranomaiselle.",
+      "section_number": "65",
+      "chapter_number": 8,
+      "statute_id": ""
+    },
+    {
+      "id": "c08b0def-beee-44f1-8424-48e2f2083503",
+      "node_type": "Section",
+      "publisher": "finlex",
+      "title": "66 § Hallintopakko",
+      "text": "Päästökauppaviranomainen voi velvoittaa sen, joka rikkoo tätä lakia tai sen nojalla annettuja säännöksiä, oikaisemaan laiminlyöntinsä tai muutoin täyttämään velvollisuutensa. Velvoitteen tehosteeksi voidaan asettaa uhkasakko tai uhka, että toiminta keskeytetään osaksi tai kokonaan taikka tekemättä jätetty toimenpide teetetään laiminlyöjän kustannuksella. Uhkasakkoon, keskeyttämisuhkaan ja teettämisuhkaan sovelletaan, mitä uhkasakkolaissa (1113/1990) säädetään.",
+      "section_number": "66",
+      "chapter_number": 8,
+      "statute_id": ""
+    },
+    {
+      "id": "1b39add1-c2f4-4b39-b9cc-44a8152dd5da",
+      "node_type": "Section",
+      "publisher": "finlex",
+      "title": "67 § Päästökaupparikkomus",
+      "text": "Joka tahallaan tai törkeästä huolimattomuudesta on tuomittava, jollei teosta muualla laissa säädetä ankarampaa rangaistusta,päästökaupparikkomuksestasakkoon. Se, joka rikkoo tämän lain nojalla määrättyä uhkasakolla tehostettua kieltoa tai määräystä, voidaan jättää tuomitsematta rangaistukseen samasta teosta.",
+      "section_number": "67",
+      "chapter_number": 8,
+      "statute_id": ""
+    },
+    {
+      "id": "1c585055-c2dd-4669-84d1-f0b73be46012",
+      "node_type": "Section",
+      "publisher": "finlex",
+      "title": "68 § Päästökauppaviranomaisen maksut",
+      "text": "Päästökauppaviranomaisella on oikeus periä lain mukaisen luvan, ilmoituksen, hyväksymisen tai muun asian käsittelystä maksu. Päästökauppaviranomaisella on lisäksi oikeus periä maksu tehtävistä, jotka koskevat kansallisen rekisterin tilien ylläpitoa. Päästökauppaviranomaisen maksullisista suoritteista ja niistä perittävistä maksuista säädetään tarkemmin kauppa- ja teollisuusministeriön asetuksella noudattaen, mitä valtion maksuperustelaissa (150/1992) säädetään.",
+      "section_number": "68",
+      "chapter_number": 8,
+      "statute_id": ""
+    },
+    {
+      "id": "340bb330-d3d3-472f-bfc4-740ab221875c",
+      "node_type": "Section",
+      "publisher": "finlex",
+      "title": "69 § Muutoksenhaku päästökauppaviranomaisen päätökseen",
+      "text": "Päästökauppaviranomaisen tämän lain nojalla antamaan päätökseen haetaan muutosta valittamalla siten kuin hallintolainkäyttölaissa (586/1996) säädetään. Päästökauppaviranomaisen 13 §:n 2 ja 3 momentin nojalla antamaa luvan peruuttamista koskevaa päätöstä on muutoksenhausta huolimatta noudatettava 46 §:n 3 momentissa tarkoitetun päästöoikeuksien kirjaamiskiellon osalta, jollei muutoksenhakuviranomainen toisin päätä. Päästökauppaviranomaisen 65 §:n nojalla antamaa päästöoikeuksien luovutuskieltoa on muutoksenhausta huolimatta noudatettava, jollei muutoksenhakuviranomainen toisin päätä. Päästökauppaviranomaisen julkisoikeudellisesta suoritteesta määräämään maksuun haetaan muutosta siten kuin valtion maksuperustelaissa säädetään.",
+      "section_number": "69",
+      "chapter_number": 9,
+      "statute_id": ""
+    },
+    {
+      "id": "d9331c84-d805-464b-a2b4-37790dda9da3",
+      "node_type": "Section",
+      "publisher": "finlex",
+      "title": "70 § Muutoksenhaku todentajan päätökseen",
+      "text": "Todentajan lausuntoon saa hakea oikaisua todentajalta 14 päivän kuluessa lausunnon tiedoksisaannista. Lausuntoon on liitettävä oikaisuvaatimusohjeet. Todentajan oikaisumenettelyssä antamaan päätökseen haetaan muutosta valittamalla hallinto-oikeuteen siten kuin hallintolainkäyttölaissa säädetään.",
+      "section_number": "70",
+      "chapter_number": 9,
+      "statute_id": ""
+    },
+    {
+      "id": "1101ffd2-aab8-4e7a-918e-6ff138eede73",
+      "node_type": "Section",
+      "publisher": "finlex",
+      "title": "71 § Muutoksenhaku valtioneuvoston päätökseen",
+      "text": "Valtioneuvoston tämän lain 37 §:n nojalla tekemään päästöoikeuksien myöntämispäätökseen, 41 §:n nojalla tekemään uusille osallistujille myönnettävien päästöoikeuksien myöntämispäätökseen sekä 31 §:n mukaiseen lisäpäästöoikeuksia koskevaan päätökseen haetaan muutosta valittamalla korkeimpaan hallinto-oikeuteen siten kuin hallintolainkäyttölaissa säädetään. Valtioneuvoston päätökseen ei saa hakea muutosta siltä osin kuin päätös koskee päästöoikeuksien kokonaismäärää tai uusille osallistujille varattua osuutta. Korkeimman hallinto-oikeuden on käsiteltävä valitus kiireellisenä. Valtioneuvoston päätöstä on muutoksenhausta huolimatta noudatettava. Päätöksen täytäntöönpanossa ei sovelleta hallintolainkäyttölain nojalla muutoksenhakutuomioistuimelle kuuluvia toimivaltuuksia keskeyttää tai kieltää täytäntöönpano tai muutoin määrätä täytäntöönpanosta.",
+      "section_number": "71",
+      "chapter_number": 9,
+      "statute_id": ""
+    },
+    {
+      "id": "575cca28-2b73-4b65-9661-9d0c738f1413",
+      "node_type": "Section",
+      "publisher": "finlex",
+      "title": "72 § Voimaantulo",
+      "text": "Tämä laki tulee voimaan 4 päivänä elokuuta 2004, kuitenkin seuraavien lainkohtien voimaantulosta säädetään valtioneuvoston asetuksella: Päästökauppakautta 2005―2007 koskevan kansallisen jakosuunnitelmaesityksen valmisteluun sovelletaan hallintolain asian selvittämistä ja asianosaisen kuulemista koskevia säännöksiä. Ennen tämän lain voimaantuloa voidaan ryhtyä lain täytäntöönpanon edellyttämiin toimiin.",
+      "section_number": "72",
+      "chapter_number": 10,
+      "statute_id": ""
+    }
+  ],
+  "clauses": [
+    {
+      "id": "9220051d-5e31-43ed-8182-300511000edf",
+      "node_type": "Clause",
+      "publisher": "finlex",
+      "title": "§ 2 mom 1",
+      "text": "1) energia-ala:",
+      "clause_number": 1,
+      "section_number": "2",
+      "statute_id": ""
+    },
+    {
+      "id": "15b6fd76-e1b0-4ef9-abcd-0042d7f0f7cd",
+      "node_type": "Clause",
+      "publisher": "finlex",
+      "title": "§ 2 mom 2",
+      "text": "2) terästeollisuus:",
+      "clause_number": 2,
+      "section_number": "2",
+      "statute_id": ""
+    },
+    {
+      "id": "5bfd01b4-e0fb-4f71-8448-0b290c2ba1e5",
+      "node_type": "Clause",
+      "publisher": "finlex",
+      "title": "§ 2 mom 3",
+      "text": "3) mineraaliteollisuus:",
+      "clause_number": 3,
+      "section_number": "2",
+      "statute_id": ""
+    },
+    {
+      "id": "3d0fdeac-811a-401c-bcfd-fac2463e32bf",
+      "node_type": "Clause",
+      "publisher": "finlex",
+      "title": "§ 2 mom 4",
+      "text": "4) metsäteollisuus:",
+      "clause_number": 4,
+      "section_number": "2",
+      "statute_id": ""
+    },
+    {
+      "id": "d13e4688-0da1-41a4-8c8d-64cd8a6fc4bf",
+      "node_type": "Clause",
+      "publisher": "finlex",
+      "title": "§ 6 mom 1",
+      "text": "1) haettava laitokselle kasvihuonekaasujen päästölupa;",
+      "clause_number": 1,
+      "section_number": "6",
+      "statute_id": ""
+    },
+    {
+      "id": "5ecf9c7e-2083-46cc-9f37-1fa1ac9d7c80",
+      "node_type": "Clause",
+      "publisher": "finlex",
+      "title": "§ 6 mom 2",
+      "text": "2) tarkkailtava päästöjään, laadittava vuosittain selvitys päästöistään ja huolehdittava selvityksen todentamisesta;",
+      "clause_number": 2,
+      "section_number": "6",
+      "statute_id": ""
+    },
+    {
+      "id": "44968d6b-7238-49ea-aeab-e1cb7dea6383",
+      "node_type": "Clause",
+      "publisher": "finlex",
+      "title": "§ 6 mom 3",
+      "text": "3) palautettava päästökauppaviranomaiselle vuosittain edellisenä kalenterivuotena aiheutuneita laitoksen kokonaispäästöjä vastaava määrä päästöoikeuksia;",
+      "clause_number": 3,
+      "section_number": "6",
+      "statute_id": ""
+    },
+    {
+      "id": "ee4bf453-c1e2-4078-bff0-c8c8ded40550",
+      "node_type": "Clause",
+      "publisher": "finlex",
+      "title": "§ 6 mom 4",
+      "text": "4) toimitettava päästöoikeuksien jakosuunnitelmaa varten tarpeelliset tiedot kauppa- ja teollisuusministeriölle ja haettava päästöoikeuksia; sekä",
+      "clause_number": 4,
+      "section_number": "6",
+      "statute_id": ""
+    },
+    {
+      "id": "010653a3-8013-4f2e-8324-be98e579cb0e",
+      "node_type": "Clause",
+      "publisher": "finlex",
+      "title": "§ 6 mom 5",
+      "text": "5) ilmoitettava päästökauppaviranomaiselle laitoksen toiminnan muutoksista, päästöjen tarkkailua koskevista muutoksista taikka toiminnanharjoittajan muuttumisesta.",
+      "clause_number": 5,
+      "section_number": "6",
+      "statute_id": ""
+    },
+    {
+      "id": "9e9edfe1-382d-46f5-9098-bf830af7bcae",
+      "node_type": "Clause",
+      "publisher": "finlex",
+      "title": "§ 9 mom 1",
+      "text": "1) toiminnanharjoittajan suunnitelmat päästöjen tarkkailemiseksi ja päästöistä laadittavien selvitysten toimittamiseksi päästökauppaviranomaiselle ovat riittävät ja asianmukaiset; ja",
+      "clause_number": 1,
+      "section_number": "9",
+      "statute_id": ""
+    },
+    {
+      "id": "bd55281e-a106-4080-8606-f9c0377c76e1",
+      "node_type": "Clause",
+      "publisher": "finlex",
+      "title": "§ 9 mom 2",
+      "text": "2) toiminnanharjoittaja saa ympäristönsuojelulainsäädännön nojalla harjoittaa toimintaa.",
+      "clause_number": 2,
+      "section_number": "9",
+      "statute_id": ""
+    },
+    {
+      "id": "ac94bebe-591b-465b-80b0-33f0213b5e88",
+      "node_type": "Clause",
+      "publisher": "finlex",
+      "title": "§ 10 mom 1",
+      "text": "1) päästöjen tarkkailua koskevat vaatimukset, joissa määritetään tarkkailumenetelmät ja -taajuus; sekä",
+      "clause_number": 1,
+      "section_number": "10",
+      "statute_id": ""
+    },
+    {
+      "id": "4a91864f-c762-4398-bb14-95aa1b00d259",
+      "node_type": "Clause",
+      "publisher": "finlex",
+      "title": "§ 10 mom 2",
+      "text": "2) päästöistä laadittavien selvitysten toimittamista päästökauppaviranomaiselle koskevat vaatimukset.",
+      "clause_number": 2,
+      "section_number": "10",
+      "statute_id": ""
+    },
+    {
+      "id": "1bb4de82-3787-4bd4-b70f-7c869e77c217",
+      "node_type": "Clause",
+      "publisher": "finlex",
+      "title": "§ 13 mom 1",
+      "text": "1) laitoksen toimintaa koskeva lupa on rauennut ympäristönsuojelulain 57 §:n perusteella tai lupa on peruutettu ympäristönsuojelulain 59 §:n perusteella;",
+      "clause_number": 1,
+      "section_number": "13",
+      "statute_id": ""
+    },
+    {
+      "id": "65ccfc7c-04a3-47dd-ae53-5b62eaf157c5",
+      "node_type": "Clause",
+      "publisher": "finlex",
+      "title": "§ 13 mom 2",
+      "text": "2) laitos on poistettu käytöstä pysyvästi; tai",
+      "clause_number": 2,
+      "section_number": "13",
+      "statute_id": ""
+    },
+    {
+      "id": "6e1d3f76-8160-40f5-b416-cb8bf5af4a19",
+      "node_type": "Clause",
+      "publisher": "finlex",
+      "title": "§ 13 mom 3",
+      "text": "3) luvanhaltija ilmoittaa, ettei toimintaa aloiteta.",
+      "clause_number": 3,
+      "section_number": "13",
+      "statute_id": ""
+    },
+    {
+      "id": "7516f201-1b4f-404e-ae92-461f51075210",
+      "node_type": "Clause",
+      "publisher": "finlex",
+      "title": "§ 13 mom 1",
+      "text": "1) luvanhaltija on olennaisesti rikkonut päästöoikeuksien vuosittaista palauttamista tai päästöjen tarkkailua, ilmoittamista ja todentamista koskevia velvoitteitaan eikä päästökauppaviranomaisen kehotuksesta huolimatta ole täyttänyt velvoitteitaan; tai",
+      "clause_number": 1,
+      "section_number": "13",
+      "statute_id": ""
+    },
+    {
+      "id": "a7ca33b2-2f1e-454d-bbc5-9271dc138786",
+      "node_type": "Clause",
+      "publisher": "finlex",
+      "title": "§ 13 mom 2",
+      "text": "2) luvanhaltija ei päästökauppaviranomaisen kehotuksesta huolimatta ole ilmoittanut laitoksen laajennuksesta tai toiminnan muutoksista tai päästöjen tarkkailua koskevista muutoksista, jotka voivat edellyttää päästöluvan muuttamista tai lupaehtojen tarkistamista.",
+      "clause_number": 2,
+      "section_number": "13",
+      "statute_id": ""
+    },
+    {
+      "id": "c44b03ea-4b51-4888-98ce-47881d78b5b8",
+      "node_type": "Clause",
+      "publisher": "finlex",
+      "title": "§ 23 mom 1",
+      "text": "1) alaryhmään C2 kuuluvan laitoksen vuotuisesta polttoainekulutuksesta vähennetään laitoksen tuottaman lauhdesähkön laskennallinen polttoainetarve käyttäen hyötysuhteena arvoa 0,4 ja käyttäen lauhdesähkön polttoainejakautumana laitoksen kyseisen vuoden polttoainejakautumaa;",
+      "clause_number": 1,
+      "section_number": "23",
+      "statute_id": ""
+    },
+    {
+      "id": "fd239ec6-6fcf-45b7-9311-068a83b5768d",
+      "node_type": "Clause",
+      "publisher": "finlex",
+      "title": "§ 23 mom 2",
+      "text": "2) laitoksen vuotuinen polttoainekulutus korjataan vastaamaan pitkän aikavälin ulkolämpötilaa kertomalla kyseiset polttoainekulutukset kertoimella, joka saadaan, kun kerrotaan luku 0,65 laitoksen sijaintipaikan suuralueen vuosien 1971―2000 keskimääräisen ja tarkastelujaksolla 1998―2002 toteutuneen vuotuisen lämmitystarveluvun suhteella ja kun näin saatuun tuloon lisätään 0,35; alaryhmään C2 kuuluvan laitoksen osalta lämpötilakorjaus tehdään polttoainekulutuksille, joista on poistettu kohdassa 1 mainittu polttoainekulutus;",
+      "clause_number": 2,
+      "section_number": "23",
+      "statute_id": ""
+    },
+    {
+      "id": "8a1f0765-d665-40fd-aaf2-f2b427aa7b32",
+      "node_type": "Clause",
+      "publisher": "finlex",
+      "title": "§ 23 mom 3",
+      "text": "3) edellä määritellyllä tavalla laskettu keskimääräinen polttoainekulutus kerrotaan keskimääräisellä ominaispäästökertoimella;",
+      "clause_number": 3,
+      "section_number": "23",
+      "statute_id": ""
+    },
+    {
+      "id": "316684a2-8c99-456e-8049-55d69529f864",
+      "node_type": "Clause",
+      "publisher": "finlex",
+      "title": "§ 23 mom 4",
+      "text": "4) edellä laskettu luku kerrotaan laitoksen tai mahdollisesti muiden samaan kaukolämpöverkkoon liitettyjen saman toiminnanharjoittajan laitosten vuoden 2002 loppuun mennessä tehtyjen kaukolämpöasiakkaiden lämpösopimusten tilaustehojen summalla ja jaetaan vuoden 1997 loppuun mennessä tehtyjen lämpösopimusten tilaustehojen summalla;",
+      "clause_number": 4,
+      "section_number": "23",
+      "statute_id": ""
+    },
+    {
+      "id": "ff4a51a4-8f20-4b4f-bdf1-054c404631a7",
+      "node_type": "Clause",
+      "publisher": "finlex",
+      "title": "§ 23 mom 5",
+      "text": "5) näin saatuun päästöoikeuksien määrään lisätään kohdassa 1 tarkoitettu alaryhmän D jakoperusteiden mukaisesti laskettu päästöoikeuksien määrä.",
+      "clause_number": 5,
+      "section_number": "23",
+      "statute_id": ""
+    },
+    {
+      "id": "510c140a-b6b4-47bf-9f39-5376f15b3354",
+      "node_type": "Clause",
+      "publisher": "finlex",
+      "title": "§ 24 mom 1",
+      "text": "1) näitä laitoksia käsitellään yhtenä kokonaisuutena laskemalla niiden kaukolämmön tuotannon polttoainekulutukset ja hiilidioksidipäästöt yhteen kunakin tarkastelujakson vuonna;",
+      "clause_number": 1,
+      "section_number": "24",
+      "statute_id": ""
+    },
+    {
+      "id": "76b6a24d-9ddf-44ba-b644-dba2924cf90c",
+      "node_type": "Clause",
+      "publisher": "finlex",
+      "title": "§ 24 mom 2",
+      "text": "2) näin käsitellylle kokonaisuudelle määritellään päästöoikeudet 23 §:n mukaisesti ja näin saadut päästöoikeudet kohdistetaan yksittäisille laitoksille siinä suhteessa kuin niillä on ollut hiilidioksidipäästöjä yhteisinä toimintavuosina vuoden 1998 jälkeen.",
+      "clause_number": 2,
+      "section_number": "24",
+      "statute_id": ""
+    },
+    {
+      "id": "3a1360d2-a828-4feb-a2eb-d7c1c01b010a",
+      "node_type": "Clause",
+      "publisher": "finlex",
+      "title": "§ 26 mom 1",
+      "text": "1) laitoksille, jotka ovat valmistuneet vuonna 1998 ja joilla oli vuoden 2002 loppuun mennessä neljä täyttä toimintavuotta, myönnetään päästöoikeuksia kyseisen alaryhmän jakoperusteiden mukaan siten, että laskennassa poistetaan laitosten toteutuneiden polttoainekulutuksen ja ominaispäästöjen suurimmat ja pienimmät vuosiarvot ja laskentakaavassa käytetään polttoainekulutuksen ja ominaispäästöjen keskiarvona kahden jäljelle jääneen vuoden aritmeettista keskiarvoa;",
+      "clause_number": 1,
+      "section_number": "26",
+      "statute_id": ""
+    },
+    {
+      "id": "dcebb276-d9a2-4c76-b405-e65141c2eee5",
+      "node_type": "Clause",
+      "publisher": "finlex",
+      "title": "§ 26 mom 2",
+      "text": "2) laitoksille, jotka ovat valmistuneet vuonna 1999 ja joilla oli vuoden 2002 loppuun mennessä kolme täyttä toimintavuotta, myönnetään päästöoikeuksia kyseisen alaryhmän jakoperusteiden mukaan ottamalla mukaan vuoden 2003 arvot siten, että laskennassa poistetaan laitosten toteutuneiden polttoainekulutusten ja ominaispäästöjen suurimmat ja pienimmät vuosiarvot; laskentakaavassa käytetään polttoainekulutuksen ja ominaispäästöjen keskiarvona kahden jäljelle jääneen vuoden aritmeettista keskiarvoa;",
+      "clause_number": 2,
+      "section_number": "26",
+      "statute_id": ""
+    },
+    {
+      "id": "ac469d17-0cc3-4c56-8ca5-79b1deb94588",
+      "node_type": "Clause",
+      "publisher": "finlex",
+      "title": "§ 26 mom 3",
+      "text": "3) laitoksille, jotka ovat valmistuneet vuonna 2000 ja joilla oli vuoden 2002 loppuun mennessä kaksi täyttä toimintavuotta, jaetaan päästöoikeuksia kyseisen alaryhmän jakoperusteiden mukaan ottamalla mukaan vuoden 2003 arvot ja laskelmalla näistä kolmesta vuodesta aritmeettinen keskiarvo;",
+      "clause_number": 3,
+      "section_number": "26",
+      "statute_id": ""
+    },
+    {
+      "id": "d0e7113a-56cb-46cd-ad25-59b0e6951ae6",
+      "node_type": "Clause",
+      "publisher": "finlex",
+      "title": "§ 26 mom 4",
+      "text": "4) laitoksille, jotka ovat valmistuneet vuonna 2001 ja joilla oli vuoden 2002 loppuun mennessä yksi täysi toimintavuosi, myönnetään päästöoikeuksia kyseisen alaryhmän jakoperusteiden mukaan ottaen mukaan vuoden 2003 polttoainekulutusten ja ominaispäästöjen arvot ja käyttämällä laskentakaavassa polttoainekulutusten ja ominaispäästöjen keskiarvoina vuosien 2002 ja 2003 aritmeettista keskiarvoa;",
+      "clause_number": 4,
+      "section_number": "26",
+      "statute_id": ""
+    },
+    {
+      "id": "7b400a45-f379-443e-b38e-fb527c5ae46f",
+      "node_type": "Clause",
+      "publisher": "finlex",
+      "title": "§ 26 mom 5",
+      "text": "5) laitoksille, jotka ovat valmistuneet vuonna 2002 ja joilla oli vuoden 2003 loppuun mennessä yksi täysi toimintavuosi, myönnetään päästöoikeuksia kyseisen alaryhmän jakoperusteiden mukaan ottaen mukaan toiminnanharjoittajan esittämät arviot vuoden 2004 polttoainekulutuksesta ja ominaispäästöistä ja käyttämällä laskentakaavassa polttoainekulutusten ja ominaispäästöjen keskiarvoina vuosien 2003 ja 2004 aritmeettista keskiarvoa;",
+      "clause_number": 5,
+      "section_number": "26",
+      "statute_id": ""
+    },
+    {
+      "id": "8d919e27-d4dd-4fb8-9e9b-e6e4a188c569",
+      "node_type": "Clause",
+      "publisher": "finlex",
+      "title": "§ 26 mom 6",
+      "text": "6) laitoksille, jotka ovat valmistuneet vuonna 2003 ja joilla on toukokuun 2004 loppuun mennessä yksi täysi toimintavuosi, myönnetään päästöoikeuksia kyseisen alaryhmän jakoperusteiden mukaan ja käyttämällä laskentakaavassa polttoainekulutuksen ja ominaispäästöjen vertailukautena laitoksen valmistumisen jälkeistä 12 kuukauden jaksoa sekä toiminnanharjoittajan arvioita tätä 12 kuukauden jaksoa seuraavasta 12 kuukauden jaksosta ja laskemalla näistä polttoainekulutuksen ja ominaispäästöjen aritmeettinen keskiarvo;",
+      "clause_number": 6,
+      "section_number": "26",
+      "statute_id": ""
+    },
+    {
+      "id": "4cfff184-4139-4315-91b1-2c8c8cf006c1",
+      "node_type": "Clause",
+      "publisher": "finlex",
+      "title": "§ 26 mom 7",
+      "text": "7) laitoksille, jotka ovat valmistuneet vuoden 2003 toukokuun lopun ja sen ajankohdan välisenä aikana, jolloin valtioneuvosto päättää 34 §:n mukaisesti kansallisesta jakosuunnitelmakehyksestä, myönnetään päästöoikeuksia kyseisen alaryhmän jakoperusteiden mukaan käyttämällä laskentakaavassa toiminnanharjoittajan arvioita polttoainemääristä ja ominaispäästökertoimista laitoksen valmistumisen jälkeiseltä 12 kuukauden jaksolta tai käyttämällä uusille osallistujille käytettäviä arvoja. Näistä valitaan se vaihtoehto, joka kyseisen alaryhmän laskentaperusteiden mukaan antaa pienimmät päästöoikeudet.",
+      "clause_number": 7,
+      "section_number": "26",
+      "statute_id": ""
+    },
+    {
+      "id": "361f5a6a-b9ce-4144-85e3-1749b744b150",
+      "node_type": "Clause",
+      "publisher": "finlex",
+      "title": "§ 27 mom 1",
+      "text": "1) laitokselle, joka rakennetaan uudelle tai olemassa olevalle laitosalueelle ja joka kuuluu 2 tai 3 §:n mukaan lain soveltamisalaan;",
+      "clause_number": 1,
+      "section_number": "27",
+      "statute_id": ""
+    },
+    {
+      "id": "f29d7c0a-a8ae-4a47-9f79-ecf7eca5cbb8",
+      "node_type": "Clause",
+      "publisher": "finlex",
+      "title": "§ 27 mom 2",
+      "text": "2) laitokselle, joka tulee lain soveltamisalaan sen seurauksena, että laitospaikalle rakennettavan polttolaitoksen nimellinen lämpöteho laitospaikalla jo olevien laitosten nimellisten lämpötehojen kanssa yhteensä ylittää 20 megawattia, tai jos laitospaikan yhteenlaskettu kapasiteetti muuten ylittää 2 §:ssä tarkoitetut kapasiteettirajat;",
+      "clause_number": 2,
+      "section_number": "27",
+      "statute_id": ""
+    },
+    {
+      "id": "85df5e4d-aad1-49f4-83cf-3411aeab7bc0",
+      "node_type": "Clause",
+      "publisher": "finlex",
+      "title": "§ 27 mom 3",
+      "text": "3) laitokselle, joka liitetään kaukolämpöverkkoon, johon liitetyistä polttolaitoksista yhdenkin nimellinen lämpöteho on yli 20 megawattia;",
+      "clause_number": 3,
+      "section_number": "27",
+      "statute_id": ""
+    },
+    {
+      "id": "8a44c7c1-7e75-48f0-8b5f-5490663208b1",
+      "node_type": "Clause",
+      "publisher": "finlex",
+      "title": "§ 27 mom 4",
+      "text": "4) olemassa olevalle nimelliseltä lämpöteholtaan enintään 20 megawatin laitokselle, joka on osa yhdyskuntia palvelevaa lämmönjakeluverkkoa, johon liitetään uusi nimelliseltä lämpöteholtaan yli 20 megawatin laitos;",
+      "clause_number": 4,
+      "section_number": "27",
+      "statute_id": ""
+    },
+    {
+      "id": "ce7b23e5-da3b-4130-84ed-e6687b43781a",
+      "node_type": "Clause",
+      "publisher": "finlex",
+      "title": "§ 27 mom 5",
+      "text": "5) polttolaitoksen muutokselle, joka lisää laitoksen nimellistä lämpötehoa 20 megawatilla tai vähintään 10 prosentilla;",
+      "clause_number": 5,
+      "section_number": "27",
+      "statute_id": ""
+    },
+    {
+      "id": "725ece8f-01e5-4c51-b7f8-5fc2da9975e9",
+      "node_type": "Clause",
+      "publisher": "finlex",
+      "title": "§ 27 mom 6",
+      "text": "6) alaryhmään A1 tai A2 kuuluvan laitoksen tai prosessin muutokselle, joka lisää laitoksen tai prosessin tuotantokapasiteettia siten, että muutos on vähintään 10 prosenttia tai suurempi kuin päästökauppadirektiivin liitteessä mainitut rajat niille laitoksille, jotka kuuluvat direktiivin piiriin; massanvalmistukselle käytetään paperinvalmistuksen rajaa 20 tonnia päivässä; sekä",
+      "clause_number": 6,
+      "section_number": "27",
+      "statute_id": ""
+    },
+    {
+      "id": "e540b985-8d75-442a-aa90-e406758e7c5b",
+      "node_type": "Clause",
+      "publisher": "finlex",
+      "title": "§ 27 mom 7",
+      "text": "7) ennen tämän lain voimaantuloa olemassa olleelle laitokselle, jonka päästöt lisääntyvät väistämättömästi Euroopan yhteisöjen lainsäädännön vaatimusten seurauksena yli 10 prosenttia ja jossa näiden vaatimusten johdosta tehdään investointeja.",
+      "clause_number": 7,
+      "section_number": "27",
+      "statute_id": ""
+    },
+    {
+      "id": "3305f7c4-eb35-4c4f-a1b9-10d7457c0c67",
+      "node_type": "Clause",
+      "publisher": "finlex",
+      "title": "§ 28 mom 1",
+      "text": "1) kaukolämmön ja siihen liittyvän sähkön peruskuorman tuotanto: 6 000 tuntia vuodessa;",
+      "clause_number": 1,
+      "section_number": "28",
+      "statute_id": ""
+    },
+    {
+      "id": "0d708e4a-1023-4fff-b35f-1e00815cf2df",
+      "node_type": "Clause",
+      "publisher": "finlex",
+      "title": "§ 28 mom 2",
+      "text": "2) prosessiteollisuuden (massa- ja paperi-, öljynjalostus-, kemian- ja rakennusaineteollisuus ja metallien valmistus) tuotanto ja siihen liittyvä lämmön tai höyryn tuotanto: vastaavan toiminnan sadan prosentin käyttöastetta vastaava käyttöaika vuosina 1998―2002;",
+      "clause_number": 2,
+      "section_number": "28",
+      "statute_id": ""
+    },
+    {
+      "id": "9822845a-a64f-4d97-ad48-3f47cb771e16",
+      "node_type": "Clause",
+      "publisher": "finlex",
+      "title": "§ 28 mom 3",
+      "text": "3) muun teollisuuden lämmön tai höyryn tuotanto: vastaavan toiminnon keskimääräinen huipunkäyttöaika vuosina 1998―2002;",
+      "clause_number": 3,
+      "section_number": "28",
+      "statute_id": ""
+    },
+    {
+      "id": "57a3af48-99a9-4f38-b60e-3d2e15592c59",
+      "node_type": "Clause",
+      "publisher": "finlex",
+      "title": "§ 28 mom 4",
+      "text": "4) lauhdutusvoimalaitos: 6 000 tuntia vuodessa; sekä",
+      "clause_number": 4,
+      "section_number": "28",
+      "statute_id": ""
+    },
+    {
+      "id": "caf7cd36-abca-41e3-a96d-961b709b8413",
+      "node_type": "Clause",
+      "publisher": "finlex",
+      "title": "§ 28 mom 5",
+      "text": "5) huippukaasuturpiinit, kaukolämmön tai teollisuuden lämmön tai höyryn varakattila taikka muu vastaava satunnaisesti käytettävä laitos: 500 tuntia vuodessa.",
+      "clause_number": 5,
+      "section_number": "28",
+      "statute_id": ""
+    },
+    {
+      "id": "bcced5f6-9eb4-4e4f-8f89-ce69a19d088f",
+      "node_type": "Clause",
+      "publisher": "finlex",
+      "title": "§ 28 mom 1",
+      "text": "1) jos laitos on suunniteltu polttamaan nestemäistä tai kaasumaista polttoainetta, ominaispäästökertoimena käytetään 56,0 g CO2/MJ;",
+      "clause_number": 1,
+      "section_number": "28",
+      "statute_id": ""
+    },
+    {
+      "id": "633aeadd-52ef-4572-8543-97229d79832f",
+      "node_type": "Clause",
+      "publisher": "finlex",
+      "title": "§ 28 mom 2",
+      "text": "2) jos laitos on suunniteltu polttamaan pääasiassa kiinteää polttoainetta, ominaispäästökertoimena käytetään 74,2 g CO2/MJ, mikä vastaa seospolttoainetta, jossa turvetta on 70 prosenttia ja puuta 30 prosenttia; tai",
+      "clause_number": 2,
+      "section_number": "28",
+      "statute_id": ""
+    },
+    {
+      "id": "3bd00c2a-8dd5-4478-b48f-eada58e61fb4",
+      "node_type": "Clause",
+      "publisher": "finlex",
+      "title": "§ 28 mom 3",
+      "text": "3) jos uusi laitos kuuluu alaryhmiin A1 tai A2, käytetään alaryhmän vastaavan toiminnon alhaisinta toteutunutta vuosittaista ominaispäästökerrointa vuosina 1998―2002.",
+      "clause_number": 3,
+      "section_number": "28",
+      "statute_id": ""
+    },
+    {
+      "id": "c897d152-05d3-4964-b70d-3ffa24c165a2",
+      "node_type": "Clause",
+      "publisher": "finlex",
+      "title": "§ 30 mom 1",
+      "text": "1) hyväksytystä kokonaismäärästä vähennetään uusille osallistujille varattava päästöoikeuksien määrä ja näin saatu tulos jaetaan 20―26 ja 29 §:n perusteella laskettavien päästöoikeuksien summalla; ja",
+      "clause_number": 1,
+      "section_number": "30",
+      "statute_id": ""
+    },
+    {
+      "id": "e20e98f3-a7f9-4e3a-afd5-bac0646aca9d",
+      "node_type": "Clause",
+      "publisher": "finlex",
+      "title": "§ 30 mom 2",
+      "text": "2) näin saadulla suhdeluvulla kerrotaan alun perin muodostuvat laitoskohtaiset päästöoikeudet.",
+      "clause_number": 2,
+      "section_number": "30",
+      "statute_id": ""
+    },
+    {
+      "id": "9d0d43df-26a7-4437-b7e9-602a70c20b75",
+      "node_type": "Clause",
+      "publisher": "finlex",
+      "title": "§ 35 mom 1",
+      "text": "1) päästöoikeuksien kokonaismäärä perusteluineen;",
+      "clause_number": 1,
+      "section_number": "35",
+      "statute_id": ""
+    },
+    {
+      "id": "4f39125d-4f97-4281-80b7-25b600f84ce9",
+      "node_type": "Clause",
+      "publisher": "finlex",
+      "title": "§ 35 mom 2",
+      "text": "2) päästöoikeuksien jakomenetelmä;",
+      "clause_number": 2,
+      "section_number": "35",
+      "statute_id": ""
+    },
+    {
+      "id": "2972b70a-3f8e-4828-b549-2a7462eb4eea",
+      "node_type": "Clause",
+      "publisher": "finlex",
+      "title": "§ 35 mom 3",
+      "text": "3) päästöoikeuksien jakoperusteet perusteluineen;",
+      "clause_number": 3,
+      "section_number": "35",
+      "statute_id": ""
+    },
+    {
+      "id": "eeefec1c-b9e9-49a3-a3b2-f999ce017e2d",
+      "node_type": "Clause",
+      "publisher": "finlex",
+      "title": "§ 35 mom 4",
+      "text": "4) uusille osallistujille varattava päästöoikeusmäärä;",
+      "clause_number": 4,
+      "section_number": "35",
+      "statute_id": ""
+    },
+    {
+      "id": "4f3e15e3-2b46-49ce-8e8c-84e798c37c3d",
+      "node_type": "Clause",
+      "publisher": "finlex",
+      "title": "§ 35 mom 5",
+      "text": "5) uusille osallistujille jaettavien päästöoikeuksien jakoperusteet perusteluineen;",
+      "clause_number": 5,
+      "section_number": "35",
+      "statute_id": ""
+    },
+    {
+      "id": "894bbd6a-e717-4c97-ab1f-5cc52894a6f5",
+      "node_type": "Clause",
+      "publisher": "finlex",
+      "title": "§ 35 mom 6",
+      "text": "6) luettelo laitoksista ja päästöoikeuksista, jotka niille kullekin aiotaan myöntää, sekä perustelut;",
+      "clause_number": 6,
+      "section_number": "35",
+      "statute_id": ""
+    },
+    {
+      "id": "cd4cda06-e2b9-415f-8eac-e5b752478050",
+      "node_type": "Clause",
+      "publisher": "finlex",
+      "title": "§ 35 mom 7",
+      "text": "7) mikä osuus päästöoikeuksien kokonaismäärästä kirjataan vuosittain toiminnanharjoittajien kyseisten laitosten kansallisessa rekisterissä olevalle tilille;",
+      "clause_number": 7,
+      "section_number": "35",
+      "statute_id": ""
+    },
+    {
+      "id": "5e20cea2-044e-4d38-b1bc-8e83e82a9f8a",
+      "node_type": "Clause",
+      "publisher": "finlex",
+      "title": "§ 35 mom 8",
+      "text": "8) miten esitystä valmisteltaessa annetut mielipiteet ja lausunnot on otettu huomioon.",
+      "clause_number": 8,
+      "section_number": "35",
+      "statute_id": ""
+    },
+    {
+      "id": "147470ac-8046-465d-bfc7-4d6eb959ef6d",
+      "node_type": "Clause",
+      "publisher": "finlex",
+      "title": "§ 38 mom 1",
+      "text": "1) edellä 35 §:n 1―5, 7 ja 8 kohdassa tarkoitetut seikat tarkistettuina;",
+      "clause_number": 1,
+      "section_number": "38",
+      "statute_id": ""
+    },
+    {
+      "id": "df70ee63-28eb-4554-9426-568997162a5b",
+      "node_type": "Clause",
+      "publisher": "finlex",
+      "title": "§ 38 mom 2",
+      "text": "2) Euroopan yhteisöjen komission kansalliseen esitykseen esittämät muutokset;",
+      "clause_number": 2,
+      "section_number": "38",
+      "statute_id": ""
+    },
+    {
+      "id": "77744a96-4334-4358-8f81-74f50951b9d2",
+      "node_type": "Clause",
+      "publisher": "finlex",
+      "title": "§ 38 mom 3",
+      "text": "3) laitokset sekä niille myönnettävät päästöoikeudet perusteluineen.",
+      "clause_number": 3,
+      "section_number": "38",
+      "statute_id": ""
+    },
+    {
+      "id": "0a35bfe3-63a1-478e-8e7f-eb6194e4abd8",
+      "node_type": "Clause",
+      "publisher": "finlex",
+      "title": "§ 40 mom 1",
+      "text": "1) selvitys uudesta laitoksesta ja sen toiminnasta taikka laitoksen muutoksesta;",
+      "clause_number": 1,
+      "section_number": "40",
+      "statute_id": ""
+    },
+    {
+      "id": "1d3bf940-3967-4e38-9933-011652dc045d",
+      "node_type": "Clause",
+      "publisher": "finlex",
+      "title": "§ 40 mom 2",
+      "text": "2) ajankohta, jolloin laitos tai sen muutos otetaan kaupalliseen käyttöön; sekä",
+      "clause_number": 2,
+      "section_number": "40",
+      "statute_id": ""
+    },
+    {
+      "id": "fc81f69a-5927-4ab8-857c-71bb7f325b33",
+      "node_type": "Clause",
+      "publisher": "finlex",
+      "title": "§ 40 mom 3",
+      "text": "3) muut tarvittavat tiedot päästöoikeuksien määrän laskemiseksi.",
+      "clause_number": 3,
+      "section_number": "40",
+      "statute_id": ""
+    },
+    {
+      "id": "a706860e-8409-4072-85f3-d3690f29037a",
+      "node_type": "Clause",
+      "publisher": "finlex",
+      "title": "§ 55 mom 1",
+      "text": "1) todentaja on toiminnallisesti ja taloudellisesti riippumaton;",
+      "clause_number": 1,
+      "section_number": "55",
+      "statute_id": ""
+    },
+    {
+      "id": "15f7f716-ac5a-4412-81ad-92d356c40caa",
+      "node_type": "Clause",
+      "publisher": "finlex",
+      "title": "§ 55 mom 2",
+      "text": "2) todentajalla on käytössään riittävästi ammattitaitoista ja puolueetonta henkilöstöä;",
+      "clause_number": 2,
+      "section_number": "55",
+      "statute_id": ""
+    },
+    {
+      "id": "24e9007b-3e32-4170-b6b8-c02361c9ed40",
+      "node_type": "Clause",
+      "publisher": "finlex",
+      "title": "§ 55 mom 3",
+      "text": "3) todentaja pystyy soveltamaan päästökauppaa koskevia säännöksiä ja standardeja sekä Euroopan yhteisöjen komission päästökauppadirektiivin nojalla antamia ohjeita;",
+      "clause_number": 3,
+      "section_number": "55",
+      "statute_id": ""
+    },
+    {
+      "id": "529bfde6-3f52-4ff7-9064-24704b212c7b",
+      "node_type": "Clause",
+      "publisher": "finlex",
+      "title": "§ 55 mom 4",
+      "text": "4) todentaja tuntee pätevyysalueensa toimintojen kutakin päästölähdettä ja erityisesti lukujen keräämistä, mittaamista, laskentaa ja raportointia koskevien tietojen syntytavan;",
+      "clause_number": 4,
+      "section_number": "55",
+      "statute_id": ""
+    },
+    {
+      "id": "f629c5ff-463e-491e-a9df-817b88120332",
+      "node_type": "Clause",
+      "publisher": "finlex",
+      "title": "§ 55 mom 5",
+      "text": "5) todentajalla on toiminnan edellyttämät laitteet, välineet ja järjestelmät;",
+      "clause_number": 5,
+      "section_number": "55",
+      "statute_id": ""
+    },
+    {
+      "id": "704653df-c59c-412b-9a3e-a9ad4cc6f872",
+      "node_type": "Clause",
+      "publisher": "finlex",
+      "title": "§ 55 mom 6",
+      "text": "6) todentajalla on riittävät taloudelliset voimavarat toiminnan asianmukaiseksi järjestämiseksi sekä mahdollisen korvausvastuun kattamiseksi; sekä",
+      "clause_number": 6,
+      "section_number": "55",
+      "statute_id": ""
+    },
+    {
+      "id": "65475e02-3b8c-48a9-a172-d9d6193d77eb",
+      "node_type": "Clause",
+      "publisher": "finlex",
+      "title": "§ 55 mom 7",
+      "text": "7) todentaja on Suomessa rekisteröity oikeushenkilö tai se on osa tällaista oikeushenkilöä.",
+      "clause_number": 7,
+      "section_number": "55",
+      "statute_id": ""
+    },
+    {
+      "id": "2e1a6c15-08da-4cdf-a685-aecc1d0c8185",
+      "node_type": "Clause",
+      "publisher": "finlex",
+      "title": "§ 67 mom 1",
+      "text": "1) laiminlyö hakea 7 §:ssä tarkoitettua kasvihuonekaasujen päästölupaa,",
+      "clause_number": 1,
+      "section_number": "67",
+      "statute_id": ""
+    },
+    {
+      "id": "a85f6c71-85f2-4552-8188-5a384e452290",
+      "node_type": "Clause",
+      "publisher": "finlex",
+      "title": "§ 67 mom 2",
+      "text": "2) laiminlyö 11―13 §:n mukaisen ilmoituksen tekemisen tai ilmoittaa vääriä tietoja,",
+      "clause_number": 2,
+      "section_number": "67",
+      "statute_id": ""
+    },
+    {
+      "id": "e16b3125-0f5f-4910-a02a-61180ce1338e",
+      "node_type": "Clause",
+      "publisher": "finlex",
+      "title": "§ 67 mom 1",
+      "text": "3) laiminlyö toimittaa 33 §:n 1 momentissa tarkoitettuja tietoja tai toimittaa kansallista jakosuunnitelmaesitystä tai päästöoikeuksien myöntämispäätöstä varten vääriä tietoja, tai",
+      "clause_number": 1,
+      "section_number": "67",
+      "statute_id": ""
+    },
+    {
+      "id": "445d17fe-af69-4ac7-94e2-0240e30b95a5",
+      "node_type": "Clause",
+      "publisher": "finlex",
+      "title": "§ 67 mom 3",
+      "text": "3) laiminlyö toimittaa 33 §:n 1 momentissa tarkoitettuja tietoja tai toimittaa kansallista jakosuunnitelmaesitystä tai päästöoikeuksien myöntämispäätöstä varten vääriä tietoja, tai",
+      "clause_number": 3,
+      "section_number": "67",
+      "statute_id": ""
+    },
+    {
+      "id": "6d09d6cc-8c50-43bf-9c2b-6781dd97329a",
+      "node_type": "Clause",
+      "publisher": "finlex",
+      "title": "§ 67 mom 3",
+      "text": "4) laiminlyö esittää 61 §:n 3 momentissa tarkoitetut asiakirjat ja tallenteet,",
+      "clause_number": 3,
+      "section_number": "67",
+      "statute_id": ""
+    },
+    {
+      "id": "36334de4-bdaa-4c17-a0db-72f25af08ea4",
+      "node_type": "Clause",
+      "publisher": "finlex",
+      "title": "§ 67 mom 4",
+      "text": "4) laiminlyö esittää 61 §:n 3 momentissa tarkoitetut asiakirjat ja tallenteet,",
+      "clause_number": 4,
+      "section_number": "67",
+      "statute_id": ""
+    },
+    {
+      "id": "86d2f79f-de4a-465d-b4d9-064e9b63c6bd",
+      "node_type": "Clause",
+      "publisher": "finlex",
+      "title": "§ 72 mom 1",
+      "text": "1) 1 §, 6 §:n 3 kohta;",
+      "clause_number": 1,
+      "section_number": "72",
+      "statute_id": ""
+    },
+    {
+      "id": "2bf6a89f-bdbd-4dcf-9edb-a4535863e086",
+      "node_type": "Clause",
+      "publisher": "finlex",
+      "title": "§ 72 mom 2",
+      "text": "2) 31, 37―41 ja 45―51 §;",
+      "clause_number": 2,
+      "section_number": "72",
+      "statute_id": ""
+    },
+    {
+      "id": "93ca88a5-d1b9-4b4d-9fb0-4ddcda5678fe",
+      "node_type": "Clause",
+      "publisher": "finlex",
+      "title": "§ 72 mom 3",
+      "text": "3) 62―65 §; sekä",
+      "clause_number": 3,
+      "section_number": "72",
+      "statute_id": ""
+    },
+    {
+      "id": "110307b3-af47-4cae-a910-b3c08e1cd58c",
+      "node_type": "Clause",
+      "publisher": "finlex",
+      "title": "§ 72 mom 3",
+      "text": "4) 69 §:n 2 ja 3 momentti ja 71 §.",
+      "clause_number": 3,
+      "section_number": "72",
+      "statute_id": ""
+    },
+    {
+      "id": "96e722b0-91ba-4ceb-8ea4-b8eb03db3ec9",
+      "node_type": "Clause",
+      "publisher": "finlex",
+      "title": "§ 72 mom 4",
+      "text": "4) 69 §:n 2 ja 3 momentti ja 71 §.",
+      "clause_number": 4,
+      "section_number": "72",
+      "statute_id": ""
+    }
+  ],
+  "cross_references": [],
+  "raw_html_path": "C:\\Users\\danit\\finance-hack\\aalto-hackaton-2026\\data\\raw\\finlex\\Laki (säädöskokoelma)\\Päästökauppalaki.html"
+}

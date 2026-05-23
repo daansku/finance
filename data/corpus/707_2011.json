@@ -1,0 +1,1288 @@
+{
+  "statute": {
+    "id": "9e906062-284c-4d76-86da-6b495802c700",
+    "node_type": "Statute",
+    "publisher": "finlex",
+    "title": "Laki puutavaran mittauksesta",
+    "text": "Laki puutavaran mittauksesta",
+    "statute_id": "707/2011",
+    "finlex_url": "https://finlex.fi/fi/laki/ajantasa/707/2011"
+  },
+  "chapters": [
+    {
+      "id": "f591969d-1664-49d9-9d3a-3a948e160216",
+      "node_type": "Chapter",
+      "publisher": "finlex",
+      "title": "Chapter 1",
+      "text": "1 luku Yleiset säännökset",
+      "chapter_number": 1,
+      "statute_id": "707/2011"
+    },
+    {
+      "id": "7b05a9d0-5699-4f69-9dc9-4c899b45b685",
+      "node_type": "Chapter",
+      "publisher": "finlex",
+      "title": "Chapter 2",
+      "text": "2 luku Puutavaranmittauksen organisaatiot ja viranomaiset",
+      "chapter_number": 2,
+      "statute_id": "707/2011"
+    },
+    {
+      "id": "fdaf58cb-b9d5-4408-b076-e70c76d3f58d",
+      "node_type": "Chapter",
+      "publisher": "finlex",
+      "title": "Chapter 3",
+      "text": "3 luku Mittausmenetelmäryhmät sekä mittausmenetelmät ja -laitteet",
+      "chapter_number": 3,
+      "statute_id": "707/2011"
+    },
+    {
+      "id": "22b8f3b1-9d7d-437a-bec8-a9f0ae1f0449",
+      "node_type": "Chapter",
+      "publisher": "finlex",
+      "title": "Chapter 4",
+      "text": "4 luku Puutavaran mittaus",
+      "chapter_number": 4,
+      "statute_id": "707/2011"
+    },
+    {
+      "id": "a222e40c-17dd-40e4-89b1-9667f4a2a7c4",
+      "node_type": "Chapter",
+      "publisher": "finlex",
+      "title": "Chapter 5",
+      "text": "5 luku Virallinen mittaus",
+      "chapter_number": 5,
+      "statute_id": "707/2011"
+    },
+    {
+      "id": "6f493139-0cc9-43d4-bd61-1560cd4110e5",
+      "node_type": "Chapter",
+      "publisher": "finlex",
+      "title": "Chapter 6",
+      "text": "6 luku Tehdasmittauksen valvontamittaus",
+      "chapter_number": 6,
+      "statute_id": "707/2011"
+    },
+    {
+      "id": "d1d9b4b8-ccc7-4ee3-afda-f544535c9948",
+      "node_type": "Chapter",
+      "publisher": "finlex",
+      "title": "Chapter 7",
+      "text": "7 luku Hallinnolliset pakkokeinot, kiellot ja seuraamukset",
+      "chapter_number": 7,
+      "statute_id": "707/2011"
+    },
+    {
+      "id": "260a10fe-d5fb-472d-aad8-b90390512864",
+      "node_type": "Chapter",
+      "publisher": "finlex",
+      "title": "Chapter 8",
+      "text": "8 luku Muutoksenhaku ja eräät menettelyt",
+      "chapter_number": 8,
+      "statute_id": "707/2011"
+    },
+    {
+      "id": "e24c3a90-0836-4d89-80a6-b4bbcc4c8d82",
+      "node_type": "Chapter",
+      "publisher": "finlex",
+      "title": "Chapter 9",
+      "text": "9 luku Maksut",
+      "chapter_number": 9,
+      "statute_id": "707/2011"
+    },
+    {
+      "id": "73e8eec7-0227-417a-8eba-84688ed541f7",
+      "node_type": "Chapter",
+      "publisher": "finlex",
+      "title": "Chapter 10",
+      "text": "10 luku Erinäiset säännökset",
+      "chapter_number": 10,
+      "statute_id": "707/2011"
+    },
+    {
+      "id": "56b54574-9e99-426e-b534-0ecb7034986f",
+      "node_type": "Chapter",
+      "publisher": "finlex",
+      "title": "Chapter 11",
+      "text": "11 luku Voimaantulo",
+      "chapter_number": 11,
+      "statute_id": "707/2011"
+    }
+  ],
+  "sections": [
+    {
+      "id": "6f5f1d99-471c-4c38-9852-9408264f56fb",
+      "node_type": "Section",
+      "publisher": "finlex",
+      "title": "1 § Lain tarkoitus",
+      "text": "Tämän lain tarkoituksena on turvata jalostamattoman puutavaran mittauksessa käytettävien menetelmien, laitteiden toiminnan ja mittaustulosten luotettavuus.",
+      "section_number": "1",
+      "chapter_number": 1,
+      "statute_id": "707/2011"
+    },
+    {
+      "id": "d1dff4d4-4c0c-495b-a35b-11f2ecffccfd",
+      "node_type": "Section",
+      "publisher": "finlex",
+      "title": "2 § Lain soveltamisala ja suhde muuhun lainsäädäntöön",
+      "text": "Tätä lakia sovelletaan jalostamattoman puutavaran määrän mittaukseen kauppahinnan, työn tekemisen määrän perusteella suoritettavan palkan tai urakointimaksujen taikka muun korvauksen määrittämistä varten, jos 3 §:ssä ei muuta säädetä. Lakia sovelletaan myös laadun mittaamiseen, jos laatua käytetään arvoltaan erilaisten jalostamattoman puutavaran ositteiden jakoperusteena. Maasta vietävän ja maahan tuotavan jalostamattoman puutavaran mittauksessa tätä lakia sovelletaan vain mittauslaitevaatimuksien osalta. Tätä lakia sovelletaan kuitenkin kokonaisuudessaan jalostamattoman puutavaran määrän luovutusmittaukseen vientikaupassa Suomessa, jos viejä ostaa puun: Tätä lakia sovelletaan jalostamattoman puutavaran mittaukseen vain mittauslaitevaatimuksien osalta, jos tavoiteltu mittaussuure on energiasisältö tai lämpöarvo. Puutavaran punnitsemiseen ei-automaattisilla vaaoilla sovelletaan mittauslaitelakia (707/2011).",
+      "section_number": "2",
+      "chapter_number": 1,
+      "statute_id": "707/2011"
+    },
+    {
+      "id": "77853979-28f2-481f-a8b2-5fda1bb321f9",
+      "node_type": "Section",
+      "publisher": "finlex",
+      "title": "3 § Erikseen sovittavat asiat",
+      "text": "Konsernin tai yrityksen sisäisessä tai näiden välisessä luovutusmittauksessa tai laajamittaisessa terminaali-, vaihto-, haketus- tai kuljetusurakointimittauksessa mittausosapuolet voivat sopia poikkeavansa 13 §:ssä tarkoitetusta mittaustuloksen suurimmasta sallitusta poikkeamasta, 14 §:ssä tarkoitettujen mittausmenetelmäryhmien vaatimuksista sekä 17 ja 18 §:ssä tarkoitetusta omavalvonnasta. Edellä tarkoitettua sopimisoikeutta ei ole: Edellä 1 momentissa tarkoitettuun sopimukseen yritysten välisestä luovutusmittauksesta on sisällytettävä kuvaus käytettävästä mittausmenetelmästä, sen poikkeamisesta 1 momentissa tarkoitetuista säännöksistä ja mittauksen luotettavuuden varmistamisesta. Edellä 1 momentissa tarkoitetuissa mittauksissa on käytettävä tämän lain vaatimukset täyttäviä mittauslaitteita tämän lain vaatimusten mukaisesti. Edellä 2 momentissa tarkoitetun kuvauksen sisällöstä voidaan tarvittaessa antaa tarkempia säännöksiä maa- ja metsätalousministeriön asetuksella.",
+      "section_number": "3",
+      "chapter_number": 1,
+      "statute_id": "707/2011"
+    },
+    {
+      "id": "6f0639f0-5bcf-4f3f-be59-b6af6c8efa80",
+      "node_type": "Section",
+      "publisher": "finlex",
+      "title": "4 § Määritelmät",
+      "text": "Tässä laissa tarkoitetaan:",
+      "section_number": "4",
+      "chapter_number": 1,
+      "statute_id": "707/2011"
+    },
+    {
+      "id": "8a2920d7-6ef3-4382-a383-447bd159518e",
+      "node_type": "Section",
+      "publisher": "finlex",
+      "title": "5 § Ministeriö",
+      "text": "Tämän lain noudattamista koskevan valvonnan ylin johto ja ohjaus kuuluvat maa- ja metsätalousministeriölle.",
+      "section_number": "5",
+      "chapter_number": 2,
+      "statute_id": "707/2011"
+    },
+    {
+      "id": "743fbef4-36ca-47d0-8ce3-ef6f77c9ae00",
+      "node_type": "Section",
+      "publisher": "finlex",
+      "title": "6 § Metsäntutkimuslaitos ja viralliset mittaajat",
+      "text": "Metsäntutkimuslaitos huolehtii tämän lain mukaisista tutkimus- ja kehittämistehtävistä. Metsäntutkimuslaitos antaa maa- ja metsätalousministeriön pyynnöstä puutavaranmittausta koskevia lausuntoja. Metsäntutkimuslaitoksessa on virallisia mittaajia, joiden tehtävänä on tämän lain noudattamisen valvonta, valvontamittaus ja mittauserimielisyyksien ratkaiseminen virallisena mittauksena. Virallisten mittaajien tehtäviin kuuluu myös puutavaran mittaukseen liittyvä neuvonta.",
+      "section_number": "6",
+      "chapter_number": 2,
+      "statute_id": "707/2011"
+    },
+    {
+      "id": "e6cf95f3-e7ca-4c93-87b4-dc3b73624549",
+      "node_type": "Section",
+      "publisher": "finlex",
+      "title": "7 § Puutavaranmittauksen neuvottelukunta",
+      "text": "Maa- ja metsätalousministeriön toimialalla on puutavaranmittauksen olennaisten sidosryhmien edustajista koostuva puutavaranmittauksen neuvottelukunta. Neuvottelukunnan tehtävänä on antaa lausuntoja, tehdä ehdotuksia puutavaran mittauksen kehittämiseksi sekä edistää ja ylläpitää hyviä mittauskäytäntöjä. Neuvottelukunta voi esittää Metsäntutkimuslaitokselle 14 §:n 3 momentissa tarkoitettujen muuntolukujen tarkistamista. Puutavaranmittauksen neuvottelukunnan kokoonpanosta ja tehtävien sisällöstä annetaan tarkempia säännöksiä valtioneuvoston asetuksella.",
+      "section_number": "7",
+      "chapter_number": 2,
+      "statute_id": "707/2011"
+    },
+    {
+      "id": "e3ca5fd2-840f-44eb-89ac-b9da747ae654",
+      "node_type": "Section",
+      "publisher": "finlex",
+      "title": "8 § Puutavaran mittauslautakunta",
+      "text": "Puutavaran mittauslautakunta, jäljempänämittauslautakunta, toimii ensimmäisenä muutoksenhakuasteena puutavaranmittausta koskevissa asioissa ja käsittelee sille tämän lain nojalla siirretyt asiat. Maa- ja metsätalousministeriö asettaa mittauslautakunnan neljäksi vuodeksi puutavaranmittauksen neuvottelukuntaa kuultuaan.",
+      "section_number": "8",
+      "chapter_number": 2,
+      "statute_id": "707/2011"
+    },
+    {
+      "id": "600af0e2-7657-4c19-9175-979b769c5700",
+      "node_type": "Section",
+      "publisher": "finlex",
+      "title": "9 § Mittauslautakunnan kokoonpano",
+      "text": "Mittauslautakuntaan kuuluu kaksi pysyvää jäsentä, joista toinen on puheenjohtaja, ja enintään kuusi vaihtuvaa asiantuntijajäsentä. Pysyvillä jäsenillä on kummallakin yksi henkilökohtainen varajäsen. Mitä tässä laissa säädetään mittauslautakunnan pysyvästä jäsenestä, koskee myös henkilökohtaista varajäsentä. Virallinen mittaaja ja puutavaranmittauksen neuvottelukunnan jäsen eivät saa toimia mittauslautakunnan jäseninä. Metsäntutkimuslaitoksen palveluksessa oleva ei saa toimia mittauslautakunnan pysyvänä jäsenenä.",
+      "section_number": "9",
+      "chapter_number": 2,
+      "statute_id": "707/2011"
+    },
+    {
+      "id": "fd19b871-e122-4b71-9d8d-485165f8cf1b",
+      "node_type": "Section",
+      "publisher": "finlex",
+      "title": "10 § Virallisen mittaajan ja mittauslautakunnan jäsenen kelpoisuusvaatimukset",
+      "text": "Virallisen mittaajan, mittauslautakunnan puheenjohtajan ja hänen henkilökohtaisen varajäsenensä sekä vaihtuvien asiantuntijajäsenten on oltava puutavaran mittaukseen hyvin perehtyneitä Suomen kansalaisia, joille ei ole määrätty edunvalvojaa, joiden toimintakelpoisuutta ei ole rajoitettu ja jotka eivät ole konkurssissa. Mittauslautakunnan puheenjohtajalla ja hänen varajäsenellään tulee olla tehtävään soveltuva ylempi korkeakoulututkinto ja toisella pysyvällä jäsenellä ja hänen varajäsenellään tulee olla oikeustieteen muu ylempi korkeakoulututkinto kuin kansainvälisen ja vertailevan oikeustieteen maisterin tutkinto.",
+      "section_number": "10",
+      "chapter_number": 2,
+      "statute_id": "707/2011"
+    },
+    {
+      "id": "3b23017c-249e-4bb9-8c17-b4ca713f8ea2",
+      "node_type": "Section",
+      "publisher": "finlex",
+      "title": "11 § Virallisen mittaajan ja mittauslautakunnan jäsenen tuomarin vastuu ja esteellisyys",
+      "text": "Virallinen mittaaja ja mittauslautakunnan jäsenet toimivat tuomarin vastuulla. Virallisen mittaajan ja mittauslautakunnan jäsenen on ennen tehtäväänsä ryhtymistä vannottava tuomarinvala tai annettava tuomarinvakuutus käräjäoikeudessa, jollei hän ole tehnyt sitä aikaisemmin. Mittauslautakunnan jäsen voi vannoa tuomarinvalan tai antaa tuomarinvakuutuksen myös mittauslautakunnan puheenjohtajana toimivan jäsenen edessä. Muilta osin tuomarinvalasta ja -vakuutuksesta säädetään oikeudenkäymiskaaren 1 luvun 6 a ja 7 §:ssä. Virallisen mittaajan ja mittauslautakunnan pysyvien jäsenten esteellisyyteen sovelletaan, mitä tuomarin esteellisyydestä säädetään. Vaihtuvien asiantuntijajäsenten tulee olla käsiteltävän asian suhteen riippumattomia.",
+      "section_number": "11",
+      "chapter_number": 2,
+      "statute_id": "707/2011"
+    },
+    {
+      "id": "ac0ee736-1103-4136-8a05-42af427a8d8a",
+      "node_type": "Section",
+      "publisher": "finlex",
+      "title": "12 § Mittauslautakunnan jäsenyydestä vapautuminen",
+      "text": "Mittauslautakunnan jäsenen oikeudesta pysyä tehtävässään on voimassa, mitä tuomarinviran haltijasta säädetään. Maa- ja metsätalousministeriö vapauttaa 1 momentissa säädetyn estämättä mittauslautakunnan jäsenen tehtävästään, jos hän pyytää tehtävästä vapauttamista, hänet valitaan puutavaranmittauksen neuvottelukuntaan tai viralliseksi mittaajaksi taikka jos pysyvä jäsen valitaan Metsäntutkimuslaitoksen palvelukseen.",
+      "section_number": "12",
+      "chapter_number": 2,
+      "statute_id": "707/2011"
+    },
+    {
+      "id": "4b1951d3-cb24-4909-bd67-d3149a744f63",
+      "node_type": "Section",
+      "publisher": "finlex",
+      "title": "13 § Mittauksen tarkkuus",
+      "text": "Mittauksessa on saavutettava tarkoituksenmukainen ja riittävä mittaustarkkuus. Se katsotaan saavutetuksi, kun mittaustuloksen poikkeama vertailuarvoon nähden ei ylitä mittaukselle määritettyä suurinta sallittua poikkeamaa. Suurimman sallitun poikkeaman lukuarvoihin vaikuttavat eräkoko, mittausmenetelmäryhmä, mittausmenetelmä ja puutavaralaji. Mittauksessa ei saa olla merkittävää systemaattista virhettä, joka pysyy mittausta toistettaessa samansuuntaisena. Mittaustuloksen satunnaisen vaihtelun on pysyttävä mittausmenetelmälle tyypillisissä rajoissa siten, että suurin sallittu poikkeama ei ylity. Maa- ja metsätalousministeriön asetuksella säädetään mittauksen luotettavuuden ja suurimman sallitun poikkeaman määrittämisestä sekä mittausmenetelmäryhmien ja mittausmenetelmien suurimman sallitun poikkeaman lukuarvoista.",
+      "section_number": "13",
+      "chapter_number": 3,
+      "statute_id": "707/2011"
+    },
+    {
+      "id": "b9e48ed6-6fd7-4b1a-82cc-f6dce9570aad",
+      "node_type": "Section",
+      "publisher": "finlex",
+      "title": "14 § Mittausmenetelmäryhmät",
+      "text": "Puutavaran mittauksessa käytettävien mittausmenetelmien ja -laitteiden on perustuttava johonkin seuraavista mittausmenetelmäryhmistä: Edellä 1 momentissa tarkoitetuista mittausmenetelmäryhmistä ja niihin sisältyvistä mittauksista ja laskentamenetelmistä annetaan tarkempia säännöksiä maa- ja metsätalousministeriön asetuksella. Metsäntutkimuslaitos antaa määräykset yleisistä muuntoluvuista. Ennen määräyksen antamista siitä on pyydettävä lausunto puutavaranmittauksen neuvottelukunnalta.",
+      "section_number": "14",
+      "chapter_number": 3,
+      "statute_id": "707/2011"
+    },
+    {
+      "id": "eb8cc2bf-8863-41f0-8310-59cbdb49bbbd",
+      "node_type": "Section",
+      "publisher": "finlex",
+      "title": "15 § Mittausmenetelmien ja -laitteiden vaatimukset",
+      "text": "Mittauslaitteen suunnittelijan on määritettävä mittausmenetelmien käyttöalue, sisältö ja laskenta siten, että mittauksessa voidaan saavuttaa 13 §:ssä tarkoitetut mittaustarkkuutta koskevat vaatimukset ja mittaus on luotettavaa käyttötarkoituksen mukaisissa olosuhteissa. Mittauslaitteiden valmistajan on toteutettava niiden valmistus siten, että edellä säädetyt vaatimukset täytetään. Käytön aikana mittauksen luotettavuus on voitava varmistaa 17 §:n mukaisesti. Mittausmenetelmien ja -laitteiden mittaustulosten on perustuttava kansainvälisen mittayksikköjärjestelmän mukaisiin mittayksiköihin. Mittayksiköistä säädetään mittayksiköistä ja mittanormaalijärjestelmästä annetussa laissa (1156/1993). Mittaustuloksen on oltava metrologisesti jäljitettävä. Mittausmenetelmäryhmien ja niihin kuuluvien mittausmenetelmien ja -laitteiden käyttöalueesta, sisällöstä ja niihin sisältyvästä laskennan ja mittauksen tekemisestä ja mittauksen luotettavuuden varmistamisesta sekä mittauslaitteiden ominaisuuksista annetaan tarkempia säännöksiä maa- ja metsätalousministeriön asetuksella.",
+      "section_number": "15",
+      "chapter_number": 3,
+      "statute_id": "707/2011"
+    },
+    {
+      "id": "bf2bccee-25f6-4b61-ad9c-22733208d635",
+      "node_type": "Section",
+      "publisher": "finlex",
+      "title": "16 § Vastuu mittauslaitteen vaatimustenmukaisuudesta",
+      "text": "Tämän lain mukaiseen käyttöön tarkoitetun uuden mittauslaitteen markkinoille tuoja vastaa siitä, että mittauslaite täyttää tämän lain vaatimukset. Mittauslaitteen markkinoille tuojan on ilmoitettava mitattavan puutavaran ominaisuuksien ja käyttöolosuhteiden mukainen mittauslaitteen käyttöalue. Mittauslaitteen mukana on toimitettava mittauslaitteen valmistajaa sekä sen käyttöä ja soveltuvuutta koskevat tiedot.",
+      "section_number": "16",
+      "chapter_number": 3,
+      "statute_id": "707/2011"
+    },
+    {
+      "id": "6c925186-2a68-400a-8917-6818851f8eac",
+      "node_type": "Section",
+      "publisher": "finlex",
+      "title": "17 § Mittauksen luotettavuuden varmistaminen",
+      "text": "Mittaajan on varmistettava mittauksen luotettavuus omavalvonnalla ja ulkopuolisella valvonnalla ja näihin sisältyvillä mittausmenetelmän tai siihen kuuluvien laitteiden toimivuuden sekä mittaustuloksen tarkastuksilla. Mittaustuloksen tarkastusta vertailumenetelmällä tehtävällä mittauksella ei kuitenkaan edellytetä tienvarressa tapahtuvassa manuaalisessa mittauksessa eikä hakkeen, murskeen tai muuten vastaavasti valmistettujen puutavaralajien manuaalisessa mittauksessa. Omavalvontaan ja ulkopuoliseen valvontaan kuuluvia mittaustuloksen tarkastusten tuloksia on säilytettävä vähintään kahden vuoden ajan tarkastuksen tekemisestä. Mittausosapuolilla on oikeus tutustua mittausmenettelyyn ja mitattavan puutavaraerän mittaustulokseen vaikuttaviin valvontaa koskeviin tuloksiin sekä osallistua tarkastusten tekemiseen sovittavalla tavalla. Jos suurin sallittu poikkeama ylitetään perusmittauksessa, virheen aiheuttava tekijä on viivytyksettä poistettava. Luotettavuuden varmistamiseen liittyvistä tarkastuksista on tallennettava tiedot, joista ilmenevät tarkastuksen tekijä, ajankohta, tulos ja tehdyt toimenpiteet. Asiakirjat ja merkinnät voidaan tehdä sähköisesti. Mittausmenetelmien ja -laitteiden luotettavuuden varmistamisen teknisestä toteuttamisesta sekä menettelyistä, joita noudatetaan, jos suurin sallittu poikkeama ylitetään perusmittauksessa, annetaan tarkempia säännöksiä maa- ja metsätalousministeriön asetuksella.",
+      "section_number": "17",
+      "chapter_number": 3,
+      "statute_id": "707/2011"
+    },
+    {
+      "id": "0dc851c0-5bd8-48b1-bd53-2630d7a7c391",
+      "node_type": "Section",
+      "publisher": "finlex",
+      "title": "18 § Omavalvonta",
+      "text": "Omavalvontaan on sisällyttävä mittauslaitteen toiminnan käytönaikainen seuranta, kalibrointi, mittauslaitteen viritys, mittaustuloksen tarkastukset sekä niiden dokumentointi. Omavalvonnasta vastaa mittaaja. Kalibroinnilla määritetään mittauksen poikkeama vertailuarvoon nähden. Mittauslaitteen toiminta on asetettava käyttöolosuhteisiin sopivaksi ja tuottamaan oikea mittaustulos mittauslaitteen virityksellä. Maa- ja metsätalousministeriön asetuksella voidaan antaa tarkempia säännöksiä omavalvonnasta.",
+      "section_number": "18",
+      "chapter_number": 3,
+      "statute_id": "707/2011"
+    },
+    {
+      "id": "ee921208-31ee-4d9b-b9c0-1a81e567b224",
+      "node_type": "Section",
+      "publisher": "finlex",
+      "title": "19 § Ulkopuolinen valvonta",
+      "text": "Ulkopuoliseen valvontaan on sisällyttävä muun kuin mittaajan itsensä tekemä mittaustuloksen tarkastus. Ulkopuoliseen valvontaan kuuluu myös 6 luvussa tarkoitettu valvontamittaus. Maa- ja metsätalousministeriön asetuksella voidaan antaa tarkempia säännöksiä ulkopuolisesta valvonnasta.",
+      "section_number": "19",
+      "chapter_number": 3,
+      "statute_id": "707/2011"
+    },
+    {
+      "id": "00fa0520-a898-42ad-a2a7-86461bfae5bf",
+      "node_type": "Section",
+      "publisher": "finlex",
+      "title": "20 § Mittaustoimituksen tekijä",
+      "text": "Luovutusmittauksen tekevät sopimuksen mukaan joko yhdessä tai erikseen myyjä ja ostaja tai muu taho. Työ- ja urakointimittaus on toimitettava, jos palkka tai muu korvaus maksetaan puutavaran määrän perusteella. Työmittauksesta vastaa työnantaja ja sen tekee työnantaja, jollei toisin ole sovittu. Työnantajan on ilmoitettava työnsuorittajalle etukäteen mittauksesta. Urakointimittauksen tekijän sopivat urakoitsija ja urakanantaja keskenään. Mittausosapuolet voivat sopia, että luovutusmittaus korvaa erillisen työ- tai urakointimittauksen tai työ- ja urakointimittaus korvaa erillisen luovutusmittauksen.",
+      "section_number": "20",
+      "chapter_number": 4,
+      "statute_id": "707/2011"
+    },
+    {
+      "id": "bc9b64fc-cd5c-4cbf-8338-fbf7cd0a2e33",
+      "node_type": "Section",
+      "publisher": "finlex",
+      "title": "21 § Mittauksesta sovittavat asiat",
+      "text": "Ennen puutavaran mittausta on sovittava:",
+      "section_number": "21",
+      "chapter_number": 4,
+      "statute_id": "707/2011"
+    },
+    {
+      "id": "3fc2319a-43d6-46f0-bc25-798bc78062e8",
+      "node_type": "Section",
+      "publisher": "finlex",
+      "title": "22 § Mittausasiakirja",
+      "text": "Mittaustoimituksesta on laadittava mittausasiakirja, jossa on 21 §:ssä mainitut tiedot sekä tiedot mittausosapuolten osoitteista ja asiakirjan laatimispäivästä. Mittausasiakirjassa on lisäksi oltava mittaustulos tilavuuden, painon tai yksikkömäärän mittayksiköissä. Tehdasmittauksesta ilmoitetaan myös tieto mittauspaikasta. Urakointimittauksen tuloksen kirjaamisesta sopivat urakoitsija ja urakanantaja. Sisällöltään kirjaamisen on vastattava 1 momentissa tarkoitettua mittausasiakirjaa. Mittausasiakirjassa on oltava kaikki sovitun mittauksen kohteen mittaustulokset. Jos mittaustoimitus keskeytyy, mittausasiakirja voidaan laatia vastaavasti osissa, joiden on yhteensä katettava koko mittauksen kohde. Maaseutuvirastolla on oikeus saada kopio mittausasiakirjasta.",
+      "section_number": "22",
+      "chapter_number": 4,
+      "statute_id": "707/2011"
+    },
+    {
+      "id": "3f699cc9-62c2-4858-92b2-336eeb6d41d0",
+      "node_type": "Section",
+      "publisher": "finlex",
+      "title": "23 § Mittaustoimituksen päättyminen ja mittausasiakirjojen säilyttäminen",
+      "text": "Mittaustoimitus katsotaan päättyneeksi, kun sitä koskeva 22 §:n 1 momentissa tarkoitettu mittausasiakirja on laadittu ja lähetetty tai luovutettu mittausosapuolille 24 §:n mukaisesti. Mittausosapuolen on pyynnöstä annettava toiselle mittausosapuolelle mittaustuloksen lisäksi tiedot, joiden perusteella mittaustulos voidaan laskea. Edellä 22 §:n 1 momentissa tarkoitetun mittausasiakirjan tiedot on säilytettävä viisi vuotta mittaustoimituksen päättymisestä. Säilyttämisestä vastaa mittauskustannuksista vastaava.",
+      "section_number": "23",
+      "chapter_number": 4,
+      "statute_id": "707/2011"
+    },
+    {
+      "id": "7a386e06-69cc-461b-9779-92792a85b19f",
+      "node_type": "Section",
+      "publisher": "finlex",
+      "title": "24 § Mittaustuloksen tiedoksisaaminen",
+      "text": "Mittausosapuolten katsotaan saaneen tiedon mittaustuloksesta saatuaan 22 §:ssä tarkoitetun mittausasiakirjan. Mittausasiakirja voidaan luovuttaa mittaustoimituksessa, kun mittausosapuolet ovat läsnä. Kirjallisesti tai sähköisesti lähetetyn mittausasiakirjan katsotaan tulleen vastaanottajan tietoon seitsemäntenä päivänä sen lähettämisestä, jollei muuta näytetä. Edellä 22 §:ssä tarkoitettu mittausasiakirja on viipymättä toimitettava toiselle mittausosapuolelle.",
+      "section_number": "24",
+      "chapter_number": 4,
+      "statute_id": "707/2011"
+    },
+    {
+      "id": "b861695f-a09a-4bb4-ab64-3cd36daf781f",
+      "node_type": "Section",
+      "publisher": "finlex",
+      "title": "25 § Urakointimittauksen tuloksen tarkistaminen",
+      "text": "Jos urakoitsija toimii sopimuksen vastaisesti eikä korjaa puutteellisuuksia, saa mittaustuloksesta vähentää niin paljon, että vähennys vastaa niitä urakointikustannuksia, jotka sopimuksen vastaisen työn korjaaminen sopimuksen mukaiseksi aiheuttaa urakanantajalle. Mittaustuloksesta voidaan lisäksi vähentää kokonaan se määrä, jota urakanantaja ei voi käyttää hyväkseen sopimuksen tai urakanantajan antamien ohjeiden vastaisesti tehdyn työn vuoksi. Jos 1 tai 2 momentissa tarkoitettu puutavaran määrä muodostaa myös kolmannelle osapuolelle maksettavan palkan tai muun korvauksen perusteen, mittaustuloksen vähennystä ei saa tehdä kolmannelle osapuolelle maksettavaa palkkaa tai muuta korvausta määrättäessä.",
+      "section_number": "25",
+      "chapter_number": 4,
+      "statute_id": "707/2011"
+    },
+    {
+      "id": "f6834299-1c76-4af0-9b2b-e1b121b475c6",
+      "node_type": "Section",
+      "publisher": "finlex",
+      "title": "26 § Puutavaran käsittely ja siirto ennen mittaustuloksen tiedoksisaamista",
+      "text": "Ostaja, työn- tai urakanantaja tai heidän valtuuttamansa saa käsitellä tai siirtää puutavaraa ennen mittaustuloksen tiedoksisaamista, jos siitä on kyseistä puutavaraa koskevan sopimuksen ehdoissa sovittu ja kun mittaaja on kirjannut 22 §:ssä tarkoitetun mittausasiakirjan laadintaan tarvittavat tiedot. Mittausosapuolten sopiman mittausmenetelmän ollessa sellainen, että mittaus tapahtuu muualla kuin puutavaran teko- tai käsittelypaikassa, puutavaran saa siirtää mittauspaikalle ennen tietojen kirjaamista. Tällöin mittauserä on pidettävä erillään siihen saakka, kunnes tiedot on kirjattu. Puutavaraa ei saa käsitellä tai siirtää mittauspaikalta ennen 24 §:ssä tarkoitettua mittaustuloksen tiedoksisaamista, jos mittausosapuolet ovat niin sopineet.",
+      "section_number": "26",
+      "chapter_number": 4,
+      "statute_id": "707/2011"
+    },
+    {
+      "id": "945148ed-505f-48a8-a0ed-1f21f6159550",
+      "node_type": "Section",
+      "publisher": "finlex",
+      "title": "27 § Erimielisyyden ratkaiseminen",
+      "text": "Mittauserimielisyydet ratkaistaan ensisijaisesti mittausosapuolten välillä. Jos mittausosapuolet eivät pääse yksimielisyyteen mittausta koskevasta erimielisyydestä, mittausosapuoli voi hakea mittauserimielisyyden ratkaisemiseksi virallista mittausta. Virallisessa mittauksessa noudatetaan hallintolakia (434/2003), jollei jäljempänä toisin säädetä.",
+      "section_number": "27",
+      "chapter_number": 5,
+      "statute_id": "707/2011"
+    },
+    {
+      "id": "d0f762f8-ef1b-4c9e-bcbf-03e079fcdf16",
+      "node_type": "Section",
+      "publisher": "finlex",
+      "title": "28 § Virallisen mittauksen edellytykset",
+      "text": "Virallinen mittaus on mittausosapuolen pyynnöstä toimitettava, jos: Virallinen mittaus voidaan tehdä, jos mittausosapuoli on esittänyt pyynnön virallisen mittauksen toimittamiseksi viimeistään 14 päivän kuluessa siitä, kun hän on saanut 24 §:n mukaisesti tiedon mittaustuloksesta. Mittaustulos katsotaan lopulliseksi, jos virallista mittausta ei ole haettu 2 momentin mukaisesti.",
+      "section_number": "28",
+      "chapter_number": 5,
+      "statute_id": "707/2011"
+    },
+    {
+      "id": "42e01938-fcc3-47d7-8d8c-49c33f71ccd4",
+      "node_type": "Section",
+      "publisher": "finlex",
+      "title": "29 § Virallisen mittauksen vireillepano",
+      "text": "Mittausosapuolen on toimitettava virallista mittausta koskeva hakemus Metsäntutkimuslaitoksen kirjaamoon kirjeitse tai sähköisesti. Hakemuksen tulee sisältää seuraavat tiedot tai kopiot alkuperäisistä asiakirjoista: Virallisen mittaajan on ilmoitettava virallisen mittauksen vireillepanosta mittausosapuolille. Virallisen mittaajan on aloitettava virallinen mittaus viipymättä. Jos virallinen mittaus sisältää mittaustoimituksen, virallisen mittaajan on ilmoitettava sen ajankohta mittausosapuolille. Virallista mittausta pyytäneen ja toisen mittausosapuolen on avustettava virallista mittaajaa ja luovutettava hänen tarvitsemansa asiaan liittyvät tiedot.",
+      "section_number": "29",
+      "chapter_number": 5,
+      "statute_id": "707/2011"
+    },
+    {
+      "id": "216a5b1b-2d6b-4c3e-830b-83ffac31e97a",
+      "node_type": "Section",
+      "publisher": "finlex",
+      "title": "30 § Virallisen mittauksen toimittaminen",
+      "text": "Virallinen mittaus tehdään sitä asiaa koskien, mitä pyyntö koskee. Jos erimielisyys koskee tiettyä mittaustoimituksen vaihetta tai mittaustuloksen osatekijää, virallinen mittaus rajataan kyseiseen vaiheeseen tai osatekijään, muutoin virallinen mittaus tehdään koko mittaustoimitusta koskien. Virallinen mittaus on tehtävä mittauserälle sovitulla tai lähinnä sitä olevalla mittausmenetelmällä tai sitä tarkemmalla mittausmenetelmällä, jos erimielisyyden kohteena oleva mittauserä on uudelleen mitattavissa. Jos erimielisyyden kohteena oleva mittauserä ei ole uudelleen mitattavissa, virallinen mittaus tehdään asiakirjatarkasteluna. Mittauksessa käytettävän mittausmenetelmän, mittauslaitteiden ja niiden käytön on täytettävä tässä laissa säädetyt vaatimukset. Laatu on määritettävä tai ositettava kyseisen mittauserän sopimusehtojen mukaisesti. Saman mittauserän osalta virallinen mittaus voidaan tehdä kokonaisuudessaan tai kunkin virallisen mittauksen kohteena olevan tekijän osalta vain kerran. Maa- ja metsätalousministeriön asetuksella voidaan antaa säännöksiä virallisen mittauksen käytännön toteutuksesta. Maa- ja metsätalousministeriön on kuultava puutavaranmittauksen neuvottelukuntaa ennen asetuksen antamista.",
+      "section_number": "30",
+      "chapter_number": 5,
+      "statute_id": "707/2011"
+    },
+    {
+      "id": "3edca712-2998-4278-8f5e-9a99743e7bb8",
+      "node_type": "Section",
+      "publisher": "finlex",
+      "title": "31 § Mittauspöytäkirja ja päätös virallisesta mittauksesta",
+      "text": "Virallisen mittaajan on kirjattava virallisen mittauksen päätös ja perustelut erimielisyyden ratkaisusta mittauspöytäkirjaan, joka on tehtävä viipymättä. Virallisen mittaajan päätöksessä on oltava lausunto mittausmenetelmästä ja -laitteistosta sekä niiden käytöstä, jos virallinen mittaus koskee mittauserää, joka ei ole enää yksilöitävissä. Päätökseen voidaan sisällyttää arvio puutavaran mittaustuloksesta. Virallinen mittaaja voi ratkaista hänen käsiteltäväkseen saatetun asian kumman tahansa mittausosapuolen vahingoksi.",
+      "section_number": "31",
+      "chapter_number": 5,
+      "statute_id": "707/2011"
+    },
+    {
+      "id": "f01b5020-5baa-4b8f-b7d6-45b029a22408",
+      "node_type": "Section",
+      "publisher": "finlex",
+      "title": "32 § Virallisen mittaajan mittauspöytäkirjan tiedoksianto ja arkistointi",
+      "text": "Mittauspöytäkirja annetaan tiedoksi mittausosapuolille hallintolain 59 §:n mukaisesti. Virallisen mittaajan on lähetettävä mittauspöytäkirjan kopio virallisesta mittauksesta myös mittauslautakunnan puheenjohtajalle sekä maa- ja metsätalousministeriöön. Alkuperäinen mittauspöytäkirja arkistoidaan Metsäntutkimuslaitoksessa.",
+      "section_number": "32",
+      "chapter_number": 5,
+      "statute_id": "707/2011"
+    },
+    {
+      "id": "adad8499-bb44-48bb-b5c8-e3a822fed500",
+      "node_type": "Section",
+      "publisher": "finlex",
+      "title": "33 § Virallisen mittauksen kohteena olleen asian siirto mittauslautakunnalle",
+      "text": "Virallisen mittaajan on tehtävä välittömästi päätös virallisen mittauksen kohteena olleen asian siirtämisestä mittauslautakunnalle, jos virallisen mittaajan 40 §:n 1 momentissa tarkoitetusta määräyksestä huolimatta mittauksessa havaittua virhettä ei korjata eikä päätöksen tehosteeksi ole voitu asettaa 41 §:n 1 momentissa tarkoitettua keskeyttämisuhkaa tai uhkasakkoa.",
+      "section_number": "33",
+      "chapter_number": 5,
+      "statute_id": "707/2011"
+    },
+    {
+      "id": "b8dd776a-6804-4947-8ea2-a24d05dd8bb7",
+      "node_type": "Section",
+      "publisher": "finlex",
+      "title": "34 § Tehdasmittausilmoitus",
+      "text": "Tehdasmittaajan on ennen tehdasmittauksen aloittamista toimitettava Metsäntutkimuslaitoksen kirjaamoon mittauspaikkakohtainen ilmoitus Metsäntutkimuslaitoksen vahvistamalla lomakkeella, josta ilmenee: Jos 1 momentissa tarkoitetuissa tiedoissa tapahtuu muutoksia, tehdasmittaajan on toimitettava niistä viipymättä ilmoitus Metsäntutkimuslaitoksen kirjaamoon.",
+      "section_number": "34",
+      "chapter_number": 6,
+      "statute_id": "707/2011"
+    },
+    {
+      "id": "6c6b00ac-cb59-48e0-8375-b65d8cf645bd",
+      "node_type": "Section",
+      "publisher": "finlex",
+      "title": "35 § Valvontamittaus",
+      "text": "Virallisen mittaajan on tehtävä tehdasmittauksen valvontamittauksia mittauspaikoilla siinä laajuudessa kuin se tehdasmittauksen valvonnan kannalta on tarpeen. Valvontamittauksessa on selvitettävä tämän lain vaatimusten noudattaminen. Valvontamittaus on tehtävä siten, että tehdasmittaukselle ei aiheuteta tarpeetonta häiriötä. Jos tehdasmittaaja ei voi esittää valvontamittauksessa kaikkia virallisen mittaajan pyytämiä asiakirjoja, pyydetyt asiakirjat on toimitettava viipymättä. Valvontamittaus voidaan tarvittaessa tehdä ilmoittamatta siitä etukäteen tehdasmittaajalle. Maa- ja metsätalousministeriön asetuksella voidaan antaa tarkempia säännöksiä valvontamittauksen toimittamisesta. Maa- ja metsätalousministeriön on kuultava puutavaranmittauksen neuvottelukuntaa ennen asetuksen antamista.",
+      "section_number": "35",
+      "chapter_number": 6,
+      "statute_id": "707/2011"
+    },
+    {
+      "id": "c16467ef-9e8f-4d1c-9bb3-f409f0e2eecf",
+      "node_type": "Section",
+      "publisher": "finlex",
+      "title": "36 § Virhe tehdasmittauksessa",
+      "text": "Tehdasmittauksessa on virhe, jos valvontamittauksessa todetaan, että: Mittauksessa on myös virhe, jos on tehty 3 §:n mukainen sopimus ja valvontamittauksessa todetaan, että mittausta ei ole tehty kyseisen sopimuksen mukaan.",
+      "section_number": "36",
+      "chapter_number": 6,
+      "statute_id": "707/2011"
+    },
+    {
+      "id": "736ea9f9-a784-40be-9e6a-8f3b0fa0fe1f",
+      "node_type": "Section",
+      "publisher": "finlex",
+      "title": "37 § Valvontamittauksen pöytäkirja",
+      "text": "Valvontamittauksesta on pidettävä pöytäkirjaa, johon on merkittävä: Jos valvontamittauksessa on todettu 36 §:ssä tarkoitettu virhe, virallisen mittaajan 1 momentissa tarkoitettuun päätökseen on sisällytettävä lausunto virheen havaitsemista edeltävältä ajalta. Lausunto voi sisältää suosituksen mittausosapuolille mittaustuloksen oikaisemisesta. Maa- ja metsätalousministeriön asetuksella voidaan antaa säännöksiä valvontamittauksen pöytäkirjasta ja siihen kirjattavista asioista. Maa- ja metsätalousministeriön on kuultava puutavaranmittauksen neuvottelukuntaa ennen asetuksen antamista.",
+      "section_number": "37",
+      "chapter_number": 6,
+      "statute_id": "707/2011"
+    },
+    {
+      "id": "a429bed0-18e0-45d1-b956-651b396fa229",
+      "node_type": "Section",
+      "publisher": "finlex",
+      "title": "38 § Valvontamittauksen pöytäkirjan tiedoksianto ja arkistointi",
+      "text": "Virallisen mittaajan on lähetettävä kopio valvontamittauksen pöytäkirjasta tehdasmittaajalle seitsemän päivän kuluessa valvontakäynnistä tai 35 §:n 2 momentissa tarkoitettujen asiakirjojen toimittamisesta viralliselle mittaajalle. Pöytäkirja annetaan tiedoksi tehdasmittaajalle hallintolain 59 §:n mukaisesti. Alkuperäinen pöytäkirja arkistoidaan Metsäntutkimuslaitoksessa.",
+      "section_number": "38",
+      "chapter_number": 6,
+      "statute_id": "707/2011"
+    },
+    {
+      "id": "baf00602-c0b5-4737-a05a-102e77e5b975",
+      "node_type": "Section",
+      "publisher": "finlex",
+      "title": "39 § Valvontamittauksen kohteena olleen asian siirto mittauslautakunnalle",
+      "text": "Virallisen mittaajan on tehtävä välittömästi päätös valvontamittauksen kohteena olleen asian siirtämisestä mittauslautakunnalle, jos: Jos 1 momentin 1 kohdassa on kyse siitä, että 22 §:n 1 momentissa tarkoitettua mittaustulosta ei pystytä osoittamaan, virallisen mittaajan on sisällytettävä päätökseensä esitys mittauslautakunnalle mittaustoiminnan keskeyttämisestä.",
+      "section_number": "39",
+      "chapter_number": 6,
+      "statute_id": "707/2011"
+    },
+    {
+      "id": "9b2ce4cb-a64d-40dd-80bb-ffc9382b9e52",
+      "node_type": "Section",
+      "publisher": "finlex",
+      "title": "40 § Korjaus- ja oikaisumääräys",
+      "text": "Jos virallinen mittaaja havaitsee virallisessa mittauksessa virheen, virallisen mittaajan on päätöksessä määrättävä, että mittaajan on korjattava määräyksessä yksilöity virhe sekä oikaistava tarvittaessa mittaustulos päätöksessä määrätyllä tavalla ja määräajassa. Virheen korjausmääräys voi sisältää velvoitteen mittauserän mittaustuloksen oikaisemisesta taaksepäin siihen asti, kunnes on todennettavissa, ettei virheellistä mittausta ole tehty. Jos virallinen mittaaja havaitsee valvontamittauksessa 36 §:ssä tarkoitetun virheen, hänen on päätöksessään määrättävä, että tehdasmittaajan on korjattava määräyksessä yksilöity virhe sekä oikaistava tarvittaessa mittaustulos päätöksessä määrätyllä tavalla ja määräajassa niiden puutavaraerien osalta, jotka on mitattu virheen havaitsemisen ja sen korjaamisen välisenä aikana. Mittauslautakunta voi antaa määräyksen mittausta koskevan virheen korjaamisesta ja mittaustuloksen oikaisemisesta määrätyllä tavalla ja määräajassa. Mittauslautakunta voi myös antaa määräyksen tehdasmittausta koskevan virheen korjaamisesta ja mittaustuloksen oikaisemisesta määrätyllä tavalla ja määräajassa niiden puutavaraerien osalta, jotka on mitattu virheen havaitsemisen ja sen korjaamisen välisenä aikana.",
+      "section_number": "40",
+      "chapter_number": 7,
+      "statute_id": "707/2011"
+    },
+    {
+      "id": "e49c0bf0-1042-497f-9f7c-ae900bd8cbdd",
+      "node_type": "Section",
+      "publisher": "finlex",
+      "title": "41 § Keskeyttämisuhka ja uhkasakko",
+      "text": "Virallinen mittaaja voi asettaa 40 §:n 1 momentissa tarkoitetun korjausmääräyksen tehosteeksi keskeyttämisuhan tai uhkasakon, jos 22 §:n 1 momentissa tarkoitettua mittaustulosta ei pystytä osoittamaan tai mittaaja ei ole korjannut toimintaansa omavalvonnan tulosten perusteella. Keskeyttämisuhkaa tai uhkasakkoa ei voi asettaa tehdasmittausta koskevan päätöksen tehosteeksi. Mittauslautakunta voi asettaa 40 §:n 3 momentissa tarkoitetun korjausmääräyksen tehosteeksi keskeyttämisuhan tai uhkasakon, jos 22 §:n 1 momentissa tarkoitettua mittaustulosta ei pystytä osoittamaan, mittaaja ei ole korjannut toimintaansa omavalvonnan tulosten perusteella tai jos virallisen mittaajan tai mittauslautakunnan määräyksessä yksilöityjä virheitä ei ole korjattu asetetussa määräajassa. Virallisen mittaajan ja mittauslautakunnan asettama mittaustoiminnan keskeyttämisuhka voidaan panna täytäntöön tai uhkasakko tuomita maksettavaksi siitä huolimatta, että sitä koskevaan päätökseen haetaan muutosta, jollei valitusviranomainen toisin määrää. Muilta osin keskeyttämisuhasta ja uhkasakosta säädetään uhkasakkolaissa (1113/1990). Jos 40 §:ssä tarkoitettuun määräykseen on haettu muutosta, sen tehostetta koskeva päätös on toimitettava tiedoksi muutoksenhakuviranomaiselle. Tässä pykälässä tarkoitetut asiat on käsiteltävä kiireellisinä.",
+      "section_number": "41",
+      "chapter_number": 7,
+      "statute_id": "707/2011"
+    },
+    {
+      "id": "3ae64750-1677-4554-af2c-3a331b94ccef",
+      "node_type": "Section",
+      "publisher": "finlex",
+      "title": "42 § Määräys puiden siirtämiseksi tai esteen poistamiseksi",
+      "text": "Jos puut on sijoitettu siten, ettei virallinen mittaaja katso voivansa toimittaa virallista mittausta, hän voi määrätä puut uudelleen sijoitettavaksi tai mittausta haittaavan esteen poistettavaksi. Virallinen mittaaja voi tarvittaessa teetättää mainitut toimenpiteet mittausosapuolilla.",
+      "section_number": "42",
+      "chapter_number": 7,
+      "statute_id": "707/2011"
+    },
+    {
+      "id": "0ef6b22e-075f-42e2-80d3-44416302dc43",
+      "node_type": "Section",
+      "publisher": "finlex",
+      "title": "43 § Mittauslautakunnan määräys mittauksen keskeyttämiseksi",
+      "text": "Mittauslautakunta voi määrätä virheellisen mittauksen keskeytettäväksi. Ennen mittauksen keskeyttämistä mittaajalle on annettava välitön mahdollisuus virheen korjaamiseen. Mittausta voidaan jatkaa vasta, kun mittauslautakunnan edellyttämällä tavalla on todettu, että virhe on korjattu.",
+      "section_number": "43",
+      "chapter_number": 7,
+      "statute_id": "707/2011"
+    },
+    {
+      "id": "ac8ce7ce-2075-457e-8af2-44a362368ac9",
+      "node_type": "Section",
+      "publisher": "finlex",
+      "title": "44 § Mittauslautakunnan antama kielto",
+      "text": "Mittauslautakunta voi virallisen mittaajan perustellusta esityksestä päätöksellään kieltää mittauslaitteen markkinoille tuonnin tai käytön, jos mittauslaite ei täytä tämän lain vaatimuksia tai vaatimustenmukaisuuteen liittyvät 16 §:n edellyttämät tiedot ovat oleellisesti puutteellisia taikka harhaanjohtavia. Mittauslaitteen markkinoille tuojalle ja käyttäjälle on annettava mahdollisuus korjata puutteellisuudet mittauslautakunnan määräämällä tavalla ja määräajassa. Kielto on viipymättä peruutettava, jos sen perusteena oleva puutteellisuus on poistettu tai epäkohta korjattu taikka jos kielto ei ole enää muutoin tarpeen.",
+      "section_number": "44",
+      "chapter_number": 7,
+      "statute_id": "707/2011"
+    },
+    {
+      "id": "6b7cb75a-8f12-4b88-9414-67fcfd8f93ff",
+      "node_type": "Section",
+      "publisher": "finlex",
+      "title": "45 § Rangaistussäännös",
+      "text": "Mittausosapuoli, joka tahallaan Puutavaran mittauksesta annetun lain rikkomisesta tuomitaan myös markkinoille tuoja tai käyttäjä, joka tahallaan tai törkeästä huolimattomuudesta rikkoo 44 §:n 1 momentin nojalla annettua kieltoa.",
+      "section_number": "45",
+      "chapter_number": 7,
+      "statute_id": "707/2011"
+    },
+    {
+      "id": "4b24c2ae-ef29-4aa7-b159-90229290472d",
+      "node_type": "Section",
+      "publisher": "finlex",
+      "title": "46 § Muutoksenhaku virallisen mittaajan päätökseen",
+      "text": "Virallisen mittaajan päätökseen saa mittausosapuoli hakea muutosta valittamalla mittauslautakuntaan. Muutoksenhakuun sovelletaan, mitä hallintolainkäyttölaissa (586/1996) säädetään, jollei jäljempänä toisin säädetä. Muutosta on haettava 14 päivän kuluessa päätöksen tiedoksisaannista. Päätökseen sisältyvää virallista mittausta koskevaa määräystä on muutoksenhausta huolimatta noudatettava, jollei mittauslautakunta toisin päätä.",
+      "section_number": "46",
+      "chapter_number": 8,
+      "statute_id": "707/2011"
+    },
+    {
+      "id": "97337ec4-8b0e-47c5-abf6-05778c766b04",
+      "node_type": "Section",
+      "publisher": "finlex",
+      "title": "47 § Asian käsittelyä edeltävät toimet",
+      "text": "Virallisen mittaajan on toimitettava mittauslautakunnalle muutoksenhakua tai asian siirtoa koskevat hänen hallussaan olevat asiakirjat. Kun muutoksenhaku tai asian siirto on laitettu vireille, mittauslautakunnan puheenjohtajan on viivytyksettä kutsuttava mittauslautakunnan jäsenet käsittelemään asiaa ja ilmoitettava asianosaisille muutoksenhaun tai asian siirron vireillepanosta. Puheenjohtajan on ilmoitettava istuntokäsittelyn alkamisajasta asianosaisille niin aikaisin, että heillä on mahdollisuus osallistua istuntokäsittelyyn. Muutoksenhakukirjelmä tai asian siirtoa koskeva päätös ja niihin liittyvät asiakirjat on toimitettava asianosaisille hyvissä ajoin ennen istuntokäsittelyn alkamista. Asianosaisen poissaolo ei estä mittauslautakuntaa käsittelemästä asiaa. Mittauslautakunnan on käsiteltävä muutoksenhakuasiat ja sille siirretyt asiat kiireellisinä.",
+      "section_number": "47",
+      "chapter_number": 8,
+      "statute_id": "707/2011"
+    },
+    {
+      "id": "b0281b86-f971-4080-a0e4-e0b48994f2d0",
+      "node_type": "Section",
+      "publisher": "finlex",
+      "title": "48 § Asian käsittely",
+      "text": "Mittauslautakunta on päätösvaltainen kahden pysyvän jäsenen ja kahden vaihtuvan asiantuntijajäsenen kokoonpanossa. Mittauslautakunnan puheenjohtaja kutsuu vaihtuvista asiantuntijajäsenistä kaksi jäsentä mittauslautakunnan kokoonpanoon käsiteltävän asian edellyttämän asiantuntemuksen ja riippumattomuuden perusteella. Jos mittauslautakunnassa ilmenee erimielisyyttä asian ratkaisemisesta, päätetään asia äänestämällä noudattaen samaa menettelyä kuin monijäsenisessä tuomioistuimessa riita-asioissa. Mittauslautakunta voi asian selvittämiseksi toimittaa suullisen käsittelyn, jossa voidaan kuulla asianosaisia, todistajia ja asiantuntijoita sekä vastaanottaa muuta selvitystä. Mittauslautakunta voi toimittaa myös katselmuksen. Mittausosapuolilla ja virallisella mittaajalla on oikeus olla läsnä mittauslautakunnan järjestämässä suullisessa käsittelyssä ja katselmuksessa. Mittauslautakunnan on toimitettava 2 momentissa tarkoitettu suullinen käsittely, jos mittausosapuoli pyytää sitä. Mittausosapuolen pyytämä suullinen käsittely voidaan jättää toimittamatta, jos vaatimus jätetään tutkimatta tai hylätään heti tai jos suullinen käsittely on asian laadun vuoksi tai muusta syystä ilmeisen tarpeeton. Jos mittausosapuoli pyytää suullisen käsittelyn toimittamista, tämän on ilmoitettava, minkä vuoksi sen toimittaminen on tarpeen ja mitä selvitystä tämä esittäisi suullisessa käsittelyssä. Mitä tässä laissa säädetään valituksen käsittelystä, sovelletaan myös siirretyn asian käsittelyyn.",
+      "section_number": "48",
+      "chapter_number": 8,
+      "statute_id": "707/2011"
+    },
+    {
+      "id": "40ad6b7c-7dc4-43bf-9ad9-2dfccf0c63c1",
+      "node_type": "Section",
+      "publisher": "finlex",
+      "title": "49 § Asian käsittelyn julkisuus",
+      "text": "Käsittelyn julkisuuteen mittauslautakunnassa sovelletaan oikeudenkäynnin julkisuudesta hallintotuomioistuimissa annettua lakia (381/2007).",
+      "section_number": "49",
+      "chapter_number": 8,
+      "statute_id": "707/2011"
+    },
+    {
+      "id": "efd4413b-7b22-47f8-82d0-97e345964b36",
+      "node_type": "Section",
+      "publisher": "finlex",
+      "title": "50 § Mittauslautakunnan pöytäkirja ja päätös",
+      "text": "Asian käsittelystä mittauslautakunnassa on viipymättä laadittava pöytäkirja, jonka tulee sisältää asiaa koskeva päätös ja perustelut. Mittauslautakunta voi ratkaista asian myös muutoksenhakijan vahingoksi. Pöytäkirja annetaan viipymättä tiedoksi asianosaisille hallintolain 59 §:n mukaisesti. Alkuperäinen pöytäkirja arkistoidaan Metsäntutkimuslaitoksessa.",
+      "section_number": "50",
+      "chapter_number": 8,
+      "statute_id": "707/2011"
+    },
+    {
+      "id": "41d16f7d-9dd2-459e-a4b7-bf9721da8913",
+      "node_type": "Section",
+      "publisher": "finlex",
+      "title": "51 § Muutoksenhaku mittauslautakunnan päätökseen",
+      "text": "Mittauslautakunnan päätökseen saa hakea muutosta valittamalla siihen hallinto-oikeuteen, jonka tuomiopiirissä mittaus on tehty. Hallinto-oikeuden tämän lain nojalla antamaan päätökseen saa hakea muutosta valittamalla korkeimpaan hallinto-oikeuteen, jos korkein hallinto-oikeus myöntää valitusluvan. Muutoksenhakuun sovelletaan muutoin, mitä hallintolainkäyttölaissa säädetään. Mittauslautakunta voi määrätä, että sen päätöstä on noudatettava hallinto-oikeuteen tehtävästä valituksesta huolimatta, jollei valitusviranomainen toisin määrää.",
+      "section_number": "51",
+      "chapter_number": 8,
+      "statute_id": "707/2011"
+    },
+    {
+      "id": "25e5a019-5e91-4070-a266-2a12d7662a9c",
+      "node_type": "Section",
+      "publisher": "finlex",
+      "title": "52 § Toimituksesta ja käsittelystä perittävä maksu",
+      "text": "Tässä laissa säädetystä virallisen mittauksen ja valvontamittauksen toimittamisesta sekä mittauslautakunnan käsittelystä peritään maksu noudattaen valtion maksuperustelain (150/1992) 6 §:n 2 ja 3 momenttia, jollei jäljempänä toisin säädetä. Virallisen mittaajan ja mittauslautakunnan on todettava päätöksessään velvollisuus maksaa maksu ja maksun määrä. Maa- ja metsätalousministeriön asetuksella säädetään 1 momentissa tarkoitettujen maksujen suuruudesta, maksamisesta ja maksuihin liittyvästä menettelystä.",
+      "section_number": "52",
+      "chapter_number": 9,
+      "statute_id": "707/2011"
+    },
+    {
+      "id": "1e3f689b-4ec7-4581-ba24-34375a5e26e9",
+      "node_type": "Section",
+      "publisher": "finlex",
+      "title": "53 § Velvollisuus maksaa valvontamittauksesta maksu",
+      "text": "Valvontamittauksesta peritään valvontamittausmaksu tehdasmittaajalta, kun:",
+      "section_number": "53",
+      "chapter_number": 9,
+      "statute_id": "707/2011"
+    },
+    {
+      "id": "2142b154-2fc3-4463-9073-148218872424",
+      "node_type": "Section",
+      "publisher": "finlex",
+      "title": "54 § Virallisen mittauksen maksun jakautuminen",
+      "text": "Virallisen mittaajan on päätöksellään vahvistettava virallisen mittauksen maksun jakautuminen mittausosapuolten kesken. Mittausosapuolen on yksin maksettava virallisen mittauksen maksu, jos: Jos mittausosapuolet ovat sopineet virallisen mittauksen maksun jakamisesta, maksuvelvollisuus on vahvistettava sopimuksen mukaan.",
+      "section_number": "54",
+      "chapter_number": 9,
+      "statute_id": "707/2011"
+    },
+    {
+      "id": "c4d3cc8a-2313-4f2a-980e-e4c4a2402956",
+      "node_type": "Section",
+      "publisher": "finlex",
+      "title": "55 § Maksun suorittaminen",
+      "text": "Mittausosapuolten on maksettava maksu valtiolle 30 päivän kuluessa siitä, kun maksua koskeva päätös on tullut lopulliseksi. Jos valtion saamista ei makseta määräaikana, erääntyneelle saamiselle peritään vuotuista viivästyskorkoa korkolain (633/1982) 4 §:n 1 momentissa tarkoitetun korkokannan mukaan eräpäivästä lukien siihen saakka, kunnes maksu tapahtuu. Maksu korkoineen on suoraan ulosottokelpoinen. Sen perimisestä säädetään verojen ja maksujen täytäntöönpanosta annetussa laissa (706/2007).",
+      "section_number": "55",
+      "chapter_number": 9,
+      "statute_id": "707/2011"
+    },
+    {
+      "id": "b46c77a2-d1d5-4d0f-bbad-79fd94f36dca",
+      "node_type": "Section",
+      "publisher": "finlex",
+      "title": "56 § Edustajanatoimimiskielto",
+      "text": "Virallinen mittaaja, mittauslautakunnan pysyvät jäsenet ja varajäsenet eivät saa toimittaa puutavaran mittausta kenenkään mittausosapuolen edustajana tai sopimana henkilönä.",
+      "section_number": "56",
+      "chapter_number": 10,
+      "statute_id": "707/2011"
+    },
+    {
+      "id": "ca646caa-69ae-49e7-b03f-c1b6df2c01ee",
+      "node_type": "Section",
+      "publisher": "finlex",
+      "title": "57 § Mittauslautakunnan kustannusten maksaminen",
+      "text": "Metsäntutkimuslaitos maksaa mittauslautakunnan jäsenten palkkiot, päivärahat ja matka- ja majoittumiskustannusten korvaukset.",
+      "section_number": "57",
+      "chapter_number": 10,
+      "statute_id": "707/2011"
+    },
+    {
+      "id": "12c67440-8062-4c9b-bbab-642e6022747d",
+      "node_type": "Section",
+      "publisher": "finlex",
+      "title": "58 § Kolmannen osapuolen riidaton oikeus erimielisyystilanteessa",
+      "text": "Vaikka mittaustuloksesta on syntynyt erimielisyyttä, ei mittausosapuoli saa viivyttää kauppahinnan, palkan tai urakointimaksun taikka muun korvauksen maksamista kolmannelle osapuolelle, jolla on siihen riidaton oikeus.",
+      "section_number": "58",
+      "chapter_number": 10,
+      "statute_id": "707/2011"
+    },
+    {
+      "id": "3c2f08b8-f259-4b62-829c-870a5ba546da",
+      "node_type": "Section",
+      "publisher": "finlex",
+      "title": "59 § Virka-apu",
+      "text": "Virallisella mittaajalla on oikeus saada valvontamittauksen toimittamisessa tarvittaessa virka-apua poliisilta.",
+      "section_number": "59",
+      "chapter_number": 10,
+      "statute_id": "707/2011"
+    },
+    {
+      "id": "35583dfa-d15f-4e51-bd50-26bcadb307b0",
+      "node_type": "Section",
+      "publisher": "finlex",
+      "title": "60 § Määräaikojen laskeminen",
+      "text": "Tämän lain mukaisen määräajan laskemiseen sovelletaan säädettyjen määräaikain laskemisesta annettua lakia (150/1930).",
+      "section_number": "60",
+      "chapter_number": 10,
+      "statute_id": "707/2011"
+    },
+    {
+      "id": "5fe1e6a2-e786-472f-81ee-e3347ad48221",
+      "node_type": "Section",
+      "publisher": "finlex",
+      "title": "61 § Voimaantulo",
+      "text": "Tämä laki tulee voimaan 1 päivänä heinäkuuta 2013. Ennen tämän lain voimaantuloa voidaan ryhtyä lain täytäntöönpanon edellyttämiin toimiin.",
+      "section_number": "61",
+      "chapter_number": 11,
+      "statute_id": "707/2011"
+    },
+    {
+      "id": "af73d208-895d-4618-bf87-393e986092e7",
+      "node_type": "Section",
+      "publisher": "finlex",
+      "title": "62 § Kumoamissäännös",
+      "text": "Tällä lailla kumotaan puutavaranmittauslaki (364/1991).",
+      "section_number": "62",
+      "chapter_number": 11,
+      "statute_id": "707/2011"
+    },
+    {
+      "id": "e751e16b-f112-4799-82fc-3cde2b309fb1",
+      "node_type": "Section",
+      "publisher": "finlex",
+      "title": "63 § Voimaan jäävät säädökset",
+      "text": "Hakkuukoneella valmistettavan puutavaran tilavuuden mittaamisesta koneen mittalaitteella annetun maa- ja metsätalousministeriön asetuksen (284/2006) 2 §:n 4 momentti jää voimaan siinä tarkoitettujen hakkuukoneiden mittalaitteiden osalta 31 päivään joulukuuta 2016.",
+      "section_number": "63",
+      "chapter_number": 11,
+      "statute_id": "707/2011"
+    },
+    {
+      "id": "0c4d32b2-1393-4b8e-8c70-09705cc3d73c",
+      "node_type": "Section",
+      "publisher": "finlex",
+      "title": "64 § Siirtymäsäännökset",
+      "text": "Tämän lain voimaan tullessa vireillä oleva, puutavaranmittauslain nojalla vireille pantu asia käsitellään ja ratkaistaan noudattaen tämän lain voimaan tullessa voimassa olleita säännöksiä. Siltä osin kuin on kyse 4 §:n 1 kohdassa tarkoitetuista puutavaralajeista, joita käytetään energiatuotantoon, niiden mittaamiseen sovelletaan tämän lain säännöksiä 1 päivästä tammikuuta 2014. Tämän lain voimaan tullessa voimassa oleviin energiapuun toimitussopimuksiin ja niiden mukaisiin puutavaran mittauksiin sovelletaan kuitenkin tätä lakia 1 päivästä heinäkuuta 2014. Tämän lain 44 §:ää sovelletaan ennen tämän lain voimaantuloa käyttöön otettujen mittauslaitteiden, ohjelmistojen ja niiden ohjelmistopäivitysten markkinoille tuontiin 1 päivästä tammikuuta 2021. Tämän lain 53 §:n 2 kohdan mukaista valvontamittausmaksua ei peritä, jos tehdasmittaaja on aloittanut toimintansa ennen tämän lain voimaantuloa eikä toiminta tuolloin ole edellyttänyt puutavaranmittauslain mukaista tehdasmittausilmoitusta. Kumottavassa puutavaranmittauslaissa tarkoitettu puutavaran mittauksen neuvottelukunta hoitaa tämän lain 7 §:ssä tarkoitetun puutavaranmittauksen neuvottelukunnan tehtäviä, kunnes tämän lain mukainen neuvottelukunta on asetettu. Neuvottelukunta voi antaa myös tässä laissa säädetyn lausunnon ennen tämän lain voimaantuloa.",
+      "section_number": "64",
+      "chapter_number": 11,
+      "statute_id": "707/2011"
+    }
+  ],
+  "clauses": [
+    {
+      "id": "a88458b1-147e-4b06-8f0c-0c8c6a49fd89",
+      "node_type": "Clause",
+      "publisher": "finlex",
+      "title": "§ 2 mom 1",
+      "text": "1) luonnolliselta henkilöltä;",
+      "clause_number": 1,
+      "section_number": "2",
+      "statute_id": "707/2011"
+    },
+    {
+      "id": "1320513d-0c87-4928-8258-d32c562a0050",
+      "node_type": "Clause",
+      "publisher": "finlex",
+      "title": "§ 2 mom 2",
+      "text": "2) elinkeinonharjoittajalta, jonka päätoimiala on maa- ja metsätalous;",
+      "clause_number": 2,
+      "section_number": "2",
+      "statute_id": "707/2011"
+    },
+    {
+      "id": "a9b5fe35-b893-4955-a2bb-4a948581b79b",
+      "node_type": "Clause",
+      "publisher": "finlex",
+      "title": "§ 2 mom 3",
+      "text": "3) luonnollisten henkilöiden muodostamalta yhtymältä, kuolinpesältä tai muulta näihin rinnastettavalta yhteenliittymältä;",
+      "clause_number": 3,
+      "section_number": "2",
+      "statute_id": "707/2011"
+    },
+    {
+      "id": "3b57b336-8cc2-4a13-888f-74c61881039d",
+      "node_type": "Clause",
+      "publisher": "finlex",
+      "title": "§ 2 mom 4",
+      "text": "4) kunnalta;",
+      "clause_number": 4,
+      "section_number": "2",
+      "statute_id": "707/2011"
+    },
+    {
+      "id": "1d320d85-b952-4ad0-aa00-ddf61c5fc24d",
+      "node_type": "Clause",
+      "publisher": "finlex",
+      "title": "§ 2 mom 5",
+      "text": "5) seurakunnalta;",
+      "clause_number": 5,
+      "section_number": "2",
+      "statute_id": "707/2011"
+    },
+    {
+      "id": "12f3eeee-9213-486a-96db-ab6b2414e341",
+      "node_type": "Clause",
+      "publisher": "finlex",
+      "title": "§ 2 mom 6",
+      "text": "6) yhteismetsältä; tai",
+      "clause_number": 6,
+      "section_number": "2",
+      "statute_id": "707/2011"
+    },
+    {
+      "id": "8a96a4f2-25e0-4eb4-b6c3-ea6f8cd1f7a0",
+      "node_type": "Clause",
+      "publisher": "finlex",
+      "title": "§ 2 mom 7",
+      "text": "7) säätiöltä.",
+      "clause_number": 7,
+      "section_number": "2",
+      "statute_id": "707/2011"
+    },
+    {
+      "id": "2b2659dc-e8e6-4cc2-8573-62c2a2ba4040",
+      "node_type": "Clause",
+      "publisher": "finlex",
+      "title": "§ 3 mom 1",
+      "text": "1) kunnalla;",
+      "clause_number": 1,
+      "section_number": "3",
+      "statute_id": "707/2011"
+    },
+    {
+      "id": "a1f544b0-9522-48f7-b8f8-f602253be970",
+      "node_type": "Clause",
+      "publisher": "finlex",
+      "title": "§ 3 mom 2",
+      "text": "2) seurakunnalla;",
+      "clause_number": 2,
+      "section_number": "3",
+      "statute_id": "707/2011"
+    },
+    {
+      "id": "6b803268-6358-4a65-b7d9-a3de379efea8",
+      "node_type": "Clause",
+      "publisher": "finlex",
+      "title": "§ 3 mom 3",
+      "text": "3) yhteismetsällä;",
+      "clause_number": 3,
+      "section_number": "3",
+      "statute_id": "707/2011"
+    },
+    {
+      "id": "69bf2bcd-a157-44aa-a91d-68bb9baa0c65",
+      "node_type": "Clause",
+      "publisher": "finlex",
+      "title": "§ 3 mom 4",
+      "text": "4) säätiöllä;",
+      "clause_number": 4,
+      "section_number": "3",
+      "statute_id": "707/2011"
+    },
+    {
+      "id": "d4f72cd6-b07c-4a4a-bc5c-5f84bcd98ce5",
+      "node_type": "Clause",
+      "publisher": "finlex",
+      "title": "§ 3 mom 5",
+      "text": "5) elinkeinonharjoittajalla, jonka päätoimiala on maa- ja metsätalous;",
+      "clause_number": 5,
+      "section_number": "3",
+      "statute_id": "707/2011"
+    },
+    {
+      "id": "1303dcd5-31e2-4718-8c03-3e3c95173db7",
+      "node_type": "Clause",
+      "publisher": "finlex",
+      "title": "§ 3 mom 6",
+      "text": "6) luonnollisten henkilöiden muodostamalla yhtymällä, kuolinpesällä tai muulla näihin rinnastettavalla yhteenliittymällä.",
+      "clause_number": 6,
+      "section_number": "3",
+      "statute_id": "707/2011"
+    },
+    {
+      "id": "f964992e-3d88-40b1-94e1-23d8eb8bbc15",
+      "node_type": "Clause",
+      "publisher": "finlex",
+      "title": "§ 14 mom 1",
+      "text": "1) puutavaran fyysisten ulottuvuuksien ja ominaisuuksien tai painon mittauksiin sekä niihin perustuviin laskentamenetelmiin, joiden tuloksena saadaan lopullinen mittaustulos;",
+      "clause_number": 1,
+      "section_number": "14",
+      "statute_id": "707/2011"
+    },
+    {
+      "id": "0ebaee8c-c811-4046-8618-2e7268eb442f",
+      "node_type": "Clause",
+      "publisher": "finlex",
+      "title": "§ 14 mom 2",
+      "text": "2) 1 kohdan mukaisiin menetelmiin, joissa mittaustuloksen mittayksikkö muunnetaan toiseksi otantaan perustuvalla muuntoluvulla;",
+      "clause_number": 2,
+      "section_number": "14",
+      "statute_id": "707/2011"
+    },
+    {
+      "id": "e6236f61-3b3d-4d68-a857-148b7405eccd",
+      "node_type": "Clause",
+      "publisher": "finlex",
+      "title": "§ 14 mom 3",
+      "text": "3) 1 kohdan mukaisiin menetelmiin, joissa mittaustuloksen mittayksikkö muunnetaan toiseksi yleisellä muuntoluvulla.",
+      "clause_number": 3,
+      "section_number": "14",
+      "statute_id": "707/2011"
+    },
+    {
+      "id": "7e99e9ee-c9c5-47b0-9de8-584e6225cecf",
+      "node_type": "Clause",
+      "publisher": "finlex",
+      "title": "§ 21 mom 1",
+      "text": "1) mittausosapuolet, joita ovat:",
+      "clause_number": 1,
+      "section_number": "21",
+      "statute_id": "707/2011"
+    },
+    {
+      "id": "d73adb90-dba2-4e8c-81a9-9400f6bb4637",
+      "node_type": "Clause",
+      "publisher": "finlex",
+      "title": "§ 21 mom 2",
+      "text": "2) mittauksen kohteen yksilöivät tiedot;",
+      "clause_number": 2,
+      "section_number": "21",
+      "statute_id": "707/2011"
+    },
+    {
+      "id": "5193bc86-969b-4302-9c5b-610a5802299c",
+      "node_type": "Clause",
+      "publisher": "finlex",
+      "title": "§ 21 mom 3",
+      "text": "3) mittausmenetelmä ja mittaaja;",
+      "clause_number": 3,
+      "section_number": "21",
+      "statute_id": "707/2011"
+    },
+    {
+      "id": "56707930-1d4b-4576-8336-f134d5d744ab",
+      "node_type": "Clause",
+      "publisher": "finlex",
+      "title": "§ 21 mom 4",
+      "text": "4) mittauskustannuksen maksaja;",
+      "clause_number": 4,
+      "section_number": "21",
+      "statute_id": "707/2011"
+    },
+    {
+      "id": "cae62593-1f90-4296-b768-c0af27a6b062",
+      "node_type": "Clause",
+      "publisher": "finlex",
+      "title": "§ 21 mom 5",
+      "text": "5) tilavuuden, painon tai yksikkömäärän mittayksikkö.",
+      "clause_number": 5,
+      "section_number": "21",
+      "statute_id": "707/2011"
+    },
+    {
+      "id": "4df7ec49-469d-488b-be7e-176b14613f08",
+      "node_type": "Clause",
+      "publisher": "finlex",
+      "title": "§ 28 mom 1",
+      "text": "1) mittausosapuolten kesken on syntynyt erimielisyyttä 22 §:ssä tarkoitetusta mittaustuloksesta tai mittaustulokseen vaikuttavasta tekijästä;",
+      "clause_number": 1,
+      "section_number": "28",
+      "statute_id": "707/2011"
+    },
+    {
+      "id": "dcdbf535-c4d5-474a-a426-67c9a6695ce2",
+      "node_type": "Clause",
+      "publisher": "finlex",
+      "title": "§ 28 mom 2",
+      "text": "2) mittausosapuolille tulee erimielisyyttä 21 §:n mukaan sovituista asioista; tai",
+      "clause_number": 2,
+      "section_number": "28",
+      "statute_id": "707/2011"
+    },
+    {
+      "id": "6416e0a3-e4b3-44fb-a819-345fed3537b9",
+      "node_type": "Clause",
+      "publisher": "finlex",
+      "title": "§ 28 mom 3",
+      "text": "3) toinen mittausosapuoli ei osallistu mittaustoimitukseen sovitulla tavalla.",
+      "clause_number": 3,
+      "section_number": "28",
+      "statute_id": "707/2011"
+    },
+    {
+      "id": "ee382cd3-6cc7-4672-9096-f3dd494867fa",
+      "node_type": "Clause",
+      "publisher": "finlex",
+      "title": "§ 29 mom 1",
+      "text": "1) mittausosapuolten nimet ja yhteystiedot;",
+      "clause_number": 1,
+      "section_number": "29",
+      "statute_id": "707/2011"
+    },
+    {
+      "id": "b4dad4da-935b-4897-a13b-21c648a81ef1",
+      "node_type": "Clause",
+      "publisher": "finlex",
+      "title": "§ 29 mom 2",
+      "text": "2) sopimus tai mittauksen kannalta oleelliset osat sopimuksesta, johon mittaus perustuu;",
+      "clause_number": 2,
+      "section_number": "29",
+      "statute_id": "707/2011"
+    },
+    {
+      "id": "faddfe4a-4a2b-4d66-96b4-a81fb2dd1abc",
+      "node_type": "Clause",
+      "publisher": "finlex",
+      "title": "§ 29 mom 3",
+      "text": "3) mittaustoimitusta koskeva asiakirja, jos se on jo tehty;",
+      "clause_number": 3,
+      "section_number": "29",
+      "statute_id": "707/2011"
+    },
+    {
+      "id": "dabfadaf-7657-4f18-9c70-175dd474e8a0",
+      "node_type": "Clause",
+      "publisher": "finlex",
+      "title": "§ 29 mom 4",
+      "text": "4) selvitys erimielisyyden aiheuttavasta seikasta mittaustoimituksessa tai mittaustuloksessa;",
+      "clause_number": 4,
+      "section_number": "29",
+      "statute_id": "707/2011"
+    },
+    {
+      "id": "6bbb3f9f-b749-43c2-8810-c7b54193d5bc",
+      "node_type": "Clause",
+      "publisher": "finlex",
+      "title": "§ 29 mom 5",
+      "text": "5) selvitys siitä, milloin virallista mittausta pyytävä mittausosapuoli on saanut tiedon mittaustuloksesta.",
+      "clause_number": 5,
+      "section_number": "29",
+      "statute_id": "707/2011"
+    },
+    {
+      "id": "7fd3d553-487f-43b8-badd-07ba02ee1716",
+      "node_type": "Clause",
+      "publisher": "finlex",
+      "title": "§ 34 mom 1",
+      "text": "1) tehdasmittaajan nimi, yhteystiedot ja mittauspaikka;",
+      "clause_number": 1,
+      "section_number": "34",
+      "statute_id": "707/2011"
+    },
+    {
+      "id": "ab278caf-162b-46cc-b1fd-457179c6a622",
+      "node_type": "Clause",
+      "publisher": "finlex",
+      "title": "§ 34 mom 2",
+      "text": "2) mittauspaikalla käytettävät mittausmenetelmät ja mittauslaitteet;",
+      "clause_number": 2,
+      "section_number": "34",
+      "statute_id": "707/2011"
+    },
+    {
+      "id": "ceade9a3-8f75-457c-8af9-cea1ee167ce1",
+      "node_type": "Clause",
+      "publisher": "finlex",
+      "title": "§ 34 mom 3",
+      "text": "3) mittauksen aloittamisajankohta;",
+      "clause_number": 3,
+      "section_number": "34",
+      "statute_id": "707/2011"
+    },
+    {
+      "id": "c891c833-a837-42ba-8d10-6dba379de325",
+      "node_type": "Clause",
+      "publisher": "finlex",
+      "title": "§ 34 mom 4",
+      "text": "4) mittaustuloksen käyttötarkoitus: luovutus-, työ- tai urakointimittaus.",
+      "clause_number": 4,
+      "section_number": "34",
+      "statute_id": "707/2011"
+    },
+    {
+      "id": "28108f7b-8cf9-4a53-813b-1544de3cd2f1",
+      "node_type": "Clause",
+      "publisher": "finlex",
+      "title": "§ 36 mom 1",
+      "text": "1) mittauksen tarkkuus ei ole 13 ja 14 §:ssä tai niiden nojalla säädettyjen mittausmenetelmäryhmien tai mittausmenetelmien vaatimusten mukainen;",
+      "clause_number": 1,
+      "section_number": "36",
+      "statute_id": "707/2011"
+    },
+    {
+      "id": "459c69d1-bb10-4837-b27c-4aba34c382b6",
+      "node_type": "Clause",
+      "publisher": "finlex",
+      "title": "§ 36 mom 2",
+      "text": "2) mittausmenetelmissä, mittaustoiminnassa, mittauslaitteissa tai mittauslaitteiden käytössä on mittauksen tarkkuuteen oleellisesti vaikuttava epäkohta;",
+      "clause_number": 2,
+      "section_number": "36",
+      "statute_id": "707/2011"
+    },
+    {
+      "id": "3a18c79f-8a58-4ab5-83bf-f67cd7b15419",
+      "node_type": "Clause",
+      "publisher": "finlex",
+      "title": "§ 36 mom 3",
+      "text": "3) mittauslaite ei ole 15 §:ssä säädettyjen vaatimusten mukainen; taikka",
+      "clause_number": 3,
+      "section_number": "36",
+      "statute_id": "707/2011"
+    },
+    {
+      "id": "8edd89e0-4653-4c70-bc5a-09b99a0ba809",
+      "node_type": "Clause",
+      "publisher": "finlex",
+      "title": "§ 36 mom 4",
+      "text": "4) mittauksen luotettavuuden varmistamista ei ole tehty 17 §:ssä tarkoitetulla tavalla.",
+      "clause_number": 4,
+      "section_number": "36",
+      "statute_id": "707/2011"
+    },
+    {
+      "id": "b92be0cf-0f52-43fc-bd29-d942995b1db4",
+      "node_type": "Clause",
+      "publisher": "finlex",
+      "title": "§ 37 mom 1",
+      "text": "1) valvontamittauksen aika ja paikka;",
+      "clause_number": 1,
+      "section_number": "37",
+      "statute_id": "707/2011"
+    },
+    {
+      "id": "ea41c076-2ce7-4e0e-b986-9bccacfc1e93",
+      "node_type": "Clause",
+      "publisher": "finlex",
+      "title": "§ 37 mom 2",
+      "text": "2) valvontamittauksen kohteena olevan tehdasmittaajan nimi;",
+      "clause_number": 2,
+      "section_number": "37",
+      "statute_id": "707/2011"
+    },
+    {
+      "id": "bf910e1b-dec5-4e2d-a608-e1e2c37f317f",
+      "node_type": "Clause",
+      "publisher": "finlex",
+      "title": "§ 37 mom 3",
+      "text": "3) tehdasmittauksen luotettavuuden varmistamisesta ja tarkkuudesta tehdyt havainnot;",
+      "clause_number": 3,
+      "section_number": "37",
+      "statute_id": "707/2011"
+    },
+    {
+      "id": "707bce5b-986c-4514-9a15-9f8c4d274e08",
+      "node_type": "Clause",
+      "publisher": "finlex",
+      "title": "§ 37 mom 4",
+      "text": "4) virallisen mittaajan päätös valvontamittauksesta.",
+      "clause_number": 4,
+      "section_number": "37",
+      "statute_id": "707/2011"
+    },
+    {
+      "id": "18b8bd3b-59df-4e36-8457-a7066ae5060a",
+      "node_type": "Clause",
+      "publisher": "finlex",
+      "title": "§ 39 mom 2",
+      "text": "1) virallisen mittaajan 40 §:n 2 momentissa tarkoitetusta määräyksestä huolimatta tehdasmittauksessa havaittua virhettä ei korjata ja tehdasmittaus jatkuu; tai",
+      "clause_number": 2,
+      "section_number": "39",
+      "statute_id": "707/2011"
+    },
+    {
+      "id": "c70d3c73-3533-4016-b4cb-41eda6d2de62",
+      "node_type": "Clause",
+      "publisher": "finlex",
+      "title": "§ 39 mom 1",
+      "text": "1) virallisen mittaajan 40 §:n 2 momentissa tarkoitetusta määräyksestä huolimatta tehdasmittauksessa havaittua virhettä ei korjata ja tehdasmittaus jatkuu; tai",
+      "clause_number": 1,
+      "section_number": "39",
+      "statute_id": "707/2011"
+    },
+    {
+      "id": "bde5970a-0720-4573-b6cb-f9972d7a8405",
+      "node_type": "Clause",
+      "publisher": "finlex",
+      "title": "§ 39 mom 2",
+      "text": "2) virallinen mittaaja ja tehdasmittaaja ovat eri mieltä tehdasmittauksessa havaitusta virheestä, virallisen mittaajan suosittamasta mittaustuloksen oikaisemisesta tai muusta tehdasmittaukseen oleellisesti vaikuttavasta asiasta.",
+      "clause_number": 2,
+      "section_number": "39",
+      "statute_id": "707/2011"
+    },
+    {
+      "id": "fb4e59d8-c4d7-465f-831f-a9944e7eba66",
+      "node_type": "Clause",
+      "publisher": "finlex",
+      "title": "§ 45 mom 1",
+      "text": "1) laiminlyö 17 ja 18 §:ssä tarkoitetun omavalvonnan tai",
+      "clause_number": 1,
+      "section_number": "45",
+      "statute_id": "707/2011"
+    },
+    {
+      "id": "5dd203cc-1c77-43ce-9c19-21ac3f07ccf1",
+      "node_type": "Clause",
+      "publisher": "finlex",
+      "title": "§ 45 mom 2",
+      "text": "2) jättää 34 §:ssä tarkoitetun tehdasmittausilmoituksen tekemättä",
+      "clause_number": 2,
+      "section_number": "45",
+      "statute_id": "707/2011"
+    },
+    {
+      "id": "64f310b1-df51-4d01-ae97-908f8d54c73e",
+      "node_type": "Clause",
+      "publisher": "finlex",
+      "title": "§ 53 mom 1",
+      "text": "1) valvontamittaus toimitetaan mittauspaikalla tehdasmittaajan pyynnöstä;",
+      "clause_number": 1,
+      "section_number": "53",
+      "statute_id": "707/2011"
+    },
+    {
+      "id": "96cc6709-c34b-4499-bbcd-99c9a395c2b7",
+      "node_type": "Clause",
+      "publisher": "finlex",
+      "title": "§ 53 mom 2",
+      "text": "2) valvontamittaus toimitetaan mittauspaikalla virallisen mittaajan aloitteesta ennen tehdasmittauksen aloittamista uudella tehdasmittauspaikalla sen jälkeen kun 34 §:ssä tarkoitettu ilmoitus on tehty;",
+      "clause_number": 2,
+      "section_number": "53",
+      "statute_id": "707/2011"
+    },
+    {
+      "id": "c8a7c5ac-ea0a-498d-902d-ac040da81628",
+      "node_type": "Clause",
+      "publisher": "finlex",
+      "title": "§ 53 mom 3",
+      "text": "3) virallinen mittaaja tekee uuden valvontamittauksen tehdasmittaajasta johtuvasta syystä.",
+      "clause_number": 3,
+      "section_number": "53",
+      "statute_id": "707/2011"
+    },
+    {
+      "id": "649d7d4b-e2cb-45c9-8597-93ffe7248ead",
+      "node_type": "Clause",
+      "publisher": "finlex",
+      "title": "§ 54 mom 1",
+      "text": "1) kyseinen mittausosapuoli on pyytänyt virallista mittausta sekä perusmittauksen ja virallisen mittauksen tulokset eroavat toisistaan vähemmän kuin perusmittauksessa käytetyn mittausmenetelmän suurin sallittu poikkeama;",
+      "clause_number": 1,
+      "section_number": "54",
+      "statute_id": "707/2011"
+    },
+    {
+      "id": "825d2808-e41f-4d03-858a-2c8bb3da2fb4",
+      "node_type": "Clause",
+      "publisher": "finlex",
+      "title": "§ 54 mom 2",
+      "text": "2) kyseisen mittausosapuolen tekemän perusmittauksen ja virallisen mittauksen tulokset eroavat toisistaan enemmän kuin perusmittauksessa käytetyn mittausmenetelmän suurin sallittu poikkeama;",
+      "clause_number": 2,
+      "section_number": "54",
+      "statute_id": "707/2011"
+    },
+    {
+      "id": "94eb65b7-b6ab-46af-b42a-0bf5649eeaf2",
+      "node_type": "Clause",
+      "publisher": "finlex",
+      "title": "§ 54 mom 3",
+      "text": "3) virallinen mittaus on tehty siksi, että kyseinen mittausosapuoli ei osallistu mittaustoimitukseen sovitulla tavalla;",
+      "clause_number": 3,
+      "section_number": "54",
+      "statute_id": "707/2011"
+    },
+    {
+      "id": "ce24e3f1-2c4e-4be5-9e19-4e4fa609ec00",
+      "node_type": "Clause",
+      "publisher": "finlex",
+      "title": "§ 54 mom 4",
+      "text": "4) kyseinen mittausosapuoli on pyytänyt aiheettoman virallisen mittauksen.",
+      "clause_number": 4,
+      "section_number": "54",
+      "statute_id": "707/2011"
+    }
+  ],
+  "cross_references": [],
+  "raw_html_path": "C:\\Users\\danit\\finance-hack\\aalto-hackaton-2026\\data\\raw\\finlex\\Laki (säädöskokoelma)\\Laki puutavaran mittauksesta.html"
+}

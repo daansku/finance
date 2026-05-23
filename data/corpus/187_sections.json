@@ -1,0 +1,2145 @@
+{
+  "statute": {
+    "id": "4430fce9-a606-4b71-87e9-350cb529108f",
+    "node_type": "Statute",
+    "publisher": "finlex",
+    "title": "Perintökaari.",
+    "text": "Perintökaari.",
+    "statute_id": "",
+    "finlex_url": ""
+  },
+  "chapters": [
+    {
+      "id": "ee4290e3-1fce-43ba-993b-dff9e5a74e38",
+      "node_type": "Chapter",
+      "publisher": "finlex",
+      "title": "Chapter 1",
+      "text": "1 luku. Oikeudesta saada perintö.",
+      "chapter_number": 1,
+      "statute_id": ""
+    },
+    {
+      "id": "9899933e-fb5f-43fe-bc34-f7170de4def9",
+      "node_type": "Chapter",
+      "publisher": "finlex",
+      "title": "Chapter 2",
+      "text": "2 luku. Sukulaisten perintöoikeudesta.",
+      "chapter_number": 2,
+      "statute_id": ""
+    },
+    {
+      "id": "cce34071-8a64-4910-aef4-1311c7410ff3",
+      "node_type": "Chapter",
+      "publisher": "finlex",
+      "title": "Chapter 3",
+      "text": "3 luku. Puolison perintöoikeudesta.",
+      "chapter_number": 3,
+      "statute_id": ""
+    },
+    {
+      "id": "53324969-8c77-4441-9bd0-82aa62d758aa",
+      "node_type": "Chapter",
+      "publisher": "finlex",
+      "title": "Chapter 4",
+      "text": "4 luku. Lapseksiottamiseen perustuvasta perintöoikeudesta.",
+      "chapter_number": 4,
+      "statute_id": ""
+    },
+    {
+      "id": "3c0bf111-85ce-4dec-b159-3728caec7f43",
+      "node_type": "Chapter",
+      "publisher": "finlex",
+      "title": "Chapter 5",
+      "text": "5 luku. Valtion oikeudesta perintöön.",
+      "chapter_number": 5,
+      "statute_id": ""
+    },
+    {
+      "id": "90f3a192-b9b5-4641-a425-be0bc1881839",
+      "node_type": "Chapter",
+      "publisher": "finlex",
+      "title": "Chapter 6",
+      "text": "6 luku. Ennakkoperinnöstä.",
+      "chapter_number": 6,
+      "statute_id": ""
+    },
+    {
+      "id": "9ec6db41-5798-4fac-8f6d-e6353eaa0c93",
+      "node_type": "Chapter",
+      "publisher": "finlex",
+      "title": "Chapter 7",
+      "text": "7 luku. Lakiosasta.",
+      "chapter_number": 7,
+      "statute_id": ""
+    },
+    {
+      "id": "c83af4d3-f6c7-4028-95bb-9ed2b3078061",
+      "node_type": "Chapter",
+      "publisher": "finlex",
+      "title": "Chapter 8",
+      "text": "8 luku. Perittävän lapselle, puolisolle ja vanhemmille suoritettavasta avustuksesta.",
+      "chapter_number": 8,
+      "statute_id": ""
+    },
+    {
+      "id": "23e35755-7109-46e6-9884-b2a16d476091",
+      "node_type": "Chapter",
+      "publisher": "finlex",
+      "title": "Chapter 9",
+      "text": "9 luku. Oikeudesta tehdä ja saada testamentti.",
+      "chapter_number": 9,
+      "statute_id": ""
+    },
+    {
+      "id": "6bb368c5-3d9c-48d9-9304-1c6dd98b2d2d",
+      "node_type": "Chapter",
+      "publisher": "finlex",
+      "title": "Chapter 10",
+      "text": "10 luku. Testamentin tekemisestä ja peruuttamisesta.",
+      "chapter_number": 10,
+      "statute_id": ""
+    },
+    {
+      "id": "0e9caf1f-5a4d-4676-845a-dd7e98d5cae5",
+      "node_type": "Chapter",
+      "publisher": "finlex",
+      "title": "Chapter 11",
+      "text": "11 luku Testamentin tulkinnasta.",
+      "chapter_number": 11,
+      "statute_id": ""
+    },
+    {
+      "id": "1ecc82a5-4906-46d3-bd5d-982bcda19143",
+      "node_type": "Chapter",
+      "publisher": "finlex",
+      "title": "Chapter 12",
+      "text": "12 luku. Testamenttiin perustuvasta käyttöoikeudesta.",
+      "chapter_number": 12,
+      "statute_id": ""
+    },
+    {
+      "id": "f3c44979-1625-4002-b026-e4ffa9e8fd44",
+      "node_type": "Chapter",
+      "publisher": "finlex",
+      "title": "Chapter 13",
+      "text": "13 luku. Testamentin pätemättömyydestä.",
+      "chapter_number": 13,
+      "statute_id": ""
+    },
+    {
+      "id": "94356a32-edac-4208-882e-05c365ede1ab",
+      "node_type": "Chapter",
+      "publisher": "finlex",
+      "title": "Chapter 14",
+      "text": "14 luku. Testamentin valvonnasta, tiedoksi antamisesta ja moitteesta.",
+      "chapter_number": 14,
+      "statute_id": ""
+    },
+    {
+      "id": "966d583f-335e-431f-a5cb-0c3e5ddb4072",
+      "node_type": "Chapter",
+      "publisher": "finlex",
+      "title": "Chapter 15",
+      "text": "15 luku Perintöön tai testamenttiin perustuvan oikeuden menettämisestä ja perinnöttömäksi tekemisestä.",
+      "chapter_number": 15,
+      "statute_id": ""
+    },
+    {
+      "id": "d6ba2a81-3eee-4bf1-8a4a-9eeed0f093de",
+      "node_type": "Chapter",
+      "publisher": "finlex",
+      "title": "Chapter 16",
+      "text": "16 luku. Perillisen ja testamentin saajan oikeuden vanhentumisesta.",
+      "chapter_number": 16,
+      "statute_id": ""
+    },
+    {
+      "id": "79071b88-eaa5-4de7-8b77-90416499bf7f",
+      "node_type": "Chapter",
+      "publisher": "finlex",
+      "title": "Chapter 17",
+      "text": "17 luku Perinnöstä luopumisesta ja perintöosuuden luovuttamisesta.",
+      "chapter_number": 17,
+      "statute_id": ""
+    },
+    {
+      "id": "3545ef53-ff70-401d-9a23-27425dacf989",
+      "node_type": "Chapter",
+      "publisher": "finlex",
+      "title": "Chapter 18",
+      "text": "18 luku. Kuolinpesän hallinnosta.",
+      "chapter_number": 18,
+      "statute_id": ""
+    },
+    {
+      "id": "42506b91-c741-4345-8aaa-c47bc131a8c7",
+      "node_type": "Chapter",
+      "publisher": "finlex",
+      "title": "Chapter 19",
+      "text": "19 luku Pesänselvittäjästä ja testamentin toimeenpanijasta.",
+      "chapter_number": 19,
+      "statute_id": ""
+    },
+    {
+      "id": "90e3778e-a6cb-41a8-888d-aa8000d410b1",
+      "node_type": "Chapter",
+      "publisher": "finlex",
+      "title": "Chapter 20",
+      "text": "20 luku. Perunkirjoituksesta.",
+      "chapter_number": 20,
+      "statute_id": ""
+    },
+    {
+      "id": "12db1b34-5f1d-4c06-a1a9-e4b8e1ec14d4",
+      "node_type": "Chapter",
+      "publisher": "finlex",
+      "title": "Chapter 21",
+      "text": "21 luku. Kuolleen henkilön ja pesän velasta.",
+      "chapter_number": 21,
+      "statute_id": ""
+    },
+    {
+      "id": "57ba7167-6376-4921-812e-a775a6aad46b",
+      "node_type": "Chapter",
+      "publisher": "finlex",
+      "title": "Chapter 22",
+      "text": "22 luku. Erityisjälkisäädöksen ja tarkoitemääräyksen täytäntöönpanosta.",
+      "chapter_number": 22,
+      "statute_id": ""
+    },
+    {
+      "id": "ba359ac7-4688-4473-bc80-e67c42b5e368",
+      "node_type": "Chapter",
+      "publisher": "finlex",
+      "title": "Chapter 23",
+      "text": "23 luku. Perinnönjaosta.",
+      "chapter_number": 23,
+      "statute_id": ""
+    },
+    {
+      "id": "b3d6f934-82d6-4993-8456-4183d7b78c9e",
+      "node_type": "Chapter",
+      "publisher": "finlex",
+      "title": "Chapter 24",
+      "text": "24 luku. Sopimukseen perustuvasta kuolinpesän yhteishallinnosta.",
+      "chapter_number": 24,
+      "statute_id": ""
+    }
+  ],
+  "sections": [
+    {
+      "id": "4cd3363b-ea56-46a0-af19-bd017827a6bd",
+      "node_type": "Section",
+      "publisher": "finlex",
+      "title": "1 §.",
+      "text": "Periä voi vain se, joka elää perittävän kuolinhetkellä; kuitenkin periköön sitä ennen siitetty, lapsi, jos tämä sittemmin syntyy elävänä.",
+      "section_number": "1",
+      "chapter_number": 1,
+      "statute_id": ""
+    },
+    {
+      "id": "669fd141-3d87-440b-aa8d-4302728185dc",
+      "node_type": "Section",
+      "publisher": "finlex",
+      "title": "2 §.",
+      "text": "Jos perillinen on kuollut eikä voida todistaa, että hän on elänyt perittävän jälkeen, katsottakoon hänen kuolleen ennen perittävää.",
+      "section_number": "2",
+      "chapter_number": 1,
+      "statute_id": ""
+    },
+    {
+      "id": "035d8173-744b-40b1-b9cd-5c8744bf6eca",
+      "node_type": "Section",
+      "publisher": "finlex",
+      "title": "3 §.",
+      "text": "Ulkomaalaisella on Suomessa yhtäläinen oikeus perinnön saamiseen kuin Suomen kansalaisella. Sellaisen valtion kansalaisen kohdalta, jossa Suomen kansalaisella ei ole perintöoikeutta tai jossa hän on perinnön saajana huonommassa asemassa kuin kotimaan kansalainen, voidaan asetuksella säätää vastaava rajoitus.",
+      "section_number": "3",
+      "chapter_number": 1,
+      "statute_id": ""
+    },
+    {
+      "id": "6071a2bf-732a-4bed-b808-e668ab53f526",
+      "node_type": "Section",
+      "publisher": "finlex",
+      "title": "1 §.",
+      "text": "Lähinnä saavat perinnön rintaperilliset. Kukin lapsista saa yhtä suuren osan perinnöstä. Milloin lapsi on kuollut, tulevat lapsen jälkeläiset hänen sijaansa, ja joka haara saa yhtä suuren osan.",
+      "section_number": "1",
+      "chapter_number": 2,
+      "statute_id": ""
+    },
+    {
+      "id": "123ca24f-fd1a-4b84-905e-edf9cda62e87",
+      "node_type": "Section",
+      "publisher": "finlex",
+      "title": "2 §.",
+      "text": "Jollei perittävältä ole jäänyt rintaperillistä, saavat hänen isänsä ja äitinsä kumpainenkin puolet perinnöstä. Milloin isä tai äiti on kuollut, jakavat perittävän veljet ja sisaret hänen osansa. Kuolleen veljen tai sisaren sijaan tulevat hänen jälkeläisensä, ja joka haara saa yhtä suuren osan. Jollei veljiä tai sisaria tahi heidän jälkeläisiään ole, mutta jompikumpi perittävän vanhemmista elää, saa tämä koko perinnön. Jos perittävältä on jäänyt veli- tai sisarpuolia, saavat he yhdessä täysiveljien ja -sisarien kanssa osansa siitä, mikä olisi ollut heidän isälleen tai äidilleen tuleva. Jollei täysiveljiä tai -sisaria tahi heidän jälkeläisiään ole ja molemmat vanhemmat ovat kuolleet, saavat veli- ja sisarpuolet koko perinnön. Kuolleen veli- tai sisarpuolen sijaan tulevat hänen jälkeläisensä.",
+      "section_number": "2",
+      "chapter_number": 2,
+      "statute_id": ""
+    },
+    {
+      "id": "cb162a95-2467-4e77-9328-bc04c1c5ce8c",
+      "node_type": "Section",
+      "publisher": "finlex",
+      "title": "3 §.",
+      "text": "Jollei 1 ja 2 §:ssä mainittuja perillisiä ole, saavat perittävän isän ja äidin vanhemmat koko perinnön. Milloin isänisä, isänäiti, äidinisä tai äidinäiti on kuollut, menee hänen lapsilleen se osa perinnöstä, mikä hänelle olisi tullut. Jollei siltä isän tai äidin vanhemmista, jolle perintö hänen eläessään olisi tullut, ole jäänyt lapsia, saa toinen isän tai äidin vanhemmista taikka, jos tämäkin on kuollut, mutta häneltä on jäänyt lapsia muusta avioliitosta, nämä vainajan osan. Jollei toisesta kannasta ole perillisiä, saavat toisen kannan perilliset koko perinnön.",
+      "section_number": "3",
+      "chapter_number": 2,
+      "statute_id": ""
+    },
+    {
+      "id": "ddea675e-755c-49eb-b0e0-09a0fce83151",
+      "node_type": "Section",
+      "publisher": "finlex",
+      "title": "4 §.",
+      "text": "Jos avioliiton ulkopuolella syntynyt lapsi on säädetyssä järjestyksessä tunnustettu; lapsi ja hänen jälkeläisensä perivät lapsen isän ja isänpuoliset sukulaiset sekä nämä lapsen ja tämän jälkeläiset. Sama on laki, jos lapsi on kihlakumppanien siittämä taikka sen vanhemmat ovat sittemmin kihlautuneet. Jos lapsi on väkisin maaten siitetty, periköön lapsi isän ja isänpuoliset sukulaiset.",
+      "section_number": "4",
+      "chapter_number": 2,
+      "statute_id": ""
+    },
+    {
+      "id": "cbbf9553-d97c-45d4-8dff-8a160409e8cc",
+      "node_type": "Section",
+      "publisher": "finlex",
+      "title": "5 §.",
+      "text": "Muut kuin edellä tässä luvussa mainitut sukulaiset eivät saa periä.",
+      "section_number": "5",
+      "chapter_number": 2,
+      "statute_id": ""
+    },
+    {
+      "id": "79e00a84-4efe-4f4d-ae2d-b51953a69976",
+      "node_type": "Section",
+      "publisher": "finlex",
+      "title": "1 §.",
+      "text": "Jos perittävä oli naimisissa eikä häneltä ole jäänyt rintaperillistä, menee jäämistö eloon jääneelle puolisolle. Milloin eloonjääneen puolison kuollessa ensiksi kuolleen puolison isä, äiti, veli tai sisar tahi veljen tai sisaren jälkeläinen on elossa, saavat ne heistä, joilla silloin lähinnä on oikeus periä ensiksi kuollut puoliso, puolet eloonjääneen puolison pesästä, mikäli jäljempänä tässä luvussa ei toisin säädetä. Älköön eloonjäänyt puoliso testamentilla määrätkö siitä, mitä siten on tuleva ensiksi kuolleen perillisille.",
+      "section_number": "1",
+      "chapter_number": 3,
+      "statute_id": ""
+    },
+    {
+      "id": "fb877044-180e-41ac-9383-9f702b712548",
+      "node_type": "Section",
+      "publisher": "finlex",
+      "title": "2 §.",
+      "text": "Jos ensiksi kuolleen puolisen kuollessa puolisoilla tai toisella heistä oli sellaista omaisuutta, johon toisella ei ollut avio-oikeutta, tai ensiksi kuolleen puolison jäämisto muusta syystä on suurempi tai pienempi kuin puolet puolisoiden omaisuudesta, on jäämistön eloonjääneen puolisen kuollessa katsottava vastaavan yhtä suurta osaa tämän pesästä. Jos ensiksi kuollut puoliso on testamentilla määrännyt jäämistöstään jotakin annettavaksi muulle kuin eloonjääneelle puolisolle, on sen arvo vähennettävä määrättäessä sitä osaa, mikä eloonjääneen puolison pesästä kuuluu ensiksi kuolleen puolison perillisille.",
+      "section_number": "2",
+      "chapter_number": 3,
+      "statute_id": ""
+    },
+    {
+      "id": "ff90e640-229e-4c29-9ae8-2c03f8851b77",
+      "node_type": "Section",
+      "publisher": "finlex",
+      "title": "3 §.",
+      "text": "Jos eloonjäänyt puoliso on antamalla lahjan tai muulla siihen rinnastettavalla toimella, ottamatta asiamukaisesti huomioon ensiksi kuolleen puolison perillisten oikeutta, aiheuttanut omaisuutensa olennaisen vähentymisen, on eloonjääneen puolison pesää jaettaessa hänen perillisilleen tulevasta osuudesta suoritetta ensiksi kuolleen puolison perillisille vastiketta heidän pesäosuutensa vähentymisestä. Ellei vastiketta voida suorittaa, on lahja tai sen arvo palautettava, mikäli lahjan saaja tiesi tai hänen olisi pitänyt tietää, että lahjoitus loukkasi ensiksi kuolleen puolison perillisten oikeutta. Palauttamista koskeva kanne on nostettava vuoden kuluessa siitä, kun perunkirjoitus eloonjääneen puolison jälkeen toimitettiin, kuitenkin viimeistään kymmenen vuoden kuluessa lahjoituksen täyttämisestä. Jollei lahjanlupauksena annettu sitoumus eloonjääneen puolison kuollessa ollut täytetty, älköön sitä saatettako voimaan sikäli kuin se loukkaisi ensiksi kuolleen perillisten oikeutta.",
+      "section_number": "3",
+      "chapter_number": 3,
+      "statute_id": ""
+    },
+    {
+      "id": "3b11b031-70c4-496d-beae-35b5152530f7",
+      "node_type": "Section",
+      "publisher": "finlex",
+      "title": "4 §.",
+      "text": "Jos pesän arvo eloonjääneen puolison kuollessa on suurempi kuin ensiksi kuolleen puolison kuollessa, on pesän vaurastuminen luettava eloonjääneen puolison perillisten hyväksi, mikäli selvitetään, että eloonjäänyt on perintönä, testamentilla tai lahjana saanut vastaavan omaisuuden tai että vaurastuminen johtuu ansiotoiminnasta, jota eloonjäänyt puoliso on harjoittanut ensiksi kuolleen puolisen kuoleman jälkeen. Milloin omaisuus on ensiksi kuolleen puolisen kuoleman jälkeen 3 §:ssä mainituin tavoin vähentynyt, on tämä otettava huomioon, kun eloonjääneen puolisen perillinen 1 momentin nojalla vaatii osuuteensa lisäystä.",
+      "section_number": "4",
+      "chapter_number": 3,
+      "statute_id": ""
+    },
+    {
+      "id": "ae7d2619-8676-4fcb-a04f-bd05b244305d",
+      "node_type": "Section",
+      "publisher": "finlex",
+      "title": "5 §.",
+      "text": "Viimeksi kuolleen puolisen pesää jaettaessa on ensiksi kuolleen puolison perillisillä oikeus saada osalleen mitä haluavat siitä omaisuudesta, joka avioliiton aikana on kuulunut tälle puolisolle. Vastaava oikeus, myös sen omaisuuden osalta, mikä on saatu ensiksi kuolleen puolison kuoleman jälkeen, on viimeksi kuolleen puolison perillisillä. Kiinteistö saadaan ottaa pesästä, vaikka sen arvo ylittäisi osuuden arvon, jos annetaan rahaa toisen puolen osuuden täytteeksi. Muutoin on jakotoimituksesta soveltuvin osin voimassa, mitä osituksesta on säädetty.",
+      "section_number": "5",
+      "chapter_number": 3,
+      "statute_id": ""
+    },
+    {
+      "id": "54330bcb-ef75-4abe-9f7c-7b80c1f9b084",
+      "node_type": "Section",
+      "publisher": "finlex",
+      "title": "6 §.",
+      "text": "Milloin eloonjäänyt puoliso on mennyt uuteen avioliittoon on hänen kuoltuaan hänen avio-oikeuden alaisen omaisuutensa säästö ja yksityinen omaisuutensa tämän luvun mukaisesti jaettava ennen ositusta. Jos eloonjääneen puolison elinaikana toimitetaan ositus hänen ja hänen uuden puolisonsa tai tämän perillisten kesken, erotettakoon eloonjääneen puolison avio-oikeuden alaisen omaisuuden säästöstä ja yksityisestä omaisuudesta ensiksi kuolleen puolison perillisten varalle omaisuutta niin paljon, että se vastaa sitä, mikä 1–4 §:n mukaan on heille tuleva. Mitä 4 §:ssä on säädetty sen varalta, että eloonjäänyt puoliso on perintönä, testamentilla tai lahjana saanut omaisuutta, on vastaavasti noudatettava, milloin hän uuden avioliiton johdosta on osituksessa saanut enemmän kuin hänellä on aikaisemmin ollut.",
+      "section_number": "6",
+      "chapter_number": 3,
+      "statute_id": ""
+    },
+    {
+      "id": "55e84989-c1d2-4fa3-8b93-5ab59f387236",
+      "node_type": "Section",
+      "publisher": "finlex",
+      "title": "7 §.",
+      "text": "Puolisolla ei, mikäli erityisistä asianhaaroista ei muuta johdu, ole perintöoikeutta, jos puolisot perittävän kuollessa asumuseron saatuaan asuivat erillään tai jos silloin oli vireillä kanne avioliiton purkamisesta tai asumuserosta. Sama on laki, jos ensiksi kuolleella puolisolla kuollessaan oli oikeus vaatia avioliittoa peruutuvaksi.",
+      "section_number": "7",
+      "chapter_number": 3,
+      "statute_id": ""
+    },
+    {
+      "id": "9b33d37c-0069-4d99-a0d8-6f90a82e3468",
+      "node_type": "Section",
+      "publisher": "finlex",
+      "title": "1 §.",
+      "text": "Ottolapsi perii ottovanhempansa niin kuin avioliitossa syntynyt lapsi, mikäli rintaperillisen oikeudesta lakiosaan ei muuta johdu. Jos ottolapsi on kuollut, saa hänen rintaperillisensä sen osan perinnöstä, joka olisi ollut tuleva ottolapselle.",
+      "section_number": "1",
+      "chapter_number": 4,
+      "statute_id": ""
+    },
+    {
+      "id": "edfa5ddd-1495-4750-9e85-22e861880bcd",
+      "node_type": "Section",
+      "publisher": "finlex",
+      "title": "2 §.",
+      "text": "Ottolapselta jääneeseen perintöön on ottovanhemmalla se oikeus, mikä muutoin 2 luvun mukaan olisi ottolapsen vanhemmilla. Jos lapsi on puolisoiden lapsekseen ottama, saa kumpikin puolet, ja jos jompikumpi on kuollut, saa toinen koko perinnön.",
+      "section_number": "2",
+      "chapter_number": 4,
+      "statute_id": ""
+    },
+    {
+      "id": "9dc653e9-a375-4af4-8b91-033402e9a3c5",
+      "node_type": "Section",
+      "publisher": "finlex",
+      "title": "3 §.",
+      "text": "Ottolapsen kuollessa rintaperillisettä periköön sen estämättä, mitä 2 §:ssä on säädetty ottovanhemman perintöoikeudesta ja mikäli ottolapsen puolison perintöoikeudesta ei muuta johdu, hänen sukulaisensa omaisuuden, jonka ottolapsi on saanut perintönä, testamentilla tai lahjana perimispolvessa olevalta sukulaiseltaan. Milloin ottolapsi on perintönä, testamentilla tai lahjana saanut omaisuutta ottovanhemmaltaan ja tältä on jäänyt rintaperillinen, periköön tämä sellaisen omaisuuden, mikäli ottolapsen rintaperillisen tai puolison perintöoikeudesta ei muuta johdu. Ottovanhemman rintaperillisellä on sanottuun omaisuuteen sama oikeus kuin ottovanhemmalla olisi eläessään ollut.",
+      "section_number": "3",
+      "chapter_number": 4,
+      "statute_id": ""
+    },
+    {
+      "id": "7a37131e-e7ff-488c-ba5f-9de55d898e60",
+      "node_type": "Section",
+      "publisher": "finlex",
+      "title": "4 §.",
+      "text": "Vaatimuksilla, jotka perustuvat 3 §:ään, on keskenään yhtäläinen oikeus. Jos ottolapsen perii ottovanhempi ja ottolapsen sukulaiset tekevät 3 §:n 1 momenttiin perustuvan vaatimuksen, on ottovanhemmalla lahjaksi antamaansa omaisuuteen yhtäläinen oikeus kuin sukulaisilla heille tulevaan omaisuuteen.",
+      "section_number": "4",
+      "chapter_number": 4,
+      "statute_id": ""
+    },
+    {
+      "id": "ac9cf4b7-bc21-4bdb-90c7-50454de863a8",
+      "node_type": "Section",
+      "publisher": "finlex",
+      "title": "5 §.",
+      "text": "Jollei 3 §:ssä tarkoitettu omaisuus ole tallella, otettakoon sen arvoa vastaava omaisuus jäämistön muista varoista, ja pantakoon omaisuudelle se arvo, mikä sillä vastaanotettaessa oli, mikäli asianhaaroista ei muuta johdu.",
+      "section_number": "5",
+      "chapter_number": 4,
+      "statute_id": ""
+    },
+    {
+      "id": "3b0acd5d-68ce-422e-960c-2b8a8c8c54d7",
+      "node_type": "Section",
+      "publisher": "finlex",
+      "title": "1 §.",
+      "text": "Jollei perillistä ole, menee perintö valtiolle.",
+      "section_number": "1",
+      "chapter_number": 5,
+      "statute_id": ""
+    },
+    {
+      "id": "070c9760-a416-494a-a544-4f7c1ba23b2d",
+      "node_type": "Section",
+      "publisher": "finlex",
+      "title": "2 §.",
+      "text": "Valtion perintönä saaman omaisuuden voi valtioneuvosto, jollei erityisiä syitä sen pysyttämiseen valtion omistuksessa tai sen käyttämiseen muulla tavoin ole, päättää kokonaan tai osaksi luovutettavaksi sille kunnalle, missä perittävä viimeksi on asunut. Kiinteä omaisuus voidaan kuitenkin luovuttaa sille kunnalle, missä omaisuus sijaitsee. Valtion perintönä saama omaisuus voidaan myös luovuttaa perittävän sukulaiselle tai muulle hänen läheiselleen, milloin sellaista luovutusta olosuhteisiin katsoen on pidettävä kohtuullisena.",
+      "section_number": "2",
+      "chapter_number": 5,
+      "statute_id": ""
+    },
+    {
+      "id": "cff14cb4-b585-4b25-b11f-fd8ce0a2bab4",
+      "node_type": "Section",
+      "publisher": "finlex",
+      "title": "3 §.",
+      "text": "Vaikka valtiolla olisi aihetta moittia testamenttia, mutta ei olo epäilystä testamentin tekijän todellisesta tarkoituksesta, valtioneuvosto voi päättää, ettei testamenttia ole moitittava.",
+      "section_number": "3",
+      "chapter_number": 5,
+      "statute_id": ""
+    },
+    {
+      "id": "f48d12f8-ab00-44b6-8c6b-864b2499328e",
+      "node_type": "Section",
+      "publisher": "finlex",
+      "title": "1 §.",
+      "text": "Mitä perittävä eläessään on antanut rintaperilliselle, on ennakkona vähennettävä tämän perinnöstä, ellei muuta ole määrätty tai olosuhteisiin katsoen otaksuttava tarkoitetun. Jos ennakon saajana on muu perillinen, on vähentäminen tehtävä vain, jos omaisuutta annettaessa on niin määrätty tai olosuhteiden perusteella on katsottava niin tarkoitetun. Jos puolisoiden yhteiselle rintaperilliselle on annettu ennakkoperintöä jommankumman puolison avio-oikeuden alaisesta omaisuudesta, on sen arvo vähennettävä ensiksi kuolleelta puolisolta jääneestä perinnöstä. Mikäli ennakon koko arvoa ei voida tästä vähentää, on loppuosa vähennettävä toiselta puolisolta jääneestä perinnöstä.",
+      "section_number": "1",
+      "chapter_number": 6,
+      "statute_id": ""
+    },
+    {
+      "id": "f8dcb9f8-04c7-4c9d-b4b0-0dbd4b76a7d8",
+      "node_type": "Section",
+      "publisher": "finlex",
+      "title": "2 §.",
+      "text": "Isälle tai äidille lapsen elättämisestä sekä kasvattamisesta ja kouluttamisesta aiheutuneita kustannuksia ei ole vähennettävä tämän perinnöstä. Milloin lapsen kouluttamiseen on pantu perheen olot huomioon ottaen erityisiä kustannuksia, voidaan niistä tehdä sellainen vähennys, mikä olosuhteisiin katsoen havaitaan kohtuulliseksi.",
+      "section_number": "2",
+      "chapter_number": 6,
+      "statute_id": ""
+    },
+    {
+      "id": "981587bd-56f6-4568-9414-80b8f6d60983",
+      "node_type": "Section",
+      "publisher": "finlex",
+      "title": "3 §.",
+      "text": "Jos perittävä on testamentilla määrännyt rintaperillisen perinnöstä tehtäväksi vähennyksen sen johdosta, että hänen elatukseensa sekä kasvatukseensa ja koulutukseensa on pantu erityisiä kustannuksia, on määräystä, vaikka se rajoittaisikin perillisen lakiosaa, noudatettava, mikäli vähennys olosuhteisiin katsoen havaitaan kohtuulliseksi.",
+      "section_number": "3",
+      "chapter_number": 6,
+      "statute_id": ""
+    },
+    {
+      "id": "28752b63-bf70-4156-b604-2185f18e98b7",
+      "node_type": "Section",
+      "publisher": "finlex",
+      "title": "4 §.",
+      "text": "Sellaisen tavanomaisen lahjan johdosta, jonka arvo ei ole epäsuhteessa antajan oloihin, ei ole tehtävä vähennystä rintaperillisen perinnöstä.",
+      "section_number": "4",
+      "chapter_number": 6,
+      "statute_id": ""
+    },
+    {
+      "id": "edab218e-2cbb-4f56-81b6-e7d123153783",
+      "node_type": "Section",
+      "publisher": "finlex",
+      "title": "5 §.",
+      "text": "Ennakkoperintöä vähennettäessä on omaisuudelle pantava se arvo, mikä sillä vastaanotettaessa oli, jollei asianhaaroista muuta johdu.",
+      "section_number": "5",
+      "chapter_number": 6,
+      "statute_id": ""
+    },
+    {
+      "id": "e72f388f-7c70-42cb-b360-0af52de11fa7",
+      "node_type": "Section",
+      "publisher": "finlex",
+      "title": "6 §.",
+      "text": "Jollei kaikkea sitä, minkä perillinen on ennakkona saanut, voida vähentää hänen perintöosastaan, ei hän ole velvollinen palauttamaan erotusta, ellei niin ole määrätty ennakkoa annettaessa.",
+      "section_number": "6",
+      "chapter_number": 6,
+      "statute_id": ""
+    },
+    {
+      "id": "33e8e9db-0058-4b6d-b6c2-ef208cb3e1a2",
+      "node_type": "Section",
+      "publisher": "finlex",
+      "title": "7 §.",
+      "text": "Perintöosien suuruuden määräämistä varten on pesän säästöön ennen perinnönjakoa lisättävä ennakkoperinnön arvo tai, jollei sitä voida kokonaan vähentää saajan perintöosasta, niin suuri osa kuin siitä voidaan vähentää.",
+      "section_number": "7",
+      "chapter_number": 6,
+      "statute_id": ""
+    },
+    {
+      "id": "95dfcbac-a1e6-4189-ad7a-999fe4cda969",
+      "node_type": "Section",
+      "publisher": "finlex",
+      "title": "8 §.",
+      "text": "Jos perillinen, joka on saanut ennakkoperintöä, on kuollut ennen perittävää, on ennakko vähennettävä hänen jälkeläistensä perintöosista. Milloin perintö on jaettava eri haarojen kesken ja johonkin haaraan kuuluva perillinen on saanut ennakkoperintöä, on tämä, jos hän on kuollut ennen perittävää jättämättä rintaperillisiä, joilla olisi oikeus tulla hänen sijaansa, vähennettävä muiden samaan haaraan kuuluvien perillisten perintöosista; älkööt nämä kuitenkaan saako p enempää osaa jäämistöstä kuin heille olisi ollut tuleva ennakon saajan eläessä.",
+      "section_number": "8",
+      "chapter_number": 6,
+      "statute_id": ""
+    },
+    {
+      "id": "d37e5f94-a923-47be-82b2-7d0fb901e38d",
+      "node_type": "Section",
+      "publisher": "finlex",
+      "title": "9 §.",
+      "text": "Mitä puoliso on avio-oikeuden alaisesta omaisuudestaan antanut lapsipuolelleen tai tämän rintaperilliselle, on vähennettävä saajan perinnöstä toisen puolison jälkeen, jollei muuta ole määrätty tai olosuhteisiin katsoen ole otaksuttava tarkoitetun. Samoin edellytyksin on se, mitä eloonjäänyt puoliso on antanut sellaiselle perilliselle tai testamentin saajalle, joka 3 luvun 1 §:n tai 12 luvun 1 §:n mukaan on saava osan eloonjääneen puolison pesästä, vähennettävä saajalle tulevasta pesäosuudesta. Myös näissä tapauksissa on 2 sekä 4–8 §:n säännöksiä sovellettava.",
+      "section_number": "9",
+      "chapter_number": 6,
+      "statute_id": ""
+    },
+    {
+      "id": "b65709b4-89ab-41d8-bc18-a0def06c86f5",
+      "node_type": "Section",
+      "publisher": "finlex",
+      "title": "10 §.",
+      "text": "Mitä tässä luvussa on säädetty rintaperilsestä, on vastaavasti sovellettava ottolapseen tai tämän jälkeläiseen.",
+      "section_number": "10",
+      "chapter_number": 6,
+      "statute_id": ""
+    },
+    {
+      "id": "c9127e3e-3035-451f-b941-cd47235e55b9",
+      "node_type": "Section",
+      "publisher": "finlex",
+      "title": "1 §.",
+      "text": "Rintaperillisellä sekä ottolapsella ja tämän jälkeläisellä on laki osa perittävän jälkeen. Lakiosa on puolet 1 momentissa mainitulle perilliselle lakimääräisen perimisjärjestyksen mukaan tulevan perintöosan arvosta.",
+      "section_number": "1",
+      "chapter_number": 7,
+      "statute_id": ""
+    },
+    {
+      "id": "03a170a0-7170-4a12-9998-1a1bf86df569",
+      "node_type": "Section",
+      "publisher": "finlex",
+      "title": "2 §.",
+      "text": "Lakiosaa määrättäessä otettakoon lukuun sekin, jonka perittävä on testamentissa tehnyt perinnöttömäksi tai joka muusta laillisesta syystä on jäävä osattomaksi perinnöstä. Rintaperillisen lakiosaa laskettaessa ei ottolasta tai sen jälkeläistä oteta lukuun, paitsi milloin ottolapsi on perittävän avioliiton ulkopuolella syntynyt lapsi.",
+      "section_number": "2",
+      "chapter_number": 7,
+      "statute_id": ""
+    },
+    {
+      "id": "f7a9ddea-384f-4140-8abd-d5feb1e8aa49",
+      "node_type": "Section",
+      "publisher": "finlex",
+      "title": "3 §.",
+      "text": "Lakiosaa määrättäessä on otettava huomioon avioliittolain mukaan eloonjääneeltä puolisolta kuolleen puolison perillisille tulevan tai elonjääneelle suoritettavan omaisuuden arvo. Pesän varoista ei ole vähennettävä lahjanlupauksena annettua sitoumusta eikä sitä määrää, mikä on suoritettava perittävällä lain mukaan olleen elatusvelvollisuuden täyttämiseksi vastaisuudessa. Pesän varoihin on lisättävä perittävän antama ennakkoperintö sekä, jollei erityisiä vastasyitä ole, hänen sellaisissa olosuhteissa tai sellaisin ehdoin eläessään antamansa lahja, että se on tarkoituksensa puolesta rinnastettavissa testamenttiin, niin myös hänen jälkeläiselleen tai ottolapselleen taikka tämän jälkeläiselle tahi näiden puolisoille antamansa sellainen lahja, jolla on ilmeisesti tarkoitettu suosia sen saajaa lakiosaan oikeutetun perillisen vahingoksi. Omaisuuden arvo on määrättävä sen ajankohdan mukaan, mikä sillä vastaanotettaessa oli, jollei asianhaaroista muuta johdu.",
+      "section_number": "3",
+      "chapter_number": 7,
+      "statute_id": ""
+    },
+    {
+      "id": "f0872c3f-51a1-46b4-bbad-b3803c39ab46",
+      "node_type": "Section",
+      "publisher": "finlex",
+      "title": "4 §.",
+      "text": "Jos perittävä on kuolemansa varalta ottamassaan henkivakuutuksessa määrännyt kolmannen henkilön edunsaajaksi tai siirtänyt henkivakuutuksensa kolmannelle henkilölle, on perittävän suorittamat vakuutusmaksut, jos ne eivät ole olleet kohtuullisessa suhteessa hänen oloihinsa ja varoihinsa, perintöosaa määrättäessä luettava pesän varojen lisäykseksi, kuitenkin enintään vakuutusmaarään saakka. Mikäli perittävä on saanut vastiketta edunsaajan määräämisestä tai vakuutuksen siirtämisestä, vastike on vähennettävä vakuutusmaksuista.",
+      "section_number": "4",
+      "chapter_number": 7,
+      "statute_id": ""
+    },
+    {
+      "id": "18cb9986-b748-4878-81aa-4e9cc1a519d8",
+      "node_type": "Section",
+      "publisher": "finlex",
+      "title": "5 §.",
+      "text": "Testamentti on perillistä kohtaan tehoton siltä osin kuin se loukkaa hänen oikeuttaan lakiosaan. Perillisen on kuitenkin, säilyttääkseen lakiosansa vähentämättömänä, haasteen tiedoksi antamisesta säädetyssä järjestyksessä tai muutoin todistettavasti ilmoitettava siitä testamentin saajalle kuuden kuukauden kuluessa siitä, kun hän 14 luvun 4 §:ssä säädetyllä tavalla tai, milloin testamenttia ei ole ollut valvottava, muulla tavoin todistettavasti on saanut tiedon testamentista. Sen estämättä, mitä 1 momentissa on sanottu, on testamentti, jolla perittävä on määrännyt jäämistönsä tai jotakin siihen kuuluvaa jollekin sillä ehdolla, että testamentin saaja suorittaa lakiosaan oikeutetulle perilliselle hänen lakiosaansa vastaavan tai siitä puuttuvan määrän rahana, pätevä siinä tapauksessa, että suoritus tapahtuu viimeistään perillisen määräämän kohtuullisen ajan kuluessa.",
+      "section_number": "5",
+      "chapter_number": 7,
+      "statute_id": ""
+    },
+    {
+      "id": "57a6166b-a238-445c-8ef3-9f73280437c9",
+      "node_type": "Section",
+      "publisher": "finlex",
+      "title": "6 §.",
+      "text": "Jos lahjanlupauksena annettu sitoumus oli täyttämättä perittävän kuollessa, ei sitä ole saatettava voimaan sikäli, kuin se loukkaisi perillisen lakiosaa.",
+      "section_number": "6",
+      "chapter_number": 7,
+      "statute_id": ""
+    },
+    {
+      "id": "63271b72-a881-4ee5-aa44-7d5acda5a2a1",
+      "node_type": "Section",
+      "publisher": "finlex",
+      "title": "7 §.",
+      "text": "Sellainen perillisen saama omaisuus, joka on otettava lukuun perintöosaa määrättäessä, luetaan hänen lakiosansa vähennykseksi. Jos lakiosaan oikeutettu perillinen on tullut perilliseksi sellaista omaisuutta saaneen sijaan, on omaisuus vähennettävä hänen lakiosastaan.",
+      "section_number": "7",
+      "chapter_number": 7,
+      "statute_id": ""
+    },
+    {
+      "id": "7db88651-8cb2-409e-b092-a9a873d05ba6",
+      "node_type": "Section",
+      "publisher": "finlex",
+      "title": "8 §.",
+      "text": "Jollei perillinen siitä huolimatta, että testamentti ja lahjanlupaus on jätetty huomioon ottamatta, voi saada lakiosaansa, on se, jolle perittävä eläessään on antanut 3 §:n 3 momentissa tarkoitettua omaisuutta, tai se, joka on saanut 4 §:ssä sanotun vakuutusmäärän, velvollinen vastaamaan sen täyttämisestä, mitä lakiosasta puuttuu, enintään sillä määrällä, mikä perintöosaa määrättäessä on luettava pesän varojen lisäykseksi. Milloin siltä, joka on velvollinen vastaamaan lakiosan täydennyksestä, on hänen tuottamuksettaan hukkaantunut 1 momentissa tarkoitettua omaisuutta, on hän vastuussa vain hänelle jääneen omaisuuden arvolla. Jos 1 momentissa tarkoitettuja vastuuvelvollisia on useita, määräytyy heidän vastuunsa suhteellisesti kunkin vastuumäärän mukaan.",
+      "section_number": "8",
+      "chapter_number": 7,
+      "statute_id": ""
+    },
+    {
+      "id": "0cadb8d8-2cb2-4b5c-b0a6-90f76acba191",
+      "node_type": "Section",
+      "publisher": "finlex",
+      "title": "9 §.",
+      "text": "Jos lakiosan täydennystä vaaditaan siltä, jolla itselläänkin on oikeus lakiosaan, saa hän pitää, mitä hänen lakiosaansa tarvitaan.",
+      "section_number": "9",
+      "chapter_number": 7,
+      "statute_id": ""
+    },
+    {
+      "id": "97e8abb5-25bb-44b4-b103-987813e986f3",
+      "node_type": "Section",
+      "publisher": "finlex",
+      "title": "10 §.",
+      "text": "Lakiosan täydennystä on vaadittava kanteella vuoden kuluessa siitä, kun perillinen on saanut tiedon perittävän kuolemasta ja siitä perittävän tekemään lahjoitukseen tai muuhun oikeustoimeen sisältyvä määräyksestä, joka loukkaa hänen oikeuttaan lakiosaan, kuitenkin viimeistään kymmenen vuoden kuluessa perittävän kuolemasta.",
+      "section_number": "10",
+      "chapter_number": 7,
+      "statute_id": ""
+    },
+    {
+      "id": "39397627-75ce-4bfd-8c0b-5c40ddbf3842",
+      "node_type": "Section",
+      "publisher": "finlex",
+      "title": "1 §.",
+      "text": "Jos perittävän lapsi tarvitsee kasvatukseensa tai koulutukseensa varoja hänelle perintönä tulevan omaisuuden lisäksi, annettakoon, sen mukaan kuin olosuhteisiin katsoen harkitaan kohtuulliseksi, hänelle päältä päin pesän säästöstä kertakaikkisena määränä avustusta enintään siksi kun hän on tullut kahdenkymmenenyhden vuoden ikään. Avustus, josta 1 momentissa puhutaan, on suoritettava jäämistöstä ennen perintöä ja testamenttia. Tällaisen avustuksen antamisella älköön kuitenkaan vähennettäkö muun perillisen perintöosaa, jos tämä sairauden tai muun sellaisen syyn vuoksi on kykenemätön itseään elättämään ja perintö on tarpeen hänen kohtuullista toimeentuloaan tai hänelle kuuluvan elatusvelvollisuuden täyttämistä varten.",
+      "section_number": "1",
+      "chapter_number": 8,
+      "statute_id": ""
+    },
+    {
+      "id": "2efb0a7d-4e81-4e0d-97c4-2da7b7aa2faa",
+      "node_type": "Section",
+      "publisher": "finlex",
+      "title": "2 §.",
+      "text": "Mikäli eloonjääneen puolison kohtuullista toimeetuloa varten on tarpeen, annettakoon hänelle pesän säästöstä kertakaikkisena avustuksena rahaa tai muuta omaisuutta sen mukaan kuin harkitaan kohtuulliseksi. Avustuksen antamisella älköön kuitenkaan, jollei ole painavia syitä, loukattako perillisen oikeutta lakiosaan.",
+      "section_number": "2",
+      "chapter_number": 8,
+      "statute_id": ""
+    },
+    {
+      "id": "ce3661c8-dcb0-486a-bbfb-80e71a5e2cec",
+      "node_type": "Section",
+      "publisher": "finlex",
+      "title": "3 §.",
+      "text": "Jos perittävän lapsi sairauden tai muun sellaisen syyn takia on kykenemätön itseään elättämään, on hähellä oikeus testamentilla toiselle annetun omaisuuden arvoon saakka saada testamentin saajalta avustusta, smkäli se on tarpeen lapsen kohtuullista toimeentuloa varten. Milloin testamentti on tehty lakiosaan oikeutetun perillisen hyväksi, on tämä velvollinen suorittamaan avustusta vain sikäli kuin hän on testamentilla saanut omaisuutta yli perintöosansa. Jos perittävä on eläessään lahjoittanut omaisuutta sellaisissa olosuhteissa tai sellaisin ehdoin, että lahja on tarkoituksensa puolesta rinnastettavissa testamenttiin, on lahjaan ja lahjan saajaan vastaavasti sovellettava, mitä testamentista ja testamentin saajasta 1 ja 2 momentissa on säädetty.",
+      "section_number": "3",
+      "chapter_number": 8,
+      "statute_id": ""
+    },
+    {
+      "id": "bc8354c8-2b4b-41ee-9d12-ece7fa2e6520",
+      "node_type": "Section",
+      "publisher": "finlex",
+      "title": "4 §.",
+      "text": "Mitä 3 §:ssä on sanottu perittävän lapsesta, sovelletaan vastaavasti perittävän vanhempiin, milloin heillä on oikeus perintöön.",
+      "section_number": "4",
+      "chapter_number": 8,
+      "statute_id": ""
+    },
+    {
+      "id": "b4ec9944-799e-47f2-8f4a-8bd1e9115ee2",
+      "node_type": "Section",
+      "publisher": "finlex",
+      "title": "5 §.",
+      "text": "Jos usealla on oikeus saada avustusta pesästä eivätkä varat riitä kaikkien avustusten täysimääräiseen suorittamiseen, on avustuksia niihin oikeutettujen kesken soviteltava sen mukaan kuin heidän tarpeisiinsa ja muutoin olosuhteisiin katsoen on kohtuullista.",
+      "section_number": "5",
+      "chapter_number": 8,
+      "statute_id": ""
+    },
+    {
+      "id": "72556111-845b-4e46-9b0e-2bb84a1a40ae",
+      "node_type": "Section",
+      "publisher": "finlex",
+      "title": "6 §.",
+      "text": "Avustus, josta säädetään 3 ja 4 §:ssä, maksettakoon kertakaikkisena määränä tai soveliain määräajoin annettavina erinä. Milloin avustus on maksettava määräerinä, älköön omaisuutta annettako saajalle, ellei hän pane hyväksyttävää vakuutta avustuserien suorittamisesta. Oikeus voi, kun olennaisesti muuttuneet olosuhteet antavat siihen aihetta, muuttaa määräerinä suoritettavasta avustuksesta tehtyä sopimusta tai päätöstä.",
+      "section_number": "6",
+      "chapter_number": 8,
+      "statute_id": ""
+    },
+    {
+      "id": "16587d6c-54dd-4c7c-9f51-a2fbd4e26c29",
+      "node_type": "Section",
+      "publisher": "finlex",
+      "title": "7 §.",
+      "text": "Avustusta 1 ja 2 §:n nojalla on vaadittava viimeistään perinnönjaossa. Mikäli perinnönjakoa ei ole toimitettava, on avustusta 2 §:n nojalla vaadittava viimeistään puolisoiden omaisuuden osituksessa tai erottelussa. Avustusvaatimus, joka perustuu 3 tai 4 §:ään, on esitettävä, mikäli se kohdistetaan testamentin saajaan, vuoden kuluessa siitä, kun avustukseen oikeutetulle annettiin 14 luvun 4 §:ssä säädetyllä tavalla testamentista tieto, tai, mikäli avustukseen oikeutetulle ei ole toimitettava testamentista tietoa, vuoden kuluessa perunkirjoituksesta. Lahjan saajaan kohdistettava avustusvaatimus on esitettävä vuoden kuluessa siitä, kun avustukseen oikeutettu on saanut tiedon perittävän kuolemasta ja lahjoituksesta, kuitenkin viimeistään kymmenen vuoden kuluessa perittävän kuolemasta.",
+      "section_number": "7",
+      "chapter_number": 8,
+      "statute_id": ""
+    },
+    {
+      "id": "24df22b4-367a-406f-9210-01343d68e505",
+      "node_type": "Section",
+      "publisher": "finlex",
+      "title": "8 §.",
+      "text": "Tämän luvun säännöksiä lapsen oikeudesta avustukseen sovelletaan myös perittävän avioliiton ulkopuolella syntyneeseen lapseen, jolla on oikeus peria hänet, ja perittävän ottolapseen.",
+      "section_number": "8",
+      "chapter_number": 8,
+      "statute_id": ""
+    },
+    {
+      "id": "a03913af-dbaf-4c2d-9dd9-c8073d3568dc",
+      "node_type": "Section",
+      "publisher": "finlex",
+      "title": "9 §.",
+      "text": "Jollei lahjanlupauksena annettua sitoumusta ollut täytetty perittävän kuollessa, älköön sitä saatettako voimaan, sikäli kuin se loukkaisi oikeutta saada avustusta tämän luvun mukaan.",
+      "section_number": "9",
+      "chapter_number": 8,
+      "statute_id": ""
+    },
+    {
+      "id": "eab428d6-ae96-44ab-be9b-7729a33029f4",
+      "node_type": "Section",
+      "publisher": "finlex",
+      "title": "1 §.",
+      "text": "Joka on täyttänyt kaksikymmentäyksi vuotta, saa testamentilla määrätä jäämistöstään. Testamentin saa tehdä nuorempikin, jos hän on tai on ollut naimisissa, ja viisitoista vuotta täyttänyt muutoinkin siitä omaisuudesta, jota hänellä on oikeus itse vallita.",
+      "section_number": "1",
+      "chapter_number": 9,
+      "statute_id": ""
+    },
+    {
+      "id": "cf848016-47f2-4abe-ae1f-948b6fc6efdd",
+      "node_type": "Section",
+      "publisher": "finlex",
+      "title": "2 §.",
+      "text": "Testamentti muun henkilön kuin testamentin tekijän kuolinhetkellä elävän taikka sitä ennen siitetyn ja sittemmin elävänä syntyvän hyväksi on tehoton. Testamentilla voidaan kuitenkin määrätä, että sellaisen henkilön vastaisuudessa syntyvät lapset, jolla 1 momentin mukaan on oikeus saada testamentti, täysin omistusoikeuksin saavat omaisuuden viimeistään tämän kuollessa tai sen oikeuden lakatessa, mikä muulla henkilöllä saattaa olla omaisuuteen.",
+      "section_number": "2",
+      "chapter_number": 9,
+      "statute_id": ""
+    },
+    {
+      "id": "ea6d3804-a7fd-46a2-b46c-71fff097807b",
+      "node_type": "Section",
+      "publisher": "finlex",
+      "title": "3 §.",
+      "text": "Ulkomaalaisen oikeudesta saada testamentilla omaisuutta Suomessa on voimassa, mitä ulkomaalaisen oikeudesta perintöön on säädetty.",
+      "section_number": "3",
+      "chapter_number": 9,
+      "statute_id": ""
+    },
+    {
+      "id": "b1c8237c-03ad-4838-b041-1c585d41bddf",
+      "node_type": "Section",
+      "publisher": "finlex",
+      "title": "1 §.",
+      "text": "Testamentti on tehtävä kirjallisesti kahden todistajan ollessa yhtaikaa läsnä, ja heidän on, sitten kun testamentin tekijä on allekirjoittanut testamentin tai tunnustanut siinä olevan allekirjoituksensa, todistettava testamentti nimikirjoituksillaan. Heidän tulee tietää, että asiakirja on testamentti, mutta testamentin tekijän vallassa on, tahtooko hän ilmoittaa heille sen sisällön.",
+      "section_number": "1",
+      "chapter_number": 10,
+      "statute_id": ""
+    },
+    {
+      "id": "9fe2ffa6-53d4-4f1b-bf5e-c015a6decbdd",
+      "node_type": "Section",
+      "publisher": "finlex",
+      "title": "2 §.",
+      "text": "Todistajat merkitkööt nimikirjoituksensa oheen ammattinsa ja asuinpaikkansa samoin kuin todistamisen paikan ja ajan sekä tehkööt siihen merkinnän muistakin seikoista, joiden he katsovat vaikuttavan testamentin pätevyyteen. Todistajain testamenttiin merkitsemää todistusta siitä, että testamenttia tehtäessä on menetelty 1 §:ssä säädetyllä tavalla, on, milloin kanne nostetaan, pidettävä uskottavana, jollei esiinny seikkoja, jotka vähentävät sen luotettavuutta.",
+      "section_number": "2",
+      "chapter_number": 10,
+      "statute_id": ""
+    },
+    {
+      "id": "442838c7-e09c-4471-8504-da82035b5a3d",
+      "node_type": "Section",
+      "publisher": "finlex",
+      "title": "3 §.",
+      "text": "Joka sairauden tai muun pakottavan syyn vuoksi on estynyt tekemästä testamenttia 1 §:ssä säädetyllä tavalla, saa tehdä sen suullisesti kahden todistajan ollessa yhtaikaa läsnä tai todistajittakin omakätisesti kirjoittamallaan ja allekirjoittamallaan asiakirjalla. Edellä 1 momentissa tarkoitettu testamentti on katsottava rauenneeksi, jos testamentin tekijällä esteen lakattua on kolmen kuukauden ajan ollut tilaisuus määrätä jäämistöstään sillä tavalla kuin 1 §:ssä on säädetty.",
+      "section_number": "3",
+      "chapter_number": 10,
+      "statute_id": ""
+    },
+    {
+      "id": "fd61c1ed-4b40-4e7a-975e-4007fb2f9e04",
+      "node_type": "Section",
+      "publisher": "finlex",
+      "title": "4 §.",
+      "text": "Testamentin todistajaksi älköön otettako henkilöä, joka on viittätoista vuotta nuorempi tai joka sieluntoiminnan häiriön vuoksi on kykenemätön todistamaan, älköönkä testamentin tekijän puolisoa tai sitä, joka on testamentin tekijään suoraan takenevassa tahi etenevässä sukulaisuudessa taikka lankoudessa, eikä myoskään hänen veljeänsä tai sisartansa tahi näiden puolisoa taikka hänen ottovanhempaansa tai ottolastansa. Alköön kukaan todistajana todistako määräystä, joka tehdään hänen hänen puolisonsa tai jonkun hyväksi, joka on häneen sellaisessa suhteessa kuin 1 momentissa on sanottu. Sitä, joka on testamentissa määräätty sen toimeenpanijaksi, ei tämä määräys sinänsä estä olemasta todistajana.",
+      "section_number": "4",
+      "chapter_number": 10,
+      "statute_id": ""
+    },
+    {
+      "id": "925f4ddc-e2cb-4dda-a491-92c2b2c76777",
+      "node_type": "Section",
+      "publisher": "finlex",
+      "title": "5 §.",
+      "text": "Jos testamentin tekijä on siinä järjestyksessä, kuin testamentin tekemisestä on säädetty, peruuttanut määräyksensä tai jos hän on hävittänyt testamentin tahi muutoin selvästi ilmaissut, ettei määräys enää vastaa hänen viimeistä tahtoaan, on määräys tehoton. Lupaus olla peruuttamatta testamenttia ei ole sitova.",
+      "section_number": "5",
+      "chapter_number": 10,
+      "statute_id": ""
+    },
+    {
+      "id": "413410b5-349c-4308-b3f7-4e4b30447a43",
+      "node_type": "Section",
+      "publisher": "finlex",
+      "title": "6 §.",
+      "text": "Milloin testamenttiin sisältyvää määräystä peruutettaessa tai muutoin siihen tehdään lisäys, on noudatettava, mitä tettamentin tekemisestä on säädetty.",
+      "section_number": "6",
+      "chapter_number": 10,
+      "statute_id": ""
+    },
+    {
+      "id": "e27fc44a-cb3b-4d8e-b95f-670f2ea5890a",
+      "node_type": "Section",
+      "publisher": "finlex",
+      "title": "7 §.",
+      "text": "Joka yksipuolisesti peruuttamalla tai muuttamalla keskinäistä testamenttia ilmeisesti toimii molemminpuolisen määräyksen olennaisten edellytysten vastaisesti, menettäköön testamenttiin perustuvan oikeutensa.",
+      "section_number": "7",
+      "chapter_number": 10,
+      "statute_id": ""
+    },
+    {
+      "id": "afc76fdb-e7d1-40e5-9305-1343ebf58137",
+      "node_type": "Section",
+      "publisher": "finlex",
+      "title": "1 §.",
+      "text": "Testamentti on niin tulkittava, että tulkinnan voidaan otaksua vastaavan testamentin tekijän tahtoa. Sen vuoksi on tämän luvun säännöksiä noudatettava vain, mikäli ei testamentin määräyksestä, sen tarkoitukseen ja muihin olosuhteisiin nähden, ole katsottava muuta johtuvan. Jos testamentti on kirjoitusvirheen tai erheellisen sanonnan vuoksi saanut toisenlaisen sisällön kuin mitä testamentin tekijä on tarkoittanut, pantakoon testamentti kuitenkin täytäntöön, mikäli oikea tarkoitus saadaan selville.",
+      "section_number": "1",
+      "chapter_number": 11,
+      "statute_id": ""
+    },
+    {
+      "id": "be93be66-5b03-470c-b931-29f188a2e099",
+      "node_type": "Section",
+      "publisher": "finlex",
+      "title": "2 §.",
+      "text": "Erityisjälkisäädös on täytettävä jakamattomasta pesästä.",
+      "section_number": "2",
+      "chapter_number": 11,
+      "statute_id": ""
+    },
+    {
+      "id": "a4251f20-af53-4486-b354-571a66c57037",
+      "node_type": "Section",
+      "publisher": "finlex",
+      "title": "3 §.",
+      "text": "Jollei kaikkia erityisjälkisäädöksiä voida täyttää, on tiettyä omaisuutta koskeva jälkisäädös pantava täytäntöön ennen muita, mutta muutoin on tehtävä kunkin jälkisäädöksen osalta sen arvon mukainen vähennys.",
+      "section_number": "3",
+      "chapter_number": 11,
+      "statute_id": ""
+    },
+    {
+      "id": "8add1ae1-bf54-4b07-9fd3-e9c9f5428198",
+      "node_type": "Section",
+      "publisher": "finlex",
+      "title": "4 §.",
+      "text": "Jos jälkisäädös tarkoittaa tiettyä omaisuutta eikä sitä ole jäämistössä, jälkisäädös on siltä osin tehoton.",
+      "section_number": "4",
+      "chapter_number": 11,
+      "statute_id": ""
+    },
+    {
+      "id": "0e256c17-ccc1-449b-9163-85c0fcc25606",
+      "node_type": "Section",
+      "publisher": "finlex",
+      "title": "5 §.",
+      "text": "Milloin jälkisäädöksessä määrättyä omaisuutta kiinnityksen perusteella tai muutoin rasittaa pantti- tai muu oikeus, ei testamentin saajalla ole oikeutta tämän vuoksi saada muuta omaisuutta.",
+      "section_number": "5",
+      "chapter_number": 11,
+      "statute_id": ""
+    },
+    {
+      "id": "ebe2b901-f1f4-46c3-b65a-32bdbde05df5",
+      "node_type": "Section",
+      "publisher": "finlex",
+      "title": "6 §.",
+      "text": "Jos testamentin saaja kuolee ennen kuin hänen testamenttiin perustuva oikeutensä on tullut voimaan tai jos testamenttia ei muutoin voida hänen kohdaltaan panna täytäntöön, tulevat hänen jälkeläisensä hänen sijaansa, mikäli heillä olisi ollut oikeus periä testamentin tekijä.",
+      "section_number": "6",
+      "chapter_number": 11,
+      "statute_id": ""
+    },
+    {
+      "id": "c502e77c-5fa1-43a5-ab7e-2e2ee5731fdd",
+      "node_type": "Section",
+      "publisher": "finlex",
+      "title": "7 §.",
+      "text": "Milloin joku on testamentilla määrännyt koko jäämistöstään tai kaikesta, mikä ei ole perillisen lakiosaa, eikä testamenttia voida panna täytäntöön jonkun testamentin saajan kohdalta, on, mikäli 6 §:stä ei muuta johdu, yleisjälkisäädöksen saajain osuuksia vastaavasti lisättävä.",
+      "section_number": "7",
+      "chapter_number": 11,
+      "statute_id": ""
+    },
+    {
+      "id": "094e184c-0410-42f3-a293-ce64e87ccbba",
+      "node_type": "Section",
+      "publisher": "finlex",
+      "title": "8 §.",
+      "text": "Jos joku on tehnyt testamentin kihlatulleen tai puolisolleen ja kihlaus tai avioliitto sen jälkeen purkautuu muusta syystä kuin testamentintekijän kuoleman johdosta, on määräys tehoton. Sama on laki puolisolle tehdystä testamentista 3 luvun 7 §:ssä tarkoitetuissa tapauksissa.",
+      "section_number": "8",
+      "chapter_number": 11,
+      "statute_id": ""
+    },
+    {
+      "id": "16b86993-56ef-44a5-b00b-ef2f4b892537",
+      "node_type": "Section",
+      "publisher": "finlex",
+      "title": "9 §.",
+      "text": "Jos omaisuudesta, joka on tuleva tietylle perilliselle tai testamentin saajalle, on annettu tarkoitemääräys, tulee saajan panna määräys täytäntöön. Muussa tapauksessa täytetään tarkoitemääräys jakamattomasta pesästä.",
+      "section_number": "9",
+      "chapter_number": 11,
+      "statute_id": ""
+    },
+    {
+      "id": "201000a5-4d37-481f-8fcc-076b4b8eef81",
+      "node_type": "Section",
+      "publisher": "finlex",
+      "title": "1 §.",
+      "text": "Jos testamentissa on määrätty, että eloonjääneelle puolisolle perillisenä tai yleisjälkisäädöksen saajana tuleva omaisuus on puolison oikeuden lakattua meneväm uulle henkilölle, on vastaavasti sovellettava, mitä 3 luvussa on säädetty, jollei testamentista muuta johdu.",
+      "section_number": "1",
+      "chapter_number": 12,
+      "statute_id": ""
+    },
+    {
+      "id": "9ac629b6-9d63-4d3b-9e1f-275494f314af",
+      "node_type": "Section",
+      "publisher": "finlex",
+      "title": "2 §.",
+      "text": "Jos testamentissa on jollekin määrätty käyttöoikeus testamentin tekijän jäämistöön tai siihen kuuluvaan omaisuuteen muun henkilön saadessa siihen omistusoikeuden testamentin tekijän kuollessa tai myöhemmin, on noudatettava, mikäli testamentista ei muuta johdu, mitä jäljempänä tässä luvussa säädetään.",
+      "section_number": "2",
+      "chapter_number": 12,
+      "statute_id": ""
+    },
+    {
+      "id": "f7a2352f-e6f8-4dfd-a847-e35f24bdc796",
+      "node_type": "Section",
+      "publisher": "finlex",
+      "title": "3 §.",
+      "text": "Sillä, joka on testamentilla saanut käyttöoikeuden omaisuuteen, on oikeus hallita sitä ja saada sen tuotto. Omaisuutta hallitessaan hänen on otettava varteen myös omistajan oikeus ja etu. Muuhun omaisuuteen älköön sitä sekoitettako, ellei sen tarkoituksenmukainen käyttö anna siihen aihetta. Käyttöoikeuden haltijan on vastattava omaisuudesta johtuvista tarpeellisista kustannuksista, jotka ovat sen laatuisia, että ne on suoritettava hänen hallinta-aikanaan saatavalla tuotolla.",
+      "section_number": "3",
+      "chapter_number": 12,
+      "statute_id": ""
+    },
+    {
+      "id": "7d8b04ff-70a1-4a7a-aab9-b26983816ff9",
+      "node_type": "Section",
+      "publisher": "finlex",
+      "title": "4 §.",
+      "text": "Tettamenttiin perustuvaa käyttöoikeutta ei saa toiselle luovuttaa. Käytjöoikeuden alaista omaisuutta sen haltija saa luovuttaa tai pantata vain omistajan luvalla. Sellaisetta luvattakin on haltijalla oikeus luovuttaa irtainta tavaraa, milloin luovutus johtuu käyttöoikeuden alaisen omaisuuden tarpeellisesta uudistamisesta tahi kun omaisuus kuuluu teolliseen, kaupalliseen tai muunlaiseen yritykseen ja luovutus sisältyy yrityksen säännölliseen tavaranvaihtoon taikka kun luovutus muutoin on järkiperäisen taloudenhoidon vaatimusten mukainen. Muissa tapauksissa voi oikeus hakemuksesta erityisten syiden nojalla antaa luvan irtaimen omaisuuden luovuttamiseen tai panttaamiseen, ei kuitenkaan milloin esineellä on omistajalle erityistä arvoa. Käyttöoikeuden haitijaila on oikeus sanoa irti saaminen ja periä omistajan puolesta maksu.",
+      "section_number": "4",
+      "chapter_number": 12,
+      "statute_id": ""
+    },
+    {
+      "id": "82edbd1b-1d6b-4b45-a3f3-957608265258",
+      "node_type": "Section",
+      "publisher": "finlex",
+      "title": "5 §.",
+      "text": "Rahavarat on käyttöoikeuden haltijan sijoitettaa omistajan nimiin varmalla tavalla ja tuottavasti, jolleio mistaja tai, milloin hänen suostumustaan ei saada, oikeus ole antanut lupaa toisin menetellä. Tällaisetta luvatta saadaan kuitenkin maanviljelykseen tai muuhun elinkeinoon sijoitettuina olleet varat uudelleen käyttää samaan tarkoitukseen ja pienehköjä irtaimen tavaran myynnistä muutoin saatuja rahaeriä samanlaisen omaisuuden ostamiseen.",
+      "section_number": "5",
+      "chapter_number": 12,
+      "statute_id": ""
+    },
+    {
+      "id": "09b26583-8590-4778-b9f0-be8c341ff027",
+      "node_type": "Section",
+      "publisher": "finlex",
+      "title": "6 §.",
+      "text": "Omistaja ei saa käyttöoikeuden haltijan suostumuksetta luovuttaa tai pantata oikeuden kohteena olevaa omaisuutta eikä siitä muullakaan tavoin määrätä. Kiinteän omaisuuden sekä sellaisen toisen maalla olevan laitoksen osalta, joka voidaan hallintaoikeuksineen maahan maanomistajaa kuulematta luovuttaa kolmannelle henkilölle, on suostumus annettava kahden esteettömän henkilön oikeaksi todistamassa asiakirjassa. Jollei suostumusta saada, on oikeudella valta hakemnksesta sallia aiottu toimi, milloin siihen on syytä. Jos omistaja on suostumuksetta tai luvatta määrännyt omaisuudesta, on toimenpide pätemätön käyttöoikeuden haltijaa kohtaan.",
+      "section_number": "6",
+      "chapter_number": 12,
+      "statute_id": ""
+    },
+    {
+      "id": "c8e62f55-b3cf-430c-bed0-28f8541851c0",
+      "node_type": "Section",
+      "publisher": "finlex",
+      "title": "7 §.",
+      "text": "Käyttöoikeuden kohteena olevaa omaisuutta älköön ulosmitattako omistajan velasta, paitsi milloin se kiinnityksen perusteella tai muutoin on velan vakuutena tahi kysymys on velasta, niistä omistaja vastaa sen mukaan kuin 21 luvussa säädetään.",
+      "section_number": "7",
+      "chapter_number": 12,
+      "statute_id": ""
+    },
+    {
+      "id": "9d51b39c-2dc0-4ac1-91e1-818a9147a8ee",
+      "node_type": "Section",
+      "publisher": "finlex",
+      "title": "8 §.",
+      "text": "Mitä tässä luvussa on säädetty käyttöoikeuden alaisesta omalsuudesta, on voimassa myös sen sijaan tulleesta omaisuudesta.",
+      "section_number": "8",
+      "chapter_number": 12,
+      "statute_id": ""
+    },
+    {
+      "id": "8e6bb81c-b530-42b0-9314-19e5dcd2dd6f",
+      "node_type": "Section",
+      "publisher": "finlex",
+      "title": "9 §.",
+      "text": "Jos käyttöoikeuden haltija hoitamalla huonosti omaisuutta tai muulla epäoikeutetulla menettelyllä ilmeisesti vaarantaa omistajan etua, voi oikeus hakemuksesta velvoittaa hänet asettamaan omaisuudesta vakuuden tai päättää, että se on annettava oikeuden määräämän uskotun miehen hallittavaksi. Vahingosta, jonka käyttöoikeuden haltija on tahallansa tai huolimattomuudesta aiheuttanut omistajalle, on suoritettava korvaus, kun käyttöoikeus lakkaa tai omaisuus annetaan uskotun miehen hallittavaksi. Jos huolimattomuus kuitenkin on ollut lievä, älköön korvausta määrättäkö suoritettavaksi.",
+      "section_number": "9",
+      "chapter_number": 12,
+      "statute_id": ""
+    },
+    {
+      "id": "ef44c32b-9740-4ee4-8ebe-6ef1c7d7612e",
+      "node_type": "Section",
+      "publisher": "finlex",
+      "title": "1 §.",
+      "text": "Testamentti voidaan moitteen johdosta julistaa pätemättömäksi:",
+      "section_number": "1",
+      "chapter_number": 13,
+      "statute_id": ""
+    },
+    {
+      "id": "3ca24d4e-6408-4d15-b595-f66480d530f7",
+      "node_type": "Section",
+      "publisher": "finlex",
+      "title": "2 §.",
+      "text": "Jos jonkin testamenttiin sisältyvän määräyksen osalta ei ole noudatettu 10 luvun 4 §:n 2 momentin säännöstä, on testamentti siltä osin pätemätön.",
+      "section_number": "2",
+      "chapter_number": 13,
+      "statute_id": ""
+    },
+    {
+      "id": "a4a3bc26-a28f-42ad-bf99-a7172d2fce68",
+      "node_type": "Section",
+      "publisher": "finlex",
+      "title": "1 §.",
+      "text": "Testamentti on valvottava kuuden kuukauden kuluessa siitä, kun testamentin saaja on saanut tiedon testamentin tekijän kuolemasta ja hänen hyväkseen tehdystä testamentista. Jos joku on testamentin nojalla saava oikeuden vasta toisen henkilön oikeuden lakattua, voi valvonta tapahtua 1 momentissa säädetyssä ajassa siitä, kun hän sai tietää edeltäjänsä oikeuden lakkaamisesta. Valvonta luetaan jokaisen testamentin saajan jonka valvonta-aika ei ole päättynyt.",
+      "section_number": "1",
+      "chapter_number": 14,
+      "statute_id": ""
+    },
+    {
+      "id": "055f40f8-3742-4570-ba07-638e258a993e",
+      "node_type": "Section",
+      "publisher": "finlex",
+      "title": "2 §.",
+      "text": "Testamentin valvonta toimitetaan siinä oikeudessa, jonka asiana on käsitellä testamenttia koskeva riita. Valvottaessa esitetään testamentti alkuperäisenä ja se otetaan oikeuden pöytäkirjaan. Jos testamentti ei ole sen hallussa, joka tahtoo valvoa, tai testamentti on tehty suullisesti, toimitetaan valvonta ilmoittamalla kirjallisesti testamentin sisältö. Testamentti voidaan valvoa myös ilmoittamalla se kihlakunnantuomarille tuomiokunnan kansliassa taikka pormestarille tai sille raastuvanoikeuden jäsenelle, joka on määrätty hänen sijastaan tällaisia asioita käsittelemään; ja on testamentti otettava oikeuden pöytäkirjaan.",
+      "section_number": "2",
+      "chapter_number": 14,
+      "statute_id": ""
+    },
+    {
+      "id": "f808c9a7-0eb0-4e5d-bddd-df220114afd1",
+      "node_type": "Section",
+      "publisher": "finlex",
+      "title": "3 §.",
+      "text": "Testamentin saaja, jonka osalta valvontaa ei ole toimitettu sillä tavoin kuin 1 ja 2 §:ssä on sanottu, on menettänyt oikeutensa perillistä vastaan, joka ei ole luopunut testamenttia moittimasta.",
+      "section_number": "3",
+      "chapter_number": 14,
+      "statute_id": ""
+    },
+    {
+      "id": "13963378-9258-45dc-936e-9d65cd3379fa",
+      "node_type": "Section",
+      "publisher": "finlex",
+      "title": "4 §.",
+      "text": "Testamentti on saatettava perillisen tietoon antamalla hänelle oikeaksi todistettu jäljennös testamentin valvontapöytäkirjasta. Jos on useita testamentin saajia, on tiedoksianto, jonka joku heistä on toimittanut, pätevä myös muiden osalta.",
+      "section_number": "4",
+      "chapter_number": 14,
+      "statute_id": ""
+    },
+    {
+      "id": "97eac660-4f50-4483-bc39-6f91f1a9a205",
+      "node_type": "Section",
+      "publisher": "finlex",
+      "title": "5 §.",
+      "text": "Jos perillinen tahtoo moittia testamenttia 13 luvussa mainituilla perusteilla, nostakoon kanteen kuuden kuukauden kuluessa saatuaan testamentista 4 §:n mukaisesti tiedon.",
+      "section_number": "5",
+      "chapter_number": 14,
+      "statute_id": ""
+    },
+    {
+      "id": "f8b45e3d-6ed8-4fa7-93a7-6ecdf7171ec1",
+      "node_type": "Section",
+      "publisher": "finlex",
+      "title": "1 §.",
+      "text": "Älköön kukaan saako perintöä tai testamenttia sen jälkeen, jonka kuoleman hän on tahallisesti aiheuttanut rikollisella teolla. Jos 1 momentissa tarkoitettu rikos on kohdistunut perittävän perilliseen tai testamentin saajaan, ei rikoksentekijällä ole parempaa oikeutta kuin hänellä olisi ollut surmatun eläessä.",
+      "section_number": "1",
+      "chapter_number": 15,
+      "statute_id": ""
+    },
+    {
+      "id": "eaaff36b-d1bc-474a-af70-1996dd240fb1",
+      "node_type": "Section",
+      "publisher": "finlex",
+      "title": "2 §.",
+      "text": "Jos joku on tahallansa hävittänyt tai salannut perittävän testamentin, voi oikeus julistaa hänet kokonaan tai osaksi menettäneeksi oikeutensa perinnön tai testamentin saamiseen tämän jälkeen.",
+      "section_number": "2",
+      "chapter_number": 15,
+      "statute_id": ""
+    },
+    {
+      "id": "9f4d7767-48e3-4d18-8821-63c0fb6c2625",
+      "node_type": "Section",
+      "publisher": "finlex",
+      "title": "3 §.",
+      "text": "Mitä 1 ja 2 §:ssä on sanottu, sovelletaan myös siihen, joka on ollut osallinen niissä tarkoitettuun tekoon.",
+      "section_number": "3",
+      "chapter_number": 15,
+      "statute_id": ""
+    },
+    {
+      "id": "35b001cd-aeaa-44c8-ae3b-a44cdf886a06",
+      "node_type": "Section",
+      "publisher": "finlex",
+      "title": "4 §.",
+      "text": "Sen estämättä, mitä perillisen oikeudesta lakiosaan on säädetty, perittävä voi tehdä perillisen perinnöttömäksi, jos tämä on tahallisella rikoksella syvästi loukannut perittävää, hänen perimispolvessa olevaa sukulaistaan, ottolastaan tai tämän jälkeläistä. Sama on laki, jos perillinen jatkuvasti viettää kunniatonta tai epäsiveellistä elämää. Perinnöttömäksi tokemisestä on määrättävä testamentissa ja samalla mainittava määräyksen peruste. Peruste on sen toteennäytettävä, joka vetoaa tähän määräykseen.",
+      "section_number": "4",
+      "chapter_number": 15,
+      "statute_id": ""
+    },
+    {
+      "id": "54b804d8-3b73-4c4c-b152-df78c7a8d0f6",
+      "node_type": "Section",
+      "publisher": "finlex",
+      "title": "5 §.",
+      "text": "Perinnön, jonka perillinen on 1–4 §:ssä säädetyin tavoin menettänyt, saa se, jolla olisi ollut perintöön oikeus siinä tapauksessa, että perillinen olisi kuollut ennen perittävää.",
+      "section_number": "5",
+      "chapter_number": 15,
+      "statute_id": ""
+    },
+    {
+      "id": "9ad007b4-dbf5-4c58-b61d-d5c4c586b93a",
+      "node_type": "Section",
+      "publisher": "finlex",
+      "title": "1 §.",
+      "text": "Joka on saanut perinnön tai testamentin, saattakoon oikeutensa voimaan tässä luvussa säädetyllä tavalla viimeistään kymmenen vuoden kuluessa perittävän kuolemasta, tai, jos testamenttiin perustuva oikeus alkaa myöhemmin, tästä ajankohdasta lukien. Oikeus voi kuitenkin sen hakemuksesta, jolla on perillisen tai testamentin saajan ohella tai lähinnä hänen jälkeensä oikeus jäämistöön, määrätä, että tämän on saatettava oikeutensa voimaan tietyn, enintään vuoden pituisen määräajan kuluessa siitä, kun hänelle on annettu tieto määräyksestä.",
+      "section_number": "1",
+      "chapter_number": 16,
+      "statute_id": ""
+    },
+    {
+      "id": "34067c4c-e616-4b28-a654-35a7788b48fd",
+      "node_type": "Section",
+      "publisher": "finlex",
+      "title": "2 §.",
+      "text": "Perillinen, joka tahtoo saattaa perintöoikeutensa voimaan, ottakoon perinnön vastaan tai ilmoittakoon vaatimuksensa sille tahi niille, jotka ovat ottaneet perinnön vastaan, taikka, jollei perintöä ole jaettu, sille, joka hoitaa pesää. Tällainen vaatimus voidaan esittää myös oikeudelle tai kihlakunnanoikeuden tuomiopiirissä tuomarille. Milloin perilliselle on määrätty uskottu mies valvomaan hänen oikeuttaan perintöön, on perillisellä lupa tehdä ilmoitus myös uskotulle miehelle, jonka tulee viivytyksettä antaa siitä tieto oikeudelle tai tuomarille. Perillisen on katsottava vastaanottaneen perinnön, jos hän on yksin tai muiden kanssa ottanut pesän hoitoonsa, osallistunut perunkirjoitukseen tai perinnönjakoon taikka perillisenä muutoin ryhtynyt jäämistöä koskeviin toimiin. Mitä 1 ja 2 momentissa on säädetty perillisestä, on soveltuvin osin voimassa myös testamentin saajasta.",
+      "section_number": "2",
+      "chapter_number": 16,
+      "statute_id": ""
+    },
+    {
+      "id": "0bebe32e-712a-4a93-9a08-ffaaa7c8f00e",
+      "node_type": "Section",
+      "publisher": "finlex",
+      "title": "3 §.",
+      "text": "Milloin perillinen tämän luvun säännösten mukaan on menettänyt oikeutensa perintöön, menee perintö sille, joka olisi sen saanut siinä tapauksessa, että perillinen olisi kuollut ennen perittävaa.",
+      "section_number": "3",
+      "chapter_number": 16,
+      "statute_id": ""
+    },
+    {
+      "id": "99e14032-87de-438f-90cb-3e567069df10",
+      "node_type": "Section",
+      "publisher": "finlex",
+      "title": "4 §.",
+      "text": "Oikeuden tai tuomarin, jolle on tehty 2 §:ssä tarkoitettu ilmoitus, on lähetettävä siitä tieto niille pesän osakkaille, joiden nimi ja osoite on mainittu perukirjassa tai jotka muutoin ovat tunnettuja.",
+      "section_number": "4",
+      "chapter_number": 16,
+      "statute_id": ""
+    },
+    {
+      "id": "007d4823-b6b2-41c0-8487-aba64ff8b87c",
+      "node_type": "Section",
+      "publisher": "finlex",
+      "title": "1 §.",
+      "text": "Sopimus elossa olevan henkilön jäämistöstä on pätemätön. Jos perillinen hyväksymällä testamentin tai muulla tavoin kirjallisesti ilmoittaa perittävälle luopuvansa perinnöstä, on luopuminen pätevä. Perillinen saa kuitenkin lakiosansa, ellei hän ole saanut siitä kohtuullista vastiketta taikka jollei hänen puolisolleen testamentin tahi jälkeläisilleen lain tai testamentin nojalla tule lakiosaa vastaavaa omaisuutta.",
+      "section_number": "1",
+      "chapter_number": 17,
+      "statute_id": ""
+    },
+    {
+      "id": "38bb5848-3197-49e8-8edd-056fc6a10fd6",
+      "node_type": "Section",
+      "publisher": "finlex",
+      "title": "2 §.",
+      "text": "Lahjanlupaukseen, jota ei ole täytettävä antajan eläessä, on sovellettava, mitä testamentista on säädetty.",
+      "section_number": "2",
+      "chapter_number": 17,
+      "statute_id": ""
+    },
+    {
+      "id": "69c43f2a-f213-4e8f-a546-996d8e10d2c8",
+      "node_type": "Section",
+      "publisher": "finlex",
+      "title": "3 §.",
+      "text": "Perillinen ja yleisjälkisäädöksen saaja voivat perittävän kuoltua luovuttaa toiselle pesäosuutensa. Luovutus on tehtävä kirjallisesti.",
+      "section_number": "3",
+      "chapter_number": 17,
+      "statute_id": ""
+    },
+    {
+      "id": "751a3841-cf2e-4082-93b3-97127d1e4438",
+      "node_type": "Section",
+      "publisher": "finlex",
+      "title": "1 §.",
+      "text": "Kuolinpesän osakkaita ovat perilliset ja yleisjälkisäädöksen saajat sekä eloonjäänyt puoliso. Milloin ositus on toimitettu tai puolisolla ei ole avio-oikeutta toisen puolison omaisuuteen, ei eloonjäänyt puoliso ole osakas, ellei hän ole perillinen tai yleisjälkisäädöksen saaja. Se, jolla on oikeus saada perintö tai testamentti vasta toisen perillisen tai yleisjälkisäädöksen saajan kuoltua, on tämän vaan ei perittävän kuolinpesän osakas. Perillisen ja yleisjälkisäädöksen saajan katsotaan olevan osakkaita silloinkin, kun heidän oikeutensa on riidanalainen.",
+      "section_number": "1",
+      "chapter_number": 18,
+      "statute_id": ""
+    },
+    {
+      "id": "b092c23f-78d2-406d-9ce1-7dc424f5baff",
+      "node_type": "Section",
+      "publisher": "finlex",
+      "title": "2 §.",
+      "text": "Osakasten tulee, milloin ei, sen mukaan kuin tässä laissa säädetään, ole järjestetty erityistä kuolinpesän hallintoa, pesän selvittämistä varten yhteisesti hallita pesän omaisuutta. He edustavat tällöin kuolinpesää kolmatta henkilöä vastaan sekä kantavat ja vastaavat pesää koskevissa asioissa. Toimenpide, joka ei siedä viiystä, voidaan suorittaa, vaikkei kaikkien osien suostumusta saada hankituksi. Osakkaalla on oikeus ajaa kannetta pesän hyväksi; haastattakoon kuitenkin muut osakkaat asiassa kuultaviksi. Hänellä on oikeus saada pesästä korvaus kuluistaan, mikäli oikeudenkäynnillä pesään saadut varat tähän riittävät tai se muutoin harkitaan kohtuulliseksi.",
+      "section_number": "2",
+      "chapter_number": 18,
+      "statute_id": ""
+    },
+    {
+      "id": "aae4b8be-8b3d-4d1d-b60f-b8245b821e6a",
+      "node_type": "Section",
+      "publisher": "finlex",
+      "title": "3 §.",
+      "text": "Kunnes kaikki osakkaat tai se, jonka muutoin on hallittava pesää, ovat ottaneet pesän omaisuuden haltuunsa, on osakkaan, joka asui perittävän kuollessa tämän kanssa tai joka muutoin voi pitää huolta omaisuudesta, hoidettava sitä, jollei se ole holhoojan, toimitsijan tai muun hoidettavana. Osakkaan on viivytyksettä annettava kuolemantapauksesta tieto muille osakkaille ja, milloin jollekin näistä on tarpeen uskottu mies, tehtävä siitä ilmoitus oikeudelle tai tuomarille, niin kuin holhouslaissa säädetään. Mitä tässä on sanottu osakkaasta, sovelletaan myös eloonjääneeseen puolisoon, vaikka tämä ei olisikaan pesän osakas. Jos perillinen tai se, jonka hyväksi on tehty testamentti, on vajaavaltainen, eikä hänellä ole holhoojaa, tulee sen, jonka hallussa pesä on, ilmoittaa asiasta holhouslautakunnalle.",
+      "section_number": "3",
+      "chapter_number": 18,
+      "statute_id": ""
+    },
+    {
+      "id": "bef9f997-f169-48bb-8ee2-3ba87920bcfd",
+      "node_type": "Section",
+      "publisher": "finlex",
+      "title": "4 §.",
+      "text": "Jollei kukaan 3 §:n 1 momentissa tarkoitettu henkilö ryhdy vainajan omaisuutta hoitamaan, tulee sen, jolle se olosuhteisiin katsoen lähinnä kuuluu, ottaa omaisuus haltuunsa ja kutsua paikalle osakas tai ilmoittaa kuoleman tapauksesta oikeudelle. Poliisiviranomainen on myös velvollinen suorittamaan mitä tässä on sanottu, milloin sen apuun turvaudutaan tai tämä muutoin on tarpeellista. Ilmoituksen saatuaan tulee oikeuden, mikäli tämä on tarpeen, määrätä toimitsija huolehtimaan siitä, mikä 3 §:n mukaan on osakkaan velvollisuutena. Määräystä on muutoksenhausta huolimatta noudatettava. Kihlakunnantuomari voi, milloin ei ole oikeuden istuntopäivä, antaa 2 momentissa tarkoitetun määräyksen, kunnes oikeus asiasta päättää. Tuomarin antamaan määräykseen ei saa hakea muutosta.",
+      "section_number": "4",
+      "chapter_number": 18,
+      "statute_id": ""
+    },
+    {
+      "id": "a3a9adcc-f2f3-47b5-9a59-b6ae60680830",
+      "node_type": "Section",
+      "publisher": "finlex",
+      "title": "5 §.",
+      "text": "Hautaus- ja perunkirjoituskustannukset sekä pesän hoidosta, hallinnosta ja selvityksestä johtuvat kustannukset suoritetaan pesän varoista.",
+      "section_number": "5",
+      "chapter_number": 18,
+      "statute_id": ""
+    },
+    {
+      "id": "3344c669-419d-4edf-b31c-3f2fb6f3b0b9",
+      "node_type": "Section",
+      "publisher": "finlex",
+      "title": "6 §.",
+      "text": "Osakkaalla, jonka toimeentulo oli perittävästä riippuvainen, on oikeus pesästä ennakolta saada, mitä hänen toimeentuloaan varten tarvitaan, sikäli kuin hänen osuutensa ilmeisesti siihen riittää ja ennakko voidaan suorittaa pesänselvitystä haittaamatta. Eloonjääneellä puolisolla sekä turvattomilla lapsilla ja ottolapsilla on oikeus saada tarvitsemansa elatus pesästä niin kauan kuin se on selvitettävänä.",
+      "section_number": "6",
+      "chapter_number": 18,
+      "statute_id": ""
+    },
+    {
+      "id": "949b64e6-cf97-4e6c-bd8b-8b5a399a4840",
+      "node_type": "Section",
+      "publisher": "finlex",
+      "title": "7 §.",
+      "text": "Osakkaan on korvattava vahinko, minkä hän pesää hoitaessaan tai hallitessaan on tahallansa tai huolimattomuudesta aiheuttanut jollekin, jonka oikeus on pesänselvityksestä riippuvainen. Jos huolimattomuus on lievä, voidaan korvausta alentaa tai hänet kokonaan vapauttaa korvausvelvollisuudesta, milloin se vahingon suuruuteen ja muihin seikkoihin nähden harkitaan kohtuulliseksi. Milloin korvausvelvollisia on useita, vastaavat he yhteisvastuullisesti, kuitenkin siten, että se, jonka osalta vahingonkorvausta on 1 momentin mukaisesti alennettu, vastaa vain siten alennetulla määrällä. Korvausvelvollisten kesken on korvausmäärä jaettava sen mukaan kuin harkitaan kohtuulliseksi ottaen huomioon kunkin korvausvelvollisen viaksi jäävän syyllisyyden määrä ja muut asianhaarat.",
+      "section_number": "7",
+      "chapter_number": 18,
+      "statute_id": ""
+    },
+    {
+      "id": "54c3ed92-90a4-47ad-8cc4-53510592d9dc",
+      "node_type": "Section",
+      "publisher": "finlex",
+      "title": "1 §.",
+      "text": "Pesän osakkaan hakemuksesta oikeuden on päätettävä, että pesän omaisuus on luovutettava pesänselvittäjän hallintoon, ja määrättävä joku pesänselvittäjänä pitämään huolta pesän hallinnosta. Jos joku on testamentissa määrätty perillisten tai yleisjälkisäädöksen saajain sijasta testamentin toimeenpanijana pesää hallitsemaan, on määräys annettava myös hänen hakemuksestaan. Sellaista määräystä voi niin ikään hakea erityisjälkisäädöksen saaja tai se, jolla on oikeus ajaa kannetta tarkoitemääräyksen toteuttamisesta, milloin tämän harkitaan olevan tarpeen säädöksen tai määräyksen täytäntöön saattamiseksi. Sama oikeus on sillä, jolle perillinen tai yleisjälkisäädöksen saaja on luovuttanut osuutensa pesään. Jos testamentissa on sen toimeenpanijaa määräämättä pesän omaisuus erotettu pesän osakkaiden hallinnosta tai toimeenpanijaksi määrätty ei tehtävään ryhdy, antakoon oikeus 1 momentissa tarkoitetun määräyksen sen hakemuksesta, jonka oikeus on pesän selvityksestä riippuvainen, tai saatuaan muutoin asiasta tiedon. Tämän pykälän mukainen päätös voi perustua myös testamenttiin, joka ei ole saanut lainvoimaa.",
+      "section_number": "1",
+      "chapter_number": 19,
+      "statute_id": ""
+    },
+    {
+      "id": "782fcd8c-73e6-45ce-8f3e-0caa3561d439",
+      "node_type": "Section",
+      "publisher": "finlex",
+      "title": "2 §.",
+      "text": "Pesän omaisuus voidaan myös 1 §:ssä tarkoitetulla tavalla luovuttaa pesänselvittäjän hallintoon, milloin pesän velkoja tai se, joka on vastuussa vainajalta jääneen velan maksamisesta sitä hakee ja on oletettava, että pesän varat käyvät riittämättömiksi velkojen maksamiseen tai hakijan oikeus muusta syystä joutuu vaaranalaiseksi. Hakemuksen voi tehdä myös pesän osakkaan velkoja, milloin hänen saamisestaan on ulosmitattu osakkaan osuus pesään.",
+      "section_number": "2",
+      "chapter_number": 19,
+      "statute_id": ""
+    },
+    {
+      "id": "f88148ed-a9e3-4d0c-b3d0-ac29ff5bddf5",
+      "node_type": "Section",
+      "publisher": "finlex",
+      "title": "3 §.",
+      "text": "Kun hakemus pesänselvittäjän määräämisestä tehdään, on samalla ilmoitettava pesän osakkaat ja testamentin toimeenpanija, milloin sellainen on määrätty, sekä näiden kotipaikat. Jos perunkirjoitus on toimitettu, on hakemukseen liitettävä perukirjasta oikeaksi todistettu ote, josta käy selville pesän tila ja varojen laatu.",
+      "section_number": "3",
+      "chapter_number": 19,
+      "statute_id": ""
+    },
+    {
+      "id": "2e790464-d485-41b5-a58a-53ba5fbfccd3",
+      "node_type": "Section",
+      "publisher": "finlex",
+      "title": "4 §.",
+      "text": "Pesänselvittäjäksi oikeuden on määrättävä henkilö, jonka voidaan olettaa suorittavan pesän selvityksen sen laadun edellyttämällä taidolla ja joka siihen suostuu. Erityistä huomiota on kiinnitettävä pesän osakkaiden sekä muidenkin ehdotuksiin, joiden oikeus on pesän selvityksestä riippuvainen. Osakas voidaan määrätä pesänselvittäjäksi. Jos testamentissa on nimetty testamentin toimeenpanija, on hänet määrättävä pesänselvittäjäksi, jollei vastasyitä ole.",
+      "section_number": "4",
+      "chapter_number": 19,
+      "statute_id": ""
+    },
+    {
+      "id": "2876055d-85b6-492d-9ff4-fc7db2cdb3f9",
+      "node_type": "Section",
+      "publisher": "finlex",
+      "title": "5 §. Milloin pesän laatuun tai laajuuteen katsoen taikka muusta erityisestä syystä on tarpeen, voidaan määrätä useita pesänselvittäjiä. Oikeudella on valta jakaa hallinto heidän keskensä, ja sen on samalla määrättävä hallinnon jaon perusteet.",
+      "text": "5 §. Milloin pesän laatuun tai laajuuteen katsoen taikka muusta erityisestä syystä on tarpeen, voidaan määrätä useita pesänselvittäjiä. Oikeudella on valta jakaa hallinto heidän keskensä, ja sen on samalla määrättävä hallinnon jaon perusteet.",
+      "section_number": "5",
+      "chapter_number": 19,
+      "statute_id": ""
+    },
+    {
+      "id": "6edd88b5-ddd7-47a0-ad54-3c83f471f764",
+      "node_type": "Section",
+      "publisher": "finlex",
+      "title": "6 §.",
+      "text": "Jos pesänselvittäjä tahtoo luopua toimestaan ja näyttää pätevän syyn, vapauttakoon oikeus hänet siitä. Jollei pesänselvittäjä ole toimeensa sopiva, on hänet siitä vapautettava, milloin joku, jonka oikeus riippuu pesän selvityksestä, sitä vaatii. Sama on laki, milloin pesän selvitys jostakin erityisestä syystä on uskottava toiselle. Jos oikeuden tietoon tulee seikkoja, joiden perusteella pesänselvittäjää on pidettävä toimeensa sopimattomana, voi oikeus omasta aloitteestaan vapauttaa hänet siitä.",
+      "section_number": "6",
+      "chapter_number": 19,
+      "statute_id": ""
+    },
+    {
+      "id": "fbc7644c-86ae-4d41-b147-4d41c5fe6265",
+      "node_type": "Section",
+      "publisher": "finlex",
+      "title": "7 §.",
+      "text": "Jos kaikki osakkaat pyytävät, ettei pesää enää pidetä pesänselvittäjän hallittavana, tulee oikeuden antaa siitä määräys, mikäli tästä ei aiheudu vahingon vaaraa kenellekään, jonka oikeus riippuu pesän selvityksestä, ja samalla vapauttaa pesänselvittäjä toimestaan. Milloin testamentin toimeenpanija on määrätty pesänselvittäjäksi, on vapauttamiseen saatava hänen suostumuksensa.",
+      "section_number": "7",
+      "chapter_number": 19,
+      "statute_id": ""
+    },
+    {
+      "id": "aa9b1d22-7303-4546-a8f2-80c2a1541a76",
+      "node_type": "Section",
+      "publisher": "finlex",
+      "title": "8 §.",
+      "text": "Kun kuolinpesän omaisuus luovutetaan konkurssiin, raukeaa pesäneelvittäjän määräys.",
+      "section_number": "8",
+      "chapter_number": 19,
+      "statute_id": ""
+    },
+    {
+      "id": "b16ebbae-36f5-4b10-9387-8e37f66c3fe2",
+      "node_type": "Section",
+      "publisher": "finlex",
+      "title": "9 §",
+      "text": "Jos pesänselvittäjä kuolee, tulee sen, jonka hoidettavana hänen omaisuutensa on, viivytyksettä ilmoittaa siitä oikeudelle. Sellaisen ilmoituksen voi tehdä myös se, jonka oikeus riippuu pesänselvityksestä.",
+      "section_number": "9",
+      "chapter_number": 19,
+      "statute_id": ""
+    },
+    {
+      "id": "8c4eef11-99bf-4dcb-ab14-cc5db269fd8c",
+      "node_type": "Section",
+      "publisher": "finlex",
+      "title": "10 §.",
+      "text": "Hakemus, jota 1, 2 tai 6 §:ssä tarkoitetaan, samoin kuin 9 §:ssä mainittu ilmoitus saadaan antaa oikeuteen tai sen kansliaan. Jos se, joka on tehnyt 1 tai 2 §:n mukaisen hakemuksen, ei ole täyttänyt, mitä 3 §:ssä on säädetty, tulee oikeuden tai tuomarin asettaa hänelle sitä varten määräaika ja uhka, että hakemuksen voidaan katsoa rauenneen, jollei puuttuva selvitys ole käytettävissä, kun asia otetaan edelleen käsiteltäväksi. Ennen kuin oikeus antaa päätöksen, joka koskee pesänselvittäjän määräämistä taikka toimestaan vapauttamista, on oikeuden tai tuomarin varattava osakkaille tilaisuus lausua mielipiteensä asiasta, mikäli tämä voi tapahtua ilman huomattavaa ajanhukkaa. Edellä 6 §:n 2 momentissa ja 7 §:ssä tarkoitetuissa tapauksissa on tieto annettava myös sille, joka on määräyksen hakenut. Pesänselvittäjää älköön vapautettako toimestaan ennen kuin hänelle on varattu tilaisuus tulla asiassa kuulluksi.",
+      "section_number": "10",
+      "chapter_number": 19,
+      "statute_id": ""
+    },
+    {
+      "id": "905c6c53-5eb4-4444-8017-8a3177f6ceaf",
+      "node_type": "Section",
+      "publisher": "finlex",
+      "title": "11 §.",
+      "text": "Jollei pesänselvittäjän määräämistä tai toimestaan vapauttamista koskevaa asiaa voida heti lopullisesti ratkaista, olkoon oikeudella ja myös kihlakunnantuomarilla valta antaa päätös siksi, kun sellainen ratkaisu on annettu. Jos päätöksen on antanut tuomari, on hänen ilmoi,tettava se oikeudelle ensiksi pidettävässä yleisessä istunnossa. Kun on kysymys pesänselvittäjän vapauttamisesta toimestaan, on hänelle ennen 1 momentissa mainitun päätöksen tekemistä varattava tilaisuus tulla asiasta kuulluksi vain, jollei siitä aiheudu melkoista ajanhukkaa.",
+      "section_number": "11",
+      "chapter_number": 19,
+      "statute_id": ""
+    },
+    {
+      "id": "e759de2f-bf18-47af-8a5a-c6ed95187583",
+      "node_type": "Section",
+      "publisher": "finlex",
+      "title": "12 §",
+      "text": "Pesänselvittäjän tulee, noudattaen mitä jäljempänä säädetään, ryhtyä kaikkiin pesän selvittämiseksi tarvittaviin toimiin. Jos havaitaan, etteivät pesän varat riitä velkojen maksamiseen, on pesänselvittäjän koetettava velkojien kanssa sopia heidän tyydyttämisestään. Jollei sopimusta saada aikaan eivätkä osakkaat täytä vajausta, luovuttakoon pesänselvittäjä pesän omaisuuden konkurssiin. Pesänselvittäjän on, milloin se voi hankaluudetta tapahtua, tiedusteltava osakkaiden mieltä, kun on kysymys perittävän harjoittaman liikkeen selvittämisestä, 2 momentissa tarkoitetun sopimuksen tekemisestä velkojien kanssa tai sellaisen omaisuuden myymisestä, jolla on osakkaille erityistä arvoa, taikka muista osakkaille tärkeistä asioista.",
+      "section_number": "12",
+      "chapter_number": 19,
+      "statute_id": ""
+    },
+    {
+      "id": "cb7b10cb-9eb3-47e4-8b08-8ac8c23d4867",
+      "node_type": "Section",
+      "publisher": "finlex",
+      "title": "13 §",
+      "text": "Pesänselvittäjä edustaa kuolinpesää kolmatta henkilöä vastaan sekä kantaa ja vastaa pesää koskevissa asioissa.",
+      "section_number": "13",
+      "chapter_number": 19,
+      "statute_id": ""
+    },
+    {
+      "id": "a07223b6-ecbe-459c-a1c3-ade0ff36dcc3",
+      "node_type": "Section",
+      "publisher": "finlex",
+      "title": "14 § Kiinteää omaisuutta tai toisen maalla olevaa laitosta, joka hallintaoikeuksineen maahan voidaan maanomistajaa kuulematta luovuttaa kolmannelle henkilölle, ei pesänselvittäjä saa luovuttaa eikä velasta kiinnityttää, elleivät osakkaat ole kahden esteettömän henkilön oikeaksi todistamassa asiakirjassa antaneet siihen suostumustaan tai, milloin tätä ei voida saada, oikeus ole hakemuksesta sallinut toimenpidettä.",
+      "text": "Milloin pesänselvittäjä on osakasten suostumuksetta tai oikeuden luvatta ryhtynyt 1 momentissa tarkoitettuun toimeen, on se pätemätön, jos osakas sitä moittii. Kanne on pantava vireille kuuden kuukauden kuluessa siitä, kun hän sai toimenpiteestä tiedon, ja viimeistään vuoden kuluessa lainhuudon tai kiinnityksen myöntämisestä.",
+      "section_number": "14",
+      "chapter_number": 19,
+      "statute_id": ""
+    },
+    {
+      "id": "830e9182-9032-4be3-993a-3fc4308efcfd",
+      "node_type": "Section",
+      "publisher": "finlex",
+      "title": "15 §.",
+      "text": "Pesän rahavarat, jotka pannaan rahalaitokseen korkoa kasvamaan, on talletettava pesän nimelle. Pesän varoja älköön muutoinkaan sekoitettako pesänselvittäjälle tai muulle henkilölle kuuluvaan omaisuuteen.",
+      "section_number": "15",
+      "chapter_number": 19,
+      "statute_id": ""
+    },
+    {
+      "id": "f0198742-8b64-46c1-ac94-dbb339e579d2",
+      "node_type": "Section",
+      "publisher": "finlex",
+      "title": "16 §.",
+      "text": "Niin pian kuin omaisuuden osituksen tai perinnönjaon edellyttämä pesän selvittäminen on suoritettu ja ositus tai jako voidaan toimittaa tuottamatta haittaa kenellekään, jonka oikeus on pesän selvityksestä riippuvainen, ilmoittakoon pesänselvittäjä tästä osakkaille ja tehköön hallinnostaan tilin. Sitten kun ositus tai perinnönjako on toimitettu ja tullut lainvoimaiseksi, on pesänselvittäjän annettava kullekin osakkaalle hänelle tuleva omaisuus. Jos pesänselvittäjä on luopunut toimestaan suorittamatta telitäviään loppuun, on hän silloinkin tilivelvollinen",
+      "section_number": "16",
+      "chapter_number": 19,
+      "statute_id": ""
+    },
+    {
+      "id": "70c6c6d4-6111-469a-9977-246f5982b542",
+      "node_type": "Section",
+      "publisher": "finlex",
+      "title": "17 §.",
+      "text": "Jos pesänselvittäjät, joiden kesken hallinto on jakamatta, eivät pääse yksimielisyyteen heidän päätettävänään olevasta asiasta eikä minkään mielipiteen puolesta ole enemmistöä, on asia saatettava oikeuden ratkaistavaksi.",
+      "section_number": "17",
+      "chapter_number": 19,
+      "statute_id": ""
+    },
+    {
+      "id": "857388b4-a029-4846-93c1-cdbce28598c6",
+      "node_type": "Section",
+      "publisher": "finlex",
+      "title": "18 §",
+      "text": "Oikeus voi pesän osakkaan tai sen hakemuksesta, jonka oikeus riippuu pesän selvityksestä, velvoittaa pesänselvittäjän antamaan hallinnostaan selonteon tai määrätä jonkun suorittamaan pesän hallinnon tarkastuksen ja antamaan siitä kertomuksen. Jos 1 momentissa tarkoitettua päätöstä ei ole annettu pesän osakasten yhteisestä hakemuksesta, voi oikeus määrätä, että siitä johtuvat kustannukset eivät jää pesän rasitukseksi, vaan että ne on hakijan suoritettava tai, jos hakijoita on useita, heidän maksettava pesäosuuksiensa mukaisessa suhteessa.",
+      "section_number": "18",
+      "chapter_number": 19,
+      "statute_id": ""
+    },
+    {
+      "id": "6037758c-28b2-41e9-ba83-552925177208",
+      "node_type": "Section",
+      "publisher": "finlex",
+      "title": "19 § Pesänselvittäjän on toimessaan noudatettava kaikkea huolellisuutta ja hänen on korvattava vahinko, minkä hän tahallansa tai huolimattomuudesta on aiheuttanut pesälle tai jollekin, jonka oikeus on pesänselvityksestä riippuvainen. Kuitenkin voidaan, jos pesänselvittäjän viaksi jää vain lievä huolimattomuus, korvausta alentaa tai hänet kokonaan vapauttaa korvausvelvollisuudesta, milloin se vahingon suuruuteen ja muihin seikkoihin nähden harkitaan kohtuulliseksi.",
+      "text": "Milloin korvausvelvollisia pesänselvittäjiä on useita, on vastaavasti sovellettava, mitä 18 luvun 7 §:n 2 momentissa on sanottu.",
+      "section_number": "19",
+      "chapter_number": 19,
+      "statute_id": ""
+    },
+    {
+      "id": "a456ded4-d189-4021-9f66-a11826290c1c",
+      "node_type": "Section",
+      "publisher": "finlex",
+      "title": "20 §.",
+      "text": "Pesänselvittäjällä on oikeus saada pesän varoista pesän laatuun ja laajuuteen sekä tehtävän suorittamiseen käytettyyn työhön katsoen kohtuullinen palkkio sekä korvaus kuluistaan. Jolleivät pesän varat tähän riitä, on hyvitys sen suoritettava, jonka hakemuksesta pesänselvittäjä on määrätty. Jos maksuvelvollisia on useita, vastaavat he yhteisvastuullisesti. Pesänselvittäjän hallintoa koskevaan kanteeseen on sovellettava, mitä kanteesta toimitsijaa vastaan on säädetty. Sillä, joka on nostanut moitekanteen, on oikeus saada pesästä korvaus kuluistaan, mikäli oikeudenkäynnillä pesään saadut varat tähän riittävät tai se muutoin harkitaan kohtuulliseksi.",
+      "section_number": "20",
+      "chapter_number": 19,
+      "statute_id": ""
+    },
+    {
+      "id": "5859e80d-7683-4224-87d3-7dcf8fceeaa4",
+      "node_type": "Section",
+      "publisher": "finlex",
+      "title": "21 §.",
+      "text": "Testamentin toimeenpanijalla on, jollei testamentista muuta ilmene, sama valtuus kuin pesänselvittäjällä, ei kuitenkaan valtuutta luovuttaa kuolinpesää konkurssiin. Testamentin toimeenpanijan valtuus ei supista eloonjääneen puolisen oikeutta osallistua pesän selvitykseen. Mitä edellä on sanottu pesänselvittäjän hallinnosta, vastuusta, vapauttamisesta toimestaan sekä oikeudesta palkkioon, sovelletaan vastaavasti testamentin toimeenpanijaan. Jos testamentin toimeenpanija määrätään pesänselvittäjäksi, ei se rajoita sitä oikeutta, mikä hänellä lainvoiman saaneen testamentin nojalla saattaa olla.",
+      "section_number": "21",
+      "chapter_number": 19,
+      "statute_id": ""
+    },
+    {
+      "id": "f5bbac4c-0d87-4391-a7a4-3014af912942",
+      "node_type": "Section",
+      "publisher": "finlex",
+      "title": "22 §.",
+      "text": "Oikeuden tai tuomarin päätökseen, jota tarkoitetaan 11 §:n 1 momentissa, ja oikeuden päätökseen 17 §:ssä mainitussa asiassa ei saa hakea muutosta. Niin ikään on muutoksenhaku kielletty hovioikeuden päätöksestä 1, 5–7 §:ssä ja 18 §:ssä tarkoitetuissa asioissa. Oikeuden tässä luvussa muissa kuin 7 §:ssä mainituissa asioissa antamaa päätöstä on muutoksenhausta huolimatta noudatettava.",
+      "section_number": "22",
+      "chapter_number": 19,
+      "statute_id": ""
+    },
+    {
+      "id": "4befe61c-9f31-4f04-845d-2942f4230f88",
+      "node_type": "Section",
+      "publisher": "finlex",
+      "title": "1 §.",
+      "text": "Perunkirjoitus on toimitettava kolmen kuukauden kuluessa kuolemantapauksesta, jollei oikeus saman ajan kuluessatehdystä hakemuksesta pesän laatuun katsoen tai muusta erityisestä syystä tätä aikaa pitennä. Kihlakunnantuomari voi myös, milloin ei ole oikeuden istuntopäivä, myöntää pitennyksen.",
+      "section_number": "1",
+      "chapter_number": 20,
+      "statute_id": ""
+    },
+    {
+      "id": "d1ee8170-78a2-4573-b367-ced7ddfcbf66",
+      "node_type": "Section",
+      "publisher": "finlex",
+      "title": "2 §.",
+      "text": "Osakkaan, jonka hoidettavana pesän omaisuus on, tahi pesänselvittäjän tai testamentin toimeenpanijan on määrättävä perunkirjoituksen aika ja paikka sekä valittava sitä toimittamaan kaksi uskottua miestä. Jollei osakas, pesänselvittäjä tai testamentin toimeenpanija ole ottanut pesän omaisuutta haltuunsa, tulee muun henkilön, jolla, sen mukaan kuin 18 luvun 4 §:ssä sanotaan, on omaisuus hoidettavanaan, toimituttaa perunkirjoitus. Perunkirjoituksen ajasta ja paikasta on, milloin se voi sanottavaa hankaluutta tuottamatta tapahtua, hyvissa ajoin sitä ennen annettava tieto osakkaille ja eloonjääneelle puolisolle slloinkin, kun tämä ei ole osakas, sekä jos joku on perintönä tai testamentilla saava osuuden jäämistöön vasta osakkaan oikeuden lakattua, myös sille, jolla perunkirjoitusta toimitettaessa lähinnä on oikeus saada perintö tai testamentti.",
+      "section_number": "2",
+      "chapter_number": 20,
+      "statute_id": ""
+    },
+    {
+      "id": "07d66a24-d144-4514-b9b8-174e4c4791df",
+      "node_type": "Section",
+      "publisher": "finlex",
+      "title": "3 §.",
+      "text": "Perukirjassa on mainittava toimituksen aika ja paikka, vainajan täydellinen nimi, ammatti ja kotipaikka sekä syntymä- ja kuolinpäivä, osakkaiden ja muiden 2 §:n 2 mementissa tarkeitettujen henkilöiden nimet ja kotipalkat sekä lisäksi ilmoitettava alaikäisten osalta myös heidän syntymäpäivänsä ja perillisten kohdalta, miten he ovat vainajalle sukua. Perillinen on mainittava, vaikka hänelle ei tulisi mitään pesän omaisuudesta. Jollei jotakin edellä mainittua seikkaa voida ilmoittaa, on siitä ja sen syystä tehtävä merkintä perukirjaan. Perukirjasta tulee käydä selville, ketkä ovat olleet perunkirjoituksessa saapuvilla. Milloin jollekin 2 §:n 2 mementissa tarkoitetulle henkilölle ei ole annettu tietoa toimituksesta, on se sekä syy siihen perukirjassa mainittava. Jos joku, jolle tieto on toimitettu, ei ole saapunut, on perukirjaan merkittävä, milloin ja milla tavalla hänelle oli tieto annettu.",
+      "section_number": "3",
+      "chapter_number": 20,
+      "statute_id": ""
+    },
+    {
+      "id": "bf97770d-df26-475c-a9b7-e6a260eab20b",
+      "node_type": "Section",
+      "publisher": "finlex",
+      "title": "4 §.",
+      "text": "Pesän varat ja velat on merkittävä perukirjaan sellaisina kuin ne kuoleman tapahtuessa olivat, ja on myös varojen arvo mainittava. Jos vainajan jälkeen on elossa puoliso, on myös tämän varat ja velat merkittävä perukirjaan. Milloin jommallakummalla puolisolla oli omaisuutta, johon toisella ei ollut avio-oikeutta, on perukirjassa mainittava, mihin sanottu seikka perustuu. Jos puolisoilla oli yhteistä omaisuutta tai velkaa, on perukirjassa mainittava, mitä siitä tulee kumpaisenkin osalle. Perukirjassa on lisäksi mainittava ennakkoperintö sekä muu pesään kuulumaton omaisuus, joka on otettava huomioon perillisen lakiosan suuruutta määrättäessä.",
+      "section_number": "4",
+      "chapter_number": 20,
+      "statute_id": ""
+    },
+    {
+      "id": "a6e01407-3e48-428a-848d-3495f3677d10",
+      "node_type": "Section",
+      "publisher": "finlex",
+      "title": "5 §.",
+      "text": "Jos perittävä on tehnyt testamentin tai avioehtosopimuksen, on se otettava tai oikeaksi todistettuna jäljennöksenä liitettävä perukirjaan. Sama koskee muita asiakirjoja, jotka ovat tarpeen pesän tilan selville saamiseksi. Perukirjaan on niin ikään liitettävä kirkonkirjan tai vastaavan rekisterin ote, josta käy selville eloonjäänyt puoliso ja perilliset.",
+      "section_number": "5",
+      "chapter_number": 20,
+      "statute_id": ""
+    },
+    {
+      "id": "a3485f8a-c580-4fe9-be37-999d19c6f1e4",
+      "node_type": "Section",
+      "publisher": "finlex",
+      "title": "6 §.",
+      "text": "Pesän ilmoittakoon se, joka hoitaa pesän omaisuutta tai muutoin on sen tilaan parhaiten perehtynyt. Osakkaan sekä eloonjääneen puolison, vaikkei tämä olisikaan osakas, tulee kehotuksesta antaa tietoja perunkirjoitusta varten. Pesän ilmoittajan on perukirjaan merkittävä valaehtoinen vakuutus, että hänen perunkirjoitusta varten antamansa tiedot ovat oikeat ja ettei hän tahallisesti ole jättänyt mitään ilmoittamatta. Hän on velvollinen valallaan vahvistamaan vakuutuksen, jos joku, jonka oikeus saattaa olla tällaisesta valanteosta riippuvainen, tahi pesänselvittäjä tai testamentin toimeenpanija sitä vaatii. Valantekovelvollisuus on myös osakkaalla tai loonjääneellä puolisolla, joka ei ole ilmoittanut pesää. Jos joku muu on ryhtynyt pesän omaisuutta koskeviin toimiin, voidaan hänetkin määrätä valalle, milloin siihen on syytä. Uskottujen miesten on perukirjaan kirjoitettava todistus siitä, että he ovat kaiken siihen oikein merkinneet ja pesän varat arvioineet parhaan ymmärryksensä mukaan.",
+      "section_number": "6",
+      "chapter_number": 20,
+      "statute_id": ""
+    },
+    {
+      "id": "7ec089cd-2018-4af4-8190-582126d1dfbe",
+      "node_type": "Section",
+      "publisher": "finlex",
+      "title": "7 §.",
+      "text": "Jos omaisuutta on usealla paikkakunnalla, voidaan jokaisella niistä toimittaa eri perunkirjoitus. Johonkin perukirjaan on otettava pesän varojen ja velkojen yhdistelmä, ja vain tähän perukirjaan on sovellettava, mitä 4 §:n 3 momentissa ja 5 §:ssä on säädetty.",
+      "section_number": "7",
+      "chapter_number": 20,
+      "statute_id": ""
+    },
+    {
+      "id": "2f9f085e-1f67-4ce5-84a1-40dd7a63fbcf",
+      "node_type": "Section",
+      "publisher": "finlex",
+      "title": "8 §.",
+      "text": "Perukirja on kaksin kappalein annettava oikeuteen tai sen kansliaan erikseen säädetyn ajan kuluessa.",
+      "section_number": "8",
+      "chapter_number": 20,
+      "statute_id": ""
+    },
+    {
+      "id": "fc7d162a-001b-4f20-b721-94e96ba9f75b",
+      "node_type": "Section",
+      "publisher": "finlex",
+      "title": "9 §.",
+      "text": "Oikeuden tulee valvoa, että perunkirjoitus toimitetaan ja perukirja annetaan oikeuteen säädetyn ajan kuluessa. Jos tämä havaitaan laiminlyödyksi, tulee oikeuden asettaa määräaika ja sakon uhka tai, milloin perunkirjoitusta ei ole toimitettu, määrätä joku toimituttamaan se, ja tuomittakoon laiminlyöjä sakkoon. Jos perukirja on puutteellinen, asettakoon oikeus sakon uhan ja määräajan, jonka kuluessa puute on korjattava. Se, jonka on annettava tietoja perunkirjoitusta varten, voidaan siihen velvoittaa sakon uhalla.",
+      "section_number": "9",
+      "chapter_number": 20,
+      "statute_id": ""
+    },
+    {
+      "id": "ebbbfbae-fa0a-466f-8890-7877c73b47ff",
+      "node_type": "Section",
+      "publisher": "finlex",
+      "title": "10 §.",
+      "text": "Jos perunkirjoituksen jälkeen ilmaantuu uusia varoja tai velkoja, on kuukauden kuluessa laadittava täydennys- tai oikaisukirja. Siitä on soveltuvin kohdin voimassa, mitä edellä on perukirjasta säädetty.",
+      "section_number": "10",
+      "chapter_number": 20,
+      "statute_id": ""
+    },
+    {
+      "id": "1b6330ef-18b2-47d1-8b1e-62e33519e60d",
+      "node_type": "Section",
+      "publisher": "finlex",
+      "title": "11 §.",
+      "text": "Joka perunkirjoituksessa tahallansa salaa tai vilpillisesti ilmoittaa jotakin, tuomittakoon sakkoon tai vankeuteen enintään kuudeksi kuukaudeksi. Jos asianhaarat ovat erittäin raskauttavat, olkoon rangaistus vankeutta enintään kaksi vuotta.",
+      "section_number": "11",
+      "chapter_number": 20,
+      "statute_id": ""
+    },
+    {
+      "id": "bb8e52b5-c58a-4f91-b086-066b0aec164f",
+      "node_type": "Section",
+      "publisher": "finlex",
+      "title": "12 §.",
+      "text": "Oikeuden tai tuomarin 1 §:n mukaan antamaan päätökseen ei saa hakea muutosta. Niin ikään on muutoksenhaku kielletty hovioikeuden päätöksestä 9 §:ssä tarkoitetussa asiassa.",
+      "section_number": "12",
+      "chapter_number": 20,
+      "statute_id": ""
+    },
+    {
+      "id": "04d94ad9-bbf9-43ce-854a-f3034241fb7f",
+      "node_type": "Section",
+      "publisher": "finlex",
+      "title": "13 §.",
+      "text": "Sen lisäksi, mitä tässä luvussa säädetään, on noudatettava, mitä perunkirjoituksesta perintöveron määräämistä varten on erikseen säädetty.",
+      "section_number": "13",
+      "chapter_number": 20,
+      "statute_id": ""
+    },
+    {
+      "id": "6e9c5383-81bc-4ad2-a79f-58c7a8db16f6",
+      "node_type": "Section",
+      "publisher": "finlex",
+      "title": "1 §.",
+      "text": "Jollei pesän omaisuutta hakemuksesta, joka tehdään kuukauden kuluessa perunkirjoituksesta, luovuteta pesänselvittäjän hallintoon tai konkurssiin, vastaa osakas perunkirjoitusta toimitettaessa tietämistään vainajan veloista. Jos perunkirjoituksen jälkeen ilmaantuu uutta velkaa eikä pesän omaisuutta 1 momentissa mainituin tavoin luovuteta kuukauden kuluessa siitä, vastaa osakas tästäkin velasta.",
+      "section_number": "1",
+      "chapter_number": 21,
+      "statute_id": ""
+    },
+    {
+      "id": "e9dfe69d-4378-4ca5-93cb-6d762e739908",
+      "node_type": "Section",
+      "publisher": "finlex",
+      "title": "2 §.",
+      "text": "Milloin pesän luovuttaminen tapahtuu hakemuksesta, joka on tehty sen jälkeen, kun kuukausi on kulunut perunkirjoituksesta, on osakas velvollinen pesälle suorittaman sen määrän, millä hänen tiedossaan kuukautta ennen hakemuspäivää olleet velat ylittävät luovutetun omaisuuden ja muutoin käytettävissä olevien varojen arvon, eikä hän enää ole yksityiselle velkojalle vastuussa 1 §:n mukaan. Velkojan vaatimuksesta osakkaan on valallaan vahvistettava, ettei hän kuukautta ennen hakemuspäivää ole tietänyt siitä velasta, jota vaatimus tarkoittaa. Jollei hän voi valaa tehdä, katsotaan hänen aikaisemmin tietäneen velan.",
+      "section_number": "2",
+      "chapter_number": 21,
+      "statute_id": ""
+    },
+    {
+      "id": "1502c238-157f-4a0e-9fac-8e95779589ef",
+      "node_type": "Section",
+      "publisher": "finlex",
+      "title": "3 §.",
+      "text": "Kun osakas on tehnyt hakemuksen pesän luovuttamisesta konkurssiin, ja viimeistään siinä velkojainkuulustelussa, mikä konkurssissa toimitetaan, tehdään esitys pesän luovuttamisesta pesänseivittäjän hallintoon, voi oikeus, milloin tämä harkitaan asianmukaiseksi, suostua esitykseen.",
+      "section_number": "3",
+      "chapter_number": 21,
+      "statute_id": ""
+    },
+    {
+      "id": "a643680c-ec95-4ef5-bb86-8ee0a0a3d881",
+      "node_type": "Section",
+      "publisher": "finlex",
+      "title": "4 §.",
+      "text": "Milloin osakkaalla on pätevä syy olettaa, ettei hän joudu vainajan vastattavana olleen takauksen tai muun tietyn sitoumuksen perusteella maksuvelvolliseksi, ei velkaa ole pidettävä tiedettynä velkana.",
+      "section_number": "4",
+      "chapter_number": 21,
+      "statute_id": ""
+    },
+    {
+      "id": "af2edc4c-92be-470f-9fc3-61560934ce48",
+      "node_type": "Section",
+      "publisher": "finlex",
+      "title": "5 §.",
+      "text": "Jos osakkaan hakemus pesän luovuttamisesta konkurssiin raukeaa sen johdosta, että pesä luovutetaan pesänselvittäjän hallintoon, katsotaan luovuttamista sellaiseen hallintoon haetun sinä päivänä, jona konkurssihakemus tehtiin.",
+      "section_number": "5",
+      "chapter_number": 21,
+      "statute_id": ""
+    },
+    {
+      "id": "9a2e25bf-8ca6-4477-9849-9548ffc3b401",
+      "node_type": "Section",
+      "publisher": "finlex",
+      "title": "6 §.",
+      "text": "Jos pesän luovuttaminen tapahtuu sen jälkeen, kun ositus tai perinnönjako on toimitettu, peruutukoon ositus tai jako. Mikäli velka voidaan maksaa vainajalle kuuluneesta omaisuudesta ja siitä, mitä hänen osalleen olisi tullut toisen puolison omaisuudesta, jos velka olisi osituksessa otettu lukuun, on pesänselvittäjän hallintoon kuitenkin luovutettava vain se, mitä hänen harkintansa mukaan on tarpeen velkojen maksamiseen ja hallintokustannuksiin. Tähän tarvittava määrä osakasten on suoritettava suhteellisesti sen mukaan kuin he ovat osituksessa tai perinnönjaossa saaneet liikaa. Muilta osin jää ositus tai jako pysyväksi. Jos joku osakas ei kykene suorittamaan osuuttaan, on muiden täytettävä vajaus osituksessa tai jaossa saamallaan omaisuudella tai sen arvolla.",
+      "section_number": "6",
+      "chapter_number": 21,
+      "statute_id": ""
+    },
+    {
+      "id": "533b65fe-e1a2-461b-a823-800964d28930",
+      "node_type": "Section",
+      "publisher": "finlex",
+      "title": "7 §.",
+      "text": "Erityisjälkisäädöksen tai tarkoitemääräyksen perusteella pesästä saatu omaisuus on palautettava, sikäli kuin sitä tarvitaan velan katteeksi. Jollei omaisuus ole tallella, on sen arvo korvattava, mikäli erityisiä vastasyitä ei ole.",
+      "section_number": "7",
+      "chapter_number": 21,
+      "statute_id": ""
+    },
+    {
+      "id": "a7fcca4d-e1ed-456a-99d3-e4f1bbe2c23e",
+      "node_type": "Section",
+      "publisher": "finlex",
+      "title": "8 §.",
+      "text": "Omaisuuden 6 ja 7 §:ään perustuva palauttamisvelvollisuus käsittää myös koron tai tuoton. Palauttamisvelvolliselle on kuitenkin korvattava tarpeelliset sekä, milloin hän oli vilpittömässä mielessä, myös hyödylliset kustannukset.",
+      "section_number": "8",
+      "chapter_number": 21,
+      "statute_id": ""
+    },
+    {
+      "id": "19277af1-c7cd-4c8d-b7a5-f4f2bdc27c0f",
+      "node_type": "Section",
+      "publisher": "finlex",
+      "title": "9 §.",
+      "text": "Ennen kuin 1 §:n 1 momentissa säädetty määräaika on päättynyt, tai, milloin pesä on pesänselvittäjän hallinnossa, velkojain tyydyttämisestä on tehty sopimus, maksettakoon pesän varoista vainajan velka vain, milloin on pätevä syy olettaa, ettei velan maksamisesta aiheudu muille velkojille vahinkoa. Sanottuna aikana älköön saatettako loppuun pesän omaisuuteen kohdistuvaa ulosmittausta, ellei velkojalla ollut pantti- tai pidätysoikeutta ulosmitattuun omaisuuteen. Jos osakas on ottanut velkaa 18 luvun 5 §:ssä tai 6 §:n 2 momentissa mainittuun tarkoitukseen pesän ollessa osakasten hallittavana, saa velkoja vaatia sellaisen velan suoritusta myös pesästä. Mikäli osakas on käyttänyt varojaan sellaiseen tarkoitukseen, hänellä on oikeus saada korvaus pesään varoista.",
+      "section_number": "9",
+      "chapter_number": 21,
+      "statute_id": ""
+    },
+    {
+      "id": "1581b805-4f57-4c52-b4d1-214108fdeeb4",
+      "node_type": "Section",
+      "publisher": "finlex",
+      "title": "10 §.",
+      "text": "Sitten kun 1 §:n 1 momentissa säädetty määrä aika on päättynyt, voi velkoja vaatia vakuutta sellaisesta vainajalta jääneestä velasta, joka ei ole erääntynyt ja josta ei ole riittävää vakuutta. Jollei vakuutta anneta kolmen kuukauden kuluessa, katsotaan velka sen jälkeen erääntyneeksi. Jos vainajalta on jäänyt velkaa, joka ei eräänny kuuden kuukauden kuluessa, voidaan se, milloin osakkaita on useita, kuolinpesän puolesta sanoa irti maksettavaksi mainitun ajan kuluttua irtisanomisesta. Velkoja, jonka saamisen vakuutena on kiinnitys, ei kuitenkaan olo velvollinen ottamaan vastaan maksua ennen erääntymispäivää, jos hän kolmen kuukauden kuluessa irtisanomisesta ilmoittaa vaativansa saamisestaan maksua vain sen vakuutena olevasta omaisuudesta.",
+      "section_number": "10",
+      "chapter_number": 21,
+      "statute_id": ""
+    },
+    {
+      "id": "cde6a73b-a24e-4903-a546-418c6ae25fc2",
+      "node_type": "Section",
+      "publisher": "finlex",
+      "title": "11 §.",
+      "text": "Jos osakkaat ovat 9 §:n vastaisesti maksaneet velkaa tahi 1 §:ssä omaisuuden luovuttamiselle säädetyn määräajan kuluessa velkojain vahingoksi täyttäneet erityisjälkisäädöksen tai tarkoitemääräyksen, myyneet, pantanneet tahi muulla tavoin käyttäneet tai hävittäneet pesän omaisuutta, vastatkoot niistä vainajan veloista, jotka he silloin ovat tietäneet tai joista he viimeistään sen jälkeen toimitetussa perunkirjoituksessa ovat saaneet tiedon. Jos tässä tarkoitotusta toimesta on aiheutunut ainoastaan vähäinen vahinko tai jos siihen on ryhdytty ajattelemattomuudesta tai pesän tilaa tarkoin tietämättä, on vain vahinko korvattava.",
+      "section_number": "11",
+      "chapter_number": 21,
+      "statute_id": ""
+    },
+    {
+      "id": "4794af8c-da62-45a3-9bf2-f7be7d644eaa",
+      "node_type": "Section",
+      "publisher": "finlex",
+      "title": "12 §.",
+      "text": "Jos omaisuuden ositus tai perinnönjako toimitetaan ennen kuin kaikki velat on maksettu, vastaa osakas, joka on osallistunut ositukseen tai jakoon taikka vastaanottanut siinä hänelle tulleen omaisuuden, niistä vainajan veloista, jotka hän silloin oli tietänyt tai joista hän viimeistään sen jälkeen toimitetussa perunkirjoituksessa on saanut tiedon. Osituksesta ei kuitenkaan ole tällaista seuraamusta, milloin eloonjäänyt puoliso ei ole saanut mitään vainajan omaisuudesta.",
+      "section_number": "12",
+      "chapter_number": 21,
+      "statute_id": ""
+    },
+    {
+      "id": "7131e6cc-d204-47eb-8d74-0ff1b3aec1bd",
+      "node_type": "Section",
+      "publisher": "finlex",
+      "title": "13 §.",
+      "text": "Jos osakkaiden hakemuksesta pesänselvittäjän hallinto lakkautetaan, ennen kuin velat on maksettu, katsotaan, mikäli on kysymys velkavastuusta, pesän luovuttamisen jääneen tapahtumatta.",
+      "section_number": "13",
+      "chapter_number": 21,
+      "statute_id": ""
+    },
+    {
+      "id": "6890b256-2cbd-45ad-910f-d78f77b73e32",
+      "node_type": "Section",
+      "publisher": "finlex",
+      "title": "14 §.",
+      "text": "Milloin osakas, jonka hoidossa pesä on, jättää perunkirjoituksen toimituttamatta määräajassa, vastaa hän kaikistä vainajan veloista. Sama on laki, jos osakas perunkirjoituksessa tahi valalla vahvistaessaan perukirjan antaa vääräksi tietämänsä ilmoituksen taikka tahallaan jättää ilmoittamatta jonkin tietämänsä seikan ja siten vaarantaa velkojain oikeutta.",
+      "section_number": "14",
+      "chapter_number": 21,
+      "statute_id": ""
+    },
+    {
+      "id": "092afeea-25f5-4c88-b555-4212cb5d34f2",
+      "node_type": "Section",
+      "publisher": "finlex",
+      "title": "15 §.",
+      "text": "Jos osakas on vastuussa vainajan velasta, vastaa hän myös pesän velasta. Edellä 2 §:n 1 momentissa tarkoitetussa tapauksessa on osakkaan suoritetta va pesälle sellaista velkaa vastaava määrä, joka on telity pesää varten ennen sen luovutusta.",
+      "section_number": "15",
+      "chapter_number": 21,
+      "statute_id": ""
+    },
+    {
+      "id": "bbdb2598-ed95-4c84-af23-18048a7dada8",
+      "node_type": "Section",
+      "publisher": "finlex",
+      "title": "16 §.",
+      "text": "Mitä 1, 2 ja 11–15 §:ssä on sääädetty osakkaan velkavastuusta, ei ole sovellettava osakkaaseen, joka on vajaavaltainen tai jota edustaa uskottu mies. Holhooja tai uskottu mies vastaa vahingosta, minkä hän toimenpiteellään tai laiminlyönnillään on vainajan tai pesän velkojille aiheuttanut.",
+      "section_number": "16",
+      "chapter_number": 21,
+      "statute_id": ""
+    },
+    {
+      "id": "da5283a9-91c3-4699-9cf8-b571bd1c03e0",
+      "node_type": "Section",
+      "publisher": "finlex",
+      "title": "17 §.",
+      "text": "Milloin useat ovat tämän luvun mukaan joutuneet vastuuseen velasta tai vahingosta, vastaavat he yhteisvastuullisesti. Mitä joku on suorittanut, on, mikäli sitä ei korvata pesän varoista, jaettava heidän keskensä 18 luvun 7 §:n 2 momentissa säädettyjen perusteiden mukaisesti.",
+      "section_number": "17",
+      "chapter_number": 21,
+      "statute_id": ""
+    },
+    {
+      "id": "3fde20a4-56aa-46df-9618-c7b3124c13a3",
+      "node_type": "Section",
+      "publisher": "finlex",
+      "title": "18 §.",
+      "text": "Jollei osakas ole saanut mitään etua pesästä eikä myöskään ryhtynyt muihin sitä koskeviin toimiin kuin niihin, mitkä 18 luvun 3 §:n mukaan ovat olleet hänen veivollisuutenaan, ja osallistunut perunkirjoitukseen, on hän vapaa pesän luovuttamisen laiminlyönnistä johtuvasta vastuusta.",
+      "section_number": "18",
+      "chapter_number": 21,
+      "statute_id": ""
+    },
+    {
+      "id": "c972af0d-da39-427f-af32-5fc75b70b5a3",
+      "node_type": "Section",
+      "publisher": "finlex",
+      "title": "19 §.",
+      "text": "Ellei vainajalta ole jäänyt enempää omaisuutta kuin mitä tarvitaan kohtuullisiin hautaus- ja perunkirjoituskustannuksiin, ei tämän luvun säännöksiä vainajan velkaa koskevasta vastuusta ole sovellettava. Oikeudella on niin ikään valta, milloin olosuhteet antavat siihen aihetta, vapauttaa osakas vastaamasta vainajan veloista, vaikka pesän varat jonkin verran ylittävätkin mainitut kustannukset.",
+      "section_number": "19",
+      "chapter_number": 21,
+      "statute_id": ""
+    },
+    {
+      "id": "0a10d29d-f300-455a-9155-1c9cc82f2e4d",
+      "node_type": "Section",
+      "publisher": "finlex",
+      "title": "1 §.",
+      "text": "Jakamattomasta pesästä täytettävä erityisjälkisäädös on pantava täytäntöön niin pian kuin se voi tapahtua tuottamatta haittaa kenellekään, jonka oikeus on pesän selvityksestä riippuvainen. Jos perinnönjako toimitetaan ennen kuin 1 momentissa tarkoitettu erityisjälkisäädös on täytetty tai siihen tarvittava omaisuus pantu erityiseen hoitoon, vastaavat osakkaat yhteisvastuullisesti jälkisäädöksen täytäntöönpanosta, niin kuin jakoa ei olisi toimitettu. Mitä osakkaat täten ovat joutuneet suorittamaan, on heidän kesken jaettava 18 luvun 7 §:n 2 momentissa säädettyjen perusteiden mukaisesti.",
+      "section_number": "1",
+      "chapter_number": 22,
+      "statute_id": ""
+    },
+    {
+      "id": "56e0b302-21b2-4029-9f54-cfa4758fd8d7",
+      "node_type": "Section",
+      "publisher": "finlex",
+      "title": "2 §.",
+      "text": "Milloin erityisjälkisäädös on jonkun perillisen tai testamentin saajan täytettävä, on hänen pantava jälkisäädös täytäntöön saatuaan haltuunsa sen täyttämiseen tarkoitetun omaisuuden. Jos hänen laiminiyönnistään johtuu, ettei hän ole sitä omaisuutta saanut, on hänen korvattava vahinko.",
+      "section_number": "2",
+      "chapter_number": 22,
+      "statute_id": ""
+    },
+    {
+      "id": "9a840d11-5831-4fcd-ae68-5e0fa7e57398",
+      "node_type": "Section",
+      "publisher": "finlex",
+      "title": "3 §.",
+      "text": "Jos omaisuutta, joka on jollekin määrätty erityisjälkisäädöksellä, hoidetaan huolimattomasti tai saajan oikeutta muutoin vaarannetaan, voi oikeus, mikäli jälkisäädöksen täyttämisestä ei ole asetettu tyydyttävää vakuutta, määrätä sanotun omaisuuden pantavaksi erityiseen hoitoon. Sellaista määräystä on muutoksenhausta huolimatta noudatettava.",
+      "section_number": "3",
+      "chapter_number": 22,
+      "statute_id": ""
+    },
+    {
+      "id": "a715ffc3-1764-4251-8e76-c6c73251e3af",
+      "node_type": "Section",
+      "publisher": "finlex",
+      "title": "4 §.",
+      "text": "Kun erityisjälkisäädös tarkoittaa tiettyä omaisuutta, on jälkisäädöksen saajaila, jollei testamentista muuta johdu, oikeus saada sen tuotto, mutta hänen on, ennen kuin omaisuus hänelle annetaan, suoritettava siitä olleet tarpeelliset kustannukset, mikäli ne eivät ole aiheutuneet pesän selvityksestä.",
+      "section_number": "4",
+      "chapter_number": 22,
+      "statute_id": ""
+    },
+    {
+      "id": "0c56d860-02c8-4cb9-a309-54736ec8dd08",
+      "node_type": "Section",
+      "publisher": "finlex",
+      "title": "5 §.",
+      "text": "Tiettyä rahamäärää koskevan erityisjälkisäädöksen saajalle on, jollei testamentista muuta johdu, suoritettava korkoa viisi sadalta vuodessa, siitä lukien kun neljä kuukautta on kulunut testamentin tekijän kuolemasta.",
+      "section_number": "5",
+      "chapter_number": 22,
+      "statute_id": ""
+    },
+    {
+      "id": "beb7ea42-6232-4aec-bc22-0436919c6fc4",
+      "node_type": "Section",
+      "publisher": "finlex",
+      "title": "6 §.",
+      "text": "Mitä tässä luvussa on säädetty erityisjälkisäädöksestä, on vastaavasti sovellettava tarkoitemääräykseen.",
+      "section_number": "6",
+      "chapter_number": 22,
+      "statute_id": ""
+    },
+    {
+      "id": "0d9684ac-2b11-4460-8af9-cbc434bff515",
+      "node_type": "Section",
+      "publisher": "finlex",
+      "title": "7 §.",
+      "text": "Jos tarkoitemääräyksen täytäntöönpano on laiminlyöty, on jokaisella, jolla saattaa olla etua määräyksen täytäntöönpanosta, sekä pesänselvittäjällä, testamentin toimeenpanijalla, eloonjääneellä puolisolla, niin myös perillisellä ja yleisjälkisäädöksen saajalla sekä perillisen tai yleisjälkisäädöksen saajan jälkeläisellä oikeus ajaa siitä kannetta. Perillisellä on kanneoikeus silloinkin, kun hänellä ei ole osuutta pesään. Kun on kysymys määräyksestä yleishyödylliseen tarkoitukseen, voi sen läänin lääninhallitus, missä täytäntöönpano on pääasiallisesti toimitettava, määrätä sopivan henkilön ajamaan kannetta.",
+      "section_number": "7",
+      "chapter_number": 22,
+      "statute_id": ""
+    },
+    {
+      "id": "fe487ce1-ca43-41f5-a8c2-8ba723ac53d1",
+      "node_type": "Section",
+      "publisher": "finlex",
+      "title": "1 §.",
+      "text": "Kun pesä on selvitetty, on jokaisella sen osakkaalla oikeus vaatia jakoa. Jos vainaja oli naimisissa, on ennen perinnönjakoa toimitettava omaisuuden ositus.",
+      "section_number": "1",
+      "chapter_number": 23,
+      "statute_id": ""
+    },
+    {
+      "id": "c858a5a6-ff2e-40b3-bb00-b6ad03917722",
+      "node_type": "Section",
+      "publisher": "finlex",
+      "title": "2 §.",
+      "text": "Vastoin osakkaan kieltoa älköön jakoon ryhdyttäkö, ennen kuin perunkirjoitus on toimitettu ja kaikki tiedossa olevat velat maksettu tai niiden maksamiseen tarvittavat varat pantu erityiseen hoitoon. Jos erityisjälkisäädös tai tarkoitemääräys on täytettävä jakamattomasta pesästä, älköön jakoa vastoin osakkaan kieltoa toimitettako, ennen kuin jälkisäädös tai määräys on täytetty taikka siihen tarvittava omaisuus pantu erityiseen hoitoon. Milloin pesä on pesänselvittäjän tai testamentin toimeenpanijan hallinnossa, älköön jakoon ryhdyttäkö, ennen kuin tämä on ilmoittanut pesän selvittämisen päättyneen.",
+      "section_number": "2",
+      "chapter_number": 23,
+      "statute_id": ""
+    },
+    {
+      "id": "047d8843-a100-440e-ae1c-b1c99302d11f",
+      "node_type": "Section",
+      "publisher": "finlex",
+      "title": "3 §.",
+      "text": "Perinnönjaon saavat osakkaat toimittaa sopimallaan tavalla. Jos joku osakkaista on vajaavaltainen tai jonkun osuus pesästä on ulosmitattu taikka jos osakas vaatii, on jako pesänjakajan toimitettava.",
+      "section_number": "3",
+      "chapter_number": 23,
+      "statute_id": ""
+    },
+    {
+      "id": "d6f14033-bba8-4088-bed4-336778364940",
+      "node_type": "Section",
+      "publisher": "finlex",
+      "title": "4 §.",
+      "text": "Oikeus määrätköön hakemuksesta sopivan henkilön pesänjakajaksi. Milloin pesän laatuun tai laajuuteen katsoen taikka muusta erityisestä syystä on tarpeen, voidaan määrätä useita pesänjakajia. Hakemukseen on liitettävä jäljennös perukirjasta Kihlakunnantuomari voi, milloin ei ole oikeuden istuntopäivä, antaa 1 momentissa tarkoitetun määräyksen, jos osakkaat ovat yksimieliset pesänjakajaksi määrättävästä henkilöstä. Pesänselvittäjä tai testamentin toimeenpanija, joka ei ole osakas, on erityisettä määräyksettäp esänjakaja, jos osakkaat pyytävät häntä toimittamaan jaon eikä toista ole pesänjakajaksi määrätty. Pesän jakajalla on oikeus saada pesän varoista pesän laatuun ja laajuuteen sekä tehtävän suorittamiseen käytettyyn työhön katsoen kohtuullinen palkkio sekä korvaus kuluistaan.",
+      "section_number": "4",
+      "chapter_number": 23,
+      "statute_id": ""
+    },
+    {
+      "id": "2202826f-ab6c-4e18-b2af-17ff6a2e3f21",
+      "node_type": "Section",
+      "publisher": "finlex",
+      "title": "5 §.",
+      "text": "Jos pesänjakaja havaitaan toimeensa sopimattomaksi, vapauttakoon oikeus hänet tehtävästään, milloin joku, jonka oikeus on perinnönjaosta riippuvainen, sitä pyytää. Sama on laki, jos pesänjakaja muusta syystä on toimestaan vapautettava.",
+      "section_number": "5",
+      "chapter_number": 23,
+      "statute_id": ""
+    },
+    {
+      "id": "4b0eac50-39a6-45f0-b781-6ebd8860ee96",
+      "node_type": "Section",
+      "publisher": "finlex",
+      "title": "6 §.",
+      "text": "Ennen pesänjakajan määräämistä taikka toimestaan vapauttamista on oikeuden tai tuomarin varattava osakkaille tilaisuus lausua mielipiteensä asiasta. Älköön ketään omatta suostumuksottaan määrättäkö pesänjakajaksi älköönkä pesänjakajaa vapautottako toi mestaan varaamatta hänelle tilaisuutta tulla asiassa kuulluksi.",
+      "section_number": "6",
+      "chapter_number": 23,
+      "statute_id": ""
+    },
+    {
+      "id": "8c42efa1-f818-4ca8-9757-07fbdf7521ec",
+      "node_type": "Section",
+      "publisher": "finlex",
+      "title": "7 §.",
+      "text": "Pesänjakajan on määrättävä perinnönjaon aika ja paikka sekä todistettavasti kutsuttava osakkaat toimitukseen. Pesänjakajan on, jos kaikki osakkaat ovat tulleet saapuville, koetettava saada heidät sopimaan jaosta ja, milloin sopimus saadaan aikaan, toimitettava jako sen mukaisesti. Osakkaan vajaavaltaisuus ei estä noudattamasta sopimusta, jos pesänjakaja katsoo sen vajaavaltaisen edun mukaiseksi.",
+      "section_number": "7",
+      "chapter_number": 23,
+      "statute_id": ""
+    },
+    {
+      "id": "77281b43-eecc-4c5f-9252-2f12d91c1af2",
+      "node_type": "Section",
+      "publisher": "finlex",
+      "title": "8 §.",
+      "text": "Jos osakas, joka on ajoissa saanut kutsun, on jäänyt toimitukseen saapumatta tai jos perinnönjakoa ei muusta syystä ole toimitettava osakasten sopimuksen mukaisesti, pesänjakajan on suoritettava jako siten, että kullekin osakkaalle annetaan osa kaikenlaatuisesta omaisuudesta. Kuitenkin on omaisuus, jota ei sopivasti voida jakaa osiin tai erotella, mikäli mahdollista, pantava samaan osaan. Jos pesän varoihin kuuluu saaminen osakkaalta, on se jaossa annettava hänelle, sikäli kuin hänen osuutensa siihen riittää. Jollei jakoa muutoin saada toimitetuksi, voi oikeus pesänjakajan esityksestä määrätä, että tietty omaisuus tai tarvittaessa pesän koko omaisuus on pesänjakajan toimesta myytävä.",
+      "section_number": "8",
+      "chapter_number": 23,
+      "statute_id": ""
+    },
+    {
+      "id": "7e7014ef-62fa-4b81-a522-cc6e52a0538e",
+      "node_type": "Section",
+      "publisher": "finlex",
+      "title": "9 §.",
+      "text": "Perinnönjaosta on laadittava jakokirja. Milloin pesänjakaja on toimittanut jaon, on jakokirja hänen allekirjoitettava. Muussa tapauksessa on jakokirja osakasten allekirjoitettava ja kahden esteettömän henkilön todistettava oikeaksi. Pesänjakajan on vii vytyksettä toimitettava kappale jakokirjaa kullekin osakkaalle.",
+      "section_number": "9",
+      "chapter_number": 23,
+      "statute_id": ""
+    },
+    {
+      "id": "696377a5-0a14-409d-ac2c-a866298e1738",
+      "node_type": "Section",
+      "publisher": "finlex",
+      "title": "10 §.",
+      "text": "Osakkaan, joka tahtoo moittia pesänjakajan toimittamaa jakoa, on nostettava kanne muita osakkaita vastaan kuuden kuukauden kuluessa jaon toimittamisesta. Sama on laki, milloin osakkaat ovat toimittaneet perinnönjaon ja osakas tahtoo moittia jakoa sillä perusteella, ettei sitä ole tehty säädetyssä muodossa.",
+      "section_number": "10",
+      "chapter_number": 23,
+      "statute_id": ""
+    },
+    {
+      "id": "39a39818-7e83-46b7-a7ae-aed0ed0b071e",
+      "node_type": "Section",
+      "publisher": "finlex",
+      "title": "11 §.",
+      "text": "Jos kolmas henkilö kanteella vaatii itselleen jollekin osakkaalle perintönä jaettua omaisuutta, ilmnoittakoon osakas siitä muille osakkaille. Siitä, mitä osakas menettää kantajalle, saa hän vaatia tasoitusta muilta osakkailta. Jos osakas menettää kaiken jaossa saamansa omaisuuden tai pääosan siitä, on perintö jaettava uudestaan. Milloin joku on kuitenkin suurin kustannuksin osaansa parantanut taikka se on laillisesti tullut toisen omaksi, saa hän puolestaan antaa vastikkeen sen sijaan.",
+      "section_number": "11",
+      "chapter_number": 23,
+      "statute_id": ""
+    },
+    {
+      "id": "611d854f-3c14-4a25-a815-4512d7d4cf0b",
+      "node_type": "Section",
+      "publisher": "finlex",
+      "title": "12 §.",
+      "text": "Mitä tässä luvussa on sanottu osakkaasta, on vastaavasti sovellottava siihen, jolle osakas on luovuttanut pesäosuutensa, sekä sellaiseen 19 luvun 2 §:n 2 momentissa tarkoitettuun velkojaan, jonka saamisesta osakkaan pesäosuus on ulosmitattu.",
+      "section_number": "12",
+      "chapter_number": 23,
+      "statute_id": ""
+    },
+    {
+      "id": "ebc3e892-b43a-4ef3-a84b-dbe230202beb",
+      "node_type": "Section",
+      "publisher": "finlex",
+      "title": "13 §.",
+      "text": "Oikeuden 5 §:n ja tuomarin 4 §:n 2 momentin mukaan antamaan päätökseen ei saa hakea muutosta. Niin ikään on muutoksenliaku kielletty hovioikeuden päätöksestä 4 §:n 1 momentissa tarkoitetussa asiassa.",
+      "section_number": "13",
+      "chapter_number": 23,
+      "statute_id": ""
+    },
+    {
+      "id": "daf31528-00fb-4a9b-a328-d75a82c8796f",
+      "node_type": "Section",
+      "publisher": "finlex",
+      "title": "1 §.",
+      "text": "Jos osakkaat ovat tehneet sopimuksen siitä, että pesä on osakasten yhteiseksi eduksi jäävä jakamatta toistaiseksi tai määräajaksi, on pesän hallinnosta ja edustamisesta, jollei sopimuksesta muuta johdu, voimassa mitä 18 luvun 2 §:ssa on sanottu. Sopimusta yliteishallinnosta älköön tehtäkö, jos pesä on pesänselvittäjän hallittavana tai jos pesää hallitsee testamentin toimeenpanija, jolla testamentin mukaan ei ole oikeutta suostua sopimukseen.",
+      "section_number": "1",
+      "chapter_number": 24,
+      "statute_id": ""
+    },
+    {
+      "id": "d90a5c9b-56a5-4c71-aa8b-a799f2b0ce09",
+      "node_type": "Section",
+      "publisher": "finlex",
+      "title": "2 §.",
+      "text": "Mikäli pesän omaisuuden tuottoa ei ole käytettävä yhteisen talouden kustannuksiin tai muutoin yhteiseen lukuun, on kullakin osakkaalla oikeus jokaisen kalenterivuoden päätyttyä vaatia tuoton säästö jaettavaksi.",
+      "section_number": "2",
+      "chapter_number": 24,
+      "statute_id": ""
+    },
+    {
+      "id": "c061457f-7095-4785-afd4-9704814f0591",
+      "node_type": "Section",
+      "publisher": "finlex",
+      "title": "3 §.",
+      "text": "Jollei sopimusta ole tehty määräajaksi, voi jokainen osakas milloin tahansa sanoa sopimuksen irti. Jos irtisanominen on tapahtunut, lakkaa sopimus, jollei siinä ole toisin määrätty, olemasta voimassa kolmen kuukauden kuluttua irtisanomisesta. Sama on laki, jos yhteishallinto, milloin sopimus on tehty määräajaksi, on jatkunut tämän ajan jälkeen.",
+      "section_number": "3",
+      "chapter_number": 24,
+      "statute_id": ""
+    },
+    {
+      "id": "83c8414f-ba2e-4159-9e8e-540acb46b568",
+      "node_type": "Section",
+      "publisher": "finlex",
+      "title": "4 §.",
+      "text": "Jos eloonjäänyt puoliso, joka on ollut osallinen määärajaksi tehtyyn sopimukseen, vihitään uuteen avioliittoon tai osakas kuolee ja hänen jälkeensä jää pesän osakkaaksi joku, joka ei ole sopimukseen osallinen, lakkaa sopimus olemasta voimassa kolmen kuukauden kuluttua irtisanomisesta. Milloin on alaikäisiä perillisiä, on noudatettava, mitä holhouslaissa on tällaisen tapauksen varalta säädetty. Milloin holhooja tai uskottu mies on osallistunut sopimukseen, on sillä, jonka puolesta sopimuus on tehty, holhouksen tai uskotun mieh en toimen lakatessa sellainen irti- sanomisoikeus kuin 1 momentissa sanotaan.",
+      "section_number": "4",
+      "chapter_number": 24,
+      "statute_id": ""
+    },
+    {
+      "id": "98b616b9-c4c7-4d32-990f-a46568b3dadb",
+      "node_type": "Section",
+      "publisher": "finlex",
+      "title": "5 §.",
+      "text": "Jos on tehty sopimus yhteishallinnosta määräajaksi ja sen tekemiseen ratkaisevasti vaikuttaneissa olosuhteissa on tapahtunut olennainen muutos, tai jos muutoin on erityisiä syitä, voi oikeus osakkaan kanteesta julistaa sopimuksen lakanneeksi olemasta voimassa.",
+      "section_number": "5",
+      "chapter_number": 24,
+      "statute_id": ""
+    },
+    {
+      "id": "c0c382f0-721e-44a5-8114-e96e8c070670",
+      "node_type": "Section",
+      "publisher": "finlex",
+      "title": "6 §.",
+      "text": "Sopimus yhteishallinnosta voidaan sanoa irti niin kuin 4 §:ssä sanotaan, jos osakas joutuu konkurssiin, ja sopimus raukeaa, jos pesänselvittäjä määrätään. Osakkaan hakemuksesta älköön pesää määrättäkö pesänselvittäjän hallintoon sopimuksen voimassaoloaikana.",
+      "section_number": "6",
+      "chapter_number": 24,
+      "statute_id": ""
+    },
+    {
+      "id": "ede8eabc-700c-41d8-88e6-fdbebe15ed9c",
+      "node_type": "Section",
+      "publisher": "finlex",
+      "title": "7 §.",
+      "text": "Osakkaan vastuuseen yhteishallinnon aikana tehdystä velasta, tai sinä aikana aiheutuneesta vahingosta on sovellettava, mitä 18 luvun 7 §:ssä sekä 21 luvun 15 ja 17 §:ssä on säädetty.",
+      "section_number": "7",
+      "chapter_number": 24,
+      "statute_id": ""
+    }
+  ],
+  "clauses": [
+    {
+      "id": "8ad5f0a0-3d60-449a-9d47-ba7c61571fa2",
+      "node_type": "Clause",
+      "publisher": "finlex",
+      "title": "§ 1 mom 1",
+      "text": "1) jos testamentin tekijä 9 luvun 1 §:n mukaan ei ollut kelpoinen määräämään jäämistöstään;",
+      "clause_number": 1,
+      "section_number": "1",
+      "statute_id": ""
+    },
+    {
+      "id": "8ac5753b-eb93-4d8d-8d70-1fe6ab42ca4a",
+      "node_type": "Clause",
+      "publisher": "finlex",
+      "title": "§ 1 mom 2",
+      "text": "2) jos testamenttia ei ole tehty laissa säädetyssä muodossa;",
+      "clause_number": 2,
+      "section_number": "1",
+      "statute_id": ""
+    },
+    {
+      "id": "e557c071-3919-42af-b6e6-c2f84933a7cf",
+      "node_type": "Clause",
+      "publisher": "finlex",
+      "title": "§ 1 mom 3",
+      "text": "3) jos testamentin tekemiseen on vaikuttanut mielisairaus, tylsämielisyys tai testamentin tekijän muu sieluntoiminnan häiriö; tai",
+      "clause_number": 3,
+      "section_number": "1",
+      "statute_id": ""
+    },
+    {
+      "id": "a85d967e-b478-4498-96c3-7bfbe50eead2",
+      "node_type": "Clause",
+      "publisher": "finlex",
+      "title": "§ 1 mom 4",
+      "text": "4) jos testamentin tekijä on pakotettu tekemään testamentti tai hänet on siihen taivutettu käyttämällä väärin hänen ymmärtämättömyyttään, tahdonheikkouttaan tai riippuvaista asemaansa taikka jos hänet on petollisesti vietelty tekemään testamentti tahi jos hän on muutoin sillä tavoin erehtynyt, että se on määräävästi vaikuttanut hänen tahtoonsa.",
+      "clause_number": 4,
+      "section_number": "1",
+      "statute_id": ""
+    }
+  ],
+  "cross_references": [],
+  "raw_html_path": "C:\\Users\\danit\\finance-hack\\aalto-hackaton-2026\\data\\raw\\finlex\\Laki (säädöskokoelma)\\Perintökaari.html"
+}

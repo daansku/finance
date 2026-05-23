@@ -1,0 +1,78 @@
+{
+  "statute": {
+    "id": "e983f0c9-794d-47dc-bd2f-45ab06d18e9b",
+    "node_type": "Statute",
+    "publisher": "finlex",
+    "title": "Laki perhe-eläkelain muuttamisesta",
+    "text": "Laki perhe-eläkelain muuttamisesta",
+    "statute_id": "38/1969",
+    "finlex_url": "https://finlex.fi/fi/laki/ajantasa/38/1969"
+  },
+  "chapters": [],
+  "sections": [
+    {
+      "id": "49e9767d-900c-4dfe-b419-40d6c2868816",
+      "node_type": "Section",
+      "publisher": "finlex",
+      "title": "28 §",
+      "text": "Lapseneläkkeen perusmäärää ja täydennysmäärää ei makseta, jos niiden yhteismäärä olisi pienempi kuin 15 markkaa kuukaudessa.",
+      "section_number": "28",
+      "chapter_number": 1,
+      "statute_id": "38/1969"
+    },
+    {
+      "id": "010006ad-d9ef-492d-a592-b2ae9d505bad",
+      "node_type": "Section",
+      "publisher": "finlex",
+      "title": "30 §",
+      "text": "Leskeneläkkeen täydennysmäärä määräytyy 15 b, 15 d ja 15 f §:n mukaan. Eläkkeensaajan työtulosta otetaan kuitenkin vuosituloa määrättäessä huomioon vain 60 prosenttia. Työtuloksi katsotaan palkkatulo sekä se osa liike- ja ammattitulosta tai maatilataloudesta taikka muusta ansiotoiminnasta saadusta tulosta, jota on pidettävä kohtuullisena korvauksena edellä tarkoitetussa ansiotoiminnassa suoritetusta työstä. Työtuloksi katsotaan myös Tämä laki tulee voimaan 1 päivänä tammikuuta 1999. Tämän lain 15 b §:n 3 momentin 9 kohdassa tarkoitettu tapaturmavakuutuslain perusteella korvattavasta kuntoutuksesta annetun lain ja liikennevakuutuslain perusteella korvattavasta kuntoutuksesta annetun lain mukainen etuus luetaan tuloksi tämän lain mukaisesti, jos etuus alkaa 1 päivänä tammikuuta 1999 tai sen jälkeen. Jos lapsi saa eläkettä tämän lain tullessa voimaan, 28 §:n 4 momenttia sovelletaan, kun eläke muusta syystä tarkistetaan seuraavan kerran lain tultua voimaan. Jos henkilö saa leskeneläkkeen täydennysmäärää tämän lain tullessa voimaan, lasten kotihoidon ja yksityisen hoidon tuesta annetun lain mukainen lasten kotihoidon tuki ja työvoimapoliittisesta aikuiskoulutuksesta annetun lain mukainen etuus otetaan tulona huomioon, kun täydennysmäärää muusta syystä tarkistetaan perhe-eläkelain 17 §:n perusteella tämän lain tultua voimaan. Tässä laissa säädetty markkamäärä vastaa kansaneläkeindeksin sitä pistelukua, jonka mukaan vuoden 1981 maaliskuussa maksettavina olevien kansaneläkkeiden suuruus on laskettu. Ennen lain voimaantuloa voidaan ryhtyä lain täytäntöönpanon edellyttämiin toimenpiteisiin.",
+      "section_number": "30",
+      "chapter_number": 1,
+      "statute_id": "38/1969"
+    }
+  ],
+  "clauses": [
+    {
+      "id": "c68349d7-200a-4bd2-a25f-38ee998c7eb2",
+      "node_type": "Clause",
+      "publisher": "finlex",
+      "title": "§ 30 mom 4",
+      "text": "4) työmarkkinatuesta annetun lain (1542/1993) mukainen työmarkkinatuki;",
+      "clause_number": 4,
+      "section_number": "30",
+      "statute_id": "38/1969"
+    },
+    {
+      "id": "291e118a-4079-4e0d-960e-cec0801e6fcb",
+      "node_type": "Clause",
+      "publisher": "finlex",
+      "title": "§ 30 mom 5",
+      "text": "5) työkyvyttömyyden perusteella maksettava päiväraha tai tähän rinnastettava vuodelta tai sitä lyhyemmältä ajalta maksettava muu ansionmenetyksen korvaus kuin tapaturmavakuutuslain perusteella korvattavasta kuntoutuksesta annetun lain mukainen päiväraha tai liikennevakuutuslain perusteella korvattavasta kuntoutuksesta annetun lain mukainen ansionmenetyksen korvaus;",
+      "clause_number": 5,
+      "section_number": "30",
+      "statute_id": "38/1969"
+    },
+    {
+      "id": "011d2d9d-c10f-40ca-a78a-19a32e5f0c69",
+      "node_type": "Clause",
+      "publisher": "finlex",
+      "title": "§ 30 mom 6",
+      "text": "6) työvoimapoliittisesta aikuiskoulutuksesta annetun lain (763/1990) mukainen etuus sekä muu ansioiden menetystä korvaava koulutusajalta maksettava etuus; sekä",
+      "clause_number": 6,
+      "section_number": "30",
+      "statute_id": "38/1969"
+    },
+    {
+      "id": "b2b43e76-4ab8-407e-b1a9-8afa585d0eac",
+      "node_type": "Clause",
+      "publisher": "finlex",
+      "title": "§ 30 mom 7",
+      "text": "7) lasten kotihoidon ja yksityisen hoidon tuesta annetun lain mukainen kotihoidon tuen hoitoraha ja osittainen hoitoraha, yksityisen hoidon tuen hoitoraha ja hoitolisä sekä kunnalliset lisät.",
+      "clause_number": 7,
+      "section_number": "30",
+      "statute_id": "38/1969"
+    }
+  ],
+  "cross_references": [],
+  "raw_html_path": "C:\\Users\\danit\\finance-hack\\aalto-hackaton-2026\\data\\raw\\finlex\\Laki\\Laki perhe-eläkelain muuttamisesta_7.html"
+}

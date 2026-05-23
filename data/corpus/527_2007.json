@@ -1,0 +1,138 @@
+{
+  "statute": {
+    "id": "18a7bafe-d7a7-42c7-a06f-c551d400b0e5",
+    "node_type": "Statute",
+    "publisher": "finlex",
+    "title": "Laki luottotietolain muuttamisesta",
+    "text": "Laki luottotietolain muuttamisesta",
+    "statute_id": "527/2007",
+    "finlex_url": "https://finlex.fi/fi/laki/ajantasa/527/2007"
+  },
+  "chapters": [],
+  "sections": [
+    {
+      "id": "da3505ac-d066-4171-aa48-a6ee4a08658d",
+      "node_type": "Section",
+      "publisher": "finlex",
+      "title": "13 § Maksuhäiriötiedot ja niitä täydentävät tiedot",
+      "text": "Luottotietorekisteriin saa henkilöluottotietoina tallettaa:",
+      "section_number": "13",
+      "chapter_number": 1,
+      "statute_id": "527/2007"
+    },
+    {
+      "id": "8588a2a3-a00f-4a9a-94e7-5061fd4b4f8c",
+      "node_type": "Section",
+      "publisher": "finlex",
+      "title": "18 § Maksuhäiriömerkintöjen ja luokitustietojen säilyttämisajat",
+      "text": "Luottotietorekisteriin merkityt maksuhäiriötiedot on poistettava luottotietorekisteristä seuraavasti:",
+      "section_number": "18",
+      "chapter_number": 1,
+      "statute_id": "527/2007"
+    },
+    {
+      "id": "5471d8f3-24c7-4971-8c9a-5eedb61d40c5",
+      "node_type": "Section",
+      "publisher": "finlex",
+      "title": "24 § Yrityksen maksuhäiriöitä koskevat ja niitä täydentävät tiedot",
+      "text": "Yrityksen maksuhäiriötietoinasaa luottotietorekisteriin tallettaa:",
+      "section_number": "24",
+      "chapter_number": 1,
+      "statute_id": "527/2007"
+    },
+    {
+      "id": "b09e11f1-c75d-40d0-b4e7-9349c50941d3",
+      "node_type": "Section",
+      "publisher": "finlex",
+      "title": "28 § Rekisterimerkintöjen säilyttämisajat",
+      "text": "Yritysluottotietorekisteristä on poistettava tiedot seuraavasti: Tämä laki tulee voimaan 1 päivänä huhtikuuta 2010. Luottotietotoiminnan harjoittajan on poistettava lain voimaan tullessa luottotietorekisterissä olevat ulosottokaaren 1 luvun 32 §:n muuttamisesta annetun lain (932/2009) voimaantulosäännöksen 3 momentissa tarkoitetut tiedot välittömästi ulosottomiehen ilmoituksen jälkeen tai rekisteröidyn toimittaman selvityksen perusteella. Luottotietotoiminnan harjoittajan on poistettava myös lain voimaan tullessa luottotietorekisterissä oleva maksuhäiriötieto, jos rekisteröity osoittaa, että tieto perustuu tuomioistuimessa vahvistettuun sovintoon tai että maksuohjelma on määrätty raukeamaan hänen hakemuksestaan ja raukeamismääräyksen antamisesta on kulunut vähintään kolme kuukautta.",
+      "section_number": "28",
+      "chapter_number": 1,
+      "statute_id": "527/2007"
+    }
+  ],
+  "clauses": [
+    {
+      "id": "3ccd57c4-2f88-434a-a2e5-3dd6595a2558",
+      "node_type": "Clause",
+      "publisher": "finlex",
+      "title": "§ 13 mom 1",
+      "text": "4)ulosottotietoinatiedot asiakohtaisesti eriteltyinä sellaisesta ulosottoasiasta, jossa on annettu estetodistus tai tieto ulosottokaaren 1 luvun 32 §:n 1 momentissa tarkoitetusta pitkäkestoisesta ulosotosta;",
+      "clause_number": 1,
+      "section_number": "13",
+      "statute_id": "527/2007"
+    },
+    {
+      "id": "8a050fc0-6966-43ea-b68f-81fe8f059851",
+      "node_type": "Clause",
+      "publisher": "finlex",
+      "title": "§ 18 mom 2",
+      "text": "2) velkajärjestelytiedot ja kuulutustiedot kuukauden kuluessa siitä, kun niitä vastaavat merkinnät on poistettu siitä viranomaisen rekisteristä, josta tiedot ovat peräisin; velkajärjestelytiedot, joita koskeva maksuohjelma on määrätty raukeamaan velallisen hakemuksesta, poistetaan kuitenkin kolmen kuukauden kuluessa siitä, kun velallinen osoittaa, että maksuohjelma on rauennut;",
+      "clause_number": 2,
+      "section_number": "18",
+      "statute_id": "527/2007"
+    },
+    {
+      "id": "2dc99f13-f5ae-42ea-9929-42454da2f61a",
+      "node_type": "Clause",
+      "publisher": "finlex",
+      "title": "§ 18 mom 3",
+      "text": "3) ulosottotieto heti, kun ulosottomies on tehnyt peruuttamisilmoituksen, joka koskee pitkäkestoista tai aiheetonta ulosottoa;",
+      "clause_number": 3,
+      "section_number": "18",
+      "statute_id": "527/2007"
+    },
+    {
+      "id": "83d424f1-40bc-4aac-8b06-38c9d6b16cb1",
+      "node_type": "Clause",
+      "publisher": "finlex",
+      "title": "§ 18 mom 4",
+      "text": "4) muu ulosottotieto heti, kun rekisterinpitäjä on saanut tiedon siitä, että ulosottoperuste on kumottu, velallinen on maksanut suppeassa ulosotossa perittävänä olleen velan, saatavaa koskevan ulosottoperusteen määräaika on kulunut umpeen tai tuomio, jolla ulosottoperusteen määräaikaa on jatkettu, on kumottu;",
+      "clause_number": 4,
+      "section_number": "18",
+      "statute_id": "527/2007"
+    },
+    {
+      "id": "48321255-84c4-4bd6-bca8-256a5e1120b0",
+      "node_type": "Clause",
+      "publisher": "finlex",
+      "title": "§ 24 mom 2",
+      "text": "2) tiedot maksun laiminlyönnistä, joka on todettu tuomioistuimen lainvoimaisella tuomiolla tai yksipuolisella tuomiolla taikka rekisteröidyn hyväksymän vekselin protestilla;",
+      "clause_number": 2,
+      "section_number": "24",
+      "statute_id": "527/2007"
+    },
+    {
+      "id": "6a2f2460-8cf7-421d-b435-ae71dc7f4c82",
+      "node_type": "Clause",
+      "publisher": "finlex",
+      "title": "§ 24 mom 3",
+      "text": "3) tiedot asiakohtaisesti eriteltyinä sellaisesta ulosottoasiasta, jossa on annettu estetodistus tai tieto pitkäkestoisesta ulosotosta;",
+      "clause_number": 3,
+      "section_number": "24",
+      "statute_id": "527/2007"
+    },
+    {
+      "id": "5a3779d7-db86-491e-8b08-c1855f3b86f8",
+      "node_type": "Clause",
+      "publisher": "finlex",
+      "title": "§ 28 mom 3",
+      "text": "3) ulosottotieto heti, kun ulosottomies on tehnyt peruuttamisilmoituksen, joka koskee pitkäkestoista tai aiheetonta ulosottoa;",
+      "clause_number": 3,
+      "section_number": "28",
+      "statute_id": "527/2007"
+    },
+    {
+      "id": "d47b0392-de85-42a3-9ebb-15201e5b7568",
+      "node_type": "Clause",
+      "publisher": "finlex",
+      "title": "§ 28 mom 4",
+      "text": "4) muu ulosottotieto heti, kun rekisterinpitäjä on saanut tiedon siitä, että ulosottoperuste on kumottu tai velallinen on maksanut velan, jota perittiin suppeassa ulosotossa;",
+      "clause_number": 4,
+      "section_number": "28",
+      "statute_id": "527/2007"
+    }
+  ],
+  "cross_references": [],
+  "raw_html_path": "C:\\Users\\danit\\finance-hack\\aalto-hackaton-2026\\data\\raw\\finlex\\Laki\\Laki luottotietolain muuttamisesta_2.html"
+}

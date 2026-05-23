@@ -1,0 +1,444 @@
+{
+  "statute": {
+    "id": "0d01a65a-382b-4e29-a732-debb7a957a32",
+    "node_type": "Statute",
+    "publisher": "finlex",
+    "title": "Mielenterveyslaki",
+    "text": "Mielenterveyslaki",
+    "statute_id": "",
+    "finlex_url": ""
+  },
+  "chapters": [
+    {
+      "id": "9c20e10c-6f06-4da7-a68c-001aea5f8bae",
+      "node_type": "Chapter",
+      "publisher": "finlex",
+      "title": "Chapter 1",
+      "text": "1 luku Yleiset säännökset",
+      "chapter_number": 1,
+      "statute_id": ""
+    },
+    {
+      "id": "5eb703de-586e-4e6e-bd21-91a245d70d60",
+      "node_type": "Chapter",
+      "publisher": "finlex",
+      "title": "Chapter 2",
+      "text": "2 luku Hoito tahdosta riippumatta",
+      "chapter_number": 2,
+      "statute_id": ""
+    },
+    {
+      "id": "c3fbbe45-9f5a-4329-a40b-84043446dd22",
+      "node_type": "Chapter",
+      "publisher": "finlex",
+      "title": "Chapter 3",
+      "text": "3 luku Rikoksesta syytetyn mielentilan tutkiminen ja hoito tahdosta riippumatta",
+      "chapter_number": 3,
+      "statute_id": ""
+    },
+    {
+      "id": "b2dc5a30-68ee-453e-a8c4-61afa4891ed1",
+      "node_type": "Chapter",
+      "publisher": "finlex",
+      "title": "Chapter 4",
+      "text": "4 luku Rangaistukseen tuomitsematta jätetyn hoito tahdosta riippumatta",
+      "chapter_number": 4,
+      "statute_id": ""
+    },
+    {
+      "id": "8d21a57a-9dc4-4a06-b5b1-d1c6e9585e8c",
+      "node_type": "Chapter",
+      "publisher": "finlex",
+      "title": "Chapter 5",
+      "text": "5 luku Erinäiset säännökset",
+      "chapter_number": 5,
+      "statute_id": ""
+    }
+  ],
+  "sections": [
+    {
+      "id": "491f7af3-bf6a-4d07-a7ca-cff05fcb2ada",
+      "node_type": "Section",
+      "publisher": "finlex",
+      "title": "1 § Mielenterveystyö",
+      "text": "Mielenterveystyöllä tarkoitetaan yksilön psyykkisen hyvinvoinnin, toimintakyvyn ja persoonallisuuden kasvun edistämistä sekä mielisairauksien ja muiden mielenterveydenhäiriöiden ehkäisemistä, parantamista ja lievittämistä. Mielenterveystyöhön kuuluvat mielisairauksia ja muita mielenterveydenhäiriöitä poteville henkilöille heidän lääketieteellisin perustein arvioitavan sairautensa tai häiriönsä vuoksi annettavat sosiaali- ja terveydenhuollon palvelut (mielenterveyspalvelut). Mielenterveystyöhön kuuluu myös väestön elinolosuhteiden kehittäminen siten, että elinolosuhteet ehkäisevät ennalta mielenterveydenhäiriöiden syntyä, edistävät mielenterveystyötä ja tukevat mielenterveyspalvelujen järjestämistä.",
+      "section_number": "1",
+      "chapter_number": 1,
+      "statute_id": ""
+    },
+    {
+      "id": "fc6842dd-991b-4869-993a-14ed613d82b3",
+      "node_type": "Section",
+      "publisher": "finlex",
+      "title": "2 § Ohjaus ja valvonta",
+      "text": "Mielenterveystyön yleinen suunnittelu, ohjaus ja valvonta kuuluu, jollei lailla ole toisin säädetty, sosiaali- ja terveysministeriön alaisena lääkintöhallitukselle kansanterveyslaissa (66/72) ja erikoissairaanhoitolaissa (1062/89) tarkoitetun toiminnan osalta sekä sosiaalihallitukselle sosiaalihuoltolaissa (710/82) tarkoitetun toiminnan osalta. Läänin alueella mielenterveystyön suunnittelu, ohjaus ja valvonta kuuluu lääninhallitukselle.",
+      "section_number": "2",
+      "chapter_number": 1,
+      "statute_id": ""
+    },
+    {
+      "id": "b0cb841d-a4a5-47c1-becb-c8c513a301a0",
+      "node_type": "Section",
+      "publisher": "finlex",
+      "title": "3 § Mielenterveyspalvelujen järjestäminen",
+      "text": "Kunnan tulee huolehtia alueellaan tässä laissa tarkoitettujen mielenterveyspalvelujen järjestämisestä osana kansanterveystyötä siten kuin kansanterveyslaissa säädetään ja osana sosiaalihuoltoa siten kuin sosiaalihuoltolaissa säädetään. Erikoissairaanhoitolaissa tarkoitetun sairaanhoitopiirin kuntainliiton tulee huolehtia erikoissairaanhoitona annettavista mielenterveyspalveluista alueellaan siten kuin sanotussa laissa ja tässä laissa säädetään. Kuntien tämän lain nojalla järjestämään toimintaan sovelletaan sosiaali- ja terveydenhuollon suunnittelusta ja valtionosuudesta annettua lakia (677/82), jollei lailla ole toisin säädetty.",
+      "section_number": "3",
+      "chapter_number": 1,
+      "statute_id": ""
+    },
+    {
+      "id": "366ce392-e501-4a0a-8584-e5059504edf8",
+      "node_type": "Section",
+      "publisher": "finlex",
+      "title": "4 § Mielenterveyspalvelujen periaatteet",
+      "text": "Kunnan tai kuntainliiton on huolehdittava siitä, että mielenterveyspalvelut järjestetään sisällöltään ja laajuudeltaan sellaisiksi kuin kunnassa tai kuntainliiton alueella esiintyvä tarve edellyttää. Mielenterveyspalvelut on ensisijaisesti järjestettävä avopalveluina sekä niin, että oma-aloitteista hoitoon hakeutumista ja itsenäistä suoriutumista tuetaan. Mielenterveyspalvelujen antaminen edellyttää toimivaa työnohjauksen järjestelmää.",
+      "section_number": "4",
+      "chapter_number": 1,
+      "statute_id": ""
+    },
+    {
+      "id": "763c44bc-6138-47ee-b167-9df3881167cb",
+      "node_type": "Section",
+      "publisher": "finlex",
+      "title": "5 § Mielenterveyspalvelujen yhteensovittaminen",
+      "text": "Mielenterveyspalvelujen järjestämisessä on sairaanhoitopiirin kuntainliiton ja sen alueella toimivien terveyskeskusten yhdessä kunnallisen sosiaalihuollon ja erityispalveluja antavien kuntainliittojen kanssa huolehdittava siitä, että mielenterveyspalveluista muodostuu toiminnallinen kokonaisuus. Mielisairautta tai muuta mielenterveyshäiriötä potevalle henkilölle on riittävän hoidon ja palvelujen ohella yhteistyössä asianomaisen kunnan sosiaalitoimen kanssa järjestettävä mahdollisuus hänen tarvitsemaansa lääkinnälliseen tai sosiaaliseen kuntoutukseen liittyvään tuki- ja palveluasumiseen siten kuin siitä on erikseen säädetty.",
+      "section_number": "5",
+      "chapter_number": 1,
+      "statute_id": ""
+    },
+    {
+      "id": "09d547aa-705c-4061-8304-6620a410200b",
+      "node_type": "Section",
+      "publisher": "finlex",
+      "title": "6 § Valtion mielisairaalassa annettava hoito",
+      "text": "Valtion mielisairaalassa suoritetaan 15§:ssä tarkoitettuja mielentilatutkimuksia, ja sinne voidaan sairaanhoitopiirin sairaalan esityksestä ottaa hoidettaviksi mielisairaita ja muita mielenterveydenhäiriöitä potevia henkilöitä, joiden hoitaminen on erityisen vaarallista tai erityisen vaikeaa. Valtion mielisairaalaan voidaan sairaanhoitopiirin sairaalan esityksestä ottaa hoidettaviksi muitakin kuin 1 momentissa tarkoitettuja mielisairaita ja muita mielenterveydenhäiriöitä potevia henkilöitä, jollei heidän hoitonsa sairaanhoitopiirin sairaalassa hoidon järjestämisen kannalta ole tarkoituksenmukaista. Päätöksen valtion mielisairaalaan ottamisesta tekee lääkintöhallitus. Kun rikoksesta syytetty on otettu hoitoon valtion mielisairaalaan, päätöksen hoidon lopettamisesta ja sairaalasta poistamisesta tekee lääkintöhallitus, siten kuin jäljempänä 17 §:ssä säädetään. Muulloin hoidon lopettamisesta ja sairaalasta poistamisesta tekee päätöksen valtion mielisairaalan ylilääkäri lääkintöhallituksen määräysten mukaisesti.",
+      "section_number": "6",
+      "chapter_number": 1,
+      "statute_id": ""
+    },
+    {
+      "id": "56232310-6699-4fa5-a67f-96193e3780c5",
+      "node_type": "Section",
+      "publisher": "finlex",
+      "title": "7 § Viittaussäännökset",
+      "text": "Valtion mielisairaaloista säädetään valtion mielisairaaloista annetussa laissa (1292/87). Valtion mielisairaaloissa, vankimielisairaaloissa ja vankeinhoitolaitoksen psykiatrisissa osastoissa annettavassa hoidossa noudatetaan soveltuvin osin tämän lain säännöksiä. Yksityisesti annettaviin mielenterveyspalveluihin sovelletaan yksityisestä terveydenhuollosta annetun lain (152/90) lisäksi tämän lain säännöksiä.",
+      "section_number": "7",
+      "chapter_number": 1,
+      "statute_id": ""
+    },
+    {
+      "id": "87812f00-ff44-4138-9eed-af4f5c41fe76",
+      "node_type": "Section",
+      "publisher": "finlex",
+      "title": "8 § Hoitoon määräämisen edellytykset",
+      "text": "Henkilö voidaan määrätä tahdostaan riippumatta psykiatriseen sairaalahoitoon vain: Alaikäinen voidaan määrätä tahdostaan riippumatta psykiatriseen sairaalahoitoon myös, jos hän on vakavan mielenterveydenhäiriön vuoksi hoidon tarpeessa siten, että hoitoon toimittamatta jättäminen olennaisesti pahentaisi hänen sairauttaan tai vakavasti vaarantaisi hänen terveyttään tai turvallisuuttaan taikka muiden henkilöiden terveyttä tai turvallisuutta ja jos mitkään muut mielenterveyspalvelut eivät sovellu käytettäviksi. Tämän momentin nojalla hoidossa olevaa alaikäistä saadaan pitää ainoastaan alaikäisille tarkoitetulla osastolla.",
+      "section_number": "8",
+      "chapter_number": 2,
+      "statute_id": ""
+    },
+    {
+      "id": "31d8b251-58d4-45bd-956d-71e03c216375",
+      "node_type": "Section",
+      "publisher": "finlex",
+      "title": "9 § Tarkkailuun ottaminen",
+      "text": "Sen selvittämiseksi, ovatko edellytykset henkilön hoitoon määräämiseen hänen tahdostaan riippumatta olemassa, hänet voidaan ottaa tarkkailuun sairaalaan. Tarkkailuun lähettämistä varten lääkärin on tutkittava potilas ja, jos hän pitää potilaan hoitoon määräämistä välttämättömänä, laadittava hänestä kirjallinen lääkärinlausunto(tarkkailulähete).Tarkkailulähetteen tulee sisältää perusteltu kannanotto siitä, ovatko edellytykset hoitoon määräämiseen todennäköisesti olemassa. Potilas voidaan ottaa enintään kolme päivää aikaisemmin tehdyn potilaan tutkimukseen perustuvan tarkkailulähetteen perusteella tarkkailuun, jos hoitoon määräämisen edellytykset todennäköisesti ovat olemassa.",
+      "section_number": "9",
+      "chapter_number": 2,
+      "statute_id": ""
+    },
+    {
+      "id": "3725b1fe-6511-4532-86ac-8067a11107c1",
+      "node_type": "Section",
+      "publisher": "finlex",
+      "title": "10 § Tarkkailu",
+      "text": "Viimeistään neljäntenä päivänä tarkkailuun ottamispäivän jälkeen tarkkailusta vastaavan lääkärin on annettava tarkkailuun otetusta kirjallinentarkkailulausunto.Jos tarkkailusta vastaava lääkäri on esteellinen tai estynyt, lausunnon antaa sairaalan muu lääkäri. Tarkkailulausunnon tulee sisältää perusteltu kannanotto siitä, ovatko edellytykset hoitoon määräämiseen tahdosta riippumatta olemassa. Jos tarkkailuaikana ilmenee, että edellytyksiä tarkkailuun otetun hoitoon määräämiseen ei ole, hänen pitämisestään tarkkailussa on heti luovuttava ja hänet poistettava sairaalasta hänen sitä halutessaan.",
+      "section_number": "10",
+      "chapter_number": 2,
+      "statute_id": ""
+    },
+    {
+      "id": "a901c633-07a0-401e-bf65-fb90194951a0",
+      "node_type": "Section",
+      "publisher": "finlex",
+      "title": "11 § Kuuleminen ja hoitoon määrääminen",
+      "text": "Ennen hoitoon määräämistä on selvitettävä tarkkailuun otetun oma mielipide. Alaikäisen tarkkailuun otetun vanhemmille, huoltajille sekä henkilölle, jonka hoidossa ja kasvatuksessa alaikäinen on ollut välittömästi ennen tarkkailuun ottamista, on mahdollisuuksien mukaan varattava tilaisuus tulla joko suullisesti tai kirjallisesti kuulluksi. Päätöksen tarkkailuun otetun määräämisestä hoitoon hänen tahdostaan riippumatta tekee sairaalan psykiatrisesta hoidosta vastaava ylilääkäri tai, jos hän on esteellinen tai estynyt, muu tehtävään määrätty ensisijaisesti psykiatrian erikoislääkäri. Päätös on tehtävä tarkkailulähetteen, tarkkailulausunnon ja sairauskertomuksen perusteella kirjallisesti viimeistään neljäntenä päivänä tarkkailuun ottamispäivän jälkeen. Päätöksen tulee sisältää perusteltu kannanotto siitä, ovatko edellytykset hoitoon määräämiseen tahdosta riippumatta olemassa. Päätös on annettava potilaalle tiedoksi viipymättä. Jos hoitoon määrätty on alaikäinen, päätös on heti alistettava lääninoikeuden vahvistettavaksi.",
+      "section_number": "11",
+      "chapter_number": 2,
+      "statute_id": ""
+    },
+    {
+      "id": "a7f5672e-fb0e-49e0-ae73-7d8f61dc160e",
+      "node_type": "Section",
+      "publisher": "finlex",
+      "title": "12 § Hoidon jatkaminen",
+      "text": "Hoitoon määrättyä saadaan 11§:ssä tarkoitetun päätöksen nojalla pitää hoidossa hänen tahdostaan riippumatta enintään kolme kuukautta. Jos ennen tämän ajan päättymistä näyttää ilmeiseltä, että hoidon jatkaminen on välttämätöntä sen jälkeenkin, mutta siitä ei päästä potilaan kanssa yhteisymmärrykseen, potilaasta on annettava uusi tarkkailulausunto sen selvittämiseksi, ovatko edellytykset hoitoon määräämiseen tahdosta riippumatta edelleen olemassa. Hoidon jatkaminen tai lopettaminen on ratkaistava 11§:ssä tarkoitetun lääkärin kirjallisella päätöksellä ennen kuin hoitoa on kestänyt kolme kuukautta. Päätös, jolla hoitoa jatketaan, on annettava potilaalle tiedoksi viipymättä ja heti alistettava lääninoikeuden vahvistettavaksi. Hoidon jatkamista koskevan päätöksen nojalla potilasta saadaan pitää hoidossa hänen tahdostaan riippumatta enintään kuusi kuukautta. Tämän jälkeen on 9 ja 10§:ssä säädetyin tavoin selvitettävä uudelleen, ovatko edellytykset hoitoon määräämiseen tahdosta riippumatta olemassa.",
+      "section_number": "12",
+      "chapter_number": 2,
+      "statute_id": ""
+    },
+    {
+      "id": "9441240c-8e73-4c22-ba8f-b95b94d29db9",
+      "node_type": "Section",
+      "publisher": "finlex",
+      "title": "13 § Omasta tahdostaan hoitoon otetun määrääminen hoitoon hänen tahdostaan riippumatta",
+      "text": "Jos sairaalaan omasta tahdostaan hoitoon otettu haluaa poistua sairaalasta ja se lääkäri, jonka tehtävänä on päättää potilaan hoidon lopettamisesta, katsoo, että edellytykset potilaan hoitoon määräämiseen hänen tahdostaan riippumatta ovat olemassa, voidaan potilas ottaa tarkkailuun. Päätöksen potilaan määräämisestä hoitoon hänen tahdostaan riippumatta tekee 11§:ssä tarkoitettu lääkäri tarkkailulausunnon perusteella viimeistään neljäntenä päivänä siitä, kun potilas on ilmoittanut haluavansa poistua sairaalasta. Jos hoitoon määrätty on alaikäinen, päätös on heti alistettava lääninoikeuden vahvistettavaksi.",
+      "section_number": "13",
+      "chapter_number": 2,
+      "statute_id": ""
+    },
+    {
+      "id": "91f09327-9c20-4570-ad81-03851c71a38e",
+      "node_type": "Section",
+      "publisher": "finlex",
+      "title": "14 § Hoidon lopettaminen ja sairaalasta poistaminen",
+      "text": "Jos hoitoon määrättyä hoidettaessa käy ilmi, että edellytyksiä hoitoon määräämiseen tahdosta riippumatta ei ole, hoito on heti lopetettava ja potilas poistettava sairaalasta hänen sitä halutessaan.",
+      "section_number": "14",
+      "chapter_number": 2,
+      "statute_id": ""
+    },
+    {
+      "id": "34a5c825-07f0-4abb-a105-929887577e02",
+      "node_type": "Section",
+      "publisher": "finlex",
+      "title": "15 § Sairaalaan ottaminen mielentilatutkimusta varten",
+      "text": "Jos tuomioistuin oikeudenkäymiskaaren 17 luvun 45§:n nojalla määrää rikoksesta syytetyn mielentilan tutkittavaksi, rikoksesta syytetty saadaan sen estämättä, mitä tämän lain 2 luvussa säädetään, ottaamielentilatutkimustavarten sairaalaan ja pitää sairaalassa tahdostaan riippumatta.",
+      "section_number": "15",
+      "chapter_number": 3,
+      "statute_id": ""
+    },
+    {
+      "id": "b0a0dbe0-3f2b-4f84-a7cf-697effaa8da2",
+      "node_type": "Section",
+      "publisher": "finlex",
+      "title": "16 § Mielentilatutkimus",
+      "text": "Tuomioistuimen on määrättyään rikoksesta syytetyn mielentilatutkimukseen viipymättä toimitettava asiakirjat lääkintöhallitukselle. Lääkintöhallitus määrää, missä mielentilatutkimus suoritetaan ja, jos se suoritetaan sairaalan ulkopuolella, kuka sen suorittaa. Mielentilatutkimus on toimitettava ja lausunto rikoksesta syytetyn mielentilasta annettava lääkintöhallitukselle viimeistään kahden kuukauden kuluttua mielentilatutkimuksen aloittamisesta. Lääkintöhallitus voi perustellusta syystä pidentää tutkimusaikaa enintään kahdella kuukaudella. Lääkintöhallitus antaa saamansa lausunnon perusteella oman lausuntonsa rikoksesta syytetyn mielentilasta tuomioistuimelle.",
+      "section_number": "16",
+      "chapter_number": 3,
+      "statute_id": ""
+    },
+    {
+      "id": "75440c57-19de-47b3-b45d-740b1dbb1331",
+      "node_type": "Section",
+      "publisher": "finlex",
+      "title": "17 § Hoito tahdosta riippumatta mielentilatutkimuksen jälkeen",
+      "text": "Jos edellytykset rikoksesta syytetyn määräämiseen hoitoon hänen tahdostaan riippumatta ovat olemassa, kun mielentilatutkimus on toimitettu, lääkintöhallituksen on määrättävä hänet hoitoon hänen tahdostaan riippumatta. Hoitoon määrättyä saadaan lääkintöhallituksen päätöksen nojalla pitää hoidossa hänen tahdostaan riippumatta enintään kuusi kuukautta. Jos ennen tämän ajan päättymistä näyttää ilmeiseltä, että hoidon jatkaminen on välttämätöntä sen jälkeenkin, mutta siitä ei päästä potilaan kanssa yhteisymmärrykseen, potilaasta on annettava tarkkailulausunto sen selvittämiseksi, ovatko edellytykset hoitoon määräämiseen tahdosta riippumatta edelleen olemassa. Hoidon jatkaminen tai lopettaminen on ratkaistava 11§:ssä tarkoitetun lääkärin kirjallisella päätöksellä ennen kuin hoitoa on kestänyt kuusi kuukautta. Päätös on heti alistettava lääkintöhallituksen vahvistettavaksi. Hoidon jatkamista koskevan päätöksen nojalla potilasta saadaan pitää hoidossa hänen tahdostaan riippumatta enintään kuusi kuukautta. Tämän jälkeen on selvitettävä uudelleen, ovatko edellytykset hoitoon määräämiseen tahdosta riippumatta olemassa. Päätöksen hoidon jatkamisesta tai lopettamisesta tekee lääkintöhallitus. Hoidon lopettamisesta on voimassa, mitä 14§:ssä säädetään.",
+      "section_number": "17",
+      "chapter_number": 3,
+      "statute_id": ""
+    },
+    {
+      "id": "ed2ba920-0fef-45d5-8af8-06ccb4df784f",
+      "node_type": "Section",
+      "publisher": "finlex",
+      "title": "18 § Sairaalasta poistaminen mielentilatutkimuksen jälkeen",
+      "text": "Jos mielentilatutkimuksen perusteella on ilmeistä, että edellytyksiä rikoksesta syytetyn hoitoon määräämiseen hänen tahdostaan riippumatta ei ole, hänet saadaan lääkintöhallituksen suostumuksella poistaa hänen sitä halutessaan sairaalasta jo ennen kuin lääkintöhallituksen lausunto on annettu. Jos lääkintöhallitus 16§:n 3 momentissa tarkoitetussa lausunnossaan toteaa, että edellytyksiä rikoksesta syytetyn hoitoon määräämiseen hänen tahdostaan riippumatta ei ole, hänet on hänen sitä halutessaan viipymättä poistettava sairaalasta.",
+      "section_number": "18",
+      "chapter_number": 3,
+      "statute_id": ""
+    },
+    {
+      "id": "943b713e-8e94-47b2-a019-043a67f8a6ea",
+      "node_type": "Section",
+      "publisher": "finlex",
+      "title": "19 § Rikoksesta syytetyn kehitysvammaisen erityishuolto",
+      "text": "Jos lääkintöhallitus 18§:n 2 momentissa tarkoitetussa tapauksessa toteaa, että kehitysvammaisten erityishuollosta annetun lain (519/77) 32§:n 1 momentissa säädetyt edellytykset vastoin tahtoa annettavaan erityishuoltoon saattavat olla olemassa, lääkintöhallituksen on siirrettävä asia sosiaalihallituksen ratkaistavaksi. Sosiaalihallituksen päätös vastaa tällöin kehitysvammaisten erityishuollosta annetun lain 33§:n 3 momentissa tarkoitettua erityishuollon johtoryhmän päätöstä. Päätöstä ei kuitenkaan alisteta lääninoikeuden vahvistettavaksi. Jos sosiaalihallitus erityishuollon johtoryhmän esityksestä katsoo, että kehitysvammaisten erityishuollosta annetun lain 32§:n 1 momentissa säädettyjä edellytyksiä vastoin tahtoa annettavaan erityishuoltoon ei enää ole, erityishuolto on heti lopetettava ja potilas poistettava erityishuoltoa antavasta toimintayksiköstä hänen sitä halutessaan.",
+      "section_number": "19",
+      "chapter_number": 3,
+      "statute_id": ""
+    },
+    {
+      "id": "aac9ca46-259a-4024-a0c3-d16227840c4c",
+      "node_type": "Section",
+      "publisher": "finlex",
+      "title": "20 § Ilmoittamisvelvollisuus",
+      "text": "Jos 17 tai 18§:ssä tarkoitettu sairaalasta tai 19§:ssä tarkoitettu kehitysvammaisten erityishuoltoa antavasta toimintayksiköstä poistettava henkilö on vangittu tai suorittaa vankeusrangaistusta, poistamisajankohdasta on etukäteen ilmoitettava siihen laitokseen, johon hän palaa säilytettäväksi tai suorittamaan vankeusrangaistusta.",
+      "section_number": "20",
+      "chapter_number": 3,
+      "statute_id": ""
+    },
+    {
+      "id": "88c6d52c-4638-44ed-8070-71982467eb24",
+      "node_type": "Section",
+      "publisher": "finlex",
+      "title": "21 § Rangaistukseen tuomitsematta jätetyn henkilön psykiatrisen sairaanhoidon tarpeen selvittäminen",
+      "text": "Jos tuomioistuin jättää rikoksesta syytetyn mielentilan vuoksi rangaistukseen tuomitsematta, tuomioistuin voi saattaa kysymyksen hänen psykiatrisen sairaanhoidon tarpeestaan lääkintöhallituksen selvitettäväksi. Tuomioistuin voi samalla määrätä hänet säilytettäväksi vankilassa, kunnes lääkintöhallituksen päätös on annettu. Jos rangaistukseen tuomitsematta jätetyn henkilön psykiatrisen sairaanhoidon tarpeen selvittämiseksi on välttämätöntä, lääkintöhallitus voi määrätä hänet enintään 30 päiväksi sairaalaan tutkittavaksi.",
+      "section_number": "21",
+      "chapter_number": 4,
+      "statute_id": ""
+    },
+    {
+      "id": "6ac2eeb1-53e6-4d19-936f-791c5223fe2c",
+      "node_type": "Section",
+      "publisher": "finlex",
+      "title": "22 § Rangaistukseen tuomitsematta jätetyn hoito hänen tahdostaan riippumatta",
+      "text": "Jos lääkintöhallitus toteaa, että edellytykset mielentilan vuoksi rangaistukseen tuomitsematta jätetyn hoitoon määräämiseen hänen tahdostaan riippumatta ovat olemassa, lääkintöhallituksen on määrättävä hänet hoitoon hänen tahdostaan riippumatta. Hoidossa pitämisestä ja hoidon jatkamisesta on voimassa, mitä 17§:ssä säädetään. Jos lääkintöhallitus toteaa, että edellytyksiä mielentilan vuoksi rangaistukseen tuomitsematta jätetyn hoitoon määräämiseen hänen tahdostaan riippumatta ei ole, hänet on hänen niin halutessaan viipymättä poistettava sairaalasta tai hänen säilyttämisensä vankilassa välittömästi lopetettava. Jos lääkintöhallitus 2 momentissa tarkoitetussa tapauksessa toteaa, että kehitysvammaisten erityishuollosta annetun lain 32§:n 1 momentissa säädetyt edellytykset vastoin tahtoa annettavaan erityishuoltoon saattavat olla olemassa, lääkintöhallituksen on siirrettävä asia sosiaalihallituksen ratkaistavaksi. Sosiaalihallituksen päätöksestä ja erityishuollon lopettamisesta on voimassa, mitä 19§:ssä säädetään.",
+      "section_number": "22",
+      "chapter_number": 4,
+      "statute_id": ""
+    },
+    {
+      "id": "788ab96e-11d2-47a6-921f-7256dfa06d99",
+      "node_type": "Section",
+      "publisher": "finlex",
+      "title": "23 § Esteellisyys",
+      "text": "Tarkkailulähetteen laativan ja tarkkailulausunnon antavan lääkärin sekä hoitoon määräämisestä päättävän lääkärin esteellisyydestä on voimassa, mitä hallintomenettelylain (598/82) 10 ja 11§:ssä säädetään. Tarkkailulausuntoa ei saa antaa sama lääkäri, joka on laatinut tarkkailulähetteen. Hoitoon määräämisestä ei saa päättää sama lääkäri, joka on laatinut tarkkailulähetteen tai antanut tarkkailulausunnon.",
+      "section_number": "23",
+      "chapter_number": 5,
+      "statute_id": ""
+    },
+    {
+      "id": "f9687f03-3b23-4c4d-a36a-781c62eb7701",
+      "node_type": "Section",
+      "publisher": "finlex",
+      "title": "24 § Muutoksenhaku",
+      "text": "Sairaalan lääkärin päätökseen, joka koskee henkilön määräämistä hoitoon tai hoidon jatkamista hänen tahdostaan riippumatta, saa hakea muutosta valittamalla lääninoikeuteen 14 päivän kuluessa päätöksen tiedoksisaannista. Sairaalan lääkärin 17§:n 2 momentissa tarkoitetussa tapauksessa tekemään päätökseen, joka koskee hoidon jatkamista potilaan tahdosta riippumatta, haetaan kuitenkin muutosta valittamalla lääkintöhallitukseen 14 päivän kuluessa päätöksen tiedoksisaannista. Muutoksenhausta on muutoin voimassa, mitä muutoksenhausta hallintoasioissa annetussa laissa (154/50) on säädetty. Lääkintöhallituksen päätökseen, joka koskee henkilön määräämistä hoitoon tai hoidon jatkamista hänen tahdostaan riippumatta taikka 21§:ssä tarkoitetussa tapauksessa määräämistä sairaalaan tutkittavaksi, sekä sosiaalihallituksen päätökseen, joka koskee erityishuollon antamista vastoin tahtoa, samoin kuin lääninoikeuden ja lääkintöhallituksen 1 momentissa tarkoitetussa asiassa antamaan päätökseen haetaan muutosta korkeimmalta hallinto-oikeudelta siten kuin muutoksenhausta hallintoasioissa annetussa laissa on säädetty. Valitus 1 momentissa tarkoitetusta päätöksestä voidaan valitusviranomaiselle osoitettuna antaa valitusajan kuluessa myös sairaalaan sen psykiatrisesta hoidosta vastaavalle ylilääkärille tai muulle tehtävään määrätylle henkilölle. Valituskirjelmän vastaanottamisesta on annettava todistus ja valituskirjelmään tehtävä merkintä sen antajasta ja antamisajasta. Ylilääkärin on lähetettävä valituskirjelmä, valituksenalaisen päätöksen perusteena olevat asiakirjat ja valituksen johdosta antamansa lausunto viipymättä valitusviranomaiselle. Alaikäisen hoitoon määräämistä koskevaan 1-3 momentissa tarkoitettuun päätökseen saa hakea muutosta 12 vuotta täyttänyt alaikäinen itse, hänen vanhempansa ja huoltajansa sekä henkilö, jonka hoidossa ja kasvatuksessa alaikäinen on välittömästi ennen hoitoon määräämistä ollut.",
+      "section_number": "24",
+      "chapter_number": 5,
+      "statute_id": ""
+    },
+    {
+      "id": "ab0d7137-c33f-4b41-94bd-db22dd76c043",
+      "node_type": "Section",
+      "publisher": "finlex",
+      "title": "25 § Täytäntöönpano ja sen keskeyttäminen",
+      "text": "Tahdosta riippumatta annettavaan hoitoon määräämistä tai sellaisen hoidon jatkamista koskeva päätös pannaan täytäntöön heti alistuksesta tai muutoksenhausta huolimatta. Kun päätös on alistettu tai päätökseen haettu muutosta, alistus- tai muutoksenhakuviranomainen voi kieltää päätöksen täytäntöönpanon tai määrätä sen keskeytettäväksi.",
+      "section_number": "25",
+      "chapter_number": 5,
+      "statute_id": ""
+    },
+    {
+      "id": "71a7d1c0-5344-43af-9fdc-895bb0bf50e7",
+      "node_type": "Section",
+      "publisher": "finlex",
+      "title": "26 § Käsittelyn kiireellisyys",
+      "text": "Tahdosta riippumatta annettavaa hoitoa koskevat alistus- ja muutoksenhakuasiat sekä mielentilatutkimusta koskevat asiat on käsiteltävä kiireellisinä.",
+      "section_number": "26",
+      "chapter_number": 5,
+      "statute_id": ""
+    },
+    {
+      "id": "5b0a5c53-3c2f-4a77-8735-ee0bbbc079ff",
+      "node_type": "Section",
+      "publisher": "finlex",
+      "title": "27 § Hoitoon määrätyn avustaminen lääninoikeudessa",
+      "text": "Jos tahdostaan riippumatta hoitoon määrätty ilmoittaa haluavansa avustajan, eikä hän sitä sairautensa vuoksi voi itse hankkia, tai jos lääninoikeus harkitsee sen määräämisen muutoin tarpeelliseksi, lääninoikeus voi määrätä hänelle avustajan. Maksuttomasta oikeudenkäynnistä lääninoikeudessa käsiteltävässä hoitoon määräämistä koskevassa asiassa säädetään maksuttomasta oikeudenkäynnistä annetussa laissa (87/73). Jos lääninoikeus määrää avustajan, vaikka hoitoon määrätty ei ole ilmoittanut sitä haluavansa, on avustajan määräämisestä soveltuvin osin ja avustajalle tulevasta palkkiosta ja korvauksesta voimassa, mitä maksuttomasta oikeudenkäynnistä annetussa laissa säädetään, riippumatta siitä, onko hoitoon määrätylle myönnetty tai myönnetäänkö hänelle maksuton oikeudenkäynti vai ei.",
+      "section_number": "27",
+      "chapter_number": 5,
+      "statute_id": ""
+    },
+    {
+      "id": "f1273fd5-0214-4424-8970-5308105a832b",
+      "node_type": "Section",
+      "publisher": "finlex",
+      "title": "28 § Itsemääräämisoikeuden rajoitukset",
+      "text": "Tarkkailuun otetun tai hoitoon määrätyn itsemääräämisoikeutta saa rajoittaa ja häneen kohdistaa pakkoa vain siinä määrin kuin sairauden hoito tai hänen turvallisuutensa tai toisen henkilön turvallisuus välttämättä vaatii. Sairaalan ylilääkärillä tai muulla vastaavalla lääkärillä on oikeus tarkastaa tai tarkastuttaa sekä pidättää tarkkailuun otetulle tai hoitoon määrätylle saapuva kirje tai muu lähetys, jos järjestys tai turvallisuus sitä välttämättä vaatii taikka jos on perusteltua aihetta epäillä lähetyksen sisältävän päihteitä tai huumausaineita. Sairaalan toimintaa valvovien viranomaisten, lainkäyttöviranomaisten sekä oikeusavustajan tarkkailuun otetulle tai hoitoon määrätylle osoittamat lähetykset on viipymättä toimitettava tarkastamattomina perille.",
+      "section_number": "28",
+      "chapter_number": 5,
+      "statute_id": ""
+    },
+    {
+      "id": "8daafeba-6f92-4650-8ba8-8c262b8aa830",
+      "node_type": "Section",
+      "publisher": "finlex",
+      "title": "29 § Terveyskeskuslääkärin toimintavelvollisuus",
+      "text": "Jos on syytä epäillä, että edellytykset terveyskeskuksen toimialueella asuvan tai oleskelevan hoitoon määräämiseen hänen tahdostaan riippumatta ovat olemassa, terveyskeskuksen vastaavan lääkärin tai hänen määräämänsä lääkärin on tarvittaessa laadittava hänestä tarkkailulähete ja toimitettava hänet sairaalaan.",
+      "section_number": "29",
+      "chapter_number": 5,
+      "statute_id": ""
+    },
+    {
+      "id": "702fc98c-2fdd-4b80-8690-e1a9d84d2e7d",
+      "node_type": "Section",
+      "publisher": "finlex",
+      "title": "30 § Poliisin toimintavelvollisuus",
+      "text": "Tavatessaan henkilön, joka todennäköisesti voidaan määrätä hoitoon hänen tahdostaan riippumatta, tai saatuaan tietää tällaisesta henkilöstä, poliisin on ilmoitettava asiasta terveyskeskukseen. Erittäin kiireellisessä tapauksessa poliisi on velvollinen toimittamaan hänet heti terveyskeskukseen tutkittavaksi.",
+      "section_number": "30",
+      "chapter_number": 5,
+      "statute_id": ""
+    },
+    {
+      "id": "db4f3ffa-7460-4459-aea9-cdf2ebe3a1ca",
+      "node_type": "Section",
+      "publisher": "finlex",
+      "title": "31 § Poliisin virka-apu",
+      "text": "Jos terveyskeskuksen tai sairaanhoitopiirin lääkäri katsoo, että 8§:ssä tarkoitetun henkilön kuljettamisessa terveyskeskukseen, sairaalaan tai muuhun sairaanhoidon toimintayksikköön tarvitaan kuljetettavan väkivaltaisuuden tai muun vastaavan syyn vuoksi terveydenhuoltoalan ammattikoulutuksen saaneen saattajan lisäksi muukin saattaja, poliisi on velvollinen avustamaan kuljetuksessa. Jos tarkkailuun otettu tai hoitoon määrätty poistuu sairaalasta ilman lupaa, poliisi on velvollinen antamaan virka-apua hänen palauttamisekseen sairaalaan. Jos henkilö, joka voidaan mielentilatutkimusta varten ottaa sairaalaan, jää tutkimukseen määrättynä päivänä saapumatta, poliisi on velvollinen antamaan virka-apua hänen toimittamisekseen sairaalaan.",
+      "section_number": "31",
+      "chapter_number": 5,
+      "statute_id": ""
+    },
+    {
+      "id": "aa7e5dbe-903a-4b8e-8eac-b74940779476",
+      "node_type": "Section",
+      "publisher": "finlex",
+      "title": "32 § Mielentilatutkimusten suorittaminen",
+      "text": "Kunnallisen sairaalan tai sairaanhoidon toimintayksikön on toimitettava mielentilatutkimuksia ensisijaisesti henkilölle, jolla on väestökirjalain (141/69) mukainen kotipaikka sairaalaa ylläpitävässä kunnassa, sekä sellaiselle kyseisessä kunnassa oleskelevalle Suomen kansalaiselle, jolla ei ole Suomessa väestökirjalain mukaista kotipaikkaa. Kustannukset mielentilatutkimuksista suoritetaan valtion varoista.",
+      "section_number": "32",
+      "chapter_number": 5,
+      "statute_id": ""
+    },
+    {
+      "id": "8e9e6594-47ab-48e0-992f-006d3af84b24",
+      "node_type": "Section",
+      "publisher": "finlex",
+      "title": "33 § Mielentilatutkimuksessa olleen matkat kotipaikkaan",
+      "text": "Jos mielentilatutkimukseen sairaalaan otettu henkilö, joka ei ole vangittuna eikä suorittamassa vankeusrangaistusta, poistetaan 18§:ssä tarkoitetussa tapauksessa sairaalasta, sairaala on velvollinen hänen niin halutessaan järjestämään tai kustantamaan hänen matkansa väestökirjalaissa tarkoitettuun kotipaikkaan. Mitä 1 momentissa on säädetty, sovelletaan 19§:ssä tarkoitetussa tapauksessa erityishuoltoa antavaan toimintayksikköön.",
+      "section_number": "33",
+      "chapter_number": 5,
+      "statute_id": ""
+    },
+    {
+      "id": "4ca9ff6e-7657-4c5f-b294-6b8341d9f3ce",
+      "node_type": "Section",
+      "publisher": "finlex",
+      "title": "34 § Tarkemmat säännökset ja määräykset",
+      "text": "Tarkemmat säännökset tämän lain täytäntöönpanosta annetaan asetuksella. Lääkintöhallitus antaa tarvittaessa tarkempia määräyksiä ja ohjeita tahdosta riippumatta annettavan hoidon järjestämisestä. Lääkintöhallitus vahvistaa tarvittaessa tässä laissa tarkoitetuissa lausunnoissa ja päätöksissä käytettävien lomakkeiden kaavat.",
+      "section_number": "34",
+      "chapter_number": 5,
+      "statute_id": ""
+    },
+    {
+      "id": "47a985b0-148c-4491-ada6-5a8ba0b8731e",
+      "node_type": "Section",
+      "publisher": "finlex",
+      "title": "35 § Voimaantulo",
+      "text": "Tämä laki tulee voimaan 1 päivänä tammikuuta 1991. Tällä lailla kumotaan 2 päivänä toukokuuta 1952 annettu mielisairaslaki (187/52) siihen myöhemmin tehtyine muutoksineen. Ennen lain voimaantuloa tahdostaan riippumatta hoitoon määrätyn hoidon jatkamiseen ja lopettamiseen sovelletaan tämän lain säännöksiä. Hänen hoitonsa on lain voimaan tullessa lopetettava, jos 8§:ssä säädettyjä edellytyksiä hoitoon määräämiseen ei ole. Muussa tapauksessa päätös hoidon jatkamisesta tai lopettamisesta on tehtävä viimeistään 12§:n 1 momentissa tai 17§:n 2 momentissa säädetyssä ajassa hoitoon määräämisestä. Jos mielisairaslain 17§:n nojalla hoitoon määrätty on lain voimaan tullessa ollut tahdostaan riippumatta hoidossa yli kolme kuukautta, eikä hoidon jatkamisesta ole ennen lain voimaantuloa päätetty, päätös hoidon jatkamisesta tai lopettamisesta on tehtävä heti lain tultua voimaan. Ennen lain voimaantuloa voidaan ryhtyä lain täytäntöönpanon edellyttämiin toimenpiteisiin.",
+      "section_number": "35",
+      "chapter_number": 5,
+      "statute_id": ""
+    }
+  ],
+  "clauses": [
+    {
+      "id": "583d3bd9-9312-43b4-96ea-b347774cc874",
+      "node_type": "Clause",
+      "publisher": "finlex",
+      "title": "§ 8 mom 1",
+      "text": "1) jos hänen todetaan olevan mielisairas;",
+      "clause_number": 1,
+      "section_number": "8",
+      "statute_id": ""
+    },
+    {
+      "id": "117967ee-c5fd-41ce-bf6c-c64a4ca736b4",
+      "node_type": "Clause",
+      "publisher": "finlex",
+      "title": "§ 8 mom 2",
+      "text": "2) jos hän mielisairautensa vuoksi on hoidon tarpeessa siten, että hoitoon toimittamatta jättäminen olennaisesti pahentaisi hänen mielisairauttaan tai vakavasti vaarantaisi hänen terveyttään tai turvallisuuttaan taikka muiden henkilöiden terveyttä tai turvallisuutta; ja",
+      "clause_number": 2,
+      "section_number": "8",
+      "statute_id": ""
+    },
+    {
+      "id": "2e86856a-1293-4928-9608-e61709c8ce0d",
+      "node_type": "Clause",
+      "publisher": "finlex",
+      "title": "§ 8 mom 3",
+      "text": "3) jos mitkään muut mielenterveyspalvelut eivät sovellu käytettäviksi tai ovat riittämättömiä.",
+      "clause_number": 3,
+      "section_number": "8",
+      "statute_id": ""
+    }
+  ],
+  "cross_references": [],
+  "raw_html_path": "C:\\Users\\danit\\finance-hack\\aalto-hackaton-2026\\data\\raw\\finlex\\Laki (säädöskokoelma)\\Mielenterveyslaki.html"
+}

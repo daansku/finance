@@ -1,0 +1,980 @@
+{
+  "statute": {
+    "id": "e049355b-2602-48e5-bce4-2b2d59c2a69d",
+    "node_type": "Statute",
+    "publisher": "finlex",
+    "title": "Laki tuotteiden ekologiselle suunnittelulle ja energiamerkinnälle asetettavista vaatimuksista",
+    "text": "Laki tuotteiden ekologiselle suunnittelulle ja energiamerkinnälle asetettavista vaatimuksista",
+    "statute_id": "1376/1994",
+    "finlex_url": "https://finlex.fi/fi/laki/ajantasa/1376/1994"
+  },
+  "chapters": [
+    {
+      "id": "d009ba7e-1a48-4257-b7c1-fd9a218ce66a",
+      "node_type": "Chapter",
+      "publisher": "finlex",
+      "title": "Chapter 1",
+      "text": "1 luku Yleiset säännökset",
+      "chapter_number": 1,
+      "statute_id": "1376/1994"
+    },
+    {
+      "id": "d2158e0e-dde5-4cf8-8384-d4de7400d3aa",
+      "node_type": "Chapter",
+      "publisher": "finlex",
+      "title": "Chapter 2",
+      "text": "2 luku Energiaa käyttävän tuotteen ekologista suunnittelua koskevat vaatimukset",
+      "chapter_number": 2,
+      "statute_id": "1376/1994"
+    },
+    {
+      "id": "e49eb5cf-f5cb-45ba-83db-30dd753ecabf",
+      "node_type": "Chapter",
+      "publisher": "finlex",
+      "title": "Chapter 3",
+      "text": "3 luku Energiaa käyttävän tuotteen vaatimustenmukaisuus",
+      "chapter_number": 3,
+      "statute_id": "1376/1994"
+    },
+    {
+      "id": "6a5967e3-4b7b-46b2-80e8-5fa847c65dd7",
+      "node_type": "Chapter",
+      "publisher": "finlex",
+      "title": "Chapter 4",
+      "text": "4 luku Energiaa käyttävän tuotteen energiamerkintää koskevat vaatimukset",
+      "chapter_number": 4,
+      "statute_id": "1376/1994"
+    },
+    {
+      "id": "8541621e-21eb-49ca-a4f5-064defd79405",
+      "node_type": "Chapter",
+      "publisher": "finlex",
+      "title": "Chapter 5",
+      "text": "5 luku Tarkastuslaitokset",
+      "chapter_number": 5,
+      "statute_id": "1376/1994"
+    },
+    {
+      "id": "3096d575-3500-4a67-b136-97f7cd5ed2a6",
+      "node_type": "Chapter",
+      "publisher": "finlex",
+      "title": "Chapter 6",
+      "text": "6 luku Valvonta",
+      "chapter_number": 6,
+      "statute_id": "1376/1994"
+    },
+    {
+      "id": "80c3871c-7654-47b7-8a27-ce6d22ffd7d6",
+      "node_type": "Chapter",
+      "publisher": "finlex",
+      "title": "Chapter 7",
+      "text": "7 luku Pakkokeinot ja seuraamukset",
+      "chapter_number": 7,
+      "statute_id": "1376/1994"
+    },
+    {
+      "id": "aa61419e-7a91-4854-afe9-37e14312d930",
+      "node_type": "Chapter",
+      "publisher": "finlex",
+      "title": "Chapter 8",
+      "text": "8 luku Erinäiset säännökset",
+      "chapter_number": 8,
+      "statute_id": "1376/1994"
+    },
+    {
+      "id": "0bcd167e-169d-4911-9893-8f7a6a1bd236",
+      "node_type": "Chapter",
+      "publisher": "finlex",
+      "title": "Chapter 9",
+      "text": "9 luku Voimaantulo ja siirtymäsäännökset",
+      "chapter_number": 9,
+      "statute_id": "1376/1994"
+    }
+  ],
+  "sections": [
+    {
+      "id": "45cdc0be-4ffe-43aa-8990-e9e9fdfd3219",
+      "node_type": "Section",
+      "publisher": "finlex",
+      "title": "1 § Lain tarkoitus",
+      "text": "Tällä lailla säädetään energiaa käyttävien tuotteiden ekologiselle suunnittelulle ja energiamerkinnälle asetettavista vaatimuksista. Tämän lain tavoitteena on edistää kestävää kehitystä parantamalla energiatehokkuutta ja ympäristönsuojelun tasoa sekä energiahuoltovarmuutta.",
+      "section_number": "1",
+      "chapter_number": 1,
+      "statute_id": "1376/1994"
+    },
+    {
+      "id": "fdd1a41e-44f7-4eb4-bbd8-cb8a9d9e293d",
+      "node_type": "Section",
+      "publisher": "finlex",
+      "title": "2 § Lain soveltamisala",
+      "text": "Tätä lakia sovelletaan markkinoille saatettaviin ja käyttöön otettaviin energiaa käyttäviin tuotteisiin. Tätä lakia ei sovelleta liikennevälineisiin, jotka on tarkoitettu henkilöiden tai tavaroiden kuljetukseen.",
+      "section_number": "2",
+      "chapter_number": 1,
+      "statute_id": "1376/1994"
+    },
+    {
+      "id": "d1d60a61-2c53-409c-8b9f-082006a7d9bd",
+      "node_type": "Section",
+      "publisher": "finlex",
+      "title": "3 § Määritelmät",
+      "text": "Tässä laissa tarkoitetaan:",
+      "section_number": "3",
+      "chapter_number": 1,
+      "statute_id": "1376/1994"
+    },
+    {
+      "id": "93fee2a6-a22e-4105-8d2c-fa8f82183c93",
+      "node_type": "Section",
+      "publisher": "finlex",
+      "title": "4 § Valmistajan, valtuutetun edustajan, elinkeinonharjoittajan ja maahantuojan velvollisuudet",
+      "text": "Valmistajan tai tämän valtuutetun edustajan velvollisuus on varmistaa, että markkinoille saatettava tai käyttöön otettava energiaa käyttävä tuote on tämän lain vaatimusten mukainen. Jos valmistaja ei ole sijoittautunut Euroopan yhteisöön eikä sillä ole valtuutettua edustajaa, on maahantuojan tai elinkeinonharjoittajan velvollisuus varmistaa, että markkinoille saatettava tai käyttöön otettava energiaa käyttävä tuote on tämän lain vaatimusten mukainen.",
+      "section_number": "4",
+      "chapter_number": 2,
+      "statute_id": "1376/1994"
+    },
+    {
+      "id": "6750ccae-d3ae-4684-9cd8-e66ce8a5f18a",
+      "node_type": "Section",
+      "publisher": "finlex",
+      "title": "5 § Energiaa käyttävän tuotteen ekologinen suunnittelu",
+      "text": "Energiaa käyttävä tuote on suunniteltava niin, että tuotteella on mahdollisimman korkea ympäristönsuojelullinen taso koko sen elinkaaren ajan.",
+      "section_number": "5",
+      "chapter_number": 2,
+      "statute_id": "1376/1994"
+    },
+    {
+      "id": "cce9d153-aebc-43fb-9666-55ed580c1018",
+      "node_type": "Section",
+      "publisher": "finlex",
+      "title": "6 § Energiaa käyttävän tuotteen yleiset ja erityiset ekologisen suunnittelun vaatimukset",
+      "text": "Energiaa käyttävän tuotteen saa saattaa markkinoille tai ottaa käyttöön, jos se täyttää ekologisen suunnittelun yleiset ja erityiset vaatimukset. Valtioneuvoston asetuksella voidaan säätää tarkemmin energiaa käyttävän tuotteen ekologisen suunnittelun yleisiin vaatimuksiin kuuluvista suunnittelun perustiedoista, tietojen antamisesta ja valmistajan muista arviointiperusteista seuraavien tuoteryhmien ja tuoteominaisuuksien osalta: Työ- ja elinkeinoministeriön asetuksella voidaan säätää tarkemmin 2 momentin 1―7 kohdassa mainittujen tuoteryhmien ja tuoteominaisuuksien osalta ekologisen suunnittelun erityisiin vaatimuksiin kuuluvista teknisistä, ympäristöllisistä ja taloudellisista seikoista. Ympäristöministeriön asetuksella voidaan säätää tarkemmin energiaa käyttävien rakennustuotteiden ekologisen suunnittelun erityisiin vaatimuksiin kuuluvista teknisistä, ympäristöllisistä ja taloudellisista seikoista.",
+      "section_number": "6",
+      "chapter_number": 2,
+      "statute_id": "1376/1994"
+    },
+    {
+      "id": "1b1e3e81-5800-4653-a64a-7639bf88161b",
+      "node_type": "Section",
+      "publisher": "finlex",
+      "title": "7 § Energiaa käyttävän tuotteen vaatimustenmukaisuuden arviointi",
+      "text": "Valmistajan tai tämän valtuutetun edustajan on ennen energiaa käyttävän tuotteen markkinoille saattamista tai käyttöön ottamista huolehdittava siitä, että energiaa käyttävälle tuotteelle suoritetaan vaatimustenmukaisuuden arviointi sen varmistamiseksi, että tuote täyttää kaikki tämän lain vaatimukset. Valtioneuvoston asetuksella voidaan säätää tarkemmin energiaa käyttävän tuotteen vaatimustenmukaisuuden osoittamisesta.",
+      "section_number": "7",
+      "chapter_number": 3,
+      "statute_id": "1376/1994"
+    },
+    {
+      "id": "f557eef7-9986-43bf-b900-e81f20d2cfe7",
+      "node_type": "Section",
+      "publisher": "finlex",
+      "title": "8 § Vaatimustenmukaisuusvakuutus",
+      "text": "Ennen kuin energiaa käyttävä tuote saatetaan markkinoille tai otetaan käyttöön, siitä on annettava vaatimustenmukaisuusvakuutus. Vaatimustenmukaisuusvakuutuksessa valmistaja tai tämän valtuutettu edustaja vakuuttaa, että energiaa käyttävä tuote on tämän lain mukainen. Vaatimustenmukaisuusvakuutuksessa ilmoitettavista tiedoista säädetään tarkemmin valtioneuvoston asetuksella.",
+      "section_number": "8",
+      "chapter_number": 3,
+      "statute_id": "1376/1994"
+    },
+    {
+      "id": "32cd2b62-1000-421c-bcf2-b852579e7c1b",
+      "node_type": "Section",
+      "publisher": "finlex",
+      "title": "9 § CE-merkintä",
+      "text": "Ennen kuin energiaa käyttävä tuote saatetaan markkinoille tai otetaan käyttöön, siihen on kiinnitettävä CE-merkintä. CE-merkinnän kiinnittämisestä vastaa valmistaja tai tämän Euroopan yhteisöön sijoittunut valtuutettu edustaja. CE-merkinnän kiinnittämisestä säädetään tiettyjen tuotteiden varustamisesta CE-merkinnällä annetussa laissa. Jos energiaa käyttävä tuote kuuluu muun lainsäädännön soveltamisalaan, jossa säädetään CE-merkinnästä, merkinnän tulee osoittaa, että tuote on myös näiden muiden säännösten mukainen.",
+      "section_number": "9",
+      "chapter_number": 3,
+      "statute_id": "1376/1994"
+    },
+    {
+      "id": "babf6932-ce15-4f0b-b235-c596dd044a60",
+      "node_type": "Section",
+      "publisher": "finlex",
+      "title": "10 § Vaatimustenmukaisuusolettama",
+      "text": "Energiaa käyttävän tuotteen oletetaan olevan vaatimusten mukainen, jos siihen on kiinnitetty CE-merkintä siten kuin tämän lain 9 §:ssä säädetään ja:",
+      "section_number": "10",
+      "chapter_number": 3,
+      "statute_id": "1376/1994"
+    },
+    {
+      "id": "02f6449e-6505-4b1a-a484-b5bf7bbd3ea5",
+      "node_type": "Section",
+      "publisher": "finlex",
+      "title": "11 § Poikkeus vaatimuksista",
+      "text": "Energiaa käyttävä tuote voidaan asettaa näytteille tai sitä voidaan esitellä messuilla, näyttelyissä tai niiden kaltaisissa tilaisuuksissa, vaikka energiaa käyttävä tuote ei ole tämän lain vaatimusten mukainen, jos energiaa käyttävässä tuotteessa näkyvällä tavalla selvästi ilmoitetaan, että sitä ei saa saattaa markkinoille tai ottaa käyttöön ennen kuin se on saatettu tämän lain vaatimusten mukaiseksi.",
+      "section_number": "11",
+      "chapter_number": 3,
+      "statute_id": "1376/1994"
+    },
+    {
+      "id": "476ec286-0d8a-4c16-916c-22a289b5433d",
+      "node_type": "Section",
+      "publisher": "finlex",
+      "title": "12 § Komponentteja ja osakokoonpanoja koskeva tiedonantovelvollisuus",
+      "text": "Valmistaja tai tämän valtuutettu edustaja, joka saattaa komponentin ja osakokoonpanon markkinoille tai ottaa sen käyttöön, on velvollinen antamaan energiaa käyttävän tuotteen valmistajalle tarvittavat tiedot komponentin tai osakokoonpanon materiaalin koostumuksesta ja energian, materiaalin tai muiden resurssien kulutuksesta, jos tällä on merkitystä ekologisen suunnittelun kannalta. Tiedonantovelvollisuudesta voidaan säätää tarkemmin valtioneuvoston asetuksella.",
+      "section_number": "12",
+      "chapter_number": 3,
+      "statute_id": "1376/1994"
+    },
+    {
+      "id": "9ab92c11-ab38-4896-b581-6c2c3c0913e0",
+      "node_type": "Section",
+      "publisher": "finlex",
+      "title": "13 § Tietojen säilyttäminen ja niiden esittäminen",
+      "text": "Valmistajan tai tämän valtuutetun edustajan on pidettävä energiaa käyttävän tuotteen vaatimustenmukaisuuden arviointiin liittyvät asiakirjat ja annetut vaatimustenmukaisuusvakuutukset saatavilla tarkastusta varten kymmenen vuoden ajan viimeisen energiaa käyttävän tuotteen valmistamisesta. Asiakirjojen on oltava valvontaviranomaisen saatavilla kymmenen päivän kuluessa valvontaviranomaisen esittämän pyynnön vastaanottamisesta. Jos valmistaja ei ole sijoittautunut Euroopan yhteisöön eikä sillä ole valtuutettua edustajaa, on maahantuojan ja elinkeinonharjoittajan velvollisuus säilyttää tuotteen vaatimustenmukaisuudesta annettava vakuutus ja tekniset asiakirjat.",
+      "section_number": "13",
+      "chapter_number": 3,
+      "statute_id": "1376/1994"
+    },
+    {
+      "id": "67c908a2-1d81-4ffd-9fbb-0cc3eb4ba552",
+      "node_type": "Section",
+      "publisher": "finlex",
+      "title": "14 § Kuluttajalle annettavat tiedot",
+      "text": "Elinkeinonharjoittajan on varmistettava, että kuluttajan saatavilla on tiedot energiaa käyttävän tuotteen kestävästä käytöstä sekä tarvittaessa myös energiaa käyttävän tuotteen ekologisesta profiilista ja ekologisen suunnittelun eduista. Valtioneuvoston asetuksella voidaan säätää tarkemmin kuluttajalle annettavista tiedoista.",
+      "section_number": "14",
+      "chapter_number": 3,
+      "statute_id": "1376/1994"
+    },
+    {
+      "id": "77db3039-b2d2-42b8-95f0-f0536ed529d2",
+      "node_type": "Section",
+      "publisher": "finlex",
+      "title": "15 § Energiaa käyttävän tuotteen energiamerkintä",
+      "text": "Energiaa käyttävään tuotteeseen on liitettävä energiamerkintä siten kuin siitä jäljempänä säädetään. Energiamerkinnällä tarkoitetaan kotitalouslaitteeseen, energiaa käyttävään rakennustuotteeseen tai muuhun energiaa käyttävään tuotteeseen kiinnitettävää energiamerkkiä ja tuotetietoihin sisällytettävää tuoteselostetta, jotka sisältävät tietoja energiaa käyttävän tuotteen energiankulutuksesta ja tarvittaessa muiden voimavarojen, kuten veden tai kemikaalien, kulutuksesta sekä energiaa käyttävän tuotteen suorituskyvystä.",
+      "section_number": "15",
+      "chapter_number": 4,
+      "statute_id": "1376/1994"
+    },
+    {
+      "id": "96195f58-088a-4ad5-9dc6-88db66809141",
+      "node_type": "Section",
+      "publisher": "finlex",
+      "title": "16 § Markkinoille saattaminen",
+      "text": "Energiaa käyttävän tuotteen valmistaja, tämän valtuutettu edustaja, maahantuoja ja elinkeinonharjoittaja vastaavat siitä, että energiamerkintää edellyttävä energiaa käyttävä tuote täyttää tässä laissa ja sen nojalla annetuissa säännöksissä energiamerkinnälle asetetut vaatimukset ennen kuin energiaa käyttävä tuote saatetaan markkinoille.",
+      "section_number": "16",
+      "chapter_number": 4,
+      "statute_id": "1376/1994"
+    },
+    {
+      "id": "20d70e7f-f81c-4a4f-b602-95412b930067",
+      "node_type": "Section",
+      "publisher": "finlex",
+      "title": "17 § Energiamerkin, tuoteselosteen ja teknisen tietoaineiston laatiminen",
+      "text": "Energiaa käyttävän tuotteen valmistajan, tämän valtuutetun edustajan, maahantuojan ja elinkeinonharjoittajan on: Ympäristöministeriön asetuksella voidaan säätää tarkemmin energiaa käyttäviä rakennustuotteita koskevista 1 momentissa säädetyistä vaatimuksista. Työ- ja elinkeinoministeriön asetuksella voidaan säätää tarkemmin muista 1 momentissa säädetyistä vaatimuksista.",
+      "section_number": "17",
+      "chapter_number": 4,
+      "statute_id": "1376/1994"
+    },
+    {
+      "id": "4cc871a8-9deb-4a10-ae01-5a21f72903eb",
+      "node_type": "Section",
+      "publisher": "finlex",
+      "title": "18 § Energiamerkin kiinnittäminen energiaa käyttävään tuotteeseen",
+      "text": "Elinkeinonharjoittajan, joka myy tai muuten tarjoaa energiaa käyttävää tuotetta kuluttajalle, on kiinnitettävä vähittäismyyntipaikassa myytävään tai muuten kuluttajalle tarjottavaan näytteille asetettuun energiaa käyttävään tuotteeseen energiamerkki selvästi ja näkyvästi.",
+      "section_number": "18",
+      "chapter_number": 4,
+      "statute_id": "1376/1994"
+    },
+    {
+      "id": "8e72ecff-4beb-42f1-a3d7-de3a01153744",
+      "node_type": "Section",
+      "publisher": "finlex",
+      "title": "19 § Etämyynnin yhteydessä kuluttajalle annettavat tiedot",
+      "text": "Elinkeinonharjoittajan on kuluttajansuojalain (38/1978) 6 luvussa tarkoitetussa etämyynnissä hyvissä ajoin ennen sopimuksen tekemistä annettava kuluttajalle energiamerkkiin ja tuoteselosteeseen sisällytettävät olennaiset tiedot. Ympäristöministeriön asetuksella voidaan säätää tarkemmin energiaa käyttäviä rakennustuotteita koskevista etämyynnin yhteydessä annettavista olennaisista tiedoista. Työ- ja elinkeinoministeriön asetuksella voidaan säätää tarkemmin muita kuin energiaa käyttäviä rakennustuotteita koskevista etämyynnin yhteydessä annettavista olennaisista tiedoista.",
+      "section_number": "19",
+      "chapter_number": 4,
+      "statute_id": "1376/1994"
+    },
+    {
+      "id": "06e4a445-55e3-4b6f-bcd5-def20246bb7c",
+      "node_type": "Section",
+      "publisher": "finlex",
+      "title": "20 § Energiamerkinnässä käytettävä kieli",
+      "text": "Energiamerkki, tuoteseloste ja lisätiedot on annettava suomen ja ruotsin kielellä. Jos energiaa käyttävää tuotetta myydään vain yksikielisessä kunnassa, riittää että tiedot annetaan enemmistön kielellä.",
+      "section_number": "20",
+      "chapter_number": 4,
+      "statute_id": "1376/1994"
+    },
+    {
+      "id": "89387301-ce10-480c-8fca-b99f1cc0d5bb",
+      "node_type": "Section",
+      "publisher": "finlex",
+      "title": "21 § Tarkastuslaitoksen hyväksyminen",
+      "text": "Ympäristöministeriö hyväksyy hakemuksesta 2 §:ssä tarkoitettujen energiaa käyttävien tuotteiden vaatimustenmukaisuuden arviointiin osallistuvat tarkastuslaitokset sekä huolehtii niiden ilmoittamisesta Euroopan yhteisöjen komissiolle sekä Euroopan unionin jäsenvaltioille ja Euroopan talousalueeseen kuuluville valtioille. Hyväksymispäätöksessä määritellään tarkastuslaitoksen pätevyysalue, vahvistetaan laitoksen valvontaan liittyvät järjestelyt sekä asetetaan muitakin laitoksen toimintaa koskevia rajoituksia ja ehtoja, joilla varmistetaan tehtävien asianmukainen suorittaminen. Tarkastuslaitos voidaan hyväksyä määräajaksi tai toistaiseksi. Euroopan talousalueeseen kuuluvan valtion hyväksymä tarkastuslaitos vastaa 1 momentissa tarkoitettua tarkastuslaitosta, jos hyväksymisessä on noudatettu 22 §:ssä säädettyä vastaavia vaatimuksia.",
+      "section_number": "21",
+      "chapter_number": 5,
+      "statute_id": "1376/1994"
+    },
+    {
+      "id": "0e982d6f-86d8-4744-aefe-821ec2bfde9f",
+      "node_type": "Section",
+      "publisher": "finlex",
+      "title": "22 § Tarkastuslaitoksen hyväksymisen edellytykset",
+      "text": "Tarkastuslaitoksen hyväksymisen edellytykset ovat: Tarkastuslaitoksen tulee olla Suomessa rekisteröity oikeushenkilö tai osa tällaista oikeushenkilöä. Tarkastuslaitoksen on osoitettava Mittatekniikan keskuksen akkreditointiyksikön tai muun akkreditointielinten tarkastuslaitoksia koskevaan vastavuoroiseen tunnustamissopimukseen kuuluvan akkreditointielimen arvioinnilla täyttävänsä 1 momentissa säädetyt edellytykset. Tarkastuslaitoksen on ilmoitettava hyväksymispäätöksen tehneelle viranomaiselle kaikista sellaisista muutoksista, joilla voi olla vaikutusta 1 momentissa mainittujen edellytysten täyttymiseen.",
+      "section_number": "22",
+      "chapter_number": 5,
+      "statute_id": "1376/1994"
+    },
+    {
+      "id": "dc13f22a-38cb-4bb7-af45-aab9b9cfb68b",
+      "node_type": "Section",
+      "publisher": "finlex",
+      "title": "23 § Tarkastuslaitoksen tehtävät",
+      "text": "Tarkastuslaitoksen tehtävänä on suorittaa 2 §:ssä tarkoitettujen energiaa käyttävien tuotteiden vaatimustenmukaisuuden osoittamiseen liittyvät tehtävät, joilla varmistetaan, että energiaa käyttävät tuotteet täyttävät niille tässä laissa ja tämän lain nojalla säädetyt vaatimukset. Tarkastuslaitos voi teettää alihankkijalla osatoimenpiteitä tässä pykälässä tarkoitettujen tehtäviensä suorittamisessa, jos alihankkija täyttää 22 §:ssä säädetyt vähimmäisvaatimukset.",
+      "section_number": "23",
+      "chapter_number": 5,
+      "statute_id": "1376/1994"
+    },
+    {
+      "id": "da9525f0-4588-408a-8e5e-17655f0d4818",
+      "node_type": "Section",
+      "publisher": "finlex",
+      "title": "24 § Tarkastuslaitostehtävien suorittaminen",
+      "text": "Tarkastuslaitoksen on suoritettava tarkastustehtävät noudattaen hyvää tarkastuskäytäntöä. Tarkastuslaitoksen tulee seurata toimialansa säännösten ja standardien kehittymistä. Tarkastuslaitosten tulee toimia yhteistyössä toimialansa muiden tarkastuslaitosten kanssa siten kuin toimintatapojen yhdenmukaisuuden varmistamiseksi on tarpeen. Tarkastuslaitoksen on tässä laissa tarkoitettuja julkisia hallintotehtäviä hoitaessaan noudatettava, mitä viranomaisten toiminnan julkisuudesta annetussa laissa (621/1999), sähköisestä asioinnista viranomaistoiminnassa annetussa laissa (13/2003), hallintolaissa (434/2003) ja kielilaissa (423/2003) säädetään.",
+      "section_number": "24",
+      "chapter_number": 5,
+      "statute_id": "1376/1994"
+    },
+    {
+      "id": "781e9f5c-5b25-40d1-a1ff-0e22716d0107",
+      "node_type": "Section",
+      "publisher": "finlex",
+      "title": "25 § Tarkastuslaitoksen valvonta ja hyväksymisen peruuttaminen",
+      "text": "Ympäristöministeriö valvoo hyväksymiään tarkastuslaitoksia. Tarkastuslaitoksen on annettava vuosittain toiminnastaan kertomus ympäristöministeriölle. Jos tarkastuslaitos ei täytä 22 §:ssä mainittuja edellytyksiä tai ei noudata 21 §:ssä tarkoitetussa päätöksessä asetettuja ehtoja taikka toimii muutoin olennaisesti säännösten ja määräysten vastaisesti, ympäristöministeriön on asetettava riittävä määräaika asian korjaamiseksi. Ympäristöministeriön on peruutettava antamansa hyväksyminen, jos tarkastuslaitos ei ole korjannut epäkohtaa annetussa määräajassa. Ympäristöministeriön on ilmoitettava Euroopan yhteisöjen komissiolle, Euroopan unionin jäsenvaltioille ja Euroopan talousalueeseen kuuluville valtioille hyväksymänsä tarkastuslaitokset sekä hyväksymisen peruutukset.",
+      "section_number": "25",
+      "chapter_number": 5,
+      "statute_id": "1376/1994"
+    },
+    {
+      "id": "34698eac-1e87-46cd-837b-10934b29a51a",
+      "node_type": "Section",
+      "publisher": "finlex",
+      "title": "26 § Valvonnan ylin johto ja ohjaus",
+      "text": "Tämän lain säännösten noudattamista koskevan valvonnan ylin johto ja ohjaus kuuluu työ- ja elinkeinoministeriölle. Energiaa käyttävien rakennustuotteiden osalta ylin johto ja ohjaus kuuluu kuitenkin ympäristöministeriölle.",
+      "section_number": "26",
+      "chapter_number": 6,
+      "statute_id": "1376/1994"
+    },
+    {
+      "id": "0831b629-9d1b-44c9-bec1-c3d89ac3091a",
+      "node_type": "Section",
+      "publisher": "finlex",
+      "title": "27 § Valvontaviranomainen",
+      "text": "Turvatekniikan keskus valvoo, että energiaa käyttävät tuotteet ovat tämän lain ja sen nojalla annettujen säännösten mukaisia.",
+      "section_number": "27",
+      "chapter_number": 6,
+      "statute_id": "1376/1994"
+    },
+    {
+      "id": "81425270-4a77-47d1-9013-eb10d7d5dd90",
+      "node_type": "Section",
+      "publisher": "finlex",
+      "title": "28 § Turvatekniikan keskuksen tiedonsaantioikeus",
+      "text": "Turvatekniikan keskuksella on oikeus saada tämän lain säännösten noudattamisen valvontaa varten välttämättömät tiedot valmistajalta, valtuutetulta edustajalta, maahantuojalta tai muulta elinkeinoharjoittajalta, joita tämän lain velvoitteet koskevat.",
+      "section_number": "28",
+      "chapter_number": 6,
+      "statute_id": "1376/1994"
+    },
+    {
+      "id": "4f91010c-9ac2-4859-b8c5-54e7200d36d6",
+      "node_type": "Section",
+      "publisher": "finlex",
+      "title": "29 § Turvatekniikan keskuksen tarkastusoikeus",
+      "text": "Turvatekniikan keskuksella on oikeus päästä alueelle, huoneistoon ja muuhun sellaiseen tilaan, jonne pääsy on tässä laissa tarkoitetun valvonnan kannalta tarpeellista, tehdä siellä tarkastuksia ja ryhtyä muihin valvonnan edellyttämiin toimenpiteisiin. Asumiseen tarkoitettuihin tiloihin valvontatoimenpiteet voidaan kuitenkin ulottaa vain, jos on syytä epäillä, että on tehty rikoslain (39/1889) 34 luvun 1, 3, 7―9 tai 10 §:ssä taikka 44 luvun 11 tai 12 §:ssä tarkoitettu rikos.",
+      "section_number": "29",
+      "chapter_number": 6,
+      "statute_id": "1376/1994"
+    },
+    {
+      "id": "dceb375c-43b8-44b9-b565-86d6674e9681",
+      "node_type": "Section",
+      "publisher": "finlex",
+      "title": "30 § Oikeus hankkia energiaa käyttävä tuote tutkittavaksi ja testattavaksi",
+      "text": "Turvatekniikan keskuksella on oikeus hankkia energiaa käyttävä tuote tutkittavakseen ja testattavakseen, jos se on tämän lain tai sen nojalla annettujen säännösten noudattamisen valvonnan kannalta tarpeellista. Turvatekniikan keskus voi käyttää tutkimuksessa, testauksessa ja vaatimustenmukaisuuden arvioinnissa apunaan ulkopuolisia asiantuntijoita. Turvatekniikan keskuksen on korvattava 1 momentissa tarkoitettu tutkittavaksi ja testattavaksi otettava energiaa käyttävä tuote käyvän hinnan mukaan, jos valmistaja, valtuutettu edustaja, maahantuoja tai elinkeinonharjoittaja sitä vaatii ja jollei tuote ole tämän lain tai sen nojalla annettujen säännösten vastainen. Jos energiaa käyttävä tuote ei täytä tässä laissa tai sen nojalla säädettyjä vaatimuksia, Turvatekniikan keskus voi velvoittaa valmistajan, valtuutetun edustajan, maahantuojan tai elinkeinonharjoittajan korvaamaan hankinnasta, tutkimuksesta ja testauksesta aiheutuneet välittömät ja tarpeelliset kustannukset käyvän hinnan mukaan.",
+      "section_number": "30",
+      "chapter_number": 6,
+      "statute_id": "1376/1994"
+    },
+    {
+      "id": "899d3293-b72c-411d-968f-380644bf6dd9",
+      "node_type": "Section",
+      "publisher": "finlex",
+      "title": "31 § Ulkopuoliselle asiantuntijalle asetetut vaatimukset",
+      "text": "Tämän lain mukaista viranomaisvalvontaa varten tutkimuksia, testauksia ja vaatimustenmukaisuuden arviointeja tekevällä asiantuntijalla tulee olla näiden tehtävien edellyttämä asiantuntemus ja pätevyys. Tällaiseen ulkopuoliseen asiantuntijaan sovelletaan virkamiehen esteellisyyttä koskevia hallintolain säännöksiä.",
+      "section_number": "31",
+      "chapter_number": 6,
+      "statute_id": "1376/1994"
+    },
+    {
+      "id": "a8a0b3c9-a0cd-4eb2-8cde-9f541b3373bb",
+      "node_type": "Section",
+      "publisher": "finlex",
+      "title": "32 § Turvatekniikan keskuksen tiedonsaantioikeus ja salassa pidettävien tietojen luovuttaminen",
+      "text": "Turvatekniikan keskuksella on oikeus viranomaisen toiminnan julkisuudesta annetussa laissa säädetyn salassapitovelvollisuuden estämättä saada tämän lain mukaista valvontaa varten tarpeellisia tietoja toisilta viranomaisilta. Viranomaisten toiminnan julkisuudesta annetussa laissa säädetyn salassapitovelvollisuuden estämättä Turvatekniikan keskus saa luovuttaa tässä laissa tarkoitettuja tehtäviä hoitaessaan saatuja salassapitovelvollisuuden piiriin kuuluvia tietoja:",
+      "section_number": "32",
+      "chapter_number": 6,
+      "statute_id": "1376/1994"
+    },
+    {
+      "id": "2cbee4b5-acb5-446a-8e01-1e3c9198be01",
+      "node_type": "Section",
+      "publisher": "finlex",
+      "title": "33 § Tarkastuslaitoksen tietojen luovuttaminen",
+      "text": "Tarkastuslaitokset ovat viranomaisten toiminnan julkisuudesta annetussa laissa säädetyn salassapitovelvollisuuden estämättä velvollisia antamaan:",
+      "section_number": "33",
+      "chapter_number": 6,
+      "statute_id": "1376/1994"
+    },
+    {
+      "id": "8aba8534-bfdd-4b6a-a5d0-bf7853cdf718",
+      "node_type": "Section",
+      "publisher": "finlex",
+      "title": "34 § Vaatimusten vastaista energiaa käyttävää tuotetta koskevat toimenpiteet",
+      "text": "Jos Turvatekniikan keskuksella on aihetta epäillä tai jos se toteaa, että energiaa käyttävä tuote tai sitä koskevat asiakirjat ja tiedot eivät ole tässä laissa säädettyjen vaatimusten mukaisia, Turvatekniikan keskus voi: Valmistajan, valtuutetun edustajan, maahantuojan tai elinkeinonharjoittajan on annettava Turvatekniikan keskukselle tämän määräämässä ajassa selvitys siitä, millä tavoin 1 momentin 1 ja 2 kohdassa tarkoitettuun rajoitukseen tai kieltoon liitetty määräys tai 1 momentin 3 kohdassa tarkoitettu vaatimus on pantu toimeen.",
+      "section_number": "34",
+      "chapter_number": 6,
+      "statute_id": "1376/1994"
+    },
+    {
+      "id": "540ba7a1-09e8-4db6-8f8c-fd9994b880a6",
+      "node_type": "Section",
+      "publisher": "finlex",
+      "title": "35 § Virka-apu",
+      "text": "Poliisi ja tulliviranomainen ovat tarvittaessa velvollisia antamaan virka-apua tämän lain säännösten noudattamisen valvomiseksi.",
+      "section_number": "35",
+      "chapter_number": 6,
+      "statute_id": "1376/1994"
+    },
+    {
+      "id": "04749fc2-6559-438c-b9cc-525f621190a7",
+      "node_type": "Section",
+      "publisher": "finlex",
+      "title": "36 § Hallinnolliset pakkokeinot",
+      "text": "Turvatekniikan keskus voi tehostaa tämän lain nojalla antamaansa kieltoa tai määräystä uhkasakolla taikka teettämis- tai keskeyttämisuhalla siten kuin siitä uhkasakkolaissa (1113/1990) säädetään.",
+      "section_number": "36",
+      "chapter_number": 7,
+      "statute_id": "1376/1994"
+    },
+    {
+      "id": "c744c739-7666-48b5-b5ce-bdf625ee74fe",
+      "node_type": "Section",
+      "publisher": "finlex",
+      "title": "37 § Rangaistussäännös",
+      "text": "Joka tahallaan tai törkeästä huolimattomuudesta on tuomittava, jollei teosta muualla laissa säädetä ankarampaa rangaistusta,energiaa käyttävien tuotteiden ekologiselle suunnittelulle ja energiamerkinnälle asetettavista vaatimuksista annetun lain rikkomisestasakkoon. Joka rikkoo 34 §:n nojalla määrättyä uhkasakolla tehostettua kieltoa tai määräystä, voidaan jättää tuomitsematta rangaistukseen samasta teosta.",
+      "section_number": "37",
+      "chapter_number": 7,
+      "statute_id": "1376/1994"
+    },
+    {
+      "id": "8557571b-7951-43a1-908b-f48ebaa872b4",
+      "node_type": "Section",
+      "publisher": "finlex",
+      "title": "38 § Maksut",
+      "text": "Tämän lain mukaisista suoritteista peritään valtiolle maksuja siten kuin valtion maksuperustelaissa (150/1992) säädetään.",
+      "section_number": "38",
+      "chapter_number": 8,
+      "statute_id": "1376/1994"
+    },
+    {
+      "id": "ab8f9359-4326-460f-9b2c-96d6967a3d44",
+      "node_type": "Section",
+      "publisher": "finlex",
+      "title": "39 § Muutoksenhaku ministeriön ja Turvatekniikan keskuksen päätökseen",
+      "text": "Ministeriön ja Turvatekniikan keskuksen tämän lain nojalla tekemään päätökseen haetaan muutosta valittamalla siten kuin hallintolainkäyttölaissa (586/1996) säädetään. Päätöstä on muutoksenhausta huolimatta noudatettava, jollei muutoksenhakuviranomainen toisin määrää.",
+      "section_number": "39",
+      "chapter_number": 8,
+      "statute_id": "1376/1994"
+    },
+    {
+      "id": "c5bee8a1-2472-4d0e-b84a-7971bde0568c",
+      "node_type": "Section",
+      "publisher": "finlex",
+      "title": "40 § Muutoksenhaku tarkastuslaitoksen päätökseen",
+      "text": "Tarkastuslaitoksen päätökseen ei saa hakea muutosta valittamalla. Tarkastuslaitoksen vaatimuksenmukaisuustodistusta tai tarkastustodistusta koskevaan päätökseen saa hakea oikaisua tarkastuslaitokselta 30 päivän kuluessa päätöksen tiedoksisaannista. Päätökseen on liitettävä oikaisuvaatimusohjeet. Tarkastuslaitoksen oikaisumenettelyssä antamaan päätökseen haetaan muutosta valittamalla hallinto-oikeuteen siten kuin hallintolainkäyttölaissa säädetään.",
+      "section_number": "40",
+      "chapter_number": 8,
+      "statute_id": "1376/1994"
+    },
+    {
+      "id": "7d0ac137-244f-4c35-b5b3-44166684ddc9",
+      "node_type": "Section",
+      "publisher": "finlex",
+      "title": "41 § Voimaantulo",
+      "text": "Tämä laki tulee voimaan 1 päivänä tammikuuta 2009. Energiamerkintää koskevia säännöksiä ei sovelleta sellaiseen energiaa käyttävään tuotteeseen, jonka tuotanto on päättynyt ja joka on saatettu markkinoille, ennen kuin kyseistä tuoteryhmää koskevaa EY:n komission energiamerkintäsäädöstä on sovellettava. Energiamerkintää koskevia säännöksiä ei sovelleta myöskään käytettynä myytävään energiaa käyttävään tuotteeseen. Ennen lain voimaantuloa voidaan ryhtyä lain täytäntöönpanon edellyttämiin toimenpiteisiin.",
+      "section_number": "41",
+      "chapter_number": 9,
+      "statute_id": "1376/1994"
+    },
+    {
+      "id": "758fdc7f-17a0-414f-a365-aaeb1318c5ac",
+      "node_type": "Section",
+      "publisher": "finlex",
+      "title": "42 § Kumoamissäännös",
+      "text": "Tällä lailla kumotaan: Jos muussa laissa tai asetuksessa viitataan tämän lain voimaan tullessa voimassa olleeseen laitteiden energiatehokkuudesta annettuun lakiin, on sen sijasta sovellettava tätä lakia.",
+      "section_number": "42",
+      "chapter_number": 9,
+      "statute_id": "1376/1994"
+    },
+    {
+      "id": "1c0d28f1-ab1a-4b4d-85e8-b31f7e860bda",
+      "node_type": "Section",
+      "publisher": "finlex",
+      "title": "43 § Voimaan jäävät säädökset",
+      "text": "Laitteiden energiatehokkuudesta annetun lain nojalla annetut seuraavat säädökset ja määräykset jäävät edelleen voimaan: Edellä 1 momentissa mainituissa säädöksissä ja määräyksissä tarkoitettuihin laitteisiin sovelletaan, mitä tässä laissa ja sen nojalla säädetään tuotteista. Vastaavasti mainituissa säädöksissä ja määräyksissä tarkoitettuun toimittajaan sovelletaan, mitä tässä laissa säädetään valmistajasta, tämän valtuutetusta edustajasta, maahantuojasta tai elinkeinonharjoittajasta.",
+      "section_number": "43",
+      "chapter_number": 9,
+      "statute_id": "1376/1994"
+    }
+  ],
+  "clauses": [
+    {
+      "id": "edcc4ed0-264c-4415-aba9-306215428346",
+      "node_type": "Clause",
+      "publisher": "finlex",
+      "title": "§ 6 mom 1",
+      "text": "1) kotitalouksissa ja toimistoissa käytettävät sähkö- ja elektroniikkalaitteet;",
+      "clause_number": 1,
+      "section_number": "6",
+      "statute_id": "1376/1994"
+    },
+    {
+      "id": "4ffd9138-398d-4b74-ab31-56745fa81f76",
+      "node_type": "Clause",
+      "publisher": "finlex",
+      "title": "§ 6 mom 2",
+      "text": "2) valaisimet, valon lähteet ja virranrajoittimet;",
+      "clause_number": 2,
+      "section_number": "6",
+      "statute_id": "1376/1994"
+    },
+    {
+      "id": "e8929635-9b59-496e-b8a1-85d5fcdd4209",
+      "node_type": "Clause",
+      "publisher": "finlex",
+      "title": "§ 6 mom 3",
+      "text": "3) sähkömoottorit, pumput ja teollisuuden energiaa käyttävät laitteet;",
+      "clause_number": 3,
+      "section_number": "6",
+      "statute_id": "1376/1994"
+    },
+    {
+      "id": "71b0c4b8-7dc4-4456-a25e-3ec7bd1d1a79",
+      "node_type": "Clause",
+      "publisher": "finlex",
+      "title": "§ 6 mom 4",
+      "text": "4) jääkaapit, pakastimet, jäähdyttimet ja kylmäsäilytyslaitteet;",
+      "clause_number": 4,
+      "section_number": "6",
+      "statute_id": "1376/1994"
+    },
+    {
+      "id": "20c7351b-1397-4137-91b3-010a3bddf83c",
+      "node_type": "Clause",
+      "publisher": "finlex",
+      "title": "§ 6 mom 5",
+      "text": "5) astianpesu- ja pyykinpesukoneet, kuivausrummut sekä pölynimurit;",
+      "clause_number": 5,
+      "section_number": "6",
+      "statute_id": "1376/1994"
+    },
+    {
+      "id": "0e6a53cb-12dd-485f-a886-63a4e04cccaa",
+      "node_type": "Clause",
+      "publisher": "finlex",
+      "title": "§ 6 mom 6",
+      "text": "6) lepovirta;",
+      "clause_number": 6,
+      "section_number": "6",
+      "statute_id": "1376/1994"
+    },
+    {
+      "id": "25bc1a3d-355b-4f6f-9989-5d52cf7552ba",
+      "node_type": "Clause",
+      "publisher": "finlex",
+      "title": "§ 6 mom 7",
+      "text": "7) energiaa käyttävät työkoneet ja työkalut;",
+      "clause_number": 7,
+      "section_number": "6",
+      "statute_id": "1376/1994"
+    },
+    {
+      "id": "2e6b515c-f332-488b-be95-b59f9b25c545",
+      "node_type": "Clause",
+      "publisher": "finlex",
+      "title": "§ 6 mom 8",
+      "text": "8) energiaa käyttävät rakennustuotteet.",
+      "clause_number": 8,
+      "section_number": "6",
+      "statute_id": "1376/1994"
+    },
+    {
+      "id": "7bbeb30c-0055-426c-a2c5-3ff3eba7ed4f",
+      "node_type": "Clause",
+      "publisher": "finlex",
+      "title": "§ 10 mom 1",
+      "text": "1) siihen on sovellettu yhdenmukaistettuja standardeja;",
+      "clause_number": 1,
+      "section_number": "10",
+      "statute_id": "1376/1994"
+    },
+    {
+      "id": "0a5045b4-eb23-4a7f-b6cb-3c7d995ed37b",
+      "node_type": "Clause",
+      "publisher": "finlex",
+      "title": "§ 10 mom 2",
+      "text": "2) sille on myönnetty yhteisön ympäristömerkki ympäristömerkin myöntämisjärjestelmästä annetun Euroopan parlamentin ja neuvoston asetuksen (EY) N:o 1980/2000 nojalla ja ympäristömerkki täyttää ekologista suunnittelua koskevat vaatimukset; tai",
+      "clause_number": 2,
+      "section_number": "10",
+      "statute_id": "1376/1994"
+    },
+    {
+      "id": "ac5211f7-82a8-4f00-962c-bf61d8f895fd",
+      "node_type": "Clause",
+      "publisher": "finlex",
+      "title": "§ 10 mom 3",
+      "text": "3) sille on myönnetty muu ympäristömerkki, joka on hyväksytty energiaa käyttävien tuotteiden ekologiselle suunnittelulle asetettavien vaatimusten puitteista annetun Euroopan parlamentin ja neuvoston direktiivissä 2005/32/EY tarkoitetussa komiteamenettelyssä.",
+      "clause_number": 3,
+      "section_number": "10",
+      "statute_id": "1376/1994"
+    },
+    {
+      "id": "a96a4b9c-5456-4fc8-938e-e76aca9927fb",
+      "node_type": "Clause",
+      "publisher": "finlex",
+      "title": "§ 17 mom 1",
+      "text": "1) huolehdittava vaatimusten mukaisen energiamerkin laatimisesta ja toimittamisesta elinkeinonharjoittajalle, joka myy tai muuten tarjoaa energiaa käyttäviä tuotteita kuluttajalle;",
+      "clause_number": 1,
+      "section_number": "17",
+      "statute_id": "1376/1994"
+    },
+    {
+      "id": "84be144e-2ed9-44ab-a552-95749ddf08e9",
+      "node_type": "Clause",
+      "publisher": "finlex",
+      "title": "§ 17 mom 2",
+      "text": "2) laadittava tuoteseloste, jonka tiedot on sisällytettävä tuote-esitteeseen; jos tuote-esitettä ei laadita, tuoteselosteen tiedot on sisällytettävä energiaa käyttävää tuotetta kuluttajalle myyvälle elinkeinonharjoittajalle tuotteen mukana toimitettaviin asiakirjoihin;",
+      "clause_number": 2,
+      "section_number": "17",
+      "statute_id": "1376/1994"
+    },
+    {
+      "id": "f9366cc0-1bcb-4995-b647-f1e0e9ffc9ae",
+      "node_type": "Clause",
+      "publisher": "finlex",
+      "title": "§ 17 mom 3",
+      "text": "3) laadittava sellainen energiaa käyttävää tuotetta koskeva tekninen tietoaineisto, jolla valvontaviranomainen voi arvioida, pitävätkö energiamerkkiin ja tuoteselosteeseen sisältyvät tiedot paikkansa; ja",
+      "clause_number": 3,
+      "section_number": "17",
+      "statute_id": "1376/1994"
+    },
+    {
+      "id": "1a94a767-4338-4e37-8c60-987b2fdd8fb3",
+      "node_type": "Clause",
+      "publisher": "finlex",
+      "title": "§ 17 mom 4",
+      "text": "4) säilytettävä tekninen tietoaineisto viiden vuoden ajan viimeisen energiaa käyttävän tuotteen valmistamisesta.",
+      "clause_number": 4,
+      "section_number": "17",
+      "statute_id": "1376/1994"
+    },
+    {
+      "id": "c0783d61-7514-469f-b99c-005a29b1d2dc",
+      "node_type": "Clause",
+      "publisher": "finlex",
+      "title": "§ 22 mom 1",
+      "text": "1) tarkastuslaitos on toiminnassaan riippumaton;",
+      "clause_number": 1,
+      "section_number": "22",
+      "statute_id": "1376/1994"
+    },
+    {
+      "id": "9f8a1d68-7c24-430b-b7d0-eb5c8576bbe5",
+      "node_type": "Clause",
+      "publisher": "finlex",
+      "title": "§ 22 mom 2",
+      "text": "2) tarkastuslaitoksella on käytössään riittävästi ammattitaitoista henkilöstöä, jonka toiminnan riippumattomuus on varmistettu tarkastuslaitostehtävien osalta;",
+      "clause_number": 2,
+      "section_number": "22",
+      "statute_id": "1376/1994"
+    },
+    {
+      "id": "b3d5385c-855f-4add-bf6f-1509591b6c0e",
+      "node_type": "Clause",
+      "publisher": "finlex",
+      "title": "§ 22 mom 3",
+      "text": "3) tarkastuslaitoksella on toiminnan edellyttämät laitteet, välineet ja järjestelmät;",
+      "clause_number": 3,
+      "section_number": "22",
+      "statute_id": "1376/1994"
+    },
+    {
+      "id": "bc2f2f0e-0247-4241-8ca2-14fc08760cef",
+      "node_type": "Clause",
+      "publisher": "finlex",
+      "title": "§ 22 mom 4",
+      "text": "4) tarkastuslaitoksella on toiminnan laatu ja laajuus huomioon ottaen riittävä vastuuvakuutus tai muu vastaava riittäväksi katsottava järjestely.",
+      "clause_number": 4,
+      "section_number": "22",
+      "statute_id": "1376/1994"
+    },
+    {
+      "id": "1be519d3-9e1b-4a46-b880-f39d0f3f3a27",
+      "node_type": "Clause",
+      "publisher": "finlex",
+      "title": "§ 32 mom 1",
+      "text": "1) syyttäjälle, poliisille ja tulliviranomaiselle rikoksen ehkäisemiseksi tai selvittämiseksi;",
+      "clause_number": 1,
+      "section_number": "32",
+      "statute_id": "1376/1994"
+    },
+    {
+      "id": "23444211-87f3-477d-9e66-e988d4e2f0fc",
+      "node_type": "Clause",
+      "publisher": "finlex",
+      "title": "§ 32 mom 2",
+      "text": "2) ympäristönsuojelu- ja kuluttajansuojaviranomaiselle, jos luovutettava asiakirja sisältää tälle viranomaiselle tarpeellisia tietoja sille kuuluvien tehtävien suorittamiseksi; sekä",
+      "clause_number": 2,
+      "section_number": "32",
+      "statute_id": "1376/1994"
+    },
+    {
+      "id": "d47a3469-9f1b-4e05-b686-4f431d4bd040",
+      "node_type": "Clause",
+      "publisher": "finlex",
+      "title": "§ 32 mom 3",
+      "text": "3) toimivaltaiselle ulkomaan viranomaiselle ja kansainväliselle toimielimelle Euroopan yhteisön säädökseen tai Suomea sitovaan kansainväliseen sopimukseen perustuvan velvoitteen toteuttamiseksi.",
+      "clause_number": 3,
+      "section_number": "32",
+      "statute_id": "1376/1994"
+    },
+    {
+      "id": "7f095265-dec8-4706-93e0-88bd6fc7ccdd",
+      "node_type": "Clause",
+      "publisher": "finlex",
+      "title": "§ 33 mom 1",
+      "text": "1) tarkastuslaitosten yhteistoiminnan kannalta tarpeellisia tietoja toisille tässä laissa tarkoitetuille tarkastuslaitoksille;",
+      "clause_number": 1,
+      "section_number": "33",
+      "statute_id": "1376/1994"
+    },
+    {
+      "id": "3f129b09-5987-4d39-9221-0454d8eeaaef",
+      "node_type": "Clause",
+      "publisher": "finlex",
+      "title": "§ 33 mom 2",
+      "text": "2) valvonnan kannalta tarpeellisia tietoja Turvatekniikan keskukselle.",
+      "clause_number": 2,
+      "section_number": "33",
+      "statute_id": "1376/1994"
+    },
+    {
+      "id": "be451345-d69b-459a-9a59-ce967c9c4f31",
+      "node_type": "Clause",
+      "publisher": "finlex",
+      "title": "§ 34 mom 1",
+      "text": "1) tilapäisesti tai pysyvästi rajoittaa energiaa käyttävän tuotteen markkinoille saattamista tai käyttöönottoa;",
+      "clause_number": 1,
+      "section_number": "34",
+      "statute_id": "1376/1994"
+    },
+    {
+      "id": "65da36ca-b625-4507-a6e1-623deac90ba2",
+      "node_type": "Clause",
+      "publisher": "finlex",
+      "title": "§ 34 mom 2",
+      "text": "2) tilapäisesti tai pysyvästi kieltää energiaa käyttävän tuotteen käyttöönoton ja tuotteen pitämisen kaupan sekä myynnin tai muun luovuttamisen;",
+      "clause_number": 2,
+      "section_number": "34",
+      "statute_id": "1376/1994"
+    },
+    {
+      "id": "88efc53b-a154-4aea-afae-48cf7926c58e",
+      "node_type": "Clause",
+      "publisher": "finlex",
+      "title": "§ 34 mom 3",
+      "text": "3) vaatia määräämällään tavalla energiaa käyttävän tuotteen valmistajan, valtuutetun edustajan, maahantuojan tai elinkeinonharjoittajan korjaamaan tuotteen puutteellisuudet niin, että energiaa käyttävä tuote, sitä koskevat asiakirjat ja siitä annettavat tiedot täyttävät tämän lain ja sen nojalla säädetyt vaatimukset;",
+      "clause_number": 3,
+      "section_number": "34",
+      "statute_id": "1376/1994"
+    },
+    {
+      "id": "6b18d548-2586-438a-a29d-1540534c8866",
+      "node_type": "Clause",
+      "publisher": "finlex",
+      "title": "§ 34 mom 4",
+      "text": "4) määrätä energiaa käyttävän tuotteen valmistajan, valtuutetun edustajan, maahantuojan tai elinkeinonharjoittajan hallussa oleva tuote hävitettäväksi, jos 1―3 kohdassa tarkoitettua kieltoa tai rajoitusta ei voida pitää riittävänä; jos energiaa käyttävän tuotteen hävittämistä ei kuitenkaan katsota tarkoituksenmukaiseksi, Turvatekniikan keskus voi määrätä, miten energiaa käyttävän tuotteen kanssa on muutoin meneteltävä.",
+      "clause_number": 4,
+      "section_number": "34",
+      "statute_id": "1376/1994"
+    },
+    {
+      "id": "9d1eb598-5654-4896-bd06-adbb3168b0ac",
+      "node_type": "Clause",
+      "publisher": "finlex",
+      "title": "§ 37 mom 1",
+      "text": "1) saattaa energiaa käyttävän tuotteen markkinoille tai ottaa sen käyttöön 4, 6―9 tai 16 §:n säännösten vastaisesti,",
+      "clause_number": 1,
+      "section_number": "37",
+      "statute_id": "1376/1994"
+    },
+    {
+      "id": "97706eb9-adf1-411c-85f5-c5851d0dde89",
+      "node_type": "Clause",
+      "publisher": "finlex",
+      "title": "§ 37 mom 2",
+      "text": "2) rikkoo 12―14, 17―20 tai 24 §:ssä säädettyä velvollisuutta,",
+      "clause_number": 2,
+      "section_number": "37",
+      "statute_id": "1376/1994"
+    },
+    {
+      "id": "bffe318a-3d9e-49dd-867e-79eebf5a97ec",
+      "node_type": "Clause",
+      "publisher": "finlex",
+      "title": "§ 37 mom 3",
+      "text": "3) rikkoo tietojen luovuttamista koskevaa 28 tai 33 §:ssä säädettyä velvollisuutta tai",
+      "clause_number": 3,
+      "section_number": "37",
+      "statute_id": "1376/1994"
+    },
+    {
+      "id": "aced5525-9260-426c-9168-14763591e723",
+      "node_type": "Clause",
+      "publisher": "finlex",
+      "title": "§ 37 mom 4",
+      "text": "4) rikkoo 34 §:ssä tarkoitettua kieltoa tai määräystä,",
+      "clause_number": 4,
+      "section_number": "37",
+      "statute_id": "1376/1994"
+    },
+    {
+      "id": "6ed3293f-9e60-43e8-b32d-a954f85904b1",
+      "node_type": "Clause",
+      "publisher": "finlex",
+      "title": "§ 42 mom 1",
+      "text": "1) laitteiden energiatehokkuudesta 19 päivänä joulukuuta 1997 annettu laki (1241/1997) siihen myöhemmin tehtyine muutoksineen; sekä",
+      "clause_number": 1,
+      "section_number": "42",
+      "statute_id": "1376/1994"
+    },
+    {
+      "id": "0550f84d-7cd4-403f-a180-5ac097cff533",
+      "node_type": "Clause",
+      "publisher": "finlex",
+      "title": "§ 42 mom 2",
+      "text": "2) kodinkoneiden tuottamasta ilmassa kantautuvasta melusta annetun Euroopan yhteisöjen neuvoston direktiivin täytäntöönpanosta 5 päivänä tammikuuta 1996 annettu Tasavallan presidentin asetus (9/1996).",
+      "clause_number": 2,
+      "section_number": "42",
+      "statute_id": "1376/1994"
+    },
+    {
+      "id": "e9ec95e0-5a3e-44ff-aef5-05f70b25e682",
+      "node_type": "Clause",
+      "publisher": "finlex",
+      "title": "§ 43 mom 1",
+      "text": "1) kattiloiden hyötysuhdevaatimukset, Suomen rakentamismääräyskokoelma, D7, määräykset 1997;",
+      "clause_number": 1,
+      "section_number": "43",
+      "statute_id": "1376/1994"
+    },
+    {
+      "id": "a13bc45a-fae4-4acc-8775-e4cac382dc10",
+      "node_type": "Clause",
+      "publisher": "finlex",
+      "title": "§ 43 mom 2",
+      "text": "2) kotitalouksien sähkökäyttöisten jääkaappien, pakastimien ja näiden yhdistelmien energiatehokkuusvaatimuksista annettu kauppa- ja teollisuusministeriön asetus (854/2000);",
+      "clause_number": 2,
+      "section_number": "43",
+      "statute_id": "1376/1994"
+    },
+    {
+      "id": "93df0653-2fd6-44d8-bc79-3aece25f7dac",
+      "node_type": "Clause",
+      "publisher": "finlex",
+      "title": "§ 43 mom 3",
+      "text": "3) loistelamppujen virranrajoittimien energiatehokkuusvaatimuksista annettu kauppa- ja teollisuusministeriön asetus (318/2002);",
+      "clause_number": 3,
+      "section_number": "43",
+      "statute_id": "1376/1994"
+    },
+    {
+      "id": "46273cc2-5d14-4c5b-89b6-8ed5b41f46e2",
+      "node_type": "Clause",
+      "publisher": "finlex",
+      "title": "§ 43 mom 4",
+      "text": "4) kotitalouksien sähkökäyttöisten pyykinpesukoneiden energiamerkinnässä annettavista tiedoista annettu kauppa- ja teollisuusministeriön päätös (202/1996);",
+      "clause_number": 4,
+      "section_number": "43",
+      "statute_id": "1376/1994"
+    },
+    {
+      "id": "553e7862-7b4f-4fc4-8e44-aeaaee3577f4",
+      "node_type": "Clause",
+      "publisher": "finlex",
+      "title": "§ 43 mom 5",
+      "text": "5) kotitalouksien sähkökäyttöisten kuivausrumpujen energiamerkinnässä annettavista tiedoista annettu kauppa- ja teollisuusministeriön päätös (203/1996);",
+      "clause_number": 5,
+      "section_number": "43",
+      "statute_id": "1376/1994"
+    },
+    {
+      "id": "a0cdb87e-f50b-42b8-8393-bbc301ee743a",
+      "node_type": "Clause",
+      "publisher": "finlex",
+      "title": "§ 43 mom 6",
+      "text": "6) kotitalouksien kuivaavien pyykinpesukoneiden energiankulutusmerkinnässä annettavista tiedoista annettu kauppa- ja teollisuusministeriön päätös (895/1997);",
+      "clause_number": 6,
+      "section_number": "43",
+      "statute_id": "1376/1994"
+    },
+    {
+      "id": "8560bcb1-87d3-42c6-b813-d096dff4db7f",
+      "node_type": "Clause",
+      "publisher": "finlex",
+      "title": "§ 43 mom 7",
+      "text": "7) kotitalouslamppujen energiamerkinnässä annettavista tiedoista annettu kauppa- ja teollisuusministeriön asetus (859/2000);",
+      "clause_number": 7,
+      "section_number": "43",
+      "statute_id": "1376/1994"
+    },
+    {
+      "id": "a8c27489-2a70-4bee-98ed-dfdf42fb11e6",
+      "node_type": "Clause",
+      "publisher": "finlex",
+      "title": "§ 43 mom 8",
+      "text": "8) astianpesukoneiden energiamerkinnässä annettavista tiedoista annettu kauppa- ja teollisuusministeriön asetus (1009/2000);",
+      "clause_number": 8,
+      "section_number": "43",
+      "statute_id": "1376/1994"
+    },
+    {
+      "id": "685c8d77-8c4c-4d5d-9eef-ecb8a545753d",
+      "node_type": "Clause",
+      "publisher": "finlex",
+      "title": "§ 43 mom 9",
+      "text": "9) sähköuunien energiamerkinnässä annettavista tiedoista annettu kauppa- ja teollisuusministeriön asetus (1052/2002);",
+      "clause_number": 9,
+      "section_number": "43",
+      "statute_id": "1376/1994"
+    },
+    {
+      "id": "8815c2a8-3d94-4e7c-beb1-5f32a0593729",
+      "node_type": "Clause",
+      "publisher": "finlex",
+      "title": "§ 43 mom 10",
+      "text": "10) kotitalouksien ilmastointilaitteiden energiamerkinnässä annettavista tiedoista annettu ympäristöministeriön asetus (1271/2002);",
+      "clause_number": 10,
+      "section_number": "43",
+      "statute_id": "1376/1994"
+    },
+    {
+      "id": "51a9146c-2b97-4678-b01c-91b8a8746391",
+      "node_type": "Clause",
+      "publisher": "finlex",
+      "title": "§ 43 mom 11",
+      "text": "11) kotitalouksien sähkökäyttöisten jääkaappien, pakastimien ja näiden yhdistelmien energiamerkinnässä annettavista tiedoista annettu kauppa- ja teollisuusministeriön asetus (541/2004).",
+      "clause_number": 11,
+      "section_number": "43",
+      "statute_id": "1376/1994"
+    }
+  ],
+  "cross_references": [],
+  "raw_html_path": "C:\\Users\\danit\\finance-hack\\aalto-hackaton-2026\\data\\raw\\finlex\\Laki (säädöskokoelma)\\Laki tuotteiden ekologiselle suunnittelulle ja energiamerkinnälle asetettavista vaatimuksista.html"
+}

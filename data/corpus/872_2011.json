@@ -1,0 +1,528 @@
+{
+  "statute": {
+    "id": "74c7004e-4b24-42d2-a1f1-4039bed7e547",
+    "node_type": "Statute",
+    "publisher": "finlex",
+    "title": "Laki tietoliikennetiedustelusta siviilitiedustelussa",
+    "text": "Laki tietoliikennetiedustelusta siviilitiedustelussa",
+    "statute_id": "872/2011",
+    "finlex_url": "https://finlex.fi/fi/laki/ajantasa/872/2011"
+  },
+  "chapters": [],
+  "sections": [
+    {
+      "id": "e8706561-5b6a-45a7-8ffb-baa3c85c15dd",
+      "node_type": "Section",
+      "publisher": "finlex",
+      "title": "1 § Soveltamisala ja suhde muuhun lainsäädäntöön",
+      "text": "Tässä laissa säädetään tietoliikennetiedustelun käyttämisestä poliisilain (872/2011) 5 a luvussa tarkoitetussa siviilitiedustelussa. Tietoliikennetiedustelun käyttämisessä on noudatettava poliisilain 1 luvussa säädettyjä perusoikeuksien ja ihmisoikeuksien kunnioittamisen vaatimusta, suhteellisuusperiaatetta, vähimmän haitan periaatetta ja tarkoitussidonnaisuuden periaatetta. Tietoliikennetiedustelun toimenpiteen kohdentaminen ei saa ilman hyväksyttävää perustetta perustua henkilöiden ikään, sukupuoleen, alkuperään, kansalaisuuteen, asuinpaikkaan, kieleen, uskontoon, vakaumukseen, mielipiteeseen, poliittiseen toimintaan, ammattiyhdistystoimintaan, perhesuhteisiin, terveydentilaan, vammaisuuteen, seksuaaliseen suuntautumiseen tai muuhun henkilöön liittyvään syyhyn. Tietoliikennetiedustelu ei saa olla yleistä ja kohdentamatonta tietoliikenteen seurantaa. Tietoliikennetiedustelun käyttämisestä sotilastiedustelussa ja tietoliikennetiedustelun teknisestä toteuttamisesta säädetään sotilastiedustelulaissa (590/2019). Telekuuntelusta, tietojen hankkimisesta telekuuntelun sijasta sekä televalvonnasta siviilitiedustelussa säädetään poliisilain 5 a luvussa. Siltä osin kuin tietoliikennetiedustelulla saatujen tietojen käsittelystä ei säädetä tässä laissa, tietojen käsittelystä säädetään henkilötietojen käsittelystä poliisitoimessa annetussa laissa (761/2003).",
+      "section_number": "1",
+      "chapter_number": 1,
+      "statute_id": "872/2011"
+    },
+    {
+      "id": "fa159ed5-d3c7-4968-bdc9-5872470ba0d8",
+      "node_type": "Section",
+      "publisher": "finlex",
+      "title": "2 § Määritelmät",
+      "text": "Tässä laissa tarkoitetaan:",
+      "section_number": "2",
+      "chapter_number": 1,
+      "statute_id": "872/2011"
+    },
+    {
+      "id": "133f3375-168f-4314-b318-ae2815b6f6d1",
+      "node_type": "Section",
+      "publisher": "finlex",
+      "title": "3 § Tietoliikennetiedustelun kohteet",
+      "text": "Tietoliikennetiedustelun kohteena ovat:",
+      "section_number": "3",
+      "chapter_number": 1,
+      "statute_id": "872/2011"
+    },
+    {
+      "id": "18e72dd4-f832-4427-aa63-f3fb5c80ef92",
+      "node_type": "Section",
+      "publisher": "finlex",
+      "title": "4 § Tietoliikennetiedustelun käytön edellytykset",
+      "text": "Tietoliikennetiedustelun käytön yleisenä edellytyksenä on, että sen käyttäminen on välttämätöntä tärkeiden tietojen saamiseksi sellaisesta tietoliikennetiedustelun kohteena olevasta toiminnasta, joka vakavasti uhkaa kansallista turvallisuutta, eikä tietoja ole hankittavissa muulla tiedustelumenetelmällä. Jos tietoliikennetiedustelun hakuehtojen käyttö koskee ainoastaan valtiollisen toimijan tai siihen rinnastuvan tahon tietoliikennettä, tietoliikennetiedustelun käytön tulee olla tarpeen tietojen saamiseksi sellaisesta tietoliikennetiedustelun kohteena olevasta toiminnasta, joka vakavasti uhkaa kansallista turvallisuutta.",
+      "section_number": "4",
+      "chapter_number": 1,
+      "statute_id": "872/2011"
+    },
+    {
+      "id": "59b0ee6a-6411-4aae-b5d5-3ff6e5253eb1",
+      "node_type": "Section",
+      "publisher": "finlex",
+      "title": "5 § Tietoliikennetiedustelun kohdistaminen",
+      "text": "Tietoliikennetiedustelu kohdistetaan tietoliikenteen automatisoidun erottelun avulla. Automatisoitu erottelu perustuu 7 tai 9 §:n mukaisessa menettelyssä hyväksyttyjen hakuehtojen käyttöön. Viestin sisältöä kuvaavaa hakuehtoa saadaan käyttää ainoastaan, jos: Hakuehtona ei saa käyttää Suomessa olevan henkilön hallussa olevan tai tämän oletettavasti muuten käyttämän telepäätelaitteen tai teleosoitteen yksilöiviä tietoja.",
+      "section_number": "5",
+      "chapter_number": 1,
+      "statute_id": "872/2011"
+    },
+    {
+      "id": "c238804f-da3c-4c41-bee0-af3dd7f803e9",
+      "node_type": "Section",
+      "publisher": "finlex",
+      "title": "6 § Automatisoidun erottelun avulla kerätyn tiedon jatkokäsittely",
+      "text": "Tietoliikenteestä 5 §:ssä tarkoitetulla tavalla automatisoidusti eroteltua tietoliikennettä saadaan käsitellä automaattisesti ja manuaalisesti. Käsittelyssä saadaan selvittää viestin sisältö ja muut luottamukselliset tiedot.",
+      "section_number": "6",
+      "chapter_number": 1,
+      "statute_id": "872/2011"
+    },
+    {
+      "id": "4e606ce1-6c02-4415-aa79-ecb303d21d97",
+      "node_type": "Section",
+      "publisher": "finlex",
+      "title": "7 § Tietoliikennetiedustelua koskeva tuomioistuimen lupa",
+      "text": "Tuomioistuin päättää tietoliikennetiedustelusta suojelupoliisin päällikön kirjallisesta vaatimuksesta. Tietoliikennetiedustelua koskevassa vaatimuksessa ja päätöksessä on mainittava: Tietoliikennetiedustelu on lopetettava ennen luvassa mainitun määräajan päättymistä, jos tietoliikennetiedustelun tarkoitus on saavutettu tai sen edellytyksiä ei enää ole.",
+      "section_number": "7",
+      "chapter_number": 1,
+      "statute_id": "872/2011"
+    },
+    {
+      "id": "48bf10d7-f439-4a3b-8eb6-2a9df2c1c106",
+      "node_type": "Section",
+      "publisher": "finlex",
+      "title": "8 § Menettely tuomioistuimessa",
+      "text": "Tietoliikennetiedustelua koskevan lupa-asian käsittelemisessä ja ratkaisemisessa tuomioistuimessa noudatetaan, mitä poliisilain 5 a luvun 35 §:ssä säädetään tiedustelumenetelmää koskevan lupa-asian käsittelemisestä.",
+      "section_number": "8",
+      "chapter_number": 1,
+      "statute_id": "872/2011"
+    },
+    {
+      "id": "579ee160-c8ef-4101-81f8-59fb49fc7d46",
+      "node_type": "Section",
+      "publisher": "finlex",
+      "title": "9 § Päätöksenteko kiireellisessä tilanteessa",
+      "text": "Jos tietoliikennetiedustelua koskeva asia ei siedä viivytystä, saa suojelupoliisin päällikkö päättää tietoliikennetiedustelusta siihen asti, kunnes tuomioistuin on ratkaissut luvan myöntämistä koskevan vaatimuksen. Päätös on tehtävä kirjallisesti. Asia on saatettava tuomioistuimen ratkaistavaksi heti, kun se on mahdollista, kuitenkin viimeistään 24 tunnin kuluttua tietoliikennetiedustelun alkamisesta. Jos tuomioistuin katsoo, että 4 §:n mukaisia edellytyksiä tietoliikennetiedustelulle ei ole ollut, on tietoliikennetiedustelun käyttö lopetettava välittömästi sekä sillä saatu aineisto ja sillä saatuja tietoja koskevat muistiinpanot heti hävitettävä. Jos tuomioistuin katsoo, että 1 momentissa tarkoitettu päätös on ollut joltain muulta osin virheellinen, on tietoliikennetiedustelun käyttö välittömästi lopetettava siltä osin kuin tuomioistuimen päätöksessä sitä edellytetään sekä tietoliikennetiedustelulla saatu aineisto ja sillä saatuja tietoja koskevat muistiinpanot samoilta osin viipymättä hävitettävä. Tieto saadaan kuitenkin säilyttää ja tallettaa henkilötietojen käsittelystä poliisitoimessa annetussa laissa tarkoitettuun rekisteriin poliisilain 5 a luvun 46 §:n 1 momentissa säädetyin edellytyksin.",
+      "section_number": "9",
+      "chapter_number": 1,
+      "statute_id": "872/2011"
+    },
+    {
+      "id": "abc49cd6-e917-4060-a074-a3d86d4dd348",
+      "node_type": "Section",
+      "publisher": "finlex",
+      "title": "10 § Tietoliikennetiedustelun tekninen toteuttaminen ja muu yhteistyö sotilastiedusteluviranomaisen kanssa",
+      "text": "Tietoliikennetiedustelun teknisenä toteuttajana toimii Puolustusvoimien tiedustelulaitos. Suojelupoliisi voi antaa Puolustusvoimien tiedustelulaitokselle toimeksiannon sotilastiedustelulain 63 §:ssä tarkoitettuun teknisten tietojen käsittelyyn. Puolustusvoimien tiedustelulaitos hakee suojelupoliisin puolesta sotilastiedustelulain 64 §:n mukaisen luvan teknisten tietojen käsittelyyn sekä toimittaa mainitun lain 63 §:n 2 momentissa tarkoitetun tilastollisen analyysin tuloksen suojelupoliisille sen jälkeen, kun se on saanut luvan teknisten tietojen käsittelyyn ja toteuttanut luvan mukaiset toimenpiteet. Suojelupoliisi toimittaa 7 tai 9 §:ssä tarkoitetun päätöksen Puolustusvoimien tiedustelulaitokselle, joka suorittaa 5 §:n mukaiset toimenpiteet suojelupoliisin puolesta. Puolustusvoimien tiedustelulaitos toimittaa toimeksiannon toteuttamisella erottelemansa tietoliikenteen suojelupoliisille. Suojelupoliisin muuhun yhteistyöhön sotilastiedusteluviranomaisen kanssa sovelletaan poliisilain 5 a luvun 54 §:ää.",
+      "section_number": "10",
+      "chapter_number": 1,
+      "statute_id": "872/2011"
+    },
+    {
+      "id": "bb30fe64-0287-413f-a51f-cd236e2f3ba6",
+      "node_type": "Section",
+      "publisher": "finlex",
+      "title": "11 § Määräaikojen laskeminen",
+      "text": "Tässä laissa tarkoitettujen määräaikojen laskemiseen ei sovelleta säädettyjen määräaikain laskemisesta annettua lakia (150/1930). Aika, joka on määrätty kuukausina, päättyy sinä määräkuukauden päivänä, joka järjestysnumeroltaan vastaa päivää, jona määräaika alkoi. Jos vastaavaa päivää ei ole siinä kuussa, jona määräaika päättyy, määräaika päättyy kuukauden viimeisenä päivänä.",
+      "section_number": "11",
+      "chapter_number": 1,
+      "statute_id": "872/2011"
+    },
+    {
+      "id": "19eb93ba-6952-4910-893f-2da3370885b5",
+      "node_type": "Section",
+      "publisher": "finlex",
+      "title": "12 § Tiedustelukielto",
+      "text": "Tietoliikennetiedustelua ei saa kohdistaa viestiin, jonka lähettäjä ja vastaanottaja ovat Suomessa, eikä tietoon, josta lähettäjällä tai vastaanottajalla taikka tallentajalla on velvollisuus tai oikeus kieltäytyä todistamasta oikeudenkäymiskaaren 17 luvun 13, 14, 16 tai 20 §:n taikka 22 §:n 2 momentin nojalla.",
+      "section_number": "12",
+      "chapter_number": 1,
+      "statute_id": "872/2011"
+    },
+    {
+      "id": "e66d6a76-18ea-4747-82bf-43bc7982f815",
+      "node_type": "Section",
+      "publisher": "finlex",
+      "title": "13 § Tallenteiden ja asiakirjojen tarkastaminen",
+      "text": "Poliisilain 5 luvun 7 §:ssä tarkoitetun suojelupoliisin päällystöön kuuluvan poliisimiehen tai hänen määräämänsä virkamiehen on ilman aiheetonta viivytystä tarkastettava tietoliikennetiedustelun käytössä kertyneet tallenteet ja asiakirjat.",
+      "section_number": "13",
+      "chapter_number": 1,
+      "statute_id": "872/2011"
+    },
+    {
+      "id": "728e23ed-a506-4a69-99f3-e3ea0b30e63d",
+      "node_type": "Section",
+      "publisher": "finlex",
+      "title": "14 § Tallenteiden tutkiminen",
+      "text": "Tietoliikennetiedustelun käytössä kertyneitä tallenteita saa tutkia vain tuomioistuin tai suojelupoliisin päällystöön kuuluva poliisimies taikka tiedusteluvalvontavaltuutettu tai hänen määräämänsä virkamies. Suojelupoliisin päällystöön kuuluvan poliisimiehen määräyksestä tai tuomioistuimen osoituksen mukaan tallennetta saa tutkia myös muu poliisimies, asiantuntija tai muu henkilö, jota käytetään apuna tiedonhankintaa toteutettaessa. Jos 1 momentissa tarkoitettu asiantuntija tai muu henkilö on yksityinen taho, sovelletaan asiantuntijaan tai muuhun henkilöön rikosoikeudellista virkavastuuta koskevia säännöksiä hänen suorittaessaan tässä laissa tarkoitettuja tehtäviä. Käytettäessä 2 momentissa tarkoitettua asiantuntijaa tai muuta henkilöä on tallenteiden tutkiminen tapahduttava suojelupoliisin poliisimiehen välittömässä ohjauksessa ja valvonnassa. Asiantuntijalla tai muulla henkilöllä on lisäksi oltava tarvittavat tiedot ja taito sekä kokemus toimeksiannon suorittamiseen.",
+      "section_number": "14",
+      "chapter_number": 1,
+      "statute_id": "872/2011"
+    },
+    {
+      "id": "506678a6-cd36-4a25-bb6f-2f4a73b85e1e",
+      "node_type": "Section",
+      "publisher": "finlex",
+      "title": "15 § Tietojen hävittäminen",
+      "text": "Tietoliikennetiedustelulla saatu tieto on hävitettävä viipymättä, jos käy ilmi, että: Edellä 1 momentin 3 kohdassa tarkoitettu tieto voidaan kuitenkin luovuttaa rikostorjuntaan poliisilain 5 a luvun 44 §:ssä säädetyin edellytyksin sekä säilyttää ja tallettaa henkilötietojen käsittelystä poliisitoimessa annetussa laissa tarkoitettuun rekisteriin poliisilain 5 a luvun 45 §:n 1 momentissa säädetyin edellytyksin. Tietojen hävittämisestä vastaa tietoliikennetiedustelun tekninen toteuttaja tai, jos se on ehtinyt toimittaa tiedot toimeksiantajalle, toimeksiantaja.",
+      "section_number": "15",
+      "chapter_number": 1,
+      "statute_id": "872/2011"
+    },
+    {
+      "id": "632f21cd-3070-40b6-910b-64b16a13ac0b",
+      "node_type": "Section",
+      "publisher": "finlex",
+      "title": "16 § Haitallista tietokoneohjelmaa tai -käskyä koskevien tietojen luovuttaminen viranomaiselle, yritykselle tai yhteisölle",
+      "text": "Suojelupoliisi saa salassapitosäännösten estämättä luovuttaa tietoliikennetiedustelun avulla hankitun tiedon haitallisesta tietokoneohjelmasta tai käskystä viranomaiselle, yritykselle tai yhteisölle, jos tiedon luovuttaminen on tarpeen kansallisen turvallisuuden suojaamiseksi tai tiedon saajan etujen turvaamiseksi. Yrityksen tai yhteisön palveluksessa olevan vaitiolovelvollisuuteen sovelletaan, mitä viranomaisten toiminnan julkisuudesta annetun lain (621/1999) 23 §:n 2 momentissa säädetään.",
+      "section_number": "16",
+      "chapter_number": 1,
+      "statute_id": "872/2011"
+    },
+    {
+      "id": "289993d3-9905-41d1-8bc3-c6db3b5cadcb",
+      "node_type": "Section",
+      "publisher": "finlex",
+      "title": "17 § Tiedon luovuttaminen rikostorjuntaan",
+      "text": "Tietoliikennetiedustelulla saadun tiedon rikostorjuntaan luovuttamiseen sovelletaan poliisilain 5 a luvun 44 §:ää.",
+      "section_number": "17",
+      "chapter_number": 1,
+      "statute_id": "872/2011"
+    },
+    {
+      "id": "09550562-178c-469d-9577-a5f9380eb580",
+      "node_type": "Section",
+      "publisher": "finlex",
+      "title": "18 § Asianosaisjulkisuuden rajoittaminen eräissä tapauksissa",
+      "text": "Viranomaisten toiminnan julkisuudesta annetun lain 11 §:ssä säädetystä poiketen henkilöllä ei ole oikeutta saada tietoa tietoliikennetiedustelun käytöstä ennen kuin 20 §:ssä tarkoitettu ilmoitus on tehty. Rekisteröidyn tarkastusoikeudesta säädetään henkilötietojen käsittelystä poliisitoimessa annetussa laissa.",
+      "section_number": "18",
+      "chapter_number": 1,
+      "statute_id": "872/2011"
+    },
+    {
+      "id": "7c938969-644b-4e9e-b11d-282f32d519a6",
+      "node_type": "Section",
+      "publisher": "finlex",
+      "title": "19 § Pöytäkirja",
+      "text": "Tietoliikennetiedustelun käytön lopettamisen jälkeen suojelupoliisin on laadittava ilman aiheetonta viivytystä pöytäkirja. Valtioneuvoston asetuksella voidaan antaa tarkempia säännöksiä toimenpiteiden kirjaamisesta valvontaa varten.",
+      "section_number": "19",
+      "chapter_number": 1,
+      "statute_id": "872/2011"
+    },
+    {
+      "id": "582ddea1-2e4b-4351-858c-b7571e4ece7f",
+      "node_type": "Section",
+      "publisher": "finlex",
+      "title": "20 § Tietoliikennetiedustelun käytöstä ilmoittaminen",
+      "text": "Jos 6 §:ssä tarkoitetussa käsittelyssä on manuaalisesti selvitetty Suomessa tietoliikennetiedustelun käytön aikana olleen henkilön luottamuksellisen viestin tai tallentaman tiedon sisältö tai poliisilain 5 luvun 8 §:ssä tarkoitettu tunnistamistieto, ilmoitetaan hänelle tietoliikennetiedustelusta noudattaen, mitä poliisilain 5 a luvun 47 §:ssä säädetään telekuuntelusta ilmoittamisesta. Velvollisuutta ilmoittaa tietoliikennetiedustelusta ei kuitenkaan ole, jos tieto on hävitetty 9 §:n 2 momentin tai 15 §:n perusteella.",
+      "section_number": "20",
+      "chapter_number": 1,
+      "statute_id": "872/2011"
+    },
+    {
+      "id": "735d8a94-347c-4eb8-8d23-63e2592a2feb",
+      "node_type": "Section",
+      "publisher": "finlex",
+      "title": "21 § Tietoliikennetiedustelun edellyttämän kytkennän toteuttaminen",
+      "text": "Tietoliikennetiedustelun edellyttämän kytkennän toteuttamisessa siviilitiedustelua varten noudatetaan, mitä sotilastiedustelulain 72 §:ssä säädetään.",
+      "section_number": "21",
+      "chapter_number": 1,
+      "statute_id": "872/2011"
+    },
+    {
+      "id": "261234a1-bde9-4816-bd7d-e33772303a83",
+      "node_type": "Section",
+      "publisher": "finlex",
+      "title": "22 § Tiedonsiirtäjän tietojenantovelvollisuus",
+      "text": "Tiedonsiirtäjän on ilman aiheetonta viivytystä annettava suojelupoliisille tehtävään määrätyn tiedustelumenetelmien käyttöön erityisesti perehtyneen päällystöön kuuluvan suojelupoliisin poliisimiehen yksilöidystä pyynnöstä hallussaan olevat Suomen rajan ylittävän viestintäverkon rakenteeseen ja siinä kulkevan tietoliikenteen reitittymiseen liittyvät tekniset tiedot, jotka ovat tarpeen viestintäverkon osan yksilöimiseksi tietoliikennetiedustelun käyttöä koskevaa tuomioistuimelle esitettävää lupavaatimusta ja -päätöstä varten.",
+      "section_number": "22",
+      "chapter_number": 1,
+      "statute_id": "872/2011"
+    },
+    {
+      "id": "a0c6f058-ec3a-4f96-af1c-b488805402b9",
+      "node_type": "Section",
+      "publisher": "finlex",
+      "title": "23 § Korvaus tiedonsiirtäjälle",
+      "text": "Tiedonsiirtäjällä on oikeus saada valtion varoista korvaus 22 §:ssä tarkoitetusta tietojen antamisesta aiheutuneista välittömistä kustannuksista. Korvauksen maksamisesta päättää suojelupoliisi. Päätökseen saa vaatia oikaisua siten kuin hallintolaissa (434/2003) säädetään. Oikaisuvaatimukseen annettuun päätökseen saa hakea muutosta valittamalla hallinto-oikeuteen siten kuin hallintolainkäyttölaissa (586/1996) säädetään. Hallinto-oikeuden päätökseen saa hakea muutosta valittamalla vain, jos korkein hallinto-oikeus myöntää valitusluvan.",
+      "section_number": "23",
+      "chapter_number": 1,
+      "statute_id": "872/2011"
+    },
+    {
+      "id": "41ce0d3d-f238-455f-a2e1-61f90ff7417a",
+      "node_type": "Section",
+      "publisher": "finlex",
+      "title": "24 § Tietoliikennetiedustelun valvonta sisäasiainhallinnossa",
+      "text": "Tässä laissa tarkoitettua tiedonhankintaa valvoo suojelupoliisin päällikkö sekä sisäministeriö. Sisäministeriön asetuksella voidaan antaa tarkempia säännöksiä 1 momentissa tarkoitetun valvonnan järjestämisestä sisäasiainhallinnossa.",
+      "section_number": "24",
+      "chapter_number": 1,
+      "statute_id": "872/2011"
+    },
+    {
+      "id": "6f66a5c2-b585-4279-bce3-1830bd3ddd98",
+      "node_type": "Section",
+      "publisher": "finlex",
+      "title": "25 § Tietoliikennetiedustelun ulkoinen valvonta",
+      "text": "Sisäministeriön on annettava eduskunnan oikeusasiamiehelle, tiedusteluvalvontavaliokunnalle ja tiedusteluvalvontavaltuutetulle vuosittain kertomus tietoliikennetiedustelun käyttämisestä. Tiedusteluvalvontavaltuutetun harjoittamasta valvonnasta säädetään tiedustelutoiminnan valvonnasta annetussa laissa (121/2019). Tiedustelutoiminnan parlamentaarisesta valvonnasta säädetään tarkemmin eduskunnan työjärjestyksessä (40/2000). Valtioneuvoston asetuksella voidaan antaa tarkempia säännöksiä tietoliikennetiedustelun valvontaa varten annettavista selvityksistä.",
+      "section_number": "25",
+      "chapter_number": 1,
+      "statute_id": "872/2011"
+    },
+    {
+      "id": "ed0d3663-36ee-428a-b6df-22c2864a601e",
+      "node_type": "Section",
+      "publisher": "finlex",
+      "title": "26 § Tiedusteluvalvontavaltuutetulle tehtävät ilmoitukset",
+      "text": "Suojelupoliisin on annettava tieto tiedusteluvalvontavaltuutetulle tämän lain nojalla tehdyistä vaatimuksista, päätöksistä sekä tuomioistuimen antamista luvista siten kuin poliisilain 5 a luvun 61 §:ssä säädetään.",
+      "section_number": "26",
+      "chapter_number": 1,
+      "statute_id": "872/2011"
+    },
+    {
+      "id": "5de8554d-c8b9-44d4-a3bb-aa11b849aaed",
+      "node_type": "Section",
+      "publisher": "finlex",
+      "title": "27 § Voimaantulo",
+      "text": "Tämä laki tulee voimaan 1 päivänä kesäkuuta 2019.",
+      "section_number": "27",
+      "chapter_number": 1,
+      "statute_id": "872/2011"
+    }
+  ],
+  "clauses": [
+    {
+      "id": "1eb2597d-09ab-4190-a43e-236df474d1cf",
+      "node_type": "Clause",
+      "publisher": "finlex",
+      "title": "§ 3 mom 1",
+      "text": "1) terrorismi;",
+      "clause_number": 1,
+      "section_number": "3",
+      "statute_id": "872/2011"
+    },
+    {
+      "id": "68f87a5e-dee0-4afe-9df9-04a210cb1422",
+      "node_type": "Clause",
+      "publisher": "finlex",
+      "title": "§ 3 mom 2",
+      "text": "2) ulkomainen tiedustelutoiminta;",
+      "clause_number": 2,
+      "section_number": "3",
+      "statute_id": "872/2011"
+    },
+    {
+      "id": "906dbbea-3fa1-42e7-9897-51271a3c159e",
+      "node_type": "Clause",
+      "publisher": "finlex",
+      "title": "§ 3 mom 3",
+      "text": "3) joukkotuhoaseiden suunnittelu, valmistaminen, levittäminen ja käyttö;",
+      "clause_number": 3,
+      "section_number": "3",
+      "statute_id": "872/2011"
+    },
+    {
+      "id": "71bdb458-baab-4530-92aa-8cc063cc8a02",
+      "node_type": "Clause",
+      "publisher": "finlex",
+      "title": "§ 3 mom 4",
+      "text": "4) kaksikäyttötuotteiden vientivalvonnasta annetun lain (562/1996) 2 §:ssä tarkoitettujen kaksikäyttötuotteiden suunnittelu, valmistaminen, levittäminen ja käyttö;",
+      "clause_number": 4,
+      "section_number": "3",
+      "statute_id": "872/2011"
+    },
+    {
+      "id": "a7a2f83e-6f72-40b2-9384-839b58377e12",
+      "node_type": "Clause",
+      "publisher": "finlex",
+      "title": "§ 3 mom 5",
+      "text": "5) kansanvaltaista yhteiskuntajärjestystä vakavasti uhkaava toiminta;",
+      "clause_number": 5,
+      "section_number": "3",
+      "statute_id": "872/2011"
+    },
+    {
+      "id": "1656a3b5-2535-4098-ad70-87c5158a34bf",
+      "node_type": "Clause",
+      "publisher": "finlex",
+      "title": "§ 3 mom 6",
+      "text": "6) suuren ihmismäärän henkeä tai terveyttä taikka yhteiskunnan elintärkeitä toimintoja uhkaava toiminta;",
+      "clause_number": 6,
+      "section_number": "3",
+      "statute_id": "872/2011"
+    },
+    {
+      "id": "1a337bfe-796e-4f15-af66-2c07ad28cfbe",
+      "node_type": "Clause",
+      "publisher": "finlex",
+      "title": "§ 3 mom 7",
+      "text": "7) vieraan valtion toiminta, joka voi aiheuttaa vahinkoa Suomen kansainvälisille suhteille, taloudellisille tai muille tärkeille eduille;",
+      "clause_number": 7,
+      "section_number": "3",
+      "statute_id": "872/2011"
+    },
+    {
+      "id": "158a4e4a-8fe5-4159-8d62-d76586d04324",
+      "node_type": "Clause",
+      "publisher": "finlex",
+      "title": "§ 3 mom 8",
+      "text": "8) kansainvälistä rauhaa ja turvallisuutta uhkaava kriisi;",
+      "clause_number": 8,
+      "section_number": "3",
+      "statute_id": "872/2011"
+    },
+    {
+      "id": "c944fccd-6491-4a21-a779-b2732f8a5523",
+      "node_type": "Clause",
+      "publisher": "finlex",
+      "title": "§ 3 mom 9",
+      "text": "9) kansainvälisten kriisinhallintaoperaatioiden turvallisuutta uhkaava toiminta;",
+      "clause_number": 9,
+      "section_number": "3",
+      "statute_id": "872/2011"
+    },
+    {
+      "id": "ff4a2822-05b6-4c1a-b5c3-0523fd93526a",
+      "node_type": "Clause",
+      "publisher": "finlex",
+      "title": "§ 3 mom 10",
+      "text": "10) Suomen kansainvälisen avun antamisen ja muun kansainvälisen toiminnan turvallisuutta vakavasti uhkaava toiminta; sekä",
+      "clause_number": 10,
+      "section_number": "3",
+      "statute_id": "872/2011"
+    },
+    {
+      "id": "9dbfe4a7-6c02-4bf9-8c6d-9e11ede548c9",
+      "node_type": "Clause",
+      "publisher": "finlex",
+      "title": "§ 3 mom 11",
+      "text": "11) kansanvaltaista yhteiskuntajärjestystä uhkaava kansainvälinen järjestäytynyt rikollisuus.",
+      "clause_number": 11,
+      "section_number": "3",
+      "statute_id": "872/2011"
+    },
+    {
+      "id": "f6099a72-b64d-4c34-8ead-e4b1839da7f8",
+      "node_type": "Clause",
+      "publisher": "finlex",
+      "title": "§ 5 mom 1",
+      "text": "1) hakuehtoa käytetään pelkästään vieraan valtion tai sellaiseen rinnastuvan tahon tietoliikenteeseen; tai",
+      "clause_number": 1,
+      "section_number": "5",
+      "statute_id": "872/2011"
+    },
+    {
+      "id": "50f353ef-0dec-4bab-86fc-6b14fcc21473",
+      "node_type": "Clause",
+      "publisher": "finlex",
+      "title": "§ 5 mom 2",
+      "text": "2) hakuehto kuvaa haitallisen tietokoneohjelman tai -käskyn sisältöä.",
+      "clause_number": 2,
+      "section_number": "5",
+      "statute_id": "872/2011"
+    },
+    {
+      "id": "61410f75-468e-4968-8b6e-34cd3c845e93",
+      "node_type": "Clause",
+      "publisher": "finlex",
+      "title": "§ 7 mom 1",
+      "text": "1) tietoliikennetiedustelun kohteena oleva 3 §:ssä tarkoitettu toiminta;",
+      "clause_number": 1,
+      "section_number": "7",
+      "statute_id": "872/2011"
+    },
+    {
+      "id": "30345ef8-964e-45b9-b391-488817912844",
+      "node_type": "Clause",
+      "publisher": "finlex",
+      "title": "§ 7 mom 2",
+      "text": "2) 1 kohdassa tarkoitettua toimintaa koskevat tosiseikat;",
+      "clause_number": 2,
+      "section_number": "7",
+      "statute_id": "872/2011"
+    },
+    {
+      "id": "e472f420-717b-43e2-9d3f-b8231564cc91",
+      "node_type": "Clause",
+      "publisher": "finlex",
+      "title": "§ 7 mom 3",
+      "text": "3) tosiseikat, joihin tietoliikennetiedustelun käytön edellytykset ja tehokkuus perustuvat;",
+      "clause_number": 3,
+      "section_number": "7",
+      "statute_id": "872/2011"
+    },
+    {
+      "id": "89dfbcd7-6d83-40bb-808b-44d5623b101b",
+      "node_type": "Clause",
+      "publisher": "finlex",
+      "title": "§ 7 mom 4",
+      "text": "4) tietoliikennetiedustelussa käytettävät hakuehdot tai hakuehtojen luokat sekä perustelut niille;",
+      "clause_number": 4,
+      "section_number": "7",
+      "statute_id": "872/2011"
+    },
+    {
+      "id": "3b9543c7-bfb9-4604-be35-b45ab82324ea",
+      "node_type": "Clause",
+      "publisher": "finlex",
+      "title": "§ 7 mom 5",
+      "text": "5) rajan ylittävän viestintäverkon osa, jossa liikkuvaan tietoliikenteeseen hakuehtoja käytetään, sekä perustelut viestintäverkon osan valinnalle;",
+      "clause_number": 5,
+      "section_number": "7",
+      "statute_id": "872/2011"
+    },
+    {
+      "id": "0910a1d0-72f3-4d66-958c-2d732420c9dd",
+      "node_type": "Clause",
+      "publisher": "finlex",
+      "title": "§ 7 mom 6",
+      "text": "6) tietoliikennetiedustelua koskevan luvan voimassaoloaika kellonajan tarkkuudella;",
+      "clause_number": 6,
+      "section_number": "7",
+      "statute_id": "872/2011"
+    },
+    {
+      "id": "8c4d831c-f0c0-43a9-9ac4-15e6ffb8f0d5",
+      "node_type": "Clause",
+      "publisher": "finlex",
+      "title": "§ 7 mom 7",
+      "text": "7) tietoliikennetiedustelun suorittamista johtava ja valvova tehtävään määrätty tiedustelumenetelmien käyttöön perehtynyt suojelupoliisin päällystöön kuuluva poliisimies;",
+      "clause_number": 7,
+      "section_number": "7",
+      "statute_id": "872/2011"
+    },
+    {
+      "id": "28e45717-4ae1-48c1-aa9b-fc9ba50e10f5",
+      "node_type": "Clause",
+      "publisher": "finlex",
+      "title": "§ 7 mom 8",
+      "text": "8) mahdolliset tietoliikennetiedustelun rajoitukset ja ehdot.",
+      "clause_number": 8,
+      "section_number": "7",
+      "statute_id": "872/2011"
+    },
+    {
+      "id": "ad320737-3626-41d8-b3ae-c4f487b89dbb",
+      "node_type": "Clause",
+      "publisher": "finlex",
+      "title": "§ 15 mom 1",
+      "text": "1) viestinnän molemmat osapuolet olivat Suomessa silloin, kun viestintä tapahtui;",
+      "clause_number": 1,
+      "section_number": "15",
+      "statute_id": "872/2011"
+    },
+    {
+      "id": "d7e64677-011b-4e9f-98d0-36ba4fbf2204",
+      "node_type": "Clause",
+      "publisher": "finlex",
+      "title": "§ 15 mom 2",
+      "text": "2) lähettäjällä tai vastaanottajalla taikka tallentajalla on velvollisuus tai oikeus kieltäytyä todistamasta kyseisestä tiedosta 12 §:ssä tarkoitetulla tavalla;",
+      "clause_number": 2,
+      "section_number": "15",
+      "statute_id": "872/2011"
+    },
+    {
+      "id": "165f8cbd-d0d2-4bef-b336-3074b4c3f3ef",
+      "node_type": "Clause",
+      "publisher": "finlex",
+      "title": "§ 15 mom 3",
+      "text": "3) tietoa ei tarvita kansallisen turvallisuuden suojaamiseksi.",
+      "clause_number": 3,
+      "section_number": "15",
+      "statute_id": "872/2011"
+    }
+  ],
+  "cross_references": [],
+  "raw_html_path": "C:\\Users\\danit\\finance-hack\\aalto-hackaton-2026\\data\\raw\\finlex\\Laki (säädöskokoelma)\\Laki tietoliikennetiedustelusta siviilitiedustelussa.html"
+}

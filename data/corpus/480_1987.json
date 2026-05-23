@@ -1,0 +1,1830 @@
+{
+  "statute": {
+    "id": "b2789fb4-808f-4343-b7b8-3f2fb493d87e",
+    "node_type": "Statute",
+    "publisher": "finlex",
+    "title": "Kirjanpitolaki",
+    "text": "Kirjanpitolaki",
+    "statute_id": "480/1987",
+    "finlex_url": "https://finlex.fi/fi/laki/ajantasa/480/1987"
+  },
+  "chapters": [
+    {
+      "id": "91ef45be-bf39-4b6a-b26f-3e39301b649b",
+      "node_type": "Chapter",
+      "publisher": "finlex",
+      "title": "Chapter 1",
+      "text": "1 luku Yleiset säännökset",
+      "chapter_number": 1,
+      "statute_id": "480/1987"
+    },
+    {
+      "id": "3da66fd0-d66d-4ea9-8193-27287a474f60",
+      "node_type": "Chapter",
+      "publisher": "finlex",
+      "title": "Chapter 2",
+      "text": "2 luku Liiketapahtumien kirjaaminen ja kirjanpitoaineisto",
+      "chapter_number": 2,
+      "statute_id": "480/1987"
+    },
+    {
+      "id": "57770dba-d20f-4ea8-b50a-02f552d7e1ba",
+      "node_type": "Chapter",
+      "publisher": "finlex",
+      "title": "Chapter 3",
+      "text": "3 luku Tilinpäätös",
+      "chapter_number": 3,
+      "statute_id": "480/1987"
+    },
+    {
+      "id": "429da5cb-407d-4f52-a291-e9bac37d0261",
+      "node_type": "Chapter",
+      "publisher": "finlex",
+      "title": "Chapter 4",
+      "text": "4 luku Tilinpäätöseriin liittyvät määritelmät",
+      "chapter_number": 4,
+      "statute_id": "480/1987"
+    },
+    {
+      "id": "4e020000-9ed6-45ab-9465-b278ac43db84",
+      "node_type": "Chapter",
+      "publisher": "finlex",
+      "title": "Chapter 5",
+      "text": "5 luku Arvostus- ja jaksotussäännökset",
+      "chapter_number": 5,
+      "statute_id": "480/1987"
+    },
+    {
+      "id": "4404965d-615f-4b91-9636-ad7e598f1fc5",
+      "node_type": "Chapter",
+      "publisher": "finlex",
+      "title": "Chapter 6",
+      "text": "6 luku Konsernitilinpäätös",
+      "chapter_number": 6,
+      "statute_id": "480/1987"
+    },
+    {
+      "id": "631fe0d9-4113-4c67-87ff-99b1b8705db9",
+      "node_type": "Chapter",
+      "publisher": "finlex",
+      "title": "Chapter 7",
+      "text": "7 luku Ammatinharjoittajan kirjanpito",
+      "chapter_number": 7,
+      "statute_id": "480/1987"
+    },
+    {
+      "id": "a0672248-2827-4cbe-89f0-0000752023a8",
+      "node_type": "Chapter",
+      "publisher": "finlex",
+      "title": "Chapter 8",
+      "text": "8 luku Erinäiset säännökset",
+      "chapter_number": 8,
+      "statute_id": "480/1987"
+    },
+    {
+      "id": "2263f022-e6ed-4505-863f-ac57315a654d",
+      "node_type": "Chapter",
+      "publisher": "finlex",
+      "title": "Chapter 9",
+      "text": "9 luku Voimaantulo- ja siirtymäsäännökset",
+      "chapter_number": 9,
+      "statute_id": "480/1987"
+    }
+  ],
+  "sections": [
+    {
+      "id": "ee5e9343-97f8-41e3-a1a8-7e14a039661b",
+      "node_type": "Section",
+      "publisher": "finlex",
+      "title": "1 § Kirjanpitovelvollisuus",
+      "text": "Jokainen, joka harjoittaa liike- tai ammattitoimintaa, on tästä toiminnastaan kirjanpitovelvollinen. Kirjanpitovelvollisia ovat kuitenkin aina: Mitä 1 momentissa säädetään, ei koske julkisyhteisöä, Pohjoismaiden Investointipankkia, Pohjoismaiden projektivientirahastoa eikä maatilatalouden harjoittajaa.",
+      "section_number": "1",
+      "chapter_number": 1,
+      "statute_id": "480/1987"
+    },
+    {
+      "id": "6ec1a2fb-eabe-4b7e-9e33-444e53d198ef",
+      "node_type": "Section",
+      "publisher": "finlex",
+      "title": "2 § Kahdenkertainen kirjanpito",
+      "text": "Kirjanpitovelvollisen on pidettävä kahdenkertaista kirjanpitoa, jollei jäljempänä tässä laissa toisin säädetä.",
+      "section_number": "2",
+      "chapter_number": 1,
+      "statute_id": "480/1987"
+    },
+    {
+      "id": "41601a00-1f67-42d6-9c7b-88bbed024966",
+      "node_type": "Section",
+      "publisher": "finlex",
+      "title": "3 § Hyvä kirjanpitotapa",
+      "text": "Kirjanpitovelvollisen on noudatettava hyvää kirjanpitotapaa.",
+      "section_number": "3",
+      "chapter_number": 1,
+      "statute_id": "480/1987"
+    },
+    {
+      "id": "6f79fc8a-c542-40ec-804b-4e7c3e138bc8",
+      "node_type": "Section",
+      "publisher": "finlex",
+      "title": "4 § Tilikausi",
+      "text": "Tilikausi on 12 kuukautta. Toimintaa aloitettaessa tai lopetettaessa taikka tilinpäätöksen ajankohtaa muutettaessa tilikausi saa olla tätä lyhyempi tai pitempi, kuitenkin enintään 18 kuukautta. Kirjanpitovelvollisen kaikilla liikkeillä on oltava sama tilikausi.",
+      "section_number": "4",
+      "chapter_number": 1,
+      "statute_id": "480/1987"
+    },
+    {
+      "id": "32148668-3a55-47aa-8eae-810d348bbed3",
+      "node_type": "Section",
+      "publisher": "finlex",
+      "title": "5 § Määräysvalta",
+      "text": "Kirjanpitovelvollisella katsotaan olevan määräysvalta toisessa kirjanpitovelvollisessa tai siihen verrattavassa ulkomaisessa yrityksessä (kohdeyritys), kun sillä on: Edellä 1 momentissa tarkoitettua ääniosuutta laskettaessa ei oteta huomioon lakiin tai kohdeyrityksen yhtiöjärjestykseen, yhtiösopimukseen tai niihin verrattaviin sääntöihin sisältyvää äänestysrajoitusta. Kohdeyrityksen kokonaisäänimäärän laskemiseksi vähennetään ne äänet, jotka liittyvät kohdeyritykselle itselleen tai sen 6 §:ssä tarkoitetulle tytäryritykselle kuuluviin osakkeisiin tai osuuksiin. Omissa nimissään mutta toisen lukuun toimivan henkilön äänimäärät luetaan kuuluvaksi sille, jonka lukuun toimitaan.",
+      "section_number": "5",
+      "chapter_number": 1,
+      "statute_id": "480/1987"
+    },
+    {
+      "id": "9cee9aab-378a-4cb2-9db2-90e61cbfe10f",
+      "node_type": "Section",
+      "publisher": "finlex",
+      "title": "6 § Konserniyritys, emoyritys ja tytäryritys",
+      "text": "Jos kirjanpitovelvollisella on 5 §:n mukainen määräysvalta kohdeyrityksessä, on edellinen emoyritys ja jälkimmäinen tytäryritys. Emoyritys tytäryrityksineen muodostaa konsernin. Emoyritystä ja sen tytäryrityksiä kutsutaan tässä laissa konserniyrityksiksi. Mitä 1 momentissa säädetään, sovelletaan myös, jos kirjanpitovelvollisella on yhdessä yhden tai useamman tytäryrityksensä kanssa taikka kirjanpitovelvollisen tytäryrityksellä yksin tai yhdessä muiden tytäryritysten kanssa määräysvalta kohdeyrityksessä.",
+      "section_number": "6",
+      "chapter_number": 1,
+      "statute_id": "480/1987"
+    },
+    {
+      "id": "b0c2386d-2913-4343-ac11-1ac4537823d6",
+      "node_type": "Section",
+      "publisher": "finlex",
+      "title": "7 § Omistusyhteysyritys",
+      "text": "Omistusyhteysyritys on kirjanpitovelvollisen konserniin kuulumaton kotimainen tai ulkomainen yritys, jossa kirjanpitovelvollisella on sellainen omistusosuus, joka luo kirjanpitovelvollisen ja yrityksen välille pysyvän yhteyden ja on tarkoitettu edistämään kirjanpitovelvollisen tai sen kanssa samaan konserniin kuuluvan yrityksen toimintaa. Jollei kirjanpitovelvollinen muuta näytä, yritystä pidetään omistusyhteysyrityksenä, jos kirjanpitovelvollisella on vähintään viidesosa yrityksen osakepääomasta tai vastaavasta pääomasta.",
+      "section_number": "7",
+      "chapter_number": 1,
+      "statute_id": "480/1987"
+    },
+    {
+      "id": "932e08d4-d30d-4937-823d-3850917dd30c",
+      "node_type": "Section",
+      "publisher": "finlex",
+      "title": "8 § Osakkuusyritys",
+      "text": "Osakkuusyritys on omistusyhteysyritys, jossa kirjanpitovelvollisella on huomattava vaikutusvalta liiketoiminnan ja rahoituksen johtamisessa mutta joka ei kuulu kirjanpitovelvollisen konserniin. Jollei kirjanpitovelvollinen muuta näytä, omistusyhteysyritystä pidetään osakkuusyrityksenä, jos kirjanpitovelvollisella on vähintään viidesosa ja enintään puolet omistusyhteysyrityksen osakkeiden tai osuuksien tuottamasta äänimäärästä. Mitä 1 momentissa säädetään, sovelletaan myös, jos kirjanpitovelvollisella yhdessä yhden tai useamman tytäryrityksensä taikka kirjanpitovelvollisen tytäryrityksellä yksin tai yhdessä muiden tytäryritysten kanssa on huomattava vaikutusvalta ja 7 §:ssä tarkoitettu omistusosuus yrityksessä. Edellä 1 momentissa tarkoitetun ääniosuuden laskemisessa sovelletaan, mitä 5 §:n 2 ja 3 momentissa säädetään.",
+      "section_number": "8",
+      "chapter_number": 1,
+      "statute_id": "480/1987"
+    },
+    {
+      "id": "4c86d9c2-8e61-48ce-a333-ef98d67c3f53",
+      "node_type": "Section",
+      "publisher": "finlex",
+      "title": "1 § Liiketapahtumat",
+      "text": "Kirjanpitovelvollisen on merkittävä kirjanpitoonsa liiketapahtumina menot, tulot, rahoitustapahtumat sekä niiden oikaisu- ja siirtoerät.",
+      "section_number": "1",
+      "chapter_number": 2,
+      "statute_id": "480/1987"
+    },
+    {
+      "id": "6ff28d8f-a30d-4c55-adb0-89da724690eb",
+      "node_type": "Section",
+      "publisher": "finlex",
+      "title": "2 § Kirjanpitotilit ja tililuettelo",
+      "text": "Liiketapahtumat merkitään asian mukaan eri kirjanpitotileille. Jokainen tili on pidettävä jatkuvasti sisällöltään samana. Tilin sisältöä voidaan kuitenkin muuttaa toiminnan kehityksen, 2 momentissa tarkoitetun tililuettelon muutoksen tai muun erityisen syyn vuoksi. Kirjanpitovelvollisella tulee olla kultakin tilikaudelta kirjanpitotileistä selkeä ja riittävästi eritelty luettelo, joka selittää tilien sisällön (tililuettelo).",
+      "section_number": "2",
+      "chapter_number": 2,
+      "statute_id": "480/1987"
+    },
+    {
+      "id": "d1bb7e70-92a5-4b7d-bf5d-23ed60dd61a5",
+      "node_type": "Section",
+      "publisher": "finlex",
+      "title": "3 § Kirjaamisperusteet",
+      "text": "Menon kirjaamisperusteena on tuotannontekijän vastaanottaminen ja tulon kirjaamisperusteena suoritteen luovuttaminen (suoriteperuste), jollei jäljempänä toisin säädetä. Meno ja tulo saadaan kirjata myös maksuun perustuen (maksuperuste). Jos menot ja tulot kirjataan maksuperusteen mukaan, on ostovelat ja myyntisaamiset voitava jatkuvasti selvittää.",
+      "section_number": "3",
+      "chapter_number": 2,
+      "statute_id": "480/1987"
+    },
+    {
+      "id": "71cf5954-52e5-4496-a202-7a89874f8ebe",
+      "node_type": "Section",
+      "publisher": "finlex",
+      "title": "4 § Kirjausjärjestys ja -ajankohta",
+      "text": "Liiketapahtumat on kirjattava aikajärjestyksessä (peruskirjanpito) ja asiajärjestyksessä (pääkirjanpito). Käteisellä rahalla suoritetun maksun kirjaaminen aikajärjestykseen on tehtävä viivytyksettä päiväkohtaisesti. Muut kirjaukset saadaan tehdä kuukausikohtaisesti tai neljän viikon jaksolta viimeistään kahden kuukauden kuluessa kalenterikuukauden tai jakson päättymisestä. Sen estämättä, mitä 1 momentissa säädetään, kirjaukset saadaan tehdä pääkirjanpitoon yhdistelminä siten kuin kauppa- ja teollisuusministeriö tarkemmin päättää.",
+      "section_number": "4",
+      "chapter_number": 2,
+      "statute_id": "480/1987"
+    },
+    {
+      "id": "225fbf3e-efd4-45dc-9a63-dc9905a95555",
+      "node_type": "Section",
+      "publisher": "finlex",
+      "title": "5 § Tosite",
+      "text": "Kirjauksen on perustuttava päivättyyn ja numeroituun tositteeseen, joka todentaa liiketapahtuman. Jos peruskirjanpidosta ei ilmene eikä muutoinkaan ole selvää, miten liiketapahtuma on kirjattu, tositteessa on oltava merkintä käytetyistä tileistä. Menotositteesta on käytävä selville vastaanotettu tuotannontekijä ja tulotositteesta luovutettu suorite. Tuotannontekijän vastaanottoajankohta ja suoritteen luovutusajankohta on voitava osoittaa tositteen tai sen liitteen avulla taikka muutoin. Tositteen, joka todentaa suoritetun maksun, tulee olla, mikäli se on mahdollista, maksun saajan tai maksun välittäneen rahalaitoksen tai muun vastaavan antama. Milloin kirjauksen perusteeksi ei saada ulkopuolisen antamaa tositetta, kirjaus tulee todentaa kirjanpitovelvollisen itsensä laatiman ja asianmukaisesti varmennetun tositteen avulla. Oikaisu- ja siirtokirjauksen todentava tosite on asianmukaisesti varmennettava. Sen estämättä, mitä 1 momentissa säädetään, korjausmerkintä saadaan tehdä ilman erillistä tositetta edellyttäen, että alkuperäisen kirjauksen ja korjausmerkinnän yhteys on vaikeuksitta todennettavissa. Kauppa- ja teollisuusministeriö päättää tarkemmin korjausmerkinnän tekemisestä.",
+      "section_number": "5",
+      "chapter_number": 2,
+      "statute_id": "480/1987"
+    },
+    {
+      "id": "18fb345a-47c5-429b-8107-fbc46fe92c16",
+      "node_type": "Section",
+      "publisher": "finlex",
+      "title": "6 § Kirjausketju",
+      "text": "Liiketapahtumat on merkittävä kirjanpitoon siten, että kirjausten yhteys tositteesta peruskirjanpitoon ja pääkirjanpitoon sekä pääkirjanpidosta 3 luvun 1 §:ssä tarkoitettuun tuloslaskelmaan ja taseeseen on vaikeuksitta todettavissa.",
+      "section_number": "6",
+      "chapter_number": 2,
+      "statute_id": "480/1987"
+    },
+    {
+      "id": "cb6917af-61a1-4566-a60d-ed78f15f7193",
+      "node_type": "Section",
+      "publisher": "finlex",
+      "title": "7 § Selväkielisyys",
+      "text": "Kirjanpitoaineistossa tulee joko tositteen tai sen perusteella tehtyjen kirjanpitomerkintöjen olla aina selväkielisessä kirjallisessa muodossa, jollei 8 §:stä muuta johdu. Kirjanpitomerkinnät on tehtävä selvästi ja pysyvästi. Kirjanpitomerkintää ei saa poistaa eikä tehdä epäselväksi.",
+      "section_number": "7",
+      "chapter_number": 2,
+      "statute_id": "480/1987"
+    },
+    {
+      "id": "a6825a58-a94e-4cb2-8dc8-d00984325cb5",
+      "node_type": "Section",
+      "publisher": "finlex",
+      "title": "8 § Koneellisten tietovälineiden hyväksikäyttö",
+      "text": "Tositteet ja kirjanpitomerkinnät saadaan tehdä koneelliselle tietovälineelle kirjanpitovelvollisen tarvittaessa selväkieliseen kirjalliseen muotoon saatettavalla tavalla. Mitä 1 momentissa säädetään, sovelletaan 3 luvun 8 §:ssä tarkoitettua tasekirjaa lukuun ottamatta kirjanpitoaineiston säilyttämiseen. Kirjanpitovelvollinen saa säilyttää tositteet ja niiden perusteella tehdyt kirjanpitomerkinnät samanaikaisesti koneellisella tietovälineellä. Kauppa- ja teollisuusministeriö päättää tarkemmin 1 ja 2 momentissa tarkoitetusta menettelystä samoin kuin koneellisen tietovälineen avulla pidetyn kirjanpidon täsmäyttämisestä.",
+      "section_number": "8",
+      "chapter_number": 2,
+      "statute_id": "480/1987"
+    },
+    {
+      "id": "0e446aef-b5fb-4066-8a48-19bc4b44753e",
+      "node_type": "Section",
+      "publisher": "finlex",
+      "title": "9 § Kirjanpitoaineiston säilyttäminen ulkomailla",
+      "text": "Kirjanpitokirjat, tilikauden tositteet ja muu kirjanpitoaineisto saadaan kirjanpidon hoitamiseksi tai 3 luvussa tarkoitetun tilinpäätöksen laatimiseksi säilyttää tilapäisesti muualla kuin Suomessa. Kauppa- ja teollisuusministeriö päättää tarkemmin ulkomailla säilyttämisen edellytyksistä.",
+      "section_number": "9",
+      "chapter_number": 2,
+      "statute_id": "480/1987"
+    },
+    {
+      "id": "adcd2534-0022-497d-bfad-b5cc5ff8c0f5",
+      "node_type": "Section",
+      "publisher": "finlex",
+      "title": "10 § Kirjanpitoaineiston säilytysaika",
+      "text": "Kirjanpitokirjat ja käyttöaikaa koskevin merkinnöin varustettu tililuettelo on säilytettävä vähintään 10 vuotta tilikauden päättymisestä siten järjestettynä, että tietojenkäsittelyn suorittamistapa voidaan vaikeuksitta todeta. Tilikauden tositteet, liiketapahtumia koskeva kirjeenvaihto ja koneellisen kirjanpidon täsmäytysselvitykset sekä muu kuin 1 momentissa mainittu kirjanpitoaineisto on säilytettävä vähintään kuusi vuotta sen vuoden lopusta, jonka aikana tilikausi on päättynyt, tositteet kirjausjärjestyksessä tai muutoin siten, että tositteiden ja kirjausten välinen yhteys voidaan vaikeuksitta todeta. Toiminnan loppuessa tai kirjanpitovelvollisuuden muuten päättyessä on kirjanpitovelvollisen tai tämän oikeudenomistajan järjestettävä kirjanpitoaineisto tässä pykälässä säädetyllä tavalla ja ilmoitettava rekisteriviranomaiselle, kenelle aineiston säilyttäminen on uskottu.",
+      "section_number": "10",
+      "chapter_number": 2,
+      "statute_id": "480/1987"
+    },
+    {
+      "id": "c3012a20-5cf5-4e88-a283-79ebcd7d3cd9",
+      "node_type": "Section",
+      "publisher": "finlex",
+      "title": "1 § Tilinpäätöksen sisältö",
+      "text": "Tilikaudelta on laadittava tilinpäätös, joka sisältää: Kustakin tuloslaskelman ja taseen erästä on esitettävä vastaava tieto viimeistä edelliseltä tilikaudelta (vertailutieto). Jos tuloslaskelman tai taseen erittelyä on muutettu, on vertailutietoa mahdollisuuksien mukaan oikaistava. Samoin on meneteltävä, jos vertailutieto ei muun syyn takia ole käyttökelpoinen. Tilinpäätökseen kuuluvien asiakirjojen on oltava selkeitä ja tilinpäätöksen on muodostettava yhtenäinen kokonaisuus. Tuloslaskelman ja taseen laatimisessa noudatettavista kaavoista, liitetiedoista sekä toimintakertomuksen tarkemmasta sisällöstä säädetään asetuksella.",
+      "section_number": "1",
+      "chapter_number": 3,
+      "statute_id": "480/1987"
+    },
+    {
+      "id": "8abfe1fb-4782-4982-9890-e29741a3f1c5",
+      "node_type": "Section",
+      "publisher": "finlex",
+      "title": "2 § Oikeat ja riittävät tiedot",
+      "text": "Tilinpäätöksen tulee antaa oikeat ja riittävät tiedot kirjanpitovelvollisen toiminnan tuloksesta ja taloudellisesta asemasta (oikea ja riittävä kuva). Tätä varten tarpeelliset lisätiedot on ilmoitettava liitetiedoissa. Kauppa- ja teollisuusministeriö päättää siitä, milloin ja miten saadaan poiketa tilinpäätöksen laatimista koskevista säännöksistä oikean ja riittävän kuvan antamiseksi.",
+      "section_number": "2",
+      "chapter_number": 3,
+      "statute_id": "480/1987"
+    },
+    {
+      "id": "976c98b2-e8c4-4f3c-9f80-eb47fa0e1073",
+      "node_type": "Section",
+      "publisher": "finlex",
+      "title": "3 § Yleiset tilinpäätösperiaatteet",
+      "text": "Tilinpäätöstä laadittaessa ja tilinavausta tehtäessä noudatettaviin periaatteisiin kuuluvat: Edellä 1 momentin 3 kohdassa tarkoitettu varovaisuus edellyttää erityisesti, että tilinpäätöksessä otetaan huomioon: Edellä 1 ja 2 momentissa säädetystä periaatteesta saadaan poiketa vain erityisestä syystä, jollei poikkeaminen perustu lakiin tai sen nojalla annettuun muuhun säännökseen tai määräykseen. Liitetietoihin on sisällytettävä selostus poikkeamisen perusteista sekä laskelma poikkeamisen vaikutuksesta tilikauden tulokseen ja taloudelliseen asemaan.",
+      "section_number": "3",
+      "chapter_number": 3,
+      "statute_id": "480/1987"
+    },
+    {
+      "id": "55540651-374d-4ed3-8082-2d74c0466a39",
+      "node_type": "Section",
+      "publisher": "finlex",
+      "title": "4 § Maksuperusteisuuden oikaiseminen ja täydentäminen",
+      "text": "Maksuperusteiset kirjaukset, vähäisiä liiketapahtumia ja maatilatalouden harjoittamista koskevia kirjauksia lukuun ottamatta, on oikaistava ja täydennettävä suoriteperusteen mukaisiksi ennen tilinpäätöksen laatimista.",
+      "section_number": "4",
+      "chapter_number": 3,
+      "statute_id": "480/1987"
+    },
+    {
+      "id": "229d1be9-a3cf-4bed-8bac-3d33117ae2bd",
+      "node_type": "Section",
+      "publisher": "finlex",
+      "title": "5 § Kieli ja valuutta",
+      "text": "Tilinpäätös on esitettävä suomen tai ruotsin kielellä Suomen rahan määräisenä. Jos kirjanpitovelvollinen esittää tilinpäätöstiedot myös ulkomaanrahan määräisinä, on ilmoitettava tietojen muuntamisessa käytetty kurssi.",
+      "section_number": "5",
+      "chapter_number": 3,
+      "statute_id": "480/1987"
+    },
+    {
+      "id": "699c467f-421b-4ec3-b5cc-38ae97a4b03a",
+      "node_type": "Section",
+      "publisher": "finlex",
+      "title": "6 § Laatimisaika",
+      "text": "Tilinpäätös on laadittava kolmen kuukauden kuluessa tilikauden päättymisestä.",
+      "section_number": "6",
+      "chapter_number": 3,
+      "statute_id": "480/1987"
+    },
+    {
+      "id": "c3f1fd1f-4ea9-455b-a2f6-c613b069598d",
+      "node_type": "Section",
+      "publisher": "finlex",
+      "title": "7 § Päiväys ja allekirjoitus",
+      "text": "Tilinpäätös on päivättävä ja kirjanpitovelvollisen on se allekirjoitettava. Jos kirjanpitovelvollinen on yhteisö tai säätiö, tilinpäätöksen allekirjoittavat hallitus tai vastuunalaiset yhtiömiehet ja toimitusjohtaja tai muu vastaavassa asemassa oleva henkilö.",
+      "section_number": "7",
+      "chapter_number": 3,
+      "statute_id": "480/1987"
+    },
+    {
+      "id": "0a673069-9243-4a8a-a88b-64870fcd7466",
+      "node_type": "Section",
+      "publisher": "finlex",
+      "title": "8 § Tasekirja",
+      "text": "Tilinpäätös sekä luettelo kirjanpitokirjoista ja tositteiden lajeista samoin kuin tieto niiden säilytystavoista on kirjoitettava sidottuun tai välittömästi tilinpäätöksen valmistumisen jälkeen sidottavaan tasekirjaan, jonka sivut tai aukeamat on numeroitava. Tasekirjan säilyttämiseen sovelletaan, mitä 2 luvun 10 §:n 1 momentissa säädetään.",
+      "section_number": "8",
+      "chapter_number": 3,
+      "statute_id": "480/1987"
+    },
+    {
+      "id": "24df650e-f970-4ce8-97da-155e81d5455d",
+      "node_type": "Section",
+      "publisher": "finlex",
+      "title": "9 § Tilinpäätöksen rekisteröinti",
+      "text": "Jäljennös tilinpäätöksestä on aina ilmoitettava rekisteröitäväksi patentti- ja rekisterihallitukselle, jos kirjanpitovelvollinen on: Mitä 1 momentissa säädetään, sovelletaan myös muuhun kirjanpitovelvolliseen, joka harjoittaa liiketoimintaa, jos tilikaudella on ylittynyt vähintään kaksi seuraavista rajoista: Jos kirjanpitovelvollisen tulee laatia konsernitilinpäätös, määräytyy 2 momentissa säädettyjen rajojen ylittyminen tai alittuminen konsernitilinpäätöksen perusteella. Kirjanpitovelvollisen on ilmoitettava tilinpäätös rekisteröitäväksi kuuden kuukauden kuluessa tilikauden päättymisestä. Osakeyhtiötä ja osuuskuntaa koskevista määräajoista säädetään erikseen. Kauppa- ja teollisuusministeriö päättää niistä menettelytavoista, joita tulee noudattaa toimitettaessa asiakirjoja koneellisessa muodossa patentti- ja rekisterihallitukselle.",
+      "section_number": "9",
+      "chapter_number": 3,
+      "statute_id": "480/1987"
+    },
+    {
+      "id": "a462d49f-38c9-4011-9d16-e2157fc09c94",
+      "node_type": "Section",
+      "publisher": "finlex",
+      "title": "10 § Tilinpäätöksen julkistaminen",
+      "text": "Rekisteröitäväksi ilmoitetun tilinpäätöksen julkistamismenettelystä säädetään erikseen. Rekisteröitäväksi ilmoittamisen ohella kirjanpitovelvollinen voi itse julkistaa 1 §:n mukaisen tilinpäätöksensä. Kirjanpitovelvollinen saa myös julkistaa tilinpäätöksestään lyhennelmän edellyttäen, että lyhennelmässä mainitaan, ettei siinä ole kaikkia 1 §:n mukaisessa tilinpäätöksessä esitettäviä tietoja.",
+      "section_number": "10",
+      "chapter_number": 3,
+      "statute_id": "480/1987"
+    },
+    {
+      "id": "8d681715-128f-4308-90e9-9b2b9f34e9eb",
+      "node_type": "Section",
+      "publisher": "finlex",
+      "title": "11 § Jäljennösten antamisvelvollisuus",
+      "text": "Tilinpäätöksestä on annettava pyynnöstä jäljennös, jos kirjanpitovelvollinen on: Edellä 9 §:n 1 ja 2 momentissa tarkoitetun kirjanpitovelvollisen on pyynnöstä annettava jäljennös tilinpäätöksestään, jos: Emoyrityksen on pyynnöstä annettava jäljennös 6 luvun 17 §:ssä tarkoitetun tytäryrityksensä tilinpäätöksestä, jollei sitä ilmoiteta 9 §:n mukaan rekisteröitäväksi. Jäljennös on annettava kahden viikon kuluessa pyynnöstä. Kirjanpitovelvollisella on oikeus saada jäljennöksestä maksu muulta kuin viranomaiselta. Maksun määrä saa olla enintään se, mitä rekisteriviranomainen perii vastaavasta jäljennöksestä.",
+      "section_number": "11",
+      "chapter_number": 3,
+      "statute_id": "480/1987"
+    },
+    {
+      "id": "23c2aa8f-aba6-4c4f-a407-8aa978054be7",
+      "node_type": "Section",
+      "publisher": "finlex",
+      "title": "12 § Tilintarkastusta koskevat tiedot",
+      "text": "Jos kirjanpitovelvollisen kirjanpito, tilinpäätös ja hallinto tarkastetaan tilintarkastuslain (936/1994) mukaisesti, kirjanpitovelvollisen tulee liittää jäljennös tilintarkastuskertomuksesta rekisteröitäväksi ilmoitettavaan tilinpäätökseensä sekä tilinpäätökseen, jonka kirjanpitovelvollinen muuten julkistaa. Sen estämättä, mitä 1 momentissa säädetään, jäljennös tilintarkastuskertomuksesta saadaan jättää liittämättä 10 §:n 3 momentissa tarkoitettuun tilinpäätöksen lyhennelmään. Tällöin lyhennelmässä on mainittava, jos tilintarkastuskertomuksessa on tilintarkastuslain 19 §:ssä tarkoitettuja kielteisiä lausuntoja, muistutuksia tai lisätietoja.",
+      "section_number": "12",
+      "chapter_number": 3,
+      "statute_id": "480/1987"
+    },
+    {
+      "id": "daef2c7b-d935-4f18-ac31-31bf08b63725",
+      "node_type": "Section",
+      "publisher": "finlex",
+      "title": "13 § Tase-erittelyt ja liitetietojen erittelyt",
+      "text": "Tilinpäätöstä varmentamaan on laadittava tase-erittelyt ja liitetietojen erittelyt, joiden sisällöstä säädetään tarkemmin asetuksella. Tase-erittelyihin ja liitetietojen erittelyihin sovelletaan, mitä 2 luvun 8 ja 9 §:ssä ja 10 §:n 1 ja 3 momentissa säädetään. Tase-erittelyjä ja liitetietojen erittelyjä ei ilmoiteta rekisteröitäviksi. Säätiön velvollisuudesta toimittaa tase-erittelyt rekisteriviranomaiselle säädetään erikseen.",
+      "section_number": "13",
+      "chapter_number": 3,
+      "statute_id": "480/1987"
+    },
+    {
+      "id": "f9507177-7dc3-4794-8f64-9c84583606a7",
+      "node_type": "Section",
+      "publisher": "finlex",
+      "title": "1 § Liikevaihto",
+      "text": "Liikevaihtoon luetaan kirjanpitovelvollisen varsinaisen toiminnan myyntituotot, joista on vähennetty myönnetyt alennukset sekä arvonlisävero ja muut välittömästi myynnin määrään perustuvat verot.",
+      "section_number": "1",
+      "chapter_number": 4,
+      "statute_id": "480/1987"
+    },
+    {
+      "id": "a6d9a6b1-1de7-4e0a-838a-8ff016481da0",
+      "node_type": "Section",
+      "publisher": "finlex",
+      "title": "2 § Satunnaiset tuotot ja kulut",
+      "text": "Satunnaisiksi katsotaan sellaiset tuotot ja kulut, jotka perustuvat kirjanpitovelvollisen tavanomaisesta toiminnasta poikkeaviin, kertaluonteisiin ja olennaisiin tapahtumiin.",
+      "section_number": "2",
+      "chapter_number": 4,
+      "statute_id": "480/1987"
+    },
+    {
+      "id": "b85e82be-8588-4734-857a-445b6129fa93",
+      "node_type": "Section",
+      "publisher": "finlex",
+      "title": "3 § Pysyvät ja vaihtuvat vastaavat",
+      "text": "Taseen vastaavien erät jaetaan pysyviin ja vaihtuviin käyttötarkoituksensa perusteella. Pysyviä ovat erät, jotka on tarkoitettu tuottamaan tuloa jatkuvasti useana tilikautena. Muut vastaavien erät ovat vaihtuvia.",
+      "section_number": "3",
+      "chapter_number": 4,
+      "statute_id": "480/1987"
+    },
+    {
+      "id": "6c299a75-aef3-4725-909f-86bc07a6b8ee",
+      "node_type": "Section",
+      "publisher": "finlex",
+      "title": "4 § Käyttö-, vaihto- ja rahoitus- omaisuus",
+      "text": "Käyttöomaisuutta ovat 3 §:ssä tarkoitettuihin pysyviin vastaaviin kuuluvat esineet, erikseen luovutettavissa olevat oikeudet ja muut hyödykkeet. Vaihto-omaisuutta ovat sellaisinaan tai jalostettuina luovutettaviksi tai kulutettaviksi tarkoitetut hyödykkeet. Rahoitusomaisuutta ovat rahat, saamiset sekä tilapäisesti muussa muodossa olevat rahoitusvarat.",
+      "section_number": "4",
+      "chapter_number": 4,
+      "statute_id": "480/1987"
+    },
+    {
+      "id": "a4074ee0-0c4f-4bf5-8b27-8e8552ae3176",
+      "node_type": "Section",
+      "publisher": "finlex",
+      "title": "5 § Hankintameno",
+      "text": "Hankintamenoon luetaan hyödykkeen hankinnasta ja valmistuksesta aiheutuneet muuttuvat menot. Jos hyödykkeen hankintaan ja valmistukseen liittyvien kiinteiden menojen määrä on olennainen 1 momentissa tarkoitettuun hankintamenoon verrattuna, saadaan myös niiden osuus lukea hankintamenoon. Jos pysyviin aktiivoihin kuuluvan hyödykkeen valmistamiseen kohdistettavissa olevan lainan korkomenot valmistusajalta ja 2 momentin mukaisen osuuden yhteismäärä on olennainen 1 momentissa tarkoitettuun hankintamenoon verrattuna, saadaan hankintamenoon lukea 2 momentin mukaisen osuuden ohella myös nämä korkomenot. Jollei kirjanpitovelvollinen muuta näytä, vaihto-omaisuuteen kuuluvien samanlajisten hyödykkeiden hankintameno määritetään olettaen, että hyödykkeet on luovutettu siinä järjestyksessä kuin ne on hankittu, tai että luovutusjärjestys on ollut hankintajärjestykselle päinvastainen. Tällaisten hyödykkeiden hankintamenoksi saadaan merkitä myös toteutuneiden hankintamenojen keskiarvo, joka on painotettu vastaavilla hankintamäärillä. Mitä 4 momentissa säädetään, sovelletaan myös niihin samanlajisiin arvopapereihin, jotka kuuluvat taseen vastaavissa muihin eriin kuin vaihto-omaisuuteen.",
+      "section_number": "5",
+      "chapter_number": 4,
+      "statute_id": "480/1987"
+    },
+    {
+      "id": "985f5b07-f135-46a2-b2fd-9c1acf3f5316",
+      "node_type": "Section",
+      "publisher": "finlex",
+      "title": "6 § Siirtosaamiset ja siirtovelat",
+      "text": "Siirtosaamisia ovat: Siirtovelkoja ovat:",
+      "section_number": "6",
+      "chapter_number": 4,
+      "statute_id": "480/1987"
+    },
+    {
+      "id": "f2aa2f96-a7e9-467c-b815-a3e3e91dc122",
+      "node_type": "Section",
+      "publisher": "finlex",
+      "title": "7 § Pitkäaikainen saaminen ja velka",
+      "text": "Pitkäaikaiseksi katsotaan saaminen tai se osa saamisesta, joka erääntyy maksettavaksi yhtä vuotta pidemmän ajan kuluttua. Muut saamiset ovat lyhytaikaisia. Mitä 1 momentissa säädetään, koskee myös velkojen esittämistä pitkäaikaisina ja lyhytaikaisina.",
+      "section_number": "7",
+      "chapter_number": 4,
+      "statute_id": "480/1987"
+    },
+    {
+      "id": "6a5295d2-7b49-4deb-a60a-f3c31912c4b8",
+      "node_type": "Section",
+      "publisher": "finlex",
+      "title": "1 § Tuottojen, kulujen ja menetysten jaksottaminen",
+      "text": "Tilikauden tulot kirjataan tuotoiksi tuloslaskelmaan. Tuotoista vähennetään kuluina ne menot, joista ei todennäköisesti enää kerry niitä vastaavaa tuloa, samoin kuin menetykset. Muut menot saadaan aktivoida sen mukaan kuin jäljempänä tässä luvussa säädetään.",
+      "section_number": "1",
+      "chapter_number": 5,
+      "statute_id": "480/1987"
+    },
+    {
+      "id": "ea3e2b9f-5f91-44fc-8d87-556f4c222ab5",
+      "node_type": "Section",
+      "publisher": "finlex",
+      "title": "2 § Saamiset, rahoitusvarat ja velat",
+      "text": "Taseeseen merkitään:",
+      "section_number": "2",
+      "chapter_number": 5,
+      "statute_id": "480/1987"
+    },
+    {
+      "id": "0b0c43e8-f9d5-4712-9217-9e569c252ade",
+      "node_type": "Section",
+      "publisher": "finlex",
+      "title": "3 § Ulkomaanrahan määräiset saamiset, velat ja muut sitoumukset",
+      "text": "Ulkomaanrahan määräiset saamiset samoin kuin ulkomaanrahan määräiset velat ja muut sitoumukset muutetaan Suomen rahaksi Suomen Pankin tilinpäätöspäivänä noteeraamaan kurssiin. Jos ulkomaanrahan määräiset saamiset tai velat taikka muut sitoumukset on sopimuksilla tai muutoin sidottu tiettyyn kurssiin, ne saadaan muuttaa Suomen rahaksi sitä noudattaen. Jos saaminen tai velka erääntyy maksettavaksi yhtä vuotta pidemmän ajan kuluttua tilinpäätöspäivästä, saadaan siitä johtuvat kurssierot kirjata viimeistään sen tilikauden tuotoiksi ja kuluiksi, jonka aikana saaminen tai velka maksetaan.",
+      "section_number": "3",
+      "chapter_number": 5,
+      "statute_id": "480/1987"
+    },
+    {
+      "id": "b5d0c556-068b-4f5c-8a2d-01132a4d7a13",
+      "node_type": "Section",
+      "publisher": "finlex",
+      "title": "4 § Tulon kirjaaminen tuotoksi valmistusasteen perusteella",
+      "text": "Pitkän valmistusajan vaativasta suoritteesta syntyvä tulo saadaan kirjata tuotoksi valmistusasteen perusteella. Suoritteesta kertyvän erilliskatteen tulee tällöin olla luotettavalla tavalla ennakoitavissa. Kirjanpitovelvollisen tulee noudattaa samaa perustetta kaikkien tässä tarkoitettujen tulojen kirjaamisessa tuotoiksi.",
+      "section_number": "4",
+      "chapter_number": 5,
+      "statute_id": "480/1987"
+    },
+    {
+      "id": "346a9419-7388-4e0c-97dd-f14b3a2f72fb",
+      "node_type": "Section",
+      "publisher": "finlex",
+      "title": "5 § Käyttöomaisuuden hankintamenon jaksottaminen",
+      "text": "Käyttöomaisuuden ja muun pysyviin vastaaviin kuuluvan aineellisen omaisuuden hankintameno aktivoidaan ja kirjataan vaikutusaikanaan suunnitelman mukaan poistoina kuluksi. Aktivoituun hankintamenoon luetut hankinnasta ja valmistuksesta aiheutuneet menot on voitava selvittää kustannuslaskennan tai -laskelmien avulla. Aineelliseen käyttöomaisuuteen kuuluvat samanlajiset ja hankintamenoltaan vähäiset hyödykkeet, joita kirjanpitovelvollinen hankkii jatkuvasti siten, että niiden määrän ja yhteenlaskettujen hankintamenojen muutokset ovat vähäisiä, saadaan merkitä taseeseen samaan rahamäärään tilikaudesta toiseen.",
+      "section_number": "5",
+      "chapter_number": 5,
+      "statute_id": "480/1987"
+    },
+    {
+      "id": "b263eb15-a0fa-459d-af70-5cbdb8afcf1f",
+      "node_type": "Section",
+      "publisher": "finlex",
+      "title": "6 § Vaihto-omaisuuden hankintamenon jaksottaminen",
+      "text": "Tilikauden päättyessä jäljellä olevan vaihto-omaisuuden hankintameno aktivoidaan. Jos vaihto-omaisuuden todennäköinen hankintameno tai luovutushinta on tilikauden päättyessä hankintamenoa pienempi, on erotus kuitenkin kirjattava kuluksi. Vaihto-omaisuuden aktivoidun hankintamenon selvittämiseen sovelletaan, mitä 5 §:n 2 momentissa säädetään. Vaihto-omaisuuden aineisiin tai tarvikkeisiin kuuluvat samanlajiset ja hankintamenoltaan vähäiset hyödykkeet, joita kirjanpitovelvollinen hankkii jatkuvasti siten, että niiden määrän ja yhteenlaskettujen hankintamenojen muutokset ovat vähäisiä, saadaan merkitä taseeseen samaan rahamäärään tilikaudesta toiseen.",
+      "section_number": "6",
+      "chapter_number": 5,
+      "statute_id": "480/1987"
+    },
+    {
+      "id": "7abd317b-b89a-440a-8aab-600b95dfcfce",
+      "node_type": "Section",
+      "publisher": "finlex",
+      "title": "7 § Perustamismenojen jaksottaminen",
+      "text": "Menot yrityksen perustamisesta (perustamismenot) saadaan aktivoida erityistä varovaisuutta noudattaen. Aktivoidut perustamismenot on poistettava enintään viiden vuoden kuluessa suunnitelman mukaan.",
+      "section_number": "7",
+      "chapter_number": 5,
+      "statute_id": "480/1987"
+    },
+    {
+      "id": "34246757-3e03-45f4-b9c8-da84beb91370",
+      "node_type": "Section",
+      "publisher": "finlex",
+      "title": "8 § Kehittämismenojen jaksottaminen",
+      "text": "Kehittämismenot saadaan aktivoida erityistä varovaisuutta noudattaen. Aktivoidut kehittämismenot on poistettava suunnitelman mukaan enintään viiden vuoden kuluessa, jollei tätä pidempää poistoaikaa, enintään 20 vuotta, voida erityisestä syystä pitää hyvän kirjanpitotavan mukaisena. Kehittämismenojen aktivointiedellytyksistä päättää tarkemmin kauppa- ja teollisuusministeriö.",
+      "section_number": "8",
+      "chapter_number": 5,
+      "statute_id": "480/1987"
+    },
+    {
+      "id": "689d0295-ad72-4018-b344-24411ee9e0c3",
+      "node_type": "Section",
+      "publisher": "finlex",
+      "title": "9 § Liikearvon hankintamenon jaksottaminen",
+      "text": "Liikearvon hankintameno on poistettava enintään viiden vuoden kuluessa suunnitelman mukaan tai, jos sen vaikutusaika on tätä pidempi, vaikutusaikanaan, kuitenkin enintään 20 vuoden kuluessa.",
+      "section_number": "9",
+      "chapter_number": 5,
+      "statute_id": "480/1987"
+    },
+    {
+      "id": "f67ffe8a-3f32-454c-830c-8e10a0d86592",
+      "node_type": "Section",
+      "publisher": "finlex",
+      "title": "10 § Pääoma-alennus ja lainan liikkeeseenlaskumenot",
+      "text": "Lainan ottamisesta aiheutunut pääoma-alennus ja siihen rinnastettavat menot sekä lainan liikkeeseenlaskusta aiheutuneet menot saadaan aktivoida erityistä varovaisuutta noudattaen. Aktivoidut erät on kirjattava laina-ajan kulumiseen perustuvan suunnitelman mukaan kuluiksi, kuitenkin vähintään samassa suhteessa kuin lainaa maksetaan takaisin.",
+      "section_number": "10",
+      "chapter_number": 5,
+      "statute_id": "480/1987"
+    },
+    {
+      "id": "d42d4085-7dbd-4f01-bd79-fa5a2aa6a089",
+      "node_type": "Section",
+      "publisher": "finlex",
+      "title": "11 § Muiden pitkävaikutteisten menojen jaksottaminen",
+      "text": "Jos muita kuin 7―10 §:ssä tarkoitettuja pitkävaikutteisia menoja on aktivoitu, ne on poistettava suunnitelman mukaan enintään viiden vuoden kuluessa, jollei tätä pidempää poistoaikaa, enintään 20 vuotta, voida erityisestä syystä pitää hyvän kirjanpitotavan mukaisena.",
+      "section_number": "11",
+      "chapter_number": 5,
+      "statute_id": "480/1987"
+    },
+    {
+      "id": "bd2da2c3-9806-4956-9c5a-03c10d452752",
+      "node_type": "Section",
+      "publisher": "finlex",
+      "title": "12 § Muut kuin suunnitelman mukaiset poistot",
+      "text": "Kirjanpitovelvollinen saa kirjata suunnitelman ylittäviä poistoja, jos siihen on erityistä syytä. Sen estämättä, mitä 5 §:n 1 momentissa ja 7―11 §:ssä säädetään, ammatinharjoittaja, sellainen kirjanpitovelvollinen, jonka toiminta perustuu kiinteistön hallintaan, yhdistys ja muu vastaava yhteisö sekä säätiö saa poistaa käyttöomaisuuden hankintamenon ja muut pitkävaikutteiset menot niiden vaikutusaikana ilman ennalta laadittua suunnitelmaa.",
+      "section_number": "12",
+      "chapter_number": 5,
+      "statute_id": "480/1987"
+    },
+    {
+      "id": "8262f6fd-4874-45a8-bafe-e2c8b32f3090",
+      "node_type": "Section",
+      "publisher": "finlex",
+      "title": "13 § Arvonalennus",
+      "text": "Jos pysyviin vastaaviin kuuluvan hyödykkeen tai sijoituksen todennäköisesti tulevaisuudessa kerryttämä tulo on pysyvästi vielä poistamatonta hankintamenoa pienempi, erotus on kirjattava arvonalennuksena kuluksi.",
+      "section_number": "13",
+      "chapter_number": 5,
+      "statute_id": "480/1987"
+    },
+    {
+      "id": "703e64eb-efa0-45d8-9c67-41560f29a1ab",
+      "node_type": "Section",
+      "publisher": "finlex",
+      "title": "14 § Vastaiset menot ja menetykset sekä pakollinen varaus",
+      "text": "Tuotoista on vähennettävä velvoitteista vastaisuudessa aiheutuvat menot ja menetykset, jos: Tuotoista saadaan vähentää myös sellainen velvoitteesta aiheutuva vastainen meno tai menetys, joka on yksilöitävissä ja täyttää sen, mitä 1 momentin 1―3 kohdassa säädetään. Jos 1 ja 2 momentissa tarkoitetun menon tai menetyksen täsmällistä määrää tai toteutumisajankohtaa ei tiedetä, merkitään se taseen pakollisiin varauksiin. Edellä 1―3 momentissa tarkoitetut menetykset ja menot saadaan merkitä tuloslaskelmaan ja taseeseen enintään niiden todennäköiseen määrään. Taseen vastaaviin merkityn erän arvon alenemista ei saa merkitä pakolliseksi varaukseksi.",
+      "section_number": "14",
+      "chapter_number": 5,
+      "statute_id": "480/1987"
+    },
+    {
+      "id": "9721a77f-9cd2-4983-8cbc-600c6aa8078f",
+      "node_type": "Section",
+      "publisher": "finlex",
+      "title": "15 § Vapaaehtoinen varaus",
+      "text": "Tilinpäätöksessä saadaan tehdä investointi-, toiminta- tai muu sellainen varaus.",
+      "section_number": "15",
+      "chapter_number": 5,
+      "statute_id": "480/1987"
+    },
+    {
+      "id": "ac98e229-5e4d-4471-bca5-0e676a85a9ff",
+      "node_type": "Section",
+      "publisher": "finlex",
+      "title": "16 § Kulukirjauksen oikaisu",
+      "text": "Jos kulukirjaus, joka on tehty rahoitusomaisuudesta 2 §:n, vaihto-omaisuudesta 6 §:n 1 momentin tai taseen pysyvästä vastaavasta 13 §:n perusteella, osoittautuu viimeistään tilikauden päättymispäivänä aiheettomaksi, se on kirjattava kulukirjauksen oikaisuksi.",
+      "section_number": "16",
+      "chapter_number": 5,
+      "statute_id": "480/1987"
+    },
+    {
+      "id": "0105e019-9260-4597-803b-35633803cae0",
+      "node_type": "Section",
+      "publisher": "finlex",
+      "title": "17 § Arvonkorotus",
+      "text": "Jos pysyviin vastaaviin kuuluvan maa- tai vesialueen tai arvopaperin todennäköinen luovutushinta on tilinpäätöspäivänä pysyvästi alkuperäistä hankintamenoa olennaisesti suurempi, saadaan taseeseen merkitä vielä poistamatta olevan hankintamenon lisäksi enintään todennäköisen luovutushinnan ja poistamatta olevan hankintamenon erotuksen suuruinen arvonkorotus. Arvonkorotusta vastaava määrä on merkittävä omaan pääomaan sisältyvään arvonkorotusrahastoon. Jos arvonkorotus osoittautuu aiheettomaksi, se on peruutettava.",
+      "section_number": "17",
+      "chapter_number": 5,
+      "statute_id": "480/1987"
+    },
+    {
+      "id": "2b4bd6f6-543b-4aca-b4c3-d14fd816128e",
+      "node_type": "Section",
+      "publisher": "finlex",
+      "title": "18 § Jaksotuseroista johtuvat laskennalliset verovelat ja -saamiset",
+      "text": "Tuottojen ja niitä vastaavien veronalaisten tulojen samoin kuin kulujen ja niitä vastaavien verotuksessa vähennyskelpoisten menojen jaksotuseroista johtuvat laskennalliset verovelat ja -saamiset saadaan erityistä varovaisuutta noudattaen merkitä omana eränään tuloslaskelmaan ja taseeseen.",
+      "section_number": "18",
+      "chapter_number": 5,
+      "statute_id": "480/1987"
+    },
+    {
+      "id": "7f619eb0-88a7-40a0-bdea-4e3ef6402455",
+      "node_type": "Section",
+      "publisher": "finlex",
+      "title": "19 § Vaihto-omaisuuden ja käyttöomaisuuden väliset siirrot",
+      "text": "Hyödyke siirretään vaihto-omaisuudesta käyttöomaisuuteen hankintamenon tai sitä alemman todennäköisen luovutushinnan määräisenä. Käyttöomaisuudesta hyödyke siirretään vaihto-omaisuuteen hankintamenon vielä poistamatta olevaa osaa vastaavasta määrästä.",
+      "section_number": "19",
+      "chapter_number": 5,
+      "statute_id": "480/1987"
+    },
+    {
+      "id": "208a3327-c34b-48e9-8eb7-5700cb08cfc4",
+      "node_type": "Section",
+      "publisher": "finlex",
+      "title": "20 § Oma käyttö",
+      "text": "Hyödykkeen ottaminen liikkeestä tai ammatista kirjanpitovelvollisen omaan käyttöön kirjataan vielä poistamattoman hankintamenon tai sitä alemman todennäköisen luovutushinnan määräisenä.",
+      "section_number": "20",
+      "chapter_number": 5,
+      "statute_id": "480/1987"
+    },
+    {
+      "id": "b4bf2dd8-4aff-4033-b3a8-a245a418829c",
+      "node_type": "Section",
+      "publisher": "finlex",
+      "title": "1 § Laatimisvelvollisuus",
+      "text": "Emoyritys on velvollinen laatimaan ja sisällyttämään tilinpäätökseensä konsernitilinpäätöksen, jos se on: Konsernitilinpäätöksen on velvollinen laatimaan ja sisällyttämään tilinpäätökseensä myös muu kuin 1 momentissa tarkoitettu emoyritys, ammatinharjoittajaa lukuun ottamatta, jos se harjoittaa liiketoimintaa. Konsernitilinpäätös saadaan jättää laatimatta, jos sekä päättyneellä tilikaudella että sitä välittömästi edeltäneellä tilikaudella on ylittynyt enintään yksi seuraavista rajoista, emoyrityksen ja sen tytäryritysten osalta yhteenlaskettuna: Sen lisäksi, mitä 3 momentissa säädetään, konsernitilinpäätös saadaan jättää laatimatta, jos:",
+      "section_number": "1",
+      "chapter_number": 6,
+      "statute_id": "480/1987"
+    },
+    {
+      "id": "a17bac1d-8239-4ab6-86ec-494f6b81ab44",
+      "node_type": "Section",
+      "publisher": "finlex",
+      "title": "2 § Konsernitilinpäätöksen sisältö",
+      "text": "Konsernitilinpäätös laaditaan konserniyritysten tuloslaskelmien ja taseiden sekä niiden liitetietojen yhdistelmänä. Lisäksi emoyrityksen toimintakertomuksessa esitetään 3 luvun 1 §:n 1 momentin 4 kohdassa tarkoitetut tiedot myös konsernista. Konsernitilinpäätös on laadittava selkeästi ja siten, että se muodostaa yhtenäisen kokonaisuuden. Konsernituloslaskelman ja -taseen laatimisessa noudatettavista kaavoista sekä liitetiedoista säädetään asetuksella.",
+      "section_number": "2",
+      "chapter_number": 6,
+      "statute_id": "480/1987"
+    },
+    {
+      "id": "1bff6005-86c8-4f29-89f8-e874fd5057c1",
+      "node_type": "Section",
+      "publisher": "finlex",
+      "title": "3 § Poikkeukset tytäryrityksen yhdistelemisvelvollisuudesta",
+      "text": "Tytäryrityksen tilinpäätös saadaan jättää yhdistelemättä konsernitilinpäätökseen, jos: Jos konserniin kuuluu useita 1 momentin 1 kohdassa tarkoitettuja tytäryrityksiä, joiden tilinpäätösten samanaikaisesti yhdistelemättä jättämisestä seuraisi, ettei konsernitilinpäätös anna oikeaa ja riittävää kuvaa konsernin toiminnan tuloksesta ja taloudellisesta asemasta, on näiden tytäryritysten tilinpäätökset yhdisteltävä konsernitilinpäätökseen.",
+      "section_number": "3",
+      "chapter_number": 6,
+      "statute_id": "480/1987"
+    },
+    {
+      "id": "c2a42f3b-51d4-4d25-b05d-cbb9f32bb4b8",
+      "node_type": "Section",
+      "publisher": "finlex",
+      "title": "4 § Laadintaperiaatteet",
+      "text": "Konsernitilinpäätöstä laadittaessa on noudatettava jatkuvasti samoja periaatteita. Niitä saadaan muuttaa vain, jos siihen on erityistä syytä. Konserniyritysten tilinpäätökset tulee ennen yhdistelyä muuttaa siten, että niissä sovelletaan yhtenäisesti joko emoyrityksessä tai konsernin pääasiallisessa toiminnassa noudatettuja tämän lain mukaisia tilinpäätösperiaatteita. Tästä saadaan poiketa erityisestä syystä. Konsernitilinpäätöksessä tulee noudattaa soveltuvin osin, mitä 3 luvun 2 ja 3 §:ssä sekä 4 ja 5 luvussa säädetään.",
+      "section_number": "4",
+      "chapter_number": 6,
+      "statute_id": "480/1987"
+    },
+    {
+      "id": "9773e9ed-80b5-4b87-af8b-654b4af113f9",
+      "node_type": "Section",
+      "publisher": "finlex",
+      "title": "5 § Tytäryrityksen välitilinpäätös",
+      "text": "Jos konsernitilinpäätökseen yhdisteltävän tytäryrityksen tilikausi päättyy yli kolme kuukautta ennen emoyrityksen tilikauden päättymistä, on konsernitilinpäätökseen yhdisteltävä tytäryrityksen välitilinpäätös, joka laaditaan emoyrityksen tilikauden päättymispäivälle. Välitilinpäätöstä laadittaessa on noudatettava soveltuvin osin 1 ja 3―5 luvun säännöksiä.",
+      "section_number": "5",
+      "chapter_number": 6,
+      "statute_id": "480/1987"
+    },
+    {
+      "id": "e6a3da03-26dc-4def-9b31-2cdfb3326f1d",
+      "node_type": "Section",
+      "publisher": "finlex",
+      "title": "6 § Ulkomaisen tytäryrityksen tilinpäätöserät",
+      "text": "Ulkomaisen tytäryrityksen tase-erät muunnetaan konsernitilinpäätökseen yhdistelemistä varten Suomen rahan määräisiksi käyttäen Suomen Pankin tilinpäätöspäivänä noteeraamaa kurssia ja tuloslaskelmaerät käyttäen tilikauden keskikurssia. Liitetiedot muunnetaan samalla tavalla kuin taseen ja tuloslaskelman erät. Myös muita hyvän kirjanpitotavan mukaisia muuntamismenetelmiä saadaan soveltaa.",
+      "section_number": "6",
+      "chapter_number": 6,
+      "statute_id": "480/1987"
+    },
+    {
+      "id": "2a59180e-72b0-4f50-96ad-1a6cf14b0444",
+      "node_type": "Section",
+      "publisher": "finlex",
+      "title": "7 § Konsernin sisäiset erät ja vähemmistöosuudet",
+      "text": "Konsernitilinpäätöksessä on esitettävä konsernin tulos sekä taloudellinen asema siten kuin konserniyritykset olisivat yksi kirjanpitovelvollinen. Konserniyritysten välisiin toimiin perustuvien konsernin sisäisten erien vaikutus eliminoidaan. Konsernituloslaskelmaa laadittaessa on vähennettävä konsernin sisäiset tuotot ja kulut sekä sisäinen voitonjako. Muiden kuin konserniyritysten omistusta vastaavat osuudet tytäryritysten tuloksista merkitään konsernituloslaskelmaan omaksi eräkseen (vähemmistöosuus konsernituloslaskelmassa). Lisäksi vähennetään konserniyritysten taseisiin aktivoitujen konsernin sisäisten katteiden muutokset tilikauden aikana. Konsernitasetta laadittaessa on vähennettävä konserniyritysten keskinäiset saamiset ja velat sekä konserniyritysten taseisiin aktivoidut konsernin sisäiset katteet. Muiden kuin konserniyritysten omistusta tytäryrityksissä vastaavat osuudet merkitään konsernitaseeseen omaksi eräkseen (vähemmistöosuus konsernitaseessa). Konsernin sisäiset tuotot ja kulut sekä sisäinen voitonjako, konserniyritysten keskinäiset saamiset ja velat samoin kuin konsernin sisäiset katteet ja niiden muutokset saadaan jättää vähentämättä, jos vähentäminen ei ole tarpeen oikean ja riittävän kuvan antamiseksi konsernin toiminnan tuloksesta ja taloudellisesta asemasta. Tehtyjen ja suunnitelman mukaisten poistojen kertynyt erotus (poistoero) ja vapaaehtoiset varaukset merkitään konsernitaseeseen jaettuna omaan pääomaan ja laskennalliseen verovelkaan sekä niiden muutos konsernituloslaskelmaan jaettuna laskennallisen verovelan muutokseen ja tilikauden tulokseen. Jos sekä päättyneellä että sitä välittömästi edeltäneellä tilikaudella on ylittynyt enintään yksi 3 luvun 9 §:n 2 momentissa tarkoitetuista rajoista, kirjanpitovelvollinen saa jättää tekemättä edellä tässä momentissa tarkoitetun jakamisen.",
+      "section_number": "7",
+      "chapter_number": 6,
+      "statute_id": "480/1987"
+    },
+    {
+      "id": "a1948938-144e-4003-a4a5-aae4e233522e",
+      "node_type": "Section",
+      "publisher": "finlex",
+      "title": "8 § Hankintamenomenetelmä",
+      "text": "Konsernin sisäinen tytäryrityksen osakkeiden tai osuuksien omistus eliminoidaan vähentämällä niiden hankintameno sekä tytäryrityksen hankinta-ajankohdan mukaisesta omasta pääomasta määrä, joka vastaa konsernin omistusosuutta. Tytäryrityksen omaan pääomaan luetaan myös laskennallisella verovelalla vähennettynä kertynyt poistoero ja vapaaehtoiset varaukset. Jos yrityksen osakkeita tai osuuksia on hankittu konsernin omistukseen ennen kuin siitä tuli tytäryritys, niiden hankintameno eliminoidaan sen ajankohdan oman pääoman perusteella, jolloin yrityksestä tuli tytäryritys. Osakkeiden ja osuuksien hankintameno saadaan eliminoida myös sen oman pääoman perusteella, jota tytäryrityksen tase ensimmäisen kerran yhdisteltäessä osoittaa, jos tällä menettelyllä ei ole olennaista vaikutusta oikean ja riittävän kuvan antamiseen konsernin toiminnan tuloksesta ja taloudellisesta asemasta. Jos 1 momentin mukaisessa eliminoinnissa osakkeiden tai osuuksien hankintameno on suurempi kuin vastaava oma pääoma, kohdennetaan jäännöserä (konserniaktiiva) konsernin omistusosuuden mukaisesti niihin tytäryrityksen omaisuus- ja velkaeriin, joista konserniaktiivan katsotaan johtuvan. Jos 1 momentin mukaisessa eliminoinnissa osakkeiden tai osuuksien hankintameno on pienempi kuin vastaava oma pääoma, kohdennetaan jäännöserä (konsernipassiiva) konsernin omistusosuuden mukaisesti niihin tytäryrityksen omaisuus- ja velkaeriin, joista konsernipassiivan katsotaan johtuvan. Se osa konserniaktiivasta, jota ei voida kohdentaa 3 momentin mukaisesti (konserniliikearvo), on poistettava suunnitelman mukaan enintään viiden vuoden kuluessa tai, jos sen vaikutusaika on tätä pidempi, vaikutusaikanaan, kuitenkin enintään 20 vuoden kuluessa. Se osa konsernipassiivasta, jota ei voida kohdentaa 4 momentin mukaisesti (konsernireservi), merkitään tuotoksi konsernituloslaskelmaan silloin, kun vastaava meno tai menetys on kirjattu kuluksi tytäryrityksen tuloslaskelmaan taikka kun sitä vastaa realisoitunut tuotto.",
+      "section_number": "8",
+      "chapter_number": 6,
+      "statute_id": "480/1987"
+    },
+    {
+      "id": "60e5942c-8130-4103-8259-8d698bf75437",
+      "node_type": "Section",
+      "publisher": "finlex",
+      "title": "9 § Yhdistelmämenetelmä",
+      "text": "Edellä 8 §:ssä säädetyn estämättä konsernin sisäinen tytäryrityksen osakkeiden tai osuuksien omistus saadaan eliminoida vähentämällä niiden hankintameno sekä konsernin omistusosuuden mukainen määrä tytäryrityksen osake-, osuus- tai niitä vastaavasta pääomasta, jos: Edellä 1 momentin 1 ja 3 kohdassa tarkoitettu suhde lasketaan osakkeita tai osuuksia vastaavan pääoman kirjanpitoarvosta, jos näillä osakkeilla tai osuuksilla ei ole nimellisarvoa. Jos 1 momentin mukaisessa eliminoinnissa osakkeiden tai osuuksien hankintameno on suurempi kuin niitä vastaava pääoma, merkitään jäännöserä konsernin oman pääoman vähennykseksi. Jos hankintameno on vastaavaa pääomaa pienempi, merkitään jäännöserä konsernin oman pääoman lisäykseksi.",
+      "section_number": "9",
+      "chapter_number": 6,
+      "statute_id": "480/1987"
+    },
+    {
+      "id": "fa9173e8-f969-4707-9564-2f7e05ba1bd5",
+      "node_type": "Section",
+      "publisher": "finlex",
+      "title": "10 § Tytäryrityksen tai emoyrityksen omistamat emoyrityksen osakkeet tai osuudet",
+      "text": "Tytäryrityksen taseeseen merkityt emoyrityksen osakkeet tai osuudet merkitään omaksi eräkseen myös konsernitilinpäätökseen. Mitä 1 momentissa säädetään, sovelletaan vastaavasti emoyrityksen taseeseen merkittyihin omiin osakkeisiin tai osuuksiin.",
+      "section_number": "10",
+      "chapter_number": 6,
+      "statute_id": "480/1987"
+    },
+    {
+      "id": "1561a080-db59-420f-8afc-e5e34acf7dd4",
+      "node_type": "Section",
+      "publisher": "finlex",
+      "title": "11 § Laskennalliset verovaikutukset yhdistelystä",
+      "text": "Jos yhdistelytoimenpiteiden seurauksena konsernin tulos on olennaisesti suurempi tai pienempi kuin konsernitilinpäätökseen yhdisteltyjen tilinpäätösten tulokset yhteensä, on tilikauden ja edellisten tilikausien välittömiä veroja oikaistava ja täydennettävä konsernin tuloksen perusteella ennen konsernitilinpäätökseen merkitsemistä siltä osin kuin vastaisia verovaikutuksia konserniyrityksille on pidettävä ilmeisenä.",
+      "section_number": "11",
+      "chapter_number": 6,
+      "statute_id": "480/1987"
+    },
+    {
+      "id": "c6ea4dd3-5607-4d79-b35e-8c11b8eeb35b",
+      "node_type": "Section",
+      "publisher": "finlex",
+      "title": "12 § Osakkuusyrityksen tilinpäätöstietojen yhdistelemisvelvollisuus",
+      "text": "Konsernitilinpäätökseen tulee yhdistellä konserniyritysten omistusosuutta vastaava määrä osakkuusyrityksen voitosta tai tappiosta sekä oman pääoman muutoksesta siten kuin 13 §:ssä säädetään. Osakkuusyrityksen tilinpäätöstiedot saadaan jättää yhdistelemättä konsernitilinpäätökseen, jos yhdistely ei ole tarpeen oikean ja riittävän kuvan antamiseksi konsernin toiminnan tuloksesta ja taloudellisesta asemasta.",
+      "section_number": "12",
+      "chapter_number": 6,
+      "statute_id": "480/1987"
+    },
+    {
+      "id": "1992b660-ce21-41c4-8d3a-7dbb3da0bf20",
+      "node_type": "Section",
+      "publisher": "finlex",
+      "title": "13 § Osakkuusyrityksen tilinpäätöstietojen yhdisteleminen",
+      "text": "Osakkuusyritysten tilinpäätökset muutetaan, mikäli mahdollista, ennen yhdistelyä 4 §:n 2 momentissa tarkoitetulla tavalla. Ulkomaisen osakkuusyrityksen tilinpäätöserien muuntamisessa Suomen rahaksi sovelletaan, mitä 6 §:ssä säädetään. Kun osakkuusyrityksen tilinpäätöstiedot yhdistellään ensimmäisen kerran konsernitilinpäätökseen, konsernitaseeseen merkitään osakkuusyrityksen osakkeiden tai osuuksien hankintameno. Konsernitaseen liitteessä ilmoitetaan erotus, joka saadaan vähentämällä osakkuusyrityksen osakkeiden tai osuuksien hankintamenosta omistusta vastaava osuus osakkuusyrityksen viimeksi laaditun tilinpäätöksen mukaisesta omasta pääomasta. Edellä 2 momentissa tarkoitettu erotus saadaan laskea myös osakkuusyrityksen osakkeiden tai osuuksien hankinta-ajankohdan oman pääoman perusteella tai, jos niitä on hankittu konsernin omistukseen ennen kuin kirjanpitovelvollisesta tuli osakkuusyritys, sen ajankohdan oman pääoman perusteella, jolloin siitä tuli osakkuusyritys. Kun osakkuusyrityksen tilinpäätöstiedot yhdistellään ensimmäisen kerran jälkeen konsernitilinpäätökseen, merkitään konsernitaseeseen osakkuusyrityksen osakkeiden tai osuuksien hankintamenon lisäksi konsernin omistusta vastaava osuus osakkuusyrityksen ensimmäisen sisällyttämisen jälkeisistä voitoista tai tappioista. Hankintamenosta vähennetään konserniyritysten osakkuusyritykseltä sanottuna aikana saamat osingot tai muut vastaavat voitto-osuudet. Konserniyritysten omistusosuuden mukainen määrä osakkuusyrityksen tilikauden voitosta merkitään konsernituloslaskelmaan tuotoksi ja vastaava määrä tappiosta kuluksi. Edellä 2―4 momentissa tarkoitettuun osakkuusyrityksen omaan pääomaan luetaan myös kertyneen poistoeron ja vapaaehtoisten varausten yhteismäärä vähennettynä laskennallisella verovelalla. Edellä 4 momentissa tarkoitettua osakkuusyrityksen voittoa tai tappiota laskettaessa otetaan huomioon poistoeron ja vapaaehtoisten varausten muutos vähennettynä laskennallisen verovelan muutoksella. Edellä 2 ja 3 momentin mukaisesti laskettu oman pääoman osuuden ylittävä osakkuusyrityksen osakkeiden tai osuuksien hankintamenon osa, jota ei voida kohdentaa osakkuusyrityksen omaisuus- tai velkaeriin, on poistettava siten kuin 8 §:n 5 momentin ensimmäisessä virkkeessä säädetään. Oman pääoman osuuden alittava hankintamenon osa, jota ei voida kohdentaa sanotulla tavalla, merkitään tuotoksi konsernituloslaskelmaan siten kuin mainitun momentin toisessa virkkeessä säädetään. Osakkuusyrityksen tilinpäätöstietojen yhdistelyssä otetaan 7 §:n 2 ja 3 momentissa tarkoitetulla tavalla huomioon konsernin omistusosuutta vastaava määrä hyödykkeiden luovutuksessa osakkuusyrityksen ja konserniyritysten kesken syntyneistä taseeseen aktivoiduista katteista ja näiden katteiden muutoksesta tilikauden aikana, jos tätä varten tarpeelliset tiedot on saatavissa. Nämä sisäiset katteet ja niiden muutokset saadaan jättää vähentämättä, jos vähentäminen ei ole tarpeen oikean ja riittävän kuvan antamiseksi konsernin toiminnan tuloksesta ja taloudellisesta asemasta.",
+      "section_number": "13",
+      "chapter_number": 6,
+      "statute_id": "480/1987"
+    },
+    {
+      "id": "e8be439e-59f6-47d1-a7d4-2581eb64c0dc",
+      "node_type": "Section",
+      "publisher": "finlex",
+      "title": "14 § Osakkuusyrityksen tiedonantovelvollisuus",
+      "text": "Osakkuusyrityksen tulee antaa konsernitilinpäätöksen laativalle kirjanpitovelvolliselle tilinpäätöstietojensa yhdistelyä varten tarpeelliset tiedot viimeksi laaditusta tilinpäätöksestään.",
+      "section_number": "14",
+      "chapter_number": 6,
+      "statute_id": "480/1987"
+    },
+    {
+      "id": "c6497916-8a89-45be-b035-daddaa8fca72",
+      "node_type": "Section",
+      "publisher": "finlex",
+      "title": "15 § Yhteisyrityksen tilinpäätöstietojen yhdisteleminen",
+      "text": "Jos konserniyritys, jonka tilinpäätös yhdistellään konsernitilinpäätökseen, vastaa sellaisen muun omistajan kanssa, jonka tilinpäätöstä ei yhdistellä samaan konsernitilinpäätökseen, osakkuusyrityksen johtamisesta, saadaan tämän osakkuusyrityksen (yhteisyritys) tuloslaskelma- ja tase-erät sekä niiden liitetiedot yhdistellä konserniyrityksen omistusosuuden mukaisina. Jos yhteisyrityksen tilinpäätöstiedot yhdistellään 1 momentin mukaisesti, tulee noudattaa soveltuvin osin, mitä 4 ja 6―8 §:ssä säädetään.",
+      "section_number": "15",
+      "chapter_number": 6,
+      "statute_id": "480/1987"
+    },
+    {
+      "id": "d9719ae7-2d72-4cfb-9ad7-6717aeed859d",
+      "node_type": "Section",
+      "publisher": "finlex",
+      "title": "16 § Osakkuusyrityksen konsernitilinpäätös",
+      "text": "Jos osakkuusyritys laatii ja sisällyttää tilinpäätökseensä konsernitilinpäätöksen, sovelletaan 12―15 §:n säännöksiä konsernitilinpäätöksen tietoihin.",
+      "section_number": "16",
+      "chapter_number": 6,
+      "statute_id": "480/1987"
+    },
+    {
+      "id": "5774e25e-25b2-40a2-b7a2-e3ba1606ccd2",
+      "node_type": "Section",
+      "publisher": "finlex",
+      "title": "17 § Toiminnaltaan poikkeava tytäryritys",
+      "text": "Tytäryrityksen tilinpäätös on yhdisteltävä osakkuusyrityksen tavoin konsernitilinpäätökseen, jos tytäryrityksen toiminta poikkeaa niin huomattavasti muiden konserniyritysten harjoittamasta toiminnasta, että tilinpäätöksen yhdisteleminen tytäryrityksen tavoin konsernitilinpäätökseen estäisi oikean ja riittävän kuvan antamisen konsernin toiminnan tuloksesta ja taloudellisesta asemasta. Mitä 1 momentissa säädetään, ei kuitenkaan voida soveltaa ainoastaan sillä perusteella, että konserniyritykset toimivat eri aloilla tai että ne tuottavat erilaisia hyödykkeitä.",
+      "section_number": "17",
+      "chapter_number": 6,
+      "statute_id": "480/1987"
+    },
+    {
+      "id": "708d677d-8d2f-401b-83ec-bce667eaad18",
+      "node_type": "Section",
+      "publisher": "finlex",
+      "title": "18 § Rahoitusleasingsopimus",
+      "text": "Milloin kirjanpitovelvollinen on tehnyt vuokrasopimuksen, jonka mukaan sen kohteena olevaan hyödykkeeseen perustuvat riskit ja edut siirtyvät olennaisilta osin vuokralleottajalle sopimuskauden alkaessa (rahoitusleasingsopimus), vuokralleantaja saa merkitä hyödykkeen konsernitilinpäätökseensä siten kuin se merkittäisiin myytynä ja vuokralleottaja siten kuin se merkittäisiin ostettuna. Tämän menettelyn edellytyksistä ja rahoitusleasingsopimuksen käsittelystä konsernitilinpäätöksessä päättää tarkemmin kauppa- ja teollisuusministeriö. Jos kirjanpitovelvollinen soveltaa 1 momentissa tarkoitettua menettelyä ja ottaa myymänsä käyttöomaisuushyödykkeen vuokralle rahoitusleasingsopimuksella, myyntivoitto tai -tappio tulee jaksottaa konsernitilinpäätöksessä sopimuksen kestoajalle.",
+      "section_number": "18",
+      "chapter_number": 6,
+      "statute_id": "480/1987"
+    },
+    {
+      "id": "33aa35b0-d64e-465f-afa3-dd05436d385c",
+      "node_type": "Section",
+      "publisher": "finlex",
+      "title": "19 § Yhdistelylaskelmien säilyttäminen",
+      "text": "Konsernitilinpäätöksen yhdistelylaskelmat on säilytettävä siten kuin 2 luvun 10 §:n 1 momentissa säädetään.",
+      "section_number": "19",
+      "chapter_number": 6,
+      "statute_id": "480/1987"
+    },
+    {
+      "id": "bb6d7aa9-68d1-45e7-965c-b7c0ad61d945",
+      "node_type": "Section",
+      "publisher": "finlex",
+      "title": "1 § Lain soveltaminen ammatin- harjoittajaan",
+      "text": "Ammatinharjoittaja ei ole velvollinen pitämään kahdenkertaista kirjanpitoa, mutta hänen tulee kirjanpidossaan noudattaa soveltuvin osin tämän lain muita säännöksiä, jollei tässä luvussa toisin säädetä.",
+      "section_number": "1",
+      "chapter_number": 7,
+      "statute_id": "480/1987"
+    },
+    {
+      "id": "5169ac45-9e39-40cd-a794-eabe65048aee",
+      "node_type": "Section",
+      "publisher": "finlex",
+      "title": "2 § Liiketapahtumien kirjaaminen",
+      "text": "Ammatinharjoittajan kirjanpitoon merkitään liiketapahtumina maksetut menot, korot ja verot sekä saadut tulot samoin kuin tavaroiden ja palvelusten oma käyttö. Ammatinharjoittajan liiketapahtumat kirjataan sidottuun kirjaan tai välittömästi tilinpäätöksen valmistumisen jälkeen sidottavaan kirjanpitokirjaan, jos kirjanpito pidetään koneellisesti taikka muutoin siten, ettei sidottua kirjaa voida käyttää. Kirjan sivut tai aukeamat on numeroitava.",
+      "section_number": "2",
+      "chapter_number": 7,
+      "statute_id": "480/1987"
+    },
+    {
+      "id": "2c542c5f-e385-4808-a9a7-4bc3405f29ed",
+      "node_type": "Section",
+      "publisher": "finlex",
+      "title": "3 § Tilikausi ja tilinpäätöksen laatimisaika",
+      "text": "Ammatinharjoittajan tilikautena on kalenterivuosi. Tilinpäätös on laadittava kahden kuukauden kuluessa tilikauden päättymisestä.",
+      "section_number": "3",
+      "chapter_number": 7,
+      "statute_id": "480/1987"
+    },
+    {
+      "id": "135ca57d-1ff8-4586-a1ba-e4121f61b7d0",
+      "node_type": "Section",
+      "publisher": "finlex",
+      "title": "4 § Tuloslaskelman ja taseen laatiminen",
+      "text": "Ammatinharjoittajan tilinpäätöksessä merkitään tuloslaskelmaan tilikauden aikana saadut tulot samoin kuin tavaroiden ja palvelusten oma käyttö tuotoiksi. Tuotoista vähennetään riittävästi eriteltyinä maksetut menot, korot, poistot ja verot. Vaihto-omaisuuden ja käyttöomaisuuden hankintamenojen samoin kuin muiden pitkävaikutteisten menojen jaksottamisessa otetaan kuitenkin huomioon, mitä 5 luvussa säädetään. Vastaisia menoja tai menetyksiä varten saadaan tehdä varaus. Säännökset tuloslaskelman laatimisessa käytettävästä kaavasta annetaan asetuksella. Ammatinharjoittajan ei tarvitse laatia tasetta, mutta hänen on liitettävä tilinpäätökseensä eritellyt luettelot tilikauden päättyessä olleesta ammattia varten hankitusta vaihtoja käyttöomaisuudesta sekä poistamatta olevista muista pitkävaikutteisista menoista samoin kuin ammatista johtuneista saamisista ja veloista sekä varauksista.",
+      "section_number": "4",
+      "chapter_number": 7,
+      "statute_id": "480/1987"
+    },
+    {
+      "id": "de1728e0-1d31-49b1-bf17-7828858b578c",
+      "node_type": "Section",
+      "publisher": "finlex",
+      "title": "5 § Kirjanpitokirjojen ja tositteiden säilyttämisaika",
+      "text": "Ammatinharjoittajan kirjanpitokirjat ja tositteet on järjestettyinä säilytettävä tässä maassa vähintään kuusi vuotta sen vuoden lopusta, jonka aikana tilikausi on päättynyt.",
+      "section_number": "5",
+      "chapter_number": 7,
+      "statute_id": "480/1987"
+    },
+    {
+      "id": "8ac9a03a-f079-4470-ad92-5bf6919422bb",
+      "node_type": "Section",
+      "publisher": "finlex",
+      "title": "1 § Lain valvonta",
+      "text": "Kauppa- ja teollisuusministeriö valvoo tämän lain noudattamista, jollei jäljempänä toisin säädetä. Ministeriöllä on oikeus saada kirjanpitovelvolliselta valvontaa varten tarpeellisia tietoja. Poliisi on velvollinen antamaan ministeriölle virka-apua tämän lain noudattamisen valvonnassa. Patentti- ja rekisterihallitus valvoo 3 luvun 9 §:ssä tarkoitetun ilmoittamisvelvollisuuden noudattamista. Jos ilmoittamisvelvollisuus laiminlyödään, voi patentti- ja rekisterihallitus velvoittaa sen, jonka sanotun luvun 7 §:n mukaan on allekirjoitettava tilinpäätös, sakon uhalla toimittamaan tilinpäätöksen sille määräämässään ajassa. Uhkasakosta on voimassa, mitä uhkasakkolaissa (1113/1990) säädetään. Päätökseen, jolla uhkasakko on asetettu, ei saa hakea muutosta. Rahoitustarkastus valvoo tämän lain noudattamista:",
+      "section_number": "1",
+      "chapter_number": 8,
+      "statute_id": "480/1987"
+    },
+    {
+      "id": "257b6914-13a2-4044-9920-87dab6a20cd6",
+      "node_type": "Section",
+      "publisher": "finlex",
+      "title": "2 § Kirjanpitolautakunta",
+      "text": "Kauppa- ja teollisuusministeriön yhteydessä on kirjanpitolautakunta, joka voi antaa viranomaisten, elinkeinonharjoittajien tai kuntien järjestön taikka kirjanpitovelvollisen hakemuksesta ohjeita ja lausuntoja tämän lain soveltamisesta. Kirjanpitolautakunta voi erityisistä syistä määräajaksi myöntää yksittäistapauksissa tai toimialoittain poikkeuksia 3 luvun 1 §:n 2 momentin toisesta virkkeestä ja 6 §:stä, 6 luvun 1 §:n 1 ja 2 momentista, 2 §:n 2 momentista, 5 §:n 1 momentista ja 7 luvun 3 ja 4 §:stä. Poikkeuksen myöntämisen edellytyksenä on, ettei se ole Euroopan yhteisöjen tilinpäätöksestä ja konsernitilinpäätöksestä antamien säädöksien vastainen. Mitä 1 ja 2 momentissa säädetään kirjanpitolautakunnan toimivallasta ja tehtävistä, ei sovelleta 1 §:n 3 momentissa tarkoitettuihin yhteisöihin eikä vakuutus- tai eläkelaitoksiin taikka muihin yhteisöihin, jotka harjoittavat vakuutustoimintaa. Kirjanpitolautakunnassa on puheenjohtaja ja varapuheenjohtaja sekä vähintään kuusi ja enintään kymmenen muuta jäsentä, jotka valtioneuvosto määrää kolmeksi kalenterivuodeksi kerrallaan. Jokaiselle jäsenelle puheenjohtajaa lukuun ottamatta määrätään varajäsen samalla tavalla. Kirjanpitolautakunnan jäsenten tulee olla kirjanpitoon hyvin perehtyneitä. Yhdeltä jäseneltä ja hänen varajäseneltään vaaditaan lisäksi oikeustieteen kandidaatin tutkinto. Kirjanpitolautakunta on päätösvaltainen, kun kokouksessa on läsnä puheenjohtaja tai varapuheenjohtaja sekä vähintään puolet muista jäsenistä. Läsnä olevista vähintään yhdellä tulee olla oikeustieteen kandidaatin tutkinto. Kirjanpitolautakunnassa on kuntajaosto. Kirjanpitolautakuntaan voidaan asettaa muitakin pysyviä tai määräaikaisia jaostoja. Jaostoihin voidaan kutsua kirjanpitolautakunnan ulkopuolisia jäseniä. Kirjanpitolautakunnan jaostojen tehtävistä, kokoonpanosta, asettamisesta sekä päätösvaltaisuudesta säädetään tarkemmin asetuksella. Kauppa- ja teollisuusministeriöön voidaan perustaa kirjanpitolautakunnan sihteerin virka. Kirjanpitolautakunnan päätökseen ei saa hakea valittamalla muutosta.",
+      "section_number": "2",
+      "chapter_number": 8,
+      "statute_id": "480/1987"
+    },
+    {
+      "id": "614f38a7-61a0-449f-82de-a5167860d574",
+      "node_type": "Section",
+      "publisher": "finlex",
+      "title": "3 § Salassapitovelvollisuus",
+      "text": "Kirjanpitolautakunnan jäsen ja lain valvontatehtävää suorittava henkilö on velvollinen pitämään salassa tehtävää suorittaessaan saamansa tiedot kirjanpitovelvollisen tai toisen liike- ja ammattisalaisuudesta taikka toisen taloudellisesta asemasta tai henkilökohtaisista oloista, jollei se, jonka hyväksi vaitiolovelvollisuus on säädetty, anna suostumustaan sen ilmaisemiseen. Salassa pidettäviä tietoja ja asiakirjoja saadaan luovuttaa esitutkintaviranomaiselle ja syyttäjälle sekä, jos niin on erikseen laissa säädetty, muulle tiedon saantiin oikeutetulle henkilölle.",
+      "section_number": "3",
+      "chapter_number": 8,
+      "statute_id": "480/1987"
+    },
+    {
+      "id": "c32fdb85-27f7-45ae-aaa3-f2ee6f91fcd1",
+      "node_type": "Section",
+      "publisher": "finlex",
+      "title": "4 § Kirjanpitorikkomus",
+      "text": "Joka tahallaan tai törkeästä huolimattomuudesta Rangaistusta ei tuomita, jos rikkomus on vähäinen.",
+      "section_number": "4",
+      "chapter_number": 8,
+      "statute_id": "480/1987"
+    },
+    {
+      "id": "65c58ed1-56db-47d7-aac7-c0be5524f216",
+      "node_type": "Section",
+      "publisher": "finlex",
+      "title": "5 § Kirjanpitoa koskevat säännökset muissa laeissa",
+      "text": "Tämän lain estämättä on kirjanpitovelvollisuudesta ja kirjanpidosta sekä tilinpäätöksen julkistamisesta voimassa, mitä niistä erikseen muualla laissa säädetään tai mitä asianomainen viranomainen on muun lain nojalla määrännyt.",
+      "section_number": "5",
+      "chapter_number": 8,
+      "statute_id": "480/1987"
+    },
+    {
+      "id": "ad16a8a7-2721-4e57-8f95-f62661cf3d91",
+      "node_type": "Section",
+      "publisher": "finlex",
+      "title": "6 § Tarkemmat säännökset",
+      "text": "Tarkemmat säännökset tämän lain täytäntöönpanosta ja soveltamisesta annetaan asetuksella. Kauppa- ja teollisuusministeriö voi päätöksellään tarkistaa 3 luvun 9 §:n 2 momentissa ja 6 luvun 1 §:n 3 momentissa tarkoitettuja rajoja rahan arvon muutoksia vastaaviksi tai Suomea sitovan kansainvälisen sopimuksen täyttämiseksi.",
+      "section_number": "6",
+      "chapter_number": 8,
+      "statute_id": "480/1987"
+    },
+    {
+      "id": "24677730-4c33-41ad-ab20-dcedffa2eb57",
+      "node_type": "Section",
+      "publisher": "finlex",
+      "title": "1 § Voimaantulo",
+      "text": "Tämä laki tulee voimaan 31 päivänä joulukuuta 1997. Tälla lailla kumotaan 10 päivänä elokuuta 1973 annettu kirjanpitolaki (655/1973) siihen myöhemmin tehtyine muutoksineen. Kirjanpitolautakunnasta 19 päivänä lokakuuta 1973 annettu asetus (784/1973) jää kuitenkin edelleen voimaan lukuun ottamatta 8 §:n 3 momenttia. Voimaan jää myös 30 päivänä joulukuuta 1992 annettu kirjanpitoasetus (1575/1992). Ennen tämän lain voimaantuloa voidaan ryhtyä lain täytäntöönpanon edellyttämiin toimiin.",
+      "section_number": "1",
+      "chapter_number": 9,
+      "statute_id": "480/1987"
+    },
+    {
+      "id": "91e860a2-a320-4f19-8ecf-f93cf45e81be",
+      "node_type": "Section",
+      "publisher": "finlex",
+      "title": "2 § Siirtymäsäännökset",
+      "text": "Tätä lakia sovelletaan ensimmäisen kerran kirjanpitoon siltä tilikaudelta, joka alkaa 1 päivänä tammikuuta 1998 tai sen jälkeen. Kirjanpitovelvollinen saa soveltaa tätä lakia kirjanpitoon sinä tilikautena, joka on kulumassa, kun laki tulee voimaan. Tilikaudelta, joka päättyy 31 päivänä joulukuuta 1998 tai sitä ennen, pidettävään kirjanpitoon saadaan soveltaa tämän lain voimaan tullessa voimassa olleita säännöksiä. Sen estämättä, mitä tämän lain 5 luvun 17 §:ssä säädetään, kirjanpitovelvollinen saa jättää ennen vuotta 1974 tekemänsä arvonkorotukset erikseen esittämättä. Lisäksi kirjanpitovelvollinen saa soveltaa ennen tämän lain voimaantuloa tehtyihin arvonkorotuksiin silloin voimassa olleita säännöksiä. Tutkimus- ja kehittämismenot, jotka on ennen tämän lain voimaantuloa aktivoitu taseeseen, saadaan poistaa tämän lain voimaan tullessa voimassa olleiden säännösten mukaisesti. Sen estämättä, mitä tämän lain 6 luvun 18 §:ssä säädetään, saadaan ennen tämän lain voimaantuloa tehtyihin rahoitusleasingsopimuksiin sekä myynti- ja takaisinvuokraussopimuksiin soveltaa tämän lain voimaan tullessa voimassa olleita säännöksiä. Sen estämättä, mitä tämän lain 6 luvun 8 §:n 1 momentissa ja 13 §:n 5 momentissa säädetään, saadaan ennen tämän lain voimaantuloa hankittujen tytäryritysten ja osakkuusyritysten oman pääoman määrittämisessä soveltaa silloin voimassa olleita säännöksiä. Kirjanpitovelvollisen eläkesitoumuksista johtuvat menot, jotka ennen tämän lain voimaantuloa on voitu jättää kirjaamatta, on kirjattava viimeistään 31 päivänä joulukuuta 2000 päättyvän tilikauden tilinpäätöksessä. Jos eläkesitoumuksista johtuvia menoja on jätetty tilinpäätöksessä kirjaamatta, on liitetietona ilmoitettava eläkesitoumuksista johtuva vastuu sekä eläkesäätiölle sen vastuuvajauksen kattamiseen suorittamatta oleva määrä.",
+      "section_number": "2",
+      "chapter_number": 9,
+      "statute_id": "480/1987"
+    }
+  ],
+  "clauses": [
+    {
+      "id": "f9cec635-061a-4d78-9795-89aca7f015e8",
+      "node_type": "Clause",
+      "publisher": "finlex",
+      "title": "§ 1 mom 1",
+      "text": "1) osakeyhtiö;",
+      "clause_number": 1,
+      "section_number": "1",
+      "statute_id": "480/1987"
+    },
+    {
+      "id": "9cc55f67-8e67-4770-8e64-0a4adbf7a64b",
+      "node_type": "Clause",
+      "publisher": "finlex",
+      "title": "§ 1 mom 2",
+      "text": "2) osuuskunta;",
+      "clause_number": 2,
+      "section_number": "1",
+      "statute_id": "480/1987"
+    },
+    {
+      "id": "bc7961f3-3cd0-42c5-bfef-ec489742c9d2",
+      "node_type": "Clause",
+      "publisher": "finlex",
+      "title": "§ 1 mom 3",
+      "text": "3) avoin yhtiö;",
+      "clause_number": 3,
+      "section_number": "1",
+      "statute_id": "480/1987"
+    },
+    {
+      "id": "9325cdc5-0300-4ae4-a73f-0f10f20184db",
+      "node_type": "Clause",
+      "publisher": "finlex",
+      "title": "§ 1 mom 4",
+      "text": "4) kommandiittiyhtiö;",
+      "clause_number": 4,
+      "section_number": "1",
+      "statute_id": "480/1987"
+    },
+    {
+      "id": "64a76479-2596-4ccc-97fb-ce49f353ba74",
+      "node_type": "Clause",
+      "publisher": "finlex",
+      "title": "§ 1 mom 5",
+      "text": "5) yhdistys, asumisoikeusyhdistys ja muu sellainen yhteisö;",
+      "clause_number": 5,
+      "section_number": "1",
+      "statute_id": "480/1987"
+    },
+    {
+      "id": "571ea660-99cb-4236-80e5-bad593054fd4",
+      "node_type": "Clause",
+      "publisher": "finlex",
+      "title": "§ 1 mom 6",
+      "text": "6) säätiö;",
+      "clause_number": 6,
+      "section_number": "1",
+      "statute_id": "480/1987"
+    },
+    {
+      "id": "8c0b67ac-67a7-4f0d-a54e-820f85cde48a",
+      "node_type": "Clause",
+      "publisher": "finlex",
+      "title": "§ 1 mom 7",
+      "text": "7) eläkesäätiö;",
+      "clause_number": 7,
+      "section_number": "1",
+      "statute_id": "480/1987"
+    },
+    {
+      "id": "355e5ab8-c730-449a-833b-0d90aa1efd48",
+      "node_type": "Clause",
+      "publisher": "finlex",
+      "title": "§ 1 mom 8",
+      "text": "8) vakuutuskassa;",
+      "clause_number": 8,
+      "section_number": "1",
+      "statute_id": "480/1987"
+    },
+    {
+      "id": "ef2aa0bd-9db8-4443-b9cf-d36262621920",
+      "node_type": "Clause",
+      "publisher": "finlex",
+      "title": "§ 1 mom 9",
+      "text": "9) keskinäinen vakuutusyhtiö;",
+      "clause_number": 9,
+      "section_number": "1",
+      "statute_id": "480/1987"
+    },
+    {
+      "id": "399f591a-4646-4758-9cd7-e5e2172b52c4",
+      "node_type": "Clause",
+      "publisher": "finlex",
+      "title": "§ 1 mom 10",
+      "text": "10) vakuutusyhdistys;",
+      "clause_number": 10,
+      "section_number": "1",
+      "statute_id": "480/1987"
+    },
+    {
+      "id": "b8ec75ec-0ce8-4a92-aa7b-301d1cc312c6",
+      "node_type": "Clause",
+      "publisher": "finlex",
+      "title": "§ 1 mom 11",
+      "text": "11) sijoitusrahastolaissa (480/1987) tarkoitettu rahastoyhtiö sen hallinnassa olevan sijoitusrahaston osalta;",
+      "clause_number": 11,
+      "section_number": "1",
+      "statute_id": "480/1987"
+    },
+    {
+      "id": "55c2d990-5a21-45c9-adc3-09d161715eab",
+      "node_type": "Clause",
+      "publisher": "finlex",
+      "title": "§ 1 mom 12",
+      "text": "12) henkilöstörahasto;",
+      "clause_number": 12,
+      "section_number": "1",
+      "statute_id": "480/1987"
+    },
+    {
+      "id": "b9858835-a788-46b0-85f4-42af46a040d8",
+      "node_type": "Clause",
+      "publisher": "finlex",
+      "title": "§ 1 mom 13",
+      "text": "13) luottolaitostoiminnasta annetussa laissa (1607/1993) tarkoitettu vakuusrahasto; sekä",
+      "clause_number": 13,
+      "section_number": "1",
+      "statute_id": "480/1987"
+    },
+    {
+      "id": "80b858ed-0f5e-4a01-9038-ba13bed6080f",
+      "node_type": "Clause",
+      "publisher": "finlex",
+      "title": "§ 1 mom 14",
+      "text": "14) arvo-osuusjärjestelmästä annetun lain (826/1991) 18 §:ssä tarkoitettu rahasto ja 19 §:ssä tarkoitettu selvitysrahasto.",
+      "clause_number": 14,
+      "section_number": "1",
+      "statute_id": "480/1987"
+    },
+    {
+      "id": "137660aa-1b79-47e7-b226-68b36d85cba1",
+      "node_type": "Clause",
+      "publisher": "finlex",
+      "title": "§ 5 mom 1",
+      "text": "1) enemmän kuin puolet kohdeyrityksen kaikkien osakkeiden tai osuuksien tuottamasta äänimäärästä ja tämä äänten enemmistö perustuu omistukseen, jäsenyyteen, yhtiöjärjestykseen, yhtiösopimukseen tai niihin verrattaviin sääntöihin taikka muuhun sopimukseen; tai",
+      "clause_number": 1,
+      "section_number": "5",
+      "statute_id": "480/1987"
+    },
+    {
+      "id": "236fd677-4bea-47af-90f9-13b08f3880e4",
+      "node_type": "Clause",
+      "publisher": "finlex",
+      "title": "§ 5 mom 2",
+      "text": "2) oikeus nimittää tai erottaa enemmistö jäsenistä kohdeyrityksen hallituksessa tai siihen verrattavassa toimielimessä taikka toimielimessä, jolla on tämä oikeus, ja oikeus perustuu samoihin seikkoihin kuin 1 kohdassa tarkoitettu ääntenenemmistö.",
+      "clause_number": 2,
+      "section_number": "5",
+      "statute_id": "480/1987"
+    },
+    {
+      "id": "e091a488-421d-49fc-9430-8772a80a9040",
+      "node_type": "Clause",
+      "publisher": "finlex",
+      "title": "§ 1 mom 1",
+      "text": "1) \n                                        tuloksen muodostumista kuvaavantuloslaskelman;",
+      "clause_number": 1,
+      "section_number": "1",
+      "statute_id": "480/1987"
+    },
+    {
+      "id": "4a8f0469-8011-4e07-af33-90835b317ab6",
+      "node_type": "Clause",
+      "publisher": "finlex",
+      "title": "§ 1 mom 2",
+      "text": "2) \n                                        tilinpäätöspäivän taloudellista asemaa kuvaavantaseen;",
+      "clause_number": 2,
+      "section_number": "1",
+      "statute_id": "480/1987"
+    },
+    {
+      "id": "d2c79de4-22d1-4d48-9c6c-a7a90f5452b8",
+      "node_type": "Clause",
+      "publisher": "finlex",
+      "title": "§ 1 mom 3",
+      "text": "3) \n                                        tuloslaskelman ja taseen liitteenä ilmoitettavat tiedot (liitetiedot); sekä",
+      "clause_number": 3,
+      "section_number": "1",
+      "statute_id": "480/1987"
+    },
+    {
+      "id": "5b495d85-7aeb-4fa1-b7cd-e2be4e80541f",
+      "node_type": "Clause",
+      "publisher": "finlex",
+      "title": "§ 3 mom 1",
+      "text": "1) oletus kirjanpitovelvollisen toiminnan jatkuvuudesta;",
+      "clause_number": 1,
+      "section_number": "3",
+      "statute_id": "480/1987"
+    },
+    {
+      "id": "cdcbc72b-99b0-4f7f-9a02-39d39de6b963",
+      "node_type": "Clause",
+      "publisher": "finlex",
+      "title": "§ 3 mom 2",
+      "text": "2) johdonmukaisuus laatimisperiaatteiden ja -menetelmien soveltamisessa tilikaudesta toiseen;",
+      "clause_number": 2,
+      "section_number": "3",
+      "statute_id": "480/1987"
+    },
+    {
+      "id": "8899523d-3c07-413f-99a8-dafcef87834b",
+      "node_type": "Clause",
+      "publisher": "finlex",
+      "title": "§ 3 mom 3",
+      "text": "3) tilikauden tuloksesta riippumaton varovaisuus;",
+      "clause_number": 3,
+      "section_number": "3",
+      "statute_id": "480/1987"
+    },
+    {
+      "id": "8d0523c1-0b45-4ee5-8039-0485a10fa24e",
+      "node_type": "Clause",
+      "publisher": "finlex",
+      "title": "§ 3 mom 4",
+      "text": "4) tilinavauksen perustuminen edellisen tilikauden päättäneeseen taseeseen;",
+      "clause_number": 4,
+      "section_number": "3",
+      "statute_id": "480/1987"
+    },
+    {
+      "id": "c32057c8-9ddf-46dc-a692-9de005549cc4",
+      "node_type": "Clause",
+      "publisher": "finlex",
+      "title": "§ 3 mom 5",
+      "text": "5) tilikaudelle kuuluvien tuottojen ja kulujen huomioon ottaminen riippumatta niihin perustuvien maksujen suorituspäivästä; sekä",
+      "clause_number": 5,
+      "section_number": "3",
+      "statute_id": "480/1987"
+    },
+    {
+      "id": "3f65c999-a8bd-4830-983c-6c51532e7467",
+      "node_type": "Clause",
+      "publisher": "finlex",
+      "title": "§ 3 mom 6",
+      "text": "6) kunkin hyödykkeen ja muun tase-eriin merkittävän erän erillisarvostus.",
+      "clause_number": 6,
+      "section_number": "3",
+      "statute_id": "480/1987"
+    },
+    {
+      "id": "dd1dc9e6-e700-49a7-a9ed-02a5335c3202",
+      "node_type": "Clause",
+      "publisher": "finlex",
+      "title": "§ 3 mom 1",
+      "text": "1) ainoastaan tilikaudella toteutuneet voitot; sekä",
+      "clause_number": 1,
+      "section_number": "3",
+      "statute_id": "480/1987"
+    },
+    {
+      "id": "7c0851ab-eecd-4e19-b57a-2199f1ae67a7",
+      "node_type": "Clause",
+      "publisher": "finlex",
+      "title": "§ 3 mom 2",
+      "text": "2) kaikki poistot ja arvonalennukset vastaavista sekä velkojen arvon lisäykset samoin kuin kaikki päättyneeseen tai aikaisempiin tilikausiin liittyvät, ennakoitavissa olevat vastuut ja mahdolliset menetykset, vaikka ne tulisivat tietoon vasta tilikauden päättymisen jälkeen.",
+      "clause_number": 2,
+      "section_number": "3",
+      "statute_id": "480/1987"
+    },
+    {
+      "id": "acdd0d4e-8790-43da-9532-79ca057ac7ba",
+      "node_type": "Clause",
+      "publisher": "finlex",
+      "title": "§ 9 mom 1",
+      "text": "1) osakeyhtiö;",
+      "clause_number": 1,
+      "section_number": "9",
+      "statute_id": "480/1987"
+    },
+    {
+      "id": "cda35bbb-673f-4424-bfed-005dcfe6052c",
+      "node_type": "Clause",
+      "publisher": "finlex",
+      "title": "§ 9 mom 2",
+      "text": "2) avoin yhtiö tai kommandiittiyhtiö, jonka vastuunalaisena yhtiömiehenä on osakeyhtiö;",
+      "clause_number": 2,
+      "section_number": "9",
+      "statute_id": "480/1987"
+    },
+    {
+      "id": "046cd9da-900e-4420-bd0c-04ef8987c363",
+      "node_type": "Clause",
+      "publisher": "finlex",
+      "title": "§ 9 mom 3",
+      "text": "3) avoin yhtiö tai kommandiittiyhtiö, jonka vastuunalaisena yhtiömiehenä on 2 kohdassa tarkoitettu yhtiö;",
+      "clause_number": 3,
+      "section_number": "9",
+      "statute_id": "480/1987"
+    },
+    {
+      "id": "6f818884-0523-4606-beaf-041c8051fed4",
+      "node_type": "Clause",
+      "publisher": "finlex",
+      "title": "§ 9 mom 4",
+      "text": "4) osuuskunta;",
+      "clause_number": 4,
+      "section_number": "9",
+      "statute_id": "480/1987"
+    },
+    {
+      "id": "d0fad529-cf0c-49f3-9cd8-7fee4be3c117",
+      "node_type": "Clause",
+      "publisher": "finlex",
+      "title": "§ 9 mom 5",
+      "text": "5) keskinäinen vakuutusyhtiö; tai",
+      "clause_number": 5,
+      "section_number": "9",
+      "statute_id": "480/1987"
+    },
+    {
+      "id": "801e5c22-1ebb-4479-ad5b-f270bf5c7335",
+      "node_type": "Clause",
+      "publisher": "finlex",
+      "title": "§ 9 mom 6",
+      "text": "6) vakuutusyhdistys.",
+      "clause_number": 6,
+      "section_number": "9",
+      "statute_id": "480/1987"
+    },
+    {
+      "id": "02cba976-932a-43b9-a30d-d71ea449af51",
+      "node_type": "Clause",
+      "publisher": "finlex",
+      "title": "§ 9 mom 1",
+      "text": "1) liikevaihto tai sitä vastaava tuotto 20 miljoonaa markkaa;",
+      "clause_number": 1,
+      "section_number": "9",
+      "statute_id": "480/1987"
+    },
+    {
+      "id": "6fa81f10-0802-4c71-87a3-203cb67dfd97",
+      "node_type": "Clause",
+      "publisher": "finlex",
+      "title": "§ 9 mom 2",
+      "text": "2) taseen loppusumma 10 miljoonaa markkaa;",
+      "clause_number": 2,
+      "section_number": "9",
+      "statute_id": "480/1987"
+    },
+    {
+      "id": "0fec7a29-f2b4-4e05-b3e2-f8a805668f47",
+      "node_type": "Clause",
+      "publisher": "finlex",
+      "title": "§ 9 mom 3",
+      "text": "3) palveluksessa keskimäärin 50 henkilöä.",
+      "clause_number": 3,
+      "section_number": "9",
+      "statute_id": "480/1987"
+    },
+    {
+      "id": "a6e0039c-ba7f-41e3-a789-ba752aaa3b36",
+      "node_type": "Clause",
+      "publisher": "finlex",
+      "title": "§ 11 mom 1",
+      "text": "1) asumisoikeusyhdistys;",
+      "clause_number": 1,
+      "section_number": "11",
+      "statute_id": "480/1987"
+    },
+    {
+      "id": "1ad3a7ed-3b4f-47fa-97dc-d0e9ecde8d77",
+      "node_type": "Clause",
+      "publisher": "finlex",
+      "title": "§ 11 mom 2",
+      "text": "2) asunto-osuuskunta;",
+      "clause_number": 2,
+      "section_number": "11",
+      "statute_id": "480/1987"
+    },
+    {
+      "id": "ba2b88a2-cd31-4502-8180-186384a9675f",
+      "node_type": "Clause",
+      "publisher": "finlex",
+      "title": "§ 11 mom 3",
+      "text": "3) asunto-osakeyhtiö; tai",
+      "clause_number": 3,
+      "section_number": "11",
+      "statute_id": "480/1987"
+    },
+    {
+      "id": "0d30f66a-1bae-4926-ae7d-4e22a8c92388",
+      "node_type": "Clause",
+      "publisher": "finlex",
+      "title": "§ 11 mom 4",
+      "text": "4) asunto-osakeyhtiölain (809/1991) 2 §:ssä tarkoitettu osakeyhtiö.",
+      "clause_number": 4,
+      "section_number": "11",
+      "statute_id": "480/1987"
+    },
+    {
+      "id": "bf636d3e-d6a7-4a91-848b-b1bfbda5f48c",
+      "node_type": "Clause",
+      "publisher": "finlex",
+      "title": "§ 11 mom 1",
+      "text": "1) tilinpäätöksen vahvistamisesta tai sitä vastaavasta menettelystä on kulunut kaksi viikkoa; sekä",
+      "clause_number": 1,
+      "section_number": "11",
+      "statute_id": "480/1987"
+    },
+    {
+      "id": "d12f69b3-aeaa-47b0-a565-7bbd01db9c16",
+      "node_type": "Clause",
+      "publisher": "finlex",
+      "title": "§ 11 mom 2",
+      "text": "2) pyyntö on tehty ennen kuin tilinpäätös on ilmoitettu rekisteröitäväksi.",
+      "clause_number": 2,
+      "section_number": "11",
+      "statute_id": "480/1987"
+    },
+    {
+      "id": "a7855009-cd88-4384-8848-c445eae17dec",
+      "node_type": "Clause",
+      "publisher": "finlex",
+      "title": "§ 6 mom 1",
+      "text": "1) tilikaudella tai aikaisemmalla tilikaudella suoritetut maksut tulevina tilikausina suoriteperusteisesti tai suoriteperustetta vastaavalla tavalla toteutuvista menoista, jollei niitä ole merkittävä ennakkomaksuihin; sekä",
+      "clause_number": 1,
+      "section_number": "6",
+      "statute_id": "480/1987"
+    },
+    {
+      "id": "01d98949-f735-4384-9a3f-92f8a61ffd86",
+      "node_type": "Clause",
+      "publisher": "finlex",
+      "title": "§ 6 mom 2",
+      "text": "2) sellaiset päättyneellä tai aikaisemmalla tilikaudella suoriteperusteisesti tai suoriteperustetta vastaavalla tavalla toteutuneet tulot, joista ei ole saatu maksua, jollei niitä ole merkittävä myyntisaamisiin.",
+      "clause_number": 2,
+      "section_number": "6",
+      "statute_id": "480/1987"
+    },
+    {
+      "id": "609872b2-3b6c-4197-8ead-8b96d7de66b9",
+      "node_type": "Clause",
+      "publisher": "finlex",
+      "title": "§ 6 mom 1",
+      "text": "1) tilikaudella tai aikaisemmalla tilikaudella saadut maksut sellaisista tuloista, jotka toteutuvat suoriteperusteisesti tai suoriteperustetta vastaavalla tavalla tulevina tilikausina, jollei niitä ole merkittävä ennakkomaksuihin;",
+      "clause_number": 1,
+      "section_number": "6",
+      "statute_id": "480/1987"
+    },
+    {
+      "id": "ad7171ca-df88-44f0-a49e-41773414fb30",
+      "node_type": "Clause",
+      "publisher": "finlex",
+      "title": "§ 6 mom 2",
+      "text": "2) sellaiset suoriteperusteisesti tai suoriteperustetta vastaavalla tavalla toteutuneet menot, joista ei ole suoritettu maksua, jollei niitä ole merkittävä ostovelkoihin; sekä",
+      "clause_number": 2,
+      "section_number": "6",
+      "statute_id": "480/1987"
+    },
+    {
+      "id": "01642873-826c-4092-b271-ae9095505568",
+      "node_type": "Clause",
+      "publisher": "finlex",
+      "title": "§ 6 mom 3",
+      "text": "3) vastaiset menot ja menetykset, jollei niitä ole merkittävä pakollisiin varauksiin siten kuin 5 luvun 14 §:n 3 momentissa säädetään tai vähennettävä asianomaisen omaisuuserän taseeseen merkittävästä arvosta.",
+      "clause_number": 3,
+      "section_number": "6",
+      "statute_id": "480/1987"
+    },
+    {
+      "id": "9c87b2dc-7a58-46d2-baf3-cb59c432a973",
+      "node_type": "Clause",
+      "publisher": "finlex",
+      "title": "§ 6 mom 3",
+      "text": "3) vastaiset menot ja menetykset, jollei niitä ole merkittävä pakollisiin varauksiin siten kuin 5 luvun 14 §:n 3 momentissa säädetään tai vähennettävä asianomaisen omaisuuserän taseeseen merkittävästä arvosta.",
+      "clause_number": 3,
+      "section_number": "6",
+      "statute_id": "480/1987"
+    },
+    {
+      "id": "c9babbf6-c71d-4e59-9fe9-6a51a9327e03",
+      "node_type": "Clause",
+      "publisher": "finlex",
+      "title": "§ 2 mom 1",
+      "text": "1) saamiset nimellisarvoon, kuitenkin enintään todennäköiseen arvoon;",
+      "clause_number": 1,
+      "section_number": "2",
+      "statute_id": "480/1987"
+    },
+    {
+      "id": "3f230155-9659-4ef4-add4-a14aabc7ec86",
+      "node_type": "Clause",
+      "publisher": "finlex",
+      "title": "§ 2 mom 2",
+      "text": "2) rahoitusomaisuuteen kuuluvat arvopaperit ja muut sellaiset rahoitusvarat hankintamenon suuruisina tai, jos niiden todennäköinen luovutushinta tilinpäätöspäivänä on sitä alempi, tämän määräisinä; sekä",
+      "clause_number": 2,
+      "section_number": "2",
+      "statute_id": "480/1987"
+    },
+    {
+      "id": "ca89f578-a965-415b-9505-03ea511c7dd8",
+      "node_type": "Clause",
+      "publisher": "finlex",
+      "title": "§ 2 mom 3",
+      "text": "3) velat nimellisarvoon tai, jos velka on indeksiin taikka muuhun vertailuperusteeseen sidottu, muuttuneen vertailuperusteen mukaiseen nimellisarvoa korkeampaan arvoon.",
+      "clause_number": 3,
+      "section_number": "2",
+      "statute_id": "480/1987"
+    },
+    {
+      "id": "c024b280-1a8e-4025-a1bf-2d12c5125fda",
+      "node_type": "Clause",
+      "publisher": "finlex",
+      "title": "§ 14 mom 1",
+      "text": "1) ne kohdistuvat päättyneeseen tai aikaisempaan tilikauteen;",
+      "clause_number": 1,
+      "section_number": "14",
+      "statute_id": "480/1987"
+    },
+    {
+      "id": "c7970f0e-4c0c-484b-b91e-b8b9778e09c2",
+      "node_type": "Clause",
+      "publisher": "finlex",
+      "title": "§ 14 mom 2",
+      "text": "2) niiden toteutumista on tilinpäätöstä laadittaessa pidettävä varmana tai todennäköisenä;",
+      "clause_number": 2,
+      "section_number": "14",
+      "statute_id": "480/1987"
+    },
+    {
+      "id": "9039041b-5f57-4363-a204-4229ffe9d0eb",
+      "node_type": "Clause",
+      "publisher": "finlex",
+      "title": "§ 14 mom 3",
+      "text": "3) niitä vastaava tulo ei ole varma eikä todennäköinen; sekä",
+      "clause_number": 3,
+      "section_number": "14",
+      "statute_id": "480/1987"
+    },
+    {
+      "id": "75bf6b7a-371a-47bc-a463-3036c6f71175",
+      "node_type": "Clause",
+      "publisher": "finlex",
+      "title": "§ 14 mom 4",
+      "text": "4) ne perustuvat lakiin tai kirjanpitovelvollisen sitoumukseen sivullista kohtaan.",
+      "clause_number": 4,
+      "section_number": "14",
+      "statute_id": "480/1987"
+    },
+    {
+      "id": "6df11d9f-2cfd-462e-83bd-26de3ceb438b",
+      "node_type": "Clause",
+      "publisher": "finlex",
+      "title": "§ 1 mom 1",
+      "text": "1) osakeyhtiö;",
+      "clause_number": 1,
+      "section_number": "1",
+      "statute_id": "480/1987"
+    },
+    {
+      "id": "a1fd517f-8b52-4335-a298-e714571f04ed",
+      "node_type": "Clause",
+      "publisher": "finlex",
+      "title": "§ 1 mom 2",
+      "text": "2) avoin yhtiö tai kommandiittiyhtiö, jonka vastuunalaisena yhtiömiehenä on osakeyhtiö; tai",
+      "clause_number": 2,
+      "section_number": "1",
+      "statute_id": "480/1987"
+    },
+    {
+      "id": "5c6275c1-a8d2-44c0-85ee-a52877c2f6c9",
+      "node_type": "Clause",
+      "publisher": "finlex",
+      "title": "§ 1 mom 3",
+      "text": "3) avoin yhtiö tai kommandiittiyhtiö, jonka vastuunalaisena yhtiömiehenä on 2 kohdassa tarkoitettu avoin yhtiö tai kommandiittiyhtiö.",
+      "clause_number": 3,
+      "section_number": "1",
+      "statute_id": "480/1987"
+    },
+    {
+      "id": "4ea65225-7677-4002-add3-8d5c49b5f889",
+      "node_type": "Clause",
+      "publisher": "finlex",
+      "title": "§ 1 mom 1",
+      "text": "1) liikevaihto tai sitä vastaava tuotto 100 miljoonaa markkaa;",
+      "clause_number": 1,
+      "section_number": "1",
+      "statute_id": "480/1987"
+    },
+    {
+      "id": "aeec3aae-0af5-4834-af50-fcc931c73810",
+      "node_type": "Clause",
+      "publisher": "finlex",
+      "title": "§ 1 mom 2",
+      "text": "2) taseen loppusumma 50 miljoonaa markkaa;",
+      "clause_number": 2,
+      "section_number": "1",
+      "statute_id": "480/1987"
+    },
+    {
+      "id": "7468205c-fad0-49c8-94cf-d49d80adc240",
+      "node_type": "Clause",
+      "publisher": "finlex",
+      "title": "§ 1 mom 3",
+      "text": "3) palveluksessa keskimäärin 250 henkilöä.",
+      "clause_number": 3,
+      "section_number": "1",
+      "statute_id": "480/1987"
+    },
+    {
+      "id": "4c88f178-682e-43db-b560-fc0a0d49a2d5",
+      "node_type": "Clause",
+      "publisher": "finlex",
+      "title": "§ 1 mom 1",
+      "text": "1) Euroopan talousalueeseen kuuluvan valtion lainsäädännön alaisella yrityksellä on emoyrityksessä vähintään yhdeksän kymmenesosan omistusosuus;",
+      "clause_number": 1,
+      "section_number": "1",
+      "statute_id": "480/1987"
+    },
+    {
+      "id": "b91de96c-b3a2-43bf-9bd9-e85c3818fd9f",
+      "node_type": "Clause",
+      "publisher": "finlex",
+      "title": "§ 1 mom 2",
+      "text": "2) emoyrityksen muut omistajat ovat antaneet suostumuksensa laatimatta jättämiseen; sekä",
+      "clause_number": 2,
+      "section_number": "1",
+      "statute_id": "480/1987"
+    },
+    {
+      "id": "34f1aaea-0d38-46f5-b6f1-071974ca5787",
+      "node_type": "Clause",
+      "publisher": "finlex",
+      "title": "§ 1 mom 3",
+      "text": "3) emoyrityksen ja sen tytäryritysten tilinpäätökset yhdistellään Euroopan talousalueeseen kuuluvan valtion lainsäädännön alaisen yrityksen konsernitilinpäätökseen, joka ilmoitetaan rekisteröitäväksi 3 luvun 9 §:ssä säädetyllä tavalla.",
+      "clause_number": 3,
+      "section_number": "1",
+      "statute_id": "480/1987"
+    },
+    {
+      "id": "142a7f99-2fc7-476a-9701-527a6b39c1a8",
+      "node_type": "Clause",
+      "publisher": "finlex",
+      "title": "§ 3 mom 1",
+      "text": "1) yhdisteleminen on tarpeetonta oikean ja riittävän kuvan antamiseksi konsernin toiminnan tuloksesta ja taloudellisesta asemasta;",
+      "clause_number": 1,
+      "section_number": "3",
+      "statute_id": "480/1987"
+    },
+    {
+      "id": "dad18f66-a68f-45cb-8c32-270b9fc11374",
+      "node_type": "Clause",
+      "publisher": "finlex",
+      "title": "§ 3 mom 2",
+      "text": "2) omistus tytäryrityksessä on lyhytaikainen ja tarkoitettu yksinomaan edelleen luovutettavaksi;",
+      "clause_number": 2,
+      "section_number": "3",
+      "statute_id": "480/1987"
+    },
+    {
+      "id": "f5ad0e78-9b53-42b3-9a00-934832216130",
+      "node_type": "Clause",
+      "publisher": "finlex",
+      "title": "§ 3 mom 3",
+      "text": "3) konsernitilinpäätöksen laatimista varten tarpeellisia tietoja ei ole mahdollista saada tilinpäätöksen laatimiselle säädetyssä määräajassa tai tietojen hankkiminen edellyttäisi kohtuuttomia menoja; tai",
+      "clause_number": 3,
+      "section_number": "3",
+      "statute_id": "480/1987"
+    },
+    {
+      "id": "7363bd1e-6bb5-434c-b67b-451abf6233c0",
+      "node_type": "Clause",
+      "publisher": "finlex",
+      "title": "§ 3 mom 4",
+      "text": "4) merkittävät ja pitkäaikaiset rajoitukset estävät olennaisella tavalla emoyritystä käyttämästä vaikutusvaltaansa tytäryrityksessä.",
+      "clause_number": 4,
+      "section_number": "3",
+      "statute_id": "480/1987"
+    },
+    {
+      "id": "cb23905a-6d42-42a2-8aab-fb854c0615ef",
+      "node_type": "Clause",
+      "publisher": "finlex",
+      "title": "§ 9 mom 1",
+      "text": "1) konserniyrityksillä on vähintään yhdeksän kymmenesosaa tytäryrityksen kaikista osakkeista tai osuuksista, tytäryrityksen omistuksessa olevia omia osakkeita tai osuuksia lukuun ottamatta;",
+      "clause_number": 1,
+      "section_number": "9",
+      "statute_id": "480/1987"
+    },
+    {
+      "id": "ad13a5d7-48fb-4f83-ba19-23f289467581",
+      "node_type": "Clause",
+      "publisher": "finlex",
+      "title": "§ 9 mom 2",
+      "text": "2) tytäryrityksen osakkeet tai osuudet on hankittu siten, että emoyritys on niiden vastikkeeksi laskenut liikkeeseen uusia osakkeitaan tai osuuksiaan;",
+      "clause_number": 2,
+      "section_number": "9",
+      "statute_id": "480/1987"
+    },
+    {
+      "id": "038114a7-b19b-4b90-a7ee-a823f0c06cf4",
+      "node_type": "Clause",
+      "publisher": "finlex",
+      "title": "§ 9 mom 3",
+      "text": "3) tytäryrityksen osakkeista tai osuuksista mahdollisesti maksetun rahavastikkeen määrä on ollut enintään kymmenesosa 2 kohdassa tarkoitettujen emoyrityksen osakkeiden tai osuuksien nimellisarvosta; sekä",
+      "clause_number": 3,
+      "section_number": "9",
+      "statute_id": "480/1987"
+    },
+    {
+      "id": "bfbd74a1-3894-4ae0-9a83-a4b6ce9c9dc0",
+      "node_type": "Clause",
+      "publisher": "finlex",
+      "title": "§ 9 mom 4",
+      "text": "4) tytäryritys ja emoyritys eivät kooltaan tai toiminnaltaan olennaisesti poikkea toisistaan.",
+      "clause_number": 4,
+      "section_number": "9",
+      "statute_id": "480/1987"
+    },
+    {
+      "id": "f1d3e7e5-2239-43a4-b621-ca48a35be7d6",
+      "node_type": "Clause",
+      "publisher": "finlex",
+      "title": "§ 1 mom 1",
+      "text": "1) luottolaitostoiminnasta annetussa laissa (1607/1993) tarkoitetuissa luottolaitoksissa ja niiden konsolidointiryhmään kuuluvissa rahoituslaitoksissa;",
+      "clause_number": 1,
+      "section_number": "1",
+      "statute_id": "480/1987"
+    },
+    {
+      "id": "b4247c86-0a0d-4708-8a66-dbebaf8cadaa",
+      "node_type": "Clause",
+      "publisher": "finlex",
+      "title": "§ 1 mom 2",
+      "text": "2) osuuspankkilaissa (1271/1990) tarkoitetuissa osuuspankkien yhteenliittymissä;",
+      "clause_number": 2,
+      "section_number": "1",
+      "statute_id": "480/1987"
+    },
+    {
+      "id": "d7adb033-7898-4478-9a55-178171baab93",
+      "node_type": "Clause",
+      "publisher": "finlex",
+      "title": "§ 1 mom 3",
+      "text": "3) luottolaitoslaissa tarkoitetuissa talletuspankkien vakuusrahastoissa ja talletussuojarahastoissa;",
+      "clause_number": 3,
+      "section_number": "1",
+      "statute_id": "480/1987"
+    },
+    {
+      "id": "1a315591-5e69-4d15-96f5-e99d13bb5237",
+      "node_type": "Clause",
+      "publisher": "finlex",
+      "title": "§ 1 mom 4",
+      "text": "4) sijoituspalveluyrityksistä annetussa laissa (579/1996) tarkoitetuissa sijoituspalveluyrityksissä ja niiden konsolidointiryhmään kuuluvissa rahoituslaitoksissa;",
+      "clause_number": 4,
+      "section_number": "1",
+      "statute_id": "480/1987"
+    },
+    {
+      "id": "63fe9d66-31e6-4218-b38c-59650abf0e92",
+      "node_type": "Clause",
+      "publisher": "finlex",
+      "title": "§ 1 mom 5",
+      "text": "5) sijoitusrahastolaissa tarkoitetuissa rahastoyhtiöissä ja sijoitusrahastoissa; sekä",
+      "clause_number": 5,
+      "section_number": "1",
+      "statute_id": "480/1987"
+    },
+    {
+      "id": "1efe4e57-3c6f-473a-a215-395ec3470371",
+      "node_type": "Clause",
+      "publisher": "finlex",
+      "title": "§ 1 mom 6",
+      "text": "6) kaupankäynnistä vakioiduilla optioilla ja termiineillä annetussa laissa (772/1988) tarkoitetuissa optioyhteisöissä.",
+      "clause_number": 6,
+      "section_number": "1",
+      "statute_id": "480/1987"
+    },
+    {
+      "id": "d3d94cc1-db1c-4843-a963-6972088eb5eb",
+      "node_type": "Clause",
+      "publisher": "finlex",
+      "title": "§ 4 mom 2",
+      "text": "1) laiminlyö kirjanpitomerkintöjen tekemisen 2 luvun 4 §:n 2 momentissa säädetyssä määräajassa,",
+      "clause_number": 2,
+      "section_number": "4",
+      "statute_id": "480/1987"
+    },
+    {
+      "id": "75933d0f-5639-428f-b368-8ab7fedd8f88",
+      "node_type": "Clause",
+      "publisher": "finlex",
+      "title": "§ 4 mom 1",
+      "text": "1) laiminlyö kirjanpitomerkintöjen tekemisen 2 luvun 4 §:n 2 momentissa säädetyssä määräajassa,",
+      "clause_number": 1,
+      "section_number": "4",
+      "statute_id": "480/1987"
+    },
+    {
+      "id": "cdebd694-8165-47fd-aee7-86e9d70a4f97",
+      "node_type": "Clause",
+      "publisher": "finlex",
+      "title": "§ 4 mom 2",
+      "text": "2) laiminlyö 2 luvun 10 §:ssä tarkoitetun kirjanpitoaineiston säilytysvelvollisuuden,",
+      "clause_number": 2,
+      "section_number": "4",
+      "statute_id": "480/1987"
+    },
+    {
+      "id": "f61a2df6-5ab5-4ba0-a0c3-8625bc868ada",
+      "node_type": "Clause",
+      "publisher": "finlex",
+      "title": "§ 4 mom 3",
+      "text": "3) laatii tilinpäätöksen tai konsernitilinpäätöksen vastoin 3 luvun 2 §:ää tai",
+      "clause_number": 3,
+      "section_number": "4",
+      "statute_id": "480/1987"
+    },
+    {
+      "id": "72c13a17-3c45-4a12-a6c8-2419bd10fbcd",
+      "node_type": "Clause",
+      "publisher": "finlex",
+      "title": "§ 4 mom 4",
+      "text": "4) laiminlyö 3 luvun 9 §:ssä tarkoitetun ilmoittamisvelvollisuuden,",
+      "clause_number": 4,
+      "section_number": "4",
+      "statute_id": "480/1987"
+    }
+  ],
+  "cross_references": [],
+  "raw_html_path": "C:\\Users\\danit\\finance-hack\\aalto-hackaton-2026\\data\\raw\\finlex\\Laki (säädöskokoelma)\\Kirjanpitolaki.html"
+}

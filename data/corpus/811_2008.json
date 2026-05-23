@@ -1,0 +1,117 @@
+{
+  "statute": {
+    "id": "5ae68ce6-3f6a-4e8e-aece-9661210fd4c4",
+    "node_type": "Statute",
+    "publisher": "finlex",
+    "title": "Laki oikeudenkäymiskaaren 8 ja 10 luvun muuttamisesta",
+    "text": "Laki oikeudenkäymiskaaren 8 ja 10 luvun muuttamisesta",
+    "statute_id": "811/2008",
+    "finlex_url": "https://finlex.fi/fi/laki/ajantasa/811/2008"
+  },
+  "chapters": [
+    {
+      "id": "118d5626-f5a2-48eb-858d-31ff03858949",
+      "node_type": "Chapter",
+      "publisher": "finlex",
+      "title": "Chapter 8",
+      "text": "8 luku Hakemusasioiden käsittely",
+      "chapter_number": 8,
+      "statute_id": "811/2008"
+    },
+    {
+      "id": "59955bdc-9630-42f4-87c3-9e663f44037c",
+      "node_type": "Chapter",
+      "publisher": "finlex",
+      "title": "Chapter 10",
+      "text": "10 luku Oikeuspaikasta riita-asioissa",
+      "chapter_number": 10,
+      "statute_id": "811/2008"
+    }
+  ],
+  "sections": [
+    {
+      "id": "8f7e0ef2-49f9-4197-84de-a3debb11a929",
+      "node_type": "Section",
+      "publisher": "finlex",
+      "title": "4 §",
+      "text": "Asian käsittelyä on jatkettava riita-asian käsittelyä koskevassa järjestyksessä, jos asia on riitainen ja kyseessä on: Muussa riitaisessa hakemusasiassa käräjäoikeus voi päättää, että asian käsittelyä jatketaan riita-asian käsittelystä säädetyssä järjestyksessä. Asian käsittelylajista riippumatta noudatetaan kuitenkin asiaan osallisen laiminlyönnin seurauksia koskevaa 7 §:ää ja asian ratkaisemista koskevaa 10 §:ää.",
+      "section_number": "4",
+      "chapter_number": 8,
+      "statute_id": "811/2008"
+    },
+    {
+      "id": "02699741-8467-4237-b269-8252743de265",
+      "node_type": "Section",
+      "publisher": "finlex",
+      "title": "11 §",
+      "text": "Avioeroa, yhteiselämän lopettamista, avioliiton kumoamista tai avioliiton pätevyyttä taikka muuta kuin puolison kuoleman jälkeen toimitettavaa ositusta koskeva asia tutkitaan käräjäoikeudessa, jonka tuomiopiirissä jommallakummalla puolisolla on kotipaikka tai vakituinen asuinpaikka.",
+      "section_number": "11",
+      "chapter_number": 10,
+      "statute_id": "811/2008"
+    },
+    {
+      "id": "03f54d18-53ae-4736-bb8b-6acee4eb8602",
+      "node_type": "Section",
+      "publisher": "finlex",
+      "title": "18 §",
+      "text": "Jos ei muutoin ole tuomioistuinta, jossa asia voitaisiin tutkia: Tämä laki tulee voimaan 1 päivänä lokakuuta 2023.",
+      "section_number": "18",
+      "chapter_number": 10,
+      "statute_id": "811/2008"
+    }
+  ],
+  "clauses": [
+    {
+      "id": "a5673ccc-46f0-40c4-8aa2-77b84b8df410",
+      "node_type": "Clause",
+      "publisher": "finlex",
+      "title": "§ 4 mom 1",
+      "text": "1) yhteiselämän lopettamista, avioeroa, avioliiton kumoamista tai puolison elatusta koskeva asia;",
+      "clause_number": 1,
+      "section_number": "4",
+      "statute_id": "811/2008"
+    },
+    {
+      "id": "c7467789-3b86-4c46-ac9b-78411137822f",
+      "node_type": "Clause",
+      "publisher": "finlex",
+      "title": "§ 4 mom 2",
+      "text": "2) lapsen huoltoa, tapaamisoikeutta tai lapsen elatusta koskeva asia;",
+      "clause_number": 2,
+      "section_number": "4",
+      "statute_id": "811/2008"
+    },
+    {
+      "id": "2b521cf4-0767-420e-84da-413124fdb4b9",
+      "node_type": "Clause",
+      "publisher": "finlex",
+      "title": "§ 4 mom 3",
+      "text": "3) lapseksiottamista koskeva asia; tai",
+      "clause_number": 3,
+      "section_number": "4",
+      "statute_id": "811/2008"
+    },
+    {
+      "id": "7b1d96ac-53f9-441e-89f5-b7715d99b94c",
+      "node_type": "Clause",
+      "publisher": "finlex",
+      "title": "§ 4 mom 4",
+      "text": "4) holhoustoimesta annetussa laissa (442/1999) tarkoitettu asia.",
+      "clause_number": 4,
+      "section_number": "4",
+      "statute_id": "811/2008"
+    },
+    {
+      "id": "2f6725ac-e492-465a-b10a-12619dc1b6f8",
+      "node_type": "Clause",
+      "publisher": "finlex",
+      "title": "§ 18 mom 4",
+      "text": "4) asia, joka koskee avioeroa, yhteiselämän lopettamista, avioliiton kumoamista tai avioliiton pätevyyttä taikka muuta kuin puolison kuoleman jälkeen toimitettavaa ositusta, tutkitaan käräjäoikeudessa, jonka tuomiopiirissä jommallakummalla puolisoista on viimeksi ollut kotipaikka tai vakituinen asuinpaikka;",
+      "clause_number": 4,
+      "section_number": "18",
+      "statute_id": "811/2008"
+    }
+  ],
+  "cross_references": [],
+  "raw_html_path": "C:\\Users\\danit\\finance-hack\\aalto-hackaton-2026\\data\\raw\\finlex\\Laki\\Laki oikeudenkäymiskaaren 8 ja 10 luvun muuttamisesta.html"
+}

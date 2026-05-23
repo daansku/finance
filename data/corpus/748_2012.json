@@ -1,0 +1,95 @@
+{
+  "statute": {
+    "id": "0b4eaf90-2912-4638-9bd0-342b5f0f39fe",
+    "node_type": "Statute",
+    "publisher": "finlex",
+    "title": "Laki kaupankäynnistä rahoitusvälineillä annetun lain muuttamisesta",
+    "text": "Laki kaupankäynnistä rahoitusvälineillä annetun lain muuttamisesta",
+    "statute_id": "748/2012",
+    "finlex_url": "https://finlex.fi/fi/laki/ajantasa/748/2012"
+  },
+  "chapters": [
+    {
+      "id": "536d8fe9-fd25-4617-928f-9f3fcf6d47eb",
+      "node_type": "Chapter",
+      "publisher": "finlex",
+      "title": "Chapter 1",
+      "text": "1 luku Soveltamisala ja määritelmät",
+      "chapter_number": 1,
+      "statute_id": "748/2012"
+    },
+    {
+      "id": "dd22c722-1bd4-40f5-839f-133cff1ce250",
+      "node_type": "Chapter",
+      "publisher": "finlex",
+      "title": "Chapter 2",
+      "text": "2 luku Pörssitoiminta",
+      "chapter_number": 2,
+      "statute_id": "748/2012"
+    },
+    {
+      "id": "2c13860b-febc-4361-95f7-10f78d90cc17",
+      "node_type": "Chapter",
+      "publisher": "finlex",
+      "title": "Chapter 4",
+      "text": "4 luku Monenkeskinen kaupankäyntijärjestelmä",
+      "chapter_number": 4,
+      "statute_id": "748/2012"
+    }
+  ],
+  "sections": [
+    {
+      "id": "602097ba-2f73-4c78-830a-79721770d06c",
+      "node_type": "Section",
+      "publisher": "finlex",
+      "title": "3 § Pörssiin sovellettava muu lainsäädäntö",
+      "text": "Pörssin toiminnassa ja pörssissä toimittaessa ei saa menetellä arvopaperimarkkinalain 1 luvun 2 §:ssä säädetyn hyvän arvopaperimarkkinatavan vastaisesti.",
+      "section_number": "3",
+      "chapter_number": 1,
+      "statute_id": "748/2012"
+    },
+    {
+      "id": "98d1b61a-78a9-45ae-818a-819da420d6d8",
+      "node_type": "Section",
+      "publisher": "finlex",
+      "title": "26 § Kaupankäynnin lopettaminen",
+      "text": "Pörssissä kaupankäynnin kohteena olevan arvopaperin liikkeeseenlaskijalla on oikeus saattaa pörssin 1 momentissa tarkoitettu päätös Finanssivalvonnan käsiteltäväksi 30 päivän kuluessa päätöksestä. Sijoittajien etujen valvomiseksi toimivalla rekisteröidyllä yhdistyksellä samoin kuin joukkolainanhaltijoiden edustajasta annetussa laissa (574/2017) tarkoitetulla, kyseiseen joukkovelkakirjalainaan nimetyllä joukkolainanhaltijoiden edustajalla, jos joukkolainanhaltijoiden kokous on niin päättänyt, sekä sijoittajalla, joka omistaa kyseisiä arvopapereita tai niihin oikeuttavia arvopapereita, on oikeus saattaa 2 momentissa tarkoitettu pörssin päätös Finanssivalvonnan käsiteltäväksi 30 päivän kuluessa päätöksestä. Finanssivalvonnan on ilmoitettava pörssille asian saattamisesta sen käsiteltäväksi. Pörssin päätös lopettaa kaupankäynti voidaan asian Finanssivalvonnan käsiteltäväksi saattamisesta huolimatta panna täytäntöön, jollei Finanssivalvonta tai muutoksenhakuviranomainen\ntoisin päätä.",
+      "section_number": "26",
+      "chapter_number": 2,
+      "statute_id": "748/2012"
+    },
+    {
+      "id": "efc429b7-6b48-4211-915c-18295455c75d",
+      "node_type": "Section",
+      "publisher": "finlex",
+      "title": "29 § Arvopaperin poistaminen pörssilistalta",
+      "text": "Arvopaperin liikkeeseenlaskijalla on oikeus saattaa pörssin listalta poistamispäätös ja pörssin liikkeeseenlaskijan hakemuksen johdosta tekemä päätös olla poistamatta arvopaperia pörssilistalta Finanssivalvonnan käsiteltäväksi 30 päivän kuluessa päätöksestä. Sijoittajien etujen valvomiseksi toimivalla rekisteröidyllä yhdistyksellä ja kyseiseen joukkovelkakirjalainaan nimetyllä joukkolainanhaltijoiden edustajalla, jos joukkolainanhaltijoiden kokous on niin päättänyt, sekä sijoittajalla, joka omistaa kyseisiä arvopapereita tai niihin oikeuttavia arvopapereita, on oikeus saattaa pörssin listalta poistamispäätös Finanssivalvonnan käsiteltäväksi 30 päivän kuluessa päätöksestä. Finanssivalvonnan on ilmoitettava pörssille asian saattamisesta sen käsiteltäväksi.",
+      "section_number": "29",
+      "chapter_number": 2,
+      "statute_id": "748/2012"
+    },
+    {
+      "id": "08bd7f78-64f1-4b95-ac96-05aec46b711d",
+      "node_type": "Section",
+      "publisher": "finlex",
+      "title": "1 § Monenkeskisen kaupankäynnin järjestäjä",
+      "text": "Monenkeskisen kaupankäyntijärjestelmän toiminnassa ja monenkeskisessä kaupankäyntijärjestelmässä toimittaessa ei saa menetellä arvopaperimarkkinalain 1 luvun 2 §:ssä säädetyn hyvän arvopaperimarkkinatavan vastaisesti.",
+      "section_number": "1",
+      "chapter_number": 4,
+      "statute_id": "748/2012"
+    },
+    {
+      "id": "03ec555c-c560-482c-b7bd-e72288181b3e",
+      "node_type": "Section",
+      "publisher": "finlex",
+      "title": "7 § Kaupankäynnin keskeyttäminen ja lopettaminen",
+      "text": "Monenkeskisessä kaupankäyntijärjestelmässä kaupankäynnin kohteena olevan arvopaperin liikkeeseenlaskijalla, sijoittajien etujen valvomiseksi toimivalla rekisteröidyllä yhdistyksellä ja kyseiseen joukkovelkakirjalainaan nimetyllä joukkolainanhaltijoiden edustajalla, jos joukkolainanhaltijoiden kokous on niin päättänyt, sekä sijoittajalla, joka omistaa kyseisiä arvopapereita tai niihin oikeuttavia arvopapereita, on oikeus saattaa monenkeskisen kaupankäynnin järjestäjän edellä 1 momentissa tarkoitettu päätös Finanssivalvonnan käsiteltäväksi 30 päivän kuluessa päätöksestä. Päätös kaupankäynnin keskeyttämisestä voidaan saattaa Finanssivalvonnan käsiteltäväksi vain, jos kaupankäynti on ollut keskeytyneenä vähintään kaksi vuorokautta päätöksestä. Finanssivalvonnan on ilmoitettava monenkeskisen kaupankäynnin järjestäjälle asian saattamisesta sen käsiteltäväksi. Monenkeskisen kaupankäynnin järjestäjän päätös keskeyttää tai lopettaa kaupankäynti voidaan asian Finanssivalvonnan\nkäsiteltäväksi saattamisesta huolimatta panna täytäntöön, jollei Finanssivalvonta tai muutoksenhakuviranomainen toisin päätä. Tämä laki tulee voimaan 1 päivänä syyskuuta 2017.",
+      "section_number": "7",
+      "chapter_number": 4,
+      "statute_id": "748/2012"
+    }
+  ],
+  "clauses": [],
+  "cross_references": [],
+  "raw_html_path": "C:\\Users\\danit\\finance-hack\\aalto-hackaton-2026\\data\\raw\\finlex\\Laki\\Laki kaupankäynnistä rahoitusvälineillä annetun lain muuttamisesta_9.html"
+}

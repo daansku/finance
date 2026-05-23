@@ -1,0 +1,1008 @@
+{
+  "statute": {
+    "id": "07eca293-ed34-4fea-9303-6a8429988ebd",
+    "node_type": "Statute",
+    "publisher": "finlex",
+    "title": "Sähköisen viestinnän tietosuojalaki",
+    "text": "Sähköisen viestinnän tietosuojalaki",
+    "statute_id": "393/2003",
+    "finlex_url": "https://finlex.fi/fi/laki/ajantasa/393/2003"
+  },
+  "chapters": [
+    {
+      "id": "aa4e868d-c426-4bf5-89b3-4fb210906600",
+      "node_type": "Chapter",
+      "publisher": "finlex",
+      "title": "Chapter 1",
+      "text": "1 luku Yleiset säännökset",
+      "chapter_number": 1,
+      "statute_id": "393/2003"
+    },
+    {
+      "id": "5f6a1495-51fb-42d9-9291-7097a5cabee3",
+      "node_type": "Chapter",
+      "publisher": "finlex",
+      "title": "Chapter 2",
+      "text": "2 luku Yksityisyyden ja luottamuksellisen viestin suoja",
+      "chapter_number": 2,
+      "statute_id": "393/2003"
+    },
+    {
+      "id": "25dafe14-ff72-4bbe-bd68-b7f9ab700b53",
+      "node_type": "Chapter",
+      "publisher": "finlex",
+      "title": "Chapter 3",
+      "text": "3 luku Viestien ja tunnistamistietojen käsittely",
+      "chapter_number": 3,
+      "statute_id": "393/2003"
+    },
+    {
+      "id": "63d043ed-81b0-4a44-bc09-c359ccbd0b37",
+      "node_type": "Chapter",
+      "publisher": "finlex",
+      "title": "Chapter 4",
+      "text": "4 luku Paikkatiedot",
+      "chapter_number": 4,
+      "statute_id": "393/2003"
+    },
+    {
+      "id": "b32dec45-cc42-4d08-9984-5b0268f021d2",
+      "node_type": "Chapter",
+      "publisher": "finlex",
+      "title": "Chapter 5",
+      "text": "5 luku Viestinnän tietoturva",
+      "chapter_number": 5,
+      "statute_id": "393/2003"
+    },
+    {
+      "id": "99d84b63-03d2-4d0c-b69e-081def0b873f",
+      "node_type": "Chapter",
+      "publisher": "finlex",
+      "title": "Chapter 6",
+      "text": "6 luku Puhelupalvelut",
+      "chapter_number": 6,
+      "statute_id": "393/2003"
+    },
+    {
+      "id": "db96930f-a6a7-4a4b-bcdf-2a29d0a537cb",
+      "node_type": "Chapter",
+      "publisher": "finlex",
+      "title": "Chapter 7",
+      "text": "7 luku Suoramarkkinointi",
+      "chapter_number": 7,
+      "statute_id": "393/2003"
+    },
+    {
+      "id": "f4c9ec51-219f-47a7-b47d-f262f6163297",
+      "node_type": "Chapter",
+      "publisher": "finlex",
+      "title": "Chapter 8",
+      "text": "8 luku Ohjaus ja valvonta",
+      "chapter_number": 8,
+      "statute_id": "393/2003"
+    },
+    {
+      "id": "01f34844-924a-4e15-ba7e-d1e86ff3a463",
+      "node_type": "Chapter",
+      "publisher": "finlex",
+      "title": "Chapter 9",
+      "text": "9 luku Tiedonsaantioikeus",
+      "chapter_number": 9,
+      "statute_id": "393/2003"
+    },
+    {
+      "id": "12178ba2-d7fd-4bb4-a976-7bf1b27a6603",
+      "node_type": "Chapter",
+      "publisher": "finlex",
+      "title": "Chapter 10",
+      "text": "10 luku Tietoturvamaksu",
+      "chapter_number": 10,
+      "statute_id": "393/2003"
+    },
+    {
+      "id": "03c2875f-a7dc-43d2-87d9-4ab5968a09a9",
+      "node_type": "Chapter",
+      "publisher": "finlex",
+      "title": "Chapter 11",
+      "text": "11 luku Erinäiset säännökset",
+      "chapter_number": 11,
+      "statute_id": "393/2003"
+    }
+  ],
+  "sections": [
+    {
+      "id": "9406109f-be0b-4323-bc08-8ca99c031746",
+      "node_type": "Section",
+      "publisher": "finlex",
+      "title": "1 § Lain tarkoitus",
+      "text": "Lain tarkoituksena on turvata sähköisen viestinnän luottamuksellisuuden ja yksityisyyden suojan toteutuminen sekä edistää sähköisen viestinnän tietoturvaa ja monipuolisten sähköisen viestinnän palvelujen tasapainoista kehittymistä.",
+      "section_number": "1",
+      "chapter_number": 1,
+      "statute_id": "393/2003"
+    },
+    {
+      "id": "22060b55-14eb-4eb8-b70d-8ba641d96554",
+      "node_type": "Section",
+      "publisher": "finlex",
+      "title": "2 § Määritelmät",
+      "text": "Tässä laissa tarkoitetaan:",
+      "section_number": "2",
+      "chapter_number": 1,
+      "statute_id": "393/2003"
+    },
+    {
+      "id": "2cbac4c7-ec94-41fd-a035-9a9831b2c0f3",
+      "node_type": "Section",
+      "publisher": "finlex",
+      "title": "3 § Soveltamisala",
+      "text": "Tätä lakia sovelletaan yleisissä viestintäverkoissa tarjottaviin verkkopalveluihin, viestintäpalveluihin, lisäarvopalveluihin ja palveluihin, joissa käsitellään palvelun käyttöä kuvaavia tietoja. Lisäksi lakia sovelletaan suoramarkkinointiin yleisissä viestintäverkoissa sekä tilaajaluettelopalveluihin ja numerotiedotuspalveluihin. Tätä lakia ei sovelleta sisäisiin ja muihin rajoitetuille käyttäjäpiireille tarkoitettuihin viestintäverkkoihin, ellei näitä verkkoja ole liitetty 1 momentissa tarkoitettuun yleiseen viestintäverkkoon. Lain 4 ja 5 §:ää sovelletaan kuitenkin myös sisäisiin ja muihin rajoitetuille käyttäjäpiireille tarkoitettuihin viestintäverkkoihin, vaikka näitä verkkoja ei ole liitetty 1 momentissa tarkoitettuun yleiseen viestintäverkkoon. Henkilötietojen käsittelyyn sovelletaan, mitä henkilötietolaissa (523/1999) säädetään, jollei tästä laista muuta johdu. Työnantajan ja työntekijän välisessä suhteessa sovelletaan lisäksi, mitä säädetään yksityisyyden suojasta työelämässä annetussa laissa (477/2001). Tätä lakia ei sovelleta joukkoviestintäverkossa välitettävään viestiin, jos viestiä ei voi yksittäisessä tapauksessa yhdistää sitä vastaanottavaan tilaajaan tai käyttäjään. Tätä lakia ei sovelleta viranomaistoimintaan viestintämarkkinalaissa tarkoitetussa viranomaisverkossa tai muussa yleiseen järjestykseen ja turvallisuuteen, maanpuolustukseen, pelastustehtäviin, väestönsuojeluun tai maaliikenteen, meriliikenteen, raideliikenteen taikka ilmaliikenteen turvallisuuteen liittyvien tarpeiden vuoksi rakennetussa viestintäverkossa. Tätä lakia ei sovelleta, jos rahanpesun estämisestä ja selvittämisestä annetusta laista (68/1998) muuta johtuu.",
+      "section_number": "3",
+      "chapter_number": 1,
+      "statute_id": "393/2003"
+    },
+    {
+      "id": "3868fa77-60ed-43eb-9ca4-718f19eaf3e0",
+      "node_type": "Section",
+      "publisher": "finlex",
+      "title": "4 § Viestin, tunnistamistietojen ja paikkatietojen luottamuksellisuus",
+      "text": "Viesti, tunnistamistiedot ja paikkatiedot ovat luottamuksellisia, jollei tässä tai muussa laissa toisin säädetä. Viesti ei ole luottamuksellinen, jos se on saatettu yleisesti vastaanotettavaksi. Viestiin liittyvät tunnistamistiedot ovat kuitenkin luottamuksellisia. Verkkoviestin tunnistamistietojen luovuttamisesta säädetään sananvapauden käyttämisestä joukkoviestinnässä annetun lain (460/2003) 17 §:ssä. Edellä 1 momentissa säädetty koskee myös verkkosivustojen selaamisesta kertyviä tunnistamistietoja.",
+      "section_number": "4",
+      "chapter_number": 2,
+      "statute_id": "393/2003"
+    },
+    {
+      "id": "e19b3663-b4bb-410d-886b-81b168ddcaed",
+      "node_type": "Section",
+      "publisher": "finlex",
+      "title": "5 § Vaitiolovelvollisuus ja hyväksikäyttökielto",
+      "text": "Se, joka on ottanut vastaan tai muutoin saanut tiedon luottamuksellisesta viestistä tai tunnistamistiedosta, jota ei ole hänelle tarkoitettu, ei saa ilman viestinnän osapuolen suostumusta ilmaista tai käyttää hyväksi viestin sisältöä, tunnistamistietoa tai tietoa viestin olemassaolosta, ellei laissa toisin säädetä. Se, joka on ottanut vastaan tai muutoin saanut tiedon paikkatiedosta, jota ei ole hänelle tarkoitettu, ei saa ilman paikannettavan suostumusta ilmaista tai käyttää hyväksi paikkatietoa tai tietoa sen olemassaolosta, ellei laissa toisin säädetä. Teleyrityksen, lisäarvopalvelun tarjoajan, yhteisötilaajan tai viestintämarkkinalain 137 §:ssä tarkoitetun teleurakoitsijan palveluksessa oleva tai ollut ei saa ilman viestinnän osapuolen tai paikannettavan suostumusta ilmaista, mitä hän on tehtävässään saanut tietää viesteistä, tunnistamistiedoista ja paikkatiedoista, ellei laissa toisin säädetä. Edellä 3 momentissa tarkoitettu vaitiolovelvollisuus on myös sillä, joka toimii tai on toiminut teleyrityksen, lisäarvopalvelun tarjoajan, yhteisötilaajan tai teleurakoitsijan lukuun.",
+      "section_number": "5",
+      "chapter_number": 2,
+      "statute_id": "393/2003"
+    },
+    {
+      "id": "7b7d30f6-9696-4a5d-82e8-be8bd7352af3",
+      "node_type": "Section",
+      "publisher": "finlex",
+      "title": "6 § Viestin ja tunnistamistietojen suojaaminen",
+      "text": "Tilaaja ja käyttäjä voi suojata viestinsä ja tunnistamistietonsa haluamallaan tavalla käyttäen hyväksi sitä varten tarjolla olevia teknisiä mahdollisuuksia, jollei laissa toisin säädetä. Suojauksen toteuttamisella ei saa häiritä verkkopalvelun ja viestintäpalvelun toteuttamista tai käyttämistä. Sähköisen viestinnän teknisen suojauksen purkavan järjestelmän tai sen osan hallussapito, maahantuonti, valmistaminen ja levittäminen on kielletty, jos järjestelmän tai sen osan ensisijaisena käyttötarkoituksena on teknisen suojauksen oikeudeton purku. Viestintävirasto voi antaa hyväksyttävästä syystä luvan poiketa 2 momentissa tarkoitetusta kiellosta.",
+      "section_number": "6",
+      "chapter_number": 2,
+      "statute_id": "393/2003"
+    },
+    {
+      "id": "c20ad7d1-82d5-40f2-834b-608cf63fc343",
+      "node_type": "Section",
+      "publisher": "finlex",
+      "title": "7 § Palvelun käyttöä kuvaavien tietojen tallentaminen käyttäjän päätelaitteelle ja näiden tietojen käyttö",
+      "text": "Viestintäverkkojen avulla toteutettu evästeiden tai muiden palvelun käyttöä kuvaavien tietojen tallentaminen käyttäjän päätelaitteelle ja näiden tietojen käyttö on sallittua palvelun tarjoajalle, jos palvelun tarjoaja antaa käyttäjälle ymmärrettävät ja kattavat tiedot tallentamisen tai käytön tarkoituksesta. Samalla palvelun käyttäjälle on annettava mahdollisuus kieltää tässä momentissa tarkoitettu tallentaminen tai käyttö. Edellä 1 momentissa säädetty palvelun tarjoajan tietojen antamisvelvollisuus ja käyttäjän kielto-oikeus ei koske tietojen sellaista tallentamista tai käyttöä, jonka ainoana tarkoituksena on toteuttaa tai helpottaa viestin välittämistä viestintäverkoissa tai joka on välttämätöntä sellaisen palvelun tarjoamiseksi, jota tilaaja tai palvelun käyttäjä on nimenomaisesti pyytänyt. Edellä tässä pykälässä tarkoitettu tallentaminen ja käyttö on sallittua ainoastaan palvelun vaatimassa laajuudessa ja sillä ei saa rajoittaa yksityisyyden suojaa enempää kuin on välttämätöntä.",
+      "section_number": "7",
+      "chapter_number": 2,
+      "statute_id": "393/2003"
+    },
+    {
+      "id": "f451e2bb-ab86-42ab-a821-cd98a5e00b00",
+      "node_type": "Section",
+      "publisher": "finlex",
+      "title": "8 § Yleiset käsittelysäännöt",
+      "text": "Viestin lähettäjä tai se, jolle viesti on tarkoitettu, voi käsitellä omia viestejään ja niihin liittyviä tunnistamistietoja, jollei jäljempänä tässä tai muussa laissa toisin säädetä. Luottamuksellisia viestejä ja tunnistamistietoja saa käsitellä viestin lähettäjän tai sen, jolle viesti on tarkoitettu, suostumuksella tai jos laissa niin säädetään. Jäljempänä 9―14 §:ssä tarkoitettu käsittely on sallittua ainoastaan käsittelyn tarkoituksen vaatimassa laajuudessa ja sillä ei saa rajoittaa luottamuksellisen viestin ja yksityisyyden suojaa enempää kuin on välttämätöntä. Tunnistamistietoja on sallittua luovuttaa ainoastaan niille tahoille, joilla on oikeus käsitellä tietoja asianomaisessa tilanteessa. Käsittelyn jälkeen viestit ja tunnistamistiedot on hävitettävä tai tehtävä sellaisiksi, ettei niitä voi yhdistää tilaajaan tai käyttäjään, ellei laissa toisin säädetä.",
+      "section_number": "8",
+      "chapter_number": 3,
+      "statute_id": "393/2003"
+    },
+    {
+      "id": "b0165739-31fb-4715-9701-e6811cb5c66f",
+      "node_type": "Section",
+      "publisher": "finlex",
+      "title": "9 § Tunnistamistietojen käsittely palvelujen toteuttamiseksi ja käyttämiseksi",
+      "text": "Tunnistamistietoja saa käsitellä siinä määrin kuin se on tarpeen verkkopalvelun, viestintäpalvelun tai lisäarvopalvelun toteuttamiseksi ja käyttämiseksi sekä näiden tietoturvasta huolehtimiseksi. Tunnistamistietoja saa käsitellä vain teleyrityksen, lisäarvopalvelun tarjoajan ja yhteisötilaajan palveluksessa oleva sekä näiden lukuun toimiva luonnollinen henkilö, jonka tehtävänä on käsitellä tietoja 1 momentissa ja 10―14 §:ssä erikseen säädettyjen tarkoitusten toteuttamiseksi.",
+      "section_number": "9",
+      "chapter_number": 3,
+      "statute_id": "393/2003"
+    },
+    {
+      "id": "63426ebd-c964-4d1f-ab72-e2a44927a4de",
+      "node_type": "Section",
+      "publisher": "finlex",
+      "title": "10 § Käsittely laskutusta varten",
+      "text": "Teleyritys ja lisäarvopalvelun tarjoaja voi käsitellä keskinäisten maksujensa määrittämistä ja laskutusta varten välttämättömiä tunnistamistietoja. Yhteisötilaaja voi käsitellä sisäistä laskutustaan varten välttämättömiä tunnistamistietoja. Tietoyhteiskunnan palvelujen tarjoamisesta annetussa laissa (458/2002) tarkoitettu tietoyhteiskunnan palvelun tarjoaja voi käsitellä teleyrityksen hallinnoiman viestintäverkon välityksellä tarjottavien kuvatallenteiden, äänitallenteiden ja muiden maksullisten palvelujensa laskutusta varten välttämättömiä teleyritykseltä saamiaan tunnistamistietoja ja muita laskutuksen kannalta välttämättömiä tietoja, jos tilaaja tai käyttäjä, jota tiedot koskevat, on antanut siihen suostumuksensa. Tietoyhteiskunnan palvelun tarjoajalla on oikeus saada teleyritykseltä 3 momentissa tarkoitetut tiedot. Luovutuksen saajaan sovelletaan, mitä tässä luvussa ja 2, 4 ja 5 luvussa säädetään viestinnän luottamuksellisuudesta ja yksityisyyden suojasta, viestien ja tunnistamistietojen käsittelystä, paikkatietojen käsittelystä ja viestinnän tietoturvasta lisäarvopalvelun tarjoajan osalta. Laskun määräytymiseen liittyviä tietoja on säilytettävä vähintään kolme kuukautta laskun eräpäivästä tai tunnistamistiedon tallentumisesta riippuen siitä, kumpi näistä ajankohdista on myöhäisempi. Tietoja ei saa kuitenkaan säilyttää enää sen jälkeen, kun saatava on velan vanhentumisesta annetun lain (728/2003) mukaan vanhentunut. Laskua koskevan erimielisyyden synnyttyä laskua koskevat tiedot on kuitenkin säilytettävä siihen saakka, kunnes asia on sovittu tai ratkaistu. Teleyrityksen ja lisäarvopalvelun tarjoajan on ilmoitettava tilaajalle tai käyttäjälle, millaisia tunnistamistietoja käsitellään ja kuinka kauan niiden käsittely kestää.",
+      "section_number": "10",
+      "chapter_number": 3,
+      "statute_id": "393/2003"
+    },
+    {
+      "id": "c04e32c6-a86a-448b-a655-4ac900a92515",
+      "node_type": "Section",
+      "publisher": "finlex",
+      "title": "11 § Käsittely markkinointia varten",
+      "text": "Teleyritys voi viestintäpalvelujen tai lisäarvopalvelujen markkinoimiseksi käsitellä tunnistamistietoja siinä määrin ja niin kauan kuin tällainen markkinointi edellyttää, jos tilaaja tai käyttäjä, jota tiedot koskevat, on antanut siihen suostumuksensa. Teleyrityksen on ilmoitettava tilaajalle tai käyttäjälle ennen kuin tämä antaa suostumuksensa, millaisia tunnistamistietoja käsitellään ja kuinka kauan niiden käsittely kestää. Suostumuksen antajalla on oltava mahdollisuus peruuttaa tunnistamistietojen käsittelyä koskeva suostumuksensa.",
+      "section_number": "11",
+      "chapter_number": 3,
+      "statute_id": "393/2003"
+    },
+    {
+      "id": "3d668e92-fcb2-436d-8bc4-1b148cfa36f3",
+      "node_type": "Section",
+      "publisher": "finlex",
+      "title": "12 § Käsittely teknistä kehittämistä varten",
+      "text": "Teleyritys ja lisäarvopalvelun tarjoaja voi käsitellä tunnistamistietoja palvelujen teknistä kehittämistä varten. Ennen 1 momentissa tarkoitetun käsittelyn aloittamista teleyrityksen ja lisäarvopalvelun tarjoajan on ilmoitettava tilaajalle tai käyttäjälle, millaisia tunnistamistietoja käsitellään ja kuinka kauan niiden käsittely kestää. Yhteisötilaaja voi käsitellä tunnistamistietoja oman toimintansa teknistä kehittämistä varten.",
+      "section_number": "12",
+      "chapter_number": 3,
+      "statute_id": "393/2003"
+    },
+    {
+      "id": "5e5a81d6-4005-4ffa-8fff-b1b2265eb3eb",
+      "node_type": "Section",
+      "publisher": "finlex",
+      "title": "13 § Käsittely väärinkäytöstapauksissa",
+      "text": "Teleyritys, lisäarvopalvelun tarjoaja ja yhteisötilaaja voi käsitellä tunnistamistietoja, jos se on tarpeen verkkopalvelun, viestintäpalvelun tai lisäarvopalvelun yksittäisten maksullisten palvelujen käyttöä maksutta tai muiden siihen rinnastuvien käyttöä koskevien väärinkäytösten havaitsemiseksi, estämiseksi ja selvittämiseksi sekä esitutkintaan saattamiseksi.",
+      "section_number": "13",
+      "chapter_number": 3,
+      "statute_id": "393/2003"
+    },
+    {
+      "id": "6167a224-c3c5-4e6b-8edb-c0d7cc6f9f7a",
+      "node_type": "Section",
+      "publisher": "finlex",
+      "title": "14 § Käsittely teknisen vian tai virheen havaitsemiseksi",
+      "text": "Teleyritys, lisäarvopalvelun tarjoaja ja yhteisötilaaja voi käsitellä tunnistamistietoja, jos se on tarpeen viestinnän välittämisessä tapahtuneen teknisen vian tai virheen havaitsemiseksi.",
+      "section_number": "14",
+      "chapter_number": 3,
+      "statute_id": "393/2003"
+    },
+    {
+      "id": "0258ad75-5d9e-4c8a-b61e-630df9512e30",
+      "node_type": "Section",
+      "publisher": "finlex",
+      "title": "15 § Käsittelyä koskevien tietojen tallentaminen",
+      "text": "Teleyrityksen on tallennettava tunnistamistietojen käsittelystä yksityiskohtaiset tapahtumatiedot. Tapahtumatiedoista on käytävä ilmi käsittelyn ajankohta, kesto ja käsittelijä. Tapahtumatiedot on säilytettävä kaksi vuotta niiden tallentamisesta. Viestintävirasto voi antaa tarkempia määräyksiä 1 momentissa tarkoitetun tallentamisen ja säilyttämisen teknisestä toteuttamisesta.",
+      "section_number": "15",
+      "chapter_number": 3,
+      "statute_id": "393/2003"
+    },
+    {
+      "id": "1d1d097d-ee9d-4316-ba5a-b5acbbf802a3",
+      "node_type": "Section",
+      "publisher": "finlex",
+      "title": "16 § Paikkatietojen käsittely ja luovutus",
+      "text": "Teleyritys, lisäarvopalvelun tarjoaja ja yhteisötilaaja sekä näiden lukuun toimivat henkilöt saavat käsitellä paikkatietoja tässä luvussa säädetyin edellytyksin lisäarvopalvelun tarjoamiseksi ja hyödyntämiseksi. Tämän luvun säännöksiä ei kuitenkaan sovelleta paikkatietoihin, jos ne on tehty sellaisiksi, ettei niitä sellaisenaan tai muihin tietoihin liitettyinä voida yhdistää tilaajaan tai käyttäjään, ellei laissa toisin säädetä. Paikkatietojen käsittely on rajoitettava teleyrityksen, lisäarvopalvelun tarjoajan ja yhteisötilaajan palveluksessa sekä näiden lukuun toimiviin henkilöihin, joiden tehtävänä on käsitellä paikkatietoja tässä luvussa tarkoitettujen toimien toteuttamiseksi. Käsittely on sallittua ainoastaan käsittelyn tarkoituksen vaatimassa laajuudessa ja sillä ei saa rajoittaa yksityisyyden suojaa enemmän kuin on välttämätöntä. Käsittelyn jälkeen paikkatiedot on hävitettävä tai tehtävä sellaisiksi, ettei niitä voi yhdistää tilaajaan tai käyttäjään, ellei laissa toisin säädetä. Tässä luvussa tarkoitetusta paikkatietojen käsittelyn kieltämisestä ja palvelukohtaisesta suostumuksesta päättää alle 15-vuotiaan puolesta hänen huoltajansa lapsen huollosta ja tapaamisoikeudesta annetun lain (361/1983) 4 §:n mukaisesti tai muun kuin alaikäisen vajaavaltaisen puolesta hänen edunvalvojansa siten kuin holhoustoimesta annetussa laissa (442/1999) säädetään, jollei tämä ole palvelun teknisen toteutuksen takia mahdotonta.",
+      "section_number": "16",
+      "chapter_number": 4,
+      "statute_id": "393/2003"
+    },
+    {
+      "id": "393b84c4-ae82-48ee-8c4c-3bf26dc287a4",
+      "node_type": "Section",
+      "publisher": "finlex",
+      "title": "17 § Tilaajan oikeus kieltää paikkatietojen käsittely",
+      "text": "Teleyritys saa käsitellä paikkatietoja, jollei tilaaja ole sitä kieltänyt. Teleyrityksen on huolehdittava, että tilaajalla on mahdollisuus helposti ja ilman erillistä maksua kieltää paikkatietojen käsittely, jollei laissa toisin säädetä. Teleyrityksen on huolehdittava, että tilaajan saatavilla on helposti ja jatkuvasti tietoa käsiteltävien paikkatietojen tarkkuudesta ja käsittelyn tarkoituksesta sekä siitä, voidaanko paikkatiedot luovuttaa kolmannelle osapuolelle lisäarvopalvelun tarjoamista varten. Ennen paikkatietojen luovuttamista lisäarvopalvelun tarjoajalle tai yhteisötilaajalle teleyrityksen on varmistuttava tarkoituksenmukaisella tavalla, että lisäarvopalvelun tarjoaminen perustuu 18 §:n 1 momentissa tarkoitettuun suostumukseen.",
+      "section_number": "17",
+      "chapter_number": 4,
+      "statute_id": "393/2003"
+    },
+    {
+      "id": "ef534479-691b-41b6-90e8-1b98b3a9920e",
+      "node_type": "Section",
+      "publisher": "finlex",
+      "title": "18 § Paikannettavan palvelukohtainen suostumus",
+      "text": "Lisäarvopalvelun tarjoajan tai yhteisötilaajan on pyydettävä paikannettavalta palvelukohtainen suostumus ennen paikkatietojen käsittelyn aloittamista, jollei suostumus yksiselitteisesti ilmene asiayhteydestä tai jollei laissa toisin säädetä. Paikannettavalla on oltava mahdollisuus helposti ja ilman erillistä maksua peruuttaa 1 momentissa tarkoitettu suostumus, jollei laissa toisin säädetä. Lisäarvopalvelun tarjoajan tai yhteisötilaajan on huolehdittava, että paikannettavan saatavilla on helposti ja jatkuvasti tietoa käsiteltävien paikkatietojen tarkkuudesta, käsittelyn täsmällisestä tarkoituksesta ja kestosta sekä siitä, voidaanko paikkatiedot luovuttaa kolmannelle osapuolelle lisäarvopalvelun tarjoamista varten. Lisäarvopalvelun tarjoajan tai yhteisötilaajan on erityisesti huolehdittava siitä, että nämä tiedot ovat paikannettavan saatavilla ennen 1 momentissa tarkoitettua suostumusta.",
+      "section_number": "18",
+      "chapter_number": 4,
+      "statute_id": "393/2003"
+    },
+    {
+      "id": "c87c2330-365e-4b53-8548-727bf3072d69",
+      "node_type": "Section",
+      "publisher": "finlex",
+      "title": "19 § Velvollisuus huolehtia tietoturvasta",
+      "text": "Teleyrityksen ja lisäarvopalvelun tarjoajan on huolehdittava palvelujensa tietoturvasta. Yhteisötilaajan on huolehdittava käyttäjiensä tunnistamistietojen ja paikkatietojen käsittelyn tietoturvasta. Palvelun ja käsittelyn tietoturvasta huolehtiminen tarkoittaa toimia toiminnan turvallisuuden, tietoliikenneturvallisuuden, laitteisto- ja ohjelmistoturvallisuuden sekä tietoaineistoturvallisuuden varmistamiseksi. Nämä toimet on suhteutettava uhkien vakavuuteen, tekniseen kehitystasoon ja kustannuksiin. Teleyritys ja lisäarvopalvelun tarjoaja vastaa tilaajille ja käyttäjille 1 momentissa tarkoitetusta tietoturvasta myös sellaisen kolmannen osapuolen osalta, joka kokonaan tai osittain toteuttaa verkkopalvelun, viestintäpalvelun tai lisäarvopalvelun. Edellä tässä momentissa tarkoitettu koskee yhteisötilaajaa käyttäjien tunnistamistietojen ja paikkatietojen käsittelyn osalta. Viestintävirasto voi antaa teleyritykselle tarkempia määräyksiä 1 ja 2 momentissa tarkoitetusta palvelun tietoturvasta.",
+      "section_number": "19",
+      "chapter_number": 5,
+      "statute_id": "393/2003"
+    },
+    {
+      "id": "0d693f97-90e2-4f77-ac09-2d2852b8a6cd",
+      "node_type": "Section",
+      "publisher": "finlex",
+      "title": "20 § Toimenpiteet tietoturvan toteuttamiseksi",
+      "text": "Tietoturvaloukkausten torjumiseksi ja tietoturvaan kohdistuvien häiriöiden poistamiseksi teleyrityksellä, lisäarvopalvelun tarjoajalla tai yhteisötilaajalla ja näiden lukuun toimivalla on oikeus ryhtyä välttämättömiin toimiin 19 §:ssä tarkoitetun tietoturvan varmistamiseksi: Edellä 1 momentissa tarkoitettuihin toimiin saa ryhtyä vain, jos toimet ovat välttämättömiä verkkopalvelujen tai viestintäpalvelujen taikka viestin vastaanottajan viestintämahdollisuuksien turvaamiseksi. Viestin sisältöön saa puuttua ainoastaan teknisin keinoin viestin tarkastamiseksi ja poistamiseksi, jos on todennäköisiä syitä epäillä viestin sisältävän sellaisen tietokoneohjelman tai ohjelmakäskyjen sarjan, jota tarkoitetaan rikoslain (39/1889) 34 luvun 9 a §:n 1 kohdassa tai jos on todennäköisiä syitä epäillä, että viestiä käytetään rikoslain 38 luvun 5 §:ssä säädettyyn tietoliikenteen häirintään. Toimenpiteet on toteutettava huolellisesti ja ne on mitoitettava torjuttavan häiriön vakavuuteen. Toimenpiteitä toteutettaessa ei saa rajoittaa sananvapautta taikka luottamuksellisen viestin tai yksityisyyden suojaa enempää kuin on välttämätöntä verkkopalvelujen tai viestintäpalvelujen taikka viestin vastaanottajan viestintämahdollisuuksien turvaamiseksi. Toimenpiteet on lopetettava heti, kun niiden toteuttamiselle ei enää ole tässä pykälässä säädettyjä edellytyksiä. Viestintävirasto voi antaa tarkempia määräyksiä tietoturvaloukkausten tässä pykälässä tarkoitetusta teknisestä torjumisesta ja tietoturvaan kohdistuvien häiriöiden poistamisesta.",
+      "section_number": "20",
+      "chapter_number": 5,
+      "statute_id": "393/2003"
+    },
+    {
+      "id": "8ce7412f-dfae-420a-80d9-f42fd65f3b70",
+      "node_type": "Section",
+      "publisher": "finlex",
+      "title": "21 § Tietoturvailmoitukset",
+      "text": "Jos 19 §:ssä tarkoitetun palvelun tietoturvaan kohdistuu erityinen uhka, teleyrityksen ja lisäarvopalvelun tarjoajan on ilmoitettava uhkasta viipymättä tilaajalle ja kerrottava samalla tilaajan ja käyttäjän käytettävissä olevista toimenpiteistä uhkan torjumiseksi sekä niiden todennäköisistä kustannuksista. Teleyrityksen on ilmoitettava Viestintävirastolle verkkopalvelun ja viestintäpalvelun merkittävistä tietoturvaloukkauksista ja sellaisista niihin kohdistuvista tietoturvauhkista, joista teleyritys on tietoinen. Lisäksi teleyrityksen on ilmoitettava Viestintävirastolle palvelujen merkittävistä vikatilanteista ja häiriötilanteista. Samalla on ilmoitettava toimenpiteistä, joilla tällaisten tietoturvaloukkausten ja niiden uhkien sekä vika- ja häiriötilanteiden toistuminen pyritään estämään. Teleyrityksen on torjuttuaan palveluunsa kohdistuneen merkittävän tietoturvaloukkauksen tai -uhkan taikka poistettuaan häiriön tiedotettava tarkoituksenmukaisella tavalla toteuttamistaan toimista ja niiden mahdollisista vaikutuksista palvelun käyttöön. Viestintävirasto voi antaa tarkempia määräyksiä 1 ja 2 momentissa tarkoitettujen ilmoitusten sisällöstä, muodosta ja Viestintävirastolle toimittamisesta tai ohjeita 3 momentissa tarkoitetun tiedottamisen sisällöstä ja muodosta.",
+      "section_number": "21",
+      "chapter_number": 5,
+      "statute_id": "393/2003"
+    },
+    {
+      "id": "8f086870-a44e-4d9f-9e4b-8be2b0d5623b",
+      "node_type": "Section",
+      "publisher": "finlex",
+      "title": "22 § Liittymän tunnistus",
+      "text": "Liittymän tunnistusta tarjoavan teleyrityksen on annettava tilaajalle helppokäyttöinen mahdollisuus estää: Edellä 1 momentin 1, 2 ja 4 kohdassa tarkoitettujen palvelujen on oltava tilaajalle maksuttomia. Liittymän tunnistusta tarjoavan teleyrityksen on annettava käyttäjälle helppokäyttöinen ja maksuton mahdollisuus estää jokaisen lähtevän puhelun osalta erikseen liittymänsä tunnistus. Teleyrityksen on tiedotettava tilaajalle ja käyttäjälle tässä pykälässä tarkoitetuista palveluista. Teleyrityksen on huolehdittava siitä, että 1 ja 3 momentissa tarkoitetut estot voidaan ohittaa luovutettaessa tietoja hätäilmoituksia vastaanottaville viranomaisille 35 §:n mukaisesti tai toteutettaessa 36 §:ssä säädettyä poliisin tiedonsaantioikeutta. Viestintävirasto voi antaa teknisiä määräyksiä 1, 3 ja 5 momentissa tarkoitetun tunnistuksen eston ohittamisesta.",
+      "section_number": "22",
+      "chapter_number": 6,
+      "statute_id": "393/2003"
+    },
+    {
+      "id": "1fa3a6d4-5fb2-45c9-9ffa-5b0a03de6ce5",
+      "node_type": "Section",
+      "publisher": "finlex",
+      "title": "23 § Automaattinen soitonsiirto",
+      "text": "Teleyrityksen on käyttäjän pyynnöstä maksutta poistettava kolmannen osapuolen tekemä automaattinen soitonsiirto käyttäjän liittymään.",
+      "section_number": "23",
+      "chapter_number": 6,
+      "statute_id": "393/2003"
+    },
+    {
+      "id": "41bb6055-4972-499b-a2c4-7ba5c1d40924",
+      "node_type": "Section",
+      "publisher": "finlex",
+      "title": "24 § Laskun yhteyskohtainen erittely",
+      "text": "Teleyritys ei saa luovuttaa laskun yhteyskohtaista erittelyä, ellei tässä pykälässä toisin säädetä. Sen lisäksi, mitä viestintämarkkinalain 80 §:ssä laskun erittelystä säädetään, teleyrityksen on tilaajan sitä pyytäessä annettava laskun yhteyskohtainen erittely. Erittely on annettava tilaajalle siten, että puhelinnumeron kolme viimeistä numeroa on peitetty tai muutoin siten, ettei erittelystä voida tunnistaa viestinnän toista osapuolta. Teleyrityksen on annettava käyttäjän sitä pyytäessä laskun yhteyskohtainen erittely, jossa on eritelty viestinnän osapuolten liittymien numerot tai viestintäpalvelun muut tunnistamistiedot täydellisesti. Käyttäjän puhevaltaa käyttää alle 15-vuotiaan puolesta hänen huoltajansa lapsen huollosta ja tapaamisoikeudesta annetun lain 4 §:n mukaisesti tai muun kuin alaikäisen vajaavaltaisen puolesta hänen edunvalvojansa siten kuin holhoustoimesta annetussa laissa säädetään. Sen estämättä, mitä 2 momentissa säädetään, teleyrityksen on annettava tilaajalle erittely palvelutyypeittäin sellaisista yhteyksistä, joista aiheutuu tilaajalle muita kuin viestintäpalvelun käytöstä johtuvia maksuja. Liittymän yhteyskohtainen erittely ei saa sisältää maksuttomien palvelujen tunnistamistietoja. Viestintävirasto voi antaa tarkempia määräyksiä tässä pykälässä tarkoitetun erittelyn sisällöstä ja toteuttamistavasta.",
+      "section_number": "24",
+      "chapter_number": 6,
+      "statute_id": "393/2003"
+    },
+    {
+      "id": "e91cddf9-9681-4898-bbe2-5614996f56ca",
+      "node_type": "Section",
+      "publisher": "finlex",
+      "title": "25 § Puhelinluettelot ja muut tilaajaluettelot sekä numerotiedotus",
+      "text": "Puhelinluettelon, muun tilaajaluettelon ja numerotiedotuksen tarjoajalla on oikeus käsitellä henkilötietoja luettelopalvelun ja numerotiedotuksen muodostamiseksi sekä niiden tarjoamista varten. Tilaajan oikeudesta saada nimeään, osoitettaan ja puhelinnumeroaan koskevat yhteystietonsa puhelinluetteloon säädetään viestintämarkkinalain 57 §:ssä. Teleyrityksen tai lisäarvopalvelun tarjoajan velvollisuudesta luovuttaa yhteystietoja toisille palvelujen tarjoajille puhelinluettelon laatimista tai numerotiedotuspalvelun tarjoamista varten säädetään viestintämarkkinalain 58 §:ssä. Teleyrityksen on ilmoitettava tilaajana olevalle luonnolliselle henkilölle yleisesti saatavilla olevan tai luettelopalvelun kautta käytettävissä olevan puhelinluettelon tai muun tilaajaluettelon taikka numerotiedotuspalvelun tarkoituksesta ja käytöstä. Ilmoitus on annettava maksutta ennen kuin hänen tietonsa merkitään tilaajaluetteloon tai numerotiedotuspalveluun. Teleyrityksen on annettava tilaajana olevalle luonnolliselle henkilölle mahdollisuus maksutta kieltää tietojensa merkitseminen kokonaan tai osittain puhelinluetteloon, muuhun tilaajaluetteloon ja numerotiedotuspalveluun. Teleyrityksen sekä tilaajaluettelopalvelua ja numerotiedotuspalvelua tarjoavan yrityksen, joka on saanut yhteystiedot viestintämarkkinalain 58 §:n nojalla, on tilaajana olevan luonnollisen henkilön pyynnöstä maksutta poistettava ja korjattava virheelliset tiedot. Tarkastusoikeuden toteuttamisesta säädetään henkilötietolain 26 §:ssä. Tilaajana olevalla luonnollisella henkilöllä on oikeus maksutta kieltää tässä pykälässä tarkoitettujen yhteystietojensa edelleen luovuttaminen. Teleyrityksen on annettava puhelinluetteloon, muuhun tilaajaluetteloon ja numerotiedotuspalveluun merkitylle yritykselle ja muulle yhteisölle oikeus saada tietonsa tarkistetuiksi ja poistetuiksi sekä virheelliset tiedot korjatuiksi.",
+      "section_number": "25",
+      "chapter_number": 6,
+      "statute_id": "393/2003"
+    },
+    {
+      "id": "f938977b-a0ed-44b3-a172-06107e00245e",
+      "node_type": "Section",
+      "publisher": "finlex",
+      "title": "26 § Suoramarkkinointi luonnolliselle henkilölle",
+      "text": "Automatisoitujen soittojärjestelmien sekä telekopiolaitteiden, sähköpostiviestien, tekstiviestien, puheviestien, ääniviestien tai kuvaviestien avulla toteutettua suoramarkkinointia saa kohdistaa vain sellaisiin luonnollisiin henkilöihin, jotka ovat antaneet siihen ennalta suostumuksensa. Muuta kuin 1 momentissa tarkoitettua suoramarkkinointia luonnolliselle henkilölle saa harjoittaa, jollei tämä ole sitä nimenomaisesti kieltänyt. Luonnollisen henkilön on voitava helposti ja maksutta kieltää tässä momentissa tarkoitettu suoramarkkinointi. Jos palvelun tarjoaja tai tuotteen myyjä saa asiakkaana olevalta luonnolliselta henkilöltä sähköpostiviestiin, tekstiviestiin, puheviestiin, ääniviestiin tai kuvaviestiin liittyvän yhteystiedon tuotteen tai palvelun myynnin yhteydessä, sama palvelun tarjoaja tai tuotteen myyjä voi sen estämättä, mitä 1 momentissa säädetään, käyttää tätä yhteystietoa omien samaan tuoteryhmään kuuluvien tai muuten vastaavien tuotteiden ja palvelujen suoramarkkinoinnissa. Palvelun tarjoajan tai tuotteen myyjän on annettava asiakkaana olevalle luonnolliselle henkilölle mahdollisuus ilman erillistä maksua ja helposti kieltää yhteystiedon käyttö tiedon keräämisen ja jokaisen sähköpostiviestin, tekstiviestin, puheviestin, ääniviestin ja kuvaviestin yhteydessä. Palvelun tarjoajan tai tuotteen myyjän on selkeästi tiedotettava kieltomahdollisuudesta.",
+      "section_number": "26",
+      "chapter_number": 7,
+      "statute_id": "393/2003"
+    },
+    {
+      "id": "3b7efd09-efab-4ad9-89eb-0638bf94fdc4",
+      "node_type": "Section",
+      "publisher": "finlex",
+      "title": "27 § Suoramarkkinointi yhteisölle",
+      "text": "Suoramarkkinointia yhteisölle saa harjoittaa, jollei tämä ole sitä nimenomaisesti kieltänyt. Yhteisölle on annettava mahdollisuus helposti ja ilman erillistä maksua kieltää yhteystietojensa käyttö jokaisen suoramarkkinointitarkoituksessa lähetetyn sähköpostiviestin, tekstiviestin, puheviestin, ääniviestin ja kuvaviestin yhteydessä. Suoramarkkinointia harjoittavan on selkeästi tiedotettava kieltomahdollisuudesta.",
+      "section_number": "27",
+      "chapter_number": 7,
+      "statute_id": "393/2003"
+    },
+    {
+      "id": "5124bf65-f987-4dbe-9be0-95c458f1a8cf",
+      "node_type": "Section",
+      "publisher": "finlex",
+      "title": "28 § Suoramarkkinoinnin tunnistaminen",
+      "text": "Edellä 26 ja 27 §:ssä säädettyyn suoramarkkinointiin tarkoitettu sähköpostiviesti, tekstiviesti, puheviesti, ääniviesti ja kuvaviesti on voitava sitä vastaanotettaessa selvästi ja yksiselitteisesti tunnistaa markkinoinniksi. Sellaisen suoramarkkinointiin tarkoitetun sähköpostiviestin, tekstiviestin, puheviestin, ääniviestin ja kuvaviestin lähettäminen on kiellettyä:",
+      "section_number": "28",
+      "chapter_number": 7,
+      "statute_id": "393/2003"
+    },
+    {
+      "id": "e4f57a33-ee53-4406-9bff-c58c399ccc17",
+      "node_type": "Section",
+      "publisher": "finlex",
+      "title": "29 § Suoramarkkinoinnin vastaanottamisen estäminen",
+      "text": "Käyttäjän pyynnöstä teleyrityksellä ja yhteisötilaajalla on oikeus estää 26―28 §:ssä tarkoitetun suoramarkkinoinnin vastaanottaminen. Toimenpiteet on toteutettava huolellisesti, eikä niillä saa rajoittaa sananvapautta taikka luottamuksellisen viestin tai yksityisyyden suojaa enemmän kuin on välttämätöntä.",
+      "section_number": "29",
+      "chapter_number": 7,
+      "statute_id": "393/2003"
+    },
+    {
+      "id": "d0facda9-a01c-4df2-a143-7830ceea2f57",
+      "node_type": "Section",
+      "publisher": "finlex",
+      "title": "30 § Yleinen ohjaus ja kehittäminen",
+      "text": "Yleinen ohjaus ja kehittäminen tämän lain tarkoituksen toteutumiseksi kuuluu liikenne- ja viestintäministeriölle.",
+      "section_number": "30",
+      "chapter_number": 8,
+      "statute_id": "393/2003"
+    },
+    {
+      "id": "bcad1704-0fcd-4882-91ce-fb27517a7c72",
+      "node_type": "Section",
+      "publisher": "finlex",
+      "title": "31 § Viestintäviraston tehtävät",
+      "text": "Viestintäviraston tehtävänä on:",
+      "section_number": "31",
+      "chapter_number": 8,
+      "statute_id": "393/2003"
+    },
+    {
+      "id": "9cdce929-b82e-4af5-b635-04012439cf22",
+      "node_type": "Section",
+      "publisher": "finlex",
+      "title": "32 § Tietosuojavaltuutetun tehtävät",
+      "text": "Tietosuojavaltuutetun tehtävänä on valvoa:",
+      "section_number": "32",
+      "chapter_number": 8,
+      "statute_id": "393/2003"
+    },
+    {
+      "id": "c13eebca-ee93-46f9-ac13-e692849e2dac",
+      "node_type": "Section",
+      "publisher": "finlex",
+      "title": "33 § Ohjaus- ja valvontaviranomaisten tiedonsaantioikeus",
+      "text": "Liikenne- ja viestintäministeriöllä, Viestintävirastolla ja tietosuojavaltuutetulla on oikeus saada tässä laissa säädettyjen tehtäviensä hoitamiseksi välttämättömät tiedot salassapitosäännösten tai muiden tietojen luovuttamista koskevien rajoitusten estämättä teleyritykseltä, lisäarvopalvelun tarjoajalta, yhteisötilaajalta, teleurakoitsijalta, palvelun tarjoajalta, joka käsittelee palvelun käyttöä kuvaavia tietoja, suoramarkkinoinnin harjoittajalta, tilaajaluettelopalvelun ja numerotiedotuspalvelun tarjoajalta sekä näiden lukuun toimivilta niiden harjoittamasta tässä laissa tarkoitetusta toiminnasta. Liikenne- ja viestintäministeriön, Viestintäviraston ja tietosuojavaltuutetun tiedonsaantioikeus ei koske tietoja luottamuksellisista viesteistä, tunnistamistiedoista tai paikkatiedoista. Sen estämättä, mitä 5 §:ssä säädetään, Viestintävirastolla on oikeus saada tarpeelliset tunnistamistiedot ja paikkatiedot verkkopalvelun, viestintäpalvelun ja lisäarvopalvelun vikatilanteiden tai häiriötilanteiden taikka laskutukseen liittyvien epäselvyyksien selvittämiseksi. Viestintävirastolla ja tietosuojavaltuutetulla on oikeus saada tässä laissa säädettyjen tehtävien hoitamiseksi tunnistamistiedot, paikkatiedot ja 20 §:n 2 momentissa tarkoitetut viestit, jos ne ovat tarpeen käsittelyä, 7 §:ssä tarkoitettujen tietojen käyttöä tai suoramarkkinointia koskevien säännösten noudattamisen valvomiseksi tai merkittävien tietoturvaloukkausten ja -uhkien selvittämiseksi ja jos Viestintäviraston tai tietosuojavaltuutetun arvion mukaan on syytä epäillä, että jokin seuraavista tunnusmerkistöistä täyttyy: Liikenne- ja viestintäministeriöllä, Viestintävirastolla ja tietosuojavaltuutetulla on oikeus käsitellä saamiaan tietoja ainoastaan tässä laissa säädettyjen tehtäviensä hoitamiseksi. Viestintäviraston ja tietosuojavaltuutetun on hävitettävä 3 momentin nojalla saamansa tiedot luottamuksellisista viesteistä, tunnistamistiedoista ja paikkatiedoista, kun ne eivät enää ole tarpeen 3 momentissa säädettyjen tehtävien tai niitä koskevan rikosasian käsittelemiseksi. Tiedot luottamuksellisista viesteistä, tunnistamistiedoista ja paikkatiedoista on hävitettävä viimeistään kahden vuoden tai, jos on kysymys tietoturvaloukkausten selvittämistä koskevista tiedoista, viimeistään kymmenen vuoden kuluttua sen kalenterivuoden päättymisestä, jonka aikana tiedot saatiin tai päätös taikka tuomio tässä momentissa tarkoitetuissa asioissa sai lainvoiman. Tässä pykälässä säädetty tiedonsaantioikeus ei koske luottolaitostoiminnasta annetun lain (1607/1993) 94 §:ssä tai oikeudenkäymiskaaren 17 luvun 24 §:n 2 ja 3 momentissa tarkoitettuja tietoja.",
+      "section_number": "33",
+      "chapter_number": 9,
+      "statute_id": "393/2003"
+    },
+    {
+      "id": "820597e7-f3a6-4520-b8ec-af406f1c24b4",
+      "node_type": "Section",
+      "publisher": "finlex",
+      "title": "34 § Valvontaviranomaisten vaitiolovelvollisuus ja tietojen luovuttaminen",
+      "text": "Viestintäviraston ja tietosuojavaltuutetun 33 §:n 3 momentin nojalla saamat tiedot luottamuksellisista viesteistä, tunnistamistiedoista ja paikkatiedoista on pidettävä salassa. Viestintävirastolla ja tietosuojavaltuutetulla on muun kuin 1 momentissa tarkoitetun salassapitosäännöksen tai muun tietojen luovuttamista koskevan rajoituksen estämättä oikeus luovuttaa tässä laissa säädettyjä tehtäviä suorittaessaan saamiaan 33 §:n 1 momentissa tarkoitettuja tietoja liikenne- ja viestintäministeriölle. Viestintävirastolla on 1 momentissa tarkoitetun salassapitosäännöksen tai muun tietojen luovuttamista koskevan rajoituksen estämättä oikeus luovuttaa tietoturvaloukkauksia koskevan tiedonkeruun ja selvittämisen yhteydessä saamiaan tunnistamistietoja niille teleyrityksille, lisäarvopalvelun tarjoajille ja yhteisötilaajille, joita on käytetty hyväksi tietoturvaloukkauksessa tai jotka ovat joutuneet tietoturvaloukkauksen kohteiksi, jos Viestintäviraston arvion mukaan on syytä epäillä, että jokin edellä 33 §:n 3 momentin 1―10 kohdassa mainittu tunnusmerkistö täyttyy. Viestintävirastolla on oikeus luovuttaa 3 momentissa tarkoitettuja tunnistamistietoja ainoastaan siinä laajuudessa kuin se on tarpeen tietoturvaloukkausten ehkäisemiseksi ja selvittämiseksi. Muilta osin valvontaviranomaisten tietojen salassapidosta on voimassa, mitä viranomaisten toiminnan julkisuudesta annetussa laissa (621/1999) säädetään.",
+      "section_number": "34",
+      "chapter_number": 9,
+      "statute_id": "393/2003"
+    },
+    {
+      "id": "f82477c9-131a-49b3-a098-a4b16ed98ef5",
+      "node_type": "Section",
+      "publisher": "finlex",
+      "title": "35 § Tietojen luovuttaminen hätäilmoituksia vastaanottaville viranomaisille",
+      "text": "Teleyritys on velvollinen luovuttamaan hätäkeskukselle, meripelastuskeskukselle ja meripelastuslohkokeskukselle sekä poliisin hälytyskeskukselle käsiteltäväksi: Edellä 1 momentissa tarkoitetut tiedot on luovutettava 5 §:ssä tarkoitetun vaitiolovelvollisuuden ja 4 luvussa tarkoitettujen paikkatietojen käsittelyä koskevien edellytysten estämättä ja riippumatta siitä, mitä tilaaja tai käyttäjä on sopinut teleyrityksen kanssa tietojen pitämisestä salassa. Lisäarvopalvelun tarjoajalla on oikeus luovuttaa 1 momentissa tarkoitetut tiedot hätäkeskukselle, meripelastuskeskukselle ja meripelastuslohkokeskukselle sekä poliisin hälytyskeskukselle. Teleyrityksen on viipymättä ilmoitettava hätäkeskukselle, meripelastuskeskukselle, meripelastuslohkokeskukselle ja poliisin hälytyskeskukselle hätäpuheluiden välittämisen kannalta merkittävistä viestintäverkon, verkkopalvelun ja viestintäpalvelun vikatilanteista ja häiriötilanteista. Edellä 1 momentissa säädettyjen velvollisuuksien toteuttamisesta aiheutuvien kustannusten korvaamisesta säädetään viestintämarkkinalain 98 §:ssä.",
+      "section_number": "35",
+      "chapter_number": 9,
+      "statute_id": "393/2003"
+    },
+    {
+      "id": "7ab62e56-65e0-4698-94ce-e8ad5a78e306",
+      "node_type": "Section",
+      "publisher": "finlex",
+      "title": "36 § Eräiden muiden viranomaisten tiedonsaantioikeus",
+      "text": "Viranomaisten oikeudesta saada tunnistamistietoja rikosten ennalta estämiseksi ja paljastamiseksi säädetään poliisilaissa (493/1995) ja tullilaissa (1466/1994). Viranomaisten oikeudesta saada tunnistamistietoja rikoksen selvittämiseksi säädetään pakkokeinolaissa (450/1987). Poliisilla on 5 §:ssä säädetyn vaitiolovelvollisuuden estämättä oikeus saada teleyritykseltä: Edellä tässä pykälässä säädettyjen velvollisuuksien toteuttamisesta aiheutuvien kustannusten korvaamisesta säädetään viestintämarkkinalain 98 §:ssä.",
+      "section_number": "36",
+      "chapter_number": 9,
+      "statute_id": "393/2003"
+    },
+    {
+      "id": "789b22ac-631f-45f0-83ca-0221a1a75de8",
+      "node_type": "Section",
+      "publisher": "finlex",
+      "title": "37 § Käyttäjän erityinen tiedonsaantioikeus",
+      "text": "Käyttäjällä on oikeus saada teleyritykseltä tämän hallussa olevat tunnistamistiedot, jotka ilmaisevat liittymän tai päätelaitteen sijainnin tietyllä hetkellä. Edellä 1 momentissa tarkoitetun käyttäjän puhevaltaa käyttää alle 15-vuotiaan puolesta hänen huoltajansa lapsen huollosta ja tapaamisoikeudesta annetun lain 4 §:n mukaisesti tai muun kuin alaikäisen vajaavaltaisen puolesta hänen edunvalvojansa siten kuin holhoustoimesta annetussa laissa säädetään.",
+      "section_number": "37",
+      "chapter_number": 9,
+      "statute_id": "393/2003"
+    },
+    {
+      "id": "7d8f766c-b408-4a34-81cf-31d45e0e6dea",
+      "node_type": "Section",
+      "publisher": "finlex",
+      "title": "38 § Maksun määräytymisen perusteet",
+      "text": "Ilmoituksenvaraista tai toimiluvanvaraista toimintaa harjoittava teleyritys on velvollinen suorittamaan Viestintävirastolle vuotuisen tietoturvamaksun. Teleyrityksiltä perittävät tietoturvamaksut vastaavat niitä kokonaiskustannuksia, jotka aiheutuvat Viestintävirastolle tässä laissa säädettyjen teleyrityksiä koskevien tehtävien hoitamisesta.",
+      "section_number": "38",
+      "chapter_number": 10,
+      "statute_id": "393/2003"
+    },
+    {
+      "id": "0861bf9f-4a11-480e-a485-74bd95e39b20",
+      "node_type": "Section",
+      "publisher": "finlex",
+      "title": "39 § Tietoturvamaksun suuruus",
+      "text": "Tietoturvamaksua ei peritä televisio- ja radiotoiminnasta annetussa laissa (744/1998) tarkoitetun televisio- tai radiotoiminnan taikka televisio-ohjelmien tai radio-ohjelmien edelleen lähettämisen liikevaihdosta. Tietoturvamaksu määritellään maksuyksiköiden lukumääränä maksuluokittain. Maksuyksikön suuruus on 80 euroa. Yritykset jaetaan maksuluokkiin niiden kustannusten huomioon ottamiseksi, jotka Viestintävirastolle keskimäärin aiheutuvat kunkin maksuluokan yritystä koskevien tehtävien hoitamisesta. Teleyrityksen maksuluokka määräytyy teleyrityksen Suomessa harjoittaman teletoiminnan maksun määräämistä edeltävän kauden liikevaihdon perusteella. Jos teleyritys kuuluu kirjanpitolain (1336/1997) 1 luvun 6 §:n mukaiseen konserniin, teleyrityksen maksun perusteena on yrityksen osuus samaan konserniin kuuluvien maksuvelvollisten teleyritysten Suomessa harjoittaman teletoiminnan yhteisestä liikevaihdosta vähennettynä yhtiöiden keskinäisellä tästä toiminnasta syntyneellä liikevaihdolla. Jotta maksu määrätään, edellytetään lisäksi, että yritysten muodostamaan konserniin kuuluvalla yrityksellä on tietoturvamaksun perusteena olevaa teletoiminnan liikevaihtoa. Maksu määräytyy tässä momentissa säädetyllä tavalla myös niissä tapauksissa, joissa emoyhtiö ei ole suomalainen. Liikenne- ja viestintäministeriön asetuksella voidaan antaa tarkempia säännöksiä siitä, miten maksun määräämiseksi tarpeelliset tiedot on ilmoitettava Viestintävirastolle. Tietoturvamaksu määräytyy seuraavasti:",
+      "section_number": "39",
+      "chapter_number": 10,
+      "statute_id": "393/2003"
+    },
+    {
+      "id": "9e8a385b-cb97-4307-8d24-b1186ca9ebb2",
+      "node_type": "Section",
+      "publisher": "finlex",
+      "title": "40 § Tietoturvamaksun määrääminen ja periminen",
+      "text": "Tietoturvamaksun määrää maksettavaksi Viestintävirasto. Tarkempia säännöksiä maksun täytäntöönpanosta voidaan antaa liikenne- ja viestintäministeriön asetuksella. Tietoturvamaksu saadaan periä ilman tuomiota tai päätöstä siinä järjestyksessä kuin verojen ja maksujen perimisestä ulosottotoimin annetussa laissa (367/1961) säädetään. Jollei maksua suoriteta viimeistään eräpäivänä, maksamattomalle määrälle peritään vuotuista viivästyskorkoa korkolain (633/1982) 4 §:ssä tarkoitetun korkokannan mukaan. Viivästyskoron sijasta viranomainen voi periä viiden euron suuruisen viivästysmaksun, jos viivästyskoron määrä jää tätä pienemmäksi.",
+      "section_number": "40",
+      "chapter_number": 10,
+      "statute_id": "393/2003"
+    },
+    {
+      "id": "60556574-a952-49c7-afb1-faf880087e24",
+      "node_type": "Section",
+      "publisher": "finlex",
+      "title": "41 § Pakkokeinot",
+      "text": "Jos joku rikkoo tätä lakia tai sen nojalla annettuja säännöksiä tai määräyksiä eikä kehotuksesta huolimatta kohtuullisessa määräajassa oikaise menettelyään, Viestintävirasto voi 31 §:n 1 kohdassa ja tietosuojavaltuutettu 32 §:ssä tarkoitettuja tehtäviä hoitaessaan velvoittaa rikkojan korjaamaan virheensä tai laiminlyöntinsä. Viestintävirasto ja tietosuojavaltuutettu voi asettaa velvoitteen noudattamisen tehosteeksi uhkasakon tai uhan, että tekemättä jätetty toimenpide teetetään asianomaisen kustannuksella. Jos rikkomus on vakava, asetettava uhka voi koskea myös sitä, että toiminta keskeytetään osaksi tai kokonaan. Viestintävirasto ja tietosuojavaltuutettu voi saattaa käsiteltävänään olevan asian esitutkinnan kohteeksi. Uhkasakosta, keskeyttämisuhasta ja teettämisuhasta on voimassa, mitä uhkasakkolaissa (1113/1990) säädetään. Teettämällä suoritetun toimenpiteen kustannukset maksetaan etukäteen valtion varoista. Kustannukset saadaan periä ilman tuomiota tai päätöstä siinä järjestyksessä kuin verojen ja maksujen perimisestä ulosottotoimin annetussa laissa säädetään.",
+      "section_number": "41",
+      "chapter_number": 11,
+      "statute_id": "393/2003"
+    },
+    {
+      "id": "e3d0085d-2874-4ba4-9ed4-6a90ee8693ea",
+      "node_type": "Section",
+      "publisher": "finlex",
+      "title": "42 § Rangaistussäännökset",
+      "text": "Rangaistus viestintäsalaisuuden loukkaamisesta ja törkeästä viestintäsalaisuuden loukkaamisesta säädetään rikoslain 38 luvun 3 ja 4 §:ssä sekä rangaistus tietomurrosta rikoslain 38 luvun 8 §:ssä. Rangaistus 5 §:ssä säädetyn vaitiolovelvollisuuden rikkomisesta tuomitaan rikoslain 38 luvun 1 tai 2 §:n mukaan, jollei teko ole rangaistava rikoslain 40 luvun 5 §:n mukaan tai siitä muualla säädetä ankarampaa rangaistusta. Joka tahallaan on tuomittavasähköisen viestinnän tietosuojarikkomuksestasakkoon, jollei teosta muualla laissa säädetä ankarampaa rangaistusta. Rangaistusta ei tuomita, jos rikkomus on vähäinen.",
+      "section_number": "42",
+      "chapter_number": 11,
+      "statute_id": "393/2003"
+    },
+    {
+      "id": "421d05a2-0136-4d9a-bcf4-1171cdee33b7",
+      "node_type": "Section",
+      "publisher": "finlex",
+      "title": "43 § Muutoksenhaku",
+      "text": "Viestintäviraston tai tietosuojavaltuutetun tämän lain nojalla antamaan päätökseen voidaan hakea muutosta noudattaen, mitä hallintolainkäyttölaissa (586/1996) säädetään. Viestintävirasto tai tietosuojavaltuutettu voi päätöksessään määrätä, että päätöstä on noudatettava ennen kuin se on saanut lainvoiman. Valitusviranomainen voi kuitenkin kieltää täytäntöönpanon, kunnes valitus on ratkaistu.",
+      "section_number": "43",
+      "chapter_number": 11,
+      "statute_id": "393/2003"
+    },
+    {
+      "id": "eff8608b-8617-4a58-814f-916656f65e2a",
+      "node_type": "Section",
+      "publisher": "finlex",
+      "title": "44 § Voimaantulo- ja siirtymäsäännökset",
+      "text": "Tämä laki tulee voimaan 1 päivänä syyskuuta 2004. Tällä lailla kumotaan: Ennen tämän lain voimaantuloa voidaan ryhtyä lain täytäntöönpanon edellyttämiin toimiin. Jos teleyritys on aloittanut paikkatietojen käsittelyn ennen tämän lain voimaantuloa ja tuolloin voimassa olleiden säännösten mukaisesti, tilaajalle on ilmoitettava paikkatietojen käsittelystä kuuden kuukauden kuluessa lain voimaantulosta. Jos tilaaja ei kiellä tietojen käsittelyä kolmen kuukauden kuluessa ilmoituksesta, paikkatietojen käsittelyä voidaan jatkaa 4 luvussa säädetyn mukaisesti. Teleyrityksen on aloitettava 15 §:ssä tarkoitettu tietojen tallentaminen kuuden kuukauden kuluessa tämän lain voimaantulosta. Edellä 25 §:ssä säädettyä ei sovelleta sellaisiin tilaajaluettelojen painoksiin, jotka on jo tuotettu tai saatettu markkinoille painetussa tai muussa kuin verkkokäyttöisessä sähköisessä muodossa ennen tämän lain voimaantuloa. Jos tilaajan tai käyttäjän tiedot on merkitty tilaajaluetteloon, joka on verkkokäyttöisessä sähköisessä muodossa yksityisyyden suojasta televiestinnässä ja teletoiminnan tietoturvasta annetun lain mukaisesti ennen tämän lain voimaantuloa, teleyrityksen sekä tilaajaluettelopalvelua ja numerotiedotuspalvelua tarjoavan yrityksen, joka on saanut yhteystiedot viestintämarkkinalain 58 §:n nojalla, on annettava tilaajana olevalle luonnolliselle henkilölle tiedot tilaajaluettelon tarkoituksesta tai käytöstä ja 25 §:n 4 ja 5 momentissa tarkoitetuista oikeuksista vuoden kuluessa lain voimaantulosta. Jollei tilaajana oleva luonnollinen henkilö vaadi tietojensa poistamista, kyseiset tiedot saavat jäädä tilaajaluetteloon. Tämä laki tulee voimaan 1 päivänä syyskuuta 2004.",
+      "section_number": "44",
+      "chapter_number": 11,
+      "statute_id": "393/2003"
+    }
+  ],
+  "clauses": [
+    {
+      "id": "40fa2e9c-742f-40e6-a6a5-65affe140ee6",
+      "node_type": "Clause",
+      "publisher": "finlex",
+      "title": "§ 20 mom 1",
+      "text": "1) estämällä sähköpostiviestien, tekstiviestien ja muiden vastaavien viestien välittäminen ja vastaanottaminen;",
+      "clause_number": 1,
+      "section_number": "20",
+      "statute_id": "393/2003"
+    },
+    {
+      "id": "bd08b80e-e5fa-4edb-bb77-4ca32ebcfefb",
+      "node_type": "Clause",
+      "publisher": "finlex",
+      "title": "§ 20 mom 2",
+      "text": "2) poistamalla tietoturvaa vaarantavat haittaohjelmat viesteistä; sekä",
+      "clause_number": 2,
+      "section_number": "20",
+      "statute_id": "393/2003"
+    },
+    {
+      "id": "60db1f77-5002-417e-952a-e1ebe5881e63",
+      "node_type": "Clause",
+      "publisher": "finlex",
+      "title": "§ 20 mom 3",
+      "text": "3) toteuttamalla muut näihin rinnastettavat teknisluonteiset toimet.",
+      "clause_number": 3,
+      "section_number": "20",
+      "statute_id": "393/2003"
+    },
+    {
+      "id": "f2507cae-0200-492e-96b7-febe9d61dfd1",
+      "node_type": "Clause",
+      "publisher": "finlex",
+      "title": "§ 22 mom 1",
+      "text": "1) jokaisen liittymänsä tunnistus;",
+      "clause_number": 1,
+      "section_number": "22",
+      "statute_id": "393/2003"
+    },
+    {
+      "id": "ea518b4d-af48-4de5-ba6f-fd042340ab4c",
+      "node_type": "Clause",
+      "publisher": "finlex",
+      "title": "§ 22 mom 2",
+      "text": "2) tulevien puhelujen liittymän tunnistus;",
+      "clause_number": 2,
+      "section_number": "22",
+      "statute_id": "393/2003"
+    },
+    {
+      "id": "e9eb0090-4f8a-4c6f-9a1c-a1ce24b77f68",
+      "node_type": "Clause",
+      "publisher": "finlex",
+      "title": "§ 22 mom 3",
+      "text": "3) sellaisten tulevien puhelujen vastaanotto, joiden liittymän tunnistus on estetty, milloin se on teknisesti ja ilman kohtuuttomia kustannuksia mahdollista; sekä",
+      "clause_number": 3,
+      "section_number": "22",
+      "statute_id": "393/2003"
+    },
+    {
+      "id": "61e75724-3398-42c2-8e78-fd212a321eca",
+      "node_type": "Clause",
+      "publisher": "finlex",
+      "title": "§ 22 mom 4",
+      "text": "4) sen liittymän tunnistus, johon liittymään tulevat puhelut on siirretty.",
+      "clause_number": 4,
+      "section_number": "22",
+      "statute_id": "393/2003"
+    },
+    {
+      "id": "5c87b048-ed7a-430c-957c-c75be6b59448",
+      "node_type": "Clause",
+      "publisher": "finlex",
+      "title": "§ 28 mom 1",
+      "text": "1) jossa peitetään tai salataan sen lähettäjän henkilöllisyys, jonka puolesta viesti on lähetetty; ja",
+      "clause_number": 1,
+      "section_number": "28",
+      "statute_id": "393/2003"
+    },
+    {
+      "id": "f683c056-d0bf-4659-8802-648c86e11c12",
+      "node_type": "Clause",
+      "publisher": "finlex",
+      "title": "§ 28 mom 2",
+      "text": "2) jossa ei ole voimassa olevaa osoitetta, johon vastaanottaja voi lähettää pyynnön siitä, että kyseinen viestintä lopetetaan.",
+      "clause_number": 2,
+      "section_number": "28",
+      "statute_id": "393/2003"
+    },
+    {
+      "id": "9c801ebd-c659-49ac-9cec-6cc744d94c1e",
+      "node_type": "Clause",
+      "publisher": "finlex",
+      "title": "§ 31 mom 1",
+      "text": "1) valvoa tämän lain sekä sen nojalla annettujen säännösten ja määräysten noudattamista siltä osin kuin 32 §:stä ei muuta johdu;",
+      "clause_number": 1,
+      "section_number": "31",
+      "statute_id": "393/2003"
+    },
+    {
+      "id": "5e241224-6611-49c0-a919-5244c3c4721e",
+      "node_type": "Clause",
+      "publisher": "finlex",
+      "title": "§ 31 mom 2",
+      "text": "2) kerätä tietoa verkkopalveluihin, viestintäpalveluihin ja lisäarvopalveluihin kohdistuvista tietoturvaloukkauksista ja niiden uhkista sekä näiden palvelujen merkittävistä vikatilanteista ja häiriötilanteista;",
+      "clause_number": 2,
+      "section_number": "31",
+      "statute_id": "393/2003"
+    },
+    {
+      "id": "d3cf6cfe-3a09-4c73-8de7-c3bb4ef48abb",
+      "node_type": "Clause",
+      "publisher": "finlex",
+      "title": "§ 31 mom 3",
+      "text": "3) selvittää verkkopalveluihin, viestintäpalveluihin ja lisäarvopalveluihin kohdistuvia tietoturvaloukkauksia ja niiden uhkia sekä merkittäviä näiden palvelujen vikatilanteita ja häiriötilanteita; sekä",
+      "clause_number": 3,
+      "section_number": "31",
+      "statute_id": "393/2003"
+    },
+    {
+      "id": "420c8249-8849-4e6e-ba60-0209b561664a",
+      "node_type": "Clause",
+      "publisher": "finlex",
+      "title": "§ 31 mom 4",
+      "text": "4) tiedottaa tietoturva-asioista.",
+      "clause_number": 4,
+      "section_number": "31",
+      "statute_id": "393/2003"
+    },
+    {
+      "id": "c69fc84b-ab21-4196-b08d-491223a5d287",
+      "node_type": "Clause",
+      "publisher": "finlex",
+      "title": "§ 32 mom 1",
+      "text": "1) edellä 4 luvussa tarkoitettua paikkatietojen käsittelyä;",
+      "clause_number": 1,
+      "section_number": "32",
+      "statute_id": "393/2003"
+    },
+    {
+      "id": "b7ae8b53-ca4b-41f1-a435-21074036d37f",
+      "node_type": "Clause",
+      "publisher": "finlex",
+      "title": "§ 32 mom 2",
+      "text": "2) edellä 25 §:ssä tarkoitettuja puhelinluetteloita ja muita tilaajaluetteloita sekä numerotiedotusta koskevien säännösten noudattamista;",
+      "clause_number": 2,
+      "section_number": "32",
+      "statute_id": "393/2003"
+    },
+    {
+      "id": "7b56615e-0242-40f6-84b3-0912d9bd6cb4",
+      "node_type": "Clause",
+      "publisher": "finlex",
+      "title": "§ 32 mom 3",
+      "text": "3) edellä 7 lukuun sisältyvien suoramarkkinointia koskevien säännösten noudattamista; sekä",
+      "clause_number": 3,
+      "section_number": "32",
+      "statute_id": "393/2003"
+    },
+    {
+      "id": "ca8941f6-793a-4b68-9907-b5350dcd7783",
+      "node_type": "Clause",
+      "publisher": "finlex",
+      "title": "§ 32 mom 4",
+      "text": "4) jäljempänä 9 lukuun sisältyvien tiedonsaantioikeuksia ja vaitiolovelvollisuutta koskevien säännösten noudattamista paikkatietojen osalta.",
+      "clause_number": 4,
+      "section_number": "32",
+      "statute_id": "393/2003"
+    },
+    {
+      "id": "a06d5359-ca6d-4738-a8b2-f54ea9c2506d",
+      "node_type": "Clause",
+      "publisher": "finlex",
+      "title": "§ 33 mom 2",
+      "text": "1) tämän lain 42 §:n 2 momentissa tarkoitettu sähköisen viestinnän tietosuojarikkomus;",
+      "clause_number": 2,
+      "section_number": "33",
+      "statute_id": "393/2003"
+    },
+    {
+      "id": "6628fe07-d888-41aa-b393-b7ca3f8f6b30",
+      "node_type": "Clause",
+      "publisher": "finlex",
+      "title": "§ 33 mom 1",
+      "text": "1) tämän lain 42 §:n 2 momentissa tarkoitettu sähköisen viestinnän tietosuojarikkomus;",
+      "clause_number": 1,
+      "section_number": "33",
+      "statute_id": "393/2003"
+    },
+    {
+      "id": "8f1626f0-4b30-4148-a33a-90a6a94e0051",
+      "node_type": "Clause",
+      "publisher": "finlex",
+      "title": "§ 33 mom 2",
+      "text": "2) rikoslain 28 luvun 7 §:ssä tarkoitettu luvaton käyttö;",
+      "clause_number": 2,
+      "section_number": "33",
+      "statute_id": "393/2003"
+    },
+    {
+      "id": "5fcb463d-7091-403f-ae1c-ae9ae7974a57",
+      "node_type": "Clause",
+      "publisher": "finlex",
+      "title": "§ 33 mom 3",
+      "text": "3) rikoslain 34 luvun 9 a §:ssä tarkoitettu vaaran aiheuttaminen tietojenkäsittelylle;",
+      "clause_number": 3,
+      "section_number": "33",
+      "statute_id": "393/2003"
+    },
+    {
+      "id": "2e7ef9cb-3d66-4bf5-aeff-ad2c81f83b88",
+      "node_type": "Clause",
+      "publisher": "finlex",
+      "title": "§ 33 mom 2",
+      "text": "4) rikoslain 35 luvun 1 §:n 2 momentissa tarkoitettu vahingonteko;",
+      "clause_number": 2,
+      "section_number": "33",
+      "statute_id": "393/2003"
+    },
+    {
+      "id": "b7438dc7-146b-4ae4-8285-7ec719041fe3",
+      "node_type": "Clause",
+      "publisher": "finlex",
+      "title": "§ 33 mom 4",
+      "text": "4) rikoslain 35 luvun 1 §:n 2 momentissa tarkoitettu vahingonteko;",
+      "clause_number": 4,
+      "section_number": "33",
+      "statute_id": "393/2003"
+    },
+    {
+      "id": "3fd5a2e3-32b4-4585-9774-4f0dd597de30",
+      "node_type": "Clause",
+      "publisher": "finlex",
+      "title": "§ 33 mom 5",
+      "text": "5) rikoslain 38 luvun 1 §:ssä tarkoitettu salassapitorikos;",
+      "clause_number": 5,
+      "section_number": "33",
+      "statute_id": "393/2003"
+    },
+    {
+      "id": "4e4f20ca-db02-467b-beff-375408ae2bea",
+      "node_type": "Clause",
+      "publisher": "finlex",
+      "title": "§ 33 mom 6",
+      "text": "6) rikoslain 38 luvun 3 §:ssä tarkoitettu viestintäsalaisuuden loukkaus;",
+      "clause_number": 6,
+      "section_number": "33",
+      "statute_id": "393/2003"
+    },
+    {
+      "id": "019ee635-d2cd-490f-92a2-f6b97581538c",
+      "node_type": "Clause",
+      "publisher": "finlex",
+      "title": "§ 33 mom 7",
+      "text": "7) rikoslain 38 luvun 5 §:ssä tarkoitettu tietoliikenteen häirintä;",
+      "clause_number": 7,
+      "section_number": "33",
+      "statute_id": "393/2003"
+    },
+    {
+      "id": "da185a63-5dc0-4d8e-8961-8442380cc013",
+      "node_type": "Clause",
+      "publisher": "finlex",
+      "title": "§ 33 mom 8",
+      "text": "8) rikoslain 38 luvun 8 §:ssä tarkoitettu tietomurto;",
+      "clause_number": 8,
+      "section_number": "33",
+      "statute_id": "393/2003"
+    },
+    {
+      "id": "46e4c072-b21a-48ad-8f4d-6a55197cfdec",
+      "node_type": "Clause",
+      "publisher": "finlex",
+      "title": "§ 33 mom 9",
+      "text": "9) rikoslain 38 luvun 8 a §:ssä tarkoitettu suojauksen purkujärjestelmärikos; tai",
+      "clause_number": 9,
+      "section_number": "33",
+      "statute_id": "393/2003"
+    },
+    {
+      "id": "89c53c26-40c8-4704-8c32-f1cc6ca7a749",
+      "node_type": "Clause",
+      "publisher": "finlex",
+      "title": "§ 33 mom 10",
+      "text": "10) rikoslain 38 luvun 9 §:ssä tarkoitettu henkilörekisteririkos.",
+      "clause_number": 10,
+      "section_number": "33",
+      "statute_id": "393/2003"
+    },
+    {
+      "id": "840fb188-1dc9-4f3c-8b00-bc63e0d8f3c2",
+      "node_type": "Clause",
+      "publisher": "finlex",
+      "title": "§ 35 mom 1",
+      "text": "1) sen liittymän ja päätelaitteen tunnistamistiedot ja paikkatiedot, josta hätäilmoitus on tehty, ja tiedot liittymän tilaajasta, käyttäjästä ja asennusosoitteesta; sekä",
+      "clause_number": 1,
+      "section_number": "35",
+      "statute_id": "393/2003"
+    },
+    {
+      "id": "4fed8273-3d25-4504-893c-c8a81b26d0a6",
+      "node_type": "Clause",
+      "publisher": "finlex",
+      "title": "§ 35 mom 2",
+      "text": "2) hätäilmoituksen kohteena olevan käyttäjän päätelaitteen ja liittymän sijainnin ilmaisevat tunnistamistiedot ja paikkatiedot, jos käyttäjä on hätäilmoituksen vastaanottaneen viranomaisen perustellun käsityksen mukaan ilmeisessä hädässä tai välittömässä vaarassa.",
+      "clause_number": 2,
+      "section_number": "35",
+      "statute_id": "393/2003"
+    },
+    {
+      "id": "73e61fba-2aa0-4a27-b74c-e8ba1f3d7870",
+      "node_type": "Clause",
+      "publisher": "finlex",
+      "title": "§ 36 mom 1",
+      "text": "1) rikoslain 16 luvun 9 a §:ssä tarkoitetun lähestymiskiellon rikkomisen, 17 luvun 13 §:n 2 kohdassa tarkoitetun ilkivallan tai 24 luvun 1 §:n 2 kohdassa tarkoitetun kotirauhan rikkomisen selvittämiseksi tarvittavia tunnistamistietoja liittymään otetuista yhteyksistä asianomistajan ja sen suostumuksella, jonka hallinnassa liittymä on; sekä",
+      "clause_number": 1,
+      "section_number": "36",
+      "statute_id": "393/2003"
+    },
+    {
+      "id": "6f01c282-5734-41fe-8394-9f45ed023fe8",
+      "node_type": "Clause",
+      "publisher": "finlex",
+      "title": "§ 36 mom 2",
+      "text": "2) tilaajan tai päätelaitteen omistajan suostumuksella matkaviestimestä lähetettyjä viestejä koskevat tunnistamistiedot siltä osin kuin se on tarpeen sellaisen rikoksen selvittämiseksi, jonka johdosta matkaviestin tai siinä käytetty liittymä on oikeudettomasti toisen hallussa.",
+      "clause_number": 2,
+      "section_number": "36",
+      "statute_id": "393/2003"
+    },
+    {
+      "id": "8ffc41fd-d69d-48df-8ea8-04cb5d8fff41",
+      "node_type": "Clause",
+      "publisher": "finlex",
+      "title": "§ 42 mom 2",
+      "text": "1) rikkoo 6 §:n 2 momentissa säädettyä teknisen suojauksen purkavan järjestelmän tai sen osan hallussapitoa, maahantuontia, valmistamista tai levittämistä koskevaa kieltoa,",
+      "clause_number": 2,
+      "section_number": "42",
+      "statute_id": "393/2003"
+    },
+    {
+      "id": "7952de31-c8c6-48e0-bf6e-9d8200e2899e",
+      "node_type": "Clause",
+      "publisher": "finlex",
+      "title": "§ 42 mom 1",
+      "text": "1) rikkoo 6 §:n 2 momentissa säädettyä teknisen suojauksen purkavan järjestelmän tai sen osan hallussapitoa, maahantuontia, valmistamista tai levittämistä koskevaa kieltoa,",
+      "clause_number": 1,
+      "section_number": "42",
+      "statute_id": "393/2003"
+    },
+    {
+      "id": "2a70dc29-3360-440c-b384-44fdc896c11a",
+      "node_type": "Clause",
+      "publisher": "finlex",
+      "title": "§ 42 mom 2",
+      "text": "2) laiminlyö 7 §:ssä säädetyt velvollisuudet,",
+      "clause_number": 2,
+      "section_number": "42",
+      "statute_id": "393/2003"
+    },
+    {
+      "id": "15513e21-3503-4aff-8ba9-60bc1c2a3641",
+      "node_type": "Clause",
+      "publisher": "finlex",
+      "title": "§ 42 mom 3",
+      "text": "3) laiminlyö 19 §:ssä säädetyn velvollisuuden huolehtia palvelujensa tai tunnistamistietojen ja paikkatietojen käsittelyn tietoturvasta,",
+      "clause_number": 3,
+      "section_number": "42",
+      "statute_id": "393/2003"
+    },
+    {
+      "id": "5209c059-cba1-43eb-b79c-1a5734847560",
+      "node_type": "Clause",
+      "publisher": "finlex",
+      "title": "§ 42 mom 2",
+      "text": "4) laiminlyö 21 §:n 2 momentissa tai 35 §:n 4 momentissa säädetyn ilmoitusvelvollisuuden,",
+      "clause_number": 2,
+      "section_number": "42",
+      "statute_id": "393/2003"
+    },
+    {
+      "id": "064fd40e-036c-445f-a814-be636ba86bf6",
+      "node_type": "Clause",
+      "publisher": "finlex",
+      "title": "§ 42 mom 4",
+      "text": "4) laiminlyö 21 §:n 2 momentissa tai 35 §:n 4 momentissa säädetyn ilmoitusvelvollisuuden,",
+      "clause_number": 4,
+      "section_number": "42",
+      "statute_id": "393/2003"
+    },
+    {
+      "id": "da0334e6-d856-4072-8449-b85af864f5f4",
+      "node_type": "Clause",
+      "publisher": "finlex",
+      "title": "§ 42 mom 5",
+      "text": "5) käsittelee tunnistamistietoja tai paikkatietoja 3 ja 4 luvussa säädetyn vastaisesti,",
+      "clause_number": 5,
+      "section_number": "42",
+      "statute_id": "393/2003"
+    },
+    {
+      "id": "8818eaee-3657-435c-b8f7-ee2ae08b6e60",
+      "node_type": "Clause",
+      "publisher": "finlex",
+      "title": "§ 42 mom 6",
+      "text": "6) laiminlyö, mitä 24 §:ssä säädetään laskun yhteyskohtaisesta erittelystä,",
+      "clause_number": 6,
+      "section_number": "42",
+      "statute_id": "393/2003"
+    },
+    {
+      "id": "d9de96b6-3640-48d0-98d0-a336de435bff",
+      "node_type": "Clause",
+      "publisher": "finlex",
+      "title": "§ 42 mom 7",
+      "text": "7) laiminlyö, mitä 25 §:ssä säädetään puhelinluetteloihin ja muihin tilaajaluetteloihin sisältyvien henkilötietojen käsittelystä, tilaajalle luettelon tarkoituksesta ja käytöstä ilmoittamisesta, tietojen poistamisesta ja korjaamisesta, kielto-oikeuksista tai oikeushenkilöiden oikeuksista tai",
+      "clause_number": 7,
+      "section_number": "42",
+      "statute_id": "393/2003"
+    },
+    {
+      "id": "199e7459-d544-49b3-b785-b9bb112a2b4a",
+      "node_type": "Clause",
+      "publisher": "finlex",
+      "title": "§ 42 mom 8",
+      "text": "8) harjoittaa suoramarkkinointia 7 luvussa säädetyn vastaisesti,",
+      "clause_number": 8,
+      "section_number": "42",
+      "statute_id": "393/2003"
+    },
+    {
+      "id": "8f6b1356-e0b0-4ad6-8230-c95d1c694d87",
+      "node_type": "Clause",
+      "publisher": "finlex",
+      "title": "§ 44 mom 1",
+      "text": "1) yksityisyyden suojasta televiestinnässä ja teletoiminnan tietoturvasta 22 päivänä huhtikuuta 1999 annettu laki (565/1999) siihen myöhemmin tehtyine muutoksineen; sekä",
+      "clause_number": 1,
+      "section_number": "44",
+      "statute_id": "393/2003"
+    },
+    {
+      "id": "d8b82dda-0ccc-44e9-9e27-7192c91bc302",
+      "node_type": "Clause",
+      "publisher": "finlex",
+      "title": "§ 44 mom 2",
+      "text": "2) Viestintäviraston maksuista 11 päivänä joulukuuta 2002 annetun liikenne- ja viestintäministeriön asetuksen (1126/2002) 3 §:n 6 kohta ja 18 §.",
+      "clause_number": 2,
+      "section_number": "44",
+      "statute_id": "393/2003"
+    }
+  ],
+  "cross_references": [],
+  "raw_html_path": "C:\\Users\\danit\\finance-hack\\aalto-hackaton-2026\\data\\raw\\finlex\\Laki (säädöskokoelma)\\Sähköisen viestinnän tietosuojalaki.html"
+}

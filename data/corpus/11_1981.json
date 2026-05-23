@@ -1,0 +1,542 @@
+{
+  "statute": {
+    "id": "9fe94f58-1c58-4359-8c7d-e363056db7e5",
+    "node_type": "Statute",
+    "publisher": "finlex",
+    "title": "Väylämaksulaki",
+    "text": "Väylämaksulaki",
+    "statute_id": "11/1981",
+    "finlex_url": "https://finlex.fi/fi/laki/ajantasa/11/1981"
+  },
+  "chapters": [
+    {
+      "id": "ca80e15a-f206-442f-b3b3-ef34d6f306cb",
+      "node_type": "Chapter",
+      "publisher": "finlex",
+      "title": "Chapter 1",
+      "text": "1 luku Yleiset säännökset",
+      "chapter_number": 1,
+      "statute_id": "11/1981"
+    },
+    {
+      "id": "8279e9b4-e39b-411a-ab47-e4586909dfb2",
+      "node_type": "Chapter",
+      "publisher": "finlex",
+      "title": "Chapter 2",
+      "text": "2 luku Väylämaksun perusteet",
+      "chapter_number": 2,
+      "statute_id": "11/1981"
+    },
+    {
+      "id": "ef1fbcca-640b-4b08-803a-9bc80dddf906",
+      "node_type": "Chapter",
+      "publisher": "finlex",
+      "title": "Chapter 3",
+      "text": "3 luku Maksuvapautus ja alennettu väylämaksu",
+      "chapter_number": 3,
+      "statute_id": "11/1981"
+    },
+    {
+      "id": "650ad8db-740e-4263-9f43-1ff9ded267e6",
+      "node_type": "Chapter",
+      "publisher": "finlex",
+      "title": "Chapter 4",
+      "text": "4 luku Väylämaksun ilmoitusvelvollisuus, määrääminen ja kantaminen",
+      "chapter_number": 4,
+      "statute_id": "11/1981"
+    },
+    {
+      "id": "ccd3d113-4bdf-41d5-9982-50e4045f6fd6",
+      "node_type": "Chapter",
+      "publisher": "finlex",
+      "title": "Chapter 5",
+      "text": "5 luku Maksunoikaisu maksunsaajan hyväksi ja jälkimaksatus",
+      "chapter_number": 5,
+      "statute_id": "11/1981"
+    },
+    {
+      "id": "7f111ad5-0352-4201-b0bb-4ec74730a3ef",
+      "node_type": "Chapter",
+      "publisher": "finlex",
+      "title": "Chapter 6",
+      "text": "6 luku Oikeussuojakeinot",
+      "chapter_number": 6,
+      "statute_id": "11/1981"
+    },
+    {
+      "id": "74f0cf17-1140-493f-a59b-fa38bc07e290",
+      "node_type": "Chapter",
+      "publisher": "finlex",
+      "title": "Chapter 7",
+      "text": "7 luku Erinäiset säännökset",
+      "chapter_number": 7,
+      "statute_id": "11/1981"
+    }
+  ],
+  "sections": [
+    {
+      "id": "7a38049a-3629-4c58-b7dd-e934bc35f0d5",
+      "node_type": "Section",
+      "publisher": "finlex",
+      "title": "1 § Lain soveltamisala",
+      "text": "Suomen vesialueella kauppamerenkulkua harjoittavasta aluksesta suoritetaan valtiolle väylämaksua sen mukaan kuin tässä laissa säädetään. Tätä lakia ei sovelleta alukseen:",
+      "section_number": "1",
+      "chapter_number": 1,
+      "statute_id": "11/1981"
+    },
+    {
+      "id": "337c215a-996a-4877-a051-e999573da2be",
+      "node_type": "Section",
+      "publisher": "finlex",
+      "title": "2 § Määritelmät",
+      "text": "Tässä laissa tarkoitetaan:",
+      "section_number": "2",
+      "chapter_number": 1,
+      "statute_id": "11/1981"
+    },
+    {
+      "id": "d357f581-1282-432e-ac1b-4847171c09af",
+      "node_type": "Section",
+      "publisher": "finlex",
+      "title": "3 § Toimivaltaiset viranomaiset",
+      "text": "Tullilaitos vastaa väylämaksatuksen toimittamisesta ja valvonnasta. Tullihallitus määrää tullilaitoksen sisäisestä toimivallan ja tehtävien jaosta. Merenkulkulaitoksen on salassapitosäännösten estämättä annettava tulliviranomaiselle tämän lain soveltamisessa tarvittavia tietoja, selvityksiä, lausuntoja sekä muuta aineistoa. Merenkulkulaitoksen on tarvittaessa annettava tulliviranomaisille myös muuta virka-apua.",
+      "section_number": "3",
+      "chapter_number": 1,
+      "statute_id": "11/1981"
+    },
+    {
+      "id": "db2bd0d5-b090-473e-973c-b36b0f932b06",
+      "node_type": "Section",
+      "publisher": "finlex",
+      "title": "4 § Maksuvelvollinen",
+      "text": "Laivanisäntä ja tulliviranomaisen hyväksymä Suomessa asuva laivanisännän edustaja ovat yhteisvastuullisesti velvollisia maksamaan väylämaksun. Ulkomaille sijoittuneella laivanisännällä tulee olla tulliviranomaisen hyväksymä Suomessa asuva edustaja.",
+      "section_number": "4",
+      "chapter_number": 1,
+      "statute_id": "11/1981"
+    },
+    {
+      "id": "1a6da5a4-5351-409f-aed1-8477e3c4fdd9",
+      "node_type": "Section",
+      "publisher": "finlex",
+      "title": "5 § Väylämaksu",
+      "text": "Väylämaksu suoritetaan, kun alus saapuu ulkomailta Suomeen tai suomalaisesta satamasta suomalaiseen satamaan. Jos alus saman matkan aikana purkaa ulkomailta tuomansa lastin tai jättää ulkomailta tuomansa matkustajat useampaan kuin yhteen suomalaiseen satamaan taikka ottaa ulkomaille vietävää lastia tai matkustajia useammasta kuin yhdestä suomalaisesta satamasta, suoritetaan väylämaksu vain kerran. Jos alus saman matkan aikana poikkeaa Suomessa tapahtuvien lastausten välillä täydentämään lastia lastaus- tai ahtausteknisistä syistä ulkomaan satamassa, suoritetaan väylämaksu vain kerran. Väylämaksua ei suoriteta aluksesta, joka pakottavista syistä ainoastaan saadakseen määräyksiä jatkettavaa matkaa varten, aluksen kuntoonpanoa tai sen tarpeellisuuden tutkimista varten taikka polttoaineen ottamista varten poikkeaa Suomen satamaan jättämättä tai ottamatta lastia tai matkustajia.",
+      "section_number": "5",
+      "chapter_number": 2,
+      "statute_id": "11/1981"
+    },
+    {
+      "id": "2c3354b6-a069-4c7d-b492-fc9a81d1b473",
+      "node_type": "Section",
+      "publisher": "finlex",
+      "title": "6 § Väylämaksun yksikköhinta",
+      "text": "Väylämaksun yksikköhinta lastialuksesta ja matkustaja-aluksesta määräytyy aluksen jääluokan mukaan seuraavasti: Risteilyaluksen yksikköhinta on 1,060 euroa, suurnopeusaluksen yksikköhinta on 6,404 euroa ja sellaisen aluksen, jolla ei ole omaa kuljetuskoneistoa, yksikköhinta on 3,559 euroa.",
+      "section_number": "6",
+      "chapter_number": 2,
+      "statute_id": "11/1981"
+    },
+    {
+      "id": "6cbfba5a-0d3e-4586-965a-2f19eaac678a",
+      "node_type": "Section",
+      "publisher": "finlex",
+      "title": "7 § Väylämaksun määrä",
+      "text": "Lastialuksesta ja matkustaja-aluksesta suoritettava väylämaksu saadaan kertomalla aluksen nettovetoisuus ja 6 §:n 1 momentissa säädetty väylämaksun yksikköhinta keskenään. Jos lastialuksen nettovetoisuus on suurempi kuin 25 000, ylittävä osuus nettovetoisuudesta kerrotaan kuitenkin luvulla, joka on puolet 6 §:n 1 momentissa säädetystä yksikköhinnasta. Risteilyaluksesta ja suurnopeusaluksesta suoritettava väylämaksu saadaan kertomalla aluksen nettovetoisuus ja 6 §:n 2 momentissa säädetty yksikköhinta keskenään.",
+      "section_number": "7",
+      "chapter_number": 2,
+      "statute_id": "11/1981"
+    },
+    {
+      "id": "86be3091-fa32-42b5-99eb-eeba9fd83ce6",
+      "node_type": "Section",
+      "publisher": "finlex",
+      "title": "8 § Väylämaksun enimmäismäärä aluskäynniltä",
+      "text": "Väylämaksu on enintään 109 000 euroa. Matkustaja-aluksen väylämaksu on kuitenkin enintään 34 000 euroa ja risteilyaluksen väylämaksu on enintään 45 000 euroa.",
+      "section_number": "8",
+      "chapter_number": 2,
+      "statute_id": "11/1981"
+    },
+    {
+      "id": "ef54f3f7-4236-4ebc-808a-573e8b1ab670",
+      "node_type": "Section",
+      "publisher": "finlex",
+      "title": "9 § Aluksen nettovetoisuuden vahvistaminen",
+      "text": "Jos alukselta puuttuu mittakirja, mittakirjassa ilmoitettu vetoisuus ei vastaa aluksen todellista vetoisuutta tai alus ei ole oikeutettu voimassa olevien aluksenmittaussääntöjen mukaan käyttämään mittakirjassa ilmoitettua nettovetoisuutta, Merenkulkulaitos vahvistaa väylämaksun laskemisessa käytettävän aluksen nettovetoisuuden voimassa olevien aluksenmittaussääntöjen mukaisesti.",
+      "section_number": "9",
+      "chapter_number": 2,
+      "statute_id": "11/1981"
+    },
+    {
+      "id": "3ed7cf27-6e36-4a83-8381-929106cc5824",
+      "node_type": "Section",
+      "publisher": "finlex",
+      "title": "10 § Väylämaksujen vuotuinen enimmäismäärä ja lisämaksu",
+      "text": "Kun matkustaja-aluksesta tai suurnopeusaluksesta on suoritettu 30 väylämaksua ja lastialuksesta 10 väylämaksua, alus on vapautettu saman kalenterivuoden aikana enemmistä väylämaksuista. Jos väylämaksun suuruuteen vaikuttavat seikat muuttuvat kalenterivuoden aikana siten, että 7 §:n mukainen väylämaksu nousee, aluksesta on suoritettava lisää väylämaksua. Väylämaksua on tällöin suoritettava kalenterivuodelta määrä, joka vastaa matkustaja-aluksesta ja suurnopeusaluksesta kalenterivuodelta määräytyvää 30:tä suurinta ja lastialuksesta 10:tä suurinta väylämaksua.",
+      "section_number": "10",
+      "chapter_number": 3,
+      "statute_id": "11/1981"
+    },
+    {
+      "id": "b1fa39d3-c100-434a-bb32-a4b8d71643b2",
+      "node_type": "Section",
+      "publisher": "finlex",
+      "title": "11 § Alennettu väylämaksu lastauskapasiteetinkäyttöasteen perusteella",
+      "text": "Lastialuksen väylämaksu suoritetaan 75 prosentilla alennettuna, jos aluksen lastauskapasiteetin käyttöaste on enintään 15 prosenttia, ja 50 prosentilla alennettuna, jos lastauskapasiteetin käyttöaste on yli 15 prosenttia mutta enintään 30 prosenttia. Lastauskapasiteetin käyttöaste lasketaan vertaamalla Suomeen tuodun ja Suomesta viedyn lastin yhteenlaskettua määrää metrisinä tonneina osoittavaa lukua lukuun, joka on 90 prosenttia aluksen kantavuudesta.",
+      "section_number": "11",
+      "chapter_number": 3,
+      "statute_id": "11/1981"
+    },
+    {
+      "id": "8274776d-dc9a-49b0-8a02-7bcd6ad964f2",
+      "node_type": "Section",
+      "publisher": "finlex",
+      "title": "12 § Alennettu väylämaksu muilla perusteilla",
+      "text": "Lastialuksen väylämaksu suoritetaan 50 prosentilla alennettuna, jos alus tuo Saimaan kanavalle suuntautuvan matkan yhteydessä samalla lastia ulkomailta Suomen rannikon satamaan tai jos alus vie Saimaan kanavalle suuntautuvan matkan yhteydessä samalla lastia ulkomaille Suomen rannikon satamasta. Lastialuksen väylämaksu suoritetaan 75 prosentilla alennettuna, jos alus tuo ulkomailta lastia, joka sen suureen kokoon liittyvästä pakottavasta syystä johtuen joudutaan kuljettamaan muilla aluksilla tulosatamasta edelleen toiseen suomalaiseen satamaan. Suomalaisesta satamasta viennin kauttakulkutavaraa hakevan lastialuksen väylämaksu suoritetaan 50 prosentilla alennettuna, jos aluksen koko lasti on kauttakulkulastia.",
+      "section_number": "12",
+      "chapter_number": 3,
+      "statute_id": "11/1981"
+    },
+    {
+      "id": "036ed99a-bbe1-4717-929c-55f429ab5698",
+      "node_type": "Section",
+      "publisher": "finlex",
+      "title": "13 § Väylämaksuilmoitus",
+      "text": "Maksuvelvollisen on annettava tulliviranomaiselle ilmoitus maksun määräämistä varten. Väylämaksuilmoituksen tulee sisältää tarvittavat tiedot maksun määräämistä varten. Kun alus saapuu ulkomailta Suomeen, väylämaksuilmoitus annetaan siihen tullitoimipaikkaan, jossa aluksen tuloselvitys tapahtuu. Kun alus on kotimaanliikenteessä, väylämaksuilmoitus annetaan siihen tullitoimipaikkaan, jonka toimialueella olevaan satamaan alus saapuu. Väylämaksuilmoitus voidaan antaa myös sähköisesti tai muussa automaattiseen tietojenkäsittelyyn soveltuvassa muodossa. Tullihallitus voi antaa tarkempia määräyksiä väylämaksuilmoituksen sisällöstä ja muodosta sekä ilmoitusmenettelystä.",
+      "section_number": "13",
+      "chapter_number": 4,
+      "statute_id": "11/1981"
+    },
+    {
+      "id": "badd4060-7972-46a4-8d79-e869bb2c8a4f",
+      "node_type": "Section",
+      "publisher": "finlex",
+      "title": "14 § Väylämaksun maksaminen",
+      "text": "Väylämaksun maksamiseen sovelletaan, jollei tässä laissa toisin säädetä, mitä tullin maksamisesta tullilaissa (1466/1994) säädetään.",
+      "section_number": "14",
+      "chapter_number": 4,
+      "statute_id": "11/1981"
+    },
+    {
+      "id": "499d5f1f-fd98-4bef-b4ca-9bb7f013844f",
+      "node_type": "Section",
+      "publisher": "finlex",
+      "title": "15 § Väylämaksun maksaminen etukäteen",
+      "text": "Edellä 10 §:n 1 momentissa tarkoitetut väylämaksut voidaan maksaa etukäteen yhdellä kertaa.",
+      "section_number": "15",
+      "chapter_number": 4,
+      "statute_id": "11/1981"
+    },
+    {
+      "id": "1e372cec-1942-4c26-b048-2eec80f48990",
+      "node_type": "Section",
+      "publisher": "finlex",
+      "title": "16 § Arviomaksatus",
+      "text": "Jos maksuvelvollinen ei ole antanut 13 §:ssä tarkoitettua maksuilmoitusta tai ilmoitus on puutteellinen, tulliviranomaisen on kehotettava maksuvelvollista määräajassa arviomaksatuksen uhalla antamaan väylämaksuilmoitus tai täydentämään puutteellista ilmoitusta. Jos maksuilmoitusta ei kehotuksesta huolimatta ole annettu tai väylämaksua ei voida periä täydennetynkään ilmoituksen perusteella, maksatus on toimitettava arvion mukaan. Maksupäätöksessä on tällöin mainittava arvion perusteet. Ennen arviomaksatusta maksuvelvolliselle on varattava tilaisuus tulla kuulluksi.",
+      "section_number": "16",
+      "chapter_number": 4,
+      "statute_id": "11/1981"
+    },
+    {
+      "id": "cb73a9b8-10e5-457a-9cb7-22dc450723c4",
+      "node_type": "Section",
+      "publisher": "finlex",
+      "title": "17 § Maksunkorotus",
+      "text": "Väylämaksua voidaan korottaa: Jos 1 momentin 2 kohdassa tarkoitettua menettelyä on sillä saavutettavissa ollut hyöty ja muut asiaan vaikuttavat seikat huomioon ottaen pidettävä törkeänä, väylämaksua on korotettava vähintään 50 prosentilla ja enintään 100 prosentilla.",
+      "section_number": "17",
+      "chapter_number": 4,
+      "statute_id": "11/1981"
+    },
+    {
+      "id": "edbf69e1-0f40-4d67-8f23-22662f46cfef",
+      "node_type": "Section",
+      "publisher": "finlex",
+      "title": "18 § Virhemaksu",
+      "text": "Jos 17 §:n 1 momentissa tarkoitetussa tilanteessa väylämaksua ei määrätä maksettavaksi, tai jos väylämaksun määrä on vähäinen eikä maksunkorotusta ole määrätty, virhemaksuna voidaan kantaa vähintään 10 ja enintään 2 500 euroa. Virhemaksun suuruutta määrättäessä otetaan huomioon menettelyn moitittavuus, toistuvuus ja muut näihin rinnastettavat seikat.",
+      "section_number": "18",
+      "chapter_number": 4,
+      "statute_id": "11/1981"
+    },
+    {
+      "id": "9d0fd3ab-668c-4d7e-a047-253ff56f3bf3",
+      "node_type": "Section",
+      "publisher": "finlex",
+      "title": "19 § Oikaisu maksunsaajan hyväksi",
+      "text": "Jos väylämaksu on laskuvirheen tai siihen verrattavan erehdyksen vuoksi tai sen vuoksi, ettei tulliviranomainen ole tutkinut asiaa joltakin osin, jäänyt kokonaan tai osaksi määräämättä tai sitä on palautettu liikaa maksuvelvollisen sitä aiheuttamatta, tulliviranomaisen on oikaistava antamaansa päätöstä, jollei asia muutoin ole vireillä tai valitukseen annetulla päätöksellä ratkaistu. Oikaisu on tehtävä vuoden kuluessa sitä seuraavan kalenterivuoden alusta, jona väylämaksu tai sen palautus määrättiin tai olisi maksuvelvollisen ilmoituksen perusteella pitänyt määrätä.",
+      "section_number": "19",
+      "chapter_number": 5,
+      "statute_id": "11/1981"
+    },
+    {
+      "id": "2b250bd5-ab7a-4fc4-ae7f-1eae7933d1a9",
+      "node_type": "Section",
+      "publisher": "finlex",
+      "title": "20 § Jälkimaksatus",
+      "text": "Jos väylämaksu on jäänyt kokonaan tai osaksi määräämättä sen vuoksi, että maksuvelvollinen on kokonaan tai osittain laiminlyönyt ilmoitusvelvollisuutensa tai antanut maksun määräämistä varten puutteellisen, erehdyttävän tai väärän ilmoituksen tai muun tiedon tai asiakirjan, taikka jos väylämaksua on sanotusta syystä palautettu liikaa, tulliviranomaisen on määrättävä määräämättä jäänyt väylämaksu maksuvelvollisen suoritettavaksi. Jälkimaksatus on toimitettava kolmen vuoden kuluessa sitä seuraavan kalenterivuoden alusta, jonka aikana väylämaksu tai sen palautus määrättiin tai olisi pitänyt määrätä. Jos tulliviranomaisen hyväksymä Suomessa asuva laivanisännän edustaja ei tiennyt eikä hänen olisi pitänytkään tietää, että maksun määräämistä varten annettu ilmoitus, asiakirja tai muu tieto on puutteellinen, erehdyttävä tai väärä, jälkimaksatus tällaisen laivanisännän edustajan osalta on toimitettava kahdeksantoista kuukauden kuluessa saatavan syntymisestä.",
+      "section_number": "20",
+      "chapter_number": 5,
+      "statute_id": "11/1981"
+    },
+    {
+      "id": "b3302a80-367c-4840-b65a-5f538a15fbd3",
+      "node_type": "Section",
+      "publisher": "finlex",
+      "title": "21 § Maksuvelvollisen kuuleminen",
+      "text": "Ennen oikaisua maksunsaajan hyväksi ja ennen väylämaksun perintää jälkikäteen maksuvelvolliselle on varattava tilaisuus tulla kuulluksi.",
+      "section_number": "21",
+      "chapter_number": 5,
+      "statute_id": "11/1981"
+    },
+    {
+      "id": "c0297ee2-4dc7-4389-9329-7e9daa90e5fb",
+      "node_type": "Section",
+      "publisher": "finlex",
+      "title": "22 § Ennakkoratkaisu",
+      "text": "Tullihallitus voi antaa hakemuksesta ennakkoratkaisun väylämaksua koskevien säännösten soveltamisesta, jos asia on hakijalle erityisen tärkeä. Ennakkoratkaisua ei kuitenkaan anneta siitä, mikä on aluksen jääluokka tai nettovetoisuus eikä väylämaksun määrästä. Hakemuksessa on ilmoitettava yksilöitynä kysymys, johon ennakkoratkaisua haetaan, ja esitettävä asian ratkaisemiseksi tarvittava selvitys. Ennakkoratkaisu annetaan määräajaksi. Lainvoiman saanutta ennakkoratkaisua on hakijan vaatimuksesta sitovana noudatettava siten kuin ennakkoratkaisussa määrätään. Ennakkoratkaisua koskeva asia on käsiteltävä kiireellisenä.",
+      "section_number": "22",
+      "chapter_number": 6,
+      "statute_id": "11/1981"
+    },
+    {
+      "id": "25d3118b-528c-471e-a9b2-2158d51bb154",
+      "node_type": "Section",
+      "publisher": "finlex",
+      "title": "23 § Maksun huojentaminen ja maksunlykkäys",
+      "text": "Jos väylämaksun periminen täysimääräisenä olisi olosuhteet huomioon ottaen ilmeisen kohtuutonta, Tullihallitus voi hakemuksesta alentaa suoritettua tai suoritettavaa väylämaksua, maksunlisäystä, viivekorkoa tai lykkäyksen vuoksi suoritettavaa korkoa tai poistaa sen kokonaan. Jos väylämaksun periminen täysimääräisenä olisi olosuhteet huomioon ottaen ilmeisen kohtuutonta, Tullihallitus voi hakemuksesta myöntää väylämaksun suorittamiseen lykkäystä. Lykkäys myönnetään ehdolla, että lykätyn määrän suorittamisesta annetaan lykättyä määrää vastaava vakuus. Lykkäys voidaan kuitenkin myöntää vakuutta vaatimatta maksettavan määrän vähäisyyden tai lykkäysajan lyhyyden vuoksi. Väylämaksulle, jonka maksamiselle on myönnetty lykkäystä, peritään lykkäysajalta korkoa, joka on määrältään kutakin kalenterivuotta edeltävän puolivuotiskauden korkolain (633/1982) 12 §:ssä tarkoitettu viitekorko lisättynä seitsemällä prosenttiyksiköllä, yhteensä kuitenkin vähintään 3 euroa. Erityisen painavista kohtuussyistä lykkäys voidaan kuitenkin myöntää ilman korkoa.",
+      "section_number": "23",
+      "chapter_number": 6,
+      "statute_id": "11/1981"
+    },
+    {
+      "id": "d738cea8-083e-4f52-9eb5-1008a544cc7c",
+      "node_type": "Section",
+      "publisher": "finlex",
+      "title": "24 § Oikaisu maksuvelvollisen hyväksi",
+      "text": "Jos tulliviranomainen oikaisuvaatimuksesta, valituksen johdosta tai muutoin toteaa, että väylämaksua on määrätty liikaa tai palautettu liian vähän, sen on oikaistava antamaansa päätöstä, jollei asiaa ole valitukseen annetulla päätöksellä ratkaistu. Oikaisu voidaan tehdä kolmen vuoden kuluessa väylämaksun tai sen palautuksen määräämistä seuraavan kalenterivuoden alusta tai mainitun ajan kuluessa tehdyn kirjallisen vaatimuksen perusteella myöhemminkin.",
+      "section_number": "24",
+      "chapter_number": 6,
+      "statute_id": "11/1981"
+    },
+    {
+      "id": "2e7b0cad-c580-4727-a2d1-35901bb27b24",
+      "node_type": "Section",
+      "publisher": "finlex",
+      "title": "25 § Muutoksenhaku",
+      "text": "Väylämaksua tai sen palautusta koskevaan tai muuhun tämän lain nojalla annettuun tulliviranomaisen päätökseen haetaan muutosta valittamalla Helsingin hallinto-oikeuteen. Päätökseen, jolla on päätetty olla antamatta ennakkoratkaisua, ei kuitenkaan saa hakea muutosta valittamalla. Valtion puolesta valitusoikeus tullipiirin päätöksestä on tullipiirissä olevalla tulliasiamiehellä ja Tullihallituksen päätöksestä Tullihallituksessa olevalla tulliasiamiehellä. Muutosta on haettava kirjallisesti ja valituskirjelmä on toimitettava valitusajassa viranomaiselle, jonka päätöksestä valitetaan. Valitusaika on kolme vuotta väylämaksun määräämistä tai sen palauttamista seuraavan kalenterivuoden alusta, kuitenkin aina vähintään 60 päivää päätöksen tiedoksisaannista. Muusta kuin väylämaksun määräämistä koskevasta päätöksestä valitettaessa valitusaika on 30 päivää päätöksen tiedoksisaannista. Tulliasiamiehen valitusaika on 30 päivää päätöksen tekemisestä. Merenkulkulaitoksen 9 §:n nojalla antamaan päätökseen haetaan muutosta siten kuin hallintolainkäyttölaissa (586/1996) säädetään.",
+      "section_number": "25",
+      "chapter_number": 6,
+      "statute_id": "11/1981"
+    },
+    {
+      "id": "e4b8dfbd-ad9d-40bc-bd27-bc6f9f038e84",
+      "node_type": "Section",
+      "publisher": "finlex",
+      "title": "26 § Muutoksenhaku korkeimpaan hallinto-oikeuteen",
+      "text": "Hallinto-oikeuden päätökseen saa hakea muutosta valittamalla korkeimpaan hallinto-oikeuteen, jos korkein hallinto-oikeus myöntää valitusluvan. Valitusluvan myöntämisen perusteet ovat: Valitus on tehtävä 60 päivän kuluessa hallinto-oikeuden päätöksen tiedoksisaannista. Valituskirjelmä on toimitettava valitusajassa korkeimmalla hallinto-oikeudelle tai Helsingin hallinto-oikeudelle. Valtion puolesta valitusoikeus on Tullihallituksessa olevalla tulliasiamiehellä. Jos tässä laissa ei toisin säädetä, muutoksenhausta on muutoin voimassa, mitä hallintolainkäyttölaissa säädetään.",
+      "section_number": "26",
+      "chapter_number": 6,
+      "statute_id": "11/1981"
+    },
+    {
+      "id": "f8efd005-8752-4c27-96c3-92e7dcfb9ac7",
+      "node_type": "Section",
+      "publisher": "finlex",
+      "title": "27 § Väylämaksun suorittaminen muutoksenhausta riippumatta",
+      "text": "Väylämaksu on valituksesta huolimatta maksettava säädetyssä ajassa.",
+      "section_number": "27",
+      "chapter_number": 6,
+      "statute_id": "11/1981"
+    },
+    {
+      "id": "ee289bc5-dbb5-4101-899c-7f686f3239d8",
+      "node_type": "Section",
+      "publisher": "finlex",
+      "title": "28 § Palautettavalle määrälle suoritettava korko",
+      "text": "Jos väylämaksua palautetaan maksunoikaisun tai valituksen johdosta, palautusmäärälle suoritetaan korko. Korko lasketaan vuotuisena korkona, joka on kutakin kalenterivuotta edeltävän puolivuotiskauden korkolain 12 §:ssä tarkoitettu viitekorko vähennettynä kahdella prosenttiyksiköllä. Korko lasketaan maksupäivästä. Korkoa ei makseta 17 euroa pienemmälle palautettavalle määrälle. Palautukselle maksettu korko ei ole tuloverotuksessa veronalaista tuloa.",
+      "section_number": "28",
+      "chapter_number": 6,
+      "statute_id": "11/1981"
+    },
+    {
+      "id": "3489f61a-91eb-4670-80a8-3a8a5b84f429",
+      "node_type": "Section",
+      "publisher": "finlex",
+      "title": "29 § Muut väylämaksun kantamisessa sovellettavat säännökset",
+      "text": "Väylämaksun maksamisen viivästysseuraamuksiin sovelletaan, jollei tässä laissa toisin säädetä, mitä veronlisäyksestä ja viivekorosta annetussa laissa (1556/1995) säädetään. Väylämaksun kannossa, perimisessä ja palauttamisessa noudatetaan soveltuvin osin, mitä veronkantolaissa (609/2005) tai sen nojalla säädetään. Väylämaksun perimiseen ulosottotoimin ja perimisen turvaamiseen sovelletaan, jollei tässä laissa toisin säädetä, mitä verojen ja maksujen perimisestä ulosottotoimin annetussa laissa (367/1961) säädetään sekä mitä verojen ja maksujen perimisen turvaamisesta annetussa laissa (395/1973) säädetään.",
+      "section_number": "29",
+      "chapter_number": 7,
+      "statute_id": "11/1981"
+    },
+    {
+      "id": "70ee7590-83e8-46d1-bdf0-943d1e88809f",
+      "node_type": "Section",
+      "publisher": "finlex",
+      "title": "30 § Pienin perittävä määrä",
+      "text": "Pienin perittävä väylämaksun määrä on 10 euroa.",
+      "section_number": "30",
+      "chapter_number": 7,
+      "statute_id": "11/1981"
+    },
+    {
+      "id": "13b66734-d964-450f-94d1-4fc85689619e",
+      "node_type": "Section",
+      "publisher": "finlex",
+      "title": "31 § Tietojenantovelvollisuus",
+      "text": "Maksuvelvollisen on pyydettäessä annettava tulliviranomaiselle väylämaksun kantamista, valvontaa ja tarkastamista varten tarpeellisia tietoja ja asiakirjoja.",
+      "section_number": "31",
+      "chapter_number": 7,
+      "statute_id": "11/1981"
+    },
+    {
+      "id": "86cf063e-574d-47a4-88f1-68e7829704e9",
+      "node_type": "Section",
+      "publisher": "finlex",
+      "title": "32 § Maksunkierto",
+      "text": "Jos jollekin olosuhteelle tai toimenpiteelle on annettu sellainen oikeudellinen muoto, joka ei vastaa asian varsinaista luonnetta tai tarkoitusta, on väylämaksatusta toimitettaessa meneteltävä niin kuin asiassa olisi käytetty oikeaa muotoa.",
+      "section_number": "32",
+      "chapter_number": 7,
+      "statute_id": "11/1981"
+    },
+    {
+      "id": "424e29b3-7cce-43de-9c2a-b264ecef77c4",
+      "node_type": "Section",
+      "publisher": "finlex",
+      "title": "33 § Sähköinen tiedoksianto",
+      "text": "Tulliviranomaisen päätös voidaan antaa tiedoksi myös sähköisesti käyttämällä maksuvelvollisen ilmoittamaa sähköistä asiointia koskevaa yhteystietoa. Päätöksen katsotaan tuolloin tulleen maksuvelvollisen tietoon sähköisen viestin lähettämispäivänä, jollei muuta näytetä.",
+      "section_number": "33",
+      "chapter_number": 7,
+      "statute_id": "11/1981"
+    },
+    {
+      "id": "35b906ed-5e58-4e30-9dd6-fab5461cb47f",
+      "node_type": "Section",
+      "publisher": "finlex",
+      "title": "34 § Rangaistussäännös",
+      "text": "Rangaistus veropetoksesta, törkeästä veropetoksesta ja lievästä veropetoksesta säädetään rikoslain (39/1889) 29 luvun 1―3 §:ssä.",
+      "section_number": "34",
+      "chapter_number": 7,
+      "statute_id": "11/1981"
+    },
+    {
+      "id": "2c945f03-c63c-4183-8425-d57898801f12",
+      "node_type": "Section",
+      "publisher": "finlex",
+      "title": "35 § Voimaantulo",
+      "text": "Tämä laki tulee voimaan 1 päivänä tammikuuta 2006. Tällä lailla kumotaan 16 päivänä elokuuta 2002 annettu väylämaksulaki (708/2002) ja väylämaksusta 22 päivänä elokuuta 2002 annettu valtioneuvoston asetus (719/2002). Ennen lain voimaantuloa voidaan ryhtyä lain täytäntöönpanon edellyttämiin toimenpiteisiin.",
+      "section_number": "35",
+      "chapter_number": 7,
+      "statute_id": "11/1981"
+    },
+    {
+      "id": "7f0b45b1-4371-4d5f-a4bd-8859ecc87637",
+      "node_type": "Section",
+      "publisher": "finlex",
+      "title": "36 § Siirtymäsäännökset",
+      "text": "Väylämaksuun, jonka peruste on syntynyt ennen tämän lain voimaantuloa, sovelletaan tämän lain voimaan tullessa voimassa olleita säännöksiä. Kumotun väylämaksulain 12 §:n 3 momentin nojalla annetut Merenkulkulaitoksen määräykset ja Merenkulkulaitoksen vahvistama luettelo jäävät edelleen voimaan, kunnes niistä määrätään toisin alusten jääluokista ja jäänmurtaja-avustuksesta annetun lain nojalla.",
+      "section_number": "36",
+      "chapter_number": 7,
+      "statute_id": "11/1981"
+    }
+  ],
+  "clauses": [
+    {
+      "id": "18359286-faec-4c4f-81bd-5eccbde52ea7",
+      "node_type": "Clause",
+      "publisher": "finlex",
+      "title": "§ 1 mom 1",
+      "text": "1) jota käytetään yksinomaan sisävesiliikenteessä;",
+      "clause_number": 1,
+      "section_number": "1",
+      "statute_id": "11/1981"
+    },
+    {
+      "id": "7469c668-7e72-4105-a732-486a2f9ab7e2",
+      "node_type": "Clause",
+      "publisher": "finlex",
+      "title": "§ 1 mom 2",
+      "text": "2) joka matkalla ulkomaisesta satamasta toiseen kulkee Suomen aluevesien kautta poikkeamatta Suomessa satamaan;",
+      "clause_number": 2,
+      "section_number": "1",
+      "statute_id": "11/1981"
+    },
+    {
+      "id": "31340fab-363a-4345-9617-9fddc9541666",
+      "node_type": "Clause",
+      "publisher": "finlex",
+      "title": "§ 1 mom 3",
+      "text": "3) joka saapuu Suomeen ja lähtee Suomesta Saimaan kanavan kautta poikkeamatta Suomen rannikon satamaan;",
+      "clause_number": 3,
+      "section_number": "1",
+      "statute_id": "11/1981"
+    },
+    {
+      "id": "45f10d73-aa23-4a64-88f3-581a9e494a21",
+      "node_type": "Clause",
+      "publisher": "finlex",
+      "title": "§ 1 mom 4",
+      "text": "4) jonka nettovetoisuus on alle 300 ja joka on 2 §:n 3 kohdassa määritelty risteilyalus tai 2 §:n 4 kohdassa määritelty lastialus; tai",
+      "clause_number": 4,
+      "section_number": "1",
+      "statute_id": "11/1981"
+    },
+    {
+      "id": "b3557aa3-bd95-4f39-bebb-592a584ecb5a",
+      "node_type": "Clause",
+      "publisher": "finlex",
+      "title": "§ 1 mom 5",
+      "text": "5) jonka nettovetoisuus on alle 600 ja joka on 2 §:n 1 kohdassa määritelty matkustaja-alus.",
+      "clause_number": 5,
+      "section_number": "1",
+      "statute_id": "11/1981"
+    },
+    {
+      "id": "c5d9822b-f8cf-45f1-9243-bfab048c6e7d",
+      "node_type": "Clause",
+      "publisher": "finlex",
+      "title": "§ 17 mom 1",
+      "text": "1) enintään 30 prosentilla, jos maksuvelvollinen on antanut väylämaksun määräämistä varten tarvittavat tiedot puutteellisina tai virheellisinä taikka kokonaan tai osittain laiminlyönyt ilmoitusvelvollisuutensa; taikka",
+      "clause_number": 1,
+      "section_number": "17",
+      "statute_id": "11/1981"
+    },
+    {
+      "id": "4fee95bc-f48d-4f65-9186-abc253117044",
+      "node_type": "Clause",
+      "publisher": "finlex",
+      "title": "§ 17 mom 2",
+      "text": "2) enintään 50 prosentilla, jos maksuvelvollinen on tahallaan tai törkeästä huolimattomuudesta antanut väylämaksun määräämistä varten puutteellisen, erehdyttävän tai väärän ilmoituksen tai muun tiedon tai asiakirjan, jättänyt antamatta tietoja väylämaksun määräämistä varten taikka muutoin laiminlyönyt tiedonantovelvollisuutensa ja menettely on ollut omiaan aiheuttamaan sen, että maksuvelvolliselle olisi jäänyt maksua määräämättä.",
+      "clause_number": 2,
+      "section_number": "17",
+      "statute_id": "11/1981"
+    },
+    {
+      "id": "6da40ab7-eb60-48e3-a328-bf3d29ad4a16",
+      "node_type": "Clause",
+      "publisher": "finlex",
+      "title": "§ 26 mom 1",
+      "text": "1) lain soveltamisen kannalta muissa samanlaisissa tapauksissa tai oikeuskäytännön yhtenäisyyden vuoksi on tärkeää saattaa asia korkeimman hallinto-oikeuden ratkaistavaksi;",
+      "clause_number": 1,
+      "section_number": "26",
+      "statute_id": "11/1981"
+    },
+    {
+      "id": "45acdc10-0c6c-4965-9654-ac365bb19b2b",
+      "node_type": "Clause",
+      "publisher": "finlex",
+      "title": "§ 26 mom 2",
+      "text": "2) asian saattamiseen korkeimman hallinto-oikeuden ratkaistavaksi on erityistä aihetta asiassa tapahtuneen ilmeisen virheen vuoksi; tai",
+      "clause_number": 2,
+      "section_number": "26",
+      "statute_id": "11/1981"
+    },
+    {
+      "id": "e0dc36d0-e6dc-4bc1-b8c1-0298d8654c60",
+      "node_type": "Clause",
+      "publisher": "finlex",
+      "title": "§ 26 mom 3",
+      "text": "3) valitusluvan myöntämiseen on painava taloudellinen tai muu syy.",
+      "clause_number": 3,
+      "section_number": "26",
+      "statute_id": "11/1981"
+    }
+  ],
+  "cross_references": [],
+  "raw_html_path": "C:\\Users\\danit\\finance-hack\\aalto-hackaton-2026\\data\\raw\\finlex\\Laki (säädöskokoelma)\\Väylämaksulaki_2.html"
+}

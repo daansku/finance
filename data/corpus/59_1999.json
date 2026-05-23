@@ -1,0 +1,938 @@
+{
+  "statute": {
+    "id": "f23bf0f3-6e52-419d-a163-a60e3f5aa967",
+    "node_type": "Statute",
+    "publisher": "finlex",
+    "title": "Valtioneuvoston asetus vaarallisten kemikaalien teollisesta käsittelystä ja varastoinnista annetun asetuksen muuttamisesta",
+    "text": "Valtioneuvoston asetus vaarallisten kemikaalien teollisesta käsittelystä ja varastoinnista annetun asetuksen muuttamisesta",
+    "statute_id": "59/1999",
+    "finlex_url": "https://finlex.fi/fi/laki/ajantasa/59/1999"
+  },
+  "chapters": [],
+  "sections": [
+    {
+      "id": "aa2f10d0-1d0a-4064-9991-ee8a123a8258",
+      "node_type": "Section",
+      "publisher": "finlex",
+      "title": "1 § Soveltamisala",
+      "text": "Tässä asetuksessa säädetään vaarallisten kemikaalien ja räjähteiden käsittelyn turvallisuudesta annetussa laissa (390/2005), jäljempänä kemikaaliturvallisuuslaki, tarkoitetuista vaarallisten kemikaalien teollisesta käsittelystä ja varastoinnista sekä vaarallisten kemikaalien varastosäiliöiden ja putkistojen valmistuksesta.",
+      "section_number": "1",
+      "chapter_number": 1,
+      "statute_id": "59/1999"
+    },
+    {
+      "id": "3f39e1f0-8955-49da-8e64-77e2052ee64d",
+      "node_type": "Section",
+      "publisher": "finlex",
+      "title": "2 § Soveltaminen puolustusvoimissa",
+      "text": "Tämän asetuksen soveltamisesta puolustusvoimissa säädetään kemikaaliturvallisuuslain 3 §:ssä.",
+      "section_number": "2",
+      "chapter_number": 1,
+      "statute_id": "59/1999"
+    },
+    {
+      "id": "154fee2d-5424-4807-8b0f-8d63a14f4ccf",
+      "node_type": "Section",
+      "publisher": "finlex",
+      "title": "3 § Soveltamisalan rajauksia",
+      "text": "Tätä asetusta ei sovelleta räjähdeasetuksessa (473/1993) tarkoitettujen räjähteiden valmistukseen, käyttöön, luovuttamiseen, kauppaan, varastointiin, käsittelyyn satamassa, maahantuontiin eikä hävittämiseen. Asetusta sovelletaan kuitenkin vaarallisten kemikaalien teolliseen käsittelyyn ja varastointiin räjähteiden valmistuksen ja varastoinnin, lukuun ottamatta kaupan varastointia, yhteydessä siten, että valvonnan hoitaa turvatekniikan keskus. Emulsioräjähdysaineen raaka-aineen työmaalla tapahtuvaan tilapäiseen varastointiin sovelletaan vain räjähdeasetuksen tilapäisen varastoinnin valvontamenettelyjä. Tätä asetusta ei sovelleta tuotantolaitoksen alueen ulkopuolella tapahtuvaan, vaarallisten aineiden kuljetuksesta annetussa laissa (719/1994) tarkoitettuun kuljetukseen eikä kuljetustapahtumaan kiinteästi liittyvään tilapäiseen varastointiin.",
+      "section_number": "3",
+      "chapter_number": 1,
+      "statute_id": "59/1999"
+    },
+    {
+      "id": "53a75cfe-8fc8-43d6-bf46-00e0dc4ed574",
+      "node_type": "Section",
+      "publisher": "finlex",
+      "title": "4 § Määritelmiä",
+      "text": "Tässä asetuksessa noudatetaan kemikaaliturvallisuuslain mukaisia määritelmiä. Lisäksi tässä asetuksessa tarkoitetaan:",
+      "section_number": "4",
+      "chapter_number": 1,
+      "statute_id": "59/1999"
+    },
+    {
+      "id": "b0184113-41a6-4c90-84c3-87f5e9c1a7cd",
+      "node_type": "Section",
+      "publisher": "finlex",
+      "title": "8 § Laitteistojen suunnittelu, mitoitus ja rakentaminen",
+      "text": "Valmistus- ja käsittelylaitteistot, varastosäiliöt, putkistot ja niihin liittyvät laitteistot tulee suunnitella, mitoittaa, rakentaa ja sijoittaa siten sekä varustaa sellaisin suojaus- ja ohjausjärjestelmin sekä valvonta- ja varolaittein, että:",
+      "section_number": "8",
+      "chapter_number": 1,
+      "statute_id": "59/1999"
+    },
+    {
+      "id": "34bfdb01-7678-4229-8d79-90589fab7e51",
+      "node_type": "Section",
+      "publisher": "finlex",
+      "title": "12 § Laajamittainen teollinen käsittely ja varastointi",
+      "text": "Kemikaalien teollinen käsittely ja varastointi on laajamittaista, jos:",
+      "section_number": "12",
+      "chapter_number": 1,
+      "statute_id": "59/1999"
+    },
+    {
+      "id": "5fc8c3b8-31d3-41c6-a984-d005be532e12",
+      "node_type": "Section",
+      "publisher": "finlex",
+      "title": "13 § Vähäinen teollinen käsittely ja varastointi",
+      "text": "Vähäinen teollinen käsittely ja varastointi on ilmoituksenvaraista, jos:",
+      "section_number": "13",
+      "chapter_number": 1,
+      "statute_id": "59/1999"
+    },
+    {
+      "id": "1b8896f7-7ad1-438f-b460-94d52eb41a26",
+      "node_type": "Section",
+      "publisher": "finlex",
+      "title": "14 § Toimintaperiaateasiakirjan laatimisvelvoite",
+      "text": "Toiminnanharjoittajan tulee laatia asiakirja, jossa selostetaan toimintaperiaatteet suuronnettomuuksien ehkäisemiseksi (toimintaperiaateasiakirja), jos:",
+      "section_number": "14",
+      "chapter_number": 1,
+      "statute_id": "59/1999"
+    },
+    {
+      "id": "12831492-2fe3-440e-9e83-f74cbe4d9c7f",
+      "node_type": "Section",
+      "publisher": "finlex",
+      "title": "15 § Turvallisuusselvitysvelvoite",
+      "text": "Toiminnanharjoittajan tulee laatia turvallisuusselvitys, jos:",
+      "section_number": "15",
+      "chapter_number": 1,
+      "statute_id": "59/1999"
+    },
+    {
+      "id": "70737867-f9a5-40ee-86db-3966d2372e22",
+      "node_type": "Section",
+      "publisher": "finlex",
+      "title": "17 § Teollista käsittelyä ja varastointia koskeva lupahakemus",
+      "text": "Lupaa kemikaalien laajamittaiseen teolliseen käsittelyyn ja varastointiin haetaan kirjallisella hakemuksella turvatekniikan keskukselta. Lupaa on haettava ennen yksityiskohtaisten toteutusratkaisujen tekemistä hyvissä ajoin ennen tuotantolaitoksen rakennustöiden aloittamista. Hakemuksessa on selvitettävä yleistiedot toiminnanharjoittajasta ja harjoitettavasta toiminnasta, vaarojen ja riskien tunnistamista ja tuotantolaitoksen sijoittamista koskevat selvitykset sekä tuotantolaitoksen toteutusperiaatteet siten, kuin liitteen II kohdissa 1―13 on esitetty. Turvatekniikan keskus voi antamassaan lupapäätöksessä lisäksi edellyttää, että liitteen II kohdissa 14―19 tarkoitetut selvitykset toimitetaan sille ennen käyttöönottotarkastusta. Muussa tapauksessa ne esitetään käyttöönottotarkastuksessa. Hakemus liitteineen toimitetaan neljänä kappaleena. Muilta osin lupahakemuksen käsittelyssä noudatetaan hallintolakia (434/2003).",
+      "section_number": "17",
+      "chapter_number": 1,
+      "statute_id": "59/1999"
+    },
+    {
+      "id": "56ba43e8-1a17-489d-b26d-e4fb3496c428",
+      "node_type": "Section",
+      "publisher": "finlex",
+      "title": "18 § Lupahakemuksen käsittelyssä pyydettävät lausunnot",
+      "text": "Turvatekniikan keskuksen tulee 17 §:ssä tarkoitettua lupahakemusta käsitellessään pyytää lausunnot työsuojelupiiriltä, alueelliselta ympäristökeskukselta ja pelastusviranomaiselta.",
+      "section_number": "18",
+      "chapter_number": 1,
+      "statute_id": "59/1999"
+    },
+    {
+      "id": "df7dfb14-bdb6-4c0d-a2c2-7f85d4546c3d",
+      "node_type": "Section",
+      "publisher": "finlex",
+      "title": "19 § Lupapäätös",
+      "text": "Lupapäätöksessä on mainittava: Lupapäätökseen on liitettävä tarpeelliset selvitykset hyväksymismerkinnöillä varustettuna.",
+      "section_number": "19",
+      "chapter_number": 1,
+      "statute_id": "59/1999"
+    },
+    {
+      "id": "ddc7a908-afe4-47db-8adc-aff7e5527bcd",
+      "node_type": "Section",
+      "publisher": "finlex",
+      "title": "20 § Lupapäätöksestä tiedottaminen",
+      "text": "Turvatekniikan keskuksen on toimitettava tieto lupapäätöksestä työsuojelupiirille, alueelliselle ympäristökeskukselle, pelastusviranomaiselle sekä kunnan kemikaalivalvontaviranomaiselle ja rakennusvalvontaviranomaiselle.",
+      "section_number": "20",
+      "chapter_number": 1,
+      "statute_id": "59/1999"
+    },
+    {
+      "id": "9cb59f57-95ae-4e9b-938f-813a3f7a8a8e",
+      "node_type": "Section",
+      "publisher": "finlex",
+      "title": "21 § Toimintaperiaateasiakirja",
+      "text": "Toimintaperiaateasiakirjassa toiminnanharjoittajan tulee selostaa toimintaperiaatteensa suuronnettomuuksien ja muiden onnettomuuksien ehkäisemiseksi. Asiakirjan laatimisessa on noudatettava liitteessä III esitettyjä periaatteita ottaen huomioon tuotantolaitoksessa esiintyvä suuronnettomuus- ja muu onnettomuusvaara. Toimintaperiaateasiakirja tai yhteenveto asiakirjasta liitetään 17 §:ssä tarkoitettuun lupahakemukseen. Tarkastuksen yhteydessä toiminnanharjoittajan tulee esittää asiakirja ja osoittaa, miten siinä esitettyjen toimintaperiaatteiden noudattamisesta on huolehdittu. Kemikaaliturvallisuuslain 29 §:n tarkoittamana vastuuhenkilönä vaarallisia kemikaaleja laajamittaisesti käsittelevissä ja varastoivissa tuotantolaitoksissa toimii käytönvalvoja. Tuotantolaitoksessa voi olla useita käytönvalvojia. Toiminnanharjoittajalla tulee olla ajan tasalla oleva luettelo nimeämistään käytönvalvojista.",
+      "section_number": "21",
+      "chapter_number": 1,
+      "statute_id": "59/1999"
+    },
+    {
+      "id": "bf7b2283-6c45-4052-b7e0-8ba24fb5ed7c",
+      "node_type": "Section",
+      "publisher": "finlex",
+      "title": "22 § Turvallisuusselvitys",
+      "text": "Turvallisuusselvitys toimitetaan turvatekniikan keskukseen neljänä kappaleena.",
+      "section_number": "22",
+      "chapter_number": 1,
+      "statute_id": "59/1999"
+    },
+    {
+      "id": "ef45e751-d510-46b2-8c2a-be31de1ddceb",
+      "node_type": "Section",
+      "publisher": "finlex",
+      "title": "23 § Turvallisuusselvityksen käsittely",
+      "text": "Ennen 1 momentissa tarkoitettujen johtopäätösten ilmoittamista turvatekniikan keskuksen tulee varata työsuojelupiirille, alueelliselle ympäristökeskukselle ja pelastusviranomaiselle mahdollisuus esittää mielipiteensä turvallisuusselvityksestä.",
+      "section_number": "23",
+      "chapter_number": 1,
+      "statute_id": "59/1999"
+    },
+    {
+      "id": "a1f0bb66-0781-4afe-9c50-6b3d063c64d6",
+      "node_type": "Section",
+      "publisher": "finlex",
+      "title": "25 § Poikkeukset turvallisuusselvityksen sisällöstä",
+      "text": "Hakemus liitteineen toimitetaan turvatekniikan keskukseen neljänä kappaleena. Ennen poikkeuksen myöntämistä turvatekniikan keskuksen tulee varata työsuojelupiirille, alueelliselle ympäristökeskukselle ja pelastusviranomaiselle mahdollisuus esittää mielipiteensä hakemuksesta.",
+      "section_number": "25",
+      "chapter_number": 1,
+      "statute_id": "59/1999"
+    },
+    {
+      "id": "64de92f5-2e48-4ee8-b6a8-2f23f4210a1d",
+      "node_type": "Section",
+      "publisher": "finlex",
+      "title": "27 § Sisäinen pelastussuunnitelma",
+      "text": "Pelastussuunnitelma tulee laatia kuullen tuotantolaitoksessa työskentelevää henkilökuntaa, mukaan lukien alueella työskentelevät pitkäaikaiset alihankkijat, ja ottaen huomioon alueen pelastustoimen järjestelyt. Turvatekniikan keskuksen tulee ennen pelastussuunnitelmaa koskevien johtopäätösten ilmoittamista pyytää lausunto pelastusviranomaiselta. Johtopäätökset voidaan esittää 19 §:ssä tarkoitetussa lupapäätöksessä. Päivitetty suunnitelma tulee toimittaa pelastusviranomaiselle. Toiminnanharjoittajan on järjestettävä yhteistyössä pelastusviranomaisen kanssa harjoituksia pelastussuunnitelman toimivuuden varmistamiseksi. Harjoituksia on järjestettävä vähintään kolmen vuoden väliajoin.",
+      "section_number": "27",
+      "chapter_number": 1,
+      "statute_id": "59/1999"
+    },
+    {
+      "id": "8c8a50bb-fe0a-462a-96aa-72efd168caa7",
+      "node_type": "Section",
+      "publisher": "finlex",
+      "title": "28 § Ulkoinen pelastussuunnitelma",
+      "text": "Alueen pelastustoimen velvollisuudesta laatia ulkoinen pelastussuunnitelma säädetään erikseen. Turvatekniikan keskus toimittaa turvallisuusselvityksen yhteydessä toimitetut tiedot pelastussuunnitelman laatimista varten pelastusviranomaiselle oman lausuntonsa kanssa.",
+      "section_number": "28",
+      "chapter_number": 1,
+      "statute_id": "59/1999"
+    },
+    {
+      "id": "914c9b7d-d2f8-496f-ba38-30fd2eeb4242",
+      "node_type": "Section",
+      "publisher": "finlex",
+      "title": "29 § Toiminnanharjoittajan tiedottamisvelvollisuus",
+      "text": "Kemikaaliturvallisuuslain 32 §:ssä tarkoitetusta tiedotteesta on käytävä ilmi vähintään liitteessä VII kuvatut asiat. Tiedote on tarkistettava joka kolmas vuosi ja saatettava tarvittaessa ajan tasalle. Tiedotus on uusittava, jos tuotantolaitoksessa on tapahtunut muutoksia, joilla on merkittäviä vaikutuksia suuronnettomuusvaaraan. Muussa tapauksessa tiedotus on uusittava ainakin viiden vuoden väliajoin.",
+      "section_number": "29",
+      "chapter_number": 1,
+      "statute_id": "59/1999"
+    },
+    {
+      "id": "6faa25d1-df48-43f7-beac-23498caf8eba",
+      "node_type": "Section",
+      "publisher": "finlex",
+      "title": "30 § Onnettomuuden leviäminen",
+      "text": "Edellä 1 momentin mukaan määritellyillä alueilla sijaitsevien tuotantolaitosten tulee:",
+      "section_number": "30",
+      "chapter_number": 1,
+      "statute_id": "59/1999"
+    },
+    {
+      "id": "70f36d29-d849-4c4b-b0cc-7f176739ed4c",
+      "node_type": "Section",
+      "publisher": "finlex",
+      "title": "32 § Varastoaluevahvistamisen hakeminen",
+      "text": "Kemikaaliturvallisuuslain 33 §:n mukaiseksi varastoalueeksi vahvistamista koskevassa hakemuksessa on selvitettävä:",
+      "section_number": "32",
+      "chapter_number": 1,
+      "statute_id": "59/1999"
+    },
+    {
+      "id": "db32e769-25af-41ee-b408-96fbe8e045a1",
+      "node_type": "Section",
+      "publisher": "finlex",
+      "title": "33 § Hakemuksen käsittely",
+      "text": "Ennen kuin alue vahvistetaan varastoalueeksi, turvatekniikan keskuksen on pyydettävä asiasta työsuojelupiirin, alueellisen ympäristökeskuksen ja pelastusviranomaisen lausunto.",
+      "section_number": "33",
+      "chapter_number": 1,
+      "statute_id": "59/1999"
+    },
+    {
+      "id": "2b50b31a-b34f-4be3-86c3-fac13411152d",
+      "node_type": "Section",
+      "publisher": "finlex",
+      "title": "34 § Maan rajat ylittävät teollisuusonnettomuudet",
+      "text": "Turvatekniikan keskus voi edellyttää kemikaaliturvallisuuslain 129 §:ssä tarkoitetun maan rajan ylittävien teollisuusonnettomuuksien vaikutuksista tehdyn yleissopimuksen mukaisia lisäselvityksiä sopimuksen soveltamisalaan kuuluvista tuotantolaitoksista, joissa mahdollisesti tapahtuvilla suuronnettomuuksilla voi olla maan rajojen ylittäviä vaikutuksia.",
+      "section_number": "34",
+      "chapter_number": 1,
+      "statute_id": "59/1999"
+    },
+    {
+      "id": "90568074-11c6-4f71-91cc-e90f4902578a",
+      "node_type": "Section",
+      "publisher": "finlex",
+      "title": "36 § Tarkastusohjelma",
+      "text": "Turvatekniikan keskus tekee tarkastusohjelman yhteistyössä työsuojelupiirin, alueellisen ympäristökeskuksen ja pelastusviranomaisen kanssa.",
+      "section_number": "36",
+      "chapter_number": 1,
+      "statute_id": "59/1999"
+    },
+    {
+      "id": "d87e5c3a-0a6e-4344-a0a8-7be95f359442",
+      "node_type": "Section",
+      "publisher": "finlex",
+      "title": "38 § Tarkastuksen ajankohta",
+      "text": "Edellä 1 momentissa tarkoitettua tarkastusta varten toiminnanharjoittajan tulee ilmoittaa kirjallisesti turvatekniikan keskukselle tuotantolaitoksen tai sen osan käyttöönotosta viimeistään kuukausi ennen käyttöönottoa. Toiminnanharjoittajan on varattava tarkastukseen osallistuville viranomaisille mahdollisuus tarkastustilaisuudessa tutustua niihin liitteen II kohdassa 14―19 mainittuihin asiakirjoihin, joita se ei ole toimittanut lupahakemuksen mukana. Turvatekniikan keskuksen on ilmoitettava tarkastuksesta työsuojelupiirille, alueelliselle ympäristökeskukselle ja pelastusviranomaiselle.",
+      "section_number": "38",
+      "chapter_number": 1,
+      "statute_id": "59/1999"
+    },
+    {
+      "id": "60a06ea3-c299-4ecb-bfa1-8b51262656c3",
+      "node_type": "Section",
+      "publisher": "finlex",
+      "title": "39 § Tarkastuskertomus",
+      "text": "Tarkastuskertomus toimitetaan toiminnanharjoittajalle ja 38 §:ssä mainituille viranomaisille.",
+      "section_number": "39",
+      "chapter_number": 1,
+      "statute_id": "59/1999"
+    },
+    {
+      "id": "aca6bee9-0786-46dc-bbd7-f410eddc093a",
+      "node_type": "Section",
+      "publisher": "finlex",
+      "title": "40 § Ilmoitus vähäisestä toiminnasta",
+      "text": "Edellä 13 §:ssä tarkoitetusta kemikaalien vähäisestä teollisesta käsittelystä tai varastoinnista tehtävästä ilmoituksesta säädetään kemikaaliturvallisuuslain 24 §:ssä. Ilmoitukseen on liitettävä:",
+      "section_number": "40",
+      "chapter_number": 1,
+      "statute_id": "59/1999"
+    },
+    {
+      "id": "5fa8a095-c4d5-45f3-b64d-d189ad3b513f",
+      "node_type": "Section",
+      "publisher": "finlex",
+      "title": "41 § Ilmoituksen käsittely",
+      "text": "Pelastusviranomaisen tulee 40 §:ssä tarkoitettua ilmoitusta käsitellessään toimia riittävässä yhteistyössä kyseessä olevan kunnan asianomaisten viranomaisten kanssa. Pelastusviranomaisen, ja vastaavasti turvatekniikan keskuksen, on tehtävä 40 §:ssä tarkoitetusta ilmoituksesta päätös, jossa on mainittava: Lisäksi päätöksessä tulee olla maininta, jos pelastusviranomainen hyväksyy, että sen tarkastus voidaan korvata tarkastuslaitoksen tekemällä tarkastuksella. Päätökseen on liitettävä tarpeelliset selvitykset hyväksymismerkinnöillä varustettuina. Päätös tulee toimittaa tiedoksi kunnan kemikaalivalvontaviranomaiselle, ympäristönsuojeluviranomaiselle ja rakennusvalvontaviranomaiselle.",
+      "section_number": "41",
+      "chapter_number": 1,
+      "statute_id": "59/1999"
+    },
+    {
+      "id": "93da7c07-29e0-4a24-8178-da2f65d5d7dc",
+      "node_type": "Section",
+      "publisher": "finlex",
+      "title": "42 § Tarkastukset",
+      "text": "Pelastusviranomaisen, ja vastaavasti turvatekniikan keskuksen, tulee tarkastaa 40 §:ssä tarkoitettu vähäistä teollista käsittelyä tai varastointia harjoittava tuotantolaitos kolmen kuukauden kuluessa toiminnan aloittamisesta. Sama määräaika koskee tarkastuslaitosta, kun se tekee kyseisen tarkastuksen. Tarkastuksessa tulee erityisesti kiinnittää huomiota tuotantolaitoksen turvalliseen käyttöön, laitoksen rakenteiden, laitteistojen ja varusteiden huoltoon ja kunnossapitoon, henkilöstön koulutukseen ja opastukseen sekä onnettomuuksien ehkäisyyn ja pelastustoiminnan organisointiin. Edellä 1 ja 2 momentissa tarkoitetusta tarkastuksesta on laadittava pöytäkirja, josta käyvät ilmi tuotantolaitoksessa mahdollisesti havaitut puutteet sekä määräykset niiden korjaamiseksi. Jos tarkastuksen tekee tarkastuslaitos, toiminnanharjoittajan on lähetettävä pelastusviranomaiselle tarkastuksesta laadittu pöytäkirja sekä selvitys tarkastuksessa havaittujen puutteiden korjaamisesta. Toiminnanharjoittajan on annettava asetetussa määräajassa selvitys tarkastuksessa havaittujen puutteiden korjaamisesta. Tarkastuspöytäkirja tulee lähettää tiedoksi kunnan kemikaalivalvontaviranomaiselle, ympäristönsuojeluviranomaiselle ja rakennusvalvontaviranomaiselle.",
+      "section_number": "42",
+      "chapter_number": 1,
+      "statute_id": "59/1999"
+    },
+    {
+      "id": "df61535c-dc7d-49bc-b7ec-1d3a0da621df",
+      "node_type": "Section",
+      "publisher": "finlex",
+      "title": "44 § Ilmoittaminen rekisteriin",
+      "text": "Pelastusviranomaisen tulee toimittaa kemikaaliturvallisuuslain 130 §:n 2 momentissa tarkoitetut tiedot rekisteriin tallentamista varten turvatekniikan keskukselle.",
+      "section_number": "44",
+      "chapter_number": 1,
+      "statute_id": "59/1999"
+    },
+    {
+      "id": "b31603f5-baee-4556-baaa-fa4870c25b41",
+      "node_type": "Section",
+      "publisher": "finlex",
+      "title": "47 § Muutosilmoitukset",
+      "text": "Muista kuin 46 §:ssä tarkoitetuista merkittävistä muutoksista on laajamittaista teollista käsittelyä tai varastointia harjoittavan toiminnanharjoittajan tehtävä kirjallinen ilmoitus turvatekniikan keskukselle. Tällaisia muutoksia ovat esimerkiksi: Edellä 40 §:ssä tarkoitettua vähäistä teollista käsittelyä ja varastointia koskevista merkittävistä laajennuksista ja muista tällaisista muutoksista on tehtävä kirjallinen ilmoitus kahtena kappaleena asianomaiselle valvontaviranomaiselle.",
+      "section_number": "47",
+      "chapter_number": 1,
+      "statute_id": "59/1999"
+    },
+    {
+      "id": "d85692f1-1d64-4c64-9438-844af36d5de3",
+      "node_type": "Section",
+      "publisher": "finlex",
+      "title": "48 § Toiminnanharjoittajan muutosta koskeva ilmoitus",
+      "text": "Kemikaaliturvallisuuslain 134 §:ssä tarkoitettuun, toiminnanharjoittajan muutosta koskevaan ilmoitukseen on liitettävä seuraavat tiedot:",
+      "section_number": "48",
+      "chapter_number": 1,
+      "statute_id": "59/1999"
+    },
+    {
+      "id": "015e473c-90de-48e0-b875-57a57890b511",
+      "node_type": "Section",
+      "publisher": "finlex",
+      "title": "50 § Teollisen käsittelyn ja varastoinnin lopettamista koskevat ilmoitukset",
+      "text": "Jos teollinen käsittely tai varastointi lopetetaan kokonaan taikka tuotantolaitoksen jokin osa poistetaan käytöstä, on toiminnanharjoittajan liitettävä lopettamista koskevaan ilmoitukseen suunnitelma kemikaaliturvallisuuslain 133 §:n 1 momentissa tarkoitettujen toimenpiteiden suorittamiseksi. Jos teollinen käsittely tai varastointi keskeytetään vuotta pidemmäksi ajaksi, toiminnanharjoittajan on liitettävä keskeytystä koskevaan ilmoitukseen tiedot siitä, miten toiminnanharjoittaja varmistaa, että keskeyttäminen ja myöhemmin tapahtuva toiminnan uudelleen käynnistäminen tapahtuvat turvallisesti.",
+      "section_number": "50",
+      "chapter_number": 1,
+      "statute_id": "59/1999"
+    },
+    {
+      "id": "0b592d99-7cc3-4808-a9eb-44f22c60b08e",
+      "node_type": "Section",
+      "publisher": "finlex",
+      "title": "56 § Rakennetarkastus",
+      "text": "Rakennetarkastusta ei tarvitse tehdä säiliölle, joiden vaatimustenmukaisuus on osoitettu painelaitteista annettujen säännösten mukaisesti.",
+      "section_number": "56",
+      "chapter_number": 1,
+      "statute_id": "59/1999"
+    },
+    {
+      "id": "fe461d65-a26c-49a0-94f2-fc6ba0793b83",
+      "node_type": "Section",
+      "publisher": "finlex",
+      "title": "57 § Sarjavalmisteisten säiliöiden rakennetarkastus",
+      "text": "Mitä tässä pykälässä säädetään, ei koske painelaitteista annettujen säännösten mukaisia säiliöitä.",
+      "section_number": "57",
+      "chapter_number": 1,
+      "statute_id": "59/1999"
+    },
+    {
+      "id": "4c39fb8c-9e6f-4697-881f-2356fe5b3967",
+      "node_type": "Section",
+      "publisher": "finlex",
+      "title": "58 § Valmistuksen ja asennuksen valvonta",
+      "text": "Aiemmin muualla saman tai toisen toiminnanharjoittajan käytössä olleiden, uuteen paikkaan siirrettyjen palavan nesteen säiliöiden osalta on soveltuvin osin voimassa, mitä tässä pykälässä säädetään. Toiminnanharjoittajan on varmistettava, että säiliön rakenne ja kunto ovat sellaiset, että palavan nesteen varastointi säiliössä voi tapahtua turvallisesti.",
+      "section_number": "58",
+      "chapter_number": 1,
+      "statute_id": "59/1999"
+    },
+    {
+      "id": "b34bee92-9559-437f-bd40-b8d27d151647",
+      "node_type": "Section",
+      "publisher": "finlex",
+      "title": "61 § Onnettomuudesta ilmoittaminen valvontaviranomaiselle",
+      "text": "Vähäisessä teollisessa käsittelyssä tai varastoinnissa sattuneesta onnettomuudesta on vastaavasti ilmoitettava asianomaiselle valvontaviranomaiselle. Pelastusviranomaisen tulee edelleen ilmoittaa onnettomuudesta turvatekniikan keskukselle. Onnettomuutta koskevasta selvityksestä on soveltuvin osin voimassa, mitä 2―4 momentissa säädetään.",
+      "section_number": "61",
+      "chapter_number": 1,
+      "statute_id": "59/1999"
+    },
+    {
+      "id": "62ce5e05-4fdb-491f-84d2-dbe1de97e922",
+      "node_type": "Section",
+      "publisher": "finlex",
+      "title": "65 § Poikkeusten myöntäminen",
+      "text": "Turvatekniikan keskus voi yksittäistapauksissa myöntää laajamittaista teollista käsittelyä tai varastointia harjoittavalle tuotantolaitokselle tarpeellisiksi katsomillaan ehdoilla poikkeuksia tämän asetuksen säännöksistä, jos niiden noudattaminen aiheuttaa kohtuuttomia kustannuksia tai huomattavaa hankaluutta ja jos tarkoitettu turvallisuus voidaan saavuttaa muulla tavoin. Vähäistä teollista käsittelyä tai varastointia harjoittavan tuotantolaitoksen osalta 1 momentissa tarkoitettu oikeus on pelastusviranomaisella paitsi kemikaaliturvallisuuslain 23 §:n 2 momentissa tarkoitetuissa kohteissa, joissa mainittu oikeus on turvatekniikan keskuksella. Tämä asetus tulee voimaan 1 päivänä heinäkuuta 2005. Toiminnanharjoittajalla on täytettävä tästä asetuksesta aiheutuneet velvoitteet seuraavasti: 1) 70 §:n mukaista ilmoitusta vastaava ilmoitus on tehtävä viimeistään 30 päivänä syyskuuta 2005; 2) 27 §:ssä tarkoitettu sisäinen pelastussuunnitelma on tehtävä viimeistään 30 päivänä kesäkuuta 2006; 3) 14 §:ssä tarkoitettu toimintaperiaateasiakirja on tehtävä viimeistään 30 päivänä syyskuuta 2005; 4) 15 §:ssä tarkoitettu turvallisuusselvitys on tehtävä viimeistään 30 päivänä kesäkuuta 2006. Jos kemikaali luokitellaan vaaralliseksi tai kemikaalin luokitus muuttuu toiminnan aloittamisen jälkeen siten, että toiminnan laajuus kasvaa taikka 14, 15 tai 40 §:n mukaisia velvoitteita koskevat rajat ylittyvät, toiminnanharjoittajalle asetettavat määräajat asianmukaisille toimenpiteille ovat: 1) kolme kuukautta 70 §:n mukaista ilmoitusta vastaavan ilmoituksen tekemiselle; 2) yksi vuosi 27 §:ssä tarkoitetun sisäisen pelastussuunnitelman tekemiseen; 3) kolme kuukautta 14 §:ssä tarkoitetun toimintaperiaateasiakirjan tekemiseen; 4) yksi vuosi 15 §:ssä tarkoitetun turvallisuusselvityksen tekemiseen. Liitteet I-IV",
+      "section_number": "65",
+      "chapter_number": 1,
+      "statute_id": "59/1999"
+    }
+  ],
+  "clauses": [
+    {
+      "id": "739f2306-6615-4724-b5f3-5d4a6c4fafe4",
+      "node_type": "Clause",
+      "publisher": "finlex",
+      "title": "§ 8 mom 1",
+      "text": "1) laitteistojen käytöstä ei aiheudu välittömiä henkilö-, ympäristö- tai omaisuusvahinkoja;",
+      "clause_number": 1,
+      "section_number": "8",
+      "statute_id": "59/1999"
+    },
+    {
+      "id": "125ed9d5-d41e-4e14-945e-71fa52d2e5a6",
+      "node_type": "Clause",
+      "publisher": "finlex",
+      "title": "§ 8 mom 2",
+      "text": "2) laitevaurion, käyttöhäiriön tai toimintavirheen sattuessa ulos pääsevän kemikaalin määrä jää mahdollisimman vähäiseksi ja se voidaan johtaa sellaiseen paikkaan tai käsitellä siten, että siitä aiheutuu mahdollisimman vähän vahinkoa;",
+      "clause_number": 2,
+      "section_number": "8",
+      "statute_id": "59/1999"
+    },
+    {
+      "id": "a9f5eb09-6597-4d99-b3d0-1c4b20b10f71",
+      "node_type": "Clause",
+      "publisher": "finlex",
+      "title": "§ 8 mom 3",
+      "text": "3) häiriötilanteissa laitteisto ohjautuu tai on ohjattavissa turvalliseen tilaan;",
+      "clause_number": 3,
+      "section_number": "8",
+      "statute_id": "59/1999"
+    },
+    {
+      "id": "a6e19653-8d40-4dee-b7e4-bf16a33cdfc5",
+      "node_type": "Clause",
+      "publisher": "finlex",
+      "title": "§ 8 mom 4",
+      "text": "4) häiriötilanteissa muodostuva paineenpurkaus aiheuttaa mahdollisimman vähän vahinkoa;",
+      "clause_number": 4,
+      "section_number": "8",
+      "statute_id": "59/1999"
+    },
+    {
+      "id": "903b173e-168b-4767-a89d-71005e026134",
+      "node_type": "Clause",
+      "publisher": "finlex",
+      "title": "§ 8 mom 5",
+      "text": "5) kemikaalit eivät sekoitu toisiinsa tavalla, josta voi aiheutua vaaraa kemikaalia tai sitä sisältävää tuotetta myöhemmin varastoitaessa tai käsiteltäessä.",
+      "clause_number": 5,
+      "section_number": "8",
+      "statute_id": "59/1999"
+    },
+    {
+      "id": "1432556c-16ac-4fd7-9405-8af801e85ebf",
+      "node_type": "Clause",
+      "publisher": "finlex",
+      "title": "§ 12 mom 1",
+      "text": "1) tuotantolaitoksessa on vähintään yhtä vaarallista kemikaalia liitteen I osan 1 sarakkeessa 2 ilmaistu vähimmäismäärä tai keskenään samaan luokkaan kuuluvia kemikaaleja vähintään liitteen I osan 2 sarakkeessa 2 ilmaistu vähimmäismäärä;",
+      "clause_number": 1,
+      "section_number": "12",
+      "statute_id": "59/1999"
+    },
+    {
+      "id": "1f4e0b3f-4054-47f8-a79b-d01c9c38f213",
+      "node_type": "Clause",
+      "publisher": "finlex",
+      "title": "§ 12 mom 2",
+      "text": "2) tuotantolaitoksen terveydelle vaarallisten kemikaalien suhdelukujen summa on yhtä suuri tai suurempi kuin 1;",
+      "clause_number": 2,
+      "section_number": "12",
+      "statute_id": "59/1999"
+    },
+    {
+      "id": "d340d762-b114-489e-b7e2-26c30c43b3bf",
+      "node_type": "Clause",
+      "publisher": "finlex",
+      "title": "§ 12 mom 3",
+      "text": "3) tuotantolaitoksen ympäristölle vaarallisten kemikaalien suhdelukujen summa on yhtä suuri tai suurempi kuin 1; taikka",
+      "clause_number": 3,
+      "section_number": "12",
+      "statute_id": "59/1999"
+    },
+    {
+      "id": "90a94de8-69b7-4065-8429-1468edc6fbdc",
+      "node_type": "Clause",
+      "publisher": "finlex",
+      "title": "§ 12 mom 4",
+      "text": "4) tuotantolaitoksen palo- ja räjähdysvaarallisten kemikaalien suhdelukujen summa on yhtä suuri tai suurempi kuin 1.",
+      "clause_number": 4,
+      "section_number": "12",
+      "statute_id": "59/1999"
+    },
+    {
+      "id": "4cd1387b-f5cb-4ce3-8881-9018a8e518fe",
+      "node_type": "Clause",
+      "publisher": "finlex",
+      "title": "§ 13 mom 1",
+      "text": "1) tuotantolaitoksessa on vähintään yhtä vaarallista kemikaalia liitteen I osan 1 sarakkeessa 1 ilmaistu vähimmäismäärä tai keskenään samaan luokkaan kuuluvia kemikaaleja vähintään liitteen I osan 2 sarakkeessa 1 ilmaistu vähimmäismäärä;",
+      "clause_number": 1,
+      "section_number": "13",
+      "statute_id": "59/1999"
+    },
+    {
+      "id": "647d8806-390e-45e8-8878-53a465d409d1",
+      "node_type": "Clause",
+      "publisher": "finlex",
+      "title": "§ 13 mom 2",
+      "text": "2) tuotantolaitoksen terveydelle vaarallisten kemikaalien suhdelukujen summa on yhtä suuri tai suurempi kuin 1;",
+      "clause_number": 2,
+      "section_number": "13",
+      "statute_id": "59/1999"
+    },
+    {
+      "id": "7a5849e9-22bc-44fe-9760-51f36e443086",
+      "node_type": "Clause",
+      "publisher": "finlex",
+      "title": "§ 13 mom 3",
+      "text": "3) tuotantolaitoksen ympäristölle vaarallisten kemikaalien suhdelukujen summa on yhtä suuri tai suurempi kuin 1; taikka",
+      "clause_number": 3,
+      "section_number": "13",
+      "statute_id": "59/1999"
+    },
+    {
+      "id": "8c373021-6f69-45a1-b679-22842717e70d",
+      "node_type": "Clause",
+      "publisher": "finlex",
+      "title": "§ 13 mom 4",
+      "text": "4) tuotantolaitoksen palo- ja räjähdysvaarallisten kemikaalien suhdelukujen summa on yhtä suuri tai suurempi kuin 1.",
+      "clause_number": 4,
+      "section_number": "13",
+      "statute_id": "59/1999"
+    },
+    {
+      "id": "c48b9a18-6d36-498c-b621-eb3e5afd7de5",
+      "node_type": "Clause",
+      "publisher": "finlex",
+      "title": "§ 14 mom 1",
+      "text": "1) tuotantolaitoksessa on vähintään yhtä vaarallista kemikaalia liitteen I osan 1 sarakkeessa 3 ilmaistu vähimmäismäärä tai keskenään samaan luokkaan kuuluvia kemikaaleja vähintään liitteen I osan 2 sarakkeessa 3 ilmaistu vähimmäismäärä;",
+      "clause_number": 1,
+      "section_number": "14",
+      "statute_id": "59/1999"
+    },
+    {
+      "id": "9b1cce2c-3416-4b45-95f8-503b03c5297b",
+      "node_type": "Clause",
+      "publisher": "finlex",
+      "title": "§ 14 mom 2",
+      "text": "2) tuotantolaitoksen terveydelle vaarallisten kemikaalien suhdelukujen summa on yhtä suuri tai suurempi kuin 1;",
+      "clause_number": 2,
+      "section_number": "14",
+      "statute_id": "59/1999"
+    },
+    {
+      "id": "bb7dd44d-e962-4f77-b4f8-155a2d5eab4a",
+      "node_type": "Clause",
+      "publisher": "finlex",
+      "title": "§ 14 mom 3",
+      "text": "3) tuotantolaitoksen ympäristölle vaarallisten kemikaalien suhdelukujen summa on yhtä suuri tai suurempi kuin 1; taikka",
+      "clause_number": 3,
+      "section_number": "14",
+      "statute_id": "59/1999"
+    },
+    {
+      "id": "02ce633c-594f-44aa-b82a-cd707235fd47",
+      "node_type": "Clause",
+      "publisher": "finlex",
+      "title": "§ 14 mom 4",
+      "text": "4) tuotantolaitoksen palo- ja räjähdysvaarallisten kemikaalien suhdelukujen summa on yhtä suuri tai suurempi kuin 1.",
+      "clause_number": 4,
+      "section_number": "14",
+      "statute_id": "59/1999"
+    },
+    {
+      "id": "ec1ebdf5-118d-4d8d-9c99-af2f4f5dacde",
+      "node_type": "Clause",
+      "publisher": "finlex",
+      "title": "§ 15 mom 1",
+      "text": "1) tuotantolaitoksessa on vähintään yhtä vaarallista kemikaalia liitteen I osan 1 sarakkeessa 4 ilmaistu vähimmäismäärä tai keskenään samaan luokkaan kuuluvia kemikaaleja vähintään liitteen I osan 2 sarakkeessa 4 ilmaistu vähimmäismäärä;",
+      "clause_number": 1,
+      "section_number": "15",
+      "statute_id": "59/1999"
+    },
+    {
+      "id": "3abf5851-4e3b-4f9d-a57e-4af629c1c5ee",
+      "node_type": "Clause",
+      "publisher": "finlex",
+      "title": "§ 15 mom 2",
+      "text": "2) tuotantolaitoksen terveydelle vaarallisten kemikaalien suhdelukujen summa on yhtä suuri tai suurempi kuin 1;",
+      "clause_number": 2,
+      "section_number": "15",
+      "statute_id": "59/1999"
+    },
+    {
+      "id": "cbd672b5-c6c5-461e-94a1-43a212205d91",
+      "node_type": "Clause",
+      "publisher": "finlex",
+      "title": "§ 15 mom 3",
+      "text": "3) tuotantolaitoksen ympäristölle vaarallisten kemikaalien suhdelukujen summa on yhtä suuri tai suurempi kuin 1; taikka",
+      "clause_number": 3,
+      "section_number": "15",
+      "statute_id": "59/1999"
+    },
+    {
+      "id": "4cadc53a-9af2-45f0-b2bb-67e35923319a",
+      "node_type": "Clause",
+      "publisher": "finlex",
+      "title": "§ 15 mom 4",
+      "text": "4) tuotantolaitoksen palo- ja räjähdysvaarallisten kemikaalien suhdelukujen summa on yhtä suuri tai suurempi kuin 1.",
+      "clause_number": 4,
+      "section_number": "15",
+      "statute_id": "59/1999"
+    },
+    {
+      "id": "a1c6ce14-a5cc-4f4d-a794-924f34eb29e0",
+      "node_type": "Clause",
+      "publisher": "finlex",
+      "title": "§ 19 mom 1",
+      "text": "1) minkälaista teollista käsittelyä ja varastointia lupa koskee;",
+      "clause_number": 1,
+      "section_number": "19",
+      "statute_id": "59/1999"
+    },
+    {
+      "id": "0f386989-c14a-4a8f-906a-833b0af2e015",
+      "node_type": "Clause",
+      "publisher": "finlex",
+      "title": "§ 19 mom 2",
+      "text": "2) paikka, jossa tuotantolaitos sijaitsee;",
+      "clause_number": 2,
+      "section_number": "19",
+      "statute_id": "59/1999"
+    },
+    {
+      "id": "3a1fe10c-19cf-4e73-945a-c901969d4fe2",
+      "node_type": "Clause",
+      "publisher": "finlex",
+      "title": "§ 19 mom 3",
+      "text": "3) tiedot niistä vaarallisista kemikaaleista, joita päätös koskee;",
+      "clause_number": 3,
+      "section_number": "19",
+      "statute_id": "59/1999"
+    },
+    {
+      "id": "1f590e2d-5c17-4a60-b5f2-5c591bc1f38a",
+      "node_type": "Clause",
+      "publisher": "finlex",
+      "title": "§ 19 mom 4",
+      "text": "4) kemikaalien enimmäismäärät tuotantolaitteistossa ja varastossa;",
+      "clause_number": 4,
+      "section_number": "19",
+      "statute_id": "59/1999"
+    },
+    {
+      "id": "0c0549a0-f101-42d0-bc84-ac2e681c76e1",
+      "node_type": "Clause",
+      "publisher": "finlex",
+      "title": "§ 19 mom 5",
+      "text": "5) lupaehdot;",
+      "clause_number": 5,
+      "section_number": "19",
+      "statute_id": "59/1999"
+    },
+    {
+      "id": "1670daa6-d0bd-4fd3-beb8-213138efb154",
+      "node_type": "Clause",
+      "publisher": "finlex",
+      "title": "§ 19 mom 6",
+      "text": "6) miten ympäristövaikutusten arviointimenettelystä annetun lain (468/1994) mukainen arviointi on otettu huomioon.",
+      "clause_number": 6,
+      "section_number": "19",
+      "statute_id": "59/1999"
+    },
+    {
+      "id": "da045fc7-8158-424c-91cf-dc9341455655",
+      "node_type": "Clause",
+      "publisher": "finlex",
+      "title": "§ 30 mom 1",
+      "text": "1) antaa alueen toisille tuotantolaitoksille tiedot tuotantolaitoksellaan olevista suuronnettomuus- ja muista onnettomuusvaaroista;",
+      "clause_number": 1,
+      "section_number": "30",
+      "statute_id": "59/1999"
+    },
+    {
+      "id": "619719a4-6980-445d-9f5e-91d009d81b4c",
+      "node_type": "Clause",
+      "publisher": "finlex",
+      "title": "§ 30 mom 2",
+      "text": "2) ottaa huomioon muiden tuotantolaitosten aiheuttamat suuronnettomuus- ja muut onnettomuusvaarat toimintaperiaatteissaan, turvallisuusjohtamisjärjestelmässään, turvallisuusselvityksessään, sisäisessä pelastussuunnitelmassaan ja muissa selvityksissään;",
+      "clause_number": 2,
+      "section_number": "30",
+      "statute_id": "59/1999"
+    },
+    {
+      "id": "cf6358e6-0b53-4004-8f65-27b390514fbd",
+      "node_type": "Clause",
+      "publisher": "finlex",
+      "title": "§ 30 mom 3",
+      "text": "3) tehdä yhteistyötä yleisölle tiedottamisessa ja tietojen toimittamisessa pelastusviranomaiselle ulkoisen pelastussuunnitelman laatimista varten.",
+      "clause_number": 3,
+      "section_number": "30",
+      "statute_id": "59/1999"
+    },
+    {
+      "id": "44819cc9-eb29-4d2f-b610-08aab8b645fc",
+      "node_type": "Clause",
+      "publisher": "finlex",
+      "title": "§ 32 mom 1",
+      "text": "1) varastoalueen ja sen lähiympäristön kaavoitus ja liikennejärjestelyt;",
+      "clause_number": 1,
+      "section_number": "32",
+      "statute_id": "59/1999"
+    },
+    {
+      "id": "c8c8468d-7e21-4f42-bb0d-172aeff62176",
+      "node_type": "Clause",
+      "publisher": "finlex",
+      "title": "§ 32 mom 2",
+      "text": "2) varastoalueen ja yhteiskäyttöön tarkoitettujen laitteistojen ja varusteiden omistussuhteet;",
+      "clause_number": 2,
+      "section_number": "32",
+      "statute_id": "59/1999"
+    },
+    {
+      "id": "02b5ba55-4867-4984-8d8c-147e6ff8ae69",
+      "node_type": "Clause",
+      "publisher": "finlex",
+      "title": "§ 32 mom 3",
+      "text": "3) varastoalueelle varastoitavaksi suunnitellut kemikaalit ja niiden enimmäismäärät luokittain;",
+      "clause_number": 3,
+      "section_number": "32",
+      "statute_id": "59/1999"
+    },
+    {
+      "id": "a6461898-affe-42da-93ca-914966fa2d93",
+      "node_type": "Clause",
+      "publisher": "finlex",
+      "title": "§ 32 mom 4",
+      "text": "4) alueen maapohjan soveltuvuus kemikaalivarastoalueeksi;",
+      "clause_number": 4,
+      "section_number": "32",
+      "statute_id": "59/1999"
+    },
+    {
+      "id": "b67908f6-c0bf-45e4-a0a1-7e9b57452138",
+      "node_type": "Clause",
+      "publisher": "finlex",
+      "title": "§ 32 mom 5",
+      "text": "5) yhteiskäytössä olevien täyttö- ja tyhjennyslaitteistojen, siirtoputkistojen ja muiden yhteiskäytössä olevien laitteiden ja varusteiden toteutus ja rakenne sekä miten niiden käyttö, kunnossapito ja huolto on järjestetty;",
+      "clause_number": 5,
+      "section_number": "32",
+      "statute_id": "59/1999"
+    },
+    {
+      "id": "d752658c-a762-4bbb-83a1-31d002d991e3",
+      "node_type": "Clause",
+      "publisher": "finlex",
+      "title": "§ 32 mom 6",
+      "text": "6) miten palontorjunta, muu vahingontorjunta ja varastoalueen pelastustoiminta on järjestetty.",
+      "clause_number": 6,
+      "section_number": "32",
+      "statute_id": "59/1999"
+    },
+    {
+      "id": "71f985cc-e9c5-4bb8-b292-68da14c65e41",
+      "node_type": "Clause",
+      "publisher": "finlex",
+      "title": "§ 40 mom 1",
+      "text": "1) selvitys vaarallisten kemikaalien käsittelyyn ja varastointiin liittyvistä vaaroista ja onnettomuuksien mahdollisuuksista;",
+      "clause_number": 1,
+      "section_number": "40",
+      "statute_id": "59/1999"
+    },
+    {
+      "id": "db4b903b-5277-4e63-a2f2-f6587edc8e9a",
+      "node_type": "Clause",
+      "publisher": "finlex",
+      "title": "§ 40 mom 2",
+      "text": "2) käyttöturvallisuustiedotteet tai vastaavat tiedot pääasiallisista käsiteltävistä ja varastoitavista kemikaaleista;",
+      "clause_number": 2,
+      "section_number": "40",
+      "statute_id": "59/1999"
+    },
+    {
+      "id": "47b73f58-ff65-43ad-b9f7-345a6d3ea90d",
+      "node_type": "Clause",
+      "publisher": "finlex",
+      "title": "§ 40 mom 3",
+      "text": "3) pääpiirteittäinen selostus siitä, miten teollinen käsittely ja varastointi on suunniteltu tapahtuvaksi;",
+      "clause_number": 3,
+      "section_number": "40",
+      "statute_id": "59/1999"
+    },
+    {
+      "id": "dd7ca103-afa1-45d3-b0c3-602f10f0b219",
+      "node_type": "Clause",
+      "publisher": "finlex",
+      "title": "§ 40 mom 4",
+      "text": "4) selvitys palontorjunnan järjestelyistä, mahdollisen vuodon hallinnasta ja muista onnettomuuksien varalta suunnitelluista toimenpiteistä.",
+      "clause_number": 4,
+      "section_number": "40",
+      "statute_id": "59/1999"
+    },
+    {
+      "id": "12a27208-02bb-47f3-beac-83301eb49290",
+      "node_type": "Clause",
+      "publisher": "finlex",
+      "title": "§ 41 mom 1",
+      "text": "1) minkälaista teollista käsittelyä tai varastointia päätös koskee;",
+      "clause_number": 1,
+      "section_number": "41",
+      "statute_id": "59/1999"
+    },
+    {
+      "id": "0507c3f1-d730-4d56-8c0b-14e7ecea95b6",
+      "node_type": "Clause",
+      "publisher": "finlex",
+      "title": "§ 41 mom 2",
+      "text": "2) paikka, jossa tuotantolaitos sijaitsee;",
+      "clause_number": 2,
+      "section_number": "41",
+      "statute_id": "59/1999"
+    },
+    {
+      "id": "b09474c0-679a-41a3-b37e-8d69209fc26f",
+      "node_type": "Clause",
+      "publisher": "finlex",
+      "title": "§ 41 mom 3",
+      "text": "3) tiedot niistä vaarallisista kemikaaleista, joita päätös koskee;",
+      "clause_number": 3,
+      "section_number": "41",
+      "statute_id": "59/1999"
+    },
+    {
+      "id": "da399dff-6b4a-48d8-b2b6-848832e01693",
+      "node_type": "Clause",
+      "publisher": "finlex",
+      "title": "§ 41 mom 4",
+      "text": "4) kemikaalien enimmäismäärät laitteistossa ja varastossa;",
+      "clause_number": 4,
+      "section_number": "41",
+      "statute_id": "59/1999"
+    },
+    {
+      "id": "6ecc9907-768d-40bc-b835-021657ccb8e8",
+      "node_type": "Clause",
+      "publisher": "finlex",
+      "title": "§ 41 mom 5",
+      "text": "5) toimintaa koskevat ehdot.",
+      "clause_number": 5,
+      "section_number": "41",
+      "statute_id": "59/1999"
+    },
+    {
+      "id": "4ad225d2-fc06-42fa-b67e-6d1509059245",
+      "node_type": "Clause",
+      "publisher": "finlex",
+      "title": "§ 47 mom 1",
+      "text": "1) vaarallisten kemikaalien määrän merkittävä kasvu tuotantolaitoksessa;",
+      "clause_number": 1,
+      "section_number": "47",
+      "statute_id": "59/1999"
+    },
+    {
+      "id": "8355bd9a-db1f-49aa-b41b-0fcfce19805d",
+      "node_type": "Clause",
+      "publisher": "finlex",
+      "title": "§ 47 mom 2",
+      "text": "2) käsiteltävien tai varastoitavien vaarallisten kemikaalien tai niiden ominaisuuksien tai olomuodon merkittävä muutos;",
+      "clause_number": 2,
+      "section_number": "47",
+      "statute_id": "59/1999"
+    },
+    {
+      "id": "344ab097-6661-45b6-961c-a9a4ab2d2739",
+      "node_type": "Clause",
+      "publisher": "finlex",
+      "title": "§ 47 mom 3",
+      "text": "3) valmistusmenetelmän tai käsittelytavan merkittävä muutos; tai",
+      "clause_number": 3,
+      "section_number": "47",
+      "statute_id": "59/1999"
+    },
+    {
+      "id": "a0dec70a-b27a-4174-9deb-c94abd70314e",
+      "node_type": "Clause",
+      "publisher": "finlex",
+      "title": "§ 47 mom 4",
+      "text": "4) muu muutos, joka saattaa vaikuttaa merkittävästi onnettomuusvaaroihin.",
+      "clause_number": 4,
+      "section_number": "47",
+      "statute_id": "59/1999"
+    },
+    {
+      "id": "cef42d5b-9006-4199-96f0-69fdb893abda",
+      "node_type": "Clause",
+      "publisher": "finlex",
+      "title": "§ 48 mom 1",
+      "text": "1) toiminnanharjoittajan nimi tai toiminimi, kotipaikka sekä yhteystiedot;",
+      "clause_number": 1,
+      "section_number": "48",
+      "statute_id": "59/1999"
+    },
+    {
+      "id": "a64c1b35-26a2-48f3-a845-d4a729e8d665",
+      "node_type": "Clause",
+      "publisher": "finlex",
+      "title": "§ 48 mom 2",
+      "text": "2) tuotantolaitoksen sijaintipaikkakunta ja käyntiosoite;",
+      "clause_number": 2,
+      "section_number": "48",
+      "statute_id": "59/1999"
+    },
+    {
+      "id": "0c035fe3-a40d-44e3-bb82-4263829d3df0",
+      "node_type": "Clause",
+      "publisher": "finlex",
+      "title": "§ 48 mom 3",
+      "text": "3) tuotantolaitoksesta vastaavan henkilön nimi ja asema;",
+      "clause_number": 3,
+      "section_number": "48",
+      "statute_id": "59/1999"
+    },
+    {
+      "id": "6dd6672d-b7de-476e-96fc-5969c75208a7",
+      "node_type": "Clause",
+      "publisher": "finlex",
+      "title": "§ 48 mom 4",
+      "text": "4) vaarallisten kemikaalien käsittelyä ja varastointia koskevat luvat tai muut päätökset, jotka uudelle toiminnanharjoittajalle halutaan siirtää.",
+      "clause_number": 4,
+      "section_number": "48",
+      "statute_id": "59/1999"
+    }
+  ],
+  "cross_references": [],
+  "raw_html_path": "C:\\Users\\danit\\finance-hack\\aalto-hackaton-2026\\data\\raw\\finlex\\Asetus\\Valtioneuvoston asetus vaarallisten kemikaalien teollisesta käsittelystä ja varastoinnista annetun asetuksen muuttamisesta_1.html"
+}

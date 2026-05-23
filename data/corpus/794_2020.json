@@ -1,0 +1,98 @@
+{
+  "statute": {
+    "id": "271c8d90-2ef3-4965-93dc-11a10541b864",
+    "node_type": "Statute",
+    "publisher": "finlex",
+    "title": "Valtioneuvoston asetus aerosolien vaatimustenmukaisuudesta",
+    "text": "Valtioneuvoston asetus aerosolien vaatimustenmukaisuudesta",
+    "statute_id": "794/2020",
+    "finlex_url": "https://finlex.fi/fi/laki/ajantasa/794/2020"
+  },
+  "chapters": [],
+  "sections": [
+    {
+      "id": "922bb749-347f-46dc-ba22-97ba113de473",
+      "node_type": "Section",
+      "publisher": "finlex",
+      "title": "1 § Soveltamisala",
+      "text": "Tätä asetusta sovelletaan aerosolien vaatimustenmukaisuuden arviointimenettelyihin, tuote- ja rakennevaatimuksiin, analyyseihin, testaamiseen, lopputarkastusmenetelmiin sekä aerosolien merkintöihin, joista säädetään Euroopan yhteisöjen neuvoston direktiivissä 75/324/ETY ja sen aerosolien merkintöjä, sisällön määrää, testausta ja teknisiä vaatimuksia koskevissa muutoksissa 94/1/EY, 2008/47/EY, 2013/10/EU ja (EU) 2016/2037, jäljempänäaerosolidirektiivi.",
+      "section_number": "1",
+      "chapter_number": 1,
+      "statute_id": "794/2020"
+    },
+    {
+      "id": "69c74d84-a5a6-46d3-b0c3-3ee6c70a0923",
+      "node_type": "Section",
+      "publisher": "finlex",
+      "title": "2 § Kokorajoitukset ja turvallisuusvaatimukset",
+      "text": "Ilman tyhjennyslaitetta olevan aerosolipäällyksen tilavuus päällyksen pohjasta yläreunaan mitattuna saa olla enintään: Aerosolin rakenteen on lisäksi täytettävä aerosolidirektiivin liitteessä säädetyt vaatimukset.",
+      "section_number": "2",
+      "chapter_number": 1,
+      "statute_id": "794/2020"
+    },
+    {
+      "id": "67305c3c-2965-4ecf-9617-9ddeef82420f",
+      "node_type": "Section",
+      "publisher": "finlex",
+      "title": "3 § Analyysit ja testausmenetelmät",
+      "text": "Aerosoli on analysoitava ja sen vaatimustenmukaisuus testattava ja osoitettava aerosolidirektiivin liitteessä säädetyillä menetelmillä ja kokeilla. Aerosolin lopputarkastuksessa voidaan käyttää muuta testausmenetelmää, kuin vesihaudemenetelmää, jos se täyttää aerosolidirektiivin liitteessä säädetyt vaatimukset.",
+      "section_number": "3",
+      "chapter_number": 1,
+      "statute_id": "794/2020"
+    },
+    {
+      "id": "a58bd031-d545-4dd4-a15a-57461ffba319",
+      "node_type": "Section",
+      "publisher": "finlex",
+      "title": "4 § Merkinnät",
+      "text": "Aerosolien vaatimustenmukaisuudesta annetun lain 7 §:n 2 momentissa tarkoitettujen merkintöjen on lisäksi täytettävä aerosolidirektiivin liitteessä säädetyt vaatimukset. Jos aerosoli sisältää aerosolidirektiivin liitteen kohdassa 1.8 tarkoitettuja syttyviä aineosia, mutta aerosolin sisältöä ei pidetä liitteen kohdan 1.9 mukaisesti syttyvänä tai erittäin helposti syttyvänä, aerosolin sisältämän syttyvän aineen määrä on ilmoitettava merkinnöissä seuraavassa muodossa: \"Sisällöstä X p-% on palavaa ainetta.\" \"X vikt-% av innehållet består av brännbara ämnen.\"",
+      "section_number": "4",
+      "chapter_number": 1,
+      "statute_id": "794/2020"
+    },
+    {
+      "id": "789893ed-6b20-4f05-9da0-53a13a1c1741",
+      "node_type": "Section",
+      "publisher": "finlex",
+      "title": "5 § Voimaantulo",
+      "text": "Tämä asetus tulee voimaan 1 päivänä joulukuuta 2020.",
+      "section_number": "5",
+      "chapter_number": 1,
+      "statute_id": "794/2020"
+    }
+  ],
+  "clauses": [
+    {
+      "id": "c97bc86d-b529-4048-b480-1484c7eb71cd",
+      "node_type": "Clause",
+      "publisher": "finlex",
+      "title": "§ 2 mom 1",
+      "text": "1) 1 000 ml, kun aerosolin päällys on valmistettu metallista;",
+      "clause_number": 1,
+      "section_number": "2",
+      "statute_id": "794/2020"
+    },
+    {
+      "id": "0dbc0593-f7b9-42fa-a657-100439fd6040",
+      "node_type": "Clause",
+      "publisher": "finlex",
+      "title": "§ 2 mom 2",
+      "text": "2) 220 ml, kun aerosolin päällys on valmistettu lasista, joka on suojattu muovipinnoituksella tai muulla tavalla, tai muovista, josta ei rikkoutuessa muodostu sirpaleita;",
+      "clause_number": 2,
+      "section_number": "2",
+      "statute_id": "794/2020"
+    },
+    {
+      "id": "679910a0-48ef-40cc-84f7-fc784e9bbbcf",
+      "node_type": "Clause",
+      "publisher": "finlex",
+      "title": "§ 2 mom 3",
+      "text": "3) 150 ml, kun aerosolin päällys on valmistettu suojaamattomasta lasista tai muovista, josta voi rikkoutuessa muodostua sirpaleita.",
+      "clause_number": 3,
+      "section_number": "2",
+      "statute_id": "794/2020"
+    }
+  ],
+  "cross_references": [],
+  "raw_html_path": "C:\\Users\\danit\\finance-hack\\aalto-hackaton-2026\\data\\raw\\finlex\\Asetus (säädöskokoelma)\\Valtioneuvoston asetus aerosolien vaatimustenmukaisuudesta.html"
+}

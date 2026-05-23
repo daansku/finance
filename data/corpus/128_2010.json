@@ -1,0 +1,88 @@
+{
+  "statute": {
+    "id": "2074c77d-bf3b-4e2b-be9a-01147e78f73b",
+    "node_type": "Statute",
+    "publisher": "finlex",
+    "title": "Valtioneuvoston asetus väestötietojärjestelmästä annetun valtioneuvoston asetuksen muuttamisesta",
+    "text": "Valtioneuvoston asetus väestötietojärjestelmästä annetun valtioneuvoston asetuksen muuttamisesta",
+    "statute_id": "128/2010",
+    "finlex_url": "https://finlex.fi/fi/laki/ajantasa/128/2010"
+  },
+  "chapters": [
+    {
+      "id": "e0cc23b4-245e-4a03-b1e3-3dbb255f03db",
+      "node_type": "Chapter",
+      "publisher": "finlex",
+      "title": "Chapter 2",
+      "text": "2 luku Väestötietojärjestelmään talletettavat muut tiedot",
+      "chapter_number": 2,
+      "statute_id": "128/2010"
+    }
+  ],
+  "sections": [
+    {
+      "id": "9c1a837a-a172-492c-bd14-33b2eb702d32",
+      "node_type": "Section",
+      "publisher": "finlex",
+      "title": "28 § Väestötietojärjestelmään talletettavat aluejaot",
+      "text": "Väestötietojärjestelmään talletetaan seuraavat hallinnolliset ja muut vastaavat aluejaot: Tämä asetus tulee voimaan 1 päivänä lokakuuta 2016.",
+      "section_number": "28",
+      "chapter_number": 2,
+      "statute_id": "128/2010"
+    }
+  ],
+  "clauses": [
+    {
+      "id": "7d25f748-8393-47e5-8efc-a0c6edd7cf2f",
+      "node_type": "Clause",
+      "publisher": "finlex",
+      "title": "§ 28 mom 1",
+      "text": "1) kuntajako;",
+      "clause_number": 1,
+      "section_number": "28",
+      "statute_id": "128/2010"
+    },
+    {
+      "id": "77b7034d-16d5-4138-952d-b76fa38dc06f",
+      "node_type": "Clause",
+      "publisher": "finlex",
+      "title": "§ 28 mom 2",
+      "text": "2) vaalipiiri- ja äänestysaluejako;",
+      "clause_number": 2,
+      "section_number": "28",
+      "statute_id": "128/2010"
+    },
+    {
+      "id": "d81d02f7-0c2f-4d1f-acb8-a70fbbe32b75",
+      "node_type": "Clause",
+      "publisher": "finlex",
+      "title": "§ 28 mom 3",
+      "text": "3) evankelis-luterilaisen ja ortodoksisen kirkon seurakuntajako;",
+      "clause_number": 3,
+      "section_number": "28",
+      "statute_id": "128/2010"
+    },
+    {
+      "id": "5f05d61e-6b49-4c8d-821c-25a55b8065fc",
+      "node_type": "Clause",
+      "publisher": "finlex",
+      "title": "§ 28 mom 4",
+      "text": "4) postinumeroaluejako;",
+      "clause_number": 4,
+      "section_number": "28",
+      "statute_id": "128/2010"
+    },
+    {
+      "id": "27e536ec-8a88-4419-8471-4b0a082bfb92",
+      "node_type": "Clause",
+      "publisher": "finlex",
+      "title": "§ 28 mom 5",
+      "text": "5) maistraattien ja niiden yksiköiden toimialuejako.",
+      "clause_number": 5,
+      "section_number": "28",
+      "statute_id": "128/2010"
+    }
+  ],
+  "cross_references": [],
+  "raw_html_path": "C:\\Users\\danit\\finance-hack\\aalto-hackaton-2026\\data\\raw\\finlex\\Asetus\\Valtioneuvoston asetus väestötietojärjestelmästä annetun valtioneuvoston asetuksen muuttamisesta_8.html"
+}

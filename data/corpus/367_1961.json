@@ -1,0 +1,298 @@
+{
+  "statute": {
+    "id": "de161b96-dd89-4330-8280-f480bd8bafe5",
+    "node_type": "Statute",
+    "publisher": "finlex",
+    "title": "Laki saatavien perinnästä",
+    "text": "Laki saatavien perinnästä",
+    "statute_id": "367/1961",
+    "finlex_url": "https://finlex.fi/fi/laki/ajantasa/367/1961"
+  },
+  "chapters": [],
+  "sections": [
+    {
+      "id": "c91d9fdd-eb54-4d01-a001-a9f3d59314e7",
+      "node_type": "Section",
+      "publisher": "finlex",
+      "title": "1 § Soveltamisala",
+      "text": "Tätä lakia sovelletaan erääntyneen saatavan perintään. Perinnällä tarkoitetaan tässä laissa toimenpiteitä, joiden tarkoituksena on saada velallinen vapaaehtoisesti suorittamaan erääntynyt velkojan saatava. Tätä lakia ei sovelleta, jos muualla laissa säädetään toisin. Tämä laki ei koske ulosottoviranomaisen toimintaa.",
+      "section_number": "1",
+      "chapter_number": 1,
+      "statute_id": "367/1961"
+    },
+    {
+      "id": "7b5916ac-3344-4949-b65a-5728d50ab6f1",
+      "node_type": "Section",
+      "publisher": "finlex",
+      "title": "2 § Pakottavuus",
+      "text": "Tämän lain säännöksistä ei saa poiketa velallisen vahingoksi.",
+      "section_number": "2",
+      "chapter_number": 1,
+      "statute_id": "367/1961"
+    },
+    {
+      "id": "5aeee5bf-060c-4e06-81ae-f11d8bd5fef3",
+      "node_type": "Section",
+      "publisher": "finlex",
+      "title": "3 § Kuluttajasaatava",
+      "text": "Kuluttajasaatavalla tarkoitetaan tässä laissa sellaista elinkeinonharjoittajan saatavaa, joka perustuu kulutushyödykkeen luovuttamiseen tai luoton myöntämiseen kuluttajalle. Tämän lain 5―7, 10 ja 12―14 §:n säännöksiä kuluttajasaatavasta on soveltuvin osin noudatettava perittäessä julkisoikeudellisen oikeushenkilön saatavaa tai julkisen tehtävän hoitamiseen liittyvää saatavaa yksityishenkilöltä.",
+      "section_number": "3",
+      "chapter_number": 1,
+      "statute_id": "367/1961"
+    },
+    {
+      "id": "1ddf36e4-1573-4ed6-9216-f05af925589d",
+      "node_type": "Section",
+      "publisher": "finlex",
+      "title": "4 § Hyvä perintätapa",
+      "text": "Perinnässä ei saa käyttää hyvän perintätavan vastaista tai muutoin velallisen kannalta sopimatonta menettelyä. Perinnässä ei saa:",
+      "section_number": "4",
+      "chapter_number": 1,
+      "statute_id": "367/1961"
+    },
+    {
+      "id": "21f99f3d-e559-4223-88f4-694edc107d7b",
+      "node_type": "Section",
+      "publisher": "finlex",
+      "title": "5 § Maksuvaatimus kuluttajasaatavan perinnässä",
+      "text": "Perintätoimintaa ammattimaisesti harjoittavan on periessään kuluttajasaatavaa annettava tai lähetettävä velalliselle kirjallinen maksuvaatimus, jossa on mainittava ainakin: Jos maksuvaatimuksessa ei ole mainittu korkojen laskentaperusteita, velalliselle on ilmoitettava, että hänellä on oikeus pyynnöstä saada selvitys korkojen määräytymisestä.",
+      "section_number": "5",
+      "chapter_number": 1,
+      "statute_id": "367/1961"
+    },
+    {
+      "id": "628c8473-f618-42ce-816a-ffdf9940c883",
+      "node_type": "Section",
+      "publisher": "finlex",
+      "title": "6 § Kuluttajasaatavan velkominen tuomio- istuimessa",
+      "text": "Perintätoimintaa ammattimaisesti harjoittava ei saa vaatia kuluttajasaatavasta maksua tuomioistuimessa ennen kuin 5 §:ssä tarkoitettu maksuvaatimus on annettu tai lähetetty ja siinä mainitut saatavan maksamiselle ja huomautusten esittämiselle asetetut määräajat ovat päättyneet. Maksua saa kuitenkin vaatia, jos tuomioistuinkäsittelyn siirtyminen saattaa aiheuttaa velkojalle oikeudenmenetyksen tai jos käsittelyn aloittamiseen viivytyksettä on muu painava syy.",
+      "section_number": "6",
+      "chapter_number": 1,
+      "statute_id": "367/1961"
+    },
+    {
+      "id": "ec871d95-e2cd-4bfc-a9ab-9b3d1664b766",
+      "node_type": "Section",
+      "publisher": "finlex",
+      "title": "7 § Tratan käyttö",
+      "text": "Tratan maksamisesta kieltäytymistä ei saa selvittää julkisella toimituksella (tratan maksamatta jättämisen vuoksi otetulla protestilla). Kuluttajasaatavan perimiseksi ei saa käyttää trattaa.",
+      "section_number": "7",
+      "chapter_number": 1,
+      "statute_id": "367/1961"
+    },
+    {
+      "id": "3bc5b57d-4b29-4fe5-ba47-b17035e2b927",
+      "node_type": "Section",
+      "publisher": "finlex",
+      "title": "8 § Velallisen maksusuoja",
+      "text": "Jos velkoja on antanut perinnän jonkun muun tehtäväksi (toimeksisaaja), velallisen toimeksisaajalle suorittama maksu on pätevä velkojaa kohtaan. Velallisen ja toimeksisaajan välinen sopimus maksuajasta, maksutavasta tai muusta saatavan maksamiseen liittyvästä järjestelystä sitoo myös velkojaa. Mitä 1 momentissa säädetään, ei sovelleta, jos velallinen tiesi tai hänen olisi pitänyt tietää, ettei toimeksisaaja ollut oikeutettu vastaanottamaan maksua tai että toimeksisaaja ylitti toimivaltansa.",
+      "section_number": "8",
+      "chapter_number": 1,
+      "statute_id": "367/1961"
+    },
+    {
+      "id": "30c10e34-22e2-4a56-87dd-fcd7430b73df",
+      "node_type": "Section",
+      "publisher": "finlex",
+      "title": "9 § Perintätoimeksiantoja koskevat rajoitukset",
+      "text": "Toimeksisaajan perittäväksi ei saa antaa sellaisia valtion saatavia tai lainvastaisen menettelyn vuoksi määrättyjä julkisoikeudellisia maksuseuraamuksia, jotka voidaan periä ulosottotoimin ilman tuomiota tai päätöstä siten kuin verojen ja maksujen perimisestä ulosottotoimin annetussa laissa säädetään.",
+      "section_number": "9",
+      "chapter_number": 1,
+      "statute_id": "367/1961"
+    },
+    {
+      "id": "953c79ae-07d1-4984-baad-5e6a3bdf052f",
+      "node_type": "Section",
+      "publisher": "finlex",
+      "title": "10 § Perintäkulut",
+      "text": "Velallisen on korvattava perinnästä velkojalle aiheutuvat kohtuulliset kulut riippumatta siitä, periikö saatavaa velkoja itse vai toimeksisaaja velkojan lukuun. Kohtuullisuutta arvioitaessa on otettava huomioon saatavan suuruus, suoritettu työmäärä, perintätehtävän tarkoituksenmukainen suoritustapa ja muut seikat. Velallinen ei kuitenkaan ole velvollinen korvaamaan perintäkuluja, jos velkoja tai toimeksisaaja on menetellyt 4 §:n vastaisesti tai jos perintätoimintaa ammattimaisesti harjoittava ei ole täyttänyt 5 §:n mukaista velvoitetta, paitsi jos menettelyn moitittavuutta tai laiminlyöntiä voidaan pitää vähäisenä. Jos toimeksisaajan perittäväksi on annettu kuluttajasaatava, joka voidaan periä ulosottotoimin ilman tuomiota tai päätöstä siten kuin verojen ja maksujen perimisestä ulosottotoimin annetussa laissa säädetään, velalliselta saa vaatia perintäkuluina enintään 70 markkaa perintäkerralta. Mainittua markkamäärää voidaan muuttaa asetuksella, milloin talouskehitys tai rahaolojen kehitys antavat siihen aihetta. Tässä momentissa tarkoitetut perintäkulut voidaan periä ulosottotoimin ilman tuomiota tai päätöstä siten kuin edellä mainitussa laissa säädetään.",
+      "section_number": "10",
+      "chapter_number": 1,
+      "statute_id": "367/1961"
+    },
+    {
+      "id": "60f495c1-eb69-47d1-9fdc-6501c069ad7a",
+      "node_type": "Section",
+      "publisher": "finlex",
+      "title": "11 § Asiakasvarat",
+      "text": "Varat, jotka toimeksisaaja on perinyt velkojan lukuun, on pidettävä erillään toimeksisaajan omista varoista ja talletettava pankkitilille tai säilytettävä muulla luotettavalla tavalla.",
+      "section_number": "11",
+      "chapter_number": 1,
+      "statute_id": "367/1961"
+    },
+    {
+      "id": "a1e71e15-e39a-4db6-a989-9a3d44ed1aef",
+      "node_type": "Section",
+      "publisher": "finlex",
+      "title": "12 § Valvonta",
+      "text": "Tämän lain säännösten noudattamista valvoo kuluttaja-asiamies silloin, kun perintä koskee kuluttajasaatavaa.",
+      "section_number": "12",
+      "chapter_number": 1,
+      "statute_id": "367/1961"
+    },
+    {
+      "id": "f6660b66-5ed7-4c94-9cea-de7c6130154b",
+      "node_type": "Section",
+      "publisher": "finlex",
+      "title": "13 § Pakkokeinot",
+      "text": "Elinkeinonharjoittajaa, joka periessään kuluttajasaatavaa rikkoo 4, 5 tai 6 §:n säännöksiä, voidaan kieltää jatkamasta tällaista menettelyä tai uudistamasta sitä tai siihen rinnastettavaa menettelyä. Kieltoa on tehostettava uhkasakolla, jollei se erityisestä syystä ole tarpeetonta. Elinkeinonharjoittajaa, joka periessään elinkeinotoiminnassa syntynyttä saatavaa toiselta elinkeinonharjoittajalta rikkoo 4 §:n säännöksiä, voidaan kieltää jatkamasta tai uudistamasta tällaista menettelyä. Kieltoa on tehostettava uhkasakolla, jollei se erityisestä syystä ole tarpeetonta. Kielto voidaan, jos siihen on erityistä syytä, kohdistaa myös 1 tai 2 momentissa tarkoitetun elinkeinonharjoittajan palveluksessa olevaan henkilöön tai muuhun, joka toimii hänen lukuunsa.",
+      "section_number": "13",
+      "chapter_number": 1,
+      "statute_id": "367/1961"
+    },
+    {
+      "id": "6a902801-c8de-412d-87fe-dd4ece00f948",
+      "node_type": "Section",
+      "publisher": "finlex",
+      "title": "14 § Kiellon määrääminen",
+      "text": "Markkinatuomioistun määrää 13 §:ssä tarkoitetun kiellon. Markkinatuomioistuin voi myös antaa kiellon väliaikaisena, jolloin kielto on voimassa, kunnes asia on lopullisesti ratkaistu. Markkinatuomioistuimesta ja asian käsittelystä siinä on edellä säädetyn lisäksi voimassa, mitä markkinatuomioistuimesta annetussa laissa (41/1978) säädetään. Kuluttaja-asiamies voi määrätä 13 §:n 1 momentissa tarkoitetun kiellon tai antaa kiellon väliaikaisena noudattaen, mitä Kuluttajavirastosta annetussa laissa (1056/1998) säädetään kuluttaja-asiamiehen antamasta kiellosta.",
+      "section_number": "14",
+      "chapter_number": 1,
+      "statute_id": "367/1961"
+    },
+    {
+      "id": "993dc132-2f90-4c59-b111-fb171613ad06",
+      "node_type": "Section",
+      "publisher": "finlex",
+      "title": "15 § Perintätoimintaa ammattimaisesti harjoittavan korvausvastuu",
+      "text": "Perintätoimintaa ammattimaisesti harjoittava on velvollinen korvaamaan vahingon, joka hänen tämän lain vastaisesta tai muutoin virheellisestä menettelystään on aiheutunut sille, johon perintä on kohdistettu.",
+      "section_number": "15",
+      "chapter_number": 1,
+      "statute_id": "367/1961"
+    },
+    {
+      "id": "ebc59010-fcea-434d-9c6f-9c37a9a1d24f",
+      "node_type": "Section",
+      "publisher": "finlex",
+      "title": "16 § Velkojan oikeus salassa pidettävien tietojen antamiseen",
+      "text": "Sen estämättä, mitä laissa säädetään tietojen salassapidosta, velkojalla on oikeus antaa perintätoimeksiannon hoitamista varten välttämättömät tiedot. Toimeksiannon hoitamista varten saatujen henkilötietojen suojasta on voimassa, mitä siitä yleisesti säädetään.",
+      "section_number": "16",
+      "chapter_number": 1,
+      "statute_id": "367/1961"
+    },
+    {
+      "id": "9133e641-9bdc-45d5-ba62-94de3a3cf893",
+      "node_type": "Section",
+      "publisher": "finlex",
+      "title": "17 § Rangaistussäännökset",
+      "text": "Joka tahallaan tai törkeästä huolimattomuudesta rikkoo 4 §:n 2 momentin 1 kohdan tai 11 §:n säännöksiä, on tuomittava, jollei teosta muualla laissa säädetä ankarampaa rangaistusta,perintärikkomuksestasakkoon. Rangaistus 7 §:n 2 momentin rikkomisesta säädetään rikoslain 30 luvun 3 §:ssä. Sitä, joka rikkoo 13 §:n nojalla määrättyä uhkasakolla tehostettua kieltoa, ei voida tuomita rangaistukseen samasta teosta.",
+      "section_number": "17",
+      "chapter_number": 1,
+      "statute_id": "367/1961"
+    },
+    {
+      "id": "925302b5-957e-4a87-85e0-4dd3647abcd0",
+      "node_type": "Section",
+      "publisher": "finlex",
+      "title": "18 § Voimaantulo",
+      "text": "Tämä laki tulee voimaan 1 päivänä syyskuuta 1999. Tämän lain 5 ja 9 §:ää ei sovelleta, jos saatava on annettu toimeksisaajan perittäväksi ennen tämän lain voimaantuloa. Lain 15 §:ää ei sovelleta vahinkoihin, jotka aiheutuvat menettelystä ennen tämän lain voimaantuloa.",
+      "section_number": "18",
+      "chapter_number": 1,
+      "statute_id": "367/1961"
+    }
+  ],
+  "clauses": [
+    {
+      "id": "ce848d5c-8d77-447e-9029-a4af94ce0c99",
+      "node_type": "Clause",
+      "publisher": "finlex",
+      "title": "§ 4 mom 1",
+      "text": "1) antaa vääriä tai harhaanjohtavia tietoja maksun laiminlyönnin seuraamuksista;",
+      "clause_number": 1,
+      "section_number": "4",
+      "statute_id": "367/1961"
+    },
+    {
+      "id": "6b136bb0-4f30-4272-ac1c-b78d442c5f27",
+      "node_type": "Clause",
+      "publisher": "finlex",
+      "title": "§ 4 mom 2",
+      "text": "2) aiheuttaa velalliselle kohtuuttomia tai tarpeettomia kuluja taikka tarpeetonta haittaa; eikä",
+      "clause_number": 2,
+      "section_number": "4",
+      "statute_id": "367/1961"
+    },
+    {
+      "id": "8dc353b0-278b-40d2-a705-e2f8562b7a60",
+      "node_type": "Clause",
+      "publisher": "finlex",
+      "title": "§ 4 mom 3",
+      "text": "3) vaarantaa velallisen yksityisyyden suojaa.",
+      "clause_number": 3,
+      "section_number": "4",
+      "statute_id": "367/1961"
+    },
+    {
+      "id": "9b2a0644-56e7-4a64-9fb5-f4e7afd0a576",
+      "node_type": "Clause",
+      "publisher": "finlex",
+      "title": "§ 5 mom 1",
+      "text": "1) velkojan nimi ja osoite;",
+      "clause_number": 1,
+      "section_number": "5",
+      "statute_id": "367/1961"
+    },
+    {
+      "id": "ccd7f7a5-03a0-482a-9864-e3c6da64d037",
+      "node_type": "Clause",
+      "publisher": "finlex",
+      "title": "§ 5 mom 2",
+      "text": "2) saatavan peruste;",
+      "clause_number": 2,
+      "section_number": "5",
+      "statute_id": "367/1961"
+    },
+    {
+      "id": "515fe1a0-62fb-472c-a9a8-fed8c4c683d2",
+      "node_type": "Clause",
+      "publisher": "finlex",
+      "title": "§ 5 mom 3",
+      "text": "3) eriteltyinä saatavan pääoma, korko, viivästyskorko ja perintäkulut;",
+      "clause_number": 3,
+      "section_number": "5",
+      "statute_id": "367/1961"
+    },
+    {
+      "id": "b1ecea9a-d21b-4cfc-8d0b-172b863753a8",
+      "node_type": "Clause",
+      "publisher": "finlex",
+      "title": "§ 5 mom 4",
+      "text": "4) vaadittu kokonaissumma;",
+      "clause_number": 4,
+      "section_number": "5",
+      "statute_id": "367/1961"
+    },
+    {
+      "id": "32997fc6-e3a6-47f5-b3c9-5b4e19047ab9",
+      "node_type": "Clause",
+      "publisher": "finlex",
+      "title": "§ 5 mom 5",
+      "text": "5) kenelle, miten ja milloin saatava on maksettava;",
+      "clause_number": 5,
+      "section_number": "5",
+      "statute_id": "367/1961"
+    },
+    {
+      "id": "d6301b8a-512a-4c70-bcb5-cc727219d514",
+      "node_type": "Clause",
+      "publisher": "finlex",
+      "title": "§ 5 mom 6",
+      "text": "6) velallisen mahdollisuus esittää huomautuksia saatavan määrästä ja perusteesta sekä missä ajassa huomautukset on esitettävä; jos perittävänä on saatava, joka voidaan periä ulosottotoimin ilman tuomiota tai päätöstä siten kuin verojen ja maksujen perimisestä ulosottotoimin annetussa laissa (367/1961) säädetään, maksuvaatimuksessa on ilmoitettava velalliselle sellaisen saatavan perinnässä käytettävissä olevat oikeuskeinot sekä mahdollisuus hakea maksulykkäystä; ja",
+      "clause_number": 6,
+      "section_number": "5",
+      "statute_id": "367/1961"
+    },
+    {
+      "id": "df9bc9b5-0682-44f1-bc19-72f5bafe243a",
+      "node_type": "Clause",
+      "publisher": "finlex",
+      "title": "§ 5 mom 7",
+      "text": "7) kenelle huomautukset on esitettävä; jos perittävänä on julkisyhteisön saatava, maksuvaatimuksessa on ilmoitettava myös sen julkisyhteisön perintää hoitavan yksikön tai henkilön yhteystiedot, jolle velallinen voi tehdä saatavaa ja perintää koskevat huomautuksensa.",
+      "clause_number": 7,
+      "section_number": "5",
+      "statute_id": "367/1961"
+    }
+  ],
+  "cross_references": [],
+  "raw_html_path": "C:\\Users\\danit\\finance-hack\\aalto-hackaton-2026\\data\\raw\\finlex\\Laki (säädöskokoelma)\\Laki saatavien perinnästä.html"
+}

@@ -1,0 +1,427 @@
+{
+  "statute": {
+    "id": "7da9e0d7-ac39-40af-be91-b829fd88b9b7",
+    "node_type": "Statute",
+    "publisher": "finlex",
+    "title": "Asetus vesiasetuksen muuttamisesta",
+    "text": "Asetus vesiasetuksen muuttamisesta",
+    "statute_id": "282/1962",
+    "finlex_url": "https://finlex.fi/fi/laki/ajantasa/282/1962"
+  },
+  "chapters": [
+    {
+      "id": "4adbcee9-0a3a-4628-a26c-386e34184c8a",
+      "node_type": "Chapter",
+      "publisher": "finlex",
+      "title": "Chapter 1",
+      "text": "1 luku Rekisterit",
+      "chapter_number": 1,
+      "statute_id": "282/1962"
+    },
+    {
+      "id": "794225a9-d691-4e5e-a6c5-1acd9b8c4bd2",
+      "node_type": "Chapter",
+      "publisher": "finlex",
+      "title": "Chapter 2",
+      "text": "2 luku Kunnan ympäristönsuojeluviranomainen",
+      "chapter_number": 2,
+      "statute_id": "282/1962"
+    }
+  ],
+  "sections": [
+    {
+      "id": "396c7129-acae-4e1d-96f0-da9e37308c2c",
+      "node_type": "Section",
+      "publisher": "finlex",
+      "title": "1 §",
+      "text": "Vesipäätösrekisteriin on merkittävä tarpeellisilta osin: Vesipäätösrekisterin täydennyksenä voi olla karttoja.",
+      "section_number": "1",
+      "chapter_number": 1,
+      "statute_id": "282/1962"
+    },
+    {
+      "id": "affb6f00-dd8d-4a07-8bd2-e39207575a7b",
+      "node_type": "Section",
+      "publisher": "finlex",
+      "title": "2 §",
+      "text": "Ympäristölupavirastossa olevaan karttaan on merkittävä perustetut paikallisväylät ja yleiset uittoväylät.",
+      "section_number": "2",
+      "chapter_number": 1,
+      "statute_id": "282/1962"
+    },
+    {
+      "id": "e94ae67d-61db-477a-a3b3-06118364fd09",
+      "node_type": "Section",
+      "publisher": "finlex",
+      "title": "3 §",
+      "text": "Ympäristölupavirastossa pidetään vesilain 5 luvun 58 §:n ja 8 luvun 18 §:n 2 momentin mukaisia rekistereitä, joihin tulee merkitä viraston toimialueella toimivat uittoyhdistykset ja säännöstely-yhtiöt. Milloin yhdistys tai yhtiö toimii kahden ympäristölupaviraston toimialueella, on merkinnät tehtävä sen viraston rekisteriin, jonka toimialueella yhdistyksen tai yhtiön kotipaikka on.",
+      "section_number": "3",
+      "chapter_number": 1,
+      "statute_id": "282/1962"
+    },
+    {
+      "id": "51cd20b2-055f-4845-9cbd-961f7278a7f6",
+      "node_type": "Section",
+      "publisher": "finlex",
+      "title": "4 §",
+      "text": "Uittoyhdistyksestä on ympäristölupavirastossa pidettävään rekisteriin merkittävä: Ilmoitukseen liitetyt jäljennökset päätöksistä, joilla yhdistyksen ohjesääntö on vahvistettu tai muutettu, on säilytettävä rekisterin liitteinä.",
+      "section_number": "4",
+      "chapter_number": 1,
+      "statute_id": "282/1962"
+    },
+    {
+      "id": "84d05ef2-9459-4cb7-ba40-ebc28ff4a647",
+      "node_type": "Section",
+      "publisher": "finlex",
+      "title": "5 §",
+      "text": "Säännöstely-yhtiöstä on ympäristölupavirastossa pidettävään rekisteriin merkittävä: Rekisterin liitteistä on vastaavasti voimassa, mitä 7 §:n 2 momentissa säädetään.",
+      "section_number": "5",
+      "chapter_number": 1,
+      "statute_id": "282/1962"
+    },
+    {
+      "id": "0b445323-d706-4996-bb3d-19cece374ec5",
+      "node_type": "Section",
+      "publisher": "finlex",
+      "title": "34 §",
+      "text": "Jos kunnan ympäristönsuojeluviranomainen vesilain (264/1961) 20 luvun 2 §:n 2 momentin mukaisesti osoittaa asianosaisen hakemaan ojitustoimitusta ojitusta koskevassa asiassa, sen tulee samalla jättää asia tutkittavaksi ottamatta.",
+      "section_number": "34",
+      "chapter_number": 2,
+      "statute_id": "282/1962"
+    },
+    {
+      "id": "a85cb740-148f-4a17-83f7-b55e17065943",
+      "node_type": "Section",
+      "publisher": "finlex",
+      "title": "35 §",
+      "text": "Kunnan ympäristönsuojeluviranomaisen tulee siirtäessään asian ympäristölupaviraston käsiteltäväksi viivytyksettä toimittaa asiaa koskeva pöytäkirjan ote ja siihen liittyvät muut asiakirjat sekä päätöksessään mainita siirtämisen syy.",
+      "section_number": "35",
+      "chapter_number": 2,
+      "statute_id": "282/1962"
+    },
+    {
+      "id": "73e0858d-3a16-4d7b-a5f1-6ab9f5e501f6",
+      "node_type": "Section",
+      "publisher": "finlex",
+      "title": "36 §",
+      "text": "Ojan, vedenjohdon ja viemärin tekemistä, muuttamista sekä kunnossapitoa koskevassa asiassa kunnan ympäristönsuojeluviranomaisen on vaadittava hakijalta tai muutoin hankittava tarpeellinen, saatavissa oleva selvitys ojan, vedenjohdon tai viemärin kulkusuunnasta, laskukohdasta ja suuruudesta sekä muista asian ratkaisemiseen vaikuttavista seikoista.",
+      "section_number": "36",
+      "chapter_number": 2,
+      "statute_id": "282/1962"
+    },
+    {
+      "id": "97770159-73b2-4f36-948d-a4b4733f9fe8",
+      "node_type": "Section",
+      "publisher": "finlex",
+      "title": "37 §",
+      "text": "Käsitellessään vesilain 1 luvun 16 §:ssä tarkoitettua talousveden käytön rajoittamista koskevaa asiaa kunnan ympäristönsuojeluviranomaisen tulee ottaa huomioon veden riittävyys ja sitä käyttävien tarpeet. Päätökseen on mahdollisuuksien mukaan otettava määräykset myös olosuhteiden muuttumisen varalta, ja siinä on määrättävä, ovatko annetut määräykset voimassa toistaiseksi vai määräajan.",
+      "section_number": "37",
+      "chapter_number": 2,
+      "statute_id": "282/1962"
+    },
+    {
+      "id": "6cbc1a58-0398-49c0-9bb9-fdbd7c00f9c8",
+      "node_type": "Section",
+      "publisher": "finlex",
+      "title": "38 §",
+      "text": "Kunnan ympäristönsuojeluviranomaisen puheenjohtajan on annettava vesilain 5 luvun 5 §:n 2 momentin nojalla määrätyille katselmuksen toimittajille määräys kirjallisesti.",
+      "section_number": "38",
+      "chapter_number": 2,
+      "statute_id": "282/1962"
+    },
+    {
+      "id": "df4364bc-376e-4ad0-8ea6-a9aefa4a3349",
+      "node_type": "Section",
+      "publisher": "finlex",
+      "title": "39 §",
+      "text": "Ojitus- tai järjestely-yhtiön toimitsijoista kunnan ympäristönsuojeluviranomaiselle tehtävässä ilmoituksessa on mainittava toimitsijoiden nimet ja osoitteet. Toimitsijoiden on ilmoitettava viipymättä uuden toimitsijan valitsemisestakunnan ympäristönsuojeluviranomaiselle. Hakemuksessa on esitettävä arvio siitä, aiheutuuko hankkeesta luonnonsuojelulain (1096/1996) tai vesilain 1 luvun 15 a §:n taikka 1 luvun 17 a §:n vastaisia seurauksia.",
+      "section_number": "39",
+      "chapter_number": 2,
+      "statute_id": "282/1962"
+    },
+    {
+      "id": "84db1496-a491-417a-8792-0effb70f21e2",
+      "node_type": "Section",
+      "publisher": "finlex",
+      "title": "74 §",
+      "text": "Vesilain 18 luvun 9 ja 9 a §:ssä tarkoitetut jäljennökset katselmustoimituksen asiakirjoista on lähetettävä yrityksen vaikutusalueen kuntien ympäristönsuojeluviranomaisille, ympäristölupavirastolle sekä alueelliselle ympäristökeskukselle, työvoima- ja elinkeinokeskukselle, Metsähallitukselle, tielaitokselle, merenkulkulaitokselle, Museovirastolle sekä muulle valtion viranomaiselle, joka hakemuksessa tarkoitetussa asiassa toimialallaan valvoo yleistä etua tai jonka hoitoon tai valvontaan kuuluvaa aluetta, rakennelmaa tai laitetta asia koskee. Asiakirjat on lisäksi lähetettävä tiedoksi Suomen ympäristökeskukselle. Jos toimitusinsinööri siirtyy ympäristöhallinnon palveluksesta muun valtion viranomaisen palvelukseen, ympäristölupavirasto voi erityisestä syystä määrätä hänet jatkamaan tehtävässään, jos hän ja sanottu viranomainen antavat tähän suostumuksensa.",
+      "section_number": "74",
+      "chapter_number": 2,
+      "statute_id": "282/1962"
+    },
+    {
+      "id": "e49fa935-cb14-415f-b7bd-f0f99a9c0161",
+      "node_type": "Section",
+      "publisher": "finlex",
+      "title": "79 §",
+      "text": "Edellä 1 momentissa tarkoitettua määräystä ei saa kuitenkaan antaa sellaista ojitusta koskevan ojitustoimituksen pitämiseen, johon joltakin osin tarvitaan ympäristölupaviraston lupa tai joka huomattavasti vaikuttaa vesistöön.",
+      "section_number": "79",
+      "chapter_number": 2,
+      "statute_id": "282/1962"
+    },
+    {
+      "id": "f8503a66-8e23-41ea-a9a0-16b27c12cd7e",
+      "node_type": "Section",
+      "publisher": "finlex",
+      "title": "80 §",
+      "text": "Vesilain 19 luvun 5 §:ssä tarkoitettu toimitusinsinöörin kehotus toimitusta hakeneelle hankkia asiassa ympäristölupaviraston lupa on annettava kirjallisesti ja samalla mainittava, minkä vuoksi luvan saaminen on tarpeen.",
+      "section_number": "80",
+      "chapter_number": 2,
+      "statute_id": "282/1962"
+    },
+    {
+      "id": "93f60fac-c1dd-4e29-9a31-1bae1a7060b9",
+      "node_type": "Section",
+      "publisher": "finlex",
+      "title": "83 §",
+      "text": "Jos ympäristölupavirasto käsittelee hakemusta, joka tarkoittaa yleisen paikallisväylän perustamista, muuttamista tai lakkauttamista, sen tulee ennen asian ratkaisemista hankkia asiasta merenkulkulaitoksen lausunto.",
+      "section_number": "83",
+      "chapter_number": 2,
+      "statute_id": "282/1962"
+    },
+    {
+      "id": "026144c0-ce4a-4495-98db-0b1a74db8412",
+      "node_type": "Section",
+      "publisher": "finlex",
+      "title": "84 §",
+      "text": "Kun ympäristölupaviraston päätös on saanut lainvoiman tai, jos päätökseen on haettu muutosta, ympäristölupavirasto on vesilain 17 luvun 7 §:ssä tarkoitetulla tavalla saanut tiedon tuomioistuimen lainvoimaisesta ratkaisusta, sen tulee, jos päätöksessä on jollekin myönnetty oikeus jatkuvasti käyttää hyväkseen toisen kiinteää omaisuutta, vesilain 21 luvun 8 §:ssä mainitussa tarkoituksessa lähettää kiinteistörekisterin pitäjälle jäljennös päätöksestä. Jäljennökseen on liitettävä kartta, johon kysymyksessä oleva alue on merkitty.",
+      "section_number": "84",
+      "chapter_number": 2,
+      "statute_id": "282/1962"
+    },
+    {
+      "id": "1091edf8-95da-4219-959d-ff162eb55dff",
+      "node_type": "Section",
+      "publisher": "finlex",
+      "title": "85 §",
+      "text": "Kun on saatu lupa vesilain 2―10 luvussa tarkoitettuun yritykseen tai toimenpiteeseen, toimenpiteen suorittajan tulee ennen yritykseen tai toimenpiteeseen ryhtymistä ilmoittaa alueelliselle ympäristökeskukselle ja kunnan ympäristönsuojeluviranomaiselle toimenpiteen aloittamisen ajankohta sekä lupapäätöksen päivämäärä ja antaja. Jos toimenpide on vaikutukseltaan sen laatuinen, ettei siihen ole tarpeen hakea ympäristölupaviraston lupaa, vesilain 12 luvun 16 §:ssä tarkoitettu ilmoitus on tehtävä 1 momentissa mainituille viranomaisille ennen toimenpiteeseen ryhtymistä. Ilmoituksen tulee sisältää selostus toimenpiteen laadusta ja vaikutuksesta vesistöön sekä siitä, missä ja milloin toimenpiteeseen on tarkoitus ryhtyä. Kun on saatu lupa patoturvallisuuslaissa (413/1984) tarkoitetun padon rakentamiseen, padon rakentamisen aloittamisesta ja käyttöönottamisesta on ilmoitettava viimeistään kuukautta aikaisemmin sekä alueelliselle ympäristökeskukselle että kunnan ympäristönsuojeluviranomaiselle. Tämä asetus tulee voimaan 1 päivänä maaliskuuta 2000.",
+      "section_number": "85",
+      "chapter_number": 2,
+      "statute_id": "282/1962"
+    }
+  ],
+  "clauses": [
+    {
+      "id": "de73c31c-47ea-4e88-aa13-8f42aa1cb5b4",
+      "node_type": "Clause",
+      "publisher": "finlex",
+      "title": "§ 1 mom 1",
+      "text": "1) tiedot päätöksen yksilöimiseksi;",
+      "clause_number": 1,
+      "section_number": "1",
+      "statute_id": "282/1962"
+    },
+    {
+      "id": "ae783738-54c3-4cc2-a6eb-e0cd7ebea798",
+      "node_type": "Clause",
+      "publisher": "finlex",
+      "title": "§ 1 mom 2",
+      "text": "2) tiedot asianosaisista;",
+      "clause_number": 2,
+      "section_number": "1",
+      "statute_id": "282/1962"
+    },
+    {
+      "id": "03bbcf1f-69a8-423c-ac05-7c460bcf5215",
+      "node_type": "Clause",
+      "publisher": "finlex",
+      "title": "§ 1 mom 3",
+      "text": "3) asian laadun mukainen luokitus;",
+      "clause_number": 3,
+      "section_number": "1",
+      "statute_id": "282/1962"
+    },
+    {
+      "id": "1f53314a-d873-4d7f-a8d8-9c93fa2694bf",
+      "node_type": "Clause",
+      "publisher": "finlex",
+      "title": "§ 1 mom 4",
+      "text": "4) tiedot päätöksen sisällöstä;",
+      "clause_number": 4,
+      "section_number": "1",
+      "statute_id": "282/1962"
+    },
+    {
+      "id": "e3d623ae-b86b-4b25-8d0b-a791f6d8f11a",
+      "node_type": "Clause",
+      "publisher": "finlex",
+      "title": "§ 1 mom 5",
+      "text": "5) tiedot rakenteista ja toiminnoista, joilla on vesistövaikutuksia tai yleistä merkitystä;",
+      "clause_number": 5,
+      "section_number": "1",
+      "statute_id": "282/1962"
+    },
+    {
+      "id": "ffc92cc6-5dfb-48fb-84cf-3ace3756cba9",
+      "node_type": "Clause",
+      "publisher": "finlex",
+      "title": "§ 1 mom 6",
+      "text": "6) tiedot päätöksen vaikutusalueesta;",
+      "clause_number": 6,
+      "section_number": "1",
+      "statute_id": "282/1962"
+    },
+    {
+      "id": "dd00ba45-30cd-4502-9199-8398367c9b49",
+      "node_type": "Clause",
+      "publisher": "finlex",
+      "title": "§ 1 mom 7",
+      "text": "7) tiedot päätöksen liittymisestä muihin päätöksiin;",
+      "clause_number": 7,
+      "section_number": "1",
+      "statute_id": "282/1962"
+    },
+    {
+      "id": "fd4c7f38-1c1b-4d53-b2a9-7f7673bfcd60",
+      "node_type": "Clause",
+      "publisher": "finlex",
+      "title": "§ 1 mom 8",
+      "text": "8) tiedot muutoksenhausta ja muutoksenhakuasteiden ratkaisuista.",
+      "clause_number": 8,
+      "section_number": "1",
+      "statute_id": "282/1962"
+    },
+    {
+      "id": "664e3be4-2e91-4c77-a6e2-ddc303eda36c",
+      "node_type": "Clause",
+      "publisher": "finlex",
+      "title": "§ 4 mom 1",
+      "text": "1) yhdistyksen nimi;",
+      "clause_number": 1,
+      "section_number": "4",
+      "statute_id": "282/1962"
+    },
+    {
+      "id": "c09ecc40-c50a-4f0f-bedf-a9b77daa0677",
+      "node_type": "Clause",
+      "publisher": "finlex",
+      "title": "§ 4 mom 2",
+      "text": "2) yhdistyksen kotipaikkana oleva kunta;",
+      "clause_number": 2,
+      "section_number": "4",
+      "statute_id": "282/1962"
+    },
+    {
+      "id": "9439fdd1-5312-4594-b095-215e7396527a",
+      "node_type": "Clause",
+      "publisher": "finlex",
+      "title": "§ 4 mom 3",
+      "text": "3) yhteisuittoalue;",
+      "clause_number": 3,
+      "section_number": "4",
+      "statute_id": "282/1962"
+    },
+    {
+      "id": "ad573082-21b9-40e4-a080-11610be0b394",
+      "node_type": "Clause",
+      "publisher": "finlex",
+      "title": "§ 4 mom 4",
+      "text": "4) hallituksen jäsenten nimet ja heidän kotikuntalaissa (201/1994) tarkoitettu kotikuntansa;",
+      "clause_number": 4,
+      "section_number": "4",
+      "statute_id": "282/1962"
+    },
+    {
+      "id": "ed7e76fe-cfe7-447b-b67e-ae69a697ee54",
+      "node_type": "Clause",
+      "publisher": "finlex",
+      "title": "§ 4 mom 5",
+      "text": "5) miten yhdistyksen nimi kirjoitetaan;",
+      "clause_number": 5,
+      "section_number": "4",
+      "statute_id": "282/1962"
+    },
+    {
+      "id": "b894a6a1-256a-46f6-a0f6-b5375c40526f",
+      "node_type": "Clause",
+      "publisher": "finlex",
+      "title": "§ 4 mom 6",
+      "text": "6) kenellä on oikeus yhdistyksen nimen kirjoittamiseen;",
+      "clause_number": 6,
+      "section_number": "4",
+      "statute_id": "282/1962"
+    },
+    {
+      "id": "f8421f8d-211c-42ee-a1b0-dcc09036c7d4",
+      "node_type": "Clause",
+      "publisher": "finlex",
+      "title": "§ 4 mom 7",
+      "text": "7) milloin yhdistyksen säännöt ja niiden mahdolliset muutokset on vahvistettu.",
+      "clause_number": 7,
+      "section_number": "4",
+      "statute_id": "282/1962"
+    },
+    {
+      "id": "bdd841f0-e4f7-4713-9536-fa53d129655f",
+      "node_type": "Clause",
+      "publisher": "finlex",
+      "title": "§ 5 mom 1",
+      "text": "1) yhtiön nimi;",
+      "clause_number": 1,
+      "section_number": "5",
+      "statute_id": "282/1962"
+    },
+    {
+      "id": "7de1864f-3d25-44c4-858e-8200cfa30915",
+      "node_type": "Clause",
+      "publisher": "finlex",
+      "title": "§ 5 mom 2",
+      "text": "2) yhtiön kotipaikkana oleva kunta;",
+      "clause_number": 2,
+      "section_number": "5",
+      "statute_id": "282/1962"
+    },
+    {
+      "id": "373f5ad3-826f-4a9a-9954-c6056e3b7608",
+      "node_type": "Clause",
+      "publisher": "finlex",
+      "title": "§ 5 mom 3",
+      "text": "3) mitä vesipäätösrekisteriin merkittyä säännöstelyä yhtiö hoitaa;",
+      "clause_number": 3,
+      "section_number": "5",
+      "statute_id": "282/1962"
+    },
+    {
+      "id": "df719217-f16b-4bbb-a025-ffc726301058",
+      "node_type": "Clause",
+      "publisher": "finlex",
+      "title": "§ 5 mom 4",
+      "text": "4) hallituksen jäsenten nimet ja heidän kotikuntalaissa tarkoitettu kotikuntansa;",
+      "clause_number": 4,
+      "section_number": "5",
+      "statute_id": "282/1962"
+    },
+    {
+      "id": "c9a9e8d8-2290-4d51-aaad-2772eb2a57e9",
+      "node_type": "Clause",
+      "publisher": "finlex",
+      "title": "§ 5 mom 5",
+      "text": "5) miten yhtiön nimi kirjoitetaan;",
+      "clause_number": 5,
+      "section_number": "5",
+      "statute_id": "282/1962"
+    },
+    {
+      "id": "22bc752d-238e-409a-ac95-8c06af0a51f0",
+      "node_type": "Clause",
+      "publisher": "finlex",
+      "title": "§ 5 mom 6",
+      "text": "6) kenellä on oikeus yhtiön nimen kirjoittamiseen;",
+      "clause_number": 6,
+      "section_number": "5",
+      "statute_id": "282/1962"
+    },
+    {
+      "id": "8522a2b2-b374-4bcc-bfe3-aed1071126af",
+      "node_type": "Clause",
+      "publisher": "finlex",
+      "title": "§ 5 mom 7",
+      "text": "7) milloin yhtiön säännöt ja niiden mahdolliset muutokset on vahvistettu.",
+      "clause_number": 7,
+      "section_number": "5",
+      "statute_id": "282/1962"
+    }
+  ],
+  "cross_references": [],
+  "raw_html_path": "C:\\Users\\danit\\finance-hack\\aalto-hackaton-2026\\data\\raw\\finlex\\Asetus\\Asetus vesiasetuksen muuttamisesta_4.html"
+}

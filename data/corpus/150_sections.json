@@ -1,0 +1,2829 @@
+{
+  "statute": {
+    "id": "478c4522-5324-4785-942c-81b857e5a80d",
+    "node_type": "Statute",
+    "publisher": "finlex",
+    "title": "Liikevaihtoverolaki",
+    "text": "Liikevaihtoverolaki",
+    "statute_id": "",
+    "finlex_url": ""
+  },
+  "chapters": [
+    {
+      "id": "239f566f-f7d1-4110-ad5f-c4a9f7811de8",
+      "node_type": "Chapter",
+      "publisher": "finlex",
+      "title": "Chapter 1",
+      "text": "1 luku Yleinen soveltamisala",
+      "chapter_number": 1,
+      "statute_id": ""
+    },
+    {
+      "id": "6fa5b1cf-9605-41d3-abf8-ca8d42795a1c",
+      "node_type": "Chapter",
+      "publisher": "finlex",
+      "title": "Chapter 2",
+      "text": "2 luku Tavarat ja verolliset palvelut",
+      "chapter_number": 2,
+      "statute_id": ""
+    },
+    {
+      "id": "9989f3ba-7a0b-4405-abbb-1d5624fed60a",
+      "node_type": "Chapter",
+      "publisher": "finlex",
+      "title": "Chapter 3",
+      "text": "3 luku Myynti",
+      "chapter_number": 3,
+      "statute_id": ""
+    },
+    {
+      "id": "94e5bc3c-ebe7-44f6-889a-a657d6bd4af9",
+      "node_type": "Chapter",
+      "publisher": "finlex",
+      "title": "Chapter 4",
+      "text": "4 luku Verovelvollisuus",
+      "chapter_number": 4,
+      "statute_id": ""
+    },
+    {
+      "id": "d5464c27-9c1f-4209-988c-09fa41bb9a47",
+      "node_type": "Chapter",
+      "publisher": "finlex",
+      "title": "Chapter 5",
+      "text": "5 luku Veron peruste",
+      "chapter_number": 5,
+      "statute_id": ""
+    },
+    {
+      "id": "1b6ab50b-29a5-4192-b0ec-5d28bb10b3b3",
+      "node_type": "Chapter",
+      "publisher": "finlex",
+      "title": "Chapter 6",
+      "text": "6 luku Verokanta",
+      "chapter_number": 6,
+      "statute_id": ""
+    },
+    {
+      "id": "0389e496-d990-477a-b919-6e09fcdf01f5",
+      "node_type": "Chapter",
+      "publisher": "finlex",
+      "title": "Chapter 7",
+      "text": "7 luku Veroton myynti",
+      "chapter_number": 7,
+      "statute_id": ""
+    },
+    {
+      "id": "231f1610-0ba3-46b4-a17b-88c5fc10701e",
+      "node_type": "Chapter",
+      "publisher": "finlex",
+      "title": "Chapter 8",
+      "text": "8 luku Tavaran maahantuonti",
+      "chapter_number": 8,
+      "statute_id": ""
+    },
+    {
+      "id": "d188f11c-f569-45b1-b1e6-86a4feec8a7e",
+      "node_type": "Chapter",
+      "publisher": "finlex",
+      "title": "Chapter 9",
+      "text": "9 luku Vähennettävä vero",
+      "chapter_number": 9,
+      "statute_id": ""
+    },
+    {
+      "id": "59447e53-6b35-4610-a4c9-f9fca7d69174",
+      "node_type": "Chapter",
+      "publisher": "finlex",
+      "title": "Chapter 10",
+      "text": "10 luku",
+      "chapter_number": 10,
+      "statute_id": ""
+    },
+    {
+      "id": "cd98eb46-0246-49e0-bcb3-84cafb70a757",
+      "node_type": "Chapter",
+      "publisher": "finlex",
+      "title": "Chapter 11",
+      "text": "11 luku Ajallinen kohdistaminen",
+      "chapter_number": 11,
+      "statute_id": ""
+    },
+    {
+      "id": "62b1bd0b-d59c-4509-ad2b-53af7ea95b34",
+      "node_type": "Chapter",
+      "publisher": "finlex",
+      "title": "Chapter 12",
+      "text": "12 luku Veron maksaminen",
+      "chapter_number": 12,
+      "statute_id": ""
+    },
+    {
+      "id": "254f8ce5-3dbb-4545-a168-4d5724b5d686",
+      "node_type": "Chapter",
+      "publisher": "finlex",
+      "title": "Chapter 13",
+      "text": "13 luku Veroviranomaiset",
+      "chapter_number": 13,
+      "statute_id": ""
+    },
+    {
+      "id": "8ef98d0d-7612-43c4-b4d8-f5bbb69c3df9",
+      "node_type": "Chapter",
+      "publisher": "finlex",
+      "title": "Chapter 14",
+      "text": "14 luku Ilmoittamisvelvollisuus",
+      "chapter_number": 14,
+      "statute_id": ""
+    },
+    {
+      "id": "7cc70a0d-fd2f-4270-98a4-ed0b9b584840",
+      "node_type": "Chapter",
+      "publisher": "finlex",
+      "title": "Chapter 15",
+      "text": "15 luku Rekisteröinti",
+      "chapter_number": 15,
+      "statute_id": ""
+    },
+    {
+      "id": "311690cc-6465-4e93-896c-bc6655d7d106",
+      "node_type": "Chapter",
+      "publisher": "finlex",
+      "title": "Chapter 16",
+      "text": "16 luku Veron määrääminen",
+      "chapter_number": 16,
+      "statute_id": ""
+    },
+    {
+      "id": "db6e2ada-4ebf-458f-bc12-b9dba2b20571",
+      "node_type": "Chapter",
+      "publisher": "finlex",
+      "title": "Chapter 17",
+      "text": "17 luku Ohjaus ja ennakkotieto",
+      "chapter_number": 17,
+      "statute_id": ""
+    },
+    {
+      "id": "8f67e031-8c27-47cb-87cc-314bfa9dc220",
+      "node_type": "Chapter",
+      "publisher": "finlex",
+      "title": "Chapter 18",
+      "text": "18 luku Oikaisu ja muutoksenhaku",
+      "chapter_number": 18,
+      "statute_id": ""
+    },
+    {
+      "id": "1fc4285e-e1a0-4064-86b1-fec36247a3fb",
+      "node_type": "Chapter",
+      "publisher": "finlex",
+      "title": "Chapter 19",
+      "text": "19 luku Erityisiä säännöksiä",
+      "chapter_number": 19,
+      "statute_id": ""
+    },
+    {
+      "id": "e6b3cf47-ea5c-48ed-bff9-3d6f90372b60",
+      "node_type": "Chapter",
+      "publisher": "finlex",
+      "title": "Chapter 20",
+      "text": "20 luku Voimaantulo- ja siirtymäsäännökset",
+      "chapter_number": 20,
+      "statute_id": ""
+    }
+  ],
+  "sections": [
+    {
+      "id": "08e69a71-4ca7-48b3-b309-a7354ef2c720",
+      "node_type": "Section",
+      "publisher": "finlex",
+      "title": "1 §",
+      "text": "Liikevaihtoveroa suoritetaan valtiolle tavaroiden ja palvelujen Suomessa tapahtuvasta myynnistä sekä maahantuonnista sen mukaan kuin tässä laissa säädetään.",
+      "section_number": "1",
+      "chapter_number": 1,
+      "statute_id": ""
+    },
+    {
+      "id": "572d9af8-73d3-48e0-9768-b3718c97f521",
+      "node_type": "Section",
+      "publisher": "finlex",
+      "title": "2 §",
+      "text": "Liikevaihtoveroa suoritetaan:",
+      "section_number": "2",
+      "chapter_number": 1,
+      "statute_id": ""
+    },
+    {
+      "id": "eb22b351-d4fc-45b3-b69e-ff2edd81a019",
+      "node_type": "Section",
+      "publisher": "finlex",
+      "title": "3 §",
+      "text": "Tavaralla tarkoitetaan irtainta esinettä sekä sähköä, lämpöenergiaa ja muuta niihin verrattavaa energiahyödykettä. Tavaroita eivät ole:",
+      "section_number": "3",
+      "chapter_number": 2,
+      "statute_id": ""
+    },
+    {
+      "id": "2ac72812-0e33-47e8-a4a0-0279f4a3ab26",
+      "node_type": "Section",
+      "publisher": "finlex",
+      "title": "4 §",
+      "text": "Verollisia palveluja ovat: Telepalveluna pidetään puhelin-, lennätin-, datasiirto- ja muun sellaisen palvelun sekä muun teletoimintaan kuuluvan palvelun suorittamista. Telepalveluna ei pidetä yleisradiolähetystoiminnan harjoittamista. Elokuvan julkisen esittämisoikeuden luovuttamista ei pidetä 1 momentin 3 kohdassa tarkoitettuna palveluna.",
+      "section_number": "4",
+      "chapter_number": 2,
+      "statute_id": ""
+    },
+    {
+      "id": "46bbe7a5-d85b-4b8b-bcca-3f4f99816827",
+      "node_type": "Section",
+      "publisher": "finlex",
+      "title": "5 §",
+      "text": "Myyntinä pidetään tavaran tai palvelun vastikkeellista luovuttamista. Kun tavara myydään komissiokaupan muodossa, pidetään komitentin myyntinä tavaran toimittamista komissiovarastoon ja komissionäärin myyntinä tavaran myyntiä komissiovarastosta.",
+      "section_number": "5",
+      "chapter_number": 3,
+      "statute_id": ""
+    },
+    {
+      "id": "043745e8-be1e-4682-ab52-b6f17b891b2f",
+      "node_type": "Section",
+      "publisher": "finlex",
+      "title": "6 §",
+      "text": "Myyntinä pidetään tavaran ottamista omaan käyttöön. Tavara katsotaan otetuksi omaan käyttöön, kun: Kun verovelvollisuus päättyy, suoritetaan verovelvollisen haltuun jääneistä tavaroista veroa niin kuin tavaran ottamisesta omaan käyttöön on säädetty.",
+      "section_number": "6",
+      "chapter_number": 3,
+      "statute_id": ""
+    },
+    {
+      "id": "cbcfe9c7-def2-4e66-a21c-464ab1566d7b",
+      "node_type": "Section",
+      "publisher": "finlex",
+      "title": "7 §",
+      "text": "Myyntinä ei pidetä:",
+      "section_number": "7",
+      "chapter_number": 3,
+      "statute_id": ""
+    },
+    {
+      "id": "8d4155f0-d6fb-426f-bf51-3ef8cbb09528",
+      "node_type": "Section",
+      "publisher": "finlex",
+      "title": "8 §",
+      "text": "Verovelvollinen on jokainen, joka harjoittaa liiketoiminnan muodossa tavaran tai verollisen palvelun myyntiä. Muun telepalvelun kuin datasiirtopalvelun myynnistä on verovelvollinen kuitenkin vain Posti- ja telelaitos sekä muu, joka luvan nojalla harjoittaa teletoimintaa. Velvollisuudesta suorittaa veroa tavaran maahantuonnista säädetään 8 luvussa.",
+      "section_number": "8",
+      "chapter_number": 4,
+      "statute_id": ""
+    },
+    {
+      "id": "7febe777-e3cf-4777-9562-509abf262cd5",
+      "node_type": "Section",
+      "publisher": "finlex",
+      "title": "9 §",
+      "text": "Muualla kuin Suomessa asuva henkilö taikka ulkomainen yhteisö, laitos tai säätiö (ulkomaalainen) on verovelvollinen vain, jos 8§:ssä tarkoitettua toimintaa harjoitetaan Suomessa olevasta verotuslain 60§:ssä tarkoitetusta kiinteästä toimipaikasta. Jos ulkomaalainen harjoittaa toimintaansa pitämättä Suomessa kiinteää toimipaikkaa, hänellä on kuitenkin oikeus tulla 88§:ssä säädetyin edellytyksin hakemuksesta verovelvolliseksi. Jos ulkomaalainen ei ole Suomessa verovelvollinen, velvollinen suorittamaan veroa ulkomaalaisen tekemästä 4§:n 1 momentin 1 ja 2 kohdassa tarkoitetusta verollisesta palvelusta on se, jolle palvelu on luovutettu. Veroa ei kuitenkaan suoriteta, jos palvelu tulee sen vastaanottajalle vähennykseen oikeuttavaan käyttöön.",
+      "section_number": "9",
+      "chapter_number": 4,
+      "statute_id": ""
+    },
+    {
+      "id": "8f2ba628-41d2-43d9-a354-bbcc20c844f2",
+      "node_type": "Section",
+      "publisher": "finlex",
+      "title": "10 §",
+      "text": "Valtio ja sen laitokset eivät ole verovelvollisia. Verovelvollisia valtion laitoksia ovat kuitenkin Karttakeskus, Turun asennuspaja, valtion hankintakeskus, valtion maitotalouden tutkimuslaitoksen meijeri, valtion margariinitehdas, Valtion painatuskeskus, valtion pukutehdas, Valtion tietokonekeskus, valtion varmuusvarastorahasto ja Valtion viljavarasto. Posti- ja telelaitos on verovelvollinen telepalvelujen myynnistä sekä teletoiminnan harjoittamisen yhteydessä tapahtuvasta tavaran ja verollisen palvelun myynnistä. Suomen Pankki on verovelvollinen jalometallien myynnistä.",
+      "section_number": "10",
+      "chapter_number": 4,
+      "statute_id": ""
+    },
+    {
+      "id": "1f24ae24-3904-4d21-91fd-778bc861f830",
+      "node_type": "Section",
+      "publisher": "finlex",
+      "title": "11 §",
+      "text": "Kunta, maakunta ja kuntainliitto eivät ole verovelvollisia yhdyskunnan käyttöön valmistamiensa tavaroiden omasta käytöstä. Ne ovat kuitenkin verovelvollisia liiketoiminnan muodossa harjoitetun energiahyödykkeiden myynnin yhteydessä tapahtuvasta energiahyödykkeiden omasta käytöstä.",
+      "section_number": "11",
+      "chapter_number": 4,
+      "statute_id": ""
+    },
+    {
+      "id": "4d5c8be3-6774-4424-b307-87fc59b62154",
+      "node_type": "Section",
+      "publisher": "finlex",
+      "title": "12 §",
+      "text": "Luonnollinen henkilö tai luonnollisten henkilöiden muodostama 104§:n 2 momentissa tarkoitettu yhtymä ei ole verovelvollinen, jos tavaroiden ja verollisten palvelujen myyntien yhteismäärä ilman käyttöomaisuuden myyntihintoja ja veron osuutta (verollinen liikevaihto) tilikaudelta on enintään 75 000 markkaa. Jos tilikausi on lyhyempi tai pitempi kuin 12 kuukautta, 1 momentissa tarkoitettuna tilikauden verollisena liikevaihtona pidetään määrää, joka saadaan, kun 12 kuukautta lyhyemmän tai pitemmän tilikauden verollinen liikevaihto kerrotaan luvulla 12 ja jaetaan tilikauden kuukausien lukumäärällä.",
+      "section_number": "12",
+      "chapter_number": 4,
+      "statute_id": ""
+    },
+    {
+      "id": "3c8bd40a-72ea-4ebc-aeb1-e07947f56759",
+      "node_type": "Section",
+      "publisher": "finlex",
+      "title": "13 §",
+      "text": "Alkutuotannon harjoittaja ei ole verovelvollinen omasta alkutuotannosta saatujen tuotteiden myynnistä. Jos alkutuottaja myy alkutuotantonsa tuotteet jalostettuina tai muuhun kuin tavanomaiseen myyntikuntoon saatettuina taikka jos myynti tapahtuu alkutuotannosta erillisestä myyntipaikasta, hän on kuitenkin tästä jalostus- ja myyntitoiminnasta verovelvollinen. Myyntipaikkana ei pidetä ulkona sijaitsevaa yleistä myyntipaikkaa. Alkutuotantoa on maatalouden, metsätalouden, puutarhatalouden, metsästyksen, kalastuksen, kalankasvatuksen, ravustuksen, ravunkasvatuksen, turkistarhauksen ja poronhoidon harjoittaminen sekä sienien, metsämarjojen ja käpyjen poiminta tai muun tällaisen luonnontuotteen talteenottaminen. Alkutuotantona pidetään myös maatalouden tutkimuskeskuksen yhteydessä toimivien Jokioisten siemenkeskuksen, Siemenperunakeskuksen ja tervetaimiaseman harjoittamaa siemen- ja taimiaineiston viljelyttämistä.",
+      "section_number": "13",
+      "chapter_number": 4,
+      "statute_id": ""
+    },
+    {
+      "id": "4327c264-0d29-4b2c-9fb8-eaffa52bec14",
+      "node_type": "Section",
+      "publisher": "finlex",
+      "title": "14 §",
+      "text": "Alkutuottajien yksinomaan keskenään muodostamat, osakkaittensa elinkeinotoiminnassa tarvittavien koneiden ja laitteiden hankintaa helpottamaan perustetut sellaiset yhteisöt ja yhtymät, jotka myyvät vain osakkailleen ja vähäisessä määrin muille alkutuottajille 2 momentissa tarkoitettuja palveluja, eivät ole tästä toiminnasta verovelvollisia. Edellä 1 momentissa tarkoitettuja palveluja ovat:",
+      "section_number": "14",
+      "chapter_number": 4,
+      "statute_id": ""
+    },
+    {
+      "id": "a2e6ddbd-12f1-4071-afff-ad2a7f900b94",
+      "node_type": "Section",
+      "publisher": "finlex",
+      "title": "15 §",
+      "text": "Turkiseläinkasvattaja ei ole verovelvollinen pääasiallisesti omaa toimintaa varten hankituissa tiloissa ja sitä varten hankituilla koneilla ja laitteilla toiselle turkiseläinkasvattajalle suoritettavasta tämän kasvattamien tarhaturkiseläinten nahkomisesta. Turkiseläinkasvattajien yksinomaan keskenään muodostamat nahoituskeskukset, jotka vain osakkailleen tai jäsenilleen ja vain vähäisessä määrin muille turkiseläinkasvattajille suorittavat tarhaturkiseläinten nahkomista, eivät ole tästä toiminnasta verovelvollisia.",
+      "section_number": "15",
+      "chapter_number": 4,
+      "statute_id": ""
+    },
+    {
+      "id": "a1aaeeee-d433-4bf4-a1ca-b8b0b8a3a07c",
+      "node_type": "Section",
+      "publisher": "finlex",
+      "title": "16 §",
+      "text": "Tarjoilutoiminnan harjoittaja ei ole verovelvollinen työnantajan hallinnassa olevissa tiloissa tapahtuvasta työnantajan tai työnantajien yhdessä järjestämästä tarjoilusta henkilökunnalle, sen vieraille tai muille työnantajan tiloissa työskenteleville, jos hän ei ole muusta tarjoilutoiminnasta verovelvollinen. Tarjoilutoiminnan harjoittaja ei ole verovelvollinen oppilaitoksessa tapahtuvasta tarjoilusta oppilaitoksen tai oppilaitosten oppilaille, opettajille ja muulle henkilökunnalle, jos hän ei ole muusta tarjoilutoiminnasta verovelvollinen. Edellä 1 ja 2 momentissa tarkoitettu tarjoilutoiminnan harjoittaja ei ole verovelvollinen silloinkaan, kun myynti tapahtuu automaateista.",
+      "section_number": "16",
+      "chapter_number": 4,
+      "statute_id": ""
+    },
+    {
+      "id": "c0ecdf41-44ba-438f-813f-c662c01ea623",
+      "node_type": "Section",
+      "publisher": "finlex",
+      "title": "17 §",
+      "text": "Tulo- ja varallisuusverolaissa (1240/88) tarkoitettu yleishyödyllinen yhteisö on verovelvollinen vain, jos sen harjoittamasta toiminnasta saatua tuloa pidetään mainitun lain mukaan yhteisön veronalaisena liiketulona.",
+      "section_number": "17",
+      "chapter_number": 4,
+      "statute_id": ""
+    },
+    {
+      "id": "39ee0d21-6da7-426f-b021-3938df727256",
+      "node_type": "Section",
+      "publisher": "finlex",
+      "title": "18 §",
+      "text": "Sairaala, vanhainkoti, erityishuollon toimintayksikkö, vammaisille tarkoitettu laitos ja muu sellainen huoltolaitos tai huoltola ei ole verovelvollinen harjoittamastaan hoito-, askartelu- tai opetustarkoituksessa valmistettujen tuotteiden tai mainitussa tarkoituksessa suoritettujen 4§:n 1 momentin 1 ja 2 kohdassa tarkoitettujen työsuoritusten myynnistä.",
+      "section_number": "18",
+      "chapter_number": 4,
+      "statute_id": ""
+    },
+    {
+      "id": "3d222131-e255-4583-b9e4-7a2801de03aa",
+      "node_type": "Section",
+      "publisher": "finlex",
+      "title": "19 §",
+      "text": "Ammattioppilaitos ei ole verovelvollinen välittömästi ammattiopetuksen yhteydessä valmistettujen tavaroiden ja suoritettujen palvelujen myynnistä.",
+      "section_number": "19",
+      "chapter_number": 4,
+      "statute_id": ""
+    },
+    {
+      "id": "a4e5d0ce-455f-431e-9da5-9a5dd5fac705",
+      "node_type": "Section",
+      "publisher": "finlex",
+      "title": "20 §",
+      "text": "Henkilö, jonka työ- ja toimintakyky on alentunut vähintään 70 prosenttia, ei ole verovelvollinen toiminnasta, joka käsittää yksinomaan hänen valmistamiensa tavaroiden tai hänen suorittamiensa 4§:n 1 momentin 1 ja 2 kohdassa tarkoitettujen työsuoritusten myyntiä, jos hän ei käytä toiminnassaan apulaisina muita kuin aviopuolisoa tai 18 vuotta nuorempia jälkeläisiä ja enintään yhtä muuta henkilöä.",
+      "section_number": "20",
+      "chapter_number": 4,
+      "statute_id": ""
+    },
+    {
+      "id": "c0970db6-6aa4-41b1-b71e-9330724b267d",
+      "node_type": "Section",
+      "publisher": "finlex",
+      "title": "21 §",
+      "text": "Liiketoiminnan harjoittaja voi sen estämättä, mitä edellä 12 ja 17-20§:ssä on säädetty, hakemuksesta tulla verovelvolliseksi.",
+      "section_number": "21",
+      "chapter_number": 4,
+      "statute_id": ""
+    },
+    {
+      "id": "b32dcf2a-adba-4a2a-9f30-65243b448a25",
+      "node_type": "Section",
+      "publisher": "finlex",
+      "title": "22 §",
+      "text": "Myynnistä suoritettavan veron peruste on: Veron peruste ei sisällä veron osuutta. Veron peruste sisältää myös ne tavaran toimittamisesta aiheutuneet kustannukset, joilla myyjä on ostajaa veloittanut. Valtiovarainministeriö voi kuitenkin asettamillaan ehdoilla määrätä, että veron peruste ei sisällä sellaisten tavaroiden tai tavararyhmien erikseen veloitettavia kuljetuskustannuksia, joiden hinnasta nämä kustannukset muodostavat poikkeuksellisen suuren ja kuljetusmatkan tai -ajan pidentyessä kasvavan lisän. Veron perusteeseen ei lueta tietokonelaitteiston myynnin tai vuokrauksen yhteydessä veloitettavaa korvausta käyttäjän yksilöllisiä tarpeita varten suunnitellun tietokoneohjelman luovuttamisesta. Tavaran maahantuonnista suoritettavan veron perusteesta säädetään 8 luvussa.",
+      "section_number": "22",
+      "chapter_number": 5,
+      "statute_id": ""
+    },
+    {
+      "id": "7ae5170c-21b7-4c25-b63d-75412ee50cae",
+      "node_type": "Section",
+      "publisher": "finlex",
+      "title": "23 §",
+      "text": "Kun vain osittain vähennykseen oikeuttavaan käyttöön hankittu tai tällaiseen käyttöön itse valmistettu tavara myydään, veron peruste on se osa 22§:ssä tarkoitetusta määrästä, joka vastaa vähennykseen oikeuttavan käytön osuutta tavaran koko käyttötarkoituksesta. Jos vähennykseen oikeuttavan käytön osuus on vähintään 90 prosenttia, veron perusteeseen luetaan edellä mainittu määrä kokonaan. Jos vähennykseen oikeuttavan käytön osuus on enintään 10 prosenttia, mainittua määrää ei lueta veron perusteeseen miltään osin.",
+      "section_number": "23",
+      "chapter_number": 5,
+      "statute_id": ""
+    },
+    {
+      "id": "09588ec5-36ce-45c5-a72d-57f276d6ab55",
+      "node_type": "Section",
+      "publisher": "finlex",
+      "title": "24 §",
+      "text": "Kun tavara otetaan osittain omaan käyttöön, veron peruste on se osa 22§:ssä tarkoitetusta määrästä, joka vastaa oman käytön osuutta tavaran koko käyttötarkoituksesta. Jos oman käytön osuus on vähintään 90 prosenttia, veron perusteeseen luetaan edellä mainittu määrä kokonaan. Jos oman käytön osuus on enintään 10 prosenttia, mainittua määrää ei lueta veron perusteeseen miltään osin.",
+      "section_number": "24",
+      "chapter_number": 5,
+      "statute_id": ""
+    },
+    {
+      "id": "7c74d95a-e0c2-4395-a01f-97400f3dddcd",
+      "node_type": "Section",
+      "publisher": "finlex",
+      "title": "25 §",
+      "text": "Veron perusteesta saadaan vähentää: Edellä 1 momentin 2 kohdan perusteella vähennetystä luottotappiosta myöhemmin kertynyt määrä lisätään veron perusteeseen.",
+      "section_number": "25",
+      "chapter_number": 5,
+      "statute_id": ""
+    },
+    {
+      "id": "12ed1d7a-248f-45b1-b1a5-71e92fe0c85a",
+      "node_type": "Section",
+      "publisher": "finlex",
+      "title": "26 §",
+      "text": "Suoritettava vero on 21,2 prosenttia veron perusteesta.",
+      "section_number": "26",
+      "chapter_number": 6,
+      "statute_id": ""
+    },
+    {
+      "id": "89d8827c-9544-40e0-a7ea-b7327e2a2b1e",
+      "node_type": "Section",
+      "publisher": "finlex",
+      "title": "27 §",
+      "text": "Verotonta on seuraavien tavaroiden myynti (verottomat tavarat): Verotonta on 1 momentissa tarkoitetun tavaran vuokraaminen. Verotonta on 1 momentin 4-13 kohdassa mainittuihin tavaroihin kohdistuvan työsuorituksen myynti, jos tavara työsuorituksen jälkeenkin on 1 momentissa tarkoitettu veroton tavara. Verotonta on 1 momentin 14 kohdassa tarkoitettuihin verottomiin ilma- tai vesialuksiin sekä tällaisesta aluksesta korjattavaksi irrotettuihin tavaroihin kohdistuvan työsuorituksen sekä työhön käytetyn ja työn yhteydessä alukseen asennetun tavaran luovutus.",
+      "section_number": "27",
+      "chapter_number": 7,
+      "statute_id": ""
+    },
+    {
+      "id": "5192380a-1ccc-4bf6-85d6-6793676fc188",
+      "node_type": "Section",
+      "publisher": "finlex",
+      "title": "28 §",
+      "text": "Verotonta on seuraavien tavaroiden myynti, kun myyjänä on tavaran valmistaja: Verotonta on myös 1 momentissa tarkoitettujen lannoite- ja rehuaineiden valmistustyön myynti.",
+      "section_number": "28",
+      "chapter_number": 7,
+      "statute_id": ""
+    },
+    {
+      "id": "61033b82-d88f-4285-a0a7-69f6ba1b9cce",
+      "node_type": "Section",
+      "publisher": "finlex",
+      "title": "29 §",
+      "text": "Verotonta on lääkelaissa (395/87) tarkoitetun lääkkeen ja lääkelain 71§:n mukaisesti vain apteekista myytäväksi tarkoitetun lääkkeenomaisen tuotteen myynti (lääketuotteet), kun myyjänä on lääkelaissa tarkoitettu lääketehdas tai lääketukkukauppa.",
+      "section_number": "29",
+      "chapter_number": 7,
+      "statute_id": ""
+    },
+    {
+      "id": "ab055bb5-5782-48df-8cd2-213237e44557",
+      "node_type": "Section",
+      "publisher": "finlex",
+      "title": "30 §",
+      "text": "Verotonta on tavaran tai palvelun myynti ulkomaille. Myynniksi ulkomaille katsotaan muun ohessa: Telepalvelun myynniksi ulkomaille katsotaan televerkon käyttö saapuvassa liikenteessä ja läpikulkuliikenteessä. Verotonta on myös muiden tavaroiden kuin elintarvikkeiden myynti henkilölle, joka ei asu Suomessa, Norjassa, Ruotsissa tai Tanskassa, jos hänen selvitetään, sen mukaan kuin asetuksella säädetään, itse vieneen tavarat Suomesta niitä täällä käyttämättä.",
+      "section_number": "30",
+      "chapter_number": 7,
+      "statute_id": ""
+    },
+    {
+      "id": "ae3bc6b2-f5d1-4194-97de-0c2895a0ae2b",
+      "node_type": "Section",
+      "publisher": "finlex",
+      "title": "31 §",
+      "text": "Verotonta on myynti ulkomaiselle ostajalle, joka ei ole Suomessa verovelvollinen, jos tavara tai palvelu toimitetaan hänen toimeksiannostaan ja häntä veloittaen suoraan verovelvolliselle liikkeenharjoittajalle vähennykseen oikeuttavaan käyttöön.",
+      "section_number": "31",
+      "chapter_number": 7,
+      "statute_id": ""
+    },
+    {
+      "id": "6afd6ada-c90e-49a0-b4fe-554d8d2db378",
+      "node_type": "Section",
+      "publisher": "finlex",
+      "title": "32 §",
+      "text": "Veroton on korvaus, jonka ulkomaalainen, joka ei ole Suomessa verovelvollinen, antamansa takuu- tai muun vastaavan sitoumuksen nojalla suorittaa maahan tuotuun tavaraan tehdystä korjaustyöstä tai viallisen tilalle annetusta tavarasta.",
+      "section_number": "32",
+      "chapter_number": 7,
+      "statute_id": ""
+    },
+    {
+      "id": "f1149d49-cb4c-47d6-94b8-e2721f83212b",
+      "node_type": "Section",
+      "publisher": "finlex",
+      "title": "33 §",
+      "text": "Verotonta on liikkeen tai sen osan luovutuksen yhteydessä tapahtuva tavaroiden ja palvelujen myynti tai muu luovutus liiketoiminnan jatkajalle, joka ryhtyy käyttämään luovutettuja tavaroita ja palveluja vähennykseen oikeuttavaan tarkoitukseen. Verotonta on myös konkurssin yhteydessä tapahtuva tavaroiden ja palvelujen luovutus verovelvollisen liiketoimintaa jatkavalle konkurssipesälle 1 momentissa säädetyin edellytyksin. Jos luovutuksen saaja ottaa 1 tai 2 momentissa tarkoitetun tavaran muuhun kuin vähennykseen oikeuttavaan käyttöön, hänen on suoritettava veroa niin kuin tavaran ottamisesta omaan käyttöön on säädetty.",
+      "section_number": "33",
+      "chapter_number": 7,
+      "statute_id": ""
+    },
+    {
+      "id": "484a6bee-d189-4562-a175-89db3cacd241",
+      "node_type": "Section",
+      "publisher": "finlex",
+      "title": "34 §",
+      "text": "Velvollinen suorittamaan veroa tavaran maahantuonnista on maahantuoja. Veron suorittamisesta on vastuussa maahantuojan lisäksi se, joka tullilain (573/78) mukaan on vastuussa tullin suorittamisesta. Velvollinen suorittamaan veroa tullihuutokaupassa myydystä tavarasta on sen ostaja.",
+      "section_number": "34",
+      "chapter_number": 8,
+      "statute_id": ""
+    },
+    {
+      "id": "8b95d5db-e6d3-43c4-ac3d-22d1903de50f",
+      "node_type": "Section",
+      "publisher": "finlex",
+      "title": "35 §",
+      "text": "Maahantuonnista suoritettavan veron peruste vahvistetaan tullausarvolain (906/80) nojalla määräytyvän tullausarvon perusteella. Veron perustetta vahvistettaessa tullausarvoon lisätään tavarasta suoritettava tulli, tuontimaksu, valmistevero, tasausvero, auto- ja moottoripyörävero sekä varmuusvarastointimaksu. Veron perustetta vahvistettaessa ei sovelleta tullausarvolain 10 a§:ää. Jos maahan tuotu tavara on valmistettu ulkomailla kokonaan tai osaksi Suomesta viedyistä tarvikkeista, veron perustetta vahvistettaessa tullausarvoa alennetaan Suomesta verollisina vietyjen tarvikkeiden arvolla. Tullihuutokaupassa myydystä tavarasta suoritettavan veron peruste on tavaran huutokauppahinta.",
+      "section_number": "35",
+      "chapter_number": 8,
+      "statute_id": ""
+    },
+    {
+      "id": "1fc669c3-2196-4eb1-ad8d-492a0967a6ea",
+      "node_type": "Section",
+      "publisher": "finlex",
+      "title": "36 §",
+      "text": "Verotonta on seuraavien tavaroiden maahantuonti: Verotonta on myös sellaisen tavaran maahantuonti, joka lain, asetuksen tai muun määräyksen mukaan on tulliton, jollei laissa, asetuksessa tai määräyksessä ole toisin säädetty tai määrätty taikka jollei valtioneuvosto ole joidenkin tavaroiden tai tavararyhmien osalta, niiden saattamiseksi samaan asemaan kuin vastaavaan tarkoitukseen käytettävä kotimainen tavara, toisin määrännyt. Maahantuonti ei kuitenkaan ole verotonta silloin, kun tullittomuus perustuu tullitariffilakiin (660/87) tai tulleja koskevaan kansainväliseen sopimukseen, jollei mainitussa säädöksessä tai sopimuksessa ole toisin säädetty tai määrätty. Maahantuonti ei myöskään ole verotonta silloin, kun tullittomuus perustuu tulliverolain 19§:n vientietua tai 20§:n alusrakennusetua koskeviin säännöksiin.",
+      "section_number": "36",
+      "chapter_number": 8,
+      "statute_id": ""
+    },
+    {
+      "id": "5f038d94-4e5e-4303-9905-3bd8e3db5fd2",
+      "node_type": "Section",
+      "publisher": "finlex",
+      "title": "37 §",
+      "text": "Jos verollisena maahan tuodun jalosteen raaka-aineena on 49§:ssä tarkoitettua tavaraa, maahantuojalla on oikeus saada veronpalautus, jonka suuruus on 17,5 prosenttia raaka-aineen osalta suoritettavan veron perusteesta. Jos verollisena maahan tuodun jalosteen raaka-aineena on 48§:ssä tarkoitettuja tavaroita, maahantuojalla on oikeus saada 1 momentissa tarkoitettu veronpalautus lihasta 1,35-kertaisena ja maidosta 1,6-kertaisena. Valtiovarainministeriö vahvistaa perusteet, joiden mukaan veronpalautus eri jalosteista lasketaan.",
+      "section_number": "37",
+      "chapter_number": 8,
+      "statute_id": ""
+    },
+    {
+      "id": "f8444194-de5e-4a07-8b6a-33ab02c4e06b",
+      "node_type": "Section",
+      "publisher": "finlex",
+      "title": "38 §",
+      "text": "Jos maasta viedään sellaisenaan tai muuhun tavaraan sisältyvänä tavaraa, josta on maksettu 37§:ssä tarkoitettu veronpalautus, noudatetaan soveltuvin osin, mitä jäljempänä 55§:ssä säädetään vähennetyn laskennallisen veron palauttamisesta.",
+      "section_number": "38",
+      "chapter_number": 8,
+      "statute_id": ""
+    },
+    {
+      "id": "f4fedd83-1cbf-41cd-90a8-a0765f99e268",
+      "node_type": "Section",
+      "publisher": "finlex",
+      "title": "39 §",
+      "text": "Jos tavaran maahantuonnista suoritettava vero palautetaan maahantuojalle tulliverolain 23§:n nojalla, tulliviranomainen perii maahantuojalta 37§:ssä tarkoitetun veronpalautuksen takaisin.",
+      "section_number": "39",
+      "chapter_number": 8,
+      "statute_id": ""
+    },
+    {
+      "id": "632d6990-4009-4d6f-a786-de13a449aa00",
+      "node_type": "Section",
+      "publisher": "finlex",
+      "title": "40 §",
+      "text": "Tavaran maahantuonnista suoritettavasta verosta, tavaran viennin tai tuonnin yhteydessä tapahtuvasta veronpalautuksesta ja muutoinkin tavaran maahantuonnista on, ellei tässä laissa toisin säädetä, soveltuvin osin voimassa, mitä tullista on erikseen säädetty. Liikevaihtoveroa ei palauteta tullinoikaisuasiaan, valitukseen, erityispalautushakemukseen tai osittaispalautushakemukseen annettavalla päätöksellä, jos maahan tuodusta tavarasta suoritettu vero on tämän lain 9 luvun säännösten nojalla vähennetty.",
+      "section_number": "40",
+      "chapter_number": 8,
+      "statute_id": ""
+    },
+    {
+      "id": "e5e73521-81ad-43bc-8174-3ef663fbd4fa",
+      "node_type": "Section",
+      "publisher": "finlex",
+      "title": "41 §",
+      "text": "Verovelvollinen saa vähentää, ellei jäljempänä toisin säädetä, verollista liiketoimintaa varten: Verollisella liiketoiminnalla tarkoitetaan toimintaa, joka tämän lain mukaan aiheuttaa verovelvollisuuden. Tavara tai palvelu on hankittu verollista liiketoimintaa varten, kun tavara on tarkoitettu vaihto- tai käyttöomaisuudeksi taikka tavara tai palvelu on muutoin tarkoitettu käytettäväksi tai kulutettavaksi tässä toiminnassa.",
+      "section_number": "41",
+      "chapter_number": 9,
+      "statute_id": ""
+    },
+    {
+      "id": "b3848fca-7a77-416a-a218-538416dba18b",
+      "node_type": "Section",
+      "publisher": "finlex",
+      "title": "42 §",
+      "text": "Edellä 41§:ssä tarkoitettua vähennystä ei saa tehdä, kun hankinta koskee seuraavia tavaroita ja palveluja:",
+      "section_number": "42",
+      "chapter_number": 9,
+      "statute_id": ""
+    },
+    {
+      "id": "b6dd7ab8-1778-4221-b88b-b317fe3ea176",
+      "node_type": "Section",
+      "publisher": "finlex",
+      "title": "43 §",
+      "text": "Sen estämättä, mitä 42§:n 1-4 kohdassa on säädetty, 41§:ssä tarkoitettu vähennys saadaan tehdä, kun hankinta koskee tavaraa, jota käytetään välittömästi: Vähennys saadaan tehdä myös vuokra- tai muulla käyttöoikeudella hankitusta 1 momentissa tarkoitetusta tavarasta samoin kuin 1 momentissa tarkoitettuun tavaraan kohdistuvasta verollisesta työsuorituksesta. Vähennys saadaan tehdä myös silloin, kun hankinta koskee tavaraa, joka luovutetaan korvauksetta alihankkijalle käytettäväksi välittömästi tavaran luovuttajalle tapahtuvassa 1 momentissa tarkoitetussa toiminnassa.",
+      "section_number": "43",
+      "chapter_number": 9,
+      "statute_id": ""
+    },
+    {
+      "id": "599e7a4a-0457-4ba6-b6b7-f8e9a8197598",
+      "node_type": "Section",
+      "publisher": "finlex",
+      "title": "44 §",
+      "text": "Verovelvollinen saa vähentää, 41§:n ja 42§:n 5 kohdan säännöksistä poiketen, rakennustyön suorittajalta tai rakennuttajalta ostamastaan tai itse rakentamastaan verollisessa liiketoiminnassa käyttämästään uudesta teollisuusrakennuksesta laskennallisen veron, jonka suuruus on 13,1 prosenttia rakennuksen hankintamenosta (teollisuusrakennusvähennys). Mitä 1 momentissa on säädetty uudesta teollisuusrakennuksesta, sovelletaan myös laajennus-, muutos-, uudistus- ja muuhun vastaavaan perusparannustyöhön ja työhön käytettyyn tavaraan, jos työ kohdistuu teollisuusrakennukseen tai aiheutuu muussa käytössä olleen rakennuksen tai rakennelman muuttamisesta teollisuusrakennukseksi. Vähennystä laskettaessa teollisuusrakennuksen hankintamenona pidetään rakennuksen hankinnasta ja rakentamisesta tai perusparannuksesta johtuneiden välittömien menojen määrää. Rakennuttajalta ostetun rakennuksen hankintamenona pidetään rakennuttajalle aiheutunutta hankintamenoa. Jos rakennuttajalle aiheutunutta hankintamenoa ei voida luotettavasti selvittää, hankintamenoksi katsotaan 80 prosenttia rakennuksesta maksetusta hinnasta. Teollisuusrakennuksena pidetään rakennusta tai pysyvää rakennelmaa, jota käytetään: Mitä edellä on säädetty teollisuusrakennuksesta tehtävästä vähennyksestä, sovelletaan myös kaukolämpöverkkoon.",
+      "section_number": "44",
+      "chapter_number": 9,
+      "statute_id": ""
+    },
+    {
+      "id": "3652f95d-2b87-4047-ab44-0d94e71b55f8",
+      "node_type": "Section",
+      "publisher": "finlex",
+      "title": "45 §",
+      "text": "Teollisuusrakennuksesta, jonka verovelvollinen on hankkinut tai rakentanut vain osittain vähennykseen oikeuttavaan käyttöön, saadaan 44§:ssä tarkoitettu vähennys tehdä vain siltä osin kuin rakennusta käytetään tähän tarkoitukseen. Jos vähennykseen oikeuttava käyttö on vähintään 90 prosenttia, vähennys tehdään täysimääräisenä. Jos vähennykseen oikeuttava käyttö on enintään 10 prosenttia, vähennystä ei tehdä miltään osin.",
+      "section_number": "45",
+      "chapter_number": 9,
+      "statute_id": ""
+    },
+    {
+      "id": "98a9bd03-bb56-46d7-8b64-e67200def55f",
+      "node_type": "Section",
+      "publisher": "finlex",
+      "title": "46 §",
+      "text": "Sen estämättä, mitä 41§:n 2 momentissa ja 42§:ssä on säädetty, pidetään verollista liiketoimintaa varten hankittuina sellaisia tavaroita ja verollisia palveluja, jotka verovelvollinen vie maasta niitä Suomessa käyttämättä.",
+      "section_number": "46",
+      "chapter_number": 9,
+      "statute_id": ""
+    },
+    {
+      "id": "0ad4fa16-3cb6-4a62-9257-9071d93afe17",
+      "node_type": "Section",
+      "publisher": "finlex",
+      "title": "47 §",
+      "text": "Verovelvollinen saa vähentää, ellei 42§:ssä toisin säädetä, seuraavista verollista liiketoimintaa varten verottomina hankkimistaan tavaroista laskennallisen veron, jonka suuruus on 17,5 prosenttia tavaran ostohinnasta tai maahan tuodun tavaran 35§:ssä tarkoitetusta veron perusteesta: Vähennystä laskettaessa maidon ostohintana pidetään toimitusajankohdan tavoitehintaa ja 1 momentin 2 kohdassa tarkoitetun eläimen ostohintana hintaa alkutuotantopaikalla. Jos verovelvollinen on alkutuotannostaan siirtänyt 49§:ssä tarkoitetun tavaran vähennykseen oikeuttavaan käyttöön tai jos verovelvollinen on edellä 1 momentin 4 kohdassa tarkoitetun tavaran alkutuottaja, hän saa tehdä 1 momentissa tarkoitetun vähennyksen tavaran käypää ostohintaa vastaavan arvon perusteella.",
+      "section_number": "47",
+      "chapter_number": 9,
+      "statute_id": ""
+    },
+    {
+      "id": "8a93f062-01a2-4f27-bfa2-20385346a609",
+      "node_type": "Section",
+      "publisher": "finlex",
+      "title": "48 §",
+      "text": "Edellä 47§:ssä tarkoitettu vähennys tehdään lihasta ruhoina, ruhon osina tai luuttomaksi leikattuna sekä 47§:n 1 momentin 2 kohdassa tarkoitetuista teuraseläimistä 1,35-kertaisena. Maidosta tehdään 47§:ssä tarkoitettu vähennys 1,6-kertaisena.",
+      "section_number": "48",
+      "chapter_number": 9,
+      "statute_id": ""
+    },
+    {
+      "id": "7c5a0c10-2e95-4eb8-bc1a-4572c0ca0d11",
+      "node_type": "Section",
+      "publisher": "finlex",
+      "title": "49 §",
+      "text": "Edellä 47§:n 1 momentin 1 kohdassa tarkoitettuja jalostamattomia alkutuotteita ovat:",
+      "section_number": "49",
+      "chapter_number": 9,
+      "statute_id": ""
+    },
+    {
+      "id": "82b4da91-9661-4ca6-95aa-af22d39ff619",
+      "node_type": "Section",
+      "publisher": "finlex",
+      "title": "50 §",
+      "text": "Verovelvollinen apteekkari saa tehdä 47§:ssä tarkoitetun laskennallisen vähennyksen lääketehtaalta tai lääketukkukaupalta ostetusta taikka itse maahan tuodusta 29§:ssä tarkoitetusta lääketuotteesta.",
+      "section_number": "50",
+      "chapter_number": 9,
+      "statute_id": ""
+    },
+    {
+      "id": "b5a1509e-7120-4c40-9493-44909c4a7fa3",
+      "node_type": "Section",
+      "publisher": "finlex",
+      "title": "51 §",
+      "text": "Verovelvollinen saa tehdä 41§:ssä tarkoitetun vähennyksen ostetusta energiahyödykkeestä silloinkin, kun veloitus sisältyy rakennuksen tai siinä olevan tilan vuokraan tai muuhun vastikkeeseen. Vähentää saadaan kuitenkin vain rakennuksen omistajan tai haltijan ostamasta energiahyödykkeestä tai polttoaineesta suoritettavaa veroa vastaava määrä.",
+      "section_number": "51",
+      "chapter_number": 9,
+      "statute_id": ""
+    },
+    {
+      "id": "b72aa829-743b-4824-9cf8-1eff92da76e0",
+      "node_type": "Section",
+      "publisher": "finlex",
+      "title": "52 §",
+      "text": "Kun verovelvollinen ottaa vähennykseen oikeuttavaan käyttöön omassa käytössä olleen muun kuin 27§:ssä tarkoitetun verottoman tavaran, hän saa vähentää laskennallisen veron, jonka suuruus on 17,5 prosenttia tavaran alkuperäisestä ostohinnasta tai sitä vastaavasta arvosta. Jos tavaran todennäköinen luovutushinta on sen alkuperäistä ostohintaa tai sitä vastaavaa arvoa alempi, vähennettävä vero lasketaan tavaran todennäköisen luovutushinnan perusteella. Vähennys tehdään 47§:ssä tarkoitetusta lihasta ja maidosta korotettuna siten kuin 48§:ssä on säädetty. Verollisen liiketoiminnan alkaessa verovelvollinen saa tehdä hallussaan olevasta vähennykseen oikeuttavaan tarkoitukseen käytettävästä tavarasta 1 momentissa tarkoitetun vähennyksen.",
+      "section_number": "52",
+      "chapter_number": 9,
+      "statute_id": ""
+    },
+    {
+      "id": "046fd378-30f4-49bb-b089-cf1ce02582b8",
+      "node_type": "Section",
+      "publisher": "finlex",
+      "title": "53 §",
+      "text": "Tavarasta tai palvelusta, jonka verovelvollinen on hankkinut tai ottanut vain osittain vähennykseen oikeuttavaan käyttöön, saadaan tässä luvussa tarkoitettu vähennys tehdä vain siltä osin kuin tavaraa tai palvelua käytetään tähän tarkoitukseen. Jos vähennykseen oikeuttava käyttö on vähintään 90 prosenttia, vähennys tehdään täysimääräisenä. Jos vähennykseen oikeuttava käyttö on enintään 10 prosenttia, vähennystä ei tehdä miltään osin.",
+      "section_number": "53",
+      "chapter_number": 9,
+      "statute_id": ""
+    },
+    {
+      "id": "114910ef-7d84-41ea-acca-360d488ea8c7",
+      "node_type": "Section",
+      "publisher": "finlex",
+      "title": "54 §",
+      "text": "Jos myyjä hyvittää ostajaa 25§:n 1 momentin 1 kohdassa tarkoitetuilla määrillä, vähennettyä veroa on vastaavasti oikaistava.",
+      "section_number": "54",
+      "chapter_number": 9,
+      "statute_id": ""
+    },
+    {
+      "id": "3d8b4227-633a-479c-aad6-940592e999fb",
+      "node_type": "Section",
+      "publisher": "finlex",
+      "title": "55 §",
+      "text": "Jos tavaraa, jonka hankinnan yhteydessä on voitu tehdä 47§:n 1 momentin 1-3 kohdassa taikka 48 tai 50§:ssä tarkoitettu vähennys, on sellaisenaan tai muuhun tavaraan sisältyvänä viety maasta, maastaviejän on veron tilittämisen yhteydessä palautettava vähennetty laskennallinen vero. Veroa ei kuitenkaan palauteta, kun:",
+      "section_number": "55",
+      "chapter_number": 10,
+      "statute_id": ""
+    },
+    {
+      "id": "2cea1b1a-dd8c-40bd-9f26-a8641aa62bb1",
+      "node_type": "Section",
+      "publisher": "finlex",
+      "title": "56 §",
+      "text": "Jos tavaraa, jonka hankinnan yhteydessä on voitu tehdä 47§:n 1 momentin 1-3 kohdassa taikka 48 tai 50§:ssä tarkoitettu vähennys, on käytetty sellaisen 28§:ssä tarkoitetun lannoite- tai rehuaineen valmistamiseen, jonka valmistaja on myynyt tai ottanut omaan käyttöön, valmistajan on palautettava vähennetty laskennallinen vero.",
+      "section_number": "56",
+      "chapter_number": 10,
+      "statute_id": ""
+    },
+    {
+      "id": "9c9e4a92-1fee-493f-ba19-5ba8179a50ea",
+      "node_type": "Section",
+      "publisher": "finlex",
+      "title": "57 §",
+      "text": "Valtiovarainministeriö voi määrättyjen tavaroiden tai tavararyhmien kohdalta vahvistaa ne perusteet, joiden mukaan palautettavan vähennetyn laskennallisen veron määrä lasketaan, sekä määrätä siitä, milloin vähennetyn laskennallisen veron määrä on niin vähäinen, ettei sitä ole palautettava.",
+      "section_number": "57",
+      "chapter_number": 10,
+      "statute_id": ""
+    },
+    {
+      "id": "97d9f771-f3de-4859-87ba-6d4b4c4b1904",
+      "node_type": "Section",
+      "publisher": "finlex",
+      "title": "58 §",
+      "text": "Myynnistä suoritetaan vero siltä kalenterikuukaudelta, jonka aikana:",
+      "section_number": "58",
+      "chapter_number": 11,
+      "statute_id": ""
+    },
+    {
+      "id": "15e7b671-e518-41df-9e02-a43ef8e6f0b3",
+      "node_type": "Section",
+      "publisher": "finlex",
+      "title": "59 §",
+      "text": "Tilikauden aikana vero saadaan suorittaa tilikaudelle 58§:n mukaan kuuluvasta myynnistä siltä kalenterikuukaudelta, jonka aikana ostajaa on toimitetusta tavarasta tai suoritetusta palvelusta veloitettu. Jos veloitusta ei käytetä, vero saadaan suorittaa siltä kalenterikuukaudelta, jonka aikana myyntihinta tai sen osa on toimitetusta tavarasta tai suoritetusta palvelusta kertynyt. Tilikauden päättyessä veloittamatta tai, jos veloitusta ei käytetä, kertymättä olevista 1 momentissa tarkoitetuista myyntihinnoista vero suoritetaan tilikauden viimeiseltä kalenterikuukaudelta. Verovelvollisuuden päättyessä vero suoritetaan toiminnan viimeiseltä kalenterikuukaudelta.",
+      "section_number": "59",
+      "chapter_number": 11,
+      "statute_id": ""
+    },
+    {
+      "id": "c897116b-eda9-48b8-8a43-65ff672b9709",
+      "node_type": "Section",
+      "publisher": "finlex",
+      "title": "60 §",
+      "text": "Verovelvollinen, jolla kirjanpitolain (655/73) mukaan on oikeus pitää maksuperusteista kirjanpitoa, saa suorittaa myynnistä veron siltä kalenterikuukaudelta, jonka aikana myyntihinta tai sen osa on kertynyt. Verovelvollisuuden päättyessä vero suoritetaan kertymättä olevista 1 momentissa tarkoitetuista myyntihinnoista toiminnan viimeiseltä kalenterikuukaudelta.",
+      "section_number": "60",
+      "chapter_number": 11,
+      "statute_id": ""
+    },
+    {
+      "id": "2d712e21-8800-4c7d-9fe9-1ad30ad7c54a",
+      "node_type": "Section",
+      "publisher": "finlex",
+      "title": "61 §",
+      "text": "Edellä 25§:ssä tarkoitettu oikaisuerä ja luottotappio vähennetään siltä kalenterikuukaudelta, jolle se on hyvän kirjanpitotavan mukaan kirjanpidossa kirjattava. Verovelvollisuuden päättyessä 1 momentissa mainitut erät vähennetään toiminnan viimeiseltä kalenterikuukaudelta.",
+      "section_number": "61",
+      "chapter_number": 11,
+      "statute_id": ""
+    },
+    {
+      "id": "36a2639f-932f-4ad5-a3bb-60dba822dd7a",
+      "node_type": "Section",
+      "publisher": "finlex",
+      "title": "62 §",
+      "text": "Edellä 10 luvussa tarkoitettu vähennetty laskennallinen vero palautetaan siltä kalenterikuukaudelta, jonka aikana 55§:ssä tarkoitettu tavara on viety maasta taikka 56§:ssä tarkoitettu lannoite- tai rehuaine on myyty tai otettu omaan käyttöön.",
+      "section_number": "62",
+      "chapter_number": 11,
+      "statute_id": ""
+    },
+    {
+      "id": "dd05279c-1ff5-415b-bb48-6e8117efb5e9",
+      "node_type": "Section",
+      "publisher": "finlex",
+      "title": "63 §",
+      "text": "Edellä 9 luvussa tarkoitetut vähennykset tehdään siltä kalenterikuukaudelta, jonka aikana:",
+      "section_number": "63",
+      "chapter_number": 11,
+      "statute_id": ""
+    },
+    {
+      "id": "d45d9d68-3491-40ff-9aa5-45a2bae39f64",
+      "node_type": "Section",
+      "publisher": "finlex",
+      "title": "64 §",
+      "text": "Edellä 44§:ssä tarkoitettu teollisuusrakennusvähennys tehdään siltä kalenterikuukaudelta, jonka aikana:",
+      "section_number": "64",
+      "chapter_number": 11,
+      "statute_id": ""
+    },
+    {
+      "id": "f1c1847d-5347-4dc4-83fd-55651061de69",
+      "node_type": "Section",
+      "publisher": "finlex",
+      "title": "65 §",
+      "text": "Tilikauden aikana saadaan tilikaudelle 63§:n 1 kohdan mukaan kuuluva vähennys tehdä siltä kalenterikuukaudelta, jonka aikana vähennykseen oikeutettua on toimitetusta tavarasta tai suoritetusta palvelusta veloitettu. Jos veloitusta ei käytetä, vähennys saadaan tehdä siltä kalenterikuukaudelta, jonka aikana ostohinta tai sen osa on toimitetusta tavarasta tai suoritetusta palvelusta maksettu. Tilikauden päättyessä veloittamatta tai, jos veloitusta ei käytetä, maksamatta olevista 1 momentissa tarkoitetuista ostoista vähennys tehdään tilikauden viimeiseltä kalenterikuukaudelta. Verovelvollisuuden päättyessä vähennys tehdään toiminnan viimeiseltä kalenterikuukaudelta.",
+      "section_number": "65",
+      "chapter_number": 11,
+      "statute_id": ""
+    },
+    {
+      "id": "83b5d2d3-2cf6-4bed-9f8a-e7d67643e4e6",
+      "node_type": "Section",
+      "publisher": "finlex",
+      "title": "66 §",
+      "text": "Verovelvollinen, jolla kirjanpitolain mukaan on oikeus pitää maksuperusteista kirjanpitoa, saa tehdä vähennyksen siltä kalenterikuukaudelta, jonka aikana ostohinta tai sen osa on maksettu. Verovelvollisuuden päättyessä vähennys tehdään maksamatta olevista 1 momentissa tarkoitetuista ostoista toiminnan viimeiseltä kalenterikuukaudelta.",
+      "section_number": "66",
+      "chapter_number": 11,
+      "statute_id": ""
+    },
+    {
+      "id": "30233bb1-45f8-4da9-8160-69ece6ac6d52",
+      "node_type": "Section",
+      "publisher": "finlex",
+      "title": "67 §",
+      "text": "Edellä 54§:ssä tarkoitettu oikaisu sekä 25§:n 2 momentissa tarkoitettu kertyneestä luottotappiosta tehtävä lisäys otetaan huomioon siltä kalenterikuukaudelta, jolle se on hyvän kirjanpitotavan mukaan kirjanpidossa kirjattava. Verovelvollisuuden päätyttyä 1 momentissa mainitut erät otetaan huomioon toiminnan viimeiseltä kalenterikuukaudelta.",
+      "section_number": "67",
+      "chapter_number": 11,
+      "statute_id": ""
+    },
+    {
+      "id": "b3f5db9d-357a-4afb-a380-f8865fa4d521",
+      "node_type": "Section",
+      "publisher": "finlex",
+      "title": "68 §",
+      "text": "Kalenterikuukaudelta 11 luvun mukaan suoritettavien verojen ja vähennettävien verojen erotus (tilitettävä vero) maksetaan valtiolle viimeistään kalenterikuukautta seuraavan toisen kuukauden 25 päivänä. Jos mainittu päivä on pyhäpäivä, arkilauantai tai juhannusaatto, veron saa maksaa ensimmäisenä arkipäivänä sen jälkeen.",
+      "section_number": "68",
+      "chapter_number": 12,
+      "statute_id": ""
+    },
+    {
+      "id": "c65ad803-29ba-421f-a4f0-5a91f3fbaf5a",
+      "node_type": "Section",
+      "publisher": "finlex",
+      "title": "69 §",
+      "text": "Edellä 68§:ssä säädetyn määräajan jälkeen maksettu vero katsotaan maksetuksi siltä kalenterikuukaudelta, jolta verovelvollinen on kuukausi-ilmoituksessaan ilmoittanut sen maksaneensa tai jolta hänen on muutoin katsottava sen maksaneen. Tilikausi-ilmoituksen antamiselle säädetyn määräajan jälkeen maksettu vero käytetään maksuunpannun maksamatta olevan veron, veronkorotuksen ja veronlisäyksen sekä perittävän viivästyskoron ja jäämämaksun suoritukseksi.",
+      "section_number": "69",
+      "chapter_number": 12,
+      "statute_id": ""
+    },
+    {
+      "id": "6af72977-f926-4c52-8625-7d79f3aed58b",
+      "node_type": "Section",
+      "publisher": "finlex",
+      "title": "70 §",
+      "text": "Jos 9 luvussa tai 25§:ssä tarkoitettuja vähennyksiä ei voida tehdä täysimääräisinä kalenterikuukauden tilitettävää veroa laskettaessa, vähentämättä jäänyt määrä saadaan vähentää tilikauden seuraavilta kalenterikuukausilta. Jos vähennystä ei näinkään voida tehdä kokonaan, verovelvolliselle maksetaan vähentämättä jäänyttä veroa vastaava määrä. Jos tilikaudelta vähennettävät verot ovat todennäköisesti suuremmat kuin myynneistä suoritettavat verot, verovelvolliselle maksetaan 1 momentin säännöksistä poiketen tilikauden aikana kalenterikuukausittain kalenterikuukaudelta vähentämättä jäänyt vero. Verovelvolliselle voidaan erityisistä syistä tilikauden aikana maksaa vero, jonka hän 1 momentin mukaan todennäköisesti saa takaisin, kun tilikaudelta maksetut verot sekä todennäköiset myynneistä suoritettavat verot ja vähennettävät verot otetaan huomioon. Edellä 2 ja 3 momentissa tarkoitettu vero maksetaan verovelvolliselle esitetyn selvityksen perusteella hakemuksesta. Hakemus tehdään lääninverovirastolle vahvistettua lomaketta käyttäen. Verohallitus antaa tarkemmat määräykset siitä, milloin verovelvolliselle hakemuksesta maksettavan veron määrä on niin vähäinen, ettei sitä palauteta.",
+      "section_number": "70",
+      "chapter_number": 12,
+      "statute_id": ""
+    },
+    {
+      "id": "4b3ef3e2-0b2d-49b0-abf4-a523b642a37d",
+      "node_type": "Section",
+      "publisher": "finlex",
+      "title": "71 §",
+      "text": "Verotuksen yleinen valvonta kuuluu verohallitukselle. Lääninveroviraston tehtävänä on veron määrääminen, veron suorittamisen ja maksamisen valvonta sekä veronkanto.",
+      "section_number": "71",
+      "chapter_number": 13,
+      "statute_id": ""
+    },
+    {
+      "id": "d646d50e-d236-4add-97fd-d3a0e78c6e21",
+      "node_type": "Section",
+      "publisher": "finlex",
+      "title": "72 §",
+      "text": "Verovelvollista koskevat asiat kuuluvat sen lääninveroviraston käsiteltäviin, jonka toimialueella verovelvollisen kotikunta on. Kotikuntana pidetään kuntaa, jossa verovelvolliselle verotuslain (482/58) mukaan on määrättävä valtionvero.",
+      "section_number": "72",
+      "chapter_number": 13,
+      "statute_id": ""
+    },
+    {
+      "id": "da2eaa28-de1c-41d3-ae45-e231282d65da",
+      "node_type": "Section",
+      "publisher": "finlex",
+      "title": "73 §",
+      "text": "Verohallitus määrää yhden tai useamman lääninveroviraston virkamiehen toimimaan valtion etua valvovana valtionasiamiehenä.",
+      "section_number": "73",
+      "chapter_number": 13,
+      "statute_id": ""
+    },
+    {
+      "id": "6c1cbb3e-2451-420a-86d9-5d2894c781d0",
+      "node_type": "Section",
+      "publisher": "finlex",
+      "title": "74 §",
+      "text": "Maahan tuotujen tavaroiden verotuksesta ja sen valvonnasta vastaa tullilaitos sen mukaan kuin siitä erikseen on säädetty.",
+      "section_number": "74",
+      "chapter_number": 13,
+      "statute_id": ""
+    },
+    {
+      "id": "faa18fe1-2e42-41ea-9cfc-3a28d7612fa0",
+      "node_type": "Section",
+      "publisher": "finlex",
+      "title": "75 §",
+      "text": "Sen, joka ryhtyy harjoittamaan verollista liiketoimintaa, on tehtävä ennen toiminnan aloittamista kirjallinen ilmoitus lääninverovirastolle tai verotoimistolle. Verollisen liiketoiminnan päättymisestä on viipymättä tehtävä ilmoitus lääninverovirastolle tai verotoimistolle.",
+      "section_number": "75",
+      "chapter_number": 14,
+      "statute_id": ""
+    },
+    {
+      "id": "caaebe14-8608-464d-8974-5b04f76b2b13",
+      "node_type": "Section",
+      "publisher": "finlex",
+      "title": "76 §",
+      "text": "Verovelvollisen on annettava kultakin kalenterikuukaudelta kuukausi-ilmoitus viimeistään kalenterikuukautta seuraavan toisen kuukauden 25 päivänä. Ilmoitus siitä, että veroa ei ole maksettava, voidaan antaa etukäteen usealta kuukaudelta. Verovelvollisen on kultakin tilikaudelta annettava tilikausi-ilmoitus kolmen kuukauden kuluessa tilikauden päättymisestä. Lääninverovirasto voi erityisistä syistä verovelvollisen pyynnöstä pidentää tilikausi-ilmoituksen jättämiselle säädettyä aikaa enintään kahdella kuukaudella.",
+      "section_number": "76",
+      "chapter_number": 14,
+      "statute_id": ""
+    },
+    {
+      "id": "faf5baf2-e46a-4bd6-b5bc-33d1b8fa95e5",
+      "node_type": "Section",
+      "publisher": "finlex",
+      "title": "77 §",
+      "text": "Kuukausi- ja tilikausi-ilmoituksessa annettavista tiedoista säädetään asetuksella. Tiedot annetaan verohallituksen vahvistamilla lomakkeilla. Kuukausi- ja tilikausi-ilmoituksessa saadaan verojen raha-arvot ilmoittaa täysin markoin siten, että markkojen yli menevät pennit jätetään ottamatta lukuun. Täysin markoin ilmoitettavia määriä laskettaessa otetaan suoritettavat ja vähennettävät verot sekä muut yksittäiset erät kuitenkin lukuun pennin tarkkuudella.",
+      "section_number": "77",
+      "chapter_number": 14,
+      "statute_id": ""
+    },
+    {
+      "id": "80db90c7-3bab-4499-b483-8b13d91dc49f",
+      "node_type": "Section",
+      "publisher": "finlex",
+      "title": "78 §",
+      "text": "Kuukausi-ilmoitus ja tilikausi-ilmoitus annetaan 72§:ssä tarkoitetulle lääninverovirastolle. Veron maksamisen yhteydessä annettu kuukausi-ilmoitus katsotaan annetuksi silloin, kun maksu on suoritettu rahalaitokseen. Postitse saapunut ilmoitus katsotaan annetuksi silloin, kun ilmoituksen sisältävä postilähetys on jätetty postiin lääninverovirastolle osoitettuna.",
+      "section_number": "78",
+      "chapter_number": 14,
+      "statute_id": ""
+    },
+    {
+      "id": "703caee6-40c8-4b5d-b419-fe2adafdf04e",
+      "node_type": "Section",
+      "publisher": "finlex",
+      "title": "79 §",
+      "text": "Ilmoittamisvelvollisen on allekirjoitettava kuukausi-ilmoitus, tilikausi-ilmoitus ja muut veroviranomaisille annettavat asiakirjat. Yhteisön ilmoitusten ja asiakirjojen tulee olla toiminimen kirjoittamiseen oikeutetun henkilön tai henkilöiden allekirjoittamia.",
+      "section_number": "79",
+      "chapter_number": 14,
+      "statute_id": ""
+    },
+    {
+      "id": "f373c8eb-01c5-4b2b-ab0c-31751d1940c9",
+      "node_type": "Section",
+      "publisher": "finlex",
+      "title": "80 §",
+      "text": "Yhteisön ilmoittamisvelvollisuuden täyttäminen kuuluu yhteisön hallitukselle tai hallinnolle. Avoimen yhtiön, kommandiittiyhtiön ja yhtymän ilmoittamisvelvollisuuden täyttäminen on sellaisen osakkaan velvollisuutena, joka 104§:n 2 momentin mukaan on verosta vastuussa. Ilmoittamisvelvollisuuden täyttämisestä ulkomaalaisen puolesta vastaa myös Suomessa oleva edustaja. Edellä 9§:n 2 momentissa tarkoitetun ulkomaalaisen ilmoittamisvelvollisuuden täyttämisestä vastaa Suomessa oleva 88§:ssä tarkoitettu edustaja. Ilmoittamisvelvollinen on holhottavan puolesta holhooja, poissa olevan puolesta hänelle määrätty uskottu mies ja kuolinpesän puolesta se, jolla on pesä hallussaan tai, jos pesä on jaettu, se, jonka hallussa pesä oli jaon aikana. Joka poissaolon tai muun laillisen esteen vuoksi on estynyt täyttämästä ilmoittamisvelvollisuuttaan, saa asettaa sijaansa soveliaan henkilön. Verovelvollinen vastaa kuitenkin siitä, mitä sijainen tekee tai jättää tekemättä.",
+      "section_number": "80",
+      "chapter_number": 14,
+      "statute_id": ""
+    },
+    {
+      "id": "38846ded-0aad-40b5-bef3-9ca729205323",
+      "node_type": "Section",
+      "publisher": "finlex",
+      "title": "81 §",
+      "text": "Lääninveroviraston on vaadittaessa annettava todistus asiakirjan vastaanottamisesta.",
+      "section_number": "81",
+      "chapter_number": 14,
+      "statute_id": ""
+    },
+    {
+      "id": "e16de601-2d1c-490c-b485-fb469982956e",
+      "node_type": "Section",
+      "publisher": "finlex",
+      "title": "82 §",
+      "text": "Sen, joka on laiminlyönyt kuukausi-ilmoituksen tai tilikausi-ilmoituksen antamisen säädetyssä ajassa tai antanut ilmoituksen puutteellisena, tulee lääninveroviraston kehotuksesta asetetun määräajan kuluessa täyttää velvollisuutensa. Verovelvollisen on myös kehotuksesta annettava määräajassa ne täydentävät selvitykset, jotka ovat tarpeen veron määräämistä varten.",
+      "section_number": "82",
+      "chapter_number": 14,
+      "statute_id": ""
+    },
+    {
+      "id": "f80dbf80-7182-4fbd-a4f3-c2231b1d5433",
+      "node_type": "Section",
+      "publisher": "finlex",
+      "title": "83 §",
+      "text": "Verovelvollisen on lääninveroviraston tai verohallituksen asianomaisen virkamiehen kehotuksesta esitettävä Suomessa sanotun viranomaisen tai tämän määräämän asiantuntevan ja esteettömänä pidettävän henkilön tarkastettavaksi liike- ja tilikirjansa, inventaarinsa ja tase-erittelynsä liitteineen samoin kuin tositeaineisto ja kaikki muu laskentatoimeen kuuluva aineisto, sopimus- ja velkakirjat, pöytäkirjat, kirjeenvaihto, koneellisen kirjanpidon menetelmäkuvaus sekä muut asiakirjat, jotka saattavat olla tarpeen häntä verotettaessa, verotarkastusta toimitettaessa tai hänen verotustaan koskevaa muutoksenhakua käsiteltäessä, sekä näytettävä liiketoimintaan kuuluvat varastot ja muu omaisuus. Tarkastus voidaan toimeenpanna jo tilikauden aikana. Asiakirjan tarkastus on, mikäli mahdollista, toimitettava verovelvollisen liikehuoneistossa tai hänen käyttämässään kirjanpito- tai palvelutoimistossa. Jos tarkastus toimitetaan edellä mainitussa huoneistossa tai toimistossa, verovelvollisen on asetettava tarkastajan käytettäväksi tarkoituksenmukaiset tilat sekä tarpeelliset apuneuvot ja apulaiset. Jos tarkastusta ei voida haitatta toimittaa edellä tarkoitetussa paikassa, tarkastus voidaan toimittaa lääninverovirastossa. Asiakirjat on esitettävä tarkastettaviksi siellä tai toimitettava sinne, missä tarkastus suoritetaan. Valokuvaamalla tai muulla vastaavalla tavalla valmistettuina jäljennöksinä säilytettävistä asiakirjoista on 1 momentissa tarkoitetun viranomaisen kehotuksesta valmistettava jäljennökset tarkastusta suorittavan henkilön käyttöön. Suoritetusta tarkastuksessa on laadittava kertomus.",
+      "section_number": "83",
+      "chapter_number": 14,
+      "statute_id": ""
+    },
+    {
+      "id": "6d8ba539-47e5-480d-af12-4d418c7e8ab1",
+      "node_type": "Section",
+      "publisher": "finlex",
+      "title": "84 §",
+      "text": "Jokaisen on annettava lääninveroviraston tai verohallituksen kehotuksesta sellaisia toisen verotusta, verotarkastusta tai verotusta koskevaa muutoksenhakuasiaa varten välttämättömiä muita tietoja, jotka selviävät hänen hallussaan olevista asiakirjoista tai muutoin ovat hänen tiedossaan, jos hänellä ei lain mukaan ole oikeutta kieltäytyä todistamasta asiasta. Toisen verotukseen vaikuttavia, hänen taloudellista asemaansa koskevia tietoja ei kuitenkaan saa kieltäytyä antamasta. Posti- ja telelaitoksen on 1 momentissa mainitun viranomaisen kirjallisesta kehotuksesta annettava tiedot asiakkaalle saapuneista postiosoituksista ja postiennakko-osoituksista sekä muusta postin välityksellä tapahtuneesta rahaliikkeestä. Edellä 1 momentissa mainituilla viranomaisilla on oikeus 83§:ssä mainituin tavoin tarkastaa tai tarkastuttaa ne liike- ja muut asiakirjat, joista 1 ja 2 momentissa tarkoitettuja tietoja voi olla saatavissa.",
+      "section_number": "84",
+      "chapter_number": 14,
+      "statute_id": ""
+    },
+    {
+      "id": "f1fd0bcf-32f1-4db7-b631-868ee7683232",
+      "node_type": "Section",
+      "publisher": "finlex",
+      "title": "85 §",
+      "text": "Viranomaisen ja julkisen laitoksen tulee 84§:ssä tarkoitetun viranomaisen pyynnöstä antaa verotusta varten tarpeellisia tietoja taikka sallia sellaisen viranomaisen määräämän henkilön ottaa niistä selko, mikäli ne eivät koske sellaista asiaa, josta lain mukaan ei saa todistaa. Maistraatin ja nimismiehen on ennen tammikuun ja heinäkuun loppua maksutta toimitettava lääninverovirastolle luettelot niistä ilmoituksista, jotka edellisenä puolivuotiskautena on tehty liiketoiminnan aloittamisesta tai lopettamisesta.",
+      "section_number": "85",
+      "chapter_number": 14,
+      "statute_id": ""
+    },
+    {
+      "id": "c1fe41b1-4730-470b-b330-6e96806da1bf",
+      "node_type": "Section",
+      "publisher": "finlex",
+      "title": "86 §",
+      "text": "Verovelvolliset merkitään liikevaihtoverovelvollisten rekisteriin. Lääninverovirasto antaa tarvittaessa tiedon siitä, onko henkilö, yhtymä tai yhteisö merkitty rekisteriin.",
+      "section_number": "86",
+      "chapter_number": 15,
+      "statute_id": ""
+    },
+    {
+      "id": "b54d4a41-29b0-443c-8c21-7b873f22f97e",
+      "node_type": "Section",
+      "publisher": "finlex",
+      "title": "87 §",
+      "text": "Lääninverovirasto merkitsee verovelvollisen rekisteriin siitä lukien, kun verollinen liiketoiminta alkaa. Verovelvollinen voidaan kuitenkin merkitä rekisteriin jo siitä lukien, kun hän ryhtyy hankkimaan tavaroita ja palveluja verollista liiketoimintaa varten. Lääninverovirasto poistaa verovelvollisen rekisteristä siitä lukien, kun verollinen liiketoiminta on päättynyt. Edellä 9§:n 2 momentin tai 21§:n perusteella verovelvollinen merkitään rekisteriin ja poistetaan rekisteristä aikaisintaan hakemuksen tekemisestä lukien.",
+      "section_number": "87",
+      "chapter_number": 15,
+      "statute_id": ""
+    },
+    {
+      "id": "cfb04996-c729-4b9d-b386-e65b5ac6b3a2",
+      "node_type": "Section",
+      "publisher": "finlex",
+      "title": "88 §",
+      "text": "Edellä 9§:n 2 momentissa tarkoitetun hakemuksen hyväksymisen edellytyksenä on, että ulkomaalaisella on Suomessa kotipaikan omaava lääninveroviraston hyväksymä edustaja. Lääninverovirasto voi lisäksi vaatia asetettavaksi vakuuden veron suorittamisesta. Edellä 1 momentissa tarkoitetun edustajan on pidettävä verovelvollisen liiketoiminnasta sellaista kirjanpitoa, että siitä luotettavasti saadaan selville veron määräytymisen kannalta merkitykselliset seikat. Kirjanpitoaineisto on säilytettävä Suomessa viisi vuotta sen tilikauden päättymisestä, jota aineisto koskee. Mitä 83§:ssä on säädetty verovelvollisen velvollisuuksista, sovelletaan myös 1 momentissa tarkoitettuun edustajaan.",
+      "section_number": "88",
+      "chapter_number": 15,
+      "statute_id": ""
+    },
+    {
+      "id": "c40338fc-a4ad-43a3-8934-84c0bc294e85",
+      "node_type": "Section",
+      "publisher": "finlex",
+      "title": "89 §",
+      "text": "Lääninverovirasto ilmoittaa asianomaiselle rekisteröinnistä ja rekisteristä poistamisesta sekä siitä, ettei asianomaista ilmoituksesta tai hakemuksesta poiketen ole merkitty rekisteriin tai poistettu rekisteristä. Lääninverovirasto antaa asianomaisen tai valtionasiamiehen pyynnöstä päätöksen rekisteröintiasiassa.",
+      "section_number": "89",
+      "chapter_number": 15,
+      "statute_id": ""
+    },
+    {
+      "id": "1711ceb7-75d2-4475-9de8-73dedf5bb193",
+      "node_type": "Section",
+      "publisher": "finlex",
+      "title": "90 §",
+      "text": "Lääninverovirasto määrää saatujen ilmoitusten ja muun selvityksen perusteella maksamatta olevan veron verovelvollisen maksettavaksi. Veron määräämisessä on tunnollisesti sekä valtion että verovelvollisen etua silmällä pitäen harkittava, mitä verovelvollisen liiketoimista sekä muista asiaan vaikuttavista seikoista on ilmoituksista tai muutoin käynyt selville taikka muulla perusteella on katsottava oikeaksi.",
+      "section_number": "90",
+      "chapter_number": 16,
+      "statute_id": ""
+    },
+    {
+      "id": "6e1631ca-c385-4924-8e83-d9b05c08321b",
+      "node_type": "Section",
+      "publisher": "finlex",
+      "title": "91 §",
+      "text": "Jos verovelvollinen on laiminlyönyt veron maksamisen tai maksanut sitä ilmeisesti liian vähän eikä ole kehotuksesta huolimatta antanut veron määräämistä varten tarvittavia tietoja, lääninveroviraston on määrättävä maksamatta oleva vero arvioimalla. Maksamatta olevan veron määrä on pyrittävä selvittämään tavaraostojen, tavanomaisten myyntipalkkioiden, palkkojen tai muiden sellaisten kustannuserien perusteella laadittujen laskelmien avulla taikka muiden samalla alalla ja vastaavanlaisissa olosuhteissa toimivien verovelvollisten liiketoimintaan vertaamalla. Ennen veron määräämistä on verovelvolliselle varattava tilaisuus selvityksen antamiseen veron määräytymistä koskevasta laskelmasta sekä niistä seikoista, joiden vuoksi vero aiotaan määrätä arvion mukaan. Veron määräämistä koskevaan päätökseen on otettava veron määräytymistä koskeva laskelma sekä merkittävä ne syyt, joiden perusteella vero on määrätty arvion mukaan.",
+      "section_number": "91",
+      "chapter_number": 16,
+      "statute_id": ""
+    },
+    {
+      "id": "3919dcb4-cfb5-4814-9c62-effe462d257a",
+      "node_type": "Section",
+      "publisher": "finlex",
+      "title": "92 §",
+      "text": "Lääninverovirasto tarkistaa tilikausi-ilmoituksen perusteella tilikauden kalenterikuukausilta maksettavan veron määrän. Tilikausi-ilmoituksen tai muun saadun selvityksen perusteella lääninverovirasto määrää tilikauden kalenterikuukausilta maksamatta olevan veron verovelvollisen maksettavaksi tai maksaa verovelvolliselle tilikaudelta palautettavan veron. Tilikaudelta maksettava vero on määrättävä vuoden kuluessa tilikauden päättymisestä.",
+      "section_number": "92",
+      "chapter_number": 16,
+      "statute_id": ""
+    },
+    {
+      "id": "fc13d262-e736-47e8-b264-9d106ce3378e",
+      "node_type": "Section",
+      "publisher": "finlex",
+      "title": "93 §",
+      "text": "Edellä 92§:n 3 momentissa säädetyn määräajan jälkeen voidaan toimittaa jälkiverotus. Jälkiverotuksin verovelvollisen maksettavaksi on määrättävä se vero, joka on jäänyt maksamatta tai on palautettu liikaa sen johdosta, että hän on jättänyt antamatta ilmoituksen taikka antanut puutteellisen, erehdyttävän tai väärän ilmoituksen, muun tiedon tai asiakirjan. Jälkiverotus voidaan toimittaa kolmen vuoden kuluessa sen tilikauden päättymisestä, johon kuuluvalta kalenterikuukaudelta vero olisi tullut maksaa. Verovelvollisen kuoltua jälkiverotus kohdistetaan kuolinpesään. Jälkiverotus on toimitettava vuoden kuluessa sen kalenterivuoden päättymisestä, jona perukirja on annettu oikeuteen. Ennen jälkiverotuksen toimittamista verovelvolliselle tai verovelvollisen kuolinpesälle on varattava tilaisuus selityksen antamiseen.",
+      "section_number": "93",
+      "chapter_number": 16,
+      "statute_id": ""
+    },
+    {
+      "id": "fa71b8a2-d6d1-4b00-84be-ec430b49ba2a",
+      "node_type": "Section",
+      "publisher": "finlex",
+      "title": "94 §",
+      "text": "Jos 93§:ssä tarkoitettu veron maksamatta jääminen tai liian suuri palautus johtuu sellaisesta virheestä, jonka johdosta toisen verovelvollisen maksettavaksi on tullut liikaa veroa, voidaan jälkiverotus jättää toimittamatta, jos verovelvollinen esittää palautukseen oikeutetun verovelvollisen antaman sitoumuksen siitä, että tämä luopuu oikeudestaan vaatia oman veronsa määrää alennettavaksi. Sitoumuksen antaneelle verovelvolliselle ei makseta veroa takaisin. Jälkiverotus voidaan jättää toimittamatta myös silloin, kun maksamatta jäänyttä tai liian suurena palautettua veroa on pidettävä vähäisenä eikä verotuksen tasapuolisuus tai muu syy vaadi veron määräämistä. Verohallitus antaa tarkemmat määräykset siitä, milloin jälkiverotus voidaan jättää toimittamatta.",
+      "section_number": "94",
+      "chapter_number": 16,
+      "statute_id": ""
+    },
+    {
+      "id": "16d2beca-146d-4e77-b610-7b4ab9d0a155",
+      "node_type": "Section",
+      "publisher": "finlex",
+      "title": "95 §",
+      "text": "Jos jollekin olosuhteelle tai toimenpiteelle on annettu sellainen oikeudellinen muoto, joka ei vastaa asian varsinaista luonnetta tai tarkoitusta, on verotusta toimitettaessa meneteltävä niin kuin asiassa olisi käytetty oikeata muotoa. Milloin tavaran tai palvelun myynnistä tuleva vastike on sovittu tai määrätty kohtuullisena pidettävää pienemmäksi tai muuhun toimenpiteeseen on ryhdytty ilmeisesti siinä tarkoituksessa, että maksettavan veron määrä vähentyisi, voidaan arvion mukaan vahvistaa, mistä määrästä veroa on maksettava.",
+      "section_number": "95",
+      "chapter_number": 16,
+      "statute_id": ""
+    },
+    {
+      "id": "2bf71554-eac0-4dc4-ade8-42169e4bced4",
+      "node_type": "Section",
+      "publisher": "finlex",
+      "title": "96 §",
+      "text": "Veroa voidaan korottaa, jos: Jos 1 momentin 4 kohdassa tarkoitettu laiminlyönti tai väärän ilmoituksen, tiedon taikka asiakirjan antaminen on tapahtunut veron kavaltamisen tarkoituksessa, veroa on korotettava vähintään 50 prosentilla ja enintään kolminkertaiseksi. Veronkorotus määrätään vain siitä verosta, jota 1 ja 2 momentissa tarkoitettu puutteellisuus tai vaillinaisuus on koskenut.",
+      "section_number": "96",
+      "chapter_number": 16,
+      "statute_id": ""
+    },
+    {
+      "id": "2ec955a2-6dd0-4f57-8dfb-7d0c90a2eb3a",
+      "node_type": "Section",
+      "publisher": "finlex",
+      "title": "97 §",
+      "text": "Jos kalenterikuukaudelta tilitettävää veroa ei ole maksettu 68§:ssä säädetyssä määräajassa, määrätään maksamatta jääneelle verolle veronlisäystä. Veronlisäystä määrätään yksi markka kultakin täydeltä sadalta markalta jokaiselta kalenterikuukaudelta sen kuukauden alusta, jona vero olisi tullut maksaa, verolle määrättävää eräpäivää edeltävän kuukauden loppuun. Jos kalenterikuukaudelta tilitettävä vero on maksettu määräajan jälkeen, eikä verovelvollinen ole oma-aloitteisesti maksanut veronlisäystä 4 momentissa säädetyllä tavalla, veronlisäystä määrätään sen kuukauden alusta, jona vero olisi tullut maksaa, sen kuukauden loppuun, jona vero on maksettu. Jos vero on määrätty kokonaan tai osittain arvioimalla kalenterikuukautta pidemmältä ajalta taikka jos muutoin ilman kohtuutonta lisätyötä ei ole selvitettävissä, miltä kalenterikuukaudelta veroa on jäänyt maksamatta, voidaan veronlisäyksen laskemisen alkamisajankohta arvioida ottaen huomioon maksamatta jääneen veron todennäköinen jakautuminen eri kuukausille. Jos verovelvollinen maksaa kalenterikuukaudelta tilitettävää veroa ilman maksuunpanoa 68§:ssä säädetyn määräajan jälkeen, hänen on veron maksamisen yhteydessä oma-aloitteisesti maksettava veronlisäystä yksi markka kultakin täydeltä sadalta markalta jokaiselta kalenterikuukaudelta sen kuukauden alusta, jona vero olisi tullut maksaa, sen kuukauden loppuun, jona vero on maksettu. Jos vero määrätään myöhemmin viranomaisen toimenpitein, veronlisäystä on maksettava 1-3 momentissa säädetyllä tavalla tällekin veromäärälle. Milloin veron määrääminen perustuu valtion puolesta tehtyyn valitukseen sekä milloin valtiolle on perittävä verovelvollisen jo maksama, mutta hänelle takaisin maksettu vero, veronlisäystä on määrättävä saman perusteen mukaan kuin palautukselle on maksettava korkoa. Erityisestä syystä viranomainen voi laskea veronlisäyksen myöhemmästä kuin 2 ja 3 momentissa säädetystä ajankohdasta. Veronkorotukselle ei maksuunpanna veronlisäystä.",
+      "section_number": "97",
+      "chapter_number": 16,
+      "statute_id": ""
+    },
+    {
+      "id": "3c6b5cfb-3d7f-4ca4-b350-3afe596354c7",
+      "node_type": "Section",
+      "publisher": "finlex",
+      "title": "98 §",
+      "text": "Kun verovelvollisen maksettavaksi määrätään veroa, veronlisäystä tai veronkorotusta, verovelvolliselle on annettava tiedoksi verolippu sekä päätös, johon on liitetty valitusosoitus. Vero on maksettava valtiovarainministeriön määräämänä aikana. Veron takaisin maksamista koskeva päätös on annettava verovelvolliselle tiedoksi. Päätökseen on liitettävä valitusosoitus.",
+      "section_number": "98",
+      "chapter_number": 16,
+      "statute_id": ""
+    },
+    {
+      "id": "1357faad-aa35-4485-b20c-cba3bf74fb1b",
+      "node_type": "Section",
+      "publisher": "finlex",
+      "title": "99 §",
+      "text": "Jos valtionasiamies katsoo, että verovelvollisen maksettavaksi olisi määrättävä veroa, veronlisäystä tai veronkorotusta, lääninveroviraston on hänen pyynnöstään tehtävä asiassa päätös.",
+      "section_number": "99",
+      "chapter_number": 16,
+      "statute_id": ""
+    },
+    {
+      "id": "cceb728d-29cc-459e-b37a-9f212c196997",
+      "node_type": "Section",
+      "publisher": "finlex",
+      "title": "100 §",
+      "text": "Vero maksetaan, määrätään maksettavaksi ja maksetaan takaisin täysin markoin jättämällä yli menevät pennit lukuun ottamatta. Sama koskee 96§:ssä mainittua veronkorotusta, 97§:ssä mainittua veronlisäystä ja 103§:ssä mainittua korkoa.",
+      "section_number": "100",
+      "chapter_number": 16,
+      "statute_id": ""
+    },
+    {
+      "id": "baeb5fd8-42a2-4370-91bf-8444ba9baf62",
+      "node_type": "Section",
+      "publisher": "finlex",
+      "title": "101 §",
+      "text": "Kun verotusta koskevia kehotuksia, päätöksiä ja verolippuja annetaan verovelvollisen tai muun henkilön tiedoksi, ne on lähetettävä postitse kirjatussa kirjeessä saantitodistusta vastaan taikka annettava muutoin todistettavasti. Samalla on ilmoitettava aika, jonka kuluessa kehotusta on noudatettava, ja seuraamus, jonka laiminlyönti aiheuttaa. Postitse toimitettu asiakirja katsotaan annetun tiedoksi saantitodistuksen osoittamana aikana.",
+      "section_number": "101",
+      "chapter_number": 16,
+      "statute_id": ""
+    },
+    {
+      "id": "b44790c5-0490-420b-8599-8fe849b0b07e",
+      "node_type": "Section",
+      "publisher": "finlex",
+      "title": "102 §",
+      "text": "Jos verovelvollisen luonnollisen henkilön tai luonnollisten henkilöiden muodostaman 104§:n 2 momentissa tarkoitetun yhtymän 12§:ssä tarkoitetulla tavalla laskettu tilikauden verollinen liikevaihto on enintään 75 000 markkaa, verovelvolliselle maksetaan takaisin tilikaudelta maksettu vero kokonaan. Jos tilikauden verollinen liikevaihto on yli 75 000 markkaa mutta alle 150 000 markkaa, tilikaudelta maksetusta verosta maksetaan takaisin määrä, joka saadaan, kun veroa pienennetään yhdellä prosentilla jokaisen täyden 750 markan määrän osalta, jolla tilikauden verollinen liikevaihto ylittää 75 000 markkaa.",
+      "section_number": "102",
+      "chapter_number": 16,
+      "statute_id": ""
+    },
+    {
+      "id": "b00dd416-6942-4e26-a84d-e4afaa8b1083",
+      "node_type": "Section",
+      "publisher": "finlex",
+      "title": "103 §",
+      "text": "Verovelvolliselle takaisin maksettava vero on maksettava viivytyksettä. Takaisin maksettavalle verolle maksetaan asetuksella säädettävä korko. Korko lasketaan tilikautta seuraavan toisen kalenterikuukauden lopusta tai, jos kysymys on verosta, jonka verovelvollinen on maksanut vasta mainitun ajankohdan jälkeen, maksupäivästä. Korkoa ei makseta 102§:n mukaan takaisin maksettavalle verolle eikä verolle, joka on asetuksella säädettävää määrää pienempi.",
+      "section_number": "103",
+      "chapter_number": 16,
+      "statute_id": ""
+    },
+    {
+      "id": "4e40f5a8-dde6-454b-bb12-0910c08cd6e2",
+      "node_type": "Section",
+      "publisher": "finlex",
+      "title": "104 §",
+      "text": "Vero määrätään verovelvollisen ja verosta vastuussa olevien henkilöiden yhteisvastuullisesti maksettavaksi. Avoimen yhtiön ja kommandiittiyhtiön verosta ovat yhteisvastuullisesti vastuussa avoimen yhtiön osakas ja kommandiittiyhtiön henkilökohtaisesti vastuunalainen yhtiömies. Sama vastuu yhtymän verosta on sellaisen yhtymän osakkaalla, jonka kaksi tai useampia henkilöitä on muodostanut liikkeen harjoittamista varten ja joka on tarkoitettu toimimaan osakkaiden yhteiseen lukuun. Osakkaan ja yhtiömiehen vastuu alkaa sen kuukauden alusta, jonka aikana hän liittyy yhtiöön tai yhtymään ja päättyy sen kuukauden lopussa, jonka kuluessa hän eroaa yhtiöstä tai yhtymästä. Verosta vastuussa olevat henkilöt merkitään lääninveroviraston päätökseen. Jos päätökseen ei ole merkitty 2 momentissa tarkoitettua verosta vastuussa olevaa henkilöä, lääninveroviraston on määrättävä, edellä tarkoitettua henkilöä kuultuaan, hänet verovelvollisen kanssa yhteisvastuullisesti vastuuseen veron maksamisesta.",
+      "section_number": "104",
+      "chapter_number": 16,
+      "statute_id": ""
+    },
+    {
+      "id": "715bf7ad-5c3c-4920-9bd0-5c86f1ef2ffb",
+      "node_type": "Section",
+      "publisher": "finlex",
+      "title": "105 §",
+      "text": "Lääninverovirasto antaa ohjausta liikevaihtoverotukseen kuuluvassa asiassa.",
+      "section_number": "105",
+      "chapter_number": 17,
+      "statute_id": ""
+    },
+    {
+      "id": "ddfe8ef4-905f-4a02-9b0c-e1f1beee6833",
+      "node_type": "Section",
+      "publisher": "finlex",
+      "title": "106 §",
+      "text": "Jos asia on hakijalle erityisen tärkeä, lääninverovirasto antaa hakemuksesta ennakkotiedon siitä, miten lakia sovelletaan hakijan liiketoimeen. Hakemuksessa on ilmoitettava yksilöitynä kysymys, josta ennakkotietoa haetaan, ja esitettävä asian ratkaisemiseksi tarvittava selvitys. Ennakkotieto annetaan määräajaksi, kuitenkin enintään antamista seuraavan kalenterivuoden loppuun. Lainvoiman saanutta ennakkotietoa noudatetaan ennakkotiedon saajan vaatimuksesta sitovana siltä ajalta, jolle se on annettu. Ennakkotietoa koskeva asia on käsiteltävä lääninverovirastossa, liikevaihtovero-oikeudessa ja korkeimmassa hallinto-oikeudessa kiireellisenä. Maahantuonnista suoritettavaa veroa koskevan ennakkotiedon antamisesta on soveltuvin osin voimassa, mitä tullista on erikseen säädetty.",
+      "section_number": "106",
+      "chapter_number": 17,
+      "statute_id": ""
+    },
+    {
+      "id": "3586214a-078c-404b-ba3a-557ec8963c8a",
+      "node_type": "Section",
+      "publisher": "finlex",
+      "title": "107 §",
+      "text": "Jos verovelvollinen on ilmoittanut kalenterikuukaudelta suoritettavan veron liian suurena tai vähennettävän veron liian pienenä, hän saa korjata virheen vähentämällä liikaa ilmoitetun veron tilikauden seuraavilta kalenterikuukausilta. Verovelvolliselle, joka ei ole tehnyt 1 momentissa tarkoitettua korjausta, maksetaan tilikauden päätyttyä liikaa maksettu tai palauttamatta jäänyt vero tilikausi-ilmoituksen tai muun saadun selvityksen perusteella. Vero voidaan palauttaa kolmen vuoden kuluessa sen tilikauden päättymisestä, jolta verovelvollinen on ilmoittanut liikaa veroa, tai verovelvollisen sanotun ajan kuluessa tekemän vaatimuksen perusteella myöhemminkin.",
+      "section_number": "107",
+      "chapter_number": 18,
+      "statute_id": ""
+    },
+    {
+      "id": "c8e50ae1-6993-4701-a47e-9ded1be7f288",
+      "node_type": "Section",
+      "publisher": "finlex",
+      "title": "108 §",
+      "text": "Lääninveroviraston päätökseen sisältyvän ilmeisen kirjoitus- tai laskuvirheen korjaamisessa noudatetaan, mitä hallintomenettelylaissa (598/82) on säädetty.",
+      "section_number": "108",
+      "chapter_number": 18,
+      "statute_id": ""
+    },
+    {
+      "id": "4f6e5a1a-1234-4619-91f4-5f539762cfdb",
+      "node_type": "Section",
+      "publisher": "finlex",
+      "title": "109 §",
+      "text": "Jos lääninverovirasto verovelvollisen hakemuksesta, valituksen johdosta tai muutoin toteaa, että sen päätös on verovelvollisen vahingoksi virheellinen, lääninveroviraston on oikaistava päätöksessä oleva virhe ja maksettava verovelvolliselle virheen johdosta liikaa maksettu tai palauttamatta jäänyt vero, jollei asiaa ole valitukseen annetulla päätöksellä ratkaistu. Oikaisu voidaan tehdä kolmen vuoden kuluessa sen tilikauden päättymisestä, jota oikaistava päätös koskee tai, jos päätös koskee useita tilikausia, niistä viimeisen päättymisestä taikka verovelvollisen sanotun ajan kuluessa tekemän vaatimuksen perusteella myöhemminkin.",
+      "section_number": "109",
+      "chapter_number": 18,
+      "statute_id": ""
+    },
+    {
+      "id": "85473298-6f60-47be-84bb-643b05124e72",
+      "node_type": "Section",
+      "publisher": "finlex",
+      "title": "110 §",
+      "text": "Lääninveroviraston tämän lain nojalla tekemään liikevaihtoverotusta koskevaan päätökseen haetaan muutosta valittamalla liikevaihtovero-oikeuteen. Valtion puolesta on valitusoikeus lääninverovirastossa olevalla valtionasiamiehellä. Muutoksenhaku on tehtävä kirjallisesti, ja valituskirjelmä on toimitettava valitusajan kuluessa lääninverovirastoon. Verovelvollisen valitusaika on kolme vuotta tilikauden tai, jos päätös koskee useita tilikausia, niistä viimeisen päättymisestä lukien, kuitenkin aina vähintään 60 päivää päätöksen tiedoksisaannista. Rekisteröintiä ja ennakkotietoa koskevasta päätöksestä verovelvollinen saa valittaa 30 päivän kuluessa päätöksen tiedoksisaannista. Valtionasiamiehen valitusaika on 30 päivää päätöksen tekemisestä. Päätökseen, jolla on päätetty olla antamatta ennakkotietoa, sekä 70§:n 4 momentissa tarkoitetun hakemuksen johdosta annettuun päätökseen ei saa hakea muutosta valittamalla. Tässä laissa tarkoitettuihin asioihin ei sovelleta verojen ja maksujen perimisestä ulosottotoimin annetun lain (367/61) perustevalitusta koskevia säännöksiä.",
+      "section_number": "110",
+      "chapter_number": 18,
+      "statute_id": ""
+    },
+    {
+      "id": "90a246ac-4086-425b-9627-2219289fa669",
+      "node_type": "Section",
+      "publisher": "finlex",
+      "title": "111 §",
+      "text": "Lääninveroviraston tulee varata valtionasiamiehen tekemästä valituksesta verovelvolliselle sekä verovelvollisen tekemästä valituksesta valtionasiamiehelle tilaisuus vastineen ja tarvittaessa myös vastaselityksen antamiseen. Jos lääninverovirasto oikaisee päätöstään 109§:ssä tarkoitetulla tavalla verovelvollisen vaatimuksen mukaisesti, valitus raukeaa. Siltä osin kuin lääninverovirasto katsoo, että verovelvollisen valituksessaan esittämä vaatimus ei anna aihetta päätöksen oikaisemiseen, lääninveroviraston on annettava valituksen johdosta lausuntonsa ja varattava verovelvolliselle tilaisuus antaa määräajassa lausuntoon vastine. Valtionasiamiehen valituskirjelmä ja verovelvollisen 3 momentissa tarkoitettu valituskirjelmä vastineineen, vastaselityksineen ja lausuntoineen sekä asian käsittelyssä syntyneet muut asiakirjat on viipymättä lähetettävä liikevaihtovero-oikeudelle.",
+      "section_number": "111",
+      "chapter_number": 18,
+      "statute_id": ""
+    },
+    {
+      "id": "008e4496-743a-42c6-a5dd-4d5e3fd6ca43",
+      "node_type": "Section",
+      "publisher": "finlex",
+      "title": "112 §",
+      "text": "Liikevaihtovero-oikeus voi siirtää antamansa päätöksen tiedoksiantamisen lääninverovirastolle.",
+      "section_number": "112",
+      "chapter_number": 18,
+      "statute_id": ""
+    },
+    {
+      "id": "8c9ce8c0-5736-4ed4-b57e-880ade455da8",
+      "node_type": "Section",
+      "publisher": "finlex",
+      "title": "113 §",
+      "text": "Liikevaihtovero-oikeuden on korjattava päätöksessään oleva laskuvirhe tai siihen verrattava erehdys.",
+      "section_number": "113",
+      "chapter_number": 18,
+      "statute_id": ""
+    },
+    {
+      "id": "3065d85e-348d-4477-8a0a-80eb17351064",
+      "node_type": "Section",
+      "publisher": "finlex",
+      "title": "114 §",
+      "text": "Maahan tuodusta tavarasta kannetusta liikevaihtoverosta sekä tavaran viennin tai tuonnin yhteydessä palautetusta verosta tehtävästä oikaisusta ja valituksesta on soveltuvin osin voimassa, mitä tullista on erikseen säädetty.",
+      "section_number": "114",
+      "chapter_number": 18,
+      "statute_id": ""
+    },
+    {
+      "id": "af261e38-9733-4af9-b2ca-ce76ccc740a1",
+      "node_type": "Section",
+      "publisher": "finlex",
+      "title": "115 §",
+      "text": "Liikevaihtovero-oikeuden päätökseen tyytymätön saa valittaa korkeimpaan hallinto-oikeuteen. Valtion puolesta on valitusoikeus liikevaihtovero-oikeudessa olevalla valtionasiamiehellä. Päätökseen, jolla annettu ennakkotieto on poistettu, ei saa hakea muutosta valittamalla. Valittaa ei kuitenkaan saa, paitsi milloin asianomaiselle myönnetään 116§:ssä säädetty valituslupa, liikevaihtovero-oikeuden päätöksestä veron määrää koskevassa asiassa, jos se veron määrä, jonka osalta päätös on asianosaiselle vastainen, ilmeisesti on pienempi kuin 4 000 markkaa. Valituskirjelmä on toimitettava korkeimmalle hallinto-oikeudelle 30 päivän kuluessa päätöksen tiedoksisaannista. Valtionasiamiehelle lasketaan valitusaika liikevaihtovero-oikeuden päätöksen tekemisestä. Valituskirjelmään on liitettävä valituksenalainen päätös. Verovelvollisen on liitettävä valituskirjelmään myös selvitys siitä, milloin päätös on annettu valittajalle tiedoksi. Valituskirjelmä voidaan toimittaa myös liikevaihtovero-oikeuteen, jonka on viipymättä lähetettävä valituskirjelmä ja asiassa kertyneet asiakirjat korkeimpaan hallinto-oikeuteen.",
+      "section_number": "115",
+      "chapter_number": 18,
+      "statute_id": ""
+    },
+    {
+      "id": "f6a8eab7-326e-409a-9a91-d2718a939301",
+      "node_type": "Section",
+      "publisher": "finlex",
+      "title": "116 §",
+      "text": "Valituslupaa haetaan korkeimmalta hallinto-oikeudelta. Lupa voidaan myöntää ainoastaan, jos: Liikevaihtovero-oikeudessa olevalle valtionasiamiehelle voidaan myöntää lupa vain 2 momentin 1 kohdan nojalla.",
+      "section_number": "116",
+      "chapter_number": 18,
+      "statute_id": ""
+    },
+    {
+      "id": "868464d7-a322-4468-add2-41d0115624ee",
+      "node_type": "Section",
+      "publisher": "finlex",
+      "title": "117 §",
+      "text": "Valituslupaa koskeva hakemus on toimitettava korkeimpaan hallinto-oikeuteen tai liikevaihtovero-oikeuteen viimeistään kolmantenakymmenentenä päivänä siitä päivästä, jona päätöksen tiedoksisaanti on tapahtunut. Liikevaihtovero-oikeudessa olevalle valtionasiamiehelle luetaan sanottu määräaika päätöksen tekemisestä. Muutoin on noudatettava muutoksenhausta hallintoasioissa annetun lain 12§:n 6 momentin sekä 13 b ja 14§:n valituslupaa koskevia säännöksiä.",
+      "section_number": "117",
+      "chapter_number": 18,
+      "statute_id": ""
+    },
+    {
+      "id": "c1c42b69-8463-441a-a691-e7b4bbab8951",
+      "node_type": "Section",
+      "publisher": "finlex",
+      "title": "118 §",
+      "text": "Korkeimman hallinto-oikeuden päätöksestä on annettava valittajalle kappale sekä lisäksi lähetettävä jäljennös kahtena tai, kun muutosta on haettu valtion puolesta, kolmena kappaleena liikevaihtovero-oikeudelle. Liikevaihtovero-oikeus saattaa korkeimman hallinto-oikeuden päätöksen asianomaisen tietoon silloin, kun muutosta liikevaihtovero-oikeuden päätökseen on haettu valtion puolesta.",
+      "section_number": "118",
+      "chapter_number": 18,
+      "statute_id": ""
+    },
+    {
+      "id": "e96f14d1-3404-4157-a77c-b15c7c17afdd",
+      "node_type": "Section",
+      "publisher": "finlex",
+      "title": "119 §",
+      "text": "Jos liikevaihtovero-oikeus tai korkein hallinto-oikeus valtionasiamiehen valituksen johdosta muuttaa 89§:n 2 momentissa tarkoitettua rekisteröintiä koskevaa päätöstä, sen on samalla määrättävä se ajankohta, josta alkaen ratkaisua on sovellettava.",
+      "section_number": "119",
+      "chapter_number": 18,
+      "statute_id": ""
+    },
+    {
+      "id": "fb30cdba-8277-4c31-9a47-31838b58f4f9",
+      "node_type": "Section",
+      "publisher": "finlex",
+      "title": "120 §",
+      "text": "Jos valitusta käsiteltäessä havaitaan, että veroa ei ole määrätty tai palautettu oikeassa lääninverovirastossa, liikevaihtovero-oikeuden tai korkeimman hallinto-oikeuden on, jos ne eivät katso voivansa ratkaista asiaa välittömästi, siirrettävä se toimivaltaiselle lääninverovirastolle.",
+      "section_number": "120",
+      "chapter_number": 18,
+      "statute_id": ""
+    },
+    {
+      "id": "680808fc-891a-498c-9431-bfdcaa476138",
+      "node_type": "Section",
+      "publisher": "finlex",
+      "title": "121 §",
+      "text": "Jos verovelvollisen joltakin tilikaudelta suoritettavan tai vähennettävän veron määrää on maksuunpano-, jälkiverotus-, palautus-, oikaisu- tai uudelleenkäsittelypäätöksellä taikka valitukseen annetulla päätöksellä muutettu toiselta tilikaudelta suoritettavan tai vähennettävän veron määrään vaikuttavalla tavalla, viimeksi mainitulta tilikaudelta suoritettavan tai vähennettävän veron määrää oikaistaan muutosta vastaavasti. Oikaisu voidaan tehdä, vaikka jälkiverotuksen edellytykset puuttuisivat.",
+      "section_number": "121",
+      "chapter_number": 18,
+      "statute_id": ""
+    },
+    {
+      "id": "e711aea9-4f7a-4708-9f23-57f6e87ddc27",
+      "node_type": "Section",
+      "publisher": "finlex",
+      "title": "122 §",
+      "text": "Verovelvollinen ja muu verosta vastuussa oleva henkilö on siitä huolimatta, että verotukseen haetaan muutosta, velvollinen maksamaan määrätyn veron. Jos vero on liikevaihtovero-oikeuden tai korkeimman hallinto-oikeuden päätöksellä poistettu tai sitä on alennettu, liikaa maksettu tai palauttamatta jäänyt vero on 103§:ssä säädetyin tavoin maksettava asianomaiselle.",
+      "section_number": "122",
+      "chapter_number": 18,
+      "statute_id": ""
+    },
+    {
+      "id": "aab20a15-064d-40e1-95a5-b064faef10ec",
+      "node_type": "Section",
+      "publisher": "finlex",
+      "title": "123 §",
+      "text": "Jos liikevaihtovero-oikeus tai korkein hallinto-oikeus on muutoksenhaun johdosta katsonut jonkun verovelvolliseksi, korottanut veron määrää tai pienentänyt verovelvolliselle maksettavaa määrää, jäljennös päätöksestä on toimitettava lääninverovirastolle. Lääninveroviraston tulee viivytyksettä määrätä veron maksamiselle jälkimaksuaika ja antaa verolippu niin kuin 98§:ssä on säädetty.",
+      "section_number": "123",
+      "chapter_number": 18,
+      "statute_id": ""
+    },
+    {
+      "id": "af20116c-b2b7-41a9-9752-0e8c6c428780",
+      "node_type": "Section",
+      "publisher": "finlex",
+      "title": "124 §",
+      "text": "Liikevaihtovero-oikeus ja korkein hallinto-oikeus voivat määrätä verotusta koskevaan valitukseen annettavassa päätöksessä, että verovelvolliselle on suoritettava valtion varoista oikeudenkäyntikulujen korvausta asian laadun ja oikeudenkäymiskaaren 21 luvussa säädettyjen perusteiden mukaan.",
+      "section_number": "124",
+      "chapter_number": 18,
+      "statute_id": ""
+    },
+    {
+      "id": "30ded6a4-e773-49db-8eab-002841c5299a",
+      "node_type": "Section",
+      "publisher": "finlex",
+      "title": "125 §",
+      "text": "Jos tämän lain nojalla tehtyä muutoksenhakua ratkaistaessa ilmaantuu eri mieliä, tulee päätökseksi se mielipide, jota useimpien on katsottava kannattaneen. Äänten jakautuessa tasan päätökseksi tulee se mielipide, joka on verovelvolliselle edullisempi, tai, jollei tätä perustetta käy soveltaminen, se mielipide, jota puheenjohtaja on kannattanut.",
+      "section_number": "125",
+      "chapter_number": 18,
+      "statute_id": ""
+    },
+    {
+      "id": "2d74c64b-b330-4e84-bf40-211cf3195770",
+      "node_type": "Section",
+      "publisher": "finlex",
+      "title": "126 §",
+      "text": "Verovelvollisen on järjestettävä kirjanpitonsa sellaiseksi, että siitä saadaan veron määräämistä varten tarvittavat tiedot. Tarkemmat kirjanpitoa koskevat säännökset annetaan asetuksella.",
+      "section_number": "126",
+      "chapter_number": 19,
+      "statute_id": ""
+    },
+    {
+      "id": "b05c1221-d98e-49a2-8d28-4289b1bfe3ee",
+      "node_type": "Section",
+      "publisher": "finlex",
+      "title": "127 §",
+      "text": "Valtiovarainministeriö voi erityisistä syistä hakemuksesta määräämillään ehdoilla alentaa suoritettua tai suoritettavaa liikevaihtoveroa, veronlisäystä, viivästyskorkoa, jäämämaksua sekä lykkäyksen vuoksi suoritettavaa korkoa taikka poistaa ne kokonaan. Verohallituksella tai, mikäli tulliviranomainen kantaa veron, tullihallituksella on oikeus ratkaista 1 momentissa tarkoitettu hakemus, milloin poistettavaksi tai palautettavaksi pyydetty määrä on enintään 100 000 markkaa. Valtiovarainministeriö voi kuitenkin ratkaista periaatteellisesti tärkeän asian silloinkin, kun poistettavaksi tai palautettavaksi pyydetty määrä on 100 000 markkaa tai sitä pienempi. Mitä tässä pykälässä säädetään verovelvollisesta, sovelletaan vastaavasti myös tämän lain mukaan verosta vastuussa olevaan. Tämän pykälän nojalla annettuun päätökseen ei saa valittamalla hakea muutosta.",
+      "section_number": "127",
+      "chapter_number": 19,
+      "statute_id": ""
+    },
+    {
+      "id": "f07ad89f-404e-4ba1-b75b-e43ccb6e40c8",
+      "node_type": "Section",
+      "publisher": "finlex",
+      "title": "128 §",
+      "text": "Lääninverovirasto voi erityisistä syistä hakemuksesta myöntää veron maksamisen lykkäystä. Verohallitus voi erityisistä syistä ottaa lykkäysasian ratkaistavakseen. Lääninverovirasto ja verohallitus myöntävät lykkäyksen valtiovarainministeriön määräämin ehdoin. Valtiovarainministeriö voi niin ikään ottaa lykkäysasian ratkaistavakseen. Ministeriö määrää tällöin lykkäysehdot hakemukseen antamassaan päätöksessä. Maahantuonnista suoritettavan veron maksamisen lykkäyksestä on voimassa, mitä tullista on erikseen säädetty. Tämän pykälän nojalla annettuun päätökseen ei saa valittamalla hakea muutosta.",
+      "section_number": "128",
+      "chapter_number": 19,
+      "statute_id": ""
+    },
+    {
+      "id": "e9eeeab8-dbf0-4e84-9cef-2640af7bf057",
+      "node_type": "Section",
+      "publisher": "finlex",
+      "title": "129 §",
+      "text": "Tietoja ja asiakirjoja, jotka ilmoittamisvelvollisuuden täyttämiseksi on esitetty, ei saa antaa muiden kuin veroviranomaisten ja näiden kutsumien asiantuntijoiden nähtäväksi. Tämä ei kuitenkaan estä liikevaihtovero-oikeuden ja korkeimman hallinto-oikeuden päätösten julkaisemista sanamuodon mukaisina tai lyhennettyinä, asianosaisten nimiä kuitenkaan mainitsematta. Verotuksen toimittamista, verovalvontaa, veron perimistä, verotuksesta tehtyjen valitusten tutkimista ja verorikosta koskevaa syytteeseen panoa sekä ulosottoa varten on veroilmoitukset sekä muut veroviranomaisille kertyneet asiakirjat annettava asianomaisen viranomaisen tai sen edustajan käytettäväksi. Pakkokeinolain 5 luvun 1§:ssä säädetyin edellytyksin on verotusasiakirjat tai niistä ilmenevät tiedot annettava pidättämiseen oikeutetun virkamiehen käytettäväksi muunkin rikoksen kuin verorikoksen selvittämistä varten. Syyttäjällä ja poliisilla on oikeus saada verotusasiakirjoista ilmeneviä päiväsakon suuruuden määräämistä varten tarvittavia tietoja sen mukaan kuin verohallitus tarkemmin määrää. Puolisolla tai kuolleen puolison oikeudenomistajilla samoin kuin tuomioistuimen tai tuomarin määräämällä pesänselvittäjällä ja pesänjakajalla on oikeus saada verotusasiakirjoista ilmeneviä pesän selvittämiseksi ja osituksen tai perinnönjaon toimittamiseksi tarvittavia tietoja. Valtion ja kuntien viranomaisilla sekä julkisyhteisöillä on oikeus saada verohallitukselta rekisterien ja tilastojen pitämisessä tarvittavia verovelvollisen yksilöimistä tarkoittavia tietoja (tunnistamistieto). Verohallitus voi erityisistä syistä määrätä verotusasiakirjoista ilmeneviä tietoja annettavaksi valtion ja kunnan viranomaisille sekä julkisyhteisölle myös muussa kuin edellä tässä pykälässä säädetyssä tarkoituksessa. Verohallitus voi määrätä verotustiedot ja -asiakirjat annettavaksi tilastollista tai tieteellistä tutkimusta varten tällaista tutkimusta suorittavan viranomaisen tai henkilön käytettäväksi. Veroviranomaisilta tämän pykälän nojalla saatuja tietoja saa käyttää ainoastaan siihen tarkoitukseen, johon ne on luovutettu. Tietoja ei saa luovuttaa edelleen, ellei toisin ole säädetty tai tietoja annettaessa niin määrätty.",
+      "section_number": "129",
+      "chapter_number": 19,
+      "statute_id": ""
+    },
+    {
+      "id": "c3a8f258-bbc3-4f1f-b1f7-627b61e27f10",
+      "node_type": "Section",
+      "publisher": "finlex",
+      "title": "130 §",
+      "text": "Jokainen on velvollinen pitämään salassa ja olemaan hyväkseen käyttämättä, mitä hän virassaan, julkisessa toimessaan, 129§:ssä tarkoitetuissa tapauksissa taikka muutoin on kuukausi-ilmoituksesta tai tilikausi-ilmoituksesta taikka verotusta varten annetuista muista tiedoista tai asiakirjoista saanut tietää toisen liiketoimista, niin myös mitä lääninverovirastossa tai verohallituksessa on niistä lausuttu.",
+      "section_number": "130",
+      "chapter_number": 19,
+      "statute_id": ""
+    },
+    {
+      "id": "dbb83802-0751-4c66-964b-a317815d4d1c",
+      "node_type": "Section",
+      "publisher": "finlex",
+      "title": "131 §",
+      "text": "Verotusta tai siitä tehtyä valitusta varten voi se viranomainen, joka asiaa käsittelee, myöntää verovelvolliselle sekä valtionasiamiehelle oikeuden kuulustuttaa valallisesti todistajia siinä yleisessä alioikeudessa, missä se saattaa sopivasti käydä päinsä. Todistajain kuulustelussa on myös toisella asianosaisella tällöin oikeus kuulustuttaa todistajia.",
+      "section_number": "131",
+      "chapter_number": 19,
+      "statute_id": ""
+    },
+    {
+      "id": "759d59c6-7528-4fa2-a657-c78c17789586",
+      "node_type": "Section",
+      "publisher": "finlex",
+      "title": "132 §",
+      "text": "Edellä 131§:ssä tarkoitetulle todistajalle on sen viranomaisen, joka on todistajaa kuullut, määrättävä suoritettavaksi palkkio, ja tällöin on soveltuvin osin noudatettava, mitä on voimassa todistajain palkkioiden määräämisestä yleisessä tuomioistuimessa vireillä olevassa asiassa. Milloin todistajaa on kuultu valtion nimeämänä, maksetaan hänelle tuleva palkkio yleisistä varoista niiden perusteiden mukaan, jotka ovat voimassa korvauksen suorittamisesta valtion varoista tuomioistuimessa kuullulle todistajalle. Muussa tapauksessa on palkkio sen suoritettava, joka on todistajan nimennyt. Mitä tässä pykälässä säädetään todistajasta, on soveltuvin kohdin noudatettava asiantuntijaan.",
+      "section_number": "132",
+      "chapter_number": 19,
+      "statute_id": ""
+    },
+    {
+      "id": "35ed58f2-dc99-4f0f-b93b-9e7a81bed9f6",
+      "node_type": "Section",
+      "publisher": "finlex",
+      "title": "133 §",
+      "text": "Ulosotonhaltija sekä nimismies ja poliisilaitos ovat velvollisia antamaan veroviranomaisille tarpeellista virka-apua. Ulosotonhaltijalla on myös oikeus veroviranomaisen esityksestä uhkasakolla velvoittaa se, joka ei ole noudattanut 82 ja 83§:n nojalla annettua kehoitusta, täyttämään velvollisuutensa.",
+      "section_number": "133",
+      "chapter_number": 19,
+      "statute_id": ""
+    },
+    {
+      "id": "be997684-f101-4bd6-992d-99587b54ffe5",
+      "node_type": "Section",
+      "publisher": "finlex",
+      "title": "134 §",
+      "text": "Verovelvollisella ja ennakkotiedon hakijalla on oikeus saada ote hänen verotustaan koskevasta lääninveroviraston ja liikevaihtovero-oikeuden pöytäkirjasta sekä jäljennös asiassa annetuista päätöksistä, lausunnoista, vastineista ja 83§:n mukaan toimitetussa tarkastuksessa laaditusta kertomuksesta. Edellä 1 momentissa tarkoitetusta jäljennöksestä voidaan asetuksella säätää perittäväksi lunastusta, joka määrätään eräiden viranomaisten toimituskirjoista ja virkatoimista suoritettavain maksujen perusteista annetussa laissa (806/42) säädettyjen yleisten perusteiden mukaan. Lunastusta ei kuitenkaan voida määrätä otettavaksi verolipun jäljennöksestä.",
+      "section_number": "134",
+      "chapter_number": 19,
+      "statute_id": ""
+    },
+    {
+      "id": "484f86c0-1635-43d7-9bfe-3bac6cfc95b2",
+      "node_type": "Section",
+      "publisher": "finlex",
+      "title": "135 §",
+      "text": "Rangaistus liikevaihtoveron lainvastaisesta välttämisestä ja sen yrittämisestä on säädetty rikoslain 29 luvun 1-3§:ssä. Rangaistus liikevaihtoveroon kohdistuvasta verorikkomuksesta on säädetty rikoslain 29 luvun 4§:ssä. Joka viranomaisen kehotuksesta huolimatta jättää asianmukaisesti täyttämättä 75, 76 tai 79§:ssä, 80§:n 1-3 momentissa, 82§:n 2 momentissa, 83§:n 1 momentissa, 84§:n 1 momentissa tai 126§:ssä säädetyn velvollisuuden, on tuomittavaliikevaihtoverorikkomuksestasakkoon. Edellä 3 momentissa tarkoitetusta rikkomuksesta voidaan jättää ilmoitus tekemättä, syyte ajamatta tai rangaistus tuomitsematta, jos rikkomus on ollut vähäinen ja se on viivyttelemättä korjattu.",
+      "section_number": "135",
+      "chapter_number": 19,
+      "statute_id": ""
+    },
+    {
+      "id": "8dde03ab-858f-40a1-affb-cc2c2abfd3fa",
+      "node_type": "Section",
+      "publisher": "finlex",
+      "title": "136 §",
+      "text": "Rangaistus virkamiehen ja julkisyhteisön työntekijän salassapitovelvollisuuden rikkomisesta on säädetty rikoslain 40 luvun 5§:ssä.",
+      "section_number": "136",
+      "chapter_number": 19,
+      "statute_id": ""
+    },
+    {
+      "id": "02842fe1-b0b2-4a92-9c5d-072560b4be9a",
+      "node_type": "Section",
+      "publisher": "finlex",
+      "title": "137 §",
+      "text": "Jos muu kuin virkamies tai julkisyhteisön työntekijä luvattomasti rikkoo 130§:ssä tarkoitetun salassapitovelvollisuuden, hänet on tuomittavaliikevaihtoverotietojen salassapitovelvollisuuden rikkomisestasakkoon tai vankeuteen enintään kuudeksi kuukaudeksi.",
+      "section_number": "137",
+      "chapter_number": 19,
+      "statute_id": ""
+    },
+    {
+      "id": "7ee1ee16-e211-4e49-bf3f-e0e631a057b6",
+      "node_type": "Section",
+      "publisher": "finlex",
+      "title": "138 §",
+      "text": "Tarkempia säännöksiä tämän lain täytäntöönpanosta annetaan tarvittaessa asetuksella.",
+      "section_number": "138",
+      "chapter_number": 19,
+      "statute_id": ""
+    },
+    {
+      "id": "1cf7aef0-1a78-476a-8602-d9365f490a5d",
+      "node_type": "Section",
+      "publisher": "finlex",
+      "title": "139 §",
+      "text": "Tämä laki tulee voimaan 1 päivänä lokakuuta 1991. Lakia sovelletaan, ellei jäljempänä toisin säädetä, kun myyty tavara on toimitettu tai palvelu suoritettu, maahan tuotu tavara on luovutettu tullivalvonnasta tai tavara on otettu omaan käyttöön lain voimaantulopäivänä tai sen jälkeen. Tällä lailla kumotaan 5 päivänä joulukuuta 1963 annettu liikevaihtoverolaki (532/63, jäljempänä vanha liikevaihtoverolaki), eräitä elintarvikkeita koskevista poikkeuksista liikevaihtoverolakiin 1 päivänä joulukuuta 1978 annettu laki (915/78), eräitä tuotannollisia investointeja koskevista poikkeuksista liikevaihtoverolakiin 19 päivänä joulukuuta 1980 annettu laki (848/80) sekä energiainvestointien liikevaihtoverovähennyksistä 11 päivänä heinäkuuta 1986 annettu laki (547/86) niihin myöhemmin tehtyine muutoksineen. Edellä mainittuja lakeja on kuitenkin sovellettava, ellei jäljempänä toisin säädetä, kun myyty tavara on toimitettu tai palvelu suoritettu, maahan tuotu tavara on luovutettu tullivalvonnasta tai tavara on otettu omaan käyttöön ennen lain voimaantuloa.",
+      "section_number": "139",
+      "chapter_number": 20,
+      "statute_id": ""
+    },
+    {
+      "id": "8d8caf5f-985f-422d-bdd7-4f472d148acc",
+      "node_type": "Section",
+      "publisher": "finlex",
+      "title": "140 §",
+      "text": "Tätä lakia ei sovelleta sellaisiin lain voimaantullessa keskeneräisiin tavaratoimituksiin tai työsuorituksiin, jotka vanhan liikevaihtoverolain säännösten perusteella jäisivät liikevaihtoverotuksen soveltamisalan ulkopuolelle. Tämän lain 26§:ssä tarkoitettua verokantaa sovelletaan sellaisissa lain voimaantullessa keskeneräisissä tavaratoimituksissa tai työsuorituksissa, jotka on aloitettu ennen 1 päivää tammikuuta 1991, vain niihin tavaroihin, jotka toimitetaan asennuspaikalle lain voimaantulopäivänä tai sen jälkeen, sekä työsuorituksen siihen osaan, joka tapahtuu lain voimaantulopäivänä tai sen jälkeen.",
+      "section_number": "140",
+      "chapter_number": 20,
+      "statute_id": ""
+    },
+    {
+      "id": "6b7fbfe9-b2ce-4035-9cb9-fcfa20a28708",
+      "node_type": "Section",
+      "publisher": "finlex",
+      "title": "141 §",
+      "text": "Tätä lakia ei sovelleta sellaisen muuhun kuin vanhassa liikevaihtoverolaissa tarkoitettuun myyntitarkoitukseen hankitun tai tällaiseen tarkoitukseen valmistetun tavaran myyntiin, joka on toimitettu tai luovutettu tullivalvonnasta myyjälle tai jonka myyjä on ottanut omaan käyttöön ennen tämän lain voimaantuloa. Sen estämättä, mitä 1 momentissa on säädetty, tätä lakia sovelletaan sellaisen tavaran myyntiin, josta verovelvollinen on voinut tehdä vanhaan liikevaihtoverolakiin väliaikaisesti lisätyn 18 b§:n tai eräitä tuotannollisia investointeja koskevista poikkeuksista liikevaihtoverolakiin annetun lain 4§:n 1 momentin tai energiainvestointien liikevaihtoverovähennyksistä annetun lain 2§:n 3 ja 4 momentin mukaisen vähennyksen.",
+      "section_number": "141",
+      "chapter_number": 20,
+      "statute_id": ""
+    },
+    {
+      "id": "da2707ef-38f6-4fa3-b0aa-27c04244d923",
+      "node_type": "Section",
+      "publisher": "finlex",
+      "title": "142 §",
+      "text": "Tämän lain 9 luvun vähennettävää veroa koskevia säännöksiä sovelletaan silloin, kun myyty tavara on toimitettu tai palvelu suoritettu taikka maahan tuotu tavara on luovutettu tullivalvonnasta vähennyksen tekemiseen oikeutetulle verovelvolliselle lain voimaantulopäivänä tai sen jälkeen. Ennen tämän lain voimaantuloa vähennykseen oikeutetulle verovelvolliselle toimitetusta tavarasta tai suoritetusta palvelusta taikka tullivalvonnasta luovutetusta tavarasta tehtävään vähennykseen sovelletaan ennen lain voimaantuloa voimassa olleita säännöksiä kuitenkin siten, että jos vähennys tulee tehtäväksi lain voimaantulokuukaudelta tai sen jälkeisiltä kalenterikuukausilta, vähennetään vähennyskelpoista ostohintaa vastaava määrä veroa. Tämän lain 52§:ää sovelletaan silloin, kun vähennykseen oikeuttavaan käyttöön on lain voimaantulopäivänä tai sen jälkeen otettu sellainen tavara, joka on toimitettu tai luovutettu tullivalvonnasta vähennyksen tekemiseen oikeutetulle verovelvolliselle tai otettu omaan käyttöön lain voimaantulopäivänä tai sen jälkeen. Verovelvollinen ei kuitenkaan saa tehdä 9 luvussa tarkoitettua vähennystä sellaisesta ostetusta tai vuokratusta tavarasta, joka on ollut hänen omistuksessaan jonakin ajankohtana kahden vuoden aikana ennen tämän lain voimaantuloa ja jonka hankinnasta hän ei ole saanut tehdä vähennystä ennen lain voimaantuloa voimassa olleiden säännösten perusteella. Tämän lain 44 ja 45§:ää sovelletaan niihin rakennuksiin ja pysyviin rakennelmiin, joiden rakentamiseen on ryhdytty lain voimaantulopäivänä tai sen jälkeen. Rakentamiseen katsotaan ryhdytyn, jolleivät erityiset seikat muuta osoita, kun mahdollisia kaivutöitä lukuun ottamatta rakennuksen tai rakennelman perustustyöt on aloitettu. Tämän lain voimaantullessa keskeneräisiin rakennuksiin ja pysyviin rakennelmiin sovelletaan ennen lain voimaantuloa voimassa olleita säännöksiä kuitenkin siten, että lain voimaantulokuukaudelta ja sen jälkeisiltä kalenterikuukausilta vähennetään ostohinnan vähennyskelpoista osaa vastaava määrä veroa.",
+      "section_number": "142",
+      "chapter_number": 20,
+      "statute_id": ""
+    },
+    {
+      "id": "e56f1e98-097f-4768-aaea-9c4858d7bc55",
+      "node_type": "Section",
+      "publisher": "finlex",
+      "title": "143 §",
+      "text": "Verovelvollinen saa tehdä lain voimaantullessa hallussaan olevasta 9 luvussa tarkoitettuun vähennykseen oikeuttavaan käyttöön hankitusta tavarasta ja työsuorituksesta mainitussa luvussa tarkoitetun vähennyksen, jos tavara tai työsuoritus on hankittu käytettäväksi yksinomaan lain voimaantulopäivänä tai sen jälkeen harjoitettavassa verollisessa liiketoiminnassa ja jos tavarasta tai työsuorituksesta ei ole voitu tehdä vähennystä ennen tämän lain voimaantuloa voimassa olleiden säännösten perusteella. Edellä 1 momentissa tarkoitettu vähennys tehdään lain voimaantulokuukaudelta.",
+      "section_number": "143",
+      "chapter_number": 20,
+      "statute_id": ""
+    },
+    {
+      "id": "f5058b24-e751-4375-a310-362f387373c5",
+      "node_type": "Section",
+      "publisher": "finlex",
+      "title": "144 §",
+      "text": "Tämän lain 36§:n 1 momentin 4 kohdan ja 47§:n 1 momentin 5 kohdan maakaasun verotonta maahantuontia ja vähennysoikeutta koskevat säännökset ovat väliaikaisina voimassa vuoden 2001 loppuun.",
+      "section_number": "144",
+      "chapter_number": 20,
+      "statute_id": ""
+    },
+    {
+      "id": "d1a7df28-f273-4fdd-8fb4-8a376ad7825a",
+      "node_type": "Section",
+      "publisher": "finlex",
+      "title": "145 §",
+      "text": "Tämän lain 10 luvun vähennetyn laskennallisen veron palauttamista koskevia säännöksiä sovelletaan, kun tavara on viety maasta, toimitettu tai otettu omaan käyttöön lain voimaantulopäivänä tai sen jälkeen. Jos tavarasta on voitu tehdä vanhan liikevaihtoverolain 18§:n 1 momentissa tai eräitä elintarvikkeita koskevista poikkeuksista liikevaihtoverolakiin annetussa laissa tarkoitettu vähennys tai jos maahan tuodusta tavarasta on maksettu vanhan liikevaihtoverolain 28§:ssä tai eräitä elintarvikkeita koskevista poikkeuksista liikevaihtoverolakiin annetussa laissa tarkoitettu veronpalautus ja tavara on viety maasta, toimitettu tai otettu omaan käyttöön lain voimaantulopäivänä tai sen jälkeen, veroa on suoritettava tehdyn vähennyksen määrästä ja saatu veronpalautus on maksettava takaisin noudattaen tämän lain 10 luvun säännöksiä.",
+      "section_number": "145",
+      "chapter_number": 20,
+      "statute_id": ""
+    },
+    {
+      "id": "362dba2e-2ad4-4c3d-9312-5e0b43f635c7",
+      "node_type": "Section",
+      "publisher": "finlex",
+      "title": "146 §",
+      "text": "Myynnin ja vähennyksen ajalliseen kohdistamiseen sovelletaan ennen tämän lain voimaantuloa voimassa olleita säännöksiä silloin, kun ennen tämän lain voimaantuloa toimitetusta tavarasta tai suoritetusta palvelusta on veloitettu, myyntihinta on kertynyt tai ostohinta on maksettu  lain voimaantulopäivänä tai sen jälkeen. Jos eräitä tuotannollisia investointeja koskevista poikkeuksista liikevaihtoverolakiin annetussa laissa tai energiainvestointien liikevaihtoverovähennyksistä annetussa laissa tarkoitetun rakennuksen tai pysyvän rakennelman rakentaminen on tämän lain voimaantullessa kesken, teollisuusrakennuksesta tehtävän vähennyksen ajalliseen kohdistamiseen sovelletaan ennen tämän lain voimaantuloa voimassa olleita säännöksiä. Myynnin oikaisuerä ja luottotappio, joka ennen tämän lain voimaantuloa on hyvän kirjanpitotavan mukaan vähennetty kirjanpidossa, mutta jota ei ole vanhan liikevaihtoverolain nojalla vähennetty, vähennetään tämän lain voimaantulokuukaudelta. Ostojen oikaisuerä, joka on ennen tämän lain voimaantuloa hyvän kirjanpitotavan mukaan kirjattu, mutta jolla ei ole vanhan liikevaihtoverolain nojalla oikaistu tehtyjä vähennyksiä, otetaan huomioon tämän lain voimaantulokuukaudelta.",
+      "section_number": "146",
+      "chapter_number": 20,
+      "statute_id": ""
+    },
+    {
+      "id": "a9a91601-3b3d-4372-866f-50ea79e9a047",
+      "node_type": "Section",
+      "publisher": "finlex",
+      "title": "147 §",
+      "text": "Tämän lain 76§:n 2 momentissa tarkoitettu tilikausi-ilmoitus annetaan ensimmäisen kerran lain voimaantulon jälkeiseltä tilikaudelta tai tilikauden osalta. Tämän lain voimaantuloa edeltävältä tilikaudelta tai tilikauden osalta verovelvollisen on annettava tilikausi-ilmoitus kolmen kuukauden kuluessa lain voimaantulosta noudattaen muutoin vanhan liikevaihtoverolain säännöksiä. Edellä 1 momentissa tarkoitettuun tämän lain voimaantuloa edeltävään tilikauden osaan sovelletaan vanhassa liikevaihtoverolaissa olevia tilikautta koskevia säännöksiä. Tämän lain voimaantulon jälkeiseen tilikauden osaan sovelletaan tässä laissa olevia tilikautta koskevia säännöksiä.",
+      "section_number": "147",
+      "chapter_number": 20,
+      "statute_id": ""
+    },
+    {
+      "id": "e477c341-e648-457f-8459-f42b0c370c71",
+      "node_type": "Section",
+      "publisher": "finlex",
+      "title": "148 §",
+      "text": "Jos 147§:ssä tarkoitettu tämän lain voimaantulon jälkeinen tilikauden osa on lyhyempi tai pitempi kuin 12 kuukautta, sovelletaan 12§:ssä tarkoitettuun verovelvollisuuden määrittelyyn sekä 102§:ssä tarkoitettuun palautukseen lain 12§:n 2 momentin mukaista laskentasääntöä.",
+      "section_number": "148",
+      "chapter_number": 20,
+      "statute_id": ""
+    },
+    {
+      "id": "f0aa641d-7957-41ea-ada9-c4db074282d7",
+      "node_type": "Section",
+      "publisher": "finlex",
+      "title": "149 §",
+      "text": "Huojennuspalautusta koskevaa vanhan liikevaihtoverolain 55 b§:ää sovelletaan viimeisen kerran tämän lain voimaantuloa edeltävältä kalenterivuodelta tai sen osalta maksettavaan veroon. Jos veron takaisinmaksuun oikeuttava ajanjakso on lyhyempi kuin kalenterivuosi, pienennetään edellä mainitussa lainkohdassa säädettyjä markkamääriä kunkin puuttuvan kalenterikuukauden osalta yhdellä kahdennellatoista osalla. Edellä 1 momentin nojalla takaisin maksettavalle verolle ei makseta 103§:n 2 momentissa mainittua korkoa.",
+      "section_number": "149",
+      "chapter_number": 20,
+      "statute_id": ""
+    },
+    {
+      "id": "f73555d3-4b8f-4679-8f7f-79f1935f97c7",
+      "node_type": "Section",
+      "publisher": "finlex",
+      "title": "150 §",
+      "text": "Ennen tämän lain voimaantuloa voidaan ryhtyä lain täytäntöönpanon edellyttämiin toimenpiteisiin.",
+      "section_number": "150",
+      "chapter_number": 20,
+      "statute_id": ""
+    }
+  ],
+  "clauses": [
+    {
+      "id": "df4d02f0-f895-43c7-aa83-f6c8c9065089",
+      "node_type": "Clause",
+      "publisher": "finlex",
+      "title": "§ 2 mom 1",
+      "text": "1) liiketoiminnan muodossa tapahtuvasta tavaran ja verollisen palvelun myynnistä;",
+      "clause_number": 1,
+      "section_number": "2",
+      "statute_id": ""
+    },
+    {
+      "id": "0d7e0c9d-ec87-40ec-a2d1-3bcd765b89d3",
+      "node_type": "Clause",
+      "publisher": "finlex",
+      "title": "§ 2 mom 2",
+      "text": "2) tavaran maahantuonnista.",
+      "clause_number": 2,
+      "section_number": "2",
+      "statute_id": ""
+    },
+    {
+      "id": "c8ff644b-cbb5-4c7b-81a9-420abaa0750b",
+      "node_type": "Clause",
+      "publisher": "finlex",
+      "title": "§ 3 mom 1",
+      "text": "1) rakennus ja muu pysyvä rakennelma;",
+      "clause_number": 1,
+      "section_number": "3",
+      "statute_id": ""
+    },
+    {
+      "id": "d5eb51c2-d557-47b6-a2d9-881750b8b53d",
+      "node_type": "Clause",
+      "publisher": "finlex",
+      "title": "§ 3 mom 2",
+      "text": "2) vesi, lukuun ottamatta pakkauksissa tai muissa vähittäismyyntierissä myytävää vettä;",
+      "clause_number": 2,
+      "section_number": "3",
+      "statute_id": ""
+    },
+    {
+      "id": "588f7261-58dd-45c3-b0cb-c6f6845ef1a0",
+      "node_type": "Clause",
+      "publisher": "finlex",
+      "title": "§ 3 mom 3",
+      "text": "3) asiakirja, joka on tietyn oikeuden todisteena;",
+      "clause_number": 3,
+      "section_number": "3",
+      "statute_id": ""
+    },
+    {
+      "id": "940dfb70-cf67-4c0b-88e4-feb6881bda6f",
+      "node_type": "Clause",
+      "publisher": "finlex",
+      "title": "§ 3 mom 4",
+      "text": "4) tietovälineelle tallennettu tietokonelaitteiston käyttäjän yksilöllisiä tarpeita varten suunniteltu tietokoneohjelma.",
+      "clause_number": 4,
+      "section_number": "3",
+      "statute_id": ""
+    },
+    {
+      "id": "ec4f2fec-ca16-4d32-935b-f04f2e5f61a0",
+      "node_type": "Clause",
+      "publisher": "finlex",
+      "title": "§ 4 mom 1",
+      "text": "1) tavaraan kohdistuva valmistus-, muutos-, puhdistus-, korjaus-, kunnostamis- ja asentamistyö sekä tavaraan kohdistuva muu kuin kuljetus- ja ahtaustoimintaan liittyvä purkamis-, lajittelu- ja pakkaustyö;",
+      "clause_number": 1,
+      "section_number": "4",
+      "statute_id": ""
+    },
+    {
+      "id": "5b48af40-9c6d-49e3-b1c9-9fc6d598cc2b",
+      "node_type": "Clause",
+      "publisher": "finlex",
+      "title": "§ 4 mom 2",
+      "text": "2) rakennukseen tai pysyvään rakennelmaan kuuluvaan koneistoon, kalusteeseen, vesi-, viemäri-, lämpö-, kaasu- ja sähköjohtoon tai muuhun sellaiseen laitteeseen kohdistuva 1 kohdassa tarkoitettu työsuoritus;",
+      "clause_number": 2,
+      "section_number": "4",
+      "statute_id": ""
+    },
+    {
+      "id": "7f216a4f-e03b-434d-96a8-67c8f77d9607",
+      "node_type": "Clause",
+      "publisher": "finlex",
+      "title": "§ 4 mom 3",
+      "text": "3) tavaran vuokraaminen ja muu tavaran käyttöoikeuden luovuttaminen;",
+      "clause_number": 3,
+      "section_number": "4",
+      "statute_id": ""
+    },
+    {
+      "id": "fc9c7bb7-47ea-409a-9749-92f487e845af",
+      "node_type": "Clause",
+      "publisher": "finlex",
+      "title": "§ 4 mom 4",
+      "text": "4) tarjoilu;",
+      "clause_number": 4,
+      "section_number": "4",
+      "statute_id": ""
+    },
+    {
+      "id": "6ed1dcbd-1c47-492f-91cb-130900bbc1c1",
+      "node_type": "Clause",
+      "publisher": "finlex",
+      "title": "§ 4 mom 5",
+      "text": "5) telepalvelu.",
+      "clause_number": 5,
+      "section_number": "4",
+      "statute_id": ""
+    },
+    {
+      "id": "16f68171-ede5-4891-9345-84e6b8189dec",
+      "node_type": "Clause",
+      "publisher": "finlex",
+      "title": "§ 6 mom 1",
+      "text": "1) 9 luvussa tarkoitettuun vähennykseen oikeuttavaan käyttöön hankittu tai verollisen liiketoiminnan yhteydessä valmistettu tavara otetaan verovelvollisen tai hänen henkilökuntansa yksityiseen käyttöön taikka muutoin muuhun kuin vähennykseen oikeuttavaan käyttöön;",
+      "clause_number": 1,
+      "section_number": "6",
+      "statute_id": ""
+    },
+    {
+      "id": "da2826c7-0934-4cfc-ac2c-cdde1e26d79d",
+      "node_type": "Clause",
+      "publisher": "finlex",
+      "title": "§ 6 mom 1",
+      "text": "2) liiketoiminnan muodossa harjoitettavan rakennustoiminnan yhteydessä valmistettu 22§:n 1 momentin 3 kohdassa tarkoitettu tavanomainen myyntituote otetaan käytettäväksi tässä toiminnassa.",
+      "clause_number": 1,
+      "section_number": "6",
+      "statute_id": ""
+    },
+    {
+      "id": "750f4ebd-fa44-43df-ad56-3e248992f2fd",
+      "node_type": "Clause",
+      "publisher": "finlex",
+      "title": "§ 6 mom 2",
+      "text": "2) liiketoiminnan muodossa harjoitettavan rakennustoiminnan yhteydessä valmistettu 22§:n 1 momentin 3 kohdassa tarkoitettu tavanomainen myyntituote otetaan käytettäväksi tässä toiminnassa.",
+      "clause_number": 2,
+      "section_number": "6",
+      "statute_id": ""
+    },
+    {
+      "id": "c29d0167-3c1d-471e-ba65-522810dbacd7",
+      "node_type": "Clause",
+      "publisher": "finlex",
+      "title": "§ 7 mom 1",
+      "text": "1) muun kuin verollisen liiketoiminnan yhteydessä asiakaspalveluna tapahtuvaa ja siihen tavanomaisesti liittyvää vähäistä tavaran tai palvelun myyntiä;",
+      "clause_number": 1,
+      "section_number": "7",
+      "statute_id": ""
+    },
+    {
+      "id": "c8515785-5e30-44ca-b97e-299d3ba0b12d",
+      "node_type": "Clause",
+      "publisher": "finlex",
+      "title": "§ 7 mom 2",
+      "text": "2) muuhun kuin 9 luvussa tarkoitettuun vähennykseen oikeuttavaan käyttöön hankitun tai tällaiseen käyttöön valmistetun tavaran vastikkeellista luovuttamista.",
+      "clause_number": 2,
+      "section_number": "7",
+      "statute_id": ""
+    },
+    {
+      "id": "42d428c2-551a-4531-a82d-829e306c5bac",
+      "node_type": "Clause",
+      "publisher": "finlex",
+      "title": "§ 14 mom 1",
+      "text": "1) viljan puinti-, kuivaus-, lajittelu- ja peittaustyö, kun se suoritetaan 1 momentissa mainituilla koneilla ja laitteilla;",
+      "clause_number": 1,
+      "section_number": "14",
+      "statute_id": ""
+    },
+    {
+      "id": "18c1e014-c959-4c25-bdae-871b3e021797",
+      "node_type": "Clause",
+      "publisher": "finlex",
+      "title": "§ 14 mom 1",
+      "text": "1) viljan puinti-, kuivaus-, lajittelu- ja peittaustyö, kun se suoritetaan 1 momentissa mainituilla koneilla ja laitteilla;",
+      "clause_number": 1,
+      "section_number": "14",
+      "statute_id": ""
+    },
+    {
+      "id": "96a465b1-e00e-4200-8408-cce78be61d47",
+      "node_type": "Clause",
+      "publisher": "finlex",
+      "title": "§ 14 mom 2",
+      "text": "2) mainittujen koneiden ja laitteiden vuokraaminen;",
+      "clause_number": 2,
+      "section_number": "14",
+      "statute_id": ""
+    },
+    {
+      "id": "3b2a0b05-963d-4d74-b79b-64dd4cdbee99",
+      "node_type": "Clause",
+      "publisher": "finlex",
+      "title": "§ 14 mom 3",
+      "text": "3) maatalouskoneiden ja -laitteiden korjaus- ja huoltotyö.",
+      "clause_number": 3,
+      "section_number": "14",
+      "statute_id": ""
+    },
+    {
+      "id": "9a94c6d3-fd46-4751-a0c4-9df0afecdc3b",
+      "node_type": "Clause",
+      "publisher": "finlex",
+      "title": "§ 22 mom 1",
+      "text": "1) määrä, jolla ostajaa on tavarasta tai verollisesta palvelusta veloitettu;",
+      "clause_number": 1,
+      "section_number": "22",
+      "statute_id": ""
+    },
+    {
+      "id": "6ec9e853-09c5-4f9a-abe1-e3b931e7e220",
+      "node_type": "Clause",
+      "publisher": "finlex",
+      "title": "§ 22 mom 2",
+      "text": "2) otettaessa tavara omaan käyttöön sen ostohinta tai itse maahan tuodun tavaran 35§:ssä tarkoitettu veron peruste taikka niitä alempi todennäköinen luovutushinta;",
+      "clause_number": 2,
+      "section_number": "22",
+      "statute_id": ""
+    },
+    {
+      "id": "69cd1640-ebef-472f-a432-915a895e82eb",
+      "node_type": "Clause",
+      "publisher": "finlex",
+      "title": "§ 22 mom 3",
+      "text": "3) \n                                        otettaessa omaan käyttöön itse valmistettu tavara, jota vastaavia verovelvollinen valmistaa myytäväksi taikka jota vastaavia Suomessa yleisesti valmistetaan myyntiä varten tai yleisesti tuodaan maahan (tavanomainen myyntituote), sen todennäköinen luovutushinta;",
+      "clause_number": 3,
+      "section_number": "22",
+      "statute_id": ""
+    },
+    {
+      "id": "ea3fde9b-b2e3-4dae-ade3-13b698a89b0f",
+      "node_type": "Clause",
+      "publisher": "finlex",
+      "title": "§ 22 mom 4",
+      "text": "4) tarjoilua harjoittavan verovelvollisen ottaessa valmistamansa aterian omaan käyttöön, ennakonpidätystä varten vahvistettu ravintoedun raha-arvo.",
+      "clause_number": 4,
+      "section_number": "22",
+      "statute_id": ""
+    },
+    {
+      "id": "148fd53a-4455-477b-a944-6f0d74a8b15d",
+      "node_type": "Clause",
+      "publisher": "finlex",
+      "title": "§ 25 mom 1",
+      "text": "1) ostajalle annettu, verollista myyntiä koskeva vuosi- ja vaihtoalennus, osto- ja myyntihyvitys, ylijäämänpalautus sekä muu sellainen oikaisuerä;",
+      "clause_number": 1,
+      "section_number": "25",
+      "statute_id": ""
+    },
+    {
+      "id": "85c3ceec-0848-413b-910b-48e05b001429",
+      "node_type": "Clause",
+      "publisher": "finlex",
+      "title": "§ 25 mom 2",
+      "text": "2) verollisena ilmoitettua myyntiä koskeva luottotappio.",
+      "clause_number": 2,
+      "section_number": "25",
+      "statute_id": ""
+    },
+    {
+      "id": "8ebc3178-68bc-4518-9404-b7c4113c4522",
+      "node_type": "Clause",
+      "publisher": "finlex",
+      "title": "§ 27 mom 1",
+      "text": "1) sanoma- ja aikakauslehdet vähintään kuukauden ajaksi tilattuina sekä yleisesti tilattuina myytävät sanoma- ja aikakauslehdet vähintään kuukauden ajaksi ilmaiseksi luovutettuina;",
+      "clause_number": 1,
+      "section_number": "27",
+      "statute_id": ""
+    },
+    {
+      "id": "34092cd0-e7fd-479b-bde5-3ec6925af21f",
+      "node_type": "Clause",
+      "publisher": "finlex",
+      "title": "§ 27 mom 2",
+      "text": "2) vähintään neljä kertaa vuodessa ilmestyvän sanoma- tai aikakauslehden painos, kun se myydään yleishyödylliselle yhteisölle, joka julkaisee sanoma- tai aikakauslehteä pääasiassa jäseniään tai osakkaitaan taikka jäsenyhteisöjensä jäseniä tai osakkaita varten ja joka ei ole sanoma- tai aikakauslehtien myynnistä verovelvollinen;",
+      "clause_number": 2,
+      "section_number": "27",
+      "statute_id": ""
+    },
+    {
+      "id": "1cdfdeb3-0b20-4483-bf20-dbff670383a6",
+      "node_type": "Clause",
+      "publisher": "finlex",
+      "title": "§ 27 mom 3",
+      "text": "3) tekijän omistama kuvataiteen tuote;",
+      "clause_number": 3,
+      "section_number": "27",
+      "statute_id": ""
+    },
+    {
+      "id": "d9640363-9093-4791-b2fd-64cd5ca45e5c",
+      "node_type": "Clause",
+      "publisher": "finlex",
+      "title": "§ 27 mom 4",
+      "text": "4) poronjäkälä;",
+      "clause_number": 4,
+      "section_number": "27",
+      "statute_id": ""
+    },
+    {
+      "id": "89356d19-fb6e-42c0-b84f-e9c3eb4d027c",
+      "node_type": "Clause",
+      "publisher": "finlex",
+      "title": "§ 27 mom 5",
+      "text": "5) pyöreä puutavara, myös kyllästettynä tai lahosuojattuna;",
+      "clause_number": 5,
+      "section_number": "27",
+      "statute_id": ""
+    },
+    {
+      "id": "1d9389b9-67f8-4ad9-bcd6-e75775752915",
+      "node_type": "Clause",
+      "publisher": "finlex",
+      "title": "§ 27 mom 6",
+      "text": "6) halot ja pilkkeet, ei kuitenkaan silloin, kun niiden myynti tapahtuu pakkauksissa tai muissa vähittäismyyntierissä;",
+      "clause_number": 6,
+      "section_number": "27",
+      "statute_id": ""
+    },
+    {
+      "id": "145e4f46-c9b6-43f2-aabd-5159e1ab9f94",
+      "node_type": "Clause",
+      "publisher": "finlex",
+      "title": "§ 27 mom 7",
+      "text": "7) polttoturve ja polttoaineena yleisesti käytettävät turvejalosteet;",
+      "clause_number": 7,
+      "section_number": "27",
+      "statute_id": ""
+    },
+    {
+      "id": "6b92ed11-d77e-46a1-987c-f8b7867ebd76",
+      "node_type": "Clause",
+      "publisher": "finlex",
+      "title": "§ 27 mom 8",
+      "text": "8) polttohake ja -puupuristeet sekä polttoaineena yleisesti käytettävät teollisuuden jäteaineet;",
+      "clause_number": 8,
+      "section_number": "27",
+      "statute_id": ""
+    },
+    {
+      "id": "1cedbcd9-15a1-4798-b804-a4fe1671cf97",
+      "node_type": "Clause",
+      "publisher": "finlex",
+      "title": "§ 27 mom 9",
+      "text": "9) jätelipeä;",
+      "clause_number": 9,
+      "section_number": "27",
+      "statute_id": ""
+    },
+    {
+      "id": "054eddd4-8092-4bcb-9a50-fc468a08cfb6",
+      "node_type": "Clause",
+      "publisher": "finlex",
+      "title": "§ 27 mom 10",
+      "text": "10) kotimaan lentoliikennettä säännöllisin vuoroin harjoittavan lentoyhtiön sekä puolustusvoimien ja rajavartiolaitoksen lentotoiminnassa käytettävät poltto- ja voiteluaineet;",
+      "clause_number": 10,
+      "section_number": "27",
+      "statute_id": ""
+    },
+    {
+      "id": "de2c113c-2b63-4879-bdc8-af6d121dffc3",
+      "node_type": "Clause",
+      "publisher": "finlex",
+      "title": "§ 27 mom 11",
+      "text": "11) raa'at maaöljyt ja bitumisista kivennäisistä saadut raa'at öljyt;",
+      "clause_number": 11,
+      "section_number": "27",
+      "statute_id": ""
+    },
+    {
+      "id": "56d35deb-4a54-4ab1-ac26-0f5ce09a52da",
+      "node_type": "Clause",
+      "publisher": "finlex",
+      "title": "§ 27 mom 12",
+      "text": "12) maa, hiekka, sora ja kivi, sellaisenaan, kuiva- tai pesuseulottuna, louheena tai murskeena, ei kuitenkaan silloin, kun niiden myynti tapahtuu pakkauksissa tai muissa vähittäismyyntierissä;",
+      "clause_number": 12,
+      "section_number": "27",
+      "statute_id": ""
+    },
+    {
+      "id": "a4b05a9d-0bb3-45c1-90be-106db299c612",
+      "node_type": "Clause",
+      "publisher": "finlex",
+      "title": "§ 27 mom 13",
+      "text": "13) nautaeläimet, hevoset, porot, siat, lampaat, vuohet, kaniinit, koirat, kissat, kanat, ankat, hanhet, kalkkunat ja mehiläiset sekä tarhaturkiseläimet, kaikki elävinä;",
+      "clause_number": 13,
+      "section_number": "27",
+      "statute_id": ""
+    },
+    {
+      "id": "3d0b0513-1a1c-4ff3-bea6-c00bfdbe2e55",
+      "node_type": "Clause",
+      "publisher": "finlex",
+      "title": "§ 27 mom 14",
+      "text": "14) ilma-alukset sekä sellaiset vesialukset, joiden rungon suurin pituus on vähintään 10 metriä, eivät kuitenkaan rakenteeltaan pääasiallisesti huvi- tai urheilukäyttöön tarkoitetut vesialukset.",
+      "clause_number": 14,
+      "section_number": "27",
+      "statute_id": ""
+    },
+    {
+      "id": "52a2eed5-ed22-481d-9bd9-ec5ab1cb4f0b",
+      "node_type": "Clause",
+      "publisher": "finlex",
+      "title": "§ 28 mom 1",
+      "text": "1) \n                                        lannoitteet ja niiden valmistuksessa käytettäväksi tarkoitetut raaka- ja lisäaineet, maanviljelyskalkki sekä lannoitettu ja lannoittamaton kasvuturve (lannoiteaineet);",
+      "clause_number": 1,
+      "section_number": "28",
+      "statute_id": ""
+    },
+    {
+      "id": "296b6ee4-6e09-495c-950a-d5a766f9d106",
+      "node_type": "Clause",
+      "publisher": "finlex",
+      "title": "§ 28 mom 2",
+      "text": "2) \n                                        rehut ja rehuseokset sekä niiden valmistuksessa käytettäväksi tarkoitetut raaka- ja lisäaineet, eläinten ruokana käytettävät teollisuuden jäteaineet sekä rehukala (rehuaineet).",
+      "clause_number": 2,
+      "section_number": "28",
+      "statute_id": ""
+    },
+    {
+      "id": "06c63f6f-b347-42a5-80dd-02363916c96c",
+      "node_type": "Clause",
+      "publisher": "finlex",
+      "title": "§ 30 mom 1",
+      "text": "1) tavaran myynti, kun tavara myyjän nimissä ja hänen toimestaan tai toimeksiannostaan lähetetään tai kuljetetaan ulkomaille;",
+      "clause_number": 1,
+      "section_number": "30",
+      "statute_id": ""
+    },
+    {
+      "id": "d63823d2-9d6c-4961-b394-cf147403cc47",
+      "node_type": "Clause",
+      "publisher": "finlex",
+      "title": "§ 30 mom 2",
+      "text": "2) tavaran myynti ulkomaiselle yritykselle, joka ei ole Suomessa verovelvollinen ja joka noutaa tavaran maasta viedäkseen sen välittömästi ulkomaille;",
+      "clause_number": 2,
+      "section_number": "30",
+      "statute_id": ""
+    },
+    {
+      "id": "95c16e84-f2ce-4e7a-9575-941ff287e162",
+      "node_type": "Clause",
+      "publisher": "finlex",
+      "title": "§ 30 mom 3",
+      "text": "3) tavaran myynti ulkomaiselle ostajalle, joka ei ole Suomessa verovelvollinen, jos tavara toimitetaan hänen toimeksiannostaan ja häntä veloittaen verovelvolliselle liikkeenharjoittajalle työsuorituksen tekemistä ja edelleen ulkomaille toimittamista varten;",
+      "clause_number": 3,
+      "section_number": "30",
+      "statute_id": ""
+    },
+    {
+      "id": "d7323d97-544b-4831-9f4d-bcff6eee7ed4",
+      "node_type": "Clause",
+      "publisher": "finlex",
+      "title": "§ 30 mom 4",
+      "text": "4) tavaran myynti, kun tavara toimitetaan tullilain 20§:ssä tarkoitetulle vapaa-alueelle ja tullilain 25§:ssä tarkoitettuun tullivarastoon;",
+      "clause_number": 4,
+      "section_number": "30",
+      "statute_id": ""
+    },
+    {
+      "id": "28815ce3-1a39-45da-959e-139091802783",
+      "node_type": "Clause",
+      "publisher": "finlex",
+      "title": "§ 30 mom 5",
+      "text": "5) tavaran myynti ulkomailla olevalle ostajalle, kun tavaran vienti tapahtuu kuriiripostina ulkoasiainministeriön toimesta tai Suomessa toimivan diplomaattisen edustuston välityksellä.",
+      "clause_number": 5,
+      "section_number": "30",
+      "statute_id": ""
+    },
+    {
+      "id": "19deae98-ec99-4844-a0a3-9ebd0db346d3",
+      "node_type": "Clause",
+      "publisher": "finlex",
+      "title": "§ 36 mom 1",
+      "text": "1) 27§:n 1 momentissa tarkoitetut verottomat tavarat;",
+      "clause_number": 1,
+      "section_number": "36",
+      "statute_id": ""
+    },
+    {
+      "id": "140fca97-aca4-475c-a7d5-8304fc09ea68",
+      "node_type": "Clause",
+      "publisher": "finlex",
+      "title": "§ 36 mom 1",
+      "text": "1) 27§:n 1 momentissa tarkoitetut verottomat tavarat;",
+      "clause_number": 1,
+      "section_number": "36",
+      "statute_id": ""
+    },
+    {
+      "id": "6666dddc-f2b7-473f-82e7-1b95632ae83a",
+      "node_type": "Clause",
+      "publisher": "finlex",
+      "title": "§ 36 mom 2",
+      "text": "2) 28§:ssä tarkoitetut lannoite- ja rehuaineet sekä 29§:ssä tarkoitetut lääketuotteet;",
+      "clause_number": 2,
+      "section_number": "36",
+      "statute_id": ""
+    },
+    {
+      "id": "6bdd8f87-a3e9-4418-a2af-eec27f9e0a31",
+      "node_type": "Clause",
+      "publisher": "finlex",
+      "title": "§ 36 mom 3",
+      "text": "3) 49§:ssä tarkoitetut jalostamattomat alkutuotteet;",
+      "clause_number": 3,
+      "section_number": "36",
+      "statute_id": ""
+    },
+    {
+      "id": "e5772493-5922-434d-a230-ebb0f1576bd6",
+      "node_type": "Clause",
+      "publisher": "finlex",
+      "title": "§ 36 mom 4",
+      "text": "4) maakaasu.",
+      "clause_number": 4,
+      "section_number": "36",
+      "statute_id": ""
+    },
+    {
+      "id": "5a415964-78eb-4b1e-89cb-8b1af62cdb6c",
+      "node_type": "Clause",
+      "publisher": "finlex",
+      "title": "§ 41 mom 1",
+      "text": "1) toiselta verovelvolliselta ostamastaan tavarasta tai palvelusta suoritettavan veron;",
+      "clause_number": 1,
+      "section_number": "41",
+      "statute_id": ""
+    },
+    {
+      "id": "cd66ce8d-1645-40da-a074-7d1dc80c5c99",
+      "node_type": "Clause",
+      "publisher": "finlex",
+      "title": "§ 41 mom 2",
+      "text": "2) maahan tuomastaan tavarasta suoritettavan veron.",
+      "clause_number": 2,
+      "section_number": "41",
+      "statute_id": ""
+    },
+    {
+      "id": "c2cc3628-d51b-4f6a-a008-9bc900201f13",
+      "node_type": "Clause",
+      "publisher": "finlex",
+      "title": "§ 42 mom 1",
+      "text": "1) sellaiset käyttöomaisuudeksi taikka vuokra- tai muulla käyttöoikeudella hankitut koneet, kalusto ja muut niihin verrattavat tavarat, joiden todennäköinen taloudellinen käyttöaika on yli kolme vuotta, ellei niitä ole hankittu 4§:n 1 momentin 3 kohdassa tarkoitetulla tavalla vuokrattavaksi;",
+      "clause_number": 1,
+      "section_number": "42",
+      "statute_id": ""
+    },
+    {
+      "id": "fe3ffd92-e6f2-45be-af02-8994c735c950",
+      "node_type": "Clause",
+      "publisher": "finlex",
+      "title": "§ 42 mom 1",
+      "text": "1) sellaiset käyttöomaisuudeksi taikka vuokra- tai muulla käyttöoikeudella hankitut koneet, kalusto ja muut niihin verrattavat tavarat, joiden todennäköinen taloudellinen käyttöaika on yli kolme vuotta, ellei niitä ole hankittu 4§:n 1 momentin 3 kohdassa tarkoitetulla tavalla vuokrattavaksi;",
+      "clause_number": 1,
+      "section_number": "42",
+      "statute_id": ""
+    },
+    {
+      "id": "fa92d2d6-98c6-4ee3-8332-f94a892903d2",
+      "node_type": "Clause",
+      "publisher": "finlex",
+      "title": "§ 42 mom 2",
+      "text": "2) edellä 1 kohdassa tarkoitettuun tavaraan, jonka hankinnasta vähennystä ei saa tehdä, kohdistuva laajennus-, muutos-, uudistus- ja muu vastaava perusparannustyö tai tällaisessa työssä käytettävä tavara;",
+      "clause_number": 2,
+      "section_number": "42",
+      "statute_id": ""
+    },
+    {
+      "id": "ee6eacff-9dee-497b-8a42-3acf14b468bf",
+      "node_type": "Clause",
+      "publisher": "finlex",
+      "title": "§ 42 mom 1",
+      "text": "3) käyttöomaisuudeksi taikka vuokra- tai muulla käyttöoikeudella hankitut moottoriajoneuvot ja niiden perävaunut sekä vesialukset, ellei niitä ole hankittu 4§:n 1 momentin 3 kohdassa tarkoitetulla tavalla vuokrattavaksi;",
+      "clause_number": 1,
+      "section_number": "42",
+      "statute_id": ""
+    },
+    {
+      "id": "5901f8a8-cacc-4298-97eb-95e907928e65",
+      "node_type": "Clause",
+      "publisher": "finlex",
+      "title": "§ 42 mom 3",
+      "text": "3) käyttöomaisuudeksi taikka vuokra- tai muulla käyttöoikeudella hankitut moottoriajoneuvot ja niiden perävaunut sekä vesialukset, ellei niitä ole hankittu 4§:n 1 momentin 3 kohdassa tarkoitetulla tavalla vuokrattavaksi;",
+      "clause_number": 3,
+      "section_number": "42",
+      "statute_id": ""
+    },
+    {
+      "id": "0f2a5fbd-92cc-4484-8a1c-729bd677e972",
+      "node_type": "Clause",
+      "publisher": "finlex",
+      "title": "§ 42 mom 4",
+      "text": "4) edellä 3 kohdassa tarkoitettuun ajoneuvoon ja vesialukseen, jonka hankinnasta vähennystä ei saa tehdä, kohdistuva työsuoritus tai työssä käytettävä tavara sekä tällaisessa ajoneuvossa ja aluksessa käytettävä moottoribensiini ja dieselöljy;",
+      "clause_number": 4,
+      "section_number": "42",
+      "statute_id": ""
+    },
+    {
+      "id": "e65e8578-cbdb-4889-9c8a-f8b5a7c87699",
+      "node_type": "Clause",
+      "publisher": "finlex",
+      "title": "§ 42 mom 5",
+      "text": "5) käyttöomaisuudeksi taikka vuokra- tai muulla käyttöoikeudella hankittuun rakennukseen, siinä olevaan tilaan tai pysyvään rakennelmaan kohdistuva työsuoritus tai tällaisessa työssä käytettävä tavara;",
+      "clause_number": 5,
+      "section_number": "42",
+      "statute_id": ""
+    },
+    {
+      "id": "514b7ed0-ebbe-45ff-a99a-44dd19b24a86",
+      "node_type": "Clause",
+      "publisher": "finlex",
+      "title": "§ 42 mom 6",
+      "text": "6) verovelvollisen tai hänen henkilökuntansa pysyvänä asuntona, lastentarhana, urheilu-, harrastus- tai askartelutilana taikka loma-asuntona tai muuna vapaa-ajanviettopaikkana käytettävää rakennusta, siinä olevaa tilaa tai pysyvää rakennelmaa varten hankittu energiahyödyke ja polttoaine, muu tällaisen rakennuksen tai rakennelman käyttötarkoitusta palveleva tavara sekä tällaiseen tavaraan kohdistuva työsuoritus;",
+      "clause_number": 6,
+      "section_number": "42",
+      "statute_id": ""
+    },
+    {
+      "id": "33b663cb-755c-499a-afcc-70ad467300a1",
+      "node_type": "Clause",
+      "publisher": "finlex",
+      "title": "§ 42 mom 7",
+      "text": "7) edustustarkoitukseen käytettävä alkoholijuoma ja tupakkavalmiste;",
+      "clause_number": 7,
+      "section_number": "42",
+      "statute_id": ""
+    },
+    {
+      "id": "6ace477e-54fd-40a7-8fec-e548f05ead0d",
+      "node_type": "Clause",
+      "publisher": "finlex",
+      "title": "§ 42 mom 8",
+      "text": "8) lahjoitustarkoitukseen käytettävä tavara, lukuun ottamatta tavaranäytettä ja tavanomaista mainoslahjaa;",
+      "clause_number": 8,
+      "section_number": "42",
+      "statute_id": ""
+    },
+    {
+      "id": "025d7047-0455-48ea-b632-5121462d01b9",
+      "node_type": "Clause",
+      "publisher": "finlex",
+      "title": "§ 42 mom 9",
+      "text": "9) telepalvelu, lukuun ottamatta verovelvollisen teletoiminnan harjoittajan käyttämää telepalvelua, joka tulee välittömästi kulutettavaksi teletoiminnan yhteydessä.",
+      "clause_number": 9,
+      "section_number": "42",
+      "statute_id": ""
+    },
+    {
+      "id": "6852f30f-9477-46eb-8fbb-4497d5873b86",
+      "node_type": "Clause",
+      "publisher": "finlex",
+      "title": "§ 43 mom 1",
+      "text": "1) tavaran valmistustoiminnassa;",
+      "clause_number": 1,
+      "section_number": "43",
+      "statute_id": ""
+    },
+    {
+      "id": "fea8c76f-8ecd-473c-82bf-d74de343a79a",
+      "node_type": "Clause",
+      "publisher": "finlex",
+      "title": "§ 43 mom 2",
+      "text": "2) uudelleen käyttöä varten tapahtuvassa romun tai jätteen käsittelyssä;",
+      "clause_number": 2,
+      "section_number": "43",
+      "statute_id": ""
+    },
+    {
+      "id": "11e10d43-e26a-4e98-8a3c-274752c87fe1",
+      "node_type": "Clause",
+      "publisher": "finlex",
+      "title": "§ 43 mom 3",
+      "text": "3) edellä 1 tai 2 kohdassa tarkoitettuun toimintaan liittyvässä tutkimus- ja kehittämistoiminnassa, ilmanpuhdistuksessa, jätevedenpuhdistuksessa tai jätteenkäsittelyssä.",
+      "clause_number": 3,
+      "section_number": "43",
+      "statute_id": ""
+    },
+    {
+      "id": "e2d81254-11c7-498e-81e1-3e4f5d91eb6f",
+      "node_type": "Clause",
+      "publisher": "finlex",
+      "title": "§ 44 mom 1",
+      "text": "1) tehtaana, työpajana tai energian tuotantolaitoksena;",
+      "clause_number": 1,
+      "section_number": "44",
+      "statute_id": ""
+    },
+    {
+      "id": "cdb4ceaf-ae65-4d69-a42b-9bd91edd6b8b",
+      "node_type": "Clause",
+      "publisher": "finlex",
+      "title": "§ 44 mom 2",
+      "text": "2) uudelleen käyttöä varten tapahtuvaan romun tai jätteen käsittelyyn;",
+      "clause_number": 2,
+      "section_number": "44",
+      "statute_id": ""
+    },
+    {
+      "id": "a9d6f96c-3f10-4d2b-9de6-db68cbb30bf2",
+      "node_type": "Clause",
+      "publisher": "finlex",
+      "title": "§ 44 mom 3",
+      "text": "3) edellä 1 tai 2 kohdassa tarkoitettuun toimintaan välittömästi liittyvänä käyttö-, tutkimus- tai kehittämislaboratoriona, ilmanpuhdistus-, jätevedenpuhdistus- tai jätteenkäsittelyrakennuksena tai -rakennelmana, varastona, toimisto- tai sosiaalirakennuksena taikka muuhun mainittuun toimintaan välittömästi liittyvään tarkoitukseen.",
+      "clause_number": 3,
+      "section_number": "44",
+      "statute_id": ""
+    },
+    {
+      "id": "13a79164-dfb6-4232-acb5-503c89e131cd",
+      "node_type": "Clause",
+      "publisher": "finlex",
+      "title": "§ 47 mom 1",
+      "text": "1) alkutuottajalta ostettu tai itse maahan tuotu 49§:ssä tarkoitettu jalostamaton alkutuote;",
+      "clause_number": 1,
+      "section_number": "47",
+      "statute_id": ""
+    },
+    {
+      "id": "352957b8-17d9-4e50-a842-970f9c5afd09",
+      "node_type": "Clause",
+      "publisher": "finlex",
+      "title": "§ 47 mom 1",
+      "text": "2) alkutuottajalta ostettu tai itse maahan tuotu teuraseläimeksi sellaisenaan sen omistajan liiketoiminnassa käytettävä 27§:n 1 momentin 13 kohdassa tarkoitettu eläin;",
+      "clause_number": 1,
+      "section_number": "47",
+      "statute_id": ""
+    },
+    {
+      "id": "3347dff3-8e83-4d2d-94b8-3c6432752f06",
+      "node_type": "Clause",
+      "publisher": "finlex",
+      "title": "§ 47 mom 2",
+      "text": "2) alkutuottajalta ostettu tai itse maahan tuotu teuraseläimeksi sellaisenaan sen omistajan liiketoiminnassa käytettävä 27§:n 1 momentin 13 kohdassa tarkoitettu eläin;",
+      "clause_number": 2,
+      "section_number": "47",
+      "statute_id": ""
+    },
+    {
+      "id": "38ccd906-fb83-482a-b91a-15d556ca4580",
+      "node_type": "Clause",
+      "publisher": "finlex",
+      "title": "§ 47 mom 3",
+      "text": "3) valmistajalta ostettu tai itse maahan tuotu 28§:ssä tarkoitettu lannoite- tai rehuaine;",
+      "clause_number": 3,
+      "section_number": "47",
+      "statute_id": ""
+    },
+    {
+      "id": "b8a363e1-5007-4377-b76a-457a93165d84",
+      "node_type": "Clause",
+      "publisher": "finlex",
+      "title": "§ 47 mom 1",
+      "text": "4) energiahyödykkeiden valmistuksessa tai polttoaineena itse käytettävä 27§:n 1 momentin 7 kohdassa tarkoitettu polttoturve ja turvejaloste sekä kaukolämmön tuotannossa itse käytettävä 27§:n 1 momentin 8 kohdassa tarkoitettu tavara;",
+      "clause_number": 1,
+      "section_number": "47",
+      "statute_id": ""
+    },
+    {
+      "id": "0fd909e1-229e-4d4f-8018-cc9674afdea3",
+      "node_type": "Clause",
+      "publisher": "finlex",
+      "title": "§ 47 mom 4",
+      "text": "4) energiahyödykkeiden valmistuksessa tai polttoaineena itse käytettävä 27§:n 1 momentin 7 kohdassa tarkoitettu polttoturve ja turvejaloste sekä kaukolämmön tuotannossa itse käytettävä 27§:n 1 momentin 8 kohdassa tarkoitettu tavara;",
+      "clause_number": 4,
+      "section_number": "47",
+      "statute_id": ""
+    },
+    {
+      "id": "dc963785-7567-4d40-83e7-592b8149fb07",
+      "node_type": "Clause",
+      "publisher": "finlex",
+      "title": "§ 47 mom 5",
+      "text": "5) itse maahan tuotu maakaasu;",
+      "clause_number": 5,
+      "section_number": "47",
+      "statute_id": ""
+    },
+    {
+      "id": "6fdbeb8a-163e-422a-a368-fd5e1d337b51",
+      "node_type": "Clause",
+      "publisher": "finlex",
+      "title": "§ 47 mom 6",
+      "text": "6) myyjän omassa käytössä ollut tavara sekä muulta kuin verovelvolliselta ostettu teollisuuden raaka-aineena yleisesti käytettävä käytetty tavara, lukuun ottamatta 27§:ssä tarkoitettuja verottomia tavaroita.",
+      "clause_number": 6,
+      "section_number": "47",
+      "statute_id": ""
+    },
+    {
+      "id": "e652f66b-c562-4087-ab82-7bcbb231a6fc",
+      "node_type": "Clause",
+      "publisher": "finlex",
+      "title": "§ 49 mom 1",
+      "text": "1) ruis, vehnä, ohra ja kaura jyvinä, myös kuivattuina ja lajiteltuina;",
+      "clause_number": 1,
+      "section_number": "49",
+      "statute_id": ""
+    },
+    {
+      "id": "0de25ad7-1393-4046-8930-135e69afa83b",
+      "node_type": "Clause",
+      "publisher": "finlex",
+      "title": "§ 49 mom 2",
+      "text": "2) herne, myös palosta poistettuna, kuivattuna ja lajiteltuna;",
+      "clause_number": 2,
+      "section_number": "49",
+      "statute_id": ""
+    },
+    {
+      "id": "2661adfc-2cca-4229-a79f-d618911ffd78",
+      "node_type": "Clause",
+      "publisher": "finlex",
+      "title": "§ 49 mom 3",
+      "text": "3) peruna, myös lajiteltuna;",
+      "clause_number": 3,
+      "section_number": "49",
+      "statute_id": ""
+    },
+    {
+      "id": "4644f7bd-9e12-419e-ae4f-3169061d6db7",
+      "node_type": "Clause",
+      "publisher": "finlex",
+      "title": "§ 49 mom 4",
+      "text": "4) maito, myös kuorittuna;",
+      "clause_number": 4,
+      "section_number": "49",
+      "statute_id": ""
+    },
+    {
+      "id": "ad8507b5-87da-45b1-b824-6a9b31a53252",
+      "node_type": "Clause",
+      "publisher": "finlex",
+      "title": "§ 49 mom 5",
+      "text": "5) kananmunat, myös lajiteltuina;",
+      "clause_number": 5,
+      "section_number": "49",
+      "statute_id": ""
+    },
+    {
+      "id": "934995dc-b7f0-4c0a-b3b3-38af04d6bfc1",
+      "node_type": "Clause",
+      "publisher": "finlex",
+      "title": "§ 49 mom 6",
+      "text": "6) liha ruhona, ruhon osina tai luuttomaksi leikattuna sekä muut syötävät eläinten osat tuoreina, myös jäähdytettyinä, jäädytettyinä, suolattuina tai ulkokuivattuina;",
+      "clause_number": 6,
+      "section_number": "49",
+      "statute_id": ""
+    },
+    {
+      "id": "1724fccb-586c-4f9d-a06f-dc714445ef4b",
+      "node_type": "Clause",
+      "publisher": "finlex",
+      "title": "§ 49 mom 7",
+      "text": "7) ahven, ankerias, Grönlannin pallas, harjus, hauki, järvitaimen, kampela, kiiski, kilohaili, myös maustettuna, kirjolohi, kolja, kuha, kuore, lahna, lohi, made, molva, muikku, nahkiainen, nieriä, pasuri, puna-ahven, punakampela, puronieriä, purotaimen, Ruijan pallas, salakka, seiti, siika, silakka, silli, sulkava, suutari, särki, säyne, taimen, turska ja vimpa tuoreina, kuivattuina, suolattuina tai savustettuina, myös sisälmykset poistettuina, sekä mainittujen kalojen mäti;",
+      "clause_number": 7,
+      "section_number": "49",
+      "statute_id": ""
+    },
+    {
+      "id": "4a4d2578-5dfa-4f06-8b0a-39184d8f9a4d",
+      "node_type": "Clause",
+      "publisher": "finlex",
+      "title": "§ 49 mom 8",
+      "text": "8) syötävät linnut ja muut riistaeläimet tuoreina, myös kynittyinä, nyljettyinä ja sisälmykset poistettuina;",
+      "clause_number": 8,
+      "section_number": "49",
+      "statute_id": ""
+    },
+    {
+      "id": "051ea9b9-6e50-4835-bc4b-bd2c9b6eadb0",
+      "node_type": "Clause",
+      "publisher": "finlex",
+      "title": "§ 49 mom 9",
+      "text": "9) juuriselleri, lanttu, maa-artisokka, mustajuuri, nauris, palsternakka, piparjuuri, porkkana, punajuuri, retiisi ja retikka tuoreina tai kuivattuina, myös puhdistettuina, lajiteltuina ja paloiteltuina;",
+      "clause_number": 9,
+      "section_number": "49",
+      "statute_id": ""
+    },
+    {
+      "id": "6b9841f6-813c-4eed-a949-8e1e7631b4b6",
+      "node_type": "Clause",
+      "publisher": "finlex",
+      "title": "§ 49 mom 10",
+      "text": "10) kaalikasvit, palkokasvit, salaattikasvit ja sipulikasvit, kurkku, kurpitsa, lehtiselleri, makea maissi, melooni, paprika, parsa, pinaatti, raparperi, tomaatti ja maustevihannekset, kuten persilja, tilli, meirami ja vihantakrassi, kaikki tuoreina tai kuivattuina, myös paloiteltuina;",
+      "clause_number": 10,
+      "section_number": "49",
+      "statute_id": ""
+    },
+    {
+      "id": "1cd73215-09d5-453d-98dc-b91937be170f",
+      "node_type": "Clause",
+      "publisher": "finlex",
+      "title": "§ 49 mom 11",
+      "text": "11) luonnonvaraiset tai viljellyt syötävät sienet tuoreina, myös kuivattuina tai suolattuina;",
+      "clause_number": 11,
+      "section_number": "49",
+      "statute_id": ""
+    },
+    {
+      "id": "a26abd75-02b5-4ba0-82fd-a43b9d860770",
+      "node_type": "Clause",
+      "publisher": "finlex",
+      "title": "§ 49 mom 12",
+      "text": "12) luonnonvarainen tai viljelty herukka, juolukka, karpalo, karviaismarja, mansikka, mesimarja, mustikka, muurain, pihlajanmarja, puolukka, ruusunmarja, tyrnimarja, vadelma ja variksenmarja tuoreina tai kuivattuina;",
+      "clause_number": 12,
+      "section_number": "49",
+      "statute_id": ""
+    },
+    {
+      "id": "848ad7cc-925c-4d61-b812-da651580b4dd",
+      "node_type": "Clause",
+      "publisher": "finlex",
+      "title": "§ 49 mom 13",
+      "text": "13) luonnonhunaja;",
+      "clause_number": 13,
+      "section_number": "49",
+      "statute_id": ""
+    },
+    {
+      "id": "818b9952-38f6-4526-abe7-1ba8d5a72ec0",
+      "node_type": "Clause",
+      "publisher": "finlex",
+      "title": "§ 49 mom 14",
+      "text": "14) kotivoi, -kerma, -piimä ja -juusto;",
+      "clause_number": 14,
+      "section_number": "49",
+      "statute_id": ""
+    },
+    {
+      "id": "9185a4e6-60b1-45f0-8b56-561893c18f3e",
+      "node_type": "Clause",
+      "publisher": "finlex",
+      "title": "§ 49 mom 15",
+      "text": "15) kirsikka, kriikuna, luumu ja omena tuoreena;",
+      "clause_number": 15,
+      "section_number": "49",
+      "statute_id": ""
+    },
+    {
+      "id": "35682287-2b5e-4c90-be3d-1c3ac0bea0f6",
+      "node_type": "Clause",
+      "publisher": "finlex",
+      "title": "§ 49 mom 16",
+      "text": "16) pelto-, puutarha- ja koristekasvien sekä hedelmä- ja metsäpuiden kylvösiemenet;",
+      "clause_number": 16,
+      "section_number": "49",
+      "statute_id": ""
+    },
+    {
+      "id": "01589ece-69ea-49ee-85ae-f5a6220dd975",
+      "node_type": "Clause",
+      "publisher": "finlex",
+      "title": "§ 49 mom 17",
+      "text": "17) karkearehu, kuten heinät, heinäjauho, oljet, viljankuoret, ruumenet, laidunruohot tuoreina tai kuivattuina, rehukaali ja säilörehu;",
+      "clause_number": 17,
+      "section_number": "49",
+      "statute_id": ""
+    },
+    {
+      "id": "fe8a454e-b801-4643-bf1a-7817469cd4ca",
+      "node_type": "Clause",
+      "publisher": "finlex",
+      "title": "§ 49 mom 18",
+      "text": "18) elävät kasvit ja kukkaviljelyn tuotteet, kuten istutustarkoitukseen myytävät juuri- ja varsimukulat, juurakot, pistokkaat, sipulit, varrennusoksat ja taimet sekä irrallaan tai astioissa kasvavina myytävät kasvit tai kasvinosat, viherkasvit ja leikkovihreä.",
+      "clause_number": 18,
+      "section_number": "49",
+      "statute_id": ""
+    },
+    {
+      "id": "bfeef1b3-4641-4bc2-9d04-72c855c8e797",
+      "node_type": "Clause",
+      "publisher": "finlex",
+      "title": "§ 55 mom 1",
+      "text": "1) maasta viedään meijerivoita, juustoa, rasvaista maitojauhetta, kananmunia, kananmunamassaa, viljaa tai lihaa sellaisenaan ja maastaviejälle maksetaan hinnanerokorvausta;",
+      "clause_number": 1,
+      "section_number": "55",
+      "statute_id": ""
+    },
+    {
+      "id": "c4a570d4-6e88-4c9c-b2aa-f3663e02022b",
+      "node_type": "Clause",
+      "publisher": "finlex",
+      "title": "§ 55 mom 2",
+      "text": "2) maasta sellaisinaan ensi kertaa viedään Suomessa poimittuja luonnonvaraisia mustikoita tai puolukoita tuoreina tai jäädyttämällä säilytettyinä taikka Suomessa poimittuja luonnonvaraisia syötäviä sieniä tuoreina, kuivattuina tai suolattuina;",
+      "clause_number": 2,
+      "section_number": "55",
+      "statute_id": ""
+    },
+    {
+      "id": "b59aa460-a685-407a-a874-eba8cd3a7db9",
+      "node_type": "Clause",
+      "publisher": "finlex",
+      "title": "§ 55 mom 3",
+      "text": "3) maasta viedään eläimen vuotia tai nahkoja sellaisinaan tai muuhun tavaraan sisältyvinä.",
+      "clause_number": 3,
+      "section_number": "55",
+      "statute_id": ""
+    },
+    {
+      "id": "775086e4-38c9-4bd2-9216-3e8feddce76b",
+      "node_type": "Clause",
+      "publisher": "finlex",
+      "title": "§ 58 mom 1",
+      "text": "1) tavara on toimitettu tai palvelu suoritettu;",
+      "clause_number": 1,
+      "section_number": "58",
+      "statute_id": ""
+    },
+    {
+      "id": "e3246ab3-456a-410f-a625-b40a7ba6fd05",
+      "node_type": "Clause",
+      "publisher": "finlex",
+      "title": "§ 58 mom 2",
+      "text": "2) tavara on otettu omaan käyttöön.",
+      "clause_number": 2,
+      "section_number": "58",
+      "statute_id": ""
+    },
+    {
+      "id": "fe15b8f6-37c1-480a-93e4-7d45ee059e05",
+      "node_type": "Clause",
+      "publisher": "finlex",
+      "title": "§ 63 mom 1",
+      "text": "1) ostettu tavara tai palvelu on vastaanotettu;",
+      "clause_number": 1,
+      "section_number": "63",
+      "statute_id": ""
+    },
+    {
+      "id": "8db26c3f-3422-43ce-a29d-2a29c0c9159c",
+      "node_type": "Clause",
+      "publisher": "finlex",
+      "title": "§ 63 mom 2",
+      "text": "2) tavara on otettu vähennykseen oikeuttavaan käyttöön;",
+      "clause_number": 2,
+      "section_number": "63",
+      "statute_id": ""
+    },
+    {
+      "id": "2361e5a4-4ca2-43e7-b9af-15cac4ce7955",
+      "node_type": "Clause",
+      "publisher": "finlex",
+      "title": "§ 63 mom 3",
+      "text": "3) maahan tuotu tavara on tullattu.",
+      "clause_number": 3,
+      "section_number": "63",
+      "statute_id": ""
+    },
+    {
+      "id": "1fc9961b-e11c-41f9-bd3b-fdc8bc7b33a4",
+      "node_type": "Clause",
+      "publisher": "finlex",
+      "title": "§ 64 mom 1",
+      "text": "1) rakennuksen hankintameno tai sen osa on maksettu;",
+      "clause_number": 1,
+      "section_number": "64",
+      "statute_id": ""
+    },
+    {
+      "id": "40749e62-a806-47e8-8876-9629b48f2cab",
+      "node_type": "Clause",
+      "publisher": "finlex",
+      "title": "§ 64 mom 2",
+      "text": "2) verovelvollisen valmistama tai alunperin muuhun käyttöön hankkima tavara on otettu rakennustyössä käytettäväksi.",
+      "clause_number": 2,
+      "section_number": "64",
+      "statute_id": ""
+    },
+    {
+      "id": "b4731853-0a08-49ff-8ddf-3e28b0ec12f4",
+      "node_type": "Clause",
+      "publisher": "finlex",
+      "title": "§ 96 mom 1",
+      "text": "1) verovelvollinen on jättänyt kalenterikuukaudelta maksettavan veron säädetyssä ajassa kokonaan maksamatta tai maksanut sitä ilmeisesti liian vähän, enintään 30 prosentilla;",
+      "clause_number": 1,
+      "section_number": "96",
+      "statute_id": ""
+    },
+    {
+      "id": "c61959ec-e894-4537-90dd-a4e393a7bf16",
+      "node_type": "Clause",
+      "publisher": "finlex",
+      "title": "§ 96 mom 2",
+      "text": "2) kuukausi-ilmoituksessa, tilikausi-ilmoituksessa tai muussa tiedossa tai asiakirjassa on vähäinen puutteellisuus eikä verovelvollinen ole noudattanut saamaansa kehotusta sen korjaamiseen, enintään 10 prosentilla;",
+      "clause_number": 2,
+      "section_number": "96",
+      "statute_id": ""
+    },
+    {
+      "id": "6203bae6-d726-4348-821c-dfa940293e99",
+      "node_type": "Clause",
+      "publisher": "finlex",
+      "title": "§ 96 mom 3",
+      "text": "3) verovelvollinen ilman pätevää syytä on laiminlyönyt kuukausi-ilmoituksen, tilikausi-ilmoituksen tahi muun tiedon tai asiakirjan oikeassa ajassa antamisen taikka antanut sen olennaisesti vaillinaisena, enintään 20 prosentilla ja, jos hän säädetyn kehotuksen saatuaankin on ilman hyväksyttävää estettä jättänyt velvollisuutensa kokonaan tai osaksi täyttämättä, enintään kaksinkertaiseksi;",
+      "clause_number": 3,
+      "section_number": "96",
+      "statute_id": ""
+    },
+    {
+      "id": "ca04b6ce-0df0-4ede-8583-853932e41f26",
+      "node_type": "Clause",
+      "publisher": "finlex",
+      "title": "§ 96 mom 4",
+      "text": "4) verovelvollinen on törkeästä huolimattomuudesta laiminlyönyt ilmoittamisvelvollisuutensa tai antanut olennaisesti väärän kuukausi-ilmoituksen, tilikausi-ilmoituksen taikka muun tiedon tai asiakirjan, enintään kaksinkertaiseksi.",
+      "clause_number": 4,
+      "section_number": "96",
+      "statute_id": ""
+    },
+    {
+      "id": "4062cfe0-3645-41d2-9f19-3b201d4d88a0",
+      "node_type": "Clause",
+      "publisher": "finlex",
+      "title": "§ 116 mom 1",
+      "text": "1) lain soveltamisen kannalta muissa samanlaisissa tapauksissa tai oikeuskäytännön yhtenäisyyden vuoksi on tärkeätä saattaa asia korkeimman hallinto-oikeuden tutkittavaksi; tai",
+      "clause_number": 1,
+      "section_number": "116",
+      "statute_id": ""
+    },
+    {
+      "id": "97dcbc76-4717-4075-9655-f4308f949274",
+      "node_type": "Clause",
+      "publisher": "finlex",
+      "title": "§ 116 mom 2",
+      "text": "2) asianomainen näyttää, että valituksella on hänelle erittäin suuri merkitys muutoinkin kuin siinä asiassa.",
+      "clause_number": 2,
+      "section_number": "116",
+      "statute_id": ""
+    }
+  ],
+  "cross_references": [],
+  "raw_html_path": "C:\\Users\\danit\\finance-hack\\aalto-hackaton-2026\\data\\raw\\finlex\\Laki\\Liikevaihtoverolaki.html"
+}

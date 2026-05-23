@@ -1,0 +1,47 @@
+{
+  "statute": {
+    "id": "7574dd42-3f7f-443c-9314-b35baf93c704",
+    "node_type": "Statute",
+    "publisher": "finlex",
+    "title": "Valtioneuvoston asetus polttoaineteholtaan vähintään 50 megawatin polttolaitosten ja kaasuturbiinien rikkidioksidi-, typenoksidi- ja hiukkaspäästöjen rajoittamisesta annetun valtioneuvoston asetuksen muuttamisesta",
+    "text": "Valtioneuvoston asetus polttoaineteholtaan vähintään 50 megawatin polttolaitosten ja kaasuturbiinien rikkidioksidi-, typenoksidi- ja hiukkaspäästöjen rajoittamisesta annetun valtioneuvoston asetuksen muuttamisesta",
+    "statute_id": "1017/2002",
+    "finlex_url": "https://finlex.fi/fi/laki/ajantasa/1017/2002"
+  },
+  "chapters": [
+    {
+      "id": "41c7c276-a02b-475e-851d-c3b52116448a",
+      "node_type": "Chapter",
+      "publisher": "finlex",
+      "title": "Chapter 1",
+      "text": "1 luku Yleiset säännökset",
+      "chapter_number": 1,
+      "statute_id": "1017/2002"
+    }
+  ],
+  "sections": [
+    {
+      "id": "eb2ac728-54c6-499c-a5d4-3eccc31c997a",
+      "node_type": "Section",
+      "publisher": "finlex",
+      "title": "14 § Poikkeuksellisia tilanteita koskevat lupamääräykset",
+      "text": "Lupaviranomaisen tulee ympäristöluvassa määrätä, että laitos saa toimia ilman savukaasujen puhdistinlaitteita enintään 120 tuntia yhden kalenterivuoden aikana.",
+      "section_number": "14",
+      "chapter_number": 1,
+      "statute_id": "1017/2002"
+    },
+    {
+      "id": "fa010291-8e45-4a8a-8f67-5df4c1c1ff8b",
+      "node_type": "Section",
+      "publisher": "finlex",
+      "title": "19 § Päästöraja-arvojen määrittäminen monipolttoaineyksikössä",
+      "text": "Jos monipolttoaineyksikössä poltetaan samanaikaisesti useampaa kuin yhtä polttoainetta, sen päästöraja-arvo määrätään eri polttoaineiden painotettujen päästöraja-arvojen summana. Painotetut päästöraja-arvot lasketaan siten, että kunkin polttoaineen antama teho kerrotaan vastaavalla päästöraja-arvolla ja näin saatu tulo jaetaan kaikkien käytettävien polttoaineiden antamien tehojen summalla. Päästöraja-arvo saadaan laskemalla yhteen näin saadut polttoainepainotetut päästöraja-arvot liitteen 4 laskentakaavan mukaisesti. Tämä asetus tulee voimaan 25 päivänä marraskuuta 2005. Liite 3 Päästöjen tarkkailu ja mittaukset 5. Jatkuvien mittausten laadun varmistamiseksi tehtyjen mittausten mittaustuloksen 95 prosentin luottamusvälin arvo ei saa ylittää seuraavia päästöjen raja-arvon prosenttiosuuksia: Jos jatkuvissa mittauksissa hylätään jonain päivänä enemmän kuin kolme tuntikeskiarvoa käytettävän mittausjärjestelmän toimintahäiriön tai huollon vuoksi, on mittaukset mitätöitävä. Jos useamman kuin 10 päivän mittaukset mitätöidään vuoden aikana, alueellisen ympäristökeskuksen on määrättävä toiminnanharjoittaja toteuttamaan toimia, joilla parannetaan jatkuvissa mittauksissa käytettävän järjestelmän luotettavuutta. Liite 4 Päästöraja-arvon määrittäminen monipolttoaineyksikössä Monipolttoaineyksikön, jossa poltetaan samanaikaisesti useampaa kuin yhtä polttoainetta painotettu päästöraja-arvo (C\n                            p\n                            ) lasketaan seuraavan kaavan mukaisesti: C\n                            p\n                             = C\n                            1\n                             + C\n                            2\n                             + ...+ C\n                            n\n                            , jossa Q = kunkin polttoaineen lämpöarvo (MJ/kg) M = kunkin polttoaineen määrä (kg/h tai t/a) C\n                            1...n\n                             = kunkin polttoaineen päästöraja-arvo yksikössä mg/m\n                            3\n                            (n) redusoituna eniten käytettävän polttoaineen happipitoisuuteen.",
+      "section_number": "19",
+      "chapter_number": 1,
+      "statute_id": "1017/2002"
+    }
+  ],
+  "clauses": [],
+  "cross_references": [],
+  "raw_html_path": "C:\\Users\\danit\\finance-hack\\aalto-hackaton-2026\\data\\raw\\finlex\\Asetus\\Valtioneuvoston asetus polttoaineteholtaan vähintään 50 megawatin polttolaitosten ja kaasuturbiinien rikkidioksidi-, typenoksidi- ja hiukkaspäästöjen rajoittamisesta annetun valtio_3.html"
+}

@@ -1,0 +1,953 @@
+{
+  "statute": {
+    "id": "e5d6e5c7-5420-4365-abb1-873f1bb43cc7",
+    "node_type": "Statute",
+    "publisher": "finlex",
+    "title": "Laki pyroteknisten tuotteiden vaatimustenmukaisuudesta",
+    "text": "Laki pyroteknisten tuotteiden vaatimustenmukaisuudesta",
+    "statute_id": "263/1953",
+    "finlex_url": "https://finlex.fi/fi/laki/ajantasa/263/1953"
+  },
+  "chapters": [
+    {
+      "id": "fc52256d-fe1a-4609-8b91-47de2c6c8fae",
+      "node_type": "Chapter",
+      "publisher": "finlex",
+      "title": "Chapter 1",
+      "text": "1 luku Yleiset säännökset",
+      "chapter_number": 1,
+      "statute_id": "263/1953"
+    },
+    {
+      "id": "c483633a-9f84-41b0-a534-1d6d0d5315d8",
+      "node_type": "Chapter",
+      "publisher": "finlex",
+      "title": "Chapter 2",
+      "text": "2 luku Vaatimustenmukaisuus ja valmistajan velvollisuudet",
+      "chapter_number": 2,
+      "statute_id": "263/1953"
+    },
+    {
+      "id": "0b9be05e-0b92-4693-b8d4-978ee026ab38",
+      "node_type": "Chapter",
+      "publisher": "finlex",
+      "title": "Chapter 3",
+      "text": "3 luku Maahantuojan ja jakelijan velvollisuudet",
+      "chapter_number": 3,
+      "statute_id": "263/1953"
+    },
+    {
+      "id": "1f7ee3b3-6e86-44b8-b9e2-8fff9bd0d084",
+      "node_type": "Chapter",
+      "publisher": "finlex",
+      "title": "Chapter 4",
+      "text": "4 luku Ilmoitettua laitosta koskevat säännökset",
+      "chapter_number": 4,
+      "statute_id": "263/1953"
+    },
+    {
+      "id": "d53b7026-0c2b-4256-b6f5-6f6061d4f513",
+      "node_type": "Chapter",
+      "publisher": "finlex",
+      "title": "Chapter 5",
+      "text": "5 luku Valvonta",
+      "chapter_number": 5,
+      "statute_id": "263/1953"
+    },
+    {
+      "id": "c5e59223-60c6-41be-8e5c-0b56fff75e9e",
+      "node_type": "Chapter",
+      "publisher": "finlex",
+      "title": "Chapter 6",
+      "text": "6 luku Erinäiset säännökset",
+      "chapter_number": 6,
+      "statute_id": "263/1953"
+    }
+  ],
+  "sections": [
+    {
+      "id": "1accaeba-645f-4978-a16f-ef7fcd4e8130",
+      "node_type": "Section",
+      "publisher": "finlex",
+      "title": "1 § Lain tarkoitus",
+      "text": "Tämän lain tarkoituksena on varmistaa pyroteknisten tuotteiden vaatimustenmukaisuus ja vapaa liikkuvuus. Lailla pannaan täytäntöön pyroteknisten tuotteiden asettamista saataville markkinoilla koskevan jäsenvaltioiden lainsäädännön yhdenmukaistamisesta annettu Euroopan parlamentin ja neuvoston direktiivi 2013/29/EU, jäljempänäpyrotekniikkadirektiivi, sekä pyroteknisten tuotteiden jäljitettävyysjärjestelmän perustamisesta Euroopan parlamentin ja neuvoston direktiivin 2007/23/EY mukaisesti annettu komission täytäntöönpanodirektiivi 2014/58/EU.",
+      "section_number": "1",
+      "chapter_number": 1,
+      "statute_id": "263/1953"
+    },
+    {
+      "id": "fa0cd1d1-7179-414f-9b50-35fe9ce2a386",
+      "node_type": "Section",
+      "publisher": "finlex",
+      "title": "2 § Soveltamisala",
+      "text": "Tätä lakia sovelletaan pyroteknisiin tuotteisiin. Tätä lakia ei kuitenkaan sovelleta: Edellä 2 momentissa tarkoitettujen pyroteknisten tuotteiden ja ampumatarvikkeiden määrittämisessä noudatetaan siviilikäyttöön tarkoitettujen räjähdystarvikkeiden markkinoille saattamista ja valvontaa koskevien säännösten yhdenmukaistamisesta annetussa neuvoston direktiivissä 93/15/ETY tarkoitettujen pyroteknisten tuotteiden ja tiettyjen ampumatarvikkeiden määrittämisestä annettua komission direktiiviä 2004/57/EY.",
+      "section_number": "2",
+      "chapter_number": 1,
+      "statute_id": "263/1953"
+    },
+    {
+      "id": "b109495a-58ce-4aa4-9203-a1a54768a06d",
+      "node_type": "Section",
+      "publisher": "finlex",
+      "title": "3 § Määritelmät",
+      "text": "Tässä laissa tarkoitetaan:",
+      "section_number": "3",
+      "chapter_number": 1,
+      "statute_id": "263/1953"
+    },
+    {
+      "id": "dfb3620c-21e4-4040-8b3b-5295683c6110",
+      "node_type": "Section",
+      "publisher": "finlex",
+      "title": "4 § Suhde muuhun lainsäädäntöön",
+      "text": "Vaatimustenmukaisuuden arviointilaitosten akkreditoinnille, markkinavalvonnalle ja kolmannesta maasta tuotavien tuotteiden ulkorajavalvonnalle sekä tuotteiden CE-merkinnälle asetettavista vähimmäisvaatimuksista säädetään tuotteiden kaupan pitämiseen liittyvää akkreditointia ja markkinavalvontaa koskevista vaatimuksista ja neuvoston asetuksen (ETY) N:o 339/93 kumoamisesta annetussa Euroopan parlamentin ja neuvoston asetuksessa (EY) N:o 765/2008, jäljempänäNLF-asetus. Pyroteknisten tuotteiden turvallisesta valmistuksesta ja varastoinnista sekä niiden luvanvaraisuudesta, käytöstä ja luovutukselle asetettavista rajoituksista säädetään vaarallisten kemikaalien ja räjähteiden käsittelyn turvallisuudesta annetussa laissa (390/2005). Kemikaalien ja räjähtävien esineiden luokituksesta, merkinnöistä sekä käyttöturvallisuustiedotteesta säädetään Euroopan unionin kemikaalilainsäädännössä ja näitä koskevista kielivaatimuksista kemikaalilaissa (599/2013). Vaarallisten aineiden vaarallisuusluokituksesta säädetään vaarallisten aineiden kuljetuksesta annetussa laissa (719/1994). Tuotteiden CE-merkinnän käyttöä koskevista rikkomuksista säädetään CE-merkintä rikkomuksesta annetussa laissa (187/2010).",
+      "section_number": "4",
+      "chapter_number": 1,
+      "statute_id": "263/1953"
+    },
+    {
+      "id": "39ca29a7-bb82-4974-9785-c267306889df",
+      "node_type": "Section",
+      "publisher": "finlex",
+      "title": "5 § Pyroteknisiä tuotteita koskevat olennaiset turvallisuusvaatimukset",
+      "text": "Pyroteknisen tuotteen on täytettävä tässä laissa säädetyt olennaiset turvallisuusvaatimukset, jotta tuote voidaan saattaa markkinoille. Markkinoille saatettava pyrotekninen tuote on suunniteltava ja valmistettava siten, että sen aiheuttama vaara ihmisten terveydelle, turvallisuudelle, ympäristölle ja omaisuudelle on mahdollisimman vähäinen normaaleissa ja ennakoitavissa olevissa käyttöolosuhteissa. Pyroteknisen tuotteen tulee olla tarkoitukseensa sopiva, ja sen on toimittava oikealla tavalla, kun sitä käytetään aiottuun tarkoitukseen. Pyrotekninen tuote on valmistettava ja suunniteltava siten, että se voidaan hävittää turvallisesti. Pyroteknisen tuotteen tahattoman syttymisen tulee olla tuotteen käyttötarkoitus huomioon ottaen niin epätodennäköistä kuin se kohtuudella on mahdollista. Pyroteknisen tuotteen tulee olla asianmukaisesti pakattu, ja se tulee varustaa turvallisen käytön edellyttämillä merkinnöillä. Tuotteen mukana on oltava turvallista varastointia ja käyttöä koskevat ohjeet ja tiedot. Valtioneuvoston asetuksella säädetään tarkemmin pyroteknisen tuotteen olennaisista turvallisuusvaatimuksista.",
+      "section_number": "5",
+      "chapter_number": 2,
+      "statute_id": "263/1953"
+    },
+    {
+      "id": "bb809e2a-fcd8-40c5-8a77-0dc74c8c8360",
+      "node_type": "Section",
+      "publisher": "finlex",
+      "title": "6 § Vaatimustenmukaisuusolettama",
+      "text": "Pyroteknisen tuotteen katsotaan täyttävän olennaiset turvallisuusvaatimukset, jos se on sitä koskevan yhdenmukaistetun standardin mukainen. Pyrotekninen tuote voi täyttää olennaiset turvallisuusvaatimukset, vaikkei se olekaan yhdenmukaistetun standardin mukainen, jos sen vaatimustenmukaisuus voidaan osoittaa luotettavasti.",
+      "section_number": "6",
+      "chapter_number": 2,
+      "statute_id": "263/1953"
+    },
+    {
+      "id": "26b84ac2-348f-467d-b85b-8d7b7a5b9110",
+      "node_type": "Section",
+      "publisher": "finlex",
+      "title": "7 § Pyroteknisen tuotteen luokitus",
+      "text": "Valmistajan on luokiteltava pyrotekninen tuote sen käytön taikka käyttötarkoituksen ja vaara- ja melutason mukaan. Jäljempänä 18 §:ssä tarkoitettujen ilmoitettujen laitosten on vahvistettava luokitus osana 27 §:n mukaisia vaatimustenmukaisuuden arviointimenettelyjä. Pyrotekninen tuote luokitellaan ominaisuuksiensa perusteella ilotulitteisiin, teattereissa käytettäviin pyroteknisiin tuotteisiin sekä muihin pyroteknisiin tuotteisiin. Valtioneuvoston asetuksella säädetään tarkemmin pyroteknisen tuotteen luokituksesta.",
+      "section_number": "7",
+      "chapter_number": 2,
+      "statute_id": "263/1953"
+    },
+    {
+      "id": "96c62b87-18b9-4008-a60d-ebcfc5b89910",
+      "node_type": "Section",
+      "publisher": "finlex",
+      "title": "8 § Valmistajan velvollisuus varmistaa pyroteknisen tuotteen vaatimustenmukaisuus",
+      "text": "Valmistajan on ennen pyroteknisen tuotteen markkinoille saattamista varmistettava ja voitava osoittaa, että pyrotekninen tuote on suunniteltu ja valmistettu tässä laissa säädettyjen vaatimusten mukaisesti. Valmistajan on suoritettava pyrotekniselle tuotteelle soveltuva vaatimustenmukaisuuden arviointi käyttämällä valmistajan valitsemia vaatimustenmukaisuuden arviointimenettelyjä. Vaatimustenmukaisuuden arvioinnissa on käytettävä ilmoitettua laitosta. Valmistajan on laadittava tuotteen vaatimustenmukaisuuden osoittamiseksi tekniset asiakirjat. Valmistajan on laadittava EU-vaatimustenmukaisuusvakuutus ja kiinnitettävä tuotteeseen CE-merkintä 11 §:n mukaisesti, kun pyroteknisen tuotteen vaatimustenmukaisuus on sovellettavien vaatimusten suhteen osoitettu. Valmistajan on säilytettävä tekniset asiakirjat ja EU-vaatimustenmukaisuusvakuutus kymmenen vuoden ajan sen jälkeen, kun pyrotekninen tuote on saatettu markkinoille. Valtioneuvoston asetuksella säädetään tarkemmin vaatimustenmukaisuuden arviointimenettelyistä, teknisistä asiakirjoista sekä EU-vaatimustenmukaisuusvakuutuksesta.",
+      "section_number": "8",
+      "chapter_number": 2,
+      "statute_id": "263/1953"
+    },
+    {
+      "id": "4f6e4c2f-55ef-4888-a5bf-d31a34bd5dff",
+      "node_type": "Section",
+      "publisher": "finlex",
+      "title": "9 § Valmistajan velvollisuus varmistaa sarjatuotannon jatkuva vaatimustenmukaisuus",
+      "text": "Valmistajan on huolehdittava siitä, että sarjatuotannossa valmistettu pyrotekninen tuote on vaatimusten mukainen. Valmistajan on otettava huomioon muutokset pyroteknisen tuotteen suunnittelussa tai ominaisuuksissa ja muutokset yhdenmukaistetuissa standardeissa tai muissa teknisissä eritelmissä, joiden mukaiset vaatimukset pyroteknisen tuotteen on täytettävä.",
+      "section_number": "9",
+      "chapter_number": 2,
+      "statute_id": "263/1953"
+    },
+    {
+      "id": "360fe6c1-f864-4d14-9785-14a66ead6bb4",
+      "node_type": "Section",
+      "publisher": "finlex",
+      "title": "10 § Pyroteknisen tuotteen merkintä rekisteröintinumerolla ja kirjanpito",
+      "text": "Valmistajan on merkittävä pyrotekninen tuote rekisteröintinumerolla, jonka antaa 18 §:ssä tarkoitettu ilmoitettu laitos. Tuotteiden numeroinnissa on käytettävä Euroopan komission määrittämää yhtenäistä järjestelmää. Valmistajien ja maahantuojien on pidettävä kirjaa markkinoilla saataville asettamiensa pyroteknisten tuotteiden rekisteröintinumeroista. Tiedot on säilytettävä vähintään kymmenen vuoden ajan siitä, kun tuote on saatettu markkinoille. Tiedot on pidettävä valvontaviranomaisen saatavilla. Valtioneuvoston asetuksella säädetään tarkemmin Euroopan komission rekisteröintijärjestelmästä ja säilytettävistä tiedoista.",
+      "section_number": "10",
+      "chapter_number": 2,
+      "statute_id": "263/1953"
+    },
+    {
+      "id": "764bd632-5c62-4be7-95bd-86eca7dc6334",
+      "node_type": "Section",
+      "publisher": "finlex",
+      "title": "11 § CE-merkintä ja muiden merkintöjen kiinnittäminen",
+      "text": "Valmistajan on kiinnitettävä tämän lain vaatimukset täyttävään pyrotekniseen tuotteeseen CE-merkintä ennen tuotteen markkinoille saattamista. Merkintä on kiinnitettävä näkyvästi, helposti luettavasti ja pysyvästi. Jos ilmoitettu laitos on mukana tuotannon tarkastusvaiheessa, CE-merkinnän jälkeen on merkittävä ilmoitetun laitoksen tunnusnumero. Ilmoitetun laitoksen tunnusnumeron kiinnittää laitos itse tai sen ohjeiden mukaisesti valmistaja. CE-merkintään ja ilmoitetun laitoksen tunnusnumeroon voidaan liittää muuta tietoa, joka liittyy tuotteen erityisvaaraan tai -käyttöön. Jos CE-merkintää ei ole mahdollista tai perusteltua kiinnittää tuotteeseen, se on kiinnitettävä tuotteen pakkaukseen ja mukana oleviin asiakirjoihin. CE-merkintää koskevista yleisistä periaatteista säädetään NLF-asetuksen 30 artiklassa.",
+      "section_number": "11",
+      "chapter_number": 2,
+      "statute_id": "263/1953"
+    },
+    {
+      "id": "a86d3b4d-3152-4749-bb38-7ad1922a7e29",
+      "node_type": "Section",
+      "publisher": "finlex",
+      "title": "12 § Tuotteen merkinnät, yhteystiedot, mukana seuraavat asiakirjat ja kielivaatimukset",
+      "text": "Valmistajan on varmistettava, että markkinoille saatetussa pyroteknisessä tuotteessa on tässä laissa vaaditut merkinnät ja tuotteeseen liitetään ohjeet ja turvallisuustiedot. Valmistajan on ilmoitettava nimensä, rekisteröity tuotenimensä tai rekisteröity tavaramerkkinsä ja postiosoitteensa. Tiedot on oltava pyroteknisessä tuotteessa tai, mikäli se ei ole mahdollista, pyroteknisen tuotteen pakkauksessa tai tuotteen mukana seuraavassa asiakirjassa. Osoitteessa on ilmoitettava yksi yhteyspiste, jonka kautta valmistajaan saa yhteyden. Pyroteknisen tuotteen merkintöjen, turvallisuustietojen ja ohjeiden sekä tuotteen mukana toimitettavien asiakirjojen tulee olla suomen ja ruotsin kielellä. Valtioneuvoston asetuksella säädetään tarkemmin pyroteknisen tuotteen merkinnöille asetettavista vaatimuksista ja niitä koskevista poikkeuksista.",
+      "section_number": "12",
+      "chapter_number": 2,
+      "statute_id": "263/1953"
+    },
+    {
+      "id": "95a68022-7a13-4e3e-8e77-89dd5832bd9b",
+      "node_type": "Section",
+      "publisher": "finlex",
+      "title": "13 § Maahantuojan velvollisuudet pyroteknisen tuotteen markkinoille saattamisen yhteydessä",
+      "text": "Maahantuojan on saatettava markkinoille ainoastaan vaatimukset täyttäviä pyroteknisiä tuotteita. Maahantuojan on ennen pyroteknisen tuotteen markkinoille saattamista varmistettava, että: Jos maahantuojalla on syytä epäillä, että pyrotekninen tuote ei täytä olennaisia turvallisuusvaatimuksia, maahantuoja ei saa saattaa pyroteknistä tuotetta markkinoille ennen kuin se täyttää mainitut vaatimukset. Jos pyroteknisestä tuotteesta aiheutuu vaaraa, maahantuojan on ilmoitettava siitä valmistajalle ja valvontaviranomaiselle. Maahantuojan on varmistettava, että sinä aikana, jona pyrotekninen tuote on sen vastuulla, pyroteknisen tuotteen varastointi- tai kuljetusolosuhteet eivät vaaranna sen vaatimustenmukaisuutta. Maahantuojan on ilmoitettava nimensä, rekisteröity tuotenimensä tai rekisteröity tavaramerkkinsä ja postiosoitteensa, josta maahantuojan tavoittaa. Tiedot on oltava pyroteknisessä tuotteessa tai, mikäli se ei ole mahdollista, pyroteknisen tuotteen pakkauksessa tai tuotteen mukana seuraavassa asiakirjassa. Yhteystiedot on ilmoitettava suomeksi ja ruotsiksi. Maahantuojan on pidettävä EU-vaatimustenmukaisuusvakuutuksen jäljennös valvontaviranomaisen saatavilla kymmenen vuoden ajan siitä, kun pyrotekninen tuote on saatettu markkinoille ja varmistettava, että tekniset asiakirjat ovat viranomaisten saatavilla.",
+      "section_number": "13",
+      "chapter_number": 3,
+      "statute_id": "263/1953"
+    },
+    {
+      "id": "7c618d15-9f59-41c4-be28-cfb9d14c6d70",
+      "node_type": "Section",
+      "publisher": "finlex",
+      "title": "14 § Jakelijan velvollisuudet asetettaessa pyrotekninen tuote saataville markkinoilla",
+      "text": "Jakelijan on ennen pyroteknisen tuotteen asettamista saataville markkinoilla tarkistettava, että tuotteessa on vaaditut merkinnät ja tiedot ja tuotteen mukana on vaaditut asiakirjat sekä ohjeet ja turvallisuustiedot suomeksi ja ruotsiksi. Jakelijan on huolehdittava, että sinä aikana, jolloin pyrotekninen tuote on sen vastuulla, tuotteen varastointi- tai kuljetusolosuhteet eivät vaaranna sen vaatimustenmukaisuutta. Jos jakelijalla on syytä epäillä, että pyrotekninen tuote ei ole olennaisten turvallisuusvaatimusten mukainen, jakelija saa asettaa pyroteknisen tuotteen saataville markkinoilla vasta, kun tuote on tämän lain vaatimusten mukainen. Jos tuotteesta aiheutuu vaaraa, jakelijan on ilmoitettava siitä valmistajalle tai maahantuojalle ja valvontaviranomaiselle.",
+      "section_number": "14",
+      "chapter_number": 3,
+      "statute_id": "263/1953"
+    },
+    {
+      "id": "fa8b64a1-2caf-4c6e-9e80-7a39a32bc3b2",
+      "node_type": "Section",
+      "publisher": "finlex",
+      "title": "15 § Valmistajan velvollisuuksien soveltaminen maahantuojaan ja jakelijaan",
+      "text": "Maahantuojalla ja jakelijalla on samat velvollisuudet kuin valmistajalla, jos ne saattavat pyroteknisen tuotteen markkinoille omalla nimellään tai tavaramerkillään taikka muuttavat markkinoille jo saatettua tuotetta tavalla, joka voi vaikuttaa tämän lain vaatimusten täyttymiseen.",
+      "section_number": "15",
+      "chapter_number": 3,
+      "statute_id": "263/1953"
+    },
+    {
+      "id": "541501e5-2211-4121-9c17-d3b37e2292fb",
+      "node_type": "Section",
+      "publisher": "finlex",
+      "title": "16 § Toiminnanharjoittajan velvollisuudet vaatimustenvastaisuustilanteissa",
+      "text": "Jos valmistajalla tai maahantuojalla on syytä epäillä, että sen markkinoille saattama pyrotekninen tuote ei täytä tämän lain vaatimuksia, valmistajan taikka maahantuojan on ryhdyttävä välittömästi toimenpiteisiin pyroteknisen tuotteen saattamiseksi vaatimusten mukaiseksi, sen poistamiseksi markkinoilta tai sitä koskevan palautusmenettelyn järjestämiseksi. Myös jakelijan tulee tarvittaessa ryhtyä mainittuihin toimenpiteisiin. Toiminnanharjoittajan on välittömästi ilmoitettava valvontaviranomaiselle ja annettava yksityiskohtaiset tiedot vaatimustenvastaisuudesta ja kaikista toteutetuista toimenpiteistä. Valmistajan ja maahantuojan on silloin, kun se katsotaan kuluttajien terveyden ja turvallisuuden suojelemiseksi tarpeelliseksi, valvontaviranomaisen pyynnöstä tehtävä näytteisiin perustuvia testejä markkinoilla saataville asetetuille pyroteknisille tuotteille ja tutkittava valitukset, vaatimustenvastaiset pyrotekniset tuotteet ja pyroteknisten tuotteiden palautukset ja tarvittaessa pidettävä niistä kirjaa sekä tiedotettava jakelijoille kaikesta tällaisesta valvonnasta.",
+      "section_number": "16",
+      "chapter_number": 3,
+      "statute_id": "263/1953"
+    },
+    {
+      "id": "342cae24-41f2-4e62-b828-475e9ceb2748",
+      "node_type": "Section",
+      "publisher": "finlex",
+      "title": "17 § Pyrotekninen tuote markkinointi-, kehittämis-, testaus- tai tutkimustarkoituksiin",
+      "text": "Toiminnanharjoittaja saa asettaa pyroteknisen tuotteen näytteille tai käyttää tuotetta markkinointitarkoituksiin, vaikka sen vaatimustenmukaisuutta ei ole osoitettu 8 §:n mukaisesti. Tällöin tuotteessa on oltava näkyvä merkintä, josta ilmenee messun, esittelytilaisuuden tai näyttelyn nimi ja päivämäärä. Lisäksi tuotteen merkinnästä on käytävä selvästi ilmi, että tuote ei ole vaatimusten mukainen eikä myytävänä ennen kuin valmistaja tai maahantuoja on saattanut sen vaatimusten mukaiseksi. Tutkimusta, kehittämistä tai testausta varten valmistetun pyroteknisen tuotteen ei tarvitse olla tämän lain mukainen. Tällöin tuotteessa on oltava näkyvä merkintä, josta ilmenee selvästi, että tuote ei ole saatavilla muuhun tarkoitukseen kuin kehittämiseen, testaukseen tai tutkimukseen. Valvontaviranomainen voi antaa tarpeellisia määräyksiä turvallisuuden varmistamiseksi 1 momentissa tarkoitetuissa tilaisuuksissa.",
+      "section_number": "17",
+      "chapter_number": 3,
+      "statute_id": "263/1953"
+    },
+    {
+      "id": "0fee1b92-2f60-435f-b436-2bdcf63ff8c3",
+      "node_type": "Section",
+      "publisher": "finlex",
+      "title": "18 § Ilmoitetun laitoksen hyväksyminen",
+      "text": "Työ- ja elinkeinoministeriö hyväksyy ja ilmoittaa Euroopan komissiolle ilmoitetut laitokset. Ministeriön on ilmoitettava Euroopan komissiolle myös ilmoitetuissa tiedoissa tapahtuneet merkittävät muutokset. Hyväksymistä on haettava työ- ja elinkeinoministeriölle osoitetulla hakemuksella, josta ilmenee tiedot arviointilaitokselta edellytettävien vaatimusten täyttämisestä. Vaatimustenmukaisuuden arviointilaitos voi osoittaa täyttävänsä sitä koskevat vaatimukset akkreditoinnilla, jonka on myöntänyt NLF-asetuksen vaatimukset täyttävä akkreditointielin, jona Suomessa toimii Turvallisuus- ja kemikaaliviraston akkreditointiyksikkö (FINAS-akkreditointipalvelu). Hyväksymispäätöksessä määritellään ilmoitetun laitoksen pätevyysalue, vahvistetaan laitoksen valvontaan liittyvät järjestelyt sekä asetetaan tarvittaessa laitoksen toimintaa koskevia vaatimuksia, rajoituksia ja ehtoja, joilla varmistetaan tehtävien asianmukainen suorittaminen. Päätös voidaan antaa määräajaksi. Euroopan talousalueeseen kuuluvan valtion hyväksymä ja Euroopan komissiolle ilmoitettu vaatimustenmukaisuuden arviointilaitos vastaa ilmoitettua laitosta. Hyväksymistä ja ilmoittamista koskevasta hakemuksesta ja sen sisällöstä säädetään tarkemmin valtioneuvoston asetuksella.",
+      "section_number": "18",
+      "chapter_number": 4,
+      "statute_id": "263/1953"
+    },
+    {
+      "id": "6206be97-05b6-4b6a-9609-b68c0d5eae77",
+      "node_type": "Section",
+      "publisher": "finlex",
+      "title": "19 § Ilmoitettua laitosta koskevat yleiset vaatimukset",
+      "text": "Ilmoitetun laitoksen on täytettävä seuraavat vaatimukset:",
+      "section_number": "19",
+      "chapter_number": 4,
+      "statute_id": "263/1953"
+    },
+    {
+      "id": "c11e35ce-b581-4932-8dfa-e923821fe6c3",
+      "node_type": "Section",
+      "publisher": "finlex",
+      "title": "20 § Ilmoitetun laitoksen toimintaa koskevat vaatimukset",
+      "text": "Ilmoitetulla laitoksella on kaikissa tapauksissa ja kunkin sellaisen vaatimustenmukaisuuden arviointimenettelyn ja pyroteknisen tuotteen tyypin tai luokan osalta, jota varten se on ilmoitettu, oltava käytössään: Ilmoitetulla laitoksella on oltava tarvittavat edellytykset niiden teknisten ja hallinnollisten tehtävien suorittamiseen, joita arviointitehtävien asianmukainen hoitaminen edellyttää, ja sillä on oltava mahdollisuus käyttää kaikkia tarvittavia laitteita ja välineitä.",
+      "section_number": "20",
+      "chapter_number": 4,
+      "statute_id": "263/1953"
+    },
+    {
+      "id": "4d47d8a1-8eda-4c78-8d36-9d815808bf9b",
+      "node_type": "Section",
+      "publisher": "finlex",
+      "title": "21 § Ilmoitetun laitoksen vastaavaa henkilöstöä koskevat vaatimukset",
+      "text": "Ilmoitetun laitoksen vastaavalla henkilöstöllä on oltava:",
+      "section_number": "21",
+      "chapter_number": 4,
+      "statute_id": "263/1953"
+    },
+    {
+      "id": "3d7e48f5-50de-4a63-980b-e724e766e2f2",
+      "node_type": "Section",
+      "publisher": "finlex",
+      "title": "22 § Ilmoitetun laitoksen puolueettomuus ja vastuuvakuutus",
+      "text": "Ilmoitetun laitoksen, sen ylimmän johdon ja arviointihenkilöstön on oltava puolueettomia. Ilmoitetun laitoksen ylimmän johdon ja arviointihenkilöstön palkkiot eivät saa olla riippuvaisia suoritettujen arviointien määrästä eivätkä tuloksista. Ilmoitetulla laitoksella on oltava vastuuvakuutus.",
+      "section_number": "22",
+      "chapter_number": 4,
+      "statute_id": "263/1953"
+    },
+    {
+      "id": "f33f9d33-07ff-4dec-9b98-94ae2633f10b",
+      "node_type": "Section",
+      "publisher": "finlex",
+      "title": "23 § Ilmoitetun laitoksen toimintaan liittyvien tietojen antaminen viranomaisille",
+      "text": "Ilmoitetun laitoksen on sen estämättä, mitä tietojen salassapidosta säädetään, annettava tietoja laitoksen toiminnasta työ- ja elinkeinoministeriölle ja Turvallisuus- ja kemikaalivirastolle.",
+      "section_number": "23",
+      "chapter_number": 4,
+      "statute_id": "263/1953"
+    },
+    {
+      "id": "e8fa950f-6bcc-428e-ad97-c485402ca818",
+      "node_type": "Section",
+      "publisher": "finlex",
+      "title": "24 § Ilmoitetun laitoksen velvollisuus osallistua standardointitoimiin ja ilmoitettujen laitosten koordinaatioryhmän työhön",
+      "text": "Ilmoitetun laitoksen on osallistuttava asiaankuuluviin standardointitoimiin ja unionin yhdenmukaistamislainsäädännön nojalla perustetun ilmoitettujen laitosten koordinointityöryhmän työhön. Jollei tämä ole mahdollista, laitoksen on varmistettava, että sen arviointihenkilöstö saa tiedon standardoinnista ja koordinaatiotyöryhmän työstä.",
+      "section_number": "24",
+      "chapter_number": 4,
+      "statute_id": "263/1953"
+    },
+    {
+      "id": "73db3f67-3fe5-426d-a7e5-9418ecf2af01",
+      "node_type": "Section",
+      "publisher": "finlex",
+      "title": "25 § Ilmoitettua laitosta koskeva olettama",
+      "text": "Jos ilmoitettu laitos osoittaa olevansa asianmukaisissa yhdenmukaistetuissa standardeissa tai niiden osissa, joiden viitetiedot on julkaistu Euroopan unionin virallisessa lehdessä, vahvistettujen edellytysten mukainen, sen oletetaan täyttävän tässä laissa ilmoitetulle laitokselle säädetyt vaatimukset, mikäli sovellettavat standardit kattavat nämä vaatimukset.",
+      "section_number": "25",
+      "chapter_number": 4,
+      "statute_id": "263/1953"
+    },
+    {
+      "id": "4876df38-570e-4bee-a16c-ecf0c1b25e77",
+      "node_type": "Section",
+      "publisher": "finlex",
+      "title": "26 § Tehtävien teettäminen alihankintana tai tytäryhtiöllä",
+      "text": "Jos ilmoitettu laitos teettää alihankintana tietyt vaatimustenmukaisuuden arviointiin liittyvät tehtävät tai käyttää tytäryhtiötä, sen on varmistettava, että alihankkija tai tytäryhtiö täyttää 19—24 §:ssä säädetyt vaatimukset, ja ilmoitettava siitä työ- ja elinkeinoministeriölle. Ilmoitettu laitos vastaa alihankkijan tai tytäryhtiön suorittamista tehtävistä riippumatta näiden sijaintipaikasta. Ilmoitettu laitos voi teettää alihankintana tai tytäryhtiöllä tehtäviä ainoastaan, jos siitä on sovittu asiakkaan kanssa. Ilmoitetun laitoksen on pidettävä työ- ja elinkeinoministeriön saatavilla asiakirjat, jotka koskevat alihankkijan tai tytäryhtiön pätevyyden arviointia sekä vaatimustenmukaisuuden arviointitehtäviä.",
+      "section_number": "26",
+      "chapter_number": 4,
+      "statute_id": "263/1953"
+    },
+    {
+      "id": "a7b8ea60-4024-4a1c-a133-5aaa88f1a499",
+      "node_type": "Section",
+      "publisher": "finlex",
+      "title": "27 § Ilmoitetun laitoksen, sen tytäryhtiön ja alihankkijan yleiset velvollisuudet",
+      "text": "Ilmoitetun laitoksen on arvioitava pyroteknisen tuotteen vaatimustenmukaisuus vaatimustenmukaisuuden arviointimenettelyjen mukaisesti. Vaatimustenmukaisuuden arviointi on suoritettava oikeasuhtaisesti ja välttäen tarpeettoman rasitteen aiheuttamista toiminnanharjoittajille. Ilmoitetun laitoksen on otettava huomioon asianomaisen yrityksen koko, toimiala, rakenne, tuotteissa käytettävän teknologian monimutkaisuus sekä se, onko kyse massa- tai sarjatuotannosta. Vaatimustenmukaisuutta arvioitaessa on noudatettava riittävää huolellisuutta sen varmistamiseksi, että pyrotekninen tuote on tämän lain vaatimusten mukainen. Ilmoitetun laitoksen tai sen käyttämän tytäryhtiön tai alihankkijan on tässä laissa tarkoitettuja julkisia hallintotehtäviä hoitaessaan noudatettava, mitä viranomaisten toiminnan julkisuudesta annetussa laissa (621/1999), sähköisestä asioinnista viranomaistoiminnassa annetussa laissa (13/2003), hallintolaissa (434/2003) ja kielilaissa (423/2003) säädetään. Ilmoitetun laitoksen tai sen käyttämän tytäryhtiön tai alihankkijan henkilöstöön sovelletaan lisäksi rikosoikeudellista virkavastuuta koskevia säännöksiä tässä pykälässä tarkoitettuja tehtäviä hoidettaessa. Valtioneuvoston asetuksella säädetään tarkemmin ilmoitetun laitoksen tehtävistä vaatimustenmukaisuuden arvioinnissa.",
+      "section_number": "27",
+      "chapter_number": 4,
+      "statute_id": "263/1953"
+    },
+    {
+      "id": "479e29fe-1e95-4548-a198-6f8fd2ec0b65",
+      "node_type": "Section",
+      "publisher": "finlex",
+      "title": "28 § Todistukset vaatimustenmukaisuudesta",
+      "text": "Ilmoitetun laitoksen on annettava valmistajalle EU-tyyppitarkastustodistus tai vaatimustenmukaisuustodistus, jos pyrotekninen tuote täyttää tämän lain vaatimukset. Ilmoitetun laitoksen on säilytettävä jäljennökset 1 momentissa tarkoitetuista todistuksista ja niiden lisäyksistä sekä teknisistä asiakirjoista, valmistajan toimittamat asiakirjat mukaan luettuina, kyseisen todistuksen voimassaolon päättymiseen saakka. Valtioneuvoston asetuksella säädetään tarkemmin EU-tyyppitarkastustodistuksesta, vaatimustenmukaisuustodistuksesta ja niiden sisällöstä.",
+      "section_number": "28",
+      "chapter_number": 4,
+      "statute_id": "263/1953"
+    },
+    {
+      "id": "9bb2572b-c815-4265-8774-40bb032567b3",
+      "node_type": "Section",
+      "publisher": "finlex",
+      "title": "29 § Todistuksen antamatta jättäminen tai sen peruuttaminen",
+      "text": "Jos ilmoitettu laitos havaitsee, että pyrotekninen tuote ei täytä sitä koskevia olennaisia turvallisuusvaatimuksia, sen on vaadittava valmistajaa korjaamaan puute, eikä se saa antaa valmistajalle todistusta vaatimustenmukaisuudesta. Jos ilmoitettu laitos katsoo todistuksen antamisen jälkeen, ettei pyrotekninen tuote enää ole vaatimusten mukainen, sen on vaadittava valmistajaa korjaamaan puute ja tarvittaessa peruutettava todistus väliaikaisesti tai pysyvästi. Jos puutetta ei korjata tai toimenpiteillä ei ole vaadittua vaikutusta, ilmoitetun laitoksen on tarpeen mukaan peruutettava todistus väliaikaisesti tai pysyvästi tai myönnettävä ne rajoitettuna.",
+      "section_number": "29",
+      "chapter_number": 4,
+      "statute_id": "263/1953"
+    },
+    {
+      "id": "1cbd2bd9-bf8b-4e31-a24c-70d0bf05cdd2",
+      "node_type": "Section",
+      "publisher": "finlex",
+      "title": "30 § Pyroteknisten tuotteiden rekisteri",
+      "text": "Ilmoitetun laitoksen on pidettävä rekisteriä niistä pyroteknisistä tuotteista, joille se on myöntänyt EU-tyyppitarkastustodistuksen tai vaatimustenmukaisuustodistuksen. Rekisterissä olevat tiedot on säilytettävä 10 vuotta. Rekisteri on pidettävä ajan tasalla sekä julkaistava internetissä. Jos vaatimustenmukaisuuden arviointilaitoksen hyväksyminen ilmoitetuksi laitokseksi peruutetaan, sen on siirrettävä rekisteri toiselle ilmoitetulle laitokselle tai toimivaltaiselle viranomaiselle. Valtioneuvoston asetuksella säädetään tarkemmin rekisteröinnistä.",
+      "section_number": "30",
+      "chapter_number": 4,
+      "statute_id": "263/1953"
+    },
+    {
+      "id": "d8992175-a9ce-4f27-bdb4-c30c58c30806",
+      "node_type": "Section",
+      "publisher": "finlex",
+      "title": "31 § Ilmoitetun laitoksen velvollisuus antaa tietoja",
+      "text": "Ilmoitetun laitoksen on ilmoitettava työ- ja elinkeinoministeriölle seuraavista seikoista: Ilmoitetun laitoksen on toimitettava muille ilmoitetuille laitoksille, jotka suorittavat samanlaisia vaatimustenmukaisuuden arviointitoimia ja kattavat samat pyrotekniset tuotteet, asiankuuluvat tiedot vaatimustenmukaisuuden arvioinnin kielteisistä tuloksista ja pyynnöstä myös myönteisistä tuloksista.",
+      "section_number": "31",
+      "chapter_number": 4,
+      "statute_id": "263/1953"
+    },
+    {
+      "id": "93388e51-b3ac-45bc-9a96-844397b9c4db",
+      "node_type": "Section",
+      "publisher": "finlex",
+      "title": "32 § Ilmoitetun laitoksen hyväksymisen peruuttaminen",
+      "text": "Jos ilmoitettu laitos ei enää täytä 19—24 §:ssä säädettyjä edellytyksiä tai ei noudata 18 §:ssä tarkoitetussa päätöksessä asetettuja ehtoja taikka toimii muuten olennaisesti säännösten vastaisesti, työ- ja elinkeinoministeriön on asetettava ilmoitetulle laitokselle riittävä määräaika asian korjaamiseksi. Työ- ja elinkeinoministeriön on peruutettava antamansa hyväksyminen, jos ilmoitettu laitos ei ole korjannut epäkohtaa annetussa määräajassa.",
+      "section_number": "32",
+      "chapter_number": 4,
+      "statute_id": "263/1953"
+    },
+    {
+      "id": "36bd95a7-a26f-4560-96ed-7d77ec3509a0",
+      "node_type": "Section",
+      "publisher": "finlex",
+      "title": "33 § Valvonnan ylin johto ja ohjaus",
+      "text": "Tämän lain säännösten noudattamista koskevan valvonnan ylin johto ja ohjaus kuuluu työ- ja elinkeinoministeriölle. Lisäksi työ- ja elinkeinoministeriö valvoo hyväksymiään ilmoitettuja laitoksia.",
+      "section_number": "33",
+      "chapter_number": 5,
+      "statute_id": "263/1953"
+    },
+    {
+      "id": "a8144915-62ed-43d4-b4e6-c93a6f5881f5",
+      "node_type": "Section",
+      "publisher": "finlex",
+      "title": "34 § Valvontaviranomaiset",
+      "text": "Turvallisuus- ja kemikaalivirasto valvoo tämän lain noudattamista. Tulli valvoo pyroteknisen tuotteen maahantuontia Euroopan unionin ulkopuolelta. Lisäksi Tulli voi valvoa pyroteknisen tuotteen jakelua toimitettaessa pyroteknisiä tuotteita Suomeen Euroopan unionin jäsenmaista Suomessa tapahtuvan tavaraerän purkamisen ja siihen liittyvän varastoinnin yhteydessä.",
+      "section_number": "34",
+      "chapter_number": 5,
+      "statute_id": "263/1953"
+    },
+    {
+      "id": "f10e1f3f-5034-438c-afba-4bd42f903e4d",
+      "node_type": "Section",
+      "publisher": "finlex",
+      "title": "35 § Valvontaviranomaisen oikeus saada tietoja",
+      "text": "Valvontaviranomaisella on salassapitosäännösten estämättä oikeus saada nähtäväkseen tämän lain noudattamisen valvontaa varten tarpeelliset tiedot toiminnanharjoittajalta, jota tämän lain ja sen nojalla annettujen säännösten velvoitteet koskevat.",
+      "section_number": "35",
+      "chapter_number": 5,
+      "statute_id": "263/1953"
+    },
+    {
+      "id": "8c3b5f04-1852-48cc-b36b-e814c725fe1f",
+      "node_type": "Section",
+      "publisher": "finlex",
+      "title": "36 § Tietojen luovuttaminen ja velvollisuus tehdä yhteistyötä",
+      "text": "Toiminnanharjoittajan on pyynnöstä luovutettava valvontaviranomaiselle tämän lain noudattamisen valvontaa ja täytäntöönpanoa varten tarpeelliset tiedot ja asiakirjat suomeksi tai ruotsiksi taikka muulla valvontaviranomaisen hyväksymällä kielellä sekä muutoinkin tehtävä valvontaviranomaisen kanssa yhteistyötä pyroteknisten tuotteiden vaatimustenmukaisuuden varmistamiseksi. Toiminnanharjoittajan on pyynnöstä esitettävä valvontaviranomaisille tunnistetiedot: Toiminnanharjoittajan on voitava esittää 2 momentissa tarkoitetut tiedot kymmenen vuoden ajan sen jälkeen, kun sille on toimitettu pyrotekninen tuote, ja kymmenen vuoden ajan sen jälkeen, kun se on toimittanut pyroteknisen tuotteen edelleen.",
+      "section_number": "36",
+      "chapter_number": 5,
+      "statute_id": "263/1953"
+    },
+    {
+      "id": "d08217a6-37bb-4732-bfcd-96dcfba3d51d",
+      "node_type": "Section",
+      "publisher": "finlex",
+      "title": "37 § Oikeus tehdä tarkastuksia",
+      "text": "Valvontaviranomaisella on oikeus tehdä tämän lain noudattamisen valvomiseksi tarvittavia tarkastuksia. Tarkastuksissa noudatetaan, mitä hallintolain 39 §:ssä säädetään. Valvontatoimenpiteet voidaan ulottaa pysyväisluonteiseen asumiseen käytettyihin tiloihin vain, jos tarkastus on välttämätön tarkastuksen kohteena olevien seikkojen selvittämiseksi ja on syytä epäillä, että on tehty rikoslain (39/1889) 44 luvun 11 §:ssä tarkoitettu rikos.",
+      "section_number": "37",
+      "chapter_number": 5,
+      "statute_id": "263/1953"
+    },
+    {
+      "id": "f1a8c026-92c0-4b6c-8917-5953e4c31b0b",
+      "node_type": "Section",
+      "publisher": "finlex",
+      "title": "38 § Oikeus ottaa näytteitä ja tehdä tutkimuksia",
+      "text": "Valvontaviranomaisella on oikeus ottaa näytteitä tutkittavaksi, jos se on tämän lain noudattamisen valvonnan kannalta tarpeellista. Edellä 1 momentissa tarkoitettu näyte on toiminnanharjoittajan vaatimuksesta korvattava käyvän hinnan mukaan, jollei havaita, että näyte on tämän lain vastainen. Jos näyte ei täytä tässä laissa säädettyjä vaatimuksia, valvontaviranomainen voi velvoittaa toiminnanharjoittajan korvaamaan näytteen hankinnasta, testauksesta ja tutkimisesta aiheutuneet kustannukset. Korvaus on suoraan ulosottokelpoinen. Sen perimisestä säädetään verojen ja maksujen täytäntöönpanosta annetussa laissa (706/2007). Näytteiden ottamiseen sovelletaan, mitä 37 §:ssä säädetään valvontatoimien ulottamisesta pysyväisluonteiseen asumiseen käytettyihin tiloihin.",
+      "section_number": "38",
+      "chapter_number": 5,
+      "statute_id": "263/1953"
+    },
+    {
+      "id": "f7d62a28-078e-425b-a385-22f748e67a86",
+      "node_type": "Section",
+      "publisher": "finlex",
+      "title": "39 § Oikeus saada tietoja toisilta viranomaisilta sekä luovuttaa salassa pidettäviä tietoja",
+      "text": "Valvontaviranomaisella on oikeus salassapitosäännösten ja muiden tiedonsaantia koskevien rajoitusten estämättä saada esitutkinnan tai valvonnan kannalta tarpeellisia tietoja toiselta viranomaiselta ja käyttää toisen hankkimia näytteitä valvonnan kannalta tarpeellisiin tutkimuksiin. Valvontaviranomainen saa salassapitosäännösten estämättä luovuttaa valvonnassa saamiaan tietoja yksityisen tai yhteisön taloudellisesta asemasta, liike- tai ammattisalaisuudesta taikka yksityisen henkilökohtaisista oloista:",
+      "section_number": "39",
+      "chapter_number": 5,
+      "statute_id": "263/1953"
+    },
+    {
+      "id": "a1c8cda3-389b-4cdb-a694-0a202b598b21",
+      "node_type": "Section",
+      "publisher": "finlex",
+      "title": "40 § Ulkopuolisen asiantuntijan käyttö",
+      "text": "Valvontaviranomaisella on oikeus käyttää ulkopuolisia asiantuntijoita pyroteknisen tuotteen vaatimustenmukaisuuden tutkinnassa, testaamisessa ja arvioimisessa. Ulkopuoliset asiantuntijat voivat valvontaviranomaisen tai sen määräämän viranhaltijan apuna osallistua tämän lain mukaisiin tarkastuksiin sekä tutkia ja testata pyroteknisiä tuotteita. Ulkopuolisella asiantuntijalla tulee olla tehtävien edellyttämä asiantuntemus ja pätevyys. Ulkopuoliseen asiantuntijaan sovelletaan rikosoikeudellista virkavastuuta koskevia säännöksiä silloin, kun hän hoitaa tässä pykälässä tarkoitettuja tehtäviä. Vahingonkorvausvastuusta säädetään vahingonkorvauslaissa (412/1974). Ulkopuoliselle asiantuntijalle ei voida antaa 37 §:n mukaista oikeutta ulottaa valvontatoimia pysyväisluonteiseen asumiseen käytettyihin tiloihin.",
+      "section_number": "40",
+      "chapter_number": 5,
+      "statute_id": "263/1953"
+    },
+    {
+      "id": "0c9ed007-9cec-4a3a-a80e-1cd64095a444",
+      "node_type": "Section",
+      "publisher": "finlex",
+      "title": "41 § Virka-apu",
+      "text": "Poliisi on velvollinen antamaan virka-apua tämän lain ja sen nojalla annettujen säännösten ja määräysten noudattamisen valvomiseksi ja täytäntöön panemiseksi. Poliisin antamasta virka-avusta säädetään poliisilaissa (872/2011).",
+      "section_number": "41",
+      "chapter_number": 5,
+      "statute_id": "263/1953"
+    },
+    {
+      "id": "ae72acdc-1c2b-4959-8471-6aec03969244",
+      "node_type": "Section",
+      "publisher": "finlex",
+      "title": "42 § Vaatimusten vastaista pyroteknistä tuotetta koskevat valvontaviranomaisen toimenpiteet",
+      "text": "Jos pyrotekninen tuote tai tuotetta koskevat asiakirjat ja tiedot eivät ole tämän lain vaatimusten mukaisia tai niitä ei pyynnöstä toimiteta valvontaviranomaiselle taikka pyrotekninen tuote saattaa tavanomaisissa ja ennakoitavissa käyttöolosuhteissa vaarantaa ihmisten turvallisuutta tai aiheuttaa vaaraa ympäristölle tai omaisuudelle, valvontaviranomainen voi: Toiminnanharjoittajan on annettava valvontaviranomaiselle tämän määräämässä kohtuullisessa ajassa selvitys siitä, millä tavoin 1 momentin 1—4 kohdassa tarkoitettu määräys tai kielto on pantu toimeen. Valvontaviranomaisen on ilmoitettava asianomaiselle ilmoitetulle laitokselle toiminnanharjoittajaan kohdistetuista toimenpiteistä, jotka koskevat vaatimustenvastaista tuotetta.",
+      "section_number": "42",
+      "chapter_number": 5,
+      "statute_id": "263/1953"
+    },
+    {
+      "id": "eb7e17f9-7857-4f7c-9399-4448d5c60388",
+      "node_type": "Section",
+      "publisher": "finlex",
+      "title": "43 § Väliaikainen kielto",
+      "text": "Valvontaviranomainen voi määrätä 42 §:n 1 momentin 2 kohdassa tarkoitetun kiellon väliaikaisena asian selvittämisen ajaksi, jos on syytä epäillä, että pyrotekninen tuote voi olla vaatimustenvastainen tai että tuote saattaa tavanomaisissa ja ennakoitavissa käyttöolosuhteissa vaarantaa ihmisten turvallisuutta tai terveyttä tai saattaa aiheuttaa vaaraa ympäristölle ja omaisuudelle. Väliaikainen kielto on voimassa kunnes asia lopullisesti ratkaistaan 42 §:n 1 momentin 2 kohdan nojalla. Valvontaviranomaisen on toimittava asiassa kiireellisesti.",
+      "section_number": "43",
+      "chapter_number": 5,
+      "statute_id": "263/1953"
+    },
+    {
+      "id": "216e9121-0799-495e-991e-44d30fcc0470",
+      "node_type": "Section",
+      "publisher": "finlex",
+      "title": "44 § Tiedottamisesta määrääminen",
+      "text": "Jos Turvallisuus- ja kemikaalivirasto on antanut 42 §:ssä tarkoitetun määräyksen tai kiellon taikka pyrotekniseen tuotteeseen tai sen käyttämiseen liittyy vaara ihmisten terveydelle tai yleiselle turvallisuudelle, Turvallisuus- ja kemikaalivirasto voi velvoittaa toiminnanharjoittajan tiedottamaan asiasta määräajassa julkisesti ja määräämällään tavalla. Lisäksi Turvallisuus- ja kemikaalivirasto voi käyttäjien turvallisuuden varmistamiseksi velvoittaa toiminnanharjoittajan toimittamaan loppukäyttäjille tarpeelliset tiedot ja ohjeet. Turvallisuus- ja kemikaalivirasto voi toiminnanharjoittajan kustannuksella tiedottaa 1 momentissa tarkoitetuista asioista, jos toiminnanharjoittaja ei ole noudattanut viranomaisen antamaa tiedottamismääräystä tai jos asian kiireellisyyden vuoksi tiedottaminen on tarpeen ihmisten terveyteen tai yleiseen turvallisuuteen kohdistuvan vaaran johdosta.",
+      "section_number": "44",
+      "chapter_number": 5,
+      "statute_id": "263/1953"
+    },
+    {
+      "id": "a2154e31-0533-4f0a-b0f9-9d9799c74e70",
+      "node_type": "Section",
+      "publisher": "finlex",
+      "title": "45 § Uhkasakko ja teettämisuhka",
+      "text": "Valvontaviranomainen voi tehostaa tämän lain nojalla antamaansa kieltoa tai määräystä uhkasakolla tai uhalla, että tekemättä jätetty toimenpide teetetään laiminlyöjän kustannuksella.",
+      "section_number": "45",
+      "chapter_number": 6,
+      "statute_id": "263/1953"
+    },
+    {
+      "id": "eb80b361-6051-4771-b98b-eefd797cfe9d",
+      "node_type": "Section",
+      "publisher": "finlex",
+      "title": "46 § Rangaistussäännökset",
+      "text": "Rangaistus räjähderikoksesta säädetään rikoslain 44 luvun 11 §:ssä. Joka tahallaan tai huolimattomuudesta rikkoo tämän lain 5 §:ssä säädettyä velvollisuutta, 7—12 §:ssä säädettyjä valmistajan velvollisuuksia, 13 §:ssä säädettyjä maahantuojan velvollisuuksia, 14 §:ssä säädettyjä jakelijan velvollisuuksia tai 42—44 §:n nojalla annettua kieltoa tai määräystä, on tuomittava, jollei teosta muualla laissa säädetä ankarampaa rangaistusta,pyroteknisiä tuotteita koskevien säännösten rikkomisestasakkoon.",
+      "section_number": "46",
+      "chapter_number": 6,
+      "statute_id": "263/1953"
+    },
+    {
+      "id": "d6331a05-aad3-40c7-acf6-cecf69f70d86",
+      "node_type": "Section",
+      "publisher": "finlex",
+      "title": "47 § Muutoksenhaku",
+      "text": "Viranomaisen tämän lain nojalla antamaan päätökseen haetaan muutosta siten kuin hallintolainkäyttölaissa (586/1996) säädetään. Sen estämättä, mitä 1 momentissa säädetään, valvontaviranomaisen määräämään 43 §:ssä tarkoitettuun väliaikaiseen kieltoon ei saa erikseen hakea muutosta valittamalla. Valvontaviranomaisen päätöstä on muutoksenhausta huolimatta noudatettava, jollei valitusviranomainen toisin määrää.",
+      "section_number": "47",
+      "chapter_number": 6,
+      "statute_id": "263/1953"
+    },
+    {
+      "id": "69e724cd-ae6e-425d-b51c-1025b83aad8c",
+      "node_type": "Section",
+      "publisher": "finlex",
+      "title": "48 § Oikaisuvaatimus",
+      "text": "Ilmoitetun laitoksen vaatimustenmukaisuustodistusta koskevaan päätökseen saa vaatia oikaisua päätöksen tehneeltä laitokselta siten kuin hallintolaissa säädetään. Päätökseen on liitettävä oikaisuvaatimusohjeet. Ilmoitetun laitoksen oikaisuvaatimuksen johdosta antamaan päätökseen haetaan muutosta valittamalla hallinto-oikeuteen siten kuin hallintolainkäyttölaissa säädetään.",
+      "section_number": "48",
+      "chapter_number": 6,
+      "statute_id": "263/1953"
+    },
+    {
+      "id": "3df51376-aebe-4e9d-be97-c4ef1cf597e3",
+      "node_type": "Section",
+      "publisher": "finlex",
+      "title": "49 § Voimaantulo",
+      "text": "Tämä laki tulee voimaan 1 päivänä heinäkuuta 2015. Lain 10 § tulee kuitenkin voimaan vasta 17 päivänä lokakuuta 2016.",
+      "section_number": "49",
+      "chapter_number": 6,
+      "statute_id": "263/1953"
+    },
+    {
+      "id": "5e73f157-3dba-4280-a39b-af74e20fde39",
+      "node_type": "Section",
+      "publisher": "finlex",
+      "title": "50 § Siirtymäsäännös",
+      "text": "Ennen tämän lain voimaantuloa markkinoille saatetut pyrotekniset tuotteet, joiden vaatimustenmukaisuus on varmistettu tämän lain voimaan tullessa voimassa olleiden säännösten mukaisesti, saavat olla markkinoilla tämän lain voimaan tullessa. Näihin tuotteisiin liittyvät todistukset vaatimustenmukaisuudesta jäävät edelleen voimaan.",
+      "section_number": "50",
+      "chapter_number": 6,
+      "statute_id": "263/1953"
+    }
+  ],
+  "clauses": [
+    {
+      "id": "dce1d3dc-b388-4ef7-abb4-43ab5593ade2",
+      "node_type": "Clause",
+      "publisher": "finlex",
+      "title": "§ 2 mom 1",
+      "text": "1) pyroteknisiin tuotteisiin, jotka on tarkoitettu puolustusvoimien, rajavartiolaitoksen, pelastuslaitoksen tai poliisin käyttöön;",
+      "clause_number": 1,
+      "section_number": "2",
+      "statute_id": "263/1953"
+    },
+    {
+      "id": "e8376f42-829b-490b-9b48-8b93bf1b3f47",
+      "node_type": "Clause",
+      "publisher": "finlex",
+      "title": "§ 2 mom 2",
+      "text": "2) räjähteisiin, joihin sovelletaan räjähdysvaarallisista aineista annetun lain (263/1953) nojalla annettuja räjähteiden vaatimustenmukaisuuden toteamisesta annettuja säännöksiä;",
+      "clause_number": 2,
+      "section_number": "2",
+      "statute_id": "263/1953"
+    },
+    {
+      "id": "5aff8f38-bcad-4308-8d63-a9a272661d25",
+      "node_type": "Clause",
+      "publisher": "finlex",
+      "title": "§ 2 mom 3",
+      "text": "3) varusteisiin, joihin sovelletaan laivavarustelakia (1503/2011);",
+      "clause_number": 3,
+      "section_number": "2",
+      "statute_id": "263/1953"
+    },
+    {
+      "id": "a9ad8496-d54f-4feb-80df-292a26281451",
+      "node_type": "Clause",
+      "publisher": "finlex",
+      "title": "§ 2 mom 4",
+      "text": "4) nalleihin, joihin sovelletaan lelujen turvallisuudesta annettua lakia (1154/2011);",
+      "clause_number": 4,
+      "section_number": "2",
+      "statute_id": "263/1953"
+    },
+    {
+      "id": "3fb070b3-4b95-42fe-9173-e790a578f417",
+      "node_type": "Clause",
+      "publisher": "finlex",
+      "title": "§ 2 mom 5",
+      "text": "5) ampumatarvikkeisiin, joilla tarkoitetaan kannettavissa ampuma-aseissa, muissa ampuma-aseissa ja tykistöaseissa käytettäviä ammuksia, ajopanoksia ja paukkupanoksia;",
+      "clause_number": 5,
+      "section_number": "2",
+      "statute_id": "263/1953"
+    },
+    {
+      "id": "b7dc4e68-ce37-44be-9b90-d074a7204c70",
+      "node_type": "Clause",
+      "publisher": "finlex",
+      "title": "§ 2 mom 6",
+      "text": "6) ilmailu- ja avaruusteollisuudessa käytettäviksi tarkoitettuihin pyroteknisiin tuotteisiin.",
+      "clause_number": 6,
+      "section_number": "2",
+      "statute_id": "263/1953"
+    },
+    {
+      "id": "e7afdffc-8f1e-4912-8382-4bfb8178fc1c",
+      "node_type": "Clause",
+      "publisher": "finlex",
+      "title": "§ 13 mom 1",
+      "text": "1) valmistaja on suorittanut 8 §:ssä tarkoitetun vaatimustenmukaisuuden arvioinnin;",
+      "clause_number": 1,
+      "section_number": "13",
+      "statute_id": "263/1953"
+    },
+    {
+      "id": "76fb9f8c-2391-4400-833c-0d11c70a3b24",
+      "node_type": "Clause",
+      "publisher": "finlex",
+      "title": "§ 13 mom 2",
+      "text": "2) valmistaja on laatinut tekniset asiakirjat;",
+      "clause_number": 2,
+      "section_number": "13",
+      "statute_id": "263/1953"
+    },
+    {
+      "id": "95a8f7f3-e9a6-42fe-b28c-8fdb8817c0eb",
+      "node_type": "Clause",
+      "publisher": "finlex",
+      "title": "§ 13 mom 3",
+      "text": "3) pyrotekniseen tuotteeseen on kiinnitetty CE-merkintä;",
+      "clause_number": 3,
+      "section_number": "13",
+      "statute_id": "263/1953"
+    },
+    {
+      "id": "d60f8eac-07f2-4117-9402-687f9e99a486",
+      "node_type": "Clause",
+      "publisher": "finlex",
+      "title": "§ 13 mom 4",
+      "text": "4) tuotteen mukana on vaaditut asiakirjat;",
+      "clause_number": 4,
+      "section_number": "13",
+      "statute_id": "263/1953"
+    },
+    {
+      "id": "86db7e33-d46c-425d-b864-f512ffa05cbe",
+      "node_type": "Clause",
+      "publisher": "finlex",
+      "title": "§ 13 mom 5",
+      "text": "5) tuotteessa on vaaditut merkinnät ja tiedot;",
+      "clause_number": 5,
+      "section_number": "13",
+      "statute_id": "263/1953"
+    },
+    {
+      "id": "11d3f0a1-3b07-4fb8-92b2-0dd3f0fe76da",
+      "node_type": "Clause",
+      "publisher": "finlex",
+      "title": "§ 13 mom 6",
+      "text": "6) tuotteeseen liitetään ohjeet ja turvallisuustiedot suomeksi ja ruotsiksi.",
+      "clause_number": 6,
+      "section_number": "13",
+      "statute_id": "263/1953"
+    },
+    {
+      "id": "ca104cf0-5b9b-4274-b443-40f2a70ae6fa",
+      "node_type": "Clause",
+      "publisher": "finlex",
+      "title": "§ 19 mom 1",
+      "text": "1) laitoksen on oltava Suomessa rekisteröity oikeushenkilö;",
+      "clause_number": 1,
+      "section_number": "19",
+      "statute_id": "263/1953"
+    },
+    {
+      "id": "c57f148b-ac81-41c6-bad9-6a4e7c9eb4ba",
+      "node_type": "Clause",
+      "publisher": "finlex",
+      "title": "§ 19 mom 2",
+      "text": "2) laitoksen on oltava arvioimastaan organisaatiosta ja pyroteknisestä tuotteesta riippumaton ulkopuolinen asiantuntijataho;",
+      "clause_number": 2,
+      "section_number": "19",
+      "statute_id": "263/1953"
+    },
+    {
+      "id": "5755d931-b039-4aa1-b79a-5ddcebb37b1c",
+      "node_type": "Clause",
+      "publisher": "finlex",
+      "title": "§ 19 mom 3",
+      "text": "3) laitos, sen ylin johto ja vaatimusten arviointitehtävistä vastaava henkilöstö eivät saa olla arvioimiensa pyroteknisten tuotteiden tai räjähtävien aineiden suunnittelija, valmistaja, toimittaja, asentaja, ostaja, omistaja, käyttäjä tai ylläpitäjä eikä minkään tällaisen osapuolen valtuutettu edustaja; tämä ei kuitenkaan koske sellaisten pyroteknisten tuotteiden tai räjähtävien aineiden käyttöä, jotka ovat vaatimustenmukaisuuden arviointilaitoksen toimien kannalta tarpeellisia, taikka pyroteknisten tuotteiden käyttöä henkilökohtaisiin tarkoituksiin;",
+      "clause_number": 3,
+      "section_number": "19",
+      "statute_id": "263/1953"
+    },
+    {
+      "id": "e523b715-c8d1-4612-a417-5a00918f8365",
+      "node_type": "Clause",
+      "publisher": "finlex",
+      "title": "§ 19 mom 4",
+      "text": "4) laitoksella ja sen henkilöstöllä on oltava kyseisellä erityisalalla vaadittava tekninen pätevyys;",
+      "clause_number": 4,
+      "section_number": "19",
+      "statute_id": "263/1953"
+    },
+    {
+      "id": "edb80f9d-1333-4c19-baf2-a7d7b50e7729",
+      "node_type": "Clause",
+      "publisher": "finlex",
+      "title": "§ 19 mom 5",
+      "text": "5) laitoksen on kyettävä suorittamaan kaikki vaatimustenmukaisuuden arviointitehtävät, jotka tällaiselle laitokselle on osoitettu ja joita varten se on ilmoitettu, riippumatta siitä, suorittaako laitos kyseiset tehtävät itse vai suoritetaanko ne sen puolesta ja sen vastuulla.",
+      "clause_number": 5,
+      "section_number": "19",
+      "statute_id": "263/1953"
+    },
+    {
+      "id": "d62cd2fe-8619-4840-a2b8-d5df685d9da6",
+      "node_type": "Clause",
+      "publisher": "finlex",
+      "title": "§ 20 mom 1",
+      "text": "1) riittävä henkilöstö, jolla on tekninen tietämys sekä riittävä ja soveltuva kokemus vaatimustenmukaisuuden arviointitehtävien suorittamiseksi;",
+      "clause_number": 1,
+      "section_number": "20",
+      "statute_id": "263/1953"
+    },
+    {
+      "id": "9b679dc1-11e7-443b-973e-e74e7b83e16d",
+      "node_type": "Clause",
+      "publisher": "finlex",
+      "title": "§ 20 mom 2",
+      "text": "2) kuvaukset menettelyistä, joiden mukaisesti vaatimustenmukaisuuden arviointi suoritetaan siten, että varmistetaan menettelyn avoimuus ja toistettavuus;",
+      "clause_number": 2,
+      "section_number": "20",
+      "statute_id": "263/1953"
+    },
+    {
+      "id": "f85a266e-9f9b-4585-b167-d0a35bc58ca3",
+      "node_type": "Clause",
+      "publisher": "finlex",
+      "title": "§ 20 mom 3",
+      "text": "3) asianmukaiset toimintalinjat ja menettelyt, joiden perusteella ilmoitettuna laitoksena suoritetut vaatimustenmukaisuuden arviointitehtävät erotetaan laitoksen muista toiminnoista;",
+      "clause_number": 3,
+      "section_number": "20",
+      "statute_id": "263/1953"
+    },
+    {
+      "id": "c2543712-5b93-4a05-b174-8daeaa16be64",
+      "node_type": "Clause",
+      "publisher": "finlex",
+      "title": "§ 20 mom 4",
+      "text": "4) menettelyt, joiden mukaisesti se hoitaa tehtäviään siten, että yritysten koko, toimiala ja rakenne, pyroteknisissä tuotteissa käytettävän teknologian monimutkaisuus sekä se, onko kyse massa- tai sarjatuotannosta, otetaan asianmukaisesti huomioon.",
+      "clause_number": 4,
+      "section_number": "20",
+      "statute_id": "263/1953"
+    },
+    {
+      "id": "f7771928-3637-4194-a992-202d3f576255",
+      "node_type": "Clause",
+      "publisher": "finlex",
+      "title": "§ 21 mom 1",
+      "text": "1) vankka tekninen ja ammatillinen koulutus, joka kattaa vaatimustenmukaisuuden arvioinnin sillä alalla, jolle ilmoitettu laitos on ilmoitettu;",
+      "clause_number": 1,
+      "section_number": "21",
+      "statute_id": "263/1953"
+    },
+    {
+      "id": "37033ac8-76dd-4173-ab61-f2d8000a9925",
+      "node_type": "Clause",
+      "publisher": "finlex",
+      "title": "§ 21 mom 2",
+      "text": "2) riittävät tiedot arviointeja koskevista vaatimuksista ja riittävät valtuudet tällaisiin arviointeihin;",
+      "clause_number": 2,
+      "section_number": "21",
+      "statute_id": "263/1953"
+    },
+    {
+      "id": "c2351426-66a5-4dd5-a42a-130aeeb0effa",
+      "node_type": "Clause",
+      "publisher": "finlex",
+      "title": "§ 21 mom 3",
+      "text": "3) asianmukaiset tiedot ja ymmärrys olennaisista vaatimuksista, sovellettavista yhdenmukaistetuista standardeista ja asiaankuuluvista Euroopan unionin lainsäädännön säännöksistä ja toimeenpanosäännöistä;",
+      "clause_number": 3,
+      "section_number": "21",
+      "statute_id": "263/1953"
+    },
+    {
+      "id": "e6dde9df-f526-4b83-8985-7619f8641975",
+      "node_type": "Clause",
+      "publisher": "finlex",
+      "title": "§ 21 mom 4",
+      "text": "4) kyky laatia todistuksia, asiakirjoja ja selostuksia, joilla osoitetaan, että arvioinnit on suoritettu.",
+      "clause_number": 4,
+      "section_number": "21",
+      "statute_id": "263/1953"
+    },
+    {
+      "id": "efddbe3f-cc16-4574-8ea4-8f22d04de6bd",
+      "node_type": "Clause",
+      "publisher": "finlex",
+      "title": "§ 31 mom 1",
+      "text": "1) 28 §:ssä tarkoitetun todistuksen epääminen tai rajoittaminen taikka peruuttaminen väliaikaisesti tai pysyvästi;",
+      "clause_number": 1,
+      "section_number": "31",
+      "statute_id": "263/1953"
+    },
+    {
+      "id": "dbd36874-1514-4502-87e3-95fef6ccb031",
+      "node_type": "Clause",
+      "publisher": "finlex",
+      "title": "§ 31 mom 2",
+      "text": "2) muutokset, jotka vaikuttavat ilmoitetun laitoksen pätevyyteen vaatimustenmukaisuuden arviointitoiminnassa;",
+      "clause_number": 2,
+      "section_number": "31",
+      "statute_id": "263/1953"
+    },
+    {
+      "id": "a0c3d55b-196b-4930-8cd0-774d207e4fc9",
+      "node_type": "Clause",
+      "publisher": "finlex",
+      "title": "§ 31 mom 3",
+      "text": "3) vaatimustenmukaisuuden arviointitoimia koskevat tietopyynnöt, jotka laitos on saanut tämän lain noudattamisen valvonnasta vastaavalta valvontaviranomaiselta;",
+      "clause_number": 3,
+      "section_number": "31",
+      "statute_id": "263/1953"
+    },
+    {
+      "id": "4304ac7e-2cc4-424f-9ccc-900f8bb413f3",
+      "node_type": "Clause",
+      "publisher": "finlex",
+      "title": "§ 31 mom 4",
+      "text": "4) pyynnöstä vaatimustenmukaisuuden arviointitoimet, jotka on suoritettu ilmoitetun laitoksen toimialalla ja mahdollisesti suoritetut muut toimet, mukaan luettuna rajat ylittävät toimet ja alihankinta.",
+      "clause_number": 4,
+      "section_number": "31",
+      "statute_id": "263/1953"
+    },
+    {
+      "id": "393d647f-d06b-4caa-b1da-9dbf268b0119",
+      "node_type": "Clause",
+      "publisher": "finlex",
+      "title": "§ 36 mom 1",
+      "text": "1) kaikista toiminnanharjoittajista, jotka ovat toimittaneet sille pyroteknisen tuotteen;",
+      "clause_number": 1,
+      "section_number": "36",
+      "statute_id": "263/1953"
+    },
+    {
+      "id": "4571cc50-f03c-41e9-b9c7-9e1ba3f82dd0",
+      "node_type": "Clause",
+      "publisher": "finlex",
+      "title": "§ 36 mom 2",
+      "text": "2) kaikista toiminnanharjoittajista, joille se on toimittanut pyroteknisen tuotteen.",
+      "clause_number": 2,
+      "section_number": "36",
+      "statute_id": "263/1953"
+    },
+    {
+      "id": "d5c6a07c-1720-401c-bde0-46ceb2023bca",
+      "node_type": "Clause",
+      "publisher": "finlex",
+      "title": "§ 39 mom 1",
+      "text": "1) syyttäjälle syyteharkintaa varten ja esitutkintaviranomaiselle rikoksen ehkäisemiseksi tai selvittämiseksi;",
+      "clause_number": 1,
+      "section_number": "39",
+      "statute_id": "263/1953"
+    },
+    {
+      "id": "553a4d89-5a3d-43cf-ab7c-55639289c617",
+      "node_type": "Clause",
+      "publisher": "finlex",
+      "title": "§ 39 mom 2",
+      "text": "2) Tullille sekä pelastusviranomaiselle, ympäristönsuojelu- ja kuluttajansuojaviranomaiselle, jos tiedon luovuttaminen on viranomaisen tehtävien suorittamisen kannalta välttämätöntä;",
+      "clause_number": 2,
+      "section_number": "39",
+      "statute_id": "263/1953"
+    },
+    {
+      "id": "abc1d4d4-4e40-41d1-b28e-eaa44ed0f9f4",
+      "node_type": "Clause",
+      "publisher": "finlex",
+      "title": "§ 39 mom 3",
+      "text": "3) toimivaltaiselle ulkomaan viranomaiselle ja kansainväliselle toimielimelle Euroopan unionin säädökseen tai Suomea sitovaan kansainväliseen sopimukseen perustuvan velvoitteen toteuttamiseksi.",
+      "clause_number": 3,
+      "section_number": "39",
+      "statute_id": "263/1953"
+    },
+    {
+      "id": "6c2d8ee4-7e38-4883-92a2-7b7f24f6b95e",
+      "node_type": "Clause",
+      "publisher": "finlex",
+      "title": "§ 42 mom 1",
+      "text": "1) määrätä toiminnanharjoittajan ryhtymään korjaaviin toimenpiteisiin markkinoille saatetun tuotteen, tuotteen merkintöjen tai tuotetta koskevien asiakirjojen ja tietojen saattamiseksi tämän lain vaatimusten mukaisiksi;",
+      "clause_number": 1,
+      "section_number": "42",
+      "statute_id": "263/1953"
+    },
+    {
+      "id": "f030b7b3-cf01-4ebe-b619-767e924091dc",
+      "node_type": "Clause",
+      "publisher": "finlex",
+      "title": "§ 42 mom 2",
+      "text": "2) kieltää toiminnanharjoittajaa pysyvästi valmistamasta, saattamasta markkinoille, asettamasta saataville markkinoilla tai muuten luovuttamasta tuotetta, jos tuotteessa tai sen tiedoissa ilmenee olennaisia puutteita sekä määrätä poistamaan tuote markkinoilta;",
+      "clause_number": 2,
+      "section_number": "42",
+      "statute_id": "263/1953"
+    },
+    {
+      "id": "d2455f11-ca26-4df7-bbaa-586668c0c27a",
+      "node_type": "Clause",
+      "publisher": "finlex",
+      "title": "§ 42 mom 3",
+      "text": "3) määrätä toiminnanharjoittajan ottamaan takaisin loppukäyttäjältä tuote, joka aiheuttaa vakavan riskin ihmisten terveydelle tai turvallisuudelle taikka ympäristölle sekä antamaan sen tilalle vastaava vaatimustenmukainen tuote tai samankaltainen tuote, joka ei ole vaarallinen, taikka purkamaan kauppa, jos 1 kohdassa tarkoitettu määräys tai 2 kohdassa tarkoitettu kielto tai määräys ei ole riittävä;",
+      "clause_number": 3,
+      "section_number": "42",
+      "statute_id": "263/1953"
+    },
+    {
+      "id": "e94bfc93-ee3b-4053-af0f-d9e27daed73f",
+      "node_type": "Clause",
+      "publisher": "finlex",
+      "title": "§ 42 mom 4",
+      "text": "4) määrätä, jos 1—3 kohdassa tarkoitettuja toimenpiteitä ei voida pitää riittävinä, toiminnanharjoittajan hallussa olevan pyroteknisen tuotteen taikka toiminnanharjoittajalle palautetun pyroteknisen tuotteen hävitettäväksi tai, jollei tätä katsota tarkoituksenmukaiseksi, määrätä, miten pyroteknisen tuotteen suhteen muutoin on meneteltävä.",
+      "clause_number": 4,
+      "section_number": "42",
+      "statute_id": "263/1953"
+    }
+  ],
+  "cross_references": [],
+  "raw_html_path": "C:\\Users\\danit\\finance-hack\\aalto-hackaton-2026\\data\\raw\\finlex\\Laki (säädöskokoelma)\\Laki pyroteknisten tuotteiden vaatimustenmukaisuudesta.html"
+}
