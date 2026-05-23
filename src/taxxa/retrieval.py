@@ -28,13 +28,14 @@ from .schema import RetrievedPassage
 class EmbeddingModel:
     """Thin wrapper around sentence-transformers or OpenAI-compatible embeddings.
 
-    Default: bge-m3 via sentence-transformers (local, multilingual, handles Finnish).
+    Default: all-MiniLM-L6-v2 — 384-dim, ~80 MB, fast on CPU, English/Finnish OK.
+    Larger option: BAAI/bge-m3 — 1024-dim, ~2 GB, slow on CPU but better quality.
     Fallback: OpenAI-compatible API (OpenRouter or local Ollama).
     """
 
     def __init__(
         self,
-        model_name: str = "BAAI/bge-m3",
+        model_name: str = "all-MiniLM-L6-v2",
         use_api: bool = False,
         api_base: str = "http://localhost:11434/v1",
         api_key: str = "ollama",
@@ -48,20 +49,30 @@ class EmbeddingModel:
         if not use_api:
             try:
                 from sentence_transformers import SentenceTransformer
-                self._model = SentenceTransformer(model_name)
+                print(f"[INFO] Loading embedding model: {model_name} (this may take a moment first time)...")
+                self._model = SentenceTransformer(model_name, device="cpu")
+                print(f"[INFO] Model loaded on CPU. Dim={self._model.get_sentence_embedding_dimension()}")
             except ImportError:
                 print("[WARN] sentence-transformers not installed, falling back to API")
                 self.use_api = True
 
-    def embed(self, texts: list[str]) -> list[list[float]]:
-        """Embed a batch of texts, return list of float vectors."""
+    def embed(self, texts: list[str], batch_size: int = 64) -> list[list[float]]:
+        """Embed a batch of texts, return list of float vectors.
+
+        Uses small batches to avoid memory spikes on CPU.
+        """
         if self._model and not self.use_api:
-            embeddings = self._model.encode(texts, normalize_embeddings=True)
+            embeddings = self._model.encode(
+                texts,
+                normalize_embeddings=True,
+                batch_size=batch_size,
+                show_progress_bar=True,
+                convert_to_numpy=True,
+            )
             return embeddings.tolist()
 
         # OpenAI-compatible API path
         import httpx
-        import json
 
         embeddings = []
         for text in texts:
@@ -79,7 +90,7 @@ class EmbeddingModel:
                 embeddings.append(data["data"][0]["embedding"])
             else:
                 # Zero vector as fallback
-                embeddings.append([0.0] * 1024)
+                embeddings.append([0.0] * 384)
 
         return embeddings
 
@@ -121,10 +132,11 @@ class EmbeddingStore:
             metadata={"hnsw:space": "cosine"},
         )
 
-    def add_nodes(self, nodes: list[dict]) -> None:
+    def add_nodes(self, nodes: list[dict], max_text_len: int = 512) -> None:
         """Add nodes to the vector store.
 
         Each node dict should have: id, text, title, section_number, statute_id, node_type.
+        Text is truncated to ``max_text_len`` chars to keep embeddings fast on CPU.
         """
         if not nodes:
             return
@@ -141,8 +153,10 @@ class EmbeddingStore:
             text = node.get("text", "") or node.get("title", "")
             if not text.strip():
                 continue
+            # Truncate long text for efficient CPU embedding
+            truncated = text[:max_text_len]
             ids.append(node["id"])
-            documents.append(text)
+            documents.append(truncated)
             metadatas.append({
                 "title": node.get("title", ""),
                 "section_number": node.get("section_number", ""),
@@ -150,10 +164,11 @@ class EmbeddingStore:
                 "node_type": node.get("node_type", ""),
                 "publisher": node.get("publisher", ""),
             })
-            texts_to_embed.append(text)
+            texts_to_embed.append(truncated)
             node_indices.append(i)
 
         if texts_to_embed:
+            print(f"[INFO] Embedding {len(texts_to_embed)} nodes with {self.embedding_model.model_name}...")
             embeddings = self.embedding_model.embed(texts_to_embed)
 
         if ids:
