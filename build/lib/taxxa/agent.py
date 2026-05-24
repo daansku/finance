@@ -49,7 +49,6 @@ class LLMClient:
 
     def generate(self, messages: list[dict], json_mode: bool = False) -> str:
         """Send a chat completion request and return the text response."""
-        import time
         import httpx
 
         payload = {
@@ -60,38 +59,25 @@ class LLMClient:
         if json_mode:
             payload["response_format"] = {"type": "json_object"}
 
-        max_retries = 5
-        for attempt in range(max_retries):
-            try:
-                response = httpx.post(
-                    f"{self.api_base}/chat/completions",
-                    json=payload,
-                    headers={
-                        "Authorization": f"Bearer {self.api_key}",
-                        "Content-Type": "application/json",
-                    },
-                    timeout=120,
-                )
-                if response.status_code == 200:
-                    data = response.json()
-                    return data["choices"][0]["message"]["content"]
-                elif response.status_code == 429:
-                    wait = min(2 ** attempt, 30)
-                    print(f"  [LLM RATE LIMIT] retrying in {wait}s (attempt {attempt+1}/{max_retries})...")
-                    time.sleep(wait)
-                    continue
-                else:
-                    print(f"  [LLM ERROR] status={response.status_code}: {response.text[:200]}")
-                    return ""
-            except Exception as e:
-                if attempt < max_retries - 1:
-                    wait = min(2 ** attempt, 15)
-                    print(f"  [LLM ERROR] {e}, retrying in {wait}s...")
-                    time.sleep(wait)
-                else:
-                    print(f"  [LLM ERROR] {e}")
-                    return ""
-        return ""
+        try:
+            response = httpx.post(
+                f"{self.api_base}/chat/completions",
+                json=payload,
+                headers={
+                    "Authorization": f"Bearer {self.api_key}",
+                    "Content-Type": "application/json",
+                },
+                timeout=120,
+            )
+            if response.status_code == 200:
+                data = response.json()
+                return data["choices"][0]["message"]["content"]
+            else:
+                print(f"  [LLM ERROR] status={response.status_code}: {response.text[:200]}")
+                return ""
+        except Exception as e:
+            print(f"  [LLM ERROR] {e}")
+            return ""
 
     def generate_structured(self, messages: list[dict], schema: dict) -> Optional[dict]:
         """Generate a structured JSON response matching the given schema."""
@@ -123,13 +109,12 @@ class LLMClient:
 # ---------------------------------------------------------------------------
 
 
-class AgentState(TypedDict, total=False):
+class AgentState(TypedDict):
     """State carried through the agent graph."""
 
     question_id: str
     question: str
     tier: str
-    finnish_question: str
     sub_questions: list[dict]
     current_sub_idx: int
     retrieved_passages: list[dict]
@@ -220,48 +205,27 @@ class TaxxaAgent:
     # ------------------------------------------------------------------
 
     def _decompose(self, state: AgentState) -> AgentState:
-        """Translate the question to Finnish and break into sub-questions."""
+        """Break the question into sub-questions using structured LLM output."""
         question = state["question"]
         tier = state.get("tier", "")
 
-        # Step 1: Translate the question to Finnish for better retrieval
-        translate_prompt = f"""Translate the following tax/legal question into Finnish (suomeksi).
-Use precise Finnish legal and tax terminology. Return ONLY the Finnish translation, no other text.
-
-English question: {question}
-
-Finnish translation:"""
-
-        finnish_question = self.llm.generate(
-            [{"role": "user", "content": translate_prompt}]
-        ).strip()
-
-        if not finnish_question:
-            finnish_question = question  # fallback to original
-
-        state["finnish_question"] = finnish_question
-
-        # Step 2: Break the Finnish question into sub-questions
-        prompt = f"""You are a Finnish tax law expert. Break the following Finnish-language question
-into sub-questions, each targeting a specific fact that needs to be retrieved.
-Consider:
+        prompt = f"""You are a Finnish tax law expert. Break the following question into sub-questions,
+each targeting a specific fact that needs to be retrieved. Consider:
 - Rates and thresholds
 - Effective dates and temporal scope
 - Conditions and exceptions
 - Cross-references between statutes and guidance
 
-Write all sub-question texts in FINNISH (suomeksi), using precise Finnish legal terminology.
-
-Question: {finnish_question}
+Question: {question}
 Difficulty tier: {tier}
 
 Return a JSON object with a 'sub_questions' array. Each sub-question has:
-- text: the sub-question string (IN FINNISH)
-- reasoning: why this sub-question is needed (in English)
+- text: the sub-question string
+- reasoning: why this sub-question is needed
 - priority: 1 (critical), 2 (important), or 3 (nice-to-have)
 
 Example format:
-{{"sub_questions": [{{"text": "Mikä on pääomatuloveroprosentti yli 30 000 euron pääomatuloille?", "reasoning": "Need to find the rate threshold", "priority": 1}}]}}
+{{"sub_questions": [{{"text": "What is the capital income tax rate above 30 000 euros?", "reasoning": "Need to find the rate threshold", "priority": 1}}]}}
 """
 
         schema = {
@@ -279,8 +243,8 @@ Example format:
         if result and "sub_questions" in result:
             sub_questions = result["sub_questions"]
         else:
-            # Fallback: use the Finnish question as one sub-question
-            sub_questions = [{"text": finnish_question, "reasoning": "Direct question", "priority": 1}]
+            # Fallback: treat the whole question as one sub-question
+            sub_questions = [{"text": question, "reasoning": "Direct question", "priority": 1}]
 
         state["sub_questions"] = sub_questions
         state["current_sub_idx"] = 0

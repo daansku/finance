@@ -50,9 +50,7 @@ class FactEvaluator:
         if self._model is None:
             try:
                 from sentence_transformers import SentenceTransformer
-                import os
-                model_name = os.environ.get("TAXXA_EMBED_MODEL", "BAAI/bge-m3")
-                self._model = SentenceTransformer(model_name)
+                self._model = SentenceTransformer("BAAI/bge-m3")
             except ImportError:
                 print("[WARN] sentence-transformers not available, using exact matching")
                 self._model = None
@@ -232,9 +230,6 @@ class EvalRunner:
 
             status = "✓ PASS" if passed else "✗ FAIL"
             print(f"  {status} | sim={similarity:.3f} | covered={len(covered)}/{len(key_facts) if key_facts else 1} | cited={citations_present}")
-            print(f"  Generated: {agent_answer.answer[:300]}")
-            if len(agent_answer.answer) > 300:
-                print(f"  ... (truncated, total {len(agent_answer.answer)} chars)")
 
         return results
 

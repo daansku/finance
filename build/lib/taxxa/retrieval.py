@@ -14,56 +14,10 @@ import os
 from pathlib import Path
 from typing import Any, Optional, Callable
 
-# Load .env file before reading any env vars
-try:
-    from dotenv import load_dotenv
-    _repo_root = Path(__file__).resolve().parent.parent.parent
-    _env_path = _repo_root / ".env"
-    if _env_path.exists():
-        load_dotenv(_env_path)
-except ImportError:
-    pass
-
-# Limit CPU threads to prevent overheating on consumer hardware.
-# Set TAXXA_NUM_THREADS env var to override (default: 4).
-_num_threads = os.environ.get("TAXXA_NUM_THREADS", "4")
-os.environ.setdefault("OMP_NUM_THREADS", _num_threads)
-os.environ.setdefault("MKL_NUM_THREADS", _num_threads)
-os.environ.setdefault("OPENBLAS_NUM_THREADS", _num_threads)
-os.environ.setdefault("NUMEXPR_NUM_THREADS", _num_threads)
-
-# Also limit PyTorch threads if torch is available
-try:
-    import torch
-    torch.set_num_threads(int(_num_threads))
-    # Prevent torch from spawning too many interop threads
-    torch.set_num_interop_threads(min(int(_num_threads), 2))
-except ImportError:
-    pass
-
 import chromadb
 from chromadb.config import Settings as ChromaSettings
 
 from .schema import RetrievedPassage
-
-
-# ---------------------------------------------------------------------------
-# GPU detection helper
-# ---------------------------------------------------------------------------
-
-def _get_device() -> str:
-    """Detect the best available device.
-
-    Respects TAXXA_DEVICE env var (cpu, cuda, mps).
-    Defaults to 'cpu' to avoid GPU overheating on laptops/consumer hardware.
-    Set TAXXA_DEVICE=cuda or TAXXA_DEVICE=mps to opt into GPU acceleration.
-    """
-    env_device = os.environ.get("TAXXA_DEVICE", "").strip().lower()
-    if env_device in ("cpu", "cuda", "mps"):
-        return env_device
-
-    # No explicit override: default to CPU for safety
-    return "cpu"
 
 
 # ---------------------------------------------------------------------------
@@ -76,94 +30,55 @@ class EmbeddingModel:
 
     Default: bge-m3 via sentence-transformers (local, multilingual, handles Finnish).
     Fallback: OpenAI-compatible API (OpenRouter or local Ollama).
-
-    Set TAXXA_USE_API_EMBED=1 to force API mode (avoids loading large local models).
     """
 
     def __init__(
         self,
-        model_name: str | None = None,
+        model_name: str = "BAAI/bge-m3",
         use_api: bool = False,
         api_base: str = "http://localhost:11434/v1",
         api_key: str = "ollama",
-        device: str | None = None,
     ):
-        # Respect TAXXA_USE_API_EMBED env var to avoid local model loading
-        if os.environ.get("TAXXA_USE_API_EMBED", "").strip() == "1":
-            use_api = True
-            api_base = os.environ.get("TAXXA_EMBED_API_BASE", api_base)
-            model_name = os.environ.get("TAXXA_EMBED_MODEL", "nomic-embed-text")
-            # Use the LLM API key for embeddings too if no separate embed key
-            api_key = os.environ.get("TAXXA_EMBED_API_KEY") or os.environ.get("TAXXA_LLM_API_KEY") or os.environ.get("OPENROUTER_API_KEY", api_key)
-
-        self.model_name = model_name or os.environ.get("TAXXA_EMBED_MODEL", "BAAI/bge-m3")
+        self.model_name = model_name
         self.use_api = use_api
         self._model = None
         self._api_base = api_base
         self._api_key = api_key
-        self._device = device or _get_device()
 
         if not use_api:
             try:
                 from sentence_transformers import SentenceTransformer
-                print(f"[EmbeddingModel] Loading {self.model_name} on {self._device} ...")
-                self._model = SentenceTransformer(self.model_name, device=self._device)
+                self._model = SentenceTransformer(model_name)
             except ImportError:
                 print("[WARN] sentence-transformers not installed, falling back to API")
                 self.use_api = True
-        else:
-            print(f"[EmbeddingModel] Using API: {self.model_name} @ {self._api_base}")
 
     def embed(self, texts: list[str]) -> list[list[float]]:
         """Embed a batch of texts, return list of float vectors."""
         if self._model and not self.use_api:
-            embeddings = self._model.encode(
-                texts,
-                normalize_embeddings=True,
-                show_progress_bar=True,
-                batch_size=64,
-            )
+            embeddings = self._model.encode(texts, normalize_embeddings=True)
             return embeddings.tolist()
 
-        # OpenAI-compatible API path (supports batched input)
+        # OpenAI-compatible API path
         import httpx
+        import json
 
-        # Send all texts in one batch request if the API supports it
-        try:
+        embeddings = []
+        for text in texts:
             response = httpx.post(
                 f"{self._api_base}/embeddings",
                 json={
                     "model": self.model_name,
-                    "input": texts,
+                    "input": text,
                 },
                 headers={"Authorization": f"Bearer {self._api_key}"},
-                timeout=120,
+                timeout=30,
             )
             if response.status_code == 200:
                 data = response.json()
-                return [item["embedding"] for item in data["data"]]
-        except Exception:
-            pass
-
-        # Fallback: one-by-one
-        embeddings = []
-        for text in texts:
-            try:
-                response = httpx.post(
-                    f"{self._api_base}/embeddings",
-                    json={
-                        "model": self.model_name,
-                        "input": text,
-                    },
-                    headers={"Authorization": f"Bearer {self._api_key}"},
-                    timeout=30,
-                )
-                if response.status_code == 200:
-                    data = response.json()
-                    embeddings.append(data["data"][0]["embedding"])
-                else:
-                    embeddings.append([0.0] * 1024)
-            except Exception:
+                embeddings.append(data["data"][0]["embedding"])
+            else:
+                # Zero vector as fallback
                 embeddings.append([0.0] * 1024)
 
         return embeddings
@@ -206,56 +121,48 @@ class EmbeddingStore:
             metadata={"hnsw:space": "cosine"},
         )
 
-    def add_nodes(self, nodes: list[dict], chunk_size: int = 2000) -> None:
-        """Add nodes to the vector store in chunks to avoid OOM.
+    def add_nodes(self, nodes: list[dict]) -> None:
+        """Add nodes to the vector store.
 
         Each node dict should have: id, text, title, section_number, statute_id, node_type.
         """
         if not nodes:
             return
 
-        # Filter out nodes with empty text
-        valid_nodes = []
-        for node in nodes:
+        ids = []
+        documents = []
+        metadatas = []
+        embeddings = []
+
+        texts_to_embed = []
+        node_indices = []
+
+        for i, node in enumerate(nodes):
             text = node.get("text", "") or node.get("title", "")
-            if text.strip():
-                valid_nodes.append(node)
+            if not text.strip():
+                continue
+            ids.append(node["id"])
+            documents.append(text)
+            metadatas.append({
+                "title": node.get("title", ""),
+                "section_number": node.get("section_number", ""),
+                "statute_id": node.get("statute_id", ""),
+                "node_type": node.get("node_type", ""),
+                "publisher": node.get("publisher", ""),
+            })
+            texts_to_embed.append(text)
+            node_indices.append(i)
 
-        total = len(valid_nodes)
-        print(f"  Embedding {total} nodes in chunks of {chunk_size} ...")
-
-        for chunk_start in range(0, total, chunk_size):
-            chunk_end = min(chunk_start + chunk_size, total)
-            chunk = valid_nodes[chunk_start:chunk_end]
-
-            ids = []
-            documents = []
-            metadatas = []
-            texts_to_embed = []
-
-            for node in chunk:
-                text = node.get("text", "") or node.get("title", "")
-                ids.append(node["id"])
-                documents.append(text)
-                metadatas.append({
-                    "title": node.get("title", ""),
-                    "section_number": node.get("section_number", ""),
-                    "statute_id": node.get("statute_id", ""),
-                    "node_type": node.get("node_type", ""),
-                    "publisher": node.get("publisher", ""),
-                })
-                texts_to_embed.append(text)
-
+        if texts_to_embed:
             embeddings = self.embedding_model.embed(texts_to_embed)
 
+        if ids:
             self.collection.add(
                 ids=ids,
                 documents=documents,
                 metadatas=metadatas,
-                embeddings=embeddings,
+                embeddings=embeddings if embeddings else None,
             )
-
-            print(f"  Chunk {chunk_start // chunk_size + 1}: {chunk_start}-{chunk_end} / {total}")
 
     def search(
         self,
@@ -427,20 +334,17 @@ class Reranker:
         use_api: bool = False,
         api_base: str = None,
         api_key: str = None,
-        device: str | None = None,
     ):
         self.model_name = model_name
         self.use_api = use_api
         self._model = None
         self._api_base = api_base
         self._api_key = api_key
-        self._device = device or _get_device()
 
         if not use_api:
             try:
                 from sentence_transformers import CrossEncoder
-                print(f"[Reranker] Loading {model_name} on {self._device} ...")
-                self._model = CrossEncoder(model_name, device=self._device)
+                self._model = CrossEncoder(model_name)
             except ImportError:
                 print("[WARN] CrossEncoder not available, using score-based reranking")
                 self.use_api = True
@@ -457,7 +361,7 @@ class Reranker:
 
         if self._model and not self.use_api:
             pairs = [(query, p.text) for p in passages]
-            scores = self._model.predict(pairs, show_progress_bar=False)
+            scores = self._model.predict(pairs)
             for i, passage in enumerate(passages):
                 passage.score = float(scores[i])
         elif self.use_api and self._api_base:

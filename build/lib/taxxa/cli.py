@@ -12,18 +12,8 @@ from __future__ import annotations
 
 import argparse
 import json
-import os
 import sys
 from pathlib import Path
-
-# Load .env file before reading any env vars
-try:
-    from dotenv import load_dotenv
-    _env_path = Path(__file__).resolve().parent.parent.parent / ".env"
-    if _env_path.exists():
-        load_dotenv(_env_path)
-except ImportError:
-    pass
 
 # Default paths relative to the repo root
 REPO_ROOT = Path(__file__).resolve().parent.parent.parent
@@ -119,10 +109,10 @@ def cmd_load(args: argparse.Namespace) -> int:
         collection_name=args.collection,
     )
 
-    # Add all nodes to vector store (use small chunks to avoid OOM)
+    # Add all nodes to vector store
     all_nodes = list(graph._nodes.values())
     if all_nodes:
-        embedding_store.add_nodes(all_nodes, chunk_size=100)
+        embedding_store.add_nodes(all_nodes)
         print(f"  Vector index: {len(all_nodes)} nodes embedded")
 
     print("Done. Graph + vector index ready.")
@@ -136,7 +126,6 @@ def cmd_load(args: argparse.Namespace) -> int:
 
 def cmd_query(args: argparse.Namespace) -> int:
     """Interactive query loop using the TaxxaAgent."""
-    import os
     from .graph import InMemoryGraph
     from .retrieval import EmbeddingStore, GraphRetriever, HybridRetriever
     from .parser import load_document_trees
@@ -159,20 +148,17 @@ def cmd_query(args: argparse.Namespace) -> int:
         graph.ingest_document_tree(tree)
     print(f"  Graph: {len(graph._nodes)} nodes, {len(graph._edges)} edges")
 
-    # Load vector store (skip re-indexing if ChromaDB already has data)
+    # Load vector store
     print("Loading vector index ...")
     embedding_store = EmbeddingStore(
         persist_dir=args.chromadb_path,
         collection_name=args.collection,
     )
 
-    existing_count = embedding_store.count()
-    if existing_count > 0:
-        print(f"  Vector index already has {existing_count} nodes, skipping re-indexing.")
-    else:
-        all_nodes = list(graph._nodes.values())
-        if all_nodes:
-            embedding_store.add_nodes(all_nodes, chunk_size=100)
+    # Index nodes into vector store
+    all_nodes = list(graph._nodes.values())
+    if all_nodes:
+        embedding_store.add_nodes(all_nodes)
 
     # Build retriever
     graph_retriever = GraphRetriever(embedding_store)
@@ -181,17 +167,13 @@ def cmd_query(args: argparse.Namespace) -> int:
         graph_retriever=graph_retriever,
     )
 
-    # Build LLM client — prefer .env over defaults
-    model = os.environ.get("TAXXA_LLM_MODEL", args.model)
-    api_base = os.environ.get("TAXXA_LLM_API_BASE", args.api_base)
-    api_key = os.environ.get("OPENROUTER_API_KEY") or os.environ.get("TAXXA_LLM_API_KEY", args.api_key)
-
+    # Build LLM client
     llm = LLMClient(
-        model=model,
-        api_base=api_base,
-        api_key=api_key,
+        model=args.model,
+        api_base=args.api_base,
+        api_key=args.api_key,
     )
-    print(f"  LLM: {model} @ {api_base}")
+    print(f"  LLM: {args.model} @ {args.api_base}")
 
     # Build agent
     agent = TaxxaAgent(llm=llm, retriever=retriever)
@@ -279,20 +261,17 @@ def cmd_eval(args: argparse.Namespace) -> int:
         graph.ingest_document_tree(tree)
     print(f"  Graph: {len(graph._nodes)} nodes, {len(graph._edges)} edges")
 
-    # Load vector store (skip re-indexing if ChromaDB already has data)
+    # Load vector store
     print("Loading vector index ...")
     embedding_store = EmbeddingStore(
         persist_dir=args.chromadb_path,
         collection_name=args.collection,
     )
 
-    existing_count = embedding_store.count()
-    if existing_count > 0:
-        print(f"  Vector index already has {existing_count} nodes, skipping re-indexing.")
-    else:
-        all_nodes = list(graph._nodes.values())
-        if all_nodes:
-            embedding_store.add_nodes(all_nodes, chunk_size=100)
+    # Index nodes into vector store
+    all_nodes = list(graph._nodes.values())
+    if all_nodes:
+        embedding_store.add_nodes(all_nodes)
 
     # Build retriever + agent
     graph_retriever = GraphRetriever(embedding_store)
@@ -300,18 +279,11 @@ def cmd_eval(args: argparse.Namespace) -> int:
         embedding_store=embedding_store,
         graph_retriever=graph_retriever,
     )
-
-    # LLM config — prefer .env over defaults
-    model = os.environ.get("TAXXA_LLM_MODEL", args.model)
-    api_base = os.environ.get("TAXXA_LLM_API_BASE", args.api_base)
-    api_key = os.environ.get("OPENROUTER_API_KEY") or os.environ.get("TAXXA_LLM_API_KEY", args.api_key)
-
     llm = LLMClient(
-        model=model,
-        api_base=api_base,
-        api_key=api_key,
+        model=args.model,
+        api_base=args.api_base,
+        api_key=args.api_key,
     )
-    print(f"  LLM: {model} @ {api_base}")
     agent = TaxxaAgent(llm=llm, retriever=retriever)
 
     # Run evaluation
