@@ -74,7 +74,8 @@ def _get_device() -> str:
 class EmbeddingModel:
     """Thin wrapper around sentence-transformers or OpenAI-compatible embeddings.
 
-    Default: bge-m3 via sentence-transformers (local, multilingual, handles Finnish).
+    Default: all-MiniLM-L6-v2 — 384-dim, ~80 MB, fast on CPU, English/Finnish OK.
+    Larger option: BAAI/bge-m3 — 1024-dim, ~2 GB, slow on CPU but better quality.
     Fallback: OpenAI-compatible API (OpenRouter or local Ollama).
 
     Set TAXXA_USE_API_EMBED=1 to force API mode (avoids loading large local models).
@@ -210,6 +211,7 @@ class EmbeddingStore:
         """Add nodes to the vector store in chunks to avoid OOM.
 
         Each node dict should have: id, text, title, section_number, statute_id, node_type.
+        Text is truncated to ``max_text_len`` chars to keep embeddings fast on CPU.
         """
         if not nodes:
             return
